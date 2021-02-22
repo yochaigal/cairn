@@ -2,7 +2,8 @@
 
 **Cairn** is an adventure game for one facilitator (the **Warden**) and at least one other player.
 Players act as hardened adventurers exploring a dark &amp; mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities.
-Licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). See the repo [here](http://yochaigal.github.io/cairn).
+Licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
+See the repo [here](http://yochaigal.github.io/cairn).
 
 ## Overview
 
