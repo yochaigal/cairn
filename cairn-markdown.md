@@ -874,11 +874,11 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 | 58   | Ooze Form         | You become a living jelly.                                   |
 | 59   | Pacify            | A creature near you has an aversion to violence.             |
 | 60   | Phobia            | A nearby creature becomes terrified of an object of your choice. |
-| 61   | Pit               | A pit ft wide and ft deep opens in the ground .              |
+| 61   | Pit               | A pit ft wide and ft deep opens in the ground.              |
 | 62   | Primal Surge      | A creature rapidly evolves into a future version of its species. |
 | 63   | Push/Pull         | An object of any size is pulled directly towards you or pushed directly away from you with the strength of one man. |
 | 64   | Raise Dead        | A skeleton rises from the ground to serve you They are incredibly stupid and can only obey simple orders. |
-| 65   | Raise Spirit      | The spirit of a nearby corpse manifests and will answer question. |
+| 65   | Raise Spirit      | The spirit of a nearby corpse manifests and will answer 1 question. |
 | 66   | Read Mind         | You can hear the surface thoughts of nearby creatures.       |
 | 67   | Repel             | Two objects are strongly magnetically repelled from each other within feet. |
 | 68   | Scry              | You can see through the eyes of a creature you touched earlier today. |
