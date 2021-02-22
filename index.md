@@ -442,10 +442,10 @@ If you would like something closer to traditional classes, refer to the list of 
 ||     |
 |--------------------------------------------------------------|-----|
 |Shield (+1 Armor)   |10   |
-|Helmet(+1 Armor)    |10   |
-|Gambeson(1 Armor)   |15   |
-|Brigandine(1 Armor, bulky)  |20   |
-|Chainmail(2 Armor, bulky)   |40   |
+|Helmet (+1 Armor)    |10   |
+|Gambeson (1 Armor)   |15   |
+|Brigandine (1 Armor, bulky)  |20   |
+|Chainmail (2 Armor, bulky)   |40   |
 |Plate (3 Armor, bulky)      |60   |
 
 #### Weapons
@@ -456,7 +456,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |Spear, Sword, Mace, Axe,  Flail, etc. (d8 damage)             |10   |
 |Halberd, War Hammer, Long  Sword , etc. (d10 damage, bulky)   |20   |
 |Sling (d4  damage)                                            |5    |
-|Bow  (d6  damage,bulky)                                       |20   |
+|Bow  (d6  damage, bulky)                                       |20   |
 |Crossbow (d8  damage, bulky)                                  |30   |
 
 #### Gear & Tools
@@ -499,7 +499,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |Dowser|
 |-----------------------------------------|
 |Sickle (d6)                              |
-|Patchwork doublet (+1  Armor)            |
+|Patchwork Doublet (+1  Armor)            |
 |Dowsing Rod                              |
 |Eyestone (Sense if placed in fresh water)|
 |Worn Map                                 |
@@ -508,14 +508,16 @@ If you would like something closer to traditional classes, refer to the list of 
 |Dwarf|
 |-----------------------------------------|
 |Prickly Root (d6)                        |
-|Pinecone Lattice (1 Armor) Trowel        |
+|Pinecone Lattice (1 Armor)        |
+|Trowel |
 |Jar of Forest Ants                       |
 |Poisonous mushroom                       |
 |Hand Drill                               |
 
 |Elf|
 |-----------------------------------------|
-|Elegant Sword (d8) Recurve Bow (d8)      |
+|Elegant Sword (d8)      |
+|Recurve Bow (d8) |
 |Gilt Clothing (1 Armor)                  |
 |Spellbook (Charm or Detect               |
 |Golden Flute                             |
@@ -523,8 +525,8 @@ If you would like something closer to traditional classes, refer to the list of 
 
 |Fighter|
 |-----------------------------------------|
-|Glaive (d10, bulky) Scimitar (d8)      |
-|Shortsword (d6)                        |
+|Glaive (d10, bulky)      |
+| Scimitar (d8)        |
 |Shortsword (d6)                        |
 |Tobacco Pouch & Pipe                   |
 |Dice Set                               |
@@ -533,7 +535,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |-----------------------------------------|
 |Scepter (d6)                    |
 |Deceptive Robes (+1 Armor)      |
-|Censer &  Holy  Water           |
+|Censer & Holy  Water           |
 |Jug of Honey Wine               |
 |Folk Songbook                   |
 |Cart (+4  slots, bulky)         |
@@ -553,7 +555,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |Dagger (d6)  |
 |Spellbook (random spell)                 |
 |Spellbook (random spell)                 |
-|Ragged clothing (hidden pockets)         |
+|Ragged Clothing (hidden pockets)         |
 |Leycap (x2, see Relics)         |
 
 |Thief|
@@ -571,7 +573,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |Hatchet (d6)                    |
 |Padded Leathers (1  Armor)      |
 |Large Trap                      |
-|Bloodhound &#124; 2 HP, 12  DEX |
+|Bloodhound &#124; 2 HP, 12  DEX, bite (d6) |
 |Thundering Horn                 |
 
 <p></p>
@@ -611,9 +613,7 @@ Shields, gauntlets, and helms may provide additional benefits according to their
 
 **NPCs**
 
-**Reactions**
-
-When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll 2d6 and consult the following table:
+**Reactions**When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll 2d6 and consult the following table:
 
 |    2    | 3-5  |   6-8   | 9-11 | 12      |
 | :-----: | :--: | :-----: | :--: | ------- |
@@ -804,8 +804,8 @@ Ability Scores: 3 is deficient, 6 is weak, 10 is average, 14 is noteworthy, and 
 Some pointers:  
 - Is it good at avoiding a hit? Give it HP.
 - Does it soak up damage? Give it Armor.
-- Is it strong? Give it a high STR.
-- Is it nimble? Give it high DEX.
+- Is it strong? Give it a high **STR**.
+- Is it nimble? Give it high **DEX**.
 - Is it charismatic? Give it high WIL.
 
 Damage die are roughly the same, though armed attacks do at least 1d6 damage.
@@ -915,9 +915,9 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 | 99   | Wizard Mark Your finger can shoot a stream of ulfire-colored paint This paint is only visible to you and can be seen at any distance, even through solid objects. |
 | 100  | X-Ray Vision You can see through walls, dirt, clothing, etc. |
 
-## Rules Summary
-
 <p></p>
+
+## Rules Summary
 
 **ACTIONS**
 
@@ -944,7 +944,7 @@ PCs have 10 inventory slots: four on their body and six in their backpack (which
 Filling all ten item slots reduces a PC to 0 HP. PCs cannot carry more than their inventory allows, though carts &amp; horses may provide an increase in slots.
 
 **DEPRIVATION**  
-**Deprived** PCs cannot recover HP.If deprived for more than a day,they add a **Fatigue** to inventory.Fatigue occupies one slot and lasts until they can recover insafety.This effect is cumulative.
+**Deprived** PCs cannot recover HP.If deprived for more than a day,they add a **Fatigue** to inventory. Fatigue occupies one slot and lasts until they can recover in safety. This effect is cumulative.
 
 **HEALING**  
 A moment&#39;s rest and a swig of water will restore lost HP, but may leave the party vulnerable. **Ability** loss requires a week&#39;s rest and the aid of a skilled healer.
@@ -952,7 +952,7 @@ A moment&#39;s rest and a swig of water will restore lost HP, but may leave the 
 **SPELLBOOKS**
 Spellbooks contain a single spell and take up one item slot. Anyone can cast a spell by holding a Spellbook in_both hands_and reading its contents aloud. Casting a spell adds **Fatigue** to the PC&#39;s inventory.
 
-Given time and safety,PCs can_enhance_a spell without any additional cost. If they are_deprived_or in danger, a WIL save may be required to avoid terrible consequences.
+Given time and safety, PCs can_enhance_a spell without any additional cost. If they are_deprived_or in danger, a WIL save may be required to avoid terrible consequences.
 
 **COMBAT**  
 The attacker rolls their weapon die and subtracts the target&#39;s Armor, then deals the remaining total to their opponent&#39;s HP.
@@ -961,8 +961,7 @@ Before calculating damage to HP, subtract the target&#39;s **Armor** value from 
 
 No one can have more than 3 Armor.
 
-**Unarmed** attacks always do 1d4 damage.If **multiple attackers** target the
-same foe, roll all damaged ice and keep the single highest result. If attacking with **two weapons** at the same time, roll both damage dice and keep the highest.
+**Unarmed** attacks always do 1d4 damage. If **multiple attackers** target the same foe, roll all damaged ice and keep the single highest result. If attacking with **two weapons** at the same time, roll both damage dice and keep the highest.
 
 If an attack is **impaired** , the damage die is reduced to 1d4, regardless of weapon. If the attack is **enhanced** , the attacker rolls 1d12. Attacks with the **blast** quality affect all area targets, rolling separately for each.
 

@@ -1,7 +1,7 @@
 
 
-**Cairn** is an adventure game for one facilitator (the **Warden**) and at least one other player. 
-Players act as hardened adventurers exploring a dark &amp; mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities. 
+**Cairn** is an adventure game for one facilitator (the **Warden**) and at least one other player.
+Players act as hardened adventurers exploring a dark &amp; mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities.
 Licensed under CC-BY-SA 4.0.
 
 ## Overview
@@ -321,8 +321,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |7     |Oddball    |
 |8     |Repulsive  |
 |9     |Respected  |
-|10 |Wise |
-<p></p>
+|10    |Wise       |
 
 #### Misfortunes
 
@@ -462,64 +461,36 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Gear & Tools
 
-| |     |
-|------------------------|-----|
-|Air  Bladder            |5    |
-|Bellows                 |10   |
-|Bedroll                 |5    |
-|Book                    |50   |
-|Bucket                  |5    |
-|Caltrops                |10   |
-|Cart (+4  slots, bulky) |30   |
-|Chain (10ft)            |10   |
-|Chalk                   |1    |
-|Chisel                  |5    |
-|Cook Pots               |10   |
-|Crowbar                 |10   |
-|Drill  (Manual)         |10   |
-|Face  Paint             |10   |
-|Fire Oil                |10   |
-|Fishing Rod             |10   |
-|Glass Marbles           |5    |
-|Glue                    |5    |
-|Grease                  |10   |
-|Grappling Hook          |25   |
-|Hammer                  |5    |
-|Holy  Water             |25   |
-|Horn                    |10   |
-|Horse (+4  slots)       |75   |
-|Hourglass               |50   |
-|Incense                 |10   |
-|Ladder (bulky,  10ft)   |10   |
-|Lantern &  Oil          |10   |
-|Large Trap              |20   |
-|Large Sponge            |5    |
-|Lens                    |10   |
-|Lockpicks               |25   |
-|Manacles                |10   |
-|Metal File              |5    |
-|Mirror                  |5    |
-|Mule (+6  slots, slow)  |30   |
-|Net                     |10   |
-|Oilskin Bag             |5    |
-|Pick                    |10   |
-|Pulley                  |10   |
-|Pole (10ft)             |5    |
-|Quill  &  Ink           |10   |
-|Rations (three day's worth)     |10   |
-|Rope (25ft)             |5    |
-|Saw                     |5    |
-|Sack                    |5    |
-|Shovel                  |5    |
-|Soap                    |1    |
-|Spike                   |1    |
-|Spiked Boots            |5    |
-|Spyglass                |40   |
-|Tar                     |10   |
-|Tent (fits 2  people, bulky)  |20   |
-|Torch                   |1    |
-|Wagon (+8  slots, slow) |200  |
-|Wolfsbane               |10   |
+|                                             |                |                   |          |
+|---------------------------------------------|----------------|-------------------|----------|
+|Air Bladder                                  |5               |Large Trap         |20        |
+|Bellows                                      |10              |Large Sponge       |5         |
+|Bedroll                                      |5               |Lens               |10        |
+|Book                                         |50              |Lockpicks          |25        |
+|Bucket                                       |5               |Manacles           |10        |
+|Caltrops                                     |10              |Metal File         |5         |
+|Cart (+4 slots, bulky)                       |30              |Mirror             |5         |
+|Chain (10ft)                                 |10              |Mule (+6 slots, slow)|30        |
+|Chalk                                        |1               |Net                |10        |
+|Chisel                                       |5               |Oilskin Bag        |5         |
+|Cook Pots                                    |10              |Pick               |10        |
+|Crowbar                                      |10              |Pulley             |10        |
+|Drill (Manual)                               |10              |Pole (10ft)        |5         |
+|Face Paint                                   |10              |Quill & Ink        |10        |
+|Fire Oil                                     |10              |Rations (three day's worth)|10        |
+|Fishing Rod                                  |10              |Rope (25ft)        |5         |
+|Glass Marbles                                |5               |Saw                |5         |
+|Glue                                         |5               |Sack               |5         |
+|Grease                                       |10              |Shovel             |5         |
+|Grappling Hook                               |25              |Soap               |1         |
+|Hammer                                       |5               |Spike              |1         |
+|Holy Water                                   |25              |Spiked Boots       |5         |
+|Horn                                         |10              |Spyglass           |40        |
+|Horse (+4 slots)                             |75              |Tar                |10        |
+|Hourglass                                    |50              |Tent (fits 2 people, bulky)|20        |
+|Incense                                      |10              |Torch              |1         |
+|Ladder (bulky, 10ft)                         |10              |Wagon (+8 slots, slow)|200       |
+|Lantern & Oil                                |10              |Wolfsbane          |10        |
 
 <p></p>
 
