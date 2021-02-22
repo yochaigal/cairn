@@ -1,7 +1,7 @@
 
 
-**Cairn** is an adventure game for one facilitator (the **Warden**) and at least one other player. 
-Players act as hardened adventurers exploring a dark &amp; mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities. 
+**Cairn** is an adventure game for one facilitator (the **Warden**) and at least one other player.
+Players act as hardened adventurers exploring a dark &amp; mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities.
 Licensed under CC-BY-SA 4.0.
 
 ## Overview
@@ -321,8 +321,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |7     |Oddball    |
 |8     |Repulsive  |
 |9     |Respected  |
-|10 |Wise |
-<p></p>
+|10    |Wise       |
 
 #### Misfortunes
 
