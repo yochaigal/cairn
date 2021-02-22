@@ -201,6 +201,10 @@ GEM
       gemoji (~> 3.0)
       html-pipeline (~> 2.2)
       jekyll (>= 3.0, < 5.0)
+    just-the-docs (0.3.3)
+      jekyll (>= 3.8.5)
+      jekyll-seo-tag (~> 2.0)
+      rake (>= 12.3.1, < 13.1.0)
     kramdown (2.3.0)
       rexml
     kramdown-parser-gfm (1.1.0)
@@ -231,6 +235,7 @@ GEM
       rack
     rack-test (1.1.0)
       rack (>= 1.0, < 3)
+    rake (13.0.3)
     rb-fsevent (0.10.4)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
@@ -282,6 +287,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-admin
+  just-the-docs
 
 BUNDLED WITH
    2.2.11
