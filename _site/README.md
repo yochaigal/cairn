@@ -1,6 +1,8 @@
 
+
+
 The PDF version is free on [Itch](https://yochaigal.itch.io/cairn)
-[Here](https://yochaigal.github.io/cairn-markdown/) is the markdown version.
+[Here](https://yochaigal.github.io/cairn/cairn-markdown/) is the markdown version.
 
 A print version is now available. Pick it up at Floating Chair  & Spear Witch (US), Monkey's Paw Games (CA), and Glaucus (AUS).
 
