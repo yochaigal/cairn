@@ -2,7 +2,7 @@
 
 **Cairn** is an adventure game for one facilitator (the **Warden**) and at least one other player.
 Players act as hardened adventurers exploring a dark &amp; mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities.
-Licensed under CC-BY-SA 4.0.
+Licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). 
 
 ## Overview
 
@@ -144,9 +144,9 @@ If you would like something closer to traditional classes, refer to the list of 
 
 ## Name &amp; Background (d20)
 
-#### Female Names
+#### 
 
-|||||||||
+||Female Names|||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
 |1     | Agune     |6          |Drelil     |11        |Lirann   |16    |Sybil     |
 |2     | Beatrice  |7          |Elgile     |12        |Lirathil |17    |Theune    |
@@ -154,9 +154,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |4     | Bronwyn   |9          |Griya      |14        |Moralil  |19    |Ygwal     |
 |5     | Cannora   |10         |Henaine    |15        |Morgwen  |20    |Yslen     |
 
-#### Male Names
-
-|||||||||
+||Male Names|||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
 |1           |Arwel     |6          |Breglor    |11        |Grinwit  |16    |Melnax    |
 |2           |Bevan     |7          |Canhoreal  |12        |Gruwid   |17    |Orthax    |
@@ -164,9 +162,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |4           |Borrid    |9          |Ethex      |14        |Gwestin  |19    |Wenlan    |
 |5           |Breagle   |10         |Gringle    |15        |Mannog   |20    |Yirmeor   |
 
-#### Surnames
-
-|||||||||
+||Surnames|||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
 |1           |Abernathy |6          |Crumwaller |11        |Harper   |16    |Swinney   |
 |2           |Addercap  |7          |Dunswallow |12        |Loomer   |17    |Thatcher  |
@@ -174,9 +170,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |4           |Candlewick|9          |Glass      |14        |Smythe   |19    |Weaver    |
 |5           |Cormick   |10         |Harkness   |15        |Sunderman|20    |Wolder    |
 
-#### Background
-
-|||||||||
+||Background|||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
 |1           |Alchemist |6          |Cleric     |11        |Magician |16    |Performer |
 |2           |Blacksmith|7          |Gambler    |12        |Mercenary|17    |Pickpocket|
@@ -188,9 +182,7 @@ If you would like something closer to traditional classes, refer to the list of 
 
 ## Character Traits (d10)
 
-#### Physique
-
-|||
+|Physique||
 |------|-----------|
 |1      | Athletic |
 |2      | Brawny   |
@@ -203,9 +195,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |9      |Stout    |
 |10     |Towering |
 
-#### Skin
-
-|||
+|Skin||
 |------|-----------|
 |1     |Birthmark |
 |2     |Dark      |
@@ -218,9 +208,7 @@ If you would like something closer to traditional classes, refer to the list of 
 | 9     |Tattooed   |
 | 10    |Weathered  |
 
-#### Hair
-
-| | |
+| Hair | |
 |------|-----------|
 |1     |Bald       |
 |2     |Braided    |
@@ -233,9 +221,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |9     |Wavy       |
 |10    |Wispy      |
 
-#### Face
-
-| | |
+| Face | |
 |------|-----------|
 |1     |Bony       |
 |2     |Broken     |
@@ -248,9 +234,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |9     |Square     |
 |10    |Sunken     |
 
-#### Speech
-
-| | |
+| Speech | |
 |------|-----------|
 |1     |Blunt      |
 |2     |Booming    |
@@ -263,9 +247,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |9     |Stuttering |
 |10    |Whispery   |
 
-#### Clothing
-
-| | |
+| Clothing | |
 |------|-----------|
 |1     |Antique    |
 |2     |Bloody     |
@@ -278,9 +260,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |9     |Rancid     |
 |10    |Soiled     |
 
-#### Virtue
-
-| | |
+| Virtue | |
 |------|-----------|
 |1     |Ambitious  |
 |2     |Cautious   |
@@ -293,9 +273,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |9     |Serene     |
 |10    |Tolerant   |
 
-#### Vice
-
-| | |
+| Vice | |
 |------|-----------|
 |1     |Aggressive |
 |2     |Bitter     |
@@ -308,9 +286,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |9     |Vain       |
 |10    |Vengeful   |
 
-#### Reputation
-
-| | |
+| Reputation | |
 |------|-----------|
 |1     |Ambitious  |
 |2     |Boor       |
@@ -323,9 +299,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |9     |Respected  |
 |10    |Wise       |
 
-#### Misfortunes
-
-| | |
+| Misfortunes | |
 |------------|---------|
 |1     |Abandoned  |
 |2     |Addicted   |
@@ -343,59 +317,46 @@ If you would like something closer to traditional classes, refer to the list of 
 
 ## Starting Gear (d20)
 
-
-#### Armor
-
-||||
+|Armor|||
 |:----:|:----:|:----:|
-|1-3                  |4-14          |15-19          |20         |
-|None                 |Brigandine    |Chainmail      |Plate      |
+|1-3                  |4-14          |15-19          |
+|None                 |Brigandine    |Chainmail      |
 
-#### Helmets and Shields
-
-||||
+|Helmets and Shields|||
 |:----:|:----:|:----:|
-|1-13                 |14-16      |17-19     |20                |
-|None                 |Helmet   |  Shield    |  Helmet & Shield |
+|1-13                 |14-16      |17-19     |
+|None                 |Helmet   |  Shield    |
 
-#### Weapons
-
-|                       |                  |                          |                                |
+|        Weapons        |                  |                          |                                |
 | :-------------------: | :--------------: | :----------------------: | :----------------------------: |
 |          1-5          |       6-14       |          15-19           |               20               |
 | Dagger, Cudgel, Staff | Sword, Mace, Axe | Longbow, Crossbow, Sling | Halberd, War Hammer, Battleaxe |
 
-#### Expeditionary Gear
-
-|||||
+||Expeditionary Gear|||
 |------|-----------|------|-----------|
-|1  |Air Bladder|6  |Fire Oil   |11 |Manacles    |16 |Rope (25ft)|
-|2  |Antitoxin  |7  |Grappling Hook |12 |Pick        |17 |Spirit Ward|
-|3  |Cart (+4 slots, bulky) |8  |Large Sack |13 |Pole (10ft) |18 |Spyglass   |
-|4  |Chain (10ft) |9  |Large Trap |14 |Pulley      |19 |Tinderbox  |
-|5  |Dowsing Rod|10 |Lockpicks  |15 |Repellent   |20 |Wolfsbane  |
+|1  |Air Bladder|6  |Fire Oil   |
+|2  |Antitoxin  |7  |Grappling Hook |
+|3  |Cart (+4 slots, bulky) |8  |Large Sack |
+|4  |Chain (10ft) |9  |Large Trap |
+|5  |Dowsing Rod|10 |Lockpicks  |
 
-#### Tools
-
-|||||
+||Tools|||
 |------|-----------|------|-----------|
-|1  |Bellows    |6  |Cook Pots  |11 |Grease      |16 |Net        |
-|2  |Bucket     |7  |Crowbar    |12 |Hammer      |17 |Saw        |
-|3  |Caltrops   |8  |Drill (Manual)|13 |Hourglass   |18 |Sealant    |
-|4  |Chalk      |9  |FishingRod |14 |Metal File  |19 |Shovel     |
-|5  |Chisel     |10 |Glue       |15 |Nails       |20 |Tongs      |
+|1  |Bellows    |6  |Cook Pots  |
+|2  |Bucket     |7  |Crowbar    |
+|3  |Caltrops   |8  |Drill (Manual)|
+|4  |Chalk      |9  |FishingRod |
+|5  |Chisel     |10 |Glue       |
 
-#### Trinkets
-
-|||||
+||Trinkets|||
 |------|-----------|------|-----------|
-|1  |Bottle     |6  |Horn       |11 |Mirror      |16 |Soap       |
-|2  |Card Deck  |7  |Incense    |12 |Perfume     |17 |Sponge     |
-|3  |Dice Set   |8  |Instrument |13 |Quill &  Ink|18 |Tar Pot    |
-|4  |Face Paint |9  |Lens       |14 |Salt Pack   |19 |Twine      |
-|5  |Fake Jewels|10 |Marbles    |15 |Small Bell  |20 |Whistle    |
+|1  |Bottle     |6  |Horn       |
+|2  |Card Deck  |7  |Incense    |
+|3  |Dice Set   |8  |Instrument |
+|4  |Face Paint |9  |Lens       |
+|5  |Fake Jewels|10 |Marbles    |
 
-#### Bonus Item (roll on table indicated)
+#### 																		Bonus Item (roll on table indicated)
 
 |1-5     |6-13  |14-17    | 18-20 |
 |:----:|:----:|:----:|:----:|
@@ -403,7 +364,7 @@ If you would like something closer to traditional classes, refer to the list of 
 
 <p></p>
 
-## Spellbooks (d100)
+#### 																						Spellbooks (d100)
 
 |||||||||
 |---|-----------------|---|----------------|---|---------------|---|---------------|
@@ -437,9 +398,7 @@ If you would like something closer to traditional classes, refer to the list of 
 
 
 ## Equipment List (Prices in Gold Pieces)  
-#### Armor
-
-||     |
+|Armor|     |
 |--------------------------------------------------------------|-----|
 |Shield (+1 Armor)   |10   |
 |Helmet (+1 Armor)    |10   |
@@ -448,9 +407,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |Chainmail (2 Armor, bulky)   |40   |
 |Plate (3 Armor, bulky)      |60   |
 
-#### Weapons
-
-|  |     |
+| Weapons |     |
 |--------------------------------------------------------------|-----|
 |Dagger, Cudgel, Sickle,  Staff, etc. (d6  damage)             |5    |
 |Spear, Sword, Mace, Axe,  Flail, etc. (d8 damage)             |10   |
@@ -459,9 +416,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |Bow  (d6  damage, bulky)                                       |20   |
 |Crossbow (d8  damage, bulky)                                  |30   |
 
-#### Gear & Tools
-
-|                                             |                |                   |          |
+| Gear & Tools |                |                   |          |
 |---------------------------------------------|----------------|-------------------|----------|
 |Air Bladder                                  |5               |Large Trap         |20        |
 |Bellows                                      |10              |Large Sponge       |5         |
@@ -611,9 +566,11 @@ Before calculating damage to HP, subtract the target&#39;s **Armor** value from 
 No one can have more than 3 Armor.  
 Shields, gauntlets, and helms may provide additional benefits according to their use.
 
-**NPCs**
+#### **NPCs**
 
-**Reactions**When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll 2d6 and consult the following table:
+**Reactions**
+
+When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll 2d6 and consult the following table:
 
 |    2    | 3-5  |   6-8   | 9-11 | 12      |
 | :-----: | :--: | :-----: | :--: | ------- |
@@ -729,7 +686,7 @@ Running away from a dire situation always requires a successful DEX save, as wel
 When an attack reduces a PC&#39;s HP to exactly 0, they are uniquely impacted. Look up the result on the table below based on the total damage taken:
 
 |      |                                                              |
-|------ |---|------------------------------------------------------------- |
+|------ |---|
 | 1    | Lasting Scar: Roll 1d6 &#124; 1: Neck, 2: Hands, 3: Eye, 4: Chest, 5: Legs, 6: Ear. Roll 1d6. If the total is higher than your max HP, take the new result. |
 | 2    | Rattling Blow: You’re disoriented and shaken. Describe how you refocus. Roll 1d6. If the total is higher than your max HP, take the new result. |
 | 3    | Walloped: You’re sent flying and land flat on your face, winded. You are deprived until you rest for a few hours. Then, roll 1d6. Add that amount to your max HP. |
@@ -810,7 +767,7 @@ Some pointers:
 
 Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 
-### 100 Spells
+## 100 Spells
 
 |      |                   |                                                              |
 | ---- | ----------------- | ------------------------------------------------------------ |
@@ -968,6 +925,6 @@ If an attack is **impaired** , the damage die is reduced to 1d4, regardless of w
 **DAMAGE**  
 If an attack takes a PC&#39;s HP exactly to 0, the player rolls on the **Scars** table.
 
-Damage that reduces a target&#39;s HP **below** 0 decreases their STR by the remainder. They must then make a STR save to avoid **critical damage.** Failure takes them out of combat, dying if left untreated.
+Damage that reduces a target&#39;s HP **below** 0 decreases their STR by the remainder. They must then make a STR save to avoid **critical damage.**  Failure takes them out of combat, dying if left untreated.
 
 Having STR 0 means **death;** having DEX 0 is paralysis; having WIL 0 is delirium.
