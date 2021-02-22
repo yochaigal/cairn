@@ -1,3 +1,5 @@
 url: yochaigal.github.io
 baseurl: ''
 title: null
+
+theme: jekyll-theme-minimal
