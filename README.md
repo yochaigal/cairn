@@ -7,6 +7,7 @@ A print version of Cairn is now available. Pick it up at [Floating Chair](https:
 More storefronts to come soon (Exalted Funeral, Rook's Press, Soul Muppet).
 
 The PDF version is available for free on [Itch](https://yochaigal.itch.io/cairn).  
-[Here](cairn-srd.md) is the markdown version.
+Click [here](cairn-srd.md) official SRD.  
+For a list of resources, see the [Itch Community Page](https://itch.io/t/1094230/cairn-resources).
 
 <img src="https://yochaigal.github.io/cairn/img/cairn.png" style="zoom:50%;" />
