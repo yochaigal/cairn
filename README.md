@@ -1,4 +1,4 @@
-<img src="https://yochaigal.github.io/cairn/cairn-markdown/img/cairn.png" style="zoom:50%;" />
+<img src="https://yochaigal.github.io/cairn/img/cairn.png" style="zoom:50%;" />
 
 
 
