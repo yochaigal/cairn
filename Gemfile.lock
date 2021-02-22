@@ -9,6 +9,7 @@ GEM
       zeitwerk (~> 2.2, >= 2.2.2)
     addressable (2.7.0)
       public_suffix (>= 2.0.2, < 5.0)
+    backports (3.20.2)
     coffee-script (2.4.1)
       coffee-script-source
       execjs
@@ -103,6 +104,10 @@ GEM
       pathutil (~> 0.9)
       rouge (>= 1.7, < 4)
       safe_yaml (~> 1.0)
+    jekyll-admin (0.11.0)
+      jekyll (>= 3.7, < 5.0)
+      sinatra (~> 1.4)
+      sinatra-contrib (~> 1.4)
     jekyll-avatar (0.7.0)
       jekyll (>= 3.0, < 5.0)
     jekyll-coffeescript (1.1.1)
@@ -210,6 +215,7 @@ GEM
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
     minitest (5.14.3)
+    multi_json (1.15.0)
     multipart-post (2.1.1)
     nokogiri (1.11.1-x86_64-linux)
       racc (~> 1.4)
@@ -220,6 +226,11 @@ GEM
       forwardable-extended (~> 2.6)
     public_suffix (4.0.6)
     racc (1.5.2)
+    rack (1.6.13)
+    rack-protection (1.5.5)
+      rack
+    rack-test (1.1.0)
+      rack (>= 1.0, < 3)
     rb-fsevent (0.10.4)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
@@ -240,9 +251,21 @@ GEM
       faraday (> 0.8, < 2.0)
     simpleidn (0.2.1)
       unf (~> 0.1.4)
+    sinatra (1.4.8)
+      rack (~> 1.5)
+      rack-protection (~> 1.4)
+      tilt (>= 1.3, < 3)
+    sinatra-contrib (1.4.7)
+      backports (>= 2.0)
+      multi_json
+      rack-protection
+      rack-test
+      sinatra (~> 1.4.0)
+      tilt (>= 1.3, < 3)
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
     thread_safe (0.3.6)
+    tilt (2.0.10)
     typhoeus (1.4.0)
       ethon (>= 0.9.0)
     tzinfo (1.2.9)
@@ -258,6 +281,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-admin
 
 BUNDLED WITH
    2.2.11
