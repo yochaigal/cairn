@@ -6,7 +6,7 @@ Based on Knave by Ben Milton and Into The Odd by Chris McDowall, [Cairn](https:/
 A print version of Cairn is now available. Pick it up at [Floating Chair](https://floatingchair.club/collections/zines/products/cairn) and [Spear Witch](https://spearwitch.com/collections/new-arrivals/products/cairn) (in the US),  [Monkey's Paw Games](https://monkeyspawgames.com/collections/new-arrivals/products/cairn) (in CA), and [Glaucus](https://gumroad.com/glaucus#ojuPK)​ (in AUS).
 More storefronts to come soon (Exalted Funeral, Rook's Press, Soul Muppet).
 
-The PDF version is available for free on [Itch](https://yochaigal.itch.io/cairn).
+The PDF version is available for free on [Itch](https://yochaigal.itch.io/cairn).  
 [Here](/cairn-markdown) is the markdown version.
 
 
