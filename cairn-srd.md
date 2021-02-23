@@ -1,4 +1,10 @@
-# Cairn SRD
+---
+layout: default
+title: SRD
+nav_order: 2
+---
+
+# Cairn System Reference Document
 
 **Cairn** is an adventure game for one facilitator (the **Warden**) and at least one other player.
 Players act as hardened adventurers exploring a dark &amp; mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities.
