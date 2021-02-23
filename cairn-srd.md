@@ -801,7 +801,7 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 | 73   | Shuffle           | Two creatures you can see instantly switch places.           |
 | 74   | Sleep             | A creature you can see falls into a light sleep.             |
 | 75   | Slick             | Every surface in a 30ft radius becomes extremely slippery.   |
-| 76   | Smoke             | Form Your body becomes a living smoke that you can control.  |
+| 76   | Smoke Form        | Your body becomes a living smoke that you can control.  |
 | 77   | Sniff             | You can smell even the faintest traces of scents.            |
 | 78   | Snuff             | The source of any mundane light you can see is instantly snuffed out. |
 | 79   | Sort              | Inanimate items sort themselves according to categories you set. |
