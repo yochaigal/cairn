@@ -531,7 +531,6 @@ Before calculating damage to HP, subtract the target&#39;s **Armor** value from 
 No one can have more than 3 Armor.  
 Shields, gauntlets, and helms may provide additional benefits according to their use.
 
-#### **NPCs**  
 **Reactions**  
 When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll 2d6 and consult the following table:
 
@@ -542,15 +541,15 @@ When the PCs encounter an NPC whose reaction to the party is not obvious, the Wa
 **Morale**  
 Enemies must pass a WIL save to avoid fleeing when they take their first casualty and again when they lose half their number. Some groups may use their leader&#39;s WIL in place of their own. Lone foes must save when they&#39;re reduced to 0HP. Morale does not affect PCs.
 
+**Hirelings**  
+PCs can hire **hirelings** to aid them in their expeditions. To create a hireling, roll 3d6 for each ability score, then give them 1d6 HP and a simple weapon (d6), then roll on the **Character Creation** tables to further flesh them out. Hirelings cost between 1-3gp per day, or a share of whatever treasure the party obtains.
+
 **Wealth &amp; Treasure**  
 The most common coin is the gold piece (gp), which is equal to 10 silver pieces (sp) and 100 copper pieces (cp).
 
 Treasure is highly valuable, usually bulky,and rarely useful beyond its value.It can be a lure, taking PCs to exotic and even dangerous locations, and is often under the protection of intimidating foes.
 
-Villages,strongholds, and ports of call barter and trade based on the local rarity and value of an item orcommodity.
-
-**Hirelings**  
-PCs can hire **hirelings** to aid them in their expeditions. To create a hireling, roll 3d6 for each ability score, then give them 1d6 HP and a simple weapon (d6), then roll on the **Character Creation** tables to further flesh them out. Hirelings cost between 1-3gp per day, or a share of whatever treasure the party obtains.
+Villages,strongholds, and ports of call barter and trade based on the local rarity and value of an item or commodity.
 
 **Spellbooks &amp; Scrolls**  
 **Spellbooks** contain a single spell and take up one slot. They cannot be transcribed or created; instead they are recovered from places like tombs, dungeons, and manors.
