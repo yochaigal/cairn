@@ -1,5 +1,5 @@
 title: Cairn
-baseurl: "/cairn"
+baseurl: ""
 remote_theme: pmarsceill/just-the-docs
 logo: "/img/logo.png"
 color_scheme: light
