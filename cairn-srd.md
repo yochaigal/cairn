@@ -203,136 +203,85 @@ If you would like something closer to traditional classes, refer to the list of 
 
 ## Character Traits (d10)
 
-|Physique||
-|------|-----------|
-|1      | Athletic |
-|2      | Brawny   |
-|3      |Flabby   |
-|4      |Lanky    |
-|5      |Rugged   |
-|6      |Scrawny   |
-|7      |Short     |
-|8      |Statuesque |
-|9      |Stout    |
-|10     |Towering |
+| Physique |          |
+| -------- | -------- |
+| 1        | Athletic |
+| 2        | Brawny   |
+| 3        | Flabby   |
+| 4        | Lanky    |
+| 5        | Rugged   |
 
-|Skin||
-|------|-----------|
-|1     |Birthmark |
-|2     |Dark      |
-|3     |Elongated |
-|4     |Pockmarked |
-|5     |Rosy       |
-|6     |Round      |
-| 7     |Soft       |
-| 8     |Tanned     |
-| 9     |Tattooed   |
-| 10    |Weathered  |
+| Skin |            |      |           |
+| ---- | ---------- | ---- | --------- |
+| 1    | Birthmark  | 6    | Round     |
+| 2    | Dark       | 7    | Soft      |
+| 3    | Elongated  | 8    | Tanned    |
+| 4    | Pockmarked | 9    | Tattooed  |
+| 5    | Rosy       | 10   | Weathered |
 
-| Hair | |
-|------|-----------|
-|1     |Bald       |
-|2     |Braided    |
-|3     |Curly      |
-|4     |Filthy     |
-|5     |Frizzy     |
-|6     |Long       |
-|7     |Luxurious  |
-|8     |Oily       |
-|9     |Wavy       |
-|10    |Wispy      |
+| Hair |         |      |           |
+| ---- | ------- | ---- | --------- |
+| 1    | Bald    | 6    | Long      |
+| 2    | Braided | 7    | Luxurious |
+| 3    | Curly   | 8    | Oily      |
+| 4    | Filthy  | 9    | Wavy      |
+| 5    | Frizzy  | 10   | Wispy     |
 
-| Face | |
-|------|-----------|
-|1     |Bony       |
-|2     |Broken     |
-|3     |Chiseled   |
-|4     |Elongated  |
-|5     |Pale       |
-|6     |Perfect    |
-|7     |Rat-like   |
-|8     |Sharp      |
-|9     |Square     |
-|10    |Sunken     |
+| Face |           |      |          |
+| ---- | --------- | ---- | -------- |
+| 1    | Bony      | 6    | Perfect  |
+| 2    | Broken    | 7    | Rat-like |
+| 3    | Chiseled  | 8    | Sharp    |
+| 4    | Elongated | 9    | Square   |
+| 5    | Pale      | 10   | Sunken   |
 
-| Speech | |
-|------|-----------|
-|1     |Blunt      |
-|2     |Booming    |
-|3     |Cryptic    |
-|4     |Droning    |
-|5     |Formal     |
-|6     |Gravelly   |
-|7     |Precise    |
-|8     |Squeaky    |
-|9     |Stuttering |
-|10    |Whispery   |
+| Speech |         |      |            |
+| ------ | ------- | ---- | ---------- |
+| 1      | Blunt   | 6    | Gravelly   |
+| 2      | Booming | 7    | Precise    |
+| 3      | Cryptic | 8    | Squeaky    |
+| 4      | Droning | 9    | Stuttering |
+| 5      | Formal  | 10   | Whispery   |
 
-| Clothing | |
-|------|-----------|
-|1     |Antique    |
-|2     |Bloody     |
-|3     |Elegant    |
-|4     |Filthy     |
-|5     |Foreign    |
-|6     |Frayed     |
-|7     |Frumpy     |
-|8     |Livery     |
-|9     |Rancid     |
-|10    |Soiled     |
+| Clothing |         |      |        |
+| -------- | ------- | ---- | ------ |
+| 1        | Antique | 6    | Frayed |
+| 2        | Bloody  | 7    | Frumpy |
+| 3        | Elegant | 8    | Livery |
+| 4        | Filthy  | 9    | Rancid |
+| 5        | Foreign | 10   | Soiled |
 
-| Virtue | |
-|------|-----------|
-|1     |Ambitious  |
-|2     |Cautious   |
-|3     |Courageous |
-|4     |Disciplined|
-|5     |Gregarious |
-|6     |Honorable  |
-|7     |Humble     |
-|8     |Merciful   |
-|9     |Serene     |
-|10    |Tolerant   |
+| Virtue |             |      |           |
+| ------ | ----------- | ---- | --------- |
+| 1      | Ambitious   | 6    | Honorable |
+| 2      | Cautious    | 7    | Humble    |
+| 3      | Courageous  | 8    | Merciful  |
+| 4      | Disciplined | 9    | Serene    |
+| 5      | Gregarious  | 10   | Tolerant  |
 
-| Vice | |
-|------|-----------|
-|1     |Aggressive |
-|2     |Bitter     |
-|3     |Craven     |
-|4     |Deceitful  |
-|5     |Greedy     |
-|6     |Lazy       |
-|7     |Nervous    |
-|8     |Rude       |
-|9     |Vain       |
-|10    |Vengeful   |
+| Vice |            |      |          |
+| ---- | ---------- | ---- | -------- |
+| 1    | Aggressive | 6    | Lazy     |
+| 2    | Bitter     | 7    | Nervous  |
+| 3    | Craven     | 8    | Rude     |
+| 4    | Deceitful  | 9    | Vain     |
+| 5    | Greedy     | 10   | Vengeful |
 
-| Reputation | |
-|------|-----------|
-|1     |Ambitious  |
-|2     |Boor       |
-|3     |Dangerous  |
-|4     |Entertainer|
-|5     |Honest     |
-|6     |Loafer     |
-|7     |Oddball    |
-|8     |Repulsive  |
-|9     |Respected  |
-|10    |Wise       |
+| Reputation |             |      |           |
+| ---------- | ----------- | ---- | --------- |
+| 1          | Ambitious   | 6    | Loafer    |
+| 2          | Boor        | 7    | Oddball   |
+| 3          | Dangerous   | 8    | Repulsive |
+| 4          | Entertainer | 9    | Respected |
+| 5          | Honest      | 10   | Wise      |
 
-| Misfortunes | |
-|------------|---------|
-|1     |Abandoned  |
-|2     |Addicted   |
-|3     |Blackmailed|
-|4     |Condemned  |
-|5     |Cursed     |
-|6     |Defrauded  |
-|7     |Demoted    |
-|8     |Discredited|
-|9     |Disowned   |
-|10    |Exiled     |
-
+| Misfortunes |             |      |             |
+| ----------- | ----------- | ---- | ----------- |
+| 1           | Abandoned   | 6    | Defrauded   |
+| 2           | Addicted    | 7    | Demoted     |
+| 3           | Blackmailed | 8    | Discredited |
+| 4           | Condemned   | 9    | Disowned    |
+| 5           | Cursed      | 10   | Exiled      |
 
 <p></p>
 
