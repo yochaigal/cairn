@@ -879,7 +879,7 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 
 **ACTIONS**
 
-On their turn, a character may move up to 40ft and take up to one action. Actions may include_casting a spell, attacking, making a second move, or other reasonable activities. Actions, attacks, and movements take place simultaneously. Whenever turn order is uncertain, the PCs should make a DEX save to see if they go before their enemies.
+On their turn, a character may move up to 40ft and take up to one action. Actions may include casting a spell, attacking, making a second move, or other reasonable activities. Actions, attacks, and movements take place simultaneously. Whenever turn order is uncertain, the PCs should make a DEX save to see if they go before their enemies.
 
 **Retreating** from a dangerous situation always requires a successful DEX save, as well as a safe destination to run to.
 
@@ -902,15 +902,15 @@ PCs have 10 inventory slots: four on their body and six in their backpack (which
 Filling all ten item slots reduces a PC to 0 HP. PCs cannot carry more than their inventory allows, though carts &amp; horses may provide an increase in slots.
 
 **DEPRIVATION**  
-**Deprived** PCs cannot recover HP.If deprived for more than a day,they add a **Fatigue** to inventory. Fatigue occupies one slot and lasts until they can recover in safety. This effect is cumulative.
+**Deprived** PCs cannot recover HP. If deprived for more than a day,they add a **Fatigue** to inventory. Fatigue occupies one slot and lasts until they can recover in safety. This effect is cumulative.
 
 **HEALING**  
 A moment&#39;s rest and a swig of water will restore lost HP, but may leave the party vulnerable. **Ability** loss requires a week&#39;s rest and the aid of a skilled healer.
 
 **SPELLBOOKS**
-Spellbooks contain a single spell and take up one item slot. Anyone can cast a spell by holding a Spellbook in_both hands_and reading its contents aloud. Casting a spell adds **Fatigue** to the PC&#39;s inventory.
+Spellbooks contain a single spell and take up one item slot. Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. Casting a spell adds **Fatigue** to the PC&#39;s inventory.
 
-Given time and safety, PCs can_enhance_a spell without any additional cost. If they are_deprived_or in danger, a WIL save may be required to avoid terrible consequences.
+Given time and safety, PCs can enhance a spell without any additional cost. If they are deprived or in danger, a WIL save may be required to avoid terrible consequences.
 
 **COMBAT**  
 The attacker rolls their weapon die and subtracts the target&#39;s Armor, then deals the remaining total to their opponent&#39;s HP.
