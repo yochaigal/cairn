@@ -5,7 +5,8 @@ nav_order: 1
 permalink: /
 ---
 
-Based on Knave by Ben Milton and Into The Odd by Chris McDowall, [Cairn](https://yochaigal.itch.io/cairn) is an attempt at making Into The Odd semi-compatible with popular OSR settings like Dolmenwood. Character generation is quick and random, classless, and relies on fictional advancement rather than through XP or level mechanics.
+Cairn is an [adventure game](http://questingblog.com/adventure-game-vs-osr) about a hardened adventurers exploring a dark & mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities. Character generation is quick and random, classless, and relies on fictional advancement rather than through XP or level mechanics.  
+It is based on [Knave](https://www.drivethrurpg.com/product/250888/Knave) by Ben Milton and [Into The Odd](https://chrismcdee.itch.io/electric-bastionland) by Chris McDowall.
 
 The PDF version is available for free on [Itch.io](https://yochaigal.itch.io/cairn) & [DriveThruRPG](https://www.drivethrurpg.com/product/330809/Cairn).  
 For a list of resources, see the [Itch Community Page](https://itch.io/t/1094230/cairn-resources).
