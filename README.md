@@ -1,6 +1,6 @@
 ---
 layout: default
-title:
+title: home
 nav_exclude: true
 ---
 
