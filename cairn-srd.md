@@ -164,7 +164,7 @@ If you would like something closer to traditional classes, refer to the list of 
 
 ####
 
-||Female Names|||||||
+|Female Names||||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
 |1     | Agune     |6          |Drelil     |11        |Lirann   |16    |Sybil     |
 |2     | Beatrice  |7          |Elgile     |12        |Lirathil |17    |Theune    |
@@ -172,7 +172,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |4     | Bronwyn   |9          |Griya      |14        |Moralil  |19    |Ygwal     |
 |5     | Cannora   |10         |Henaine    |15        |Morgwen  |20    |Yslen     |
 
-||Male Names|||||||
+|Male Names||||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
 |1           |Arwel     |6          |Breglor    |11        |Grinwit  |16    |Melnax    |
 |2           |Bevan     |7          |Canhoreal  |12        |Gruwid   |17    |Orthax    |
@@ -180,7 +180,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |4           |Borrid    |9          |Ethex      |14        |Gwestin  |19    |Wenlan    |
 |5           |Breagle   |10         |Gringle    |15        |Mannog   |20    |Yirmeor   |
 
-||Surnames|||||||
+|Surnames||||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
 |1           |Abernathy |6          |Crumwaller |11        |Harper   |16    |Swinney   |
 |2           |Addercap  |7          |Dunswallow |12        |Loomer   |17    |Thatcher  |
@@ -188,7 +188,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |4           |Candlewick|9          |Glass      |14        |Smythe   |19    |Weaver    |
 |5           |Cormick   |10         |Harkness   |15        |Sunderman|20    |Wolder    |
 
-||Background|||||||
+|Background||||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
 |1           |Alchemist |6          |Cleric     |11        |Magician |16    |Performer |
 |2           |Blacksmith|7          |Gambler    |12        |Mercenary|17    |Pickpocket|
@@ -350,7 +350,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |          1-5          |       6-14       |          15-19           |               20               |
 | Dagger, Cudgel, Staff | Sword, Mace, Axe | Longbow, Crossbow, Sling | Halberd, War Hammer, Battleaxe |
 
-||Expeditionary Gear|||
+|Expeditionary Gear||||
 |------|-----------|------|-----------|
 |1  |Air Bladder|6  |Fire Oil   |
 |2  |Antitoxin  |7  |Grappling Hook |
@@ -358,7 +358,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |4  |Chain (10ft) |9  |Large Trap |
 |5  |Dowsing Rod|10 |Lockpicks  |
 
-||Tools|||
+|Tools||||
 |------|-----------|------|-----------|
 |1  |Bellows    |6  |Cook Pots  |
 |2  |Bucket     |7  |Crowbar    |
@@ -366,7 +366,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |4  |Chalk      |9  |FishingRod |
 |5  |Chisel     |10 |Glue       |
 
-||Trinkets|||
+|Trinkets||||
 |------|-----------|------|-----------|
 |1  |Bottle     |6  |Horn       |
 |2  |Card Deck  |7  |Incense    |
@@ -426,7 +426,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |Chainmail (2 Armor, bulky)   |40   |
 |Plate (3 Armor, bulky)      |60   |
 
-| Weapons |     |
+|Weapons |     |
 |--------------------------------------------------------------|-----|
 |Dagger, Cudgel, Sickle,  Staff, etc. (d6  damage)             |5    |
 |Spear, Sword, Mace, Axe,  Flail, etc. (d8 damage)             |10   |
@@ -435,7 +435,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |Bow  (d6  damage, bulky)                                       |20   |
 |Crossbow (d8  damage, bulky)                                  |30   |
 
-| Gear & Tools |                |                   |          |
+|Gear & Tools |                |                   |          |
 |---------------------------------------------|----------------|-------------------|----------|
 |Air Bladder                                  |5               |Large Trap         |20        |
 |Bellows                                      |10              |Large Sponge       |5         |
