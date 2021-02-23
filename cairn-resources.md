@@ -4,7 +4,7 @@ title: Resources
 nav_order: 3
 ---
 
-# Cairn Resources
+# Resources
 
 A growing collection of additional character sheets, links, adventures, etc.
 
