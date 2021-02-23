@@ -1,7 +1,7 @@
 
 # Cairn Resources
 
-Here is a growing collection of additional character sheets, links, adventures, etc.
+A growing collection of additional character sheets, links, adventures, etc.
 
 ## Character Creation
 [Character Sheet (token)](https://docs.google.com/drawings/d/1_X9o8rzE5jFPQpP1yCz1sPikdm8naQ1gPkT-ATK2T0c) - Download as PDF or PNG
