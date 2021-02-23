@@ -871,16 +871,14 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 
 <p></p>
 
-## Rules Summary
+# Rules Summary
 
-**ACTIONS**
-
+**ACTIONS**  
 On their turn, a character may move up to 40ft and take up to one action. Actions may include casting a spell, attacking, making a second move, or other reasonable activities. Actions, attacks, and movements take place simultaneously. Whenever turn order is uncertain, the PCs should make a DEX save to see if they go before their enemies.
 
 **Retreating** from a dangerous situation always requires a successful DEX save, as well as a safe destination to run to.
 
-**ABILITIES**
-
+**ABILITIES**  
 **STR:** Brawn, prowess &amp; resistance.   
 **DEX:** Dodging, sneaking &amp; reflexes.   
 **WIL:**  Persuasion, intimidation &amp; magic.
