@@ -1,9 +1,3 @@
----
-layout: default
-title: home
-nav_exclude: false
----
-
 Cairn
 =========================
 
