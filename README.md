@@ -11,7 +11,8 @@ The full text is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licen
 
 The PDF version is available for free on [Itch.io](https://yochaigal.itch.io/cairn) & [DriveThruRPG](https://www.drivethrurpg.com/product/330809/Cairn). The original Affinity Publisher file is also available with the downloads.
 
-A print version of Cairn is now available! See the [Print](/print) page for more.
+A print version of Cairn is now available!  
+See the [Print](/print.md) page for more.
 
 <p></p>
 
