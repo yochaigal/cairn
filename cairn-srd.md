@@ -547,8 +547,7 @@ If you would like something closer to traditional classes, refer to the list of 
 <p></p>
 
 ## Rules
-**Abilities**
-
+**Abilities**  
 Each of the three **abilities** are used in different circumstances (see **saves** , below).
 
 **Strength (STR**): Used for saves requiring physical power, like lifting gates, bending bars, resisting poison, etc.
@@ -557,56 +556,45 @@ Each of the three **abilities** are used in different circumstances (see **saves
 
 **Willpower** (WIL): Used for saves to persuade,deceive,interrogate,intimidate, charm,provoke,manipulate spells,etc.
 
-**Saves**
-
+**Saves**  
 A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs roll a d20 for an appropriate ability score. If they roll_equal to or under that ability score_, they pass. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
 
 **Example:** _Bea encounters a group of heavily-armed Goblins standing guard before a tunnel entrance. Her player carefully plots a course, recognizing that her 13 DEX makes sneaking past the guards the best option. She rolls a d20, and resulting in a 10 – a success!_
 
-**Deprivation &amp; Fatigue**
-
-A PC **deprived** of a crucial need (such as food or rest) is unable to recover HP or ability scores.  
-Anyone deprived for more than a day adds **Fatigue** to their inventory, one for each day. Each Fatigue occupies one slot and lasts until they are able to recuperate (such as a full night&#39;s rest in a safe spot).  
+**Deprivation &amp; Fatigue**  
+A PC **deprived** of a crucial need (such as food or rest) is unable to recover HP or ability scores. Anyone deprived for more than a day adds **Fatigue** to their inventory, one for each day. Each Fatigue occupies one slot and lasts until they are able to recuperate (such as a full night&#39;s rest in a safe spot).  
 PCs can also gain Fatigue by **casting spells** or through events in the fiction.
 
-**Healing**
-
+**Healing**  
 Resting for a few moments and having a drink of water restores lost HP but leaves the party exposed. Ability loss can usually be restored with a week&#39;s rest facilitated by a healer or other appropriate source of expertise. Some of these services may be free, while more expedient or magical means of recovery may come at a cost.
 
-**Armor**
-
+**Armor**  
 Before calculating damage to HP, subtract the target&#39;s **Armor** value from the result of damage rolls. Shields and similar armor provides a bonus defense (e.g. +1 Armor), but only while the item is held or worn.  
 No one can have more than 3 Armor.  
 Shields, gauntlets, and helms may provide additional benefits according to their use.
 
-#### **NPCs**
-
-**Reactions**
-
+#### **NPCs**  
+**Reactions**  
 When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll 2d6 and consult the following table:
 
 |    2    | 3-5  |   6-8   | 9-11 | 12      |
 | :-----: | :--: | :-----: | :--: | ------- |
 | Hostile | Wary | Curious | Kind | Helpful |
 
-**Morale**
-
+**Morale**  
 Enemies must pass a WIL save to avoid fleeing when they take their first casualty and again when they lose half their number. Some groups may use their leader&#39;s WIL in place of their own. Lone foes must save when they&#39;re reduced to 0HP. Morale does not affect PCs.
 
-**Wealth &amp; Treasure**
-
+**Wealth &amp; Treasure**  
 The most common coin is the gold piece (gp), which is equal to 10 silver pieces (sp) and 100 copper pieces (cp).
 
 Treasure is highly valuable, usually bulky,and rarely useful beyond its value.It can be a lure, taking PCs to exotic and even dangerous locations, and is often under the protection of intimidating foes.
 
 Villages,strongholds, and ports of call barter and trade based on the local rarity and value of an item orcommodity.
 
-**Hirelings**
-
+**Hirelings**  
 PCs can hire **hirelings** to aid them in their expeditions. To create a hireling, roll 3d6 for each ability score, then give them 1d6 HP and a simple weapon (d6), then roll on the **Character Creation** tables to further flesh them out. Hirelings cost between 1-3gp per day, or a share of whatever treasure the party obtains.
 
-**Spellbooks &amp; Scrolls**
-
+**Spellbooks &amp; Scrolls**  
 **Spellbooks** contain a single spell and take up one slot. They cannot be transcribed or created; instead they are recovered from places like tombs, dungeons, and manors.
 
 Spellbooks sometimes display unusual properties or limitations, such as producing a foul or unearthly smell when opened, possessing an innate intelligence,or being legible only when held in moonlight.
@@ -619,12 +607,10 @@ Spellbooks will attract the attention of those who seek the arcane power within,
 - They do not cause fatigue.
 - They disappear after one use.
 
-**Casting Spells**
-
+**Casting Spells**  
 Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. They must then add a Fatigue to inventory, occupying one slot. Given time and safety, PCs can_enhance_a spell (e.g., affecting multiple targets, increasing its power, etc.) without any additional cost. If the PC is deprived or in danger, the Warden may require a PC to make a WIL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect, and may result in added Fatigue, the destruction of the Spellbook, injury, and even death.
 
-**Relics**
-
+**Relics**  
 **Relics** are items imbued with a magical spell or power. They do not cause Fatigue. Relics usually have a limited use, as well as a recharge condition. A few examples:
 
 **Honeyclasp** , 3 charges. A rusted ring that shrinks the bearer to 6&quot;tall. Recharge: place in a thimble-sized cup of royal jelly.
@@ -637,12 +623,10 @@ Anyone can cast a spell by holding a Spellbook in both hands and reading its con
 
 ## Combat
 
-**Rounds**
-
+**Rounds**  
 The game typically plays without strict time accounting. In a fight or circumstance where timing is helpful, use rounds to keep track of when something occurs. A **round** is roughly ten seconds of in-game time and is comprised of turns.
 
-**Actions**
-
+**Actions**  
 On their turn, a character may move up to 40ft and take up to one action. This may be_casting a spell, attacking, making a second move, or some other reasonable action.
 
 Each round, the PCs declare what they are doing before dice are rolled. If a character attempts something risky, the Warden calls for a save for appropriate players or NPCs. All actions, attacks, and movements take place simultaneously.
