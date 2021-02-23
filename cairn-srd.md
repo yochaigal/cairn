@@ -118,7 +118,6 @@ Players trust one another to engage with the shared setting, character goals, an
 ## Character Generation
 
 **Name, Background &amp; Traits**  
-
 First, choose or roll a **name** for your character from the **Name &amp; Background** tables, then their **background**, which informs their knowledge and potential skills.
 
 Next, roll for the rest of your character&#39;s **traits** (appearance, speech, mannerisms, beliefs, reputation, etc.) on the **Character Traits** tables.
@@ -126,12 +125,11 @@ Next, roll for the rest of your character&#39;s **traits** (appearance, speech, 
 Finally, roll for their **age** (2d20+10).
 
 #### Ability Scores  
-Player Characters (PCs) have just three attributes: **Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**.   
-When creating a PC, the player should roll 3d6 for each of their character&#39;s ability scores, in order. They may then swap any two of the results.
+Player Characters (PCs) have just three attributes:  
+**Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**. When creating a PC, the player should roll 3d6 for each of their character&#39;s ability scores, in order. They may then swap any two of the results.
 
 **Example:**   
-
-Ines rolls for her character&#39;s **STR**, resulting in a **2**, a **4**, and a **6** , totaling **12**. The next two ability rolls result in a **9** for **DEX** and a **13** for **WIL** . She decides toswap the **12** and the **9** , for a character with **9 STR** , **12 DEX** and **13** **WIL**.
+Ines rolls for her character&#39;s **STR**, resulting in a **2**, a **4**, and a **6** , totaling **12**. The next two ability rolls result in a **9** for **DEX** and a **13** for **WIL** . She decides to swap the **12** and the **9** , for a character with **9 STR** , **12 DEX** and **13** **WIL**.
 
 ### Hit Protection  
 Roll 1d6 to determine your PC&#39;s starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character&#39;s health or fortitude; nor do they lose it for very long (see **Healing**). If an attack takes a PC&#39;s HP exactly to 0, the player must roll on the **Scars** table.
@@ -152,18 +150,14 @@ All PCs begin with:
 - A torch (one slot)
 - 3d6 gold pieces
 
-Roll on the **Starting Gear** tables to determine your PC&#39;s armor,weapons, tools, and equipment. If indicated, roll on the **Spellbooks** table with a d100 (or roll 2d10, using one die as the ones place,and one as the tens place).
+Roll on the **Starting Gear** tables to determine your PC&#39;s armor, weapons, tools, and equipment. If indicated, roll on the **Spellbooks** table with a d100 (or roll 2d10, using one die as the ones place,and one as the tens place).
 
 See the **Equipment List** for related armor, damage, and slot values. Smaller items can sometimes be bundled together into one slot.
 
 If you would like something closer to traditional classes, refer to the list of **Optional Gear Packages**.
 
 
-
 ## Name &amp; Background (d20)
-
-####
-
 |Female Names||||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
 |1     | Agune     |6          |Drelil     |11        |Lirann   |16    |Sybil     |
