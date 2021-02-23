@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Resources
+title: Additional Resources
 nav_order: 3
 ---
 
-# Resources
+# Additional Resources
 
 A growing collection of additional character sheets, links, adventures, etc.
 
@@ -16,8 +16,6 @@ A growing collection of additional character sheets, links, adventures, etc.
 [Online Character Sheet + Tokens](https://docs.google.com/presentation/d/1rYEUNE9_zsEUBut3a3UyRhRr8fy33s5fjX4Y7L6lvog) (Make a copy)
 
 [Fillable Character Sheets (token)](https://drive.google.com/file/d/1J9rOVBWIsf1_SSvNou8lLPN2zIodQ-dy/view) (Spanish)
-
-[Nakade's Character Generator](https://yochaigal.github.io/cairn-character-generator/)
 
 [idolofmanyhand's generator (with gear packages!)](http://d12dev.com/chart/32009)
 
