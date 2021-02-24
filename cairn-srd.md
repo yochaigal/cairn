@@ -288,15 +288,17 @@ If you would like something closer to traditional classes, refer to the list of 
 
 ## Starting Gear (d20)
 
-|Armor|||
-|:----:|:----:|:----:|
-|1-3                  |4-14          |15-19          |
-|None                 |Brigandine    |Chainmail      |
+## Starting Gear (d20)
 
-|Helmets and Shields|||
-|:----:|:----:|:----:|
-|1-13                 |14-16      |17-19     |
-|None                 |Helmet   |  Shield    |
+| Armor |            |           |       |
+| :---: | :--------: | :-------: | :---: |
+|  1-3  |    4-14    |   15-19   |  20   |
+| None  | Brigandine | Chainmail | Plate |
+
+| Helmets & Shields |        |        |                 |
+| :---------------: | :----: | :----: | :-------------: |
+|       1-13        | 14-16  | 17-19  |       20        |
+|       None        | Helmet | Shield | Helmet & Shield |
 
 |        Weapons        |                  |                          |                                |
 | :-------------------: | :--------------: | :----------------------: | :----------------------------: |
