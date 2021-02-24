@@ -204,13 +204,13 @@ If you would like something closer to traditional classes, refer to the list of 
 
 ## Character Traits (d10)
 
-| Physique |          |
-| -------- | -------- |
-| 1        | Athletic |
-| 2        | Brawny   |
-| 3        | Flabby   |
-| 4        | Lanky    |
-| 5        | Rugged   |
+| Physique |          |      |            |
+| -------- | -------- | ---- | ---------- |
+| 1        | Athletic | 6    | Scrawny    |
+| 2        | Brawny   | 7    | Short      |
+| 3        | Flabby   | 8    | Statuesque |
+| 4        | Lanky    | 9    | Stout      |
+| 5        | Rugged   | 10   | Towering   |
 
 | Skin |            |      |           |
 | ---- | ---------- | ---- | --------- |
