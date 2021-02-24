@@ -727,7 +727,7 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 |      |                   |                                                              |
 | ---- | ----------------- | ------------------------------------------------------------ |
 | 1    | Adhere            | An object is covered in extremely sticky slime.              |
-| 2    | Anchor            | A strong wire sprouts from your arms, affixing itself to two points within ft on each side. |
+| 2    | Anchor            | A strong wire sprouts from your arms, affixing itself to two points within 50ft on each side. |
 | 3    | Animate Object    | An object obeys your commands as best it can.                |
 | 4    | Anthropomorphize  | An animal either gains human intelligence or human appearance for one day. |
 | 5    | Arcane Eye        | You can see through a magical floating eyeball that flies around at your command. |
@@ -764,7 +764,7 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 | 36   | Haste             | Your movement speed is tripled.                              |
 | 37   | Hatred            | A creature develops a deep hatred of another creature or group and wishes to destroy them. |
 | 38   | Hear Whispers     | You can hear faint sounds clearly.                           |
-| 39   | Hover             | An object hovers, frictionless, ft above the ground It can hold up to one humanoid. |
+| 39   | Hover             | An object hovers, frictionless, 2ft above the ground It can hold up to one humanoid. |
 | 40   | Hypnotize         | A creature enters a trance and will truthfully answer one yes or no question you ask it. |
 | 41   | Icy Touch         | A thick ice layer spreads across a touched surface, up to 10ft in radius. |
 | 42   | Identify Owner    | Letters appear over the object you touch, spelling out the name of the object's owners, if there are any. |
@@ -786,7 +786,7 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 | 58   | Ooze Form         | You become a living jelly.                                   |
 | 59   | Pacify            | A creature near you has an aversion to violence.             |
 | 60   | Phobia            | A nearby creature becomes terrified of an object of your choice. |
-| 61   | Pit               | A pit 10ft wide and ft deep opens in the ground.             |
+| 61   | Pit               | A pit 10ft wide and 10ft deep opens in the ground.             |
 | 62   | Primal Surge      | A creature rapidly evolves into a future version of its species. |
 | 63   | Push/Pull         | An object of any size is pulled directly towards you or pushed directly away from you with the strength of one man. |
 | 64   | Raise Dead        | A skeleton rises from the ground to serve you. They are incredibly stupid and can only obey simple orders. |
@@ -805,14 +805,14 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 | 77   | Sniff             | You can smell even the faintest traces of scents.            |
 | 78   | Snuff             | The source of any mundane light you can see is instantly snuffed out. |
 | 79   | Sort              | Inanimate items sort themselves according to categories you set. |
-| 80   | Spectacle         | A clearly false but impressive illusion of your choice appears, under your control It may be up to the size of a palace and has full motion and sound. |
+| 80   | Spectacle         | A clearly false but impressive illusion of your choice appears, under your control. It may be up to the size of a palace and has full motion and sound. |
 | 81   | Spellsaw          | A whirling blade flies from your chest, clearing any plant material in its way It is otherwise harmless. |
 | 82   | Spider Climb      | You can climb surfaces like a spider.                        |
 | 83   | Summon Cube       | Once per second you may summon or banish a 3-foot-wide cube of earth New cubes must be affixed to the earth or to other cubes. |
 | 84   | Swarm             | You become a swarm of crows, rats, or piranhas You can only be harmed by blast attacks. |
 | 85   | Telekinesis       | You may mentally 1 move item under 60lbs.                      |
 | 86   | Telepathy         | Two creatures can hear each other's thoughts, no matter how far apart. |
-| 87   | Teleport          | An object or person you can see is transported from one place to another in a ft radius. |
+| 87   | Teleport          | An object or person you can see is transported from one place to another in a 50ft radius. |
 | 88   | Target Lure       | An object you touch becomes the target of any nearby spell.  |
 | 89   | Thicket           | A thicket of trees and dense brush up to 50ft wide suddenly sprouts up. |
 | 90   | Summon Idol       | A carved stone statue the size of a mule rises from the ground. |
