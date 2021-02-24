@@ -15,10 +15,10 @@ A deluxe print edition of Cairn can be purchased from the following places:
 - [Exalted Funeral](https://www.exaltedfuneral.com/products/cairn)
 
 ## CA
-[Monkey's Paw Games](https://monkeyspawgames.com/collections/new-arrivals/products/cairn)
+- [Monkey's Paw Games](https://monkeyspawgames.com/collections/new-arrivals/products/cairn)
 
 ## AUS
-[Glaucus](https://gumroad.com/glaucus#ojuPK)​
+- [Glaucus](https://gumroad.com/glaucus#ojuPK)​
 
 ## UK
 - SoulMuppet (coming soon)
