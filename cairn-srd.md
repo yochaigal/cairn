@@ -288,8 +288,6 @@ If you would like something closer to traditional classes, refer to the list of 
 
 ## Starting Gear (d20)
 
-## Starting Gear (d20)
-
 | Armor |            |           |       |
 | :---: | :--------: | :-------: | :---: |
 |  1-3  |    4-14    |   15-19   |  20   |
