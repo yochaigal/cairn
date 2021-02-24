@@ -764,7 +764,7 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 | 36   | Haste             | Your movement speed is tripled.                              |
 | 37   | Hatred            | A creature develops a deep hatred of another creature or group and wishes to destroy them. |
 | 38   | Hear Whispers     | You can hear faint sounds clearly.                           |
-| 39   | Hover             | An object hovers, frictionless, 2ft above the ground It can hold up to one humanoid. |
+| 39   | Hover             | An object hovers, frictionless, 2ft above the ground. It can hold up to one humanoid. |
 | 40   | Hypnotize         | A creature enters a trance and will truthfully answer one yes or no question you ask it. |
 | 41   | Icy Touch         | A thick ice layer spreads across a touched surface, up to 10ft in radius. |
 | 42   | Identify Owner    | Letters appear over the object you touch, spelling out the name of the object's owners, if there are any. |
