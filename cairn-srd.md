@@ -816,12 +816,12 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 | 88   | Target Lure       | An object you touch becomes the target of any nearby spell.  |
 | 89   | Thicket           | A thicket of trees and dense brush up to 50ft wide suddenly sprouts up. |
 | 90   | Summon Idol       | A carved stone statue the size of a mule rises from the ground. |
-| 91   | Time Control      | Time in a ft bubble slows down or increases by 10% for 30 seconds. |
+| 91   | Time Control      | Time in a 50ft bubble slows down or increases by 10% for 30 seconds. |
 | 92   | True Sight        | You see through all nearby illusions.                        |
 | 93   | Upwell            | A spring of seawater appears.                                |
 | 94   | Vision            | You completely control what a creature sees.                 |
 | 95   | Visual Illusion   | A silent, immobile, room-sized illusion of your choice appears. |
-| 96   | Ward              | A silver circle ft across appears on the ground. Choose one species that cannot cross it. |
+| 96   | Ward              | A silver circle 50ft across appears on the ground. Choose one species that cannot cross it. |
 | 97   | Web               | Your wrists shoot thick webbing.                             |
 | 98   | Widget            | A primitive version of a drawn tool or item appears before you and disappears after a short time. |
 | 99   | Wizard Mark       | Your finger can shoot a stream of ulfire-colored paint. This paint is only visible to you and can be seen at any distance, even through solid objects. |
