@@ -810,8 +810,8 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 | 82   | Spider Climb      | You can climb surfaces like a spider.                        |
 | 83   | Summon Cube       | Once per second you may summon or banish a 3-foot-wide cube of earth New cubes must be affixed to the earth or to other cubes. |
 | 84   | Swarm             | You become a swarm of crows, rats, or piranhas You can only be harmed by blast attacks. |
-| 85   | Telekinesis       | You may mentally move item under 60lbs.                      |
-| 86   | Telepathy         | Two creatures can hear each others thoughts, no matter how far apart. |
+| 85   | Telekinesis       | You may mentally move items under 60lbs.                      |
+| 86   | Telepathy         | Two creatures can hear each other's thoughts, no matter how far apart. |
 | 87   | Teleport          | An object or person you can see is transported from one place to another in a ft radius. |
 | 88   | Target Lure       | An object you touch becomes the target of any nearby spell.  |
 | 89   | Thicket           | A thicket of trees and dense brush up to 50ft wide suddenly sprouts up. |
