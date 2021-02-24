@@ -751,7 +751,7 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 | 23   | Disassemble       | Any of your body parts may be detached and reattached at will, without causing pain or damage. You can still control them. |
 | 24   | Disguise          | You may alter the appearance of one character at will as long as they remain humanoid Attempts to duplicate other characters will seem uncanny. |
 | 25   | Displace          | An object appears to be up to 15ft from its actual position. |
-| 26   | Earthquake        | The ground begins shaking violently Structures may be damaged or collapse. |
+| 26   | Earthquake        | The ground begins shaking violently. Structures may be damaged or collapse. |
 | 27   | Elasticity        | Your body can stretch up to 10ft.                            |
 | 28   | Elemental Wall    | A straight wall of ice or fire 50ft long and 10ft high rises from the ground. |
 | 29   | Filch             | A visible item teleports to your hands.                      |
