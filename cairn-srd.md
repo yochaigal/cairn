@@ -4,11 +4,11 @@ title: SRD
 nav_order: 2
 ---
 
-# System Reference Document
+# Cairn System Reference Document
 
 <p></p>
 
-**Cairn**is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
+**Cairn** is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
 See the repo [here](https://github.com/yochaigal/cairn).
 
 **Cairn** is an adventure game for one facilitator (the **Warden**) and at least one other player.
