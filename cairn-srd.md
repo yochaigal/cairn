@@ -9,7 +9,7 @@ nav_order: 2
 <p></p>
 
 **Cairn** is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
-See the repo [here](https://github.com/yochaigal/cairn).
+[Peruse] the [repo](https://github.com/yochaigal/cairn) or download the game in other [formats]([Cairn in Additional Formats](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (including Word, Affinity, Google Docs, etc).
 
 **Cairn** is an adventure game for one facilitator (the **Warden**) and at least one other player.
 Players act as hardened adventurers exploring a dark &amp; mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities.

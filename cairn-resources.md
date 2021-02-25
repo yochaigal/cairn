@@ -47,4 +47,4 @@ A growing collection of additional character sheets, links, adventures, etc.
 
 [Mausritter Item Creation Tools](https://mausritter.com/item-card-studio/)
 
-[Cairn in Additional Formats](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm)
+[Electric Bastionland Style Backgrounds For Knave (work for Cairn, too!)](https://aboleth-overlords.com/?s=backgrounds)
