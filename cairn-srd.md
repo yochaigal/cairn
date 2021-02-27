@@ -303,13 +303,14 @@ If you would like something closer to traditional classes, refer to the list of 
 |          1-5          |       6-14       |          15-19           |               20               |
 | Dagger, Cudgel, Staff | Sword, Mace, Axe | Longbow, Crossbow, Sling | Halberd, War Hammer, Battleaxe |
 
-|Expeditionary Gear||||
-|------|-----------|------|-----------|
-|1  |Air Bladder|6  |Fire Oil   |
-|2  |Antitoxin  |7  |Grappling Hook |
-|3  |Cart (+4 slots, bulky) |8  |Large Sack |
-|4  |Chain (10ft) |9  |Large Trap |
-|5  |Dowsing Rod|10 |Lockpicks  |
+
+| Expeditionary Gear |                        |      |                |      |             |      |             |
+| ------------------ | ---------------------- | ---- | -------------- | ---- | ----------- | ---- | ----------- |
+| 1                  | Air Bladder            | 6    | Fire Oil       | 11   | Manacles    | 16   | Rope (25ft) |
+| 2                  | Antitoxin              | 7    | Grappling Hook | 12   | Pick        | 17   | Spirit Ward |
+| 3                  | Cart (+4 slots, bulky) | 8    | Large Sack     | 13   | Pole (10ft) | 18   | Spyglass    |
+| 4                  | Chain (10ft)           | 9    | Large Trap     | 14   | Pulley      | 19   | Tinderbox   |
+| 5                  | Dowsing Rod            | 10   | Lockpicks      | 15   | Repellent   | 20   | Wolfsbane   |
 
 |Tools||||
 |------|-----------|------|-----------|
