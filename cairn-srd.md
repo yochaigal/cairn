@@ -392,11 +392,11 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### 																		Bonus Item (roll on table indicated)
 
-|1-5     |6-13  |14-17    | 18-20 |
-|:----:|:----:|:----:|:----:|
-|Tool or  Trinket  |Expeditionary Gear   |Armor or Weapon  |  Spellbook|
+|                  |                    |                 |           |
+| :--------------: | :----------------: | :-------------: | :-------: |
+|       1-5        |        6-13        |      14-17      |   18-20   |
+| Tool or  Trinket | Expeditionary Gear | Armor or Weapon | Spellbook |
 
-[back to index](#index)
 <p></p>
 
 #### 																						Spellbooks (d100)
@@ -429,7 +429,6 @@ If you would like something closer to traditional classes, refer to the list of 
 |24 |Disguise         |49 |Manse           |74 |Sleep          |99 |Wizard Mark    |
 |25 |Displace         |50 |Marble Craze    |75 |Slick          |100|X-Ray Vision   |
 
-[back to index](#index)
 <p></p>
 
 ## Equipment List (Prices in Gold Pieces)  
@@ -489,7 +488,6 @@ If you would like something closer to traditional classes, refer to the list of 
 |Ladder (bulky, 10ft)                         |10              |Wagon (+8 slots, slow)|200       |
 |Lantern & Oil                                |10              |Wolfsbane          |10        |
 
-[back to index](#index)
 <p></p>
 
 ## Optional Gear Packages  
@@ -625,8 +623,9 @@ Shields, gauntlets, and helms may provide additional benefits according to their
 **Reactions**  
 When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll 2d6 and consult the following table:
 
+| | | | | |
+| :-----: | :--: | :-----: | :--: | :--: |
 |    2    | 3-5  |   6-8   | 9-11 | 12      |
-| :-----: | :--: | :-----: | :--: | ------- |
 | Hostile | Wary | Curious | Kind | Helpful |
 
 **Morale**  
