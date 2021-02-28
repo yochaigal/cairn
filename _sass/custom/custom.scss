@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+
+body{
+  font-family: 'Alegreya', serif;
+}
+
+tr:nth-child(even) td{
+  background-color: #f2f2f2;
+}
+
+th, td {
+  min-width: initial;
+  padding-top: .35rem;
+  padding-bottom: .35rem;
+  padding-right: .5rem;
+  padding-left: .5rem;
+}
+
+td {
+  border-bottom: 0;
+  border-left: 0;
+}
+
+thead{
+  display: none;
+}
+
+tbody tr:last-of-type td{
+  padding-bottom: .35rem;
+}
+
+h4, .text-delta{
+font-size: 12px !important;
+font-weight: 600;
+text-transform: uppercase;
+}
+
+.nav-list .nav-list-item .nav-list-link {
+font-size: 1rem;
+}
