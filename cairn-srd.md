@@ -783,8 +783,7 @@ When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look 
 Use the following template to model any more sophisticated Monster or NPC:
 
 **Name**
-X HP, X Armor, X STR, X DEX, X WIL,
-Weapon (dX, special items, qualities)
+X HP, X Armor, X STR, X DEX, X WIL, Weapon (dX, special items, qualities)
 - Engaging descriptor of appearance or demeanor
 - Quirk, tactic, or peculiarity making this NPC unique
 - Special effect or critical damage consequence
