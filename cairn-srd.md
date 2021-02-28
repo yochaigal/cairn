@@ -54,6 +54,8 @@ The Warden and the players each have guidelines that help foster a specific play
 
 ### Shared Objectives
 Players trust one another to engage with the shared setting, character goals, and party challenges. Therefore, the party is typically working together towards a common goal, as a team.
+
+[back to index](#index)
 <p></p>
 
 ## Principles for Wardens
@@ -102,6 +104,8 @@ Players trust one another to engage with the shared setting, character goals, an
 - Occasionally you will want an element of randomness (e.g. the weather,unique character knowledge,etc.).
 - In these situations, roll 1d6. A roll of 4 or more generally favors the players.
 - A roll of 3 or under tends to mean bad luck for the PCs or their allies.
+
+[back to index](#index)
 <p></p>
 
 ## Principles for Players
@@ -135,6 +139,8 @@ Players trust one another to engage with the shared setting, character goals, an
 - Set goals and use your meager means to take steps forward.
 - Expect nothing. Earn your reputation.
 - Keep things moving forward and play to see what happens.
+
+[back to index](#index)
 <p></p>
 
 ## Character Creation
@@ -178,10 +184,14 @@ See the **Equipment List** for related armor, damage, and slot values. Smaller i
 
 If you would like something closer to traditional classes, refer to the list of **Optional Gear Packages**.
 
+[back to index](#index)
+<p></p>
 
 ## Name &amp; Background (d20)
 
-|Female Names||||||||
+#### Female Names
+
+|||||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
 |1     | Agune     |6          |Drelil     |11        |Lirann   |16    |Sybil     |
 |2     | Beatrice  |7          |Elgile     |12        |Lirathil |17    |Theune    |
@@ -189,7 +199,10 @@ If you would like something closer to traditional classes, refer to the list of 
 |4     | Bronwyn   |9          |Griya      |14        |Moralil  |19    |Ygwal     |
 |5     | Cannora   |10         |Henaine    |15        |Morgwen  |20    |Yslen     |
 
-|Male Names||||||||
+
+#### Male Names
+
+|||||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
 |1           |Arwel     |6          |Breglor    |11        |Grinwit  |16    |Melnax    |
 |2           |Bevan     |7          |Canhoreal  |12        |Gruwid   |17    |Orthax    |
@@ -197,7 +210,9 @@ If you would like something closer to traditional classes, refer to the list of 
 |4           |Borrid    |9          |Ethex      |14        |Gwestin  |19    |Wenlan    |
 |5           |Breagle   |10         |Gringle    |15        |Mannog   |20    |Yirmeor   |
 
-|Surnames||||||||
+#### Surnames
+
+|||||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
 |1           |Abernathy |6          |Crumwaller |11        |Harper   |16    |Swinney   |
 |2           |Addercap  |7          |Dunswallow |12        |Loomer   |17    |Thatcher  |
@@ -205,7 +220,9 @@ If you would like something closer to traditional classes, refer to the list of 
 |4           |Candlewick|9          |Glass      |14        |Smythe   |19    |Weaver    |
 |5           |Cormick   |10         |Harkness   |15        |Sunderman|20    |Wolder    |
 
-|Background||||||||
+#### Background
+
+|||||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
 |1           |Alchemist |6          |Cleric     |11        |Magician |16    |Performer |
 |2           |Blacksmith|7          |Gambler    |12        |Mercenary|17    |Pickpocket|
@@ -213,11 +230,13 @@ If you would like something closer to traditional classes, refer to the list of 
 |4           |Burglar   |9          |Herbalist  |14        |Miner    |19    |Servant   |
 |5           |Carpenter |10         |Hunter     |15        |Outlaw   |20    |Ranger    |
 
-
+[back to index](#index)
 
 ## Character Traits (d10)
 
-| Physique |          |      |            |
+#### Physique
+
+|  |          |      |            |
 | -------- | -------- | ---- | ---------- |
 | 1        | Athletic | 6    | Scrawny    |
 | 2        | Brawny   | 7    | Short      |
@@ -225,7 +244,9 @@ If you would like something closer to traditional classes, refer to the list of 
 | 4        | Lanky    | 9    | Stout      |
 | 5        | Rugged   | 10   | Towering   |
 
-| Skin |            |      |           |
+#### Skin
+
+|  |            |      |           |
 | ---- | ---------- | ---- | --------- |
 | 1    | Birthmark  | 6    | Round     |
 | 2    | Dark       | 7    | Soft      |
@@ -233,7 +254,9 @@ If you would like something closer to traditional classes, refer to the list of 
 | 4    | Pockmarked | 9    | Tattooed  |
 | 5    | Rosy       | 10   | Weathered |
 
-| Hair |         |      |           |
+#### Hair
+
+|  |         |      |           |
 | ---- | ------- | ---- | --------- |
 | 1    | Bald    | 6    | Long      |
 | 2    | Braided | 7    | Luxurious |
@@ -241,7 +264,9 @@ If you would like something closer to traditional classes, refer to the list of 
 | 4    | Filthy  | 9    | Wavy      |
 | 5    | Frizzy  | 10   | Wispy     |
 
-| Face |           |      |          |
+#### Face
+
+|  |           |      |          |
 | ---- | --------- | ---- | -------- |
 | 1    | Bony      | 6    | Perfect  |
 | 2    | Broken    | 7    | Rat-like |
@@ -249,7 +274,9 @@ If you would like something closer to traditional classes, refer to the list of 
 | 4    | Elongated | 9    | Square   |
 | 5    | Pale      | 10   | Sunken   |
 
-| Speech |         |      |            |
+#### Speech
+
+|  |         |      |            |
 | ------ | ------- | ---- | ---------- |
 | 1      | Blunt   | 6    | Gravelly   |
 | 2      | Booming | 7    | Precise    |
@@ -257,7 +284,9 @@ If you would like something closer to traditional classes, refer to the list of 
 | 4      | Droning | 9    | Stuttering |
 | 5      | Formal  | 10   | Whispery   |
 
-| Clothing |         |      |        |
+#### Clothing
+
+|  |         |      |        |
 | -------- | ------- | ---- | ------ |
 | 1        | Antique | 6    | Frayed |
 | 2        | Bloody  | 7    | Frumpy |
@@ -265,7 +294,9 @@ If you would like something closer to traditional classes, refer to the list of 
 | 4        | Filthy  | 9    | Rancid |
 | 5        | Foreign | 10   | Soiled |
 
-| Virtue |             |      |           |
+#### Virtue
+
+|  |             |      |           |
 | ------ | ----------- | ---- | --------- |
 | 1      | Ambitious   | 6    | Honorable |
 | 2      | Cautious    | 7    | Humble    |
@@ -273,7 +304,9 @@ If you would like something closer to traditional classes, refer to the list of 
 | 4      | Disciplined | 9    | Serene    |
 | 5      | Gregarious  | 10   | Tolerant  |
 
-| Vice |            |      |          |
+#### Vice
+
+|  |            |      |          |
 | ---- | ---------- | ---- | -------- |
 | 1    | Aggressive | 6    | Lazy     |
 | 2    | Bitter     | 7    | Nervous  |
@@ -281,7 +314,9 @@ If you would like something closer to traditional classes, refer to the list of 
 | 4    | Deceitful  | 9    | Vain     |
 | 5    | Greedy     | 10   | Vengeful |
 
-| Reputation |             |      |           |
+#### Reputation
+
+|  |             |      |           |
 | ---------- | ----------- | ---- | --------- |
 | 1          | Ambitious   | 6    | Loafer    |
 | 2          | Boor        | 7    | Oddball   |
@@ -289,7 +324,9 @@ If you would like something closer to traditional classes, refer to the list of 
 | 4          | Entertainer | 9    | Respected |
 | 5          | Honest      | 10   | Wise      |
 
-| Misfortunes |             |      |             |
+#### Misfortunes
+
+|  |             |      |             |
 | ----------- | ----------- | ---- | ----------- |
 | 1           | Abandoned   | 6    | Defrauded   |
 | 2           | Addicted    | 7    | Demoted     |
@@ -297,27 +334,35 @@ If you would like something closer to traditional classes, refer to the list of 
 | 4           | Condemned   | 9    | Disowned    |
 | 5           | Cursed      | 10   | Exiled      |
 
+[back to index](#index)
 <p></p>
 
 ## Starting Gear (d20)
 
-| Armor |            |           |       |
+#### Armor
+
+|  |            |           |       |
 | :---: | :--------: | :-------: | :---: |
 |  1-3  |    4-14    |   15-19   |  20   |
 | None  | Brigandine | Chainmail | Plate |
 
-| Helmets & Shields |        |        |                 |
+#### Helmets & Shields
+
+|  |        |        |                 |
 | :---------------: | :----: | :----: | :-------------: |
 |       1-13        | 14-16  | 17-19  |       20        |
 |       None        | Helmet | Shield | Helmet & Shield |
 
-|        Weapons        |                  |                          |                                |
+#### Weapons
+
+|                |                  |                          |                                |
 | :-------------------: | :--------------: | :----------------------: | :----------------------------: |
 |          1-5          |       6-14       |          15-19           |               20               |
 | Dagger, Cudgel, Staff | Sword, Mace, Axe | Longbow, Crossbow, Sling | Halberd, War Hammer, Battleaxe |
 
+#### Expeditionary Gear
 
-| Expeditionary Gear |                        |      |                |      |             |      |             |
+|  |                        |      |                |      |             |      |             |
 | ------------------ | ---------------------- | ---- | -------------- | ---- | ----------- | ---- | ----------- |
 | 1                  | Air Bladder            | 6    | Fire Oil       | 11   | Manacles    | 16   | Rope (25ft) |
 | 2                  | Antitoxin              | 7    | Grappling Hook | 12   | Pick        | 17   | Spirit Ward |
@@ -325,7 +370,9 @@ If you would like something closer to traditional classes, refer to the list of 
 | 4                  | Chain (10ft)           | 9    | Large Trap     | 14   | Pulley      | 19   | Tinderbox   |
 | 5                  | Dowsing Rod            | 10   | Lockpicks      | 15   | Repellent   | 20   | Wolfsbane   |
 
-|Tools||||
+#### Tools
+
+|||||
 |------|-----------|------|-----------|
 |1  |Bellows    |6  |Cook Pots  |
 |2  |Bucket     |7  |Crowbar    |
@@ -333,7 +380,9 @@ If you would like something closer to traditional classes, refer to the list of 
 |4  |Chalk      |9  |FishingRod |
 |5  |Chisel     |10 |Glue       |
 
-|Trinkets||||
+#### Trinkets
+
+|||||
 |------|-----------|------|-----------|
 |1  |Bottle     |6  |Horn       |
 |2  |Card Deck  |7  |Incense    |
@@ -347,6 +396,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |:----:|:----:|:----:|:----:|
 |Tool or  Trinket  |Expeditionary Gear   |Armor or Weapon  |  Spellbook|
 
+[back to index](#index)
 <p></p>
 
 #### 																						Spellbooks (d100)
@@ -379,12 +429,14 @@ If you would like something closer to traditional classes, refer to the list of 
 |24 |Disguise         |49 |Manse           |74 |Sleep          |99 |Wizard Mark    |
 |25 |Displace         |50 |Marble Craze    |75 |Slick          |100|X-Ray Vision   |
 
+[back to index](#index)
 <p></p>
-
 
 ## Equipment List (Prices in Gold Pieces)  
 
-|Armor|     |
+#### Armor
+
+||     |
 |--------------------------------------------------------------|-----|
 |Shield (+1 Armor)   |10   |
 |Helmet (+1 Armor)    |10   |
@@ -393,7 +445,9 @@ If you would like something closer to traditional classes, refer to the list of 
 |Chainmail (2 Armor, bulky)   |40   |
 |Plate (3 Armor, bulky)      |60   |
 
-|Weapons |     |
+#### Weapons
+
+| |     |
 |--------------------------------------------------------------|-----|
 |Dagger, Cudgel, Sickle,  Staff, etc. (d6  damage)             |5    |
 |Spear, Sword, Mace, Axe,  Flail, etc. (d8 damage)             |10   |
@@ -402,7 +456,9 @@ If you would like something closer to traditional classes, refer to the list of 
 |Bow  (d6  damage, bulky)                                       |20   |
 |Crossbow (d8  damage, bulky)                                  |30   |
 
-|Gear & Tools |                |                   |          |
+#### Gear & Tools
+
+| |                |                   |          |
 |---------------------------------------------|----------------|-------------------|----------|
 |Air Bladder                                  |5               |Large Trap         |20        |
 |Bellows                                      |10              |Large Sponge       |5         |
@@ -433,11 +489,14 @@ If you would like something closer to traditional classes, refer to the list of 
 |Ladder (bulky, 10ft)                         |10              |Wagon (+8 slots, slow)|200       |
 |Lantern & Oil                                |10              |Wolfsbane          |10        |
 
+[back to index](#index)
 <p></p>
 
 ## Optional Gear Packages  
 
-|Dowser|
+#### Dowser
+
+||
 |-----------------------------------------|
 |Sickle (d6)                              |
 |Patchwork Doublet (+1  Armor)            |
@@ -446,7 +505,9 @@ If you would like something closer to traditional classes, refer to the list of 
 |Worn Map                                 |
 |Spyglass                                 |
 
-|Dwarf|
+#### Dwarf
+
+||
 |-----------------------------------------|
 |Prickly Root (d6)                        |
 |Pinecone Lattice (1 Armor)        |
@@ -455,7 +516,9 @@ If you would like something closer to traditional classes, refer to the list of 
 |Poisonous mushroom                       |
 |Hand Drill                               |
 
-|Elf|
+#### Elf
+
+||
 |-----------------------------------------|
 |Elegant Sword (d8)      |
 |Recurve Bow (d8) |
@@ -464,7 +527,9 @@ If you would like something closer to traditional classes, refer to the list of 
 |Golden Flute                             |
 |Air Bladder                              |
 
-|Fighter|
+#### Fighter
+
+||
 |-----------------------------------------|
 |Glaive (d10, bulky)      |
 | Scimitar (d8)        |
@@ -472,7 +537,9 @@ If you would like something closer to traditional classes, refer to the list of 
 |Tobacco Pouch & Pipe                   |
 |Dice Set                               |
 
-|Friar|
+#### Friar
+
+||
 |-----------------------------------------|
 |Scepter (d6)                    |
 |Deceptive Robes (+1 Armor)      |
@@ -481,7 +548,9 @@ If you would like something closer to traditional classes, refer to the list of 
 |Folk Songbook                   |
 |Cart (+4  slots, bulky)         |
 
-| Knight                     |
+#### Knight
+
+|                      |
 | -------------------------- |
 | Longsword (d8, bulky)      |
 | Chainmail (2 Armor, bulky) |
@@ -490,7 +559,9 @@ If you would like something closer to traditional classes, refer to the list of 
 | Manacles                   |
 | Fine Rope                  |
 
-|Magic User|
+#### Magic User
+
+||
 |-----------------------------------------|
 |Fizzled Staff (d8, bulky) |
 |Dagger (d6)  |
@@ -499,7 +570,9 @@ If you would like something closer to traditional classes, refer to the list of 
 |Ragged Clothing (hidden pockets)         |
 |Leycap (x2, see Relics)         |
 
-|Thief|
+#### Thief
+
+||
 |-----------------------------------------|
 |Two daggers (d6+d6)                      |
 |Hooded Jerkin (1 Armor)                  |
@@ -508,7 +581,9 @@ If you would like something closer to traditional classes, refer to the list of 
 |Grappling Hook                           |
 |Metal File                               |
 
-|Ranger|
+#### Ranger
+
+||
 |-----------------------------------------|
 |Longbow (d8, bulky)             |
 |Hatchet (d6)                    |
@@ -517,6 +592,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |Bloodhound &#124; 2 HP, 12  DEX, bite (d6) |
 |Thundering Horn                 |
 
+[back to index](#index)
 <p></p>
 
 ## Rules
@@ -669,7 +745,8 @@ When an attack reduces a PC&#39;s HP to exactly 0, they are uniquely impacted. L
 | 11   | Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max HP. |
 | 12   | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result. |
 
-
+[back to index](#index)
+<p></p>
 
 ## Bestiary
 
@@ -735,6 +812,9 @@ Some pointers:
 - Is it charismatic? Give it high WIL.
 
 Damage die are roughly the same, though armed attacks do at least 1d6 damage.
+
+[back to index](#index)
+<p></p>
 
 ## 100 Spells
 
@@ -841,6 +921,7 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 | 99   | Wizard Mark       | Your finger can shoot a stream of ulfire-colored paint. This paint is only visible to you and can be seen at any distance, even through solid objects. |
 | 100  | X-Ray Vision      | You can see through walls, dirt, clothing, etc.              |
 
+[back to index](#index)
 <p></p>
 
 # Rules Summary
@@ -895,3 +976,5 @@ If an attack takes a PC&#39;s HP exactly to 0, the player rolls on the **Scars**
 Damage that reduces a target&#39;s HP **below** 0 decreases their STR by the remainder. They must then make a STR save to avoid **critical damage.**  Failure takes them out of combat, dying if left untreated.
 
 Having STR 0 means **death;** having DEX 0 is paralysis; having WIL 0 is delirium.
+
+[back to index](#index)
