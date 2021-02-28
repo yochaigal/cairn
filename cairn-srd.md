@@ -14,6 +14,19 @@ Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in ot
 **Cairn** is an adventure game for one facilitator (the **Warden**) and at least one other player.
 Players act as hardened adventurers exploring a dark &amp; mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities.
 
+## Index
+- [Overview](#overview)
+- [Principles for Wardens](#principles-for-wardens)
+- [Principles for Players](#principles-for-players)
+- [Character Creation](#character-creation)
+- [Equipment](#equipment-list-prices-in-gold-pieces)
+- [Rules](#rules)
+- [Bestiary](#bestiary)
+- [100 Spells](#100-spells)
+- [Rules Summary](#rules-summary)
+
+
+
 ## Overview
 
 **Cairn** was written with the following design philosophies in mind:
@@ -124,7 +137,7 @@ Players trust one another to engage with the shared setting, character goals, an
 - Keep things moving forward and play to see what happens.
 <p></p>
 
-## Character Generation
+## Character Creation
 
 **Name, Background &amp; Traits**  
 First, choose or roll a **name** for your character from the **Name &amp; Background** tables, then their **background**, which informs their knowledge and potential skills.
