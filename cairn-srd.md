@@ -90,8 +90,8 @@ Players trust one another to engage with the shared setting, character goals, an
 
 ### Treasure  
 - A Treasure is specific to the environment from where it is recovered. It tells a story.
-- Treasure is highly valuable, almost always bulky,and rarely useful beyond its worth and prestige.
-- Relics are not Treasure,though they are useful and interesting.
+- Treasure is highly valuable, almost always bulky, and rarely useful beyond its worth and prestige.
+- Relics are not Treasure, though they are useful and interesting.
 - Use **Treasure** as a lure to exotic locations under the protection of intimidating foes.
 
 ### Choice  
@@ -635,7 +635,7 @@ PCs can hire **hirelings** to aid them in their expeditions. To create a hirelin
 **Wealth & Treasure**  
 The most common coin is the gold piece (gp), which is equal to 10 silver pieces (sp) and 100 copper pieces (cp).
 
-Treasure is highly valuable, usually bulky,and rarely useful beyond its value.It can be a lure, taking PCs to exotic and even dangerous locations, and is often under the protection of intimidating foes.
+Treasure is highly valuable, usually bulky, and rarely useful beyond its value. It can be a lure, taking PCs to exotic and even dangerous locations, and is often under the protection of intimidating foes.
 
 Villages,strongholds, and ports of call barter and trade based on the local rarity and value of an item or commodity.
 
