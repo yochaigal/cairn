@@ -92,11 +92,11 @@ Players trust one another to engage with the shared setting, character goals, an
 - A Treasure is specific to the environment from where it is recovered. It tells a story.
 - Treasure is highly valuable, almost always bulky, and rarely useful beyond its worth and prestige.
 - Relics are not Treasure, though they are useful and interesting.
-- Use **Treasure** as a lure to exotic locations under the protection of intimidating foes.
+- Use Treasure as a lure to exotic locations under the protection of intimidating foes.
 
 ### Choice  
 - Give players a solid choice to force outcomes when the situation  lulls.
-- Use binary&quot; so, A or B?&quot; responses when their intentions are vague.
+- Use binary "so, A or B?" responses when their intentions are vague.
 - Work together with this conversational progress to keep the game moving.
 - Ensure that the player character's actions leave their mark on the game world.
 
@@ -658,7 +658,7 @@ Anyone can cast a spell by holding a Spellbook in both hands and reading its con
 **Relics**  
 **Relics** are items imbued with a magical spell or power. They do not cause Fatigue. Relics usually have a limited use, as well as a recharge condition. A few examples:
 
-**Honeyclasp** , 3 charges. A rusted ring that shrinks the bearer to 6&quot;tall. Recharge: place in a thimble-sized cup of royal jelly.
+**Honeyclasp** , 3 charges. A rusted ring that shrinks the bearer to 6" tall. Recharge: place in a thimble-sized cup of royal jelly.
 
 **Falconer's Friend** , 1 charge. A bolt-shaped wand carrying the _Haste_spell. Recharge: fire from a crossbow and recover.
 
