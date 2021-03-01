@@ -15,8 +15,6 @@ A growing collection of additional character sheets, links, adventures, etc.
 
 [Online Character Sheet + Tokens](https://docs.google.com/presentation/d/1rYEUNE9_zsEUBut3a3UyRhRr8fy33s5fjX4Y7L6lvog) (Make a copy)
 
-[Fillable Character Sheets (token)](https://drive.google.com/file/d/1J9rOVBWIsf1_SSvNou8lLPN2zIodQ-dy/view) (Spanish)
-
 [idolofmanyhand's generator (with gear packages!)](http://d12dev.com/chart/32009)
 
 [Classic Fantasy Starting Packages](https://dreamingdragonslayer.wordpress.com/2021/01/06/classic-fantasy-starting-packages-for-into-the-odd/)
@@ -52,3 +50,5 @@ A growing collection of additional character sheets, links, adventures, etc.
 
 ## Localizations
 [Cairn in Italian](https://github.com/idolofmanyhands/cairn-ita)
+
+[Fillable Token Character Sheets (Spanish]((https://drive.google.com/file/d/1J9rOVBWIsf1_SSvNou8lLPN2zIodQ-dy/view)
