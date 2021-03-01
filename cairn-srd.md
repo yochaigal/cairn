@@ -110,8 +110,8 @@ Players trust one another to engage with the shared setting, character goals, an
 
 ## Principles for Players
 ### Agency
-- Attributes and related saves do not define your character.They are tools.
-- Don't ask only what your character would do, ask what you would do,too.
+- Attributes and related saves do not define your character. They are tools.
+- Don't ask only what your character would do, ask what you would do, too.
 - Be creative with your intuition, items, and connections.
 
 ### Teamwork
