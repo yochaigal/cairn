@@ -38,10 +38,10 @@ The Warden's role is to portray the rules, situations, NPCs, and narrative clear
 A character's role or skills are not limited by a single class. Instead, the equipment they carry and their experiences defines their specialty.
 
 ### Death
-Characters may be powerful, but they are also vulnerable to harm in its many forms. Death is always around the corner,but it is never random or without warning.
+Characters may be powerful, but they are also vulnerable to harm in its many forms. Death is always around the corner, but it is never random or without warning.
 
 ### Fiction First  
-Dice do not always reflect an obstacle's difficulty or its outcome. Instead, success and failure are arbitrated by the Warden in dialogue with the players, based on in- world elements.
+Dice do not always reflect an obstacle's difficulty or its outcome. Instead, success and failure are arbitrated by the Warden in dialogue with the players, based on in-world elements.
 
 ### Growth  
 Characters are changed through in-world advancement, gaining new skills and abilities by surviving dangerous events and overcoming obstacles.
