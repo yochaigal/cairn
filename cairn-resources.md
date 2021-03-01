@@ -49,6 +49,6 @@ A growing collection of additional character sheets, links, adventures, etc.
 <p></p>
 
 ## Localizations
-[Cairn in Italian](https://github.com/idolofmanyhands/cairn-ita)
+[Cairn in Italian](https://idolofmanyhands.github.io/cairn-ita/)
 
 [Fillable Token Character Sheets (Spanish]((https://drive.google.com/file/d/1J9rOVBWIsf1_SSvNou8lLPN2zIodQ-dy/view)
