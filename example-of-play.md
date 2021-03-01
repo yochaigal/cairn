@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Combat Example
+title: Example of Play
+nav_order: 6
 nav_exclude: true
 ---
 
-# Example Of Play
+# Example of Play
