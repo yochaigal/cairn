@@ -761,7 +761,7 @@ When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look 
 **Cobblehounds**  
 12 HP, 2 Armor, 14 STR, 1 DEX, 8 WIL, bite (d10)
 - Immobile constructs typically used as guardians to great tombs or artifacts.
-- Unaffected by mundane persuasion techniques - but do love a goodb one.
+- Unaffected by mundane persuasion techniques - but do love a good bone.
 
 **Wood Troll**   
 12 HP, 15 STR, 12 DEX, 7 WIL, claws and bite (d8+d8 blast)
@@ -770,8 +770,8 @@ When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look 
 
 **Frost Elf**  
 14 HP, 1 Armor, 8 STR, 13 DEX, 14 WIL, icicle dagger (d6), a Spellbook (Choose one: _Sleep, Teleport, Detect Magic)_
-- Beautiful, amoral, andlong-lived.
-- Resistant to most forms ofmagic.
+- Beautiful, amoral, and long-lived.
+- Resistant to most forms of magic.
 
 **Boggart**  
 3 HP, 4 STR, 17 DEX, 13 WIL
