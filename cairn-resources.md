@@ -28,7 +28,7 @@ A growing collection of additional character sheets, links, adventures, etc.
 ## Adventures
 [Hideous Daylight (converted)](https://docs.google.com/document/d/1P6yZTtamLkSKAruc_AlGktWwbUxRPtFdTreCnTAX3rE/edit)
 
-[Lair of the Serpent Prince (official conversion)](https://nakade.itch.io/lair-of-the-serpent-prince-cairn)
+[Lair of the Serpent Prince](https://nakade.itch.io/lair-of-the-serpent-prince-cairn)
 
 [Cairn Spark Tables](https://docs.google.com/spreadsheets/d/1b3E3FsQVvjqAMVcDIVXXQmo9g6bH0fQBDbzRJ6K5F10/edit#gid=0)
 <p></p>
@@ -48,6 +48,7 @@ A growing collection of additional character sheets, links, adventures, etc.
 [Mausritter Item Creation Tools](https://mausritter.com/item-card-studio/)
 
 [Electric Bastionland Style Backgrounds For Knave (work for Cairn, too!)](https://aboleth-overlords.com/?s=backgrounds)
+<p></p>
 
 ## Localizations
 [Cairn in Italian](https://github.com/idolofmanyhands/cairn-ita)
