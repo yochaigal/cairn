@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Example of Play
-nav_order: 6
+nav_order: 3
 nav_exclude: true
 ---
 
