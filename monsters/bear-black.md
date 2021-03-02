@@ -1,17 +1,12 @@
 ---
 layout: default
-parent: Monsters 
-title: 
---- 
+parent: Monsters
+title:
+---
 # Bear, Black
-5 HP, 14 STR, claws (d6)
+5 HP, 14 STR, claws (d6)  
 • 6’ tall bears who eat mostly berries and roots  
 • Only attack if cornered or to protect their young  
 • Sometimes raids camps for food  
 
-
-
-
-author: [xenio](https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html) 
-
-
+author: [xenio](https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html)
