@@ -167,7 +167,7 @@ Characters have a total of 10 inventory slots: a backpack with six slots, one sl
 
 Most items take up one slot, and small items can be bundled together. Slots are abstract and can be rearranged per the Warden's discretion.
 
-**Bulky** items take up two slots and are typically two-handed or awkward to carry. Anyone carrying a full inventory (e.g. filling all 10 slots) is reduced to 0HP.
+**Bulky** items take up two slots and are typically two-handed or awkward to carry. Anyone carrying a full inventory (e.g. filling all 10 slots) is reduced to 0 HP.
 
 A PC cannot carry more items than their inventory allows. Carts (which must be pulled with both hands), horses, or mules can increase inventory.  **Hirelings** can also be paid to carry equipment.
 
@@ -627,7 +627,7 @@ When the PCs encounter an NPC whose reaction to the party is not obvious, the Wa
 | Hostile | Wary | Curious | Kind | Helpful |
 
 **Morale**  
-Enemies must pass a WIL save to avoid fleeing when they take their first casualty and again when they lose half their number. Some groups may use their leader's WIL in place of their own. Lone foes must save when they're reduced to 0HP. Morale does not affect PCs.
+Enemies must pass a WIL save to avoid fleeing when they take their first casualty and again when they lose half their number. Some groups may use their leader's WIL in place of their own. Lone foes must save when they're reduced to 0 HP. Morale does not affect PCs.
 
 **Hirelings**  
 PCs can hire **hirelings** to aid them in their expeditions. To create a hireling, roll 3d6 for each ability score, then give them 1d6 HP and a simple weapon (d6), then roll on the [**Character Creation**](#character-creation) tables to further flesh them out. Hirelings cost between 1-3gp per day, or a share of whatever treasure the party obtains.
@@ -639,7 +639,7 @@ Treasure is highly valuable, usually bulky, and rarely useful beyond its value. 
 
 Villages,strongholds, and ports of call barter and trade based on the local rarity and value of an item or commodity.
 
-**Spellbooks & Scrolls**  
+## Magic
 **Spellbooks** contain a single spell and take up one slot. They cannot be transcribed or created; instead they are recovered from places like tombs, dungeons, and manors.
 
 Spellbooks sometimes display unusual properties or limitations, such as producing a foul or unearthly smell when opened, possessing an innate intelligence,or being legible only when held in moonlight.

@@ -8,12 +8,14 @@ nav_exclude: true
 # Example of Play
 ---
 ### Game Setup
-Two Player Characters, **Esme** (a dual-wielder with the _Herbalist_ background) & **Borrid**, a former **Hunter**.
+Two Player Characters, **Esme** (a dual-wielder with the _Herbalist_ background) & **Borrid**, a former _Hunter_. They are in search of an ancient [**Relic**](https://yochaigal.github.io/cairn/cairn-srd.html#magic), rumored to have restorative powers.
 
 ## Frequently Asked Questions
+### How much do PCs "know" and how does that knowledge effect things, mechanically?
+**Esme** & **Borrid** have spent the better part of the day cutting their way into the _Geunant Forest_, chopping through hanging vines and waist-high bramble bushes. **Borrid** stops every few minutes to check the map, relying on his background as a *Hunter* to ensure the party does not get lost.
 
 ### How does "Initiative" work?
-**Esme** & **Borrid** are in search of an ancient **Relic**, rumored to have restorative powers. They've spent the better part of the day cutting their way into the _Geunant Forest_, chopping through hanging vines and waist-high bramble bushes. **Borrid** stops every few minutes to check the map, relying on his background as a *Hunter* to ensure the party does not get lost. In the late afternoon they finally break through and arrive at the _God-Slip_, a long ravine splitting the forest in two. No bridge spans this part of the ravine, and judging by the sheer rock walls on either side, climbing down would be extremely dangerous. Unfortunately their quarry is most likely located just across, where the cliffs meet the edge of the world. They decide to make camp before moving out.
+In the late afternoon they finally break through and arrive at the _God-Slip_, a long ravine splitting the forest in two. No bridge spans this part of the ravine, and judging by the sheer rock walls on either side, climbing down would be extremely dangerous. Unfortunately their quarry is most likely located just across, where the cliffs meet the edge of the world. They decide to make camp before moving out.
 
 They set up camp with their backs to the ravine, judging it to be one fewer thing they'd have to worry about at night. Later that evening, the adventurers decide to take turns at keeping watch. **Esme** takes the first shift. Halfway through, she hears a snapping of twigs coming from just to the West of their camp, back towards the _Geunant Forest_.
 
