@@ -157,7 +157,7 @@ Player Characters (PCs) have just three attributes:
 **Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**. When creating a PC, the player should roll 3d6 for each of their character's ability scores, in order. They may then swap any two of the results.
 
 **Example:**   
-Ines rolls for her character's **STR**, resulting in a **2**, a **4**, and a **6** , totaling **12**. The next two ability rolls result in a **9** for **DEX** and a **13** for **WIL** . She decides to swap the **12** and the **9** , for a character with **9 STR** , **12 DEX** and **13** **WIL**.
+Ines rolls for her character's **STR**, resulting in a **2**, a **4**, and a **6**, totaling **12**. The next two ability rolls result in a **9** for **DEX** and a **13** for **WIL**. She decides to swap the **12** and the **9**, for a character with **9 STR**, **12 DEX** and **13** **WIL**.
 
 ### Hit Protection  
 Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**). If an attack takes a PC's HP exactly to 0, the player must roll on the **Scars** table.
@@ -593,13 +593,13 @@ If you would like something closer to traditional classes, refer to the list of 
 
 ## Rules
 **Abilities**  
-Each of the three **abilities** are used in different circumstances (see **saves** , below).
+Each of the three **abilities** are used in different circumstances (see **saves**, below).
 
 **Strength (STR**): Used for saves requiring physical power, like lifting gates, bending bars, resisting poison, etc.
 
 **Dexterity (DEX):** Used for saves requiring poise, speed, and reflexes like dodging, climbing, sneaking, balancing, etc.
 
-**Willpower** (WIL): Used for saves to persuade,deceive,interrogate,intimidate, charm,provoke,manipulate spells,etc.
+**Willpower** (WIL): Used for saves to persuade, deceive, interrogate, intimidate, charm, provoke, manipulate spells, etc.
 
 **Saves**  
 A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs roll a d20 for an appropriate ability score. If they roll_equal to or under that ability score_, they pass. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
