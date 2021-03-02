@@ -8,7 +8,7 @@ nav_exclude: true
 # Example of Play
 ---
 ### Game Setup
-Two Player Characters, **Esme** (a dual-wielder with the _Herbalist_ background) & **Borrid**, a former _Hunter_. They are in search of an ancient [**Relic**](https://yochaigal.github.io/cairn/cairn-srd.html#magic), rumored to have restorative powers.
+Two Player Characters, **Esme** (a dual-wielder with the _Herbalist_ background) & **Borrid**, a former _Hunter_. They are in search of an ancient [**Relic**](/cairn-srd.html#magic), rumored to have restorative powers.
 
 ## Frequently Asked Questions
 ### How much do PCs "know" and how does that knowledge effect things, mechanically?
