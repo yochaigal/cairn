@@ -1,10 +1,10 @@
 ---
 layout: default
-parent: Monsters 
-title: 
---- 
+parent: Monsters
+title:
+---
 # Blink Dog
-3 HP, 14 DEX, bite (d6)
+3 HP, 14 DEX, bite (d6)  
 • Intelligent, fey-like dogs that live in packs  
 • Teleport away in a blink after attacking  
 
@@ -12,6 +12,4 @@ title:
 
 
 
-author: [xenio](https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html) 
-
-
+author: [xenio](https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html)
