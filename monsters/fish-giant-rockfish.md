@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-title: 
+   
 --- 
 # Fish, Giant Rockfish
 5 HP, 1 Armor, 12 STR, spine (d6)  

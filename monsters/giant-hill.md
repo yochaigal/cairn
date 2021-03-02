@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-title: 
+   
 --- 
 # Giant, Hill
 8 HP, 15 STR, 6 WIL, great club (d8+d8)  

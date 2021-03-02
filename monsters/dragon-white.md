@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-title: 
+   
 --- 
 # Dragon, White
 11 HP, 2 Armor, 16 STR, bite (d8+d8)  

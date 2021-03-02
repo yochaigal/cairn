@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-title: 
+   
 --- 
 # Crocodile, Large
 6 HP, 1 Armor, 14 STR, 8 DEX, bite (d8)  

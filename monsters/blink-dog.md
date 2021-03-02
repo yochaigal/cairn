@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters
-title:
+  
 ---
 # Blink Dog
 3 HP, 14 DEX, bite (d6)  

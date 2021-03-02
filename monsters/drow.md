@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-title: 
+   
 --- 
 # Drow
 4 HP, 8 STR, 14 DEX, 12 WIL, shortsword (d6), a Spellbook (choose one&#58; Web, Spider Climb, or Night Sphere)  

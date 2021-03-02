@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-title: 
+   
 --- 
 # Flail Snail
 4 HP, 2 Armor, 14 STR, 6 DEX, tentacles (d8+d8)  

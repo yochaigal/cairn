@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-title: 
+   
 --- 
 # Golem, Bronze
 20 HP, 3 Armor, 20 STR, 8 DEX, 11 WIL, fists (d10+d10)  

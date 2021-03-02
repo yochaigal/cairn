@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-title: 
+   
 --- 
 # Goblin
 4 HP, 8 STR, 12 DEX, 8 WIL, dagger or short bow (d6)  

@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters
-title:
+  
 ---
 # Bear, Grizzly
 6 HP, 15 STR, claws (d8)  

@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-title: 
+   
 --- 
 # Crab, Giant
 3 HP, 3 Armor, 11 STR, 4 DEX, pincers (d8)  

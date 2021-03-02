@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-title: 
+   
 --- 
 # Golem, Iron
 18 HP, 3 Armor, 18 STR, 8 WIL, sword (d10+d10)  

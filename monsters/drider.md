@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-title: 
+   
 --- 
 # Drider
 6 HP, 14 DEX, bite (d6)  

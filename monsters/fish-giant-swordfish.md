@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-title: 
+   
 --- 
 # Fish, Giant Swordfish
 3 HP, 12 DEX, sword (d8)  

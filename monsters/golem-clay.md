@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-title: 
+   
 --- 
 # Golem, Clay
 11 HP, 2 Armor, 15 STR, 7 DEX, 8 WIL, fists (d8)  

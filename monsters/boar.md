@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters
-title:
+  
 ---
 # Boar
 3 HP, 12 STR, 6 WIL, tusks (d6)  

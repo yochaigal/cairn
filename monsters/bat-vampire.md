@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters
-title:
+  
 ---
 # Bat, Vampire
 3 HP,  8 STR, bite (d8)  

@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters
-title:
+  
 ---
 # Berserker
 4 HP, 1 armor, 14 STR, battleaxe (d10, bulky)  

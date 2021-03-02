@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters
-title:
+  
 ---
 # Banshee
 7 HP, 3 Armor, 6 STR, 12 DEX,  14 WIL, ghostly touch(d8)  

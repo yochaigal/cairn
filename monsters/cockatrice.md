@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-title: 
+   
 --- 
 # Cockatrice
 5 HP, 8 STR, 12 DEX, beak (d6)  

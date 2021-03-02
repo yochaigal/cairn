@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-title: 
+   
 --- 
 # Fish, Giant Pike
 4 HP, 14 DEX, bite (d6+d6)  

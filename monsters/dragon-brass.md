@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-title: 
+   
 --- 
 # Dragon, Brass
 11 HP, 2 Armor, 16 STR, 19 WIL, bite (d8+d8)  

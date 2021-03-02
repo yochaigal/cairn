@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-title: 
+   
 --- 
 # Gargoyle
 6 HP, 14 STR, 8 DEX, 12 WIL, claws (d6+d6)  

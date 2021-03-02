@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-title: 
+   
 --- 
 # Chimera
 9 HP, 14 STR, bite (d6+d6+d6, blast)  

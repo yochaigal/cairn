@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters
-title:
+  
 ---
 # Basilisk
 6 HP, 12 STR, 13 DEX, bite (d10)  

@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-title: 
+   
 --- 
 # Dragon, Copper
 12 HP, 2 Armor, 16 STR, 14 DEX, 18 WIL, bite (d8+d8)  

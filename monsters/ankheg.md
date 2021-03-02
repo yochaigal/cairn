@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters
-title:
+  
 ---
 Ankheg
 7 HP, 2 Armor, 16 STR, 8 WIL, bite (d8)  

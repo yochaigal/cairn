@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-title: 
+   
 --- 
 # Camel
 3 HP, 15 STR, bite (d6)  

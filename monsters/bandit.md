@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters
-title:
+  
 ---
 # Bandit
 4 HP, 14 DEX, dagger(d6)  

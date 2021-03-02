@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-title: 
+   
 --- 
 # Dryad
 4 HP, 14 WIL, unarmed (d4)  

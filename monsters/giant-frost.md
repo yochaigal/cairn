@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-title: 
+   
 --- 
 # Giant, Frost
 10 HP, 2 Armor, 18 STR, 12 WIL, greataxe (d8+d8)  

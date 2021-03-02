@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-title: 
+   
 --- 
 # Cat, Lion
 5 HP, 12 STR, 12 DEX, bite (d10)  

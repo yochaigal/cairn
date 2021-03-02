@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-title: 
+   
 --- 
 # Fish, Giant Electric Eel
 2 HP, 12 DEX, bite (d6)  

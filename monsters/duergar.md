@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-title: 
+   
 --- 
 # Duergar
 4 HP, 1 Armor, 14 STR, 8 WIL, Warhammer (d10, bulky)  

@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-title: 
+   
 --- 
 # Gnome
 4 HP, 8 STR, 12 DEX, 14 WIL, crossbow (d8, bulky)  

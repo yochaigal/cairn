@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-title: 
+   
 --- 
 # Fish, Giant Piranha
 3 HP, 12 DEX, bite (d8)  

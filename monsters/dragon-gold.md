@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-title: 
+   
 --- 
 # Dragon, Gold
 15 HP, 3 Armor, 18 STR, 13 DEX, 16 WIL, bite (d10+d10)  

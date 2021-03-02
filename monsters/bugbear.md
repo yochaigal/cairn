@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters
-title:
+  
 ---
 # Bugbear
 4 HP, 1 Armor, 14 DEX, club (d8, bulky)  

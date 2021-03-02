@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-title: 
+   
 --- 
 # Ghost
 10 HP, 3 Armor, 14 WIL, draining touch (d6)  

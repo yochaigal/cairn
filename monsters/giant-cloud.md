@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-title: 
+   
 --- 
 # Giant, Cloud
 12 HP, 1 Armor, 19 STR, 12 DEX, 18 WIL, morningstar(d8+d8)  

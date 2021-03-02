@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-title: 
+   
 --- 
 # Deep Ones
 4 HP, 11 STR, 8 DEX, 12 WIL, dagger (d6)  

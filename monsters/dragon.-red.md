@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-title: 
+   
 --- 
 # Dragon. Red
 15 HP, 3 Armor, 18 STR, 12 DEX, 16 WIL, bite (d10+d10)  

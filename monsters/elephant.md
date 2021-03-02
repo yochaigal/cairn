@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters
-title:
+  
 ---
 # Elephant
 9 HP, 16 STR, 6 DEX, tusks (d8)  

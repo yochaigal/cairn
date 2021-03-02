@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters
-title:
+  
 ---
 # Brigand
 4 HP, 1 armor, shortsword (d6) or short bow (d6)  

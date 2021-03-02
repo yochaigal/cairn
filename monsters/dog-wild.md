@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-title: 
+   
 --- 
 # Dog, Wild
 3 HP, 12 DEX, bite (d6)  

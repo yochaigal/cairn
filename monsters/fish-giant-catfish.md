@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-title: 
+   
 --- 
 # Fish, Giant Catfish
 8 HP, 14 STR, bite (d8+d8)  

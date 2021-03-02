@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters
-title:
+  
 ---
 # Djinn
 10 HP, 1 armor, 15 DEX, fists(d8)  

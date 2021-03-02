@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-title: 
+   
 --- 
 # Cyclops
 13 HP, 18 STR, 8 DEX, 6 WIL, club (d10)  

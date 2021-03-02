@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-title: 
+   
 --- 
 # Elemental, Earth
 12 HP, 3 Armor, 16 STR, 8 DEX, fist (d10)  

@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters
-title:
+  
 ---
 # Dog, Hunting
 2 HP, 12 DEX, bite (d6)  

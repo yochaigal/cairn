@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-title: 
+   
 --- 
 # Centaur
 4 HP, 1 Armor, 12 STR, 12 DEX, 13 WIL, spear or short bow (d6)  

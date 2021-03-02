@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-title: 
+   
 --- 
 # Dragon Turtle
 30 HP, 3 Armor, 20 STR, 6 DEX, bite (d10+d10)  

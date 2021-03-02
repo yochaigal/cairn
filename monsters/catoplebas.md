@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-title: 
+   
 --- 
 # Catoplebas
 7 HP, 13 STR, tail(d8)  

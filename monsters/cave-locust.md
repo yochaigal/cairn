@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-title: 
+   
 --- 
 # Cave Locust
 2 HP, 6 STR, 12 DEX, bite (d4)  

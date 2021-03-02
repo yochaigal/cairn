@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-title: 
+   
 --- 
 # Ettin
 10 HP, 16 STR, 6 WIL, club (d10)  

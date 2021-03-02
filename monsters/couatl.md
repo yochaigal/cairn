@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-title: 
+   
 --- 
 # Couatl
 9 HP, 15 WIL, bite (d6)  

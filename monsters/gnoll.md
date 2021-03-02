@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-title: 
+   
 --- 
 # Gnoll
 4 HP, 1 Armor, 12 STR, 8 WIL, spear or short bow (d6)  

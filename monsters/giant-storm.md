@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-title: 
+   
 --- 
 # Giant, Storm
 15 HP, 2 Armor, 20 STR, 14 DEX, 18 WIL, greatsword (d10+d10)  

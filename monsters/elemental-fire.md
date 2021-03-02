@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-title: 
+   
 --- 
 # Elemental, Fire
 16 HP, 12 DEX, 14 WIL, blow (d8)  

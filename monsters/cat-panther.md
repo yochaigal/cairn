@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-title: 
+   
 --- 
 # Cat, Panther
 4 HP, 14 DEX, bite (d8)  

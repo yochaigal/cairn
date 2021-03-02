@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-title: 
+   
 --- 
 # Centipede, Giant
 1 HP, 6 STR, 6 WIL, bite (d4)  

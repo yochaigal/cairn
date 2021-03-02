@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-title: 
+   
 --- 
 # Ghoul
 3 HP, 6 WIL, claws (d6)  

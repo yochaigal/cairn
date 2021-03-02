@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-title: 
+   
 --- 
 # Cat, Sabre-Toothed Tiger
 8 HP, STR 15, bite (d10)  

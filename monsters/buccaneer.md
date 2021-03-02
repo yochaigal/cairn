@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters
-title:
+  
 ---
 # Buccaneer
 4 HP, 14 DEX, 12 WIL, scimitar (d6)  

@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters
-title:
+  
 ---
 # Bear, Black
 5 HP, 14 STR, claws (d6)  

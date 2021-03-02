@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-title: 
+   
 --- 
 # Elf
 4 HP, 1 Armor, 8 STR, 14 DEX, 14 WIL, shortswords (d6+d6) or longbow (d8), a Spellbook (choose one&#58; Charm or Detect Magic)  
