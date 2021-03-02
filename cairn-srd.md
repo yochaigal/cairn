@@ -132,7 +132,7 @@ Players trust one another to engage with the shared setting, character goals, an
 - Try to stack the odds in your favor and retreat when things seem unfavorable.
 
 ### Planning
-- Think of ways to avoid your obstacles through reconnaissance,subtlety,and fact-finding.
+- Think of ways to avoid your obstacles through reconnaissance, subtlety, and fact-finding.
 - Do some research and ask around about your objectives.
 
 ### Ambition
