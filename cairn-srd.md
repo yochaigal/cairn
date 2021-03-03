@@ -26,7 +26,6 @@ Players act as hardened adventurers exploring a dark & mysterious Wood filled wi
 - [Rules Summary](#rules-summary)
 
 
-
 ## Overview
 
 **Cairn** was written with the following design philosophies in mind:
