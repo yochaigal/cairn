@@ -4,7 +4,7 @@ title: SRD
 nav_order: 2
 ---
 
-# Cairn System Reference Document
+# Cairn System Reference Document (v.1.0)
 
 <p></p>
 
