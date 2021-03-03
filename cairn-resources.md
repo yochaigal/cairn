@@ -29,13 +29,8 @@ A growing collection of additional character sheets, links, adventures, etc.
 [Lair of the Serpent Prince](https://nakade.itch.io/lair-of-the-serpent-prince-cairn)
 
 [Cairn Spark Tables](https://docs.google.com/spreadsheets/d/1b3E3FsQVvjqAMVcDIVXXQmo9g6bH0fQBDbzRJ6K5F10/edit#gid=0)
-<p></p>
 
-
-### Monsters
 [Tomb of the Serpent Kings Monsters](https://docs.google.com/document/d/16d1F-V0i1GrcYu0Ug2UfPC1Uy7FVbYef7sp1CqWTGLA/edit)
-
-[Xenio's old school monsters](https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html) (also [here](https://yochaigal.github.io/intotheodd/#xenio))
 <p></p>
 
 ## Tools & Misc
