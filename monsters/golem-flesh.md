@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-   
+
 --- 
 # Golem, Flesh
 9 HP, 1 Armor, 15 STR, 8 DEX, 8 WIL, fists (d8)  

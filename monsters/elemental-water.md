@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-   
+
 --- 
 # Elemental, Water
 12 HP, 2 armor, 15 STR, blow (d8)  

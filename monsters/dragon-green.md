@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-   
+
 --- 
 # Dragon, Green
 12 HP, 2 Armor, 15 STR, 18 WIL, bite (d8+d8)  

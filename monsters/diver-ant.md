@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-   
+
 --- 
 # Diver Ant
 3 HP, 12 DEX, bite (d6)  

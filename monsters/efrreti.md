@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-   
+
 --- 
 # Efrreti
 10 HP, 15 STR, 14 WIL, flaming sword (d10, bulky)  

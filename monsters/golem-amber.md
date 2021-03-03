@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-   
+
 --- 
 # Golem, Amber
 10 HP, 3 Armor, 16 STR, 12 DEX, 14 WIL, claws (d8)  

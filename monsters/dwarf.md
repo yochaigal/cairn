@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-   
+
 --- 
 # Dwarf
 4 HP, 2 Armor, 14 STR, hammer (d8)  

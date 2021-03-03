@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-   
+
 --- 
 # Dragon, Bronze
 13 HP, 2 Armor, 16 STR, 14 DEX, 14 WIL, bite (d8+d8)  

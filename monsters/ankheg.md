@@ -9,4 +9,4 @@ Ankheg
 • Stay burrowed just beneath the surfaces to ambush creatures walking above.  
 • Squirts acid on distant enemies for d10 damage.  
 
-author:.   [xenio](https://xenioinabottle.  blogspot.  com/2021/02/classic-monsters-for-cairnito-part-1.  html)
+author: [xenio](https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html)

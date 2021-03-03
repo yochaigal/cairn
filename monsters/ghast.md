@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-   
+
 --- 
 # Ghast
 4 HP, 12 STR, WIL 6, claws (d6+d6)  

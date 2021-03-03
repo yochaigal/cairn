@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-   
+
 --- 
 # Giant, Fire
 11 HP, 3 Armor, 17 STR, 8 DEX, greatsword (d10+d10)  

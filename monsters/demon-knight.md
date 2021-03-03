@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-   
+
 --- 
 # Demon Knight
 10 HP, 3 Armor, 16 STR, 8 DEX, 12 WIL, longsword (d8), Unholy Symbol (Hatred when bathed in blood)  

@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-   
+
 --- 
 # Giant, Stone
 9 HP, 2 Armor, 16 STR, 14 DEX, stone club (d8+d8)  

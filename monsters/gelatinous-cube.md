@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters 
-   
+
 --- 
 # Gelatinous Cube
 6 HP, 16 STR, 8 DEX, 4 WIL, touch (d8)  
