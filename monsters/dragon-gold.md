@@ -1,17 +1,10 @@
 ---
 layout: default
 parent: Monsters 
-
 --- 
 # Dragon, Gold
 15 HP, 3 Armor, 18 STR, 13 DEX, 16 WIL, bite (d10+d10)  
 - Majestic, reserved dragons with dark golden scales.   Can be found anywhere, but nest atop mountains, feeding of jewels and other minerals.  
 - Master shapechangers, can take the form of any humanoid or animal.  
 - Breath fire in a massive cone for d10 damage to all caught.  
-
-
-
-
 author: [xenio](https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html) 
-
-

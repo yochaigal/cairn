@@ -2,12 +2,9 @@
 layout: default
 parent: Monsters
 ---
-
 # Lycanthrope, Wererat
 3 HP, 8 STR, 14 DEX, 12 WIL, bite (d4+d4) or weapon (d6)
-
 - Intelligent, humanoid rats that can change into normal humans. 
 - Can speak and wield weapons normally while in rat form.
 - Critical Damage: A human victim gets infected, becoming a lycanthrope of the same type after a couple of weeks.
-
 author: [xenio](https://xenioinabottle.blogspot.com/2021/03/classic-monsters-for-cairnito-part-2.html)
