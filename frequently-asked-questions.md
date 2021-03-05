@@ -1,12 +1,13 @@
 ---
 layout: default
-title: Example of Play
+title: FAQs
 nav_order: 3
 nav_exclude: true
 ---
 
-# Example of Play
+# Frequently Asked Questions
 ---
+
 ### Game Setup
 Two Player Characters, **Esme** (a dual-wielder with the _Herbalist_ background) & **Borrid**, a former _Hunter_. They are in search of an ancient [**Relic**](/cairn-srd.html#magic), rumored to have restorative powers.
 
