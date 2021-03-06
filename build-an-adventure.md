@@ -16,13 +16,14 @@ nav_exclude: true
 - Images can also serve as sparks.
 
 
-## Prep:
+## Themes:
 - Pick a theme for the area.
 - Name (should reflect or theme). Some help [here](https://www.fantasynamegenerators.com/forest_names.php).
 - Come up with a premise; typically an amazing location with a treasure to hunt.
 - Dangers, Stakes, Motives, Urgency	----
 - Ruling faction (if applicable) with trait(s) & motives; add some kind of counter balance (enemies or pre-existing/hidden faction).
-- A map of a area:
+
+## A map of a area:
 - Draw at least four lines of any shape, each from a different color. Each line should cross another at least once. These lines represent roads or paths.
 - Generate at least 3 Points of Interest: from tables; take in consideration the theme(s) and factions. Put these wherever the lines cross.
 - Generate regional/hex features for each POI using tables and placing results in those POIs where it makes most sense.
