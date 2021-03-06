@@ -10,7 +10,8 @@ nav_exclude: true
 
 ## Spark Tables
 - Generate at least 10 interesting phrases for inspiration.  
-- To create a Spark Table, find a source (e.g. a PDF with related content). Create a word cloud. Clean up the words. Sort by d20 in two columns.
+- To create a Spark Table, find a source (e.g. a PDF with related content).
+- Create a word cloud. Clean up the words. Sort by d20 in two columns.
 - [Example Spark Tables for Cairn](https://docs.google.com/spreadsheets/d/1b3E3FsQVvjqAMVcDIVXXQmo9g6bH0fQBDbzRJ6K5F10/edit#gid=0).
 - Images can also serve as sparks.
 
