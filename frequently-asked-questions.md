@@ -1,7 +1,7 @@
 ---
 layout: default
 title: FAQs
-nav_order: 3
+nav_order: 9
 nav_exclude: true
 ---
 
