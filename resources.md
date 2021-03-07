@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Additional Resources
+title: Resources
 nav_order: 4
 ---
 
