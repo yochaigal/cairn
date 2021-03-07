@@ -35,7 +35,7 @@ nav_exclude: true
 - Notes describing rooms for a dungeon (one sentence describing obstacles, hazards, creatures or minor treasure).
 
 ## Generating Treasure:
-- Spark Tables, Maze Rats, Adventuresmith or similar will help greatly here.
+- Spark Tables, [Maze Rats](https://questingbeast.itch.io/maze-rats), [Adventuresmith](https://play.google.com/store/apps/details?id=org.steavesea.adventuresmith&hl=en_US&gl=US) or similar will help greatly here.
 - Roll on tables - generate stuff.
 - Look on the map and think of who would want that.
 - Look on the map and think of where it could be now.
