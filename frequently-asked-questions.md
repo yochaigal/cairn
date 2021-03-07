@@ -27,3 +27,5 @@ _Designer's Notes: This situation is meant to underscore two uncommon aspects of
 _The second is that provided the creature coming out of the forest is dangerous, the PCs may soon enter combat. In this circumstance, **Esme** does not need to make a DEX save, as she is reasonably ready to combat whatever it is. **Borrid** however is still prone, he will need to make a DEX save to see if he can be readied before whatever comes out of there._
 
 ### When Should an NPC or PC "Save"?
+
+### When does diagetic advancement happen
