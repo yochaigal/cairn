@@ -10,12 +10,14 @@ parent: Resources
 
 ## Theme:
 - Pick a theme for the area. A specific mythology you find inpiring, something from history, etc.
-- Name (should reflect or theme). Some help [here](https://www.fantasynamegenerators.com/forest_names.php).
-- Come up with a premise; typically an amazing location with a treasure to hunt.
-- Dangers, Stakes, Motives, Urgency.
-- Ruling faction (if applicable) with trait(s) & motives; add some kind of counter balance (enemies or pre-existing/hidden faction).
+- Name (should reflect or theme). There are some great names [here](https://www.fantasynamegenerators.com/forest_names.php).
+- Come up with a solid adventure premise; typically an amazing location with a treasure to hunt.
+- Decide on a ruling faction, with traits & motive. Add some kind of counter balance (another faction, some kind of nefarious enemy, etc).
+- Keep these concepts in mind at all times: Dangers, Stakes, Motives, Urgency. The more you can weave in, the better.
 
-## Spark Tables
+## Inspiration
+
+### Spark Tables
 [Spark Tables](https://www.bastionland.com/2017/11/electric-modernity-and-spark-tables.html) are very handy tools for quickly creating a setting. They are typically made of 40 words divided into two columns. For an example Spark Table see [here](https://docs.google.com/spreadsheets/d/1b3E3FsQVvjqAMVcDIVXXQmo9g6bH0fQBDbzRJ6K5F10/edit#gid=0). There are four tables there. With some light editing, they result in phrases like:  
 - Digesting Claws
 - White Eyes
@@ -45,12 +47,14 @@ When you've finished:
 - Images can also serve as sparks.
 - You'll want to generate at least 10 interesting phrases for inspiration.  
 
-## A map of a area:
+## A map
 - Draw at least four lines of any shape, each from a different color. Each line should cross another at least once. These lines represent roads or paths.
 - Generate at least 3 Points of Interest: take in consideration the theme(s) and factions. Put these wherever the lines cross.
 - Generate regional/hex features for each POI using tables and placing results in those POIs where it makes most sense.
 - Place additional (especially hidden) dangers, encounters or NPC’s in some of the POI.
 - Add some travel/route complications, taking in consideration any POIs along the way.
+
+## Encounterse
 
 ### Create detailed notes with additional info, including:
 - Encounter table (1d6/2d6), with at least one result tied to the party or its members.
@@ -59,7 +63,7 @@ When you've finished:
 
 You do not need to do this for ever single POI; just the ones that interest you.
 
-## Generating Treasure:
+## Treasure:
 - Look on the map and think of who would want treasure, and what kind.
 - Look on the map and think of where that treasure could be now.
 - Add 2-3 steps leading up to the location of the treasure, but don't be too obvious.
