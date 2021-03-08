@@ -46,13 +46,14 @@ When you've finished:
 - Images can also serve as sparks.
 
 ## A map
+- If you can draw, great! Otherwise, find a map-making tool that works for you. Examples are [draw.io](http://draw.io), [Hex Kit](https://coneofnegativeenergy.com/hex-kit/), [Owlbear Rodeo](https://www.owlbear.rodeo/), [Wonderdraft](http://wonderdraft.net/), etc.
 - Draw at least four lines of any shape, each from a different color. Each line should cross another at least once. These lines represent roads or paths.
 - Generate at least 3 Points of Interest: take in consideration the theme(s) and factions. Put these wherever the lines cross.
 - Generate regional/hex features for each POI using tables and placing results in those POIs where it makes most sense.
 - Place additional (especially hidden) dangers, encounters or NPC’s in some of the POI.
 - Add some travel/route complications, taking in consideration any POIs along the way.
 
-## Encounterse
+## Encounters
 
 ### Create detailed notes with additional info, including:
 - Encounter table (1d6/2d6), with at least one result tied to the party or its members.
