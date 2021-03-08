@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Build An Adventure Site
-nav_order: 8
-nav_exclude: false
+title: How To Build An Adventure Site
+parent: Resources
 ---
 
-# Build An Adventure Site
+# How To Build An Adventure Site
 ---
 
 ## Themes:
