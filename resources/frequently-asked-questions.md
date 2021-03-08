@@ -2,7 +2,7 @@
 layout: default
 title: FAQs
 parent: Resources
-nav_order: 4
+nav_order: 1
 nav_exclude: true
 ---
 
