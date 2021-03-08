@@ -6,7 +6,7 @@ nav_exclude: false
 ---
 
 # Current Localizations:
-- [Italian](https://idolofmanyhands.github.io/cairn-ita/).
+- [Italian](https://idolofmanyhands.github.io/cairn-ita/)
 
 ## Misc
 - [Fillable Token Character Sheets (Spanish)](https://drive.google.com/file/d/1J9rOVBWIsf1_SSvNou8lLPN2zIodQ-dy/view)
