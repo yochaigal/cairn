@@ -42,8 +42,3 @@ A growing collection of additional character sheets, links, adventures, etc.
 
 [Electric Bastionland Style Backgrounds For Knave (work for Cairn, too!)](https://aboleth-overlords.com/?s=backgrounds)
 <p></p>
-
-## Localizations
-[Cairn in Italian](https://idolofmanyhands.github.io/cairn-ita/)
-
-[Fillable Token Character Sheets (Spanish)](https://drive.google.com/file/d/1J9rOVBWIsf1_SSvNou8lLPN2zIodQ-dy/view)

@@ -17,10 +17,10 @@ nav_exclude: true
 
 
 ## Themes:
-- Pick a theme for the area.
+- Pick a theme for the area. A specific mythology you find inpiring, something from history, etc.
 - Name (should reflect or theme). Some help [here](https://www.fantasynamegenerators.com/forest_names.php).
 - Come up with a premise; typically an amazing location with a treasure to hunt.
-- Dangers, Stakes, Motives, Urgency	----
+- Dangers, Stakes, Motives, Urgency.
 - Ruling faction (if applicable) with trait(s) & motives; add some kind of counter balance (enemies or pre-existing/hidden faction).
 
 ## A map of a area:
