@@ -8,7 +8,7 @@ parent: Resources
 # Build An Adventure Site
 ---
 
-## Theme:
+## Choose A Theme:
 - Pick a theme for the area. A specific mythology you find inpiring, something from history, etc.
 - Name (should reflect or theme). There are some great names [here](https://www.fantasynamegenerators.com/forest_names.php).
 - Come up with a solid adventure premise; typically an amazing location with a treasure to hunt.
@@ -34,7 +34,7 @@ There are four tables there. With some light editing, they result in phrases lik
 - Mildew Gloom
 - Smoldering Shade
 
-### Create a Spark Table
+### Create Spark Tables
 To create a Spark Table, you'll want to find a find a book or website close to your adventure's overall theme (e.g. a PDF with related content). You can pull words from it by simply picking a random page and writing down whatever meets your eye, or you can import it into a web-based tool. You can also import [public domain books](https://archive.org/details/texts) on relevant subjects. [WordCounter.net](https://wordcounter.net/website-word-count) can create lists of non-common keywords from a website. You can then copy and paste those words into a spreadsheet.
 
 Alternatively, you can create [Word Clouds](https://coolinfographics.com/word-clouds). You can copy and paste whole paragraphs or (depending on the book's copyright, of course) the entire PDF.
@@ -45,7 +45,7 @@ When you've finished:
 - You can of course simply write down 40 words that sound good together.
 - Images can also serve as sparks.
 
-## A map
+## Draw A Map
 - If you can draw, great! Otherwise, find a map-making tool that works for you. Examples are [draw.io](http://draw.io), [Hex Kit](https://coneofnegativeenergy.com/hex-kit/), [Owlbear Rodeo](https://www.owlbear.rodeo/), [Wonderdraft](http://wonderdraft.net/), etc.
 - Draw at least four lines of any shape, each from a different color. Each line should cross another at least once. These lines represent roads or paths.
 - Generate at least 3 Points of Interest: take in consideration the theme(s) and factions. Put these wherever the lines cross.
@@ -53,7 +53,7 @@ When you've finished:
 - Place additional (especially hidden) dangers, encounters or NPC’s in some of the POI.
 - Add some travel/route complications, taking in consideration any POIs along the way.
 
-## Encounters
+## Create Some Encounters
 
 ### Create detailed notes with additional info, including:
 - Encounter table (1d6/2d6), with at least one result tied to the party or its members.
@@ -62,7 +62,7 @@ When you've finished:
 
 You do not need to do this for ever single POI; just the ones that interest you.
 
-## Treasure:
+## Create Treasure:
 - Look on the map and think of who would want treasure, and what kind.
 - Look on the map and think of where that treasure could be now.
 - Add 2-3 steps leading up to the location of the treasure, but don't be too obvious.
