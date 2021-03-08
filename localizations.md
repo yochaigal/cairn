@@ -7,7 +7,7 @@ nav_exclude: false
 
 # Current Localizations:
 ## Italian
-- [Italian](https://idolofmanyhands.github.io/cairn-ita/)
+- [Cairn in Italian](https://idolofmanyhands.github.io/cairn-ita/). Includes a few website, PDF & Character Sheet!
 
 ## Spanish
 - [Fillable Token Character Sheets (Spanish)](https://drive.google.com/file/d/1J9rOVBWIsf1_SSvNou8lLPN2zIodQ-dy/view)
