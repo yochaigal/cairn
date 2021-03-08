@@ -1,10 +1,14 @@
 ---
 layout: default
 title: Localizations
+nav_order: 6
 parent: Resources
 ---
 
-# Current Localizations:
+# Localizations
+---
+
+# Cairn is Currently available in the following additional languages:
 - [Italian](https://idolofmanyhands.github.io/cairn-ita/)
 
 ## Misc
