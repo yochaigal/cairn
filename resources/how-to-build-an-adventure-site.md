@@ -7,7 +7,7 @@ parent: Resources
 # How To Build An Adventure Site
 ---
 
-## Themes:
+## Theme:
 - Pick a theme for the area. A specific mythology you find inpiring, something from history, etc.
 - Name (should reflect or theme). Some help [here](https://www.fantasynamegenerators.com/forest_names.php).
 - Come up with a premise; typically an amazing location with a treasure to hunt.
