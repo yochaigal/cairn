@@ -8,20 +8,26 @@ nav_exclude: true
 # Build An Adventure Site
 ---
 
-## Spark Tables
-- Generate at least 10 interesting phrases for inspiration.  
-- To create a Spark Table, find a source (e.g. a PDF with related content).
-- Create a word cloud. Clean up the words. Sort by d20 in two columns.
-- [Example Spark Tables for Cairn](https://docs.google.com/spreadsheets/d/1b3E3FsQVvjqAMVcDIVXXQmo9g6bH0fQBDbzRJ6K5F10/edit#gid=0).
-- Images can also serve as sparks.
-
-
 ## Themes:
 - Pick a theme for the area. A specific mythology you find inpiring, something from history, etc.
 - Name (should reflect or theme). Some help [here](https://www.fantasynamegenerators.com/forest_names.php).
 - Come up with a premise; typically an amazing location with a treasure to hunt.
 - Dangers, Stakes, Motives, Urgency.
 - Ruling faction (if applicable) with trait(s) & motives; add some kind of counter balance (enemies or pre-existing/hidden faction).
+
+## Spark Tables
+[Spark Tables](https://www.bastionland.com/2017/11/electric-modernity-and-spark-tables.html) are very handy tools for quickly creating a unique setting. They typically are made of words in two columns of 20 rows each. For some example Spark Tables for Cairn, see [here](https://docs.google.com/spreadsheets/d/1b3E3FsQVvjqAMVcDIVXXQmo9g6bH0fQBDbzRJ6K5F10/edit#gid=0).  
+
+To create a Spark Table, you'll want to find a find a source close to your adventure's overall theme (e.g. a PDF with related content). You can pull words from it by simply picking a random page and writing down whatever meets your eye, or you can import it into a web-based tool.
+- [WordCounter.net](https://wordcounter.net/website-word-count) can create lists of non-common keywords from a URL;
+
+- [Word Clouds](https://coolinfographics.com/word-clouds). You can copy and paste whole paragraphs or (depending on the book's license, of course) the entire PDF. Additionally, you can create a word cloud from a URL on [here](https://www.wordclouds.com/). For a list of excellent generators
+- You can also import [public domain books](https://archive.org/details/texts) on relevant subjects.
+
+### When you've finished:
+- Clean up the words. Sort by d20 in two columns.
+- Images can also serve as sparks.
+- You'll want to generate at least 10 interesting phrases for inspiration.  
 
 ## A map of a area:
 - Draw at least four lines of any shape, each from a different color. Each line should cross another at least once. These lines represent roads or paths.
