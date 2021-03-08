@@ -16,9 +16,9 @@ nav_exclude: false
 Althought the Cairn rules exist in many forms (PDF, Google Docs, Word, etc), the [SRD](https://cairnrpg.comcairn-srd.html) is probably the best choice.
 
 ## Translating the SRD
-1. Copy the [SRD Markdown](https://github.com/yourusername/cairn-lang/cairn-srd.md) to a markdown editor such as [Typora](https://typora.com) or a web-based renderer like [dillinger.io](https://dillinger.io). If you know how to use Git, you can use [Atom](atom.io).
+1. Copy the [SRD Markdown](https://github.com/yourusername/cairn-lang/cairn-srd.md) to a markdown editor such as [Typora](https://typora.com) or a web-based renderer like [dillinger.io](https://dillinger.io). If you know how to use Git, you can use [Atom](atom.io). If you don't know markdown, don't worry! It's easy. Read more [here](https://guides.github.com/features/mastering-markdown/).
 
-2. Do the hard work of translating the core document. Google Translate and deepl.com are good resources; you can even simply translate the entire document once, then look through it for corrections.
+2. Do the hard work of translating the core document. [Google Translate](https://translate.google.com) and [deepl.com](https://deepl.com) are good resources; you can even simply translate the entire document once, then look through it for corrections.
 
 ## Forking the Github Repo
 1. Create a [Github](https://github.com) account.
@@ -33,6 +33,8 @@ Althought the Cairn rules exist in many forms (PDF, Google Docs, Word, etc), the
 
 6.  Follow this [guide](https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site) to enable github pages on the new repo.
 
+7. If you'd like to make changes to a local version of the website, follow this excellent guide by [David Schirduan](https://www.technicalgrimoire.com/david/2018/10/howto-markdown-blog).
+
 ## Building the PDF in Affinity Publisher
 1. Download the trial of Affinity Publisher, and substitute the translation per word block. I also recreated a couple of tables to make it easier to input. You will need to also sort spells and inventory items by name.
 
@@ -41,4 +43,4 @@ Althought the Cairn rules exist in many forms (PDF, Google Docs, Word, etc), the
 3. Add "**Lang** Version" to the cover.
 
 ## Character Sheet
-1. Contact Licopeo and ask nicely.
+1. Contact [Licopeo](https://twitter.com/LicopeoArt) and ask nicely. Maybe throw him some cash.
