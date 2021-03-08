@@ -1,5 +1,5 @@
 ---
 title: Character Generator
-nav_order: 5
+parent: Resources
 redirect_to: https://yochaigal.github.io/cairn-character-generator
 ---

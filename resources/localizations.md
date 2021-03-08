@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Localizations
-nav_order: 7
-nav_exclude: false
+parent: Resources
 ---
 
 # Current Localizations:
