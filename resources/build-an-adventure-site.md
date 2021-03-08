@@ -12,12 +12,13 @@ parent: Resources
 - Pick a theme for the area. A specific mythology you find inpiring, something from history, etc.
 - Name (should reflect or theme). There are some great names [here](https://www.fantasynamegenerators.com/forest_names.php).
 - Come up with a solid adventure premise; typically an amazing location with a treasure to hunt.
-- Decide on a ruling faction, with traits & motive. Add some kind of counter balance (another faction, some kind of nefarious enemy, etc).
+- Decide on a ruling faction, with traits & motive.
+- Add some kind of counter balance (another faction, some kind of nefarious enemy, etc).
 - Keep these concepts in mind at all times: Dangers, Stakes, Motives, Urgency. The more you can weave in, the better.
 
 ## Spark Tables
-[Spark Tables](https://www.bastionland.com/2017/11/electric-modernity-and-spark-tables.html) are very handy tools for quickly creating a setting. They are typically made of 40 words divided into two columns.   
-For an example Spark Table see [here](https://docs.google.com/spreadsheets/d/1b3E3FsQVvjqAMVcDIVXXQmo9g6bH0fQBDbzRJ6K5F10/edit#gid=0). There are four tables there. With some light editing, they result in phrases like:  
+[Spark Tables](https://www.bastionland.com/2017/11/electric-modernity-and-spark-tables.html) are very handy tools for quickly creating a setting. They are typically made of 40 words divided into two columns. For an example Spark Table see [here](https://docs.google.com/spreadsheets/d/1b3E3FsQVvjqAMVcDIVXXQmo9g6bH0fQBDbzRJ6K5F10/edit#gid=0).  
+There are four tables there. With some light editing, they result in phrases like:  
 - Digesting Claws
 - White Eyes
 - Distorted Tongues
