@@ -8,13 +8,16 @@ parent: Resources
 # Localizations
 ---
 
-# Cairn is Currently available in the following additional languages:
-- [Italian](https://idolofmanyhands.github.io/cairn-ita/)
+# Italian
+- [Cairn in Italian](https://idolofmanyhands.github.io/cairn-ita/). Includes game PDF, SRD & character sheets.
 
-## Misc
-- [Fillable Token Character Sheets (Spanish)](https://drive.google.com/file/d/1J9rOVBWIsf1_SSvNou8lLPN2zIodQ-dy/view)
+## Spanish
+- [Character Sheet (fillable) in Spanish](https://drive.google.com/file/d/1CacGd1RlnfDu8xhXTqkDfi8YywIF6EG-/view?usp=sharing)
+- [Character Sheet (dual) in Spanish](https://drive.google.com/file/d/1GbW9zvtfuyzM_G1MQO7zDYULckDjFR3o/view?usp=sharing)
+- [Token Character Sheets (fillable) in Spanish)](https://drive.google.com/file/d/1J9rOVBWIsf1_SSvNou8lLPN2zIodQ-dy/view)
 
 # Localization Guide
+---
 Althought the Cairn rules exist in many forms (PDF, Google Docs, Word, etc), the [SRD](https://cairnrpg.comcairn-srd.html) is probably the best choice.
 
 ## Translating the SRD
