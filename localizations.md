@@ -36,7 +36,7 @@ Althought the Cairn rules exist in many forms (PDF, Google Docs, Word, etc), the
 7. If you'd like to make changes to a local version of the website, follow this excellent guide by [David Schirduan](https://www.technicalgrimoire.com/david/2018/10/howto-markdown-blog).
 
 ## Building the PDF in Affinity Publisher
-1. Download the trial of Affinity Publisher, and substitute the translation per word block. I also recreated a couple of tables to make it easier to input. You will need to also sort spells and inventory items by name.
+1. Download the trial of Affinity Publisher, and substitute the translation per word block. You will need to also sort spells and inventory items by name.
 
 2. Credit yourself and anyone who helped you!
 
@@ -44,3 +44,6 @@ Althought the Cairn rules exist in many forms (PDF, Google Docs, Word, etc), the
 
 ## Character Sheet
 1. Contact [Licopeo](https://twitter.com/LicopeoArt) and ask nicely. Maybe throw him some cash.
+
+
+Credit to [Stefano Grassi](https://twitter.com/FabulousFreak).
