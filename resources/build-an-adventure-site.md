@@ -67,4 +67,4 @@ You do not need to do this for ever single POI, only those that interest you.
 - Add 2-3 steps leading up to the location of the treasure, but don't be too obvious.
 - Add some sort of "dungeon" in the place where the treasure resides.
 - Stock "rooms" of a dungeon (additional treasure goes here)
-- [Maze Rats](https://questingbeast.itch.io/maze-rats), [Adventuresmith](https://play.google.com/store/apps/details?id=org.steavesea.adventuresmith&hl=en_US&gl=US) or similar will help greatly here.
+- [Maze Rats](https://questingbeast.itch.io/maze-rats) has incredible treasure and "loot the body" tables. You can find an automated version in the [Adventuresmith](https://play.google.com/store/apps/details?id=org.steavesea.adventuresmith&hl=en_US&gl=US) app.
