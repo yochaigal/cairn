@@ -3,9 +3,7 @@ layout: default
 parent: Monsters
 ---
 # Weasel, Giant
-
 4 HP, 12 DEX, 12 WIL, bite (d6)
-
 -   9’ long, vicious, predatory mammals with rich fur of brown, gold, or
     white. Dwell in subterranean tunnels, hunting alone or in small
     groups.
@@ -13,4 +11,3 @@ parent: Monsters
     automatic damage each round. Detaches only if the weasel or the
     victim dies.
 -   Track by scent, preferring wounded victims.
-
