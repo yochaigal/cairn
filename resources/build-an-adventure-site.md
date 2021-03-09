@@ -9,9 +9,9 @@ parent: Resources
 ---
 
 ## Choose A Theme:
-- Pick a theme for the area. A specific mythology you find inpiring, something from history, etc.
+- Pick a theme for the area. A specific mythology you find inspiring, something from history, etc.
 - Name (should reflect or theme). There are some great names [here](https://www.fantasynamegenerators.com/forest_names.php).
-- Come up with a solid adventure premise; typically an amazing location with a treasure to hunt.
+- Come up with a solid adventure premise (typically an amazing location with a treasure to hunt).
 - Decide on a ruling faction, with traits & motive.
 - Add some kind of counter balance (another faction, some kind of nefarious enemy, etc).
 - Keep these concepts in mind at all times: Dangers, Stakes, Motives, Urgency. The more you can weave in, the better.
@@ -54,14 +54,12 @@ When you've finished:
 - Place additional (especially hidden) dangers, encounters or NPC’s in some of the POI.
 - Add some travel/route complications, taking in consideration any POIs along the way.
 
-## Create Some Encounters
-
-### Create detailed notes with additional info, including:
+## Create Encounters
 - Encounter table (1d6/2d6), with at least one result tied to the party or its members.
 - Details on any treasure or relics (Who wants it? Where is it now? Why wasn't it ransacked before?). Include maps.
 - Describe rooms for a dungeon (one sentence describing obstacles, hazards, creatures or minor treasure).
 
-You do not need to do this for ever single POI; just the ones that interest you.
+You do not need to do this for ever single POI, only those that interest you.
 
 ## Create Treasure:
 - Look on the map and think of who would want treasure, and what kind.

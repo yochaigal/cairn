@@ -12,13 +12,17 @@ parent: Resources
 - [Cairn in Italian](https://idolofmanyhands.github.io/cairn-ita/). Includes game PDF, SRD & character sheets.
 
 ## Spanish
+- SRD translation in progress!
 - [Character Sheet (fillable) in Spanish](https://drive.google.com/file/d/1CacGd1RlnfDu8xhXTqkDfi8YywIF6EG-/view?usp=sharing)
 - [Character Sheet (dual) in Spanish](https://drive.google.com/file/d/1GbW9zvtfuyzM_G1MQO7zDYULckDjFR3o/view?usp=sharing)
 - [Token Character Sheets (fillable) in Spanish)](https://drive.google.com/file/d/1J9rOVBWIsf1_SSvNou8lLPN2zIodQ-dy/view)
 
+## Portuguese
+- SRD translation In progress!
+
 # Localization Guide
 ---
-Althought the Cairn rules exist in many forms (PDF, Google Docs, Word, etc), the [SRD](https://cairnrpg.comcairn-srd.html) is probably the best choice.
+Although the Cairn rules exist in many forms (PDF, Google Docs, Word, etc), the [SRD](https://cairnrpg.comcairn-srd.html) is probably the best choice.
 
 ## Translating the SRD
 1. Copy the [SRD Markdown](https://github.com/yourusername/cairn-lang/cairn-srd.md) to a markdown editor such as [Typora](https://typora.com) or a web-based renderer like [dillinger.io](https://dillinger.io). If you know how to use Git, you can use [Atom](atom.io). If you don't know markdown, don't worry! It's easy. Read more [here](https://guides.github.com/features/mastering-markdown/).
