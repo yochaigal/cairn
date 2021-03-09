@@ -8,7 +8,7 @@ parent: Resources
 # Build An Adventure Site
 ---
 
-## Choose A Theme:
+## Choose A Theme
 - Pick a theme for the area. A specific mythology you find inspiring, something from history, etc.
 - Name (should reflect or theme). There are some great names [here](https://www.fantasynamegenerators.com/forest_names.php).
 - Come up with a solid adventure premise (typically an amazing location with a treasure to hunt).
@@ -17,9 +17,8 @@ parent: Resources
 - Keep these concepts in mind at all times: Dangers, Stakes, Motives, Urgency. The more you can weave in, the better.
 
 ## Spark Tables
-[Spark Tables](https://www.bastionland.com/2017/11/electric-modernity-and-spark-tables.html) are very handy tools for quickly creating a setting.  
-They are typically made of 40 words divided into two columns.For an example Spark Table see [here](https://docs.google.com/spreadsheets/d/1b3E3FsQVvjqAMVcDIVXXQmo9g6bH0fQBDbzRJ6K5F10/edit#gid=0).  
-There are four tables there; with some light editing, they result in phrases like:  
+[Spark Tables](https://www.bastionland.com/2017/11/electric-modernity-and-spark-tables.html) are very handy tools for quickly creating a setting. They are typically made of 40 words divided into two columns.  
+For an example Spark Table see [here](https://docs.google.com/spreadsheets/d/1b3E3FsQVvjqAMVcDIVXXQmo9g6bH0fQBDbzRJ6K5F10/edit#gid=0). There are four tables there; with some light editing, they result in phrases like:  
 - Digesting Claws
 - White Eyes
 - Distorted Tongues
@@ -55,7 +54,7 @@ When you've finished:
 - Add some travel/route complications, taking in consideration any POIs along the way.
 
 ## Create Encounters
-- Encounter table (1d6/2d6), with at least one result tied to the party or its members.
+- Encounter table (either 1d6 or 2d6), with at least one result tied to the party or its members.
 - Details on any treasure or relics (Who wants it? Where is it now? Why wasn't it ransacked before?). Include maps.
 - Describe rooms for a dungeon (one sentence describing obstacles, hazards, creatures or minor treasure).
 
