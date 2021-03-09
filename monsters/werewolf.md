@@ -2,10 +2,10 @@
 layout: default
 parent: Monsters
 ---
-# Lycanthrope, Werebear
-6 HP, 14 STR, 8 DEX, claws (d6+d6) or bite (d8)
-- Highly intelligent, even in bear form. Frequently dwell among normal bears.
-- Can be reasoned with, if approached peacefully. 
+# Werewolf
+4 HP, 12 STR, 14 DEX, 12 WIL, claws (d4+d4) or bite (d6)
+- Semi-intelligent, ferocious hunters.
+- Sometimes hunts in packs with regular wolves.
 - Critical Damage: A human victim gets infected, becoming a lycanthrope of the same type after a couple of weeks.
 
 author: [xenio](https://xenioinabottle.blogspot.com)
