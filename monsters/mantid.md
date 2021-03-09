@@ -7,4 +7,4 @@ parent: Monsters
 - Intelligent, 4-armed insectoid warriors who hunt and consume humanoids. Dwell in arid regions.
 - Can do huge leaps without needing any previous impulse.
 - Extremely skilled in dodging projectiles. Ranged damage received is impaired. 
-author: [xenio](https://xenioinabottle.blogspot.com/2021/03/classic-monsters-for-cairnito-part-2.html)
+author: [xenio](https://xenioinabottle.blogspot.com)

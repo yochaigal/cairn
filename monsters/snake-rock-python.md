@@ -8,3 +8,4 @@ parent: Monsters
 -   After a biting attack, attempts to constrict the victim with its
     body. The victim must save STR or be restrained, taking d8 damage
     every turn. 
+author: [xenio](https://xenioinabottle.blogspot.com)

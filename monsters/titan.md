@@ -10,3 +10,4 @@ parent: Monsters
 -   Can become invisible and levitate at will. Know a large number of
     spells.
 -   Frequently command storm giants as their guards.
+author: [xenio](https://xenioinabottle.blogspot.com)

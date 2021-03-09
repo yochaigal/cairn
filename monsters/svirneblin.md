@@ -10,3 +10,4 @@ parent: Monsters
     chambers.
 -   Can see perfectly in the dark, but are blinded by bright light.
 -   Love machinery, mining, and gems.
+author: [xenio](https://xenioinabottle.blogspot.com)

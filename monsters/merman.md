@@ -6,4 +6,4 @@ parent: Monsters
 4 HP, 12 STR, 12 WIL, trident (d6)
 - Aquatic humanoids with fishtails instead of legs. Live in coastal waters, farming seaweed, and hunting fish.
 - Train other sea creatures to guard their homes.
-author: [xenio](https://xenioinabottle.blogspot.com/2021/03/classic-monsters-for-cairnito-part-2.html)
+author: [xenio](https://xenioinabottle.blogspot.com)

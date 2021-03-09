@@ -7,4 +7,4 @@ parent: Monsters
 - Powerful wizards who refused death by turning themselves in soulless undead.
 - Able to cast virtually any spell
 - Critical Damage: Its touch paralyzes the victim (d8 DEX damage)
-author: [xenio](https://xenioinabottle.blogspot.com/2021/03/classic-monsters-for-cairnito-part-2.html)
+author: [xenio](https://xenioinabottle.blogspot.com)

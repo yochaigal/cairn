@@ -8,3 +8,4 @@ parent: Monsters
     with a venomous stinger. Dwell in any terrain, but favor cliffs and
     forests.
 -   Critical Damage: The deadly poison inflicts d8 extra STR damage.
+author: [xenio](https://xenioinabottle.blogspot.com)

@@ -15,3 +15,4 @@ parent: Monsters
     round, severed limbs are reattached. If killed, will regenerate and
     fight again in 2d6 rounds.
 
+author: [xenio](https://xenioinabottle.blogspot.com)

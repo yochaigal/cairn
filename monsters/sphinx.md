@@ -12,3 +12,4 @@ parent: Monsters
     fear.
 -   Can innately cast *Comprehend*, *Detect Magic,* and *Telekinesis*.
     Once per day each.
+author: [xenio](https://xenioinabottle.blogspot.com)

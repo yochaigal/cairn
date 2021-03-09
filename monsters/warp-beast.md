@@ -10,3 +10,4 @@ parent: Monsters
 -   Displace to a short distance to avoid attacks, impairing the damage
     received.
 -   Highly resistant to magical effects.
+author: [xenio](https://xenioinabottle.blogspot.com)

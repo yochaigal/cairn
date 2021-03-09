@@ -7,4 +7,4 @@ parent: Monsters
 - Intelligent demonic horses with burning-red eyes, smoldering nostrils, and flaming hooves.
 - Breathe a thick cloud of smoke, impairing damage dealt by anyone in melee with the nightmare.
 - Sometimes are used as steeds by powerful undead creatures.
-author: [xenio](https://xenioinabottle.blogspot.com/2021/03/classic-monsters-for-cairnito-part-2.html)
+author: [xenio](https://xenioinabottle.blogspot.com)

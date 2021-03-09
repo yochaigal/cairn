@@ -9,3 +9,4 @@ parent: Monsters
 -   Can change color to match their surroundings. Lurk by rock walls and
     await victims.
 -   Emits an oil with a nauseating stench from its pores.
+author: [xenio](https://xenioinabottle.blogspot.com)

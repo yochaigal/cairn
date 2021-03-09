@@ -9,3 +9,4 @@ parent: Monsters
     coastal villages during the night.
 -   Can breathe outside of water for up to 4 hours.
 -   Command sharks to guard their lairs.
+author: [xenio](https://xenioinabottle.blogspot.com)

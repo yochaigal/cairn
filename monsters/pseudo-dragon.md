@@ -7,4 +7,4 @@ parent: Monsters
 - Intelligent, small winged draconic creatures with a sting-tipped tail and reddish scales. Found in forests and caverns.
 - Capable of communicating telepathically with nearby creatures.
 - Critical Damage: The sting's poison leaves the victim in a comatose state for 1d6 days.
-author: [xenio](https://xenioinabottle.blogspot.com/2021/03/classic-monsters-for-cairnito-part-2.html)
+author: [xenio](https://xenioinabottle.blogspot.com)

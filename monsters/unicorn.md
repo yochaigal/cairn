@@ -7,3 +7,4 @@ parent: Monsters
 -   Magical horses with a single longhorn. Unicorns are timid, but proud
     and wilful. Seen as divine beings by many.
 -   Can teleport to a visible distance once a day.
+author: [xenio](https://xenioinabottle.blogspot.com)

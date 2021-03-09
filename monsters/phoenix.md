@@ -7,4 +7,4 @@ parent: Monsters
 - Giant eagle-like birds made of pure flames, found in isolated regions and only attack in self-defense. Considered holy by some cultures.
 - Unharmed by fire and heat. Emits an aura of fire that does d6 damage to anyone that comes nearby.
 - If killed, disappears into a small sphere of flames. After a round, it is reborn from its ashes and flees.
-author: [xenio](https://xenioinabottle.blogspot.com/2021/03/classic-monsters-for-cairnito-part-2.html)
+author: [xenio](https://xenioinabottle.blogspot.com)

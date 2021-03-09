@@ -10,3 +10,4 @@ parent: Monsters
 -   Pipes: Anyone who hears the music from a satyr's pipes must save WIL
     or fall asleep, be charmed or frightened. The Satyr chooses which
     effect when playing the pipes.
+author: [xenio](https://xenioinabottle.blogspot.com)

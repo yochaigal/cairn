@@ -10,3 +10,4 @@ parent: Monsters
     Attack by briefly phasing back in.
 -   Critical Damage: The poison kills the target in 2d6 turns if not
     treated.
+author: [xenio](https://xenioinabottle.blogspot.com)

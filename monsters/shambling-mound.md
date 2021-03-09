@@ -9,3 +9,4 @@ parent: Monsters
 -   Damage received from weapons is impaired.
 -   Entagles its victims to suffocate them in the roots and tendrils of
     its body.
+author: [xenio](https://xenioinabottle.blogspot.com)

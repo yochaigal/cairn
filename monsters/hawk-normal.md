@@ -7,4 +7,4 @@ parent: Monsters
 - Small birds of prey. Hunt small rodents and reptiles, only attack larger creatures if they appear vulnerable.
 - Surprise their victims by diving to attack from a great height.
 - Can be trained as hunting companions.
-author: [xenio](https://xenioinabottle.blogspot.com/2021/03/classic-monsters-for-cairnito-part-2.html)
+author: [xenio](https://xenioinabottle.blogspot.com)

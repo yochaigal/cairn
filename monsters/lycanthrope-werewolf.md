@@ -7,4 +7,4 @@ parent: Monsters
 - Semi-intelligent, ferocious hunters.
 - Sometimes hunts in packs with regular wolves. 
 - Critical Damage: A human victim gets infected, becoming a lycanthrope of the same type after a couple of weeks.
-author: [xenio](https://xenioinabottle.blogspot.com/2021/03/classic-monsters-for-cairnito-part-2.html)
+author: [xenio](https://xenioinabottle.blogspot.com)

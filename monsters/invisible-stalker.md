@@ -7,4 +7,4 @@ parent: Monsters
 - Highly intelligent creatures summoned from other planes of existence by powerful wizards to perform tasks for them.
 - Can track any target without error. Using their invisibility to remain undetected.
 - If killed, is sent back to their original plane.
-author: [xenio](https://xenioinabottle.blogspot.com/2021/03/classic-monsters-for-cairnito-part-2.html)
+author: [xenio](https://xenioinabottle.blogspot.com)

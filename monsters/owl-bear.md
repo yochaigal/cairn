@@ -7,4 +7,4 @@ parent: Monsters
 - Huge, carnivorous bear-like creatures with the face of an owl. Found in deep dense forests.
 - Highly territorial, attack anything that comes to near.
 - Critical damage: Hug victims for d8 damage.
-author: [xenio](https://xenioinabottle.blogspot.com/2021/03/classic-monsters-for-cairnito-part-2.html)
+author: [xenio](https://xenioinabottle.blogspot.com)

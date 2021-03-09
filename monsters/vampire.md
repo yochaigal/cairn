@@ -13,3 +13,4 @@ parent: Monsters
     killed if exposed to sunlight or if the coffin is destroyed.
 -   Critical Damage: The Vampire drains the victim's essence (d12 WIL
     damage). At 0 WIL, the victim is killed and becomes a vampire.
+author: [xenio](https://xenioinabottle.blogspot.com)

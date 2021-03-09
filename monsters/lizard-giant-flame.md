@@ -7,4 +7,4 @@ parent: Monsters
 - 30' long grey and red lizards that are sometimes mistaken by dragons. Lair underground but hunt on the surface. Sleep most of the day.
 - Unharmed by flames and heat.
 - Their eggs can be sold for a high price.
-author: [xenio](https://xenioinabottle.blogspot.com/2021/03/classic-monsters-for-cairnito-part-2.html)
+author: [xenio](https://xenioinabottle.blogspot.com)

@@ -10,3 +10,4 @@ parent: Monsters
     free requires an STR save.
 -   Critical Damage: The poison kills the target in 2d4 turns if not
     treated.
+author: [xenio](https://xenioinabottle.blogspot.com)
