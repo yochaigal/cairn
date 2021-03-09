@@ -7,4 +7,5 @@ parent: Monsters
 - Long, magical, serpentine lizards that dwell in caverns.  
 - Anyone who looks directly at them starts to get petrified.  
 - Critical damage: the victim gets petrified (d8+d8 DEX damage).  
+
 author: [xenio](https://xenioinabottle.blogspot.com)

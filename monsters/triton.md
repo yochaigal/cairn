@@ -10,4 +10,5 @@ parent: Monsters
 -   Frequently use seahorses and hippocamps as mounts.
 -   Lair in beautiful castles sculpted from sea rocks and corals,
     guarded by other sea creatures.
+
 author: [xenio](https://xenioinabottle.blogspot.com)

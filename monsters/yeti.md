@@ -8,4 +8,5 @@ parent: Monsters
     a taste for human flesh. Dwell in isolated, icy regions.
 -   Camouflage in the ice and snow to surprise its victims.
 -   Gaze: surprised victims must save WIL or be paralyzed.
+
 author: [xenio](https://xenioinabottle.blogspot.com)

@@ -7,4 +7,5 @@ parent: Monsters
 - 7' long lizards that camouflage by changing the color of their scales.
 - Use their camouflage to surprise victims.
 - Can attack further away targets by grabbing them with their elongated tongue. The victim must save STR or be pulled to the lizard's mouth and bitten.
+
 author: [xenio](https://xenioinabottle.blogspot.com)

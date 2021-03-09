@@ -11,4 +11,5 @@ parent: Monsters
     automatic damage each round. Detaches only if the weasel or the
     victim dies.
 -   Track by scent, preferring wounded victims.
+
 author: [xenio](https://xenioinabottle.blogspot.com)

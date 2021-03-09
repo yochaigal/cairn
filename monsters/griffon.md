@@ -7,4 +7,5 @@ parent: Monsters
 - Ravenous hybrid predators, with the head and wings of an eagle and the lower body of a lion.
 - Naturally prey on horses, attacking then on sight.
 - Captured young can be trained as mounts, however, their instinct to hunt horses cannot be controlled.
+
 author: [xenio](https://xenioinabottle.blogspot.com)

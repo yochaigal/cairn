@@ -9,4 +9,5 @@ parent: Monsters
 -   Can detect the smell of blood from great distances.
 -   Once moves to attack, doesn't stop until death, succeding all morale
     rolls.
+
 author: [xenio](https://xenioinabottle.blogspot.com)

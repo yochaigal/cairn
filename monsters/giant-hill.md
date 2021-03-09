@@ -7,4 +7,5 @@ parent: Monsters
 - 12’ tall, hairy and brutish humanoids. Dwell in hills and plains.  
 - Low intelligence, relies only on its ferocity.  
 - Frequently attack settlements for food.  
+
 author: [xenio](https://xenioinabottle.blogspot.com)

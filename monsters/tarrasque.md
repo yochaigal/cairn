@@ -14,4 +14,5 @@ parent: Monsters
     unknown.
 -   Critical Damage: The razor-sharp claws sever a part of the victim's
     body.
+
 author: [xenio](https://xenioinabottle.blogspot.com)

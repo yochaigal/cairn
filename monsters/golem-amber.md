@@ -7,4 +7,5 @@ parent: Monsters
 - Artificial constructs made in the shape of giant felines.   Created by wizards in a slow and complex process.  
 - Track without error, able to see invisible creatures nearby.  
 - Immune to mundane attacks, gas, and mind-controlling effects.  
+
 author: [xenio](https://xenioinabottle.blogspot.com) 

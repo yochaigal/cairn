@@ -7,4 +7,5 @@ parent: Monsters
 - Magical creatures that look like monstrous, horned, winged statues.  
 - Guard places by standing still to pass like inanimate statues and attacking anything that comes near.  
 - Cannot be charmed and put to sleep.  
+
 author: [xenio](https://xenioinabottle.blogspot.com) 

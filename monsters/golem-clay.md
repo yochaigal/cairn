@@ -7,4 +7,5 @@ parent: Monsters
 - 8’ tall humanoid statues made of baked clay and animated by dark magics.  
 - Immune to mundane attacks and fire.   Resistant to weapon damage that is not bludgeoning.  
 - Critical Damage: Inflicts a curse on the victim, STR cannot be healed until the curse is lifted.  
+
 author: [xenio](https://xenioinabottle.blogspot.com) 

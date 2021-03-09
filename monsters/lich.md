@@ -7,4 +7,5 @@ parent: Monsters
 - Powerful wizards who refused death by turning themselves in soulless undead.
 - Able to cast virtually any spell
 - Critical Damage: Its touch paralyzes the victim (d8 DEX damage)
+
 author: [xenio](https://xenioinabottle.blogspot.com)

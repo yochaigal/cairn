@@ -7,4 +7,5 @@ parent: Monsters
 - Hybrid creatures with the head and front half of an eagle and the back half of a horse.
 - Can be trained to be used as mounts.
 - Hate pegasi, attacking then on sight.
+
 author: [xenio](https://xenioinabottle.blogspot.com)

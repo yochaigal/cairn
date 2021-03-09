@@ -11,4 +11,5 @@ parent: Monsters
 -   Scared of fire, avoid using spells of such effect.
 -   Creatures caught in webs are entangled and unable to move. Breaking
     free requires an STR save.
+
 author: [xenio](https://xenioinabottle.blogspot.com)

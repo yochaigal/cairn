@@ -8,4 +8,5 @@ parent: Monsters
 -   Unharmed by mundane attacks.
 -   Critical Damage: The shadow drains d4 STR from the victim, any
     creature killed this wat becomes a shadow.
+
 author: [xenio](https://xenioinabottle.blogspot.com)

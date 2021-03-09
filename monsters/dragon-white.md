@@ -7,4 +7,5 @@ parent: Monsters
 - Ferocious, primal dragons that dwell in cold regions.   Hunt dangerous prey and keep their bodies as trophies.  
 - Effortlessly crosses snow and ice.  
 - Breathes freezing cold for d10 Damage to all in the blast, freezing any liquids and creating an icy surface.  
+
 author: [xenio](https://xenioinabottle.blogspot.com)

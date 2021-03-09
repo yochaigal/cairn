@@ -7,4 +7,5 @@ parent: Monsters
 - Albino gorillas with nocturnal habits.  
 - Defend their territory with threats and then violence.  
 - Throw rocks at enemies for d6 damage.  
+
 author: [xenio](https://xenioinabottle.blogspot.com)

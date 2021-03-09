@@ -7,4 +7,5 @@ parent: Monsters
 - Gargantuan, proud, greedy, and cruel.   Guarding their massive hoards atop the highest mountains, these are the most dangerous dragons of existence.  
 - Arrogant and tyrannical, act on impulse when angered, frequently wiping out civilizations as a show of power.  
 - Breathes fire in a cone for d12 damage to all caught in the flames.  
+
 author: [xenio](https://xenioinabottle.blogspot.com) 
