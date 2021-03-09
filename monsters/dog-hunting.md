@@ -8,4 +8,4 @@ parent: Monsters
 - Bulky, domestic-only breeds with a ferocious nature.  
 - Track by scent.   Once started, very difficult to put off the trail.  
 - Only attack at their owner’s command.  
-author: [xenio](https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html)
+author: [xenio](https://xenioinabottle.blogspot.com)

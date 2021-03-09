@@ -7,4 +7,4 @@ parent: Monsters
 - 14’ tall slender humanoids with stone-like gray skin.   Dwell in caverns or build primitive homes of stone in valleys.  
 - Attack victims by throwing rocks at them from far away.  
 - Can easily camouflage into stone.  
-author: [xenio](https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html) 
+author: [xenio](https://xenioinabottle.blogspot.com) 

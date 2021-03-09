@@ -7,4 +7,4 @@ parent: Monsters
 - Gargantuan sea monsters with the shell of a turtle and draconic features.   Lurk in deep oceans and can be mistaken for a small island when on the surface.  
 - Attack ships, sinking them to add any treasure to their massive underwater hoards.  
 - Breathes large clouds of steam, clogging visions and damaging all inside for d8 damage.  
-author: [xenio](https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html) 
+author: [xenio](https://xenioinabottle.blogspot.com) 

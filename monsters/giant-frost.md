@@ -7,4 +7,4 @@ parent: Monsters
 - 18’ tall humanoids with blue-ish skin and pale hair.   Wear furs and iron armor.  
 - Unharmed by cold and ice.  
 - Excellent trackers, hunt accompanied by dire wolves.  
-author: [xenio](https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html) 
+author: [xenio](https://xenioinabottle.blogspot.com) 

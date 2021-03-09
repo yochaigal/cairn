@@ -7,4 +7,4 @@ parent: Monsters
 - Large cubes of transparent jelly, dwell in dungeons absorbing items and living creatures.  
 - May go undetected due to being transparent.  
 - Critical damage: Its touch paralyzes victims (d6 DEX damage).  
-author: [xenio](https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html) 
+author: [xenio](https://xenioinabottle.blogspot.com) 

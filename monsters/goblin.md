@@ -7,4 +7,4 @@ parent: Monsters
 - Small, grotesque humanoids with skin in earthly tones of green, brown, and grey.  
 - Avoid combat, only attacking when in advantage, using hit-and-run tactics.  
 - Sometimes are found using dire wolves as mounts.  
-author: [xenio](https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html) 
+author: [xenio](https://xenioinabottle.blogspot.com) 

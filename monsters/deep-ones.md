@@ -7,4 +7,4 @@ parent: Monsters
 - Amphibious, fish-headed humanoids with webbed fingers.   Live in deep seas and are able to see in the darkness.  
 - Highly resistant to magical effects.  
 - Occasionally surface to trade with coastal settlements, frequently requesting union between one of them and a human.  
-author: [xenio](https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html) 
+author: [xenio](https://xenioinabottle.blogspot.com) 

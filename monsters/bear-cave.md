@@ -8,4 +8,4 @@ parent: Monsters
 - Ferocious 15’ tall carnivorous bears who live in caves.  
 - Have poor eyesight, but track using smell.   Follow tracks of blood.  
 - Critical damage: Hug victims for d8 damage.  
-author: [xenio](https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html)
+author: [xenio](https://xenioinabottle.blogspot.com)

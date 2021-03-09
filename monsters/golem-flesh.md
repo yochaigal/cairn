@@ -7,4 +7,4 @@ parent: Monsters
 - 7’ tall humanoid abominations made of flesh stitched together.  
 - Immune to mundane attacks, fire, and cold.  
 - Absorb electricity damage received, healing HP by the same amount instead.  
-author: [xenio](https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html) 
+author: [xenio](https://xenioinabottle.blogspot.com) 

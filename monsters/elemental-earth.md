@@ -7,4 +7,4 @@ parent: Monsters
 - Huge humanoid beings made of earth and stone.  
 - Create small earth tremors with their natural strength.  
 - Can meld into the earth and move through it as if swimming.  
-author: [xenio](https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html) 
+author: [xenio](https://xenioinabottle.blogspot.com) 

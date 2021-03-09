@@ -7,4 +7,4 @@ parent: Monsters
 - 12’ tall, hairy and brutish humanoids. Dwell in hills and plains.  
 - Low intelligence, relies only on its ferocity.  
 - Frequently attack settlements for food.  
-author: [xenio](https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html)
+author: [xenio](https://xenioinabottle.blogspot.com)
