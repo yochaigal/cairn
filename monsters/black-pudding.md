@@ -1,7 +1,6 @@
 ---
 layout: default
 parent: Monsters
-  
 ---
 # Black Pudding
 10 HP, 5 DEX, devouring touch (d8)  

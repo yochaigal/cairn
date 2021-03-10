@@ -1,7 +1,6 @@
 ---
 layout: default
 parent: Monsters
-  
 ---
 # Beetle, Fire
 2 HP, 4 STR, 12 DEX, 6 WIL, bite(d4)  

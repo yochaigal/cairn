@@ -1,7 +1,6 @@
 ---
 layout: default
 parent: Monsters
-  
 ---
 # Bear, Polar
 7 HP, 16 STR, claws (d8)  

@@ -1,7 +1,6 @@
 ---
 layout: default
 parent: Monsters
-  
 ---
 # Bear, Cave
 8 HP, 17 STR, claws (d10)  

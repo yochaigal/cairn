@@ -1,7 +1,6 @@
 ---
 layout: default
 parent: Monsters
-  
 ---
 # Beetle, Tiger
 3 HP, 6 STR, 12 DEX, 6 WIL, bite (d6)  
