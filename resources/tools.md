@@ -24,4 +24,4 @@ parent: Resources
 
 [Mausritter Item Creation Tools](https://mausritter.com/item-card-studio/)
 
-[Electric Bastionland Style Backgrounds For Knave (work for Cairn, too!)](https://aboleth-overlords.com/?s=backgrounds)
+[Electric Bastionland Style Backgrounds For Knave (work for Cairn, too!)](https://aboleth-overlords.com/tag/careers/)
