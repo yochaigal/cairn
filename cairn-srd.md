@@ -177,7 +177,7 @@ All PCs begin with:
 - A torch (one slot)
 - 3d6 gold pieces
 
-Roll once on each of the **Starting Gear** tables to determine your PC's armor, weapons, tools, and equipment. If indicated, roll on the [**Spellbooks**](#spellbooks-d100) table with a d100 (or roll 2d10, using one die as the ones place, and the other as the tens place). Pick only one item for each result. 
+Roll once on each of the **Starting Gear** tables to determine your PC's armor, weapons, tools, and equipment. If indicated, roll on the [**Spellbooks**](#spellbooks-d100) table with a d100 (or roll 2d10, using one die as the ones place, and the other as the tens place). Pick only one item for each result.
 
 See the **Equipment List** for related armor, damage, and slot values. Smaller items can sometimes be bundled together into one slot.
 
@@ -616,12 +616,13 @@ A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs
 
 **Example:** _Bea encounters a group of heavily-armed Goblins standing guard before a tunnel entrance. Her player carefully plots a course, recognizing that her 13 DEX makes sneaking past the guards the best option. She rolls a d20, and resulting in a 10 – a success!_
 
+
+**Healing**  
+Resting for a few moments and having a drink of water restores lost HP but leaves the party exposed. Ability loss (see **Critical Damage**) can usually be restored with a week's rest facilitated by a healer or other appropriate source of expertise. Some of these services may be free, while more expedient or magical means of recovery may come at a cost.
+
 **Deprivation & Fatigue**  
 A PC **deprived** of a crucial need (such as food or rest) is unable to recover HP or ability scores. Anyone deprived for more than a day adds **Fatigue** to their inventory, one for each day. Each Fatigue occupies one slot and lasts until they are able to recuperate (such as a full night's rest in a safe spot).  
 PCs can also gain Fatigue by **casting spells** or through events in the fiction.
-
-**Healing**  
-Resting for a few moments and having a drink of water restores lost HP but leaves the party exposed. Ability loss can usually be restored with a week's rest facilitated by a healer or other appropriate source of expertise. Some of these services may be free, while more expedient or magical means of recovery may come at a cost.
 
 **Armor**  
 Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. Shields and similar armor provides a bonus defense (e.g. +1 Armor), but only while the item is held or worn.  
@@ -663,7 +664,7 @@ Spellbooks will attract the attention of those who seek the arcane power within,
 - They disappear after one use.
 
 **Casting Spells**  
-Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. They must then add a Fatigue to inventory, occupying one slot. Given time and safety, PCs can _enhance_ a spell (e.g., affecting multiple targets, increasing its power, etc.) without any additional cost. If the PC is deprived or in danger, the Warden may require a PC to make a WIL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect, and may result in added Fatigue, the destruction of the Spellbook, injury, and even death.
+Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. They must then add a Fatigue to inventory, occupying one slot. Given time and safety, PCs can _enhance_ a spell's impact (e.g., affecting multiple targets, increasing its power, etc.) without any additional cost. If the PC is deprived or in danger, the Warden may require a PC to make a WIL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect, and may result in added Fatigue, the destruction of the Spellbook, injury, and even death.
 
 **Relics**  
 **Relics** are items imbued with a magical spell or power. They do not cause Fatigue. Relics usually have a limited use, as well as a recharge condition. A few examples:
@@ -684,7 +685,7 @@ The game typically plays without strict time accounting. In a fight or circumsta
 **Actions**  
 On their turn, a character may move up to 40ft and take up to one action. This may be _casting a spell, attacking, making a second move, or some other reasonable action.
 
-Each round, the PCs declare what they are doing before dice are rolled. If a character attempts something risky, the Warden calls for a save for appropriate players or NPCs. All actions, attacks, and movements take place simultaneously.
+Each round, the PCs declare what they are doing before dice are rolled. If a character attempts something risky, the Warden calls for a save for appropriate players or NPCs. 
 
 **Turns**  
 The Warden will telegraph the most likely actions taken by NPCs or monsters. At the start of combat, each PC must make a DEX save to act before their opponents.
@@ -695,6 +696,18 @@ The Warden will telegraph the most likely actions taken by NPCs or monsters. At 
 The attacker rolls their weapon die and subtracts the target's armor, then deals the remaining total to their opponent's HP. Unarmed attacks always do 1d4 damage.
 
 **Example:** _The Wood Troll roars, swinging its club at Bea, who has 5 HP. The club does 1d10 damage and the Warden rolls a 4. They subtract 1 to account for Bea's leather armor, leaving Bea with 2 HP remaining_.
+
+**Critical Damage**  
+Damage that reduces a target's HP below zero decreases a target's STR by the amount remaining. They must then make a STR save to avoid **critical damage**. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save.
+
+Any PC that suffers critical damage cannot do anything but crawl weakly, grasping for life. If given aid and rest, they will stabilize. If left untreated, they die within the hour.
+
+**Ability Score Loss**  
+If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their WIL is reduced to 0, they are delirious.
+Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.  
+
+**Scars**  
+When damage to a PC reduces their HP to exactly 0, they are sometimes changed irrevocably. See the **Scars** for more.
 
 **Multiple Attackers**  
 If multiple attackers target the same foe, roll all damage dice and keep the single highest result.
@@ -709,18 +722,6 @@ If attacking with two weapons at the same time, roll both damage dice and keep t
 
 **Blast**  
 Attacks with the **blast** quality affect all targets in the noted area, rolling separately for each affected character. Blast refers to anything from explosions to huge cleaving onslaughts to the impact of a meteorite. If unsure how many targets can be affected, roll the related damage die for a result.
-
-**Scars**  
-When damage to a PC reduces their HP to exactly 0, they are sometimes changed irrevocably. See the **Scars** for more.
-
-**Critical Damage**  
-Damage that reduces a target's HP below zero decreases a target's STR by the amount remaining. They must then make a STR save to avoid **critical damage**. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save.
-
-Any PC that suffers critical damage cannot do anything but crawl weakly, grasping for life. If given aid and rest, they will stabilize. If left untreated, they die within the hour.
-
-**Ability Score Loss**  
-If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their WIL is reduced to 0, they are delirious.
-Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.  
 
 **Unconsciousness & Death**  
 When a character dies, the player is free to create a new character or take control of a hireling. They immediately join the party in order to reduce downtime.
