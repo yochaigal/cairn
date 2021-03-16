@@ -145,7 +145,7 @@ Players trust one another to engage with the shared setting, character goals, an
 ## Character Creation
 
 **Name, Background & Traits**  
-First, choose or roll a **name** for your character from the [**Name & Background**](#name--background-d20) tables, then their **background**, which informs their knowledge and potential skills.
+First, choose or roll your PC’s **name** and ** background** from their respective [tables](#name--background-d20). A PC’s background informs their potential knowledge and skills.
 
 Next, roll for the rest of your character's **traits** (appearance, speech, mannerisms, beliefs, reputation, etc.) on the [**Character Traits**](#character-traits-d10) tables.
 
@@ -618,7 +618,7 @@ A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs
 
 
 **Healing**  
-Resting for a few moments and having a drink of water restores lost HP but leaves the party exposed. Ability loss (see **Critical Damage**) can usually be restored with a week's rest facilitated by a healer or other appropriate source of expertise. Some of these services may be free, while more expedient or magical means of recovery may come at a cost.
+Resting for a few moments and having a drink of water restores lost HP but leaves the party exposed. Ability loss (see **Critical Damage**) can usually be restored with a week's rest facilitated by a healer or other appropriate source of expertise. Some of these services are free, while magical or more expedient means of recovery may come at a cost.
 
 **Deprivation & Fatigue**  
 A PC **deprived** of a crucial need (such as food or rest) is unable to recover HP or ability scores. Anyone deprived for more than a day adds **Fatigue** to their inventory, one for each day. Each Fatigue occupies one slot and lasts until they are able to recuperate (such as a full night's rest in a safe spot).  
