@@ -96,7 +96,7 @@ Players trust one another to engage with the shared setting, character goals, an
 ### Choice  
 - Give players a solid choice to force outcomes when the situation  lulls.
 - Use binary "so, A or B?" responses when their intentions are vague.
-- Work together with this conversational progress to keep the game moving.
+- Work together using this conversational method to keep the game moving.
 - Ensure that the player character's actions leave their mark on the game world.
 
 ### Die of Fate  
@@ -177,7 +177,7 @@ All PCs begin with:
 - A torch (one slot)
 - 3d6 gold pieces
 
-Roll on the **Starting Gear** tables to determine your PC's armor, weapons, tools, and equipment. If indicated, roll on the [**Spellbooks**](#spellbooks-d100) table with a d100 (or roll 2d10, using one die as the ones place,and one as the tens place).
+Roll once on each of the **Starting Gear** tables to determine your PC's armor, weapons, tools, and equipment. If indicated, roll on the [**Spellbooks**](#spellbooks-d100) table with a d100 (or roll 2d10, using one die as the ones place, and the other as the tens place). Pick only one item for each result. 
 
 See the **Equipment List** for related armor, damage, and slot values. Smaller items can sometimes be bundled together into one slot.
 
@@ -489,9 +489,20 @@ If you would like something closer to traditional classes, refer to the list of 
 
 ## Optional Gear Packages  
 
+#### Cleric
+
+|                                 |
+| ------------------------------- |
+| War Hammer (d10, bulky)         |
+| Chainmail (2 Armor, bulky)      |
+| Gauntlets (+1 Armor)            |
+| Curved Blade (d8)               |
+| Holy Symbol (Ward once per day) |
+| Cloak of the Order              |
+
 #### Dowser
 
-||
+|                                         |
 |-----------------------------------------|
 |Sickle (d6)                              |
 |Patchwork Doublet (+1  Armor)            |
@@ -505,8 +516,8 @@ If you would like something closer to traditional classes, refer to the list of 
 ||
 |-----------------------------------------|
 |Prickly Root (d6)                        |
-|Pinecone Lattice (1 Armor)        |
-|Trowel |
+|Pinecone Lattice (1 Armor)               |
+|Trowel                                   |
 |Jar of Forest Ants                       |
 |Poisonous mushroom                       |
 |Hand Drill                               |
@@ -515,8 +526,8 @@ If you would like something closer to traditional classes, refer to the list of 
 
 ||
 |-----------------------------------------|
-|Elegant Sword (d8)      |
-|Recurve Bow (d8) |
+|Elegant Sword (d8)                       |
+|Recurve Bow (d8)                         |
 |Gilt Clothing (1 Armor)                  |
 |Spellbook (Charm or Detect               |
 |Golden Flute                             |
@@ -525,9 +536,9 @@ If you would like something closer to traditional classes, refer to the list of 
 #### Fighter
 
 ||
-|-----------------------------------------|
-|Glaive (d10, bulky)      |
-| Scimitar (d8)        |
+|---------------------------------------|
+|Glaive (d10, bulky)                    |
+| Scimitar (d8)                         |
 |Shortsword (d6)                        |
 |Tobacco Pouch & Pipe                   |
 |Dice Set                               |
@@ -535,17 +546,17 @@ If you would like something closer to traditional classes, refer to the list of 
 #### Friar
 
 ||
-|-----------------------------------------|
+|--------------------------------|
 |Scepter (d6)                    |
 |Deceptive Robes (+1 Armor)      |
-|Censer & Holy  Water           |
+|Censer & Holy  Water            |
 |Jug of Honey Wine               |
 |Folk Songbook                   |
 |Cart (+4  slots, bulky)         |
 
 #### Knight
 
-|                      |
+|                            |
 | -------------------------- |
 | Longsword (d8, bulky)      |
 | Chainmail (2 Armor, bulky) |
@@ -558,12 +569,12 @@ If you would like something closer to traditional classes, refer to the list of 
 
 ||
 |-----------------------------------------|
-|Fizzled Staff (d8, bulky) |
-|Dagger (d6)  |
+|Fizzled Staff (d8, bulky)                |
+|Dagger (d6)                              |
 |Spellbook (random spell)                 |
 |Spellbook (random spell)                 |
 |Ragged Clothing (hidden pockets)         |
-|Leycap (x2, see Relics)         |
+|Leycap (x2, see Relics)                  |
 
 #### Thief
 
