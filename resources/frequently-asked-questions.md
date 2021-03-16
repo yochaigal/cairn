@@ -9,12 +9,9 @@ nav_exclude: true
 # Frequently Asked Questions
 ---
 
-#### The Setup
-**Ursula** controls **Esme** (a dual-wielder with the **Herbalist** background) and **Poul** is playing **Borrid**, a former **Hunter**.
-
-The PCs are in search of an ancient [**Relic**](/cairn-srd.html#magic), rumored to have restorative powers. It is rumored to be located deep in the **Geunant Forest**, a wood known for having massive, ancient trees that allow little light through their humongous leaves.
-
-During character generation it was decided that the PCs were both previously employed by the same wealthy benefactor, who owned lands adjacent to their destination.
+### The Setup
+**Ursula** controls **Esme** (a dual-wielder with the **Herbalist** background) and **Poul** is playing **Borrid**, a former **Hunter**.  
+The PCs are in search of an ancient [**Relic**](/cairn-srd.html#magic), rumored to have restorative powers. It is rumored to be located deep in the **Geunant Forest**, a wood known for having massive, ancient trees that allow little light through their humongous leaves. During character generation it was decided that the PCs were both previously employed by the same wealthy benefactor, who owned lands adjacent to their destination.
 
 ### How does a PC's knowledge and experience effect the game?
 A character's relevant background, history, and experiences may provide a potential benefit (or disadvantage) to certain situations. Similarly, previous events in the game may influence the impact of their actions, including negating the need for a **save** in some circumstances!
@@ -25,11 +22,11 @@ _Eventually, the party comes across an unusual flowering plant blocking their wa
 
 _**Poul** and **Ursula** think on this, and then come up with a way to block the light coming from overhead. They carefully execute this plan (avoiding the thorns, of course) and the pods close up. They move on in safety._
 
-#### How did the Warden decide what the PC should be allowed to know?  
+##### How did the Warden decide what the PC should be allowed to know?  
 - First, they reasoned that **Esme's** background (**Herbalist**) would give her _some_ information about the plant (e.g. that it was poisonous, and how much the light would impact it).  
 - Then, they took into account the fact that this forest was known for rarely allowing light to penetrate the large leaves hanging overhead. **Esme** would definitely know this was a major factor.
 
-#### What if no one had any relevant experience or expertise?
+##### What if no one had any relevant experience or expertise?
 - Had there been no PC with the **Herbalist** background, the Warden would likely declare the PCs ignorant of the plant's properties, and (hopefully) the players would follow this by asking questions and experimentation.
 - If a PC had a _tangential_ background (like **Hunter**) the Warden could decide to let the Fates decide and roll 1d6. The higher the roll, the more likely the PC would know something relevant or useful.
 
