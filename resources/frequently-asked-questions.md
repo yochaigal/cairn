@@ -31,7 +31,7 @@ _**Poul** and **Ursula** think on this, and then come up with a way to block the
 - Then, they took into account the fact that this forest was known for rarely allowing light to penetrate the large leaves hanging overhead. **Esme** would definitely know this was a major factor.
 
 ##### What if no one had any relevant experience or expertise?
-- Had there been no PC with the **Herbalist** background, the Warden would likely declare the PCs ignorant of the plant's properties, and (hopefully) the players would follow this by asking questions and experimentation.
+- Had there been no PC with the **Herbalist** background, the Warden would likely have declared the PCs ignorant of the plant's properties, and (hopefully) the players would try to learn more by asking questions and experimentation.
 - If a PC had a _tangential_ background (like the **Hunter**) the Warden could decide to let the Fates decide and roll 1d6. The higher the roll, the more likely the PC would know something relevant or useful.
 
 ### How does the Warden decide turn order?
@@ -43,7 +43,7 @@ _They set up camp with their backs to the ravine, judging it to be one fewer thi
 
 _The Warden asks the players, "What do you do?" Both players agree that combat is likely their only option, agreeing that they would attack at the first sight of danger.  The Warden decrees that **Esme** should not have to make a **DEX** save, as she was at the ready when their opponent first appeared. **Poul** however must make a **DEX** save to see if his character is able to ready himself for combat in time. He rolls 1d20, and the result is a 17, a fail. The Warden decrees that **Esme** will go first, then their opponent, and finally **Borrid**._
 
-
 ### When Should an NPC or PC **save**?
+
 
 ### Without levels or XP, how can PCs advance?

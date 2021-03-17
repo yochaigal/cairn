@@ -703,7 +703,7 @@ If multiple attackers target the same foe, roll all damage dice and keep the sin
 **Attack Modifiers**  
 If fighting from a position of weakness (such as through cover or with bound hands), the attack is **impaired** and the attacker must roll 1d4 damage regardless of the attacks damage die.
 
-If fighting from a position of advantage (such as against a helpless foe or through a daring maneuver), the attack is **enhanced** , allowing the attacker to roll 1d12 damage instead of their normal die.
+If fighting from a position of advantage (such as against a helpless foe or through a daring maneuver), the attack is **enhanced**, allowing the attacker to roll 1d12 damage instead of their normal die.
 
 **Dual Weapons**  
 If attacking with two weapons at the same time, roll both damage dice and keep the single highest result.
@@ -729,8 +729,8 @@ When a character dies, the player is free to create a new character or take cont
 **Detachments**  
 Large groups of similar combatants fighting together are treated as a single **detachment**. When a detachment takes critical damage, it is routed or significantly weakened. When it reaches 0 STR, it is destroyed.
 
-Attacks against detachments by individuals are impaired (excluding blast damage).  
-Attacks against individuals by detachments are enhanced and deal blast damage.
+Attacks against detachments by individuals are **impaired** (excluding blast damage).  
+Attacks against individuals by detachments are **enhanced** and deal blast damage.
 
 **Retreat**  
 Running away from a dire situation always requires a successful DEX save, as well as a safe destination to run to.
