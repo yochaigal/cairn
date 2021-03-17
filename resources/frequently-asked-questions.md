@@ -61,7 +61,7 @@ _"There must be a [**Lich**](/monsters/lich.html) afoot," **Borrid** replies as 
 
 _**Poul** comes up with an idea: the creature previously charged at **Borrid**, so it seems reasonable that it would do so again. What if **Esme** tossed one end of her rope to **Borrid**, then quickly looped her rope to the nearby tree? Then if it comes close enough try and trample him again, **Borrid** could simply leap off the cliff, holding the rope for support and using **Esme's** body as a ballast.  **Ursula** agrees to the plan._
 
-##### Why didn't **Esme** need to **save**in order to drag her friend away, or wrap the rope around the tree?
+##### Why didn't **Esme** need to **save** in order to drag her friend away, or wrap the rope around the tree?
 On a turn, a PC can attempt any action; a **save**is only required if the above two conditions are met. It seemed reasonable that **Esme** would be able to make a mad dash around the tree (which was only a few feet away) with **Borrid's** rope without much danger. Had she tried to run close to the **Nightmare** or done something equally uncertain or dangerous however she would have been required to **save**.
 
 ### In a contested action, who should save?
