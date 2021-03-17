@@ -9,7 +9,8 @@ nav_exclude: true
 # Frequently Asked Questions
 ---
 ### Introduction
-Below are a few answers to some of the most commonly asked questions from folks new to Cairn. For the following examples, consider the following setup in play:
+Below are a few answers to some of the most commonly asked questions from folks new to Cairn.  
+For the following examples, consider the following setup in play:
 
 - **Ursula** controls **Esme** (a dual-wielder with the **Herbalist** background) and **Poul** is playing **Borrid**, a former **Hunter** turned outcast.
 - The PCs are in search of an ancient [**Relic**](/cairn-srd.html#magic), rumored to have restorative powers. It is rumored to be located deep in the **Geunant Forest**, a wood known for having massive, ancient trees that allow little light through their humongous leaves.
