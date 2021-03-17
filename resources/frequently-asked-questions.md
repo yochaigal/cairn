@@ -56,7 +56,7 @@ _"There must be a [**Lich**](/monsters/lich.html) afoot," **Borrid** replies as 
 
 _**Poul** comes up with an idea: the creature previously charged at **Borrid**, so it seems reasonable that it would do so again. What if **Esme** tossed one end of her rope to **Borrid**, then quickly looped her rope to the nearby tree? Then if it comes close enough try and trample him again, **Borrid** could simply leap off the cliff, holding the rope for support and using **Esme's** body as a ballast.  **Ursula** agrees to the plan._
 
-#### Why didn't **Esme** need to[**save**](cairn-srd.html#rules)in order to drag her friend away, or wrap the rope around the tree?
+##### Why didn't **Esme** need to [**save**](cairn-srd.html#rules)in order to drag her friend away, or wrap the rope around the tree?
 On a turn, a PC can attempt any action; a [**save**](cairn-srd.html#rules) is only required if the above two conditions are met. It seemed reasonable that **Esme** would be able to make a mad dash around the tree (which was only a few feet away) with **Borrid's** rope without much danger. Had she tried to run close to the **Nightmare** or done something equally uncertain or dangerous however she would have been required to [**save**](cairn-srd.html#rules).
 
 ### In a contested action, who should save?
@@ -66,7 +66,7 @@ _**Esme** tosses one end of her rope to **Boroth**, then quickly wraps the rope 
 
 _The **Nightmare** attempts to halt its attack just as its target falls. The Warden makes a [**DEX save**](cairn-srd.html#rules) to see if it succeeds. He rolls a 20, and the creature goes tumbling off the cliff and into the vast dark below._
 
-#### Why did the **Nightmare** make the [**save**](cairn-srd.html#rules) instead of **Boroth**?
+##### Why did the **Nightmare** make the [**save**](cairn-srd.html#rules) instead of **Boroth**?
 In this example, **Boroth** was the most at risk. He had firmly established his ability to do things of this nature (as a former hunter), and **Esme** had tied the rope around a tree, using herself as a ballast. If he had been injured or had less time to prepare, it would be conceivable to ask for a [**STR save**](cairn-srd.html#rules)], but only if there had been no opponent.
 
 
