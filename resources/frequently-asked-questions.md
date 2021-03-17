@@ -45,12 +45,26 @@ _The Warden asks the players, "What do you do?" Both players agree that combat i
 
 ### When Should a PC, NPC or monster **save**?
 There are generally to two conditions that _must be met_ under which a PC, NPC or monster should [**save**](cairn-srd.html#rules):
-- The outcome of an action is uncertain.
+- The outcome of an action is uncertain
 - Something is at risk (a life, a threatening danger, etc.).
 
 Additionally, there are some circumstances (such as making a [**critical damage save**](https://cairnrpg.com/cairn-srd.html#combat) during combat) that always call for a **save**.
 
-#### In a contested action, who should save?
+_A horse-like creature explodes from the darkness of the wood opposite the party's campsite, its red glowing eyes shrouded by a sea of mist. It runs directly at the still-prone **Borrid**. "A  [**Nightmare**](/monsters/nightmare.html)!" screams **Esme**, before using her action to help drag her comrade out of the way. Barely missing its target, the **Nightmare** swings wildly around, stamping its feet in preparation for another charge._
+
+_"There must be a [**Lich**](/monsters/lich.html) afoot," **Borrid** replies as he quickly gets to his feet. Both adventurers are now standing just to the East of their now-trampled campsite, close to a tree located only steps away from the cavernous **God-Slip**. It is now their turn to go, in any order they like, followed by the demon horse._
+
+_**Poul** comes up with an idea: The horse previously charged at **Borrid**, so it seems reasonable that it would do so again. What if **Esme** tossed one end of her rope to **Borrid**, then quickly looped her rope to the nearby tree? Then if it comes close enough try and trample him again, **Borrid** could simply leap off the cliff, holding the rope for support and using **Esme's** body as a ballast.  **Ursula** agrees to the plan._
+
+_**Borrid** quickly tosses his rope (always at his waist) to **Esme**, quickly wraps the rope around the nearby tree.
+
+#### Why didn't **Esme** need to **save** in order to drag her friend away, or wrap the rope around the tree?
+On a turn, a PC can attempt any action; a **save** is only required if the above two conditions are met. It seemed reasonable that **Esme** would be able to make a mad dash around the tree (which was only a few feet away) with **Borrid's** rope without much danger. Had she tried to run close to the **Nightmare** or done something equally uncertain or dangerous however she would have been required to **save**.
+
+### In a contested action, who should save?
 If two opponents are both attempting to overcome the other, whomever is most at risk should **save**.
+
+
+
 
 ### Without levels or XP, how can PCs advance?
