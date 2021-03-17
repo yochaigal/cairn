@@ -39,7 +39,7 @@ _**Poul** and **Ursula** think on this, and then come up with a way to block the
 - Had there been no PC with the **Herbalist** background, the Warden would likely have declared the PCs ignorant of the plant's properties, and (hopefully) the players would try to learn more by asking questions and experimentation.
 - If a PC had a _tangential_ background (like the **Hunter**) the Warden could let the [Fates decide](/cairn-srd.html#die-of-fate) and roll 1d6. The higher the roll, the more likely the PC would know something relevant or useful.
 
-### How does the Warden decide turn order?
+##### How does the Warden decide turn order?
 Some games rely on "Initiative" to determine who goes first when combat begins. In **Cairn**, the PCs must each make a **DEX save** in order to [act before their opponents](/cairn-srd.html#combat). After that round has been concluded, the two "sides" each take turns attacking, their individual members acting in whatever order they wish. In some cases a **DEX save** may _not_ be necessary, especially when the PC or NPC was on guard or ready for an attack.
 
 _In the late afternoon they finally break through and arrive at the **God-Slip**, a long ravine splitting the forest in two. No bridge spans this part of the ravine, and judging by the sheer rock walls on either side, climbing down would be extremely dangerous. Unfortunately their quarry is most likely located just across, where the cliffs meet the edge of the world. They decide to make camp before moving out._
@@ -62,7 +62,7 @@ _"There must be a [**Lich**](/monsters/lich.html) afoot," **Borrid** replies as 
 _**Poul** comes up with an idea: the creature previously charged at **Borrid**, so it seems reasonable that it would do so again. What if **Esme** tossed one end of her rope to **Borrid**, then quickly looped her rope to the nearby tree? Then if it comes close enough try and trample him again, **Borrid** could simply leap off the cliff, holding the rope for support and using **Esme's** body as a ballast.  **Ursula** agrees to the plan._
 
 ##### Why didn't **Esme** need to **save** in order to drag her friend away, or wrap the rope around the tree?
-On a turn, a PC can attempt any action; a **save**is only required if the above two conditions are met. It seemed reasonable that **Esme** would be able to make a mad dash around the tree (which was only a few feet away) with **Borrid's** rope without much danger. Had she tried to run close to the **Nightmare** or done something equally uncertain or dangerous however she would have been required to **save**.
+On a turn, a PC can attempt any action; a **save** is only required if the above two conditions are met. It seemed reasonable that **Esme** would be able to make a mad dash around the tree (which was only a few feet away) with **Borrid's** rope without much danger. Had she tried to run close to the **Nightmare** or done something equally uncertain or dangerous however she would have been required to **save**.
 
 ### In a contested action, who should save?
 If two opponents are both attempting to overcome the other, whomever is most at risk should **save**.
@@ -71,7 +71,7 @@ _**Esme** tosses one end of her rope to **Boroth**, then quickly wraps the rope 
 
 _The **Nightmare** attempts to halt its attack just as its target falls. The Warden makes a **DEX save** to see if it succeeds. He rolls a 20, and the creature goes tumbling off the cliff and into the vast dark below._
 
-#### Why did the **Nightmare** make the **save** instead of **Boroth**?
+##### Why did the **Nightmare** make the **save** instead of **Boroth**?
 In this example, **Boroth** was the most at risk. He had firmly established his ability to do things of this nature (as a former hunter), and **Esme** had tied the rope around a tree, using herself as a ballast. If he had been injured or had less time to prepare, it would be conceivable to ask for a **STR save**, but only if there had been no opponent.
 
 
