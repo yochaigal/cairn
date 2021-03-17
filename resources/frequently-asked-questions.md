@@ -20,7 +20,7 @@ For the following examples, consider the following setup in play:
 A few terms are used frequently:
 - [**save**](/cairn-srd.html#rules)
 - [**STR/DEX/WIL**](/cairn-srd.html#rules)
-- 
+-
 
 ### How does a PC's knowledge and experience effect the game?
 A character's relevant background, history, and experiences may provide a potential benefit (or disadvantage) to certain situations. Similarly, previous events in the game may influence the impact of their actions, including negating the need for a **save** in some circumstances!
@@ -71,7 +71,7 @@ _**Esme** tosses one end of her rope to **Boroth**, then quickly wraps the rope 
 
 _The **Nightmare** attempts to halt its attack just as its target falls. The Warden makes a **DEX save** to see if it succeeds. He rolls a 20, and the creature goes tumbling off the cliff and into the vast dark below._
 
-##### Why did the **Nightmare** make the **save**instead of **Boroth**?
+#### Why did the **Nightmare** make the **save** instead of **Boroth**?
 In this example, **Boroth** was the most at risk. He had firmly established his ability to do things of this nature (as a former hunter), and **Esme** had tied the rope around a tree, using herself as a ballast. If he had been injured or had less time to prepare, it would be conceivable to ask for a **STR save**, but only if there had been no opponent.
 
 
