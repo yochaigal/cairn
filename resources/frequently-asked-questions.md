@@ -12,9 +12,10 @@ nav_exclude: true
 Below are a few answers to some of the most commonly asked questions from folks new to Cairn.  
 For the following examples, consider the following setup in play:
 
-- **Ursula** controls **Esme** (a dual-wielder with the **Herbalist** background) and **Poul** is playing **Borrid**, a former **Hunter** turned outcast.
-- The PCs are in search of an ancient [**Relic**](/cairn-srd.html#magic), rumored to have restorative powers. It is rumored to be located deep in the **Geunant Forest**, a wood known for having massive, ancient trees that allow little light through their humongous leaves.
-- During character generation it was decided that the PCs were both previously employed by the same wealthy benefactor, who owned lands adjacent to their destination.
+- **Ursula** controls **Esme** (an ex-**Herbalist**), and **Poul** is playing **Borrid**, a former **Hunter**.
+- The PCs are in search of a powerful [**Relic**](/cairn-srd.html#magic), rumored to have restorative powers.
+- It is rumored to be located deep in the **Geunant Forest**, a wood known for having massive, ancient trees that allow little light through their humongous leaves.
+- During character generation it was decided that the PCs were both previously employed by the same wealthy benefactor, who owned lands adjacent to their destination. They recently discovered a hidden parchment detailing their treasure's true location.
 
 ### How does a PC's knowledge and experience effect the game?
 A character's relevant background, history, and experiences may provide a potential benefit (or disadvantage) to certain situations. Similarly, previous events in the game may influence the impact of their actions, including negating the need for a **save** in some circumstances!
