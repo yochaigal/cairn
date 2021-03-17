@@ -463,7 +463,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |Bucket                                       |5               |Manacles           |10        |
 |Caltrops                                     |10              |Metal File         |5         |
 |Cart (+4 slots, bulky)                       |30              |Mirror             |5         |
-|Chain (10ft)                                 |10              |Mule (+6 slots, slow)|30        |
+|Chain (10ft)                                 |10              |Mule (+6 slots, slow)|30      |
 |Chalk                                        |1               |Net                |10        |
 |Chisel                                       |5               |Oilskin Bag        |5         |
 |Cook Pots                                    |10              |Pick               |10        |
@@ -482,7 +482,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |Horse (+4 slots)                             |75              |Tar                |10        |
 |Hourglass                                    |50              |Tent (fits 2 people, bulky)|20        |
 |Incense                                      |10              |Torch              |1         |
-|Ladder (bulky, 10ft)                         |10              |Wagon (+8 slots, slow)|200       |
+|Ladder (bulky, 10ft)                         |10              |Wagon (+8 slots, slow)|200    |
 |Lantern & Oil                                |10              |Wolfsbane          |10        |
 
 <p></p>
@@ -496,7 +496,7 @@ If you would like something closer to traditional classes, refer to the list of 
 | War Hammer (d10, bulky)         |
 | Chainmail (2 Armor, bulky)      |
 | Gauntlets (+1 Armor)            |
-| Curved Blade (d8)               |
+| Curved Blade (d6)               |
 | Holy Symbol (Ward once per day) |
 | Cloak of the Order              |
 
