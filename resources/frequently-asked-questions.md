@@ -67,7 +67,7 @@ _**Poul** comes up with an idea: the creature previously charged at **Borrid**, 
 On a turn, a PC can attempt any action; a **save** is only required if the above two conditions are met. It seemed reasonable that **Esme** would be able to make a mad dash around the tree (which was only a few feet away) with **Borrid's** rope without much danger. Had she tried to run close to the **Nightmare** or done something equally uncertain or dangerous however she would have been required to **save**.
 
 ## In a contested action, who should **save**?
-If two opponents are both attempting to overcome the other, whomever is most at risk should **save**.
+If two opponents are both attempting to overcome the other, whomever is most at risk should **save**. The Warden should make a _consistent_ ruling in this regard, and make sure it is explained clearly to the players before a risk is taken if possible.
 
 _**Esme** tosses one end of her rope to **Boroth**, then quickly wraps the rope around the nearby tree. At the same time, **Boroth** rushes towards the cliff-face, screaming at the creature to charge him. Both PCs are in position when the **Nightmare** makes another attempt at his life. He leaps off the cliff at the last second, holding onto the rope with all his might._
 
@@ -85,11 +85,30 @@ Conversely, **Boroth** was the least at risk of the two:
 
 If he had been injured or had less time to prepare, it would be conceivable to ask for a **STR save** to see if he could hold on to the rope, but only if there had been no opponent.
 
-## How do you determine damage outside of combat?
-
 ## How is damage awarded outside of combat?
+Occasionally a dangerous action, trap, surprise attack, or cataclysmic event will cause grave injury (or even death). Typically the Warden declares the type of damage (e.g. **STR/DEX/WIL**) followed by the amount lost (either in terms of specific amounts, or a variable dice roll).
+It can be difficult to determine exactly what kind of damage to dole out, and how much.  
+
+A few considerations:
+- An injury may take on multiple facets: [**Deprivation**](/cairn-srd.html#rules) may accompany STR loss from poison, for instance.
+- Damage should happen as a consequence of failing a **save**. Do not make players **save** after-the-fact.
+- Fictional injuries are just as powerful as direct mechanical damage. **DEX** loss will have an impact on a character's reflexes and speed, but a broken leg may prevent a character from being able to move at all!
+
+_example_
+
+### Which **Ability** should the damage impact?
+- If the injury affects their physical strength or health, subtract from **STR**. This does not trigger a **critical damage save**.
+- If the injury impacts their ability to move, react quickly, or their fine motor skills, subtract from **DEX**.    
+- If the spirit, willpower, or determination of a PC has been impacted, subtract from **WIL**.
+
+_example_
+
 
 ## When does the fiction negate a mechanical rule or advantage?"
+
+
+_example_
+
 
 ### Without levels or XP, how can PCs advance?
 In **Cairn**, character _growth_ is preferred over _advancement_. This means that although a PC _will_ change, they may not necessarily get _better_ with time. Growth occurs through both mechanical means (such as [**Scars**](/cairn-srd.html#scars)), as well as through events happening solely in the fiction.
