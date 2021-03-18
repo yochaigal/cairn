@@ -90,16 +90,16 @@ Occasionally a dangerous action, trap, surprise attack, or cataclysmic event wil
 It can be difficult to determine exactly what kind of damage to dole out, and how much.  
 
 A few considerations:
-- An injury may take on multiple facets: [**Deprivation**](/cairn-srd.html#rules) may accompany STR loss from poison, for instance.
+- An injury could take on multiple facets: [**Deprivation**](/cairn-srd.html#rules) may accompany STR loss from poison, for instance. Provide a potential solution to overcoming the illness. as well. 
 - Damage should happen as a consequence of failing a **save**. Do not make players **save** after-the-fact.
 - Fictional injuries are just as powerful as direct mechanical damage. **DEX** loss will have an impact on a character's reflexes and speed, but a broken leg may prevent a character from being able to move at all!
 
 _example_
 
 ### Which **Ability** should the damage impact?
-- If the injury affects their physical strength or health, subtract from **STR**. This does not trigger a **critical damage save**.
-- If the injury impacts their ability to move, react quickly, or their fine motor skills, subtract from **DEX**.    
-- If the spirit, willpower, or determination of a PC has been impacted, subtract from **WIL**.
+- If the injury affects their physical strength or health, subtract from **STR**. _This does not trigger a **critical damage save**_. **STR** is a reflection of a PC's health, and should reflect that in subtle but interesting ways: perhaps requiring a **save** where none would have been necessary before.
+- If the injury impacts their ability to move, react quickly, or their fine motor skills, subtract from **DEX**. This frequently is paired with an in-fiction impact as well; broken fingers would impact a PC's ability to pick locks, for example.
+- If the spirit, willpower, or determination of a PC has been impacted, subtract from **WIL**. Especially helpful to consider during magical or superficial injuries. A PC whose soul was burnt by arcane energy may need to make a WIL save to read spellbooks, for example.
 
 ## When does the fiction negate a mechanical rule or advantage?"
 
