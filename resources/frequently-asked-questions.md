@@ -63,13 +63,13 @@ _"There must be a [**Lich**](/monsters/lich.html) afoot," **Borrid** replies as 
 
 _**Poul** comes up with an idea: the creature previously charged at **Borrid**, so it seems reasonable that it would do so again. What if **Esme** tossed one end of her rope to **Borrid**, then quickly looped her rope to the nearby tree? Then if it comes close enough try and trample him again, **Borrid** could simply leap off the cliff, holding the rope for support and using **Esme's** body as a ballast.  **Ursula** agrees to the plan._
 
+_**Esme** tosses one end of her rope to **Boroth**, then quickly wraps the rope around the nearby tree. At the same time, **Boroth** rushes towards the cliff-face, screaming at the creature to charge him. Both PCs are in position when the **Nightmare** makes another attempt at his life. He leaps off the cliff at the last second, holding onto the rope with all his might._
+
 ### Why didn't **Esme** need to **save** in order to drag her friend away, or to wrap the rope around the tree?
 On a turn, a PC can attempt any action; a **save** is only required if the above two conditions are met. It seemed reasonable that **Esme** would be able to make a mad dash around the tree (which was only a few feet away) with **Borrid's** rope without much danger. Had she tried to run close to the **Nightmare** or done something equally uncertain or dangerous however she would have been required to **save**.
 
 ## In a contested action, who should **save**?
 If two opponents are both attempting to overcome the other, whomever is most at risk should **save**. The Warden should make a _consistent_ ruling in this regard, and make sure it is explained clearly to the players before a risk is taken if possible.
-
-_**Esme** tosses one end of her rope to **Boroth**, then quickly wraps the rope around the nearby tree. At the same time, **Boroth** rushes towards the cliff-face, screaming at the creature to charge him. Both PCs are in position when the **Nightmare** makes another attempt at his life. He leaps off the cliff at the last second, holding onto the rope with all his might._
 
 _The **Nightmare** attempts to halt its attack just as its target falls. The Warden makes a **DEX save** to see if it succeeds. He rolls a 20, and the creature goes tumbling off the cliff and into the vast dark below._
 
@@ -100,9 +100,6 @@ _example_
 - If the injury affects their physical strength or health, subtract from **STR**. This does not trigger a **critical damage save**.
 - If the injury impacts their ability to move, react quickly, or their fine motor skills, subtract from **DEX**.    
 - If the spirit, willpower, or determination of a PC has been impacted, subtract from **WIL**.
-
-_example_
-
 
 ## When does the fiction negate a mechanical rule or advantage?"
 
