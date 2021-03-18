@@ -8,7 +8,7 @@ nav_exclude: true
 
 # Frequently Asked Questions
 ---
-### Introduction
+## Introduction
 Below are a few answers to some of the most commonly asked questions from folks new to Cairn.  
 For the following examples, consider the following setup in play:
 
@@ -19,7 +19,7 @@ For the following examples, consider the following setup in play:
 
 Please refer to the [SRD](/cairn-srd.html) below, particularly with regards to [**saves**](/cairn-srd.html#rules) and [combat](/cairn-srd.html#combat).
 
-### How does a PC's knowledge and experience effect the game?
+## How does a PC's knowledge and experience effect the game?
 A character's relevant background, history, and experiences may provide a potential benefit (or disadvantage) to certain situations. Similarly, previous events in the game may influence the impact of their actions, including negating the need for a **save** in some circumstances!
 
 _**Esme** & **Borrid** have spent the better part of the day cutting their way into the **Geunant Forest**, chopping through hanging vines and waist-high brambles. **Borrid** stops every few minutes to check the map, relying on his background as a **Hunter** to ensure the party does not get lost._
@@ -28,15 +28,15 @@ _Eventually, the party comes across an unusual flowering plant blocking their wa
 
 _**Poul** and **Ursula** think on this, and then come up with a way to block the light coming from overhead. They carefully execute this plan (avoiding the thorns, of course) and the pods close up. They move on in safety._
 
-##### How did the Warden decide what the PC should be allowed to know?  
+### How did the Warden decide what the PC should be allowed to know?  
 - First, they reasoned that **Esme's** background (**Herbalist**) would give her _some_ information about the plant (e.g. that it was poisonous, and how much the light would impact it).  
 - Then, they took into account the fact that this forest was known for rarely allowing light to penetrate the large leaves hanging overhead. **Esme** would definitely know this was a major factor.
 
-##### What if no one had any relevant experience or expertise?
+### What if none of the PCs had any relevant experience or expertise?
 - Had there been no PC with the **Herbalist** background, the Warden would likely have declared the PCs ignorant of the plant's properties, and (hopefully) the players would try to learn more by asking questions and experimentation.
 - If a PC had a _tangential_ background (like the **Hunter**) the Warden could let the [Fates decide](/cairn-srd.html#die-of-fate) and roll 1d6. The higher the roll, the more likely the PC would know something relevant or useful.
 
-##### How does the Warden decide turn order?
+## How does the Warden decide turn order?
 Some games rely on "Initiative" to determine who goes first when combat begins. In **Cairn**, the PCs must each make a **DEX save** in order to act before their opponents. After that round has been concluded, the two "sides" each take turns attacking, their individual members acting in whatever order they wish. In some cases a **DEX save** may _not_ be necessary, especially when the PC or NPC was on guard or ready for an attack.
 
 _In the late afternoon the party makes a last push to break through the forest boundary. Spilling out of the treeline, they find themselves nearly stepping into a long ravine splitting the forest in two. Finally, they've arrived at the **God-Slip**, a seemingly endless ravine with no bridge crossing it. Judging by the sheer rock walls on either side, climbing down would be extremely dangerous. Unfortunately their quarry is most likely located just across, where the cliffs meet the edge of the world. They decide to make camp before moving out._
@@ -45,7 +45,7 @@ _They set up camp with their backs to the ravine, judging it to be one fewer thi
 
 _The Warden asks the players, "What do you do?" Both players agree that combat is likely their only option, agreeing that they would attack at the first sight of danger.  The Warden decrees that **Esme** should not have to make a **DEX** save, as she was at the ready when their opponent first appeared. **Poul** however must make a **DEX save** to see if his character is able to ready himself for combat in time. He rolls 1d20, and the result is a 17, a fail. The Warden decrees that **Esme** will go first, then their opponent, and finally **Borrid**._
 
-### When Should a PC, NPC or monster **save**?
+## When Should a PC, NPC or monster **save**?
 There are generally to two conditions that _must be met_ under which a PC, NPC or monster should **save**:
 - The outcome of an action is uncertain
 - Something is at risk (a life, a threatening danger, etc.).
@@ -58,17 +58,17 @@ _"There must be a [**Lich**](/monsters/lich.html) afoot," **Borrid** replies as 
 
 _**Poul** comes up with an idea: the creature previously charged at **Borrid**, so it seems reasonable that it would do so again. What if **Esme** tossed one end of her rope to **Borrid**, then quickly looped her rope to the nearby tree? Then if it comes close enough try and trample him again, **Borrid** could simply leap off the cliff, holding the rope for support and using **Esme's** body as a ballast.  **Ursula** agrees to the plan._
 
-##### Why didn't **Esme** need to **save** in order to drag her friend away, or to wrap the rope around the tree?
+### Why didn't **Esme** need to **save** in order to drag her friend away, or to wrap the rope around the tree?
 On a turn, a PC can attempt any action; a **save** is only required if the above two conditions are met. It seemed reasonable that **Esme** would be able to make a mad dash around the tree (which was only a few feet away) with **Borrid's** rope without much danger. Had she tried to run close to the **Nightmare** or done something equally uncertain or dangerous however she would have been required to **save**.
 
-### In a contested action, who should save?
+## In a contested action, who should save?
 If two opponents are both attempting to overcome the other, whomever is most at risk should **save**.
 
 _**Esme** tosses one end of her rope to **Boroth**, then quickly wraps the rope around the nearby tree. At the same time, **Boroth** rushes towards the cliff-face, screaming at the creature to charge him. Both PCs are in position when the **Nightmare** makes another attempt at his life. He leaps off the cliff at the last second, holding onto the rope with all his might._
 
 _The **Nightmare** attempts to halt its attack just as its target falls. The Warden makes a **DEX save** to see if it succeeds. He rolls a 20, and the creature goes tumbling off the cliff and into the vast dark below._
 
-##### Why did the **Nightmare** make the **save** instead of **Boroth**?
+### Why did the **Nightmare** make the **save** instead of **Boroth**?
 In this example, the **Nightmare** was far more at risk than its human opponent, because:   
 - As an enthralled beast, it was likely not capable of creative thinking or advanced problem solving.
 - One of its primary features is its relative bulk and speed, and it is likely that these properties would make a sudden stop quite difficult.
