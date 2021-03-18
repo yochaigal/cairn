@@ -15,14 +15,15 @@ For the following examples, consider the following setup in play:
 - **Ursula** plays **Esme**, an ex-**Herbalist**. **Poul** is playing a a **Hunter** called **Borrid**.
 - The PCs are in search of a powerful [**Relic**](/cairn-srd.html#magic), rumored to have restorative powers.
 - It is rumored to be located deep in the **Geunant Forest**, a wood known for having massive, ancient trees that allow little light through their humongous leaves.
-- During character generation it was decided that the PCs were both previously employed by the same wealthy benefactor, who owned lands adjacent to their destination. They recently discovered a hidden parchment detailing their treasure's true location.
+- During character generation it was decided that the PCs were both previously employed by the same wealthy benefactor, who owned lands adjacent to their destination.
+- They recently discovered a hidden parchment detailing their treasure's true location.
 
 Please refer to the [SRD](/cairn-srd.html) when reading through the examples below, particularly with regards to [**saves**](/cairn-srd.html#rules) and [combat](/cairn-srd.html#combat).
 
 ## How does a PC's knowledge and experience effect the game?
 A character's relevant background, history, and experiences may provide a potential benefit (or disadvantage) to certain situations. Similarly, previous events in the game may influence the impact of their actions, including negating the need for a **save** in some circumstances!
 
-_**Esme** & **Borrid** have spent the better part of the day cutting their way into the **Geunant Forest**, chopping through hanging vines and waist-high brambles. **Borrid** stops every few minutes to check the map, relying on his background as a **Hunter** to ensure the party does not get lost._
+_**Esme** & **Borrid** have spent the better part of the day cutting their way into the **Geunant Forest**, chopping through hanging vines and waist-high brambles. **Borrid** stops every few minutes to survey their surroundings, relying on his background as a **Hunter** to ensure the party does not get lost._
 
 _Eventually, the party comes across an unusual flowering plant blocking their way. It sits in a solitary sunbeam, dripping a vile green ichor from open, violet pods. **Ursula** asks the Warden if his PC knows the plant. The Warden says yes, **Esme** knows the plant, and that it probably is overgrown on account of the sunbeam drenching it in natural light._
 
@@ -98,7 +99,7 @@ _**Borrid** first lowers himself into the ravine while **Esme** keeps an eye on 
 _continue example here_
 
 
-### Which **Ability** should the damage impact?
+### Which **Ability** should non-combat damage impact?
 - If the injury affects their physical strength or health, subtract from **STR**. _This does not trigger a **critical damage save**_. **STR** is a reflection of a PC's health, and should reflect that in subtle but interesting ways: perhaps requiring a **save** where none would have been necessary before.
 - If the injury impacts their ability to move, react quickly, or their fine motor skills, subtract from **DEX**. This frequently is paired with an in-fiction impact as well; broken fingers would impact a PC's ability to pick locks, for example.
 - If the spirit, willpower, or determination of a PC has been impacted, subtract from **WIL**. Especially helpful to consider during magical or superficial injuries. A PC whose soul was burnt by arcane energy may need to make a WIL save to read spellbooks, for example.
@@ -108,13 +109,12 @@ A few considerations:
 - Damage should happen as a consequence of failing a **save**. Do not make players **save** after-the-fact.
 - Fictional injuries are just as powerful as direct mechanical damage. **DEX** loss will have an impact on a character's reflexes and speed, but a broken leg may prevent a character from being able to move at all!
 
-## When does the fiction negate a mechanical rule or advantage?"
+## When does the fiction negate a mechanic?"
 
 
 _The shelf is quite difficult to navigate, and quite frequently the party must step carefully to avoid hidden sinkholes that could send them tumbling into the abyss. **Borrid's** experience is helpful but not perfect; after a very slow start, **Ursula** suggests they climb along the shelf until it narrows enough for them to cross more easily. **Poul** agreed and the PCs started forth, moving South._
 
 _After an hour's walk along the broken, unforgiving mountainous crest they find its "edge"; ahead lay only a wide, endless valley blanketed in an early morning fog. They could go no further here, but fortunately by this point the crack had narrowed to an almost manageable gap. The other side of the ravine is significantly lower in elevation however, meaning that although they may be able to get down, coming back they might have to find an alternate route._
-
 
 ### Without levels or XP, how can PCs advance?
 In **Cairn**, character _growth_ is preferable over _advancement_. This means that although a PC _will_ change, they may not necessarily get _better_ with time. Growth occurs through both mechanical means (such as [**Scars**](/cairn-srd.html#scars)), as well as through events happening solely in the fiction.
