@@ -89,22 +89,27 @@ If he had been injured or had less time to prepare, it would be conceivable to a
 Occasionally a dangerous action, trap, surprise attack, or cataclysmic event will cause grave injury (or even death). Typically the Warden declares the type of damage (e.g. **STR/DEX/WIL**) followed by the amount lost (either in terms of specific amounts, or a variable dice roll).
 It can be difficult to determine exactly what kind of damage to dole out, and how much.  
 
-A few considerations:
-- An injury could take on multiple facets: [**Deprivation**](/cairn-srd.html#rules) may accompany STR loss from poison, for instance. Provide a potential solution to overcoming the illness. as well. 
-- Damage should happen as a consequence of failing a **save**. Do not make players **save** after-the-fact.
-- Fictional injuries are just as powerful as direct mechanical damage. **DEX** loss will have an impact on a character's reflexes and speed, but a broken leg may prevent a character from being able to move at all!
+_After their encounter with the **Nightmare**, **Borrid** and **Esme** returned to camp and tried to catch as much sleep as they could. By daybreak both were awake and ready to continue on their journey. The question was, how? The **God-Slip** appeared equally insurmountable during the day, and there was no obvious way to cross it! _**Ursula** suggested they search along the ravine for a point at which the crack narrowed enough for them to cross more easily. **Poul** agreed and the PCs started forth, moving South._
 
-_example_
+_The surface here is quite difficult to navigate; quite frequently the party must step carefully to avoid hidden sinkholes that could send them tumbling into the abyss._
 
 ### Which **Ability** should the damage impact?
 - If the injury affects their physical strength or health, subtract from **STR**. _This does not trigger a **critical damage save**_. **STR** is a reflection of a PC's health, and should reflect that in subtle but interesting ways: perhaps requiring a **save** where none would have been necessary before.
 - If the injury impacts their ability to move, react quickly, or their fine motor skills, subtract from **DEX**. This frequently is paired with an in-fiction impact as well; broken fingers would impact a PC's ability to pick locks, for example.
 - If the spirit, willpower, or determination of a PC has been impacted, subtract from **WIL**. Especially helpful to consider during magical or superficial injuries. A PC whose soul was burnt by arcane energy may need to make a WIL save to read spellbooks, for example.
 
+A few considerations:
+- An injury could take on multiple facets: [**Deprivation**](/cairn-srd.html#rules) may accompany STR loss from poison, for instance. Provide a potential solution to overcoming the illness. as well.
+- Damage should happen as a consequence of failing a **save**. Do not make players **save** after-the-fact.
+- Fictional injuries are just as powerful as direct mechanical damage. **DEX** loss will have an impact on a character's reflexes and speed, but a broken leg may prevent a character from being able to move at all!
+
 ## When does the fiction negate a mechanical rule or advantage?"
 
 
-_example_
+_After an hour's walk along the broken, unforgiving mountainous crest they find its "edge"; ahead lay only a wide, endless valley blanketed in an early morning fog. They could go no further here, but fortunately by this point the crack had narrowed to an almost manageable gap. The other side of the ravine is significantly lower in elevation however, meaning that although they may be able to get down, coming back they might have to find an alternate route._
+
+_**Borrid** finds nearby tree stump not far from the edge of ravine and hammers one of his pitons into it. Looping a rope through it, he now has a sturdy if makeshift cable with which both of them could lower themselves into the ravine and then swing over._
+
 
 
 ### Without levels or XP, how can PCs advance?
