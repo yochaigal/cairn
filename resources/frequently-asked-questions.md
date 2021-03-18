@@ -83,10 +83,11 @@ If he had been injured or had less time to prepare, it would be conceivable to a
 ### Without levels or XP, how can PCs advance?
 In **Cairn**, character _growth_ is preferred over _advancement_. This means that although a PC _will_ change, they may not necessarily get _better_ with time. Growth occurs through both mechanical means ([**Scars**](/cairn-srd.html#scars)) as well as through events happening solely in the fiction.
 
-When considering non-mechanical growth, keep these this in mind:
-- Growth should be tied to a specific experience occurring in the fiction.
-- There should be opportunities for growth & change everywhere.
+As a Warden consider the following when awarding non-mechanical growth to PCs:
+- Growth should be tied to a _specific_ experience occurring in the fiction.
 - It is better for a PC to become more _interesting_ than more skilled or capable.
 - PCs experience growth not necessarily because they've gotten more skill and experience, but because they are _changed_ in a significant way.
+- There should be opportunities for growth & change everywhere, _especially_ when a PC puts themselves at risk.
+- Growth occurs _while things are happening_, not after the PC has rested.
 
-_After the battle, 
+_After the battle,
