@@ -89,9 +89,12 @@ If he had been injured or had less time to prepare, it would be conceivable to a
 Occasionally a dangerous action, trap, surprise attack, or cataclysmic event will cause grave injury (or even death). Typically the Warden declares the type of damage (e.g. **STR/DEX/WIL**) followed by the amount lost (either in terms of specific amounts, or a variable dice roll).
 It can be difficult to determine exactly what kind of damage to dole out, and how much.  
 
-_After their encounter with the **Nightmare**, **Borrid** and **Esme** returned to camp and tried to catch as much sleep as they could. By daybreak both were awake and ready to continue on their journey. The question was, how? The **God-Slip** appeared equally insurmountable during the day, and there was no obvious way to cross it! _**Ursula** suggested they search along the ravine for a point at which the crack narrowed enough for them to cross more easily. **Poul** agreed and the PCs started forth, moving South._
+_After their encounter with the **Nightmare**, **Borrid** and **Esme** return to camp and try to catch as much sleep as they can. By daybreak both are awake and ready to continue on their journey. The question is, how? The **God-Slip** appears equally insurmountable now, although the Warden points out that a few hundred feet South they can see a small shelf jutting out from inside the ravine. It might require a little work to shimmy down, but it does look feasible._
 
-_The surface here is quite difficult to navigate; quite frequently the party must step carefully to avoid hidden sinkholes that could send them tumbling into the abyss._
+_**Borrid** walks along the ravine until he finds a large stone near the edge. He hammers one of his pitons into it then loops his rope through, creating a makeshift cable with which both adventures could lower themselves safely into the ravine and onto the shelf._
+
+_**Borrid** lowers himself into the ravine while **Esme** keeps an eye, landing on the shelf
+
 
 ### Which **Ability** should the damage impact?
 - If the injury affects their physical strength or health, subtract from **STR**. _This does not trigger a **critical damage save**_. **STR** is a reflection of a PC's health, and should reflect that in subtle but interesting ways: perhaps requiring a **save** where none would have been necessary before.
@@ -106,10 +109,9 @@ A few considerations:
 ## When does the fiction negate a mechanical rule or advantage?"
 
 
+_The shelf is quite difficult to navigate, and quite frequently the party must step carefully to avoid hidden sinkholes that could send them tumbling into the abyss. **Borrid's** experience is helpful but not perfect; after a very slow start, **Ursula** suggests they climb along the shelf until it narrows enough for them to cross more easily. **Poul** agreed and the PCs started forth, moving South._
+
 _After an hour's walk along the broken, unforgiving mountainous crest they find its "edge"; ahead lay only a wide, endless valley blanketed in an early morning fog. They could go no further here, but fortunately by this point the crack had narrowed to an almost manageable gap. The other side of the ravine is significantly lower in elevation however, meaning that although they may be able to get down, coming back they might have to find an alternate route._
-
-_**Borrid** finds nearby tree stump not far from the edge of ravine and hammers one of his pitons into it. Looping a rope through it, he now has a sturdy if makeshift cable with which both of them could lower themselves into the ravine and then swing over._
-
 
 
 ### Without levels or XP, how can PCs advance?
