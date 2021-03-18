@@ -12,7 +12,7 @@ nav_exclude: true
 Below are a few answers to some of the most commonly asked questions from folks new to Cairn.  
 For the following examples, consider the following setup in play:
 
-- **Ursula** controls **Esme** (an ex-**Herbalist**), and **Poul** is playing **Borrid**, a former **Hunter**.
+- **Ursula** plays **Esme**, an ex-**Herbalist**. **Poul** is playing a a **Hunter** called **Borrid**.
 - The PCs are in search of a powerful [**Relic**](/cairn-srd.html#magic), rumored to have restorative powers.
 - It is rumored to be located deep in the **Geunant Forest**, a wood known for having massive, ancient trees that allow little light through their humongous leaves.
 - During character generation it was decided that the PCs were both previously employed by the same wealthy benefactor, who owned lands adjacent to their destination. They recently discovered a hidden parchment detailing their treasure's true location.
@@ -93,7 +93,9 @@ _After their encounter with the **Nightmare**, **Borrid** and **Esme** return to
 
 _**Borrid** walks along the ravine until he finds a large stone near the edge. He hammers one of his pitons into it then loops his rope through, creating a makeshift cable with which both adventures could lower themselves safely into the ravine and onto the shelf._
 
-_**Borrid** lowers himself into the ravine while **Esme** keeps an eye, landing on the shelf
+_**Borrid** first lowers himself into the ravine while **Esme** keeps an eye on the stone. Carefully planting his feet on the shelf, he tests the rope and calls up to his partner, who climbs down. After she arrives safely on the shelf, they sorrowfully leave the rope behind for the return journey._
+
+_continue example here_
 
 
 ### Which **Ability** should the damage impact?
@@ -115,9 +117,9 @@ _After an hour's walk along the broken, unforgiving mountainous crest they find 
 
 
 ### Without levels or XP, how can PCs advance?
-In **Cairn**, character _growth_ is preferred over _advancement_. This means that although a PC _will_ change, they may not necessarily get _better_ with time. Growth occurs through both mechanical means (such as [**Scars**](/cairn-srd.html#scars)), as well as through events happening solely in the fiction.
+In **Cairn**, character _growth_ is preferable over _advancement_. This means that although a PC _will_ change, they may not necessarily get _better_ with time. Growth occurs through both mechanical means (such as [**Scars**](/cairn-srd.html#scars)), as well as through events happening solely in the fiction.
 
-As a Warden consider the following when awarding non-mechanical growth to PCs:
+The Warden should consider the following when awarding non-mechanical growth to PCs:
 - Growth should be tied to a _specific_ experience occurring in the fiction.
 - It is better for a PC to become more _interesting_ than more skilled or capable.
 - PCs experience growth not necessarily because they've gotten more skill and experience, but because they are _changed_ in a significant way.
