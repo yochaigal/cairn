@@ -36,14 +36,21 @@ _**Poul** and **Ursula** think on this, and then come up with a way to block the
 - Had there been no PC with the **Herbalist** background, the Warden would likely have declared the PCs ignorant of the plant's properties, and (hopefully) the players would try to learn more by asking questions and experimentation.
 - If a PC had a _tangential_ background (like the **Hunter**) the Warden could let the [Fates decide](/cairn-srd.html#die-of-fate) and roll 1d6. The higher the roll, the more likely the PC would know something relevant or useful.
 
-## How does the Warden decide turn order?
-Some games rely on "Initiative" to determine who goes first when combat begins. In **Cairn**, the PCs must each make a **DEX save** in order to act before their opponents. After that round has been concluded, the two "sides" each take turns attacking, their individual members acting in whatever order they wish. In some cases a **DEX save** may _not_ be necessary, especially when the PC or NPC was on guard or ready for an attack.
+## What determines whether combat should break out?
+**Cairn** assumes that the characters live in a dangerous world where even the most minor interaction can become quite deadly. The players should therefore be encouraged to find non-violent ways to solve their problems. There are of course times where this is quite impossible, and it is up to the Warden to determine if a violent situation should be resolved through combat.
 
 _In the late afternoon the party makes a last push to break through the forest boundary. Spilling out of the treeline, they find themselves nearly stepping into a long ravine splitting the forest in two. Finally, they've arrived at the **God-Slip**, a seemingly endless ravine with no bridge crossing it. Judging by the sheer rock walls on either side, climbing down would be extremely dangerous. Unfortunately their quarry is most likely located just across, where the cliffs meet the edge of the world. They decide to make camp before moving out._
 
 _They set up camp with their backs to the ravine, judging it to be one fewer thing they'd have to worry about at night. Later that evening, the adventurers decide to take turns at keeping watch. **Esme** takes the first shift. Halfway through, she hears a snapping of twigs coming from just to the West of their camp, back towards the **Geunant Forest**. Slowly, she leans over towards **Borrid** and kicks him awake. Nodding her head towards the direction of the noise, she makes the symbol for be quiet. Her companion sits up, just as a pair of horrid red eyes become visible behind the underbrush._
 
-_The Warden asks the players, "What do you do?" Both players agree that combat is likely their only option, agreeing that they would attack at the first sight of danger.  The Warden decrees that **Esme** should not have to make a **DEX** save, as she was at the ready when their opponent first appeared. **Poul** however must make a **DEX save** to see if his character is able to ready himself for combat in time. He rolls 1d20, and the result is a 17, a fail. The Warden decrees that **Esme** will go first, then their opponent, and finally **Borrid**._
+_The Warden then asks, "What do you do?" The players know that whatever creatures stalking the forest at night are very likely dangerous. They agree that direct combat is likely their best option, as the beasts of the night rarely have time to chat._
+
+## How does the Warden decide turn order?
+Some games rely on "Initiative" to determine who goes first when combat begins. In **Cairn**, the PCs must each make a **DEX save** in order to act before their opponents. After that round has been concluded, the two "sides" each take turns attacking, their individual members acting in whatever order they wish. In some cases a **DEX save** may _not_ be necessary, especially when the PC or NPC was on guard or ready for an attack.
+
+_The Warden decrees that **Esme** should not have to make a **DEX** save to go first, as she was at the ready when their opponent first appeared. **Poul** however must make a **DEX save** to see if his character is able to ready himself for combat in time. He rolls 1d20, and the result is a 17, a fail. The Warden decrees that **Esme** will go first, then their opponent, and finally **Borrid**._
+
+_A horse-like creature explodes from the darkness of the wood opposite the party's campsite, its red glowing eyes shrouded by a sea of mist. It runs directly at the still-prone **Borrid**. "A [**Nightmare**](/monsters/nightmare.html)!" screams **Esme**, before using her action to help drag her comrade out of the way. Barely missing its target, the **Nightmare** swings wildly around, stamping its feet in preparation for another charge._
 
 ## When Should a PC, NPC or monster **save**?
 There are generally to two conditions that _must be met_ under which a PC, NPC or monster should **save**:
@@ -51,8 +58,6 @@ There are generally to two conditions that _must be met_ under which a PC, NPC o
 - Something is at risk (a life, a threatening danger, etc.).
 
 Additionally, there are some circumstances (such as making a [**critical damage save**](/cairn-srd.html#combat) during combat) that always call for a **save**.
-
-_A horse-like creature explodes from the darkness of the wood opposite the party's campsite, its red glowing eyes shrouded by a sea of mist. It runs directly at the still-prone **Borrid**. "A [**Nightmare**](/monsters/nightmare.html)!" screams **Esme**, before using her action to help drag her comrade out of the way. Barely missing its target, the **Nightmare** swings wildly around, stamping its feet in preparation for another charge._
 
 _"There must be a [**Lich**](/monsters/lich.html) afoot," **Borrid** replies as he quickly gets to his feet. Both adventurers are now standing just to the East of their now-trampled campsite, close to a tree located only steps away from the cavernous **God-Slip**. It is now their turn to go, in any order they like, followed by the demon horse. **Borrid** has only his hip-knife for combat, as everything else is still at the camp._
 
@@ -68,7 +73,7 @@ _**Esme** tosses one end of her rope to **Boroth**, then quickly wraps the rope 
 
 _The **Nightmare** attempts to halt its attack just as its target falls. The Warden makes a **DEX save** to see if it succeeds. He rolls a 20, and the creature goes tumbling off the cliff and into the vast dark below._
 
-### Why did the **Nightmare** make the **save** instead of **Boroth**?
+### Why did the **Nightmare** have to make the **save** instead of **Boroth**?
 In this example, the **Nightmare** was far more at risk than its human opponent, because:   
 - As an enthralled beast, it was likely not capable of creative thinking or advanced problem solving.
 - One of its primary features is its relative bulk and speed, and it is likely that these properties would make a sudden stop quite difficult.
@@ -80,8 +85,14 @@ Conversely, **Boroth** was the least at risk of the two:
 
 If he had been injured or had less time to prepare, it would be conceivable to ask for a **STR save** to see if he could hold on to the rope, but only if there had been no opponent.
 
+## How do you determine damage outside of combat?
+
+## How is damage awarded outside of combat?
+
+## When does the fiction negate a mechanical rule or advantage?"
+
 ### Without levels or XP, how can PCs advance?
-In **Cairn**, character _growth_ is preferred over _advancement_. This means that although a PC _will_ change, they may not necessarily get _better_ with time. Growth occurs through both mechanical means ([**Scars**](/cairn-srd.html#scars)) as well as through events happening solely in the fiction.
+In **Cairn**, character _growth_ is preferred over _advancement_. This means that although a PC _will_ change, they may not necessarily get _better_ with time. Growth occurs through both mechanical means (such as [**Scars**](/cairn-srd.html#scars)), as well as through events happening solely in the fiction.
 
 As a Warden consider the following when awarding non-mechanical growth to PCs:
 - Growth should be tied to a _specific_ experience occurring in the fiction.
@@ -90,4 +101,4 @@ As a Warden consider the following when awarding non-mechanical growth to PCs:
 - There should be opportunities for growth & change everywhere, _especially_ when a PC puts themselves at risk.
 - Growth occurs _while things are happening_, not after the PC has rested.
 
-_After the battle,
+_example here_
