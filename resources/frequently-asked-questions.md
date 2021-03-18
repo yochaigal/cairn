@@ -17,7 +17,7 @@ For the following examples, consider the following setup in play:
 - It is rumored to be located deep in the **Geunant Forest**, a wood known for having massive, ancient trees that allow little light through their humongous leaves.
 - During character generation it was decided that the PCs were both previously employed by the same wealthy benefactor, who owned lands adjacent to their destination. They recently discovered a hidden parchment detailing their treasure's true location.
 
-Please refer to the [SRD](/cairn-srd.html) below, particularly with regards to [**saves**](/cairn-srd.html#rules) and [combat](/cairn-srd.html#combat).
+Please refer to the [SRD](/cairn-srd.html) when reading through the examples below, particularly with regards to [**saves**](/cairn-srd.html#rules) and [combat](/cairn-srd.html#combat).
 
 ## How does a PC's knowledge and experience effect the game?
 A character's relevant background, history, and experiences may provide a potential benefit (or disadvantage) to certain situations. Similarly, previous events in the game may influence the impact of their actions, including negating the need for a **save** in some circumstances!
