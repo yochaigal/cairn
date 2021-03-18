@@ -69,7 +69,16 @@ _**Esme** tosses one end of her rope to **Boroth**, then quickly wraps the rope 
 _The **Nightmare** attempts to halt its attack just as its target falls. The Warden makes a **DEX save** to see if it succeeds. He rolls a 20, and the creature goes tumbling off the cliff and into the vast dark below._
 
 ##### Why did the **Nightmare** make the **save** instead of **Boroth**?
-In this example, **Boroth** was the most at risk. He had firmly established his ability to do things of this nature (as a former hunter), and **Esme** had tied the rope around a tree, using herself as a ballast. If he had been injured or had less time to prepare, it would be conceivable to ask for a **STR save**, but only if there had been no opponent.
+In this example, the **Nightmare** was far more at risk than its human opponent, because:   
+- As an enthralled beast, it was likely not capable of creative thinking or advanced problem solving.
+- One of its primary features is its relative bulk and speed, and it is likely that these properties would make a sudden stop quite difficult.
+- Accordingly, there were no situational or mechanical benefits that could provide any advantage to the **Nightmare** in this scenario.
+
+Conversely, **Boroth** was the least at risk of the two:
+- As a former hunter, he had already firmly established his ability to do things of this nature.
+- **Esme** had tied the rope around a tree, using herself as a ballast. This provided a situational advantage.
+
+If he had been injured or had less time to prepare, it would be conceivable to ask for a **STR save** to see if he could hold on to the rope, but only if there had been no opponent.
 
 
 
