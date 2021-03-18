@@ -80,6 +80,4 @@ Conversely, **Boroth** was the least at risk of the two:
 
 If he had been injured or had less time to prepare, it would be conceivable to ask for a **STR save** to see if he could hold on to the rope, but only if there had been no opponent.
 
-
-
 ### Without levels or XP, how can PCs advance?
