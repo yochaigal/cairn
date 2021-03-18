@@ -61,7 +61,7 @@ _**Poul** comes up with an idea: the creature previously charged at **Borrid**, 
 ### Why didn't **Esme** need to **save** in order to drag her friend away, or to wrap the rope around the tree?
 On a turn, a PC can attempt any action; a **save** is only required if the above two conditions are met. It seemed reasonable that **Esme** would be able to make a mad dash around the tree (which was only a few feet away) with **Borrid's** rope without much danger. Had she tried to run close to the **Nightmare** or done something equally uncertain or dangerous however she would have been required to **save**.
 
-## In a contested action, who should save?
+## In a contested action, who should **save**?
 If two opponents are both attempting to overcome the other, whomever is most at risk should **save**.
 
 _**Esme** tosses one end of her rope to **Boroth**, then quickly wraps the rope around the nearby tree. At the same time, **Boroth** rushes towards the cliff-face, screaming at the creature to charge him. Both PCs are in position when the **Nightmare** makes another attempt at his life. He leaps off the cliff at the last second, holding onto the rope with all his might._
@@ -81,3 +81,12 @@ Conversely, **Boroth** was the least at risk of the two:
 If he had been injured or had less time to prepare, it would be conceivable to ask for a **STR save** to see if he could hold on to the rope, but only if there had been no opponent.
 
 ### Without levels or XP, how can PCs advance?
+In **Cairn**, character _growth_ is preferred over _advancement_. This means that although a PC _will_ change, they may not necessarily get _better_ with time. Growth occurs through both mechanical means ([**Scars**](/cairn-srd.html#scars)) as well as through events happening solely in the fiction.
+
+When considering non-mechanical growth, keep these this in mind:
+- Growth should be tied to a specific experience occurring in the fiction.
+- There should be opportunities for growth & change everywhere.
+- It is better for a PC to become more _interesting_ than more skilled or capable.
+- PCs experience growth not necessarily because they've gotten more skill and experience, but because they are _changed_ in a significant way.
+
+_After the battle, 
