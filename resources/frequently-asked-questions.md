@@ -23,7 +23,7 @@ Please refer to the [SRD](/cairn-srd.html) when reading through the examples bel
 ## How does a PC's knowledge and experience effect the game?
 A character's relevant background, history, and experiences may provide a potential benefit (or disadvantage) to certain situations. Similarly, previous events in the game may influence the impact of their actions, including negating the need for a **save** in some circumstances!
 
-_**Esme** & **Borrid** have spent the better part of the day cutting their way into the **Geunant Forest**, chopping through hanging vines and waist-high brambles. **Borrid** stops every few minutes to survey their surroundings, relying on his background as a **Hunter** to ensure the party does not get lost._
+_**Esme** & **Borrid** have spent the better part of the day cutting their way through the **Geunant Forest**, chopping past hanging vines and waist-high brambles. **Borrid** stops every few minutes to survey their surroundings, relying on his background as a **Hunter** to ensure the party does not get lost._
 
 _Eventually, the party comes across an unusual flowering plant blocking their way. It sits in a solitary sunbeam, dripping a vile green ichor from open, violet pods. **Ursula** asks the Warden if his PC knows the plant. The Warden says yes, **Esme** knows the plant, and that it probably is overgrown on account of the sunbeam drenching it in natural light._
 
@@ -90,13 +90,17 @@ If he had been injured or had less time to prepare, it would be conceivable to a
 Occasionally a dangerous action, trap, surprise attack, or cataclysmic event will cause grave injury (or even death). Typically the Warden declares the type of damage (e.g. **STR/DEX/WIL**) followed by the amount lost (either in terms of specific amounts, or a variable dice roll).
 It can be difficult to determine exactly what kind of damage to dole out, and how much.  
 
-_After their encounter with the **Nightmare**, **Borrid** and **Esme** return to camp and try to catch as much sleep as they can. By daybreak both are awake and ready to continue on their journey. The question is, how? The **God-Slip** appears equally insurmountable now, although the Warden points out that a few hundred feet South they can see a small shelf jutting out from inside the ravine. It might require a little work to shimmy down, but it does look feasible._
+_After their encounter with the **Nightmare**, **Borrid** and **Esme** return to camp and try to catch as much sleep as they can. By daybreak both are awake and ready to continue on their journey. The question is, how? The **God-Slip** appears equally insurmountable now, although the Warden points out that they can see a small shelf jutting out from inside the ravine just a few hundred meters South. It might require a little work to shimmy down, but it does look feasible._
 
-_**Borrid** walks along the ravine until he finds a large stone near the edge. He hammers one of his pitons into it then loops his rope through, creating a makeshift cable with which both adventures could lower themselves safely into the ravine and onto the shelf._
+_After a half hour's walk along the broken, unforgiving mountainous crest they finally arrive at its edge,unable to go any further. Beneath them is an endless forest valley, blanketed in the early morning fog. _**Borrid** searches until he finds a large stone near the edge. He hammers one of his pitons into it then loops his rope through, creating a makeshift cable with which both adventures could lower themselves safely into the ravine and onto the shelf._
 
-_**Borrid** first lowers himself into the ravine while **Esme** keeps an eye on the stone. Carefully planting his feet on the shelf, he tests the rope and calls up to his partner, who climbs down. After she arrives safely on the shelf, they sorrowfully leave the rope behind for the return journey._
+_**Borrid** carefully lowers himself onto the shelf while **Esme** keeps an eye on the stone. Carefully planting his feet on the shelf, he tests the rope and calls up to his partner, who climbs down. After she arrives safely on the shelf, they sorrowfully leave the rope behind for the return journey. The shelf appears to zigzag down the inside of the ravine, nearly to the bottom. The sounds of rushing water below fills the ravine._
 
-_continue example here_
+_The party moves carefully down the shelf, digging their fingers into the cliff-face for safety. To ward off the growing shadows, **Esme** lights her torch. A half-hour into their descent they arrive at a small waterfall blocking their way forward._
+
+_The Warden explains that the rock wall is slick with moss, and that they will likely slip if they try to step through. **Poul** argues that they should press on, despite the dangers. **Ursula** suggests they hook one of her bolas to his arm in case something happens._
+
+_The Warden says that **Borrid** must make a **DEX save** to see if he can cross over the slick surface without slipping. **Poul** rolls a 14, a fail. He slips and tumbles down the waterfall into the dark waters below._
 
 
 ### Which **Ability** should non-combat damage impact?
@@ -114,7 +118,7 @@ A few considerations:
 
 _The shelf is quite difficult to navigate, and quite frequently the party must step carefully to avoid hidden sinkholes that could send them tumbling into the abyss. **Borrid's** experience is helpful but not perfect; after a very slow start, **Ursula** suggests they climb along the shelf until it narrows enough for them to cross more easily. **Poul** agreed and the PCs started forth, moving South._
 
-_After an hour's walk along the broken, unforgiving mountainous crest they find its "edge"; ahead lay only a wide, endless valley blanketed in an early morning fog. They could go no further here, but fortunately by this point the crack had narrowed to an almost manageable gap. The other side of the ravine is significantly lower in elevation however, meaning that although they may be able to get down, coming back they might have to find an alternate route._
+
 
 ### Without levels or XP, how can PCs advance?
 In **Cairn**, character _growth_ is preferable over _advancement_. This means that although a PC _will_ change, they may not necessarily get _better_ with time. Growth occurs through both mechanical means (such as [**Scars**](/cairn-srd.html#scars)), as well as through events happening solely in the fiction.
