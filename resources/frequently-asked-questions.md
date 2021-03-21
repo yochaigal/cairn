@@ -115,10 +115,11 @@ A few considerations:
 
 ## When does the fiction negate a mechanic?"
 
+_Clambering out of the basin, **Borrid** calls up to his comrade. "Well, that was a bad idea." **Esme** laughs, then asks, "How exactly are you going to get back up here without a rope?" **Poul** asks the Warden to tell him everything **Borrid** can see and hear from his new position. "There isn't much light here, but something glints in the darkness beneath you. If you had more light, you could perhaps make out what it is."_
 
-_The shelf is quite difficult to navigate, and quite frequently the party must step carefully to avoid hidden sinkholes that could send them tumbling into the abyss. **Borrid's** experience is helpful but not perfect; after a very slow start, **Ursula** suggests they climb along the shelf until it narrows enough for them to cross more easily. **Poul** agreed and the PCs started forth, moving South._
+_**Ursula** suggests that her character could toss **Borrid* her lamp, which is still dry. **Poul** agrees, and soon the party has a decent view of the chasm beneath them. The Warden describes a series of waterfalls, basins and protruding shelves going all the way down to a rushing river on the bottom. There is even a narrowing of the ravine itself just below them where they could conceivably leap over to the other side!_
 
-
+_continue example_
 
 ### Without levels or XP, how can PCs advance?
 In **Cairn**, character _growth_ is preferable over _advancement_. This means that although a PC _will_ change, they may not necessarily get _better_ with time. Growth occurs through both mechanical means (such as [**Scars**](/cairn-srd.html#scars)), as well as through events happening solely in the fiction.
