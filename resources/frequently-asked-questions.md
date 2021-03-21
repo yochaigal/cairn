@@ -96,17 +96,17 @@ _After a half hour's walk along the broken, unforgiving mountainous crest they f
 
 _**Borrid** carefully lowers himself onto the shelf while **Esme** keeps an eye on the stone. Carefully planting his feet on the shelf, he tests the rope and calls up to his partner, who climbs down. After she arrives safely on the shelf, they sorrowfully leave the rope behind for the return journey. The shelf appears to zigzag down the inside of the ravine, nearly to the bottom. The sounds of rushing water below fills the ravine._
 
-_The party moves carefully down the shelf, digging their fingers into the cliff-face for safety. To ward off the growing shadows, **Esme** lights her torch. A half-hour into their descent they arrive at a small waterfall blocking their way forward._
+_The party moves carefully down the shelf, digging their fingers into the cliff-face for safety. To ward off the growing shadows, **Esme** lights her torch. A half-hour into their descent they arrive at a small waterfall blocking their way forward. The water flows down the slippery rock surface and into a small basin below before tumbling into the dark abyss._
 
-_The Warden explains that the rock wall is slick with moss, and that they will likely slip if they try to step through. **Poul** argues that they should press on, despite the dangers. **Ursula** suggests they hook one of her bolas to his arm in case something happens._
+_The Warden explains that the rock wall is slick with moss, and that they will likely slip if they try to step through. **Poul** argues that they should press on, despite the dangers. The Warden says that **Borrid** must make a **DEX save** to see if he can cross over the slick surface without slipping. **Poul** rolls a 14, a fail. He slips and tumbles down the waterfall into the water-filled basin below._
 
-_The Warden says that **Borrid** must make a **DEX save** to see if he can cross over the slick surface without slipping. **Poul** rolls a 14, a fail. He slips and tumbles down the waterfall into the dark waters below._
+_**Poul** groans and prepares for some bad news. The Warden declares that **Borrid** loses 1d4 STR damage, and that one item from his pack is also knocked loose. Rolling a Fate dice (with a lucky 5), the Warden says **Poul** can choose what his PC drops._
 
 
 ### Which **Ability** should non-combat damage impact?
 - If the injury affects their physical strength or health, subtract from **STR**. _This does not trigger a **critical damage save**_. **STR** is a reflection of a PC's health, and should reflect that in subtle but interesting ways: perhaps requiring a **save** where none would have been necessary before.
 - If the injury impacts their ability to move, react quickly, or their fine motor skills, subtract from **DEX**. This frequently is paired with an in-fiction impact as well; broken fingers would impact a PC's ability to pick locks, for example.
-- If the spirit, willpower, or determination of a PC has been impacted, subtract from **WIL**. Especially helpful to consider during magical or superficial injuries. A PC whose soul was burnt by arcane energy may need to make a WIL save to read spellbooks, for example.
+- If the spirit, willpower, or determination of a PC has been impacted, subtract from **WIL**. Especially helpful to consider during magical or superficial injuries. A PC whose soul was burnt by arcane energy may need to make a **WIL** save to read Spellbooks, for example.
 
 A few considerations:
 - An injury could take on multiple facets: [**Deprivation**](/cairn-srd.html#rules) may accompany STR loss from poison, for instance. Provide a potential solution to overcoming the illness. as well.
