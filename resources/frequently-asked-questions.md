@@ -117,7 +117,7 @@ A few considerations:
 
 _Clambering out of the basin, **Borrid** calls up to his comrade. "Well, that was a bad idea." **Esme** laughs, then asks, "How exactly are you going to get back up here without a rope?" **Poul** asks the Warden to tell him everything **Borrid** can see and hear from his new position. "There isn't much light here, but something glints in the darkness beneath you. If you had more light, you could perhaps make out what it is."_
 
-_**Ursula** suggests that her character could toss **Borrid* her lamp, which is still dry. **Poul** agrees, and soon the party has a decent view of the chasm beneath them. The Warden describes a series of waterfalls, basins and protruding shelves going all the way down to a rushing river on the bottom. There is even a narrowing of the ravine itself just below them where they could conceivably leap over to the other side!_
+_**Ursula** suggests that her character could toss **Borrid** her lamp, which is still dry. **Poul** agrees, and soon the party has a decent view of the chasm beneath them. The Warden describes a series of waterfalls, basins and protruding shelves going all the way down to a rushing river on the bottom. There is even a narrowing of the ravine itself just below them where they could conceivably leap over to the other side!_
 
 _continue example_
 
