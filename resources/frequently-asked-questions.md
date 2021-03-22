@@ -14,7 +14,7 @@ Please refer to the [SRD](/cairn-srd.html) when reading through the examples bel
 
 <details markdown="block">
   <summary>
-If you're reading the examples, keep in mind the following game setup:
+Expand here to read about the example game setup
  </summary>
 
 - **Ursula** is playing **Esme**, an ex-**Herbalist**.
@@ -149,8 +149,6 @@ Expand for example
  _**Poul** groans and prepares for some bad news. The Warden declares that **Borrid** loses 1d4 STR damage, and that one item from his pack is also knocked loose. Rolling a Fate dice (with a lucky 5), the Warden says **Poul** can choose what his PC drops._
 </details>
 
-
-
 ### Which **Ability** should non-combat damage impact?
 - If the injury affects their physical strength or health, subtract from **STR**. _This does not trigger a **critical damage save**_. **STR** is a reflection of a PC's health, and should reflect that in subtle but interesting ways: perhaps requiring a **save** where none would have been necessary before.
 - If the injury impacts their ability to move, react quickly, or their fine motor skills, subtract from **DEX**. This frequently is paired with an in-fiction impact as well; broken fingers would impact a PC's ability to pick locks, for example.
@@ -161,7 +159,7 @@ A few considerations:
 - Damage should happen as a consequence of failing a **save**. Do not make players **save** after-the-fact.
 - Fictional injuries are just as powerful as direct mechanical damage. **DEX** loss will have an impact on a character's reflexes and speed, but a broken leg may prevent a character from being able to move at all!
 
-## When does the fiction negate a mechanic?
+## How can the fiction negate a mechanic?
 
 <details markdown="block">
   <summary>
@@ -176,7 +174,7 @@ Expand for example
 
 </details>
 
-### Without levels or XP, how can PCs advance?
+### How do PCs advance without levels or XP?
 In **Cairn**, character _growth_ is preferable over _advancement_. This means that although a PC _will_ change, they may not necessarily get _better_ with time. Growth occurs through both mechanical means (such as [**Scars**](/cairn-srd.html#scars)), as well as through events happening solely in the fiction.
 
 The Warden should consider the following when awarding non-mechanical growth to PCs:
