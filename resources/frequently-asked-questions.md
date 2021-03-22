@@ -9,12 +9,12 @@ nav_exclude: true
 ---
 ## Introduction
 Below are a few answers to some of the most commonly asked questions from folks new to Cairn.  
-Please refer to the [SRD](/cairn-srd.html) while reading the following, particularly with regards to [**saves**](/cairn-srd.html#rules) and [combat](/cairn-srd.html#combat).
+Please refer to the [SRD](/cairn-srd/) while reading the following, particularly with regards to [**saves**](/cairn-srd/#rules) and [combat](/cairn-srd/#combat).
 
 **Keep the following in mind when reading the example text!**  
 - **Elin** is playing **Esme**, an ex-**Herbalist**.
 - **Boris** plays a a **Hunter** called **Borrid**.
-- The PCs are in search of a powerful [**Relic**](/cairn-srd.html#magic), rumored to have restorative powers.
+- The PCs are in search of a powerful [**Relic**](/cairn-srd/#magic), rumored to have restorative powers.
 - It is rumored to be located deep in the **Geunant Forest**, a wood known for having massive, ancient trees that allow little light through their humongous leaves.
 - During character generation it was decided that the PCs were both previously employed by the same wealthy benefactor, who owned lands adjacent to their destination.
 - Recently the party uncovered a hidden parchment that detailed the item's true location.
@@ -41,7 +41,7 @@ Expand for example
 
  **What if none of the PCs had any relevant experience or expertise?**
  - Had there been no PC with the **Herbalist** background, the Warden would likely have declared the PCs ignorant of the plant's properties, and (hopefully) the players would try to learn more by asking questions and experimentation.
- - If a PC had a _tangential_ background (like the **Hunter**) the Warden could let the [Fates decide](/cairn-srd.html#die-of-fate) and roll 1d6. The higher the roll, the more likely the PC would know something relevant or useful.
+ - If a PC had a _tangential_ background (like the **Hunter**) the Warden could let the [Fates decide](/cairn-srd/#die-of-fate) and roll 1d6. The higher the roll, the more likely the PC would know something relevant or useful.
 
 </details>
 
@@ -70,21 +70,21 @@ Expand for example
 
  _The Warden decrees that **Esme** should not have to make a **DEX** save to go first, as she was at the ready when their opponent first appeared. **Boris** however must make a **DEX save** to see if his character is able to ready himself for combat in time. He rolls 1d20, and the result is a 17, a fail. The Warden decrees that **Esme** will go first, then their opponent, and finally **Borrid**._
 
- _A horse-like creature explodes from the darkness of the wood opposite the party's campsite, its red glowing eyes shrouded by a sea of mist. It runs directly at the still-prone **Borrid**. "A [**Nightmare**](/monsters/nightmare.html)!" screams **Esme**, before using her action to help drag her comrade out of the way. Barely missing its target, the **Nightmare** swings wildly around, stamping its feet in preparation for another charge._
+ _A horse-like creature explodes from the darkness of the wood opposite the party's campsite, its red glowing eyes shrouded by a sea of mist. It runs directly at the still-prone **Borrid**. "A [**Nightmare**](/monsters/nightmare/)!" screams **Esme**, before using her action to help drag her comrade out of the way. Barely missing its target, the **Nightmare** swings wildly around, stamping its feet in preparation for another charge._
 </details>
 
 ## When Should a PC, NPC or monster **save**?
 There are generally to two conditions that _must be met_ under which a PC, NPC or monster should **save**:
 - The outcome of an action is uncertain
 - Something is at risk (a life, a threatening danger, etc.).
-- When making a critical damage save during [**combat**](/cairn-srd.html#combat)).
+- When making a critical damage save during [**combat**](/cairn-srd/#combat)).
 
 <details markdown="block">
   <summary>
 Expand for example
  </summary>
 
- _"There must be a [**Lich**](/monsters/lich.html) afoot," **Borrid** replies as he quickly gets to his feet. Both adventurers are now standing just to the East of their now-trampled campsite, close to a tree located only steps away from the cavernous **God-Slip**. It is now their turn to go, in any order they like, followed by the demon horse. **Borrid** has only his hip-knife for combat, as everything else is still at the camp._
+ _"There must be a [**Lich**](/monsters/lich/) afoot," **Borrid** replies as he quickly gets to his feet. Both adventurers are now standing just to the East of their now-trampled campsite, close to a tree located only steps away from the cavernous **God-Slip**. It is now their turn to go, in any order they like, followed by the demon horse. **Borrid** has only his hip-knife for combat, as everything else is still at the camp._
 
  _**Boris** comes up with an idea: the creature previously charged at **Borrid**, so it seems reasonable that it would do so again. What if **Esme** tossed one end of her rope to **Borrid**, then quickly looped her rope to the nearby tree? Then if it comes close enough try and trample him again, **Borrid** could simply leap off the cliff, holding the rope for support and using **Esme's** body as a ballast.  **Elin** agrees to the plan._
 
@@ -146,7 +146,7 @@ Expand for example
 - If the spirit, willpower, or determination of a PC has been impacted, subtract from **WIL**. Especially helpful to consider during magical or superficial injuries. A PC whose soul was burnt by arcane energy may need to make a **WIL** save to read Spellbooks, for example.
 
 A few considerations:
-- An injury could take on multiple facets: [**Deprivation**](/cairn-srd.html#rules) may accompany STR loss from poison, for instance. Provide a potential solution to overcoming the illness. as well.
+- An injury could take on multiple facets: [**Deprivation**](/cairn-srd/#rules) may accompany STR loss from poison, for instance. Provide a potential solution to overcoming the illness. as well.
 - Damage should happen as a consequence of failing a **save**. Do not make players **save** after-the-fact.
 - Fictional injuries are just as powerful as direct mechanical damage. **DEX** loss will have an impact on a character's reflexes and speed, but a broken leg may prevent a character from being able to move at all!
 
@@ -166,7 +166,7 @@ Expand for example
 </details>
 
 ## How do PCs advance without things like levels or XP?
-In **Cairn**, character _growth_ is preferable over _advancement_. This means that although a PC _will_ change, they may not necessarily get _better_ with time. Growth occurs through both mechanical means (such as [**Scars**](/cairn-srd.html#scars)), as well as through events happening solely in the fiction.
+In **Cairn**, character _growth_ is preferable over _advancement_. This means that although a PC _will_ change, they may not necessarily get _better_ with time. Growth occurs through both mechanical means (such as [**Scars**](/cairn-srd/#scars)), as well as through events happening solely in the fiction.
 
 The Warden should consider the following when awarding non-mechanical growth to PCs:
 - Growth should be tied to a _specific_ experience occurring in the fiction.
