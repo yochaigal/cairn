@@ -12,16 +12,14 @@ Below are a few answers to some of the most commonly asked questions from folks 
 Please refer to the [SRD](/cairn-srd.html) while reading the following, particularly with regards to [**saves**](/cairn-srd.html#rules) and [combat](/cairn-srd.html#combat).
 
 **Keep the following in mind when reading the example text!**  
-- **Ursula** is playing **Esme**, an ex-**Herbalist**.
-- **Poul** plays a a **Hunter** called **Borrid**.
+- **Elin** is playing **Esme**, an ex-**Herbalist**.
+- **Boris** plays a a **Hunter** called **Borrid**.
 - The PCs are in search of a powerful [**Relic**](/cairn-srd.html#magic), rumored to have restorative powers.
 - It is rumored to be located deep in the **Geunant Forest**, a wood known for having massive, ancient trees that allow little light through their humongous leaves.
 - During character generation it was decided that the PCs were both previously employed by the same wealthy benefactor, who owned lands adjacent to their destination.
-- They recently discovered a hidden parchment detailing their treasure's true location.
-
+- Recently the party uncovered a hidden parchment that detailed the item's true location.
 
 <a href='#/' id='expAll' class='exp'>Expand/Collapse All Examples</a>{: .btn }
-
 
 ## How does a PC's knowledge and experience effect the game?
 A character's relevant background, history, and experiences may provide a potential benefit (or disadvantage) to certain situations. Similarly, previous events in the game may influence the impact of their actions, including negating the need for a **save** in some circumstances!
@@ -65,7 +63,6 @@ Expand for example
 ## How does the Warden decide turn order?
 Some games rely on "Initiative" to determine who goes first when combat begins. In **Cairn**, the PCs must each make a **DEX save** in order to act before their opponents. After that round has been concluded, the two "sides" each take turns attacking, their individual members acting in whatever order they wish. In some cases a **DEX save** may _not_ be necessary, especially when the PC or NPC was on guard or ready for an attack.
 
-
 <details markdown="block">
   <summary>
 Expand for example
@@ -80,9 +77,7 @@ Expand for example
 There are generally to two conditions that _must be met_ under which a PC, NPC or monster should **save**:
 - The outcome of an action is uncertain
 - Something is at risk (a life, a threatening danger, etc.).
-
-Additionally, there are some circumstances (such as making a [**critical damage save**](/cairn-srd.html#combat) during combat) that always call for a **save**.
-
+- When making a critical damage save during [**combat**](/cairn-srd.html#combat)).
 
 <details markdown="block">
   <summary>
@@ -94,7 +89,6 @@ Expand for example
  _**Poul** comes up with an idea: the creature previously charged at **Borrid**, so it seems reasonable that it would do so again. What if **Esme** tossed one end of her rope to **Borrid**, then quickly looped her rope to the nearby tree? Then if it comes close enough try and trample him again, **Borrid** could simply leap off the cliff, holding the rope for support and using **Esme's** body as a ballast.  **Ursula** agrees to the plan._
 
  _**Esme** tosses one end of her rope to **Boroth**, then quickly wraps the rope around the nearby tree. At the same time, **Boroth** rushes towards the cliff-face, screaming at the creature to charge him. Both PCs are in position when the **Nightmare** makes another attempt at his life. He leaps off the cliff at the last second, holding onto the rope with all his might._
-
 
  **Why didn't Esme need to save in order to drag her friend away, or to wrap the rope around the tree?**  
  On a turn, a PC can attempt any action; a **save** is only required if the above two conditions are met. It seemed reasonable that **Esme** would be able to make a mad dash around the tree (which was only a few feet away) with **Borrid's** rope without much danger. Had she tried to run close to the **Nightmare** or done something equally uncertain or dangerous however she would have been required to **save**.
@@ -156,7 +150,7 @@ A few considerations:
 - Damage should happen as a consequence of failing a **save**. Do not make players **save** after-the-fact.
 - Fictional injuries are just as powerful as direct mechanical damage. **DEX** loss will have an impact on a character's reflexes and speed, but a broken leg may prevent a character from being able to move at all!
 
-## How can the fiction negate a mechanic?
+## Can the fiction negate mechanics?
 
 <details markdown="block">
   <summary>
@@ -171,7 +165,7 @@ Expand for example
 
 </details>
 
-### How do PCs advance without levels or XP?
+## How do PCs advance without things like levels or XP?
 In **Cairn**, character _growth_ is preferable over _advancement_. This means that although a PC _will_ change, they may not necessarily get _better_ with time. Growth occurs through both mechanical means (such as [**Scars**](/cairn-srd.html#scars)), as well as through events happening solely in the fiction.
 
 The Warden should consider the following when awarding non-mechanical growth to PCs:
