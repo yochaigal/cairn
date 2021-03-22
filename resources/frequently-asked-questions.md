@@ -10,15 +10,21 @@ nav_exclude: true
 ---
 ## Introduction
 Below are a few answers to some of the most commonly asked questions from folks new to Cairn.  
-For the following examples, consider the following setup in play:
+Please refer to the [SRD](/cairn-srd.html) when reading through the examples below, particularly with regards to [**saves**](/cairn-srd.html#rules) and [combat](/cairn-srd.html#combat).
 
-- **Ursula** plays **Esme**, an ex-**Herbalist**. **Poul** is playing a a **Hunter** called **Borrid**.
+<details markdown="block">
+  <summary>
+If you're reading the examples, keep in mind the following game setup:
+ </summary>
+
+- **Ursula** is playing **Esme**, an ex-**Herbalist**.
+- **Poul** plays a a **Hunter** called **Borrid**.
 - The PCs are in search of a powerful [**Relic**](/cairn-srd.html#magic), rumored to have restorative powers.
 - It is rumored to be located deep in the **Geunant Forest**, a wood known for having massive, ancient trees that allow little light through their humongous leaves.
 - During character generation it was decided that the PCs were both previously employed by the same wealthy benefactor, who owned lands adjacent to their destination.
 - They recently discovered a hidden parchment detailing their treasure's true location.
 
-Please refer to the [SRD](/cairn-srd.html) when reading through the examples below, particularly with regards to [**saves**](/cairn-srd.html#rules) and [combat](/cairn-srd.html#combat).
+</details>
 
 ## How does a PC's knowledge and experience effect the game?
 A character's relevant background, history, and experiences may provide a potential benefit (or disadvantage) to certain situations. Similarly, previous events in the game may influence the impact of their actions, including negating the need for a **save** in some circumstances!
@@ -33,15 +39,16 @@ Expand for example
  _Eventually, the party comes across an unusual flowering plant blocking their way. It sits in a solitary sunbeam, dripping a vile green ichor from open, violet pods. **Ursula** asks the Warden if his PC knows the plant. The Warden says yes, **Esme** knows the plant, and that it probably is overgrown on account of the sunbeam drenching it in natural light._
 
  _**Poul** and **Ursula** think on this, and then come up with a way to block the light coming from overhead. They carefully execute this plan (avoiding the thorns, of course) and the pods close up. They move on in safety._
+
+ **How did the Warden decide what the PC should be allowed to know?**
+ - First, they reasoned that **Esme's** background (**Herbalist**) would give her _some_ information about the plant (e.g. that it was poisonous, and how much the light would impact it).  
+ - Then, they took into account the fact that this forest was known for rarely allowing light to penetrate the large leaves hanging overhead. **Esme** would definitely know this was a major factor.
+
+ **What if none of the PCs had any relevant experience or expertise?**
+ - Had there been no PC with the **Herbalist** background, the Warden would likely have declared the PCs ignorant of the plant's properties, and (hopefully) the players would try to learn more by asking questions and experimentation.
+ - If a PC had a _tangential_ background (like the **Hunter**) the Warden could let the [Fates decide](/cairn-srd.html#die-of-fate) and roll 1d6. The higher the roll, the more likely the PC would know something relevant or useful.
+
 </details>
-
-### How did the Warden decide what the PC should be allowed to know?  
-- First, they reasoned that **Esme's** background (**Herbalist**) would give her _some_ information about the plant (e.g. that it was poisonous, and how much the light would impact it).  
-- Then, they took into account the fact that this forest was known for rarely allowing light to penetrate the large leaves hanging overhead. **Esme** would definitely know this was a major factor.
-
-### What if none of the PCs had any relevant experience or expertise?
-- Had there been no PC with the **Herbalist** background, the Warden would likely have declared the PCs ignorant of the plant's properties, and (hopefully) the players would try to learn more by asking questions and experimentation.
-- If a PC had a _tangential_ background (like the **Hunter**) the Warden could let the [Fates decide](/cairn-srd.html#die-of-fate) and roll 1d6. The higher the roll, the more likely the PC would know something relevant or useful.
 
 ## What determines whether combat should break out?
 **Cairn** assumes that the characters live in a dangerous world where even the most minor interaction can become quite deadly. The players should therefore be encouraged to find non-violent ways to solve their problems. There are of course times where this is quite impossible, and it is up to the Warden to determine if a violent situation should be resolved through combat.
@@ -90,11 +97,12 @@ Expand for example
  _**Poul** comes up with an idea: the creature previously charged at **Borrid**, so it seems reasonable that it would do so again. What if **Esme** tossed one end of her rope to **Borrid**, then quickly looped her rope to the nearby tree? Then if it comes close enough try and trample him again, **Borrid** could simply leap off the cliff, holding the rope for support and using **Esme's** body as a ballast.  **Ursula** agrees to the plan._
 
  _**Esme** tosses one end of her rope to **Boroth**, then quickly wraps the rope around the nearby tree. At the same time, **Boroth** rushes towards the cliff-face, screaming at the creature to charge him. Both PCs are in position when the **Nightmare** makes another attempt at his life. He leaps off the cliff at the last second, holding onto the rope with all his might._
+
+
+ **Why didn't Esme need to save in order to drag her friend away, or to wrap the rope around the tree?**  
+ On a turn, a PC can attempt any action; a **save** is only required if the above two conditions are met. It seemed reasonable that **Esme** would be able to make a mad dash around the tree (which was only a few feet away) with **Borrid's** rope without much danger. Had she tried to run close to the **Nightmare** or done something equally uncertain or dangerous however she would have been required to **save**.
+
 </details>
-
-
-### Why didn't **Esme** need to **save** in order to drag her friend away, or to wrap the rope around the tree?
-On a turn, a PC can attempt any action; a **save** is only required if the above two conditions are met. It seemed reasonable that **Esme** would be able to make a mad dash around the tree (which was only a few feet away) with **Borrid's** rope without much danger. Had she tried to run close to the **Nightmare** or done something equally uncertain or dangerous however she would have been required to **save**.
 
 ## In a contested action, who should **save**?
 If two opponents are both attempting to overcome the other, whomever is most at risk should **save**. The Warden should make a _consistent_ ruling in this regard, and make sure it is explained clearly to the players before a risk is taken if possible.
@@ -105,19 +113,19 @@ Expand for example
  </summary>
 
  _The **Nightmare** attempts to halt its attack just as its target falls. The Warden makes a **DEX save** to see if it succeeds. He rolls a 20, and the creature goes tumbling off the cliff and into the vast dark below._
+
+ **Why did the Nightmare have to make the save instead of Boroth?**  
+ In this example, the **Nightmare** was far more at risk than its human opponent, because:   
+ - As an enthralled beast, it was likely not capable of creative thinking or advanced problem solving.
+ - One of its primary features is its relative bulk and speed, and it is likely that these properties would make a sudden stop quite difficult.
+ - Accordingly, there were no situational or mechanical benefits that could provide any advantage to the **Nightmare** in this scenario.
+
+ Conversely, **Boroth** was the least at risk of the two:
+ - As a former hunter, he had already firmly established his ability to do things of this nature.
+ - **Esme** had tied the rope around a tree, using herself as a ballast. This provided a situational advantage.
+
+ If he had been injured or had less time to prepare, it would be conceivable to ask for a **STR save** to see if he could hold on to the rope, but only if there had been no opponent.
 </details>
-
-### Why did the **Nightmare** have to make the **save** instead of **Boroth**?
-In this example, the **Nightmare** was far more at risk than its human opponent, because:   
-- As an enthralled beast, it was likely not capable of creative thinking or advanced problem solving.
-- One of its primary features is its relative bulk and speed, and it is likely that these properties would make a sudden stop quite difficult.
-- Accordingly, there were no situational or mechanical benefits that could provide any advantage to the **Nightmare** in this scenario.
-
-Conversely, **Boroth** was the least at risk of the two:
-- As a former hunter, he had already firmly established his ability to do things of this nature.
-- **Esme** had tied the rope around a tree, using herself as a ballast. This provided a situational advantage.
-
-If he had been injured or had less time to prepare, it would be conceivable to ask for a **STR save** to see if he could hold on to the rope, but only if there had been no opponent.
 
 ## How is damage awarded outside of combat?
 Occasionally a dangerous action, trap, surprise attack, or cataclysmic event will cause grave injury (or even death). Typically the Warden declares the type of damage (e.g. **STR/DEX/WIL**) followed by the amount lost (either in terms of specific amounts, or a variable dice roll).
@@ -153,7 +161,7 @@ A few considerations:
 - Damage should happen as a consequence of failing a **save**. Do not make players **save** after-the-fact.
 - Fictional injuries are just as powerful as direct mechanical damage. **DEX** loss will have an impact on a character's reflexes and speed, but a broken leg may prevent a character from being able to move at all!
 
-## When does the fiction negate a mechanic?"
+## When does the fiction negate a mechanic?
 
 <details markdown="block">
   <summary>
@@ -163,10 +171,10 @@ Expand for example
  _Clambering out of the basin, **Borrid** calls up to his comrade. "Well, that was a bad idea." **Esme** laughs, then asks, "How exactly are you going to get back up here without a rope?" **Poul** asks the Warden to tell him everything **Borrid** can see and hear from his new position. "There isn't much light here, but something glints in the darkness beneath you. If you had more light, you could perhaps make out what it is."_
 
  _**Ursula** suggests that her character could toss **Borrid** her lamp, which is still dry. **Poul** agrees, and soon the party has a decent view of the chasm beneath them. The Warden describes a series of waterfalls, basins and protruding shelves going all the way down to a rushing river on the bottom. There is even a narrowing of the ravine itself just below them where they could conceivably leap over to the other side!_
+
+
+
 </details>
-
-
-_continue example_
 
 ### Without levels or XP, how can PCs advance?
 In **Cairn**, character _growth_ is preferable over _advancement_. This means that although a PC _will_ change, they may not necessarily get _better_ with time. Growth occurs through both mechanical means (such as [**Scars**](/cairn-srd.html#scars)), as well as through events happening solely in the fiction.
