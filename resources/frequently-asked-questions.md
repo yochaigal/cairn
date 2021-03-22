@@ -10,7 +10,7 @@ nav_exclude: true
 ---
 ## Introduction
 Below are a few answers to some of the most commonly asked questions from folks new to Cairn.  
-Please refer to the [SRD](/cairn-srd.html) when reading through the examples below, particularly with regards to [**saves**](/cairn-srd.html#rules) and [combat](/cairn-srd.html#combat).
+Please refer to the [SRD](/cairn-srd.html) while reading the following, particularly with regards to [**saves**](/cairn-srd.html#rules) and [combat](/cairn-srd.html#combat).
 
 <details markdown="block">
   <summary>
@@ -170,7 +170,7 @@ Expand for example
 
  _**Ursula** suggests that her character could toss **Borrid** her lamp, which is still dry. **Poul** agrees, and soon the party has a decent view of the chasm beneath them. The Warden describes a series of waterfalls, basins and protruding shelves going all the way down to a rushing river on the bottom. There is even a narrowing of the ravine itself just below them where they could conceivably leap over to the other side!_
 
-
+ _continue example_
 
 </details>
 
