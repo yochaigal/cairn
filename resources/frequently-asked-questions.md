@@ -5,7 +5,6 @@ parent: Resources
 nav_order: 1
 nav_exclude: true
 ---
-
 # Frequently Asked Questions
 ---
 ## Introduction
@@ -19,6 +18,10 @@ Please refer to the [SRD](/cairn-srd.html) while reading the following, particul
 - It is rumored to be located deep in the **Geunant Forest**, a wood known for having massive, ancient trees that allow little light through their humongous leaves.
 - During character generation it was decided that the PCs were both previously employed by the same wealthy benefactor, who owned lands adjacent to their destination.
 - They recently discovered a hidden parchment detailing their treasure's true location.
+
+
+<a href='#/' id='expAll' class='exp'>Expand/Collapse All Examples</a>{: .btn }
+
 
 ## How does a PC's knowledge and experience effect the game?
 A character's relevant background, history, and experiences may provide a potential benefit (or disadvantage) to certain situations. Similarly, previous events in the game may influence the impact of their actions, including negating the need for a **save** in some circumstances!
@@ -186,3 +189,22 @@ Expand for example
 
  _example here_
 </details>
+
+<script>
+var xa = document.getElementById('expAll');
+xa.addEventListener('click', function(e) {
+
+  e.target.classList.toggle('exp');
+  e.target.classList.toggle('col');
+
+  var details = document.querySelectorAll('details');
+
+  Array.from(details).forEach(function(obj, idx) {
+    if (e.target.classList.contains('exp')) {
+      obj.open = false;
+    } else {
+      obj.open = true;
+    }
+  });
+}, false);
+</script>
