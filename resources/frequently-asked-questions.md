@@ -12,19 +12,13 @@ nav_exclude: true
 Below are a few answers to some of the most commonly asked questions from folks new to Cairn.  
 Please refer to the [SRD](/cairn-srd.html) while reading the following, particularly with regards to [**saves**](/cairn-srd.html#rules) and [combat](/cairn-srd.html#combat).
 
-<details markdown="block">
-  <summary>
-Expand here to read about the example game setup
- </summary>
-
+**Keep the following in mind when reading the example text!**  
 - **Ursula** is playing **Esme**, an ex-**Herbalist**.
 - **Poul** plays a a **Hunter** called **Borrid**.
 - The PCs are in search of a powerful [**Relic**](/cairn-srd.html#magic), rumored to have restorative powers.
 - It is rumored to be located deep in the **Geunant Forest**, a wood known for having massive, ancient trees that allow little light through their humongous leaves.
 - During character generation it was decided that the PCs were both previously employed by the same wealthy benefactor, who owned lands adjacent to their destination.
 - They recently discovered a hidden parchment detailing their treasure's true location.
-
-</details>
 
 ## How does a PC's knowledge and experience effect the game?
 A character's relevant background, history, and experiences may provide a potential benefit (or disadvantage) to certain situations. Similarly, previous events in the game may influence the impact of their actions, including negating the need for a **save** in some circumstances!
