@@ -21,7 +21,7 @@ A deluxe print edition of Cairn can be purchased from the following places:
 - [Glaucus](https://gumroad.com/glaucus#ojuPK)​
 
 ## UK
-- SoulMuppet (coming soon)
+- [SoulMuppet](https://soulmuppet-store.co.uk/products/cairn)
 - Rook's Press (coming soon)
 
 ## Brazil
