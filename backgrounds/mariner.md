@@ -1,5 +1,5 @@
 ---
-title: "Background: Mariner"
+title: "Mariner"
 layout: default
 nav_exclude: true
 parent: Backgrounds

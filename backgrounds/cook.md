@@ -1,5 +1,5 @@
 ---
-title: "Background: Cook"
+title: "Cook"
 layout: default
 nav_exclude: true
 parent: Backgrounds

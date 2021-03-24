@@ -1,5 +1,5 @@
 ---
-title: "Background: Merchant"
+title: "Merchant"
 layout: default
 nav_exclude: true
 parent: Backgrounds

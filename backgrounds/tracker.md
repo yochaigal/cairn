@@ -1,5 +1,5 @@
 ---
-title: "Background: Tracker"
+title: "Tracker"
 layout: default
 nav_exclude: true
 parent: Backgrounds

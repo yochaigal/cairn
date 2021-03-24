@@ -1,5 +1,5 @@
 ---
-title: "Background: Butcher"
+title: "Butcher"
 layout: default
 nav_exclude: true
 parent: Backgrounds

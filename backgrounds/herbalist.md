@@ -1,5 +1,5 @@
 ---
-title: "Background: Herbalist"
+title: "Herbalist"
 layout: default
 nav_exclude: true
 parent: Backgrounds

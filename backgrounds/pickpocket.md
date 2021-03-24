@@ -1,5 +1,5 @@
 ---
-title: "Background: Pickpocket"
+title: "Pickpocket"
 date: "2021-03-20"
 layout: default
 nav_exclude: true

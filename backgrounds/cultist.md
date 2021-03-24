@@ -1,5 +1,5 @@
 ---
-title: "Background: Cultist"
+title: "Cultist"
 layout: default
 nav_exclude: true
 parent: Backgrounds

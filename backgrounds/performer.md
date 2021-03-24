@@ -1,5 +1,5 @@
 ---
-title: "Background: Performer"
+title: "Performer"
 layout: default
 nav_exclude: true
 parent: Backgrounds
