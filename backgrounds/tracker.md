@@ -1,11 +1,8 @@
 ---
-title: "Failed Career: Tracker"
-date: "2021-03-22"
-categories: 
-  - "careers"
-  - "rpg"
-tags: 
-  - "careers"
+title: "Background: Tracker"
+layout: default
+nav_exclude: true
+parent: Backgrounds
 ---
 
 ![File:Medieval forest.jpg - Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/6/61/Medieval_forest.jpg)

@@ -1,11 +1,8 @@
 ---
-title: "Failed Career: Performer"
-date: "2021-03-19"
-categories: 
-  - "careers"
-  - "rpg"
-tags: 
-  - "careers"
+title: "Background: Performer"
+layout: default
+nav_exclude: true
+parent: Backgrounds
 ---
 
 ![](https://www.musikalessons.com/blog/wp-content/uploads/2016/06/flutes-middle-ages-268x300.jpg?x55391)

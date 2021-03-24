@@ -1,11 +1,8 @@
 ---
-title: "Failed Career: Herbalist"
-date: "2020-07-26"
-categories: 
-  - "careers"
-  - "rpg"
-tags: 
-  - "careers"
+title: "Background: Herbalist"
+layout: default
+nav_exclude: true
+parent: Backgrounds
 ---
 
 ![](https://aboleth-overlords.com/wp-content/uploads/2020/07/herbalist-1024x714.jpg)

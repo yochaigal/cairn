@@ -1,11 +1,8 @@
 ---
-title: "Failed Career: Butcher"
-date: "2020-06-03"
-categories: 
-  - "careers"
-  - "rpg"
-tags: 
-  - "careers"
+title: "Background: Butcher"
+layout: default
+nav_exclude: true
+parent: Backgrounds
 ---
 
 ![](https://aboleth-overlords.com/wp-content/uploads/2020/06/butcher.jpg)

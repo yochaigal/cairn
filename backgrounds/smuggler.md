@@ -1,11 +1,8 @@
 ---
-title: "Failed Career: Smuggler"
-date: "2021-03-21"
-categories: 
-  - "careers"
-  - "rpg"
-tags: 
-  - "careers"
+title: "Background: Smuggler"
+layout: default
+nav_exclude: true
+parent: Backgrounds
 ---
 
 ![](http://2.bp.blogspot.com/-l-CPnqXcHDY/ToNfhCyoR7I/AAAAAAAAAvQ/YKzWl9nrVr0/s1600/smugglers.jpg)

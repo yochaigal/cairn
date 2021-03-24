@@ -1,11 +1,8 @@
 ---
-title: "Failed Career: Student"
-date: "2021-03-21"
-categories: 
-  - "careers"
-  - "rpg"
-tags: 
-  - "careers"
+title: "Background: Student"
+layout: default
+nav_exclude: true
+parent: Backgrounds
 ---
 
 ![](https://static.wixstatic.com/media/4748ee_145f65a699e9429795fa681be13df92f~mv2.jpg/v1/fill/w_767,h_619,al_c,q_90/4748ee_145f65a699e9429795fa681be13df92f~mv2.jpg)

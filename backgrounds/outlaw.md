@@ -1,11 +1,8 @@
 ---
-title: "Failed Career: Outlaw"
-date: "2021-03-15"
-categories: 
-  - "careers"
-  - "rpg"
-tags: 
-  - "careers"
+title: "Background: Outlaw"
+layout: default
+nav_exclude: true
+parent: Backgrounds
 ---
 
 ![](https://www.captivatingcriminalitynetwork.net/uploads/5/1/3/5/51358659/screenshot-20170608-115256-11336_orig.jpg)

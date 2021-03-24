@@ -1,11 +1,8 @@
 ---
-title: "Failed Career: Mercenary"
-date: "2021-02-03"
-categories: 
-  - "careers"
-  - "rpg"
-tags: 
-  - "careers"
+title: "Background: Mercenary"
+layout: default
+nav_exclude: true
+parent: Backgrounds
 ---
 
 ![](https://aboleth-overlords.com/wp-content/uploads/2021/02/mercenary.jpg)

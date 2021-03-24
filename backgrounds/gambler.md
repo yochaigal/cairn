@@ -1,11 +1,8 @@
 ---
-title: "Failed Career: Gambler"
-date: "2020-06-23"
-categories: 
-  - "careers"
-  - "rpg"
-tags: 
-  - "careers"
+title: "Background: Gambler"
+layout: default
+nav_exclude: true
+parent: Backgrounds
 ---
 
 ![](https://aboleth-overlords.com/wp-content/uploads/2020/06/gamber.png)

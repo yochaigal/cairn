@@ -1,11 +1,9 @@
 ---
-title: "Failed Career: Pickpocket"
+title: "Background: Pickpocket"
 date: "2021-03-20"
-categories: 
-  - "careers"
-  - "rpg"
-tags: 
-  - "careers"
+layout: default
+nav_exclude: true
+parent: Backgrounds
 ---
 
 ![](https://www.pngitem.com/pimgs/m/510-5108906_open-book-clip-art-medieval-medieval-lawyer-hd.png)

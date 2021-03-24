@@ -1,11 +1,8 @@
 ---
-title: "Failed Career: Magician"
-date: "2020-09-14"
-categories: 
-  - "careers"
-  - "rpg"
-tags: 
-  - "careers"
+title: "Background: Magician"
+layout: default
+nav_exclude: true
+parent: Backgrounds
 ---
 
 ![](https://aboleth-overlords.com/wp-content/uploads/2020/09/20-675x1024.png)

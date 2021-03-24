@@ -1,11 +1,8 @@
 ---
-title: "Failed Career: Cleric"
-date: "2020-06-09"
-categories: 
-  - "careers"
-  - "rpg"
-tags: 
-  - "careers"
+title: "Background: Cleric"
+layout: default
+nav_exclude: true
+parent: Backgrounds
 ---
 
 ![Clerics](https://aboleth-overlords.com/wp-content/uploads/2020/06/cleric.png)

@@ -1,11 +1,8 @@
 ---
-title: "Failed Career: Cultist"
-date: "2020-06-18"
-categories: 
-  - "careers"
-  - "rpg"
-tags: 
-  - "careers"
+title: "Background: Cultist"
+layout: default
+nav_exclude: true
+parent: Backgrounds
 ---
 
 ![](https://aboleth-overlords.com/wp-content/uploads/2020/06/cultist.jpg)

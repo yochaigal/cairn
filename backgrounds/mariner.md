@@ -1,11 +1,8 @@
 ---
-title: "Failed Career: Mariner"
-date: "2020-10-07"
-categories: 
-  - "careers"
-  - "rpg"
-tags: 
-  - "careers"
+title: "Background: Mariner"
+layout: default
+nav_exclude: true
+parent: Backgrounds
 ---
 
 ![](https://aboleth-overlords.com/wp-content/uploads/2020/10/mariner.jpg)
