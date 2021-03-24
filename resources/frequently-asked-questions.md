@@ -13,7 +13,7 @@ Please refer to the [SRD](/cairn-srd/) while reading the following, particularly
 
 **Keep the following in mind when reading the example text!**  
 - **Elin** is playing **Esme**, an ex-**Herbalist**.
-- **Boris** plays a a **Hunter** called **Borrid**.
+- **Barry** plays a a **Hunter** called **Borrid**.
 - The PCs are in search of a powerful [**Relic**](/cairn-srd/#magic), rumored to have restorative powers.
 - It is rumored to be located deep in the **Geunant Forest**, a wood known for having massive, ancient trees that allow little light through their humongous leaves.
 - During character generation it was decided that the PCs were both previously employed by the same wealthy benefactor, who owned lands adjacent to their destination.
@@ -33,7 +33,7 @@ Expand for example
 
  _Eventually, the party comes across an unusual flowering plant blocking their way. It sits in a solitary sunbeam, dripping a vile green ichor from open, violet pods. **Elin** asks the Warden if his PC knows the plant. The Warden says yes, **Esme** knows the plant, and that it probably is overgrown on account of the sunbeam drenching it in natural light._
 
- _**Boris** and **Elin** think on this, and then come up with a way to block the light coming from overhead. They carefully execute this plan (avoiding the thorns, of course) and the pods close up. They move on in safety._
+ _**Barry** and **Elin** think on this, and then come up with a way to block the light coming from overhead. They carefully execute this plan (avoiding the thorns, of course) and the pods close up. They move on in safety._
 
  **How did the Warden decide what the PC should be allowed to know?**
  - First, they reasoned that **Esme's** background (**Herbalist**) would give her _some_ information about the plant (e.g. that it was poisonous, and how much the light would impact it).  
@@ -68,7 +68,7 @@ Some games rely on "Initiative" to determine who goes first when combat begins. 
 Expand for example
  </summary>
 
- _The Warden decrees that **Esme** should not have to make a **DEX** save to go first, as she was at the ready when their opponent first appeared. **Boris** however must make a **DEX save** to see if his character is able to ready himself for combat in time. He rolls 1d20, and the result is a 17, a fail. The Warden decrees that **Esme** will go first, then their opponent, and finally **Borrid**._
+ _The Warden decrees that **Esme** should not have to make a **DEX** save to go first, as she was at the ready when their opponent first appeared. **Barry** however must make a **DEX save** to see if his character is able to ready himself for combat in time. He rolls 1d20, and the result is a 17, a fail. The Warden decrees that **Esme** will go first, then their opponent, and finally **Borrid**._
 
  _A horse-like creature explodes from the darkness of the wood opposite the party's campsite, its red glowing eyes shrouded by a sea of mist. It runs directly at the still-prone **Borrid**. "A [**Nightmare**](/monsters/nightmare/)!" screams **Esme**, before using her action to help drag her comrade out of the way. Barely missing its target, the **Nightmare** swings wildly around, stamping its feet in preparation for another charge._
 </details>
@@ -86,7 +86,7 @@ Expand for example
 
  _"There must be a [**Lich**](/monsters/lich/) afoot," **Borrid** replies as he quickly gets to his feet. Both adventurers are now standing just to the East of their now-trampled campsite, close to a tree located only steps away from the cavernous **God-Slip**. It is now their turn to go, in any order they like, followed by the demon horse. **Borrid** has only his hip-knife for combat, as everything else is still at the camp._
 
- _**Boris** comes up with an idea: the creature previously charged at **Borrid**, so it seems reasonable that it would do so again. What if **Esme** tossed one end of her rope to **Borrid**, then quickly looped her rope to the nearby tree? Then if it comes close enough try and trample him again, **Borrid** could simply leap off the cliff, holding the rope for support and using **Esme's** body as a ballast.  **Elin** agrees to the plan._
+ _**Barry** comes up with an idea: the creature previously charged at **Borrid**, so it seems reasonable that it would do so again. What if **Esme** tossed one end of her rope to **Borrid**, then quickly looped her rope to the nearby tree? Then if it comes close enough try and trample him again, **Borrid** could simply leap off the cliff, holding the rope for support and using **Esme's** body as a ballast.  **Elin** agrees to the plan._
 
  _**Esme** tosses one end of her rope to **Boroth**, then quickly wraps the rope around the nearby tree. At the same time, **Boroth** rushes towards the cliff-face, screaming at the creature to charge him. Both PCs are in position when the **Nightmare** makes another attempt at his life. He leaps off the cliff at the last second, holding onto the rope with all his might._
 
@@ -135,9 +135,9 @@ Expand for example
 
  _The party moves carefully down the shelf, digging their fingers into the cliff-face for safety. To ward off the growing shadows, **Esme** lights her torch. A half-hour into their descent they arrive at a small waterfall blocking their way forward. The water flows down the slippery rock surface and into a small basin below before tumbling into the dark abyss._
 
- _The Warden explains that the rock wall is slick with moss, and that they will likely slip if they try to step through. **Boris** argues that they should press on, despite the dangers. The Warden says that **Borrid** must make a **DEX save** to see if he can cross over the slick surface without slipping. **Boris** rolls a 14, a fail. He slips and tumbles down the waterfall into the water-filled basin below._
+ _The Warden explains that the rock wall is slick with moss, and that they will likely slip if they try to step through. **Barry** argues that they should press on, despite the dangers. The Warden says that **Borrid** must make a **DEX save** to see if he can cross over the slick surface without slipping. **Barry** rolls a 14, a fail. He slips and tumbles down the waterfall into the water-filled basin below._
 
- _**Boris** groans and prepares for some bad news. The Warden declares that **Borrid** loses 1d4 STR damage, and that one item from his pack is also knocked loose. Rolling a Fate dice (with a lucky 5), the Warden says **Boris** can choose what his PC drops._
+ _**Barry** groans and prepares for some bad news. The Warden declares that **Borrid** loses 1d4 STR damage, and that one item from his pack is also knocked loose. Rolling a Fate dice (with a lucky 5), the Warden says **Barry** can choose what his PC drops._
 </details>
 
 ### Which **Ability** should non-combat damage impact?
@@ -157,9 +157,9 @@ A few considerations:
 Expand for example
  </summary>
 
- _Clambering out of the basin, **Borrid** calls up to his comrade. "Well, that was a bad idea." **Esme** laughs, then asks, "How exactly are you going to get back up here without a rope?" **Boris** asks the Warden to tell him everything **Borrid** can see and hear from his new position. "There isn't much light here, but something glints in the darkness beneath you. If you had more light, you could perhaps make out what it is."_
+ _Clambering out of the basin, **Borrid** calls up to his comrade. "Well, that was a bad idea." **Esme** laughs, then asks, "How exactly are you going to get back up here without a rope?" **Barry** asks the Warden to tell him everything **Borrid** can see and hear from his new position. "There isn't much light here, but something glints in the darkness beneath you. If you had more light, you could perhaps make out what it is."_
 
- _**Elin** suggests that her character could toss **Borrid** her lamp, which is still dry. **Boris** agrees, and soon the party has a decent view of the chasm beneath them. The Warden describes a series of waterfalls, basins and protruding shelves going all the way down to a rushing river on the bottom. There is even a narrowing of the ravine itself just below them where they could conceivably leap over to the other side!_
+ _**Elin** suggests that her character could toss **Borrid** her lamp, which is still dry. **Barry** agrees, and soon the party has a decent view of the chasm beneath them. The Warden describes a series of waterfalls, basins and protruding shelves going all the way down to a rushing river on the bottom. There is even a narrowing of the ravine itself just below them where they could conceivably leap over to the other side!_
 
  _continue example_
 

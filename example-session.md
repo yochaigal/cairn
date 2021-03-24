@@ -7,7 +7,7 @@ nav_exclude: true
 
 
 - **Elin** is playing **Esme**, an ex-**Herbalist**.
-- **Boris** plays a a **Hunter** called **Borrid**.
+- **Barry** plays a a **Hunter** called **Borrid**.
 - The PCs are in search of a powerful [**Relic**](/cairn-srd/#magic), rumored to have restorative powers.
 - It is rumored to be located deep in the **Geunant Forest**, a wood known for having massive, ancient trees that allow little light through their humongous leaves.
 - During character generation it was decided that the PCs were both previously employed by the same wealthy benefactor, who owned lands adjacent to their destination.
@@ -17,7 +17,7 @@ nav_exclude: true
 
  _Eventually, the party comes across an unusual flowering plant blocking their way. It sits in a solitary sunbeam, dripping a vile green ichor from open, violet pods. **Elin** asks the Warden if his PC knows the plant. The Warden says yes, **Esme** knows the plant, and that it probably is overgrown on account of the sunbeam drenching it in natural light._
 
- _**Boris** and **Elin** think on this, and then come up with a way to block the light coming from overhead. They carefully execute this plan (avoiding the thorns, of course) and the pods close up. They move on in safety._
+ _**Barry** and **Elin** think on this, and then come up with a way to block the light coming from overhead. They carefully execute this plan (avoiding the thorns, of course) and the pods close up. They move on in safety._
 
   _In the late afternoon the party makes a last push to break through the forest boundary. Spilling out of the treeline, they find themselves nearly stepping into a long ravine splitting the forest in two. Finally, they've arrived at the **God-Slip**, a seemingly endless ravine with no bridge crossing it. Judging by the sheer rock walls on either side, climbing down would be extremely dangerous. Unfortunately their quarry is most likely located just across, where the cliffs meet the edge of the world. They decide to make camp before moving out._
 
@@ -25,11 +25,11 @@ nav_exclude: true
 
  _The Warden then asks, "What do you do?" The players know that whatever creatures stalking the forest at night are very likely dangerous. They agree that direct combat is likely their best option, as the beasts of the night rarely have time to chat._
 
-  _The Warden decrees that **Esme** should not have to make a **DEX** save to go first, as she was at the ready when their opponent first appeared. **Boris** however must make a **DEX save** to see if his character is able to ready himself for combat in time. He rolls 1d20, and the result is a 17, a fail. The Warden decrees that **Esme** will go first, then their opponent, and finally **Borrid**._
+  _The Warden decrees that **Esme** should not have to make a **DEX** save to go first, as she was at the ready when their opponent first appeared. **Barry** however must make a **DEX save** to see if his character is able to ready himself for combat in time. He rolls 1d20, and the result is a 17, a fail. The Warden decrees that **Esme** will go first, then their opponent, and finally **Borrid**._
 
  _A horse-like creature explodes from the darkness of the wood opposite the party's campsite, its red glowing eyes shrouded by a sea of mist. It runs directly at the still-prone **Borrid**. "A [**Nightmare**](/monsters/nightmare)!" screams **Esme**, before using her action to help drag her comrade out of the way. Barely missing its target, the **Nightmare** swings wildly around, stamping its feet in preparation for another charge._
 
-  _The Warden decrees that **Esme** should not have to make a **DEX** save to go first, as she was at the ready when their opponent first appeared. **Boris** however must make a **DEX save** to see if his character is able to ready himself for combat in time. He rolls 1d20, and the result is a 17, a fail. The Warden decrees that **Esme** will go first, then their opponent, and finally **Borrid**._
+  _The Warden decrees that **Esme** should not have to make a **DEX** save to go first, as she was at the ready when their opponent first appeared. **Barry** however must make a **DEX save** to see if his character is able to ready himself for combat in time. He rolls 1d20, and the result is a 17, a fail. The Warden decrees that **Esme** will go first, then their opponent, and finally **Borrid**._
 
  _A horse-like creature explodes from the darkness of the wood opposite the party's campsite, its red glowing eyes shrouded by a sea of mist. It runs directly at the still-prone **Borrid**. "A [**Nightmare**](/monsters/nightmare)!" screams **Esme**, before using her action to help drag her comrade out of the way. Barely missing its target, the **Nightmare** swings wildly around, stamping its feet in preparation for another charge._
 
@@ -43,11 +43,11 @@ nav_exclude: true
 
  _The party moves carefully down the shelf, digging their fingers into the cliff-face for safety. To ward off the growing shadows, **Esme** lights her torch. A half-hour into their descent they arrive at a small waterfall blocking their way forward. The water flows down the slippery rock surface and into a small basin below before tumbling into the dark abyss._
 
- _The Warden explains that the rock wall is slick with moss, and that they will likely slip if they try to step through. **Boris** argues that they should press on, despite the dangers. The Warden says that **Borrid** must make a **DEX save** to see if he can cross over the slick surface without slipping. **Boris** rolls a 14, a fail. He slips and tumbles down the waterfall into the water-filled basin below._
+ _The Warden explains that the rock wall is slick with moss, and that they will likely slip if they try to step through. **Barry** argues that they should press on, despite the dangers. The Warden says that **Borrid** must make a **DEX save** to see if he can cross over the slick surface without slipping. **Barry** rolls a 14, a fail. He slips and tumbles down the waterfall into the water-filled basin below._
 
- _**Boris** groans and prepares for some bad news. The Warden declares that **Borrid** loses 1d4 STR damage, and that one item from his pack is also knocked loose. Rolling a [Fate die (resulting in a 5), the Warden says **Boris** can choose what his PC drops._
+ _**Barry** groans and prepares for some bad news. The Warden declares that **Borrid** loses 1d4 STR damage, and that one item from his pack is also knocked loose. Rolling a [Fate die (resulting in a 5), the Warden says **Barry** can choose what his PC drops._
 
 
- _Clambering out of the basin, **Borrid** calls up to his comrade. "Well, that was a bad idea." **Esme** laughs, then asks, "How exactly are you going to get back up here without a rope?" **Boris** asks the Warden to tell him everything **Borrid** can see and hear from his new position. "There isn't much light here, but something glints in the darkness beneath you. If you had more light, you could perhaps make out what it is."_
+ _Clambering out of the basin, **Borrid** calls up to his comrade. "Well, that was a bad idea." **Esme** laughs, then asks, "How exactly are you going to get back up here without a rope?" **Barry** asks the Warden to tell him everything **Borrid** can see and hear from his new position. "There isn't much light here, but something glints in the darkness beneath you. If you had more light, you could perhaps make out what it is."_
 
- _**Elin** suggests that her character could toss **Borrid** her lamp, which is still dry. **Boris** agrees, and soon the party has a decent view of the chasm beneath them. The Warden describes a series of waterfalls, basins and protruding shelves going all the way down to a rushing river on the bottom. There is even a narrowing of the ravine itself just below them where they could conceivably leap over to the other side!_
+ _**Elin** suggests that her character could toss **Borrid** her lamp, which is still dry. **Barry** agrees, and soon the party has a decent view of the chasm beneath them. The Warden describes a series of waterfalls, basins and protruding shelves going all the way down to a rushing river on the bottom. There is even a narrowing of the ravine itself just below them where they could conceivably leap over to the other side!_
