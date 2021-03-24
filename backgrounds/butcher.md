@@ -1,0 +1,37 @@
+---
+title: "Failed Career: Butcher"
+date: "2020-06-03"
+categories: 
+  - "careers"
+  - "rpg"
+tags: 
+  - "careers"
+---
+
+![](https://aboleth-overlords.com/wp-content/uploads/2020/06/butcher.jpg)
+
+## You Get
+
+A meat cleaver, a bloody apron, one ham hock.
+
+## Why Did You Leave Butchery Behind?
+
+1. **Bankruptcy:** Your practice failed turn any sort of a profit.
+2. **Guild Standards:** Things that the guild believed to be "unsanitary" and "unethical" were a major part of your practice. You were stripped of your title.
+3. **Hemophobia:** Despite being a fan of the art of the cut, the sight of blood leaves you faint.
+4. **Cursed:** The nearby Necromancer made it pretty impossible for you to safely do your job, on account of all the animals rising to eat your brains mid-butchering.
+5. **Plant-Based Druidism:** Your community was ran by a circle of Druids that made it very clear that if it wasn't made out of legumes, it wasn't welcome.
+6. **One Too Many Close Calls:** Having gained a wide array of scars, lost a few fingers, and spilled quite a bit of your blood, you thought plundering tombs sounded safer.
+
+## What Strange Thing Did You Find On The Job?
+
+1. **Cleaver of Returning:** Your knife is either enchanted or built in such a fashion that it boomerangs back to you when thrown. Unfortunately catching it is an extremely harrowing process.
+2. **Bottle of Sumptuous Blood:** One of your primest cuts bled a liquid that makes any beast foam at the mouth. Pouring this out in the vicinity of animal will render it ravenous.
+3. **A Highly Obedient Hog:** The one you couldn't kill, you have a very reliable pig that follows your every step.
+4. **A Lucky Femur:** One of the bones of a cow you slaughtered was riddled with runes. Surely it provides you some protection.
+5. **Regenerative Grounds:** A fistfull of ground beef grows a cubic inch of new beef every day. Does not preserve yesterday's meat any longer, though.
+6. **Nesting Best:** The last cow you butchered ended up being hollow, containing a sheep within. It walks and talks like any other sheep, but you suspect that there's an even smaller animal within.
+
+Inspired by [Electric Bastionland](https://chrismcdee.itch.io/electric-bastionland), [Knave](https://www.drivethrurpg.com/product/250888/Knave), and [Ten Foot Polemic](http://tenfootpolemic.blogspot.com/2014/01/200-failed-medieval-careers.html).
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
