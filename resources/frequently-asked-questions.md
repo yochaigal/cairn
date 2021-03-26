@@ -12,7 +12,7 @@ Below are a few answers to some of the most commonly asked questions from folks 
 Please refer to the [SRD](/cairn-srd/) while reading the following, particularly with regards to [**saves**](/cairn-srd/#rules) and [combat](/cairn-srd/#combat).
 
 **Keep the following in mind when reading the example text!**  
-- **Elin** is playing **Esme**, an ex-**Herbalist**.
+- **Esther** is playing **Esme**, an ex-**Herbalist**.
 - **Barry** plays a a **Hunter** called **Borrid**.
 - The PCs are in search of a powerful [**Relic**](/cairn-srd/#magic), rumored to have restorative powers.
 - It is rumored to be located deep in the **Geunant Forest**, a wood known for having massive, ancient trees that allow little light through their humongous leaves.
@@ -31,9 +31,9 @@ Expand for example
 
  _**Esme** & **Borrid** have spent the better part of the day cutting their way through the **Geunant Forest**, chopping past hanging vines and waist-high brambles. **Borrid** stops every few minutes to survey their surroundings, relying on his background as a **Hunter** to ensure the party does not get lost._
 
- _Eventually, the party comes across an unusual flowering plant blocking their way. It sits in a solitary sunbeam, dripping a vile green ichor from open, violet pods. **Elin** asks the Warden if his PC knows the plant. The Warden says yes, **Esme** knows the plant, and that it probably is overgrown on account of the sunbeam drenching it in natural light._
+ _Eventually, the party comes across an unusual flowering plant blocking their way. It sits in a solitary sunbeam, dripping a vile green ichor from open, violet pods. **Esther** asks the Warden if his PC knows the plant. The Warden says yes, **Esme** knows the plant, and that it probably is overgrown on account of the sunbeam drenching it in natural light._
 
- _**Barry** and **Elin** think on this, and then come up with a way to block the light coming from overhead. They carefully execute this plan (avoiding the thorns, of course) and the pods close up. They move on in safety._
+ _**Barry** and **Esther** think on this, and then come up with a way to block the light coming from overhead. They carefully execute this plan (avoiding the thorns, of course) and the pods close up. They move on in safety._
 
  **How did the Warden decide what the PC should be allowed to know?**
  - First, they reasoned that **Esme's** background (**Herbalist**) would give her _some_ information about the plant (e.g. that it was poisonous, and how much the light would impact it).  
@@ -53,7 +53,7 @@ Expand for example
 Expand for example
  </summary>
 
- _In the late afternoon the party makes a last push to break through the forest boundary. Spilling out of the treeline, they find themselves nearly stepping into a long ravine splitting the forest in two. Finally, they've arrived at the **God-Slip**, a seemingly endless ravine with no bridge crossing it. Judging by the sheer rock walls on either side, climbing down would be extremely dangerous. Unfortunately their quarry is most likely located just across, where the cliffs meet the edge of the world. They decide to make camp before moving out._
+ _In the late afternoon the party makes a last push to break through the forest boundary. Spilling out of the treEsthere, they find themselves nearly stepping into a long ravine splitting the forest in two. Finally, they've arrived at the **God-Slip**, a seemingly endless ravine with no bridge crossing it. Judging by the sheer rock walls on either side, climbing down would be extremely dangerous. Unfortunately their quarry is most likely located just across, where the cliffs meet the edge of the world. They decide to make camp before moving out._
 
  _They set up camp with their backs to the ravine, judging it to be one fewer thing they'd have to worry about at night. Later that evening, the adventurers decide to take turns at keeping watch. **Esme** takes the first shift. Halfway through, she hears a snapping of twigs coming from just to the West of their camp, back towards the **Geunant Forest**. Slowly, she leans over towards **Borrid** and kicks him awake. Nodding her head towards the direction of the noise, she makes the symbol for be quiet. Her companion sits up, just as a pair of horrid red eyes become visible behind the underbrush._
 
@@ -86,7 +86,7 @@ Expand for example
 
  _"There must be a [**Lich**](/monsters/lich/) afoot," **Borrid** replies as he quickly gets to his feet. Both adventurers are now standing just to the East of their now-trampled campsite, close to a tree located only steps away from the cavernous **God-Slip**. It is now their turn to go, in any order they like, followed by the demon horse. **Borrid** has only his hip-knife for combat, as everything else is still at the camp._
 
- _**Barry** comes up with an idea: the creature previously charged at **Borrid**, so it seems reasonable that it would do so again. What if **Esme** tossed one end of her rope to **Borrid**, then quickly looped her rope to the nearby tree? Then if it comes close enough try and trample him again, **Borrid** could simply leap off the cliff, holding the rope for support and using **Esme's** body as a ballast.  **Elin** agrees to the plan._
+ _**Barry** comes up with an idea: the creature previously charged at **Borrid**, so it seems reasonable that it would do so again. What if **Esme** tossed one end of her rope to **Borrid**, then quickly looped her rope to the nearby tree? Then if it comes close enough try and trample him again, **Borrid** could simply leap off the cliff, holding the rope for support and using **Esme's** body as a ballast.  **Esther** agrees to the plan._
 
  _**Esme** tosses one end of her rope to **Boroth**, then quickly wraps the rope around the nearby tree. At the same time, **Boroth** rushes towards the cliff-face, screaming at the creature to charge him. Both PCs are in position when the **Nightmare** makes another attempt at his life. He leaps off the cliff at the last second, holding onto the rope with all his might._
 
@@ -159,9 +159,9 @@ Expand for example
 
  _Clambering out of the basin, **Borrid** calls up to his comrade. "Well, that was a bad idea." **Esme** laughs, then asks, "How exactly are you going to get back up here without a rope?" **Barry** asks the Warden to tell him everything **Borrid** can see and hear from his new position. "There isn't much light here, but something glints in the darkness beneath you. If you had more light, you could perhaps make out what it is."_
 
- _**Elin** suggests that her character could toss **Borrid** her lamp, which is still dry. **Barry** agrees, and soon the party has a decent view of the chasm beneath them. The Warden describes a series of waterfalls, basins and protruding shelves going all the way down to a rushing river on the bottom. There is even a narrowing of the ravine itself just below them where they could conceivably leap over to the other side!_
+ _**Esther** suggests that her character could toss **Borrid** her lamp, which is still dry. **Barry** agrees, and soon the party has a decent view of the chasm beneath them. The Warden describes a series of waterfalls, basins and protruding shelves going all the way down to a rushing river on the bottom. There is even a narrowing of the ravine itself just below them where they could conceivably leap over to the other side!_
 
- _continue example_
+ _
 
 </details>
 
