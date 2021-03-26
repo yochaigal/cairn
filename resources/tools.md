@@ -14,7 +14,7 @@ parent: Resources
 
 [Online Character Sheet + Tokens](https://docs.google.com/presentation/d/1rYEUNE9_zsEUBut3a3UyRhRr8fy33s5fjX4Y7L6lvog) (Make a copy)
 
-idolofmanyhand's generators [(Chartopia)](http://d12dev.com/chart/32009) or [Perchance](https://perchance.org/cairn-characters)
+idolofmanyhand's generators [Perchance](https://perchance.org/cairn-characters) or [Chartopia](http://d12dev.com/chart/32009)
 
 [Classic Fantasy Starting Packages](https://dreamingdragonslayer.wordpress.com/2021/01/06/classic-fantasy-starting-packages-for-into-the-odd/)
 
