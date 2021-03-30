@@ -492,7 +492,7 @@ Se você quiser algo mais próximo das classes tradicionais, consulte a lista de
 
 #### Anão
 
-||
+|						|
 |-----------------------------------------|
 |Raiz Espinhosa (d6)                        |
 |Malha de Pinhas (1 Armadura)        |
@@ -503,18 +503,29 @@ Se você quiser algo mais próximo das classes tradicionais, consulte a lista de
 
 #### Cavaleiro
 
-|                      |
-| -------------------------- |
-| Espada Longa (d8, volumoso)      |
+|                                      |
+| ------------------------------------ |
+| Espada Longa (d8, volumoso)          |
 | Cota de Malha (2 Armadura, volumoso) |
-| Elmo (+1  Armadura)         |
-|Capa Heráldica              |
-| Algemas                   |
-| Corda Boa                  |
+| Elmo (+1  Armadura)                  |
+| Capa Heráldica                       |
+| Algemas                              |
+| Corda Boa                            |
+
+#### Clérigo
+
+|                                      |
+| ------------------------------------ |
+| Martelo de Guerra (d10, volumoso)    |
+| Cota de Malha (2 Armadura, volumoso) |
+| Manoplas (+1 Armadura)               |
+| Lâmina Curva (d6)|
+| Símbolo Sagrado (Proteger uma vez por dia)|
+| Manto da Ordem|
 
 #### Elfo
 
-||
+|                                      |
 |-----------------------------------------|
 |Espada Elegante (d8)      |
 |Arco Recurvo (d8) |
@@ -525,7 +536,7 @@ Se você quiser algo mais próximo das classes tradicionais, consulte a lista de
 
 #### Frade
 
-||
+|                                      |
 |-----------------------------------------|
 |Cetro (d6)                    |
 |Robes Enganadores (+1 Armadura)      |
@@ -536,7 +547,7 @@ Se você quiser algo mais próximo das classes tradicionais, consulte a lista de
 
 #### Guerreiro
 
-||
+|                                      |
 |-----------------------------------------|
 |Glaive (d10, volumoso)      |
 | Scimitarra (d8)        |
@@ -546,7 +557,7 @@ Se você quiser algo mais próximo das classes tradicionais, consulte a lista de
 
 #### Ladrão
 
-||
+|                                      |
 |-----------------------------------------|
 |Duas Adagas (d6+d6)                      |
 |Manto com Capuz (1 Armadura)                  |
@@ -557,7 +568,7 @@ Se você quiser algo mais próximo das classes tradicionais, consulte a lista de
 
 #### Mago
 
-||
+|                                      |
 |-----------------------------------------|
 |Cajado Usado (d8, volumoso) |
 |Adaga (d6)  |
@@ -568,7 +579,7 @@ Se você quiser algo mais próximo das classes tradicionais, consulte a lista de
 
 #### Patrulheiro
 
-||
+|                                      |
 |-----------------------------------------|
 |Arco Longo (d8, volumoso)             |
 |Machadinha (d6)                    |
@@ -579,7 +590,7 @@ Se você quiser algo mais próximo das classes tradicionais, consulte a lista de
 
 #### Rabdomante
 
-||
+|                                      |
 |-----------------------------------------|
 |Foice (d6)                              |
 |Gibão de Retalhos (+1  Armadura)            |
