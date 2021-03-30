@@ -61,11 +61,25 @@ Expand for example
 Expand for example
  </summary>
 
- _In the late afternoon the party makes a last push to break through the forest boundary. Spilling out of the trees, they find themselves nearly stepping into a long ravine splitting the forest in two. Finally, they've arrived at the **God-Slip**, a seemingly endless ravine with no bridge crossing it. Judging by the sheer rock walls on either side, climbing down would be extremely dangerous. Unfortunately their quarry is most likely located just across, where the cliffs meet the edge of the world. They decide to make camp before moving out._
+ **Warden**: _"By late afternoon you finally break through the forest boundary. Spilling out of the treeline, you nearly step into a deep chasm splitting the forest in two. Finally, you have arrived at the **God-Slip**, a seemingly endless ravine with no bridge crossing it. Judging by the sheer rock walls on either side, climbing down would be extremely dangerous. Unfortunately, your quarry is likely located just across, where the cliffs meet the edge of the world."_
 
- _They set up camp with their backs to the ravine, judging it to be one fewer thing they'd have to worry about at night. Later that evening, the adventurers decide to take turns at keeping watch. **Esther's PC** takes the first shift. Halfway through, she hears a snapping of twigs coming from just to the West of their camp, back towards the **Geunant Forest**. Slowly, she leans over towards **Barry's PC** and kicks him awake. Nodding her head towards the direction of the noise, she makes the symbol for be quiet. Her companion sits up, just as a pair of horrid red eyes become visible behind the underbrush._
+ **Esther**: _"I think we should make camp before moving out. If we have to climb into or around this chasm, I'd rather have the light on our side!"_
 
- _The Warden then asks, "What do you do?" The players know that whatever creatures stalking the forest at night are very likely dangerous. They agree that direct combat is likely their best option, as the beasts of the night rarely have time to chat._
+ **Barry**: _"Definitely. I wonder what the safest way to do it would be? Backs against the ravine?"_
+
+ **Warden**: _"Yes, unless of course something comes out of it!" Who's on first watch, by the way?"_
+
+ **Esther**: _"I'll take first shift._
+
+  **Warden**: _"You make camp and eat one of your rations." Halfway through the first shift, you hear a snapping of twigs coming from just to the West of the campsite, back towards the **Geunant Forest**. What do you do?"_
+
+  **Esther**: _"Slowly, I lean over and kick my comrade awake so I'm not alone in this. I quietly nod my head towards the direction of the noise, making the symbol for silence."_
+
+  **Warden**: _"Alright, he sits up, just as a pair of horrid red eyes become visible behind the underbrush._"
+
+  **Barry**: _"What do we know about the creatures here?"_
+
+  **Warden**: _"You know that whatever creatures may be stalking this forest at night are very likely dangerous. You will likely not have time to chat with whatever is about to come out of there."_
 </details>
 
 ## How does the Warden decide turn order?
