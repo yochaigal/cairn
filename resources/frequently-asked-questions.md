@@ -15,9 +15,9 @@ Please refer to the [SRD](/cairn-srd/) while reading the following, particularly
 - **Esther** is playing an ex-**Herbalist**.
 - **Barry** plays a former **Hunter**.
 - The PCs are in search of a powerful [**Relic**](/cairn-srd/#magic), rumored to have restorative powers.
-- It is rumored to be located deep in the **Geunant Forest**, a wood known for having massive, ancient trees that allow little light through their humongous leaves.
+- It is rumored to be located on the far East side of the **Geunant Forest**, a wood known for having massive, ancient trees that allow little light through their humongous leaves.
 - During character generation it was decided that the PCs were both previously employed by the same wealthy benefactor, who owned lands adjacent to their destination.
-- Recently the party uncovered a hidden parchment that detailed the item's true location.
+- Recently, the party uncovered a hidden parchment that detailed the item's true location.
 
 <a href='#/' id='expAll' class='exp'>Expand/Collapse All Examples</a>{: .btn }
 
@@ -29,27 +29,23 @@ A character's relevant background, history, and experiences may provide a potent
 Expand for example
  </summary>
 
- _**Warden**: You've spent the better part of the morning cutting your way through the **Geunant Forest**, chopping past hanging vines and waist-high brambles. It is very easy to get lost here among the surrounding underbrush. To make matters worse the Sun is completely obscured by the thick overhead branches."_
+ **Warden**: _"You've spent the better part of the morning cutting your way through the **Geunant Forest**, chopping past hanging vines and waist-high brambles. It is very easy to get lost here among the surrounding underbrush. To make matters worse the Sun is completely obscured by the thick overhead branches."_
 
- _**Barry**: "Does my **Hunter** background help at all?"_
+ **Barry**: _"Does my **Hunter** background help at all?"_
 
- _**Warden:** "Yes, though you have to stop every few minutes to survey your surroundings; progress is slow-going as a result. You continue heading East towards your destination."_
+ **Warden:** _"Yes, though you have to stop every few minutes to survey your surroundings; progress is slow-going as a result. You continue heading East towards your destination."_
 
- _**Warden:** "After a few hours you exit into a small clearing in the wood, perfect for a short break. On the other end of the clearing is a small, visible path heading East. The entrance to the path is blocked by a large flowering plant, sitting a solitary sunbeam; it drips a green ichor from open, blue pods."_"
+ **Warden:** _"After a few hours you exit into a small clearing in the wood, perfect for a short break. On the other end of the clearing is a small, visible path heading East. The entrance to the path is blocked by a large flowering plant, sitting a solitary sunbeam; it drips a green ichor from open, blue pods."_"
 
- _**Esther**: "As an former **Herbalist**, do I recognize this plant?"_
+ **Esther**: _"As a former **Herbalist**, do I recognize this plant?"_
 
- _**Warden**: "Yes. You also knows that it is probably overgrown on account of the sunbeam drenching it in natural light."_
+ **Warden**: _"Yes. You also knows that it is probably overgrown on account of the sunbeam drenching it in natural light."_
 
-_**Esther**: "What do the colors tell me about the plant? Is it poisonous? What about the green ichor?"_
+**Esther**: _"What do the colors tell me about the plant? Is it poisonous? What about the green ichor?"_
 
-_**Warden**: "You observe all these things, and reckon that yes it is very likely poisonous, as the petals closely resemble that of Wolfsbane."_
+**Warden**: _"You observe all these things, and reckon that yes it is very likely poisonous, as the petals closely resemble that of Wolfsbane."_
 
- _**Barry**: "Alright, here's the plan: I'll climb up one of these trees above the plant and drape my blanket over the plant. Hopefully that'll make the pods close up!"_
-
- **How did the Warden decide what the PC should be allowed to know?**
- - First, they reasoned that **Esther's PC's** background (**Herbalist**) would give her _some_ information about the plant (e.g. that it was poisonous, and how much the light would impact it).  
- - Then, they took into account the fact that this forest was known for rarely allowing light to penetrate the large leaves hanging overhead. **Esther's PC** would definitely know this was a major factor.
+ **Barry**: _"Alright, here's the plan: I'll climb up one of these trees above the plant and drape my blanket over the plant. Hopefully that'll make the pods close up!"_
 
  **What if none of the PCs had any relevant experience or expertise?**
  - Had there been no PC with the **Herbalist** background, the Warden would likely have declared the PCs ignorant of the plant's properties, and (hopefully) the players would try to learn more by asking questions and experimentation.
