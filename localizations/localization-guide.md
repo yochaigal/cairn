@@ -1,24 +1,9 @@
 ---
 layout: default
-title: Localizations
-nav_order: 5
-parent: Resources
+title: Localization Guide
+nav_order: 1
+parent: Localization
 ---
-
-# Localizations
----
-
-# Italian
-- [Cairn in Italian](https://idolofmanyhands.github.io/cairn-ita/). Includes game PDF, SRD & character sheets.
-
-## Spanish
-- SRD translation in progress!
-- [Character Sheet (fillable) in Spanish](https://drive.google.com/file/d/1CacGd1RlnfDu8xhXTqkDfi8YywIF6EG-/view?usp=sharing)
-- [Character Sheet (dual) in Spanish](https://drive.google.com/file/d/1TjRlx7GiZq01sctfbNr6bnp9yRkJSuaK/view?usp=sharing)
-- [Token Character Sheets (fillable) in Spanish)](https://drive.google.com/file/d/1J9rOVBWIsf1_SSvNou8lLPN2zIodQ-dy/view)
-
-## Portuguese
-- SRD translation In progress!
 
 # Localization Guide
 ---
