@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SRD Em Portugues
+title: SRD Em Português
 nav_exclude: true
 nav_order: 10
 ---
