@@ -31,17 +31,21 @@ Expand for example
 
  _**Warden**: You've spent the better part of the morning cutting your way through the **Geunant Forest**, chopping past hanging vines and waist-high brambles. It is very easy to get lost here among the surrounding underbrush. To make matters worse the Sun is completely obscured by the thick overhead branches."_
 
- _**Barry**: "Does my PC's **Hunter** background help at all?"_
+ _**Barry**: "Does my **Hunter** background help at all?"_
 
  _**Warden:** "Yes, though you have to stop every few minutes to survey your surroundings; progress is slow-going as a result. You continue heading East towards your destination."_
 
- _**Warden:** "After a few hours you exit into a small clearing in the wood, perfect for a short break. On the other end of the clearing is a small, visible path heading East. The entrance to the path is blocked by a large flowering plant, sitting a solitary sunbeam; it drips a vile green ichor from open, violet pods."_"
+ _**Warden:** "After a few hours you exit into a small clearing in the wood, perfect for a short break. On the other end of the clearing is a small, visible path heading East. The entrance to the path is blocked by a large flowering plant, sitting a solitary sunbeam; it drips a green ichor from open, blue pods."_"
 
- _**Esther**: "As an ex-**Herbalist**, does my PC recognize this plant?"_
+ _**Esther**: "As an former **Herbalist**, do I recognize this plant?"_
 
- _**Warden**: "Yes. She also knows that it is probably overgrown on account of the sunbeam drenching it in natural light."_
+ _**Warden**: "Yes. You also knows that it is probably overgrown on account of the sunbeam drenching it in natural light."_
 
- _**Barry** and **Esther** think on this, and then come up with a way to block the light coming from overhead. They carefully execute this plan (avoiding the thorns, of course) and the pods close up. They move on in safety._
+_**Esther**: "What do the colors tell me about the plant? Is it poisonous? What about the green ichor?"_
+
+_**Warden**: "You observe all these things, and reckon that yes it is very likely poisonous, as the petals closely resemble that of Wolfsbane."_
+
+ _**Barry**: "Alright, here's the plan: I'll climb up one of these trees above the plant and drape my blanket over the plant. Hopefully that'll make the pods close up!"_
 
  **How did the Warden decide what the PC should be allowed to know?**
  - First, they reasoned that **Esther's PC's** background (**Herbalist**) would give her _some_ information about the plant (e.g. that it was poisonous, and how much the light would impact it).  
