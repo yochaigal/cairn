@@ -69,13 +69,13 @@ Expand for example
 
  **Warden**: _"Yes, unless of course something comes out of it!" Who's on first watch, by the way?"_
 
- **Esther**: _"I'll take first shift._
+ **Esther**: _"I'll take first shift._"
 
-  **Warden**: _"You make camp and eat one of your rations." Halfway through the first shift, you hear a snapping of twigs coming from just to the West of the campsite, back towards the **Geunant Forest**. What do you do?"_
+  **Warden**: _"You make camp and eat one of your rations. Halfway through the first shift, you hear a snapping of twigs coming from just to the West of the campsite, back towards the **Geunant Forest**. What do you do?"_
 
   **Esther**: _"Slowly, I lean over and kick my comrade awake so I'm not alone in this. I quietly nod my head towards the direction of the noise, making the symbol for silence."_
 
-  **Warden**: _"Alright, he sits up, just as a pair of horrid red eyes become visible behind the underbrush._"
+  **Warden**: _"Alright, he sits up just as a pair of horrid red eyes become visible behind the underbrush._"
 
   **Barry**: _"What do we know about the creatures here?"_
 
