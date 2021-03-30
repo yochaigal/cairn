@@ -35,7 +35,7 @@ Expand for example
 
  **Warden:** _"Yes, though you have to stop every few minutes to survey your surroundings; progress is slow-going as a result. You continue heading East towards your destination."_
 
- **Warden:** _"After a few hours you exit into a small clearing in the wood, perfect for a short break. On the other end of the clearing is a small, visible path heading East. The entrance to the path is blocked by a large flowering plant, sitting a solitary sunbeam; it drips a green ichor from open, blue pods."_"
+ **Warden:** _"After a few hours you exit into a small clearing in the wood, perfect for a short break. On the other end of the clearing is a small, visible path heading East. The entrance to the path is blocked by a large flowering plant, sitting a solitary sunbeam; it drips a green ichor from open, blue pods."_
 
  **Esther**: _"As a former **Herbalist**, do I recognize this plant?"_
 
@@ -45,7 +45,7 @@ Expand for example
 
 **Warden**: _"You observe all these things, and reckon that yes it is very likely poisonous, as the petals closely resemble that of Wolfsbane."_
 
- **Barry**: _"Alright, here's the plan: I'll climb up one of these trees above the plant and drape my blanket over the plant. Hopefully that'll make the pods close up!"_
+ **Barry**: _"Alright, here's the plan: I'll climb up one of these trees above the plant and drape my blanket over it, blocking the sunlight. Hopefully that'll make the pods close up!"_
 
  **What if none of the PCs had any relevant experience or expertise?**
  - Had there been no PC with the **Herbalist** background, the Warden would likely have declared the PCs ignorant of the plant's properties, and (hopefully) the players would try to learn more by asking questions and experimentation.
@@ -53,7 +53,7 @@ Expand for example
 
 </details>
 
-## What determines whether combat should break out?
+## When should combat break out?
 **Cairn** assumes that the characters live in a dangerous world where even the most minor interaction can become quite deadly. The players should therefore be encouraged to find non-violent ways to solve their problems. There are of course times where this is quite impossible, and it is up to the Warden to determine if a violent situation should be resolved through combat.
 
 <details markdown="block">
@@ -61,7 +61,7 @@ Expand for example
 Expand for example
  </summary>
 
- _In the late afternoon the party makes a last push to break through the forest boundary. Spilling out of the treEsthere, they find themselves nearly stepping into a long ravine splitting the forest in two. Finally, they've arrived at the **God-Slip**, a seemingly endless ravine with no bridge crossing it. Judging by the sheer rock walls on either side, climbing down would be extremely dangerous. Unfortunately their quarry is most likely located just across, where the cliffs meet the edge of the world. They decide to make camp before moving out._
+ _In the late afternoon the party makes a last push to break through the forest boundary. Spilling out of the trees, they find themselves nearly stepping into a long ravine splitting the forest in two. Finally, they've arrived at the **God-Slip**, a seemingly endless ravine with no bridge crossing it. Judging by the sheer rock walls on either side, climbing down would be extremely dangerous. Unfortunately their quarry is most likely located just across, where the cliffs meet the edge of the world. They decide to make camp before moving out._
 
  _They set up camp with their backs to the ravine, judging it to be one fewer thing they'd have to worry about at night. Later that evening, the adventurers decide to take turns at keeping watch. **Esther's PC** takes the first shift. Halfway through, she hears a snapping of twigs coming from just to the West of their camp, back towards the **Geunant Forest**. Slowly, she leans over towards **Barry's PC** and kicks him awake. Nodding her head towards the direction of the noise, she makes the symbol for be quiet. Her companion sits up, just as a pair of horrid red eyes become visible behind the underbrush._
 
@@ -98,7 +98,7 @@ Expand for example
 
  _**Esther's PC** tosses one end of her rope to **Boroth**, then quickly wraps the rope around the nearby tree. At the same time, **Boroth** rushes towards the cliff-face, screaming at the creature to charge him. Both PCs are in position when the **Nightmare** makes another attempt at his life. He leaps off the cliff at the last second, holding onto the rope with all his might._
 
- **Why didn't Esme need to save in order to drag her friend away, or to wrap the rope around the tree?**  
+ **Why didn't Esther's PC need to save in order to drag her friend away, or to wrap the rope around the tree?**  
  On a turn, a PC can attempt any action; a **save** is only required if the above two conditions are met. It seemed reasonable that **Esther's PC** would be able to make a mad dash around the tree (which was only a few feet away) with **Barry's PC's** rope without much danger. Had she tried to run close to the **Nightmare** or done something equally uncertain or dangerous however she would have been required to **save**.
 
 </details>
