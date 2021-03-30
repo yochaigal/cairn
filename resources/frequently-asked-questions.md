@@ -80,6 +80,9 @@ Expand for example
   **Barry**: _"What do we know about the creatures here?"_
 
   **Warden**: _"You know that whatever creatures may be stalking this forest at night are very likely dangerous. You will likely not have time to chat with whatever is about to come out of there."_
+
+  **Esther**: _"I'm prepared to fight, then. I stand up and draw my sword, ready for whatever comes."_
+
 </details>
 
 ## How does the Warden decide turn order?
@@ -90,9 +93,24 @@ Some games rely on "Initiative" to determine who goes first when combat begins. 
 Expand for example
  </summary>
 
- _The Warden decrees that **Esther's PC** should not have to make a **DEX** save to go first, as she was at the ready when their opponent first appeared. **Barry** however must make a **DEX save** to see if his character is able to ready himself for combat in time. He rolls 1d20, and the result is a 17, a fail. The Warden decrees that **Esther's PC** will go first, then their opponent, and finally **Barry's PC**._
+ **Warden**: _"A horse-like creature with glowing-red eyes explodes from the darkness of the wood opposite the party's campsite. A sea of mist flows off the creature's body as it runs directly at your character, **Barry**. However seeing how **Esther**'s character was at the ready she gets to go first."_
 
- _A horse-like creature explodes from the darkness of the wood opposite the party's campsite, its red glowing eyes shrouded by a sea of mist. It runs directly at the still-prone **Barry's PC**. "A [**Nightmare**](/monsters/nightmare/)!" screams **Esther's PC**, before using her action to help drag her comrade out of the way. Barely missing its target, the **Nightmare** swings wildly around, stamping its feet in preparation for another charge._
+ **Barry**: _"What about me?"_
+
+ **Warden**: _"Yeah, about that. Make a **DEX save** to see if your character is able to ready himself in time to react before the creature."_
+
+ **Barry**: _"I rolled 1d20, and the result is a 17. Ouch."_
+
+ **Warden**: _"Alright then. **Esther's PC** will go first, then the creature, and finally **Barry's PC**."_
+
+ **Barry**: _"Do we know anything about this creature?"_
+
+ **Warden**: _"Yes - it's a [**Nightmare**](/monsters/nightmare/), which is a fairly well-known gaunt enslaved by Liches and the like. They are pretty powerful, from what you've heard."_
+
+ **Esther**: _"Ah. In that case, I want to use my action to help drag my comrade out of the way."_
+
+ **Warden**: _"Barely missing its target, the **Nightmare** swings wildly around, stamping its feet in preparation for another charge."_
+
 </details>
 
 ## When Should a PC, NPC or monster **save**?
