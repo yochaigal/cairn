@@ -45,7 +45,7 @@ Expand for example
 
 **Warden**: _"You observe all these things, and reckon that yes it is very likely poisonous, as the petals closely resemble that of Wolfsbane."_
 
- **Barry**: _"Alright, here's the plan: I'll climb up one of these trees above the plant and drape my blanket over it, blocking the sunlight. Hopefully that'll make the pods close up!"_
+ **Barry**: _"All right, here's the plan: I'll climb up one of these trees above the plant and drape my blanket over it, blocking the sunlight. Hopefully that'll make the pods close up!"_
 
  **What if none of the PCs had any relevant experience or expertise?**
  - Had there been no PC with the **Herbalist** background, the Warden would likely have declared the PCs ignorant of the plant's properties, and (hopefully) the players would try to learn more by asking questions and experimentation.
@@ -101,7 +101,7 @@ Expand for example
 
  **Barry**: _"I rolled 1d20, and the result is a 17. Ouch."_
 
- **Warden**: _"Yes, that's a fail alright. **Esther** will go first, then the creature, and finally **Barry**. After that you both will go again, in any order, then the creature, and so on."_
+ **Warden**: _"Yes, that's a fail. **Esther** will go first, then the creature, and finally **Barry**. After that you both will go again, in any order, then the creature, and so on."_
 
 </details>
 
@@ -120,7 +120,7 @@ Expand for example
 
  **Esther**: _"Do we know anything about this creature?"_
 
- **Warden**: _"Yes - it's a [**Nightmare**](/monsters/nightmare/), which is a fairly well-known thralls of Liches and the like. They are pretty powerful, from what you've heard."_
+ **Warden**: _"Yes - it's a [**Nightmare**](/monsters/nightmare/), which is a sort of horse-thrall of Liches and the like. They are pretty powerful, from what you've heard."_
 
  **Esther**: _"Spooky! In that case, I want to use my action to help drag my comrade out of the way, maybe towards that Oak tree you mentioned earlier."_
 
@@ -149,11 +149,11 @@ If two opponents are both attempting to overcome the other, whomever is most at 
 
   **Warden**: _"**Esther**, you toss one end of your rope to **Barry**, who quickly loops the rope around the Oak tree, then rushes towards the cliff-face on the other side, screaming at the creature to charge at him. **Esther** takes point as a sort of ballast in case he falls. **Barry**, as you are in position to react, I'm going to allow you a sort of out of combat reaction."_
 
-  **Barry**: _"Alright, if it comes near me I'd like to stand near the cliff edge, ready to leap out of the way."_
+  **Barry**: _"All right, if it comes near me I'd like to stand near the cliff edge, ready to leap out of the way."_
 
-  **Warden**: _"Understood. It is now the **Nightmare's** turn, and obviously it's still very angry at you, **Barry**. Raising its devilish hooves, the beast charges towards you once again. You leap off the cliff at the last second, holding onto the rope with all your might. The **Nightmare** attempts to halt its attack the moment it sees its target falling. It makes a **DEX save** to see if it can successfully stop. Ack, it rolled a 20, and the creature goes tumbling off the cliff and into the vast dark below."_
+  **Warden**: _"Understood. It is now the **Nightmare's** turn, and obviously it's still very angry at you, **Barry**. Raising its devilish hooves, the beast charges towards you once again. You leap off the cliff at the last second, holding onto the rope with all your might. The **Nightmare** attempts to halt its attack the moment it sees its target falling. It makes a **DEX save** to see if it can successfully stop. Ack, it rolled a 20, and goes tumbling off the cliff and into the vast dark below."_
 
-  **Why didn't the Nightmare make and attack roll, as the combat rules imply?**
+  **Why didn't the Nightmare make an attack roll, as the combat rules imply?**
   The attack was considered possible, but very dangerous as well. Had the creature used a ranged attack or was a trained melee attacker it would have been far less risky to attack **Barry**. Unfortunately it was a beast, and only capable of running people down with its flaming hooves.
 
   **Why did the Nightmare have to make the save instead of Barry, who was also at risk?**  
