@@ -182,7 +182,7 @@ Expand for example
 
  **Esther**: _"Right. The question is, how do we cross the **God-Slip**? Are there any bridges at our level?"_
 
- **Warden**: _"Not that you can see. In the far North a copse of trees hugs the ravine and partially blocks your way; you'd need to explore a bit to see past them.  A few hundred meters South however you can see a small shelf jutting out from inside the ravine, probably fifty feet down. It might require a little work to shimmy onto."_
+ **Warden**: _"Not that you can see. In the far North a copse of trees hugs the ravine and partially blocks your way; you'd need to explore a bit to see past them.  A few hundred meters South however you can see a small shelf jutting out from inside the ravine, probably fifty feet down. It makes a sort of "L" shape, getting pretty close to the other side. It might require a little work to shimmy onto, but it seems doable."_
 
  **Barry**: _"I say, let's go for the shelf. Still go that rope? I have some pitons."_
 
@@ -190,11 +190,17 @@ Expand for example
 
  **Warden**: _"After a half hour's walk along the ravine, you finally arrive at a spot just above the shelf. Deep within the chasm you can see a blanket of early morning fog, and just beneath it the glitter of rushing water."_
 
- **Barry**: _"Are there any large stones near the edge? I'd like to hammer a piton into it, then loop our rope through. We can then lower ourselves safely into the ravine and onto the shelf."_
+ **Barry**: _"Are there any large stones near the edge? I'd like to hammer a piton into it, then loop our rope through. I can lower myself safely into the ravine and onto the shelf."_
 
- _**Barry's PC** carefully lowers himself onto the shelf while **Esther's PC** keeps an eye on the stone. Carefully planting his feet on the shelf, he tests the rope and calls up to his partner, who climbs down. After she arrives safely on the shelf, they sorrowfully leave the rope behind for the return journey. The shelf appears to zigzag down the inside of the ravine, nearly to the bottom. The sounds of rushing water below fills the ravine._
+ **Warden**: _"You find a large stone along the edge and hammer the piton into it."_
 
- _The party moves carefully down the shelf, digging their fingers into the cliff-face for safety. To ward off the growing shadows, **Esther's PC** lights her torch. A half-hour into their descent they arrive at a small waterfall blocking their way forward. The water flows down the slippery rock surface and into a small basin below before tumbling into the dark abyss._
+ **Barry**: _"Great, I lower myself down. **Esther** will follow, I assume."_
+
+ **Warden**: _"Carefully planting your feet on the shelf, you test the rope and call up to **Esther**, who climbs down. After she has arrived safely on the shelf, you survey your surroundings. The shelf appears to zigzag down the inside of the ravine, nearly to the bottom. The sound of rushing water below fills the ravine. Do you leave the rope behind for the return journey?"_
+
+ **Esther**: _"Unfortunately, yes. I'm also going to mark our location on my map. Who knows if it'll make a difference, but just in case... OK, let's get out of here."_
+
+ **Warden**: "_The party moves carefully down the shelf, digging their fingers into the cliff-face for safety. To ward off the growing shadows, **Esther's PC** lights her torch. A half-hour into their descent they arrive at a small waterfall blocking their way forward. The water flows down the slippery rock surface and into a small basin below before tumbling into the dark abyss._
 
  _The Warden explains that the rock wall is slick with moss, and that they will likely slip if they try to step through. **Barry** argues that they should press on, despite the dangers. The Warden says that **Barry's PC** must make a **DEX save** to see if he can cross over the slick surface without slipping. **Barry** rolls a 14, a fail. He slips and tumbles down the waterfall into the water-filled basin below._
 
