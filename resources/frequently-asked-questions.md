@@ -93,7 +93,7 @@ Some games rely on "Initiative" to determine who goes first when combat begins. 
 Expand for example
  </summary>
 
- **Warden**: _"A horse-like creature with glowing-red eyes explodes from the darkness of the wood opposite the party's campsite. A sea of mist flows off the creature's body as it runs directly at you, **Barry**. However seeing how **Esther** was at the ready, she gets to go first."_
+ **Warden**: _"An Elk-like creature with glowing-red eyes explodes from the darkness of the wood opposite the party's campsite. A sea of mist flows off the creature's body as it runs directly at you, **Barry**. **Esther** was at the ready, so she gets to go first."_
 
  **Barry**: _"What about me?"_
 
@@ -101,7 +101,7 @@ Expand for example
 
  **Barry**: _"I rolled 1d20, and the result is a 17. Ouch."_
 
- **Warden**: _"Yes, that's a fail. **Esther** will go first, then the creature, and finally **Barry**. After that you both will go again, in any order, then the creature, and so on."_
+ **Warden**: _"Yes, that's a fail. **Esther** will go first, then the creature, and finally **Barry**. After that you both will go again in any order you wish, then the creature, and so on."_
 
 </details>
 
@@ -120,13 +120,13 @@ Expand for example
 
  **Esther**: _"Do we know anything about this creature?"_
 
- **Warden**: _"Yes - it's a [**Nightmare**](/monsters/nightmare/), which is a sort of horse-thrall of Liches and the like. They are pretty powerful, from what you've heard."_
+ **Warden**: _"Yes - it's a [**Blood Elk**](/monsters/blood-elk/), which is a sort of killer deer born from great greed or envy. They are pretty powerful, from what you've heard."_
 
  **Esther**: _"Spooky! In that case, I want to use my action to help drag my comrade out of the way, maybe towards that Oak tree you mentioned earlier."_
 
- **Warden**: _"You were already standing and ready to go, so I'm going to rule that this just happens, too quickly for the creature to change its trajectory. You manage to pull **Barry** just to the East of the now-trampled campsite, close to the Oak tree located just steps away from the **God-Slip**. Now, it's the **Nightmare's** turn. It plows through the space **Barry** once occupied, then swings wildly around, nearly careening off the cliff-face in the process. It's eyes glow a hateful violet as it turns back towards the both of you. **Barry**, it's your turn. You should note that you have only your hip-knife for combat, as everything else is still back at the camp. Worse, the smoke from the beast's flailing nostrils has impeded your ability to see more than its flaming red eyes. Use 1d4 when rolling damage."_
+ **Warden**: _"You were already standing and ready to go, so I'm going to rule that this just happens, too quickly for the creature to change its trajectory. You manage to pull **Barry** just to the East of the now-trampled campsite, close to the Oak tree located just steps away from the **God-Slip**. Now, it's the **Blood Elk's** turn. It plows through the space **Barry** once occupied, wrecking the campfire. It swings wildly around, nearly careening off the cliff-face in the process. It's eyes glow a hateful violet as it turns back towards the both of you. **Barry**, it's your turn. You should note that you have only your hip-knife for combat, as everything else is still back at the camp. Worse, the darkness has impeded your ability to see more than its flaming red eyes. Use 1d4 when rolling damage."_
 
- **Barry**: _"I step to my feet and declare,'There must be a [**Lich**](/monsters/lich/) afoot!' Screaming, I launch my dagger straight at the creature. I roll 1d4 and the result is a 1."_
+ **Barry**: _"Screaming, I launch my dagger straight at the creature. I roll 1d4 and the result is a 1."_
 
  **Warden**: _"The knife flies expertly from your hand, slicing through the misty air just above the creature, landing a few feet behind it. The beast whinnies in anger, then crouches as it prepares to charge again. It's your side's turn now. Go in any order."_
 
@@ -135,7 +135,7 @@ Expand for example
  **Barry**: _"Uh... That sounds like a plan, I guess. Yes, let's do it!"_
 
  **Why didn't Barry need to save in order to successfully wrap the rope around the tree?**  
- On a turn, a PC can attempt any action; a **save** is only required if one of the conditions listed above are met. It seemed reasonable that **Barry** would be able to make a mad dash around the tree (which was only a few feet away) with the rope without much danger. Had he tried to run close to the **Nightmare** or done something equally uncertain or dangerous, he would have been required to **save**.
+ On a turn, a PC can attempt any action; a **save** is only required if one of the conditions listed above are met. It seemed reasonable that **Barry** would be able to make a mad dash around the tree (which was only a few feet away) with the rope without much danger. Had he tried to run close to the **Blood Elk** or done something equally uncertain or dangerous, he would have been required to **save**.
 
 </details>
 
@@ -151,16 +151,16 @@ If two opponents are both attempting to overcome the other, whomever is most at 
 
   **Barry**: _"All right, if it comes near me I'd like to stand near the cliff edge, ready to leap out of the way."_
 
-  **Warden**: _"Understood. It is now the **Nightmare's** turn, and obviously it's still very angry at you, **Barry**. Raising its devilish hooves, the beast charges towards you once again. You leap off the cliff at the last second, holding onto the rope with all your might. The **Nightmare** attempts to halt its attack the moment it sees its target falling. It makes a **DEX save** to see if it can successfully stop. Ack, it rolled a 20, and goes tumbling off the cliff and into the vast dark below."_
+  **Warden**: _"Understood. It is now the **Blood Elk's** turn, and obviously it's still very angry at you, **Barry**. Raising its devilish hooves, the beast charges towards you once again. You leap off the cliff at the last second, holding onto the rope with all your might. The **Blood Elk** attempts to halt its attack the moment it sees its target falling. It makes a **DEX save** to see if it can successfully stop. Ack, it rolled a 20, and goes tumbling off the cliff and into the vast dark below."_
 
-  **Why didn't the Nightmare make an attack roll, as the combat rules imply?**
-  The attack was considered possible, but very dangerous as well. Had the creature used a ranged attack or was a trained melee attacker it would have been far less risky to attack **Barry**. Unfortunately it was a beast, and only capable of running people down with its flaming hooves.
+  **Why didn't the Blood Elk make an attack roll, as the combat rules imply?**
+  The attack was considered possible, but very dangerous as well. Had the creature used a ranged attack or was a trained melee attacker it would have been far less risky to attack **Barry**. Unfortunately it was a beast, and only capable of running people down with its sharp hooves.
 
-  **Why did the Nightmare make the save instead of Barry, who was also at risk?**  
-  In this example, the **Nightmare** was far more at risk than its human opponent, because:   
+  **Why did the Blood Elk make the save instead of Barry, who was also at risk?**  
+  In this example, the **Blood Elk** was far more at risk than its human opponent, because:   
   - As an enthralled beast, it was likely not capable of creative thinking or advanced problem solving.
   - One of its primary features is its relative bulk and speed, and it is likely that these properties would make a sudden stop quite difficult.
-  - Accordingly, there were no situational or mechanical benefits that could provide any advantage to the **Nightmare** in this scenario.
+  - Accordingly, there were no situational or mechanical benefits that could provide any advantage to the **Blood Elk** in this scenario.
 
   Conversely, **Barry** was the least at risk of the two:
   - As a former hunter, he had already firmly established his ability to do things of this nature.
@@ -178,7 +178,7 @@ Occasionally a dangerous action, trap, surprise attack, or cataclysmic event wil
 Expand for example
  </summary>
 
- **Warden**: "_After your encounter with the **Nightmare**, you return to camp and try to catch as much sleep as they can. By daybreak both of you are awake and ready to continue on your journey."_
+ **Warden**: "_After your encounter with the **Blood Elk**, you return to camp and try to catch as much sleep as they can. By daybreak both of you are awake and ready to continue on your journey."_
 
  **Esther**: _"Right. The question is, how do we cross the **God-Slip**? Are there any bridges at our level?"_
 
