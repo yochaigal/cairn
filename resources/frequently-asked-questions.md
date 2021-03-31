@@ -61,7 +61,7 @@ Expand for example
 Expand for example
  </summary>
 
- **Warden**: _"By late afternoon you finally break through the forest boundary. Spilling out of the treeline, you nearly step into a deep chasm splitting the forest in two. Finally, you have arrived at the **God-Slip**, a seemingly endless ravine with no bridge crossing it. Judging by the sheer rock walls on either side, climbing down would be extremely dangerous. Unfortunately, your quarry is likely located just across, where the cliffs meet the edge of the world."_
+ **Warden**: _"By late afternoon you finally break through the forest boundary. Spilling out of the treeline, you nearly step into a deep chasm splitting the forest in two. Finally, you have arrived at the **God-Slip**, a seemingly endless ravine with no bridge crossing it. Judging by the sheer rock walls on either side, climbing down would be extremely dangerous. Unfortunately, your quarry is likely located just across, where the cliffs meet the edge of the world. There is a small clearing nearby where you could set up camp, shrouded by a humongous Oak tree planted close to the chasm."_
 
  **Esther**: _"I think we should make camp before moving out. If we have to climb into or around this chasm, I'd rather have the light on our side!"_
 
@@ -73,9 +73,9 @@ Expand for example
 
   **Warden**: _"You make camp and eat one of your rations. Halfway through the first shift, you hear a snapping of twigs coming from just to the West of the campsite, back towards the **Geunant Forest**. What do you do?"_
 
-  **Esther**: _"Slowly, I lean over and kick my comrade awake so I'm not alone in this. I quietly nod my head towards the direction of the noise, making the symbol for silence."_
+  **Esther**: _"I'd like to kick my comrade awake so I'm not alone in this, quietly nodding my head towards the direction of the noise and making the symbol for silence."_
 
-  **Warden**: _"Alright, he sits up just as a pair of horrid red eyes become visible behind the underbrush._"
+  **Warden**: _"You do that, and he sits up just as a pair of horrid red eyes become visible behind the underbrush._"
 
   **Barry**: _"What do we know about the creatures here?"_
 
@@ -93,30 +93,30 @@ Some games rely on "Initiative" to determine who goes first when combat begins. 
 Expand for example
  </summary>
 
- **Warden**: _"A horse-like creature with glowing-red eyes explodes from the darkness of the wood opposite the party's campsite. A sea of mist flows off the creature's body as it runs directly at your character, **Barry**. However seeing how **Esther**'s character was at the ready she gets to go first."_
+ **Warden**: _"A horse-like creature with glowing-red eyes explodes from the darkness of the wood opposite the party's campsite. A sea of mist flows off the creature's body as it runs directly at you, **Barry**. However seeing how **Esther** was at the ready, she gets to go first."_
 
  **Barry**: _"What about me?"_
 
- **Warden**: _"Yeah, about that. Make a **DEX save** to see if your character is able to ready himself in time to react before the creature."_
+ **Warden**: _"You'll need to make a **DEX save** to see if you are able to ready yourself in time to react before the creature."_
 
  **Barry**: _"I rolled 1d20, and the result is a 17. Ouch."_
 
- **Warden**: _"Alright then. **Esther's PC** will go first, then the creature, and finally **Barry's PC**."_
+ **Warden**: _"Yes, that's a fail alright. **Esther** will go first, then the creature, and finally **Barry**."_
 
  **Barry**: _"Do we know anything about this creature?"_
 
  **Warden**: _"Yes - it's a [**Nightmare**](/monsters/nightmare/), which is a fairly well-known gaunt enslaved by Liches and the like. They are pretty powerful, from what you've heard."_
 
- **Esther**: _"Ah. In that case, I want to use my action to help drag my comrade out of the way."_
+ **Esther**: _"Spooky! In that case, I want to use my action to help drag my comrade out of the way, maybe towards that Oak tree you mentioned earlier."_
 
- **Warden**: _"Barely missing its target, the **Nightmare** swings wildly around, stamping its feet in preparation for another charge."_
+ **Warden**: _"You do that. The **Nightmare** plows through the campsite, barely missing its target. It swings wildly around, nearly careening off the cliff-face in the process. It's eyes glow a hateful violet as it turns back towards you."_
 
 </details>
 
 ## When Should a PC, NPC or monster **save**?
-There are generally to two conditions that _must be met_ under which a PC, NPC or monster should **save**:
-- The outcome of an action is uncertain
-- Something is at risk (a life, a threatening danger, etc.).
+There are generally three scenarios under which a PC, NPC or monster should **save**:
+- When the outcome of an action is uncertain.
+- When something is at risk (a life, a threatening danger, etc.).
 - When making a critical damage save during [**combat**](/cairn-srd/#combat)).
 
 <details markdown="block">
@@ -124,14 +124,20 @@ There are generally to two conditions that _must be met_ under which a PC, NPC o
 Expand for example
  </summary>
 
- _"There must be a [**Lich**](/monsters/lich/) afoot," **Barry's PC** replies as he quickly gets to his feet. Both adventurers are now standing just to the East of their now-trampled campsite, close to a tree located only steps away from the cavernous **God-Slip**. It is now their turn to go, in any order they like, followed by the demon horse. **Barry's PC** has only his hip-knife for combat, as everything else is still at the camp._
+ **Warden**: _"**Esther**, you've managed to pull **Barry** just to the East of your now-trampled campsite, close to the Oak tree located just steps away from the **God-Slip**. **Barry**, you have only your hip-knife for combat, as everything else is still at the camp. It's your turn, by the way."_
 
- _**Barry** comes up with an idea: the creature previously charged at **Barry's PC**, so it seems reasonable that it would do so again. What if **Esther's PC** tossed one end of her rope to **Barry's PC**, then quickly looped her rope to the nearby tree? Then if it comes close enough try and trample him again, **Barry's PC** could simply leap off the cliff, holding the rope for support and using **Esther's PC's** body as a ballast.  **Esther** agrees to the plan._
+ **Barry**: _"I step to my feet and declare,'There must be a [**Lich**](/monsters/lich/) afoot!' Screaming, I launch my dagger straight at the creature. I roll 1d6 and the result is a 1."_
 
- _**Esther's PC** tosses one end of her rope to **Boroth**, then quickly wraps the rope around the nearby tree. At the same time, **Boroth** rushes towards the cliff-face, screaming at the creature to charge him. Both PCs are in position when the **Nightmare** makes another attempt at his life. He leaps off the cliff at the last second, holding onto the rope with all his might._
+ **Warden**: _"The knife flies expertly from your hand, slicing through the misty air just above the creature. It whinnies in anger, then crouches as it prepares to charge again. It's your side's turn now. Go in any order."_
 
- **Why didn't Esther's PC need to save in order to drag her friend away, or to wrap the rope around the tree?**  
- On a turn, a PC can attempt any action; a **save** is only required if the above two conditions are met. It seemed reasonable that **Esther's PC** would be able to make a mad dash around the tree (which was only a few feet away) with **Barry's PC's** rope without much danger. Had she tried to run close to the **Nightmare** or done something equally uncertain or dangerous however she would have been required to **save**.
+ **Esther**: _"I have an idea: the creature previously charged at **Barry**, right? So it seems reasonable that it would do so again. What if I tossed one end of my rope to **Barry**, and then looped it to a nearby tree? Then if it comes close enough try and trample him again, he could just... leap off the cliff? Holding the rope for support, of course._"
+
+ **Barry**: _"Uh... That sounds like a plan, I guess. Yes, let's do it!"_
+
+ **Warden**: _"**Esther**, you toss one end of your rope to **Barry**, who quickly wraps the rope around the Oak tree, then rushes towards the cliff-face, screaming at the creature to charge at him. **Esther** takes point as a sort of ballast in case he falls. Both of you are in position when the **Nightmare** makes another attempt at stampeding **Barry**. He leaps off the cliff at the last second, holding onto the rope with all his might."_
+
+**Why didn't Esther's PC need to save in order to drag her friend away, or to wrap the rope around the tree?**  
+On a turn, a PC can attempt any action; a **save** is only required if the above two conditions are met. It seemed reasonable that **Esther's PC** would be able to make a mad dash around the tree (which was only a few feet away) with **Barry's PC's** rope without much danger. Had she tried to run close to the **Nightmare** or done something equally uncertain or dangerous however she would have been required to **save**.
 
 </details>
 
