@@ -200,14 +200,23 @@ Expand for example
 
  **Esther**: _"Unfortunately, yes. I'm also going to mark our location on my map. Who knows if it'll make a difference, but just in case... OK, let's get out of here."_
 
- **Warden**: "_The party moves carefully down the shelf, digging their fingers into the cliff-face for safety. To ward off the growing shadows, **Esther's PC** lights her torch. A half-hour into their descent they arrive at a small waterfall blocking their way forward. The water flows down the slippery rock surface and into a small basin below before tumbling into the dark abyss._
+ **Warden**: _"You move carefully along the shelf, digging your fingers into the cliff-face for safety. After an arduous fifteen minutes, you finally arrive at a small waterfall blocking the path forward. Icy water flows down the slippery rock surface and into a small basin below. The rock wall is slick with moss here, and you will likely slip if you try to step through. What do you do?"_
 
- _The Warden explains that the rock wall is slick with moss, and that they will likely slip if they try to step through. **Barry** argues that they should press on, despite the dangers. The Warden says that **Barry's PC** must make a **DEX save** to see if he can cross over the slick surface without slipping. **Barry** rolls a 14, a fail. He slips and tumbles down the waterfall into the water-filled basin below._
+ **Barry**: _"Is there another way forward?"_
 
- _**Barry** groans and prepares for some bad news. The Warden declares that **Barry's PC** loses 1d4 STR damage, and that one item from his pack is also knocked loose. Rolling a Fate dice (with a lucky 5), the Warden says **Barry** can choose what his PC drops._
-</details>
+ **Warden**: _"Not from what you can tell. You could try and climb down, but it is quite dark and likely even more dangerous."_
 
-### Which **Ability** should non-combat damage impact?
+ **Barry**: _"OK, I think I'll try my luck with the waterfall, thank you. **Esther**, can you grab onto bag as I step through?"_
+
+ **Esther**: _"And have you take me with you? No thanks!"_
+
+ **Warden**: _"You'll have to make a **DEX save** to see if you can cross over the slick surface without slipping."_
+
+ **Barry**: _"I rolled a 14, a fail. Damn."_
+
+ **Warden**: _"You slip and tumble down the waterfall and into the water-filled basin below. You loses 1d4 STR damage, and one item from your pack is also knocked loose. I'm going to roll a Fate die... hey, a lucky 5! OK, you get to choose what falls out."_
+
+**Which Ability should non-combat damage impact?**
 - If the injury affects their physical strength or health, subtract from **STR**. _This does not trigger a **critical damage save**_. **STR** is a reflection of a PC's health, and should reflect that in subtle but interesting ways: perhaps requiring a **save** where none would have been necessary before.
 - If the injury impacts their ability to move, react quickly, or their fine motor skills, subtract from **DEX**. This frequently is paired with an in-fiction impact as well; broken fingers would impact a PC's ability to pick locks, for example.
 - If the spirit, willpower, or determination of a PC has been impacted, subtract from **WIL**. Especially helpful to consider during magical or superficial injuries. A PC whose soul was burnt by arcane energy may need to make a **WIL** save to read Spellbooks, for example.
@@ -216,6 +225,8 @@ A few considerations:
 - An injury could take on multiple facets: [**Deprivation**](/cairn-srd/#rules) may accompany STR loss from poison, for instance. Provide a potential solution to overcoming the illness. as well.
 - Damage should happen as a consequence of failing a **save**. Do not make players **save** after-the-fact.
 - Fictional injuries are just as powerful as direct mechanical damage. **DEX** loss will have an impact on a character's reflexes and speed, but a broken leg may prevent a character from being able to move at all!
+
+</details>
 
 ## Can the fiction negate mechanics?
 
