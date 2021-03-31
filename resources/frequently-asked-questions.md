@@ -156,7 +156,7 @@ If two opponents are both attempting to overcome the other, whomever is most at 
   **Why didn't the Nightmare make an attack roll, as the combat rules imply?**
   The attack was considered possible, but very dangerous as well. Had the creature used a ranged attack or was a trained melee attacker it would have been far less risky to attack **Barry**. Unfortunately it was a beast, and only capable of running people down with its flaming hooves.
 
-  **Why did the Nightmare have to make the save instead of Barry, who was also at risk?**  
+  **Why did the Nightmare make the save instead of Barry, who was also at risk?**  
   In this example, the **Nightmare** was far more at risk than its human opponent, because:   
   - As an enthralled beast, it was likely not capable of creative thinking or advanced problem solving.
   - One of its primary features is its relative bulk and speed, and it is likely that these properties would make a sudden stop quite difficult.
@@ -171,17 +171,26 @@ If two opponents are both attempting to overcome the other, whomever is most at 
 </details>
 
 ## How is damage awarded outside of combat?
-Occasionally a dangerous action, trap, surprise attack, or cataclysmic event will cause grave injury (or even death). Typically the Warden declares the type of damage (e.g. **STR/DEX/WIL**) followed by the amount lost (either in terms of specific amounts, or a variable dice roll).
-It can be difficult to determine exactly what kind of damage to dole out, and how much.  
+Occasionally a dangerous action, trap, surprise attack, or cataclysmic event will cause grave injury or even death. Typically the Warden declares the type of damage (e.g. **STR/DEX/WIL**) followed by the amount lost (either in terms of specific amounts, or a variable dice roll). It can be difficult to determine exactly what kind of damage to dole out, and how much.  
 
 <details markdown="block">
   <summary>
 Expand for example
  </summary>
 
- _After their encounter with the **Nightmare**, **Barry's PC** and **Esther's PC** return to camp and try to catch as much sleep as they can. By daybreak both are awake and ready to continue on their journey. The question is, how? The **God-Slip** appears equally insurmountable now, although the Warden points out that they can see a small shelf jutting out from inside the ravine just a few hundred meters South. It might require a little work to shimmy down, but it does look feasible._
+ **Warden**: "_After your encounter with the **Nightmare**, you return to camp and try to catch as much sleep as they can. By daybreak both of you are awake and ready to continue on your journey."_
 
- _After a half hour's walk along the broken, unforgiving mountainous crest they finally arrive at its edge,unable to go any further. Beneath them is an endless forest valley, blanketed in the early morning fog. **Barry's PC** searches until he finds a large stone near the edge. He hammers one of his pitons into it then loops his rope through, creating a makeshift cable with which both adventures could lower themselves safely into the ravine and onto the shelf._
+ **Esther**: _"Right. The question is, how do we cross the **God-Slip**? Are there any bridges at our level?"_
+
+ **Warden**: _"Not that you can see. In the far North a copse of trees hugs the ravine and partially blocks your way; you'd need to explore a bit to see past them.  A few hundred meters South however you can see a small shelf jutting out from inside the ravine, probably fifty feet down. It might require a little work to shimmy onto."_
+
+ **Barry**: _"I say, let's go for the shelf. Still go that rope? I have some pitons."_
+
+ **Esther**: _"Yeah, I don't see a better way across. Let's go."_
+
+ **Warden**: _"After a half hour's walk along the ravine, you finally arrive at a spot just above the shelf. Deep within the chasm you can see a blanket of early morning fog, and just beneath it the glitter of rushing water."_
+
+ **Barry**: _"Are there any large stones near the edge? I'd like to hammer a piton into it, then loop our rope through. We can then lower ourselves safely into the ravine and onto the shelf."_
 
  _**Barry's PC** carefully lowers himself onto the shelf while **Esther's PC** keeps an eye on the stone. Carefully planting his feet on the shelf, he tests the rope and calls up to his partner, who climbs down. After she arrives safely on the shelf, they sorrowfully leave the rope behind for the return journey. The shelf appears to zigzag down the inside of the ravine, nearly to the bottom. The sounds of rushing water below fills the ravine._
 
