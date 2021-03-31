@@ -105,7 +105,7 @@ Expand for example
 
  **Barry**: _"Do we know anything about this creature?"_
 
- **Warden**: _"Yes - it's a [**Nightmare**](/monsters/nightmare/), which is a fairly well-known gaunt enslaved by Liches and the like. They are pretty powerful, from what you've heard."_
+ **Warden**: _"Yes - it's a [**Nightmare**](/monsters/nightmare/), which is a fairly well-known thralls of Liches and the like. They are pretty powerful, from what you've heard."_
 
  **Esther**: _"Spooky! In that case, I want to use my action to help drag my comrade out of the way, maybe towards that Oak tree you mentioned earlier."_
 
@@ -124,44 +124,47 @@ There are generally three scenarios under which a PC, NPC or monster should **sa
 Expand for example
  </summary>
 
- **Warden**: _"**Esther**, you've managed to pull **Barry** just to the East of your now-trampled campsite, close to the Oak tree located just steps away from the **God-Slip**. **Barry**, you have only your hip-knife for combat, as everything else is still at the camp. It's your turn, by the way."_
+ **Warden**: _"**Esther**, you've managed to pull **Barry** just to the East of the now-trampled campsite, close to the Oak tree located just steps away from the **God-Slip**. **Barry**, you have only your hip-knife for combat, as everything else is still at the camp. It's your turn, by the way."_
 
  **Barry**: _"I step to my feet and declare,'There must be a [**Lich**](/monsters/lich/) afoot!' Screaming, I launch my dagger straight at the creature. I roll 1d6 and the result is a 1."_
 
  **Warden**: _"The knife flies expertly from your hand, slicing through the misty air just above the creature. It whinnies in anger, then crouches as it prepares to charge again. It's your side's turn now. Go in any order."_
 
- **Esther**: _"I have an idea: the creature previously charged at **Barry**, right? So it seems reasonable that it would do so again. What if I tossed one end of my rope to **Barry**, and then looped it to a nearby tree? Then if it comes close enough try and trample him again, he could just... leap off the cliff? Holding the rope for support, of course._"
+ **Esther**: _"I have an idea: the creature previously charged at **Barry**, right? So it seems reasonable that it would do so again. What if I tossed one end of my rope to **Barry**, and then looped it to a nearby tree? Then if it comes close enough try and trample him again, he could just... leap off the cliff? Holding the rope for support, of course."_
 
  **Barry**: _"Uh... That sounds like a plan, I guess. Yes, let's do it!"_
 
- **Warden**: _"**Esther**, you toss one end of your rope to **Barry**, who quickly wraps the rope around the Oak tree, then rushes towards the cliff-face, screaming at the creature to charge at him. **Esther** takes point as a sort of ballast in case he falls. Both of you are in position when the **Nightmare** makes another attempt at stampeding **Barry**. He leaps off the cliff at the last second, holding onto the rope with all his might."_
+ **Warden**: _"**Esther**, you toss one end of your rope to **Barry**, who quickly loops the rope around the Oak tree, then rushes towards the cliff-face on the other side, screaming at the creature to charge at him. **Esther** takes point as a sort of ballast in case he falls. **Barry**, as you are in position to react, I'm going to allow you a sort of out of combat reaction."_
 
-**Why didn't Esther's PC need to save in order to drag her friend away, or to wrap the rope around the tree?**  
-On a turn, a PC can attempt any action; a **save** is only required if the above two conditions are met. It seemed reasonable that **Esther's PC** would be able to make a mad dash around the tree (which was only a few feet away) with **Barry's PC's** rope without much danger. Had she tried to run close to the **Nightmare** or done something equally uncertain or dangerous however she would have been required to **save**.
+ **Why didn't Barry need to save in order to drag her friend away, or to wrap the rope around the tree?**  
+ On a turn, a PC can attempt any action; a **save** is only required if one of the two conditions listed above are met. It seemed reasonable that he would be able to make a mad dash around the tree (which was only a few feet away) with the rope without much danger. Had he tried to run close to the **Nightmare** or done something equally uncertain or dangerous, he would have been required to **save**.
 
 </details>
 
-## In a contested action, who should **save**?
-If two opponents are both attempting to overcome the other, whomever is most at risk should **save**. The Warden should make a _consistent_ ruling in this regard, and make sure it is explained clearly to the players before a risk is taken if possible.
+## In a contested action, who should save?
+ If two opponents are both attempting to overcome the other, whomever is most at risk should **save**. The Warden should make a _consistent_ ruling in this regard, and make sure it is explained clearly to the players before a risk is taken if possible.
 
-<details markdown="block">
-  <summary>
-Expand for example
- </summary>
+ <details markdown="block">
+   <summary>
+ Expand for example
+  </summary>
 
- _The **Nightmare** attempts to halt its attack just as its target falls. The Warden makes a **DEX save** to see if it succeeds. He rolls a 20, and the creature goes tumbling off the cliff and into the vast dark below._
+  **Barry**: _"Alright, if it comes near me I'd like to stand near the cliff edge, ready to leap out of the way."_
 
- **Why did the Nightmare have to make the save instead of Boroth?**  
+  **Warden**: _"Understood. It is now the **Nightmare's** turn, and obviously it's still very angry at **Barry**. Raising its devilish hooves, the beast charges towards you. You leap off the cliff at the last second, holding onto the rope with all your might. The **Nightmare** attempts to halt its attack the moment it sees its target falling. It makes a **DEX save** to see if it can successfully stop itself. Ack, it rolled a 20, and the creature goes tumbling off the cliff and into the vast dark below."_
+
+ **Why did the Nightmare have to make the save instead of Barry, who was also at risk?**  
  In this example, the **Nightmare** was far more at risk than its human opponent, because:   
  - As an enthralled beast, it was likely not capable of creative thinking or advanced problem solving.
  - One of its primary features is its relative bulk and speed, and it is likely that these properties would make a sudden stop quite difficult.
  - Accordingly, there were no situational or mechanical benefits that could provide any advantage to the **Nightmare** in this scenario.
 
- Conversely, **Boroth** was the least at risk of the two:
+ Conversely, **Barry** was the least at risk of the two:
  - As a former hunter, he had already firmly established his ability to do things of this nature.
- - **Esther's PC** had tied the rope around a tree, using herself as a ballast. This provided a situational advantage.
+ - **Esther** had tied the rope around a tree, using herself as a ballast. This provided a clear *situational* advantage.
 
- If he had been injured or had less time to prepare, it would be conceivable to ask for a **STR save** to see if he could hold on to the rope, but only if there had been no opponent.
+ If **Barry** had been injured or had less time to prepare, it would be conceivable to ask for a **STR save** to see if he could hold on to the rope, but only if there had been no opponent.
+
 </details>
 
 ## How is damage awarded outside of combat?
