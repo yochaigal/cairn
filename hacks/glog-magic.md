@@ -27,7 +27,7 @@ _**Barry** has 4 free inventory slots, giving him 4 **MD**. He selects the spell
 
 |                            ||
 | ---------------------------||
-| D: [dice] minutes | R: Self |
+| D: [dice] minutes | R: self |
 
 _Creates [dice] duplicates of you, which overlap with you and confuse attackers. Any time you’re attacked, the attack has an equal chance to hit you or any of your images. If an image is hit, it is destroyed._
 
