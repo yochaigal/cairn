@@ -3,6 +3,7 @@ title: "Herbalist"
 layout: default
 nav_exclude: true
 parent: Backgrounds
+grand_parent: Hacks
 ---
 
 ![](https://aboleth-overlords.com/wp-content/uploads/2020/07/herbalist-1024x714.jpg)

@@ -3,6 +3,7 @@ title: "Smuggler"
 layout: default
 nav_exclude: true
 parent: Backgrounds
+grand_parent: Hacks
 ---
 
 ![](http://2.bp.blogspot.com/-l-CPnqXcHDY/ToNfhCyoR7I/AAAAAAAAAvQ/YKzWl9nrVr0/s1600/smugglers.jpg)

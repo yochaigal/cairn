@@ -4,6 +4,7 @@ date: "2021-03-20"
 layout: default
 nav_exclude: true
 parent: Backgrounds
+grand_parent: Hacks
 ---
 
 ![](https://www.pngitem.com/pimgs/m/510-5108906_open-book-clip-art-medieval-medieval-lawyer-hd.png)

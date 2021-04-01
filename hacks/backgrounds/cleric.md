@@ -3,6 +3,7 @@ title: "Cleric"
 layout: default
 nav_exclude: true
 parent: Backgrounds
+grand_parent: Hacks
 ---
 
 ![Clerics](https://aboleth-overlords.com/wp-content/uploads/2020/06/cleric.png)

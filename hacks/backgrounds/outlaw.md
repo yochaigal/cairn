@@ -3,6 +3,7 @@ title: "Outlaw"
 layout: default
 nav_exclude: true
 parent: Backgrounds
+grand_parent: Hacks
 ---
 
 ![](https://www.captivatingcriminalitynetwork.net/uploads/5/1/3/5/51358659/screenshot-20170608-115256-11336_orig.jpg)

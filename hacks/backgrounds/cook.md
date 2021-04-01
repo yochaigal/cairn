@@ -3,6 +3,7 @@ title: "Cook"
 layout: default
 nav_exclude: true
 parent: Backgrounds
+grand_parent: Hacks
 ---
 
 ![Medieval cook](https://aboleth-overlords.com/wp-content/uploads/2020/06/medievalCook.jpg)

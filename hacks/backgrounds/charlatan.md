@@ -3,6 +3,7 @@ title: "Charlatan"
 layout: default
 nav_exclude: true
 parent: Backgrounds
+grand_parent: Hacks
 ---
 
 ![](https://i2.wp.com/aboleth-overlords.com/wp-content/uploads/2020/06/charlatan.jpg?fit=660%2C548&ssl=1)
