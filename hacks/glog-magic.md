@@ -43,7 +43,7 @@ _Creates [dice] duplicates of you, which overlap with you and confuse attackers.
 Creating a **Grimoire** is time-consuming and expensive. You will need:
 - A single Scroll, which is sacrificed through the process.
 - 200gp in inks, as well as a blank book.
-- 6 hours in the light of a full moon. You can invest reduced by [sum] hours.
+- 6 hours in the light of a full moon. You can reduce this time by [sum] hours.
 - The spell contained within the Scroll becomes the first recorded spell.
 
 #### Mishaps (roll 1d6 and add lowest double rolled)
