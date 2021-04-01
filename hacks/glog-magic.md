@@ -18,10 +18,10 @@ nav_order: 1
 3. Roll [dice]. Any that show 1-3 return to your **Casting Pool** for future spell  Any that show a 4-6 are removed from play, and you gain one [**Fatigue**](/cairn-srd/#rules) for each.
 
 #### **Spellbooks**
-You may copy spells found in Spellbooks to this **Grimoire** by [figure this out later].
+You may copy spells found in Spellbooks to this **Grimoire**. This costs 50gp for the gold inks and destroys the Spellbook in the process.
 
 #### **Scrolls**
-Scrolls contain a single spell and are destroyed after use. You may invest magic dice to enhance a spell [figure this out later].
+Scrolls contain a single spell and are destroyed after use. You may invest magic dice to enhance the spell.
 
 #### **Example**
 _**Barry** has 4 free inventory slots, giving him 4 **MD**. He selects the spell **Mirror Image** (see below), and decides to invest 2 of his **MD**. That means he can create two duplicates that last for two minutes. He rolls: a 2 and a 5. He gains one **Fatigue**, and 1 **MD** returns to his pool, with **3** remaining._
