@@ -22,7 +22,7 @@ These rules are _not_ intended as "drop-in" toolbox for casting GLOG spells. Mos
 3. Roll [dice]. A die that shows a result of 4-6 is removed from play and you gain one [**Fatigue**](/cairn-srd/#rules) for each.
 
 ### **Example**
-_**Barry** has 4 free inventory slots, giving him 4 **MD**. He selects the spell **Mirror Image** (see below), and decides to invest 2 of his **MD**. That means he can create two duplicates that last for two minutes. He rolls: a 2 and a 5. He gains one **Fatigue**, and 1 **MD** returns to his pool, with **3** remaining._
+_**Barry** has 4 free inventory slots, giving him 4 **MD**. He selects the spell **Mirror Image** (see below), and decides to invest 3 of his **MD**. That means he can create three duplicates that last for three minutes each. He rolls: a 2 and a 5. He gains one **Fatigue**, and 1 **MD** returns to his pool, with **3** remaining._
 
 ### [ **Mirror Images** ]
 
@@ -49,7 +49,7 @@ Creating a **Grimoire** is time-consuming and expensive. You will need:
 - 6 hours in the light of a full moon. You can invest reduced by [sum] hours.
 - The spell contained within the Scroll will become the first recorded spell.
 
-#### Mishaps (roll 1d6 and add highest **MD** lost.)
+#### Mishaps (roll 1d6 and add lowest double rolled)
 
 ||                 |
 | ---- | ---- |
