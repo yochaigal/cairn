@@ -37,7 +37,9 @@ _Creates [dice] duplicates of you, which overlap with you and confuse attackers.
 - Scrolls contain a single spell and are destroyed after a single use. Otherwise, they work exactly the same as spells recorded in your **Grimoire**.
 
 ### **Copying Spells**
-You may copy spells found in Scrolls to your **Grimoire**. This costs 50gp for the gold inks and takes 6 hours to complete, reduced by [sum] hours. The Scroll is destroyed in the process.
+- You may copy spells found in Scrolls to your **Grimoire**.
+- It costs 50gp for the gold inks and takes 6 hours to complete, reduced by [sum] hours.
+- The Scroll is destroyed in the process.
 
 ### **Creating a Grimoire**
 Creating a **Grimoire** is time-consuming and expensive. You will need:
