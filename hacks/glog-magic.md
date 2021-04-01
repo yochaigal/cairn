@@ -46,3 +46,28 @@ Creating a **Grimoire** is time-consuming and expensive. You will need:
 - 200gp in inks, as well as a blank book.
 - 6 hours in the light of a full moon. You can invest reduced by [sum] hours.
 - The spell contained within the Scroll will become the first recorded spell.
+
+
+## Optional Mishaps
+
+### Mishaps
+
+|**1d6**|                 |
+| ---- | ---- |
+|1|MD only return to your pool on a 1-2 for 24hrs.|
+|2|Take 1d6 damage.|
+|3|Random mutation for 1d6 rounds, then Save. Permanent if you fail.|
+|4|Lose 1 MD for 24 hours.|
+|5|Agony for 1d6 rounds.|
+|6|Cannot cast spells for 1d6 hours.|
+
+### Dooms
+
+|**1d6**|                 |
+| ---- | ---- |
+|1| Lose the ability to cast spells for 1 day.|
+|2 | Lose the ability to cast spells for 3 days.|
+|3 | Lose the ability to cast spells permanently.|
+
+author: [Yochai Gal](https://newschoolrevolution.com)
+source: [Many Rats on Sticks by Skerples](https://drive.google.com/file/d/1wOAkBOCUSjnthMEnIsPVT1LSOCQzd88j/view?pli=1)
