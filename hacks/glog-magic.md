@@ -7,7 +7,7 @@ nav_order: 1
 
 # GLOG Magic Hack
 ---
-
+To use [GLOG Magic](http://goblinpunch.blogspot.com/2016/09/the-glog-wizards.html) rules in Cairn, consider the following player rules:
 - You carry a **Grimoire** worth 300gp. It is [bulky](cairn-srd/#inventory), and contains a single random spell.
 - You have a number of **Magic Dice** equal to available [inventory slots](cairn-srd/#inventory). This is referred to as your **Casting Pool**.
 - See this [**list of GLOG Spells**](https://drive.google.com/file/d/1OTVy-5Vm44xhRmFO4tKFCJto-_cw0xYtD8lNj8AsSJY/view?pli=1).
