@@ -5,8 +5,10 @@ parent: Resources
 nav_order: 1
 nav_exclude: true
 ---
+
 # Frequently Asked Questions
 ---
+
 ## Introduction
 Below are a few answers to some of the most commonly asked questions from folks new to Cairn.  
 Please refer to the [SRD](/cairn-srd/) while reading the following, particularly with regards to [**saves**](/cairn-srd/#rules) and [combat](/cairn-srd/#combat).
