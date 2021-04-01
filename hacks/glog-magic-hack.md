@@ -12,16 +12,13 @@ nav_exclude: true
 You carry a **Grimoire**, which takes up two slots in inventory.
 You have a number of **Magic Dice** equal to empty spots in your inventory. This is called your **Casting Pool**.
 
-### To cast a spell:
-1. Pick a spell from your **Grimoire**.
-2. Choose how many **MD** from your **Casting Pool** you want to invest into the spell. The number of dice will be referenced with [dice].
-3. Roll the invested [dice]. Certain Spells will refer to the sum of the dice with [sum]. Others will denote range with **R** and duration with **D**.
-4. [Dice] that show 1-3 return to your **Casting Pool** for future Spells.
-5. [Dice] that show a 4-6 are removed from play, and you gain one [**Fatigue**](/cairn-srd/#rules) for each.
-
+### Casting Spells:
+1. Pick a spell from your **Grimoire**. They may denote range with **R** and duration with **D**.
+2. Choose how many **MD** from your **Casting Pool** you want to invest into the spell. The number of dice will be referenced with [dice]. Certain Spells will refer to the sum of the dice with [sum].
+3. Roll [dice]. Any that show 1-3 return to your **Casting Pool** for future Spells. Any that show a 4-6 are removed from play, and you gain one [**Fatigue**](/cairn-srd/#rules) for each.
 
 #### Spellbooks
-You may copy spells found in Spellbooks to this **Grimoire** by _
+You may copy spells found in Spellbooks to this **Grimoire** by [figure this out later].
 
 
 #### Scrolls
