@@ -11,7 +11,7 @@ To use [GLOG Magic](http://goblinpunch.blogspot.com/2016/09/the-glog-wizards.htm
 - You carry a **Grimoire** worth 300gp. It is [bulky](cairn-srd/#inventory), and contains a single [random spell](https://drive.google.com/file/d/1OTVy-5Vm44xhRmFO4tKFCJto-_cw0xYtD8lNj8AsSJY/view?pli=1).
 - You have a number of **Magic Dice** equal to available [inventory slots](cairn-srd/#inventory).
 - Treat all Spellbooks as [Scrolls](/hacks/glog-magic/#scrolls).
-- If you get doubles of any kind, something has gone very wrong. Roll 1d6 on the [**Mishaps**](https://cairnrpg.com/hacks/glog-magic/#mishaps-sum-of-doubles-rolled) table, adding the double rolled. If there are multiple doubles, choose the lowest.
+- If you get doubles of any kind, something has gone very wrong. Roll 1d6 on the [**Mishaps**](https://cairnrpg.com/hacks/glog-magic/#mishaps-sum-of-doubles-rolled) table and add whichever double was rolled. If there are multiple doubles choose the lowest.
 
 **Note:**  
 These rules are _not_ intended as "drop-in" toolbox for casting GLOG spells. Most spells in Cairn are simply tools.
