@@ -39,7 +39,7 @@ You may copy spells found in Scrolls to your **Grimoire**. This costs 50gp for t
 
 #### **Creating a Grimoire**
 Creating a **Grimoire** is time-consuming and expensive. You will need:
-- A single Scroll which is sacrificed through the process.
+- A single Scroll, which is sacrificed through the process.
 - 200gp in inks.
 - 6 hours in the light of a full moon.
 
