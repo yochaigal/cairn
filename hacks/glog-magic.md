@@ -9,13 +9,13 @@ nav_order: 1
 ---
 To use [GLOG Magic](http://goblinpunch.blogspot.com/2016/09/the-glog-wizards.html) rules in Cairn, consider the following player rules:
 - You carry a **Grimoire** worth 300gp. It is [bulky](cairn-srd/#inventory), and contains a single random spell.
-- You have a number of **Magic Dice** equal to available [inventory slots](cairn-srd/#inventory). This is referred to as your **Casting Pool**.
+- You have a number of **Magic Dice** equal to available [inventory slots](cairn-srd/#inventory).
 - See this [**list of GLOG Spells**](https://drive.google.com/file/d/1OTVy-5Vm44xhRmFO4tKFCJto-_cw0xYtD8lNj8AsSJY/view?pli=1).
 - Treat all Spellbooks as [Scrolls](/hacks/glog-magic/#scrolls).
 
 ### Casting Spells:
 1. Pick a spell from your **Grimoire**. They may denote the spell's duration with **D** and range with **R**.
-2. Choose how many **MD** from your **Casting Pool** you want to invest into the spell. Spells will refer to these as [dice]. Some spells will refer to the sum of the dice with [sum].
+2. Choose how many **MD** you want to invest into the spell. Spells will refer to these as [dice]. Some spells will refer to the sum of the dice with [sum].
 3. Roll [dice]. Any that show 1-3 return to your **Casting Pool** for future spell  Any that show a 4-6 are removed from play, and you gain one [**Fatigue**](/cairn-srd/#rules) for each.
 
 ### **Example**
