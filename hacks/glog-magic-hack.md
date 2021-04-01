@@ -9,8 +9,8 @@ nav_exclude: true
 # GLOG Magic Hack
 ---
 
-You carry a **Grimoire**, which takes up two slots in inventory.
-You have a number of **Magic Dice** equal to empty spots in your inventory. This is called your **Casting Pool**.
+- You carry a **Grimoire**, which takes up two slots in inventory.
+- You have a number of **Magic Dice** equal to remaining available inventory slots. This is referred to as your **Casting Pool**.
 
 ### Casting Spells:
 1. Pick a spell from your **Grimoire**. They may denote range with **R** and duration with **D**.
