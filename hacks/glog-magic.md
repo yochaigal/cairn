@@ -47,29 +47,5 @@ Creating a **Grimoire** is time-consuming and expensive. You will need:
 - The spell contained within the Scroll will become the first recorded spell.
 
 
-## Optional Mishaps Rules
-These optional rules make magic more dangerous.
-- Rolling doubles generates a Mishap.
-- Rolling triples generates a Doom.
-
-### Mishaps (roll 1d6)
-
-||                 |
-| ---- | ---- |
-|1|MD only return to your pool on a 1-2 for 24hrs.|
-|2|Take 1d6 damage.|
-|3|Gain a random mutation for 1d6 rounds, then make a STR save. The change is permanent if you fail.|
-|4|Lose 1 MD for 24 hours.|
-|5|Agony for 1d6 rounds.|
-|6|Cannot cast spells for 1d6 hours.|
-
-### Dooms (roll 1d6)
-
-||                 |
-| ---- | ---- |
-|1| Lose the ability to cast spells for 1 day.|
-|2 | Lose the ability to cast spells for 3 days.|
-|3 | Lose the ability to cast spells permanently.|
-
 author: [Yochai Gal](https://newschoolrevolution.com)  
 source: [Many Rats on Sticks by Skerples](https://drive.google.com/file/d/1wOAkBOCUSjnthMEnIsPVT1LSOCQzd88j/view?pli=1)
