@@ -36,7 +36,6 @@ _Creates [dice] duplicates of you, which overlap with you and confuse attackers.
 ### **Scrolls**
 - Scrolls contain a single spell and are destroyed after a single use. Otherwise, they work exactly the same as spells recorded in your **Grimoire**.
 
-
 ### **Copying Spells**
 You may copy spells found in Scrolls to your **Grimoire**. This costs 50gp for the gold inks and takes 6 hours to complete, reduced by [sum] hours. The Scroll is destroyed in the process.
 
@@ -48,22 +47,25 @@ Creating a **Grimoire** is time-consuming and expensive. You will need:
 - The spell contained within the Scroll will become the first recorded spell.
 
 
-## Optional Mishaps
+## Optional Mishaps Rules
+These optional rules make magic more dangerous.
+- Rolling doubles generates a Mishap.
+- Rolling triples generates a Doom.
 
-### Mishaps
+### Mishaps (roll 1d6)
 
-|**1d6**|                 |
+||                 |
 | ---- | ---- |
 |1|MD only return to your pool on a 1-2 for 24hrs.|
 |2|Take 1d6 damage.|
-|3|Random mutation for 1d6 rounds, then Save. Permanent if you fail.|
+|3|Gain a random mutation for 1d6 rounds, then make a STR save. The change is permanent if you fail.|
 |4|Lose 1 MD for 24 hours.|
 |5|Agony for 1d6 rounds.|
 |6|Cannot cast spells for 1d6 hours.|
 
-### Dooms
+### Dooms (roll 1d6)
 
-|**1d6**|                 |
+||                 |
 | ---- | ---- |
 |1| Lose the ability to cast spells for 1 day.|
 |2 | Lose the ability to cast spells for 3 days.|
