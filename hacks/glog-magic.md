@@ -11,7 +11,7 @@ To use [GLOG Magic](http://goblinpunch.blogspot.com/2016/09/the-glog-wizards.htm
 - You carry a **Grimoire** worth 300gp. It is [bulky](cairn-srd/#inventory), and contains a single [random spell](https://drive.google.com/file/d/1OTVy-5Vm44xhRmFO4tKFCJto-_cw0xYtD8lNj8AsSJY/view?pli=1).
 - You have a number of **Magic Dice** equal to available [inventory slots](cairn-srd/#inventory).
 - Treat all Spellbooks as [Scrolls](/hacks/glog-magic/#scrolls).
-- If you get doubles of any kind, combine them and look at the table below for the resulting Mishap.
+- If you get doubles of any kind, something has gone very wrong. Roll 1d6 on the [**Mishaps**](https://cairnrpg.com/hacks/glog-magic/#mishaps-sum-of-doubles-rolled) table, adding the double rolled. If there are multiple doubles, choose the lowest.
 
 **Note:**  
 These rules are _not_ intended as "drop-in" toolbox for casting GLOG spells. Most spells in Cairn are simply tools.
@@ -49,7 +49,7 @@ Creating a **Grimoire** is time-consuming and expensive. You will need:
 - 6 hours in the light of a full moon. You can invest reduced by [sum] hours.
 - The spell contained within the Scroll will become the first recorded spell.
 
-#### Mishaps (sum of doubles rolled)
+#### Mishaps (roll 1d6 and add highest **MD** lost.)
 
 ||                 |
 | ---- | ---- |
@@ -65,6 +65,8 @@ Creating a **Grimoire** is time-consuming and expensive. You will need:
 |10 |You suffer horrible arcane burns; lose 1d4 WIL. From now on you can add +1 **MD** to a spell's [dice]; on a result of 4-6 you lose 1 **WIL**.|
 |11 |The spell backfires; you lose 1 inventory slot (scratch it off your sheet). You are now surrounded by a magical essence that provides +1 Armor (limits still apply).|
 |12 |Arcane energies wrack your body as a piece of your soul is transferred into your **Grimoire**. You lose half your WIL (rounded down). Your **Grimoire** now appears in any form you wish and takes no space in inventory. It cannot be destroyed except by your own death.|
+
+
 
 
 author: [Yochai Gal](https://newschoolrevolution.com)  
