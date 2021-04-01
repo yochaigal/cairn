@@ -71,5 +71,5 @@ These optional rules make magic more dangerous.
 |2 | Lose the ability to cast spells for 3 days.|
 |3 | Lose the ability to cast spells permanently.|
 
-author: [Yochai Gal](https://newschoolrevolution.com)
+author: [Yochai Gal](https://newschoolrevolution.com)  
 source: [Many Rats on Sticks by Skerples](https://drive.google.com/file/d/1wOAkBOCUSjnthMEnIsPVT1LSOCQzd88j/view?pli=1)
