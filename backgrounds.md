@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Backgrounds
-nav_order: 7
+parent: Hacks
+nav_order: 2
 nav_exclude: true
 has_children: true
 ---
