@@ -20,3 +20,14 @@ To cast a spell:
 5. [Dice] that show a 4-6 are removed from play, and you gain one fatigue for each.
 
 Scrolls exist, and
+
+## Example
+**Mirror Image**  
+
+|                                 |||
+| ------------------------------- |||
+| R: 0 | T: Self | D: 10 minutes |
+
+---
+You create 1d4+{dice] illusory images of yourself, which move as you move and always stay within 5' of you. They are constantly stepping through each other, so that it is impossible to tell which is which. When an enemy attacks you, roll to see if they hit you or an image. An image vanishes as soon as it
+suffers a solid impact (a blow from a mace, but also a slap). Area effects such as a dragon's breath will cause all images to instantly vanish (and you'll take fire breath damage, naturally).
