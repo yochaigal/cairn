@@ -13,7 +13,7 @@ To use [GLOG Magic](http://goblinpunch.blogspot.com/2016/09/the-glog-wizards.htm
 - Treat all Spellbooks as [Scrolls](/hacks/glog-magic/#scrolls).
 
 **Note:**  
-These rules are _not_ intended as "drop-in" toolbox for casting GLOG spells. There are no magic mishaps in Cairn, and most spells are simply tools. 
+These rules are _not_ intended as "drop-in" toolbox for casting GLOG spells. There are no magic mishaps in Cairn, and most spells are simply tools.
 
 ### Casting Spells:
 1. Pick a spell from your **Grimoire**. They may denote the spell's duration with **D** and range with **R**.
@@ -25,8 +25,8 @@ _**Barry** has 4 free inventory slots, giving him 4 **MD**. He selects the spell
 
 ### [ **Mirror Images** ]
 
-|                                 ||
-| ------------------------------- ||
+|                            ||
+| ---------------------------||
 | D: [dice] minutes | R: Self |
 
 _Creates [dice] duplicates of you, which overlap with you and confuse attackers. Any time you’re attacked, the attack has an equal chance to hit you or any of your images. If an image is hit, it is destroyed._
