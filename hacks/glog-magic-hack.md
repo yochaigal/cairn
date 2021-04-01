@@ -26,7 +26,6 @@ Scrolls contain a single spell and are destroyed after use. You may invest magic
 
 
 ## Example [GLOG Spells](https://drive.google.com/file/d/1OTVy-5Vm44xhRmFO4tKFCJto-_cw0xYtD8lNj8AsSJY/view?pli=1)
----
 
 ### [ Mirror Images ]
 
