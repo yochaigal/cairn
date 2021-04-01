@@ -11,15 +11,16 @@ nav_exclude: true
 Spellbooks do not exist. Only your **Grimoire**, which takes up two slots in inventory.
 You have a number of **Magic Dice** equal to empty spots in your inventory. This is called your **Casting Pool**.
 
-To cast a spell:
+## To cast a spell:
 1. Pick a spell from your **Grimoire**.
 2. Choose how many **MD** from your **Casting Pool** you want to invest into the spell. The number of dice will be referenced with [dice].
 3. Roll the invested [dice]. Certain Spells will refer to the sum of the dice with [sum]. Others will denote range with **R** and duration with **D**.
 4. [Dice] that show 1-3 return to your **Casting Pool** for future Spells.
 5. [Dice] that show a 4-6 are removed from play, and you gain one [**Fatigue**](/cairn-srd/#rules) for each.
 
-## Example from [GLOG Spells](https://drive.google.com/file/d/1OTVy-5Vm44xhRmFO4tKFCJto-_cw0xYtD8lNj8AsSJY/view?pli=1)
-**Mirror Images**  
+#### Example from [GLOG Spells](https://drive.google.com/file/d/1OTVy-5Vm44xhRmFO4tKFCJto-_cw0xYtD8lNj8AsSJY/view?pli=1)
+
+### [ Mirror Images ]
 
 |                                 ||
 | ------------------------------- ||
