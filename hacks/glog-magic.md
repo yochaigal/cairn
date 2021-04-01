@@ -31,16 +31,16 @@ _**Barry** has 4 free inventory slots, giving him 4 **MD**. He selects the spell
 
 _Creates [dice] duplicates of you, which overlap with you and confuse attackers. Any time you’re attacked, the attack has an equal chance to hit you or any of your images. If an image is hit, it is destroyed._
 
-### Advanced Rules
+## Advanced Rules
 
-#### **Scrolls**
+### **Scrolls**
 - Scrolls contain a single spell and are destroyed after a single use. Otherwise, they work exactly the same as spells recorded in your **Grimoire**.
 
 
-#### **Copying Spells**
+### **Copying Spells**
 You may copy spells found in Scrolls to your **Grimoire**. This costs 50gp for the gold inks and takes 6 hours to complete, reduced by [sum] hours. The Scroll is destroyed in the process.
 
-#### **Creating a Grimoire**
+### **Creating a Grimoire**
 Creating a **Grimoire** is time-consuming and expensive. You will need:
 - A single Scroll, which is sacrificed through the process.
 - 200gp in inks, as well as a blank book.
