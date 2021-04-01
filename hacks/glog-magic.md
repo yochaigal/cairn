@@ -11,11 +11,11 @@ To use [GLOG Magic](http://goblinpunch.blogspot.com/2016/09/the-glog-wizards.htm
 - You carry a **Grimoire** worth 300gp. It is [bulky](cairn-srd/#inventory), and contains a single [random spell](https://drive.google.com/file/d/1OTVy-5Vm44xhRmFO4tKFCJto-_cw0xYtD8lNj8AsSJY/view?pli=1).
 - You have a number of **Magic Dice** equal to available [inventory slots](cairn-srd/#inventory).
 - Treat all Spellbooks as [Scrolls](/hacks/glog-magic/#scrolls).
-- If you get doubles of any kind, something has gone very wrong. Roll 1d6 on the [**Mishaps**](https://cairnrpg.com/hacks/glog-magic/#mishaps-sum-of-doubles-rolled) table and add whichever double was rolled. If there are multiple doubles choose the lowest.
+- If you get doubles of any kind, something has gone very wrong. Roll 1d6 on the [**Mishaps**](https://cairnrpg.com/hacks/glog-magic/#mishaps-sum-of-doubles-rolled) table and add whichever double was rolled. If there are multiple doubles, choose the lowest.
 
 ### Casting Spells:
 1. Pick a spell from your **Grimoire**. They may denote the spell's duration with **D** and range with **R**.
-2. Choose how many **MD** you want to invest into the spell. Spells will refer to these as [dice]. Some spells will refer to the sum of the dice with [sum].
+2. Choose how many **MD** (maximum four) you want to invest into the spell. Spells will refer to these as [dice]. Some spells will refer to the sum of the dice with [sum].
 3. Roll [dice]. For each die that shows a 4-6, you gain one [Fatigue](/cairn-srd/#rules).
 
 ### **Example**
@@ -43,15 +43,14 @@ _Creates [dice] duplicates of you, which overlap with you and confuse attackers.
 Creating a **Grimoire** is time-consuming and expensive. You will need:
 - A single Scroll, which is sacrificed through the process.
 - 200gp in inks, as well as a blank book.
-- 6 hours in the light of a full moon. You can reduce this time by [sum] hours.
+- 6 hours of undisturbed labor in the light of a full moon. Afterwards, you are [deprived](https://cairnrpg.com/cairn-srd/#rules).
 - The spell contained within the Scroll becomes the first recorded spell.
 
 #### Mishaps (roll 1d6 and add lowest double rolled)
 
 ||                 |
 | ---- | ---- |
-|1|**MD** only return to your pool on a 1-2 for 24 hours.|
-|2|You cannot cast spells for 1d6 hours. |
+|2|**MD** only return to your pool on a 1-2 for 24 hours.|
 |3|Gain an extra Fatigue from the results of the spell cast.|
 |4|You lose the ability to cast spells for 24 hours.|
 |5|The Spell's effects are reversed; the Warden will tell you how. |
