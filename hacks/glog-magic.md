@@ -45,13 +45,13 @@ Creating a **Grimoire** is time-consuming and expensive. You will need:
 - 6 hours of undisturbed labor in the light of a full moon. Afterwards, you are [deprived](https://cairnrpg.com/cairn-srd/#rules).
 - The spell contained within the Scroll becomes the first recorded spell.
 
-#### Mishaps (roll 1d6 and add lowest double rolled)
+#### Mishaps (1d6 + lowest double rolled)
 
 ||                 |
 | ---- | ---- |
 |2|For the next 24 hours, when casting spells you gain a Fatigue on a roll of 3-6.|
 |3|Gain an extra Fatigue from the results of the spell cast.|
-|4|You lose the ability to cast spells for 24 hours.|
+|4|You have a magical sickness. The next time you roll multiple doubles, take the highest.|
 |5|The Spell's effects are reversed; the Warden will tell you how. |
 |6|You are [deprived](https://cairnrpg.com/cairn-srd/#rules). After recovery, roll 1d6. If the total is higher than your max HP, take the new result.|
 |7|You take 1d4 WIL damage when casting spells for the next 24 hours. Afterwards roll 3d6. If the total is higher than your max WIL, take the new result.|
