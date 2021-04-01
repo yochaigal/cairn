@@ -47,5 +47,26 @@ Creating a **Grimoire** is time-consuming and expensive. You will need:
 - The spell contained within the Scroll will become the first recorded spell.
 
 
+## Optional Mishaps Rules
+If you get doubles of any kind, combine them and look at the table below for the resulting Mishap.
+
+### Mishaps (sum of doubles rolled)
+
+||                 |
+| ---- | ---- |
+|1|**MD** only return to your pool on a 1-2 for 24 hours.|
+|2|You cannot cast spells for 1d6 hours. |
+|3|Gain an extra Fatigue from the results of the spell cast.|
+|4|You lose the ability to cast spells for 24 hours.|
+|5|The Spell's effects are reversed; the Warden will tell you how. |
+|6|You are [deprived](https://cairnrpg.com/cairn-srd/#rules). After recovery, roll 1d6. If the total is higher than your max HP, take the new result.|
+|7|You take 1d4 **WIL** damage when casting spells for the next 24 hours. Afterwards roll 3d6. If the total is higher than your max WIL, take the new result.|
+|8 |Your **Grimoire** is damaged and unusable. Creating a new **Grimoire** from its remains restores the original spells as well.|
+|9 |You become insubstantial for 1d4 hours as your spirit leaves your body, which remains unconscious. You can fly and pass through walls, but not touch anything. Also, no one can see or hear you through mundane means.|
+|10 |You suffer horrible arcane burns; lose 1d4 WIL. From now on you can add +1 **MD** to a spell's [dice]; on a result of 4-6 you lose 1 **WIL**.|
+|11 |The spell backfires; you lose 1 inventory slot (scratch it off your sheet). You are now surrounded by a magical essence that provides +1 Armor (limits still apply).|
+|12 |Arcane energies wrack your body as a piece of your soul is transferred into your **Grimoire**. You lose half your WIL (rounded down). Your **Grimoire** now appears in any form you wish and takes no space in inventory. It cannot be destroyed except by your own death.|
+
+
 author: [Yochai Gal](https://newschoolrevolution.com)  
 source: [Many Rats on Sticks by Skerples](https://drive.google.com/file/d/1wOAkBOCUSjnthMEnIsPVT1LSOCQzd88j/view?pli=1)
