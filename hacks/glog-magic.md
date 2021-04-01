@@ -16,7 +16,7 @@ To use [GLOG Magic](http://goblinpunch.blogspot.com/2016/09/the-glog-wizards.htm
 ### Casting Spells:
 1. Pick a spell from your **Grimoire**. They may denote the spell's duration with **D** and range with **R**.
 2. Choose how many **MD** you want to invest into the spell. Spells will refer to these as [dice]. Some spells will refer to the sum of the dice with [sum].
-3. Roll [dice]. A die that shows a result of 4-6 is removed from play and you gain one [Fatigue](/cairn-srd/#rules) for each.
+3. Roll [dice]. For each die that shows a 4-6, you gain one [Fatigue](/cairn-srd/#rules).
 
 ### **Example**
 _**Barry** has 4 free inventory slots, giving him 4 **MD**. He selects the spell **Mirror Image** (see below), and decides to invest 3 of his **MD**. That means he can create three duplicates that last for three minutes each. He rolls: double 2s and a 5. He gains one Fatigue, and 2 **MD** returns to his pool, with **1** remaining. However, he also rolled doubles, meaning that he must roll on the [**Mishaps**](https://cairnrpg.com/hacks/glog-magic/#mishaps-sum-of-doubles-rolled) table as well. He rolls 1d6 and adds 2 from the double rolled to the result._
