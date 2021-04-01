@@ -11,9 +11,10 @@ To use [GLOG Magic](http://goblinpunch.blogspot.com/2016/09/the-glog-wizards.htm
 - You carry a **Grimoire** worth 300gp. It is [bulky](cairn-srd/#inventory), and contains a single [random spell](https://drive.google.com/file/d/1OTVy-5Vm44xhRmFO4tKFCJto-_cw0xYtD8lNj8AsSJY/view?pli=1).
 - You have a number of **Magic Dice** equal to available [inventory slots](cairn-srd/#inventory).
 - Treat all Spellbooks as [Scrolls](/hacks/glog-magic/#scrolls).
+- If you get doubles of any kind, combine them and look at the table below for the resulting Mishap.
 
 **Note:**  
-These rules are _not_ intended as "drop-in" toolbox for casting GLOG spells. There are no magic mishaps in Cairn, and most spells are simply tools.
+These rules are _not_ intended as "drop-in" toolbox for casting GLOG spells. Most spells in Cairn are simply tools.
 
 ### Casting Spells:
 1. Pick a spell from your **Grimoire**. They may denote the spell's duration with **D** and range with **R**.
@@ -48,11 +49,7 @@ Creating a **Grimoire** is time-consuming and expensive. You will need:
 - 6 hours in the light of a full moon. You can invest reduced by [sum] hours.
 - The spell contained within the Scroll will become the first recorded spell.
 
-
-## Optional Mishaps Rules
-If you get doubles of any kind, combine them and look at the table below for the resulting Mishap.
-
-### Mishaps (sum of doubles rolled)
+#### Mishaps (sum of doubles rolled)
 
 ||                 |
 | ---- | ---- |
