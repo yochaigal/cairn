@@ -37,7 +37,7 @@ Scrolls contain a single spell and are destroyed after a single use. Otherwise, 
 #### **Copying Spells**
 You may copy spells found in Scrolls to your **Grimoire**. This costs 50gp for the gold inks and takes 6 hours to complete, reduced by [sum] hours. The Spellbook is destroyed in the process.
 
-##### **Creating a Grimoire**
+#### **Creating a Grimoire**
 Creating a **Grimoire** is time-consuming and expensive. You will need:
 - A single Scroll which is sacrificed through the process.
 - 200gp in inks.
