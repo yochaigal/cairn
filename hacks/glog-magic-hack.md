@@ -17,7 +17,7 @@ To cast a spell:
 2. Choose how many **MD** from your **Casting Pool** you want to invest into the spell. The number of dice will be referenced with [dice].
 3. Roll the invested [dice]. Certain Spells will refer to the sum of the dice with [sum].
 4. [Dice] that show 1-3 return to your **Casting Pool** for future Spells.
-5. [Dice] that show a 4-6 are removed from play, and you gain one **Fatigue** for each.
+5. [Dice] that show a 4-6 are removed from play, and you gain one [**Fatigue**](/cairn-srd/#rules) for each.
 
 Scrolls exist, and
 
