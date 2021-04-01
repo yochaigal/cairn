@@ -14,7 +14,7 @@ nav_order: 1
 - Treat all Spellbooks as [Scrolls](/hacks/glog-magic/#scrolls).
 
 ### Casting Spells:
-1. Pick a spell from your **Grimoire**. They may denote range with **R** and duration with **D**.
+1. Pick a spell from your **Grimoire**. They may denote the spell's duration with **D** and range with **R**.
 2. Choose how many **MD** from your **Casting Pool** you want to invest into the spell. The number of dice will be referenced with [dice]. Certain Spells will refer to the sum of the dice with [sum].
 3. Roll [dice]. Any that show 1-3 return to your **Casting Pool** for future spell  Any that show a 4-6 are removed from play, and you gain one [**Fatigue**](/cairn-srd/#rules) for each.
 
@@ -27,7 +27,7 @@ _**Barry** has 4 free inventory slots, giving him 4 **MD**. He selects the spell
 | ------------------------------- ||
 | D: [dice] minutes | R: Self |
 
-Creates [dice] duplicates of you, which overlap with you and confuse attackers. Any time you’re attacked, the attack has an equal chance to hit you or any of your images. If an image is hit, it is destroyed.
+_Creates [dice] duplicates of you, which overlap with you and confuse attackers. Any time you’re attacked, the attack has an equal chance to hit you or any of your images. If an image is hit, it is destroyed._
 
 ### Advanced Rules
 
