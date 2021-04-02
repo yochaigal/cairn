@@ -7,9 +7,9 @@ nav_order: 2
 
 
 # GLOG Spells
-- [sum] is a number equal to the sum of rolled **Magic Dice**
-- An item is an object able to be lifted with one hand
-- An object is anything up to human size
+- [dice] are equal to **Magic Dice** invested in the spell.
+- [sum] is a number equal to the sum of rolled **Magic Dice**.
+- An **item** is anything you can lift with one hand, and an **object** is anything up to human sized.
 - Unless otherwise noted, all spells with ongoing effects last up to [sum]×10 minutes, and have a range of up to 40 feet.
 
 **Adhere:** [dice] objects is covered in extremely sticky slime.      
