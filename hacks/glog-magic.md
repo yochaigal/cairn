@@ -12,7 +12,7 @@ To use [GLOG Magic](http://goblinpunch.blogspot.com/2016/09/the-glog-wizards.htm
 - Treat any discovered Spellbooks as [Scrolls](/hacks/glog-magic/#scrolls).
 
 ### Casting Spells:
-1. Pick a spell from your **Grimoire**. The description may denote the spell's duration with **D** and range with **R**.
+1. Holding your **Grimoire** in both hands, choose a spell. The description may denote the spell's duration with **D** and range with **R**.
 2. You have an amount of **Magic Dice** (d6) equal to the amount of available [inventory slots](cairn-srd/#inventory) available. Choose how many you wish to invest (up to a maximum of 4). Spells will refer to these as [dice]. Some spells will refer to their [sum] as well.
 3. Roll [dice]. For each die that shows a 4-6, you gain one [Fatigue](/cairn-srd/#rules).
 4. If you get a series (e.g. 2-4 dice that match), something has gone very wrong. Look up the spell's [sum] on the **Mishaps** table below for what happens next.
@@ -21,20 +21,20 @@ To use [GLOG Magic](http://goblinpunch.blogspot.com/2016/09/the-glog-wizards.htm
 
 ||                 |
 | ---- | ---- |
-|2|For the next 24 hours, when casting spells you gain a Fatigue on a roll of 3-6.|
-|3|Gain an extra Fatigue from the results of the spell cast.|
-|4|You cannot cast spells for 1d6 hours, and any attempts to manipulate magic will fail.|
-|5|You have a magical sickness. The next time you roll multiple doubles, take the highest.|
-|6|The Spell's effects are reversed; the Warden will tell you how. |
+|2|You cannot cast spells for 1d6 hours, and any attempts to manipulate magic will fail.|
+|3|For the next 24 hours, when casting spells you gain a Fatigue on a roll of 3-6.|
+|4|There is a chain reaction to the spell (the Warden will say how). Take an additional Fatigue.|
+|5|The Spell's effects are reversed; the Warden will tell you how. Take an additional Fatigue.|
+|6|Any objects in your inventory that are not made of metal instantly combust. You are now immune to fire for short bursts.|
 |7|You are [deprived](https://cairnrpg.com/cairn-srd/#rules). After recovery, roll 1d6. If the total is higher than your max HP, take the new result.|
 |8|You take 1d4 WIL damage when casting spells for the next 24 hours. Afterwards roll 3d6. If the total is higher than your max WIL, take the new result.|
 |9|Your **Grimoire** is damaged and unusable. Creating a new **Grimoire** from its remains restores the original spells as well.|
 |10|You become insubstantial for 1d4 hours as your spirit leaves your body, which remains unconscious. You can fly and pass through walls, but not touch anything. Also, no one can see or hear you through mundane means.|
-|11 |You suffer horrible arcane burns; lose 1d4 WIL. From now on you can add +1 **Magic Dice** to a spell's [dice]; on a result of 4-6 you lose 1 WIL.|
-|12 |The spell backfires; you lose 1 inventory slot (scratch it off your sheet). You are now surrounded by a magical essence that provides +1 Armor (limits still apply).|
+|11|You suffer horrible arcane burns; lose 1d4 WIL. From now on you can add +1 **Magic Dice** to a spell's [dice]; on a result of 4-6 you lose 1 WIL.|
+|12|The spell backfires; you lose 1 inventory slot (scratch it off your sheet). You are now surrounded by a magical essence that provides +1 Armor (limits still apply).|
 |13|Instead of Fatigue, the spell causes magical tumors to fill their respective slots. They can only be removed by a specialized healer. Upon recovery, you are able to ignore a single Fatigue taken from spellcasting. |
 |14|Arcane energies wrack your body as a piece of your soul is transferred into your **Grimoire**. You lose half your WIL (rounded down). Your **Grimoire** now appears in any form you wish and takes no space in inventory. It cannot be destroyed except by your own death, and vice-versa.|
-|15||
+|15|You permanently lose 1d4 STR as the spell interacts with nearby plant life, which rips out of the earth and fuses against your skin. You have +1 Armor, although fire does enhanced damage against you.|
 |16||
 |17||
 |18||
