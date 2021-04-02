@@ -30,14 +30,14 @@ To use [GLOG Magic](http://goblinpunch.blogspot.com/2016/09/the-glog-wizards.htm
 |8|You take 1d4 WIL damage when casting spells for the next 24 hours. Afterwards roll 3d6. If the total is higher than your max WIL, take the new result.|
 |9|Your **Grimoire** is damaged and unusable. Creating a new **Grimoire** from its remains restores the original spells as well.|
 |10|You become insubstantial for 1d4 hours as your spirit leaves your body, which remains unconscious. You can fly and pass through walls, but not touch anything. Also, no one can see or hear you through mundane means.|
-|11|You suffer horrible arcane burns; lose 1d4 WIL. From now on you can add +1 **Magic Dice** to a spell's [dice]; on a result of 4-6 you lose 1 WIL.|
-|12|The spell backfires; you lose 1 inventory slot (scratch it off your sheet). You are now surrounded by a magical essence that provides +1 Armor (limits still apply).|
-|13|Instead of Fatigue, the spell causes magical tumors to fill their respective slots. They can only be removed by a specialized healer. Upon recovery, you are able to ignore a single Fatigue taken from spellcasting. |
-|14|Arcane energies wrack your body as a piece of your soul is transferred into your **Grimoire**. You lose half your WIL (rounded down). Your **Grimoire** now appears in any form you wish and takes no space in inventory. It cannot be destroyed except by your own death, and vice-versa.|
+|11|You suffer horrible arcane burns; lose 1d4 WIL. From now on you can add +1 **Magic Dice** to a spell's [dice] (use a die of a different color). If it results in a 4-6 you lose 1 WIL.|
+|12|The spell backfires; you lose 1 Inventory slot (scratch it off your sheet). You are now surrounded by a magical essence that provides +1 Armor (limits still apply).|
+|13|The spell turns your skin a dark shade of purple, and makes you invisible in the moonlight. Your eyes however glow a bright yellow at night.|
+|14|Instead of Fatigue, the spell causes magical tumors to fill their respective slots. They can only be removed by a specialized healer. Upon recovery, you are able to ignore a single Fatigue taken from spellcasting. |
+|15|Arcane energies wrack your body as a piece of your soul is transferred into your **Grimoire**. You lose half your WIL (rounded down). Your **Grimoire** now appears in any form you wish and takes no space in inventory. It cannot be destroyed except by your own death, and vice-versa.|
 |15|You permanently lose 1d4 STR as the spell interacts with nearby plant life, which rips out of the earth and fuses against your skin. You have +1 Armor, although fire does enhanced damage against you.|
-|16||
-|17||
-|18||
+|17|You are transformed into something weird and unnatural (the Warden will say exactly how). Others will have difficulty looking at you. If someone doesn't focus on you, you are invisible. You fail any attempts at persuasion.|
+|18|One your hands becomes fused with your **Grimoire**. You can never let it go, but it only takes up 1 Inventory slot. You can fire a bolt of arcane energy from that hand (1d6).|
 |19||
 |20||
 |21||
