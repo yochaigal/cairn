@@ -35,15 +35,15 @@ To use [GLOG Magic](http://goblinpunch.blogspot.com/2016/09/the-glog-wizards.htm
 |13|The spell turns your skin a dark shade of purple, and makes you invisible in the moonlight. Your eyes however glow a bright yellow at night.|
 |14|Instead of Fatigue, the spell causes magical tumors to fill their respective slots. They can only be removed by a specialized healer. Upon recovery, you are able to ignore a single Fatigue taken from spellcasting. |
 |15|Arcane energies wrack your body as a piece of your soul is transferred into your **Grimoire**. You lose half your WIL (rounded down). Your **Grimoire** now appears in any form you wish and takes no space in inventory. It cannot be destroyed except by your own death, and vice-versa.|
-|15|You permanently lose 1d4 STR as the spell interacts with nearby plant life, which rips out of the earth and fuses against your skin. You have +1 Armor, although fire does enhanced damage against you.|
+|15|You permanently lose 1d4 STR as the spell interacts with nearby plant life, which rips out of the earth and fuses against your skin. You have +1 Armor, although fire does enhanced damage against you. You can only feed by photosynthesis.|
 |17|You are transformed into something weird and unnatural (the Warden will say exactly how). Others will have difficulty looking at you. If someone doesn't focus on you, you are invisible. You fail any attempts at persuasion.|
 |18|One your hands becomes fused with your **Grimoire**. You can never let it go, but it only takes up 1 inventory slot. You can fire a bolt of arcane energy from that hand that deals 1d6 damage. If your hand is cut off, you can never cast spells again.|
-|19|Large, ugly wings sprout from your back, ripping through whatever you are wearing. You gain 1d4 DEX and can fly. You cannot wear armor or a backpack, and have a only 5 inventory slots.|
+|19|Large ugly wings sprout from your back, ripping through whatever you are wearing. You gain 1d4 DEX and can fly. You cannot wear armor or a backpack, and have a only 5 inventory slots.|
 |20|You dimensionally swap limbs with a magical being from an alien plane. Gain its properties (ask the Warden), both good and bad. Also: it's coming for you, and it's mad as hell. |
 |21|An extra-planar deity senses your arcane power (ask the Warden which). You are now linked, and can call on it for aide. It can likewise ask you for help, and punish you for non-compliance. Good luck.|
-|22|Your body becomes a vessel of pure magical energy. You no longer need rations or water. Fatigue and Mishaps from casting spells does not affect you, but instead you lose 1d4 STR on a result of 5-6. At STR 0 you become a spell (ask the Warden which).|
-|23||
-|24||
+|22|Your body becomes a vessel of pure magical energy. You no longer need to consume food, water or air. Fatigue and Mishaps from casting spells does not affect you, but instead you lose 1d4 STR on a result of 5-6. At STR 0 you become a spell (ask the Warden which). You can smell magic.|
+|23|You create an exact duplicate of yourself. One grows older while the other grows younger. Both age at at the rate of 1 year per day. Your thoughts are joined, and if one dies so does the other. Only magical aide will restore you; afterward add +1d6 to each ability score.|
+|24|You have become Elemental. Create a **True Name** for yourself. Magical energies surround you at all times, and mundane attacks against you are impaired. If someone learns your **True Name**, they can control you. Other Elementals will come for you.|
 
 ### **Example**
 _**Barry** has 4 free inventory slots, giving him 4 **Magic Dice**. He selects the spell **Mirror Image** (see below), and decides to invest 3 of his **Magic Dice**. That means he can create three duplicates that last for three minutes each. He rolls: double 2s and a 5. He gains one Fatigue, and the spell effects occur as described._
