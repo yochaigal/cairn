@@ -10,7 +10,7 @@ nav_order: 1
 To use [GLOG Magic](http://goblinpunch.blogspot.com/2016/09/the-glog-wizards.html) spells in Cairn, consider the following player rules:
 - You carry a **Grimoire** worth 300gp. It is [bulky](cairn-srd/#inventory), and contains a single [random spell](https://drive.google.com/file/d/1OTVy-5Vm44xhRmFO4tKFCJto-_cw0xYtD8lNj8AsSJY/view?pli=1).
 - Treat all Spellbooks as [Scrolls](/hacks/glog-magic/#scrolls).
-- If you get doubles of any kind, something has gone very wrong. Roll 1d6 on the [**Mishaps**](https://cairnrpg.com/hacks/glog-magic/#mishaps-sum-of-doubles-rolled) table and add whichever double was rolled. If there are multiple doubles, choose the lowest.
+- If you get doubles of any kind, something has gone very wrong. Roll 1d6 on the [**Mishaps**](https://cairnrpg.com/hacks/glog-magic/#mishaps-sum-of-doubles-rolled) table and add the double rolled (e.g. +3 from a pair of 3s). If there are multiple doubles, choose the lowest.
 
 ### Casting Spells:
 1. Pick a spell from your **Grimoire**. The description may denote the spell's duration with **D** and range with **R**.
@@ -18,7 +18,7 @@ To use [GLOG Magic](http://goblinpunch.blogspot.com/2016/09/the-glog-wizards.htm
 3. Roll [dice]. For each die that shows a 4-6, you gain one [Fatigue](/cairn-srd/#rules).
 
 ### **Example**
-_**Barry** has 4 free inventory slots, giving him 4 **Magic Dice**. He selects the spell **Mirror Image** (see below), and decides to invest 3 of his **Magic Dice**. That means he can create three duplicates that last for three minutes each. He rolls: double 2s and a 5. He gains one Fatigue, and 2 **Magic Dice** returns to his pool, with **1** remaining. However, he also rolled doubles, meaning that he must roll on the [**Mishaps**](https://cairnrpg.com/hacks/glog-magic/#mishaps-sum-of-doubles-rolled) table as well. He rolls 1d6 and adds 2 from the double rolled to the result._
+_**Barry** has 4 free inventory slots, giving him 4 **Magic Dice**. He selects the spell **Mirror Image** (see below), and decides to invest 3 of his **Magic Dice**. That means he can create three duplicates that last for three minutes each. He rolls: double 2s and a 5. He gains one Fatigue, and since he also rolled doubles, he must then roll on the [**Mishaps**](https://cairnrpg.com/hacks/glog-magic/#mishaps-sum-of-doubles-rolled) table as well. He rolls 1d6 and adds 2 from the double rolled to the result._
 
 ### [ **Mirror Images** ]
 
