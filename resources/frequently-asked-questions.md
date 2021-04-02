@@ -11,12 +11,12 @@ nav_exclude: true
 
 ## Introduction
 Below are a few answers to some of the most commonly asked questions from folks new to Cairn.  
-Please refer to the [SRD](/cairn-srd/) while reading the following, particularly with regards to [**saves**](/cairn-srd/#rules) and [combat](/cairn-srd/#combat).
+Please refer to the [SRD](/cairn-srd/) while reading the following, particularly with regards to [**saves**](/cairn-srd/#saves) and [combat](/cairn-srd/#combat).
 
 **Keep the following in mind when reading the example text!**  
 - **Esther** is playing an ex-**Herbalist**.
 - **Barry** plays a former **Hunter**.
-- The PCs are in search of a powerful [**Relic**](/cairn-srd/#magic), rumored to have restorative powers.
+- The PCs are in search of a powerful [**Relic**](/cairn-srd/#relics), rumored to have restorative powers.
 - It is rumored to be located on the far East side of the **Geunant Forest**, a wood known for having massive, ancient trees that allow little light through their humongous leaves.
 - During character generation it was decided that the PCs were both previously employed by the same wealthy benefactor, who owned lands adjacent to their destination.
 - Recently, the party uncovered a hidden parchment that detailed the item's true location.
@@ -111,7 +111,7 @@ Expand For Example
 A PC or NPC should **save** only if one or more of the following conditions are met:
 - When the outcome of an action is uncertain.
 - When something is at risk (a life, a threatening danger, etc.).
-- When making a critical damage save during [**combat**](/cairn-srd/#combat)).
+- When making a critical damage save during [**combat**](/cairn-srd/#critical-damage)).
 
 **Saves** can happen both in an out of combat. A **save** is _almost_ never required when a PC or NPC is under attack, as attacks hit automatically. However, there are situations in which the fiction might dictate that an attack is automatically unsuccessful or impossible.
 
@@ -224,7 +224,7 @@ Expand For Example
 - If the spirit, willpower, or determination of a PC has been impacted, subtract from **WIL**. Especially helpful to consider during magical or superficial injuries. A PC whose soul was burnt by arcane energy may need to make a **WIL** save to read Spellbooks, for example.
 
 A few considerations:
-- An injury could take on multiple facets: [**Deprivation**](/cairn-srd/#rules) may accompany STR loss from poison, for instance. Provide a potential solution to overcoming the illness, as well.
+- An injury could take on multiple facets: [**Deprivation**](/cairn-srd/#deprivation--fatigue) may accompany STR loss from poison, for instance. Provide a potential solution to overcoming the illness, as well.
 - Damage should happen as a consequence of failing a **save**. Do not make players **save** after-the-fact.
 - Fictional injuries are just as powerful as direct mechanical damage. **DEX** loss will have an impact on a character's reflexes and speed, but a broken leg may prevent a character from being able to move at all!
 
