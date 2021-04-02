@@ -23,16 +23,27 @@ To use [GLOG Magic](http://goblinpunch.blogspot.com/2016/09/the-glog-wizards.htm
 | ---- | ---- |
 |2|For the next 24 hours, when casting spells you gain a Fatigue on a roll of 3-6.|
 |3|Gain an extra Fatigue from the results of the spell cast.|
-|4|You have a magical sickness. The next time you roll multiple doubles, take the highest.|
+|4|You cannot cast spells for 1d6 hours, and any attempts to manipulate magic will fail.|
+|5|You have a magical sickness. The next time you roll multiple doubles, take the highest.|
 |6|The Spell's effects are reversed; the Warden will tell you how. |
-|8|You are [deprived](https://cairnrpg.com/cairn-srd/#rules). After recovery, roll 1d6. If the total is higher than your max HP, take the new result.|
-|9|You take 1d4 WIL damage when casting spells for the next 24 hours. Afterwards roll 3d6. If the total is higher than your max WIL, take the new result.|
-|10|Your **Grimoire** is damaged and unusable. Creating a new **Grimoire** from its remains restores the original spells as well.|
-|12|You become insubstantial for 1d4 hours as your spirit leaves your body, which remains unconscious. You can fly and pass through walls, but not touch anything. Also, no one can see or hear you through mundane means.|
-|15 |You suffer horrible arcane burns; lose 1d4 WIL. From now on you can add +1 **Magic Dice** to a spell's [dice]; on a result of 4-6 you lose 1 WIL.|
-|16 |The spell backfires; you lose 1 inventory slot (scratch it off your sheet). You are now surrounded by a magical essence that provides +1 Armor (limits still apply).|
-|18 |Instead of Fatigue, the spell causes magical tumors to fill their respective slots. They can only be removed by a specialized healer. Upon recovery, you are able to ignore a single Fatigue taken from spellcasting. |
-|24|Arcane energies wrack your body as a piece of your soul is transferred into your **Grimoire**. You lose half your WIL (rounded down). Your **Grimoire** now appears in any form you wish and takes no space in inventory. It cannot be destroyed except by your own death, and vice-versa.|
+|7|You are [deprived](https://cairnrpg.com/cairn-srd/#rules). After recovery, roll 1d6. If the total is higher than your max HP, take the new result.|
+|8|You take 1d4 WIL damage when casting spells for the next 24 hours. Afterwards roll 3d6. If the total is higher than your max WIL, take the new result.|
+|9|Your **Grimoire** is damaged and unusable. Creating a new **Grimoire** from its remains restores the original spells as well.|
+|10|You become insubstantial for 1d4 hours as your spirit leaves your body, which remains unconscious. You can fly and pass through walls, but not touch anything. Also, no one can see or hear you through mundane means.|
+|11 |You suffer horrible arcane burns; lose 1d4 WIL. From now on you can add +1 **Magic Dice** to a spell's [dice]; on a result of 4-6 you lose 1 WIL.|
+|12 |The spell backfires; you lose 1 inventory slot (scratch it off your sheet). You are now surrounded by a magical essence that provides +1 Armor (limits still apply).|
+|13|Instead of Fatigue, the spell causes magical tumors to fill their respective slots. They can only be removed by a specialized healer. Upon recovery, you are able to ignore a single Fatigue taken from spellcasting. |
+|14|Arcane energies wrack your body as a piece of your soul is transferred into your **Grimoire**. You lose half your WIL (rounded down). Your **Grimoire** now appears in any form you wish and takes no space in inventory. It cannot be destroyed except by your own death, and vice-versa.|
+|15||
+|16||
+|17||
+|18||
+|19||
+|20||
+|21||
+|22||
+|23||
+|24||
 
 ### **Example**
 _**Barry** has 4 free inventory slots, giving him 4 **Magic Dice**. He selects the spell **Mirror Image** (see below), and decides to invest 3 of his **Magic Dice**. That means he can create three duplicates that last for three minutes each. He rolls: double 2s and a 5. He gains one Fatigue, and the spell effects occur as described._
