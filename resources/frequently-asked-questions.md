@@ -237,10 +237,17 @@ A few considerations:
 Expand for example
  </summary>
 
- _Clambering out of the basin, **Barry's PC** calls up to his comrade. "Well, that was a bad idea." **Esther's PC** laughs, then asks, "How exactly are you going to get back up here without a rope?" **Barry** asks the Warden to tell him everything **Barry's PC** can see and hear from his new position. "There isn't much light here, but something glints in the darkness beneath you. If you had more light, you could perhaps make out what it is."_
+ **Barry**: _"Well, that was a bad idea. If I get to choose what I lose though... how about my remaining piton? Everything else is just to important, and I don't have a rope anyways. Speaking of which, how exactly am I going to get back up there without one?"_
 
- _**Esther** suggests that her character could toss **Barry's PC** her lamp, which is still dry. **Barry** agrees, and soon the party has a decent view of the chasm beneath them. The Warden describes a series of waterfalls, basins and protruding shelves going all the way down to a rushing river on the bottom. There is even a narrowing of the ravine itself just below them where they could conceivably leap over to the other side!_
+**Esther**: _"Makes sense to me. Hey, how much can I see of the chasm from where I'm standing?"_
 
+ **Warden**: _"There isn't much light here, but something glints in the darkness beneath you. If you had more light, you could perhaps make out what it is."_
+
+ **Esther**: _"Why don't I toss you my lamp, which is still dry as far as I know. Does that require a roll?"_
+
+ **Warden**: _"Nope. **Barry**, you catch it without issue. Now, you get a decent view of the chasm beneath. You see a series of small waterfalls, basins and protruding shelves going all the way down to a rushing river on the bottom. There is even a narrowing of the ravine itself just below them where you could conceivably leap over to the other side!"_
+
+ _to be continued_
  _
 
 </details>
