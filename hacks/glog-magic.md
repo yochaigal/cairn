@@ -21,7 +21,7 @@ To use [GLOG Magic](http://goblinpunch.blogspot.com/2016/09/the-glog-wizards.htm
 
 ||                 |
 | ---- | ---- |
-[1]|You cannot cast spells for 1d6 hours, and any attempts to manipulate magic will fail.|
+|1|You cannot cast spells for 1d6 hours, and any attempts to manipulate magic will fail.|
 |2|For the next 24 hours, when casting spells you gain a Fatigue on a roll of 3-6.|
 |3|Gain an extra Fatigue from the results of the spell cast.|
 |4|You have a magical sickness. The next time you roll multiple doubles, take the highest.|
