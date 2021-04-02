@@ -144,7 +144,7 @@ Players trust one another to engage with the shared setting, character goals, an
 
 ## Character Creation
 
-**Name, Background & Traits**  
+#### Name, Background & Traits
 First, choose or roll your PC’s **name** and ** background** from their respective [tables](#name--background-d20). A PC’s background informs their potential knowledge and skills.
 
 Next, roll for the rest of your character's **traits** (appearance, speech, mannerisms, beliefs, reputation, etc.) on the [**Character Traits**](#character-traits-d10) tables.
@@ -602,7 +602,7 @@ If you would like something closer to traditional classes, refer to the list of 
 <p></p>
 
 ## Rules
-**Abilities**  
+#### Abilities
 Each of the three **abilities** are used in different circumstances (see **saves**, below).
 
 **Strength (STR**): Used for saves requiring physical power, like lifting gates, bending bars, resisting poison, etc.
@@ -611,25 +611,25 @@ Each of the three **abilities** are used in different circumstances (see **saves
 
 **Willpower** (WIL): Used for saves to persuade, deceive, interrogate, intimidate, charm, provoke, manipulate spells, etc.
 
-**Saves**  
+#### Saves
 A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs roll a d20 for an appropriate ability score. If they roll equal to or under that ability score, they pass. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
 
 **Example:** _Bea encounters a group of heavily-armed Goblins standing guard before a tunnel entrance. Her player carefully plots a course, recognizing that her 13 DEX makes sneaking past the guards the best option. She rolls a d20, and resulting in a 10 – a success!_
 
 
-**Healing**  
+#### Healing
 Resting for a few moments and having a drink of water restores lost HP but leaves the party exposed. Ability loss (see **Critical Damage**) can usually be restored with a week's rest facilitated by a healer or other appropriate source of expertise. Some of these services are free, while magical or more expedient means of recovery may come at a cost.
 
-**Deprivation & Fatigue**  
+#### Deprivation & Fatigue
 A PC **deprived** of a crucial need (such as food or rest) is unable to recover HP or ability scores. Anyone deprived for more than a day adds **Fatigue** to their inventory, one for each day. Each Fatigue occupies one slot and lasts until they are able to recuperate (such as a full night's rest in a safe spot).  
 PCs can also gain Fatigue by **casting spells** or through events in the fiction.
 
-**Armor**  
+#### Armor
 Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. Shields and similar armor provides a bonus defense (e.g. +1 Armor), but only while the item is held or worn.  
 No one can have more than 3 Armor.  
 Shields, gauntlets, and helms may provide additional benefits according to their use.
 
-**Reactions**  
+#### Reactions
 When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll 2d6 and consult the following table:
 
 | | | | | |
@@ -637,13 +637,13 @@ When the PCs encounter an NPC whose reaction to the party is not obvious, the Wa
 |    2    | 3-5  |   6-8   | 9-11 | 12      |
 | Hostile | Wary | Curious | Kind | Helpful |
 
-**Morale**  
+#### Morale
 Enemies must pass a WIL save to avoid fleeing when they take their first casualty and again when they lose half their number. Some groups may use their leader's WIL in place of their own. Lone foes must save when they're reduced to 0 HP. Morale does not affect PCs.
 
-**Hirelings**  
+#### Hirelings
 PCs can hire **hirelings** to aid them in their expeditions. To create a hireling, roll 3d6 for each ability score, then give them 1d6 HP and a simple weapon (d6), then roll on the [**Character Creation**](#character-creation) tables to further flesh them out. Hirelings cost between 1-3gp per day, or a share of whatever treasure the party obtains.
 
-**Wealth & Treasure**  
+#### Wealth & Treasure
 The most common coin is the gold piece (gp), which is equal to 10 silver pieces (sp) and 100 copper pieces (cp).
 
 Treasure is highly valuable, usually bulky, and rarely useful beyond its value. It can be a lure, taking PCs to exotic and even dangerous locations, and is often under the protection of intimidating foes.
@@ -663,10 +663,10 @@ Spellbooks will attract the attention of those who seek the arcane power within,
 - They do not cause fatigue.
 - They disappear after one use.
 
-**Casting Spells**  
+#### Casting Spells
 Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. They must then add a Fatigue to inventory, occupying one slot. Given time and safety, PCs can _enhance_ a spell's impact (e.g., affecting multiple targets, increasing its power, etc.) without any additional cost. If the PC is deprived or in danger, the Warden may require a PC to make a WIL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect, and may result in added Fatigue, the destruction of the Spellbook, injury, and even death.
 
-**Relics**  
+#### Relics
 **Relics** are items imbued with a magical spell or power. They do not cause Fatigue. Relics usually have a limited use, as well as a recharge condition. A few examples:
 
 **Honeyclasp** , 3 charges. A rusted ring that shrinks the bearer to 6" tall. Recharge: place in a thimble-sized cup of royal jelly.
@@ -679,63 +679,63 @@ Anyone can cast a spell by holding a Spellbook in both hands and reading its con
 
 ## Combat
 
-**Rounds**  
+#### Rounds
 The game typically plays without strict time accounting. In a fight or circumstance where timing is helpful, use rounds to keep track of when something occurs. A **round** is roughly ten seconds of in-game time and is comprised of turns.
 
-**Actions**  
+#### Actions  
 On their turn, a character may move up to 40ft and take up to one action. This may be _casting a spell, attacking, making a second move, or some other reasonable action.
 
 Each round, the PCs declare what they are doing before dice are rolled. If a character attempts something risky, the Warden calls for a save for appropriate players or NPCs.
 
-**Turns**  
+#### Turns
 The Warden will telegraph the most likely actions taken by NPCs or monsters. At the start of combat, each PC must make a DEX save to act before their opponents.
 
 **Example:** _Bea has accidentally stumbled onto the stomping grounds of a massive Wood Troll. In order to make a move before the Troll, she makes a DEX save. She fails, and the Troll gets to attack first._
 
-**Attacking & Damage**  
+#### Attacking & Damage
 The attacker rolls their weapon die and subtracts the target's armor, then deals the remaining total to their opponent's HP. Unarmed attacks always do 1d4 damage.
 
 **Example:** _The Wood Troll roars, swinging its club at Bea, who has 5 HP. The club does 1d10 damage and the Warden rolls a 4. They subtract 1 to account for Bea's leather armor, leaving Bea with 2 HP remaining_.
 
-**Multiple Attackers**  
+#### Multiple Attackers  
 If multiple attackers target the same foe, roll all damage dice and keep the single highest result.
 
-**Attack Modifiers**  
+#### Attack Modifiers
 If fighting from a position of weakness (such as through cover or with bound hands), the attack is **impaired** and the attacker must roll 1d4 damage regardless of the attacks damage die.
 
 If fighting from a position of advantage (such as against a helpless foe or through a daring maneuver), the attack is **enhanced**, allowing the attacker to roll 1d12 damage instead of their normal die.
 
-**Dual Weapons**  
+#### Dual Weapons
 If attacking with two weapons at the same time, roll both damage dice and keep the single highest result.
 
-**Blast**  
+#### Blast  
 Attacks with the **blast** quality affect all targets in the noted area, rolling separately for each affected character. Blast refers to anything from explosions to huge cleaving onslaughts to the impact of a meteorite. If unsure how many targets can be affected, roll the related damage die for a result.
 
-**Critical Damage**  
+#### Critical Damage
 Damage that reduces a target's HP below zero decreases a target's STR by the amount remaining. They must then make a STR save to avoid **critical damage**. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save.
 
 Any PC that suffers critical damage cannot do anything but crawl weakly, grasping for life. If given aid and rest, they will stabilize. If left untreated, they die within the hour.
 
-**Ability Score Loss**  
+#### Ability Score Loss
 If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their WIL is reduced to 0, they are delirious.
 Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.  
 
-**Scars**  
+#### Scars
 When damage to a PC reduces their HP to exactly 0, they are sometimes changed irrevocably. See the [**Scars**](/cairn-srd.html#scars) table for more.
 
-**Unconsciousness & Death**  
+#### Unconsciousness & Death
 When a character dies, the player is free to create a new character or take control of a hireling. They immediately join the party in order to reduce downtime.
 
-**Detachments**  
+#### Detachments
 Large groups of similar combatants fighting together are treated as a single **detachment**. When a detachment takes critical damage, it is routed or significantly weakened. When it reaches 0 STR, it is destroyed.
 
 Attacks against detachments by individuals are **impaired** (excluding blast damage).  
 Attacks against individuals by detachments are **enhanced** and deal blast damage.
 
-**Retreat**  
+#### Retreat
 Running away from a dire situation always requires a successful DEX save, as well as a safe destination to run to.
 
-### **Scars**  
+### Scars
 When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look up the result on the table below based on the total damage taken:
 
 |      |                                                              |
