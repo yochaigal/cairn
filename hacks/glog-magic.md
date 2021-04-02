@@ -17,7 +17,7 @@ To use [GLOG Magic](http://goblinpunch.blogspot.com/2016/09/the-glog-wizards.htm
 3. Roll [dice]. For each die that shows a 4-6, you gain one [Fatigue](/cairn-srd/#rules).
 4. If you get a double or triple, something has gone very wrong. Look up the [sum] on the **Mishaps** table below for what happens next.
 
-#### Mishaps ([sum])
+#### Mishaps (compare result to [sum])
 
 ||                 |
 | ---- | ---- |
