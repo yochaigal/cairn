@@ -2,7 +2,6 @@
 layout: default
 title: GLOG Spells
 parent: Hacks
-nav_exclude: true
 nav_order: 2
 ---
 
@@ -69,3 +68,5 @@ nav_order: 2
 **Multiarm:** You gain [dice] extra arms    
 **Night Sphere:** An [sum]×40ft wide sphere of darkness displaying the night sky appears.    
 **Objectify:** You become any inanimate object between the size of a grand piano and an apple.    
+
+author: **Duck The Bold**
