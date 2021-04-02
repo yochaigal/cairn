@@ -21,14 +21,14 @@ Please refer to the [SRD](/cairn-srd/) while reading the following, particularly
 - During character generation it was decided that the PCs were both previously employed by the same wealthy benefactor, who owned lands adjacent to their destination.
 - Recently, the party uncovered a hidden parchment that detailed the item's true location.
 
-<a href='#/' id='expAll' class='exp'>Expand/Collapse All Examples</a>{: .btn }
+<a href='#/' id='expAll' class='exp'>Click Here To Expand/Collapse All Examples</a>{: .btn }
 
 ## How does a PC's knowledge and experience effect the game?
 A character's relevant background, history, and experiences may provide a potential benefit (or disadvantage) to certain situations. Similarly, previous events in the game may influence the impact of their actions, including negating the need for a **save** in some circumstances!
 
 <details markdown="block">
   <summary>
-Expand for example
+Expand For Example
  </summary>
 
  **Warden**: _"You've spent the better part of the morning cutting your way through the **Geunant Forest**, chopping past hanging vines and waist-high brambles. It is very easy to get lost here among the surrounding underbrush. To make matters worse the Sun is completely obscured by the thick overhead branches."_
@@ -60,7 +60,7 @@ Expand for example
 
 <details markdown="block">
   <summary>
-Expand for example
+Expand For Example
  </summary>
 
  **Warden**: _"By late afternoon you finally break through the forest boundary. Spilling out of the treeline, you nearly step into a deep chasm splitting the forest in two. Finally, you have arrived at the **God-Slip**, a seemingly endless ravine with no bridge crossing it. Judging by the sheer rock walls on either side, climbing down would be extremely dangerous. Unfortunately, your quarry is likely located just across, where the cliffs meet the edge of the world. There is a small clearing nearby where you could set up camp, shrouded by a humongous Oak tree planted close to the chasm."_
@@ -92,7 +92,7 @@ Some games rely on "Initiative" to determine who goes first when combat begins. 
 
 <details markdown="block">
   <summary>
-Expand for example
+Expand For Example
  </summary>
 
  **Warden**: _"An Elk-like creature with glowing-red eyes explodes from the darkness of the wood opposite the party's campsite. A sea of mist flows off the creature's body as it runs directly at you, **Barry**. **Esther** was at the ready, so she gets to go first."_
@@ -117,7 +117,7 @@ A PC or NPC should **save** only if one or more of the following conditions are 
 
 <details markdown="block">
   <summary>
-Expand for example
+Expand For Example
  </summary>
 
  **Esther**: _"Do we know anything about this creature?"_
@@ -146,7 +146,7 @@ If two opponents are both attempting to overcome the other, whomever is most at 
 
  <details markdown="block">
    <summary>
- Expand for example
+ Expand For Example
   </summary>
 
   **Warden**: _"**Esther**, you toss one end of your rope to **Barry**, who quickly loops the rope around the Oak tree, then rushes towards the cliff-face on the other side, screaming at the creature to charge at him. **Esther** takes point as a sort of ballast in case he falls. **Barry**, as you are in position to react, I'm going to allow you a sort of out of combat reaction."_
@@ -177,7 +177,7 @@ Occasionally a dangerous action, trap, surprise attack, or cataclysmic event wil
 
 <details markdown="block">
   <summary>
-Expand for example
+Expand For Example
  </summary>
 
  **Warden**: "_After your encounter with the **Blood Elk**, you return to camp and try to catch as much sleep as they can. By daybreak both of you are awake and ready to continue on your journey."_
@@ -234,7 +234,7 @@ A few considerations:
 
 <details markdown="block">
   <summary>
-Expand for example
+Expand For Example
  </summary>
 
  **Barry**: _"Well, that was a bad idea. If I get to choose what I lose though... how about my remaining piton? Everything else is just to important, and I don't have a rope anyways. Speaking of which, how exactly am I going to get back up there without one?"_
@@ -265,7 +265,7 @@ The Warden should consider the following when awarding non-mechanical growth to 
 
 <details markdown="block">
   <summary>
-Expand for example
+Expand For Example
  </summary>
 
  _example here_
