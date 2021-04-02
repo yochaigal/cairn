@@ -37,7 +37,7 @@ Expand for example
 
  **Warden:** _"Yes, though you have to stop every few minutes to survey your surroundings; progress is slow-going as a result. You continue heading East towards your destination."_
 
- **Warden:** _"After a few hours you exit into a small clearing in the wood, perfect for a short break. On the other end of the clearing is a small, visible path heading East. The entrance to the path is blocked by a large flowering plant, sitting a solitary sunbeam; it drips a green ichor from open, blue pods."_
+ **Warden:** _"After a few hours you exit into a small clearing in the wood, perfect for a short break. On the other end of the clearing is a small, visible path heading East. The entrance to the path is blocked by a large flowering plant sitting in a solitary sunbeam; it drips a green ichor from open, blue pods."_
 
  **Esther**: _"As a former **Herbalist**, do I recognize this plant?"_
 
@@ -224,7 +224,7 @@ Expand for example
 - If the spirit, willpower, or determination of a PC has been impacted, subtract from **WIL**. Especially helpful to consider during magical or superficial injuries. A PC whose soul was burnt by arcane energy may need to make a **WIL** save to read Spellbooks, for example.
 
 A few considerations:
-- An injury could take on multiple facets: [**Deprivation**](/cairn-srd/#rules) may accompany STR loss from poison, for instance. Provide a potential solution to overcoming the illness. as well.
+- An injury could take on multiple facets: [**Deprivation**](/cairn-srd/#rules) may accompany STR loss from poison, for instance. Provide a potential solution to overcoming the illness, as well.
 - Damage should happen as a consequence of failing a **save**. Do not make players **save** after-the-fact.
 - Fictional injuries are just as powerful as direct mechanical damage. **DEX** loss will have an impact on a character's reflexes and speed, but a broken leg may prevent a character from being able to move at all!
 
