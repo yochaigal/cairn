@@ -15,7 +15,7 @@ To use [GLOG Magic](http://goblinpunch.blogspot.com/2016/09/the-glog-wizards.htm
 1. Pick a spell from your **Grimoire**. The description may denote the spell's duration with **D** and range with **R**.
 2. You have an amount of **Magic Dice** (d6) equal to the amount of available [inventory slots](cairn-srd/#inventory) available. Choose how many you wish to invest (up to a maximum of 4). Spells will refer to these as [dice]. Some spells will refer to their [sum] as well.
 3. Roll [dice]. For each die that shows a 4-6, you gain one [Fatigue](/cairn-srd/#rules).
-4. If you get a double or triple, something has gone very wrong. Look up the [sum] on the **Mishaps** table below for what happens next.
+4. If you get a series (e.g. 2-4 dice that match), something has gone very wrong. Look up the spell's [sum] on the **Mishaps** table below for what happens next.
 
 #### Mishaps (compare result to [sum])
 
