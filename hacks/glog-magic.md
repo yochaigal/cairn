@@ -8,7 +8,8 @@ nav_order: 1
 # GLOG Magic Hack
 ---
 To use [GLOG Magic](http://goblinpunch.blogspot.com/2016/05/the-glog.html) in Cairn, consider the following player rules:
-- You carry a **Grimoire** worth 300gp. It is [bulky](cairn-srd/#inventory), and contains a single [random spell](/hacks/glog-spells).
+- You carry a **Grimoire** worth 300gp. It is [bulky](cairn-srd/#inventory), and contains a single random spell.
+- See [this list](https://cairnrpg.com/hacks/glog-spells/) of Cairn spells formatted for GLOG Magic.
 - Treat any discovered Spellbooks as [Scrolls](/hacks/glog-magic/#scrolls).
 - For additional spells, see this [here](https://drive.google.com/file/d/1OTVy-5Vm44xhRmFO4tKFCJto-_cw0xYtD8lNj8AsSJY/view?pli=1).
 
