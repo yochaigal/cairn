@@ -49,13 +49,9 @@ To use [GLOG Magic](http://goblinpunch.blogspot.com/2016/05/the-glog.html) in Ca
 ### **Example**
 _**Barry** has 4 free inventory slots, giving him 4 **Magic Dice**. He selects the spell **Mirror Image** (see below), and decides to invest 3 of his **Magic Dice**. That means he can create three duplicates that last for three minutes each. He rolls: double 2s and a 5. He gains one Fatigue, and the spell effects occur as described._
 
-### [ **Mirror Images** ]
-
-|                            ||
-| ---------------------------||
-| D: [dice] minutes | R: self |
-
-_Creates [dice] duplicates of you, which overlap with you and confuse attackers. Any time you’re attacked, the attack has an equal chance to hit you or any of your images. If an image is hit, it is destroyed._
+|||
+|---||
+| **Mirror Image**        | [dice] illusory duplicates of yourself appear under your control. |
 
 ## Additional Rules
 

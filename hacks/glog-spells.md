@@ -24,7 +24,7 @@ nav_order: 2
 | 6    | **Astral Prison**     | [dice] objects are frozen in time and space within an invulnerable crystal shell. |
 | 7    | **Attract**             | [sum]+1 objects are strongly magnetically attracted to each other if they come within 10 feet. |
 | 8    | **Auditory Illusion**   | You create illusory sounds that seem to come from a direction of your choice. |
-| 9    | **Babble**              | [dice] creatures must loudly and clearly repeat everything you think. It is otherwise mute. | 
+| 9    | **Babble**              | [dice] creatures must loudly and clearly repeat everything you think. It is otherwise mute. |
 | 10   | **Bait Flower**       | A plant sprouts from the ground that emanates the smell of decaying flesh. |
 | 11    | **Beast Form**          | You and your possessions transform into a mundane animal.    |
 | 12   | **Befuddle**            | [sum] creatures of your choice are unable to form new short-term memories for the duration of the spell. |
