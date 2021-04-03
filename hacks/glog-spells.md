@@ -116,5 +116,4 @@ nav_order: 2
 | 100  | **X-Ray Vision**        | You gain X-Ray vision.               |
 
 
-author: **Duck The Bold**  
-source: [**Knave**](https://www.drivethrurpg.com/product/250888/Knave)
+Thanks To: **Duck The Bold**  
