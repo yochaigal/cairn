@@ -861,8 +861,8 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 | 12   | Befuddle          | A creature of your choice is unable to form new short-term memories for the duration of the spell. |
 | 13   | Body Swap         | You switch bodies with a creature you touch If one body dies, the other dies as well. |
 | 14   | Charm             | A creature you can see treats you as a friend.               |
-| 15   | Comprehend        | You become fluent in all languages for a short while.        |
-| 16   | Command           | A target obeys a single three-word command that does not cause it harm. |
+| 15   | Command           | A target obeys a single three-word command that does not cause it harm. |
+| 16   | Comprehend        | You become fluent in all languages for a short while.        |
 | 17   | Cone of Foam      | Dense foam sprays from your hand, coating the target.        |
 | 18   | Control Plants    | Nearby plants and trees obey you and gain the ability to move at a slow pace. |
 | 19   | Control Weather   | You may alter the type of weather at will, but you do not otherwise control it. |
@@ -927,7 +927,7 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 | 78   | Snuff             | The source of any mundane light you can see is instantly snuffed out. |
 | 79   | Sort              | Inanimate items sort themselves according to categories you set. |
 | 80   | Spectacle         | A clearly false but impressive illusion of your choice appears, under your control. It may be up to the size of a palace and has full motion and sound. |
-| 81   | Spellsaw          | A whirling blade flies from your chest, clearing any plant material in its way It is otherwise harmless. |
+| 81   | Spellsaw          | A whirling blade flies from your chest, clearing any plant material in its way. It is otherwise harmless. |
 | 82   | Spider Climb      | You can climb surfaces like a spider.                        |
 | 83   | Summon Cube       | Once per second you may summon or banish a 3-foot-wide cube of earth New cubes must be affixed to the earth or to other cubes. |
 | 84   | Swarm             | You become a swarm of crows, rats, or piranhas You can only be harmed by blast attacks. |
