@@ -92,7 +92,7 @@ nav_order: 2
 | 76   | **Smoke Form**          | Your body becomes living smoke for [dice] minutes.                              |
 | 77   | **Sniff**               | You can smell even the faintest traces of scents.            |
 | 78   | **Snuff**             | The source of [sum] mundane lights you can see are instantly snuffed out. |
-| 79   | **Sort**                | Inanimate items sort themselves according to categories you set. The categories must be
+| 79   | **Sort**                | Inanimate items sort themselves according to categories you set.|
 | 80   | **Spectacle**           | A clearly unreal but impressive illusion of your choice appears for [dice] minutes, under your control. It may be up to the size of a palace and has full motion and sound |
 | 81   | **Spellsaw**          | A whirling blade flies from your chest, clearing any plant material in its way. It is otherwise harmless. |
 | 82   | **Spider Climb**        | You can climb surfaces like a spider for [dice] minutes.                        |
