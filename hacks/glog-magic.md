@@ -4,7 +4,6 @@ title: GLOG Magic
 parent: Hacks
 nav_order: 1
 ---
-<script src="/js/expand-for-example.js" type="text/javascript"></script>
 
 # GLOG Magic Hack
 ---
