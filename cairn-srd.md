@@ -4,6 +4,8 @@ title: SRD
 nav_order: 2
 ---
 
+<script src="/src/js/expand-for-example.js" type="text/javascript"></script>
+
 # Cairn System Reference Document (v.1.0)
 
 <p></p>
@@ -1004,22 +1006,3 @@ If an attack takes a PC's HP exactly to 0, the player rolls on the **Scars** tab
 Damage that reduces a target's HP **below** 0 decreases their STR by the remainder. They must then make a STR save to avoid **critical damage.**  Failure takes them out of combat, dying if left untreated.
 
 Having STR 0 means **death;** having DEX 0 is paralysis; having WIL 0 is delirium.
-
-<script>
-var xa = document.getElementById('expAll');
-xa.addEventListener('click', function(e) {
-
-  e.target.classList.toggle('exp');
-  e.target.classList.toggle('col');
-
-  var details = document.querySelectorAll('details');
-
-  Array.from(details).forEach(function(obj, idx) {
-    if (e.target.classList.contains('exp')) {
-      obj.open = false;
-    } else {
-      obj.open = true;
-    }
-  });
-}, false);
-</script>

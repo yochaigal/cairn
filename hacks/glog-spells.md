@@ -11,6 +11,7 @@ nav_order: 2
 - [sum] is a number equal to the sum of rolled **Magic Dice**.
 - An **item** is anything you can lift with one hand, and an **object** is anything up to human sized.
 - Unless otherwise noted, all spells with ongoing effects last up to [sum]×10 minutes, and have a range of up to 40 feet.
+- See this page on [GLOG Magic](/hacks/glog-magic) for more.
 
 ## Spells
 

@@ -5,6 +5,7 @@ parent: Resources
 nav_order: 1
 nav_exclude: true
 ---
+<script src="/src/js/expand-for-example.js" type="text/javascript"></script>
 
 # Frequently Asked Questions
 ---
@@ -270,22 +271,3 @@ Expand For Example
 
  _example here_
 </details>
-
-<script>
-var xa = document.getElementById('expAll');
-xa.addEventListener('click', function(e) {
-
-  e.target.classList.toggle('exp');
-  e.target.classList.toggle('col');
-
-  var details = document.querySelectorAll('details');
-
-  Array.from(details).forEach(function(obj, idx) {
-    if (e.target.classList.contains('exp')) {
-      obj.open = false;
-    } else {
-      obj.open = true;
-    }
-  });
-}, false);
-</script>
