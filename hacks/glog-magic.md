@@ -30,11 +30,11 @@ To use [GLOG Magic](http://goblinpunch.blogspot.com/2016/05/the-glog.html) in Ca
 |6|Any objects in your inventory that are not made of metal instantly combust. You are now immune to fire for short bursts.|
 |7|You are [deprived](/cairn-srd/#deprivation--fatigue). After recovery, roll 1d6. If the total is higher than your max HP, take the new result.|
 |8|You take 1d4 WIL damage when casting spells for the next 24 hours. Afterwards roll 3d6. If the total is higher than your max WIL, take the new result.|
-|9|Your **Grimoire** is damaged and unusable. Creating a new **Grimoire** from its remains restores the original spells as well.|
+|9|The spell turns your skin a dark shade of purple, and makes you invisible in the moonlight. Your eyes however glow a bright yellow at night.|
 |10|You become insubstantial for 1d4 hours as your spirit leaves your body, which remains unconscious. You can fly and pass through walls, but not touch anything. Also, no one can see or hear you through mundane means.|
 |11|You suffer horrible arcane burns; lose 1d4 WIL. From now on you can add +1 **Magic Dice** to a spell's [dice] (use a die of a different color). If it results in a 4-6 you lose 1 WIL.|
 |12|The spell backfires; you lose 1 inventory slot (scratch it off your sheet). You are now surrounded by a magical essence that provides +1 Armor (normal limits still apply).|
-|13|The spell turns your skin a dark shade of purple, and makes you invisible in the moonlight. Your eyes however glow a bright yellow at night.|
+|13|Your **Grimoire** is damaged and unusable. Creating a new **Grimoire** from its remains restores the original spells as well.|
 |14|Instead of Fatigue, the spell causes magical tumors to fill their respective slots. They can only be removed by a specialized healer. Upon recovery, you are able to ignore a single Fatigue taken from spellcasting. |
 |15|Arcane energies wrack your body as a piece of your soul is transferred into your **Grimoire**. You lose half your WIL (rounded down). Your **Grimoire** now appears in any form you wish and takes no space in inventory. It cannot be destroyed except by your own death, and vice-versa.|
 |15|You permanently lose 1d4 STR as the spell interacts with nearby plant life, which rips out of the earth and fuses against your skin. You have +1 Armor, although fire does enhanced damage against you. You can only feed by photosynthesis.|
@@ -47,12 +47,20 @@ To use [GLOG Magic](http://goblinpunch.blogspot.com/2016/05/the-glog.html) in Ca
 |23|You create an exact duplicate of yourself. One grows older while the other grows younger. Both age at at the rate of 1 year per day. Your thoughts are joined, and if one dies so does the other. Only magical aide will restore you; afterward add +1d6 to each ability score.|
 |24|You have become Elemental. Create a **True Name** for yourself. Magical energies surround you at all times, and mundane attacks against you are impaired. If someone learns your **True Name**, they can control you. Other Elementals will come for you.|
 
-### **Example**
-_**Barry** has 4 free inventory slots, giving him 4 **Magic Dice**. He selects the spell **Mirror Image** (see below), and decides to invest 3 of his **Magic Dice**. That means he can create three duplicates that last for three minutes each. He rolls: double 2s and a 5. He gains one Fatigue, and the spell effects occur as described._
+<details markdown="block">
+  <summary>
+Expand For Example
+ </summary>
 
-|||
-|---||
-| **Mirror Image**        | [dice] illusory duplicates of yourself appear under your control. |
+ ### **Example**
+ _**Barry** has 4 free inventory slots, giving him 4 **Magic Dice**. He selects the spell **Mirror Image** (see below), and decides to invest 3 of his **Magic Dice**. That means he can create **three** duplicates that last for **three** minutes each. He rolls: double 2s and a 5. The spell effects occur, and he takes one Fatigue. However, he also rolled a **series**, meaning a Mishap has occurred. He gets the [sum] of the dice - 9 - and looks up the effect on the Mishaps table.
+
+ |||
+ |---||
+ | **Mirror Image**  | [dice] illusory duplicates of yourself appear under your control. |
+
+</details>
+
 
 ## Additional Rules
 
@@ -73,3 +81,22 @@ Creating a **Grimoire** is time-consuming and expensive. You will need:
 
 author: [Yochai Gal](https://newschoolrevolution.com)  
 source: [Many Rats on Sticks by Skerples](https://drive.google.com/file/d/1wOAkBOCUSjnthMEnIsPVT1LSOCQzd88j/view?pli=1)
+
+<script>
+var xa = document.getElementById('expAll');
+xa.addEventListener('click', function(e) {
+
+  e.target.classList.toggle('exp');
+  e.target.classList.toggle('col');
+
+  var details = document.querySelectorAll('details');
+
+  Array.from(details).forEach(function(obj, idx) {
+    if (e.target.classList.contains('exp')) {
+      obj.open = false;
+    } else {
+      obj.open = true;
+    }
+  });
+}, false);
+</script>
