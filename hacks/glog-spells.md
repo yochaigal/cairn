@@ -116,6 +116,3 @@ nav_order: 2
 | 98   | **Widget**            | A primitive version of a drawn tool or item appears before you and disappears after a [dice] minutes. |
 | 99   | **Wizard Mark**         | Your finger can shoot a stream of ulfire-colored paint. This paint is only visible to you, and can be seen at any distance, even through solid objects. |
 | 100  | **X-Ray Vision**        | You gain X-Ray vision.               |
-
-
-Thanks To: **Duck The Bold**  
