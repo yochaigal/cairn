@@ -5,7 +5,7 @@ parent: Resources
 nav_order: 1
 nav_exclude: true
 ---
-<script src="/src/js/expand-for-example.js" type="text/javascript"></script>
+<script src="/js/expand-for-example.js" type="text/javascript"></script>
 
 # Frequently Asked Questions
 ---

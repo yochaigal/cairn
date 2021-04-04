@@ -4,7 +4,7 @@ title: SRD
 nav_order: 2
 ---
 
-<script src="/src/js/expand-for-example.js" type="text/javascript"></script>
+<script src="/js/expand-for-example.js" type="text/javascript"></script>
 
 # Cairn System Reference Document (v.1.0)
 
