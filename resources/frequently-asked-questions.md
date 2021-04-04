@@ -21,7 +21,6 @@ Please refer to the [SRD](/cairn-srd/) while reading the following, particularly
 - During character generation it was decided that the PCs were both previously employed by the same wealthy benefactor, who owned lands adjacent to their destination.
 - Recently, the party uncovered a hidden parchment that detailed the item's true location.
 
-<script src="/js/expand-all.js" type="text/javascript"></script>
 <a href='#/' id='expAll' class='exp'>Click Here To Expand/Collapse All Examples</a>{: .btn }
 
 ## How does a PC's knowledge and experience effect the game?
@@ -271,3 +270,5 @@ Expand For Example
 
  _example here_
 </details>
+
+<script src="/js/expand-all.js" type="text/javascript"></script>
