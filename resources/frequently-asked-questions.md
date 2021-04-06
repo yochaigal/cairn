@@ -186,7 +186,7 @@ Expand For Example
 
  **Warden**: _"Not that you can see. In the far North a copse of trees hugs the ravine and partially blocks your way; you'd need to explore a bit to see past them.  A few hundred meters South however you can see a small shelf jutting out from inside the ravine, probably fifty feet down. It makes a sort of "L" shape, getting pretty close to the other side. It might require a little work to shimmy onto, but it seems doable."_
 
- **Barry**: _"I say, let's go for the shelf. Still go that rope? I have some pitons."_
+ **Barry**: _"I say, let's go for the shelf. Still go that rope and pitons?"_
 
  **Esther**: _"Yeah, I don't see a better way across. Let's go."_
 
@@ -196,7 +196,7 @@ Expand For Example
 
  **Warden**: _"You find a large stone along the edge and hammer the piton into it."_
 
- **Barry**: _"Great, I lower myself down. **Esther** will follow, I assume."_
+ **Barry**: _"Great, I lower myself down, then light up my lantern. **Esther** will follow, I assume."_
 
  **Warden**: _"Carefully planting your feet on the shelf, you test the rope and call up to **Esther**, who climbs down. After she has arrived safely on the shelf, you survey your surroundings. The shelf appears to zigzag down the inside of the ravine, nearly to the bottom. The sound of rushing water below fills the ravine. Do you leave the rope behind for the return journey?"_
 
@@ -214,9 +214,9 @@ Expand For Example
 
  **Warden**: _"You'll have to make a **DEX save** to see if you can cross over the slick surface without slipping."_
 
- **Barry**: _"I rolled a 14, a fail. Damn."_
+ **Barry**: _"OK, I hand **Esther** my lantern so I can use both hands.... and I rolled a 14, a fail. Damn."_
 
- **Warden**: _"You slip and tumble down the waterfall and into the water-filled basin below. You loses 1d4 STR damage, and one item from your pack is also knocked loose. I'm going to roll a Fate die... hey, a lucky 5! OK, you get to choose what falls out."_
+ **Warden**: _"You slip and tumble down the waterfall and into the water-filled basin below, smacking your hand hard into the side of the pool at the same time. You loses 1d4 DEX damage, and you are unable to properly squeeze items in your dominant hand. It's almost completely dark, but you can still make out the light of your comrade's torch above."_
 
 **Which Ability should non-combat damage impact?**
 - If the injury affects their physical strength or health, subtract from **STR**. _This does not trigger a **critical damage save**_. **STR** is a reflection of a PC's health, and should reflect that in subtle but interesting ways: perhaps requiring a **save** where none would have been necessary before.
@@ -230,25 +230,42 @@ A few considerations:
 
 </details>
 
-## Can the fiction negate mechanics?
+## How does the fiction influence mechanics?
 
 <details markdown="block">
   <summary>
 Expand For Example
  </summary>
 
- **Barry**: _"Well, that was a bad idea. If I get to choose what I lose though... how about my remaining piton? Everything else is just to important, and I don't have a rope anyways. Speaking of which, how exactly am I going to get back up there without one?"_
-
-**Esther**: _"Makes sense to me. Hey, how much can I see of the chasm from where I'm standing?"_
+ **Barry**: _"Well, that was a bad idea! How exactly am I going to get back up? Unless... hey, how much can I see into the darkness below?"_
 
  **Warden**: _"There isn't much light here, but something glints in the darkness beneath you. If you had more light, you could perhaps make out what it is."_
 
- **Esther**: _"Why don't I toss you my lamp, which is still dry as far as I know. Does that require a roll?"_
+ **Esther**: _"Why don't I toss him down my lantern. Does that require a roll?"_
 
- **Warden**: _"Nope. **Barry**, you catch it without issue. Now, you get a decent view of the chasm beneath. You see a series of small waterfalls, basins and protruding shelves going all the way down to a rushing river on the bottom. There is even a narrowing of the ravine itself just below them where you could conceivably leap over to the other side!"_
+ **Warden**: _"Normally, no. But remember his hand is still somewhat injured from the fall. I'm going to say that he has to roll, since he's also the most at risk."_
 
- _to be continued_
- _
+**Barry**: _"I rolled a 3. Finally!"_
+
+ **Warden**: _"**Barry**, you catch it without issue. Now you get a decent view of the chasm beneath. You see a series of small waterfalls, basins and protruding shelves going all the way down to a rushing river on the bottom. There is even a narrowing of the ravine itself about 50 feet South where you could conceivably leap over to the other side!"_
+
+ **Barry**: _"Ha! I knew this was a good idea. But how do we get down there?"_
+
+ **Warden**: _"You can actually slide down the waterfall pouring out from the small pool you're already standing in... it's a short drop, so you aren't in any great danger, even with that hand of yours."_
+
+ **Esther**: _"And how exactly do I get down there, though? Wait, I've got an idea. I can see him, right? What if I were to jump..."_
+
+ **Barry**: _"...Am I supposed to catch you? With which hand, exactly?"_
+
+ **Esther**: _"Don't be ridiculous. You'll be my landing pad."_
+
+ **Warden**: _"You should know that you aren't in any terrible danger here since you're actually aiming for the pool, but that doesn't mean it's risk-free. You'll need to hold on with both hands, and it should be a bumpy ride. Something could pop loose."_
+
+ **Esther**: _"OK, my DEX isn't great, but here goes anyways... and I rolled an 13, a fail. See **Barry**? You're not the only one with bad luck around here."_
+
+ **Warden**: _"You make it, but the journey down wasn't fun. One item from your pack is knocked loose, so I'm going to roll a Fate die... hey, a lucky 5! OK, you get to choose what falls out."_
+
+ **Esther**: _"If I get to choose what I lose though... how about my remaining piton? Everything else is just too important, and I don't have a rope anyways."_
 
 </details>
 
