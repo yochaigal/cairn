@@ -268,7 +268,7 @@ Expand For Example
 
  **Esther**: _"If I get to choose what I lose though... how about my remaining piton? Everything else is just too important, and I don't have a rope anyways."_
 
- **Warden**: _"You hear the small metal shard bounce against the ravine wall, ending in a splash as it lands in the flowing water beneath."_ 
+ **Warden**: _"You hear the small metal shard bounce against the ravine wall, ending in a splash as it lands in the flowing water beneath."_
 
 </details>
 
@@ -288,7 +288,9 @@ The Warden should consider the following when awarding non-mechanical growth to 
 Expand For Example
  </summary>
 
- _example here_
+ **Warden**: _"Slowly, you descend into the ravine. The darkness is near-absolute here, your lantern a shining beacon to anyone or anything that might be down here. Fortunately it seems that you are largely alone; at least for now."_
+
+ **Esther**: _"Ugh, I have a bad feeling about this._ 
 
 
 
