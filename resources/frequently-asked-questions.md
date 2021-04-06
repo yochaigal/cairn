@@ -231,6 +231,7 @@ A few considerations:
 </details>
 
 ## How does the fiction influence mechanics?
+The realities of the game's fiction should always take precedence over mechanics. Occasionally the facts of a particular scene, fact, or action will render a mechanic or rule obsolete. If a short-legged thief attempts to leap across an impossible gap, there is no save. They simply fall into the abyss. Likewise if that same thief were to try to knock unconscious an oblivious & defenseless guard, it just happens. There is no need for a roll.
 
 <details markdown="block">
   <summary>
