@@ -268,6 +268,8 @@ Expand For Example
 
  **Esther**: _"If I get to choose what I lose though... how about my remaining piton? Everything else is just too important, and I don't have a rope anyways."_
 
+ **Warden**: _"You hear the small metal shard bounce against the ravine wall, ending in a splash as it lands in the flowing water beneath."_ 
+
 </details>
 
 ## How do PCs advance without things like levels or XP?
@@ -287,6 +289,9 @@ Expand For Example
  </summary>
 
  _example here_
+
+
+
 </details>
 
 <script src="/js/expand-all.js" type="text/javascript"></script>
