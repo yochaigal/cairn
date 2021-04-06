@@ -280,7 +280,7 @@ The Warden should consider the following when awarding non-mechanical growth to 
 - It is better for a PC to become more _interesting_ than more skilled or capable.
 - PCs experience growth not necessarily because they've gotten more skill and experience, but because they are _changed_ in a significant way.
 - There should be opportunities for growth & change everywhere, _especially_ when a PC puts themselves at risk.
-- Growth occurs _while things are happening_, not after the PC has rested.
+- Growth occurs _while things are happening_, not just after the PC has rested.
 
 
 <details markdown="block">
@@ -288,11 +288,31 @@ The Warden should consider the following when awarding non-mechanical growth to 
 Expand For Example
  </summary>
 
- **Warden**: _"Slowly, you descend into the ravine. The darkness is near-absolute here, your lantern a shining beacon to anyone or anything that might be down here. Fortunately it seems that you are largely alone; at least for now."_
+  **Warden**: _"Slowly you descend into the near-absolute darkness of the ravine. Your lantern is bright enough to allow safe travel, but also acts as a shining beacon to anyone or anything that might be down here. Fortunately it seems that you are largely alone; at least for now. Eventually the roaring river below becomes drowning out your voices."_
 
- **Esther**: _"Ugh, I have a bad feeling about this._ 
+  **Esther**: _"Ugh, I have a bad feeling about this. How far down do we have to go?"_
 
+  **Warden**: _"You're just above the riverbed, actually. Carefully placing your feet onto the slick surface, you hold your lantern high and watch as the water glitters, almost in response. You are only a few dozen feet from the shelf you saw earlier as well."_
 
+  **Esther**: _"How dangerous do we think it would be to cross that way?"_
+
+  **Warden**: _"You'll have to jump. The water rushes right beneath, so you'd have a soft landing. The current looks strong as well._
+
+  **Esther**: _"What did you mean before when you said that the river glittered as if in response? I am not prepared to deal with intelligent rivers."_
+
+  **Warden**: _"You're not totally sure, but it looked like there might be something alive in there. As a former botanist, you already know about bioluminescent plants."_
+
+  **Barry**: _"Plants? We can handle plants. Why don't we just wade through the river here?"_
+
+  **Esther**: _"Hmm that's might be a good idea. Wait, what about hidden rocks and such?"_
+
+  **Warden**: _"You could try, certainly. There don't appear to be a lot of rocks poking out of here that you can see, either."_
+
+  **Esther**: _"I'll go first this time. You hold the lantern up with your good hand, **Barry**."_
+
+  **Barry**: _"Good call. I'll yell out if something leaps out of the river and tries to eat you, too."_
+
+  **Warden**: _"You step into the rushing river. It pulls on your legs, but otherwise you feel strong enough to cross without aide. Slowly, you begin to cross the river. With each step, you can see the colorful plants - algae, perhaps - glowing and moving in response to your footsteps. It might also just be the light."_
 
 </details>
 
