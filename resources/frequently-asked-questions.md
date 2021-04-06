@@ -316,6 +316,7 @@ Expand For Example
 
 </details>
 
+<script 
 var xa = document.getElementById('expAll');
 xa.addEventListener('click', function(e) {
 
@@ -332,3 +333,4 @@ xa.addEventListener('click', function(e) {
     }
   });
 }, false);
+</script>
