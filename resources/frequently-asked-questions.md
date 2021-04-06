@@ -300,7 +300,7 @@ Expand For Example
 
   **Esther**: _"What did you mean before when you said that the river glittered as if in response? I am not prepared to deal with intelligent rivers."_
 
-  **Warden**: _"You're not totally sure, but it looked like there might be something alive in there. As a former botanist, you already know about bioluminescent plants."_
+  **Warden**: _"You're not totally sure, but it looked like there might be something alive in there. As a former herbalist, you already know about bioluminescent plants."_
 
   **Barry**: _"Plants? We can handle plants. Why don't we just wade through the river here?"_
 
