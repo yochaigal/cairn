@@ -312,7 +312,21 @@ Expand For Example
 
   **Barry**: _"Good call. I'll yell out if something leaps out of the river and tries to eat you, too."_
 
-  **Warden**: _"You step into the rushing river. It pulls on your legs, but otherwise you feel strong enough to cross without aide. Slowly, you begin to cross the river. With each step, you can see the colorful plants - algae, perhaps - glowing and moving in response to your footsteps. It might also just be the light."_
+  **Warden**: _"You step into the rushing river. It pulls on your legs, but otherwise you feel strong enough to cross without aide. Slowly you begin your journey; with each step you can see the colorful plants - algae, perhaps - glowing and moving in response to your footsteps. It might also just be the light."_
+
+  **Esther**: _"Spooky. Can I feel anything?"_
+
+  **Warden**: _"Only the wetness of the river. Perhaps a distant tickling, but that good be reeds. You are about halfway across when **Barry sees something moving in the waters ahead. It is jet-black and sleek, like an eel. It is also around 5 feet long."_
+
+  **Barry**: _"I warn her to pull back."_
+
+  **Esther**: _"Am I faster than this thing?"_
+
+  **Warden**: _"Hmm... You'd have to make a DEX save."_
+
+  **Esther**: _"Sorry **Barry**, I want to see if I can outrun it. We'll figure out how to get you over after. Here goes... A 2! Yes! I charge across."_
+
+  **Warden**: 
 
 </details>
 
