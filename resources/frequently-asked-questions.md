@@ -23,7 +23,7 @@ Please refer to the [SRD](/cairn-srd/) while reading the following, particularly
 
 <a href='#/' id='expAll' class='exp'>Click Here To Expand/Collapse All Examples</a>{: .btn }
 
-## How does a PC's knowledge and experience effect the game?
+## What impact does a PC's "background" have?
 A character's relevant background, history, and experiences may provide a potential benefit (or disadvantage) to certain situations. Similarly, previous events in the game may influence the impact of their actions, including negating the need for a **save** in some circumstances!
 
 <details markdown="block">
@@ -142,7 +142,7 @@ Expand For Example
 </details>
 
 ## In a contested action, who should save?
-If two opponents are both attempting to overcome the other, whomever is most at risk should **save**. The Warden should make a _consistent_ ruling in this regard, and make sure it is explained clearly to the players before a risk is taken if possible.
+If two opponents are both attempting to overcome the other, whoever is most at risk should **save**. The Warden should make a _consistent_ ruling in this regard, and make sure it is explained clearly to the players before a risk is taken if possible.
 
  <details markdown="block">
    <summary>
