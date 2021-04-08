@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Maze Rats Spells
+title: Third Party Hacks
 parent: Hacks
 nav_order: 7
 ---
