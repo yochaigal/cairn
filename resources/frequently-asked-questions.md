@@ -324,7 +324,7 @@ Expand For Example
 
   **Barry**: _"I warn her to pull back."_
 
-  **Esther**: _"Am I faster than this thing?"_
+  **Esther**: _"Can I outrun this thing?"_
 
   **Warden**: _"Hmm... You'd have to make a DEX save."_
 
@@ -387,6 +387,10 @@ Expand For Example
   **Esther**: _"Wait, can I make light now? Am I a human torch?"_
 
   **Warden**: _"In complete darkness, yes. Let's hope you don't need to some tall socks anytime soon."_
+
+  **Barry**: _"Well, this is cool. So the eels like the light, right? Maybe we can use this information somehow..."_
+
+  **Esther**: _"Oh, now you've got an idea? Awesome: let's hear it."_
 
 </details>
 
