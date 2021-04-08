@@ -22,7 +22,7 @@ Please refer to the [SRD](/cairn-srd/) while reading the following, particularly
 
 <a href='#/' id='expAll' class='exp'>Click Here To Expand/Collapse All Examples</a>{: .btn }
 
-## What impact does a PC's "background" have?
+## What impact does a PC's background have?
 A character's relevant background, history, and experiences may provide a potential benefit (or disadvantage) to certain situations. Similarly, previous events in the game may influence the impact of their actions, including negating the need for a **save** in some circumstances!
 
 <details markdown="block">
@@ -86,7 +86,7 @@ Expand For Example
 
 </details>
 
-## How does the Warden decide turn order?
+## How is turn order decided?
 Some games rely on "Initiative" to determine who goes first when combat begins. In **Cairn**, the PCs must each make a **DEX save** in order to act before their opponents. After that round has been concluded, the two "sides" each take turns attacking, their individual members acting in whatever order they wish. In some cases a **DEX save** may _not_ be necessary, especially when the PC or NPC was on guard or ready for an attack.
 
 <details markdown="block">
@@ -229,7 +229,7 @@ A few considerations:
 
 </details>
 
-## How does the fiction influence mechanics?
+## When does what's happening in the fiction overrule game mechanics?
 The realities of the game's fiction should always take precedence over mechanics. Occasionally the details of a particular scene (such as a PC or NPC's knowledge or abilities) will render a mechanic or rule obsolete. If a short-legged thief attempts to leap across an impossible gap, there is no save. They simply fall into the abyss. Likewise if that same thief were to try to knock unconscious an oblivious & defenseless guard, it just happens. There is no need for a roll.
 
 <details markdown="block">
@@ -385,7 +385,7 @@ Expand For Example
 
   **Esther**: _"Wait, can I make light now? Am I a human torch?"_
 
-  **Warden**: _"In complete darkness, yes. Let's hope you don't need to some tall socks anytime soon."_
+  **Warden**: _"In complete darkness, yes. Let's hope you don't to go sneaking around in the dark anytime soon."_
 
   **Barry**: _"Well, this is cool. So the eels like the light, right? Maybe we can use this information somehow..."_
 
