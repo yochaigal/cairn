@@ -16,12 +16,12 @@ parent: Resources
 
 idolofmanyhand's generators [Perchance](https://perchance.org/cairn-characters) or [Chartopia](http://d12dev.com/chart/32009)
 
-[Classic Fantasy Starting Packages](https://dreamingdragonslayer.wordpress.com/2021/01/06/classic-fantasy-starting-packages-for-into-the-odd/)
+[Classic Fantasy Starting Packages](https://dreamingdragonslayer.itch.io/into-the-odd-classic-fantasy-starting-packages)
+
+[108 Level-less Spells](https://dreamingdragonslayer.itch.io/108-level-less-spells-d366)
 
 [d66 Starting Loadouts by Classess Kobolds](https://classless-kobolds.itch.io/d66-starting-loadouts-for-cairn)
 
-[FoundryVTT System](https://github.com/smcabrera/Cairn-FoundryVTT)
+[FoundryVTT System](https://github.com/yochaigal/Cairn-FoundryVTT)
 
 [Mausritter Item Creation Tools](https://mausritter.com/item-card-studio/)
-
-[Electric Bastionland Style Backgrounds For Knave (work for Cairn, too!)](https://aboleth-overlords.com/tag/careers/)
