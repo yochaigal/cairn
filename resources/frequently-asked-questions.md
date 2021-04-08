@@ -316,7 +316,11 @@ Expand For Example
 
   **Esther**: _"Spooky. Can I feel anything?"_
 
-  **Warden**: _"Only the wetness of the river. Perhaps a distant tickling, but that good be reeds. You are about halfway across when **Barry sees something moving in the waters ahead. It is jet-black and sleek, like an eel. It is also around 5 feet long."_
+  **Warden**: _"Only the wetness of the river. Perhaps a distant tickling but that could be the reeds. They seem to react to your every movement."_
+
+  **Esther**: _"Interesting. If I'm not in any danger though I think I'll press. Does our light allow us to see across the whole river yet?"_
+
+  **Warden**: _"Nearly. You are about halfway across when **Barry** sees something moving in the waters ahead. It is jet-black and sleek, like an eel. It is also around 5 feet long."_
 
   **Barry**: _"I warn her to pull back."_
 
@@ -324,9 +328,15 @@ Expand For Example
 
   **Warden**: _"Hmm... You'd have to make a DEX save."_
 
-  **Esther**: _"Sorry **Barry**, I want to see if I can outrun it. We'll figure out how to get you over after. Here goes... A 2! Yes! I charge across."_
+  **Esther**: _"Sorry **Barry**, I want to see if I can outrun it. We'll figure out how to get you across once I'm on dry land again. OK, here goes... Yes, a 2! I charge across."_
 
-  **Warden**: 
+  **Warden**: _"You increase your pace dramatically, sprinting across the water in big splashes. With each leap, your foot disrupts the colorful creatures within. The water begins to roil violently around your ankles. Ahead, the eel-like creature darts away as if in response. You finally arrive at the other bank, the river's water bubbling behind you. As you leap out of the water, some of the bioluminescent substance sticks to your right ankle. Standing up on the dry ground, you seem unable to kick it off. It doesn't hurt you or anything, but feels like its been painted to your ankle."_
+
+  **Esther**: _"Damn! What does it feel like? Also, what do I see on this side of the river?"_
+
+  **Warden**: _"It feels a bit wet, but otherwise like a tattoo on your skin. Like it's a part of you. You are standing on a near-identical bank as the opposite side; you'll have to explore a bit to learn more."_
+
+  **Barry**: _"This perhaps does not bode well for me, either. How should I cross?"_
 
 </details>
 
