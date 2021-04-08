@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GLOG Spells
+title: Maze Rats Spells
 parent: Hacks
 nav_order: 7
 ---
