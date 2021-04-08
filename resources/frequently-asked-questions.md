@@ -336,25 +336,13 @@ Expand For Example
 
   **Warden**: _"It feels a bit wet, but otherwise like a tattoo on your skin. Like it's a part of you. You are standing on a near-identical bank as the opposite side; you'll have to explore a bit to learn more."_
 
-  **Barry**: _"This perhaps does not bode well for me, either. How should I cross?"_
+  **Esther**: _"I suppose I can ignore this for now, if it isn't hurting me or anything. **Barry**, how are you going to cross these swirling eel-infested waters? Maybe off that ledge further down?"_
+
+  **Barry**: _"That works. How many torches do you have left? I don't leave you in the dark when I head down there. You could also follow me down a bit, though the light might not be perfect."_
+
+  **Esther**: _"I've still got two. But maybe I can do something on this end to help you jump that ledge? I think I'll follow you."_
+
 
 </details>
 
-<script>
-var xa = document.getElementById('expAll');
-xa.addEventListener('click', function(e) {
-
-  e.target.classList.toggle('exp');
-  e.target.classList.toggle('col');
-
-  var details = document.querySelectorAll('details');
-
-  Array.from(details).forEach(function(obj, idx) {
-    if (e.target.classList.contains('exp')) {
-      obj.open = false;
-    } else {
-      obj.open = true;
-    }
-  });
-}, false);
-</script>
+<script src="/js/expand-all.js"></script>
