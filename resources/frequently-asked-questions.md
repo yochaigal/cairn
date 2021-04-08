@@ -208,7 +208,7 @@ Expand For Example
 
  **Warden**: _"Not from what you can tell. You could try and climb down, but it is quite dark and likely even more dangerous."_
 
- **Barry**: _"OK, I think I'll try my luck with the waterfall, thank you. **Esther**, can you grab onto bag as I step through?"_
+ **Barry**: _"OK, I think I'll try my luck with the waterfall, thank you. **Esther**, can you hold on to my bag as I step through?"_
 
  **Esther**: _"And have you take me with you? No thanks!"_
 
@@ -231,7 +231,7 @@ A few considerations:
 </details>
 
 ## How does the fiction influence mechanics?
-The realities of the game's fiction should always take precedence over mechanics. Occasionally the facts of a particular scene, fact, or action will render a mechanic or rule obsolete. If a short-legged thief attempts to leap across an impossible gap, there is no save. They simply fall into the abyss. Likewise if that same thief were to try to knock unconscious an oblivious & defenseless guard, it just happens. There is no need for a roll.
+The realities of the game's fiction should always take precedence over mechanics. Occasionally the details of a particular scene (such as a PC or NPC's knowledge or abilities) will render a mechanic or rule obsolete. If a short-legged thief attempts to leap across an impossible gap, there is no save. They simply fall into the abyss. Likewise if that same thief were to try to knock unconscious an oblivious & defenseless guard, it just happens. There is no need for a roll.
 
 <details markdown="block">
   <summary>
@@ -260,7 +260,7 @@ Expand For Example
 
  **Esther**: _"Don't be ridiculous. You'll be my landing pad."_
 
- **Warden**: _"You should know that you aren't in any terrible danger here since you're actually aiming for the pool, but that doesn't mean it's risk-free. You'll need to hold on with both hands, and it should be a bumpy ride. Something could pop loose."_
+ **Warden**: _"You should know that you aren't in any terrible danger here since you're actually aiming for the pool, but that doesn't mean it's risk-free. You'll need to hold on to the wall with both hands, and it should be a bumpy ride. Something could pop loose."_
 
  **Esther**: _"OK, my DEX isn't great, but here goes anyways... and I rolled an 13, a fail. See **Barry**? You're not the only one with bad luck around here."_
 
@@ -277,7 +277,7 @@ In **Cairn**, character _growth_ is preferable over _advancement_. This means th
 
 The Warden should consider the following when awarding non-mechanical growth to PCs:
 - Growth should be tied to a _specific_ experience occurring in the fiction.
-- It is better for a PC to become more _interesting_ than more skilled or capable.
+- It is as important for a PC to grow more _interesting_ as it is they become more skilled or capable.
 - PCs experience growth not necessarily because they've gotten more skill and experience, but because they are _changed_ in a significant way.
 - There should be opportunities for growth & change everywhere, _especially_ when a PC puts themselves at risk.
 - Growth occurs _while things are happening_, not just after the PC has rested.
@@ -288,7 +288,7 @@ The Warden should consider the following when awarding non-mechanical growth to 
 Expand For Example
  </summary>
 
-  **Warden**: _"Slowly you descend into the near-absolute darkness of the ravine. Your lantern is bright enough to allow safe travel, but also acts as a shining beacon to anyone or anything that might be down here. Fortunately it seems that you are largely alone; at least for now. Eventually the roaring river below becomes drowning out your voices."_
+  **Warden**: _"Slowly you descend into the near-absolute darkness of the ravine. Your lantern is bright enough to allow safe travel, but also acts as a shining beacon to anyone or anything that might be down here. Fortunately it seems that you are largely alone, at least for now. Eventually the roar of the river below begins to drown out your voices."_
 
   **Esther**: _"Ugh, I have a bad feeling about this. How far down do we have to go?"_
 
@@ -314,7 +314,7 @@ Expand For Example
 
   **Warden**: _"You step into the rushing river. It pulls on your legs, but otherwise you feel strong enough to cross without aide. Slowly you begin your journey; with each step you can see the colorful plants - algae, perhaps - glowing and moving in response to your footsteps. It might also just be the light."_
 
-  **Esther**: _"Spooky. Can I feel anything?"_
+  **Esther**: _"Uh... Can I feel them?"_
 
   **Warden**: _"Only the wetness of the river. Perhaps a distant tickling but that could be the reeds. They seem to react to your every movement."_
 
