@@ -266,7 +266,7 @@ Expand For Example
 
  **Warden**: _"You make it, but the journey down wasn't fun. One item from your pack is knocked loose, so I'm going to roll a Fate die... hey, a lucky 5! OK, you get to choose what falls out."_
 
- **Esther**: _"If I get to choose what I lose though... how about my remaining piton? Everything else is just too important, and I don't have a rope anyways."_
+ **Esther**: _"If I get to choose what I lose though... how about my remaining torch? Everything else is just too important, and we still have a lantern and oil."_
 
  **Warden**: _"You hear the small metal shard bounce against the ravine wall, ending in a splash as it lands in the flowing water beneath."_
 
@@ -277,7 +277,7 @@ In **Cairn**, character _growth_ is preferable over _advancement_. This means th
 
 The Warden should consider the following when awarding non-mechanical growth to PCs:
 - Growth should be tied to a _specific_ experience occurring in the fiction.
-- It is as important for a PC to grow more _interesting_ as it is they become more skilled or capable.
+- It is more important for a PC to grow more _interesting_ than it more skilled or capable.
 - PCs experience growth not necessarily because they've gotten more skill and experience, but because they are _changed_ in a significant way.
 - There should be opportunities for growth & change everywhere, _especially_ when a PC puts themselves at risk.
 - Growth occurs _while things are happening_, not just after the PC has rested.
@@ -340,8 +340,53 @@ Expand For Example
 
   **Barry**: _"That works. How many torches do you have left? I don't leave you in the dark when I head down there. You could also follow me down a bit, though the light might not be perfect."_
 
-  **Esther**: _"I've still got two. But maybe I can do something on this end to help you jump that ledge? I think I'll follow you."_
+  **Esther**: _"I'm all out, unfortunately. But maybe if I follow you I can do something on this end to help you jump that ledge?"_
 
+  **Warden**: _"You march in parallel on either sides of the fast-moving river the light from **Barry's** lamp just barely illuminating your way. **Esther**, you are having an especially difficult time as you have to hug the riverbank or avoid stepping into shadows unknown."_
+
+  **Esther**: _"If I'm close to the river, I'd like to study it some more. Do I still see the swirling bioluminescent plant things?"_
+
+  **Warden**: _"Yes, and they seem to be following you. Interestingly, the light from their movement is almost enough to see the into the river."_
+
+  **Barry**: _"That's good. Maybe now you can keep an eye out for any more eels? What about me? What do I see as I trod down this godforsaken ravine?"_
+
+  **Warden**: _"The walls on your side of the river narrow a bit as you get closer to the raised shelf you spied earlier; in fact you begin to feel quite squeezed-in. Fortunately you are scrawny enough to just make it to the shelf, which completely blocks your way forward."_
+
+  **Esther**: _"What can I see from my side of the river? Am I still forced to hug the riverbank?"_
+
+  **Warden**: _"The ravine isn't nearly as narrow from your end, meaning it would be easy to continue on forward from where you are, were you to move away from the light of course. But more importantly, you can see that the shelf used to extend across the river, as there is a mirrored shelf sticking out from the other side as well. There is a massive gap between, though. Perhaps it collapsed at some point in the past? Anyway, **Barry** can try and climb the shelf or enter the river and move around it. At least this time there isn't a slimy waterfall to get around!_
+
+  **Barry**: _"Assuming I can easily scale this thing, I'd say: let's go for it."_
+
+  **Warden**: _"You mount it with ease after placing your lamp on top and then pulling yourself up. Now you just have to get across."_
+
+  **Barry**: _"Quick question, what is the water like in the exact center of the river where the gap is?"_
+
+  **Warden**: _"It's a bit difficult to tell from here, but if you move closer you might get a better look. **Esther** however has been watching the river all the while, and can see that the waters within are moving quite rapidly, in a circular formation."_
+
+  **Esther**: _"These are eels right? I bet they're eels. What are my bio-friends doing right now?"_
+
+  **Warden**: _"Looking down into the waters near the shore you see that all of the bioluminescent creatures have fled, almost as if in fear of this part of the river."_
+
+  **Esther**: _"Hmm... alright, I've got a theory. **Barry**, you should hold the lantern between the gap in the "bridge" and see what happens."_
+
+  **Barry**: _"Uh, OK. I carefully walk to the middle of the river on the "bridge", then lay down, hanging my lantern over the edge - but only just. I want to be as safe as possible here."_
+
+  **Warden**: _"The moment you lower it, a slick black eel leaps into the air and snaps at the lantern with needle-like teeth. You're quick enough to save it, though. The eel splashes back into the water."_
+
+  **Barry**: _"Wow! That was scary. I'm guessing I'll need to save in order to jump across, right?"_
+
+  **Warden**: _"Unless you've got a better idea, yes."_
+
+  **Esther**: _"I have one. Hey **Barry**, why don't you extinguish that light?"_
+
+  **Barry**: _"Done. Now what?"_
+
+  **Warden**: _"You switch off the lantern. Blinking in the darkness, your eyes slowly being to adjust. Suddenly you see a light beginning to glimmer on the far-off shore where **Esther** is standing. It's her ankle; it is lit up like a candle!"_
+
+  **Esther**: _"Wait, can I make light now? Am I a human torch?"_
+
+  **Warden**: _"In complete darkness, yes. Let's hope you don't need to some tall socks anytime soon."_
 
 </details>
 
