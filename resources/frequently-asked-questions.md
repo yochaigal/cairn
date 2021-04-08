@@ -16,9 +16,7 @@ Please refer to the [SRD](/cairn-srd/) while reading the following, particularly
 - **Esther** is playing an ex-**Herbalist**.
 - **Barry** plays a former **Hunter**.
 - The PCs are in search of a powerful [**Relic**](/cairn-srd/#relics), rumored to have restorative powers.
-- It is rumored to be located on the far East side of the **Geunant Forest**, a wood known for having massive, ancient trees that allow little light through their humongous leaves.
-- During character generation it was decided that the PCs were both previously employed by the same wealthy benefactor, who owned lands adjacent to their destination.
-- Recently, the party uncovered a hidden parchment that detailed the item's true location.
+- Recently the party uncovered a parchment that detailed the item's true location, somewhere on the far East side of the **Geunant Forest**, a wood known for having massive, ancient trees that allow little light through their humongous leaves.
 
 <a href='#/' id='expAll' class='exp'>Click Here To Expand/Collapse All Examples</a>{: .btn }
 
