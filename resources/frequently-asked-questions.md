@@ -274,7 +274,7 @@ In **Cairn**, character _growth_ is preferable over _advancement_. This means th
 
 The Warden should consider the following when awarding non-mechanical growth to PCs:
 - Growth should be tied to a _specific_ experience occurring in the fiction.
-- It is more important for a PC to grow more _interesting_ than it more skilled or capable.
+- It is more important for a PC to grow more _interesting_ than more skilled or capable.
 - PCs experience growth not necessarily because they've gotten more skill and experience, but because they are _changed_ in a significant way.
 - There should be opportunities for growth & change everywhere, _especially_ when a PC puts themselves at risk.
 - Growth occurs _while things are happening_, not just after the PC has rested.
