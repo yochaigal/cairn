@@ -1,34 +1,18 @@
 ---
 layout: default
-title: FAQs
+title: Example of Play
 parent: Resources
-nav_order: 10
+nav_order: 11
 ---
 
-# Frequently Asked Questions
+# Example of Play
 ---
 
-## Introduction
-Below are a few answers to some of the most commonly asked questions from folks new to Cairn.  
-Please refer to the [SRD](/cairn-srd/) while reading the following, particularly with regards to [**saves**](/cairn-srd/#saves) and [combat](/cairn-srd/#combat).
-
-**Keep the following in mind when reading the example text!**  
+**Keep the following in mind:**  
 - **Esther** is playing an ex-**Herbalist**.
 - **Barry** plays a former **Hunter**.
 - The PCs are in search of a powerful [**Relic**](/cairn-srd/#relics), rumored to have restorative powers.
 - Recently the party uncovered a parchment that detailed the item's true location, somewhere on the far East side of the **Geunant Forest**, a wood known for having massive, ancient trees that allow little light through their humongous leaves.
-
-You can read also the entire **Example of Play** as a single [here](/resources/example-of-play).
-
-<a href='#/' id='expAll' class='exp'>Click Here To Expand/Collapse All Examples</a>{: .btn }
-
-## What impact does a PC's background have?
-A character's relevant background, history, and experiences may provide a potential benefit (or disadvantage) to certain situations. Similarly, previous events in the game may influence the impact of their actions, including negating the need for a **save** in some circumstances!
-
-<details markdown="block">
-  <summary>
-Expand For Example
- </summary>
 
  **Warden**: _"You've spent the better part of the morning cutting your way through the **Geunant Forest**, chopping past hanging vines and waist-high brambles. It is very easy to get lost here among the surrounding underbrush. To make matters worse the Sun is completely obscured by the thick overhead branches."_
 
@@ -47,20 +31,6 @@ Expand For Example
 **Warden**: _"You observe all these things, and reckon that yes it is very likely poisonous, as the petals closely resemble that of Wolfsbane."_
 
  **Barry**: _"All right, here's the plan: I'll climb up one of these trees above the plant and drape my blanket over it, blocking the sunlight. Hopefully that'll make the pods close up!"_
-
- **What if none of the PCs had any relevant experience or expertise?**
- - Had there been no PC with the **Herbalist** background, the Warden would likely have declared the PCs ignorant of the plant's properties, and (hopefully) the players would try to learn more by asking questions and experimentation.
- - If a PC had a _tangential_ background (like the **Hunter**) the Warden could let the [Fates decide](/cairn-srd/#die-of-fate) and roll 1d6. The higher the roll, the more likely the PC would know something relevant or useful.
-
-</details>
-
-## When should combat break out?
-**Cairn** assumes that the characters live in a dangerous world where even the most minor interaction can become quite deadly. The players should therefore be encouraged to find non-violent ways to solve their problems. There are of course times where this is quite impossible, and it is up to the Warden to determine if a violent situation should be resolved through combat.
-
-<details markdown="block">
-  <summary>
-Expand For Example
- </summary>
 
  **Warden**: _"By late afternoon you finally break through the forest boundary. Spilling out of the treeline, you nearly step into a deep chasm splitting the forest in two. Finally, you have arrived at the **God-Slip**, a seemingly endless ravine with no bridge crossing it. Judging by the sheer rock walls on either side, climbing down would be extremely dangerous. Unfortunately, your quarry is likely located just across, where the cliffs meet the edge of the world. There is a small clearing nearby where you could set up camp, shrouded by a humongous Oak tree planted close to the chasm."_
 
@@ -84,16 +54,6 @@ Expand For Example
 
   **Esther**: _"I'm prepared to fight, then. I stand up and draw my sword, ready for whatever comes."_
 
-</details>
-
-## How is turn order decided?
-Some games rely on "Initiative" to determine who goes first when combat begins. In **Cairn**, the PCs must each make a **DEX save** in order to act before their opponents. After that round has been concluded, the two "sides" each take turns attacking, their individual members acting in whatever order they wish. In some cases a **DEX save** may _not_ be necessary, especially when the PC or NPC was on guard or ready for an attack.
-
-<details markdown="block">
-  <summary>
-Expand For Example
- </summary>
-
  **Warden**: _"An Elk-like creature with glowing-red eyes explodes from the darkness of the wood opposite the party's campsite. A sea of mist flows off the creature's body as it runs directly at you, **Barry**. **Esther** was at the ready, so she gets to go first."_
 
  **Barry**: _"What about me?"_
@@ -103,21 +63,6 @@ Expand For Example
  **Barry**: _"I rolled 1d20, and the result is a 17. Ouch."_
 
  **Warden**: _"Yes, that's a fail. **Esther** will go first, then the creature, and finally **Barry**. After that you both will go again in any order you wish, then the creature, and so on."_
-
-</details>
-
-## When Should a PC or NPC **save**?
-A PC or NPC should **save** only if one or more of the following conditions are met:
-- When the outcome of an action is uncertain.
-- When something is at risk (a life, a threatening danger, etc.).
-- When making a critical damage save during [**combat**](/cairn-srd/#critical-damage)).
-
-**Saves** can happen both in an out of combat. A **save** is _almost_ never required when a PC or NPC is under attack, as attacks hit automatically. However, there are situations in which the fiction might dictate that an attack is automatically unsuccessful or impossible.
-
-<details markdown="block">
-  <summary>
-Expand For Example
- </summary>
 
  **Esther**: _"Do we know anything about this creature?"_
 
@@ -135,20 +80,7 @@ Expand For Example
 
  **Barry**: _"Uh... That sounds like a plan, I guess. Yes, let's do it!"_
 
- **Why didn't Barry need to save in order to successfully wrap the rope around the tree?**  
- On a turn, a PC can attempt any action; a **save** is only required if one of the conditions listed above are met. It seemed reasonable that **Barry** would be able to make a mad dash around the tree (which was only a few feet away) with the rope without much danger. Had he tried to run close to the **Blood Elk** or done something equally uncertain or dangerous, he would have been required to **save**.
-
-</details>
-
-## In a contested action, who should save?
-If two opponents are both attempting to overcome the other, whoever is most at risk should **save**. The Warden should make a _consistent_ ruling in this regard, and make sure it is explained clearly to the players before a risk is taken if possible.
-
- <details markdown="block">
-   <summary>
- Expand For Example
-  </summary>
-
-  **Warden**: _"**Esther**, you toss one end of your rope to **Barry**, who quickly loops the rope around the Oak tree, then rushes towards the cliff-face on the other side, screaming at the creature to charge at him. **Esther** takes point as a sort of ballast in case he falls. **Barry**, as you are in position to react, I'm going to allow you a sort of out of combat reaction."_
+ **Warden**: _"**Esther**, you toss one end of your rope to **Barry**, who quickly loops the rope around the Oak tree, then rushes towards the cliff-face on the other side, screaming at the creature to charge at him. **Esther** takes point as a sort of ballast in case he falls. **Barry**, as you are in position to react, I'm going to allow you a sort of out of combat reaction."_
 
   **Barry**: _"All right, if it comes near me I'd like to stand near the cliff edge, ready to leap out of the way."_
 
@@ -168,16 +100,6 @@ If two opponents are both attempting to overcome the other, whoever is most at r
   - **Esther** had tied the rope around a tree, using herself as a ballast. This provided a clear *situational* advantage.
 
   If **Barry** had been injured or had less time to prepare, it would be conceivable to ask for a **STR save** to see if he could hold on to the rope.
-
-</details>
-
-## How is damage awarded outside of combat?
-Occasionally a dangerous action, trap, surprise attack, or cataclysmic event will cause grave injury or even death. Typically the Warden declares the type of damage (e.g. **STR/DEX/WIL**) followed by the amount lost (either in terms of specific amounts, or a variable dice roll). It can be difficult to determine exactly what kind of damage to dole out, and how much.  
-
-<details markdown="block">
-  <summary>
-Expand For Example
- </summary>
 
  **Warden**: "_After your encounter with the **Blood Elk**, you return to camp and try to catch as much sleep as they can. By daybreak both of you are awake and ready to continue on your journey."_
 
@@ -217,26 +139,6 @@ Expand For Example
 
  **Warden**: _"You slip and tumble down the waterfall and into the water-filled basin below, smacking your hand hard into the side of the pool at the same time. You loses 1d4 DEX damage, and you are unable to properly squeeze items in your dominant hand. It's almost completely dark, but you can still make out the light of your comrade's torch above."_
 
-**Which Ability should non-combat damage impact?**
-- If the injury affects their physical strength or health, subtract from **STR**. _This does not trigger a **critical damage save**_. **STR** is a reflection of a PC's health, and should reflect that in subtle but interesting ways: perhaps requiring a **save** where none would have been necessary before.
-- If the injury impacts their ability to move, react quickly, or their fine motor skills, subtract from **DEX**. This frequently is paired with an in-fiction impact as well; broken fingers would impact a PC's ability to pick locks, for example.
-- If the spirit, willpower, or determination of a PC has been impacted, subtract from **WIL**. Especially helpful to consider during magical or superficial injuries. A PC whose soul was burnt by arcane energy may need to make a **WIL** save to read Spellbooks, for example.
-
-A few considerations:
-- An injury could take on multiple facets: [**Deprivation**](/cairn-srd/#deprivation--fatigue) may accompany STR loss from poison, for instance. Provide a potential solution to overcoming the illness, as well.
-- Damage should happen as a consequence of failing a **save**. Do not make players **save** after-the-fact.
-- Fictional injuries are just as powerful as direct mechanical damage. **DEX** loss will have an impact on a character's reflexes and speed, but a broken leg may prevent a character from being able to move at all!
-
-</details>
-
-## When does what's happening in the fiction overrule game mechanics?
-The realities of the game's fiction should always take precedence over mechanics. Occasionally the details of a particular scene (such as a PC or NPC's knowledge or abilities) will render a mechanic or rule obsolete. If a short-legged thief attempts to leap across an impossible gap, there is no save. They simply fall into the abyss. Likewise if that same thief were to try to knock unconscious an oblivious & defenseless guard, it just happens. There is no need for a roll.
-
-<details markdown="block">
-  <summary>
-Expand For Example
- </summary>
-
  **Barry**: _"Well, that was a bad idea! How exactly am I going to get back up? Unless... hey, how much can I see into the darkness below?"_
 
  **Warden**: _"There isn't much light here, but something glints in the darkness beneath you. If you had more light, you could perhaps make out what it is."_
@@ -268,32 +170,6 @@ Expand For Example
  **Esther**: _"If I get to choose what I lose though... how about my remaining torch? Everything else is just too important, and we still have a lantern and oil."_
 
  **Warden**: _"You hear the small metal shard bounce against the ravine wall, ending in a splash as it lands in the flowing water beneath."_
-
-</details>
-
-## How do PCs advance without things like levels or XP?
-In **Cairn**, character _growth_ is preferable over _advancement_. This means that although a PC _will_ change, they may not necessarily get _better_ with time. Growth occurs through both mechanical means (such as [**Scars**](/cairn-srd/#scars)), as well as through events happening solely in the fiction.
-
-**The Warden should consider the following when awarding non-mechanical growth to PCs:**
-- Growth should be tied to a _specific_ experience occurring in the fiction.
-- It is more important for a PC to grow more _interesting_ than more skilled or capable.
-- PCs experience growth not necessarily because they've gotten more skill and experience, but because they are _changed_ in a significant way.
-- There should be opportunities for growth & change everywhere, _especially_ when a PC puts themselves at risk.
-- Growth occurs _while things are happening_, not just after the PC has rested.
-- Training & Specialization should be tied to quests and character growth as much as possible.
-
-**Small Examples of Training & Specialization:**
-- Two days of study under a former royal archer has taught you how to fire arrows more effectively. Attacks with a longbow are enhanced.
-- After two weeks' of daily practice with the _Blade of Gwoed_, you feel confident enough to use it the deadly weapon in combat. Critical Damage: target loses a limb or is disemboweled (your choice).
-- Three days' worth of study under the tutelage of a skilled warrior has taught you how to never be surprised. You no longer need to make a DEX save before combat (unless the Warden says otherwise).
-- Five nights of intense study with the _Book of Curses_ has given you an edge in battle. If you insult an opponent before combat, all of their attacks against you and your friends are impaired.
-- After training with the _Mourning Monks of Es'ta_, you can now speak with the dead. You are deprived afterwards.
-
-
-<details markdown="block">
-  <summary>
-Expand For Example
- </summary>
 
   **Warden**: _"Slowly you descend into the near-absolute darkness of the ravine. Your lantern is bright enough to allow safe travel, but also acts as a shining beacon to anyone or anything that might be down here. Fortunately it seems that you are largely alone, at least for now. Eventually the roar of the river below begins to drown out your voices."_
 
@@ -396,8 +272,3 @@ Expand For Example
   **Warden**: _"In complete darkness, yes. Let's hope you don't to go sneaking around in the dark anytime soon."_
 
   **Barry**: _"Well, this is cool. So the eels like the light, right? This gives me an idea..."_
-
-</details>
-
-
-<script src="/js/expand-all.js"></script>
