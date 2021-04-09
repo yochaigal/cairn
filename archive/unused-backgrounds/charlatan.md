@@ -1,5 +1,5 @@
 ---
-title: "Charlatan"
+title: Charlatan
 layout: default
 nav_exclude: true
 parent: Backgrounds

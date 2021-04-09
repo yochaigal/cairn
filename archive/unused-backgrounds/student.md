@@ -1,5 +1,5 @@
 ---
-title: "Student"
+title: Student
 layout: default
 nav_exclude: true
 parent: Backgrounds

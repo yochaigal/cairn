@@ -33,7 +33,7 @@ grand_parent: Hacks
 ||                 ||
 | ---- | ---- |----|
 |1|**Alchemist's Fire**|A clay bottle filled with sticky green fluid that catches fire when exposed to air. Counts a bottle of burning oil without needing to lit.|
-|2|**Bomb**|Head-sized iron ball filled with explosive powder with an attached wick. Deals d12 [blast](https://cairnrpg.com/cairn-srd/#blast) damage.|
+|2|**Bomb**|Head-sized iron ball filled with explosive powder with an attached wick. Deals 1d12 [blast](https://cairnrpg.com/cairn-srd/#blast) damage.|
 |3|**Vial of Acid**|Can disintegrate 1 cubic inch of any surface.|
 |4|**Tincture Of Truth-Talking**|Only a few drops remain, enough for one dose. This tasteless clear liquid will compel whoever ingests it to answer questions truthfully for d6 \* 10 minutes.|
 |5|**Magnesium Shavings**|A pouch containing d6 uses that will easily ignite and burn intensely.|
