@@ -18,7 +18,7 @@ Please refer to the [SRD](/cairn-srd/) while reading the following, particularly
 - The PCs are in search of a powerful [**Relic**](/cairn-srd/#relics), rumored to have restorative powers.
 - Recently the party uncovered a parchment that detailed the item's true location, somewhere on the far East side of the **Geunant Forest**, a wood known for having massive, ancient trees that allow little light through their humongous leaves.
 
-You can read also the entire **Example of Play** as a single [here](/resources/example-of-play).
+You can read also the entire **Example of Play** as a single page [here](/resources/example-of-play).
 
 <a href='#/' id='expAll' class='exp'>Click Here To Expand/Collapse All Examples</a>{: .btn }
 
