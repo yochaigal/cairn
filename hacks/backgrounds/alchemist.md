@@ -6,17 +6,18 @@ parent: Backgrounds
 grand_parent: Hacks
 ---
 
+[![Alt text](/img/backgrounds/alchemist.jpg "East of the Sun and West of the Moon, illustrated by Kay Nielsen"){:height="75%" width="75%"}](/img/backgrounds/alchemist.jpg)
 
 # Alchemist
 
-## Starting Items
+## Starting Gear
 
 - 3d6 gold pieces
 - Three days’ rations (one slot)
 - Lantern & flask of oil (one slot)
 - Quarter staff (1d6, bulky)
 
-## Why Did You Stop Practicing Alchemy? [Roll 1d6]
+## Why Did You Stop Practicing Alchemy? Roll 1d6:
 
 ||                 ||
 | ---- | ---- |----|
@@ -27,7 +28,7 @@ grand_parent: Hacks
 |5|**Betrayed**| You're pretty sure your mentor was slowly killing you with arsenic. Every once in a while you'll find yourself in a vomiting fit. You are rarely hungry any more and require rations only every 2 days.|
 |6|**Accident**| The last concoction you brewed resulted in a massive explosion, scarring you horribly. Most folk will look away from whatever you're up to. You can walk handle fire for small spurts without taking injury.|
 
-## What Were You Able To Make Away With?
+## What Were You Able To Make Away With? Roll 1d6:
 
 ||                 ||
 | ---- | ---- |----|
