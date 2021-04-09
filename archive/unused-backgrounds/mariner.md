@@ -2,8 +2,6 @@
 title: Mariner
 layout: default
 nav_exclude: true
-parent: Backgrounds
-grand_parent: Hacks
 ---
 
 ![](https://aboleth-overlords.com/wp-content/uploads/2020/10/mariner.jpg)

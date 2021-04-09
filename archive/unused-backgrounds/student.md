@@ -2,8 +2,6 @@
 title: Student
 layout: default
 nav_exclude: true
-parent: Backgrounds
-grand_parent: Hacks
 ---
 
 ![](https://static.wixstatic.com/media/4748ee_145f65a699e9429795fa681be13df92f~mv2.jpg/v1/fill/w_767,h_619,al_c,q_90/4748ee_145f65a699e9429795fa681be13df92f~mv2.jpg)
