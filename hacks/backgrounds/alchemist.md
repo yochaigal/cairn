@@ -15,20 +15,20 @@ grand_parent: Hacks
 - 3d6 gold pieces
 - Three days’ rations (one slot)
 - Lantern & flask of oil (one slot)
-- Quarter staff (1d6, bulky)
+- Staff (1d6, bulky) or dagger (1d6)
 
 ## Why Did You Stop Practicing Alchemy? Roll 1d6:
 
 ||                 ||
 | ---- | ---- |----|
-|1|**Lack of Talent**| The most advanced concoction you could come up with was salt water. You are still pretty good at it, actually.|
-|2|**Heresy**| Local clergy found your theories and practices to be blasphemous and confiscated your works. Creatures of the Night will briefly look upon you as brethren.|
-|3|**Exiled**| You accidentally brewed a love potion for a client, an heir to a local position of nobility. They are now in infatuated with you, and their parents would rather see you dead than their offspring end up with you. You are hunted by both your client and an assassin. You have gotten good at disguising yourself.|
-|4|**You Overstepped**| You created a homunculus, a small 6-inch replica of yourself. It hates being enthralled to you and though it will follow your commands to the letter, it will try to undo your requests whenever possible. Any damage done to the homunculus is also done to you.|
-|5|**Betrayed**| Someone you once trusted had been slowly killing you with poison. Occasionally you experience a terrifying vomiting fit. You are also rarely hungry any more and need only eat every 2 days.|
-|6|**Accident**| The last concoction you brewed resulted in a massive explosion, scarring you horribly. Most folk will look away from whatever you're up to. You can walk handle fire for small spurts without taking injury.|
+|1|**Directionless**| You never excelled in any particular field, and dabbled in many subjects without focus.|
+|2|**Heresy**| Local clergy found your theories and practices to be blasphemous and confiscated your works. You escaped with a **Relic** (cast _Raise Dead_ once per day). They still look for you, and using the **Relic** may alert them to your location.|
+|3|**Exiled**| You accidentally brewed a love potion for a client, an heir to a local position of nobility. They were infatuated with you, but their parents had other ideas. With the proper ingredients, you know how to make the _Shroud_ potion (take one now).|
+|4|**Overstepped**| You are followed by a homunculus, a small 6-inch replica of yourself. You created it, and it hates being enthralled to you. Though it will follow your commands to the letter, it will try to undo your requests whenever possible. Any damage done to the homunculus is also done to you.|
+|5|**Betrayed**| You discovered evidence that someone - you don't know who - was slowly experimenting on you. Occasionally you experience terrifying visions of the future. You rarely feel hunger and need only eat every 3 days. Take antitoxin.  |
+|6|**Accident**| The last concoction you brewed resulted in a massive explosion, scarring you horribly. Most folk will look away from whatever you're up to. You can walk handle fire for small spurts without taking injury. Take fire oil.|
 
-## What Were You Able To Make Away With? Roll 1d6:
+## What Keepsake Did You Take? Roll 1d6:
 
 ||                 ||
 | ---- | ---- |----|
@@ -37,4 +37,4 @@ grand_parent: Hacks
 |3|**Vial of Acid**|Can disintegrate 1 cubic inch of any surface.|
 |4|**Tincture Of Truth-Talking**|Only a few drops remain, enough for one dose. This tasteless clear liquid will compel whoever ingests it to answer questions truthfully for d6 \* 10 minutes.|
 |5|**Magnesium Shavings**|A pouch containing d6 uses that will easily ignite and burn intensely.|
-|6|**Basic Alchemist's Kit**|A wooden chest filled with four corked glass vials and stand, a small bronze weight scale, pestle & mortar, stirring rods, a bottle of solvent, and a pouch of salt.|
+|6|**Basic Alchemist's Kit**|A wooden chest filled with four corked glass vials and stand, a small bronze weight scale, pestle & mortar, stirring rods, a bottle of solvent, and a pouch of salt. Bulky.|
