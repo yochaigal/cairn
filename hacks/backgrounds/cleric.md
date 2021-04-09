@@ -1,5 +1,5 @@
 ---
-title: "Cleric"
+title: Cleric
 layout: default
 nav_exclude: true
 parent: Backgrounds

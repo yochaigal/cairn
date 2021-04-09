@@ -229,8 +229,8 @@ If you would like something closer to traditional classes, refer to the list of 
 |------|-----------|-----------|-----------|----------|---------|------|----------|
 |1           |Alchemist |6          |Cleric     |11        |Magician |16    |Performer |
 |2           |Blacksmith|7          |Gambler    |12        |Mercenary|17    |Pickpocket|
-|3           |Butcher   |8          |Gravedigger|13        |Merchant |18    |Smuggler  |
-|4           |Burglar   |9          |Herbalist  |14        |Miner    |19    |Servant   |
+|3           |Burglar   |8          |Gravedigger|13        |Merchant |18    |Smuggler  |
+|4           |Butcher   |9          |Herbalist  |14        |Miner    |19    |Servant   |
 |5           |Carpenter |10         |Hunter     |15        |Outlaw   |20    |Ranger    |
 
 <p></p>
