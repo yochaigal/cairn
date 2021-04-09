@@ -385,9 +385,15 @@ Expand For Example
 
   **Warden**: _"In complete darkness, yes. Let's hope you don't to go sneaking around in the dark anytime soon."_
 
-  **Barry**: _"Well, this is cool. So the eels like the light, right? Maybe we can use this information somehow..."_
+  **Barry**: _"Well, this is cool. So the eels like the light, right? This gives me an idea..."_
 
-  **Esther**: _"Oh, now you've got an idea? Awesome: let's hear it."_
+**More Examples:**
+- Two days of study under a former royal archer has taught you how to fire arrows more effectively. Attacks with a longbow are enhanced.
+- After two weeks' of daily practice with the _Blade of Gwoed_, you feel confident enough to use it the deadly weapon in combat. Critical Damage: target loses a limb or is disemboweled (your choice).
+- Three days' worth of study under the tutelage of a skilled warrior has taught you how to never be surprised. You no longer need to make a DEX save before combat (unless the Warden says otherwise).
+- Five nights of intense study with the _Book of Curses_ has given you an edge in battle. If you insult an opponent before combat, all of their attacks against you and your friends are impaired.
+- After training with the _Mourning Monks of Es'ta_, you can now speak with the dead. You are deprived afterwards.
+
 
 </details>
 
