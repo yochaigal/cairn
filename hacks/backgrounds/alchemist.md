@@ -23,9 +23,9 @@ grand_parent: Hacks
 | ---- | ---- |----|
 |1|**Lack of Talent**| The most advanced concoction you could come up with was salt water. You are still pretty good at it, actually.|
 |2|**Heresy**| Local clergy found your theories and practices to be blasphemous and confiscated your works. Creatures of the Night will briefly look upon you as brethren.|
-|3|**Exiled**| You accidentally brewed a love potion for a client, an heir to a local position of nobility. They are now in infatuated by you, and their parents would rather see you dead than their offspring end up with you. You are hunted by both your client and an assassin. You have gotten good at disguising yourself.|
-|4|**Hunted**| Somehow you created a homunculus, a small 6-inch replica of yourself. It hates being enthralled to you and though it will follow your commands to the letter, it will try to undo your requests whenever possible.|
-|5|**Betrayed**| You're pretty sure your mentor was slowly killing you with arsenic. Every once in a while you'll find yourself in a vomiting fit. You are rarely hungry any more and require rations only every 2 days.|
+|3|**Exiled**| You accidentally brewed a love potion for a client, an heir to a local position of nobility. They are now in infatuated with you, and their parents would rather see you dead than their offspring end up with you. You are hunted by both your client and an assassin. You have gotten good at disguising yourself.|
+|4|**You Overstepped**| You created a homunculus, a small 6-inch replica of yourself. It hates being enthralled to you and though it will follow your commands to the letter, it will try to undo your requests whenever possible. Any damage done to the homunculus is also done to you.|
+|5|**Betrayed**| Someone you once trusted had been slowly killing you with poison. Occasionally you experience a terrifying vomiting fit. You are also rarely hungry any more and need only eat every 2 days.|
 |6|**Accident**| The last concoction you brewed resulted in a massive explosion, scarring you horribly. Most folk will look away from whatever you're up to. You can walk handle fire for small spurts without taking injury.|
 
 ## What Were You Able To Make Away With? Roll 1d6:
