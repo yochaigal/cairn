@@ -272,12 +272,19 @@ Expand For Example
 ## How do PCs advance without things like levels or XP?
 In **Cairn**, character _growth_ is preferable over _advancement_. This means that although a PC _will_ change, they may not necessarily get _better_ with time. Growth occurs through both mechanical means (such as [**Scars**](/cairn-srd/#scars)), as well as through events happening solely in the fiction.
 
-The Warden should consider the following when awarding non-mechanical growth to PCs:
+**The Warden should consider the following when awarding non-mechanical growth to PCs:**
 - Growth should be tied to a _specific_ experience occurring in the fiction.
 - It is more important for a PC to grow more _interesting_ than more skilled or capable.
 - PCs experience growth not necessarily because they've gotten more skill and experience, but because they are _changed_ in a significant way.
 - There should be opportunities for growth & change everywhere, _especially_ when a PC puts themselves at risk.
 - Growth occurs _while things are happening_, not just after the PC has rested.
+
+**Examples of Training & Specialization:**
+- Two days of study under a former royal archer has taught you how to fire arrows more effectively. Attacks with a longbow are enhanced.
+- After two weeks' of daily practice with the _Blade of Gwoed_, you feel confident enough to use it the deadly weapon in combat. Critical Damage: target loses a limb or is disemboweled (your choice).
+- Three days' worth of study under the tutelage of a skilled warrior has taught you how to never be surprised. You no longer need to make a DEX save before combat (unless the Warden says otherwise).
+- Five nights of intense study with the _Book of Curses_ has given you an edge in battle. If you insult an opponent before combat, all of their attacks against you and your friends are impaired.
+- After training with the _Mourning Monks of Es'ta_, you can now speak with the dead. You are deprived afterwards.
 
 
 <details markdown="block">
@@ -387,14 +394,7 @@ Expand For Example
 
   **Barry**: _"Well, this is cool. So the eels like the light, right? This gives me an idea..."_
 
-**More Examples:**
-- Two days of study under a former royal archer has taught you how to fire arrows more effectively. Attacks with a longbow are enhanced.
-- After two weeks' of daily practice with the _Blade of Gwoed_, you feel confident enough to use it the deadly weapon in combat. Critical Damage: target loses a limb or is disemboweled (your choice).
-- Three days' worth of study under the tutelage of a skilled warrior has taught you how to never be surprised. You no longer need to make a DEX save before combat (unless the Warden says otherwise).
-- Five nights of intense study with the _Book of Curses_ has given you an edge in battle. If you insult an opponent before combat, all of their attacks against you and your friends are impaired.
-- After training with the _Mourning Monks of Es'ta_, you can now speak with the dead. You are deprived afterwards.
-
-
 </details>
+
 
 <script src="/js/expand-all.js"></script>
