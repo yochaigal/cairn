@@ -8,10 +8,15 @@ grand_parent: Hacks
 
 [![Alt text](/img/backgrounds/herbalist.jpg "East of the Sun and West of the Moon, illustrated by Kay Nielsen"){:height="75%" width="75%"}](/img/backgrounds/herbalist.jpg)
 
+# Herbalist
 
-## You get
+## Starting Gear
 
-A hand rake, one floppy hat, a small watering tin.
+- 3d6 gold pieces
+- Three days’ rations (one slot)
+- A hand rake (d6)
+- Watering tin
+- Floppy hat
 
 ## Why did you leave your job?
 
