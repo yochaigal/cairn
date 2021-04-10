@@ -21,7 +21,7 @@ grand_parent: Hacks
 
 ||                 ||
 | ---- | ---- |----|
-|1|**Directionless**| You never excelled in any particular field, and dabbled in many subjects without focus.|
+|1|**Aimlessness**| You never excelled in any particular field, instead dabbling in many subjects without focus. You can only create parlor tricks, useful for dazzle and not much else. Take a card game you created. You know how to win every time.|
 |2|**Heresy**| Local clergy found your theories and practices to be blasphemous and confiscated your works. You escaped with a **Relic** (cast _Raise Dead_ once per day). They still look for you, and using the **Relic** may alert them to your location.|
 |3|**Exiled**| You accidentally brewed a love potion for a client, an heir to a local position of nobility. They were infatuated with you, but their parents had other ideas. With the proper ingredients, you know how to make the _Shroud_ potion (take one now).|
 |4|**Overstepped**| You are followed by a homunculus, a small 6-inch replica of yourself. You created it, and it hates being enthralled to you. Though it will follow your commands to the letter, it will try to undo your requests whenever possible. Any damage done to the homunculus is also done to you.|
