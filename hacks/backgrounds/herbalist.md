@@ -23,7 +23,7 @@ grand_parent: Hacks
 |      |                 |                                                              |
 | ---- | --------------- | ------------------------------------------------------------ |
 | 1    | **Tormented**   | You (accidentally?) stole the heart-seed of a cantankerous forest spirit; it still hounds you. Until such time as you have paid recompense your plants and flowers will always wilt and die. Take a single **Bezoar Stone**. It can cure any wound, and even reverse death. |
-| 2    | **Haunted**     | When you were a child one of your village playmates drowned while you two were playing in a lake. You never told their parents, and for the past several years you have been seeing your friends face in the mounds of dirt where you go to pick herbs. |
+| 2    | **Haunted**     | You were witness to the death of a childhood playmate drowned while you two were playing in a lake. You never told their parents, and for the past several years you have been seeing your friends face in the mounds of dirt where you go to pick herbs. |
 | 3    | **Allergies**   | You thought if you just searched long enough you would find the cure to the sneezing you suffer when encountering most roots and leaves. Unfortunately this never happened. |
 | 4    | **Assassin**    | Every time you went looking for new plants, you were always assaulted by murderous strands of sentient vines, intent on using your body for fertilizer. |
 | 5    | **Competition** | A shroomfolk found their way to your village, and would offer spores of itself to the locals. It seemed to cure most ailments, and the being disdained being paid for its services, rendering you out of work. |
