@@ -6,8 +6,7 @@ parent: Backgrounds
 grand_parent: Hacks
 ---
 
-
-![](https://aboleth-overlords.com/wp-content/uploads/2020/06/beggar-1.jpeg)
+[![Alt text](/img/backgrounds/blacksmith.png "East of the Sun and West of the Moon, illustrated by Kay Nielsen"){:height="75%" width="75%"}](/img/backgrounds/blacksmith.jpg)
 
 ## You Get
 
