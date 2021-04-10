@@ -22,7 +22,7 @@ grand_parent: Hacks
 
 |      |                 |                                                              |
 | ---- | --------------- | ------------------------------------------------------------ |
-| 1    | **Tormented**   | Thinking you were ridding yourself of a garden-variety pest, you poisoned the pet mole of a particularly cantankerous gnome. They have since defiled your gardens and wilted your herbs whenever they could. |
+| 1    | **Tormented**   | You (accidentally?) stole the heart-seed of a cantankerous forest spirit; it still hounds you. Until such time as you have paid recompense your plants and flowers will always wilt and die. Take a single **Bezoar Stone**. It can cure any wound, and even reverse death. |
 | 2    | **Haunted**     | When you were a child one of your village playmates drowned while you two were playing in a lake. You never told their parents, and for the past several years you have been seeing your friends face in the mounds of dirt where you go to pick herbs. |
 | 3    | **Allergies**   | You thought if you just searched long enough you would find the cure to the sneezing you suffer when encountering most roots and leaves. Unfortunately this never happened. |
 | 4    | **Assassin**    | Every time you went looking for new plants, you were always assaulted by murderous strands of sentient vines, intent on using your body for fertilizer. |
