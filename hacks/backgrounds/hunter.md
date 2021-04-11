@@ -6,11 +6,17 @@ parent: Backgrounds
 grand_parent: Hacks
 ---
 
-![](https://aboleth-overlords.com/wp-content/uploads/2020/07/herbalist-1024x714.jpg)
+[![Alt text](/img/backgrounds/hunter.jpg "East of the Sun and West of the Moon, illustrated by Kay Nielsen"){:height="75%" width="75%"}](/img/backgrounds/hunter.jpg)
 
-## You get
+# Hunter
 
-A hand rake, one floppy hat, a small watering tin.
+
+## Starting Gear
+
+- 3d6 gold pieces
+- Three days’ rations (one slot)
+-
+-
 
 ## Why did you leave your job?
 
