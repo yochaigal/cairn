@@ -14,13 +14,13 @@ grand_parent: Hacks
 ## Starting Gear
 
 - 3d6 gold pieces
-- Three days’ rations 
+- Three days’ rations
 - Torches (2)
 - Canopy bed
 - Skinning knife (d8)
 - Longbow (d10, bulky)
 
-## Why did you leave your job?
+## Why Did You Leave the Hunting Grounds? Roll 1d6:
 
 1. **Tormented:** Thinking you were ridding yourself of a garden-variety pest, you poisoned the pet mole of a particularly cantankerous gnome. They have since defiled your gardens and wilted your herbs whenever they could.
 2. **Haunted**: When you were a child one of your village playmates drowned while you two were playing in a lake. You never told their parents, and for the past several years you have been seeing your friends face in the mounds of dirt where you go to pick herbs.
@@ -29,7 +29,7 @@ grand_parent: Hacks
 5. **Competition:** A shroomfolk found their way to your village, and would offer spores of itself to the locals. It seemed to cure most ailments, and the being disdained being paid for its services, rendering you out of work.
 6. **Poisoned:** Stuck by the thorn of a corpse-thistle, you were bed-ridden for several months. While fighting for your life, you called to one of the many goddess of gardens, and promised you'd pick flourishing vegetation no longer.
 
-## What did you take with you?
+## What Did You Take With You? Roll 1d6:
 
 1. **Amadou**: A peculiar kind of fungus that catches flame quite easily. You have about 6 uses worth.
 2. **Cat's Nip +1**: You keep this in a tightly-sealed bottle, but when you sprinkle even a pinch of it, a dozen or so local cats will find their way to it, and nearly any feline will be rendered catatonic for nearly an hour after getting a taste. You have about ten pinches remaining.
