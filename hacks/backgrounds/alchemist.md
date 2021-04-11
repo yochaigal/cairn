@@ -28,7 +28,7 @@ grand_parent: Hacks
 |5|**Betrayed**| You discovered evidence that someone - you don't know who - was slowly experimenting on you. Occasionally you experience terrifying visions of the future. You rarely feel hunger and need only eat every 3 days. Take antitoxin.  |
 |6|**Accident**| The last concoction you brewed resulted in a massive explosion, scarring you horribly. Most folk will look away from whatever you're up to. You can walk handle fire for small spurts without taking injury. Take fire oil.|
 
-## What Did You Bring With You? Roll 1d6:
+## What Did You Take With You? Roll 1d6:
 
 ||                 ||
 | ---- | ---- |----|
