@@ -21,6 +21,7 @@ grand_parent: Hacks
 - Warm bearskin (1 Armor)
 
 ## Why did you leave the hunting grounds? Roll 1d6:
+
 |      |                   |                                                              |
 | ---- | ----------------- | ------------------------------------------------------------ |
 | 1    | **Cursed**            | A gigantic blue elk with golden glowing eyes approached as you took your final catch, promising to hunt you to the end of your days if you stepped foot into its forest again. |
