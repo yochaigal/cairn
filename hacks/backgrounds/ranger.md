@@ -23,12 +23,12 @@ grand_parent: Hacks
 
 ||                 ||
 | ---- | ----------------- | ------------------------------------------------------------ |
-| 1    | Cursed            | A gigantic blue elk with golden glowing eyes approached as you took your final catch, promising to hunt you to the end of your days if you stepped foot into its forest again. |
-| 2    | Hunting Accident  | Your younger sibling would invite you hunting every time your parent spoke of passing down the family's wealth onto you. You got the message with the last crossbow bolt that narrowly missed your head, and have disclaimed your inheritance. |     
-| 3    | Broken Heart      | After your old blood hound couldn't follow you on any more hunts, you felt it wasn't |    
-| 4    | Nobles            | All of the lords decried the forests of the land their own person domain, forbidding any others to hunt within, putting you out of a job. |     
-| 5    | Wizard's Laughter | ou didn't mean to kill the village's most-loved and kindest-hearted wizened old sage. You had no idea they polymorphed themselves into wildlife to go frolic in the woods. |     
-| 6    | Haunting          | The dooming blight that has choked many lands has reached your ranges, littering the once peaceful groves with hungry ghosts. |     
+| 1    |             |  |
+| 2    |   |  |     
+| 3    |       | |    
+| 4    |             |  |     
+| 5    |  |  |     
+| 6    | Haunting| You failed to protect your lands against a raging blight. Defeated, you left to find new ranges. Take a seed wrenched from the roots of your forest's final dying tree. It awaits the chance to be planted once more. |     
 
 ## What beast stands at your side?
 
