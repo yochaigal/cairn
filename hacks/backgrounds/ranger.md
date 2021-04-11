@@ -8,8 +8,7 @@ grand_parent: Hacks
 
 [![Alt text](/img/backgrounds/ranger.jpg "East of the Sun and West of the Moon, illustrated by Kay Nielsen"){:height="75%" width="75%"}](/img/backgrounds/ranger.jpg)
 
-# Hunter
-
+# Ranger
 
 ## Starting Gear
 
@@ -18,7 +17,7 @@ grand_parent: Hacks
 - Torches (2)
 - Tent (bulky, fits 2)
 - Shortsword (d6)
-- Composite bow (d8, bulky)
+- Boiled leather (1 Armor)
 
 ## Why did you abandon your lands? Roll 1d6:
 
