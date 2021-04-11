@@ -19,7 +19,7 @@ grand_parent: Hacks
 - Watering tin
 - Restorative herbs
 
-## Why Did You Stop Being an Herbalist? Roll 1d6:
+## Why did you lose your passion for herbalism? Roll 1d6:
 
 |      |                 |                                                              |
 | ---- | --------------- | ------------------------------------------------------------ |
@@ -30,7 +30,7 @@ grand_parent: Hacks
 | 5    | **Deadly Consequences** | The local nobility sponsored a grand competition between all the greatest herbalists, florists and gardeners. Your corpse-flower won the show. Unfortunately, it also killed one of the judges. Take the grand prize: 25gp, and the hatred of nearly everyone. |
 | 6    | **Fall From Grace**    | Your restorative tinctures were known all through the lands, bringing you fame and fortune. That is of course until it was discovered that one of the side-effects was infertility. Take a healing potion; drinking restores all STR. You know the cost, though.    |
 
-## What Did You Take With You? Roll 1d6:
+## What keepsake did you take with you? Roll 1d6:
 
 |      |                       |                                                              |
 | ---- | --------------------- | ------------------------------------------------------------ |

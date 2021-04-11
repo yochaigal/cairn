@@ -18,7 +18,7 @@ grand_parent: Hacks
 - Quarterstaff (1d8, bulky) or dagger (1d6)
 - Alchemical seal (legally binding)
 
-## Why Did You Stop Practicing Alchemy? Roll 1d6:
+## Why did you stop practicing alchemy? Roll 1d6:
 
 ||                 ||
 | ---- | ---- |----|
@@ -29,7 +29,7 @@ grand_parent: Hacks
 |5|**Betrayed**| You discovered evidence that someone - you don't know who - was slowly experimenting on you. Occasionally you experience terrifying visions of the future. You rarely feel hunger and need only eat every 3 days. Take antitoxin.  |
 |6|**Accident**| The last concoction you brewed resulted in a massive explosion, scarring you horribly. Most folk will look away from whatever you're up to. You can walk handle fire for small spurts without taking injury. Take fire oil.|
 
-## What Did You Take With You? Roll 1d6:
+## What alchemical keepsake did you take with you? Roll 1d6:
 
 ||                 ||
 | ---- | ---- |----|
