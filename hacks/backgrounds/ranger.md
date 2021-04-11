@@ -21,14 +21,13 @@ grand_parent: Hacks
 
 ## Why did you abandon your lands? Roll 1d6:
 
-
 |      |      |      |
 | ---- | ---- | ---- |
 | 1    |**** |      |
 | 2    |**** |      |
 | 3    |**** |      |
 | 4    |**** |      |
-| 5    |**** |      |
+| 5    |**Overstepped** |      |
 | 6    |**Vanquished**| You failed to protect your lands against a raging blight. Defeated, you left to find new ranges. Take a seed wrenched from the roots of your forest's final dying tree. It awaits the chance to be planted once more.|     
 
 ## What keepsake did you retain?
