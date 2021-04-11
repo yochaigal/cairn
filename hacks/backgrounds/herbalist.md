@@ -29,13 +29,13 @@ grand_parent: Hacks
 | 5    | **Deadly Consequences** | The local nobility sponsored a grand competition between all the greatest herbalists, florists and gardeners. Your corpse-flower won the show. Unfortunately, it also killed one of the judges. Take the grand prize: 25gp, and the hatred of nearly everyone. |
 | 6    | **Fall From Grace**    | Your restorative tinctures were known all through the lands, bringing you fame and fortune. That is of course until it was discovered that one of the side-effects was infertility. Take a healing potion; drinking restores all STR. You know the cost, though.    |
 
-## What did you take with you?
+## What Did You Bring With You? Roll 1d6:
 
 |      |                       |                                                              |
 | ---- | --------------------- | ------------------------------------------------------------ |
 | 1    | **Amadou**            | A peculiar kind of fungus that catches flame quite easily. You have about 6 uses worth. |
-| 2    | **Cat's Nip**         | You keep this in a tightly-sealed bottle, but when you sprinkle even a pinch of it, a dozen or so local cats will find their way to it, and nearly any feline will be rendered catatonic for nearly an hour after getting a taste. You have about ten pinches remaining. |
-| 3    | **Tacky Stalk**       | This woody reed contains a fibrous, chalky interior that may be chewed into a gummy mound. After a few minutes this mound will harden entirely, becoming a permanent adhesive after drying. |
-| 4    | **Artifical Flowers** | You're not completely sure what this is, but it seems to be a bouquet fashioned out of felt, wax, wire and other materials. It looks real as long as it is not closely observed, and is rather resplendent. |
-| 5    | **Seed Bomb**         | You have three dirt clods held together in small canvas sacks. Their contents will explode on impact, showering whatever they strike with dirt and a multitude of seeds, dizzying anyone struck, and with a bit of rain will produce a patch of wildflowers in a week or so. |
-| 6    | **Mandrake**          | small root that looks somewhat like a tiny human. This being follows you about, telling you jokes and laughing in its shrill, high pitched voice. After spending months with the thing you're not sure its so bad that you cannot speak Mandrake. |
+| 2    | **Delphinium**        | A gray, concentrated elixir that allows the drinker the ability to hold their breath for up to an hour. It can be divided into multiple doses.  |
+| 3    | **Tacky Stalk**       | This woody reed contains a fibrous, chalky interior that may be chewed into a gummy mound. After a few minutes this mound will harden entirely, becoming a permanent adhesive after drying. It spreads well. |
+| 4    | **Artificial Flowers** | A bouquet fashioned out of felt, wax, wire and other materials. It looks real as long as it is not closely observed, and is rather resplendent. Its odor resembles that of the person's favorite flower. |
+| 5    | **Seed Bomb**         | Three dirt clods held tightly together in small canvas sacks. Their contents explodes on impact, showering their target with dirt and a multitude of seeds. |
+| 6    | **Duda**          | A small root that looks somewhat like a tiny, sleepy human. At first it fits snugly into your backpack, but comes alive when woken splashed with a bit of milk. Tell it where you (and only you) want to go, and suddenly you'll find yourself there. Each time it wakes it grows by a factor of two. |
