@@ -13,9 +13,10 @@ grand_parent: Hacks
 ## Starting Gear
 
 - 3d6 gold pieces
-- Three days’ rations (one slot)
+- Three days’ rations
 - Lantern & flask of oil (one slot)
 - Quarterstaff (1d8, bulky) or dagger (1d6)
+- Alchemical seal (legally binding)
 
 ## Why Did You Stop Practicing Alchemy? Roll 1d6:
 

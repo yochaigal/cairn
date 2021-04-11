@@ -13,10 +13,10 @@ grand_parent: Hacks
 ## Starting Gear
 
 - 3d6 gold pieces
-- Three days’ rations (one slot)
+- Three days’ rations
+- Long-burning torch
 - Rake (d6) or spade (d6)
 - Watering tin
-- Floppy hat
 - Restorative herbs
 
 ## Why Did You Stop Being an Herbalist? Roll 1d6:

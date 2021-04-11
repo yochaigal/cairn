@@ -14,9 +14,11 @@ grand_parent: Hacks
 ## Starting Gear
 
 - 3d6 gold pieces
-- Three days’ rations (one slot)
--
--
+- Three days’ rations 
+- Torches (2)
+- Canopy bed
+- Skinning knife (d8)
+- Longbow (d10, bulky)
 
 ## Why did you leave your job?
 
