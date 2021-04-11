@@ -14,9 +14,10 @@ grand_parent: Hacks
 
 - 3d6 gold pieces
 - Three days’ rations (one slot)
-- A hand rake (d6)
+- Rake (d6) or spade (d6)
 - Watering tin
 - Floppy hat
+- Restorative herbs
 
 ## Why Did You Stop Being an Herbalist? Roll 1d6:
 
@@ -36,6 +37,6 @@ grand_parent: Hacks
 | 1    | **Amadou**            | A peculiar kind of fungus that catches flame quite easily. You have about 6 uses worth. |
 | 2    | **Delphinium**        | A gray, concentrated elixir that allows the drinker the ability to hold their breath for up to an hour. It can be divided into multiple doses.  |
 | 3    | **Tacky Stalk**       | This woody reed contains a fibrous, chalky interior that may be chewed into a gummy mound. After a few minutes this mound will harden entirely, becoming a permanent adhesive after drying. It spreads well. |
-| 4    | **Artificial Flowers** | A bouquet fashioned out of felt, wax, wire and other materials. It looks real as long as it is not closely observed, and is rather resplendent. Its odor resembles that of the person's favorite flower. |
+| 4    | **Artificial Flowers** | A bouquet fashioned out of felt, wax, wire and other materials. It looks real as long as it is not closely observed, and is rather resplendent. Its odor resembles that of a person's favorite flower. |
 | 5    | **Seed Bomb**         | Three dirt clods held tightly together in small canvas sacks. Their contents explodes on impact, showering their target with dirt and a multitude of seeds. |
 | 6    | **Duda**          | A small root that looks somewhat like a tiny, sleepy human. At first it fits snugly into your backpack, but comes alive when splashed with a bit of milk. Tell it where you (and only you) want to go, and suddenly you'll find yourself there. Each time it wakes it grows by a factor of two. |
