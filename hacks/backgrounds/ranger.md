@@ -6,13 +6,21 @@ parent: Backgrounds
 grand_parent: Hacks
 ---
 
-![File:Medieval forest.jpg - Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/6/61/Medieval_forest.jpg)
+[![Alt text](/img/backgrounds/ranger.jpg "East of the Sun and West of the Moon, illustrated by Kay Nielsen"){:height="75%" width="75%"}](/img/backgrounds/ranger.jpg)
 
-## You get
+# Hunter
 
-A very short bow, muddy shoes, a bottle of deer urine.
 
-## Why have you quit?
+## Starting Gear
+
+- 3d6 gold pieces
+- Three days’ rations
+- Torches (2)
+- Tent (bulky, fits 2)
+- Shortsword (d6)
+- Composite bow (d8, bulky)
+
+## Why did you abandon your lands? Roll 1d6:
 
 1. **Cursed:** A gigantic blue elk with golden glowing eyes approached as you took your final catch, promising to hunt you to the end of your days if you stepped foot into its forest again.
 2. **Hunting Accident:** Your younger sibling would invite you hunting every time your parent spoke of passing down the family's wealth onto you. You got the message with the last crossbow bolt that narrowly missed your head, and have disclaimed your inheritance.
@@ -21,7 +29,7 @@ A very short bow, muddy shoes, a bottle of deer urine.
 5. **Wizardslaughter:** You didn't mean to kill the village's most-loved and kindest-hearted wizened old sage. You had no idea they polymorphed themselves into wildlife to go frolic in the woods.
 6. **Haunting:** The dooming blight that has choked many lands has reached your ranges, littering the once peaceful groves with hungry ghosts.
 
-## What keepsake did you retain?
+## What beast stands at your side?
 
 1. **Worm-Calling Whistle:** High-pitched whistle that attracts around a dozen earthworms, grubs, and other dirt-crawling beasts when blown.
 2. **False Boomerang:** This heavily-weathered boomerang not only does not return to you, but seems to travel unerringly in a straight line forever until it crashes into something. You've been worried you're going to lose it if you throw it towards the sky.
@@ -29,5 +37,3 @@ A very short bow, muddy shoes, a bottle of deer urine.
 4. **Game Spookers:** A very weighty round brass bell. Toss into a bush to scare out any game, or to dangle upon your walking stick to give yourself your own entrance music.
 5. **Snare Kit:** A heavy canvas sack filled with all manner of traps - iron teeth, lassos, ropes, nets, counter weights, snares, etc.
 6. **Salts & Spices:** A very fine wooden box filled with tubes and pouches of uncommon spices, treating salts, fancy woods. Suitable for preserving small game or adding a bit of pizazz to a campfire meal.
-
-_This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)._
