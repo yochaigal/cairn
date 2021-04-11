@@ -6,11 +6,17 @@ parent: Backgrounds
 grand_parent: Hacks
 ---
 
-![](https://aboleth-overlords.com/wp-content/uploads/2020/09/20-675x1024.png)
+[![Alt text](/img/backgrounds/magician.jpg "East of the Sun and West of the Moon, illustrated by Kay Nielsen"){:height="75%" width="75%"}](/img/backgrounds/magician.jpg)
 
-## You get
+# Magician
 
-A pointed hat, a set of trick rings.
+## Starting Gear
+
+- 3d6 gold pieces
+- Three days’ rations
+- Torches (2)
+- A pointed hat
+- A set of trick rings
 
 ## Why did you quit magic?
 
@@ -29,7 +35,3 @@ A pointed hat, a set of trick rings.
 4. **Levitation:** Floating a stationary target weighing no more than 12 stones was a trick you received the least lukewarm applause for.
 5. **Iron Jaws:** You've discovered the correct technique of eating glass and a variety of other traditionally inedible substances.
 6. **Spiritualism:** With a bit of setup, smoke and mirrors, you have a very minor chance of convincing someone that a partner of yours is their deceased loved one.
-
-Inspired by [Electric Bastionland](https://chrismcdee.itch.io/electric-bastionland), [Knave](https://www.drivethrurpg.com/product/250888/Knave), and [Ten Foot Polemic](http://tenfootpolemic.blogspot.com/2014/01/200-failed-medieval-careers.html).
-
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
