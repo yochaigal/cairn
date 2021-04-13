@@ -6,7 +6,6 @@ parent: Backgrounds
 grand_parent: Hacks
 ---
 
-
 [![Alt text](/img/backgrounds/carpenter.jpg "East of the Sun and West of the Moon, illustrated by Kay Nielsen"){:height="75%" width="75%"}](/img/backgrounds/carpenter.jpg)
 
 # Carpenter
