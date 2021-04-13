@@ -16,8 +16,7 @@ grand_parent: Hacks
 - Three days’ rations
 - Torches (2)
 
-## 
-
+##
 
 |      |      |      |
 | ---- | ---- | ---- |
