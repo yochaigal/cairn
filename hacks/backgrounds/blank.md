@@ -16,8 +16,7 @@ grand_parent: Hacks
 - Three days’ rations
 - Torches (2)
 
-
-## Why did you ____ leave? Roll 1d6:
+## 
 
 
 |      |      |      |
@@ -29,8 +28,7 @@ grand_parent: Hacks
 | 5    |**** |      |
 | 6    |**** |      |
 
-## What keepsake did you retain?
-
+##
 
 |      |      |      |
 | ---- | ---- | ---- |
