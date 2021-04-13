@@ -8,7 +8,7 @@ grand_parent: Hacks
 
 [![Alt text](/img/backgrounds/miner.jpg "East of the Sun and West of the Moon, illustrated by Kay Nielsen"){:height="75%" width="75%"}](/img/backgrounds/miner.jpg)
 
-# Carpenter
+# Miner
 
 ## Starting Gear
 
