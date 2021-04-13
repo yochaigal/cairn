@@ -17,7 +17,7 @@ grand_parent: Hacks
 - Torches (2)
 - Gambeson reeking of body odor
 - Spear with a notched shaft
-- Stale sausage.
+- Stale sausage
 
 ## What is your shame?
 
