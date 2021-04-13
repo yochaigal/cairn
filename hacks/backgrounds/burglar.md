@@ -17,7 +17,7 @@ grand_parent: Hacks
 - Torches (2)
 - Dagger
 - Well-kept leather shoes
-- A dark wool cloak.
+- A dark wool cloak
 
 ## Professional burglary is no longer part of your life, why?
 
