@@ -7,6 +7,8 @@ nav_exclude: true
 
 ![](https://aboleth-overlords.com/wp-content/uploads/2020/06/beggar-1.jpeg)
 
+# Begger
+
 ## You Get
 
 A sling, crutches, dirty rags, a beggar's bowl.
