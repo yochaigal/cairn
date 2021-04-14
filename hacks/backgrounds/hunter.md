@@ -25,7 +25,7 @@ grand_parent: Hacks
 |      |                   |                                                              |
 | ---- | ----------------- | ------------------------------------------------------------ |
 | 1    | **Dire Consequences** | Tracking and killing your quarry in new territory, you unwillingly enraged a local spirit. Enraged, it cursed you! You have the ability to experience the fear of any nearby creature. You are now an excellent tracker, but cannot bring yourself to hunt. |
-| 2    | **Hunting Accident**  | Your younger sibling would invite you hunting every time your parent spoke of passing down the family's wealth onto you. You got the message with the last crossbow bolt that narrowly missed your head, and have disclaimed your inheritance. |
+| 2    | **Bad Blood**  | You privately confronted a respected elder about their misdeeds and were rudely dismissed. After nearly losing your head to a crossbow bolt, you broke all ties and fled. Besides you left you grabbed the elder's prized **Spirit Ward**, a **Relic** that casts _Ward_ once per day. They want it back.| 
 | 3    | **Broken Heart**      | After your old blood hound couldn't follow you on any more hunts, you felt it wasn't |
 | 4    | **Nobles**            | All of the lords decried the forests of the land their own person domain, forbidding any others to hunt within, putting you out of a job. |
 | 5    | **Wizard's Laughter** | You didn't mean to kill the village's most-loved and kindest-hearted wizened old sage. You had no idea they polymorphed themselves into wildlife to go frolic in the woods. |
