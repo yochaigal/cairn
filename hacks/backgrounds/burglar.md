@@ -6,7 +6,7 @@ parent: Backgrounds
 grand_parent: Hacks
 ---
 
-[![Alt text](/img/backgrounds/burglar.jpg "East of the Sun and West of the Moon, illustrated by Kay Nielsen"){:height="50%" width="50%"}](/img/backgrounds/burglar.jpg)
+[![Alt text](/img/backgrounds/burglar.jpg "East of the Sun and West of the Moon, illustrated by Kay Nielsen"){:height="60%" width="60%"}](/img/backgrounds/burglar.jpg)
 
 # Burglar
 
