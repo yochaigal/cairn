@@ -13,11 +13,10 @@ grand_parent: Hacks
 ## Starting Gear
 
 - 3d6 gold pieces
-- Three days’ rations
+- Four days’ rations
 - Torches (2)
-- Meat cleaver
+- Cleaver (d6)
 - Bloody apron
-- Ham hock.
 
 ## Why Did You Leave Butchery Behind?
 
