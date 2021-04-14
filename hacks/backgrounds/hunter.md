@@ -20,11 +20,11 @@ grand_parent: Hacks
 - Longbow (d10, bulky)
 - Fur coverings (1 Armor)
 
-## Why did you leave the hunting grounds? Roll 1d6:
+## Why did you abandon the hunt? Roll 1d6:
 
 |      |                   |                                                              |
 | ---- | ----------------- | ------------------------------------------------------------ |
-| 1    | **Cursed**            | A gigantic blue elk with golden glowing eyes approached as you took your final catch, promising to hunt you to the end of your days if you stepped foot into its forest again. |
+| 1    | **Dire Consequences** | Tracking and killing your quarry in new territory, you unwillingly enraged a local spirit. Enraged, it cursed you! You have the ability to experience the fear of any nearby creature. You are now an excellent tracker, but cannot bring yourself to hunt. |
 | 2    | **Hunting Accident**  | Your younger sibling would invite you hunting every time your parent spoke of passing down the family's wealth onto you. You got the message with the last crossbow bolt that narrowly missed your head, and have disclaimed your inheritance. |
 | 3    | **Broken Heart**      | After your old blood hound couldn't follow you on any more hunts, you felt it wasn't |
 | 4    | **Nobles**            | All of the lords decried the forests of the land their own person domain, forbidding any others to hunt within, putting you out of a job. |
