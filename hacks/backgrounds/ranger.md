@@ -6,7 +6,7 @@ parent: Backgrounds
 grand_parent: Hacks
 ---
 
-[![Alt text](/img/backgrounds/ranger.jpg "East of the Sun and West of the Moon, illustrated by Kay Nielsen"){:height="75%" width="75%"}](/img/backgrounds/ranger.jpg)
+[![Alt text](/img/backgrounds/ranger.jpg "East of the Sun and West of the Moon, illustrated by Kay Nielsen")
 
 # Ranger
 
