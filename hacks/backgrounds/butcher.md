@@ -3,6 +3,7 @@ title: Butcher
 layout: default
 nav_exclude: true
 parent: Backgrounds
+grand_parent: Hacks
 ---
 
 [![Alt text](/img/backgrounds/butcher.jpg "East of the Sun and West of the Moon, illustrated by Kay Nielsen"){:height="60%" width="60%"}](/img/backgrounds/butcher.jpg)
