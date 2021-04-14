@@ -6,7 +6,7 @@ parent: Backgrounds
 grand_parent: Hacks
 ---
 
-[![Alt text](/img/backgrounds/cleric.jpg "East of the Sun and West of the Moon, illustrated by Kay Nielsen"){:height="75%" width="75%"}](/img/backgrounds/cleric.jpg)
+[![Alt text](/img/backgrounds/cleric.jpg "East of the Sun and West of the Moon, illustrated by Kay Nielsen"){:height="50%" width="50%"}](/img/backgrounds/cleric.jpg)
 
 # Carpenter
 

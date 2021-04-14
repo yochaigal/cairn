@@ -5,7 +5,7 @@ nav_exclude: true
 parent: Backgrounds
 ---
 
-[![Alt text](/img/backgrounds/butcher.jpg "East of the Sun and West of the Moon, illustrated by Kay Nielsen"){:height="75%" width="75%"}](/img/backgrounds/butcher.jpg)
+[![Alt text](/img/backgrounds/butcher.jpg "East of the Sun and West of the Moon, illustrated by Kay Nielsen"){:height="50%" width="50%"}](/img/backgrounds/butcher.jpg)
 
 # Butcher
 

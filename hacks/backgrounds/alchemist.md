@@ -6,7 +6,7 @@ parent: Backgrounds
 grand_parent: Hacks
 ---
 
-[![Alt text](/img/backgrounds/alchemist.jpg "East of the Sun and West of the Moon, illustrated by Kay Nielsen"){:height="75%" width="75%"}](/img/backgrounds/alchemist.jpg)
+[![Alt text](/img/backgrounds/alchemist.jpg "East of the Sun and West of the Moon, illustrated by Kay Nielsen"){:height="50%" width="50%"}](/img/backgrounds/alchemist.jpg)
 
 # Alchemist
 
@@ -15,8 +15,9 @@ grand_parent: Hacks
 - 3d6 gold pieces
 - Three days’ rations
 - Lantern & flask of oil (one slot)
-- Quarterstaff (1d8, bulky) or dagger (1d6)
 - Alchemical seal (legally binding)
+- Dagger (1d6)
+- Binding alchemical seal
 
 ## Why did you stop practicing alchemy? Roll 1d6:
 
