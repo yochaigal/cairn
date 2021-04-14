@@ -5,7 +5,7 @@ nav_exclude: true
 ---
 
 
-![](https://aboleth-overlords.com/wp-content/uploads/2020/06/beggar-1.jpeg)
+[![Alt text](/img/backgrounds/begger.jpg "East of the Sun and West of the Moon, illustrated by Kay Nielsen"){:height="60%" width="60%"}](/img/backgrounds/begger.jpg)
 
 # Begger
 
