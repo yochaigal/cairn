@@ -28,15 +28,15 @@ grand_parent: Hacks
 | 3    | **Remorseful**  | During the _Great Hunt_ you neglected to warn the hunting party of an imminent attack, and an important person was killed. Ashamed, you left the life you knew, taking a Thundering Horn as a reminder of your dereliction in duty. |
 | 4    | **Displaced**  | "Civilized" folk claimed your ancestral lands as their own, and backed their claims with force and advanced technology. You left, but not without claiming something for yourself first. Take an Ice Seed. It freezes any water it is dropped in. Once it melts, the seed reforms. Don't eat it.  |
 | 5    | **Shiftless**  | You were wronged, and for years sought revenge. Now that you have it you don't know what to do with yourself. In your boredom you've taken up other interests. Choose a second background, but do not roll on the subsequent table.  |
-| 6    | **Beliefs** | After a close-call with a Horror of the Night, you became stained with conviction.  You have adopted a strict code of ethics to only kill that which eats people, and to never eat flesh again. You became a slayer of monsters, wandering towards wherever you feel you are needed. Take a Silver Sword (d8). The damage is (d8+d8) against creatures that have tasted the flesh of your kind. |
+| 6    | **Beliefs** | After a close-call with a Horror of the Night, you became instilled by conviction.  You have adopted a strict code of ethics to only kill that which eats people, and to never eat flesh again. You became a slayer of monsters, wandering towards wherever you feel you are needed. Take a Silver Sword (d8). The damage is (d8+d8) against creatures that have tasted the flesh of your kind. |
 
-## Which wind carried your spirit into life?
+## Who is always at your side?
 
-|      |      |      |
-| ---- | ---- | ---- |
-| 1    |**Dawn** |      |
-| 2    |**Morning** |      |
-| 3    |**Midday** |      |
-| 5    |**Afternoon** |      |
-| 4    |**Sunset** |      |
-| 6    |**Twilight** |      |
+|      |                          |                                                              |
+| ---- | ------------------------ | ------------------------------------------------------------ |
+| 1    | **** |  |
+| 2    | **False Boomerang** | This heavily-weathered boomerang not only does not return to you, but seems to travel unerringly in a straight line forever until it crashes into something. You've been worried you're going to lose it if you throw it towards the sky. |
+| 3    | **Bear Suit**  | The entire furs of a person-sized bear, treated and stitched to be wearable. Its a bit hard to see out of the beast's snout, but not the worst disguise from afar. On a foggy day. While situated amongst the brush. When trying to hide from someone with poor vision. |
+| 4    | **Game Spookers**        | A very weighty round brass bell. Toss into a bush to scare out any game, or to dangle upon your walking stick to give yourself your own entrance music. |
+| 5    | **Snare Kit**            | A heavy canvas sack filled with all manner of traps - iron teeth, lassos, ropes, nets, counter weights, snares, etc. |
+| 6    | **Salts & Spices**       | A very fine wooden box filled with tubes and pouches of uncommon spices, treating salts, fancy woods. Suitable for preserving small game or adding a bit of pizazz to a campfire meal. |
