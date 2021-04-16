@@ -30,13 +30,13 @@ grand_parent: Hacks
 | 5    | **Shiftless**  | You were wronged, and for years sought revenge. Now that you have it you don't know what to do with yourself. In your boredom you've taken up other interests. Choose a second background, but do not roll on the subsequent table.  |
 | 6    | **Beliefs** | After a close-call with a Horror of the Night, you became stained with conviction.  You have adopted a strict code of ethics to only kill that which eats people, and to never eat flesh again. You became a slayer of monsters, wandering towards wherever you feel you are needed. Take a Silver Sword (d8). The damage is (d8+d8) against creatures that have tasted the flesh of your kind. |
 
-## What beast is always at your side?
+## What is always at your side?
 
 |      |      |      |
 | ---- | ---- | ---- |
-| 1    |**Wolf** |      |
-| 2    |**Hound** |      |
-| 3    |**Cat** |      |
-| 4    |**Hawk** |      |
-| 5    |**Stag** |      |
-| 6    |**Owl** |      |
+| 1    |**A ** |      |
+| 2    |**A Hound** |      |
+| 3    |**A Cat** |      |
+| 4    |**A Bird** |      |
+| 5    |**A Stag** |      |
+| 6    |**** |      |
