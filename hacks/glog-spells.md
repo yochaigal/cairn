@@ -51,7 +51,7 @@ nav_order: 2
 | 32   | **Gate**                | A portal to a random plane opens.                            |
 | 33   | **Gravity Shift**       | You can change the direction of gravity (for yourself only) up to [dice] per round. |
 | 34   | **Greed**               | [sum] creatures develop an overwhelming urge to possess a visible item of your choice. |
-| 35   | **Haste**               | Your movement speed is tripled.                              |
+| 35   | **Haste**               | Your movement speed is multiplied [dice] times.                              |
 | 36   | **Hatred**              | [dice] creatures develop a deep hatred of another creature or group of creatures and wish to destroy it. |
 | 37   | **Hear Whispers**       | You can hear faint sounds clearly                            |
 | 38   | **Hover**               | An object hovers, frictionless, [sum] ft above the ground.   |
