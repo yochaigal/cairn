@@ -25,8 +25,8 @@ grand_parent: Hacks
 | ---- | ---- | ---- |
 | 1    |**** |      |
 | 2    |**** |      |
-| 3    |**** |      |
-| 4    |**** |      |
+| 3    | **Displaced**  | "Civilized" folk claimed your ancestral lands as their own, and backed their claims with force and advanced technology. You left, but not without claiming something for yourself first. Take an Ice Seed. It freezes any water it is dropped in. Once it melts, the seed reforms. Don't eat it.  |
+| 4    | **Shiftless**  | You were wronged, and for years sought revenge. Now that you have it you don't know what to do with yourself. In your boredom you've taken up other interests. Choose a second background, but do not roll on the subsequent table.  |
 | 5    |**Overstepped** |      |
 | 6    |**Vanquished**| You failed to protect your lands against a raging blight. Defeated, you left to find new lands to range. Take a seed wrenched from the roots of your forest's final dying tree. It awaits the chance to be planted once more.|     
 
