@@ -164,7 +164,7 @@ Expand For Example
 </details>
 
 ### Hit Protection  
-Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**). If an attack takes a PC's HP exactly to 0, the player must roll on the [**Scars**](/cairn-srd.html#scars) table.
+Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**). If an attack takes a PC's HP exactly to 0, the player must roll on the [**Scars**](/cairn-srd.html#scars-1) table.
 
 #### Inventory
 Characters have a total of 10 inventory slots: a backpack with six slots, one slot for each hand, and two slots for their upper body (such as the belt, chest, or head). The backpack can also double as an emergency sleeping bag but only if emptied of its contents.
@@ -741,7 +741,7 @@ If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are 
 Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.  
 
 ### Scars
-When damage to a PC reduces their HP to exactly 0, they are sometimes changed irrevocably. See the [**Scars**](/cairn-srd.html#scars) table for more.
+When damage to a PC reduces their HP to exactly 0, they are sometimes changed irrevocably. See the [**Scars**](/cairn-srd.html#scars-1) table for more.
 
 ### Unconsciousness & Death
 When a character dies, the player is free to create a new character or take control of a hireling. They immediately join the party in order to reduce downtime.
@@ -999,7 +999,7 @@ No one can have more than 3 Armor.
 If an attack is **impaired** , the damage die is reduced to 1d4, regardless of weapon. If the attack is **enhanced**, the attacker rolls 1d12. Attacks with the **blast** quality affect all area targets, rolling separately for each.
 
 **DAMAGE**  
-If an attack takes a PC's HP exactly to 0, the player rolls on the **Scars** table.
+If an attack takes a PC's HP exactly to 0, the player rolls on the [**Scars**](/cairn-srd#scars-1) table.
 
 Damage that reduces a target's HP **below** 0 decreases their STR by the remainder. They must then make a STR save to avoid **critical damage.**  Failure takes them out of combat, dying if left untreated.
 
