@@ -34,9 +34,9 @@ grand_parent: Hacks
 
 |      |      |      |
 | ---- | ---- | ---- |
-| 1    |**Dawn** | You're most alert at first light, and rarely require breakfast. You do not become deprived after missing a first day's rations (Fatigue rules still apply).      |
-| 2    |**Morning** | You've learned the calls of birds, and how to reproduce them. Take a wooden whistle. |
-| 3    |**Afternoon** | |
+| 1    |**Dawn** | You're most alert at first light, and rarely require breakfast. You do not become deprived after missing a first day's rations (Fatigue rules still apply). |
+| 2    |**Morning** | You've learned the calls of birds, and how to bend them to your will. Take a young falcon (3 HP, 3 STR, 14 DEX, 11 WIL, claws (d6), follows simple whistle commands) Occasionally it bites you. |
+| 3    |**Afternoon** | You are a skilled rider. Your attacks are enhanced against unmounted combatants. Take an old (but fast) horse (+2 slots). |
 | 5    |**Dusk** |      |
 | 4    |**Evening** |      |
 | 6    |**Midnight** | You don't need as much sleep as the others. Once per day you can lose a single Fatigue without having to rest. |
