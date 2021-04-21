@@ -36,7 +36,7 @@ grand_parent: Hacks
 | ---- | ------------------------ | ------------------------------------------------------------ |
 | 1    | **** |  |
 | 2    | **False Boomerang** | This heavily-weathered boomerang not only does not return to you, but seems to travel unerringly in a straight line forever until it crashes into something. You've been worried you're going to lose it if you throw it towards the sky. |
-| 3    | **Bear Suit**  | The entire furs of a person-sized bear, treated and stitched to be wearable. Its a bit hard to see out of the beast's snout, but not the worst disguise from afar. On a foggy day. While situated amongst the brush. When trying to hide from someone with poor vision. |
-| 4    | **Game Spookers**        | A very weighty round brass bell. Toss into a bush to scare out any game, or to dangle upon your walking stick to give yourself your own entrance music. |
-| 5    | **Snare Kit**            | A heavy canvas sack filled with all manner of traps - iron teeth, lassos, ropes, nets, counter weights, snares, etc. |
-| 6    | **Salts & Spices**       | A very fine wooden box filled with tubes and pouches of uncommon spices, treating salts, fancy woods. Suitable for preserving small game or adding a bit of pizazz to a campfire meal. |
+| 3    | **Bear Suit**  | The entire furs of a person-sized bear, treated and stitched to be wearable. Its a bit hard to see out of the beast's snout, but not the worst disguise from afar. On a foggy day. While situated among the brush. When trying to hide from someone with poor vision. |
+| 4    | **Game Spookers** | A very weighty round brass bell. Toss into a bush to scare out any game, or to dangle upon your walking stick to give yourself your own entrance music. |
+| 5    | **Snare Kit**| A heavy canvas sack filled with all manner of traps - iron teeth, lassos, ropes, nets, counter weights, snares, etc. |
+| 6    | **Salts & Spices** | A very fine wooden box filled with tubes and pouches of uncommon spices, treating salts, fancy woods. Suitable for preserving small game or adding a bit of pizazz to a campfire meal. |
