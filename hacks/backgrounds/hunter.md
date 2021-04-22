@@ -30,7 +30,7 @@ grand_parent: Hacks
 | 5    | **Starborn** | You were born under an auspicious sign, and great things were expected of you. They never seemed to manifest. You left in search of your destiny. Take a map of the stars and an ugly birthmark.  |
 | 6    | **Conviction** | After a close-call with a Horror of the Night, you were instilled with conviction.  You have adopted a strict code of ethics to only kill that which eats people, and to never eat flesh again. You became a slayer of monsters, wandering towards wherever you feel you are needed. Take a Silver Sword (d8). The damage is (d8+d8) against creatures that have tasted the flesh of your kind. |
 
-## What time of day do you typically hunt?
+## What time of day do you typically hunt? Roll 1d6:
 
 |      |      |      |
 | ---- | ---- | ---- |

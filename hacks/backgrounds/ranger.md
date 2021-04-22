@@ -30,7 +30,7 @@ grand_parent: Hacks
 | 5    |**Overstepped** |      |
 | 6    |**Vanquished**| You failed to protect your lands against a raging blight. Defeated, you left to find new lands to range. Take a seed wrenched from the roots of your forest's final dying tree. It awaits the chance to be planted once more.|     
 
-## Who is always at your side?
+## Who is always at your side? Roll 1d6:
 
 |      |                          |                                                              |
 | ---- | ------------------------ | ------------------------------------------------------------ |
