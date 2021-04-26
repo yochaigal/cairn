@@ -18,13 +18,13 @@ A deluxe print edition of Cairn can be purchased from the following places:
 - [Monkey's Paw Games](https://monkeyspawgames.com/collections/new-arrivals/products/cairn)
 - [Four Rogues Trading Company](https://www.fourroguestrading.co/collections/new-arrivals/products/cairn)
 
-## AUS
-- [Glaucus](https://gumroad.com/glaucus#ojuPK)​
-
 ## UK
 - [SoulMuppet](https://soulmuppet-store.co.uk/products/cairn)
 - [Rook's Press](https://www.rookspress.com/products/cairn)
 - [Igloo Tree](https://iglootree.com/cairn-283-p.asp)
+
+## AUS
+- [Glaucus](https://gumroad.com/glaucus#ojuPK)​
 
 ## Brazil
 - Sagen Editora (coming soon)
