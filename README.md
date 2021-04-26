@@ -16,4 +16,4 @@ See the [Print](/print.md) page for more.
 
 <p></p>
 
-<img src="https://yochaigal.github.io/cairn/img/cairn.png" style="zoom:50%;" />
+[![Alt text](/img/cairn.png){:height="50%" width="50%"}](/img/cairn.png)
