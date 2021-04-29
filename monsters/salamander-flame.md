@@ -8,6 +8,6 @@ parent: Monsters
     and red. Native to the plane of fire, but also dwell near
     volcanoes. 
 -   Immune to fire and heat.
--   Emmit an aura of heat, damaging any nearby creature for d6 damage.
+-   Emits an aura of heat, damaging any nearby creature for d6 damage.
 
 author: [xenio](https://xenioinabottle.blogspot.com)
