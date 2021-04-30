@@ -30,4 +30,4 @@ A deluxe print edition of Cairn can be purchased from the following places:
 - Sagen Editora (coming soon)
 
 ## EU
-- Still looking for distributors!
+- [City Comics](https://alltheproblemsinthisworld.com/shop/p/yochai-gal-cairn) (Berlin)
