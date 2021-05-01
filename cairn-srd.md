@@ -836,7 +836,7 @@ Some pointers:
 - Does it soak up damage? Give it Armor.
 - Is it strong? Give it a high **STR**.
 - Is it nimble? Give it high **DEX**.
-- Is it charismatic? Give it high WIL.
+- Is it charismatic? Give it high **WIL**.
 
 Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 
