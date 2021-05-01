@@ -29,15 +29,15 @@ grand_parent: Hacks
 | 3    | **Displaced**| "Civilized" folk claimed your ancestral lands as their own, and backed their claims with force and advanced technology. You left, but not without claiming something for yourself first. Take an Ice Seed. It freezes any water it is dropped in. Once the water melts, the seed reforms. Don't eat it. |
 | 4    | **Shiftless**| You were wronged, and for a long time sought your revenge. Now that you have it you don't know what to do with yourself. In your boredom you've taken up other interests. Choose a second background, and one of its starting gear. |
 | 5    |**Vanquished**| You failed to protect your lands against a raging blight. Defeated, you left to find new lands to range. Before you left, you wrenched from the roots of your forest's final dying tree. It whispers secrets to you at night, and encourages you to plant it somewhere far, far away.|     
-| 6    |**Awestruck**| You've been to the edge of the world and back again. Beyond the wastes and any semblance of civilization, you encountered something powerful and unknowable. Nothing frightens you anymore, and sleep doesn't come so easy these days. You succeed at any WIL saves involving fear, control or persuasion while in mortal danger. You can close your eyes and still see it, bright as day. Sometimes you feel like it sees you, too. |  
+| 6    |**Awestruck**| You've been to the edge of the world and back again. There, beyond the wastes and far from any semblance of civilization you encountered something powerful and unknowable. Nothing frightens you anymore, and sleep doesn't come so easy these days. You succeed at any WIL saves involving fear, control or persuasion while in mortal danger. You can close your eyes and still see it, bright as day. Sometimes you feel like it sees you, too. |  
 
-## Who is always at your side? Roll 1d6:
+## What is always in your pack? Roll 1d6:
 
 |      |                          |                                                              |
 | ---- | ------------------------ | ------------------------------------------------------------ |
-| 1    | **** |  |
-| 2    | **False Boomerang** | This heavily-weathered boomerang not only does not return to you, but seems to travel unerringly in a straight line forever until it crashes into something. You've been worried you're going to lose it if you throw it towards the sky. |
-| 3    | **Bear Suit**  | The entire furs of a person-sized bear, treated and stitched to be wearable. Its a bit hard to see out of the beast's snout, but not the worst disguise from afar. On a foggy day. While situated among the brush. When trying to hide from someone with poor vision. |
-| 4    | **Game Spookers** | A very weighty round brass bell. Toss into a bush to scare out any game, or to dangle upon your walking stick to give yourself your own entrance music. |
+| 1    | **Climbing Gear** | You've learned that it's better to be a little encumbered than waylaid for hours because you didn't bring the right equipment. Take a pulley, rope and 3 extra-light pitons (0 slots).   |
+| 2    | **** |  |
+| 3    | ****  | |
+| 4    | **Game Spookers** | A very weighty round brass bell. Toss into a bush to scare out any game, or throw for d6 damage. |
 | 5    | **Snare Kit**| A heavy canvas sack filled with all manner of traps - iron teeth, lassos, ropes, nets, counter weights, snares, etc. |
 | 6    | **Salts & Spices** | A very fine wooden box filled with tubes and pouches of uncommon spices, treating salts, fancy woods. Suitable for preserving small game or adding a bit of pizazz to a campfire meal. |
