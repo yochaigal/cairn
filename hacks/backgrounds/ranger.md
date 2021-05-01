@@ -27,9 +27,9 @@ grand_parent: Hacks
 | 1    |**Service** | You left your homelands for the military, and the glint of freedom & comradery it promised. You now know that was all a lie. Recently freed you from your duties, you range alone once more. Take a lead shooter (d6, blast). It takes a full round to reload. |
 | 2    |**Injury** | You lost a limb doing something valiant, but also stupidly dangerous. You survived, but at the cost of something dear to you. Before you left, you received an unmarked gift: an alchemical limb (d8). It works almost as well as the real thing, and is immune to poison, fire and heat. Sometimes it jams. |
 | 3    | **Displaced**| "Civilized" folk claimed your ancestral lands as their own, and backed their claims with force and advanced technology. You left, but not without claiming something for yourself first. Take an Ice Seed. It freezes any water it is dropped in. Once the water melts, the seed reforms. Don't eat it. |
-| 4    | **Shiftless**| You were wronged, and for years sought revenge. Now that you have it you don't know what to do with yourself. In your boredom you've taken up other interests. Choose a second background, but do not roll on the subsequent table. |
-| 5    |**Vanquished**| You failed to protect your lands against a raging blight. Defeated, you left to find new lands to range. Take a seed wrenched from the roots of your forest's final dying tree. It awaits the chance to be planted once more.|     
-| 6    |****|      |
+| 4    | **Shiftless**| You were wronged, and for a long time sought your revenge. Now that you have it you don't know what to do with yourself. In your boredom you've taken up other interests. Choose a second background, and one of its starting gear. |
+| 5    |**Vanquished**| You failed to protect your lands against a raging blight. Defeated, you left to find new lands to range. Before you left, you wrenched from the roots of your forest's final dying tree. It whispers secrets to you at night, and encourages you to plant it somewhere far, far away.|     
+| 6    |**Awestruck**| You've been to the edge of the world and back again. Beyond the wastes and any semblance of civilization, you encountered something powerful and unknowable. Nothing frightens you anymore, and sleep doesn't come so easy these days. You succeed at any WIL saves involving fear, control or persuasion while in mortal danger. You can close your eyes and still see it, bright as day. Sometimes you feel like it sees you, too. |  
 
 ## Who is always at your side? Roll 1d6:
 
