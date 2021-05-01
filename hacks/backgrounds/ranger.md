@@ -36,8 +36,8 @@ grand_parent: Hacks
 |      |                          |                                                              |
 | ---- | ------------------------ | ------------------------------------------------------------ |
 | 1    | **Climbing Gear** | You've learned that it's better to be a little encumbered than waylaid for hours because you didn't bring the right equipment. Take a pulley, rope and 3 extra-light pitons (0 slots).   |
-| 2    | **** |  |
-| 3    | ****  | |
+| 2    | **Weighted Net** |  |
+| 3    | **Animal Charm**  | |
 | 4    | **Game Spookers** | A very weighty round brass bell. Toss into a bush to scare out any game, or throw for d6 damage. |
 | 5    | **Snare Kit**| A heavy canvas sack filled with all manner of traps - iron teeth, lassos, ropes, nets, counter weights, snares, etc. |
 | 6    | **Salts & Spices** | A very fine wooden box filled with tubes and pouches of uncommon spices, treating salts, fancy woods. Suitable for preserving small game or adding a bit of pizazz to a campfire meal. |
