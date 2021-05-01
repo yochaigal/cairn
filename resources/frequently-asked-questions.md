@@ -110,7 +110,7 @@ Expand For Example
 A PC or NPC should **save** only if one or more of the following conditions are met:
 - When the outcome of an action is uncertain.
 - When something is at risk (a life, a threatening danger, etc.).
-- When making a critical damage save during [**combat**](/cairn-srd/#critical-damage)).
+- When making a critical damage save during [**combat**](/cairn-srd/#critical-damage).
 
 **Saves** can happen both in an out of combat. A **save** is _almost_ never required when a PC or NPC is under attack, as attacks hit automatically. However, there are situations in which the fiction might dictate that an attack is automatically unsuccessful or impossible.
 
