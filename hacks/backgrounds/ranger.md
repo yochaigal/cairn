@@ -16,8 +16,9 @@ grand_parent: Hacks
 - Three days’ rations
 - Torches (2)
 - Tent (bulky, fits 2)
-- Shortsword (d6)
 - Boiled leather (1 Armor)
+- Shortsword (d8)
+- Throwing knife (d6) _or_ shillelagh (d8)
 
 ## Why did you abandon your lands? Roll 1d6:
 
@@ -27,8 +28,8 @@ grand_parent: Hacks
 | 2    |**Injury** | You lost a limb doing something valiant, but also stupidly dangerous. You survived, but at the cost of something dear to you. Before you left, you received an unmarked gift: an alchemical limb (d8). It works almost as well as the real thing, and is immune to poison, fire and heat. Sometimes it jams. |
 | 3    | **Displaced**| "Civilized" folk claimed your ancestral lands as their own, and backed their claims with force and advanced technology. You left, but not without claiming something for yourself first. Take an Ice Seed. It freezes any water it is dropped in. Once the water melts, the seed reforms. Don't eat it. |
 | 4    | **Shiftless**| You were wronged, and for years sought revenge. Now that you have it you don't know what to do with yourself. In your boredom you've taken up other interests. Choose a second background, but do not roll on the subsequent table. |
-| 5    |****|      |
-| 6    |**Vanquished**| You failed to protect your lands against a raging blight. Defeated, you left to find new lands to range. Take a seed wrenched from the roots of your forest's final dying tree. It awaits the chance to be planted once more.|     
+| 5    |**Vanquished**| You failed to protect your lands against a raging blight. Defeated, you left to find new lands to range. Take a seed wrenched from the roots of your forest's final dying tree. It awaits the chance to be planted once more.|     
+| 6    |****|      |
 
 ## Who is always at your side? Roll 1d6:
 

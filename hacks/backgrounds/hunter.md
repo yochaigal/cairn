@@ -15,9 +15,10 @@ grand_parent: Hacks
 - 3d6 gold pieces
 - Three days’ rations
 - Torches (2)
+- Fur coverings (1 Armor)
 - Skinning knife (d6)
 - Longbow (d10, bulky)
-- Fur coverings (1 Armor)
+- Noisemaker _or_ ghillie suit
 
 ## Why did you abandon the hunt? Roll 1d6:
 
