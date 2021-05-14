@@ -8,6 +8,7 @@ parent: Resources
 # Adventures
 ---
 
+- [Darkness Moves](https://perplexingruins.itch.io/darkness-moves)
 - [SGii - Protecting the All-Seed](https://seanfsmith.itch.io/sgii)
 - [Hideous Daylight (fully converted)](https://docs.google.com/document/d/1P6yZTtamLkSKAruc_AlGktWwbUxRPtFdTreCnTAX3rE/edit)
 - [Lair of the Serpent Prince](https://nakade.itch.io/lair-of-the-serpent-prince-cairn)
