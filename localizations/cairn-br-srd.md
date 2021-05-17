@@ -585,7 +585,7 @@ Se você quiser algo mais próximo das classes tradicionais, consulte a lista de
 |Machadinha (d6)                    |
 |Couro Acolchoado (1  Armor)      |
 |Armadilha Grande                      |
-|Cão de Caçã &#124; 2 PG, 12  DES, mordida (d6) |
+|Cão de Caça &#124; 2 PG, 12  DES, mordida (d6) |
 |Corneta Trovejante                |
 
 #### Rabdomante
