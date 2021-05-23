@@ -22,6 +22,4 @@ idolofmanyhand's generators [Perchance](https://perchance.org/cairn-characters) 
 
 [d66 Starting Loadouts by Classess Kobolds](https://classless-kobolds.itch.io/d66-starting-loadouts-for-cairn)
 
-[FoundryVTT System](https://github.com/yochaigal/Cairn-FoundryVTT)
-
 [Mausritter Item Creation Tools](https://mausritter.com/item-card-studio/)

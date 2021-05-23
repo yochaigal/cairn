@@ -2,7 +2,7 @@
 layout: default
 title: FAQs
 parent: Resources
-nav_order: 10
+nav_order: 1
 ---
 
 # Frequently Asked Questions
