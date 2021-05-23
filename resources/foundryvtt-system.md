@@ -23,7 +23,7 @@ There are a number of compendium packs (and one macro) that must be imported int
 - Within Foundry's Script editor, create a new script and copy this script into it:
 
 ```
-let monstersJson =  [_monsters.json contents_]
+let monstersJson =  [monsters.json contents]
 
 let updateActor = function(monstersJson) {
 let  monsterActor = game.actors.entities.find(actor => actor.name == monstersJson.name)
