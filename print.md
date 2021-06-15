@@ -25,7 +25,7 @@ A deluxe print edition of Cairn can be purchased from the following places:
 - [Igloo Tree](https://iglootree.com/cairn-283-p.asp)
 
 ## AUS
-- [Glaucus](https://gumroad.com/glaucus#ojuPK)​
+- [Cardboard Monster](https://cardboard.monster/products/cairn)​
 
 ## Brazil
 - Sagen Editora (coming soon)
