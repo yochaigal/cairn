@@ -89,7 +89,7 @@ nav_order: 2
 | 71   | **Shield**            | A creature you touch is protected from mundane attacks for [dice] minutes. |
 | 72   | **Shroud**              | [sum] creatures are invisible until they move                |
 | 73   | **Shuffle**             | [sum] creatures instantly switch places. Determine where they end up randomly. |
-| 74   | **Sleep**               | [dice] creatures fall into a light sleep                     |
+| 74   | **Sleep**               | [dice] creatures fall into a light sleep.                     |
 | 75   | **Slick**             | Every surface in a [dice]x10ft radius becomes extremely slippery.   |
 | 76   | **Smoke Form**          | Your body becomes living smoke for [dice] minutes.                              |
 | 77   | **Sniff**               | You can smell even the faintest traces of scents.            |
