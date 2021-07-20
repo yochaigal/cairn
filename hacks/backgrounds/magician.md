@@ -38,5 +38,5 @@ grand_parent: Hacks
 | 2    | **Escapery**       | A few classes of knots pose only a moderate threat to your freedom. You can also probably regurgitate a swallowed key or small item with repulsive frequency. |
 | 3    | **Death Defiance** | Surviving being submerged for several minutes was something you routinely practiced, or at least you are able to suppress panicking before losing consciousness. |
 | 4    | **Levitation**     | Floating a stationary target weighing no more than 12 stones was a trick you received the least lukewarm applause for. |
-| 5    | **Iron Jaws**      | SYou've discovered the correct technique of eating glass and a variety of other traditionally inedible substances. |
+| 5    | **Iron Jaws**      | You've discovered the correct technique of eating glass and a variety of other traditionally inedible substances. |
 | 6    | **Spiritualism**   | With a bit of setup, smoke and mirrors, you have a very minor chance of convincing someone that a partner of yours is their deceased loved one. |
