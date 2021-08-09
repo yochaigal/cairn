@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Tools
+title: Miscellaneous
 nav_order: 3
 parent: Resources
 ---
 
-# Tools
+# Miscellaneous
 ---
 
 [Character Sheet (token)](https://docs.google.com/drawings/d/1_X9o8rzE5jFPQpP1yCz1sPikdm8naQ1gPkT-ATK2T0c) - Download as PDF or PNG
@@ -23,3 +23,5 @@ idolofmanyhand's generators [Perchance](https://perchance.org/cairn-characters) 
 [d66 Starting Loadouts by Classess Kobolds](https://classless-kobolds.itch.io/d66-starting-loadouts-for-cairn)
 
 [Mausritter Item Creation Tools](https://mausritter.com/item-card-studio/)
+
+[Magical Relics](https://glassbirdgames.blogspot.com/2021/08/10-magical-relics-for-cairn.html)
