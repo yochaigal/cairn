@@ -137,7 +137,7 @@ nav_order: 2
 
  **Barry**: _"OK, I hand **Esther** my lantern so I can use both hands.... and I rolled a 14, a fail. Damn."_
 
- **Warden**: _"You slip and tumble down the waterfall and into the water-filled basin below, smacking your hand hard into the side of the pool at the same time. You loses 1d4 DEX damage, and you are unable to properly squeeze items in your dominant hand. It's almost completely dark, but you can still make out the light of your comrade's torch above."_
+ **Warden**: _"You slip and tumble down the waterfall and into the water-filled basin below, smacking your hand hard into the side of the pool at the same time. You lose 1d4 DEX damage, and you are unable to properly squeeze items in your dominant hand. It's almost completely dark, but you can still make out the light of your comrade's torch above."_
 
  **Barry**: _"Well, that was a bad idea! How exactly am I going to get back up? Unless... hey, how much can I see into the darkness below?"_
 
