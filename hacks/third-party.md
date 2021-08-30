@@ -11,3 +11,6 @@ nav_order: 10
 - [**Runecairn**](https://byodinsbeardrpg.itch.io/runecairn)
 - [**NEANDERTAL**](https://natetreme.com/blog/neandertal)
 - [**Liminal Horror**](https://goblinarchives.itch.io/liminal-horror)
+- [Brighter Worlds](https://awkwardturtle.itch.io/brighter-worlds)
+- [From the Mud](https://cueinn.itch.io/fromthemud)
+- [Almaia](https://1d6gnolls.itch.io/almaia)
