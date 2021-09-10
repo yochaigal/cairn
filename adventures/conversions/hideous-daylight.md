@@ -8,7 +8,7 @@ title: Hideous Daylight
 
 # Hideous Daylight
 
-Converted from the original work by Brad Kerr. Get it [here](https://www.drivethrurpg.com/product/333639/Hideous-Daylight)
+Converted from the original work by Brad Kerr. Get it [here](https://www.drivethrurpg.com/product/333639/Hideous-Daylight).
 
 ### Shadow Demons
 - **Demonic Toughness**: Damage from weapons that are not magic or silver are impaired.
