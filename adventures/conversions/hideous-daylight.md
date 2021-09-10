@@ -68,7 +68,7 @@ shade. They don’t. Thick swarms of mad, sleepless crows circle the gardens and
 - Only harmed by fire, extreme cold, sleep spells or smoke.  
 
 ### Deer
-_The deer of the hunting grounds were the first to turn feral due to the destruction of their circadian rhythms and the subtle, maddening influence of the other world beyond the **White**._ These blood-hungry creatures have have adopted a strange vocal affect - a sheeplike bleating that sounds like “meaaat.”
+_The deer of the hunting grounds were the first to turn feral due to the destruction of their circadian rhythms and the subtle, maddening influence of the other world beyond the **White**. These blood-hungry creatures have have adopted a strange vocal affect - a sheeplike bleating that sounds like “meaaat.”_
 
 2 HP, 11 STR, 16 DEX, 8 WIL, hoof, tooth or horns (1d6)
 
@@ -108,18 +108,17 @@ _This creature resembles a dense bouquet of 20+ human arms suspended on two elon
 - Its body _can_ be permanently destroyed with powerful magic.
 
 
-### Mermaid
+### "Mermaid"
 _“Mermaid” looks vaguely human with a perfectly round face, a permanent smile, and no nose. It’s body glows with an intense radioactive green light and her arms extend to any length. Mermaid’s compulsion is to effectively caress everything within arm’s length. It will hold any creature or object close to it, eventually crushing it to death in an endlessly expanding mass of detritus. Like **Limbs**,_ _It does not understand the concept of death and will not easily understand why its actions are harmful. It has human- like legs but prefers the cool of the water._
 
 12 HP, 16 STR, 5 DEX, 1 WIL, Extremely large, crushing arms that want to hug but don’t know their own strength (1d8)  
-- Effectively immortal. Switches to an incorporeal state and slowly regains its physical form at a rate of 1 STR/day. Injuring **Mermaid*- will eventually disable its arms, freeing its trapped ball of detritus.
+- Effectively immortal. Switches to an incorporeal state and slowly regains its physical form at a rate of 1 STR/day. Injuring **Mermaid** will eventually disable its arms, freeing its trapped ball of detritus.
 - Critical Damage: Huge arms grab and entrap its victim.
 
 ### “Spoons”
 _Effectively immortal. Switches to an incorporeal state and slowly regains its physical form at a rate of 1 STR/day. Attacking “Spoons” will eventually disable its bodily and reproductive functions. The most alien of the visitors; typically takes on the form of a wooden spoon but in its natural state, resembles a doughy humanoid with no visible orifices. It’s compulsion is to duplicate._
 
 11 HP, 17 WIL
-
 
 ## Miscellaneous
 _Disintegrate_ (Spell)  
