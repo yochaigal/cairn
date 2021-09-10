@@ -73,7 +73,7 @@ _The deer of the hunting grounds were the first to turn feral due to the destruc
 2 HP, 11 STR, 16 DEX, 8 WIL, hoof, tooth or horns (1d6)
 
 ### Giant Rat, “Scampers”
-_**Scampers* is the enlarged familiar of the apprentice magician Muriel. An enormous rat standing 7’ tall and 12’ long. The rat will slowly lumber towards any living creature and attempt to eat it._  
+_**Scampers** is the enlarged familiar of the apprentice magician Muriel. An enormous rat standing 7’ tall and 12’ long. The rat will slowly lumber towards any living creature and attempt to eat it._  
 
 9 HP, 1 Armor, 14 STR, 11 DEX, 3 WIL, bite & rend (1d10+1d10)
 - Does not suffer from critical damage caused by mundane weapons.
