@@ -2,7 +2,7 @@
 layout: default
 title: Brazilian Portuguese
 nav_exclude: true
-nav_order: 10
+nav_order: 3
 parent: Localizations
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Spanish
-nav_order: 4
+nav_order: 8
 parent: Localizations
 ---
 
