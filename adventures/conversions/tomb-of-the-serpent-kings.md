@@ -8,7 +8,8 @@ title: Tomb of the Serpent Kings
 
 # Tomb of the Serpent Kings
 
-Converted from the original work by Skerples. Get it for [free](https://coinsandscrolls.blogspot.com/2017/06/osr-tomb-of-serpent-kings-megapost.html) or buy the [print edition](https://www.drivethrurpg.com/product/252934/Tomb-of-the-Serpent-Kings--Deluxe-Print-Edition)! Based on the original [conversion notes](https://docs.google.com/document/d/16d1F-V0i1GrcYu0Ug2UfPC1Uy7FVbYef7sp1CqWTGLA) (author unknown)
+Converted from the original work by Skerples. Get it for [free](https://coinsandscrolls.blogspot.com/2017/06/osr-tomb-of-serpent-kings-megapost.html) or buy the [print edition](https://www.drivethrurpg.com/product/252934/Tomb-of-the-Serpent-Kings--Deluxe-Print-Edition)!   
+Based on the original [conversion notes](https://docs.google.com/document/d/16d1F-V0i1GrcYu0Ug2UfPC1Uy7FVbYef7sp1CqWTGLA) (author unknown)
 
 ####  Skeleton
 2 HP, 8 STR, 10 DEX, 6 WIL, Claw (1d6)  
