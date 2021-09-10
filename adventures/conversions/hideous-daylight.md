@@ -2,7 +2,7 @@
 layout: default
 parent: Conversions
 grand_parent: Adventures
-nav_order: 2
+nav_order: 1
 title: Hideous Daylight
 ---
 

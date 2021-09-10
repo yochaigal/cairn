@@ -2,7 +2,7 @@
 layout: default
 parent: Conversions
 grand_parent: Adventures
-nav_order: 1
+nav_order: 3
 title: Tomb of the Serpent Kings
 ---
 
