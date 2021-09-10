@@ -14,5 +14,13 @@ Although the Cairn rules exist in many forms (PDF, Google Docs, Word, etc), the 
 
 2. Do the hard work of translating the core document. [Google Translate](https://translate.google.com) and [deepl.com](https://deepl.com) are good resources; you can even simply translate the entire document once, then look through it for corrections.
 
-## Optional: Fork this Github Repo!
-1. Follow the steps [here](/resources/fork-this-repo)
+## Optional: Create a language-specific version of this website!
+1. Follow the steps [here](/resources/fork-this-repo) to get started in forking this repo.
+
+2. Be sure to name the repo cairn-**lang**, e.g. cairn-fr for French, etc. Your repo should be called something like https://github.com/yourusername/cairn-lang.
+
+3. Copy the translated markdown into the cairn-srd.md file.
+
+4. Translate the other pages in the repo (readme, resources, etc).
+
+4. When building the Affinity files, add "**Lang** Version" to the cover.
