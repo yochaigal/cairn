@@ -3,7 +3,6 @@
     <meta charset="utf-8">
     <title>Character Generator</title>
     <h2>Character Generator</h2>
-    <link href="https://fonts.googleapis.com/css2?family=Inknut+Antiqua:wght@600&family=Libre+Baskerville:ital@0;1&display=swap" rel="stylesheet">
   </head>
   <body>
     <script type="text/javascript" src="/resources/character-generator/js/generator.js"></script>
@@ -12,22 +11,20 @@
       <h3>Appearance</h3>
       <span id="character"></span><br>You are <b><span id="age"></span></b> years old.
       <h3>Attributes</h3>
-        <b>HP: </b><td align="right" id="hp"></td>
-        <br>
-        <b>Armor: </b><td align="right" id="armorTotal"></td>
-        <br>
-        <b>STR: </b><td align="right" id="str"></td>
-        <br>
-        <b>DEX: </b><td align="right" id="dex"></td>
-        <br>
-        <b>WIL: </b><td align="right" id="wil"></td>
-        <h3>Equipment</h3>
+      <table>
+        <th>HP: </th><td align="right" id="hp"></td>
+        <th>Armor: </th><td align="right" id="armorTotal"></td>
+        <th>STR: </th><td align="right" id="str"></td>
+        <th>DEX: </th><td align="right" id="dex"></td>
+        <th>WIL: </th><td align="right" id="wil"></td>
+     </table>
+     <h3>Equipment</h3>
         <b>Armor: </b><span id="armor" ></span><span id="helmet"></span><br>
         <b>Weapon: </b><span id="weapons"></span><br>
         <b>Gear, tools & trinkets: </b><span id="tool"></span>, <span id="gear"></span>, and <span id="trinket"></span><br>
         <b>Bonus item: </b><span id="bonus"></span><br>
         <b>Starting supplies: </b><span id="gold"></span> gold, a torch, and three days' rations<br>
-        <b>Inventory: </b>using <b><span id="total"></b></span> out of <b>10</b> available slots
+        <b>Inventory: </b>using <b><span id="total"></b></span> out of 10 available slots
         <script type="text/javascript" src="/resources/character-generator/js/jquery-3.5.1.min.js"></script>
         <script type="text/javascript" src="/resources/character-generator/js/main.js"></script>
       <br>
@@ -36,10 +33,11 @@
       <li>If an item "stacks" it uses up the same slot as another item! </li>
       <li>If your inventory is full, you are reduced to 0 HP. </li>
 
-<br><b>Reload to generate a new character.</b>
+</body>
+<br>
+<b>Reload to generate a new character.</b>
 <br>
 <br>
 Based on <a href="https://cairnrpg.com">Cairn</a>. Maintained by <a href="https://newschoolrevolution.com">Yochai Gal</a>.
 <br>Based on the original Cairn generator by <a href="https://nakade.itch.io">Nakade</a>.
 <br>Relies on the incredible <a href="https://donjon.bin.sh/code/random">donjon generators</a>.
-</html>
