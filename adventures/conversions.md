@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Adventures
+title: Conversions
 nav_order: 1
-parent: Resources
+parent: Adventures
 ---
 
 # Conversions
