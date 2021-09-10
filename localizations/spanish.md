@@ -2,7 +2,7 @@
 layout: default
 title: Spanish
 nav_order: 4
-parent: Localization
+parent: Localizations
 ---
 
 # Spanish

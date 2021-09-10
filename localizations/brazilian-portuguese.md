@@ -1,8 +1,9 @@
 ---
 layout: default
-title: SRD Em Português
+title: Brazilian Portuguese
 nav_exclude: true
 nav_order: 10
+parent: Localizations
 ---
 
 # Documento de Referência do Sistema Cairn (v.1.0)
@@ -619,7 +620,7 @@ Um salvamento é um teste para evitar resultados ruins decorrentes de escolhas e
 **Exemplo:** _Bea encontra um grupo de Goblins fortemente armados montando guarda na entrada do túnel. Sua jogadora traça um curso cuidadosamente, reconhecendo que com seus 13 DES a passagem furtiva pelos guardas é a melhor opção. Ela rola um d20, resultando em 10 - um sucesso!_
 
 **Privação e Fadiga**
-Um PJ **privado** de uma necessidade crucial (como comida ou descanso) é incapaz de recuperar PG ou pontuação de atributos. 
+Um PJ **privado** de uma necessidade crucial (como comida ou descanso) é incapaz de recuperar PG ou pontuação de atributos.
 
 Qualquer pessoa privada por mais de um dia adiciona **Fadiga** ao seu inventário, uma para cada dia. Cada Fadiga ocupa um espaço e dura até que o PJ seja capaz de se recuperar (como uma noite inteira de descanso em um local seguro).
 
@@ -774,7 +775,7 @@ Quando um ataque reduz o PG de um PJ a exatamente 0, ele é afetado de forma ún
 
 ## Bestiário
 
-**Goblin Raiz** 
+**Goblin Raiz**
 4 PG, 8 FOR, 14 DES, 8 VON, lança (d6)
 
 - Evitam o combate, a menos que eles tenham a vantagem (como um número maior).
@@ -802,14 +803,14 @@ Quando um ataque reduz o PG de um PJ a exatamente 0, ele é afetado de forma ún
 - Como uma ação, pode recuperar PG perdido.
 - Dano crítico: musgo e galhos começam a crescer nas feridas do alvo.
 
-**Elfo Gélido** 
+**Elfo Gélido**
 
 14 PG, 1 Armadura, 8 FOR, 13 DES, 14 VON, adaga de gelo (d6), um Livro de Feitiço (Escolha um: _Adormecer, Teleporte, Detectar Magia)_
 
 - Lindos, amorais e lôngevos.
 - Resistente à maioria das formas de magia.
 
-**Boggart** 
+**Boggart**
 3 PG, 4 FOR, 17 DES, 13 VON
 
 - Um trapaceiro selvagem e peludo que tem prazer em ser um incômodo.
