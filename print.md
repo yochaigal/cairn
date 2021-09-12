@@ -6,7 +6,9 @@ nav_order: 3
 
 # Grab a print copy!
 
-A deluxe print edition of Cairn can be purchased from the following places:
+A print-to-order version is available on [lulu](https://www.lulu.com/en/us/shop/yochai-gal-and-cosmic-orrery-and-jim-parkin/cairn/paperback/product-q7jgg7.html). 
+
+A _deluxe_ print edition of Cairn can be purchased from the following places:
 
 ## US
 - [Direct](https://gum.co/cairnrpg)

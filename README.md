@@ -11,9 +11,6 @@ The PDF version is available for free on [Itch.io](https://yochaigal.itch.io/cai
 The full text is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
 The original Affinity Publisher file is also available with the downloads.
 
-A print version of Cairn is now available!  
-See the [Print](/print.md) page for more.
-
 <p></p>
 
 [![Alt text](/img/cairn.svg "Click to embiggen"){:height="50%" width="50%"}](/img/cairn.svg)
