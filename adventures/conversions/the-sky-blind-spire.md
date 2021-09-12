@@ -81,55 +81,37 @@ In addition to the number “six” on the floor, there’s a staircase leading 
 This room stinks like a wharf and the floor is covered in mud, sticks, and bird shit. Giant dire pelicans fly in and out through the four windows lining the wall. The lighting through the windows seems odd.
 - The number in the floor (9) is hidden beneath refuse.
 - The windows are all on the 2nd floor, facing different directions.
-- Exitslead to the hallway of small chambers, up a flight of stairs to room 8, and out to another room with a door visible.
+- Exits lead to the hallway of small chambers, up a flight of stairs to Room 8, and out to another room with a door visible.
 
 
 ### Dire Pelican
-STR 15, DEX 15, WIL 3, 15hp, Armour 1
-
-d10 Beak, Swallow Whole on Critical Damage to be kept alive in stomach for later feeding to young. Stomach has d4-1 live people inside already.
+15 HP, 1 Armor, 15 STR, 15 DEX, 3 WIL, beak (d10),
+- Swallow Whole on Critical Damage to be kept alive in stomach for later feeding to young.
+- Stomach has d4-1 live people inside already.
 
 
 ## 10. Room
-
-
-
 - Door in doorway leads back to (8)
 - Doorway leads down a long hall
-- Pit trap in the hall will be obvious unless they’ve been in here for at least an hour, in which case it will be invisible due to blue rug, dropping down through the chute in the ceiling of (1)
-
+- Pit trap in the hall will be obvious unless they've been in here for at least an hour, in which case it will be invisible due to blue rug, dropping down through the chute in the ceiling of (1)
 
 ## 11. Room
-
-
-
-- Short hallwayleads to (12)
+- Short hallway leads to (**12**)
 
 
 ## 12. Room
-
-
-
 - Window with chain in sill looks down from high (4S)
 
 
 ## 13. Bleak Hall
-
 This hall has two stairways with a landing in between. Four large statues are arrayed at the corners of the staircase, with offerings at their feet, as if used as idols for prayer. And a person in rusty armor appears to be standing at the top of the staircase, staring blankly off away from you, swaying uneasily.
-
-
-
 - Dead bodies reanimate here. Save STR vs. possession if sleeping here or suffering critical damage.
 - Tintardinal’s spectral mentor will come if they pray. He will urge them to complete Tintardinal’s work, to complete the path in order and leave the altar intact.
-- Exitsin all directions.
+- Exits in all directions.
 
 
 ### Skeleton
-
-
-#### STR 10, DEX 13,  WIL 12,  HP 6, armor 2 vs. piercing
-
-d6 Sword. Shatters at 0 STR, but reforms next turn unless pieces are kept apart. Falls into a pile of bones if idols are destroyed, but this will summon an angry spectral mentor.
+6 HP, 2 Armor, 10 STR, 13 DEX, 12 WIL, sword (d6). Shatters at 0 STR, but reforms next turn unless pieces are kept apart. Falls into a pile of bones if idols are destroyed, but this will summon an angry spectral mentor.
 
 
 ### Hungry Spirits (room 13)
