@@ -10,12 +10,12 @@ title: Raiders of Wolfsea
 
 Converted from the original [work by Ben Milton](https://www.patreon.com/questingbeast) by [Gio Il Mago](https://scrtgm.blogspot.com/2021/07/raiders-of-wolfsea-maritime-adventure.html).
 
-## Notes
-### Structures and Vehicles: Structures and Vehicles reduced to 0 HP are wrecked, and all within suffer d6 DAMAGE.
-- Weapons unsuitable for causing structural DAMAGE have their attack IMPAIRED.
-- HP is restored by minor repairs, but Wrecked vehicles and structures require lengthy Specialist repair.
-- Colliding vehicles both take d6 DAMAGE. If there is a major weight difference, the lighter suffers d12 damage instead.
-- Vehicles take no DAMAGE for running over soft targets like people.
+### Structures and Vehicles:
+- Structures and Vehicles reduced to 0 HP are wrecked, and all within suffer d6 damage.
+- Weapons unsuitable for causing structural damage have their attack _impaired_.
+- HP is restored by minor repairs, but _wrecked_ vehicles and structures require lengthy Specialist repair.
+- Colliding vehicles both take d6 damage. If there is a major weight difference, the damage is _enhanced_
+- Vehicles take no damage for running over soft targets like people.
 
 ### Tempest:
 5 HP, 2 Armor, 16 STR, swallow (d12, _blast_), constrict (d12+d12 against ships)

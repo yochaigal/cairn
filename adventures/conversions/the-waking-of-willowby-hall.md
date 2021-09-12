@@ -40,11 +40,11 @@ Converted from the original [work by Ben Milton](https://shop.swordfishislands.c
 - Spectral: Lavinia can become invisible and intangible at will, has no physical needs, and can only be affected by magic and silver. Cannot approach Saint Olvard’s bell.  
 - Personality: Imperious, cold, easily flattered, and a lover of music.  
 
-### Horatio (Ghostly Footman)###
+### Horatio (Ghostly Footman)
 4 HP, 13 WIL  
 - Spectral: Horatio is invisible and intangible to everyone other than the person who summoned him. He has no physical needs, and can only be affected by magic and silver.  
 
-### Taxidermied Owl Bear###
+### Taxidermied Owl Bear
 8 HP, 15 STR, 13 DEX, 3 WIL, bite & claws (d8+d8), blast
 - Stuffed: Ignores all piercing and bludgeoning damage.  
 - Flammable: Very easy to ignite. Once on fire, it takes 1d6 damage per round and charges around the manor in a panic spreading the fire.  
