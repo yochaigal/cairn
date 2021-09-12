@@ -41,7 +41,6 @@ Converted from the original [work by Ben Milton](https://shop.swordfishislands.c
 - Personality: Imperious, cold, easily flattered, and a lover of music.  
 
 ### Horatio (Ghostly Footman)###
-
 4 HP, 13 WIL  
 - Spectral: Horatio is invisible and intangible to everyone other than the person who summoned him. He has no physical needs, and can only be affected by magic and silver.  
 
@@ -65,7 +64,7 @@ Level 3 Chaotic Magic User
 4 HP, 9 STR, 11 DEX, 16 WIL, doomsday staff ( (1d6), spellbooks: _Hold Portal_, _Magic Missile_, _Web_
 - _Doomsday Staff_: 3 charges, fires a fireball dealing 3d6 blast damage. At the start of the adventure she only has two charges left.  
 
-## Horrible Magic Goose
+### Horrible Magic Goose
 1 HP, bite (1d4)
 - Honk: If chased, harassed, or grabbed, Mildred will start honking and biting, requiring encounter die rolls. The honking may also alert Bonebreaker Tom if he is nearby.
 - Lay: Every morning, Mildred lays a very heavy goose egg. Peel away the shell and the interior is solid gold. The volume of the metal is equal to 300gp.
