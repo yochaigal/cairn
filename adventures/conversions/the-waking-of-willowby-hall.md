@@ -15,8 +15,8 @@ Converted from the original [work by Ben Milton](https://shop.swordfishislands.c
 ### Bonebreaker Tom
 12 HP, 3 Armor, 19 STR, 12 DEX, 14 WIL, stomp (d8+d8, blast), bell flail (d10+d10, blast)
 - Critical damage: Grab (2d6 STR damage, save to escape) or Throw (2d6 STR damage)  
-**Or:**  
-No stats (other than WIL), save to avoid grab or throw.  
+
+**Alternative option**: No stats (other than WIL, maybe), PCs must save to avoid grab or throw.  
 
 ### Death Knight
 10 HP, 2 Armor, 12 STR, 12 DEX, 4 WIL, sword (1d8+1d8)  
@@ -71,12 +71,11 @@ Level 3 Chaotic Magic User
 - Lay: Every morning, Mildred lays a very heavy goose egg. Peel away the shell and the interior is solid gold. The volume of the metal is equal to 300gp.
 
 ## Spells:
-_Hold Portal_: Magically holds shut an entryway as if it were securely closed and normally locked.  
-_Magic Missile_: A distant target must save or take 1d4 STR damage.  
-_Read Magic_: You can decipher magical inscriptions on books, scrolls, and weapons. 
-
-_Read Languages_: (see _Comprehend_) You become fluent in all languages for a short while.  
-_Web_: Your wrists shoot thick webbing.  
-_Phantasmal Force_: (see _Spectacle_)  A clearly false but impressive illusion of your choice appears, under your control. It may be up to the size of a palace and has full motion and sound.  
-_Mirror Image_: (see _Mirror Image_) An illusory duplicate of yourself appears and is under your control.  
-_Fly_: Target can fly for a short while.  
+- _Hold Portal_: Magically holds shut an entryway as if it were securely closed and normally locked.  
+- _Magic Missile_: A distant target must save or take 1d4 STR damage.  
+- _Read Magic_: You can decipher magical inscriptions on books, scrolls, and weapons.
+- _Read Languages_: (see _Comprehend_) You become fluent in all languages for a short while.  
+- _Web_: Your wrists shoot thick webbing.  
+- _Phantasmal Force_: (see _Spectacle_)  A clearly false but impressive illusion of your choice appears, under your control. It may be up to the size of a palace and has full motion and sound.  
+- _Mirror Image_: (see _Mirror Image_) An illusory duplicate of yourself appears and is under your control.  
+- _Fly_: Target can fly for a short while.  
