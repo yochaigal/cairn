@@ -9,7 +9,6 @@ grand_parent: Adventures
 # Additional Conversions
 <br>
 
-- [The Waking of Willowby Hall](https://docs.google.com/document/d/1khj37-E-feGh4dwDDbBJPHvu0vpEbS7mCGa5OhLQlEA/edit)
 - [A Gathering of Blades](https://docs.google.com/document/d/1HbO_K9ae7ifFcMg6sO2y0vOixl2KVwTvXxKqrev5g74/edit)
 - [Raiders of Wolfsea](https://docs.google.com/document/d/1XcRs_15aQUZf6PPkDkuNb9pc9rt8l_MAWq-yfjabOso/edit)
 - [Oracle's Decree](https://docs.google.com/document/d/1kpMuf-ZFIBiPRjThx81BnhMPurU0Ry0cT43iH-RfafQ/)
