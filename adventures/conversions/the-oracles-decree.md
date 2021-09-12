@@ -9,7 +9,7 @@ title: The Oracle's Decree
 # The Oracle's Decree
 
 Converted from the original [adventure by Michael Prescott](http//blog.trilemma.com/2015/10/the-oracles-decree.html).  
-Credit to Gio_il_Mago.
+Credit to Gio Il Mago](https://scrtgm.blogspot.com/).
 
 ### Heelan Bandits
 5 HP, 1 Armor, 17 CHA, staves or bronze knives (d6)
