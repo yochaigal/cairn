@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Additional Conversions
-nav_order: 10
+nav_order: 1
 parent: Conversions
 grand_parent: Adventures
 ---
