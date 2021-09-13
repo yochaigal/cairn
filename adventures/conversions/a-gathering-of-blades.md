@@ -2,7 +2,7 @@
 layout: default
 parent: Conversions
 grand_parent: Adventures
-nav_order: 5
+nav_order: 2
 title: A Gathering of Blades
 ---
 
@@ -38,7 +38,7 @@ Converted from the original [work by Ben Milton](https://www.patreon.com/questin
 ### Gelatinous King (Giant Skeleton)
 15 HP, 14 STR, 9 DEX, 12 WIL, Rawg (d12, blast)
 - Only bone-breaking attacks can harm it.
-- Critical damage: target is absorbed into its slimy interior for later digestion. 
+- Critical damage: target is absorbed into its slimy interior for later digestion.
 
 ### Gelatinous King
 4 HP, 5 STR, 7 DEX, 12 WIL, acidic spray (d6, corrodes armor)

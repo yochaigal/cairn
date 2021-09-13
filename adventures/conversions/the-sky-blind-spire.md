@@ -2,7 +2,7 @@
 layout: default
 parent: Conversions
 grand_parent: Adventures
-nav_order: 8
+nav_order: 7
 title: The Sky-Blind Spire
 ---
 
