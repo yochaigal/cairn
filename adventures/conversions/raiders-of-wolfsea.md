@@ -47,8 +47,8 @@ Converted from the original [work by Ben Milton](https://www.patreon.com/questin
 5 HP, STR 6, dagger (d6)
 Sunglasses of Djinn Summoning (Djinn appears or disappears when you clean them)
 
-# More Monsters
-### Djinni
+### Optional Additions
+### Djinn
 6 HP, 1 Armor, 17 CHA, d12 giant fist, magic
 - Immune to mundane weapons
 - Whirlwind (1-in-4 chance of reverting): d10 damage to all in path, swept aside on _Critical Damage_
