@@ -15,7 +15,7 @@ Credit to [Jason Tocci's](http://jasontocci.itch.io/) original [conversion](http
 
 _**Tintardinal**’s spire was to be his greatest work: A stone tower crafted as a giant arcanum, granting a great reward to those who unlock its secrets. Nobody knows the secrets, though, because **Tintardinal** fell to his death before he could use it.
 
-The spire stands five stories tall, the only structure on a small island in a large lake. Now that  you’ve had a chance to tether your rowboat and get a close up look, you can see a great door ahead at the end of the path leading from the dock, and windows up the sides of the tower, pointing in each of the directions of the compass. The upper floor windows each seem to have a chain bolted to their sills, dangling down to the window down below (but nothing dangling from the second floor all the way to the ground). The lake is all around you, and beyond that, the scrublands you crossed to get here, mountains in the distance, and the sun just rising over the horizon to the east. The weather’s clear – it’ll be a sunny day with a clear, blue sky.
+The spire stands five stories tall, the only structure on a small island in a large lake. Now that  you've had a chance to tether your rowboat and get a close up look, you can see a great door ahead at the end of the path leading from the dock, and windows up the sides of the tower, pointing in each of the directions of the compass. The upper floor windows each seem to have a chain bolted to their sills, dangling down to the window down below (but nothing dangling from the second floor all the way to the ground). The lake is all around you, and beyond that, the scrublands you crossed to get here, mountains in the distance, and the sun just rising over the horizon to the east. The weather’s clear – it’ll be a sunny day with a clear, blue sky.
 
 Close inspection of the shore surrounding the tower reveals small barefoot tracks in the mud going in and out, possibly from many weeks. Even closer inspection may reveal holes dug and refilled around the perimeter, with a tool buried in each.
 
@@ -58,13 +58,13 @@ In addition to the number “six” on the floor, there’s a staircase leading 
 - If they have any sparks, d6 Undines appear and attempt to reclaim them.
 - If they do not have sparks, the Undines may ask them to destroy the altar.
 - A Spellbook or Relic is found in the fountain, along with Plate Armor. Undines will protect them unless the group agrees to destroy the altar.
-- Blue tapestryon left covers a doorway, the hallway behind it receding into darkness,
-- Dooron right leads to what seems like another room.
+- Blue tapestry on left covers a doorway, the hallway behind it receding into darkness,
+- Door on right leads to what seems like another room.
 - Window on far side of the fountain has a chain.
 
 ### Undines
 13hp 13 STR, 18 DEX, 15 WIL, pressure jet (d8)
-- Critical damage: overwhelmed by the wave and pushed far away.  
+- _critical damage_: overwhelmed by the wave and pushed far away.  
 - Impair any damage against them unless it would freeze/boil water.
 
 ## 8. Room
@@ -74,13 +74,13 @@ In addition to the number “six” on the floor, there’s a staircase leading 
 
 ## 9. Dire Pelicans’ Roost
 This room stinks like a wharf and the floor is covered in mud, sticks, and bird shit. Giant dire pelicans fly in and out through the four windows lining the wall. The lighting through the windows seems odd.
-- The number in the floor (9) is hidden beneath refuse.
+- The number in the floor (**9**) is hidden beneath refuse.
 - The windows are all on the 2nd floor, facing different directions.
 - Exits lead to the hallway of small chambers, up a flight of stairs to Room 8, and out to another room with a door visible.
 
 ### Dire Pelican
 15 HP, 1 Armor, 15 STR, 15 DEX, 3 WIL, beak (d10)
-- Swallow Whole on Critical Damage to be kept alive in stomach for later feeding to young.
+- Swallow Whole on _critical damage_ to be kept alive in stomach for later feeding to young.
 - Stomach has d4-1 live people inside already.
 
 ## 10. Room
@@ -96,7 +96,7 @@ This room stinks like a wharf and the floor is covered in mud, sticks, and bird 
 
 ## 13. Bleak Hall
 This hall has two stairways with a landing in between. Four large statues are arrayed at the corners of the staircase, with offerings at their feet, as if used as idols for prayer. And a person in rusty armor appears to be standing at the top of the staircase, staring blankly off away from you, swaying uneasily.
-- Dead bodies reanimate here. Save STR vs. possession if sleeping here or suffering critical damage.
+- Dead bodies reanimate here. Save STR vs. possession if sleeping here or suffering _critical damage_.
 - **Tintardinal**’s spectral mentor will come if they pray. He will urge them to complete **Tintardinal**’s work, to complete the path in order and leave the altar intact.
 - Exits in all directions.
 
@@ -107,7 +107,7 @@ This hall has two stairways with a landing in between. Four large statues are ar
 
 ### Hungry Spirits (room 13)
 6 HP, 5 STR, 12 DEX, 15 WIL
-- Invisible. Save WIL vs. possession when asleep here or suffer Critical Damage.
+- Invisible. Save WIL vs. possession when asleep here or suffer _critical damage_.
 
 ### Mentor
 15 HP, 18 WIL, Lightning blast (d6, ignores armor)
@@ -120,8 +120,8 @@ This hall has two stairways with a landing in between. Four large statues are ar
 ## 15. Garbage Heap
 - A heap of garbage swarming with muck flies lies at the bottom of a high wall.
 - It looks like the wall leads up a conical shaft, smaller at the top. There are handholds on the wall.
-- (There may be giant muck flies here.)
-- (Climbing up will shrink you. Going down will make you grow.)
+- There may be giant muck flies here.
+- Climbing up will shrink you. Going down will make you grow.
 - Exit back up the stairs to (**14**).
 
 ### Muck Flies
@@ -145,7 +145,7 @@ A messy hall with  bones littered about, a large cooking pot over a fire pit in 
 - Blue tapestry covering way back to (**1**)
 
 ## 19. Windowed Chamber
-- Windows (3S)
+- Windows (**3S**)
 - Exit back to hallway
 
 ## 20. Windowed Chamber
@@ -175,7 +175,7 @@ Bearing a full-sized spark to the altar completes **Tintardinal's** master spell
 
 ### Skeletal Dire Pelican (possessed)
 15 HP, 2 Armor, 15 STR, 15 DEX, 3 WIL, Beak (d10)
-- Swallow Whole on Critical Damage to end up in rotting entrails barely held in by ribs.
+- Swallow Whole on _critical damage_ to end up in rotting entrails barely held in by ribs.
 - Stomach has d4-1 more skeletons inside already. Reforms if bones are not separated.
 
 ### Ricalu Thieves
