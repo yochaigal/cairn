@@ -64,8 +64,8 @@ Sunglasses of Djinn Summoning (Djinn appears or disappears when you clean them)
 - Rejuvenation: If it has a phylactery, a destroyed lich gains a new body in 1d8 days, regaining all its hit points and becoming active again. The new body appears within 5 feet of the phylactery.
 
 ## Spells:
-- _Disintegrate_: range nearby, d20 damage to a non magical- creature or objects.  
+- _Disintegrate_: d20 damage to a non magical-creatures or objects nearby.  
 - _Animate Dead_: Create 1d6 skeletons or zombies from dead bodies (d6 HP). They mostly follow your orders until destroyed or dispelled.  
 - _Cloudkill_: A cloud of poisonous vapors appears where you cast it and moves slowly away from the caster (unless affected by wind). d20 STR damage to any creature caught in the cloud.  
 - _Dimension Door_: You instantly transfer the target from its current location to anywhere in sight.  
-- _Thunderwave_: objects and creatures around you take d12 _blast_ damage and are pushed away if unsecured. Loud noise audible from a distance.
+- _Thunderwave_: Objects and creatures around you take d12 _blast_ damage and are pushed away if unsecured. Loud noise audible from a distance.
