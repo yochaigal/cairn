@@ -13,7 +13,7 @@ Credit to [Jason Tocci's](http://jasontocci.itch.io/) original [conversion](http
 
 ## Introduction
 
-_**Tintardinal**’s spire was to be his greatest work: A stone tower crafted as a giant arcanum, granting a great reward to those who unlock its secrets. Nobody knows the secrets, though, because **Tintardinal** fell to his death before he could use it.
+**Tintardinal’s** spire was to be his greatest work: A stone tower crafted as a giant arcanum, granting a great reward to those who unlock its secrets. Nobody knows the secrets, though, because **Tintardinal** fell to his death before he could use it.
 
 The spire stands five stories tall, the only structure on a small island in a large lake. Now that  you've had a chance to tether your rowboat and get a close up look, you can see a great door ahead at the end of the path leading from the dock, and windows up the sides of the tower, pointing in each of the directions of the compass. The upper floor windows each seem to have a chain bolted to their sills, dangling down to the window down below (but nothing dangling from the second floor all the way to the ground). The lake is all around you, and beyond that, the scrublands you crossed to get here, mountains in the distance, and the sun just rising over the horizon to the east. The weather’s clear – it’ll be a sunny day with a clear, blue sky.
 
@@ -30,7 +30,6 @@ As you walk through the room, you see a tile on the floor ahead of you begin to 
 - A door off its hinges leads into a hallway, straight ahead.
 - Another arched doorway leads to a hallway to the left.
 - Examination of the ceiling reveals it is higher than it should be, with a hole in the center, like the bottom of a refuse chute.
-
 - From here on out, narrate the bit about the spark if they go into the correct room.
 - If they go into the wrong room, note that the spark is abruptly snuffed out.
 - At the one hour mark, they are no longer able to see anything blue. That means the sky too.
@@ -64,7 +63,7 @@ In addition to the number “six” on the floor, there’s a staircase leading 
 
 ### Undines
 13hp 13 STR, 18 DEX, 15 WIL, pressure jet (d8)
-- _critical damage_: overwhelmed by the wave and pushed far away.  
+- _Critical damage_: overwhelmed by the wave and pushed far away.  
 - Impair any damage against them unless it would freeze/boil water.
 
 ## 8. Room
@@ -97,7 +96,7 @@ This room stinks like a wharf and the floor is covered in mud, sticks, and bird 
 ## 13. Bleak Hall
 This hall has two stairways with a landing in between. Four large statues are arrayed at the corners of the staircase, with offerings at their feet, as if used as idols for prayer. And a person in rusty armor appears to be standing at the top of the staircase, staring blankly off away from you, swaying uneasily.
 - Dead bodies reanimate here. Save STR vs. possession if sleeping here or suffering _critical damage_.
-- **Tintardinal**’s spectral mentor will come if they pray. He will urge them to complete **Tintardinal**’s work, to complete the path in order and leave the altar intact.
+- **Tintardinal's** spectral mentor will come if they pray. He will urge them to complete **Tintardinal**’s work, to complete the path in order and leave the altar intact.
 - Exits in all directions.
 
 ### Skeleton
