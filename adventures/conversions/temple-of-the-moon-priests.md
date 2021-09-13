@@ -10,9 +10,7 @@ title: Temple of the Moon Priests
 
 Converted from the original [work by Will Doyle and Stacey Allan](https://www.drivethrurpg.com/product/310492/Temple-of-the-Moon-Priests) by [xenio](https://xenioinabottle.blogspot.com).
 
-Get the adventure for free [here](https://www.drivethrurpg.com/product/310492/Temple-of-the-Moon-Priests).
-
-#### Moon Hag
+### Moon Hag
 
 6 HP, 12 STR, 16 WIL, Claws (d6), Drowning, Eerie Rhymes
 
@@ -21,13 +19,13 @@ Get the adventure for free [here](https://www.drivethrurpg.com/product/310492/Te
 - **Drowning**: if a character is maddened by the Eerie Rhymes or if the Hag deals damage to STR with her
   Claws, she will drown the victim in the water (Save STR to get free or suffer 1d6 damage/round).
 
-#### Common Knucklebone Member
+### Common Knucklebone Member
 
 4 HP, 1 Armor, battle-axe (d8) or shortbow (d6)
 
 - Carries one random item from the [Expeditionary Gear Table](https://cairnrpg.com/cairn-srd/#expeditionary-gear)
 
-#### Knucklebone Sick Wizard
+### Knucklebone Sick Wizard
 
 4 HP, staff (d6)
 
@@ -35,29 +33,29 @@ Get the adventure for free [here](https://www.drivethrurpg.com/product/310492/Te
 - Too sick to be willing to fight the party, only wants rest.
 - If in the position to successfully betray them for the Shard, he will.
 
-#### Knucklebone Werestag Leader
+### Knucklebone Werestag Leader
 
 5 HP, Armor 1, 12 STR, 12 WIL, Horns (d10)
 
-#### Spectre of the Moon Priest
+### Spectre of the Moon Priest
 
 12 HP, 6 STR, draining touch (d4)
 
 - Draining Touch : a target that dies by the touch of the Spectre will raise as an Undead Lycanthrope in one combat round.
 
-#### Undead Lycanthrope
+### Undead Lycanthrope
 
 3 HP, natural weapon (d8)
 
 - Always attacks last in a round.
 
-#### Moon Priest Skeleton
+### Moon Priest Skeleton
 
 4 HP, 1 Armor, WIL 12, Crescent Blade (d8)
 
 - Wears the robes of the Moon Priests, has a Crescent Medallion (5gp).
 
-#### Werespider
+### Werespider
 
 4 HP, STR 12, WIL 8, Bite (d6)
 
