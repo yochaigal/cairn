@@ -47,14 +47,14 @@ Converted from the [original work by Gavin Norman](https://necroticgnome.com/pro
 ## 4. A Hole in the Earth
 - DEX save to avoid being heard by the worms.
 
-## 5.
+## 5. Hall of Guardians
 ### Religious Objects
 4 HP, 1 Armor, bash (1d4)
 - Can fly.
 - Any PC with obvious ill-intent is immediately attacked.
 - On death, a cloud of mould spores erupt. Anyone nearby must make a STR save or suffer 1 STR damage and become paralyzed by choking for one round.
 
-## 6.
+## 6. Blindfolded Statue
 - Run as written.
 
 ## 7. Freezing Mirror
@@ -79,7 +79,7 @@ Converted from the [original work by Gavin Norman](https://necroticgnome.com/pro
 ### A Loose Flagstone
 - Any thorough search will discover the loose flagstone.
 - Poison needle trap: suffer 1d4 STR damage and fall unconscious for 1d12 minutes.
-- See rules for [Scrolls](/cairn-srd/#magic) and [_Hold Person_](/adventures/conversions/winters-daughter/#hooded-men-aka-drunes) note above.
+- See rules for Scrolls in the [SRD](/cairn-srd/#magic) and [_Hold Person_](/adventures/conversions/winters-daughter/#hooded-men-aka-drunes) Spellbook in this document.
 - Holy wafers: Anyone eating a single wafer provides an immense sense of well-being and peace. Eating three or more causes the person to fall into a deep sleep for 1d4 hours.
 
 ## 11. Statues With Weapons
@@ -88,7 +88,7 @@ Converted from the [original work by Gavin Norman](https://necroticgnome.com/pro
 - Mace & spear do d8 damage, the Morningstar, Battle Axe, Halberd and Warhammer do d10.
 
 ### Mould-Patched Walls
-Raises a cloud of spores. Everyone within 10' makes a WIL save or suffer 1d4 STR damage and be stricken with violent coughing and choking for 1 turn.
+- Raises a cloud of spores. Everyone within 10' makes a WIL save or suffer 1d4 STR damage and be stricken with violent coughing and choking for 1 turn.
 
 ## 12. Hall of Hounds
 ### Stone Hounds
@@ -102,4 +102,4 @@ Raises a cloud of spores. Everyone within 10' makes a WIL save or suffer 1d4 STR
 - Abilities as written.
 
 ### Stone Coffer
-- See Ring of Soul-Binding [/adventures/conversions/winters-daughter/#ring-of-soul-binding].
+- See [Ring of Soul-Binding](/adventures/conversions/winters-daughter/#ring-of-soul-binding).
