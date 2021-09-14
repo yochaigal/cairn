@@ -13,6 +13,11 @@ Converted from the [original work by Gavin Norman](https://necroticgnome.com/pro
 
 ## Encounters
 
+## Outside The Mound
+### Random Events
+- Gazing at the violet-eyed owl: save WIL to avoid fainting.
+- Gust of wind: DEX save to avoid taking 1 STR damage.
+
 ## 1. Approaching the Burial Mound
 - Run as written.
 
@@ -43,7 +48,7 @@ Converted from the [original work by Gavin Norman](https://necroticgnome.com/pro
 4 HP, 1 Armor, bash (1d4)
 - Can fly.
 - Any PC with obvious ill-intent is immediately attacked.
-- On death, a cloud of mold spores erupt. Anyone nearby must make a STR save or suffer 1 STR damage and become paralyzed by choking for one round.
+- On death, a cloud of mould spores erupt. Anyone nearby must make a STR save or suffer 1 STR damage and become paralyzed by choking for one round.
 
 ## 6.
 - Run as written.
@@ -72,3 +77,19 @@ Converted from the [original work by Gavin Norman](https://necroticgnome.com/pro
 - Poison needle trap: suffer 1d4 STR damage and fall unconscious for 1d12 minutes.
 - See rules for [Scrolls](/cairn-srd/#magic) and [_Hold Person_](/adventures/conversions/winters-daughter/#hooded-men-aka-drunes) note above.
 - Holy wafers: Eating 10 will cure 1d8 STR.
+
+## 11. Statues With Weapons
+### 7 Statues of Footmen
+- The longsword is two-handed and does d8+d8 damage.
+- Mace & spear do d8 damage, the Morningstar, Battle Axe, Halberd and Warhammer do d10.
+
+### Mould-Patched Walls
+Raises a cloud of spores. Everyone within 10' makes a WIL save or suffer 1d4 STR damage and be stricken with violent coughing and choking for 1 turn.
+
+## 12. Hall of Hounds
+### Stone Hounds
+16 HP, 3 Armor, 16 STR, 12 DEX, 1 WIL, bite (1d8)
+- Chained (can't leave the room).
+- Only harmed by magic. Unaffected by charms or mind control.
+
+## 13. The Knight's Tomb
