@@ -14,8 +14,17 @@ title: Winter's Daughter
 - Note that there are [two versions](https://necroticgnome.com/blogs/news/winters-daughter) of this adventure (not including the 5e/OSE versions).
 - This conversion was written for the original edition.
 
+## Magic Items
+
+### Ring of Soul Binding
+- Unwilling should make a WIL save.
+
+### Pouch of Limitless Fungi
+- As written.
+
 ## Outside the Mound
 
+---
 ### Random Events
 - Gazing at the violet-eyed owl: save WIL to avoid fainting.
 - Gust of wind: DEX save to avoid taking 1 STR damage.
@@ -107,5 +116,29 @@ title: Winter's Daughter
 ### 14. Warded Pool.
 - Run as written.
 
-#### Ring of Soul Binding
-- Unwilling should make a WIL save.
+## The Fairy Prison
+
+### Random Events
+- Frost Elf Knights (see [18. Wedding Feast](/adventures/conversions/winters-daughter#18-wedding-feast).
+- Goblin sleigh-rider
+- Winter wolves
+
+### 15. Tower on a Frozen Lake
+
+### 16. Entrance Hall
+#### Dolmenwood Troll
+
+#### Dolmenwood Goblin
+
+### 17. Fairy Kitchen
+#### Frost Elf Cooks
+
+### 18. Wedding Feast
+#### Frost Elf Knights
+
+#### Frost Elf Guards
+
+#### Frost Elf Nobles
+
+### 19. The Princess's Bedchamber
+#### Princess Snowfall-at-Dusk
