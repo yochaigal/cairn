@@ -11,6 +11,10 @@ title: Winter's Daughter
 
 Converted from the [original work by Gavin Norman](https://necroticgnome.com/products/dolmenwood-winters-daughter). Note that there are [two versions](https://necroticgnome.com/blogs/news/winters-daughter) of this adventure (not including the various 5e/OSE versions). This conversion was written for the original edition. In general, very little changes are necessary to run the adventure as written.
 
+## Magic Items
+### Ring of Soul Binding
+- Unwilling should make a WIL save.
+
 ## Encounters
 
 ## Outside The Mound
@@ -73,10 +77,10 @@ Converted from the [original work by Gavin Norman](https://necroticgnome.com/pro
 - Critical damage: acid eats at flesh and clothing. Lose 1 STR per round until washed off.
 
 ### A Loose Flagstone
-- A search will discover it.
+- Any thorough search will discover the loose flagstone.
 - Poison needle trap: suffer 1d4 STR damage and fall unconscious for 1d12 minutes.
 - See rules for [Scrolls](/cairn-srd/#magic) and [_Hold Person_](/adventures/conversions/winters-daughter/#hooded-men-aka-drunes) note above.
-- Holy wafers: Eating 10 will cure 1d8 STR.
+- Holy wafers: Anyone eating a single wafer provides an immense sense of well-being and peace. Eating three or more causes the person to fall into a deep sleep for 1d4 hours.
 
 ## 11. Statues With Weapons
 ### 7 Statues of Footmen
@@ -93,3 +97,9 @@ Raises a cloud of spores. Everyone within 10' makes a WIL save or suffer 1d4 STR
 - Only harmed by magic. Unaffected by charms or mind control.
 
 ## 13. The Knight's Tomb
+### The Ghost of Sir Chyde
+- 26 HP, 3 Armor, 14 STR, 16 DEX, 18 WIL, aging touch (1d6)
+- Abilities as written.
+
+### Stone Coffer
+- See Ring of Soul-Binding [/adventures/conversions/winters-daughter/#ring-of-soul-binding].
