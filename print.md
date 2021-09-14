@@ -8,7 +8,7 @@ nav_order: 3
 
 <br>
 
-##### A print-to-order version is available on [Lulu](https://www.lulu.com/en/us/shop/yochai-gal-and-cosmic-orrery-and-jim-parkin/cairn/paperback/product-q7jgg7.html).
+##### A print-to-order version is available on [Lulu](https://www.lulu.com/en/us/shop/yochai-gal-and-cosmic-orrery-and-jim-parkin/cairn/paperback/product-q7jgg7.html) and [Amazon](https://www.amazon.com/dp/1329489020). The price is _at cost_.
 ##### A _deluxe_ print edition of Cairn can be purchased from the following places:
 
 ## US
