@@ -9,7 +9,11 @@ title: Winter's Daughter
 
 # Winter's Daughter
 
-Converted from the [original work by Gavin Norman](https://necroticgnome.com/products/dolmenwood-winters-daughter). Note that there are [two versions](https://necroticgnome.com/blogs/news/winters-daughter) of this adventure (not including the various 5e/OSE versions). This conversion was written for the original edition. In general, very little changes are necessary to run the adventure as written.
+- Converted from the [original work by Gavin Norman](https://necroticgnome.com/products/dolmenwood-winters-daughter).
+- In general, very little changes are necessary to run the adventure as written.
+- Note that there are [two versions](https://necroticgnome.com/blogs/news/winters-daughter) of this adventure (not including the 5e/OSE versions).
+- This conversion was written for the original edition.
+
 
 ## Magic Items
 ### Ring of Soul Binding
