@@ -134,8 +134,8 @@ title: Winter's Daughter
 4 HP, 1 Armor 8 STR, 11 DEX, 8 WIL, spear (d6), Spells (once per day: _Charm person_, _Darkness_, _Sleep_, _Phantasmal Force_)
 - _Charm Person_: Target sees caster as a friend until they succeed a WIL save.
 - _Darkness_: _Creates a shroud of magical darkness in a 15' radius._
-- _Sleep_: See the [entry in the SRD](https://cairnrpg.com/cairn-srd/#100-spells)
-- _Phantasmal Force_: See _Vision_ or _Visual Illusion_ [in the SRD](https://cairnrpg.com/cairn-srd/#100-spells)
+- _Sleep_: See the [entry in the SRD](https://cairnrpg.com/cairn-srd/#100-spells).
+- _Phantasmal Force_: See _Vision_ or _Visual Illusion_ [in the SRD](https://cairnrpg.com/cairn-srd/#100-spells).
 
 ### 17. Fairy Kitchen
 #### Frost Elf Cooks
@@ -147,16 +147,16 @@ title: Winter's Daughter
 
 #### Frost Elf Nobles
 11 HP, 1 Armor, 8 STR, 13 DEX, 14 WIL, icicle dagger (d6), A Spellbook (_Sleep_ or _Hold Person_)
-- _Sleep_: See the [Sleep entry in SRD](https://cairnrpg.com/cairn-srd/#100-spells)
+- _Sleep_: See the [Sleep entry in SRD](https://cairnrpg.com/cairn-srd/#100-spells).
 - _Hold Person_: Target is paralyzed until they succeed a WIL save. Undead are _not_ affected.
 
 ### 19. The Princess's Bedchamber
 #### Princess Snowfall-at-Dusk
 16 HP, 1 Armor, 8 STR, 15 DEX, 16 WIL, icicle dagger (d6), Spellbooks (_Charm Person_, _Sleep_, _Hold Person_, _Invisibility_)
 - _Charm Person_: Target sees caster as a friend until they succeed a WIL save.
-- _Sleep_: See the [Sleep entry in SRD](https://cairnrpg.com/cairn-srd/#100-spells)
+- _Sleep_: See the [Sleep entry in SRD](https://cairnrpg.com/cairn-srd/#100-spells).
 - _Hold Person_: Target is paralyzed until they succeed a WIL save. Undead are _not_ affected.
-- _Invisibility_: See the [entry in the SRD](https://cairnrpg.com/cairn-srd/#100-spells)
+- _Invisibility_: See the [entry in the SRD](https://cairnrpg.com/cairn-srd/#100-spells).
 
 ## Magic Items
 
