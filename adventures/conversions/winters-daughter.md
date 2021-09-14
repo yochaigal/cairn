@@ -119,9 +119,14 @@ title: Winter's Daughter
 ## The Fairy Prison
 
 ### Random Events
-- Frost Elf Knights (see [18. Wedding Feast](/adventures/conversions/winters-daughter#18-wedding-feast).
-- Goblin sleigh-rider
-- Winter wolves
+#### Frost Elf Knights
+- See [Frost Elf Knights](/adventures/conversions/winters-daughter/#frost-elf-knights).
+
+#### Goblin Sleigh-rider
+- See [Dolmenwood Goblin](/adventures/conversions/winters-daughter/#dolmenwood-goblin)).
+
+#### Winter wolves
+5 HP, 14 STR, 12 DEX, bite (d8)
 
 ### 15. Tower on a Frozen Lake
 
