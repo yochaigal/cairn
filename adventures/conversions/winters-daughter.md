@@ -129,11 +129,21 @@ title: Winter's Daughter
 5 HP, 14 STR, 12 DEX, bite (d8)
 
 ### 15. Tower on a Frozen Lake
+- Run as written.
 
 ### 16. Entrance Hall
 #### Dolmenwood Troll
+24 HP, 2 Armor, 17 STR, 9 DEX, 12 WIL, moss fists (d10)
+- Moss growth: as written.
+- Regeneration: regains 3hp per round, and even severed limbs are reattached. If killed, will regenerate and fight again in 2d6 minutes.
+- Lore: as written.
 
 #### Dolmenwood Goblin
+4 HP, 1 Armor 8 STR, 11 DEX, 8 WIL, spear (d6), Spellbook (_Charm person_, _Darkness_, _Sleep_, _Phantasmal Force_)
+- _Charm Person_: Target sees caster as a friend until they succeed a WIL save.
+- _Darkness_: _Creates a shroud of magical darkness in a 15' radius._
+- _Sleep_: See the [Sleep entry in SRD](https://cairnrpg.com/cairn-srd/#100-spells)
+- _Phantasmal Force_: See _Vision_ or _Visual Illusion_ [in the SRD](https://cairnrpg.com/cairn-srd/#100-spells)
 
 ### 17. Fairy Kitchen
 #### Frost Elf Cooks
