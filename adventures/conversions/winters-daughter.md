@@ -9,7 +9,7 @@ title: Winter's Daughter
 
 # Winter's Daughter
 
-Converted from the [original work by Gavin Norman](https://necroticgnome.com/products/dolmenwood-winters-daughter). Note that there are [two versions](https://necroticgnome.com/blogs/news/winters-daughter) of this adventure (not including the various 5e/OSE versions). This conversion was written for the original edition.
+Converted from the [original work by Gavin Norman](https://necroticgnome.com/products/dolmenwood-winters-daughter). Note that there are [two versions](https://necroticgnome.com/blogs/news/winters-daughter) of this adventure (not including the various 5e/OSE versions). This conversion was written for the original edition. In general, very little changes are necessary to run the adventure as written.
 
 ## Encounters
 
@@ -39,8 +39,6 @@ Converted from the [original work by Gavin Norman](https://necroticgnome.com/pro
 - DEX save to avoid being heard by the worms.
 
 ## 5.
-- Run as written except for Religious Objects.
-
 ### Religious Objects
 4 HP, 1 Armor, bash (1d4)
 - Can fly.
@@ -51,15 +49,11 @@ Converted from the [original work by Gavin Norman](https://necroticgnome.com/pro
 - Run as written.
 
 ## 7. Freezing Mirror
-- Only minor mirror notes.
-
 ### Full-Length Mirror
 - WIL save to pass in front without becoming paralyzed.
 - See the _[Cure Wounds](/cairn-srd#100-spells)_ Spellbook.
 
 ## 8. Family Crypt
-- See Floating Skeleton stats.
-
 ### Floating Skeletons
 10 HP, 5 WIL, 8 STR, 13 DEX, claws (1d4)
 - Can fly and are unaffected by charms or mind control.
@@ -69,8 +63,6 @@ Converted from the [original work by Gavin Norman](https://necroticgnome.com/pro
 - Run as written.
 
 ## 10. Abandoned Priest's Quarters
-- Wormtongues, flagstone, trapped box lock + contents.
-
 ### 3 Wormtongues
 4 HP, 1 Armor, acid bite (1d4)
 - Critical damage: acid eats at flesh and clothing. Lose 1 STR per round until washed off.
