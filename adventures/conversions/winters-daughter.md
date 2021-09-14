@@ -139,7 +139,7 @@ title: Winter's Daughter
 - Lore: as written.
 
 #### Dolmenwood Goblin
-4 HP, 1 Armor 8 STR, 11 DEX, 8 WIL, spear (d6), Spellbook (_Charm person_, _Darkness_, _Sleep_, _Phantasmal Force_)
+4 HP, 1 Armor 8 STR, 11 DEX, 8 WIL, spear (d6), Spells (once per day: _Charm person_, _Darkness_, _Sleep_, _Phantasmal Force_)
 - _Charm Person_: Target sees caster as a friend until they succeed a WIL save.
 - _Darkness_: _Creates a shroud of magical darkness in a 15' radius._
 - _Sleep_: See the [Sleep entry in SRD](https://cairnrpg.com/cairn-srd/#100-spells)
@@ -147,13 +147,16 @@ title: Winter's Daughter
 
 ### 17. Fairy Kitchen
 #### Frost Elf Cooks
+8 HP, 9 STR, 13 DEX, 12 WIL, knife (d6), rolling pin (d4)
 
 ### 18. Wedding Feast
-#### Frost Elf Knights
-
-#### Frost Elf Guards
+#### Frost Elf Gaurds and Knights
+11 HP, 2 Armor, 8 STR, 13 DEX, 14 WIL, spear or lance (d8)
 
 #### Frost Elf Nobles
+11 HP, 1 Armor, 8 STR, 13 DEX, 14 WIL, icicle dagger (d6), A Spellbook (_Sleep_ or _Hold Person_)
+- _Sleep_: See the [Sleep entry in SRD](https://cairnrpg.com/cairn-srd/#100-spells)
+- _Hold Person_: Target is paralyzed until they succeed a WIL save. Undead are _not_ affected.
 
 ### 19. The Princess's Bedchamber
 #### Princess Snowfall-at-Dusk
