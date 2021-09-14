@@ -16,7 +16,6 @@ title: Winter's Daughter
 
 ## Outside the Mound
 
----
 ### Random Events
 - Gazing at the violet-eyed owl: save WIL to avoid fainting.
 - Gust of wind: DEX save to avoid taking 1 STR damage.
@@ -33,7 +32,7 @@ title: Winter's Daughter
 - _Charm Person_: Target sees caster as a friend until they succeed a WIL save.
 - _Hold Person_: Target is paralyzed until they succeed a WIL save. Undead are _not_ affected.
 - _Magic Missile_: A bolt of arcane green energy that causes d6 damage, ignoring mundane armor.
-- _Topple Dolmen_: A standing stone levitates from the stone circle and topples onto a spot within 30', doing 4d6 _Blast_ damage on a failed DEX save (the stones move quite slowly).
+- _Topple Dolmen_: One of the dolmens begins to glow eerily, then levitates from the circle and topples onto a spot within 30', doing 4d6 _Blast_ damage on a failed DEX save (the stones move quite slowly).
 - On death their bodies turn to ash, leaving only a cloak and staff which reek of arcane energies.
 - 1d4 Spellbooks can be recovered from the ashes of _one_ of their corpses.
 - Touching the staff for the first time causes 1d4 WIL damage. Survivors have power over the staff, which allows the bearer to hear the thoughts of others.
