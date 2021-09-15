@@ -7,7 +7,7 @@ nav_order: 7
 
 From [Modular Rules & Procedures for Cairn](https://adamhensley.itch.io/modular-rules-and-procedures-for-cairn), used with permission.
 
-# Modular Rules & Procedures for [Cairn](/cairn-srd)
+# Modular Rules & Procedures
 
 ---
 
