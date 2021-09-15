@@ -173,7 +173,7 @@ Roll 1d6 + 1 for every 200gp you carouse with. More decadent binges come with th
 
 **Credits & Inspiration:**
 
-* "Dungeon Procedures" by Skerples *(Many Rats on Sticks)*
+* "Dungeon Procedures" by Skerples *([Many Rats on Sticks](https://coinsandscrolls.blogspot.com/2019/10/osr-glog-based-homebrew-v2-many-rats-on.html))*
 * [Necropraxis](https://www.necropraxis.com/2014/02/03/overloading-the-encounter-die)
 * [Failure Tolerated](https://www.failuretolerated.com/what-do-the-monsters-want)
 * [The Luminescent Lich](https://luminescentlich.blogspot.com/2021/06/experience-points-for-different-modes.html)
