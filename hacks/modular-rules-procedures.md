@@ -54,11 +54,13 @@ Lanterns, glow-torches, and other radial sources of light illuminate 40’ clear
 
 ### Reactions
 When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll **2d6** and consult the following table:
+
 |    2    | 3-5  |   6-8   |   9-11   |   12    |
 | :-----: | :--: | :-----: | :------: | :-----: |
 | Hostile | Wary | Curious | Friendly | Helpful |
 
 ### What Do They Want?
+
 | d10  | Want            | Description                                                  |
 | :--: | :-------------- | :----------------------------------------------------------- |
 |  1   | **Food or Aid** | They’re hungry. You can distract them with rations, point them towards corpses, cast a food illusion. They could be hurt and need healing. |
@@ -71,7 +73,6 @@ When the PCs encounter an NPC whose reaction to the party is not obvious, the Wa
 |  8   | **Trade**       | They have a random item from each category on the equipment list (one piece of armor, one weapon, one piece of equipment, etc.) and they’re willing to trade those items or save them. All trades made inside the dungeon are at a higher markup that you’ll find in town. |
 |  9   | **Mission**     | They’re in service to the closest NPC in the dungeon (or GM choice) and whatever that NPC wants, this monster is on a mission to help achieve that aim. |
 |  10  | **Direction**   | They’re lost and are looking for directions out, or for someone to escort them to a safe area. |
-
 
 ---
 
