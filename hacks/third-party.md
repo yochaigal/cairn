@@ -14,3 +14,4 @@ nav_order: 10
 - [Brighter Worlds](https://awkwardturtle.itch.io/brighter-worlds)
 - [From the Mud](https://cueinn.itch.io/fromthemud)
 - [Almaia](https://1d6gnolls.itch.io/almaia)
+- [Modular Rules & Procedures for Cairn](https://adamhensley.itch.io/modular-rules-and-procedures-for-cairn) (also viewable on this [site](/hacks/modular-rules-procedures))
