@@ -5,7 +5,7 @@ parent: Hacks
 nav_order: 7
 ---
 
-From [Modular Rules & Procedures for Cairn](https://adamhensley.itch.io/modular-rules-and-procedures-for-cairn), used with permission.
+From [Modular Rules & Procedures for Cairn](https://adamhensley.itch.io/modular-rules-and-procedures-for-cairn), used with permission. This content is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 # Modular Rules & Procedures
 
@@ -18,7 +18,6 @@ From [Modular Rules & Procedures for Cairn](https://adamhensley.itch.io/modular-
 
 _**Note**: L is used in reference to player level. Example: A level 2 player would see Ld6 and roll 2d6._
 
-This content is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ---
 ## Dungeon Exploration
