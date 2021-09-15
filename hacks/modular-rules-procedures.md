@@ -11,7 +11,10 @@ From [Modular Rules & Procedures for Cairn](https://adamhensley.itch.io/modular-
 
 ---
 
-This document lists some optional, modularly-designed rules & procedures for Cairn (and should be adaptable to most other OSR-adjacent games with minimal tinkering). Each system is listed in [brackets]. They're designed to be plug-n-play, so just grab what you like and discard the rest. They are also not critical to the structure of the game and can be discarded or ignored at certain points in your game.
+- This document lists some optional, modularly-designed rules & procedures for Cairn.
+- Each system is listed in [brackets].
+- They're designed to be plug-n-play, so just grab what you like and discard the rest.
+- They are also not critical to the structure of the game and can be discarded or ignored at certain points in your game.
 
 _**Note**: L is used in reference to player level. Example: A level 2 player would see Ld6 and roll 2d6._
 
