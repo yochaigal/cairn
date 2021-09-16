@@ -7,7 +7,7 @@ nav_order: 7
 
 From [Modular Rules & Procedures for Cairn](https://adamhensley.itch.io/modular-rules-and-procedures-for-cairn), used with permission. This content is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
-# Modular Rules & Procedures
+# Modular Rules & Procedures for Cairn
 
 ---
 
@@ -19,16 +19,49 @@ From [Modular Rules & Procedures for Cairn](https://adamhensley.itch.io/modular-
 
 _**Note**: L is used in reference to player level. Example: A level 2 player would see Ld6 and roll 2d6._
 
+---
+## Dungeon Exploration
+
+### Turns
+
+A dungeon turn is **10 minutes**. Dungeon exploration can be turned into a subsystem of managing resources, making strategic decisions, and structuring the dungeon crawl into a sort of mini-game. There is an element of pushing your luck as you spend more time searching, checking for hidden things, and lingering in dangerous locations. Time spent always has a cost, and that cost is provoking an encounter roll. These encounters can involve running into monsters, but can also challenge or reward the party in other ways.
+
+### Sequence of Player Per Turn
+
+1. **Encounter roll:** GM makes a d6 encounter roll once every few rounds, or at their discretion.
+2. **Actions:**  The party decides what action to take. *(e.g. moving, searching, listening, entering or exiting rooms)*.
+3. **Description:** GM describes & resolves what happens. If encounters were rolled, they happen here. If (1) was rolled on the encounter die, make a reaction roll and proceed from there.
+4. **End of turn:** GM updates time, and management of light, food, need to rest, or any sort of usage dice rolls can be made.
+
+### Dungeon Turn Movement
+* Players can move carefully about 200 ft. in a 10 minute turn. Players moving careful spot signs of all traps. Traps should be designed to be disarmed or subverted with ingenuity and creative thinking using common sense and items, not skills and rolls.
+* Players can quickly  move 600 ft. in a 10-minute turn. Players moving quickly may get a chance to roll under WIL to notice a trap (GM discretion). Otherwise, they may trigger a trap (usually 1-2 on a d6, adjust as necessary for trap deadliness)
+
+### Searching
+* A quick search takes 1 minute, covers roughly a 30x30’ space, and reveals only the most obvious information.
+* A detailed search takes 10 minutes (1 round), covers roughly a 30x30’ space, and reveals most hidden information, at the GM’s discretion.
+* You can replace 30x30 with small, medium, and large rooms, and require additional turns to complete a detailed search.
+
+### Loaded Encounter Roll
+Roll a d6 encounter dice every 2 or 3 rounds (at your discretion, adjust as needed). Only a roll of 1 will result in an encounter, and they won’t always be hostile. Roll the reaction dice to see their disposition, and remember that they’re already doing something.
+1. **Encounter** (roll on encounter table or choose, roll reactions + wants)
+2. **Sign** (Clue, “spoor”,  track, abandoned lair, scent, victim, droppings, etc.)
+3. **Locality** (context-dependent timer, water rising, ritual completing, The party's surroundings shift or escalate in some way.)
+4. **Exhaustion** (rest next round or deprived)
+5. **Expiration** (Ongoing effects end, light usage roll, resource usage, bellies rumble.)
+6. **Discovery or Treasure** (The party finds something interesting and possibly beneficial.)
+
+### Light
+Torches, lanterns, and other radial sources of light illuminate 40’ clearly and provide dim outlines and shadows for a further 40’. In the dark, light sources are visible miles away. Standard torches will last about 6 turns, or 1 hour, before they burn out. If *expiration* is rolled on the encounter die, consider prematurely snuffing out a torch or rolling a usage die.
+
+### Reactions
 When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll **2d6** and consult the following table:
 
-|         |      |         |          |         |
 |    2    | 3-5  |   6-8   |   9-11   |   12    |
 | :-----: | :--: | :-----: | :------: | :-----: |
 | Hostile | Wary | Curious | Friendly | Helpful |
 
 ### What Do They Want?
-
-|      |                 |                                                              |
 | d10  | Want            | Description                                                  |
 | :--: | :-------------- | :----------------------------------------------------------- |
 |  1   | **Food or Aid** | They’re hungry. You can distract them with rations, point them towards corpses, cast a food illusion. They could be hurt and need healing. |
@@ -111,7 +144,6 @@ You can spend your hard-earned gold on experiences rather than on things. Carous
 
 Declare the amount of gold you're spending and roll 2d6 to see how your evening went.
 
-|      |                                                              |
 | 2d6  | Result                                                       |
 | ---- | ------------------------------------------------------------ |
 | 2-5  | Experience is gained. However, you've all made fools of yourself in some manner. Roll on the carousing mishaps table. |
@@ -122,7 +154,6 @@ Declare the amount of gold you're spending and roll 2d6 to see how your evening 
 
 Roll 1d6 + 1 for every 200gp you carouse with. More decadent binges come with the potential of more volatile or legendary events.
 
-|      |                                                              |
 | d10  | Mishap                                                       | Fortune                                                      |
 | :--: | :----------------------------------------------------------- | :----------------------------------------------------------- |
 |  1   | **Start a brawl.** You all are involved in a brawl that gets out of control. Start the next adventure with a black eye and -1 STR per level. The local tavern keeper is no longer quite as amicable. | **Jackpot!** One of you strikes it rich at the gambling tables! Gain level x 100 gold. |
