@@ -8,7 +8,8 @@ nav_order: 2
 
 # Modular Rules & Procedures for Cairn
 
-From [Modular Rules & Procedures for Cairn](https://adamhensley.itch.io/modular-rules-and-procedures-for-cairn), used with permission. This content is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+From [Modular Rules & Procedures for Cairn](https://adamhensley.itch.io/modular-rules-and-procedures-for-cairn) by Adam Hensley, used with permission.  
+This content is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ---
 
