@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Foundry VTT Sytem
+title: Foundry VTT System
 parent: Resources
 nav_order: 8
 ---
