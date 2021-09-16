@@ -56,13 +56,15 @@ Torches, lanterns, and other radial sources of light illuminate 40’ clearly an
 ### Reactions
 When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll **2d6** and consult the following table:
 
-|    2    | 3-5  |   6-8   |   9-11   |   12    |
+| | | | | |
 | :-----: | :--: | :-----: | :------: | :-----: |
+|    2    | 3-5  |   6-8   |   9-11   |   12    |
 | Hostile | Wary | Curious | Friendly | Helpful |
 
 ### What Do They Want?
-| d10  | Want            | Description                                                  |
-| :--: | :-------------- | :----------------------------------------------------------- |
+| | | 
+| :-----: | :--: | :-----: |
+| d10  | Want   | Description    |
 |  1   | **Food or Aid** | They’re hungry. You can distract them with rations, point them towards corpses, cast a food illusion. They could be hurt and need healing. |
 |  2   | **Gold**        | They want d100 gold x the players’ level. This could be a tax, a toll, tribute, tith, or they could just be greedy bastards, or easily distracted by shiny baubles. |
 |  3   | **Treasure**    | They want a number of items equal to the players’ level. Scrolls and potions count here as well. Excellent pairings can result in their friendship as allies. |
