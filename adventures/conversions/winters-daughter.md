@@ -110,7 +110,7 @@ title: Winter's Daughter
 
 ### Random Events
 #### Frost Elf Knights
-- See [Frost Elf Knights](/adventures/conversions/winters-daughter/#frost-elf-knights).
+- See [Frost Elf Knights](adventures/conversions/winters-daughter/#frost-elf-guards-and-knights).
 
 #### Goblin Sleigh-rider
 - See [Dolmenwood Goblin](/adventures/conversions/winters-daughter/#dolmenwood-goblin).
@@ -140,7 +140,7 @@ title: Winter's Daughter
 8 HP, 9 STR, 13 DEX, 12 WIL, knife (d6), rolling pin (d4)
 
 ### 18. Wedding Feast
-#### Frost Elf Gaurds and Knights
+#### Frost Elf Guards and Knights
 11 HP, 2 Armor, 8 STR, 13 DEX, 14 WIL, spear or lance (d8)
 
 #### Frost Elf Nobles
