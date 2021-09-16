@@ -15,7 +15,6 @@ From [Modular Rules & Procedures for Cairn](https://adamhensley.itch.io/modular-
 - These rules are designed to be plug-n-play, so just grab what you like and discard the rest.
 - These rules are not critical to the structure of the game and can be discarded or ignored at certain points in your game.
 - This content is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-- Content compiled & edited by [Adam Hensley](https://adamhensley.itch.io/)
 
 _**Note**: L is used in reference to player level. Example: A level 2 player would see Ld6 and roll 2d6._
 
