@@ -17,14 +17,10 @@ Adapted with permission.
 - If it deals you critical damage, it tears off a limb.
 - If it takes critical damage or drops to 0 STR, its host transforms back, and attackers have 1 round to finish the job with a silver weapon before it jumps to the next host.
 
-### Patty 
-Rogue agent, a bigfoot in a long coat, carrying a pistol.
+### Vinteralf Warrior
+5 HP, 1 Armor, 14 STR, 9 DEX, 8 WIL, axe or spear (d8)
+- Highly resistant to cold.
 
-### Prashant
-Rogue agent, can erase a few minutes of memory by touching the head of someone who isn't resisting; carrying a Babel phrasebook.
-
-### Merriweather
-Rogue agent, gets visions; carrying a paste that can be spread on someone to block divination and supernatural detection. 
-
-### Schubert
-Rogue agent, a goat-man and former hermit with a ring of invisibility that must be held in the mouth to be used. Senses a kindred soul in the hermit appointed guardian of this area.
+### Vinteralf Confessor
+3 HP, 11 STR, 8 DEX, 13 WIL, staff (d6)
+- Junior star-seers able to see three heartbeats into the future.
