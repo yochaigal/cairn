@@ -25,6 +25,33 @@ Original system-neutral [adventure](http://blog.trilemma.com/2014/07/the-circle-
 - Junior star-seers able to see three heartbeats into the future.
 - Cannot be surprised: always goes before PCs on the first round.
 
+## Vinteralf Star-priests
+### Bregna
+
+- Bears a two-handed vorpal blade and star metal plated chain.
+
+### Zau
+
+- Wields dual maces of paralysis and is clad in white, hydra-skin armor.
+
+### Syareen
+
+- The translator, fights with a scarab of extortion: a star metal, animate wasp.
+
+### Piobaan
+
+- The scout and pathfinder, wears a cloak of invisibility and wields a sling staff with silver bullets.
+
+### Nurmin
+
+- A confessor-acolyte, is starblind but sees three heartbeats into the future. She fights unarmed, but alarmingly well.
+
+### Hyngran of the Leádstæf (wolf form)
+12 HP, 15 STR, 16 DEX, 6 WIL, claws or bite (d8+d8)
+- Critical damage: target bears the _wolf mark_ and is seriously injured/out of combat.
+- If _Hyngran_ is defeated in wolf form the spirit is expelled; the victim awakens with their injuries.
+- A killing blow with a silver weapon _or_ immersion in lava will destroy the spirit forever, as well as its victim.
+
 ### The Leádstæf  
 
 ### Brégnes
@@ -47,31 +74,5 @@ Original system-neutral [adventure](http://blog.trilemma.com/2014/07/the-circle-
 
 - The spirit of sorrow brought on by malice (three-headed polar bear)
 
-### Hyngran of the Leádstæf (wolf form)
-12 HP, 15 STR, 16 DEX, 6 WIL, claws or bite (d8+d8)
-- Critical damage: target bears the _wolf mark_ and is seriously injured/out of combat.
-- If _Hyngran_ is defeated in wolf form the spirit is expelled; the victim awakens with their injuries.
-- A killing blow with a silver weapon _or_ immersion in lava will destroy the spirit forever, as well as its victim.
-
 
 ### Wyrtung the Mad
--
-
-## Villagers
-### Bregna
-
-- bears a two-handed vorpal blade and star metal plated chain.
-
-### Zau
-
-- wields dual maces of paralysis and is clad in white, hydra-skin armor.
-
-### Syareen
-- the translator, fights with a scarab of extortion: a star metal, animate wasp.
-
-### Piobaan
-- the scout and pathfinder, wears a cloak of invisibility and wields a sling staff with silver bullets.
-
-### Nurmin
-
-- A confessor-acolyte, is starblind but sees three heartbeats into the future. She fights unarmed, but alarmingly well.
