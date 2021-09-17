@@ -22,5 +22,6 @@ Adapted with permission.
 - Highly resistant to cold.
 
 ### Vinteralf Confessor
-3 HP, 11 STR, 8 DEX, 13 WIL, staff (d6)
+3 HP, 11 STR, 8 DEX, 13 WIL, staff (d6+d6)
 - Junior star-seers able to see three heartbeats into the future.
+- Cannot be surprised: always goes before PCs on the first round.
