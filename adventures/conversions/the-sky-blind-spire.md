@@ -1,9 +1,8 @@
 ---
 layout: default
-parent: Trilemma
-grand_parent: Conversions
-great_grand_parent: Adventures
-nav_order: 1
+parent: Conversions
+grand_parent: Adventures
+nav_order: 21
 title: The Sky-Blind Spire
 ---
 

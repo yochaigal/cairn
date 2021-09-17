@@ -1,11 +1,9 @@
 ---
 layout: default
 title: Circle of Wolves
-nav_order: 3
-parent: Trilemma
-grand_parent: Conversions
-great_grand_parent: Adventures
-great_grandparent: Trilemma
+nav_order: 22
+parent: conversions
+grand_parent: adventures
 ---
 
 # Circle of Wolves

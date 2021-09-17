@@ -1,11 +1,9 @@
 ---
 layout: default
 title: The Coming of Sorg
-nav_order: 2
-parent: Trilemma
-grand_parent: Conversions
-great_grand_parent: Adventures
-great_grandparent: Trilemma
+nav_order: 20
+parent: conversions
+grand_parent: adventures
 ---
 
 # The Coming of Sorg
