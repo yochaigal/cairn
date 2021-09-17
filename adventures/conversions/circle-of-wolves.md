@@ -12,6 +12,7 @@ Original system-neutral [adventure](http://blog.trilemma.com/2014/07/the-circle-
 
 ### Wyrtung the Mad
 3 HP, 15 WIL, fists (d4)
+- Bears the wolf mark.
 
 ### Vinteralf Warrior
 5 HP, 1 Armor, 14 STR, 9 DEX, 8 WIL, axe or spear (d8)
@@ -36,12 +37,13 @@ Original system-neutral [adventure](http://blog.trilemma.com/2014/07/the-circle-
 - Scarab can transform into a living metal creature once (causes fatigue)
 
 ### Piobaan
-3 HP, 11 STR, 8 DEX, 13 WIL, staff (d6+d6)
-- The scout and pathfinder, wears a cloak of invisibility and wields a sling staff with silver bullets.
+8 HP, 10 STR, 15 DEX, 9 WIL, sling staff (d6+d6, silver bullets)
+- Wears a cloak of invisibility.
 
 ### Nurmin
-3 HP, 11 STR, 8 DEX, 13 WIL, staff (d6+d6)
-- A confessor-acolyte, is starblind but sees three heartbeats into the future. She fights unarmed, but alarmingly well.
+4 HP, 11 STR, 8 DEX, 13 WIL, trained fists (d6)
+- A confessor-acolyte, is starblind but sees three heartbeats into the future.
+- She fights unarmed, but alarmingly well.
 
 ### Hyngran of the Leádstæf (wolf form)
 12 HP, 15 STR, 16 DEX, 6 WIL, claws or bite (d8+d8)
