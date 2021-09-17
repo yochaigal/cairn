@@ -10,11 +10,8 @@ grand_parent: Adventures
 
 Original system-neutral [adventure](http://blog.trilemma.com/2014/07/the-circle-of-wolves.html) by Michael Prescott. Adapted with permission from the original conversion by [Jason Tocci](https://jasontocci.itch.io/agents-of-the-odd/devlog/180126/adapting-scenarios-for-agents-of-the-odd).  
 
-### Wolf spirit
-12 STR, 12 DEX, 12 WIL, 6 HP, d8 bite
-- If it deals you STR damage, it gives you a wolf mark that allows it to possess you.
-- If it deals you critical damage, it tears off a limb.
-- If it takes critical damage or drops to 0 STR, its host transforms back, and attackers have 1 round to finish the job with a silver weapon before it jumps to the next host.
+### Wyrtung the Mad
+3 HP, 15 WIL, fists (d4)
 
 ### Vinteralf Warrior
 5 HP, 1 Armor, 14 STR, 9 DEX, 8 WIL, axe or spear (d8)
@@ -74,5 +71,12 @@ Original system-neutral [adventure](http://blog.trilemma.com/2014/07/the-circle-
 
 - The spirit of sorrow brought on by malice (three-headed polar bear)
 
+## Treasure
+### Blazing Fissure
+- Scale mail (3 Armor)
+- Silver buckle (50gp)
+- Star metal bastard sword (d8, two-handed: d10, bulky).
 
-### Wyrtung the Mad
+### Hermit's Cave
+- Vinteralf dagger of star metal (d6 ignores non-metal armor)
+-
