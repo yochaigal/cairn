@@ -8,10 +8,9 @@ great_grand_parent: Adventures
 great_grandparent: Trilemma
 ---
 
-[The Coming of Sorg](http://blog.trilemma.com/2014/06/the-coming-of-sorg.html)
-------------------------------------------------------------------------------
+# The Coming of Sorg
 
-Original system-neutral adventure by Michael Prescott.
+Original system-neutral [adventure](http://blog.trilemma.com/2014/06/the-coming-of-sorg.html) by Michael Prescott. Original conversion by [Jason Tocci](https://jasontocci.itch.io/agents-of-the-odd/devlog/180126/adapting-scenarios-for-agents-of-the-odd). Adapted with permission.
 
 -   **Myen the Butcher:** 6 HP, d6 cleaver. Crew of 15 heretics is untrained, *impairing* most of their attacks.
 -   **Defiled Flow emanation:** Giant, climbing fish, 1 armor, 10 HP, d8 bite does an extra die of poison damage if it damages STR. On crit damage, it swallows you whole.

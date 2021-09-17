@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Conversions
+title: Trilemma
 nav_order: 100
 parent: Conversions
 grand_parent: Adventures
