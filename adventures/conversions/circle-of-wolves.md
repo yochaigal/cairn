@@ -8,7 +8,7 @@ grand_parent: Adventures
 
 # Circle of Wolves
 
-Original system-neutral [adventure](http://blog.trilemma.com/2014/07/the-circle-of-wolves.html) by Michael Prescott. Adapted with permission from the original conversion by [Jason Tocci](https://jasontocci.itch.io/agents-of-the-odd/devlog/180126/adapting-scenarios-for-agents-of-the-odd).  
+Original system-neutral [adventure](http://blog.trilemma.com/2014/07/the-circle-of-wolves.html) by Michael Prescott. Updated version [available](https://www.drivethrurpg.com/product/286792/Trilemma-Adventures-Compendium-Volume-I).   
 
 ### Wyrtung the Mad
 3 HP, 15 WIL, fists (d4)
@@ -22,25 +22,25 @@ Original system-neutral [adventure](http://blog.trilemma.com/2014/07/the-circle-
 - Junior star-seers able to see three heartbeats into the future.
 - Cannot be surprised: always goes before PCs on the first round.
 
-## Vinteralf Star-priests
+## Vinteralf Star-Priests
 ### Bregna
-
-- Bears a two-handed vorpal blade and star metal plated chain.
+9 HP, 2 Armor, 12 STR, 14 DEX, 11 WIL, vorpal blade (d8)
+- Wears star-metal armor.
 
 ### Zau
-
-- Wields dual maces of paralysis and is clad in white, hydra-skin armor.
+6 HP, 2 Armor, 14 STR, 9 DEX, 13 WIL, dual maces (d8+d8)
+- Wears hydra-skin armor.
 
 ### Syareen
-
-- The translator, fights with a scarab of extortion: a star metal, animate wasp.
+5 HP, 11 STR, 12 DEX, 12 WIL, scarab of extortion (d8, star metal)
+- Scarab can transform into a living metal creature once (causes fatigue)
 
 ### Piobaan
-
+3 HP, 11 STR, 8 DEX, 13 WIL, staff (d6+d6)
 - The scout and pathfinder, wears a cloak of invisibility and wields a sling staff with silver bullets.
 
 ### Nurmin
-
+3 HP, 11 STR, 8 DEX, 13 WIL, staff (d6+d6)
 - A confessor-acolyte, is starblind but sees three heartbeats into the future. She fights unarmed, but alarmingly well.
 
 ### Hyngran of the Leádstæf (wolf form)
