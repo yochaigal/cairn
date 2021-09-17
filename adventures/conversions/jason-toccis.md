@@ -8,19 +8,6 @@ grand_parent: Adventures
 
 # [Jason Tocci's conversions for Into The Odd (minor setting changes needed)](https://jasontocci.itch.io/agents-of-the-odd/devlog/180126/adapting-scenarios-for-agents-of-the-odd)
 
-[The Coming of Sorg](http://blog.trilemma.com/2014/06/the-coming-of-sorg.html)
-------------------------------------------------------------------------------
-
-Original system-neutral adventure by Michael Prescott. I replaced Sorg with *Beelzebub*(often referred to as the demon of gluttony) and Deel with *Baalat* (a common feminine derivation of the deity Baal's name). The PCs were sent in response to reports of strange creatures surrounding an ancient ruin in Syria (which does feature a temple to Bel, a.k.a. Baal, though you could arguably place this in Lebanon, Israel, or Jordan, as other places where Baal or variants would have been worshiped). Creatures included:
-
--   **Myen the Butcher:** 6 HP, d6 cleaver. Crew of 15 heretics is untrained, *impairing* most of their attacks.
--   **Defiled Flow emanation:** Giant, climbing fish, 1 armor, 10 HP, d8 bite does an extra die of poison damage if it damages STR. On crit damage, it swallows you whole.
--   **High Temple emanation:** Rhino-sized larva, slow, 15 STR, 1 armor, 6 HP, d6 *blast* bile spray, protected by 11 acolytes (devoted, but weaponless and deprived---0 HP, attacks *impaired*).
--   **Toothy intestine emanation:** d6 squeeze, swallow on critical damage.
--   **Air leech swarm emanation:** Non-*blast* attacks against them are *impaired* until they latch onto you.
--   **Copulating gargoyles emanation:** d6 claws, 1 armor.
--   **Acidic jelly emanation:** d6/round enveloping, must be washed off.
-
 [Circle of Wolves](http://blog.trilemma.com/2014/07/the-circle-of-wolves.html)
 ------------------------------------------------------------------------------
 
