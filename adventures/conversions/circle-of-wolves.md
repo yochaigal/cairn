@@ -8,8 +8,7 @@ grand_parent: Adventures
 
 # Circle of Wolves
 
-Original system-neutral [adventure](http://blog.trilemma.com/2014/07/the-circle-of-wolves.html) by Michael Prescott. Original conversion by [Jason Tocci](https://jasontocci.itch.io/agents-of-the-odd/devlog/180126/adapting-scenarios-for-agents-of-the-odd).  
-Adapted with permission.
+Original system-neutral [adventure](http://blog.trilemma.com/2014/07/the-circle-of-wolves.html) by Michael Prescott. Adapted with permission from the original conversion by [Jason Tocci](https://jasontocci.itch.io/agents-of-the-odd/devlog/180126/adapting-scenarios-for-agents-of-the-odd).  
 
 ### Wolf spirit
 12 STR, 12 DEX, 12 WIL, 6 HP, d8 bite
@@ -26,15 +25,39 @@ Adapted with permission.
 - Junior star-seers able to see three heartbeats into the future.
 - Cannot be surprised: always goes before PCs on the first round.
 
+### The Leádstæf  
+
+### Brégnes
+
+-The spirit of terror (wolf)
+
+### Angnes
+
+- The spirit of fear (wolf)
+
+### Cwealm
+
+- The spirit of pain and torment (arctic fox, the flesh flayed from its skull)
+
+### Egesa
+
+- The spirit of dread and horror (white-furred bat, horse sized)
+
+### Inwitsorh
+
+- The spirit of sorrow brought on by malice (three-headed polar bear)
+
 ### Hyngran of the Leádstæf (wolf form)
 12 HP, 15 STR, 16 DEX, 6 WIL, claws or bite (d8+d8)
 - Critical damage: target bears the _wolf mark_ and is seriously injured/out of combat.
 - If _Hyngran_ is defeated in wolf form the spirit is expelled; the victim awakens with their injuries.
 - A killing blow with a silver weapon _or_ immersion in lava will destroy the spirit forever, as well as its victim.
 
+
 ### Wyrtung the Mad
 -
 
+## Villagers
 ### Bregna
 
 - bears a two-handed vorpal blade and star metal plated chain.
@@ -49,6 +72,6 @@ Adapted with permission.
 ### Piobaan
 - the scout and pathfinder, wears a cloak of invisibility and wields a sling staff with silver bullets.
 
-### Nurmin 
+### Nurmin
 
-- their confessor-acolyte, is starblind but sees three heartbeats into the future. She fights unarmed, but alarmingly well.
+- A confessor-acolyte, is starblind but sees three heartbeats into the future. She fights unarmed, but alarmingly well.

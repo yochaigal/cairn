@@ -18,7 +18,6 @@ Adapted with permission.
 - Crew of 15 heretics is untrained, *impairing* most of their attacks.
 
 ### Cultists
-# Acolyte  
 4 HP, 1 Armor, 14 WIL, mace (d6), Holy Symbol (_Ward_ once per day)  
 - Holy men & women in a quest for their deity.  
 - Normally travel in groups of 4+.  
@@ -36,7 +35,7 @@ Adapted with permission.
 - Protected by 11 acolytes (devoted, but weaponless and deprived---0 HP, attacks *impaired*).
 
 ### Toothy intestine emanation 
-- squeeze (d6), swallow on critical damage.
+- Squeeze (d6), swallow on critical damage.
 
 ### Air leech Swarm Emanation 
 - Non-*blast* attacks against them are *impaired* until they latch onto you.
