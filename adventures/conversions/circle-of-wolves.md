@@ -34,7 +34,7 @@ Original system-neutral [adventure](http://blog.trilemma.com/2014/07/the-circle-
 
 ### Syareen
 5 HP, 11 STR, 12 DEX, 12 WIL, scarab of extortion (d8, star metal)
-- Scarab can transform into a living metal creature once (causes fatigue)
+- Scarab can transform into a living metal creature once (causes fatigue).
 
 ### Piobaan
 8 HP, 10 STR, 15 DEX, 9 WIL, sling staff (d6+d6, silver bullets)
