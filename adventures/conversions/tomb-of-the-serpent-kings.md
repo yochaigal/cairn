@@ -57,7 +57,7 @@ Based on the original [conversion notes](https://docs.google.com/document/d/16d1
 - Always too many
 - If over 10 in a room, they act as a detachment with equivalent HP to their number.
 - Will crown a player Goblin King
-- Can speak few Common words (me, want, ow [equivalent of 'bad'], oooh [equivalent of 'valuable'], "disgusting" [They learned this from Xiximanter, and always all giggle profusely when hearing it])
+- Can speak few Common words: 'me', 'want', 'ow' (equivalent of 'bad'), 'oooh' (equivalent of 'valuable'), disgusting' (they learned this from Xiximanter, and always all giggle profusely when hearing it)
 
 ####  Xiximanter
 16 HP, 2 Armor, 8 STR, 15 DEX, 16 WIL, fangs (1d6)
