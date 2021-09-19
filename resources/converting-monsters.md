@@ -21,7 +21,7 @@ Review the instructions in the [SRD](https://cairnrpg.com/cairn-srd/#creating-mo
 - Attacks are usually the easiest coming from B / X (you can usually copy them as-is).Try looking at how much serious damage the creature can do!
 - Remember that instead of raising attack damage a step, think about making it _enhanced_ in certain situations or use the "dual-wielding" rule (e.g. d6+d6 is roll 2d6, keep highest).
 - Spells are tricky; you can give wizardy-types Spellbooks but remember, the creature might _drop_ them when they are defeated. I like to make 1d4 dropped Spellbooks implode (Luck roll).
-- Magical creatures can just "know" a bunch of spells. In this case, make their loot (or body) magically valuable (and dangerous).
+- Magical creatures can just "know" a bunch of spells. In this case make their corpse magical (and dangerous).
 
 ## Use The Fiction
 Read the original stat block and surrounding commentary, then write a few sentences about the creature. Then convert what you've written to the Cairn monster stat block.
