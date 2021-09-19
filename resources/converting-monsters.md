@@ -18,7 +18,7 @@ Review the instructions in the [SRD](https://cairnrpg.com/cairn-srd/#creating-mo
 - **Hit Protection** is _not_ health. It's ability to avoid danger, whether through toughness, speed, or skill.
 - **Strength** is both health and physical power. Sometimes HP/HD from other systems is better represented in **STR** than in **Hit Protection**.
 - **Willpower** is tricky. It rarely comes up but when it does, it's nice to have. High **WIL** is strong personality, spirit or presence.
-- Attacks are usually the easiest coming from B / X (you can usually copy them as-is).Try looking at how much serious damage the creature can do!
+- Attacks are usually the easiest coming from B / X (you can usually copy them as-is). Try looking at how much serious damage the creature can do!
 - Remember that instead of raising attack damage a step, think about making it _enhanced_ in certain situations or use the "dual-wielding" rule (e.g. d6+d6 is roll 2d6, keep highest).
 - Spells are tricky; you can give wizardy-types Spellbooks but remember, the creature might _drop_ them when they are defeated. I like to make 1d4 dropped Spellbooks implode (Luck roll).
 - Magical creatures can just "know" a bunch of spells. In this case make their corpse magical (and dangerous).
