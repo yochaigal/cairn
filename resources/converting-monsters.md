@@ -13,11 +13,11 @@ Here are some tips that might help with the process.
 ## The Basics
 Review the instructions in the [SRD](https://cairnrpg.com/cairn-srd/#creating-monsters). A couple of things to keep in mind:
 - OSE (or B / X) has really great stat blocks to start with. Just ignore THAC0.
-- STR is both health and physical power. Sometimes HP/HD from other systems is better represented _here_.
-- Hit Protection is _not_ health. It's ability to avoid danger, whether through toughness, speed, or skill.
 - OSR style HD = HP is a good guide, assuming that HD = d6 (averaged) and the minimum is 4 HP (Cairn).
 - Sometimes a direct stat to stat translation isn't an option. That's OK! There is a way.
-- WIL is tricky. It's 10 if not noted otherwise; it rarely comes up but when it does, it's nice to have.
+- **Hit Protection** is _not_ health. It's ability to avoid danger, whether through toughness, speed, or skill.
+- **Strength** is both health and physical power. Sometimes HP/HD from other systems is better represented in **STR** than in **Hit Protection**.
+- **Willpower** is tricky. It rarely comes up but when it does, it's nice to have. High **WIL** is strong personality, spirit or presence.
 - Attacks are usually the easiest coming from B / X (you can usually copy them as-is).Try looking at how much serious damage the creature can do!
 - Remember that instead of raising attack damage a step, think about making it _enhanced_ in certain situations or use the "dual-wielding" rule (e.g. d6+d6 is roll 2d6, keep highest).
 - Spells are tricky; you can give wizardy-types Spellbooks but remember, the creature might _drop_ them when they are defeated. I like to make 1d4 dropped Spellbooks implode (Luck roll).
