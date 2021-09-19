@@ -16,7 +16,7 @@ Review the instructions in the [SRD](https://cairnrpg.com/cairn-srd/#creating-mo
 - HD = HP is a good guide, assuming that HD = d6 (averaged) and the minimum is 4 HP (Cairn).
 - Sometimes a direct stat to stat translation isn't an option. That's OK! There is a way.
 - WIL is tricky. It's 10 if not noted otherwise; it rarely comes up but when it does, it's nice to have.
-- Attacks are usually the easiest coming from B / X (you can usually copy them as-is). It can be tricky with non-weapons as well. Try looking at how much serious damage the creature can do! 
+- Attacks are usually the easiest coming from B / X (you can usually copy them as-is). It can be tricky with non-weapons as well. Try looking at how much serious damage the creature can do!
 
 ### Use The Fiction
 Read the original stat block and surrounding commentary, then write a few sentences about the creature. Then convert what you've written to the Cairn monster stat block.
@@ -24,8 +24,7 @@ Read the original stat block and surrounding commentary, then write a few senten
 ### An Example
 Take for example this OSR creature:
 
-####
-**Foxwoman**
+#### Foxwoman
 Can take the form of a fox, a woman, or a 7' tall fox-headed.  
 HD d8 HP HDx4 Speed 120' Armor 14 Morale 11 Attack: +4 d8hp (claw, bite or choke)
 - Defense: Cannot be harmed by metal
@@ -38,20 +37,35 @@ _Using the example above, I can see that it:_
 - Agile and lithe.
 - Attacks with teeth and claws (choking her prey if possible).
 
-_Which tells me:_
+#### This tells me:
 - She's fast, and probably savvy in a fight. She probably has higher than average Hit Protection (regular humans have 3 HP). **6 HP**.
 - I don't think foxes have protective hides, and she's otherwise human beside her head. **No Armor**.
 - She is decently strong. Normal human is 10 and she's bigger. **12 STR**
 - I can imagine her hunting prey over the snowy tundra. She's fast. **14 DEX**
-- Foxes are usually pretty cunning, right? Probably forceful and proactive in a tough situation. **11 WIL**
+- Foxes are pretty cunning, right? Probably forceful and proactive in a tough situation. **11 WIL**
 - I'd go with bite (d6) for the teeth attack, and claws (d8+d8). the same as any two-handed weapon.
 
 _In summary, that leaves us with the following opening statblock:_  
 6 HP, 12 STR, 14 DEX, 11 WIL, teeth (d6), claws (d8+d8)
 
-_For her abilities:_  
+#### Now on to her abilities:
 These are easy. Just copy the fictional stat block created earlier!
+- We know what she looks like, and that she can transform into a fox at will.
+- She cannot be harmed by metal; I'm taking this to mean she's immune to _metal weapons_.
+- She chokes her victims.
+
+Easy, right? Now to make it useful:
+
 - Appears as a 7-foot tall with a human woman with the head of a fox.
-- Can transform into a fox at will.
+- Transforms into a fox at will.
+- Immune to attacks from metal weapons.
+- Critical damage: victim is choked unconscious, to be fed on.
+
+And that's it! Behold, a converted Cairn monster:
+
+#### Foxwoman
+6 HP, 12 STR, 14 DEX, 11 WIL, teeth (d6), claws (d8+d8)
+- Appears as a 7-foot tall with a human woman with the head of a fox.
+- Transforms into a fox at will.
 - Immune to attacks from metal weapons.
 - Critical damage: victim is choked unconscious, to be fed on.
