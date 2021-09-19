@@ -46,9 +46,9 @@ _**Using the example above, I can see that she:**_
 _**This tells me:**_  
 - She's fast, and probably savvy in a fight. She probably has higher than average Hit Protection (regular humans have 3 HP). **6 HP**.
 - I don't think foxes have protective hides, and she's otherwise human beside her head. **No Armor**.
-- She is decently strong. Normal human is 10 and she's bigger. **12 STR**
-- I can imagine her hunting prey over the snowy tundra. She's fast. **14 DEX**
-- Foxes are pretty cunning, right? Probably forceful and proactive in a tough situation. **11 WIL**
+- She is decently strong. Normal human is 10 and she's bigger. **12 STR**.
+- I can imagine her hunting prey over the snowy tundra. She's fast. **14 DEX**.
+- Foxes are pretty cunning, right? Probably forceful and proactive in a tough situation. **11 WIL**.
 - I'd go with **bite (d6)** for the teeth attack, and **claws (d8+d8)**, the same as any two-handed weapon.
 
 _**In summary, that leaves us with the following opening statblock:**_  
