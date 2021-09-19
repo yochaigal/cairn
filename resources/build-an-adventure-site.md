@@ -37,7 +37,7 @@ For an example Spark Table see [here](https://docs.google.com/spreadsheets/d/1b3
 ### Create Spark Tables
 To create a Spark Table, you'll want to find a find a book or website close to your adventure's overall theme (e.g. a PDF with related content). You can pull words from it by simply picking a random page and writing down whatever meets your eye, or you can import it into a web-based tool. You can also import [public domain books](https://archive.org/details/texts) on relevant subjects. [WordCounter.net](https://wordcounter.net/website-word-count) can create lists of non-common keywords from a website. You can then copy and paste those words into a spreadsheet.
 
-Alternatively, you can create [Word Clouds](https://coolinfographics.com/word-clouds). You can copy and paste whole paragraphs or (depending on the book's copyright, of course) the entire PDF. Also take a look at [TerriblyBeautiful](https://www.patreon.com/terriblybeautiful) by (Colin Kloeker](https://twitter.com/colinkloecker?lang=en)
+Alternatively, take a look at [TerriblyBeautiful](https://www.patreon.com/terriblybeautiful) by (Colin Kloeker](https://twitter.com/colinkloecker?lang=en). Basically, you join the Discord server (see Patreon link - it's free) and then run commands in the "bibliomancers-workshop" channel (see pinned).
 
 When you've finished:  
 - Clean up the words. Sort by d20 in two columns.
