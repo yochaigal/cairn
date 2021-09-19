@@ -7,14 +7,15 @@ parent: Resources
 
 # Converting Monsters
 
-There is no perfect system for converting from other systems. Here are some tips and guides that might help with the process.
+There is no perfect system for converting from other systems.  
+Here are some tips that might help with the process.  
 
 ## The Basics
 Review the instructions in the [SRD](https://cairnrpg.com/cairn-srd/#creating-monsters). A couple of things to keep in mind:
 - OSE (or B / X) has really great stat blocks to start with. Just ignore THAC0.
 - STR is both health and physical power. Sometimes HP/HD from other systems is better represented _here_.
-- HP is _not_ health. It's ability to avoid danger, whether through toughness, speed, or skill.
-- HD = HP is a good guide, assuming that HD = d6 (averaged) and the minimum is 4 HP (Cairn).
+- Hit Protection is _not_ health. It's ability to avoid danger, whether through toughness, speed, or skill.
+- OSR style HD = HP is a good guide, assuming that HD = d6 (averaged) and the minimum is 4 HP (Cairn).
 - Sometimes a direct stat to stat translation isn't an option. That's OK! There is a way.
 - WIL is tricky. It's 10 if not noted otherwise; it rarely comes up but when it does, it's nice to have.
 - Attacks are usually the easiest coming from B / X (you can usually copy them as-is).Try looking at how much serious damage the creature can do!
