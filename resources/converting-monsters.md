@@ -44,8 +44,7 @@ _**Using the example above, I can see that she:**_
 - Transforms into a fox at will.
 - Immune to metal weapons.
 
-
-_**This tells me:**_  
+_**What can we learn from this?**_  
 - She's fast, and probably savvy in a fight. She probably has higher than average Hit Protection (regular humans have 3 HP). **6 HP**.
 - I don't think foxes have protective hides, and she's otherwise human beside her head. **No Armor**.
 - She is decently strong. Normal human is 10 and she's bigger. **12 STR**.
@@ -57,7 +56,7 @@ _**In summary, that leaves us with the following opening statblock:**_
 6 HP, 12 STR, 14 DEX, 11 WIL, teeth (d6), claws (d8+d8)
 
 _**Now on to her abilities:**_  
-These are easy. Just copy the fictional stat block created earlier!
+This is pretty straightforward. We simply read the fictional stat block we created earlier!
 - We know what she looks like, and that she can transform into a fox at will.
 - She cannot be harmed by metal; I'm taking this to mean she's immune to _metal weapons_.
 - She chokes her victims.
