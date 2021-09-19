@@ -9,7 +9,7 @@ parent: Resources
 
 There is no perfect system for converting from other systems. Here are some tips and guides that might help with the process.
 
-### The Basics
+## The Basics
 Review the instructions in the [SRD](https://cairnrpg.com/cairn-srd/#creating-monsters). A couple of things to keep in mind:
 - OSE (or B / X) has really great stat blocks to start with. Just ignore THAC0.
 - STR is both health and physical power. Sometimes HP/HD from other systems is better represented _here_.
@@ -21,10 +21,9 @@ Review the instructions in the [SRD](https://cairnrpg.com/cairn-srd/#creating-mo
 - Spells are tricky; you can give wizardy-types Spellbooks but remember, they might _drop_ them later. I like to make them implode on a Luck roll.
 - Magical creatures can just "know" a bunch of spells. In this case, make their loot (or body) magically valuable (and dangerous).
 
-### Use The Fiction
+## Use The Fiction
 Read the original stat block and surrounding commentary, then write a few sentences about the creature. Then convert what you've written to the Cairn monster stat block.
 
-### An Example
 Take for example this OSR creature:
 
 #### Foxwoman
