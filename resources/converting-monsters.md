@@ -17,8 +17,9 @@ Review the instructions in the [SRD](https://cairnrpg.com/cairn-srd/#creating-mo
 - HD = HP is a good guide, assuming that HD = d6 (averaged) and the minimum is 4 HP (Cairn).
 - Sometimes a direct stat to stat translation isn't an option. That's OK! There is a way.
 - WIL is tricky. It's 10 if not noted otherwise; it rarely comes up but when it does, it's nice to have.
-- Attacks are usually the easiest coming from B / X (you can usually copy them as-is). It can be tricky with non-weapons as well. Try looking at how much serious damage the creature can do!
-- Spells are tricky; you can give wizardy-types Spellbooks but remember, they might _drop_ them later. I like to make them implode on a Luck roll.
+- Attacks are usually the easiest coming from B / X (you can usually copy them as-is).Try looking at how much serious damage the creature can do!
+- Remember that instead of raising attack damage a step, think about making it _enhanced_ in certain situations or use the "dual-wielding" rule (e.g. d6+d6 is roll 2d6, keep highest).
+- Spells are tricky; you can give wizardy-types Spellbooks but remember, the creature might _drop_ them when they are defeated. I like to make 1d4 dropped Spellbooks implode (Luck roll).
 - Magical creatures can just "know" a bunch of spells. In this case, make their loot (or body) magically valuable (and dangerous).
 
 ## Use The Fiction
@@ -47,7 +48,7 @@ _**This tells me:**_
 - She is decently strong. Normal human is 10 and she's bigger. **12 STR**
 - I can imagine her hunting prey over the snowy tundra. She's fast. **14 DEX**
 - Foxes are pretty cunning, right? Probably forceful and proactive in a tough situation. **11 WIL**
-- I'd go with bite (d6) for the teeth attack, and claws (d8+d8). the same as any two-handed weapon.
+- I'd go with **bite (d6)** for the teeth attack, and **claws (d8+d8)**, the same as any two-handed weapon.
 
 _**In summary, that leaves us with the following opening statblock:**_  
 6 HP, 12 STR, 14 DEX, 11 WIL, teeth (d6), claws (d8+d8)
