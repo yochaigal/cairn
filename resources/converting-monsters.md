@@ -8,7 +8,7 @@ parent: Resources
 # Converting Monsters
 
 There is no perfect system for converting from other systems.  
-Here are some tips that might help with the process.  
+Below are some tips that might help with the process!
 
 ## The Basics
 Review the instructions in the [SRD](https://cairnrpg.com/cairn-srd/#creating-monsters). A couple of things to keep in mind:
