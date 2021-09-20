@@ -162,24 +162,24 @@ Roll 1d6 + 1 for every 200gp you carouse with. More decadent binges come with th
 |      |                                                              |
 | ---- | ------------------------------------------------------------ |
 | d10  | Mishap                                                       |
-| 1    | **Start a brawl.** You all are involved in a brawl that gets out of control. Start the next adventure with a black eye and -1 STR per level. The local tavern keeper is no longer quite as amicable. |
-| 2    | **Minor misunderstanding** with local authorities that you’re unable to smooth over. You all spend the next 1d6 days in jail. Now seen as local troublemakers. |
-| 3    | One of you **insulted a local person of rank**. They will hold a grudge unless you all publicly apologize and humiliate yourself before them. |
-| 4    | **Hangover from hell.** The first 2d6 hours adventuring the next day are done with disadvantage to all STR saves. |
-| 5    | **Gambling binge.** Your party owes a collective debt equal to roughly half the amount spent carousing to someone you'd rather not own money to. |
-| 6    | **You've ruined the local economy!** Your excess spending means that all prices are now double until next session. |
-| 7    | **Major misunderstanding** with local authorities. All equipment is confiscated until fines and bribes totaling 1d6 x 100 gold is paid. |
-| 8    | While in a **drunken stupor** and a spot of trouble, you sought refuge in a church. They took care of you but now as repayment have begun hounding you to perform a charitable act. |
-| 9    | **Bad Investment.** Invest d100% of your gold in some smooth-tongued merchant's scheme. Turns out it's a sham. One of the town merchants flees. |
-| 10   | Due to **a lost game of darts** and a few inflammatory remarks at the tavern, you make bitter enemies with a local rival adventuring party. |
-| 11   | **Beaten and robbed.** You are waylaid by a bunch of thugs during your drunken carousing. Loose Ld6x100 coins. |
-| 12   | **The roof! The roof! The roof is on fire!** Accidentally start a conflagration Roll 1d6 twice. **(1-2)** burn down your favorite inn **(3-5)** some other den of ill repute is reduced to ash **(6)** a big chunk of town goes up in smoke. **(1-2)** no one knows it was you guys **(3-5)** one other person knows you did it **(6)** everybody knows. |
+|  1   | **Start a brawl.** You all are involved in a brawl that gets out of control. Start the next adventure with a black eye and -1 STR per level. The local tavern keeper is no longer quite as amicable. | **Jackpot!** One of you strikes it rich at the gambling tables! Gain level x 100 gold. |
+|  2   | **Minor misunderstanding** with local authorities that you’re unable to smooth over. You all spend the next 1d6 days in jail. Now seen as local troublemakers. | **Gain a local reputation** as the life of a party! Those of ill repute are much more friendly and see you as one of their own. |
+|  3   | One of you **insulted a local person of rank**. They will hold a grudge unless you all publicly apologize and humiliate yourself before them. | Whoa **what a trip**! The strange powder you sniffed revealed mystic truths about the universe. Young people in the settlement see you as cool and not one of the squares. (*Optional: gain a random spell or generate a [Maze Rats spell](https://xenioinabottle.blogspot.com/2021/04/maze-rats-spells-in-cairn.html), either one-use or permanent.*) |
+|  4   | **Hangover from hell.** The first 2d6 hours adventuring the next day are done with disadvantage to all STR saves. | **Well fed, well rested, and ready to go!** The next day of adventuring all saves are done with advantage. |
+|  5   | **Gambling binge.** Your party owes a collective debt equal to roughly half the amount spent carousing to someone you'd rather not own money to. | **Citizens arrest!** You catch some criminal in the act and are able to restrain them until the authorities arrive. You are seen as heroes by the settlement for a short time. |
+|  6   | **You've ruined the local economy!** Your excess spending means that all prices are now double until next session. | The **local blacksmith**, due to your influx of cash, has been able to craft or order an exquisite weapon that he’s willing to sell to your party for a normal price. |
+|  7   | **Major misunderstanding** with local authorities. All equipment is confiscated until fines and bribes totaling 1d6 x 100 gold is paid. | The **local clergy** see your party as protectors of the settlement. They offer you a blessing before your next adventure. |
+|  8   | While in a **drunken stupor** and a spot of trouble, you sought refuge in a church. They took care of you but now as repayment have begun hounding you to perform a charitable act. | **Impressed** by your ability to drink for days and keep standing, a local hireling of high repute is willing to join you on your next adventure if you wish at no initial cost. |
+|  9   | **Bad Investment.** Invest d100% of your gold in some smooth-tongued merchant's scheme. Turns out it's a sham. One of the town merchants flees. | **Killer Investment!** Invest all your spare cash in some smooth-tongued merchant's scheme. Turns out it’s real! It returns 50% profits next d4 sessions. |
+|  10  | Due to **a lost game of darts** and a few inflammatory remarks at the tavern, you make bitter enemies with a local rival adventuring party. | **Local celebrity.** Your ability to carouse with the common folk has led them to see you as one of their own. The peasants of the settlement are thankful to have you around. You receive free room and board in this settlement of average quality. |
+|  11  | **Beaten and robbed.** You are waylaid by a bunch of thugs during your drunken carousing. Loose Ld6x100 coins. | **Hot Goss.** Your time spent carousing has let you in on some juicy gossip. You learn one major secret about a person in authority. |
+|  12  | **The roof! The roof! The roof is on fire!** Accidentally start a conflagration Roll 1d6 twice. **(1-2)** burn down your favorite inn **(3-5)** some other den of ill repute is reduced to ash **(6)** a big chunk of town goes up in smoke. **(1-2)** no one knows it was you guys **(3-5)** one other person knows you did it **(6)** everybody knows. | **Heroic Carousing!** It was a night of truly epic debauchery. Everyone roll a d6 to see how your legend grew.  **(1)** Re-roll HP for your level, take new result if higher, increase by 1 if lower. **(2)** Gain 1 STR **(3)** Gain 1 DEX **(4)** Gain 1 WIL, **(5)** Gain a random spell book **(6)** Gain Ld6 x 100 GP. |
 
 ---
 
 **Credits & Inspiration:**
 
-* "Dungeon Procedures" by Skerples *([Many Rats on Sticks](https://coinsandscrolls.blogspot.com/2019/10/osr-glog-based-homebrew-v2-many-rats-on.html))*
+* "Dungeon Procedures" by Skerples *(Many Rats on Sticks)*
 * [Necropraxis](https://www.necropraxis.com/2014/02/03/overloading-the-encounter-die)
 * [Failure Tolerated](https://www.failuretolerated.com/what-do-the-monsters-want)
 * [The Luminescent Lich](https://luminescentlich.blogspot.com/2021/06/experience-points-for-different-modes.html)
