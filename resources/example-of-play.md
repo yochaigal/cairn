@@ -12,7 +12,7 @@ nav_order: 2
 - **Esther** is playing an ex-**Herbalist**.
 - **Barry** plays a former **Hunter**.
 - The PCs are in search of a powerful [**Relic**](/cairn-srd/#relics), rumored to have restorative powers.
-- Recently the party uncovered a parchment that detailed the item's true location, somewhere on the far East side of the **Geunant Forest**, a wood known for having massive, ancient trees that allow little light through their humongous leaves.
+- Recently the party uncovered a parchment that detailed the item's true location, and have set off to recover it.
 
  **Warden**: _"You've spent the better part of the morning cutting your way through the **Geunant Forest**, chopping past hanging vines and waist-high brambles. It is very easy to get lost here among the surrounding underbrush. To make matters worse the Sun is completely obscured by the thick overhead branches."_
 
