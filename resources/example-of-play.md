@@ -86,21 +86,6 @@ nav_order: 2
 
   **Warden**: _"Understood. It is now the **Blood Elk's** turn, and obviously it's still very angry at you, **Barry**. Raising its devilish hooves, the beast charges towards you once again. You leap off the cliff at the last second, holding onto the rope with all your might. The **Blood Elk** attempts to halt its attack the moment it sees its target falling. It makes a **DEX save** to see if it can successfully stop. Ack, it rolled a 20, and goes tumbling off the cliff and into the vast dark below."_
 
-  **Why didn't the Blood Elk make an attack roll, as the combat rules imply?**
-  The attack was considered possible, but very dangerous as well. Had the creature used a ranged attack or was a trained melee attacker it would have been far less risky to attack **Barry**. Unfortunately it was a beast, and only capable of running people down with its sharp hooves.
-
-  **Why did the Blood Elk make the save instead of Barry, who was also at risk?**  
-  In this example, the **Blood Elk** was far more at risk than its human opponent, because:   
-  - As an enthralled beast, it was likely not capable of creative thinking or advanced problem solving.
-  - One of its primary features is its relative bulk and speed, and it is likely that these properties would make a sudden stop quite difficult.
-  - Accordingly, there were no situational or mechanical benefits that could provide any advantage to the **Blood Elk** in this scenario.
-
-  Conversely, **Barry** was the least at risk of the two:
-  - As a former hunter, he had already firmly established his ability to do things of this nature.
-  - **Esther** had tied the rope around a tree, using herself as a ballast. This provided a clear *situational* advantage.
-
-  If **Barry** had been injured or had less time to prepare, it would be conceivable to ask for a **STR save** to see if he could hold on to the rope.
-
  **Warden**: "_After your encounter with the **Blood Elk**, you return to camp and try to catch as much sleep as they can. By daybreak both of you are awake and ready to continue on your journey."_
 
  **Esther**: _"Right. The question is, how do we cross the **God-Slip**? Are there any bridges at our level?"_
