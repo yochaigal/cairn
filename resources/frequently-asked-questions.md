@@ -52,7 +52,7 @@ Expand For Example
 
 **Warden**: _"You carefully lay your sleeping blanket between to trunks, casting a shadow over the blue pods of the plant below. Immediately they begin to close, just enough to allow a careful person to squeeze around them."_
 
-**Esther**: _"Excellent. I'm going to carefully extract one of the leaves for later... purposes, then pass move on."_
+**Esther**: _"Excellent. I'm going to carefully extract one of the leaves for later use, then move on."_
 
  **What if none of the PCs had any relevant experience or expertise?**
  - Had there been no PC with the **Herbalist** background, the Warden would likely have declared the PCs ignorant of the plant's properties, and (hopefully) the players would try to learn more by asking questions and experimentation.

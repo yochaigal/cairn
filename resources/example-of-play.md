@@ -34,7 +34,7 @@ nav_order: 2
 
 **Warden**: _"You carefully lay your sleeping blanket between to trunks, casting a shadow over the blue pods of the plant below. Immediately they begin to close, just enough to allow a careful person to squeeze around them."_
 
-**Esther**: _"Excellent. I'm going to carefully extract one of the leaves for later... purposes, then pass move on."_
+**Esther**: _"Excellent. I'm going to carefully extract one of the leaves for later use, then move on."_
 
 **Warden**: _"By late afternoon you finally break through the forest boundary. Spilling out of the treeline, you nearly step into a deep chasm splitting the forest in two. Finally, you have arrived at the **God-Slip**, a seemingly endless ravine with no bridge crossing it. Judging by the sheer rock walls on either side, climbing down would be extremely dangerous. Unfortunately, your quarry is likely located just across, where the cliffs meet the edge of the world. There is a small clearing nearby where you could set up camp, shrouded by a humongous Oak tree planted close to the chasm."_
 
