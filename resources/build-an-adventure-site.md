@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Build An Adventure Site
-nav_order: 5
+nav_order: 2
 parent: Resources
 ---
 

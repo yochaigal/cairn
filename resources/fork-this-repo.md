@@ -2,7 +2,7 @@
 layout: default
 title: Fork This Repo
 parent: Resources
-nav_order: 10
+nav_order: 7
 ---
 
 # Fork this Repo

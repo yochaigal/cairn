@@ -2,7 +2,7 @@
 layout: default
 title: Example of Play
 parent: Resources
-nav_order: 2
+nav_order: 4
 ---
 
 # Example of Play
