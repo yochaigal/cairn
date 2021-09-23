@@ -5,7 +5,7 @@ parent: Resources
 nav_order: 10
 ---
 
-# Example of Play
+# Fork this Repo
 ---
 
 1. Create a [Github](https://github.com) account.
