@@ -7,19 +7,7 @@ search_exclude: true
 
 # Good Dungeon Design
 
-## Dungeon Checklist (Goblin Punch)
-### Something to steal
-
-
-### Something to be killed
-
-### Something to kill you
-
-### Different Paths
-
-### Someone to talk to
-
-## Principles of Dungeon Design (Questing Beast)
+## Principles of Good Dungeon Design (Questing Beast)
 ### 1. Multiple Entrances/Exits
 - Avoids the players feeling railroaded
 - Add information to doorways and such (lets them choose the kind of fun they want to have)
@@ -52,3 +40,32 @@ search_exclude: true
 - Allowing players to feel the accomplishment of discovery. Very rewarding.
 
 ### 7. Variety in Room types
+- Height, shape (octagonal)
+- Make sure they are easy to describe, adds texture and variety
+- Helps the players see how the rooms were used
+- Helps players recognize rooms
+- Use architectural motifs to help connect rooms thematically, helps players as they move from one room to another
+
+### 8. Tactically useful areas
+- Having noticeable areas that players can see ways to use it for their advantage
+- Chokepoints (bridges, narrow corridors), places you have to crawl
+- Uphill (rolling boulders down)
+
+### 9. Spying opportunities
+- Information is important for meaningful choices
+- Portcullis where enemies can be heard but can't see PCs
+- One-way mirrors, speaking tubes, etc
+
+_Emphasize putting the power in the player's hands to make their own decisions, so that their choices have the greatest possible impact._
+
+## Dungeon Checklist (Goblin Punch)
+### Something to steal
+
+
+### Something to be killed
+
+### Something to kill you
+
+### Different Paths
+
+### Someone to talk to
