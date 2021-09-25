@@ -104,8 +104,10 @@ search_exclude: true
 
 ### The Schul
 - The oldest building in town, standing in stark contrast to the newer construction.
-- The ground before the doorway is sprinkled with a white powder (flour).
-- The inside is musty and in dire need of repair. **Rab Shlomo** is usually found here in quiet prayer.
+- The ground before the doorway is sprinkled with white flour. If a demon crosses the threshold, its footsteps appear as if a chicken made them.
+- The temple within is musty and in dire need of repair. Dual rows of broken wooded seats line a cracked central causeway, which ends at a small stone platform taking up much of the opposite half.
+- In the Southwest corner is an attached study where **Rab Shlomo** studies as well as sleeps.
+- A mechanism in the study controls the stone platform, causing it to recede into the wall. A staircase leads down into **The Tomb**.
 
 ## 5. Orphan's Mound
 * A mass-burial site for those that died of the **Dawn Plague**.
@@ -126,3 +128,5 @@ search_exclude: true
 * Upon arrival, the PCs will find the door smashed open and blood splattered everywhere.
 * **Froyim’s** body is in the back garden, torn to shreds. If not burnt, it will rise as a **Ghoul** at dawn.
 * Hiding within the tree's mossy bark is a **Shtekn Folk** spy, which will try to run away (towards **Blue Forest**).
+
+## 8. The Tomb
