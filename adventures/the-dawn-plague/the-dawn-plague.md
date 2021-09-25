@@ -91,10 +91,21 @@ search_exclude: true
 * A dozen rustic-looking wooden buildings form a perfect square in the center.
 * A massive old-growth forest dominates the lands to the East, split by a small mountain.
 * On the North side dozens of farms spill out along a long, dusty road. The road bends Northwest.
-* The **Meyster’s Office:** Beautiful & recently renovated. **Meyster Zeydne** often naps here at lunch.
-* The **Schul**: Musty and in dire need of repair. **Rab Shlomo** is usually found here in quiet prayer.
-* When the PCs arrive they see an angry mob of about 10 locals (identifiable by their drab but warm clothing) nearly coming to blows with 5 foreign lumber workers.
-* The ground around the **Schul** is sprinkled with a white powder (flour).
+
+### Optional Hook
+- When the PCs arrive, a group of 10 locals (identifiable by their drab clothing) are about to come to blows with 5 obviously foreign lumber workers.
+
+### Myester's Office
+- Beautiful & recently renovated. Carefully studying the facade reveals it was formerly a butcher's shop.
+- **Meyster Zeydne** often naps here at lunch; otherwise the place is usually empty.
+- The room is bare save for a small desk and comfortable chair. The desk is shut with a simple lock.
+- Within is an unsigned document detailing an agreement that would hand over management of **Khelma** village to the **Gehilts Lumber Company**. The signer would receive 20% of future profits.
+- The symbol of protection (an eye) is emblazoned on the surface of the drawer, beneath the paperwork.
+
+### The Schul
+- The oldest building in town, standing in stark contrast to the newer construction.
+- The ground before the doorway is sprinkled with a white powder (flour).
+- The inside is musty and in dire need of repair. **Rab Shlomo** is usually found here in quiet prayer.
 
 ## 5. Orphan's Mound
 * A mass-burial site for those that died of the **Dawn Plague**.
