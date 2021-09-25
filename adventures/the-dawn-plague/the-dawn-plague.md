@@ -95,7 +95,7 @@ search_exclude: true
 ### Optional Hook
 - When the PCs arrive, a group of 10 locals (identifiable by their drab clothing) are about to come to blows with 5 obviously foreign lumber workers.
 
-### Myester's Office
+### Meyster's Office
 - Beautiful & recently renovated. Carefully studying the facade reveals it was formerly a butcher's shop.
 - **Meyster Zeydne** often naps here at lunch; otherwise the place is usually empty.
 - The room is bare save for a small desk and comfortable chair. The desk is shut with a simple lock.
