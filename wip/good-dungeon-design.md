@@ -24,7 +24,7 @@ search_exclude: true
 ### 4. Have loops
 - Avoid linear design
 - Avoid tree-like structure (dead end paths)
-- Create a network of linked rooms and cooridors in different ways
+- Create a network of linked rooms and corridors in different ways
 - Allows for interesting strategies, especially with combat and ambushes
 
 ### 5. Have a lot of verticality
@@ -69,3 +69,7 @@ _Emphasize putting the power in the player's hands to make their own decisions, 
 ### Different Paths
 
 ### Someone to talk to
+
+
+## Other stuff
+- Add generic details to the key, like "unless otherwise noted, the dungeon is musty, wet, etc..."

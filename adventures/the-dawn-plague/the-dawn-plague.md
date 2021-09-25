@@ -96,10 +96,10 @@ search_exclude: true
 - When the PCs arrive, a group of 10 locals (identifiable by their drab clothing) are about to come to blows with 5 obviously foreign lumber workers.
 
 ### Meyster's Office
-- Beautiful & recently renovated. Carefully studying the facade reveals it was formerly a butcher's shop.
+- A box-like wooden building that was clearly renovated quite recently. Carefully studying the facade reveals it was formerly a butcher's shop.
 - **Meyster Zeydne** often naps here at lunch; otherwise the place is usually empty.
 - The room is bare save for a small desk and comfortable chair. The desk is shut with a simple lock.
-- Within is an unsigned document detailing an agreement that would hand over management of **Khelma** village to the **Gehilts Lumber Company**. The signer would receive 20% of future profits.
+- Within is an unsigned document detailing an agreement that would hand over management of the village to the **Gehilts Lumber Company**. The signer would receive 20% of future lumber profits.
 - The symbol of protection (an eye) is emblazoned on the surface of the drawer, beneath the paperwork.
 
 ### The Schul
