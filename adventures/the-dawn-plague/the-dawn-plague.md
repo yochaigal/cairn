@@ -66,10 +66,17 @@ search_exclude: true
 
 ### Will o’ the Wisp
 
+### Shtekn Folk
+4 HP, 1 Armor, 11 STR, 8 DEX, 14 WIL, knotted fists (d8+d8)
+- Stick-like humanoids made of branches, vines and roots. Refer to themselves as "the People".
+- Never leave the **Blue Forest**. Regularly eavesdrop on "Fleysh Folk" through tree-linking.
+- Will trade almost anything for information they don't already have.
+- Fire damage is _enhanced_ against Shtekn Folk.
+
 ## 1. First Light
 * The oldest established homestead, now home to siblings who remember the **Dawn Plague**.
 * The elderly couple trade mostly in candles, some of which can ward undead.
-* A **Dybbuk **haunts the farm, but will not touch the elderly couple, as they are his children.
+* A **Dybbuk **haunts the farm, but will not touch the elderly couple, as they are its children.
 
 ## 2. Shorehead Ruins
 * A large, mostly worn-away temple that predates the arrival of the **Khelma** colonists.
