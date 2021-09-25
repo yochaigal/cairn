@@ -64,14 +64,13 @@ search_exclude: true
 * If destroyed, the Golem eventually reforms and carries out its previous orders.
 * Uttering the inverse of the spell that created it reduces the Golem to mud.
 
-### Will o’ the Wisp
-
 ### Shtekn Folk
 4 HP, 1 Armor, 11 STR, 8 DEX, 14 WIL, knotted fists (d8+d8)
 - Stick-like humanoids made of branches, vines and roots. Refer to themselves as "the People".
-- Never leave the **Blue Forest**. Regularly eavesdrop on "Fleysh Folk" through tree-linking.
+- Never leave the **Blue Forest**. Regularly eavesdrop on "Flesh Folk" through tree-linking.
 - Will trade almost anything for information they don't already have.
-- Fire damage is _enhanced_ against Shtekn Folk.
+- Can approximate speech through undulating their twig-like fingers.
+- Attacks utilizing fire are _enhanced_ against **Shtekn Folk**.
 
 ## 1. First Light
 * The oldest established homestead, now home to siblings who remember the **Dawn Plague**.
@@ -93,9 +92,9 @@ search_exclude: true
 * A massive old-growth forest dominates the lands to the East, split by a small mountain.
 * On the North side dozens of farms spill out along a long, dusty road. The road bends Northwest.
 * The **Meyster’s Office:** Beautiful & recently renovated. **Meyster Zeydne** often naps here at lunch.
-* The **Shtiebel**: Musty and in dire need of repair. **Rab Shlomo** is usually found here in quiet prayer.
+* The **Schul**: Musty and in dire need of repair. **Rab Shlomo** is usually found here in quiet prayer.
 * When the PCs arrive they see an angry mob of about 10 locals (identifiable by their drab but warm clothing) nearly coming to blows with 5 foreign lumber workers.
-* Flour around the schul
+* The ground around the **Schul** is sprinkled with a white powder (flour).
 
 ## 5. Orphan's Mound
 * A mass-burial site for those that died of the **Dawn Plague**.
@@ -115,4 +114,4 @@ search_exclude: true
 * The **Ghoul’s** first victim, as he travels frequently between his home and the coast.
 * Upon arrival, the PCs will find the door smashed open and blood splattered everywhere.
 * **Froyim’s** body is in the back garden, torn to shreds. If not burnt, it will rise as a **Ghoul** at dawn.
-* Poking the tree’s moss will reveal a **Will O’ Wisp**. It quickly floats away, towards **Blue Forest**.
+* Hiding within the tree's mossy bark is a **Shtekn Folk** spy, which will try to run away (towards **Blue Forest**).
