@@ -2,6 +2,7 @@
 layout: default
 title: The Dawn Plague Dungeon
 parent: The Dawn Plague
+grand_parent: Adventures
 nav_exclude: true
 search_exclude: true
 ---

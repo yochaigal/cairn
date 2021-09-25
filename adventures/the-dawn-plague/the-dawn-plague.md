@@ -1,14 +1,17 @@
 ---
 layout: default
 title: The Dawn Plague
+parent: The Dawn Plague
+grand_parent: Adventures
 nav_exclude: true
 search_exclude: true
 ---
 
 # The Dawn Plague
 
-### Summary
-* **Khelma** is a small village far from civilization, seated between a thick forest and restless sea.
+## Summary
+* See the overland [map](/adventures/the-dawn-plague/the-dawn-plague-map.jpg)
+* **Khelma** is a small village seated between a thick forest and a restless sea.
 * Devastated by Ghouls 33 years ago, the town has never fully recovered.
 * The villagers keep to the old ways, carefully following ritual burial rites.
 * **Gehilts Lumber** has planted its stake in the local forest, and pays the town handsomely.
@@ -17,7 +20,7 @@ search_exclude: true
 * Improper burials have drawn an older, powerful Ghoul ever closer towards the town.
 * **Rab Shlomo** has been working on creating a creature of mud & clay (a **Golem**) to protect the town, and rid the village of all “invaders” (including lumber workers).
 
-### The Dawn Plague
+## The Dawn Plague
 * Thirty-three years ago, a hunting party from **Khelma** froze to death  in the **Blue Forest**. A passing Ghoul happened upon their corpses and feasted.
 * At dawn the next day, the party rose from the dead as Ghouls as well. Mindlessly, they sought fresh meat.
 * Eventually the new Ghouls found the village of **Khelma**, leaving a trail of chewed-up animal corpses and despoiled graves.
@@ -27,7 +30,7 @@ search_exclude: true
 * They then set it ablaze. This place is now referred to as **Orphan’s Mound**.
 * Today the locals still stand vigilant for a full night after any burial, to ensure that none rise as a Ghoul. They endlessly repeat the phrase, “A candle for one is a candle for a hundred.”
 
-### Hooks
+## Hooks
 * PCs are hired by a wealthy outsider, sent to quiet the unrest.
 * The PCs stumble upon the town in their travels, just as workers and villagers are coming to blows. A local clergy or city official may ask for their assistance as outsiders.
 * Rumors of abandoned treasure buried beneath a large burial mound not far from town.
