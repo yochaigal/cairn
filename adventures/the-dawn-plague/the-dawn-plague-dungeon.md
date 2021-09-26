@@ -12,9 +12,9 @@ search_exclude: true
 ### Multiple Entrances/Exits
 
 ### Consider why it was built in the first place
-- How long ago?
-- What was it used for? Is it different now?
-- What was it designed to keep out?
+- At the founding of the town, nearly 100 years before.
+- Originally used as an underground tomb for the town's deceased; additionally a vault was built to house the town's wealth later expanded to deal with the great numbers of corpses resulting from the Dawn Plague thirty years before.
+- Originally designed to keep townsfolk away from the hidden wealth; later to prevent Ghouls from raising the dead.
 
 ### Levels
 
