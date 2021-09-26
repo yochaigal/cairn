@@ -214,8 +214,6 @@ Based on [Want a Simplified D&D Spell List?](https://www.bastionland.com/2012/08
 
 **Whispering Wind**: Sends a short message 1 mile.
 
-**3^rd^ Circle**
-
 **Explosive Runes**: Deals d12 damage when read.
 
 **Magic Circle**: Prevents an extraplanar being from entering or leaving unless they pass a WIL Save.
