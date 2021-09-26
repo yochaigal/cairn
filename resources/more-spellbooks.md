@@ -2,12 +2,11 @@
 layout: default
 title: More Spellbooks
 nav_order: 8
-nav_exclude: true
-search_exclude: true
 parent: Resources
 ---
 
-# More Spellbooks for Cairn
+# More Spellbooks
+
 The following is based on Chris McDowall's [Want a Simplified D&D Spell List?](https://www.bastionland.com/2012/08/want-simplified-d-spell-list.html)" with permission.
 
 |      |                                |                                                              |
