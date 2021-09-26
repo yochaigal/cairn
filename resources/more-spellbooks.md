@@ -64,7 +64,7 @@ The following is based on Chris McDowall's [Want a Simplified D&D Spell List?](h
 | 50   | **Detect Thoughts**            | WIL Save or else allows "listening" to surface thoughts.     |
 | 51   | **Detect Undead**              | Reveals undead within 60 ft.                                 |
 | 52   | **Dimension Door**             | Teleports you short distance.                                |
-| 53   | **Dimensional Anchor           | **Bars extradimensional movement.                            |
+| 53   | **Dimensional Anchor**         | Bars extradimensional movement.                            |
 | 54   | **Disguise Self**              | Changes your appearance.                                     |
 | 55   | **Dismissal**                  | WIL Save or creature to returns to native plane.             |
 | 56   | **Displacement**               | Ignore any one attack.                                       |
