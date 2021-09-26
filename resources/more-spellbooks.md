@@ -8,7 +8,7 @@ parent: Resources
 ---
 
 # More Spellbooks for Cairn
-Based on [Want a Simplified D&D Spell List?](https://www.bastionland.com/2012/08/want-simplified-d-spell-list.html) by Chris McDowall, with permission.
+The following is based on Chris McDowall's [Want a Simplified D&D Spell List?](https://www.bastionland.com/2012/08/want-simplified-d-spell-list.html)" with permission.
 
 |      |                                |                                                              |
 | ---- | ------------------------------ | ------------------------------------------------------------ |
