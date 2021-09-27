@@ -8,6 +8,9 @@ search_exclude: true
 ---
 
 # The Dawn Plague Scratch
+
+[Sefer Hasidim](https://en.wikipedia.org/wiki/Sefer_Hasidim)
+
 ### First of Espar
 - Espar is the name of a month; a celebratory time as it marks the end of Summer
   and the beginning of the Fall harvest (the best of the year).
