@@ -70,6 +70,30 @@ _Emphasize putting the power in the player's hands to make their own decisions, 
 
 ### Someone to talk to
 
+## Grognardia OSR Dungeon Design Guidelines
+1. Environmental hazards -- slippery floors, rooms that flood, narrow ledges over steep drops, rooms that are excessively hot or cold, rooms or corridors filled with poison (or otherwise magical) gasses, etc.
+
+2. Combat encounters should generally be with baseline (or near-baseline) monsters with difficulty enhanced by the circumstances of the encounter (i.e. monsters have set up ambushes, monsters forcing the PCs to fight in unfavorable surroundings, teams of similar (or dissimilar) monster-types working together, etc.) rather than through templates or class-leveling
+
+3. At least one encounter that if played as a straight combat will totally overmatch the party, but which can be avoided or circumvented by some clever means
+
+4. At least one puzzle, trick, or obstacle that requires the players to figure it out, rather than being solvable by a die-roll
+
+5. At least one item, location, or creature that causes some kind of significant permanent effect (permanently raise/lower stats or hp, permanently change race, gender, or alignment, permanently grant or take away magic items, etc.) determined by a random roll on a table -- with possibilities for both good and bad effects, depending on the roll
+
+6. At least one item of treasure that is cursed or has other detrimental side-effects on the owner/possessor
+
+7. Some sort of "false climax" where inattentive players will think they've won the adventure and either let their guard down or go home, while clever players will realize this couldn't have really been the climax
+
+8. At least one disorienting effect. teleporter, mirror trap, [swiveling] floor, or maze like monster. up is down too.
+
+9. An area where resources are an issue. wet torches or wind blowing them out. oxygen low or having to hold your breath to swim [through] a tunnel.
+
+10. An area that has items of value. but they are too large to transport. or cause someone to have his hands full at an ambush.
+
+11. A creature that appears to be something it is not. Some examples: Lurker above, mimic, [cloaker], wolf in sheep's clothing, doppelganger, gas spore (perhaps my favorite), etc.
+
+12. One encounter (no more, no less) that makes absolutely no logical sense, that the DM completely leaves up to the players' imagination to explain.
 
 ## Other stuff
 - Add generic details to the key, like "unless otherwise noted, the dungeon is musty, wet, etc..."
