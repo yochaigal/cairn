@@ -224,7 +224,7 @@ See [**Relics**](/resources/d66-starting-loadouts#relics) and [**Drugs**](/resou
 ## 53. Minstrel
 * Sling (d4)
 * Poignard (d6)
-* Hurdy*Gurdy
+* Hurdy-Gurdy
 * Set of Juggling Balls
 * Colorful Cape
 * Soap
