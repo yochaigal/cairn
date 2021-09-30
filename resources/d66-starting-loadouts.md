@@ -51,7 +51,7 @@ See [**Relics**](/resources/d66-starting-loadouts#relics) and [**Drugs**](/resou
 * Furs (1 Armor)
 * Whistle
 * Animal Charm
-* Wolf | 2 HP, 12 WIL, Bite (d6)
+* Wolf (2 HP, 12 WIL, Bite (d6))
 
 ## 16. Changeling
 * Two Daggers (d6+d6)
@@ -99,7 +99,7 @@ See [**Relics**](/resources/d66-starting-loadouts#relics) and [**Drugs**](/resou
 * Witchwood Seal (Beast Form when in clear view of the sun or moon)
 * Face Paint
 * Herbal Poultice
-* Owl | 1 HP, 16 DEX, Talons (d4)
+* Owl (1 HP, 16 DEX, Talons (d4))
 
 ## 26. Duergar (Deep Dwarf)
 * Meathook (d8)
@@ -187,7 +187,7 @@ See [**Relics**](/resources/d66-starting-loadouts#relics) and [**Drugs**](/resou
 * Padded Leathers (1 Armor)
 * Large Trap
 * Thundering Horn
-* Bloodhound | 2 HP, 12 DEX, Bite (d6)
+* Bloodhound (2 HP, 12 DEX, Bite (d6))
 
 ## 45. Illusionist
 * Ornate Cane (d6)
@@ -203,7 +203,7 @@ See [**Relics**](/resources/d66-starting-loadouts#relics) and [**Drugs**](/resou
 * Kite Shield (1 Armor)
 * Heraldic Cape
 * Letter of Marque
-* Riding Horse | +2 Slots, 4 HP, Kick (d6)
+* Riding Horse (+2 Slots, 4 HP, Kick (d6))
 
 ## 51. Ledgermain (Arcane Bard)
 * Shortsword (d6)
