@@ -10,7 +10,7 @@ _Originally by [Jim Parkin](https://classless-kobolds.itch.io/d66-starting-loado
 
 ### Instructions
 Roll 2d6. The ones place is the first digit and the tens place is the second digit.   
-Some packages may have **Relics** or **Drugs**.
+Some packages may have **Relics** or **Drugs** (see table).
 
 ## Relics
 ##### Arachnid Crest
@@ -153,7 +153,7 @@ WIL save vs zen disconnectedness for a full day.
 * Elegant sword (d8)
 * Recurve bow (d8)
 * Gilt Clothing (1 Armor)
-* Rune (Charm or Detect Magic)
+* Rune (_Charm_ or _Detect Magic_)
 * Golden Flute
 * 25' Silken Rope
 
