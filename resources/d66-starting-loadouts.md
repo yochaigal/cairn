@@ -10,8 +10,40 @@ _Originally by [Jim Parkin](https://classless-kobolds.itch.io/d66-starting-loado
 
 ### Instructions
 Roll 2d6. The ones place is the first digit and the tens place is the second digit.   
-Or choose as you like.
-See [**Relics**](/resources/d66-starting-loadouts#relics) and [**Drugs**](/resources/d66-starting-loadouts#drugs)
+Some packages may have **Relics** or **Drugs**.
+
+## Relics
+##### Arachnid Crest
+Web when in full darkness.
+##### Eyestone
+Sense if placed in fresh water.
+##### Holy Symbol
+Ward once per day following a devout prayer.
+##### Talisman
+Wizard Mark when touching your quarry's prints.
+##### Unholy Symbol
+Hatred when bathed in blood.
+##### Unicorn Horn
+Blow to play a song which summons help. One use.
+##### Witchwood Seal
+Beast Form when in clear view of the sun or moon.
+##### Yew Wand
+Pacify when smacked on knuckles
+
+## Drugs
+##### **Brikabrak**
+WIL save vs confusion and speaking all thoughts aloud for 1d8 hours.
+##### Craze
+STR save vs feeling no pain, hunger, or weariness for 1d12 hours.
+##### Drake
+STR save vs “enjoying” violent psychosis for 1d4 hours.
+##### Leycap
+Consume to restore fatigue, WIL save vs addiction.
+##### Slicksweet
+DEX save vs legs going rubbery for an hour.
+##### Spangle
+WIL save vs zen disconnectedness for a full day.
+
 
 ## 11. Acrobat
 * Balanced Pole (d8, bulky)
@@ -74,14 +106,14 @@ See [**Relics**](/resources/d66-starting-loadouts#relics) and [**Drugs**](/resou
 * Curved Blade (d8)
 * Chainmail (2 Armor, bulky)
 * Gauntlets (1 Armor)
-* Holy Symbol (Ward, once per day following prayer)
+* [Holy Symbol](/resources/d66-starting-loadouts#holy-symbol)
 * Cloak of the Order
 
 ## 23. Dowser
 * Sickle (d6)
 * Patchwork Doublet (1 Armor)
 * Dowsing Rod
-* Eyestone (Sense if placed in fresh water)
+* [Eyestone](/resources/d66-starting-loadouts/#eyestone)
 * Worn Map
 * Spyglass
 
@@ -89,14 +121,14 @@ See [**Relics**](/resources/d66-starting-loadouts#relics) and [**Drugs**](/resou
 * Katar (d8)
 * Silken Mesh (1 Armor)
 * Knockout Poison
-* Arachnid Crest (Web when in full darkness)
+* [Arachnid Crest](/resources/d66-starting-loadouts#arachnid-crest)
 * Manacles
 * Spellbook (Spider Climb or Arcane Eye)
 
 ## 25. Druid
 * Shepherd's Crook (d8, bulky)
 * Jute Clothing
-* Witchwood Seal (Beast Form when in clear view of the sun or moon)
+* [Witchwood Seal](/resources/d66-starting-loadouts/#witchwood-seal)
 * Face Paint
 * Herbal Poultice
 * Owl (1 HP, 16 DEX, Talons (d4))
@@ -106,8 +138,8 @@ See [**Relics**](/resources/d66-starting-loadouts#relics) and [**Drugs**](/resou
 * Whip (d6)
 * Tattered Mail (1 Armor)
 * 10' Chain
-* Craze (drug, STR save vs feeling no pain, hunger, or weariness for 1d12 hours)
-* Brikabrak (drug, WIL save vs confusion and speaking all thoughts aloud for 1d8 hours)
+* [Craze](/resources/d66-starting-loadouts/#craze)
+* [Brikabrak](/resources/d66-starting-loadouts/#brikabrak)
 
 ## 31. Dwarf
 * Mace (d8)
@@ -147,13 +179,13 @@ See [**Relics**](/resources/d66-starting-loadouts#relics) and [**Drugs**](/resou
 * Pot of Glue
 * Precision Pliers
 * Spyglass
-* Spellbook (Widget or Haste)
+* Spellbook (_Widget_ or _Haste_)
 
 ## 36. Grimalkin
 * Curved Knife (d6)
-* Hex Stone (random spell)
+* Hex Stone ([random spell](/cairn-srd#100-spells))
 * Pouch of Catnip
-* Spangle (drug, WIL save vs zen disconnectedness for a full day)
+* [Spangle](/resources/d66-starting-loadouts/#spangle)
 * Blackberry Pie
 * Baubles
 
@@ -168,7 +200,7 @@ See [**Relics**](/resources/d66-starting-loadouts#relics) and [**Drugs**](/resou
 ## 42. Halfling
 * Sling (d4)
 * Fancy Leathers (1 Armor)
-* Unicorn Horn (blow to play a song which summons help, one use)
+* [Unicorn Horn](/resources/d66-starting-loadouts/#unicorn-horn)
 * Bag of Marbles
 * Tobacco Pouch & Pipe
 * Travel Charcuterie (2 days' rations)
@@ -194,8 +226,8 @@ See [**Relics**](/resources/d66-starting-loadouts#relics) and [**Drugs**](/resou
 * Impressive Robes (1 Armor)
 * Fire Oil
 * Mirror
-* Spellbook (Mirrorwalk or Objectify)
-* Spellbook (Auditory Illusion or Visual Illusion)
+* Spellbook (_Mirrorwalk_ or _Objectify_)
+* Spellbook (_Auditory Illusion_ or _Visual Illusion_)
 
 ## 46. Knight
 * Longsword (d8)
@@ -211,15 +243,15 @@ See [**Relics**](/resources/d66-starting-loadouts#relics) and [**Drugs**](/resou
 * Urban Finery
 * Lute
 * Quill & Ink
-* Spellbook (Read Mind or Hypnotize)
+* Spellbook (_Read Mind_ or _Hypnotize_)
 
-## 52. Magic*User
 * Fizzled Staff (d8)
+## 52. Magic*User
 * Dagger (d6)
 * Spellbook (random spell)
 * Spellbook (random spell)
 * Ragged Clothing (hidden pockets)
-* Two Leycaps (consume to restore fatigue, WIL save vs addiction)
+* Two [Leycaps](https://cairnrpg.com/cairn-srd/#relics)
 
 ## 53. Minstrel
 * Sling (d4)
@@ -241,7 +273,7 @@ See [**Relics**](/resources/d66-starting-loadouts#relics) and [**Drugs**](/resou
 * Crowbill (d6)
 * Bark Husk (2 Armor)
 * Lantern & Oil
-* Slicksweet (drug, DEX save vs legs going rubbery for an hour)
+* [Slicksweet](/resources/d66-starting-loadouts/#slicksweet)
 * Exotic Incense
 * Persuasive Spores
 
@@ -262,16 +294,16 @@ See [**Relics**](/resources/d66-starting-loadouts#relics) and [**Drugs**](/resou
 * Weighted Net
 
 ## 62. Scribe (Mage)
-* Yew Wand (Pacify when smacked on knuckles)
+* [Yew Wand](/resources/d66-starting-loadouts/#yew-wand)
 * Scroll Case & Parchment
 * Quill & Ink
 * Hourglass
 * Lens
-* Spellbook (Befuddle or Identify Owner)
+* Spellbook (_Befuddle_ or _Identify Owner_)
 
 ## 63. Svirfneblin (Deep Gnome)
 * Adze (d6)
-* Lantern*Helmet (1 Armor, acts as lantern)
+* Lantern-Helmet (1 Armor, acts as lantern)
 * Pulley
 * Grease
 * Magnifying Glass
@@ -289,7 +321,7 @@ See [**Relics**](/resources/d66-starting-loadouts#relics) and [**Drugs**](/resou
 * Silvered Knife (d6)
 * Long Staff (d8, bulky)
 * Heavy Hooded Cloak (1 Armor)
-* Talisman (Wizard Mark when touching your quarry's prints)
+* [Talisman](/resources/d66-starting-loadouts/#talisman)
 * Wolfsbane
 * Thowing Bolas
 
@@ -298,37 +330,5 @@ See [**Relics**](/resources/d66-starting-loadouts#relics) and [**Drugs**](/resou
 * Sling (d4)
 * Panflute
 * Flask of Moonshine
-* Drake (drug, STR save vs "enjoying" violent psychosis for 1d4 hours)
+* [Drake](/resources/d66-starting-loadouts/#drake)
 * Spiked Boots
-
-## Relics
-##### Arachnid Crest
-Web when in full darkness.
-##### Eyestone
-Sense if placed in fresh water.
-##### Holy Symbol
-Ward once per day following a devout prayer.
-##### Talisman
-Wizard Mark when touching your quarry's prints.
-##### Unholy Symbol
-Hatred when bathed in blood.
-##### Unicorn Horn
-Blow to play a song which summons help. One use.
-##### Witchwood Seal
-Beast Form when in clear view of the sun or moon.
-##### Yew Wand
-Pacify when smacked on knuckles
-
-## Drugs
-##### **Brikabrak**
-WIL save vs confusion and speaking all thoughts aloud for 1d8 hours.
-##### Craze
-STR save vs feeling no pain, hunger, or weariness for 1d12 hours.
-##### Drake
-STR save vs “enjoying” violent psychosis for 1d4 hours.
-##### Leycap
-Consume to restore fatigue, WIL save vs addiction.
-##### Slicksweet
-DEX save vs legs going rubbery for an hour.
-##### Spangle
-WIL save vs zen disconnectedness for a full day.
