@@ -2,6 +2,8 @@
 layout: default
 title: More Spellbooks
 nav_order: 8
+nav_exclude: true
+search_exlude: true
 parent: Resources
 ---
 
