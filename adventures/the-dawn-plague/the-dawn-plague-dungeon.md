@@ -9,11 +9,17 @@ search_exclude: true
 
 # The Dawn Plague Dungeon
 
+## Throughout:
+- Letters carved above each doorway, indicating the room's function and spiritual value.
+- The smell of dried mud, decay and burnt-out candles.
+- The walls of most rooms are made of earthen clay.
+
 ## Upper Level
 ### Pedestal (**The Crown**)
-- A central hub; letters carved above each doorway.
-- Southern corridor is very long, muddy and blocked up. No light.
-
+- The stairs from the **Schul** descend into a central hub.
+- **South**: Mostly blocked up by brackish mud. No light pours through the cracks on top.  
+- **West**: To **Inner Chamber**, walls lined with words; a swirling maelstrom of letters.
+- **East**: To **Courtyard**, the smell of dead flowers; the sounds of rushing water.
 
 ### Inner chamber (**Understanding**)
 - Workshop

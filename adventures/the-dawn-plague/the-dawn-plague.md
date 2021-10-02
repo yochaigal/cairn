@@ -75,7 +75,7 @@ search_exclude: true
 ## 1. First Light
 * The oldest established homestead, now home to siblings who remember the **Dawn Plague**.
 * The elderly couple trade mostly in candles, some of which can ward undead.
-* A **Dybbuk **haunts the farm, but will not touch the elderly couple, as they are its children.
+* A **Dybbuk** haunts the farm, but will not touch the elderly couple, as they are its children.
 
 ## 2. Shorehead Ruins
 * A large, mostly worn-away temple that predates the arrival of the **Khelma** colonists.
