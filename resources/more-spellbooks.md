@@ -7,8 +7,6 @@ parent: Resources
 
 # More Spellbooks
 
-The following is based on Chris McDowall's [Want a Simplified D&D Spell List?](https://www.bastionland.com/2012/08/want-simplified-d-spell-list.html) with permission.
-
 |      |                                |                                                              |
 | ---- | ------------------------------ | ------------------------------------------------------------ |
 | 1    | **Acid Arrow**                 | 1d4 STR damage every minute until washed off.                |
@@ -62,7 +60,7 @@ The following is based on Chris McDowall's [Want a Simplified D&D Spell List?](h
 | 49   | **Detect Secret Doors**        | Any hidden doors within 60ft light up as if on fire.         |
 | 50   | **Detect Thoughts**      | You can hear target's surface thoughts, so long as you touch them. |
 | 51   | **Detect Undead** | You feel any undead within 60ft. WIL save to avoid detection by intelligent undead. |
-| 52   | **Dimension Door**             | Teleports you short distance.                                |
+| 52   | **Door Swap**  | A door you touch opens into another door you've stepped through before until it is shut again.  |
 | 53   | **Dimensional Anchor**         | Bars extradimensional movement.                              |
 | 54   | **Disguise Self**              | Changes your appearance.                                     |
 | 55   | **Dismissal**                  | WIL save or creature to returns to native plane.             |
@@ -219,3 +217,9 @@ The following is based on Chris McDowall's [Want a Simplified D&D Spell List?](h
 | 206  | **Web**                        | Fills 20-ft.-radius spread with sticky spiderwebs.           |
 | 207  | **Whispering Wind**            | Sends a short message 1 mile.                                |
 | 208  | **Wind Wall**                  | Deflects arrows, smaller creatures, and gases.               |
+
+
+### References
+- Chris McDowall's [Want a Simplified D&D Spell List?](https://www.bastionland.com/2012/08/want-simplified-d-spell-list.html)
+- Mike Evan's [The Concise Spell List for ANY Version of D&D or OSR](https://wrathofzombie.wordpress.com/2012/07/20/the-concise-spell-list-for-any-version-of-dd-or-osr/)
+- Goblin Punch's [GLOG Wizard](https://drive.google.com/file/d/0BxVHEMMjLlZ4UWYzX3o1UnEtd0U/view?resourcekey=0-ZqZEVaSwAMdy_U8B-AF0iA)
