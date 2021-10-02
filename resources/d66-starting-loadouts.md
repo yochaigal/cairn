@@ -244,9 +244,9 @@ WIL save vs zen disconnectedness for a full day.
 * Lute
 * Quill & Ink
 * Spellbook (_Read Mind_ or _Hypnotize_)
-
 * Fizzled Staff (d8)
-## 52. Magic*User
+
+## 52. Magic-User
 * Dagger (d6)
 * Spellbook (random spell)
 * Spellbook (random spell)
