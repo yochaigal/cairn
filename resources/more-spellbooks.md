@@ -12,17 +12,17 @@ The following is based on Chris McDowall's [Want a Simplified D&D Spell List?](h
 |      |                                |                                                              |
 | ---- | ------------------------------ | ------------------------------------------------------------ |
 | 1    | **Acid Arrow**                 | 1d4 STR damage every minute until washed off.                |
-| 2    | **Acid Splash**                | Orb deals d6 acid damage.                                    |
+| 2    | **Acid Splash**                | You throw a small orb that deals d6 acid _blast_ damage.     |
 | 3    | **Alarm**                      | Intruders set of an alarm audible only to you.               |
-| 4    | **Alter Self**                 | Assume form of a similar creature.                           |
-| 5    | **Animate Dead**               | Creates undead skeletons and zombies from corpses.           |
-| 6    | **Animate Rope**               | Makes a rope move at your command.                           |
+| 4    | **Alter Self**             | You assume the likeness of a similar creature you have seen.     |
+| 5   | **Animate Dead** | Creates 1d4 undead skeletons and zombies from corpses. WIL to control them. |
+| 6    | **Animate Rope**               | A rope-like objects moves at your command.                   |
 | 7    | **Arcane Eye**                 | Invisible floating eye you can see through and control.      |
-| 8    | **Arcane Lock**                | Magically locks a portal or chest.                           |
-| 9    | **Arcane Mark**                | Inscribes a personal rune (visible or invisible).            |
-| 10   | **Arcane Sight**               | Magical auras become visible to you.                         |
+| 8    | **Arcane Lock**                | Magically locks a door, portal or chest.                     |
+| 9    | **Arcane Mark** | Inscribes an invisible rune you can feel. Take 1d4 WIL damage if removed.   |
+| 10   | **Arcane Sight**               | Magical auras become visible to you for one hour.            |
 | 11   | **Baleful Polymorph**          | WIL save or target is transformed into a harmless animal.    |
-| 12   | **Bear's Endurance**           | Target has 2 Armor for the day.                              |
+| 12   | **Bear's Endurance** | Target does not take Fatigue from non-magical activities or become _deprived_ until their next rest. |
 | 13   | **Bestow Curse**               | Target automatically fails next their next save.             |
 | 14   | **Black Tentacles**            | Tentacles grapple all within 20 ft, STR save to break free.  |
 | 15   | **Blight**                     | Plants within eyesight wither and die.                       |
@@ -45,7 +45,7 @@ The following is based on Chris McDowall's [Want a Simplified D&D Spell List?](h
 | 32   | **Cone of Cold**               | A spray of cold air does d6 damage 20ft in one direction.    |
 | 33   | **Confusion**     | Target temporarily loses sense of place and time. WIL save to overcome.   |
 | 34   | **Contact Other Plane**        | Ask a single question of a random extraplanar entity.        |
-| 35   | **Contagion**      | Infects target with disease, which spreads until Spellbook is destroyed. |
+| 35   | **Contagion** | Infects target with disease, which spreads until the source of magic is destroyed. |
 | 36   | **Continual Flame**            | Turns any object into a permanent, heat-less torch.          |
 | 37   | **Control Water**              | Raise, lower or part any water you can see.                  |
 | 38   | **Crushing Despair**           | Attacks from targets you can see become _impaired_.          |
