@@ -22,14 +22,14 @@ The following is based on Chris McDowall's [Want a Simplified D&D Spell List?](h
 | 9    | **Arcane Mark**                | Inscribes a personal rune (visible or invisible).            |
 | 10   | **Arcane Sight**               | Magical auras become visible to you.                         |
 | 11   | **Baleful Polymorph**          | WIL save or target is transformed into a harmless animal.    |
-| 12   | **Bear's Endurance**           | Target has 2 Armor for the day.                             |
+| 12   | **Bear's Endurance**           | Target has 2 Armor for the day.                              |
 | 13   | **Bestow Curse**               | Target automatically fails next their next save.             |
 | 14   | **Black Tentacles**            | Tentacles grapple all within 20 ft, STR save to break free.  |
 | 15   | **Blight**                     | Plants within eyesight wither and die.                       |
 | 16   | **Blindness**                  | Anyone within eyesight must make a WIL save or be blinded.   |
 | 17   | **Blink**                      | Target randomly vanishes and reappears once at will.         |
 | 18   | **Blur**                       | Details about your person become obscured and unmemorable.   |
-| 19   | **Break Enchantment**          | Frees target from magical alterations of any kind.          |
+| 19   | **Break Enchantment**          | Frees target from magical alterations of any kind.           |
 | 20   | **Bull's Strength**            | Target's strength triples; unarmed attacks are _enhanced_.   |
 | 21   | **Burning Hands**      | Target's palms are lined with flames (d4 STR damage) for one minute. |
 | 22   | **Cat's Grace**                | Target becomes limber, lithe and as fast as quicksilver.     |
@@ -46,28 +46,28 @@ The following is based on Chris McDowall's [Want a Simplified D&D Spell List?](h
 | 33   | **Confusion**     | Target temporarily loses sense of place and time. WIL save to overcome.   |
 | 34   | **Contact Other Plane**        | Ask a single question of a random extraplanar entity.        |
 | 35   | **Contagion**      | Infects target with disease, which spreads until Spellbook is destroyed. |
-| 36   | **Continual Flame**            | Turns any object into a permanent, heat-less torch.           |
-| 37   | **Control Water**              | Raise, lower or part water.                                  |
-| 38   | **Crushing Despair**           | 20ft Area. WIL save or attacks are Impaired.                 |
-| 39   | **Dancing Lights**             | Creates torches or other lights.                             |
-| 40   | **Darkness**                   | 20-ft. radius of supernatural shadow.                        |
-| 41   | **Darkvision**                 | See 60 ft. in total darkness.                                |
-| 42   | **Daylight**                   | 60-ft. radius of bright light.                               |
-| 43   | **Daze**                       | A non-hostile humanoid is dazed for a short moment, lost in a daydream. |
-| 44   | **Deafness**                   | All in the blast are deafened.                               |
-| 45   | **Deep Slumber**               | WIL save or sleep until the spell is broken.                 |
-| 46   | **Detect Magic**               | Detects spells and magic items within 60 ft.                 |
-| 47   | **Detect Poison**              | Detects poison in one creature or small object.              |
-| 48   | **Detect Scrying**             | Alerts you of magical eavesdropping.                         |
-| 49   | **Detect Secret Doors**        | Reveals hidden doors within 60 ft.                           |
-| 50   | **Detect Thoughts**            | WIL save or else allows "listening" to surface thoughts.     |
-| 51   | **Detect Undead**              | Reveals undead within 60 ft.                                 |
+| 36   | **Continual Flame**            | Turns any object into a permanent, heat-less torch.          |
+| 37   | **Control Water**              | Raise, lower or part any water you can see.                  |
+| 38   | **Crushing Despair**           | Attacks from targets you can see become _impaired_.          |
+| 39   | **Dancing Lights**             | You control a dazzling display of light and color.           |
+| 40   | **Darkness**                | You create a bubble supernatural shadow within a 20ft radius.   |
+| 41   | **Darkvision**                 | Target can see 60 ft. in total darkness.                     |
+| 42   | **Daylight**                   | You create a halo of bright light in a 60-ft. radius.        |
+| 43   | **Daze**            | Targets you can see become dazed for a moment, lost in daydream.        |
+| 44   | **Deafness**                   | Anyone within earshot is deafened.                           |
+| 45   | **Deep Slumber**               | Target falls asleep for 1d4 hours.                           |
+| 46   | **Detect Magic**               | You can feel any magic within a 60ft radius.                 |
+| 47   | **Detect Poison**              | Detects poison in any creature or object within 30ft.        |
+| 48   | **Detect Scrying**             | For 24 hours you become aware of any magical  eavesdropping. |
+| 49   | **Detect Secret Doors**        | Any hidden doors within 60ft light up as if on fire.         |
+| 50   | **Detect Thoughts**      | You can hear target's surface thoughts, so long as you touch them. |
+| 51   | **Detect Undead** | You feel any undead within 60ft. WIL save to avoid detection by intelligent undead. |
 | 52   | **Dimension Door**             | Teleports you short distance.                                |
-| 53   | **Dimensional Anchor**         | Bars extradimensional movement.                            |
+| 53   | **Dimensional Anchor**         | Bars extradimensional movement.                              |
 | 54   | **Disguise Self**              | Changes your appearance.                                     |
 | 55   | **Dismissal**                  | WIL save or creature to returns to native plane.             |
 | 56   | **Displacement**               | Ignore any one attack.                                       |
-| 57   | **Disrupt Undead**             | Deals d6 damage to one undead, ignoring armour and resistances. |
+| 57   | **Disrupt Undead**          | Deals d6 damage to one undead, ignoring armour and resistances. |
 | 58   | **Dominate Person**            | WIL save or humanoid is controlled telepathically.           |
 | 59   | **Dream**                      | Sends message to anyone sleeping.                            |
 | 60   | **Endure Elements**            | Exist comfortably in hot or cold environments.               |
