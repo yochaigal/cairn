@@ -29,7 +29,7 @@ The following is based on Chris McDowall's [Want a Simplified D&D Spell List?](h
 | 16   | **Blindness**                  | Anyone within eyesight must make a WIL save or be blinded.   |
 | 17   | **Blink**                      | Target randomly vanishes and reappears once at will.         |
 | 18   | **Blur**                       | Details about your person become obscured and unmemorable.   |
-| 19   | **Break Enchantment**          | Frees target from magical alterations of any kind.           |
+| 19   | **Break Enchantment** | Frees target from magical alterations of any kind.                    |
 | 20   | **Bull's Strength**            | Target's strength triples; unarmed attacks are _enhanced_.   |
 | 21   | **Burning Hands**      | Target's palms are lined with flames (d4 STR damage) for one minute. |
 | 22   | **Cat's Grace**                | Target becomes limber, lithe and as fast as quicksilver.     |
@@ -151,7 +151,7 @@ The following is based on Chris McDowall's [Want a Simplified D&D Spell List?](h
 | 138  | **Planar Binding**             | Traps extraplanar creatures that fail a WIL save until they perform a task. |
 | 139  | **Planar Gate**                | Open a gate to another reality that works in both directions. |
 | 140  | **Polymorph**                  | Gives one willing target a new form.                        |
-| 141  | **Possession**                 | WIL save or target has soul pushed out and caster possesses their body. Their soul returns when the caster leaves the body, but if the body is slain the soul departs and the caster's soul returns to their body. |
+| 141  | **Possession**  | WIL save or target has soul pushed out and caster possesses their body. Their soul returns when the caster leaves the body, but if the body is slain the soul departs and the caster's soul returns to their body. |
 | 142  | **Prestidigitation**           | Performs minor tricks.                                       |
 | 143  | **Protection from Arrows**     | Target immune to mundane ranged attacks.                    |
 | 144  | **Protection**                 | Ignore the next instance of harm from a specific source.     |
