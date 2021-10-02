@@ -22,14 +22,14 @@ The following is based on Chris McDowall's [Want a Simplified D&D Spell List?](h
 | 9    | **Arcane Mark**                | Inscribes a personal rune (visible or invisible).            |
 | 10   | **Arcane Sight**               | Magical auras become visible to you.                         |
 | 11   | **Baleful Polymorph**          | WIL save or target is transformed into a harmless animal.    |
-| 12   | **Bear's Endurance**           | Subject has 2 Armor for the day.                             |
+| 12   | **Bear's Endurance**           | Target has 2 Armor for the day.                             |
 | 13   | **Bestow Curse**               | Target automatically fails next their next save.             |
 | 14   | **Black Tentacles**            | Tentacles grapple all within 20 ft, STR save to break free.  |
 | 15   | **Blight**                     | Plants within eyesight wither and die.                       |
 | 16   | **Blindness**                  | Anyone within eyesight must make a WIL save or be blinded.   |
 | 17   | **Blink**                      | Target randomly vanishes and reappears once at will.         |
 | 18   | **Blur**                       | Details about your person become obscured and unmemorable.   |
-| 19   | **Break Enchantment**          | Frees subject from magical alterations of any kind.          |
+| 19   | **Break Enchantment**          | Frees target from magical alterations of any kind.          |
 | 20   | **Bull's Strength**            | Target's strength triples; unarmed attacks are _enhanced_.   |
 | 21   | **Burning Hands**      | Target's palms are lined with flames (d4 STR damage) for one minute. |
 | 22   | **Cat's Grace**                | Target becomes limber, lithe and as fast as quicksilver.     |
@@ -37,16 +37,16 @@ The following is based on Chris McDowall's [Want a Simplified D&D Spell List?](h
 | 24   | **Charm Monster**              | Target monster makes a WIL save or treats you as an ally.    |
 | 25   | **Charm Person**               | Target becomes a friend until out of sight.                  |
 | 26   | **Chill Touch**                | Target loses d4 STR and is _deprived_.                       |
-| 27   | **Clairvoyance**               | Hear or see at a distance any person you have met.           |
-| 28   | **Cloudkill**                  | You can move the cloud, causing d6 STR loss to any within.   |
-| 29   | **Color Spray**                | WIL save or all actions are Impaired until Short Rest.       |
-| 30   | **Command Undead**             | Undead creature must pass WIL save or obeys your command.    |
+| 27   | **Clairvoyance**               | You can see or hear (but not both) any person you have met.  |
+| 28   | **Cloudkill**              | You summon a poisonous cloud (d6 STR damage) you can control.    |
+| 29   | **Color Spray**                | Target must WIL save or their attacks become _impaired_.     |
+| 30   | **Command Undead**  | Undead creatures obey your command. Intelligent undead make a WIL save. |
 | 31   | **Comprehend Languages**       | You understand all spoken and written languages.             |
-| 32   | **Cone of Cold**               | d12 cold damage.                                             |
-| 33   | **Confusion**                  | WIL save or subjects behave oddly.                           |
-| 34   | **Contact Other Plane**        | Lets you ask question of extraplanar entity.                 |
-| 35   | **Contagion**                  | Infects subject with horrible disease.                       |
-| 36   | **Continual Flame**            | Makes a permanent, heatless torch.                           |
+| 32   | **Cone of Cold**               | A spray of cold air does d6 damage 20ft in one direction.    |
+| 33   | **Confusion**     | Target temporarily loses sense of place and time. WIL save to overcome.   |
+| 34   | **Contact Other Plane**        | Ask a single question of a random extraplanar entity.        |
+| 35   | **Contagion**      | Infects target with disease, which spreads until Spellbook is destroyed. |
+| 36   | **Continual Flame**            | Turns any object into a permanent, heat-less torch.           |
 | 37   | **Control Water**              | Raise, lower or part water.                                  |
 | 38   | **Crushing Despair**           | 20ft Area. WIL save or attacks are Impaired.                 |
 | 39   | **Dancing Lights**             | Creates torches or other lights.                             |
@@ -78,7 +78,7 @@ The following is based on Chris McDowall's [Want a Simplified D&D Spell List?](h
 | 65   | **Fabricate**                  | Transforms raw materials into finished items.                |
 | 66   | **False Life**                 | Regain any lost HP, but they vanish again after a minute.    |
 | 67   | **False Vision**               | Fools scrying with an illusion.                              |
-| 68   | **Fear**                       | Subjects within cone must pass a WIL save or flee.           |
+| 68   | **Fear**                       | Targets within cone must pass a WIL save or flee.           |
 | 69   | **Feather Fall**               | Objects or creatures fall slowly.                            |
 | 70   | **Feeblemind**                 | WIL save or drop to WIL 0.                                   |
 | 71   | **Fire Shield**                | Creatures attacking you take d6 fire damage; you're protected from heat and cold. |
@@ -88,9 +88,9 @@ The following is based on Chris McDowall's [Want a Simplified D&D Spell List?](h
 | 75   | **Flaming Sphere**             | Creates rolling ball of fire, d10 damage.                    |
 | 76   | **Flare**                      | Sends up a flare that can be seen for some distance.         |
 | 77   | **Floating Disk**              | Creates 3-ft.-diameter horizontal disk that holds 100 lb.    |
-| 78   | **Fly**                        | Subject flies.                                               |
+| 78   | **Fly**                        | Target flies.                                               |
 | 79   | **Fog Cloud**                  | Fog obscures vision over a large area.                       |
-| 80   | **Gaseous Form**               | Subject becomes insubstantial and can fly slowly.            |
+| 80   | **Gaseous Form**               | Target becomes insubstantial and can fly slowly.            |
 | 81   | **Gentle Repose**              | Preserves one corpse.                                        |
 | 82   | **Ghost Sound**                | Figment sounds.                                              |
 | 83   | **Ghoul Touch**                | DEX save or Paralyzed, exuding stench that makes those nearby sickened. |
@@ -112,11 +112,11 @@ The following is based on Chris McDowall's [Want a Simplified D&D Spell List?](h
 | 99   | **Illusory Wall**              | Wall, floor, or ceiling looks real, but anything can pass through. |
 | 100  | **Interposing Hand**           | Hand blocks 30hp of damage from one opponent.                |
 | 101  | **Invisibility Sphere**        | Makes everyone within 10 ft. invisible.                      |
-| 102  | **Invisibility**               | Subject is invisible until it attacks.                       |
-| 103  | **Jump**                       | Subject can jump twice as far and high.                      |
+| 102  | **Invisibility**               | Target is invisible until it attacks.                       |
+| 103  | **Jump**                       | Target can jump twice as far and high.                      |
 | 104  | **Keen Edge**                  | Next attack with this weapon causes direct STR loss instead of damage. |
 | 105  | **Knock**                      | Opens locked or magically sealed door.                       |
-| 106  | **Levitate**                   | Subject moves up and down at your direction.                 |
+| 106  | **Levitate**                   | Target moves up and down at your direction.                 |
 | 107  | **Light**                      | Object shines like a torch.                                  |
 | 108  | **Lightning Bolt**             | d12 Damage to all in a line.                                 |
 | 109  | **Locate Creature**            | Indicates direction to familiar creature.                    |
@@ -139,7 +139,7 @@ The following is based on Chris McDowall's [Want a Simplified D&D Spell List?](h
 | 126  | **Misdirection**               | Misleads divinations on one creature or object.              |
 | 127  | **Mount**                      | Summons riding horse.                                        |
 | 128  | **Nightmare**                  | WIL save or Target wakes with no HP and will not recover them until they have a full rest without Nightmares. |
-| 129  | **Nondetection**               | Hides subject from divination, scrying.                      |
+| 129  | **Nondetection**               | Hides target from divination, scrying.                      |
 | 130  | **Obscure Object**             | Masks object against scrying.                                |
 | 131  | **Obscuring Mist**             | Fog surrounds you. Ranged attacks are Impaired.              |
 | 132  | **Open/Close**                 | Opens or closes small or light things.                       |
@@ -150,25 +150,25 @@ The following is based on Chris McDowall's [Want a Simplified D&D Spell List?](h
 | 137  | **Phantom Trap**               | Makes item seem trapped.                                     |
 | 138  | **Planar Binding**             | Traps extraplanar creatures that fail a WIL save until they perform a task. |
 | 139  | **Planar Gate**                | Open a gate to another reality that works in both directions. |
-| 140  | **Polymorph**                  | Gives one willing subject a new form.                        |
+| 140  | **Polymorph**                  | Gives one willing target a new form.                        |
 | 141  | **Possession**                 | WIL save or target has soul pushed out and caster possesses their body. Their soul returns when the caster leaves the body, but if the body is slain the soul departs and the caster's soul returns to their body. |
 | 142  | **Prestidigitation**           | Performs minor tricks.                                       |
-| 143  | **Protection from Arrows**     | Subject immune to mundane ranged attacks.                    |
+| 143  | **Protection from Arrows**     | Target immune to mundane ranged attacks.                    |
 | 144  | **Protection**                 | Ignore the next instance of harm from a specific source.     |
 | 145  | **Prying Eyes**                | 1d6 floating eyes scout for you.                             |
 | 146  | **Pyrotechnics**               | Turns fire into blinding light or choking smoke.             |
-| 147  | **Rage**                       | Subject's attacks are Enhanced, but so are attacks against them. |
+| 147  | **Rage**                       | Target's attacks are Enhanced, but so are attacks against them. |
 | 148  | **Rainbow Pattern**            | Lights fascinate creatures that fail WIL save.               |
 | 149  | **Ray of Enfeeblement**        | DEX save or all attacks Impaired until Long Rest.            |
 | 150  | **Ray of Frost**               | Ray deals d6 cold damage.                                    |
 | 151  | **Reduce Person**              | Humanoid creature halves in size.                            |
 | 152  | **Remove Curse**               | Frees object or person from curse.                           |
-| 153  | **Resilient Sphere**           | Force globe protects but traps one subject. DEX save to avoid. |
+| 153  | **Resilient Sphere**           | Force globe protects but traps one target. DEX save to avoid. |
 | 154  | **Resist Energy**              | Immunity to a specific type of energy attack until your next Short Rest. |
-| 155  | **Resistance**                 | Subject ignores normally annoying affects such as sweltering heat, itchy skin diseases, or a sandstorm. |
+| 155  | **Resistance**                 | Target ignores normally annoying affects such as sweltering heat, itchy skin diseases, or a sandstorm. |
 | 156  | **Rope Trick**                 | As many as eight creatures hide in extradimensional space.   |
 | 157  | **Scorching Ray**              | Deals d10 fire damage.                                       |
-| 158  | **Scrying**                    | Spies on subject from a distance.                            |
+| 158  | **Scrying**                    | Spies on target from a distance.                            |
 | 159  | **Secret Chest**               | Hides expensive chest on Ethereal Plane; you retrieve it at will. |
 | 160  | **Secret Page**                | Changes one page to hide its real content.                   |
 | 161  | **Secure Shelter**             | Creates sturdy cottage.                                      |
@@ -189,8 +189,8 @@ The following is based on Chris McDowall's [Want a Simplified D&D Spell List?](h
 | 176  | **Spider Climb**               | Walk on walls and ceilings.                                  |
 | 177  | **Stinking Cloud**             | Nauseating vapors, WIL save or vomit.                        |
 | 178  | **Stone Shape**                | Sculpts stone into any shape.                                |
-| 179  | **Stoneskin**                  | Subject gains Armour 3 but running and swimming are impossible. |
-| 180  | **Suggestion**                 | Compels subject to follow stated course of action.           |
+| 179  | **Stoneskin**                  | Target gains Armour 3 but running and swimming are impossible. |
+| 180  | **Suggestion**                 | Compels target to follow stated course of action.           |
 | 181  | **Summon Beast**               | Calls an intelligent extraplanar beast. It holds no loyalty to you. |
 | 182  | **Summon Being**               | Calls any extraplanar being to our plane. It holds no loyalty to you. |
 | 183  | **Summon Creature**            | Calls an unintelligent extraplanar creature up to the size of a small dog. It holds no loyalty to you. |
@@ -206,7 +206,7 @@ The following is based on Chris McDowall's [Want a Simplified D&D Spell List?](h
 | 193  | **Touch of Fatigue**           | Target loses 1 STR.                                          |
 | 194  | **Touch of Idiocy**            | Lose d4 WIL.                                                 |
 | 195  | **Transmute Earth**            | Transforms mud to rock or rock to mud.                       |
-| 196  | **True Invisibility**          | Subject can attack and stay invisible.                       |
+| 196  | **True Invisibility**          | Target can attack and stay invisible.                       |
 | 197  | **True Strike**                | Your next attack automatically provokes a save to avoid Critical Damage. |
 | 198  | **Unseen Servant**             | Invisible force obeys your commands.                         |
 | 199  | **Vampiric Touch**             | Target loses d6 STR, you restore all lost hp.                |
@@ -215,7 +215,7 @@ The following is based on Chris McDowall's [Want a Simplified D&D Spell List?](h
 | 202  | **Wall of Force**              | Wall is immune to damage.                                    |
 | 203  | **Wall of Ice**                | Creates ice wall 15hp, Armour 3, or hemisphere can trap creatures inside unless they pass DEX save. |
 | 204  | **Wall of Stone**              | Creates a stone wall that can be shaped.                     |
-| 205  | **Water Breathing**            | Subjects can breathe underwater.                             |
+| 205  | **Water Breathing**            | Targets can breathe underwater.                             |
 | 206  | **Web**                        | Fills 20-ft.-radius spread with sticky spiderwebs.           |
 | 207  | **Whispering Wind**            | Sends a short message 1 mile.                                |
 | 208  | **Wind Wall**                  | Deflects arrows, smaller creatures, and gases.               |
