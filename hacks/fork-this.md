@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Fork This Repo
-parent: Resources
-nav_order: 7
+title: Fork This
+parent: Hacks
+nav_order: 10
 ---
 
-# Fork this Repo
+# Fork This!
 ---
 
 1. Create a [Github](https://github.com) account.
