@@ -17,3 +17,4 @@ nav_order: 1
 - [**Almaia**](https://1d6gnolls.itch.io/almaia)
 - [**Modular Rules & Procedures for Cairn**](https://adamhensley.itch.io/modular-rules-and-procedures-for-cairn) (also viewable on this [site](/hacks/modular-rules-procedures))
 - [**Piedmont: Songs of the Hills**](https://lionheart-clan.itch.io/piedmont-songs-of-the-hills)
+- [**Thálassa**](https://zeruhur.space/thalassa/Th%C3%A1lassa.html)
