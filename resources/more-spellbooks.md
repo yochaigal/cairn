@@ -48,7 +48,7 @@ If the [spells](/cairn-srd#100-spells) don't exactly fit what you're looking for
 | 33   | **Confusion**     | Target temporarily loses sense of place and time. WIL save to overcome.   |
 | 34   | **Contact Other Plane**        | Ask a single question of a random extraplanar entity.        |
 | 35   | **Contagion** | Infects target with disease, which spreads until the source of magic is destroyed. |
-| 36   | **Continual Flame**            | Turns any object into a permanent, heat-less torch.          |
+| 36   | **Continual Flame**            | Turns any object into a permanent, heatless torch.          |
 | 37   | **Control Water**              | Raise, lower or part any water you can see.                  |
 | 38   | **Crushing Despair**           | Attacks from targets you can see become _impaired_.          |
 | 39   | **Dancing Lights**             | You control a dazzling display of light and color.           |
@@ -69,18 +69,18 @@ If the [spells](/cairn-srd#100-spells) don't exactly fit what you're looking for
 | 54   | **Disguise Self**              | Changes your appearance.                                     |
 | 55   | **Dismissal**                  | WIL save or creature to returns to native plane.             |
 | 56   | **Displacement**               | Ignore any one attack.                                       |
-| 57   | **Disrupt Undead**           | Deals d6 damage to one undead, ignoring armor and resistances. |
+| 57   | **Disrupt Undead**           | Deals 4 STR damage to one undead, ignoring armor and resistances. |
 | 58   | **Dominate Person**            | Target humanoid must make a WIL save or is controlled telepathically. |
 | 59   | **Dream**                      | Sends a message to anyone currently asleep.                  |
 | 60   | **Endure Elements**            | Target can exist comfortably in hot or cold environments.    |
-| 61   | **Enlarge Person**             | Humanoid creature doubles in size.                           |
+| 61   | **Enlarge Person**             | Target humanoid doubles in size.                             |
 | 62   | **Erase**                      | Mundane or magical writing vanishes.                         |
-| 63   | **Expeditious Retreat**        | Run twice as fast.                                           |
+| 63   | **Expeditious Retreat**        | Target can run twice as fast.                                |
 | 64   | **Explosive Runes**            | Deals d12 damage when read.                                  |
 | 65   | **Fabricate**                  | Transforms raw materials into finished items.                |
-| 66   | **False Life**                 | Regain any lost HP, but they vanish again after a minute.    |
+| 66   | **False Life**            | Target regains any lost STR, but lose it again after a minute.    |
 | 67   | **False Vision**               | Fools scrying with an illusion.                              |
-| 68   | **Fear**                       | Targets within cone must pass a WIL save or flee.           |
+| 68   | **Fear**                       | Targets within cone must pass a WIL save or flee.            |
 | 69   | **Feather Fall**               | Objects or creatures fall slowly.                            |
 | 70   | **Feeblemind**                 | WIL save or drop to WIL 0.                                   |
 | 71   | **Fire Shield**                | Creatures attacking you take d6 fire damage; you're protected from heat and cold. |
