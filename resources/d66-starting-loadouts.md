@@ -10,40 +10,7 @@ _Originally by [Jim Parkin](https://classless-kobolds.itch.io/d66-starting-loado
 
 ### Instructions
 Roll 2d6. The ones place is the first digit and the tens place is the second digit.   
-Some packages may have **Relics** or **Drugs** (see table).
-
-## Relics
-##### Arachnid Crest
-Web when in full darkness.
-##### Eyestone
-Sense if placed in fresh water.
-##### Holy Symbol
-Ward once per day following a devout prayer.
-##### Talisman
-Wizard Mark when touching your quarry's prints.
-##### Unholy Symbol
-Hatred when bathed in blood.
-##### Unicorn Horn
-Blow to play a song which summons help. One use.
-##### Witchwood Seal
-Beast Form when in clear view of the sun or moon.
-##### Yew Wand
-Pacify when smacked on knuckles
-
-## Drugs
-##### **Brikabrak**
-WIL save vs confusion and speaking all thoughts aloud for 1d8 hours.
-##### Craze
-STR save vs feeling no pain, hunger, or weariness for 1d12 hours.
-##### Drake
-STR save vs “enjoying” violent psychosis for 1d4 hours.
-##### Leycap
-Consume to restore fatigue, WIL save vs addiction.
-##### Slicksweet
-DEX save vs legs going rubbery for an hour.
-##### Spangle
-WIL save vs zen disconnectedness for a full day.
-
+Some packages may have [**Relics**](/resources/d66-starting-loadouts#relics) or [**Drugs**](/resources/d66-starting-loadouts#drugs) at the bottom of the page.
 
 ## 11. Acrobat
 * Balanced Pole (d8, bulky)
@@ -332,3 +299,35 @@ WIL save vs zen disconnectedness for a full day.
 * Flask of Moonshine
 * [Drake](/resources/d66-starting-loadouts/#drake)
 * Spiked Boots
+
+## Relics
+##### Arachnid Crest
+_Web_ when in full darkness.
+##### Eyestone
+_Sense_ if placed in fresh water.
+##### Holy Symbol
+_Ward_ once per day following a devout prayer.
+##### Talisman
+_Wizard Mark_ when touching your quarry's prints.
+##### Unholy Symbol
+_Hatred_ when bathed in blood.
+##### Unicorn Horn
+Blow to play a song which summons help. One use.
+##### Witchwood Seal
+_Beast Form_ when in clear view of the sun or moon.
+##### Yew Wand
+_Pacify_ when smacked on knuckles
+
+## Drugs
+##### **Brikabrak**
+WIL save vs confusion and speaking all thoughts aloud for 1d8 hours.
+##### Craze
+STR save vs feeling no pain, hunger, or weariness for 1d12 hours.
+##### Drake
+STR save vs “enjoying” violent psychosis for 1d4 hours.
+##### Leycap
+Consume to restore fatigue, WIL save vs addiction.
+##### Slicksweet
+DEX save vs legs going rubbery for an hour.
+##### Spangle
+WIL save vs zen disconnectedness for a full day.
