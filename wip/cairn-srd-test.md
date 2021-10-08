@@ -843,7 +843,7 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 [back to index](#index)
 <p></p>
 
-<h2>100 Spells</h2>
+## 100 Spells
 <table>
 <thead>
 <tr>
