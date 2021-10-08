@@ -9,6 +9,8 @@ parent: Resources
 
 # More Spellbooks
 
+If the [spells](/cairn-srd#100-spells) don't exactly fit what you're looking for, you might find it here.
+
 |      |                                |                                                              |
 | ---- | ------------------------------ | ------------------------------------------------------------ |
 | 1    | **Acid Arrow**                 | 1d4 STR damage every minute until washed off.                |
@@ -61,16 +63,16 @@ parent: Resources
 | 48   | **Detect Scrying**             | For 24 hours you become aware of any magical  eavesdropping. |
 | 49   | **Detect Secret Doors**        | Any hidden doors within 60ft light up as if on fire.         |
 | 50   | **Detect Thoughts**      | You can hear target's surface thoughts, so long as you touch them. |
-| 51   | **Detect Undead** | You feel any undead within 60ft. WIL save to avoid detection by intelligent undead. |
-| 52   | **Door Swap**  | A door you touch opens into another door you've stepped through before until it is shut again.  |
+| 51   | **Detect Undead** | You feel any undead within 60ft. WIL save to avoid detection by intelligent undead.|
+| 52   | **Door Swap**  | A door you touch opens into another door you've stepped through before until it is shut again.|
 | 53   | **Dimensional Anchor**         | Bars extradimensional movement.                              |
 | 54   | **Disguise Self**              | Changes your appearance.                                     |
 | 55   | **Dismissal**                  | WIL save or creature to returns to native plane.             |
 | 56   | **Displacement**               | Ignore any one attack.                                       |
-| 57   | **Disrupt Undead**          | Deals d6 damage to one undead, ignoring armour and resistances. |
-| 58   | **Dominate Person**            | WIL save or humanoid is controlled telepathically.           |
-| 59   | **Dream**                      | Sends message to anyone sleeping.                            |
-| 60   | **Endure Elements**            | Exist comfortably in hot or cold environments.               |
+| 57   | **Disrupt Undead**           | Deals d6 damage to one undead, ignoring armor and resistances. |
+| 58   | **Dominate Person**            | Target humanoid must make a WIL save or is controlled telepathically. |
+| 59   | **Dream**                      | Sends a message to anyone currently asleep.                  |
+| 60   | **Endure Elements**            | Target can exist comfortably in hot or cold environments.    |
 | 61   | **Enlarge Person**             | Humanoid creature doubles in size.                           |
 | 62   | **Erase**                      | Mundane or magical writing vanishes.                         |
 | 63   | **Expeditious Retreat**        | Run twice as fast.                                           |
@@ -126,7 +128,7 @@ parent: Resources
 | 113  | **Mage's Private Sanctum**     | Prevents anyone from viewing or scrying an area.             |
 | 114  | **Magic Aura**                 | Alters object's magic aura.                                  |
 | 115  | **Magic Circle**               | Prevents an extraplanar being from entering or leaving unless they pass a WIL save. |
-| 116  | **Magic Missile**              | d6 damage, goes around corners, ignores Armour.              |
+| 116  | **Magic Missile**              | d6 damage, goes around corners, ignores armor.              |
 | 117  | **Magic Mouth**                | Speaks once when triggered.                                  |
 | 118  | **Magic Weapon**               | Make a weapon that ignores all supernatural resistances.     |
 | 119  | **Major Creation**             | Create an item of stone and metal.                           |
@@ -175,8 +177,8 @@ parent: Resources
 | 162  | **See Invisibility**           | Reveals invisible creatures or objects.                      |
 | 163  | **Sending**                    | Delivers short message anywhere, instantly.                  |
 | 164  | **Sepia Snake Sigil**          | Creates text symbol that immobilizes reader until WIL save.  |
-| 165  | **Shatter**                    | Sonic vibration causes 1d6 STR loss to objects or crystalline creatures, ignoring armour. |
-| 166  | **Shield**                     | Invisible disc grants Armour 1.                              |
+| 165  | **Shatter**                    | Sonic vibration causes 1d6 STR loss to objects or crystalline creatures, ignoring armor. |
+| 166  | **Shield**                     | Invisible disc grants armor 1.                              |
 | 167  | **Shocking Grasp**             | d8 electricity damage.                                       |
 | 168  | **Shout**                      | All within cone deafened for one round and take d12 sonic damage. |
 | 169  | **Shrink Item**                | Object shrinks to one-sixteenth size.                        |
@@ -189,7 +191,7 @@ parent: Resources
 | 176  | **Spider Climb**               | Walk on walls and ceilings.                                  |
 | 177  | **Stinking Cloud**             | Nauseating vapors, WIL save or vomit.                        |
 | 178  | **Stone Shape**                | Sculpts stone into any shape.                                |
-| 179  | **Stoneskin**                  | Target gains Armour 3 but running and swimming are impossible. |
+| 179  | **Stoneskin**                  | Target gains armor 3 but running and swimming are impossible. |
 | 180  | **Suggestion**                 | Compels target to follow stated course of action.           |
 | 181  | **Summon Beast**               | Calls an intelligent extraplanar beast. It holds no loyalty to you. |
 | 182  | **Summon Being**               | Calls any extraplanar being to our plane. It holds no loyalty to you. |
@@ -213,7 +215,7 @@ parent: Resources
 | 200  | **Ventriloquism**              | Throws voice.                                                |
 | 201  | **Wall of Fire**               | Passing through wall causes d12 damage.                      |
 | 202  | **Wall of Force**              | Wall is immune to damage.                                    |
-| 203  | **Wall of Ice**                | Creates ice wall 15hp, Armour 3, or hemisphere can trap creatures inside unless they pass DEX save. |
+| 203  | **Wall of Ice**                | Creates ice wall 15hp, armor 3, or hemisphere can trap creatures inside unless they pass DEX save. |
 | 204  | **Wall of Stone**              | Creates a stone wall that can be shaped.                     |
 | 205  | **Water Breathing**            | Targets can breathe underwater.                             |
 | 206  | **Web**                        | Fills 20-ft.-radius spread with sticky spiderwebs.           |
@@ -225,3 +227,5 @@ parent: Resources
 - Chris McDowall's [Want a Simplified D&D Spell List?](https://www.bastionland.com/2012/08/want-simplified-d-spell-list.html)
 - Mike Evan's [The Concise Spell List for ANY Version of D&D or OSR](https://wrathofzombie.wordpress.com/2012/07/20/the-concise-spell-list-for-any-version-of-dd-or-osr/)
 - Goblin Punch's [GLOG Wizard](https://drive.google.com/file/d/0BxVHEMMjLlZ4UWYzX3o1UnEtd0U/view?resourcekey=0-ZqZEVaSwAMdy_U8B-AF0iA)
+- [Wizards of the Coast SRD](https://dnd.wizards.com/articles/features/systems-reference-document-srd)
+- [Wizards of the Coast 5.1 OGL](http://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf)
