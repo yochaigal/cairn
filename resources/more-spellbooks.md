@@ -13,7 +13,7 @@ If the [spells](/cairn-srd#100-spells) don't exactly fit what you're looking for
 
 |      |                                |                                                              |
 | ---- | ------------------------------ | ------------------------------------------------------------ |
-| 1    | **Acid Arrow**                 | 1d4 STR damage every minute until washed off.                |
+| 1    | **Acid Arrow**                 | 1d4+1 STR damage every minute until washed off.                |
 | 2    | **Acid Splash**                | You throw a small orb that deals d6 acid _blast_ damage.     |
 | 3    | **Alarm**                      | Intruders set of an alarm audible only to you.               |
 | 4    | **Alter Self**             | You assume the likeness of a similar creature you have seen.     |
@@ -33,12 +33,12 @@ If the [spells](/cairn-srd#100-spells) don't exactly fit what you're looking for
 | 18   | **Blur**                       | Details about your person become obscured and unmemorable.   |
 | 19   | **Break Enchantment** | Frees target from magical alterations of any kind.                    |
 | 20   | **Bull's Strength**            | Target's strength triples; unarmed attacks are _enhanced_.   |
-| 21   | **Burning Hands**      | Target's palms are lined with flames (d4 STR damage) for one minute. |
+| 21   | **Burning Hands**      | Target's palms are lined with flames (1d4+1 STR damage) for one minute. |
 | 22   | **Cat's Grace**                | Target becomes limber, lithe and as fast as quicksilver.     |
 | 23   | **Cause Fear**                 | Target makes a WIL save or flees.                            |
 | 24   | **Charm Monster**              | Target monster makes a WIL save or treats you as an ally.    |
 | 25   | **Charm Person**               | Target becomes a friend until out of sight.                  |
-| 26   | **Chill Touch**                | Target loses d4 STR and is _deprived_.                       |
+| 26   | **Chill Touch**                | Target loses 1d4+1 STR and is _deprived_.                       |
 | 27   | **Clairvoyance**               | You can see or hear (but not both) any person you have met.  |
 | 28   | **Cloudkill**              | You summon a poisonous cloud (d6 STR damage) you can control.    |
 | 29   | **Color Spray**                | Target must WIL save or their attacks become _impaired_.     |
@@ -69,14 +69,14 @@ If the [spells](/cairn-srd#100-spells) don't exactly fit what you're looking for
 | 54   | **Disguise Self**              | Changes your appearance.                                     |
 | 55   | **Dismissal**                  | WIL save or creature to returns to native plane.             |
 | 56   | **Displacement**               | Ignore any one attack.                                       |
-| 57   | **Disrupt Undead**           | Deals 4 STR damage to one undead, ignoring armor and resistances. |
+| 57   | **Disrupt Undead**           | Deals 1d4+2 STR damage to one undead, ignoring armor and resistances. |
 | 58   | **Dominate Person**            | Target humanoid must make a WIL save or is controlled telepathically. |
 | 59   | **Dream**                      | Sends a message to anyone currently asleep.                  |
 | 60   | **Endure Elements**            | Target can exist comfortably in hot or cold environments.    |
 | 61   | **Enlarge Person**             | Target humanoid doubles in size.                             |
-| 62   | **Erase**                      | Mundane or magical writing vanishes.                         |
-| 63   | **Expeditious Retreat**        | Target can run twice as fast.                                |
-| 64   | **Explosive Runes**            | Deals d12 damage when read.                                  |
+| 62   | **Erase**                      | Mundane or magical writing vanishes at your touch.           |
+| 63   | **Expeditious Retreat**        | You and and anyone touching you can flee to safety at double speed. |
+| 64   | **Explosive Runes**            | Deals 1d4+2 STR damage when read.                               |
 | 65   | **Fabricate**                  | Transforms raw materials into finished items.                |
 | 66   | **False Life**            | Target regains any lost STR, but lose it again after a minute.    |
 | 67   | **False Vision**               | Fools scrying with an illusion.                              |
@@ -95,10 +95,10 @@ If the [spells](/cairn-srd#100-spells) don't exactly fit what you're looking for
 | 80   | **Gaseous Form**               | Target becomes insubstantial and can fly slowly.            |
 | 81   | **Gentle Repose**              | Preserves one corpse.                                        |
 | 82   | **Ghost Sound**                | Figment sounds.                                              |
-| 83   | **Ghoul Touch**                | DEX save or Paralyzed, exuding stench that makes those nearby sickened. |
+| 83   | **Ghoul Touch**                | DEX save or Paralyzed, exuding stench that makes those nearby sickened.|
 | 84   | **Glitterdust**                | WIL save or Impair all attacks. Reveals invisible things.    |
 | 85   | **Globe of Invulnerability**   | Stops Spells up 3rd Circle.                                  |
-| 86   | **Grease**                     | Makes 10-ft. square or one object slippery. DEX save to avoid slipping. |
+| 86   | **Grease**                     | Makes 10-ft. square or one object slippery. DEX save to avoid slipping.|
 | 87   | **Gust of Wind**               | Blows away or knocks down objects. Opponents get STR save.   |
 | 88   | **Hallucinatory Terrain**      | Makes one type of terrain appear like another.               |
 | 89   | **Halt Undead**                | Immobilizes all nearby undead until WIL Sav.                 |
