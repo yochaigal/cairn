@@ -75,22 +75,22 @@ If the [spells](/cairn-srd#100-spells) don't exactly fit what you're looking for
 | 60   | **Endure Elements**            | Target can exist comfortably in hot or cold environments.    |
 | 61   | **Enlarge Person**             | Target humanoid doubles in size.                             |
 | 62   | **Erase**                      | Mundane or magical writing vanishes at your touch.           |
-| 63   | **Expeditious Retreat**        | You and and anyone touching you can flee to safety at double speed. |
-| 64   | **Explosive Runes**            | Deals 1d4+2 STR damage when read.                               |
+| 63   | **Expeditious Retreat**        | You and and anyone you touch can flee to safety at double speed. |
+| 64   | **Explosive Runes**            | Deals 1d4+2 STR damage when read.                            |
 | 65   | **Fabricate**                  | Transforms raw materials into finished items.                |
-| 66   | **False Life**            | Target regains any lost STR, but lose it again after a minute.    |
-| 67   | **False Vision**               | Fools scrying with an illusion.                              |
-| 68   | **Fear**                       | Targets within cone must pass a WIL save or flee.            |
-| 69   | **Feather Fall**               | Objects or creatures fall slowly.                            |
-| 70   | **Feeblemind**                 | WIL save or drop to WIL 0.                                   |
-| 71   | **Fire Shield**                | Creatures attacking you take d6 fire damage; you're protected from heat and cold. |
-| 72   | **Fire Trap**                  | Opened object deals d12 damage.                              |
-| 73   | **Fireball**                   | d10 damage, 20-ft. radius.                                   |
-| 74   | **Flame Arrows**               | Ally's missiles deal d6 extra fire damage.                   |
-| 75   | **Flaming Sphere**             | Creates rolling ball of fire, d10 damage.                    |
+| 66   | **False Life**            | Target regains any lost STR, but loses it again after a few minutes. |
+| 67   | **False Vision**               | The next person to scry your mind or your whereabouts is fooled.  |
+| 68   | **Fear**                       | Targets within eysight must pass a WIL save or flee.         |
+| 69   | **Feather**                    | Objects or creatures you can see fall slowly.                |
+| 70   | **Feeblemind**                 | Target must pass WIL save or drop to 0 WIL for 1 hour.      |
+| 71   | **Fire Shield**                | You manifest a shield of flame (+1 Armor, 1d6 damage). Fire cannot hurt you. |
+| 72   | **Fire Trap**                  | An object you touch is imbued with a hidden flame-trap dealing 1d4+2 STR damage. |
+| 73   | **Fireball**                   | You fire a ball of flame up to 20ft away doing 6 STR damage. |
+| 74   | **Flame Arrows**               | A bow you touch fires flaming arrows that deal 1d10 damage.  |
+| 75   | **Flaming Sphere**             | Creates a rolling ball of fire that does 1d10 damage.        |
 | 76   | **Flare**                      | Sends up a flare that can be seen for some distance.         |
-| 77   | **Floating Disk**              | Creates 3-ft.-diameter horizontal disk that holds 100 lb.    |
-| 78   | **Fly**                        | Target flies.                                               |
+| 77   | **Floating Disk**              | You summon a 3ft wide horizontal disk that holds up 100lbs.    |
+| 78   | **Fly**                        | Target can fly for a short while.                            |
 | 79   | **Fog Cloud**                  | Fog obscures vision over a large area.                       |
 | 80   | **Gaseous Form**               | Target becomes insubstantial and can fly slowly.            |
 | 81   | **Gentle Repose**              | Preserves one corpse.                                        |
