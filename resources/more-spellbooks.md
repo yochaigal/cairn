@@ -10,14 +10,15 @@ parent: Resources
 # More Spellbooks
 
 If the [spells](/cairn-srd#100-spells) don't exactly fit what you're looking for, you might find it here.
+**Note**: assume damage rolls are against HP unless otherwise noted (e.g. 1d6 damage vs 1d6 STR damage).
 
 |      |                                |                                                              |
 | ---- | ------------------------------ | ------------------------------------------------------------ |
-| 1    | **Acid Arrow**                 | 1d4+1 STR damage every minute until washed off.                |
-| 2    | **Acid Splash**                | You throw a small orb that deals d6 acid _blast_ damage.     |
+| 1    | **Acid Arrow**                 | You fire an arrow green ichor that does 1d4 STR damage every minute until washed off.|
+| 2    | **Acid Splash**                | You throw a small orb of acid that deals 1d6 damage ( _blast_ ).     |
 | 3    | **Alarm**                      | Intruders set of an alarm audible only to you.               |
 | 4    | **Alter Self**             | You assume the likeness of a similar creature you have seen.     |
-| 5   | **Animate Dead** | Creates 1d4 undead skeletons and zombies from corpses. WIL to control them. |
+| 5   | **Animate Dead** | Creates 1d4 undead skeletons and zombies from corpses. WIL save every hour to control them. |
 | 6    | **Animate Rope**               | A rope-like objects moves at your command.                   |
 | 7    | **Arcane Eye**                 | Invisible floating eye you can see through and control.      |
 | 8    | **Arcane Lock**                | Magically locks a door, portal or chest.                     |
@@ -85,13 +86,13 @@ If the [spells](/cairn-srd#100-spells) don't exactly fit what you're looking for
 | 70   | **Feeblemind**                 | Target must pass WIL save or drop to 0 WIL for 1 hour.      |
 | 71   | **Fire Shield**                | You manifest a shield of flame (+1 Armor, 1d6 damage). Fire cannot hurt you. |
 | 72   | **Fire Trap**                  | An object you touch is imbued with a hidden flame-trap dealing 1d4+2 STR damage. |
-| 73   | **Fireball**                   | You fire a ball of flame up to 20ft away doing 6 STR damage. |
-| 74   | **Flame Arrows**               | A bow you touch fires flaming arrows that deal 1d10 damage.  |
-| 75   | **Flaming Sphere**             | Creates a rolling ball of fire that does 1d10 damage.        |
+| 73   | **Fireball**                   | You fire a ball of flame (1d10 damage) up to 20 feet away. |
+| 74   | **Flame Arrows**               | A bow you touch can fire flaming arrows (1d10 damage) for one minute.  |
+| 75   | **Flaming Sphere**             | You control a floating ball of fire (1d8 damage) for a short while.  |
 | 76   | **Flare**                      | Sends up a flare that can be seen for some distance.         |
-| 77   | **Floating Disk**              | You summon a 3ft wide horizontal disk that holds up 100lbs.    |
+| 77   | **Floating Disk**              | You summon a 3ft wide floating disk that holds up to 100lbs.    |
 | 78   | **Fly**                        | Target can fly for a short while.                            |
-| 79   | **Fog Cloud**                  | Fog obscures vision over a large area.                       |
+| 79   | **Fog Cloud**                  | A rolling fog obscures vision in a 150-foot radius.           |
 | 80   | **Gaseous Form**               | Target becomes insubstantial and can fly slowly.            |
 | 81   | **Gentle Repose**              | Preserves one corpse.                                        |
 | 82   | **Ghost Sound**                | Figment sounds.                                              |
@@ -229,3 +230,4 @@ If the [spells](/cairn-srd#100-spells) don't exactly fit what you're looking for
 - Goblin Punch's [GLOG Wizard](https://drive.google.com/file/d/0BxVHEMMjLlZ4UWYzX3o1UnEtd0U/view?resourcekey=0-ZqZEVaSwAMdy_U8B-AF0iA)
 - [Wizards of the Coast SRD](https://dnd.wizards.com/articles/features/systems-reference-document-srd)
 - [Wizards of the Coast 5.1 OGL](http://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf)
+- [The Black Hack SRD](https://the-black-hack.jehaisleprintemps.net/english/)
