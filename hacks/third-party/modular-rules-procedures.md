@@ -60,14 +60,14 @@ When the PCs encounter an NPC whose reaction to the party is not obvious, the Wa
 
 | | | | | |
 | :-----: | :--: | :-----: | :------: | :-----: |
-|    2    | 3-5  |   6-8   |   9-11   |   12    |
+|    **2**    | **3-5**  |   **6-8**   |   **9-11**   |   **12**    |
 | Hostile | Wary | Curious | Friendly | Helpful |
 
 ### What Do They Want?
 
 | | | |
 | :-----: | :--: | :-----: |
-| d10  | Want   | Description    |
+| **d10**  | **Want**   | **Description**    |
 |  1   | **Food or Aid** | They’re hungry. You can distract them with rations, point them towards corpses, cast a food illusion. They could be hurt and need healing. |
 |  2   | **Gold**        | They want d100 gold x the players’ level. This could be a tax, a toll, tribute, tith, or they could just be greedy bastards, or easily distracted by shiny baubles. |
 |  3   | **Treasure**    | They want a number of items equal to the players’ level. Scrolls and potions count here as well. Excellent pairings can result in their friendship as allies. |
@@ -150,7 +150,7 @@ Declare the amount of gold you're spending and roll 2d6 to see how your evening 
 
 |      |                                                              |
 | ---- | ------------------------------------------------------------ |
-| 2d6  | Result                                                       |
+| **2d6**  | **Result**                                                       |
 | 2-5  | Experience is gained. However, you've all made fools of yourself in some manner. Roll on the carousing mishaps table. |
 | 6-9  | Experience is gained.                                        |
 | 10+  | Experience is gained. You've all had a stroke of good luck! Roll on the carousing fortunes table! |
@@ -161,7 +161,7 @@ Roll 1d6 + 1 for every 200gp you carouse with. More decadent binges come with th
 
 |      |                                                              |
 | ---- | ------------------------------------------------------------ |
-| d10  | Mishap                                                       |
+| **d10**  | **Mishap**                                                       |
 |  1   | **Start a brawl.** You all are involved in a brawl that gets out of control. Start the next adventure with a black eye and -1 STR per level. The local tavern keeper is no longer quite as amicable. | **Jackpot!** One of you strikes it rich at the gambling tables! Gain level x 100 gold. |
 |  2   | **Minor misunderstanding** with local authorities that you’re unable to smooth over. You all spend the next 1d6 days in jail. Now seen as local troublemakers. | **Gain a local reputation** as the life of a party! Those of ill repute are much more friendly and see you as one of their own. |
 |  3   | One of you **insulted a local person of rank**. They will hold a grudge unless you all publicly apologize and humiliate yourself before them. | Whoa **what a trip**! The strange powder you sniffed revealed mystic truths about the universe. Young people in the settlement see you as cool and not one of the squares. (*Optional: gain a random spell or generate a [Maze Rats spell](https://xenioinabottle.blogspot.com/2021/04/maze-rats-spells-in-cairn.html), either one-use or permanent.*) |
