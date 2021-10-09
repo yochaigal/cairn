@@ -24,9 +24,9 @@ Each player creates 3 characters according to the following steps:
 
 - Each of the characters start with **A torch** (one slot), **One day rations**, 1d6 gold pieces and **two items from their background** according to the following table:
 
-
-| **Background** | **Item 1**              | **Item 2**                    |
+||||
 | ------------ | --------------------- | --------------------------- |
+| **Background** | **Item 1**          | **Item 2**                  |
 | Alchemist    | Fire Oil              | Glue                        |
 | Blacksmith   | Hammer (d6)           | Bellows                     |
 | Butcher      | Meat Knife            | Salt Pack                   |
