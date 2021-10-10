@@ -53,13 +53,13 @@ If the [spells](/cairn-srd#100-spells) don't exactly fit what you're looking for
 | 37   | **Control Water**              | Raise, lower or part any water you can see.                  |
 | 38   | **Crushing Despair**           | Attacks from targets you can see become _impaired_.          |
 | 39   | **Dancing Lights**             | You control a dazzling display of light and color.           |
-| 40   | **Darkness**                | You create a bubble supernatural shadow within a 20ft radius.   |
+| 40   | **Darkness**                | You create a bubble supernatural shadow within a 20ft diameter.   |
 | 41   | **Darkvision**                 | Target can see 60 ft. in total darkness.                     |
-| 42   | **Daylight**                   | You create a halo of bright light in a 60-ft. radius.        |
+| 42   | **Daylight**                   | You create a halo of bright light in a 60ft diameter.        |
 | 43   | **Daze**            | Targets you can see become dazed for a moment, lost in daydream.        |
 | 44   | **Deafness**                   | Anyone within earshot is deafened.                           |
 | 45   | **Deep Slumber**               | Target falls asleep for 1d4 hours.                           |
-| 46   | **Detect Magic**               | You can feel any magic within a 60ft radius.                 |
+| 46   | **Detect Magic**               | You can feel any magic within a 60ft diameter.                 |
 | 47   | **Detect Poison**              | Detects poison in any creature or object within 30ft.        |
 | 48   | **Detect Scrying**             | For 24 hours you become aware of any magical  eavesdropping. |
 | 49   | **Detect Secret Doors**        | Any hidden doors within 60ft light up as if on fire.         |
@@ -86,27 +86,27 @@ If the [spells](/cairn-srd#100-spells) don't exactly fit what you're looking for
 | 70   | **Feeblemind**                 | Target must pass WIL save or drop to 0 WIL for 1 hour.      |
 | 71   | **Fire Shield**                | You manifest a shield of flame (+1 Armor, 1d6 damage). Fire cannot hurt you. |
 | 72   | **Fire Trap**                  | An object you touch is imbued with a hidden flame-trap dealing 1d4+2 STR damage. |
-| 73   | **Fireball**                   | You fire a ball of flame (1d10 damage) up to 20 feet away. |
+| 73   | **Fireball**                   | You fire a ball of flame (1d10 damage) up to 20 feet away.   |
 | 74   | **Flame Arrows**               | A bow you touch can fire flaming arrows (1d10 damage) for one minute.  |
 | 75   | **Flaming Sphere**             | You control a floating ball of fire (1d8 damage) for a short while.  |
 | 76   | **Flare**                      | Sends up a flare that can be seen for some distance.         |
-| 77   | **Floating Disk**              | You summon a 3ft wide floating disk that holds up to 100lbs.    |
+| 77   | **Floating Disk**              | You summon a 3ft wide floating disk that holds up to 100lbs. |
 | 78   | **Fly**                        | Target can fly for a short while.                            |
-| 79   | **Fog Cloud**                  | A rolling fog obscures vision in a 150-foot radius.           |
-| 80   | **Gaseous Form**               | Target becomes insubstantial and can fly slowly.            |
-| 81   | **Gentle Repose**              | Preserves one corpse.                                        |
-| 82   | **Ghost Sound**                | Figment sounds.                                              |
-| 83   | **Ghoul Touch**                | DEX save or Paralyzed, exuding stench that makes those nearby sickened.|
-| 84   | **Glitterdust**                | WIL save or Impair all attacks. Reveals invisible things.    |
-| 85   | **Globe of Invulnerability**   | Stops Spells up 3rd Circle.                                  |
-| 86   | **Grease**                     | Makes 10-ft. square or one object slippery. DEX save to avoid slipping.|
-| 87   | **Gust of Wind**               | Blows away or knocks down objects. Opponents get STR save.   |
-| 88   | **Hallucinatory Terrain**      | Makes one type of terrain appear like another.               |
-| 89   | **Halt Undead**                | Immobilizes all nearby undead until WIL Sav.                 |
+| 79   | **Fog Cloud**                  | A rolling fog obscures vision in a 300ft diameter.           |
+| 80   | **Gaseous Form**               | Target becomes insubstantial and can float.                  |
+| 81   | **Gentle Repose**              | A corpse you touch is preserved.                             |
+| 82   | **Ghost Sound**                | Point to a spot you can see. Anyone nearby hears a sound you choose at any volume. |
+| 83   | **Ghoul Touch**                | Target must DEX save or is paralyzed.|
+| 84   | **Glitterdust**                | Target must WIL save or its attacks are _impaired_. Target an empty space to reveal invisible objects or creatures.|
+| 85   | **Globe of Invulnerability**   | Mundane attacks cannot harm anyone within a 10ft diameter, or vice-versa. |
+| 86   | **Grease**                     | Anything in a 10ft square becomes slippery; DEX save to avoid slipping.|
+| 87   | **Gust of Wind**               | You direct a powerful wind in a straight line, strong enough to blow over small boulders. |
+| 88   | **Hallucinatory Terrain**      | You can make one type of terrain appear like another.        |
+| 89   | **Halt Undead**                | Undead you can see are immobilized. WIL save after 30 seconds to maintain the spell. |
 | 90   | **Haste**                      | One creature moves at double speed.                          |
-| 91   | **Heroism**                    | Gives Reroll any one die.                                    |
-| 92   | **Hideous Laughter**           | WIL save or target laughs and Impairs actions until passing the save. |
-| 93   | **Hold Person**                | Paralyzes one humanoid until WIL save.                       |
+| 91   | **Heroism**                    | Target passes next WIL save and their attacks are _enhanced_.|
+| 92   | **Hideous Laughter**           | WIL save or target laughs uncontrollably, unable to take any action. |
+| 93   | **Hold Person**                | Target is bound by magical rope, paralyzed but able to speak. |
 | 94   | **Hold Portal**                | Holds door shut.                                             |
 | 95   | **Hypnotism**                  | Fascinate 1d6 creatures.                                     |
 | 96   | **Ice Storm**                  | Hail deals d12 damage in cylinder 40 ft. across.             |
