@@ -122,13 +122,13 @@ If the [spells](/cairn-srd#100-spells) don't exactly fit what you're looking for
 | 106  | **Levitate**                   | A target moves up or down according to your whims.           |
 | 107  | **Light**                      | Target object shines like a torch for one hour.              |
 | 108  | **Lightning Bolt**             | Electricity flings from your fingertips doing 1d12 damage (_blast_) in a line.|
-| 109  | **Locate Creature**            | Indicates direction to familiar creature.                    |
-| 110  | **Locate Object**              | Senses direction toward object.                              |
-| 111  | **Mage Hand**                  | 5-pound telekinesis.                                         |
-| 112  | **Mage's Faithful Hound**      | Phantom dog can guard, attack.                               |
-| 113  | **Mage's Private Sanctum**     | Prevents anyone from viewing or scrying an area.             |
-| 114  | **Magic Aura**                 | Alters object's magic aura.                                  |
-| 115  | **Magic Circle**               | Prevents an extraplanar being from entering or leaving unless they pass a WIL save. |
+| 109  | **Locate Creature**            | Indicates the precise location of a familiar creature.       |
+| 110  | **Locate Object**              | Indicates the precise location of an object, known or otherwise.  |
+| 111  | **Mage Hand**                  | You control a phantasmal hand that can lift up to 5 pounds.    |
+| 112  | **Mage's Faithful Hound**      | A ghostly canine (4 HP, bite (1d4)) obeys your commands for up to one hour. |
+| 113  | **Mage's Private Sanctum**     | A small, walled-in area cannot be scryed.             |
+| 114  | **Magic Aura**                 | Target's aura is made non-magical or vice-versa.  |
+| 115  | **Magic Circle**               | Deities and mortals alike cannot enter a 10ft circle. |
 | 116  | **Magic Missile**              | d6 damage, goes around corners, ignores armor.              |
 | 117  | **Magic Mouth**                | Speaks once when triggered.                                  |
 | 118  | **Magic Weapon**               | Make a weapon that ignores all supernatural resistances.     |
