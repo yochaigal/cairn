@@ -106,22 +106,22 @@ If the [spells](/cairn-srd#100-spells) don't exactly fit what you're looking for
 | 90   | **Haste**                      | One creature moves at double speed.                          |
 | 91   | **Heroism**                    | Target passes next WIL save and their attacks are _enhanced_.|
 | 92   | **Hideous Laughter**           | WIL save or target laughs uncontrollably, unable to take any action. |
-| 93   | **Hold Person**                | Target is bound by magical rope, paralyzed but able to speak. |
-| 94   | **Hold Portal**                | Holds door shut.                                             |
-| 95   | **Hypnotism**                  | Fascinate 1d6 creatures.                                     |
-| 96   | **Ice Storm**                  | Hail deals d12 damage in cylinder 40 ft. across.             |
-| 97   | **Identify**                   | Determines properties of magic item.                         |
-| 98   | **Illusory Script**            | Only intended reader can decipher.                           |
-| 99   | **Illusory Wall**              | Wall, floor, or ceiling looks real, but anything can pass through. |
-| 100  | **Interposing Hand**           | Hand blocks 30hp of damage from one opponent.                |
-| 101  | **Invisibility Sphere**        | Makes everyone within 10 ft. invisible.                      |
-| 102  | **Invisibility**               | Target is invisible until it attacks.                       |
-| 103  | **Jump**                       | Target can jump twice as far and high.                      |
-| 104  | **Keen Edge**                  | Next attack with this weapon causes direct STR loss instead of damage. |
-| 105  | **Knock**                      | Opens locked or magically sealed door.                       |
-| 106  | **Levitate**                   | Target moves up and down at your direction.                 |
-| 107  | **Light**                      | Object shines like a torch.                                  |
-| 108  | **Lightning Bolt**             | d12 Damage to all in a line.                                 |
+| 93   | **Hold Person**                | Target is bound by magical rope, able only to speak but nothing more. |
+| 94   | **Hold Portal**                | Any door - magical or otherwise - is held shut.              |
+| 95   | **Hypnotism**                  | Creatures you can see are enraptured for a few minutes.      |
+| 96   | **Ice Storm**                  | Hail deals 1d12 damage in a 20ft diameter.                   |
+| 97   | **Identify**                   | Determines the properties of a magical item you touch.      |
+| 98   | **Illusory Script**            | Write a letter that only its intended reader can understand.    |
+| 99   | **Illusory Wall**   | Create a holographic wall, floor, or ceiling that looks absolutely real. |
+| 100  | **Interposing Hand**           | A giant, floating hand blocks all damage from a single opponent for one minute.   |
+| 101  | **Invisibility Sphere**        | Anyone within a 10ft diameter is rendered invisible.  |
+| 102  | **Invisibility**               | Target is invisible until they attempt harm.        |
+| 103  | **Jump**                       | Target can jump to any place they can see, once.      |
+| 104  | **Keen Edge**                  | Target weapon is _enhanced_, and victim automatically fails a critical damage save.|
+| 105  | **Knock**                      | Loudly opens a locked or magically sealed door or chest.     |
+| 106  | **Levitate**                   | A target moves up or down according to your whims.           |
+| 107  | **Light**                      | Target object shines like a torch for one hour.              |
+| 108  | **Lightning Bolt**             | Electricity flings from your fingertips doing 1d12 damage (_blast_) in a line.|
 | 109  | **Locate Creature**            | Indicates direction to familiar creature.                    |
 | 110  | **Locate Object**              | Senses direction toward object.                              |
 | 111  | **Mage Hand**                  | 5-pound telekinesis.                                         |
