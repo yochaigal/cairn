@@ -9,7 +9,7 @@ parent: Resources
 
 # More Spellbooks
 
-If the [spells](/cairn-srd#100-spells) don't exactly fit what you're looking for, you might find it here.
+If Cairn's default [spells](/cairn-srd#100-spells) don't exactly fit what you're looking for, you might find it here.  
 **Note**: assume damage rolls are against HP unless otherwise noted (e.g. 1d6 damage vs 1d6 STR loss).
 
 |      |                                |                                                              |
@@ -22,7 +22,7 @@ If the [spells](/cairn-srd#100-spells) don't exactly fit what you're looking for
 | 6    | **Animate Rope**               | A rope-like objects moves at your command.                   |
 | 7    | **Arcane Eye**                 | Invisible floating eye you can see through and control.      |
 | 8    | **Arcane Lock**                | Magically locks a door, portal or chest.                     |
-| 9    | **Arcane Mark** | Inscribes an invisible rune you can feel. Take 1d4 WIL damage if removed.   |
+| 9    | **Arcane Mark** | Inscribes an invisible rune you can feel. Suffer 1d4 WIL loss if removed.   |
 | 10   | **Arcane Sight**               | Magical auras become visible to you for one hour.            |
 | 11   | **Baleful Polymorph**          | WIL save or target is transformed into a harmless animal.    |
 | 12   | **Bear's Endurance** | Target does not take Fatigue from non-magical activities or become _deprived_ until their next rest. |
