@@ -10,11 +10,11 @@ parent: Resources
 # More Spellbooks
 
 If the [spells](/cairn-srd#100-spells) don't exactly fit what you're looking for, you might find it here.
-**Note**: assume damage rolls are against HP unless otherwise noted (e.g. 1d6 damage vs 1d6 STR damage).
+**Note**: assume damage rolls are against HP unless otherwise noted (e.g. 1d6 damage vs 1d6 STR loss).
 
 |      |                                |                                                              |
 | ---- | ------------------------------ | ------------------------------------------------------------ |
-| 1    | **Acid Arrow**                 | You fire an arrow green ichor that does 1d4 STR damage every minute until washed off.|
+| 1    | **Acid Arrow**                 | You fire an arrow green ichor that does 1d4 STR loss every minute until washed off.|
 | 2    | **Acid Splash**                | You throw a small orb of acid that deals 1d6 damage ( _blast_ ).     |
 | 3    | **Alarm**                      | Intruders set of an alarm audible only to you.               |
 | 4    | **Alter Self**             | You assume the likeness of a similar creature you have seen.     |
@@ -34,14 +34,14 @@ If the [spells](/cairn-srd#100-spells) don't exactly fit what you're looking for
 | 18   | **Blur**                       | Details about your person become obscured and unmemorable.   |
 | 19   | **Break Enchantment** | Frees target from magical alterations of any kind.                    |
 | 20   | **Bull's Strength**            | Target's strength triples; unarmed attacks are _enhanced_.   |
-| 21   | **Burning Hands**      | Target's palms are lined with flames (1d4+1 STR damage) for one minute. |
+| 21   | **Burning Hands**      | Target's palms are lined with flames (1d4+1 STR loss) for one minute. |
 | 22   | **Cat's Grace**                | Target becomes limber, lithe and as fast as quicksilver.     |
 | 23   | **Cause Fear**                 | Target makes a WIL save or flees.                            |
 | 24   | **Charm Monster**              | Target monster makes a WIL save or treats you as an ally.    |
 | 25   | **Charm Person**               | Target becomes a friend until out of sight.                  |
 | 26   | **Chill Touch**                | Target loses 1d4+1 STR and is _deprived_.                       |
 | 27   | **Clairvoyance**               | You can see or hear (but not both) any person you have met.  |
-| 28   | **Cloudkill**              | You summon a poisonous cloud (d6 STR damage) you can control.    |
+| 28   | **Cloudkill**              | You summon a poisonous cloud (d6 STR loss) you can control.    |
 | 29   | **Color Spray**                | Target must WIL save or their attacks become _impaired_.     |
 | 30   | **Command Undead**  | Undead creatures obey your command. Intelligent undead make a WIL save. |
 | 31   | **Comprehend Languages**       | You understand all spoken and written languages.             |
@@ -70,14 +70,14 @@ If the [spells](/cairn-srd#100-spells) don't exactly fit what you're looking for
 | 54   | **Disguise Self**              | Changes your appearance.                                     |
 | 55   | **Dismissal**                  | WIL save or creature to returns to native plane.             |
 | 56   | **Displacement**               | Ignore any one attack.                                       |
-| 57   | **Disrupt Undead**           | Deals 1d4+2 STR damage to one undead, ignoring armor and resistances. |
+| 57   | **Disrupt Undead**           | Deals 1d4+2 STR loss to one undead, ignoring armor and resistances. |
 | 58   | **Dominate Person**            | Target humanoid must make a WIL save or is controlled telepathically. |
 | 59   | **Dream**                      | Sends a message to anyone currently asleep.                  |
 | 60   | **Endure Elements**            | Target can exist comfortably in hot or cold environments.    |
 | 61   | **Enlarge Person**             | Target humanoid doubles in size.                             |
 | 62   | **Erase**                      | Mundane or magical writing vanishes at your touch.           |
 | 63   | **Expeditious Retreat**        | You and and anyone you touch can flee to safety at double speed. |
-| 64   | **Explosive Runes**            | Deals 1d4+2 STR damage when read.                            |
+| 64   | **Explosive Runes**            | Deals 1d4+2 STR loss when read.                            |
 | 65   | **Fabricate**                  | Transforms raw materials into finished items.                |
 | 66   | **False Life**            | Target regains any lost STR, but loses it again after a few minutes. |
 | 67   | **False Vision**               | The next person to scry your mind or your whereabouts is fooled.  |
@@ -85,7 +85,7 @@ If the [spells](/cairn-srd#100-spells) don't exactly fit what you're looking for
 | 69   | **Feather**                    | Objects or creatures you can see fall slowly.                |
 | 70   | **Feeblemind**                 | Target must pass WIL save or drop to 0 WIL for 1 hour.      |
 | 71   | **Fire Shield**                | You manifest a shield of flame (+1 Armor, 1d6 damage). Fire cannot hurt you. |
-| 72   | **Fire Trap**                  | An object you touch is imbued with a hidden flame-trap dealing 1d4+2 STR damage. |
+| 72   | **Fire Trap**                  | An object you touch is imbued with a hidden flame-trap dealing 1d4+2 STR loss. |
 | 73   | **Fireball**                   | You fire a ball of flame (1d10 damage) up to 20 feet away.   |
 | 74   | **Flame Arrows**               | A bow you touch can fire flaming arrows (1d10 damage) for one minute.  |
 | 75   | **Flaming Sphere**             | You control a floating ball of fire (1d8 damage) for a short while.  |
