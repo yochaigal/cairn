@@ -15,7 +15,7 @@ If the [spells](/cairn-srd#100-spells) don't exactly fit what you're looking for
 |      |                                |                                                              |
 | ---- | ------------------------------ | ------------------------------------------------------------ |
 | 1    | **Acid Arrow**                 | You fire an arrow green ichor that does 1d4 STR loss every minute until washed off.|
-| 2    | **Acid Splash**                | You throw a small orb of acid that deals 1d6 damage ( _blast_ ).     |
+| 2    | **Acid Splash**                | You throw a small orb of acid that deals 1d6 damage (_blast_ ).     |
 | 3    | **Alarm**                      | Intruders set of an alarm audible only to you.               |
 | 4    | **Alter Self**             | You assume the likeness of a similar creature you have seen.     |
 | 5   | **Animate Dead** | Creates 1d4 undead skeletons and zombies from corpses. WIL save every hour to control them. |
