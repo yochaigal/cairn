@@ -53,13 +53,13 @@ If Cairn's default [spells](/cairn-srd#100-spells) don't exactly fit what you're
 | 37   | **Control Water**              | Raise, lower or part nearby water.                  |
 | 38   | **Crushing Despair**           | Target must pass a WIL save or its attacks are _impaired_.   |
 | 39   | **Dancing Lights**             | You control a dazzling display of light and color.           |
-| 40   | **Darkness**                | You create a bubble supernatural shadow within a 20ft diameter.   |
+| 40   | **Darkness**                | You create a bubble supernatural shadow within a 20ft radius.   |
 | 41   | **Darkvision**                 | Target can see 60 ft. in total darkness.                     |
-| 42   | **Daylight**                   | You create a halo of bright light in a 60ft diameter.        |
+| 42   | **Daylight**                   | You create a halo of bright light in a 60ft radius.        |
 | 43   | **Daze**            | Targets become dazed for a moment, as if lost in daydream.        |
 | 44   | **Deafness**                   | Anyone within earshot is deafened.                           |
 | 45   | **Deep Slumber**               | Target falls asleep for 1d4 hours.                           |
-| 46   | **Detect Magic**               | You can feel any magic within a 60ft diameter.                 |
+| 46   | **Detect Magic**               | You can feel any magic within a 60ft radius.                 |
 | 47   | **Detect Poison**              | Detects poison in any creature or object within 30ft.        |
 | 48   | **Detect Scrying**             | For 24 hours you become aware of any magical  eavesdropping. |
 | 49   | **Detect Secret Doors**        | Any hidden doors within 60ft light up as if on fire.         |
@@ -92,13 +92,13 @@ If Cairn's default [spells](/cairn-srd#100-spells) don't exactly fit what you're
 | 76   | **Flare**                      | Sends up a flare that can be seen for some distance.         |
 | 77   | **Floating Disk**              | You summon a 3ft wide floating disk that holds up to 100lbs. |
 | 78   | **Fly**                        | Target can fly for a short while.                            |
-| 79   | **Fog Cloud**                  | A rolling fog obscures vision in a 300ft diameter.           |
+| 79   | **Fog Cloud**                  | A rolling fog obscures vision in a 300ft radius.           |
 | 80   | **Gaseous Form**               | Target becomes insubstantial and can float.                  |
 | 81   | **Gentle Repose**              | A corpse you touch is preserved.                             |
 | 82   | **Ghost Sound**                | Point to a spot. Anyone nearby hears a sound you choose at any volume. |
 | 83   | **Ghoul Touch**                | Target must DEX save or is paralyzed.|
 | 84   | **Glitterdust**                | Target must WIL save or its attacks are _impaired_. Target an empty space to reveal invisible objects or creatures.|
-| 85   | **Globe of Invulnerability**   | Mundane attacks cannot harm anyone within a 10ft diameter, or vice-versa. |
+| 85   | **Globe of Invulnerability**   | Mundane attacks cannot harm anyone within a 10ft radius, or vice-versa. |
 | 86   | **Grease**                     | Anything in a 10ft square becomes slippery; DEX save to avoid slipping.|
 | 87   | **Gust of Wind**               | You direct a powerful wind in a straight line, strong enough to blow over small boulders. |
 | 88   | **Hallucinatory Terrain**      | You can make one type of terrain appear like another.        |
@@ -109,12 +109,12 @@ If Cairn's default [spells](/cairn-srd#100-spells) don't exactly fit what you're
 | 93   | **Hold Person**                | Target is bound by magical rope, able only to speak but nothing more. |
 | 94   | **Hold Portal**                | Any door (magical or otherwise) is held shut until you leave its vicinity.|
 | 95   | **Hypnotism**                  | Creatures are enraptured for a few minutes unless they pass a WIL save.  |
-| 96   | **Ice Storm**                  | Hail deals 1d12 damage in a 20ft diameter.                   |
+| 96   | **Ice Storm**                  | Hail deals 1d12 damage in a 20ft radius.                   |
 | 97   | **Identify**                   | Determines the properties of a magical item you touch.      |
 | 98   | **Illusory Script**            | Write a letter that only its intended reader can understand.    |
 | 99   | **Illusory Wall**   | Create a holographic wall, floor, or ceiling that looks absolutely real. |
 | 100  | **Interposing Hand**           | A giant, floating hand blocks all damage from a single opponent for one minute.   |
-| 101  | **Invisibility Sphere**        | Anyone within a 10ft diameter is rendered invisible.  |
+| 101  | **Invisibility Sphere**        | Anyone within a 10ft radius is rendered invisible.  |
 | 102  | **Invisibility**               | Target is invisible until they attempt harm.        |
 | 103  | **Jump**                       | Target can jump to any place they can see, once.      |
 | 104  | **Keen Edge**                  | Target weapon is _enhanced_, and victim automatically fails a critical damage save.|
@@ -166,15 +166,15 @@ If Cairn's default [spells](/cairn-srd#100-spells) don't exactly fit what you're
 | 150  | **Ray of Frost**               | Ice and snow flow from your fingerprints, dealing 1d8 damage (_blast_) in a straight line.|
 | 151  | **Reduce Person**              | A humanoid creature you touch halves in size.    |
 | 152  | **Remove Curse**               | A person or object you touch is freed from a curse or nefarious spell. |
-| 153  | **Resilient Sphere**           | Force globe protects but traps one target. DEX save to avoid. |
-| 154  | **Resist Energy**              | Immunity to a specific type of energy attack until your next Short Rest. |
-| 155  | **Resistance**                 | Target ignores normally annoying affects such as sweltering heat, itchy skin diseases, or a sandstorm. |
-| 156  | **Rope Trick**                 | As many as eight creatures hide in extradimensional space.   |
-| 157  | **Scorching Ray**              | Deals d10 fire damage.                                       |
+| 153  | **Resilient Sphere**           | Target is enclosed by an impenetrable sphere that rolls along the ground, unless they pass a DEX save. |
+| 154  | **Resist Energy**              | Damage from energy blasts are _impaired_ against a target for the next hour. |
+| 155  | **Resistance**                 | Damage from heat, ice, acid or electricity are _impaired_ against a target for the next hour. |
+| 156  | **Rope Trick**                 | A rope moves at your command.  |
+| 157  | **Scorching Ray**              | Energy beams burn enemies (1d10 _blast_ damage) in a straight line.    |
 | 158  | **Scrying**                    | Spies on target from a distance.                            |
 | 159  | **Secret Chest**               | Hides expensive chest on Ethereal Plane; you retrieve it at will. |
 | 160  | **Secret Page**                | Changes one page to hide its real content.                   |
-| 161  | **Secure Shelter**             | Creates sturdy cottage.                                      |
+| 161  | **Secure Shelter**             | As many as eight creatures hide in extradimensional space.       |
 | 162  | **See Invisibility**           | Reveals invisible creatures or objects.                      |
 | 163  | **Sending**                    | Delivers short message anywhere, instantly.                  |
 | 164  | **Sepia Snake Sigil**          | Creates text symbol that immobilizes reader until WIL save.  |
