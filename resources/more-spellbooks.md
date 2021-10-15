@@ -140,27 +140,27 @@ If Cairn's default [spells](/cairn-srd#100-spells) don't exactly fit what you're
 | 124  | **Minor Illusion**             | Creates a simple image with sound. A cursory investigation will reveal the illusory image. |
 | 125  | **Mirror Image**               | You spawn 1d6 decoy duplicates of someone you can see, dispelled by a simple touch.   |
 | 126  | **Misdirection**               | Future divinations of one creature or object are misled according to your will.      |
-| 127  | **Night Mount**                      | Summons an arcane horse that never tires, but dissipates with the coming of dawn. |
-| 128  | **Nightmare**                  | WIL save or Target wakes with no HP and will not recover them until they have a full rest without Nightmares. |
-| 129  | **Nondetection**               | Hides target from divination, scrying.                      |
-| 130  | **Obscure Object**             | Masks object against scrying.                                |
-| 131  | **Obscuring Mist**             | Fog surrounds you. Ranged attacks are Impaired.              |
-| 132  | **Open/Close**                 | Opens or closes small or light things.                       |
-| 133  | **Owl's Wisdom**               | Perceive the world with heightened senses for the next hour. |
-| 134  | **Passwall**                   | Creates passage through wood or stone wall.                  |
-| 135  | **Petrify**                    | WIL save or target is transformed into a statue. This effect lasts as long as the Caster wishes. |
-| 136  | **Phantasmal Killer**          | Fearsome, invincible illusion only the target can see. Attacks for d12 damage, on Critical Damage pass a WIL save or Die from terror. |
-| 137  | **Phantom Trap**               | Makes item seem trapped.                                     |
-| 138  | **Planar Binding**             | Traps extraplanar creatures that fail a WIL save until they perform a task. |
-| 139  | **Planar Gate**                | Open a gate to another reality that works in both directions. |
-| 140  | **Polymorph**                  | Gives one willing target a new form.                        |
-| 141  | **Possession**  | WIL save or target has soul pushed out and caster possesses their body. Their soul returns when the caster leaves the body, but if the body is slain the soul departs and the caster's soul returns to their body. |
-| 142  | **Prestidigitation**           | Performs minor tricks.                                       |
-| 143  | **Protection from Arrows**     | Target immune to mundane ranged attacks.                    |
-| 144  | **Protection**                 | Ignore the next instance of harm from a specific source.     |
-| 145  | **Prying Eyes**                | 1d6 floating eyes scout for you.                             |
-| 146  | **Pyrotechnics**               | Turns fire into blinding light or choking smoke.             |
-| 147  | **Rage**                       | Target's attacks are Enhanced, but so are attacks against them. |
+| 127  | **Night Mount**                | Summons an arcane horse that never tires, but dissipates within daylight. |
+| 128  | **Nightmare**                  | Target is _deprived_ after suffering a night of bad dreams. |
+| 129  | **Nondetection**               | Target cannot be observed either through divination or scrying.  |
+| 130  | **Obscure Object**             | Masks an object against divination or scrying. |
+| 131  | **Obscuring Mist**             | A hazy fog surrounds you in a radius of 20ft. Attacks within the mist are _impaired_. |
+| 132  | **Open/Close**                 | An unlocked box, cabinet or door opens or closes at your command.     |
+| 133  | **Owl's Wisdom**               | Target has heightened senses for the next hour, especially at night. |
+| 134  | **Passwall**                   | Creates a temporary passage through wood, stone or brick.    |
+| 135  | **Petrify**                    | Target is transformed into a statue on a failed WIL save. A success reverses the spell; holder must pass a WIL save or the book is destroyed. |
+| 136  | **Phantasmal Killer**          | A target you touch is hunted by a terrifying illusion only they can see. Its attacks do 1d12 damage; on Critical Damage they must pass a WIL save or become catatonic. |
+| 137  | **Phantom Trap**               | An object appears trapped, even to an experienced thief.     |
+| 138  | **Planar Binding**             | Binds extraplanar creatures to your will until they perform a task specific task, after which they must pass a WIL save to escape (good luck). |
+| 139  | **Planar Gate**                | Opens a portal to another reality. It works in both directions. |
+| 140  | **Polymorph**                  | A willing target takes on a new form, but must pass a WIL save to shift out.|
+| 141  | **Possession**  | Target's spirit is caged within their body and replaced with the caster's. If the body is slain the original soul departs, but the caster must pass a WIL save to return to their body. |
+| 142  | **Prestidigitation**           | You perform a minor magical trick (create flame, wind, light or sound).   |
+| 143  | **Protection from Arrows**     | A target you can see is immune to mundane ranged attacks.   |
+| 144  | **Protection**                 | A target you touch ignores the next instance of harm from a specific source.     |
+| 145  | **Prying Eyes**                | You control a pair of floating eyes so long as yours remain closed.   |
+| 146  | **Pyrotechnics**               | Enrages a flame you can see into a great conflagration of heat, light and sound.   |
+| 147  | **Rage**                       | A target's attacks are _enhanced_. They must make a WIL save after a successful killing or lose control, attacking anyone in sight. |
 | 148  | **Rainbow Pattern**            | Lights fascinate creatures that fail WIL save.               |
 | 149  | **Ray of Enfeeblement**        | DEX save or all attacks Impaired until Long Rest.            |
 | 150  | **Ray of Frost**               | Ray deals d6 cold damage.                                    |
