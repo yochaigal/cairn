@@ -20,7 +20,7 @@ If Cairn's default [spells](/cairn-srd#100-spells) don't exactly fit what you're
 | 4    | **Alter Self**             | You assume the likeness of a similar creature you have seen.     |
 | 5   | **Animate Dead** | Creates 1d4 undead skeletons and zombies from corpses. WIL save every hour to control them. |
 | 6    | **Animate Rope**               | A rope-like objects moves at your command.                   |
-| 7    | **Arcane Eye**                 | Invisible floating eye you can see through and control.      |
+| 7    | **Arcane Eye**                 | Invisible floating eye allowing you to observe a single location as present. |
 | 8    | **Arcane Lock**                | Magically locks a door, portal or chest.                     |
 | 9    | **Arcane Mark** | Inscribes an invisible rune you can feel. Suffer 1d4 WIL loss if removed.   |
 | 10   | **Arcane Sight**               | Magical auras become visible to you for one hour.            |
@@ -40,7 +40,7 @@ If Cairn's default [spells](/cairn-srd#100-spells) don't exactly fit what you're
 | 24   | **Charm Monster**              | Target monster makes a WIL save or treats you as an ally.    |
 | 25   | **Charm Person**               | Target becomes a friend until out of sight.                  |
 | 26   | **Chill Touch**                | Target loses 1d4+1 STR and is _deprived_.                       |
-| 27   | **Clairvoyance**               | You can see or hear (but not both) any person you have met.  |
+| 27   | **Clairvoyance**               | You can see _or_ hear any person you have met before.  |
 | 28   | **Cloudkill**              | You summon a poisonous cloud (d6 STR loss) you can control.    |
 | 29   | **Color Spray**                | Target must WIL save or their attacks become _impaired_.     |
 | 30   | **Command Undead**  | Undead creatures obey your command. Intelligent undead make a WIL save. |
@@ -50,13 +50,13 @@ If Cairn's default [spells](/cairn-srd#100-spells) don't exactly fit what you're
 | 34   | **Contact Other Plane**        | Ask a single question of a random extraplanar entity.        |
 | 35   | **Contagion** | Infects target with disease, which spreads until the source of magic is destroyed. |
 | 36   | **Continual Flame**            | Turns any object into a permanent, heatless torch.          |
-| 37   | **Control Water**              | Raise, lower or part any water you can see.                  |
-| 38   | **Crushing Despair**           | Attacks from targets you can see become _impaired_.          |
+| 37   | **Control Water**              | Raise, lower or part nearby water.                  |
+| 38   | **Crushing Despair**           | Target must pass a WIL save or its attacks are _impaired_.   |
 | 39   | **Dancing Lights**             | You control a dazzling display of light and color.           |
 | 40   | **Darkness**                | You create a bubble supernatural shadow within a 20ft diameter.   |
 | 41   | **Darkvision**                 | Target can see 60 ft. in total darkness.                     |
 | 42   | **Daylight**                   | You create a halo of bright light in a 60ft diameter.        |
-| 43   | **Daze**            | Targets you can see become dazed for a moment, lost in daydream.        |
+| 43   | **Daze**            | Targets become dazed for a moment, as if lost in daydream.        |
 | 44   | **Deafness**                   | Anyone within earshot is deafened.                           |
 | 45   | **Deep Slumber**               | Target falls asleep for 1d4 hours.                           |
 | 46   | **Detect Magic**               | You can feel any magic within a 60ft diameter.                 |
@@ -82,7 +82,7 @@ If Cairn's default [spells](/cairn-srd#100-spells) don't exactly fit what you're
 | 66   | **False Life**            | Target regains any lost STR, but loses it again after a few minutes. |
 | 67   | **False Vision**               | The next person to scry your mind or your whereabouts is fooled.  |
 | 68   | **Fear**                       | Targets within eysight must pass a WIL save or flee.         |
-| 69   | **Feather**                    | Objects or creatures you can see fall slowly.                |
+| 69   | **Feather**                    | Objects or creatures nearby fall very slowly.                |
 | 70   | **Feeblemind**                 | Target must pass WIL save or drop to 0 WIL for 1 hour.      |
 | 71   | **Fire Shield**                | You manifest a shield of flame (+1 Armor, 1d6 damage). Fire cannot hurt you. |
 | 72   | **Fire Trap**                  | An object you touch is imbued with a hidden flame-trap dealing 1d4+2 STR loss. |
@@ -95,20 +95,20 @@ If Cairn's default [spells](/cairn-srd#100-spells) don't exactly fit what you're
 | 79   | **Fog Cloud**                  | A rolling fog obscures vision in a 300ft diameter.           |
 | 80   | **Gaseous Form**               | Target becomes insubstantial and can float.                  |
 | 81   | **Gentle Repose**              | A corpse you touch is preserved.                             |
-| 82   | **Ghost Sound**                | Point to a spot you can see. Anyone nearby hears a sound you choose at any volume. |
+| 82   | **Ghost Sound**                | Point to a spot. Anyone nearby hears a sound you choose at any volume. |
 | 83   | **Ghoul Touch**                | Target must DEX save or is paralyzed.|
 | 84   | **Glitterdust**                | Target must WIL save or its attacks are _impaired_. Target an empty space to reveal invisible objects or creatures.|
 | 85   | **Globe of Invulnerability**   | Mundane attacks cannot harm anyone within a 10ft diameter, or vice-versa. |
 | 86   | **Grease**                     | Anything in a 10ft square becomes slippery; DEX save to avoid slipping.|
 | 87   | **Gust of Wind**               | You direct a powerful wind in a straight line, strong enough to blow over small boulders. |
 | 88   | **Hallucinatory Terrain**      | You can make one type of terrain appear like another.        |
-| 89   | **Halt Undead**                | Undead you can see are immobilized. WIL save after 30 seconds to maintain the spell. |
+| 89   | **Halt Undead**                | Nearby undead are immobilized for 30 seconds or until you take another action. |
 | 90   | **Haste**                      | One creature moves at double speed.                          |
 | 91   | **Heroism**                    | Target passes next WIL save and their attacks are _enhanced_.|
 | 92   | **Hideous Laughter**           | WIL save or target laughs uncontrollably, unable to take any action. |
 | 93   | **Hold Person**                | Target is bound by magical rope, able only to speak but nothing more. |
-| 94   | **Hold Portal**                | Any door - magical or otherwise - is held shut.              |
-| 95   | **Hypnotism**                  | Creatures you can see are enraptured for a few minutes.      |
+| 94   | **Hold Portal**                | Any door (magical or otherwise) is held shut until you leave its vicinity.|
+| 95   | **Hypnotism**                  | Creatures are enraptured for a few minutes unless they pass a WIL save.  |
 | 96   | **Ice Storm**                  | Hail deals 1d12 damage in a 20ft diameter.                   |
 | 97   | **Identify**                   | Determines the properties of a magical item you touch.      |
 | 98   | **Illusory Script**            | Write a letter that only its intended reader can understand.    |
@@ -134,11 +134,11 @@ If Cairn's default [spells](/cairn-srd#100-spells) don't exactly fit what you're
 | 118  | **Magic Weapon**               | A weapon you touch becomes immune to wear, mundane damage or elemental effects. The spell wears off after a day. |
 | 119  | **Major Creation**             | Creates an object of nonliving stone or metal no greater than 5 cubic foot in size.     |
 | 120  | **Major Illusion**             | Creates an image with sound, smell and thermal effects, activated according to a trigger you choose. Touching the image or making a successful WIL save will reveal the illusion.  |
-| 121  | **Mending**                    | You make minor repairs to a nonliving object you can touch. |
+| 121  | **Mending**                    | You make minor repairs to a nonliving object. |
 | 122  | **Message**                    | You and a sympathetic ally are linked, able to converse in short sentences for an hour. |
 | 123  | **Minor Creation**             | Creates an object of nonliving matter no greater than one cubic foot in size. |
 | 124  | **Minor Illusion**             | Creates a simple image with sound. A cursory investigation will reveal the illusory image. |
-| 125  | **Mirror Image**               | You spawn 1d6 decoy duplicates of someone you can see, dispelled by a simple touch.   |
+| 125  | **Mirror Image**               | You spawn 1d6 decoy duplicates of someone you touch. Decoys are dispelled with a touch.   |
 | 126  | **Misdirection**               | Future divinations of one creature or object are misled according to your will.      |
 | 127  | **Night Mount**                | Summons an arcane horse that never tires, but dissipates within daylight. |
 | 128  | **Nightmare**                  | Target is _deprived_ after suffering a night of bad dreams. |
@@ -151,21 +151,21 @@ If Cairn's default [spells](/cairn-srd#100-spells) don't exactly fit what you're
 | 135  | **Petrify**                    | Target is transformed into a statue on a failed WIL save. A success reverses the spell; holder must pass a WIL save or the book is destroyed. |
 | 136  | **Phantasmal Killer**          | A target you touch is hunted by a terrifying illusion only they can see. Its attacks do 1d12 damage; on Critical Damage they must pass a WIL save or become catatonic. |
 | 137  | **Phantom Trap**               | An object appears trapped, even to an experienced thief.     |
-| 138  | **Planar Binding**             | Binds extraplanar creatures to your will until they perform a task specific task, after which they must pass a WIL save to escape (good luck). |
+| 138  | **Planar Binding**             | Binds an extraplanar creature to your will until it performs a task specific task, after which they must pass a WIL save to escape (good luck). |
 | 139  | **Planar Gate**                | Opens a portal to another reality. It works in both directions. |
 | 140  | **Polymorph**                  | A willing target takes on a new form, but must pass a WIL save to shift out.|
 | 141  | **Possession**  | Target's spirit is caged within their body and replaced with the caster's. If the body is slain the original soul departs, but the caster must pass a WIL save to return to their body. |
 | 142  | **Prestidigitation**           | You perform a minor magical trick (create flame, wind, light or sound).   |
-| 143  | **Protection from Arrows**     | A target you can see is immune to mundane ranged attacks.   |
+| 143  | **Protection from Arrows**     | An ally becomes immune to mundane ranged attacks for one round.   |
 | 144  | **Protection**                 | A target you touch ignores the next instance of harm from a specific source.     |
-| 145  | **Prying Eyes**                | You control a pair of floating eyes so long as yours remain closed.   |
-| 146  | **Pyrotechnics**               | Enrages a flame you can see into a great conflagration of heat, light and sound.   |
+| 145  | **Prying Eyes**                | You manifest and control a pair of floating eyes so long as yours remain closed.   |
+| 146  | **Pyrotechnics**               | Target flame becomes a great conflagration of heat, light and sound.   |
 | 147  | **Rage**                       | A target's attacks are _enhanced_. They must make a WIL save after a successful killing or lose control, attacking anyone in sight. |
-| 148  | **Rainbow Pattern**            | Lights fascinate creatures that fail WIL save.               |
-| 149  | **Ray of Enfeeblement**        | DEX save or all attacks Impaired until Long Rest.            |
-| 150  | **Ray of Frost**               | Ray deals d6 cold damage.                                    |
-| 151  | **Reduce Person**              | Humanoid creature halves in size.                            |
-| 152  | **Remove Curse**               | Frees object or person from curse.                           |
+| 148  | **Rainbow Pattern**            | An array of hypnotic lights fascinate nearby creatures, unless they pass a WIL save.  |
+| 149  | **Ray of Enfeeblement**        | Target creatures must make a DEX save or their attacks are _impaired_.   |
+| 150  | **Ray of Frost**               | Ice and snow flow from your fingerprints, dealing 1d8 damage (_blast_) in a straight line.|
+| 151  | **Reduce Person**              | A humanoid creature you touch halves in size.    |
+| 152  | **Remove Curse**               | A person or object you touch is freed from a curse or nefarious spell. |
 | 153  | **Resilient Sphere**           | Force globe protects but traps one target. DEX save to avoid. |
 | 154  | **Resist Energy**              | Immunity to a specific type of energy attack until your next Short Rest. |
 | 155  | **Resistance**                 | Target ignores normally annoying affects such as sweltering heat, itchy skin diseases, or a sandstorm. |
@@ -194,7 +194,7 @@ If Cairn's default [spells](/cairn-srd#100-spells) don't exactly fit what you're
 | 178  | **Stone Shape**                | Sculpts stone into any shape.                                |
 | 179  | **Stoneskin**                  | Target gains armor 3 but running and swimming are impossible. |
 | 180  | **Suggestion**                 | Compels target to follow stated course of action.           |
-| 181  | **Summon Beast**               | Calls an intelligent extraplanar beast. It holds no loyalty to you. |
+| 181  | **Summon Beast**               | Summons a mundane beast. It holds no loyalty towards you or your allies. |
 | 182  | **Summon Being**               | Calls any extraplanar being to our plane. It holds no loyalty to you. |
 | 183  | **Summon Creature**            | Calls an unintelligent extraplanar creature up to the size of a small dog. It holds no loyalty to you. |
 | 184  | **Summon Gate**                | Calls out to any extraplanar being that wishes to enter our plane. You have no choice which being answers and it holds no loyalty to you. |
