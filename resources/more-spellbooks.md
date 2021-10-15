@@ -119,7 +119,7 @@ If Cairn's default [spells](/cairn-srd#100-spells) don't exactly fit what you're
 | 103  | **Jump**                       | Target can jump to any place they can see, once.      |
 | 104  | **Keen Edge**                  | Target weapon is _enhanced_, and victim automatically fails a critical damage save.|
 | 105  | **Knock**                      | Loudly opens a locked or magically sealed door or chest.     |
-| 106  | **Levitate**                   | A target moves up or down according to your whims.           |
+| 106  | **Levitate**                   | Target (including self) moves up or down according to your whims.           |
 | 107  | **Light**                      | Target object shines like a torch for one hour.              |
 | 108  | **Lightning Bolt**             | Electricity flings from your fingertips doing 1d12 damage (_blast_) in a line.|
 | 109  | **Locate Creature**            | Indicates the precise location of a familiar creature.       |
@@ -128,19 +128,19 @@ If Cairn's default [spells](/cairn-srd#100-spells) don't exactly fit what you're
 | 112  | **Mage's Faithful Hound**      | A ghostly canine (4 HP, bite (1d4)) obeys your commands for up to one hour. |
 | 113  | **Mage's Private Sanctum**     | A small, walled-in area cannot be scryed.             |
 | 114  | **Magic Aura**                 | Target's aura is made non-magical or vice-versa.  |
-| 115  | **Magic Circle**               | Deities and mortals alike cannot enter a 10ft circle. |
-| 116  | **Magic Missile**              | d6 damage, goes around corners, ignores armor.              |
-| 117  | **Magic Mouth**                | Speaks once when triggered.                                  |
-| 118  | **Magic Weapon**               | Make a weapon that ignores all supernatural resistances.     |
-| 119  | **Major Creation**             | Create an item of stone and metal.                           |
-| 120  | **Major Illusion**             | Conjure an image with sound, smell and thermal effects.      |
-| 121  | **Mending**                    | Makes minor repairs on an object.                            |
-| 122  | **Message**                    | Whispered conversation at distance.                          |
-| 123  | **Minor Creation**             | Creates one cloth or wood object.                            |
-| 124  | **Minor Illusion**             | Conjure an image with sound.                                 |
-| 125  | **Mirror Image**               | Creates 1d6 decoy duplicates of you.                         |
-| 126  | **Misdirection**               | Misleads divinations on one creature or object.              |
-| 127  | **Mount**                      | Summons riding horse.                                        |
+| 115  | **Magic Circle**               | Magical or godly beings cannot enter a 10ft circle. |
+| 116  | **Magic Missile**              | Green energy bursts from your fingers, dealing 1d6 damage and ignoring mundane armor.  |
+| 117  | **Magic Mouth**                | A spot you mark becomes the trigger for a supernatural recording of your voice, delivering a short message of your choice. |
+| 118  | **Magic Weapon**               | A weapon you touch becomes immune to wear, mundane damage or elemental effects. The spell wears off after a day. |
+| 119  | **Major Creation**             | Creates an object of nonliving stone or metal no greater than 5 cubic foot in size.     |
+| 120  | **Major Illusion**             | Creates an image with sound, smell and thermal effects, activated according to a trigger you choose. Touching the image or making a successful WIL save will reveal the illusion.  |
+| 121  | **Mending**                    | You make minor repairs to a nonliving object you can touch. |
+| 122  | **Message**                    | You and a sympathetic ally are linked, able to converse in short sentences for an hour. |
+| 123  | **Minor Creation**             | Creates an object of nonliving matter no greater than one cubic foot in size. |
+| 124  | **Minor Illusion**             | Creates a simple image with sound. A cursory investigation will reveal the illusory image. |
+| 125  | **Mirror Image**               | You spawn 1d6 decoy duplicates of someone you can see, dispelled by a simple touch.   |
+| 126  | **Misdirection**               | Future divinations of one creature or object are misled according to your will.      |
+| 127  | **Night Mount**                      | Summons an arcane horse that never tires, but dissipates with the coming of dawn. |
 | 128  | **Nightmare**                  | WIL save or Target wakes with no HP and will not recover them until they have a full rest without Nightmares. |
 | 129  | **Nondetection**               | Hides target from divination, scrying.                      |
 | 130  | **Obscure Object**             | Masks object against scrying.                                |
@@ -228,6 +228,7 @@ If Cairn's default [spells](/cairn-srd#100-spells) don't exactly fit what you're
 - Chris McDowall's [Want a Simplified D&D Spell List?](https://www.bastionland.com/2012/08/want-simplified-d-spell-list.html)
 - Mike Evan's [The Concise Spell List for ANY Version of D&D or OSR](https://wrathofzombie.wordpress.com/2012/07/20/the-concise-spell-list-for-any-version-of-dd-or-osr/)
 - Goblin Punch's [GLOG Wizard](https://drive.google.com/file/d/0BxVHEMMjLlZ4UWYzX3o1UnEtd0U/view?resourcekey=0-ZqZEVaSwAMdy_U8B-AF0iA)
+- [The Hypertext d20 SRD](https://www.d20srd.org/srd/spells/)
 - [Wizards of the Coast SRD](https://dnd.wizards.com/articles/features/systems-reference-document-srd)
 - [Wizards of the Coast 5.1 OGL](http://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf)
 - [The Black Hack SRD](https://the-black-hack.jehaisleprintemps.net/english/)
