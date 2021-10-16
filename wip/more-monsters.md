@@ -29,7 +29,7 @@ search_exclude: true
 - rickety black cart and old black horse
 
 ### Mazzer
-- Dream hunter from Ker-Is
+- Dream hunter from [Ker-Is](https://en.wikipedia.org/wiki/Ys)
 - headscarf, baggy trousers
 - avoid their eyes
 - lives in a hut on the magrinal world between living and dead
