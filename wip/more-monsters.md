@@ -8,7 +8,7 @@ search_exclude: true
 # More Monsters (WIP)
 
 ## Breton Folk tales:
-###[Korrigan](https://en.wikipedia.org/wiki/Korrigan)
+### [Korrigan](https://en.wikipedia.org/wiki/Korrigan)
 - walls have wobbles as they refuse access across their land
 - hibernate in winter
 - clearing where they dance
