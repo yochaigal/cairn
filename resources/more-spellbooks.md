@@ -177,7 +177,7 @@ If Cairn's default [spells](/cairn-srd#100-spells) don't exactly fit what you're
 | 161  | **Secure Shelter**     | You summon a floating, invisible refuge for 8 hours. It fits up to 8 people comfortably.  |
 | 162  | **See Invisibility**   | Invisible creatures or objects are revealed.   |
 | 163  | **Sending**  |  Delivers a single sentence to any one creature instantaneously, no matter the distance.   |
-| 164  | **Sepia Snake Sigil**  | Blue serpentine words are written onto a surface you choose. Anyone reading your words becomes immobilized unless they succeed a WIL save.  |
+| 164  | **Sepia Snake Sigil**  | Serpentine shapes materialize as rust-colored shapes onto a surface. Anyone reading these words becomes immobilized unless they succeed a WIL save.  |
 | 165  | **Shatter**  |  A sonic wave causes 1d6 STR loss to susceptible objects or crystalline creatures, ignoring armor. |
 | 166  | **Shield** | Invisible disc grants armor 1.     |
 | 167  | **Shocking Grasp**     | d8 electricity damage.         |
