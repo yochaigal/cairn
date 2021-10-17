@@ -171,14 +171,14 @@ If Cairn's default [spells](/cairn-srd#100-spells) don't exactly fit what you're
 | 155  | **Resistance**                 | Damage from heat, ice, acid or electricity are _impaired_ against a target for the next hour. |
 | 156  | **Rope Trick**                 | A rope moves at your command.  |
 | 157  | **Scorching Ray**              | Energy beams burn enemies (1d10 _blast_ damage) in a straight line.    |
-| 158  | **Scrying**                    | Spies on target from a distance.                            |
-| 159  | **Secret Chest**               | Hides expensive chest on Ethereal Plane; you retrieve it at will. |
-| 160  | **Secret Page**                | Changes one page to hide its real content.                   |
-| 161  | **Secure Shelter**             | As many as eight creatures hide in extradimensional space.       |
-| 162  | **See Invisibility**           | Reveals invisible creatures or objects.                      |
-| 163  | **Sending**                    | Delivers short message anywhere, instantly.                  |
-| 164  | **Sepia Snake Sigil**          | Creates text symbol that immobilizes reader until WIL save.  |
-| 165  | **Shatter**                    | Sonic vibration causes 1d6 STR loss to objects or crystalline creatures, ignoring armor. |
+| 158  | **Scrying**                    | Spies on a target you have met, even across vast distances. On a WIL save, they can feel your presence. |
+| 159  | **Secret Chest**               | Summons a chest from an immaterial plane. It holds up to 6 items. The chest is dismissed at will. |
+| 160  | **Secret Page**                | A single page in a book can be altered to hide its true content.      |
+| 161  | **Secure Shelter**             | You summon a floating, invisible refuge for 8 hours. It fits up to 8 people comfortably.  |
+| 162  | **See Invisibility**           | Invisible creatures or objects are revealed.        |
+| 163  | **Sending**                    | Delivers a single sentence to any one creature instantaneously, no matter the distance.   |
+| 164  | **Sepia Snake Sigil**          | Blue serpentine words are written onto a surface you choose. Anyone reading your words becomes immobilized unless they succeed a WIL save.  |
+| 165  | **Shatter**                    | A sonic wave causes 1d6 STR loss to susceptible objects or crystalline creatures, ignoring armor. |
 | 166  | **Shield**                     | Invisible disc grants armor 1.                              |
 | 167  | **Shocking Grasp**             | d8 electricity damage.                                       |
 | 168  | **Shout**                      | All within cone deafened for one round and take d12 sonic damage. |
