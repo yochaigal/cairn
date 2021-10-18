@@ -18,3 +18,4 @@ nav_order: 1
 - [**Modular Rules & Procedures for Cairn**](https://adamhensley.itch.io/modular-rules-and-procedures-for-cairn) (also viewable on this [site](/hacks/modular-rules-procedures))
 - [**Piedmont: Songs of the Hills**](https://lionheart-clan.itch.io/piedmont-songs-of-the-hills)
 - [**Thálassa**](https://zeruhur.space/thalassa/Th%C3%A1lassa.html)
+- [**Mangayaw**](https://mangayaw.carrd.co) by [Goobernuts](https://goobernutsblog.wordpress.com/) 
