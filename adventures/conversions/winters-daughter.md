@@ -144,7 +144,7 @@ title: Winter's Daughter
 11 HP, 2 Armor, 8 STR, 13 DEX, 14 WIL, spear or lance (d8)
 
 #### Frost Elf Nobles
-11 HP, 1 Armor, 8 STR, 13 DEX, 14 WIL, icicle dagger (d6), A Spellbook (_Sleep_ or _Hold Person_)
+11 HP, 1 Armor, 8 STR, 13 DEX, 14 WIL, icicle dagger (d6), a Spellbook (_Sleep_ or _Hold Person_)
 - _Sleep_: A creature you can see falls into a light sleep.
 - _Hold Person_: Target is paralyzed until they succeed a WIL save. Undead are _not_ affected.
 
