@@ -78,7 +78,7 @@ title: Winter's Daughter
 #### A Loose Flagstone
 - Any thorough search will discover the loose flagstone.
 - Poison needle trap: suffer 1d4 STR damage and fall unconscious for 1d12 minutes.
-- See rules for Scrolls in the [SRD](/cairn-srd/#magic). _Hold Person_: Target is paralyzed until they succeed a WIL save. Undead are _not_ affected.
+- _Hold Person_: Target is paralyzed until they succeed a WIL save. Undead are _not_ affected. See rules for Scrolls in the [SRD](/cairn-srd/#magic).
 - Holy wafers: Anyone eating a single wafer provides an immense sense of well-being and peace. Eating three or more causes the person to fall into a deep sleep for 1d4 hours.
 
 ### 11. Statues With Weapons
