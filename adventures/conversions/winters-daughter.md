@@ -24,7 +24,7 @@ title: Winter's Daughter
 
 ### 2. Sacrifice at the Whything Stones
 - Run as written except for the Drunes here. Their possessions are the same, but see notes below on staves and Spellbooks.
-- "Young woman" (Briar-Anne) is standard NPC (4HP, 10/10/10).
+- The "young woman" (Briar-Anne) is standard NPC but with relatively high WIL (4HP, 10/10/15).
 
 #### Hooded Men (aka Drunes)
 12 HP, 9 STR, 12 DEX, 14 WIL, staff wreathed in green flame (d8), Spellbooks (_Charm Person, Magic Missile, Hold Person, Topple Dolmen_)  
