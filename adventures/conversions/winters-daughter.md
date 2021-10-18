@@ -65,7 +65,7 @@ title: Winter's Daughter
 #### Floating Skeletons
 10 HP, 5 WIL, 8 STR, 13 DEX, claws (1d4)
 - Can fly and are unaffected by charms or mind control.
-- Any melee weapon that makes contact with the Skelton becomes momentarily weightless (next attack is _impaired_).
+- Any melee weapon that makes contact with the Skeleton becomes momentarily weightless (next attack is _impaired_).
 
 ### 9. Chapel of St. Sedge
 - Run as written.
@@ -78,7 +78,7 @@ title: Winter's Daughter
 #### A Loose Flagstone
 - Any thorough search will discover the loose flagstone.
 - Poison needle trap: suffer 1d4 STR damage and fall unconscious for 1d12 minutes.
-- See rules for Scrolls in the [SRD](/cairn-srd/#magic). _Hold Person_: Target is paralyzed until they succeed a WIL save. Undead are _not_ affected. 
+- See rules for Scrolls in the [SRD](/cairn-srd/#magic). _Hold Person_: Target is paralyzed until they succeed a WIL save. Undead are _not_ affected.
 - Holy wafers: Anyone eating a single wafer provides an immense sense of well-being and peace. Eating three or more causes the person to fall into a deep sleep for 1d4 hours.
 
 ### 11. Statues With Weapons
