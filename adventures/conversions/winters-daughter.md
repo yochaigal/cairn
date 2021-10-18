@@ -41,7 +41,7 @@ title: Winter's Daughter
 - Two _normal_ PCs must make a successful STR save per attempt to move the slab.
 - Breaking the slab is easier provided the PCs have the equipment and time (see notes about the noise).
 
-#### 4. A Hole in the Earth
+### 4. A Hole in the Earth
 - DEX save to avoid being heard by the worms.
 
 ## The Burial Mound
