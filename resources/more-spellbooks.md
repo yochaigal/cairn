@@ -174,21 +174,21 @@ If Cairn's default [spells](/cairn-srd#100-spells) don't exactly fit what you're
 | 158  | **Scrying**  |  Spies on a target you have met, even across vast distances. On a WIL save, they can feel your presence. |
 | 159  | **Secret Chest**  | Summons a chest from an immaterial plane. It holds up to 6 items. The chest is dismissed at will. |
 | 160  | **Secret Page**   | A single page in a book can be altered to hide its true content. |
-| 161  | **Secure Shelter**  | You summon a floating, invisible refuge for 8 hours. It fits up to 8 people comfortably.  |
+| 161  | **Secure Shelter**  | You summon a floating, invisible refuge for 8 hours. It fits up to 8 people comfortably. |
 | 162  | **See Invisibility**   | Invisible creatures or objects are revealed.   |
 | 163  | **Sending**  |  Delivers a single sentence to any one creature instantaneously, no matter the distance.   |
-| 164  | **Sepia Snake Sigil**  | Serpentine shapes materialize as rust-colored shapes onto a surface. Anyone reading these words becomes immobilized unless they succeed a WIL save.  |
-| 165  | **Shatter**  |  A sonic wave causes 1d6 STR loss to susceptible objects or crystalline creatures, ignoring armor. |
-| 166  | **Shield** | Invisible disc grants armor 1.  |
-| 167  | **Shocking Grasp**  | Targets take d8 damage (_blast_, 1d12 if wearing metallic armor).      |
-| 168  | **Shout**  | All within cone deafened for one round and take d12 sonic damage. |
-| 169  | **Shrink Item**   | Object shrinks to one-sixteenth size. |
-| 170  | **Silent Image**  | Creates minor illusion of your design.   |
-| 171  | **Sleep**  | Puts relaxed targets into a slumber and others feel lethargic, causing -1 to damage. |
-| 172  | **Sleet Storm**   | Hampers vision and movement.   |
-| 173  | **Slow**   | One target moves at half speed.  |
+| 164  | **Sepia Snake Sigil**  | Rust-colored, serpentine letters materialize on a surface you choose. Anyone reading these words becomes immobilized unless they succeed a WIL save.  |
+| 165  | **Shatter**  | A sonic wave causes 1d6 STR loss to susceptible objects or crystalline creatures, ignoring armor. |
+| 166  | **Shield** | A hovering, transparent disk materializes around an ally granting 1 Armor.  |
+| 167  | **Shocking Grasp**  | Target takes 1d8 damage (1d12 if wearing metallic armor).      |
+| 168  | **Shout**  | A single phrase from your lips does 1d12 _blast_ damage. Affected targets are also deafened. |
+| 169  | **Shrink Item**   | An object shrinks to one tenth its size. |
+| 170  | **Silent Image**  | You summon a A noiseless simple illusion of your choice.   |
+| 171  | **Sleep**  | Target falls into a deep slumber. |
+| 172  | **Sleet Storm**   | An icy storm assails multiple targets, obscuring visibility and making the ground icy and treacherous. |
+| 173  | **Slow**   | A single target moves at half speed.  |
 | 174  | **Solid Fog**  | Blocks vision and slows movement.   |
-| 175  | **Spectral Hand** | Creates disembodied glowing hand to deliver your next touch spell. |
+| 175  | **Spectral Hand** | A disembodied, floating hand obeys your whims but is immaterial. The next Spellbook, ability or item that relies on touch now works from a distance. |
 | 176  | **Spider Climb**  | Walk on walls and ceilings. |
 | 177  | **Stinking Cloud**  | Nauseating vapors, WIL save or vomit. |
 | 178  | **Stone Shape**   | Sculpts stone into any shape.  |
