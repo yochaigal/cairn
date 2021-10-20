@@ -189,39 +189,39 @@ If Cairn's default [spells](/cairn-srd#100-spells) don't exactly fit what you're
 | 173  | **Slow**   | A single target moves at half speed.  |
 | 174  | **Solid Fog**  | Blocks vision and slows movement.   |
 | 175  | **Spectral Hand** | A disembodied, floating hand obeys your whims but is immaterial. The next Spellbook, ability or item that relies on touch now works from a distance. |
-| 176  | **Spider Climb**  | Walk on walls and ceilings. |
-| 177  | **Stinking Cloud**  | Nauseating vapors, WIL save or vomit. |
-| 178  | **Stone Shape**   | Sculpts stone into any shape.  |
+| 176  | **Spider Climb**  | Target can walk on walls and ceilings. |
+| 177  | **Stinking Cloud**  | A cloud of nauseating vapors pours out from the Spellbook's pages. Anyone nearby makes a STR save or vomit uncontrollably. |
+| 178  | **Stone Shape**   | Your hands sculpt stone, rock or minerals into any form you please.  |
 | 179  | **Stoneskin**  | Target gains armor 3 but running and swimming are impossible. |
-| 180  | **Suggestion** | Compels target to follow stated course of action.   |
+| 180  | **Suggestion** | A target is compelled to follow a stated course of action, without understanding why.  |
 | 181  | **Summon Beast**  | Summons a mundane beast. It holds no loyalty towards you or your allies. |
-| 182  | **Summon Being**  | Calls any extraplanar being to our plane. It holds no loyalty to you. |
-| 183  | **Summon Creature** | Calls an unintelligent extraplanar creature up to the size of a small dog. It holds no loyalty to you. |
-| 184  | **Summon Gate**   | Calls out to any extraplanar being that wishes to enter our plane. You have no choice which being answers and it holds no loyalty to you. |
-| 185  | **Swarm**  | Summons swarm of bats, rats, or spiders. Harmless but distracting. |
-| 186  | **Symbol of Pain**  | Reading the rune causes pain. WIL save or be unable to do anything but scream until save is passed. |
-| 187  | **Symbol of Sleep** | Reading the rune puts reader into magical sleep that lasts as long as the spell. |
-| 188  | **Telekinesis**   | Moves object, attacks creature, or hurls object or creature. |
-| 189  | **Telepathic Bond** | Link lets allies communicate.  |
-| 190  | **Teleport** |  Instantly transports you to a known location up to 100 miles away. |
-| 191  | **Tiny Hut** |  Creates shelter for ten creatures.  |
-| 192  | **Tongues**  |  Speak any language.         |
-| 193  | **Touch of Fatigue**   | Target loses 1 STR.         |
-| 194  | **Touch of Idiocy** | Lose d4 WIL.                |
-| 195  | **Transmute Earth** | Transforms mud to rock or rock to mud.   |
-| 196  | **True Invisibility**  | Target can attack and stay invisible.   |
-| 197  | **True Strike**   | Your next attack automatically provokes a save to avoid Critical Damage. |
-| 198  | **Unseen Servant**  | Invisible force obeys your commands.  |
-| 199  | **Vampiric Touch**  | Target loses d6 STR, you restore all lost hp.   |
-| 200  | **Ventriloquism** | Throws voice.               |
-| 201  | **Wall of Fire**  | Passing through wall causes d12 damage.  |
-| 202  | **Wall of Force** | Wall is immune to damage.   |
-| 203  | **Wall of Ice**   | Creates ice wall 15hp, armor 3, or hemisphere can trap creatures inside unless they pass DEX save. |
-| 204  | **Wall of Stone** | Creates a stone wall that can be shaped. |
-| 205  | **Water Breathing** | Targets can breathe underwater. |
-| 206  | **Web** | Fills 20-ft.-radius spread with sticky spiderwebs.   |
-| 207  | **Whispering Wind** | Sends a short message 1 mile.  |
-| 208  | **Wind Wall**  | Deflects arrows, smaller creatures, and gases.  |
+| 182  | **Summon Being**  | Summons any extraplanar being onto your plane. It holds no loyalty towards you or your allies. |
+| 183  | **Summon Creature** | Summons an unintelligent extraplanar creature up to the size of a small dog. It holds no loyalty towards you or your allies. |
+| 184  | **Summon Gate**   | Sends an extraplanar message to all beings that wish to enter your plane. You have no choice which being answers and it holds no loyalty to you or your allies. |
+| 185  | **Swarm**  | Summons a swarm of bats, rats, spiders or similar creatures of your choice. They are harmless but distracting and hold no loyalty towards you or your allies. |
+| 186  | **Symbol of Pain**  | A rune you draw causes great pain to the reader, who must WIL save or scream until they pass out (1d4 WIL loss). A successful save destroys the rune. |
+| 187  | **Symbol of Sleep** | A rune you draw puts the reader into a magical sleep that lasts 1d6 hours. |
+| 188  | **Telekinesis**   | Magically moves an object up to half your weight. |
+| 189  | **Telepathic Bond** | Two allies can communicate via a mental link for the rest of the day.  |
+| 190  | **Teleport** | You and anyone touching you instantly transport to a known location you have been to before. |
+| 191  | **Tiny Hut** | Creates a standing edifice that can shelter up to 10 creatures, disappearing after 24 hours.  |
+| 192  | **Tongues**  | For the next hour you can speak and understand any mundane language. |
+| 193  | **Touch of Fatigue**   | A target you touch becomes _deprived_ and loses 1 STR.  |
+| 194  | **Touch of Idiocy** | A target you touch becomes vulnerable to wild mood swings, sweeping conclusions and silly behavior. They also lose 1d6 WIL for 24 hours (down to a minimum of 1). |
+| 195  | **Transmute Earth** | Any natural, earthen target is transformed (rock to mud, lava to rock, etc).   |
+| 196  | **True Invisibility**  | Target becomes invisible for 1 hour, and are still able use abilities and attack without detection. Afterwards they become incapacitated (_deprived_)   |
+| 197  | **True Strike**   | An ally's next attack ignores armor and takes damage directly from their target's STR. |
+| 198  | **Unseen Servant**  | You summon an invisible creature of great power that obeys your every command. Reading from other Spellbooks dispels the creature.  |
+| 199  | **Vampiric Touch**  | A target you touch loses 1d6 STR, which is transferred to you (up to your max STR).   |
+| 200  | **Ventriloquism** | You can throw your voice a great distance away |
+| 201  | **Wall of Fire**  | You summon a flaming wall up to 15ft wide. Anyone passing through suffers 1d6 STR loss.  |
+| 202  | **Wall of Force** | You summon an impenetrable wall of energy up to 15ft wide.   |
+| 203  | **Wall of Ice**   | You create a wall of ice (15 HP, 3 Armor) around a creature you choose. |
+| 204  | **Wall of Stone** | You summon a stone wall up to 20ft wide that you can control. |
+| 205  | **Water Breathing** | A target can breathe underwater until they surface again. |
+| 206  | **Web** | You spread sticky spiderwebs on the walls, floor and ceilings within a 20ft radius.   |
+| 207  | **Whispering Wind** | You send a short message 1 mile that anyone along its path can hear.  |
+| 208  | **Wind Wall**  | You summon a powerful wind that deflects arrows, smaller creatures, and noxious gases.  |
 
 
 ### References
