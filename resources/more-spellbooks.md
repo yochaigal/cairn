@@ -12,7 +12,7 @@ If Cairn's default [spells](/cairn-srd#100-spells) don't exactly fit what you're
 
 | |  |                              |
 | ---- | ------------------------------ | ------------------------------------------------------------ |
-| 1 | **Acid Arrow** | You fire an arrow green ichor that does 1d4 STR loss every minute until washed off.|
+| 1 | **Acid Arrow** | You fire a green ichor that does 1d10 _blast_ damage to a target. |
 | 2 | **Acid Splash**   | A small orb of acid deals 1d6 _blast_ damage to a target.  |
 | 3 | **Alarm**  | Intruders set off an alarm audible only to you.  |
 | 4 | **Alter Self**  | You assume the likeness of a similar creature you have seen.  |
