@@ -230,3 +230,4 @@ If Cairn's default [spells](/cairn-srd#100-spells) don't exactly fit what you're
 - [Wizards of the Coast SRD](https://dnd.wizards.com/articles/features/systems-reference-document-srd)
 - [Wizards of the Coast 5.1 OGL](http://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf)
 - [The Black Hack SRD](https://the-black-hack.jehaisleprintemps.net/english/)
+- [tadzik's computer readable list of 5e spells](https://github.com/tadzik/5e-spells/blob/master/List%20of%20all%205e%20spells.txt)
