@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Circle of Wolves
-nav_order: 22
+nav_order: 13
 parent: Conversions
 grand_parent: Adventures
 ---
