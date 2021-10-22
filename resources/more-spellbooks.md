@@ -111,7 +111,7 @@ If Cairn's default [spells](/cairn-srd#100-spells) don't exactly fit what you're
 | 97   | **Identify** |  Determines the properties of a magical item you touch. |
 | 98   | **Illusory Script** | Write a letter that only its intended reader can understand. |
 | 99   | **Illusory Wall**   | Create a holographic wall, floor, or ceiling that looks absolutely real. |
-| 100  | **Interposing Hand**   | A giant, floating hand blocks all damage from a single opponent for one minute.   |
+| 100  | **Interposing Hand**   | A giant, floating hand blocks all damage from a single opponent until you are safe from danger. |
 | 101  | **Invisibility Sphere**   | Anyone within a 10ft radius is rendered invisible.  |
 | 102  | **Invisibility**  | Target is invisible until they attempt harm.   |
 | 103  | **Jump**   | Target can jump to any place they can see, once. |
