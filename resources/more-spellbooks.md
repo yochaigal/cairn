@@ -76,7 +76,7 @@ If Cairn's default [spells](/cairn-srd#100-spells) don't exactly fit what you're
 | 62   | Fish Lung                   | A target can breathe underwater until they surface again.    |
 | 63   | Fleetfooted                 | One creature moves at double speed.                          |
 | 64   | Flicker                     | Target randomly vanishes and reappears once at will.         |
-| 65   | Fog of Illness              | A cloud of nauseating vapors pours out from the Spellbook's pages. Anyone nearby makes a STR save or vomit uncontrollably. |
+| 65   | Fog of Nausea              | A cloud of nauseating vapors pours out from the Spellbook's pages. Anyone nearby makes a STR save or vomit uncontrollably. |
 | 66   | Fold Portal                 | A door you touch opens into another door you've stepped through before until it is shut again. |
 | 67   | Foolishness                 | A target you touch becomes vulnerable to wild mood swings, sweeping conclusions and silly behavior. They also lose 1d6 WIL for 24 hours (down to a minimum of 1). |
 | 68   | Fortify                     | Damage from heat, ice, acid or electricity are impaired against a target for the next hour. |
@@ -109,7 +109,7 @@ If Cairn's default [spells](/cairn-srd#100-spells) don't exactly fit what you're
 | 95   | Latch                       | An unlocked box, cabinet or door opens or closes at your command. |
 | 96   | Librarian's Trap            | Deals 1d4+2 STR loss when read.                              |
 | 97   | Lichsense                   | You feel any undead within 60ft. WIL save to avoid detection by intelligent undead. |
-| 98   | Life Tap                    | A target you touch loses 1d6 STR, which is transferred to you (up to your max STR). |
+| 98   | Strength Tap        | A target you touch loses 1d6 STR, which is transferred to you (up to your max STR). |
 | 99   | Light Show                  | You control a dazzling display of light and color.           |
 | 100  | Lightning Strike            | Electricity flings from your fingertips doing 1d12 damage (blast) in a line. |
 | 101  | Linguist                    | For the next hour you can speak and understand any mundane language. |
@@ -143,9 +143,9 @@ If Cairn's default [spells](/cairn-srd#100-spells) don't exactly fit what you're
 | 129  | Perfect Illusion            | Creates an image with sound, smell and thermal effects, activated according to a trigger you choose. Touching the image or making a successful WIL save will reveal the illusion. |
 | 130  | Perfect Preservation        | A weapon you touch becomes immune to wear, mundane damage or elemental effects. The spell wears off after a day. |
 | 131  | Phantom Hound               | A ghostly canine (4 HP, bite (1d4)) obeys your commands for up to one hour. |
-| 132  | Phasal Sneak                | Anyone within a 10ft radius is rendered invisible.           |
-| 133  | Phasic Anchor               | Binds an extraplanar creature to your will until it performs a task specific task, after which they must pass a WIL save to escape (good luck). |
-| 134  | Phasic Touch                | A disembodied, floating hand obeys your whims but is immaterial. The next Spellbook, ability or item that relies on touch now works from a distance. |
+| 132  | Phase Sneak                | Anyone within a 10ft radius is rendered invisible.           |
+| 133  | Phase Anchor               | Binds an extraplanar creature to your will until it performs a task specific task, after which they must pass a WIL save to escape (good luck). |
+| 134  | Phase Touch                | A disembodied, floating hand obeys your whims but is immaterial. The next Spellbook, ability or item that relies on touch now works from a distance. |
 | 135  | Philolomancy                | You understand all spoken and written languages.             |
 | 136  | Planal Metamorphosis        | Invisible creatures or objects are revealed.                 |
 | 137  | Planar Anchor               | Bars extradimensional movement.                              |
