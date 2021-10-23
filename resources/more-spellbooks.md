@@ -176,7 +176,7 @@ If Cairn's default [spells](/cairn-srd#100-spells) don't exactly fit what you're
 | 162  | Secret Attaché              | You summon an invisible creature of great power that obeys your every command. Reading from other Spellbooks dispels the creature. |
 | 163  | Shelter                     | Creates a standing edifice that can shelter up to 10 creatures, disappearing after 24 hours. |
 | 164  | Shrinking Cant              | A humanoid creature you touch halves in size.                |
-| 165  | Signal                      | You control a floating ball of fire (1d8 damage) for a short while. |
+| 165  | Orb of Ignus                | You control a floating ball of fire (1d8 damage) for a short while. |
 | 166  | Signal                      | Sends up a flare that can be seen for some distance.         |
 | 167  | Simple Illusion             | Creates a simple image with sound. A cursory investigation will reveal the illusory image. |
 | 168  | Sinister Flame              | Target's palms are lined with flames (1d4+1 STR loss) for one minute. |
