@@ -97,3 +97,37 @@ _Emphasize putting the power in the player's hands to make their own decisions, 
 
 ## Other stuff
 - Add generic details to the key, like "unless otherwise noted, the dungeon is musty, wet, etc..."
+
+
+## Chris McDowall's Three Step Dungeons
+### The Three Step Process
+
+- Introduce First Concept
+- Introduce Second Concept
+- Challenge involving both concepts and an additional twist, typically with a reward.
+
+### Concepts
+First think of a bunch of interesting concepts you want to include in your dungeon. They can be monsters, items, hazards, or anything between.
+- You don’t really need to include things that are dead simple like “skeleton warriors” or “pit traps” but if you plan on putting a twist on them then add them in too. You can also skip out anything that has no real element of danger, say a crystal ball that lets you see other areas of the dungeon.
+- And we’ll be introducing them two at a time. This could be a small dungeon that only introduces two new concepts, or a sprawling dungeon comprised of smaller sections that each focus on two concepts.
+
+### The Introductions
+Ideally this is an opportunity for the players to get information about the concept in a mostly safe way before it really challenges them. It needn't even be a direct encounter, the common example being a statuary that introduces the presence of a Medusa.
+- The Intro and the Challenge could even feature the same individual monster encountered in two separate environments, if the Intro leans towards a non-hostile introduction.
+- I lean pretty heavily into giving lots of information, so you may find that less works for your group.
+
+### The Challenge
+Sometimes just combining the two concepts is enough, but usually it’s better to add something else in.  Some ideas could be:
+- A beefed up version of the regular concept.
+- Adding an “opposite” element to the monster, such as a hyper-intelligent variant of a previously dumb monster, or a pacifist version of a hostile monster.
+- Adding a load of basic monsters.
+- An environment that makes things more difficult for the players.
+- A restriction on how the players can act.
+- Removing a safety net that was previously in place.
+- Remember to put a reward in there, Treasure being the most obvious but even just passage to a new area would work.
+
+### Adding Extra Stuff
+If you go straight from concept one to concept two to a combination of both it can end up feeling quite game-y, like you're playing a Megaman level that's built around new enemies rather than a real place you're exploring. This isn’t a bad thing if that’s what you want, but if you want things to feel more organic then consider that a Three Step Dungeon need not be a Three Room Dungeon:
+- You can have simpler areas in between that don’t require introductions or just give some clues for the larger dungeon. 
+- You can include basic elements that don’t require explanation or previously introduced concepts.
+- You can have nonlinear layout but keep the Introductions on the “main path” as best you can.
