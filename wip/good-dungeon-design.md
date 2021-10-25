@@ -145,9 +145,6 @@ Why put stuff in your dungeon that your players won't find?
 11. A creature that appears to be something it is not. Some examples: Lurker above, mimic, [cloaker], wolf in sheep's clothing, doppelganger, gas spore (perhaps my favorite), etc.
 12. One encounter (no more, no less) that makes absolutely no logical sense, that the DM completely leaves up to the players' imagination to explain.
 
-## Other stuff
-- Add generic details to the key, like "unless otherwise noted, the dungeon is musty, wet, etc..."
-
 ## Chris McDowall's Three Step Dungeons
 ### The Three Step Process
 - Introduce First Concept
@@ -179,3 +176,6 @@ If you go straight from concept one to concept two to a combination of both it c
 - You can have simpler areas in between that don’t require introductions or just give some clues for the larger dungeon.
 - You can include basic elements that don’t require explanation or previously introduced concepts.
 - You can have nonlinear layout but keep the Introductions on the “main path” as best you can.
+
+## Random Notes:
+- Add generic details to the key, like "unless otherwise noted, the dungeon is musty, wet, etc..."
