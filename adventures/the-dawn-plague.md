@@ -1,8 +1,7 @@
 ---
 layout: default
 title: The Dawn Plague
-parent: The Dawn Plague
-grand_parent: Adventures
+parent: Adventures
 nav_exclude: true
 search_exclude: true
 ---
