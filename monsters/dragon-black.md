@@ -3,9 +3,9 @@ layout: default
 parent: Monsters
 ---
 # Dragon, Black
-11 HP, 2 Armor, 16 STR, 16 DEX, 14 WIL, bite (d10+d10)  
-- Cruel, amphibious dragons who dwell in swamps and marshes.  
-- Attack by separating their victims and killing them one by one.  
-- Breathes acid in a long line for d10 damage to all caught, corroding wood and cloth.  
+16 HP, 1 Armor, 13 STR, 18 DEX, 14 WIL, bite (d10), claws (d8+d8), _detachment_
+- A giant amphibious reptile with glossy black scales. Dwells in swamps and other hostile flooded environments.
+- Extremely cruel and violent, makes use of the dark, difficult environment and its surprising agility to separate its victims and kill them one by one.
+- Any critical damage saves provoked by the dragon's bite automatically fail, due to its powerful acidic saliva.   
 
 author: [xenio](https://xenioinabottle.blogspot.com)
