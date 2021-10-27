@@ -12,7 +12,7 @@ title: Winter's Daughter
 - In general, very little changes are necessary to run the adventure as written.
 - Note that there are [two versions](https://necroticgnome.com/blogs/news/winters-daughter) of this adventure (not including the 5e/OSE versions).
 - This conversion was written for the original edition, _published with permission_.
-- A PDF-friendly version of this conversion is available here](https://drive.google.com/drive/folders/13gkybUAkRJAXSErB3rDXpclLOmpXLtOB).
+- A PDF-friendly version of this conversion is available [here](https://drive.google.com/drive/folders/13gkybUAkRJAXSErB3rDXpclLOmpXLtOB).
 
 ## Outside the Mound
 
