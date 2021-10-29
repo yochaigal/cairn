@@ -177,5 +177,37 @@ If you go straight from concept one to concept two to a combination of both it c
 - You can include basic elements that don’t require explanation or previously introduced concepts.
 - You can have nonlinear layout but keep the Introductions on the “main path” as best you can.
 
+
+### [Alex Schroeder's Dungeon Stocking Procedure](https://alexschroeder.ch/wiki/2013-08-21_One_Roll_Dungeon_Stocking)
+
+|         |                             |
+|---------|-----------------------------|
+| **d20** | **Contents and Treasure**   |
+| 1-5     | Empty                       |
+| 6       | Unguarded treasure          |
+| 7       | Trap and unguarded treasure |
+| 8-9     | Trap                        |
+| 10-12   | Monster                     |
+| 13-15   | Monster and treasure        |
+| 16-20   | Special                     |
+
+#### Room Results
+**Room 1**: Monster  
+**Room 2:** Monster  
+**Room 3:** Empty  
+**Room 4:** Unguarded Treasure  
+**Room 5:** Empty  
+**Room 6:** Monster and Treasure  
+**Room 7:** Empty  
+**Room 8:** Monster and Treasure  
+**Room 9:** Trap  
+**Room 10:** Empty  
+**Room 11:** Special  
+**Room 12:** Empty  
+**Room 13:** Trap and Treasure  
+**Room 14:** Empty  
+**Room 15:** Special  
+
+
 ## Random Notes:
 - Add generic details to the key, like "unless otherwise noted, the dungeon is musty, wet, etc..."
