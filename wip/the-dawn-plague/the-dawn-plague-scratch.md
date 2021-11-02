@@ -11,6 +11,7 @@ search_exclude: true
 
 [Sefer Hasidim](https://en.wikipedia.org/wiki/Sefer_Hasidim)
 
+## Details
 ### First of Espar
 - Espar is the name of a month; a celebratory time as it marks the end of Summer
   and the beginning of the Fall harvest (the best of the year).
@@ -21,6 +22,7 @@ search_exclude: true
 - They eat dried unsweetened cake to remember their ancestor’s paltry options
   for food.
 
+## Encounters
 ### The Cottage
 - A short, squat cottage nestled among the trees. A small path leads directly to
   it.
@@ -40,28 +42,3 @@ search_exclude: true
 - There is a set limit of objects that the cottage can “summon”; a party of 3 or
   more PCs should be able to overwhelm it by desiring a dozen or so objects
   each.
-
-#### Ideas from Brad
-- Okay--so a smaller locale built around a singular purpose (something like "find the thing," "save this guy," or "escape")
-- "Normal" enough that it could be a one-shot or inserted into a fantasy campaign.
-- Plays into the strengths of Cairn (play it to have fun, not to get xp, kill monsters, or make gold)
-- I think folkloric western European vibes are about right for Cairn.
-- Maybe like a forest crawl. "A kid disappeared into the weird forest that nobody is supposed to ever go into!"
-- Weird creatures with conflicting goals, freaky monsters, a puzzle or two
-
-#### Dungeon Room Results
-**Room 1**: Monster  
-**Room 2:** Monster  
-**Room 3:** Empty  
-**Room 4:** Unguarded Treasure  
-**Room 5:** Empty  
-**Room 6:** Monster and Treasure  
-**Room 7:** Empty  
-**Room 8:** Monster and Treasure  
-**Room 9:** Trap  
-**Room 10:** Empty  
-**Room 11:** Special  
-**Room 12:** Empty  
-**Room 13:** Trap and Treasure  
-**Room 14:** Empty  
-**Room 15:** Special  
