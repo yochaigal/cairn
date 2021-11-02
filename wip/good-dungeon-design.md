@@ -178,7 +178,7 @@ If you go straight from concept one to concept two to a combination of both it c
 - You can have nonlinear layout but keep the Introductions on the “main path” as best you can.
 
 
-### [Alex Schroeder's Dungeon Stocking Procedure](https://alexschroeder.ch/wiki/2013-08-21_One_Roll_Dungeon_Stocking)
+## [Alex Schroeder's Dungeon Stocking Procedure](https://alexschroeder.ch/wiki/2013-08-21_One_Roll_Dungeon_Stocking)
 
 |         |                             |
 |---------|-----------------------------|
