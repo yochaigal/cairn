@@ -10,4 +10,4 @@ title: Where The Wheat Grows Tall
 
 # Where The Wheat Grows Tall
 
-- Converted from the [original work by Evlyn Moreau and Camilla Greer](https://www.exaltedfuneral.com/products/where-the-wheat-grows-tall-pdf).
+- Converted from the [original work](https://www.exaltedfuneral.com/products/where-the-wheat-grows-tall-pdf) by [Evlyn Moreau](http://chaudronchromatique.blogspot.com/) and [Camilla Greer](https://greerrrr.itch.io/).
