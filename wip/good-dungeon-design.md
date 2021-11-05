@@ -191,5 +191,34 @@ If you go straight from concept one to concept two to a combination of both it c
 | 13-15   | Monster and treasure        |
 | 16-20   | Special                     |
 
+
+## [/u/grodog's comments](https://www.reddit.com/user/grodog)
+
+### My favorite elements in dungeon adventures:
+- fun environments to explore and map
+- challenging encounters
+- evocative and engaging puzzles, enigmas, and centerpiece encounters
+- good, functional layout and design
+
+### I also like lots of different types of adventure settings/sites:
+- City and town adventures
+- Dungeons: small @ 1-3 levels, medium@ 4-7 levels, mega-dungeons @ 8+ levels
+- Lairs: small groups of 5-10 rooms in a single level
+- Mysteries - murder or otherwise
+- Planar - exploring the multiverses, Elric-style
+- Quests - probably epic, or at least important
+- Wilderness: aquatic, islands, pirates, undersea, etc.; overland: "there and back again"; underworld: journey to the center of the earth
+
+### And I like games/adventures that support different types of interaction:
+- Advancing your character in level/power
+- Conquering and/or destroying the world
+- Developing your character's history and personality through campaign play
+- Exploration into the unknown
+- Killing monsters and taking their stuff
+- Learning the setting/campaign mysteries
+- Mapping the dungeon, wilderness, city, etc.
+- Role-playing your character with other PCs and/or with NPCs
+- Saving the world and/or making the world a better place
+
 ## Random Notes:
 - Add generic details to the key, like "unless otherwise noted, the dungeon is musty, wet, etc..."
