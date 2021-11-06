@@ -2,6 +2,7 @@
 title: Gambler
 layout: default
 nav_exclude: true
+search_exclude: true
 parent: Backgrounds
 grand_parent: Hacks
 ---
