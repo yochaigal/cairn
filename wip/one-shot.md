@@ -16,6 +16,21 @@ search_exclude: true
 - Weird creatures with conflicting goals, freaky monsters, a puzzle or two.
 
 ### Themes
+- vivid visual
+- flesh
+- wood/trees
+- haunted
+- Warehouse/Granary/Silo (Type 2-4)
+- Neglected Canal/Lake/Pool/Fountain (Type 1-3)
+- Lower Class Residential, Low Density (Type 2-3)
+- Plaza/Agora/Forum/Square (Type 2-4)
+- Mixed Usage (Roll Twice)
+- Artisan Workshops/Manufactory/Foundry (Type 2-4)
+- Large Temple/Cathedral (Type 2-5)
+- Lower Class Residential, Low Density (Type 2-3)
+- Mixed Usage (Roll Twice)
+- Lower Class Tenement (Type 2-4)
+- Mixed Usage (Roll Twice)
 
 ### Contents
 
@@ -35,3 +50,54 @@ search_exclude: true
 **Room 13:** Trap and Treasure  
 **Room 14:** Empty  
 **Room 15:** Special  
+
+## Pointcrawl
+
+### (1) Hills
+- One Link
+- Northwest
+- Normal
+- 1 hour
+- Adjacent Forest
+
+### (2) Grassland
+- One Link
+- Southwest
+- Normal
+- 2 hours
+- Adjacent Grasslands
+
+### (3) Mountains
+- Two Links
+- East
+- Normal
+- 30 minutes
+- Adjacent Forest
+
+### (4) Forest
+- Two Links
+- Southwest
+- Dangerous
+- 1 hour
+- Adjacent Forest
+
+### (5) Swamp
+- Two Links
+- West
+- Special
+- A day
+- Adjacent Grasslands
+
+### (6) Hills
+- Three Links
+- South West
+- Dangerous
+- 2 hours
+- Forest
+
+### (7) Hills
+- Two Links
+- West
+- Normal
+- 2 hours
+- Forest
