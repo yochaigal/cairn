@@ -54,50 +54,29 @@ search_exclude: true
 ## Pointcrawl
 
 ### (1) Hills
-- One Link
-- Northwest
-- Normal
-- 1 hour
+- One Link to the Northwest (normal, 1 hour)
 - Adjacent Forest
 
 ### (2) Grassland
-- One Link
-- Southwest
-- Normal
-- 2 hours
+- One Link to the Southwest (normal, 2 hours)
 - Adjacent Grasslands
 
 ### (3) Mountains
-- Two Links
-- East
-- Normal
-- 30 minutes
+- Links to the East (normal, 30 minutes) and the Southwest (dangerous, 2 hours )
 - Adjacent Forest
 
 ### (4) Forest
-- Two Links
-- Southwest
-- Dangerous
-- 1 hour
+- Links to the Southwest (dangerous, 1 hour) and the Southeast (special, 4 hours)
 - Adjacent Forest
 
 ### (5) Swamp
-- Two Links
-- West
-- Special
-- A day
+- Links to the West (special, a day) and the West (difficult, 2 hours)
 - Adjacent Grasslands
 
 ### (6) Hills
-- Three Links
-- South West
-- Dangerous
-- 2 hours
-- Forest
+- Links to the South West (dangerous, 2 hours), the East (special, one hour) and the North (normal, 2 hours)
+- Adjacent Forest
 
 ### (7) Hills
-- Two Links
-- West
-- Normal
-- 2 hours
+- Links to the West (normal, 2 hours) and the Northeast (normal, 30 minutes)
 - Forest
