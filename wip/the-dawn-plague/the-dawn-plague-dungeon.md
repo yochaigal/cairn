@@ -45,6 +45,9 @@ search_exclude: true
 ### Treasury (**Beauty**)
 - A chamber of souls
 - Dybbuks
+- Gold statue of man/thing in deep pool of water.
+- Statue is missing man turned to gold.
+- Water turns anything it touches to gold
 
 ### The Shrine **Splendor**
 -
