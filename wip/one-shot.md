@@ -55,7 +55,7 @@ search_exclude: true
 
 ### (1) Hills
 - The Northwest (normal, 1 hour, forest)
-- South West (dangerous, 2 hours, forest)
+- Southwest (dangerous, 2 hours, forest)
 - East (special, one hour, hills)
 - North (normal, 2 hours, hills)
 - West (normal, 2 hours, forest)
