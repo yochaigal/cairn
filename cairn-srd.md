@@ -994,7 +994,7 @@ Before calculating damage to HP, subtract the target's **Armor** value from the 
 
 No one can have more than 3 Armor.
 
-**Unarmed** attacks always do 1d4 damage. If **multiple attackers** target the same foe, roll all damaged ice and keep the single highest result. If attacking with **two weapons** at the same time, roll both damage dice and keep the highest.
+**Unarmed** attacks always do 1d4 damage. If **multiple attackers** target the same foe, roll all damage dice and keep the single highest result. If attacking with **two weapons** at the same time, roll both damage dice and keep the highest.
 
 If an attack is **impaired** , the damage die is reduced to 1d4, regardless of weapon. If the attack is **enhanced**, the attacker rolls 1d12. Attacks with the **blast** quality affect all area targets, rolling separately for each.
 
