@@ -26,8 +26,7 @@ search_exclude: true
 A standard combat scenario would work like this:
 
 #### Round 1
-_This only occurs in this way if there are PCs that failed the initial DEX save._
-- PCs make a DEX save. Those who pass go before the enemies (consider them collectively one "side"). They go in whatever order they wish, though the results are simultaneous.
+- PCs make a DEX save. Those who successfully pass go before the enemies (consider them collectively one "side"). They go in whatever order they wish, though the results are simultaneous.
 - All enemies go, in whatever order the Warden chooses; the results are simultaneous.
 
 #### Round 2
@@ -37,6 +36,3 @@ _This only occurs in this way if there are PCs that failed the initial DEX save.
 #### Round 3
 - All PCs get to go.
 - All enemies get to go.
-
-And so on.  
-**Note**: _The only other caveat here would be if someone left combat (usually via a DEX save) and then re-entered combat; you'd need to make a ruling dependent on the situation._
