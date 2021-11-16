@@ -27,19 +27,21 @@ search_exclude: true
 - A workshop crammed with desks and tools. Some of the tables are filled with miniature, half-built golems.
 - It is difficult to move around without pushing the furniture around (and making a lot of noise in the process).
 - A highly detailed human brain is skillfully etched onto the cavern wall. Below the diagram is a small bucket filled with grubby water and some drawing tools.
--  
+- Stairs on the **South** side go to the **Outer Chamber**
+- **South-West** to the **Treasury**
 
 ### 3. Courtyard (**Wisdom**)
 - The walls are painted blue. Silence reigns.
 - A fountain, dead & filled with refuse
 - A statue with both male and female components?
-- Water vein on the South-side floor leads to the **Pool of Life** (4)
-- South to
-
+- Water vein on the South-side floor leads to the **Pool of Life**
+- **South-West** stairs lead to the **Treasury**
 
 ## Lower Level
 ### Outer Chamber (**Discipline**)
+- The walls here are painted red
 - Refuse pit to courtyard
+- A dais. Symbols of ritual/rites; judgment.
 
 ### Pool of Life (**Kindness**)
 - Whirlpool (rushing waters)
@@ -59,14 +61,18 @@ search_exclude: true
 
 ### The Shrine **Splendor**
 -
+- **East** to **Victory**
+- **Southeast** to the **Engine Room**
+-
 
 ### (**Victory**)
 -
 
 ### The Engine Room (**Foundation**)
-- **Alukah**???
+- **[Alukah](https://en.wikipedia.org/wiki/Alukah)** is here, feeding off souls.
 
 ### Throne Room (**Kingship**)
+- The Golem is here.
 
 ## Multiple Entrances/Exits
 - One entrance is beneath a rotating platform in the **Schul** (the pedestal)
