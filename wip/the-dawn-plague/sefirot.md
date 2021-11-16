@@ -9,36 +9,44 @@ search_exclude: true
 
 # Sefirot
 
-## Throughout:
+## Details throughout:
 - Letters carved above each doorway, indicating the room's function and spiritual value.
 - The smell of dried mud, decay and burnt-out candles.
 - The walls of most rooms are made of earthen clay.
 
 ## Upper Level
-### Pedestal (**The Crown**)
+### 1. Pedestal (**The Crown**)
 - The stairs from the **Schul** descend into a central hub.
+- A broken circle stands on a pedestal.
 - **South**: Mostly blocked up by brackish mud. No light pours through the cracks on top.  
-- **West**: To **Inner Chamber**, walls lined with words; a swirling maelstrom of letters.
-- **East**: To **Courtyard**, the smell of dead flowers; the sounds of rushing water.
+- **West** to the **Inner Chamber**, walls lined with words; a swirling maelstrom of letters.
+- **East** to the **Courtyard**, the smell of dead flowers; the sounds of rushing water.
 
-### Inner chamber (**Understanding**)
-- Workshop
-- Half-built golems
+### 4. Inner chamber (**Understanding**)
+- The walls are painted a vibrant green; the room smells like smoke.
+- A workshop crammed with desks and tools. Some of the tables are filled with miniature, half-built golems.
+- It is difficult to move around without pushing the furniture around (and making a lot of noise in the process).
+- A highly detailed human brain is skillfully etched onto the cavern wall. Below the diagram is a small bucket filled with grubby water and some drawing tools.
+-  
 
-### Courtyard (**Wisdom**)
+### 3. Courtyard (**Wisdom**)
+- The walls are painted blue. Silence reigns.
 - A fountain, dead & filled with refuse
-- Tunnels/water
+- A statue with both male and female components?
+- Water vein on the South-side floor leads to the **Pool of Life** (4)
+- South to
+
 
 ## Lower Level
-### Outer Chamber (**Disipline**)
+### Outer Chamber (**Discipline**)
 - Refuse pit to courtyard
 
-### Water Veins (**Kindness**)
+### Pool of Life (**Kindness**)
 - Whirlpool (rushing waters)
 - Aquae Vitae (trap/puzzle)
 - Wooden poles & parchment
 
-### Burial Chamber (**The Crown**)
+### Burial Chamber (****)
 -
 
 ## Bottom Level
@@ -91,7 +99,6 @@ _Emphasize putting the power in the player's hands to make their own decisions, 
 
 ## ideas:
 - Trap: an obvious painting on the ground/wall of whatever trap is behind it. Pressure tears the canvas, triggering the trap.
-- Rooms: Sepirot stuff?
 - False wells
 - Head wires above tombs
 - Powders that are inhaled

@@ -11,6 +11,8 @@ search_exclude: true
 
 [Sefer Hasidim](https://en.wikipedia.org/wiki/Sefer_Hasidim)
 
+[What are the Sefirot](https://www.myjewishlearning.com/article/sefirot/)
+
 ## Details
 ### First of Espar
 - Espar is the name of a month; a celebratory time as it marks the end of Summer
