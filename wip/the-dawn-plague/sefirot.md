@@ -1,13 +1,13 @@
 ---
 layout: default
-title: The Dawn Plague Dungeon
+title: Sefirot
 parent: The Dawn Plague
 grand_parent: wip
 nav_exclude: true
 search_exclude: true
 ---
 
-# The Dawn Plague Dungeon
+# Sefirot
 
 ## Throughout:
 - Letters carved above each doorway, indicating the room's function and spiritual value.

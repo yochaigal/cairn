@@ -1,13 +1,13 @@
 ---
 layout: default
-title: The Dawn Plague
+title: The Dawn Plague Overview
 parent: The Dawn Plague
 grand_parent: wip
 nav_exclude: true
 search_exclude: true
 ---
 
-# The Dawn Plague
+# The Dawn Plague Overview
 
 ## Summary
 * See the overland [map](/adventures/the-dawn-plague/the-dawn-plague-map.jpg)
