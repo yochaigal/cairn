@@ -40,7 +40,7 @@ search_exclude: true
 - In the center of the room is a bubbling fountain; its middle a statue obscured by wilted vines. Removing the plants reveals that the statue has both male and female genitalia.
 - In the fountain's basin are three large stones, shaped into smooth ovals. They are eggs left by the **Alukah**; they will hatch soon, then spread onto the surface. They are slightly warm.
 - In the **South-West** corner is staircase going down to the **Lower Level**, exiting into the **Treasury**. The archway is imbued with carvings of wealth and excess.
-  - On the **South** wall is a water vein large enough for a person to crawl through, single-file. The shaft leads to the **Burial Chamber** . There are no markings around it.  
+- On the **South** wall is a water vein large enough for a person to crawl through, single-file. The shaft leads to the **Burial Chamber** . There are no markings around it.  
 
 ### 4a. Water Vein  
 - A muddy corridor that dips gradually into the **Lower Level**, exiting into the **Burial Chamber**.
