@@ -42,9 +42,8 @@ search_exclude: true
 - In the **South-West** corner is staircase going down to the **Lower Level**, exiting into the **Treasury**. The archway is imbued with carvings of wealth and excess.
   - On the **South** wall is a water vein large enough for a person to crawl through, single-file. The shaft leads to the **Burial Chamber** . There are no markings around it.  
 
-#### 4a. Water Vein
+### 4a. Water Vein  
 - A muddy corridor that dips gradually into the **Lower Level**, exiting into the **Burial Chamber**.
--
 
 ## Lower Level
 ### 5. The Court (**Discipline**)
@@ -77,14 +76,13 @@ search_exclude: true
 - Three small shifts pour water from the **Courtyard** into a large pool of fast-moving water in the center.
 - Glinting within the waters is [treasure], next to a large wooden carving of a man, his feet rooted to the muddy ground.
 - The water from the pool changes flesh to wood and earth.
--
 
 ### 10. The Engine Room (**Foundation**)
 - **[Alukah](https://en.wikipedia.org/wiki/Alukah)** is here, feeding off souls.
 
 ### 11. Throne Room (**Kingship**)
 - The walls are painted a deep blue and black.
-- Engravings of feet and mouths appear at intervals on the walls.
+- Engravings of feet and mouths appear at intervals on either side of the room.
 - On the **South** side a large chunk of earth has been removed, leaving a coffin-sized dip in the ground.
 
 ## Questions
