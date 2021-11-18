@@ -2,7 +2,7 @@
 layout: default
 title: The Dawn Plague Scratch
 parent: The Dawn Plague
-grand_parent: wip
+grand_parent: WIP
 nav_order: 3
 search_exclude: true
 ---

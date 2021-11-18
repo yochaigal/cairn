@@ -2,7 +2,7 @@
 layout: default
 title: The Dawn Plague Overview
 parent: The Dawn Plague
-grand_parent: wip
+grand_parent: WIP
 nav_order: 1
 search_exclude: true
 ---
@@ -10,7 +10,7 @@ search_exclude: true
 # The Dawn Plague Overview
 
 ## Summary
-* See the overland [map](/wip/the-dawn-plague/maps/the-dawn-plague-map.jpg)
+* See the overland [map](/WIP/the-dawn-plague/maps/the-dawn-plague-map.jpg)
 * **Khelma** is a small village seated between a thick forest and a restless sea.
 * Devastated by Ghouls 33 years ago, the town has never fully recovered.
 * The villagers keep to the old ways, carefully following ritual burial rites.

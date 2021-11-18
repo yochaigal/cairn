@@ -1,7 +1,7 @@
 ---
 layout: default
 title: One Shot
-parent: wip
+parent: WIP
 nav_exclude: true
 search_exclude: true
 ---
