@@ -3,7 +3,7 @@ layout: default
 title: The Dawn Plague Overview
 parent: The Dawn Plague
 grand_parent: wip
-nav_exclude: true
+nav_order: 1
 search_exclude: true
 ---
 

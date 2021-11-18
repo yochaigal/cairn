@@ -3,7 +3,7 @@ layout: default
 title: Sefirot
 parent: The Dawn Plague
 grand_parent: wip
-nav_exclude: true
+nav_order: 2
 search_exclude: true
 ---
 
