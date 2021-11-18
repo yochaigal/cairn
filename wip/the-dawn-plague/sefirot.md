@@ -17,15 +17,15 @@ search_exclude: true
 ## Upper Level
 ### 1. The Pedestal (**The Crown**)
 - The stairs descend from the **Schul** a large hexagonal room. The walls are unpainted and marred with broken clay, as if purposefully left unshaped.
-- A beautifully-wrought statue of a broken circle stands on a pedestal in the center of the room.
+- A beautifully-wrought statue of a broken circle stands on a pedestal in the center of the room. The light reflecting off the sculpture is so reflective it causes temporary blindness if stared at for too long.
 - The sculpture appears to face the viewer no matter where in the room they stand. A series of mirrors are positioned in each corner create the illusion; the object's true location is high up in the ceiling.  
 - The **South** exit is blocked by a wall of brackish mud nearly 8 feet high. Halfway up there is a hole large enough to fit two arms through. The tunnel beyond appears dark. The lettering on top is smudged and broken.   
 - To the **West** is an exit with no carvings above the doorway, but beyond the tunnel walls are lined with a swirling maelstrom of letters covering nearly every inch, with no conceivable meaning. It leads to the  to the **Workshop**.
 - The tunnel **East** leads to the **Courtyard**. The archway above contains the symbol of a closed eye. It smells of dead flowers; the sounds of rushing water echo throughout.
 
 ### 2. Central Tunnel
-
-### 2a.  
+- The tunnel walls are painted yellow, blue, pink, violet, white, red, orange, and gold.
+-  
 
 ### 3. The Workshop (**Understanding**)
 - The walls are painted a vibrant green; the room smells like smoke and sweat.
@@ -64,6 +64,7 @@ search_exclude: true
 - The walls here are painted purple.
 - A chamber of souls.
 - Dybbuks?
+- On the **South** side a large chunk of earth has been removed, leaving a coffin-sized dip in the ground.
 
 ### 8. The Shrine (**Splendor**)
 - The walls here are painted a very dark pink.
@@ -83,7 +84,8 @@ search_exclude: true
 ### 11. Throne Room (**Kingship**)
 - The walls are painted a deep blue and black.
 - Engravings of feet and mouths appear at intervals on either side of the room.
-- On the **South** side a large chunk of earth has been removed, leaving a coffin-sized dip in the ground.
+- On the **South** wall is a massive carving of an extremely realistic-looking tree. The branches carry real fruit.
+- Eating fruit.
 
 ## Questions
 
