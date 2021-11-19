@@ -20,7 +20,7 @@ _finds expression in them all._
 
 
 ## Details throughout:
-- Letters and symbols are carved above nearly every doorway (translation in **Bold**), indicating the room's function and spiritual value.
+- Letters and symbols are carved above nearly every doorway (indicated by the **bold** text) which describe room's function and/or spiritual value.
 - The smell of dried mud, decay and burnt-out candles.
 - The walls of most rooms are made of earthen clay.
 
