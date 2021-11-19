@@ -29,14 +29,14 @@ search_exclude: true
 
 ### 3. The Workshop (**Understanding**)
 - The walls are painted a vibrant green; the room smells like smoke and sweat.
-- A workshop crammed with desks and tools. Some of the tables are filled with miniature, half-built golems.
+- A workshop crammed with desks and tools. Some of the tables are filled with miniature, half-built attempts at creating a golem.
 - It is difficult to move around without pushing the furniture around (and making a lot of noise in the process).
 - A highly detailed human brain is skillfully etched onto the cavern wall. Below the diagram is a small bucket filled with grubby water and some drawing tools.
 - Stairs on the **South** side go to the **Outer Chamber**
 - On the **South-East** side is staircase going down to the **Lower Level** (see the **Treasury**).
 
 ### 4. The Courtyard (**Wisdom**)
-- The walls are painted blue. The pleasant sound of water echoes throughout the room.  
+- The walls are painted blue-black. The pleasant sound of water echoes throughout the room.  
 - In the center of the room is a bubbling fountain; its middle a statue obscured by wilted vines. Removing the plants reveals that the statue has both male and female genitalia.
 - In the fountain's basin are three large stones, shaped into smooth ovals. They are eggs left by the **Alukah**; they will hatch soon, then spread onto the surface. They are slightly warm.
 - In the **South-West** corner is staircase going down to the **Lower Level**, exiting into the **Treasury**. The archway is imbued with carvings of wealth and excess.
@@ -46,7 +46,7 @@ search_exclude: true
 - A muddy corridor that dips gradually into the **Lower Level**, exiting into the **Burial Chamber**.
 
 ## Lower Level
-### 5. The Court (**Discipline**)
+### 5. The Judiciary (**Discipline**)
 - The walls here are painted red.
 - A dais. Symbols of ritual/rites; judgment.
 - Wooden poles & parchment
@@ -60,11 +60,11 @@ search_exclude: true
 - **Splendor**
 
 ## Bottom Level
-### 7. The Treasury (**Glory**)
-- The walls here are painted purple.
-- A chamber of souls.
-- Dybbuks?
-- On the **South** side a large chunk of earth has been removed, leaving a coffin-sized dip in the ground.
+### 7. The Pool of Life (**Kindness**)
+- The walls here are painted a very light pink.
+- Three small shifts pour water from the **Courtyard** into a large pool of fast-moving water in the center.
+- Glinting within the waters is [treasure], next to a large wooden carving of a man, his feet rooted to the muddy ground.
+- The water from the pool changes flesh to wood and earth.
 
 ### 8. The Shrine (**Splendor**)
 - The walls here are painted a very dark pink.
@@ -72,11 +72,12 @@ search_exclude: true
 - **East** to the **Pool of Life**.
 - **Southeast** to the **Engine Room**.
 
-### 9. The Pool of Life (**Victory**)
-- The walls here are painted a very light pink.
-- Three small shifts pour water from the **Courtyard** into a large pool of fast-moving water in the center.
-- Glinting within the waters is [treasure], next to a large wooden carving of a man, his feet rooted to the muddy ground.
-- The water from the pool changes flesh to wood and earth.
+### 9. The Treasury (**Victory**)
+- The walls here are painted purple.
+- A chamber of souls.
+- Dybbuks?
+- On the **South** side a large chunk of earth has been removed, leaving a coffin-sized dip in the ground.
+
 
 ### 10. The Engine Room (**Foundation**)
 - **[Alukah](https://en.wikipedia.org/wiki/Alukah)** is here, feeding off souls.
