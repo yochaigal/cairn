@@ -2,10 +2,11 @@
 layout: default
 parent: Monsters
 ---
-# Golem, Clay
-11 HP, 2 Armor, 15 STR, 7 DEX, 8 WIL, fists (d8)  
-- 8’ tall humanoid statues made of baked clay and animated by dark magics.  
-- Immune to mundane attacks and fire.   Resistant to weapon damage that is not bludgeoning.  
-- Critical Damage: Inflicts a curse on the victim, STR cannot be healed until the curse is lifted.  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+# Golem
+16 HP, 2 Armor, 15 STR, 6 DEX, 2 WIL, cobblestone fists (d10)
+* A hulking 9’ tall statue made of clay, mud, and prayer.
+* Mindlessly follows whatever commands given by its master, even after their death.
+* Immune to mundane blades and missile weapons. Damage from fire is _enhanced_.
+* If destroyed, the Golem eventually reforms and carries out its previous orders.
+* Uttering the inverse of the spell that created it reduces the Golem to mud.

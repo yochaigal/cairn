@@ -12,41 +12,41 @@ search_exclude: true
 ## Summary
 * See the overland [map](/WIP/the-dawn-plague/maps/the-dawn-plague-map.jpg)
 * **Khelma** is a small village seated between a thick forest and a restless sea.
-* Devastated by Ghouls 33 years ago, the town has never fully recovered.
+* Devastated by Dybbuks 33 years ago, the town has never fully recovered.
 * The villagers keep to the old ways, carefully following ritual burial rites.
 * **Gehilts Lumber** has planted its stake in the local forest, and pays the town handsomely.
 * Workers and their families have arrived, bringing with them their religion and customs.
 * “Strange sightings” have raised tensions between the villagers and the new families.
-* Improper burials have drawn an older, powerful Ghoul ever closer towards the town.
+* Improper burials have drawn an older, powerful Dybbuk ever closer towards the town.
 * **Rab Shlomo** has been working on creating a creature of mud & clay (a **Golem**) to protect the town, and rid the village of all “invaders” (including lumber workers).
 
 ## The Dawn Plague
-* Thirty-three years ago, a hunting party from **Khelma** froze to death  in the **Blue Forest**. A passing Ghoul happened upon their corpses and feasted.
-* At dawn the next day, the party rose from the dead as Ghouls as well. Mindlessly, they sought fresh meat.
-* Eventually the new Ghouls found the village of **Khelma**, leaving a trail of chewed-up animal corpses and despoiled graves.
-* Locals began to take notice, though many were ill-equipped to handle the situation. A group consisting of all able-bodied adults attempted to stop the Ghouls. All but one did not make it back.
-* Those that were killed rose as Ghouls at dawn the next day.  The survivor - a young seamstress - shared what she had learned. The Ghouls _hated_ fire.
+* Thirty-three years ago, a hunting party from **Khelma** froze to death  in the **Blue Forest**. A passing Dybbuk happened upon their corpses and feasted.
+* At dawn the next day, the party rose from the dead as Dybbuks as well. Mindlessly, they sought fresh meat.
+* Eventually the new Dybbuks found the village of **Khelma**, leaving a trail of chewed-up animal corpses and despoiled graves.
+* Locals began to take notice, though many were ill-equipped to handle the situation. A group consisting of all able-bodied adults attempted to stop the Dybbuks. All but one did not make it back.
+* Those that were killed rose as Dybbuks at dawn the next day.  The survivor - a young seamstress - shared what she had learned. The Dybbuks _hated_ fire.
 * The remaining residents (mostly the very young or very old) were able to frighten their former neighbors, parents and children with torches, pushing them into a nearby quarry.
 * They then set it ablaze. This place is now referred to as **Orphan’s Mound**.
-* Today the locals still stand vigilant for a full night after any burial, to ensure that none rise as a Ghoul. They endlessly repeat the phrase, “A candle for one is a candle for a hundred.”
+* Today the locals still stand vigilant for a full night after any burial, to ensure that none rise as a Dybbuk. They endlessly repeat the phrase, “A candle for one is a candle for a hundred.”
 
 ## Hooks
 * PCs are hired by a wealthy outsider, sent to quiet the unrest.
 * The PCs stumble upon the town in their travels, just as workers and villagers are coming to blows. A local clergy or city official may ask for their assistance as outsiders.
 * Rumors of abandoned treasure buried beneath a large burial mound not far from town.
 
-### Evidence of the Ghoul’s Return
+### Evidence of the Dybbuk’s Return
 * Distrubed graves; mutilated animals. The sound of rocks moving in the forest.
 * A gangly figure dressed in ragged clothing, seen only from afar.
 * Last seen at the small abandoned cemetery North of town. Reports are unreliable.
 
 ## Monsters
 
-### Ghoul
-6 HP,  11 STR, 14 DEX, 3 WIL, elongated claws (d6), jagged teeth (d8)
-* Grey-skinned man-things wearing shredded clothes, hunkering over the ground.
-* Craves the flesh of the living, as it grows only more powerful with each victim.
-* Critical damage: target is immobilized. The wound turns fatal within 1d6 hours if not treated by a priest or skilled healer. If not burned, the victim will rise as a Ghoul.
+### Dybbuk
+10 HP,  12 STR, 14 DEX, 15 WIL, elongated claws (d6), jagged teeth (d8)
+* Appear as grey-skinned, translucent humanoids with long snouts full of large, ugly teeth. Cannot interact with the world while in spirit form.
+* Can leap into the living to wreak havoc among the living. Afterward it leaves only a soulless shell behind. Grows more powerful with each victim.
+* Critical damage: target is immobilized. The wound turns fatal within 1d6 hours if not treated by a priest or skilled healer. If not burned, the victim will become a host for the Dybbuk.
 
 ### Root Witch
 8 HP, 9 STR, 16 DEX, 14 WIL, tuber-fingers (d6)
@@ -124,9 +124,9 @@ search_exclude: true
 ## 7. Froyim’s Home
 * **Froyim Greydinger** makes his home here. He is a well-respected merchant in these parts.
 * Behind the unusually  modern cottage  is a small garden. A large tree sits in the Northwest corner.
-* The **Ghoul’s** first victim, as he travels frequently between his home and the coast.
+* The **Dybbuk’s** first victim, as he travels frequently between his home and the coast.
 * Upon arrival, the PCs will find the door smashed open and blood splattered everywhere.
-* **Froyim’s** body is in the back garden, torn to shreds. If not burnt, it will rise as a **Ghoul** at dawn.
+* **Froyim’s** body is in the back garden, torn to shreds. If not burnt, it will rise as a **Dybbuk** at dawn.
 * Hiding within the tree's mossy bark is a **Shtekn Folk** spy, which will try to run away (towards **Blue Forest**).
 
 ## 8. The Tomb
