@@ -9,13 +9,13 @@ search_exclude: true
 
 # Sefirot
 
-_Ten emanations without form,_
-_Their end also their beginning,_
-_Like an ember to a flame_,
-_They have only one master,_
-_Consider this, then be silent,_
-_The Maker is is unique and without peer,_
-_What number comes before one?_
+_Ten emanations without form._  
+_Their end also their beginning._  
+_Like an ember to a flame._  
+_They have only one master._  
+_Consider this, then be silent!_  
+_The Maker is is unique and without peer._  
+_What number comes before one?_  
 — _The Book of Creation, 1:7_
 
 ## All levels
