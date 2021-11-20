@@ -14,8 +14,9 @@ _Their end also their beginning,_
 _Like an ember to a flame_,
 _They have only one master,_
 _Consider this, then be silent,_
-_What comes before the number one?_
-— _The book of Creation_
+_The Maker is is unique and without peer,_
+_What number comes before one?_
+— _The Book of Creation, 1:7_
 
 ## All levels
 - Letters and symbols are carved above nearly every door. They describe room's function and/or spiritual value (indicated by the **bold** text below).
