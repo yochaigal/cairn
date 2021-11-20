@@ -19,7 +19,7 @@ _What number comes before one?_
 — _The Book of Creation, 1:7_
 
 ## All levels
-- Letters and symbols are carved above nearly every door. They describe room's function and/or spiritual value (indicated by the **bold** text below).
+- Letters and symbols are carved above nearly every entryway that describe the room's spiritual value. 
 - The smell of dried mud, decay and burnt-out candles.
 - The walls of most rooms are made of earthen clay.
 
