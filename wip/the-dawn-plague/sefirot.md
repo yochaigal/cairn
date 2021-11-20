@@ -9,24 +9,26 @@ search_exclude: true
 
 # Sefirot
 
-_Ten Sefirot of Nothingness_  
-_Their measure is ten,_  
-_which has no end._  
-_a depth of beginning,_  
-_a depth of end._  
-_The One,_  
-_finds expression in them all._  
-— [Sefer Yetzirah](https://en.wikipedia.org/wiki/Sefer_Yetzirah), _The Book of Formation, 1:5_
+_Ten emanations without form,_
+_Their end also their beginning,_
+_Like an ember to a flame_,
+_They have only one master,_
+_Consider this, then be silent,_
+_What comes before the number one?_
+— _The book of Creation_
 
-
-## Details throughout:
-- Letters and symbols are carved above nearly every door. They describe room's function and/or spiritual value (indicated by the **bold** text below). 
+## All levels
+- Letters and symbols are carved above nearly every door. They describe room's function and/or spiritual value (indicated by the **bold** text below).
 - The smell of dried mud, decay and burnt-out candles.
 - The walls of most rooms are made of earthen clay.
 
+### 0. Central Tunnel (**Knowledge**)
+- The walls are painted a dull gray.
+- The stairs descend from the **Schul** a large hexagonal room.
+- MORE
+
 ## Upper Level
 ### 1. The Pedestal (**The Crown**)
-- The stairs descend from the **Schul** a large hexagonal room.
 - The walls are unpainted and marred with broken clay, as if purposefully left unshaped.
 - A beautifully-wrought statue of a broken circle stands on a pedestal in the center of the room. The light reflecting off the sculpture is so reflective it causes temporary blindness if stared at for too long.
 - The sculpture appears to face the viewer no matter where in the room they stand. A series of mirrors are positioned in each corner create the illusion; the object's true location is high up in the ceiling.  
@@ -34,12 +36,7 @@ _finds expression in them all._
 - To the **West** is an exit with no carvings above the doorway, but beyond the tunnel walls are lined with a swirling maelstrom of letters covering nearly every inch, with no conceivable meaning. It leads to the  to the **Workshop**.
 - The tunnel **East** leads to the **Courtyard**. The archway above contains the symbol of a closed eye. It smells of dead flowers; the sounds of rushing water echo throughout.
 
-### 2. Central Tunnel (**Knowledge**)
-- The walls are painted a dull gray.
-- MORE
-
-
-### 3. The Workshop (**Understanding**)
+### 2. The Workshop (**Understanding**)
 - The walls are painted blood red; the room smells like smoke and sweat.
 - A workshop crammed with desks and tools. Some of the tables are filled with miniature, half-built attempts at creating a golem.
 - It is difficult to move around without pushing the furniture around (and making a lot of noise in the process).
@@ -47,7 +44,7 @@ _finds expression in them all._
 - Stairs on the **South** side go to the **Outer Chamber**
 - On the **South-East** side is staircase going down to the **Lower Level** (see the **Treasury**).
 
-### 4. The Courtyard (**Wisdom**)
+### 3. The Courtyard (**Wisdom**)
 - The walls are painted blue-black.
 - In the center of the room is a bubbling fountain, making a pleasant bubbling sound.
 - The statue's middle is obscured by wilted vines. Removing the plants reveals that the statue has both male and female genitalia.
@@ -55,17 +52,17 @@ _finds expression in them all._
 - In the **South-West** corner is staircase going down to the **Lower Level**, exiting into the **Treasury**. The archway is imbued with carvings of wealth and excess.
 - On the **South** wall is a water vein large enough for a person to crawl through, single-file. The shaft leads to the **Burial Chamber** . There are no markings around it.  
 
-### 4a. Water Vein  
+### 3a. Water Vein  
 - A muddy corridor that dips gradually into the **Lower Level**, exiting into the **Burial Chamber**.
 - MORE
 
 ## Lower Level
-### 5. The Judiciary (**Discipline**)
+### 4. The Judiciary (**Discipline**)
 - The walls here are painted red.
 - A dais. Symbols of ritual/rites; judgment.
 - Wooden poles & parchment
 
-### 6. The Burial Chamber (**Grace**)
+### 5. The Burial Chamber (**Grace**)
 - The walls here are painted white.
 - A 10-foot long platform is installed into the earth. A massive Golem lies flat and lifeless on the table. Its forehead has smudged lettering on it.
 - Four wooden arms are attached to the platform and enclose the body. Careful observation will reveal that they are all right-arms.
@@ -74,30 +71,29 @@ _finds expression in them all._
 - **Splendor**
 
 ## Bottom Level
-### 7. The Pool of Life (**Kindness**)
+### 6. The Pool of Life (**Kindness**)
 - The walls here are painted a very light blue.
 - Three small shifts pour water from the **Courtyard** into a large pool of fast-moving water in the center.
 - Glinting within the waters is [treasure], next to a large wooden carving of a man, his feet rooted to the muddy ground.
 - The water from the pool changes flesh to wood and earth.
 
-### 8. The Shrine (**Splendor**)
+### 7. The Shrine (**Splendor**)
 - The walls here are painted a very dark orange.
 - A large tapestry hangs on the **West** wall. It depicts a great bonfire; bodies are burning within. Some are clearly human, but others look monstrous. A crowd of children is watching.
 - **East** to the **Pool of Life**.
 - **Southeast** to the **Engine Room**.
 
-### 9. The Treasury (**Victory**)
+### 8. The Treasury (**Victory**)
 - The walls here are painted purple.
 - A chamber of souls.
 - Dybbuks?
 - On the **South** side a large chunk of earth has been removed, leaving a coffin-sized dip in the ground.
 
-
-### 10. The Engine Room (**Foundation**)
+### 9. The Engine Room (**Foundation**)
 - The walls are painted a vibrant green.
 - **[Alukah](https://en.wikipedia.org/wiki/Alukah)** is here, feeding off souls.
 
-### 11. Throne Room (**Kingship**)
+### 10. Throne Room (**Kingship**)
 - The walls are painted a deep blue and black.
 - Engravings of feet and mouths appear at intervals on either side of the room.
 - On the **South** wall is a massive carving of an extremely realistic-looking tree. The branches carry real fruit.
