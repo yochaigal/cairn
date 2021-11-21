@@ -17,7 +17,7 @@ search_exclude: true
 - An outside lumber company has planted its stake in the local forest, and pays the town handsomely.
 - Workers and their families have arrived, bringing with them their religion and customs.
 - “Strange sightings” have raised tensions between the villagers and the new families.
-- The local Rab and his congregation have resorted to an ancient practice meant to protect the town from both outsiders and potential threats. Their efforts may have summoned a far worse threat to the town, with dire consequences.
+- **Rab Schlomo** and his congregation have resorted to an ancient practice meant to protect the town from both outsiders and potential threats. Their efforts may have summoned a far worse threat to the town, with dire consequences.
 
 
 ## The Dawn Plague
@@ -27,7 +27,7 @@ search_exclude: true
 - The **Rab** had survived by climbing up a tree and observing the Dybbuks for a full night, never sleeping. He learned that the Dybbuks could only possess a body while the spirit slept, and that by morning they would have full control. He also learned that they _hated_ fire.
 - The remaining residents (mostly the very young or very old) were able to frighten their possessed former neighbors, parents and children with torches and flaming brands, forcing them into a nearby quarry. They then set it ablaze, killing the bodies but freeing the spirits. This place is now referred to as **Orphan’s Mound**.
 - Today the locals still stand vigilant for a full night after any burial, to ensure that none are possessed by a Dybbuk. They endlessly repeat the phrase, “A candle for one is a candle for a hundred.” In general, the survivors became strict adherents of their ancestor's religious practices.
-- The true details of what happened in **Khelma** was kept secret, most outsiders believing them an unfortunate victims of a plague. The original **Rab** died a few years after the events of the **Dawn Plague**, but made great efforts to forestall anything ever harming the town again. Eventually, a new **Rab** came and made his home among them, intending to understand and protect his newfound neighbors.
+- The true details of what happened in **Khelma** was kept secret, most outsiders believing them an unfortunate victims of a plague. The original **Rab** died a few years after the events of the **Dawn Plague**, but made great efforts to forestall anything ever harming the town again. Eventually, **Rab Schlomo** came and made his home among them, intending to understand and protect his newfound neighbors.
 
 ## Hooks
 - PCs are hired by a wealthy outsider, sent to quiet the unrest.
