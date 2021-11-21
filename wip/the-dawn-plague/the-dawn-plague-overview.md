@@ -44,8 +44,8 @@ search_exclude: true
 ### Dybbuk
 10 HP,  12 STR, 14 DEX, 15 WIL, elongated claws (d6), jagged teeth (d8)
 - Appear as gray-skinned, translucent humanoids with long snouts full of large, ugly teeth. Cannot interact with the world while in spirit form.
-- Can leap into the living to wreak havoc among the living. Afterward it leaves only a soulless shell behind. Grows more powerful with each victim.
-- Critical damage: target is immobilized. The wound turns fatal within 1d6 hours if not treated by a priest or skilled healer. If not burned, the victim will become a host for the Dybbuk.
+- Can leap into the living to wreak havoc among the living. Grows more powerful the longer it maintains a bodily presence.
+- Critical damage: target is immobilized. If the body is not healed via a ritual prayer _or_ burned, the victim will become a host for the Dybbuk.
 
 ### Root Witch
 8 HP, 9 STR, 16 DEX, 14 WIL, tuber-fingers (d6)
@@ -70,6 +70,8 @@ search_exclude: true
 - Will trade almost anything for information they don't already have.
 - Can approximate speech through undulating their twig-like fingers.
 - Attacks utilizing fire are _enhanced_ against **Shtekn Folk**.
+
+### Alukah
 
 ## 1. First Light
 - The oldest established homestead, now home to siblings who remember the **Dawn Plague**.
