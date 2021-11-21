@@ -18,15 +18,10 @@ _The Maker is is unique and without peer._
 _What number comes before one?_  
 — _The Book of Creation, 1:7_
 
-## All levels
-- Letters and symbols are carved above nearly every entryway that describe the room's spiritual value.
-- The smell of dried mud, decay and burnt-out candles.
-- The walls of most rooms are made of earthen clay.
-
-### 0. Central Tunnel (**Knowledge**)
-- The walls are painted a dull gray.
-- The stairs descend from the **Schul** a large hexagonal room.
-- MORE
+## Details for all levels
+- Words carved above a doorway describe the room's spiritual value.
+- The smell of dried mud and decay.
+- Each room is carved from solid rock into a precise hexagonal shape.
 
 ## Upper Level
 ### 1. The Pedestal (**The Crown**)
@@ -36,6 +31,11 @@ _What number comes before one?_
 - The **South** exit is blocked by a wall of brackish mud nearly 8 feet high. Halfway up there is a hole large enough to fit two arms through. The tunnel beyond appears dark. The lettering on top is smudged and broken.   
 - To the **West** is an exit with no carvings above the doorway, but beyond the tunnel walls are lined with a swirling maelstrom of letters covering nearly every inch, with no conceivable meaning. It leads to the  to the **Workshop**.
 - The tunnel **East** leads to the **Courtyard**. The archway above contains the symbol of a closed eye. It smells of dead flowers; the sounds of rushing water echo throughout.
+- Stairs from the **North** ascends to the **Schul**.
+
+### 1a. Central Tunnel (**Knowledge**)
+- The walls are painted a dull gray.
+- MORE
 
 ### 2. The Workshop (**Understanding**)
 - The walls are painted blood red; the room smells like smoke and sweat.
