@@ -10,14 +10,14 @@ search_exclude: true
 # The Dawn Plague Overview
 
 ## Summary
-- See the overland [map](/WIP/the-dawn-plague/maps/the-dawn-plague-map.jpg)
+- See the overland [map](/WIP/the-dawn-plague/maps/the-dawn-plague-map.jpg).
 - Khelma is a small village seated between a thick forest and a restless sea.
 - Devastated by something called "The Dawn Plague" decades before, the town has never fully recovered.
 - The villagers keep to the old ways, carefully following ritual burial rites.  
 - An outside lumber company has planted its stake in the local forest, and pays the town handsomely.
 - Workers and their families have arrived, bringing with them their religion and customs.
 - “Strange sightings” have raised tensions between the villagers and the new families.
-- As a result, the local Rab has begun efforts to protect the town from any and all outsider threats. However, he is playing powers far beyond his understanding, and the results may be devastating.
+- The local Rab and his congregation have resorted to an ancient practice meant to protect the town from both outsiders and potential threats. Their efforts may have summoned a far worse threat to the town, with dire consequences.
 
 
 ## The Dawn Plague
