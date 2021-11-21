@@ -10,15 +10,15 @@ search_exclude: true
 # The Dawn Plague Overview
 
 ## Summary
-* See the overland [map](/WIP/the-dawn-plague/maps/the-dawn-plague-map.jpg)
-* **Khelma** is a small village seated between a thick forest and a restless sea.
-* Devastated by Dybbuks 33 years ago, the town has never fully recovered.
-* The villagers keep to the old ways, carefully following ritual burial rites.
-* **Gehilts Lumber** has planted its stake in the local forest, and pays the town handsomely.
-* Workers and their families have arrived, bringing with them their religion and customs.
-* “Strange sightings” have raised tensions between the villagers and the new families.
-* Improper burials have drawn an older, powerful Dybbuk ever closer towards the town.
-* **Rab Shlomo** has been working on creating a creature of mud & clay (a **Golem**) to protect the town, and rid the village of all “invaders” (including lumber workers).
+- See the overland [map](/WIP/the-dawn-plague/maps/the-dawn-plague-map.jpg)
+- Khelma is a small village seated between a thick forest and a restless sea.
+- Devastated by something called "The Dawn Plague" decades before, the town has never fully recovered.
+- The villagers keep to the old ways, carefully following ritual burial rites.  
+- An outside lumber company has planted its stake in the local forest, and pays the town handsomely.
+- Workers and their families have arrived, bringing with them their religion and customs.
+- “Strange sightings” have raised tensions between the villagers and the new families.
+- As a result, the local Rab has begun efforts to protect the town from any and all outsider threats. However, he is playing powers far beyond his understanding, and the results may be devastating.
+
 
 ## The Dawn Plague
 * Thirty-three years ago, a hunting party from **Khelma** froze to death  in the **Blue Forest**. A passing Dybbuk happened upon their corpses and feasted.
