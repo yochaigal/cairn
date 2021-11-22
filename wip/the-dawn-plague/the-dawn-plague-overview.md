@@ -23,18 +23,19 @@ search_exclude: true
 ## The Dawn Plague
 - Thirty-three years ago, a hunting party from **Khelma** found themselves lost in the **Blue Forest**, eventually taking their rest in a place haunted by bodiless Dybbuks. By morning, all were possessed.
 - The newly-bodied Dybbuks then found their way to the village of **Khelma**, retreating back to the forest after wreaking havoc on the frightened populace.
-- The locals were ill-equipped to handle the situation. A small group of all able-bodied adults attempted to stop the Dybbuks on their own turf. All but one (a local **Rab**) did not return.
-- The **Rab** had survived by climbing up a tree and observing the Dybbuks for a full night, never sleeping. He learned that the Dybbuks could only possess a body while the spirit slept, and that by morning they would have full control. He also learned that they _hated_ fire.
-- The remaining residents (mostly the very young or very old) were able to frighten their possessed former neighbors, parents and children with torches and flaming brands, forcing them into a nearby quarry. They then set it ablaze, killing the bodies but freeing the spirits. This place is now referred to as **Orphan’s Mound**.
+- The locals were ill-equipped to handle the situation. A small group of all able-bodied adults attempted to stop the Dybbuks on their own turf. All but one (**Zina**, a seamstress) did not return.
+- **Zina** survived by climbing up a tree and observing the Dybbuks for a full night, never sleeping. She observed that the Dybbuks could only possess a body while the spirit slept, and that by morning they would have full control. She also saw that they _hated_ fire. She let one of the children know what she'd learned, then fled.
+- The remaining residents (mostly children and the elderly **Rab**) were able to frighten their possessed former neighbors, parents and children with torches and flaming brands, forcing them into a nearby quarry. They then set it ablaze, killing the bodies but freeing the spirits. This place is now referred to as **Orphan’s Mound**.
 - Today the locals still stand vigilant for a full night after any burial, to ensure that none are possessed by a Dybbuk. They endlessly repeat the phrase, “A candle for one is a candle for a hundred.” In general, the survivors became strict adherents of their ancestor's religious practices.
 - The true details of what happened in **Khelma** was kept secret, most outsiders believing them an unfortunate victims of a plague. The original **Rab** died a few years after the events of the **Dawn Plague**, but made great efforts to forestall anything ever harming the town again. Eventually, **Rab Schlomo** came and made his home among them, intending to understand and protect his newfound neighbors.
+- **Zina** was never seen again, though she lives on as an **Estrie**, surviving from offerings left to her by the villagers.
 
 ## Hooks
 - PCs are hired by a wealthy outsider, sent to quiet the unrest.
 - The PCs stumble upon the town in their travels, just as workers and villagers are coming to blows. A local clergy or city official may ask for their assistance as outsiders.
 - Rumors of abandoned treasure buried beneath a large burial mound not far from town.
 
-### Evidence of the Dybbuk’s Return
+### Evidence of Dybbuks
 - Disturbed graves; mutilated animals. The sound of rocks moving in the forest.
 - A gangly figure dressed in ragged clothing, seen only from afar.
 - Last seen at the small abandoned cemetery North of town. Reports are unreliable.
@@ -45,7 +46,7 @@ search_exclude: true
 10 HP,  12 STR, 14 DEX, 15 WIL, elongated claws (d6), jagged teeth (d8)
 - Appear as gray-skinned, translucent humanoids with long snouts full of large, ugly teeth. Cannot interact with the world while in spirit form.
 - Can leap into the living to wreak havoc among the living. Grows more powerful the longer it maintains a bodily presence.
-- Critical damage: target is immobilized. If the body is not healed via a ritual prayer _or_ burned, the victim will become a host for the Dybbuk.
+- Critical damage: target is immobilized and unconscious. If the body is not healed via a ritual prayer, the victim becomes a host for the Dybbuk.
 
 ### Root Witch
 8 HP, 9 STR, 16 DEX, 14 WIL, tuber-fingers (d6)
@@ -55,14 +56,6 @@ search_exclude: true
 - Easily takes offense, especially if offered anything more than a few days dead.
 - Critical damage: target is pulled underground, where they soon suffocate.
 
-### Golem
-16 HP, 2 Armor, 15 STR, 6 DEX, 2 WIL, cobblestone fists (d10)
-- A hulking 9’ tall statue made of clay, mud, and prayer.
-- Mindlessly follows whatever commands given by its master, even after their death.
-- Immune to mundane blades and missile weapons. Damage from fire is _enhanced_.
-- If destroyed, the Golem eventually reforms and carries out its previous orders.
-- Uttering the inverse of the spell that created it reduces the Golem to mud.
-
 ### Shtekn Folk
 4 HP, 1 Armor, 11 STR, 8 DEX, 14 WIL, knotted fists (d8+d8)
 - Stick-like humanoids made of branches, vines and roots. Refer to themselves as "the People".
@@ -71,7 +64,24 @@ search_exclude: true
 - Can approximate speech through undulating their twig-like fingers.
 - Attacks utilizing fire are _enhanced_ against **Shtekn Folk**.
 
-### Alukah
+### Zina (an Estrie)
+10 HP, 11 STR, 15 DEX, 14 WIL, draining hair (1d8)
+- Appears as a woman with long dark hair that extends all the way to her feet. Can transform into an owl at night.
+- Drinking blood gives her power, but she can also obtain sustenance from eating bread and salt if taken from one she has wronged.
+- Binding their hair prevents any transformation. Can be killed, but her head must be buried and the mouth stuffed with dirt.  
+- Critical damage: target falls unconscious for 1d4 days.
+
+### Shabriri, the Dazzler
+- Lives in pools and water
+- Defeated by speaking one letter less of his name at a time while walking backwards, until it disappears, e.g.Shabriri, habiri, abriri, briri, riri, iri, ri.
+
+### Golem
+16 HP, 2 Armor, 15 STR, 6 DEX, 2 WIL, cobblestone fists (d10)
+- A hulking 9’ tall statue made of clay, mud, and prayer.
+- Mindlessly follows whatever commands given by its master, even after their death.
+- Immune to mundane blades and missile weapons. Damage from fire is _enhanced_.
+- If destroyed, the Golem eventually reforms and carries out its previous orders.
+- Uttering the inverse of the spell that created it reduces the Golem to mud.
 
 ## 1. First Light
 - The oldest established homestead, now home to siblings who remember the **Dawn Plague**.
