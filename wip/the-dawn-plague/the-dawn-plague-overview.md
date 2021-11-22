@@ -19,7 +19,6 @@ search_exclude: true
 - “Strange sightings” have raised tensions between the villagers and the new families.
 - **Rab Schlomo** and his congregation have resorted to an ancient practice meant to protect the town from both outsiders and potential threats. Their efforts may have summoned a far worse threat to the town, with dire consequences.
 
-
 ## The Dawn Plague
 - Thirty-three years ago, a hunting party from **Khelma** found themselves lost in the **Blue Forest**, eventually taking their rest in a place haunted by bodiless Dybbuks. By morning, all were possessed.
 - The newly-bodied Dybbuks then found their way to the village of **Khelma**, retreating back to the forest after wreaking havoc on the frightened populace.
@@ -39,6 +38,11 @@ search_exclude: true
 - Disturbed graves; mutilated animals. The sound of rocks moving in the forest.
 - A gangly figure dressed in ragged clothing, seen only from afar.
 - Last seen at the small abandoned cemetery North of town. Reports are unreliable.
+
+### Last Culling
+- A holiday marking the end of Fall as well as the final harvest.
+- Locals remember those they'd lost during the **Dawn Plague**, and what they had to do to survive afterward.
+- They eat dried unsweetened cake and attend services at the **Schul**.
 
 ## Monsters
 
@@ -91,7 +95,6 @@ search_exclude: true
 ## 2. Shorehead Ruins
 - A large, mostly worn-away temple that predates the arrival of the **Khelma** colonists.
 - Some theorize they represent ancient sea-faring peoples from across the **Silver Sea**.
--
 
 ## 3. The Tentyard
 - Three structures lined in rows along the beach. They look like the ribs of a massive sea creature.
