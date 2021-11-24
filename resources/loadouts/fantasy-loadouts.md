@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fantasy Starting Loadouts
+title: Fantasy Loadouts
 nav_order: 1
 parent: Loadouts
 grand_parent: Resources
