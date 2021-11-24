@@ -1,11 +1,12 @@
 ---
 layout: default
-title: d66 Starting Loadouts
-nav_order: 9
-parent: Resources
+title: Fantasy Starting Loadouts
+nav_order: 1
+parent: Loadouts
+grand_parent: Resources
 ---
 
-# d66 Starting Loadouts
+# Fantasy Starting Loadouts
 _Originally by [Jim Parkin](https://classless-kobolds.itch.io/d66-starting-loadouts-for-cairn), reproduced with permission._
 
 ### Instructions
