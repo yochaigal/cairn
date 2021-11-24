@@ -55,7 +55,7 @@ _Originally by [Chris Angell](https://chrisangell.itch.io/), reproduced with per
 - Scrapmetal axe (d8)
 - Can of gas
 - Hair wax
-- 5 Stimulant pills (+2 damage, addictive)
+- 5 Stimulant pills (+2 damage, _addictive_)
 
 ### Miner
 - Hardhat with lamp (1 Armor)
