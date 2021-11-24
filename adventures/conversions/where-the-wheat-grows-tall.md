@@ -10,12 +10,16 @@ title: Where The Wheat Grows Tall
 
 # Where The Wheat Grows Tall
 
-- Converted from the [original work](https://www.exaltedfuneral.com/products/where-the-wheat-grows-tall-pdf) by [Evlyn Moreau](http://chaudronchromatique.blogspot.com/) and [Camilla Greer](https://greerrrr.itch.io/).
+- Converted from the [original work](https://www.exaltedfuneral.com/products/where-the-wheat-grows-tall-pdf) by [Evlyn Moreau](http://chaudronchromatique.blogspot.com/) and [Camilla Greer](https://greerrrr.itch.io/).]
+- Buy it in print, if you can. It's fantastic.
 
 
 ### Notes
-**Weapons & Tools** on page 10: treat damage as-is.  
-**The Polotnikovs**: as NPCs.
+#### Weapons & Tools (page 10)
+Treat damage as-is.  
+
+#### The Polotnikovs
+Treat as NPCs.
 
 ## Bestiary
 #### Old Svarg
