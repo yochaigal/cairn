@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Conversions
-nav_order: 2
+title: Third Party
+nav_order: 1
 parent: Adventures
 has_children: true
 ---
 
-# Conversions
+# Third Party Adventures
