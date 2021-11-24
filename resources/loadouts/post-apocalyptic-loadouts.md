@@ -28,7 +28,7 @@ _Originally by [Chris Angell](https://chrisangell.itch.io/), reproduced with per
 ### Soldier
 - Sniper rifle or SMG (d10)
 - Combat knife (d6)
-- Bulletproof vest
+- Bulletproof vest (1 Armor)
 - 3 Flashbangs
 - Pair of walkie-talkies
 - Pack of smokes
@@ -39,7 +39,7 @@ _Originally by [Chris Angell](https://chrisangell.itch.io/), reproduced with per
 - Camouflage cloak
 - Tattooed map
 - Pup tent
-- 5 Iodine tablets
+- 5 iodine tablets
 
 ### Layabout
 - Guitar
@@ -58,7 +58,7 @@ _Originally by [Chris Angell](https://chrisangell.itch.io/), reproduced with per
 - 5 Stimulant pills (+2 damage, addictive)
 
 ### Miner
-- Hardhat with lamp
+- Hardhat with lamp (1 Armor)
 - Steel-toed boots
 - Caged canary
 - Pickaxe (d6)
