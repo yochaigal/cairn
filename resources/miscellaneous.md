@@ -14,7 +14,6 @@ parent: Resources
 - idolofmanyhand's generators [Perchance](https://perchance.org/cairn-characters) or [Chartopia](http://d12dev.com/chart/32009)
 - [Classic Fantasy Starting Packages](https://dreamingdragonslayer.itch.io/into-the-odd-classic-fantasy-starting-packages)
 - [108 Level-less Spells](https://dreamingdragonslayer.itch.io/108-level-less-spells-d366)
-- [d66 Starting Loadouts by Classess Kobolds](https://classless-kobolds.itch.io/d66-starting-loadouts-for-cairn)
 - [Mausritter Item Creation Tools](https://mausritter.com/item-card-studio/)
 - [Magical Relics](https://glassbirdgames.blogspot.com/2021/08/10-magical-relics-for-cairn.html)
 - [Caers & Crannogs Zine](https://manarampmatt.itch.io/caers-crannogs-issue-1)
