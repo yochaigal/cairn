@@ -65,7 +65,7 @@ _**Easy, right? Now to make it useful:**_
 - Appears as a 7-foot tall with a human woman with the head of a fox.
 - Transforms into a fox at will.
 - Immune to attacks from metal weapons.
-- Critical damage: victim is choked unconscious, to be fed on.
+- Critical damage: victim is choked unconscious, to be fed on soon after.
 
 _**And that's it!**_
 _**Behold, a converted Cairn monster:**_
@@ -75,4 +75,4 @@ _**Behold, a converted Cairn monster:**_
 - Appears as a 7-foot tall with a human woman with the head of a fox.
 - Transforms into a fox at will.
 - Immune to attacks from metal weapons.
-- Critical damage: victim is choked unconscious, to be fed on.
+- Critical damage: victim is choked unconscious, to be fed on soon after.
