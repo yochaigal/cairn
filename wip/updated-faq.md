@@ -6,7 +6,7 @@ nav_exclude: true
 search_exclude: true
 ---
 
-## Updated FAQ
+# Updated FAQ
 
 ### How do detachments work?
 
