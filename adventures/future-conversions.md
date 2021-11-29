@@ -36,7 +36,7 @@ The following is a list of planned conversions. If you'd like to help out, pick 
 - [Operation Unfathomable](https://www.drivethrurpg.com/product/233145/Operation-Unfathomable)
 - [Prison of the Hated Pretender](https://www.drivethrurpg.com/product/333389/Prison-of-the-Hated-Pretender)
 - [Scenic Dunsmouth](https://www.drivethrurpg.com/product/127039/Scenic-Dunnsmouth)
-- Stonehell Dungeon [Down Night-Haunted Halls](https://www.lulu.com/en/us/shop/michael-curtis/stonehell-dungeon-down-night-haunted-halls-ebook/ebook/product-1nq5eywz.html) & [Into The Heart of Hell](https://www.lulu.com/en/us/shop/michael-curtis/stonehell-dungeon-into-the-heart-of-hell/ebook/product-1yj5yj72.html)
+- Stonehell Dungeon: [Down Night-Haunted Halls](https://www.lulu.com/en/us/shop/michael-curtis/stonehell-dungeon-down-night-haunted-halls-ebook/ebook/product-1nq5eywz.html) & [Into The Heart of Hell](https://www.lulu.com/en/us/shop/michael-curtis/stonehell-dungeon-into-the-heart-of-hell/ebook/product-1yj5yj72.html)
 - [The Black Wyrm of Brandonsford](https://www.drivethrurpg.com/product/327744/The-Black-Wyrm-of-Brandonsford)
 - [The Burial Mound of Gilliard Wolfclan](http://bernietheflumph.blogspot.com/2013/04/the-burial-mound-of-gilliard-wolfclan.html)
 - [The Dark of Hot Springs Island](https://shop.swordfishislands.com/the-dark-of-hot-springs-island/)
