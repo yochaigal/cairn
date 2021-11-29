@@ -32,13 +32,16 @@ Have 4 HP unless otherwise noted. The "House Spirit" (Oleg) has 4 HP.
 - Can vanish into the crops without a save (their laughter may reveal location).
 
 #### Crops Spirit
-10 HP, 1 Armor, 9 STR, 14 DEX, 6 WIL, farming tools or talons (2d6)
-- If attacked, animates crops to subdue attacker (DEX to break free). On a fail, the target is strangled and asphyxiates quickly.
+10 HP, 1 Armor, 9 STR, 14 DEX, 6 WIL, farming tools or talons (d8+d8)
+- If attacked, animates crops to subdue attacker (DEX to break free). On a fail, the target is strangled unconscious and eventually asphyxiates.
 
 #### Crow/Owl Spirit
-
+5 HP, 1 Armor, 8 STR, 10 DEx, 8 WIL, farming tool (d6), flock of birds (d4, _blast_)
+- If attacked, summons a flock of birds to their defense (additional d4 damage every round).
+- Critical damage: target must make two STR saves and keep the higher result.
 
 #### Ghosts
+
 
 #### The Likho, The One Eyed Witch
 
