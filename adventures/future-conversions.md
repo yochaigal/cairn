@@ -37,7 +37,6 @@ The following is a list of planned conversions. If you'd like to help out, pick 
 - Stonehell Dungeon: [Down Night-Haunted Halls](https://www.lulu.com/en/us/shop/michael-curtis/stonehell-dungeon-down-night-haunted-halls-ebook/ebook/product-1nq5eywz.html) & [Into The Heart of Hell](https://www.lulu.com/en/us/shop/michael-curtis/stonehell-dungeon-into-the-heart-of-hell/ebook/product-1yj5yj72.html)
 - [The Alchemist's Repose](https://www.drivethrurpg.com/product/228235/The-Alchemists-Repose)
 - [The Black Wyrm of Brandonsford](https://www.drivethrurpg.com/product/327744/The-Black-Wyrm-of-Brandonsford)
-- [The Burial Mound of Gilliard Wolfclan](http://bernietheflumph.blogspot.com/2013/04/the-burial-mound-of-gilliard-wolfclan.html)
 - [The Caverns of Thracia](https://en.wikipedia.org/wiki/The_Caverns_of_Thracia)
 - [The Dark of Hot Springs Island](https://shop.swordfishislands.com/the-dark-of-hot-springs-island/)
 - [The Evils of Illmire](https://www.spellswordstudios.com/posts/the-evils-of-illmire-mini-mega-hex-crawl-adventure)
@@ -69,4 +68,4 @@ The following is a list of planned conversions. If you'd like to help out, pick 
 - [Worm Gullet](https://dysonlogos.blog/2011/03/30/into-the-worms-gullet-a-one-page-dungeon/)
 - [Wormskin](https://www.drivethrurpg.com/product/231189/Everything-Dolmenwood-PDF-BUNDLE) (Dolmenwood)
 - [Xanadu](https://www.drivethrurpg.com/product/332813/Xanadu)
-- [Yoon Suin](https://www.drivethrurpg.com/product/144820/YoonSuin)
+- [Yoon-Suin](https://www.drivethrurpg.com/product/144820/YoonSuin)
