@@ -35,7 +35,6 @@ The following is a list of planned conversions. If you'd like to help out, pick 
 - [Prison of the Hated Pretender](https://www.drivethrurpg.com/product/333389/Prison-of-the-Hated-Pretender)
 - [Scenic Dunsmouth](https://www.drivethrurpg.com/product/127039/Scenic-Dunnsmouth)
 - Stonehell Dungeon: [Down Night-Haunted Halls](https://www.lulu.com/en/us/shop/michael-curtis/stonehell-dungeon-down-night-haunted-halls-ebook/ebook/product-1nq5eywz.html) & [Into The Heart of Hell](https://www.lulu.com/en/us/shop/michael-curtis/stonehell-dungeon-into-the-heart-of-hell/ebook/product-1yj5yj72.html)
-- [The Alchemist's Repose](https://www.drivethrurpg.com/product/228235/The-Alchemists-Repose)
 - [The Black Wyrm of Brandonsford](https://www.drivethrurpg.com/product/327744/The-Black-Wyrm-of-Brandonsford)
 - [The Caverns of Thracia](https://en.wikipedia.org/wiki/The_Caverns_of_Thracia)
 - [The Dark of Hot Springs Island](https://shop.swordfishislands.com/the-dark-of-hot-springs-island/)
