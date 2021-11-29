@@ -12,24 +12,31 @@ title: Where The Wheat Grows Tall
 
 - Converted from the [original work](https://www.exaltedfuneral.com/products/where-the-wheat-grows-tall-pdf) by [Evlyn Moreau](http://chaudronchromatique.blogspot.com/) and [Camilla Greer](https://greerrrr.itch.io/)].
 - Buy it in print, if you can. It's fantastic.
+- Only what needs to be converted or changed will appear here. If an important detail is missing, refer to the adventure!
 - This is a WIP so if you see something amiss, be patient!
 
-
-### Notes
+## Notes
 #### Weapons & Tools (page 10)
 Treat damage as-is.  
 
 #### The Polotnikovs
-Treat as NPCs.
+Have 4 HP unless otherwise noted. The "House Spirit" (Oleg) has 4 HP.
 
 ## Bestiary
 #### Old Svarg
+6 HP, 8 STR, 1 Armor, fire sickle (d6)
+- Critical damage: 1d4 items catch fire and are destroyed (flammable or valuable first)
 
 #### Barstukai
+4 HP, 4 STR, 12 DEX, 5 WIL, claws (d4), farming tools (d6)
+- Can vanish into the crops without a save (their laughter may reveal location).
 
 #### Crops Spirit
+10 HP, 1 Armor, 9 STR, 14 DEX, 6 WIL, farming tools or talons (2d6)
+- If attacked, animates crops to subdue attacker (DEX to break free). On a fail, the target is strangled and asphyxiates quickly.
 
 #### Crow/Owl Spirit
+
 
 #### Ghosts
 
