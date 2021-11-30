@@ -24,7 +24,7 @@ Have 4 HP unless otherwise noted. The "House Spirit" (Oleg) has 4 HP.
 
 ## Bestiary
 #### Old Svarg
-6 HP, 8 STR, 1 Armor, fire sickle (d6)
+6 HP, 1 Armor, 8 STR, 12 DEX, 15 WIL, fire sickle (d6)
 - Critical damage: 1d4 items catch fire and are destroyed (flammable or valuable first)
 
 #### Barstukai
@@ -36,7 +36,7 @@ Have 4 HP unless otherwise noted. The "House Spirit" (Oleg) has 4 HP.
 - If attacked, animates crops to subdue attacker (DEX to break free). On a fail, the target is strangled unconscious and eventually asphyxiates.
 
 #### Crow/Owl Spirit
-5 HP, 1 Armor, 8 STR, 10 DEX, 8 WIL, farming tool (d6), flock of birds (d4, _blast_)
+5 HP, 1 Armor, 8 STR, 10 DEX, 12 WIL, farming tool (d6), flock of birds (d4, _blast_)
 - If attacked, summons a flock of birds to their defense (additional d4 damage every round).
 - Critical damage: target must make two STR saves and keep the higher result.
 
@@ -50,7 +50,7 @@ Have 4 HP unless otherwise noted. The "House Spirit" (Oleg) has 4 HP.
 #### Night Spirit
 
 #### Noon Wraith
-10 HP, 1 Armor, claws (d6+d6)
+8 HP, 1 Armor, 8 STR, 11 DEX, 15 WIL, claws (d6+d6)
 - Sunstrike: On Critical Damage, target believes they are on fire. WIL save or take an additional 1d4 STR damage.
 
 #### Poleviks
