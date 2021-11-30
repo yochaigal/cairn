@@ -98,7 +98,7 @@ title: Winter's Daughter
 
 ### 13. The Knight's Tomb
 #### The Ghost of Sir Chyde
-- 26 HP, 3 Armor, 14 STR, 16 DEX, 18 WIL, aging touch (1d6)
+- 18 HP, 3 Armor, 14 STR, 16 DEX, 18 WIL, aging touch (1d6)
 - Abilities as written.
 
 ### Stone Coffer
@@ -124,7 +124,7 @@ title: Winter's Daughter
 
 ### 16. Entrance Hall
 #### Dolmenwood Troll
-24 HP, 2 Armor, 17 STR, 9 DEX, 12 WIL, moss fists (d10)
+14 HP, 2 Armor, 18 STR, 9 DEX, 12 WIL, moss fists (d10)
 - Moss growth: as written.
 - Regeneration: regains 3hp per round, and even severed limbs are reattached. If killed, will regenerate and fight again in 2d6 minutes.
 - Lore: as written.
