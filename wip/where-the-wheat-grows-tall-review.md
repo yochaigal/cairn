@@ -15,3 +15,7 @@ search_exclude: true
 - The stats are sparse and lean heavily on the flavor text, which makes conversion easier.
 - The "other names" of monsters are quite interesting.
 - Many of the spirits seem to react strongly against would-be attackers, but do not appear noticeably warlike otherwise. Defensive stats over offensive.
+- I wish there was more evidence of past actions in the farmstead itself, or information about its location.
+- Play aids were very helpful.
+- Windvane concept is WONDERFUL.
+- Locations of NPCs are very helpful.

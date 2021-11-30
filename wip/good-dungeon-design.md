@@ -222,3 +222,6 @@ If you go straight from concept one to concept two to a combination of both it c
 
 ## Random Notes:
 - Add generic details to the key, like "unless otherwise noted, the dungeon is musty, wet, etc..."
+
+
+### Transcription from Winter's Daughter ()
