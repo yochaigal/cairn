@@ -42,7 +42,6 @@ Have 4 HP unless otherwise noted. The "House Spirit" (Oleg) has 4 HP.
 
 #### Ghosts
 
-
 #### The Likho, The One Eyed Witch
 
 #### Night Goblins
@@ -51,7 +50,7 @@ Have 4 HP unless otherwise noted. The "House Spirit" (Oleg) has 4 HP.
 
 #### Noon Wraith
 8 HP, 1 Armor, 8 STR, 11 DEX, 15 WIL, claws (d6+d6)
-- Sunstrike: On Critical Damage, target believes they are on fire. WIL save or take an additional 1d4 STR damage.
+- **Sunstrike**: On Critical Damage, target must make a **WIL** save or they believe they are on fire and take an additional 1d4 STR damage. They act accordingly.
 
 #### Poleviks
 
