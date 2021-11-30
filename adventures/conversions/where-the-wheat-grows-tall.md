@@ -36,7 +36,7 @@ Have 4 HP unless otherwise noted. The "House Spirit" (Oleg) has 4 HP.
 - If attacked, animates crops to subdue attacker (DEX to break free). On a fail, the target is strangled unconscious and eventually asphyxiates.
 
 #### Crow/Owl Spirit
-5 HP, 1 Armor, 8 STR, 10 DEx, 8 WIL, farming tool (d6), flock of birds (d4, _blast_)
+5 HP, 1 Armor, 8 STR, 10 DEX, 8 WIL, farming tool (d6), flock of birds (d4, _blast_)
 - If attacked, summons a flock of birds to their defense (additional d4 damage every round).
 - Critical damage: target must make two STR saves and keep the higher result.
 
