@@ -12,19 +12,25 @@ Below are some tips that might help with the process!
 
 ## The Basics
 Review the instructions in the [SRD](https://cairnrpg.com/cairn-srd/#creating-monsters). A couple of things to keep in mind:
-- OSE (or B / X) has really great stat blocks to start with. Just ignore THAC0.
+- OSE (or B / X) has really great stat blocks that can be easily truncated for quick conversion.
 - Dungeon World has some great monster "moves" that translate to Critical Damage quite nicely, so looking for an equivalent creature in that system can really help! See this example [here](http://codex.dungeon-world.com/monster/5698559156420608).
-- A good rule of thumb is that OSR 1 HD = 1 HP, keeping in mind that the minimum is 4 HP (Cairn). I usually think of HD as equivalent to a d6, which has a mean of 3.5. HP in Cairn _does_ translate reliably, but remember it does not convert to **STR** as easily!
+- Sometimes a direct stat to stat translation isn't an option. That's OK! There is a way (see [below](/resources/converting-monsters/#use-the-fiction)).
+
+### Health, Armor & Abilities
 - **Hit Protection** is _not_ health. It's the creature's ability to avoid danger, whether through toughness, speed, or skill.
-- **Strength** is both health and physical power. Sometimes HP/HD from other systems is better represented in **STR** than in **Hit Protection**. If a creature is difficult to kill in an OSR system but _not_ because they are good at combat, give them more **STR**. 
-- **Willpower** is tricky. It rarely comes up but when it does, it's nice to have. High **WIL** is strong personality, spirit or presence.
-- **Morale** (**ML**) can be a good guidepost for **Willpower** as well. Morale typically ranges between 2-12; some games use a "Morale Check" is used to determine if a monster flees (in Cairn a **WIL** save is used instead).  The referee rolls 2d6; if the result is higher than the monster's **ML** score, they flee. This means that a higher **ML** usually means a higher **WIL**.
+- A good rule of thumb is that OSR 1 HD = 1 HP, keeping in mind that the minimum is 4 HP (Cairn). I usually think of HD as equivalent to a d6, which has a _mean_ of 3.5. HP in Cairn _can_ translate reliably, but it does not convert to **STR** as easily!
+- **Armor** is generally easy to map; phrases like "as leather" and "as plate" are really helpful. Generally ignore THAC0 and use descending AC (7 = Leather, 5 = Chainmail, 3 = Plate mail). If only ascending AC is given you can use (12 = Leather, 14 = Chainmail, 16 = Plate mail).
+- **Strength** is both health and physical power. Sometimes HP/HD from other systems is better represented in **STR** than in **Hit Protection**; if a creature is difficult to kill but _not_ because they are good avoiding injury, give them more **STR**. 
+- **Willpower** is tricky. It rarely comes up but when it does, it's nice to have. High **WIL** is strong personality, spirit or presence.**Morale** (**ML**) can be a good guidepost for **Willpower** as well. Morale typically ranges between 2-12; some games use a "Morale Check" is used to determine if a monster flees (in Cairn a **WIL** save is used instead).  The referee rolls 2d6; if the result is higher than the monster's **ML** score, they flee. This means that a higher **ML** usually means a higher **WIL**.
+
+### Combat
 - Attack **damage** is pretty straightforward coming from games like OSE (or B / X); you can usually just copy them as-is. Double-check with the [weapons table](/cairn-srd/#weapons) if unsure.
 - Multiple attacks (e.g. 2 x claw, 1 x sting) typically convert to [_Blast_](/cairn-srd#Blast) and/or the "two weapons" rule (e.g. d6+d6 is roll 2d6, keep highest).
 - When in doubt, think about how much serious damage the creature is supposed to do. Remember that instead of raising attack damage a step, think about making it _enhanced_ in certain situations or use the _Blast_ and "two weapons" rule.
+
+### Abilities & Magic
 - Spells are tricky; you can give wizardy-types Spellbooks but remember, the creature might _drop_ them when they are defeated. I like to make 1d4 dropped Spellbooks implode ([Die of Fate](/cairn-srd#die-of-fate)).
 - Magical creatures can just "know" a bunch of spells. In this case make their corpse magical (and dangerous).
-- Sometimes a direct stat to stat translation isn't an option. That's OK! There is a way (see below).
 
 ## Use The Fiction
 Read the original stat block and surrounding commentary, then write a few sentences about the creature. Then convert what you've written to the Cairn monster stat block.
