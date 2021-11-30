@@ -439,12 +439,12 @@ If you would like something closer to traditional classes, refer to the list of 
 
 ||     |
 |--------------------------------------------------------------|-----|
-|Shield (+1 Armor)   |10   |
-|Helmet (+1 Armor)    |10   |
-|Gambeson (+1 Armor)   |15   |
+|Shield (+1 Armor)            |10   |
+|Helmet (+1 Armor)            |10   |
+|Gambeson (+1 Armor)          |15   |
 |Brigandine (1 Armor, bulky)  |20   |
 |Chainmail (2 Armor, bulky)   |40   |
-|Plate (3 Armor, bulky)      |60   |
+|Plate (3 Armor, bulky)       |60   |
 
 #### Weapons
 
@@ -452,9 +452,9 @@ If you would like something closer to traditional classes, refer to the list of 
 |--------------------------------------------------------------|-----|
 |Dagger, Cudgel, Sickle,  Staff, etc. (d6  damage)             |5    |
 |Spear, Sword, Mace, Axe,  Flail, etc. (d8 damage)             |10   |
-|Halberd, War Hammer, Long  Sword , etc. (d10 damage, bulky)   |20   |
+|Halberd, War Hammer, Long  Sword, etc. (d10 damage, bulky)    |20   |
 |Sling (d4  damage)                                            |5    |
-|Bow  (d6  damage, bulky)                                       |20   |
+|Bow  (d6  damage, bulky)                                      |20   |
 |Crossbow (d8  damage, bulky)                                  |30   |
 
 #### Gear & Tools
