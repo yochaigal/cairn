@@ -18,6 +18,7 @@ Review the instructions in the [SRD](https://cairnrpg.com/cairn-srd/#creating-mo
 - **Hit Protection** is _not_ health. It's the creature's ability to avoid danger, whether through toughness, speed, or skill.
 - **Strength** is both health and physical power. Sometimes HP/HD from other systems is better represented in **STR** than in **Hit Protection**.
 - **Willpower** is tricky. It rarely comes up but when it does, it's nice to have. High **WIL** is strong personality, spirit or presence.
+- **Morale** (**ML**) can be a good guidepost for **Willpower** as well. Morale typically ranges between 2-12; some games use a "Morale Check" is used to determine if a monster flees (in Cairn a **WIL** save is used instead).  The referee rolls 2d6; if the result is higher than the monster's **ML** score, they flee. This means that a higher **ML** usually means a higher **WIL**.
 - Attack **damage** is pretty straightforward coming from games like OSE (or B / X); you can usually just copy them as-is. Double-check with the [weapons table](/cairn-srd/#weapons) if unsure.
 - Multiple attacks (e.g. 2 x claw, 1 x sting) typically convert to [_Blast_](/cairn-srd#Blast) and/or the "two weapons" rule (e.g. d6+d6 is roll 2d6, keep highest).
 - When in doubt, think about how much serious damage the creature is supposed to do. Remember that instead of raising attack damage a step, think about making it _enhanced_ in certain situations or use the _Blast_ and "two weapons" rule.

@@ -50,6 +50,11 @@ Have 4 HP unless otherwise noted. The "House Spirit" (Oleg) has 4 HP.
 #### Night Spirit
 
 #### Noon Wraith
+10 HP, 1 Armor, claws (d6+d6)
+- Sunstrike: On Critical Damage, target believes they are on fire. WIL save or take an additional 1d4 STR damage.
+
+hd 3, ac leather, claws d6×2, sunstrike, ml 8
+lures prey with her weeping and a story: she is Svana, a visiting cousin, afraid of the dark, wants to see and feel the sun, asks for help
 
 #### Poleviks
 
