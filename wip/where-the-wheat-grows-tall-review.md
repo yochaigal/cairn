@@ -20,3 +20,4 @@ search_exclude: true
 - Windvane concept is WONDERFUL.
 - Locations of NPCs are very helpful.
 - Lots of flipping around because of information design. Not bad for online play.
+- PDF has linked location indicators (though not on the map)
