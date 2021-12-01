@@ -53,6 +53,8 @@ Have 4 HP unless otherwise noted. The "House Spirit" (Oleg) has 4 HP.
 - **Sunstrike**: On Critical Damage, target must make a **WIL** save or they believe they are on fire and take an additional 1d4 STR damage. They act accordingly.
 
 #### Poleviks
+6 HP, 1 Armor, 12 STR, 10 WIL, claws (d4), farm tools (d6)
+- Summon Grasping Roots:
 
 #### Scarecrow Piotr
 
