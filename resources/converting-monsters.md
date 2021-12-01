@@ -35,8 +35,9 @@ Review the instructions in the [SRD](https://cairnrpg.com/cairn-srd/#creating-mo
 - When in doubt, think about how much serious damage the creature is supposed to do. Remember that instead of raising attack damage a step, think about making it _enhanced_ in certain situations or use the _Blast_ and "two weapons" rule.
 
 ### Abilities & Magic
+- Some abilities simply won't translate directly! That's OK, not every system is equivalent. If for example an OSR monster has an attack that assumes the PCs will be able to dodge or defend against, you might need to rewrite it a bit. Perhaps make it a weapon, and assign a damage die, making Critical Damage reveal the damage. More often you should simply let the ability or attack _happen_. Combat is dangerous, and it is up to the Warden to properly telegraph danger before the fighting begins.
 - Spells are tricky; you can give wizardy-types Spellbooks but remember, the creature might _drop_ them when they are defeated. I like to make 1d4 dropped Spellbooks implode ([Die of Fate](/cairn-srd#die-of-fate)).
-- Magical creatures can just "know" a bunch of spells. In this case make their corpse magical (and dangerous).
+- Magical creatures can just "know" a bunch of spells. In this case make their corpse magical (and dangerous).1
 
 ## Use The Fiction
 Read the original stat block and surrounding commentary, then write a few sentences about the creature. Then convert what you've written to the Cairn monster stat block.
