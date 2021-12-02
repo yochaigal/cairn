@@ -9,11 +9,18 @@ search_exclude: true
 
 # Sefirot
 
+
 _Ten emanations without form._
-_Their end is also their beginning, just as the ember is tied to the flame._ 
+_Their end is also their beginning, just as the ember is tied to the flame._
 _The Maker is unique and without peer, the one and only._
 _And what number do you place before one?_
-_— The Book of Formation, 1:7_
+
+_Ten emanations without form._
+_Restrain your feelings and silence your words._
+_Do not stray from the path, lest you free the beasts._
+_Upon this a covenant was formed._
+
+_— The Book of Formation, 1:7-1:8_
 
 ## Details for all levels
 - Words carved above a doorway describe the room's spiritual value.
