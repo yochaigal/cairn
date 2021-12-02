@@ -9,14 +9,11 @@ search_exclude: true
 
 # Sefirot
 
-_Ten emanations without form._  
-_Their end is also their beginning._  
-_Like an ember to a flame._  
-_They have only ONE master._  
-_Consider this, then be silent!_  
-_The Maker is is unique and without peer._  
-_What number comes before one?_  
-— _The Book of Creation, 1:7_
+_Ten emanations without form._
+_Their end is also their beginning, just as the ember is tied to the flame._ 
+_The Maker is unique and without peer, the one and only._
+_And what number do you place before one?_
+_— The Book of Formation, 1:7_
 
 ## Details for all levels
 - Words carved above a doorway describe the room's spiritual value.
