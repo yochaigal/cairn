@@ -9,6 +9,9 @@ search_exclude: true
 
 # Sefirot
 
+_עשר ספירות בלי מה נעוץ סופן בתחלתן ותחלתן בסופן כשלהבת קשורה בגחלת שאדון יחיד ואין לו שני ולפני אחד מה אתה סופר?_ 
+
+_עשר ספירות בלימה בלום פיך מלדבר ולבך מלהרהר ואם רץ לבך שוב למקום שלכך נאמר והחיות רצוא ושוב. ועל דבר זה נכרת ברית!_
 
 _Ten emanations without form._
 _Their end is also their beginning, just as the ember is tied to the flame._
@@ -20,7 +23,7 @@ _Restrain your feelings and silence your words._
 _Do not stray from the path, lest you free the beasts._
 _Upon this a covenant was formed._
 
-_— The Book of Formation, 1:7-1:8_
+_— The Book of Creation, 1:7-1:8_
 
 ## Details for all levels
 - Words carved above a doorway describe the room's spiritual value.
