@@ -9,13 +9,6 @@ search_exclude: true
 
 # Sefirot
 
-עשר ספירות בלי מה נעוץ סופן בתחלתן
-ותחלתן בסופן כשלהבת קשורה בגחלת
-?שאדון יחיד ואין לו שני ולפני אחד מה אתה סופר
-
-עשר ספירות בלימה בלום פיך מלדבר
-ולבך מלהרהר ואם רץ לבך שוב למקום
-!שלכך נאמר והחיות רצוא ושוב. ועל דבר זה נכרת ברית
 
 _Ten emanations without form._
 _Their end is also their beginning, just as the ember is tied to the flame._
