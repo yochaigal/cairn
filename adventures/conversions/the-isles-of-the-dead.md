@@ -5,7 +5,7 @@ grand_parent: Adventures
 nav_order: 16
 nav_exclude: true
 search_exclude: true
-title: The Isles of the Dad
+title: The Isles of the Dead
 ---
 
 # The Isles of the Dead
