@@ -10,7 +10,7 @@ title: Lair of the Lamb
 
 # Lair of the Lamb
 - [Lair of the Lamb](http://goblinpunch.blogspot.com/2020/04/lair-of-lamb-final.html) by Arnold K.
-- Conversion by Pelle
+- Conversion by [Pelle](https://pellep.itch.io).
 - This is a WIP
 
 ## Suggestion for character generation
