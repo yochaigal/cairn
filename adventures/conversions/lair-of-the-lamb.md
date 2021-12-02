@@ -44,14 +44,14 @@ Only stats converted to Cairn, additional information is given in Lair of the La
 
 
 #### The Lamb
-STR 18, DEX 5, 12 HP, Armour 2, bite (d8) and crush (d8)
+STR 18, DEX 5, 12 HP, Armor 2, bite (d8) and crush (d8)
 - Immunity to Acid
 - Can climb as a slug
 - Phobia: Afraid of bright light and fire
 
 
 #### The little lambs
-5 HP, Armour 1, bite (d8)
+5 HP, Armor 1, bite (d8)
 - Immunity to Acid
 - Can climb as a slug
 - Phobia – Bright light and fire, will not approach within 10' of burning oil.
@@ -59,18 +59,18 @@ STR 18, DEX 5, 12 HP, Armour 2, bite (d8) and crush (d8)
 
 
 #### Father Bastoval
-7 HP, Armour 1, warfork (d8)
+7 HP, Armor 1, warfork (d8)
 - Spell: Hold Person - Paralyze one humanoid until WIL save
 - Spell: Haste - One creature moves at double speed
 - Spell: Scry - Spies on a subject from distance
 
 
 #### Milo/Bilosh
-3 HP, Armour 2, mace (d6) or bow (d6) / net
+3 HP, Armor 2, mace (d6) or bow (d6) / net
 
 
 #### Skeletal serpent
-2 HP, Armour 2, bite (Reduce STR by d20)
+2 HP, Armor 2, bite (Reduce STR by d20)
 
 
 #### Priests of the pool
@@ -81,7 +81,7 @@ STR 18, DEX 5, 12 HP, Armour 2, bite (d8) and crush (d8)
 
 
 #### Vandress
-WIL 14, 6 HP, claw (d8)
+14 WIL, 6 HP, claw (d8)
 - Spell: Confusion - WIL save, or target behaves randomly
 - Spell: Cone of mutilation - d10 slashing, Blast
 
@@ -89,34 +89,34 @@ WIL 14, 6 HP, claw (d8)
 
 
 #### Armored Ghoul (Gerdith or Molina)
-6 HP, Armour 2, Halberd d10 bulky
+6 HP, Armor 2, Halberd d10 bulky
 
 
 #### Ghoul (Jasper or Luntz or Shawson)
-6 HP, Armour 1, Claw 1d6 + Agony: Reduce WIL by 1d4 if taking an action in combat
+6 HP, Armor 1, Claw 1d6 + Agony: Reduce WIL by 1d4 if taking an action in combat
 
 
 #### Lantern Worm
-9 HP, DEX 5, Slam d6
+9 HP, DEX 5, slam (d6)
 - Lantern: Sharp light in narrow cone, Impaired if looked at
 - Eat light: target light source explode, 1d6 fire damage and blindness to holder. Everyone else temporarily blinded if they fail WIL save, sight back after 10 min. After eating light, becomes brighter and retreats after eating all light sources.
 - Stonemeld: can be become liquid and flow through stone
 
 
 #### Armored Isopod
-3 HP, Armour 2, Dex 5, Bite d6
+3 HP, 2 Armor, 5 DEX, bite (d6)
 - Curling up: cannot me damaged by less than sledgehammer
 
 
 #### Ancient Apparatus of Anguish
-HP 9, Armour (stone, immune to all non-bludgeoning), Slam d8
+9 HP, 3 Armor (stone, immune to all non-bludgeoning), Slam d8
 - Gaze: Arm falls off as voxels
 - Ancient Tone and Anguish Pattern: fleshy target closeby takes d6 damage. If STR is reduced, the apparatus regain the same amount of STR
 - When STR is reduced, will start bleeding
 
 
 #### Spider Crab
-15 HP armour 1, DEX 5, Claw d8 and Claw d8+grab
+15 HP Armor 1, DEX 5, Claw d8 and Claw d8+grab
 
 
 ## Room effects
@@ -156,4 +156,4 @@ Only the changes to mechanics of magic items.
 
 
 #### Crysmere blade
-d10 damage [Personal addition: blade shatters if all the damage rolled is reduced by armour]
+d10 damage [Personal addition: blade shatters if all the damage rolled is reduced by Armor]
