@@ -41,26 +41,18 @@ Have 4 HP unless otherwise noted. The "House Spirit" (Oleg) has 4 HP.
 - Critical damage: target must make two STR saves and keep the higher result.
 
 #### Ghosts
-4 HP, 2 Armor, 12 STR, 14 DEX, 16 WIL, old weapon (d6)
-- Flashback: Target loses 1d4 WIL and must make a WIL save or lose their next action as they relive the spirit's death.
-- Attacks against Ghosts are _impaired_.
 
 #### The Likho, The One Eyed Witch
 
-
 #### Night Goblins
 
-
 #### Night Spirit
-
 
 #### Noon Wraith
 8 HP, 1 Armor, 8 STR, 11 DEX, 15 WIL, claws (d6+d6)
 - **Sunstrike**: On Critical Damage, target must make a **WIL** save or they believe they are on fire and take an additional 1d4 STR damage. They act accordingly.
 
 #### Poleviks
-6 HP, 1 Armor, 12 STR, 10 WIL, claws (d4), farm tools (d6)
-- Summon Grasping Roots: target is engulfed by strangling roots. On their next turn they can must make a STR save be buried under ground.
 
 #### Scarecrow Piotr
 

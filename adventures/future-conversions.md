@@ -29,7 +29,6 @@ The following is a list of planned conversions. If you'd like to help out, pick 
 - [Gradient Descent](https://www.mothershiprpg.com/gradient-descent)
 - [In The Shadow of Tower Silveraxe](https://gelatinouscubism.itch.io/in-the-shadow-of-tower-silveraxe)
 - [Into the Wyrd and Wild](https://www.drivethrurpg.com/product/274922/Into-the-Wyrd-and-Wild-Revised-Edition)
-- [Isles of the Dead](http://goblinpunch.blogspot.com/2015/04/the-isles-of-dead.html)
 - [Night Yeast](https://nightyeast.bigcartel.com/)
 - [Operation Unfathomable](https://www.drivethrurpg.com/product/233145/Operation-Unfathomable)
 - [Prison of the Hated Pretender](https://www.drivethrurpg.com/product/333389/Prison-of-the-Hated-Pretender)
