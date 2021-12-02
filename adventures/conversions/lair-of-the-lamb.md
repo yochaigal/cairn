@@ -89,7 +89,7 @@ STR 18, DEX 5, 12 HP, Armor 2, bite (d8) and crush (d8)
 
 
 #### Armored Ghoul (Gerdith or Molina)
-6 HP, Armor 2, Halberd d10 bulky
+6 HP, Armor 2, halberd (d10, _bulky_)
 
 
 #### Ghoul (Jasper or Luntz or Shawson)
@@ -109,7 +109,7 @@ STR 18, DEX 5, 12 HP, Armor 2, bite (d8) and crush (d8)
 
 
 #### Ancient Apparatus of Anguish
-9 HP, 3 Armor (stone, immune to all non-bludgeoning), Slam d8
+9 HP, 3 Armor (stone, immune to all non-bludgeoning), slam (d8)
 - Gaze: Arm falls off as voxels
 - Ancient Tone and Anguish Pattern: fleshy target closeby takes d6 damage. If STR is reduced, the apparatus regain the same amount of STR
 - When STR is reduced, will start bleeding

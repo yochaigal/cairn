@@ -45,7 +45,7 @@ The following table offers a decent guide on converting **ML** to **WIL**.
 ### Stat Block Structure
  There are many ways to do this, but try to be consistent! In Cairn I write it like this:
 **Name**
-X HP, X Armor, X STR, X DEX, X WIL, Weapon (dX, special items, qualities)
+X HP, X Armor, X STR, X DEX, X WIL, Weapon (dX, _qualities_), special items
 - Engaging descriptor of appearance or demeanor
 - Quirk, tactic, or peculiarity making this NPC unique
 - Special effect or critical damage consequence
