@@ -24,11 +24,11 @@ Have 4 HP unless otherwise noted. The "House Spirit" (Oleg) has 4 HP.
 
 ## Bestiary
 #### Old Svarg
-6 HP, 1 Armor, 8 STR, 12 DEX, 15 WIL, fire sickle (d6)
+5 HP, 1 Armor, 8 STR, 12 DEX, 15 WIL, fire sickle (d6)
 - Critical damage: 1d4 items catch fire and are destroyed (flammable or valuable first)
 
 #### Barstukai
-4 HP, 4 STR, 12 DEX, 5 WIL, claws (d4), farming tools (d6)
+2 HP, 4 STR, 12 DEX, 5 WIL, claws (d4), farming tools (d6)
 - Can vanish into the crops without a save (their laughter may reveal location).
 
 #### Crops Spirit
@@ -46,15 +46,15 @@ Have 4 HP unless otherwise noted. The "House Spirit" (Oleg) has 4 HP.
 - Attacks against Ghosts are _impaired_.
 
 #### The Likho, The One Eyed Witch
-8 HP, 1 Armor, claws (d4+d4), gaze attack (once each, permitting)
+8 HP, 1 Armor, 14 STR, 8 DEX, 12 WIL, claws (d4+d4), gaze attack (once each, permitting)
 - **Midnight Gaze**: target is paralyzed and blind and must make a WIL save to break free.
 - **Sunstrike Gaze**: target takes 1d6 STR damage and then must make a WIL save or believe they are on fire.
 
 #### Night Goblins
-
+2 HP, 6 STR, 13 DEX, 5 WIL, claws (d4)
 
 #### Night Spirit
-
+8 HP, 1 Armor, 12 STR, 9 DEX, 12 WIL, bite (d8)
 
 #### Noon Wraith
 8 HP, 1 Armor, 8 STR, 11 DEX, 15 WIL, claws (d6+d6), sunstrike
