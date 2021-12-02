@@ -10,6 +10,7 @@ title: The Isles of the Dad
 
 # The Isles of the Dead
 - Based on the [original adventure](http://goblinpunch.blogspot.com/2015/04/the-isles-of-dead.html) by Arnold K.
+- Conversion by [xenio](https://xenioinabottle.blogspot.com)
 
 ### Skeletons
 3 HP, claws (d6)
