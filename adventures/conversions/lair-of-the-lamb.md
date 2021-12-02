@@ -55,9 +55,9 @@ STR 18, DEX 5, 12 HP, Armour 2, bite (d8) and crush (d8)
 
 
 
-* Immunity to Acid
-* Can climb as a slug
-* Phobia: Afraid of bright light and fire
+- Immunity to Acid
+- Can climb as a slug
+- Phobia: Afraid of bright light and fire
 
 
 #### The little lambs
@@ -66,10 +66,10 @@ STR 18, DEX 5, 12 HP, Armour 2, bite (d8) and crush (d8)
 
 
 
-* Immunity to Acid
-* Can climb as a slug
-* Phobia – Bright light and fire, will not approach within 10' of burning oil.
-* 2-in-6: Ambush by dropping from the ceiling and grappling.
+- Immunity to Acid
+- Can climb as a slug
+- Phobia – Bright light and fire, will not approach within 10' of burning oil.
+- 2-in-6: Ambush by dropping from the ceiling and grappling.
 
 
 #### Father Bastoval
@@ -78,9 +78,9 @@ STR 18, DEX 5, 12 HP, Armour 2, bite (d8) and crush (d8)
 
 
 
-* Spell: Hold Person - Paralyze one humanoid until WIL save
-* Spell: Haste - One creature moves at double speed
-* Spell: Scry - Spies on a subject from distance
+- Spell: Hold Person - Paralyze one humanoid until WIL save
+- Spell: Haste - One creature moves at double speed
+- Spell: Scry - Spies on a subject from distance
 
 
 #### Milo/Bilosh
@@ -99,9 +99,9 @@ STR 18, DEX 5, 12 HP, Armour 2, bite (d8) and crush (d8)
 
 
 
-* Spell: Sleep - Target falls asleep for 1d4 hours
-* Spell: Desiccate -  Target takes d8 damage (d6 if dehydrated)
-* Spell: Emergency exit - Touched creature is teleported out of the dungeon
+- Spell: Sleep - Target falls asleep for 1d4 hours
+- Spell: Desiccate -  Target takes d8 damage (d6 if dehydrated)
+- Spell: Emergency exit - Touched creature is teleported out of the dungeon
 
 
 #### Vandress
@@ -110,8 +110,8 @@ WIL 14, 6 HP, claw (d8)
 
 
 
-* Spell: Confusion - WIL save, or target behaves randomly
-* Spell: Cone of mutilation - d10 slashing, Blast
+- Spell: Confusion - WIL save, or target behaves randomly
+- Spell: Cone of mutilation - d10 slashing, Blast
 
 
 ### Part 2: Gallery of the Ghouls
@@ -133,9 +133,9 @@ WIL 14, 6 HP, claw (d8)
 
 
 
-* Lantern: Sharp light in narrow cone, Impaired if looked at
-* Eat light: target light source explode, 1d6 fire damage and blindness to holder. Everyone else temporarily blinded if they fail WIL save, sight back after 10 min. After eating light, becomes brighter and retreats after eating all light sources.
-* Stonemeld: can be become liquid and flow through stone
+- Lantern: Sharp light in narrow cone, Impaired if looked at
+- Eat light: target light source explode, 1d6 fire damage and blindness to holder. Everyone else temporarily blinded if they fail WIL save, sight back after 10 min. After eating light, becomes brighter and retreats after eating all light sources.
+- Stonemeld: can be become liquid and flow through stone
 
 
 #### Armored Isopod
@@ -144,7 +144,7 @@ WIL 14, 6 HP, claw (d8)
 
 
 
-* Curling up: cannot me damaged by less than sledgehammer
+- Curling up: cannot me damaged by less than sledgehammer
 
 
 #### Ancient Apparatus of Anguish
@@ -153,9 +153,9 @@ HP 9, Armour (stone, immune to all non-bludgeoning), Slam d8
 
 
 
-* Gaze: Arm falls off as voxels
-* Ancient Tone and Anguish Pattern: fleshy target closeby takes d6 damage. If STR is reduced, the apparatus regain the same amount of STR
-* When STR is reduced, will start bleeding
+- Gaze: Arm falls off as voxels
+- Ancient Tone and Anguish Pattern: fleshy target closeby takes d6 damage. If STR is reduced, the apparatus regain the same amount of STR
+- When STR is reduced, will start bleeding
 
 
 #### Spider Crab
@@ -172,33 +172,33 @@ Only the conversion of mechanics from room descriptions. All other room contents
 
 
 
-* DEX save to avoid dying
+- DEX save to avoid dying
 
 
 #### 17 Altar
 
 
 
-* Yellow mold explosion: Reduce STR by d6
+- Yellow mold explosion: Reduce STR by d6
 
 
 #### 20 Pools
 
 
 
-* Millky pool: Acid - reduce STR by d6
+- Millky pool: Acid - reduce STR by d6
 
 
 #### 42 Sunken Gallery
 
 
 
-* Poison gas - Reduce STR by d6 if standing close
+- Poison gas - Reduce STR by d6 if standing close
 
 
 #### 46 Daylight
-* Grappling hook: STR save
-* Climbing the slick walls: DEX save
+- Grappling hook: STR save
+- Climbing the slick walls: DEX save
 
 
 ## Magic items / treasure
@@ -210,10 +210,10 @@ Only the changes to mechanics of magic items.
 
 
 
-* Absorb flesh: Reduce WIL by d20
-* Spell: Ignite - 3d6 fire damage to target
-* Polymorph: WIL save or target is transformed into harmless animal
-* Dealing 6 damage to it in a single round will stun it for 1 minute [reduced from 10 damage due to multiple attackers rule]
+- Absorb flesh: Reduce WIL by d20
+- Spell: Ignite - 3d6 fire damage to target
+- Polymorph: WIL save or target is transformed into harmless animal
+- Dealing 6 damage to it in a single round will stun it for 1 minute [reduced from 10 damage due to multiple attackers rule]
 
 
 #### Crysmere blade
