@@ -7,4 +7,4 @@ parent: Localizations
 
 # Italian
 ## Localization complete!
-- [Click here for Italian portal](https://idolofmanyhands.github.io/cairn-ita/). Includes game PDF, SRD & character sheets.
+- [Click here for the Italian version](https://www.drivethrurpg.com/product/349367/Cairn-Edizione-Italiana). Includes game PDF, SRD & character sheets.
