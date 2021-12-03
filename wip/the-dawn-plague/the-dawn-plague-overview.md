@@ -11,7 +11,7 @@ search_exclude: true
 
 ## Summary
 - See the overland [map](/wip/the-dawn-plague/maps/the-dawn-plague-map.jpg).
-- Khelma is a small village seated between a thick forest and a restless sea.
+- **Motal** is a small village seated between a thick forest and a restless sea.
 - Devastated by something called "The Dawn Plague" decades before, the town has never fully recovered.
 - The villagers keep to the old ways, carefully following ritual burial rites.  
 - An outside lumber company has planted its stake in the local forest, and pays the town handsomely.
@@ -20,13 +20,13 @@ search_exclude: true
 - **Rab Schlomo** and his congregation have resorted to an ancient practice meant to protect the town from both outsiders and potential threats. Their efforts may have summoned a far worse threat to the town, with dire consequences.
 
 ## The Dawn Plague
-- Thirty-three years ago, a hunting party from **Khelma** found themselves lost in the **Blue Forest**, eventually taking their rest in a place haunted by bodiless Dybbuks. By morning, all were possessed.
-- The newly-bodied Dybbuks then found their way to the village of **Khelma**, retreating back to the forest after wreaking havoc on the frightened populace.
+- Thirty-three years ago, a hunting party from **Motal** found themselves lost in the **Blue Forest**, eventually taking their rest in a place haunted by bodiless Dybbuks. By morning, all were possessed.
+- The newly-bodied Dybbuks then found their way to the village of **Motal**, retreating back to the forest after wreaking havoc on the frightened populace.
 - The locals were ill-equipped to handle the situation. A small group of all able-bodied adults attempted to stop the Dybbuks on their own turf. All but one (**Zina**, a seamstress) did not return.
 - **Zina** survived by climbing up a tree and observing the Dybbuks for a full night, never sleeping. She observed that the Dybbuks could only possess a body while the spirit slept, and that by morning they would have full control. She also saw that they _hated_ fire. She let one of the children know what she'd learned, then fled.
 - The remaining residents (mostly children and the elderly **Rab**) were able to frighten their possessed former neighbors, parents and children with torches and flaming brands, forcing them into a nearby quarry. They then set it ablaze, killing the bodies but freeing the spirits. This place is now referred to as **Orphan’s Mound**.
 - Today the locals still stand vigilant for a full night after any burial, to ensure that none are possessed by a Dybbuk. They endlessly repeat the phrase, “A candle for one is a candle for a hundred.” In general, the survivors became strict adherents of their ancestor's religious practices.
-- The true details of what happened in **Khelma** was kept secret, most outsiders believing them an unfortunate victims of a plague. The original **Rab** died a few years after the events of the **Dawn Plague**, but made great efforts to forestall anything ever harming the town again. Eventually, **Rab Schlomo** came and made his home among them, intending to understand and protect his newfound neighbors.
+- The true details of what happened in **Motal** was kept secret, most outsiders believing them an unfortunate victims of a plague. The original **Rab** died a few years after the events of the **Dawn Plague**, but made great efforts to forestall anything ever harming the town again. Eventually, **Rab Schlomo** came and made his home among them, intending to understand and protect his newfound neighbors.
 - **Zina** was never seen again, though she lives on as an **Estrie**, surviving from offerings left to her by the villagers.
 
 ## Hooks
@@ -93,7 +93,7 @@ search_exclude: true
 - A **Dybbuk** haunts the farm, but will not touch the sisters. They are its former children.
 
 ## 2. Shorehead Ruins
-- A large, mostly worn-away temple that predates the arrival of the **Khelma** colonists.
+- A large, mostly worn-away temple that predates the arrival of the **Motal** colonists.
 - Some theorize they represent ancient sea-faring peoples from across the **Silver Sea**.
 
 ## 3. The Tentyard
@@ -101,7 +101,7 @@ search_exclude: true
 - A tarp is draped across one of the ribs. In the shade below, **Aroys-Geben** makes his home.
 - He lives off fish and whatever trade he can find. He is also a spy for both the **Meyster** and **Gehilts**.
 
-## 4. Khelma
+## 4. Motal
 - A dozen rustic-looking wooden buildings form a perfect square in the center.
 - A massive old-growth forest dominates the lands to the East, split by a small mountain.
 - On the North side dozens of farms spill out along a long, dusty road. The road bends Northwest.
@@ -125,7 +125,7 @@ search_exclude: true
 
 ## 5. Orphan's Mound
 - A mass-burial site for those that died of the **Dawn Plague**.
-- Tended by the **Gravedigger**, **Khelma’s** dead are brought here and burned.
+- Tended by the **Gravedigger**, **Motal’s** dead are brought here and burned.
 - There is a **Root Witch** here, drawn by earth-tremblings from the Rab's research.
 - **Gravedigger’s Hovel**: a paltry shack just next to the mound. **Kivyer** lives there.
 
