@@ -23,11 +23,10 @@ search_exclude: true
 - Thirty-three years ago, a hunting party from **Motal** found themselves lost in the **Blue Forest**, eventually taking their rest in a place haunted by bodiless Dybbuks. By morning, all were possessed.
 - The newly-bodied Dybbuks then found their way to the village of **Motal**, retreating back to the forest after wreaking havoc on the frightened populace.
 - The locals were ill-equipped to handle the situation. A small group of all able-bodied adults attempted to stop the Dybbuks on their own turf. All but one (**Zina**, a seamstress) did not return.
-- **Zina** survived by climbing up a tree and observing the Dybbuks for a full night, never sleeping. She observed that the Dybbuks could only possess a body while the spirit slept, and that by morning they would have full control. She also saw that they _hated_ fire. She let one of the children know what she'd learned, then fled.
-- The remaining residents (mostly children and the elderly **Rab**) were able to frighten their possessed former neighbors, parents and children with torches and flaming brands, forcing them into a nearby quarry. They then set it ablaze, killing the bodies but freeing the spirits. This place is now referred to as **Orphan’s Mound**.
-- Today the locals still stand vigilant for a full night after any burial, to ensure that none are possessed by a Dybbuk. They endlessly repeat the phrase, “A candle for one is a candle for a hundred.” In general, the survivors became strict adherents of their ancestor's religious practices.
-- The true details of what happened in **Motal** was kept secret, most outsiders believing them an unfortunate victims of a plague. The original **Rab** died a few years after the events of the **Dawn Plague**, but made great efforts to forestall anything ever harming the town again. Eventually, **Rab Schlomo** came and made his home among them, intending to understand and protect his newfound neighbors.
-- **Zina** was never seen again, though she lives on as an **Estrie**, surviving from offerings left to her by the villagers.
+- An Estrie (see **Zina** below) nesting nearby observed the Dybbuks from on high, seeing that they could only possess a body while the spirit slept. She also saw that their _hated_ fire. She let one of the children know what she'd learned, then moved her nest to the **Blue Forest**. She feels great guilt for not helping the townsfolk further.
+- The remaining residents (mostly children and the elderly) were able to chase their possessed  neighbors & parents with torches and flaming brands, forcing them into a nearby barn. They then set it ablaze, killing the bodies but freeing the spirits trapped within. This place is now referred to as **Orphan’s Mound**.
+- Today the locals still stand vigilant for a full night after any burial, to ensure that none are possessed by a Dybbuk. They endlessly repeat the phrase, “A candle for one is a candle for a hundred.”
+- An oath of secrecy was soon invoked, whereby a lie would be told from that day forward: a disease killed the older citizens of **Motal**. Breaking this taboo would result in expulsion from the community. One of the children became **Rab Schlomo**, and made great efforts to forestall such a harm happening ever again.
 
 ## Hooks
 - PCs are hired by a wealthy outsider, sent to quiet the unrest.
@@ -133,7 +132,11 @@ search_exclude: true
 - A thick, moss-covered forest of spruce, fir and maple trees. The forest is quite cold.
 - At night, faint blue lights guide travelers deep into the woods, where they quickly become lost.
 - The lights are in fact will o’ wisps that live in the moss, and feed off anything, including flesh.
-- The bodies of frozen travelers from decades before still litter the forest, their belongings preserved in moss and frost.
+
+### Zina
+- An **Estrie** that makes her nest in the **Blue Forest**.
+- Drinks from small animals and sleeping travelers, who dream of feathers and the moon.
+- Accepts offerings of bread & salt for safe passage or information, but only from villagers or those accompanying them.
 
 ## 7. Froyim’s Home
 - **Froyim Greydinger** makes his home here. He is a well-respected merchant in these parts.
