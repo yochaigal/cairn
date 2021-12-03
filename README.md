@@ -9,7 +9,7 @@ Cairn er et [eventyrsspil](http://questingblog.com/adventure-game-vs-osr), der h
 
 PDF-versionen er gratis og tilgængelig på [Itch.io](https://yochaigal.itch.io/cairn) & [DriveThruRPG](https://www.drivethrurpg.com/product/330809/Cairn).  
 Teksten er licenseret under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
-Den originale Affinity Publisher-fil er også tilgængelig med de andre downloads.
+Den originale Affinity Publisher-fil er også tilgængelig sammen med de andre downloads.
 
 <p></p>
 
