@@ -14,10 +14,9 @@ nav_order: 2
 - These rules are not critical to the structure of the game and can be discarded or ignored at certain points in your game.
 - This content is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
-_**Note**: L is used in reference to player level. Example: A level 2 player would see Ld6 and roll 2d6._
-
-
 ## Dungeon Exploration
+
+_**Note**: L is used in reference to player level. Example: A level 2 player would see Ld6 and roll 2d6._
 
 ### Turns
 
