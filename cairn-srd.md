@@ -119,7 +119,7 @@ Players trust one another to engage with the shared setting, character goals, an
 
 ### Opdagelse
 - At stille spørgsmål og lytte efter deltajerne er mere brugbart end nogen egenskaber, grej eller evner du har.
-- Lyt til Kustodens beskrivelser foruden mistro, men vær ikke bleg for at opdrage yderligere information.
+- Lyt til Vogterens beskrivelser foruden mistro, men vær ikke bleg for at opdrage yderligere information.
 - Der er mange rigtige veje frem.
 
 ### Samtale
