@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Adventure Conversions
-grand_parent: Adventures
+grand_parent: Resources
 nav_order: 4
 title: Raiders of Wolfsea
 ---

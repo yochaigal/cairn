@@ -3,7 +3,7 @@ layout: default
 title: The Burial Mound of Gilliard Wolfclan
 nav_order: 15
 parent: Adventure Conversions
-grand_parent: Adventures
+grand_parent: Resources
 ---
 
 # The Burial Mound of Gilliard Wolfclan

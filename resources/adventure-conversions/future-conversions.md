@@ -2,6 +2,7 @@
 layout: default
 title: Future Adventure Conversions
 parent: Adventure Conversions
+grand_parent: Resources
 nav_order: 100
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Adventure Conversions
-grand_parent: Adventures
+grand_parent: Resources
 nav_order: 8
 title: The Waking of Willowby Hall
 ---
