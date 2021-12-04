@@ -7,12 +7,8 @@ nav_order: 2
 ---
 
 # Modular Rules & Procedures for Cairn
-
-From [Modular Rules & Procedures for Cairn](https://adamhensley.itch.io/modular-rules-and-procedures-for-cairn) by Adam Hensley, used with permission.  
-This content is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-
----
-
+- From [Modular Rules & Procedures for Cairn](https://adamhensley.itch.io/modular-rules-and-procedures-for-cairn) by Adam Hensley, used with permission.  
+- This content is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 - This document lists some optional, modularly-designed rules & procedures for Cairn (and should be adaptable to most other OSR-adjacent games with minimal tinkering).
 - These rules are designed to be plug-n-play, so just grab what you like and discard the rest.
 - These rules are not critical to the structure of the game and can be discarded or ignored at certain points in your game.
@@ -20,7 +16,7 @@ This content is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licens
 
 _**Note**: L is used in reference to player level. Example: A level 2 player would see Ld6 and roll 2d6._
 
----
+
 ## Dungeon Exploration
 
 ### Turns

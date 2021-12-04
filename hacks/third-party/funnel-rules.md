@@ -8,7 +8,9 @@ nav_order: 3
 
 # Funnel Rules
 
-This text provides the necessary rules for creating PCs for a [funnel](https://rpg.stackexchange.com/questions/51227/what-is-a-funnel) adventure. You can also find this in a one page PDF format [here](https://xenio-in-a-bottle.itch.io/funnel-for-cairn). The original author is [Xenio](https://xenioinabottle.blogspot.com/), and the text is licensed by CC-BY-SA 4.0.
+- This text provides the necessary rules for creating PCs for a [funnel](https://rpg.stackexchange.com/questions/51227/what-is-a-funnel) adventure. You can also find this in a one page PDF format [here](https://xenio-in-a-bottle.itch.io/funnel-for-cairn).
+- The original author is [Xenio](https://xenioinabottle.blogspot.com/).
+- This content is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 A **funnel** is a pre-campaign game mode where each player takes control of multiple characters that are still fresh and inexperienced, considerably less capable than the regular adventurers.
 
