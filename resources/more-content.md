@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Loadouts
-nav_order: 20
+title: More Content
+nav_order: 6
 parent: Resources
 has_children: true
 ---
 
-# Loadouts
+# More Content
