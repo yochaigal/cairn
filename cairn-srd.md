@@ -107,37 +107,37 @@ Players trust one another to engage with the shared setting, character goals, an
 [back to index](#index)
 <p></p>
 
-## Principles for Players
-### Agency
-- Attributes and related saves do not define your character. They are tools.
-- Don't ask only what your character would do, ask what you would do, too.
-- Be creative with your intuition, items, and connections.
+## Spillerprincipper
+### Handlekraft
+- Egenskaber og dets relaterede terningkast definere ikke din karakter. De er blot et værktøj.
+- Spørg ikke alene hvad din karakter ville gøre, men også hvad du selv ville gøre.
+- Vær kreativ når det gælder problemløsning. Brug din karakters grej og forbindelser. 
 
-### Teamwork
-- Seek consensus from the other players before barreling forward.
-- Stay on the same page about goals and limits, respecting each other and accomplishing more as a group than alone.
+### Samarbejde
+- Søg samtykke hos de andre spillere før du handler.
+- Hav fælles mål som gruppe. Respekter hinanden og alles grænser. Opnå mere som gruppe end som indivier.
 
-### Exploration
-- Asking questions and listening to detail is more useful than any stats, items, or skills you have.
-- Take the Warden's description without suspicion, but don't shy away from seeking more information.
-- There is no single correct way forward.
+### Opdagelse
+- At stille spørgsmål og lytte efter deltajerne er mere brugbart end nogen egenskaber, grej eller evner du har.
+- Lyt til Kustodens beskrivelser foruden mistro, men vær ikke bleg for at opdrage yderligere information.
+- Der er mange rigtige veje frem.
 
-### Talking
-- Treat NPCs as if they were real people, and rely on your curiosity to safely gain information and solve problems.
-- You'll find that most people are interesting and will want to talk things through before getting violent.
+### Samtale
+- Behandl karakterer som var de rigtige mennesker. Brug din nysgerrighed til sikkert at opsnappe information og løse problemer. 
+- Du vil opdage de fleste karaktere er spændende og vil søge en diplomatisk løsning frem for en voldelig.
 
-### Caution
-- Fighting is a choice and rarely a wise one; consider whether violence is the best way to achieve your goals.
-- Try to stack the odds in your favor and retreat when things seem unfavorable.
+### Forsigtighed
+- Kamp er et valg og sjældent et fornuftigt et. Overvej hvorom vold er den bedste måde at opnå jeres mål.
+- Placer sandsynlighederne i jeres favør og træk jer, hvis de virker ugunstige.
 
-### Planning
-- Think of ways to avoid your obstacles through reconnaissance, subtlety, and fact-finding.
-- Do some research and ask around about your objectives.
+### Planlægning
+- Udtænkt måder at undgå forhindringer på ved hjælp af rekognoscering, list og faktaundersøgelse.
+- Lav lidt efterforskning og spørg jer omkring når det gælder jeres mål.
 
-### Ambition
-- Set goals and use your meager means to take steps forward.
-- Expect nothing. Earn your reputation.
-- Keep things moving forward and play to see what happens.
+### Ambitioner
+- Sæt jer mål og brug jeres sparsommelige midler til at komme videre.
+- Forvent intent. Gør jer fortjent til jeres omdømme.
+- Sid ikke på hænderne. Driv handlingen fremad. Spil for at se hvad der sker.
 
 [back to index](#index)
 <p></p>
