@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Adventures
-nav_order: 8
+title: Tools
+nav_order: 4
 has_children: true
 ---

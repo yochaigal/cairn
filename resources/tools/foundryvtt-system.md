@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Foundry VTT System
-parent: Resources
-nav_order: 6
+parent: Tools
+grand_parent: Resources
+nav_order: 2
 ---
 
 # Foundry VTT System

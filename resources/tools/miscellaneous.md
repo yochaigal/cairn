@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Miscellaneous
-nav_order: 5
-parent: Resources
+nav_order: 2
+parent: Tools
+grand_parent: Resources
 ---
 
 # Miscellaneous
