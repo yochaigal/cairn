@@ -1,8 +1,7 @@
 ---
 layout: default
 title: More Content
-nav_order: 7
-parent: Resources
+nav_order: 10
 has_children: true
 ---
 

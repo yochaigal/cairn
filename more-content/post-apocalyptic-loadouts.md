@@ -3,7 +3,6 @@ layout: default
 title: Post Apocalyptic Loadouts
 nav_order: 2
 parent: More Content
-grand_parent: Resources
 ---
 
 # Post Apocalyptic Loadouts
