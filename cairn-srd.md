@@ -17,7 +17,7 @@ Players act as hardened adventurers exploring a dark & mysterious Wood filled wi
 ## Index
 - [Overview](#overview)
 - [Principles for Wardens](#principles-for-wardens)
-- [Principles for Players](#principles-for-players)
+- [Spillerprincipper](#spillerprincipper)
 - [Character Creation](#character-creation)
 - [Equipment](#equipment-list-prices-in-gold-pieces)
 - [Rules](#rules)
