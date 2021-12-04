@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Future Conversions
-parent: Conversions
+title: Future Adventure Conversions
+parent: Adventure Conversions
 nav_order: 100
 ---
 
-# Future Conversions
+# Future Adventure Conversions
 
 The following is a list of planned conversions. If you'd like to help out, pick an adventure or module, write the conversion in whatever you feel like and send it my way via Discord, Twitter or pull request on github!
 

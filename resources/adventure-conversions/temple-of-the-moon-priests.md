@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: Conversions
+parent: Adventure Conversions
 grand_parent: Adventures
 nav_order: 5
 title: Temple of the Moon Priests

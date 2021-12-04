@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: Conversions
+parent: Adventure Conversions
 grand_parent: Adventures
 nav_order: 6
 title: The Oracle's Decree

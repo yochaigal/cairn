@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: Conversions
+parent: Adventure Conversions
 grand_parent: Adventures
 nav_order: 2
 title: A Gathering of Blades

@@ -2,7 +2,7 @@
 layout: default
 title: The Coming of Sorg
 nav_order: 12
-parent: Conversions
+parent: Adventure Conversions
 grand_parent: Adventures
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Protecting the All-Seed
-parent: Third Party
-grand_parent: Adventures
+parent: Adventures
+grand_parent: Resources
 nav_order: 1
 redirect_to: https://seanfsmith.itch.io/sgii
 ---

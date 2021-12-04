@@ -2,7 +2,8 @@
 layout: default
 title: Converting Monsters
 nav_order: 3
-parent: Resources
+parent: Tools
+grand_parent: Resources
 ---
 
 # Converting Monsters
