@@ -13,7 +13,7 @@ nav_order: 3
 ##### A _deluxe_ print edition of Cairn can be purchased from the following places:
 
 ## US
-- [Direct](https://gum.co/cairnrpg)
+- [Direct](https://store.cairnrpg.com/l/getcairn)
 - [Floating Chair](https://floatingchair.club/collections/zines/products/cairn)
 - [Spear Witch](https://spearwitch.com/collections/new-arrivals/products/cairn)
 - [Exalted Funeral](https://www.exaltedfuneral.com/products/cairn)
