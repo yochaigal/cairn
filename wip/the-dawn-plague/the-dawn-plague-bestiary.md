@@ -9,7 +9,7 @@ search_exclude: true
 
 # The Dawn Plague Bestiary
 
-### Dybbuk
+### Dybbuk (those that cling)
 10 HP,  12 STR, 14 DEX, 15 WIL, elongated claws (d6), jagged teeth (d8)
 - Appear as gray-skinned, translucent humanoids with long snouts full of large, ugly teeth. Cannot interact with the world while in spirit form.
 - Can leap into the living to wreak havoc among the living. Grows more powerful the longer it maintains a bodily presence.
