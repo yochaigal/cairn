@@ -41,3 +41,7 @@ grand_parent: More Content
 |4|**Tincture Of Truth-Talking**|Only a few drops remain, enough for one dose. This tasteless clear liquid will compel whoever ingests it to answer questions truthfully for d6 \* 10 minutes.|
 |5|**Magnesium Shavings**|A pouch containing d6 uses that will easily ignite and burn intensely.|
 |6|**Basic Alchemist's Kit**|A wooden chest filled with four corked glass vials and stand, a small bronze weight scale, pestle & mortar, stirring rods, a bottle of solvent, and a pouch of salt. Bulky.|
+
+## Debt
+- As a group, you share a debt of 1000 gold pieces. If you die, your next character inherits whatever share of the debt you still owe. Debtholders will pursue payment and terms.
+- Your debhtholder is the **Wooden Dead**, a faction of benign Forest Liches. Your party trespassed one of their invisible boundaries and can only be repaired through the planting of a new grove of rare trees. Until your debt is paid, trees and plants wilt at your touch.  
