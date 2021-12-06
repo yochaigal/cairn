@@ -13,6 +13,17 @@ search_exclude: true
 
 [What are the Sefirot](https://www.myjewishlearning.com/article/sefirot/)
 
+Opening text:
+
+עשר ספירות בלי מה נעוץ סופן בתחלתן  
+ותחלתן בסופן כשלהבת קשורה בגחלת  
+שאדון יחיד ואין לו שני ולפני אחד מה אתה סופר  
+
+עשר ספירות בלימה בלום פיך מלדבר  
+ולבך מלהרהר ואם רץ לבך שוב למקום  
+שלכך נאמר והחיות רצוא ושוב  
+ועל דבר זה נכרת ברית  
+
 ## Details
 ### First of Espar
 - Espar is the name of a month; a celebratory time as it marks the end of Summer
@@ -23,6 +34,7 @@ search_exclude: true
   Coast.
 - They eat dried unsweetened cake to remember their ancestor’s paltry options
   for food.
+- Consider renaming the month.
 
 ## Encounters
 ### The Cottage
@@ -44,3 +56,22 @@ search_exclude: true
 - There is a set limit of objects that the cottage can “summon”; a party of 3 or
   more PCs should be able to overwhelm it by desiring a dozen or so objects
   each.
+
+### Misc:
+- Weddings in a cemetery!
+- Ribbons tied around cribs to protect infants
+- Red ribbons (knotted) to protect the dead
+- [Gilgul](https://en.wikipedia.org/wiki/Gilgul)
+- Your Gilgul is trapped if Kaddish is not performed (or if the firstborn son isn't around)
+- Sefirot: Gematria?
+- Should be at least a minyan in there.
+- [Yibbum](https://en.wikipedia.org/wiki/Yibbum) - jump bodies on death
+
+#### [Klipot](https://en.wikipedia.org/wiki/Qliphoth) (Husks)
+- Mashchith (Hebrew: מַשְׁחִית‎‎ mašḥīṯ, "destroyer") to Chesed (Kindness)
+- Aph (Hebrew: אַף‎‎ ʾap̄, "anger") to Gevurah (Discipline)
+- Chemah (Hebrew: חֵמָה‎‎ ḥēmā, "wrath") to Tiferet (Glory)
+- Avon, (Hebrew: עָוֹן‎‎ ʿāvōn, "iniquity")
+- Tohu (Hebrew: תֹהוּ‎‎ ṯōhū, "formless"),
+- Bohu (Hebrew: בֹהוּ‎‎ ḇōhū, "void"), Esh (Hebrew: אֵשׁ‎‎ ʿēš, "fire")
+- Tehom (Hebrew: תְּהוֹם‎‎ təhōm, "deep")

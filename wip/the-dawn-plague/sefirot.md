@@ -91,9 +91,10 @@ _— The Book of Formation, 1:7-1:8_
 - Glinting within the waters is [treasure], next to a large wooden carving of a man, his feet rooted to the muddy ground.
 - The water from the pool changes flesh to wood and earth.
 
-### 7. The Shrine (**Splendor**)
+### 7. The Shrine (**Glory**)
 - The walls here are painted a very dark orange.
 - A large tapestry hangs on the **West** wall. It depicts a great bonfire; bodies are burning within. Some are clearly human, but others look monstrous. A crowd of children is watching.
+- Getting close to the tapestry reveals that it generates intense heat; touching it causes 1d4 STR damage.
 - **East** to the **Pool of Life**.
 - **Southeast** to the **Engine Room**.
 
