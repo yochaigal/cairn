@@ -41,3 +41,6 @@ grand_parent: More Content
 | 4    | **Artificial Flowers** | A bouquet fashioned out of felt, wax, wire and other materials. It looks real as long as it is not closely observed, and is rather resplendent. Its odor resembles that of a person's favorite flower. |
 | 5    | **Seed Bomb**         | Three dirt clods held tightly together in small canvas sacks. Their contents explodes on impact, showering their target with dirt and a multitude of seeds. |
 | 6    | **Duda**          | A brownish root that looks almost like a tiny sleeping human. At first it fits snugly into your backpack, but comes alive when splashed with a bit of milk. Tell it where you (and only you) want to go, and suddenly you'll find yourself there. Each time it wakes it grows by a factor of two. |
+
+## Debt
+- The party trespassed over an invisible boundary maintained by the **Wooden Dead**, a faction of benign Forest Liches. They now demand you plant a new grove of rare (and expensive) corpsewood trees. Until this debt is paid, trees and plants wilt at your touch.  
