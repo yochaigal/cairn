@@ -19,7 +19,7 @@ Players act as hardened adventurers exploring a dark & mysterious Wood filled wi
 - [Principles for Wardens](#principles-for-wardens)
 - [Spillerprincipper](#spillerprincipper)
 - [Character Creation](#character-creation)
-- [Equipment](#equipment-list-prices-in-gold-pieces)
+- [Udstyr](#udstyrsliste-prisen-er-i-guldmønter)
 - [Rules](#rules)
 - [Bestiary](#bestiary)
 - [100 Spells](#100-spells)
@@ -433,62 +433,62 @@ If you would like something closer to traditional classes, refer to the list of 
 
 <p></p>
 
-## Equipment List (Prices in Gold Pieces)  
+## Udstyrsliste (Prisen er i guldmønter)  
 
-#### Armor
+#### Rustning
 
-||     |
+|                                                              |     |
 |--------------------------------------------------------------|-----|
-|Shield (+1 Armor)            |10   |
-|Helmet (+1 Armor)            |10   |
-|Gambeson (+1 Armor)          |15   |
-|Brigandine (1 Armor, bulky)  |20   |
-|Chainmail (2 Armor, bulky)   |40   |
-|Plate (3 Armor, bulky)       |60   |
+|Skjold (+1 Rustning)                                          |10   |
+|Hjelm (+1 Rustning)                                           |10   |
+|Slagkofte (+1 Rustning)                                       |15   |
+|Skælpanser (1 Rustning, klodset)                              |20   |
+|Ringbrynje (2 Rustning, klodset)                              |40   |
+|Pladerustning (3 Rustning, klodset)                           |60   |
 
-#### Weapons
+#### Våben
 
-| |     |
-|--------------------------------------------------------------|-----|
-|Dagger, Cudgel, Sickle,  Staff, etc. (d6  damage)             |5    |
-|Spear, Sword, Mace, Axe,  Flail, etc. (d8 damage)             |10   |
-|Halberd, War Hammer, Long  Sword, etc. (d10 damage, bulky)    |20   |
-|Sling (d4  damage)                                            |5    |
-|Bow  (d6  damage, bulky)                                      |20   |
-|Crossbow (d8  damage, bulky)                                  |30   |
+|                                                                         |     |
+|-------------------------------------------------------------------------|-----|
+|Dolk, Trækølle, Segl, Træstav, osv. (t6 skade)                           |5    |
+|Spyd, Slagsværd, Stridskølle, Økse, Morgenstjerne, osv. (t8 skade)       |10   |
+|Hellebard, Stridshammer, Tohåndssværd, osv. (t10 skade, klodset)         |20   |
+|Slynge (t4 skade)                                                        |5    |
+|Bue (t6 skade, klodset)                                                  |20   |
+|Armbrøst (t8 skade, klodset)                                             |30   |
 
-#### Gear & Tools
+#### Udrustning & Værktøj
 
-| |                |                   |          |
-|---------------------------------------------|----------------|-------------------|----------|
-|Air Bladder                                  |5               |Large Trap         |20        |
-|Bellows                                      |10              |Large Sponge       |5         |
-|Bedroll                                      |5               |Lens               |10        |
-|Book                                         |50              |Lockpicks          |25        |
-|Bucket                                       |5               |Manacles           |10        |
-|Caltrops                                     |10              |Metal File         |5         |
-|Cart (+4 slots, bulky)                       |30              |Mirror             |5         |
-|Chain (10ft)                                 |10              |Mule (+6 slots, slow)|30      |
-|Chalk                                        |1               |Net                |10        |
-|Chisel                                       |5               |Oilskin Bag        |5         |
-|Cook Pots                                    |10              |Pick               |10        |
-|Crowbar                                      |10              |Pulley             |10        |
-|Drill (Manual)                               |10              |Pole (10ft)        |5         |
-|Face Paint                                   |10              |Quill & Ink        |10        |
-|Fire Oil                                     |10              |Rations (three day's worth)|10        |
-|Fishing Rod                                  |10              |Rope (25ft)        |5         |
-|Glass Marbles                                |5               |Saw                |5         |
-|Glue                                         |5               |Sack               |5         |
-|Grease                                       |10              |Shovel             |5         |
-|Grappling Hook                               |25              |Soap               |1         |
-|Hammer                                       |5               |Spike              |1         |
-|Holy Water                                   |25              |Spiked Boots       |5         |
-|Horn                                         |10              |Spyglass           |40        |
-|Horse (+4 slots)                             |75              |Tar                |10        |
-|Hourglass                                    |50              |Tent (fits 2 people, bulky)|20        |
-|Incense                                      |10              |Torch              |1         |
-|Ladder (bulky, 10ft)                         |10              |Wagon (+8 slots, slow)|200    |
-|Lantern & Oil                                |10              |Wolfsbane          |10        |
+|                                  |                |                                 |     |
+|----------------------------------|----------------|---------------------------------|-----|
+|Luftæt skind                      |5               |Stor smækfælde                   |20   |
+|Blæsebælg                         |10              |Stor vaskesvamp                  |5    |
+|Sovepose                          |5               |Objektiv                         |10   |
+|Bog                               |50              |Dirke                            |25   |
+|Spand                             |5               |Lænker                           |10   |
+|Fodangler                         |10              |Metalfil                         |5    |
+|Trækvogn (+4 pladser, klodset)    |30              |Spejl                            |5    |
+|Jernkæde (3m)                     |10              |Muldyr (+6 pladser, langsomt)    |30   |
+|Kridt                             |1               |Net                              |10   |
+|Stemmejern                        |5               |Olieskind                        |5    |
+|Gryder                            |10              |Hakke                            |10   |
+|Koben                             |10              |Trisse                           |10   |
+|Håndbor                           |10              |Stang (3m)                       |5    |
+|Ansigtsmaling                     |10              |Fjerpen & blæk                   |10   |
+|Ildolie                           |10              |Proviant (Tre dage)              |10   |
+|Fiskestang                        |10              |Reb (8m)                         |5    |
+|Glaskugler                        |5               |Sav                              |5    |
+|Lim                               |5               |Sæk                              |5    |
+|Fedt                              |10              |Skovl                            |5    |
+|Entrehage                         |25              |Sæbe                             |1    |
+|Hammer                            |5               |Jernpig                          |1    |
+|Vievand                           |25              |Pigsko                           |5    |
+|Horn                              |10              |Teleskop                         |40   |
+|Hest (+4 pladser)                 |75              |Tjære                            |10   |
+|Timeglas                          |50              |Telt (2 mands, klodset)          |20   |
+|Røgelse                           |10              |Fakkel                           |1    |
+|Stige (klodset, 3m)               |10              |Vogn (+8 pladser, langsomt)      |200  |
+|Olielampe                         |10              |Stormhat                         |10   |
 
 <p></p>
 
