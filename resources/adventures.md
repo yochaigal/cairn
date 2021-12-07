@@ -1,9 +1,7 @@
 ---
 layout: default
-title: Monsters
-nav_order: 6
+title: Adventures
 parent: Resources
+nav_order: 5
 has_children: true
 ---
-
-# Monsters

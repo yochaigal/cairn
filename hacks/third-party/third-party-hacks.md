@@ -8,7 +8,6 @@ nav_order: 1
 
 # Third Party Hacks
 
-- [**Maze Rats Spells In Cairn**](https://xenioinabottle.blogspot.com/2021/04/maze-rats-spells-in-cairn.html)
 - [**Runecairn**](https://byodinsbeardrpg.itch.io/runecairn)
 - [**NEANDERTAL**](https://natetreme.com/blog/neandertal)
 - [**Liminal Horror**](https://goblinarchives.itch.io/liminal-horror)
@@ -20,3 +19,4 @@ nav_order: 1
 - [**Thálassa**](https://zeruhur.space/thalassa/Th%C3%A1lassa.html)
 - [**Mangayaw**](https://mangayaw.carrd.co) by [Goobernuts](https://goobernutsblog.wordpress.com/)
 - [Into The Valley Of The Unfortunate Undead](https://siofragames.itch.io/into-the-valley-of-the-unfortunate-undead) by [Jacob Marks](https://siofragames.itch.io)
+- [**Maze Rats Spells In Cairn**](https://xenioinabottle.blogspot.com/2021/04/maze-rats-spells-in-cairn.html)

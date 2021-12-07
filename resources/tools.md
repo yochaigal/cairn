@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Monsters
-nav_order: 6
+title: Tools
+nav_order: 3
 parent: Resources
 has_children: true
 ---
 
-# Monsters
+# Tools

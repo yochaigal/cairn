@@ -9,23 +9,32 @@ search_exclude: true
 
 # Sefirot
 
+עשר ספירות בלי מה נעוץ סופן בתחלתן  
+ותחלתן בסופן כשלהבת קשורה בגחלת  
+שאדון יחיד ואין לו שני ולפני אחד מה אתה סופר  
 
-_Ten emanations without form._
-_Their end is also their beginning, just as the ember is tied to the flame._
-_The Maker is unique and without peer, the one and only._
-_And what number do you place before one?_
+עשר ספירות בלימה בלום פיך מלדבר  
+ולבך מלהרהר ואם רץ לבך שוב למקום  
+שלכך נאמר והחיות רצוא ושוב  
+ועל דבר זה נכרת ברית  
 
-_Ten emanations without form._
-_Restrain your feelings and silence your words._
-_Do not stray from the path, lest you free the beasts._
-_Upon this a covenant was formed._
+_Ten emanations without form._  
+_Their end is also their beginning, just as the ember is tied to the flame._  
+_The Master is unique and without peer, the one and only._  
+_And what number do you place before one?_  
 
-_— The Book of Creation, 1:7-1:8_
+_Ten emanations without form._  
+_Restrain your feelings and silence your words._  
+_Do not stray from the path, lest you free the beasts._  
+_Upon this a covenant was formed._  
+
+_— The Book of Formation, 1:7-1:8_  
 
 ## Details for all levels
-- Words carved above a doorway describe the room's spiritual value.
 - The smell of dried mud and decay.
-- Each room is carved from solid rock into a precise hexagonal shape.
+- Words are carved above a doorway describe the room's spiritual value.
+- Each room has a specific auditory tone.
+- Each room is cut from solid rock into a precise hexagonal shape.
 
 ## Upper Level
 ### 1. The Pedestal (**The Crown**)
@@ -82,9 +91,10 @@ _— The Book of Creation, 1:7-1:8_
 - Glinting within the waters is [treasure], next to a large wooden carving of a man, his feet rooted to the muddy ground.
 - The water from the pool changes flesh to wood and earth.
 
-### 7. The Shrine (**Splendor**)
+### 7. The Shrine (**Glory**)
 - The walls here are painted a very dark orange.
 - A large tapestry hangs on the **West** wall. It depicts a great bonfire; bodies are burning within. Some are clearly human, but others look monstrous. A crowd of children is watching.
+- Getting close to the tapestry reveals that it generates intense heat; touching it causes 1d4 STR damage.
 - **East** to the **Pool of Life**.
 - **Southeast** to the **Engine Room**.
 

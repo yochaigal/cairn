@@ -11,7 +11,7 @@ search_exclude: true
 
 ## Summary
 - See the overland [map](/wip/the-dawn-plague/maps/the-dawn-plague-map.jpg).
-- Khelma is a small village seated between a thick forest and a restless sea.
+- **Motal** is a small village seated between a thick forest and a restless sea.
 - Devastated by something called "The Dawn Plague" decades before, the town has never fully recovered.
 - The villagers keep to the old ways, carefully following ritual burial rites.  
 - An outside lumber company has planted its stake in the local forest, and pays the town handsomely.
@@ -20,14 +20,13 @@ search_exclude: true
 - **Rab Schlomo** and his congregation have resorted to an ancient practice meant to protect the town from both outsiders and potential threats. Their efforts may have summoned a far worse threat to the town, with dire consequences.
 
 ## The Dawn Plague
-- Thirty-three years ago, a hunting party from **Khelma** found themselves lost in the **Blue Forest**, eventually taking their rest in a place haunted by bodiless Dybbuks. By morning, all were possessed.
-- The newly-bodied Dybbuks then found their way to the village of **Khelma**, retreating back to the forest after wreaking havoc on the frightened populace.
+- Thirty-three years ago, a hunting party from **Motal** found themselves lost in the **Blue Forest**, eventually taking their rest in a place haunted by bodiless Dybbuks. By morning, all were possessed.
+- The newly-bodied Dybbuks then found their way to the village of **Motal**, retreating back to the forest after wreaking havoc on the frightened populace.
 - The locals were ill-equipped to handle the situation. A small group of all able-bodied adults attempted to stop the Dybbuks on their own turf. All but one (**Zina**, a seamstress) did not return.
-- **Zina** survived by climbing up a tree and observing the Dybbuks for a full night, never sleeping. She observed that the Dybbuks could only possess a body while the spirit slept, and that by morning they would have full control. She also saw that they _hated_ fire. She let one of the children know what she'd learned, then fled.
-- The remaining residents (mostly children and the elderly **Rab**) were able to frighten their possessed former neighbors, parents and children with torches and flaming brands, forcing them into a nearby quarry. They then set it ablaze, killing the bodies but freeing the spirits. This place is now referred to as **Orphan’s Mound**.
-- Today the locals still stand vigilant for a full night after any burial, to ensure that none are possessed by a Dybbuk. They endlessly repeat the phrase, “A candle for one is a candle for a hundred.” In general, the survivors became strict adherents of their ancestor's religious practices.
-- The true details of what happened in **Khelma** was kept secret, most outsiders believing them an unfortunate victims of a plague. The original **Rab** died a few years after the events of the **Dawn Plague**, but made great efforts to forestall anything ever harming the town again. Eventually, **Rab Schlomo** came and made his home among them, intending to understand and protect his newfound neighbors.
-- **Zina** was never seen again, though she lives on as an **Estrie**, surviving from offerings left to her by the villagers.
+- An Estrie (see **Zina** below) nesting nearby observed the Dybbuks from on high, seeing that they could only possess a body while the spirit slept. She also saw that their _hated_ fire. She let one of the children know what she'd learned, then moved her nest to the **Blue Forest**. She feels great guilt for not helping the townsfolk further.
+- The remaining residents (mostly children and the elderly) were able to chase their possessed  neighbors & parents with torches and flaming brands, forcing them into a nearby barn. They then set it ablaze, killing the bodies but freeing the spirits trapped within. This place is now referred to as **Orphan’s Mound**.
+- Today the locals still stand vigilant for a full night after any burial, to ensure that none are possessed by a Dybbuk. They endlessly repeat the phrase, “A candle for one is a candle for a hundred.”
+- An oath of secrecy was soon invoked, whereby a lie would be told from that day forward: a disease killed the older citizens of **Motal**. Breaking this taboo would result in expulsion from the community. One of the children became **Rab Schlomo**, and made great efforts to forestall such a harm happening ever again.
 
 ## Hooks
 - PCs are hired by a wealthy outsider, sent to quiet the unrest.
@@ -44,56 +43,13 @@ search_exclude: true
 - Locals remember those they'd lost during the **Dawn Plague**, and what they had to do to survive afterward.
 - They eat dried unsweetened cake and attend services at the **Schul**.
 
-## Monsters
-
-### Dybbuk
-10 HP,  12 STR, 14 DEX, 15 WIL, elongated claws (d6), jagged teeth (d8)
-- Appear as gray-skinned, translucent humanoids with long snouts full of large, ugly teeth. Cannot interact with the world while in spirit form.
-- Can leap into the living to wreak havoc among the living. Grows more powerful the longer it maintains a bodily presence.
-- Critical damage: target is immobilized and unconscious. If the body is not healed via a ritual prayer, the victim becomes a host for the Dybbuk.
-
-### Root Witch
-8 HP, 9 STR, 16 DEX, 14 WIL, tuber-fingers (d6)
-- Excellent tunneler that hides underground near water. Wiggles tiny fronds into the air as lures.
-- Above-ground, appears vaguely humanoid with the face of a rotted tree stump.
-- Will exchange rare minerals for a “fresh corpse” of any kind.
-- Easily takes offense, especially if offered anything more than a few days dead.
-- Critical damage: target is pulled underground, where they soon suffocate.
-
-### Shtekn Folk
-4 HP, 1 Armor, 11 STR, 8 DEX, 14 WIL, knotted fists (d8+d8)
-- Stick-like humanoids made of branches, vines and roots. Refer to themselves as "the People".
-- Never leave the **Blue Forest**. Regularly eavesdrop on "Flesh Folk" through tree-linking.
-- Will trade almost anything for information they don't already have.
-- Can approximate speech through undulating their twig-like fingers.
-- Attacks utilizing fire are _enhanced_ against **Shtekn Folk**.
-
-### Zina (an Estrie)
-10 HP, 11 STR, 15 DEX, 14 WIL, draining hair (1d8)
-- Appears as a woman with long dark hair that extends all the way to her feet. Can transform into an owl at night.
-- Drinking blood gives her power, but she can also obtain sustenance from eating bread and salt if taken from one she has wronged.
-- Binding their hair prevents any transformation. Can be killed, but her head must be buried and the mouth stuffed with dirt.  
-- Critical damage: target falls unconscious for 1d4 days.
-
-### Shabriri, the Dazzler
-- Lives in pools and water
-- Defeated by speaking one letter less of his name at a time while walking backwards, until it disappears, e.g.Shabriri, habiri, abriri, briri, riri, iri, ri.
-
-### Golem
-16 HP, 2 Armor, 15 STR, 6 DEX, 2 WIL, cobblestone fists (d10)
-- A hulking 9’ tall statue made of clay, mud, and prayer.
-- Mindlessly follows whatever commands given by its master, even after their death.
-- Immune to mundane blades and missile weapons. Damage from fire is _enhanced_.
-- If destroyed, the Golem eventually reforms and carries out its previous orders.
-- Uttering the inverse of the spell that created it reduces the Golem to mud.
-
 ## 1. First Light
 - The oldest established homestead. Home to an elderly sisters who lost family to the **Dawn Plague**
 - They trade mostly in candles. Some have magical or warding properties.
 - A **Dybbuk** haunts the farm, but will not touch the sisters. They are its former children.
 
 ## 2. Shorehead Ruins
-- A large, mostly worn-away temple that predates the arrival of the **Khelma** colonists.
+- A large, mostly worn-away temple that predates the arrival of the **Motal** colonists.
 - Some theorize they represent ancient sea-faring peoples from across the **Silver Sea**.
 
 ## 3. The Tentyard
@@ -101,7 +57,7 @@ search_exclude: true
 - A tarp is draped across one of the ribs. In the shade below, **Aroys-Geben** makes his home.
 - He lives off fish and whatever trade he can find. He is also a spy for both the **Meyster** and **Gehilts**.
 
-## 4. Khelma
+## 4. Motal
 - A dozen rustic-looking wooden buildings form a perfect square in the center.
 - A massive old-growth forest dominates the lands to the East, split by a small mountain.
 - On the North side dozens of farms spill out along a long, dusty road. The road bends Northwest.
@@ -125,7 +81,7 @@ search_exclude: true
 
 ## 5. Orphan's Mound
 - A mass-burial site for those that died of the **Dawn Plague**.
-- Tended by the **Gravedigger**, **Khelma’s** dead are brought here and burned.
+- Tended by the **Gravedigger**, **Motal’s** dead are brought here and burned.
 - There is a **Root Witch** here, drawn by earth-tremblings from the Rab's research.
 - **Gravedigger’s Hovel**: a paltry shack just next to the mound. **Kivyer** lives there.
 
@@ -133,14 +89,17 @@ search_exclude: true
 - A thick, moss-covered forest of spruce, fir and maple trees. The forest is quite cold.
 - At night, faint blue lights guide travelers deep into the woods, where they quickly become lost.
 - The lights are in fact will o’ wisps that live in the moss, and feed off anything, including flesh.
-- The bodies of frozen travelers from decades before still litter the forest, their belongings preserved in moss and frost.
+
+### Zina
+- An **Estrie** that makes her nest in the **Blue Forest**.
+- Drinks from small animals and sleeping travelers, who dream of feathers and the moon.
+- Accepts offerings of bread & salt for safe passage or information, but only from villagers or those accompanying them.
 
 ## 7. Froyim’s Home
 - **Froyim Greydinger** makes his home here. He is a well-respected merchant in these parts.
 - Behind the unusually  modern cottage  is a small garden. A large tree sits in the Northwest corner.
-- The **Dybbuk’s** first victim, as he travels frequently between his home and the coast.
 - Upon arrival, the PCs will find the door smashed open and blood splattered everywhere.
-- **Froyim’s** body is in the back garden, torn to shreds. If not burnt, it will rise as a **Dybbuk** at dawn.
+- **Froyim’s** body is in the back garden, torn to shreds.
 - Hiding within the tree's mossy bark is a **Shtekn Folk** spy, which will try to run away (towards **Blue Forest**).
 
-## 8. The Tomb
+## 8. The Sefirot
