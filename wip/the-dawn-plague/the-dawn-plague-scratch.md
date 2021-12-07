@@ -68,10 +68,10 @@ Opening text:
 - [Yibbum](https://en.wikipedia.org/wiki/Yibbum) - jump bodies on death
 
 #### [Klipot](https://en.wikipedia.org/wiki/Qliphoth) (Husks)
-- Mashchith (Hebrew: מַשְׁחִית‎‎ mašḥīṯ, "destroyer") to Chesed (Kindness)
-- Aph (Hebrew: אַף‎‎ ʾap̄, "anger") to Gevurah (Discipline)
-- Chemah (Hebrew: חֵמָה‎‎ ḥēmā, "wrath") to Tiferet (Glory)
-- Avon, (Hebrew: עָוֹן‎‎ ʿāvōn, "iniquity")
-- Tohu (Hebrew: תֹהוּ‎‎ ṯōhū, "formless"),
-- Bohu (Hebrew: בֹהוּ‎‎ ḇōhū, "void"), Esh (Hebrew: אֵשׁ‎‎ ʿēš, "fire")
-- Tehom (Hebrew: תְּהוֹם‎‎ təhōm, "deep")
+- Mashchith מַשְׁחִית‎‎ mašḥīṯ, "destroyer to Chesed (Kindness)
+- Aph אַף‎‎, anger to Gevurah (Discipline)
+- Chemah חֵמָה‎‎, wrath to Tiferet (Glory)
+- Avon, עָוֹן‎, iniquity
+- Tohu תֹהוּ‎‎, formless
+- Bohu בֹהוּ‎‎, void, אֵשׁ‎‎, fire
+- Tehom תְּהוֹם‎‎, deep
