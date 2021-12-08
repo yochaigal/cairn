@@ -13,10 +13,10 @@ title: Where The Wheat Grows Tall
 - Only what needs to be converted or changed will appear here. If an important detail is missing, refer to the adventure!
 
 ## Notes
-#### Weapons & Tools (page 10)
+### Weapons & Tools (page 10)
 Treat damage as-is.  
 
-#### The Polotnikovs
+### The Polotnikovs
 Have 4 HP unless otherwise noted. The "House Spirit" (Oleg) has 4 HP.
 
 ## Locations
@@ -25,7 +25,7 @@ Have 4 HP unless otherwise noted. The "House Spirit" (Oleg) has 4 HP.
 - Destroying the idol makes Faeries go _after_ PCs in combat.
 
 ### 14. Buried Wheel
-#### Table
+### Table
 - d10+STR instead fo CON
 - d10+WIL instead of WIS
 - Fey reaction: go first against Faerie creatures in combat.
@@ -40,65 +40,65 @@ Have 4 HP unless otherwise noted. The "House Spirit" (Oleg) has 4 HP.
 - Cookie Jar: heals 1 STR each, but _deprived_ for the rest of the day.
 
 ## Bestiary
-#### Old Svarg
+### Old Svarg
 5 HP, 1 Armor, 8 STR, 12 DEX, 15 WIL, fire sickle (d6)
 - Critical damage: 1d4 items catch fire and are destroyed (flammable or valuable first)
 
-#### Barstukai
+### Barstukai
 2 HP, 4 STR, 12 DEX, 5 WIL, claws (d4), farming tools (d6)
 - Can vanish into the crops without a save (their laughter may reveal location).
 
-#### Crops Spirit
+### Crops Spirit
 10 HP, 1 Armor, 9 STR, 14 DEX, 6 WIL, farming tools or talons (d8+d8)
 - If attacked, animates crops to subdue attacker (DEX to break free). On a fail, the target is strangled unconscious and eventually asphyxiates.
 
-#### Crow/Owl Spirit
+### Crow/Owl Spirit
 5 HP, 1 Armor, 8 STR, 10 DEX, 12 WIL, farming tool (d6), flock of birds (d4, _blast_)
 - If attacked, summons a flock of birds to their defense (additional d4 damage every round).
 - Critical damage: target must make two STR saves and keep the higher result.
 
-#### Ghosts
+### Ghosts
 4 HP, 2 Armor, 12 STR, 14 DEX, 16 WIL, old weapon (d6)
 - Flashback: Target loses 1d4 WIL and must make a WIL save or lose their next action as they relive the spirit's death.
 - Attacks against Ghosts are _impaired_.
 
-#### The Likho, The One Eyed Witch
+### The Likho, The One Eyed Witch
 8 HP, 1 Armor, 14 STR, 8 DEX, 12 WIL, claws (d4+d4), gaze attack (once each, permitting)
 - **Midnight Gaze**: target is paralyzed and blind and must make a WIL save to break free.
 - **Sunstrike Gaze**: target takes 1d6 STR damage and then must make a WIL save or believe they are on fire.
 
-#### Night Goblins
+### Night Goblins
 2 HP, 6 STR, 13 DEX, 5 WIL, claws (d4)
 
-#### Night Spirit
+### Night Spirit
 8 HP, 1 Armor, 12 STR, 9 DEX, 12 WIL, bite (d8)
 
-#### Noon Wraith
+### Noon Wraith
 8 HP, 1 Armor, 8 STR, 11 DEX, 15 WIL, claws (d6+d6), sunstrike
 - **Sunstrike**: target takes 1d4 STR damage and must then make a WIL save or believe they are on fire.
 
-#### Poleviks
+### Poleviks
 6 HP, 1 Armor, 12 STR, 10 WIL, claws (d4), farm tools (d6), grasping roots
 - **Grasping Roots**: target is engulfed by strangling roots. On their next turn they can must make a STR save be buried under ground.
 
-#### Scarecrow Piotr
+### Scarecrow Piotr
 9 HP, 1 Armor, 12 STR, 8 DEX, 18 WIL, claws (d6+d6)
 
-#### Strangling Roots
+### Strangling Roots
 5 HP, 1 Armor, 18 WIL
 - Treat as trap.
 
-#### Sunstroke Thrall
+### Sunstroke Thrall
 4 HP, 8 STR, 5 DEX, 11 WIL, farming tool (d6)
 
-#### Trull The Troll
+### Trull The Troll
 8 HP, 2 Armor, 14 STR, 11 DEX, 11 WIL, toadslap (1d6+1d6, _blast_)
 - Critical damage: characters are hurled into stream.
 - In shadowed water regenerates 2 STR per round.
 
-#### Turnip Jack
+### Turnip Jack
 6 HP, 1 Armor, 11 STR, 9 DEX, 11 WIL, farming tool (d6)
 - Regenerates 2 STR when eating light from his lantern.
 
-#### Spiteful Wierga
+### Spiteful Wierga
 5 HP, 1 Armor, 11 STR, 12 DEX, 8 WIL, claws (d6)
