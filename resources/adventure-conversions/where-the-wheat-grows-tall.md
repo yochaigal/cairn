@@ -11,10 +11,10 @@ title: Where The Wheat Grows Tall
 - Converted from the [original work](https://www.exaltedfuneral.com/products/where-the-wheat-grows-tall-pdf) by [Evlyn Moreau](http://chaudronchromatique.blogspot.com/) and [Camilla Greer](https://greerrrr.itch.io/). Buy it in print, if you can. It's fantastic.
 - Only what needs to be converted or changed will appear here.
 - If an important detail is missing, refer to the adventure!
-- Treat damage as-is.  
-- The **Polotnikovs** have 4 HP unless otherwise noted. The "House Spirit" (**Oleg**) has 4 HP.
 
 ## Location Notes
+- Treat damage as-is.  
+- The **Polotnikovs** have 4 HP, and abilities are 10/10/10 unless otherwise noted.
 
 ### 12. The Noon Lady Idol
 - Destroying the idol makes Faeries go _after_ PCs in combat.
@@ -35,6 +35,9 @@ title: Where The Wheat Grows Tall
 - Cookie Jar: heals 1 STR each, but _deprived_ for the rest of the day.
 
 ## Bestiary
+### The "House Spirit" (Oleg)
+- 4 HP, 5 STR, 11 DEX, 12 WIL
+
 ### Old Svarg
 5 HP, 1 Armor, 8 STR, 12 DEX, 15 WIL, fire sickle (d6)
 - Critical damage: 1d4 items catch fire and are destroyed (flammable or valuable first)
