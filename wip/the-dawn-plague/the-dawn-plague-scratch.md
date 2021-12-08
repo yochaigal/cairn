@@ -57,6 +57,15 @@ Opening text:
   more PCs should be able to overwhelm it by desiring a dozen or so objects
   each.
 
+#### [Klipot](https://en.wikipedia.org/wiki/Qliphoth) (Husks)
+- Mashchith מַשְׁחִית‎‎ mašḥīṯ, "destroyer to Chesed (Kindness)
+- Aph אַף‎‎, anger to Gevurah (Discipline)
+- Chemah חֵמָה‎‎, wrath to Tiferet (Glory)
+- Avon, עָוֹן‎, iniquity
+- Tohu תֹהוּ‎‎, formless
+- Bohu בֹהוּ‎‎, void, אֵשׁ‎‎, fire
+- Tehom תְּהוֹם‎‎, deep
+
 ### Misc:
 - Weddings in a cemetery!
 - Ribbons tied around cribs to protect infants
@@ -66,12 +75,5 @@ Opening text:
 - Sefirot: Gematria?
 - Should be at least a minyan in there.
 - [Yibbum](https://en.wikipedia.org/wiki/Yibbum) - jump bodies on death
-
-#### [Klipot](https://en.wikipedia.org/wiki/Qliphoth) (Husks)
-- Mashchith מַשְׁחִית‎‎ mašḥīṯ, "destroyer to Chesed (Kindness)
-- Aph אַף‎‎, anger to Gevurah (Discipline)
-- Chemah חֵמָה‎‎, wrath to Tiferet (Glory)
-- Avon, עָוֹן‎, iniquity
-- Tohu תֹהוּ‎‎, formless
-- Bohu בֹהוּ‎‎, void, אֵשׁ‎‎, fire
-- Tehom תְּהוֹם‎‎, deep
+- Forbidden to eat blood (vs Leeches!)
+-

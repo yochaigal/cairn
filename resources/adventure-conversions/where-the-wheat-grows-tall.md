@@ -65,16 +65,26 @@ Have 4 HP unless otherwise noted. The "House Spirit" (Oleg) has 4 HP.
 - **Grasping Roots**: target is engulfed by strangling roots. On their next turn they can must make a STR save be buried under ground.
 
 #### Scarecrow Piotr
+9 HP, 1 Armor, 12 STR, 8 DEX, 18 WIL, claws (d6+d6)
 
 #### Strangling Roots
+5 HP, 1 Armor, 18 WIL
+- Treat as trap.
 
 #### Sunstroke Thrall
+4 HP, 8 STR, 5 DEX, 11 WIL, farming tool (d6)
 
 #### Trull The Troll
+8 HP, 2 Armor, 14 STR, 11 DEX, 11 WIL, toadslap (1d6+1d6, _blast_)
+- Critical damage: characters are hurled into stream.
+- In shadowed water regenerates 2 STR per round.
 
 #### Turnip Jack
+6 HP, 1 Armor, 11 STR, 9 DEX, 11 WIL, farming tool (d6)
+- Regenerates 2 STR when eating light from his lantern.
 
 #### Spiteful Wierga
+5 HP, 1 Armor, 11 STR, 12 DEX, 8 WIL, claws (d6)
 
 ## Locations
 ### 1. Farmhouse
