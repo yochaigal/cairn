@@ -3,8 +3,6 @@ layout: default
 parent: Adventure Conversions
 grand_parent: Resources
 nav_order: 14
-nav_exclude: true
-search_exclude: true
 title: Where The Wheat Grows Tall
 ---
 
@@ -21,6 +19,26 @@ Treat damage as-is.
 
 #### The Polotnikovs
 Have 4 HP unless otherwise noted. The "House Spirit" (Oleg) has 4 HP.
+
+## Locations
+
+### 12. The Noon Lady Idol
+- Destroying the idol makes Faeries go _after_ PCs in combat.
+
+### 14. Buried Wheel
+#### Table
+- d10+STR instead fo CON
+- d10+WIL instead of WIS
+- Fey reaction: go first against Faerie creatures in combat.
+
+### 15. Stoneface Guardian
+- Stoney Gaze: WIL save to avoid petrification
+
+### 16. Likho's House
+- Mantelpiece: DEX save or 1d4 STR damage.
+- Muffins: heal 1d4 STR.
+- Silver mirror: WIL save or they cannot take their next action.
+- Cookie Jar: heals 1 STR each, but _deprived_ for the rest of the day.
 
 ## Bestiary
 #### Old Svarg
@@ -85,25 +103,3 @@ Have 4 HP unless otherwise noted. The "House Spirit" (Oleg) has 4 HP.
 
 #### Spiteful Wierga
 5 HP, 1 Armor, 11 STR, 12 DEX, 8 WIL, claws (d6)
-
-## Locations
-### 1. Farmhouse
-### 2. Well
-### 3. Barn
-### 4. Granary
-### 5. Old Tree Growing Over The Wall
-### 6. The crack In The Wall
-### 7. Circle
-### 8. Scarecrow's Perch
-### 9. Siege Tower
-### 10. Hanged Man Idol
-### 11. Tree Growing Through An Old Barn
-### 12. The Noon Lady Idol
-### 13. Bridge
-### 14. Buried Wheel
-### 15. Stoneface Guardian
-### 16. Likho's House
-### 17. Idol In The Lake
-### 18. Broken Idol Of The Midnight Maiden
-### 19. Under The Roots
-### 20. Polevik's Den

@@ -21,3 +21,5 @@ search_exclude: true
 - Locations of NPCs are very helpful.
 - Lots of flipping around because of information design. Not bad for online play.
 - PDF has linked location indicators (though not on the map)
+- Would be nice to have the map link to chapters from numbers.
+- lots of skipping around.
