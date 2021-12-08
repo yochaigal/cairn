@@ -73,8 +73,8 @@ title: Where The Wheat Grows Tall
 - **Sunstrike**: target takes 1d4 STR damage and must then make a WIL save or believe they are on fire.
 
 ### Poleviks
-6 HP, 1 Armor, 12 STR, 10 WIL, claws (d4), farm tools (d6), grasping roots
-- **Grasping Roots**: target is engulfed by strangling roots. On their next turn they can must make a STR save be buried under ground.
+6 HP, 1 Armor, 12 STR, 10 WIL, claws (d4), farm tools (d6)
+- **Grasping Roots**: target is engulfed by strangling roots. On their next turn, make a STR save or be buried under ground.
 
 ### Scarecrow Piotr
 9 HP, 1 Armor, 12 STR, 8 DEX, 18 WIL, claws (d6+d6)
