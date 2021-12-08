@@ -8,11 +8,11 @@ title: Where The Wheat Grows Tall
 
 # Where The Wheat Grows Tall
 
-- Converted from the [original work](https://www.exaltedfuneral.com/products/where-the-wheat-grows-tall-pdf) by [Evlyn Moreau](http://chaudronchromatique.blogspot.com/) and [Camilla Greer](https://greerrrr.itch.io/).
-- Buy it in print, if you can. It's fantastic.
-- Only what needs to be converted or changed will appear here. If an important detail is missing, refer to the adventure!
+- Converted from the [original work](https://www.exaltedfuneral.com/products/where-the-wheat-grows-tall-pdf) by [Evlyn Moreau](http://chaudronchromatique.blogspot.com/) and [Camilla Greer](https://greerrrr.itch.io/). Buy it in print, if you can. It's fantastic.
+- Only what needs to be converted or changed will appear here.
+- If an important detail is missing, refer to the adventure!
 - Treat damage as-is.  
-- The **Polotnikovs** have 4 HP unless otherwise noted. The "House Spirit" (Oleg) has 4 HP.
+- The **Polotnikovs** have 4 HP unless otherwise noted. The "House Spirit" (**Oleg**) has 4 HP.
 
 ## Location Notes
 
