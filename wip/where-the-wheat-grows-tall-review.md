@@ -23,3 +23,4 @@ search_exclude: true
 - PDF has linked location indicators (though not on the map)
 - Would be nice to have the map link to chapters from numbers.
 - lots of skipping around.
+- I found some bits confusing, especially regarding the path towards the bridge not connecting with anything on the map, but then being described differently near the wall. There wasn't any details on how you actually _arrive_ at the bridge for example: do you head through the wheat itself? But I read that if you do that you don't get where you're supposed to go?
