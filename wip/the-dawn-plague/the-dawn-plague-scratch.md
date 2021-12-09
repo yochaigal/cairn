@@ -76,4 +76,12 @@ Opening text:
 - Should be at least a minyan in there.
 - [Yibbum](https://en.wikipedia.org/wiki/Yibbum) - jump bodies on death
 - Forbidden to eat blood (vs Leeches!)
+- Mezuzot equiv on doors
+- Averting evil eye symbols
+- Machsefa
+- Ner Tamid somewhere in the Sefirot?
+- Better name for the Sefirot dungeon
+- [Arba Kanfot](https://www.jewishencyclopedia.com/articles/1718-arba-kanfot)
+- Us +nik a bunch
+- [Gabbai](https://en.wikipedia.org/wiki/Gabbai); Beadle/Beddle
 -
