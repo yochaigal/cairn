@@ -1,7 +1,8 @@
 title: Cairn
 permalink: pretty
 remote_theme: pmarsceill/just-the-docs
-url: https://toxicdonkeybutts.github.io/cairn-da
+baseurl: /cairn-da
+url: https://toxicdonkeybutts.github.io
 logo: "/img/logo.png"
 color_scheme: light
 plugins:
