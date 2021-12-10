@@ -11,7 +11,7 @@ search_exclude: true
 
 ## Summary
 - See the overland [map](/wip/the-dawn-plague/maps/the-dawn-plague-map.jpg).
-- **Lublin** is a small village seated between a thick forest and a restless sea.
+- **Taychvald** is a small village seated between a thick forest and a restless sea.
 - Devastated by something called "The Dawn Plague" decades before, the town has never fully recovered.
 - The villagers keep to the old ways, carefully following ritual burial rites.  
 - An outside lumber company has planted its stake in the local forest, and pays the town handsomely.
@@ -20,13 +20,13 @@ search_exclude: true
 - **Rav Leib** and his congregation have resorted to an ancient practice meant to protect the town from both outsiders and potential threats. Their efforts may have summoned a far worse threat to the town, with dire consequences.
 
 ## The Dawn Plague
-- Thirty-three years ago, a hunting party from **Lublin** found themselves lost in the **Blue Forest**, eventually taking their rest in a place haunted by bodiless Dybbuks. By morning, all were possessed.
-- The newly-bodied Dybbuks then found their way to the village of **Lublin**, retreating back to the forest after wreaking havoc on the frightened populace.
+- Thirty-three years ago, a hunting party from **Taychvald** found themselves lost in the **Blue Forest**, eventually taking their rest in a place haunted by bodiless Dybbuks. By morning, all were possessed.
+- The newly-bodied Dybbuks then found their way to the village of **Taychvald**, retreating back to the forest after wreaking havoc on the frightened populace.
 - The locals were ill-equipped to handle the situation. A small group of all able-bodied adults attempted to stop the Dybbuks on their own turf. All but one (**Zina**, a seamstress) did not return.
 - An **Estrie** (see **Zina** below) nesting nearby observed the Dybbuks from on high, seeing that they could only possess a body while the spirit slept. She also saw that their _hated_ fire. She let one of the children know what she'd learned, then moved her nest to the **Blue Forest**. She feels great guilt for not helping the townsfolk further.
 - The remaining residents (mostly children and the elderly) were able to chase their possessed  neighbors & parents with torches and flaming brands, forcing them into a nearby barn. They then set it ablaze, killing the bodies but freeing the spirits trapped within. This place is now referred to as **Orphan’s Mound**.
 - Today the locals still stand vigilant for a full night after any burial, to ensure that none are possessed by a Dybbuk. They endlessly repeat the phrase, “A candle for one is a candle for a hundred.”
-- An oath of secrecy was soon invoked, whereby a lie would be told from that day forward: a disease killed the older citizens of **Lublin**. Breaking this taboo would result in expulsion from the community. One of the children grew up to become **Rav Leib**, and made great efforts to forestall such a harm happening ever again.
+- An oath of secrecy was soon invoked, whereby a lie would be told from that day forward: a disease killed the older citizens of **Taychvald**. Breaking this taboo would result in expulsion from the community. One of the children grew up to become **Rav Leib**, and made great efforts to forestall such a harm happening ever again.
 
 ## Hooks
 - PCs are hired by a wealthy outsider, sent to quiet the unrest.
@@ -69,15 +69,15 @@ search_exclude: true
 - A **Dybbuk** haunts the farm, but will not touch the sisters. They are its former children.
 
 ### 2. Shorehead Ruins
-- A large, mostly worn-away temple that predates the arrival of the **Lublin** colonists.
+- A large, mostly worn-away temple that predates the arrival of the **Taychvald** colonists.
 - Some theorize they represent ancient sea-faring peoples from across the **Silver Sea**.
 
 ### 3. The Tentyard
 - Three structures lined in rows along the beach. They look like the ribs of a massive sea creature.
 - A tarp is draped across one of the ribs. In the shade below, **Aroys-Geben** makes his home.
-- He lives off fish and whatever trade he can find. He is also a spy for both the **Meyster** and **Gehilts**.
+- He lives off fish and whatever trade he can find. He is also a spy for both the **Meyster** and **Gehilts Lumber Company**.
 
-### 4. Lublin
+### 4. Taychvald
 - A dozen rustic-looking wooden buildings form a perfect square in the center.
 - A massive old-growth forest dominates the lands to the East, split by a small mountain.
 - On the North side dozens of farms spill out along a long, dusty road. The road bends Northwest.
@@ -94,8 +94,8 @@ search_exclude: true
 - The oldest building in town, standing in stark contrast to the newer construction. Above the entry are three hares chasing each other, creating an [optical illusion](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Paderborner_Dom_Dreihasenfenster.jpg/1024px-Paderborner_Dom_Dreihasenfenster.jpg) where "Three hares share three ears, yet each has only two."
 - The ground before the doorway is sprinkled with white flour. If a demon crosses the threshold, its footsteps appear as if a chicken made them.
 - The temple within is musty and in dire need of repair. Dual rows of broken wooded seats line a cracked central causeway, which ends at a small stone platform taking up much of the opposite half.
-- In the Southwest corner is an attached study where **Rav Shlomo** studies and sleeps. A small trapdoor (hidden by a trick carpet) leads down and into a small tunnel connecting the study to the kitchen in the **Hekdesh**.
-- A mechanism in the study controls the stone platform, causing it to recede into the wall. A staircase leads down into **The Tomb**.
+- In the Southwest corner is an attached study where **Rav Lieb** studies and sleeps. A small trapdoor (hidden by a trick carpet) leads down and into a small tunnel connecting the study to the kitchen in the **Giving Hospital**.
+- A mechanism in the study controls the stone platform, causing it to recede into the wall. A staircase leads down into **The Sefirot**.
 
 #### Giving Hospital
 - A former makeshift hospital of sorts. There are only two rooms.
@@ -110,7 +110,7 @@ search_exclude: true
 
 ### 5. Orphan's Mound
 - A mass-burial site for those that died of the **Dawn Plague**.
-- Tended by the **Gravedigger**, **Lublin’s** dead are brought here and burned.
+- Tended by the **Gravedigger**, **Taychvald’s** dead are brought here and burned.
 - There is a **Root Witch** here, drawn by earth-tremblings from the Rab's research.
 - **Gravedigger’s Hovel**: a paltry shack just next to the mound. **Kivyer** often works from here.
 
