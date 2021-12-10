@@ -68,7 +68,7 @@ _— The Book of Formation, 1:7-1:8_
 
 ### 3a. Water Vein  
 - A muddy corridor that dips gradually into the **Lower Level**, exiting into the **Burial Chamber**.
-- MORE
+- The weak ceiling looks ready to collapse in some spots. A **Root Witch** could dig a tunnel here from elsewhere.
 
 ## Lower Level
 ### 4. The Judiciary (**Discipline**)
