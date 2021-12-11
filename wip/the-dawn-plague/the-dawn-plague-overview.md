@@ -118,7 +118,7 @@ When the PCs arrive, a group of 10 locals (identifiable by their darker clothing
 - A mass-burial site for those that died of the **Dawn Plague**.
 - Tended by the **Kivyer**, the dead of **Drei Beymer** are brought here to be buried in the small cemetery nearby.
 - A paltry shack sits astride the mound. **Kivyer** often works from here. Within is a small furnace and bookshelf with prayer books.
-- There is a **Root Witch** here, drawn by the earth-tremblings from the **Rav Lieb's** efforts. She can be negotiated with to dig a tunnel to the **Sefirot** (into the watervane).   
+- There is a **Root Witch** here, drawn by the earth-tremblings from the **Rav Lieb's** efforts. She can be negotiated with to dig a tunnel to the **Sefirot** (into the water vein).   
 
 ### 6. The Blue Forest
 - A thick, moss-covered forest of spruce, fir and maple trees. The forest is quite cold.
