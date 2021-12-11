@@ -18,7 +18,7 @@ Players act as hardened adventurers exploring a dark & mysterious Wood filled wi
 - [Overview](#overview)
 - [Principles for Wardens](#principles-for-wardens)
 - [Spillerprincipper](#spillerprincipper)
-- [Character Creation](#character-creation)
+- [Karakterskabelse](#karakterskabelse)
 - [Udstyr](#udstyrsliste-prisen-er-i-guldmønter)
 - [Rules](#rules)
 - [Bestiary](#bestiary)
@@ -109,7 +109,7 @@ Players trust one another to engage with the shared setting, character goals, an
 
 ## Spillerprincipper
 ### Handlekraft
-- Egenskaber og dets relaterede terningkast definere ikke din karakter. De er blot et værktøj.
+- Egenskaber og deres relaterede terningkast definere ikke din karakter. De er blot et værktøj.
 - Spørg ikke alene hvad din karakter ville gøre, men også hvad du selv ville gøre.
 - Vær kreativ når det gælder problemløsning. Brug din karakters grej og forbindelser. 
 
@@ -142,38 +142,42 @@ Players trust one another to engage with the shared setting, character goals, an
 [back to index](#index)
 <p></p>
 
-## Character Creation
+## Karakterskabelse
 
-#### Name, Background & Traits
-First, choose or roll your PC’s **name** and ** background** from their respective [tables](#name--background-d20). A PC’s background informs their potential knowledge and skills.
+#### Navn, Baggrund & Træk
 
-Next, roll for the rest of your character's **traits** (appearance, speech, mannerisms, beliefs, reputation, etc.) on the [**Character Traits**](#character-traits-d10) tables.
+Vælg eller rul først din karakters **navn** og **baggrund** fra de tilsvarende [tabeller](#navn--baggrund-t20). En karakters baggrund er med til at definere deres viden og evner.
 
-Finally, roll for their **age** (2d20+10).
+Rul dernæst resten af dine karakters **træk** (udseende, talemåde, adfærd, overbevisninger, omdømme, osv.) på [**Karaktertræk**](#karaktertræk-t10) tabellerne.
 
-#### Ability Scores  
-Player Characters (PCs) have just three attributes:  
-**Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**. When creating a PC, the player should roll 3d6 for each of their character's ability scores, in order. They may then swap any two of the results.
+Rul til sidst deres **alder** (2t20+10).
+
+#### Egenskaber
+
+Spillerkarakterer (SKs) har kun tre egenskaber:
+**Styrke (STY)**, **Behændighed (BEH)**, og **Vilje (VIL)**. I den rækkefølge, ruller spilleren selv 3t6 for hver egenskab. Dernæst må spilleren bytte rundt på to af rullene.
 
 <details markdown="block">
   <summary>
-Expand For Example
- </summary>
- Ines rolls for her character's **STR**, resulting in a **2**, a **4**, and a **6**, totaling **12**. The next two ability rolls result in a **9** for **DEX** and a **13** for **WIL**. She decides to swap the **12** and the **9**, for a character with **9 STR**, **12 DEX** and **13** **WIL**.
+    Se eksempel
+  </summary>
 
+  Ines ruller hendes karakters **STY**, hvilket giver en **2**, en **4** og en **6**, tilsammen **12**. De næste to egenskaber rulles der tilsammen **9** i **BEH** og **13** i **VIL**. Hun vælger at bytte om på **12** og **9** hvilket giver hende en karakter med egenskaberne **9 STY**, **12 BEH** og **13 VIL**.
 </details>
 
-### Hit Protection  
-Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**). If an attack takes a PC's HP exactly to 0, the player must roll on the [**Scars**](/cairn-srd#scars-1) table.
+### Værn
 
-#### Inventory
-Characters have a total of 10 inventory slots: a backpack with six slots, one slot for each hand, and two slots for their upper body (such as the belt, chest, or head). The backpack can also double as an emergency sleeping bag but only if emptied of its contents.
+For at finde ud af din SK's **Værn**, som afspejler hvor gode de er til at undvige skade i kamp, skal du rulle 1t6. **Værn** er ikke en indikation af din SK's helbred eller udholdenhed og de er det ikke foruden længe (læs **Helbredning**). Hvis en SK's **Værn** rammer præcis 0 på grund af et angreb, skal spilleren rulle på [Ar](/cairn-srd#ar-1) tabellen.
 
-Most items take up one slot, and small items can be bundled together. Slots are abstract and can be rearranged per the Warden's discretion.
+#### Ejendele
 
-**Bulky** items take up two slots and are typically two-handed or awkward to carry. Anyone carrying a full inventory (e.g. filling all 10 slots) is reduced to 0 HP.
+Karakterer har 10 lagerpladser: en rygsæk med seks pladser, en plads for hver hånd, og to pladser for deres overkrop (såsom i bæltet, brystet eller hovedet). Rygsækken kan også fungere som sovepose i nødstilfælde, dog kun hvis den bliver tømt for sit indhold.
 
-A PC cannot carry more items than their inventory allows. Carts (which must be pulled with both hands), horses, or mules can increase inventory.  **Hirelings** can also be paid to carry equipment.
+De fleste genstande fylder én lagerplads, og små genstande kan pakkes sammen. Lagerpladser er abstrakte og kan omarrangeres af Vogteren.
+
+**Klodsede** genstande optager to lagerpladser og kræver typisk to hænder eller er akavede at fragte rundt. Hvis alle lagerpladser er optagede (f.eks. alle 10 lagerpladser er fyldte) bliver karakterens **Værn** reduceret til 0.
+
+En SK kan ikke bære mere end de har lagerplads til. Vogne (der skal trækkes med begge hænder), heste, eller muldyr kan forøge tilgængelig lagerplads. **Lejesvende** kan også hyres til at bære på ejendele og udstyr.
 
 #### Starting Gear
 All PCs begin with:
