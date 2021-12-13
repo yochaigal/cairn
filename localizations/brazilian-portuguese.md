@@ -15,6 +15,8 @@ Leia o [repositório](https://github.com/yochaigal/cairn) ou baixe o jogo em out
 **Cairn** é um jogo de aventura para um facilitador (o **Diretor**) e pelo menos um outro jogador.
 Os jogadores agem como aventureiros experientes explorando uma floresta escura e misteriosa cheia de gente estranha, tesouros escondidos e monstruosidades indescritíveis.
 
+Traduzido por [Xenio](https://xenioinabottle.blogspot.com).
+
 ## Índice
 - [Visão Geral](#visão-geral)
 - [Princípios para Diretores](#princípios-para-diretores)
