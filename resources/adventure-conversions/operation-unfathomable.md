@@ -6,7 +6,7 @@ nav_order: 15
 title: Operation Unfathomable
 ---
 
-### Operation Unfathomable
+# Operation Unfathomable
 
 - Converted from the [original work](https://www.drivethrurpg.com/product/233145/Operation-Unfathomable) by [Jason Sholtis](http://roll1d12.blogspot.com/) and published by [Hydra Cooperative](http://www.hydraco-op.com/).
 - Conversion by [Daniel Backus](https://danielbackus.itch.io).
@@ -29,14 +29,14 @@ title: Operation Unfathomable
 - Can cast *hoodwink person, mind reader, magic missive, hovering protection, song of repose, doppelganger, reveal location, steer's strength, magic seal, envision, arcane confinement, lightning strike, issha's carapace of corpulence*
 
 ### Blind Antler Man
-10 HP, 3 armor, WIL 18, death ray pistol (d12), self-heating sword (d10), exploding bolos (d6, blast)
+10 HP, 3 Armor, WIL 18, death ray pistol (d12), self-heating sword (d10), exploding bolos (d6, blast)
 
 ### Captain Kyrn
-10 HP, 2 armor, STR 12, DEX 12, WIL 12, bug zapper (d6), sword (d8)
+10 HP, 2 Armor, STR 12, DEX 12, WIL 12, bug zapper (d6), sword (d8)
 
 ### Carrier Worm
-20 HP, 2 armor, STR 18, smash (2d8)
-Critical damage: You are swallowed whole.
+20 HP, 2 Armor, STR 18, smash (2d8)
+- Critical damage: You are swallowed whole.
 - Tunnels through earth and rock at full speed
 - Psionic emissions disrupt spellcastiong
 
@@ -55,108 +55,108 @@ Critical damage: You are swallowed whole.
 4 HP, DEX 6, dagger (d6)
 
 ### Colossal Sorcerer
-12 HP, 1 armor, fist (d8), giant spear (d10), grenade (2d6, blast)
+12 HP, 1 Armor, fist (d8), giant spear (d10), grenade (2d6, blast)
 - Spellbook of *song of repose*
 - Magic carpet, worn as hat
 
 ### Culunor, Ranking Templar
-8 HP, 3 armor, 8 STR, 14 WIL, anti-chaos sword (d8, d12 vs creatures of chaos)
+8 HP, 3 Armor, 8 STR, 14 WIL, anti-chaos sword (d8, d12 vs creatures of chaos)
 
 ### Cyclops
 13 HP, 18 STR, 8 DEX, 6 WIL, club (d10)
 
 ### Decapitante
-4 HP, 1 armor, 3 WIL, glaive (d8)
+4 HP, 1 Armor, 3 WIL, glaive (d8)
 
 ### Dim
-6 HP, 1 armor, 16 STR, 6 WIL, fist (d6), scimitar (d8)
+6 HP, 1 Armor, 16 STR, 6 WIL, fist (d6), scimitar (d8)
 
 ### Doomed Templar
-4 HP, 3 armor, 8 WIL, sword (d8)
+4 HP, 3 Armor, 8 WIL, sword (d8)
 
 ### Dr. Ephraim Thontorius
-5 HP, 1 armor, STR 13, gamma gun (d10), bear hands (d6)
+5 HP, 1 Armor, STR 13, gamma gun (d10), bear hands (d6)
 
 ### Dwarf, Bat-Winged
-4 HP, 1 armor, 13 STR, 8 WIL, axe (d8), bow (d6)
+4 HP, 1 Armor, 13 STR, 8 WIL, axe (d8), bow (d6)
 
 ### Dwarf, Blue
 4 HP, WIL 12, hammer or wrench (d6)
 
 ### Dwarf, Blue -- The Joyless Foreman
-4 HP, 1 armor, huge bludgeon (d10)
+4 HP, 1 Armor, huge bludgeon (d10)
 
 ### Dwarf, Gray
-4 HP, 1 armor, war hammer (d8)
+4 HP, 1 Armor, war hammer (d8)
 
 ### Dwarf, Gray -- Comrade Ghrengan
-6 HP, 2 armor, magic greatsword (d10)
+6 HP, 2 Armor, magic greatsword (d10)
 
 ### The Egg Carrier
-10 HP, 2 armor, 16 STR, tentacle (d10)
+10 HP, 2 Armor, 16 STR, tentacle (d10)
 ### takes enhanced damage from fire
 
 ### Eye of Shaggath-Ka
-0 HP, 1 armor, 3 STR
+0 HP, 1 Armor, 3 STR
 - Ocular flash (blast, STR save or be blinded for 1 round)
 
 ### Firebomb Beetle
-2 HP, 2 armor, STR 8, DEX 8, WILL 8, firebomb (d6, blast)
+2 HP, 2 Armor, STR 8, DEX 8, WILL 8, firebomb (d6, blast)
 - Critical damage: You & your possessions catch fire.
 
 ### Flaming Hounds
-2 HP, 1 armor, flaming bite (d6+d6)
+2 HP, 1 Armor, flaming bite (d6+d6)
 - Critical damage: You & your possessions catch fire.
 
 ### Fuloso, Grey Humanoid Fighter
-10 HP, 3 armor, STR 13, DEX 13, spear (d8)
+10 HP, 3 Armor, STR 13, DEX 13, spear (d8)
 
 ### Gatemaster Shamblebeard
-10 HP, 3 armor, 13 STR, 13 WIL, axe (d8)
+10 HP, 3 Armor, 13 STR, 13 WIL, axe (d8)
 
 ### Mr. Ghacula
-HP 8, 2 armor, scimitar (d8)
+HP 8, 2 Armor, scimitar (d8)
 
 ### Giant Cave Swallow
 4 HP, STR 8, DEX 12, WIL 6, beak (d6)
 - Critical damage: Any rope on your person is stolen.
 
 ### Giant Pill Bug
-3 HP, 1 armor, WIL 6, bite (d4)
+3 HP, 1 Armor, WIL 6, bite (d4)
 - Can roll at high speeds when curled up; can end roll with a d6 slam
 
 ### Giant Snake of Burden
-8 HP, 2 armor, STR 14, bite (d8)  
+8 HP, 2 Armor, STR 14, bite (d8)  
 
 ### Grey Humanoid Elite Warriors
-8 HP, 3 armor, STR 12, sword (d8)  
+8 HP, 3 Armor, STR 12, sword (d8)  
 
 ### Grey Humanoid Warriors
-6 HP, 2 armor, sword (d8)
+6 HP, 2 Armor, sword (d8)
 
 ### Guard Bot
-4 HP, 1 armor, DEX 8, pincers (d6)  
+4 HP, 1 Armor, DEX 8, pincers (d6)  
 - Foam cannon: blast, DEX save or be immobilized
 - Stun beam: WIL save or fall unconscious for 2d4 rounds
 
 ### Guild Warden
-9 HP, 3 armor, STR 14, greatsword (d10)
+9 HP, 3 Armor, STR 14, greatsword (d10)
 
 ### Gung
-5 HP, 2 armor, battle axe (d8)
+5 HP, 2 Armor, battle axe (d8)
 
 ### Guruki, Guild Merchant
-4 HP, 2 armor, STR 12, WIL 12, scimitar (d8), bow (d6)
-- Critical Damage (bow): You are paralyzed for d6 minutes.
+4 HP, 2 Armor, STR 12, WIL 12, scimitar (d8), bow (d6)
+- Critical Damage (bow): Target is paralyzed for d6 minutes.
 
 ### Hrrk, Magman Prince
 18 HP, STR 16, DEX 14, WIL 16, fiery fists (d12+d12)
 - Anyone within 10 ft must pass a STR save or suffer d6 heat damage.
 
 ### Ilgoriath
-11 HP, 1 armor, STR 8, DEX 8, WIL 16, parrying dagger (d6)
+11 HP, 1 Armor, STR 8, DEX 8, WIL 16, parrying dagger (d6)
 - Can cast *hoodwink monster, mind reader, wizardsniff, sorcerer's lock, magic missive, minor aegis, song of repose, murky bubble, read thoughts, rat tat tat, membraneous inconvenience, envision, great ball of fire, elemental wall, psychic eye, hold monster, astral step*
-- Parrying dagger impairs first attack against Ilgoriath each round
+- Parrying dagger impairs first attack against **Ilgoriath** each round
 - Venomous shrunken head can cast death's breath
 - Amulet of aloofness renders user immune to fear and mind control
 
@@ -164,10 +164,10 @@ HP 8, 2 armor, scimitar (d8)
 HP 12, STR 15, DEX 13, WILL 13, sword of calamity (d10), daggers (d6)
 
 ### Kholopho
-4 HP, 2 armor, STR 12, WIL 8, stone polearm (d10), obsidian axe (d8)
+4 HP, 2 Armor, STR 12, WIL 8, stone polearm (d10), obsidian axe (d8)
 
 ### Kilifrix the Devil-Mantis
-10 HP, 3 armor, STR 12, DEX 12, claws (d6+d6)
+10 HP, 3 Armor, STR 12, DEX 12, claws (d6+d6)
 
 ### Krrgh, Magman Prince
 18 HP, STR 16, DEX 16, WIL 14, fiery fists (d12+d12)
@@ -177,10 +177,10 @@ HP 12, STR 15, DEX 13, WILL 13, sword of calamity (d10), daggers (d6)
 8 HP, 14 STR, claws (d6+d6)
 
 ### Micropudding
-1 HP, 2 armor, enzyme spray (d4-1, blast)
+1 HP, 2 Armor, enzyme spray (d4-1, blast)
 
 ### Mind-Bat
-3 HP, 1 armor, claws (d6+d6)
+3 HP, 1 Armor, claws (d6+d6)
 - Mind blast requires target to pass WIL save or be stunned for d4-1 rounds
 
 ### Mother Futility
@@ -191,10 +191,10 @@ HP 12, STR 15, DEX 13, WILL 13, sword of calamity (d10), daggers (d6)
 3 HP, club or dagger (d6)
 
 ### Mutineer, Thang
-6 HP, 1 armor, sword (d8)
+6 HP, 1 Armor, sword (d8)
 
 ### Mutineer, Gung
-5 HP, 1 armor, battle axe (d8)
+5 HP, 1 Armor, battle axe (d8)
 
 ### Newt-Man
 1 HP, shortsword (d6)
@@ -207,10 +207,10 @@ HP 12, STR 15, DEX 13, WILL 13, sword of calamity (d10), daggers (d6)
 10 HP, STR 16, DEX 14, WIL 14, ape-bronze sword (d12)
 
 ### Oothu
-4 HP, 2 armor, spear (d8)
+4 HP, 2 Armor, spear (d8)
 
 ### Professor Zabon Gormontine
-10 HP, 2 armor, death ray (d6, blast), claws (d6)
+10 HP, 2 Armor, death ray (d6, blast), claws (d6)
 - Human disguise falls away if he takes STR damage
 
 ### Psychephage
@@ -220,25 +220,25 @@ HP 12, STR 15, DEX 13, WILL 13, sword of calamity (d10), daggers (d6)
 Critical damage: Your brain has been devoured.
 
 ### Rent-a-cops from the Future
-7 HP, 3 armor, hand agonizer (STR save or paralyzed with pain for d6 rounds)
+7 HP, 3 Armor, hand agonizer (STR save or paralyzed with pain for d6 rounds)
 - Stun ray (DEX save or be rendered unconscious)
 
 ### Science Fungoid
-3 HP, 1 armor, sword (d6), death-ray revolver (d12)
+3 HP, 1 Armor, sword (d6), death-ray revolver (d12)
 
 ### Science Fungoid Living Dirigible
-12 HP. 2 armor, STR 16, extensible jaw (d12)
+12 HP. 2 Armor, STR 16, extensible jaw (d12)
 
 ### Segmented Giant
-20 HP, 3 armor, 18 STR, whiplash punch (2d8)
+20 HP, 3 Armor, 18 STR, whiplash punch (2d8)
 - Spellcasters must make a WIL save or magic against the giant fails
 
 ### Shaggankh, Son of Shaggath-Ka
-22 HP, 3 armor, 18 STR, 14 DEX, 14 WIL, tentacles (d10+d10)
+22 HP, 3 Armor, 18 STR, 14 DEX, 14 WIL, tentacles (d10+d10)
 - corrosive breath (2d8, blast, DEX save for half damage)
 
 ### Shaggath-Ka, the Worm Sultan
-36 HP, 3 armor, 12 STR (down from 18), 14 DEX, 18 WIL, smash (2d8, blast)
+36 HP, 3 Armor, 12 STR (down from 18), 14 DEX, 18 WIL, smash (2d8, blast)
 - Lethal gaze (WIL save or die)
 - Can cast *wizardsniff, hoodwink person, murky bubble, read thoughts, fog of nausea, vines of ichor, lightning strike*
 
@@ -246,71 +246,71 @@ Critical damage: Your brain has been devoured.
 4 HP, 8 STR, 6 DEX, 12 WIL, curved dagger (d6)
 
 ### Solaro, White Humanoid Fighter
-8 HP, 3 armor, STR 12, WIL 8, scimitar (d8)
+8 HP, 3 Armor, STR 12, WIL 8, scimitar (d8)
 
 ### Solgum the Resplendent
-6 HP, 3 armor, 13 WIL
+6 HP, 3 Armor, 13 WIL
 - Can cast *wizardsniff, hovering protection, song of repose, read thoughts, doppelganger, fleetfooted, lightning strike*
 
 ### Subaqueous Transport Pupae
-20 HP, 2 armor, STR 18, smash (d12)
+20 HP, 2 Armor, STR 18, smash (d12)
 Critical damage: You are swallowed whole.
 - Tunnels through earth and rock at full speed
 - Psionic emissions disrupt spellcasting
 
 ### Thang
-6 HP, 1 armor, sword (d8)
+6 HP, 1 Armor, sword (d8)
 
 ### Thrantrix the Ineffable
-32 HP, 3 armor, 18 STR, 18 DEX, 18 WIL, countless biting snakes ((2d6)d6)
+32 HP, 3 Armor, 18 STR, 18 DEX, 18 WIL, countless biting snakes ((2d6)d6)
 - Can cast *hoodwink person, wizardsniff, read thoughts, great ball of fire, trueshift, geas*
 - Immune to poison and mind control
 
 ### Dr. Ukrumus Flaughf
-4 HP, 1 armor, shortsword (d6), death ray revolver (d12)
+4 HP, 1 Armor, shortsword (d6), death ray revolver (d12)
 
 ### Underworld Ranger
-8 HP, 2 armor, 12 STR, 12 DEX, 12 WIL, sword (d8), bugzapper (d6)
+8 HP, 2 Armor, 12 STR, 12 DEX, 12 WIL, sword (d8), bugzapper (d6)
 
 ### Urethria, Priestess of Nul
-10 HP, 2 armor, WIL 14, stiletto (d6)
+10 HP, 2 Armor, WIL 14, stiletto (d6)
 Critical damage: You are lobotomized.
 - Can cast *murky bubble, lightning strike, magic missive, perfect illusion, reveal location*
 - Eye of Nul mind-control helmet can cast *hoodwink person, invisibility, mind reader, psychic touch*
 
 ### Uurx the Impervious
-28 HP, 3 armor, 18 STR, 14 DEX, 14 WIL, accidental misstep (d12)
+28 HP, 3 Armor, 18 STR, 14 DEX, 14 WIL, accidental misstep (d12)
 
 ### White Humanoid
-4 HP, 1 armor, spear (d8)
+4 HP, 1 Armor, spear (d8)
 
 ### Worm Father Ymoro
 12 HP, 18 WIL, dagger (d6)
 Can cast *mind reader, sorcerer's lock, philolomancy, psychic touch, scry object, magic missive, membraneous inconvenience, hell's mandibles, worm's breath*
 
 ### Worm Soldier
-5 HP, 2 armor, 15 WIL, spear (d8) or shortbow (d6)
+5 HP, 2 Armor, 15 WIL, spear (d8) or shortbow (d6)
 
 ### Worm Surgeon
 4 HP, scalpel protuberance (d6)
 
 ### Yeen-Su
-10 HP, 3 armor, 14 STR, vorpal cleaver (d10)
+10 HP, 3 Armor, 14 STR, vorpal cleaver (d10)
 Critical Damage: You are decapitated.
 
 ### Yithbara, Inquisitor of Nul
-10 HP, 3 armor, 14 STR, 12 WIL, scimitar (d8)
+10 HP, 3 Armor, 14 STR, 12 WIL, scimitar (d8)
 ### Helm of Inquiry can cast *psychic touch and envision*
 
 ### Yoothranda. Grey Humanoid Fighter
-12 HP, 3 armor, 14 STR, 12 DEX, sword (d8)
+12 HP, 3 Armor, 14 STR, 12 DEX, sword (d8)
 
 ### Yulith
 6 HP, 14 WIL, dagger (d6)
 ### Can cast *hoodwink person, membraneous inconvenience*
 
 ### Yulzirin
-12 HP, 1 armor, 14 WIL, dagger (d6)
+12 HP, 1 Armor, 14 WIL, dagger (d6)
 ### Can cast *arcane arrow, hovering protection, doppelganger, psychic touch, lightning strike, terrify*
 
 ## Magic Items
@@ -440,7 +440,7 @@ Caster breathes out a cone of noxious gas that lasts an hour. Most living things
 
 ## Pregenerated Characters
 ### Aurana of House Apis
-1 HP, 2 armor, STR 12, DEX 14, WIL 9
+1 HP, 2 Armor, STR 12, DEX 14, WIL 9
 -  demonskin leather (2 armor)
 -  longsword (d8)
 -  heavy crossbow (d8, bulky)
@@ -449,16 +449,16 @@ Caster breathes out a cone of noxious gas that lasts an hour. Most living things
 -  bear-shaped honey jar
 
 ### Sergeant Gamnon
-4 HP, 3 armor, STR 12, DEX 8, WIL 10
+4 HP, 3 Armor, STR 12, DEX 8, WIL 10
 -  longsword (d8)
 -  lamp's hue
  bow (d6, bulky)
--  platemail (3 armor, bulky)
+-  platemail (3 Armor, bulky)
 -  iron spikes (12)
 -  mallet
 
 ### Ghanulor of Ixmer
-2 HP, 3 armor, STR 12, DEX 10, WIL 11
+2 HP, 3 Armor, STR 12, DEX 10, WIL 11
 -  greatsword (d10, bulky)
 -  plate (3 armor)
 -  3 packets powdered sea serpent mousse
@@ -466,7 +466,7 @@ Caster breathes out a cone of noxious gas that lasts an hour. Most living things
 -  2 flasks of oil
 
 ### Gooth of House Ygar
-3 HP, 2 armor, STR 10, DEX 12, WIL 11
+3 HP, 2 Armor, STR 10, DEX 12, WIL 11
 -  polearm (d10, bulky)
 -  short sword (d6)
 -  hovering protection
@@ -485,14 +485,14 @@ Caster breathes out a cone of noxious gas that lasts an hour. Most living things
 
 
 ### Krodok of the Standing Stones
-6 HP, 1 armor, STR 16, DEX 10, WIL 12
+6 HP, 1 Armor, STR 16, DEX 10, WIL 12
 -  innate shaggy hide (1 armor)
 -  stonetipped spear (d8)
 -  flint handaxe (d6)
 -  water bladder
 
 ### Brother Kragar, Templar of the Golden Lintel
-5 HP, 3 armor, STR 12, DEX 9, WIL 9
+5 HP, 3 Armor, STR 12, DEX 9, WIL 9
 -  sword of chaos slaying (d8, d12 vs chaos)
 -  sling (d6)
 -  flint & steel
