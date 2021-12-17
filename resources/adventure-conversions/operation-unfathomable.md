@@ -296,7 +296,7 @@ Can cast *mind reader, sorcerer's lock, philolomancy, psychic touch, scry object
 
 ### Yeen-Su
 10 HP, 3 Armor, 14 STR, vorpal cleaver (d10)
-Critical Damage: You are decapitated.
+- Critical Damage: You are decapitated.
 
 ### Yithbara, Inquisitor of Nul
 10 HP, 3 Armor, 14 STR, 12 WIL, scimitar (d8)
@@ -311,7 +311,7 @@ Critical Damage: You are decapitated.
 
 ### Yulzirin
 12 HP, 1 Armor, 14 WIL, dagger (d6)
-### Can cast *arcane arrow, hovering protection, doppelganger, psychic touch, lightning strike, terrify*
+- Can cast *arcane arrow, hovering protection, doppelganger, psychic touch, lightning strike, terrify*
 
 ## Magic Items
 
@@ -409,7 +409,7 @@ Self-destructs on command, counting down from 30 in a soothing female voice. Exp
 Most mortals who meet the user's gaze must make a WIL save or die.
 
 ### Wand of Arcane Arrows
-d6+d6. 5 charges.
+d6+d6 damage. 5 charges.
 
 ### Whistle of Dim Control
 Bearer can gain the loyalty of masterless dim.
@@ -418,7 +418,7 @@ Bearer can gain the loyalty of masterless dim.
 This "bug zapper" fires balls of electricity that deal d6 damage. Firing more than twice without allowing the gun to cool down is likely to lead to it being destroyed in a blast of electricity (d6, burst).
 
 ### Zacaranth Industries ZR-2 Lightning Gun
-This siege weapon is drawn on a cart and requires two humanoids to move. When cranked with both hands, this waepon can produce lightning as per *lightning strike once every three rounds (once every two rounds if two people crank).
+This siege weapon is drawn on a cart and requires two humanoids to move. When cranked with both hands, this waepon can produce lightning as per *lightning strike* once every three rounds (once every two rounds if two people crank).
 Firing more than once without allowing the cannon to cool down is likely to lead to it being destroyed in a blast of electricity (d12, burst).
 
 ## Spells
