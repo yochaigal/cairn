@@ -11,8 +11,6 @@ title: Operation Unfathomable
 - Converted from the [original work](https://www.drivethrurpg.com/product/233145/Operation-Unfathomable) by [Jason Sholtis](http://roll1d12.blogspot.com/) and published by [Hydra Cooperative](http://www.hydraco-op.com/).
 - Conversion by [Daniel Backus](https://danielbackus.itch.io).
 
-# Operation Unfathomable
-
 ## NPCs
 
 **Ape Mummy, Two-Headed**
