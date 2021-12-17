@@ -8,7 +8,8 @@ title: Temple of the Moon Priests
 
 # Temple of the Moon Priests
 
- Based on the original adventure by [Will Doyle and Stacey Allan](https://www.drivethrurpg.com/product/310492/Temple-of-the-Moon-Priests). Conversion by [xenio](https://xenioinabottle.blogspot.com).
+ - Converted from the original adventure by [Will Doyle and Stacey Allan](https://www.drivethrurpg.com/product/310492/Temple-of-the-Moon-Priests).
+- Conversion by [xenio](https://xenioinabottle.blogspot.com).
 
 ### Moon Hag
 

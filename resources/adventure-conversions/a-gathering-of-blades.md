@@ -8,7 +8,7 @@ title: A Gathering of Blades
 
 # A Gathering of Blades
 
-Converted from the original [work by Ben Milton](https://www.patreon.com/questingbeast).
+- Converted from the original [work by Ben Milton](https://www.patreon.com/questingbeast).
 
 ### Commander Hammet
 12 HP, Armor 2, 12 STR, 11 DEX, 13 WIL, longsword (d8), throwing knife (d6)

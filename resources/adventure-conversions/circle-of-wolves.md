@@ -8,7 +8,7 @@ grand_parent: Resources
 
 # Circle of Wolves
 
-Original system-neutral [adventure](http://blog.trilemma.com/2014/07/the-circle-of-wolves.html) by Michael Prescott. Updated version [available](https://www.drivethrurpg.com/product/286792/Trilemma-Adventures-Compendium-Volume-I).   
+- Original system-neutral [adventure](http://blog.trilemma.com/2014/07/the-circle-of-wolves.html) by Michael Prescott. Updated version [available](https://www.drivethrurpg.com/product/286792/Trilemma-Adventures-Compendium-Volume-I).   
 
 ### Wyrtung the Mad
 3 HP, 15 WIL, fists (d4)

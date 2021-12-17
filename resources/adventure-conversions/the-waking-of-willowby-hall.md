@@ -8,7 +8,7 @@ title: The Waking of Willowby Hall
 
 # The Waking of Willowby Hall
 
-Converted from the original [work by Ben Milton](https://shop.swordfishislands.com/the-waking-of-willowby-hall).
+- Converted from the original [work by Ben Milton](https://shop.swordfishislands.com/the-waking-of-willowby-hall).
 
 ## Encounters
 

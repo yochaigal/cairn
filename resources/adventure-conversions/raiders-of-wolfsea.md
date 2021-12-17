@@ -8,7 +8,7 @@ title: Raiders of Wolfsea
 
 # Raiders of Wolfsea
 
-Converted from the original [work by Ben Milton](https://www.patreon.com/questingbeast) by [Gio Il Mago](https://scrtgm.blogspot.com/2021/07/raiders-of-wolfsea-maritime-adventure.html).
+- Converted from the original [work by Ben Milton](https://www.patreon.com/questingbeast) by [Gio Il Mago](https://scrtgm.blogspot.com/2021/07/raiders-of-wolfsea-maritime-adventure.html).
 
 ### Structures and Vehicles:
 - Structures and Vehicles reduced to 0 HP are wrecked, and all within suffer d6 damage.

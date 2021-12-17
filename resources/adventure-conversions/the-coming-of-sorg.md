@@ -8,8 +8,9 @@ grand_parent: Resources
 
 # The Coming of Sorg
 
-Original system-neutral [adventure](http://blog.trilemma.com/2014/06/the-coming-of-sorg.html) by Michael Prescott. Michael Prescott. Updated version [available](https://www.drivethrurpg.com/product/286792/Trilemma-Adventures-Compendium-Volume-I). Original conversion by [Jason Tocci](https://jasontocci.itch.io/agents-of-the-odd/devlog/180126/adapting-scenarios-for-agents-of-the-odd).  
-Adapted with permission.
+- Original system-neutral [adventure](http://blog.trilemma.com/2014/06/the-coming-of-sorg.html) by Michael Prescott. Michael Prescott. Updated version [available](https://www.drivethrurpg.com/product/286792/Trilemma-Adventures-Compendium-Volume-I).
+- Original conversion by [Jason Tocci](https://jasontocci.itch.io/agents-of-the-odd/devlog/180126/adapting-scenarios-for-agents-of-the-odd).  
+- Adapted with permission.
 
 ## Encounters
 
