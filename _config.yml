@@ -7,8 +7,8 @@ color_scheme: light
 plugins:
   - jekyll-redirect-from
 include:
-    -js
-    
+  - js
+
 # Back to top link
 back_to_top: true
 back_to_top_text: "Back to top"
