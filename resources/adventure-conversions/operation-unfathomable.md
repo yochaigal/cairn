@@ -115,7 +115,7 @@ title: Operation Unfathomable
 10 HP, 3 Armor, 13 STR, 13 WIL, axe (d8)
 
 ### Mr. Ghacula
-HP 8, 2 Armor, scimitar (d8)
+8 HP, 2 Armor, scimitar (d8)
 
 ### Giant Cave Swallow
 4 HP, STR 8, DEX 12, WIL 6, beak (d6)
@@ -238,7 +238,7 @@ Critical damage: Your brain has been devoured.
 - corrosive breath (2d8, blast, DEX save for half damage)
 
 ### Shaggath-Ka, the Worm Sultan
-36 HP, 3 Armor, 12 STR (down from 18), 14 DEX, 18 WIL, smash (2d8, blast)
+36 HP, 3 Armor, 12 STR (down from 18), 14 DEX, 18 WIL, smash (2d8, blast), _detachment_
 - Lethal gaze (WIL save or die)
 - Can cast *wizardsniff, hoodwink person, murky bubble, read thoughts, fog of nausea, vines of ichor, lightning strike*
 
@@ -254,7 +254,7 @@ Critical damage: Your brain has been devoured.
 
 ### Subaqueous Transport Pupae
 20 HP, 2 Armor, STR 18, smash (d12)
-Critical damage: You are swallowed whole.
+- Critical damage: You are swallowed whole.
 - Tunnels through earth and rock at full speed
 - Psionic emissions disrupt spellcasting
 
