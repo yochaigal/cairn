@@ -1,10 +1,10 @@
-### -
+---
 layout: default
 parent: Adventure Conversions
 grand_parent: Resources
 nav_order: 15
 title: Operation Unfathomable
-### -
+---
 
 ### Operation Unfathomable
 
@@ -98,7 +98,7 @@ Critical damage: You are swallowed whole.
 
 ### Eye of Shaggath-Ka
 0 HP, 1 armor, 3 STR
-### ocular flash (blast, STR save or be blinded for 1 round)
+- Ocular flash (blast, STR save or be blinded for 1 round)
 
 ### Firebomb Beetle
 2 HP, 2 armor, STR 8, DEX 8, WILL 8, firebomb (d6, blast)
