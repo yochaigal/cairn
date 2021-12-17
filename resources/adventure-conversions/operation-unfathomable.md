@@ -97,7 +97,7 @@ title: Operation Unfathomable
 - Takes enhanced damage from fire
 
 ### Eye of Shaggath-Ka
-0 HP, 1 Armor, 3 STR
+10 HP, 1 Armor, 3 STR
 - Ocular flash (blast, STR save or be blinded for 1 round)
 
 ### Firebomb Beetle
