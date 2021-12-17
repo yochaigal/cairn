@@ -94,7 +94,7 @@ title: Operation Unfathomable
 
 ### The Egg Carrier
 10 HP, 2 Armor, 16 STR, tentacle (d10)
-### takes enhanced damage from fire
+- Takes enhanced damage from fire
 
 ### Eye of Shaggath-Ka
 0 HP, 1 Armor, 3 STR
