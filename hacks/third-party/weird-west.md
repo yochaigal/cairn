@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Weird West
-nav_order: 5
-parent: More Content
+nav_order: 4
+parent: Third Party
+grand_parent: Hacks
 ---
 
 # Fantasy Starting Loadouts
