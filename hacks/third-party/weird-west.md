@@ -6,7 +6,7 @@ parent: Third Party
 grand_parent: Hacks
 ---
 
-# Fantasy Starting Loadouts
+# Weird West
 _Originally by [Jim Parkin](https://d66kobolds.blogspot.com/2021/12/weird-west-or-some-hoot-hollerin.html), reproduced with permission._
 
 # Archetypes
