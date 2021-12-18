@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fantasy Loadouts
-nav_order: 1
+nav_order: 3
 parent: More Content
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Post Apocalyptic Loadouts
-nav_order: 2
+nav_order: 4
 parent: More Content
 ---
 

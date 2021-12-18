@@ -2,7 +2,7 @@
 layout: default
 title: Backgrounds
 parent: More Content
-nav_order: 3
+nav_order: 1
 nav_exclude: true
 search_exclude: true
 has_children: true
