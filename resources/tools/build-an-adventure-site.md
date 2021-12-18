@@ -7,7 +7,6 @@ parent: Tools
 ---
 
 # Build An Adventure Site
----
 
 ## Choose A Theme
 - Pick a theme for the area. A specific mythology you find inspiring, something from history, etc.

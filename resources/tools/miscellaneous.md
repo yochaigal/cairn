@@ -7,7 +7,6 @@ grand_parent: Resources
 ---
 
 # Miscellaneous
----
 
 - [Character Sheet (token)](https://docs.google.com/drawings/d/1_X9o8rzE5jFPQpP1yCz1sPikdm8naQ1gPkT-ATK2T0c) - Download as PDF or PNG
 - [Online Character Keeper](https://docs.google.com/spreadsheets/d/1Ueq-v5XZ-mC1qFd81T0892RzRsr8WdgAG89M4ZXe5qM) (Google Sheets)
