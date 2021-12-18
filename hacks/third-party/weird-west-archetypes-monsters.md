@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Weird West
+title: Weird West Archetypes & Monsters
 nav_order: 4
 parent: Third Party
 grand_parent: Hacks
 ---
 
-# Weird West
-_Originally by [Jim Parkin](https://d66kobolds.blogspot.com/2021/12/weird-west-or-some-hoot-hollerin.html), reproduced with permission._
+# Weird West Archetypes & Monsters
+- _Originally by [Jim Parkin](https://d66kobolds.blogspot.com/2021/12/weird-west-or-some-hoot-hollerin.html), reproduced with permission._
 
 # Archetypes
 
