@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Backgrounds
-parent: More Content
+parent: WIP
 nav_order: 1
 nav_exclude: true
 search_exclude: true

@@ -4,7 +4,7 @@ layout: default
 nav_exclude: true
 search_exclude: true
 parent: Backgrounds
-grand_parent: More Content
+grand_parent: WIP
 ---
 
 [![Alt text](/img/backgrounds/cleric.jpg "East of the Sun and West of the Moon, illustrated by Kay Nielsen"){:height="60%" width="60%"}](/img/backgrounds/cleric.jpg)
