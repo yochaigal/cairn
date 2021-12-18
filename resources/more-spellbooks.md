@@ -1,8 +1,8 @@
 ---
 layout: default
 title: More Spellbooks
-nav_order: 2
-parent: More Content
+nav_order: 7
+parent: Resources
 ---
 
 # More Spellbooks

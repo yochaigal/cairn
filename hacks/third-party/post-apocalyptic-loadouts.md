@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Post Apocalyptic Loadouts
-nav_order: 4
-parent: More Content
+nav_order: 6
+parent: Third Party
+grand_parent: Hacks
 ---
 
 # Post Apocalyptic Loadouts

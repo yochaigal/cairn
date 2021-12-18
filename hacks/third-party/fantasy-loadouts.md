@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Fantasy Loadouts
-nav_order: 3
-parent: More Content
+nav_order: 5
+parent: Third Party
+grand_parent: Hacks
 ---
 
 # Fantasy Starting Loadouts
