@@ -2,6 +2,9 @@
 title: Beggar
 layout: default
 nav_exclude: true
+search_exclude: true
+parent: Unused Backgrounds
+grand_parent: WIP
 ---
 
 

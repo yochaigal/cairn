@@ -2,6 +2,9 @@
 title: Mariner
 layout: default
 nav_exclude: true
+search_exclude: true
+parent: Unused Backgrounds
+grand_parent: WIP
 ---
 
 ![](https://aboleth-overlords.com/wp-content/uploads/2020/10/mariner.jpg)

@@ -2,6 +2,9 @@
 title: Charlatan
 layout: default
 nav_exclude: true
+search_exclude: true
+parent: Unused Backgrounds
+grand_parent: WIP
 ---
 
 ![](https://i2.wp.com/aboleth-overlords.com/wp-content/uploads/2020/06/charlatan.jpg?fit=660%2C548&ssl=1)
