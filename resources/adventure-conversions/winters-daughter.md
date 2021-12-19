@@ -2,7 +2,6 @@
 layout: default
 parent: Adventure Conversions
 grand_parent: Resources
-nav_order: 10
 title: Winter's Daughter
 ---
 

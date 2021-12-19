@@ -2,9 +2,6 @@
 layout: default
 parent: Adventure Conversions
 grand_parent: Resources
-nav_order: 16
-nav_exclude: true
-search_exclude: true
 title: The Isles of the Dead
 ---
 

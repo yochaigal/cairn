@@ -2,9 +2,6 @@
 layout: default
 parent: Adventure Conversions
 grand_parent: Resources
-nav_order: 15
-nav_exclude: true
-search_exclude: true
 title: Lair of the Lamb
 ---
 

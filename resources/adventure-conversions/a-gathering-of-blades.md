@@ -2,7 +2,7 @@
 layout: default
 parent: Adventure Conversions
 grand_parent: Resources
-nav_order: 2
+
 title: A Gathering of Blades
 ---
 

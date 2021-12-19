@@ -1,14 +1,13 @@
 ---
 layout: default
 title: The Burial Mound of Gilliard Wolfclan
-nav_order: 15
 parent: Adventure Conversions
 grand_parent: Resources
 ---
 
 # The Burial Mound of Gilliard Wolfclan
 
-- Based on the [original adventure](http://bernietheflumph.blogspot.com/2013/04/the-burial-mound-of-gilliard-wolfclan.html) by [Bernie The Flumph](http://bernietheflumph.blogspot.com/). 
+- Based on the [original adventure](http://bernietheflumph.blogspot.com/2013/04/the-burial-mound-of-gilliard-wolfclan.html) by [Bernie The Flumph](http://bernietheflumph.blogspot.com/).
 - Conversion by [xenio](https://xenioinabottle.blogspot.com)
 
 
