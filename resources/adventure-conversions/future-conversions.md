@@ -47,7 +47,6 @@ The following is a list of planned conversions. If you'd like to help out, pick 
 - [The Misty Isle of the Eld](https://www.drivethrurpg.com/product/183439/Misty-Isles-of-the-Eld)
 - [The Necropolis of Nuroman](https://www.drivethrurpg.com/product/110292/BLUEHOLMETM-The-Necropolis-of-Nuromen)
 - [The Secret of Bone Hill](https://www.drivethrurpg.com/product/17059/L1-The-Secret-of-Bone-Hill-1e)
-- [The Sky-Blind Spire](http://blog.trilemma.com/2016/04/the-sky-blind-spire.html)
 - [The Stygian Library](https://www.drivethrurpg.com/product/257113/The-Stygian-Library)
 - [The Slumbering Ursine Dunes](https://www.drivethrurpg.com/product/140450/Slumbering-Ursine-Dunes)
 - [The Temple of the Blood Moth](https://www.drivethrurpg.com/product/282346/The-Temple-of-the-Blood-Moth)
