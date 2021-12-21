@@ -15,6 +15,7 @@ The following is a list of planned conversions. If you'd like to help out, pick 
 * [A Thousand Thousand Islands](https://athousandthousandislands.itch.io/)
 * [Barrowmaze](https://www.drivethrurpg.com/product/139762/Barrowmaze-Complete)
 * [Belly of the Fishy Beast](https://dreamingdragonslayer.itch.io/belly-of-the-fishy-beast-a-maze-rats-adventure)
+* [Behind Closed Doors](https://www.drivethrurpg.com/product/315491/Best-Left-Buried-Behind-Closed-Doors)
 * [Blizzard Pass](https://www.drivethrurpg.com/product/282952/M1-Blizzard-Pass-Basic)
 * [Bone Marshes](https://www.drivethrurpg.com/product/275159/Bone-Marshes)
 * [Bonepicker's Tower](https://www.drivethrurpg.com/product/322457/Bonepickers-Tower)
@@ -62,6 +63,8 @@ The following is a list of planned conversions. If you'd like to help out, pick 
 * [The Temple of the Blood Moth](https://www.drivethrurpg.com/product/282346/The-Temple-of-the-Blood-Moth)
 * [The Temple of the Moon Priests](https://www.drivethrurpg.com/product/310492/Temple-of-the-Moon-Priests)
 * [The Temple of 1000 Swords](https://www.drivethrurpg.com/product/360211/Temple-of-1000-Swords)
+* [Times that Fry Men's Souls](https://www.drivethrurpg.com/product/242849/Times-That-Fry-Mens-Souls)
+* [Darkling Seas of Islesmere](https://www.drivethrurpg.com/product/310464/Best-Left-Buried-Darkling-Seas-of-Islesmere)
 * [The Tomb of Annihilation](https://dnd.wizards.com/products/tabletop-games/rpg-products/tomb-annihilation)
 * [The Tomb of Black Sands](https://shop.swordfishislands.com/the-tomb-of-black-sand/)
 * [The Tower of the Stargazer](https://www.drivethrurpg.com/product/82999/Tower-of-the-Stargazer)
@@ -78,3 +81,5 @@ The following is a list of planned conversions. If you'd like to help out, pick 
 * [Wormskin](https://www.drivethrurpg.com/product/231189/Everything-Dolmenwood-PDF-BUNDLE) (Dolmenwood)
 * [Xanadu](https://www.drivethrurpg.com/product/332813/Xanadu)
 * [Yoon-Suin](https://www.drivethrurpg.com/product/144820/YoonSuin)
+* [You Got a Job on the Garbage Barge](https://amandalee.itch.io/you-got-a-job-on-the-garbage-barge)
+*
