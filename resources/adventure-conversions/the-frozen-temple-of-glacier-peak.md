@@ -76,6 +76,6 @@ Abilities were kept as-is (highest) but you are free to reroll abilities and HP.
 
 ## Bestiary
 ### Frost Smilodon
-7 HP, 12 STR, 14 DEX, 4 WIL, claw (d6+d6), bite (d8)
-- Icy Roar: on Critical Damage, future attacks are impaired and DEX saves automatically fail
+7 HP, 12 STR, 14 DEX, 4 WIL, claw (d6+d6), bite (d8), _icy roar_ (_blast_)
+- **Icy Roar**: targets are covered in a layer of ice. Future attacks are impaired and DEX saves automatically fail.
 - Fire damage is _enhanced_ against them.
