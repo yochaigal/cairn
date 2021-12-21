@@ -26,7 +26,7 @@ title: The Frozen Temple of Glacier Peak
 
 ### Jorun (Cultist)
 STR 11/+1 DEX 14/+4 CON 11/+1 INT 12/+2 WIS 12/+2 CHA 11/+1 HP 1d8
-Mace, 2 rations, rope 50ft, mirror, caltrops, incense
+5 HP, 11 STR, 14 DEX, 12 WIL, mace (d8)
 - Mace (d8)
 - 2 rations
 - Rope (50ft)
@@ -35,7 +35,7 @@ Mace, 2 rations, rope 50ft, mirror, caltrops, incense
 - Incense
 
 ### Borghild (Smuggler)
-STR 12/+2 DEX 11/+1 CON 14/+4 INT 12/+2 WIS 11/+1 CHA 11/+1 HP 1d8
+2 Armor, 6 HP, 14 STR, 11 DEX, 12 WIL, sword (d8)
 - Sword (d8)
 - Gambeson (+1 Armor)
 - Helmet (+1 Armor)
@@ -46,7 +46,7 @@ STR 12/+2 DEX 11/+1 CON 14/+4 INT 12/+2 WIS 11/+1 CHA 11/+1 HP 1d8
 - Whistle
 
 ### Thorulf (Scholar)
-STR 11/+1 DEX 12/+2 CON 11/+1 INT 14/+4 WIS 11/+1 CHA 12/+2 HP 1d8
+3 HP, 11 STR, 12 DEX, 14 WIL, staff (d6)
 - Staff (d6)
 - 2 rations
 - 5 candles
@@ -55,7 +55,7 @@ STR 11/+1 DEX 12/+2 CON 11/+1 INT 14/+4 WIS 11/+1 CHA 12/+2 HP 1d8
 - Blank book
 
 ### Brand (Tracker)
-STR 12/+2 DEX 11/+1 CON 12/+2 INT 11/+1 WIS 14/+4 CHA 11/+1 HP 1d8
+1 Armor, 8 HP, 12 STR, 11 DEX, 11 WIL, crossbow (d8)
 - Crossbow (d8, bulky)
 - Gambeson (+1 Armor)
 - 2 rations
@@ -65,7 +65,7 @@ STR 12/+2 DEX 11/+1 CON 12/+2 INT 11/+1 WIS 14/+4 CHA 11/+1 HP 1d8
 - Face paint
 
 ### Halvar (Performer)
-STR 11/+1 DEX 12/+2 CON 11/+1 INT 11/+1 WIS 12/+2 CHA 14/+4 HP 1d8
+4 HP, 11 STR, 12 DEX, 14 WIL, dagger (d6)
 - Dagger (d6)
 - 2 rations
 - Grappling hook
