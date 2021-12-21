@@ -8,7 +8,6 @@ nav_order: 2
 
 # Foundry VTT System
 
-
 Cairn has a robust system for [Foundry VTT](https://foundryvtt.com/), the popular virtual tabletop program. You can install Cairn directly from within Foundry, or you can do so manually via the [Github Repo](https://github.com/yochaigal/Cairn-FoundryVTT).
 
 There are a number of compendium packs (and one macro) that must be imported into the "world"; make sure that all players have the "Observer" permissions so that they can generate a character themselves. You'll also need to change the "Player" Role permissions to allow them to create Actors.

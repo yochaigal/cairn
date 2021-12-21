@@ -2,7 +2,6 @@
 layout: default
 parent: Adventure Conversions
 grand_parent: Resources
-
 title: A Gathering of Blades
 ---
 
