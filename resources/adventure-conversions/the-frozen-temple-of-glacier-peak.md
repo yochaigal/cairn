@@ -15,7 +15,7 @@ title: The Frozen Temple of Glacier Peak
 ## Pre-Generated Characters
 Abilities were kept as-is (highest) but you are free to reroll abilities and HP.
 
-### Disa (Mercenary)
+### Disa (Background: Mercenary)
 2 Armor, 8 HP, 14 STR, 11 DEX, 12 WIL, halberd (d10)
 - 2 rations
 - 5 torches
@@ -26,7 +26,7 @@ Abilities were kept as-is (highest) but you are free to reroll abilities and HP.
 - Shield (+1 Armor)
 - Halberd (d10, bulky)
 
-### Jorun (Cultist)
+### Jorun (Background: Cultist)
 5 HP, 11 STR, 14 DEX, 12 WIL, mace (d8)
 - 2 rations
 - Mirror
@@ -36,7 +36,7 @@ Abilities were kept as-is (highest) but you are free to reroll abilities and HP.
 - Mace (d8)
 
 
-### Borghild (Smuggler)
+### Borghild (Background: Smuggler)
 2 Armor, 6 HP, 14 STR, 11 DEX, 12 WIL, sword (d8)
 - 2 rations
 - Lantern
@@ -47,7 +47,7 @@ Abilities were kept as-is (highest) but you are free to reroll abilities and HP.
 - Helmet (+1 Armor)
 - Sword (d8)
 
-### Thorulf (Scholar)
+### Thorulf (Background: Scholar)
 3 HP, 11 STR, 12 DEX, 14 WIL, staff (d6)
 - 2 rations
 - 5 candles
@@ -56,7 +56,7 @@ Abilities were kept as-is (highest) but you are free to reroll abilities and HP.
 - Blank book
 - Staff (d6)
 
-### Brand (Tracker)
+### Brand (Background: Tracker)
 1 Armor, 8 HP, 12 STR, 11 DEX, 11 WIL, crossbow (d8)
 - 2 rations
 - Waterskin
@@ -66,7 +66,7 @@ Abilities were kept as-is (highest) but you are free to reroll abilities and HP.
 - Gambeson (+1 Armor)
 - Crossbow (d8, bulky)
 
-### Halvar (Performer)
+### Halvar (Background: Performer)
 4 HP, 11 STR, 12 DEX, 14 WIL, dagger (d6)
 - 2 rations
 - Grappling hook
