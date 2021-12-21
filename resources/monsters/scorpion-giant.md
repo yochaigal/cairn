@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Scorpion, Giant
 4 HP, 2 Armor, 12 STR, 12 DEX, 8 WIL, claws (d6+d6) or sting (d8)
 -   Huge arachnids, the size of a horse, with pincers and poisonous

@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Spider, Giant Aquatic
 4 HP, 12 DEX, bite (d6)
 -   4’ long spiders that dwell in large bodies of freshwater. Build

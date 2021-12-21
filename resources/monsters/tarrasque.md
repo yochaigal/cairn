@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Tarrasque
 20 HP, 3 Armor, 20 STR, 8 DEX, 8 WIL, claws (d12+d12)
 -   Legendary, gargantuan (50’ long) reptilian monstrosities with plated

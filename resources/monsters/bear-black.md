@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Bear, Black
 5 HP, 14 STR, claws (d6)  
 - 6’ tall bears who eat mostly berries and roots.  

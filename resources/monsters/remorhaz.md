@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Remorhaz
 11 HP, 1 Armor, 14 STR, 12 DEX, 8 WIL, bite (d8+d8)
 - Wormy-like creatures with multiple legs and eyes, long bodies, and strong, crushing maws. Dwell in frozen lands, sustained by their burning internal heat.

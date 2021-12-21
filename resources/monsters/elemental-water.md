@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Elemental, Water
 12 HP, 2 Armor, 15 STR, blow (d8)  
 - Huge waves of flowing water.  

@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Green Slime
 3 HP, 16 STR, 8 DEX, 6 WIL, acidic touch (d8+d8)
 - Large blobs of green slime that stick to walls and ceiling. Attack by dropping on top of their victims.

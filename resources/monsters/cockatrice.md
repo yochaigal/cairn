@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources 
 --- 
+
 # Cockatrice
 5 HP, 8 STR, 12 DEX, beak (d6)  
 - Small, hybrid creatures resembling chickens with reptilian features.  

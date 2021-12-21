@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Salamander, Flame
 8 HP, 12 DEX, 14 WIL, bite (d8)
 -   12' long lizard-like creatures with scales of bright orange, yellow

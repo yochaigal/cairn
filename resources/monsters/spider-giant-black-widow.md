@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Spider, Giant Black Widow
 3 HP, 14 DEX, bite (d6)
 -   6’ long, black spiders with a red hourglass pattern on their

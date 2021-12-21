@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Purple Worm
 15 HP, 1 Armor, 18 STR, 7 WIL, bite (d8+d8) or poison sting (d8)
 - Gargantuan worms with bodies more than 100' long and 10' thick. Burrow in tunnels underground and surface to eat other creatures. Found in deserts and other drylands.

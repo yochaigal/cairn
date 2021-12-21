@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Treant
 
 8 HP, 1 Armor, 15 STR, 8 DEX, fists (d6+d6)

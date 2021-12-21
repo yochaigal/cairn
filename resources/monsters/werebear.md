@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Werebear
 6 HP, 14 STR, 8 DEX, claws (d6+d6) or bite (d8)
 - Highly intelligent, even in bear form. Frequently dwell among normal bears.

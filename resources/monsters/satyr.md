@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Satyr
 5 HP, 12 DEX, 16 WIL, horns (d6) or pipes (save)
 -   Magical humanoids with the legs and horns of a goat. Love to dance

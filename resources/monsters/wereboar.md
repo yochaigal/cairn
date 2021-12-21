@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Wereboar
 4 HP, 13 STR, 12 DEX, 8 WIL, tusks (d6+d6)
 - Highly aggressive, even in human form. Fight until death.

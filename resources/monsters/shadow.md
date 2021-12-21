@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Shadow
 3 HP, 8 STR, 14 WIL, touch (d6) 
 -   Incorporeal monsters that look like living shadows.

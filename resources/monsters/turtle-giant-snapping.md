@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Turtle, Giant Snapping 
 10 HP, 14 STR, 8 DEX, bite (d8)
 -   10’ long, aggressive predatory turtles that lurk in the shallows of

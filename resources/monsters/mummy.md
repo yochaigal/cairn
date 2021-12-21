@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Mummy
 5 HP, 12 STR, 8 DEX, 8 WIL, touch (d10)
 - Undead humanoids wrapped in funerary bandages. Found in ruins of temples and tombs.

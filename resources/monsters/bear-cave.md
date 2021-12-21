@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Bear, Cave
 8 HP, 17 STR, claws (d10)  
 - Ferocious 15’ tall carnivorous bears who live in caves.  

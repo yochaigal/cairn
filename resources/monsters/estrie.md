@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Estrie
 10 HP, 11 STR, 15 DEX, 14 WIL, draining hair (1d8)
 - Appears as a woman with long dark hair that extends all the way to her feet.

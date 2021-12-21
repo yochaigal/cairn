@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources 
 --- 
+
 # Crocodile, Giant
 15 HP, 1 Armor, 17 STR, 8 DEX, bite (d10+d10)  
 - 50’ long, extremely rare reptiles found on unexplored fluvial regions.  

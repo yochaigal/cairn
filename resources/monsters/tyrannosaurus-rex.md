@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Tyrannosaurus Rex
 20 HP, 1 Armor, 18 STR, 12 DEX, bite (d10+d10)
 -   Massive, over 20’ tall, two-legged, predatory dinosaurs with huge

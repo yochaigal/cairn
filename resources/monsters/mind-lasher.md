@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Mind Lasher
 8 HP, Armor 1, 8 STR, 12 DEX, 18 WIL, tentacle (d4), or mind blast (save)
 - Humanoid creatures with purple skin and an octopus-like head. Dwell deep underground, plotting to slave humanity. Feed on the brains of other humanoids.

@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Lizard, Giant Horned Chameleon
 5 HP, 14 STR, 12 WIL, horn (d6) or tongue and bite (d6+d6)
 - 7' long lizards that camouflage by changing the color of their scales.

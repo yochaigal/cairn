@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Dragon, Bronze
 13 HP, 2 Armor, 16 STR, 14 DEX, 14 WIL, bite (d8+d8)  
 - Coastal dwelling, good dragons who eat mostly fish and aquatic plants.  

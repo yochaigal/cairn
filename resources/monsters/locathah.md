@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Locathah
 4 HP, 12 STR, 12 WIL, spear (d6)
 - Nomadic humanoid fish with pale scales and large eyes. Found in warm waters, lair in underwater caves.

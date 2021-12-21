@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Gnoll
 4 HP, 1 Armor, 12 STR, 8 WIL, spear or short bow (d6)  
 - Monstrous humanoid hyenas of low intelligence.   Legend says they were created in a wizard’s experiments.  

@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Lizard, Giant Subterranean
 6 HP, 15 STR, 12 WIL, bite (d6+d6)
 - 20' long, aggressive lizards that dwell only underground.

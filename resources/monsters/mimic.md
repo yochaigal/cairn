@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Mimic
 9 HP, Armor 2, 13 STR, 12 WIL, bite (d6)
 - Monstrous shape-shifters that take on the form of inanimate objects made of wood and stone. Found only underground.

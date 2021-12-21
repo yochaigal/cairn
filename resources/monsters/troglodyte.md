@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Troglodyte
 4 HP, 12 DEX, claws (d6+d6)
 -   Intelligent, reptilian humanoids with agile hands, long legs, short

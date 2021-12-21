@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources 
 --- 
+
 # Crab, Giant
 3 HP, 3 Armor, 11 STR, 4 DEX, pincers (d8)  
 - Huge crustaceans that live in coastal areas and mindlessly attack anything that comes near.  

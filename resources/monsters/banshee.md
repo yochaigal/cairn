@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Banshee
 7 HP, 3 Armor, 6 STR, 12 DEX,  14 WIL, ghostly touch (d8)  
 - Incorporeal feminine spirits that lingered after death and haunt the living.  

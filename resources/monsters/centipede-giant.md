@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources 
 --- 
+
 # Centipede, Giant
 1 HP, 6 STR, 6 WIL, bite (d4)  
 - 1’ long centipedes that live in damp, underground places.  

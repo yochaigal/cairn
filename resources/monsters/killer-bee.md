@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Killer Bee
 4 HP, 6 STR, 12 DEX, 8 WIL, sting (d4)
 - Giant bees that build hives underground. Hyper aggressive, attack anything that comes near.

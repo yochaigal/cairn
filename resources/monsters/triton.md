@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Triton
 4 HP, 1 Armor, 12 STR, 12 DEX, 12 WIL, trident (d6)
 -   Aquatic humanoids with silvery skin, blue-green hair, and scaled

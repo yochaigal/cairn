@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Medusa
 4 HP, 12 DEX, 16 WIL, snake bites (d6) or gaze (save)
 - Deadly magical creatures that look like women with snakes in place of hair.

@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Giant, Storm
 15 HP, 2 Armor, 20 STR, 14 DEX, 18 WIL, greatsword (d10+d10)  
 - 22’ tall humanoids with bronze-hued skin and light-colored hair. Live in mountain peaks and deep waters.  

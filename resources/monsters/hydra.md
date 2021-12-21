@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Hydra
 9 HP, 1 Armor, 14 STR, 12 DEX, bite (d10, blast)
 - Draconian creatures with nine serpentine heads. Can attack a number of targets equal to the number of heads. 

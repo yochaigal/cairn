@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Snake, Pit Viper
 3 HP, 12 DEX, bite (d4)
 -   5' long snakes with greyish scales, found in caves and other dark

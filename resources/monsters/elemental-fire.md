@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Elemental, Fire
 16 HP, 12 DEX, 14 WIL, blow (d8)  
 - Living columns of pure flame that burn everything in their path.  

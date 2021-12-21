@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Shambling Mound
 9 HP, 15 STR, 8 DEX, 8 WIL, fists (d8+d8)
 -   Plant monsters with the rough shape of a 9' tall humanoid made of

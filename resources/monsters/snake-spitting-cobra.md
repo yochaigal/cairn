@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Snake, Spitting Cobra
 3 HP, 14 DEX, bite (d6) or acid spit (d4)
 -   3' long snake with grey and white scales. Prefer to attack from

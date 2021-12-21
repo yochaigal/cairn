@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Merman
 4 HP, 12 STR, 12 WIL, trident (d6)
 - Aquatic humanoids with fishtails instead of legs. Live in coastal waters, farming seaweed, and hunting fish.

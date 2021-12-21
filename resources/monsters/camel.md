@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Camel
 3 HP, 15 STR, bite (d6)  
 - Beasts of burden native to dry lands.  

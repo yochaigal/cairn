@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Vampire
 9 HP, 1 Armor, 12 STR, 12 DEX, 16 WIL, bite (d10)
 -   Charming, undead creatures that drink the blood of mortals. Act at

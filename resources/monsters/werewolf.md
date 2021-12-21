@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Werewolf
 4 HP, 12 STR, 14 DEX, 12 WIL, claws (d4+d4) or bite (d6)
 - Semi-intelligent, ferocious hunters.

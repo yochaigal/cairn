@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Warp Beast
 6 HP, 14 DEX, 12 WILL, tentacles (d6+d6)
 -   Large, black, six-legged monsters. Look similar to panthers with a

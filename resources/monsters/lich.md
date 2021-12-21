@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Lich
 11 HP, 1 Armor, 8 STR, 8 DEX, 18 WIL, dagger (d6)
 - Powerful wizards who refused death by turning themselves in soulless undead.

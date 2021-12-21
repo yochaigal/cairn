@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Basilisk
 6 HP, 12 STR, 13 DEX, bite (d10)  
 - Long, magical, serpentine lizards that dwell in caverns.  

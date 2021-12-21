@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources 
 --- 
+
 # Diver Ant
 3 HP, 12 DEX, bite (d6)  
 - Giant, omnivorous black ants that build their colonies deep underground.  

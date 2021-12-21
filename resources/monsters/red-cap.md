@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Red Cap
 4 HP, 10 STR, 12 DEX, 8 WIL, two sickles (d6+d6)
 - Borne from blood left to rot in the fae. Hats colored by blood; they even bathe in blood.

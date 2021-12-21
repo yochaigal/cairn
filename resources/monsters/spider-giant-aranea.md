@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Spider, Giant Aranea
 3 HP, 12 DEX, 14 WIL, bite (d6), two random spellbooks
 -   6’ long, intelligent spiders of greenish-black coloration. Have an

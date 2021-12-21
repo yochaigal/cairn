@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Hag, Sea
 3 HP, 12 STR, 14 WIL, knife (d6) or gaze (save)
 - Ghostly looking, green-skinned hags that dwell in seaweed forests and warm shallow waters. Crave eating human flesh.

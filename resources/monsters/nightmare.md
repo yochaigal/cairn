@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Nightmare
 6 HP, 2 Armor, 14 STR, 14 DEX, 12 WIL, flaming hooves (d6+d6) or bite (d8)
 - Intelligent demonic horses with burning-red eyes, smoldering nostrils, and flaming hooves.

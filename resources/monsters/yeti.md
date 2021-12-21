@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Yeti
 4 HP, 14 STR, 12 WIL, claws (d6+d6) or paralyzing gaze (save)
 -   Large (8’ tall), shaggy ape-like monsters with vicious claws and

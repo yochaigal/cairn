@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Lizard Man
 4 HP, 1 Armor, 14 STR, 12 DEX, 12 WIL, bone spear (d8)
 - Primitive, tribal, aquatic humanoids with reptilian heads and tails. Dwell in jungles nearby bodies of water.

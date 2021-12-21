@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Weasel, Giant
 4 HP, 12 DEX, 12 WIL, bite (d6)
 -   9’ long, vicious, predatory mammals with rich fur of brown, gold, or

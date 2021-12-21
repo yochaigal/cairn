@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Mastodon
 15 HP, 18 STR, 6 DEX, tusks (d10)
 - Huge elephants with longer tusks. Found in icy regions.

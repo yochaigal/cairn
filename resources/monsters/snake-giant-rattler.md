@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Snake, Giant Rattler
 4 HP, 14 DEX, bite (d6)
 -   10' long snakes with brown and white scales and a rattle of hardened

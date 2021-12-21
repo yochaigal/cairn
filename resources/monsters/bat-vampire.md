@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Bat, Vampire
 3 HP, 8 STR, bite (d8)  
 - Big, flying mammals with nocturnal habits that nest in caves.  

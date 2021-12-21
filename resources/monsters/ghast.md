@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Ghast
 4 HP, 12 STR, WIL 6, claws (d6+d6)  
 - Grotesque, humanoid undead that craves eating flesh. Found in packs of Ghouls.  

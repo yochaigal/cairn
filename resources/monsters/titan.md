@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Titan
 20 HP, 2 Armor, 18 STR, 12 DEX, 14 WIL, sword (d10+d10)
 -   20’ tall humanoids of radiant beauty and athletic build. Beneficent

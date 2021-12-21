@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Troll
 6 HP, 1 Armor, 14 STR, 12 DEX, talons (d6+d6) or bite (d8)
 - Wicked, 8’ tall humanoids with rubbery bodies. Consume the flesh of other humanoids. Dwell underground, in the barren  wilderness, and in the ruined homes of former victims.

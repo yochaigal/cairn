@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Berserker
 4 HP, 1 Armor, 14 STR, battleaxe (d10, bulky)  
 - Tribal fighters who fight recklessly, never taking prisoners.  

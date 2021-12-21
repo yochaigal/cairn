@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Dwarf
 4 HP, 2 Armor, 14 STR, hammer (d8)  
 - Short and bulky, bearded humanoids who dwell in mountains and underground.  

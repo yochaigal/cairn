@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Efrreti
 10 HP, 15 STR, 14 WIL, flaming sword (d10, bulky)  
 - Highly intelligent beings from the elemental plane of fire.  Manifests as huge men with terrifying faces and an aura of heat and smoke.  

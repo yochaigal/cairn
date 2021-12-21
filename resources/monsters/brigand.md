@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Brigand
 4 HP, 1 Armor, shortsword (d6) or short bow (d6)  
 - Outlaws and mercenaries who raid settlements and ambush travelers.  

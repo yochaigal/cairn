@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Snake Person
 6 HP, 1 Armor, 12 DEX, 14 WIL, bite (d6)
 -   Creatures with the body, tail, and head of a giant snake and scaled

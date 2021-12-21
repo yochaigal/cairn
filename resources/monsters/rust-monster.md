@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Rust Monster
 5 HP, 12 DEX, 12 WIL, bite (d6)
 - Armadillo-like creatures with long tails and two long antennae. Feed on rusted metal.

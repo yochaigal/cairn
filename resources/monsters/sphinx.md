@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Sphinx
 12 HP, 12 STR, 15 WIL, claws (d6+d6) or roar (save)
 -   Large monsters with bird wings, the body of a lion, and a human

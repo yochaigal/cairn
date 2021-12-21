@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Duergar
 4 HP, 1 Armor, 14 STR, 8 WIL, Warhammer (d10, bulky)  
 - Scrawny dwarven creatures with grey skin and ugly visages.   Dwell in underworld strongholds and are known for their avarice.  

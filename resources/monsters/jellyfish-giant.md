@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Jellyfish, Giant
 4 HP, 12 STR, tentacles (d10,blast)
 - Huge, transparent sea creatures with a gelatinous body. Dwell in warm waters.

@@ -4,6 +4,7 @@ parent: Monsters
 grand_parent: Resources
 ---
 
+
 # Golem
 16 HP, 2 Armor, 15 STR, 6 DEX, 2 WIL, cobblestone fists (d10)
 * A hulking 9’ tall statue made of clay, mud, and prayer.

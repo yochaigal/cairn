@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Lamia
 9 HP, 14 STR, 14 WIL, touch (d6)
 - Centaur-like monsters with the head and upper body of a woman and the lower body of a beast. Prey on humanoids, drinking their blood and eating their flesh.

@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Spider, Giant Phase
 5 HP, 14 DEX, 12 WIL, bite (d6)
 -   8’ long, black spiders that have the ability to become intangible.

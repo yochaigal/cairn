@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Sahuagin
 3 HP, 12 STR, 12 DEX, trident (d6)
 -   Aquatic humanoids with black-green scales and deep black eyes, known

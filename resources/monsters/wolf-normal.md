@@ -3,6 +3,7 @@ layout: default
 parent: Monsters
 grand_parent: Resources
 ---
+
 # Wolf, Normal
 3 HP, 14 DEX, bite (d6)
 - Dwell primarily in wildlands, but occasionally lair in caves.
