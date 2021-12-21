@@ -29,7 +29,7 @@ The following is a list of planned conversions. If you'd like to help out, pick 
 * [Dwellers of the Forbidden City](https://www.drivethrurpg.com/product/17046/I1-Dwellers-of-the-Forbidden-City-1e)
 * [Fever Dreaming Marlinko](https://www.drivethrurpg.com/product/151165/FeverDreaming-Marlinko)
 * [Fever Swamp](https://www.drivethrurpg.com/product/224803/Fever-Swamp)
-* [Genial Jack](https://www.drivethrurpg.com/product/295976/Lorn-Song-of-the-Bachelor)
+* [Genial Jack](https://www.drivethrurpg.com/product/295462/Genial-Jack--issue-I)
 * [Goblin Gully](https://dysonlogos.blog/2009/08/21/friday-map-goblin-gully-a-deadly-one-page-dungeon/)
 * [Gradient Descent](https://www.mothershiprpg.com/gradient-descent)
 * [Hel's Crow's Final Rest](https://www.drivethrurpg.com/product/377007/Hels-Crows-Final-Rest)
