@@ -35,7 +35,6 @@ Abilities were kept as-is (highest) but you are free to reroll abilities and HP.
 - Rope (50ft)
 - Mace (d8)
 
-
 ### Borghild (Background: Smuggler)
 2 Armor, 6 HP, 14 STR, 11 DEX, 12 WIL, sword (d8)
 - 2 rations
@@ -74,3 +73,9 @@ Abilities were kept as-is (highest) but you are free to reroll abilities and HP.
 - Lockpicks
 - Flute
 - Dagger (d6)
+
+## Bestiary
+### Frost Smilodon
+7 HP, 12 STR, 14 DEX, 4 WIL, claw (d6+d6), bite (d8)
+- Icy Roar: on Critical Damage, future attacks are impaired and DEX saves automatically fail
+- Fire damage is _enhanced_ against them.
