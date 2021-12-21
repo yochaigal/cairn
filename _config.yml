@@ -4,6 +4,7 @@ remote_theme: pmarsceill/just-the-docs
 url: https://cairnrpg.com
 logo: "/img/logo.png"
 color_scheme: light
+encoding: UTF-8
 plugins:
   - jekyll-redirect-from
 include:
