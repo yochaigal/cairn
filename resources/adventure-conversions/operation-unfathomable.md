@@ -6,7 +6,6 @@ title: Operation Unfathomable
 ---
 
 # Operation Unfathomable
-
 - Converted from the [original work](https://www.drivethrurpg.com/product/233145/Operation-Unfathomable) by [Jason Sholtis](http://roll1d12.blogspot.com/) and published by [Hydra Cooperative](http://www.hydraco-op.com/).
 - Conversion by [Daniel Backus](https://danielbackus.itch.io).
 
@@ -481,7 +480,6 @@ Caster breathes out a cone of noxious gas that lasts an hour. Most living things
 -  spellbook of song of repose
 -  spellbook of wizardsniff
 -  scroll of great ball of fire
-
 
 ### Krodok of the Standing Stones
 6 HP, 1 Armor, STR 16, DEX 10, WIL 12
