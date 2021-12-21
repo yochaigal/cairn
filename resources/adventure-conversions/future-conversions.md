@@ -19,7 +19,6 @@ The following is a list of planned conversions. If you'd like to help out, pick 
 * [Blizzard Pass](https://www.drivethrurpg.com/product/282952/M1-Blizzard-Pass-Basic)
 * [Bone Marshes](https://www.drivethrurpg.com/product/275159/Bone-Marshes)
 * [Bonepicker's Tower](https://www.drivethrurpg.com/product/322457/Bonepickers-Tower)
-* [Castle Xyntillan](https://emdt.bigcartel.com/product/castle-xyntillan)
 * [Challenge of the Frog Idol](https://dysonlogos.blog/2011/06/11/labyrinth-lord-challenge-of-the-frog-idol/)
 * [Cult of the Reptile God](https://www.drivethrurpg.com/product/17056/N1-Against-the-Cult-of-the-Reptile-God-1e)
 * [Dark Tower](https://en.wikipedia.org/wiki/Dark_Tower_(module))
