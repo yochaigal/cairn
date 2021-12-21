@@ -42,6 +42,7 @@ The following is a list of planned conversions. If you'd like to help out, pick 
 * [Slumbering Ursine Dunes](https://www.drivethrurpg.com/product/140450/Slumbering-Ursine-Dunes)
 * [Stonehell: Down Night-Haunted Halls](https://www.lulu.com/en/us/shop/michael-curtis/stonehell-dungeon-down-night-haunted-halls-ebook/ebook/product-1nq5eywz.html)
 * [Stonehell: Into The Heart of Hell](https://www.lulu.com/en/us/shop/michael-curtis/stonehell-dungeon-into-the-heart-of-hell/ebook/product-1yj5yj72.html)
+* [Spy in the House of Eth](https://www.drivethrurpg.com/product/310456/Best-Left-Buried-Spy-in-the-House-of-Eth)
 * [The Black Wyrm of Brandonsford](https://www.drivethrurpg.com/product/327744/The-Black-Wyrm-of-Brandonsford)
 * [The Bruja, the Beast & the Barrow](https://www.drivethrurpg.com/product/340873/The-Bruja-The-Beast-and-The-Barrow)
 * [The Caverns of Thracia](https://en.wikipedia.org/wiki/The_Caverns_of_Thracia)
