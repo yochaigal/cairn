@@ -75,11 +75,6 @@ Abilities were kept as-is (highest) but you are free to reroll abilities and HP.
 - Dagger (d6)
 
 ## Bestiary
-### Frost Smilodon
-7 HP, 12 STR, 14 DEX, 4 WIL, claw (d6+d6), bite (d8), _icy roar_ (_blast_)
-- **Icy Roar**: targets are covered in a layer of ice. Future attacks are impaired and DEX saves automatically fail.
-- Fire damage is _enhanced_ against them.
-
 ### Black Adder
 4 HP,10 STR, 11 DEX, WIL 8, bite (1d4)
 - Critical damage: target is poisoned, losing 1 STR every 6 hours until cured.  
@@ -91,3 +86,11 @@ Abilities were kept as-is (highest) but you are free to reroll abilities and HP.
 6 HP, 15 WIL, poisoned dagger (d6), _backstab_
 - Critical damage: target is _deprived_ and takes 1 STR damage every two hours until cured.
 - Backstab: This attack is enhanced against creatures who do not pass the initial DEX save at the start of the round.
+
+### Frost Smilodon
+7 HP, 12 STR, 14 DEX, 4 WIL, claw (d6+d6), bite (d8), _icy roar_ (_blast_)
+- **Icy Roar**: targets are covered in a layer of ice. Future attacks are impaired and DEX saves automatically fail.
+- Fire damage is _enhanced_ against them.
+
+### Giant Dragonfly
+1 Armor, 3 HP, 11 STR, 15 DEX, 4 WIL, bite (d6)
