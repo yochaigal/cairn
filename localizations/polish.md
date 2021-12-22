@@ -13,7 +13,7 @@ Zapoznaj się z dokumentami w [repozytorium](https://github.com/yochaigal/cairn)
 
 Autorem gry jest: [Yochai Gal](https://newschoolrevolution.com/).
 
-Polskie tłumaczenie: Oskar Świda (oskar.swida@gmail.com)
+Polskie tłumaczenie: [Oskar Świda](https://twitter.com/OskarSwida)
 
 **Cairn** to gra przygodowa dla jednego moderatora (**Strażnika**) i co najmniej jednego gracza.
 Gracze wcielają się w rolę zahartowanych poszukiwaczy przygód eksplorujących mroczny i tajemniczy Las pełen dziwnych postaci, ukrytych skarbów i niewypowiedzianych potworności.
