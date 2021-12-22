@@ -112,3 +112,23 @@ Abilities were kept as-is (highest) but you are free to reroll abilities and HP.
 
 ### Lindwurm
 16 HP, 12 STR, 11 DEX, 14 WIL, bite (d12), acid spit (d8, ignores armor, _blast_), claws (1d6)
+
+### Mountain Troll
+8 HP, 17 STR, 6 DEX, 8 WIL, fists (d8+d8), bite (d10)
+- Critical Damage: The victim is shoved into the sack, and cannot leave by itself.
+- Turns to stone if exposed to sunlight.
+
+### Sprite
+6 HP, 6 STR, 16 DEX, 12 WIL, sleeping dust or insanity
+- **Sleeping Dust**: Target must save STR or fall asleep for 10 minutes.
+- **Insanity**: Target must save WIL or lose 1d6 WIL and spend the next 10 minutes babbling incoherently.
+
+### Tomte
+4 HP, 14 STR, 11 DEX, kick (d8), bite (d4+poison)
+- Can go invisible as an action, last until it interacts with something.
+- Critical Damage: The poison is incapacitates the victim until they are cured from it.
+
+### Vaettir
+3 HP, 8 STR, 12 DEX, kick (d4)
+- Can see in the dark perfectly.
+- Critical Damage: The victim is overtaken by disease, losing 1d8 STR and DEX.
