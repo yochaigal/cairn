@@ -27,7 +27,7 @@ Gracze wcielają się w rolę zahartowanych poszukiwaczy przygód eksplorującyc
 - [Wyposażenie](#equipment-list-prices-in-gold-pieces)
 - [Zasady](#rules)
 - [Bestiariusz](#bestiary)
-- [Setka zaklęć](#100-spells)
+- [Setka zaklęć](#setka-zaklęć)
 - [Podsumowanie zasad](#rules-summary)
 
 ## Wstęp
