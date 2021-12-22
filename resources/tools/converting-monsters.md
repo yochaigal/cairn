@@ -19,9 +19,9 @@ Review the instructions in the [SRD](https://cairnrpg.com/cairn-srd/#creating-mo
 - Sometimes a direct stat to stat translation isn't an option. That's OK! There is a [way](/resources/converting-monsters/#use-the-fiction))!
 
 ### Health, Armor & Abilities
-- **Hit Protection** is _not_ health. It's the creature's ability to avoid danger, whether through toughness, speed, or skill. If the PCs will have a tough time landing a blow that actually causes damage, the creature has high **HP**. A good rule of thumb is 1 **HD** = 1 **HP**, starting with a minimum of **3 HP** for the average person. I usually think of **HD** as equivalent to a d6, which has a _mean_ of 3.5.
+- **Hit Protection** is _not_ health. It's the creature's ability to avoid danger, whether through toughness, speed, or skill. If the PCs will have a tough time landing a blow that actually causes damage, the creature has high **HP**. A good rule of thumb is to give the creature +1 HP for every **HD**, on top of a minimum **3 HP** (the average person). I usually think of **HD** as equivalent to a d6, which has a _mean_ of 3.5.
 - **Armor** is generally easy to map; phrases like "as leather" and "as plate" are really helpful. Generally ignore THAC0 and use descending AC (7 = Leather, 5 = Chainmail, 3 = Plate mail). If only ascending AC is given you can use (12 = Leather, 14 = Chainmail, 16 = Plate mail). Whichever system you're converting from, the Armor values range from 1-3.
-- **Strength** is both health and physical power.  It also tracks constitution & resistance to poisons.  Look at the creature's **HD** and **HP** (even if you've already done so for **Hit Protection**). **STR** is how long the creature can stay in the fight _after_ getting hit, not ability to avoid danger. If a creature is difficult to kill but _not_ because they are good avoiding injury, give them more **STR** but _not_ more **HP**. A good rule of thumb is to compare the creature to an average human (10 **STR**) and go up or down from there.
+- **Strength** is both health and physical power.  It also tracks constitution & resistance to poisons.  Look at the creature's **HD** and **HP** (even if you've already done so for **Hit Protection**). **STR** is the ability of a creature to survive a direct hit, not its ability to avoid danger! If a creature is difficult to kill but _not_ because they are good avoiding injury, give them more **STR** (_not_ more **HP**). A good rule of thumb is to compare them to the average person (10 **STR**) and go up or down from there.
 - **Dexterity** is probably the easiest of the bunch. Start with **10** as a base and if the creature is particularly quick, agile or nimble-fingered make it go up. If it is slow to respond, bulky or clumsy, lower the number.
 - **Willpower** is tricky. It rarely comes up but when it does, it's nice to have. High **WIL** is strong personality, spirit or presence. **Morale** (**ML**) can be a good guidepost for **Willpower** as well. Morale typically ranges between 2-12; some games use a "Morale Check" is used to determine if a monster flees (in Cairn a **WIL** save is used instead). The referee rolls 2d6; if the result is higher than the monster's **ML** score, they flee.  
 
@@ -38,10 +38,14 @@ The following table offers a decent guide on converting **ML** to **WIL**.
 - When in doubt, think about how much serious damage the creature is supposed to do. Remember that instead of raising attack damage a step, think about making it _enhanced_ in certain situations or use the _Blast_ and "two weapons" rule.
 
 ### Abilities & Magic
-- Some abilities simply won't translate directly! That's OK, not every system is equivalent. If for example an OSR monster has an attack that assumes the PCs will be able to dodge or defend against, you might need to rewrite it a bit.
+- Sometimes the mechanics of the original system simply _do not translate_. That's OK; try to take what's cool about the creature and write a "version" of their ability more appropriate to Cairn.
+- If the monster has an attack that asks the PCs to attempt to dodge or save against some ability, consider making the ability an out-of-combat "trap" that the PCs can trigger. Otherwise _make it succeed automatically_ during combat. The Warden can always telegraph the danger prior to combat to better prepare the PCs against the danger. 
 - Abilities can sometimes be made into weapons, and assign a damage die, making Critical Damage reveal the damage. More often you should simply let the ability or attack _happen_. Combat is dangerous, and it is up to the Warden to properly telegraph danger before the fighting begins.
-- Spells are tricky; you can give wizardy-types Spellbooks but remember, the creature might _drop_ them when they are defeated. I like to make 1d4 dropped Spellbooks implode ([Die of Fate](/cairn-srd#die-of-fate)).
-- Magical creatures can just "know" a bunch of spells. In this case make their corpse magical (and dangerous).1
+
+### Magic
+- Magical creatures can just "know" a bunch of spells. In this case, make their corpses magical (and dangerous)!
+- Spells are tricky; you can give magic-users Spellbooks but remember, they might _drop_ them when defeated.
+- I like to make 1d4 dropped Spellbooks implode ([Die of Fate](/cairn-srd#die-of-fate)), just to mix it up!
 
 ### Stat Block Structure
  There are many ways to do this, but try to be consistent! In Cairn I write it like this:
