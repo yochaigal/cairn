@@ -13,22 +13,22 @@ Zapoznaj się z dokumentami w [repozytorium](https://github.com/yochaigal/cairn)
 
 Autorem gry jest: [Yochai Gal](https://newschoolrevolution.com/).
 
-Polskie tłumaczenie: [Oskar Świda](https://twitter.com/OskarSwida)
+Polskie tłumaczenie: Oskar Świda (oskar.swida@gmail.com)
 
 **Cairn** to gra przygodowa dla jednego moderatora (**Strażnika**) i co najmniej jednego gracza.
 Gracze wcielają się w rolę zahartowanych poszukiwaczy przygód eksplorujących mroczny i tajemniczy Las pełen dziwnych postaci, ukrytych skarbów i niewypowiedzianych potworności.
 
 ## Indeks
 
-- [Wstęp](#overview)
-- [Wskazówki dla Strażników](#principles-for-wardens)
-- [Wskazówki dla graczy](#principles-for-players)
-- [Tworzenie postaci](#character-creation)
-- [Wyposażenie](#equipment-list-prices-in-gold-pieces)
-- [Zasady](#rules)
-- [Bestiariusz](#bestiary)
+- [Wstęp](#wstęp)
+- [Wskazówki dla Strażników](#wskazówki-dla-strażników)
+- [Wskazówki dla graczy](#wskazówki-dla-graczy)
+- [Tworzenie postaci](#tworzenie-postaci)
+- [Wyposażenie](#wyposażenie)
+- [Zasady](#zasady)
+- [Bestiariusz](#bestiariusz)
 - [Setka zaklęć](#setka-zaklęć)
-- [Podsumowanie zasad](#rules-summary)
+- [Podsumowanie zasad](#podsumowanie-zasad)
 
 ## Wstęp
 
@@ -66,8 +66,7 @@ Zarówno Strażnik, jak i gracze dostają pewne wytyczne, które pomagają im ro
 
 Gracze angażują się we wspólną wizję świata, współdzielą cele postaci i wyzwania grupowe. Dlatego też, uczestnicy gry zazwyczaj działają razem w celu osiągnięcia wspólnego celu, jako drużyna.
 
-[powrót do indeksu](#index)
-
+[powrót do indeksu](#indeks)
 <p></p>
 
 ## Wskazówki dla Strażników
@@ -126,8 +125,7 @@ Gracze angażują się we wspólną wizję świata, współdzielą cele postaci 
 - W takich sytuacjach rzuć 1k6. Wynik 4 lub więcej zazwyczaj faworyzuje graczy.
 - Wynik 3 lub mniej oznacza niekorzystne rozwiązanie dla postaci lub ich sojuszników.
 
-[powrót do indeksu](#index)
-
+[powrót do indeksu](#indeks)
 <p></p>
 
 ## Wskazówki dla graczy
@@ -170,16 +168,15 @@ Gracze angażują się we wspólną wizję świata, współdzielą cele postaci 
 - Niczego nie oczekuj. Zapracuj na swoją reputację.
 - Cały czas posuwaj się naprzód i graj, aby zobaczyć, co się stanie.
 
-[powrót do indeksu](#index)
-
+[powrót do indeksu](#indeks)
 <p></p>
 
 ## Tworzenie postaci
 
 **Imię, przeszłość i cechy**  
-Najpierw wybierz lub wylosuj **imię** dla swojej postaci z tabeli [**Imię i przeszłość**](#name--background-d20), następnie wybierz jej **przeszłość**, która informuje o wiedzy i potencjalnych umiejętnościach.
+Najpierw wybierz lub wylosuj **imię** dla swojej postaci z tabeli [**Imię i przeszłość**](#imię-i-przeszłość-(d20)), następnie wybierz jej **przeszłość**, która informuje o wiedzy i potencjalnych umiejętnościach.
 
-W następnym kroku wylosuj resztę **cech** postaci (wygląd, mowa, manieryzmy, przekonania, reputacja, itp) z tabel [**Cechy postaci**](#character-traits-d10).
+W następnym kroku wylosuj resztę **cech** postaci (wygląd, mowa, manieryzmy, przekonania, reputacja, itp) z tabel [**Cechy postaci**](#cechy-postaci-(d10)).
 
 Na koniec, rzuć kością, żeby określić **wiek** bohatera (2k20+10).
 
@@ -213,11 +210,11 @@ Wszystkie postacie graczy rozpoczynają grę z:
 - Pochodnią (jedno miejsce)
 - 3k6 sztukami złota
 
-Z tabeli **Wyposażenie startowe** wylosuj jaką zbroję, broń, narzędzia i przedmioty posiada twoja postać. Jeśli to wskazane wylosuj również księgi zaklęć z tabeli [**Księgi zaklęć**](#spellbooks-d100) za pomocą rzutu 1k100 (lub 2k10, gdzie jedna kość oznacza cyfrę jedynek a druga - cyfrę dziesiątek).
+Z tabeli **Wyposażenie startowe** wylosuj jaką zbroję, broń, narzędzia i przedmioty posiada twoja postać. Jeśli to wskazane wylosuj również księgi zaklęć z tabeli [**Księgi zaklęć**](#księgi-zaklęć-(d100)) za pomocą rzutu 1k100 (lub 2k10, gdzie jedna kość oznacza cyfrę jedynek a druga - cyfrę dziesiątek).
 
 Spójrz na **Listę wyposażenia** aby uzyskać informacje o zbrojach, obrażeniach i miejscach w ekwipunku. Małe przedmioty czasami mogą być pakowane razem w jednym miejscu.
 
-Jeśli chciałbyś/chciałabyś posłużyć się czymś podobnym do tradycyjnych klas postaci, spójrz na listę [**Opcjonalne pakiety wyposażenia**](#optional-gear-packages).
+Jeśli chciałbyś/chciałabyś posłużyć się czymś podobnym do tradycyjnych klas postaci, spójrz na listę [**Opcjonalne pakiety wyposażenia**](#opcjonalne-pakiety-wyposażenia).
 
 <p></p>
 
@@ -225,44 +222,44 @@ Jeśli chciałbyś/chciałabyś posłużyć się czymś podobnym do tradycyjnych
 
 #### Imiona żeńskie
 
-|      |          |      |         |      |          |      |        |
-| ---- | -------- | ---- | ------- | ---- | -------- | ---- | ------ |
-| 1    | Agune    | 6    | Drelil  | 11   | Lirann   | 16   | Sybil  |
-| 2    | Beatrice | 7    | Elgile  | 12   | Lirathil | 17   | Theune |
-| 3    | Breagan  | 8    | Esme    | 13   | Lisabeth | 18   | Wenain |
-| 4    | Bronwyn  | 9    | Griya   | 14   | Moralil  | 19   | Ygwal  |
-| 5    | Cannora  | 10   | Henaine | 15   | Morgwen  | 20   | Yslen  |
+|     |          |     |         |     |          |     |        |
+| --- | -------- | --- | ------- | --- | -------- | --- | ------ |
+| 1   | Agune    | 6   | Drelil  | 11  | Lirann   | 16  | Sybil  |
+| 2   | Beatrice | 7   | Elgile  | 12  | Lirathil | 17  | Theune |
+| 3   | Breagan  | 8   | Esme    | 13  | Lisabeth | 18  | Wenain |
+| 4   | Bronwyn  | 9   | Griya   | 14  | Moralil  | 19  | Ygwal  |
+| 5   | Cannora  | 10  | Henaine | 15  | Morgwen  | 20  | Yslen  |
 
 
 #### Imiona męskie
 
-|      |         |      |           |      |         |      |          |
-| ---- | ------- | ---- | --------- | ---- | ------- | ---- | -------- |
-| 1    | Arwel   | 6    | Breglor   | 11   | Grinwit | 16   | Melnax   |
-| 2    | Bevan   | 7    | Canhoreal | 12   | Gruwid  | 17   | Orthax   |
-| 3    | Boroth  | 8    | Emrys     | 13   | Gruwth  | 18   | Triunein |
-| 4    | Borrid  | 9    | Ethex     | 14   | Gwestin | 19   | Wenlan   |
-| 5    | Breagle | 10   | Gringle   | 15   | Mannog  | 20   | Yirmeor  |
+|     |         |     |           |     |         |     |          |
+| --- | ------- | --- | --------- | --- | ------- | --- | -------- |
+| 1   | Arwel   | 6   | Breglor   | 11  | Grinwit | 16  | Melnax   |
+| 2   | Bevan   | 7   | Canhoreal | 12  | Gruwid  | 17  | Orthax   |
+| 3   | Boroth  | 8   | Emrys     | 13  | Gruwth  | 18  | Triunein |
+| 4   | Borrid  | 9   | Ethex     | 14  | Gwestin | 19  | Wenlan   |
+| 5   | Breagle | 10  | Gringle   | 15  | Mannog  | 20  | Yirmeor  |
 
 #### Nazwiska
 
-|      |            |      |            |      |           |      |          |
-| ---- | ---------- | ---- | ---------- | ---- | --------- | ---- | -------- |
-| 1    | Abernathy  | 6    | Crumwaller | 11   | Harper    | 16   | Swinney  |
-| 2    | Addercap   | 7    | Dunswallow | 12   | Loomer    | 17   | Thatcher |
-| 3    | Burl       | 8    | Getri      | 13   | Malksmilk | 18   | Tolmen   |
-| 4    | Candlewick | 9    | Glass      | 14   | Smythe    | 19   | Weaver   |
-| 5    | Cormick    | 10   | Harkness   | 15   | Sunderman | 20   | Wolder   |
+|     |            |     |            |     |           |     |          |
+| --- | ---------- | --- | ---------- | --- | --------- | --- | -------- |
+| 1   | Abernathy  | 6   | Crumwaller | 11  | Harper    | 16  | Swinney  |
+| 2   | Addercap   | 7   | Dunswallow | 12  | Loomer    | 17  | Thatcher |
+| 3   | Burl       | 8   | Getri      | 13  | Malksmilk | 18  | Tolmen   |
+| 4   | Candlewick | 9   | Glass      | 14  | Smythe    | 19  | Weaver   |
+| 5   | Cormick    | 10  | Harkness   | 15  | Sunderman | 20  | Wolder   |
 
 #### Przeszłość
 
-|      |           |      |             |      |          |      |               |
-| ---- | --------- | ---- | ----------- | ---- | -------- | ---- | ------------- |
-| 1    | Alchemik  | 6    | Kleryk      | 11   | Magik    | 16   | Artysta       |
-| 2    | Kowal     | 7    | Hazardzista | 12   | Najemnik | 17   | Kieszonkowiec |
-| 3    | Rzeźnik   | 8    | Grabarz     | 13   | Kupiec   | 18   | Przemytnik    |
-| 4    | Włamywacz | 9    | Zielarz     | 14   | Górnik   | 19   | Sługa         |
-| 5    | Cieśla    | 10   | Myśliwy     | 15   | Banita   | 20   | Strażnik      |
+|     |           |     |             |     |          |     |               |
+| --- | --------- | --- | ----------- | --- | -------- | --- | ------------- |
+| 1   | Alchemik  | 6   | Kleryk      | 11  | Magik    | 16  | Artysta       |
+| 2   | Kowal     | 7   | Hazardzista | 12  | Najemnik | 17  | Kieszonkowiec |
+| 3   | Rzeźnik   | 8   | Grabarz     | 13  | Kupiec   | 18  | Przemytnik    |
+| 4   | Włamywacz | 9   | Zielarz     | 14  | Górnik   | 19  | Sługa         |
+| 5   | Cieśla    | 10  | Myśliwy     | 15  | Banita   | 20  | Strażnik      |
 
 <p></p>
 
@@ -270,103 +267,103 @@ Jeśli chciałbyś/chciałabyś posłużyć się czymś podobnym do tradycyjnych
 
 #### Budowa
 
-|      |            |      |          |
-| ---- | ---------- | ---- | -------- |
-| 1    | Atletyczna | 6    | Chuda    |
-| 2    | Muskularna | 7    | Niska    |
-| 3    | Wiotka     | 8    | Posągowa |
-| 4    | Mizerna    | 9    | Gruba    |
-| 5    | Solidna    | 10   | Wysoka   |
+|     |            |     |          |
+| --- | ---------- | --- | -------- |
+| 1   | Atletyczna | 6   | Chuda    |
+| 2   | Muskularna | 7   | Niska    |
+| 3   | Wiotka     | 8   | Posągowa |
+| 4   | Mizerna    | 9   | Gruba    |
+| 5   | Solidna    | 10  | Wysoka   |
 
 #### Skóra
 
-|      |          |      |             |
-| ---- | -------- | ---- | ----------- |
-| 1    | Znamię   | 6    | Pryszczata  |
-| 2    | Ciemna   | 7    | Gładka      |
-| 3    | Obwisła  | 8    | Opalona     |
-| 4    | Dziobata | 9    | Wytatuowana |
-| 5    | Rumiana  | 10   | Blada       |
+|     |          |     |             |
+| --- | -------- | --- | ----------- |
+| 1   | Znamię   | 6   | Pryszczata  |
+| 2   | Ciemna   | 7   | Gładka      |
+| 3   | Obwisła  | 8   | Opalona     |
+| 4   | Dziobata | 9   | Wytatuowana |
+| 5   | Rumiana  | 10  | Blada       |
 
 #### Włosy
 
-|      |             |      |            |
-| ---- | ----------- | ---- | ---------- |
-| 1    | Łysy        | 6    | Długie     |
-| 2    | Splecione   | 7    | Bujne      |
-| 3    | Kręcone     | 8    | Tłuste     |
-| 4    | Brudne      | 9    | Pofalowane |
-| 5    | Kędzierzawe | 10   | Zwichrzone |
+|     |             |     |            |
+| --- | ----------- | --- | ---------- |
+| 1   | Łysy        | 6   | Długie     |
+| 2   | Splecione   | 7   | Bujne      |
+| 3   | Kręcone     | 8   | Tłuste     |
+| 4   | Brudne      | 9   | Pofalowane |
+| 5   | Kędzierzawe | 10  | Zwichrzone |
 
 #### Twarz
 
-|      |              |      |             |
-| ---- | ------------ | ---- | ----------- |
-| 1    | Koścista     | 6    | Perfekcyjna |
-| 2    | Zdeformowana | 7    | Szczurza    |
-| 3    | Rzeźbiona    | 8    | Ostra       |
-| 4    | Pociągła     | 9    | Kwadratowa  |
-| 5    | Blada        | 10   | Zapadnięta  |
+|     |              |     |             |
+| --- | ------------ | --- | ----------- |
+| 1   | Koścista     | 6   | Perfekcyjna |
+| 2   | Zdeformowana | 7   | Szczurza    |
+| 3   | Rzeźbiona    | 8   | Ostra       |
+| 4   | Pociągła     | 9   | Kwadratowa  |
+| 5   | Blada        | 10  | Zapadnięta  |
 
 #### Mowa
 
-|      |            |      |           |
-| ---- | ---------- | ---- | --------- |
-| 1    | Tępa       | 6    | Ochrypła  |
-| 2    | Donośna    | 7    | Sceniczna |
-| 3    | Zagadkowa  | 8    | Piskliwa  |
-| 4    | Warkotliwa | 9    | Jąkająca  |
-| 5    | Oficjalna  | 10   | Cicha     |
+|     |            |     |           |
+| --- | ---------- | --- | --------- |
+| 1   | Tępa       | 6   | Ochrypła  |
+| 2   | Donośna    | 7   | Sceniczna |
+| 3   | Zagadkowa  | 8   | Piskliwa  |
+| 4   | Warkotliwa | 9   | Jąkająca  |
+| 5   | Oficjalna  | 10  | Cicha     |
 
 #### Ubranie
 
-|      |               |      |              |
-| ---- | ------------- | ---- | ------------ |
-| 1    | Starodawne    | 6    | Postrzępione |
-| 2    | Zakrwawione   | 7    | Niemodne     |
-| 3    | Eleganckie    | 8    | Uniform      |
-| 4    | Brudne        | 9    | Śmierdzące   |
-| 5    | Cudzoziemskie | 10   | Poplamione   |
+|     |               |     |              |
+| --- | ------------- | --- | ------------ |
+| 1   | Starodawne    | 6   | Postrzępione |
+| 2   | Zakrwawione   | 7   | Niemodne     |
+| 3   | Eleganckie    | 8   | Uniform      |
+| 4   | Brudne        | 9   | Śmierdzące   |
+| 5   | Cudzoziemskie | 10  | Poplamione   |
 
 #### Cnota
 
-|      |                 |      |              |
-| ---- | --------------- | ---- | ------------ |
-| 1    | Ambitna         | 6    | Honorowy     |
-| 2    | Ostrożny        | 7    | Skromna      |
-| 3    | Odważna         | 8    | Miłosierny   |
-| 4    | Zdyscyplinowany | 9    | Pogodna      |
-| 5    | Towarzyska      | 10   | Tolerancyjny |
+|     |                 |     |              |
+| --- | --------------- | --- | ------------ |
+| 1   | Ambitna         | 6   | Honorowy     |
+| 2   | Ostrożny        | 7   | Skromna      |
+| 3   | Odważna         | 8   | Miłosierny   |
+| 4   | Zdyscyplinowany | 9   | Pogodna      |
+| 5   | Towarzyska      | 10  | Tolerancyjny |
 
 #### Wada
 
-|      |             |      |             |
-| ---- | ----------- | ---- | ----------- |
-| 1    | Agresywny   | 6    | Leniwa      |
-| 2    | Zgorzkniała | 7    | Nerwowy     |
-| 3    | Tchórzliwy  | 8    | Nieuprzejma |
-| 4    | Podstępna   | 9    | Próżny      |
-| 5    | Chciwy      | 10   | Mściwa      |
+|     |             |     |             |
+| --- | ----------- | --- | ----------- |
+| 1   | Agresywny   | 6   | Leniwa      |
+| 2   | Zgorzkniała | 7   | Nerwowy     |
+| 3   | Tchórzliwy  | 8   | Nieuprzejma |
+| 4   | Podstępna   | 9   | Próżny      |
+| 5   | Chciwy      | 10  | Mściwa      |
 
 #### Reputacja
 
-|      |               |      |              |
-| ---- | ------------- | ---- | ------------ |
-| 1    | Ambitna       | 6    | Nierób       |
-| 2    | Cham          | 7    | Dziwak       |
-| 3    | Niebezpieczna | 8    | Antypatyczna |
-| 4    | Komik         | 9    | Szanowana    |
-| 5    | Szczera       | 10   | Mądry        |
+|     |               |     |              |
+| --- | ------------- | --- | ------------ |
+| 1   | Ambitna       | 6   | Nierób       |
+| 2   | Cham          | 7   | Dziwak       |
+| 3   | Niebezpieczna | 8   | Antypatyczna |
+| 4   | Komik         | 9   | Szanowana    |
+| 5   | Szczera       | 10  | Mądry        |
 
 #### Nieszczęście
 
-|      |              |      |                 |
-| ---- | ------------ | ---- | --------------- |
-| 1    | Porzucony    | 6    | Oszukana        |
-| 2    | Uzależniona  | 7    | Zdegradowany    |
-| 3    | Szantażowany | 8    | Skompromitowana |
-| 4    | Skazana      | 9    | Wyrzucony       |
-| 5    | Przeklęty    | 10   | Wygnana         |
+|     |              |     |                 |
+| --- | ------------ | --- | --------------- |
+| 1   | Porzucony    | 6   | Oszukana        |
+| 2   | Uzależniona  | 7   | Zdegradowany    |
+| 3   | Szantażowany | 8   | Skompromitowana |
+| 4   | Skazana      | 9   | Wyrzucony       |
+| 5   | Przeklęty    | 10  | Wygnana         |
 
 <p></p>
 
@@ -374,17 +371,17 @@ Jeśli chciałbyś/chciałabyś posłużyć się czymś podobnym do tradycyjnych
 
 #### Zbroja
 
-|      |            |          |                |
-| :--: | :--------: | :------: | :------------: |
-| 1-3  |    4-14    |  15-19   |       20       |
-| Brak | Brygantyna | Kolczuga | Zbroja płytowa |
+|       |            |          |                |
+| :---: | :--------: | :------: | :------------: |
+|  1-3  |    4-14    |  15-19   |       20       |
+| Brak  | Brygantyna | Kolczuga | Zbroja płytowa |
 
 #### Hełmy i tarcze
 
-|      |       |        |               |
-| :--: | :---: | :----: | :-----------: |
-| 1-13 | 14-16 | 17-19  |      20       |
-| Brak | Hełm  | Tarcza | Hełm i tarcza |
+|       |       |        |               |
+| :---: | :---: | :----: | :-----------: |
+| 1-13  | 14-16 | 17-19  |      20       |
+| Brak  | Hełm  | Tarcza | Hełm i tarcza |
 
 #### Broń
 
@@ -395,33 +392,33 @@ Jeśli chciałbyś/chciałabyś posłużyć się czymś podobnym do tradycyjnych
 
 #### Sprzęt ekspedycyjny
 
-|      |                                 |      |                   |      |               |      |                 |
-| ---- | ------------------------------- | ---- | ----------------- | ---- | ------------- | ---- | --------------- |
-| 1    | Pęcherz pławny                  | 6    | Olej do lampy     | 11   | Kajdany       | 16   | Lina (8m)       |
-| 2    | Antytoksyna                     | 7    | Linka z kotwiczką | 12   | Kilof         | 17   | Amulet ochronny |
-| 3    | Wózek (+4 miejsca, nieporęczny) | 8    | Duży worek        | 13   | Tyczka (3m)   | 18   | Luneta          |
-| 4    | Łańcuch (3m)                    | 9    | Duża pułapka      | 14   | Krążek linowy | 19   | Krzesiwo        |
-| 5    | Różdżka radiestezyjna           | 10   | Wytrychy          | 15   | Impregnat     | 20   | Trucizna        |
+|     |                                 |     |                   |     |               |     |                 |
+| --- | ------------------------------- | --- | ----------------- | --- | ------------- | --- | --------------- |
+| 1   | Pęcherz pławny                  | 6   | Olej do lampy     | 11  | Kajdany       | 16  | Lina (8m)       |
+| 2   | Antytoksyna                     | 7   | Linka z kotwiczką | 12  | Kilof         | 17  | Amulet ochronny |
+| 3   | Wózek (+4 miejsca, nieporęczny) | 8   | Duży worek        | 13  | Tyczka (3m)   | 18  | Luneta          |
+| 4   | Łańcuch (3m)                    | 9   | Duża pułapka      | 14  | Krążek linowy | 19  | Krzesiwo        |
+| 5   | Różdżka radiestezyjna           | 10  | Wytrychy          | 15  | Impregnat     | 20  | Trucizna        |
 
 #### Narzędzia
 
-|      |           |      |                     |
-| ---- | --------- | ---- | ------------------- |
-| 1    | Miechy    | 6    | Garnki do gotowania |
-| 2    | Wiadro    | 7    | Łom                 |
-| 3    | Kolczatki | 8    | Świder (ręczny)     |
-| 4    | Kreda     | 9    | Wędka               |
-| 5    | Dłuto     | 10   | Klej                |
+|     |           |     |                     |
+| --- | --------- | --- | ------------------- |
+| 1   | Miechy    | 6   | Garnki do gotowania |
+| 2   | Wiadro    | 7   | Łom                 |
+| 3   | Kolczatki | 8   | Świder (ręczny)     |
+| 4   | Kreda     | 9   | Wędka               |
+| 5   | Dłuto     | 10  | Klej                |
 
 #### Drobiazgi
 
-|      |                   |      |                      |
-| ---- | ----------------- | ---- | -------------------- |
-| 1    | Butelka           | 6    | Róg                  |
-| 2    | Talia kart        | 7    | Kadzidło             |
-| 3    | Kości do gry      | 8    | Instrument           |
-| 4    | Farba do twarzy   | 9    | Soczewka             |
-| 5    | Fałszywe klejnoty | 10   | Szklane kulki do gry |
+|     |                   |     |                      |
+| --- | ----------------- | --- | -------------------- |
+| 1   | Butelka           | 6   | Róg                  |
+| 2   | Talia kart        | 7   | Kadzidło             |
+| 3   | Kości do gry      | 8   | Instrument           |
+| 4   | Farba do twarzy   | 9   | Soczewka             |
+| 5   | Fałszywe klejnoty | 10  | Szklane kulki do gry |
 
 #### Przedmiot dodatkowy (wylosuj ze wskazanej tabeli)
 
@@ -434,33 +431,33 @@ Jeśli chciałbyś/chciałabyś posłużyć się czymś podobnym do tradycyjnych
 
 #### Księgi zaklęć (d100)
 
-|      |                           |      |                    |      |                         |      |                    |
-| ---- | ------------------------- | ---- | ------------------ | ---- | ----------------------- | ---- | ------------------ |
-| 1    | Antropomorfizacja         | 26   | Iluzja wzrokowa    | 51   | Ożywienie obiektu       | 76   | Ślizgawka          |
-| 2    | Bełkot                    | 27   | Kontrola Czasu     | 52   | Pajęcza wspinaczka      | 77   | Tarcza             |
-| 3    | Brama                     | 28   | Kontrola pogody    | 53   | Pchanie/Ciągnięcie      | 78   | Tasowanie          |
-| 4    | Całun                     | 29   | Kontrola roślin    | 54   | Pierwotna siła          | 79   | Telekineza         |
-| 5    | Capnięcie                 | 30   | Kotwica            | 55   | Podświetlenie           | 80   | Telepatia          |
-| 6    | Chciwość                  | 31   | Krąg ochronny      | 56   | Przebranie              | 81   | Teleportacja       |
-| 7    | Chmura mgły               | 32   | Krynica            | 57   | Przemieszczenie         | 82   | Trzęsienie ziemi   |
-| 8    | Ciekłe powietrze          | 33   | Kulkowe szaleństwo | 58   | Przenikające spojrzenie | 83   | Uprzedmiotowienie  |
-| 9    | Czarodziejski znak        | 34   | Kwiat przynęta     | 59   | Przyciągnięcie          | 84   | Urok               |
-| 10   | Czytanie w myślach        | 35   | Leczenie ran       | 60   | Przylga                 | 85   | Uspokojenie        |
-| 11   | Demontaż                  | 36   | Lodowaty dotyk     | 61   | Przynęta                | 86   | Węszenie           |
-| 12   | Dół                       | 37   | Lustrzany most     | 62   | Przyśpieszenie          | 87   | Widowisko          |
-| 13   | Dwór                      | 38   | Magiczna piła      | 63   | Przywołanie Idola       | 88   | Wieloramienny      |
-| 14   | Elastyczność              | 39   | Magiczne oko       | 64   | Pukanie                 | 89   | Więzienie astralne |
-| 15   | Flara                     | 40   | Magiczny sześcian  | 65   | Rozkaz                  | 90   | Wizja              |
-| 16   | Fobia                     | 41   | Magiczny tłumik    | 66   | Rój                     | 91   | Wskrzeszenie       |
-| 17   | Forma bestii              | 42   | Magiczny wzrok     | 67   | Rzeźbienie żywiołów     | 92   | Wyczucie           |
-| 18   | Forma Dymu                | 43   | Maskarada          | 68   | Sen                     | 93   | Wygaszenie         |
-| 19   | Forma szlamu              | 44   | Medium             | 69   | Sieć                    | 94   | Wykrywanie magii   |
-| 20   | Gadżet                    | 45   | Miniaturyzacja     | 70   | Skok                    | 95   | Wywołanie ducha    |
-| 21   | Gąszcz                    | 46   | Nienawiść          | 71   | Sortowanie              | 96   | Zamiana ciał       |
-| 22   | Głuchota                  | 47   | Niewidzialna uwięź | 72   | Strumień piany          | 97   | Zamroczenie        |
-| 23   | Hipnoza                   | 48   | Nocna sfera        | 73   | Szał                    | 98   | Zawieszenie        |
-| 24   | Identyfikacja właściciela | 49   | Odbicie lustrzane  | 74   | Czuły słuch             | 99   | Zmiana grawitacji  |
-| 25   | Iluzja słuchowa           | 50   | Odpychanie         | 75   | Ściana żywiołów         | 100  | Zrozumienie        |
+|     |                           |     |                    |     |                         |     |                    |
+| --- | ------------------------- | --- | ------------------ | --- | ----------------------- | --- | ------------------ |
+| 1   | Antropomorfizacja         | 26  | Iluzja wzrokowa    | 51  | Ożywienie obiektu       | 76  | Ślizgawka          |
+| 2   | Bełkot                    | 27  | Kontrola Czasu     | 52  | Pajęcza wspinaczka      | 77  | Tarcza             |
+| 3   | Brama                     | 28  | Kontrola pogody    | 53  | Pchanie/Ciągnięcie      | 78  | Tasowanie          |
+| 4   | Całun                     | 29  | Kontrola roślin    | 54  | Pierwotna siła          | 79  | Telekineza         |
+| 5   | Capnięcie                 | 30  | Kotwica            | 55  | Podświetlenie           | 80  | Telepatia          |
+| 6   | Chciwość                  | 31  | Krąg ochronny      | 56  | Przebranie              | 81  | Teleportacja       |
+| 7   | Chmura mgły               | 32  | Krynica            | 57  | Przemieszczenie         | 82  | Trzęsienie ziemi   |
+| 8   | Ciekłe powietrze          | 33  | Kulkowe szaleństwo | 58  | Przenikające spojrzenie | 83  | Uprzedmiotowienie  |
+| 9   | Czarodziejski znak        | 34  | Kwiat przynęta     | 59  | Przyciągnięcie          | 84  | Urok               |
+| 10  | Czytanie w myślach        | 35  | Leczenie ran       | 60  | Przylga                 | 85  | Uspokojenie        |
+| 11  | Demontaż                  | 36  | Lodowaty dotyk     | 61  | Przynęta                | 86  | Węszenie           |
+| 12  | Dół                       | 37  | Lustrzany most     | 62  | Przyśpieszenie          | 87  | Widowisko          |
+| 13  | Dwór                      | 38  | Magiczna piła      | 63  | Przywołanie Idola       | 88  | Wieloramienny      |
+| 14  | Elastyczność              | 39  | Magiczne oko       | 64  | Pukanie                 | 89  | Więzienie astralne |
+| 15  | Flara                     | 40  | Magiczny sześcian  | 65  | Rozkaz                  | 90  | Wizja              |
+| 16  | Fobia                     | 41  | Magiczny tłumik    | 66  | Rój                     | 91  | Wskrzeszenie       |
+| 17  | Forma bestii              | 42  | Magiczny wzrok     | 67  | Rzeźbienie żywiołów     | 92  | Wyczucie           |
+| 18  | Forma Dymu                | 43  | Maskarada          | 68  | Sen                     | 93  | Wygaszenie         |
+| 19  | Forma szlamu              | 44  | Medium             | 69  | Sieć                    | 94  | Wykrywanie magii   |
+| 20  | Gadżet                    | 45  | Miniaturyzacja     | 70  | Skok                    | 95  | Wywołanie ducha    |
+| 21  | Gąszcz                    | 46  | Nienawiść          | 71  | Sortowanie              | 96  | Zamiana ciał       |
+| 22  | Głuchota                  | 47  | Niewidzialna uwięź | 72  | Strumień piany          | 97  | Zamroczenie        |
+| 23  | Hipnoza                   | 48  | Nocna sfera        | 73  | Szał                    | 98  | Zawieszenie        |
+| 24  | Identyfikacja właściciela | 49  | Odbicie lustrzane  | 74  | Czuły słuch             | 99  | Zmiana grawitacji  |
+| 25  | Iluzja słuchowa           | 50  | Odpychanie         | 75  | Ściana żywiołów         | 100 | Zrozumienie        |
 
 <p></p>
 
@@ -468,58 +465,58 @@ Jeśli chciałbyś/chciałabyś posłużyć się czymś podobnym do tradycyjnych
 
 #### Zbroja
 
-|                                          |      |
-| ---------------------------------------- | ---- |
-| Tarcza (+1 do Pancerza)                  | 10   |
-| Hełm (+1 do Pancerza)                    | 10   |
-| Przeszywanica (+1 do Pancerza)           | 15   |
-| Brygantyna (1 Pancerza, nieporęczna)     | 20   |
-| Kolczuga (2 Pancerza, nieporęczna)       | 40   |
-| Zbroja płytowa (3 Pancerza, nieporęczna) | 60   |
+|                                          |     |
+| ---------------------------------------- | --- |
+| Tarcza (+1 do Pancerza)                  | 10  |
+| Hełm (+1 do Pancerza)                    | 10  |
+| Przeszywanica (+1 do Pancerza)           | 15  |
+| Brygantyna (1 Pancerza, nieporęczna)     | 20  |
+| Kolczuga (2 Pancerza, nieporęczna)       | 40  |
+| Zbroja płytowa (3 Pancerza, nieporęczna) | 60  |
 
 #### Broń
 
-|                                                              |      |
-| ------------------------------------------------------------ | ---- |
-| Sztylet, pałka, sierp, laska itp (k6 obrażeń)                | 5    |
-| Włócznia, miecz, buzdygan, topór, cep, itp (k8 obrażeń)      | 10   |
-| Halabarda, młot bojowy, długi miecz itp (k10 obrażeń, nieporęczna) | 20   |
-| Proca (k4  obrażeń)                                          | 5    |
-| Łuk  (k6  obrażeń, nieporęczna)                              | 20   |
-| Kusza (k8  obrażeń, nieporęczna)                             | 30   |
+|                                                                    |     |
+| ------------------------------------------------------------------ | --- |
+| Sztylet, pałka, sierp, laska itp (k6 obrażeń)                      | 5   |
+| Włócznia, miecz, buzdygan, topór, cep, itp (k8 obrażeń)            | 10  |
+| Halabarda, młot bojowy, długi miecz itp (k10 obrażeń, nieporęczna) | 20  |
+| Proca (k4  obrażeń)                                                | 5   |
+| Łuk  (k6  obrażeń, nieporęczna)                                    | 20  |
+| Kusza (k8  obrażeń, nieporęczna)                                   | 30  |
 
 #### Narzędzia i sprzęt
 
-|                                 |      |                                  |      |
-| ------------------------------- | ---- | -------------------------------- | ---- |
-| Pęcherz pławny                  | 5    | Duża pułapka                     | 20   |
-| Miechy                          | 10   | Duża gąbka                       | 5    |
-| Pościel                         | 5    | Soczewka                         | 10   |
-| Książka                         | 50   | Wytrychy                         | 25   |
-| Wiadro                          | 5    | Kajdany                          | 10   |
-| Kolczatki                       | 10   | Pilnik metalowy                  | 5    |
-| Wózek (+4 miejsca, nieporęczny) | 30   | Lustro                           | 5    |
-| Łańcuch (3m)                    | 10   | Muł (+6 miejsc, wolny)           | 30   |
-| Kreda                           | 1    | Sieć                             | 10   |
-| Dłuto                           | 5    | Wodoodporna torba                | 5    |
-| Garnki do gotowania             | 10   | Kilof                            | 10   |
-| Łom                             | 10   | Krążek linowy                    | 10   |
-| Świder (ręczny)                 | 10   | Tyczka (3m)                      | 5    |
-| Farba do twarzy                 | 10   | Pióro i atrament                 | 10   |
-| Olej do lampy                   | 10   | Racje żywnościowe (na 3 dni)     | 10   |
-| Wędka                           | 10   | Lina (8m)                        | 5    |
-| Szklane kulki do gry            | 5    | Piła                             | 5    |
-| Klej                            | 5    | Worek                            | 5    |
-| Smar                            | 10   | Łopata                           | 5    |
-| Linka z kotwiczką               | 25   | Mydło                            | 1    |
-| Młotek                          | 5    | Kolec                            | 1    |
-| Woda święcona                   | 25   | Buty z kolcami                   | 5    |
-| Róg                             | 10   | Luneta                           | 40   |
-| Koń (+4 miejsca)                | 75   | Smoła                            | 10   |
-| Klepsydra                       | 50   | Namiot (dwuosobowy, nieporęczny) | 20   |
-| Kadzidło                        | 10   | Pochodnia                        | 1    |
-| Drabina (nieporęczna, 3m)       | 10   | Furgon (+8 miejsc, wolny)        | 200  |
-| Latarnia i olej                 | 10   | Trucizna                         | 10   |
+|                                 |     |                                  |     |
+| ------------------------------- | --- | -------------------------------- | --- |
+| Pęcherz pławny                  | 5   | Duża pułapka                     | 20  |
+| Miechy                          | 10  | Duża gąbka                       | 5   |
+| Pościel                         | 5   | Soczewka                         | 10  |
+| Książka                         | 50  | Wytrychy                         | 25  |
+| Wiadro                          | 5   | Kajdany                          | 10  |
+| Kolczatki                       | 10  | Pilnik metalowy                  | 5   |
+| Wózek (+4 miejsca, nieporęczny) | 30  | Lustro                           | 5   |
+| Łańcuch (3m)                    | 10  | Muł (+6 miejsc, wolny)           | 30  |
+| Kreda                           | 1   | Sieć                             | 10  |
+| Dłuto                           | 5   | Wodoodporna torba                | 5   |
+| Garnki do gotowania             | 10  | Kilof                            | 10  |
+| Łom                             | 10  | Krążek linowy                    | 10  |
+| Świder (ręczny)                 | 10  | Tyczka (3m)                      | 5   |
+| Farba do twarzy                 | 10  | Pióro i atrament                 | 10  |
+| Olej do lampy                   | 10  | Racje żywnościowe (na 3 dni)     | 10  |
+| Wędka                           | 10  | Lina (8m)                        | 5   |
+| Szklane kulki do gry            | 5   | Piła                             | 5   |
+| Klej                            | 5   | Worek                            | 5   |
+| Smar                            | 10  | Łopata                           | 5   |
+| Linka z kotwiczką               | 25  | Mydło                            | 1   |
+| Młotek                          | 5   | Kolec                            | 1   |
+| Woda święcona                   | 25  | Buty z kolcami                   | 5   |
+| Róg                             | 10  | Luneta                           | 40  |
+| Koń (+4 miejsca)                | 75  | Smoła                            | 10  |
+| Klepsydra                       | 50  | Namiot (dwuosobowy, nieporęczny) | 20  |
+| Kadzidło                        | 10  | Pochodnia                        | 1   |
+| Drabina (nieporęczna, 3m)       | 10  | Furgon (+8 miejsc, wolny)        | 200 |
+| Latarnia i olej                 | 10  | Trucizna                         | 10  |
 
 <p></p>
 
@@ -623,8 +620,7 @@ Jeśli chciałbyś/chciałabyś posłużyć się czymś podobnym do tradycyjnych
 | Ogar &#124; 2 OCHR, 12 ZRE, gryzienie (k6) |
 | Róg myśliwski                              |
 
-[powrót do indeksu](#index)
-
+[powrót do indeksu](#indeks)
 <p></p>
 
 ## Zasady
@@ -667,7 +663,7 @@ Kiedy postacie napotkają Bohatera Niezależnego, którego reakcja na to spotkan
 Podczas starcia, gdy pierwszy z wrogów polegnie i ponownie, gdy grupa wrogów straci połowę swojej liczby - nieprzyjaciele muszą zdać test WOL, aby pozostać na polu bitwy. Niektóre grupy mogą używać WOL swojego lidera zamiast własnego. Samotni wrogowie muszą wykonać rzut obronny WOL gdy ich OCHR spadnie do zera. Morale nie stosuje się do postaci graczy.
 
 **Najemnicy**  
-Postacie mogą wynająć **najemników** do pomocy w swoich wyprawach. Aby stworzyć najemnika, należy rzucić 3k6 dla każdej z jego zdolności, następnie przydzielić mu 1k6 OCHR oraz prostą broń (k6). Kolejnym krokiem może być losowanie z tabel [**Tworzenie postaci**](#character-creation) w celu stworzenia dokładniejszego opisu pomocnika. Najemnicy kosztują od 1 do 3 sztuk złota dziennie, lub udział w każdym skarbie, który drużyna zdobędzie.
+Postacie mogą wynająć **najemników** do pomocy w swoich wyprawach. Aby stworzyć najemnika, należy rzucić 3k6 dla każdej z jego zdolności, następnie przydzielić mu 1k6 OCHR oraz prostą broń (k6). Kolejnym krokiem może być losowanie z tabel [**Tworzenie postaci**](#tworzenie-postaci) w celu stworzenia dokładniejszego opisu pomocnika. Najemnicy kosztują od 1 do 3 sztuk złota dziennie, lub udział w każdym skarbie, który drużyna zdobędzie.
 
 **Bogactwo i skarby**
 Najbardziej rozpowszechnioną monetą jest sztuka złota (sz), która jest równa 10 sztukom srebra (ss) i 100 sztukom miedzi (sm).
@@ -765,23 +761,22 @@ Ucieczka w trudnej sytuacji zawsze wymaga udanego rzutu obronnego ZRE, jak równ
 **Blizny**
 Kiedy atak zredukuje OCHR postaci dokładnie do 0, postać zostaje nieodwracalnie i niepowtarzalnie zmieniona. Sprawdź wynik w tabeli poniżej w oparciu o całkowite zadane obrażenia:
 
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-| 1    | Trwała blizna: Rzuć 1k6 &#124; 1: Kark, 2: Ręce, 3: Oko, 4: Klatka piersiowa, 5: Nogi, 6: Ucho. Rzuć 1k6. Jeśli suma jest wyższa niż twoje maksymalne OCHR, wynik staje się twoim nowym maksymalnym OCHR. |
-| 2    | Gruchoczący cios: . Jesteś zdezorientowany i roztrzęsiony. Opisz, jak się koncentrujesz. Rzuć 1k6. Jeśli suma jest wyższa niż twoje maksymalne OCHR,  wynik staje się twoim nowym maksymalnym OCHR. |
-| 3    | Powalony: Zostajesz wysłany w powietrze i lądujesz płasko na twarzy, zdyszany. Odczuwasz dyskomfort, dopóki nie odpoczniesz przez kilka godzin. Następnie, rzuć 1k6. Dodaj tę liczbę do swojego maksymalnego HP. |
-| 4    | Złamana kość: Rzuć 1k6 &#124; 1-2: Noga, 3-4: Ramię, 5: Żebro, 6: Czaszka. Po zrośnięciu, rzuć 2k6. Jeśli suma jest wyższa niż twoje maksymalne OCHR, wynik staje się twoim nowym maksymalnym OCHR. |
-| 5    | Choroba: Cierpisz na obrzydliwą, nieprzyjemną infekcję. Kiedy wydobrzejesz, rzuć 2k6. Jeśli suma jest wyższa niż twoje maksymalne OCHR, wynik staje się twoim nowym maksymalnym OCHR. |
-| 6    | Dezorientująca rana głowy: Rzuć 1k6 &#124; 1-2: SIŁ, 3-4: ZRE, 5-6: WOL. Rzuć 3k6. Jeśli wynik jest wyższy niż aktualny poziom zdolności, staje się on nową wartością wskazanej cechy. |
-| 7    | Wstrząs: Ledwo możesz się poruszać, dopóki nie otrzymasz poważnej pomocy i nie odpoczniesz. Po wyzdrowieniu, rzuć 3k6. Jeśli suma jest wyższa niż twoja maksymalna wartość ZRE, nowy wynik staje się nową maksymalną wartością. |
-| 8    | Ogłuszenie: Nic nie słyszysz dopóki nie uzyskasz jakiejś wyjątkowej pomocy. Niezależnie od tego, wykonaj rzut obronny WOL. Jeśli test się uda, zwiększ swoją maksymalną WOL o 1k4. |
-| 9    | Uraz psychiczny: Jakaś ukryta część twojej psychiki została wytrącona z równowagi. Rzuć 3k6. Jeśli suma jest wyższa niż twoja maksymalna wartość WOL, nowy wynik staje się nową maksymalną wartością. |
-| 10   | Utrata kończyny: Kończyna została oderwana, jest kaleka lub bezużyteczna. Strażnik określi, która to kończyna. Następnie wykonaj rzut obronny WOL. Jeśli test się uda, zwiększ swoją maksymalną wartość WOL o 1k6. |
-| 11   | Śmiertelna rana: Odczuwasz dyskomfort i zostajesz wyłączony z gry. Umierasz w ciągu godziny, chyba że zostaniesz uleczony. Po wyzdrowieniu, rzuć 2k6. Wynik staje się twoim nowym maksymalnym OCHR. |
-| 12   | Skazany na zagładę: Śmierć wydawała się bliska, ale jakoś udało ci się przeżyć. Jeśli twój następny rzut obronny przeciwko obrażeniom krytycznym jest nieudany, umierasz okropną śmiercią. Jeśli zdasz test, rzuć 3k6. Jeśli suma jest większa niż twoje maksymalne OCHR, weź nowy wynik jako aktualne, maksymalne OCHR. |
+|     |                                                                                                                                                                                                                                                                                                                          |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1   | Trwała blizna: Rzuć 1k6 &#124; 1: Kark, 2: Ręce, 3: Oko, 4: Klatka piersiowa, 5: Nogi, 6: Ucho. Rzuć 1k6. Jeśli suma jest wyższa niż twoje maksymalne OCHR, wynik staje się twoim nowym maksymalnym OCHR.                                                                                                                |
+| 2   | Gruchoczący cios: . Jesteś zdezorientowany i roztrzęsiony. Opisz, jak się koncentrujesz. Rzuć 1k6. Jeśli suma jest wyższa niż twoje maksymalne OCHR,  wynik staje się twoim nowym maksymalnym OCHR.                                                                                                                      |
+| 3   | Powalony: Zostajesz wysłany w powietrze i lądujesz płasko na twarzy, zdyszany. Odczuwasz dyskomfort, dopóki nie odpoczniesz przez kilka godzin. Następnie, rzuć 1k6. Dodaj tę liczbę do swojego maksymalnego HP.                                                                                                         |
+| 4   | Złamana kość: Rzuć 1k6 &#124; 1-2: Noga, 3-4: Ramię, 5: Żebro, 6: Czaszka. Po zrośnięciu, rzuć 2k6. Jeśli suma jest wyższa niż twoje maksymalne OCHR, wynik staje się twoim nowym maksymalnym OCHR.                                                                                                                      |
+| 5   | Choroba: Cierpisz na obrzydliwą, nieprzyjemną infekcję. Kiedy wydobrzejesz, rzuć 2k6. Jeśli suma jest wyższa niż twoje maksymalne OCHR, wynik staje się twoim nowym maksymalnym OCHR.                                                                                                                                    |
+| 6   | Dezorientująca rana głowy: Rzuć 1k6 &#124; 1-2: SIŁ, 3-4: ZRE, 5-6: WOL. Rzuć 3k6. Jeśli wynik jest wyższy niż aktualny poziom zdolności, staje się on nową wartością wskazanej cechy.                                                                                                                                   |
+| 7   | Wstrząs: Ledwo możesz się poruszać, dopóki nie otrzymasz poważnej pomocy i nie odpoczniesz. Po wyzdrowieniu, rzuć 3k6. Jeśli suma jest wyższa niż twoja maksymalna wartość ZRE, nowy wynik staje się nową maksymalną wartością.                                                                                          |
+| 8   | Ogłuszenie: Nic nie słyszysz dopóki nie uzyskasz jakiejś wyjątkowej pomocy. Niezależnie od tego, wykonaj rzut obronny WOL. Jeśli test się uda, zwiększ swoją maksymalną WOL o 1k4.                                                                                                                                       |
+| 9   | Uraz psychiczny: Jakaś ukryta część twojej psychiki została wytrącona z równowagi. Rzuć 3k6. Jeśli suma jest wyższa niż twoja maksymalna wartość WOL, nowy wynik staje się nową maksymalną wartością.                                                                                                                    |
+| 10  | Utrata kończyny: Kończyna została oderwana, jest kaleka lub bezużyteczna. Strażnik określi, która to kończyna. Następnie wykonaj rzut obronny WOL. Jeśli test się uda, zwiększ swoją maksymalną wartość WOL o 1k6.                                                                                                       |
+| 11  | Śmiertelna rana: Odczuwasz dyskomfort i zostajesz wyłączony z gry. Umierasz w ciągu godziny, chyba że zostaniesz uleczony. Po wyzdrowieniu, rzuć 2k6. Wynik staje się twoim nowym maksymalnym OCHR.                                                                                                                      |
+| 12  | Skazany na zagładę: Śmierć wydawała się bliska, ale jakoś udało ci się przeżyć. Jeśli twój następny rzut obronny przeciwko obrażeniom krytycznym jest nieudany, umierasz okropną śmiercią. Jeśli zdasz test, rzuć 3k6. Jeśli suma jest większa niż twoje maksymalne OCHR, weź nowy wynik jako aktualne, maksymalne OCHR. |
 
-[powrót do indeksu](#index)
-
+[powrót do indeksu](#indeks)
 <p></p>
 
 ## Bestiariusz
@@ -859,118 +854,116 @@ Niektóre wskazówki:
 
 Kość obrażeń jest mniej więcej taka sama, chociaż ataki bronią zadają co najmniej 1k6 obrażeń.
 
-[powrót do indeksu](#index)
-
+[powrót do indeksu](#indeks)
 <p></p>
 
 ## Setka zaklęć
 
-|      |                           |                                                              |
-| ---- | ------------------------- | ------------------------------------------------------------ |
-| 1    | Antropomorfizacja         | Wskazane zwierzę zyskuje na jeden dzień ludzką inteligencję lub ludzki wygląd. |
-| 2    | Bełkot                    | Wskazane stworzenie musi głośno i wyraźnie powtarzać wszystko, co myślisz. W przeciwnym razie jest nieme. |
-| 3    | Brama                     | Otwierasz portal do losowego wymiaru.                        |
-| 4    | Całun                     | Istota, którą dotkniesz, jest niewidzialna, dopóki się nie poruszy. |
-| 5    | Capnięcie                 | Wybrany przedmiot w zasięgu wzroku zostaje teleportowany do twoich rąk. |
-| 6    | Chciwość                  | Wybrane stworzenie rozwija w sobie przemożną chęć posiadania wybranego przez ciebie widzialnego przedmiotu. |
-| 7    | Chmura mgły               | Chmura gęstej mgły rozprzestrzenia się z miejsca, w którym stoisz. |
-| 8    | Ciekłe powietrze          | Powietrze wokół ciebie staje się zdatne do pływania .        |
-| 9    | Czarodziejski znak        | Twój palec może wystrzelić strumień farby. Farba ta jest widoczna tylko dla ciebie i może być widziana z dowolnej odległości, nawet przez stałe obiekty. |
-| 10   | Czytanie w myślach        | Możesz usłyszeć powierzchowne myśli pobliskich stworzeń.     |
-| 11   | Demontaż                  | Każda część twojego ciała może być odłączona i ponownie przyłączona bez powodowania bólu lub uszkodzenia. Nadal możesz je kontrolować. |
-| 12   | Dół                       | W ziemi otwiera się dół szeroki na 3m i głęboki na 3m.       |
-| 13   | Dwór                      | Solidny, umeblowany domek pojawia się na kilka godzin. Możesz zezwolić lub zakazać wstępu do niego według własnego uznania. |
-| 14   | Elastyczność              | Twoje ciało może rozciągnąć się nawet do 3 metrów.           |
-| 15   | Flara                     | Jasna kula energii wystrzeliwuje w niebo smugę światła, ujawniając twoją lokalizację wrogowi lub przyjacielowi. |
-| 16   | Fobia                     | Pobliski stwór zaczyna bać się strasznie wybranego przez ciebie przedmiotu. |
-| 17   | Forma bestii              | Ty i twój dobytek zamieniacie się w zwykłe zwierzę.          |
-| 18   | Forma Dymu                | Twoje ciało staje się żywym dymem, który możesz kontrolować. |
-| 19   | Forma szlamu              | Stajesz się żywą galaretką.                                  |
-| 20   | Gadżet                    | Przed tobą pojawia się prymitywny rysunek narzędzia lub przedmiotu i znika po krótkim czasie. |
-| 21   | Gąszcz                    | Gąszcz drzew i gęstych zarośli o szerokości do 15 metrów nagle wyrasta spod ziemi. |
-| 22   | Głuchota                  | Wszystkie pobliskie stworzenia stają się głuche.             |
-| 23   | Hipnoza                   | Stwór wpada w trans i odpowiada zgodnie z prawdą na jedno pytanie, które mu zadasz. |
-| 24   | Identyfikacja właściciela | Nad obiektem, którego dotykasz, pojawiają się litery z nazwiskami jego właścicieli, jeśli tacy istnieją.. |
-| 25   | Iluzja słuchowa           | Tworzysz iluzoryczne dźwięki, które wydają się dochodzić z wybranego przez Ciebie kierunku. |
-| 26   | Iluzja wzrokowa           | Pojawia się cicha, nieruchoma iluzja wielkości pokoju.       |
-| 27   | Kontrola czasu            | W bańce o średnicy 15 metrów czas spowalnia lub wydłuża się o 10% przez 30 sekund.. |
-| 28   | Kontrola pogody           | Możesz dowolnie zmieniać rodzaj pogody, ale nie masz nad nią innej kontroli. |
-| 29   | Kontrola roślin           | Pobliskie rośliny i drzewa są ci posłuszne i zyskują zdolność do poruszania się w wolnym tempie. |
-| 30   | Kotwica                   | Z twoich ramion wyrasta mocny drut, który przyczepia się do dwóch punktów w promieniu 15 metrów po każdej stronie.. |
-| 31   | Krąg ochronny             | Na ziemi pojawia się srebrny okrąg o średnicy 15 metrów. Wybierz jeden gatunek, który nie może go przekroczyć. |
-| 32   | Krynica                   | Pojawia się źródło wody morskiej.                            |
-| 33   | Kulkowe szaleństwo        | Twoje kieszenie są pełne szklanych kulek i będą się napełniać co 30 sekund.. |
-| 34   | Kwiat przynęta            | Z ziemi wyrasta roślina, która emanuje zapachem rozkładającego się mięsa. |
-| 35   | Leczenie ran              | Przywraca 1k4 SIŁ dziennie stworzeniu, którego możesz dotknąć. |
-| 36   | Lodowaty dotyk            | Gruba warstwa lodu rozprzestrzenia się na dotkniętej powierzchni, w promieniu do 3 metrów. |
-| 37   | Lustrzany most            | Wybrane lustro staje się bramą do innego lustra, w które dziś spojrzałeś. |
-| 38   | Magiczna piła             | Wirujące ostrze wylatuje z twojej klatki piersiowej, usuwając wszelkie rośliny, które znajdą się na jego drodze. Poza tym jest nieszkodliwe. |
-| 39   | Magiczne oko              | Możesz spoglądać przez magiczną, unoszącą się w powietrzu gałkę oczną, która lata na twój rozkaz. |
-| 40   | Magiczny sześcian         | Raz na sekundę możesz przywołać lub odesłać sześcian ziemi o boku 1 metra. Nowe sześciany muszą się stykać z podłożem lub innymi sześcianami. |
-| 41   | Magiczny tłumik           | Wszystkie pobliskie efekty magiczne mają zmniejszoną skuteczność o połowę.. |
-| 42   | Magiczny wzrok            | Przenikasz wzrokiem przez wszystkie pobliskie iluzje.        |
-| 43   | Maskarada                 | Wygląd i głos twojej postaci stają się identyczne jak postaci, którą dotkniesz. |
-| 44   | Medium                    | Możesz spojrzeć oczami stworzenia, którego dotknąłeś dzisiaj. |
-| 45   | Miniaturyzacja            | Stworzenie, którego dotkniesz, zmniejsza się do rozmiarów myszy. |
-| 46   | Nienawiść                 | Wybrana istota rozwija głęboką nienawiść do innego stworzenia lub grupy i pragnie je zniszczyć. |
-| 47   | Niewidzialna uwięź        | Dwa obiekty znajdujące się w odległości 3m od siebie nie mogą być przesunięte o więcej niż 3 metry.. |
-| 48   | Nocna sfera               | Przed tobą pojawia się szeroka na 15 metrów kula ciemności przedstawiająca nocne niebo. |
-| 49   | Odbicie lustrzane         | Tworzysz iluzoryczną kopię siebie samej. Całkowicie kontrolujesz tę iluzję. |
-| 50   | Odpychanie                | Dwa obiekty są silnie odpychane magnetycznie od siebie w odległości 3 metrów. |
-| 51   | Ożywienie obiektu         | Wskazany obiekt wykonuje twoje polecenia najlepiej jak potrafi. |
-| 52   | Pajęcza wspinaczka        | Możesz wspinać się po powierzchniach jak pająk.              |
-| 53   | Pchanie/Ciągnięcie        | Obiekt dowolnej wielkości jest przyciągany bezpośrednio do ciebie lub odpychany bezpośrednio od ciebie z siłą jednego człowieka |
-| 54   | Pierwotna siła            | Wybrane stworzenie szybko ewoluuje w przyszłą wersję swojego gatunku. |
-| 55   | Podświetlenie             | Tworzysz lewitujące światło, które porusza się zgodnie z Twoją wolą. |
-| 56   | Przebranie                | Możesz dowolnie zmieniać wygląd jednej postaci, dopóki pozostaje ona humanoidalna. Próby kopiowania innych postaci będą wydawać się nierealne. |
-| 57   | Przemieszczenie           | Wybrany obiekt wydaje się znajdować w innym miejscu - do 5 metrów od swojego rzeczywistego położenia. |
-| 58   | Przenikające spojrzenie   | Możesz widzieć przez ściany, ziemię, ubrania itp.            |
-| 59   | Przyciągnięcie            | Dwa obiekty są silnie przyciągane magnetycznie, jeśli znajdą się w odległości 3 metrów od siebie.. |
-| 60   | Przylga                   | Wskazany obiekt zostaje pokryty wyjątkowo lepkim szlamem.    |
-| 61   | Przynęta                  | Przedmiot, którego dotkniesz, staje się celem dowolnego pobliskiego zaklęcia.. |
-| 62   | Przyśpieszenie            | Twoja prędkość ruchu jest potrojona.                         |
-| 63   | Przywołanie Idola         | Rzeźbiony kamienny posąg wielkości muła wynurza się z ziemi. |
-| 64   | Pukanie                   | Pobliski zamek lub kłódka, zwykły lub magiczny, otwiera się z głośnym trzaskiem. |
-| 65   | Rozkaz                    | Cel jest posłuszny jednemu trójwyrazowemu rozkazowi, który nie wyrządza mu krzywdy. |
-| 66   | Rój                       | Stajesz się rojem wron, szczurów lub piranii. Możesz zostać zraniony tylko przez ataki typu "Podmuch". |
-| 67   | Rzeźbienie żywiołów       | Materia nieożywiona zachowuje się w twoich rękach jak glina. |
-| 68   | Sen                       | Wybrana istota w zasięgu wzroku, zapada w lekki sen.         |
-| 69   | Sieć                      | Twoje nadgarstki strzelają grubą siecią.                     |
-| 70   | Skok                      | Skaczesz na wysokość do 3 metrów, raz.                       |
-| 71   | Sortowanie                | Przedmioty nieożywione porządkują się zgodnie z ustawionymi przez Ciebie kategoriami. |
-| 72   | Strumień piany            | Gęsta piana tryska Ci z dłoni, pokrywając cel.               |
-| 73   | Szał                      | Wybrane stworzenie w pobliżu wpada w morderczy szał..        |
-| 74   | Czuły słuch               | Doskonale słyszysz nawet słabe dźwięki.                      |
-| 75   | Ściana żywiołów           | Z ziemi wyrasta prosta ściana lodu lub ognia o długości 15 metrów i wysokości 3 metrów.. |
-| 76   | Ślizgawka                 | Każda powierzchnia w promieniu 9 metrów staje się niezwykle śliska. |
-| 77   | Tarcza                    | Istota, którą dotkniesz, jest chroniona przed zwyczajnymi atakami przez jedną minutę. |
-| 78   | Tasowanie                 | Dwie istoty w zasięgu wzroku, natychmiast zamieniają się miejscami. |
-| 79   | Telekineza                | Możesz mentalnie przenieść 1 przedmiot poniżej 27 kg..       |
-| 80   | Telepatia                 | Dwie istoty mogą słyszeć nawzajem swoje myśli, bez względu na to, jak daleko są od siebie. |
-| 81   | Teleportacja              | Przedmiot lub osoba, którą widzisz jest przenoszona z jednego miejsca do drugiego w promieniu 15 metrów.. |
-| 82   | Trzęsienie ziemi          | Ziemia zaczyna się gwałtownie trząść. Budynki mogą zostać uszkodzone lub się zawalić. |
-| 83   | Uprzedmiotowienie         | Stajesz się dowolnym obiektem nieożywionym o rozmiarach od fortepianu do jabłka. |
-| 84   | Urok                      | Wybrane stworzenie w zasięgu wzroku, traktuje Cię jak przyjaciela. |
-| 85   | Uspokojenie               | Wybrana istota w pobliżu ma awersję do przemocy.             |
-| 86   | Węszenie                  | Możesz wyczuć nawet najsłabsze ślady zapachów.               |
-| 87   | Widowisko                 | Na twój rozkaz pojawia się wyraźnie fałszywa, ale imponująca iluzja, którą wybierzesz. Może być wielkości pałacu i posiada pełny ruch i dźwięk. W pełni ją kontrolujesz. |
-| 88   | Wieloramienny             | Tymczasowo zyskujesz dodatkowe ramię.                        |
-| 89   | Więzienie Astralne        | Wskazany przedmiot zostaje zamrożony w czasie i przestrzeni w nietykalnej kryształowej powłoce.. |
-| 90   | Wizja                     | Całkowicie kontrolujesz to, co widzi dane stworzenie.        |
-| 91   | Wskrzeszenie              | Możesz ożywić pobliski szkielet, aby Ci służył. Ożywieńcy są niewiarygodnie głupi i mogą wykonywać tylko proste rozkazy. |
-| 92   | Wyczucie                  | Wybierz jeden rodzaj przedmiotu (klucz, złoto, strzałka, dzban, itp.). Możesz wyczuć najbliższy egzemplarz. |
-| 93   | Wygaszenie                | Każde zwykłe źródło światła, które możesz zobaczyć, zostaje natychmiast zgaszone. |
-| 94   | Wykrywanie magii          | Możesz zobaczyć lub usłyszeć pobliskie magiczne aury.        |
-| 95   | Wywołanie ducha           | Możesz wywołać ducha pobliskich zwłok, który odpowie na jedno pytanie. |
-| 96   | Zamiana ciał              | Zamieniasz ciała ze stworem, którego dotykasz Jeśli jedno ciało umrze, drugie również umrze. |
-| 97   | Zamroczenie               | Wybrana przez ciebie istota nie jest w stanie tworzyć nowych krótkotrwałych wspomnień na czas trwania zaklęcia. |
-| 98   | Zawieszenie               | Wybrany obiekt unosi się, bez tarcia, pół metra nad ziemią. Może pomieścić do jednego humanoida. |
-| 99   | Zmiana grawitacji         | Możesz zmienić kierunek grawitacji, ale tylko dla siebie.    |
-| 100  | Zrozumienie               | Przez krótki czas stajesz się biegły we wszystkich obcych językach. |
+|     |                           |                                                                                                                                                                          |
+| --- | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1   | Antropomorfizacja         | Wskazane zwierzę zyskuje na jeden dzień ludzką inteligencję lub ludzki wygląd.                                                                                           |
+| 2   | Bełkot                    | Wskazane stworzenie musi głośno i wyraźnie powtarzać wszystko, co myślisz. W przeciwnym razie jest nieme.                                                                |
+| 3   | Brama                     | Otwierasz portal do losowego wymiaru.                                                                                                                                    |
+| 4   | Całun                     | Istota, którą dotkniesz, jest niewidzialna, dopóki się nie poruszy.                                                                                                      |
+| 5   | Capnięcie                 | Wybrany przedmiot w zasięgu wzroku zostaje teleportowany do twoich rąk.                                                                                                  |
+| 6   | Chciwość                  | Wybrane stworzenie rozwija w sobie przemożną chęć posiadania wybranego przez ciebie widzialnego przedmiotu.                                                              |
+| 7   | Chmura mgły               | Chmura gęstej mgły rozprzestrzenia się z miejsca, w którym stoisz.                                                                                                       |
+| 8   | Ciekłe powietrze          | Powietrze wokół ciebie staje się zdatne do pływania .                                                                                                                    |
+| 9   | Czarodziejski znak        | Twój palec może wystrzelić strumień farby. Farba ta jest widoczna tylko dla ciebie i może być widziana z dowolnej odległości, nawet przez stałe obiekty.                 |
+| 10  | Czytanie w myślach        | Możesz usłyszeć powierzchowne myśli pobliskich stworzeń.                                                                                                                 |
+| 11  | Demontaż                  | Każda część twojego ciała może być odłączona i ponownie przyłączona bez powodowania bólu lub uszkodzenia. Nadal możesz je kontrolować.                                   |
+| 12  | Dół                       | W ziemi otwiera się dół szeroki na 3m i głęboki na 3m.                                                                                                                   |
+| 13  | Dwór                      | Solidny, umeblowany domek pojawia się na kilka godzin. Możesz zezwolić lub zakazać wstępu do niego według własnego uznania.                                              |
+| 14  | Elastyczność              | Twoje ciało może rozciągnąć się nawet do 3 metrów.                                                                                                                       |
+| 15  | Flara                     | Jasna kula energii wystrzeliwuje w niebo smugę światła, ujawniając twoją lokalizację wrogowi lub przyjacielowi.                                                          |
+| 16  | Fobia                     | Pobliski stwór zaczyna bać się strasznie wybranego przez ciebie przedmiotu.                                                                                              |
+| 17  | Forma bestii              | Ty i twój dobytek zamieniacie się w zwykłe zwierzę.                                                                                                                      |
+| 18  | Forma Dymu                | Twoje ciało staje się żywym dymem, który możesz kontrolować.                                                                                                             |
+| 19  | Forma szlamu              | Stajesz się żywą galaretką.                                                                                                                                              |
+| 20  | Gadżet                    | Przed tobą pojawia się prymitywny rysunek narzędzia lub przedmiotu i znika po krótkim czasie.                                                                            |
+| 21  | Gąszcz                    | Gąszcz drzew i gęstych zarośli o szerokości do 15 metrów nagle wyrasta spod ziemi.                                                                                       |
+| 22  | Głuchota                  | Wszystkie pobliskie stworzenia stają się głuche.                                                                                                                         |
+| 23  | Hipnoza                   | Stwór wpada w trans i odpowiada zgodnie z prawdą na jedno pytanie, które mu zadasz.                                                                                      |
+| 24  | Identyfikacja właściciela | Nad obiektem, którego dotykasz, pojawiają się litery z nazwiskami jego właścicieli, jeśli tacy istnieją..                                                                |
+| 25  | Iluzja słuchowa           | Tworzysz iluzoryczne dźwięki, które wydają się dochodzić z wybranego przez Ciebie kierunku.                                                                              |
+| 26  | Iluzja wzrokowa           | Pojawia się cicha, nieruchoma iluzja wielkości pokoju.                                                                                                                   |
+| 27  | Kontrola czasu            | W bańce o średnicy 15 metrów czas spowalnia lub wydłuża się o 10% przez 30 sekund..                                                                                      |
+| 28  | Kontrola pogody           | Możesz dowolnie zmieniać rodzaj pogody, ale nie masz nad nią innej kontroli.                                                                                             |
+| 29  | Kontrola roślin           | Pobliskie rośliny i drzewa są ci posłuszne i zyskują zdolność do poruszania się w wolnym tempie.                                                                         |
+| 30  | Kotwica                   | Z twoich ramion wyrasta mocny drut, który przyczepia się do dwóch punktów w promieniu 15 metrów po każdej stronie..                                                      |
+| 31  | Krąg ochronny             | Na ziemi pojawia się srebrny okrąg o średnicy 15 metrów. Wybierz jeden gatunek, który nie może go przekroczyć.                                                           |
+| 32  | Krynica                   | Pojawia się źródło wody morskiej.                                                                                                                                        |
+| 33  | Kulkowe szaleństwo        | Twoje kieszenie są pełne szklanych kulek i będą się napełniać co 30 sekund..                                                                                             |
+| 34  | Kwiat przynęta            | Z ziemi wyrasta roślina, która emanuje zapachem rozkładającego się mięsa.                                                                                                |
+| 35  | Leczenie ran              | Przywraca 1k4 SIŁ dziennie stworzeniu, którego możesz dotknąć.                                                                                                           |
+| 36  | Lodowaty dotyk            | Gruba warstwa lodu rozprzestrzenia się na dotkniętej powierzchni, w promieniu do 3 metrów.                                                                               |
+| 37  | Lustrzany most            | Wybrane lustro staje się bramą do innego lustra, w które dziś spojrzałeś.                                                                                                |
+| 38  | Magiczna piła             | Wirujące ostrze wylatuje z twojej klatki piersiowej, usuwając wszelkie rośliny, które znajdą się na jego drodze. Poza tym jest nieszkodliwe.                             |
+| 39  | Magiczne oko              | Możesz spoglądać przez magiczną, unoszącą się w powietrzu gałkę oczną, która lata na twój rozkaz.                                                                        |
+| 40  | Magiczny sześcian         | Raz na sekundę możesz przywołać lub odesłać sześcian ziemi o boku 1 metra. Nowe sześciany muszą się stykać z podłożem lub innymi sześcianami.                            |
+| 41  | Magiczny tłumik           | Wszystkie pobliskie efekty magiczne mają zmniejszoną skuteczność o połowę..                                                                                              |
+| 42  | Magiczny wzrok            | Przenikasz wzrokiem przez wszystkie pobliskie iluzje.                                                                                                                    |
+| 43  | Maskarada                 | Wygląd i głos twojej postaci stają się identyczne jak postaci, którą dotkniesz.                                                                                          |
+| 44  | Medium                    | Możesz spojrzeć oczami stworzenia, którego dotknąłeś dzisiaj.                                                                                                            |
+| 45  | Miniaturyzacja            | Stworzenie, którego dotkniesz, zmniejsza się do rozmiarów myszy.                                                                                                         |
+| 46  | Nienawiść                 | Wybrana istota rozwija głęboką nienawiść do innego stworzenia lub grupy i pragnie je zniszczyć.                                                                          |
+| 47  | Niewidzialna uwięź        | Dwa obiekty znajdujące się w odległości 3m od siebie nie mogą być przesunięte o więcej niż 3 metry..                                                                     |
+| 48  | Nocna sfera               | Przed tobą pojawia się szeroka na 15 metrów kula ciemności przedstawiająca nocne niebo.                                                                                  |
+| 49  | Odbicie lustrzane         | Tworzysz iluzoryczną kopię siebie samej. Całkowicie kontrolujesz tę iluzję.                                                                                              |
+| 50  | Odpychanie                | Dwa obiekty są silnie odpychane magnetycznie od siebie w odległości 3 metrów.                                                                                            |
+| 51  | Ożywienie obiektu         | Wskazany obiekt wykonuje twoje polecenia najlepiej jak potrafi.                                                                                                          |
+| 52  | Pajęcza wspinaczka        | Możesz wspinać się po powierzchniach jak pająk.                                                                                                                          |
+| 53  | Pchanie/Ciągnięcie        | Obiekt dowolnej wielkości jest przyciągany bezpośrednio do ciebie lub odpychany bezpośrednio od ciebie z siłą jednego człowieka                                          |
+| 54  | Pierwotna siła            | Wybrane stworzenie szybko ewoluuje w przyszłą wersję swojego gatunku.                                                                                                    |
+| 55  | Podświetlenie             | Tworzysz lewitujące światło, które porusza się zgodnie z Twoją wolą.                                                                                                     |
+| 56  | Przebranie                | Możesz dowolnie zmieniać wygląd jednej postaci, dopóki pozostaje ona humanoidalna. Próby kopiowania innych postaci będą wydawać się nierealne.                           |
+| 57  | Przemieszczenie           | Wybrany obiekt wydaje się znajdować w innym miejscu - do 5 metrów od swojego rzeczywistego położenia.                                                                    |
+| 58  | Przenikające spojrzenie   | Możesz widzieć przez ściany, ziemię, ubrania itp.                                                                                                                        |
+| 59  | Przyciągnięcie            | Dwa obiekty są silnie przyciągane magnetycznie, jeśli znajdą się w odległości 3 metrów od siebie..                                                                       |
+| 60  | Przylga                   | Wskazany obiekt zostaje pokryty wyjątkowo lepkim szlamem.                                                                                                                |
+| 61  | Przynęta                  | Przedmiot, którego dotkniesz, staje się celem dowolnego pobliskiego zaklęcia..                                                                                           |
+| 62  | Przyśpieszenie            | Twoja prędkość ruchu jest potrojona.                                                                                                                                     |
+| 63  | Przywołanie Idola         | Rzeźbiony kamienny posąg wielkości muła wynurza się z ziemi.                                                                                                             |
+| 64  | Pukanie                   | Pobliski zamek lub kłódka, zwykły lub magiczny, otwiera się z głośnym trzaskiem.                                                                                         |
+| 65  | Rozkaz                    | Cel jest posłuszny jednemu trójwyrazowemu rozkazowi, który nie wyrządza mu krzywdy.                                                                                      |
+| 66  | Rój                       | Stajesz się rojem wron, szczurów lub piranii. Możesz zostać zraniony tylko przez ataki typu "Podmuch".                                                                   |
+| 67  | Rzeźbienie żywiołów       | Materia nieożywiona zachowuje się w twoich rękach jak glina.                                                                                                             |
+| 68  | Sen                       | Wybrana istota w zasięgu wzroku, zapada w lekki sen.                                                                                                                     |
+| 69  | Sieć                      | Twoje nadgarstki strzelają grubą siecią.                                                                                                                                 |
+| 70  | Skok                      | Skaczesz na wysokość do 3 metrów, raz.                                                                                                                                   |
+| 71  | Sortowanie                | Przedmioty nieożywione porządkują się zgodnie z ustawionymi przez Ciebie kategoriami.                                                                                    |
+| 72  | Strumień piany            | Gęsta piana tryska Ci z dłoni, pokrywając cel.                                                                                                                           |
+| 73  | Szał                      | Wybrane stworzenie w pobliżu wpada w morderczy szał..                                                                                                                    |
+| 74  | Czuły słuch               | Doskonale słyszysz nawet słabe dźwięki.                                                                                                                                  |
+| 75  | Ściana żywiołów           | Z ziemi wyrasta prosta ściana lodu lub ognia o długości 15 metrów i wysokości 3 metrów..                                                                                 |
+| 76  | Ślizgawka                 | Każda powierzchnia w promieniu 9 metrów staje się niezwykle śliska.                                                                                                      |
+| 77  | Tarcza                    | Istota, którą dotkniesz, jest chroniona przed zwyczajnymi atakami przez jedną minutę.                                                                                    |
+| 78  | Tasowanie                 | Dwie istoty w zasięgu wzroku, natychmiast zamieniają się miejscami.                                                                                                      |
+| 79  | Telekineza                | Możesz mentalnie przenieść 1 przedmiot poniżej 27 kg..                                                                                                                   |
+| 80  | Telepatia                 | Dwie istoty mogą słyszeć nawzajem swoje myśli, bez względu na to, jak daleko są od siebie.                                                                               |
+| 81  | Teleportacja              | Przedmiot lub osoba, którą widzisz jest przenoszona z jednego miejsca do drugiego w promieniu 15 metrów..                                                                |
+| 82  | Trzęsienie ziemi          | Ziemia zaczyna się gwałtownie trząść. Budynki mogą zostać uszkodzone lub się zawalić.                                                                                    |
+| 83  | Uprzedmiotowienie         | Stajesz się dowolnym obiektem nieożywionym o rozmiarach od fortepianu do jabłka.                                                                                         |
+| 84  | Urok                      | Wybrane stworzenie w zasięgu wzroku, traktuje Cię jak przyjaciela.                                                                                                       |
+| 85  | Uspokojenie               | Wybrana istota w pobliżu ma awersję do przemocy.                                                                                                                         |
+| 86  | Węszenie                  | Możesz wyczuć nawet najsłabsze ślady zapachów.                                                                                                                           |
+| 87  | Widowisko                 | Na twój rozkaz pojawia się wyraźnie fałszywa, ale imponująca iluzja, którą wybierzesz. Może być wielkości pałacu i posiada pełny ruch i dźwięk. W pełni ją kontrolujesz. |
+| 88  | Wieloramienny             | Tymczasowo zyskujesz dodatkowe ramię.                                                                                                                                    |
+| 89  | Więzienie Astralne        | Wskazany przedmiot zostaje zamrożony w czasie i przestrzeni w nietykalnej kryształowej powłoce..                                                                         |
+| 90  | Wizja                     | Całkowicie kontrolujesz to, co widzi dane stworzenie.                                                                                                                    |
+| 91  | Wskrzeszenie              | Możesz ożywić pobliski szkielet, aby Ci służył. Ożywieńcy są niewiarygodnie głupi i mogą wykonywać tylko proste rozkazy.                                                 |
+| 92  | Wyczucie                  | Wybierz jeden rodzaj przedmiotu (klucz, złoto, strzałka, dzban, itp.). Możesz wyczuć najbliższy egzemplarz.                                                              |
+| 93  | Wygaszenie                | Każde zwykłe źródło światła, które możesz zobaczyć, zostaje natychmiast zgaszone.                                                                                        |
+| 94  | Wykrywanie magii          | Możesz zobaczyć lub usłyszeć pobliskie magiczne aury.                                                                                                                    |
+| 95  | Wywołanie ducha           | Możesz wywołać ducha pobliskich zwłok, który odpowie na jedno pytanie.                                                                                                   |
+| 96  | Zamiana ciał              | Zamieniasz ciała ze stworem, którego dotykasz Jeśli jedno ciało umrze, drugie również umrze.                                                                             |
+| 97  | Zamroczenie               | Wybrana przez ciebie istota nie jest w stanie tworzyć nowych krótkotrwałych wspomnień na czas trwania zaklęcia.                                                          |
+| 98  | Zawieszenie               | Wybrany obiekt unosi się, bez tarcia, pół metra nad ziemią. Może pomieścić do jednego humanoida.                                                                         |
+| 99  | Zmiana grawitacji         | Możesz zmienić kierunek grawitacji, ale tylko dla siebie.                                                                                                                |
+| 100 | Zrozumienie               | Przez krótki czas stajesz się biegły we wszystkich obcych językach.                                                                                                      |
 
 
-[powrót do indeksu](#index)
-
+[powrót do indeksu](#indeks)
 <p></p>
 
 # Podsumowanie zasad
@@ -1027,4 +1020,4 @@ Obrażenia, które zmniejszają OCHR celu **poniżej** 0 obniżają jego SIŁ o 
 
 SIŁ na poziomie 0 oznacza **śmierć**; ZRE na poziomie 0 to paraliż; jeśli twoja WOL wynosi 0 - majaczysz.
 
-[powrót do indeksu](#index)
+[powrót do indeksu](#indeks)
