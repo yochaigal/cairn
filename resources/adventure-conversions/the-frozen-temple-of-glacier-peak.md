@@ -85,5 +85,4 @@ Abilities were kept as-is (highest) but you are free to reroll abilities and HP.
 - Critical Damage: target is _deprived_ & poisoned losing 1 STR every 6 hours until cured.  
 
 ### Cave Harpy
-HD: 2 AD: 12 ATT: 1 Bite 1d6 1
-Claw 1d4 ML: 5 SP: 50’
+5 HP, 11 STR, 15 DEX, WIL 8, bite & claw (d6+d6)
