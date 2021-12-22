@@ -2,8 +2,6 @@
 layout: default
 parent: Adventure Conversions
 grand_parent: Resources
-search_exclude: true
-nav_exclude: true
 title: The Frozen Temple of Glacier Peak
 ---
 
@@ -11,6 +9,16 @@ title: The Frozen Temple of Glacier Peak
 
 - Converted from the original adventure by [Robin Fjärem](https://ialath.itch.io/).
 - Buy in [PDF](https://ialath.itch.io/frozen-temple-of-glacier-peak) or in [print](https://www.exaltedfuneral.com/collections/store-exclusive/products/the-frozen-temple-of-glacier-peak).
+- If not noted in this document, use the text as-is (example: currency, most items).
+- If damage is noted, it is usually taken from **STR** (or possibly **DEX**), not HP.
+- For any saves involving **CON** use **STR** instead.
+- Most Spells should be treated as spellbooks that require no roll to cast; targets typically do not dodge, with the exception of _Spring Scream_ (WIL to avoid effects).
+
+## Items
+- The "Magical sword with a hilt made of white bone" from "In the Sack" (**#17**): Melee attacks against the holder are _impaired_.
+- The adamntine longsword in **#28** is unbreakable and does 1d10 damage.
+- Mining tools in **#28** are _bulky_.
+- Treasure table in **#32**: Master-crafted longbow (d8+d8, bulky), The Decapitator (d10, bulky, CD: head comes off).
 
 ## Pre-Generated Characters
 Abilities were kept as-is (highest) but you are free to reroll abilities and HP.
