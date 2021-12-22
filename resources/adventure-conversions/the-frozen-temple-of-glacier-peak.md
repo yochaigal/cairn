@@ -89,8 +89,29 @@ Abilities were kept as-is (highest) but you are free to reroll abilities and HP.
 
 ### Frost Smilodon
 7 HP, 12 STR, 14 DEX, 4 WIL, claw (d6+d6), bite (d8), _icy roar_ (_blast_)
-- **Icy Roar**: targets are covered in a layer of ice. Future attacks are impaired and DEX saves automatically fail.
-- Fire damage is _enhanced_ against them.
+- **Icy Roar**: targets are covered in a layer of ice. Future attacks are _impaired_ and DEX saves automatically fail.
+- Fire damage is _enhanced_ against it.
 
 ### Giant Dragonfly
-1 Armor, 3 HP, 11 STR, 15 DEX, 4 WIL, bite (d6)
+1 Armor, 3 HP, 8 STR, 15 DEX, 4 WIL, bite (d6)
+
+### Giant Frost Centipede
+3 HP, 9 STR, 9 DEX, 4 WIL, _freezing bite_ (1d4)
+- Critical damage: target becomes frozen. For the next hour attacks are _impaired_ and DEX saves automatically fail.
+- Fire damage is _enhanced_ against it.
+
+### Grey Dwarf
+1 Armor, 6 HP, 13 STR, 11 DEX, 14 WIL, axe (d8)
+
+### Gulon
+HD: 3 AD: 13 ATT: 1 Bite 1d8 1
+Claw 1d6 ML: 6 SP: 40’
+
+### Lantern Man
+HD: 1 AD: 11 ATT: 1 Mesmerize
+(Special) ML: 5 SP: 50’
+
+### Lindwurm
+HD: 8 AD: 16 ATT: 1 Bite 2d10 2
+Claws 1d6 1 Acid Spit 2d6
+(Special) ML: 9 SP: 30’
