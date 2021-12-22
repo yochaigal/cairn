@@ -97,21 +97,18 @@ Abilities were kept as-is (highest) but you are free to reroll abilities and HP.
 
 ### Giant Frost Centipede
 3 HP, 9 STR, 9 DEX, 4 WIL, _freezing bite_ (1d4)
-- Critical damage: target becomes frozen. For the next hour attacks are _impaired_ and DEX saves automatically fail.
+- Targets are partially frozen; attacks are _impaired_ and DEX saves automatically fail.
 - Fire damage is _enhanced_ against it.
 
 ### Grey Dwarf
 1 Armor, 6 HP, 13 STR, 11 DEX, 14 WIL, axe (d8)
 
 ### Gulon
-HD: 3 AD: 13 ATT: 1 Bite 1d8 1
-Claw 1d6 ML: 6 SP: 40’
+1 Armor, 6 HP, 12 STR, 13 DEX, 11 WIL, bite (d8), claw (d6)
 
 ### Lantern Man
-HD: 1 AD: 11 ATT: 1 Mesmerize
-(Special) ML: 5 SP: 50’
+4 HP,11 STR, 15 DEX, 4 WIL
+- Lantern: targets must make a WIL save or become mesmerized for 20 minutes.   
 
 ### Lindwurm
-HD: 8 AD: 16 ATT: 1 Bite 2d10 2
-Claws 1d6 1 Acid Spit 2d6
-(Special) ML: 9 SP: 30’
+16 HP, 12 STR, 11 DEX, 14 WIL, bite (d12), acid spit (d8, ignores armor, _blast_), claws (1d6)
