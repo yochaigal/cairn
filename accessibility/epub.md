@@ -15,4 +15,4 @@ nav_exclude: true
 
 # Downloads
 - You can grab a copy of the regular epub [here](/accessibility/Cairn.epub).
-- Download the [user-font verson]([here](/accessibility/Cairn-user-body-font.epub)) if you'd like to customize the body text.
+- Download the [user-font version](/accessibility/Cairn-user-body-font.epub) if you'd like to customize the body text.
