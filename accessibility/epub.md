@@ -14,5 +14,5 @@ nav_exclude: true
 - See [this list](https://github.com/readium/awesome-readium) of desktop & mobile apps as well.
 
 # Downloads
-- You can grab a copy of the regular epub [here](/accessibility/cairn.epub).
-- Download the [user-font verson]([here](/accessibility/cairn.epub)) if you'd like to customize the body text.
+- You can grab a copy of the regular epub [here](/accessibility/Cairn.epub).
+- Download the [user-font verson]([here](/accessibility/Cairn-user-body-font.epub)) if you'd like to customize the body text.
