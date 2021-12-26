@@ -38,6 +38,7 @@ The following is a list of planned conversions. If you'd like to help out, pick 
 * [Into the Wyrd and Wild](https://www.drivethrurpg.com/product/274922/Into-the-Wyrd-and-Wild-Revised-Edition)
 * [Lorn Song of the Bachelor](https://www.drivethrurpg.com/product/295976/Lorn-Song-of-the-Bachelor)
 * [Neverland](https://www.drivethrurpg.com/product/331102/Neverland-A-Fantasy-RolePlaying-Setting)
+* [Nightroot Maze](https://greerrrr.itch.io/nightroot-maze)
 * [Night Land](https://www.drivethrurpg.com/product/364204/Night-Land)
 * [Night Yeast](https://nightyeast.bigcartel.com/)
 * [Ominous Crypt of the Blood Moss](https://www.drivethrurpg.com/product/319604/Ominous-Crypt-of-the-Blood-Moss)
