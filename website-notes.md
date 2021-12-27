@@ -12,6 +12,6 @@ nav_exclude: true
 sed -i '/^author/d' /tmp/monsters/*.md
 sed -i '/^source:/d' /tmp/monsters/*.md
 sed -i '1 { /^---/ { :a N; /\n---/! ba; d} }' /tmp/monsters/*.md
-pandoc /tmp/monsters/*.md -f commonmark -o /home/yochai/Google\ Drive/Games/OSR/Into\ The\ Odd/hacks/Cairn/Monsters/monsters.pdf
+pandoc -f gfm --toc -s /tmp/monsters/*.md -o /home/yochai/Google\ Drive/Games/OSR/Into\ The\ Odd/hacks/Cairn/Monsters/cairn-monsters.pdf
 rm -rf /tmp/monsters
 ````
