@@ -2,7 +2,6 @@
 layout: default
 title: Epub
 nav_order: 2
-nav_exclude: true
 ---
 
 # Epub
