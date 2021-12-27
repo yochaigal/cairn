@@ -2,6 +2,7 @@
 layout: default
 title: Read Aloud
 nav_order: 1
+parent: Accessibility
 nav_exclude: true
 ---
 
