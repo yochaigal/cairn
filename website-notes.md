@@ -11,4 +11,5 @@ nav_exclude: true
 ```rsync -av cairn/resources/monsters/ --exclude=all-monsters.md ~/Downloads/```
 ```sed -i '/^author/d' *.md```
 ```sed -i '/^source:/d' *.md```
+```sed -i '1 { /^---/ { :a N; /\n---/! ba; d} }' *.md```
 ```pandoc *.md -o monsters.pdf```
