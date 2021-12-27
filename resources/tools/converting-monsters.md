@@ -16,7 +16,7 @@ Review the instructions in the [SRD](https://cairnrpg.com/cairn-srd/#creating-mo
 - OSE (or B/X) has really great stat blocks that can be easily truncated for quick conversion.
 - **HD** conversion is usually the hardest to grok. Convert _first_ **HP**, _then_ **STR**. You might use a creature's original **HD** twice during a conversion or not at all depending on the level of detail in the stat block.
 - Dungeon World has some great monster "moves" that translate to Critical Damage quite nicely, so looking for an equivalent creature in that system can really help! See this example [here](http://codex.dungeon-world.com/monster/5698559156420608).
-- Sometimes a direct stat to stat translation isn't an option. That's OK! There is a [way](/resources/tools/converting-monsters/#use-the-fiction))!
+- Sometimes a direct stat to stat translation isn't an option. That's OK! There is a [way](/resources/tools/converting-monsters/#use-the-fiction)!
 
 ### Health, Armor & Abilities
 - **Hit Protection** is _not_ health. It's the creature's ability to avoid danger, whether through toughness, speed, or skill. If the PCs will have a tough time landing a blow that actually causes damage, the creature has high **HP**. A good rule of thumb is to give the creature +1 HP for every **HD**, on top of a minimum **3 HP** (the average person). I usually think of **HD** as equivalent to a d6, which has a _mean_ of 3.5.
