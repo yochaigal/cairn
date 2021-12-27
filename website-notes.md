@@ -12,6 +12,6 @@ nav_exclude: true
 sed -i '/^author/d' /tmp/monsters/*.md
 sed -i '/^source:/d' /tmp/monsters/*.md
 sed -i '1 { /^---/ { :a N; /\n---/! ba; d} }' /tmp/monsters/*.md
-pandoc -f gfm --toc -s /tmp/monsters/*.md -o /home/yochai/Google\ Drive/Games/OSR/Into\ The\ Odd/hacks/Cairn/Monsters/cairn-monsters.pdf
+pandoc --variable mainfont=Alegreya --variable sansfont=Alegreya --variable monofont=Alegreya  --variable title="Cairn Monsters" -f gfm --toc -s /tmp/monsters/*.md -o monsters.pdf
 rm -rf /tmp/monsters
 ````
