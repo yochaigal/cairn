@@ -3,6 +3,7 @@ layout: default
 title: Future Adventure Conversions
 parent: Adventure Conversions
 grand_parent: Resources
+nav_order: 100
 ---
 
 # Future Adventure Conversions
@@ -55,7 +56,6 @@ The following is a list of planned conversions. If you'd like to help out, pick 
 * [The Evils of Illmire](https://www.spellswordstudios.com/posts/the-evils-of-illmire-mini-mega-hex-crawl-adventure)
 * [The Gardens of Ynn](https://www.drivethrurpg.com/product/237544/The-Gardens-Of-Ynn)
 * [The Halls of Arden Vul](https://www.drivethrurpg.com/product/307320/The-Halls-of-Arden-Vul-Complete)
-* [The Hole in the Oak](https://www.drivethrurpg.com/product/284852/The-Hole-in-the-Oak)
 * [The Keep on the Borderlands](https://www.drivethrurpg.com/product/17158/B2-The-Keep-on-the-Borderlands-Basic)
 * [The Lapis Observatory](https://shop.swordfishislands.com/the-lapis-observatory/)
 * [The Library Beneath the Sands](https://brick-road.itch.io/the-library-beneath-the-sands)
