@@ -84,3 +84,12 @@ The following is a list of Relics from all over the web, copied with permission.
 - You can always look into Mirror Mirror to see the current reflection in any mundane mirror it remembers.
 - For one charge, you may reach through Mirror Mirror and out of any mundane mirror it remembers; as little as a limb, or as much as your whole body. When you withdraw your limb or emerge from another mirror, Mirror Mirror cracks down the middle, and a faint after-image of your person is etched into all other mirrors in Mirror Mirror's memory as it forgets them, one by one.
 - **Recharge**: locate every mirror etched with your after-image and thoroughly scratch out your face until it is unrecognizable. Sleep with Mirror Mirror under your head, and survive the onslaught of shattered reflection-selves that swarm you in your dreams, and you will find it healed and whole when you wake.
+
+#### Dowsing Rod, 1 charge.
+- Pick a general type of object or material. The rod indicates distance, direction and quantity to nearest match.
+- **Recharge**: Expose to lightning or powerful electricity.
+
+#### Snakeskin Boon, 1 charge.
+- Over the course of several hours, you can painfully shed your skin, losing 1d4 STR.
+- After this time, you reveal a new skin, broadly the same as your previous, but with new features, seen or imagined.
+- **Recharge**: Devour every scrap of the skin of a giant snake.
