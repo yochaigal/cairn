@@ -23,4 +23,6 @@ Although the Cairn rules exist in many forms (PDF, Google Docs, Word, etc), the 
 
 4. Translate the other pages in the repo (readme, resources, etc).
 
-4. When building the Affinity files, add "**Lang** Version" to the cover.
+5. When building the Affinity files, add "**Lang** Version" to the cover.
+
+6. If you would like a subdomain (e.g. lan.cairnrpg.com) let Yochai know!  
