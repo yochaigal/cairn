@@ -50,13 +50,12 @@ The following is a list of Relics from all over the web, copied with permission.
 - **Shield of Magnetism**, 5 charges. When a metal weapon is blocked with this shield, the weapon gets stuck to the shield. **Recharge**: The shield must be hit with a direct lightning strike.
 - **Rock Shovel**, 1 charge. Shovels solid rock like it would be dirt. **Recharge**: Spend 1 hour shoveling dirt in the rain.
 
-### From [Xenio](https://xenioinabottle.blogspot.com)
+### From The NSR Discord
 - **Sword of the Holy Knight** (d6), d6 charges: When attacking an undead enemy with this silver sword, you can expend one charge to ignore HP and deal damage directly to STR. **Recharge**: Bathe in holy water and let dry completely in the morning sun.
 - **Cloak of Displacement**, 3 charges: A shadowy cloak that moves gently even when there’s no wind, the fabric is perfectly smooth, as if made of pure night. When suffering combat damage, you can spend one charge to ignore that damage. **Recharge**: Leave it under the open sky for the entirety of a moonless night.
 - **Bracers of Strength**, d6 charges: A pair of copper bracers long enough to cover the most of the wearer’s forearms. While wearing these bracers you can expend one charge to automatically succeed in a STR save. You must do so before rolling the dice. **Recharge**: Defeat a foe stronger than you in combat.
 - **Necklace of Fireballs**, 1 charge: A necklace with a small ruby dangling from it. It can be thrown, summing a burst of flames in the area around where it landed, dealing d8+d8 damage to all caught. **Recharge**: Leave it in a raging bonfire until the flames end naturally.
 
-### From The NSR Discord
 #### Murder Minion, dagger, d6 damage. 1 charge.
 - Mortally wounding it's victim, traps them inside the blade.
 - Pressing the mouse skull on the handle frees them to do the bidding of the wielder before they perish.
