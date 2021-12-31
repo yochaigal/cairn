@@ -12,8 +12,6 @@ nav_order: 4
 - The bearer is invulnerable to harm but unable to move while contained in the prison.
 - Recharge Last Breath by feeding it the souls it needs to build the prison.
 
-
-
 ## Third-Party
 The following is a list of Relics from all over the web, copied with permission.
 
@@ -47,3 +45,9 @@ The following is a list of Relics from all over the web, copied with permission.
 - **Cloak of Displacement**, 3 charges: A shadowy cloak that moves gently even when there’s no wind, the fabric is perfectly smooth, as if made of pure night. When suffering combat damage, you can spend one charge to ignore that damage. Recharge: Leave it under the open sky for the entirety of a moonless night.
 - **Bracers of Strength**, d6 charges: A pair of copper bracers long enough to cover the most of the wearer’s forearms. While wearing these bracers you can expend one charge to automatically succeed in a STR save. You must do so before rolling the dice. Recharge: Defeat a foe stronger than you in combat.
 - **Necklace of Fireballs**, 1 charge: A necklace with a small ruby dangling from it. It can be thrown, summing a burst of flames in the area around where it landed, dealing d8+d8 damage to all caught. Recharge: Leave it in a raging bonfire until the flames end naturally.
+
+### From The NSR Discord
+#### Murder Minion, dagger, d6 damage. 1 charge.
+- Mortally wounding it's victim, traps them inside the blade.
+- Pressing the mouse skull on the handle frees them to do the bidding of the wielder before they perish.
+- Recharge Murder Minion by actively cleaning it in ice water for half a day.
