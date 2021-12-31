@@ -56,7 +56,7 @@ The following is a list of Relics from all over the web, copied with permission.
 - **Bracers of Strength**, d6 charges: A pair of copper bracers long enough to cover the most of the wearer’s forearms. While wearing these bracers you can expend one charge to automatically succeed in a STR save. You must do so before rolling the dice. **Recharge**: Defeat a foe stronger than you in combat.
 - **Necklace of Fireballs**, 1 charge: A necklace with a small ruby dangling from it. It can be thrown, summing a burst of flames in the area around where it landed, dealing d8+d8 damage to all caught. **Recharge**: Leave it in a raging bonfire until the flames end naturally.
 
-#### Murder Minion, dagger, d6 damage. 1 charge.
+#### Murder Minion, dagger, d6 damage, 1 charge.
 - Mortally wounding it's victim, traps them inside the blade.
 - Pressing the mouse skull on the handle frees them to do the bidding of the wielder before they perish.
 - **Recharge** Murder Minion by actively cleaning it in ice water for half a day.
@@ -67,29 +67,44 @@ The following is a list of Relics from all over the web, copied with permission.
 - Will Never affect a Knight or anyone with a sacred vow.
 - **Recharges** when you slay a nobleman or (as a noble yourself) knight someone.
 
-#### Forgotten Sword-Master's Blade (d8, 2 charges)
+#### Forgotten Sword-Master's Blade d8 damage, 2 charges
 - Worn and weathered blue-gray longsword imbued with the memory of an ancient sword master, renown for his ability to duel multiple opponents at once.
 - Channeling the forgotten master's memory produces a whirling flourish, attacking all enemies around them within 10 feet (up to four) for d6 blast.
 - On critical damage save vs DEX or be disarmed.
 - **Recharge** by defeating another worthy opponent in a duel or disarming an enemy in combat.
 
-#### Cloak of the Monarch Queen (3 charges)
+#### Cloak of the Monarch Queen, 3 charges
 - Faded black great-cloak with orange and white geometric patterns.
 - Dash or fly swiftly across distances of 30 feet.
 - **Recharge** by jumping from heights of 50 feet or greater, or from spending an hour adventuring through furious winds.
 
-### Mirror Mirror (1 Charge)
+### Mirror Mirror, 1 charge
 - Large round mirror about the size of a wagon wheel. Framed in a swirling art-nouveau confection of green-glazed clay.
 - If you position yourself between Mirror Mirror and a mundane mirror and observe your infinite reflection between them, Mirror Mirror remembers the mundane mirror.
 - You can always look into Mirror Mirror to see the current reflection in any mundane mirror it remembers.
 - For one charge, you may reach through Mirror Mirror and out of any mundane mirror it remembers; as little as a limb, or as much as your whole body. When you withdraw your limb or emerge from another mirror, Mirror Mirror cracks down the middle, and a faint after-image of your person is etched into all other mirrors in Mirror Mirror's memory as it forgets them, one by one.
 - **Recharge**: locate every mirror etched with your after-image and thoroughly scratch out your face until it is unrecognizable. Sleep with Mirror Mirror under your head, and survive the onslaught of shattered reflection-selves that swarm you in your dreams, and you will find it healed and whole when you wake.
 
-#### Dowsing Rod, 1 charge.
+#### Dowsing Rod, 1 charge
 - Pick a general type of object or material. The rod indicates distance, direction and quantity to nearest match.
 - **Recharge**: Expose to lightning or powerful electricity.
 
-#### Snakeskin Boon, 1 charge.
+#### Snakeskin Boon, 1 charge
 - Over the course of several hours, you can painfully shed your skin, losing 1d4 STR.
 - After this time, you reveal a new skin, broadly the same as your previous, but with new features, seen or imagined.
 - **Recharge**: Devour every scrap of the skin of a giant snake.
+
+#### The Dwarf's Cloak, 1 charge
+- A lambskin cloak, taken from a dwarf, which renders its wearer invisible.
+- Burns to ash if exposed to sunlight.
+- **Recharge**: Eat seven ounces of human flesh.
+
+####  Wand of the Thousand Paths, 1 charge
+ - A walking stick with a big eyeball on top
+ - You can fixate on the eye to see the outcome of one action in the immediate future (play it out and the player decides to confirm it or not) and then the eye shuts
+ - **Recharge** move exclusively in the same direction as the wind for a day
+
+#### Blade of Mighty Thews, 3 charges
+- A dark red shortsword with inscriptions of scenes of ancient battles on it.
+- Spend a charge to give yourself the strength of a demigod for the length of a single feat (bend bars, lift gates, hurl boulders)
+ - **Recharge** It deals a killing blow to a creature stronger than any human, living or dead.
