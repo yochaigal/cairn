@@ -77,3 +77,10 @@ The following is a list of Relics from all over the web, copied with permission.
 - Faded black great-cloak with orange and white geometric patterns.
 - Dash or fly swiftly across distances of 30 feet.
 - **Recharge** by jumping from heights of 50 feet or greater, or from spending an hour adventuring through furious winds.
+
+### Mirror Mirror (1 Charge)
+- Large round mirror about the size of a wagon wheel. Framed in a swirling art-nouveau confection of green-glazed clay.
+- If you position yourself between Mirror Mirror and a mundane mirror and observe your infinite reflection between them, Mirror Mirror remembers the mundane mirror.
+- You can always look into Mirror Mirror to see the current reflection in any mundane mirror it remembers.
+- For one charge, you may reach through Mirror Mirror and out of any mundane mirror it remembers; as little as a limb, or as much as your whole body. When you withdraw your limb or emerge from another mirror, Mirror Mirror cracks down the middle, and a faint after-image of your person is etched into all other mirrors in Mirror Mirror's memory as it forgets them, one by one.
+- **Recharge**: locate every mirror etched with your after-image and thoroughly scratch out your face until it is unrecognizable. Sleep with Mirror Mirror under your head, and survive the onslaught of shattered reflection-selves that swarm you in your dreams, and you will find it healed and whole when you wake.
