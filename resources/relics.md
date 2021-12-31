@@ -3,12 +3,19 @@ layout: default
 title: Relics
 parent: Resources
 nav_order: 4
-nav_exclude: true
 ---
 
 # Relics
-The following is a list of Relics from all over the web, copied with permission.
 
+**Last Breath**, shortsword, d8 damage. 1 charge.
+- Plunging Last Breath into the ground creates an _Astral Prison_ around the bearer.
+- The bearer is invulnerable to harm but unable to move while contained in the prison.
+- Recharge Last Breath by feeding it the souls it needs to build the prison.
+
+
+
+## Third-Party
+The following is a list of Relics from all over the web, copied with permission.
 
 ### From [Glass Bird Games](https://glassbirdgames.blogspot.com/2021/08/10-magical-relics-for-cairn.html)
 - **Gaea's Grasp**, 5 charges: A wristlet of fine, woven vines. When the wearer grasps someone or something, the vines sprout tough tendrils that secure their grip. They will only release if lit ablaze or at the wearer's will. Recharge: Plant the withered wristlet in rich forest soil and water liberally with the blood of a fae. It will bloom into a new wristlet overnight.
