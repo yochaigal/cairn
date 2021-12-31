@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Tools
+title: Relics
 parent: Resources
-has_children: true
+nav_exclude: true
 ---
 
-# Tools
+# Relics
