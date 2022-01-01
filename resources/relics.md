@@ -108,3 +108,7 @@ The following is a list of Relics from all over the web, copied with permission.
 - A dark red shortsword with inscriptions of scenes of ancient battles on it.
 - Spend a charge to give yourself the strength of a demigod for the length of a single feat (bend bars, lift gates, hurl boulders)
  - **Recharge** It deals a killing blow to a creature stronger than any human, living or dead.
+
+#### Bird Bomb, 1 charge
+- Fragile egg that releases an incredible stench that makes all folks around it vomit. How do you carry such an item? What happens if the egg breaks in your pack during combat?
+- **Recharge**: Bury the shell in a grave. The next morning there will be three more eggs there.
