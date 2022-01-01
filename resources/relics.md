@@ -6,12 +6,6 @@ nav_order: 4
 ---
 
 # Relics
-
-#### Last Breath, shortsword, d8 damage, 1 charge
-- Plunging **Last Breath** into the ground creates an [_Astral Prison_](/cairn-srd#100-spells) around the bearer. The bearer is invulnerable to harm but unable to move while contained in the prison.
-- **Recharge**: Last Breath by feeding it the souls it needs to build the prison.
-
-## Third-Party
 The following is a list of Relics from all over the web, copied with permission.
 
 ### From [Glass Bird Games](https//glassbirdgames.blogspot.com/)
@@ -133,6 +127,10 @@ The following is a list of Relics from all over the web, copied with permission.
 - **Recharge**: Spend 1 hour shoveling dirt in the rain.
 
 ### From The NSR Discord
+#### Last Breath, shortsword, d8 damage, 1 charge
+- Plunging **Last Breath** into the ground creates an [_Astral Prison_](/cairn-srd#100-spells) around the bearer. The bearer is invulnerable to harm but unable to move while contained in the prison.
+- **Recharge**: Last Breath by feeding it the souls it needs to build the prison.
+
 #### Sword of the Holy Knight (d6), d6 charges
 - When attacking an undead enemy with this silver sword, you can expend one charge to ignore HP and deal damage directly to STR.
 - **Recharge**: Bathe in holy water and let dry completely in the morning sun.
