@@ -27,7 +27,7 @@ The following is a list of Relics from all over the web, copied with permission.
 #### Covenant Quill, 1 charge
 - A feather quill, black flecked with gold. When a contract is written with this pen, all who sign in agreement are magically compelled to follow its tenets, except the one that wrote the terms.
 - **Recharge**: Abstain from reading or writing for a full lunar cycle, while keeping the quill on your person.
--
+
 #### Ghoul Fingers, 3 uses
 - A bundle of three severed human fingers, gray and partially mummified. The fingers can be snapped if bent against the joint, releasing a puff of dust. Anyone that inhales the dust is temporarily paralyzed, takes d8 DEX damage, and gains a permanent immunity from sleep and charm effects.
 
@@ -75,7 +75,8 @@ The following is a list of Relics from all over the web, copied with permission.
 - **Recharge**: Plant the end of the branch in the carcass of a freshly-killed hare, then let it sprout outdoors over three nights, undisturbed in the bitter cold. On the third morning, you will find the hare whole and healthy, nibbling at the leaves, and d6 fresh frostberries.
 
 #### Crooked Canteen, 3 charges
-- A large flask, made of polished, deeply furrowed wood. The cap is attached by a silver ring, held closed with a pin. At the cost of one charge, twist the pin;  whatever fluid is inside is replaced with half a canteen-full of water. Twist it back, and the original fluid reappears. Handy for carrying extra water on journeys, hiding your best brandy from your fellow adventurers, or to convince a rival that there really isn't any poison in there, after all. **Recharge**: Dowse and dig out a fresh well or untouched spring, or any source of water that has never before passed mortal lips. Fill the Canteen to the brim.
+- A large flask, made of polished, deeply furrowed wood. The cap is attached by a silver ring, held closed with a pin. At the cost of one charge, twist the pin;  whatever fluid is inside is replaced with half a canteen-full of water. Twist it back, and the original fluid reappears. Handy for carrying extra water on journeys, hiding your best brandy from your fellow adventurers, or to convince a rival that there really isn't any poison in there, after all.
+- **Recharge**: Dowse and dig out a fresh well or untouched spring, or any source of water that has never before passed mortal lips. Fill the Canteen to the brim.
 
 #### Bidding Bones, 3 charges
 - A pair of graying deer ribs cut to size for rhythmic performance. One has a crude skull etched into its surface, the other a skeletal hand. When played, they can be used to control the bones of another creature. If they still live, the effect is brief, a single instant of abrupt bodily control that may only be enough to foil another physical action. If they are dead or undead, the effect lasts for as long as the bearer can continue playing.
