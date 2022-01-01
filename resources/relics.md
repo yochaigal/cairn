@@ -204,3 +204,13 @@ The following is a list of Relics from all over the web, copied with permission.
 #### Bird Bomb, 1 charge
 - Fragile egg that releases an incredible stench that makes all folks around it vomit. How do you carry such an item? What happens if the egg breaks in your pack during combat?
 - **Recharge**: Bury the shell in a grave. The next morning there will be three more eggs there.
+
+#### Decayed Wooden Sword
+- Seems like a real sword when wielded.
+- Does d4 DMG, but victims look brutally wounded for a moment, even when not really hit at all.
+- Breaks on roll of 1.
+
+#### Twinvine
+- A 16' length of verdant, sticky rope.
+- Wrap once around an object and plant an end in the earth. A replica of the wrapped object grows overnight.
+- The rope remains, its length halved.
