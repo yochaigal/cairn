@@ -8,7 +8,7 @@ nav_order: 4
 # Relics
 The following is a list of Relics from all over the web, copied with permission.
 
-### From [Glass Bird Games](https//glassbirdgames.blogspot.com/)
+### From [Glass Bird Games](https://glassbirdgames.blogspot.com/)
 #### Gaea's Grasp, 5 charges
 - A wristlet of fine, woven vines. When the wearer grasps someone or something, the vines sprout tough tendrils that secure their grip. They will only release if lit ablaze or at the wearer's will.
 - **Recharge**: Plant the withered wristlet in rich forest soil and water liberally with the blood of a fae. It will bloom into a new wristlet overnight.
@@ -87,7 +87,7 @@ The following is a list of Relics from all over the web, copied with permission.
 - At the cost of a charge, stamp a schematic describing a wondrous contraption or magical item, and gather a pile of shiny stones, straw, bugs, fungi, or the like into a pile vaguely shaped like said item. The pile binds together, and functions as the item described for about an hour. It then fails catastrophically.
 - **Recharge**: Supplicate before the Grand Gob, describing in flowery terms how inferior you and your fellows are to their magnificence. Beg a boon of them - if impressed, they will provide a small, probably slimy token to tack onto the seal.
 
-### From [Ialath](https//ialath.com/)
+### From [Ialath](https://ialath.com/)
 #### Skull Cap, 1 charge
 - A helmet that transforms the bearer's head into the appearance of a skull until dawn.
 - **Recharge**: Bury with human bones for one night.
