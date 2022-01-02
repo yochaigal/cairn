@@ -2,5 +2,5 @@
 layout: default
 title: Polish
 parent: Localizations
-redirect_to: https://oswida.github.io
+redirect_to: https://pl.cairnrpg.com
 ---
