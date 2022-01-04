@@ -216,7 +216,7 @@ The following is a list of Relics from all over the web, copied with permission.
 - The rope remains, its length halved.
 
 #### Map of the Predator
-- A blank leather parchment.; spill blood onto it and it will be absorbed.
+- A blank leather parchment. Spill blood onto it and it will be absorbed.
 - Later unroll to reveal a clear map of wherever the remaining blood is.
 - The effect ends when the map is a few feet from its target.
 - **Recharge**: the parchment must be wholly ingested then defecated by any creature that hunts via blood-scent. Wolf, Tiger, Shark, blood-fly, etc.
