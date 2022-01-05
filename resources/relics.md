@@ -220,3 +220,7 @@ The following is a list of Relics from all over the web, copied with permission.
 - Later unroll to reveal a clear map of wherever the remaining blood is.
 - The effect ends when the map is a few feet from its target.
 - **Recharge**: the parchment must be wholly ingested then defecated by any creature that hunts via blood-scent. Wolf, Tiger, Shark, blood-fly, etc.
+
+#### Honest Earworms
+- A wriggling worm the size of a child's pinky finger. Smells awful. Drop into a person's ear and they will reveal the truth, despite themselves.
+- **Recharge**: Search the forest for the largest pile of decayed leaves you can find. Bury your head inside it, taking the leaves and detritus into your mouth; chew and swallow. Finally, scream your most personal secrets, thoughts, and desires into the air. The following day, search your leavings for a thimble-sized maggot. This can only be done once.
