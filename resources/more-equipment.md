@@ -103,7 +103,7 @@ nav_order: 5
 
 ## Hirelings - Mercenary
 
-First value means a wage per a week, second one is treasure percentage in parentheses (can be negotiated).
+First value means wages per a week, second  is treasure (negotiable).
 
 | Mercenary                   | Wage per week | Mercenary              | Wage per week |
 | --------------------------- | ------------- | ---------------------- | ------------- |
@@ -219,7 +219,7 @@ Salaries presented as a wage per a week. For a treasure percentage - refer to th
 | Vehicle                | Cost |
 | ---------------------- | ---- |
 | Cart, big (+6 slots)   | 100  |
-| Cart, small (+4 slots) | 30   |
+| Cart, small (+4 slots, _bulky_) | 30   |
 | Wagon (+8 slots, slow) | 200  |
 
 ## Transport - Water Vessel
