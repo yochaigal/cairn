@@ -2,7 +2,7 @@
 layout: default
 title: Relics
 parent: Resources
-nav_order: 4
+nav_order: 3
 ---
 
 # Relics
