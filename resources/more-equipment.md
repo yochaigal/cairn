@@ -14,7 +14,7 @@ nav_order: 5
 - The main inspiration for this document is the OSE price list [Old School Essentials](https://oldschoolessentials.necroticgnome.com/srd/index.php/Main_Page) and [Kimberly Chapman page](https://kimberlychapman.com/rpg/equipment.html).  
 - Credit to [Oskar Swida](https://oskarswida.itch.io/)
 
-## Buildings - Base Structure
+## Buildings: Base Structures
 
 |||||
 | ------------------------ | ----- | -------------------- | ----- |
@@ -26,7 +26,7 @@ nav_order: 5
 | Drawbridge               | 500   | Tower, small         | 15000 |
 | Gatehouse                | 6500  | Wall, castle         | 5000  |
 
-## Buildings - Interior Feature
+## Buildings: Interior Features
 
 |||||
 | -------------------------- | ---------- | ------------------------- | ---- |
@@ -105,7 +105,7 @@ nav_order: 5
 | Fowl, quail (whole)                 | 10   | Spices (oz)              | 5    |
 | Fowl, pheasant (whole)              | 20   | Sugar (pound)            | 5    |
 
-## Hirelings - Mercenary
+## Hirelings: Mercenaries
 
 First value means wages per a week, second  is treasure (negotiable).
 
@@ -126,9 +126,9 @@ First value means wages per a week, second  is treasure (negotiable).
 | Footman, light, elf         | 4 / 0.8 %     | Peasant                | 1 / 0.2%      |
 | Footman, light, orc         | 1 / 0.2%      | Wolf rider, goblin     | 5 / 1%        |
 
-## Hirelings - Specialist
+## Hirelings: Specialists
 
-Salaries presented as a wage per a week. For a treasure percentage - refer to the fiction. It is probable that specialists are fully described NPCs.
+Salaries presented as wage per week. For treasure percentage, refer to the fiction!
 
 |||
 | ------------------ | -------------- |
@@ -163,7 +163,7 @@ Salaries presented as a wage per a week. For a treasure percentage - refer to th
 | Pigeon                   | 5    | Sheep    | 300  |
 | Pigeon - trained carrier | 30   |          |      |
 
-## Livestock - Feed
+## Livestock Feed
 
 |||
 | --------------- | ---- |
@@ -212,7 +212,7 @@ Salaries presented as a wage per a week. For a treasure percentage - refer to th
 | Large Sponge          | 5    | Wolfsbane                   | 10   |
 | Lens                  | 10   |                             |      |
 
-## Transport - Animal
+## Transport: Animals
 
 |||
 | ------------------------------ | ---- |
@@ -224,7 +224,7 @@ Salaries presented as a wage per a week. For a treasure percentage - refer to th
 | Mule (+6 slots, slow)          | 50   |
 | Oxen  (+6 slots)               | 60   |
 
-## Transport - Land Vehicle
+## Transport: Land Vehicles
 
 |||
 | ---------------------- | ---- |
@@ -233,7 +233,7 @@ Salaries presented as a wage per a week. For a treasure percentage - refer to th
 | Cart, small (+4 slots, _bulky_) | 30   |
 | Wagon (+8 slots, slow) | 200  |
 
-## Transport - Water Vessel
+## Transport: Water Vessels
 
 |||
 | ------------------- | ------------------- |
