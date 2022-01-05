@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EBOOK
+title: Ebook
 parent: Accessibility
 nav_order: 2
 ---
