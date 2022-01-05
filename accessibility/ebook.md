@@ -5,7 +5,7 @@ parent: Accessibility
 nav_order: 2
 ---
 
-# EBOOK
+# Ebook
 
 - Ebook Conversion by [Michael Bleimeyer](https://eskur.dev).
 - This ebook uses publisher CSS styles. Make sure your reading software has publisher styles enabled. Even if you enable publisher styles, reading software may still override publisher styles.
