@@ -16,8 +16,9 @@ nav_order: 5
 
 ## Buildings - Base Structure
 
-| Base structure           | Cost  | Base structure       | Cost  |
+|||||
 | ------------------------ | ----- | -------------------- | ----- |
+| **Base Structure**           | **Cost** | **Base Structure**       | **Cost** |
 | Barbican                 | 37000 | Keep                 | 75000 |
 | Bastion                  | 9000  | Moat                 | 400   |
 | Civilian building, stone | 3000  | Subterranean passage | 500   |
@@ -27,8 +28,9 @@ nav_order: 5
 
 ## Buildings - Interior Feature
 
-| Interior feature           | Cost       | Interior feature          | Cost |
+|||||
 | -------------------------- | ---------- | ------------------------- | ---- |
+| **Interior Feature**           | **Cost**      | **Interior Feature**          | **Cost**|
 | Arrow slit                 | 10         | Shifting wall             | 1000 |
 | Door, iron                 | 50         | Stairs, stone             | 60   |
 | Door, reinforced wood      | 20         | Stairs, wooden            | 20   |
@@ -42,8 +44,9 @@ nav_order: 5
 
 ## Clothing
 
-| Clothing              | Cost | Clothing                                    | Cost |
+|||||
 | --------------------- | ---- | ------------------------------------------- | ---- |
+| **Clothing**              | **Cost**| **Clothing**                                    | **Cost**|
 | Apron, cloth          | 20   | Eye patch, leather                          | 3    |
 | Apron, leather        | 60   | Gloves, hand                                | 10   |
 | Ballgown, simple      | 150  | Gloves, to mid forearm                      | 20   |
@@ -67,8 +70,9 @@ nav_order: 5
 
 ## Food & Drink
 
-| Food & drink                        | Cost | Food & drink             | Cost |
+|||||
 | ----------------------------------- | ---- | ------------------------ | ---- |
+| **Food & Drink**                        | **Cost**| **Food & Drink**             | **Cost**|
 | Alcohol, mead (half-gallon pitcher) | 1    | Fowl, turkey (whole)     | 15   |
 | Alcohol, beer                       | 3    | Fish, common             | 2    |
 | Alcohol , wine, poor (bottle)       | 4    | Fish, game fish          | 6    |
@@ -105,8 +109,9 @@ nav_order: 5
 
 First value means wages per a week, second  is treasure (negotiable).
 
-| Mercenary                   | Wage per week | Mercenary              | Wage per week |
+|||||
 | --------------------------- | ------------- | ---------------------- | ------------- |
+| **Mercenary**                   | **Wage per week** | **Mercenary**              | **Wage per week** |
 | Archer, human               | 5 / 1%        | Footman, light, goblin | 1 / 0.2%      |
 | Archer, elf                 | 10 / 2%       | Footman, heavy, human  | 2 / 0.4%      |
 | Archer, orc                 | 3 / 0.6%      | Footman, heavy, dwarf  | 5 / 1%        |
@@ -125,8 +130,9 @@ First value means wages per a week, second  is treasure (negotiable).
 
 Salaries presented as a wage per a week. For a treasure percentage - refer to the fiction. It is probable that specialists are fully described NPCs.
 
-| Specialist         | Wage per month |
+|||
 | ------------------ | -------------- |
+| **Specialist**         | **Wage (per month)** |
 | Alchemist          | 1000           |
 | Animal trainer     | 500            |
 | Armourer           | 100            |
@@ -142,8 +148,9 @@ Salaries presented as a wage per a week. For a treasure percentage - refer to th
 
 ## Livestock
 
-| Animal                   | Cost | Animal   | Cost |
+|||||
 | ------------------------ | ---- | -------- | ---- |
+| **Animal**                   | **Cost**| **Animal**   | **Cost**|
 | Bull                     | 600  | Chicken  | 10   |
 | Cat - barn               | 20   | Duck     | 10   |
 | Cat - purebred           | 150  | Goose    | 15   |
@@ -158,8 +165,9 @@ Salaries presented as a wage per a week. For a treasure percentage - refer to th
 
 ## Livestock - Feed
 
-| Livestock feed  | Cost |
+|||
 | --------------- | ---- |
+| **Feed** | **Cost**|
 | Wheat  (25 lbs) | 20   |
 | Oats (25 lbs)   | 15   |
 | Hay (25 lbs)    | 10   |
@@ -167,8 +175,9 @@ Salaries presented as a wage per a week. For a treasure percentage - refer to th
 
 ## Tools & Gear
 
-| Item                  | Cost | Item                        | Cost |
+|||||
 | --------------------- | ---- | --------------------------- | ---- |
+| **Item**                  | **Cost**| **Item**                        | **Cost**|
 | Air Bladder           | 5    | Lockpicks                   | 25   |
 | Barding (horse armor) | 150  | Manacles                    | 10   |
 | Bellows               | 10   | Metal File                  | 5    |
@@ -205,8 +214,9 @@ Salaries presented as a wage per a week. For a treasure percentage - refer to th
 
 ## Transport - Animal
 
-| Animal                         | Cost |
+|||
 | ------------------------------ | ---- |
+| **Animal**                         | **Cost**|
 | Camel (+3 slots, fast)         | 85   |
 | Donkey (+4 slots, slow)        | 30   |
 | Horse, draft (+3 slots)        | 40   |
@@ -216,16 +226,18 @@ Salaries presented as a wage per a week. For a treasure percentage - refer to th
 
 ## Transport - Land Vehicle
 
-| Vehicle                | Cost |
+|||
 | ---------------------- | ---- |
+| **Vehicle**                | **Cost**|
 | Cart, big (+6 slots)   | 100  |
 | Cart, small (+4 slots, _bulky_) | 30   |
 | Wagon (+8 slots, slow) | 200  |
 
 ## Transport - Water Vessel
 
-| Water Vessel        | Cost                |
+|||
 | ------------------- | ------------------- |
+| **Water Vessel**      | **Cost**               |
 | Boat, river         | 4000                |
 | Boat, sailing       | 2000                |
 | Canoe               | 50                  |
