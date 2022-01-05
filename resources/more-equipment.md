@@ -75,13 +75,13 @@ nav_order: 5
 | **Food & Drink**                        | **Cost**| **Food & Drink**             | **Cost**|
 | Alcohol, mead (half-gallon pitcher) | 1    | Fowl, turkey (whole)     | 15   |
 | Alcohol, beer                       | 3    | Fish, common             | 2    |
-| Alcohol , wine, poor (bottle)       | 4    | Fish, game fish          | 6    |
-| Alcohol ,wine,  good (bottle)       | 10   | Fish, shell fish (dozen) | 8    |
-| Alcohol , champagne (bottle)        | 18   | Fish, smoked (pound)     | 3    |
-| Alcohol , brandy (bottle)           | 20   | Fish, salted (pound)     | 3    |
-| Alcohol , rum (bottle)              | 15   | Flour (pound)            | 1    |
-| Alcohol , moonshine (jug)           | 12   | Fruit Juice (gallon)     | 2    |
-| Beef,steak                          | 4    | Honey (pint)             | 2    |
+| Alcohol, wine, poor (bottle)       | 4    | Fish, game fish          | 6    |
+| Alcohol, wine, good (bottle)       | 10   | Fish, shell fish (dozen) | 8    |
+| Alcohol, champagne (bottle)        | 18   | Fish, smoked (pound)     | 3    |
+| Alcohol, brandy (bottle)           | 20   | Fish, salted (pound)     | 3    |
+| Alcohol, rum (bottle)              | 15   | Flour (pound)            | 1    |
+| Alcohol, moonshine (jug)           | 12   | Fruit Juice (gallon)     | 2    |
+| Beef, steak                        | 4    | Honey (pint)             | 2    |
 | Beef, leg or roast                  | 25   | Inn meal, poor           | 1    |
 | Beef, side                          | 75   | Inn meal, good           | 2    |
 | Beef, whole cow                     | 190  | Inn meal, superb         | 5    |
@@ -111,7 +111,7 @@ First value means wages per a week, second  is treasure (negotiable).
 
 |||||
 | --------------------------- | ------------- | ---------------------- | ------------- |
-| **Mercenary**                   | **Wage per week** | **Mercenary**              | **Wage per week** |
+| **Mercenary**               | **Wage per week** | **Mercenary**              | **Wage per week** |
 | Archer, human               | 5 / 1%        | Footman, light, goblin | 1 / 0.2%      |
 | Archer, elf                 | 10 / 2%       | Footman, heavy, human  | 2 / 0.4%      |
 | Archer, orc                 | 3 / 0.6%      | Footman, heavy, dwarf  | 5 / 1%        |
@@ -135,8 +135,8 @@ Salaries presented as wage per week. For treasure percentage, refer to the ficti
 | **Specialist**         | **Wage (per month)** |
 | Alchemist          | 1000           |
 | Animal trainer     | 500            |
-| Armourer           | 100            |
-| Assistant armourer | 15             |
+| Armorer           | 100            |
+| Assistant armorer | 15             |
 | Blacksmith         | 25             |
 | Engineer           | 750            |
 | Navigator          | 150            |
@@ -152,16 +152,16 @@ Salaries presented as wage per week. For treasure percentage, refer to the ficti
 | ------------------------ | ---- | -------- | ---- |
 | **Animal**                   | **Cost**| **Animal**   | **Cost**|
 | Bull                     | 600  | Chicken  | 10   |
-| Cat - barn               | 20   | Duck     | 10   |
-| Cat - purebred           | 150  | Goose    | 15   |
+| Cat, barn               | 20   | Duck     | 10   |
+| Cat, purebred           | 150  | Goose    | 15   |
 | Cow                      | 400  | Quail    | 12   |
-| Dog - untrained          | 30   | Pheasant | 25   |
-| Dog - trained - guard    | 80   | Turkey   | 20   |
-| Dog - trained - shepherd | 120  | Goat     | 80   |
-| Dog - trained - hunting  | 150  | Pig      | 300  |
-| Falcon - trained         | 500  | Rabbit   | 15   |
+| Dog, untrained          | 30   | Pheasant | 25   |
+| Dog, guard    | 80   | Turkey   | 20   |
+| Dog, shepherd | 120  | Goat     | 80   |
+| Dog, hunting  | 150  | Pig      | 300  |
+| Falcon, trained         | 500  | Rabbit   | 15   |
 | Pigeon                   | 5    | Sheep    | 300  |
-| Pigeon - trained carrier | 30   |          |      |
+| Pigeon, carrier | 30   |          |      |
 
 ## Livestock Feed
 
@@ -208,9 +208,9 @@ Salaries presented as wage per week. For treasure percentage, refer to the ficti
 | Ladder (bulky, 10ft)  | 10   | Tent (fits 2 people, bulky) | 20   |
 | Lantern & Oil         | 10   | Tinder box (flint & steel)  | 3    |
 | Lock - (key included) | 30   | Torch                       | 1    |
-| Large Trap            | 20   | Whistle                     | 5    |
-| Large Sponge          | 5    | Wolfsbane                   | 10   |
-| Lens                  | 10   |                             |      |
+| Large Trap            | 20   | Waterskin                   | 1    |
+| Large Sponge          | 5    | Whistle                     |  5   |
+| Lens                  | 10   | Wolfsbane                   |  10  |
 
 ## Transport: Animals
 
