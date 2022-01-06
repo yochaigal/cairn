@@ -223,4 +223,8 @@ The following is a list of Relics from all over the web, copied with permission.
 
 #### Honest Earworms
 - A wriggling worm the size of a child's pinky finger. Smells awful. Drop into a person's ear and they will reveal the truth, despite themselves.
-- **Recharge**: Search the forest for the largest pile of decayed leaves you can find. Bury your head inside it, taking the leaves and detritus into your mouth; chew and swallow. Finally, scream your most personal secrets, thoughts, and desires into the air. The following day, search your leavings for a thimble-sized maggot. This can only be done once.
+- **Recharge**: Search the forest for the largest pile of decayed leaves you can find. Then, scream your most personal secrets, thoughts, and desires into the air. Then eat as much of the leaves and detritus as you can. The next day you will awaken to find 1d4-1 larvae, sprouting from your ears.
+
+#### Holy Avenger (sword, d8)
+- Undead creatures automatically fail critical damage saves caused by this sword.
+- You and nearby allies are immune to fear and charm effects, but are compelled to jump headfirst into battle.
