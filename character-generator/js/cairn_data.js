@@ -214,11 +214,11 @@ gen_data['misfortune'] = [
 ,  'blackmailed'
 ,  'condemned'
 ,  'cursed'
-,  'abandoned'
-,  'addicted'
-,  'blackmailed'
-,  'condemned'
-,  'cursed'
+,  'defrauded'
+,  'demoted'
+,  'discredited'
+,  'disowned'
+,  'exiled'
 ]
 
 gen_data['equipment'] = [
