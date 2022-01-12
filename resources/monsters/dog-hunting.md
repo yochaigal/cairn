@@ -2,8 +2,6 @@
 layout: default
 parent: Monsters
 grand_parent: Resources
-  
-
 ---
 # Dog, Hunting
 2 HP, 12 DEX, bite (d6)  

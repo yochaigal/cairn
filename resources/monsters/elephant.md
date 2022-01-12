@@ -2,8 +2,6 @@
 layout: default
 parent: Monsters
 grand_parent: Resources
-
-
 ---
 # Elephant
 9 HP, 16 STR, 6 DEX, tusks (d8)  

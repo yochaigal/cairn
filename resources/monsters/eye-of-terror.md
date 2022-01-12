@@ -2,8 +2,6 @@
 layout: default
 parent: Monsters
 grand_parent: Resources
-  
-
 ---
 # Eye of Terror
 12 HP, 12 STR, 8 DEX, 16 WIL, bite (d8+d8)  
