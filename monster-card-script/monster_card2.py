@@ -124,9 +124,9 @@ class MonsterCard:
 
 
 # Please adjust to your monster markdown directory
-dir = "/home/yochai/github/cairn/img/monster-cards"
+dir = "/home/yochai/github/cairn/resources/monsters"
 filelist = [f for f in glob.glob(dir + "/*.md")]
 cnt = 0
 for file in filelist:
-    mc = MonsterCard("./out")
+    mc = MonsterCard("/home/yochai/github/cairn/img/monster-cards")
     mc.generate(file)
