@@ -124,7 +124,7 @@ class MonsterCard:
 
 
 # Please adjust to your monster markdown directory
-dir = "C:\\Users\\Oskar\\Desktop\\RPG\\OSR\\Cairn\\cairn\\resources\\monsters"
+dir = "/home/yochai/github/cairn/img/monster-cards"
 filelist = [f for f in glob.glob(dir + "/*.md")]
 cnt = 0
 for file in filelist:
