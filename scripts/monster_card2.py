@@ -128,5 +128,5 @@ dir = "/home/yochai/github/cairn/resources/monsters"
 filelist = [f for f in glob.glob(dir + "/*.md")]
 cnt = 0
 for file in filelist:
-    mc = MonsterCard("/home/yochai/Google Drive/Games/OSR/Into The Odd/hacks/Cairn/Monsters")
+    mc = MonsterCard("/home/yochai/Google Drive/Games/OSR/Into The Odd/hacks/Cairn/Monsters/monster-cards")
     mc.generate(file)
