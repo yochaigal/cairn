@@ -1,4 +1,4 @@
-# credit to Oskar Swida
+# Written by Oskar Swida
 
 import glob
 from textwrap import wrap
@@ -126,9 +126,9 @@ class MonsterCard:
 
 
 # Please adjust to your monster markdown directory
-dir = "/home/yochai/github/cairn/resources/monsters"
+dir = "C:\\Users\\Oskar\\Desktop\\RPG\\OSR\\Cairn\\cairn\\resources\\monsters"
 filelist = [f for f in glob.glob(dir + "/*.md")]
 cnt = 0
 for file in filelist:
-    mc = MonsterCard("/home/yochai/Google Drive/Games/OSR/Into The Odd/hacks/Cairn/Monsters/monster-cards")
+    mc = MonsterCard("./out")
     mc.generate(file)
