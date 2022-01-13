@@ -1,3 +1,5 @@
+# credit to Oskar Swida
+
 import glob
 from textwrap import wrap
 
