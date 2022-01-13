@@ -125,10 +125,10 @@ class MonsterCard:
         pass
 
 
-# Please adjust to your monster markdown directory
-dir = "C:\\Users\\Oskar\\Desktop\\RPG\\OSR\\Cairn\\cairn\\resources\\monsters"
+# Please adjust to your monster markdown & output directory
+dir = "/home/yochai/github/cairn/resources/monsters"
 filelist = [f for f in glob.glob(dir + "/*.md")]
 cnt = 0
 for file in filelist:
-    mc = MonsterCard("./out")
+mc = MonsterCard("/home/yochai/Google Drive/Games/OSR/Into The Odd/hacks/Cairn/Monsters/monster-cards"
     mc.generate(file)
