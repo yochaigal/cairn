@@ -229,7 +229,11 @@ The following is a list of Relics from all over the web, copied with permission.
 - Undead creatures automatically fail critical damage saves caused by this sword.
 - You and nearby allies are immune to fear and charm effects, but are compelled to jump headfirst into battle.
 
-#### Dreamwalker's Veil, 3 charges.
+#### Dreamwalker's Veil, 3 charges
 - A robe made of shimmering, almost transparent purple silk.
 - By spending one charge, the wearer can fully ignore one instance of damage to WIL.
 - **Recharge**: Wear the robe during a full night of magically induced sleep.
+
+### Hand of Ser Crufiks, 1 charge
+- Hounds and other domesticated beasts grow docile at the touch of this mummified hand.
+- **Recharge**: Spend some time petting the good boy.
