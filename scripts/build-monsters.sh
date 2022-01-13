@@ -1,6 +1,6 @@
 #!/bin/bash
 date="$(date "+%B %e, %Y")"
-rsync -av /home/yochai/github/cairn/resources/monsters/ --exclude=all-monsters.md /tmp/monsters/
+rsync -av /home/yochai/github/cairn/resources/monsters/ /tmp/monsters/
 sed -i '/^author/d' /tmp/monsters/*.md
 sed -i '/^source:/d' /tmp/monsters/*.md
 sed -i '1 { /^---/ { :a N; /\n---/! ba; d} }' /tmp/monsters/*.md
