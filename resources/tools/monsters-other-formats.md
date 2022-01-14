@@ -7,6 +7,8 @@ nav_order: 4
 ---
 
 # Monsters (Other Formats)
+
+## Compiled Monsters
 - Compiled Monsters in (Letter Format)[https://drive.google.com/file/d/1x4YwsTsJBWdKYjSvNYiKsECFmuQ3xxVw/view?usp=sharing]
 - Compiled Monsters in (A4 Format)[https://drive.google.com/file/d/1jzNj7DQFrmfwvOa2HNaba7onAg0lIicF/view?usp=sharing]
 
