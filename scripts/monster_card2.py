@@ -115,13 +115,14 @@ class MonsterCard:
             return
         desc = []
         for d in desclines:
+            d = d.replace("\n", " ", -1)
             desc.append("• "+d)
         self.attrBox.drawText(
             self.image, paragraphs[0], 'Alegreya-Italic.ttf', center=True, initial_size=56)
         self.titleBox.drawText(
             self.image, title[0], 'Alegreya-Bold.ttf', angle=90, center=True)
         self.descBox.drawText(self.image, "\n".join(
-            desc), 'Alegreya-Regular.ttf', initial_size=56)
+            desc), 'Alegreya-Regular.ttf', initial_size=40)
         self.image.save(self.outdir+"/"+title[0]+".png")
         pass
 
