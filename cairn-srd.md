@@ -563,7 +563,7 @@ If you would like something closer to traditional classes, refer to the list of 
 
 |                            |
 | -------------------------- |
-| Longsword (d8, bulky)      |
+| Longsword (d10, bulky)      |
 | Chainmail (2 Armor, bulky) |
 | Helmet (+1  Armor)         |
 | Heraldic Cape              |
