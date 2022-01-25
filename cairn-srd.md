@@ -543,7 +543,8 @@ If you would like something closer to traditional classes, refer to the list of 
 ||
 |---------------------------------------|
 |Glaive (d10, bulky)                    |
-| Scimitar (d8)                         |
+|Scimitar (d8)                          |
+|Shortsword (d6)                        |
 |Shortsword (d6)                        |
 |Tobacco Pouch & Pipe                   |
 |Dice Set                               |
