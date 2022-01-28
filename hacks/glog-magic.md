@@ -82,6 +82,3 @@ Creating a **Grimoire** is time-consuming and expensive. You will need:
 - 200gp in inks, as well as a blank book.
 - 6 hours of undisturbed labor in the light of a full moon. Afterwards, you are [deprived](/cairn-srd/#deprivation--fatigue).
 - The spell contained within the Scroll becomes the first recorded spell.
-
-author: [Yochai Gal](https://newschoolrevolution.com)  
-source: [Many Rats on Sticks by Skerples](https://drive.google.com/file/d/1wOAkBOCUSjnthMEnIsPVT1LSOCQzd88j/view?pli=1)
