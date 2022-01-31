@@ -5,7 +5,7 @@ parent: Adventure Conversions
 grand_parent: Resources
 ---
 
-# Stellarium of Vinteralf
+# Stellarium of the Vinteralf
 
 - Original system-neutral [adventure](https://blog.trilemma.com/2014/01/stellarium-of-vinteralf.html) by Michael Prescott. Updated version [available](https://www.drivethrurpg.com/product/286792/Trilemma-Adventures-Compendium-Volume-I).
 - Original conversion by [Kyle Maxwell](https://technoskald.itch.io/twcb).  
