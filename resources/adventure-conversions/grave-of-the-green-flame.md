@@ -8,16 +8,24 @@ nav_exclude: true
 
 # Grave of the Green Flame
 - Based on the [original adventure](https://www.drivethrurpg.com/product/315851/BX6-Grave-of-the-Green-Flame-BX-RPG) by Bill Barsh.
-- Conversion by Ryan McCarthy
+- Conversion by Ryan McCarthy.
 
-Note on critical damage: In the Cairn rules critical damage incapacitates the character. Since the player character is alone for most or all of this adventure, this critical damage rule can make it especially deadly. The player therefore has the option of suspending critical damage except in the case of certain monsters with special attacks (eg poison, blood drain). In those cases the special attack applies on a failed STR save, but the character is not automatically incapacitated.
+## Overview
 
-Adventure Points- Start the adventure with 3 Adventure Points
+### Critical Damage
+In Cairn, failing a critical damage save typically incapacitates the character. This rule makes _Grave of the Green Flame_ especially deadly, as the module is designed for both solo play and with only a single character. Consider altering rule in most cases, excepting those that relate to special attacks (e.g. poison, blood drain). The special effects may still apply on a failed STR save, but the character is not automatically incapacitated.
 
-Class specific choices- Several times in the adventure certain choices are made available only to characters of specific class (ranger, thief, etc.) In Cairn any character with a relevant background may make these choices and need not make any rolls to do so (eg tracking always succeeds for a PC with a background like hunter or ranger).
+## Game Notes
+### Adventure Points
+The player begin the adventure with 3 Adventure Points.
 
-Spell scrolls- Roll 1d100 on Cairn’s spell list to determine what spells are on any scrolls you acquire.
+### Class specific choices.
+Several times in the adventure the player is presented with choices only made available to characters of a specific class (ranger, thief, etc.) When running this module with Cairn, a character need only have a relevant background to make these choices (e.g. tracking always succeeds for a PC with a background like Hunter or Ranger).
 
+### Spell scrolls
+Roll a 1d100 on Cairn’s spell list to determine what spells are on any scrolls you acquire.
+
+## Monsters
 ## P. 7 Wandering Monster Chart:
 
 Orcs (1d2) 4 HP, 8 STR, 14 DEX, 8 WIL, spear (d6)
