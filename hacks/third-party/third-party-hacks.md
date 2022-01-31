@@ -16,10 +16,11 @@ nav_order: 1
 - [**From The Mud**](https://cueinn.itch.io/fromthemud)
 - [**Almaia**](https://1d6gnolls.itch.io/almaia)
 - [**Thalassa**](https://zeruhur.itch.io/thalassa)
+- [**Mangayaw**](https://mangayaw.carrd.co) by [Goobernuts](https://goobernutsblog.wordpress.com/)
+
 
 ## Supplements
 - [**Modular Rules & Procedures for Cairn**](https://adamhensley.itch.io/modular-rules-and-procedures-for-cairn) (also viewable on this [site](/hacks/third-party/modular-rules-procedures))
 - [**Piedmont: Songs of the Hills**](https://lionheart-clan.itch.io/piedmont-songs-of-the-hills)
-- [**Mangayaw**](https://mangayaw.carrd.co) by [Goobernuts](https://goobernutsblog.wordpress.com/)
 - [**Into The Valley Of The Unfortunate Undead**](https://siofragames.itch.io/into-the-valley-of-the-unfortunate-undead) by [Jacob Marks](https://siofragames.itch.io)
 - [**Maze Rats Spells In Cairn**](https://xenioinabottle.blogspot.com/2021/04/maze-rats-spells-in-cairn.html)
