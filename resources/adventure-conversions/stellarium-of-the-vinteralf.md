@@ -14,12 +14,12 @@ grand_parent: Resources
 ## Encounters
 
 ### Vinteralf
-STR 16, WIL 14, HP d6+6, Armor 2
+d6+6 HP, Armor 2, STR 16, WIL 14
 - Driven to serve Thavir and reclaim the Stellarium's treasures
 - d6 weapons (spears, halberds, and the like)
 
 ### The Wyrm Jokun
-STR 20, DEX 12 (20 if flying), WIL 14, 13 HP, 3 armor
+13 HP, 3 Armor, STR 20, DEX 12 (20 if flying), WIL 14 
 - Driven to gather treasures in her hoard
 - Breath weapon does d20 (blast) 1x/day only
 - d12 bite, 2x d6 claw
