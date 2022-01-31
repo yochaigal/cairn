@@ -14,19 +14,19 @@ grand_parent: Resources
 ## Encounters
 
 ### Vault Servant
-HP 3, Armor 1, STR 14, DEX 8, WIL 18
+3 HP, Armor 1, STR 14, DEX 8, WIL 18
 - DEX 14 with jackal- skull
 - Driven to serve
 - Working implements do d6 damage
 - Weapon arms do d8 damage or d6 harpoon 1 time
 
 ### Storm Seal Adolescent
-STR 12, HP 2
+2 HP, STR 12
 - Driven to hunt and torment
 - d6 bite
 
 ### Korm the Adept
-HP 8, STR 16, WIL 14
+8 HP, STR 16, WIL 14
 - Driven to reanimate Orlug
 - d8 neck twist
 - Recovers d4 STR per hour from enchanted blood
