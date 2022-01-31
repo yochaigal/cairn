@@ -5,7 +5,7 @@ parent: Adventure Conversions
 grand_parent: Resources
 ---
 
-# The Full-Dark Stone
+# Stellarium of Vinteralf
 
 - Original system-neutral [adventure](https://blog.trilemma.com/2014/01/stellarium-of-vinteralf.html) by Michael Prescott. Updated version [available](https://www.drivethrurpg.com/product/286792/Trilemma-Adventures-Compendium-Volume-I).
 - Original conversion by [Kyle Maxwell](https://technoskald.itch.io/twcb).  
@@ -19,7 +19,7 @@ d6+6 HP, Armor 2, STR 16, WIL 14
 - d6 weapons (spears, halberds, and the like)
 
 ### The Wyrm Jokun
-13 HP, 3 Armor, STR 20, DEX 12 (20 if flying), WIL 14 
+13 HP, 3 Armor, STR 20, DEX 12 (20 if flying), WIL 14
 - Driven to gather treasures in her hoard
 - Breath weapon does d20 (blast) 1x/day only
 - d12 bite, 2x d6 claw
