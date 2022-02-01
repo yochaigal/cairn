@@ -30,7 +30,6 @@ The following is a list of planned conversions. If you'd like to help out, pick 
 * [Dwellers of the Forbidden City](https://www.drivethrurpg.com/product/17046/I1-Dwellers-of-the-Forbidden-City-1e)
 * [Elder Oak](https://www.drivethrurpg.com/product/348404/Elder-Oak)
 * [Fever Dreaming Marlinko](https://www.drivethrurpg.com/product/151165/FeverDreaming-Marlinko)
-* [Fever Swamp](https://www.drivethrurpg.com/product/224803/Fever-Swamp)
 * [Flik Silverpen's Guide to Dragon Town](https://www.exaltedfuneral.com/products/dragon-town-pdf)
 * [Frozen Temple of Glacier Peak](https://ialath.itch.io/frozen-temple-of-glacier-peak)
 * [Genial Jack](https://www.drivethrurpg.com/product/295462/Genial-Jack--issue-I)
