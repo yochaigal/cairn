@@ -11,50 +11,49 @@ grand_parent: Resources
 - Original conversion by [Danger Is Real](https://dangerisreal.blogspot.com/).
 
 ## Diseases
-All references to Constitution or Strength are STR, and mental abilities are WIL.
+All references to Constitution or Strength are considered STR, and any mental abilities or effects are considered WIL.
 
 ## Hexes
 
 ### Hex 2 Ur-Corpse Ruins
 #### Iron Sinner
-5 HP, 14 STR, 18 WIL  2 Armor, (d8, 2 times bulky)
-- Askguurd: Zweihander d12 freezes wounds
-- Naldden Truncheon d8 can never kill
-- Disnat Short sword d8, 3 Armor, always acts last
-- Kaldik Spiked chain, Critical damage: wraps throat unless you follow his commands d8 STR damage
-- Jondirr Broken spear d6, mask can paralyze save WIL unless you are “lecherous”
-- Tantin Paired hammers d6+d6, o legs, must crawl
-- Dinet Giant knife d10
-- Naggtet Giant hammer d8, all in agony, land for d8+d8
+9 HP, 2 Armor, 14 STR, 8 DEX, 18 WIL
+- **Askguurd**: Zweihander (d6+d6, freezes wounds (target is _impaired_))
+- **Naldden**: Truncheon (d8, can never kill)
+- **Disnat**: 6 DEX, 3 Armor, always fails DEX save at start of battle, Short sword (d8)
+- **Kaldik**: Spiked chain strangles target unless they follow his commands (d8 STR damage), DEX save to avoid
+- **Jondirr**: Broken spear (d6), mask can paralyze those who are not “lecherous” (WIL save to avoid)
+- **Tantin**: Paired hammers (d6+d6), 3 DEX (crawls)
+- **Dinet**: Giant knife (d12)
+- **Naggtet**: Giant hammer d10, every d4 rounds falls and crushes nearby PCs (d8+d8 damage, _blast_)
+- Each weapon take up four slots and attack is _impaired_ if wielded by a PC
 
 #### Crocodile Ghoul
-5 HP, 1 Armor, 14 STR, 8 DEX, bite (d8)
+8 HP, 1 Armor, 14 STR, 8 DEX, 11 WIL, Bite (d8)
 
 #### Ur-corpse
-18 HP, 18 STR, 2 Armor, claws (d12)
-- Critical damage: Necrosis d12+d12 STR damage
+18 HP, 9 DEX, 18 STR, 18 WIL, Claws (d12)
+- Critical damage: Necrosis (d8 STR loss)
 
 ### Hex 3 Tree-Spider Trap
 
 #### Tree-Spider
-8 HP, 14 STR, Bite (d6)
-- Critical damage: Poison (d6 STR damage)
+12 HP, 1 Armor, 14 STR, 11 DEX, 15 WIL, Bite (d6)
+- Critical damage: Poison (d8 STR loss)
 
 ### Hex 4 Explosive Madman
 #### Mad Sapper
-4 HP, 15 DEX, WIL 8, Thrown Explosive (d10 Blast)
-- Critical damage: Poison (d6 STR damage)
+4 HP, 1 Armor, 12 STR, 15 DEX, WIL 8, Thrown Explosive (d8, _blast_)
 
-### Hex 6
-Wasser Koenig Shipwreck
+### Hex 6 Wasser Koenig Shipwreck
 
 #### Reanimated Crew  
-3 HP Sword (d6)
+3 HP, 11 STR, 9 DEX, 18 WIL, Sword (d6)
 
 ### Hex 9 Hunger the Crocodile
 #### Hunger the Crocodile
-6 HP, 1 Armor, 12 STR, 12 DEX, Bite (d12)
-- Critical damage: Death Roll (d12 STR damage)
+16 HP, 3 Armor, 12 STR, 12 DEX, 15 WIL, Bite (d12)
+- Critical damage: Death Roll (d8 STR loss)
 
 ## Appendix B: They Lurk, Hungry
 
