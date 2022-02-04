@@ -7,70 +7,11 @@ grand_parent: Resources
 
 # Fever Swamp
 
-- Original system-neutral [adventure](https://www.drivethrurpg.com/product/224803/Fever-Swamp) by Luke Gearing.
+- Original system-neutral [adventure](https://www.drivethrurpg.com/product/224803/Fever-Swamp) by [Luke Gearing](https://lukegearing.blot.im/).
 - Original conversion by [Danger Is Real](https://dangerisreal.blogspot.com/).
 
 ## Diseases
 All references to Constitution or Strength are STR, and mental abilities are WIL.
-
-## Appendix B: They Lurk, Hungry
-
-#### Candlethief
-4 HP
-
-#### Crocodile
-6 HP, 1 Armor, 12 STR, 12 DEX, Bite (d8)
-- Critical damage: Death Roll (1d6 STR damage)
-
-#### Dredgers
-8 HP, 15 STR, WIL 12, net & smash (d12)
-- Fears Fire
-
-#### Drowning Spirits
-4 HP, Grapple
-- Beguile: Save WIL or willingly slip into the water
-- Grapple: Save STR to break free or d6 STR damage from drowning
-
-#### Ghost Olm
-12 HP, 2 Armor, 16 STR.
-- Seeing: Throw at least 1d8*100 £ worth of items overboard or random encounters occur twice as often.
-- Lie: Its head, if worn, can be used to lie once to any entity.
-
-#### Giant Leech
-3 HP, STR 12, WIL 12 Bite (d4)
-- Critical damage: locks & drain 1d2 STR/Round
-- Torn off for d6 STR damage & 50% of a random disease
-
-#### Grandfather Rotte
-18 HP, 3 Armor, 20 STR, Fist (d12+d12 blast)
-- Critical damage: automatic kill
-- Consider as a detachment
-
-#### Leech-Chewers
-6 HP, 3 STR, 14 DEX, WIL 9, Tear out Leech (d4)
-- distract with meat.
-
-#### Man-gore-grove
-0 HP, 16 STR, WIL 18,  Root Crush (d12 blast)
-- Tries to sink boat (sink damage)
-
-#### Scumboggles
-3 HP, 14 DEX, WIL 12, Spear (d6)
-
-#### Stilt-walker
-7 HP, 1 Armor, 12 STR, X DEX, 18 WIL, Spear like Legs (d8)
-- Attacks always does sink damage to ship
-
-#### Swamp Snake
-5 HP, STR 8, DEX 16, WIL 8 Bite (d6)
-- Critical damage: Poison d6 STR damage
-
-#### Trunk Snake
-8 HP, STR 13, Bite (d6)
-- Critical damage: Poison Paralysis (d6 DEX damage)
-
-#### Chieftain-Wight
-6 HP, 1 Armor, 14 STR, WIL 18, Sword (d8,  Bulky)
 
 ## Hexes
 
@@ -114,3 +55,61 @@ Wasser Koenig Shipwreck
 #### Hunger the Crocodile
 6 HP, 1 Armor, 12 STR, 12 DEX, Bite (d12)
 - Critical damage: Death Roll (d12 STR damage)
+
+## Appendix B: They Lurk, Hungry
+
+#### Candlethief
+4 HP
+
+#### Crocodile
+6 HP, 1 Armor, 12 STR, 12 DEX, 12 WIL, Bite (d8)
+- Critical damage: Death Roll (1d6 STR damage)
+
+#### Dredgers
+8 HP, 15 STR, WIL 12, Net & Smash (d12, _blast_)
+- Fears Fire (WIL save to avoid fleeing)
+
+#### Drowning Spirits
+4 HP, 10 WIL, Grapple
+- Beguile: Target makes a WIL save or willingly slips into the water
+- Grapple: On Critical damage, target drowns and takes additional d6 damage to STR
+
+#### Ghost Olm
+12 HP, 3 Armor, 16 STR
+- RAW, or with no stats at all.
+
+#### Giant Leech
+5 HP, 1 Armor, 12 STR, 12 WIL, Bite (d4)
+- Critical damage: locks & drain 1d2 STR/Round
+- Torn off for d6 STR damage & 50% chance of a random disease
+
+#### Grandfather Rotte
+18 HP, 3 Armor, 20 STR, Fist (d12+d12 blast)
+- Critical damage: automatic kill
+- Consider as a detachment
+
+#### Leech-Chewers
+6 HP, 3 STR, 14 DEX, WIL 9, Tear out Leech (d4)
+- distract with meat.
+
+#### Man-gore-grove
+0 HP, 16 STR, WIL 18,  Root Crush (d12 blast)
+- Tries to sink boat (sink damage)
+
+#### Scumboggles
+3 HP, 14 DEX, WIL 12, Spear (d6)
+
+#### Stilt-walker
+7 HP, 1 Armor, 12 STR, X DEX, 18 WIL, Spear like Legs (d8)
+- Attacks always does sink damage to ship
+
+#### Swamp Snake
+5 HP, STR 8, DEX 16, WIL 8 Bite (d6)
+- Critical damage: Poison d6 STR damage
+
+#### Trunk Snake
+8 HP, STR 13, Bite (d6)
+- Critical damage: Poison Paralysis (d6 DEX damage)
+
+#### Chieftain-Wight
+6 HP, 1 Armor, 14 STR, WIL 18, Sword (d8,  Bulky)
