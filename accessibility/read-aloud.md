@@ -4,6 +4,7 @@ title: Read Aloud
 nav_order: 1
 parent: Accessibility
 nav_exclude: true
+search_exclude: true
 ---
 
 # Read Aloud
