@@ -19,7 +19,7 @@ All references to Constitution or Strength are considered STR, and any mental ab
 #### Iron Sinner
 9 HP, 2 Armor, 14 STR, 8 DEX, 18 WIL
 - **Askguurd**: Zweihander (d6+d6), on critical damage wounds freeze (_deprived_ if target recovers)
-- **Naldden**: Truncheon (d8, can never kill)
+- **Naldden**: Truncheon (d8), never kills
 - **Disnat**: 6 DEX, 3 Armor, always fails DEX save at start of battle, Short sword (d8)
 - **Kaldik**: Spiked chain strangles target unless they follow his commands (d8 STR damage), DEX save to avoid
 - **Jondirr**: Broken spear (d6), mask can paralyze those who are not “lecherous” (WIL save to avoid)
