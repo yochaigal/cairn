@@ -76,7 +76,6 @@ Wasser Koenig Shipwreck
 
 #### Ghost Olm
 12 HP, 3 Armor, 16 STR
-- RAW, or with no stats at all.
 
 #### Giant Leech
 5 HP, 1 Armor, 12 STR, 12 WIL, Bite (d4)
@@ -84,32 +83,33 @@ Wasser Koenig Shipwreck
 - Torn off for d6 STR damage & 50% chance of a random disease
 
 #### Grandfather Rotte
-18 HP, 3 Armor, 20 STR, Fist (d12+d12 blast)
-- Critical damage: automatic kill
-- Consider as a detachment
+18 HP, 3 Armor, 18 STR, Fist (d12+d12 _blast_), _detachment_
+- Critical damage: immediate death.
 
 #### Leech-Chewers
-6 HP, 3 STR, 14 DEX, WIL 9, Tear out Leech (d4)
-- distract with meat.
+4 HP, 3 STR, 14 DEX, WIL 9, Tear out Leech (d4)
+- Critical damage: lose an additional 4 STR
+- WIL save to avoid being distracted by meat
 
 #### Man-gore-grove
-0 HP, 16 STR, WIL 18,  Root Crush (d12 blast)
+1 HP per root, 16 STR, WIL 18, Root Crush (d8, _blast_)
 - Tries to sink boat (sink damage)
 
 #### Scumboggles
-3 HP, 14 DEX, WIL 12, Spear (d6)
+3 HP, 8 STR, 14 DEX, 12 WIL, Spear (d6)
 
 #### Stilt-walker
-7 HP, 1 Armor, 12 STR, X DEX, 18 WIL, Spear like Legs (d8)
+7 HP, 1 Armor, 12 STR, 5 DEX, 18 WIL, Spear-like Legs (d8)
 - Attacks always does sink damage to ship
 
 #### Swamp Snake
-5 HP, STR 8, DEX 16, WIL 8 Bite (d6)
-- Critical damage: Poison d6 STR damage
+5 HP, 5 STR, 16 DEX, 8 WIL, Bite (d6)
+- Critical damage: Poison does d6 STR damage
 
 #### Trunk Snake
-8 HP, STR 13, Bite (d6)
-- Critical damage: Poison Paralysis (d6 DEX damage)
+8 HP, 13 STR, 14 DEX, 12 WIL smash (1d6) or Bite (d4)
+- Bite: on Critical damage target is reduced to 0 DEX (paralysis)
 
 #### Chieftain-Wight
-6 HP, 1 Armor, 14 STR, WIL 18, Sword (d8,  Bulky)
+10 HP, 1 Armor, 14 STR, 9 DEX, 18 WIL, Sword (d10)
+- PCs that approach must make a WIL save to avoid fleeing in terror.
