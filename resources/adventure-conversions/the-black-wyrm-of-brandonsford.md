@@ -15,8 +15,11 @@ search_exclude: true
 ### Lady Hilda
 10 HP, 3 Armor, 11 STR, 12 DEX, 16 WIL, Sword (d8), dagger (d6)
 
-
 ### Malzazerick the Magnificent
+5 HP, 12 STR, 11 DEX, 15 WIL, dagger (1d6), Spells: _Read Magic_, _Charm Person_, _Magic Missile_
+- _Read Magic_: Decipher magical runes, inscriptions or language.
+- _Charm Person_: See [_Charm_](/cairn-srd#100-spells).
+- _Magic Missile_: See [_Arcane Arrow_][/cairn-srd#100-spells]
 
 ### “Drop Dead” Ned
 
