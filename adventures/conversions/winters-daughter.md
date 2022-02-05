@@ -1,5 +1,6 @@
 ---
 layout: default
+redirect_from: /resources/adventure-conversions
 parent: Conversions
 grand_parent: Adventures
 title: Winter's Daughter
