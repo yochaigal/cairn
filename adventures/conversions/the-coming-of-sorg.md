@@ -1,6 +1,6 @@
 ---
 layout: default
-redirect_from: /resources/adventure-conversions
+redirect_from: /resources/adventure-conversions/
 title: The Coming of Sorg
 parent: Conversions
 grand_parent: Adventures
