@@ -3,7 +3,7 @@ layout: default
 title: Fever Swamp
 parent: Conversions
 grand_parent: Adventures
-redirect_from: /resources/adventure-conversions/fever-swamp
+redirect_from: /resources/adventure-conversions/fever-swamp/
 ---
 
 # Fever Swamp
