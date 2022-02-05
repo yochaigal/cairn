@@ -13,6 +13,7 @@ search_exclude: true
 
 ## The Town of Brandonsford
 ### Lady Hilda
+10 HP, 3 Armor, 11 STR, 12 DEX, 16 WIL, Sword (d8), dagger (d6)
 
 
 ### Malzazerick the Magnificent
