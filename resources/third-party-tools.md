@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Third-Party Tools
+title: Third-Party Resources
 nav_order: 5
-parent: Tools
-grand_parent: Resources
+parent: Resources
 ---
 
 # Third-party Resources
