@@ -1,8 +1,8 @@
 ---
 layout: default
 title: The Coming of Sorg
-parent: Adventure Conversions
-grand_parent: Resources
+parent: Conversions
+grand_parent: Adventures
 ---
 
 # The Coming of Sorg

@@ -1,8 +1,8 @@
 ---
 layout: default
 title: The Full-Dark Stone
-parent: Adventure Conversions
-grand_parent: Resources
+parent: Conversions
+grand_parent: Adventures
 ---
 
 # The Full-Dark Stone

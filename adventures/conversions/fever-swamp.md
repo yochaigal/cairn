@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Fever Swamp
-parent: Adventure Conversions
-grand_parent: Resources
+parent: Conversions
+grand_parent: Adventures
 ---
 
 # Fever Swamp

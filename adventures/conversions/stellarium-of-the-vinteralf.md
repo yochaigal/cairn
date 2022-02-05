@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Stellarium of the Vinteralf
-parent: Adventure Conversions
-grand_parent: Resources
+parent: Conversions
+grand_parent: Adventures
 ---
 
 # Stellarium of the Vinteralf

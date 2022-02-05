@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Circle of Wolves
-parent: Adventure Conversions
-grand_parent: Resources
+parent: Conversions
+grand_parent: Adventures
 ---
 
 # Circle of Wolves

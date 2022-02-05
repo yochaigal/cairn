@@ -1,7 +1,7 @@
 ---
 layout: default
-parent: Adventure Conversions
-grand_parent: Resources
+parent: Conversions
+grand_parent: Adventures
 nav_exclude: true
 search_exclude: true
 title: Belly of the Fishy Beast

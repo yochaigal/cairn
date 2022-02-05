@@ -1,7 +1,7 @@
 ---
 layout: default
-parent: Adventure Conversions
-grand_parent: Resources
+parent: Conversions
+grand_parent: Adventures
 title: Operation Unfathomable
 ---
 
