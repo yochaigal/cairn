@@ -10,3 +10,13 @@ search_exclude: true
 # The Black Wyrm of Brandonsford
 
 - Original system-neutral [adventure](https://www.drivethrurpg.com/product/327744/The-Black-Wyrm-of-Brandonsford) by [Chance Dudinack](https://wizardfightclub.blogspot.com/).
+
+## The Town of Brandonsford
+### Lady Hilda
+
+
+### Malzazerick the Magnificent
+
+### “Drop Dead” Ned
+
+### Squints
