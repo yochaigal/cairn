@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Original
-parent: adventures
+parent: Adventures
 has_children: true
 ---
 
