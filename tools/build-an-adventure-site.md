@@ -15,8 +15,7 @@ parent: Tools
 - Keep these concepts in mind at all times: Dangers, Stakes, Motives, Urgency. The more you can weave in, the better.
 
 ## Spark Tables
-[Spark Tables](https://www.bastionland.com/2017/11/electric-modernity-and-spark-tables.html) are very handy tools for quickly creating a setting. They are typically made of 40 words divided into two columns.  
-For an example Spark Table see [here](https://docs.google.com/spreadsheets/d/1b3E3FsQVvjqAMVcDIVXXQmo9g6bH0fQBDbzRJ6K5F10/edit#gid=0). With some light editing, they result in phrases like:  
+[Spark Tables](https://www.bastionland.com/2017/11/electric-modernity-and-spark-tables.html) are very handy tools for quickly creating a setting. They are typically made of 40 words divided into two columns. For an example Spark Table see [here](https://docs.google.com/spreadsheets/d/1b3E3FsQVvjqAMVcDIVXXQmo9g6bH0fQBDbzRJ6K5F10/edit#gid=0). With some light editing, it can result in phrases like:  
 - Digesting Claws
 - White Eyes
 - Distorted Tongues
