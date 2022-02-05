@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Future Adventure Conversions
+title: Future Conversions
 parent: Adventures
 redirect_from: /resources/adventure-conversions
 nav_order: 3
