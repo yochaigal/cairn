@@ -1,6 +1,6 @@
 ---
 title: Protecting the All-Seed
-parent: Original
+parent: Originals
 grand_parent: Adventures
 redirect_to: https://seanfsmith.itch.io/sgii
 ---

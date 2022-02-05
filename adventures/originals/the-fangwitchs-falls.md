@@ -1,6 +1,6 @@
 ---
 title: The Fangwitch's Falls
-parent: Original
+parent: Originals
 grand_parent: Adventures
 redirect_to: https://emyco.itch.io/the-fangwitchs-falls
 ---
