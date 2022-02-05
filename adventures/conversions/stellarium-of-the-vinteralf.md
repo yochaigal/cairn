@@ -1,6 +1,5 @@
 ---
 layout: default
-redirect_from: /resources/adventure-conversions/
 title: Stellarium of the Vinteralf
 parent: Conversions
 grand_parent: Adventures

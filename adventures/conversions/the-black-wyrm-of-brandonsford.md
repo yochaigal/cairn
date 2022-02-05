@@ -1,6 +1,5 @@
 ---
 layout: default
-redirect_from: /resources/adventure-conversions/
 title: The Black Wyrm of Brandonsford
 parent: Conversions
 grand_parent: Adventures
