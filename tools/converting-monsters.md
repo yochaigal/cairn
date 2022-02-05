@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Converting Monsters
-nav_order: 3
 parent: Tools
 ---
 
