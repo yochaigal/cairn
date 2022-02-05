@@ -1,5 +1,6 @@
 ---
 layout: default
+redirect_from: /resources/tools
 title: Foundry VTT System
 parent: Resources
 nav_order: 2

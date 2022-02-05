@@ -2,6 +2,7 @@
 layout: default
 title: Converting Monsters
 parent: Tools
+redirect_from: /resources/tools
 ---
 
 # Converting Monsters

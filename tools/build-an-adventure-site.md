@@ -2,6 +2,7 @@
 layout: default
 title: Build An Adventure Site
 parent: Tools
+redirect_from: /resources/tools
 ---
 
 # Build An Adventure Site
