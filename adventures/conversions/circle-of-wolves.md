@@ -3,6 +3,7 @@ layout: default
 title: Circle of Wolves
 parent: Conversions
 grand_parent: Adventures
+redirect_from: /resources/adventure-conversions/circle-of-wolves
 ---
 
 # Circle of Wolves

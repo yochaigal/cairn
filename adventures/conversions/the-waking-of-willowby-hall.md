@@ -3,6 +3,7 @@ layout: default
 parent: Conversions
 grand_parent: Adventures
 title: The Waking of Willowby Hall
+redirect_from: /resources/adventure-conversions/the-waking-of-willowby-hall
 ---
 
 # The Waking of Willowby Hall

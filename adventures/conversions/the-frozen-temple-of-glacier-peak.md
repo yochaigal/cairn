@@ -3,6 +3,7 @@ layout: default
 parent: Conversions
 grand_parent: Adventures
 title: The Frozen Temple of Glacier Peak
+redirect_from: /resources/adventure-conversions/the-frozen-temple-of-glacier-peak
 ---
 
 # The Frozen Temple of Glacier Peak

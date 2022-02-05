@@ -3,6 +3,7 @@ layout: default
 parent: Conversions
 grand_parent: Adventures
 title: Grave of the Green Flame
+redirect_from: /resources/adventure-conversions/grave-of-the-green-flame
 ---
 
 # Grave of the Green Flame

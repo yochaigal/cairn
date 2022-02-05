@@ -3,6 +3,7 @@ layout: default
 parent: Conversions
 grand_parent: Adventures
 title: Temple of the Moon Priests
+redirect_from: /resources/adventure-conversions/temple-of-the-moon-priests
 ---
 
 # Temple of the Moon Priests

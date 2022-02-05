@@ -3,6 +3,7 @@ layout: default
 parent: Conversions
 grand_parent: Adventures
 title: Where The Wheat Grows Tall
+redirect_from: /resources/adventure-conversions/where-the-wheat-grows-tall
 ---
 
 # Where The Wheat Grows Tall

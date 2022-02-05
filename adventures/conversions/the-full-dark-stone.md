@@ -3,6 +3,7 @@ layout: default
 title: The Full-Dark Stone
 parent: Conversions
 grand_parent: Adventures
+redirect_from: /resources/adventure-conversions/the-full-dark-stone
 ---
 
 # The Full-Dark Stone

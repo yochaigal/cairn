@@ -3,6 +3,7 @@ layout: default
 parent: Conversions
 grand_parent: Adventures
 title: The Sky-Blind Spire
+redirect_from: /resources/adventure-conversions/the-sky-blind-spire
 ---
 
 # The Sky-Blind Spire

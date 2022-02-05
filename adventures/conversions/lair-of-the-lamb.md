@@ -3,6 +3,7 @@ layout: default
 parent: Conversions
 grand_parent: Adventures
 title: Lair of the Lamb
+redirect_from: /resources/adventure-conversions/lair-of-the-lamb
 ---
 
 # Lair of the Lamb

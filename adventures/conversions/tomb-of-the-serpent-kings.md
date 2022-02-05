@@ -3,6 +3,7 @@ layout: default
 parent: Conversions
 grand_parent: Adventures
 title: Tomb of the Serpent Kings
+redirect_from: /resources/adventure-conversions/tomb-of-the-serpent-kings
 ---
 
 # Tomb of the Serpent Kings

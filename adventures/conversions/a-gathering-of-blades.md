@@ -3,6 +3,7 @@ layout: default
 parent: Conversions
 grand_parent: Adventures
 title: A Gathering of Blades
+redirect_from: /resources/adventure-conversions/a-gathering-of-blades
 ---
 
 # A Gathering of Blades

@@ -3,6 +3,7 @@ layout: default
 parent: Conversions
 grand_parent: Adventures
 title: Hideous Daylight
+redirect_from: /resources/adventure-conversions/hideous-daylight
 ---
 
 # Hideous Daylight
