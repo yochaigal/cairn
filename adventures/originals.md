@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Original
+title: Originals
 parent: Adventures
 nav_order: 1
 has_children: true
