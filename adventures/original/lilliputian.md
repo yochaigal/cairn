@@ -1,5 +1,6 @@
 ---
 title: Lilliputian
-parent: Adventures
+parent: Original
+grand_parent: Adventures
 redirect_to: https://manarampmatt.itch.io/lilliputian
 ---
