@@ -3,7 +3,7 @@ layout: default
 title: The Burial Mound of Gilliard Wolfclan
 parent: Conversions
 grand_parent: Adventures
-redirect_from: /resources/adventure-conversions/the-burial-mound-of-gilliard-wolfclan
+redirect_from: /resources/adventure-conversions/the-burial-mound-of-gilliard-wolfclan/
 ---
 
 # The Burial Mound of Gilliard Wolfclan

@@ -3,7 +3,7 @@ layout: default
 parent: Conversions
 grand_parent: Adventures
 title: Raiders of Wolfsea
-redirect_from: /resources/adventure-conversions/raiders-of-wolfsea
+redirect_from: /resources/adventure-conversions/raiders-of-wolfsea/
 ---
 
 # Raiders of Wolfsea

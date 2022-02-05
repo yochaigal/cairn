@@ -3,7 +3,7 @@ layout: default
 parent: Conversions
 grand_parent: Adventures
 title: The Hole in the Oak
-redirect_from: /resources/adventure-conversions/the-hole-in-the-oak
+redirect_from: /resources/adventure-conversions/the-hole-in-the-oak/
 ---
 
 # The Hole in the Oak

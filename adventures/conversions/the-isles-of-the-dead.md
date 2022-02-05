@@ -3,7 +3,7 @@ layout: default
 parent: Conversions
 grand_parent: Adventures
 title: The Isles of the Dead
-redirect_from: /resources/adventure-conversions/the-isles-of-the-dead
+redirect_from: /resources/adventure-conversions/the-isles-of-the-dead/
 ---
 
 # The Isles of the Dead

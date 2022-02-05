@@ -3,7 +3,7 @@ layout: default
 parent: Conversions
 grand_parent: Adventures
 title: A Gathering of Blades
-redirect_from: /resources/adventure-conversions/a-gathering-of-blades
+redirect_from: /resources/adventure-conversions/a-gathering-of-blades/
 ---
 
 # A Gathering of Blades
@@ -44,4 +44,4 @@ redirect_from: /resources/adventure-conversions/a-gathering-of-blades
 4 HP, 5 STR, 7 DEX, 12 WIL, acidic spray (d6, corrodes armor)
 
 ### Rawg, a 10ft sentient sword
-- Awaits a true master; shrinks to the size of its latest wielder.
+- Awaits a true master; shrinks to the size of its la/ wielder.

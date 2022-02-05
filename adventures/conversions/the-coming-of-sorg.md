@@ -3,7 +3,7 @@ layout: default
 title: The Coming of Sorg
 parent: Conversions
 grand_parent: Adventures
-redirect_from: /resources/adventure-conversions/the-coming-of-sorg
+redirect_from: /resources/adventure-conversions/the-coming-of-sorg/
 ---
 
 # The Coming of Sorg
@@ -35,7 +35,7 @@ redirect_from: /resources/adventure-conversions/the-coming-of-sorg
 - Rhino-sized larva, slow.
 - Protected by 11 acolytes (devoted, but weaponless and deprived---0 HP, attacks *impaired*).
 
-### Toothy intestine emanation 
+### Toothy in/ine emanation 
 - Squeeze (d6), swallow on critical damage.
 
 ### Air leech Swarm Emanation 

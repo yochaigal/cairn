@@ -3,7 +3,7 @@ layout: default
 parent: Conversions
 grand_parent: Adventures
 title: Operation Unfathomable
-redirect_from: /resources/adventure-conversions/operation-unfathomable
+redirect_from: /resources/adventure-conversions/operation-unfathomable/
 ---
 
 # Operation Unfathomable

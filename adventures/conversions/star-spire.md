@@ -3,7 +3,7 @@ layout: default
 parent: Conversions
 grand_parent: Adventures
 title: Star Spire
-redirect_from: /resources/adventure-conversions/star-spire
+redirect_from: /resources/adventure-conversions/star-spire/
 ---
 
 # Star Spire

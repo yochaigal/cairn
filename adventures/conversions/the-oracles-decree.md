@@ -3,7 +3,7 @@ layout: default
 parent: Conversions
 grand_parent: Adventures
 title: The Oracle's Decree
-redirect_from: /resources/adventure-conversions/the-oracles-decree
+redirect_from: /resources/adventure-conversions/the-oracles-decree/
 ---
 
 # The Oracle's Decree

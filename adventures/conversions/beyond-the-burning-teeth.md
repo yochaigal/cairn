@@ -3,7 +3,7 @@ layout: default
 parent: Conversions
 grand_parent: Adventures
 title: Beyond The Burning Teeth
-redirect_from: /resources/adventure-conversions/beyond-the-burning-teeth
+redirect_from: /resources/adventure-conversions/beyond-the-burning-teeth/
 ---
 
 # Burning The Burning Teeth
