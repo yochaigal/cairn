@@ -50,13 +50,13 @@ Every night the party skips **Camp** or each watch they do a **forced march** th
 
 #### Events Table
 
-||||||
-| ------------------- | ---------------- | ----------- | ---------------- | --------- |
-| D6+Terrain modifier | **TRAVEL**       | **EXPLORE** | **SUPPLY**       | **CAMP**  |
-| <=1                 | Encounter        | Encounter   | Encounter        | Encounter |
-| 2                   | Hazard           | Hazard      | Hazard           | Hazard    |
-| 3                   | Location/Feature | Hazard      | Location/Feature | Quiet     |
-| >=4                 | Quiet            | Quiet       | Quiet            | Quiet     |
+|                         |                  |             |                  |           |
+| ----------------------- | ---------------- | ----------- | ---------------- | --------- |
+| **d6+Terrain modifier** | **Travel**       | **Explore** | **Supply**       | **Camp**  |
+| <=1                     | Encounter        | Encounter   | Encounter        | Encounter |
+| 2                       | Hazard           | Hazard      | Hazard           | Hazard    |
+| 3                       | Location/Feature | Hazard      | Location/Feature | Quiet     |
+| >=4                     | Quiet            | Quiet       | Quiet            | Quiet     |
 
 ##### Encounter
 Generate a random encounter. If the distance is far it can be an omen.
