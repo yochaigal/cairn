@@ -12,6 +12,8 @@ search_exclude: true
 - Original system-neutral [adventure](https://www.drivethrurpg.com/product/327744/The-Black-Wyrm-of-Brandonsford) by [Chance Dudinack](https://wizardfightclub.blogspot.com/).
 
 ## The Town of Brandonsford
+- Treat NPCs as 2-6 HP, 8-12 STR (dependent on perceived hardiness).
+
 ### Lady Hilda
 8 HP, 3 Armor, 11 STR, 12 DEX, 16 WIL, sword (d8), dagger (d6)
 
@@ -27,3 +29,8 @@ search_exclude: true
 - Killer Wasp: On Critical Damage target falls to the ground, twitching for 1d6+1 rounds, but recovers.
 
 ### Squints
+3 HP, 1 Armor, 8 STR, 14 DEX, 9 WIL, dagger (d6), sling (d6)
+
+### Father William the Priest
+- _Cure Wounds_: See [Cure Wounds](/cairn-srd#100-spells).
+- _Cure Disease_: A target is completely cured of a single disease. 

@@ -32,13 +32,13 @@ The party travels through a hex.
 
 ### Explore
 The party searches for hidden any features within the current hex.
-- One Location/Feature is discovered.
 - Roll on the [Events Table](/hacks/third-party/hexcrawl-procedures/#events-table).
+- One Location/Feature is discovered.
 
 ### Supply
 The party gathers food and water.
-- Hunting and foraging
 - Roll on the [Events Table](/hacks/third-party/hexcrawl-procedures/#events-table).
+- Hunting and foraging (if possible given the terrain).
 
 ### Camp
 #### The party stops to set up camp.
@@ -48,6 +48,7 @@ The party gathers food and water.
 ### Interact
 #### The party interacts with a location/feature
 - Dungeon delving, town/village adventure, lair exploration, long NPC interaction, etc...
+- If the party is able to rest fully, party members lose all their Fatigue (if applicable).
 
 ### Fatigue
 For each night the party skips _making camp_ or is _forced to march_, each PC gets one Fatigue.
@@ -69,12 +70,12 @@ Generate a random encounter. If the distance is far it can be an omen.
 The party stumbles upon a hidden location or feature.
 
 #### Hazard
-The party comes across a hazard or impediment (Event or Terrain at the Warden's discretion).
+The party comes across a hazard or impediment (an [Event](/hacks/third-party/hexcrawl-procedures/#events-table) or [Terrain](/hacks/third-party/hexcrawl-procedures/#events-terrain-modifier) at the Warden's discretion).
 
 ### Quiet
 Nothing noticeable happens. The party members lose all their Fatigue (if applicable).
 
-### Event Terrain Modifier
+### Events Terrain Modifier
 - **City**, clear, grasslands, settled lands: 0.
 - **Aerial**, barren, desert, forest, hills: -1.
 - **Jungle**, mountains, swamp: -2.
