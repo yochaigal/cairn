@@ -17,38 +17,42 @@ The day is divided into 3 watches of _roughly 8 hours_ each:
 - **Late watch** (+/- 2 pm -> 10 pm)
 - **Night watch** (+/- 10 pm -> 6pm)
 
-### For each watch, the party can take one action:
+### For each watch, the party takes one action:
 
-#### Travel
-##### The party travels through hexes.
-  - Progress up to half of daily travel distance
-  - all obvious locations/features and the terrain type of neighboring hexes are revealed accordingly to sight distance.
-  - Check for losing direction.
-  - Roll on the Event Table
+### Travel
+The party travels through a hex.
+- Progress up to half their daily travel distance (by foot, horse, cart, etc).
+- Obvious locations, features, and terrain types of any neighboring hexes are revealed accordingly based on distance and sight.
+- The party must be careful to avoid [Losing Direction](/hacks/third-party/hexcrawl-procedures/#losing-direction).
+- Roll on the [Events Table](/hacks/third-party/hexcrawl-procedures/#events-table).
 
-#### Explore
-##### The party search for hidden features within the current hex.
-  - One Location/Feature is discovered.
-  - Roll on the Event Table.
+#### Losing Direction
+- There is a 2-in-6 chance the party will get lost when traveling via difficult or hard-to-see terrain.
+- Maps and relevant backgrounds negate the need for a roll, or decrease the chances to 1-in-6.
 
-#### Supply
-##### The party is gathering food and water
-  - Hunting and foraging
-  - Roll on the Event Table.
+### Explore
+The party searches for hidden any features within the current hex.
+- One Location/Feature is discovered.
+- Roll on the [Events Table](/hacks/third-party/hexcrawl-procedures/#events-table).
 
-#### Camp
-##### The party stops to set up camp.
-  - Each member removes 1 fatigue slot (if any)
-  - Roll on the **Event Table**.
+### Supply
+The party gathers food and water.
+- Hunting and foraging
+- Roll on the [Events Table](/hacks/third-party/hexcrawl-procedures/#events-table).
 
-#### Interact
-##### The party interacts with a location/feature
-  - Dungeon delving, town/village adventure, lair exploration, long NPC interaction, etc...
+### Camp
+#### The party stops to set up camp.
+- Roll on the [Events Table](/hacks/third-party/hexcrawl-procedures/#events-table).
+- If _quiet_ or the party is able to rest fully, party members lose all their Fatigue (if applicable).
 
-#### Fatigue
-Every night the party skips **Camp** or each watch they do a **forced march** they get a fatigue slot
+### Interact
+#### The party interacts with a location/feature
+- Dungeon delving, town/village adventure, lair exploration, long NPC interaction, etc...
 
-#### Events Table
+### Fatigue
+For each night the party skips _making camp_ or is _forced to march_, each PC gets one Fatigue.
+
+### Events Table
 
 |                         |                  |             |                  |           |
 | ----------------------- | ---------------- | ----------- | ---------------- | --------- |
@@ -58,24 +62,24 @@ Every night the party skips **Camp** or each watch they do a **forced march** th
 | 3                       | Location/Feature | Hazard      | Location/Feature | Quiet     |
 | >=4                     | Quiet            | Quiet       | Quiet            | Quiet     |
 
-##### Encounter
+#### Encounter
 Generate a random encounter. If the distance is far it can be an omen.
 
-##### Location Feature
-The party stumbles upon a hidden location or feature
+#### Location Feature
+The party stumbles upon a hidden location or feature.
 
-##### Hazard
-The party comes across a hazard or impediment (Event or Terrain at the Warden's discretion)
+#### Hazard
+The party comes across a hazard or impediment (Event or Terrain at the Warden's discretion).
 
-##### Quiet
-Nothing noticeable happens.
+### Quiet
+Nothing noticeable happens. The party members lose all their Fatigue (if applicable).
 
-#### Event Terrain Modifier
+### Event Terrain Modifier
 - **City**, clear, grasslands, settled lands: 0.
 - **Aerial**, barren, desert, forest, hills: -1.
 - **Jungle**, mountains, swamp: -2.
 
-#### Sight distance
+### Sight distance
 (1 HEX = 6 miles / 10 Km)
 
 |||
