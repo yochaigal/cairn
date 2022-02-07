@@ -12,7 +12,7 @@ Below are some tips that might help with the process!
 
 ## The Basics
 Review the instructions in the [SRD](https://cairnrpg.com/cairn-srd/#creating-monsters). A couple of things to keep in mind:
-- OSE (or B/X) has really great stat blocks that can be easily truncated for quick conversion.
+- OSE (or B/X) has really great stat blocks that can be easily truncated for quick conversion. See their explanations [here](https://oldschoolessentials.necroticgnome.com/srd/index.php/General).
 - **HD** conversion is usually the hardest to grok. Convert _first_ **HP**, _then_ **STR**. You might use a creature's original **HD** twice during a conversion or not at all depending on the level of detail in the stat block.
 - Dungeon World has some great monster "moves" that translate to Critical Damage quite nicely, so looking for an equivalent creature in that system can really help! See this example [here](http://codex.dungeon-world.com/monster/5698559156420608).
 - Sometimes a direct stat to stat translation isn't an option. That's OK! There is a [way](/resources/tools/converting-monsters/#use-the-fiction)!
