@@ -51,17 +51,18 @@ search_exclude: true
 4 HP, 8 STR, 14 DEX, 12 WIL, bite (d6)
 
 ### Drunk Goblins
-3 HP, 1 Armor, 8 STR, 12 DEX, 11 WIL, 1 weapon (d6)
+3 HP, 8 STR, 11 DEX, 11 WIL, 1 weapon (d6)
 
 ### Idiot Dragon Hunters
-
+4 HP, 9 STR, 14 WIL, pitchfork (d6)
 
 ### Dryad
+10 HP, 2 Armor, 11 STR, 14 DEX, 8 WIL
+- _Charm Person_: See [_Charm_](/cairn-srd#100-spells).
 
 ### Stirges
 3 HP, 6 STR, 14 DEX, 13 WIL, bite (d4)
 - Blood drain: On Critical Damage target also takes 1d3 STR damage.
-
 
 ### Sprites
 
