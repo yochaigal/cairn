@@ -8,8 +8,8 @@ parent: Third Party
 # Yet Another Hexcrawl Procedure
 - Converted from [Yet Another Hexcrawl Procedure](https://dangerisreal.blogspot.com/2021/08/yet-another-hexcrawl-procedure-there-is.html), with permission.
 - Based on [Wilderness Adventuring](https://oldschoolessentials.necroticgnome.com/srd/index.php/Wilderness_Adventuring) for [Old School Essentials](https://www.drivethrurpg.com/product/272802/OldSchool-Essentials-Basic-Rules).
-- This assumes the classic 1 HEX = 6 miles = +/- 10 km but it works with any size.
-- Roll for **Weather** once at the start of each day on your favorite table. Example [here](https://ynasmidgard.blogspot.com/2019/02/simple-seasonal-weather-table.html) or [here](https://donjon.bin.sh/d20/weather/).
+- These procedures assume the classic 1 HEX = 6 miles = +/- 10 km but it works with any size. An unencumbered and healthy person can walk approximately 24 miles (or 40km) per day, equal to crossing 4 hexes.
+- At the start of each day, roll for **Weather** on your favorite table. Example [here](https://ynasmidgard.blogspot.com/2019/02/simple-seasonal-weather-table.html) or [here](https://donjon.bin.sh/d20/weather/).
 
 ## Watches
 The day is divided into 3 watches of _roughly 8 hours_ each:
