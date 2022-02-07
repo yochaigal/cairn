@@ -3,7 +3,6 @@ layout: default
 title: Funnel Rules
 grand_parent: Hacks
 parent: Third Party
-nav_order: 3
 ---
 
 # Funnel Rules

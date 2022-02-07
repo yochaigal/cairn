@@ -3,7 +3,6 @@ layout: default
 title: Third Party Hacks
 parent: Third Party
 grand_parent: Hacks
-nav_order: 1
 ---
 
 # Third Party Hacks

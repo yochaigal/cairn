@@ -3,7 +3,6 @@ layout: default
 title: Modular Rules & Procedures
 grand_parent: Hacks
 parent: Third Party
-nav_order: 2
 ---
 
 # Modular Rules & Procedures for Cairn
