@@ -8,11 +8,12 @@ search_exclude: true
 ---
 
 # The Black Wyrm of Brandonsford
-
 - Original system-neutral [adventure](https://www.drivethrurpg.com/product/327744/The-Black-Wyrm-of-Brandonsford) by [Chance Dudinack](https://wizardfightclub.blogspot.com/).
+- If not mentioned, run as written (RAW).
+- Treat NPCs as 2-6 HP, 8-12 STR (dependent on perceived hardiness).
+
 
 ## The Town of Brandonsford
-- Treat NPCs as 2-6 HP, 8-12 STR (dependent on perceived hardiness).
 
 ### Lady Hilda
 8 HP, 3 Armor, 11 STR, 12 DEX, 16 WIL, sword (d8), dagger (d6)
@@ -24,13 +25,23 @@ search_exclude: true
 - _Magic Missile_: See [_Arcane Arrow_](/cairn-srd#100-spells).
 
 ### “Drop Dead” Ned
-4 HP, 1 Armor, 11 STR, 13 DEX, 11 WIL, silver dagger (d6), shortbow (d6), killer wasp (d4)
+4 HP, 1 Armor, 11 STR, 13 DEX, 12 WIL, silver dagger (d6), shortbow (d6), killer wasp (d4)
 - Shortbow: On Critical Damage, target takes double the STR loss.
-- Killer Wasp: On Critical Damage target falls to the ground, twitching for 1d6+1 rounds, but recovers.
+- Killer Wasp: Target must make a WIL save to avoid falling to the ground and twitching for d6+1 rounds.
 
 ### Squints
 3 HP, 1 Armor, 8 STR, 14 DEX, 9 WIL, dagger (d6), sling (d6)
 
+### Warwick the Smith
+- **Mithril Chain:** 2 Armor, half damage from magic weapons/spells. _One slot_.
+
 ### Father William the Priest
 - _Cure Wounds_: See [Cure Wounds](/cairn-srd#100-spells).
-- _Cure Disease_: A target is completely cured of a single disease. 
+- _Cure Disease_: A target is completely cured of a single disease.
+
+### Ingrid the Alchemist
+- **Mandrake Root Tea**: Heals d4 STR over a 4 hour period.
+
+### Naggeneen, the Clurichaun
+3 HP, 2 Armor, 8 STR, 13 DEX, 12 WIL
+- As written this creature has an advantage at escaping death. 
