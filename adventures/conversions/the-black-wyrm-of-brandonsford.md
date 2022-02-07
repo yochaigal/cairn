@@ -57,7 +57,7 @@ search_exclude: true
 4 HP, 9 STR, 14 WIL, pitchfork (d6)
 
 ### Dryad
-10 HP, 2 Armor, 11 STR, 14 DEX, 8 WIL
+10 HP, 2 Armor, 11 STR, 14 DEX, 9 WIL
 - _Charm Person_: See [_Charm_](/cairn-srd#100-spells).
 
 ### Stirges
@@ -65,14 +65,43 @@ search_exclude: true
 - Blood drain: On Critical Damage target also takes 1d3 STR damage.
 
 ### Sprites
+2 HP, 2 Armor, 4 STR, 16 DEX, 11 WIL
 
 ### Golden Fox
+4 HP, 3 Armor, 8 STR, 15 DEX, 8 WIL, bite (d6)
 
 ### Fae Hounds
+6 HP, 2 Armor, 8 STR, 15 DEX, 15 WIL, bite (d6)
 
 ### Pompous Elvish Hunters
+4 HP, 2 Armor, 11 STR, 13 DEX, 12 WIL, longbow (d8), a spellbook
+- For spells consider any of the following table or see any ([random spell](/cairn-srd#100-spells)):
+
+|         |                   |
+| ------- | ----------------- |
+| **d20** | **Spell**         |
+| 1       | _Babble_          |
+| 2       | _Befuddle_        |
+| 3       | _Control Plants_  |
+| 4       | _Detect Magic_    |
+| 5       | _Deafen_          |
+| 6       | _Filch_           |
+| 7       | _Haste_           |
+| 9       | _Pacify_          |
+| 10      | _Phobia_          |
+| 11      | _Repel_           |
+| 12      | _Shroud_          |
+| 13      | _Sleep_           |
+| 14      | _Sniff_           |
+| 15      | _Telekinesis_     |
+| 16      | _Telepathy_       |
+| 17      | _Thicket_         |
+| 18      | _Teleport_        |
+| 19      | _Visual Illusion_ |
+| 20      | _Wizard Mark_     |
 
 ### Goblin Scavengers
+3 HP, 1 Armor, 9 STR, 11 DEX, 15 WIL, 1 weapon (d6)
 
 ## The Dragon
 
