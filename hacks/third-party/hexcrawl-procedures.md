@@ -6,7 +6,10 @@ parent: Third Party
 ---
 
 # Yet Another Hexcrawl Procedure
-Roll for **Weather** once at the start of each day on your favorite table.
+- Converted from [Yet Another Hexcrawl Procedure](https://dangerisreal.blogspot.com/2021/08/yet-another-hexcrawl-procedure-there-is.html), with permission.
+- Based on [Wilderness Adventuring](https://oldschoolessentials.necroticgnome.com/srd/index.php/Wilderness_Adventuring) for [Old School Essentials](https://www.drivethrurpg.com/product/272802/OldSchool-Essentials-Basic-Rules).
+- This assumes the classic 1 HEX = 6 miles = +/- 10 km but it works with any size.
+- Roll for **Weather** once at the start of each day on your favorite table. Example [here](https://ynasmidgard.blogspot.com/2019/02/simple-seasonal-weather-table.html) or [here](https://donjon.bin.sh/d20/weather/).
 
 ### Watches
 The day is divided in 3 **watches of roughly 8 hours:**
