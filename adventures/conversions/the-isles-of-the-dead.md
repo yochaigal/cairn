@@ -15,7 +15,6 @@ redirect_from: /resources/adventure-conversions/the-isles-of-the-dead/
 - Piercing and Slashing damage received is impaired.
 
 ### Boatman
-
 6 HP, 1 Armor, 8 STR, 12 WIL, staff (d8)
 - Delivers passengers after they paid the 2 coppers. Only fights to defend itself.
 - If killed, the murderer becomes the new boatman, becoming locked to the boat and incapable of being resurrected.
