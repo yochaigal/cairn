@@ -131,11 +131,11 @@ River Troll
 ### Giant Beaver
 7 HP, 1 Armor, 13 STR, 14 DEX, 13 WIL, bite (d8)
 
-## Fauns' Grove
+### Fauns' Grove
 - **Wine**: STR save to avoid poison.
 
 ### Giant
-15 HP, 2 Armor, 18 STR, 9 DEX, 12 WIL, fists (d8+d8), _detachment_
+10 HP, 2 Armor, 16 STR, 9 DEX, 12 WIL, fists (d8+d8), _detachment_
 
 ### Brother Dirk
 3 HP, 9 STR, 8 DEX, 15 WIL, fists (d4), spellbook (see below)
@@ -143,7 +143,35 @@ River Troll
 
 ## Goblin Castle
 ### Hogboon, the Goblin King
-15 HP, 2 Armor, 14 STR, 11 DEX, 15 WIL, sword (d8), spellbook (see below)
+8 HP, 2 Armor, 14 STR, 11 DEX, 15 WIL, sword (d8), spellbook (see below)
 - _Charm Person_: See [Charm](https://cairnrpg.com/cairn-srd#100-spells).
 - _Sleep_: See [Sleep](https://cairnrpg.com/cairn-srd#100-spells).
 - _Invisibility_: See [Invisibility](https://cairnrpg.com/cairn-srd#100-spells).
+
+## Barrow Mound
+### Knight's Crypt
+- **Burial Alcove**: STR save to move.
+
+### Goblins
+See [above](/adventures/conversions/the-black-wyrm-of-brandonsford/#goblins)
+
+### Gray Ooze
+5 HP, 4 STR, 12 DEX, 18 WIL, touch (d8+d8)
+- Critical Damage: Armor loses 1 point of value. Unarmored targets lose additional d8 STR.
+
+### Chapel
+- **Touching the Mold**: STR save or lose d2 STR.
+- **Blessing**: Cleaning the mold gives the PC a fictional advantage when they Save within the woods (the Warden will say how).
+
+## Lower Level
+### Sir Alfred
+5 HP, 2 Armor, 11 STR, 8 DEX, 18 WIL, greatsword (d8)
+
+### Sir Wyllt's Skull
+4 HP, 3 Armor, 4 STR, 14 DEX, 18 WIL, bite (d6)
+
+### Food
+- **Amphorae**: Eating the food deals d2 STR damage; save to avoid vomiting.
+
+### Giant Rat
+9 HP, 1 Armor, 14 STR, 11 DEX, 12 WIL, bite (d3)
