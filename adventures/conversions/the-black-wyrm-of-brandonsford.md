@@ -50,7 +50,7 @@ search_exclude: true
 4 HP, 8 STR, 14 DEX, 12 WIL, bite (d6)
 
 ### Drunk Goblins
-3 HP, 8 STR, 11 DEX, 11 WIL, 1 weapon (d6)
+2 HP, 8 STR, 11 DEX, 11 WIL, 1 weapon (d6)
 
 ### Idiot Dragon Hunters
 4 HP, 9 STR, 14 WIL, pitchfork (d6)
@@ -130,3 +130,13 @@ River Troll
 
 ### Giant Beaver
 7 HP, 1 Armor, 13 STR, 14 DEX, 13 WIL, bite (d8)
+
+## Fauns' Grove
+- **Wine**: STR save to avoid poison.
+
+### Giant
+15 HP, 2 Armor, 18 STR, 9 DEX, 12 WIL, fists (d8+d8), _detachment_
+
+### Brother Dirk
+3 HP, 9 STR, 8 DEX, 15 WIL, fists (d4), spellbook: _cure light wounds_
+- _Cure Light Wounds_: See [Cure Wounds](/cairn-srd#100-spells).
