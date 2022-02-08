@@ -110,11 +110,23 @@ search_exclude: true
 
 ## Stream
 ### Nixie Traders
+2 HP, 1 Armor, 4 STR, 14 DEX, 9 WIL, trident (d6)
+- Charm Person: See [Charm](https://cairnrpg.com/cairn-srd#100-spells).
+- Water Breathing (24h).
 
 ### Leprechaun Fisherman
+3 HP, 8 STR, 12 DEX, 12 WIL, None
+- Turn invisible at will.
+- Polymorph nonliving objects at will.
+- Create illusions at will.
 
 ### River Troll
+River Troll
+7 HP, 2 Armor, 14 STR, 11 DEX, 15 WIL, claws (d6+d6)
+- Can be distracted with food
 
 ### Goblins
+3 HP, 1 Armor, 9 STR, 11 DEX, 15 WIL, 1 weapon (d6)
 
 ### Giant Beaver
+7 HP, 1 Armor, 13 STR, 14 DEX, 13 WIL, bite (d8)
