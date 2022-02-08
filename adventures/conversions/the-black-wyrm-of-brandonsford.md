@@ -111,7 +111,7 @@ search_exclude: true
 ## Stream
 ### Nixie Traders
 2 HP, 1 Armor, 4 STR, 14 DEX, 9 WIL, trident (d6)
-- Charm Person: See [Charm](https://cairnrpg.com/cairn-srd#100-spells).
+- _Charm Person_: See [Charm](https://cairnrpg.com/cairn-srd#100-spells).
 - Water Breathing (24h).
 
 ### Leprechaun Fisherman
@@ -138,5 +138,12 @@ River Troll
 15 HP, 2 Armor, 18 STR, 9 DEX, 12 WIL, fists (d8+d8), _detachment_
 
 ### Brother Dirk
-3 HP, 9 STR, 8 DEX, 15 WIL, fists (d4), spellbook: _cure light wounds_
+3 HP, 9 STR, 8 DEX, 15 WIL, fists (d4), spellbook (see below)
 - _Cure Light Wounds_: See [Cure Wounds](/cairn-srd#100-spells).
+
+## Goblin Castle
+### Hogboon, the Goblin King
+15 HP, 2 Armor, 14 STR, 11 DEX, 15 WIL, sword (d8), spellbook (see below)
+- _Charm Person_: See [Charm](https://cairnrpg.com/cairn-srd#100-spells).
+- _Sleep_: See [Sleep](https://cairnrpg.com/cairn-srd#100-spells).
+- _Invisibility_: See [Invisibility](https://cairnrpg.com/cairn-srd#100-spells).
