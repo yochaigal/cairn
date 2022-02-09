@@ -33,7 +33,7 @@ If Cairn's default [spells](/cairn-srd#100-spells) don't exactly fit what you're
 | 19   | Boundless Message           | Delivers a single sentence to any one creature instantaneously, no matter the distance. |
 | 20   | Breath Soup                 | Blocks vision and slows movement.                            |
 | 21   | Burning Missile             | You fire an acid missile that does 1d6 damage to a target for every round it is not washed off. |
-| 22   | Burnishig Bubble            | Target is enclosed by an impenetrable sphere that rolls along the ground, unless they pass a DEX save. |
+| 22   | Burnishing Bubble        | Target is enclosed by an impenetrable sphere that rolls along the ground, unless they pass a DEX save. |
 | 23   | Catsense                    | Target has heightened senses for the next hour, especially at night. |
 | 24   | Chilling Graze              | Target loses 1d4+1 STR and is deprived.                      |
 | 25   | Cinder Flesh                | Energy beams burn enemies (1d10 blast damage) in a straight line. |
@@ -220,6 +220,9 @@ If Cairn's default [spells](/cairn-srd#100-spells) don't exactly fit what you're
 | 206  | Wizardsniff                 | You can feel any magic within a 60ft radius.                 |
 | 207  | Word of Pain                | A single phrase from your lips does 1d12 blast damage. Affected targets are also deafened. |
 | 208  | Tongue of the Blue Serpent  | Rust-colored, serpentine letters materialize on a surface you choose. Anyone reading these words becomes immobilized unless they succeed a WIL save. |
+| 209   | Ultimate Sacrifice  | The book's holder transfer's their life force into a corpse, reviving both body and soul.   |
+
+
 
 ### References
 - Chris McDowall's [Want a Simplified D&D Spell List?](https://www.bastionland.com/2012/08/want-simplified-d-spell-list.html)
