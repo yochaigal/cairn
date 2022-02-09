@@ -3,8 +3,6 @@ layout: default
 title: The Black Wyrm of Brandonsford
 parent: Conversions
 grand_parent: Adventures
-nav_exclude: true
-search_exclude: true
 ---
 
 # The Black Wyrm of Brandonsford
