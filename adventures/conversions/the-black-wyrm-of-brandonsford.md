@@ -219,7 +219,7 @@ See [above](/adventures/conversions/the-black-wyrm-of-brandonsford/#goblins)
 
 
 ### Maiden Statue
-1 HP, 3 Armor, 15 STR, 4 DEX, 16 WIL, rush attack (d10)
+1 HP, 3 Armor, 15 STR, 4 DEX, 16 WIL, rush attack (d4 STR loss on a failed save)
 
 ## Appendix B: Magic Items
 ### Carmelo's Jeweled Cutlass
