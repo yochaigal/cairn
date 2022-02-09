@@ -175,3 +175,11 @@ See [above](/adventures/conversions/the-black-wyrm-of-brandonsford/#goblins)
 
 ### Giant Rat
 9 HP, 1 Armor, 14 STR, 11 DEX, 12 WIL, bite (d3)
+
+### Giant Spider
+6 HP, 1 Armor, 8 STR, 13 DEX, 11 WIL, bite d6+d6,
+- Critical Damage: Death by poison within one round.
+
+### Sir Myrddin’s Ghost
+8 HP, 3 Armor, 8 STR, 15 DEX, 18 WIL, touch (d6+d6)
+- **Call to Arms**: Statue d8 damage to HP (no save).
