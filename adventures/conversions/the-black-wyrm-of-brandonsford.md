@@ -191,15 +191,15 @@ See [above](/adventures/conversions/the-black-wyrm-of-brandonsford/#goblins)
 
 ### Sir Wylt's Skeleton
 6 HP, 2 Armor, 11 STR, 8 DEX, 18 WIL, axe (d8)
-- Critical damage: roll for random boddy part to be severed (1-2: leg, 2-5: arm, 6: head)
+- Critical damage: roll for random body part to be severed (1-2: leg, 2-5: arm, 6: head)
 
 ### Crypt of Sir Myrddin
 - **Rune Stones**: See table below for random Cleric Spells. Refer to the following spells in [More Spellbooks](/resources/more-spellbooks/) for details on each!
 
-|         |                   |
-| ------- | ----------------- |
-| **d20** | **Spell**         |
-| 1       | Beguilement          |
+|         |                      |
+| ------- | -------------------- |
+| **d20** | **Spell**            |
+| 1       | Blessing             |
 | 2       | Curse Unlife         |
 | 3       | Fortify              |
 | 4       | Frozen Corpse        |
@@ -221,11 +221,14 @@ See [above](/adventures/conversions/the-black-wyrm-of-brandonsford/#goblins)
 
 
 ### Maiden Statue
-
+1 HP, 3 Armor, 15 STR, 4 DEX, 16 WIL, rush attack (d10)
 
 ## Appendix B: Magic Items
 ### Carmelo's Jeweled Cutlass
+- d8 damage, _enhanced_ against those it considers Lawful.
 
 ### Holy Sword of Sir Brandon
+- d8 damage, _enhanced_ against those it considers Evil.
 
 ### Silver Axe of Sir Wyllt
+- d8 damage, on critical damage severs body part f wielder's choice.
