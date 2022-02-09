@@ -10,7 +10,7 @@ _Originally by [Jim Parkin](https://classless-kobolds.itch.io/d66-starting-loado
 
 ### Instructions
 Roll 2d6. The ones place is the first digit and the tens place is the second digit.   
-Some packages may have [**Relics**](/resources/d66-starting-loadouts#relics) or [**Drugs**](/resources/d66-starting-loadouts#drugs) as well.
+Some packages may have [**Relics**](/hacks//third-party/fantasy-loadouts#relics) or [**Drugs**](/hacks//third-party/fantasy-loadouts#drugs) as well.
 
 ## 11. Acrobat
 - Balanced Pole (d8, bulky)
