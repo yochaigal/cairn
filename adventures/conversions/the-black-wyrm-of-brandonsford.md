@@ -192,15 +192,16 @@ See [above](/adventures/conversions/the-black-wyrm-of-brandonsford/#goblins)
 - Critical damage: roll for random body part to be severed (1-2: leg, 2-5: arm, 6: head)
 
 ### Crypt of Sir Myrddin
-- **Rune Stones**: See table below for random Cleric Spells. Refer to the following spells in [More Spellbooks](/resources/more-spellbooks/) for details on each!
+#### Rune Stones
+See the table below for random Cleric Spells. Refer to the following spells in [More Spellbooks](/resources/more-spellbooks/) for details on each (except for [_Cure Wounds_](/cairn-srd#100-spells)).
 
 |         |                      |
 | ------- | -------------------- |
 | **d20** | **Spell**            |
 | 1       | Blessing             |
-| 2       | Curse Unlife         |
-| 3       | Fortify              |
-| 4       | Frozen Corpse        |
+| 2       | Cure Wounds          |
+| 3       | Curse Unlife         |
+| 4       | Fortify              |
 | 5       | Induce Despair       |
 | 6       | Lichsense            |
 | 7       | Light Show           |
