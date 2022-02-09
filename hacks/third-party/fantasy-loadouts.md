@@ -10,7 +10,7 @@ _Originally by [Jim Parkin](https://classless-kobolds.itch.io/d66-starting-loado
 
 ### Instructions
 Roll 2d6. The ones place is the first digit and the tens place is the second digit.   
-Some packages may have [**Relics**](/hacks//third-party/fantasy-loadouts#relics) or [**Drugs**](/hacks//third-party/fantasy-loadouts#drugs) as well.
+Some packages may have [**Relics**](/hacks/third-party/fantasy-loadouts#relics) or [**Drugs**](/hacks/third-party/fantasy-loadouts#drugs) as well.
 
 ## 11. Acrobat
 - Balanced Pole (d8, bulky)
@@ -73,14 +73,14 @@ Some packages may have [**Relics**](/hacks//third-party/fantasy-loadouts#relics)
 - Curved Blade (d8)
 - Chainmail (2 Armor, bulky)
 - Gauntlets (1 Armor)
-- [Holy Symbol](/resources/d66-starting-loadouts#holy-symbol)
+- [Holy Symbol](/hacks/third-party/fantasy-loadouts#holy-symbol)
 - Cloak of the Order
 
 ## 23. Dowser
 - Sickle (d6)
 - Patchwork Doublet (1 Armor)
 - Dowsing Rod
-- [Eyestone](/resources/d66-starting-loadouts/#eyestone)
+- [Eyestone](/hacks/third-party/fantasy-loadouts#eyestone)
 - Worn Map
 - Spyglass
 
@@ -88,14 +88,14 @@ Some packages may have [**Relics**](/hacks//third-party/fantasy-loadouts#relics)
 - Katar (d8)
 - Silken Mesh (1 Armor)
 - Knockout Poison
-- [Arachnid Crest](/resources/d66-starting-loadouts#arachnid-crest)
+- [Arachnid Crest](/hacks/third-party/fantasy-loadouts#arachnid-crest)
 - Manacles
 - Spellbook (Spider Climb or Arcane Eye)
 
 ## 25. Druid
 - Shepherd's Crook (d8, bulky)
 - Jute Clothing
-- [Witchwood Seal](/resources/d66-starting-loadouts/#witchwood-seal)
+- [Witchwood Seal](/hacks/third-party/fantasy-loadouts#witchwood-seal)
 - Face Paint
 - Herbal Poultice
 - Owl (1 HP, 16 DEX, Talons (d4))
@@ -105,8 +105,8 @@ Some packages may have [**Relics**](/hacks//third-party/fantasy-loadouts#relics)
 - Whip (d6)
 - Tattered Mail (1 Armor)
 - 10' Chain
-- [Craze](/resources/d66-starting-loadouts/#craze)
-- [Brikabrak](/resources/d66-starting-loadouts/#brikabrak)
+- [Craze](/hacks/third-party/fantasy-loadouts#craze)
+- [Brikabrak](/hacks/third-party/fantasy-loadouts#brikabrak)
 
 ## 31. Dwarf
 - Mace (d8)
@@ -152,7 +152,7 @@ Some packages may have [**Relics**](/hacks//third-party/fantasy-loadouts#relics)
 - Curved Knife (d6)
 - Hex Stone ([random spell](/cairn-srd#100-spells))
 - Pouch of Catnip
-- [Spangle](/resources/d66-starting-loadouts/#spangle)
+- [Spangle](/hacks/third-party/fantasy-loadouts#spangle)
 - Blackberry Pie
 - Baubles
 
@@ -167,7 +167,7 @@ Some packages may have [**Relics**](/hacks//third-party/fantasy-loadouts#relics)
 ## 42. Halfling
 - Sling (d4)
 - Fancy Leathers (1 Armor)
-- [Unicorn Horn](/resources/d66-starting-loadouts/#unicorn-horn)
+- [Unicorn Horn](/hacks/third-party/fantasy-loadouts#unicorn-horn)
 - Bag of Marbles
 - Tobacco Pouch & Pipe
 - Travel Charcuterie (2 days' rations)
@@ -218,7 +218,7 @@ Some packages may have [**Relics**](/hacks//third-party/fantasy-loadouts#relics)
 - Spellbook (random spell)
 - Spellbook (random spell)
 - Ragged Clothing (hidden pockets)
-- Two [Leycaps](https://cairnrpg.com/cairn-srd/#relics)
+- Two [Leycaps](https://cairnrpg.com/cairn-srd#relics)
 
 ## 53. Minstrel
 - Sling (d4)
@@ -240,7 +240,7 @@ Some packages may have [**Relics**](/hacks//third-party/fantasy-loadouts#relics)
 - Crowbill (d6)
 - Bark Husk (2 Armor)
 - Lantern & Oil
-- [Slicksweet](/resources/d66-starting-loadouts/#slicksweet)
+- [Slicksweet](/hacks/third-party/fantasy-loadouts#slicksweet)
 - Exotic Incense
 - Persuasive Spores
 
@@ -261,7 +261,7 @@ Some packages may have [**Relics**](/hacks//third-party/fantasy-loadouts#relics)
 - Weighted Net
 
 ## 62. Scribe (Mage)
-- [Yew Wand](/resources/d66-starting-loadouts/#yew-wand)
+- [Yew Wand](/hacks/third-party/fantasy-loadouts#yew-wand)
 - Scroll Case & Parchment
 - Quill & Ink
 - Hourglass
@@ -288,7 +288,7 @@ Some packages may have [**Relics**](/hacks//third-party/fantasy-loadouts#relics)
 - Silvered Knife (d6)
 - Long Staff (d8, bulky)
 - Heavy Hooded Cloak (1 Armor)
-- [Talisman](/resources/d66-starting-loadouts/#talisman)
+- [Talisman](/hacks/third-party/fantasy-loadouts#talisman)
 - Wolfsbane
 - Thowing Bolas
 
@@ -297,7 +297,7 @@ Some packages may have [**Relics**](/hacks//third-party/fantasy-loadouts#relics)
 - Sling (d4)
 - Panflute
 - Flask of Moonshine
-- [Drake](/resources/d66-starting-loadouts/#drake)
+- [Drake](/hacks/third-party/fantasy-loadouts#drake)
 - Spiked Boots
 
 ## Relics
