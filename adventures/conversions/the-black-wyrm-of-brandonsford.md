@@ -183,3 +183,49 @@ See [above](/adventures/conversions/the-black-wyrm-of-brandonsford/#goblins)
 ### Sir Myrddin’s Ghost
 8 HP, 3 Armor, 8 STR, 15 DEX, 18 WIL, touch (d6+d6)
 - **Call to Arms**: Statue d8 damage to HP (no save).
+
+### Crypt of Sir Wyllt
+- **Potions of Healing**: Restore 1d6+1 STR.
+- **Potions of Sleep**: Imbibers fall asleep.
+- **Potion of Tranquility**: See [Pacify](/cairn-srd#100-spells).
+
+### Sir Wylt's Skeleton
+6 HP, 2 Armor, 11 STR, 8 DEX, 18 WIL, axe (d8)
+- Critical damage: roll for random boddy part to be severed (1-2: leg, 2-5: arm, 6: head)
+
+### Crypt of Sir Myrddin
+- **Rune Stones**: See table below for random Cleric Spells. Refer to the following spells in [More Spellbooks](/resources/more-spellbooks/) for details on each!
+
+|         |                   |
+| ------- | ----------------- |
+| **d20** | **Spell**         |
+| 1       | Beguilement          |
+| 2       | Curse Unlife         |
+| 3       | Fortify              |
+| 4       | Frozen Corpse        |
+| 5       | Induce Despair       |
+| 6       | Lichsense            |
+| 7       | Light Show           |
+| 9       | Magic Seal           |
+| 10      | Master Undead        |
+| 11      | Otherworldly Gate    |
+| 12      | Passage              |
+| 13      | Perfect Preservation |
+| 14      | Planar Anchor        |
+| 15      | Ravenless Message    |
+| 16      | Scry Creature        |
+| 17      | Scrying Ward         |
+| 18      | Song of Repose       |
+| 19      | Uncurse              |
+| 20      | Word of Pain         |
+
+
+### Maiden Statue
+
+
+## Appendix B: Magic Items
+### Carmelo's Jeweled Cutlass
+
+### Holy Sword of Sir Brandon
+
+### Silver Axe of Sir Wyllt
