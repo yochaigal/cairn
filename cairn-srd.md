@@ -145,7 +145,7 @@ Players trust one another to engage with the shared setting, character goals, an
 ## Character Creation
 
 #### Name, Background & Traits
-First, choose or roll your PC’s **name** and ** background** from their respective [tables](#name--background-d20). A PC’s background informs their potential knowledge and skills.
+First, choose or roll your PC’s **name** and ** background** from their respective [tables](#name--background-d20). A PC’s background informs  their potential knowledge and skills.
 
 Next, roll for the rest of your character's **traits** (appearance, speech, mannerisms, beliefs, reputation, etc.) on the [**Character Traits**](#character-traits-d10) tables.
 
