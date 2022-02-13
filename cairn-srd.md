@@ -73,7 +73,7 @@ Players trust one another to engage with the shared setting, character goals, an
 ### Preparation
 - The game world is organic, malleable and random. It intuits and makes sharp turns.
 - Use random tables and generators to develop situations, not stories or plots.
-- NPCs remember what the PCs say and do,and how they affect the world.
+- NPCs remember what the PCs say and do, and how they affect the world.
 - NPCs don't want to die. Infuse their own self-interest and will to live into every personality.
 
 ### Narrative Focus  
@@ -94,7 +94,7 @@ Players trust one another to engage with the shared setting, character goals, an
 - Use Treasure as a lure to exotic locations under the protection of intimidating foes.
 
 ### Choice  
-- Give players a solid choice to force outcomes when the situation  lulls.
+- Give players a solid choice to force outcomes when the situation lulls.
 - Use binary "so, A or B?" responses when their intentions are vague.
 - Work together using this conversational method to keep the game moving.
 - Ensure that the player character's actions leave their mark on the game world.
@@ -611,9 +611,9 @@ If you would like something closer to traditional classes, refer to the list of 
 ### Abilities
 Each of the three **abilities** are used in different circumstances (see **saves**, below).
 
-**Strength (STR**): Used for saves requiring physical power, like lifting gates, bending bars, resisting poison, etc.
+**Strength (STR)**: Used for saves requiring physical power, like lifting gates, bending bars, resisting poison, etc.
 
-**Dexterity (DEX):** Used for saves requiring poise, speed, and reflexes like dodging, climbing, sneaking, balancing, etc.
+**Dexterity (DEX)**: Used for saves requiring poise, speed, and reflexes like dodging, climbing, sneaking, balancing, etc.
 
 **Willpower (WIL)**: Used for saves to persuade, deceive, interrogate, intimidate, charm, provoke, manipulate spells, etc.
 
@@ -636,7 +636,7 @@ A PC **deprived** of a crucial need (such as food or rest) is unable to recover 
 PCs can also gain Fatigue by **casting spells** or through events in the fiction.
 
 ### Armor
-Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. Shields and similar armor provides a bonus defense (e.g. +1 Armor), but only while the item is held or worn.  
+Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. Shields and similar armor provide a bonus defense (e.g. +1 Armor), but only while the item is held or worn.  
 No one can have more than 3 Armor.  
 Shields, gauntlets, and helms may provide additional benefits according to their use.
 
@@ -659,7 +659,7 @@ The most common coin is the gold piece (gp), which is equal to 10 silver pieces 
 
 Treasure is highly valuable, usually bulky, and rarely useful beyond its value. It can be a lure, taking PCs to exotic and even dangerous locations, and is often under the protection of intimidating foes.
 
-Villages,strongholds, and ports of call barter and trade based on the local rarity and value of an item or commodity.
+Villages, strongholds, and ports of call barter and trade based on the local rarity and value of an item or commodity.
 
 ## Magic
 **Spellbooks** contain a single spell and take up one slot. They cannot be transcribed or created; instead they are recovered from places like tombs, dungeons, and manors.
