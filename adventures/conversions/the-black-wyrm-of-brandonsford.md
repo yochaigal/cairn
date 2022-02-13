@@ -193,18 +193,20 @@ See [above](/adventures/conversions/the-black-wyrm-of-brandonsford/#goblins)
 
 ### Crypt of Sir Myrddin
 #### Rune Stones
-See the table below for random Cleric Spells. Refer to the following spells in [More Spellbooks](/resources/more-spellbooks/) for details on each (except for [_Cure Wounds_](/cairn-srd#100-spells)).
+See the table below for random Cleric Spells. Refer to the following spells in [More Spellbooks](/resources/more-spellbooks/) for details on each.
 
 |         |                      |
 | ------- | -------------------- |
 | **d20** | **Spell**            |
 | 1       | Blessing             |
-| 2       | Cure Wounds          |
+| 2       | Cure-All             |
 | 3       | Curse Unlife         |
 | 4       | Fortify              |
+| 5       | Healing Grace        |
 | 5       | Induce Despair       |
 | 6       | Lichsense            |
 | 7       | Light Show           |
+| 8       | Linguist             |
 | 9       | Magic Seal           |
 | 10      | Master Undead        |
 | 11      | Otherworldly Gate    |
