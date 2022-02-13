@@ -145,7 +145,7 @@ Players trust one another to engage with the shared setting, character goals, an
 ## Character Creation
 
 #### Name, Background & Traits
-First, choose or roll your PC’s **name** and ** background** from their respective [tables](#name--background-d20). A PC’s background informs  their potential knowledge and skills.
+First, choose or roll your PC’s **name** and **background** from their respective [tables](#name--background-d20). A PC’s background informs their potential knowledge and skills.
 
 Next, roll for the rest of your character's **traits** (appearance, speech, mannerisms, beliefs, reputation, etc.) on the [**Character Traits**](#character-traits-d10) tables.
 
@@ -182,7 +182,7 @@ All PCs begin with:
 - A torch (one slot)
 - 3d6 gold pieces
 
-Roll once on each of the **Starting Gear** tables to determine your PC's armor, weapons, tools, and equipment. If indicated, roll on the [**Spellbooks**](#spellbooks-d100) table with a d100 (or roll 2d10, using one die as the ones place, and the other as the tens place). Pick only one item for each result.
+Roll once on each of the **Starting Gear** tables to determine your PC's armor, weapons, tools, and equipment. If indicated, roll on the [**Spellbooks**](#spellbooks-d100) table with a d100 (or roll 2d10, using one die as the ones place, and the other as the tens place). Pick only one item for eachresult.
 
 See the **Equipment List** for related armor, damage, and slot values. Smaller items can sometimes be bundled together into one slot.
 
