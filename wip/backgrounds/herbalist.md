@@ -5,6 +5,7 @@ nav_exclude: true
 search_exclude: true
 parent: Backgrounds
 grand_parent: WIP
+redirect_from: /more-content/backgrounds/herbalist/
 ---
 
 [![Alt text](/img/backgrounds/herbalist.jpg "East of the Sun and West of the Moon, illustrated by Kay Nielsen"){:height="60%" width="60%"}](/img/backgrounds/herbalist.jpg)
