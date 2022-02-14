@@ -239,17 +239,17 @@ The following is a list of Relics from all over the web, copied with permission.
 - Hounds and other domesticated beasts grow docile at the touch of this mummified hand.
 - **Recharge**: Spend some time petting the good boy.
 
-#### The thing that destroys the world
+#### The Thing That Destroys the World
 - A steel cube 2 inches (5 centimeters) on a side, with a red button taking up most of one face.
 -When the button is pressed, an identical cube (can also make more of itself) is created within spitting distance. Holding it down creates 1 per second.
 -Of course, 1/6 of the time the cube appears button-side down. This continually creates more copies.
 
-#### Amulet of life protection, 1 charge
+#### Amulet of Life Protection, 1 charge
 - A simple bronze disc inscribed with an ancient symbol. The symbol is lined with a deep red pigment.
 - The wearer automatically succeeds on a critical damage roll, the wearer can not choose whether to succeed or not.
 - **Recharge**: Bury the now faded amulet amidst the roots of a Rowan tree. Hang upon the branches, a fresh umbilical cord from either livestock or babe. If either the child or animal was harmed while procuring this, the magic won't work. The umbilical cord must dry out completely while hanging on the branches. Afterwards you can dig up the amulet which now will look renewed with fresh pigment.
 
-#### Ring of spell protection, 1 charge
+#### Ring of Spell Protection, 1 charge
 - A thin band of a blueish metal inlaid with a pearl.
 - The wearer can choose to negate the effects of a spell that targets them.
 - **Recharge**: Store the ring in a bird's nest within earshot of a church with a bell, for at least a fortnight.
@@ -260,7 +260,7 @@ The following is a list of Relics from all over the web, copied with permission.
 - In the light of a full moon, the wielder can expend all 3 charges and "cleave" a walkable passage through a body of water lasting until the moon becomes invisible.
 - **Recharge**: Place the halberd in its intended place in the moon-temple for 1 year.
 
-#### Iron gloves of might
+#### Iron Gloves of Might
 - Mittens made of dark iron rings, they look crudely made and there seems to be old scorch marks and bloodstains on them.
 - When they are put on, the bearer immediately gains 1 fatigue and then again one more each hour they are worn. If the wearer ever gets 7 or more fatigue, they collapse and die within the hour. This danger should clearly be telegraphed by the Warden.
 - All attacks are enhanced while they are worn and all feats of strength involving the wearer's arms/hands automatically succeed.
@@ -274,3 +274,19 @@ The following is a list of Relics from all over the web, copied with permission.
 - The wielder must be Deprived to activate it's magical properties.
 - At the expense of 1 charge, the swords blade is set ablaze with a dark red flame that produces a thick black smoke. All attacks made with the sword are enhanced and anytime it deals strength damage it ignites it's target. The flame lasts until the wielder sheaths it, puts it down or no longer is deprived.
 - **Recharge**: Prepare a large bonfire and douse the blade in a mixture of animal fat, resin and pine needles. Then wrap it in cloth that someone was buried in and place the sword in the bonfire. Light it and wait for it to go completely out, you can then retrieve the sword.
+
+#### Manual of the Mighty
+- Also known as the _Volume of the Nimble_ or the _Tome of the Wise_.
+- A large, old-looking three-volume book with yellowed pages and a beaten cover.
+- It takes at least a month to study it and by doing so, you can increase your STR, DEX, or WIL score (depending on the book) by 1d4 points to a maximum of 18.
+- **Recharge**: Place the book on a shelf in the fabled long lost library of shadows, and leave it there for 12 years.
+
+#### Wolfskin, 2 charges
+- A cloak made from the skin of a wolf.
+- The wearer and all their possessions transform into the form of mundane wolf. For each charge spent the effect lasts 3 hours.
+- **Recharge**: While not using the Wolfskin, hunt and kill a prey and consume it's heart and liver raw.
+
+#### Golden Apple of the Gods, 1 use
+- A perfectly shaped small golden apple.
+- When the apple is consumed it de-ages the consumer to their personal ideal age.
+- **Recharge**: If the seeds are planted in soil it might grow into a tree, but this act would surely anger the gods.

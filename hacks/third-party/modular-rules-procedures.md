@@ -11,7 +11,6 @@ parent: Third Party
 - This document lists some optional, modularly-designed rules & procedures for Cairn (and should be adaptable to most other OSR-adjacent games with minimal tinkering).
 - These rules are designed to be plug-n-play, so just grab what you like and discard the rest.
 - These rules are not critical to the structure of the game and can be discarded or ignored at certain points in your game.
-- This content is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ## Dungeon Exploration
 
