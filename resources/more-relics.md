@@ -290,3 +290,8 @@ The following is a list of Relics from all over the web, copied with permission.
 - A perfectly shaped small golden apple.
 - When the apple is consumed it de-ages the consumer to their personal ideal age.
 - **Recharge**: If the seeds are planted in soil it might grow into a tree, but this act would surely anger the gods.
+
+#### Snail Boots
+- Pale boots with slime under the soles.
+- Boots reduce movement range to 6m per turn.
+- **Break Curse**: Can only be taken off after a day of absolute standstill.
