@@ -291,6 +291,11 @@ The following is a list of Relics from all over the web, copied with permission.
 - When the apple is consumed it de-ages the consumer to their personal ideal age.
 - **Recharge**: If the seeds are planted in soil it might grow into a tree, but this act would surely anger the gods.
 
+#### Coin of the Ill-fated
+- Each time a Die of Fate would be rolled where the owner would be affected, treat the dice roll as a 1.
+- The owner can't get rid of the coin by normal means.
+- **Break curse**: Another individual must accept the coin by their own admission, while being aware of the curse.
+
 #### Snail Boots
 - Pale boots with slime under the soles.
 - Boots reduce movement range to 6m per turn.
