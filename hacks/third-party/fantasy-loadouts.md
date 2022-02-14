@@ -3,6 +3,7 @@ layout: default
 title: Fantasy Loadouts
 parent: Third Party
 grand_parent: Hacks
+redirect_from: /more-content/fantasy-loadouts/
 ---
 
 # Fantasy Starting Loadouts
