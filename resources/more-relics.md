@@ -300,3 +300,25 @@ The following is a list of Relics from all over the web, copied with permission.
 - Pale boots with slime under the soles.
 - Boots reduce movement range to 6m per turn.
 - **Break Curse**: Can only be taken off after a day of absolute standstill.
+
+### Chalice of the Blessed Blood, 3 charges
+- A golden chalice adorned with rubies.
+- If the chalice is filled with a liquid that is not blood, it turns to blood. If the chalice is filled with holy water it shatters.
+- If blood is poured into the chalice a charge is expended, the blood turns dark and viscous. If a full chalice of this blessed blood is drunk, the drinker regains all lost strength and hp. If someone ever drinks blessed blood from the chalice 3 times they slowly transform into a foul vampiric creature.
+- **Recharge**: Wash the chalice in the blood of a vampire.
+
+### Mask of Seven Faces, 7 charges
+- A plain porcelain mask with discreet facial features.
+- By expending a charge, the wearer can change the mask's features to look like an exact copy of another person's face.
+- Recharge: A doppelganger has to wear the mask.
+
+### Wand of the Good Folk, 3 charges
+- A stick made from an apple tree, decorated with carved motifs of grinning faces surrounded by spring flowers.
+- Can cast the Charm, Sleep or Fog cloud spell by expending a charge.
+- **Recharge**: While proudly brandishing the wand, dance from sundown till sunset inside a fairy ring, or until you collapse from exhaustion.
+
+### Cloak of Stars, 6 charges
+- A long flowing cloak made from a bluish black material with no discernible fabric texture. There are bright twinkling stars all over the cloak.
+- While wearing the cloak treat the wearer's maximum HP as 1 more than normal.
+- By expending 1 charge, the wearer can pick a star from the cloak and use it as a throwing weapon, dealing d6 points of damage.
+- **Recharge**: Spread the cloak on the ground on a clear night and wait until morning.
