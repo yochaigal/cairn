@@ -9,7 +9,7 @@ nav_order: 2
 <p></p>
 
 **Cairn** is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
-Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in other [formats](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (including Word, Affinity, Google Docs, etc).
+Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in other [formats](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (including Word, Affinity, Google Docs, etc.).
 
 **Cairn** is an adventure game for one facilitator (the **Warden**) and at least one other player.
 Players act as hardened adventurers exploring a dark & mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities.
@@ -78,7 +78,7 @@ Players trust one another to engage with the shared setting, character goals, an
 
 ### Narrative Focus  
 - Emergent experience of play is what matters, not math or character abilities. Give the players weapon trainers and personal quests to facilitate improvement and specialization.
-- Pay attention to the needs and wants of the players,then put realistic opportunities in their path.
+- Pay attention to the needs and wants of the players, then put realistic opportunities in their path.
 - A dagger to your throat will kill you, regardless of your expensive armor and impressive training.
 
 ### Danger  
@@ -100,7 +100,7 @@ Players trust one another to engage with the shared setting, character goals, an
 - Ensure that the player character's actions leave their mark on the game world.
 
 ### Die of Fate  
-- Occasionally you will want an element of randomness (e.g. the weather, unique character knowledge,etc.).
+- Occasionally you will want an element of randomness (e.g. the weather, unique character knowledge, etc.).
 - In these situations, roll 1d6. A roll of 4 or more generally favors the players.
 - A roll of 3 or under tends to mean bad luck for the PCs or their allies.
 
@@ -664,7 +664,7 @@ Villages, strongholds, and ports of call barter and trade based on the local rar
 ## Magic
 **Spellbooks** contain a single spell and take up one slot. They cannot be transcribed or created; instead they are recovered from places like tombs, dungeons, and manors.
 
-Spellbooks sometimes display unusual properties or limitations, such as producing a foul or unearthly smell when opened, possessing an innate intelligence,or being legible only when held in moonlight.
+Spellbooks sometimes display unusual properties or limitations, such as producing a foul or unearthly smell when opened, possessing an innate intelligence, or being legible only when held in moonlight.
 
 Spellbooks will attract the attention of those who seek the arcane power within, and it is considered dangerous to display them openly.
 
