@@ -16,6 +16,7 @@ grand_parent: Hacks
 - [**Almaia**](https://1d6gnolls.itch.io/almaia)
 - [**Thalassa**](https://zeruhur.itch.io/thalassa)
 - [**Mangayaw**](https://mangayaw.carrd.co) by [Goobernuts](https://goobernutsblog.wordpress.com/)
+- [**Plerion**](https://plerion.zeruhur.space/)
 
 
 ## Supplements
