@@ -341,12 +341,11 @@ The following is a list of Relics from all over the web, copied with permission.
 
 #### Goblin sack, 1 charge
 - A brown sack in terrible condition, with a small hole in one corner.
-- Fill the sack with leaves, nutshells, spruce needles etc. and expend a charge. When the things eventually trickle out through the hole in the bottom corner, they appear as shiny silver coins, 100 in total.
-When 1 hour has passed the coins revert back to being forest debris.
+- Fill the sack with leaves, nutshells, spruce needles etc. and expend a charge. When the things eventually trickle out through the hole in the bottom corner, they appear as shiny silver coins, 100 in total. When 1 hour has passed the coins revert back to being forest debris.
 - **Recharge**: A goblin has to spit in the sack.
 
 #### Staff of Sparks (d6), 6 charges
-A long walking stick made of Fir wood. It has a carved top resembling a star.
+- A long walking stick made of Fir wood. It has a carved top resembling a star.
 - Expend 1 charge to cast Flare or Smoke Form. Expend 2 charges to cast Elemental Wall (only fire).
 **Recharge**: Let a fire-breathing dragon blow smoke on the staff.
 
