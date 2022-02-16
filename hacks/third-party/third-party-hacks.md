@@ -16,7 +16,9 @@ grand_parent: Hacks
 - [**Almaia**](https://1d6gnolls.itch.io/almaia)
 - [**Thalassa**](https://zeruhur.itch.io/thalassa)
 - [**Mangayaw**](https://mangayaw.carrd.co) by [Goobernuts](https://goobernutsblog.wordpress.com/)
+- [**Meteor**](https://discourse.rpgcauldron.com/t/meteor-corporate-sci-fi-cairn-hack-updated-to-version-0-2/729)
 - [**Plerion**](https://plerion.zeruhur.space/)
+
 
 
 ## Supplements

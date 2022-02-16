@@ -355,6 +355,11 @@ The following is a list of Relics from all over the web, copied with permission.
 - When smoking on the pipe and by expending 1 charge, you can blow smoke in someone's eyes disorienting them with weird colors and shapes.
 - **Recharge**: Rub the pipe against the nose of a gnome.
 
+#### Hand of Glory
+- A pickled then later sun-dried, chopped off left hand of a hanged murderer with a candle attached made from said murderers body fat.
+- Anyone seeing a lit Hand of Glory must make a Willpower save or be paralyzed while the candle are within their field of vision. If the light of the candle shines on any locked doors they unlock. The candle lasts a few hours.
+- **Recharge**: As long as a new candle can be made from the same murderer's body fat, the hand can be reused.
+
 #### Paper Hand Trap
 - A colorful tube made of woven paper, adorned with depictions of circus performers, functioning as a larger version of the classic finger trap.
 - Anyone who places their hands inside the tube is stuck for an hour as their hands are turned into paper.
