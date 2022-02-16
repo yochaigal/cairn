@@ -9,7 +9,7 @@ redirect_from: /resources/relics/
 # More Relics
 The following is a list of Relics from all over the web, copied with permission.
 
-### From [Glass Bird Games](https://glassbirdgames.blogspot.com/)
+#### From [Glass Bird Games](https://glassbirdgames.blogspot.com/)
 #### Gaea's Grasp, 5 charges
 - A wristlet of fine, woven vines. When the wearer grasps someone or something, the vines sprout tough tendrils that secure their grip. They will only release if lit ablaze or at the wearer's will.
 - **Recharge**: Plant the withered wristlet in rich forest soil and water liberally with the blood of a fae. It will bloom into a new wristlet overnight.
@@ -88,7 +88,7 @@ The following is a list of Relics from all over the web, copied with permission.
 - At the cost of a charge, stamp a schematic describing a wondrous contraption or magical item, and gather a pile of shiny stones, straw, bugs, fungi, or the like into a pile vaguely shaped like said item. The pile binds together, and functions as the item described for about an hour. It then fails catastrophically.
 - **Recharge**: Supplicate before the Grand Gob, describing in flowery terms how inferior you and your fellows are to their magnificence. Beg a boon of them - if impressed, they will provide a small, probably slimy token to tack onto the seal.
 
-### From [Ialath](https://ialath.com/)
+#### From [Ialath](https://ialath.com/)
 #### Skull Cap, 1 charge
 - A helmet that transforms the bearer's head into the appearance of a skull until dawn.
 - **Recharge**: Bury with human bones for one night.
@@ -128,7 +128,7 @@ The following is a list of Relics from all over the web, copied with permission.
 - Shovels solid rock like it would be dirt.
 - **Recharge**: Spend 1 hour shoveling dirt in the rain.
 
-### From The NSR Discord
+#### From The NSR Discord
 #### Last Breath, shortsword, d8 damage, 1 charge
 - Plunging **Last Breath** into the ground creates an [_Astral Prison_](/cairn-srd#100-spells) around the bearer. The bearer is invulnerable to harm but unable to move while contained in the prison.
 - **Recharge**: Last Breath by feeding it the souls it needs to build the prison.
@@ -235,7 +235,7 @@ The following is a list of Relics from all over the web, copied with permission.
 - By spending one charge, the wearer can fully ignore one instance of damage to WIL.
 - **Recharge**: Wear the robe during a full night of magically induced sleep.
 
-### Hand of Ser Crufiks, 1 charge
+#### Hand of Ser Crufiks, 1 charge
 - Hounds and other domesticated beasts grow docile at the touch of this mummified hand.
 - **Recharge**: Spend some time petting the good boy.
 
@@ -301,24 +301,63 @@ The following is a list of Relics from all over the web, copied with permission.
 - Boots reduce movement range to 6m per turn.
 - **Break Curse**: Can only be taken off after a day of absolute standstill.
 
-### Chalice of the Blessed Blood, 3 charges
+#### Chalice of the Blessed Blood, 3 charges
 - A golden chalice adorned with rubies.
 - If the chalice is filled with a liquid that is not blood, it turns to blood. If the chalice is filled with holy water it shatters.
 - If blood is poured into the chalice a charge is expended, the blood turns dark and viscous. If a full chalice of this blessed blood is drunk, the drinker regains all lost strength and hp. If someone ever drinks blessed blood from the chalice 3 times they slowly transform into a foul vampiric creature.
 - **Recharge**: Wash the chalice in the blood of a vampire.
 
-### Mask of Seven Faces, 7 charges
+#### Mask of Seven Faces, 7 charges
 - A plain porcelain mask with discreet facial features.
 - By expending a charge, the wearer can change the mask's features to look like an exact copy of another person's face.
 - Recharge: A doppelganger has to wear the mask.
 
-### Wand of the Good Folk, 3 charges
+#### Wand of the Good Folk, 3 charges
 - A stick made from an apple tree, decorated with carved motifs of grinning faces surrounded by spring flowers.
 - Can cast the Charm, Sleep or Fog cloud spell by expending a charge.
 - **Recharge**: While proudly brandishing the wand, dance from sundown till sunset inside a fairy ring, or until you collapse from exhaustion.
 
-### Cloak of Stars, 6 charges
+#### Cloak of Stars, 6 charges
 - A long flowing cloak made from a bluish black material with no discernible fabric texture. There are bright twinkling stars all over the cloak.
 - While wearing the cloak treat the wearer's maximum HP as 1 more than normal.
 - By expending 1 charge, the wearer can pick a star from the cloak and use it as a throwing weapon, dealing d6 points of damage.
 - **Recharge**: Spread the cloak on the ground on a clear night and wait until morning.
+
+#### Elderstaff (d6), 3 charges
+- A slick staff made from a elder tree, it has carvings of elderflowers and birds in flight.
+- By expending a charge you can cast Cure wounds, Shield or Thicket.
+- **Recharge**: Make a mixture from jelly ears fungus and oil and rub it all over the staff 3 times. Place the staff by a homestead and wait a 3 days. While waiting help a mother in her daily tasks 3 times.
+
+#### Claymore of Sky's Wrath (d10, bulky), 9 charges
+- A weather beaten greatsword covered in ancient runes.
+- During lightning storms, all attacks made with this sword are enhanced.
+- Expend 1 charge to create a local lighting storm, depending on the weather this may take a few hours.
+- Expend 2 charges to channel a lightning bolt from the sky through the sword and unto a desired location. This deals d4 damage to you (armor is ignored) and d10 blast to the chosen location.
+- **Recharge**: Walk through a lightning storm holding the sword until lightning strikes it.
+
+#### Vinegar of sour moods, 4 uses
+- A bottle of old wine vinegar, bewitched by a grumpy warlock.
+- When any food or drink are prepared using the vinegar, all who consume it are affected by the Hatred spell. They hate the first person they see.
+
+#### Goblin sack, 1 charge
+- A brown sack in terrible condition, with a small hole in one corner.
+- Fill the sack with leaves, nutshells, spruce needles etc. and expend a charge. When the things eventually trickle out through the hole in the bottom corner, they appear as shiny silver coins, 100 in total.
+When 1 hour has passed the coins revert back to being forest debris.
+- **Recharge**: A goblin has to spit in the sack.
+
+#### Staff of Sparks (d6), 6 charges
+A long walking stick made of Fir wood. It has a carved top resembling a star.
+- Expend 1 charge to cast Flare or Smoke Form. Expend 2 charges to cast Elemental Wall (only fire).
+**Recharge**: Let a fire-breathing dragon blow smoke on the staff.
+
+#### Illusionist's Pipe, 5 charges
+- A long curved smoking pipe, cut from the roots of a pear tree.
+- When smoking on the pipe, you can make the smoke change color and form as fantastical shapes (ex. galloping horses).
+- When smoking on the pipe and by expending 1 charge, you can blow smoke in someone's eyes disorienting them with weird colors and shapes.
+- **Recharge**: Rub the pipe against the nose of a gnome.
+
+#### Paper Hand Trap
+- A colorful tube made of woven paper, adorned with depictions of circus performers, functioning as a larger version of the classic finger trap.
+- Anyone who places their hands inside the tube is stuck for an hour as their hands are turned into paper.
+- The device is magically designed to test patience, rather than brute force. If the tube is torn or cut open, the hands inside remain as paper and never revert to flesh.
+- Up to 3 uses before the device unravels itself into a heap of paper strips and confetti.
