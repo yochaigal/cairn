@@ -2,6 +2,8 @@
 layout: default
 title: Simple Backgrounds
 parent: WIP
+nav_exclude: true
+search_exclude: true
 ---
 
 # Simple Backgrounds

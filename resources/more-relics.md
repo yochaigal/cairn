@@ -365,3 +365,8 @@ The following is a list of Relics from all over the web, copied with permission.
 - Anyone who places their hands inside the tube is stuck for an hour as their hands are turned into paper.
 - The device is magically designed to test patience, rather than brute force. If the tube is torn or cut open, the hands inside remain as paper and never revert to flesh.
 - Up to 3 uses before the device unravels itself into a heap of paper strips and confetti.
+
+#### Witch Stone, 2 charges
+- A green petrified crow egg, warm to the touch. When a charge is expended the warmth wanes.
+- By expending a charge, you can cast a spell without gaining a fatigue.
+- **Recharge**: Bury it in consecrated ground, wait 5 days and dig it up.
