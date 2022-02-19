@@ -13,15 +13,14 @@ Below are some tips that might help with the process!
 ## The Basics
 Review the instructions in the [SRD](https://cairnrpg.com/cairn-srd/#creating-monsters). A couple of things to keep in mind:
 - OSE (or B/X) has really great stat blocks that can be easily truncated for quick conversion. See this [page](https://oldschoolessentials.necroticgnome.com/srd/index.php/General) and this [PDF](https://necroticgnome.com/products/old-school-essentials-adaptation-guidelines) for more.
-- **HD** conversion is tricky! Start with a creature's **HP** _first_, _then_ convert their **STR**.
 - Dungeon World has some great monster "moves" that translate to Critical Damage quite nicely, so looking for an equivalent creature in that system can really help! See this example [here](http://codex.dungeon-world.com/monster/5698559156420608).
 - Sometimes a direct stat to stat translation isn't an option. That's OK! There is a [way](/resources/tools/converting-monsters/#use-the-fiction)!
 
 ### Health, Armor & Abilities
-- **Hit Protection** is _not_ health. It's the creature's ability to avoid danger, whether through toughness, speed, or skill. If the PCs will have a tough time landing a blow that actually causes damage, the creature has high **HP**. A good rule of thumb is to give the creature +1 HP for every **HD**, on top of a minimum **3 HP** (the average person). I usually think of **HD** as equivalent to a d6, which has a _mean_ of 3.5.
+- **Hit Protection** is _not_ health. It's the creature's ability to avoid danger, whether through toughness, speed, or skill. If the PCs will have a tough time landing a blow that actually causes damage, the creature has high **HP**. A good rule of thumb is to give the creature +1 HP for every **HD**, on top of a minimum **3 HP** (the average person). I usually think of **HD** as equivalent to a d6, which has a _mean_ of 3.5. Always start with a creature's **HP** _first_, _then_ do their **STR**.
 - **Armor** is generally easy to map; phrases like "as leather" and "as plate" are really helpful. Generally ignore THAC0 and use descending AC (7 = Leather, 5 = Chainmail, 3 = Plate mail). If only ascending AC is given you can use (12 = Leather, 14 = Chainmail, 16 = Plate mail). Whichever system you're converting from, the Armor values range from 1-3.
 - **Strength** is both health and physical power.  It also tracks constitution & resistance to poisons.  Look at the creature's **HD** and **HP** (even if you've already done so for **Hit Protection**). **STR** is the ability of a creature to survive a direct hit, not its ability to avoid danger! If a creature is difficult to kill but _not_ because they are good avoiding injury, give them more **STR** (_not_ more **HP**). A good rule of thumb is to compare them to the average person (10 **STR**) and go up or down from there.
-- **Dexterity** is probably the easiest of the bunch. Start with **10** as a base and if the creature is particularly quick (sometimes called speed or SP), agile or nimble-fingered make it go up. If it is slow to respond, bulky, or clumsy, lower the number.
+- **Dexterity** is probably the easiest of the bunch. Start with **10** as a base and if the creature is particularly quick (sometimes called speed or SP), agile or nimble-fingered make it go up. If it is slow to respond, bulky, or clumsy, lower the number. See [Saving Throws](#saving-throws) below for more tricks!
 - **Willpower** is tricky. It rarely comes up but when it does, it's nice to have. High **WIL** is strong personality, spirit or presence. **Morale** (**ML**) can be a good guidepost for **Willpower** as well. Morale typically ranges between 2-12; some games use a "Morale Check" is used to determine if a monster flees (in Cairn a **WIL** save is used instead). The referee rolls 2d6; if the result is higher than the monster's **ML** score, they flee.  
 
 The following table offers a decent guide on converting **ML** to **WIL**.
@@ -45,6 +44,10 @@ The following table offers a decent guide on converting **ML** to **WIL**.
 - Magical creatures can just "know" a bunch of spells. In this case, make their corpses magical (and dangerous)!
 - Spells are tricky; you can give magic-users Spellbooks but remember, they might _drop_ them when defeated.
 - I like to make 1d4 dropped Spellbooks implode ([Die of Fate](/cairn-srd#die-of-fate)), just to mix it up!
+
+### Saving Throws
+- You can rely on Saving Throws to glean more information about a creature's abilities, specifically their ability to avoid death by physical trauma, magic, or poison. See the [OSE SRD](https://oldschoolessentials.necroticgnome.com/srd/index.php/Checks,_Damage,_Saves) for more details.
+- Occasionally stat blocks will use a shorthand like (E1) or (F1) (Level 1 [Elf](https://oldschoolessentials.necroticgnome.com/srd/index.php/Elf) or [Fighter](https://oldschoolessentials.necroticgnome.com/srd/index.php/Fighter) respectively). These are really helpful for quickly identifying at the creature's abilities.
 
 ### Stat Block Structure
  There are many ways to do this, but try to be consistent! In Cairn I write it like this:
