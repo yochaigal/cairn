@@ -48,16 +48,17 @@ The following table offers a decent guide on converting **ML** to **WIL**.
 ### Saving Throws
 - You can rely on _saving throws_ to glean more information about a creature's abilities, specifically their ability to avoid death by physical trauma, magic, or poison. See the [OSE SRD](https://oldschoolessentials.necroticgnome.com/srd/index.php/Checks,_Damage,_Saves) for more details.
 - Occasionally stat blocks will use a shorthand like (E1) or (F1) (Level 1 [Elf](https://oldschoolessentials.necroticgnome.com/srd/index.php/Elf) or [Fighter](https://oldschoolessentials.necroticgnome.com/srd/index.php/Fighter) respectively). These are really helpful for quickly identifying at the creature's abilities.
+- Consider adding descriptive tags such as "immune to toxic gas" or "good at dodging bullets" based on the saving throws.
 
 The following table should help determine which saving throws should result in an increase in one of the relevant ability scores.
 
-|         |   |    |
-|---------|---|----|
-| **Death or Poison**  | STR |
-| **Wands** | DEX |
-| **Paralysis or Petrification** | WIL |
-| **Breath Attacks** | DEX or STR |
-| **Spells, Rods or Staves** | WIL |
+|                                |            |
+| ------------------------------ | ---------- |
+| **Death or Poison**            | STR        |
+| **Wands**                      | DEX        |
+| **Paralysis or Petrification** | WIL or STR |
+| **Breath Attacks**             | DEX or STR |
+| **Spells, Rods or Staves**     | WIL        |
 
 ### Stat Block Structure
  There are many ways to do this, but try to be consistent! In Cairn I write it like this:
