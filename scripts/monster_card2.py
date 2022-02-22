@@ -1,5 +1,7 @@
+# -*- coding: UTF-8 -*-
 # Written by Oskar Swida
 # This creates monster cards from original monsters in markdown format
+
 
 import glob
 from textwrap import wrap
