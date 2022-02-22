@@ -4,7 +4,6 @@ sourcedir="/home/yochai/github/cairn/resources/monsters"
 tmpdir="/tmp/monsters"
 destdir="/home/yochai/Google Drive/Games/OSR/Into The Odd/hacks/Cairn/Monsters"
 currentdate="$(date "+%B %e, %Y")"
-cd $tmpdir
 rsync -av $sourcedir/ $tmpdir/
 sed -i '/^author/d' $tmpdir/*.md
 sed -i '/^source:/d' $tmpdir/*.md
