@@ -5,10 +5,10 @@ sourcedir="/home/yochai/github/cairn/resources/monsters"
 tmpdir="/tmp/monsters"
 destdir="/home/yochai/Google Drive/Games/OSR/Into The Odd/hacks/Cairn/Monsters"
 currentdate="$(date "+%B %e, %Y")"
-rsync -av $sourcedir/ $tmpdir/
-sed -i '/^author/d' $tmpdir/*.md
-sed -i '/^source:/d' $tmpdir/*.md
-sed -i '1 { /^---/ { :a N; /\n---/! ba; d} }' $tmpdir/*.md
+#rsync -av $sourcedir/ $tmpdir/
+#sed -i '/^author/d' $tmpdir/*.md
+#sed -i '/^source:/d' $tmpdir/*.md
+#sed -i '1 { /^---/ { :a N; /\n---/! ba; d} }' $tmpdir/*.md
 #sed -i '1 s/^/\\begin{samepage}\n/' $tmpdir/*.md
 #sed -i '$a \\\end{samepage}\n' $tmpdir/*.md
 
