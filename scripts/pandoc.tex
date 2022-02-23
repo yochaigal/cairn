@@ -1,0 +1,33 @@
+$if(titleblock)$
+$titleblock$
+
+$endif$
+$for(header-includes)$
+$header-includes$
+
+$endfor$
+$for(include-before)$
+$include-before$
+
+$endfor$
+$if(toc)$
+$table-of-contents$
+
+$endif$
+$body$
+$for(include-after)$
+
+$include-after$
+$endfor$
+
+\papersize=Letter
+\title="Cairn Monsters"
+\subtitle="Compiled on "  subtitle="$currentdate"
+\subtitle=" by Yochai Gal | CC-BY-SA 4.0"
+\mainfont=Alegreya
+\sansfont=Alegreya
+\monofont=Alegreya
+
+\begin{document}
+$body$
+\end{document}
