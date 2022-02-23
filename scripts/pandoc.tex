@@ -1,33 +1,17 @@
-$if(titleblock)$
-$titleblock$
+currentdate="$(date "+%B %e, %Y")"
+papersize=Letter
+title="Cairn Monsters"
+subtitle="Compiled on "
+subtitle="$currentdate"
+subtitle=" by Yochai Gal | CC-BY-SA 4.0"
+toc: true
+toc-depth: 1
+mainfont=Alegreya
+sansfont=Alegreya
+monofont=Alegreya
 
-$endif$
-$for(header-includes)$
-$header-includes$
-
-$endfor$
-$for(include-before)$
-$include-before$
-
-$endfor$
-$if(toc)$
-$table-of-contents$
-
-$endif$
-$body$
-$for(include-after)$
-
-$include-after$
-$endfor$
-
-\papersize=Letter
-\title="Cairn Monsters"
-\subtitle="Compiled on "  subtitle="$currentdate"
-\subtitle=" by Yochai Gal | CC-BY-SA 4.0"
-\mainfont=Alegreya
-\sansfont=Alegreya
-\monofont=Alegreya
-
-\begin{document}
-$body$
-\end{document}
+header-includes: |
+    \usepackage[paperheight=8.5in,paperwidth=5.5in, margin=0.5in]{geometry}
+    \usepackage[utf8]{inputenc}
+    \begin{document}
+    \end{document}
