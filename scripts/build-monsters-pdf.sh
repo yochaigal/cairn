@@ -8,6 +8,8 @@ rsync -av $sourcedir/ $tmpdir/
 sed -i '/^author/d' $tmpdir/*.md
 sed -i '/^source:/d' $tmpdir/*.md
 sed -i '1 { /^---/ { :a N; /\n---/! ba; d} }' $tmpdir/*.md
+#sed -i '1 s/^/\\begin{samepage}\n/' $tmpdir/*.md
+#sed -i '$a \\\end{samepage}\n' $tmpdir/*.md
 
 # Create the PDF
 pandoc --variable papersize=Letter --variable title="Cairn Monsters" --variable subtitle="Compiled on " --variable subtitle="$currentdate" --variable subtitle=" by Yochai Gal | CC-BY-SA 4.0" --variable mainfont=Alegreya --variable sansfont=Alegreya --variable monofont=Alegreya -f gfm --toc -s $tmpdir/*.md -o $tmpdir/cairn-monsters-letter-tmp.pdf
