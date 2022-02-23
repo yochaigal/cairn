@@ -1,8 +1,8 @@
 ---
 layout: default
 parent: Monsters
-grand_parent: Resources 
---- 
+grand_parent: Resources
+---
 
 # Couatl
 9 HP, 15 WIL, bite (d6)  
@@ -10,4 +10,4 @@ grand_parent: Resources
 - Highly intelligent and magical, are capable of speaking multiple languages.  
 - Shapechanger: may take the form of beasts and humanoids.  
 
-author: [xenio](https://xenioinabottle.blogspot.com) 
+author: [xenio](https://xenioinabottle.blogspot.com)
