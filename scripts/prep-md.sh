@@ -27,6 +27,11 @@ pandoc  -s $tmpdir/*.md \
         --metadata=cover-image:"$scriptdir/covers/cairn-monsters-letter-front-cover.png" \
         -f gfm \
         --toc \
+        --toc-depth=5 \
         -H head.tex \
-        --pdf-engine=lualatex \
         -o $tmpdir/cairn-monsters-letter-tmp.pdf
+
+#-A foot.tex \
+#-B body.tex \
+#-V toc-own-page="true" \
+#--pdf-engine=lualatex \
