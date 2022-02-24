@@ -20,7 +20,7 @@ pandoc  -s $tmpdir/*.md \
         -V subtitle="$currentdate" \
         -V subtitle=" by Yochai Gal | CC-BY-SA 4.0" \
         -V 'mainfont:Alegreya' \
-        -V fontsize=14pt \
+        -V fontsize=12pt \
         --metadata=title:"Cairn Bestiary" \
         --metadata=author:"Yochai Gal" \
         --metadata=lang:"en-US" \
