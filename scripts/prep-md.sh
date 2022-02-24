@@ -19,7 +19,7 @@ pandoc  -s $tmpdir/*.md \
         -V subtitle="Compiled on " \
         -V subtitle="$currentdate" \
         -V subtitle=" by Yochai Gal | CC-BY-SA 4.0" \
-        -V 'mainfont:Alegreya' \
+        -V fontfamily="Alegreya" \
         -V fontsize=12pt \
         --metadata=title:"Cairn Bestiary" \
         --metadata=author:"Yochai Gal" \
@@ -27,7 +27,6 @@ pandoc  -s $tmpdir/*.md \
         --metadata=cover-image:"$scriptdir/covers/cairn-monsters-letter-front-cover.png" \
         -f gfm \
         --toc \
-        --toc-depth=5 \
         -H head.tex \
         -o $tmpdir/cairn-monsters-letter-tmp.pdf
 
@@ -35,3 +34,4 @@ pandoc  -s $tmpdir/*.md \
 #-B body.tex \
 #-V toc-own-page="true" \
 #--pdf-engine=lualatex \
+#--toc-depth=5 \
