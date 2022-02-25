@@ -21,7 +21,7 @@ pandoc  -s $tmpdir/monsters/*.md \
         -V subtitle=" by Yochai Gal | CC-BY-SA 4.0" \
         -V fontfamily="Alegreya" \
         -V fontsize=12pt \
-        -V widows=1000 \
+        -V widows=10000 \
         --metadata=title:"Cairn Bestiary" \
         --metadata=author:"Yochai Gal" \
         --metadata=lang:"en-US" \
