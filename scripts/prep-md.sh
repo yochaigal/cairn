@@ -14,6 +14,9 @@ currentdate="$(date "+%B %e, %Y")"
 
 # Create the PDF
 pandoc  -s $tmpdir/monsters/*.md \
+        -f gfm \
+        --toc \
+        --template=build.tex \
         -V papersize=Letter \
         -V title="Cairn Bestiary" \
         -V subtitle="Compiled on " \
@@ -21,15 +24,12 @@ pandoc  -s $tmpdir/monsters/*.md \
         -V subtitle=" by Yochai Gal | CC-BY-SA 4.0" \
         -V fontfamily="Alegreya" \
         -V fontsize=12pt \
-        -V widows=10000 \
         --metadata=title:"Cairn Bestiary" \
         --metadata=author:"Yochai Gal" \
         --metadata=lang:"en-US" \
         --metadata=cover-image:"$scriptdir/covers/cairn-monsters-front-cover.png" \
-        -f gfm \
-        --toc \
-        -H head.tex \
         -o $tmpdir/monsters/cairn-monsters-letter-tmp.pdf
 
 #sed -i '1 s/^/\\begin{document}\n/' $tmpdir/monsters/*.md
 #sed -i '$a \\\end{document}\n' $tmpdir/monsters/*.md
+#--pdf-engine=pdflatex \
