@@ -6,3 +6,7 @@
 \thispagestyle{empty}
 \let\oldtoc\tableofcontents
 \renewcommand{\tableofcontents}{\oldtoc\newpage}
+\widowpenalty=10000
+\clubpenalty=10000
+\usepackage{atbegshi}
+\AtBeginDocument{\AtBeginShipoutNext{\AtBeginShipoutDiscard}}
