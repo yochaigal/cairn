@@ -1,7 +1,8 @@
-\usepackage{graphicx}
 \usepackage{titling}
+\usepackage{pdfpages}
 \pretitle{\begin{center}
-\noindent\makebox[\textwidth]{\includegraphics[width=\paperwidth]{covers/cairn-monsters-front-cover.png}}}
+\includepdf{covers/cairn-monsters-front-cover.png}}
 \posttitle{\end{center}}
 \thispagestyle{empty}
 \let\oldtoc\tableofcontents
+\renewcommand{\tableofcontents}{\oldtoc\newpage}
