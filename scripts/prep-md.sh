@@ -15,12 +15,13 @@ currentdate="$(date "+%B %e, %Y")"
 pandoc  -s $tmpdir/monsters/*.md \
         -f gfm \
         --toc \
-        -H monsters-cover.tex \
+        --template=build.tex \
+        --include-before-body=monsters-cover.tex \
         -V papersize=Letter \
         -V title="Cairn Bestiary" \
         -V subtitle="Compiled on " \
         -V subtitle="$currentdate" \
-        -V subtitle=" | CC-BY-SA 4.0" \
+        -V subtitle=" by Yochai Gal | CC-BY-SA 4.0" \
         -V fontfamily="Alegreya" \
         -V fontsize=12pt \
         --metadata=title:"Cairn Bestiary" \
