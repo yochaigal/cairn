@@ -11,12 +11,11 @@ currentdate="$(date "+%B %e, %Y")"
 #sed -i '/^source:/d' $tmpdir/monsters/*.md
 #sed -i '1 { /^---/ { :a N; /\n---/! ba; d} }' $tmpdir/monsters/*.md
 
-
 # Create the PDF
 pandoc  -s $tmpdir/monsters/*.md \
         -f gfm \
         --toc \
-        --template=build.tex \
+        --include-in-header monsters-cover.tex \
         -V papersize=Letter \
         -V title="Cairn Bestiary" \
         -V subtitle="Compiled on " \
@@ -29,7 +28,3 @@ pandoc  -s $tmpdir/monsters/*.md \
         --metadata=lang:"en-US" \
         --metadata=cover-image:"$scriptdir/covers/cairn-monsters-front-cover.png" \
         -o $tmpdir/monsters/cairn-monsters-letter-tmp.pdf
-
-#sed -i '1 s/^/\\begin{document}\n/' $tmpdir/monsters/*.md
-#sed -i '$a \\\end{document}\n' $tmpdir/monsters/*.md
-#--pdf-engine=pdflatex \
