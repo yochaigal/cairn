@@ -18,8 +18,8 @@ grand_parent: Adventures
 ### Malzazerick the Magnificent
 4 HP, 12 STR, 11 DEX, 15 WIL, dagger (1d6), Spells: _Read Magic_, _Charm Person_, _Magic Missile_
 - _Read Magic_: Decipher magical runes, inscriptions or language.
-- _Charm Person_: See [_Charm_](/cairn-srd#100-spells).
-- _Magic Missile_: See [_Arcane Arrow_](/cairn-srd#100-spells).
+- _Charm Person_: See [_Charm_](/cairn-srd/#charm).
+- _Magic Missile_: See [_Arcane Arrow_](/resources/more-spellbooks/#arcane-arrow).
 
 ### “Drop Dead” Ned
 4 HP, 1 Armor, 11 STR, 13 DEX, 12 WIL, silver dagger (d6), shortbow (d6), killer wasp (d4)
@@ -33,7 +33,7 @@ grand_parent: Adventures
 - **Mithril Chain:** 2 Armor, half damage from magic weapons/spells. _One slot_.
 
 ### Father William the Priest
-- _Cure Wounds_: See [Cure Wounds](/cairn-srd#100-spells).
+- _Cure Wounds_: See [Cure Wounds](/cairn-srd#cure-wounds).
 - _Cure Disease_: A target is completely cured of a single disease.
 
 ### Ingrid the Alchemist
@@ -55,7 +55,7 @@ grand_parent: Adventures
 
 ### Dryad
 10 HP, 2 Armor, 11 STR, 14 DEX, 9 WIL
-- _Charm Person_: See [_Charm_](/cairn-srd#100-spells).
+- _Charm Person_: See [_Charm_](/cairn-srd#charm).
 
 ### Stirges
 3 HP, 6 STR, 14 DEX, 13 WIL, bite (d4)
@@ -74,28 +74,28 @@ grand_parent: Adventures
 4 HP, 2 Armor, 11 STR, 13 DEX, 12 WIL, longbow (d8), a spellbook
 - For spells consider any of the following table or see any ([random spell](/cairn-srd#100-spells)):
 
-|         |                   |
-| ------- | ----------------- |
-| **d20** | **Spell**         |
-| 1       | _Babble_          |
-| 2       | _Befuddle_        |
-| 3       | _Control Plants_  |
-| 4       | _Detect Magic_    |
-| 5       | _Deafen_          |
-| 6       | _Filch_           |
-| 7       | _Haste_           |
-| 9       | _Pacify_          |
-| 10      | _Phobia_          |
-| 11      | _Repel_           |
-| 12      | _Shroud_          |
-| 13      | _Sleep_           |
-| 14      | _Sniff_           |
-| 15      | _Telekinesis_     |
-| 16      | _Telepathy_       |
-| 17      | _Thicket_         |
-| 18      | _Teleport_        |
-| 19      | _Visual Illusion_ |
-| 20      | _Wizard Mark_     |
+|         |                                                 |
+| ------- | ----------------------------------------------- |
+| **d20** | **Spell**                                       |
+| 1       | [_Babble_](/cairn-srd#babble)                   |
+| 2       | [_Befuddle_](/cairn-srd#befuddle)               |
+| 3       | [_Control Plants_](/cairn-srd#control-plants)   |
+| 4       | [_Detect Magic_](/cairn-srd#detect-magic)       |
+| 5       | [_Deafen_](/cairn-srd#deafen)                   |
+| 6       | [_Filch_](/cairn-srd#filch)                     |
+| 7       | [_Haste_](/cairn-srd#haste)                     |
+| 9       | [_Pacify_](/cairn-srd#pacify)                   |
+| 10      | [_Phobia_](/cairn-srd#phobia)                   |
+| 11      | [_Repel_](/cairn-srd#repel)                     |
+| 12      | [_Shroud_](/cairn-srd#shroud)                   |
+| 13      | [_Sleep_](/cairn-srd#sleep)                     |
+| 14      | [_Sniff_](/cairn-srd#sniff)                     |
+| 15      | [_Telekinesis_](/cairn-srd#telekinesis)         |
+| 16      | [_Telepathy_](/cairn-srd#telepathy)             |
+| 17      | [_Thicket_](/cairn-srd#thicket)                 |
+| 18      | [_Teleport_](/cairn-srd#teleport)               |
+| 19      | [_Visual Illusion_](/cairn-srd#visual-illusion) |
+| 20      | [_Wizard Mark_](/cairn-srd#wizard-mark)         |
 
 ### Goblin Scavengers
 3 HP, 1 Armor, 9 STR, 11 DEX, 15 WIL, 1 weapon (d6)
@@ -109,7 +109,7 @@ grand_parent: Adventures
 ## Stream
 ### Nixie Traders
 2 HP, 1 Armor, 4 STR, 14 DEX, 9 WIL, trident (d6)
-- _Charm Person_: See [Charm](https://cairnrpg.com/cairn-srd#100-spells).
+- _Charm Person_: See [Charm](https://cairnrpg.com/cairn-srd#charm).
 - Water Breathing (24h).
 
 ### Leprechaun Fisherman
@@ -137,14 +137,14 @@ River Troll
 
 ### Brother Dirk
 3 HP, 9 STR, 8 DEX, 15 WIL, fists (d4), spellbook (see below)
-- _Cure Light Wounds_: See [Cure Wounds](/cairn-srd#100-spells).
+- _Cure Light Wounds_: See [Cure Wounds](/cairn-srd#cure-wounds).
 
 ## Goblin Castle
 ### Hogboon, the Goblin King
 8 HP, 2 Armor, 14 STR, 11 DEX, 15 WIL, sword (d8), spellbook (see below)
-- _Charm Person_: See [Charm](https://cairnrpg.com/cairn-srd#100-spells).
-- _Sleep_: See [Sleep](https://cairnrpg.com/cairn-srd#100-spells).
-- _Invisibility_: See [Invisibility](https://cairnrpg.com/cairn-srd#100-spells).
+- _Charm Person_: See [Charm](https://cairnrpg.com/cairn-srd#charm).
+- _Sleep_: See [Sleep](https://cairnrpg.com/cairn-srd#sleep).
+- _Invisibility_: See [Invisibility](https://cairnrpg.com/cairn-srd#invisibility).
 
 ## Barrow Mound
 ### Knight's Crypt
@@ -185,7 +185,7 @@ See [above](/adventures/conversions/the-black-wyrm-of-brandonsford/#goblins)
 ### Crypt of Sir Wyllt
 - **Potions of Healing**: Restore 1d6+1 STR.
 - **Potions of Sleep**: Imbibers fall asleep.
-- **Potion of Tranquility**: See [Pacify](/cairn-srd#100-spells).
+- **Potion of Tranquility**: See [Pacify](/cairn-srd#pacify).
 
 ### Sir Wylt's Skeleton
 6 HP, 2 Armor, 11 STR, 8 DEX, 18 WIL, axe (d8)
