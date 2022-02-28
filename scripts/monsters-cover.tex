@@ -1,6 +1,13 @@
 \usepackage{titling}
 \usepackage{pdfpages}
 \pretitle{\begin{center}
-\includepdf{}}
+\includepdf{covers/cairn-monsters-front-cover.png}}
 \posttitle{\end{center}}
 \thispagestyle{empty}
+\let\oldtoc\tableofcontents
+\renewcommand{\tableofcontents}{\oldtoc\newpage}
+\widowpenalty=10000
+\clubpenalty=10000
+\usepackage{atbegshi}
+\AtBeginDocument{\AtBeginShipoutNext{\AtBeginShipoutDiscard}}
+\setcounter{page}{0}
