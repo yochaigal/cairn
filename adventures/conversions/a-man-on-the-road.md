@@ -33,5 +33,5 @@ title: A Man on the Road
 8. Unarmed - (1d4)
    - Critical damage: Make a STR save or die.
 
-### His Underhanded Tactics
-    6. Targets eyes, throat, groin. Bites with canine ferocity (d3, as extra attack).
+### His Underhanded Tactics (#6)
+Targets eyes, throat, groin. Bites with canine ferocity (d6, as extra attack).
