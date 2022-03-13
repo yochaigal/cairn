@@ -12,7 +12,7 @@ title: A Man on the Road
 
 ## The Man
 7 HP, 3 Armor, 18 STR, 16 DEX, 18 WIL
-- Hard to Kill: Falls unconscious for 1d6 rounds upon receiving critical damage, then rises with 5 less STR than his previous maximum (surprising anyone looting his corpse) unless finished off (see Executions Confounded).
+- Hard to Kill: Falls unconscious for 1d6 rounds upon receiving critical damage, then rises with 5 less STR than his previous maximum (surprising anyone looting his corpse) unless finished off (see **Executions Confounded**).
 
 ### His Horse
 7 HP, 1 Armor, 12 STR, 10 DEX, 10 WIL, hooves (1d8+1d8)
