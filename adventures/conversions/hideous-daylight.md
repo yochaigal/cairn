@@ -46,7 +46,6 @@ So long as Sarae’s mirror prison is whole, Sarae will revive within 1 turn. Th
 
 **Magic Powers**
 - Cause darkness in a 10- foot diameter (twice per day)
-- Level drain (1 level) with kiss (save vs spells)
 - Summon 1d3 shadow imps (once per day)
 - Change shape (at will)
 - Charm Monster (as the spell, once per day)
