@@ -6,7 +6,7 @@ title: Beyond The Burning Teeth
 redirect_from: /resources/adventure-conversions/beyond-the-burning-teeth/
 ---
 
-# Burning The Burning Teeth
+# Beyond The Burning Teeth
 
 - Get the adventure [here](https://hopefulweirdwonder.itch.io/burningteeth).
 - [Amanda P](https://hopefulweirdwonder.itch.io/) has helpfully added Cairn translations at the end of the PDF.
