@@ -370,3 +370,66 @@ The following is a list of Relics from all over the web, copied with permission.
 - A green petrified crow egg, warm to the touch. When a charge is expended the warmth wanes.
 - By expending a charge, you can cast a spell without gaining a fatigue.
 - **Recharge**: Bury it in consecrated ground, wait 5 days and dig it up.
+
+#### Lyre of the Sea, 3 charges
+- A lyre crafted from red coral, with strings made from mermaid's hair.
+- While playing the lyre and expending a charge, the user can attract a school of fish to their location.
+- While playing the lyre and expending a charge, the user can create waves with increasing intensity as long as they keep playing.
+- **Recharge**: A siren has to kiss the lyre.
+
+#### Ears of the Thief, 2 charges.
+- These large bronze ears are attached to each other with a copper head band and are worn on the head.  - When wearing the Ears they grant the wielder the power to listen to whatever is happening in another room by pointing their head toward a door or window.
+- **Recharge**: Cover the Ears completely in gold coins and bury them for a day and a night.
+
+#### Invested Hurt (d6), 10 charges
+- This razor thin shortsword hurts on initial cut and then once more when the victim moves (d4).
+- **Recharge**: Permanently end a meaningful relationship.
+
+#### Heat Armor
+- A warm to the touch scale mail. Always keeps the wearer comfortably heated, no matter the ambient temperature.
+- All fire and heat based damage caused nearby is absorbed by the wearer and enhanced against them.
+
+#### Spell Eater
+- An ornate little bronze box, devours all spells uttered in the vicinity for 1d4 turns.
+- **Recharge**: Whoever opened the box must remain silent for as many days as spells devoured by the box.
+
+#### Tosser's Coin
+- Ask a question that can be answered with yes or no and toss the coin. While in the air, you announce which side is yes or no. The coin answers truthfully.
+Recharge: While making an important decision, toss the coin.
+- While in the air, you announce which side is yes or no. Act according to the coin's answer. If you don't act accordingly, your endeavor is cursed and the coin loses its powers forever.
+
+#### Serving Bowl
+- If you serve food to somebody in your home, camp or a place of hospitality in this simple, wooden bowl, the person accepting the food can not harm you for a week.
+- **Recharge**: Fill this bowl with food and bring it to those in need, every day for seven days. If you act stingy, the next time you eat from this bowl you'll choke. Only somebody else can save you.
+- In the case of the coin and the bowl, I guess players should be aware of the recharge condition, but maybe not  of the consequences should they act against its spirit
+
+#### Black Bolt, 3 charges
+- Shot from a crossbow, this bolt always (well, 3 times at least) strikes true. Ignore armor on the damage roll
+- **Recharge**: Shoot an apple off a party member's head.
+
+#### Catacomb Saint
+- Speak a prayer in the saint's name to to animate this skeleton wearing golden armor adorned with gems. It will fight alongside you til either it or your foe is destroyed.
+- **Recharge**: You must return the saint to its catacomb, add a precious gem to its armor and let it rest for 12 weeks. Should you fail to do so, you'll earn the church's wrath. Cart required.
+
+#### Scroll of the Giants, Spellbook, bulky
+This ornate pull-out scroll made of whale bone, has a silver foil sheet inscribed with spells, it's giant sized and in the hands of a human it needs two hands to be handled. When someone has the scroll on their person they begin to feel a constant chill. After a few hours their touch becomes ice cold and rime and frost stick to them and their stuff.
+- Breath of winter: a 60 ft cone of frost dealing d8 damage to all caught in it, it leaves the ground slippery with sheets of ice.
+- Creeping fog: summon an unnatural cold fog that slowly fills a large area.
+- Eye of Arghamok: One target creature must save against will or begin hallucinating horrors from their past. This curse lasts until the target gets a full night's rest.
+
+#### Thunderstalk
+- A bamboo staff in which a live hornet has been trapped. When the staff is struck against the earth the hornet’s wrathful spirit is roused and instantly summons a thunder storm. Every living thing not in shelter has a 1 in four chance of being struck by lightning, dealing 1d12 damage to organic creatures. **Recharge** with another live hornet.
+
+#### Memory Cap
+- 3 charges. A large mushroom cap that can be thrown and returns to the thrower in a spiraling path, with a radius equal to thrower’s STR x 10. As it flies it scatters spores that emit a phosphorescent glow on the ground anywhere a creature has walked since the last sunset.
+- **Recharge**: place overnight in a dark box with soil enriched with centaur manure
+
+#### Flitterflare
+- 3 charges. A small clay amulet in the shape of a firefly, with a compartment filled with nectar. When thrown, it hovers in place and attracts all fireflies within a half mile radius, creating a dazzling light (and darkening other parts of the forest). The flitterflare drops and the fireflies disperse after 1 minute.  **Recharge** by filling with nectar.
+
+#### Birdnip Gourd
+- 3 uses. A calabash container filled with dried birdnip, a rare herb that all birds find irresistible. Wherever the herb is sprinkled, in 30 seconds all birds in the area flock to the spot in a frenzy for 5 minutes and anyone caught in the middle suffers 1d4 peck/scratch damage per round until the birds consume all the birdnip or the victim jumps into water, sets themselves on fire, etc. The birds however maintain a five foot radius from the gourd and its bearer.
+- **Recharge**: Birdnip  only grows on mountainsides below peaks where rocs nest.
+
+#### Warden’s Ruyi
+- 3 charges. A peach wood ruyi scepter ornately carved with tree nymphs and talismanic writing. When the holder of this ruyi taps a tree and points to a spot within 20 feet of the tree, the tree will uproot, walk, and root in the indicated spot. The ruyi is charged by wood nymphs after the holder has done some (supposedly) small errand for them.
