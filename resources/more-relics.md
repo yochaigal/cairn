@@ -128,7 +128,7 @@ The following is a list of Relics from all over the web, copied with permission.
 - Shovels solid rock like it would be dirt.
 - **Recharge**: Spend 1 hour shoveling dirt in the rain.
 
-#### From The NSR Discord
+### From The NSR Discord
 #### Last Breath, shortsword, d8 damage, 1 charge
 - Plunging **Last Breath** into the ground creates an [_Astral Prison_](/cairn-srd#100-spells) around the bearer. The bearer is invulnerable to harm but unable to move while contained in the prison.
 - **Recharge**: Last Breath by feeding it the souls it needs to build the prison.
@@ -433,3 +433,14 @@ This ornate pull-out scroll made of whale bone, has a silver foil sheet inscribe
 
 #### Warden’s Ruyi
 - 3 charges. A peach wood ruyi scepter ornately carved with tree nymphs and talismanic writing. When the holder of this ruyi taps a tree and points to a spot within 20 feet of the tree, the tree will uproot, walk, and root in the indicated spot. The ruyi is charged by wood nymphs after the holder has done some (supposedly) small errand for them.
+
+#### Inkstone of Whispers
+An inkstone from a sacred grotto where a forest hermit dwelt. If ink rubbed on this stone is used to write a target’s name on a leaf, all the leaves in the forest will whisper that name. If the target is within earshot, they are delirious for 1d8 rounds and must save against WIL or panic and flee for 1d6 rounds.
+- The ink cannot be used to write the same name more than once. The ink must be used fresh or it becomes ordinary ink.
+  - Rubbing the ink and writing the name takes 3 turns. Ink rubbed in this stone is only effectual when using spring water from the same grotto whence the stone was taken.
+
+#### Inversion Pot
+- A squat clay teapot with a crane carved in one side and a centipede on the other. If a poisonous plant is steeped in this pot, the resulting tea is its antidote. Likewise beneficial herbs steeped in this teapot produce poison.
+
+#### Tiger and Deer Scroll
+- A scroll painting depicting a tiger stalking three deer through a wooded mountain landscape. If the bearer opens this scroll facing enemies, the scroll will absorb a single enemy of the bearer’s choice, who then appears in the painting. In exchange, one of the beings in the painting incarnates in the PC’s dimension. **Roll 1d4**: 1-3 one of the deer appears and bounds away. On a 4, the tiger appears and immediately attacks the bearer of the scroll.
