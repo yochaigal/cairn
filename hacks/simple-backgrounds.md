@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Simple Backgrounds
-parent: hacks
+parent: Hacks
 redirect_from: /wip/simple-backgrounds
 ---
 
