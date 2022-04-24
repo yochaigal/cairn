@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Simple Backgrounds
-parent: WIP
-nav_exclude: true
-search_exclude: true
+parent: hacks
+redirect_from: /wip/simple-backgrounds
 ---
 
 # Simple Backgrounds
@@ -21,7 +20,7 @@ search_exclude: true
 ### Smallfolk
 - **Easily Missed**: Enemies tend to ignore you, going for the bigger targets first or ignoring you altogether.
 - **Quicksilver**: Escaping sudden capture or a killing blow is like second nature to you. Sneaking comes naturally, too.
-- **Big Boned**: You have to eat _a lot_, at least 5 times a day. Fortunately you can consume nearly anything if you have to.
+- **Second Breakfast**: You have to eat _a lot_, at least 5 times a day. Fortunately you can consume nearly anything if you have to.
 
 ### Greenskin
 - **Blood Brothers**: Being surrounded by at least two other trusted warriors bolsters your battle sense, and you always go first.  
