@@ -2,6 +2,7 @@
 layout: default
 title: Simple Backgrounds
 parent: Hacks
+nav_order: 3
 redirect_from: /wip/simple-backgrounds
 ---
 
