@@ -72,11 +72,10 @@ You are a faithful servant of your deity. Battle ready to channel the power of y
 | 14  | Perfect Preservation |
 | 15  | Planar Anchor        |
 | 16  | Ravenless Message    |
-| 17  | Scry Creature        |
-| 18  | Scrying Ward         |
-| 19  | Song of Repose       |
-| 20  | Uncurse              |
-| 21  | Word of Pain         |
+| 17  | Scrying Ward         |
+| 18  | Song of Repose       |
+| 19  | Uncurse              |
+| 20  | Word of Pain         |
 
 ## Magic-User
 You are the Wizard, the Necromancer, the Elementalist, the Enchanter.  
