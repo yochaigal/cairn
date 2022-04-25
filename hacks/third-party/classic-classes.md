@@ -54,7 +54,7 @@ You are a faithful servant of your deity. Battle ready to channel the power of y
 - Roll 1d12+8 on the **Helmets and Shields Table**.
 - Roll the rest as usual.
 
-|     | **Cleric Spell**     |
+|     | **Cleric Spells**     |
 | --- | -------------------- |
 | 1   | Blessing             |
 | 2   | Cure-All             |
