@@ -91,12 +91,12 @@ You are the scholar of the arcane, you handle spells and magic like no one else.
 
 **Character creation**
 
-- **Great Spellbook** (Bulky). This is the fruit of your research and your most precious belongings (only you can decipher it). You can copy standard Spellbooks in your own after 4 hours of works and passing a **WIL Save**. During the process the original Spellbook is destroyed. Scrolls cannot be copied.
-- You are not comfortable wearing bulky armor. Spell casting wearing one will required a successful **WIL Save**.
+- **Grimoire** (Bulky). This is the fruit of your research and your most precious belongings (only you can decipher it). You can copy standard Spellbooks in your own after 4 hours of works and passing a **WIL Save**. During the process the original Spellbook is destroyed. Scrolls cannot be copied.
+- You are not comfortable wearing bulky armor. Spell casting wearing one will cost 2 **Fatigue**.
 
 **Starting Gear**
 
-- You start with your **Great Spellbook**.
+- You start with your **Grimoire** with a random spell inscribed..
 - Roll 1d6 on the **Armor Table**.
 - Don't roll on the **Helmets and Shields Table**.
 - Roll the rest as usual.
