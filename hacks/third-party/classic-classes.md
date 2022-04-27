@@ -7,6 +7,8 @@ grand_parent: Hacks
 
 # Classic Classes
 
+- Based on the original [hack](https://dangerisreal.itch.io/classic-classes-for-cairn) by [Danger_is_Real](https://dangerisreal.blogspot.com/)
+
 ## Fighter
 You are the Mercenary, the Barbarian, the Gladiator, The Knight.  
 You are the master of the arts of combat and warfare
