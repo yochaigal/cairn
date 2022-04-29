@@ -30,8 +30,8 @@ Alabaster skin and white hair with a blackened mouth. Clad in tattered finery.
 - Repulsed by the sight of themselves, they flee from mirrors.
 
 ### Equus Hound
-Hairless, dun-coloured dogs with a head like a horse skull
-5 HP, 1 Armor, 12 STR, 12 DEX, bite (d8)
+Hairless, dun-coloured dogs with a head like a horse skull  
+5 HP, 1 Armor, 12 STR, 12 DEX, bite (d8)  
 - Feast on rotting flesh or offal
 
 ### White Swine, offspring of the Great Sow
