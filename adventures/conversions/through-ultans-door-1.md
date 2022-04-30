@@ -60,7 +60,7 @@ A dream-like vignette, alluring to its prey, e.g.:
 - Upon defeat leaves behind a pint of oneiric residue
 
 ### Ravens of Perjury
-A single eye sits among a tangle of raven wings with no head and no body.  
+A single eye sits among a tangle of raven wings with with neither head nor body.  
 5 HP, 1 Armor, 18 DEX, 8 WIL, murderous glare (d4 range)  
 - Flits erratically, like a quick moving bat
 - Not hostile but turn their gaze where curiosity takes it
@@ -100,7 +100,7 @@ Zebra striped caterpillars the size of horses.
 - Critical Damage: Night Terror, opponent must make a WIL save or be incapacitated by waking nightmares for the next turn.
 
 ### Apprentice explorers, lackeys of Maneeshaneru and Ulimamo
-Adorned with plain masks and simple robes, bearing heavy loads.  
+Apprentice explorer, lackey of Maneeshaneru and Ulimamo (x2)  
 4 HP, 11 STR, 8 DEX, spear (d6)
 
 ## Encounter Oddities
@@ -130,9 +130,9 @@ When thrown, it engulfs the target in a sticky web for two turns after which the
 Consider running white swine in this room as a Detachment.
 
 ### Queen Sow
-Massive mother pig lying on her side.offering teats that protrude from flaccid folds to suckling white swine.
+Massive mother pig lying on her side, offering teats that protrude from flaccid folds to suckling white swine.  
 15 HP, 18 STR, 0 DEX
-- Immobile and has no attacks, her brood is her defence.
+- Immobile and has no attacks, her brood is her defense.
 - Nest is damp with swine afterbirth, straw bedding is flame retardant.
 
 ## Room 8, Temple of the Holy Puppets, Page 19
@@ -152,7 +152,7 @@ A smirking man, clad in black formal wear, standing 10’ tall in stilts.
 
 ### Oddity: Afatis Marionette
 Woman wearing a mask of a crow. Her bosom swells below robes, gathered by jewel sash.  
-Puppet usable as a on a 5d6 DEX save, otherwise damaged. As a vehicle, confers these stats:  
+Puppet usable as a vehicle on a 5d6 DEX save, otherwise damaged. Confers these stats:  
 9 HP, 3 Armor, 7 DEX, needle beaked children (d8+d8+d8)  
 
 ## Room 21, Scriptorum, Page 25
