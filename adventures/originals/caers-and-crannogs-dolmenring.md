@@ -1,5 +1,5 @@
 ---
-title: Caers & Crannogs: Dolmenring
+title: Caers & Crannogs - Dolmenring
 parent: Originals
 layout: default
 grand_parent: Adventures

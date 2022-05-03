@@ -1,5 +1,5 @@
 ---
-title: Piedmont: Critters of Wood and Mountain
+title: Piedmont - Critters of Wood and Mountain
 parent: Originals
 layout: default
 grand_parent: Adventures

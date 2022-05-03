@@ -1,5 +1,5 @@
 ---
-title: Fogheart: The Torso of The Giant King
+title: Fogheart -the Torso of the Giant King
 parent: Originals
 layout: default
 grand_parent: Adventures
