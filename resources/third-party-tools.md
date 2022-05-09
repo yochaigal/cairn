@@ -7,6 +7,7 @@ parent: Resources
 
 # Third-party Resources
 
+# Miscelleanous Resources
 - [Character Sheet (token)](https://docs.google.com/drawings/d/1_X9o8rzE5jFPQpP1yCz1sPikdm8naQ1gPkT-ATK2T0c) (Download as PDF or PNG)
 - [Online Character Keeper](https://docs.google.com/spreadsheets/d/1Ueq-v5XZ-mC1qFd81T0892RzRsr8WdgAG89M4ZXe5qM) (Google Sheets)
 - [Online Character Keeper](https://docs.google.com/spreadsheets/d/1z_SdtvAzUILAxCtgfbp8BJWCOfHHBbkEv_H4nzm847A) by Tuirgin
@@ -17,3 +18,9 @@ parent: Resources
 - [108 Level-less Spells](https://dreamingdragonslayer.itch.io/108-level-less-spells-d366)
 - [Mausritter Item Creation Tools](https://mausritter.com/item-card-studio/)
 - [Caers & Crannogs Zine](https://manarampmatt.itch.io/caers-crannogs-issue-1)
+
+## Itch Collections
+- [Cairn Adventures](https://itch.io/c/1352509/cairn-adventures)
+- [Cairn Resources](https://itch.io/c/2475049/cairn-resources)
+- [Cairn Hacks](https://itch.io/c/1702301/cairn-hacks)
+- [Cairn In Other Langauges](https://itch.io/c/2475051/cairn-in-other-languages)
