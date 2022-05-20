@@ -2,7 +2,7 @@
 layout: default
 title: More Equipment
 parent: Resources
-nav_order: 5
+nav_order: 6
 ---
 
 # More Equipment

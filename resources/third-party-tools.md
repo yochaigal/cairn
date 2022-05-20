@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Third-Party Resources
-nav_order: 5
+nav_order: 13
 parent: Resources
 ---
 

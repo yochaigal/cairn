@@ -3,7 +3,7 @@ layout: default
 redirect_from: /resources/tools/foundryvtt-system
 title: Foundry VTT System
 parent: Resources
-nav_order: 2
+nav_order: 3
 ---
 
 # Foundry VTT System
