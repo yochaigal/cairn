@@ -2,7 +2,7 @@
 layout: default
 title: Monsters (Other Formats)
 parent: Resources
-nav_order: 9
+nav_order: 8
 ---
 
 # Monsters (Other Formats)
