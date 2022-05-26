@@ -6,7 +6,7 @@ parent: Third Party
 ---
 
 # Modular Rules & Procedures for Cairn
-- From [Modular Rules & Procedures for Cairn](https://adamhensley.itch.io/modular-rules-and-procedures-for-cairn) by Adam Hensley, used with permission. For a nice PDF version see the [Cairn Adventurer Guide](https://adamhensley.itch.io/cairn-adventurers-guide)
+- Adapted from the [Cairn Adventurer's Guide](https://adamhensley.itch.io/cairn-adventurers-guide) Adam Hensley, used with permission. 
 - This content is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 - This document lists some optional, modularly-designed rules & procedures for Cairn (and should be adaptable to most other OSR-adjacent games with minimal tinkering).
 - These rules are designed to be plug-n-play, so just grab what you like and discard the rest.
