@@ -13,7 +13,7 @@ nav_exclude: true
 
 |      |                                         |                                                              | **Spellbook:** |
 | ---- | --------------------------------------- | ------------------------------------------------------------ | -------------- |
-| 1    | [Adhere](#adhere)                       | An object is covered in extremely sticky slime.              | **Spellbook:** |
+| 1    | [Adhere](#adhere)                       | An object is covered in extremely sticky slime.              | **Spellbook:** Metallic items stick to the book with great force. |
 | 2    | [Anchor](#anchor)                       | A strong wire sprouts from your arms, affixing itself to two points within 50ft on each side. | **Spellbook:** |
 | 3    | [Animate Object](#animate-object)       | An object obeys your commands as best it can.                | **Spellbook:** |
 | 4    | [Anthropomorphize](#anthropomorphize)   | An animal either gains human intelligence or human appearance for one day. | **Spellbook:** |
@@ -41,7 +41,7 @@ nav_exclude: true
 | 26   | [Earthquake](#earthquake)               | The ground begins shaking violently. Structures may be damaged or collapse. | **Spellbook:** |
 | 27   | [Elasticity](#elasticity)               | Your body can stretch up to 10ft.                            | **Spellbook:** |
 | 28   | [Elemental Wall](#elemental-wall)       | A straight wall of ice or fire 50ft long and 10ft high rises from the ground. | **Spellbook:** |
-| 29   | [Filch](#filch)                         | A visible item teleports to your hands.                      | **Spellbook:** |
+| 29   | [Filch](#filch)                         | A visible item teleports to your hands.                      | **Spellbook:** Never where you left it. Each time you retrieve it, spend a moment searching for it amongst your things.|
 | 30   | [Flare](#flare)                         | A bright ball of energy fires a trail of light into the sky, revealing your location to friend or foe. | **Spellbook:** |
 | 31   | [Fog Cloud](#fog-cloud)                 | A dense fog spreads out from you.                            | **Spellbook:** |
 | 32   | [Frenzy](#frenzy)                       | A nearby creature erupts in a frenzy of violence.            | **Spellbook:** |
