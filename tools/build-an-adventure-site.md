@@ -10,7 +10,7 @@ redirect_from: /resources/tools/build-an-adventure-site/
 ## Choose A Theme
 - Pick a theme for the area. A specific mythology you find inspiring, something from history, etc.
 - Name (should reflect or theme). There are some great names [here](https://www.fantasynamegenerators.com/forest_names.php).
-- Come up with a solid adventure premise (typically an amazing location with a treasure to hunt).
+- Come up with an adventure premise (for example, an amazing location with a treasure to hunt).
 - Decide on a ruling faction, with traits & motive.
 - Add some kind of counter balance (another faction, some kind of nefarious enemy, etc).
 - Keep these concepts in mind at all times: Dangers, Stakes, Motives, Urgency. The more you can weave in, the better.
