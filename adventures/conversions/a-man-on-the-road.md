@@ -8,7 +8,7 @@ title: A Man on the Road
 # A Man on the Road
 
 - Based on the original [work by Ian Yusem](https://ian-yusem.itch.io/a-man-on-the-road).
-- Conversion credit to Kevin Hopf.
+- Thanks to Kevin Hopf for this conversion.
 
 ## The Man
 7 HP, 3 Armor, 18 STR, 16 DEX, 18 WIL
