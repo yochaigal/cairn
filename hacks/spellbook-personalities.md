@@ -20,20 +20,20 @@ nav_exclude: true
 | 5    | [Arcane Eye](#arcane-eye)               | You can see through a magical floating eyeball that flies around at your command. | Circular; closed with a long string. Can be worn as an eyepatch.  |
 | 6    | [Astral Prison](#astral-prison)         | An object is frozen in time and space within an invulnerable crystal shell. | Crystalline purple binding. Abstract faces stare through the tortoise-shell surface. They appear to be screaming. |
 | 7    | [Attract](#attract)                     | Two objects are strongly magnetically attracted to each other if they come within 10 feet. | Nearby compasses spin uselessly, and if dropped, the Spellbook always points towards True North. |
-| 8    | [Auditory Illusion](#auditory-illusion) | You create illusory sounds that seem to come from a direction of your choice. | The book makes no noise, not even at the turning of its pages. Sometimes, the silence is deafening. |
+| 8    | [Auditory Illusion](#auditory-illusion) | You create illusory sounds that seem to come from a direction of your choice. | Thin and wrapped in a thick, cloth-like paper. The cover does little to muffle random and occasionally comical sounds it produces throughtout the day. |
 | 9    | [Babble](#babble)                       | A creature must loudly and clearly repeat everything you think. It is otherwise mute. | While holding the book, the words of others are opaque and difficult to understand. |
 | 10   | [Bait Flower](#bait-flower)             | A plant sprouts from the ground that emanates the smell of decaying flesh. | The book itself produces no smell at all, not even of paper. Somehow, it still seems to attract any beasts that hunt flesh. |
 | 11   | [Beast Form](#beast-form)               | You and your possessions transform into a mundane animal.    | Covered in thick fur, with small teeth lining the edges. The book can be thrown, doing d6 STR damage to its target.  |
 | 12   | [Befuddle](#befuddle)                   | A creature of your choice is unable to form new short-term memories for the duration of the spell. |  With each use, the book adds a paragraph to its appendix, describing a loving memory from the target's past. |
-| 13   | [Body Swap](#body-swap)                 | You switch bodies with a creature you touch If one body dies, the other dies as well. |  |
-| 14   | [Charm](#charm)                         | A creature you can see treats you as a friend.               |  |
-| 15   | [Command](#command)                     | A target obeys a single three-word command that does not cause it harm. |  |
-| 16   | [Comprehend](#comprehend)               | You become fluent in all languages for a short while.        |  |
-| 17   | [Cone of Foam](#cone-of-foam)           | Dense foam sprays from your hand, coating the target.        |  |
-| 18   | [Control Plants](#control-plants)       | Nearby plants and trees obey you and gain the ability to move at a slow pace. |  |
-| 19   | [Control Weather](#control-weather)     | You may alter the type of weather at will, but you do not otherwise control it. |  |
-| 20   | [Cure Wounds](#cure-wounds)             | Restore 1d4 STR per day to a creature you can touch.         |  |
-| 21   | [Deafen](#deafen)                       | All nearby creatures are deafened.                           |  |
+| 13   | [Body Swap](#body-swap)                 | You switch bodies with a creature you touch. If one body dies, the other dies as well. | The cover (including any relevant text or images) changes after each use, swapped with another book in this plane. |
+| 14   | [Charm](#charm)                         | A creature you can see treats you as a friend.               | Appears non-destript and mundane to enemies of the current owner. Smells faintly of jasmine. |
+| 15   | [Command](#command)                     | A target obeys a single three-word command that does not cause it harm. | The book cover generates a hypnotic effect, like swirling circles. The reader must be quick or be caught under its spell. |
+| 16   | [Comprehend](#comprehend)               | You become fluent in all languages for a short while.        | Wooden pages tied together with strong catgut. Over time, other books exposed to prolonged contact begin to turn blank, as if their words have seeped out. |
+| 17   | [Cone of Foam](#cone-of-foam)           | Dense foam sprays from your hand, coating the target.        | The book is spungy and faintly moist to the touch. Leaves behind a soapy residue. |
+| 18   | [Control Plants](#control-plants)       | Nearby plants and trees obey you and gain the ability to move at a slow pace. | Large, leafy-green pages glued along the spines. Smells faintly of decay. |
+| 19   | [Control Weather](#control-weather)     | You may alter the type of weather at will, but you do not otherwise control it. | Over time, the book changes its cover to suit various weather patterns (protection from heat, wet, snow, etc). Its schedule is unrepdictable, as if obeying the weather elsewhere - another place, another land, or perhaps even another world.  |
+| 20   | [Cure Wounds](#cure-wounds)             | Restore 1d4 STR per day to a creature you can touch.         | Pure-white thick with bandage-like paper. The last page is perforated and can be torn off to use as a bandage, which re-appears after the Spellbook's next use. It smells of vinegar and thyme. |
+| 21   | [Deafen](#deafen)                       | All nearby creatures are deafened.                           | he book makes no noise, not even at the turning of its pages. Sometimes, the silence is deafening. |
 | 22   | [Detect Magic](#detect-magic)           | You can see or hear nearby magical auras.                    |  |
 | 23   | [Disassemble](#disassemble)             | Any of your body parts may be detached and reattached at will, without causing pain or damage. You can still control them. |  |
 | 24   | [Disguise](#disguise)                   | You may alter the appearance of one character at will as long as they remain humanoid Attempts to duplicate other characters will seem uncanny. |  |

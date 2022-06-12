@@ -860,7 +860,7 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 | 10   | [Bait Flower](#bait-flower)             | A plant sprouts from the ground that emanates the smell of decaying flesh. |
 | 11   | [Beast Form](#beast-form)               | You and your possessions transform into a mundane animal.    |
 | 12   | [Befuddle](#befuddle)                   | A creature of your choice is unable to form new short-term memories for the duration of the spell. |
-| 13   | [Body Swap](#body-swap)                 | You switch bodies with a creature you touch If one body dies, the other dies as well. |
+| 13   | [Body Swap](#body-swap)                 | You switch bodies with a creature you touch. If one body dies, the other dies as well. |
 | 14   | [Charm](#charm)                         | A creature you can see treats you as a friend.               |
 | 15   | [Command](#command)                     | A target obeys a single three-word command that does not cause it harm. |
 | 16   | [Comprehend](#comprehend)               | You become fluent in all languages for a short while.        |
