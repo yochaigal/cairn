@@ -23,6 +23,5 @@ grand_parent: Hacks
 * [**Follow the Bones**](https://symboliccity.itch.io/follow-the-bones)
 * [**Into The Valley Of The Unfortunate Undead**](https://siofragames.itch.io/into-the-valley-of-the-unfortunate-undead) by [Jacob Marks](https://siofragames.itch.io)
 * [**Maze Rats Spells In Cairn**](https://xenioinabottle.blogspot.com/2021/04/maze-rats-spells-in-cairn.html)
-* [**Modular Rules & Procedures for Cairn**](https://adamhensley.itch.io/modular-rules-and-procedures-for-cairn) (also viewable on this [site](/hacks/third-party/modular-rules-procedures))
 * [**Piedmont: Songs of the Hills**](https://lionheart-clan.itch.io/piedmont-songs-of-the-hills)
 * [**Creatures and Curses of Yamada**](https://juniejuniejune.itch.io/creatures-and-curses-of-yamada)
