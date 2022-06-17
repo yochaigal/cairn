@@ -44,13 +44,13 @@ nav_exclude: true
 | 29   | [Filch](#filch)                         | A visible item teleports to your hands.                      | The cover is black and non-descript with no lettering or images. Occasionally a nearby ally's prized possessions may be found stuck inside the back pages.|
 | 30   | [Flare](#flare)                         | A bright ball of energy fires a trail of light into the sky, revealing your location to friend or foe. | Three wriggly lines are drawn on the cover. The book glows faintly in complete darkness. |
 | 31   | [Fog Cloud](#fog-cloud)                 | A dense fog spreads out from you.                            | Made of extremely thin glass that folds open. Can be cast with only one hand, but is very easy to shatter. |
-| 32   | [Frenzy](#frenzy)                       | A nearby creature erupts in a frenzy of violence.            | Sandpaper-like cover pages destroy any books it touches, including other Spellbooks.  |
-| 33   | [Gate](#gate)                           | A portal to a random plane opens.                            |  |
-| 34   | [Gravity Shift](#gravity-shift)         | You can change the direction of gravity, but only for yourself. |  |
-| 35   | [Greed](#greed)                         | A creature develops the overwhelming urge to possess a visible item of your choice. |  |
-| 36   | [Haste](#haste)                         | Your movement speed is tripled.                              |  |
-| 37   | [Hatred](#hatred)                       | A creature develops a deep hatred of another creature or group and wishes to destroy them. |  |
-| 38   | [Hear Whispers](#hear-whispers)         | You can hear faint sounds clearly.                           |  |
+| 32   | [Frenzy](#frenzy)                       | A nearby creature erupts in a frenzy of violence.            | Rough, sandpaper cover that destroys any book it touches. Holding without gloves can cause bloody fingers. |
+| 33   | [Gate](#gate)                           | A portal to a random plane opens.                            | A door is cut into the cover, revealing the first page, as well as a series of other pages within. Each successive page opened reveals another part of the spell, requiring a full flip-through to cast. |
+| 34   | [Gravity Shift](#gravity-shift)         | You can change the direction of gravity, but only for yourself. | A small grey book that floats in midair. |
+| 35   | [Greed](#greed)                         | A creature develops the overwhelming urge to possess a visible item of your choice. | The cover shifts to show the viewer whatever their heart desires most at the present moment, no matter how well-hidden. Staring at it too long can cause a stupor. |
+| 36   | [Haste](#haste)                         | Your movement speed is tripled.                              | A small raptor is carved into the leather cover. The pages are fluid and difficult to hold on to while reading. Beware papercuts. |
+| 37   | [Hatred](#hatred)                       | A creature develops a deep hatred of another creature or group and wishes to destroy them. | A tree is drawn on the front cover, bearing a large fruit in its leafy branches. Longterm exposure to the book can cause suspicion, paranoia and distrust amongst even the greatest of friends. |
+| 38   | [Hear Whispers](#hear-whispers)         | You can hear faint sounds clearly.                           | Flipping the book upside down into a "tent" shape and speaking into the crevasse amplifies the voice of even the quietest of speakers. |
 | 39   | [Hover](#hover)                         | An object hovers, frictionless, 2ft above the ground. It can hold up to one humanoid. |  |
 | 40   | [Hypnotize](#hypnotize)                 | A creature enters a trance and will truthfully answer one yes or no question you ask it. |  |
 | 41   | [Icy Touch](#icy-touch)                 | A thick ice layer spreads across a touched surface, up to 10ft in radius. |  |
