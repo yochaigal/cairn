@@ -11,7 +11,7 @@ nav_exclude: true
 
 ## Spells
 
-|      |                                         |                                                              | **Quirks** |
+|      |                                         |                                                              |                |
 | ---- | --------------------------------------- | ------------------------------------------------------------ | -------------- |
 | 1    | [Adhere](#adhere)                       | An object is covered in extremely sticky slime.              |  Adjacent objects (including Spellbooks) stick to the book with great force, and must be pried off gently. |
 | 2    | [Anchor](#anchor)                       | A strong wire sprouts from your arms, affixing itself to two points within 50ft on each side. | Drawing a rope through the iron loop on its spine makes the Spellbook weigh as much as an elephant.  |
