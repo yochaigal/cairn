@@ -15,7 +15,7 @@ nav_exclude: true
 | ---- | --------------------------------------- | ------------------------------------------------------------ | -------------- |
 | 1    | [Adhere](#adhere)                       | An object is covered in extremely sticky slime.              |  Adjacent objects (including Spellbooks) stick to the book with great force, and must be pried off gently. |
 | 2    | [Anchor](#anchor)                       | A strong wire sprouts from your arms, affixing itself to two points within 50ft on each side. | Drawing a rope through the iron loop on its spine makes the Spellbook weigh as much as an elephant.  |
-| 3    | [Animate Object](#animate-object)       | An object obeys your commands as best it can.                | Never where you last left it. Occasionally bits of string, clothing and leaves are found within its pages. |
+| 3    | [Animate Object](#animate-object)       | An object obeys your commands as best it can.                | The cover is moldable like clay. Occasional childish laughter sprouts from its pages from time to time.  |
 | 4    | [Anthropomorphize](#anthropomorphize)   | An animal either gains human intelligence or human appearance for one day. | The book whimpers, purrs and growls depending on its treatment. |
 | 5    | [Arcane Eye](#arcane-eye)               | You can see through a magical floating eyeball that flies around at your command. | Circular; closed with a long string. Can be worn as an eyepatch.  |
 | 6    | [Astral Prison](#astral-prison)         | An object is frozen in time and space within an invulnerable crystal shell. | Crystalline purple binding. Abstract faces stare through the tortoise-shell surface. They appear to be screaming. |
@@ -35,13 +35,13 @@ nav_exclude: true
 | 20   | [Cure Wounds](#cure-wounds)             | Restore 1d4 STR per day to a creature you can touch.         | Pure-white thick with bandage-like paper. The last page is perforated and can be torn off to use as a bandage, which re-appears after the Spellbook's next use. It smells of vinegar and thyme. |
 | 21   | [Deafen](#deafen)                       | All nearby creatures are deafened.                           | A soft, velvety book that produces no noise upon touch, not even at the turning of a page. Nearby instruments sound _off_, as if notes were falling from the air. |
 | 22   | [Detect Magic](#detect-magic)           | You can see or hear nearby magical auras.                    | Parchment-like, a sphere painted on the cover. The book becomes warm to the touch if a magic is used in the vicinity.   |
-| 23   | [Disassemble](#disassemble)             | Any of your body parts may be detached and reattached at will, without causing pain or damage. You can still control them. |  |
-| 24   | [Disguise](#disguise)                   | You may alter the appearance of one character at will as long as they remain humanoid Attempts to duplicate other characters will seem uncanny. |  |
-| 25   | [Displace](#displace)                   | An object appears to be up to 15ft from its actual position. |  |
-| 26   | [Earthquake](#earthquake)               | The ground begins shaking violently. Structures may be damaged or collapse. |  |
-| 27   | [Elasticity](#elasticity)               | Your body can stretch up to 10ft.                            |  |
-| 28   | [Elemental Wall](#elemental-wall)       | A straight wall of ice or fire 50ft long and 10ft high rises from the ground. |  |
-| 29   | [Filch](#filch)                         | A visible item teleports to your hands.                      |  Never where you left it. Each time you retrieve it, spend a moment searching for it amongst your things.|
+| 23   | [Disassemble](#disassemble)             | Any of your body parts may be detached and reattached at will, without causing pain or damage. You can still control them. | Even torn to pieces, the book will eventually reform, its pages and cover slowly coming together again. |
+| 24   | [Disguise](#disguise)                   | You may alter the appearance of one character at will as long as they remain humanoid. Attempts to duplicate other characters will seem uncanny. | Pressing the book too closely against another will create a mirror image of the other, shifting its size, shape and color to adapt. |
+| 25   | [Displace](#displace)                   | An object appears to be up to 15ft from its actual position. | Never where you last left it. Occasionally bits of string, clothing and leaves are found within its pages. |
+| 26   | [Earthquake](#earthquake)               | The ground begins shaking violently. Structures may be damaged or collapse. | The cover is somehow liquid, small ripples emerging from its center. The book is hard to keep open, its spine shifting violently to and from its pages. |
+| 27   | [Elasticity](#elasticity)               | Your body can stretch up to 10ft.                            | Solid and immutable, like hardened steel. The pages are extremely heavy.  |
+| 28   | [Elemental Wall](#elemental-wall)       | A straight wall of ice or fire 50ft long and 10ft high rises from the ground. | Smells of sulfur. Sometimes the cover leaves a burning residue on exposed skin; other times it is as cold as ice.  |
+| 29   | [Filch](#filch)                         | A visible item teleports to your hands.                      | A winking red eye is emblazoned on the cover. Occasionally a nearby ally's prized possessions may be found stuck to the back cover.|
 | 30   | [Flare](#flare)                         | A bright ball of energy fires a trail of light into the sky, revealing your location to friend or foe. |  |
 | 31   | [Fog Cloud](#fog-cloud)                 | A dense fog spreads out from you.                            |  |
 | 32   | [Frenzy](#frenzy)                       | A nearby creature erupts in a frenzy of violence.            |  |

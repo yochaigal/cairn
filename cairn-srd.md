@@ -871,7 +871,7 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 | 21   | [Deafen](#deafen)                       | All nearby creatures are deafened.                           |
 | 22   | [Detect Magic](#detect-magic)           | You can see or hear nearby magical auras.                    |
 | 23   | [Disassemble](#disassemble)             | Any of your body parts may be detached and reattached at will, without causing pain or damage. You can still control them. |
-| 24   | [Disguise](#disguise)                   | You may alter the appearance of one character at will as long as they remain humanoid Attempts to duplicate other characters will seem uncanny. |
+| 24   | [Disguise](#disguise)                   | You may alter the appearance of one character at will as long as they remain humanoid. Attempts to duplicate other characters will seem uncanny. |
 | 25   | [Displace](#displace)                   | An object appears to be up to 15ft from its actual position. |
 | 26   | [Earthquake](#earthquake)               | The ground begins shaking violently. Structures may be damaged or collapse. |
 | 27   | [Elasticity](#elasticity)               | Your body can stretch up to 10ft.                            |
