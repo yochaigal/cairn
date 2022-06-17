@@ -34,17 +34,17 @@ nav_exclude: true
 | 19   | [Control Weather](#control-weather)     | You may alter the type of weather at will, but you do not otherwise control it. | Over time, the book changes its cover to suit various weather patterns (protection from heat, wet, snow, etc). Its schedule is unrepdictable, as if obeying the weather elsewhere - another place, another land, or perhaps even another world.  |
 | 20   | [Cure Wounds](#cure-wounds)             | Restore 1d4 STR per day to a creature you can touch.         | Pure-white thick with bandage-like paper. The last page is perforated and can be torn off to use as a bandage, which re-appears after the Spellbook's next use. It smells of vinegar and thyme. |
 | 21   | [Deafen](#deafen)                       | All nearby creatures are deafened.                           | A soft, velvety book that produces no noise upon touch, not even at the turning of a page. Nearby instruments sound _off_, as if notes were falling from the air. |
-| 22   | [Detect Magic](#detect-magic)           | You can see or hear nearby magical auras.                    | Parchment-like, a sphere painted on the cover. The book becomes warm to the touch if a magic is used in the vicinity.   |
+| 22   | [Detect Magic](#detect-magic)           | You can see or hear nearby magical auras.                    | The cover is delicate and parchment-like, a sphere is scrawled into its center. The book becomes warm to the touch if a magic is used in the vicinity.   |
 | 23   | [Disassemble](#disassemble)             | Any of your body parts may be detached and reattached at will, without causing pain or damage. You can still control them. | Even torn to pieces, the book will eventually reform, its pages and cover slowly coming together again. |
 | 24   | [Disguise](#disguise)                   | You may alter the appearance of one character at will as long as they remain humanoid. Attempts to duplicate other characters will seem uncanny. | Pressing the book too closely against another will create a mirror image of the other, shifting its size, shape and color to adapt. |
 | 25   | [Displace](#displace)                   | An object appears to be up to 15ft from its actual position. | Never where you last left it. Occasionally bits of string, clothing and leaves are found within its pages. |
 | 26   | [Earthquake](#earthquake)               | The ground begins shaking violently. Structures may be damaged or collapse. | The cover is somehow liquid, small ripples emerging from its center. The book is hard to keep open, its spine shifting violently to and from its pages. |
 | 27   | [Elasticity](#elasticity)               | Your body can stretch up to 10ft.                            | Solid and immutable, like hardened steel. The pages are extremely heavy.  |
 | 28   | [Elemental Wall](#elemental-wall)       | A straight wall of ice or fire 50ft long and 10ft high rises from the ground. | Smells of sulfur. Sometimes the cover leaves a burning residue on exposed skin; other times it is as cold as ice.  |
-| 29   | [Filch](#filch)                         | A visible item teleports to your hands.                      | A winking red eye is emblazoned on the cover. Occasionally a nearby ally's prized possessions may be found stuck to the back cover.|
-| 30   | [Flare](#flare)                         | A bright ball of energy fires a trail of light into the sky, revealing your location to friend or foe. |  |
-| 31   | [Fog Cloud](#fog-cloud)                 | A dense fog spreads out from you.                            |  |
-| 32   | [Frenzy](#frenzy)                       | A nearby creature erupts in a frenzy of violence.            |  |
+| 29   | [Filch](#filch)                         | A visible item teleports to your hands.                      | The cover is black and non-descript with no lettering or images. Occasionally a nearby ally's prized possessions may be found stuck inside the back pages.|
+| 30   | [Flare](#flare)                         | A bright ball of energy fires a trail of light into the sky, revealing your location to friend or foe. | Three wriggly lines are drawn on the cover. The book glows faintly in complete darkness. |
+| 31   | [Fog Cloud](#fog-cloud)                 | A dense fog spreads out from you.                            | Made of extremely thin glass that folds open. Can be cast with only one hand, but is very easy to shatter. |
+| 32   | [Frenzy](#frenzy)                       | A nearby creature erupts in a frenzy of violence.            | Sandpaper-like cover pages destroy any books it touches, including other Spellbooks.  |
 | 33   | [Gate](#gate)                           | A portal to a random plane opens.                            |  |
 | 34   | [Gravity Shift](#gravity-shift)         | You can change the direction of gravity, but only for yourself. |  |
 | 35   | [Greed](#greed)                         | A creature develops the overwhelming urge to possess a visible item of your choice. |  |
@@ -104,7 +104,7 @@ nav_exclude: true
 | 89   | [Thicket](#thicket)                     | A thicket of trees and dense brush up to 50ft wide suddenly sprouts up. |  |
 | 90   | [Summon Idol](#summon-idol)             | A carved stone statue the size of a mule rises from the ground. |  |
 | 91   | [Time Control](#time-control)           | Time in a 50ft bubble slows down or increases by 10% for 30 seconds. |  |
-| 92   | [True Sight](#true-sight)               | You see through all nearby illusions.                        |  |
+| 92   | [True Sight](#true-sight)               | You see through all nearby illusions.                        | A winking red eye is emblazoned on the cover. |
 | 93   | [Upwell](#upwell)                       | A spring of seawater appears.                                |  |
 | 94   | [Vision](#vision)                       | You completely control what a creature sees.                 |  |
 | 95   | [Visual Illusion](#visual-illusion)     | A silent, immobile, room-sized illusion of your choice appears. |  |
