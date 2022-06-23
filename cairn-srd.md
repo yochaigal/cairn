@@ -501,7 +501,7 @@ If you would like something closer to traditional classes, refer to the list of 
 | War Hammer (d10, bulky)         |
 | Chainmail (2 Armor, bulky)      |
 | Gauntlets (+1 Armor)            |
-| Curved Blade (d6)               |
+| Cleansing Blade (d6)               |
 | Holy Symbol (Ward once per day) |
 | Cloak of the Order              |
 
