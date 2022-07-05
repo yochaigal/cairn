@@ -25,6 +25,10 @@ title: Barrow of the Elf King
 - Never dulls. If planted, in a year it will grow into a giant White Oak with a door to Fairyland. 
 - Worth 150 gp.
 
+### Black Arrows
+- Deals _enhanced_ damage to dragons. 
+- Worth 25gp each.
+
 ### White Branch Crown
 - As written.
 
