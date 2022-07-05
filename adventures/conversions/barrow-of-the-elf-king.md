@@ -7,6 +7,7 @@ title: Barrow of the Elf King
 
 # Barrow of the Elf King
 - Based on the [original adventure](https://natetreme.itch.io/botek) by [Highland Paranormal Society](https://www.dungeonresearch.com/), written for [The Vanilla Game](https://vanillagame.carrd.co) by [Jared Sinclair](https://jaredsinclair.neocities.org).
+- For a PDF "slip-in" of the conversion, see [here](https://drive.google.com/file/d/1GbMxkcxZCgVizlcQqbXPtJD0g9x_yTLb/view?usp=sharing)
 
 
 ## 1. The Fallen Cairn
@@ -17,11 +18,10 @@ title: Barrow of the Elf King
 
 ## 3. The Grave Slab
 ### Elf King
-- 6 HP, 2 Armor, 11 STR, 13 DEX, 3 WIL, white wood great sword (d10)
+6 HP, 2 Armor, 11 STR, 13 DEX, 3 WIL, white wood great sword (d10)
 - Can teleport within 15 feet.
 
-### White Wood Great Sword
-- d10 damage
+### White Wood Great Sword (d10)
 - Never dulls. If planted, in a year it will grow into a giant White Oak with a door to Fairyland. 
 - Worth 150 gp.
 
