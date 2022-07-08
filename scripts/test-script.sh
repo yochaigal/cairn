@@ -6,8 +6,8 @@ tmpdir="/home/yochai/Downloads/tmp"
 destdir="/home/yochai/Google Drive/Games/OSR/Into The Odd/hacks/Cairn/Monsters"
 currentdate="$(date "+%B %e, %Y")"
 #mkdir -p $tmpdir/monsters
-rsync -av $sourcedir/ $tmpdir/monsters/
-sed -i -f clean.sed $tmpdir/monsters/*.md
+#rsync -av $sourcedir/ $tmpdir/monsters/
+#sed -i -f clean.sed $tmpdir/monsters/*.md
 #sed -i -f prep.sed $tmpdir/monsters/*.md
 
 # Create the PDF
