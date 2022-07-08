@@ -6,16 +6,12 @@ tmpdir="/home/yochai/Downloads/tmp"
 destdir="/home/yochai/Google Drive/Games/OSR/Into The Odd/hacks/Cairn/Monsters"
 currentdate="$(date "+%B %e, %Y")"
 #mkdir -p $tmpdir/monsters
-#rsync -av $sourcedir/ $tmpdir/monsters/
-#sed -i '/^author/d' $tmpdir/monsters/*.md
-#sed -i '/^source:/d' $tmpdir/monsters/*.md
-#sed -i '1 { /^---/ { :a N; /\n---/! ba; d} }' $tmpdir/monsters/*.md
+rsync -av $sourcedir/ $tmpdir/monsters/
+sed -i -f clean.sed $tmpdir/monsters/*.md
+#sed -i -f prep.sed $tmpdir/monsters/*.md
 
 # Create the PDF
 pandoc  -s $tmpdir/monsters/*.md \
-        -f gfm \
-        --toc \
-        --template=build.tex \
         -V papersize=Letter \
         -V title="Cairn Bestiary" \
         -V subtitle="Compiled on " \
@@ -27,5 +23,5 @@ pandoc  -s $tmpdir/monsters/*.md \
         --metadata=author:"Yochai Gal" \
         --metadata=lang:"en-US" \
         --metadata=cover-image:"$scriptdir/covers/cairn-monsters-front-cover.png" \
-        -o $tmpdir/monsters/cairn-monsters-letter-tmp.pdf
-
+		--toc \
+		-o $tmpdir/cairn-monsters-letter-tmp.pdf

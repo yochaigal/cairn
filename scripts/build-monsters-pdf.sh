@@ -7,9 +7,7 @@ destdir="/home/yochai/Google Drive/Games/OSR/Into The Odd/hacks/Cairn/Monsters"
 currentdate="$(date "+%B %e, %Y")"
 mkdir -p $tmpdir/monsters
 rsync -av $sourcedir/ $tmpdir/monsters/
-sed -i '/^author/d' $tmpdir/monsters/*.md
-sed -i '/^source:/d' $tmpdir/monsters/*.md
-sed -i '1 { /^---/ { :a N; /\n---/! ba; d} }' $tmpdir/monsters/*.md
+sed -i -f clean.sed $tmpdir/monsters/*.md
 
 # Create the PDF
 pandoc  -s $tmpdir/monsters/*.md \
