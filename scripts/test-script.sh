@@ -8,7 +8,8 @@ currentdate="$(date "+%B %e, %Y")"
 mkdir -p $tmpdir/monsters
 rsync -av $sourcedir/ $tmpdir/monsters/
 sed -i -f clean.sed $tmpdir/monsters/*.md
-sed -i -f prep.sed $tmpdir/monsters/*.md
+sed -i '$d' $tmpdir/monsters/*.md
+#sed -i -f prep.sed $tmpdir/monsters/*.md
 
 # Create the PDF
 pandoc  -s $tmpdir/monsters/*.md \
@@ -25,3 +26,5 @@ pandoc  -s $tmpdir/monsters/*.md \
         --metadata=cover-image:"$scriptdir/covers/cairn-monsters-front-cover.png" \
 	--toc \
 	-o $tmpdir/cairn-monsters-letter-tmp.pdf
+
+#       --template=build.tex \
