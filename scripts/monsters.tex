@@ -1,0 +1,54 @@
+% Intended LaTeX compiler: lualatex
+\documentclass[paper=A4]{book}
+
+\usepackage{luacode}
+
+% accept YAML blocks as data;  shift headings to \section level
+\usepackage[jekyllData,expectJekyllData,shiftHeadings=1]{markdown}
+\markdownSetup{rendererPrototypes = {jekyllDataEnd = {}}} % don't render the YAML
+\markdownSetup{ renderers = {link = {#1 [\thinspace#2\thinspace]}}} % change link rendering
+
+\pagestyle{plain} % remove headers
+\setcounter{secnumdepth}{-1} % remove section numbers
+
+% wrap markdown in minipages
+\newcommand{\mdownInput}[1]{\begin{minipage}{\columnwidth}
+\markdownInput{#1}
+\end{minipage}
+\vskip 1pc % add space below the minipage
+}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt}
+
+\begin{document}
+\begin{luacode*}
+function dirtree(dir)
+  if string.sub(dir, -1) == "/" then
+    dir=string.sub(dir, 1, -2)
+  end
+  local function yieldtree(dir)
+    for entry in lfs.dir(dir) do
+      if not entry:match("^%.") then
+        entry=dir.."/"..entry
+          if lfs.isdir(entry) then
+            yieldtree(entry)
+          else
+            coroutine.yield(entry)
+          end
+      end
+    end
+  end
+  return coroutine.wrap(function() yieldtree(dir) end)
+end
+
+workingdir = "/home/yochai/Downloads/tmp/monsters/"
+
+do
+  for i in dirtree(workingdir) do
+    local filename = i:gsub(".*/([^/]+)$","%1")
+    tex.print("\\mdownInput{".. workingdir ..  filename .. "}")
+  end
+end
+\end{luacode*}
+\end{document}

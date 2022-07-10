@@ -23,5 +23,5 @@ pandoc  -s $tmpdir/monsters/*.md \
         --metadata=author:"Yochai Gal" \
         --metadata=lang:"en-US" \
         --metadata=cover-image:"$scriptdir/covers/cairn-monsters-front-cover.png" \
-		--toc \
-		-o $tmpdir/cairn-monsters-letter-tmp.pdf
+	--toc \
+	-o $tmpdir/cairn-monsters-letter-tmp.pdf
