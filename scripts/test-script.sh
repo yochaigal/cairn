@@ -8,7 +8,7 @@ currentdate="$(date "+%B %e, %Y")"
 mkdir -p $tmpdir/monsters
 rsync -av $sourcedir/ $tmpdir/monsters/
 sed -i -f clean.sed $tmpdir/monsters/*.md
-#sed -i -f prep.sed $tmpdir/monsters/*.md
+sed -i -f prep.sed $tmpdir/monsters/*.md
 
 # Create the PDF
 pandoc  -s $tmpdir/monsters/*.md \
