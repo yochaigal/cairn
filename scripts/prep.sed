@@ -5,5 +5,5 @@ s/^- /\\item /g
 $ a \\\end{itemize}
 $ a \\\end{samepage}
 
-s/_/\\\{underline}/g
+#s/_/\\\{underline}/g
 #N;/\end{itemize}/!P;D
