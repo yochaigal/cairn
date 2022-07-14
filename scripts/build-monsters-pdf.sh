@@ -7,50 +7,48 @@ destdir="/home/yochai/Google Drive/Games/OSR/Into The Odd/hacks/Cairn/Monsters"
 currentdate="$(date "+%B %e, %Y")"
 mkdir -p $tmpdir/monsters
 rsync -av $sourcedir/ $tmpdir/monsters/
-sed -i -f clean.sed $tmpdir/monsters/*.md
+sed -i -f prep.sed $tmpdir/monsters/*.md
 
 # Create the PDF
 pandoc  -s $tmpdir/monsters/*.md \
-        -f gfm \
         --toc \
-        --template=build.tex \
-        -V papersize=Letter \
-        -V title="Cairn Bestiary" \
+   	--template=build.tex \
+        --metadata=title:"Cairn Bestiary" \
+        --metadata=author:"Yochai Gal" \
+        --metadata=lang:"en-US" \
+        --metadata=cover-image:"$scriptdir/covers/cairn-bestiary-front-cover.png" \
+        -V geometry=letterpaper \
+	-V title="Cairn Bestiary" \
         -V subtitle="Compiled on " \
         -V subtitle="$currentdate" \
         -V subtitle=" by Yochai Gal | CC-BY-SA 4.0" \
         -V fontfamily="Alegreya" \
         -V fontsize=12pt \
-        --metadata=title:"Cairn Bestiary" \
-        --metadata=author:"Yochai Gal" \
-        --metadata=lang:"en-US" \
-        --metadata=cover-image:"$scriptdir/covers/cairn-monsters-front-cover.png" \
-        -o $tmpdir/monsters/cairn-monsters-letter-tmp.pdf
+	-o $tmpdir/cairn-bestiary-letter-tmp.pdf
 
 pandoc  -s $tmpdir/monsters/*.md \
-        -f gfm \
         --toc \
-        --template=build.tex \
-        -V papersize=A4 \
-        -V title="Cairn Bestiary" \
+   	--template=build.tex \
+        --metadata=title:"Cairn Bestiary" \
+        --metadata=author:"Yochai Gal" \
+        --metadata=lang:"en-US" \
+        --metadata=cover-image:"$scriptdir/covers/cairn-bestiary-front-cover.png" \
+        -V geometry=a4paper \
+	-V title="Cairn Bestiary" \
         -V subtitle="Compiled on " \
         -V subtitle="$currentdate" \
         -V subtitle=" by Yochai Gal | CC-BY-SA 4.0" \
         -V fontfamily="Alegreya" \
         -V fontsize=12pt \
-        --metadata=title:"Cairn Bestiary" \
-        --metadata=author:"Yochai Gal" \
-        --metadata=lang:"en-US" \
-        --metadata=cover-image:"$scriptdir/covers/cairn-monsters-front-cover.png" \
-        -o $tmpdir/monsters/cairn-monsters-a4-tmp.pdf
+	-o $tmpdir/cairn-bestiary-a4-tmp.pdf
 
 # Add covers
-pdftk "$scriptdir/covers/letter/cairn-monsters-letter-front-cover.pdf" $tmpdir/monsters/cairn-monsters-letter-tmp.pdf "$scriptdir/covers/letter/cairn-monsters-letter-back-cover.pdf" cat output "$destdir/cairn-monsters-letter.pdf"
-pdftk "$scriptdir/covers/a4/cairn-monsters-a4-front-cover.pdf" $tmpdir/monsters/cairn-monsters-a4-tmp.pdf "$scriptdir/covers/a4/cairn-monsters-a4-back-cover.pdf" cat output "$destdir/cairn-monsters-a4.pdf"
+pdftk "$scriptdir/covers/letter/cairn-bestiary-letter-front-cover.pdf" $tmpdir/cairn-bestiary-letter-tmp.pdf "$scriptdir/covers/letter/cairn-bestiary-letter-back-cover.pdf" cat output "$destdir/cairn-bestiary-letter.pdf"
+pdftk "$scriptdir/covers/a4/cairn-bestiary-a4-front-cover.pdf" $tmpdir/cairn-bestiary-a4-tmp.pdf "$scriptdir/covers/a4/cairn-bestiary-a4-back-cover.pdf" cat output "$destdir/cairn-bestiary-a4.pdf"
 
 # Make the booklet
-pdfbook2 --paper=letter -s $tmpdir/monsters/cairn-monsters-letter-tmp.pdf
-pdfbook2 --paper=a4paper -s $tmpdir/monsters/cairn-monsters-a4-tmp.pdf
-pdftk "$scriptdir/covers/letter/cairn-monsters-letter-covers-landscape.pdf" $tmpdir/monsters/cairn-monsters-letter-tmp-book.pdf cat output "$destdir/cairn-monsters-letter-booklet.pdf"
-pdftk "$scriptdir/covers/a4/cairn-monsters-a4-covers-landscape.pdf" $tmpdir/monsters/cairn-monsters-a4-tmp-book.pdf cat output "$destdir/cairn-monsters-a4-booklet.pdf"
+pdfbook2 --paper=letter -s $tmpdir/cairn-bestiary-letter-tmp.pdf
+pdfbook2 --paper=a4paper -s $tmpdir/cairn-bestiary-a4-tmp.pdf
+pdftk "$scriptdir/covers/letter/cairn-bestiary-letter-covers-landscape.pdf" $tmpdir/cairn-bestiary-letter-tmp-book.pdf cat output "$destdir/cairn-bestiary-letter-booklet.pdf"
+pdftk "$scriptdir/covers/a4/cairn-bestiary-a4-covers-landscape.pdf" $tmpdir/cairn-bestiary-a4-tmp-book.pdf cat output "$destdir/cairn-bestiary-a4-booklet.pdf"
 rm -rf $tmpdir

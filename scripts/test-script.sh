@@ -10,8 +10,13 @@ rsync -av $sourcedir/ $tmpdir/monsters/
 sed -i -f prep.sed $tmpdir/monsters/*.md
 
 # Create the PDF
-pandoc  --verbose \
-        -s $tmpdir/monsters/*.md \
+pandoc  -s $tmpdir/monsters/*.md \
+        --toc \
+   	--template=build.tex \
+        --metadata=title:"Cairn Bestiary" \
+        --metadata=author:"Yochai Gal" \
+        --metadata=lang:"en-US" \
+        --metadata=cover-image:"$scriptdir/covers/cairn-monsters-front-cover.png" \
         -V geometry=letterpaper \
 	-V title="Cairn Bestiary" \
         -V subtitle="Compiled on " \
@@ -19,10 +24,20 @@ pandoc  --verbose \
         -V subtitle=" by Yochai Gal | CC-BY-SA 4.0" \
         -V fontfamily="Alegreya" \
         -V fontsize=12pt \
+	-o $tmpdir/cairn-monsters-letter-tmp.pdf
+
+pandoc  -s $tmpdir/monsters/*.md \
+        --toc \
+   	--template=build.tex \
         --metadata=title:"Cairn Bestiary" \
         --metadata=author:"Yochai Gal" \
         --metadata=lang:"en-US" \
         --metadata=cover-image:"$scriptdir/covers/cairn-monsters-front-cover.png" \
-	--toc \
-   	--template=build.tex \
-	-o $tmpdir/cairn-monsters-letter-tmp.pdf
+        -V geometry=a4paper \
+	-V title="Cairn Bestiary" \
+        -V subtitle="Compiled on " \
+        -V subtitle="$currentdate" \
+        -V subtitle=" by Yochai Gal | CC-BY-SA 4.0" \
+        -V fontfamily="Alegreya" \
+        -V fontsize=12pt \
+	-o $tmpdir/cairn-monsters-a4-tmp.pdf
