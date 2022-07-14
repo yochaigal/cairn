@@ -14,9 +14,8 @@ currentdate="$(date "+%B %e, %Y")"
 
 # Create the PDF
 pandoc  --verbose \
-        -s $tmpdir/all-monsters.md \
-        -V geometry:letterpaper \
-   	--template=build.tex \
+        -s examples/all-monsters.md \
+        -V geometry=letterpaper \
 	-V title="Cairn Bestiary" \
         -V subtitle="Compiled on " \
         -V subtitle="$currentdate" \
@@ -28,5 +27,5 @@ pandoc  --verbose \
         --metadata=lang:"en-US" \
         --metadata=cover-image:"$scriptdir/covers/cairn-monsters-front-cover.png" \
 	--toc \
+   	--template=build.tex \
 	-o $tmpdir/cairn-monsters-letter-tmp.pdf
-
