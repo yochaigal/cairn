@@ -12,4 +12,4 @@ grand_parent: Resources
 - Surprise their victims by diving to attack from a great height.
 - Can carry away creatures up to their size.
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

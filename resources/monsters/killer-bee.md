@@ -12,4 +12,4 @@ grand_parent: Resources
 - Produce special honey that can heal d6 HP once per day if consumed.
 - Critical Damage: Leave their poisoned sting lodged in the target, inflicting d4 damage every round until removed. A killer bee dies soon after leaving its sting.
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

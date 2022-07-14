@@ -11,4 +11,4 @@ grand_parent: Resources
 - Outlaw sailors who raid coastal settlements and board other ships.  
 - Travel in large ship crews, only fighting in clear advantage, generally numerical.  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

@@ -12,4 +12,4 @@ grand_parent: Resources
 - Can track any target without error. Using their invisibility to remain undetected.
 - If killed, is sent back to their original plane.
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

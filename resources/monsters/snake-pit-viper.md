@@ -12,4 +12,4 @@ grand_parent: Resources
 - Does not rely on vision, instead, senses its victims by their body heat.
 - Critical Damage: The poison kills the target in 2d4 turns if not treated.
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

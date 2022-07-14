@@ -12,4 +12,4 @@ grand_parent: Resources
 - Can attack two targets in the same round, due to its great speed.
 - Critical Damage: The poison kills the target in 2d6 turns if not treated.
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

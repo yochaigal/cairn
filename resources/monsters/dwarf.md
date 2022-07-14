@@ -12,4 +12,4 @@ grand_parent: Resources
 - Can see perfectly in low-light and partially in darkness.  
 - Highly resistant to poison and disease.  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

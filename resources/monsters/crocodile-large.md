@@ -12,4 +12,4 @@ grand_parent: Resources
 - Attracted to the scent of blood or heavy movement in the water.  
 - Swim silently just under the surface to ambush victims.  
 
-author: [xenio](https://xenioinabottle.blogspot.com) 
+ 

@@ -12,4 +12,4 @@ grand_parent: Resources
 - Dwell in large groups and overwhelm victims by swarming them.  
 - Once it smells blood, it will not stop attacking.   
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

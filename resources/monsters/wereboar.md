@@ -12,4 +12,4 @@ grand_parent: Resources
 - While in human form, can enter in battle rage, enhancing all damage dealt and received.
 - Critical Damage: A human victim gets infected, becoming a lycanthrope of the same type after a couple of weeks.
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

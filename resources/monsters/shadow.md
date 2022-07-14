@@ -12,4 +12,4 @@ grand_parent: Resources
 - Unharmed by mundane attacks, sleep or mind control.
 - Critical Damage: The victim loses another d4 STR, if reduced to 0 STR, they become a shadow.
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

@@ -11,4 +11,4 @@ grand_parent: Resources
 - Huge, aggressive cats with foot-long fangs.  
 - Extremely rare, generally found in regions untouched by civilization.  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

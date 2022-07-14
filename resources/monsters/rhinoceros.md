@@ -11,4 +11,4 @@ grand_parent: Resources
 - Huge, armored, herbivorous mammals. Highly territorial, dwell in warm climates.
 - With enough open ground for a clear run, it will charge its victims, enhancing damage.
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

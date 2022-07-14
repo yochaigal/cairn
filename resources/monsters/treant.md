@@ -13,4 +13,4 @@ grand_parent: Resources
 - Hate fire, and attack anyone who wields it.
 - Surprise victims by standing still and passing for a normal tree.
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

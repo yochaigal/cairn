@@ -12,4 +12,4 @@ grand_parent: Resources
 - Can do huge leaps without needing any previous impulse.
 - Extremely skilled in dodging projectiles. Ranged damage received is impaired. 
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

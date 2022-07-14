@@ -13,4 +13,4 @@ grand_parent: Resources
 - No armor against magical attacks.
 - Casts Teleport at will. Anyone in eyesight is teleported to a random room in the crypt.
 
-author: [Yochai Gal](https://newschoolrevolution.com)
+

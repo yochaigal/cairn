@@ -12,4 +12,4 @@ grand_parent: Resources
 - Hide motionless underwater to surprise its victims.
 - Can reach to bite further targets due to its long neck.
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

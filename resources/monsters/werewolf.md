@@ -12,4 +12,4 @@ grand_parent: Resources
 - Sometimes hunts in packs with regular wolves.
 - Critical Damage: Victim becomes infected, transforming into a lycanthrope of the same type after a couple of weeks.
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

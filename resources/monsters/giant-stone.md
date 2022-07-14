@@ -12,4 +12,4 @@ grand_parent: Resources
 - Attack victims by throwing rocks at them from far away.  
 - Can easily camouflage into stone.  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

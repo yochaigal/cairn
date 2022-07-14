@@ -12,4 +12,4 @@ grand_parent: Resources
 - Extremely cruel and violent, makes use of the dark, difficult environment and its surprising agility to separate its victims and kill them one by one.  
 - Any critical damage saves provoked by the dragon's bite automatically fail, due to its powerful acidic saliva.  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

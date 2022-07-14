@@ -12,4 +12,4 @@ grand_parent: Resources
 - Avoid combat, only attacking when in advantage, using hit-and-run tactics.  
 - Sometimes are found using dire wolves as mounts.  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

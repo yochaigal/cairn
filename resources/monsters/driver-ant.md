@@ -12,4 +12,4 @@ grand_parent: Resources
 - When hungry, they will consume anything in their path.  
 - Once in melee combat, it will not stop attacking its victim until dead.  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

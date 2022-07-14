@@ -12,4 +12,4 @@ grand_parent: Resources
 - Highly resistant to magic effects.
 - Supposedly can breed with humans, creating hybrids that have the appearance of humans with reptilian eyes and forked tongues.
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

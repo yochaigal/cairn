@@ -12,4 +12,4 @@ grand_parent: Resources
 - Can be convinced to join armies, under the promise of pillage.
 - Lair underground, sometimes along with ogres and trolls.
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

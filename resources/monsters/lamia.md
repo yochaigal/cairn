@@ -12,4 +12,4 @@ grand_parent: Resources
 - Can disguise their true form with illusions, appearing as a human woman.
 - Critical Damage: The touch saps the victim's wisdom (d6 WIL damage). A victim who reaches 0 WIL this way mindlessly obeys the lamia's command.
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

@@ -12,4 +12,4 @@ grand_parent: Resources
 - Attracted to the scent of blood or movement in the water.  
 - Can easily destroy smaller ships with their crushing bite.  
 
-author: [xenio](https://xenioinabottle.blogspot.com) 
+ 

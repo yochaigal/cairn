@@ -12,4 +12,4 @@ grand_parent: Resources
 - Can be trained like dogs if captured young.
 - When found in packs of at least 4, treat WIL as 15 for morale checks.
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

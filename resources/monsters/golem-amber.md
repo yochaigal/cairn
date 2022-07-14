@@ -12,4 +12,4 @@ grand_parent: Resources
 - Track without error, able to see invisible creatures nearby.  
 - Immune to mundane attacks, gas, and mind-controlling effects.  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

@@ -12,4 +12,4 @@ grand_parent: Resources
 - Excellent at swimming.  
 - Can move effortlessly through snow and ice.  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

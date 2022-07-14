@@ -12,4 +12,4 @@ grand_parent: Resources
 - Only attack if cornered or to protect their young.  
 - Sometimes raids camps for food.  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

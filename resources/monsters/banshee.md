@@ -12,4 +12,4 @@ grand_parent: Resources
 - Unharmed by cold, heat, or the elements.  
 - Wail: Releases a piercing screech, anyone caught saves against Critical Damage regardless of current HP.  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

@@ -12,4 +12,4 @@ grand_parent: Resources
 - Highly lawful and militarized culture, follow orders without question.
 - Trained to fight together, damage dealt is enhanced if an ally is also engaged with the same enemy.
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

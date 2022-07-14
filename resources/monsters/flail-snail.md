@@ -11,4 +11,4 @@ grand_parent: Resources
 - Giant snails with heavy, club-like tentacles and a colorful shell.   Dwell underground.  
 - Its colorful shell can deflect magic, possibly annulling it or reflecting it to its caster.  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

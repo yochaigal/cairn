@@ -12,4 +12,4 @@ grand_parent: Resources
 - Highly resistant to fear effects.
 - Each shire is led by a stronger halfling called shire-riff, who has access to better equipment.
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

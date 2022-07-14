@@ -12,4 +12,4 @@ grand_parent: Resources
 - Remain motionless (generally in the form of chests or doors), attacking anything that touches it.
 - Anything that touches the mimic is stuck in the glue that it exudes. Released only if the mimic is killed.
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

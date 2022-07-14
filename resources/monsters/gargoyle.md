@@ -12,4 +12,4 @@ grand_parent: Resources
 - Guard places by standing still to pass like inanimate statues and attacking anything that comes near.  
 - Cannot be charmed and put to sleep.  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

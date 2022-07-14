@@ -12,4 +12,4 @@ grand_parent: Resources
 - Hunt by sneaking on their prey.
 - Critical Damage: A human victim gets infected, becoming a lycanthrope of the same type after a couple of weeks.
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

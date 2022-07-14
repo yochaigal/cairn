@@ -11,4 +11,4 @@ grand_parent: Resources
 - Pale, 15’ long fish that lurk in the mud at the bottom of lakes and rivers.  
 - Attack creatures that swim above their hiding spot.  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

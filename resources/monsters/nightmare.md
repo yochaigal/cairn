@@ -12,4 +12,4 @@ grand_parent: Resources
 - Breathe a thick cloud of smoke, impairing damage dealt by anyone in melee with the nightmare.
 - Sometimes are used as steeds by powerful undead creatures.
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

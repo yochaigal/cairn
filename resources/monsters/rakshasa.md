@@ -12,4 +12,4 @@ grand_parent: Resources
 - Can read the mind of other creatures and then cloak their true form with an illusory form that the creature deems friendly.
 - A blessed weapon instantly kills a rakshasa.
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

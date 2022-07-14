@@ -12,4 +12,4 @@ grand_parent: Resources
 - Carnivorous. Prefer to eat bovines but might hunt even humans.  
 - Always chase prey that flees.  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

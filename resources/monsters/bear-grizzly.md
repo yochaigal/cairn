@@ -11,4 +11,4 @@ grand_parent: Resources
 - Aggressive, 9’ tall reddish-brown furred bears who live in mountains.   Prefer to eat meat.  
 - Frequently are found sleeping.  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

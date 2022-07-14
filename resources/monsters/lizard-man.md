@@ -12,4 +12,4 @@ grand_parent: Resources
 - Craft their Armors and weapons from the bones of their prey.
 - Carnivorous, hunt other humanoids, whose flesh they regard as a delicacy.
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

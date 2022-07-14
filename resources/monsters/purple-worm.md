@@ -12,4 +12,4 @@ grand_parent: Resources
 - Victims bitten by the worm must save STR or be swallowed whole. Anything inside the worm receives d12 acid damage each round.
 - Critical Damage: The sting inflicts a highly lethal poison, dealing d12 extra STR damage.
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

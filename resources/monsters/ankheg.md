@@ -12,4 +12,4 @@ grand_parent: Resources
 - Stay burrowed just beneath the surfaces to ambush creatures walking above.  
 - Squirts acid on distant enemies for d10 damage.  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

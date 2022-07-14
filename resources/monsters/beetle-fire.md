@@ -11,4 +11,4 @@ grand_parent: Resources
 - 3’ long beetles commonly found underground.  
 - Emits light through glands located in the abdomens and above the eyes.  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

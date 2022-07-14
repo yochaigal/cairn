@@ -12,4 +12,4 @@ grand_parent: Resources
 - Highly resistant to magic effects.
 - Hideous Gaze: Everyone facing the Hag must save WIL or drop to 0 HP.
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

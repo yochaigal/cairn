@@ -12,4 +12,4 @@ grand_parent: Resources
 - Can be trained to be used as mounts.
 - Hate pegasi, attacking then on sight.
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

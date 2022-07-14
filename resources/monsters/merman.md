@@ -11,4 +11,4 @@ grand_parent: Resources
 - Aquatic humanoids with fishtails instead of legs. Live in coastal waters, farming seaweed, and hunting fish.
 - Train other sea creatures to guard their homes.
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

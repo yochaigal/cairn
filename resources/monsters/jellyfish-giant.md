@@ -12,4 +12,4 @@ grand_parent: Resources
 - Critical Damage: The tentacles are covered in a poison that paralyzes the victim. (d8 DEX damage)
 - Killed victims are absorbed into the body and digested in a few minutes.
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

@@ -11,4 +11,4 @@ grand_parent: Resources
 - Omnivorous wild boars that dwell primarily in forests.  
 - Not naturally aggressive, but can be dangerous if disturbed.  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

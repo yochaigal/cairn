@@ -12,4 +12,4 @@ grand_parent: Resources
 - Can detect the smell of blood from great distances.
 - Once moves to attack, doesn't stop until death, succeeding all morale rolls.
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

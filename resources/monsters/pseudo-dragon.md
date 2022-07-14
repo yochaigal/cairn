@@ -12,4 +12,4 @@ grand_parent: Resources
 - Capable of communicating telepathically with nearby creatures.
 - Critical Damage: The sting's poison leaves the victim in a comatose state for 1d6 days.
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

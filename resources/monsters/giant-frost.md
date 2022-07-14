@@ -12,4 +12,4 @@ grand_parent: Resources
 - Unharmed by cold and ice.  
 - Excellent trackers, hunt accompanied by dire wolves.  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

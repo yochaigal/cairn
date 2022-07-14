@@ -12,4 +12,4 @@ grand_parent: Resources
 - Highly territorial, attack anything that comes to near.
 - Critical damage: Hug victims for d8 extra damage.
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

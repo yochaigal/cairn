@@ -11,4 +11,4 @@ grand_parent: Resources
 - 6’ tall humanoid constructs made of human bone.   Have 4 arms spread around their torso.  
 - Immune to mundane attacks, fire, cold, and electricity.  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

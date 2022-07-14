@@ -12,4 +12,4 @@ grand_parent: Resources
 - If their nests are found, eggs can be sold for high prices.
 - Critical Damage: The victim is swallowed whole, and instantly killed by the internal heat.
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

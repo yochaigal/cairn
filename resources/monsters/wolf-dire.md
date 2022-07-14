@@ -12,4 +12,4 @@ grand_parent: Resources
 - Can be trained like dogs if captured young. Dire wolves are particularly difficult to train.
 - Sometimes are seem used as mounts by goblins.
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

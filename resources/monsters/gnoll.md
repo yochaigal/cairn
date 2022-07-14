@@ -12,4 +12,4 @@ grand_parent: Resources
 - Attack in large packs, intimidating its victims with numbers.  
 - Critical damage: the gnoll enters in a rampage after tasting blood, making another attack immediately.  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

@@ -12,4 +12,4 @@ grand_parent: Resources
 - Naturally invisible, can reveal themselves if choose to.
 - Small wings only allow it to fly for short periods of time before needing to rest.
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

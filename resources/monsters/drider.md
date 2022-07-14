@@ -12,4 +12,4 @@ grand_parent: Resources
 - Hunt on underworld caverns, eating the blood of paralyzed victims.   Frequently accompanied by giant spiders.  
 - Critical Damage: The poison paralyzes the victim’s body (d6 DEX damage).  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

@@ -13,4 +13,4 @@ grand_parent: Resources
 - Breathe a line of cold dealing d10 damage and potentially paralyzing those caught.  
 
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

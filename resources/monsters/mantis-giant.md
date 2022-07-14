@@ -12,4 +12,4 @@ grand_parent: Resources
 - Hunt any prey, using their green coloration to camouflage in the foliage. Will not attack obviously stronger foes.
 - Critical Damage: Locks the victim in their claws, and bites their head off.
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

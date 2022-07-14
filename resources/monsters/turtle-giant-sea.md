@@ -12,4 +12,4 @@ grand_parent: Resources
 - Tip over small boats that come into their territory.
 
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

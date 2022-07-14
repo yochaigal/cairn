@@ -12,4 +12,4 @@ grand_parent: Resources
 - Highly vulnerable to being touched by water or rain.  
 - Can scatter their flames, freely changing its form.  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

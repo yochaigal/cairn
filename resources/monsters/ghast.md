@@ -12,4 +12,4 @@ grand_parent: Resources
 - Exhale a strong stench, nauseating nearby living creatures.  
 - Critical damage: The victim is paralyzed and loses 1d8 DEX. After paralyzing a victim, it moves to another target.  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

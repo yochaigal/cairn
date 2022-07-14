@@ -12,4 +12,4 @@ grand_parent: Resources
 - Prey on humans, following them and attacking with the spikes when they see an opening.
 - Attack with their tails by throwing the spikes like darts. The spikes regrow after a few days.
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

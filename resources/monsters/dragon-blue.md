@@ -12,4 +12,4 @@ grand_parent: Resources
 - Extremely vain, often take victims as slaves to adore them.  
 - Breathes lightning in a long line for d10 damage to all caught.  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

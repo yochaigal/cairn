@@ -12,4 +12,4 @@ grand_parent: Resources
 - Immune to mundane attacks, electricity, and cold.  
 - Absorb electricity damage received, healing HP by the same amount instead.  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

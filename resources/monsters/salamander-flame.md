@@ -12,4 +12,4 @@ grand_parent: Resources
 - Immune to fire and heat.
 - Emits an aura of heat, damaging any nearby creature for d6 damage.
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

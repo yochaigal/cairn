@@ -12,4 +12,4 @@ grand_parent: Resources
 - Low intelligence, relies only on its ferocity.  
 - Frequently attack settlements for food.  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

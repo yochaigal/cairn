@@ -12,4 +12,4 @@ grand_parent: Resources
 - Immune to mundane attacks and fire.  
 - When it suffers slashing or piercing damage to its STR, spurts a burning liquid, damaging the attacker for d8.  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

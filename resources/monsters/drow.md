@@ -12,4 +12,4 @@ grand_parent: Resources
 - Can see perfectly in the dark, but are blinded by bright light.  
 - Wander in groups, frequently accompanied by giant spiders.  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

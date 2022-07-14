@@ -12,4 +12,4 @@ grand_parent: Resources
 - Regenerates 1 HP every turn. A Tarrasque always regenerates, even if its body is reduced to pieces. The way of permanently killing it is unknown.
 - Critical Damage: The razor-sharp claws sever a part of the victim's body.
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

@@ -11,4 +11,4 @@ grand_parent: Resources
 - Huge, 30’ long, aggressive armored fish.  
 - Swallow its victims whole if able.  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

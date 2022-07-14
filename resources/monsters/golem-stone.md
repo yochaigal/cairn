@@ -11,5 +11,4 @@ grand_parent: Resources
 - 10’ tall animated statues carved from pure stone.  
 - Immune to mundane attacks, fire, cold, and electricity.  
 - Emits a magic aura that slows the movement of nearby creatures.  
-
-author: [xenio](https://xenioinabottle.blogspot.com)
+  

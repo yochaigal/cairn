@@ -12,4 +12,4 @@ grand_parent: Resources
 - Cannot be surprised due to its keen sight and smell senses.  
 - Can envelop itself in a wind aura, impairing missile attacks.  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

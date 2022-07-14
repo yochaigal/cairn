@@ -12,4 +12,4 @@ grand_parent: Resources
 - Emits loud shrieks when threatened, possibly alerting other nearby creatures.  
 - Immune to most types of poison.  
 
-author: [xenio](https://xenioinabottle.blogspot.com) 
+ 

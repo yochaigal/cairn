@@ -12,4 +12,4 @@ grand_parent: Resources
 - Attack anything that comes nearby.
 - Immune to mind altering effects.
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

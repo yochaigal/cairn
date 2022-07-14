@@ -11,4 +11,4 @@ grand_parent: Resources
 - Track by scent.   Once started, very difficult to put off the trail.  
 - Only attack at their owner’s command.  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

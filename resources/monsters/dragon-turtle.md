@@ -12,4 +12,4 @@ grand_parent: Resources
 - Attack ships, sinking them to add any treasure to their massive underwater hoards.  
 - Breathes massive clouds of steam, clogging visions and damaging all inside for d10 damage.  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

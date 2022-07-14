@@ -12,4 +12,4 @@ grand_parent: Resources
 - Highly cunning, value the victims they tricked and their power of influence more than any hoard of gold.  
 - Breathes a thick cloud of poisonous gas for d10 damage to all caught.  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

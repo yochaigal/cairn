@@ -15,4 +15,4 @@ grand_parent: Resources
 - Critical damage: target falls unconscious for 1d4 days.
 
 
-author: [Yochai Gal](https://newschoolrevolution.com)
+

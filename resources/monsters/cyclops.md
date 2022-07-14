@@ -11,4 +11,4 @@ grand_parent: Resources
 - Giant humanoids with a single large eye centered on the face.   Dwell in caves and herd small animals.  
 - Slow-witted, can easily be fooled by other intelligent beings.  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

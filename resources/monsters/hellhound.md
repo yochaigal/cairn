@@ -12,4 +12,4 @@ grand_parent: Resources
 - Immune to fire and heat. Can breathe fire, burning one target.
 - Don't rely on sight to find its foes, due to its keen sense of smell. 
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

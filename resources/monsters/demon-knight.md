@@ -12,4 +12,4 @@ grand_parent: Resources
 - Lesser undead creatures mindlessly follow their command.  
 - Their evil aura frightens anyone who comes into nearby range.  
 
-author: [xenio](https://xenioinabottle.blogspot.com) 
+ 

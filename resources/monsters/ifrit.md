@@ -12,4 +12,4 @@ grand_parent: Resources
 - May transform into a pillar or wall of flames, burning everything it touches.  
 - Might be summoned by powerful magic and ordered to complete tasks, but will subvert commands while following them to the letter.  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

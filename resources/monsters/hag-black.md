@@ -12,4 +12,4 @@ grand_parent: Resources
 - Dwell in dead forests and swamps, crave eating human flesh.
 - Can cloak their true appearance with an illusory form, and can see through any illusion. 
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

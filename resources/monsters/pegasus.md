@@ -11,4 +11,4 @@ grand_parent: Resources
 - Intelligent winged horses, wilful and proud. Seen as symbols of beauty and nobility.
 - Can be trained to serve as mounts for lawful characters.
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

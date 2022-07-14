@@ -12,4 +12,4 @@ grand_parent: Resources
 - Can attack up to 8 nearby creatures.
 - When threatened, spills a thick cloud of ink and jets away.
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

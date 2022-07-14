@@ -11,4 +11,4 @@ grand_parent: Resources
 - 6' long carnivorous lizards with skin flaps between legs that allow gliding.
 - Dwell mostly on the surface, but sometimes can be found underground.
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

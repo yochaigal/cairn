@@ -11,4 +11,4 @@ grand_parent: Resources
 - Intelligent, fey-like dogs that live in packs.  
 - Teleport away in a blink after attacking.  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

@@ -12,4 +12,4 @@ grand_parent: Resources
 - Lurk just below the water's surface to surprise its victims.
 - Critical Damage: The poison paralyzes the victim (d8 DEX damage), the spider drags paralyzed victims to its lair to eat them.
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

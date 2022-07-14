@@ -12,4 +12,4 @@ grand_parent: Resources
 - Can only be harmed by flames.  
 - Can move in walls and ceilings and squeeze through small holes.  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

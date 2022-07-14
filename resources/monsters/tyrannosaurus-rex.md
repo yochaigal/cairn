@@ -11,4 +11,4 @@ grand_parent: Resources
 - Massive, over 20’ tall, two-legged, predatory dinosaurs with huge jaws. Hunt human-sized or larger prey. Dwell in Lost World regions.
 - Always attack the largest, most threatening foe first.
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

@@ -12,4 +12,4 @@ grand_parent: Resources
 - Each time it takes damage to STR, loses one head. Severed heads regrow after one turn, recovering 1 HP for head regrown. 
 - Fire damage received is enhanced, and stops head regrowth for a turn.
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

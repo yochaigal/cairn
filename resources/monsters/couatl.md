@@ -12,4 +12,4 @@ grand_parent: Resources
 - Highly intelligent and magical, are capable of speaking multiple languages.  
 - Shapechanger: may take the form of beasts and humanoids.  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

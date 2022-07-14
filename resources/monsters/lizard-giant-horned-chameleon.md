@@ -12,4 +12,4 @@ grand_parent: Resources
 - Use their camouflage to surprise victims.
 - Can attack further away targets by grabbing them with their elongated tongue. The victim must save STR or be pulled to the lizard's mouth and bitten.
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

@@ -11,4 +11,4 @@ grand_parent: Resources
 - Thieves who will value money over anything.  
 - Use disguises, stealth, and trickery to surprise victims.  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

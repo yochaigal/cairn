@@ -12,4 +12,4 @@ grand_parent: Resources
 - Able to cast virtually any spell
 - Critical Damage: Its touch paralyzes the victim (d8 DEX damage)
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

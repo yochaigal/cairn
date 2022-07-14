@@ -12,4 +12,4 @@ grand_parent: Resources
 - Can see perfectly in the dark, but are blinded by bright light.  
 - Surprise victims using their ability to turn invisible for a short time.   
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

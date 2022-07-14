@@ -12,4 +12,4 @@ grand_parent: Resources
 - Unharmed by lightning, can summon storms at their will.  
 - Can summon lightning bolts to attack nearby enemies for d12 damage.  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

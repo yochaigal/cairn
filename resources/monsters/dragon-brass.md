@@ -12,4 +12,4 @@ grand_parent: Resources
 - Highly value conversations, frequently shapechanges into humanoids to interact with adventurers.  
 - Breathes gas in a cone, targets affected fall asleep or flee in fear.  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

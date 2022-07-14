@@ -12,4 +12,4 @@ grand_parent: Resources
 - Camouflages in rocks and coral formations.  
 - Critical damage: The spines release a highly lethal poison (d8 extra STR damage).  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

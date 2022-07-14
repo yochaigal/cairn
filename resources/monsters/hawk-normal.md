@@ -12,4 +12,4 @@ grand_parent: Resources
 - Surprise their victims by diving to attack from a great height.
 - Can be trained as hunting companions.
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

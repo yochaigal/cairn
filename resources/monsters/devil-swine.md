@@ -12,4 +12,4 @@ grand_parent: Resources
 - Can only shape change at night, hunt in the dark, surprising victims.
 - Critical Damage: A human victim gets infected, becoming a lycanthrope of the same type after a couple of weeks.
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

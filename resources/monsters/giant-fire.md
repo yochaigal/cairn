@@ -12,4 +12,4 @@ grand_parent: Resources
 - Masters of craft and war, know how to forge the finest weaponry.  
 - Immune to fire and heat.  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

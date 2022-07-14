@@ -12,4 +12,4 @@ grand_parent: Resources
 - Highly resistant to magical effects.  
 - Occasionally surface to trade with coastal settlements, frequently requesting union between one of them and a human.  
 
-author: [xenio](https://xenioinabottle.blogspot.com) 
+ 

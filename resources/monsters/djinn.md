@@ -12,4 +12,4 @@ grand_parent: Resources
 - May transform into a whirlwind, sweeping everything on its path.  
 - Capable of granting wishes, the result always is distorted based on the wording of the wish.  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

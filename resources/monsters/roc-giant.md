@@ -12,4 +12,4 @@ grand_parent: Resources
 - Surprise victims by swooping down from above.
 - Can be domesticated if captured when young. 
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

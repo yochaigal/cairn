@@ -12,4 +12,4 @@ grand_parent: Resources
 - Fire and acid damage received is enhanced, and stops a troll's regeneration. When attacked with either of those, the troll fails all morale checks.
 - Regains 3 HP per round, and even severed limbs are reattached. If killed, will regenerate and fight again in 2d6 minutes.
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

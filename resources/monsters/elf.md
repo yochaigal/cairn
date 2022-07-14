@@ -11,4 +11,4 @@ grand_parent: Resources
 - Slender, long-lived, fey humanoids with pointed ears. Live in harmony with nature, adapting to it instead of conquering.  
 - Highly resistant to charming and mind-controlling effects.  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

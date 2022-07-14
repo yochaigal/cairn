@@ -12,4 +12,4 @@ grand_parent: Resources
 - Sweep away lighter creatures with their strong winds.  
 - Harm aerial creatures by disrupting their flight.  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

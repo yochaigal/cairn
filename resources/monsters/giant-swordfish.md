@@ -11,4 +11,4 @@ grand_parent: Resources
 - Long saltwater fish with a bone sword on the snout. Mostly peaceful.  
 - The bone sword might be used as a longsword(d8) if removed whole.  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

@@ -11,4 +11,4 @@ grand_parent: Resources
 - Large, with striped fur.   Live in woodlands and colder regions.  
 - Hunt alone, using their coloration to camouflage and surprise their victims.  
 
-author: [xenio](https://xenioinabottle.blogspot.com) 
+ 

@@ -12,4 +12,4 @@ grand_parent: Resources
 - Immobilizes its victims with the claws, and then attack with the sting.
 - Critical Damage: The sting's poison instantly kills the target.
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

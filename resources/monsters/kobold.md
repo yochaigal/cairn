@@ -12,4 +12,4 @@ grand_parent: Resources
 - Can see perfectly in the dark, but are harmed by sunlight.
 - Ambush their victims in dark caves and tunnels.
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

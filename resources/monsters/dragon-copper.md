@@ -12,4 +12,4 @@ grand_parent: Resources
 - Appreciate jokes and riddles, frequently prank passing travelers.  
 - Breathes acid in a cone for d10 damage or slowing gas, halving the movement of all affected.  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

@@ -12,4 +12,4 @@ grand_parent: Resources
 - Roar: Anyone who hears the sphinx's roar must save WIL or flee in fear.
 - Can innately cast *Comprehend*, *Detect Magic,* and *Telekinesis*. Once per day each.
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

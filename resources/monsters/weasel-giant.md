@@ -12,4 +12,4 @@ grand_parent: Resources
 - After attacking, locks onto the victim and drains its blood for 1d8 automatic damage each round. Detaches only if the weasel or the victim dies.
 - Track by scent, preferring wounded victims.
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

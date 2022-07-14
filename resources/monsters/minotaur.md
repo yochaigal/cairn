@@ -11,4 +11,4 @@ grand_parent: Resources
 - Large, muscular humanoids with the head of a bull. Found in mazes and labyrinths. 
 - Attack other creatures on sight, pursuing until they are out of sight.
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

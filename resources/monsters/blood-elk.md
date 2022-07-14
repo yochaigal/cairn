@@ -12,4 +12,4 @@ grand_parent: Resources
 - Attacks & kills to eat meat, but gains no sustenance.  
 - Critical damage: gores its victims by ripping out their entrails.  
 
-author: [Yochai Gal](https://newschoolrevolution.com)
+

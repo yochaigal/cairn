@@ -12,4 +12,4 @@ grand_parent: Resources
 - Must stay near a body of water.  
 - Envelop victims inside their forms to drown then.  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

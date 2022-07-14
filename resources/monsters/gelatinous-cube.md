@@ -12,4 +12,4 @@ grand_parent: Resources
 - May go undetected due to being transparent.  
 - Critical damage: Its touch paralyzes victims (d6 DEX damage).  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

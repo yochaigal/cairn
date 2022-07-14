@@ -12,4 +12,4 @@ grand_parent: Resources
 - The first time anyone sees the mummy, it must save WIL or be paralyzed. The paralysis ends immediately if the mummy attacks or goes out of sight. 
 - Critical Damage: The mummy inflicts a disease that rots open wounds, making them impossible to heal normally. Can only be removed by magic.
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+

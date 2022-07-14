@@ -11,4 +11,4 @@ grand_parent: Resources
 - Hideous monstrosities with the body of a giant eagle and a humanoid head.
 - Charming Song: Anyone who hears the song of a harpy must save WIL or be charmed, following the harpy and defending it from any threat. Killing the harpy breaks the charm.
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+
