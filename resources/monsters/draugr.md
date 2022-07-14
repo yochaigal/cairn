@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Monsters
-grand_parent: Resources 
+grand_parent: Resources
 ---
 
 # Draugr

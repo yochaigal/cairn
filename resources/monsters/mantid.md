@@ -10,6 +10,6 @@ grand_parent: Resources
 
 - Intelligent, 4-armed insectoid warriors who hunt and consume humanoids. Dwell in arid regions.
 - Can do huge leaps without needing any previous impulse.
-- Extremely skilled in dodging projectiles. Ranged damage received is impaired. 
+- Extremely skilled in dodging projectiles. Ranged damage received is impaired.
 
 

@@ -4,7 +4,7 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Lizard, Giant Monitor 
+# Lizard, Giant Monitor
 
 8 HP, 16 STR, 12 WIL, claws (d6+d6) or bite (d8)
 

@@ -10,6 +10,6 @@ grand_parent: Resources
 
 - Gargantuan birds of prey that nest atop the highest peaks and attack anything that approaches their nests. Considered myths by most people.
 - Surprise victims by swooping down from above.
-- Can be domesticated if captured when young. 
+- Can be domesticated if captured when young.
 
 

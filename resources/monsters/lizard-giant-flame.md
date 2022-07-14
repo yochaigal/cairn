@@ -4,7 +4,7 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Lizard, Giant Flame 
+# Lizard, Giant Flame
 
 7 HP, 14 STR, 12 WIL, bite (d8+d8) or fire breath (d6+d6,blast)
 
