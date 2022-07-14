@@ -8,11 +8,14 @@ currentdate="$(date "+%B %e, %Y")"
 #mkdir -p $tmpdir/monsters
 #rsync -av $sourcedir/ $tmpdir/monsters/
 #sed -i -f prep.sed $tmpdir/monsters/*.md
+#cp sources/template.md $tmpdir/all-monsters.md
+#cat $tmpdir/monsters/*.md > $tmpdir/all-monsters.md
 
 # Create the PDF
-pandoc  -s $tmpdir/monsters/*.md \
+pandoc  -s $tmpdir/all-monsters.md \
+        -t latex \
         --toc \
-   	--template=build.tex \
+   	--template=sources/build.tex \
         --metadata=title:"Cairn Bestiary" \
         --metadata=author:"Yochai Gal" \
         --metadata=lang:"en-US" \
@@ -25,5 +28,7 @@ pandoc  -s $tmpdir/monsters/*.md \
         -V subtitle=" by Yochai Gal | CC-BY-SA 4.0" \
         -V fontfamily="Alegreya" \
         -V fontsize=10pt \
-	-o "$destdir"/cairn-bestiary-lulu.pdf
+	-o $tmpdir/all-monsters.tex
 
+
+# -o "$destdir"/cairn-bestiary-lulu.pdf

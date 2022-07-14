@@ -12,7 +12,7 @@ sed -i -f prep.sed $tmpdir/monsters/*.md
 # Create the PDF
 pandoc  -s $tmpdir/monsters/*.md \
         --toc \
-   	--template=build.tex \
+   	--template=sources/build.tex \
         --metadata=title:"Cairn Bestiary" \
         --metadata=author:"Yochai Gal" \
         --metadata=lang:"en-US" \
@@ -28,7 +28,7 @@ pandoc  -s $tmpdir/monsters/*.md \
 
 pandoc  -s $tmpdir/monsters/*.md \
         --toc \
-   	--template=build.tex \
+   	--template=sources/build.tex \
         --metadata=title:"Cairn Bestiary" \
         --metadata=author:"Yochai Gal" \
         --metadata=lang:"en-US" \
