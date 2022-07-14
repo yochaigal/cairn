@@ -4,7 +4,7 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Golem
+# Golem, Original
 
 16 HP, 2 Armor, 15 STR, 6 DEX, 2 WIL, cobblestone fists (d10)
 
