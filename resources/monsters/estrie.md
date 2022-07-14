@@ -5,7 +5,9 @@ grand_parent: Resources
 ---
 
 # Estrie
+
 10 HP, 11 STR, 15 DEX, 14 WIL, draining hair (1d8)
+
 - Appears as a woman with long dark hair that extends all the way to her feet.
 - Can transform into owls, but only at night. Their shriek is ear-piercing.
 - Drinking blood gives them power, but they can obtain sustenance from eating bread and salt if taken from those they have wronged.

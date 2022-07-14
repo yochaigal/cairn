@@ -5,16 +5,17 @@ sourcedir="/home/yochai/github/cairn/resources/monsters"
 tmpdir="/home/yochai/Downloads/tmp"
 destdir="/home/yochai/Google Drive/Games/OSR/Into The Odd/hacks/Cairn/Monsters"
 currentdate="$(date "+%B %e, %Y")"
-#mkdir -p $tmpdir/monsters
-#rsync -av $sourcedir/ $tmpdir/monsters/
-#sed -i -f clean.sed $tmpdir/monsters/*.md
+mkdir -p $tmpdir/monsters
+rsync -av $sourcedir/ $tmpdir/monsters/
+sed -i -f clean.sed $tmpdir/monsters/*.md
 #sed -i '$d' $tmpdir/monsters/*.md
 #sed -i -f prep.sed $tmpdir/monsters/*.md
-#cat $tmpdir/monsters/*.md >> $tmpdir/all-monsters.md
+#pandoc $tmpdir/all-monsters.md -f markdown -t latex -o $tmpdir/all-monsters.tex
+cat $tmpdir/monsters/*.md >> $tmpdir/all-monsters.md
 
 # Create the PDF
 pandoc  --verbose \
-        -s examples/all-monsters.md \
+        -s $tmpdir/all-monsters.md \
         -V geometry=letterpaper \
 	-V title="Cairn Bestiary" \
         -V subtitle="Compiled on " \

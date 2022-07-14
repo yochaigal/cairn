@@ -2417,7 +2417,7 @@
 \begin{itemize}
 \item Large, shaggy ape-like monsters with vicious claws and a taste for human flesh. Dwell in isolated, icy regions.
 \item Camouflage in the ice and snow to surprise its victims.
-\item **Gaze**: surprised victims must save WIL or be paralyzed.
+\item Gaze: surprised victims must save WIL or be paralyzed.
 \end{itemize}
 \end{samepage}
 
