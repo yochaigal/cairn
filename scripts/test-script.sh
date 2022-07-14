@@ -8,12 +8,12 @@ currentdate="$(date "+%B %e, %Y")"
 mkdir -p $tmpdir/monsters
 rsync -av $sourcedir/ $tmpdir/monsters/
 sed -i -f clean.sed $tmpdir/monsters/*.md
-#sed -i -f prep.sed $tmpdir/monsters/*.md
-#cat $tmpdir/monsters/*.md >> $tmpdir/all-monsters.md
+sed -i -f prep.sed $tmpdir/monsters/*.md
+cat $tmpdir/monsters/*.md >> $tmpdir/all-monsters.md
 
 # Create the PDF
 pandoc  --verbose \
-        -s $tmpdir/monsters/*.md \
+        -s $tmpdir/all-monsters.md \
         -V geometry=letterpaper \
 	-V title="Cairn Bestiary" \
         -V subtitle="Compiled on " \

@@ -1,8 +1,7 @@
 s/&/and/g
-4 i \\\begin{itemize}
-$ a \\\end{itemize}
 s/^- /\\item /g
-
+6 i \\\begin{samepage}
+6 i \\\begin{itemize}
+$ a \\\end{itemize}
+$ a \\\end{samepage}
 #N;/\end{itemize}/!P;D
-#3 i \\\begin{minipage}{10cm}
-#$ a \\\end{minipage}
