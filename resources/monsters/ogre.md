@@ -10,5 +10,3 @@ grand_parent: Resources
 
 - 10' tall brute humanoids dressed in animal hides. Mostly dwell in caves.
 - Carry sacks full of gold and riches with them.
-
-

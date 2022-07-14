@@ -11,5 +11,3 @@ grand_parent: Resources
 - Huge arachnids, the size of a horse, with pincers and poisonous stingers. Found in drylands and caverns. Highly aggressive, normally attack on sight.
 - Immobilizes its victims with the claws, and then attack with the sting.
 - Critical Damage: The sting's poison instantly kills the target.
-
-

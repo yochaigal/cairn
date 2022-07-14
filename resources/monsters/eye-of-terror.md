@@ -10,5 +10,3 @@ grand_parent: Resources
 
 - Cancels any magic effect in a nearby range facing its central eye.
 - The eyestalks cast one of those spells each round randomly: (1-Charm, 2-Phobia, 3-Telekinesis, 4-Sleep, 5-Shuffle, 6-Vision).
-
-

@@ -11,5 +11,3 @@ grand_parent: Resources
 - Armadillo-like creatures with long tails and two long antennae. Feed on rusted metal.
 - Any metal that touches the antennae instantly becomes rusted. Magical items are partially resistant to this effect.
 - Can smell metal at long distances.
-
-

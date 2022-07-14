@@ -11,5 +11,3 @@ grand_parent: Resources
 - 10’ long, aggressive predatory turtles that lurk in the shallows of lakes and large rivers.
 - Hide motionless underwater to surprise its victims.
 - Can reach to bite further targets due to its long neck.
-
-

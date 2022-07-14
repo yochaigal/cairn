@@ -11,5 +11,3 @@ grand_parent: Resources
 - Incorporeal monsters that look like living shadows.
 - Unharmed by mundane attacks, sleep or mind control.
 - Critical Damage: The victim loses another d4 STR, if reduced to 0 STR, they become a shadow.
-
-

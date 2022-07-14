@@ -11,5 +11,3 @@ grand_parent: Resources
 - Huge waves of flowing water.
 - Must stay near a body of water.
 - Envelop victims inside their forms to drown then.
-
-

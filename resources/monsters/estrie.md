@@ -14,5 +14,3 @@ grand_parent: Resources
 - Binding their hair prevents their transformation. They can be killed, but their head must then be buried, the mouth stuffed with dirt.
 - Critical damage: target falls unconscious for 1d4 days.
 
-
-

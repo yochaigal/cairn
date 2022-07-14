@@ -11,5 +11,3 @@ grand_parent: Resources
 - Avoid combat unless they have the advantage (such as greater numbers).
 - Guard their stolen goods to the death.
 - Prize Spellbooks; willing to trade.
-
-source: [SRD](/cairn-srd#Bestiary)

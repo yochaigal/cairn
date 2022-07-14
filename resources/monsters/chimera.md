@@ -10,5 +10,3 @@ grand_parent: Resources
 
 - Three-headed flying monstrosities, hybrid of lion, goat, and dragon.
 - The draconic head breaths fire in a cone for d10 damage.
-
-

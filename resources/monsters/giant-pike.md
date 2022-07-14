@@ -10,5 +10,3 @@ grand_parent: Resources
 
 - 10’ long, aggressive hunting fish. Dwell in deep lakes.
 - Use their great speed to surprise victims.
-
-

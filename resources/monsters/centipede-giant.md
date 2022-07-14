@@ -10,5 +10,3 @@ grand_parent: Resources
 
 - 1’ long centipedes that live in damp, underground places.
 - Critical damage: their deadly poison hinders the target incapacitated for up to 10 days (save STR once a day to recover).
-
-

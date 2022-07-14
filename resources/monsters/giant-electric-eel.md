@@ -10,5 +10,3 @@ grand_parent: Resources
 
 - 9’ long eels that live in warm, clear water.
 - Able to emit an electric shock, damaging all in the nearby water for d10.
-
-

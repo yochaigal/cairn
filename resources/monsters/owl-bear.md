@@ -11,5 +11,3 @@ grand_parent: Resources
 - Huge, carnivorous bear-like creatures with the face of an owl. Found in deep dense forests.
 - Highly territorial, attack anything that comes to near.
 - Critical damage: Hug victims for d8 extra damage.
-
-

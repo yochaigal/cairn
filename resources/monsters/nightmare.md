@@ -11,5 +11,3 @@ grand_parent: Resources
 - Intelligent demonic horses with burning-red eyes, smoldering nostrils, and flaming hooves.
 - Breathe a thick cloud of smoke, impairing damage dealt by anyone in melee with the nightmare.
 - Sometimes are used as steeds by powerful undead creatures.
-
-

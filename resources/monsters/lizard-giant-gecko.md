@@ -10,5 +10,3 @@ grand_parent: Resources
 
 - 5' long, carnivorous, nocturn lizards. Blue and Orange colored.
 - Climb on sheer surfaces and attack by dropping on victims.
-
-

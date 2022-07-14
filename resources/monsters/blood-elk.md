@@ -11,5 +11,3 @@ grand_parent: Resources
 - Born from a greedy, selfish act.
 - Attacks & kills to eat meat, but gains no sustenance.
 - Critical damage: gores its victims by ripping out their entrails.
-
-

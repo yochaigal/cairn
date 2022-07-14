@@ -11,5 +11,3 @@ grand_parent: Resources
 - Highly intelligent creatures summoned from other planes of existence by powerful wizards to perform tasks for them.
 - Can track any target without error. Using their invisibility to remain undetected.
 - If killed, is sent back to their original plane.
-
-

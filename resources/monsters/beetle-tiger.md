@@ -10,5 +10,3 @@ grand_parent: Resources
 
 - 4’ long striped beetles with strong mandibles.
 - Eats other smaller creatures but sometimes hunts humans.
-
-

@@ -10,5 +10,3 @@ grand_parent: Resources
 
 - Holy men & women in a quest for their deity.
 - Normally travel in groups of 4+.
-
-

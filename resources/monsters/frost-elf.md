@@ -10,5 +10,3 @@ grand_parent: Resources
 
 - Beautiful, amoral, and long-lived.
 - Resistant to most forms of magic.
-
-source: [SRD](/cairn-srd#Bestiary)

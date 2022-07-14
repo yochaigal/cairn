@@ -10,5 +10,3 @@ grand_parent: Resources
 
 - 3' long snake with grey and white scales. Prefer to attack from distance with their acidic spit.
 - Critical Damage: The poison kills the target in 2d8 turns if not treated.
-
-

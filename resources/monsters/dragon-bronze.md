@@ -12,5 +12,3 @@ grand_parent: Resources
 - Coastal dwelling, good dragons who eat mostly fish and aquatic plants.
 - Shapechange into small beasts to watch nearby wildlife and passing ships.
 - Breathes lightning on a line for d10 damage or repulsion gas in a cone, pushing victims away.
-
-

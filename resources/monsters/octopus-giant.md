@@ -11,5 +11,3 @@ grand_parent: Resources
 - Large, eight-armed saltwater creatures. Dwell nearby coastal settlements.
 - Can attack up to 8 nearby creatures.
 - When threatened, spills a thick cloud of ink and jets away.
-
-

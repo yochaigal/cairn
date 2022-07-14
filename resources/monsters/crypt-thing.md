@@ -12,5 +12,3 @@ grand_parent: Resources
 - Defenders of crypts & tombs, and will not attack if left undisturbed.
 - No armor against magical attacks.
 - Casts Teleport at will. Anyone in eyesight is teleported to a random room in the crypt.
-
-

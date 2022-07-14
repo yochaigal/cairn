@@ -11,5 +11,3 @@ grand_parent: Resources
 - Giant, herbivorous crickets that dwell in caves.   Easily blend into stone due to their natural coloration.
 - Emits loud shrieks when threatened, possibly alerting other nearby creatures.
 - Immune to most types of poison.
-
-

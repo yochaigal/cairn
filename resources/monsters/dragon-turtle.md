@@ -11,5 +11,3 @@ grand_parent: Resources
 - Gargantuan sea monsters with the shell of a turtle and draconic features. Lurk in deep oceans and can be mistaken for a small island when on the surface.
 - Attack ships, sinking them to add any treasure to their massive underwater hoards.
 - Breathes massive clouds of steam, clogging visions and damaging all inside for d10 damage.
-
-

@@ -11,5 +11,3 @@ grand_parent: Resources
 - Once holy warriors who fell to the temptation of dark powers that they now serve in undeath.   Rides nightmarish steeds into battle.
 - Lesser undead creatures mindlessly follow their command.
 - Their evil aura frightens anyone who comes into nearby range.
-
-

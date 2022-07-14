@@ -10,5 +10,3 @@ grand_parent: Resources
 
 - Immobile constructs typically used as guardians to great tombs or artifacts.
 - Unaffected by mundane persuasion techniques, but does love a good bone.
-
-source: [SRD](/cairn-srd#Bestiary)

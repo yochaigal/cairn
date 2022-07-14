@@ -11,5 +11,3 @@ grand_parent: Resources
 - Highly intelligent beings from the elemental plane of fire.  Manifests as huge men with terrifying faces and an aura of heat and smoke.
 - May transform into a pillar or wall of flames, burning everything it touches.
 - Might be summoned by powerful magic and ordered to complete tasks, but will subvert commands while following them to the letter.
-
-

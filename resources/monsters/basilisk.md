@@ -11,5 +11,3 @@ grand_parent: Resources
 - Long, magical, serpentine lizards that dwell in caverns.
 - Anyone who looks directly at it is slowed, having its attacks impaired.
 - Critical damage: the victim loses d12 DEX, if reduced to 0 DEX, they are turned to pure stone.
-
-

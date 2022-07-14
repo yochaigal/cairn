@@ -10,5 +10,3 @@ grand_parent: Resources
 
 - Massive, thick-skinned animals that live in tropical waters. Herbivore, but aggressively territorial.
 - Can hold their breath for long periods. Stay underwater and tip boats that come too close over.
-
-

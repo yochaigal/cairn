@@ -11,5 +11,3 @@ grand_parent: Resources
 - Highly aggressive, even in human form. Fight until death.
 - While in human form, can enter in battle rage, enhancing all damage dealt and received.
 - Critical Damage: A human victim gets infected, becoming a lycanthrope of the same type after a couple of weeks.
-
-

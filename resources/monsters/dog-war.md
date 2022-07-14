@@ -10,5 +10,3 @@ grand_parent: Resources
 
 - Large breeds selected by their bulk and strength.
 - Not scared by noise or battle.
-
-

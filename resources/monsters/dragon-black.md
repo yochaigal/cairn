@@ -11,5 +11,3 @@ grand_parent: Resources
 - A giant amphibious reptile with glossy black scales. Dwells in swamps and other hostile flooded environments.
 - Extremely cruel and violent, makes use of the dark, difficult environment and its surprising agility to separate its victims and kill them one by one.
 - Any critical damage saves provoked by the dragon's bite automatically fail, due to its powerful acidic saliva.
-
-

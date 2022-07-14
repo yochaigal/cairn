@@ -10,5 +10,3 @@ grand_parent: Resources
 
 - Two-headed giant kin of low intelligence and aggressive behavior.   Lay underground and only act in darkness.
 - One head is always vigilant, preventing being surprised.
-
-

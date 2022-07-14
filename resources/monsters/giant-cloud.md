@@ -11,5 +11,3 @@ grand_parent: Resources
 - 20’ tall humanoids with hair and skin in tones of grey and white. House in castles built atop the highest mountains or floating in cloud banks.
 - Cannot be surprised due to its keen sight and smell senses.
 - Can envelop itself in a wind aura, impairing missile attacks.
-
-

@@ -11,5 +11,3 @@ grand_parent: Resources
 - 12' long lizard-like creatures with scales of bright orange, yellow and red. Native to the plane of fire, but also dwell near volcanoes. 
 - Immune to fire and heat.
 - Emits an aura of heat, damaging any nearby creature for d6 damage.
-
-

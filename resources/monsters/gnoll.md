@@ -11,5 +11,3 @@ grand_parent: Resources
 - Monstrous humanoid hyenas of low intelligence.   Legend says they were created in a wizard’s experiments.
 - Attack in large packs, intimidating its victims with numbers.
 - Critical damage: the gnoll enters in a rampage after tasting blood, making another attack immediately.
-
-

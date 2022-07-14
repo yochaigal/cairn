@@ -11,5 +11,3 @@ grand_parent: Resources
 - 11’ tall white-furred bears who live in cold regions, eat mostly fish.
 - Excellent at swimming.
 - Can move effortlessly through snow and ice.
-
-

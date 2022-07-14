@@ -11,5 +11,3 @@ grand_parent: Resources
 - Semi-intelligent, ferocious hunters.
 - Sometimes hunts in packs with regular wolves.
 - Critical Damage: Victim becomes infected, transforming into a lycanthrope of the same type after a couple of weeks.
-
-

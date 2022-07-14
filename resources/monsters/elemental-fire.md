@@ -11,5 +11,3 @@ grand_parent: Resources
 - Living columns of pure flame that burn everything in their path.
 - Highly vulnerable to being touched by water or rain.
 - Can scatter their flames, freely changing its form.
-
-

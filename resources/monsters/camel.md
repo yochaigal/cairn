@@ -11,5 +11,3 @@ grand_parent: Resources
 - Beasts of burden native to dry lands.
 - Might go weeks without water after being properly sated.
 - Moves through sand and broken ground without difficulty.
-
-

@@ -11,5 +11,3 @@ grand_parent: Resources
 - Elvish humanoids of dark skin and hair of silver and white.   Live deep in the underworld and feverishly worship strange deities.
 - Can see perfectly in the dark, but are blinded by bright light.
 - Wander in groups, frequently accompanied by giant spiders.
-
-

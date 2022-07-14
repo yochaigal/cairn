@@ -11,5 +11,3 @@ grand_parent: Resources
 - Aquatic humanoids with silvery skin, blue-green hair, and scaled legs ending in fins. Dwell in warm waters both in shallows and at great depths.
 - Frequently use seahorses and hippocamps as mounts.
 - Lair in beautiful castles sculpted from sea rocks and corals, guarded by other sea creatures.
-
-

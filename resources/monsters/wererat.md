@@ -11,5 +11,3 @@ grand_parent: Resources
 - Intelligent, humanoid rats that can change into normal humans.
 - Can speak and wield weapons normally while in rat form.
 - Critical Damage: A human victim gets infected, becoming a lycanthrope of the same type after a couple of weeks.
-
-

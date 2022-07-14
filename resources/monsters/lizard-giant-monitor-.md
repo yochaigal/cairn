@@ -11,5 +11,3 @@ grand_parent: Resources
 - Gargantuan lizards with long teeth and claws. Dwell in warm climates.
 - Aggressive predators, surprise their victims by rushing at them and dragging them to their lair.
 - Critical Damage: The Victim is held into the mouth, automatically taking d6 damage in the following rounds.
-
-

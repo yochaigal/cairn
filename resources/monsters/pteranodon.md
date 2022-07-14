@@ -10,5 +10,3 @@ grand_parent: Resources
 
 - Massive winged reptiles that live in warm climates, hunting creatures on the ground by gliding on air currents.
 - Highly aggressive, often prey on humanoids.
-
-

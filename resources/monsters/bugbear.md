@@ -10,5 +10,3 @@ grand_parent: Resources
 
 - Large, hairy, goblinoid-like creatures.
 - Use stealth to surprise and attack their victims.
-
-

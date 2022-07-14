@@ -10,5 +10,3 @@ grand_parent: Resources
 
 - Huge crustaceans that live in coastal areas and mindlessly attack anything that comes near.
 - Their heavy carapace makes them notably sturdy but slow and unable to swim.
-
-

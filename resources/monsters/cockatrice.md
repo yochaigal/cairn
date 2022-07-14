@@ -10,5 +10,3 @@ grand_parent: Resources
 
 - Small, hybrid creatures resembling chickens with reptilian features.
 - Critical damage: the victim loses d12 DEX, if reduced to 0 DEX, they are turned to pure stone.
-
-

@@ -11,5 +11,3 @@ grand_parent: Resources
 - Intelligent, reptilian humanoids with agile hands, long legs, short tails, and spiky combs on their heads and arms.
 - Can change color to match their surroundings. Lurk by rock walls and await victims.
 - Emits an oil with a nauseating stench from its pores.
-
-

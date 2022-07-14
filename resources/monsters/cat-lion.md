@@ -11,5 +11,3 @@ grand_parent: Resources
 - Hunts in groups called pride. Live in savannahs or other similar drylands.
 - Carnivorous. Prefer to eat bovines but might hunt even humans.
 - Always chase prey that flees.
-
-

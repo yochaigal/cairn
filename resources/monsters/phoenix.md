@@ -11,5 +11,3 @@ grand_parent: Resources
 - Giant eagle-like birds made of pure flames, found in isolated regions and only attack in self-defense. Considered holy by some cultures.
 - Unharmed by fire and heat. Emits an aura of fire that does d6 damage to anyone that comes nearby.
 - If killed, disappears into a small sphere of flames. After a turn, it is reborn from its ashes and flees.
-
-

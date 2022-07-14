@@ -1,5 +1,3 @@
-3 i \\
-4 i \\
 s/&/and/g
 4 i \\\begin{itemize}
 $ a \\\end{itemize}

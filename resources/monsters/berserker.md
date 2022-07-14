@@ -10,5 +10,3 @@ grand_parent: Resources
 
 - Tribal fighters who fight recklessly, never taking prisoners.
 - Can enter in battle rage, enhancing all damage dealt and received.
-
-

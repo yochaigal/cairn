@@ -11,5 +11,3 @@ grand_parent: Resources
 - 20’ long, may attack small boats and canoes.
 - Attracted to the scent of blood or heavy movement in the water.
 - Swim silently just under the surface to ambush victims.
-
-

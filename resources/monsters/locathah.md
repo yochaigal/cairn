@@ -10,5 +10,3 @@ grand_parent: Resources
 
 - Nomadic humanoid fish with pale scales and large eyes. Found in warm waters, lair in underwater caves.
 - Keep giant eels as pets, using them both as lair guardians and sometimes as mounts.
-
-

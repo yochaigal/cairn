@@ -11,5 +11,3 @@ grand_parent: Resources
 - 30' long aggressive fish of a grey coloration. Dwell deep salt water, and sometimes attack smaller boats.
 - Can detect the smell of blood from great distances.
 - Once moves to attack, doesn't stop until death, succeeding all morale rolls.
-
-

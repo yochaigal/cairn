@@ -11,5 +11,3 @@ grand_parent: Resources
 - 18’ tall humanoids with blue-ish skin and pale hair. Wear furs and iron Armor.
 - Unharmed by cold and ice.
 - Excellent trackers, hunt accompanied by dire wolves.
-
-

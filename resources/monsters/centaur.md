@@ -10,5 +10,3 @@ grand_parent: Resources
 
 - Creatures with the lower body and legs of a horse and the upper body and head of a human.
 - Live in small tribes hidden amidst dense forests with labyrinthic paths.
-
-

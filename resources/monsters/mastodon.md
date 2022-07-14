@@ -11,5 +11,3 @@ grand_parent: Resources
 - Huge elephants with longer tusks. Found in icy regions.
 - With enough open ground for a clear run, it will charge its victims, enhancing damage.
 - Its tusks can be sold for high amounts of gold if removed whole.
-
-

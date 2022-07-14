@@ -11,5 +11,3 @@ grand_parent: Resources
 - Wormy-like creatures with multiple legs and eyes, long bodies, and strong, crushing maws. Dwell in frozen lands, sustained by their burning internal heat.
 - If their nests are found, eggs can be sold for high prices.
 - Critical Damage: The victim is swallowed whole, and instantly killed by the internal heat.
-
-

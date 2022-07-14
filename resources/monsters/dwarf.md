@@ -11,5 +11,3 @@ grand_parent: Resources
 - Short and bulky, bearded humanoids who dwell in mountains and underground.
 - Can see perfectly in low-light and partially in darkness.
 - Highly resistant to poison and disease.
-
-

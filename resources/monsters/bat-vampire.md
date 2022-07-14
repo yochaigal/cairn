@@ -11,5 +11,3 @@ grand_parent: Resources
 - Big, flying mammals with nocturnal habits that nest in caves.
 - Unaffected by darkness or blinding effects, blinded by magical silence or constant loud noises.
 - Recover 1d4 HP after biting a victim that has blood.
-
-

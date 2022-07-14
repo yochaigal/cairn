@@ -11,5 +11,3 @@ grand_parent: Resources
 - Majestic, reserved dragons with dark golden scales. Can be found anywhere, but nest atop mountains, feeding of jewels and other minerals.
 - Master shapechangers, can take the form of any humanoid or animal.
 - Breath fire in a massive cone for d10 damage to all caught.
-
-

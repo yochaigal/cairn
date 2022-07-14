@@ -10,5 +10,3 @@ grand_parent: Resources
 
 - As an action, can recover lost HP.
 - Critical damage: moss and twigs begin growing out of target’s wounds.
-
-source: [SRD](/cairn-srd#Bestiary)

@@ -11,5 +11,3 @@ grand_parent: Resources
 - Dwell primarily in wildlands, but occasionally lair in caves.
 - Can be trained like dogs if captured young.
 - When found in packs of at least 4, treat WIL as 15 for morale checks.
-
-

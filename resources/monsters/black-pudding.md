@@ -11,5 +11,3 @@ grand_parent: Resources
 - Huge, brainless blobs of black jelly driven by unstoppable hunger.
 - Can only be harmed by flames.
 - Can move in walls and ceilings and squeeze through small holes.
-
-

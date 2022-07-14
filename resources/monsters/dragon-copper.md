@@ -11,5 +11,3 @@ grand_parent: Resources
 - Good aligned dragons that dwell in dry, rocky regions.
 - Appreciate jokes and riddles, frequently prank passing travelers.
 - Breathes acid in a cone for d10 damage or slowing gas, halving the movement of all affected.
-
-

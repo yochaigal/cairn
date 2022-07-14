@@ -11,5 +11,3 @@ grand_parent: Resources
 - Short, thickset demihumans with long noses and gnarled, hairless, grey skin. Also known as deep gnomes. Dwell deep in the Underworld in labyrinthine lairs riddled with cunning secret passages and chambers.
 - Can see perfectly in the dark, but are blinded by bright light.
 - Love machinery, mining, and gems.
-
-

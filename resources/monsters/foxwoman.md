@@ -10,5 +10,3 @@ grand_parent: Resources
 
 - Appears as a 7-foot tall with a human woman with the head of a fox.
 - Transforms into a fox at will.
-- Immune to attacks from metal weapons.
-- Critical damage: victim is choked unconscious, to be fed on soon after.

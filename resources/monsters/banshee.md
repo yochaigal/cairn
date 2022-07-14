@@ -11,5 +11,3 @@ grand_parent: Resources
 - Incorporeal feminine spirits that lingered after death and haunt the living.
 - Unharmed by cold, heat, or the elements.
 - Wail: Releases a piercing screech, anyone caught saves against Critical Damage regardless of current HP.
-
-

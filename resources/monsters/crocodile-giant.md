@@ -11,5 +11,3 @@ grand_parent: Resources
 - 50’ long, extremely rare reptiles found on unexplored fluvial regions.
 - Attracted to the scent of blood or movement in the water.
 - Can easily destroy smaller ships with their crushing bite.
-
-

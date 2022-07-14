@@ -11,5 +11,3 @@ grand_parent: Resources
 - Large birds of prey, the size of a big dog. Hunt animals of similar size, but might attack humans if hungry.
 - Surprise their victims by diving to attack from a great height.
 - Can carry away creatures up to their size.
-
-

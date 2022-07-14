@@ -11,5 +11,3 @@ grand_parent: Resources
 - Hybrid monstrosities resulting from the transformation ritual of the servants of the Drow spider deity.   Have the 8 legs of a giant spider and the upper body and head of the Drow.
 - Hunt on underworld caverns, eating the blood of paralyzed victims.   Frequently accompanied by giant spiders.
 - Critical Damage: The poison paralyzes the victim’s body (d6 DEX damage).
-
-

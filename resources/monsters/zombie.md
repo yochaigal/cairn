@@ -11,5 +11,3 @@ grand_parent: Resources
 - Slow, mindless humanoid corpses, reanimated as guardians by  powerful clerics or wizards.
 - Attack anything that comes nearby.
 - Immune to mind altering effects.
-
-

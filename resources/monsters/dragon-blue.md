@@ -11,5 +11,3 @@ grand_parent: Resources
 - Proud dragons that dwell in deserts and other drylands.
 - Extremely vain, often take victims as slaves to adore them.
 - Breathes lightning in a long line for d10 damage to all caught.
-
-
