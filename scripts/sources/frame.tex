@@ -5,9 +5,11 @@
 \documentclass[
   10pt,
   american,
-]{article}
+]{extbook}
 \usepackage[]{Alegreya}
 \usepackage{amssymb,amsmath}
+\usepackage{multicol}
+\usepackage[us,12hr]{datetime} 
 \usepackage{ifxetex,ifluatex}
 \ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
   \usepackage[T1]{fontenc}
@@ -64,18 +66,20 @@
   \apptocmd{\@title}{\par {\large #1 \par}}{}{}
 }
 \makeatother
-\subtitle{Compiled on July 14, 2022 by Yochai Gal | CC-BY-SA 4.0}
+%\subtitle{Compiled on July 14, 2022 
+\subtitle{Compiled on {\today} by Yochai Gal | CC-BY-SA 4.0}
 \date{}
 
 \begin{document}
 \maketitle
-
-
+\AtBeginShipoutNext{\AtBeginShipoutDiscard}% Discard next blank page
 \let\oldtoc\tableofcontents
 \renewcommand{\tableofcontents}{\oldtoc\newpage}
 {
 \setcounter{tocdepth}{3}
+\begin{multicols}{2}
 \tableofcontents
+\end{multicols}
 }
 \widowpenalty=10000
 \clubpenalty=10000
