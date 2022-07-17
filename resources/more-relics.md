@@ -435,9 +435,9 @@ This ornate pull-out scroll made of whale bone, has a silver foil sheet inscribe
 - 3 charges. A peach wood ruyi scepter ornately carved with tree nymphs and talismanic writing. When the holder of this ruyi taps a tree and points to a spot within 20 feet of the tree, the tree will uproot, walk, and root in the indicated spot. The ruyi is charged by wood nymphs after the holder has done some (supposedly) small errand for them.
 
 #### Inkstone of Whispers
-An inkstone from a sacred grotto where a forest hermit dwelt. If ink rubbed on this stone is used to write a target’s name on a leaf, all the leaves in the forest will whisper that name. If the target is within earshot, they are delirious for 1d8 rounds and must save against WIL or panic and flee for 1d6 rounds.
+- An inkstone from a sacred grotto where a forest hermit dwelt. If ink rubbed on this stone is used to write a target’s name on a leaf, all the leaves in the forest will whisper that name. If the target is within earshot, they are delirious for 1d8 rounds and must save against WIL or panic and flee for 1d6 rounds.
 - The ink cannot be used to write the same name more than once. The ink must be used fresh or it becomes ordinary ink.
-  - Rubbing the ink and writing the name takes 3 turns. Ink rubbed in this stone is only effectual when using spring water from the same grotto whence the stone was taken.
+- Rubbing the ink and writing the name takes 3 turns. Ink rubbed in this stone is only effectual when using spring water from the same grotto whence the stone was taken.
 
 #### Inversion Pot
 - A squat clay teapot with a crane carved in one side and a centipede on the other. If a poisonous plant is steeped in this pot, the resulting tea is its antidote. Likewise beneficial herbs steeped in this teapot produce poison.
