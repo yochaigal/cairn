@@ -52,6 +52,8 @@
 \setlength{\emergencystretch}{3em} % prevent overfull lines
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+\addtocontents{toc}{\protect\thispagestyle{empty}}
 \setcounter{secnumdepth}{-\maxdimen} % remove section numbering
 \ifxetex
   % Load polyglossia as late as possible: uses bidi with RTL langages (e.g. Hebrew, Arabic)
@@ -76,9 +78,10 @@
 \renewcommand{\headrulewidth}{0pt}
 \begin{document}
 \maketitle
-\AtBeginShipoutNext{\AtBeginShipoutDiscard}% Discard next blank page
+\thispagestyle{empty}
+\AtBeginShipoutNext{\AtBeginShipoutDiscard}
 \let\oldtoc\tableofcontents
-\renewcommand\contentsname{Table of Contents} 
+\renewcommand{\contentsname}{\centering Contents}
 \title{Sections and Chapters}
 \renewcommand{\tableofcontents}{\oldtoc\newpage}
 {
@@ -87,6 +90,8 @@
 \tableofcontents
 \end{multicols}
 }
-\setcounter{page}{1} 
+\clearpage
+\pagenumbering{arabic} 
+\setcounter{page}{5} 
 \widowpenalty=10000
 \clubpenalty=10000
