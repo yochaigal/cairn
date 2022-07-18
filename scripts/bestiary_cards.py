@@ -95,7 +95,7 @@ class MonsterCard:
         self.outdir = outdir
 
     def generate(self, mdfile):
-        self.image = Image.open("monster-ls.png")
+        self.image = Image.open("sources/monster-ls.png")
         text_file = open(mdfile, "r", encoding="utf-8")
         data = text_file.read()
         text_file.close()
