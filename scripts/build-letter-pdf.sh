@@ -18,6 +18,5 @@ pdflatex -aux-directory=$tmpdir -output-directory=$tmpdir $tmpdir/cairn-bestiary
 mv $tmpdir/cairn-bestiary.pdf $tmpdir/cairn-bestiary-letter.pdf
 pdftk "$scriptdir/covers/letter/cairn-bestiary-letter-front-cover.pdf" $tmpdir/cairn-bestiary-letter.pdf "$scriptdir/covers/letter/cairn-bestiary-letter-back-cover.pdf" cat output "$tmpdir/cairn-bestiary-letter-$currentdate.pdf"
 pdfbook2 --paper=letter -s $tmpdir/cairn-bestiary-letter.pdf
-pdftk "$scriptdir/covers/letter/cairn-bestiary-letter-covers-landscape.pdf" $tmpdir/cairn-bestiary-letter-book.pdf cat output "$tmpdir/cairn-bestiary-letter-booklet.pdf"
-pdftk "$scriptdir/covers/letter/cairn-bestiary-letter-covers-landscape.pdf" $tmpdir/cairn-bestiary-letter-tmp-book.pdf cat output "$destdir/cairn-bestiary-letter-booklet.pdf"
-#rm -rf $tmpdir
+pdftk "$scriptdir/covers/letter/cairn-bestiary-letter-covers-landscape.pdf" $tmpdir/cairn-bestiary-letter-book.pdf cat output "$destdir/cairn-bestiary-letter-booklet.pdf"
+rm -rf $tmpdir
