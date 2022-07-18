@@ -7,7 +7,7 @@ destdir="/home/yochai/Google Drive/Games/Personal WIP/Cairn/bestiary/"
 currentdate="$(date +%m-%Y)"
 mkdir -p $tmpdir/monsters
 rsync -av $sourcedir/ $tmpdir/monsters/
-sed -i -f prep.sed $tmpdir/monsters/*.md
+sed -i -f sources/prep.sed $tmpdir/monsters/*.md
 cat $tmpdir/monsters/*.md >> $tmpdir/cairn-bestiary-tmp.md
 cp sources/lulu.tex $tmpdir/cairn-bestiary.tex
 pandoc $tmpdir/cairn-bestiary-tmp.md -f markdown -t latex -o $tmpdir/cairn-bestiary-tmp.tex
