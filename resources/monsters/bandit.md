@@ -6,7 +6,8 @@ grand_parent: Resources
 
 # Bandit
 
-4 HP, 14 DEX, dagger (d6)
+4 HP, 11 STR, 14 DEX, 12 WIL, dagger (d6)
 
-- Thieves who will value money over anything.
+- Thieves who value wealth over all else.
 - Use disguises, stealth, and trickery to surprise victims.
+
