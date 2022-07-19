@@ -29,3 +29,4 @@ vendor/bundle
 *.gem
 _zip
 .vscode/settings.json
+scripts/cairn.code-workspace
