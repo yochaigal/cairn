@@ -10,4 +10,3 @@ grand_parent: Resources
 
 - Thieves who value wealth over all else.
 - Use disguises, stealth, and trickery to surprise victims.
-

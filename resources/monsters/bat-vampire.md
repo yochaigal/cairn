@@ -6,8 +6,8 @@ grand_parent: Resources
 
 # Bat, Vampire
 
-3 HP, 8 STR, bite (d8)
+3 HP, 6 STR, 14 DEX,  bite (d8)
 
-- Big, flying mammals with nocturnal habits that nest in caves.
-- Unaffected by darkness or blinding effects, blinded by magical silence or constant loud noises.
-- Recover 1d4 HP after biting a victim that has blood.
+- Large, nocturnal mammals that feed on the blood of their victims. 
+- Unaffected by darkness or blinding effects. Loud noises and holy rituals may frighten them.
+- **Critical Damage**: Recovers full STR and HP if the target has blood.

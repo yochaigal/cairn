@@ -6,8 +6,8 @@ grand_parent: Resources
 
 # Basilisk
 
-6 HP, 12 STR, 13 DEX, bite (d10)
+10 HP, 1 Armor, 12 STR, 13 DEX, 13 WIL, bite (d10)
 
-- Long, magical, serpentine lizards that dwell in caverns.
-- Anyone who looks directly at it is slowed, having its attacks impaired.
-- Critical damage: the victim loses d12 DEX, if reduced to 0 DEX, they are turned to pure stone.
+- Long, serpentine lizards that nest deep below the earth or in brambles just underfoot. 
+- **Gaze**: A PC meeting the Basilisk's gaze must make a WIL save or turn instantly to stone. Its reflection is harmless.
+- Fighting a **Basilisk** without meeting its gaze is difficult (direct attacks are _impaired_).
