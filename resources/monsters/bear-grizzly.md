@@ -8,5 +8,5 @@ grand_parent: Resources
 
 6 HP, 15 STR, 13 DEX, 5 WIL, claws (d8+d8), bite (d10)
 
-- Aggressive, 9’ tall reddish-brown bears that live in mountains, woodlands and prairies. They prefer to eat fish and meat.
-- Frequently cam be found sleeping.
+- Aggressive, 9’ tall reddish-brown bears found in mountains, woodlands, and prairies. 
+- They prefer to eat fish and meat, and are not opposed to attacking the rare unfortunate to cross their path.
