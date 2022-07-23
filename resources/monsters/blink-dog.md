@@ -6,7 +6,7 @@ grand_parent: Resources
 
 # Blink Dog
 
-3 HP, 14 DEX, bite (d6)
+5 HP, 11 STR, 14 DEX, 5 WIL, bite (d6)
 
-- Intelligent, fey-like dogs that live in packs.
-- Teleport away in a blink after attacking.
+- Intelligent, wild dogs that travel in packs.
+- Teleport to a safe distance away after each attack.
