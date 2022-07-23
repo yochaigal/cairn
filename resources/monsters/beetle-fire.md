@@ -9,4 +9,4 @@ grand_parent: Resources
 2 HP, 4 STR, 12 DEX, 6 WIL, bite(d4)
 
 - 3’ long beetles commonly found both deep underground and buried in thick brambles. 
-- Produces a reddish slime through a gland in the abdomen that lasts for several days. The organ is very valuable to the right person.
+- Produces a orange slime through the abdomen that lasts for several days. The productive organ is very valuable alchemists.
