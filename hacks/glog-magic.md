@@ -59,7 +59,7 @@ Expand For Example
  |---||
  | **Mirror Image**  | [dice] illusory duplicates of yourself appear under your control. |
 
- _He decides to invest 3 of his **Magic Dice**. That means he can create **three** duplicates that last for **three** minutes each. He rolls: double 2s and a 5. The spell effects occur, and he takes one Fatigue. However, he also rolled a **series**, meaning a Mishap has occurred. He gets the [sum] of the dice - 9 - and looks up the effect on the Mishaps table._
+ _He decides to invest 3 of his **Magic Dice**. That means he can create **three** duplicates that last for **thirty** minutes each. He rolls: double 2s and a 5. The spell effects occur, and he takes one Fatigue. However, he also rolled a **series**, meaning a Mishap has occurred. He gets the [sum] of the dice - 9 - and looks up the effect on the Mishaps table._
 
 
 
