@@ -6,6 +6,7 @@
   10pt,
   american,
 ]{extbook}
+\usepackage{pdfpages}
 \usepackage[]{Alegreya}
 \usepackage{amssymb,amsmath}
 \usepackage{multicol}
@@ -79,6 +80,10 @@
 \renewcommand{\headrulewidth}{0pt}
 \titlespacing{\section}{0pt}{*1.5}{*1.5}
 \begin{document}
+\AtBeginShipoutNext{\AtBeginShipoutDiscard}
+\begin{minipage}{\textwidth}
+\includepdf[pages={1}]{covers/letter/cairn-bestiary-letter-front-cover.pdf}
+\end{minipage}
 \maketitle
 \thispagestyle{empty}
 \AtBeginShipoutNext{\AtBeginShipoutDiscard}
@@ -91,12 +96,13 @@
 \begin{multicols}{2}
 \tableofcontents
 \end{multicols}
+\addtocontents{toc}{\protect\thispagestyle{empty}}
+\pagenumbering{gobble}
 }
 \clearpage
 \pagenumbering{arabic} 
-\setcounter{page}{5} 
+\setcounter{page}{4} 
 \widowpenalty=10000
 \clubpenalty=10000
 
 % Keep Some Distance
-
