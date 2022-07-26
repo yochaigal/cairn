@@ -50,6 +50,7 @@
   hidelinks,
   pdfcreator={LaTeX via pandoc}}
 \urlstyle{same} % disable monospaced font for URLs
+\usepackage[papersize={8.25in,11.75in},margin=.5in]{geometry}
 \setlength{\emergencystretch}{3em} % prevent overfull lines
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
@@ -83,7 +84,6 @@
 \begin{minipage}{\textwidth}
 \includepdf[pages={1}]{covers/a4/cairn-bestiary-a4-front-cover.pdf}
 \end{minipage}
-\AtBeginShipoutNext{\AtBeginShipoutDiscard}
 \AtEndDocument{\includepdf[pages={1}]{covers/a4/cairn-bestiary-a4-back-cover.pdf}}
 \maketitle
 \thispagestyle{empty}
@@ -107,4 +107,3 @@
 \clubpenalty=10000
 
 % Keep Some Distance
-

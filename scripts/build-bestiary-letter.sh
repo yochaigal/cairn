@@ -14,6 +14,4 @@ cat $tmpdir/cairn-bestiary-tmp.tex >> $tmpdir/cairn-bestiary.tex
 sed -i '$a \\\end{document}' $tmpdir/cairn-bestiary.tex
 pdflatex -aux-directory=$tmpdir -output-directory=$tmpdir $tmpdir/cairn-bestiary.tex 
 pdflatex -aux-directory=$tmpdir -output-directory=$tmpdir $tmpdir/cairn-bestiary.tex
-#pdfbook2 --paper=letter -s $tmpdir/cairn-bestiary-letter.pdf
-#pdftk "$scriptdir/covers/letter/cairn-bestiary-letter-covers-landscape.pdf" $tmpdir/cairn-bestiary-letter-book.pdf cat output "$destdir/cairn-bestiary-letter-booklet.pdf"
-#rm -rf $tmpdir
+rm -rf $tmpdir

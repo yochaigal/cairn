@@ -15,7 +15,4 @@ sed -i '$a \\\end{document}' $tmpdir/cairn-bestiary.tex
 pdflatex -aux-directory=$tmpdir -output-directory=$tmpdir $tmpdir/cairn-bestiary.tex 
 pdflatex -aux-directory=$tmpdir -output-directory=$tmpdir $tmpdir/cairn-bestiary.tex
 mv $tmpdir/cairn-bestiary.pdf $tmpdir/cairn-bestiary-a4.pdf
-pdftk "$scriptdir/covers/a4/cairn-bestiary-a4-front-cover.pdf" $tmpdir/cairn-bestiary-a4.pdf "$scriptdir/covers/a4/cairn-bestiary-a4-back-cover.pdf" cat output "$destdir/cairn-bestiary-a4.pdf"
-pdfbook2 --paper=a4 -s $tmpdir/cairn-bestiary-a4.pdf
-pdftk "$scriptdir/covers/a4/cairn-bestiary-a4-covers-landscape.pdf" $tmpdir/cairn-bestiary-a4-book.pdf cat output "$destdir/cairn-bestiary-a4-booklet.pdf"
 rm -rf $tmpdir
