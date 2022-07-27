@@ -1,4 +1,5 @@
 #!/bin/bash
+# Builds a statement copy + booklet (in Letter)
 scriptdir="/home/yochai/github/cairn/scripts"
 sourcedir="/home/yochai/github/cairn/resources/monsters"
 tmpdir="/home/yochai/Downloads/tmp"
