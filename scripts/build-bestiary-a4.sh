@@ -14,5 +14,5 @@ cat $tmpdir/cairn-bestiary-tmp.tex >> $tmpdir/cairn-bestiary.tex
 sed -i '$a \\\end{document}' $tmpdir/cairn-bestiary.tex
 pdflatex -aux-directory=$tmpdir -output-directory=$tmpdir $tmpdir/cairn-bestiary.tex 
 pdflatex -aux-directory=$tmpdir -output-directory=$tmpdir $tmpdir/cairn-bestiary.tex
-mv $tmpdir/cairn-bestiary.pdf $tmpdir/cairn-bestiary-a4.pdf
+mv $tmpdir/cairn-bestiary.pdf "$destdir/cairn-bestiary-a4.pdf"
 rm -rf $tmpdir
