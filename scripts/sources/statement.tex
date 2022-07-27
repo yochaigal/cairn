@@ -80,8 +80,8 @@
 \renewcommand{\headrulewidth}{0pt}
 \titlespacing{\section}{0pt}{*1.5}{*1.5}
 \begin{document}
-\AtBeginShipoutNext{\AtBeginShipoutDiscard}
 \begin{minipage}{\textwidth}
+\AtBeginShipoutNext{\AtBeginShipoutDiscard}
 \includepdf[pages={1}]{covers/statement/cairn-bestiary-statement-front-cover.pdf}
 \end{minipage}
 \AtEndDocument{\includepdf[pages={1}]{covers/statement/cairn-bestiary-statement-back-cover.pdf}}
@@ -102,8 +102,9 @@
 }
 \clearpage
 \pagenumbering{arabic} 
-\setcounter{page}{5} 
+\setcounter{page}{5}
 \widowpenalty=10000
 \clubpenalty=10000
+\shipout\null
 
 % Keep Some Distance
