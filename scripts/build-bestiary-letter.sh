@@ -1,5 +1,4 @@
 #!/bin/bash
-# This creates the interior files for the lulu print option
 scriptdir="/home/yochai/github/cairn/scripts"
 sourcedir="/home/yochai/github/cairn/resources/monsters"
 tmpdir="/home/yochai/Downloads/tmp"
