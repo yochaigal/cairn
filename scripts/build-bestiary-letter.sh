@@ -11,7 +11,7 @@ cp sources/letter.tex $tmpdir/cairn-bestiary.tex
 pandoc $tmpdir/cairn-bestiary-tmp.md -f markdown -t latex -o $tmpdir/cairn-bestiary-tmp.tex
 cat $tmpdir/cairn-bestiary-tmp.tex >> $tmpdir/cairn-bestiary.tex
 sed -i '$a \\\end{document}' $tmpdir/cairn-bestiary.tex
-pdflatex -aux-directory=$tmpdir -output-directory=$tmpdir $tmpdir/cairn-bestiary.tex 
-pdflatex -aux-directory=$tmpdir -output-directory=$tmpdir $tmpdir/cairn-bestiary.tex
-mv $tmpdir/cairn-bestiary.pdf "$destdir/cairn-bestiary-letter.pdf"
-rm -rf $tmpdir
+pdflatex -output-directory=$tmpdir $tmpdir/cairn-bestiary.tex 
+pdflatex -output-directory=$tmpdir $tmpdir/cairn-bestiary.tex
+#mv $tmpdir/cairn-bestiary.pdf "$destdir/cairn-bestiary-letter.pdf"
+#rm -rf $tmpdir
