@@ -14,7 +14,7 @@ sed -i '$a \newpage\null\thispagestyle{empty}\newpage' $tmpdir/cairn-bestiary.te
 sed -i '$a \\\end{document}' $tmpdir/cairn-bestiary.tex
 pdflatex -output-directory=$tmpdir $tmpdir/cairn-bestiary.tex 
 pdflatex -output-directory=$tmpdir $tmpdir/cairn-bestiary.tex
-pdfjam --a5paper --booklet true --landscape --noautoscale true $tmpdir/cairn-bestiary.pdf -o $tmpdir/cairn-bestiary-booklet.pdf --preamble '\usepackage{everyshi} \makeatletter \EveryShipout{\ifodd\c@page\pdfpageattr{/Rotate 180}\fi} \makeatother'
+pdfjam --a5paper --booklet true --landscape $tmpdir/cairn-bestiary.pdf -o $tmpdir/cairn-bestiary-booklet.pdf --preamble '\usepackage{everyshi} \makeatletter \EveryShipout{\ifodd\c@page\pdfpageattr{/Rotate 180}\fi} \makeatother'
 mv $tmpdir/cairn-bestiary.pdf "$destdir/cairn-bestiary-a5.pdf"
 mv $tmpdir/cairn-bestiary-booklet.pdf "$destdir/cairn-bestiary-a5-booklet.pdf"
 rm -rf $tmpdir
