@@ -7,7 +7,7 @@ nav_order: 8
 
 # Monsters (Other Formats)
 
-### A print-on-demand bestiary is now available from [Lulu](https://www.lulu.com/shop/yochai-gal-and-flacoalto-/cairn-bestiary/paperback/product-gmgjkz.html), thanks to FlacoAlto! 
+### A print-on-demand bestiary is now available from [Lulu](https://www.lulu.com/shop/yochai-gal-and-flacoalto-/cairn-bestiary/paperback/product-gmgjkz.html)!
 
 ## Other Downloads 
 
@@ -15,7 +15,10 @@ nav_order: 8
 - Compiled Monsters in [Letter Format](https://drive.google.com/file/d/1x4YwsTsJBWdKYjSvNYiKsECFmuQ3xxVw/view?usp=sharing)
 - Compiled Monsters Booklet in [Letter Format](https://drive.google.com/file/d/1hRpfj1hHSw96GoYf5k-oJHlaeOIpL7yS/view?usp=sharing)
 - Compiled Monsters in [A4 Format](https://drive.google.com/file/d/1jzNj7DQFrmfwvOa2HNaba7onAg0lIicF/view?usp=sharing)
-- Compiled Monsters Booklet in [A4 Format](https://drive.google.com/file/d/1eCdl70tA9RIM3wsKWfZXPFpFkrN8U7CP/view?usp=drivesdk)
+- Compiled Monsters Booklet in [A5 Format](https://drive.google.com/file/d/1zlu6KnGvMzP-tiFfN2uGSrbndZzT43pJ/view?usp=sharing)
+
+#### How to Print Booklets
+Print landscape, double-sided, short-side.
 
 ### Monster Cards
 - Individual [Monster Cards](https://drive.google.com/drive/folders/1CCIETDQwb_4Sy0mN5WB49f8l_nwdDPpC?usp=sharing)
