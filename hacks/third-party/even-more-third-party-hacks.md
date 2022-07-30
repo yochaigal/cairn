@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Third Party Hacks
+title: Even More Third Party Hacks
 parent: Third Party
 grand_parent: Hacks
+nav_order: 20
 ---
 
 # Even More Third Party Hacks
