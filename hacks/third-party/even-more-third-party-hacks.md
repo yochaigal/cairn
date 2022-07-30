@@ -5,7 +5,7 @@ parent: Third Party
 grand_parent: Hacks
 ---
 
-# Third Party Hacks
+# Even More Third Party Hacks
 
 ## Complete Hacks
 * [**Almaia**](https://1d6gnolls.itch.io/almaia)
@@ -14,7 +14,7 @@ grand_parent: Hacks
 * [**Liminal Horror**](https://goblinarchives.itch.io/liminal-horror)
 * [**Mangayaw**](https://mangayaw.carrd.co) by [Goobernuts](https://goobernutsblog.wordpress.com/)
 * [**Meteor**](https://discourse.rpgcauldron.com/t/meteor-corporate-sci-fi-cairn-hack-updated-to-version-0-2/729)
-* [**Monolith)](https://adamhensley.itch.io/monolith)
+* [**Monolith**)](https://adamhensley.itch.io/monolith)
 * [**NEANDERTAL**](https://natetreme.com/blog/neandertal)
 * [**Plerion**](https://plerion.zeruhur.space/)
 * [**Runecairn**](https://byodinsbeardrpg.itch.io/runecairn)
