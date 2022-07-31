@@ -14,7 +14,7 @@ title: Barrow of the Elf King
 - As written.
 
 ## 2. The Tunnel of Retainers
-- As written.
+- DEX save or take 3d6 STR damage (minus Armor).
 
 ## 3. The Grave Slab
 ### Elf King
