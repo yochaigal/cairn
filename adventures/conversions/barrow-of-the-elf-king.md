@@ -64,7 +64,7 @@ title: Barrow of the Elf King
 - Critical damage: Drinks target's blood and heals 1d6 STR.
 
 ## 8. The Tapestry
-- As written.
+- Each PC carrying the tapestry is reduced to 0 HP while carrying the tapestry.
 
 ## 9. Treasure Well 
 - As written.
