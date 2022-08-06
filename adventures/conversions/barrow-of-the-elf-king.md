@@ -7,7 +7,8 @@ title: Barrow of the Elf King
 
 # Barrow of the Elf King
 - Based on the [original adventure](https://natetreme.itch.io/botek) by [Highland Paranormal Society](https://www.dungeonresearch.com/), written for [The Vanilla Game](https://vanillagame.carrd.co) by [Jared Sinclair](https://jaredsinclair.neocities.org).
-- For a PDF "slip-in" of the conversion, see [here](https://drive.google.com/file/d/1GbMxkcxZCgVizlcQqbXPtJD0g9x_yTLb/view?usp=sharing)
+- For a PDF "slip-in" of the conversion, see [here](https://drive.google.com/file/d/1GbMxkcxZCgVizlcQqbXPtJD0g9x_yTLb/view?usp=sharing).
+- If you'd prefer to watch a video (with commentary) of Yochai Gal running the adventure, click [here](https://www.youtube.com/watch?v=e3N4pqHIEwQ).
 
 
 ## 1. The Fallen Cairn
