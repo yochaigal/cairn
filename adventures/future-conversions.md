@@ -46,7 +46,6 @@ The following is a list of planned conversions. If you'd like to help out, pick 
 * [Night Land](https://www.drivethrurpg.com/product/364204/Night-Land)
 * [Night Yeast](https://nightyeast.bigcartel.com/)
 * [Ominous Crypt of the Blood Moss](https://www.drivethrurpg.com/product/319604/Ominous-Crypt-of-the-Blood-Moss)
-* [Prison of the Hated Pretender](https://www.drivethrurpg.com/product/333389/Prison-of-the-Hated-Pretender)
 * [Scenic Dunsmouth](https://www.drivethrurpg.com/product/127039/Scenic-Dunnsmouth)
 * [Slumbering Ursine Dunes](https://www.drivethrurpg.com/product/140450/Slumbering-Ursine-Dunes)
 * [Stonehell: Down Night-Haunted Halls](https://www.lulu.com/en/us/shop/michael-curtis/stonehell-dungeon-down-night-haunted-halls-ebook/ebook/product-1nq5eywz.html)
