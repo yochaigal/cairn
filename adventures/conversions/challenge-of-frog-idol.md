@@ -11,17 +11,17 @@ Conversion by Sam Wallace
 
 # Monsters
 
-**Living Statue, Alabaster**
+## Living Statue, Alabaster
 
-2 Armor, 4 HP, 8 STR, 6 DEX, 6 WIL, Fists (d8 + d8), a Spellbook (choose: Blessing, Curse Unlife, Light Show)
+2 Armor, 4 HP, 10 STR, 6 DEX, 6 WIL, Fists (d8 + d8), a Spellbook (choose: Blessing, Curse Unlife, Light Show)
 
  - Living statues made of alabaster
  - attended to by lizard men
  - can cast some spells
 
-## Causeway Encounters
+# Causeway Encounters
 
-**Bandits**
+## Bandits
 
 (As from Cairn Bestiary)
 
@@ -31,7 +31,7 @@ Conversion by Sam Wallace
  - Use disguises, stealth, and trickery to surprise victims.
 
 
-**Troglodytes**
+## Troglodytes
 
 (As from Cairn Bestiary)
 
@@ -42,7 +42,7 @@ Conversion by Sam Wallace
  -  Emits an oil with a nauseating stench from its pores.
 
  
-**Lizard Men**
+## Lizard Men
 
 (As from Cairn Bestiary)
 
@@ -53,7 +53,7 @@ Conversion by Sam Wallace
  - Carnivorous, hunt other humanoids, whose flesh they regard as a delicacy.
 
 
-**Zombie**
+## Zombie
 
 (As from Cairn Bestiary)
 
@@ -64,10 +64,10 @@ Conversion by Sam Wallace
  - Immune to mind altering effects.
 
 
-## Swamp Encounters
+# Swamp Encounters
 
 
-**Dryad**
+## Dryad
 
 (As from Cairn Bestiary)
 
@@ -77,7 +77,7 @@ Conversion by Sam Wallace
  - Spiritually bound with a tree, may disappear by joining with the tree again. Can’t go too far away from it and dies if the tree is destroyed.
  - Charm strangers that come near. Charmed creatures mindlessly walk into the tree, disappearing forever if not rescued quickly.
 
-**Large Crocodile**
+## Large Crocodile
 
 (As from Cairn Bestiary)
 
@@ -87,25 +87,25 @@ Conversion by Sam Wallace
  -  Attracted to the scent of blood or heavy movement in the water.
  -  Swim silently just under the surface to ambush victims.
 
-**Insect Swarms**
+## Insect Swarms
 
 2 HP, 4 STR, 11 DEX, 3 WIL, bite (d4)
 
  - a huge cloud of bugs
  - surrounds a single person or a closely knit group
  
-**Giant Leeches**
+## Giant Leeches
 
 2 HP, 14 STR, 14 Dex, 5 WIL, Blood drain (d6)
 
  - A big blood-sucking worm thing
  - latches onto a person and doesn't let go
  
-**Lizard Men**
+## Lizard Men
 
 (As above)
 
-**Giant Catfish**
+## Giant Catfish
 
 (As from Cairn Bestiary)
 
@@ -114,12 +114,12 @@ Conversion by Sam Wallace
 - Pale, 15’ long fish that lurk in the mud at the bottom of lakes and rivers.
 - Attack creatures that swim above their hiding spot.
  
-**Troglodytes**
+## Troglodytes
 
 (As above)
 
 
-**Crocodiles**
+## Crocodiles
 
 (From Cairn Bestiary)
 
@@ -130,7 +130,7 @@ Conversion by Sam Wallace
  - Swim silently just under the surface to ambush victims
  
  
-**Trolls**
+## Trolls
 
 (From Cairn Bestiary)
 
@@ -140,14 +140,14 @@ Conversion by Sam Wallace
  - Fire and acid damage received is enhanced, and stop's a troll regeneration. When attacked with either of those, the troll fails all morale checks.
  - Regains 3 HP per round, and even severed limbs are reattached. If killed, will regenerate and fight again in 2d6 minutes.
  
-**Draco Lizards**
+## Draco Lizards
 
 4 HP, 1 Armor, 12 STR, 14 DEX, 10 WIL, bite (d10)
 
  - oversized dog-like lizards
  - covered in sharp scales
  
-**Treant**
+## Treant
 
 (From Cairn Bestiary)
 
@@ -160,7 +160,7 @@ Conversion by Sam Wallace
 
 # The Zombie Float
 
-**Zombie Master**
+## Zombie Master
 
 8 HP, 1 Armor, 14 STR, 8 DEX, 12 WIL, bone staff (d6+d6)
 
@@ -169,9 +169,9 @@ Conversion by Sam Wallace
  - looks more zombie than human
  
 
-## The Undead Dungeon
+# The Undead Dungeon
 
-**Wolf Ghoul**
+## Wolf Ghoul
 
 6 HP, 11 STR, 14 DEX, 3 WIL, elongated claws (d6), jagged teeth (d8)
 
@@ -179,7 +179,7 @@ Conversion by Sam Wallace
  - Will howl to alert others
  
  
-**Wight**
+## Wight
 
 5 HP, 12 STR, 13 DEX, 9 WIL, life drain (d8)
 
@@ -187,7 +187,7 @@ Conversion by Sam Wallace
  - intent on their order: guard the iron rose
  
  
-**Giant Catfish Zombies**
+## Giant Catfish Zombies
 
 10 HP, 16 STR, 10 DEX, 5 WIL, bite (d8+d8)
 
@@ -197,7 +197,7 @@ Conversion by Sam Wallace
  
 # Labyrinth of the Rains
 
-**Throgrin**
+## Throgrin
 
 6 HP, 2 Armor, 14 STR, 12 DEX, 10 WIL, javelin (d6)
 
@@ -209,4 +209,52 @@ Conversion by Sam Wallace
 
 3 HP, 15 STR, 12 DEX, 16 WIL, tentacle (1d6)
 
- - 
+ - A bulbous disgusting lump of flesh with tentacles
+ - Can attack up to 9 targets
+ - Once it hits, it can constrict on next turn, ignoring up to 1 armor
+ 
+ 
+# Fortress on the Ironflow
+
+## Ogre (Use for Durgal and Rock)
+
+(As from Cairn Bestiary)
+
+6 HP, 1 Armor, 15 STR, 8 DEX, 8 WIL, club (d10)
+
+ - 10’ tall brute humanoids dressed in animal hides. Mostly dwell in caves.
+ - Carry sacks full of gold and riches with them.
+
+
+## Lizard Men
+
+(As above)
+
+## Giant Gecko Lizards
+
+4 HP, 10 STR, 14 DEX, 8 WIL, bite (d8)
+
+ - 10' long pale lizard
+ - sticks to the walls
+ 
+## Horned Chameleon Lizard
+
+5 HP, 1 Armor, 14 STR, 10 DEX, 8 WIL, bite (d4+d4)
+
+ - Big lizard that can change color
+ - moves slowly as not to be seen
+ 
+## Giant Oil Beetles
+
+5 HP, 2 Armor, 10 STR, 10 DEX, 12 WIL, pincers (d6)
+
+ - Pony-sized beetle with a tough carapace
+ - can spray a sticky oil
+ 
+## Giant Bat
+
+3 HP, 10 STR, 14 DEX, 10 WIL, bite (d4)
+
+ - a bat with the wingspan of an eagle
+ - drops lots of guano
+
