@@ -194,6 +194,23 @@ Conversion by Sam Wallace
  - created by the zombie master
  - go beserk without their creator
  
+# Nixie Pool
+
+## Nixie
+
+3 HP, 8 STR, 12 DEX, 16 WIL, slap (d4)
+
+ - humanoid shape-shifting water spirits
+ - can summon *Giant Bass* 1/nixie
+ - 10 nixies can cast *Charm* once per round against one target
+ 
+## Giant Bass
+
+3 HP, 10 STR, 12 DEX, 10 WIL, bite (1d6)
+
+ - 10' long with a large mouth
+ - 
+
  
 # Labyrinth of the Rains
 
