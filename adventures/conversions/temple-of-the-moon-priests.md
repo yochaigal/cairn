@@ -8,8 +8,8 @@ redirect_from: /resources/adventure-conversions/temple-of-the-moon-priests/
 
 # Temple of the Moon Priests
 
- - Converted from the original adventure by [Will Doyle and Stacey Allan](https://www.drivethrurpg.com/product/310492/Temple-of-the-Moon-Priests).
-- Conversion by [xenio](https://xenioinabottle.blogspot.com).
+- Based on the original [adventure](https://www.drivethrurpg.com/product/310492/Temple-of-the-Moon-Priests) by [Will Doyle and Stacey Allan](https://beholderpie.blogspot.com/2017/04/one-page-dungeon-2017-temple-of-moon.html).
+- Conversion by [xenio](https://xenioinabottle.blogspot.com), from the [_Annotated Temple of the Moon Priests_](https://dismastersden.blogspot.com/2020/01/annotated-temple-of-moon-priests.html)  by Dismaster FraNe.
 
 ### Moon Hag
 
