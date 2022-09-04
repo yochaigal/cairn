@@ -9,5 +9,5 @@ grand_parent: Resources
 5 HP, 12 STR, 12 DEX, 11 WIL, bite (d10), claws (d6+d6)
 
 - Hunts in a pride of at least 4. Lives in the savannahs or other similarly dry lands.
-- Carnivorous. Only hunts humans if hungry or has a clear advantage.
+- Carnivorous. Only hunts humans if desperatly hungry or in clear advantage.
 - **Blood-sense**: Can follow bleeding prey over great distances. 
