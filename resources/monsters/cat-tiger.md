@@ -6,7 +6,7 @@ grand_parent: Resources
 
 # Cat, Tiger
 
-6 HP, 14 STR, 14 DEX, bite (d8)
+6 HP, 14 STR, 14 DEX, 6 WIL, bite (d8), claws (d6+d6)
 
-- Large, with striped fur.   Live in woodlands and colder regions.
-- Hunt alone, using their coloration to camouflage and surprise their victims.
+- Striped, solitary felines. Lives in woodlands and in colder regions.
+- Uses camouflage and stealth to hunt and surprise their victims.

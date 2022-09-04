@@ -6,7 +6,8 @@ grand_parent: Resources
 
 # Catoblepas
 
-7 HP, 13 STR, tail(d8)
+7 HP, 1 Armor, 16 STR, 9 DEX, 13 WIL, tail(d8)
 
-- Monstrous creatures with a long, bony tail, a bloated body, short and stumpy legs, a long neck, and a boar-like head.   Dwell in swamps.
-- Critical damage: the tail renders the victim stunned (d8 DEX damage).
+- A monstrous creature with the body of a Cape buffalo, scales on its back, and the head of a wild boar. Its enormous head always points towards te ground.
+- **Paralyze**: Its stare turns a single target to stone. The moon's light renders the reverses the effect.   
+

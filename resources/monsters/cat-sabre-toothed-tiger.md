@@ -6,7 +6,7 @@ grand_parent: Resources
 
 # Cat, Sabre-Toothed Tiger
 
-8 HP, STR 15, bite (d10)
+8 HP, STR 15, 14 DEX, 3 WIL, bite (d12), claws (d6+d6)
 
-- Huge, aggressive cats with foot-long fangs.
+- Huge, primeval cats with enormous fangs.
 - Extremely rare, generally found in regions untouched by civilization.
