@@ -101,10 +101,10 @@ grand_parent: Adventures
 3 HP, 1 Armor, 9 STR, 11 DEX, 15 WIL, 1 weapon (d6)
 
 ## The Dragon
-8 HP, 3 Armor, 18 STR, 16 DEX, 18 WIL, venom or breath (d12, _blast_), _detachment_
+8 HP, 3 Armor, 18 STR, 16 DEX, 18 WIL, venomous bite (d12) or breath (d12, _blast_), _detachment_
 - Scales of Glistening Black: Immune to normal weapons except for eyes & mouth.
 - Jaws Dripping with Poison: On critical damage, target loses an additional d6 STR.
-- Throat Full of Brimstone: Dragon's breath is explosive.
+- Throat Full of Brimstone: on critical damage, the dragon's breath explodes.
 
 ## Stream
 ### Nixie Traders
