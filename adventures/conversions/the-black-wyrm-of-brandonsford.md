@@ -13,10 +13,10 @@ grand_parent: Adventures
 ## The Town of Brandonsford
 
 ### Lady Hilda
-8 HP, 3 Armor, 11 STR, 12 DEX, 16 WIL, sword (d8), dagger (d6)
+8 HP, 3 Armor, 15 STR, 9 DEX, 16 WIL, sword (d8), dagger (d6)
 
 ### Malzazerick the Magnificent
-4 HP, 12 STR, 11 DEX, 15 WIL, dagger (1d6), Spells: _Read Magic_, _Charm Person_, _Magic Missile_
+4 HP, 11 STR, 11 DEX, 16 WIL, dagger (1d6), Spells: _Read Magic_, _Charm Person_, _Magic Missile_
 - _Read Magic_: Decipher magical runes, inscriptions or language.
 - _Charm Person_: See [_Charm_](/cairn-srd/#charm).
 - _Magic Missile_: See [_Arcane Arrow_](/resources/more-spellbooks/#arcane-arrow).
