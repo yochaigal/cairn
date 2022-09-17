@@ -65,3 +65,11 @@ redirect_from: /resources/adventure-conversions/tomb-of-the-serpent-kings/
 - Sees illusions, thinks its amusing to pretend it's there
 - Can optionally ignore spells, might be curious to its effects, however, in which case he doesn't. He can reflect spells at will.
 - Cannot die
+
+#### Basilisk
+
+12 HP, 2 Armor, 15 STR, 8 WIL, charge snap (d10, _blast_), frenzy (d6+d6), tail strike (d10)  
+
+##### Basilisk Stare
+- Stage One: A PC meeting the Basilisk’s gaze is frozen in place, and their HP becomes 0. On the target's next turn they must pass a WIL save to escape petrification. 
+- Stage Two: If the Basilisk stares at a frozen target for a second time, they begin to turn to stone. They must save against WIL on their next turn or turn into a statue forever.
