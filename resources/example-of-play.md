@@ -8,6 +8,9 @@ nav_order: 2
 # Example of Play
 ---
 
+## Note
+For a live "actual play" of Cairn (with Warden commentary), please see [here](https://www.youtube.com/watch?v=e3N4pqHIEwQ).
+
 **Keep the following in mind:**  
 - **Esther** is playing an ex-**Herbalist**.
 - **Barry** plays a former **Hunter**.
