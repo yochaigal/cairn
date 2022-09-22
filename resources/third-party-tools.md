@@ -18,6 +18,8 @@ parent: Resources
 - [108 Level-less Spells](https://dreamingdragonslayer.itch.io/108-level-less-spells-d366)
 - [Mausritter Item Creation Tools](https://mausritter.com/item-card-studio/)
 - [Caers & Crannogs Zine](https://manarampmatt.itch.io/caers-crannogs-issue-1)
+- [d100 Potential Spell Recharge Conditions](https://blog.d4caltrops.com/2022/09/d100-potential-spell-recharge-conditions.html)
+- [Extra Stones](https://github.com/seedlinggames/extra-stones/blob/main/trinkets.md)
 
 ## Itch Collections
 - [Cairn Adventures](https://itch.io/c/1352509/cairn-adventures)
