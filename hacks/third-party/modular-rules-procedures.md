@@ -28,16 +28,13 @@ parent: Third Party
 A dungeon turn is approximately 10 minutes. Dungeon exploration can be turned into a subsystem of managing resources, making strategic decisions, and structuring the dungeon crawl into a sort of mini-game. There is an element of pushing your luck as you spend more time searching, checking for hidden things, and lingering in dangerous locations. Time spent always has a cost, and that cost is provoking an encounter roll. These encounters can involve running into monsters, but can also challenge or reward the party in other ways. 
 
 ### Sequence of Player Per Turn 
-**1. Encounter Roll:** GM makes a d6 loaded encounter roll once every few dungeon turns, or at their discretion. 
-**2. Actions:** The party decides what action to take. (e.g. moving, searching, listening, entering or exiting rooms). 
-**3. Description:** GM describes & resolves what happens. If encounters were rolled, they happen here. If (1) was rolled on the encounter die, make a reaction roll and proceed from there. 
+**1. Encounter Roll:** GM makes a d6 loaded encounter roll once every few dungeon turns, or at their discretion.  
+**2. Actions:** The party decides what action to take. (e.g. moving, searching, listening, entering or exiting rooms).   
+**3. Description:** GM describes & resolves what happens. If encounters were rolled, they happen here. If (1) was rolled on the encounter die, make a reaction roll and proceed from there.   
 **4. End of turn:** GM updates time, and management of light, food, need to rest, or any sort of usage dice rolls can be made. 
 
 ### Dungeon Turn Movement 
-- Players can move **carefully** about 200 ft. in a 10 minute turn. 
-- Players moving carefully spot signs of all traps. Traps should be designed to be disarmed or subverted with ingenuity and creative thinking using common sense and inventory. 
-- Players can quickly move 600 ft. in a 10-minute turn. 
-- Players moving **quickly** may get a chance to roll under WIL to notice a trap (GM discretion). Otherwise, they may trigger a trap if it is concealed (usually 1-2 on a d6, adjust as necessary for trap deadliness)
+Players can move **carefully** about 200 ft. in a 10 minute turn.  Players moving carefully spot signs of all traps. Traps should be designed to be disarmed or subverted with ingenuity and creative thinking using common sense and inventory. Players can quickly move 600 ft. in a 10-minute turn. Players moving **quickly** may get a chance to roll under WIL to notice a trap (GM discretion). Otherwise, they may trigger a trap if it is concealed (usually 1-2 on a d6, adjust as necessary for trap deadliness).
 
 ### Searching
 - A quick search takes 1 minute, covers roughly a 30x30’ space, and reveals only the most obvious information.
@@ -45,14 +42,17 @@ A dungeon turn is approximately 10 minutes. Dungeon exploration can be turned in
 - You can replace 30x30 with small, medium, and large rooms, and require additional turns to complete a detailed search.
 
 ### Loaded Encounter Roll 
-Roll a d6 encounter dice every 2 or 3 rounds (at your discretion, adjust as needed) or when players make noise. Only a roll of 1 will result in an encounter, and they won’t always be hostile. Roll the reaction dice to see their disposition, and remember that they’re already doing something. Optionally, you can roll non-loaded encounters with only and encounter occurring on a roll of 1, while nothing else happens otherwise.
+- Roll a d6 encounter dice every 2 or 3 rounds (at your discretion, adjust as needed) or when players make noise. 
+- Only a roll of 1 will result in an encounter, and they won’t always be hostile. 
+- Roll the reaction dice to see their disposition, and remember that they’re already doing something. 
+- Optionally, you can roll non-loaded encounters with only and encounter occurring on a roll of 1, while nothing else happens otherwise.
 
-**1. Encounter** (roll on encounter table or choose, roll reactions + wants)
-**2. Sign** (Clue, “spoor”, track, abandoned lair, scent, victim, droppings, etc.)
-**3.  Locality** (context-dependent timer, water rising, ritual completing, The party's surroundings shift or escalate in some way.)
-**4. Exhaustion** (rest next round or deprived)
-**5. Expiration** (Ongoing effects end, light usage roll, resource usage, bellies rumble.)
-**6. Discovery or Treasure** (The party finds something interesting and possibly beneficial.)
+**1. Encounter** (roll on encounter table or choose, roll reactions + wants)  
+**2. Sign** (Clue, “spoor”, track, abandoned lair, scent, victim, droppings, etc.)  
+**3.  Locality** (context-dependent timer, water rising, ritual completing, The party's surroundings shift or escalate in some way.)  
+**4. Exhaustion** (rest next round or deprived)  
+**5. Expiration** (Ongoing effects end, light usage roll, resource usage, bellies rumble.)  
+**6. Discovery or Treasure** (The party finds something interesting and possibly beneficial.)  
 
 ### Light 
 Torches, lanterns, and other radial sources of light illuminate 40’ clearly and provide dim outlines and shadows for a further 40’. In the dark, light sources are visible miles away. Standard torches will last about 6 turns, or 1 hour, before they burn out.
@@ -69,20 +69,20 @@ Each hex represents 6 miles. An adventuring day is divided into 6 turns of appro
 The party may choose one of the following standard actions each
 4-hour wilderness turn.
 
-- **Travel:** Exiting a hex and moving into an adjacent one.
-- **Roads:** The party travels through two tiles (three if mounted).
-- **Standard Terrain:** 1 tile is traversed.
-- **Difficult Terrain:** ½ tile is traversed. (requires 8 hours, or 2 turns)
-- **Treacherous Terrain:** ¼ tile is traversed. (requires 16 hours, or 4 turns) 
-- **Getting Lost:** There is a 1-in-6 chance, when traveling off-road, of getting lost. This is increased to 2-in-6 in tiles classified as difficult or treacherous. An experienced woodsman or explorer decreases the chance of getting lost by 1-in-6.
-- **Off-Course:** When lost, assign a number to each adjacent tile starting from the top (north) as 1, continuing clockwise. Roll 1d6 and move the players one tile off-course that direction. 
--  **Reorientation:** If players get lost, they will need to spend the next turn reorienting themselves.
-- **Weather:** Adverse weather can optionally increase the chances of getting lost or the difficulty of the terrain. 
-- **Explore:** Looking for interesting features within a hex. There is a 4-in-6 chance of discovering the main location in the hex description. Difficult terrain reduces this to 3-in-6. An experienced woodsman increases the chance by 1-in-6.
-- **Locate:** Looking for something which was previously encountered in a hex. The basic chance is 5-in-6 or 4-in-6 in difficult terrain. An experienced woodsman, tracker, or navigator increases the chance by 1-in-6.
-- **Interact:** Staying in the current location (e.g. exploring a dungeon, town, etc).
-- **Camp:** Resting and/or sleeping.
-- **Forage:** Hunt, fish, or forage for food. There is a basic 3-in-6 chance of success. An experienced hunter, angler, or woodsman increases the chance.
+- **Travel:** Exiting a hex and moving into an adjacent one.  
+- **Roads:** The party travels through two tiles (three if mounted).  
+- **Standard Terrain:** 1 tile is traversed.  
+- **Difficult Terrain:** ½ tile is traversed. (requires 8 hours, or 2 turns)  
+- **Treacherous Terrain:** ¼ tile is traversed. (requires 16 hours, or 4 turns)   
+- **Getting Lost:** There is a 1-in-6 chance, when traveling off-road, of getting lost. This is increased to 2-in-6 in tiles classified as difficult or treacherous. An experienced woodsman or explorer decreases the chance of getting lost by 1-in-6.  
+- **Off-Course:** When lost, assign a number to each adjacent tile starting from the top (north) as 1, continuing clockwise. Roll 1d6 and move the players one tile off-course that direction.   
+-  **Reorientation:** If players get lost, they will need to spend the next turn reorienting themselves.  
+- **Weather:** Adverse weather can optionally increase the chances of getting lost or the difficulty of the terrain.   
+- **Explore:** Looking for interesting features within a hex. There is a 4-in-6 chance of discovering the main location in the hex description. Difficult terrain reduces this to 3-in-6. An experienced woodsman increases the chance by 1-in-6.  
+- **Locate:** Looking for something which was previously encountered in a hex. The basic chance is 5-in-6 or 4-in-6 in difficult terrain. An experienced woodsman, tracker, or navigator increases the chance by 1-in-6.  
+- **Interact:** Staying in the current location (e.g. exploring a dungeon, town, etc).  
+- **Camp:** Resting and/or sleeping.  
+- **Forage:** Hunt, fish, or forage for food. There is a basic 3-in-6 chance of success. An experienced hunter, angler, or woodsman increases the chance.  
 
 ### Event Roll 
 The GM rolls a **d6** and consults the table appropriate to the party’s location.
