@@ -12,7 +12,7 @@ title: The Bruja, the Beast, and the Barrow
 
 **Marble Eye**
 
-8 HP, 2 Armor (Eldritch Pact), 8 STR, 12 WIL, anthame (d6), evil eye, or maleficence (d8, Blast).
+8 HP, 2 Armor (Eldritch Pact), 8 STR, 12 WIL, anthame (d6), evil eye, or maleficence (d8, Blast)
 - Can cure both natural and supernatural afflictions with a day-long ritual and sufficient motivation.  
 - **Evil Eye**: Target (anyone in line of sight, or that the caster possesses the blood of) is incapacitated as their body is wracked with pain and various illnesses. Upon recovery, the target suffers 1d6 ability damage (Die of Fate - 3 and under: weakest ability score. 4 and over: player choice). This ability damage cannot be recovered through normal means.   
 - **Upon Death**: Any who strikes a killing blow against Marble Eye must make a WIL save or die as their body suffers from the rapid onset of leprosy.
