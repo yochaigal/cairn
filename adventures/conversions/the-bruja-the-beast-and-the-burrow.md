@@ -5,7 +5,7 @@ grand_parent: Adventures
 title: The Bruja, the Beast, and the Barrow
 ---
 
-# THE BRUJA, THE BEAST, AND THE BARROW
+# The Bruja, the Beast, and the Barrow
 
 - Converted from the [original work by Gus L./Ratking Productions](https://www.drivethrurpg.com/product/340873/The-Bruja-The-Beast-and-The-Barrow).
 - Converted by **Naeolin**
