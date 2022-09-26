@@ -4,7 +4,6 @@ parent: Conversions
 grand_parent: Adventures
 title: Winter's Daughter
 redirect_from: /resources/adventure-conversions/winters-daughter/
-redirect_from: /resources/adventure-conversions/winters-daughter/
 ---
 
 # Winter's Daughter
