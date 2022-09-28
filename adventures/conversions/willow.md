@@ -10,12 +10,11 @@ search_exclude: true
 # Willow
 
 - Converted from the [original work by Lazy Lich](https://www.drivethrurpg.com/product/316522/Willow).
-- Conversion by **bilingo**.
+- Conversion by **bilingo** & Yochai Gal (currently in progress).
 
 #### Shadow Weath (p. 25, single use)
 
-Effect on 1d6
-|  |  |
+|  |Effect on 1d6| |
 |-----|--------|
 | 1   | The user can’t cast spells for the rest of the day   |
 | 2   | The user cast spells normally for the next d3 hours, but takes fatigue only on 4-6 (1d6)  |
