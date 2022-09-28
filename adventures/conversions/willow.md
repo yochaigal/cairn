@@ -86,11 +86,10 @@ HP 5, STR 9, DEX 9, WIL 13.  Scorching Smoke (d8)
 
 ### Necrotic Trent (p. 29)
 HP 13, Armor 2, STR 13, DEX 6, WIL 10, 2 strikes (1d10 + 1d10 blast).
-Once a lawful guardian of the forest, this Trent was corrupted by  the influence of the Oakalisk's power. The Trent serves the
- Oakalisk, obeying its every command. It has currently been tasked with expanding the corrupted wood. Any creatures in its way will be  killed and brought to the Oakalisk to be transformed into  monstrosities
+Once a lawful guardian of the forest, this Trent was corrupted by  the influence of the Oakalisk's power. The Trent serves the Oakalisk, obeying its every command. It has currently been tasked with expanding the corrupted wood. Any creatures in its way will be  killed and brought to the Oakalisk to be transformed into monstrosities.
 - Controls trees up to 200ft
 - Necrotic Bolt: 1d10 damage. Chance of recharging once per round on a roll of 5 or 6 (1d6)
-- Take _enhanced_ from “holy/light” attacks
+- Takes _enhanced_ damage from “holy/light” attacks
 - If it is submerged in the running water of the river, it's corruption will be washed away and it will become benevolent again
 
 ### Ashen Dryad (p. 30) 
