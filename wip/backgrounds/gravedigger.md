@@ -17,15 +17,16 @@ grand_parent: WIP
 - 3d6 gold pieces
 - Three days’ rations
 - Torches (2)
+- Grave marker
+- 	
 
-## Why did you ____ leave? Roll 1d6:
-
+## What drove you from caring for the dead? Roll 1d6:
 
 |      |      |      |
 | ---- | ---- | ---- |
-| 1    |**** |      |
-| 2    |**** |      |
-| 3    |**** |      |
+| 1    |**Overburdened** |      |
+| 2    |**Intoxicated** |      |
+| 3    |**Witness** | Shadowy, inhuman figures interrupted the private burial of a wealthy noble, taking the corpse and murdering participating gentry. You were left alive to bare witness, but fled for fear of reprisal. Later, you found a **crow-shaped token** in your pocket. Squeezing it bridges the spirits of the dead. Once per day, you may ask a fresh corpse three questions, and receive answers in return. The dead do not necessarily speak the truth. |
 | 4    |**** |      |
 | 5    |**** |      |
 | 6    |**** |      |
@@ -41,3 +42,5 @@ grand_parent: WIP
 | 4    |**** |      |
 | 5    |**** |      |
 | 6    |**** |      |
+
+## Debt
