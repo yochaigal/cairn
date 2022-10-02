@@ -26,9 +26,9 @@ grand_parent: WIP
 | ---- | ---- | ---- |
 | 1    |**Overburdened** |      |
 | 2    |**Intoxicated** |      |
-| 3    |**Witness** | Shadowy, inhuman figures interrupted the private burial of a wealthy noble, taking the corpse and murdering participating gentry. You were left alive to bare witness, but fled for fear of reprisal. Later, you found a **crow-shaped token** in your pocket. Squeezing it bridges the spirits of the dead. Once per day, you may ask a fresh corpse three questions, and receive answers in return. The dead do not necessarily speak the truth. |
-| 4    |**** |      |
-| 5    |**** |      |
+| 3    |**Witness** | Shadowy, inhuman figures interrupted the private burial of a wealthy noble, taking the corpse and murdering the mourners. You were left alive to bare witness, but fled for fear of reprisal. Later, you found a **crow-shaped token** in your pocket. Once per day, you may ask a fresh corpse three questions, and receive answers in return. The dead do not necessarily speak the truth. |
+| 4    |**Marked** | You opened a forgotten crypt, releasing the long-dormant revenant trapped within. You survived, but your face was scarred, forever marking you as a pariah. Your physical form is now trapped in a state between life and death; you no longer require rations, nor do you need to breathe, but you can still be killed. You always wear a helm (1 Armor) to cover the scar, lest the living attack you on sight. The dead see you as one of their own.   |
+| 5    |**Robbed** |      |
 | 6    |**** |      |
 
 ## What keepsake did you retain?
