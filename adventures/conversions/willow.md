@@ -3,14 +3,12 @@ layout: default
 parent: Conversions
 grand_parent: Adventures
 title: Willow
-nav_exclude: true
-search_exclude: true
 ---
 
 # Willow
 
 - Converted from the [original work by Lazy Lich](https://www.drivethrurpg.com/product/316522/Willow).
-- Conversion by **bilingo** & Yochai Gal (currently in progress).
+- Conversion by **bilingo**.
 
 #### Shadow Weath (p. 25, single use)
 
