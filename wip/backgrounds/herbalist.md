@@ -44,4 +44,4 @@ redirect_from: /more-content/backgrounds/herbalist/
 | 6    | **Duda**          | A brownish root that looks almost like a tiny sleeping human. At first it fits snugly into your backpack, but comes alive when splashed with a bit of milk. Tell it where you (and only you) want to go, and suddenly you'll find yourself there. Each time it wakes it grows by a factor of two. |
 
 ## Debt
-- The party trespassed over an invisible boundary maintained by the **Wooden Dead**, a faction of benign Forest Liches. They now demand you plant a new grove of rare (and expensive) corpsewood trees. Until this debt is paid, trees and plants wilt at your touch.  
+You trespassed over an invisible boundary maintained by the **Wooden Dead**, a faction of benign Forest Liches. They now demand you plant a new grove of rare (and expensive) corpsewood trees. Until this debt is paid, trees and plants wilt at your touch.  

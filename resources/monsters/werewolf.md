@@ -6,7 +6,7 @@ grand_parent: Resources
 
 # Werewolf
 
-4 HP, 12 STR, 14 DEX, 12 WIL, claws (d4+d4) or bite (d6)
+8 HP, 15 STR, 14 DEX, 6 WIL, claws (d6+d6) or bite (d8)
 
 - Semi-intelligent, ferocious hunters.
 - Sometimes hunts in packs with regular wolves.
