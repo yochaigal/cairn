@@ -23,9 +23,9 @@ grand_parent: WIP
 |      |      |      |
 | ---- | ---- | ---- |
 | 1 | **Natural Talent** | Too many of your "patients" were reporting a complete recovery from their ailments, and your name grew famous as a result (much to your chagrin). Somehow, you were a half-decent doctor (or incredibly lucky). Obviously you had no option but to leave in search of fresh prospects. Start with bandages, ointment and a halfway decent sense of what's wrong with someone (3-in-6 chance). |  
-| 2 | **Exposed** | Flush from your latest seduction, a wealthy widow/er - you disappeared to the usual place. Unfortunately, the spurned lover and their descendents hired a reknowned criminal gang (known associates, naturally) to ambush and bring you back. Your former "friends" tied you up and beat you senseless, but failed to account for your exceptional contortionist skills. Soon you were free, but penniless. At least you still have your looks, as well your talents. You can wriggle out of nearly anything (literally, or through charm).   |
-| 3    |**** |      |
-| 4    |**** |      |
+| 2 | **Betrayal** | Flush from your latest seduction, a wealthy widow/er - you disappeared to the usual place. Unfortunately, the spurned lover and their descendents hired a reknowned criminal gang (known associates, naturally) to ambush and bring you back. Your former "friends" tied you up and beat you senseless, but failed to account for your exceptional contortionist skills. Soon you were free, but penniless. At least you still have your looks, as well your talents. You can wriggle out of nearly anything (literally, or through charm).   |
+| 3    |**Cursed** |  You can mimic another's mannerisms, voice and speech patterns perfectly, all within seconds of meeting them. You do this effortlessly, because in truth you do not feel at home in your own skin, prone to bouts of shivering, shaking, and _deprivation_ if you go more than a day without practicing your craft. In recent months it has become very difficult to maintain friendships, which often end in anger or confusion. Now, you travel through the land, looking for the cure you fear will never come. |
+| 4    |**Cursed** | They say your mother was a reknowned actor famed for her skill and . Killed in a freak stage accident when you were quite young. It seems you've inherited her talents:       |
 | 5    |**** |      |
 | 6    |**** |      |
 
