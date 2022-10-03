@@ -4,7 +4,7 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Hunting Dog
+# Dog, Hunting
 
 3 HP, 12 DEX, bite (d6)
 
