@@ -6,7 +6,8 @@ grand_parent: Resources
 
 # Crab, Giant
 
-3 HP, 3 Armor, 11 STR, 4 DEX, pincers (d8)
+6 HP, 3 Armor, 14 STR, 3 DEX, 8 WIL, pincers (d12)
 
 - Huge crustaceans that live in coastal areas and mindlessly attack anything that comes near.
-- Their heavy carapace makes them notably sturdy but slow and unable to swim.
+- Their pincers crush with enough strength to ignore any armor lesser than plate. 
+- Their heavy carapace makes them notably sturdy but equally slow.
