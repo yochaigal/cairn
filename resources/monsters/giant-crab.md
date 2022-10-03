@@ -10,4 +10,4 @@ grand_parent: Resources
 
 - Huge crustaceans that live in coastal areas and mindlessly attack anything that comes near.
 - Their pincers crush with enough strength to ignore any armor lesser than plate. 
-- Their heavy carapace makes them notably sturdy but equally slow.
+- Their heavy carapace makes them notably hardy but equally slow.
