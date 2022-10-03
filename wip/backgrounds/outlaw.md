@@ -41,3 +41,7 @@ grand_parent: WIP
 | 4    | **Fireworks**                  | You stole a crate of very moldy fireworks off of a wagon. Somewhere less than half a dozen still function, although not predictably. |
 | 5    | **Lasso of Fibs**              | When bound by this rope, the victim may not say anything that is true. |
 | 6    | **Tin Can of Partial Message** | A single word may be shouted into this tin can, and then next time someone holds it up to their ear, they hear it. Its also very strict about compound words and you almost feel like its judging you when "strawberry" gets repeated as only "berry." |
+
+
+## Extra
+| 1    |**Stiletto** | You've killed before, but only when absolutely necessary. And when it *does* happen, you prefer your victims die a clean death.   |
