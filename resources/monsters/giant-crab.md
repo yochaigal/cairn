@@ -4,7 +4,7 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Crab, Giant
+# Giant Crab
 
 6 HP, 3 Armor, 14 STR, 3 DEX, 8 WIL, pincers (d12)
 
