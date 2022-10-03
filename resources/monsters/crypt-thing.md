@@ -4,11 +4,10 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Crypt Thing
+# Crypt Guardian
 
-12 HP, 3 Armor, 8 STR, 11 DEX, 14 WIL, ethereal claws (1d8)
+12 HP, 14 WIL, ethereal claws (d8)
 
-- An animated skeleton clothed in billowing robes. Its eye sockets are hypnotically red.
-- Defenders of crypts & tombs, and will not attack if left undisturbed.
-- No armor against magical attacks.
-- Casts Teleport at will. Anyone in eyesight is teleported to a random room in the crypt.
+- An animated skeleton clothed in billowing robes. Its eye sockets are hypnotically red. Defends crypts & tombs, and will not attack if left undisturbed.
+- Non-magical attacks are impaired against it.
+- Can at will teleport a target in eyesight to a random room in the crypt.
