@@ -6,7 +6,7 @@ grand_parent: Resources
 
 # Metallic Dragon
 
-15 HP, 3 Armor, 18 STR, 13 DEX, 16 WIL, bite (d12+d10)
+15 HP, 3 Armor, 18 STR, 13 DEX, 16 WIL, bite (d12+d10), _detachment_
 
 - Majestic draconic beings with shiny metallic scales. Said to be created by a Red Dragon embraced by divine power. Feed on precious metals like gold, silver or copper, with its scales matching the metal it has eaten the most.
 - Master shapechangers, can take the form of any humanoid or animal.
