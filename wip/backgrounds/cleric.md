@@ -42,3 +42,6 @@ grand_parent: WIP
 | 4    |**Dentures of the Saint** | A small pouch of wooden teeth rumored to have been the eating implements of a notable saint. Whether or not this is true, they at least look holy to you. |
 | 5    |**Incense of the Ascended Man** | A stick of sweet smelling incense supposedly used by the famous ascetic during their meditation that led to their apotheosis. Objects around 10 coins in weight will float on the smoke of the incense hundreds of feet up, never to be seen again. |
 | 6    |**Vampire Hunting Kit, Deluxe Edition** | A lavishly polished wooden box containing cloves garlic, vials of holy water, a small mirror, 3 wooden stakes, a mallet, and a scroll containing one revocation of invitation bearing a bishop's seal. |
+
+# Debt
+The Guild of **Portents, Omens and Augurs**
