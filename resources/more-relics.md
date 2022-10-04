@@ -158,7 +158,7 @@ The following is a list of Relics from all over the web, copied with permission.
 - Can Always be pounded against the ground to make your voice amplified
 - For a Charge can be pointed at a creature with lower WIL than you who swears fealty to you indefinitely or until they witness you doing something they don’t believe in.
 - Will Never affect a Knight or anyone with a sacred vow.
-#### **Recharge**:s when you slay a nobleman or (as a noble yourself) knight someone.
+- **Recharge**:s when you slay a nobleman or (as a noble yourself) knight someone.
 
 #### Forgotten Sword-Master's Blade d8 damage, 2 charges
 - Worn and weathered blue-gray longsword imbued with the memory of an ancient sword master, renown for his ability to duel multiple opponents at once.
