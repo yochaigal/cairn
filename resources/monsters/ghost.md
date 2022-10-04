@@ -10,4 +10,4 @@ grand_parent: Resources
 
 - Incorporeal spirits of the restless dead. Avoids direct confrontation, instead it quietly posesses a target and acts through them when possible.
 - Immune to most forms of damage, only suscetible to magic and holy water. 
-- _Posession_: One target must save WIL or be posessed, being controlled by the ghost until it's somehow driven off. 
+- **Posession**: One target must save WIL or be posessed, being controlled by the ghost until it's somehow driven off. 
