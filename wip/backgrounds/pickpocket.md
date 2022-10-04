@@ -13,7 +13,7 @@ grand_parent: WIP
 
 ## Starting Gear
 
-- 3d6 gold pieces
+- 3d6gp
 - Three days’ rations
 - Torches (2)
 - Sack of doorknobs (d6)

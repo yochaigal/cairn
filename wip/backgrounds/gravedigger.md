@@ -14,7 +14,7 @@ grand_parent: WIP
 
 ## Starting Gear
 
-- 3d6 gold pieces
+- 3d6gp
 - Three days’ rations
 - Torches (2)
 - Grave stake (d6)
@@ -36,11 +36,11 @@ grand_parent: WIP
 |      |      |      |
 | ---- | ---- | ---- |
 | 1    |**Manacles** | Old, but still pretty effective, even against the very strong. You don't have the key.     |
-| 2    |**Sponge** | Made of some incredible material, supposedly from an elusive sea creature. It never seems to get dry. Worth 50 gold pieces to the right person.     |
+| 2    |**Sponge** | Made of some incredible material, supposedly from an elusive sea creature. It never seems to get dry. Worth 50gp to the right person.     |
 | 3    |**Pulley** | Great for heaving gravestones, rocks, or even bodies.   |
 | 4    |**Incense** | Perfect for rituals, or to keep the flies at bay. Cools the blood. |
 | 5    |**Crowbar** | Sometimes you just need to get the damn thing open!       |
 | 6    |**Repellent** | Powerful stuff. You're not sure what it is actually _meant_ to repell though, as the writing is faded. Maybe everything? 3 uses.        |
 
 ## Debt
-You knocked over some large stones while delving for rare treasure beneath an ancient burial tomb. Not only were the locals upset at your desecration, but the tomb had already been robbed ages ago! The constable has deemed that you either pay a hefty fine (200 gold pieces) or find a way to fix things. 
+You knocked over some large stones while delving for rare treasure beneath an ancient burial tomb. Not only were the locals upset at your desecration, but the tomb had already been robbed ages ago! The constable has deemed that you either pay a hefty fine (200gp) or find a way to fix things. 

@@ -13,11 +13,11 @@ grand_parent: WIP
 
 ## Starting Gear
 
-- 3d6 gold pieces
+- 3d6gp
 - Three days’ rations
 - Torches (2)
 
-# Other items for below
+### Other items for later
 - Donkey (+4 slots, slow)
 - Cart (+2 slots, bulky)
 - Bags of goods
@@ -25,12 +25,13 @@ grand_parent: WIP
 - Cutlery
 - Language/patois/cant
 - Tinker's dam
+- Abacus (20gp)
 
-## How did you lose most of your tin?
+## How did your lose your fortune?
 
 |      |      |      |
 | ---- | ---- | ---- |
-| 1    |**Robbery** | Sandwiched between two      |
+| 1    |**Unwilling Torturer** | You were an expert crafter, shaping metal into any form imaginable. Your trade was so sought-after thta it attracted the attention of a wealthy patron, who offered you a year's sum to fashion a small part of a great machine. You later learned that the machine was a devious torture implement on behalf of the  **Guild of Torturers**. Worse yet, your patron was murdered by a subordinate before payment was dispersed! Word spread; eventually you were forced to close up shop. You always carry pincers, hammer, and tin. With enough time, you can turn the metal into nearly anything.   |
 | 2    |**Losing Trade** |      |
 | 3    |**Trickery** |      |
 | 4    |**Poor Planning** |      |

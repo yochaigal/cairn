@@ -14,7 +14,7 @@ redirect_from: /more-content/backgrounds/herbalist/
 
 ## Starting Gear
 
-- 3d6 gold pieces
+- 3d6gp
 - Three days’ rations
 - Long-burning torch
 - Rake (d6) or spade (d6)

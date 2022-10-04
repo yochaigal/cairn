@@ -13,7 +13,7 @@ grand_parent: WIP
 
 ## Starting Gear
 
-- 3d6 gold pieces
+- 3d6gp
 - Three days’ rations
 - Torches (2)
 - Floppy hat
@@ -27,7 +27,7 @@ grand_parent: WIP
 | 1    |**Ridiculous inventory** | Turns out very few people are interested in purchasing "The deed to 1 Goblin." |
 | 2    |**Cursed product** | That weird sky rock you sold to the baron cracked, besetting the fief with vapors of an intelligible color. You decided to skip town before anyone traced the source. |
 | 3    |**Lost investment** | The spice ship you paid for almost reached the Duchy before it was wrecked by the marauding mer-folk. If only you had coin enough to hire muscle to go retrieve the wreckage. |
-| 4    |**Limitless discount** | Your initial idea of giving someone a coupon redeemable for 10% off of a purchase for ever 100 gold pieces spent drew lots of return customers. Then someone had the bright idea to cash in 10 at once and take everything. |
+| 4    |**Limitless discount** | Your initial idea of giving someone a coupon redeemable for 10% off of a purchase for ever 100gp spent drew lots of return customers. Then someone had the bright idea to cash in 10 at once and take everything. |
 | 5    |**Hunted** | Your specialty of monster teeth and claws came back to bite you in more ways than one when a troll regenerated from a poorly bleached fang. |
 | 6    |**Planar legal fees** | Thinking this nasty-looking silver sword you were traded by an adventurer would net you a pretty penny, you were met with headache when a strange-looking figure stepped out of a portal threatening legal action as your "crystal sphere" didn't have the license associated with selling such a weapon. |
 
