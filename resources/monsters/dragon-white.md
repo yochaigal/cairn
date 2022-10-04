@@ -4,9 +4,9 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Dragon, White
+# The White Dragon
 
-16 HP, 1 Armor, 16 STR, 16 DEX, 12 WIL, bite (d10), claws (d8+d8), _detachment_
+16 HP, 1 Armor, 16 STR, 16 DEX, 12 WIL, bite (d12), claws (d8+d8), _detachment_
 
 - A massive winged creature of frost, it appears as if the winter itself coalesced into life. Wanders in the coldest regions, along with harsh snowstorms.
 - Extremely ferocious, is at the same time a clever hunter and a bestial predator. Tracks everything that lives, as if it was trying to satiate a endless hunger.
