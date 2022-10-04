@@ -4,10 +4,10 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Dragon, Green
+# The Green Dragon
 
-12 HP, 2 Armor, 15 STR, 18 WIL, bite (d8+d8)
+12 HP, 2 Armor, 14 STR, 15 DEX, 18 WIL, bite (d12), venom spit (d8, blast), _Detachment_
 
-- Treacherous, scheming forest-dwelling amphibious dragons.
-- Highly cunning, value the victims they tricked and their power of influence more than any hoard of gold.
-- Breathes a thick cloud of poisonous gas for d10 damage to all caught.
+- 50 ft long serpentine creature with spiked scales. Dwell in dense forests, staying atop the trees to attack it's victims from above. 
+- Trick victims to obey it's commands in exchange for their lives, only to devour them anyway when they're no longer useful.  
+- **Critical Damage**: The poison takes hold of the victim's body, killing it if an antidote isn't applied within one day.
