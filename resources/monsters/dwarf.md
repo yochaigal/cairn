@@ -8,6 +8,6 @@ grand_parent: Resources
 
 4 HP, 2 Armor, 14 STR, hammer (d8)
 
-- Short and bulky, bearded humanoids who dwell in mountains and underground.
-- Can see perfectly in low-light and partially in darkness.
+- Short, bulky, humanoids with tough skin like earth and stone. Dwell in mountains and underground.
+- Do not rely on light, being able to see shapes and heat patterns in darkness.
 - Highly resistant to poison and disease.

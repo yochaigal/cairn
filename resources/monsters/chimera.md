@@ -6,7 +6,7 @@ grand_parent: Resources
 
 # Chimera
 
-9 HP, 14 STR, bite (d8+d8, blast)
+10 HP, 14 STR, bite and gore (d10, blast)
 
 - Three-headed flying monstrosities, hybrid of lion, goat, and dragon.
-- The draconic head breaths fire in a cone for d10 damage.
+- Can breathe fire once a day for d12 blast damage.
