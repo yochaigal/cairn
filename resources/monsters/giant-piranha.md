@@ -6,8 +6,8 @@ grand_parent: Resources
 
 # Giant Piranha
 
-3 HP, 12 DEX, bite (d8)
+7 HP, 15 DEX, bite (d10)
 
 - 5’ long piranhas with colorful scales.   Live in rivers and attack anything in the water.
-- Dwell in large groups and overwhelm victims by swarming them.
+- Dwell in groups and overwhelm victims by swarming them.
 - Once it smells blood, it will not stop attacking.

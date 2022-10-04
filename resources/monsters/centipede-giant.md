@@ -10,4 +10,4 @@ grand_parent: Resources
 
 - 2’ long centipedes that live in damp, underground places.
 - Generally shy, but will attack if approached. 
-- Critical damage: the venom hinders the target incapacitated and deprived for up to 10 days (save STR once a day to recover).
+- **Critical Damage**: the venom hinders the target incapacitated and deprived for up to 10 days (save STR once a day to recover).

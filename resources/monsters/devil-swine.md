@@ -10,4 +10,4 @@ grand_parent: Resources
 
 - Corpulent humans who can change into massive swine. Lurk in isolated human settlements, hunting the people to eat their flesh.
 - Can only shape change at night, hunt in the dark, surprising victims.
-- Critical Damage: A human victim gets infected, becoming a lycanthrope of the same type after a couple of weeks.
+- **Critical Damage**: A human victim gets infected, becoming a lycanthrope of the same type after a couple of weeks.

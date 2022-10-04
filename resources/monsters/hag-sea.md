@@ -4,10 +4,10 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Hag, Sea
+# Sea Hag
 
-3 HP, 12 STR, 14 WIL, knife (d6) or gaze (save)
+6 HP, 12 STR, 14 WIL, knife (d6)
 
 - Ghostly looking, green-skinned hags that dwell in seaweed forests and warm shallow waters. Crave eating human flesh.
 - Highly resistant to magic effects.
-- Hideous Gaze: Everyone facing the Hag must save WIL or drop to 0 HP.
+- **Hideous Gaze**: Everyone facing the Hag must save WIL or drop to 0 HP, each target can only be affected once per encounter.
