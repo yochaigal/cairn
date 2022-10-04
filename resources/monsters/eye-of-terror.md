@@ -6,7 +6,7 @@ grand_parent: Resources
 
 # Eye of Terror
 
-12 HP, 12 STR, 8 DEX, 16 WIL, bite (d8+d8)
+15 HP, 8 DEX, 18 WIL, bite (d8+d8)
 
 - Floating spheres with a large maw, one big central eye, and several small eyes on stalks scattered through the body.   Scheming and greedy, lair deep underground.
 - Cancels any magic effect in a nearby range facing its central eye.
