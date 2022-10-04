@@ -1,3 +1,12 @@
+---
+title: Weaver
+layout: default
+nav_exclude: true
+search_exclude: true
+parent: Backgrounds
+grand_parent: WIP
+---
+
 # Weaver
 
 ![](https://i.imgur.com/mKqtvmm.jpg)
