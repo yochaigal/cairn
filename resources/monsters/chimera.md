@@ -9,4 +9,4 @@ grand_parent: Resources
 10 HP, 14 STR, bite and gore (d10, blast)
 
 - Three-headed flying monstrosities, hybrid of lion, goat, and dragon.
-- Can breathe fire once a day for d12 blast damage.
+- The dragon head can breathe fire once a day for d12 blast damage.
