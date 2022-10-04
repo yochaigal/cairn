@@ -10,4 +10,4 @@ grand_parent: Resources
 
 - Large cubes of transparent jelly, dwell in dungeons absorbing items and living creatures.
 - Difficult to be detected due to being transparent.
-- _Critical Damage_: The target is engulfed into the cube and keeps being absorbed.
+- **Critical Damage**: The target is engulfed into the cube and keeps being absorbed.
