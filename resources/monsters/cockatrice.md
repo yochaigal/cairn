@@ -10,4 +10,4 @@ grand_parent: Resources
 
 - Small creatures resembling chickens with reptilian features.
 - Notably agile and hard to pin down.
-- Critical damage: the victim loses d12 DEX, if reduced to 0 DEX, they are turned into stone.
+- **Critical Damage**: the victim loses d12 DEX, if reduced to 0 DEX, they are turned into stone.
