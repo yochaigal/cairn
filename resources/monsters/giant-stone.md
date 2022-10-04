@@ -4,7 +4,7 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Giant, Stone
+# Stone Giant
 
 12 HP, 2 Armor, 15 STR, 15 DEX, stone club (d8+d8) or rocks (d12)
 
