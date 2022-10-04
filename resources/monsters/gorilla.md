@@ -6,7 +6,8 @@ grand_parent: Resources
 
 # Gorilla
 
-4 HP, 14 STR, fists (d6+d6)
+6 HP, 14 STR, fists (d6+d6)
 
-- Large, muscular apes that dwell in hot jungles. Peaceful and Shy.
-- Critical Damage: Rends the victim for 1d4 extra STR damage.
+- Large, muscular apes that dwell in hot jungles.
+- Mostly peaceful until provoked, but will impose itself on the presence of its young.
+- **Critical Damage**: Rends the victim for 1d4 extra STR damage.
