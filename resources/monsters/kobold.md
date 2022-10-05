@@ -6,8 +6,7 @@ grand_parent: Resources
 
 # Kobold
 
-4 HP, 8 STR, 13 DEX, dagger (d6)
-
-- Small canine humanoids with hairless, scaly, red-brown skin. Dwell deep underground.
-- Can see perfectly in the dark, but are harmed by sunlight.
-- Ambush their victims in dark caves and tunnels.
+3 HP, 8 STR, bite (d6)
+- Small canine humanoids with hairless, scaly, red-brown skin. Can see perfectly in the dark, but are harmed by direct sunlight. 
+- Fight dirty, ambushing their victims in cramped spaces and running away as soon as the tide turns. Try to ambush adventurers and take their possessions. 
+- **Critical Damage**: The Kobold bites a off a chunk of flesh from the target.
