@@ -6,8 +6,9 @@ grand_parent: Resources
 
 # Hobgoblin
 
-4 HP, 2 Armor, 14 STR, 8 DEX, mace (d8)
+6 HP, 2 Armor, 14 STR, 8 DEX, mace (d8)
 
-- Large and burly relatives of goblins. Dwell in underground fortresses, but frequently seek victims above ground.
-- Highly lawful and militarized culture, follow orders without question.
+- Large and burly relatives of goblins. Dwell in underground fortresses, but frequently march in aboveground campaigns.
+- Strongly lawful and militarized culture, follow orders without question.
+- Automatically succeed in Morale Saves if a commander is present. 
 - Trained to fight together, damage dealt is enhanced if an ally is also engaged with the same enemy.
