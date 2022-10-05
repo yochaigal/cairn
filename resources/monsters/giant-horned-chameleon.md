@@ -4,9 +4,9 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Lizard, Giant Horned Chameleon
+# Giant Chameleon
 
-5 HP, 14 STR, 12 WIL, horn (d6) or tongue and bite (d6+d6)
+6 HP, 14 STR, 12 WIL, bite (d8)
 
 - 7' long lizards that camouflage by changing the color of their scales.
 - Use their camouflage to surprise victims.
