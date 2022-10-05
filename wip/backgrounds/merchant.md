@@ -41,3 +41,6 @@ grand_parent: WIP
 | 4    |**Tricorn of True North** | A decent hat that will rotate atop your dome, always pointing north when worn. |
 | 5    |**Iridescent Salamander** | Small lizard-like creature that secretes a lightly-glowing fluid once a day when agitated. This substance glows with about the luminance of a candle and glows in a variety of colors. The salamander unfortunately also bites when angered. |
 | 6    |**Man's Best Boot** | This single leather boot follows you with the utmost loyalty and even pants like a dog. It isn't able to bark, but will excitedly tap or stomp the ground. |
+
+## some to add:
+3  **Caught**  For years your folk brought goods in to the city by trains of horse and donkey: wool, wheat, ale, etc.    
