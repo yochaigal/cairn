@@ -42,5 +42,5 @@ grand_parent: WIP
 | 5    |**Crowbar** | Sometimes you just need to get the damn thing open!       |
 | 6    |**Repellent** | Powerful stuff. You're not sure what it is actually _meant_ to repell though, as the writing is faded. Maybe everything? 3 uses.        |
 
-## Debt
+## If you are the oldest character in the party, your Debt is....
 You knocked over some large stones while delving for rare treasure beneath an ancient burial tomb. Not only were the locals upset at your desecration, but the tomb had already been robbed ages ago! The constable has deemed that you either pay a hefty fine (200gp) or find a way to fix things. 

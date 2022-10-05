@@ -40,5 +40,5 @@ grand_parent: WIP
 | 5    |**Cursed Sapphire** | You're not sure how you acquired it, but you can't seem to rid yourself of it, either. It appears very valuable; worth at least 200gp. And each time you try to spend it, it returns to your pocket! At first this seemed like a fine thing, but then a few of its former "owners" started talking to one another and marking you as the common denominator. You've heard a rumor that you could perhaps rid yourself of the damn thing by willingly trading it with someone aware of its unique "properties."      |
 | 6    |**Wooden Sword** | A holdover from your time amongst the royals. An empty wooden sheath with the pommel of a sword sticking out. Pulling on it doesn't actually do anything; the thing stays put. Useful as a club (d6) or for the right costume. Something jiggles inside.       |
 
-# Debt
+## If you are the oldest character in the party, your Debt is....
 The Guild of **Tricksters, Rapscallions, and Interlopers** demands that you either pay 1d4 years in backdated guild fees, or be booted from the organization, your personage besmirched forever. Also, they will take one of your thumbs as recompense. The trouble is, you can't remember actually _joining_ the Guild...   
