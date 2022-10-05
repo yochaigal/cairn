@@ -13,7 +13,7 @@ grand_parent: WIP
 
 ## Starting Gear
 
-- 3d6gp
+- 3d6 gold pieces
 - Four days’ rations
 - Torches (2)
 - Cleaver (d6)

@@ -13,7 +13,7 @@ grand_parent: WIP
 
 ## Starting Gear
 
-- 3d6gp
+- 3d6 gold pieces
 - Three days’ rations
 - Torches (2)
 - Net
@@ -41,3 +41,8 @@ grand_parent: WIP
 | 4    |**Displacer Beetles** | Tiny box filled with beetles that are always closer or further than they appear. |
 | 5    |**Faulty Holy Symbols** | A bunch of vampires were trying to circulate holy symbols that would fail mid-turning among the clerical order. You have about a dozen of these. |
 | 6    |**Shrieker's Treat** | One vial of a particularly nasty poison that forces its victim to continually scream until passing out and potentially suffering permanent brain damage. |
+
+
+## A few ideas
+- An odorless vial of dark liquid, perfect for dashing into a "friend's" wine cup. Before you know it they'll be spilling secrets, as well as the contents of their stomach the following morning.
+- **False Teapot**  A teapot that holds two liquids. Tip the spout high and the contents of a secret chamber spill instead. Good for avoiding drinking too much, or letting your trading partner drink more than they'd realized.  
