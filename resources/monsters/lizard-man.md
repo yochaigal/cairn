@@ -6,8 +6,8 @@ grand_parent: Resources
 
 # Lizard Man
 
-4 HP, 1 Armor, 14 STR, 12 DEX, bone spear (d8)
+5 HP, 1 Armor, 14 STR, 12 DEX, bone spear (d8)
 
-- Primitive, tribal, aquatic humanoids with reptilian heads and tails. Dwell in jungles nearby bodies of water.
-- Craft their Armors and weapons from the bones of their prey.
-- Carnivorous, hunt other humanoids, whose flesh they regard as a delicacy.
+- Tribal amphibian humanoids with reptilian heads and tails. Dwell in jungles nearby large bodies of water.
+- Craft their armor and weapons from the bones of their prey.
+- Carnivorous, eat even the flesh of other humanoids as a display of power.
