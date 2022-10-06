@@ -12,15 +12,15 @@ parent: Third Party
 - These rules are not critical to the structure of the game and can be discarded or ignored at certain points in your game.
 
 ## Table of Contents
-- [Dungeon Exploration](#Dungeon-Exploration)
-- [Wilderness Exploration](#Wilderness-Exploration)
-- [Reactions](#Reactions)
-- [What Do They Want?](#What-Do-They-Want?)
-- [Leveling Up](#Leveling-Up)
-- [Carousing](#Carousing)
-- [Vices](#Vices)
-- [Advanced Combat Options](#Advanced-Combat-Options)
-- [Credits & Inspiration](#Credits-&-Inspiration)
+- [Dungeon Exploration](#dungeon-exploration)
+- [Wilderness Exploration](#wilderness-exploration)
+- [Reactions](#reactions)
+- [What Do They Want?](#what-do-they-want)
+- [Leveling Up](#leveling-up)
+- [Carousing](#carousing)
+- [Vices](#vices)
+- [Advanced Combat Options](#advanced-combat-options)
+- [Credits & Inspiration](#credits--inspiration)
 
 ## Dungeon Exploration
 
