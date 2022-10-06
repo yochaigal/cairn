@@ -440,7 +440,7 @@ This ornate pull-out scroll made of whale bone, has a silver foil sheet inscribe
 - Rubbing the ink and writing the name takes 3 turns. Ink rubbed in this stone is only effectual when using spring water from the same grotto whence the stone was taken.
 
 #### Inversion Pot
-- A squat clay teapot with a crane carved in one side and a centipede on the other. If a poisonous plant is steeped in this pot, the resulting tea is its antidote. Likewise beneficial herbs steeped in this teapot produce poison.
+- A squat clay teapot with a crane carved in one side and a centipede on the other. If a poisonous plant is steeped in this pot, the resulting tea is its antidote Likewise beneficial herbs steeped in this teapot produce poison.
 
 #### Tiger and Deer Scroll
 - A scroll painting depicting a tiger stalking three deer through a wooded mountain landscape. If the bearer opens this scroll facing enemies, the scroll will absorb a single enemy of the bearer’s choice, who then appears in the painting. In exchange, one of the beings in the painting incarnates in the PC’s dimension. **Roll 1d4**: 1-3 one of the deer appears and bounds away. On a 4, the tiger appears and immediately attacks the bearer of the scroll.
@@ -451,11 +451,11 @@ This ornate pull-out scroll made of whale bone, has a silver foil sheet inscribe
 
 #### Speakstick, 3 charges.
 - When touched to a dead body or place of resting, allows you to speak with their ghost provided they have unfinished business.
-- Recharge: Finish a ghost's business.
+- **Recharge**: Finish a ghost's business.
 
 #### Reading Glass, 1 Charge
 - This unassuming magnifying glass is inhabited by an entity from the beyond. 
-- - When used, the entity will translate any language, written or spoken for 1 hour. The entity communicates telepathically and always speaks in a different voice. 
+- When used, the entity will translate any language, written or spoken for 1 hour. The entity communicates telepathically and always speaks in a different voice. 
 - **Recharge**: Tell the entity a shameful secret.
 
 #### Brawlers teeth.
