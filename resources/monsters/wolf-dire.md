@@ -4,10 +4,10 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Wolf, Dire
+# Dire Wolf
 
-5 HP, 14 STR, 12 DEX, bite (d8)
+8 HP, 14 STR, 12 DEX, bite (d10)
 
-- Large, savage, semi-intelligent wolves. Dwell in caves, mountains, and forests.
-- Can be trained like dogs if captured young. Dire wolves are particularly difficult to train.
-- Sometimes are seem used as mounts by goblins.
+- Horse-sized, semi-intelligent wolves. Highly territorial, live in forests or mountains and ferouciously guard its surroudings.
+- Regular wolves are scared of them, but will fight alongside them against invaders.
+- Can be trained like dogs if captured young, but it's a extremely difficult challenging.
