@@ -4,10 +4,10 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Weasel, Giant
+# Giant Weasel
 
-4 HP, 12 DEX, 12 WIL, bite (d6)
+6 HP, 15 STR, 14 DEX, bite and claws (d12+d10)
 
-- 9’ long, vicious, predatory mammals with rich fur of brown, gold, or white. Dwell in subterranean tunnels, hunting alone or in small groups.
-- After attacking, locks onto the victim and drains its blood for 1d8 automatic damage each round. Detaches only if the weasel or the victim dies.
-- Track by scent, preferring wounded victims.
+- 6’ long, predatory mammals with rich fur of brown, gold, or white. Dwell in subterranean tunnels, hunting alone or in small groups.
+- Vicious trackers, can smell blood at long distances. Prefer to stalk targets that are already wounded to finish them off.
+- After attacking, locks its powerful jaws on the target and keeps biting, only releasing if its sure the victim is dead.

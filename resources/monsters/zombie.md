@@ -6,8 +6,8 @@ grand_parent: Resources
 
 # Zombie
 
-2 HP, 14 STR, 6 DEX, 3 WIL, weapon (d8)
+6 HP, 6 DEX, 3 WIL, rusted weapon (d6)
 
-- Slow, mindless humanoid corpses, reanimated as guardians by  powerful clerics or wizards.
-- Attack anything that comes nearby.
-- Immune to mind altering effects.
+- Slow, mindless re-animated corpses. Created by wicked wizards to serve as guardians in hordes.
+- Simply attacks anything that comes nearby.
+- Cannot be affected by anything that targets the mind.
