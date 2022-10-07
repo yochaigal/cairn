@@ -4,7 +4,7 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Roc, Giant
+# Roc
 
 18 HP, 18 STR, 14 DEX, 12 WIL, claws (d8+d8, blast) or bite (d10+d10), _detachment_
 
