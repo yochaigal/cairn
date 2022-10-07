@@ -4,10 +4,10 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Wolf, Normal
+# Wolf
 
-3 HP, 14 DEX, bite (d6)
+6 HP, 12 STR, 14 DEX, bite (d8)
 
-- Dwell primarily in wildlands, but occasionally lair in caves.
+- Large canines that dwell primarily in wildlands, but occasionally lair in caves.
 - Can be trained like dogs if captured young.
-- When found in packs of at least 4, treat WIL as 15 for morale checks.
+- When found in packs of at least 4, wolfs never fail morale saves. 
