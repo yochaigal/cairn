@@ -6,8 +6,8 @@ grand_parent: Resources
 
 # Treant
 
-8 HP, 1 Armor, 15 STR, 8 DEX, fists (d6+d6)
+10 HP, 3 Armor, 15 STR, 3 DEX, 12 WIL, roots (d10+d8, blast)
 
-- Giant humanoids made of tree bark and foliage. Dwell in forests. Are concerned only with protecting the plants of their home.
-- Hate fire, and attack anyone who wields it.
-- Surprise victims by standing still and passing for a normal tree.
+- A human face made of bark on the trunk of a massive tree. Found in the center of thick forests where it spreads its massive roots.
+- Connected to all trees on its forest, can control their growth and move their branches.
+- It feeds by draining energy from fresh bodies, any amount can be used, but the mightier the creature the better.
