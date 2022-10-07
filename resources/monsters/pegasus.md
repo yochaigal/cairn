@@ -6,7 +6,8 @@ grand_parent: Resources
 
 # Pegasus
 
-3 HP, 12 STR, 14 DEX, 12 WIL. hooves (d6+d6)
+6 HP, 12 STR, 15 DEX, 15 WIL. hooves (d6+d6)
 
-- Intelligent winged horses, wilful and proud. Seen as symbols of beauty and nobility.
-- Can be trained to serve as mounts for lawful characters.
+- A intelligent winged horse, wilful and proud. Seen as a symbol of beauty and nobility.
+- Have a rigid sense of morality and can feel if a person has broken it.
+- Will offer to help adventurers as a mount if it judges the person's cause as noble and just. 
