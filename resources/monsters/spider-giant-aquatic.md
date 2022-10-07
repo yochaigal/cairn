@@ -9,5 +9,5 @@ grand_parent: Resources
 4 HP, 12 DEX, bite (d6)
 
 - 4’ long spiders that dwell in large bodies of freshwater. Build air-filled nests in aquatic vegetation.
-- Lurk just below the water's surface to surprise its victims.
-- Critical Damage: The poison paralyzes the victim (d8 DEX damage), the spider drags paralyzed victims to its lair to eat them.
+- Are able to hold breath for long periods of time, and lurk just below the water's surface to surprise its victims.
+- C**ritical Damage**: The poison paralyzes the victim (d8 DEX damage), the spider drags paralyzed victims to its lair to eat them.
