@@ -4,9 +4,10 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Tyrannosaurus Rex
+# Tyrannosaurus
 
-18 HP, 1 Armor, 18 STR, 12 DEX, bite (d10+d10)
+18 HP, 1 Armor, 18 STR, 12 DEX, bite (d10+d10), _detachment_
 
-- Massive, over 20’ tall, two-legged, predatory dinosaurs with huge jaws. Hunt human-sized or larger prey. Dwell in Lost World regions.
-- Always attack the largest, most threatening foe first.
+- Massive, two-legged, predatory reptiles with huge jaws.
+- Extremely rare, can only be found in large regions of untouched wilderness.
+- Only hunt large and dangerous prey, always attacking the most threatening foe first.
