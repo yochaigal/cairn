@@ -9,5 +9,5 @@ grand_parent: Resources
 12 HP, 12 STR, 11 DEX, 14 WIL, ethereal claws (d8)
 
 - An animated skeleton clothed in billowing robes. Its eye sockets are hypnotically red. Defends crypts & tombs, and will not attack if left undisturbed.
-- Non-magical attacks are _impaired_ against it.
-- Can teleport at WIL any target in eyesight to a random room nearby.
+- Non-magical attacks against it are _impaired_.
+- Can teleport any target in eyesight to a random room nearby.

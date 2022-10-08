@@ -26,5 +26,4 @@ nav_order: 9
 ## Character Sheet
 1. Contact [Licopeo](https://twitter.com/LicopeoArt) and ask nicely. Maybe throw him some cash.
 
-
-Credit to [Stefano Grassi](https://twitter.com/FabulousFreak).
+Credit to [Stefano Grassi](https://twitter.com/idolofmanyhands).
