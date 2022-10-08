@@ -6,7 +6,7 @@ grand_parent: Resources
 
 # The Blue Dragon
 
-14 HP, 2 Armor, 14 STR, 16 DEX, 15 WIL, bite (d10), claws (d8+d8, blast), _Detachment_
+14 HP, 2 Armor, 14 STR, 16 DEX, 15 WIL, bite (d10), claws (d8+d8, blast), __detachment__
 
 - A 100 ft long, centipede-like reptilian creature that dwells in deserts and rocky drylands, specially amidst sandstorms. Proud and vain, often keep victims as slaves. The more prestigious the person, the more the dragon would be interested in keeping it.
 - Builds it's lairs by tunneling deep into the earth, and use said tunnels to ambush nearby travelers walking on the surface. 

@@ -8,6 +8,5 @@ grand_parent: Resources
 
 6 HP, 1 Armor, 14 STR, 12 DEX, spear (d8) or short bow (d6)
 
-- Creatures with the lower body and legs of a horse and the upper body and head of a human.
-- Live in small tribes hidden in dense forests with labyrinthic paths.
-- Can run fast enough to outspeed both humans and horses. 
+- Creatures with the lower body and legs of a horse and the upper body, arms and head of a humanoid.
+- Uses their great speed to hunt for food in the forest and plains.

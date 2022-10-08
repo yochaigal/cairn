@@ -11,4 +11,4 @@ grand_parent: Resources
 - Large and burly relatives of goblins. Dwell in underground fortresses, but frequently march in aboveground campaigns.
 - Strongly lawful and militarized culture, follow orders without question.
 - Automatically succeed in Morale Saves if a commander is present. 
-- Trained to fight together, damage dealt is enhanced if an ally is also engaged with the same enemy.
+- Trained to fight together, damage dealt is _enhanced_ if an ally is also engaged with the same enemy.

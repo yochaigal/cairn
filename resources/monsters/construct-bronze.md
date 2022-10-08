@@ -8,6 +8,6 @@ grand_parent: Resources
 
 15 HP, 3 Armor, 18 STR, 6 DEX, fists (d10+d10), _detachment_
 
-- Towering humanoid constructs made of pure bronze. Reassemble older men with long beards and hair, and emanate strong heat.
-- Immune to fire and heat. Mundane attacks are Impaired.
-- When it suffers slashing or piercing damage to its STR, spurts a burning liquid, damaging the attacker for d12.
+- Towering humanoid constructs made of pure bronze. Resemble old men with long beards and hair, and emanate a strong heat.
+- Immune to fire and heat. Mundane attacks are __impaired__.
+- If it takes **Critical Damage** from bladed weapons it spurts a burning liquid, doing d12 _blast_ damage.
