@@ -9,7 +9,6 @@ parent: 2e
 
 ## Hex Crawling
 - A "hex" represents 6 miles on a map. 
-- A healthy person can travel by foot up to two hexes per day. Horses and other mounts double travel speed.
 - A day is divided in 3 phases of 8 hours each (morning, noon, night).
 - A single **Wilderness Action** can be chosen per phase. 
 - For each night the party skips the **Rest** action, each PC adds one **Fatigue** to their inventory.
@@ -17,8 +16,10 @@ parent: 2e
 
 ### Wilderness Actions
 #### Travel
-- The partytTravels across a single hex. Obvious locations, features, and terrain of nearby hexes are revealed according to their distance.
-- The party must be careful to avoid losing their way (see the [Getting Lost](#getting-lost) table).
+- The party travels across a single hex. Obvious locations, features, and terrain of nearby hexes are revealed according to their distance.
+- A healthy person can travel by foot up to two hexes per day. Horses and other mounts double travel speed.
+- Difficult terrain, obstacles, and slower party members can reduce travel speed by half or more.
+- The party must be careful to avoid losing their way (see [Getting Lost](#getting-lost)).
 - The Warden rolls on the [Events Table](#events-table).
 
 ##### Getting Lost
