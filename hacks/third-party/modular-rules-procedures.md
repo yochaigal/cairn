@@ -60,14 +60,13 @@ Torches, lanterns, and other radial sources of light illuminate 40’ clearly an
 ## Wilderness Exploration
 
 ### Hex Crawling
-Each hex represents 6 miles. An adventuring day is divided into 6 turns of approximately 4 hours each. Two of these phases, approximately 8 hours, must be spent sleeping in order to avoid becoming deprived. In each turn, the following procedure is followed: 
-**1. Exploration Action:** The party decides on one exploration action for that turn.
-**2. Event Roll:** The GM rolls on the event die for encounters and other random events. 
-**3. Resolution:** The action and event rolls are resolved.
+Each hex represents 6 miles. An adventuring day is divided into 6 turns of approximately 4 hours each. Two of these phases, approximately 8 hours, must be spent sleeping in order to avoid becoming deprived. In each turn, the following procedure is followed:  
+**1. Exploration Action:** The party decides on one exploration action for that turn.  
+**2. Event Roll:** The GM rolls on the event die for encounters and other random events.  
+**3. Resolution:** The action and event rolls are resolved.  
 
 ### Wilderness Exploration Actions
-The party may choose one of the following standard actions each
-4-hour wilderness turn.
+The party may choose one of the following standard actions each 4-hour wilderness turn.  
 
 - **Travel:** Exiting a hex and moving into an adjacent one.  
 - **Roads:** The party travels through two tiles (three if mounted).  

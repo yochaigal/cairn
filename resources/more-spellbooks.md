@@ -153,13 +153,13 @@ Note assume damage rolls are against HP unless otherwise noted (e.g. 1d6 damage 
 | 461  | [Phase Sneak](#phase-sneak)                                 | Anyone within a 10ft radius is rendered invisible.           |
 | 462  | [Phase Touch](#phase-touch)                                 | A disembodied, floating hand obeys your whims but is immaterial. The next Spellbook, ability or item that relies on touch now works from a distance. |
 | 463  | [Philolomancy](#philolomancy)                               | You understand all spoken and written languages.             |
-| 464  | [Planal Metamorphosis](#planal-metamorphosis)               | Invisible creatures or objects are revealed.                 |
+| 464  | [Philosopher's Mind ](#philosophers-mind)                  | Target is immune to spiritual or psychic attacks, as well as any attempts at mental or spirital manipulation or persuasion.     |
 | 465  | [Planar Anchor](#planar-anchor)                             | Bars extradimensional movement.                              |
 | 466  | [Plant Scourge](#plant-scourge)                             | Plants within eyesight wither and die.                       |
 | 511  | [Pocket Container](#pocket-container)                       | Summons a chest from an immaterial plane. It holds up to 6 items. The chest is dismissed at will. |
 | 512  | [Pocket Sun](#pocket-sun)                                   | You create a halo of bright light in a 60ft radius.          |
 | 513  | [Prisma Shard](#prisma-shard)                               | An array of hypnotic lights fascinate nearby creatures, unless they pass a WIL save. |
-| 514  | [Profane Reveal](#profane-reveal)                           | Target must WIL save or its attacks are impaired. Target an empty space to reveal invisible objects or creatures. |
+| 514  | [Profane Reveal](#profane-reveal)                           | Target an empty space to reveal invisible objects or creatures. |
 | 515  | [Psychic Eye](#psychic-eye)                                 | Invisible floating eye allowing you to observe a single location as present. |
 | 516  | [Psychokinesis](#psychokinesis)                             | Magically moves an object up to half your weight.            |
 | 521  | [Puppeteer](#puppeteer)                                     | You can throw your voice a great distance away               |
