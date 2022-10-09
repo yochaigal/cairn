@@ -17,7 +17,7 @@ parent: 2e
 The party travels through a hex. 
 - If travelling by road, an unencumbered and otherwise healthy person person can walk 24 miles per day, or 48 miles by horse.
 - Obvious locations, features, and terrain types of nearby hexes are revealed according to their distance.
-- The party must be careful to avoid [Getting Lost](#getting-lost).
+- The party must be careful to avoid losing their way (see the [Getting Lost](#getting-lost) table).
 - The Warden rolls on the [Events Table](#events-table).
 
 ##### Getting Lost
