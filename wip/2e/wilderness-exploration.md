@@ -10,18 +10,18 @@ parent: 2e
 ## Hex Crawling
 - A "hex" represents 6 miles on a map. 
 - A day is divided into 3 phases of approximately 8 hours each. 
-- A single **Wilderness Action** can be chosen per phase. In order to avoid **Fatigue** or _depriviation_, one phase is usually spent taking the **Rest** action. 
+- A single **Wilderness Action** can be chosen per phase. In order to avoid **Fatigue**, one phase must be spent taking the **Rest** action. 
+- For each night the party skips the **Rest** action, each PC adds one **Fatigue** to their inventory.
 
 ### Wilderness Actions
 #### Travel
-The party travels through a hex. 
-- If travelling by road, an unencumbered and otherwise healthy person person can walk 24 miles per day, or 48 miles by horse.
+- A healthy person can travel by foot up to two hexes per day. Horses and similar mounts double travelling speed.
 - Obvious locations, features, and terrain types of nearby hexes are revealed according to their distance.
 - The party must be careful to avoid losing their way (see the [Getting Lost](#getting-lost) table).
 - The Warden rolls on the [Events Table](#events-table).
 
 ##### Getting Lost
-- There is typically a 2-in-6 chance the party will get lost when traveling via difficult or hard-to-see terrain.
+- There is a 2-in-6 chance the party will get lost when traveling via difficult or hard-to-see terrain.
 - Maps and relevant backgrounds negate the need for a roll, or decrease the chances to 1-in-6.
 
 #### Explore
@@ -38,9 +38,6 @@ The party gathers food and water.
 The party stops to set up camp.
 - The Warden rolls on the [Events Table](#events-table).
 - If the party is able to rest fully, each party members loses all their **Fatigue** (if applicable).
-
-#### Fatigue
-For each night the party skips the **Rest** action, each PC adds one **Fatigue** to their inventory.
 
 ## Events Table 
 The GM rolls a **d6** and consults the table appropriate to the party’s location.
