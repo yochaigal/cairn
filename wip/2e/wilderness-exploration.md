@@ -9,11 +9,11 @@ parent: 2e
 
 ## Hex Crawling
 - A "hex" represents 6 miles on a map. 
-- A day is divided into 3 phases of approximately 8 hours each. 
-- A single **Wilderness Action** can be chosen per phase. In order to avoid **Fatigue**, one phase must be spent taking the **Rest** action. 
-- For each night the party skips the **Rest** action, each PC adds one **Fatigue** to their inventory.
+- A day is divided in 3 phases of 8 hours each (morning, noon, night).
 - A healthy person can travel by foot up to two hexes per day. Horses and similar mounts double travelling speed.
-
+- A single **Wilderness Action** can be chosen per phase. 
+- In order to avoid **Fatigue**, one phase must be spent taking the **Rest** action. 
+- For each night the party skips the **Rest** action, each PC adds one **Fatigue** to their inventory.
 
 ### Wilderness Actions
 #### Travel
