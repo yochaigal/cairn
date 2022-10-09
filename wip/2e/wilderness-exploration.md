@@ -13,16 +13,17 @@ parent: 2e
 - A day is divided in 3 phases of 8 hours each (morning, noon, night).
 - A single **Wilderness Action** can be chosen per phase. 
 - For each night the party skips the **Rest** action, each PC adds one **Fatigue** to their inventory.
-- At the start of each day, roll on the [**Weather**](#weather) table.
+- At the start of each day, roll on the [**Weather**](#weather) table for the appropriate season.
 
 ### Wilderness Actions
 #### Travel
-- Travel across a single hex. Obvious locations, features, and terrain of nearby hexes are revealed according to their distance.
+- The partytTravels across a single hex. Obvious locations, features, and terrain of nearby hexes are revealed according to their distance.
 - The party must be careful to avoid losing their way (see the [Getting Lost](#getting-lost) table).
 - The Warden rolls on the [Events Table](#events-table).
 
 ##### Getting Lost
 - There is a 2-in-6 chance the party will get lost when traveling via difficult or hard-to-see terrain.
+- If the party gets lost, roll 1d4 for cardinal directions (1 = N, 2 = W, 3 = S, 4 = E). The party is taken off course in that direction, and ust spend a **Wilderness Action** to recover their way.
 - Maps and relevant backgrounds negate the need for a roll, or decrease the chances to 1-in-6.
 
 #### Explore
