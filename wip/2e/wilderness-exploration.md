@@ -9,7 +9,7 @@ parent: 2e
 
 ## Hex Crawling
 - A "hex" represents 6 miles on a map. 
-- A healthy person can travel by foot up to two hexes per day. Horses and similar mounts double travelling speed.
+- A healthy person can travel by foot up to two hexes per day. Horses and other mounts double travel speed.
 - A day is divided in 3 phases of 8 hours each (morning, noon, night).
 - A single **Wilderness Action** can be chosen per phase. 
 - For each night the party skips the **Rest** action, each PC adds one **Fatigue** to their inventory.
@@ -58,7 +58,7 @@ When the PCs encounter an NPC whose reaction to the party is not obvious, the Wa
 
 | 2 | 3-5 | 6-8 | 9-11 | 12 |
 |--|--|--|--|--|
-| Hostile | Wary | Curious | Friendly | Helpful 
+| Hostile | Wary | Curious | Friendly | Helpful |
 
 ## Weather
 
