@@ -19,13 +19,29 @@ parent: 2e
 - The party travels across a single hex. Obvious locations, features, and terrain of nearby hexes are revealed according to their distance.
 - A healthy person can travel by foot up to two hexes per day. Horses and other mounts double travel speed.
 - Difficult terrain, obstacles, and slower party members can reduce travel speed by half or more.
-- The party must be careful to avoid losing their way (see [Getting Lost](#getting-lost)).
+- The party must be careful to avoid losing their way (see [Getting Lost](#getting-lost).
 - The Warden rolls on the [Events Table](#events-table).
 
 ##### Getting Lost
-- There is a 2-in-6 chance the party will get lost when traveling via difficult or hard-to-see terrain.
-- If the party gets lost, roll 1d4 for cardinal directions (1 = N, 2 = W, 3 = S, 4 = E). The party arrives in an adjacent hex in that direction, and must spend a **Wilderness Action** to recover their way.
-- Maps and relevant backgrounds negate the need for a roll, or decrease the chances to 1-in-6.
+- There is a 2-in-6 chance the party will get lost when traveling via difficult terrain.
+- If the party gets lost, roll on the [Cardinal Directions](#cardinal-directions) table to determine which hex the party finds themselves. They may need to spend a **Wilderness Action** to recover their way.
+- Maps and relevant backgrounds negate the need for a roll, or decrease the chances of getting lost to 1-in-6.
+
+##### Cardinal Directions
+When required, consult the following table to determine a cardinal direction.
+
+|      |           |
+| :--: | :-------: |
+|  d8  | Direction |
+|  1   |     N     |
+|  2   |    NW     |
+|  3   |     W     |
+|  4   |    SW     |
+|  5   |     S     |
+|  6   |    SE     |
+|  7   |     E     |
+|  8   |    NE     |
+
 
 #### Explore
 The party searches for hidden any features within the current hex.
@@ -51,7 +67,7 @@ The GM rolls a **d6** and consults the table appropriate to the party’s locati
 |  **2** | **Sign**  | The characters discover a clue, spoor, or indication of a nearby encounter, locality, hidden feature, or information about a nearby hex.   |
 |  **3** | **Locality**  | A shift in weather, terrain.   |
 |  **4** | **Expiration**  | Resources are drained in some way (lost ration or broken tools).   |
-|  **5** | **Exhaustion** |  The characters encounter a barrier, forcing either careful effort (spend an additional **Wilderness Action**) or each character adds a **Fatigue** to their inventory to represent the relative difficulty of the task.
+|  **5** | **Exhaustion** |  The characters encounter a barrier, forcing effort, care or delays. This might mean spending extra time (and an additional **Wilderness Action**) or adding **Fatigue** to the PC's inventory to represent their difficulties.
 |  **6** | **Discovery** | The characters find food, treasure, or other useful resources. The Warden can instead choose to reveal the primary feature of the hex.  |
 
 ## Weather
