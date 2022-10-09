@@ -13,6 +13,7 @@ parent: 2e
 - A day is divided in 3 phases of 8 hours each (morning, noon, night).
 - A single **Wilderness Action** can be chosen per phase. 
 - For each night the party skips the **Rest** action, each PC adds one **Fatigue** to their inventory.
+- At the start of each day, roll on the [**Weather**](#weather) table.
 
 ### Wilderness Actions
 #### Travel
@@ -57,3 +58,18 @@ When the PCs encounter an NPC whose reaction to the party is not obvious, the Wa
 | 2 | 3-5 | 6-8 | 9-11 | 12 |
 |--|--|--|--|--|
 | Hostile | Wary | Curious | Friendly | Helpful 
+
+## Weather
+
+| d6   | Spring                    | Summer                | Fall               | Winter                |
+| ---- | ------------------------  | --------------------  | -----------------  | --------------------- |
+| 1    | Cold and windy            | Cool and sunny        | Chilly and rainy   | Freezing and clear    |
+| 2    | Cold and rainy            | Hot and sunny         | Cool and windy     | Freezing and snowy    |
+| 3    | Cool and breezy           | Warm and drizzly      | Cool and rainy     | Cold and snowy        |
+| 4    | Mild and cloudy           | Mild and stormy       | Mild and breezy    | Frigid and windy      |
+| 5    | Warm and rainy            | Hot and humid         | Chilly and foggy   | Cold and sunny        |
+| 6    | Hot and sunny             | Sweltering and clear  | Warm and cloudy    | Mild and storming     |
+
+## Credits
+- The [Cairn Adventurer’s Guide](https://adamhensley.itch.io/cairn-adventurers-guide) by Adam Hensley
+- [Yet Another Hexcrawl Procedure](https://dangerisreal.blogspot.com/2021/08/yet-another-hexcrawl-procedure-there-is.html) by Danger is Real
