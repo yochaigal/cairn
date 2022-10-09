@@ -23,7 +23,7 @@ parent: 2e
 
 ##### Getting Lost
 - There is a 2-in-6 chance the party will get lost when traveling via difficult or hard-to-see terrain.
-- If the party gets lost, roll 1d4 for cardinal directions (1 = N, 2 = W, 3 = S, 4 = E). The party is taken off course in that direction, and ust spend a **Wilderness Action** to recover their way.
+- If the party gets lost, roll 1d4 for cardinal directions (1 = N, 2 = W, 3 = S, 4 = E). The party arrives in an adjacent hex in that direction, and must spend a **Wilderness Action** to recover their way.
 - Maps and relevant backgrounds negate the need for a roll, or decrease the chances to 1-in-6.
 
 #### Explore
