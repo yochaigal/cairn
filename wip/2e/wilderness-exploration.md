@@ -12,11 +12,12 @@ parent: 2e
 - A day is divided into 3 phases of approximately 8 hours each. 
 - A single **Wilderness Action** can be chosen per phase. In order to avoid **Fatigue**, one phase must be spent taking the **Rest** action. 
 - For each night the party skips the **Rest** action, each PC adds one **Fatigue** to their inventory.
+- A healthy person can travel by foot up to two hexes per day. Horses and similar mounts double travelling speed.
+
 
 ### Wilderness Actions
 #### Travel
-- A healthy person can travel by foot up to two hexes per day. Horses and similar mounts double travelling speed.
-- Obvious locations, features, and terrain types of nearby hexes are revealed according to their distance.
+- Travel across a single hex. Obvious locations, features, and terrain of nearby hexes are revealed according to their distance.
 - The party must be careful to avoid losing their way (see the [Getting Lost](#getting-lost) table).
 - The Warden rolls on the [Events Table](#events-table).
 
