@@ -1,14 +1,14 @@
 ---
 layout: default
 title: Wilderness Exploration
-grand_parent: wip
+grand_parent: WIP
 parent: 2e
 ---
 
 # Wilderness Exploration
 
 ## The Basics
-- A day is divided in 3 phases of 8 hours each (morning, noon, night).
+- A day is divided in 3 phases of 8 hours each (morning, noon, and night).
 - A single **Wilderness Action** can be chosen per phase. 
 - For each night the party skips the **Make Camp** action, each PC adds one **Fatigue** to their inventory.
 - At the start of each day, roll on the [**Weather**](#weather) table for the appropriate season.
@@ -23,11 +23,11 @@ parent: 2e
 
 ##### Getting Lost
 - There is a 2-in-6 chance the party will get lost when traveling via difficult terrain.
-- If the party gets lost, they may need to spend a **Wilderness Action** to recover their way. Optionally roll on the [Cardinal Directions](#cardinal-directions) table to see where the party finds themselves.
+- If the party gets lost, they may need to spend a **Wilderness Action** to recover their way. Optionally roll on the [Cardinal Directions](#cardinal-directions) table to see where the party ends up.
 - Maps and relevant backgrounds negate the need for a roll, or decrease the chances of getting lost to 1-in-6.
 
 ##### Cardinal Directions
-When required, consult the following table to determine a cardinal direction.
+Roll 1d6 to determine how many miles off-route the characters are, then roll 1d8 and consult the following table to find out the direction they traveled. 
 
 |         |                | 
 | :-----: | :-----------:  | 
