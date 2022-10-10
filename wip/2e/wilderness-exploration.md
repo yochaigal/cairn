@@ -16,8 +16,8 @@ parent: 2e
 
 ### Wilderness Actions
 #### Travel
-- The party travels 6 miles (or across a single hex). Obvious locations, features, and terrain of nearby hexes are revealed according to their distance.
-- A healthy person can walk up to 24 miles per day (or two hexes). Horses and other mounts increase travel speed.
+- The party travels 6 miles (or across a single hex). Obvious locations, features, and terrain of nearby areas/hexes are revealed according to their distance.
+- A healthy person can walk up to 18 miles (or three hexes) per day, provided they rest each evening. Horses and other mounts increase travel speed.
 - Difficult terrain, obstacles, and slower party members can reduce travel speed by half or more.
 - The party must be careful to avoid losing their way (see [Getting Lost](#getting-lost).
 - The Warden rolls on the [Events Table](#events-table).
@@ -44,7 +44,7 @@ When required, consult the following table to determine a cardinal direction.
 
 
 #### Explore
-The party searches for hidden any features within the current hex.
+The party searches for hidden any features within the current area/hex.
 - The Warden rolls on the [Events Table](#events-table).
 - One Location/Feature is discovered.
 
@@ -85,3 +85,5 @@ The GM rolls a **d6** and consults the table appropriate to the party’s locati
 ## Credits
 - The [Cairn Adventurer’s Guide](https://adamhensley.itch.io/cairn-adventurers-guide) by Adam Hensley
 - [Yet Another Hexcrawl Procedure](https://dangerisreal.blogspot.com/2021/08/yet-another-hexcrawl-procedure-there-is.html) by Danger is Real
+- [Overland Travel Time for OSR games](https://magickuser.wordpress.com/2020/02/19/overland-travel-time-for-osr-games/) by Vagabundork
+- [Wilderness Adventuring](https://oldschoolessentials.necroticgnome.com/srd/index.php/Wilderness_Adventuring) from Old School Essentials
