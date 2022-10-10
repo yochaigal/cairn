@@ -14,7 +14,7 @@ parent: 2e
 - At the start of each day, roll on the [**Weather**](#weather) table for the appropriate season.
 
 #### Hex Crawls
-For hexcrawls, treat each hex as 6 miles. Characters can therefore travel up to 3 hexes per day. Otherwise treat "areas" above as hexes (e.g. **Getting Lost** places you in an adjacent hex).
+If using hexes, treat each tile as 6 miles, and the **Travel** action moves the party to an adjacent hex. Consider "areas" below as individual hexes (e.g. **Getting Lost** places you in an adjacent *hex*).
 
 ## Wilderness Actions
 ### Travel
