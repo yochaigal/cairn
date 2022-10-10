@@ -66,11 +66,11 @@ Roll **1d6** and consults the table appropriate to the party’s location.
 |                         |                  |             |
 | ----------------------- | ---------------- | ----------- |
 |  **1** |  **Encounter** | Roll on an encounter table for that terrain type or location. Don’t forget to roll for NPC [reactions](/cairn-srd/#reactions) if applicable. |
-|  **2** | **Sign**  | The characters discover a clue, spoor, or indication of a nearby encounter, locality, hidden feature, or information about a nearby area.   |
+|  **2** | **Sign**  | The party discover a clue, spoor, or indication of a nearby encounter, locality, hidden feature, or information about a nearby area.   |
 |  **3** | **Locality**  | A shift in weather, terrain.   |
-|  **4** | **Expiration**  | Resources are drained in some way (lost ration or broken tools).   |
-|  **5** | **Exhaustion** |  The characters encounter a barrier, forcing effort, care or delays. This might mean spending extra time (and an additional **Wilderness Action**) or adding **Fatigue** to the PC's inventory to represent their difficulties.
-|  **6** | **Discovery** | The characters find food, treasure, or other useful resources. The **Warden** can instead choose to reveal the primary feature of the area.  |
+|  **4** | **Loss**  | The party is faced with a choice that costs them a resource (rations, tools, etc), time, or effort. |
+|  **5** | **Exhaustion** |  The party encounter a barrier, forcing effort, care or delays. This might mean spending extra time (and an additional **Wilderness Action**) or adding **Fatigue** to the PC's inventory to represent their difficulties.
+|  **6** | **Discovery** | The party find food, treasure, or other useful resources. The **Warden** can instead choose to reveal the primary feature of the area.  |
 
 ### Cardinal Directions
 Roll **1d6** to determine how many miles off-route the characters are, then roll **1d8** and consult the following table to find out the direction they traveled. 
