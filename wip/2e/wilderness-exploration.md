@@ -23,23 +23,8 @@ parent: 2e
 
 ##### Getting Lost
 - There is a 2-in-6 chance the party will get lost when traveling via difficult terrain.
-- If the party gets lost, they may need to spend a **Wilderness Action** to recover their way. Optionally roll on the [Cardinal Directions](#cardinal-directions) table to see where the party ends up.
 - Maps and relevant backgrounds negate the need for a roll, or decrease the chances of getting lost to 1-in-6.
-
-##### Cardinal Directions
-Roll 1d6 to determine how many miles off-route the characters are, then roll 1d8 and consult the following table to find out the direction they traveled. 
-
-|         |                | 
-| :-----: | :-----------:  | 
-| **d8**  | **Direction**  |
-|  **1**  |      N         |   
-|  **2**  |     NW         |   
-|  **3**  |      W         |   
-|  **4**  |     SW         |   
-|  **5**  |      S         |   
-|  **6**  |     SE         |   
-|  **7**  |      E         |   
-|  **8**  |     NE         |   
+- If the party gets lost, they may need to spend a **Wilderness Action** to recover their way. The Warden rolls on the [Cardinal Directions](#cardinal-directions) table to see where the party ends up, then rolls on the [Events Table](#events-table).
 
 #### Explore
 The party searches for hidden any features within the current area.
@@ -57,19 +42,9 @@ The party stops to set up camp.
 - The Warden rolls on the [Events Table](#events-table).
 - Party members that were able to rest lose all their **Fatigue**.
 
-## Events Table 
-The GM rolls a **d6** and consults the table appropriate to the party’s location.
-
-|                         |                  |             |
-| ----------------------- | ---------------- | ----------- |
-|  **1** |  **Encounter** | Roll on an encounter table for that terrain type or location. Don’t forget to roll for NPC [reactions](#/cairn-srd/#reactions) if applicable. |
-|  **2** | **Sign**  | The characters discover a clue, spoor, or indication of a nearby encounter, locality, hidden feature, or information about a nearby area.   |
-|  **3** | **Locality**  | A shift in weather, terrain.   |
-|  **4** | **Expiration**  | Resources are drained in some way (lost ration or broken tools).   |
-|  **5** | **Exhaustion** |  The characters encounter a barrier, forcing effort, care or delays. This might mean spending extra time (and an additional **Wilderness Action**) or adding **Fatigue** to the PC's inventory to represent their difficulties.
-|  **6** | **Discovery** | The characters find food, treasure, or other useful resources. The Warden can instead choose to reveal the primary feature of the area.  |
 
 ## Weather
+Roll **1d6** on the following table to determine the weather each day.
 
 | | | | | |
 | :-----: | :--: | :-----: | :--: | :--: |
@@ -80,6 +55,33 @@ The GM rolls a **d6** and consults the table appropriate to the party’s locati
 | **4**    | Mild and cloudy           | Mild and stormy       | Mild and breezy    | Frigid and windy      |
 | **5**    | Warm and rainy            | Hot and humid         | Chilly and foggy   | Cold and sunny        |
 | **6**    | Hot and sunny             | Sweltering and clear  | Warm and cloudy    | Mild and storming     |
+
+## Events Table 
+Roll **1d6** and consults the table appropriate to the party’s location.
+
+|                         |                  |             |
+| ----------------------- | ---------------- | ----------- |
+|  **1** |  **Encounter** | Roll on an encounter table for that terrain type or location. Don’t forget to roll for NPC [reactions](#/cairn-srd/#reactions) if applicable. |
+|  **2** | **Sign**  | The characters discover a clue, spoor, or indication of a nearby encounter, locality, hidden feature, or information about a nearby area.   |
+|  **3** | **Locality**  | A shift in weather, terrain.   |
+|  **4** | **Expiration**  | Resources are drained in some way (lost ration or broken tools).   |
+|  **5** | **Exhaustion** |  The characters encounter a barrier, forcing effort, care or delays. This might mean spending extra time (and an additional **Wilderness Action**) or adding **Fatigue** to the PC's inventory to represent their difficulties.
+|  **6** | **Discovery** | The characters find food, treasure, or other useful resources. The Warden can instead choose to reveal the primary feature of the area.  |
+
+##### Cardinal Directions
+Roll **1d6** to determine how many miles off-route the characters are, then roll **1d8** and consult the following table to find out the direction they traveled. 
+
+|         |                | 
+| :-----: | :-----------:  | 
+| **d8**  | **Direction**  |
+|  **1**  |      N         |   
+|  **2**  |     NW         |   
+|  **3**  |      W         |   
+|  **4**  |     SW         |   
+|  **5**  |      S         |   
+|  **6**  |     SE         |   
+|  **7**  |      E         |   
+|  **8**  |     NE         |   
 
 ## Credits
 - The [Cairn Adventurer’s Guide](https://adamhensley.itch.io/cairn-adventurers-guide) by Adam Hensley
