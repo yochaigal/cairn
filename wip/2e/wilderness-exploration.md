@@ -30,17 +30,17 @@ parent: 2e
 ##### Cardinal Directions
 When required, consult the following table to determine a cardinal direction.
 
-|      |           |
-| :--: | :-------: |
-|  d8  | Direction |
-|  1   |     N     |
-|  2   |    NW     |
-|  3   |     W     |
-|  4   |    SW     |
-|  5   |     S     |
-|  6   |    SE     |
-|  7   |     E     |
-|  8   |    NE     |
+|         |                | 
+| :-----: | :-----------:  | 
+| **d8**  | **Direction**  |
+|  **1**      |      N         |   
+|  **2**      |     NW         |   
+|  **3**      |      W         |   
+|  **4**      |     SW         |   
+|  **5**      |      S         |   
+|  **6**      |     SE         |   
+|  **7**      |      E         |   
+|  **8**      |     NE         |   
 
 
 #### Explore
@@ -74,13 +74,13 @@ The GM rolls a **d6** and consults the table appropriate to the party’s locati
 
 | | | | | |
 | :-----: | :--: | :-----: | :--: | :--: |
-| d6   | Spring                    | Summer                | Fall               | Winter                |
-| 1    | Cold and windy            | Cool and sunny        | Chilly and rainy   | Freezing and clear    |
-| 2    | Cold and rainy            | Hot and sunny         | Cool and windy     | Freezing and snowy    |
-| 3    | Cool and breezy           | Warm and drizzly      | Cool and rainy     | Cold and snowy        |
-| 4    | Mild and cloudy           | Mild and stormy       | Mild and breezy    | Frigid and windy      |
-| 5    | Warm and rainy            | Hot and humid         | Chilly and foggy   | Cold and sunny        |
-| 6    | Hot and sunny             | Sweltering and clear  | Warm and cloudy    | Mild and storming     |
+| **d6**   | **Spring**            | **Summer**                | **Fall**               | **Winter**                |
+| **1**    | Cold and windy            | Cool and sunny        | Chilly and rainy   | Freezing and clear    |
+| **2**    | Cold and rainy            | Hot and sunny         | Cool and windy     | Freezing and snowy    |
+| **3**    | Cool and breezy           | Warm and drizzly      | Cool and rainy     | Cold and snowy        |
+| **4**    | Mild and cloudy           | Mild and stormy       | Mild and breezy    | Frigid and windy      |
+| **5**    | Warm and rainy            | Hot and humid         | Chilly and foggy   | Cold and sunny        |
+| **6**    | Hot and sunny             | Sweltering and clear  | Warm and cloudy    | Mild and storming     |
 
 ## Credits
 - The [Cairn Adventurer’s Guide](https://adamhensley.itch.io/cairn-adventurers-guide) by Adam Hensley
