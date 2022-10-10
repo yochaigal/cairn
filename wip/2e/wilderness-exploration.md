@@ -19,7 +19,7 @@ parent: 2e
 
 ## Wilderness Actions
 ### Travel
-- The party travels up to 6 miles. Obvious locations, features, and terrain of nearby areas are revealed according to their distance. Horses and other mounts can increase (or decrease) travel speed.
+- The party travels up to 6 miles. Obvious locations, features, and terrain of nearby areas are revealed according to their distance. Horses and other mounts can increase (or even decrease) travel speed.
 - Difficult terrain, obstacles, and slower party members can reduce travel speed by half or more.
 - The party must be careful to avoid losing their way (see [Getting Lost](#getting-lost).
 - The **Warden** rolls on the [Events Table](#events).
