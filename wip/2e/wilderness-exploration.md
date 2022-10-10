@@ -7,24 +7,24 @@ parent: 2e
 
 # Wilderness Exploration
 
-## Hex Crawling
-- A "hex" represents 6 miles on a map. 
+## The Basics
 - A day is divided in 3 phases of 8 hours each (morning, noon, night).
 - A single **Wilderness Action** can be chosen per phase. 
 - For each night the party skips the **Rest** action, each PC adds one **Fatigue** to their inventory.
 - At the start of each day, roll on the [**Weather**](#weather) table for the appropriate season.
+- For hexcrawls, a hex represents 6 miles on the map. 
 
 ### Wilderness Actions
 #### Travel
-- The party travels across a single hex. Obvious locations, features, and terrain of nearby hexes are revealed according to their distance.
-- A healthy person can travel by foot up to two hexes per day. Horses and other mounts double travel speed.
+- The party travels 6 miles (or across a single hex). Obvious locations, features, and terrain of nearby hexes are revealed according to their distance.
+- A healthy person can walk up to 24 miles per day (or two hexes). Horses and other mounts increase travel speed.
 - Difficult terrain, obstacles, and slower party members can reduce travel speed by half or more.
 - The party must be careful to avoid losing their way (see [Getting Lost](#getting-lost).
 - The Warden rolls on the [Events Table](#events-table).
 
 ##### Getting Lost
 - There is a 2-in-6 chance the party will get lost when traveling via difficult terrain.
-- If the party gets lost, roll on the [Cardinal Directions](#cardinal-directions) table to determine which hex the party finds themselves. They may need to spend a **Wilderness Action** to recover their way.
+- If the party gets lost, they may need to spend a **Wilderness Action** to recover their way. Optionally roll on the [Cardinal Directions](#cardinal-directions) table to see where the party finds themselves.
 - Maps and relevant backgrounds negate the need for a roll, or decrease the chances of getting lost to 1-in-6.
 
 ##### Cardinal Directions
@@ -64,11 +64,11 @@ The GM rolls a **d6** and consults the table appropriate to the party’s locati
 |                         |                  |             |
 | ----------------------- | ---------------- | ----------- |
 |  **1** |  **Encounter** | Roll on an encounter table for that terrain type or location. Don’t forget to roll for NPC [reactions](#/cairn-srd/#reactions) if applicable. |
-|  **2** | **Sign**  | The characters discover a clue, spoor, or indication of a nearby encounter, locality, hidden feature, or information about a nearby hex.   |
+|  **2** | **Sign**  | The characters discover a clue, spoor, or indication of a nearby encounter, locality, hidden feature, or information about a nearby area/hex.   |
 |  **3** | **Locality**  | A shift in weather, terrain.   |
 |  **4** | **Expiration**  | Resources are drained in some way (lost ration or broken tools).   |
 |  **5** | **Exhaustion** |  The characters encounter a barrier, forcing effort, care or delays. This might mean spending extra time (and an additional **Wilderness Action**) or adding **Fatigue** to the PC's inventory to represent their difficulties.
-|  **6** | **Discovery** | The characters find food, treasure, or other useful resources. The Warden can instead choose to reveal the primary feature of the hex.  |
+|  **6** | **Discovery** | The characters find food, treasure, or other useful resources. The Warden can instead choose to reveal the primary feature of the area/hex.  |
 
 ## Weather
 

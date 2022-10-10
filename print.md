@@ -32,7 +32,6 @@ A _deluxe_ print edition of Cairn can be purchased from the following places:
 - [ratti incantati](https://rattiincantati.com/products/cairn-pdf)
 
 ## UK
-- [SoulMuppet](https://soulmuppet-store.co.uk/products/cairn)
 - [Rook's Press](https://www.rookspress.com/products/cairn)
 - [Igloo Tree](https://iglootree.com/cairn-283-p.asp)
 
