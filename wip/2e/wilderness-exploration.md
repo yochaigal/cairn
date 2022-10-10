@@ -3,6 +3,8 @@ layout: default
 title: Wilderness Exploration
 grand_parent: WIP
 parent: 2e
+nav_exclude: true
+search_exclude: true
 ---
 
 # Wilderness Exploration
@@ -22,12 +24,13 @@ parent: 2e
 - The party travels up to 6 miles. Obvious locations, features, and terrain of nearby areas are revealed according to their distance. Horses and other mounts can increase (or even decrease) travel speed.
 - Difficult terrain, obstacles, and slower party members can reduce travel speed by half or more.
 - The party must be careful to avoid losing their way (see [Getting Lost](#getting-lost)).
-- The **Warden** rolls on the [Events Table](#events).
+- If the party is not lost, the **Warden** rolls on the [Events Table](#events).
 
 #### Getting Lost
 - There is a 2-in-6 chance the party will get lost when traveling via difficult terrain.
 - Maps and relevant backgrounds negate the need for a roll, or decrease the chances of getting lost to 1-in-6.
-- If the party gets lost, they may need to spend a **Wilderness Action** to recover their way. The **Warden** rolls on the [Cardinal Directions](#cardinal-directions) table to see where the party ends up, then rolls on the [Events Table](#events).
+- If the party gets lost, they may need to spend a **Wilderness Action** to recover their way. 
+- The **Warden** rolls on the [Events Table](#events).
 
 ### Explore
 The party searches for hidden any features within the current area.
@@ -71,22 +74,6 @@ Roll **1d6** and consults the table appropriate to the party’s location.
 |  **4** | **Loss**  | The party is faced with a choice that costs them a resource (rations, tools, etc), time, or effort. |
 |  **5** | **Exhaustion** |  The party encounter a barrier, forcing effort, care or delays. This might mean spending extra time (and an additional **Wilderness Action**) or adding **Fatigue** to the PC's inventory to represent their difficulties.
 |  **6** | **Discovery** | The party find food, treasure, or other useful resources. The **Warden** can instead choose to reveal the primary feature of the area.  |
-
-### Cardinal Directions
-Roll **1d6** to determine how many miles off-route the characters are, then roll **1d8** and consult the following table to find out the direction they traveled. 
-
-|         |                | 
-| :-----: | :-----------:  | 
-| **d8**  | **Direction**  |
-|  **1**  |      N         |   
-|  **2**  |     NW         |   
-|  **3**  |      W         |   
-|  **4**  |     SW         |   
-|  **5**  |      S         |   
-|  **6**  |     SE         |   
-|  **7**  |      E         |   
-|  **8**  |     NE         |   
-
 
 ## Credits
 

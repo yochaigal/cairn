@@ -3,6 +3,8 @@ layout: default
 title: Dungeon Exploration
 grand_parent: wip
 parent: 2e
+nav_exclude: true
+search_exclude: true
 ---
 
 # Dungeon Exploration
