@@ -8,18 +8,18 @@ parent: 2e
 # Wilderness Exploration
 
 ## The Basics
-- A day is divided in 3 phases of 8 hours each (morning, noon, and night).
-- A single **Wilderness Action** can be chosen per phase. 
+- A day is divided in 3 **phases** of 8 hours each (morning, noon, and night).
+- A single **Wilderness Action** can be chosen per **phase**. 
 - For each night the party skips the **Make Camp** action, each PC adds one **Fatigue** to their inventory.
 - At the start of each day, roll on the [**Weather**](#weather) table for the appropriate season.
 
 #### Hex Crawls
-If using hexes, treat each tile as 6 miles, and the **Travel** action moves the party to an adjacent hex. Consider "areas" below as individual hexes (e.g. **Getting Lost** places you in an adjacent *hex*).
+- If using hexes, assume each tile is 6 miles across, and that the party can **Travel** to an adjacent tile in one **phase**.
+- **Getting Lost** places the party in an adjacent hex.
 
 ## Wilderness Actions
 ### Travel
-- The party travels up to 6 miles. Obvious locations, features, and terrain of nearby areas are revealed according to their distance.
-- A healthy person can walk up to 18 miles per day, provided they rest at least once. Horses and other mounts can increase (or decrease) travel speed.
+- The party travels up to 6 miles. Obvious locations, features, and terrain of nearby areas are revealed according to their distance. Horses and other mounts can increase (or decrease) travel speed.
 - Difficult terrain, obstacles, and slower party members can reduce travel speed by half or more.
 - The party must be careful to avoid losing their way (see [Getting Lost](#getting-lost).
 - The **Warden** rolls on the [Events Table](#events).
