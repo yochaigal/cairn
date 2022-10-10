@@ -8,7 +8,7 @@ parent: 2e
 # Wilderness Exploration
 
 ## The Basics
-- A day is divided in 3 **phases** of 8 hours each (morning, noon, and night).
+- A day is divided in 3 **phases** of 8 hours each (*morning*, *noon*, and *night*).
 - A single **Wilderness Action** can be chosen per **phase**. 
 - For each night the party skips the **Make Camp** action, each PC adds one **Fatigue** to their inventory.
 - At the start of each day, roll on the [**Weather**](#weather) table for the appropriate season.
@@ -21,7 +21,7 @@ parent: 2e
 ### Travel
 - The party travels up to 6 miles. Obvious locations, features, and terrain of nearby areas are revealed according to their distance. Horses and other mounts can increase (or even decrease) travel speed.
 - Difficult terrain, obstacles, and slower party members can reduce travel speed by half or more.
-- The party must be careful to avoid losing their way (see [Getting Lost](#getting-lost).
+- The party must be careful to avoid losing their way (see [Getting Lost](#getting-lost)).
 - The **Warden** rolls on the [Events Table](#events).
 
 #### Getting Lost
@@ -41,7 +41,7 @@ The party gathers food and water.
 
 ### **Make Camp**
 The party stops to set up camp.
-- A **Watch** rotation is set (typically 2 hours). If no rotation is possible, the character standing guard does not recover Fatigue and is _deprived_ until they can rest properly.
+- A **Watch** rotation is set (typically 2 hours). If no rotation is possible, the character standing guard does not recover **Fatigue** and is _deprived_ until they can rest properly.
 - The **Warden** rolls on the [Events Table](#events).
 - Party members that were able to rest lose all their **Fatigue**.
 
