@@ -10,14 +10,13 @@ parent: 2e
 ## The Basics
 - A day is divided in 3 phases of 8 hours each (morning, noon, night).
 - A single **Wilderness Action** can be chosen per phase. 
-- For each night the party skips the **Rest** action, each PC adds one **Fatigue** to their inventory.
+- For each night the party skips the **Make Camp** action, each PC adds one **Fatigue** to their inventory.
 - At the start of each day, roll on the [**Weather**](#weather) table for the appropriate season.
-- For hexcrawls, a hex represents 6 miles on the map. 
 
 ### Wilderness Actions
 #### Travel
-- The party travels 6 miles (or across a single hex). Obvious locations, features, and terrain of nearby areas/hexes are revealed according to their distance.
-- A healthy person can walk up to 18 miles (or three hexes) per day, provided they rest each evening. Horses and other mounts increase travel speed.
+- The party travels up to 6 miles. Obvious locations, features, and terrain of nearby areas are revealed according to their distance.
+- A healthy person can walk up to 18 miles per day, provided they rest at least once. Horses and other mounts can increase (or decrease) travel speed.
 - Difficult terrain, obstacles, and slower party members can reduce travel speed by half or more.
 - The party must be careful to avoid losing their way (see [Getting Lost](#getting-lost).
 - The Warden rolls on the [Events Table](#events-table).
@@ -33,18 +32,17 @@ When required, consult the following table to determine a cardinal direction.
 |         |                | 
 | :-----: | :-----------:  | 
 | **d8**  | **Direction**  |
-|  **1**      |      N         |   
-|  **2**      |     NW         |   
-|  **3**      |      W         |   
-|  **4**      |     SW         |   
-|  **5**      |      S         |   
-|  **6**      |     SE         |   
-|  **7**      |      E         |   
-|  **8**      |     NE         |   
-
+|  **1**  |      N         |   
+|  **2**  |     NW         |   
+|  **3**  |      W         |   
+|  **4**  |     SW         |   
+|  **5**  |      S         |   
+|  **6**  |     SE         |   
+|  **7**  |      E         |   
+|  **8**  |     NE         |   
 
 #### Explore
-The party searches for hidden any features within the current area/hex.
+The party searches for hidden any features within the current area.
 - The Warden rolls on the [Events Table](#events-table).
 - One Location/Feature is discovered.
 
@@ -53,10 +51,11 @@ The party gathers food and water.
 - The Warden rolls on the [Events Table](#events-table).
 - Hunt, fish, or forage for food. Each person involved has a 3-in-6 chance of collecting 1d4 rations worth. Characters with relevant experience can increase the chances of success or negate the roll entirely. 
 
-#### Rest
+#### **Make Camp**
 The party stops to set up camp.
+- A **Watch** rotation is set (typically 2 hours). If no rotation is possible, the character standing guard does not recover Fatigue and is _deprived_ until they can rest properly.
 - The Warden rolls on the [Events Table](#events-table).
-- If the party is able to rest fully, each party members loses all their **Fatigue** (if applicable).
+- Party members that were able to rest lose all their **Fatigue**.
 
 ## Events Table 
 The GM rolls a **d6** and consults the table appropriate to the party’s location.
@@ -64,11 +63,11 @@ The GM rolls a **d6** and consults the table appropriate to the party’s locati
 |                         |                  |             |
 | ----------------------- | ---------------- | ----------- |
 |  **1** |  **Encounter** | Roll on an encounter table for that terrain type or location. Don’t forget to roll for NPC [reactions](#/cairn-srd/#reactions) if applicable. |
-|  **2** | **Sign**  | The characters discover a clue, spoor, or indication of a nearby encounter, locality, hidden feature, or information about a nearby area/hex.   |
+|  **2** | **Sign**  | The characters discover a clue, spoor, or indication of a nearby encounter, locality, hidden feature, or information about a nearby area.   |
 |  **3** | **Locality**  | A shift in weather, terrain.   |
 |  **4** | **Expiration**  | Resources are drained in some way (lost ration or broken tools).   |
 |  **5** | **Exhaustion** |  The characters encounter a barrier, forcing effort, care or delays. This might mean spending extra time (and an additional **Wilderness Action**) or adding **Fatigue** to the PC's inventory to represent their difficulties.
-|  **6** | **Discovery** | The characters find food, treasure, or other useful resources. The Warden can instead choose to reveal the primary feature of the area/hex.  |
+|  **6** | **Discovery** | The characters find food, treasure, or other useful resources. The Warden can instead choose to reveal the primary feature of the area.  |
 
 ## Weather
 
