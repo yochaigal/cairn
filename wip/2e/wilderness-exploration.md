@@ -13,6 +13,9 @@ parent: 2e
 - For each night the party skips the **Make Camp** action, each PC adds one **Fatigue** to their inventory.
 - At the start of each day, roll on the [**Weather**](#weather) table for the appropriate season.
 
+#### Hex Crawls
+For hexcrawls, treat each hex as 6 miles. Characters can therefore travel up to 3 hexes per day. Otherwise treat "areas" above as hexes (e.g. **Getting Lost** places you in an adjacent hex).
+
 ## Wilderness Actions
 ### Travel
 - The party travels up to 6 miles. Obvious locations, features, and terrain of nearby areas are revealed according to their distance.
@@ -62,7 +65,7 @@ Roll **1d6** and consults the table appropriate to the party’s location.
 
 |                         |                  |             |
 | ----------------------- | ---------------- | ----------- |
-|  **1** |  **Encounter** | Roll on an encounter table for that terrain type or location. Don’t forget to roll for NPC [reactions](#/cairn-srd/#reactions) if applicable. |
+|  **1** |  **Encounter** | Roll on an encounter table for that terrain type or location. Don’t forget to roll for NPC [reactions](/cairn-srd/#reactions) if applicable. |
 |  **2** | **Sign**  | The characters discover a clue, spoor, or indication of a nearby encounter, locality, hidden feature, or information about a nearby area.   |
 |  **3** | **Locality**  | A shift in weather, terrain.   |
 |  **4** | **Expiration**  | Resources are drained in some way (lost ration or broken tools).   |
@@ -84,7 +87,9 @@ Roll **1d6** to determine how many miles off-route the characters are, then roll
 |  **7**  |      E         |   
 |  **8**  |     NE         |   
 
+
 ## Credits
+
 - The [Cairn Adventurer’s Guide](https://adamhensley.itch.io/cairn-adventurers-guide) by Adam Hensley
 - [Yet Another Hexcrawl Procedure](https://dangerisreal.blogspot.com/2021/08/yet-another-hexcrawl-procedure-there-is.html) by Danger is Real
 - [Overland Travel Time for OSR games](https://magickuser.wordpress.com/2020/02/19/overland-travel-time-for-osr-games/) by Vagabundork
