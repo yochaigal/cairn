@@ -49,7 +49,7 @@ Crystal Orb: 1d6 STR damage unless some sort of magical protection is utilized.
 
 **Maintenance Automata**
 6 HP, 3 Armor, 12 STR, 15 DEX, 18 WIL, pincers (d8+d8)
-* Mechanized Body: The automata's metal construction and mechanical nature ensures that all attacks with normal weapons are *impaired* and that it is immune to mind-influencing effects.
+* Mechanized Body: The automata's metal construction and mechanical nature ensures that all attacks with non-bludgeoning weapons are *impaired* and that it is immune to mind-influencing effects.
 
 ### 13) Mechanarium 
 
