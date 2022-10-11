@@ -62,7 +62,7 @@ Gigantic Tanks: Anyone too close to a ruptured tank immediately takes 1d6 STR da
 * Unlocks all normal Empyrean doors with the expenditure of 1 charge. High security doors require a WIL save as well, and use 1d6 charges in the process.
 * **Recharge**: Unknown. 
 
-Void Armor
+**Void Armor**
 * As Chainmail (2 Armor), but also allows the wearer to operate in airless environments (for 12 Turns, if using Turn procedures).
 * Wearers always act last during combat.
 
