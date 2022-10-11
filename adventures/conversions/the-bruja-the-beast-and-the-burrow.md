@@ -51,6 +51,7 @@ title: The Bruja, the Beast, and the Barrow
 
 **Shining Bronze Spear (Blood Spear)**
 - d8 damage (magical), on critical damage heals 1 STR damage.
+
 **Converter's Note:** The following relic, claimable if pried from the face of Marble Eye, is an elaboration on the original adventure. They are meant to provide Foreground Growth opportunity, but are purely optional and not part of the original designer's vision.
 
 **Heliotrope Eyes, 2 Charges**
