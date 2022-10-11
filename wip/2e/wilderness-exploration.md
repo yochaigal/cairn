@@ -33,7 +33,7 @@ search_exclude: true
 - The **Warden** rolls on the [Events Table](#events).
 
 ### Explore
-The party searches for hidden any features within the current area.
+The party searches for any hidden features within the current area.
 - The **Warden** rolls on the [Events Table](#events).
 - One Location/Feature is discovered.
 
@@ -44,6 +44,7 @@ The party gathers food and water.
 
 ### **Make Camp**
 The party stops to set up camp.
+- Each party member (and their animals) consume a ration.
 - A **Watch** rotation is set (typically 2 hours). If no rotation is possible, the character standing guard does not recover **Fatigue** and is _deprived_ until they can rest properly.
 - The **Warden** rolls on the [Events Table](#events).
 - Party members that were able to rest lose all their **Fatigue**.
