@@ -21,15 +21,25 @@ search_exclude: true
 
 ## Wilderness Actions
 ### Travel
-- The party travels up to 6 miles. Obvious locations, features, and terrain of nearby areas are revealed according to their distance. Horses and other mounts can increase (or even decrease) travel speed.
-- Difficult terrain, obstacles, and slower party members can reduce travel speed by half or more.
-- The party must be careful to avoid losing their way (see [Getting Lost](#getting-lost)).
-- If the party is not lost, the **Warden** rolls on the [Events Table](#events).
+- The party travels towards the chosen destination. A party walking on roads or settled terrain can travel up to 6 miles.
+- Obvious locations, features, and terrain of nearby areas are revealed according to their distance. 
+- An area's terrain, weather, obstacles, and slow or injured party members can reduce travel speed. See [**Difficulty**](#difficulty). 
+- [**Difficulty**](#difficulty) also affects how easily the party can lose their way (see [**Getting Lost**](#getting-lost)).
+- Provided the party does not get lost, the **Warden** rolls on the [Events Table](#events).
+
+#### Difficulty
+##### Terrain
+Difficult terrain impacts Mounts can double a party's travel speed or overcome a terrain's difficulty. 
+- **Easy**: roads, farmlands, plains. _Normal_. The party can travel 6 miles in one phase. 
+- **Difficult**: jungles, forests, hills. _Slow_. Takes _twice_ as long to cross. Chance of **Getting Lost**: 2-in-6.
+- **Perilous**: swamps, deserts, mountains. Takes _three_ times as long. Chance of **Getting Lost**: 3-in-6.
+
+##### Inclement weather 
+Results of a 5 or 6 on the [Weather Table](#weather)) can increase a terrain's difficulty by one step (e.g. **Easy** terrain becomes **Difficult**).  
 
 #### Getting Lost
-- There is a 2-in-6 chance the party will get lost when traveling via difficult terrain.
-- Maps and relevant backgrounds negate the need for a roll, or decrease the chances of getting lost to 1-in-6.
 - If the party gets lost, they may need to spend a **Wilderness Action** to recover their way. 
+- Maps and relevant backgrounds negate the need for a roll, or decrease the chances of getting lost.
 - The **Warden** rolls on the [Events Table](#events).
 
 ### Explore
@@ -52,17 +62,17 @@ The party stops to set up camp.
 ## Tables
 
 ### Weather
-Roll **1d6** on the following table to determine the weather each day.
+Roll **1d6** on the following table to determine the weather each day. 
 
-| | | | | |
-| :-----: | :--: | :-----: | :--: | :--: |
-| **d6**   | **Spring**            | **Summer**                | **Fall**               | **Winter**                |
-| **1**    | Cold and windy            | Cool and sunny        | Chilly and rainy   | Freezing and clear    |
-| **2**    | Cold and rainy            | Hot and sunny         | Cool and windy     | Freezing and snowy    |
-| **3**    | Cool and breezy           | Warm and drizzly      | Cool and rainy     | Cold and snowy        |
-| **4**    | Mild and cloudy           | Mild and stormy       | Mild and breezy    | Frigid and windy      |
-| **5**    | Warm and rainy            | Hot and humid         | Chilly and foggy   | Cold and sunny        |
-| **6**    | Hot and sunny             | Sweltering and clear  | Warm and cloudy    | Mild and storming     |
+|        |                    |                      |                   |                      |
+| :----: | :----------------: | :------------------: | :---------------: | :------------------: |
+| **d6** |     **Spring**     |      **Summer**      |     **Fall**      |     **Winter**       |
+| **1**  |   Mild and sunny   |    Hot and sunny     | Warm and breezy   | Mild and clear       |
+| **2**  | Warm and drizzly   |   Warm and cloudy    | Mild and windy    | Cool and windy       |
+| **3**  |  Cool and breezy   |    Mild and rainy    | Cool and foggy    | Cold and raining     |
+| **4**  |  Mild and cloudy   |    Cool and stormy   | Cold and cloudy   | Frigid and stormy    |
+| **5**  |   Cold and windy   |   Hot and humid      | Cool and rainy    | Freezing and snowing |
+| **6**  |  Cold and rainy    | Sweltering and humid | Chilly and stormy | Freezing and hailing |
 
 ### Events 
 Roll **1d6** and consults the table appropriate to the party’s location.
@@ -71,10 +81,29 @@ Roll **1d6** and consults the table appropriate to the party’s location.
 | ----------------------- | ---------------- | ----------- |
 |  **1** |  **Encounter** | Roll on an encounter table for that terrain type or location. Don’t forget to roll for NPC [reactions](/cairn-srd/#reactions) if applicable. |
 |  **2** | **Sign**  | The party discover a clue, spoor, or indication of a nearby encounter, locality, hidden feature, or information about a nearby area.   |
-|  **3** | **Locality**  | A shift in weather, terrain.   |
+|  **3** | **Environment**  | A shift in weather or terrain.   |
 |  **4** | **Loss**  | The party is faced with a choice that costs them a resource (rations, tools, etc), time, or effort. |
-|  **5** | **Exhaustion** |  The party encounter a barrier, forcing effort, care or delays. This might mean spending extra time (and an additional **Wilderness Action**) or adding **Fatigue** to the PC's inventory to represent their difficulties.
+|  **5** | **Exhaustion** | The party encounter a barrier, forcing effort, care or delays. This might mean spending extra time (and an additional **Wilderness Action**) or adding **Fatigue** to the PC's inventory to represent their difficulties.
 |  **6** | **Discovery** | The party find food, treasure, or other useful resources. The **Warden** can instead choose to reveal the primary feature of the area.  |
+
+## Example
+
+The party (3 healthy PCs walking by foot) are travelling from the village of **Rudbbat** to a ruin deep in the forest of **Ein Eyton**. 
+- The party plots a path from their current location in the Southwest (which has roads and farmlands), over the **Deshe** hills, and into the forest. 
+- The total journey is roughly 15 miles (6 miles on the road, 6 miles over the hills, and 3 miles into the forest). 
+- The first day of travel, the **Warden** rolls a 3 on the **Weather** table (**Fall**: _Cool and foggy_). 
+
+For their first **Phase**, the party decides to **Travel**, which takes them along a maintained road out of the village and through the farmlands. The terrain and weather indicate that the current **Difficulty** is **Easy**. The is able to travel with no problems, and the **Warden** rolls on the **Events** table. The result is an **Encounter**. The **Warden** explains that the party crosses paths with an NPC travelling South, who gives them a piece of advice: *avoid the hills, there are bandits about*! The party notes this and moves on, arriving in the **Deshe** hills after lunchtime. They rest near a streambed, stepping off the dusty road for the first time.
+
+For the party's second **Phase**, the **Warden** explains that this area is peppered with small rocks and uneven hills, making it more difficult to cross. Not only will the party travel at *half* their speed (3 miles per phase, arriving only a quarter of the way through by nightfall), but without a guide they might easily lose their way! The players discuss whether it would be better to spend a **Phase** exploring the area, finding a faster (and safer) way through. 
+
+The party decides that the risk of crossing now and arriving at their destination sooner is worth it, and agree to proceed with the **Travel** action again. The players discuss how to avoid **Getting Lost**, checking to see if anyone in the party has knowledge of the area, relevant experience, or a map. They do not, so the **Warden** rolls 1d6. The result is not a **1** or a **2**, so regular **Travel** can finally begin. 
+
+The **Warden** rolls on the **Events** table, and the result is **Environment**. The **Warden** explains that a short while after entering the hills, the ground becomes much more treacherous. Small rocks have become large crags, the hill turned to pits and mini-craters. The party now has a choice: push forward, spending a **Fatigue** to keep their speed, or slow down even further (1.5 miles per phase). They agree to push forward, each character adding a **Fatigue** to their inventory.
+
+As night descends, the party finds a large, rocky, outcropping that would work as a suitable shelter. There is no water nearby, this location should be sufficient for their needs. They agree to **Make Camp** as their final **Phase**, choosing a **Watch Rotation** that should allow all party members a decent rest, and a chance to shed any **Fatigue** they have. The **Warden** rolls on the **Events** table, the result is a **Sign** - the flickering ghost of a torchlight in the distance. Could it be bandits, or some creature, on the prowl?
+
+The party rests, erasing their **Fatigue**. They have travelled only 9 of their 15 miles. If they push themselves tomorrow, they might arrive at the **Ein Eyton** ruins by nightfall.
 
 ## Credits
 
