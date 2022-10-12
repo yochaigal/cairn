@@ -12,10 +12,21 @@ search_exclude: true
 ## The Basics
 - A day is divided in 3 **phases** of 8 hours each (*morning*, *noon*, and *night*).
 - A single **Wilderness Action** can be chosen per **phase**. 
-- For each night the party skips the **Make Camp** action, each PC adds one **Fatigue** to their inventory, and does not gain any benefits of sleep.
 - At the start of each day, roll on the [**Weather**](#weather) table for the appropriate season.
+- **The Warden** should determine the present [Difficulty](#difficulty) before each **phase**.
+- If the party skips the **Make Camp** action, each PC adds one **Fatigue** to their inventory, and does not gain any benefits of sleep. They can only do this once before needing to rest fully. 
 
-#### Hex Crawls
+## Difficulty
+### Terrain
+An area's terrain, weather, obstacles, and slow or injured party members can reduce travel speed. Mounts can double a party's travel speed or overcome a terrain's difficulty.
+- **Easy**: roads, farmlands, plains. _Normal speed_. The party can travel 6 miles in one phase. 
+- **Difficult**: jungles, forests, hills. _Slow_. Takes _twice_ as long to cross. Chance of **Getting Lost**: 2-in-6.
+- **Perilous**: swamps, deserts, mountains. _Dangerous_. Takes _three_ times as long. Chance of **Getting Lost**: 3-in-6.
+
+### Inclement weather 
+Results of a 5 or 6 on the [Weather Table](#weather)) can increase a terrain's difficulty by one step (e.g. **Easy** terrain becomes **Difficult**).  
+
+### Hex Crawls
 - If using hexes, assume each tile is 6 miles across, and that the party can **Travel** to an adjacent tile in one **phase**.
 - **Getting Lost** places the party in an adjacent hex.
 
@@ -23,19 +34,8 @@ search_exclude: true
 ### Travel
 - The party travels towards the chosen destination. A party walking on roads or settled terrain can travel up to 6 miles.
 - Obvious locations, features, and terrain of nearby areas are revealed according to their distance. 
-- An area's terrain, weather, obstacles, and slow or injured party members can reduce travel speed. See [**Difficulty**](#difficulty). 
-- [**Difficulty**](#difficulty) also affects how easily the party can lose their way (see [**Getting Lost**](#getting-lost)).
-- Mounts can double a party's travel speed or overcome a terrain's difficulty.
+- The current [**Difficulty**](#difficulty) affects how quickly the party travels, as well as how easily the party can lose their way (see [**Getting Lost**](#getting-lost)).
 - Provided the party does not get lost, the **Warden** rolls on the [Events Table](#events).
-
-#### Difficulty
-##### Terrain
-- **Easy**: roads, farmlands, plains. _Normal_. The party can travel 6 miles in one phase. 
-- **Difficult**: jungles, forests, hills. _Slow_. Takes _twice_ as long to cross. Chance of **Getting Lost**: 2-in-6.
-- **Perilous**: swamps, deserts, mountains. Takes _three_ times as long. Chance of **Getting Lost**: 3-in-6.
-
-##### Inclement weather 
-Results of a 5 or 6 on the [Weather Table](#weather)) can increase a terrain's difficulty by one step (e.g. **Easy** terrain becomes **Difficult**).  
 
 #### Getting Lost
 - If the party gets lost, they may need to spend a **Wilderness Action** to recover their way. 
@@ -45,7 +45,7 @@ Results of a 5 or 6 on the [Weather Table](#weather)) can increase a terrain's d
 ### Explore
 The party searches for any hidden features within the current area.
 - The **Warden** rolls on the [Events Table](#events).
-- One Location/Feature is discovered.
+- One Location or Feature is discovered.
 
 ### Supply
 The party gathers food and water.
@@ -57,12 +57,14 @@ The party stops to set up camp.
 - Each party member (and their animals) consume a ration.
 - A **Watch** rotation is set (typically 2 hours). If no rotation is possible, the character standing guard does not recover **Fatigue** and is _deprived_ until they can rest properly.
 - The **Warden** rolls on the [Events Table](#events).
-- Party members that were able to rest lose all their **Fatigue**.
+- Party members that were able to rest remove all of **Fatigue** from their inventory.
+
+## Splitting Actions
+If the characters split up, each party acts independently.
 
 ## Tables
 
 ### Weather
-Roll **1d6** on the following table to determine the weather each day. 
 
 |        |                    |                      |                   |                      |
 | :----: | :----------------: | :------------------: | :---------------: | :------------------: |
@@ -75,7 +77,6 @@ Roll **1d6** on the following table to determine the weather each day.
 | **6**  |  Cold and rainy    | Sweltering and humid | Chilly and stormy | Freezing and hailing |
 
 ### Events 
-Roll **1d6** and consults the table appropriate to the party’s location.
 
 |                         |                  |             |
 | ----------------------- | ---------------- | ----------- |
