@@ -43,4 +43,4 @@ grand_parent: WIP
 | 6    |**Repellent** | Powerful stuff. You're not sure what it is actually _meant_ to repell though, as the writing is faded. Maybe everything? 3 uses.        |
 
 ## If you are the oldest character in the party, your whole group is in Debt is to....
-**The Constables**. Your party knocked over some large stones while delving for rare treasure beneath an ancient burial tomb. Not only were the locals upset at your desecration, but the tomb had already been robbed ages ago! The authorities have deemed that you either pay a hefty fine (200gp) or find a way to fix things before the people get restless, or violent. 
+**The Constables**. Your adventuring party knocked over two large stones while delving for rare treasure beneath an ancient burial tomb. Not only were the locals upset at your desecration, but the tomb had already been robbed ages ago! The authorities have deemed that you either pay a hefty fine (200gp per PC) or find a way to fix things before the people get restless, or violent. 
