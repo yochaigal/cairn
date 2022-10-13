@@ -109,7 +109,10 @@ In this example we'll be using a map made with [Watabou's](https://watabou.itch.
 
 [![Alt text](/img/2e/wilderness-map.png "Click to embiggen"){:height="60%" width="60%"}](/img/2e/wilderness-map.png)
 
-The party (3 healthy PCs walking by foot) are plotting a journey to an ancient ruin deep in the forests of **Ein Eyton**. The forest is separated from the party's present location (the village of **Rudbat**) by the neighboring **Range of Deshe**, a short distance away. The **Warden** explains that travelling on the forgiving roads from the village to the hills will require only a single **phase**, but that it will take three _additional_ **phases** for the party to complete their journey to the forest, assuming they spend one **phase** sleeping. 
+The party (3 healthy PCs walking by foot) are plotting a journey to an ancient ruin deep in the forests of **Ein Eyton**. 
+The forest (**3**) is separated from the party's present location (the village of **Rudbat**, at **1**) by the neighboring **Range of Deshe** (**2**), a short distance away. 
+
+The **Warden** explains that travelling on the forgiving roads from the village to the hills will require only a single **phase**, but that it will take three _additional_ **phases** for the party to complete their journey to the forest, assuming they spend one **phase** sleeping. 
 
 The party accepts this route, plotting their route: one **phase** to reach the hills (_morning_), one **phase** partway through the hills (_afternoon_), then another **phase** sleeping (_night_). The party would spend the following day's _morning_ **phase** travelling to their final destination. On the first day of travel, the **Warden** rolls a 3 on the **Weather** table (**Fall**: _Cool and foggy_). 
 
