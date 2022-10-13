@@ -11,7 +11,7 @@ search_exclude: true
 
 ## The Basics
 - The day is divided in 3 **phases** of 8 hours each: _morning_, _noon_, and _night_.
-- The party can choose _one_ [**Wilderness Action**](#wilderness-action) per **phase**. 
+- The party can choose _one_ [**Wilderness Action**](#wilderness-actions) per **phase**. 
 - A typical region will have a set number of _known_ locations, called **points**. 
 - One or more **phases** may be required to journey between two **points** on a map, depending on the party's **travel speed**.
 - A party walking on roads or settled terrain can usually travel between two nearby **points** in a single **phase**. 
@@ -76,8 +76,8 @@ search_exclude: true
 - The **Warden** rolls on the [Events Table](#events).
 - Party members that were able to rest remove all of **Fatigue** from their inventory.
 
-## Splitting Actions
-- If the characters split up, each party acts independently.
+## Splitting Up
+- If the characters split up, each party is treated as independent entities, and rolls impact only the group triggering the action..
 
 ## Tables
 
