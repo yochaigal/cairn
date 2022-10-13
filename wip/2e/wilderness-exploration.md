@@ -36,6 +36,7 @@ search_exclude: true
 - Mounts, guides, and maps can increase the party's travel speed or overcome a terrain's difficulty.
 - Inclement weather (such as results of a 5 or 6 on the [Weather Table](#weather)) can increase a terrain's difficulty or make travel impossible.
 - Travelling at night _always_ increases the difficulty by one step (i.e. **Easy** terrain becomes **Tough**).
+- Occasionally, the **Warden** may offer a choice to the party that involves spending additional **Fatigue**, losing time, or expending a tool in order to overcome an obstacle or difficulty.
 
 ### Terrain
 
