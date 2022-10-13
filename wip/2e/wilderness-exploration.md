@@ -11,65 +11,68 @@ search_exclude: true
 
 ## The Basics
 - A day is divided in 3 **phases** of 8 hours each (*morning*, *noon*, and *night*).
-- A single **Wilderness Action** can be chosen per **phase**. 
+- A single [**Wilderness Action**](#wilderness-action) can be chosen per **phase**. 
 - At the start of each day, roll on the [**Weather**](#weather) table for the appropriate season.
 - **The Warden** determines the present [Difficulty](#difficulty) before each **phase** by noting the terrain, weather, and the party's relative status (maps, guides, injuries, exhaustion, etc).
+- The party chooses a single **Wilderness Action**, and the **Warden** narrates the results. Repeat for the other **phases**, then start the day anew.
 
-## Sleep
+### Sleep
 - A character usually requires 6-8 hours of sleep. The last **phase** of the day is typically reserved for the [**Make Camp**](#make-camp) action. The characters could choose to travel during the night and rest during the day, but night travel is far more treacherous!
-- If the party skips the [**Make Camp**](#make-camp) action, each PC adds one **Fatigue** to their inventory, and does not gain any benefits of sleep. They can only do this once before needing to rest fully. 
+- If the party skips the **Make Camp** action, each PC adds one **Fatigue** to their inventory, and does not gain any benefits of sleep. They can only do this once before needing to rest fully. 
 
 ## Difficulty
-### Terrain
+### Speed
+- A party walking on roads or settled terrain can travel up to 6 miles. 
 - An area's terrain, weather, obstacles, and slow or injured party members can reduce travel speed. 
-- Mounts, guides, maps can increase the party's travel speed or overcome a terrain's difficulty.
+- Mounts, guides, and maps can increase the party's travel speed or overcome a terrain's difficulty.
+- Inclement weather (such as results of a 5 or 6 on the [Weather Table](#weather)) can increase a terrain's difficulty or make travel impossible.
 - Travelling at night _always_ increases the difficulty by one step (i.e. **Easy** terrain becomes **Tough**).
 
-|              |                            |                 |                        |  
-| ------------ | -------------------------- | --------------- | -----------------------|
-| Difficulty   | Terrain                    | Speed           | Odds of Getting Lost   |
-| **Easy**     | Roads, farmlands, plains   | Normal          | 1-in-6                 |
-| **Tough**    | Jungles, forests, hills    | Half speed      | 2-in-6                 |
-| **Perilous** | Swamps, deserts, mountains | One-third speed | 3-in-6                 |
+### Terrain
 
-### Inclement weather 
-Results of a 5 or 6 on the [Weather Table](#weather)) can increase a terrain's difficulty by one step (e.g. **Easy** terrain becomes **Tough**).  
+|                  |                            |                     |                          |  
+| ---------------- | -------------------------- | ------------------- | -------------------------|
+| **Difficulty**   | **Terrain**                | **Travel Duration** | **Odds of Getting Lost** |
+| **Easy**         | Roads, farmlands, plains   | Normal              | None                     |
+| **Tough**        | Jungles, forests, hills    | Doubled             | 2-in-6                   |
+| **Perilous**     | Swamps, deserts, mountains | Tripled             | 3-in-6                   |
 
-### Hex Crawls
+## Hex Crawls
 - If using hexes, assume each tile is 6 miles across, and that the party can **Travel** to an adjacent tile in one **phase**.
 - [**Getting Lost**](#getting-lost) places the party in an adjacent hex.
 
 ## Wilderness Actions
 ### Travel
-- The party travels towards the chosen destination. A party walking on roads or settled terrain can travel up to 6 miles.
-- Obvious locations, features, and terrain of nearby areas are revealed according to their distance. 
-- The current [**Difficulty**](#difficulty) affects how quickly the party travels, as well as how easily the party can lose their way (see [**Getting Lost**](#getting-lost)).
+- The party plots a course towards the chosen destination. 
+- The **Warden** explains how the current [**Difficulty**](#difficulty) affects travel speed, what obstacles they may face, and the odds of [**Getting Lost**](#getting-lost). The party adjusts their travel plans (if possible or required).
+- Travel begins. Obvious locations, features, and terrain of nearby areas are revealed according to their distance. 
+- If necessary, the party rolls 1d6 to see if they've become lost.
 - Provided the party does not get lost, the **Warden** rolls on the [Events Table](#events).
 
 #### Getting Lost
 - If the party gets lost, they may need to spend a **Wilderness Action** to recover their way. 
-- Maps and relevant backgrounds negate the need for a roll, or decrease the chances of getting lost.
+- Maps and relevant backgrounds may negate the need for a roll, or decrease the chances of getting lost.
 - The **Warden** rolls on the [Events Table](#events).
 
 ### Explore
-The party searches for any hidden features within the current area.
+- The party covers a large area, searching for hidden features, scouting ahead, or treading carefully.
 - The **Warden** rolls on the [Events Table](#events).
 - One Location or Feature is discovered.
+- The **Travel** action is still required to _leave_ the current area, even if it has been completely explored.
 
 ### Supply
-The party gathers food and water.
+- The party gathers food and water.
 - The **Warden** rolls on the [Events Table](#events).
 - Hunt, fish, or forage for food. Each person involved has a 3-in-6 chance of collecting 1d4 rations worth. Characters with relevant experience can increase the chances of success or negate the roll entirely. 
 
 ### **Make Camp**
-The party stops to set up camp.
-- Each party member (and their animals) consume a ration.
+- The party stops to set up camp. Each party member (and their animals) consume a ration.
 - A **Watch** rotation is set (typically 2 hours). If no rotation is possible, the character standing guard does not recover **Fatigue** and is _deprived_ until they can rest properly.
 - The **Warden** rolls on the [Events Table](#events).
 - Party members that were able to rest remove all of **Fatigue** from their inventory.
 
 ## Splitting Actions
-If the characters split up, each party acts independently.
+- If the characters split up, each party acts independently.
 
 ## Tables
 
