@@ -20,7 +20,7 @@ search_exclude: true
 ### Hex Maps
 - If using hexes, assume that the **Travel** action moves the party to an adjacent tile in one **phase** at _Normal_ **travel speed*, and that if they get lost they end up in an adjacent hex.
 
-## Agenda
+## Day Cycle
 - Each _morning_, the **Warden** rolls on the [**Weather**](#weather) table for the appropriate season.
 - Before each **phase** begins, the party plots or adjusts a given course towards their destination based on available information.
 - The **Warden** explains how the current [**Difficulty**](#difficulty) affects the party's **travel speed**, what obstacles the party may face, and the odds of [**Getting Lost**](#getting-lost). The party adjusts their plans accordingly.
@@ -28,8 +28,9 @@ search_exclude: true
 - Repeat the process for the other two **phases**. The last **phase** of the day is typically reserved for the [**Make Camp**](#make-camp) action (see [**Sleep**](#sleep) below).
 
 ### Sleep
-- A travelling character usually requires 6-8 hours of sleep. A character can only skip sleep _once_ before needing to rest fully again the next day.
-- If the party skips the **Make Camp** action, they each add one **Fatigue** to their inventory, are _deprived_, and do not gain any benefits of sleep. 
+- Characters typically need to sleep each day. Anything beyond a minor interruption can negate or cancel the benefits of sleep.
+- If the party skips the **Make Camp** action, they each add one **Fatigue** to their inventory, are _deprived_.
+- Party members can skip sleeping _once_ before needing to rest fully again the next day.
 - The party can choose to travel during the night and rest during the day, but night travel is far slower and more treacherous!
 
 ## Difficulty
@@ -71,8 +72,8 @@ search_exclude: true
 - Hunt, fish, or forage for food. Each person involved has a 3-in-6 chance of collecting 1d4 rations worth. Characters with relevant experience can increase the chances of success or negate the roll entirely. 
 
 ### **Make Camp**
-- The party stops to set up camp. Each party member (and their animals) consume a ration.
-- A **Watch** rotation is set (typically 2 hours). If no rotation is possible, the character standing guard does not recover **Fatigue** and is _deprived_ until they can rest properly.
+- The party stops to set up camp. Each party member (and their mounts) consume a ration.
+- A **Watch** rotation is set from each party member. If a rotation is not possible, whomever stands guard gains a **Fatigue** and is _deprived_ until they are able to rest properly.
 - The **Warden** rolls on the [Events Table](#events).
 - Party members that were able to rest remove all of **Fatigue** from their inventory.
 
@@ -115,7 +116,7 @@ The forest (at **3**) is separated from the party's present location (the villag
 
 The **Warden** explains that travelling on the forgiving roads from the village to the hills will require only a single **phase**, but that it will take three _additional_ **phases** for the party to complete their journey to the forest, assuming they spend one **phase** sleeping. 
 
-The party accepts this route, plotting their route: one **phase** to reach the hills (_morning_), one **phase** partway through the hills (_afternoon_), then another **phase** sleeping (_night_). The party would spend the following day's _morning_ **phase** travelling to their final destination. On the first day of travel, the **Warden** rolls a 3 on the **Weather** table (**Fall**: _Cool and foggy_). 
+The party accepts this route, plotting their route: one **phase** to reach the hills (_morning_), one **phase** partway through the hills (_afternoon_), then another **phase** sleeping (the **Making Camp** action) at (_night_). The party would spend the following day's _morning_ **phase** travelling to their final destination. On the first day of travel, the **Warden** rolls a 3 on the **Weather** table (**Fall**: _Cool and foggy_). 
 
 For their first **phase**, the party chooses the **Travel** action, taking the road through the farmlands and to the hills. The terrain, weather, and current party status indicates that the **Difficulty** level is **Easy**. The party is able to travel with no forseeable problems, so the **Warden** rolls on the **Events** table. The result is an **Encounter**. The **Warden** explains that the party crosses paths with an NPC travelling South, who gives them a piece of advice: "_Avoid the hills, there are bandits about_!" The party notes this and moves on, arriving in the **Range of Deshe** after lunchtime. They rest near a streambed, stepping off the dusty road for the first time.
 
