@@ -94,22 +94,7 @@ search_exclude: true
 |  **5** | **Exhaustion** | The party encounter a barrier, forcing effort, care or delays. This might mean spending extra time (and an additional **Wilderness Action**) or adding **Fatigue** to the PC's inventory to represent their difficulties.
 |  **6** | **Discovery** | The party find food, treasure, or other useful resources. The **Warden** can instead choose to reveal the primary feature of the area.  |
 
-### Cardinal Directions
-Optionally, the **Warden** can roll on the table below to see how far off track the party ends up when they got lost.  
-
-|         |                | 
-| :-----: | :-----------:  | 
-| **d8**  | **Direction**  |
-|  **1**  |      N         |   
-|  **2**  |     NW         |   
-|  **3**  |      W         |   
-|  **4**  |     SW         |   
-|  **5**  |      S         |   
-|  **6**  |     SE         |   
-|  **7**  |      E         |   
-|  **8**  |     NE         |   
-
-### Hex Crawls
+## Hex Crawls
 - If using hexes, assume each tile is 6 miles across, and that the party can **Travel** to an adjacent tile in one **phase**.
 - [**Getting Lost**](#getting-lost) places the party in an adjacent hex.
 
