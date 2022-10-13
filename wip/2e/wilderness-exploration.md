@@ -22,7 +22,7 @@ search_exclude: true
 ## Agenda
 - Each _morning_, the **Warden** rolls on the [**Weather**](#weather) table for the appropriate season.
 - Before each **phase** begins, the party plots or adjusts a given course towards their destination based on available information.
-- The **Warden** explains how the current [**Difficulty**](#difficulty) affects travel speed, what obstacles the party may face, and the odds of [**Getting Lost**](#getting-lost). The party adjusts their travel plans accordingly.
+- The **Warden** explains how the current [**Difficulty**](#difficulty) affects the party's **travel speed**, what obstacles the party may face, and the odds of [**Getting Lost**](#getting-lost). The party adjusts their plans accordingly.
 - The party chooses a single **Wilderness Action**, and the **Warden** narrates the results. 
 - Repeat for the process for the other two **phases**. The last **phase** of the day is typically reserved for the [**Make Camp**](#make-camp) action (see [**Sleep**](#sleep) below).
 
