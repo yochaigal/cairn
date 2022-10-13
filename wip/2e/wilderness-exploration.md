@@ -13,6 +13,7 @@ search_exclude: true
 - A day is divided in 3 **phases** of 8 hours each (*morning*, *noon*, and *night*).
 - A single [**Wilderness Action**](#wilderness-action) can be chosen per **phase**. 
 - At the start of each day, roll on the [**Weather**](#weather) table for the appropriate season.
+- A party walking on roads or settled terrain can travel up to 6 miles. This is considered _Normal_ speed.
 - **The Warden** determines the present [Difficulty](#difficulty) before each **phase** by noting the terrain, weather, and the party's relative status (maps, guides, injuries, exhaustion, etc).
 - The party chooses a single **Wilderness Action**, and the **Warden** narrates the results. Repeat for the other **phases**, then start the day anew.
 
@@ -21,8 +22,6 @@ search_exclude: true
 - If the party skips the **Make Camp** action, each PC adds one **Fatigue** to their inventory, and does not gain any benefits of sleep. They can only do this once before needing to rest fully. 
 
 ## Difficulty
-### Speed
-- A party walking on roads or settled terrain can travel up to 6 miles. 
 - An area's terrain, weather, obstacles, and slow or injured party members can reduce travel speed. 
 - Mounts, guides, and maps can increase the party's travel speed or overcome a terrain's difficulty.
 - Inclement weather (such as results of a 5 or 6 on the [Weather Table](#weather)) can increase a terrain's difficulty or make travel impossible.
@@ -33,13 +32,9 @@ search_exclude: true
 |                  |                            |                     |                          |  
 | ---------------- | -------------------------- | ------------------- | -------------------------|
 | **Difficulty**   | **Terrain**                | **Travel Duration** | **Odds of Getting Lost** |
-| **Easy**         | Roads, farmlands, plains   | Normal              | None                     |
-| **Tough**        | Jungles, forests, hills    | Doubled             | 2-in-6                   |
-| **Perilous**     | Swamps, deserts, mountains | Tripled             | 3-in-6                   |
-
-## Hex Crawls
-- If using hexes, assume each tile is 6 miles across, and that the party can **Travel** to an adjacent tile in one **phase**.
-- [**Getting Lost**](#getting-lost) places the party in an adjacent hex.
+| **Easy**         | Roads, farmlands, plains   | _Normal_            | None                     |
+| **Tough**        | Jungles, forests, hills    | _Doubled_           | 2-in-6                   |
+| **Perilous**     | Swamps, deserts, mountains | _Tripled_           | 3-in-6                   |
 
 ## Wilderness Actions
 ### Travel
@@ -98,6 +93,25 @@ search_exclude: true
 |  **4** | **Loss**  | The party is faced with a choice that costs them a resource (rations, tools, etc), time, or effort. |
 |  **5** | **Exhaustion** | The party encounter a barrier, forcing effort, care or delays. This might mean spending extra time (and an additional **Wilderness Action**) or adding **Fatigue** to the PC's inventory to represent their difficulties.
 |  **6** | **Discovery** | The party find food, treasure, or other useful resources. The **Warden** can instead choose to reveal the primary feature of the area.  |
+
+### Cardinal Directions
+Optionally, the **Warden** can roll on the table below to see how far off track the party ends up when they got lost.  
+
+|         |                | 
+| :-----: | :-----------:  | 
+| **d8**  | **Direction**  |
+|  **1**  |      N         |   
+|  **2**  |     NW         |   
+|  **3**  |      W         |   
+|  **4**  |     SW         |   
+|  **5**  |      S         |   
+|  **6**  |     SE         |   
+|  **7**  |      E         |   
+|  **8**  |     NE         |   
+
+### Hex Crawls
+- If using hexes, assume each tile is 6 miles across, and that the party can **Travel** to an adjacent tile in one **phase**.
+- [**Getting Lost**](#getting-lost) places the party in an adjacent hex.
 
 ## Example
 
