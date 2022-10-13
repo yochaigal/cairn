@@ -14,19 +14,22 @@ search_exclude: true
 - The party can choose _one_ [**Wilderness Action**](#wilderness-action) per **phase**. 
 - A typical region will have a set number of _known_ locations, called **points**. 
 - One or more **phases** may be required to journey between two **points** on a map, depending on the party's **travel speed**.
-- A party walking on roads or settled terrain can travel between two **points** in a single **phase**. This is called _Normal_ speed.
-- **Note**: If using a hex map, assume each tile is 6 miles across, and that the party can **Travel** to an adjacent tile in one **phase**. If the party gest lost, assume that the party strayed into an adjacent hex.
+- A party walking on roads or settled terrain can travel between two **points** in a single **phase**.
 
-## Sequence
+### Note
+- If using a hex map, assume that the party can **Travel** to an adjacent tile in one **phase**, and that if they get lost they end up in an adjacent hex.
+
+## Agenda
 - Each _morning_, the **Warden** rolls on the [**Weather**](#weather) table for the appropriate season.
-- Before each **phase** begins, the party plots or adjusts a given course towards their destination.
-- The **Warden** determines the party's current **travel speed** by noting the present [**Difficulty**](#difficulty)
+- Before each **phase** begins, the party plots or adjusts a given course towards their destination based on available information.
+- The **Warden** explains how the current [**Difficulty**](#difficulty) affects travel speed, what obstacles the party may face, and the odds of [**Getting Lost**](#getting-lost). The party adjusts their travel plans accordingly.
 - The party chooses a single **Wilderness Action**, and the **Warden** narrates the results. 
-- Repeat for the process for the other two **phases**, then start the day anew.
+- Repeat for the process for the other two **phases**. The last **phase** of the day is typically reserved for the [**Make Camp**](#make-camp) action (see [**Sleep**](#sleep) below).
 
 ### Sleep
-- A travelling character usually requires 6-8 hours of sleep. The last **phase** of the day is typically reserved for the [**Make Camp**](#make-camp) action. The characters could choose to travel during the night and rest during the day, but night travel is far more treacherous!
-- If the party skips the **Make Camp** action, each PC adds one **Fatigue** to their inventory, and does not gain any benefits of sleep. They can only do this once before needing to rest fully. 
+- A travelling character usually requires 6-8 hours of sleep. A character can only skip sleep _once_ before needing to rest fully again the next day.
+- If the party skips the **Make Camp** action, they each add one **Fatigue** to their inventory, are _deprived_, and do not gain any benefits of sleep. 
+- The party can choose to travel during the night and rest during the day, but night travel is far slower and more treacherous!
 
 ## Difficulty
 - An area's terrain, weather, obstacles, and slow or injured party members can reduce travel speed. 
@@ -45,7 +48,6 @@ search_exclude: true
 
 ## Wilderness Actions
 ### Travel
-- The **Warden** explains how the current [**Difficulty**](#difficulty) affects travel speed, what obstacles they may face, and the odds of [**Getting Lost**](#getting-lost). The party adjusts their travel plans (if possible or required).
 - Travel begins. Obvious locations, features, and terrain of nearby areas are revealed according to their distance. 
 - If necessary, the party rolls 1d6 to see if they've become lost.
 - Provided the party does not get lost, the **Warden** rolls on the [Events Table](#events).
@@ -103,11 +105,9 @@ search_exclude: true
 
 ## Example
 
-- The party (3 healthy PCs walking by foot) are plotting a journey to an ancient ruin deep in the forest of **Ein Eyton**. The forest is separated from the party's present location (the village of **Rudbat**) by the neighboring hills of **Deshe**, a short distance away.
-- The **Warden** explains that travelling on the forgiving roads from the village to the hills will require only a single **phase**, but that it will take three _additional_ **phases** for the party to complete their journey to the forest, assuming they spend one **phase** sleeping.
-- The party accepts this route, plotting their route: one **phase** to reach the hills (_morning_), one **phase** partway through the hills (_afternoon_), then another **phase** sleeping (_night_). The party would spend the following day's _morning_ **phase** travelling to their final destination.
-- On the first day of travel, the **Warden** rolls a 3 on the **Weather** table (**Fall**: _Cool and foggy_). 
+The party (3 healthy PCs walking by foot) are plotting a journey to an ancient ruin deep in the forest of **Ein Eyton**. The forest is separated from the party's present location (the village of **Rudbat**) by the neighboring hills of **Deshe**, a short distance away. The **Warden** explains that travelling on the forgiving roads from the village to the hills will require only a single **phase**, but that it will take three _additional_ **phases** for the party to complete their journey to the forest, assuming they spend one **phase** sleeping. 
 
+The party accepts this route, plotting their route: one **phase** to reach the hills (_morning_), one **phase** partway through the hills (_afternoon_), then another **phase** sleeping (_night_). The party would spend the following day's _morning_ **phase** travelling to their final destination. On the first day of travel, the **Warden** rolls a 3 on the **Weather** table (**Fall**: _Cool and foggy_). 
 
 For their first **phase**, the party chooses the **Travel** action, taking the road through the farmlands and to the hills. The terrain, weather, and current party status indicates that the **Difficulty** level is **Easy**. The party is able to travel with no forseeable problems, so the **Warden** rolls on the **Events** table. The result is an **Encounter**. The **Warden** explains that the party crosses paths with an NPC travelling South, who gives them a piece of advice: "_Avoid the hills, there are bandits about_!" The party notes this and moves on, arriving in the **Deshe** hills after lunchtime. They rest near a streambed, stepping off the dusty road for the first time.
 
