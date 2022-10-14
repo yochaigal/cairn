@@ -9,7 +9,7 @@ search_exclude: true
 
 # Weather
 
-### Weather Effects
+## Weather Effects
 - **Warm**: No effect.
 - **Fair**: No effect. Warm clothing or blankets required to **Make Camp**.
 - **Cold**: Slow movement or take **Fatigue**. Fire and shelter required to **Make Camp**.
@@ -17,20 +17,20 @@ search_exclude: true
 - **Extreme**: Characters take one **Fatigue** and **travel time** is doubled.
 - **Weird**: Roll on the [**Weird Effects**](#weird-effects) table.
 
-### Seasons
+## Seasons
 
-|        |                 |            |            |          |            |
-| :----: | :-------------: | :--------: | :--------: | :------: | :--------: |
-| **d6** | **Weather**     | **Spring** | **Summer** | **Fall** | **Winter** |
-| **1**  |    **Warm**     |            |            |          |            |
-| **2**  |    **Fair**     |            |            |          |            |
-| **3**  |    **Cold**     |            |            |          |            |
-| **4**  |  **Inclement**  |            |            |          |            |
-| **5**  |   **Extreme**   |            |            |          |            |
-| **6**  |    **Weird**    |            |            |          |            |
+|        |            |            |           |            |
+| :----: | :--------: | :--------: | :-------: | :--------: |
+| **d6** | **Spring** | **Summer** | **Fall**  | **Winter** |
+| **1**  |    Warm    |    Warm    |   Fair    |    Cold    |
+| **2**  |    Fair    |    Warm    |   Fair    |    Cold    |
+| **3**  |    Fair    |    Warm    |   Cold    | Inclement  |
+| **4**  |    Cold    | Inclement  | Inclement |  Extreme   |
+| **5**  | Inclement  |  Extreme   | Inclement |  Extreme   |
+| **6**  |   Weird    |   Weird    |   Weird   |   Weird    |
 
 
-### Terrain Effects
+## Terrain Effects
 
 
 |        |               |                       |           |           |            |            |            |
@@ -42,7 +42,6 @@ search_exclude: true
 | **4**  | **Inclement** |      **Muddy**        |           |           |            |            |            |
 | **5**  |  **Extreme**  |                       |           |           |            |            |            |
 | **6**  |   **Weird**   |                       |           |           |            |            |            |
-
 
 
 ### Weird Effects
@@ -81,7 +80,7 @@ search_exclude: true
 
 |         |            |            |              |              |              |
 | :-----: | :--------: | :--------: | :----------: | :----------: | :----------: |
-| **d10** | **Spring** | **Summer** |   **Fall**   |  **Winter**  | Winter Temp  |
+| **d6** | **Spring** | **Summer** |   **Fall**   |  **Winter**  | Winter Temp  |
 |  **1**  |    Poor*   |   Nice*    |    Poor*     |    Poor*     |   Extreme    |
 |  **2**  |    Poor    |    Nice    |     Poor     |     Poor     | As yesterday |
 |  **3**  |    Poor    |    Nice    |     Poor     |     Poor     | As yesterday |
