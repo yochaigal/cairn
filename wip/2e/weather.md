@@ -12,13 +12,12 @@ search_exclude: true
 
 ## new stuff
 
-### Definitions
-- Fair 
-- Warm
-- Cool
-- Chilly
-- Inclement
-- Extreme
+### Weather Effects
+- **Warm**: No effect.
+- **Fair**: No effect. Warm clothing or blankets required to **Make Camp**.
+- **Cold**: Fire and shelter required to **Make Camp**.
+- **Inclement**: Chance of getting lost increases by one step (e.g. 2-in-6 becomes 3-in-6).  
+- **Extreme**: Characters take one **Fatigue** and **travel time** is doubled.
 
 ## Tables
 
@@ -43,13 +42,23 @@ search_exclude: true
 |        |               |            |           |           |            |            |            |
 | ------ | :-----------: | :--------: | :-------: | :-------: | :--------: | :--------: | :--------: |
 | **d6** |  **Weather**  | **Plains** | **Hills** | **Swamp** | **Forest** | **Jungle** | **Desert** |
-| **1**  |   **Fair**    |            |           |           |            |            |            |
-| **2**  |   **Warm**    |            |           |           |            |            |            |
-| **3**  |   **Cool**    |            |           |           |            |            |            |
-| **4**  |  **Chilly**   |            |           |           |            |            |            |
-| **5**  | **Inclement** |            |           |           |            |            |            |
-| **6**  |  **Extreme**  |            |           |           |            |            |            |
+| **1**  |   **Warm**    |            |           |           |            |            |            |
+| **2**  |   **Fair**    |            |           |           |            |            |            |
+| **3**  |   **Cold**    |            |           |           |            |            |            |
+| **4**  | **Inclement** |            |           |           |            |            |            |
+| **5**  | **Extreme**   |            |           |           |            |            |            |
+| **6**  |  **Weird**    |            |           |           |            |            |            |
 
+
+|        |                    |                      |                   |                      |
+| :----: | :----------------: | :------------------: | :---------------: | :------------------: |
+| **d6** |     **Spring**     |      **Summer**      |     **Fall**      |     **Winter**       |
+| **1**  |   Mild and sunny   |    Hot and sunny     | Warm and breezy   | Mild and clear       |
+| **2**  | Warm and drizzly   |   Warm and cloudy    | Mild and windy    | Cool and windy       |
+| **3**  |  Cool and breezy   |    Mild and rainy    | Cool and foggy    | Cold and raining     |
+| **4**  |  Mild and cloudy   |    Cool and stormy   | Cold and cloudy   | Frigid and stormy    |
+| **5**  |   Cold and windy   |   Hot and humid      | Cool and rainy    | Freezing and snowing |
+| **6**  |  Cold and rainy    | Sweltering and humid | Chilly and stormy | Freezing and hailing |
 
 ## Research
 
@@ -64,7 +73,7 @@ search_exclude: true
 |         |            |            |              |              |              |
 | :-----: | :--------: | :--------: | :----------: | :----------: | :----------: |
 | **d10** | **Spring** | **Summer** |   **Fall**   |  **Winter**  | Winter Temp  |
-|  **1**  |   Poor*    |   Nice*    |    Poor*     |    Poor*     |   Extreme    |
+|  **1**  |    Poor*   |   Nice*    |    Poor*     |    Poor*     |   Extreme    |
 |  **2**  |    Poor    |    Nice    |     Poor     |     Poor     | As yesterday |
 |  **3**  |    Poor    |    Nice    |     Poor     |     Poor     | As yesterday |
 |  **4**  |    Nice    |    Nice    | As yesterday | As yesterday | As yesterday |
@@ -73,50 +82,5 @@ search_exclude: true
 
 * roll 1d6 again. On a 1, there's a Major Storm
 
-
-
-
-### From Dolmenwood
-
-Summer
-1. Hot, clear
-2. Sweltering
-3. Overcast, muggy
-4. Stormy, thunder
-5. Gentle rain
-6. Baking, dry
-7. Low cloud, mist
-8. Warm wind
-
-Autumn
-1. Balmy, clement
-2. Frosty, chill
-3. Rolling fog
-4. Bracing wind
-5. Cloudy, misty
-6. Driving rain
-7. Brooding clouds
-8. Drizzle, damp
-
-Winter
-1. Clear, cold
-2. Frigid, icy
-3. Light snow
-4. Snow storm
-5. Frigid mist
-6. Freezing rain
-7. Bitter, silent
-8. Relentless wind
-
-Spring
-1. Clement, cheery
-2. Brisk, clear
-3. Windy, cloudy
-4. Warm, fresh
-5. Pouring rain
-6. Chilly, damp
-7. Gloomy
-8. Chill mist
-
-## More words
+### More words
 sunny, cloudy, windy, rainy, and stormy, foggy, windy
