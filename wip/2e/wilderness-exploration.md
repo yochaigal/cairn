@@ -18,7 +18,7 @@ search_exclude: true
 - Mounts, guides, and maps can increase the party's travel speed or overcome a terrain's [**Difficulty**](#difficulty). 
 
 ### Hex Maps
-- If using hexes, assume that the **Travel** action moves the party to an adjacent tile in one **phase** at _Normal_ **travel speed*, and that if they get lost they end up in an adjacent hex.
+- If using hexes, assume that the **Travel** action moves the party to an adjacent tile in one **phase** at _Normal_ **travel speed**, and that if they get lost they end up in an adjacent hex.
 
 ## Day Cycle
 - Each _morning_, the **Warden** rolls on the [**Weather**](#weather) table for the appropriate season.
@@ -29,7 +29,7 @@ search_exclude: true
 
 ### Sleep
 - Characters typically need to sleep each day. Anything beyond a minor interruption can negate or cancel the benefits of sleep.
-- If the party skips the **Make Camp** action, they each add one **Fatigue** to their inventory, are _deprived_.
+- If the party skips the **Make Camp** action, they each add one **Fatigue** to their inventory, and are _deprived_.
 - Party members can skip sleeping _once_ before needing to rest fully again the next day.
 - The party can choose to travel during the night and rest during the day, but night travel is far slower and more treacherous!
 
