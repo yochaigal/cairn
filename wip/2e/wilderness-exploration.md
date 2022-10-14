@@ -96,7 +96,7 @@ search_exclude: true
 ## Tables
 
 ### Weather
-If a 6 is rolled twice in 24 hours, the weather turns to **Catastrophic**. A summer squall becomes a hurricane, a fall storm floods the valleys, etc.
+If the **Extreme** result is rolled twice in 24 hours, the weather turns to **Catastrophic**. A summer squall becomes a hurricane, a fall storm floods the valleys, etc.
 
 |        |              |              |              |              |
 | :----: | :----------: | :----------: | :----------: | :----------: |
