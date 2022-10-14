@@ -15,7 +15,7 @@ grand_parent: WIP
 
 - 3d6 gold pieces
 - Three days’ rations
-- Torches (2)
+- Torch
 - Gambeson reeking of body odor
 - Spear with a notched shaft
 - Stale sausage

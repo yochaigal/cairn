@@ -15,7 +15,7 @@ grand_parent: WIP
 
 - 3d6 gold pieces
 - Three days’ rations
-- Torches (2)
+- Torch
 - Sack of doorknobs (d6)
 - Map to stranger's hideaway
 

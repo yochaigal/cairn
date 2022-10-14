@@ -15,7 +15,7 @@ grand_parent: WIP
 
 - 3d6 gold pieces
 - Three days’ rations
-- Torches (2)
+- Torch
 
 
 ## Why did you ____ leave? Roll 1d6:

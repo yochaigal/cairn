@@ -15,7 +15,7 @@ grand_parent: WIP
 
 - 3d6 gold pieces
 - Three days’ rations
-- Torches (2)
+- Torch
 - Green tunic marked by a few holes
 - Painted wooden pence
 - Threatening short bow

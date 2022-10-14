@@ -15,7 +15,7 @@ grand_parent: WIP
 
 - 3d6 gold pieces
 - Three days’ rations
-- Torches (2)
+- Torch
 - Dagger
 - Well-kept leather shoes
 - A dark wool cloak
