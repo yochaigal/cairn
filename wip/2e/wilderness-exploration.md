@@ -36,7 +36,7 @@ search_exclude: true
 ## Difficulty
 - An area's terrain, weather, obstacles, and slow or injured party members can reduce travel speed. 
 - Mounts, guides, and maps can increase the party's travel speed or overcome a terrain's difficulty.
-- Inclement weather (such as results of a 5 or 6 on the [Weather Table](#weather)) can increase a terrain's difficulty or make travel impossible.
+- [Weather Difficulty](#weather-difficulty)) can increase a terrain's difficulty or make travel impossible.
 - Travelling at night _always_ increases the difficulty by one step (i.e. **Easy** terrain becomes **Tough**).
 - The party may need to spend **Fatigue**, time, a tool, or other resource in order to overcome an obstacle or difficulty.
 
@@ -56,8 +56,8 @@ search_exclude: true
 |   **Weather**    | **Examples**                                    | **Effect**                                                   |
 |     **Nice**     | Clear, sunny                                    | Favorable conditions for travel. Bedroll or shelter required. |
 |     **Fair**     | Overcast, breezy                                | Favorable conditions for travel. Bedroll or shelter required. |
-|  **Unpleasant**  | Gusting winds and rain, sweltering heat or cold | Gain one **Fatigue** _or_ add one **phase** to the journey. Fire or shelter required. |
-|  **Inclement**   | Thunderstorms and lightning, slushy ground      | Gain one **Fatigue** _or_ add one **phase** to the journey. Chance of getting lost increases by one step. Fire and shelter required. |
+|  **Unpleasant**  | Gusting winds and rain, sweltering heat or cold. | Gain one **Fatigue** _or_ add one **phase** to the journey. Fire or shelter required. |
+|  **Inclement**   | Thunderstorms and lightning, slushy ground.      | Gain one **Fatigue** _or_ add one **phase** to the journey. Chance of getting lost increases by one step. Fire and shelter required. |
 |   **Extreme**    | Blizzard and freezing winds, flooding           | Gain one **Fatigue** _and_ add one **phase** to the journey. Chance of getting lost increases by one step. Fire and a well-built shelter required. |
 | **Catastrophic** | Tornado, tidal wave, hurricane                  | Most parties cannot travel under these conditions.           |
 
@@ -96,6 +96,7 @@ search_exclude: true
 ## Tables
 
 ### Weather
+Roll **1d6** the table below. On a 6 ignore the outcome, then re-roll and keep the result. 
 
 |        |              |              |              |              |
 | :----: | :----------: | :----------: | :----------: | :----------: |
@@ -105,7 +106,7 @@ search_exclude: true
 | **3**  |     Fair     |     Nice     |  Unpleasant  |  Inclement   |
 | **4**  |  Unpleasant  |  Inclement   |  Inclement   |   Extreme    |
 | **5**  |  Inclement   |   Extreme    |  Inclement   |   Extreme    |
-| **6**  | Catastrophic | Catastrophic | Catastrophic | Catastrophic |
+| **6**  | Catastrophic  | Catastrophic | Catastrophic | Catastrophic |
 
 ### Events 
 
