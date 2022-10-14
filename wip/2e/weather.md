@@ -9,6 +9,9 @@ search_exclude: true
 
 # Weather
 
+## Process
+- The **Warden** rolls on the for the current seasonal weather.
+- The **Warden** rolls on the [**Terrain**](#terrain-effects) table for flavor or potential changes to the terrain.
 
 ### Effects By Season
 Roll **1d6** on the table below to determine what impact (if any) the weather has on the journey.
@@ -25,12 +28,15 @@ Roll **1d6** on the table below to determine what impact (if any) the weather ha
 
 ### Effects
 
-- **Nice**: Favorable conditions for travel.
-- **Fair**: No effect. Warm clothing or blankets required to **Make Camp**.
-- **Unpleasant**: Choose to take either a **Fatigue** or spend an extra **phase** travelling. Fire and shelter are required to **Make Camp**.
-- **Inclement**: Chance of getting lost increases by one step (eg 2-in-6 becomes 3-in-6).
-- **Extreme**: Characters take one **Fatigue** and **travel time** is doubled.
-- **Catastrophic**: Most parties cannot travel under these conditions.
+|                  |                                                 |                                                              |
+| :--------------: | ----------------------------------------------- | ------------------------------------------------------------ |
+|   **Weather**    | **Examples**                                    | **Effect**                                                   |
+|     **Nice**     | Clear, sunny                                    | Favorable conditions for travel. Bedroll or shelter required. |
+|     **Fair**     | Overcast, breezy                                | Favorable conditions for travel. Bedroll or shelter required. |
+|  **Unpleasant**  | Gusting winds and rain, sweltering heat or cold | Gain one **Fatigue** _or_ add one **phase** to the journey. Fire or shelter required. |
+|  **Inclement**   | Thunderstorms and lightning, slushy ground      | Gain one **Fatigue** _or_ add one **phase** to the journey. <br />Chance of getting lost increases by one step. Fire and shelter required. |
+|   **Extreme**    | Blizzard and freezing winds, flooding           | Gain one **Fatigue** _and_ add one **phase** to the journey. <br />Chance of getting lost increases by one step. Fire and a well-built shelter required. |
+| **Catastrophic** | Tornado, tidal wave, hurricane                  | Most parties cannot travel under these conditions.           |
 
 ## Terrain Effects
 
@@ -45,7 +51,7 @@ Roll **1d6** on the table below to determine what impact (if any) the weather ha
 | **6**  | **Catastrophic** |                   |           |           |            |            |            |
 
 
-### Catastrophic Effects
+### Weird Effects
 
 |         |                                                              |
 | :-----: | :----------------------------------------------------------: |
@@ -72,7 +78,15 @@ Roll **1d6** on the table below to determine what impact (if any) the weather ha
 | **20**  |                                                              |
 
 
-## Unused Tables
+## Unused
+
+- **Nice**: Favorable conditions for travel.
+- **Fair**: Warm clothing or blankets required to **Make Camp**. Bedroll or shelter required.
+- **Unpleasant**: Gain one **Fatigue** or add one **phase** to the journey. Fire _or_ shelter are required to **Make Camp**.
+- **Inclement**: Chance of getting lost increases by one step. Fire and shelter are required to **Make Camp**.
+- **Extreme**: Gain one **Fatigue** and add one **phase** to the journey. Chance of getting lost increases by one step.
+- **Catastrophic**: Most parties cannot travel under these conditions.
+
 
 ### Weather Descriptions A
 
