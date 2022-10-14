@@ -9,46 +9,55 @@ search_exclude: true
 
 # Weather
 
-
-## new stuff
-
 ### Weather Effects
 - **Warm**: No effect.
 - **Fair**: No effect. Warm clothing or blankets required to **Make Camp**.
-- **Cold**: Fire and shelter required to **Make Camp**.
+- **Cold**: Slow movement or take **Fatigue**. Fire and shelter required to **Make Camp**.
 - **Inclement**: Chance of getting lost increases by one step (e.g. 2-in-6 becomes 3-in-6).  
 - **Extreme**: Characters take one **Fatigue** and **travel time** is doubled.
-
-## Tables
+- **Weird**: Roll on the [**Weird Effects**](#weird-effects) table.
 
 ### Seasons
 
-|         |               |            |            |          |            |
-| :-----: | :-----------: | :--------: | :--------: | :------: | :--------: |
-| **d10** |  **Weather**  | **Spring** | **Summer** | **Fall** | **Winter** |
-|  **1**  |   Sunshine    |            |            |          |            |
-|  **2**  |    Cloudy     |            |            |          |            |
-|  **3**  | Partly-cloudy |            |            |          |            |
-|  **4**  |   Overcast    |            |            |          |            |
-|  **5**  |     Windy     |            |            |          |            |
-|  **6**  |    Raining    |            |            |          |            |
-|  **7**  |    Snowing    |            |            |          |            |
-|  **8**  |     Foggy     |            |            |          |            |
-|  **9**  |    Stormy     |            |            |          |            |
-| **10**  |    Extreme    |            |            |          |            |
+|        |                 |            |            |          |            |
+| :----: | :-------------: | :--------: | :--------: | :------: | :--------: |
+| **d6** | **Weather**     | **Spring** | **Summer** | **Fall** | **Winter** |
+| **1**  |    **Warm**     |            |            |          |            |
+| **2**  |    **Fair**     |            |            |          |            |
+| **3**  |    **Cold**     |            |            |          |            |
+| **4**  |  **Inclement**  |            |            |          |            |
+| **5**  |   **Extreme**   |            |            |          |            |
+| **6**  |    **Weird**    |            |            |          |            |
 
-### Terrains
 
-|        |               |            |           |           |            |            |            |
-| ------ | :-----------: | :--------: | :-------: | :-------: | :--------: | :--------: | :--------: |
-| **d6** |  **Weather**  | **Plains** | **Hills** | **Swamp** | **Forest** | **Jungle** | **Desert** |
-| **1**  |   **Warm**    |            |           |           |            |            |            |
-| **2**  |   **Fair**    |            |           |           |            |            |            |
-| **3**  |   **Cold**    |            |           |           |            |            |            |
-| **4**  | **Inclement** |            |           |           |            |            |            |
-| **5**  | **Extreme**   |            |           |           |            |            |            |
-| **6**  |  **Weird**    |            |           |           |            |            |            |
+### Terrain Effects
 
+
+|        |               |                       |           |           |            |            |            |
+| ------ | :-----------: | :-------------------: | :-------: | :-------: | :--------: | :--------: | :--------: |
+| **d6** |  **Weather**  |      **Plains**       | **Hills** | **Swamp** | **Forest** | **Jungle** | **Desert** |
+| **1**  |   **Warm**    |        _None_         |  _None_   |           |            |            |            |
+| **2**  |   **Fair**    |        _None_         |  _None_   |           |            |            |            |
+| **3**  |   **Cold**    | **Hardened Ground**   |           |           |            |            |            |
+| **4**  | **Inclement** |      **Muddy**        |           |           |            |            |            |
+| **5**  |  **Extreme**  |                       |           |           |            |            |            |
+| **6**  |   **Weird**   |                       |           |           |            |            |            |
+
+
+
+### Weird Effects
+|        |      |      |      |      |      |
+| :----: | :--: | :--: | :--: | :--: | :--: |
+| **d6** | **** | **** | **** | **** | **** |
+| **1**  |      |      |      |      |      |
+| **2**  |      |      |      |      |      |
+| **3**  |      |      |      |      |      |
+| **4**  |      |      |      |      |      |
+| **5**  |      |      |      |      |      |
+| **6**  |      |      |      |      |      |
+
+
+### Old Table
 
 |        |                    |                      |                   |                      |
 | :----: | :----------------: | :------------------: | :---------------: | :------------------: |
