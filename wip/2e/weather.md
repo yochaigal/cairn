@@ -11,13 +11,15 @@ search_exclude: true
 
 ## Weather Effects
 - **Warm**: No effect.
-- **Fair**: No effect. Warm clothing or blankets required to **Make Camp**.
-- **Cold**: Slow movement or take **Fatigue**. Fire and shelter required to **Make Camp**.
-- **Inclement**: Chance of getting lost increases by one step (e.g. 2-in-6 becomes 3-in-6).  
+- **Fair**: No effect Warm clothing or blankets required to **Make Camp**.
+- **Cold**: Slow movement or take **Fatigue** Fire and shelter required to **Make Camp**.
+- **Inclement**: Chance of getting lost increases by one step (eg 2-in-6 becomes 3-in-6).
 - **Extreme**: Characters take one **Fatigue** and **travel time** is doubled.
 - **Weird**: Roll on the [**Weird Effects**](#weird-effects) table.
 
 ## Seasons
+
+### Table A
 
 |        |            |            |           |            |
 | :----: | :--------: | :--------: | :-------: | :--------: |
@@ -29,9 +31,30 @@ search_exclude: true
 | **5**  | Inclement  |  Extreme   | Inclement |  Extreme   |
 | **6**  |   Weird    |   Weird    |   Weird   |   Weird    |
 
+### Table B
+
+|            |              |          |                            |                             |             |           |
+| :--------: | :----------: | :------: | :------------------------: | --------------------------- | :---------: | --------- |
+| **Season** |   **Warm**   | **Fair** |          **Cold**          | **Inclement**               | **Extreme** | **Weird** |
+| **Spring** |    Clear     | Overcast |   Gusting winds and rain   | Powerful winds, downpour    |             |           |
+| **Summer** | Sunny, humid |   Hot    |   Warm rain and thunder    | Thunderstorms and lightning |             |           |
+|  **Fall**  |    Sunny     |   Cool   |        Bitter winds        | Hailstorm, freezing rains   |             |           |
+| **Winter** | Chill breeze |   Cold   | Heavy snow and frigid cold | Blizzard and freezing winds |             |           |
+
+### Table C
+
+|        |               |            |            |          |            |
+| ------ | :-----------: | :--------: | :--------: | :------: | :--------: |
+| **d6** |               | **Spring** | **Summer** | **Fall** | **Winter** |
+| **1**  |   **Warm**    |            |            |          |            |
+| **2**  |   **Fair**    |            |            |          |            |
+| **3**  |   **Cold**    |            |            |          |            |
+| **4**  | **Inclement** |            |            |          |            |
+| **5**  |  **Extreme**  |            |            |          |            |
+| **6**  |   **Weird**   |            |            |          |            |
+
 
 ## Terrain Effects
-
 
 |        |               |                       |           |           |            |            |            |
 | ------ | :-----------: | :-------------------: | :-------: | :-------: | :--------: | :--------: | :--------: |
@@ -68,27 +91,3 @@ search_exclude: true
 | **5**  |   Cold and windy   |   Hot and humid      | Cool and rainy    | Freezing and snowing |
 | **6**  |  Cold and rainy    | Sweltering and humid | Chilly and stormy | Freezing and hailing |
 
-## Research
-
-### Binder Full of Notes
-
-- Seasons: Spring (mud and rain), Summer (extreme heat), Fall (harvest), and Winter (it gets cold).
-- Poor Weather:
-- Nice Weather:
-- Extreme Temperature:
-- Major Storms:
-
-|         |            |            |              |              |              |
-| :-----: | :--------: | :--------: | :----------: | :----------: | :----------: |
-| **d6** | **Spring** | **Summer** |   **Fall**   |  **Winter**  | Winter Temp  |
-|  **1**  |    Poor*   |   Nice*    |    Poor*     |    Poor*     |   Extreme    |
-|  **2**  |    Poor    |    Nice    |     Poor     |     Poor     | As yesterday |
-|  **3**  |    Poor    |    Nice    |     Poor     |     Poor     | As yesterday |
-|  **4**  |    Nice    |    Nice    | As yesterday | As yesterday | As yesterday |
-|  **5**  |    Nice    |    Nice    |     Nice     |     Fine     |     Fine     |
-|  **6**  |    Nice    |    Nice    |     Nice     |     Fine     |     Fine     |
-
-* roll 1d6 again. On a 1, there's a Major Storm
-
-### More words
-sunny, cloudy, windy, rainy, and stormy, foggy, windy
