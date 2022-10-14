@@ -13,39 +13,39 @@ search_exclude: true
 ### Effects By Season
 Roll **1d6** on the table below to determine what impact (if any) the weather has on the journey.
 
-|        |               |            |               |               |
-| :----: | :-----------: | :--------: | :-----------: | :-----------: |
-| **d6** |  **Spring**   | **Summer** |   **Fall**    |  **Winter**   |
-| **1**  |     Nice      |    Nice    |     Fair      | Uncomfortable |
-| **2**  |     Fair      |    Nice    |     Fair      | Uncomfortable |
-| **3**  |     Fair      |    Nice    | Uncomfortable |   Inclement   |
-| **4**  | Uncomfortable | Inclement  |   Inclement   |    Extreme    |
-| **5**  |   Inclement   |  Extreme   |   Inclement   |    Extreme    |
-| **6**  |     Weird     |   Weird    |     Weird     |     Weird     |
+|        |              |              |              |              |
+| :----: | :----------: | :----------: | :----------: | :----------: |
+| **d6** |  **Spring**  |  **Summer**  |   **Fall**   |  **Winter**  |
+| **1**  |     Nice     |     Nice     |     Fair     |  Unpleasant  |
+| **2**  |     Fair     |     Nice     |     Fair     |  Unpleasant  |
+| **3**  |     Fair     |     Nice     |  Unpleasant  |  Inclement   |
+| **4**  |  Unpleasant  |  Inclement   |  Inclement   |   Extreme    |
+| **5**  |  Inclement   |   Extreme    |  Inclement   |   Extreme    |
+| **6**  | Catastrophic | Catastrophic | Catastrophic | Catastrophic |
 
 ### Effects
 
-- **Nice**: No effect.
+- **Nice**: Favorable conditions for travel.
 - **Fair**: No effect. Warm clothing or blankets required to **Make Camp**.
-- **Uncomfortable**: Choose to take either a **Fatigue** or spend an extra **phase** travelling. Fire and shelter are required to **Make Camp**.
+- **Unpleasant**: Choose to take either a **Fatigue** or spend an extra **phase** travelling. Fire and shelter are required to **Make Camp**.
 - **Inclement**: Chance of getting lost increases by one step (eg 2-in-6 becomes 3-in-6).
 - **Extreme**: Characters take one **Fatigue** and **travel time** is doubled.
-- **Weird**: Roll on the [**Weird Effects**](#weird-effects) table.
+- **Catastrophic**: Most parties cannot travel under these conditions.
 
 ## Terrain Effects
 
-|        |                   |                   |           |           |            |            |            |
-| ------ | :---------------: | :---------------: | :-------: | :-------: | :--------: | :--------: | :--------: |
-| **d6** |    **Weather**    |    **Plains**     | **Hills** | **Swamp** | **Forest** | **Jungle** | **Desert** |
-| **1**  |     **Nice**      |      _None_       |  _None_   |           |            |            |            |
-| **2**  |     **Fair**      |      _None_       |  _None_   |           |            |            |            |
-| **3**  | **Uncomfortable** | _Hardened Ground_ |           |           |            |            |            |
-| **4**  |   **Inclement**   |      _Muddy_      |           |           |            |            |            |
-| **5**  |    **Extreme**    |                   |           |           |            |            |            |
-| **6**  |     **Weird**     |                   |           |           |            |            |            |
+|        |                  |                   |           |           |            |            |            |
+| ------ | :--------------: | :---------------: | :-------: | :-------: | :--------: | :--------: | :--------: |
+| **d6** |   **Weather**    |    **Plains**     | **Hills** | **Swamp** | **Forest** | **Jungle** | **Desert** |
+| **1**  |     **Nice**     |      _None_       |  _None_   |           |            |            |            |
+| **2**  |     **Fair**     |      _None_       |  _None_   |           |            |            |            |
+| **3**  |  **Unpleasant**  | _Hardened Ground_ |           |           |            |            |            |
+| **4**  |  **Inclement**   |      _Muddy_      |           |           |            |            |            |
+| **5**  |   **Extreme**    |                   |           |           |            |            |            |
+| **6**  | **Catastrophic** |                   |           |           |            |            |            |
 
 
-### Weird Effects
+### Catastrophic Effects
 
 |         |                                                              |
 | :-----: | :----------------------------------------------------------: |
@@ -76,21 +76,21 @@ Roll **1d6** on the table below to determine what impact (if any) the weather ha
 
 ### Weather Descriptions A
 
-|        |               |                          |                             |                           |                             |
-| :----: | :-----------: | :----------------------: | :-------------------------: | :-----------------------: | :-------------------------: |
-| **d6** |  **Weather**  |        **Spring**        |         **Summer**          |         **Fall**          |         **Winter**          |
-| **1**  |   **Nice**    |          Clear           |        Sunny, humid         |           Sunny           |        Chill breeze         |
-| **2**  |   **Fair**    |         Overcast         |             Hot             |           Cool            |            Cold             |
-| **3**  |   **Uncomfortable**    |  Gusting winds and rain  |    Nice rain and thunder    |       Bitter winds        | Heavy snow and frigid cold  |
-| **4**  | **Inclement** | Powerful winds, downpour | Thunderstorms and lightning | Hailstorm, freezing rains | Blizzard and freezing winds |
-| **5**  |  **Extreme**  |                          |                             |                           |                             |
-| **6**  |   **Weird**   |                          |                             |                           |                             |
+|        |                  |                          |                             |                           |                             |
+| :----: | :--------------: | :----------------------: | :-------------------------: | :-----------------------: | :-------------------------: |
+| **d6** |   **Weather**    |        **Spring**        |         **Summer**          |         **Fall**          |         **Winter**          |
+| **1**  |     **Nice**     |          Clear           |        Sunny, humid         |           Sunny           |        Chill breeze         |
+| **2**  |     **Fair**     |         Overcast         |             Hot             |           Cool            |            Cold             |
+| **3**  |  **Unpleasant**  |  Gusting winds and rain  |    Nice rain and thunder    |       Bitter winds        | Heavy snow and frigid cold  |
+| **4**  |  **Inclement**   | Powerful winds, downpour | Thunderstorms and lightning | Hailstorm, freezing rains | Blizzard and freezing winds |
+| **5**  |   **Extreme**    |                          |                             |                           |                             |
+| **6**  | **Catastrophic** |                          |                             |                           |                             |
 
 ### Weather Descriptions B
 
 |            |              |          |                            |                             |             |           |
 | :--------: | :----------: | :------: | :------------------------: | --------------------------- | :---------: | --------- |
-| **Season** |   **Nice**   | **Fair** |  **Uncomfortable**         | **Inclement**               | **Extreme** | **Weird** |
+| **Season** |   **Nice**   | **Fair** |  **Unpleasant**         | **Inclement**               | **Extreme** | **Catastrophic** |
 | **Spring** |    Clear     | Overcast |   Gusting winds and rain   | Powerful winds, downpour    |             |           |
 | **Summer** | Sunny, humid |   Hot    |   Nice rain and thunder    | Thunderstorms and lightning |             |           |
 |  **Fall**  |    Sunny     |   Cool   |        Bitter winds        | Hailstorm, freezing rains   |             |           |
