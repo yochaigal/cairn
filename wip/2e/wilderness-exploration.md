@@ -96,7 +96,7 @@ search_exclude: true
 ## Tables
 
 ### Weather
-Roll **1d6** the table below. On a 6 ignore the outcome, then re-roll and keep the result. 
+If a 6 is rolled twice in 24 hours, the weather turns to **Catastrophic**. A summer squall becomes a hurricane, a fall storm floods the valleys, etc.
 
 |        |              |              |              |              |
 | :----: | :----------: | :----------: | :----------: | :----------: |
@@ -106,7 +106,7 @@ Roll **1d6** the table below. On a 6 ignore the outcome, then re-roll and keep t
 | **3**  |     Fair     |     Nice     |  Unpleasant  |  Inclement   |
 | **4**  |  Unpleasant  |  Inclement   |  Inclement   |   Extreme    |
 | **5**  |  Inclement   |   Extreme    |  Inclement   |   Extreme    |
-| **6**  | Catastrophic  | Catastrophic | Catastrophic | Catastrophic |
+| **6**  |  Extreme     |  Extreme     |  Extreme     |   Extreme    |
 
 ### Events 
 
