@@ -81,6 +81,31 @@ search_exclude: true
 | **6**  |      |      |      |      |      |
 
 
+|         |                                                              |
+| :-----: | :----------------------------------------------------------: |
+| **d20** |                                                              |
+|  **1**  |    Clouds shaping like faces; they appear to be laughing     |
+|  **2**  |         Coughing dust clouds that smell of cinnamon          |
+|  **3**  | Raindrops of various colors. Drinking enough of it causes hallucinations |
+|  **4**  | Flashes of movement in the periphery that always amount to nothing |
+|  **5**  | Lakes and water beds dry up in realtime, filling storm clouds that quickly drench the landscape |
+|  **6**  |  Rainbows of only 2 or 3 colors that occasionally flickers   |
+|  **7**  |             Rains of small amphibious creatures              |
+|  **8**  | Fog that fills the belly (no need for rations today); vomiting tomorrow |
+|  **9**  |        Winds carry whispers with hints of the future         |
+| **10**  |         Shadows disappear, animals become frightened         |
+| **11**  |            An extra sun appears, making very hot             |
+| **12**  | Sun begins to move backwards for a time, then moves rapidly as night quickly falls |
+| **13**  | The air is thicker than usual and breathing is difficult; drinking water seems to help |
+| **14**  |       Smokey, sweet winds stemming from one direction        |
+| **15**  |              Distant chimes instead of thunder               |
+| **16**  |                                                              |
+| **17**  |                                                              |
+| **18**  |                                                              |
+| **19**  |                                                              |
+| **20**  |                                                              |
+
+
 ### Old Table
 
 |        |                    |                      |                   |                      |
