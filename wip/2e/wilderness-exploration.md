@@ -40,7 +40,7 @@ search_exclude: true
 - Travelling at night _always_ increases the difficulty by one step (i.e. **Easy** terrain becomes **Tough**).
 - The party may need to spend **Fatigue**, time, a tool, or other resource in order to overcome an obstacle or difficulty.
 
-### Terrain
+### Terrain Difficulty
 
 |                  |                            |                     |                          |  
 | ---------------- | -------------------------- | ------------------- | -------------------------|
@@ -48,6 +48,19 @@ search_exclude: true
 | **Easy**         | Roads, farmlands, plains   | _Normal_            | None                     |
 | **Tough**        | Jungles, forests, hills    | _Doubled_           | 2-in-6                   |
 | **Perilous**     | Swamps, deserts, mountains | _Tripled_           | 3-in-6                   |
+
+### Weather Difficulty
+
+|                  |                                                 |                                                              |
+| :--------------: | ----------------------------------------------- | ------------------------------------------------------------ |
+|   **Weather**    | **Examples**                                    | **Effect**                                                   |
+|     **Nice**     | Clear, sunny                                    | Favorable conditions for travel. Bedroll or shelter required. |
+|     **Fair**     | Overcast, breezy                                | Favorable conditions for travel. Bedroll or shelter required. |
+|  **Unpleasant**  | Gusting winds and rain, sweltering heat or cold | Gain one **Fatigue** _or_ add one **phase** to the journey. Fire or shelter required. |
+|  **Inclement**   | Thunderstorms and lightning, slushy ground      | Gain one **Fatigue** _or_ add one **phase** to the journey. Chance of getting lost increases by one step. Fire and shelter required. |
+|   **Extreme**    | Blizzard and freezing winds, flooding           | Gain one **Fatigue** _and_ add one **phase** to the journey. Chance of getting lost increases by one step. Fire and a well-built shelter required. |
+| **Catastrophic** | Tornado, tidal wave, hurricane                  | Most parties cannot travel under these conditions.           |
+
 
 ## Wilderness Actions
 ### Travel
@@ -84,15 +97,15 @@ search_exclude: true
 
 ### Weather
 
-|        |                    |                      |                   |                      |
-| :----: | :----------------: | :------------------: | :---------------: | :------------------: |
-| **d6** |     **Spring**     |      **Summer**      |     **Fall**      |     **Winter**       |
-| **1**  |   Mild and sunny   |    Hot and sunny     | Warm and breezy   | Mild and clear       |
-| **2**  | Warm and drizzly   |   Warm and cloudy    | Mild and windy    | Cool and windy       |
-| **3**  |  Cool and breezy   |    Mild and rainy    | Cool and foggy    | Cold and raining     |
-| **4**  |  Mild and cloudy   |    Cool and stormy   | Cold and cloudy   | Frigid and stormy    |
-| **5**  |   Cold and windy   |   Hot and humid      | Cool and rainy    | Freezing and snowing |
-| **6**  |  Cold and rainy    | Sweltering and humid | Chilly and stormy | Freezing and hailing |
+|        |              |              |              |              |
+| :----: | :----------: | :----------: | :----------: | :----------: |
+| **d6** |  **Spring**  |  **Summer**  |   **Fall**   |  **Winter**  |
+| **1**  |     Nice     |     Nice     |     Fair     |  Unpleasant  |
+| **2**  |     Fair     |     Nice     |     Fair     |  Unpleasant  |
+| **3**  |     Fair     |     Nice     |  Unpleasant  |  Inclement   |
+| **4**  |  Unpleasant  |  Inclement   |  Inclement   |   Extreme    |
+| **5**  |  Inclement   |   Extreme    |  Inclement   |   Extreme    |
+| **6**  | Catastrophic | Catastrophic | Catastrophic | Catastrophic |
 
 ### Events 
 

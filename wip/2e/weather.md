@@ -26,18 +26,6 @@ Roll **1d6** on the table below to determine what impact (if any) the weather ha
 | **5**  |  Inclement   |   Extreme    |  Inclement   |   Extreme    |
 | **6**  | Catastrophic | Catastrophic | Catastrophic | Catastrophic |
 
-### Effects
-
-|                  |                                                 |                                                              |
-| :--------------: | ----------------------------------------------- | ------------------------------------------------------------ |
-|   **Weather**    | **Examples**                                    | **Effect**                                                   |
-|     **Nice**     | Clear, sunny                                    | Favorable conditions for travel. Bedroll or shelter required. |
-|     **Fair**     | Overcast, breezy                                | Favorable conditions for travel. Bedroll or shelter required. |
-|  **Unpleasant**  | Gusting winds and rain, sweltering heat or cold | Gain one **Fatigue** _or_ add one **phase** to the journey. Fire or shelter required. |
-|  **Inclement**   | Thunderstorms and lightning, slushy ground      | Gain one **Fatigue** _or_ add one **phase** to the journey. <br />Chance of getting lost increases by one step. Fire and shelter required. |
-|   **Extreme**    | Blizzard and freezing winds, flooding           | Gain one **Fatigue** _and_ add one **phase** to the journey. <br />Chance of getting lost increases by one step. Fire and a well-built shelter required. |
-| **Catastrophic** | Tornado, tidal wave, hurricane                  | Most parties cannot travel under these conditions.           |
-
 ## Terrain Effects
 
 |        |                  |                   |           |           |            |            |            |
