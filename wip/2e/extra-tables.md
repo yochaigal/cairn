@@ -24,7 +24,7 @@ search_exclude: true
 | **5**  |   **Extreme**    |                   |           |           |            |            |            |
 | **6**  | **Catastrophic** |                   |           |           |            |            |            |
 
-### Terrain Difficulty
+### Terrain Difficulty Impacts
 
 |        |                |          |           |              |
 | ------ | :------------: | :------: | :-------: | :----------: |
