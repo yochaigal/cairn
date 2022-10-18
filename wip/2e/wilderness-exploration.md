@@ -34,7 +34,7 @@ search_exclude: true
 - The party can choose to travel during the night and rest during the day, but night travel is far slower and more treacherous!
 
 ## Difficulty
-- An area's [**weather**](#weather-difficulty)), [**terrain**](#terrain-difficulty), obstacles, and slow or injured party members can reduce travel speed or make travel impossible. 
+- An area's [**weather**](#weather-difficulty), [**terrain**](#terrain-difficulty), obstacles, and slow or injured party members can reduce travel speed or make travel impossible. 
 - The party may need to spend **Fatigue**, resources, tools or other resource in order to overcome an obstacle or difficulty.
 - Mounts, guides, and maps can increase the party's travel speed or overcome a terrain's difficulty.
 - Travelling at night _always_ increases the difficulty by one step (i.e. **Easy** terrain becomes **Tough**).
@@ -43,7 +43,7 @@ search_exclude: true
 
 |                               |                |                     |                          |                                                               |
 | ----------------------------- | -------------- | ------------------- | ------------------------ | ------------------------------------------------------------- |
-| **Terrain**                   | **Travel Difficulty** | **Travel Duration** | **Odds of Getting Lost** | **Example Difficulties**                     |
+| **Terrain**                   | **Travel Difficulty** | **Travel Duration** | **Odds of Getting Lost** | **Examples**                     |
 | **Roads, grasslands, plains** | **Easy**       | _Normal_            | None      | _Flooding, mud, broken equipment, bandits_       |
 | **Forests, mountains, hills** | **Tough**      | _Doubled_           | 2-in-6    | _Wild animals, falling rocks, unsafe shelter, traps, erratic climate_    |
 | **Deserts, jungle, swamp**    | **Perilous**   | _Tripled_           | 3-in-6    | _Quicksand, sucking mud, choking vines, unclean water, poisonous plants and animals, poor navigation_ |
@@ -53,12 +53,12 @@ search_exclude: true
 |                  |                                                              |                                                  |
 | :--------------: | ------------------------------------------------------------ | ------------------------------------------------ |
 |   **Weather**    | **Effect**                                                   | **Examples**                                     |
-|     **Nice**     | Favorable conditions for travel. Bedroll or shelter required. | Clear, sunny                                     |
-|     **Fair**     | Favorable conditions for travel. Bedroll or shelter required. | Overcast, breezy                                 |
-|  **Unpleasant**  | Gain one **Fatigue** _or_ add one **phase** to the journey.  | Gusting winds and rain, sweltering heat or cold. |
-|  **Inclement**   | Gain one **Fatigue** _or_ add one **phase** to the journey. **Difficulty** increases one step. | Thunderstorms and lightning, slushy ground.      |
-|   **Extreme**    | Gain one **Fatigue** _and_ add one **phase** to the journey. Chance of getting lost increases by one step. **Difficulty** increases one step. | Blizzard and freezing winds, flooding            |
-| **Catastrophic** | Most parties cannot travel under these conditions.           | Tornado, tidal wave, hurricane                   |
+|     **Nice**     | Favorable conditions for travel. Bedroll or shelter required. | _Clear skies, sunny_                      |
+|     **Fair**     | Favorable conditions for travel. Bedroll or shelter required. | _Overcast, breezy_                              |
+|  **Unpleasant**  | Gain one **Fatigue** _or_ add one **phase** to the journey.  | _Gusting winds, rain showers, sweltering heat, chill air_ |
+|  **Inclement**   | Gain one **Fatigue** _or_ add one **phase** to the journey. **Difficulty** increases one step. | _Thunderstorms & lightning, rain, muddy ground_      |
+|   **Extreme**    | Gain one **Fatigue** _and_ add one **phase** to the journey. Chance of getting lost increases by one step. **Difficulty** increases one step. | _Blizzards, freezing winds, flooding_            |
+| **Catastrophic** | Most parties cannot travel under these conditions.           | _Tornados, tidal waves, hurricanes_                   |
 
 ## Wilderness Actions
 ### Travel
