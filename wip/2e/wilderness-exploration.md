@@ -82,16 +82,16 @@ search_exclude: true
 ### Supply
 - The party gathers food and water.
 - The **Warden** rolls on the [Events Table](#events).
-- Hunt, fish, or forage for food. Each person involved has a 3-in-6 chance of collecting 1d4 rations worth. Characters with relevant experience can increase the chances of success or negate the roll entirely. 
+- Characters can hunt, fish, or forage for food, each participant collecting 1d4 rations worth. Characters with relevant experience can increase the chances of success or negate the roll entirely. 
 
 ### **Make Camp**
 - The party stops to set up camp. Each party member (and their mounts) consume a ration.
-- A **Watch** rotation is set from each party member. If a rotation is not possible, whomever stands guard gains a **Fatigue** and is _deprived_ until they are able to rest properly.
+- A **Watch** rotation is set from each party member. At least 3 rotations are necessary to ensure that all party members can rest. 
 - The **Warden** rolls on the [Events Table](#events).
-- Party members that were able to rest remove all of **Fatigue** from their inventory.
+- Party members that were able to rest remove all of **Fatigue** from their inventory, and other conditions (if required).
 
 ## Splitting Up
-- If the characters split up, each party is treated as independent entities, and rolls impact only the group triggering the action..
+- If the characters split up, each party is treated as an independent entity, and subsequent rolls only impact the group triggering the relevant action.
 
 ## Tables
 

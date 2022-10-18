@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Weather
+title: Extra Tables
 grand_parent: WIP
 parent: 2e
 nav_exclude: true
 search_exclude: true
 ---
 
-# Weather
+# Extra Table
 
 ## Process
 - The **Warden** rolls on the for the current seasonal weather.
@@ -38,6 +38,14 @@ Roll **1d6** on the table below to determine what impact (if any) the weather ha
 | **5**  |   **Extreme**    |                   |           |           |            |            |            |
 | **6**  | **Catastrophic** |                   |           |           |            |            |            |
 
+- **Plains**: 
+- **Hills**: 
+- **Swamp**: 
+- **Forest**:
+- **Jungle**:
+- **Desert**:
+
+
 
 ### Weird Effects
 
@@ -66,7 +74,7 @@ Roll **1d6** on the table below to determine what impact (if any) the weather ha
 | **20**  |                                                              |
 
 
-## Unused
+## Difficulty Descriptions
 
 - **Nice**: Favorable conditions for travel.
 - **Fair**: Warm clothing or blankets required to **Make Camp**. Bedroll or shelter required.
@@ -122,3 +130,17 @@ Roll **1d6** on the table below to determine what impact (if any) the weather ha
 | **5**  |      |      |      |      |      |
 | **6**  |      |      |      |      |      |
 
+### Cardinal Directions
+The Warden can roll on the [Cardinal Directions](#cardinal-directions) table to see where the party ends up! Roll **1d6** to determine how many miles off-route the characters are, then roll **1d8** and consult the following table to find out the direction they traveled. 
+
+|         |                | 
+| :-----: | :-----------:  | 
+| **d8**  | **Direction**  |
+|  **1**  |      N         |   
+|  **2**  |     NW         |   
+|  **3**  |      W         |   
+|  **4**  |     SW         |   
+|  **5**  |      S         |   
+|  **6**  |     SE         |   
+|  **7**  |      E         |   
+|  **8**  |     NE         |   
