@@ -7,26 +7,12 @@ nav_exclude: true
 search_exclude: true
 ---
 
-# Extra Table
+# Extra Tables
 
-## Process
-- The **Warden** rolls on the for the current seasonal weather.
+### Process
 - The **Warden** rolls on the [**Terrain**](#terrain-effects) table for flavor or potential changes to the terrain.
 
-### Effects By Season
-Roll **1d6** on the table below to determine what impact (if any) the weather has on the journey.
-
-|        |              |              |              |              |
-| :----: | :----------: | :----------: | :----------: | :----------: |
-| **d6** |  **Spring**  |  **Summer**  |   **Fall**   |  **Winter**  |
-| **1**  |     Nice     |     Nice     |     Fair     |  Unpleasant  |
-| **2**  |     Fair     |     Nice     |     Fair     |  Unpleasant  |
-| **3**  |     Fair     |     Nice     |  Unpleasant  |  Inclement   |
-| **4**  |  Unpleasant  |  Inclement   |  Inclement   |   Extreme    |
-| **5**  |  Inclement   |   Extreme    |  Inclement   |   Extreme    |
-| **6**  | Catastrophic | Catastrophic | Catastrophic | Catastrophic |
-
-## Terrain Effects
+### Terrain Effects
 
 |        |                  |                   |           |           |            |            |            |
 | ------ | :--------------: | :---------------: | :-------: | :-------: | :--------: | :--------: | :--------: |
@@ -38,13 +24,20 @@ Roll **1d6** on the table below to determine what impact (if any) the weather ha
 | **5**  |   **Extreme**    |                   |           |           |            |            |            |
 | **6**  | **Catastrophic** |                   |           |           |            |            |            |
 
-- **Plains**: 
-- **Hills**: 
-- **Swamp**: 
-- **Forest**:
-- **Jungle**:
-- **Desert**:
+### Terrain Difficulty
 
+|        |                |          |           |              |
+| ------ | :------------: | :------: | :-------: | :----------: |
+| **d6** |  **Terrain**   | **Easy** | **Tough** | **Perilous** |
+| **1**  |   **Roads**    |  _None_  |  _None_   |              |
+| **2**  |   **Plains**   |  _None_  |  _None_   |              |
+| **2**  |   **Hills**    |  _None_  |  _None_   |              |
+| **3**  |   **Swamps**   |          |           |              |
+| **4**  |  **Jungles**   |          |           |              |
+| **5**  |  **Forests**   |          |           |              |
+| **6**  | **Mountains**  |          |           |              |
+| **7**  |  **Deserts**   |          |           |              |
+| **8**  | **Wastelands** |          |           |              |
 
 
 ### Weird Effects

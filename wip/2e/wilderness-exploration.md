@@ -98,15 +98,15 @@ search_exclude: true
 ### Weather
 If the **Extreme** result is rolled twice in 24 hours, the weather turns to **Catastrophic**. A summer squall becomes a hurricane, a fall storm floods the valleys, etc.
 
-|        |              |              |              |              |
-| :----: | :----------: | :----------: | :----------: | :----------: |
-| **d6** |  **Spring**  |  **Summer**  |   **Fall**   |  **Winter**  |
-| **1**  |     Nice     |     Nice     |     Fair     |  Unpleasant  |
-| **2**  |     Fair     |     Nice     |     Fair     |  Unpleasant  |
-| **3**  |     Fair     |     Nice     |  Unpleasant  |  Inclement   |
-| **4**  |  Unpleasant  |  Inclement   |  Inclement   |   Extreme    |
-| **5**  |  Inclement   |   Extreme    |  Inclement   |   Extreme    |
-| **6**  |  Extreme     |  Extreme     |  Extreme     |   Extreme    |
+|        |              |              |              |             |
+| :----: | :----------: | :----------: | :----------: | :----------:|
+| **d6** |  **Spring**  |  **Summer**  |   **Fall**   |  **Winter** |
+| **1**  |     Nice     |     Nice     |     Fair     |  Fair       |
+| **2**  |     Fair     |     Nice     |     Fair     |  Unpleasant |
+| **3**  |     Fair     |     Fair     |  Unpleasant  |  Inclement  |
+| **4**  |  Unpleasant  |  Unpleasant  |  Inclement   |  Inclement  |
+| **5**  |  Inclement   |  Inclement   |  Inclement   |  Extreme    |
+| **6**  |  Extreme     |  Extreme     |  Extreme     |  Extreme    |
 
 ### Events 
 
