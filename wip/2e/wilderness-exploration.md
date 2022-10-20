@@ -10,7 +10,7 @@ search_exclude: true
 # Wilderness Exploration
 
 ## The Basics
-- The day is divided in 3 **phases** of 8 hours each: _morning_, _noon_, and _night_.
+- The day is divided in 3 **phases** of 8 hours each: _dawn_, _midday_, and _dusk_.
 - The party can choose _one_ [**Wilderness Action**](#wilderness-actions) per **phase**. 
 - A typical region will have a set number of _known_ locations, called **points**. 
 - One or more **phases** may be required to journey between two **points** on a map, depending on the party's **travel speed**.
@@ -21,11 +21,11 @@ search_exclude: true
 - If using hexes, assume that the **Travel** action moves the party to an adjacent tile in one **phase** at _Normal_ **travel speed**, and that if they get lost they end up in an adjacent hex.
 
 ## Day Cycle
-- Each _morning_, the **Warden** rolls on the [**Weather**](#weather) table for the appropriate season.
-- Before each **phase** begins, the party plots or adjusts a given course towards their destination based on available information.
-- The **Warden** explains how the current [**Difficulty**](#difficulty) affects the party's **travel speed**, what obstacles the party may face, and the odds of [**Getting Lost**](#getting-lost). The party adjusts their plans accordingly.
-- The party chooses a single **Wilderness Action**, and the **Warden** narrates the results. 
-- Repeat the process for the other two **phases**. The last **phase** of the day is typically reserved for the [**Make Camp**](#make-camp) action (see [**Sleep**](#sleep) below).
+1. Each day, the **Warden** rolls on the [**Weather**](#weather) table for the appropriate season.
+2. Before each **phase** begins, the party plots or adjusts a given course towards their destination based on available information.
+3. The **Warden** explains how the current [**Difficulty**](#difficulty) affects the party's **travel speed**, what obstacles the party may face, and the odds of [**Getting Lost**](#getting-lost). The party adjusts their plans accordingly.
+4. The party chooses a single **Wilderness Action**, and the **Warden** narrates the results. 
+5. Repeat the process for the other two **phases**. The last **phase** of the day is typically reserved for the [**Make Camp**](#make-camp) action (see [**Sleep**](#sleep) below).
 
 ### Sleep
 - Characters typically need to sleep each day. Anything beyond a minor interruption can negate or cancel the benefits of sleep.
@@ -128,7 +128,7 @@ The forest (at **3**) is separated from the party's present location (the villag
 
 The **Warden** explains that travelling on the forgiving roads from the village to the hills will require only a single **phase**, but that it will take three _additional_ **phases** for the party to complete their journey to the forest, assuming they spend one **phase** sleeping. 
 
-The party accepts this route, plotting their route: one **phase** to reach the hills (_morning_), one **phase** partway through the hills (_afternoon_), then another **phase** sleeping (the **Making Camp** action) at (_night_). The party would spend the following day's _morning_ **phase** travelling to their final destination. On the first day of travel, the **Warden** rolls a 3 on the **Weather** table (**Fall**: _Cool and foggy_). 
+The party accepts this route, plotting their route: one **phase** to reach the hills (_dawn_), one **phase** partway through the hills (_midday_), then another **phase** sleeping (the **Making Camp** action) at (_dusk_). The party would spend the following day's _dawn_ **phase** travelling to their final destination. On the first day of travel, the **Warden** rolls a 3 on the **Weather** table (**Fall**: _Cool and foggy_). 
 
 For their first **phase**, the party chooses the **Travel** action, taking the road through the farmlands and to the hills. The terrain, weather, and current party status indicates that the **Difficulty** level is **Easy**. The party is able to travel with no forseeable problems, so the **Warden** rolls on the **Events** table. The result is an **Encounter**. The **Warden** explains that the party crosses paths with an NPC travelling South, who gives them a piece of advice: "_Avoid the hills, there are bandits about_!" The party notes this and moves on, arriving in the **Range of Deshe** after lunchtime. They rest near a streambed, stepping off the dusty road for the first time.
 
@@ -140,7 +140,7 @@ The **Warden** rolls on the **Events** table, and the result is **Environment**.
 
 As night descends, the party finds a large, rocky, outcropping that would work as a suitable shelter. There is no water nearby, but this location should be sufficient for their current needs. They agree to **Make Camp** as their final **phase**, choosing a **Watch Rotation** that should allow all party members a decent rest, and a chance to shed any **Fatigue** they have. Each party member consumes a ration, and the **Warden** rolls on the **Events** table. The result is a **Sign**. The **Warden** describes the flickering ghost of a torchlight in the distance. Could it be another party, or perhaps bandits, or even a dangerous creature on the prowl?
 
-The party rests, erasing their **Fatigue**. They mark their current location on the map, noting that should everything go well the following day, they should only have to spend one **phase** to arrive at the ruins of **Ein Eyton** by the early afternoon.
+The party rests, erasing their **Fatigue**. They mark their current location on the map, noting that should everything go well the following day, they should only have to spend one **phase** to arrive at the ruins of **Ein Eyton** before _midday_.
 
 ## Credits
 
