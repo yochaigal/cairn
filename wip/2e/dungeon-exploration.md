@@ -12,7 +12,7 @@ search_exclude: true
 ## The Basics
 The goal of these rules is twofold: to keep the sense of danger ever-present, and to maintain a consistent sense of time and resources used. Although the term "dungeon" is used here, it can be exchanged for any enclosed space (mansions, farmhouses, etc).
 
-- A dungeon **turn**** lasts approximately 10 minutes.
+- A dungeon **turn** lasts approximately 10 minutes.
 - Each character in the party can perform one **action** during a **turn**. 
 - Actions are extended activities like searching for traps or treasure,  forcing open a stuck door, listening for danger or information, disarming traps, etc.
 - Some activities take longer than one **turn**, if the room is very large, or the task especially difficult. 
@@ -23,7 +23,7 @@ The goal of these rules is twofold: to keep the sense of danger ever-present, an
 1. The **Warden** describes the room.
 2. The Players declare their intended actions (e.g. moving, searching, listening, entering or exiting rooms).
 3. The **Warden** resolves the actions.
-4. The **event die** is rolled.
+4. The **Warden** rolls on the [[**Encounter Table**]](#encounter-table).
 5. Repeat 1-4 until a PC departs the room.
 
 ## Light
@@ -34,14 +34,15 @@ The goal of these rules is twofold: to keep the sense of danger ever-present, an
 - Obvious information about a room should always be offered freely and at no cost, regardless of the room's size.
 - A character can spend a **turn** performing a an _exhaustive search_ that reveals any hidden treasure, traps, doors, or information they could possibly uncover. 
 
-## Movemnent
+## Movement
 
 ## Resting
 
 ## Searching
 
-## Traps
+## Traps 
 
+## Secret Doors
 
 ### Encounter Table
 
