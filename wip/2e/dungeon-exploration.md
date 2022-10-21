@@ -56,4 +56,7 @@ search_exclude: true
 | **6**  | **Discovery or Treasure** | The party finds something interesting and/or possibly beneficial. |      |      |      |
 
 
-- Inspired by [Dungeon Adventuring](https://oldschoolessentials.necroticgnome.com/srd/index.php/Dungeon_Adventuring)
+## Credits
+
+- [The Cairn Adventurer’s Guide](https://adamhensley.itch.io/cairn-adventurers-guide) by Adam Hensley
+- [Dungeon Adventuring](https://oldschoolessentials.necroticgnome.com/srd/index.php/Dungeon_Adventuring)

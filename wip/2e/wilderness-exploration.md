@@ -81,11 +81,12 @@ search_exclude: true
 ### Supply
 - The party gathers food and water.
 - The **Warden** rolls on the [Events Table](#events).
-- Characters can hunt, fish, or forage for food, each participant collecting 1d4 rations worth. Characters with relevant experience can increase the chances of success or negate the roll entirely. 
+- Characters can hunt, fish, or forage for food, each participant collecting 1d4 rations worth. 
+- A character with relevant foraging, hunting, or fishing experience increases the supplies **they** discover by one or two steps (i.e. 1d6 or 1d8).
 
 ### **Make Camp**
-- The party stops to set up camp. Each party member (and their mounts) consume a ration.
-- A **Watch** rotation is set from each party member. At least 3 rotations are necessary to ensure that all party members can rest. 
+- The party stops to set up camp in the wilds. Each party member (and their mounts) consume a ration.
+- A **Watch** rotation is set from each party member. At least 3 rotations are necessary to ensure that all party members can rest. A smaller party may need to risk sleeping unguarded, or switch off sleeping over multiple days (see [**Sleep**](#sleep)).
 - The **Warden** rolls on the [Events Table](#events).
 - Party members that were able to rest remove all of **Fatigue** from their inventory, and other conditions (if required).
 
@@ -145,7 +146,7 @@ The party rests, erasing their **Fatigue**. They mark their current location on 
 
 ## Credits
 
-- The [Cairn Adventurer’s Guide](https://adamhensley.itch.io/cairn-adventurers-guide) by Adam Hensley
+- [The Cairn Adventurer’s Guide](https://adamhensley.itch.io/cairn-adventurers-guide) by Adam Hensley
 - [Yet Another Hexcrawl Procedure](https://dangerisreal.blogspot.com/2021/08/yet-another-hexcrawl-procedure-there-is.html) by Danger is Real
 - [Overland Travel Time for OSR games](https://magickuser.wordpress.com/2020/02/19/overland-travel-time-for-osr-games/) by Vagabundork
 - [Wilderness Adventuring](https://oldschoolessentials.necroticgnome.com/srd/index.php/Wilderness_Adventuring) from Old School Essentials
