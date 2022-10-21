@@ -23,8 +23,8 @@ search_exclude: true
 ## Dungeon Exploration Sequence
 1. The characters enter a new location. The **Warden** describes the environment and any obvious dangers.
 2. Any immediate consequences are dealt with (combat, traps, surprises).
-3. Character declare their next intended action (e.g. moving, searching, listening, entering or exiting rooms, engaging an enemy in combat).
-4. The **Warden** resolves each character's actions simultaneously, using the [**Common Action**](#common-actions) where appropriate. If an action would take longer than one **dungeon turn**, the **Warden** describes the character's progress.
+3. Character declare their next intended action (e.g. moving, searching, listening, entering or exiting rooms, engaging an enemy in combat). 
+4. The **Warden** resolves each character's action simultaneously, referring to [**Common Actions**](#common-actions) where appropriate. If an action takes more than a single **dungeon turn**, the **Warden** describes its progress. 
 5. The **Warden** rolls on the [**Dungeon Events**](#dungeon-events) table.
 6. The players and the **Warden** record any relevant loss of resources and relevant effects (i.e. torch use, _deprivation_, etc).
 
