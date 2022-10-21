@@ -31,6 +31,18 @@ search_exclude: true
 #### Event Triggers
 - If the characters make a lot of noise (accidently or otherwise) or trigger an impending event, the **Warden** may also roll on the [**Dungeon Events**](#dungeon-events) table.
 
+### Dungeon Events
+
+|       |                           |                                                              |
+| :---: | :-----------------------: | :----------------------------------------------------------: |
+| **1** |       **Encounter**       |       Roll on encounter table, see reactions & wants.        |
+| **2** |         **Sign**          | Clue, “spoor”, track, abandoned lair, scent, victim, droppings, etc. |
+| **3** |      **Environment**      | The party's surroundings shift or escalate in some way. Water rising, ceiling collapsing, a ritual nearing completion, etc, |
+| **4** |      **Exhaustion**       | The PCs may need to rest soon or are forced to take a **Fatigue** or become _deprived_. |
+| **5** |         **Loss**          | An ongoing effect ends (torches, magic, etc). Rations or other resources are used up. |
+| **6** | **Discovery or Treasure** | The party finds something interesting and/or possibly beneficial. |
+
+
 ## Light
 - Torches and other radial sources of light illuminate 40’ of dungeon, but beyond provide only a dim outlines of objects.
 - A torch lasts about 6 **turns** (or one hour) before it burns out. Lanterns and other light sources may differ.
@@ -67,16 +79,6 @@ search_exclude: true
 - Doors and entryways may be locked, stuck, moving or blocked entirely. Characters can try to force a door open (or wedge it shut) using available resources (spikes, glue), or through raw ability (**STR** or **DEX**). 
 - The character _most at risk_ should **save** to avoid whatever danger may befall them (a trapped appendage, engraged monsters, etc).
 
-### Dungeon Events
-
-|       |                           |                                                              |
-| :---: | :-----------------------: | :----------------------------------------------------------: |
-| **1** |       **Encounter**       |       Roll on encounter table, see reactions & wants.        |
-| **2** |         **Sign**          | Clue, “spoor”, track, abandoned lair, scent, victim, droppings, etc. |
-| **3** |      **Environment**      | The party's surroundings shift or escalate in some way. Water rising, ceiling collapsing, a ritual nearing completion, etc, |
-| **4** |      **Exhaustion**       | The PCs may need to rest soon or are forced to take a **Fatigue** or become _deprived_. |
-| **5** |         **Loss**          | An ongoing effect ends (torches, magic, etc). Rations or other resources are used up. |
-| **6** | **Discovery or Treasure** | The party finds something interesting and/or possibly beneficial. |
 
 
 ## Credits
