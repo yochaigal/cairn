@@ -15,42 +15,42 @@ search_exclude: true
 - The goal of these rules is twofold: to keep the sense of danger ever-present, and to maintain a consistent sense of time and resources used. 
 
 ## The Basics
-- A dungeon **turn** lasts approximately 10 minutes.
+- A dungeon **turn** lasts approximately 10 minutes. 
 - Each character in the party can perform one **action** during a **turn**. 
 - Actions are extended activities like searching for traps or treasure, forcing open a door, listening for danger, disarming traps, engaging an enemy in combat, etc.
 - A dungeon room is typically **small**, **medium** or **large**. 
 - Some activities take longer than one **turn**, if the room is very **large**, or the task especially difficult. 
 
 ## Dungeon Exploration Sequence
-1. The characters enter a new location. The **Warden** describes it, then rolls on the [**Dungeon Events**](#dungeon-events) table.
-2. Each character declares their intended action (e.g. moving, searching, listening, entering or exiting rooms, engaging an enemy in combat).
-3. The **Warden** resolves each character's actions.
-4. After six consecutive **turns** (or 1 hour), the **Warden** rolls on the [**Dungeon Events**](#dungeon-events) table.
-5. The players and the **Warden** record the relevant loss of resources and relevant effects (i.e. torch use, _deprivation_, etc).
+1. The characters enter a new location. The **Warden** describes the environment and any obvious dangers.
+2. Any immediate consequences are dealt with (combat, traps, surprises).
+3. Character declare their next intended action (e.g. moving, searching, listening, entering or exiting rooms, engaging an enemy in combat).
+4. The **Warden** resolves each character's actions simultaneously, using the [**Common Action**](#common-actions) where appropriate.
+5. The **Warden** rolls on the [**Dungeon Events**](#dungeon-events) table.
+6. The players and the **Warden** record any relevant loss of resources and relevant effects (i.e. torch use, _deprivation_, etc).
 
 #### Event Triggers
-- If the characters make a lot of noise (accidently or otherwise) or trigger an impending event, the **Warden** may also roll on the [**Dungeon Events**](#dungeon-events) table.
+- If the characters make a lot of noise (accidently or otherwise) or trigger an impending event, the **Warden** should also roll on the [**Dungeon Events**](#dungeon-events) table.
 
 ### Dungeon Events
 
-|       |                           |                                                              |
-| :---: | :-----------------------: | :----------------------------------------------------------: |
-| **1** |       **Encounter**       |       Roll on encounter table, see reactions & wants.        |
-| **2** |         **Sign**          | Clue, “spoor”, track, abandoned lair, scent, victim, droppings, etc. |
-| **3** |      **Environment**      | The party's surroundings shift or escalate in some way. Water rising, ceiling collapsing, a ritual nearing completion, etc, |
-| **4** |      **Exhaustion**       | The PCs may need to rest soon or are forced to take a **Fatigue** or become _deprived_. |
-| **5** |         **Loss**          | An ongoing effect ends (torches, magic, etc). Rations or other resources are used up. |
-| **6** | **Discovery or Treasure** | The party finds something interesting and/or possibly beneficial. |
-
+|       |                 |                                                              |
+| :---: | :-------------: | :----------------------------------------------------------: |
+| **1** |   **Danger**    |                 A hostile encounter ensues.                  |
+| **2** |  **Encounter**  | Roll on an encounter table. Not necessarily hostile (see NPC [reactions](/cairn-srd/#reactions)) |
+| **3** |    **Sign**     | Clue, “spoor”, track, abandoned lair, scent, victim, droppings, etc. |
+| **4** | **Environment** | The party's surroundings shift or escalate in some way. Water rising, ceiling collapsing, a ritual nearing completion, etc, |
+| **5** | **Exhaustion**  | The PCs may need to rest soon or are forced to take a **Fatigue** or become _deprived_. |
+| **6** | **Expiration**  | An ongoing effect ends (torches, magic, etc). Rations or other resources are used up. |
 
 ## Light
 - Torches and other radial sources of light illuminate 40’ of dungeon, but beyond provide only a dim outlines of objects.
 - A torch lasts about 6 **turns** (or one hour) before it burns out. Lanterns and other light sources may differ.
-- Characters without a light source are considered **lost** until their situation is remedied. Their HP is 0 as they cannot defend themselves. 
+- Characters without a light source suffer from **panic*** until their situation is remedied. Their HP is 0 as they cannot defend themselves. 
 
 ## Surprise
 - Characters are assumed to be moving through areas in such a way that they avoid being **surprised**.  
-- **Lost** characters are _always_ **surprised**, and cannot enter combat - they only avoid danger through **Saves**.
+- **Panicked** characters are _always_ **surprised**, and cannot enter combat - they only avoid danger through **Saves**.
 
 ## Traps 
 - **Traps** are detected (and generally avoided) by carefully **Searching** a room. Only the character taking the **Searching** a room avoids triggering a trap. 
@@ -60,27 +60,29 @@ search_exclude: true
 ## Common Actions
 
 ## Move
-- Characters generally move slowly (up to 40ft) if _carefully_ exploring a location.  
-- Rushing through a dangerous area can be perilious, and actions like **Searching** and **Resting** are not possible. 
+- One or more characters move to another room, or down a long corridor or tunnel. 
+- Characters generally move slowly (up to 40ft) if _carefully_ exploring a location. 
+- Rushing through a dangerous area can be perilious, and actions like **Searching** and **Resting** are not possible.
+
+## Interact
+- A character engages with a creature or element in the room. 
+- Obvious information about a room should always be offered freely and at no cost, regardless of the room's size.
 
 ## Rest
 - **Resting** takes one **turn**, and relieves _deprivation_ and any other minor conditions.
 
 ## Search
-- Obvious information about a room should always be offered freely and at no cost, regardless of the room's size.
 - A character can spend a **turn** performing a an _exhaustive search_ that reveals any hidden treasure, traps, doors, or information they could possibly uncover. 
 - Secret doors and hidden treasure are _always_ uncovered by a **search**, unless otherwise noted.
 
 ## Listen
-- Characters can listen to the sounds of denizens and other hazards through nearby doors and walls. Generally they have a 1-in-6 chance of detecting subtle sounds. 
+- A character can listen to the sounds of denizens and other hazards through nearby doors and walls. Generally they have a 1-in-6 chance of detecting subtle sounds. 
 - If a creature or dangers is particularly noisy, the **Warden** should simply inform the party through one of the other actions. 
 
 ## Force
 - Doors and entryways may be locked, stuck, moving or blocked entirely. Characters can try to force a door open (or wedge it shut) using available resources (spikes, glue), or through raw ability (**STR** or **DEX**). 
 - The character _most at risk_ should **save** to avoid whatever danger may befall them (a trapped appendage, engraged monsters, etc).
-
-
-
+  
 ## Credits
 
 - [The Cairn Adventurer’s Guide](https://adamhensley.itch.io/cairn-adventurers-guide) by Adam Hensley
