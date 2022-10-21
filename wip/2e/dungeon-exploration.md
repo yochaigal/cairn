@@ -48,9 +48,6 @@ search_exclude: true
 - A torch lasts about 6 **dungeon turns** (or one hour) before it burns out. Lanterns and other light sources may differ.
 - Characters without a light source suffer from **panic*** until their situation is remedied. 
 
-## Surprise
-- Characters are assumed to be moving through areas in such a way that they avoid being **surprised**.  
-
 ## Panic
 - A character that is surrounded by enemies, enveloped by darkness or facing their greatest fears alone may experience **panic**.
 - **Panicked** characters are _always_ **surprised**, and has 0 HP, and their attacks are _impaired_. 
@@ -68,6 +65,7 @@ search_exclude: true
 - One or more characters move to another room, or down a long corridor or tunnel. 
 - Characters generally move slowly (up to 40ft) if _carefully_ exploring a location. 
 - Rushing through a dangerous area can be perilious, and actions like **Searching** and **Resting** are not possible.
+- Characters are assumed to be moving through areas in such a way that they avoid being **surprised**.  
 
 ## Interact
 - A character engages with a creature or element in the room. 
