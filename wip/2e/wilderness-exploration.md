@@ -10,22 +10,23 @@ search_exclude: true
 # Wilderness Exploration
 
 ## The Basics
-- The day is divided in 3 **phases** of 8 hours each: _dawn_, _midday_, and _dusk_.
-- The party can choose _one_ [**Wilderness Action**](#wilderness-actions) per **phase**. 
+- The day is divided into 3 **turns** of 8 hours each: _dawn_, _midday_, and _dusk_.
+- Characterse can choose _one_ [**Wilderness Action**](#wilderness-actions) per **turn**. 
+- Some **turns** are performed by the entire party (typically **Travel** and **Make Camp**), but occasionally characters may act independently (see **Supply** and **Explore**).
 - A typical region will have a set number of _known_ locations, called **points**. 
-- One or more **phases** may be required to journey between two **points** on a map, depending on the party's **travel speed**.
-- A party walking on roads or settled terrain can usually travel between two nearby **points** in a single **phase**. 
+- One or more **turns** may be required to journey between two **points** on a map, depending on the party's **travel speed**.
+- A party walking on roads or settled terrain can usually travel between two nearby **points** in a single **turn**. 
 - Mounts, guides, and maps can increase the party's travel speed or overcome a terrain's [**Difficulty**](#difficulty). 
 
 ### Hex Maps
-- If using hexes, assume that the **Travel** action moves the party to an adjacent tile in one **phase** at _Normal_ **travel speed**, and that if they get lost they end up in an adjacent hex.
+- If using hexes, assume that the **Travel** action moves the party to an adjacent tile in one **turn** at _Normal_ **travel speed**, and that if they get lost they end up in an adjacent hex.
 
 ## Day Cycle
 1. Each day, the **Warden** rolls on the [**Weather**](#weather) table for the appropriate season.
-2. Before each **phase** begins, the party plots or adjusts a given course towards their destination based on available information.
+2. Before each **turn** begins, the party plots or adjusts a given course towards their destination based on available information.
 3. The **Warden** explains how the current [**Difficulty**](#difficulty) affects the party's **travel speed**, what obstacles the party may face, and the odds of [**Getting Lost**](#getting-lost). The party adjusts their plans accordingly.
 4. The party chooses a single **Wilderness Action**, and the **Warden** narrates the results. 
-5. Repeat the process for the other two **phases**. The last **phase** of the day is typically reserved for the [**Make Camp**](#make-camp) action (see [**Sleep**](#sleep) below).
+5. Repeat the process for the other two **turns**. The last **turn** of the day is typically reserved for the [**Make Camp**](#make-camp) action (see [**Sleep**](#sleep) below).
 
 ### Sleep
 - Characters typically need to sleep each day. Anything beyond a minor interruption can negate or cancel the benefits of sleep.
@@ -55,9 +56,9 @@ search_exclude: true
 |   **Weather**    | **Effect**                                                   | **Examples**                                     |
 |     **Nice**     | Favorable conditions for travel. Bedroll or shelter required. | _Clear skies, sunny_                      |
 |     **Fair**     | Favorable conditions for travel. Bedroll or shelter required. | _Overcast, breezy_                              |
-|  **Unpleasant**  | Gain one **Fatigue** _or_ add one **phase** to the journey.  | _Gusting winds, rain showers, sweltering heat, chill air_ |
-|  **Inclement**   | Gain one **Fatigue** _or_ add one **phase** to the journey. **Difficulty** increases one step. | _Thunderstorms & lightning, rain, muddy ground_      |
-|   **Extreme**    | Gain one **Fatigue** _and_ add one **phase** to the journey. Chance of getting lost increases by one step. **Difficulty** increases one step. | _Blizzards, freezing winds, flooding_            |
+|  **Unpleasant**  | Gain one **Fatigue** _or_ add one **turn** to the journey.  | _Gusting winds, rain showers, sweltering heat, chill air_ |
+|  **Inclement**   | Gain one **Fatigue** _or_ add one **turn** to the journey. **Difficulty** increases one step. | _Thunderstorms & lightning, rain, muddy ground_      |
+|   **Extreme**    | Gain one **Fatigue** _and_ add one **turn** to the journey. Chance of getting lost increases by one step. **Difficulty** increases one step. | _Blizzards, freezing winds, flooding_            |
 | **Catastrophic** | Most parties cannot travel under these conditions.           | _Tornados, tidal waves, hurricanes_                   |
 
 ## Wilderness Actions
@@ -126,21 +127,21 @@ In this example we'll be using a map made with [Watabou's](https://watabou.itch.
 The party (3 healthy PCs walking by foot) are plotting a journey to an ancient ruin deep in the forests of **Ein Eyton**. 
 The forest (at **3**) is separated from the party's present location (the village of **Rudbat**, at **1**) by the neighboring **Range of Deshe** (at **2**), a short distance away. 
 
-The **Warden** explains that travelling on the forgiving roads from the village to the hills will require only a single **phase**, but that it will take three _additional_ **phases** for the party to complete their journey to the forest, assuming they spend one **phase** sleeping. 
+The **Warden** explains that travelling on the forgiving roads from the village to the hills will require only a single **turn**, but that it will take three _additional_ **turns** for the party to complete their journey to the forest, assuming they spend one **turn** sleeping. 
 
-The party accepts this route, plotting their route: one **phase** to reach the hills (_dawn_), one **phase** partway through the hills (_midday_), then another **phase** sleeping (the **Making Camp** action) at (_dusk_). The party would spend the following day's _dawn_ **phase** travelling to their final destination. On the first day of travel, the **Warden** rolls a 3 on the **Weather** table (**Fall**: _Cool and foggy_). 
+The party accepts this route, plotting their route: one **turn** to reach the hills (_dawn_), one **turn** partway through the hills (_midday_), then another **turn** sleeping (the **Making Camp** action) at (_dusk_). The party would spend the following day's _dawn_ **turn** travelling to their final destination. On the first day of travel, the **Warden** rolls a 3 on the **Weather** table (**Fall**: _Cool and foggy_). 
 
-For their first **phase**, the party chooses the **Travel** action, taking the road through the farmlands and to the hills. The terrain, weather, and current party status indicates that the **Difficulty** level is **Easy**. The party is able to travel with no forseeable problems, so the **Warden** rolls on the **Events** table. The result is an **Encounter**. The **Warden** explains that the party crosses paths with an NPC travelling South, who gives them a piece of advice: "_Avoid the hills, there are bandits about_!" The party notes this and moves on, arriving in the **Range of Deshe** after lunchtime. They rest near a streambed, stepping off the dusty road for the first time.
+For their first **turn**, the party chooses the **Travel** action, taking the road through the farmlands and to the hills. The terrain, weather, and current party status indicates that the **Difficulty** level is **Easy**. The party is able to travel with no forseeable problems, so the **Warden** rolls on the **Events** table. The result is an **Encounter**. The **Warden** explains that the party crosses paths with an NPC travelling South, who gives them a piece of advice: "_Avoid the hills, there are bandits about_!" The party notes this and moves on, arriving in the **Range of Deshe** after lunchtime. They rest near a streambed, stepping off the dusty road for the first time.
 
-For the party's second **phase**, the **Warden** explains that this area is peppered with small rocks and uneven hills, setting the terrain **Difficulty** to **Tough**. Worse yet, without a guide the party might easily lose their way! The players discuss whether it would be better to spend a **Phase** exploring the area, perhaps even finding a faster (and safer) way through. 
+For the party's second **turn**, the **Warden** explains that this area is peppered with small rocks and uneven hills, setting the terrain **Difficulty** to **Tough**. Worse yet, without a guide the party might easily lose their way! The players discuss whether it would be better to spend a **turn** exploring the area, perhaps even finding a faster (and safer) way through. 
 
 The party agrees that arriving at their destination sooner is worth the risk, and proceeds with the **Travel** action again. The players discuss how to avoid **Getting Lost**, checking to see if anyone in the party has knowledge of the area, relevant experience, or a map. They do not, so the **Warden** rolls 1d6. The result is not a **1** or a **2**, and the party moves on as planned.
 
-The **Warden** rolls on the **Events** table, and the result is **Environment**. The **Warden** explains that a short while after entering the hills, the ground became much more demanding to cross. Small rocks turned into large crags, the hills to pits and mini-craters. The party now has a choice: push forward, spending a **Fatigue** to keep their current speed, or slow down, adding an additional **phase** of travel to their journey. They agree to push forward, each character adding a **Fatigue** to their inventory. Had they chosen to walk slower it may have been safer, but they would have an additional half-day of walking to do tomorrow.
+The **Warden** rolls on the **Events** table, and the result is **Environment**. The **Warden** explains that a short while after entering the hills, the ground became much more demanding to cross. Small rocks turned into large crags, the hills to pits and mini-craters. The party now has a choice: push forward, spending a **Fatigue** to keep their current speed, or slow down, adding an additional **turn** of travel to their journey. They agree to push forward, each character adding a **Fatigue** to their inventory. Had they chosen to walk slower it may have been safer, but they would have an additional half-day of walking to do tomorrow.
 
-As night descends, the party finds a large, rocky, outcropping that would work as a suitable shelter. There is no water nearby, but this location should be sufficient for their current needs. They agree to **Make Camp** as their final **phase**, choosing a **Watch Rotation** that should allow all party members a decent rest, and a chance to shed any **Fatigue** they have. Each party member consumes a ration, and the **Warden** rolls on the **Events** table. The result is a **Sign**. The **Warden** describes the flickering ghost of a torchlight in the distance. Could it be another party, or perhaps bandits, or even a dangerous creature on the prowl?
+As night descends, the party finds a large, rocky, outcropping that would work as a suitable shelter. There is no water nearby, but this location should be sufficient for their current needs. They agree to **Make Camp** as their final **turn**, choosing a **Watch Rotation** that should allow all party members a decent rest, and a chance to shed any **Fatigue** they have. Each party member consumes a ration, and the **Warden** rolls on the **Events** table. The result is a **Sign**. The **Warden** describes the flickering ghost of a torchlight in the distance. Could it be another party, or perhaps bandits, or even a dangerous creature on the prowl?
 
-The party rests, erasing their **Fatigue**. They mark their current location on the map, noting that should everything go well the following day, they should only have to spend one **phase** to arrive at the ruins of **Ein Eyton** before _midday_.
+The party rests, erasing their **Fatigue**. They mark their current location on the map, noting that should everything go well the following day, they should only have to spend one **turn** to arrive at the ruins of **Ein Eyton** before _midday_.
 
 ## Credits
 
