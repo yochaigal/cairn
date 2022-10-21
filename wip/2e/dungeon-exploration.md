@@ -28,9 +28,6 @@ search_exclude: true
 5. The **Warden** rolls on the [**Dungeon Events**](#dungeon-events) table.
 6. The players and the **Warden** record any relevant loss of resources and relevant effects (i.e. torch use, _deprivation_, etc).
 
-#### Event Triggers
-- If the characters make a lot of noise (accidently or otherwise) or trigger an impending event, the **Warden** should also roll on the [**Dungeon Events**](#dungeon-events) table.
-
 ### Dungeon Events
 
 |       |                 |                                                              |

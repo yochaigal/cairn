@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Extra Tables
+title: Extras
 grand_parent: WIP
 parent: 2e
 nav_exclude: true
 search_exclude: true
 ---
 
-# Extra Tables
+# Extras
 
 ### Weird Weather Effects
 
@@ -147,4 +147,6 @@ The Warden can roll on the [Cardinal Directions](#cardinal-directions) table to 
 - Ruins
 - Caves
 - 
->>>>>>> Stashed changes
+
+#### Event Triggers
+- If the characters make a lot of noise (accidently or otherwise) or trigger an impending event, the **Warden** should also roll on the [**Dungeon Events**](#dungeon-events) table.
