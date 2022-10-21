@@ -21,7 +21,7 @@ search_exclude: true
 ### Hex Maps
 - If using hexes, assume that the **Travel** action moves the party to an adjacent tile in one **turn** at _Normal_ **travel speed**, and that if they get lost they end up in an adjacent hex.
 
-## Day Cycle
+## Wilderness Exploration Sequence
 1. Each day, the **Warden** rolls on the [**Weather**](#weather) table for the appropriate season.
 2. Before each **turn** begins, the party plots or adjusts a given course towards their destination based on available information.
 3. The **Warden** explains how the current [**Difficulty**](#difficulty) affects the party's **travel speed**, what obstacles the party may face, and the odds of [**Getting Lost**](#getting-lost). The party adjusts their plans accordingly.
@@ -65,29 +65,29 @@ search_exclude: true
 ### Travel
 - Travel begins. Obvious locations, features, and terrain of nearby areas are revealed according to their distance. 
 - If necessary, the party rolls 1d6 to see if they've become lost.
-- Provided the party does not get lost, the **Warden** rolls on the [Events Table](#events).
+- Provided the party does not get lost, the **Warden** rolls on the [**Wilderness Events**](#wilderness-events).
 
 #### Getting Lost
 - If the party gets lost, they may need to spend a **Wilderness Action** to recover their way. 
 - Maps and relevant backgrounds may negate the need for a roll, or decrease the chances of getting lost.
-- The **Warden** rolls on the [Events Table](#events).
+- The **Warden** rolls on the [**Wilderness Events**](#wilderness-events).
 
 ### Explore
 - The party covers a large area, searching for hidden features, scouting ahead, or treading carefully.
-- The **Warden** rolls on the [Events Table](#events).
+- The **Warden** rolls on the [**Wilderness Events**](#wilderness-events).
 - One Location or Feature is discovered.
 - The **Travel** action is still required to _leave_ the current area, even if it has been completely explored.
 
 ### Supply
 - The party gathers food and water.
-- The **Warden** rolls on the [Events Table](#events).
+- The **Warden** rolls on the [**Wilderness Events**](#wilderness-events).
 - Characters can hunt, fish, or forage for food, each participant collecting 1d4 rations worth. 
 - A character with relevant foraging, hunting, or fishing experience increases the supplies **they** discover by one or two steps (i.e. 1d6 or 1d8).
 
 ### **Make Camp**
 - The party stops to set up camp in the wilds. Each party member (and their mounts) consume a ration.
 - A **Watch** rotation is set from each party member. At least 3 rotations are necessary to ensure that all party members can rest. A smaller party may need to risk sleeping unguarded, or switch off sleeping over multiple days (see [**Sleep**](#sleep)).
-- The **Warden** rolls on the [Events Table](#events).
+- The **Warden** rolls on the [**Wilderness Events**](#wilderness-events).
 - Party members that were able to rest remove all of **Fatigue** from their inventory, and other conditions (if required).
 
 ## Splitting Up
@@ -108,7 +108,7 @@ If the "**Extreme**" weather result is rolled twice in 24 hours, the weather tur
 | **5**  |  Inclement   |  Inclement   |  Inclement   |  Extreme    |
 | **6**  |  Extreme     |  Extreme     |  Extreme     |  Extreme    |
 
-### Events 
+### Wilderness Events
 
 |                         |                  |             |
 | ----------------------- | ---------------- | ----------- |
