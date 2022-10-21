@@ -11,7 +11,7 @@ search_exclude: true
 
 ## The Basics
 - The day is divided into 3 **turns** of 8 hours each: _dawn_, _midday_, and _dusk_.
-- Characterse can choose _one_ [**Wilderness Action**](#wilderness-actions) per **turn**. 
+- Characters can choose _one_ [**Wilderness Action**](#wilderness-actions) per **turn**. 
 - Some **turns** are performed by the entire party (typically **Travel** and **Make Camp**), but occasionally characters may act independently (see **Supply** and **Explore**).
 - A typical region will have a set number of _known_ locations, called **points**. 
 - One or more **turns** may be required to journey between two **points** on a map, depending on the party's **travel speed**.
