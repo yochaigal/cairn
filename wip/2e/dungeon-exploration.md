@@ -25,11 +25,11 @@ search_exclude: true
 1. The **Warden** describes the room or location.
 2. Each character declares their intended action (e.g. moving, searching, listening, entering or exiting rooms, engaging an enemy in combat).
 3. The **Warden** resolves each character's actions.
-4. After six consecutive **turns** (or 1 hour), the **Warden** rolls on the [[**Dungeon Events**]](#dungeon-events) table.
+4. After six consecutive **turns** (or 1 hour), the **Warden** rolls on the [**Dungeon Events**](#dungeon-events) table.
 5. The players and the **Warden** record the relevant loss of resources and relevant effects (i.e. torch use, _deprivation_, etc).
 
 #### Event Triggers
-- If the characters make a lot of noise (accidently or otherwise) or trigger an impending event, the **Warden** may also roll on the [[**Dungeon Events**]](#dungeon-events) table.
+- If the characters make a lot of noise (accidently or otherwise) or trigger an impending event, the **Warden** may also roll on the [**Dungeon Events**](#dungeon-events) table.
 
 ## Light
 - Torches and other radial sources of light illuminate 40’ of dungeon, but beyond provide only a dim outlines of objects.
