@@ -9,38 +9,7 @@ search_exclude: true
 
 # Extra Tables
 
-### Process
-- The **Warden** rolls on the [**Terrain**](#terrain-effects) table for flavor or potential changes to the terrain.
-
-### Terrain Effects
-
-|        |                  |                   |           |           |            |            |            |
-| ------ | :--------------: | :---------------: | :-------: | :-------: | :--------: | :--------: | :--------: |
-| **d6** |   **Weather**    |    **Plains**     | **Hills** | **Swamp** | **Forest** | **Jungle** | **Desert** |
-| **1**  |     **Nice**     |      _None_       |  _None_   |           |            |            |            |
-| **2**  |     **Fair**     |      _None_       |  _None_   |           |            |            |            |
-| **3**  |  **Unpleasant**  | _Hardened Ground_ |           |           |            |            |            |
-| **4**  |  **Inclement**   |      _Muddy_      |           |           |            |            |            |
-| **5**  |   **Extreme**    |                   |           |           |            |            |            |
-| **6**  | **Catastrophic** |                   |           |           |            |            |            |
-
-### Terrain Difficulty Impacts
-
-|        |                |          |           |              |
-| ------ | :------------: | :------: | :-------: | :----------: |
-| **d6** |  **Terrain**   | **Easy** | **Tough** | **Perilous** |
-| **1**  |   **Roads**    |  _None_  |  _None_   |              |
-| **2**  |   **Plains**   |  _None_  |  _None_   |              |
-| **2**  |   **Hills**    |  _None_  |  _None_   |              |
-| **3**  |   **Swamps**   |          |           |              |
-| **4**  |  **Jungles**   |          |           |              |
-| **5**  |  **Forests**   |          |           |              |
-| **6**  | **Mountains**  |          |           |              |
-| **7**  |  **Deserts**   |          |           |              |
-| **8**  | **Wastelands** |          |           |              |
-
-
-### Weird Effects
+### Weird Weather Effects
 
 |         |                                                              |
 | :-----: | :----------------------------------------------------------: |
@@ -66,17 +35,6 @@ search_exclude: true
 | **19**  |                                                              |
 | **20**  |                                                              |
 
-
-## Difficulty Descriptions
-
-- **Nice**: Favorable conditions for travel.
-- **Fair**: Warm clothing or blankets required to **Make Camp**. Bedroll or shelter required.
-- **Unpleasant**: Gain one **Fatigue** or add one **phase** to the journey. Fire _or_ shelter are required to **Make Camp**.
-- **Inclement**: Chance of getting lost increases by one step. Fire and shelter are required to **Make Camp**.
-- **Extreme**: Gain one **Fatigue** and add one **phase** to the journey. Chance of getting lost increases by one step.
-- **Catastrophic**: Most parties cannot travel under these conditions.
-
-
 ### Weather Descriptions A
 
 |        |                  |                          |                             |                           |                             |
@@ -99,7 +57,7 @@ search_exclude: true
 |  **Fall**  |    Sunny     |   Cool   |        Bitter winds        | Hailstorm, freezing rains   |             |           |
 | **Winter** | Chill breeze |   Cold   | Heavy snow and frigid cold | Blizzard and freezing winds |             |           |
 
-### Original Table
+### Original Weather Table
 
 |        |                    |                      |                   |                      |
 | :----: | :----------------: | :------------------: | :---------------: | :------------------: |
@@ -137,3 +95,34 @@ The Warden can roll on the [Cardinal Directions](#cardinal-directions) table to 
 |  **6**  |     SE         |   
 |  **7**  |      E         |   
 |  **8**  |     NE         |   
+
+
+## Unused Tables
+- The **Warden** rolls on the [**Terrain**](#terrain-effects) table for flavor or potential changes to the terrain.
+
+### Terrain Effects
+
+|        |                  |                   |           |           |            |            |            |
+| ------ | :--------------: | :---------------: | :-------: | :-------: | :--------: | :--------: | :--------: |
+| **d6** |   **Weather**    |    **Plains**     | **Hills** | **Swamp** | **Forest** | **Jungle** | **Desert** |
+| **1**  |     **Nice**     |      _None_       |  _None_   |           |            |            |            |
+| **2**  |     **Fair**     |      _None_       |  _None_   |           |            |            |            |
+| **3**  |  **Unpleasant**  | _Hardened Ground_ |           |           |            |            |            |
+| **4**  |  **Inclement**   |      _Muddy_      |           |           |            |            |            |
+| **5**  |   **Extreme**    |                   |           |           |            |            |            |
+| **6**  | **Catastrophic** |                   |           |           |            |            |            |
+
+### Terrain Difficulty Impacts
+
+|        |                |          |           |              |
+| ------ | :------------: | :------: | :-------: | :----------: |
+| **d6** |  **Terrain**   | **Easy** | **Tough** | **Perilous** |
+| **1**  |   **Roads**    |  _None_  |  _None_   |              |
+| **2**  |   **Plains**   |  _None_  |  _None_   |              |
+| **2**  |   **Hills**    |  _None_  |  _None_   |              |
+| **3**  |   **Swamps**   |          |           |              |
+| **4**  |  **Jungles**   |          |           |              |
+| **5**  |  **Forests**   |          |           |              |
+| **6**  | **Mountains**  |          |           |              |
+| **7**  |  **Deserts**   |          |           |              |
+| **8**  | **Wastelands** |          |           |              |
