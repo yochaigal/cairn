@@ -45,15 +45,14 @@ search_exclude: true
 
 ### Encounter Table
 
-|        |                           |                                                              |      |      |      |
-| :----: | :-----------------------: | :----------------------------------------------------------: | :--: | :--: | :--: |
-| **d6** |                           |                             ****                             | **** | **** | **** |
-| **1**  |       **Encounter**       |  Roll on encounter table, see reactions & wants.   |      |      |      |
-| **2**  |         **Sign**          | Clue, “spoor”, track, abandoned lair, scent, victim, droppings, etc. |      |      |      |
-| **3**  |       **Locality**        | The party's surroundings shift or escalate in some way. Water rising, ceiling collapsing, a ritual nearing completion, etc, |      |      |      |
-| **4**  |      **Exhaustion**       | The PCs may need to rest soon or are forced to take a **Fatigue** or become _deprived_.     |      |      |      |
-| **5**  |      **Expiration**       | An ongoing effect ends (torches, magic, etc). Rations or other resources are used up. |      |      |      |
-| **6**  | **Discovery or Treasure** | The party finds something interesting and/or possibly beneficial. |      |      |      |
+|       |                           |                                                              |
+| :---: | :-----------------------: | :----------------------------------------------------------: |
+| **1** |       **Encounter**       |       Roll on encounter table, see reactions & wants.        |
+| **2** |         **Sign**          | Clue, “spoor”, track, abandoned lair, scent, victim, droppings, etc. |
+| **3** |      **Environment**      | The party's surroundings shift or escalate in some way. Water rising, ceiling collapsing, a ritual nearing completion, etc, |
+| **4** |      **Exhaustion**       | An ongoing effect ends (torches, magic, etc). Rations or other resources are used up. |
+| **5** |         **Loss**          | The PCs may need to rest soon or are forced to take a **Fatigue** or become _deprived_. |
+| **6** | **Discovery or Treasure** | The party finds something interesting and/or possibly beneficial. |
 
 
 ## Credits
