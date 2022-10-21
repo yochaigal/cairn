@@ -39,23 +39,23 @@ search_exclude: true
 | **1** |   **Danger**    |                 A hostile encounter ensues.                  |
 | **2** |  **Encounter**  | Roll on an encounter table. Not necessarily hostile (see NPC [reactions](/cairn-srd/#reactions)) |
 | **3** |    **Sign**     | Clue, “spoor”, track, abandoned lair, scent, victim, droppings, etc. |
-| **4** | **Environment** | The party's surroundings shift or escalate in some way. Water rising, ceiling collapsing, a ritual nearing completion, etc, |
+| **4** | **Environment** | The party's surroundings shift or escalate in some way. Water rising, ceiling collapsing, a ritual nearing completion, etc. |
 | **5** | **Exhaustion**  | The PCs may need to rest soon or are forced to take a **Fatigue** or become _deprived_. |
 | **6** | **Expiration**  | An ongoing effect ends (torches, magic, etc). Rations or other resources are used up. |
 
 ## Light
 - Torches and other radial sources of light illuminate 40’ of dungeon, but beyond provide only a dim outlines of objects.
 - A torch lasts about 6 **dungeon turns** (or one hour) before it burns out. Lanterns and other light sources may differ.
-- Characters without a light source suffer from **panic*** until their situation is remedied. 
+- Characters without a light source suffer from _panic_ until their situation is remedied. 
 
 ## Panic
-- A character that is surrounded by enemies, enveloped by darkness or facing their greatest fears alone may experience **panic**.
-- **Panicked** characters are _always_ **surprised**, and has 0 HP, and their attacks are _impaired_. 
-- A **WIL** save is required to overcome **panic** before taking any action. This can only happen once every **dungeon turn** while the effect lasts.
-- A **panicked** character automatically fails **WIL** and **DEX** saves.
-
+- A character that is surrounded by enemies, enveloped by darkness, or facing a great fear may experience _panic_.
+- A **WIL** **save** is required to avoid becoming _panicked_, after which they may attempt once per **dungeon turn**. 
+- A _panicked_ character is _always_ **surprised** and has 0 HP. All of their attacks are _impaired_. 
+- A _panicked_ character automatically fails **WIL** and **DEX** saves. 
+   
 ## Traps 
-- **Traps** are detected (and generally avoided) by carefully **Searching** a room. Only the character taking the **Searching** a room avoids triggering a trap. 
+- **Traps** are detected (and generally avoided) by carefully **searching** a room. Only the character **searching** a room avoids triggering a trap. 
 - If a character makes an action that could trigger a trap, there is usually a 2-in-6 of it being sprung. 
 - Damage from traps is taken from ability scores (usually **STR** or **DEX**) and _not_ from HP. Armor can reduce damage, but only if applicable (e.g. a shield would not reduce damage from noxious gas).
 
