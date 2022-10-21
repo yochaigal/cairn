@@ -61,8 +61,7 @@ search_exclude: true
 ## Common Actions
 
 ## Move
-- One or more characters move to another room, or down a long corridor or tunnel. 
-- Characters generally move slowly (up to 40ft) if _carefully_ exploring a location. 
+- One or more characters carefully move to another room, or down a long corridor or tunnel. 
 - Rushing through a dangerous area can be perilious, and actions like **Searching** and **Resting** are not possible.
 - Characters are assumed to be moving through areas in such a way that they avoid being **surprised**.  
 
