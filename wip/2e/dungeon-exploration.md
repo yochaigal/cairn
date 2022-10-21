@@ -36,14 +36,14 @@ search_exclude: true
 - A torch lasts about 6 **turns** (or one hour) before it burns out. Lanterns and other light sources may differ.
 - Characters without a light source are considered **lost** until their situation is remedied. Their HP is 0 as they cannot defend themselves. 
 
+## Surprise
+- Characters are assumed to be moving through areas in such a way that they avoid being **surprised**.  
+- **Lost** characters are _always_ **surprised**, and cannot enter combat - they only avoid danger through **Saves**.
+
 ## Traps 
 - **Traps** are detected (and generally avoided) by carefully **Searching** a room. Only the character taking the **Searching** a room avoids triggering a trap. 
 - If a character makes an action that could trigger a trap, there is usually a 2-in-6 of it being sprung. 
 - Damage from traps is taken from ability scores (usually **STR** or **DEX**) and _not_ from HP. Armor can reduce damage, but only if applicable (e.g. a shield would not reduce damage from noxious gas).
-
-## Surprise
-- Characters are assumed to be moving through areas in such a way that they avoid being **surprised**.  
-- **Lost** characters are _always_ **surprised**, and cannot enter combat - they only avoid danger through **Saves**.
 
 ## Common Actions
 
@@ -57,7 +57,7 @@ search_exclude: true
 ## Search
 - Obvious information about a room should always be offered freely and at no cost, regardless of the room's size.
 - A character can spend a **turn** performing a an _exhaustive search_ that reveals any hidden treasure, traps, doors, or information they could possibly uncover. 
-- Secret doors and hidden treasure 
+- Secret doors and hidden treasure are _always_ uncovered by a **search**, unless otherwise noted.
 
 ## Listen
 - Characters can listen to the sounds of denizens and other hazards through nearby doors and walls. Generally they have a 1-in-6 chance of detecting subtle sounds. 
@@ -74,8 +74,8 @@ search_exclude: true
 | **1** |       **Encounter**       |       Roll on encounter table, see reactions & wants.        |
 | **2** |         **Sign**          | Clue, “spoor”, track, abandoned lair, scent, victim, droppings, etc. |
 | **3** |      **Environment**      | The party's surroundings shift or escalate in some way. Water rising, ceiling collapsing, a ritual nearing completion, etc, |
-| **4** |      **Exhaustion**       | An ongoing effect ends (torches, magic, etc). Rations or other resources are used up. |
-| **5** |         **Loss**          | The PCs may need to rest soon or are forced to take a **Fatigue** or become _deprived_. |
+| **4** |      **Exhaustion**       | The PCs may need to rest soon or are forced to take a **Fatigue** or become _deprived_. |
+| **5** |         **Loss**          | An ongoing effect ends (torches, magic, etc). Rations or other resources are used up. |
 | **6** | **Discovery or Treasure** | The party finds something interesting and/or possibly beneficial. |
 
 
