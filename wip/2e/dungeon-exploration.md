@@ -15,9 +15,8 @@ search_exclude: true
 - The goal of these rules is twofold: to keep the sense of danger ever-present, and to maintain a consistent sense of time and resources used. 
 
 ## The Basics
-- A **dungeon turn** lasts approximately 10 minutes. 
-- Each character in the party can perform one **action** during a **turn**. 
-- Actions are extended activities like searching for traps or treasure, forcing open a door, listening for danger, disarming traps, engaging an enemy in combat, etc.
+- A character can perform one **action** during a **dungeon turn**. 
+- Actions are any extended activities, such as _searching for traps or treasure_, _forcing open a door_, _listening for danger_, _disarming a trap_, _engaging an enemy in combat_, etc.
 - A dungeon room is typically **small**, **medium** or **large**. 
 - Some activities take longer than one **dungeon turn**, if the room is very **large**, or the task especially difficult. 
 
@@ -25,7 +24,7 @@ search_exclude: true
 1. The characters enter a new location. The **Warden** describes the environment and any obvious dangers.
 2. Any immediate consequences are dealt with (combat, traps, surprises).
 3. Character declare their next intended action (e.g. moving, searching, listening, entering or exiting rooms, engaging an enemy in combat).
-4. The **Warden** resolves each character's actions simultaneously, using the [**Common Action**](#common-actions) where appropriate.
+4. The **Warden** resolves each character's actions simultaneously, using the [**Common Action**](#common-actions) where appropriate. If an action would take longer than one **dungeon turn**, the **Warden** describes the character's progress.
 5. The **Warden** rolls on the [**Dungeon Events**](#dungeon-events) table.
 6. The players and the **Warden** record any relevant loss of resources and relevant effects (i.e. torch use, _deprivation_, etc).
 
