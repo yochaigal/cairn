@@ -146,7 +146,6 @@ The Warden can roll on the [Cardinal Directions](#cardinal-directions) table to 
 - Monsters by terrain
 - Ruins
 - Caves
-- 
 
 #### Event Triggers
 - If the characters make a lot of noise (accidently or otherwise) or trigger an impending event, the **Warden** should also roll on the [**Dungeon Events**](#dungeon-events) table.

@@ -18,7 +18,8 @@ search_exclude: true
 - A character can perform one **action** during a **dungeon turn**. 
 - Actions are any extended activities, such as _searching for traps or treasure_, _forcing open a door_, _listening for danger_, _disarming a trap_, _engaging an enemy in combat_, etc.
 - A dungeon room is typically **small**, **medium** or **large**. 
-- Some activities take longer than one **dungeon turn**, if the room is very **large**, or the task especially difficult. 
+- Some activities take longer than one **dungeon turn**, if the room is very **large**, or the task especially difficult.
+- Loud or noticeable actions may trigger a **danger** or **encounter**, regardless of the results of the [**Dungeon Events**](#dungeon-events) table.
 
 ## Dungeon Exploration Sequence
 1. The characters enter a new location. The **Warden** describes the environment and any obvious dangers.
