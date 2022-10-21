@@ -10,14 +10,14 @@ search_exclude: true
 # Dungeon Exploration
 
 ## The Basics
+The goal of these rules is twofold: to keep the sense of danger ever-present, and to maintain a consistent sense of time and resources used. Although the term "dungeon" is used here, it can be exchanged for any enclosed space (mansions, farmhouses, etc).
+
 - A dungeon **turn**** lasts approximately 10 minutes.
 - Each character in the party can perform one **action** during a **turn**. 
 - Actions are extended activities like searching for traps or treasure,  forcing open a stuck door, listening for danger or information, disarming traps, etc.
-- Some activities may take longer, especially if the room is large or the task at hand especially difficult. The duration for these tasks are counted in turns, i.e. "that will take two turns to complete".
+- Some activities take longer than one **turn**, if the room is very large, or the task especially difficult. 
 - In general, PCs may be required to take **Fatigue** or spend a **resource** in order to complete a task quickly, or safely.
 - A dungeon room is typically **small**, **medium** or **large**. 
-- Although the term "dungeon" is used here, it can be exchanged for any enclosed space (mansions, farmhouses, etc).
-- The goal of these rules is twofold: to keep the sense of danger ever-present, and to maintain a consistent sense of time and resources used.
 
 ## Exploration Sequence
 1. The **Warden** describes the room.
