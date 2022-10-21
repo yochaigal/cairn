@@ -22,7 +22,7 @@ search_exclude: true
 - Some activities take longer than one **turn**, if the room is very **large**, or the task especially difficult. 
 
 ## Dungeon Exploration Sequence
-1. The **Warden** describes the room or location.
+1. The characters enter a new location. The **Warden** describes it, then rolls on the [**Dungeon Events**](#dungeon-events) table.
 2. Each character declares their intended action (e.g. moving, searching, listening, entering or exiting rooms, engaging an enemy in combat).
 3. The **Warden** resolves each character's actions.
 4. After six consecutive **turns** (or 1 hour), the **Warden** rolls on the [**Dungeon Events**](#dungeon-events) table.
