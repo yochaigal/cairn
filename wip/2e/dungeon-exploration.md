@@ -15,11 +15,11 @@ search_exclude: true
 - The goal of these rules is twofold: to keep the sense of danger ever-present, and to maintain a consistent sense of time and resources used. 
 
 ## The Basics
-- A dungeon **turn** lasts approximately 10 minutes. 
+- A **dungeon turn** lasts approximately 10 minutes. 
 - Each character in the party can perform one **action** during a **turn**. 
 - Actions are extended activities like searching for traps or treasure, forcing open a door, listening for danger, disarming traps, engaging an enemy in combat, etc.
 - A dungeon room is typically **small**, **medium** or **large**. 
-- Some activities take longer than one **turn**, if the room is very **large**, or the task especially difficult. 
+- Some activities take longer than one **dungeon turn**, if the room is very **large**, or the task especially difficult. 
 
 ## Dungeon Exploration Sequence
 1. The characters enter a new location. The **Warden** describes the environment and any obvious dangers.
@@ -45,12 +45,17 @@ search_exclude: true
 
 ## Light
 - Torches and other radial sources of light illuminate 40’ of dungeon, but beyond provide only a dim outlines of objects.
-- A torch lasts about 6 **turns** (or one hour) before it burns out. Lanterns and other light sources may differ.
-- Characters without a light source suffer from **panic*** until their situation is remedied. Their HP is 0 as they cannot defend themselves. 
+- A torch lasts about 6 **dungeon turns** (or one hour) before it burns out. Lanterns and other light sources may differ.
+- Characters without a light source suffer from **panic*** until their situation is remedied. 
 
 ## Surprise
 - Characters are assumed to be moving through areas in such a way that they avoid being **surprised**.  
-- **Panicked** characters are _always_ **surprised**, and cannot enter combat - they only avoid danger through **Saves**.
+
+## Panic
+- A character that is surrounded by enemies, enveloped by darkness or facing their greatest fears alone may experience **panic**.
+- **Panicked** characters are _always_ **surprised**, and has 0 HP, and their attacks are _impaired_. 
+- A **WIL** save is required to overcome **panic** before taking any action. This can only happen once every **dungeon turn** while the effect lasts.
+- A **panicked** character automatically fails **WIL** and **DEX** saves.
 
 ## Traps 
 - **Traps** are detected (and generally avoided) by carefully **Searching** a room. Only the character taking the **Searching** a room avoids triggering a trap. 
@@ -69,10 +74,11 @@ search_exclude: true
 - Obvious information about a room should always be offered freely and at no cost, regardless of the room's size.
 
 ## Rest
-- **Resting** takes one **turn**, and relieves _deprivation_ and any other minor conditions.
+- **Resting** takes one **dungeon turn**, and relieves _deprivation_ and _panic_.
+- A light source and a safe location are required to **rest**.
 
 ## Search
-- A character can spend a **turn** performing a an _exhaustive search_ that reveals any hidden treasure, traps, doors, or information they could possibly uncover. 
+- A character can spend a **dungeon turn** performing a an _exhaustive search_ that reveals any hidden treasure, traps, doors, or information they could possibly uncover. 
 - Secret doors and hidden treasure are _always_ uncovered by a **search**, unless otherwise noted.
 
 ## Listen
