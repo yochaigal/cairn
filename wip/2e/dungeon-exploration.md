@@ -44,7 +44,7 @@ search_exclude: true
 
 ## Light
 - Torches and other radial sources of light illuminate 40’ of dungeon, but beyond provide only a dim outlines of objects.
-- A torch lasts about 6 **dungeon turns** (or one hour) before it burns out. Lanterns and other light sources may differ.
+- A torch burns about 6 **dungeon turns** before it fizzles out. Lanterns and other light sources may differ.
 - Characters without a light source suffer from _panic_ until their situation is remedied. 
 
 ## Panic
