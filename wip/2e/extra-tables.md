@@ -96,6 +96,7 @@ The Warden can roll on the [Cardinal Directions](#cardinal-directions) table to 
 |  **7**  |      E         |   
 |  **8**  |     NE         |   
 
+<<<<<<< Updated upstream
 
 ## Unused Tables
 - The **Warden** rolls on the [**Terrain**](#terrain-effects) table for flavor or potential changes to the terrain.
@@ -126,3 +127,24 @@ The Warden can roll on the [Cardinal Directions](#cardinal-directions) table to 
 | **6**  | **Mountains**  |          |           |              |
 | **7**  |  **Deserts**   |          |           |              |
 | **8**  | **Wastelands** |          |           |              |
+=======
+## Mishaps
+### Supply 
+- Fishing accident, sick quarry, hunting injury, poisonous food
+
+### Make Camp
+- Spoiled water, rotten food, campfire issues, insects, wild animals
+
+### Travel
+- Quicksand, blocked terrain, injuries, landslide, rain, broken resources (boots?), boat required
+
+## Other potential rules
+- Hirelings (expanded)
+- Strongholds
+- War
+- Building/Crafting
+- Monsters by terrain
+- Ruins
+- Caves
+- 
+>>>>>>> Stashed changes
