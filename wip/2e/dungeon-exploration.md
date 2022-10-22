@@ -37,9 +37,9 @@ search_exclude: true
 |       |                 |                                                              |
 | :---: | :-------------: | :----------------------------------------------------------: |
 | **1** |    **Quiet**     | The party is left alone for the time being. |
-| **2** | **Expiration**  |  An ongoing effect ends (torches, magic, etc). Rations or other resources are used up.  |
-| **3** | **Environment** | The party's surroundings shift or escalate in some way. Water rising, ceiling collapsing, a ritual nearing completion, etc. |
-| **4** | **Exhaustion**  | The PCs must rest soon or are forced to take a **Fatigue** or become _deprived_. |
+| **2** | **Environment** | The party's surroundings shift or escalate in some way. Water rising, ceiling collapsing, a ritual nearing completion, etc. |
+| **3** | **Expiration**  |  An ongoing effect ends: torches go out, spells fizzle, rations are used up, etc.  |
+| **4** | **Exhaustion**  | The PCs must rest soon, otherwise **Fatigue** or _deprivation_ may set in. |
 | **5** |  **Sign**  | Clue, “spoor”, track, abandoned lair, scent, victim, droppings, etc. |
 | **6** |  **Encounter**  | Roll on an encounter table. Possibly **hostile** (see NPC [reactions](/cairn-srd/#reactions)) |
 
@@ -78,8 +78,7 @@ search_exclude: true
 - A light source and *safe location* are required to **rest**. Present or oncoming danger make **rest** impossible.
 
 ## Search
-- A character can spend a **turn** performing a an _exhaustive search_ that reveals any hidden treasure, traps, doors, or information they could possibly uncover. They do not **interact** with their discoveries in that **turn**, however.
-- Secret doors and hidden treasure are _always_ uncovered by a **search**, unless otherwise noted.
+- A character spends performs an _exhaustive_ search that reveals any hidden treasure, traps, secret doors, etc about _one_ area of the room. 
 - Rooms larger than **small** may take _more than one **turn**_ to search properly. 
 
 ## Listen
