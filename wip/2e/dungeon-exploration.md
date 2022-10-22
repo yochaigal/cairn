@@ -70,6 +70,7 @@ search_exclude: true
 - One or more characters carefully move to another room, or down a long corridor or tunnel. 
 - Rushing through a dangerous area can be perilious, and actions like **Searching** and **Resting** are not possible.
 - Characters are assumed to be moving through areas in such a way that they avoid being **surprised**.  
+- Characters can quickly move to any accessible location their torchlight touches (around 40ft).
 
 ### Interact
 - A character directly engages with a single object or creature in an area. They are not reckless, but nor are they _slow_.
@@ -161,7 +162,7 @@ The **Warden** describes the room as "_A courtyard. Moonlight drifts through the
 
 **Warden**: _"As you do, you hear one of your companions say something in the other room."_
 
-Now that all three players have taken a turn, the **Warden** rolls on the [**Dungeon Events**](#dungeon-events) table. The result is a **1**, or **Danger**. 
+Now that all three players have taken a turn, the **Warden** rolls on the [**Dungeon Events**](#dungeon-events) table. The result is a **6**, or **Encounter**. The **Warden**'s prep indicates that the _Zombies_ in the adjacent room will react to nearby noise, so... 
 
 **Warden**: _"The shuffling sound **Konstin** heard earlier behind the **East** door suddenly becomes much louder. Then, something large and powerful begins **slamming** itself into the wooden door! It creaks and groans under the assault, until finally it explodes from the top! Through the newly-created hole, **Leib** and **Konstin** can clearly make out the face of a decayed human man, his flesh flaking beneath layers of slime. He appears clearly undead, and very, very, angry."_
 
