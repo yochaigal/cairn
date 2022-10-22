@@ -105,7 +105,7 @@ The **Warden** reads the first room's description:
 
 The **Warden** describes the room as "_A courtyard; moonlight drifts through the collapsed roof from the night sky. The floor is sandy, chalk-white that sparkles in the moonlight. Rubble is piled in the center, near a statue of a woman holding a weapon, her face chipped. There is a closed wooden door on the **East** side, and an open archway into a dark tunnel to the **West**."_
 
-[**The characters then declare their intended actions**]    
+[**The characters then declare their intended actions.**]    
 **Leib**: _"I'll search the room for clues about its purpose, as well as any traps and treasure. I'll start with the odd sand, then the rubble."_ [**Search**]  
 **Konstin**: _"I'll check out the wooden doorway. What can you tell me about it."_ [**No Action**]  
 **Gar**: "_I'm going to get a better look at that statue. What can I learn without actually getting too close?"_ [**No Action**]  
@@ -116,7 +116,7 @@ The **Warden** describes the room as "_A courtyard; moonlight drifts through the
 
 **Warden**: _"Seeing no hidden danger, you proceed. I'm going to pause this moment, if that's alright."_
 
-[**The **Warden** moves to describe another character's actions, as they are happening simultaneously.**]
+[**The Warden moves to describe another character's actions, as they are happening simultaneously.**]
 
 **Warden**: _"**Konstin**, the door is locked, ancient, and partly rotted. It bears a rusted iron lock. What do you do now?"_
 
@@ -164,7 +164,7 @@ Now that all three players have taken a turn, the [**Dungeon Exploration Sequenc
 
 **Warden**: _"The shuffling sound **Konstin** heard earlier behind the **East** door suddenly becomes much louder. Then, something large and powerful begins **slamming** itself into the wooden door! It creaks and groans under the assault, until finally it explodes from the top! Through the newly-created hole, **Leib** and **Konstin** can clearly make out the face of a decayed human man, his flesh flaking beneath layers of slime. He appears clearly undead, and very, very, angry."_
 
-[**Combat ensues between the party members in the Courtyard - a _turn undead_ spellbook is used, and the player characters are quickly (and brutally) victorious. **Gar** returns from the tunnel just as the fight is ended.**]
+[**Combat ensues between the party members in the Courtyard - a _turn undead_ spellbook is used, and the player characters are quickly (and brutally) victorious. Gar returns from the tunnel just as the fight is ended.**]
 
 **Warden**: _"Great, everyone please record that you've each used your torches for one **turn**. When you've finished, tell me what you plan to do next..."_
 
