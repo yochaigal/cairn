@@ -36,11 +36,11 @@ search_exclude: true
 
 |       |                 |                                                              |
 | :---: | :-------------: | :----------------------------------------------------------: |
-| **1** |    **Quiet**     | The party is left alone for the time being. |
-| **2** | **Environment** | The party's surroundings shift or escalate in some way. Water rising, ceiling collapsing, a ritual nearing completion, etc. |
+| **1** |    **Quiet**     | The party is left alone (and safe) for the time being. |
+| **2** | **Environment** | Surroundings shift or escalate. Water rises, ceilings collapse, a ritual nears completion, etc. |
 | **3** | **Expiration**  |  An ongoing effect ends: torches go out, spells fizzle, rations are used up, etc.  |
 | **4** | **Exhaustion**  | The PCs must rest soon, otherwise **Fatigue** or _deprivation_ may set in. |
-| **5** |  **Sign**  | Clue, “spoor”, track, abandoned lair, scent, victim, droppings, etc. |
+| **5** |  **Sign**  | A clue, “spoor”, track, abandoned lair, scent, victim, droppings, etc is discovered. |
 | **6** |  **Encounter**  | Roll on an encounter table. Possibly **hostile** (see NPC [reactions](/cairn-srd/#reactions)) |
 
 
@@ -55,7 +55,10 @@ search_exclude: true
 - A _panicked_ character must make a **WIL** **save** to overcome their condition _as an action_ on their **turn**. If possible, **resting** can relieve **panic**. 
 - A _panicked_ character is _always_ **surprised** and has 0 HP. All of their attacks are _impaired_. 
 
-   
+## Doors
+- Doors and entryways may be locked, stuck, moving or blocked entirely. Characters can try to force a door open (or wedge it shut) using available resources (spikes, glue), or through raw ability (**STR** or **DEX**). 
+- The character _most at risk_ should **save** to avoid whatever danger may befall them (a trapped appendage, engraged monsters, etc). In some cases, the entire party may pay for their mistake!
+  
 ## Traps 
 - A cautious character should be presented with any and all information that would allow them the opportunity to _avoid_ springing a trap. An unwitting character will trigger a trap according to the fiction, or otherwise on a 2-in-6 chance.
 - **Traps** are always detected by carefully **searching** a room.
@@ -63,28 +66,24 @@ search_exclude: true
 
 ## Common Actions
 
-## Move
+### Move
 - One or more characters carefully move to another room, or down a long corridor or tunnel. 
 - Rushing through a dangerous area can be perilious, and actions like **Searching** and **Resting** are not possible.
 - Characters are assumed to be moving through areas in such a way that they avoid being **surprised**.  
 
-## Interact
+### Interact
 - A character directly engages with a single object or creature in an area. They are not reckless, but nor are they _slow_.
 - The **Warden** should present obvious information about the area, traps, and puzzles freely and at no cost.  
 - **Interacting** is presented as a series of decisions by the character. It may include both _uncovering_ a trap as well as disarming it.
 
-## Rest
+### Rest
 - **Resting** takes one **turn**, restores all HP, and can relieve conditions like _deprivation_ and _panic_.
 - A light source and *safe location* are required to **rest**. Present or oncoming danger make **rest** impossible.
 
-## Search
+### Search
 - A character _safely_ performs an _exhaustive_ search in _one_ area of the room that reveals any hidden treasure, traps, secret doors, etc. Larger rooms may take a few **turns** properly search. 
 - A character can focus carefully (listening, smelling, etc) to the sounds of denizens and other hazards in the dungeon, usually through nearby doors and walls. Generally they have a 1-in-6 chance of detecting subtle sounds and smells. 
 
-## Force
-- Doors and entryways may be locked, stuck, moving or blocked entirely. Characters can try to force a door open (or wedge it shut) using available resources (spikes, glue), or through raw ability (**STR** or **DEX**). 
-- The character _most at risk_ should **save** to avoid whatever danger may befall them (a trapped appendage, engraged monsters, etc). In some cases, the entire party may pay for their mistake!
-  
 ## Example
 A party of 3 player characters (**Leib**, **Konstin**, and **Gar**) have entered the first level of the forest ruins of **Ein Eyton**, once the home of the death-cult **Lunheuzo**. Each character has a torch, but only **Leib** has one lit. There are no light sources here beyond the Moon in the night sky.  
 The **Warden** reads the first room's description:  
