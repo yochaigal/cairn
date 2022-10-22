@@ -98,7 +98,7 @@ The **Warden** reads the first room's description:
 
 &rarr; **Floor**:  A cursory investigation will reveal that the "sand" is actually pulverized bones.  
 &rarr; **Rubble**: Pieces of very humanoid statues; very realistic. A red jewel glints wthin a tight stone fist.  
-&rarr; **Fountain**: The cult's Death Goddess, marred by time. One eye socket is empty, in the other is a red jewel.    
+&rarr; **Statue**: The cult's Death Goddess, marred by time. One eye socket is empty, in the other is a red jewel.    
 &rarr; **Removing the eye**: The statue comes to life with ferocity, slicing the bident in a 10ft arc around it. Contact with the bident turns the victim to stone.  
 &rarr; **East Exit**: to **Storeroom**. Wooden (rotted), locked (rusted, iron).   
 &rarr; **West Exit**: to **Offering Hall**. Stone archway, open tunnel.  
@@ -144,7 +144,9 @@ The **Warden** describes the room as "_A courtyard; moonlight drifts through the
 
 **Konstin**: _"That works. I light my torch and hold it aloft so that I can see through."_
 
-**Warden**: _"**Konstin**, Through the cracks, you can see a gray cement floor. Something gleams on the ground, flickering in the torchlight. It is shaped like a large, wet footprint!. I let the others know."_
+**Warden**: _"**Konstin**, Through the cracks, you can see a gray cement floor. Something gleams on the ground, flickering in the torchlight. It is shaped like a large, wet footprint!. 
+
+**Konstin**: _"Eek! I let the others know."_
 
 **Warden**: _"**Konstin**: You move to notify the others of your discovery, but notice that **Gar** has just left the room, his torchlight flickering down the **Western** corridor. You meet up with **Leib** just as he digs up the stone fist. You tell him what you've discovered, and point out **Gar's** absence."_
 
