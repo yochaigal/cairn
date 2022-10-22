@@ -15,17 +15,18 @@ search_exclude: true
 - The goal of these rules is twofold: to keep the sense of danger ever-present, and to maintain a consistent sense of time and resources used. 
 
 ## The Basics
-- A character can perform one **action** during a **dungeon turn**. 
+- A character can perform one **action** during a dungeon **turn**. 
 - Actions are any extended activities, such as _searching for traps or treasure_, _forcing open a door_, _listening for danger_, _disarming a trap_, _engaging an enemy in combat_, etc.
 - A dungeon room is typically **small**, **medium** or **large**. 
-- Some activities take longer than one **dungeon turn**, if the room is very **large**, or the task especially difficult.
+- Some activities take longer than one **turn**, if the room is very **large**, or the task especially difficult.
 - Loud or noticeable actions may trigger a **danger** or **encounter**, regardless of the results of the [**Dungeon Events**](#dungeon-events) table.
+- Asking questions is _always_ a _free_ **Action**. 
 
 ## Dungeon Exploration Sequence
 1. The characters enter a new location. The **Warden** describes the environment and any obvious dangers.
 2. Any immediate consequences are dealt with (combat, traps, surprises).
 3. The character declare their next intended action (e.g. moving, searching, listening, entering or exiting rooms, engaging an enemy in combat). 
-4. The **Warden** resolves each character's action simultaneously, referring to [**Common Actions**](#common-actions) where appropriate. If an action takes more than a single **dungeon turn**, the **Warden** describes its progress. 
+4. The **Warden** resolves each character's action simultaneously, referring to [**Common Actions**](#common-actions) where appropriate. If an action takes more than a single **turn**, the **Warden** describes its progress. 
 5. The **Warden** rolls on the [**Dungeon Events**](#dungeon-events) table, and describes the results.
 6. The characters react appropriately, using **turns** to describe their actions. 
 7. The players and the **Warden** record any relevant loss of resources, as well as relevant effects (i.e. torch use, _deprivation_, etc). 
@@ -44,14 +45,13 @@ search_exclude: true
 
 ## Light
 - Torches and other radial sources of light illuminate 40’ of dungeon, but beyond provide only a dim outlines of objects.
-- A torch burns about 6 **dungeon turns** before it fizzles out. Lanterns and other light sources may differ.
+- A torch burns about 6 **turns** before it fizzles out. Lanterns and other light sources may differ.
 - Characters without a light source suffer from _panic_ until their situation is remedied. 
 
 ## Panic
 - A character that is surrounded by enemies, enveloped by darkness, or facing a great fear may experience _panic_.
-- A **WIL** **save** is required to avoid becoming _panicked_, after which they may attempt once per **dungeon turn**. 
+- A **WIL** **save** is required to avoid becoming _panicked_, after which a _panicked_ character may attempt to overcome the condition once per **turn**. 
 - A _panicked_ character is _always_ **surprised** and has 0 HP. All of their attacks are _impaired_. 
-- A _panicked_ character automatically fails **WIL** and **DEX** saves. 
    
 ## Traps 
 - **Traps** are detected (and generally avoided) by carefully **searching** a room. Only the character **searching** a room avoids triggering a trap. 
@@ -66,16 +66,18 @@ search_exclude: true
 - Characters are assumed to be moving through areas in such a way that they avoid being **surprised**.  
 
 ## Interact
-- A character engages with a creature or element in the room. 
+- A character engages with a single object or creature in an area. 
 - The **Warden** should present obvious information about the area, traps, and puzzles freely and at no cost.  
+- **Interacting** is presented as a series of decisions by the character. It may include both _uncovering_ a trap as well as disarming it. 
 
 ## Rest
-- **Resting** takes one **dungeon turn**, and relieves _deprivation_ and _panic_.
+- **Resting** takes one **turn**, restores all HP, and can relieve conditions like _deprivation_ and _panic_.
 - A light source and a safe location are required to **rest**.
 
 ## Search
-- A character can spend a **dungeon turn** performing a an _exhaustive search_ that reveals any hidden treasure, traps, doors, or information they could possibly uncover. 
+- A character can spend a **turn** performing a an _exhaustive search_ that reveals any hidden treasure, traps, doors, or information they could possibly uncover. They do not **interact** with their discoveries in that **turn**, however.
 - Secret doors and hidden treasure are _always_ uncovered by a **search**, unless otherwise noted.
+- Rooms larger than **small** may take _more than one **turn**_ to search properly. 
 
 ## Listen
 - A character can listen to the sounds of denizens and other hazards through nearby doors and walls. Generally they have a 1-in-6 chance of detecting subtle sounds. 
@@ -83,7 +85,7 @@ search_exclude: true
 
 ## Force
 - Doors and entryways may be locked, stuck, moving or blocked entirely. Characters can try to force a door open (or wedge it shut) using available resources (spikes, glue), or through raw ability (**STR** or **DEX**). 
-- The character _most at risk_ should **save** to avoid whatever danger may befall them (a trapped appendage, engraged monsters, etc).
+- The character _most at risk_ should **save** to avoid whatever danger may befall them (a trapped appendage, engraged monsters, etc). In some cases, the entire party may pay for their mistake!
   
 ## Example
 A party of 3 player characters (**Leib**, **Konstin**, and **Gar**) have entered the first level of the forest ruins of **Ein Eyton**, once the home of the death-cult **Lunheuzo**. Each character has a torch, but only **Leib** has one lit. There are no light sources here beyond the Moon in the night sky.  
@@ -99,65 +101,70 @@ The **Warden** reads the first room's description:
 &rarr; **East Exit**: to **Storeroom**. Wooden (rotted), locked (rusted, iron).   
 &rarr; **West Exit**: to **Offering Hall**. Stone archway, open tunnel.  
 
-The **Warden** describes the room as "*A courtyard; moonlight drifts through the collapsed roof from the night sky. The floor is sandy, chalk-white that sparkles in the moonlight. Rubble is piled in the center, near a statue of a woman holding a weapon, her face chipped. There is a closed wooden door on the **East** side, and an open archway into a dark tunnel to the **West**.*"
+The **Warden** describes the room as "_A courtyard; moonlight drifts through the collapsed roof from the night sky. The floor is sandy, chalk-white that sparkles in the moonlight. Rubble is piled in the center, near a statue of a woman holding a weapon, her face chipped. There is a closed wooden door on the **East** side, and an open archway into a dark tunnel to the **West**."_
 
 The character then declare their intended actions:    
-**Leib**: *"I'll search the room for clues about its purpose, as well as any traps and treasure. I'll start with the odd sand, then the rubble."* [**Search**]  
-**Konstin**: *"I'll check out the wooden doorway. What can you tell me about it?"* [**No Action**]  
-**Gar**: "*I'm going to get a better look at that statue. What can I learn without actually getting too close?"* [**No Action**]  
+**Leib**: _"I'll search the room for clues about its purpose, as well as any traps and treasure. I'll start with the odd sand, then the rubble."_ [**Search**]  
+**Konstin**: _"I'll check out the wooden doorway. What can you tell me about it."_ [**No Action**]  
+**Gar**: "_I'm going to get a better look at that statue. What can I learn without actually getting too close."_ [**No Action**]  
 
-**Warden**: *"Alright. *"**Leib**, the white sand is quite odd; clearly not from any beach 'round these parts. It is bleached white in color, and kicking your foot at a small lump in the ground reveals a half-decayed human skull. You realize the sand is actually **bone**!" Meanwhile, the rubble looks extremely heavy, and difficult to move. Holding your torch high, you see something red and shiny glinting in the cracks of the pile. What do you do?"*
+**Warden**: _"Alright. "**Leib**, the white sand is quite odd; clearly not from any beach 'round these parts. It is bleached white in color, and kicking your foot at a small lump in the ground reveals a half-decayed human skull. You realize the sand is actually **bone**!" Meanwhile, the rubble looks extremely heavy, and difficult to move. Holding your torch high, you see something red and shiny glinting in the cracks of the pile. What do you do?"_
 
-**Leib**: *"I dig it out, of course! But carefully."*
+**Leib**: _"I dig it out, of course! But carefully."_
 
-**Warden**: *"Seeing no hidden danger, you proceed. I'm going to pause this moment, if that's alright."*
+**Warden**: _"Seeing no hidden danger, you proceed. I'm going to pause this moment, if that's alright."_
 
-[The **Warden** stops here to describe the results of the other character's actions, as they are happening _simultaneously_.]
+[The **Warden** moves to describe another character's actions, as they are happening simultaneously.]
 
-**Warden**: *"**Konstin**, the door is locked, ancient, and partly rotted. It bears a rusted iron lock. What do you do now?"*
+**Warden**: _"**Konstin**, the door is locked, ancient, and partly rotted. It bears a rusted iron lock. What do you do now?"_
 
-**Konstin**: *"Seeing that I have no lockpick, I think I'll put my ear to the door to see what's on the other side."* [**Listen**]
+**Konstin**: _"Seeing that I have no lockpick, I think I'll put my ear to the door to see what's on the other side."_ [**Listen**]
 
-**Warden**: *"OK, that uses up your **dungeon turn**, though. You place an ear on the door, but hear only a faint rustling on the other side. It could be the wind.*"
+**Warden**: _"OK, that will up your **turn**, though. Let's wait a moment and see what **Gar** is doing."_
 
-**Konstin**: *"How busted is the keyhole? Could I see through it? What about the door itself? You said it was rotted.*"
+**Gar**: _"I light my torch and get a closer look at the statue."_
 
-**Warden**: *"The keyhole is intact, and too dark to look through. You could shine a light through it, or you could use one of the gaps in the door."
+**Warden**: _"The statue's face is chipped away; one of its eyes is missing entirely. The other however is embedded with a beautiful red jewel."_
 
-**Konstin**: *"That works. I light my torch and hold it aloft so that I can see through."*
+**Gar**: _"That's just creepy! I want no part in this, not until we learn more about what this room was for. I'm going to circle back and explore the open archway into the tunnel."_ [**Move**].
 
-**Warden**: *"Through the cracks, you can see a gray cement floor. Something gleams on the ground, flickering in the torchlight. It is shaped like a large, wet footprint! Let's hold on a moment however, and see what **Gar** is doing."*
+**Warden**: _"Alright, I'm going to narrate the results of all your collective actions now, starting with **Leib**."_
 
-**Gar**: *"I light my torch and get a closer look at the statue."*
+**Warden**: _"**Leib**: You pull a broken stone fist from the rubble. Inside glints the red jewel you spied earlier. The fingers are wrapped around it quite tightly; you'll need to work hard to get it loose! Meanwhile, you're fairly confident that there are no floor traps hidden beneath the sand, and let your comrades know."_
 
-**Warden**: *"The statue's face is chipped away; one of its eyes is missing entirely. The other however is embedded with a beautiful red jewel."*
+**Leib**: _"I'm going to stash this thing in my pack* - ['**Out of game: one slot, yeah?**'] - _for later investigation."_
 
-**Gar**: *"That's just creepy! I want no part in this, not until we learn more about what this room was for. I'm going to circle back and explore the open archway into the tunnel."* [**Move**].
+**Warden**: _"**Konstin**, you place an ear on the door, but hear only a faint rustling on the other side. It could be the wind._"
 
-**Warden**: "*The tunnel bends **South** and out of view. The walls are crumbling here, but you can't see much more. Do you continue?"*
+**Konstin**: _"How busted is the keyhole? Could I see through it? What about the door itself? You said it was rotted._"
 
-**Gar**: *"Yes"*. 
+**Warden**: _"The keyhole is intact, and too dark to look through. You could shine a light through it, or you could use one of the gaps in the door."_
 
-**Warden**: *"OK, standby a sec **Gar**. **Leib**: You pull a broken stone fist from the rubble. Inside glints the red jewel you spied earlier. The fingers are wrapped around it quite tightly; you'll need to work hard to get it loose! Meanwhile, you're fairly confident that there are no floor traps hidden beneath the sand, and let your comrades know."*
+**Konstin**: _"That works. I light my torch and hold it aloft so that I can see through."_
 
-**Warden**: *"**Konstin**: You move to notify the others of your discovery, but notice that **Gar** has left the room, his torchlight flickering down the **Western** corridor. You meet up with **Leib** just as he digs up the stone fist. You tell him what you've discovered, and point out **Gar's** absence."*
+**Warden**: _"**Konstin**, Through the cracks, you can see a gray cement floor. Something gleams on the ground, flickering in the torchlight. It is shaped like a large, wet footprint!. I let the others know."_
 
-**Leib**: *"I'm going to stash thing in my pack* - ['**Out of game: one slot, yeah?**'] - *let's take the easy way, shall we? **Gar**, get back here, you dummy!"* 
+**Warden**: _"**Konstin**: You move to notify the others of your discovery, but notice that **Gar** has just left the room, his torchlight flickering down the **Western** corridor. You meet up with **Leib** just as he digs up the stone fist. You tell him what you've discovered, and point out **Gar's** absence."_
 
-**Warden**: *"**Gar**, you hear your companions calling after you as you follow the tunnel bend. It ends at a closed wooden doorway. It is rotted, it iron lock rusted and coming off the hinges. It would only take a push to open..."*
+**Konstin**: _"**Gar**, get back here, you dummy!"_
 
-**Gar**: *"I think I'm going to head back, rather than enter this new area alone."*
+**Warden**: _"**Gar**, The tunnel bends **South** and out of view. The walls are crumbling here, but you can't see much more. Do you continue?"_
 
-**Warden*: *"Proceed."*
+**Gar**: _"Yes"*. 
+
+**Warden**: _"You follow the tunnel bend towards the Southwest. It ends at a closed wooden doorway. It is rotted, it iron lock rusted and coming off the hinges. It would only take a push to open."_
+
+**Gar**: _"I think I'm going to head back, rather than enter this new area alone."_
+
+**Warden**: _"As you do, you hear your companions calling for you in the other room."_
 
 Now that all three players have taken a turn, the [**Dungeon Exploration Sequence**](#dungeon-exploration-sequence) now requires the **Warden** to roll on the [**Dungeon Events**](#dungeon-events) table. The result is a **1**, or **Danger**. 
 
-**Warden**: *"The shuffling sound **Konstin** heard earlier behind the **East** door suddenly becomes much louder. Then, something large and powerful begins **slamming** itself into the wooden door! It creaks and groans under the assault, until finally it explodes from the top! Through the newly-created hole, **Leib** and **Konstin** can clearly make out the face of a decayed human man, his flesh flaking beneath layers of slime. He appears clearly undead, and very, very, angry."*
+**Warden**: _"The shuffling sound **Konstin** heard earlier behind the **East** door suddenly becomes much louder. Then, something large and powerful begins **slamming** itself into the wooden door! It creaks and groans under the assault, until finally it explodes from the top! Through the newly-created hole, **Leib** and **Konstin** can clearly make out the face of a decayed human man, his flesh flaking beneath layers of slime. He appears clearly undead, and very, very, angry."_
 
 [Combat ensues between the party members in the Courtyard - a _turn undead_ spellbook is used, and the player characters are quickly (and brutally) victorious. **Gar** returns from the tunnel just as the fight is ended.]
 
-**Warden**: *"Great, everyone please record that you've each used your torches for one **turn**. When you've finished, tell me which way you plan on going next...."*
-
+**Warden**: _"Great, everyone please record that you've each used your torches for one **turn**. When you've finished, tell me which way you plan on going next..."_
 
 ## Credits
 
