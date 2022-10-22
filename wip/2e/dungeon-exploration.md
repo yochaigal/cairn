@@ -24,20 +24,22 @@ search_exclude: true
 ## Dungeon Exploration Sequence
 1. The characters enter a new location. The **Warden** describes the environment and any obvious dangers.
 2. Any immediate consequences are dealt with (combat, traps, surprises).
-3. Character declare their next intended action (e.g. moving, searching, listening, entering or exiting rooms, engaging an enemy in combat). 
+3. The character declare their next intended action (e.g. moving, searching, listening, entering or exiting rooms, engaging an enemy in combat). 
 4. The **Warden** resolves each character's action simultaneously, referring to [**Common Actions**](#common-actions) where appropriate. If an action takes more than a single **dungeon turn**, the **Warden** describes its progress. 
-5. The **Warden** rolls on the [**Dungeon Events**](#dungeon-events) table.
-6. The players and the **Warden** record any relevant loss of resources and relevant effects (i.e. torch use, _deprivation_, etc).
+5. The **Warden** rolls on the [**Dungeon Events**](#dungeon-events) table, and describes the results.
+6. The characters react appropriately, using **turns** to describe their actions. 
+7. The players and the **Warden** record any relevant loss of resources, as well as relevant effects (i.e. torch use, _deprivation_, etc). 
+8. The process then repeats, starting at **step 3**.
 
 ### Dungeon Events
 
 |       |                 |                                                              |
 | :---: | :-------------: | :----------------------------------------------------------: |
-| **1** |   **Danger**    |                 A hostile encounter ensues.                  |
+| **1** |   **Danger**    | A hostile encounter ensues.                                  |
 | **2** |  **Encounter**  | Roll on an encounter table. Not necessarily hostile (see NPC [reactions](/cairn-srd/#reactions)) |
 | **3** |    **Sign**     | Clue, “spoor”, track, abandoned lair, scent, victim, droppings, etc. |
 | **4** | **Environment** | The party's surroundings shift or escalate in some way. Water rising, ceiling collapsing, a ritual nearing completion, etc. |
-| **5** | **Exhaustion**  | The PCs may need to rest soon or are forced to take a **Fatigue** or become _deprived_. |
+| **5** | **Exhaustion**  | The PCs must rest soon or are forced to take a **Fatigue** or become _deprived_. |
 | **6** | **Expiration**  | An ongoing effect ends (torches, magic, etc). Rations or other resources are used up. |
 
 ## Light
@@ -65,7 +67,7 @@ search_exclude: true
 
 ## Interact
 - A character engages with a creature or element in the room. 
-- Obvious information about a room should always be offered freely and at no cost, regardless of the room's size.
+- The **Warden** should present obvious information about the area, traps, and puzzles freely and at no cost.  
 
 ## Rest
 - **Resting** takes one **dungeon turn**, and relieves _deprivation_ and _panic_.
@@ -83,8 +85,83 @@ search_exclude: true
 - Doors and entryways may be locked, stuck, moving or blocked entirely. Characters can try to force a door open (or wedge it shut) using available resources (spikes, glue), or through raw ability (**STR** or **DEX**). 
 - The character _most at risk_ should **save** to avoid whatever danger may befall them (a trapped appendage, engraged monsters, etc).
   
+## Example
+A party of 3 player characters (**Leib**, **Konstin**, and **Gar**) have entered the first level of the forest ruins of **Ein Eyton**, once the home of the death-cult **Lunheuzo**. Each character has a torch, but only **Leib** has one lit. There are no light sources here beyond the Moon in the night sky.  
+The **Warden** reads the first room's description:  
+
+### The Courtyard
+**Collapsed roof** (light from above streaming through). **Sandy floor** (chalky, glittery, lumpy). **Rubble** (mishapen, granite) is strewn about in a pile near the center. **Humanoid statue** (marble, full-sized, holding a bident) in the exact center.
+
+&rarr; **Floor**:  A cursory investigation will reveal that the "sand" is actually pulverized bones.  
+&rarr; **Rubble**: Pieces of very humanoid statues; very realistic. A red jewel glints wthin a tight stone fist.  
+&rarr; **Fountain**: The cult's Death Goddess, marred by time. One eye socket is empty, in the other is a red jewel.    
+&rarr; **Removing the eye**: The statue comes to life with ferocity, slicing the bident in a 10ft arc around it. Contact with the bident turns the victim to stone.  
+&rarr; **East Exit**: to **Storeroom**. Wooden (rotted), locked keyway (rusted, iron).   
+&rarr; **West Exit**: to **Offering Hall**. Stone archway, open tunnel.  
+
+The **Warden** describes the room as "*A courtyard; moonlight drifts through the collapsed roof from the night sky. The floor is sandy, chalk-white that sparkles in the moonlight. Rubble is piled in the center, near a statue of a woman holding a weapon, her face chipped. There is a closed wooden door on the **East** side, and an open archway into a dark tunnel to the **West**.*"
+
+The character then declare their intended actions:    
+**Leib**: *"I'll search the room for clues about its purpose, as well as any traps and treasure. I'll start with the odd sand, then the rubble."* [**Search**]  
+**Konstin**: *"I'll check out the wooden doorway. What can you tell me about it?"* [**No Action**]  
+**Gar**: "*I'm going to get a better look at that statue. What can I learn without actually getting too close?"* [**No Action**]  
+
+**Warden**: *"Alright. *"**Leib**, the white sand is quite odd; clearly not from any beach 'round these parts. It is bleached white in color, and kicking your foot at a small lump in the ground reveals a half-decayed human skull. You realize the sand is actually **bone**!" Meanwhile, the rubble looks extremely heavy, and difficult to move. Holding your torch high, you see something red and shiny glinting in the cracks of the pile. What do you do?"
+
+**Leib**: *"I dig it out, of course! But carefully."*
+
+**Warden**: *"Seeing no hidden danger, you proceed. I'm going to pause this moment, if that's alright."*
+
+[The **Warden** stops here to describe the results of the other character's actions, as they are happening _simultaneously_.]
+
+**Warden**: *"**Konstin**, the door is locked, ancient, and partly rotted. It bears a rusted iron lock. What do you do now?"*
+
+**Konstin**: *"Seeing that I have no lockpick, I think I'll put my ear to the door to see what's on the other side. [**Listen**]
+
+**Warden**: *"OK, that uses up your **dungeon turn**, though. You place an ear on the door, but hear only a faint rustling on the other side. It could be the wind.*"
+
+**Konstin**: *"How busted is the keyhole? Could I see through it? What about the door itself? You said it was rotted.*"
+
+**Warden**: *"The keyhole is intact, and too dark to look through. You could shine a line through it, or you could use one of the gaps in the door with your light as well."
+
+**Konstin**: *"That works. I light my torch and hold it aloft so that I can see through."*
+
+**Warden**: *"Through the cracks, you can see a gray cement floor. Something gleams on the ground, flickering in the torchlight. It is shaped like a large, wet footprint! Let's hold on a moment however, and see what **Gar** is doing."*
+
+**Gar**: *"I light my torch and get a closer look at the statue."*
+
+**Warden**: *"The statue's face is chipped away; one of its eyes is missing entirely. The other however is embedded with a beautiful red jewel."*
+
+**Gar**: *"That's just creepy! I want no part in this, not until we learn more about what this room was for. I'm going to circle back and explore the open archway into the tunnel."* [**Move**].
+
+**Warden**: "*The tunnel bends **South** and out of view. The walls are crumbling here, but you can't see much more. Do you continue?"*
+
+**Gar**: *"Yes"*. 
+
+**Warden**: *"OK, standby a sec **Gar**. **Leib**: You pull a broken stone fist from the rubble. Inside glints the red jewel you spied earlier. The fingers are wrapped around it quite tightly; you'll need to work hard to get it loose! Meanwhile, you're fairly confident that there are no floor traps hidden beneath the sand, and let your comrades know."*
+
+**Warden**: *"**Konstin**: You move to notify the others of your discovery, but notice that **Gar** has left the room, his torchlight flickering down the **Western** corridor. You meet up with **Leib** just as he digs up the stone fist. You tell him what you've discovered, and point out **Gar's** absence."*
+
+**Leib**: *"I'm going to stash thing in my pack* - ['**Out of game: one slot, yeah?**'] - *let's take the easy way, shall we? **Gar**, get back here, you dummy!"* 
+
+**Warden**: *"**Gar**, you hear your companions calling after you as you follow the tunnel bend. It ends at a closed wooden doorway. It is rotted, it iron lock rusted and coming off the hinges. It would only take a push to open..."*
+
+**Gar**: *"I think I'm going to head back, rather than enter this new area alone."*
+
+**Warden*: *"Not a problem."*
+
+Now that all three players have taken a turn, the [**Dungeon Exploration Sequence**](#dungeon-exploration-sequence) now requires the **Warden** to roll on the [**Dungeon Events**](#dungeon-events) table. The result is a **1**, or **Danger**. 
+
+**Warden**: *"The shuffling sound **Konstin** heard earlier behind the **East** door suddenly becomes much louder. Then, something large and powerful begins **slamming** itself into the wooden door! It creaks and groans under the assault, until finally it explodes from the top! Through the newly-created hole, **Leib** and **Konstin** can clearly make out the face of a decayed human man, his flesh flaking beneath layers of slime. He appears clearly undead, and very, very, angry."*
+
+[Combat ensues between the party members in the Courtyard - a _turn undead_ spellbook is used, and the player characters are quickly (and brutally) victorious. **Gar** returns from the tunnel just as the fight is ended.]
+
+**Warden**: *"Great, everyone please record that you've each used your torches for one **turn**. When you've finished, tell me which way you plan on going next...."*
+
+
 ## Credits
 
 - [The Cairn Adventurer’s Guide](https://adamhensley.itch.io/cairn-adventurers-guide) by Adam Hensley
 - [Dungeon Adventuring](https://oldschoolessentials.necroticgnome.com/srd/index.php/Dungeon_Adventuring)
 - [The Necropraxis Hazard System](https://www.necropraxis.com/2017/11/22/hazard-system-v0-3/)
+- [The Black Hacke 2e](https://www.drivethrurpg.com/product/255088/The-Black-Hack-Second-Edition)
