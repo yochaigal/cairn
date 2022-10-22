@@ -11,27 +11,23 @@ search_exclude: true
 
 ## The Basics
 - The day is divided into 3 **turns** of 8 hours each: _dawn_, _midday_, and _dusk_.
-- Characters can choose _one_ [**Wilderness Action**](#wilderness-actions) per **turn**. 
-- Some **turns** are performed by the entire party (typically **Travel** and **Make Camp**), but occasionally characters may act independently (see **Supply** and **Explore**).
-- A typical region will have a set number of _known_ locations, called **points**. 
-- One or more **turns** may be required to journey between two **points** on a map, depending on the party's **travel speed**.
-- A party walking on roads or settled terrain can usually travel between two nearby **points** in a single **turn**. 
-- Mounts, guides, and maps can increase the party's travel speed or overcome a terrain's [**Difficulty**](#difficulty). 
+- Characters can choose _one_ [**Wilderness Action**](#wilderness-actions) per **turn** (together or as individuals).
+- Regions have a set number of _known_ locations, called **points**. One or more **turns** may be required to journey between two **points** on a map, depending on the travel **Difficulty**.
+- A party walking on roads or settled terrain can usually travel between two nearby **points** in a single **turn**.
 
 ### Hex Maps
 - If using hexes, assume that the **Travel** action moves the party to an adjacent tile in one **turn** at _Normal_ **travel speed**, and that if they get lost they end up in an adjacent hex.
 
 ## Wilderness Exploration Sequence
 1. Each day, the **Warden** rolls on the [**Weather**](#weather) table for the appropriate season.
-2. Before each **turn** begins, the party plots or adjusts a given course towards their destination based on available information.
-3. The **Warden** explains how the current [**Difficulty**](#difficulty) affects the party's **travel speed**, what obstacles the party may face, and the odds of [**Getting Lost**](#getting-lost). The party adjusts their plans accordingly.
-4. The party chooses a single **Wilderness Action**, and the **Warden** narrates the results. 
-5. Repeat the process for the other two **turns**. The last **turn** of the day is typically reserved for the [**Make Camp**](#make-camp) action (see [**Sleep**](#sleep) below).
+2. The **Warden** explains how the current [**Difficulty**](#difficulty) affects the party's **travel speed**.
+3. The party plots or adjusts a given course towards their destination, each choosing a single **Wilderness Action**
+4. The **Warden** narrates the results, then the process is repeated from **1**. 
 
 ### Sleep
+- The last **turn** of the day is typically reserved for the [**Make Camp**](#make-camp) action.
 - Characters typically need to sleep each day. Anything beyond a minor interruption can negate or cancel the benefits of sleep.
 - If the party skips the **Make Camp** action, they each add one **Fatigue** to their inventory, and are _deprived_.
-- Party members can skip sleeping _once_ before needing to rest fully again the next day.
 - The party can choose to travel during the night and rest during the day, but night travel is far slower and more treacherous!
 
 ## Difficulty
@@ -39,6 +35,9 @@ search_exclude: true
 - The party may need to spend **Fatigue**, resources, tools or other resource in order to overcome an obstacle or difficulty.
 - Mounts, guides, and maps can increase the party's travel speed or overcome a terrain's difficulty.
 - Travelling at night _always_ increases the difficulty by one step (i.e. **Easy** terrain becomes **Tough**).
+- An exhausted party can raise the difficulty of a terrain by one step (i.e. **Easy** becomes **Tough**), even during the day.
+ 
+
 
 ### Terrain Difficulty
 
