@@ -23,14 +23,14 @@ search_exclude: true
 - Asking questions is _always_ a _free_ **Action**. 
 
 ## Dungeon Exploration Sequence
-1. The characters enter a new location. The **Warden** describes the environment and any obvious dangers.
+1. The characters enter a new location or have just completed a series of **turns**. The **Warden** describes the environment and any obvious dangers.
 2. Any immediate consequences are dealt with (combat, traps, surprises).
 3. The character declare their next intended action (e.g. moving, searching, listening, entering or exiting rooms, engaging an enemy in combat). 
 4. The **Warden** resolves each character's action simultaneously, referring to [**Common Actions**](#common-actions) where appropriate. If an action takes more than a single **turn**, the **Warden** describes its progress. 
 5. The **Warden** rolls on the [**Dungeon Events**](#dungeon-events) table, and describes the results.
 6. The characters react appropriately, using **turns** to describe their actions. 
 7. The players and the **Warden** record any relevant loss of resources, as well as relevant effects (i.e. torch use, _deprivation_, etc). 
-8. The process then repeats, starting at **step 3**.
+8. The process then repeats, starting at **step 1**.
 
 ### Dungeon Events
 
