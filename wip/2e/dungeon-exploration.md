@@ -96,7 +96,7 @@ The **Warden** reads the first room's description:
 &rarr; **Rubble**: Pieces of very humanoid statues; very realistic. A red jewel glints wthin a tight stone fist.  
 &rarr; **Fountain**: The cult's Death Goddess, marred by time. One eye socket is empty, in the other is a red jewel.    
 &rarr; **Removing the eye**: The statue comes to life with ferocity, slicing the bident in a 10ft arc around it. Contact with the bident turns the victim to stone.  
-&rarr; **East Exit**: to **Storeroom**. Wooden (rotted), locked keyway (rusted, iron).   
+&rarr; **East Exit**: to **Storeroom**. Wooden (rotted), locked (rusted, iron).   
 &rarr; **West Exit**: to **Offering Hall**. Stone archway, open tunnel.  
 
 The **Warden** describes the room as "*A courtyard; moonlight drifts through the collapsed roof from the night sky. The floor is sandy, chalk-white that sparkles in the moonlight. Rubble is piled in the center, near a statue of a woman holding a weapon, her face chipped. There is a closed wooden door on the **East** side, and an open archway into a dark tunnel to the **West**.*"
@@ -106,7 +106,7 @@ The character then declare their intended actions:
 **Konstin**: *"I'll check out the wooden doorway. What can you tell me about it?"* [**No Action**]  
 **Gar**: "*I'm going to get a better look at that statue. What can I learn without actually getting too close?"* [**No Action**]  
 
-**Warden**: *"Alright. *"**Leib**, the white sand is quite odd; clearly not from any beach 'round these parts. It is bleached white in color, and kicking your foot at a small lump in the ground reveals a half-decayed human skull. You realize the sand is actually **bone**!" Meanwhile, the rubble looks extremely heavy, and difficult to move. Holding your torch high, you see something red and shiny glinting in the cracks of the pile. What do you do?"
+**Warden**: *"Alright. *"**Leib**, the white sand is quite odd; clearly not from any beach 'round these parts. It is bleached white in color, and kicking your foot at a small lump in the ground reveals a half-decayed human skull. You realize the sand is actually **bone**!" Meanwhile, the rubble looks extremely heavy, and difficult to move. Holding your torch high, you see something red and shiny glinting in the cracks of the pile. What do you do?"*
 
 **Leib**: *"I dig it out, of course! But carefully."*
 
@@ -148,7 +148,7 @@ The character then declare their intended actions:
 
 **Gar**: *"I think I'm going to head back, rather than enter this new area alone."*
 
-**Warden*: *"Not a problem."*
+**Warden*: *"Proceed."*
 
 Now that all three players have taken a turn, the [**Dungeon Exploration Sequence**](#dungeon-exploration-sequence) now requires the **Warden** to roll on the [**Dungeon Events**](#dungeon-events) table. The result is a **1**, or **Danger**. 
 
