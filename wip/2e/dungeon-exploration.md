@@ -50,8 +50,10 @@ search_exclude: true
 
 ## Panic
 - A character that is surrounded by enemies, enveloped by darkness, or facing a great fear may experience _panic_.
-- A **WIL** **save** is required to avoid becoming _panicked_, after which a _panicked_ character may attempt to overcome the condition once per **turn**. 
+- A **WIL** **save** is required to avoid becoming _panicked_. Subsequent **WIL** saves may automatically _fail_.  
+- A _panicked_ character must make a **WIL** **save** to overcome their condition _as an action_ on their **turn**. If possible, **resting** can relieve **panic**. 
 - A _panicked_ character is _always_ **surprised** and has 0 HP. All of their attacks are _impaired_. 
+
    
 ## Traps 
 - **Traps** are detected (and generally avoided) by carefully **searching** a room. Only the character **searching** a room avoids triggering a trap. 
@@ -72,7 +74,7 @@ search_exclude: true
 
 ## Rest
 - **Resting** takes one **turn**, restores all HP, and can relieve conditions like _deprivation_ and _panic_.
-- A light source and a safe location are required to **rest**.
+- A light source and *safe location* are required to **rest**. Present or oncoming danger make **rest** impossible.
 
 ## Search
 - A character can spend a **turn** performing a an _exhaustive search_ that reveals any hidden treasure, traps, doors, or information they could possibly uncover. They do not **interact** with their discoveries in that **turn**, however.
