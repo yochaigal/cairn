@@ -57,8 +57,8 @@ search_exclude: true
 
    
 ## Traps 
-- **Traps** are detected (and generally avoided) by carefully **searching** a room. Only the character **searching** a room avoids triggering a trap. 
-- If a character makes an action that could trigger a trap, there is usually a 2-in-6 of it being sprung. 
+- A cautious character should be presented with any and all information that would allow them the opportunity to _avoid_ springing a trap. An unwitting character will trigger a trap according to the fiction, or otherwise on a 2-in-6 chance.
+- **Traps** are always detected by carefully **searching** a room.
 - Damage from traps is taken from ability scores (usually **STR** or **DEX**) and _not_ from HP. Armor can reduce damage, but only if applicable (e.g. a shield would not reduce damage from noxious gas).
 
 ## Common Actions
