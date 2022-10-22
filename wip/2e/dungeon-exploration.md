@@ -116,13 +116,13 @@ The character then declare their intended actions:
 
 **Warden**: *"**Konstin**, the door is locked, ancient, and partly rotted. It bears a rusted iron lock. What do you do now?"*
 
-**Konstin**: *"Seeing that I have no lockpick, I think I'll put my ear to the door to see what's on the other side. [**Listen**]
+**Konstin**: *"Seeing that I have no lockpick, I think I'll put my ear to the door to see what's on the other side."* [**Listen**]
 
 **Warden**: *"OK, that uses up your **dungeon turn**, though. You place an ear on the door, but hear only a faint rustling on the other side. It could be the wind.*"
 
 **Konstin**: *"How busted is the keyhole? Could I see through it? What about the door itself? You said it was rotted.*"
 
-**Warden**: *"The keyhole is intact, and too dark to look through. You could shine a line through it, or you could use one of the gaps in the door with your light as well."
+**Warden**: *"The keyhole is intact, and too dark to look through. You could shine a light through it, or you could use one of the gaps in the door."
 
 **Konstin**: *"That works. I light my torch and hold it aloft so that I can see through."*
 
