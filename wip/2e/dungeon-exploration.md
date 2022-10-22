@@ -50,7 +50,7 @@ search_exclude: true
 - Characters without a light source suffer from _panic_ until their situation is remedied. 
 
 ## Panic
-- A character that is surrounded by enemies, enveloped by darkness, or facing a great fear may experience _panic_.
+- A character that is surrounded by enemies, enveloped by darkness, or facing a great fear experiences _panic_.
 - A **WIL** **save** is required to avoid becoming _panicked_. Subsequent **WIL** saves may automatically _fail_.  
 - A _panicked_ character must make a **WIL** **save** to overcome their condition _as an action_ on their **turn**. If possible, **resting** can relieve **panic**. 
 - A _panicked_ character is _always_ **surprised** and has 0 HP. All of their attacks are _impaired_. 
@@ -73,9 +73,9 @@ search_exclude: true
 - Characters can quickly move to any accessible location their torchlight touches (around 40ft).
 
 ### Interact
-- A character directly engages with a single object or creature in an area. They are not reckless, but nor are they _slow_.
+- A character engages with a single object or creature in an area.
 - The **Warden** should present obvious information about the area, traps, and puzzles freely and at no cost.  
-- **Interacting** is presented as a series of decisions by the character. It may include both _uncovering_ a trap as well as disarming it.
+- **Interacting** is presented as a series of decisions by the character. That includes _uncovering_ the trap, as well as attempting to disarm it.
 
 ### Rest
 - **Resting** takes one **turn**, restores all HP, and can relieve conditions like _deprivation_ and _panic_.
