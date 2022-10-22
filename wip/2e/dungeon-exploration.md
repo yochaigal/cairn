@@ -69,21 +69,17 @@ search_exclude: true
 - Characters are assumed to be moving through areas in such a way that they avoid being **surprised**.  
 
 ## Interact
-- A character engages with a single object or creature in an area. 
+- A character directly engages with a single object or creature in an area. They are not reckless, but nor are they _slow_.
 - The **Warden** should present obvious information about the area, traps, and puzzles freely and at no cost.  
-- **Interacting** is presented as a series of decisions by the character. It may include both _uncovering_ a trap as well as disarming it. 
+- **Interacting** is presented as a series of decisions by the character. It may include both _uncovering_ a trap as well as disarming it.
 
 ## Rest
 - **Resting** takes one **turn**, restores all HP, and can relieve conditions like _deprivation_ and _panic_.
 - A light source and *safe location* are required to **rest**. Present or oncoming danger make **rest** impossible.
 
 ## Search
-- A character spends performs an _exhaustive_ search that reveals any hidden treasure, traps, secret doors, etc about _one_ area of the room. 
-- Rooms larger than **small** may take _more than one **turn**_ to search properly. 
-
-## Listen
-- A character can listen to the sounds of denizens and other hazards through nearby doors and walls. Generally they have a 1-in-6 chance of detecting subtle sounds. 
-- If a creature or dangers is particularly noisy, the **Warden** should simply inform the party through one of the other actions. 
+- A character _safely_ performs an _exhaustive_ search in _one_ area of the room that reveals any hidden treasure, traps, secret doors, etc. Larger rooms may take a few **turns** properly search. 
+- A character can focus carefully (listening, smelling, etc) to the sounds of denizens and other hazards in the dungeon, usually through nearby doors and walls. Generally they have a 1-in-6 chance of detecting subtle sounds and smells. 
 
 ## Force
 - Doors and entryways may be locked, stuck, moving or blocked entirely. Characters can try to force a door open (or wedge it shut) using available resources (spikes, glue), or through raw ability (**STR** or **DEX**). 
