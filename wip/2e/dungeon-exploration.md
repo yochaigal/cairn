@@ -53,7 +53,7 @@ search_exclude: true
 ## Dungeon Elements
 ### Light
 - Torches and other radial sources of light illuminate 40ft of dungeon, but beyond provide only a dim outlines of objects.
-- A torch lasts for 6 **Cycles** before it fizzles out. Lanterns and other light sources may differ.
+- A torch lasts for 6 **Cycles** before it fizzles out completely. Dry torches can be quickly relit if they are blown-out.
 - Characters without a light source suffer from _panic_ until their situation is remedied. 
 
 ### Doors
@@ -72,7 +72,7 @@ search_exclude: true
 | :---: | :-------------: | :----------------------------------------------------------: |
 | **1** |    **Quiet**    | The party is left alone (and safe) for the time being. |
 | **2** | **Environment** | Surroundings shift or escalate. Water rises, ceilings collapse, a ritual nears completion, etc. |
-| **3** | **Expiration**  | Torches are blown out, an ongoing spell fizzles, etc. The party must resolve the loss before moving on. |
+| **3** | **Loss**  | Torches are blown out, an ongoing spell fizzles, etc. The party must resolve the situation before moving on. |
 | **4** | **Exhaustion**  | The PCs must rest soon, otherwise **Fatigue** or _deprivation_ may set in. |
 | **5** |  **Sign**       | A clue, “spoor”, track, abandoned lair, scent, victim, droppings, etc is discovered. |
 | **6** |  **Encounter**  | Roll on an encounter table. Possibly **hostile** (see NPC [reactions](/cairn-srd/#reactions)) |

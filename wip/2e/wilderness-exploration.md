@@ -10,7 +10,7 @@ search_exclude: true
 # Wilderness Exploration
 
 ## The Basics
-- The day is divided into 3 **turns** of 8 hours each: _morning_, _midday_, and _night_.
+- The day is divided into three **turns**: _morning_, _afternoon_, and _night_.
 - Characters can choose _one_ [**Wilderness Action**](#wilderness-actions) per **turn** (together or as individuals).
 - Regions have a set number of _known_ locations, called **points**. One or more **turns** may be required to journey between two **points** on a map, depending on the travel **Difficulty**.
 - A party walking on roads or settled terrain can usually travel between two nearby **points** in a single **turn**.
@@ -58,7 +58,7 @@ search_exclude: true
 |  **Unpleasant**  | Gain one **Fatigue** _or_ add one **turn** to the journey.  | _Gusting winds, rain showers, sweltering heat, chill air_ |
 |  **Inclement**   | Gain one **Fatigue** _or_ add one **turn** to the journey. **Difficulty** increases one step. | _Thunderstorms & lightning, rain, muddy ground_      |
 |   **Extreme**    | Gain one **Fatigue** _and_ add one **turn** to the journey. Chance of getting lost increases by one step. **Difficulty** increases one step. | _Blizzards, freezing winds, flooding_            |
-| **Catastrophic** | Most parties cannot travel under these conditions.           | _Tornados, tidal waves, hurricanes_                   |
+| **Catastrophic** | Most parties cannot travel under these conditions.     | _Tornados, tidal waves, hurricane, etc._ |
 
 ## Wilderness Actions
 ### Travel
