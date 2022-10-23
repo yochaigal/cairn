@@ -10,29 +10,67 @@ search_exclude: true
 # Dungeon Exploration
 
 ## Introduction
-- Although the term "dungeon" is used here, it can be exchanged for any dangerous locale (mansions, farmhouses, adventure site, etc).
-- In general, PCs may be required to take risks, add a **Fatigue** to their inventory, or spend a **resource** in order to complete a task quickly, or safely.
-- The goal of these rules is twofold: to keep the sense of danger ever-present, and to maintain a consistent sense of time and resources used. 
-
-## The Basics
-- A character can perform one **action** during a dungeon **turn**. 
-- Actions are any extended activities, such as _searching for traps or treasure_, _forcing open a door_, _listening for danger_, _disarming a trap_, _engaging an enemy in combat_, etc.
-- A dungeon room is typically **small**, **medium** or **large**. 
-- Some activities take longer than one **turn**, if the room is very **large**, or the task especially difficult.
-- Loud or noticeable actions may trigger a **danger** or **encounter**, regardless of the results of the [**Dungeon Events**](#dungeon-events) table.
-- Asking questions is _always_ a _free_ **Action**. 
+- The goal of these rules is to keep the sense of danger ever-present, and to maintain a consistent sense of time and resource management. 
+- In general, a character may be required to take risks, add a **Fatigue** to their inventory, or spend a **resource** in order to complete a task quickly, or safely. 
+- Although the term "dungeon" is used here, it can be exchanged for any dangerous locale (mansions, farmhouses, adventure site, etc). 
 
 ## Dungeon Exploration Sequence
-1. The characters enter a new location or have just completed a series of **turns**. The **Warden** describes the environment and any obvious dangers.
+1. The **Warden** describes the environment and any obvious dangers.
 2. Any immediate consequences are dealt with (combat, traps, surprises).
-3. The character declare their next intended action (e.g. moving, searching, listening, entering or exiting rooms, engaging an enemy in combat). 
-4. The **Warden** resolves each character's action simultaneously, referring to [**Common Actions**](#common-actions) where appropriate. If an action takes more than a single **turn**, the **Warden** describes its progress. 
+3. The characters declare their intended **actions**.
+4. The **Warden** resolves each character's action simultaneously. If an action takes more than a single **turn**, the **Warden** describes its progress. 
 5. The **Warden** rolls on the [**Dungeon Events**](#dungeon-events) table, and describes the results.
-6. The characters react appropriately, using **turns** to describe their actions. 
-7. The players and the **Warden** record any relevant loss of resources, as well as relevant effects (i.e. torch use, _deprivation_, etc). 
+6. The characters react as necessary, acting in **turns**. 
+7. The players and the **Warden** record any loss of resources and new conditions (i.e. torch use, _deprivation_, etc). 
 8. The process then repeats, starting at **step 1**.
 
-### Dungeon Events
+## Actions
+- On their **turn**, a character can perform one **action** and move a distance equal to their torchlight's perimeter (about 40ft). 
+- **Actions** are non-passive activities such as _searching for traps or treasure_, _forcing open a door_, _listening for danger_, _disarming a trap_, _engaging an enemy in combat_, _casting a spell_, _rest_, etc. Some actions take multiple **turns** to complete.
+- The **Warden** should present obvious information about an area and its dangers freely and at no cost.  
+
+### Searching
+- A character can spend a **turn** performing an _exhaustive_ search of a room, revealing any hidden treasure, traps, secret doors, etc. 
+- Larger rooms and difficult or complex dungeon terrain may take a few **turns** to properly search.
+- Searching a room _first_ is a safer way to explore the dungeon, but it has a steep cost: time.
+
+### Resting
+- **Resting** takes one **turn**, restores all HP, and can relieve conditions like _deprivation_ and _panic_.
+- A light source and _safe location_ are required to **rest**. Present or oncoming danger make **rest** impossible.
+- **Resting** does not restore **Fatigue**, as it is imposisble to safely **Make Camp** in a dungeon.
+
+## Conditions
+### Panic
+- A character that is surrounded by enemies, enveloped by darkness, or facing their greatest fears may experiences _panic_. A **WIL** **save** is typically required to avoid losing control and becoming _panicked_. 
+- A _panicked_ character must make a **WIL** **save** to overcome their condition _as an action_ on their **turn**. If possible, **resting** can relieve **panic**. 
+- A _panicked_ character has 0 **HP**, is always _surprised_, and all of their attacks are _impaired_.  
+
+### Deprivation
+- A character is _deprived_ of a crucial need (such as food or water) is unable to recover **HP** or **ability scores**. 
+- A character may also become _deprived_ as a result of toxic gases, spells, or other ill-effects of the dungeon.
+- _Deprivation_ can be cured by **resting** or satisfying some requirement.  
+
+## Dungeon Elements
+### Light
+- Torches and other radial sources of light illuminate 40’ of dungeon, but beyond provide only a dim outlines of objects.
+- A torch lasts for 6 **turns** before it fizzles out. Lanterns and other light sources may differ.
+- Characters without a light source suffer from _panic_ until their situation is remedied. 
+
+### Doors
+- Doors and entryways may be locked, stuck, moving or blocked entirely. Characters can try to force a door open (or wedge it shut) using available resources (spikes, glue), or through raw ability. 
+- The character _most at risk_ should **save** to avoid whatever danger may befall them. 
+- A character can focus carefully (listening, smelling, etc) to the sounds of denizens and other hazards through nearby doors and walls. 
+
+### Traps 
+- A cautious character should be presented with any and all information that would allow them the opportunity to _avoid_ springing a trap. An unwitting character will trigger a trap according to the fiction, or otherwise have a 2-in-6 chance.
+- **Traps** can usually be detected by carefully **searching** a room.
+- Damage from traps is taken from ability scores (usually **STR** or **DEX**) and _not_ from **HP**. Armor can reduce damage, but only if applicable (e.g. a shield would not reduce damage from noxious gas).
+
+### Encounters
+- Loud or noticeable actions may trigger an **encounter** of the dungeon's denizens.
+- 
+
+## Dungeon Events
 
 |       |                 |                                                              |
 | :---: | :-------------: | :----------------------------------------------------------: |
@@ -42,48 +80,6 @@ search_exclude: true
 | **4** | **Exhaustion**  | The PCs must rest soon, otherwise **Fatigue** or _deprivation_ may set in. |
 | **5** |  **Sign**  | A clue, “spoor”, track, abandoned lair, scent, victim, droppings, etc is discovered. |
 | **6** |  **Encounter**  | Roll on an encounter table. Possibly **hostile** (see NPC [reactions](/cairn-srd/#reactions)) |
-
-
-## Light
-- Torches and other radial sources of light illuminate 40’ of dungeon, but beyond provide only a dim outlines of objects.
-- A torch burns about 6 **turns** before it fizzles out. Lanterns and other light sources may differ.
-- Characters without a light source suffer from _panic_ until their situation is remedied. 
-
-## Panic
-- A character that is surrounded by enemies, enveloped by darkness, or facing a great fear experiences _panic_.
-- A **WIL** **save** is required to avoid becoming _panicked_. Subsequent **WIL** saves may automatically _fail_.  
-- A _panicked_ character must make a **WIL** **save** to overcome their condition _as an action_ on their **turn**. If possible, **resting** can relieve **panic**. 
-- A _panicked_ character is _always_ **surprised** and has 0 HP. All of their attacks are _impaired_. 
-
-## Doors
-- Doors and entryways may be locked, stuck, moving or blocked entirely. Characters can try to force a door open (or wedge it shut) using available resources (spikes, glue), or through raw ability (**STR** or **DEX**). 
-- The character _most at risk_ should **save** to avoid whatever danger may befall them (a trapped appendage, engraged monsters, etc). In some cases, the entire party may pay for their mistake!
-  
-## Traps 
-- A cautious character should be presented with any and all information that would allow them the opportunity to _avoid_ springing a trap. An unwitting character will trigger a trap according to the fiction, or otherwise on a 2-in-6 chance.
-- **Traps** are always detected by carefully **searching** a room.
-- Damage from traps is taken from ability scores (usually **STR** or **DEX**) and _not_ from HP. Armor can reduce damage, but only if applicable (e.g. a shield would not reduce damage from noxious gas).
-
-## Common Actions
-
-### Move
-- One or more characters carefully move to another room, or down a long corridor or tunnel. 
-- Rushing through a dangerous area can be perilious, and actions like **Searching** and **Resting** are not possible.
-- Characters are assumed to be moving through areas in such a way that they avoid being **surprised**.  
-- Characters can quickly move to any accessible location their torchlight touches (around 40ft).
-
-### Interact
-- A character engages with a single object or creature in an area.
-- The **Warden** should present obvious information about the area, traps, and puzzles freely and at no cost.  
-- **Interacting** is presented as a series of decisions by the character. That includes _uncovering_ the trap, as well as attempting to disarm it.
-
-### Rest
-- **Resting** takes one **turn**, restores all HP, and can relieve conditions like _deprivation_ and _panic_.
-- A light source and *safe location* are required to **rest**. Present or oncoming danger make **rest** impossible.
-
-### Search
-- A character _safely_ performs an _exhaustive_ search in _one_ area of the room that reveals any hidden treasure, traps, secret doors, etc. Larger rooms may take a few **turns** properly search. 
-- A character can focus carefully (listening, smelling, etc) to the sounds of denizens and other hazards in the dungeon, usually through nearby doors and walls. Generally they have a 1-in-6 chance of detecting subtle sounds and smells. 
 
 ## Example
 A party of 3 player characters (**Leib**, **Konstin**, and **Gar**) have entered the first level of the forest ruins of **Ein Eyton**, once the home of the death-cult **Lunheuzo**. Each character has a torch, but only **Leib** has one lit. There are no light sources here beyond the Moon in the night sky.  
@@ -102,7 +98,7 @@ The **Warden** reads the first room's description:
 The **Warden** describes the room as "_A courtyard. Moonlight drifts through the collapsed roof from the night sky. The floor is sandy, chalk-white that sparkles in the moonlight. Rubble is piled in the center, near a statue of a woman holding a weapon, her face chipped. There is a closed wooden door on the **East** side, and an open archway into a dark tunnel to the **West**."_
 
 [**The characters then declare their intended actions.**]    
-**Leib**: _"I'll search the room for clues about its purpose, as well as any traps and treasure. I'll start with the odd **sand**, then the **rubble**."_ [**Search**]  
+**Leib**: _"I'll search the room for clues about its purpose, as well as any traps and treasure. I'll start with the odd **sand**, then the **rubble**."_ 
 **Konstin**: _"I'll check out the wooden **door**. What can you tell me about it?"_ [**No Action**]  
 **Gar**: "_I'm going to get a better look at that **statue**. What can I learn without actually getting too close?"_ [**No Action**]  
 
@@ -112,7 +108,7 @@ The **Warden** describes the room as "_A courtyard. Moonlight drifts through the
 
 **Warden**: _"**Konstin**, the **door** is locked, ancient, and partly rotted. It bears a rusted iron lock. What do you do now?"_
 
-**Konstin**: _"Seeing that I have no lockpick, I think I'll put my ear to the door to see what's on the other side."_ [**Listen**]
+**Konstin**: _"Seeing that I have no lockpick, I think I'll put my ear to the door to see what's on the other side."_ 
 
 **Warden**: _"OK, that will set up your **turn**, then. But first, let's see what **Gar** is doing as well."_
 
@@ -120,7 +116,7 @@ The **Warden** describes the room as "_A courtyard. Moonlight drifts through the
 
 **Warden**: _"The **statue**'s face is chipped away; one of its eyes is missing entirely. The other eye however is embedded with a beautiful red jewel. In its hands it holds an unusual weapon: a bident, made of white stone."_
 
-**Gar**: _"That's just creepy! I want no part in this, not until we learn more about what this room was for. I'm going to circle back and explore the open archway into the tunnel."_ [**Move**].
+**Gar**: _"That's just creepy! I want no part in this, not until we learn more about what this room was for. I'm going to circle back and explore the open archway into the tunnel."_ 
 
 [**The Warden now describes the results of each character's choices.**]
 
