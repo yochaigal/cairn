@@ -26,7 +26,7 @@ search_exclude: true
 
 ## Actions
 - On their **turn**, a character can perform one **action** and move a distance equal to their torchlight's perimeter (about 40ft). The **Warden** should present obvious information about an area and its dangers freely and at no cost.
-- **Actions** are any non-passive activities such as _searching for traps, _forcing open a door_, _listening for danger_, _disarming a trap_, _engaging an enemy in combat_, _casting a spell_, _dodging a trap_, _running away_, _resting_ etc. 
+- **Actions** are any non-passive activities such as _searching for traps_, _forcing open a door_, _listening for danger_, _disarming a trap_, _engaging an enemy in combat_, _casting a spell_, _dodging a trap_, _running away_, _resting_ etc. 
 - Some **actions** have special rules (see below), while others may take multiple **turns** to complete. Loud or noticeable **actions** may also trigger an **encounter** of the dungeon's denizens. 
 
 ### Searching
@@ -154,7 +154,7 @@ The **Warden** describes the room as "_A courtyard. Moonlight drifts through the
 
 **Warden**: _"As you do, you hear one of your companions say something in the other room."_
 
-Now that all three players have taken a turn, the **Warden** rolls on the [**Dungeon Events**](#dungeon-events) table. The result is a **6**, or **Encounter**. The **Warden**'s prep indicates that the _Zombies_ in the adjacent room will react to nearby noise, so... 
+Now that all three players have taken a turn, the **Warden** rolls on the [**Dungeon Events**](#dungeon-events) table. The result is a **6**, an **Encounter**. The **Warden**'s prep indicates that the _Zombies_ in the adjacent room will react to nearby noise, so... 
 
 **Warden**: _"The shuffling sound **Konstin** heard earlier behind the **East** door suddenly becomes much louder. Then, something large and powerful begins **slamming** itself into the wooden door! It creaks and groans under the assault, until finally it explodes from the top! Through the newly-created hole, **Leib** and **Konstin** can clearly make out the face of a decayed human man, his flesh flaking beneath layers of slime. He appears clearly undead, and very, very, angry."_
 
