@@ -18,7 +18,7 @@ search_exclude: true
 ### Hex Maps
 - If using hexes, assume that the **Travel** action moves the party to an adjacent tile in one **turn** at _Normal_ **travel speed**, and that if they get lost they end up in an adjacent hex.
 
-## Wilderness Exploration Sequence
+## Wilderness Exploration Cycle
 1. Each day, the **Warden** rolls on the [**Weather**](#weather) table for the appropriate season.
 2. The **Warden** explains how the current [**Difficulty**](#difficulty) affects the party's **travel speed**.
 3. The party plots or adjusts a given course towards their destination, each choosing a single **Wilderness Action**
@@ -30,6 +30,17 @@ search_exclude: true
 - If the party skips the **Make Camp** action, they each add one **Fatigue** to their inventory, and are _deprived_.
 - The party can choose to travel during the night and rest during the day, but night travel is far slower and more treacherous!
 
+### Light
+- Torches and other radial sources of light illuminate 40ft ahead, but beyond provides only a dim outlines of objects.
+- A torch lasts for 6 **cycles** before it fizzles out. Dry torches can be quickly relit if they are blown-out. Lanterns last for 10 **cycles**. 
+- Characters without a light source suffer from _panic_ until their situation is remedied. 
+
+## Conditions
+### Panic
+- A character that is surrounded by enemies, enveloped by darkness, or facing their greatest fears may experiences _panic_. A **WIL** **save** is typically required to avoid losing control and becoming _panicked_. 
+- A _panicked_ character must make a **WIL** **save** to overcome their condition _as an **action_**.
+- A _panicked_ character has 0 **HP**, is always _surprised_, and all of their attacks are _impaired_.  
+
 ## Difficulty
 - An area's [**weather**](#weather-difficulty), [**terrain**](#terrain-difficulty), obstacles, and slow or injured party members can reduce travel speed or make travel impossible. 
 - The party may need to spend **Fatigue**, resources, tools or other resource in order to overcome an obstacle or difficulty.
@@ -37,8 +48,6 @@ search_exclude: true
 - Travelling at night _always_ increases the difficulty by one step (i.e. **Easy** terrain becomes **Tough**).
 - An exhausted party can raise the difficulty of a terrain by one step (i.e. **Easy** becomes **Tough**), even during the day.
  
-
-
 ### Terrain Difficulty
 
 |                               |                |                     |                          |                                                               |

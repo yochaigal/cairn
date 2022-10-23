@@ -20,12 +20,12 @@ search_exclude: true
 - The **Warden** should present obvious information about an area and its dangers freely and at no cost.
 
 ## Dungeon Exploration Cycle
-1. The **Warden** describes the environment. Any immediate dangers are dealt with, i.e. [**combat**](/cairn-srd/#rounds), **traps**, surprises, etc.
-2. The characters declare their intended movement and **actions**. The **Warden** resolves each character's action simultaneously, and updates any in-progress **actions**. 
-3. The **Warden** rolls on the [**Dungeon Events**](#dungeon-events) table, and describes the results. 
-4. The characters react as ecessary, acting in **turns**. 
-5. The players and the **Warden** record any loss of resources and new conditions (i.e. torch use, _deprivation_, etc). 
-6. The process then repeats, starting at **step 1**.
+1. The **Warden** describes the party's surroundings. Any immediate dangers [**combat**](/cairn-srd/#rounds), **traps**, surprises, etc.) are resolved.
+2. The **players** ask questions, then declare their character's intended movements and **actions**. 
+3. The **Warden** resolves each character's action simultaneously, as well as **actions** that are already in-progress. 
+4. The **Warden** rolls on the [**Dungeon Events**](#dungeon-events) table, and describes the results. The characters react to the event, acting in **turns** if necessary. 
+5. The **players** and the **Warden** record any loss of resources and new conditions (i.e. torch use, _deprivation_, etc). 
+6. The process then repeats, starting from **step 1**.
 
 ## Actions
 - **Actions** are any non-passive activities such as _searching for traps_, _forcing open a door_, _listening for danger_, _disarming a trap_, _engaging an enemy in combat_, _casting a spell_, _dodging a trap_, _running away_, _resting_ etc. 
@@ -38,25 +38,20 @@ search_exclude: true
 - Searching a room _first_ is a safer way to explore the dungeon, but it has a steep cost: time.
 
 ### Resting
-- **Resting** takes one **turn**, restores all HP, and (if resolved) relieves **conditions** (_deprivation_, _panic_).
+- **Resting** takes one **turn**, restores all HP, and (if resolved) relieves **conditions** such as _deprivation_ and _panic_.
 - A light source and _safe location_ are required to **rest**. Present or oncoming danger make **rest** impossible.
 - **Resting** does not restore **Fatigue**, as it is imposisble to safely **Make Camp** in a dungeon.
 
 ## Conditions
 ### Panic
 - A character that is surrounded by enemies, enveloped by darkness, or facing their greatest fears may experiences _panic_. A **WIL** **save** is typically required to avoid losing control and becoming _panicked_. 
-- A _panicked_ character must make a **WIL** **save** to overcome their condition _as an **action_** on their **turn**. If possible, **resting** can relieve **panic**. 
+- A _panicked_ character must make a **WIL** **save** to overcome their condition _as an **action_** on their **turn**.
 - A _panicked_ character has 0 **HP**, is always _surprised_, and all of their attacks are _impaired_.  
-
-### Deprivation
-- A character is _deprived_ of a crucial need (such as food or water) is unable to recover **HP** or **ability scores**. 
-- A character may also become _deprived_ as a result of toxic gases, spells, or other ill-effects of the dungeon.
-- _Deprivation_ can be cured by **resting** or satisfying some requirement.  
 
 ## Dungeon Elements
 ### Light
-- Torches and other radial sources of light illuminate 40ft of dungeon, but beyond provide only a dim outlines of objects.
-- A torch lasts for 6 **Cycles** before it fizzles out completely. Dry torches can be quickly relit if they are blown-out.
+- Torches and other radial sources of light illuminate 40ft of dungeon, but beyond provides only a dim outlines of objects.
+- A torch lasts 6 cumulative **cycles** before it fizzles out. Dry torches can be quickly relit if they are blown-out. Lantern oil lasts 10 **cycles**. 
 - Characters without a light source suffer from _panic_ until their situation is remedied. 
 
 ### Doors
