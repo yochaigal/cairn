@@ -26,11 +26,11 @@ search_exclude: true
 
 ## Actions
 - On their **turn**, a character can perform one **action** and move a distance equal to their torchlight's perimeter (about 40ft). 
-- **Actions** are non-passive activities such as _searching for traps or treasure_, _forcing open a door_, _listening for danger_, _disarming a trap_, _engaging an enemy in combat_, _casting a spell_, _rest_, etc. Some **actions** take multiple **turns** to complete.
+- **Actions** are any non-passive activities such as _searching for traps, _forcing open a door_, _listening for danger_, _disarming a trap_, _engaging an enemy in combat_, _casting a spell_, _dodging a trap_, _resting_ etc. Some **actions** take multiple **turns** to complete.
 - The **Warden** should present obvious information about an area and its dangers freely and at no cost. Loud or noticeable **actions** may also trigger an **encounter** of the dungeon's denizens. 
 
 ### Searching
-- A character can spend a **turn** performing an _exhaustive_ search of a room, revealing any hidden treasure, traps, secret doors, etc. 
+- A character can spend a **turn** performing an _exhaustive_ search of **one** object or location in an area, revealing any relevant hidden treasure, traps, secret doors, etc. 
 - Larger rooms and difficult or complex dungeon terrain may take a few **turns** to properly search.
 - Searching a room _first_ is a safer way to explore the dungeon, but it has a steep cost: time.
 
