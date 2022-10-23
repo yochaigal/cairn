@@ -26,8 +26,8 @@ search_exclude: true
 
 ## Actions
 - On their **turn**, a character can perform one **action** and move a distance equal to their torchlight's perimeter (about 40ft). 
-- **Actions** are non-passive activities such as _searching for traps or treasure_, _forcing open a door_, _listening for danger_, _disarming a trap_, _engaging an enemy in combat_, _casting a spell_, _rest_, etc. Some actions take multiple **turns** to complete.
-- The **Warden** should present obvious information about an area and its dangers freely and at no cost.  
+- **Actions** are non-passive activities such as _searching for traps or treasure_, _forcing open a door_, _listening for danger_, _disarming a trap_, _engaging an enemy in combat_, _casting a spell_, _rest_, etc. Some **actions** take multiple **turns** to complete.
+- The **Warden** should present obvious information about an area and its dangers freely and at no cost. Loud or noticeable **actions** may also trigger an **encounter** of the dungeon's denizens. 
 
 ### Searching
 - A character can spend a **turn** performing an _exhaustive_ search of a room, revealing any hidden treasure, traps, secret doors, etc. 
@@ -42,7 +42,7 @@ search_exclude: true
 ## Conditions
 ### Panic
 - A character that is surrounded by enemies, enveloped by darkness, or facing their greatest fears may experiences _panic_. A **WIL** **save** is typically required to avoid losing control and becoming _panicked_. 
-- A _panicked_ character must make a **WIL** **save** to overcome their condition _as an action_ on their **turn**. If possible, **resting** can relieve **panic**. 
+- A _panicked_ character must make a **WIL** **save** to overcome their condition _as an **action_** on their **turn**. If possible, **resting** can relieve **panic**. 
 - A _panicked_ character has 0 **HP**, is always _surprised_, and all of their attacks are _impaired_.  
 
 ### Deprivation
@@ -65,10 +65,6 @@ search_exclude: true
 - A cautious character should be presented with any and all information that would allow them the opportunity to _avoid_ springing a trap. An unwitting character will trigger a trap according to the fiction, or otherwise have a 2-in-6 chance.
 - **Traps** can usually be detected by carefully **searching** a room.
 - Damage from traps is taken from ability scores (usually **STR** or **DEX**) and _not_ from **HP**. Armor can reduce damage, but only if applicable (e.g. a shield would not reduce damage from noxious gas).
-
-### Encounters
-- Loud or noticeable actions may trigger an **encounter** of the dungeon's denizens.
-- 
 
 ## Dungeon Events
 
@@ -99,8 +95,8 @@ The **Warden** describes the room as "_A courtyard. Moonlight drifts through the
 
 [**The characters then declare their intended actions.**]    
 **Leib**: _"I'll search the room for clues about its purpose, as well as any traps and treasure. I'll start with the odd **sand**, then the **rubble**."_ 
-**Konstin**: _"I'll check out the wooden **door**. What can you tell me about it?"_ [**No Action**]  
-**Gar**: "_I'm going to get a better look at that **statue**. What can I learn without actually getting too close?"_ [**No Action**]  
+**Konstin**: _"I'll check out the wooden **door**. What can you tell me about it?"_ 
+**Gar**: "_I'm going to get a better look at that **statue**. What can I learn without actually getting too close?"_ 
 
 **Warden**: _"Alright. "**Leib**, the white sand is grainy and quite odd, clearly not from any beach 'round these parts. It is bleached white in color, and kicking your foot at a small lump in the ground reveals a half-decayed human skull. You realize the **sand** is actually bone!" Meanwhile, the **rubble** looks extremely heavy, and difficult to move."_
 
