@@ -9,21 +9,18 @@ search_exclude: true
 
 # Dungeon Exploration
 
-## Introduction
-- The goal of these rules is to keep the sense of danger ever-present, and to maintain a consistent sense of time and resource management. 
-- Time (represented here by **cycles**), **Fatigue**, torches, and other inventory items are all resources that the characters can use for survival.
-- Although the term "dungeon" is used here, it can be exchanged for any dangerous locale (mansions, farmhouses, adventure site, etc). 
-
 ## Basics
 - The dungeon exploration **cycle** is divided into a series of **turns**, **actions**, and their consequences. 
 - On their **turn**, a character can move a distance equal to their torchlight's perimeter (about 40ft) and perform one **action**.   
 - The **Warden** should present obvious information about an area and its dangers freely and at no cost.
 
+>> **Although the term "dungeon" is used here, it can be exchanged for any dangerous locale (mansions, farmhouses, adventure site, etc). **
+
 ## Dungeon Exploration Cycle
 1. The **Warden** describes the party's surroundings. Any immediate dangers [**combat**](/cairn-srd/#rounds), **traps**, surprises, etc.) are resolved.
 2. The **players** ask questions, then declare their character's intended movements and **actions**. 
 3. The **Warden** resolves each character's action simultaneously, as well as **actions** that are already in-progress. 
-4. The **Warden** rolls on the [**Dungeon Events**](#dungeon-events) table, and describes the results. The characters react to the event, acting in **turns** if necessary. 
+4. The **Warden** rolls on the [**Dungeon Events**](#dungeon-events) table, and describes the results. The characters react to the event. 
 5. The **players** and the **Warden** record any loss of resources and new conditions (i.e. torch use, _deprivation_, etc). 
 6. The process then repeats, starting from **step 1**.
 
@@ -50,8 +47,8 @@ search_exclude: true
 
 ## Dungeon Elements
 ### Light
-- Torches and other radial sources of light illuminate 40ft of dungeon, but beyond provides only a dim outlines of objects.
-- A torch lasts 6 cumulative **cycles** before it fizzles out. Dry torches can be quickly relit if they are blown-out. Lantern oil lasts 10 **cycles**. 
+- Torches and other radial sources of light illuminate 40ft of dungeon, but beyond that only provides a dim outline of objects.
+- A torch can be lit 3 times before degrading. A lantern can be relit 6 times per oil can, but requires more slots in total.
 - Characters without a light source suffer from _panic_ until their situation is remedied. 
 
 ### Doors
@@ -70,10 +67,10 @@ search_exclude: true
 | :---: | :-------------: | :----------------------------------------------------------: |
 | **1** |    **Quiet**    | The party is left alone (and safe) for the time being. |
 | **2** | **Environment** | Surroundings shift or escalate. Water rises, ceilings collapse, a ritual nears completion, etc. |
-| **3** | **Loss**  | Torches are blown out, an ongoing spell fizzles, etc. The party must resolve the situation before moving on. |
+| **3** | **Loss**  | Torches are blown out, an ongoing spell fizzles, etc. The party must resolve the effect before moving on. |
 | **4** | **Exhaustion**  | The PCs must rest soon, otherwise **Fatigue** or _deprivation_ may set in. |
 | **5** |  **Sign**       | A clue, “spoor”, track, abandoned lair, scent, victim, droppings, etc is discovered. |
-| **6** |  **Encounter**  | Roll on an encounter table. Possibly **hostile** (see NPC [reactions](/cairn-srd/#reactions)) |
+| **6** |  **Encounter**  | Roll on an encounter table. Possibly **hostile** (see NPC [reactions](/cairn-srd/#reactions)). |
 
 ## Example
 A party of 3 player characters (**Leib**, **Konstin**, and **Gar**) have entered the first level of the forest ruins of **Ein Eyton**, once the home of the death-cult **Lunheuzo**. Each character has a torch, but only **Leib** has one lit. There are no light sources here beyond the Moon in the night sky.  
@@ -96,9 +93,11 @@ The **Warden** describes the room as "_A courtyard. Moonlight drifts through the
 **Konstin**: _"I'll check out the wooden **door**. What can you tell me about it?"_ 
 **Gar**: "_I'm going to get a better look at that **statue**. What can I learn without actually getting too close?"_ 
 
+> **Any character could have _asked_ about the sand and received the same answer as below, Leib just happened to roll his question into a larger search action.**
+
 **Warden**: _"Alright. "**Leib**, the white sand is grainy and quite odd, clearly not from any beach 'round these parts. It is bleached white in color, and kicking your foot at a small lump in the ground reveals a half-decayed human skull. You realize the **sand** is actually bone!" Meanwhile, the **rubble** looks extremely heavy, and difficult to move."_
 
-> **Any character could have _asked_ about the sand and received the same answer. Leib just happened to roll his question into a larger search action. The Warden then moves to describe another character's actions, as they are happening simultaneously.**
+>> **The Warden then moves to describe another character's actions, as they are happening simultaneously.**
 
 **Warden**: _"**Konstin**, the **door** is locked, ancient, and partly rotted. It bears a rusted iron lock. What do you do now?"_
 
