@@ -48,7 +48,7 @@ search_exclude: true
 - An area's [**weather**](#weather-difficulty), [**terrain**](#terrain-difficulty), obstacles, and slow or injured party members can reduce travel speed or make travel impossible. 
 - The party may need to spend **Fatigue**, resources, tools or other resource in order to overcome an obstacle or difficulty.
 - Mounts, guides, and maps can increase the party's travel speed or overcome a terrain's difficulty.
-- Travelling at night _always_ increases the difficulty by one step (i.e. **Easy** terrain becomes **Tough**).
+- Travelling at night _always_ increases the difficulty by one step (i.e. **Easy** terrain becomes **Tough**), and the **Warden** rolls twice on the [**Wilderness Events**](#wilderness-events) table.
 - An exhausted party can raise the difficulty of a terrain by one step (i.e. **Easy** becomes **Tough**), even during the day.
  
 ### Terrain Difficulty
