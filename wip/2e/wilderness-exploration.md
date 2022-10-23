@@ -10,7 +10,7 @@ search_exclude: true
 # Wilderness Exploration
 
 ## The Basics
-- The day is divided into 3 **turns** of 8 hours each: _morning_, _noon_, and _night__.
+- The day is divided into 3 **turns** of 8 hours each: _morning_, _midday_, and _night_.
 - Characters can choose _one_ [**Wilderness Action**](#wilderness-actions) per **turn** (together or as individuals).
 - Regions have a set number of _known_ locations, called **points**. One or more **turns** may be required to journey between two **points** on a map, depending on the travel **Difficulty**.
 - A party walking on roads or settled terrain can usually travel between two nearby **points** in a single **turn**.
