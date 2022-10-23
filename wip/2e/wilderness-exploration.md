@@ -12,13 +12,14 @@ search_exclude: true
 ## Introduction
 - A day is divided into three **watches**, called _morning_, _afternoon_, and _night_.
 - Each character can choose _one_ [**Wilderness Action**](#wilderness-actions) per **watch**.
-- 
+- If the characters split up, each party is treated as an independent entity.
 
 ## Basics
 - Potential destinations on a map are called **points**. 
 - One or more **watches** may be required to journey between two **points** on a map, depending on the travel **Difficulty**.
 - A party walking on roads or settled terrain can usually travel between two nearby **points** in a single **watch**.
 
+> ### Hexes
 > If using hexes, assume that the **Travel** action moves the party to an adjacent tile in one **watch** at _Normal_ **travel speed**, and that if they get lost they end up in an adjacent hex.
 
 ## Wilderness Exploration Cycle
@@ -99,10 +100,7 @@ search_exclude: true
 - A **Watch** rotation is set from each party member. At least 3 rotations are necessary to ensure that all party members can rest. A smaller party may need to risk sleeping unguarded, or switch off sleeping over multiple days (see [**Sleep**](#sleep)).
 - The **Warden** rolls on the [**Wilderness Events**](#wilderness-events).
 - Party members that were able to rest remove all of **Fatigue** from their inventory, and other conditions (if required).
-
-## Splitting Up
-- If the characters split up, each party is treated as an independent entity, and subsequent rolls only impact the group triggering the relevant action.
-
+ 
 ## Tables
 
 ### Weather

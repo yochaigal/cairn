@@ -14,7 +14,7 @@ search_exclude: true
 - On their **turn**, a character can move a distance equal to their torchlight's perimeter (about 40ft) and perform one **action**.   
 - The **Warden** should present obvious information about an area and its dangers freely and at no cost.
 
->> **Although the term "dungeon" is used here, it can be exchanged for any dangerous locale (mansions, farmhouses, adventure site, etc). **
+>> Although the term "dungeon" is used here, it can be exchanged for any dangerous locale (mansions, farmhouses, adventure site, etc).
 
 ## Dungeon Exploration Cycle
 1. The **Warden** describes the party's surroundings. Any immediate dangers [**combat**](/cairn-srd/#rounds), **traps**, surprises, etc.) are resolved.
