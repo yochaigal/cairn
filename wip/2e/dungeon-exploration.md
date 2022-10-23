@@ -14,20 +14,23 @@ search_exclude: true
 - Time (represented here by **cycles**), **Fatigue**, torches, and other inventory items are all resources that the characters can use for survival.
 - Although the term "dungeon" is used here, it can be exchanged for any dangerous locale (mansions, farmhouses, adventure site, etc). 
 
+## Basics
+- The dungeon exploration **cycle** is divided into a series of **turns**, **actions**, and their consequences. 
+- On their **turn**, a character can move a distance equal to their torchlight's perimeter (about 40ft) and perform one **action**.   
+- The **Warden** should present obvious information about an area and its dangers freely and at no cost.
+
 ## Dungeon Exploration Cycle
-1. The **Warden** describes the environment and any obvious dangers.
-2. Any immediate consequences are dealt with (combat, traps, surprises).
-3. The characters declare their intended **actions**.
-4. The **Warden** resolves each character's action simultaneously. If an action takes more than a single **turn**, the **Warden** describes its progress. 
-5. The **Warden** rolls on the [**Dungeon Events**](#dungeon-events) table, and describes the results.
-6. The characters react as necessary, acting in **turns**. 
-7. The players and the **Warden** record any loss of resources and new conditions (i.e. torch use, _deprivation_, etc). 
-8. The process then repeats, starting at **step 1**.
+1. The **Warden** describes an environment and its obvious dangers. Any immediate consequences are dealt with ([**combat**](/cairn-srd/#rounds), **traps**, surprises, etc.).
+2. The characters declare their intended movement and **actions**. The **Warden** resolves each character's action simultaneously. If an action takes more than a single **turn**, the **Warden** describes its progress. 
+3. The **Warden** rolls on the [**Dungeon Events**](#dungeon-events) table, and describes the results. 
+4. The characters react as ecessary, acting in **turns**. 
+5. The players and the **Warden** record any loss of resources and new conditions (i.e. torch use, _deprivation_, etc). 
+6. The process then repeats, starting at **step 1**.
 
 ## Actions
-- On their **turn**, a character can perform one **action** and move a distance equal to their torchlight's perimeter (about 40ft). The **Warden** should present obvious information about an area and its dangers freely and at no cost.
 - **Actions** are any non-passive activities such as _searching for traps_, _forcing open a door_, _listening for danger_, _disarming a trap_, _engaging an enemy in combat_, _casting a spell_, _dodging a trap_, _running away_, _resting_ etc. 
-- Some **actions** have special rules (see below), while others may take multiple **turns** to complete. Loud or noticeable **actions** may also trigger an **encounter** of the dungeon's denizens. 
+- Some **actions** have special rules (see below), while others may take multiple **turns** to complete. 
+- Loud or noticeable **actions** may also trigger an **encounter** of the dungeon's denizens. 
 
 ### Searching
 - A character can spend a **turn** performing an _exhaustive_ search of **one** object or location in an area, revealing any relevant hidden treasure, traps, secret doors, etc. 
