@@ -14,7 +14,7 @@ search_exclude: true
 - In general, a character may be required to take risks, add a **Fatigue** to their inventory, or spend a **resource** in order to complete a task quickly, or safely. 
 - Although the term "dungeon" is used here, it can be exchanged for any dangerous locale (mansions, farmhouses, adventure site, etc). 
 
-## Dungeon Exploration Sequence
+## Dungeon Exploration Cycle
 1. The **Warden** describes the environment and any obvious dangers.
 2. Any immediate consequences are dealt with (combat, traps, surprises).
 3. The characters declare their intended **actions**.
@@ -53,7 +53,7 @@ search_exclude: true
 ## Dungeon Elements
 ### Light
 - Torches and other radial sources of light illuminate 40’ of dungeon, but beyond provide only a dim outlines of objects.
-- A torch lasts for 6 **turns** before it fizzles out. Lanterns and other light sources may differ.
+- A torch lasts for 6 **Cycles** before it fizzles out. Lanterns and other light sources may differ.
 - Characters without a light source suffer from _panic_ until their situation is remedied. 
 
 ### Doors
