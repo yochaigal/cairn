@@ -98,7 +98,7 @@ The **Warden** describes the room as "_A courtyard. Moonlight drifts through the
 
 **Warden**: _"Alright. "**Leib**, the white sand is grainy and quite odd, clearly not from any beach 'round these parts. It is bleached white in color, and kicking your foot at a small lump in the ground reveals a half-decayed human skull. You realize the **sand** is actually bone!" Meanwhile, the **rubble** looks extremely heavy, and difficult to move."_
 
-[**The Warden moves to describe another character's actions, as they are happening simultaneously.**]
+> **Any character could have _asked_ about the sand and received the same answer. Leib just happened to roll his question into a larger search action. The Warden then moves to describe another character's actions, as they are happening simultaneously.**
 
 **Warden**: _"**Konstin**, the **door** is locked, ancient, and partly rotted. It bears a rusted iron lock. What do you do now?"_
 
@@ -112,7 +112,7 @@ The **Warden** describes the room as "_A courtyard. Moonlight drifts through the
 
 **Gar**: _"That's just creepy! I want no part in this, not until we learn more about what this room was for. I'm going to circle back and explore the open archway into the tunnel."_ 
 
-[**The Warden now describes the results of each character's choices.**]
+> **The Warden now describes the results of each character's choices.**
 
 **Warden**: _"**Leib**, you’re confident that there are no traps hidden beneath the sand here, and you let your comrades know. Holding your torch high, you see something red and shiny glinting in the cracks of the pile. What do you do?"_
 
@@ -134,7 +134,7 @@ The **Warden** describes the room as "_A courtyard. Moonlight drifts through the
 
 **Konstin**: _"That works. I light my torch and hold it aloft so that I can see through."_
 
-**Warden**: _"**Konstin**, Through the cracks, you can see a gray cement floor. Something gleams on the ground, flickering in the torchlight. It is shaped like a large, wet footprint!. 
+**Warden**: _"**Konstin**, Through the cracks, you can see a gray cement floor. Something gleams on the ground, flickering in the torchlight. It is shaped like a large, wet footprint!"_
 
 **Konstin**: _"Eek! I let the others know."_
 
@@ -156,7 +156,7 @@ Now that all three players have taken a turn, the **Warden** rolls on the [**Dun
 
 **Warden**: _"The shuffling sound **Konstin** heard earlier behind the **East** door suddenly becomes much louder. Then, something large and powerful begins **slamming** itself into the wooden door! It creaks and groans under the assault, until finally it explodes from the top! Through the newly-created hole, **Leib** and **Konstin** can clearly make out the face of a decayed human man, his flesh flaking beneath layers of slime. He appears clearly undead, and very, very, angry."_
 
-[**Combat ensues between the party members in the Courtyard - a _turn undead_ spellbook is used, and the player characters are quickly (and brutally) victorious. Gar returns from the tunnel just as the fight is ended.**]
+> **Combat ensues between the party members in the Courtyard - a _turn undead_ spellbook is used, and the player characters are quickly (and brutally) victorious. Gar returns from the tunnel just as the fight is ended.**
 
 **Warden**: _"Great, everyone please record that you've each used your torches for one **turn**. When you've finished, tell me what you plan to do next..."_
 
