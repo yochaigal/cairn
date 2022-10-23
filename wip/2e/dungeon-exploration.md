@@ -35,13 +35,13 @@ search_exclude: true
 - Searching a room _first_ is a safer way to explore the dungeon, but it has a steep cost: time.
 
 ### Resting
-- **Resting** takes one **turn**, restores all HP, and (if resolved) relieves **conditions** such as _deprivation_ and _panic_.
-- A light source and _safe location_ are required to **rest**. Present or oncoming danger make **rest** impossible.
+- A character can spend a turn **resting** to restore all **HP**.
+- A light source and a _safe location_ are required to **rest**. Present or oncoming danger make **rest** impossible.
 - **Resting** does not restore **Fatigue**, as it is imposisble to safely **Make Camp** in a dungeon.
 
 ## Conditions
 ### Panic
-- A character that is surrounded by enemies, enveloped by darkness, or facing their greatest fears may experiences _panic_. A **WIL** **save** is typically required to avoid losing control and becoming _panicked_. 
+- A character that is surrounded by enemies, enveloped by darkness, or facing their greatest fears may experience _panic_. A **WIL** **save** is typically required to avoid losing control and becoming _panicked_. 
 - A _panicked_ character must make a **WIL** **save** to overcome their condition _as an **action_** on their **turn**.
 - A _panicked_ character has 0 **HP**, is always _surprised_, and all of their attacks are _impaired_.  
 

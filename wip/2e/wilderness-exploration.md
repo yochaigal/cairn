@@ -10,7 +10,7 @@ search_exclude: true
 # Wilderness Exploration
 
 ## Introduction
-- The day is divided into three **watches**, called _morning_, _afternoon_, and _night_.
+- A day is divided into three **watches**, called _morning_, _afternoon_, and _night_.
 - Each character can choose _one_ [**Wilderness Action**](#wilderness-actions) per **watch**.
 - 
 
@@ -39,7 +39,7 @@ search_exclude: true
 - Characters without a light source suffer from _panic_ until their situation is remedied. 
 
 ### Panic
-- A character that is surrounded by enemies, enveloped by darkness, or facing their greatest fears may experiences _panic_. A **WIL** **save** is typically required to avoid losing control and becoming _panicked_. 
+- A character that is surrounded by enemies, enveloped by darkness, or facing their greatest fears may experience _panic_. A **WIL** **save** is typically required to avoid losing control and becoming _panicked_. 
 - A _panicked_ character must make a **WIL** **save** to overcome their condition _as an **action_**.
 - A _panicked_ character has 0 **HP**, is always _surprised_, and all of their attacks are _impaired_.  
 
