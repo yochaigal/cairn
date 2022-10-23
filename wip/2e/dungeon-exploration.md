@@ -11,7 +11,7 @@ search_exclude: true
 
 ## Introduction
 - The goal of these rules is to keep the sense of danger ever-present, and to maintain a consistent sense of time and resource management. 
-- In general, a character may be required to take risks, add a **Fatigue** to their inventory, or spend a **resource** in order to complete a task quickly, or safely. 
+- Time (represented here by **cycles**), **Fatigue**, torches, and other inventory items are all resources that the characters can use for survival.
 - Although the term "dungeon" is used here, it can be exchanged for any dangerous locale (mansions, farmhouses, adventure site, etc). 
 
 ## Dungeon Exploration Cycle
@@ -35,7 +35,7 @@ search_exclude: true
 - Searching a room _first_ is a safer way to explore the dungeon, but it has a steep cost: time.
 
 ### Resting
-- **Resting** takes one **turn**, restores all HP, and can relieve conditions like _deprivation_ and _panic_.
+- **Resting** takes one **turn**, restores all HP, and (if resolved) relieves **conditions** (_deprivation_, _panic_).
 - A light source and _safe location_ are required to **rest**. Present or oncoming danger make **rest** impossible.
 - **Resting** does not restore **Fatigue**, as it is imposisble to safely **Make Camp** in a dungeon.
 
@@ -52,7 +52,7 @@ search_exclude: true
 
 ## Dungeon Elements
 ### Light
-- Torches and other radial sources of light illuminate 40’ of dungeon, but beyond provide only a dim outlines of objects.
+- Torches and other radial sources of light illuminate 40ft of dungeon, but beyond provide only a dim outlines of objects.
 - A torch lasts for 6 **Cycles** before it fizzles out. Lanterns and other light sources may differ.
 - Characters without a light source suffer from _panic_ until their situation is remedied. 
 
@@ -70,11 +70,11 @@ search_exclude: true
 
 |       |                 |                                                              |
 | :---: | :-------------: | :----------------------------------------------------------: |
-| **1** |    **Quiet**     | The party is left alone (and safe) for the time being. |
+| **1** |    **Quiet**    | The party is left alone (and safe) for the time being. |
 | **2** | **Environment** | Surroundings shift or escalate. Water rises, ceilings collapse, a ritual nears completion, etc. |
-| **3** | **Expiration**  |  An ongoing effect ends: torches go out, spells fizzle, rations are used up, etc.  |
+| **3** | **Expiration**  | Torches are blown out, an ongoing spell fizzles, etc. The party must resolve the loss before moving on. |
 | **4** | **Exhaustion**  | The PCs must rest soon, otherwise **Fatigue** or _deprivation_ may set in. |
-| **5** |  **Sign**  | A clue, “spoor”, track, abandoned lair, scent, victim, droppings, etc is discovered. |
+| **5** |  **Sign**       | A clue, “spoor”, track, abandoned lair, scent, victim, droppings, etc is discovered. |
 | **6** |  **Encounter**  | Roll on an encounter table. Possibly **hostile** (see NPC [reactions](/cairn-srd/#reactions)) |
 
 ## Example
