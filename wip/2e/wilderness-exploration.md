@@ -95,7 +95,7 @@ search_exclude: true
 ## Tables
 
 ### Weather
-If the "**Extreme**" weather result is rolled twice in 24 hours, the weather turns to "**Catastrophic**". A summer squall becomes a hurricane, a fall storm floods the valleys, etc.
+If the "**Extreme**" weather result is rolled twice in a row, the weather turns to "**Catastrophic**". A summer squall becomes a hurricane, a fall storm floods the valleys, etc.
 
 |        |              |              |              |             |
 | :----: | :----------: | :----------: | :----------: | :----------:|
