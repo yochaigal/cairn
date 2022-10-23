@@ -20,8 +20,8 @@ search_exclude: true
 - The **Warden** should present obvious information about an area and its dangers freely and at no cost.
 
 ## Dungeon Exploration Cycle
-1. The **Warden** describes an environment and its obvious dangers. Any immediate consequences are dealt with ([**combat**](/cairn-srd/#rounds), **traps**, surprises, etc.).
-2. The characters declare their intended movement and **actions**. The **Warden** resolves each character's action simultaneously. If an action takes more than a single **turn**, the **Warden** describes its progress. 
+1. The **Warden** describes the environment. Any immediate dangers are dealt with, i.e. [**combat**](/cairn-srd/#rounds), **traps**, surprises, etc.
+2. The characters declare their intended movement and **actions**. The **Warden** resolves each character's action simultaneously, and updates any in-progress **actions**. 
 3. The **Warden** rolls on the [**Dungeon Events**](#dungeon-events) table, and describes the results. 
 4. The characters react as ecessary, acting in **turns**. 
 5. The players and the **Warden** record any loss of resources and new conditions (i.e. torch use, _deprivation_, etc). 
