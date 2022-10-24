@@ -18,6 +18,7 @@ search_exclude: true
 - Potential destinations on a map are called **points**. 
 - One or more **watches** may be required to journey between two **points** on a map, depending on the travel **Difficulty**.
 - A party walking on roads or settled terrain can usually travel between two nearby **points** in a single **watch**.
+- The party can choose to travel during the night and rest during the day, but night travel is far slower and more treacherous!
 
 > ### Hexes
 > If using hexes, assume that the **Travel** action moves the party to an adjacent tile in one **watch** at _Normal_ **travel speed**, and that if they get lost they end up in an adjacent hex.
@@ -32,7 +33,6 @@ search_exclude: true
 - The last **watch** of the day is typically reserved for the [**Make Camp**](#make-camp) action.
 - Characters typically need to sleep each day. Anything beyond a minor interruption can negate or cancel the benefits of sleep.
 - If the party skips the **Make Camp** action, they each add one **Fatigue** to their inventory, and are _deprived_.
-- The party can choose to travel during the night and rest during the day, but night travel is far slower and more treacherous!
 
 ### Light
 - Torches and other radial sources of light illuminate 40ft of dungeon, but beyond that only provides a dim outline of objects.
@@ -40,8 +40,8 @@ search_exclude: true
 - Characters without a light source suffer from _panic_ until their situation is remedied. 
 
 ### Panic
-- A character that is surrounded by enemies, enveloped by darkness, or facing their greatest fears may experience _panic_. A **WIL** **save** is typically required to avoid losing control and becoming _panicked_. 
-- A _panicked_ character must make a **WIL** **save** to overcome their condition _as an **action_**.
+- A character that is surrounded by enemies, enveloped by darkness, or facing their greatest fears may experience _panic_. A **WIL** **save** is required to avoid losing control and becoming _panicked_. 
+- As an **action**, a _panicked_ character can make a **WIL** **save** to overcome the _panic_ condition. 
 - A _panicked_ character has 0 **HP**, is always _surprised_, and all of their attacks are _impaired_.  
 
 ## Difficulty
@@ -50,7 +50,7 @@ search_exclude: true
 - Mounts, guides, and maps can increase the party's travel speed or overcome a terrain's difficulty.
 - Travelling at night _always_ increases the difficulty by one step (i.e. **Easy** terrain becomes **Tough**), and the **Warden** rolls twice on the [**Wilderness Events**](#wilderness-events) table.
 - An exhausted party can raise the difficulty of a terrain by one step (i.e. **Easy** becomes **Tough**), even during the day.
- 
+
 ### Terrain Difficulty
 
 |                               |                |                     |                          |                                                               |
