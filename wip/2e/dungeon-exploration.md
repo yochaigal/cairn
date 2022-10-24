@@ -63,14 +63,14 @@ search_exclude: true
 
 ## Dungeon Events
 
-|       |                 |                                                              |
-| :---: | :-------------: | :----------------------------------------------------------: |
-| **1** |    **Quiet**    | The party is left alone (and safe) for the time being. |
-| **2** | **Environment** | Surroundings shift or escalate. Water rises, ceilings collapse, a ritual nears completion, etc. |
-| **3** | **Loss**  | Torches are blown out, an ongoing spell fizzles, etc. The party must resolve the effect before moving on. |
-| **4** | **Exhaustion**  | The PCs must rest soon, otherwise **Fatigue** or _deprivation_ may set in. |
-| **5** |  **Sign**       | A clue, “spoor”, track, abandoned lair, scent, victim, droppings, etc is discovered. |
-| **6** |  **Encounter**  | Roll on an encounter table. Possibly **hostile** (see NPC [reactions](/cairn-srd/#reactions)). |
+|       |                 |                                                                                                           |
+| :---: | :-------------: | :------------------------------------------------------------------------------------------------------:  |
+| **1** | **Encounter**   | Roll on an encounter table. Possibly **hostile** (see NPC [reactions](/cairn-srd/#reactions)).            |
+| **2** | **Environment** | Surroundings shift or escalate. Water rises, ceilings collapse, a ritual nears completion, etc.           |
+| **3** | **Loss**        | Torches are blown out, an ongoing spell fizzles, etc. The party must resolve the effect before moving on. |
+| **4** | **Exhaustion**  | The PCs must rest soon, otherwise **Fatigue** or _deprivation_ may set in.                                |
+| **5** | **Sign**        | A clue, “spoor”, track, abandoned lair, scent, victim, droppings, etc is discovered.                      |
+| **6** | **Quiet**       | The party is left alone (and safe) for the time being.                                                    |
 
 ## Example
 A party of 3 player characters (**Leib**, **Konstin**, and **Gar**) have entered the first level of the forest ruins of **Ein Eyton**, once the home of the death-cult **Lunheuzo**. Each character has a torch, but only **Leib** has one lit. There are no light sources here beyond the Moon in the night sky.  
