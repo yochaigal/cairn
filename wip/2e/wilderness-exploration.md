@@ -37,7 +37,8 @@ search_exclude: true
 ### Sleep
 - The last **watch** of the day is typically reserved for the [**Make Camp**](#make-camp) action.
 - Characters typically need to sleep each day. Anything beyond a minor interruption can negate or cancel the benefits of sleep.
-- If the party skips the **Make Camp** action, they each add one **Fatigue** to their inventory, and are _deprived_.
+- If the party skips the **Make Camp** action, they each add one **Fatigue** to their inventory, and are _deprived_. Additionally, a sleep-deprived party raises the difficulty of a terrain by one step (i.e. **Easy** becomes **Tough**), even during the day.
+
 
 ### Light
 - Torches and other radial sources of light illuminate 40ft ahead of the party, but beyond that only provides a dim outline of objects.
@@ -51,8 +52,8 @@ search_exclude: true
 
 ## Difficulty
 - An area's [**weather**](#weather-difficulty), [**terrain**](#terrain-difficulty), obstacles, [**night travel**](#night), and slow or injured party members can reduce travel speed or make travel impossible. 
-- The party may need to spend **Fatigue**, resources, tools or other resource in order to maintain their travel speed. Mounts, guides, and maps can increase the party's travel speed or even overcome a terrain's difficulty.
-- An exhausted party raises the difficulty of a terrain by one step (i.e. **Easy** becomes **Tough**), even during the day.
+- The party may need to spend **Fatigue**, resources, tools or other resource in order to maintain their travel speed. 
+- Mounts, guides, and maps can increase the party's travel speed or even overcome a terrain's difficulty.
 
 ### Terrain Difficulty
 
