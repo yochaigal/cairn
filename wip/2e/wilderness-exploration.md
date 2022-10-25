@@ -32,6 +32,7 @@ search_exclude: true
 ## Night
 - The party can choose to travel during the night and rest during the day, but night travel is far slower and more treacherous!
 - Travelling at night _always_ increases the difficulty by one step (i.e. **Easy** terrain becomes **Tough**), and the **Warden** rolls twice on the [**Wilderness Events**](#wilderness-events) table.
+- Some terrain and weather may be easier to traverse at night (desert, for example). The **Warden** should balance these challenges along with any other.
 
 ### Sleep
 - The last **watch** of the day is typically reserved for the [**Make Camp**](#make-camp) action.
@@ -78,10 +79,10 @@ search_exclude: true
 ### Travel
 - Travel begins. Obvious locations, features, and terrain of nearby areas are revealed according to their distance. 
 - If necessary, the party rolls **1d6** to see if they've become lost.
-- Provided they don't get lost, the party reaches the next **point** along their route. 
+- Provided they don't [**get lost**](#getting-lost), the party reaches the next **point** along their route. 
 
 #### Getting Lost
-- If the party gets lost, they may need to spend a **Wilderness Action** to recover their way. 
+- If lost, the party may need to spend a **Wilderness Action** to recover their way. 
 - Maps and relevant backgrounds may negate the need for a roll, or decrease the chances of getting lost.
 
 ### Explore
