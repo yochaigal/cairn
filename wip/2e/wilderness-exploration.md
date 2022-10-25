@@ -9,14 +9,13 @@ search_exclude: true
 
 # Wilderness Exploration
 
-## Introduction
-- A day is divided into three **watches**, called _morning_, _afternoon_, and _night_.
-- Each character can choose _one_ [**Wilderness Action**](#wilderness-actions) per **watch**.
-- If the characters split up, each party is treated as an independent entity.
+## Watches
+- Each day, the **Warden** rolls on the [**Weather**](#weather) table for the appropriate season.
+- A day is divided into three **watches**, called _morning_, _afternoon_, and _night_. 
+- Each character can choose _one_ [**Wilderness Action**](#wilderness-actions) per **watch**. If the characters split up, each party is treated as an independent entity.
 
-## Basics
-- Potential destinations on a map are called **points**. 
-- One or more **watches** may be required to journey between two **points** on a map, depending on the travel **Difficulty**.
+## Points
+- Potential destinations on a map are called **points**. One or more **watches** may be required to journey between two **points** on a map, depending on the travel **Difficulty**.
 - A party walking on roads or settled terrain can usually travel between two nearby **points** in a single **watch**.
 - The party can choose to travel during the night and rest during the day, but night travel is far slower and more treacherous!
 
@@ -24,7 +23,7 @@ search_exclude: true
 > If using hexes, assume that the **Travel** action moves the party to an adjacent tile in one **watch** at _Normal_ **travel speed**, and that if they get lost they end up in an adjacent hex.
 
 ## Wilderness Exploration Cycle
-1. Each day, the **Warden** rolls on the [**Weather**](#weather) table for the appropriate season.
+1. The **Warden** describes the current **point**, **area** or **region** on the map.
 2. The **Warden** explains how the current [**Difficulty**](#difficulty) affects the party's **travel speed**.
 3. The party plots or adjusts a given course towards their destination, each character choosing a single **Wilderness Action**.
 4. The **Warden** narrates the results, and then rolls on the [**Wilderness Events**](#wilderness-events) table. The party responds to the results.
@@ -77,30 +76,26 @@ search_exclude: true
 ## Wilderness Actions
 ### Travel
 - Travel begins. Obvious locations, features, and terrain of nearby areas are revealed according to their distance. 
-- If necessary, the party rolls 1d6 to see if they've become lost.
-- Provided the party does not get lost, the **Warden** rolls on the [**Wilderness Events**](#wilderness-events) table.
+- If necessary, the party rolls **1d6** to see if they've become lost.
+- Provided they don't get lost, the party reaches the next **point** along their route. 
 
 #### Getting Lost
 - If the party gets lost, they may need to spend a **Wilderness Action** to recover their way. 
 - Maps and relevant backgrounds may negate the need for a roll, or decrease the chances of getting lost.
-- The **Warden** rolls on the [**Wilderness Events**](#wilderness-events) table.
 
 ### Explore
 - The party covers a large area, searching for hidden features, scouting ahead, or treading carefully.
-- The **Warden** rolls on the [**Wilderness Events**](#wilderness-events) table.
 - One Location or Feature is discovered.
 - The **Travel** action is still required to _leave_ the current area, even if it has been completely explored.
 
 ### Supply
 - The party gathers food and water.
-- The **Warden** rolls on the [**Wilderness Events**](#wilderness-events) table.
 - Characters can hunt, fish, or forage for food, each participant collecting 1d4 rations worth. 
 - A character with relevant foraging, hunting, or fishing experience increases the supplies **they** discover by one or two steps (i.e. 1d6 or 1d8).
 
 ### **Make Camp**
 - The party stops to set up camp in the wilds. Each party member (and their mounts) consume a ration.
 - A **Watch** rotation is set from each party member. At least 3 rotations are necessary to ensure that all party members can rest. A smaller party may need to risk sleeping unguarded, or switch off sleeping over multiple days (see [**Sleep**](#sleep)).
-- The **Warden** rolls on the [**Wilderness Events**](#wilderness-events) table.
 - Party members that were able to rest remove all of **Fatigue** from their inventory, and other conditions (if required).
  
 ## Tables

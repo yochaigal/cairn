@@ -14,7 +14,7 @@ search_exclude: true
 - On their **turn**, a character can move a distance equal to their torchlight's perimeter (about 40ft) and perform one **action**.   
 - The **Warden** should present obvious information about an area and its dangers freely and at no cost.
 
->> Although the term "dungeon" is used here, it can be exchanged for any dangerous locale (mansions, farmhouses, adventure site, etc).
+> Although the term "dungeon" is used here, it can be exchanged for any dangerous locale (mansions, farmhouses, adventure site, etc).
 
 ## Dungeon Exploration Cycle
 1. The **Warden** describes the party's surroundings. Any immediate dangers [**combat**](/cairn-srd/#rounds), **traps**, surprises, etc.) are resolved.
@@ -73,18 +73,17 @@ search_exclude: true
 | **6** | **Quiet**       | The party is left alone (and safe) for the time being.                                                    |
 
 ## Example
-A party of 3 player characters (**Leib**, **Konstin**, and **Gar**) have entered the first level of the forest ruins of **Ein Eyton**, once the home of the death-cult **Lunheuzo**. Each character has a torch, but only **Leib** has one lit. There are no light sources here beyond the Moon in the night sky.  
-The **Warden** reads the first room's description:  
+A party of 3 player characters (**Leib**, **Konstin**, and **Gar**) have entered the first level of the forest ruins of **Ein Eyton**, once the home of the death-cult **Lunheuzo**. Each character has a torch, but only **Leib** has one lit. There are no light sources here beyond the Moon in the night sky. The **Warden** reads the first room's description:  
 
->> ### The Courtyard
->> **Collapsed roof** (light from above streaming through). **Sandy floor** (chalky, glittery, lumpy). **Rubble** (mishapen, granite) is strewn about in a pile near the center. **Humanoid statue** (marble, full-sized, holding a bident) in the exact center.
+> ### The Courtyard
+> **Collapsed roof** (light from above streaming through). **Sandy floor** (chalky, glittery, lumpy). **Rubble** (mishapen, granite) is strewn about in a pile near the center. **Humanoid statue** (marble, full-sized, holding a bident) in the exact center.
 
->> &rarr; **Floor**:  A cursory investigation will reveal that the "sand" is actually pulverized bones.  
->> &rarr; **Rubble**: Pieces of very humanoid statues; very realistic. A red jewel glints wthin a tight stone fist.  
->> &rarr; **Statue**: The cult's Death Goddess, marred by time. One eye socket is empty, in the other is a red jewel.    
->> &rarr; **Removing the eye**: The statue comes to life with ferocity, slicing the bident in a 10ft arc around it. Contact with the bident turns the victim to stone.  
->> &rarr; **East Exit**: to **Storeroom**. Wooden (rotted), locked (rusted, iron).   
->> &rarr; **West Exit**: to **Offering Hall**. Stone archway, open tunnel.  
+> &rarr; **Floor**:  A cursory investigation will reveal that the "sand" is actually pulverized bones.  
+> &rarr; **Rubble**: Pieces of very humanoid statues; very realistic. A red jewel glints wthin a tight stone fist.  
+> &rarr; **Statue**: The cult's Death Goddess, marred by time. One eye socket is empty, in the other is a red jewel.    
+> &rarr; **Removing the eye**: The statue comes to life with ferocity, slicing the bident in a 10ft arc around it. Contact with the bident turns the victim to stone.  
+> &rarr; **East Exit**: to **Storeroom**. Wooden (rotted), locked (rusted, iron).   
+> &rarr; **West Exit**: to **Offering Hall**. Stone archway, open tunnel.  
 
 The **Warden** describes the room as "_A courtyard. Moonlight drifts through the collapsed roof from the night sky. The floor is sandy, chalk-white that sparkles in the moonlight. Rubble is piled in the center, near a statue of a woman holding a weapon, her face chipped. There is a closed wooden door on the **East** side, and an open archway into a dark tunnel to the **West**."_
 
@@ -97,7 +96,7 @@ The **Warden** describes the room as "_A courtyard. Moonlight drifts through the
 
 **Warden**: _"Alright. "**Leib**, the white sand is grainy and quite odd, clearly not from any beach 'round these parts. It is bleached white in color, and kicking your foot at a small lump in the ground reveals a half-decayed human skull. You realize the **sand** is actually bone!" Meanwhile, the **rubble** looks extremely heavy, and difficult to move."_
 
->> **The Warden then moves to describe another character's actions, as they are happening simultaneously.**
+> **The Warden then moves to describe another character's actions, as they are happening simultaneously.**
 
 **Warden**: _"**Konstin**, the **door** is locked, ancient, and partly rotted. It bears a rusted iron lock. What do you do now?"_
 
