@@ -48,8 +48,8 @@ search_exclude: true
 ## Dungeon Elements
 ### Light
 - Torches and other radial sources of light illuminate 40ft of dungeon, but beyond that only provides a dim outline of objects.
-- A torch can be lit 3 times before degrading. A lantern can be relit 6 times per oil can, but requires more slots in total.
-- Characters without a light source suffer from _panic_ until their situation is remedied. 
+- A torch can be lit 3 times before degrading. A lantern can be relit 6 times per oil can, but requires more inventory slots.
+- Characters without a light source may suffer from _panic_ until their situation is remedied. 
 
 ### Doors
 - Doors and entryways may be locked, stuck, moving or blocked entirely. Characters can try to force a door open (or wedge it shut) using available resources (spikes, glue), or through raw ability. 

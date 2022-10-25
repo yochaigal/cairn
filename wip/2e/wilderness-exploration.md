@@ -36,9 +36,9 @@ search_exclude: true
 - If the party skips the **Make Camp** action, they each add one **Fatigue** to their inventory, and are _deprived_.
 
 ### Light
-- Torches and other radial sources of light illuminate 40ft of dungeon, but beyond that only provides a dim outline of objects.
-- A torch can be lit 3 times before degrading. A lantern can be relit 6 times per oil can, but requires more slots in total.
-- Characters without a light source suffer from _panic_ until their situation is remedied. 
+- Torches and other radial sources of light illuminate 40ft ahead of the party, but beyond that only provides a dim outline of objects.
+- A torch can be lit 3 times before degrading. A lantern can be relit 6 times per oil can, but requires more inventory slots.
+- Characters without a light source may suffer from _panic_ until their situation is remedied. 
 
 ### Panic
 - A character that is surrounded by enemies, enveloped by darkness, or facing their greatest fears may experience _panic_. A **WIL** **save** is required to avoid losing control and becoming _panicked_. 
@@ -47,9 +47,8 @@ search_exclude: true
 
 ## Difficulty
 - An area's [**weather**](#weather-difficulty), [**terrain**](#terrain-difficulty), obstacles, [**night travel**](#night), and slow or injured party members can reduce travel speed or make travel impossible. 
-- The party may need to spend **Fatigue**, resources, tools or other resource in order to overcome an obstacle or difficulty.
-- Mounts, guides, and maps can increase the party's travel speed or overcome a terrain's difficulty.
-- An exhausted party can raise the difficulty of a terrain by one step (i.e. **Easy** becomes **Tough**), even during the day.
+- The party may need to spend **Fatigue**, resources, tools or other resource in order to maintain their travel speed. Mounts, guides, and maps can increase the party's travel speed or even overcome a terrain's difficulty.
+- An exhausted party raises the difficulty of a terrain by one step (i.e. **Easy** becomes **Tough**), even during the day.
 - Travelling at night _always_ increases the difficulty by one step (i.e. **Easy** terrain becomes **Tough**), and the **Warden** rolls twice on the [**Wilderness Events**](#wilderness-events) table.
 
 ### Terrain Difficulty
@@ -93,9 +92,9 @@ search_exclude: true
 - Characters can hunt, fish, or forage for food, each participant collecting 1d4 rations worth. 
 - A character with relevant foraging, hunting, or fishing experience increases the supplies **they** discover by one or two steps (i.e. 1d6 or 1d8).
 
-### **Make Camp**
+### Make Camp
 - The party stops to set up camp in the wilds. Each party member (and their mounts) consume a ration.
-- A **Watch** rotation is set from each party member. At least 3 rotations are necessary to ensure that all party members can rest. A smaller party may need to risk sleeping unguarded, or switch off sleeping over multiple days (see [**Sleep**](#sleep)).
+- A **lookout rotation** is set so that the party can sleep unmolested. At least 3 rotations are necessary to ensure that all party members can rest. A smaller party may need to risk sleeping unguarded, or switch off sleeping over multiple days (see [**Sleep**](#sleep)).
 - Party members that were able to rest remove all of **Fatigue** from their inventory, and other conditions (if required).
  
 ## Tables
