@@ -26,8 +26,10 @@ search_exclude: true
 ## Wilderness Exploration Cycle
 1. Each day, the **Warden** rolls on the [**Weather**](#weather) table for the appropriate season.
 2. The **Warden** explains how the current [**Difficulty**](#difficulty) affects the party's **travel speed**.
-3. The party plots or adjusts a given course towards their destination, each character choosing a single **Wilderness Action**
-4. The **Warden** narrates the results, and then the process is repeated from **1**. 
+3. The party plots or adjusts a given course towards their destination, each character choosing a single **Wilderness Action**.
+4. The **Warden** narrates the results, and then rolls on the [**Wilderness Events**](#wilderness-events) table. The party responds to the results.
+5. The **players** and the **Warden** record any loss of resources and new conditions (i.e. torch use, _deprivation_, etc). 
+6. The process is repeated, starting from step **1**. 
 
 ### Sleep
 - The last **watch** of the day is typically reserved for the [**Make Camp**](#make-camp) action.
@@ -45,11 +47,11 @@ search_exclude: true
 - A _panicked_ character has 0 **HP**, is always _surprised_, and all of their attacks are _impaired_.  
 
 ## Difficulty
-- An area's [**weather**](#weather-difficulty), [**terrain**](#terrain-difficulty), obstacles, and slow or injured party members can reduce travel speed or make travel impossible. 
+- An area's [**weather**](#weather-difficulty), [**terrain**](#terrain-difficulty), obstacles, [**night travel**](#night), and slow or injured party members can reduce travel speed or make travel impossible. 
 - The party may need to spend **Fatigue**, resources, tools or other resource in order to overcome an obstacle or difficulty.
 - Mounts, guides, and maps can increase the party's travel speed or overcome a terrain's difficulty.
-- Travelling at night _always_ increases the difficulty by one step (i.e. **Easy** terrain becomes **Tough**), and the **Warden** rolls twice on the [**Wilderness Events**](#wilderness-events) table.
 - An exhausted party can raise the difficulty of a terrain by one step (i.e. **Easy** becomes **Tough**), even during the day.
+- Travelling at night _always_ increases the difficulty by one step (i.e. **Easy** terrain becomes **Tough**), and the **Warden** rolls twice on the [**Wilderness Events**](#wilderness-events) table.
 
 ### Terrain Difficulty
 
@@ -76,29 +78,29 @@ search_exclude: true
 ### Travel
 - Travel begins. Obvious locations, features, and terrain of nearby areas are revealed according to their distance. 
 - If necessary, the party rolls 1d6 to see if they've become lost.
-- Provided the party does not get lost, the **Warden** rolls on the [**Wilderness Events**](#wilderness-events).
+- Provided the party does not get lost, the **Warden** rolls on the [**Wilderness Events**](#wilderness-events) table.
 
 #### Getting Lost
 - If the party gets lost, they may need to spend a **Wilderness Action** to recover their way. 
 - Maps and relevant backgrounds may negate the need for a roll, or decrease the chances of getting lost.
-- The **Warden** rolls on the [**Wilderness Events**](#wilderness-events).
+- The **Warden** rolls on the [**Wilderness Events**](#wilderness-events) table.
 
 ### Explore
 - The party covers a large area, searching for hidden features, scouting ahead, or treading carefully.
-- The **Warden** rolls on the [**Wilderness Events**](#wilderness-events).
+- The **Warden** rolls on the [**Wilderness Events**](#wilderness-events) table.
 - One Location or Feature is discovered.
 - The **Travel** action is still required to _leave_ the current area, even if it has been completely explored.
 
 ### Supply
 - The party gathers food and water.
-- The **Warden** rolls on the [**Wilderness Events**](#wilderness-events).
+- The **Warden** rolls on the [**Wilderness Events**](#wilderness-events) table.
 - Characters can hunt, fish, or forage for food, each participant collecting 1d4 rations worth. 
 - A character with relevant foraging, hunting, or fishing experience increases the supplies **they** discover by one or two steps (i.e. 1d6 or 1d8).
 
 ### **Make Camp**
 - The party stops to set up camp in the wilds. Each party member (and their mounts) consume a ration.
 - A **Watch** rotation is set from each party member. At least 3 rotations are necessary to ensure that all party members can rest. A smaller party may need to risk sleeping unguarded, or switch off sleeping over multiple days (see [**Sleep**](#sleep)).
-- The **Warden** rolls on the [**Wilderness Events**](#wilderness-events).
+- The **Warden** rolls on the [**Wilderness Events**](#wilderness-events) table.
 - Party members that were able to rest remove all of **Fatigue** from their inventory, and other conditions (if required).
  
 ## Tables
