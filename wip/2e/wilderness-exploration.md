@@ -12,12 +12,11 @@ search_exclude: true
 ## Watches
 - Each day, the **Warden** rolls on the [**Weather**](#weather) table for the appropriate season.
 - A day is divided into three **watches**, called _morning_, _afternoon_, and _night_. 
-- Each character can choose _one_ [**Wilderness Action**](#wilderness-actions) per **watch**. If the characters split up, each party is treated as an independent entity.
+- Each character can choose _one_ [**Wilderness Action**](#wilderness-actions) per **watch**. If the characters split up, each group is treated as an independent entity.
 
 ## Points
 - Potential destinations on a map are called **points**. One or more **watches** may be required to journey between two **points** on a map, depending on the travel **Difficulty**.
 - A party walking on roads or settled terrain can usually travel between two nearby **points** in a single **watch**.
-- The party can choose to travel during the night and rest during the day, but night travel is far slower and more treacherous!
 
 > ### Hexes
 > If using hexes, assume that the **Travel** action moves the party to an adjacent tile in one **watch** at _Normal_ **travel speed**, and that if they get lost they end up in an adjacent hex.
@@ -29,6 +28,10 @@ search_exclude: true
 4. The **Warden** narrates the results, and then rolls on the [**Wilderness Events**](#wilderness-events) table. The party responds to the results.
 5. The **players** and the **Warden** record any loss of resources and new conditions (i.e. torch use, _deprivation_, etc). 
 6. The process is repeated, starting from step **1**. 
+
+## Night
+- The party can choose to travel during the night and rest during the day, but night travel is far slower and more treacherous!
+- Travelling at night _always_ increases the difficulty by one step (i.e. **Easy** terrain becomes **Tough**), and the **Warden** rolls twice on the [**Wilderness Events**](#wilderness-events) table.
 
 ### Sleep
 - The last **watch** of the day is typically reserved for the [**Make Camp**](#make-camp) action.
@@ -49,7 +52,6 @@ search_exclude: true
 - An area's [**weather**](#weather-difficulty), [**terrain**](#terrain-difficulty), obstacles, [**night travel**](#night), and slow or injured party members can reduce travel speed or make travel impossible. 
 - The party may need to spend **Fatigue**, resources, tools or other resource in order to maintain their travel speed. Mounts, guides, and maps can increase the party's travel speed or even overcome a terrain's difficulty.
 - An exhausted party raises the difficulty of a terrain by one step (i.e. **Easy** becomes **Tough**), even during the day.
-- Travelling at night _always_ increases the difficulty by one step (i.e. **Easy** terrain becomes **Tough**), and the **Warden** rolls twice on the [**Wilderness Events**](#wilderness-events) table.
 
 ### Terrain Difficulty
 
@@ -95,7 +97,7 @@ search_exclude: true
 ### Make Camp
 - The party stops to set up camp in the wilds. Each party member (and their mounts) consume a ration.
 - A **lookout rotation** is set so that the party can sleep unmolested. At least 3 rotations are necessary to ensure that all party members can rest. A smaller party may need to risk sleeping unguarded, or switch off sleeping over multiple days (see [**Sleep**](#sleep)).
-- Party members that were able to rest remove all of **Fatigue** from their inventory, and other conditions (if required).
+- Party members that were able to rest remove all of **Fatigue** from their inventory.
  
 ## Tables
 
