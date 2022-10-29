@@ -41,5 +41,5 @@ grand_parent: WIP
 |5|**Magnesium Shavings**|A pouch containing d6 uses that will easily ignite and burn intensely.|
 |6|**Basic Alchemist's Kit**|A wooden chest filled with four corked glass vials and stand, a small bronze weight scale, pestle & mortar, stirring rods, a bottle of solvent, and a pouch of salt. Bulky.|
 
-## If you are the oldest character in the party, your whole group is in Debt is to....
+## If you are the oldest character in the party, your whole group is in Debt to....
 The **Order of the Merciful Balance**, a shadowy group of alchemists, scholars, and their occult followers. 
