@@ -43,11 +43,13 @@ search_exclude: true
 - Characters typically need to sleep each day. Anything beyond a minor interruption can negate or cancel the benefits of sleep.
 - If the party skips the **Make Camp** action, they each add one **Fatigue** to their inventory, and are _deprived_. Additionally, a sleep-deprived party raises the difficulty of a terrain by one step (i.e. **Easy** becomes **Tough**), even during the day.
 
-
 ### Light
 - Torches and other radial sources of light illuminate 40ft ahead of the party, but beyond that only provides a dim outline of objects.
-- A torch can be lit 3 times before degrading. A lantern can be relit 6 times per oil can, but requires more inventory slots.
 - Characters without a light source may suffer from _panic_ until their situation is remedied. 
+- Environmental conditions (sudden gusts of wind, dust, water, etc.) can easily blow out a torch.
+
+> ### Light Sources
+> A torch can be lit 3 times before degrading. A lantern can be relit 6 times per oil can, but requires more inventory slots.
 
 ### Panic
 - A character that is surrounded by enemies, enveloped by darkness, or facing their greatest fears may experience _panic_. A **WIL** **save** is required to avoid losing control and becoming _panicked_. 
