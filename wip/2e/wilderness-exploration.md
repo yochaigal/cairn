@@ -20,13 +20,13 @@ search_exclude: true
 ## Points
 - Potential destinations on a map are called **points**. 
 - One or more **watches** may be required to journey between two **points** on a map, depending on the travel **Difficulty**.
-- A party walking on roads or settled terrain can usually travel between two nearby **points** in a single **watch**.
+- The party has a rough idea of the challenges involved to get to their destination, but rarely any specifics. 
 
 > ### Hexes
-> If using hexes, assume that the **Travel** action moves the party to an adjacent tile in one **watch** at _Normal_ **travel speed**, and that if they [**get lost**](#getting-lost) the party ends up in an adjacent hex.
+> When using a hex map, assume that the **Travel** action moves the party to an adjacent tile in one **watch** at _Normal_ **travel speed**, and that if they [**get lost**](#getting-lost) the party ends up in an adjacent hex.
 
 ## Wilderness Exploration Cycle
-1. The **Warden** describes the current **point**, **area** or **region** on the map.
+1. The **Warden** describes the current **point** or **region** on the map.
 2. The **Warden** explains how the current [**Difficulty**](#difficulty) affects the party's **travel speed**.
 3. The party plots or adjusts a given course towards their destination, each character choosing a single **Wilderness Action**.
 4. The **Warden** narrates the results, and then rolls on the [**Wilderness Events**](#wilderness-events) table. The party responds to the results.
@@ -41,7 +41,7 @@ search_exclude: true
 ### Sleep
 - The last **watch** of the day is typically reserved for the [**Make Camp**](#make-camp) action.
 - Characters typically need to sleep each day. Anything beyond a minor interruption can negate or cancel the benefits of sleep.
-- If the party skips the **Make Camp** action, they each add one **Fatigue** to their inventory, and are _deprived_. Additionally, a sleep-deprived party raises the difficulty of a terrain by one step (i.e. **Easy** becomes **Tough**), even during the day.
+- If the party skips the **Make Camp** action, they each add one **Fatigue** to their inventory, and are _deprived_. Additionally, a sleep-deprived party raises the difficulty of a terrain by one step (i.e. **Easy** becomes **Tough**).
 
 ### Light
 - Torches and other radial sources of light illuminate 40ft ahead of the party, but beyond that only provides a dim outline of objects.
