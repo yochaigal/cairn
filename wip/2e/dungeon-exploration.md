@@ -11,7 +11,7 @@ search_exclude: true
 
 ## Turns
 - The dungeon exploration **cycle** is divided into a series of **turns**, **actions**, and their consequences. 
-- On their **turn**, a character can move a distance equal to their torchlight's perimeter (about 40ft) and perform one **action**.   
+- On their **turn**, a character can move a distance equal to their torchlight's perimeter (about 40ft) and perform one **action**. They can spend their **action** to move an incredible distance, or at great speed.
 - The **Warden** should present obvious information about an area and its dangers freely and at no cost.
 
 > Although the term "dungeon" is used here, it can be exchanged for any dangerous locale (mansions, farmhouses, adventure site, etc).
