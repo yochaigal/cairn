@@ -66,8 +66,8 @@ search_exclude: true
 |                               |                |                     |                          |                                                               |
 | ----------------------------- | -------------- | ------------------- | ------------------------ | ------------------------------------------------------------- |
 | **Terrain**                   | **Travel Difficulty** | **Travel Duration** | **Odds of Getting Lost** | **Examples**                     |
-| **Roads, grasslands, plains** | **Easy**       | _Normal_            | None      | _Flooding, mud, broken equipment, bandits_       |
-| **Forests, mountains, hills** | **Tough**      | _Doubled_           | 2-in-6    | _Wild animals, falling rocks, unsafe shelter, traps, erratic climate_    |
+| **Roads, grasslands, plains** | **Easy**       | _Normal_            | None      | _Smooth roads, safe areas for rest, fellow travellers_     |
+| **Forests, mountains, hills** | **Tough**      | _Doubled_           | 2-in-6    | _Wild animals, flooding, broken equipment, falling rocks, unsafe shelters, hunter's traps_    |
 | **Deserts, jungle, swamp**    | **Perilous**   | _Tripled_           | 3-in-6    | _Quicksand, sucking mud, choking vines, unclean water, poisonous plants and animals, poor navigation_ |
 
 ### Weather Difficulty
@@ -98,15 +98,15 @@ search_exclude: true
 - The **Travel** action is still required to _leave_ the current area, even if it has been completely explored.
 
 ### Supply
-- The party gathers food and water.
-- Characters can hunt, fish, or forage for food, each participant collecting 1d4 rations worth. 
-- A character with relevant foraging, hunting, or fishing experience increases the supplies **they** discover by one or two steps (i.e. 1d6 or 1d8).
+- Characters can hunt, fish, or forage for food, each participant collecting 1d4 rations worth (maximum 3 qty per slot). 
+- A character with relevant experience or equipment increases the supplies discovered by one or two steps (i.e. 1d4 becomes 1d6, etc.).
+- The party may encounter homes and small villages, spending a **watch** to fully resupply. 
 
 ### Make Camp
 - The party stops to set up camp in the wilds. Each party member (and their mounts) consume a ration.
 - A **lookout rotation** is set so that the party can sleep unmolested. At least 3 rotations are necessary to ensure that all party members can rest. A smaller party may need to risk sleeping unguarded, or switch off sleeping over multiple days (see [**Sleep**](#sleep)).
 - Party members that were able to rest remove all of **Fatigue** from their inventory.
- 
+
 ## Tables
 
 ### Weather
@@ -143,7 +143,7 @@ The forest (at **3**) is separated from the party's present location (the villag
 
 The **Warden** explains that travelling on the forgiving roads from the village to the hills will require only a single **watch**, but that it will take three _additional_ **watches** for the party to complete their journey to the forest, assuming they spend one **watch** sleeping. 
 
-The party accepts this route, plotting their route: one **watch** to reach the hills (_dawn_), one **watch** partway through the hills (_midday_), then another **watch** sleeping (the **Making Camp** action) at (_dusk_). The party would spend the following day's _dawn_ **watch** travelling to their final destination. On the first day of travel, the **Warden** rolls a 3 on the **Weather** table (**Fall**: _Cool and foggy_). 
+The party accepts this route, plotting their route: one **watch** to reach the hills (_morning_), one **watch** partway through the hills (_afternoonh_), then another **watch** sleeping (the **Making Camp** action) at (_night_). The party would spend the following day's _morning_ **watch** travelling to their final destination. On the first day of travel, the **Warden** rolls a 3 on the **Weather** table (**Fall**: _Cool and foggy_). 
 
 For their first **watch**, the party chooses the **Travel** action, taking the road through the farmlands and to the hills. The terrain, weather, and current party status indicates that the **Difficulty** level is **Easy**. The party is able to travel with no forseeable problems, so the **Warden** rolls on the **Events** table. The result is an **Encounter**. The **Warden** explains that the party crosses paths with an NPC travelling South, who gives them a piece of advice: "_Avoid the hills, there are bandits about_!" The party notes this and moves on, arriving in the **Range of Deshe** after lunchtime. They rest near a streambed, stepping off the dusty road for the first time.
 
@@ -155,7 +155,7 @@ The **Warden** rolls on the **Events** table, and the result is **Environment**.
 
 As night descends, the party finds a large, rocky, outcropping that would work as a suitable shelter. There is no water nearby, but this location should be sufficient for their current needs. They agree to **Make Camp** as their final **watch**, choosing a **Watch Rotation** that should allow all party members a decent rest, and a chance to shed any **Fatigue** they have. Each party member consumes a ration, and the **Warden** rolls on the **Events** table. The result is a **Sign**. The **Warden** describes the flickering ghost of a torchlight in the distance. Could it be another party, or perhaps bandits, or even a dangerous creature on the prowl?
 
-The party rests, erasing their **Fatigue**. They mark their current location on the map, noting that should everything go well the following day, they should only have to spend one **watch** to arrive at the ruins of **Ein Eyton** before _midday_.
+The party rests, erasing their **Fatigue**. They mark their current location on the map, noting that should everything go well the following day, they should only have to spend one **watch** to arrive at the ruins of **Ein Eyton** by the _afternoon_.
 
 ## Credits
 
