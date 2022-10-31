@@ -57,7 +57,7 @@ search_exclude: true
 - A _panicked_ character has 0 **HP**, is always _surprised_, and all of their attacks are _impaired_.  
 
 ## Difficulty
-- An area's [**weather**](#weather-difficulty), [**terrain**](#terrain-difficulty), obstacles, [**night travel**](#night), and slow or injured party members can reduce travel speed or make travel impossible. 
+- An area's [**weather**](#weather-difficulty), [**terrain**](#terrain-difficulty), obstacles, [**night travel**](#night), and slow or injured party members can reduce travel speed or make travel impossible. Characters that are _deprived_ always slow down the entire party. 
 - The party may need to spend **Fatigue**, resources, tools or other resource in order to maintain their travel speed. 
 - Mounts, guides, and maps can increase the party's travel speed or even overcome a terrain's difficulty.
 
