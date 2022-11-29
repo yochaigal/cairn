@@ -1,9 +1,11 @@
 ---
 layout: default
 title: Spellbook Personalities
-parent: Hacks
+parent: 2e
+grand_parent: WIP
 nav_order: 8
 nav_exclude: true
+redirect_from: /hacks/spellbook-personalities/
 ---
 
 
