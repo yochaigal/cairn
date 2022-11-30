@@ -7,19 +7,38 @@ nav_exclude: true
 search_exclude: true
 ---
 
-# Summary
+# Setting
 
-- Maps have **Setting Details** **Terrain,** and **Points**.
-- In general, play takes place in either the **Wilds** or the **Provinces**; the **Underworld** appears underground and can be placed anywhere.
+### Summary
+- Settings have a **Theme**, **Scale**, **Terrain,** and **Details**. 
+- Distance is measured in [**Watches**](https://cairnrpg.com/wip/2e/wilderness-exploration/#watches).
+- In general, play takes place in either the **Wilds** or the **Provinces**. 
+- The **Underworld** is typically hidden or underground, and can be placed anywhere.
 
-# Theme
-Established facts about the setting.  
+## Theme
+Established facts about the setting. Some questions to ask: 
+- How is magic in this world?
+- What level of technology is it?
+- How does religion function?
+- Who are the PCs in the setting? What is their relative position with respect to those in power?
+- What races & backgrounds exist, and are they playable by PCs?
+- What linguistic and cultural flavor exists in the setting?
+
+### Example Theme
 - Low-magic (magic is known but rarely understood)
-- Plain-English proper nouns
-- Technologically speaking set somewhere between 13th and 14th century (gunpowder, longbows, some agricultural innovations, pre-printing press)
-- PCs are Human-only
+- Technology is 13th or 14th century (gunpowder, longbows, some agricultural innovations, pre-printing press)
+- Religion exists, but is murky and unprovable. Deities do not necessarily walk the lands, though some believe they do.
+- PCs are Human-only, and are neutral towards the centers of power.
+- Names & proper nouns are largely plain English. Themes are inspired by the British Isles and Eastern Europe.
 
-## Points
+### Province Scale
+- Small: A single **Province** centered around a large town, with **details** no more than 3 standard **Watches** away.
+- Medium: 2-4 **Provinces** centered around a medium-sized town or small city, with **details** no more than 6 standard **Watches** away. 
+- Large: 5-10 **Provinces** centered around a large city, with **details** no more than 12 standard **Watches** away. 
+
+## Details
+- **Details** act as [**Points**](https://cairnrpg.com/wip/2e/wilderness-exploration/#points) for the purposes of [**Wilderness Exploration**](https://cairnrpg.com/wip/2e/wilderness-exploration).
+
 ### The Wilds
 - Ruin/Labyrinth/Derelict
 - Sanctuary/Oasis/Refuge
@@ -46,7 +65,3 @@ Established facts about the setting.
 - **Roads, grasslands, plains**
 - **Forests, mountains, hills** 
 - **Deserts, jungle, swamp**  
-
-## Pathcrawls
-### Paths
-- Paths always lead to something interesting
