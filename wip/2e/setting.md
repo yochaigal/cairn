@@ -12,26 +12,34 @@ search_exclude: true
 - Maps have **Setting Details** **Terrain,** and **Points**.
 - In general, play takes place in either the **Wilds** or the **Provinces**; the **Underworld** appears underground and can be placed anywhere.
 
-# Setting
-Establish facts about the setting.  
+# Theme
+Established facts about the setting.  
 - Low-magic (magic is known but rarely understood)
 - Plain-English proper nouns
 - Technologically speaking set somewhere between 13th and 14th century (gunpowder, longbows, some agricultural innovations, pre-printing press)
-- Humans-only for PCs (at least, as a default)
+- PCs are Human-only
 
 ## Points
 ### The Wilds
-- Ruins, Sanctuaries, Outposts
+- Ruin/Labyrinth/Derelict
+- Sanctuary/Oasis/Refuge
+- Outpost/Keep/Fort/Garrison
 
 ### The Provinces
-- Villages, Towns, Cities
+- Village
+- Town
+- City
 
 ### The Underworld
 - Can be placed anywhere
-- Dungeons, Caverns, Lairs
+- Dungeon
+- Cavern
+- Lair
 
 ### Landmarks
 - Can be placed anywhere
+
+### Factions
 
 ## Generating A Setting
 ### Terrain
