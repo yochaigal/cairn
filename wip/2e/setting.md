@@ -98,9 +98,9 @@ Established facts about the setting. Some questions to ask:
 - **Seneschals**: **The Whisper**, stats as [banshee](https://cairnrpg.com/resources/monsters/banshee/), and **Lord Alexey**, stas as [buccaneer](https://cairnrpg.com/resources/monsters/buccaneer/)
 
 ##### Agenda
-- Deploy newly-garrisoned troops to all roads leading into the Capital.
-- Uncover agents of **The Will** and torturing information from them as to the whereabouts of the **God-thumb**.  
-- Crush the **The Will** and take the **God-thumb**.
+- Maintain the stability of the realm by crushing rising threats from other factions. 
+- Deploy newly-garrisoned troops to all roads leading into the Capital, to uncover enemies of the realm through torture and force. 
+- Crush the **The Will** and any other enemies threatening the realm. 
 
 #### The Will
 ##### Powers
