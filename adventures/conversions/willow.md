@@ -107,7 +107,7 @@ HP 5, 10 STR, 10 DEX, 14 WIL, Necrotic Sword (1d8).
 
 ## Overland Monsters (p. 31)
 
-### Rat Folk, 1 armor, 4 HP, 8 STR, 10 DEX, 8 WIL, Weapon (1d6) or Bite (1d6)
+### Rat Folk, 4 HP, 1 Armor 8 STR, 10 DEX, 8 WIL, weapon (1d6) or bite (1d8)
 - Enemies of the Crow folk, Rat folk live in tunnels under the forest, and come out to scavage at night.
 - Immune to disease
 - Darkvision

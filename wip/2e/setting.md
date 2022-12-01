@@ -30,17 +30,9 @@ Established facts about the setting. Some questions to ask:
 - Names & proper nouns are largely plain English. Themes are inspired by the British Isles, Germany, and Eastern Europe.
 
 ### Domain Scale
-#### Small
-- A single **Province** whose central hub is a large village. 
-- The distance between a settled **Detail** and the central hub is no more than _eight_ **Travel Watches** away.  
-
-#### Medium
-- 2-4 **Provinces** who share a central hub (typically a large town).
-- The distance between a settled **Detail** and the central hub is no more than _sixteen_ **Travel Watches** away. 
-
-#### Large
-- 5-10 **Provinces** who share a central hub (typically a large city). 
-- The distance between a settled **Detail** and the central hub is no more than _twenty-four_ **Travel Watches** away. 
+- **Small**: A single **Province** whose central hub is a large village.  The distance between a settled **Detail** and the central hub is no more than _eight_ **Travel Watches** away.  
+- **Medium**: 2-4 **Provinces** who share a central hub (typically a large town). The distance between a settled **Detail** and the central hub is no more than _sixteen_ **Travel Watches** away. 
+- **Large**: 5-10 **Provinces** who share a central hub (typically a large city). - The distance between a settled **Detail** and the central hub is no more than _twenty-four_ **Travel Watches** away. 
 
 ## Details
 - **Details** act as [**Points**](https://cairnrpg.com/wip/2e/wilderness-exploration/#points) for the purposes of [**Wilderness Exploration**](https://cairnrpg.com/wip/2e/wilderness-exploration).
@@ -66,38 +58,58 @@ Established facts about the setting. Some questions to ask:
 
 ## Factions
 - Factions rule over one or more **Details**, or even an entire **Province**. Up to 3 factions per **Province**.
-- Factions have **Goals**, and **Powers** to help acheive them. A faction's powers reflect its influence on the world, and its ability to achieve its goals. 
-- Each faction has a powerful ruler (Lord, Abbot, Warlord, Noble, Zealot), represented by individuals (Knights, Priests, Warriors, Seneschal, Cultist).
+- Factions have **Agendas** as well as **Powers** to help acheive them. A faction's powers reflect its influence on the world, and its ability to achieve its goals. 
+- Each faction has a powerful ruler (Lord, Abbot, Warlord, Noble, Zealot), represented by one or more **Seneschals** (Knights, Priests, Warriors, Cultist).
 
 ### Faction Goals
-- A faction should have a clear goal, typically completed in three steps. 
-- Factions grow their power by completing goals, which in turn accelerates the completion of their goals.
+- Factions have clear goals, typically completed in 2-4 steps. 
+- Factions grow their **Power** by completing goals, which in turn accelerates the completion of their goals.
 - The **domain** map should reflect the impact of goals being completed or interrupted. If the PCs do nothing, the goal succeeds automatically.
 
 ### Example Factions
 
 #### Earl of White
-- Fealty of the plains villages
-- Stolen heirlooms (to help control the under-folk)
+##### Powers
+- Fealty of the plains villages (a detachment, stats as [Bandits](https://cairnrpg.com/resources/monsters/bandit/))
+- Control of significant food stores.
+- **Seneschal**: Personal Chamberlain, stats as [Brigand](https://cairnrpg.com/resources/monsters/brigand/)
 
-##### Goals
-- Hire under-folk to raid nearby villages, leaving tracks back to the **Swift Mines**.
-- Bait & assassinate **Lord Alexey**, whose family owns the mines.  
-- Buy the mines at a steep discount and reap the rewards. 
+##### Agenda
+- Promise this season's crop-yield to the  **Under-folk**. In exchange they will raid nearby villages.
+- Bait & assassinate **Lord Alexey**, whose family owns the **Swift Mines**.  
+- Marry the widow **Alexey** and inherit the mines, or buy them at a steep discount.
+
+#### Under-folk of **Swift Mines**
+##### Powers
+- 2d10+10 ratlike **Under-folk** residing peacefully in the **Swift Mines**, stats as [Kobold](https://cairnrpg.com/resources/monsters/kobold/).
+- The **God-thumb**, which provides warmth and safety for the colony. 
+- **Seneschal**: **Ka-ro**, stats as [Ettin](https://cairnrpg.com/resources/monsters/ettin/).
+
+##### Agenda
+- Protect the **God-thumb** at all costs.
+- Find new sources of food for the coming winter. 
 
 #### The Potentate
-- Hundreds of soldiers
-- Vast wealth
-- Control of all roads stemming from the capital
+##### Powers
+- Anonymity: The ruling council speaks only through an anointed subject, **The Whisper**.  
+- Information: There is little the Potentate's ubiquitous spies do not know.   
+- As the ruling faction over multiple **Provinces**, detachments of soldiers can be summoned from the villages very quickly.
+- **Seneschals**: **The Whisper**, stats as [banshee](https://cairnrpg.com/resources/monsters/banshee/), and **Lord Alexey**, stas as [buccaneer](https://cairnrpg.com/resources/monsters/buccaneer/)
 
-##### Goals
-- Increase the number of soldiers at gateways throughout the province
-- Uncover [Zealot] spies, torturing information from them
-- Crush the [Zealot] and take the [item of power], eventually becoming corrupted by it.
+##### Agenda
+- Deploy newly-garrisoned troops to all roads leading into the Capital.
+- Uncover agents of **The Will** and torturing information from them as to the whereabouts of the **God-thumb**.  
+- Crush the **The Will** and take the **God-thumb**.
 
-#### [Zealot]
+#### The Will
+##### Powers
+- 2d10+10 [Acolytes]https://cairnrpg.com/resources/monsters/acolyte)).
+- **Seneschal**: **Arjen Vol Sonn**, stats as [Lich](https://cairnrpg.com/resources/monsters/lich/).
 
-##### Goals
+##### Agenda
+- Send spies throughout the **Provinces** in search of the **God-thumb**.
+- Steal the **God-thumb**, and command the **Under-folk** to overwhelm the capital and defeat the **Potentate**.
+- Use the **God-thumb** to restore **Fria The Empty**, then rule the **Provinces**.
 
 ## Generating A Setting
 ### Terrain
