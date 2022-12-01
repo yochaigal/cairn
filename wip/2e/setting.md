@@ -10,7 +10,8 @@ search_exclude: true
 # Setting
 
 ### Summary
-- A **Domain** has a **Theme**, **Scale**, **Factions**, **Terrain,** and **Details**. 
+- A setting has a **Theme**, **Scale**, **Factions**, **Terrain,** and **Details**. 
+- A **Province** is a single, traversable region within a setting, typically ruled by a single **Faction**. A **Domain** is one or more joined **Provinces**.
 - Distance is measured in [**Travel Watches**](https://cairnrpg.com/wip/2e/wilderness-exploration/#travel), assuming that the party travels by foot and on maintained roads.
 
 ## Theme
@@ -57,9 +58,9 @@ Established facts about the setting. Some questions to ask:
 - Can be placed anywhere
 
 ## Factions
-- Factions rule over one or more **Details**, or even an entire **Province**. Up to 3 factions per **Province**.
+- Factions rule over one or more **Details**, an entire **Province**, or even a **Domain**. Up to 3 factions per **Province**.
 - Factions have **Agendas** as well as **Powers** to help acheive them. A faction's powers reflect its influence on the world, and its ability to achieve its goals. 
-- Each faction has a powerful ruler (Lord, Abbot, Warlord, Noble, Zealot), represented by one or more **Seneschals** (Knights, Priests, Warriors, Cultist).
+- Each faction has a powerful ruler (Lord, Abbot, Warlord, Noble, Zealot), but most of the time PCs will be dealing with their **Seneschals**. 
 
 ### Faction Goals
 - Factions have clear goals, typically completed in 2-4 steps. 
@@ -70,7 +71,7 @@ Established facts about the setting. Some questions to ask:
 
 #### Earl of White
 ##### Powers
-- Fealty of the plains villages (a detachment, stats as [Bandits](https://cairnrpg.com/resources/monsters/bandit/))
+- Fealty of the plains villages and their farms (as detachment, stats as [Bandits](https://cairnrpg.com/resources/monsters/bandit/))
 - Control of significant food stores.
 - **Seneschal**: Personal Chamberlain, stats as [Brigand](https://cairnrpg.com/resources/monsters/brigand/)
 
@@ -91,8 +92,8 @@ Established facts about the setting. Some questions to ask:
 
 #### The Potentate
 ##### Powers
-- Anonymity: The ruling council speaks only through an anointed subject, **The Whisper**.  
-- Information: There is little the Potentate's ubiquitous spies do not know.   
+- **Anonymity**: The ruling council speaks only through an anointed subject, **The Whisper**.  
+- **Information**: There is little the Potentate's ubiquitous spies do not know.   
 - As the ruling faction over multiple **Provinces**, detachments of soldiers can be summoned from the villages very quickly.
 - **Seneschals**: **The Whisper**, stats as [banshee](https://cairnrpg.com/resources/monsters/banshee/), and **Lord Alexey**, stas as [buccaneer](https://cairnrpg.com/resources/monsters/buccaneer/)
 
@@ -103,7 +104,7 @@ Established facts about the setting. Some questions to ask:
 
 #### The Will
 ##### Powers
-- 2d10+10 [Acolytes]https://cairnrpg.com/resources/monsters/acolyte)).
+- 2d10+10 [Acolytes](https://cairnrpg.com/resources/monsters/acolyte).
 - **Seneschal**: **Arjen Vol Sonn**, stats as [Lich](https://cairnrpg.com/resources/monsters/lich/).
 - **The Springhouse**, an abandoned keep once used by ancestors of the **Earl of White**, who used it to imprison and torture their political enemies. It is well-fortified and contains a small complex of jails beneath it. 
 
