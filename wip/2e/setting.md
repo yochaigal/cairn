@@ -105,6 +105,7 @@ Established facts about the setting. Some questions to ask:
 ##### Powers
 - 2d10+10 [Acolytes]https://cairnrpg.com/resources/monsters/acolyte)).
 - **Seneschal**: **Arjen Vol Sonn**, stats as [Lich](https://cairnrpg.com/resources/monsters/lich/).
+- **The Springhouse**, an abandoned keep once used by ancestors of the **Earl of White**, who used it to imprison and torture their political enemies. It is well-fortified and contains a small complex of jails beneath it. 
 
 ##### Agenda
 - Send spies throughout the **Provinces** in search of the **God-thumb**.
