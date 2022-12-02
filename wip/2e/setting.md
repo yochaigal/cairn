@@ -62,18 +62,18 @@ Established facts about the setting. Some questions to ask:
 - The **Domain** map should reflect the impact of goals being completed or interrupted. Factions will work to achieve their goals independently.
 - Each faction has a powerful ruler (Lord, Abbot, Warlord, Noble, Zealot), but most of the time PCs will be dealing with their **Seneschals**. 
 
-### Agendas & Power
-- Factions have **Agendas** (typically 3-4 steps) as well as **Powers** to help acheive them. 
-- A faction's **Power** reflect its influence, resources, wealth, and special features. 
-- Factions grow their **Power** by completing goals, which in turn accelerates the completion of their **Agenda**.
+### Agendas & Resources
+- Factions have **Agendas** (typically 3-4 steps) as well as **Resources** to help acheive them. 
+- A faction's **Resources** reflect its influence, resources, wealth, and special features. 
+- Factions grows their **Resources** by completing goals, which in turn accelerates the completion of their **Agenda**.
 
 ### Example Factions
 
 #### Earl of White
-##### Power
-- Fealty of the plains villages and their farms (as detachment, stats as [Bandits](https://cairnrpg.com/resources/monsters/bandit/))
+##### Resources
+- Fealty of the plains villages and their farms (as detachment, stats as [Bandits](https://cairnrpg.com/resources/monsters/bandit/)).
 - Control of significant food stores.
-- **Seneschal**: Personal Chamberlain, stats as [Brigand](https://cairnrpg.com/resources/monsters/brigand/)
+- **Seneschal**: Personal Chamberlain, stats as [Brigand](https://cairnrpg.com/resources/monsters/brigand/).
 
 ##### Agenda
 - Promise this season's crop-yield to the  **Under-folk**. In exchange they will raid nearby villages.
@@ -81,7 +81,7 @@ Established facts about the setting. Some questions to ask:
 - Marry the widow **Alexey** and inherit the mines, or buy them at a steep discount.
 
 #### Under-folk of **Swift Mines**
-##### Powers
+##### Resources
 - 2d10+10 ratlike **Under-folk** residing peacefully in the **Swift Mines**, stats as [Kobold](https://cairnrpg.com/resources/monsters/kobold/).
 - The **God-thumb**, which provides warmth and safety for the colony. 
 - **Seneschal**: **Ka-ro**, stats as [Ettin](https://cairnrpg.com/resources/monsters/ettin/).
@@ -91,7 +91,7 @@ Established facts about the setting. Some questions to ask:
 - Find new sources of food for the coming winter. 
 
 #### The Potentate
-##### Powers
+##### Resources
 - **Anonymity**: The ruling council speaks only through an anointed subject, **The Whisper**.  
 - **Information**: There is little the Potentate's ubiquitous spies do not know.   
 - As the ruling faction over multiple **Provinces**, detachments of soldiers can be summoned from the villages very quickly.
@@ -103,7 +103,7 @@ Established facts about the setting. Some questions to ask:
 - Crush the **The Will** and any other enemies threatening the realm. 
 
 #### The Will
-##### Powers
+##### Resources
 - 2d10+10 [Acolytes](https://cairnrpg.com/resources/monsters/acolyte).
 - **Seneschal**: **Arjen Vol Sonn**, stats as [Lich](https://cairnrpg.com/resources/monsters/lich/).
 - **The Springhouse**, an abandoned keep once used by ancestors of the **Earl of White**, who used it to imprison and torture their political enemies. It is well-fortified and contains a small complex of jails beneath it. 
