@@ -58,14 +58,9 @@ Established facts about the setting. Some questions to ask:
 - Can be placed anywhere
 
 ## Factions
-- Factions rule over one or more **Details**, an entire **Province**, or even a **Domain**. Up to 3 factions per **Province**.
-- Factions have **Agendas** as well as **Powers** to help acheive them. A faction's powers reflect its influence on the world, and its ability to achieve its goals. 
+- Factions rule over one or more **Details**, an entire **Province**, or even a **Domain**. The **Domain** map should reflect the impact of goals being completed or interrupted. If the PCs do nothing, the goal succeeds automatically.
+- Factions have **Agendas** (typically 3-4 steps) as well as **Powers** to help acheive them. A faction's **Powers** reflect its influence on the world, and its ability to achieve its goals. Factions grow their **Power** by completing goals, which in turn accelerates the completion of their **Agenda**.
 - Each faction has a powerful ruler (Lord, Abbot, Warlord, Noble, Zealot), but most of the time PCs will be dealing with their **Seneschals**. 
-
-### Faction Goals
-- Factions have clear goals, typically completed in 2-4 steps. 
-- Factions grow their **Power** by completing goals, which in turn accelerates the completion of their goals.
-- The **domain** map should reflect the impact of goals being completed or interrupted. If the PCs do nothing, the goal succeeds automatically.
 
 ### Example Factions
 
