@@ -5,9 +5,8 @@ grand_parent: Adventures
 title: Challenge of the Frog Idol
 ---
 
-Get the original [here](https://rpgcharacters.files.wordpress.com/2011/06/dyson-logos-challenge-of-the-frog-idol.pdf)!
-
-Conversion by Sam Wallace
+- Get the original [here](https://rpgcharacters.files.wordpress.com/2011/06/dyson-logos-challenge-of-the-frog-idol.pdf)!
+- Conversion by Sam Wallace
 
 # Monsters
 
