@@ -10,9 +10,9 @@ parent: Submissions
 Welcome! The following guide will help folks interested in submitting Cairn content to the website. Files are written in Markdown, and submitted through git (the preferred method, see below). However, if this all seems a bit too technical, that's OK! Join our [Discord server](/discord-server) and ask for help, or even send Yochai a direct message with your work and he'll update it for the website. Formatting content does take some work, but in the end we are all better for it!
 
 ## Markdown
-The Cairn site is composed of many text files that use the "Markdown" syntax. To create a page on the website, you need to create a file ending in .md and fill it with the words you want to display. GitHub handles the rest: what color is used in different webpage elements, how the text and menus are laid out, and various other small things. This allows you to focus on the writing and words.
+Markdown is a syntax that uses entirely text characters in order to do fancy formatting. For example, if you want to write something in bold text, you put extra characters aroun the words to tell Markdown what should be bolded (e.g. `**bold**` becomes **bold**). Follow [this guide](https://www.markdownguide.org/tools/jekyll/) for proper Markdown formatting. 
 
-Markdown is a syntax that uses entirely text characters in order to do fancy formatting. That means if you want to write something, for example, in bold, you put extra characters in your words to tell Markdown what should be bolded (in particular, `**bold**` becomes **bold**). Follow [this guide](https://www.markdownguide.org/tools/jekyll/) for proper Markdown formatting. 
+To create a page on the Cairn website, you need to create a text file with your content, written in the Markdown format and ending in the *.md suffix. GitHub then handles the rest!
 
 ### Creating a file in markdown
  - Create a file with a .md extension using your favorite text editor. While programs like Microsoft Notepad and TextEdit on MacOS get the job done, there are editors out there that make writing markdown a breeze. An example is [GhostWriter](https://ghostwriter.kde.org/), [Notepad++](https://notepad-plus-plus.org/downloads/) on Windows and [TextMate](https://macromates.com/) are good options. 
