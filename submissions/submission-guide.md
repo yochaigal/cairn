@@ -23,11 +23,12 @@ Markdown is a syntax that uses entirely text characters in order to do fancy for
 ### Using Github
 
  - First, you need to create a GitHub account and 'fork' the repo. See [fork this](/hacks/fork-this/), and this [GitHub documentation](https://docs.github.com/en/get-started/quickstart/fork-a-repo) for specific instructions and examples.
-   - You have now created a version of the website files that is entirely your own. It's based on the original set of website files (in GitHub terms, the 'repository'), but the website does not look at your copy of the files at all. This gives you complete freedom to play around with edits before they get pushed to the main website.
- - If you would like to work on the files from your local computer, you will need ot install [git](https://git-scm.com/downloads).
-   - If you like editing files through installed programs, rather than in a web browser, this allows you to download and upload files easily to GitHub and have your method of choice for writing the webpages.
+> **You have now created a version of the website files that is entirely your own.** It's based on the original set of website files (in GitHub terms, the 'repository'), but the website does not look at your copy of the files at all. This gives you complete freedom to play around with edits before they get pushed to the main website.
+- If you would like to work on the files from your local computer, you will need ot install [git](https://git-scm.com/downloads).
+> If you like editing files through installed programs, rather than in a web browser, this allows you to download and upload files easily to GitHub and have your method of choice for writing the webpages.
  - Clone the repository to your own computer. See [here](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-clone) for a tutorial.
-   - Should you want to edit the files directly on your computer, this step does the mass-downloading of files onto your computer. *Note:* This creates yet another version of the files on your computer, different from the repository you forked. 
+- Should you want to edit the files directly on your computer, this step does the mass-downloading of files onto your computer. 
+> This creates yet another version of the files on your computer, different from the repository you forked. 
 
 ### Folders
 
@@ -42,11 +43,11 @@ Files should be placed in the following locations:
 The general workflow is to write files on your computer to your local copy of the website, then submit the changes back to the original website files.
 
  - Using Git, [commit](https://www.atlassian.com/git/tutorials/saving-changes/git-commit) your changes to your repository.
-   - What happened here? You added files and told git about changes to files you modified.
+   - **What happened here?** You added files and told git about changes to files you modified.
  - Using Git, [push](https://www.atlassian.com/git/tutorials/syncing) your changes onto GitHub.
-   - What happened here? You uploaded your new files and any changes to the GitHub website (which has a separate version of your files).
+   - **What happened here?** You uploaded your new files and any changes to the GitHub website (which has a separate version of your files).
  - Using GitHub, [create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) to the original GitHub repository that we forked from. Search the latest documentation on how to do so to get the most up-to-date information.
-   - What happened here? We are now feeding the new files and changes back to the original website. Note that this step is different; it's a request and thus not automatic. The maintainers of the main repository will then approve or deny the changes.
+   - **What happened here?** We are now feeding the new files and changes back to the original website. Note that this step is different; it's a request and thus not automatic. The maintainers of the main repository will then approve or deny the changes.
  - Wait for a repository maintainer to accept changes.
  
 ### Where do we go from here?
