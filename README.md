@@ -11,7 +11,7 @@ The PDF version is available for free on [Itch.io](https://yochaigal.itch.io/cai
 The full text is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
 The original Affinity Publisher file is also available with the downloads.
 
-This is a game that values community contributions. If you would like to get familiar with contributing to the website, see [Starting to Contribute](./contributing).
+This is a game that values community contributions! If you'd like to submit an adventure, hack, monster, or conversion take a look at the [submission guide](/submissions/submissions-guide).
 
 <p></p>
 
