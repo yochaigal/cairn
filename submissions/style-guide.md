@@ -35,7 +35,7 @@ Relics utilize the following template:
 
 ### Bestiary (the Monsters directory on the website)
 - Monster submissions to the website (distinct from an adventure conversion) must utilize the following website.
-- Note the Front Matter (starting with three dashes) at the beginning. 
+- Note the Front Matter (starting with `---`) at the beginning. 
 - Note the space between the Monster Name, the stats, and the special entries.
 - For an example, see [here](/resources/monsters/acolyte) and the raw text [here](https://github.com/yochaigal/cairn/blob/main/resources/monsters/acolyte.md)
 
