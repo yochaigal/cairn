@@ -7,7 +7,7 @@ parent: Submissions
 
 # Submission Guide
 
-This page is to provide the information necessary for contributing to this site. Some of the relevant information here might be linked to external sites or other resources, as there are already high-quality guides for common steps listed here. If some of this seems a bit too technical, that's OK! Join our [Discord server](/discord-server) and ask for help, or even send Yochai a direct message with your work, and he'll update it for the website. Formatting content does take some work, but in the end we are all better for it!
+Welcome! The following guide will help folks interested in submitting Cairn content to the website. Files are written in Markdown, and submitted through git (the preferred method, see below). However, if this all seems a bit too technical, that's OK! Join our [Discord server](/discord-server) and ask for help, or even send Yochai a direct message with your work and he'll update it for the website. Formatting content does take some work, but in the end we are all better for it!
 
 ## Markdown
 The Cairn site is composed of many text files that use the "Markdown" syntax. To create a page on the website, you need to create a file ending in .md and fill it with the words you want to display. GitHub handles the rest: what color is used in different webpage elements, how the text and menus are laid out, and various other small things. This allows you to focus on the writing and words.
@@ -52,7 +52,7 @@ The general workflow is to write files on your computer to your local copy of th
  
 ### Where do we go from here?
 
-Now that you know how to contribute, take a look at what is desired for the website. In particular,
+Now that you know how to contribute, take a look at what is desired for the website. In particular:
 
  - [Future adventure conversions](/adventures/future-conversions/) if you have a adventure you have run in Cairn.
  - [Third party resources](/hacks/third-party/) if you have a product related to Cairn.
