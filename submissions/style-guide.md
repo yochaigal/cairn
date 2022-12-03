@@ -23,7 +23,14 @@ Relics utilize the following template:
 
 ## Monsters
 - The standard monster format is as follows:
-- 
+- Note the _numbers_ appearing **before** the stats (e.g. 2 HP, 1 Armor)
+
+```
+#### Monster Name
+# HP, # Armor, # WIL, weapon1 (d#), item or ability (special details)
+- Special 1 (critical damage, special abilities, etc)
+- **Critical Damage**: What happens?
+```
 
 ### Bestiary (the Monsters directory on the website)
 - Monster submissions to the website (distinct from an adventure conversion) must utilize the following website.
@@ -31,12 +38,6 @@ Relics utilize the following template:
 - Note the space between the Monster Name, the stats, and the special entries.
 - For an example, see [here](/resources/monsters/acolyte) and the raw text [here](https://github.com/yochaigal/cairn/blob/main/resources/monsters/acolyte.md)
 
-# Monster Name
-
-# HP, # Armor, # WIL, weapon1 (d#), item or ability (special details)
-
-- Special 1 (critical damage, special abilities, etc)
-- Special 2
 
 ```
 ---
@@ -50,5 +51,5 @@ grand_parent: Resources
 # HP, # Armor, # WIL, weapon1 (d#), item or ability (special details)
 
 - Special 1 (critical damage, special abilities, etc)
-- Special 2
+- **Critical Damage**: What happens?
 ```
