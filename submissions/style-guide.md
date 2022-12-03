@@ -7,7 +7,8 @@ parent: Submissions
 
 # Style Guide
 
-The following guides describe the expected format for submissions to the Cairn website. **All submissions must be written in [markdown](/submissions/submission-guide/#markdown).**
+The following guides describe the expected format for submissions to the Cairn website.   
+**All submissions must be written in [markdown](/submissions/submission-guide/#markdown).**
 
 ## Adventures
 - See the [adventure submission template](/submissions/adventure-conversions/#submission-template). 
@@ -34,7 +35,7 @@ Relics utilize the following template:
 
 ### Bestiary (the Monsters directory on the website)
 - Monster submissions to the website (distinct from an adventure conversion) must utilize the following website.
-- Note the Front Matter (starting with ---) at the beginning. 
+- Note the Front Matter (starting with three dashes) at the beginning. 
 - Note the space between the Monster Name, the stats, and the special entries.
 - For an example, see [here](/resources/monsters/acolyte) and the raw text [here](https://github.com/yochaigal/cairn/blob/main/resources/monsters/acolyte.md)
 
