@@ -17,7 +17,7 @@ Markdown is a syntax that uses entirely text characters in order to do fancy for
 ### Creating a file in markdown
  - Create a file with a .md extension using your favorite text editor. While programs like Microsoft Notepad and TextEdit on MacOS get the job done, there are editors out there that make writing markdown a breeze. An example is [GhostWriter](https://ghostwriter.kde.org/), [Notepad++](https://notepad-plus-plus.org/downloads/) on Windows and [TextMate](https://macromates.com/) are good options. 
  - Type text using the [Markdown](https://www.markdownguide.org/tools/jekyll/) format into the file. Please refer to the Cairn [Style Guide](/submissions/style-guide) when writing your submission!
- - Save the file to the [appropriate folder](#appropriate-folder) on the website using Github (see below).
+ - Save the file to the [appropriate folder](#folders) on the website using Github (see below).
  
 ## How do I get my submission onto the Cairn site?
 ### Using Github
@@ -28,7 +28,16 @@ Markdown is a syntax that uses entirely text characters in order to do fancy for
    - _If you like editing files through installed programs, rather than in a web browser, this allows you to download and upload files easily to GitHub and have your method of choice for writing the webpages._
  - Clone the repository to your own computer. See [here](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-clone) for a tutorial.
    - _Should you want to edit the files directly on your computer, this step does the mass-downloading of files onto your computer._ *Note:* This creates yet another version of the files on your computer, different from the repository you forked. 
-   
+
+### Folders
+
+Files should be placed in the following locations:
+ - [Adventure conversions](/adventures/conversions) (see [submission-template](/submissions/submission-template))
+ - [Original adventures](/adventures/originals)
+ - [Third party hacks](/hacks/third-party/)
+ - [Monsters](/resources/monsters/)
+ - [General resources](/resources/)
+
 ### Pushing your changes
 The general workflow is to write files on your computer to your local copy of the website, then submit the changes back to the original website files.
 
