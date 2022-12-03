@@ -12,7 +12,7 @@ The following guides describe the expected format for submissions to the Cairn w
 
 ## Adventures
 - See the [adventure submission template](/submissions/adventure-conversions/#submission-template). 
-- Please follow the [#monsters] and [#relics] guidelines for inclusion in the conversion. 
+- Please follow the [monsters](#monsters) and [relics](#relics) guidelines for inclusion in the conversion. 
 
 ## Relics
 Relics utilize the following template:
