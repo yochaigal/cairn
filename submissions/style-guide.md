@@ -22,22 +22,24 @@ Relics utilize the following template:
 - **Recharge**: How does it recharge (if applicable)
 ```
 
-## Monsters
-- The standard monster format is as follows:
+## Monsters (in an adventure conversion)
+- If an ability score is 10, you may omit it if you choose.
 - Note the _numbers_ appearing **before** the stats (e.g. 2 HP, 1 Armor)
+- The standard monster format is as follows:
 
 ```
 #### Monster Name
-# HP, # Armor, # WIL, weapon1 (d#), item or ability (special details)
+# HP, # Armor, # STR, # DEX, # WIL, weapon1 (d#), item or ability (special details)
 - Special 1 (critical damage, special abilities, etc)
 - **Critical Damage**: What happens?
 ```
 
 ### Bestiary (the Monsters directory on the website)
-- Monster submissions to the website (distinct from an adventure conversion) must utilize the following website.
 - Note the Front Matter (starting with `---`) at the beginning. 
 - Note the space between the Monster Name, the stats, and the special entries.
+- Include every ability score, _even if they are only 10_. 
 - For an example, see [here](/resources/monsters/acolyte) and the raw text [here](https://github.com/yochaigal/cairn/blob/main/resources/monsters/acolyte.md)
+- Monster submissions to the website (distinct from an adventure conversion) must utilize the following format.
 
 
 ```
@@ -49,7 +51,7 @@ grand_parent: Resources
 
 # Monster Name
 
-# HP, # Armor, # WIL, weapon1 (d#), item or ability (special details)
+# HP, # Armor, # STR, # DEX, # WIL, weapon1 (d#), item or ability (special details)
 
 - Special 1 (critical damage, special abilities, etc)
 - **Critical Damage**: What happens?
