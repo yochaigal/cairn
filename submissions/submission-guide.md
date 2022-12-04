@@ -42,13 +42,12 @@ Files should be placed in the following locations:
 ### Pushing your changes
 The general workflow is to write files on your computer to your local copy of the website, then submit the changes back to the original website files.
 
- - Using Git, [commit](https://www.atlassian.com/git/tutorials/saving-changes/git-commit) your changes to your repository.
-   - **What happened here?** You added files and told git about changes to files you modified.
- - Using Git, [push](https://www.atlassian.com/git/tutorials/syncing) your changes onto GitHub.
-   - **What happened here?** You uploaded your new files and any changes to the GitHub website (which has a separate version of your files).
- - Using GitHub, [create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) to the original GitHub repository that we forked from. Search the latest documentation on how to do so to get the most up-to-date information.
-   - **What happened here?** We are now feeding the new files and changes back to the original website. Note that this step is different; it's a request and thus not automatic. The maintainers of the main repository will then approve or deny the changes.
- - Wait for a repository maintainer to accept changes.
+- Using Git, [commit](https://www.atlassian.com/git/tutorials/saving-changes/git-commit) the changes to your repository.
+- Using Git, [push](https://www.atlassian.com/git/tutorials/syncing) the changes onto GitHub.
+- You uploaded your new files and any changes to the GitHub website (which has a separate version of your files).
+- Using GitHub, [create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) to the original GitHub repository that we forked from. 
+  - Note that last this step is different; it's a request and thus not automatic. The maintainers of the main repository will then approve or deny the changes.
+- Wait for a repository maintainer to accept changes.
  
 ### Where do we go from here?
 
