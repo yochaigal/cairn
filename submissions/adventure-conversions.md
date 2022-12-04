@@ -9,7 +9,7 @@ parent: Submissions
 
 - Copy the following template when submitting an adventure to the Cairn website. 
 - Please follow the [Style Guide](/submissions/style-guide) for the text of the conversion. 
-- The file should be writtein Markdown. The filename should be lowercase, and use the *.md suffix (example: cool-adventure.md).
+- The file should be written in [Markdown](/submissions/submission-guide/#markdown). The filename should be lowercase, and use the *.md suffix (example: cool-adventure.md).
 - Make sure the add the "front matter" at the top of the file (the parts starting with the `---` at the beginning) or the submission won't work. For an example, see [here](/adventures/conversions/stellarium-of-the-vinteralf) (raw text [here](https://github.com/yochaigal/cairn/blob/main/adventures/conversions/stellarium-of-the-vinteralf.md)).
 - Adventure submissions should _always_ credit the author of the work _as well_ as the name of the person converting the work. 
 - Please link to the author, as well as the adventure and (if you're comfortable with it) your own website or contact. 
