@@ -35,7 +35,7 @@ Relics utilize the following template:
 ```
 
 ### Bestiary (the Monsters directory on the website)
-- Note the Front Matter (starting with `---`) at the beginning. 
+- Note the Front Matter (starting with `---`) at the beginning, and the empty line at the end. 
 - Note the space between the Monster Name, the stats, and the special entries.
 - Include every ability score, _even if they are only 10_. 
 - For an example, see [here](/resources/monsters/acolyte) and the raw text [here](https://github.com/yochaigal/cairn/blob/main/resources/monsters/acolyte.md)
@@ -55,4 +55,5 @@ grand_parent: Resources
 
 - Special 1 (critical damage, special abilities, etc)
 - **Critical Damage**: What happens?
+
 ```
