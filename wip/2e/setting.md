@@ -36,17 +36,21 @@ Established facts about the setting. Good questions to answer:
 - Each faction is ruled by a powerful figure, but most of the time PCs will be dealing with their **Seneschals**. 
 
 ### Agendas & Resources
-- Factions have **Agendas** (typically 3-4 steps) as well as **Resources** to help acheive them. 
+- Factions have **Agendas** (3-4 steps towards a clear goal) and the **Resources** to help achieve them. 
 - A faction's **Resources** reflect its influence, resources, wealth, and special features. 
-- Factions grow their **Resources** by completing goals, which in turn accelerates the completion of their **Agenda**.
+- Factions grow (or lose) their **Resources** by trying to complete their agenda. 
 
 ## Details
-- **Details** act as [**Points**](/wip/2e/wilderness-exploration/#points) for the purposes of [**Wilderness Exploration**](/wip/2e/wilderness-exploration).
-- **Details** are placed in the **Wilds** or the **Settled Lands**. 
-- The **Underworld** is typically hidden or underground, and can be placed anywhere.
+- **Details** act as [**Points**](/wip/2e/wilderness-exploration/#points) according to the [**Wilderness Exploration**](/wip/2e/wilderness-exploration) rules.
+- Most **Details** are placed in the **Wilds** or the **Settled Lands**.  
+- **Underworld** **Details** is typically hidden or underground, and can be anywhere or everywhere.
+
+### Creating a Province
+- On a flat sheet, select a **point** to act as your the central hub of the **Province**. 
+- Create three **points** in a triangle (or square, or rectangle, etc) around the central hub (a village, town, or city) in the rough center.
+- Each of these points is a single **Detail**.  
 
 ### Creating Details
-- Select the central hub of a given **Province**.
 
 ### The Wilds
 - Ruin/Labyrinth/Derelict
