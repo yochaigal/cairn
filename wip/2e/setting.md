@@ -10,13 +10,14 @@ search_exclude: true
 # Setting
 
 ### Summary
-- A setting has a **Theme**, **Scale**, **Factions**, **Terrain,** and **Details**. 
-- A **Province** is a single, traversable region within a setting, typically ruled by a single **Faction**. A **Domain** is one or more joined **Provinces**.
+- A setting has a **Theme**, **Scale**, **Factions**, **Details, and **Terrain**.
+- A **Province** is a single, traversable region within a setting. A **Domain** is one or more joined **Provinces**.
 - Distance is measured in [**Travel Watches**](/wip/2e/wilderness-exploration/#travel), assuming that the party travels by foot and on maintained roads.
-- See the [example setting](/wip/2e/example-setting)
+
+> See this page for an [example setting](/wip/2e/example-setting).
 
 ## Theme
-Established facts about the setting. Some questions to ask: 
+Established facts about the setting. Good questions to answer: 
 - How is magic in this world?
 - What level of technology is it?
 - How does religion function?
@@ -25,7 +26,7 @@ Established facts about the setting. Some questions to ask:
 - What linguistic and cultural flavor exists in the setting?
 
 ### Domain Scale
-- **Small**: A single **Province** whose central hub is a large village.  The distance between a settled **Detail** and the central hub is no more than _eight_ **Travel Watches** away.  
+- **Small**: A single **Province** whose central hub is typically a large village.  The distance between a settled **Detail** and the central hub is no more than _eight_ **Travel Watches** away.  
 - **Medium**: 2-4 **Provinces** who share a central hub (typically a large town). The distance between a settled **Detail** and the central hub is no more than _sixteen_ **Travel Watches** away. 
 - **Large**: 5-10 **Provinces** who share a central hub (typically a large city). - The distance between a settled **Detail** and the central hub is no more than _twenty-four_ **Travel Watches** away. 
 
@@ -38,6 +39,7 @@ Established facts about the setting. Some questions to ask:
 - Factions have **Agendas** (typically 3-4 steps) as well as **Resources** to help acheive them. 
 - A faction's **Resources** reflect its influence, resources, wealth, and special features. 
 - Factions grows their **Resources** by completing goals, which in turn accelerates the completion of their **Agenda**.
+
 ## Details
 - **Details** act as [**Points**](/wip/2e/wilderness-exploration/#points) for the purposes of [**Wilderness Exploration**](/wip/2e/wilderness-exploration).
 - **Details** can be placed somewhere in the **Wilds** or somewhere in the **Settled Lands**. The **Underworld** is typically hidden or underground, and can be placed anywhere.

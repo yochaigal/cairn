@@ -17,15 +17,15 @@ search_exclude: true
 - Names & proper nouns are largely plain English. Themes are inspired by the British Isles, Germany, and Eastern Europe.
 
 ## Domain Scale
-- **Medium**: 2-4 **Provinces** who share a central hub (typically a large town). The distance between a settled **Detail** and the central hub is no more than _sixteen_ **Travel Watches** away. 
+- **Medium**: 2 **Provinces** under a single ruler (**The Potentate**).
 
 ## Factions
 
 ### Earl of White
 #### Resources
-- Fealty of the plains villages and their farms (as detachment, stats as [Bandits](https://cairnrpg.com/resources/monsters/bandit/)).
+- Fealty of the plains villages and their farms (as detachment, stats as [Bandits](/resources/monsters/bandit/)).
 - Control of significant food stores.
-- **Seneschal**: Personal Chamberlain, stats as [Brigand](https://cairnrpg.com/resources/monsters/brigand/).
+- **Seneschal**: Personal Chamberlain, stats as [Brigand](/resources/monsters/brigand/).
 
 #### Agenda
 - Promise this season's crop-yield to the  **Under-folk**. In exchange they will raid nearby villages.
@@ -34,9 +34,9 @@ search_exclude: true
 
 ### Under-folk of **Swift Mines**
 #### Resources
-- 2d10+10 ratlike **Under-folk** residing peacefully in the **Swift Mines**, stats as [Kobold](https://cairnrpg.com/resources/monsters/kobold/).
+- 2d10+10 ratlike **Under-folk** residing peacefully in the **Swift Mines**, stats as [Kobold](/resources/monsters/kobold/).
 - The **God-thumb**, which provides warmth and safety for the colony. 
-- **Seneschal**: **Ka-ro**, stats as [Ettin](https://cairnrpg.com/resources/monsters/ettin/).
+- **Seneschal**: **Ka-ro**, stats as [Ettin](/resources/monsters/ettin/).
 
 #### Agenda
 - Protect the **God-thumb** at all costs.
@@ -47,7 +47,7 @@ search_exclude: true
 - **Anonymity**: The ruling council speaks only through an anointed subject, **The Whisper**.  
 - **Information**: There is little the Potentate's ubiquitous spies do not know.   
 - As the ruling faction over multiple **Provinces**, detachments of soldiers can be summoned from the villages very quickly.
-- **Seneschals**: **The Whisper**, stats as [banshee](https://cairnrpg.com/resources/monsters/banshee/), and **Lord Alexey**, stas as [buccaneer](https://cairnrpg.com/resources/monsters/buccaneer/).
+- **Seneschals**: **The Whisper**, stats as [banshee](/resources/monsters/banshee/), and **Lord Alexey**, stas as [buccaneer](/resources/monsters/buccaneer/).
 
 #### Agenda
 - Maintain the stability of the realm by crushing rising threats from other factions. 
@@ -56,8 +56,8 @@ search_exclude: true
 
 ### The Will
 #### Resources
-- 2d10+10 [Acolytes](https://cairnrpg.com/resources/monsters/acolyte).
-- **Seneschal**: **Arjen Vol Sonn**, stats as [Lich](https://cairnrpg.com/resources/monsters/lich/).
+- 2d10+10 [Acolytes](/resources/monsters/acolyte).
+- **Seneschal**: **Arjen Vol Sonn**, stats as [Lich](/resources/monsters/lich/).
 - **The Springhouse**, an abandoned keep once used by ancestors of the **Earl of White**, who used it to imprison and torture their political enemies. It is well-fortified and contains a small complex of jails beneath it. 
 
 #### Agenda
