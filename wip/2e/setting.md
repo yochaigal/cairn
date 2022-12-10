@@ -46,11 +46,11 @@ Established facts about the setting. Good questions to answer:
 - **Underworld** **Details** is typically hidden or underground, and can be anywhere or everywhere.
 
 ### Creating a Province
-1. On a flat sheet, select a **point** to signify the central hub (a village, town, or city) of the **Province**.
-2. Create three **points** in a triangle with the central hub in the rough center. Each of these points represents an additional **Detail** on the map. 
-3. Connect two of the **points** to the central hub, using solid lines to represent roads, dotted lines for trails, and double lines for rivers and tunnels. Connect the remaining **point** to one of these paths (optionally, cross over it).
+1. On a flat sheet of paper, create a **point** to signify the central hub (a village, town, or city) of the **Province**.
+2. Create three more **points** in a triangle with the central hub in the rough center. Each of these points represents an additional **Detail** on the map. 
+3. Connect two of the **points** to the central hub, using solid lines to represent roads, dotted lines for trails, and double lines for rivers and tunnels. Connect the remaining **point** to one of these paths, crossing it and continuing for a distance. 
 4. Repeat step #2. 
-5. Connect two of the **points** to any path. Do not connect the final **point** to anything. 
+5. Connect two of the new **points** to _any_ path. Do not connect the final **point** to anything. 
 6. Create a new **point** wherever paths cross, and wherever a path ends that does not already have a **point**. 
 7. Number each **point** on the map.
 
