@@ -69,7 +69,7 @@ Established facts about the setting. Good questions to answer:
 | **3**  |     **River, flooded, oasis**     |
 | **4**  |   **Cliffs, beaches, caverns**    |
 | **5**  |   **Hills, canyons, mountains**   |
-| **6**  |   **Deserts, wastelands, sea**    |
+| **6**  |   **Desert, wasteland, sea**    |
 
 #### Near Terrain
 
@@ -83,7 +83,7 @@ Established facts about the setting. Good questions to answer:
 | **5**  |   **Hills, canyons, mountains**   |
 | **6**  |     **River, flooded, oasis**     |
 | **7**  |   **Cliffs, beaches, caverns**    |
-| **8**  |   **Deserts, wastelands, sea**    |
+| **8**  |   **Desert, wasteland, sea**    |
 
 #### Far Terrain
 
@@ -96,8 +96,8 @@ Established facts about the setting. Good questions to answer:
 | **4**  |   **Hills, canyons, mountains**   |
 | **5**  |     **River, flooded, oasis**     |
 | **6**  |   **Cliffs, beaches, caverns**    |
-| **7**  |   **Deserts, wastelands, sea**    |
-| **8**  |   **Deserts, wastelands, sea**    |
+| **7**  |   **Desert, wasteland, sea**    |
+| **8**  |   **Desert, wasteland, sea**    |
 
 ## Details
 - **Details** act as [**Points**](/wip/2e/wilderness-exploration/#points) according to the [**Wilderness Exploration**](/wip/2e/wilderness-exploration) rules.
