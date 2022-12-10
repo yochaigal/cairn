@@ -88,11 +88,6 @@ Established facts about the setting. Good questions to answer:
 | **7**  | **Deserts, wastelands, sea** |
 | **8**  | **Deserts, wastelands, sea** |
 
-## Details
-- **Details** act as [**Points**](/wip/2e/wilderness-exploration/#points) according to the [**Wilderness Exploration**](/wip/2e/wilderness-exploration) rules.
-- Most **Details** are placed in the **Wilds** or the **Settled Lands**.  
-- **Underworld** **Details** is typically hidden or underground, and can be anywhere or everywhere.
-
 ## Factions
 - Factions rule over one or more **Details**, an entire **Province**, or even a **Domain**. 
 - The **Domain** map should reflect the impact of goals being completed or interrupted. Factions will work to achieve their goals independently.
@@ -102,6 +97,11 @@ Established facts about the setting. Good questions to answer:
 - Factions have **Agendas** (3-4 steps towards a clear goal) and the **Resources** to help achieve them. 
 - A faction's **Resources** reflect its influence, resources, wealth, and special features. 
 - Factions grow (or lose) their **Resources** by trying to complete their agenda. 
+
+## Details
+- **Details** act as [**Points**](/wip/2e/wilderness-exploration/#points) according to the [**Wilderness Exploration**](/wip/2e/wilderness-exploration) rules.
+- Most **Details** are placed in the **Wilds** or the **Settled Lands**.  
+- **Underworld** **Details** is typically hidden or underground, and can be anywhere or everywhere.
 
 ### Creating Details
 
