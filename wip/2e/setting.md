@@ -50,15 +50,17 @@ Established facts about the setting. Good questions to answer:
 
 #### Hub Terrain
 
-|        |                |
-| ------ | :------------: |
-| **d6** |  **Terrain**   |
-| **1**  | **Grasslands**   |
-| **2**  | **Farmlands**   |
-| **3**  | **Forests**   |
-| **4**  | **Hills**   |
-| **5**  | **Mountains**  |
-| **6**  | **Swamps** |
+|        |                                   |
+| ------ | :-------------------------------: |
+| **d6** |            **Terrain**            |
+| **1**  | **Plains, grasslands, farmlands** |
+| **2**  |    **Forests, jungle, swamp**     |
+| **3**  |     **River, flooded, oasis**     |
+| **4**  |   **Cliffs, beaches, caverns**    |
+| **5**  |   **Hills, canyons, Mountains**   |
+| **6**  |   **Deserts, wastelands, sea**    |
+
+
 
 #### Near Terrain
 
