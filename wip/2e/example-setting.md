@@ -66,7 +66,7 @@ search_exclude: true
 - Use the **God-thumb** to restore **Fria The Empty**, then rule the **Provinces**.
 
 ### The Province
-[![Alt text](/img/2e/example-setting.png "Click to embiggen"){:height="60%" width="60%"}](/img/2e/example-setting.png)
+[![Alt text](/img/2e/example-setting-1.png "Click to embiggen"){:height="40%" width="40%"}](/img/2e/example-setting-1.png)
 
 
 ## Terrain
@@ -89,3 +89,4 @@ The results of the die rolls are below. Items  in **bold** represent the chosen 
 8. Desert, wasteland, **sea**
 10. Desert, **wasteland**, sea
 
+[![Alt text](/img/2e/example-setting-2.png "Click to embiggen"){:height="40%" width="40%"}](/img/2e/example-setting-2.png)
