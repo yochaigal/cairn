@@ -10,7 +10,7 @@ search_exclude: true
 # Setting
 
 ### Summary
-- A setting has a **Theme**, **Scale**, **Factions**, **Details**, and **Terrain**.
+- A setting has a **Theme**, **Scale**, **Terrain**, **Factions**, and **Details**.
 - A **Province** is a single, traversable region within a setting. A **Domain** is one or more joined **Provinces**.
 - Distance is measured in [**Watches**](/wip/2e/wilderness-exploration/#travel), assuming that the party travels by foot and on maintained roads.
 
@@ -29,21 +29,6 @@ Established facts about the setting. Good questions to answer:
 - **Small**: A single **Province** whose central hub is typically a large village, no more than _four_ **Watches** from the furthest settled **Detail**.  
 - **Medium**: 2-4 **Provinces** who share a central hub (typically a large town), no more than _eight_ **Watches** from the furthest settled **Detail**.
 - **Large**: 5-10 **Provinces** who share a central hub (typically a large city), no more than _sixteen_ **Watches** from the furthest settled **Detail**.
-
-## Factions
-- Factions rule over one or more **Details**, an entire **Province**, or even a **Domain**. 
-- The **Domain** map should reflect the impact of goals being completed or interrupted. Factions will work to achieve their goals independently.
-- Each faction is ruled by a powerful figure, but most of the time PCs will be dealing with their **Seneschals**. 
-
-### Agendas & Resources
-- Factions have **Agendas** (3-4 steps towards a clear goal) and the **Resources** to help achieve them. 
-- A faction's **Resources** reflect its influence, resources, wealth, and special features. 
-- Factions grow (or lose) their **Resources** by trying to complete their agenda. 
-
-## Details
-- **Details** act as [**Points**](/wip/2e/wilderness-exploration/#points) according to the [**Wilderness Exploration**](/wip/2e/wilderness-exploration) rules.
-- Most **Details** are placed in the **Wilds** or the **Settled Lands**.  
-- **Underworld** **Details** is typically hidden or underground, and can be anywhere or everywhere.
 
 ## Provinces
 
@@ -95,13 +80,28 @@ Established facts about the setting. Good questions to answer:
 | ------ | :------------: |
 | **d8** |  **Terrain**   |
 | **1**  | **Grasslands**   |
-| **2**  |  **Forests**   |
+| **2**  | **Forests**   |
 | **3**  | **Hills**   |
 | **4**  | **Hills**   |
 | **5**  | **Mountains**  |
 | **6**  | **Mountains** |
 | **7**  | **Swamps** |
 | **8**  | **Swamps** |
+
+## Details
+- **Details** act as [**Points**](/wip/2e/wilderness-exploration/#points) according to the [**Wilderness Exploration**](/wip/2e/wilderness-exploration) rules.
+- Most **Details** are placed in the **Wilds** or the **Settled Lands**.  
+- **Underworld** **Details** is typically hidden or underground, and can be anywhere or everywhere.
+
+## Factions
+- Factions rule over one or more **Details**, an entire **Province**, or even a **Domain**. 
+- The **Domain** map should reflect the impact of goals being completed or interrupted. Factions will work to achieve their goals independently.
+- Each faction is ruled by a powerful figure, but most of the time PCs will be dealing with their **Seneschals**. 
+
+### Agendas & Resources
+- Factions have **Agendas** (3-4 steps towards a clear goal) and the **Resources** to help achieve them. 
+- A faction's **Resources** reflect its influence, resources, wealth, and special features. 
+- Factions grow (or lose) their **Resources** by trying to complete their agenda. 
 
 ### Creating Details
 
