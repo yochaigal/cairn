@@ -57,7 +57,7 @@ Established facts about the setting. Good questions to answer:
 | **2**  |    **Forests, jungle, swamp**     |
 | **3**  |     **River, flooded, oasis**     |
 | **4**  |   **Cliffs, beaches, caverns**    |
-| **5**  |   **Hills, canyons, Mountains**   |
+| **5**  |   **Hills, canyons, mountains**   |
 | **6**  |   **Deserts, wastelands, sea**    |
 
 #### Near Terrain
@@ -68,8 +68,8 @@ Established facts about the setting. Good questions to answer:
 | **1**  | **Plains, grasslands, farmlands**   |
 | **2**  | **Forests, jungle, swamp**   |
 | **3**  | **Forests, jungle, swamp**   |
-| **4**  |  **Hills, canyons, Mountains**  |
-| **5**  |  **Hills, canyons, Mountains**  |
+| **4**  |  **Hills, canyons, mountains**  |
+| **5**  |  **Hills, canyons, mountains**  |
 | **6**  |   **River, flooded, oasis** |
 | **7**  |  **Cliffs, beaches, caverns** |
 | **8**  | **Deserts, wastelands, sea**  |
@@ -81,8 +81,8 @@ Established facts about the setting. Good questions to answer:
 | **d8** |  **Terrain**   |
 | **1**  | **Plains, grasslands, farmlands**   |
 | **2**  | **Forests, jungle, swamp**   |
-| **3**  |  **Hills, canyons, Mountains**   |
-| **4**  |  **Hills, canyons, Mountains**   |
+| **3**  |  **Hills, canyons, mountains**   |
+| **4**  |  **Hills, canyons, mountains**   |
 | **5**  | **River, flooded, oasis**  |
 | **6**  | **Cliffs, beaches, caverns** |
 | **7**  | **Deserts, wastelands, sea** |
@@ -90,8 +90,8 @@ Established facts about the setting. Good questions to answer:
 
 ## Factions
 - Factions rule over one or more **Details**, an entire **Province**, or even a **Domain**. 
-- The **Domain** map should reflect the impact of goals being completed or interrupted. Factions will work to achieve their goals independently.
-- Each faction is ruled by a powerful figure, but most of the time PCs will be dealing with their **Seneschals**. 
+- The map should reflect the impact of goals being completed or interrupted. **Factions** will work to achieve their goals independently.
+- Each **faction** is ruled by a powerful figure, but most of the time PCs will be dealing with their **Seneschals**. 
 
 ### Agendas & Resources
 - Factions have **Agendas** (3-4 steps towards a clear goal) and the **Resources** to help achieve them. 
