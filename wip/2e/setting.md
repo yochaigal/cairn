@@ -10,7 +10,7 @@ search_exclude: true
 # Setting
 
 ### Summary
-- A setting has a **Theme**, **Scale**, **Factions**, **Details, and **Terrain**.
+- A setting has a **Theme**, **Scale**, **Factions**, **Details**, and **Terrain**.
 - A **Province** is a single, traversable region within a setting. A **Domain** is one or more joined **Provinces**.
 - Distance is measured in [**Watches**](/wip/2e/wilderness-exploration/#travel), assuming that the party travels by foot and on maintained roads.
 
@@ -25,7 +25,7 @@ Established facts about the setting. Good questions to answer:
 - What races & backgrounds exist, and are they playable by PCs?
 - What linguistic and cultural flavor exists in the setting?
 
-### Domain Scale
+### Scale
 - **Small**: A single **Province** whose central hub is typically a large village, no more than _eight_ **Watches** from the furthest settled **Detail**.  
 - **Medium**: 2-4 **Provinces** who share a central hub (typically a large town), no more than _sixteen_ **Watches** from the furthest settled **Detail**.
 - **Large**: 5-10 **Provinces** who share a central hub (typically a large city), no more than _twenty-four_ **Watches** from the furthest settled **Detail**.
@@ -46,9 +46,13 @@ Established facts about the setting. Good questions to answer:
 - **Underworld** **Details** is typically hidden or underground, and can be anywhere or everywhere.
 
 ### Creating a Province
-- On a flat sheet, select a **point** to act as your the central hub of the **Province**. 
-- Create three **points** in a triangle (or square, or rectangle, etc) around the central hub (a village, town, or city) in the rough center.
-- Each of these points is a single **Detail**.  
+1. On a flat sheet, select a **point** to signify the central hub (a village, town, or city) of the **Province**.
+2. Create three **points** in a triangle with the central hub in the rough center. Each of these points represents an additional **Detail** on the map. 
+3. Connect two of the **points** to the central hub, using solid lines to represent roads, dotted lines for trails, and double lines for rivers and tunnels. Connect the remaining **point** to one of these paths (optionally, cross over it).
+4. Repeat step #2. 
+5. Connect two of the **points** to any path. Do not connect the final **point** to anything. 
+6. Create a new **point** wherever paths cross, and wherever a path ends that does not already have a **point**. 
+7. Number each **point** on the map.
 
 ### Creating Details
 
