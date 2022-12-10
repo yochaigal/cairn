@@ -128,7 +128,8 @@ The Warden can roll on the [Cardinal Directions](#cardinal-directions) table to 
 | **6**  | **Mountains**  |          |           |              |
 | **7**  |  **Deserts**   |          |           |              |
 | **8**  | **Wastelands** |          |           |              |
-=======
+
+
 ## Mishaps
 ### Supply 
 - Fishing accident, sick quarry, hunting injury, poisonous food

@@ -26,9 +26,9 @@ Established facts about the setting. Good questions to answer:
 - What linguistic and cultural flavor exists in the setting?
 
 ### Scale
-- **Small**: A single **Province** whose central hub is typically a large village, no more than _eight_ **Watches** from the furthest settled **Detail**.  
-- **Medium**: 2-4 **Provinces** who share a central hub (typically a large town), no more than _sixteen_ **Watches** from the furthest settled **Detail**.
-- **Large**: 5-10 **Provinces** who share a central hub (typically a large city), no more than _twenty-four_ **Watches** from the furthest settled **Detail**.
+- **Small**: A single **Province** whose central hub is typically a large village, no more than _four_ **Watches** from the furthest settled **Detail**.  
+- **Medium**: 2-4 **Provinces** who share a central hub (typically a large town), no more than _eight_ **Watches** from the furthest settled **Detail**.
+- **Large**: 5-10 **Provinces** who share a central hub (typically a large city), no more than _sixteen_ **Watches** from the furthest settled **Detail**.
 
 ## Factions
 - Factions rule over one or more **Details**, an entire **Province**, or even a **Domain**. 
@@ -45,6 +45,8 @@ Established facts about the setting. Good questions to answer:
 - Most **Details** are placed in the **Wilds** or the **Settled Lands**.  
 - **Underworld** **Details** is typically hidden or underground, and can be anywhere or everywhere.
 
+## Provinces
+
 ### Creating a Province
 1. On a flat sheet of paper, create a **point** to signify the central hub (a village, town, or city) of the **Province**.
 2. Create three more **points** in a triangle with the central hub in the rough center. Each of these points represents an additional **Detail** on the map. 
@@ -53,6 +55,53 @@ Established facts about the setting. Good questions to answer:
 5. Connect two of the new **points** to _any_ path. Do not connect the final **point** to anything. 
 6. Create a new **point** wherever paths cross, and wherever a path ends that does not already have a **point**. 
 7. Number each **point** on the map.
+
+> You can use other shapes (squares, rectangles, circles, etc) to create **points** instead. Try varying the distance between **points** for each successive **Province**.
+
+### Creating Terrain
+1. Roll once on the [Hub Terrain](#hub-terrain) table to determine the central hub's terrain. 
+2. Roll once on the [Near Terrain](#near-terrain) table to determine the terrain for any **points** within _two_ **Watches** of the central hub.
+3. Roll once on the [Far Terrain](#far-terrain) for any **points** that are _three_ or more **Watches** from the central hub.
+
+#### Hub Terrain
+
+|        |                |
+| ------ | :------------: |
+| **d6** |  **Terrain**   |
+| **1**  | **Grasslands**   |
+| **2**  | **Farmlands**   |
+| **3**  | **Forests**   |
+| **4**  | **Hills**   |
+| **5**  | **Mountains**  |
+| **6**  | **Swamps** |
+
+#### Near Terrain
+
+|        |                |
+| ------ | :------------: |
+| **d8** | **Terrain**   |
+| **1**  | **Grasslands**   |
+| **2**  | **Farmlands**   |
+| **3**  | **Forests**   |
+| **4**  | **Forests**   |
+| **5**  | **Hills**  |
+| **6**  | **Hills** |
+| **7**  | **Mountains** |
+| **8**  | **Swamps** |
+
+#### Far Terrain
+
+|        |                |
+| ------ | :------------: |
+| **d8** |  **Terrain**   |
+| **1**  | **Grasslands**   |
+| **2**  |  **Forests**   |
+| **3**  | **Hills**   |
+| **4**  | **Hills**   |
+| **5**  | **Mountains**  |
+| **6**  | **Mountains** |
+| **7**  | **Swamps** |
+| **8**  | **Swamps** |
 
 ### Creating Details
 
@@ -74,9 +123,5 @@ Established facts about the setting. Good questions to answer:
 ### Landmarks
 - Can be placed anywhere
 
-## Terrain
-- **Roads, grasslands, plains**
-- **Forests, mountains, hills** 
-- **Deserts, jungle, swamp**  
 
 
