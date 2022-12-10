@@ -60,35 +60,33 @@ Established facts about the setting. Good questions to answer:
 | **5**  |   **Hills, canyons, Mountains**   |
 | **6**  |   **Deserts, wastelands, sea**    |
 
-
-
 #### Near Terrain
 
 |        |                |
 | ------ | :------------: |
 | **d8** | **Terrain**   |
-| **1**  | **Grasslands**   |
-| **2**  | **Farmlands**   |
-| **3**  | **Forests**   |
-| **4**  | **Forests**   |
-| **5**  | **Hills**  |
-| **6**  | **Hills** |
-| **7**  | **Mountains** |
-| **8**  | **Swamps** |
+| **1**  | **Plains, grasslands, farmlands**   |
+| **2**  | **Forests, jungle, swamp**   |
+| **3**  | **Forests, jungle, swamp**   |
+| **4**  |  **Hills, canyons, Mountains**  |
+| **5**  |  **Hills, canyons, Mountains**  |
+| **6**  |   **River, flooded, oasis** |
+| **7**  |  **Cliffs, beaches, caverns** |
+| **8**  | **Deserts, wastelands, sea**  |
 
 #### Far Terrain
 
 |        |                |
 | ------ | :------------: |
 | **d8** |  **Terrain**   |
-| **1**  | **Grasslands**   |
-| **2**  | **Forests**   |
-| **3**  | **Hills**   |
-| **4**  | **Hills**   |
-| **5**  | **Mountains**  |
-| **6**  | **Mountains** |
-| **7**  | **Swamps** |
-| **8**  | **Swamps** |
+| **1**  | **Plains, grasslands, farmlands**   |
+| **2**  | **Forests, jungle, swamp**   |
+| **3**  |  **Hills, canyons, Mountains**   |
+| **4**  |  **Hills, canyons, Mountains**   |
+| **5**  | **River, flooded, oasis**  |
+| **6**  | **Cliffs, beaches, caverns** |
+| **7**  | **Deserts, wastelands, sea** |
+| **8**  | **Deserts, wastelands, sea** |
 
 ## Details
 - **Details** act as [**Points**](/wip/2e/wilderness-exploration/#points) according to the [**Wilderness Exploration**](/wip/2e/wilderness-exploration) rules.

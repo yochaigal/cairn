@@ -130,6 +130,19 @@ The Warden can roll on the [Cardinal Directions](#cardinal-directions) table to 
 | **8**  | **Wastelands** |          |           |              |
 
 
+### Terrain Generation 
+
+|        |                |
+| ------ | :------------: |
+| **d6** |  **Terrain**   |
+| **1**  | **Grasslands**   |
+| **2**  | **Farmlands**   |
+| **3**  | **Forests**   |
+| **4**  | **Hills**   |
+| **5**  | **Mountains**  |
+| **6**  | **Swamps** |
+
+
 ## Mishaps
 ### Supply 
 - Fishing accident, sick quarry, hunting injury, poisonous food
