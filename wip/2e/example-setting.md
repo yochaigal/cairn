@@ -70,20 +70,21 @@ search_exclude: true
 
 
 ## Terrain
+The results of the die rolls are below. Items  in **bold** represent the chosen terrain.
 
 ### Hub
-1. river, flooded, oasis
+1. river, flooded, **oasis**
 
 ### Near
-2. Forests, jungle, swamp
-3. Cliffs, beaches, caverns
-4. Cliffs, beaches, caverns
-5. Cliffs, beaches, caverns
-7. Hills, canyons, mountains
-9. Forests, jungle, swamp
-11. Cliffs, beaches, caverns
+2. **Forests**, jungle, swamp
+3. **Cliffs**, beaches, caverns
+4. Cliffs, beaches, **caverns**
+5. Cliffs, **beaches**, caverns
+7. **Hills**, canyons, mountains
+9. Forests, jungle, **swamp**
+11. Cliffs, beaches, **caverns**
 
 ### Far
-6. Deserts, wastelands, sea
-8. Deserts, wastelands, sea
-10. Deserts, wastelands, sea
+6. **Deserts**, wastelands, sea
+8. **Deserts**, wastelands, sea
+10. **Deserts**, wastelands, sea
