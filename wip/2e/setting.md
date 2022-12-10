@@ -43,21 +43,22 @@ Established facts about the setting. Good questions to answer:
 ## Provinces
 
 ### Creating a Province
-1. On a flat sheet of paper, create a **point** to signify the central hub (a village, town, or city) of the **Province**.
-2. Create three more **points** in a triangle with the central hub in the rough center. Each of these points represents an additional **Detail** on the map. 
-3. Connect two of the **points** to the central hub, using solid lines to represent roads, dotted lines for trails, and double lines for rivers and tunnels. Connect the remaining **point** to one of these paths, crossing it and continuing for a distance. 
-4. Repeat step #2, orienting the triangle of **points** in a different way than before. 
-5. Connect two of the new **points** to _any_ path. Do not connect the final **point** to anything. 
-6. Create a new **point** wherever paths cross, and wherever a path ends that does not already have a **point**. 
-7. Number each **point** on the map. Note those that are within two by road or trail to the central hub. 
+1. On a flat sheet of paper, create a dot to signify the central hub (a village, town, or city) of the **Province**. This is your first **Detail**.
+2. Create three more dots in a triangle with the central hub in the rough center. Each of these dots represents an additional **Detail** on the map. 
+3. Connect two of the dots to the central hub, using solid lines to represent roads, dotted lines for trails, and double lines for rivers and tunnels. Connect the remaining dot to one of these paths, crossing it and continuing for a distance. 
+4. Repeat step #2, orienting the triangle of dots in a different way than before. 
+5. Connect two of the new dots to _any_ path. Do not connect the final dot to anything. 
+6. Create a new dot wherever paths cross, and wherever a path ends that does not already have a dot. 
+7. Number each dot on the map. Note those that are within two by road or trail to the central hub.
 
-> You can use other shapes (squares, rectangles, circles, etc) to create **points** instead. Try varying the distance between **points** for each successive **Province**.
+> You can use other shapes (squares, rectangles, circles, etc) to create dots instead. Try varying the distance between dots for each successive **Province**. You can repeat this process for any adjacent **Provinces**, connecting them by road, river, or range.  
 
-### Creating Terrain
+
+### Adding Terrain
 1. Roll on the [Hub Terrain](#hub-terrain) table to determine the central hub's terrain. Choose **one** terrain from the results. 
-2. Roll on the [Near Terrain](#near-terrain) table to determine the terrain for any **points** within _two_ hops of the central hub. Choose **one** terrain from the results for each.
-3. Roll on the [Far Terrain](#far-terrain) for any **points** that are _three_ or more hops from the central hub, as well as those not connected to any path. Choose **one** terrain from the results for each.
-4. Drawn or indicate the terrain for each **point** on the map.
+2. Roll on the [Near Terrain](#near-terrain) table to determine the terrain for any dots within _two_ hops of the central hub. Choose **one** terrain from the results for each.
+3. Roll on the [Far Terrain](#far-terrain) for any dots that are _three_ or more hops from the central hub, as well as those not connected to any path. Choose **one** terrain from the results for each.
+4. Drawn or indicate the terrain for each dot on the map.
 
 #### Hub Terrain
 
@@ -100,9 +101,9 @@ Established facts about the setting. Good questions to answer:
 | **8**  |   **Desert, wasteland, sea**    |
 
 ## Details
-- **Details** act as [**Points**](/wip/2e/wilderness-exploration/#points) according to the [**Wilderness Exploration**](/wip/2e/wilderness-exploration) rules.
-- Most **Details** are placed in the **Wilds** or the **Settled Lands**.  
-- **Underworld** **Details** is typically hidden or underground, and can be anywhere or everywhere.
+- Each dot on the map is one **Detail**. **Details** act as [**Points**](/wip/2e/wilderness-exploration/#points) according to the [**Wilderness Exploration**](/wip/2e/wilderness-exploration) rules.
+- Locations in a **Province** are divided into three categories: **The Wilds**, **The Settled Lands**, and **The Underworld**.
+- Keep in mind how many **Watches** it might take to travel to each **Detail**. 
 
 ### Creating Details
 
