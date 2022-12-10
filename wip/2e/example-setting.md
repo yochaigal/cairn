@@ -88,3 +88,4 @@ The results of the die rolls are below. Items  in **bold** represent the chosen 
 6. **Deserts**, wastelands, sea
 8. **Deserts**, wastelands, sea
 10. **Deserts**, wastelands, sea
+

@@ -10,7 +10,7 @@ search_exclude: true
 # Setting
 
 ### Summary
-- A setting has a **Theme**, **Scale**, **Terrain**, **Factions**, and **Details**.
+- A setting has a **Theme**, **Scale**, **Factions**, **Terrain**, and **Details**.
 - A **Province** is a single, traversable region within a setting. A **Domain** is one or more joined **Provinces**.
 - Distance is measured in [**Watches**](/wip/2e/wilderness-exploration/#travel), assuming that the party travels by foot and on maintained roads.
 
@@ -30,6 +30,16 @@ Established facts about the setting. Good questions to answer:
 - **Medium**: 2-4 **Provinces** who share a central hub (typically a large town), no more than _eight_ **Watches** from the furthest settled **Detail**.
 - **Large**: 5-10 **Provinces** who share a central hub (typically a large city), no more than _sixteen_ **Watches** from the furthest settled **Detail**.
 
+## Factions
+- Factions rule over one or more **Details**, an entire **Province**, or even a **Domain**. 
+- The map should reflect the impact of goals being completed or interrupted. **Factions** will work to achieve their goals independently.
+- Each **faction** is ruled by a powerful figure, but most of the time PCs will be dealing with their **Seneschals**. 
+
+### Agendas & Resources
+- Factions have **Agendas** (3-4 steps towards a clear goal) and the **Resources** to help achieve them. 
+- A faction's **Resources** reflect its influence, resources, wealth, and special features. 
+- Factions grow (or lose) their **Resources** by trying to complete their agenda. 
+
 ## Provinces
 
 ### Creating a Province
@@ -44,9 +54,10 @@ Established facts about the setting. Good questions to answer:
 > You can use other shapes (squares, rectangles, circles, etc) to create **points** instead. Try varying the distance between **points** for each successive **Province**.
 
 ### Creating Terrain
-1. Roll once on the [Hub Terrain](#hub-terrain) table to determine the central hub's terrain. 
-2. Roll once on the [Near Terrain](#near-terrain) table to determine the terrain for any **points** within _two_ hops of the central hub.
-3. Roll once on the [Far Terrain](#far-terrain) for any **points** that are _three_ or more hops from the central hub, or not connected at all.
+1. Roll on the [Hub Terrain](#hub-terrain) table to determine the central hub's terrain. Choose **one** terrain from the results. 
+2. Roll on the [Near Terrain](#near-terrain) table to determine the terrain for any **points** within _two_ hops of the central hub. Choose **one** terrain from the results for each.
+3. Roll on the [Far Terrain](#far-terrain) for any **points** that are _three_ or more hops from the central hub, as well as those not connected to any path. Choose **one** terrain from the results for each.
+4. Drawn or indicate the terrain for each **point** on the map.
 
 #### Hub Terrain
 
@@ -62,41 +73,31 @@ Established facts about the setting. Good questions to answer:
 
 #### Near Terrain
 
-|        |                |
-| ------ | :------------: |
-| **d8** | **Terrain**   |
-| **1**  | **Plains, grasslands, farmlands**   |
-| **2**  | **Forests, jungle, swamp**   |
-| **3**  | **Forests, jungle, swamp**   |
-| **4**  |  **Hills, canyons, mountains**  |
-| **5**  |  **Hills, canyons, mountains**  |
-| **6**  |   **River, flooded, oasis** |
-| **7**  |  **Cliffs, beaches, caverns** |
-| **8**  | **Deserts, wastelands, sea**  |
+|        |                                   |
+| ------ | :-------------------------------: |
+| **d8** |            **Terrain**            |
+| **1**  | **Plains, grasslands, farmlands** |
+| **2**  |    **Forests, jungle, swamp**     |
+| **3**  |    **Forests, jungle, swamp**     |
+| **4**  |   **Hills, canyons, mountains**   |
+| **5**  |   **Hills, canyons, mountains**   |
+| **6**  |     **River, flooded, oasis**     |
+| **7**  |   **Cliffs, beaches, caverns**    |
+| **8**  |   **Deserts, wastelands, sea**    |
 
 #### Far Terrain
 
-|        |                |
-| ------ | :------------: |
-| **d8** |  **Terrain**   |
-| **1**  | **Plains, grasslands, farmlands**   |
-| **2**  | **Forests, jungle, swamp**   |
-| **3**  |  **Hills, canyons, mountains**   |
-| **4**  |  **Hills, canyons, mountains**   |
-| **5**  | **River, flooded, oasis**  |
-| **6**  | **Cliffs, beaches, caverns** |
-| **7**  | **Deserts, wastelands, sea** |
-| **8**  | **Deserts, wastelands, sea** |
-
-## Factions
-- Factions rule over one or more **Details**, an entire **Province**, or even a **Domain**. 
-- The map should reflect the impact of goals being completed or interrupted. **Factions** will work to achieve their goals independently.
-- Each **faction** is ruled by a powerful figure, but most of the time PCs will be dealing with their **Seneschals**. 
-
-### Agendas & Resources
-- Factions have **Agendas** (3-4 steps towards a clear goal) and the **Resources** to help achieve them. 
-- A faction's **Resources** reflect its influence, resources, wealth, and special features. 
-- Factions grow (or lose) their **Resources** by trying to complete their agenda. 
+|        |                                   |
+| ------ | :-------------------------------: |
+| **d8** |            **Terrain**            |
+| **1**  | **Plains, grasslands, farmlands** |
+| **2**  |    **Forests, jungle, swamp**     |
+| **3**  |   **Hills, canyons, mountains**   |
+| **4**  |   **Hills, canyons, mountains**   |
+| **5**  |     **River, flooded, oasis**     |
+| **6**  |   **Cliffs, beaches, caverns**    |
+| **7**  |   **Deserts, wastelands, sea**    |
+| **8**  |   **Deserts, wastelands, sea**    |
 
 ## Details
 - **Details** act as [**Points**](/wip/2e/wilderness-exploration/#points) according to the [**Wilderness Exploration**](/wip/2e/wilderness-exploration) rules.
