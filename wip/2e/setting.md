@@ -39,14 +39,14 @@ Established facts about the setting. Good questions to answer:
 4. Repeat step #2. 
 5. Connect two of the new **points** to _any_ path. Do not connect the final **point** to anything. 
 6. Create a new **point** wherever paths cross, and wherever a path ends that does not already have a **point**. 
-7. Number each **point** on the map.
+7. Number each **point** on the map. Note those that are within two by road or trail to the central hub. 
 
 > You can use other shapes (squares, rectangles, circles, etc) to create **points** instead. Try varying the distance between **points** for each successive **Province**.
 
 ### Creating Terrain
 1. Roll once on the [Hub Terrain](#hub-terrain) table to determine the central hub's terrain. 
-2. Roll once on the [Near Terrain](#near-terrain) table to determine the terrain for any **points** within _two_ **Watches** of the central hub.
-3. Roll once on the [Far Terrain](#far-terrain) for any **points** that are _three_ or more **Watches** from the central hub.
+2. Roll once on the [Near Terrain](#near-terrain) table to determine the terrain for any **points** within _two_ hops of the central hub.
+3. Roll once on the [Far Terrain](#far-terrain) for any **points** that are _three_ or more hops from the central hub, or not connected at all.
 
 #### Hub Terrain
 

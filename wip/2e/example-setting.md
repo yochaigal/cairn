@@ -65,7 +65,25 @@ search_exclude: true
 - Steal the **God-thumb**, and command the **Under-folk** to overwhelm the capital and defeat the **Potentate**.
 - Use the **God-thumb** to restore **Fria The Empty**, then rule the **Provinces**.
 
+### The Province
+[![Alt text](/img/2e/example-setting.png "Click to embiggen"){:height="60%" width="60%"}](/img/2e/example-setting.png)
+
+
 ## Terrain
-- **Roads, grasslands, plains**
-- **Forests, mountains, hills** 
-- **Deserts, jungle, swamp**  
+
+### Hub
+1. river, flooded, oasis
+
+### Near
+2. Forests, jungle, swamp
+3. Cliffs, beaches, caverns
+4. Cliffs, beaches, caverns
+5. Cliffs, beaches, caverns
+7. Hills, canyons, mountains
+9. Forests, jungle, swamp
+11. Cliffs, beaches, caverns
+
+### Far
+6. Deserts, wastelands, sea
+8. Deserts, wastelands, sea
+10. Deserts, wastelands, sea
