@@ -106,6 +106,9 @@ Established facts about the setting. Good questions to answer:
 - Keep in mind how many **Watches** it might take to travel to each **Detail**. 
 
 ### Creating Details
+1. Look at the factions you wrote earlier. For each, select one area on the map to designate as its "home base." Consider where their **Seneschals** and minions might be.
+2. 
+
 
 ### The Wilds
 - Ruin/Labyrinth/Derelict
