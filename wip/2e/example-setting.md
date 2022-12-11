@@ -17,7 +17,7 @@ search_exclude: true
 - Names & proper nouns are largely plain English. Themes are inspired by the British Isles, Germany, and Eastern Europe.
 
 ## Domain Scale
-- **Medium**: 2 **Provinces** under a single ruler (**The Potentate**).
+- **Small**: One **Province** under a single ruler (**The Potentate**).
 
 ## Factions
 
@@ -65,17 +65,15 @@ search_exclude: true
 - Steal the **God-thumb**, and command the **Under-folk** to overwhelm the capital and defeat the **Potentate**.
 - Use the **God-thumb** to restore **Fria The Empty**, then rule the **Provinces**.
 
-### The Province
-[![Alt text](/img/2e/example-setting-1.png "Click to embiggen"){:height="40%" width="40%"}](/img/2e/example-setting-1.png)
+## The Map
 
-
-## Terrain
+### Terrain
 The results of the die rolls are below. Items  in **bold** represent the chosen terrain.
 
-### Hub
+#### Hub
 1. river, flooded, **oasis**
 
-### Near
+#### Near
 2. **Forests**, jungle, swamp
 3. **Cliffs**, beaches, caverns
 4. **Cliffs**, beaches, caverns
@@ -84,9 +82,13 @@ The results of the die rolls are below. Items  in **bold** represent the chosen 
 9. Forests, jungle, **swamp**
 11. Cliffs, beaches, **caverns**
 
-### Far
+#### Far
 6. Desert, wasteland, **sea**
 8. Desert, wasteland, **sea**
 10. Desert, **wasteland**, sea
 
+#### Map Result
 [![Alt text](/img/2e/example-setting-2.png "Click to embiggen"){:height="40%" width="40%"}](/img/2e/example-setting-2.png)
+
+## Details
+- **1.**: The center of the **Potentate**.
