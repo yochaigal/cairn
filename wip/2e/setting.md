@@ -105,9 +105,38 @@ Established facts about the setting. Good questions to answer:
 - Locations in a **Province** are divided into three categories: **The Wilds**, **The Settled Lands**, and **The Underworld**.
 - Keep in mind how many **Watches** it might take to travel to each **Detail**. 
 
-### Creating Details
-1. Look at the factions you wrote earlier. For each, select one area on the map to designate as its "home base." Consider where their **Seneschals** and minions might be.
-2. 
+> Look at the factions you wrote earlier. For each, consider which **Details** could be designated as a "home base." Also, consider where their **Seneschals** and minions might be.
+
+### Adding Details
+1. Roll 1d8 on the [Details](#details-table) table for features of the central hub. 
+2. Roll 1d12 on the [Details](#details-table) table for for any dots within _two_ hops of the central hub. 
+3. Roll 1d20 on the [Details](#details-table) table for any dots that are _three_ or more hops from the central hub, as well as those not connected to any path.
+
+#### Details Table
+
+|         |             |
+| ------- | :---------: |
+| **d6**  | **Details** |
+| **1**   |    ****     |
+| **2**   |    ****     |
+| **3**   |    ****     |
+| **4**   |    ****     |
+| **5**   |    ****     |
+| **6**   |    ****     |
+| **7**   |    ****     |
+| **8**   |    ****     |
+| **9**   |    ****     |
+| **10**  |    ****     |
+| **11**  |    ****     |
+| **12**  |    ****     |
+| **13**  |    ****     |
+| **14**  |    ****     |
+| **15**  |    ****     |
+| **16**  |    ****     |
+| **17**  |    ****     |
+| **18**  |    ****     |
+| **19**  |    ****     |
+| **20**  |    ****     |
 
 
 ### The Wilds
