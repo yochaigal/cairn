@@ -62,8 +62,8 @@ The results of the die rolls are below. Items  in **bold** represent the chosen 
 10. **Fria's Promise**
 11. **The Skunkholes**
 
-### Province Name
-**Whitefort**, after its "founding" by the great ancestor of the **Earl of White**. The (now dead) locals referred to it as **The Ramparts**, but that name is long forgotten.
+### Province: Whitefort
+**Whitefort**, after its "founding" by the great ancestor of the **Earl of White**. The (now dead) locals referred to it as **The Ramparts**, but that name is long forgotten. **Hope Landing** (built around a large font of water in an otherwise brackish land) acted as a regional hub for future explorers and pioneers, but they became stymied by the wastelands to the West, and eventually settled closer to the capital city. The current ruling Faction (The **Potentate**) makes the city its center of government, while **The Will** hides in the abandoned town of **Dead Margin** on the cliffs to the Southwest.
 
 ## Factions
 
@@ -92,7 +92,7 @@ The results of the die rolls are below. Items  in **bold** represent the chosen 
 #### Resources
 - **Anonymity**: The ruling council speaks only through an anointed subject, **The Whisper**.  
 - **Information**: There is little the **Potentate**'s ubiquitous spies do not know.   
-- As the ruling faction over multiple **Provinces**, detachments of soldiers can be summoned from the villages very quickly.
+- **Hope Landing**: As the ruling faction over the **Province**, _detachments_ of soldiers can be summoned from the villages very quickly.
 - **Seneschals**: **The Whisper**, stats as [banshee](/resources/monsters/banshee/), and **Lord Alexey**, stas as [buccaneer](/resources/monsters/buccaneer/).
 
 #### Agenda
