@@ -123,17 +123,18 @@ Established facts about the setting. Good questions to answer:
 | **5**   |  **Landmark**     |
 | **6**   |  **Special**     |
 
-
 #### Settlements
-|         |             |
-| ------- | :---------: |
-| **d6**  | **Settlement** |
-| **1**   |  **Village**     |
-| **2**   |  **Town**     |
-| **3**   |  **City**     |
-| **4**   |  **Stronghold**     |
-| **5**   |  **Sanctuary**     |
-| **6**   |  **Prison**     |
+
+|        |                |
+| ------ | :------------: |
+| **d6** | **Settlement** |
+| **1**  |  **Village**   |
+| **2**  |    **Town**    |
+| **3**  |    **City**    |
+| **4**  | **Stronghold** |
+| **5**  | **Sanctuary**  |
+| **6**  |   **Prison**   |
+
 
 > Roll on the [Settlement Features](#settlement-features) table below.
    
