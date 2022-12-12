@@ -107,54 +107,117 @@ Established facts about the setting. Good questions to answer:
 > Look at the factions you wrote earlier. For each, consider which **Details** could be designated as a "home base." Also, consider where their **Seneschals** and minions might be.
 
 ### Adding Details
-1. Roll 1d8 on the [Details](#details-table) table for features of the central hub. 
-2. Roll 1d12 on the [Details](#details-table) table for for any dots within _two_ hops of the central hub. 
-3. Roll 1d20 on the [Details](#details-table) table for any dots that are _three_ or more hops from the central hub, as well as those not connected to any path.
+1. **Details** fall into three categories: **Settlements**, **Wilderness**, and **Dungeons**. 
+2. Generate features about the central hub of the **Province** (a village, town, or city) by rolling on the [Settlement Features](#settlement-features) table.
+3. Generate features for each remaining dot by first rolling on the the [Detail Types](#detail-types) table, then on the associated table.
+4. For any settlements rolled, roll on the [Settlement Features](#settlement-features) table as well.
 
-#### Details Table
+#### Detail Types
+
+|         |                 |
+| ------- | :-------------: |
+| **d6**  | **Type**        |
+| **1**   |  **Settlement**      |
+| **2**   |  **Ruins** |
+| **3**   |  **Lair**       |
+| **4**   |  **Hazard**   |
+| **5**   |  **Landmark**     |
+| **6**   |  **Special**     |
+
+
+#### Settlements
+|         |             |
+| ------- | :---------: |
+| **d6**  | **Settlement** |
+| **1**   |  **Village**     |
+| **2**   |  **Town**     |
+| **3**   |  **City**     |
+| **4**   |  **Stronghold**     |
+| **5**   |  **Sanctuary**     |
+| **6**   |  **Prison**     |
+
+> Roll on the [Settlement Features](#settlement-features) table below.
+   
+##### Settlement Features
+
+|         |                 |
+| ------- | :-------------: |
+| **d6**  | **Settlement Features**     |
+| **1**   |  **Highly defensible**      |
+| **2**   |  **Rich in resources** |
+| **3**   |  **Overcrowded**       |
+| **4**   |  **Seat of government**   |
+| **5**   |  **Factionally divided**     |
+| **6**   |  **Lacking resources**     |
+
+#### Ruins
 
 |         |             |
 | ------- | :---------: |
-| **d6**  | **Details** |
-| **1**   |    ****     |
-| **2**   |    ****     |
-| **3**   |    ****     |
-| **4**   |    ****     |
-| **5**   |    ****     |
-| **6**   |    ****     |
-| **7**   |    ****     |
-| **8**   |    ****     |
-| **9**   |    ****     |
-| **10**  |    ****     |
-| **11**  |    ****     |
-| **12**  |    ****     |
-| **13**  |    ****     |
-| **14**  |    ****     |
-| **15**  |    ****     |
-| **16**  |    ****     |
-| **17**  |    ****     |
-| **18**  |    ****     |
-| **19**  |    ****     |
-| **20**  |    ****     |
+| **d6**  | **Ruins** |
+| **1**   |  **Forsaken temple**     |
+| **2**   |  **Ransacked tomb**     |
+| **3**   |  **Abandonded settlement**     |
+| **4**   |  **Sunken villa**     |
+| **5**   |  **Dilapidated cottage**     |
+| **6**   |  **Ancient prison**     |
+
+#### Lairs
+
+|         |             |
+| ------- | :---------: |
+| **d6**  | **Lair** |
+| **1**   |  **Bandit hideout**   |
+| **2**   |  **Blighted cave**      |
+| **3**   |  **Sunken thicket**     |
+| **4**   |  **Hidden burrow**     |
+| **5**   |  **Colossal hive**     |
+| **6**   |  **Abandoned bridge**     |
+
+#### Hazards
+
+|         |             |
+| ------- | :---------: |
+| **d6**  | **Hazard** |
+| **1**   |  **Boiling liquid**     |
+| **2**   |  **Weak ground**     |
+| **3**   |  **Permanent fog**     |
+| **4**   |  **Poisonous foliage**     |
+| **5**   |  **Perilous caverns**     |
+| **6**   |  **Toxic mines**     |
+
+#### Landmarks
+
+|         |             |
+| ------- | :---------: |
+| **d6**  | **Landmark** |
+| **1**   |  **Mysterious megalith**     |
+| **2**   |  **Glimmering cave**     |
+| **3**   |  **Ancient tree**     |
+| **4**   |  **Misty waterfall**     |
+| **5**   |  **Oddly-shaped lake**     |
+| **6**   |  **Fungus-covered well**     |
+| **7**   |  **Mass grave**     |
+| **8**   |  **Giant skeleton**     |
+| **9**   |  **Hot springs**     |
+| **10**   |  **Enormous footprint**     |
+| **11**   |  **Deep crater**     |
+| **12**   |  **Petrified trees**     |
+
+#### Special
+
+|         |             |
+| ------- | :---------: |
+| **d6**  | **Special** |
+| **1**   |  **Ancient library**     |
+| **2**   |  **Unusually tall tower**     |
+| **3**   |  **Trash heap**     |
+| **4**   |  ****     |
+| **5**   |  ****     |
+| **6**   |  ****     |
 
 
-### The Wilds
-- Ruin/Labyrinth/Derelict
-- Sanctuary/Oasis/Refuge
-- Outpost/Keep/Fort/Garrison
-
-### Settled Lands
-- Village
-- Town
-- City
-
-### The Underworld
-- Dungeon
-- Cavern
-- Lair
-
-### Landmarks
-- Can be placed anywhere
-
-
+### Detail Names
+1. Roll on the Place Name Template table.
+2. Roll on the Place, Adjective and Noun tables .
 
