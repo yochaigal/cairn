@@ -62,6 +62,9 @@ The results of the die rolls are below. Items  in **bold** represent the chosen 
 10. **Fria's Promise**
 11. **The Skunkholes**
 
+### Province Name
+**Whitefort**, after its "founding" by the great ancestor of the **Earl of White**. The (now dead) locals referred to it as **The Ramparts**, but that name is long forgotten.
+
 ## Factions
 
 ### Earl of White
@@ -88,7 +91,7 @@ The results of the die rolls are below. Items  in **bold** represent the chosen 
 ### The Potentate
 #### Resources
 - **Anonymity**: The ruling council speaks only through an anointed subject, **The Whisper**.  
-- **Information**: There is little the Potentate's ubiquitous spies do not know.   
+- **Information**: There is little the **Potentate**'s ubiquitous spies do not know.   
 - As the ruling faction over multiple **Provinces**, detachments of soldiers can be summoned from the villages very quickly.
 - **Seneschals**: **The Whisper**, stats as [banshee](/resources/monsters/banshee/), and **Lord Alexey**, stas as [buccaneer](/resources/monsters/buccaneer/).
 

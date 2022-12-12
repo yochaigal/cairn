@@ -210,10 +210,12 @@ Starting with the central hub, name each **Detail** on the map based on its uniq
 - Important places should have important names: that of heroes, religious/political figures, and important events. _The Chalet of Saint Ibiz, Queen's Harvest, Light of the Nine_, etc.
 
 ### Name The Province
-Consider the following questions when determining the **Province** name:
+Consider the following when determining the **Province** name:
 - What are the key geographic features of the region? 
-- What sorts of Faction dominate this place? Are they mercantile, religious, institutional...?
+- What sorts of factions dominate this place? Are they mercantile, religious, institutional...?
 - What major events (war, famine, discoveries) occured here in the past? Who were the major players?
+- A name may also include a reference to the region's relative position to the seat of power: _The Northeast Redoubt_, _Western Ranges_, etc.
+- The name (first, or family) of a "discoverer", conquerer or colonizer often sticks around long after their death.
 
 ## Factions
 - Factions rule over one or more **Details**, an entire **Province**, or even a **Domain**. 
@@ -224,3 +226,7 @@ Consider the following questions when determining the **Province** name:
 - Factions have **Agendas** (3-4 steps towards a clear goal) and the **Resources** to help achieve them. 
 - A faction's **Resources** reflect its influence, resources, wealth, and special features. 
 - Factions grow (or lose) their **Resources** by trying to complete their agenda. 
+
+## Conclusion
+- Look back at the map, and consider how interactions between the factions might interact with the landscape, its features, and one another.
+- 
