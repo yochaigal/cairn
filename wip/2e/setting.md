@@ -150,8 +150,6 @@ Established facts about the setting. Good questions to answer:
 | **5**   |  **Factionally divided**     |
 | **6**   |  **Lacking resources**     |
 
-#### Ruins
-
 |         |             |
 | ------- | :---------: |
 | **d6**  | **Ruins** |
@@ -161,8 +159,6 @@ Established facts about the setting. Good questions to answer:
 | **4**   |  **Sunken villa**     |
 | **5**   |  **Dilapidated cottage**     |
 | **6**   |  **Ancient prison**     |
-
-#### Lairs
 
 |         |             |
 | ------- | :---------: |
@@ -174,8 +170,6 @@ Established facts about the setting. Good questions to answer:
 | **5**   |  **Colossal hive**     |
 | **6**   |  **Abandoned bridge**     |
 
-#### Hazards
-
 |         |             |
 | ------- | :---------: |
 | **d6**  | **Hazard** |
@@ -185,8 +179,6 @@ Established facts about the setting. Good questions to answer:
 | **4**   |  **Poisonous foliage**     |
 | **5**   |  **Perilous caverns**     |
 | **6**   |  **Toxic mines**     |
-
-#### Landmarks
 
 |         |             |
 | ------- | :---------: |
@@ -203,8 +195,6 @@ Established facts about the setting. Good questions to answer:
 | **10**   |  **Enormous footprint**     |
 | **11**   |  **Endless sinkholes**     |
 | **12**   |  **Petrified trees**     |
-
-#### Special
 
 |         |             |
 | ------- | :---------: |
