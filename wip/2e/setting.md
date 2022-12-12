@@ -182,7 +182,7 @@ Established facts about the setting. Good questions to answer:
 
 |         |             |
 | ------- | :---------: |
-| **d6**  | **Landmark** |
+| **d12**  | **Landmark** |
 | **1**   |  **Mysterious megalith**     |
 | **2**   |  **Glimmering cave**     |
 | **3**   |  **Ancient tree**     |
@@ -198,7 +198,7 @@ Established facts about the setting. Good questions to answer:
 
 |         |             |
 | ------- | :---------: |
-| **d6**  | **Special** |
+| **d12**  | **Special** |
 | **1**   |  **Ancient library**     |
 | **2**   |  **Ever-distant tower**     |
 | **3**   |  **Trash heap**     |
@@ -214,9 +214,9 @@ Established facts about the setting. Good questions to answer:
 
 ### Detail Names
 #### On names
-- Settlements are named after their unique features: the shape of the river nearby, or the large windmill in the center. Then add a noun or adjective.
+- Settlements are named after their unique features: the shape of the river nearby, or the large windmill in the town center. Then, the residents add a noun or adjective. _Windy Gulch, Black Tree Fort, Pitty Gardens.
 - Wilderness and dangerous places are even more obvious: poison lake, greedy mines, etc. Some tell a story: Luka's Folly, Dead Man's Path, etc. 
-- Important places should have important names: that of heroes, religious/political figures, and important events. The Garden of Saint Ibiz, Queen's Harvest, Light of the Nine, etc.
+- Important places should have important names: that of heroes, religious/political figures, and important events. _The Chalet of Saint Ibiz, Queen's Harvest, Light of the Nine_, etc.
 
 1. Roll on the Place Name Template table.
 2. Roll on the Place, Adjective and Noun tables.
