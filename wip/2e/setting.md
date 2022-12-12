@@ -107,10 +107,9 @@ Established facts about the setting. Good questions to answer:
 > Look at the factions you wrote earlier. For each, consider which **Details** could be designated as a "home base." Also, consider where their **Seneschals** and minions might be.
 
 ### Adding Details
-1. **Details** fall into three categories: **Settlements**, **Wilderness**, and **Dungeons**. 
-2. Generate features about the central hub of the **Province** (a village, town, or city) by rolling on the [Settlement Features](#settlement-features) table.
-3. Generate features for each remaining dot by first rolling on the the [Detail Types](#detail-types) table, then on the associated table.
-4. For any settlements rolled, roll on the [Settlement Features](#settlement-features) table as well.
+1. Generate features about the central hub of the **Province** (a village, town, or city) by rolling on the [Settlement Features](#settlement-features) table.
+2. Generate features for each remaining dot by first rolling on the the [Detail Types](#detail-types) table, then on the associated table.
+3. For any settlements rolled, roll on the [Settlement Features](#settlement-features) table as well.
 
 #### Detail Types
 
@@ -201,7 +200,7 @@ Established facts about the setting. Good questions to answer:
 | **8**   |  **Giant skeleton**     |
 | **9**   |  **Hot springs**     |
 | **10**   |  **Enormous footprint**     |
-| **11**   |  **Deep crater**     |
+| **11**   |  **Endless sinkholes**     |
 | **12**   |  **Petrified trees**     |
 
 #### Special
@@ -210,14 +209,24 @@ Established facts about the setting. Good questions to answer:
 | ------- | :---------: |
 | **d6**  | **Special** |
 | **1**   |  **Ancient library**     |
-| **2**   |  **Unusually tall tower**     |
+| **2**   |  **Ever-distant tower**     |
 | **3**   |  **Trash heap**     |
-| **4**   |  ****     |
-| **5**   |  ****     |
-| **6**   |  ****     |
-
+| **4**   |  **Floating construct**     |
+| **5**   |  **Unusual gravity**     |
+| **6**   |  **Singing stones**     |
+| **7**   |  **Trees that move**     |
+| **8**   |  **Buried giant**     |
+| **9**   |  **Pristine, empty city**     |
+| **10**   | **Home of the folk witches**     |
+| **11**   | **Cult ritual site**     |
+| **12**   | **Bloody battlefied**     |
 
 ### Detail Names
+#### On names
+- Settlements are named after their unique features: the shape of the river nearby, or the large windmill in the center. Then add a noun or adjective.
+- Wilderness and dangerous places are even more obvious: poison lake, greedy mines, etc. Some tell a story: Luka's Folly, Dead Man's Path, etc. 
+- Important places should have important names: that of heroes, religious/political figures, and important events. The Garden of Saint Ibiz, Queen's Harvest, Light of the Nine, etc.
+
 1. Roll on the Place Name Template table.
-2. Roll on the Place, Adjective and Noun tables .
+2. Roll on the Place, Adjective and Noun tables.
 
