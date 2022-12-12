@@ -19,6 +19,49 @@ search_exclude: true
 ## Domain Scale
 - **Small**: One **Province** under a single ruler (**The Potentate**).
 
+### Terrain
+The results of the die rolls are below. Items  in **bold** represent the chosen terrain.
+
+#### Hub
+1. **Oasis**
+2. **Forests**
+3. **Cliffs**
+4. **Cliffs**
+5. **Beaches**
+6. **Sea**
+7. **Hills**
+8. **Sea**
+9. **Swamp**
+10. **Wasteland**
+11. **Caverns**
+
+## Details
+### Details Table Results
+1. (Central hub) **Stronghold**: Seat of government
+2. **Special**: Unusual gravity
+3. **Hazard**: Permanent fog
+4. **Ruins**: Abandoned settlement
+5. **Landmark**: Glimmering cave 
+6. **Special**: Trash heap
+7. **Lair**: Faction hideout
+8. **Settlement**: Prison, factionally divided
+9. **Special**: Home of the folk witches
+10. **Lair**: Faction hideout
+11. **Lair**: Hidden burrow
+
+### Names
+1. **Hope Landing**
+2. **The Drifting Wood**
+3. **The Murk**
+4. **Dead Margin**
+5. **Swift Mines**
+6. **Slag Harbor**
+7. **Lord's Blanket**
+8. **Whisperbox Isle**
+9. **Hexmire**
+10. **Fria's Promise**
+11. **The Skunkholes**
+
 ## Factions
 
 ### Earl of White
@@ -28,13 +71,13 @@ search_exclude: true
 - **Seneschal**: Personal Chamberlain, stats as [Brigand](/resources/monsters/brigand/).
 
 #### Agenda
-- Promise this season's crop-yield to the  **Under-folk**. In exchange they will raid nearby villages.
+- Promise this season's crop-yield to the **Under-folk**. In exchange they will raid nearby villages.
 - Bait & assassinate **Lord Alexey**, whose family owns the **Swift Mines**.  
 - Marry the widow **Alexey** and inherit the mines, or buy them at a steep discount.
 
 ### Under-folk of **Swift Mines**
 #### Resources
-- 2d10+10 ratlike **Under-folk** residing peacefully in the **Swift Mines**, stats as [Kobold](/resources/monsters/kobold/).
+- 2d10+10 ratlike **Under-folk**, stats as [Kobold](/resources/monsters/kobold/).
 - The **God-thumb**, which provides warmth and safety for the colony. 
 - **Seneschal**: **Ka-ro**, stats as [Ettin](/resources/monsters/ettin/).
 
@@ -58,37 +101,13 @@ search_exclude: true
 #### Resources
 - 2d10+10 [Acolytes](/resources/monsters/acolyte).
 - **Seneschal**: **Arjen Vol Sonn**, stats as [Lich](/resources/monsters/lich/).
-- **The Springhouse**, an abandoned keep once used by ancestors of the **Earl of White**, who used it to imprison and torture their political enemies. It is well-fortified and contains a small complex of jails beneath it. 
+- **The Springhouse**, an abandoned keep in **Dead Margin**, once used by ancestors of the **Earl of White**, who used it to imprison and torture their political enemies. It is well-fortified and contains a small complex of jails beneath it. 
 
 #### Agenda
 - Send spies throughout the **Provinces** in search of the **God-thumb**.
 - Steal the **God-thumb**, and command the **Under-folk** to overwhelm the capital and defeat the **Potentate**.
 - Use the **God-thumb** to restore **Fria The Empty**, then rule the **Provinces**.
 
-## The Map
-
-### Terrain
-The results of the die rolls are below. Items  in **bold** represent the chosen terrain.
-
-#### Hub
-1. river, flooded, **oasis**
-
-#### Near
-2. **Forests**, jungle, swamp
-3. **Cliffs**, beaches, caverns
-4. **Cliffs**, beaches, caverns
-5. Cliffs, **beaches**, caverns
-7. **Hills**, canyons, mountains
-9. Forests, jungle, **swamp**
-11. Cliffs, beaches, **caverns**
-
-#### Far
-6. Desert, wasteland, **sea**
-8. Desert, wasteland, **sea**
-10. Desert, **wasteland**, sea
-
-#### Map Result
+## Map Result
 [![Alt text](/img/2e/example-setting-2.png "Click to embiggen"){:height="40%" width="40%"}](/img/2e/example-setting-2.png)
 
-## Details
-- **1.**: The center of the **Potentate**.

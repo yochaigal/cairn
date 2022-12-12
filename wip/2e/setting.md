@@ -10,8 +10,8 @@ search_exclude: true
 # Setting
 
 ### Summary
-- A setting has a **Theme**, **Scale**, **Factions**, **Terrain**, and **Details**.
-- A **Province** is a single, traversable region within a setting. A **Domain** is one or more joined **Provinces**.
+- A setting has a **Theme**, **Scale**, **Terrain**, **Details**, and **Factions**.
+- A **Province** is a single, traversable setting. A **Domain** is one or more adjacent **Provinces** defined by the same ruler.
 - Distance is measured in [**Watches**](/wip/2e/wilderness-exploration/#travel), assuming that the party travels by foot and on maintained roads.
 
 > See [this page](/wip/2e/example-setting) for an example setting.
@@ -29,16 +29,6 @@ Established facts about the setting. Good questions to answer:
 - **Small**: A single **Province** whose central hub is typically a large village, no more than _four_ **Watches** from the furthest settled **Detail**.  
 - **Medium**: 2-4 **Provinces** who share a central hub (typically a large town), no more than _eight_ **Watches** from the furthest settled **Detail**.
 - **Large**: 5-10 **Provinces** who share a central hub (typically a large city), no more than _sixteen_ **Watches** from the furthest settled **Detail**.
-
-## Factions
-- Factions rule over one or more **Details**, an entire **Province**, or even a **Domain**. 
-- The map should reflect the impact of goals being completed or interrupted. **Factions** will work to achieve their goals independently.
-- Each **faction** is ruled by a powerful figure, but most of the time PCs will be dealing with their **Seneschals**. 
-
-### Agendas & Resources
-- Factions have **Agendas** (3-4 steps towards a clear goal) and the **Resources** to help achieve them. 
-- A faction's **Resources** reflect its influence, resources, wealth, and special features. 
-- Factions grow (or lose) their **Resources** by trying to complete their agenda. 
 
 ## Provinces
 
@@ -164,7 +154,7 @@ Established facts about the setting. Good questions to answer:
 |        |                      |
 | ------ | :------------------: |
 | **d6** |       **Lair**       |
-| **1**  |  **Bandit hideout**  |
+| **1**  |  **Faction hideout**  |
 | **2**  |  **Blighted cave**   |
 | **3**  |  **Sunken thicket**  |
 | **4**  |  **Hidden burrow**   |
@@ -209,7 +199,7 @@ Established facts about the setting. Good questions to answer:
 | **7**   |     **Trees that move**      |
 | **8**   |       **Buried giant**       |
 | **9**   |   **Pristine, empty city**   |
-| **10**  | **Home of the folk witches** |
+| **10**  | **Nest of the folk witch** |
 | **11**  |     **Cult ritual site**     |
 | **12**  |    **Bloody battlefied**     |
 
@@ -224,3 +214,13 @@ Consider the following questions when determining the **Province** name:
 - What are the key geographic features of the region? 
 - What sorts of Faction dominate this place? Are they mercantile, religious, institutional...?
 - What major events (war, famine, discoveries) occured here in the past? Who were the major players?
+
+## Factions
+- Factions rule over one or more **Details**, an entire **Province**, or even a **Domain**. 
+- The map should reflect the impact of goals being completed or interrupted. **Factions** will work to achieve their goals independently.
+- Each **faction** is ruled by a powerful figure, but most of the time PCs will be dealing with their **Seneschals**. 
+
+### Agendas & Resources
+- Factions have **Agendas** (3-4 steps towards a clear goal) and the **Resources** to help achieve them. 
+- A faction's **Resources** reflect its influence, resources, wealth, and special features. 
+- Factions grow (or lose) their **Resources** by trying to complete their agenda. 
