@@ -113,15 +113,16 @@ Established facts about the setting. Good questions to answer:
 
 #### Detail Types
 
-|         |                 |
-| ------- | :-------------: |
-| **d6**  | **Type**        |
-| **1**   |  **Settlement**      |
-| **2**   |  **Ruins** |
-| **3**   |  **Lair**       |
-| **4**   |  **Hazard**   |
-| **5**   |  **Landmark**     |
-| **6**   |  **Special**     |
+
+|        |                |
+| ------ | :------------: |
+| **d6** |    **Type**    |
+| **1**  | **Settlement** |
+| **2**  |   **Ruins**    |
+| **3**  |    **Lair**    |
+| **4**  |   **Hazard**   |
+| **5**  |  **Landmark**  |
+| **6**  |  **Special**   |
 
 #### Settlements
 
@@ -137,87 +138,89 @@ Established facts about the setting. Good questions to answer:
 
 
 > Roll on the [Settlement Features](#settlement-features) table below.
-   
+
 ##### Settlement Features
 
-|         |                 |
-| ------- | :-------------: |
-| **d6**  | **Settlement Features**     |
-| **1**   |  **Highly defensible**      |
-| **2**   |  **Rich in resources** |
-| **3**   |  **Overcrowded**       |
-| **4**   |  **Seat of government**   |
-| **5**   |  **Factionally divided**     |
-| **6**   |  **Lacking resources**     |
+|        |                         |
+| ------ | :---------------------: |
+| **d6** | **Settlement Features** |
+| **1**  |  **Highly defensible**  |
+| **2**  |  **Rich in resources**  |
+| **3**  |     **Overcrowded**     |
+| **4**  | **Seat of government**  |
+| **5**  | **Factionally divided** |
+| **6**  |  **Lacking resources**  |
 
-|         |             |
-| ------- | :---------: |
-| **d6**  | **Ruins** |
-| **1**   |  **Forsaken temple**     |
-| **2**   |  **Ransacked tomb**     |
-| **3**   |  **Abandonded settlement**     |
-| **4**   |  **Sunken villa**     |
-| **5**   |  **Dilapidated cottage**     |
-| **6**   |  **Ancient prison**     |
+|        |                           |
+| ------ | :-----------------------: |
+| **d6** |         **Ruins**         |
+| **1**  |    **Forsaken temple**    |
+| **2**  |    **Ransacked tomb**     |
+| **3**  | **Abandonded settlement** |
+| **4**  |     **Sunken villa**      |
+| **5**  |  **Dilapidated cottage**  |
+| **6**  |    **Ancient prison**     |
 
-|         |             |
-| ------- | :---------: |
-| **d6**  | **Lair** |
-| **1**   |  **Bandit hideout**   |
-| **2**   |  **Blighted cave**      |
-| **3**   |  **Sunken thicket**     |
-| **4**   |  **Hidden burrow**     |
-| **5**   |  **Colossal hive**     |
-| **6**   |  **Abandoned bridge**     |
+|        |                      |
+| ------ | :------------------: |
+| **d6** |       **Lair**       |
+| **1**  |  **Bandit hideout**  |
+| **2**  |  **Blighted cave**   |
+| **3**  |  **Sunken thicket**  |
+| **4**  |  **Hidden burrow**   |
+| **5**  |  **Colossal hive**   |
+| **6**  | **Abandoned bridge** |
 
-|         |             |
-| ------- | :---------: |
-| **d6**  | **Hazard** |
-| **1**   |  **Boiling liquid**     |
-| **2**   |  **Weak ground**     |
-| **3**   |  **Permanent fog**     |
-| **4**   |  **Poisonous foliage**     |
-| **5**   |  **Perilous caverns**     |
-| **6**   |  **Toxic mines**     |
+|        |                       |
+| ------ | :-------------------: |
+| **d6** |      **Hazard**       |
+| **1**  |  **Boiling liquid**   |
+| **2**  |    **Weak ground**    |
+| **3**  |   **Permanent fog**   |
+| **4**  | **Poisonous foliage** |
+| **5**  | **Perilous caverns**  |
+| **6**  |    **Toxic mines**    |
 
-|         |             |
-| ------- | :---------: |
-| **d12**  | **Landmark** |
-| **1**   |  **Mysterious megalith**     |
-| **2**   |  **Glimmering cave**     |
-| **3**   |  **Ancient tree**     |
-| **4**   |  **Misty waterfall**     |
-| **5**   |  **Oddly-shaped lake**     |
-| **6**   |  **Fungus-covered well**     |
-| **7**   |  **Mass grave**     |
-| **8**   |  **Giant skeleton**     |
-| **9**   |  **Hot springs**     |
-| **10**   |  **Enormous footprint**     |
-| **11**   |  **Endless sinkholes**     |
-| **12**   |  **Petrified trees**     |
+|         |                         |
+| ------- | :---------------------: |
+| **d12** |      **Landmark**       |
+| **1**   | **Mysterious megalith** |
+| **2**   |   **Glimmering cave**   |
+| **3**   |    **Ancient tree**     |
+| **4**   |   **Misty waterfall**   |
+| **5**   |  **Oddly-shaped lake**  |
+| **6**   | **Fungus-covered well** |
+| **7**   |     **Mass grave**      |
+| **8**   |   **Giant skeleton**    |
+| **9**   |     **Hot springs**     |
+| **10**  | **Enormous footprint**  |
+| **11**  |  **Endless sinkholes**  |
+| **12**  |   **Petrified trees**   |
 
-|         |             |
-| ------- | :---------: |
-| **d12**  | **Special** |
-| **1**   |  **Ancient library**     |
-| **2**   |  **Ever-distant tower**     |
-| **3**   |  **Trash heap**     |
-| **4**   |  **Floating construct**     |
-| **5**   |  **Unusual gravity**     |
-| **6**   |  **Singing stones**     |
-| **7**   |  **Trees that move**     |
-| **8**   |  **Buried giant**     |
-| **9**   |  **Pristine, empty city**     |
-| **10**   | **Home of the folk witches**     |
-| **11**   | **Cult ritual site**     |
-| **12**   | **Bloody battlefied**     |
+|         |                              |
+| ------- | :--------------------------: |
+| **d12** |         **Special**          |
+| **1**   |     **Ancient library**      |
+| **2**   |    **Ever-distant tower**    |
+| **3**   |        **Trash heap**        |
+| **4**   |    **Floating construct**    |
+| **5**   |     **Unusual gravity**      |
+| **6**   |      **Singing stones**      |
+| **7**   |     **Trees that move**      |
+| **8**   |       **Buried giant**       |
+| **9**   |   **Pristine, empty city**   |
+| **10**  | **Home of the folk witches** |
+| **11**  |     **Cult ritual site**     |
+| **12**  |    **Bloody battlefied**     |
 
 ### Detail Names
-#### On names
-- Settlements are named after their unique features: the shape of the river nearby, or the large windmill in the town center. Then, the residents add a noun or adjective. _Windy Gulch, Black Tree Fort, Pitty Gardens.
-- Wilderness and dangerous places are even more obvious: poison lake, greedy mines, etc. Some tell a story: Luka's Folly, Dead Man's Path, etc. 
+Starting with the central hub, name each **Detail** on the map based on its unique terrain, feature, or history. 
+- Settlements are often named after their unique features: the shape of the river nearby, or the large windmill in the town center. Then, the residents add a noun or adjective. _Windy Gulch, Black Tree Fort, Pitty Gardens_, etc.
+- Wilderness and dangerous places are even more obvious: poison lake, greedy mines, etc. Some tell a story: _Luka's Folly, Dead Man's Path_, etc. 
 - Important places should have important names: that of heroes, religious/political figures, and important events. _The Chalet of Saint Ibiz, Queen's Harvest, Light of the Nine_, etc.
 
-1. Roll on the Place Name Template table.
-2. Roll on the Place, Adjective and Noun tables.
-
+### Name The Province
+Consider the following questions when determining the **Province** name:
+- What are the key geographic features of the region? 
+- What sorts of Faction dominate this place? Are they mercantile, religious, institutional...?
+- What major events (war, famine, discoveries) occured here in the past? Who were the major players?

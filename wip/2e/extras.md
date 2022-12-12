@@ -164,3 +164,22 @@ The Warden can roll on the [Cardinal Directions](#cardinal-directions) table to 
 
 #### Event Triggers
 - If the characters make a lot of noise (accidently or otherwise) or trigger an impending event, the **Warden** should also roll on the [**Dungeon Events**](#dungeon-events) table.
+
+#### Generate Names 
+1. Roll on the [Place Names Template](#place-names-template) table.
+2. Roll on the Place, Adjective and Noun tables.
+
+The [**Proper Noun**]
+The [**Adjective**][**Proper Noun**]
+The [**Proper Noun**] of (the) [**Noun**]
+
+##### Place Names Template Table
+
+|           |               |          |
+| --------- | ------------- | -------- |
+| **Place** | **Adjective** | **Noun** |
+|           |               |          |
+|           |               |          |
+|           |               |          |
+|           |               |          |
+
