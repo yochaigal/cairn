@@ -228,5 +228,6 @@ Consider the following when determining the **Province** name:
 - Factions grow (or lose) their **Resources** by trying to complete their agenda. 
 
 ## Conclusion
-- Look back at the map, and consider how interactions between the factions might interact with the landscape, its features, and one another.
-- 
+- Look back, consider how interactions between the factions might interact with the landscape, its features, and one another.
+- Consider the history of the region's original "discoverers", the locals they may have supplanted, and where both groups are today. 
+- When building out the next **Province**, keep in mind how it would have interacted historically with this **Province**, and what might between them in the future.
