@@ -1,0 +1,1093 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>setting.md</title>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+
+<style>
+/* https://github.com/microsoft/vscode/blob/master/extensions/markdown-language-features/media/markdown.css */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+body {
+	font-family: var(--vscode-markdown-font-family, -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif);
+	font-size: var(--vscode-markdown-font-size, 14px);
+	padding: 0 26px;
+	line-height: var(--vscode-markdown-line-height, 22px);
+	word-wrap: break-word;
+}
+
+#code-csp-warning {
+	position: fixed;
+	top: 0;
+	right: 0;
+	color: white;
+	margin: 16px;
+	text-align: center;
+	font-size: 12px;
+	font-family: sans-serif;
+	background-color:#444444;
+	cursor: pointer;
+	padding: 6px;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.25);
+}
+
+#code-csp-warning:hover {
+	text-decoration: none;
+	background-color:#007acc;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.25);
+}
+
+body.scrollBeyondLastLine {
+	margin-bottom: calc(100vh - 22px);
+}
+
+body.showEditorSelection .code-line {
+	position: relative;
+}
+
+body.showEditorSelection .code-active-line:before,
+body.showEditorSelection .code-line:hover:before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0;
+	left: -12px;
+	height: 100%;
+}
+
+body.showEditorSelection li.code-active-line:before,
+body.showEditorSelection li.code-line:hover:before {
+	left: -30px;
+}
+
+.vscode-light.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.15);
+}
+
+.vscode-light.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.40);
+}
+
+.vscode-light.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-dark.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.4);
+}
+
+.vscode-dark.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.60);
+}
+
+.vscode-dark.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-high-contrast.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 160, 0, 0.7);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 160, 0, 1);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:focus,
+input:focus,
+select:focus,
+textarea:focus {
+	outline: 1px solid -webkit-focus-ring-color;
+	outline-offset: -1px;
+}
+
+hr {
+	border: 0;
+	height: 2px;
+	border-bottom: 2px solid;
+}
+
+h1 {
+	padding-bottom: 0.3em;
+	line-height: 1.2;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+h1, h2, h3 {
+	font-weight: normal;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table > thead > tr > th {
+	text-align: left;
+	border-bottom: 1px solid;
+}
+
+table > thead > tr > th,
+table > thead > tr > td,
+table > tbody > tr > th,
+table > tbody > tr > td {
+	padding: 5px 10px;
+}
+
+table > tbody > tr + tr > td {
+	border-top: 1px solid;
+}
+
+blockquote {
+	margin: 0 7px 0 5px;
+	padding: 0 16px 0 10px;
+	border-left-width: 5px;
+	border-left-style: solid;
+}
+
+code {
+	font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+	font-size: 1em;
+	line-height: 1.357em;
+}
+
+body.wordWrap pre {
+	white-space: pre-wrap;
+}
+
+pre:not(.hljs),
+pre.hljs code > div {
+	padding: 16px;
+	border-radius: 3px;
+	overflow: auto;
+}
+
+pre code {
+	color: var(--vscode-editor-foreground);
+	tab-size: 4;
+}
+
+/** Theming */
+
+.vscode-light pre {
+	background-color: rgba(220, 220, 220, 0.4);
+}
+
+.vscode-dark pre {
+	background-color: rgba(10, 10, 10, 0.4);
+}
+
+.vscode-high-contrast pre {
+	background-color: rgb(0, 0, 0);
+}
+
+.vscode-high-contrast h1 {
+	border-color: rgb(0, 0, 0);
+}
+
+.vscode-light table > thead > tr > th {
+	border-color: rgba(0, 0, 0, 0.69);
+}
+
+.vscode-dark table > thead > tr > th {
+	border-color: rgba(255, 255, 255, 0.69);
+}
+
+.vscode-light h1,
+.vscode-light hr,
+.vscode-light table > tbody > tr + tr > td {
+	border-color: rgba(0, 0, 0, 0.18);
+}
+
+.vscode-dark h1,
+.vscode-dark hr,
+.vscode-dark table > tbody > tr + tr > td {
+	border-color: rgba(255, 255, 255, 0.18);
+}
+
+</style>
+
+<style>
+/* Tomorrow Theme */
+/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
+/* Original theme - https://github.com/chriskempson/tomorrow-theme */
+
+/* Tomorrow Comment */
+.hljs-comment,
+.hljs-quote {
+	color: #8e908c;
+}
+
+/* Tomorrow Red */
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class,
+.hljs-regexp,
+.hljs-deletion {
+	color: #c82829;
+}
+
+/* Tomorrow Orange */
+.hljs-number,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params,
+.hljs-meta,
+.hljs-link {
+	color: #f5871f;
+}
+
+/* Tomorrow Yellow */
+.hljs-attribute {
+	color: #eab700;
+}
+
+/* Tomorrow Green */
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-addition {
+	color: #718c00;
+}
+
+/* Tomorrow Blue */
+.hljs-title,
+.hljs-section {
+	color: #4271ae;
+}
+
+/* Tomorrow Purple */
+.hljs-keyword,
+.hljs-selector-tag {
+	color: #8959a8;
+}
+
+.hljs {
+	display: block;
+	overflow-x: auto;
+	color: #4d4d4c;
+	padding: 0.5em;
+}
+
+.hljs-emphasis {
+	font-style: italic;
+}
+
+.hljs-strong {
+	font-weight: bold;
+}
+</style>
+
+<style>
+/*
+ * Markdown PDF CSS
+ */
+
+ body {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif, "Meiryo";
+	padding: 0 12px;
+}
+
+pre {
+	background-color: #f8f8f8;
+	border: 1px solid #cccccc;
+	border-radius: 3px;
+	overflow-x: auto;
+	white-space: pre-wrap;
+	overflow-wrap: break-word;
+}
+
+pre:not(.hljs) {
+	padding: 23px;
+	line-height: 19px;
+}
+
+blockquote {
+	background: rgba(127, 127, 127, 0.1);
+	border-color: rgba(0, 122, 204, 0.5);
+}
+
+.emoji {
+	height: 1.4em;
+}
+
+code {
+	font-size: 14px;
+	line-height: 19px;
+}
+
+/* for inline code */
+:not(pre):not(.hljs) > code {
+	color: #C9AE75; /* Change the old color so it seems less like an error */
+	font-size: inherit;
+}
+
+/* Page Break : use <div class="page"/> to insert page break
+-------------------------------------------------------- */
+.page {
+	page-break-after: always;
+}
+
+</style>
+
+<script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+</head>
+<body>
+  <script>
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: document.body.classList.contains('vscode-dark') || document.body.classList.contains('vscode-high-contrast')
+          ? 'dark'
+          : 'default'
+    });
+  </script>
+<h1 id="setting">Setting</h1>
+<h3 id="summary">Summary</h3>
+<ul>
+<li>A setting has a <strong>Theme</strong>, <strong>Scale</strong>, <strong>Terrain</strong>, <strong>Details</strong>, and <strong>Factions</strong>.</li>
+<li>A <strong>Province</strong> is a single, traversable setting. A <strong>Domain</strong> is one or more adjacent <strong>Provinces</strong> defined by the same ruler.</li>
+<li>Distance is measured in <a href="/wip/2e/wilderness-exploration/#travel"><strong>Watches</strong></a>, assuming that the party travels by foot and on maintained roads.</li>
+</ul>
+<blockquote>
+<p>See <a href="/wip/2e/example-setting">this page</a> for an example setting.</p>
+</blockquote>
+<h2 id="theme">Theme</h2>
+<p>Established facts about the setting. Good questions to answer:</p>
+<ul>
+<li>How is magic in this world?</li>
+<li>What level of technology is it?</li>
+<li>How does religion function?</li>
+<li>Who are the PCs in the setting? What is their relative position with respect to those in power?</li>
+<li>What races &amp; backgrounds exist, and are they playable by PCs?</li>
+<li>What linguistic and cultural flavor exists in the setting?</li>
+</ul>
+<h3 id="scale">Scale</h3>
+<ul>
+<li><strong>Small</strong>: A single <strong>Province</strong> whose central hub is typically a large village, no more than <em>four</em> <strong>Watches</strong> from the furthest settled <strong>Detail</strong>.</li>
+<li><strong>Medium</strong>: 2-4 <strong>Provinces</strong> who share a central hub (typically a large town), no more than <em>eight</em> <strong>Watches</strong> from the furthest settled <strong>Detail</strong>.</li>
+<li><strong>Large</strong>: 5-10 <strong>Provinces</strong> who share a central hub (typically a large city), no more than <em>sixteen</em> <strong>Watches</strong> from the furthest settled <strong>Detail</strong>.</li>
+</ul>
+<h2 id="provinces">Provinces</h2>
+<h3 id="creating-a-province">Creating a Province</h3>
+<ol>
+<li>On a flat sheet of paper, create a dot to signify the central hub (a village, town, or city) of the <strong>Province</strong>. Number it <strong>1</strong>.</li>
+<li>Create three more dots in a triangle with the central hub in the rough center. Each of these dots represents an additional <strong>Detail</strong> on the map. Number these as well, in the order you create them.</li>
+<li>Connect two of the dots to the central hub, using solid lines to represent roads, dotted lines for trails, and double lines for rivers and tunnels. Connect the remaining dot to one of these paths, crossing it and continuing for a distance.</li>
+<li>Repeat step #2, orienting the triangle of dots in a different way than before. Number each dot.</li>
+<li>Connect two of the new dots to <em>any</em> path, numbering each as you go. Do not connect the final dot.</li>
+<li>Create a new dot wherever paths cross, and wherever a new path ends. Number them as you go.</li>
+</ol>
+<blockquote>
+<p>You can use other shapes (squares, rectangles, circles, etc) to create dots instead. Try varying the distance between dots for each successive <strong>Province</strong>. You can repeat this process for any adjacent <strong>Provinces</strong>, connecting them by road, river, or range.</p>
+</blockquote>
+<h3 id="adding-terrain">Adding Terrain</h3>
+<ol>
+<li>Roll on the <a href="#hub-terrain">Hub Terrain</a> table to determine the central hub's terrain. Choose <strong>one</strong> terrain from the results.</li>
+<li>Roll on the <a href="#near-terrain">Near Terrain</a> table to determine the terrain for any dots within <em>two</em> hops of the central hub. Choose <strong>one</strong> terrain from the results for each.</li>
+<li>Roll on the <a href="#far-terrain">Far Terrain</a> for any dots that are <em>three</em> or more hops from the central hub, as well as those not connected to any path. Choose <strong>one</strong> terrain from the results for each.</li>
+<li>Drawn or indicate the terrain for each dot on the map.</li>
+</ol>
+<h4 id="hub-terrain">Hub Terrain</h4>
+<table>
+<thead>
+<tr>
+<th></th>
+<th style="text-align:center"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>d6</strong></td>
+<td style="text-align:center"><strong>Terrain</strong></td>
+</tr>
+<tr>
+<td><strong>1</strong></td>
+<td style="text-align:center"><strong>Plains, grasslands, farmlands</strong></td>
+</tr>
+<tr>
+<td><strong>2</strong></td>
+<td style="text-align:center"><strong>Forests, jungle, swamp</strong></td>
+</tr>
+<tr>
+<td><strong>3</strong></td>
+<td style="text-align:center"><strong>River, flooded, oasis</strong></td>
+</tr>
+<tr>
+<td><strong>4</strong></td>
+<td style="text-align:center"><strong>Cliffs, beaches, caverns</strong></td>
+</tr>
+<tr>
+<td><strong>5</strong></td>
+<td style="text-align:center"><strong>Hills, canyons, mountains</strong></td>
+</tr>
+<tr>
+<td><strong>6</strong></td>
+<td style="text-align:center"><strong>Desert, wasteland, sea</strong></td>
+</tr>
+</tbody>
+</table>
+<h4 id="near-terrain">Near Terrain</h4>
+<table>
+<thead>
+<tr>
+<th></th>
+<th style="text-align:center"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>d8</strong></td>
+<td style="text-align:center"><strong>Terrain</strong></td>
+</tr>
+<tr>
+<td><strong>1</strong></td>
+<td style="text-align:center"><strong>Plains, grasslands, farmlands</strong></td>
+</tr>
+<tr>
+<td><strong>2</strong></td>
+<td style="text-align:center"><strong>Forests, jungle, swamp</strong></td>
+</tr>
+<tr>
+<td><strong>3</strong></td>
+<td style="text-align:center"><strong>Forests, jungle, swamp</strong></td>
+</tr>
+<tr>
+<td><strong>4</strong></td>
+<td style="text-align:center"><strong>Hills, canyons, mountains</strong></td>
+</tr>
+<tr>
+<td><strong>5</strong></td>
+<td style="text-align:center"><strong>Hills, canyons, mountains</strong></td>
+</tr>
+<tr>
+<td><strong>6</strong></td>
+<td style="text-align:center"><strong>River, flooded, oasis</strong></td>
+</tr>
+<tr>
+<td><strong>7</strong></td>
+<td style="text-align:center"><strong>Cliffs, beaches, caverns</strong></td>
+</tr>
+<tr>
+<td><strong>8</strong></td>
+<td style="text-align:center"><strong>Desert, wasteland, sea</strong></td>
+</tr>
+</tbody>
+</table>
+<h4 id="far-terrain">Far Terrain</h4>
+<table>
+<thead>
+<tr>
+<th></th>
+<th style="text-align:center"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>d8</strong></td>
+<td style="text-align:center"><strong>Terrain</strong></td>
+</tr>
+<tr>
+<td><strong>1</strong></td>
+<td style="text-align:center"><strong>Plains, grasslands, farmlands</strong></td>
+</tr>
+<tr>
+<td><strong>2</strong></td>
+<td style="text-align:center"><strong>Forests, jungle, swamp</strong></td>
+</tr>
+<tr>
+<td><strong>3</strong></td>
+<td style="text-align:center"><strong>Hills, canyons, mountains</strong></td>
+</tr>
+<tr>
+<td><strong>4</strong></td>
+<td style="text-align:center"><strong>Hills, canyons, mountains</strong></td>
+</tr>
+<tr>
+<td><strong>5</strong></td>
+<td style="text-align:center"><strong>River, flooded, oasis</strong></td>
+</tr>
+<tr>
+<td><strong>6</strong></td>
+<td style="text-align:center"><strong>Cliffs, beaches, caverns</strong></td>
+</tr>
+<tr>
+<td><strong>7</strong></td>
+<td style="text-align:center"><strong>Desert, wasteland, sea</strong></td>
+</tr>
+<tr>
+<td><strong>8</strong></td>
+<td style="text-align:center"><strong>Desert, wasteland, sea</strong></td>
+</tr>
+</tbody>
+</table>
+<h2 id="details">Details</h2>
+<ul>
+<li>Each dot on the map is one <strong>Detail</strong>. <strong>Details</strong> act as <a href="/wip/2e/wilderness-exploration/#points"><strong>Points</strong></a> according to the <a href="/wip/2e/wilderness-exploration"><strong>Wilderness Exploration</strong></a> rules.</li>
+<li>Locations in a <strong>Province</strong> are divided into three categories: <strong>The Wilds</strong>, <strong>The Settled Lands</strong>, and <strong>The Underworld</strong>.</li>
+<li>Keep in mind how many <strong>Watches</strong> it might take to travel to each <strong>Detail</strong>.</li>
+</ul>
+<blockquote>
+<p>Look at the factions you wrote earlier. For each, consider which <strong>Details</strong> could be designated as a &quot;home base.&quot; Also, consider where their <strong>Seneschals</strong> and minions might be.</p>
+</blockquote>
+<h3 id="adding-details">Adding Details</h3>
+<ol>
+<li>Generate features about the central hub of the <strong>Province</strong> (a village, town, or city) by rolling on the <a href="#settlement-features">Settlement Features</a> table.</li>
+<li>Generate features for each remaining dot by first rolling on the the <a href="#detail-types">Detail Types</a> table, then on the associated table.</li>
+<li>For any settlements rolled, roll on the <a href="#settlement-features">Settlement Features</a> table as well.</li>
+</ol>
+<h4 id="detail-types">Detail Types</h4>
+<table>
+<thead>
+<tr>
+<th></th>
+<th style="text-align:center"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>d6</strong></td>
+<td style="text-align:center"><strong>Detail Type</strong></td>
+</tr>
+<tr>
+<td><strong>1</strong></td>
+<td style="text-align:center"><strong>Settlement</strong></td>
+</tr>
+<tr>
+<td><strong>2</strong></td>
+<td style="text-align:center"><strong>Ruins</strong></td>
+</tr>
+<tr>
+<td><strong>3</strong></td>
+<td style="text-align:center"><strong>Lair</strong></td>
+</tr>
+<tr>
+<td><strong>4</strong></td>
+<td style="text-align:center"><strong>Hazard</strong></td>
+</tr>
+<tr>
+<td><strong>5</strong></td>
+<td style="text-align:center"><strong>Landmark</strong></td>
+</tr>
+<tr>
+<td><strong>6</strong></td>
+<td style="text-align:center"><strong>Special</strong></td>
+</tr>
+</tbody>
+</table>
+<h4 id="settlements">Settlements</h4>
+<table>
+<thead>
+<tr>
+<th></th>
+<th style="text-align:center"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>d6</strong></td>
+<td style="text-align:center"><strong>Settlement</strong></td>
+</tr>
+<tr>
+<td><strong>1</strong></td>
+<td style="text-align:center"><strong>Village</strong></td>
+</tr>
+<tr>
+<td><strong>2</strong></td>
+<td style="text-align:center"><strong>Town</strong></td>
+</tr>
+<tr>
+<td><strong>3</strong></td>
+<td style="text-align:center"><strong>City</strong></td>
+</tr>
+<tr>
+<td><strong>4</strong></td>
+<td style="text-align:center"><strong>Stronghold</strong></td>
+</tr>
+<tr>
+<td><strong>5</strong></td>
+<td style="text-align:center"><strong>Sanctuary</strong></td>
+</tr>
+<tr>
+<td><strong>6</strong></td>
+<td style="text-align:center"><strong>Prison</strong></td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>Roll on the <a href="#settlement-features">Settlement Features</a> table below.</p>
+</blockquote>
+<h5 id="settlement-features">Settlement Features</h5>
+<table>
+<thead>
+<tr>
+<th></th>
+<th style="text-align:center"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>d6</strong></td>
+<td style="text-align:center"><strong>Settlement Features</strong></td>
+</tr>
+<tr>
+<td><strong>1</strong></td>
+<td style="text-align:center"><strong>Highly defensible</strong></td>
+</tr>
+<tr>
+<td><strong>2</strong></td>
+<td style="text-align:center"><strong>Rich in resources</strong></td>
+</tr>
+<tr>
+<td><strong>3</strong></td>
+<td style="text-align:center"><strong>Overcrowded</strong></td>
+</tr>
+<tr>
+<td><strong>4</strong></td>
+<td style="text-align:center"><strong>Seat of government</strong></td>
+</tr>
+<tr>
+<td><strong>5</strong></td>
+<td style="text-align:center"><strong>Factionally divided</strong></td>
+</tr>
+<tr>
+<td><strong>6</strong></td>
+<td style="text-align:center"><strong>Lacking resources</strong></td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th></th>
+<th style="text-align:center"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>d6</strong></td>
+<td style="text-align:center"><strong>Ruins</strong></td>
+</tr>
+<tr>
+<td><strong>1</strong></td>
+<td style="text-align:center"><strong>Forsaken temple</strong></td>
+</tr>
+<tr>
+<td><strong>2</strong></td>
+<td style="text-align:center"><strong>Ransacked tomb</strong></td>
+</tr>
+<tr>
+<td><strong>3</strong></td>
+<td style="text-align:center"><strong>Abandonded settlement</strong></td>
+</tr>
+<tr>
+<td><strong>4</strong></td>
+<td style="text-align:center"><strong>Sunken villa</strong></td>
+</tr>
+<tr>
+<td><strong>5</strong></td>
+<td style="text-align:center"><strong>Dilapidated cottage</strong></td>
+</tr>
+<tr>
+<td><strong>6</strong></td>
+<td style="text-align:center"><strong>Ancient prison</strong></td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th></th>
+<th style="text-align:center"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>d6</strong></td>
+<td style="text-align:center"><strong>Lair</strong></td>
+</tr>
+<tr>
+<td><strong>1</strong></td>
+<td style="text-align:center"><strong>Faction hideout</strong></td>
+</tr>
+<tr>
+<td><strong>2</strong></td>
+<td style="text-align:center"><strong>Blighted cave</strong></td>
+</tr>
+<tr>
+<td><strong>3</strong></td>
+<td style="text-align:center"><strong>Sunken thicket</strong></td>
+</tr>
+<tr>
+<td><strong>4</strong></td>
+<td style="text-align:center"><strong>Hidden burrow</strong></td>
+</tr>
+<tr>
+<td><strong>5</strong></td>
+<td style="text-align:center"><strong>Colossal hive</strong></td>
+</tr>
+<tr>
+<td><strong>6</strong></td>
+<td style="text-align:center"><strong>Abandoned bridge</strong></td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th></th>
+<th style="text-align:center"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>d6</strong></td>
+<td style="text-align:center"><strong>Hazard</strong></td>
+</tr>
+<tr>
+<td><strong>1</strong></td>
+<td style="text-align:center"><strong>Boiling liquid</strong></td>
+</tr>
+<tr>
+<td><strong>2</strong></td>
+<td style="text-align:center"><strong>Weak ground</strong></td>
+</tr>
+<tr>
+<td><strong>3</strong></td>
+<td style="text-align:center"><strong>Permanent fog</strong></td>
+</tr>
+<tr>
+<td><strong>4</strong></td>
+<td style="text-align:center"><strong>Poisonous foliage</strong></td>
+</tr>
+<tr>
+<td><strong>5</strong></td>
+<td style="text-align:center"><strong>Perilous caverns</strong></td>
+</tr>
+<tr>
+<td><strong>6</strong></td>
+<td style="text-align:center"><strong>Toxic mines</strong></td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th></th>
+<th style="text-align:center"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>d12</strong></td>
+<td style="text-align:center"><strong>Landmark</strong></td>
+</tr>
+<tr>
+<td><strong>1</strong></td>
+<td style="text-align:center"><strong>Mysterious megalith</strong></td>
+</tr>
+<tr>
+<td><strong>2</strong></td>
+<td style="text-align:center"><strong>Glimmering cave</strong></td>
+</tr>
+<tr>
+<td><strong>3</strong></td>
+<td style="text-align:center"><strong>Ancient tree</strong></td>
+</tr>
+<tr>
+<td><strong>4</strong></td>
+<td style="text-align:center"><strong>Misty waterfall</strong></td>
+</tr>
+<tr>
+<td><strong>5</strong></td>
+<td style="text-align:center"><strong>Oddly-shaped lake</strong></td>
+</tr>
+<tr>
+<td><strong>6</strong></td>
+<td style="text-align:center"><strong>Fungus-covered well</strong></td>
+</tr>
+<tr>
+<td><strong>7</strong></td>
+<td style="text-align:center"><strong>Mass grave</strong></td>
+</tr>
+<tr>
+<td><strong>8</strong></td>
+<td style="text-align:center"><strong>Giant skeleton</strong></td>
+</tr>
+<tr>
+<td><strong>9</strong></td>
+<td style="text-align:center"><strong>Hot springs</strong></td>
+</tr>
+<tr>
+<td><strong>10</strong></td>
+<td style="text-align:center"><strong>Enormous footprint</strong></td>
+</tr>
+<tr>
+<td><strong>11</strong></td>
+<td style="text-align:center"><strong>Endless sinkholes</strong></td>
+</tr>
+<tr>
+<td><strong>12</strong></td>
+<td style="text-align:center"><strong>Petrified trees</strong></td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th></th>
+<th style="text-align:center"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>d12</strong></td>
+<td style="text-align:center"><strong>Special</strong></td>
+</tr>
+<tr>
+<td><strong>1</strong></td>
+<td style="text-align:center"><strong>Ancient library</strong></td>
+</tr>
+<tr>
+<td><strong>2</strong></td>
+<td style="text-align:center"><strong>Ever-distant tower</strong></td>
+</tr>
+<tr>
+<td><strong>3</strong></td>
+<td style="text-align:center"><strong>Trash heap</strong></td>
+</tr>
+<tr>
+<td><strong>4</strong></td>
+<td style="text-align:center"><strong>Floating construct</strong></td>
+</tr>
+<tr>
+<td><strong>5</strong></td>
+<td style="text-align:center"><strong>Unusual gravity</strong></td>
+</tr>
+<tr>
+<td><strong>6</strong></td>
+<td style="text-align:center"><strong>Singing stones</strong></td>
+</tr>
+<tr>
+<td><strong>7</strong></td>
+<td style="text-align:center"><strong>Trees that move</strong></td>
+</tr>
+<tr>
+<td><strong>8</strong></td>
+<td style="text-align:center"><strong>Buried giant</strong></td>
+</tr>
+<tr>
+<td><strong>9</strong></td>
+<td style="text-align:center"><strong>Pristine, empty city</strong></td>
+</tr>
+<tr>
+<td><strong>10</strong></td>
+<td style="text-align:center"><strong>Nest of the folk witch</strong></td>
+</tr>
+<tr>
+<td><strong>11</strong></td>
+<td style="text-align:center"><strong>Cult ritual site</strong></td>
+</tr>
+<tr>
+<td><strong>12</strong></td>
+<td style="text-align:center"><strong>Bloody battlefied</strong></td>
+</tr>
+</tbody>
+</table>
+<h3 id="detail-names">Detail Names</h3>
+<p>Starting with the central hub, name each <strong>Detail</strong> on the map based on its unique terrain, feature, or history.</p>
+<ul>
+<li>Settlements are often named after their unique features: the shape of the river nearby, or the large windmill in the town center. Then, the residents add a noun or adjective. <em>Windy Gulch, Black Tree Fort, Pitty Gardens</em>, etc.</li>
+<li>Wilderness and dangerous places are even more obvious: poison lake, greedy mines, etc. Some tell a story: <em>Luka's Folly, Dead Man's Path</em>, etc.</li>
+<li>Important places should have important names: that of heroes, religious/political figures, and important events. <em>The Chalet of Saint Ibiz, Queen's Harvest, Light of the Nine</em>, etc.</li>
+</ul>
+<h3 id="name-the-province">Name The Province</h3>
+<p>Consider the following when determining the <strong>Province</strong> name:</p>
+<ul>
+<li>What are the key geographic features of the region?</li>
+<li>What sorts of factions dominate this place? Are they mercantile, religious, institutional...?</li>
+<li>What major events (war, famine, discoveries) occured here in the past? Who were the major players?</li>
+<li>A name may also include a reference to the region's relative position to the seat of power: <em>The Northeast Redoubt</em>, <em>Western Ranges</em>, etc.</li>
+<li>The name (first, or family) of a &quot;discoverer&quot;, conquerer or colonizer often sticks around long after their death.</li>
+</ul>
+<h2 id="factions">Factions</h2>
+<ul>
+<li>Factions rule over one or more <strong>Details</strong>, an entire <strong>Province</strong>, or even a <strong>Domain</strong>.</li>
+<li>The map should reflect the impact of goals being completed or interrupted. <strong>Factions</strong> will work to achieve their goals independently.</li>
+<li>Each <strong>faction</strong> is ruled by a powerful figure, but most of the time PCs will be dealing with their <strong>Seneschals</strong>.</li>
+</ul>
+<h3 id="agendas--resources">Agendas &amp; Resources</h3>
+<ul>
+<li>Factions have <strong>Agendas</strong> (3-4 steps towards a clear goal) and the <strong>Resources</strong> to help achieve them.</li>
+<li>A faction's <strong>Resources</strong> reflect its influence, resources, wealth, and special features.</li>
+<li>Factions grow (or lose) their <strong>Resources</strong> by trying to complete their agenda.</li>
+</ul>
+<h3 id="building-factions">Building Factions</h3>
+<ol>
+<li>Roll on the <a href="#faction-types">Faction Types</a> table for every settlement <strong>Detail</strong>, starting with the central hub and expanding outward. Then roll on the <a href="#faction-resources">Faction Resources</a> table for each.</li>
+<li>Roll on the <a href="#faction-types">Faction Types</a> table for at least one Ruin and Lair <strong>Detail</strong>. Then roll on the <a href="#faction-resources">Faction Resources</a> table for each.</li>
+<li>Repeat as desired for any additional <strong>Details</strong> you choose.</li>
+<li></li>
+</ol>
+<blockquote>
+<p>Consider the <strong>details</strong> and <strong>terrain</strong> you've developed. Note what is worth protecting, as well as what is worth taking.</p>
+</blockquote>
+<h1 id="faction-types">Faction Types</h1>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>d6</strong></td>
+<td><strong>Faction Type</strong></td>
+</tr>
+<tr>
+<td><strong>1</strong></td>
+<td><strong>Academic</strong></td>
+</tr>
+<tr>
+<td><strong>2</strong></td>
+<td><strong>Arcane</strong></td>
+</tr>
+<tr>
+<td><strong>3</strong></td>
+<td><strong>Criminal</strong></td>
+</tr>
+<tr>
+<td><strong>4</strong></td>
+<td><strong>Foreign</strong></td>
+</tr>
+<tr>
+<td><strong>5</strong></td>
+<td><strong>Government</strong></td>
+</tr>
+<tr>
+<td><strong>6</strong></td>
+<td><strong>Guild</strong></td>
+</tr>
+<tr>
+<td><strong>7</strong></td>
+<td><strong>Industrial</strong></td>
+</tr>
+<tr>
+<td><strong>8</strong></td>
+<td><strong>Mercantile</strong></td>
+</tr>
+<tr>
+<td><strong>9</strong></td>
+<td><strong>Military</strong></td>
+</tr>
+<tr>
+<td><strong>10</strong></td>
+<td><strong>Peasant</strong></td>
+</tr>
+<tr>
+<td><strong>11</strong></td>
+<td><strong>Religious</strong></td>
+</tr>
+<tr>
+<td><strong>12</strong></td>
+<td><strong>Revolutionary</strong></td>
+</tr>
+</tbody>
+</table>
+<h1 id="faction-resources">Faction Resources</h1>
+<table>
+<thead>
+<tr>
+<th></th>
+<th style="text-align:center"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>d6</strong></td>
+<td style="text-align:center"><strong>Resource Type</strong></td>
+</tr>
+<tr>
+<td><strong>1</strong></td>
+<td style="text-align:center">****</td>
+</tr>
+<tr>
+<td><strong>2</strong></td>
+<td style="text-align:center">****</td>
+</tr>
+<tr>
+<td><strong>3</strong></td>
+<td style="text-align:center">****</td>
+</tr>
+<tr>
+<td><strong>4</strong></td>
+<td style="text-align:center">****</td>
+</tr>
+<tr>
+<td><strong>5</strong></td>
+<td style="text-align:center">****</td>
+</tr>
+<tr>
+<td><strong>6</strong></td>
+<td style="text-align:center">****</td>
+</tr>
+<tr>
+<td><strong>7</strong></td>
+<td style="text-align:center">****</td>
+</tr>
+<tr>
+<td><strong>8</strong></td>
+<td style="text-align:center">****</td>
+</tr>
+<tr>
+<td><strong>9</strong></td>
+<td style="text-align:center">****</td>
+</tr>
+<tr>
+<td><strong>10</strong></td>
+<td style="text-align:center">****</td>
+</tr>
+<tr>
+<td><strong>11</strong></td>
+<td style="text-align:center">****</td>
+</tr>
+<tr>
+<td><strong>12</strong></td>
+<td style="text-align:center">****</td>
+</tr>
+</tbody>
+</table>
+<h2 id="conclusion">Conclusion</h2>
+<p>Your <strong>Province</strong> is now complete! You can now &quot;drill down&quot; into various locations (starting with the hub) and build out each <strong>Detail</strong> with your favorite tables. Keep the following thoughts in mind as you do:</p>
+<ul>
+<li>How might the interactions between the <strong>Factions</strong> interact with the landscape, its features, and one another? How will this change as the <strong>Factions</strong> succeed (or fail) at their goals?</li>
+<li>Consider the history of the region's original &quot;discoverers&quot;, the locals they may have supplanted, and where both groups are today.</li>
+<li>When building out the next <strong>Province</strong>, keep in mind how it would have interacted historically with this <strong>Province</strong>, and what might between them in the future.</li>
+</ul>
+
+</body>
+</html>

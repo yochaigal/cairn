@@ -59,7 +59,7 @@ Established facts about the setting. Good questions to answer:
 | **3**  |     **River, flooded, oasis**     |
 | **4**  |   **Cliffs, beaches, caverns**    |
 | **5**  |   **Hills, canyons, mountains**   |
-| **6**  |   **Desert, wasteland, sea**    |
+| **6**  |    **Desert, wasteland, sea**     |
 
 #### Near Terrain
 
@@ -73,7 +73,7 @@ Established facts about the setting. Good questions to answer:
 | **5**  |   **Hills, canyons, mountains**   |
 | **6**  |     **River, flooded, oasis**     |
 | **7**  |   **Cliffs, beaches, caverns**    |
-| **8**  |   **Desert, wasteland, sea**    |
+| **8**  |    **Desert, wasteland, sea**     |
 
 #### Far Terrain
 
@@ -86,8 +86,8 @@ Established facts about the setting. Good questions to answer:
 | **4**  |   **Hills, canyons, mountains**   |
 | **5**  |     **River, flooded, oasis**     |
 | **6**  |   **Cliffs, beaches, caverns**    |
-| **7**  |   **Desert, wasteland, sea**    |
-| **8**  |   **Desert, wasteland, sea**    |
+| **7**  |    **Desert, wasteland, sea**     |
+| **8**  |    **Desert, wasteland, sea**     |
 
 ## Details
 - Each dot on the map is one **Detail**. **Details** act as [**Points**](/wip/2e/wilderness-exploration/#points) according to the [**Wilderness Exploration**](/wip/2e/wilderness-exploration) rules.
@@ -103,16 +103,15 @@ Established facts about the setting. Good questions to answer:
 
 #### Detail Types
 
-
-|        |                |
-| ------ | :------------: |
-| **d6** |    **Type**    |
-| **1**  | **Settlement** |
-| **2**  |   **Ruins**    |
-| **3**  |    **Lair**    |
-| **4**  |   **Hazard**   |
-| **5**  |  **Landmark**  |
-| **6**  |  **Special**   |
+|        |                 |
+| ------ | :-------------: |
+| **d6** | **Detail Type** |
+| **1**  | **Settlement**  |
+| **2**  |    **Ruins**    |
+| **3**  |    **Lair**     |
+| **4**  |   **Hazard**    |
+| **5**  |  **Landmark**   |
+| **6**  |   **Special**   |
 
 #### Settlements
 
@@ -125,7 +124,6 @@ Established facts about the setting. Good questions to answer:
 | **4**  | **Stronghold** |
 | **5**  | **Sanctuary**  |
 | **6**  |   **Prison**   |
-
 
 > Roll on the [Settlement Features](#settlement-features) table below.
 
@@ -141,6 +139,8 @@ Established facts about the setting. Good questions to answer:
 | **5**  | **Factionally divided** |
 | **6**  |  **Lacking resources**  |
 
+#### Ruins
+
 |        |                           |
 | ------ | :-----------------------: |
 | **d6** |         **Ruins**         |
@@ -151,15 +151,19 @@ Established facts about the setting. Good questions to answer:
 | **5**  |  **Dilapidated cottage**  |
 | **6**  |    **Ancient prison**     |
 
+#### Lairs
+
 |        |                      |
 | ------ | :------------------: |
 | **d6** |       **Lair**       |
-| **1**  |  **Faction hideout**  |
+| **1**  | **Faction hideout**  |
 | **2**  |  **Blighted cave**   |
 | **3**  |  **Sunken thicket**  |
 | **4**  |  **Hidden burrow**   |
 | **5**  |  **Colossal hive**   |
 | **6**  | **Abandoned bridge** |
+
+#### Hazards
 
 |        |                       |
 | ------ | :-------------------: |
@@ -170,6 +174,8 @@ Established facts about the setting. Good questions to answer:
 | **4**  | **Poisonous foliage** |
 | **5**  | **Perilous caverns**  |
 | **6**  |    **Toxic mines**    |
+
+#### Landmarks
 
 |         |                         |
 | ------- | :---------------------: |
@@ -187,21 +193,23 @@ Established facts about the setting. Good questions to answer:
 | **11**  |  **Endless sinkholes**  |
 | **12**  |   **Petrified trees**   |
 
-|         |                              |
-| ------- | :--------------------------: |
-| **d12** |         **Special**          |
-| **1**   |     **Ancient library**      |
-| **2**   |    **Ever-distant tower**    |
-| **3**   |        **Trash heap**        |
-| **4**   |    **Floating construct**    |
-| **5**   |     **Unusual gravity**      |
-| **6**   |      **Singing stones**      |
-| **7**   |     **Trees that move**      |
-| **8**   |       **Buried giant**       |
-| **9**   |   **Pristine, empty city**   |
+#### Special
+
+|         |                            |
+| ------- | :------------------------: |
+| **d12** |        **Special**         |
+| **1**   |    **Ancient library**     |
+| **2**   |   **Ever-distant tower**   |
+| **3**   |       **Trash heap**       |
+| **4**   |   **Floating construct**   |
+| **5**   |    **Unusual gravity**     |
+| **6**   |     **Singing stones**     |
+| **7**   |    **Trees that move**     |
+| **8**   |      **Buried giant**      |
+| **9**   |  **Pristine, empty city**  |
 | **10**  | **Nest of the folk witch** |
-| **11**  |     **Cult ritual site**     |
-| **12**  |    **Bloody battlefied**     |
+| **11**  |    **Cult ritual site**    |
+| **12**  |   **Bloody battlefied**    |
 
 ### Detail Names
 Starting with the central hub, name each **Detail** on the map based on its unique terrain, feature, or history. 
@@ -220,12 +228,78 @@ Consider the following when determining the **Province** name:
 ## Factions
 - Factions rule over one or more **Details**, an entire **Province**, or even a **Domain**. 
 - The map should reflect the impact of goals being completed or interrupted. **Factions** will work to achieve their goals independently.
-- Each **faction** is ruled by a powerful figure, but most of the time PCs will be dealing with their **Seneschals**. 
+- Each **Faction** is ruled by a powerful figure, but most of the time PCs will be dealing with their **Seneschals**. 
 
 ### Agendas & Resources
 - Factions have **Agendas** (3-4 steps towards a clear goal) and the **Resources** to help achieve them. 
 - A faction's **Resources** reflect its influence, resources, wealth, and special features. 
 - Factions grow (or lose) their **Resources** by trying to complete their agenda. 
+
+### Creating Factions
+- Do not feel limited by the table results below. If a Faction should have more or fewer **Resources**, that's OK!
+- Consider the **Details** and **Terrain** you've developed. Note what is worth protecting, as well as what is worth taking.
+- **Agendas** are lofty plans with distinct steps based on actionable goals. They should relate to the acquisition of powerful territory, weapons, money, and **Resources**. 
+
+### Faction Creation Procedure
+1. Starting with the central hub, repeat steps #2-4 for every settlement **Detail**, followed by at least one **Ruin** or **Lair**. 
+2. Roll once the [Faction Types](#faction-types) table, noting the indicated number of **Resources**.
+3. Roll on the [Faction Resources](#faction-resources) table as many times as indicated by the results of step #2. 
+4. Roll on the [Faction Agendas](#faction-agendas) table. 
+
+#### Faction Types
+
+|        |                   |               |
+| ------ | ----------------- | :-----------: |
+| **d6** | **Faction Type**  | **Resources** |
+| **1**  | **Academic**      |     **3**     |
+| **2**  | **Arcane**        |     **2**     |
+| **3**  | **Criminal**      |     **1**     |
+| **4**  | **Foreign**       |     **3**     |
+| **5**  | **Government**    |     **4**     |
+| **6**  | **Guild**         |     **3**     |
+| **7**  | **Industrial**    |     **3**     |
+| **8**  | **Mercantile**    |     **4**     |
+| **9**  | **Military**      |     **3**     |
+| **10** | **Peasant**       |     **1**     |
+| **11** | **Religious**     |     **2**     |
+| **12** | **Revolutionary** |     **1**     |
+
+
+#### Faction Resources
+
+|        |                   |
+| ------ | :---------------: |
+| **d6** | **Resource Type** |
+| **1**  |       ****        |
+| **2**  |       ****        |
+| **3**  |       ****        |
+| **4**  |       ****        |
+| **5**  |       ****        |
+| **6**  |       ****        |
+| **7**  |       ****        |
+| **8**  |       ****        |
+| **9**  |       ****        |
+| **10** |       ****        |
+| **11** |       ****        |
+| **12** |       ****        |
+
+#### Faction Agendas
+
+|        |                    |
+| ------ | :----------------: |
+| **d6** | **Faction Agenda** |
+| **1**  |        ****        |
+| **2**  |        ****        |
+| **3**  |        ****        |
+| **4**  |        ****        |
+| **5**  |        ****        |
+| **6**  |        ****        |
+| **7**  |        ****        |
+| **8**  |        ****        |
+| **9**  |        ****        |
+| **10** |        ****        |
+| **11** |        ****        |
+| **12** |        ****        |
 
 ## Conclusion
 Your **Province** is now complete! You can now "drill down" into various locations (starting with the hub) and build out each **Detail** with your favorite tables. Keep the following thoughts in mind as you do:
