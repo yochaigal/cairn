@@ -240,66 +240,86 @@ Consider the following when determining the **Province** name:
 - Consider the **Details** and **Terrain** you've developed. Note what is worth protecting, as well as what is worth taking.
 - **Agendas** are lofty plans with distinct steps based on actionable goals. They should relate to the acquisition of powerful territory, weapons, money, and **Resources**. 
 
-### Faction Creation Procedure
-1. Starting with the central hub, repeat steps #2-4 for every settlement **Detail**, followed by at least one **Ruin** or **Lair**. 
+#### Factions Creation Procedure
+1. Starting with the central hub, repeat steps #2-4 for every settlement **Detail**, followed by at least one ruin or lair. 
 2. Roll once the [Faction Types](#faction-types) table, noting the indicated number of **Resources**.
 3. Roll on the [Faction Resources](#faction-resources) table as many times as indicated by the results of step #2. 
 4. Roll on the [Faction Agendas](#faction-agendas) table. 
+5. Roll on the [Seneschals](#seneschals) table at least once for each **Faction**.
+6. Repeat the process for any additional **Details**, as you see fit.
 
 #### Faction Types
 
-|        |                   |               |
-| ------ | ----------------- | :-----------: |
-| **d6** | **Faction Type**  | **Resources** |
-| **1**  | **Academic**      |     **3**     |
-| **2**  | **Arcane**        |     **2**     |
-| **3**  | **Criminal**      |     **1**     |
-| **4**  | **Foreign**       |     **3**     |
-| **5**  | **Government**    |     **4**     |
-| **6**  | **Guild**         |     **3**     |
-| **7**  | **Industrial**    |     **3**     |
-| **8**  | **Mercantile**    |     **4**     |
-| **9**  | **Military**      |     **3**     |
-| **10** | **Peasant**       |     **1**     |
-| **11** | **Religious**     |     **2**     |
-| **12** | **Revolutionary** |     **1**     |
+|         |                   |               |
+| ------- | ----------------- | :-----------: |
+| **d12** | **Faction Type**  | **Resources** |
+| **1**   | **Academic**      |     **3**     |
+| **2**   | **Arcane**        |     **2**     |
+| **3**   | **Criminal**      |     **1**     |
+| **4**   | **Foreign**       |     **3**     |
+| **5**   | **Government**    |     **4**     |
+| **6**   | **Guild**         |     **3**     |
+| **7**   | **Industrial**    |     **3**     |
+| **8**   | **Mercantile**    |     **4**     |
+| **9**   | **Military**      |     **3**     |
+| **10**  | **Peasant**       |     **1**     |
+| **11**  | **Religious**     |     **2**     |
+| **12**  | **Revolutionary** |     **1**     |
 
 
 #### Faction Resources
 
-|        |                   |
-| ------ | :---------------: |
-| **d6** | **Resource Type** |
-| **1**  |       ****        |
-| **2**  |       ****        |
-| **3**  |       ****        |
-| **4**  |       ****        |
-| **5**  |       ****        |
-| **6**  |       ****        |
-| **7**  |       ****        |
-| **8**  |       ****        |
-| **9**  |       ****        |
-| **10** |       ****        |
-| **11** |       ****        |
-| **12** |       ****        |
+|         |                   |
+| ------- | :---------------: |
+| **d12** | **Resource Type** |
+| **1**   |       ****        |
+| **2**   |       ****        |
+| **3**   |       ****        |
+| **4**   |       ****        |
+| **5**   |       ****        |
+| **6**   |       ****        |
+| **7**   |       ****        |
+| **8**   |       ****        |
+| **9**   |       ****        |
+| **10**  |       ****        |
+| **11**  |       ****        |
+| **12**  |       ****        |
 
 #### Faction Agendas
 
-|        |                    |
-| ------ | :----------------: |
-| **d6** | **Faction Agenda** |
-| **1**  |        ****        |
-| **2**  |        ****        |
-| **3**  |        ****        |
-| **4**  |        ****        |
-| **5**  |        ****        |
-| **6**  |        ****        |
-| **7**  |        ****        |
-| **8**  |        ****        |
-| **9**  |        ****        |
-| **10** |        ****        |
-| **11** |        ****        |
-| **12** |        ****        |
+|         |            |
+| ------- | :--------: |
+| **d12** | **Agenda** |
+| **1**   |    ****    |
+| **2**   |    ****    |
+| **3**   |    ****    |
+| **4**   |    ****    |
+| **5**   |    ****    |
+| **6**   |    ****    |
+| **7**   |    ****    |
+| **8**   |    ****    |
+| **9**   |    ****    |
+| **10**  |    ****    |
+| **11**  |    ****    |
+| **12**  |    ****    |
+
+#### Seneschals
+
+|         |               |
+| ------- | :-----------: |
+| **d12** | **Seneschal** |
+| **1**   |     ****      |
+| **2**   |     ****      |
+| **3**   |     ****      |
+| **4**   |     ****      |
+| **5**   |     ****      |
+| **6**   |     ****      |
+| **7**   |     ****      |
+| **8**   |     ****      |
+| **9**   |     ****      |
+| **10**  |     ****      |
+| **11**  |     ****      |
+| **12**  |     ****      |
 
 ## Conclusion
 Your **Province** is now complete! You can now "drill down" into various locations (starting with the hub) and build out each **Detail** with your favorite tables. Keep the following thoughts in mind as you do:
