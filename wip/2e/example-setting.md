@@ -62,31 +62,10 @@ The results of the die rolls are below. Items  in **bold** represent the chosen 
 10. **Fria's Promise**
 11. **The Skunkholes**
 
-### Province: Whitefort
+## Province: Whitefort
 **Whitefort**, after its "founding" by the great ancestor of the **Earl of White**. The (now dead) locals referred to it as **The Ramparts**, but that name is long forgotten. **Hope Landing** (built around a large font of water in an otherwise brackish land) acted as a regional hub for future explorers and pioneers, but they became stymied by the wastelands to the West, and eventually settled closer to the capital city. The current ruling Faction (The **Potentate**) makes the city its center of government, while **The Will** hides in the abandoned town of **Dead Margin** on the cliffs to the Southwest.
 
 ## Factions
-
-### Earl of White
-#### Resources
-- Fealty of the plains villages and their farms (as detachment, stats as [Bandits](/resources/monsters/bandit/)).
-- Control of significant food stores.
-- **Seneschal**: Personal Chamberlain, stats as [Brigand](/resources/monsters/brigand/).
-
-#### Agenda
-- Promise this season's crop-yield to the **Under-folk**. In exchange they will raid nearby villages.
-- Bait & assassinate **Lord Alexey**, whose family owns the **Swift Mines**.  
-- Marry the widow **Alexey** and inherit the mines, or buy them at a steep discount.
-
-### Under-folk of **Swift Mines**
-#### Resources
-- 2d10+10 ratlike **Under-folk**, stats as [Kobold](/resources/monsters/kobold/).
-- The **God-thumb**, which provides warmth and safety for the colony. 
-- **Seneschal**: **Ka-ro**, stats as [Ettin](/resources/monsters/ettin/).
-
-#### Agenda
-- Protect the **God-thumb** at all costs.
-- Find new sources of food for the coming winter. 
 
 ### The Potentate
 #### Resources
@@ -99,6 +78,27 @@ The results of the die rolls are below. Items  in **bold** represent the chosen 
 - Maintain the stability of the realm by crushing rising threats from other factions. 
 - Deploy newly-garrisoned troops to all roads leading into the Capital, to uncover enemies of the realm through torture and force. 
 - Crush the **The Will** and any other enemies threatening the realm. 
+
+### Earl of White
+#### Resources
+- Fealty of the plains villages and their farms (as detachment, stats as [Bandits](/resources/monsters/bandit/)).
+- Control of significant food stores.
+- **Seneschal**: Personal Chamberlain, stats as [Brigand](/resources/monsters/brigand/).
+
+#### Agenda
+- Promise this season's crop-yield to the **Under-folk**. In exchange they will raid nearby villages.
+- Bait & assassinate **Lord Alexey**, whose family owns the **Swift Mines**.  
+- Marry the widow **Alexey** and inherit the mines, or buy them at a steep discount.
+
+### The Under-folk
+#### Resources
+- 2d10+10 ratlike **Under-folk**, stats as [Kobold](/resources/monsters/kobold/).
+- The **God-thumb**, which provides warmth and safety for the colony. 
+- **Seneschal**: **Ka-ro**, stats as [Ettin](/resources/monsters/ettin/).
+
+#### Agenda
+- Protect the **God-thumb** at all costs.
+- Find new sources of food for the coming winter. 
 
 ### The Will
 #### Resources
