@@ -266,8 +266,6 @@ Consider the following when determining the **Province** name:
 | **11**  | **Religious**     | **2**         |
 | **12**  | **Revolutionary** | **1**         |
 
-
-
 #### Faction Resources
 
 |         |                   |
@@ -275,11 +273,11 @@ Consider the following when determining the **Province** name:
 | **d12** | **Resource Type** |
 | **1**   | **Anonymity**     |
 | **2**   | **Control**       |
-| **3**   | **Dominant**      |
+| **3**   | **Attrition**     |
 | **4**   | **Fealty**        |
 | **5**   | **Hideout**       |
 | **6**   | **Information**   |
-| **7**   | **Invisibility**  |
+| **7**   | **Covert**        |
 | **8**   | **Loyalty**       |
 | **9**   | **Magic**         |
 | **10**  | **Numbers**       |
@@ -288,21 +286,29 @@ Consider the following when determining the **Province** name:
 
 #### Faction Agendas
 
-|         |            |
-| ------- | :--------: |
-| **d12** | **Agenda** |
-| **1**   |    ****    |
-| **2**   |    ****    |
-| **3**   |    ****    |
-| **4**   |    ****    |
-| **5**   |    ****    |
-| **6**   |    ****    |
-| **7**   |    ****    |
-| **8**   |    ****    |
-| **9**   |    ****    |
-| **10**  |    ****    |
-| **11**  |    ****    |
-| **12**  |    ****    |
+|         |                 |
+| ------- | --------------- |
+| **d20** | **Agenda**      |
+| **1**   | **Avoid**       |
+| **2**   | **Awaken**      |
+| **3**   | **Collect**     |
+| **4**   | **Create**      |
+| **5**   | **Defeat**      |
+| **6**   | **Defend**      |
+| **7**   | **Destroy**     |
+| **8**   | **Domination**  |
+| **9**   | **Enrich**      |
+| **10**  | **Infiltrate**  |
+| **11**  | **Overthrow**   |
+| **12**  | **Preserve**    |
+| **13**  | **Produce**     |
+| **14**  | **Purge**       |
+| **15**  | **Restoration** |
+| **16**  | **Revenge**     |
+| **17**  | **Reveal**      |
+| **18**  | **Revive**      |
+| **19**  | **Spread**      |
+| **20**  | **Survive**     |
 
 #### Seneschals
 
