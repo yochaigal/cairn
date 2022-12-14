@@ -28,3 +28,4 @@ nav_order: 20
 * [**Maze Rats Spells In Cairn**](https://xenio.bearblog.dev/maze-rats-spells-in-cairn/)
 * [**Piedmont: Songs of the Hills**](https://lionheart-clan.itch.io/piedmont-songs-of-the-hills)
 * [**Creatures and Curses of Yamada**](https://juniejuniejune.itch.io/creatures-and-curses-of-yamada)
+* [**Block, Dodge, Parry**](https://dicegoblingames.itch.io/block-dodge-parry)
