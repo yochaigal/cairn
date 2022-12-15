@@ -241,42 +241,41 @@ Consider the following when determining the **Province** name:
 - Do not feel limited by the table results below. If a Faction should have more or fewer **Resources**, that's OK!
 
 #### Factions Creation Procedure
-Starting with the central hub, follow this procedure for every settlement **Detail** on the map. Repeat the process for at least one Lair or Ruin on the map.
-1. Roll once the [Faction Types](#faction-types) table, noting the indicated number of **Resources** the **Faction** has.
-2. Roll on the [Faction Resources](#faction-resources) table as many times as indicated by the results of step 2.
-3. Roll on the [Faction Agendas](#faction-agendas) table.
-4. Create at least one **Seneschal**. Consider the **Faction** type, **Resource**, and **Agenda**.
+1. Starting with the central hub, roll on the following tables for every Settlement **Detail** on the map. 
+2. Repeat the process for at least one Lair or Ruin on the map.
+3. Create **Resources** according to each result. Consider the 
+4. Create at least one **Seneschal**, inspired by the likely followers of the **Faction**'s type, **Resources**, and **Agenda**.
  
 #### Faction Types
 
-|         |                   |               |
-| ------- | ----------------- | :-----------: |
-| **d12** | **Faction Type**  | **Resources** |
-| **1**   | **Academic**      |     **3**     |
-| **2**   | **Arcane**        |     **2**     |
-| **3**   | **Criminal**      |     **1**     |
-| **4**   | **Foreign**       |     **3**     |
-| **5**   | **Government**    |     **4**     |
-| **6**   | **Industrial**    |     **2**     |
-| **7**   | **Mercantile**    |     **3**     |
-| **8**   | **Military**      |     **4**     |
-| **9**   | **Noble**         |     **3**     |
-| **10**  | **Peasant**       |     **1**     |
-| **11**  | **Religious**     |     **2**     |
-| **12**  | **Revolutionary** |     **1**     |
+|         |                   |
+| ------- | ----------------- |
+| **d12** | **Faction Type**  |
+| **1**   | **Academic**      |
+| **2**   | **Arcane**        |
+| **3**   | **Criminal**      |
+| **4**   | **Foreign**       |
+| **5**   | **Government**    |
+| **6**   | **Industrial**    |
+| **7**   | **Mercantile**    |
+| **8**   | **Military**      |
+| **9**   | **Noble**         |
+| **10**  | **Peasant**       |
+| **11**  | **Religious**     |
+| **12**  | **Revolutionary** |
 
 #### Faction Resources
 
 |         |                   |                                                                              |                                  |
 | ------- | ----------------- | ---------------------------------------------------------------------------- | :------------------------------: |
-| **d12** | **Resource Type** | **Example**                                                                  |      **Example Seneschals**      |
+| **d12** | **Resource Type** | **Example Resources**                                                        |      **Example Seneschals**      |
 | **1**   | **Anonymity**     | Mercurial and hard to pin down. Shrouded in mystery.                         |     Monks, elders, demi-gods     |
-| **2**   | **Apparatus**     | A powerful Relic, artifact, or tool.                                         |                                  |
+| **2**   | **Apparatus**     | A powerful Relic, artifact, or tool.                                         |  Scholars, philosophers, sages   |
 | **3**   | **Authority**     | Part of a de-facto regime, respected or feared.                              |   Nobles, specialists, killers   |
 | **4**   | **Invisibility**  | Moves unseen, achieving its goals through a cloak-and-dagger approach.       |  Assassins, tricksters, thieves  |
 | **5**   | **Fealty**        | Enjoys the loyalty of a large or important bloc of people.                   |    Lords, bannermen, farmers     |
 | **6**   | **Force**         | Employs brawn as its voice, and brute force as the cudgel.                   |    Bullies, toughs, flatfoots    |
-| **7**   | **Knowledge**     | Keeps tabs on friends and enemies alike via espionage and arcane privileges. |   Spies, informatants, mystics   |
+| **7**   | **Knowledge**     | Keeps tabs on friends and enemies alike via espionage and arcane privileges. |    Spies, informants, mystics    |
 | **8**   | **Magic**         | Relies on the arcane arts to carry out its agenda.                           |   Wizards, spellswords, liches   |
 | **9**   | **Population**    | Boasts a large number of rank and file members.                              |     Gangs, urchins, peddlers     |
 | **10**  | **Property**      | Keeps sway over a local resource, item, or source of power.                  |    Workers, thugs, academics     |
@@ -285,29 +284,21 @@ Starting with the central hub, follow this procedure for every settlement **Deta
 
 #### Faction Agendas
 
-|         |                 |
-| ------- | --------------- |
-| **d20** | **Agenda**      |
-| **1**   | **Avoid**       |
-| **2**   | **Awaken**      |
-| **3**   | **Collect**     |
-| **4**   | **Create**      |
-| **5**   | **Defeat**      |
-| **6**   | **Defend**      |
-| **7**   | **Destroy**     |
-| **8**   | **Domination**  |
-| **9**   | **Enrich**      |
-| **10**  | **Infiltrate**  |
-| **11**  | **Overthrow**   |
-| **12**  | **Preserve**    |
-| **13**  | **Produce**     |
-| **14**  | **Purge**       |
-| **15**  | **Restoration** |
-| **16**  | **Revenge**     |
-| **17**  | **Reveal**      |
-| **18**  | **Revive**      |
-| **19**  | **Spread**      |
-| **20**  | **Survive**     |
+|         |                |                                                                      |
+| ------- | -------------- | -------------------------------------------------------------------- |
+| **d12** | **Agenda**     | **Example Agendas**                                                  |
+| **1**   | **Collect**    | Bring together ancient artifacts once thought lost.                  |
+| **2**   | **Defend**     | Protect a person, place or thing at all costs.                       |
+| **3**   | **Destroy**    | Eliminate a rival faction, artifact, or person.                      |
+| **4**   | **Domination** | Bring disparate factions under the same leadership, and then expand. |
+| **5**   | **Enrich**     | Concentrate as much wealth in the faction's coffers as possible.     |
+| **6**   | **Infiltrate** | Place members in other factions, asserting control from within.      |
+| **7**   | **Overthrow**  | Replace the current leadership with themselves.                      |
+| **8**   | **Preserve**   | Maintain the status quo.                                             |
+| **9**   | **Purge**      | Rid the land of a custom, belief, or people.                         |
+| **10**  | **Revenge**    | Rectify a perceived injustice.                                       |
+| **11**  | **Reveal**     | Disclose a long-kept secret.                                         |
+| **12**  | **Revive**     | Restore a former leader, god, or locale.                             |
 
 ## Conclusion
 Your **Province** is now complete! You can now "drill down" into various locations (starting with the hub) and build out each **Detail** with your favorite tables. Keep the following thoughts in mind as you do:
