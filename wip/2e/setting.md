@@ -228,7 +228,7 @@ Consider the following when determining the **Province** name:
 ## Factions
 - Factions rule over one or more **Details**, an entire **Province**, or even a **Domain**. 
 - The map should reflect the impact of goals being completed or interrupted. **Factions** will work to achieve their goals independently.
-- Each **Faction** is ruled by a powerful figure, but most of the time PCs will be dealing with their **Seneschals**. 
+- A **Faction** may be governed by a powerful figure, but most of the time PCs will be dealing with their lieutenants, or **Seneschals**. 
 
 ### Agendas & Resources
 - Factions have **Agendas** (3-4 steps towards a clear goal) and the **Resources** to help achieve them. 
@@ -241,48 +241,46 @@ Consider the following when determining the **Province** name:
 - Do not feel limited by the table results below. If a Faction should have more or fewer **Resources**, that's OK!
 
 #### Factions Creation Procedure
-1. Starting with the central hub, repeat steps #2-4 for every settlement **Detail**, followed by at least one ruin or lair. 
-2. Roll once the [Faction Types](#faction-types) table, noting the indicated number of **Resources**.
-3. Roll on the [Faction Resources](#faction-resources) table as many times as indicated by the results of step #2. 
-4. Roll on the [Faction Agendas](#faction-agendas) table. 
-5. Roll on the [Seneschals](#seneschals) table at least once for each **Faction**.
-6. Repeat the process for any additional **Details**, as you see fit.
-
+Starting with the central hub, follow this procedure for every settlement **Detail** on the map. Repeat the process for at least one Lair or Ruin on the map.
+1. Roll once the [Faction Types](#faction-types) table, noting the indicated number of **Resources** the **Faction** has.
+2. Roll on the [Faction Resources](#faction-resources) table as many times as indicated by the results of step 2. Note the **Seneschal** column.
+3. Roll on the [Faction Agendas](#faction-agendas) table.
+ 
 #### Faction Types
 
 |         |                   |               |
-| ------- | ----------------- | ------------- |
+| ------- | ----------------- | :-----------: |
 | **d12** | **Faction Type**  | **Resources** |
-| **1**   | **Academic**      | **3**         |
-| **2**   | **Arcane**        | **2**         |
-| **3**   | **Criminal**      | **1**         |
-| **4**   | **Foreign**       | **3**         |
-| **5**   | **Government**    | **4**         |
-| **6**   | **Industrial**    | **2**         |
-| **7**   | **Mercantile**    | **3**         |
-| **8**   | **Military**      | **4**         |
-| **9**   | **Noble**         | **3**         |
-| **10**  | **Peasant**       | **1**         |
-| **11**  | **Religious**     | **2**         |
-| **12**  | **Revolutionary** | **1**         |
+| **1**   | **Academic**      |     **3**     |
+| **2**   | **Arcane**        |     **2**     |
+| **3**   | **Criminal**      |     **1**     |
+| **4**   | **Foreign**       |     **3**     |
+| **5**   | **Government**    |     **4**     |
+| **6**   | **Industrial**    |     **2**     |
+| **7**   | **Mercantile**    |     **3**     |
+| **8**   | **Military**      |     **4**     |
+| **9**   | **Noble**         |     **3**     |
+| **10**  | **Peasant**       |     **1**     |
+| **11**  | **Religious**     |     **2**     |
+| **12**  | **Revolutionary** |     **1**     |
 
 #### Faction Resources
 
-|         |                   |                                                                                |
-| ------- | ----------------- | ------------------------------------------------------------------------------ |
-| **d12** | **Resource Type** | **Example**                                                                    |
-| **1**   | **Anonymity**     | **Mercurial and hard to find. Mysterious leadership.**                         |
-| **2**   | **Authority**     | **A de-facto regime, respected or feared.**                                    |
-| **3**   | **Control**       | **Maintains sway over a local resource, item, or source of power.**            |
-| **4**   | **Covert**        | **Moves without detection, achieving its goals through the cloak-and-dagger.** |
-| **5**   | **Fealty**        | **Is well-defended, through safe haven or weaponry.**                          |
-| **6**   | **Information**   | **Uses brawn as its voice, and brute force as its cudgel.**                    |
-| **7**   | **Magic**         | **Taps into the arcane arts to carry out its agenda.**                         |
-| **8**   | **Population**    | **Entertains a large number of rank and file members.**                        |
-| **9**   | **Reknown**       | **Enjoys the loyalty of a large and important bloc of people.**                |
-| **10**  | **Safety**        | **Keeps tabs through espionage, subtlety, or arcanprivileges.**                |
-| **11**  | **Strength**      | **A reputable group, recognizable everywhere.**                                |
-| **12**  | **Wealth**        | **Affluent, using its riches to influence the world.**                         |
+|         |                   |                                                                            |               |
+| ------- | ----------------- | -------------------------------------------------------------------------- | :-----------: |
+| **d12** | **Resource Type** | **Example**                                                                | **Seneschal** |
+| **1**   | **Anonymity**     | Mercurial and hard to find. Mysterious leadership.                         |               |
+| **2**   | **Authority**     | A de-facto regime, respected or feared.                                    |               |
+| **3**   | **Control**       | Maintains sway over a local resource, item, or source of power.            |               |
+| **4**   | **Covert**        | Moves without detection, achieving its goals through the cloak-and-dagger. |               |
+| **5**   | **Fealty**        | Is well-defended, through safe haven or weaponry.                          |               |
+| **6**   | **Information**   | Uses brawn as its voice, and brute force as its cudgel.                    |               |
+| **7**   | **Magic**         | Taps into the arcane arts to carry out its agenda.                         |               |
+| **8**   | **Population**    | Entertains a large number of rank and file members.                        |               |
+| **9**   | **Reknown**       | Enjoys the loyalty of a large and important bloc of people.                |               |
+| **10**  | **Safety**        | Keeps tabs through espionage, subtlety, or arcane privileges.              |               |
+| **11**  | **Strength**      | A reputable group, recognizable everywhere.                                |               |
+| **12**  | **Wealth**        | Affluent, using its riches to influence the world.                         |               |
 
 #### Faction Agendas
 
@@ -309,24 +307,6 @@ Consider the following when determining the **Province** name:
 | **18**  | **Revive**      |
 | **19**  | **Spread**      |
 | **20**  | **Survive**     |
-
-#### Seneschals
-
-|         |               |
-| ------- | :-----------: |
-| **d12** | **Seneschal** |
-| **1**   |     ****      |
-| **2**   |     ****      |
-| **3**   |     ****      |
-| **4**   |     ****      |
-| **5**   |     ****      |
-| **6**   |     ****      |
-| **7**   |     ****      |
-| **8**   |     ****      |
-| **9**   |     ****      |
-| **10**  |     ****      |
-| **11**  |     ****      |
-| **12**  |     ****      |
 
 ## Conclusion
 Your **Province** is now complete! You can now "drill down" into various locations (starting with the hub) and build out each **Detail** with your favorite tables. Keep the following thoughts in mind as you do:
