@@ -236,9 +236,9 @@ Consider the following when determining the **Province** name:
 - Factions grow (or lose) their **Resources** by trying to complete their agenda. 
 
 ### Creating Factions
-- Do not feel limited by the table results below. If a Faction should have more or fewer **Resources**, that's OK!
 - Consider the **Details** and **Terrain** you've developed. Note what is worth protecting, as well as what is worth taking.
 - **Agendas** are lofty plans with distinct steps based on actionable goals. They should relate to the acquisition of powerful territory, weapons, money, and **Resources**. 
+- Do not feel limited by the table results below. If a Faction should have more or fewer **Resources**, that's OK!
 
 #### Factions Creation Procedure
 1. Starting with the central hub, repeat steps #2-4 for every settlement **Detail**, followed by at least one ruin or lair. 
@@ -268,21 +268,21 @@ Consider the following when determining the **Province** name:
 
 #### Faction Resources
 
-|         |                   |
-| ------- | ----------------- |
-| **d12** | **Resource Type** |
-| **1**   | **Anonymity**     |
-| **2**   | **Control**       |
-| **3**   | **Attrition**     |
-| **4**   | **Fealty**        |
-| **5**   | **Hideout**       |
-| **6**   | **Information**   |
-| **7**   | **Covert**        |
-| **8**   | **Loyalty**       |
-| **9**   | **Magic**         |
-| **10**  | **Numbers**       |
-| **11**  | **Reknown**       |
-| **12**  | **Wealth**        |
+|         |                   |                                                                                |
+| ------- | ----------------- | ------------------------------------------------------------------------------ |
+| **d12** | **Resource Type** | **Example**                                                                    |
+| **1**   | **Anonymity**     | **Mercurial and hard to find. Mysterious leadership.**                         |
+| **2**   | **Authority**     | **A de-facto regime, respected or feared.**                                    |
+| **3**   | **Control**       | **Maintains sway over a local resource, item, or source of power.**            |
+| **4**   | **Covert**        | **Moves without detection, achieving its goals through the cloak-and-dagger.** |
+| **5**   | **Fealty**        | **Is well-defended, through safe haven or weaponry.**                          |
+| **6**   | **Information**   | **Uses brawn as its voice, and brute force as its cudgel.**                    |
+| **7**   | **Magic**         | **Taps into the arcane arts to carry out its agenda.**                         |
+| **8**   | **Population**    | **Entertains a large number of rank and file members.**                        |
+| **9**   | **Reknown**       | **Enjoys the loyalty of a large and important bloc of people.**                |
+| **10**  | **Safety**        | **Keeps tabs through espionage, subtlety, or arcanprivileges.**                |
+| **11**  | **Strength**      | **A reputable group, recognizable everywhere.**                                |
+| **12**  | **Wealth**        | **Affluent, using its riches to influence the world.**                         |
 
 #### Faction Agendas
 
