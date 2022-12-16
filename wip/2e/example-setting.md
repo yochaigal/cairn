@@ -63,13 +63,13 @@ The results of the die rolls are below. Items  in **bold** represent the chosen 
 11. **The Skunkholes**
 
 ## Province: Whitefort
-**Whitefort**, after its "founding" by the great ancestor of the **Earl of White**. The (now dead) locals referred to it as **The Ramparts**, but that name is long forgotten. **Hope Landing** (built around a large font of water in an otherwise brackish land) acted as a regional hub for future explorers and pioneers, but they became stymied by the wastelands to the West, and eventually settled closer to the capital city. The current ruling Faction (The **Potentate**) makes the city its center of government, while **The Will** hides in the abandoned town of **Dead Margin** on the cliffs to the Southwest.
+**Whitefort**, after its "founding" by the great ancestor of the **Earl of White**. The (now dead) locals referred to it as **The Ramparts**, but that name is long forgotten. The **Heart** of the **Province** is **Hope Landing**. Built around a large font of water in an otherwise brackish land, and originally acted as a hub for future explorers and pioneers travelling throughout the region. After years of stymied exploration in the wastelands to the West, folks eventually settled in the capital city. The current ruling Faction (The **Potentate**) makes the city its center of government, while **The Will** hides in the abandoned town of **Dead Margin** on the cliffs to the Southwest.
 
 ## Factions
 
 ### The Potentate (Government)
 #### Resources
-- **Homebase**: **Hope's Landing**. 
+- **Base**: **Hope's Landing**. 
 - **Anonymity**: The ruling council speaks only through an anointed subject, **The Whisper**.  
 - **Knowledge**: There is little the **Potentate**'s ubiquitous spies do not know.   
 - **Authority**: As the ruling faction over the **Province**, _detachments_ of soldiers can be summoned from the villages very quickly.
@@ -80,7 +80,7 @@ The results of the die rolls are below. Items  in **bold** represent the chosen 
 
 ### Earl of White (Noble)
 #### Resources
-- **Homebase**: **Hope's Landing**. 
+- **Base**: **Hope's Landing**. 
 - **Fealty** of the plains villages and their farms (as detachment, stats as [Bandits](/resources/monsters/bandit/)).
 - **Property**: The **White** family has control of significant food stores.
 - **Seneschal**: Personal Chamberlain, stats as [Brigand](/resources/monsters/brigand/).
@@ -91,7 +91,7 @@ The results of the die rolls are below. Items  in **bold** represent the chosen 
 
 ### The Under-folk (Commoner)
 #### Resources
-- **Homebase**: The caverns at **The Skunkholes**.
+- **Base**: The caverns at **The Skunkholes**.
 - **Population**: 2d10+10 ratlike **Under-folk**, stats as [Kobold](/resources/monsters/kobold/).
 - **Apparatus**: The **God-thumb**, which provides warmth and safety for the colony. 
 - **Seneschal**: **Ka-ro**, stats as [Ettin](/resources/monsters/ettin/).
@@ -101,7 +101,7 @@ The results of the die rolls are below. Items  in **bold** represent the chosen 
 
 ### The Will (Arcane)
 #### Resources
-- **Homebase**: **Dead Margin** (see below). Remnants in **Fria's Promise**.
+- **Base**: **Dead Margin** (see below). Remnants in **Fria's Promise**.
 - **Population**: 2d10+10 [Acolytes](/resources/monsters/acolyte).
 - **Position**: **The Springhouse**, an abandoned keep in **Dead Margin**, once used by ancestors of the **Earl of White** to imprison and torture their political enemies. It is well-fortified and contains a small complex of jails beneath it. 
 - **Seneschal**: **Arjen Vol Sonn**, stats as [Lich](/resources/monsters/lich/).

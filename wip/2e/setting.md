@@ -10,9 +10,11 @@ search_exclude: true
 # Setting
 
 ### Summary
-- A setting has a **Theme**, **Scale**, **Terrain**, **Details**, and **Factions**.
-- A **Province** is a single, traversable setting. A **Domain** is one or more adjacent **Provinces** defined by the same ruler.
-- Distance is measured in [**Watches**](/wip/2e/wilderness-exploration/#travel), assuming that the party travels by foot and on maintained roads.
+- A setting has a **Theme**, **Scale**, **Terrain**, **Details**, and **Factions**. 
+- A **Province** is a single, traversable setting. A **Domain** is one or more adjacent **Provinces** defined by the same ruler. 
+- Each **Province** has a **Heart**: a settlement (of any size) that reflects the history, **Factions** and peoples of the land.
+
+> Distance is measured in [**Watches**](/wip/2e/wilderness-exploration/#travel), assuming that the party travels by foot and on maintained roads.
 
 > See [this page](/wip/2e/example-setting) for an example setting.
 
@@ -26,16 +28,16 @@ Established facts about the setting. Good questions to answer:
 - What linguistic and cultural flavor exists in the setting?
 
 ### Scale
-- **Small**: A single **Province** whose central hub is typically a large village, no more than _four_ **Watches** from the furthest **Detail**.  
-- **Medium**: 2-4 **Provinces** who share a central hub (typically a large town), no more than _eight_ **Watches** from the furthest **Detail**.
-- **Large**: 5-10 **Provinces** who share a central hub (typically a large city), no more than _sixteen_ **Watches** from the furthest **Detail**.
+- **Small**: A single **Province** whose **Heart** is typically a large village, no more than _four_ **Watches** from the furthest **Detail**.  
+- **Medium**: 2-4 **Provinces** who share a **Heart** (typically a large town), no more than _eight_ **Watches** from the furthest **Detail**.
+- **Large**: 5-10 **Provinces** who share a **Heart** (typically a large city), no more than _sixteen_ **Watches** from the furthest **Detail**.
 
 ## Provinces
 
 ### Creating a Province
-1. On a flat sheet of paper, create a dot to signify the central hub (a village, town, or city) of the **Province**. Number it **1**. 
-2. Create three more dots in a triangle with the central hub in the rough center. Each of these dots represents an additional **Detail** on the map. Number these as well, in the order you create them.
-3. Connect two of the dots to the central hub, using solid lines to represent roads, dotted lines for trails, and double lines for rivers and tunnels. Connect the remaining dot to one of these paths, crossing it and continuing for a distance. 
+1. On a flat sheet of paper, create a dot to signify the **Heart** (a village, town, or city) of the **Province**. Number it **1**. 
+2. Create three more dots in a triangle with the **Heart** in the rough center. Each of these dots represents an additional **Detail** on the map. Number these as well, in the order you create them.
+3. Connect two of the dots to the **Heart**, using solid lines to represent roads, dotted lines for trails, and double lines for rivers and tunnels. Connect the remaining dot to one of these paths, crossing it and continuing for a distance. 
 4. Repeat step #2, orienting the triangle of dots in a different way than before. Number each dot.
 5. Connect two of the new dots to _any_ path, numbering each as you go. Do not connect the final dot.
 6. Create a new dot wherever paths cross, and wherever a new path ends. Number them as you go.
@@ -44,9 +46,9 @@ Established facts about the setting. Good questions to answer:
 
 
 ### Adding Terrain
-1. Roll on the [Hub Terrain](#hub-terrain) table to determine the central hub's terrain. Choose **one** terrain from the results. 
-2. Roll on the [Near Terrain](#near-terrain) table to determine the terrain for any dots _two_ hops or fewer from the central hub. Choose **one** terrain from the results for each.
-3. Roll on the [Far Terrain](#far-terrain) for any dots that are _three_ or more hops from the central hub, as well as those not connected to any path. Choose **one** terrain from the results for each.
+1. Roll on the [Hub Terrain](#hub-terrain) table to determine the **Heart**'s terrain. Choose **one** terrain from the results. 
+2. Roll on the [Near Terrain](#near-terrain) table to determine the terrain for any dots _two_ hops or fewer from the **Heart**. Choose **one** terrain from the results for each.
+3. Roll on the [Far Terrain](#far-terrain) for any dots that are _three_ or more hops from the **Heart**, as well as those not connected to any path. Choose **one** terrain from the results for each.
 4. Drawn or indicate the terrain for each dot on the map.
 
 #### Hub Terrain
@@ -95,7 +97,7 @@ Established facts about the setting. Good questions to answer:
 - Keep in mind how many **Watches** it might take to travel to each **Detail**. 
 
 ### Adding Details
-1. Generate features about the central hub of the **Province** (a village, town, or city) by rolling on the [Settlement Features](#settlement-features) table.
+1. Generate features about the **Heart** of the **Province** (a village, town, or city) by rolling on the [Settlement Features](#settlement-features) table.
 2. Generate features for each remaining dot by first rolling on the the [Detail Types](#detail-types) table, then on the associated table.
 3. For any settlements rolled, roll on the [Settlement Features](#settlement-features) table as well.
 
@@ -210,7 +212,7 @@ Established facts about the setting. Good questions to answer:
 | **12**  |   **Bloody battlefied**    |
 
 ### Detail Names
-Starting with the central hub, name each **Detail** on the map based on its unique terrain, feature, or history. 
+Starting with the **Heart**, name each **Detail** on the map based on its unique terrain, feature, or history. 
 - Settlements are often named after their unique features: the shape of the river nearby, or the large windmill in the town center. Then, the residents add a noun or adjective. _Windy Gulch, Black Tree Fort, Pitty Gardens_, etc.
 - Wilderness and dangerous places are even more obvious: poison lake, greedy mines, etc. Some tell a story: _Luka's Folly, Dead Man's Path_, etc. 
 - Important places should have important names: that of heroes, religious/political figures, and important events. _The Chalet of Saint Ibiz, Queen's Harvest, Light of the Nine_, etc.
@@ -239,7 +241,7 @@ Consider the following when determining the **Province** name:
 - Do not feel limited by the table results below. If something feels "off" or a different table result would work better for your setting, use it!
 
 #### Factions Creation Procedure
-1. Starting with the central hub, roll on the [Faction Types](#faction-types) table for every Settlement **Detail** on the map. Repeat the process for at least one Lair or Ruin on the map. Consider where a **Faction** might make their home base. 
+1. Starting with the **Heart**, roll on the [Faction Types](#faction-types) table for every Settlement **Detail** on the map. Repeat the process for at least one Lair or Ruin on the map. Consider where a **Faction** might make their home base. 
 2. Roll on the [Faction Resources](#faction-resources) table for each, one **Faction** at a time.
 3. Create **Resources** as indicated by the results from the table. Consider how many **Resources** a **Faction** of this type might have (between **2-4**). Roll accordingly.
 4. Create at least one **Seneschal**, inspired by the likely followers of the **Faction**'s type, **Resources**, and **Agenda**. Think of where they might be located on the map.
