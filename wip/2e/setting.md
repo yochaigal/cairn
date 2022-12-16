@@ -92,14 +92,14 @@ Established facts about the setting. Good questions to answer:
 | **8**  |    **Desert, wasteland, sea**     |
 
 ## Details
-- Each dot on the map is one **Detail**. **Details** act as [**Points**](/wip/2e/wilderness-exploration/#points) according to the [**Wilderness Exploration**](/wip/2e/wilderness-exploration) rules.
-- Locations in a **Province** are divided into three categories: **The Wilds**, **The Settled Lands**, and **The Underworld**.
+- Each dot on the map is one **Detail**. **Details** act as [**Points**](/wip/2e/wilderness-exploration/#points) according to the [**Wilderness Exploration**](/wip/2e/wilderness-exploration) rules. 
 - Keep in mind how many **Watches** it might take to travel to each **Detail**. 
+- The **Heart** of a **Province** is always a settlement. It isn't necessarily the largest or most important place people live, but it does always have a significant history. 
 
 ### Adding Details
-1. Generate features about the **Heart** of the **Province** (a village, town, or city) by rolling on the [Settlement Features](#settlement-features) table.
+1. Roll on the [Settlments](#settlements) and [Settlement Features](#settlement-features) tables to generate the **Heart** of the **Province**.
 2. Generate features for each remaining dot by first rolling on the the [Detail Types](#detail-types) table, then on the associated table.
-3. For any settlements rolled, roll on the [Settlement Features](#settlement-features) table as well.
+3. For any additional settlements rolled, roll on the [Settlement Features](#settlement-features) table as well.
 
 #### Detail Types
 

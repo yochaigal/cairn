@@ -183,3 +183,5 @@ The [**Proper Noun**] of (the) [**Noun**]
 |           |               |          |
 |           |               |          |
 
+## Setting
+- Locations in a **Province** are divided into three categories: **The Wilds**, **The Settled Lands**, and **The Underworld**.
