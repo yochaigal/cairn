@@ -185,3 +185,20 @@ The [**Proper Noun**] of (the) [**Noun**]
 
 ## Setting
 - Locations in a **Province** are divided into three categories: **The Wilds**, **The Settled Lands**, and **The Underworld**.
+
+|         |                   |                                      |
+| ------- | ----------------- | ------------------------------------ |
+| **d12** | **Faction Type**  | **Example Members**                  |
+| **1**   | **Academic**      | Scholars, sages, nobles              |
+| **2**   | **Arcane**        | Wizards, spellswords, liches         |
+| **3**   | **Cabal**         | Politicians, patrons, nobles         |
+| **4**   | **Commoners**     | Farmers, bannermen, workers          |
+| **4**   | **Criminal**      | Thieves, kingpins, assassins         |
+| **5**   | **Foreign**       | Functionaries, warriors, spies       |
+| **6**   | **Government**    | Nobles, guards, servants             |
+| **7**   | **Industrial**    | Specialists, patrons, thugs          |
+| **8**   | **Mercantile**    | Merchants, mercenaries,          |
+| **9**   | **Military**      | Soldiers,               |
+| **10**  | **Noble**         |                                      |
+| **11**  | **Religious**     | Monks, abbots, paladins              |
+| **12**  | **Revolutionary** |                                      |

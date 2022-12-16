@@ -243,13 +243,11 @@ Consider the following when determining the **Province** name:
 - Do not feel limited by the table results below. If something feels "off" or a different table result would work better for your setting, use it!
 
 #### Factions Creation Procedure
-Follow this procedure for every Settlement **Detail** on the map, starting with the **Heart**. 
-1. Roll on the [Faction Types](#faction-types) table. Roll on the [Faction Resources](#faction-resources) table.
+1. Starting with the **Heart**, roll on the [Faction Types](#faction-types), the [Faction Resources](#faction-resources), and the [**Faction Agendas**](#faction-agendas) tables for every Settlement **Detail** on the map.
 2. Create **Resources** as indicated by the results from the table. Consider how many **Resources** a **Faction** of this type might have (between **2-4**). Roll accordingly.
-3. Roll on the [Faction Agendas](#faction-agendas) table.
-4. Create at least one **Seneschal**, inspired the **Faction** type, **Resources**, and **Agenda**. Think of where they might be located on the map this is the **Faction's** home base.
-5. Follow steps 1-5 for at least one Lair or Ruin on the map.
-6. Create _at least_ one alliance and one conflict between **Factions**. Consider the region's history, the **Resources** of each **Faction**, who might want them, and what someone would do to _get_ them.
+3. Create at least one **Seneschal**, inspired by the **Faction** type, **Resources**, and **Agenda**. Think of where they might be located on the map this is the **Faction's** home base.
+4. Select a Lair or Ruin on the map. Follow steps 1-3 to make at least one **Faction** for that site. Repeat as desired.
+5. Create at least one alliance and at least one conflict between the **Factions**. Consider the region's history, the **Resources** of each **Faction**, who might want them, and what someone would do to _get_ them.
  
 #### Faction Types
 
@@ -258,7 +256,8 @@ Follow this procedure for every Settlement **Detail** on the map, starting with 
 | **d12** | **Faction Type**  |
 | **1**   | **Academic**      |
 | **2**   | **Arcane**        |
-| **3**   | **Commoner**      |
+| **3**   | **Cabal**         |
+| **4**   | **Commoners**     |
 | **4**   | **Criminal**      |
 | **5**   | **Foreign**       |
 | **6**   | **Government**    |
@@ -274,17 +273,17 @@ Follow this procedure for every Settlement **Detail** on the map, starting with 
 |         |                   |                                                                              |                                    |
 | ------- | ----------------- | ---------------------------------------------------------------------------- | :--------------------------------: |
 | **d12** | **Resource Type** | **Example Resources**                                                        |       **Example Seneschals**       |
-| **1**   | **Anonymity**     | Mercurial and hard to pin down. Shrouded in mystery.                         |      Monks, elders, demi-gods      |
+| **1**   | **Anonymity**     | A secret society ssrouded in mystery, its members' identities unknown.       |   Monks, politicians, demi-gods    |
 | **2**   | **Apparatus**     | A powerful Relic, artifact, or tool.                                         |   Scholars, philosophers, sages    |
-| **3**   | **Subterfuge**    | Moves unseen, achieving its goals through a cloak-and-dagger approach.       |   Assassins, tricksters, thieves   |
-| **4**   | **Fealty**        | Enjoys the loyalty of a large or important bloc of people.                   |     Lords, bannermen, farmers      |
-| **5**   | **Force**         | Employs brawn as its voice, and brute force as the cudgel.                   |     Bullies, toughs, flatfoots     |
-| **6**   | **Knowledge**     | Keeps tabs on friends and enemies alike via espionage and arcane privileges. |     Spies, informants, mystics     |
-| **7**   | **Magic**         | Relies on the arcane arts to carry out its agenda.                           |    Wizards, spellswords, liches    |
-| **8**   | **Population**    | Boasts a large number of rank and file members.                              |      Gangs, urchins, peddlers      |
-| **9**   | **Position**      | Relies on a unique geographic or political immunity.                         | Outlanders, criminals, politicians |
-| **10**  | **Property**      | Keeps sway over a local resource, item, or source of power.                  |     Workers, thugs, academics      |
-| **11**  | **Renown**        | Part of a de-facto regime, respected or feared.                              |    Nobles, merchants, generals     |
+| **3**   | **Fealty**        | Enjoys the loyalty of a large or important bloc of people.                   |     Lords, bannermen, farmers      |
+| **4**   | **Force**         | Employs brawn as its voice, and brute force as the cudgel.                   |     Bullies, toughs, flatfoots     |
+| **5**   | **Knowledge**     | Keeps tabs on friends and enemies alike via espionage and arcane privileges. |     Spies, informants, mystics     |
+| **6**   | **Magic**         | Relies on the arcane arts to carry out its agenda.                           |    Wizards, spellswords, liches    |
+| **7**   | **Population**    | Boasts a large number of rank and file members.                              |      Gangs, urchins, peddlers      |
+| **8**   | **Position**      | Relies on a unique geographic or political immunity.                         | Outlanders, criminals, politicians |
+| **9**   | **Property**      | Keeps sway over a local resource, item, or source of power.                  |     Workers, thugs, academics      |
+| **10**  | **Renown**        | Part of a de-facto regime, respected or feared.                              |    Nobles, merchants, generals     |
+| **11**  | **Subterfuge**    | Moves unseen, achieving its goals through a cloak-and-dagger approach.       |   Assassins, tricksters, thieves   |
 | **12**  | **Wealth**        | Affluent, using its riches to extend their influence and protect themselves. |   Soldiers, officials, merchants   |
 
 #### Faction Agendas
