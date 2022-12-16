@@ -95,7 +95,8 @@ The results of the die rolls are below. Items  in **bold** represent the chosen 
 - **Apparatus**: The **God-thumb**, which provides warmth and safety for the colony. 
 - **Seneschal**: **Ka-ro**, stats as [Ettin](/resources/monsters/ettin/).
 - **Agenda**: Protect the **God-thumb** at all costs, and find new sources of food for the coming winter. 
-  - Ally with the **Earl of White** so long as it is convenient.
+  - Ally with the **Earl of White** for his food stores, so long as it is convenient.
+  - Find an independent food store that they may control.
 
 ### The Will (Arcane)
 #### Resources
@@ -104,7 +105,7 @@ The results of the die rolls are below. Items  in **bold** represent the chosen 
 - **Position**: **The Springhouse**, an abandoned keep in **Dead Margin**, once used by ancestors of the **Earl of White** to imprison and torture their political enemies. It is well-fortified and contains a small complex of jails beneath it. 
 - **Seneschal**: **Arjen Vol Sonn**, stats as [Lich](/resources/monsters/lich/).
 - **Agenda**: Acquire the **God-thumb**, and use it to restore **Fria The Empty**, then rule the **Provinces**.
-  - Send spies throughout the **Provinces** in search of the **God-thumb**. Stea it. 
+  - Send spies throughout the **Provinces** in search of the **God-thumb**. Steal it. 
   - Command the **Under-folk** to overwhelm the capital and distract the **Potentate**.
   - Take the **God-thumb** to **Hexmire** and bathe it in the **Font of Regret**.  
  
