@@ -236,15 +236,14 @@ Consider the following when determining the **Province** name:
 ### Creating Factions
 - Consider the **Details** and **Terrain** you've developed. Note what is worth protecting, as well as what is worth taking.
 - **Agendas** are lofty plans with distinct steps based on actionable goals. They should relate to the acquisition of powerful territory, weapons, money, and **Resources**. 
-- Do not feel limited by the table results below. If a Faction should have more or fewer **Resources**, that's OK!
+- Do not feel limited by the table results below. If something feels "off" or a different table result would work better for your setting, use it!
 
 #### Factions Creation Procedure
 1. Starting with the central hub, roll on the [Faction Types](#faction-types) table for every Settlement **Detail** on the map. Repeat the process for at least one Lair or Ruin on the map. Consider where a **Faction** might make their home base. 
 2. Roll on the [Faction Resources](#faction-resources) table for each, one **Faction** at a time.
 3. Create **Resources** as indicated by the results from the table. Consider how many **Resources** a **Faction** of this type might have (between **2-4**). Roll accordingly.
 4. Create at least one **Seneschal**, inspired by the likely followers of the **Faction**'s type, **Resources**, and **Agenda**. Think of where they might be located on the map.
-5. Create at least one alliance between two **Factions**. Consider the region's history, then look at the **Resources** a **Faction** has, who else would want them, and what one might _trade_ for them.
-6. Create at least conflict between two **Factions**. Consider the region's history, then look at the **Resources** a **Faction** has, who else might want them, and what one might do to _take_ them.
+5. Create _at least_ one alliance and one conflict between **Factions**. Consider the region's history, the **Resources** of each **Faction**, who might want them, and what someone would do to _get_ them.
  
 #### Faction Types
 
