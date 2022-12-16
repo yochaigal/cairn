@@ -37,7 +37,7 @@ Established facts about the setting. Good questions to answer:
 ### Creating a Province
 1. On a flat sheet of paper, create a dot to signify the **Heart** (a village, town, or city) of the **Province**. Number it **1**. 
 2. Create three more dots in a triangle with the **Heart** in the rough center. Each of these dots represents an additional **Detail** on the map. Number these as well, in the order you create them.
-3. Connect two of the dots to the **Heart**, using solid lines to represent roads, dotted lines for trails, and double lines for rivers and tunnels. Connect the remaining dot to one of these paths, crossing it and continuing for a distance. 
+3. Connect two of the dots to the **Heart**, using solid lines to represent roads, dotted lines for trails, double solid lines for rivers, and double dotted lines and tunnels. Connect the remaining dot to one of these paths, crossing it and continuing for a distance. 
 4. Repeat step #2, orienting the triangle of dots in a different way than before. Number each dot.
 5. Connect two of the new dots to _any_ path, numbering each as you go. Do not connect the final dot.
 6. Create a new dot wherever paths cross, and wherever a new path ends. Number them as you go.
@@ -101,7 +101,7 @@ Established facts about the setting. Good questions to answer:
 2. Generate features for each remaining dot by first rolling on the the [Detail Types](#detail-types) table, then on the associated table.
 3. For any additional settlements rolled, roll on the [Settlement Features](#settlement-features) table as well.
 
-> If some of the results below seem incongruous, that's OK! Turn it into a question: _Why_ is there hazard terrain so close to a settlement? Perhaps there were mines there once, long abandoned. Rumors as to their true treasure - and dangers - abound.
+> If some of the results below seem incongruous, that's OK! Turn it into a question: _Why_ is there hazard terrain so close to a settlement? Perhaps there were mines there once, long abandoned. Rumors as to their true treasure - and dangers - abound. That said, don't be afraid to choose a more appropriate result if you're having a hard time making it work!
 
 #### Detail Types
 
