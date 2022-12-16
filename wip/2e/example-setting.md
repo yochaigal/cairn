@@ -69,48 +69,45 @@ The results of the die rolls are below. Items  in **bold** represent the chosen 
 
 ### The Potentate (Government)
 #### Resources
+- **Homebase**: **Hope's Landing**. 
 - **Anonymity**: The ruling council speaks only through an anointed subject, **The Whisper**.  
 - **Knowledge**: There is little the **Potentate**'s ubiquitous spies do not know.   
-- **Hope Landing**: As the ruling faction over the **Province**, _detachments_ of soldiers can be summoned from the villages very quickly.
+- **Authority**: As the ruling faction over the **Province**, _detachments_ of soldiers can be summoned from the villages very quickly.
 - **Seneschals**: **The Whisper**, stats as [banshee](/resources/monsters/banshee/), and **Lord Alexey**, stas as [buccaneer](/resources/monsters/buccaneer/).
-
-#### Agenda
-- Maintain the stability of the realm by crushing rising threats from other factions. 
-- Deploy newly-garrisoned troops to all roads leading into the Capital, to uncover enemies of the realm through torture and force. 
-- Crush the **The Will** and any other enemies threatening the realm. 
+- **Agenda**: Maintain the stability of the realm by crushing rising threats from other factions. 
+  - Deploy newly-garrisoned troops to all roads leading into the Capital, to uncover enemies of the realm through torture and force. 
+  - Crush the **The Will** and any other enemies threatening the realm. 
 
 ### Earl of White
 #### Resources
-- Fealty of the plains villages and their farms (as detachment, stats as [Bandits](/resources/monsters/bandit/)).
-- Control of significant food stores.
+- **Homebase**: **Hope's Landing**. 
+- **Fealty** of the plains villages and their farms (as detachment, stats as [Bandits](/resources/monsters/bandit/)).
+- **Property**: The **White** family has control of significant food stores.
 - **Seneschal**: Personal Chamberlain, stats as [Brigand](/resources/monsters/brigand/).
-
-#### Agenda
-- Promise this season's crop-yield to the **Under-folk**. In exchange they will raid nearby villages.
-- Bait & assassinate **Lord Alexey**, whose family owns the **Swift Mines**.  
-- Marry the widow **Alexey** and inherit the mines, or buy them at a steep discount.
+- **Agenda**: Marry the widow **Alexey** and inherit the mines, or buy them at a steep discount.
+  - Promise this season's crop-yield to the **Under-folk**. In exchange they will raid nearby villages.
+  - Bait & assassinate **Lord Alexey**, whose family owns the **Swift Mines**.   
 
 ### The Under-folk
 #### Resources
-- 2d10+10 ratlike **Under-folk**, stats as [Kobold](/resources/monsters/kobold/).
-- The **God-thumb**, which provides warmth and safety for the colony. 
+- **Homebase**: The caverns at **The Skunkholes**.
+- **Population**: 2d10+10 ratlike **Under-folk**, stats as [Kobold](/resources/monsters/kobold/).
+- **Apparatus**: The **God-thumb**, which provides warmth and safety for the colony. 
 - **Seneschal**: **Ka-ro**, stats as [Ettin](/resources/monsters/ettin/).
-
-#### Agenda
-- Protect the **God-thumb** at all costs.
-- Find new sources of food for the coming winter. 
+- **Agenda**: Protect the **God-thumb** at all costs, and find new sources of food for the coming winter. 
+  - Ally with the **Earl of White** so long as it is convenient.
 
 ### The Will
 #### Resources
-- 2d10+10 [Acolytes](/resources/monsters/acolyte).
+- **Homebase**: **Dead Margin** (see below). Remnants in **Fria's Promise**.
+- **Population**: 2d10+10 [Acolytes](/resources/monsters/acolyte).
+- **Position**: **The Springhouse**, an abandoned keep in **Dead Margin**, once used by ancestors of the **Earl of White** to imprison and torture their political enemies. It is well-fortified and contains a small complex of jails beneath it. 
 - **Seneschal**: **Arjen Vol Sonn**, stats as [Lich](/resources/monsters/lich/).
-- **The Springhouse**, an abandoned keep in **Dead Margin**, once used by ancestors of the **Earl of White**, who used it to imprison and torture their political enemies. It is well-fortified and contains a small complex of jails beneath it. 
-
-#### Agenda
-- Send spies throughout the **Provinces** in search of the **God-thumb**.
-- Steal the **God-thumb**, and command the **Under-folk** to overwhelm the capital and defeat the **Potentate**.
-- Use the **God-thumb** to restore **Fria The Empty**, then rule the **Provinces**.
-
+- **Agenda**: Acquire the **God-thumb**, and use it to restore **Fria The Empty**, then rule the **Provinces**.
+  - Send spies throughout the **Provinces** in search of the **God-thumb**. Stea it. 
+  - Command the **Under-folk** to overwhelm the capital and distract the **Potentate**.
+  - Take the **God-thumb** to **Hexmire** and bathe it in the **Font of Regret**.  
+ 
 ## Map Result
 [![Alt text](/img/2e/example-setting-2.png "Click to embiggen"){:height="40%" width="40%"}](/img/2e/example-setting-2.png)
 

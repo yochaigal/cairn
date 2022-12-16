@@ -241,7 +241,7 @@ Consider the following when determining the **Province** name:
 #### Factions Creation Procedure
 1. Starting with the central hub, roll on the [Faction Types](#faction-types) table for every Settlement **Detail** on the map. Repeat the process for at least one Lair or Ruin on the map. Consider where a **Faction** might make their home base. 
 2. Roll on the [Faction Resources](#faction-resources) table for each, one **Faction** at a time.
-3. Create **Resources** as indicated by the results from the table. Consider how many **Resources** a **Faction** of this type might have (typically 1-3). Roll accordingly.
+3. Create **Resources** as indicated by the results from the table. Consider how many **Resources** a **Faction** of this type might have (between **2-4**). Roll accordingly.
 4. Create at least one **Seneschal**, inspired by the likely followers of the **Faction**'s type, **Resources**, and **Agenda**. Think of where they might be located on the map.
  
 #### Faction Types
@@ -264,21 +264,21 @@ Consider the following when determining the **Province** name:
 
 #### Faction Resources
 
-|         |                   |                                                                              |                                  |
-| ------- | ----------------- | ---------------------------------------------------------------------------- | :------------------------------: |
-| **d12** | **Resource Type** | **Example Resources**                                                        |      **Example Seneschals**      |
-| **1**   | **Anonymity**     | Mercurial and hard to pin down. Shrouded in mystery.                         |     Monks, elders, demi-gods     |
-| **2**   | **Apparatus**     | A powerful Relic, artifact, or tool.                                         |  Scholars, philosophers, sages   |
-| **3**   | **Authority**     | Part of a de-facto regime, respected or feared.                              |   Nobles, specialists, killers   |
-| **4**   | **Invisibility**  | Moves unseen, achieving its goals through a cloak-and-dagger approach.       |  Assassins, tricksters, thieves  |
-| **5**   | **Fealty**        | Enjoys the loyalty of a large or important bloc of people.                   |    Lords, bannermen, farmers     |
-| **6**   | **Force**         | Employs brawn as its voice, and brute force as the cudgel.                   |    Bullies, toughs, flatfoots    |
-| **7**   | **Knowledge**     | Keeps tabs on friends and enemies alike via espionage and arcane privileges. |    Spies, informants, mystics    |
-| **8**   | **Magic**         | Relies on the arcane arts to carry out its agenda.                           |   Wizards, spellswords, liches   |
-| **9**   | **Population**    | Boasts a large number of rank and file members.                              |     Gangs, urchins, peddlers     |
-| **10**  | **Property**      | Keeps sway over a local resource, item, or source of power.                  |    Workers, thugs, academics     |
-| **11**  | **Reknown**       | A reputable group, recognizable everywhere.                                  | Gentry, constables, entertainers |
-| **12**  | **Wealth**        | Affluent, using its riches to extend their influence and protect themselves. |  Soldiers, officials, merchants  |
+|         |                   |                                                                              |                                    |
+| ------- | ----------------- | ---------------------------------------------------------------------------- | :--------------------------------: |
+| **d12** | **Resource Type** | **Example Resources**                                                        |       **Example Seneschals**       |
+| **1**   | **Anonymity**     | Mercurial and hard to pin down. Shrouded in mystery.                         |      Monks, elders, demi-gods      |
+| **2**   | **Apparatus**     | A powerful Relic, artifact, or tool.                                         |   Scholars, philosophers, sages    |
+| **3**   | **Invisibility**  | Moves unseen, achieving its goals through a cloak-and-dagger approach.       |   Assassins, tricksters, thieves   |
+| **4**   | **Fealty**        | Enjoys the loyalty of a large or important bloc of people.                   |     Lords, bannermen, farmers      |
+| **5**   | **Force**         | Employs brawn as its voice, and brute force as the cudgel.                   |     Bullies, toughs, flatfoots     |
+| **6**   | **Knowledge**     | Keeps tabs on friends and enemies alike via espionage and arcane privileges. |     Spies, informants, mystics     |
+| **7**   | **Magic**         | Relies on the arcane arts to carry out its agenda.                           |    Wizards, spellswords, liches    |
+| **7**   | **Population**    | Boasts a large number of rank and file members.                              |      Gangs, urchins, peddlers      |
+| **9**   | **Position**      | Relies on a unique geographic or political immunity.                         | Outlanders, criminals, politicians |
+| **10**  | **Property**      | Keeps sway over a local resource, item, or source of power.                  |     Workers, thugs, academics      |
+| **11**  | **Reknown**       | Part of a de-facto regime, respected or feared.                              |    Nobles, merchants, generals     |
+| **12**  | **Wealth**        | Affluent, using its riches to extend their influence and protect themselves. |   Soldiers, officials, merchants   |
 
 #### Faction Agendas
 
