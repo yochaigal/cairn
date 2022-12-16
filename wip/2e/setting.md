@@ -243,11 +243,13 @@ Consider the following when determining the **Province** name:
 - Do not feel limited by the table results below. If something feels "off" or a different table result would work better for your setting, use it!
 
 #### Factions Creation Procedure
-1. Starting with the **Heart**, roll on the [Faction Types](#faction-types) table for every Settlement **Detail** on the map. Repeat the process for at least one Lair or Ruin on the map. Consider which **Factions** might make their home at each. 
-2. Roll on the [Faction Resources](#faction-resources) table for each, one **Faction** at a time.
-3. Create **Resources** as indicated by the results from the table. Consider how many **Resources** a **Faction** of this type might have (between **2-4**). Roll accordingly.
-4. Create at least one **Seneschal**, inspired by the likely followers of the **Faction**'s type, **Resources**, and **Agenda**. Think of where they might be located on the map.
-5. Create _at least_ one alliance and one conflict between **Factions**. Consider the region's history, the **Resources** of each **Faction**, who might want them, and what someone would do to _get_ them.
+Follow this procedure for every Settlement **Detail** on the map, starting with the **Heart**. 
+1. Roll on the [Faction Types](#faction-types) table. Roll on the [Faction Resources](#faction-resources) table.
+2. Create **Resources** as indicated by the results from the table. Consider how many **Resources** a **Faction** of this type might have (between **2-4**). Roll accordingly.
+3. Roll on the [Faction Agendas](#faction-agendas) table.
+4. Create at least one **Seneschal**, inspired the **Faction** type, **Resources**, and **Agenda**. Think of where they might be located on the map this is the **Faction's** home base.
+5. Follow steps 1-5 for at least one Lair or Ruin on the map.
+6. Create _at least_ one alliance and one conflict between **Factions**. Consider the region's history, the **Resources** of each **Faction**, who might want them, and what someone would do to _get_ them.
  
 #### Faction Types
 
@@ -274,15 +276,15 @@ Consider the following when determining the **Province** name:
 | **d12** | **Resource Type** | **Example Resources**                                                        |       **Example Seneschals**       |
 | **1**   | **Anonymity**     | Mercurial and hard to pin down. Shrouded in mystery.                         |      Monks, elders, demi-gods      |
 | **2**   | **Apparatus**     | A powerful Relic, artifact, or tool.                                         |   Scholars, philosophers, sages    |
-| **3**   | **Invisibility**  | Moves unseen, achieving its goals through a cloak-and-dagger approach.       |   Assassins, tricksters, thieves   |
+| **3**   | **Subterfuge**    | Moves unseen, achieving its goals through a cloak-and-dagger approach.       |   Assassins, tricksters, thieves   |
 | **4**   | **Fealty**        | Enjoys the loyalty of a large or important bloc of people.                   |     Lords, bannermen, farmers      |
 | **5**   | **Force**         | Employs brawn as its voice, and brute force as the cudgel.                   |     Bullies, toughs, flatfoots     |
 | **6**   | **Knowledge**     | Keeps tabs on friends and enemies alike via espionage and arcane privileges. |     Spies, informants, mystics     |
 | **7**   | **Magic**         | Relies on the arcane arts to carry out its agenda.                           |    Wizards, spellswords, liches    |
-| **7**   | **Population**    | Boasts a large number of rank and file members.                              |      Gangs, urchins, peddlers      |
+| **8**   | **Population**    | Boasts a large number of rank and file members.                              |      Gangs, urchins, peddlers      |
 | **9**   | **Position**      | Relies on a unique geographic or political immunity.                         | Outlanders, criminals, politicians |
 | **10**  | **Property**      | Keeps sway over a local resource, item, or source of power.                  |     Workers, thugs, academics      |
-| **11**  | **Reknown**       | Part of a de-facto regime, respected or feared.                              |    Nobles, merchants, generals     |
+| **11**  | **Renown**        | Part of a de-facto regime, respected or feared.                              |    Nobles, merchants, generals     |
 | **12**  | **Wealth**        | Affluent, using its riches to extend their influence and protect themselves. |   Soldiers, officials, merchants   |
 
 #### Faction Agendas
