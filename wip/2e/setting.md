@@ -101,6 +101,8 @@ Established facts about the setting. Good questions to answer:
 2. Generate features for each remaining dot by first rolling on the the [Detail Types](#detail-types) table, then on the associated table.
 3. For any additional settlements rolled, roll on the [Settlement Features](#settlement-features) table as well.
 
+> If some of the results below seem incongruous, that's OK! Turn it into a question: _Why_ is there hazard terrain so close to a settlement? Perhaps there were mines there once, long abandoned. Rumors as to their true treasure - and dangers - abound.
+
 #### Detail Types
 
 |        |                 |
