@@ -94,8 +94,6 @@ Established facts about the setting. Good questions to answer:
 - Locations in a **Province** are divided into three categories: **The Wilds**, **The Settled Lands**, and **The Underworld**.
 - Keep in mind how many **Watches** it might take to travel to each **Detail**. 
 
-> Look at the factions you wrote earlier. For each, consider which **Details** could be designated as a "home base." Also, consider where their **Seneschals** and minions might be.
-
 ### Adding Details
 1. Generate features about the central hub of the **Province** (a village, town, or city) by rolling on the [Settlement Features](#settlement-features) table.
 2. Generate features for each remaining dot by first rolling on the the [Detail Types](#detail-types) table, then on the associated table.
@@ -241,10 +239,10 @@ Consider the following when determining the **Province** name:
 - Do not feel limited by the table results below. If a Faction should have more or fewer **Resources**, that's OK!
 
 #### Factions Creation Procedure
-1. Starting with the central hub, roll on the following tables for every Settlement **Detail** on the map. 
+1. Starting with the central hub, roll on the following tables for every Settlement **Detail** on the map. Consider which **Details** a **Faction** might designate as "home base." 
 2. Repeat the process for at least one Lair or Ruin on the map.
 3. Create **Resources** according to each result. Consider the 
-4. Create at least one **Seneschal**, inspired by the likely followers of the **Faction**'s type, **Resources**, and **Agenda**.
+4. Create at least one **Seneschal**, inspired by the likely followers of the **Faction**'s type, **Resources**, and **Agenda**. Also, consider where they might be located on the map.
  
 #### Faction Types
 
