@@ -301,7 +301,7 @@ Consider the following when determining the **Province** name:
 | **12**  | **Revive**     | Restore a former leader, god, or locale.                             |
 
 ## Conclusion
-Your **Province** is now complete! You can now "drill down" into various locations (starting with the hub) and build out each **Detail** with your favorite tables. Keep the following thoughts in mind as you do:
+Congratulations, your **Province** is complete! You can now "drill down" into various locations (starting with the hub) and build out each **Detail** with your favorite tables. Keep the following thoughts in mind as you do:
 - How might the interactions between the **Factions** interact with the landscape, its features, and one another? How will this change as the **Factions** succeed (or fail) at their goals? 
 - Consider the history of the region's original "discoverers", the locals they may have supplanted, and where both groups are today. 
-- When building out the next **Province**, keep in mind how it would have interacted historically with this **Province**, and what might **happen** between them in the future.
+- When building out the next **Province**, keep in mind how it would have interacted historically with this **Province**, and what might happen between them in the future.
