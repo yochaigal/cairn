@@ -26,9 +26,9 @@ Established facts about the setting. Good questions to answer:
 - What linguistic and cultural flavor exists in the setting?
 
 ### Scale
-- **Small**: A single **Province** whose central hub is typically a large village, no more than _four_ **Watches** from the furthest settled **Detail**.  
-- **Medium**: 2-4 **Provinces** who share a central hub (typically a large town), no more than _eight_ **Watches** from the furthest settled **Detail**.
-- **Large**: 5-10 **Provinces** who share a central hub (typically a large city), no more than _sixteen_ **Watches** from the furthest settled **Detail**.
+- **Small**: A single **Province** whose central hub is typically a large village, no more than _four_ **Watches** from the furthest **Detail**.  
+- **Medium**: 2-4 **Provinces** who share a central hub (typically a large town), no more than _eight_ **Watches** from the furthest **Detail**.
+- **Large**: 5-10 **Provinces** who share a central hub (typically a large city), no more than _sixteen_ **Watches** from the furthest **Detail**.
 
 ## Provinces
 
