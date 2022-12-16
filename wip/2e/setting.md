@@ -218,8 +218,8 @@ Starting with the central hub, name each **Detail** on the map based on its uniq
 ### Name The Province
 Consider the following when determining the **Province** name:
 - What are the key geographic features of the region? 
-- What sorts of factions dominate this place? Are they mercantile, religious, institutional...?
 - What major events (war, famine, discoveries) occured here in the past? Who were the major players?
+- What sort of factions have historically dominated this place?
 - A name may also include a reference to the region's relative position to the seat of power: _The Northeast Redoubt_, _Western Ranges_, etc.
 - The name (first, or family) of a "discoverer", conquerer or colonizer often sticks around long after their death.
 
@@ -302,4 +302,4 @@ Consider the following when determining the **Province** name:
 Your **Province** is now complete! You can now "drill down" into various locations (starting with the hub) and build out each **Detail** with your favorite tables. Keep the following thoughts in mind as you do:
 - How might the interactions between the **Factions** interact with the landscape, its features, and one another? How will this change as the **Factions** succeed (or fail) at their goals? 
 - Consider the history of the region's original "discoverers", the locals they may have supplanted, and where both groups are today. 
-- When building out the next **Province**, keep in mind how it would have interacted historically with this **Province**, and what might between them in the future.
+- When building out the next **Province**, keep in mind how it would have interacted historically with this **Province**, and what might **happen** between them in the future.
