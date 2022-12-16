@@ -219,14 +219,6 @@ Starting with the **Heart**, name each **Detail** on the map based on its unique
 - Wilderness and dangerous places are even more obvious: poison lake, greedy mines, etc. Some tell a story: _Luka's Folly, Dead Man's Path_, etc. 
 - Important places should have important names: that of heroes, religious/political figures, and important events. _The Chalet of Saint Ibiz, Queen's Harvest, Light of the Nine_, etc.
 
-### Name The Province
-Consider the following when determining the **Province** name:
-- What are the key geographic features of the region? 
-- What major events (war, famine, discoveries) occured here in the past? Who were the major players?
-- What sort of factions have historically dominated this place?
-- A name may also include a reference to the region's relative position to the seat of power: _The Northeast Redoubt_, _Western Ranges_, etc.
-- The name (first, or family) of a "discoverer", conquerer or colonizer often sticks around long after their death.
-
 ## Factions
 - Factions rule over one or more **Details**, an entire **Province**, or even a **Domain**. 
 - The map should reflect the impact of goals being completed or interrupted. **Factions** will work to achieve their goals independently.
@@ -303,6 +295,15 @@ Consider the following when determining the **Province** name:
 | **10**  | **Revenge**    | Rectify a perceived injustice.                                       |
 | **11**  | **Reveal**     | Disclose a long-kept secret.                                         |
 | **12**  | **Revive**     | Restore a former leader, god, or locale.                             |
+
+## Name The Province
+Consider the following when determining the **Province** name:
+- What are the key geographic features of the region? 
+- What major events (war, famine, discoveries) occured here in the past? Who were the major players?
+- What sort of factions have historically dominated this place?
+- A name may also include a reference to the region's relative position to the seat of power: _The Northeast Redoubt_, _Western Ranges_, etc.
+- The name (first, or family) of a "discoverer", conquerer or colonizer often sticks around long after their death.
+
 
 ## Conclusion
 Congratulations, your **Province** is complete! You can now "drill down" into various locations (starting with the hub) and build out each **Detail** with your favorite tables. Keep the following thoughts in mind as you do:
