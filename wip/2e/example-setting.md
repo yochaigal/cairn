@@ -84,9 +84,10 @@ The results of the die rolls are below. Items  in **bold** represent the chosen 
 - **Fealty** of the plains villages and their farms (as detachment, stats as [Bandits](/resources/monsters/bandit/)).
 - **Property**: The **White** family has control of significant food stores.
 - **Seneschal**: Personal Chamberlain, stats as [Brigand](/resources/monsters/brigand/).
-- **Agenda**: Marry the widow **Alexey** and inherit the mines, or buy them at a steep discount.
+- **Agenda**: Increase his own wealth by eliminating this greatest competitor: **Lord Alexy**. 
   - Promise this season's crop-yield to the **Under-folk**. In exchange they will raid nearby villages.
   - Bait & assassinate **Lord Alexey**, whose family owns the **Swift Mines**.   
+  - Marry the widow **Alexey** and inherit the mines, or buy them at a steep discount.
 
 ### The Under-folk (Commoner)
 #### Resources
