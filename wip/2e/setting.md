@@ -251,14 +251,14 @@ Consider the following when determining the **Province** name:
 | **d12** | **Faction Type**  |
 | **1**   | **Academic**      |
 | **2**   | **Arcane**        |
-| **3**   | **Criminal**      |
-| **4**   | **Foreign**       |
-| **5**   | **Government**    |
-| **6**   | **Industrial**    |
-| **7**   | **Mercantile**    |
-| **8**   | **Military**      |
-| **9**   | **Noble**         |
-| **10**  | **Peasant**       |
+| **3**   | **Commoner**      |
+| **4**   | **Criminal**      |
+| **5**   | **Foreign**       |
+| **6**   | **Government**    |
+| **7**   | **Industrial**    |
+| **8**   | **Mercantile**    |
+| **9**   | **Military**      |
+| **10**  | **Noble**         |
 | **11**  | **Religious**     |
 | **12**  | **Revolutionary** |
 

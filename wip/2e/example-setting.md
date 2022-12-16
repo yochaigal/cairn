@@ -78,7 +78,7 @@ The results of the die rolls are below. Items  in **bold** represent the chosen 
   - Deploy newly-garrisoned troops to all roads leading into the Capital, to uncover enemies of the realm through torture and force. 
   - Crush the **The Will** and any other enemies threatening the realm. 
 
-### Earl of White
+### Earl of White (Noble)
 #### Resources
 - **Homebase**: **Hope's Landing**. 
 - **Fealty** of the plains villages and their farms (as detachment, stats as [Bandits](/resources/monsters/bandit/)).
@@ -88,7 +88,7 @@ The results of the die rolls are below. Items  in **bold** represent the chosen 
   - Promise this season's crop-yield to the **Under-folk**. In exchange they will raid nearby villages.
   - Bait & assassinate **Lord Alexey**, whose family owns the **Swift Mines**.   
 
-### The Under-folk
+### The Under-folk (Commoner)
 #### Resources
 - **Homebase**: The caverns at **The Skunkholes**.
 - **Population**: 2d10+10 ratlike **Under-folk**, stats as [Kobold](/resources/monsters/kobold/).
@@ -97,7 +97,7 @@ The results of the die rolls are below. Items  in **bold** represent the chosen 
 - **Agenda**: Protect the **God-thumb** at all costs, and find new sources of food for the coming winter. 
   - Ally with the **Earl of White** so long as it is convenient.
 
-### The Will
+### The Will (Arcane)
 #### Resources
 - **Homebase**: **Dead Margin** (see below). Remnants in **Fria's Promise**.
 - **Population**: 2d10+10 [Acolytes](/resources/monsters/acolyte).
