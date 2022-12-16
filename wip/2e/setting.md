@@ -239,10 +239,10 @@ Consider the following when determining the **Province** name:
 - Do not feel limited by the table results below. If a Faction should have more or fewer **Resources**, that's OK!
 
 #### Factions Creation Procedure
-1. Starting with the central hub, roll on the following tables for every Settlement **Detail** on the map. Consider which **Details** a **Faction** might designate as "home base." 
-2. Repeat the process for at least one Lair or Ruin on the map.
-3. Create **Resources** according to each result. Consider the 
-4. Create at least one **Seneschal**, inspired by the likely followers of the **Faction**'s type, **Resources**, and **Agenda**. Also, consider where they might be located on the map.
+1. Starting with the central hub, roll on the [Faction Types](#faction-types) table for every Settlement **Detail** on the map. Repeat the process for at least one Lair or Ruin on the map. Consider where a **Faction** might make their home base. 
+2. Roll on the [Faction Resources](#faction-resources) table for each, one **Faction** at a time.
+3. Create **Resources** as indicated by the results from the table. Consider how many **Resources** a **Faction** of this type might have (typically 1-3). Roll accordingly.
+4. Create at least one **Seneschal**, inspired by the likely followers of the **Faction**'s type, **Resources**, and **Agenda**. Think of where they might be located on the map.
  
 #### Faction Types
 

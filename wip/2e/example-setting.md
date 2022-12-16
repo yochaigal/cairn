@@ -67,10 +67,10 @@ The results of the die rolls are below. Items  in **bold** represent the chosen 
 
 ## Factions
 
-### The Potentate
+### The Potentate (Government)
 #### Resources
 - **Anonymity**: The ruling council speaks only through an anointed subject, **The Whisper**.  
-- **Information**: There is little the **Potentate**'s ubiquitous spies do not know.   
+- **Knowledge**: There is little the **Potentate**'s ubiquitous spies do not know.   
 - **Hope Landing**: As the ruling faction over the **Province**, _detachments_ of soldiers can be summoned from the villages very quickly.
 - **Seneschals**: **The Whisper**, stats as [banshee](/resources/monsters/banshee/), and **Lord Alexey**, stas as [buccaneer](/resources/monsters/buccaneer/).
 
