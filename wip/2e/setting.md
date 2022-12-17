@@ -243,22 +243,22 @@ Starting with the **Heart**, name each **Detail** on the map based on its unique
  
 #### Faction Types
 
-|         |                   |
-| ------- | ----------------- |
-| **d12** | **Faction Type**  |
-| **1**   | **Academic**      |
-| **2**   | **Arcane**        |
-| **3**   | **Cabal**         |
-| **4**   | **Commoners**     |
-| **4**   | **Criminal**      |
-| **5**   | **Foreign**       |
-| **6**   | **Government**    |
-| **7**   | **Industrial**    |
-| **8**   | **Mercantile**    |
-| **9**   | **Military**      |
-| **10**  | **Noble**         |
-| **11**  | **Religious**     |
-| **12**  | **Revolutionary** |
+|         |                   |                                                                                                                                                           |
+| ------- | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **d12** | **Faction Type**  | **Faction Examples**                                                                                                                                      |
+| **1**   | **Academic**      | An upstart cartographer's guild, ready to prove their worth.                                                                                              |
+| **2**   | **Arcane**        | A league of wizards in search of an ancient power deep within the ruins of a long-dead civilization.                                                      |
+| **3**   | **Cabal**         | A shadowy organization, the leadership - as well as their goals - are shrouded in mystery.                                                                |
+| **4**   | **Commoners**     | Fellow underclass, the true movers of the world. But do they serve one of their betters, or themselves?                                                   |
+| **4**   | **Criminal**      | A group of ruffians, thieves, assassins, killers. Their leader is worse than the rest of them, combined.                                                  |
+| **5**   | **Foreign**       | An array of outside interests, poking their nose in. Do they come bearing gifts, or blade?                                                                |
+| **6**   | **Government**    | Everywhere you look. Politicians, bureaucrats, tax collectors. Who are they helping, besides themselves?                                                  |
+| **7**   | **Industrial**    | A ragtag group of workers fighting for a better life, and brought together by a charismatic yet troubled leader.                                          |
+| **8**   | **Mercantile**    | A cartel of beaming merchants, vendors, and trade experts. Followers of none, save for the almighty coin.                                                 |
+| **9**   | **Military**      | A commander during the great war, now disgraced. His wealth gone, he depends on his only asset: the loyalty of soldiers. It might be enough.              |
+| **10**  | **Noble**         | A Lady from a powerful House, built on shrewdness and deft politicking. If she doesn't move quickly (or rashly) she could lose everything.                |
+| **11**  | **Religious**     | A holy order, stewards for sacred artifacts. Now, outsiders have laid claim to some of these most holy of objects. And something _must_ be done about it. |
+| **12**  | **Revolutionary** | The kingdom is sick, a body politic diseased beyond redemption. There is only one cure, and one person to do the job. And my, is he pretty.               |
 
 #### Faction Resources
 
