@@ -208,9 +208,17 @@ Established facts about the setting. Good questions to answer:
 | **7**   |    **Trees that move**     |
 | **8**   |      **Buried giant**      |
 | **9**   |  **Pristine, empty city**  |
-| **10**  | **Nest of the folk witch** |
+| **10**  | **Home of the folk witch** |
 | **11**  |    **Cult ritual site**    |
-| **12**  |   **Bloody battlefied**    |
+| **12**  |   **Bloody battlefield**   |
+| **13**  |  **Phasal trading post**   |
+| **14**  |    **Frozen graveyard**    |
+| **15**  |  **Primitive shipwreack**  |
+| **16**  |     **Illusory city**      |
+| **17**  |     **Purple geysers**     |
+| **18**  |   **Carnivorous plants**   |
+| **19**  |      **Misty crater**      |
+| **20**  |    **Floating island**     |
 
 ### Detail Names
 Starting with the **Heart**, name each **Detail** on the map based on its unique terrain, feature, or history. 
