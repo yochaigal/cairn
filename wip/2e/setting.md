@@ -264,7 +264,7 @@ Starting with the **Heart**, name each **Detail** on the map based on its unique
 |         |                   |                                                                              |                                    |
 | ------- | ----------------- | ---------------------------------------------------------------------------- | :--------------------------------: |
 | **d12** | **Resource Type** | **Example Resources**                                                        |       **Example Seneschals**       |
-| **1**   | **Anonymity**     | A secret society ssrouded in mystery, its members' identities unknown.       |   Monks, politicians, demi-gods    |
+| **1**   | **Anonymity**     | A secret society shrouded in mystery, its members' identities unknown.       |   Monks, politicians, demi-gods    |
 | **2**   | **Apparatus**     | A powerful Relic, artifact, or tool.                                         |   Scholars, philosophers, sages    |
 | **3**   | **Fealty**        | Enjoys the loyalty of a large or important bloc of people.                   |     Lords, bannermen, farmers      |
 | **4**   | **Force**         | Employs brawn as its voice, and brute force as the cudgel.                   |     Bullies, toughs, flatfoots     |
