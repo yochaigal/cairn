@@ -242,22 +242,22 @@ Starting with the **Heart**, name each **Detail** on the map based on its unique
  
 #### Faction Types
 
-|         |                   |                                                                                                                           |
-| ------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| **d12** | **Faction Type**  | **Example Factions**                                                                                                      |
-| **1**   | **Academic**      | An upstart cartographer's guild, ready to prove their worth.                                                              |
-| **2**   | **Arcane**        | A league of wizards in search of an ancient power of a buried city.                                                       |
-| **3**   | **Cabal**         | A secret society, its machinations shrouded in mystery. Its goal, however is clear: a new world order.                    |
-| **4**   | **Commoners**     | Together, they are strong. Together they can move mountains. But who do they really serve?                                |
-| **4**   | **Criminal**      | An uneasy alliance of ruffians, thieves, and killers.  Their boss is scariesst of them all.                               |
-| **5**   | **Foreign**       | An array of outside interests, poking their nose in. Do they come bearing gifts, or blade?                                |
-| **6**   | **Government**    | Politicians, bureaucrats, tax collectors: they are everywhere. Who are they helping, besides themselves?                  |
-| **7**   | **Industrial**    | Workers, united by a charismatic and troubled leader. Fighting for a better life.                                         |
-| **8**   | **Mercantile**    | A cartel of beaming merchants, vendors, and trade experts. Followers of none, save for the almighty coin.                 |
-| **9**   | **Military**      | Disgraced officers, relying on their only remaining assets: a soldier's loyalty. It might be enough.                      |
-| **10**  | **Noble**         | A family built on deft politicking. Their house is in debt to a dangerous group, and they could lose everything.          |
-| **11**  | **Religious**     | Stewards of sacred artifacts. Outsiders have laid claim to their most holy of objects. Something _must_ be done about it. |
-| **12**  | **Revolutionary** | The body politic, diseased beyond redemption. There is only one cure, and my is he pretty.                                |
+|         |                   |                                                                                                                  |
+| ------- | ----------------- | ---------------------------------------------------------------------------------------------------------------- |
+| **d12** | **Faction Type**  | **Example Factions**                                                                                             |
+| **1**   | **Academic**      | An upstart cartographer's guild, ready to prove their worth.                                                     |
+| **2**   | **Arcane**        | A league of wizards in search of an ancient power of a buried city.                                              |
+| **3**   | **Cabal**         | A secret society, its machinations shrouded in mystery. Its goal however is very clear: a new world order.       |
+| **4**   | **Commoners**     | Together, they are strong. Together they can move mountains. But who do they really serve?                       |
+| **4**   | **Criminal**      | An uneasy alliance of ruffians, thieves, and killers.  Their boss is scariesst of them all.                      |
+| **5**   | **Foreign**       | An array of outside interests, poking their nose in. Do they come bearing gifts, or blade?                       |
+| **6**   | **Government**    | Politicians, bureaucrats, tax collectors: they are everywhere. Who are they helping, besides themselves?         |
+| **7**   | **Industrial**    | Workers, united by a charismatic and troubled leader. Fighting for a better life.                                |
+| **8**   | **Mercantile**    | A cartel of beaming merchants, vendors, and trade experts. Followers of none, save for the almighty coin.        |
+| **9**   | **Military**      | Disgraced officers, relying on their only remaining assets: a soldier's loyalty. It might be enough.             |
+| **10**  | **Noble**         | A family built on deft politicking. Their house is in debt to a dangerous group, and they could lose everything. |
+| **11**  | **Religious**     | Stewards of sacred artifacts, guided by the divine to reclaim their most holy of objects.                        |
+| **12**  | **Revolutionary** | The body politic, diseased beyond redemption. There is only one cure, and my is he pretty.                       |
 
 #### Faction Resources
 
