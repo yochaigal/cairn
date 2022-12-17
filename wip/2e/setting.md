@@ -11,21 +11,17 @@ search_exclude: true
 
 ### Summary
 - A setting has a **Theme**, **Scale**, **Terrain**, **Details**, and **Factions**. 
-- A **Province** is a single, traversable setting. A **Domain** is one or more adjacent **Provinces** defined by the same ruler. 
-- Each **Province** has a **Heart**: a settlement (of any size) that reflects the history, **Factions** and peoples of the land.
-
-> Distance is measured in [**Watches**](/wip/2e/wilderness-exploration/#travel), assuming that the party travels by foot and on maintained roads.
-
-> See [this page](/wip/2e/example-setting) for an example setting.
+- Distance is measured in [**Watches**](/wip/2e/wilderness-exploration/#travel), assuming that the party travels by foot and on maintained roads.
+- See [this page](/wip/2e/example-setting) for an example setting.
 
 ## Theme
 Established facts about the setting. Good questions to answer: 
-- How is magic in this world?
-- What level of technology is it?
-- How does religion function?
-- Who are the PCs in the setting? What is their relative position with respect to those in power?
-- What races & backgrounds exist, and are they playable by PCs?
-- What linguistic and cultural flavor exists in the setting?
+- How does magic work?
+- What level of technology do the denizens have?
+- How does religion function? Do gods walk the lands, and do the people know it?
+- Who are the PCs in the setting? What is theirposition with respect to those in power?
+- What species & backgrounds exist, and are they playable by PCs?
+- What linguistic and cultural flavor exists in the setting? 
 
 ### Scale
 - **Small**: A single **Province** whose **Heart** is typically a large village, no more than _four_ **Watches** from the furthest **Detail**.  
@@ -33,6 +29,9 @@ Established facts about the setting. Good questions to answer:
 - **Large**: 5-10 **Provinces** who share a **Heart** (typically a large city), no more than _sixteen_ **Watches** from the furthest **Detail**.
 
 ## Provinces
+- A **Province** is a single, traversable landscape roughly defined by divisble terrain (mountain ranges, rivers, oceans). 
+- A **Domain** is one or more adjacent **Provinces** defined by the same ruler(s). 
+- Each **Province** has a **Heart**: a settlement (of any size) that reflects the history, **Factions**, and peoples of the land.
 
 ### Creating a Province
 1. On a flat sheet of paper, create a dot to signify the **Heart** (a village, town, or city) of the **Province**. Number it **1**. 
@@ -248,9 +247,9 @@ Starting with the **Heart**, name each **Detail** on the map based on its unique
 | **d12** | **Faction Type**  | **Faction Examples**                                                                                                                                      |
 | **1**   | **Academic**      | An upstart cartographer's guild, ready to prove their worth.                                                                                              |
 | **2**   | **Arcane**        | A league of wizards in search of an ancient power deep within the ruins of a long-dead civilization.                                                      |
-| **3**   | **Cabal**         | A shadowy organization, the leadership - as well as their goals - are shrouded in mystery.                                                                |
-| **4**   | **Commoners**     | Fellow underclass, the true movers of the world. But do they serve one of their betters, or themselves?                                                   |
-| **4**   | **Criminal**      | A group of ruffians, thieves, assassins, killers. Their leader is worse than the rest of them, combined.                                                  |
+| **3**   | **Cabal**         | Its members manipulate the strands of power from the background. Its leadership - and their goals - are shrouded in mystery.                              |
+| **4**   | **Commoners**     | Together, they are strong. Together they can move mountains. But do they serve themselves?, or one of their betters?                                      |
+| **4**   | **Criminal**      | Ruffians, thieves, assassins, killers. Sometimes, they work together; until they don't. Their leader is worse than the rest of them, combined.                                                  |
 | **5**   | **Foreign**       | An array of outside interests, poking their nose in. Do they come bearing gifts, or blade?                                                                |
 | **6**   | **Government**    | Everywhere you look. Politicians, bureaucrats, tax collectors. Who are they helping, besides themselves?                                                  |
 | **7**   | **Industrial**    | A ragtag group of workers fighting for a better life, and brought together by a charismatic yet troubled leader.                                          |
