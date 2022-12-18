@@ -310,10 +310,10 @@ Starting with the **Heart**, name each **Detail** on the map based on its unique
 | ------- | ------------------------- | ------------------------------------------------------------------------------- |
 | **d12** | **Obstacles**             | **Example Obstacles**                                                           |
 | **1**   | **Dog Eat Dog**           | Another **Faction** is vying for the same or similar **Agenda**.                |
-| **2**   | **Cloak & Dagger**        | The **Agenda** must be carried out in absolute secret.                          |
+| **2**   | **Cloak & Dagger**        | The **Agenda** must be carried out in absolute secrecy.                          |
 | **3**   | **Guardian at the Gate**  | A powerful figure or foe must be eliminated to ensure a successful **Agenda**.  |
 | **4**   | **Consequnces are Dire**  | The **Agenda** contravenes an established code. Violation pays a heavy penalty. |
-| **5**   | **Specail Set of Skills** | Accomplishing the **Agenda** requires specialists of an uncommon sort.          |
+| **5**   | **Special Set of Skills** | Accomplishing the **Agenda** requires specialists of an uncommon sort.          |
 | **6**   | **Tools for the Job**     | A particular object or Relic is required to complete the **Agenda**.            |
 | **7**   | **Perfect Timing**        | The **Agenda** must be carried out at a rare or exact moment.                   |
 | **8**   | **Public Perception**     | A significant portion of the population openly opposes the **Agenda**.          |
@@ -322,6 +322,13 @@ Starting with the **Heart**, name each **Detail** on the map based on its unique
 | **11**  | **Rotten from Within**    | The **Faction** has a been infiltrated by a spy, intent on sabotage.            |
 | **12**  | **Body Count**            | Someone must die to ensure a successful outcome. The **Agenda** demands it.     |
 
+### Faction Rules
+- By default, **Factions** operate outside of the player character's actions. If the PCs do nothing, the **Factions** still act.
+- Between sessions roll 1d6 for each **Faction**. On a **1**, they lose a **Resource**. On a **2-4**, nothing happens. On a **5-6**, that **Faction** achieves a goal in its **Agenda**. 
+- If two **Factions** are _opposed_, have the highest-ranking **Seneschal** make a WIL save. On a success, they prevail. A tie (of any result) is a standstill. 
+
+> The fiction can always overrule the necessity for a dice roll, in some cases provide an advantage of some kind. 
+
 ## Name The Province
 Consider the following when determining the **Province** name:
 - What are the key geographic features of the region? 
@@ -329,7 +336,6 @@ Consider the following when determining the **Province** name:
 - What sort of factions have historically dominated this place?
 - A name may also include a reference to the region's relative position to the seat of power: _The Northeast Redoubt_, _Western Ranges_, etc.
 - The name (first, or family) of a "discoverer", conquerer or colonizer often sticks around long after their death.
-
 
 ## Conclusion
 Congratulations, your **Province** is complete! You can now "drill down" into various locations (starting with the hub) and build out each **Detail** with your favorite tables. Keep the following thoughts in mind as you do:
