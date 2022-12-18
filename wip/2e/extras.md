@@ -202,3 +202,22 @@ The [**Proper Noun**] of (the) [**Noun**]
 | **10**  | **Noble**         |                                      |
 | **11**  | **Religious**     | Monks, abbots, paladins              |
 | **12**  | **Revolutionary** |                                      |
+
+
+### Faction Relations
+- Two or more **Factions** can be _aligned_, _opposed_, or _neutral_. 
+- 
+
+#### Aligned
+- _Aligned_ **Factions** can assist one another with **Resources**, or even send _detachments_ and Relics to aid their ally.
+- 
+
+#### Opposed
+- _Opposed_ **Factions** will attempt to cripple their enemies by harming their **Resources**.
+
+#### Neutral
+- _Netural  **Factions** do not interact directly, but should their interests
+- 
+
+#### Neutral 
+

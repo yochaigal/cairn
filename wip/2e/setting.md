@@ -244,9 +244,10 @@ Starting with the **Heart**, name each **Detail** on the map based on its unique
 #### Factions Creation Procedure
 1. Starting with the **Heart**, roll on the [Faction Types](#faction-types), the [Faction Resources](#faction-resources), and the [**Faction Agendas**](#faction-agendas) tables for every Settlement **Detail** on the map.
 2. Create **Resources** as indicated by the results from the table. Consider how many **Resources** a **Faction** of this type might have (between **2-4**). Roll accordingly.
-3. Create at least one **Seneschal**, inspired by the **Faction** type, **Resources**, and **Agenda**. Think of where they might be located on the map this is the **Faction's** home base.
-4. Select a Lair or Ruin on the map. Follow steps 1-3 to make at least one **Faction** for that site. Repeat as desired.
-5. Create at least one alliance and at least one conflict between the **Factions**. Consider the region's history, the **Resources** of each **Faction**, who might want them, and what someone would do to _get_ them.
+3. Roll on the [Faction Obstacles](#faction-obstacles) table. Use the result to consider what might prevent the **Agenda** from succeeding.
+4. Create at least one **Seneschal**, inspired by the **Faction** type, **Resources**, and **Agenda**. Think of where they might be located on the map this is the **Faction's** home base.
+5. Select a Lair or Ruin on the map. Follow steps 1-3 to make at least one **Faction** for that site. Repeat as desired.
+6. Create at least one alliance and at least one conflict between the **Factions**. Consider the region's history, the **Resources** of each **Faction**, who might want them, and what someone would do to _get_ them.
  
 #### Faction Types
 
@@ -255,7 +256,7 @@ Starting with the **Heart**, name each **Detail** on the map based on its unique
 | **d12** | **Faction Type**  | **Example Factions**                                                                                             |
 | **1**   | **Academic**      | An upstart cartographer's guild, ready to prove their worth.                                                     |
 | **2**   | **Arcane**        | A league of wizards in search of an ancient power of a buried city.                                              |
-| **3**   | **Cabal**         | A secret society, its machinations shrouded in mystery. But its goal is all too clear: a new world order.       |
+| **3**   | **Cabal**         | A secret society, its machinations shrouded in mystery. But its goal is all too clear: a new world order.        |
 | **4**   | **Commoners**     | Together, they are strong. Together they can move mountains. But who do they really serve?                       |
 | **4**   | **Criminal**      | An uneasy alliance of ruffians, thieves, and killers.  Their boss is scariesst of them all.                      |
 | **5**   | **Foreign**       | An array of outside interests, poking their nose in. Do they come bearing gifts, or blade?                       |
@@ -302,6 +303,24 @@ Starting with the **Heart**, name each **Detail** on the map based on its unique
 | **10**  | **Revenge**    | Rectify a perceived injustice.                                       |
 | **11**  | **Reveal**     | Disclose a long-kept secret.                                         |
 | **12**  | **Revive**     | Restore a former leader, god, or locale.                             |
+
+#### Faction Obstacles
+
+|         |                           |                                                                                 |
+| ------- | ------------------------- | ------------------------------------------------------------------------------- |
+| **d12** | **Obstacles**             | **Example Obstacles**                                                           |
+| **1**   | **Dog Eat Dog**           | Another **Faction** is vying for the same or similar **Agenda**.                |
+| **2**   | **Cloak & Dagger**        | The **Agenda** must be carried out in absolute secret.                          |
+| **3**   | **Guardian at the Gate**  | A powerful figure or foe must be eliminated to ensure a successful **Agenda**.  |
+| **4**   | **Consequnces are Dire**  | The **Agenda** contravenes an established code. Violation pays a heavy penalty. |
+| **5**   | **Specail Set of Skills** | Accomplishing the **Agenda** requires specialists of an uncommon sort.          |
+| **6**   | **Tools for the Job**     | A particular object or Relic is required to complete the **Agenda**.            |
+| **7**   | **Perfect Timing**        | The **Agenda** must be carried out at a rare or exact moment.                   |
+| **8**   | **Public Perception**     | A significant portion of the population openly opposes the **Agenda**.          |
+| **9**   | **Opposition**            | Another **Faction** opposes the **Agenda**, and will attempt to stop it.        |
+| **10**  | **Limited Means**         | Considerable capital will be required to carry out the **Agenda**.              |
+| **11**  | **Rotten from Within**    | The **Faction** has a been infiltrated by a spy, intent on sabotage.            |
+| **12**  | **Body Count**            | Someone must die to ensure a successful outcome. The **Agenda** demands it.     |
 
 ## Name The Province
 Consider the following when determining the **Province** name:

@@ -77,6 +77,7 @@ The results of the die rolls are below. Items  in **bold** represent the chosen 
 - **Agenda**: Maintain the stability of the realm by crushing rising threats from other factions. 
   - Deploy newly-garrisoned troops to all roads leading into the Capital, to uncover enemies of the realm through torture and force. 
   - Crush the **The Will** and any other enemies threatening the realm. 
+- **Obstacle**: Opposition. **The Will** directly defies the rule of law.
 
 ### Earl of White (Noble)
 #### Resources
@@ -84,10 +85,11 @@ The results of the die rolls are below. Items  in **bold** represent the chosen 
 - **Fealty** of the plains villages and their farms (as detachment, stats as [Bandits](/resources/monsters/bandit/)).
 - **Property**: The **White** family has control of significant food stores.
 - **Seneschal**: Personal Chamberlain, stats as [Brigand](/resources/monsters/brigand/).
-- **Agenda**: Increase his own wealth by eliminating this greatest competitor: **Lord Alexy**. 
+- **Agenda**: Increase his own wealth by eliminating **Lord Alexy**.  
   - Promise this season's crop-yield to the **Under-folk**. In exchange they will raid nearby villages.
   - Bait & assassinate **Lord Alexey**, whose family owns the **Swift Mines**.   
   - Marry the widow **Alexey** and inherit the mines, or buy them at a steep discount.
+- **Obstacle**: Cloak & Dagger. If the **Earl's** plans are discovered, there will be nowhere he can hide. 
 
 ### The Under-folk (Commoner)
 #### Resources
@@ -98,6 +100,7 @@ The results of the die rolls are below. Items  in **bold** represent the chosen 
 - **Agenda**: Protect the **God-thumb** at all costs, and find new sources of food for the coming winter. 
   - Ally with the **Earl of White** for his food stores, so long as it is convenient.
   - Find an independent food store that they may control.
+- **Obstacle**: Dog Eat Dog. Other **Factions** want the **God-thumb** as well.
 
 ### The Will (Arcane)
 #### Resources
@@ -109,6 +112,7 @@ The results of the die rolls are below. Items  in **bold** represent the chosen 
   - Send spies throughout the **Provinces** in search of the **God-thumb**. Steal it. 
   - Command the **Under-folk** to overwhelm the capital and distract the **Potentate**.
   - Take the **God-thumb** to **Hexmire** and bathe it in the **Font of Regret**.  
+- **Obstacle**: Consequences are Dire. The **Potentate** will find and kill them all.
  
 ## Map Result
 [![Alt text](/img/2e/example-setting-2.png "Click to embiggen"){:height="40%" width="40%"}](/img/2e/example-setting-2.png)
