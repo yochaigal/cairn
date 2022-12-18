@@ -11,8 +11,8 @@ search_exclude: true
 
 ### Summary
 - A setting has a **Theme**, **Terrain**, **Details**, and **Factions**. 
-- Distance is measured in [**Watches**](/wip/2e/wilderness-exploration/#travel), assuming that the party travels by foot and on maintained roads.
 - See [this page](/wip/2e/example-setting) for an example setting.
+- Distance is measured in [**Watches**](/wip/2e/wilderness-exploration/#travel), assuming that the party travels by foot and on maintained roads.
 
 ## Theme
 Established facts about the setting. Good questions to answer: 
@@ -42,7 +42,6 @@ Established facts about the setting. Good questions to answer:
 6. Create a new dot wherever paths cross, and wherever a new path ends. Number them as you go.
 
 > You can use other shapes (squares, rectangles, circles, etc) to create dots instead. Try varying the distance between dots for each successive **Province**. You can repeat this process for any adjacent **Provinces**, connecting them by road, river, or range.  
-
 
 ### Adding Terrain
 1. Roll on the [Hub Terrain](#hub-terrain) table to determine the **Heart**'s terrain. Choose **one** terrain from the results. 
