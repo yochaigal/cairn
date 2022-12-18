@@ -324,7 +324,7 @@ Starting with the **Heart**, name each **Detail** on the map based on its unique
 
 ### Faction Rules
 - By default, **Factions** operate independent of the player character's actions. If the PCs do nothing, the **Factions** should still act to acheive their aims.
-- Whenever a **Faction** is positioned to advance one a goal in their **Agenda**, roll a **d10** on the [Faction Actions](#faction-actions): 
+- Whenever a **Faction** is positioned to advance a goal in their **Agenda**, roll a **d10** on the [Faction Actions](#faction-actions) table. 
 - If two **Factions** are _opposed_, have the **Faction** _most at risk_ make a WIL save, using the score from the highest-ranking **Seneschal**. 
   - On a success, they roll on the [Faction Actions](#faction-actions) table. Their opponent does not. 
   - On a fail, their opponent rolls, and they do not.
