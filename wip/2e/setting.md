@@ -325,9 +325,9 @@ Starting with the **Heart**, name each **Detail** on the map based on its unique
 ### Faction Rules
 - By default, **Factions** operate independent of the player character's actions. If the PCs do nothing, the **Factions** should still act to acheive their aims.
 - Whenever a **Faction** is positioned to advance a goal in their **Agenda**, roll a **d10** on the [Faction Actions](#faction-actions) table. 
-- If two **Factions** are _opposed_, have the **Faction** _most at risk_ make a WIL save, using the score from the highest-ranking **Seneschal**. 
-  - On a success, they roll on the [Faction Actions](#faction-actions) table. Their opponent does not. 
-  - On a fail, their opponent rolls, and they do not.
+- If two **Factions** are _opposed_, the **Faction** _most at risk_ makes a WIL save, using the score of its highest-ranking **Seneschal**. 
+  - On a success, roll on the [Faction Actions](#faction-actions) table for that **Faction**. Do not roll for their opponent. 
+  - On a fail, roll for their opponent, but for the **Faction** that rolled.
 
 #### Faction Actions
 
@@ -341,7 +341,7 @@ Starting with the **Heart**, name each **Detail** on the map based on its unique
 | **8-9**  | **Success**       | A goal is achieved and no **Resources** lost.                                     |
 | **9-10** | **Success**       | A goal is achieved, and a new **Resource** is found.                              |
 
-> The fiction can always overrule the necessity for a dice roll, in some cases provide an advantage of some kind. 
+> The actions of the PCs can always overrule the necessity for a **Faction** action, or in some cases provide an advantage of some kind to the roll. 
 
 ## Name The Province
 Consider the following when determining the **Province** name:
