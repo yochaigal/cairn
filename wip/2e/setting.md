@@ -10,7 +10,7 @@ search_exclude: true
 # Setting
 
 ### Summary
-- A setting has a **Theme**, **Scale**, **Terrain**, **Details**, and **Factions**. 
+- A setting has a **Theme**, **Terrain**, **Details**, and **Factions**. 
 - Distance is measured in [**Watches**](/wip/2e/wilderness-exploration/#travel), assuming that the party travels by foot and on maintained roads.
 - See [this page](/wip/2e/example-setting) for an example setting.
 
@@ -23,15 +23,15 @@ Established facts about the setting. Good questions to answer:
 - What species & backgrounds exist, and are they playable by PCs?
 - What linguistic and cultural flavor exists in the setting? 
 
-### Scale
-- **Small**: A single **Province** whose **Heart** is typically a large village, no more than _four_ **Watches** from the furthest **Detail**.  
-- **Medium**: 2-4 **Provinces** who share a **Heart** (typically a large town), no more than _eight_ **Watches** from the furthest **Detail**.
-- **Large**: 5-10 **Provinces** who share a **Heart** (typically a large city), no more than _sixteen_ **Watches** from the furthest **Detail**.
-
 ## Provinces
 - A **Province** is a single, traversable landscape roughly defined by divisble terrain (mountain ranges, rivers, oceans). 
 - A **Domain** is one or more adjacent **Provinces** defined by the same ruler(s). 
 - Each **Province** has a **Heart**: a settlement (of any size) that reflects the history, **Factions**, and peoples of the land.
+
+### Scale
+- **Small Province**: A **Heart** (typically a large village) no more than _four_ **Watches** from the furthest **Detail**.  
+- **Medium Province**: A **Heart** (typically a large town) no more than _eight_ **Watches** from the furthest **Detail**.
+- **Large Province**: A **Heart** (typically a large city) no more than _sixteen_ **Watches** from the furthest **Detail**.
 
 ### Creating a Province
 1. On a flat sheet of paper, create a dot to signify the **Heart** (a village, town, or city) of the **Province**. Number it **1**. 
