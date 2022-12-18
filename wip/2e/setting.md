@@ -91,9 +91,9 @@ Established facts about the setting. Good questions to answer:
 | **8**  |    **Desert, wasteland, sea**     |
 
 ## Details
-- Each dot on the map is one **Detail**. **Details** act as [**Points**](/wip/2e/wilderness-exploration/#points) according to the [**Wilderness Exploration**](/wip/2e/wilderness-exploration) rules. 
-- Keep in mind how many **Watches** it might take to travel to each **Detail**. 
+- Each dot on the map is one **Detail**. **Details** act as [**Points**](/wip/2e/wilderness-exploration/#points) according to the [**Wilderness Exploration**](/wip/2e/wilderness-exploration) rules. Keep in mind how many **Watches** it might take to travel to each **Detail**. 
 - The **Heart** of a **Province** is always a settlement. It isn't necessarily the largest or most important place people live, but it does always have a significant history. 
+- Assume there are small villages scattered around larger settlements. These do not need to be represented by dots or **Details**!   
 
 ### Adding Details
 1. Roll on the [Settlments](#settlements) and [Settlement Features](#settlement-features) tables to generate the **Heart** of the **Province**.
@@ -119,9 +119,9 @@ Established facts about the setting. Good questions to answer:
 |        |                |
 | ------ | :------------: |
 | **d6** | **Settlement** |
-| **1**  |  **Village**   |
-| **2**  |    **Town**    |
-| **3**  |    **City**    |
+| **1**  |    **Town**    |
+| **2**  |    **City**    |
+| **3**  |  **Outpost**   |
 | **4**  | **Stronghold** |
 | **5**  | **Sanctuary**  |
 | **6**  |   **Prison**   |
@@ -327,7 +327,7 @@ Starting with the **Heart**, name each **Detail** on the map based on its unique
 - Whenever a **Faction** is positioned to advance a goal in their **Agenda**, roll a **d10** on the [Faction Actions](#faction-actions) table. 
 - If two **Factions** are _opposed_, the **Faction** _most at risk_ makes a WIL save, using the score of its highest-ranking **Seneschal**. 
   - On a success, roll on the [Faction Actions](#faction-actions) table for that **Faction**. Do not roll for their opponent. 
-  - On a fail, roll for their opponent, but for the **Faction** that rolled.
+  - On a fail, roll for their opponent, but not for the **Faction** that rolled a save.
 
 #### Faction Actions
 
