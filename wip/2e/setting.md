@@ -254,8 +254,8 @@ Starting with the **Heart**, name each **Detail** on the map based on its unique
 |         |                   |                                                                                                                  |
 | ------- | ----------------- | ---------------------------------------------------------------------------------------------------------------- |
 | **d12** | **Faction Type**  | **Example Factions**                                                                                             |
-| **1**   | **Academic**      | An upstart cartographer's guild, ready to prove their worth.                                                     |
-| **2**   | **Arcane**        | A league of wizards in search of an ancient power of a buried city.                                              |
+| **1**   | **Academic**      | An upstart cartographer's guild, preparing to map the **Far Reaches**. Many have tried, but none have returned.  |
+| **2**   | **Arcane**        | A league of wizards in search of an ancient power. They can't entrust its discovery to less experence hands.     |
 | **3**   | **Cabal**         | A secret society, its machinations shrouded in mystery. But its goal is all too clear: a new world order.        |
 | **4**   | **Commoners**     | Together, they are strong. Together they can move mountains. But who do they really serve?                       |
 | **4**   | **Criminal**      | An uneasy alliance of ruffians, thieves, and killers.  Their boss is scariesst of them all.                      |
