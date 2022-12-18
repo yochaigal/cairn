@@ -255,7 +255,7 @@ Starting with the **Heart**, name each **Detail** on the map based on its unique
 | **d12** | **Faction Type**  | **Example Factions**                                                                                             |
 | **1**   | **Academic**      | An upstart cartographer's guild, ready to prove their worth.                                                     |
 | **2**   | **Arcane**        | A league of wizards in search of an ancient power of a buried city.                                              |
-| **3**   | **Cabal**         | A secret society, its machinations shrouded in mystery. Its goal however is very clear: a new world order.       |
+| **3**   | **Cabal**         | A secret society, its machinations shrouded in mystery. But its goal is all too clear: a new world order.       |
 | **4**   | **Commoners**     | Together, they are strong. Together they can move mountains. But who do they really serve?                       |
 | **4**   | **Criminal**      | An uneasy alliance of ruffians, thieves, and killers.  Their boss is scariesst of them all.                      |
 | **5**   | **Foreign**       | An array of outside interests, poking their nose in. Do they come bearing gifts, or blade?                       |
@@ -276,7 +276,7 @@ Starting with the **Heart**, name each **Detail** on the map based on its unique
 | **2**   | **Apparatus**     | A powerful Relic, artifact, or tool.                                         |   Scholars, philosophers, sages    |
 | **3**   | **Fealty**        | Enjoys the loyalty of a large or important bloc of people.                   |     Lords, bannermen, farmers      |
 | **4**   | **Force**         | Employs brawn as its voice, and brute force as the cudgel.                   |     Bullies, toughs, flatfoots     |
-| **5**   | **Knowledge**     | Keeps tabs on friends and enemies alike via espionage and arcane privileges. |     Spies, informants, mystics     |
+| **5**   | **Information**   | Keeps tabs on friends and enemies alike via espionage and arcane privileges. |     Spies, informants, mystics     |
 | **6**   | **Magic**         | Relies on the arcane arts to carry out its agenda.                           |    Wizards, spellswords, liches    |
 | **7**   | **Population**    | Boasts a large number of rank and file members.                              |      Gangs, urchins, peddlers      |
 | **8**   | **Position**      | Relies on a unique geographic or political immunity.                         | Outlanders, criminals, politicians |
