@@ -232,9 +232,9 @@ Starting with the **Heart**, name each **Detail** on the map based on its unique
 - A **Faction** may be governed by a powerful figure, but most of the time PCs will be dealing with their lieutenants, or **Seneschals**. 
 
 ### Agendas & Resources
-- Factions have **Agendas** (3-4 steps towards a clear goal) and the **Resources** to help achieve them. 
-- A faction's **Resources** reflect its influence, resources, wealth, and special features. 
-- Factions grow (or lose) their **Resources** by trying to complete their agenda. 
+- **Factions** have **Agendas** (3-4 **goals** towards a clear objective) and the **Resources** to help achieve them. 
+- **Resources** reflect a **Factions'** influence, resources, wealth, and special features. 
+- **Factions** grow (or lose) their **Resources** by trying to complete their agenda. 
 
 ### Creating Factions
 - Consider the **Details** and **Terrain** you've developed. Note what is worth protecting, as well as what is worth taking.
@@ -331,15 +331,15 @@ Starting with the **Heart**, name each **Detail** on the map based on its unique
 
 #### Faction Actions
 
-|          |                   |                                                                                   |
-| -------- | ----------------- | --------------------------------------------------------------------------------- |
-| **d10**  | **Consequence**   | **Impact**                                                                        |
-| **1-2**  | **Failure**       | No goals are achieved, and a **Resource** is lost. A new goal is introduced.      |
-| **3-4**  | **Setback**       | An **Obstacle** has stymied any further advancement, and a **Resoource** is lost. |
-| **5-6**  | **Status Quo**    | Nothing is gained, but nothing is lost.                                           |
-| **7-8**  | **Mixed Success** | A goal is achieved and the **Agenda** advanced, but a **Resource** is lost.       |
-| **8-9**  | **Success**       | A goal is achieved and no **Resources** lost.                                     |
-| **9-10** | **Success**       | A goal is achieved, and a new **Resource** is found.                              |
+|          |                   |                                                                                      |
+| -------- | ----------------- | ------------------------------------------------------------------------------------ |
+| **d10**  | **Consequence**   | **Impact**                                                                           |
+| **1-2**  | **Failure**       | No **goals** are achieved, and a **Resource** is lost. A new **goal** is introduced. |
+| **3-4**  | **Setback**       | An **Obstacle** has stymied any further advancement, and a **Resoource** is lost.    |
+| **5-6**  | **Status Quo**    | Nothing is gained, but nothing is lost.                                              |
+| **7-8**  | **Mixed Success** | A **goal** is achieved and the **Agenda** advanced, but a **Resource** is lost.      |
+| **8-9**  | **Success**       | A **goal** is achieved and no **Resources** are lost.                                |
+| **9-10** | **Major Victory** | A **goal** is achieved, and a new **Resource** is found.                             |
 
 > The actions of the PCs can always overrule the necessity for a **Faction** action, or in some cases provide an advantage of some kind to the roll. 
 
@@ -352,7 +352,9 @@ Consider the following when determining the **Province** name:
 - The name (first, or family) of a "discoverer", conquerer or colonizer often sticks around long after their death.
 
 ## Conclusion
-Congratulations, your **Province** is complete! You can now "drill down" into various locations (starting with the hub) and build out each **Detail** with your favorite tables. Keep the following thoughts in mind as you do:
+Congratulations, your **Province** is complete! You can now "drill down" into various locations (starting with the **Heart**) and build out each **Detail** on your own favorite tables. Keep the following thoughts in mind as you go:
 - How might the interactions between the **Factions** interact with the landscape, its features, and one another? How will this change as the **Factions** succeed (or fail) at their goals? 
 - Consider the history of the region's original "discoverers", the locals they may have supplanted, and where both groups are today. 
 - When building out the next **Province**, keep in mind how it would have interacted historically with this **Province**, and what might happen between them in the future.
+
+> If you find anything **amiss** (there aren't enough towns to feed a city so large!) or **wrong** (why is there a frozen graveyard in this hot wasteland?) feel free to change it, or add your own **Details**. Remember, it's _your_ setting. 
