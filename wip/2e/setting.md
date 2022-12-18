@@ -228,7 +228,7 @@ Starting with the **Heart**, name each **Detail** on the map based on its unique
 
 ## Factions
 - Factions rule over one or more **Details**, an entire **Province**, or even a **Domain**. 
-- The map should reflect the impact of goals being completed or interrupted. **Factions** will work to achieve their goals independently.
+- The map should reflect the impact of goals being completed or interrupted. **Factions** will work to complete their **Agenda** independently.
 - A **Faction** may be governed by a powerful figure, but most of the time PCs will be dealing with their lieutenants, or **Seneschals**. 
 
 ### Agendas & Resources
@@ -323,23 +323,23 @@ Starting with the **Heart**, name each **Detail** on the map based on its unique
 | **12**  | **Body Count**            | Someone must die to ensure a successful outcome. The **Agenda** demands it.     |
 
 ### Faction Rules
-- By default, **Factions** operate independent of the player character's actions. If the PCs do nothing, the **Factions** should still act to acheive their aims.
+- By default, **Factions** operate independent of the player character's actions. If the PCs do nothing, the **Factions** should still act to achieve their aims.
 - Whenever a **Faction** is positioned to advance a goal in their **Agenda**, roll a **d10** on the [Faction Actions](#faction-actions) table. 
 - If two **Factions** are _opposed_, the **Faction** _most at risk_ makes a WIL save, using the score of its highest-ranking **Seneschal**. 
-  - On a success, roll on the [Faction Actions](#faction-actions) table for that **Faction**. Do not roll for their opponent. 
-  - On a fail, roll for their opponent, but not for the **Faction** that rolled a save.
+  - On a success, the **Faction** most at risk rolls on the [Faction Actions](#faction-actions) table, and their opponent does not.
+  - On a fail, the **Faction** most at risk _does not_ roll on the [Faction Actions](#faction-actions) table, but their opponent does.
 
 #### Faction Actions
 
-|          |                   |                                                                                      |
-| -------- | ----------------- | ------------------------------------------------------------------------------------ |
-| **d10**  | **Consequence**   | **Impact**                                                                           |
-| **1-2**  | **Failure**       | No **goals** are achieved, and a **Resource** is lost. A new **goal** is introduced. |
-| **3-4**  | **Setback**       | An **Obstacle** has stymied any further advancement, and a **Resoource** is lost.    |
-| **5-6**  | **Status Quo**    | Nothing is gained, but nothing is lost.                                              |
-| **7-8**  | **Mixed Success** | A **goal** is achieved and the **Agenda** advanced, but a **Resource** is lost.      |
-| **8-9**  | **Success**       | A **goal** is achieved and no **Resources** are lost.                                |
-| **9-10** | **Major Victory** | A **goal** is achieved, and a new **Resource** is found.                             |
+|           |                   |                                                               |
+| --------- | ----------------- | ------------------------------------------------------------- |
+| **d12**   | **Consequence**   | **Impact**                                                    |
+| **1-2**   | **Failure**       | A new **Obstacle** is introduced, and a **Resource** is lost. |
+| **3-4**   | **Setback**       | A **Resource** is lost.                                       |
+| **5-6**   | **Status Quo**    | Nothing is gained, but nothing is lost.                       |
+| **7-8**   | **Mixed Success** | A **goal** is achieved,  but a **Resource** is lost.          |
+| **9-10**  | **Success**       | A **goal** is achieved, and no **Resources** are lost.        |
+| **11-12** | **Major Success** | A **goal** is achieved, and a new **Resource** is found.      |
 
 > The actions of the PCs can always overrule the necessity for a **Faction** action, or in some cases provide an advantage of some kind to the roll. 
 
