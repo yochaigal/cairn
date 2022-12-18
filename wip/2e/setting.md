@@ -310,7 +310,7 @@ Starting with the **Heart**, name each **Detail** on the map based on its unique
 | ------- | ------------------------- | ------------------------------------------------------------------------------- |
 | **d12** | **Obstacles**             | **Example Obstacles**                                                           |
 | **1**   | **Dog Eat Dog**           | Another **Faction** is vying for the same or similar **Agenda**.                |
-| **2**   | **Cloak & Dagger**        | The **Agenda** must be carried out in absolute secrecy.                          |
+| **2**   | **Cloak & Dagger**        | The **Agenda** must be carried out in absolute secrecy.                         |
 | **3**   | **Guardian at the Gate**  | A powerful figure or foe must be eliminated to ensure a successful **Agenda**.  |
 | **4**   | **Consequnces are Dire**  | The **Agenda** contravenes an established code. Violation pays a heavy penalty. |
 | **5**   | **Special Set of Skills** | Accomplishing the **Agenda** requires specialists of an uncommon sort.          |
@@ -323,9 +323,23 @@ Starting with the **Heart**, name each **Detail** on the map based on its unique
 | **12**  | **Body Count**            | Someone must die to ensure a successful outcome. The **Agenda** demands it.     |
 
 ### Faction Rules
-- By default, **Factions** operate outside of the player character's actions. If the PCs do nothing, the **Factions** still act.
-- Between sessions roll 1d6 for each **Faction**. On a **1**, they lose a **Resource**. On a **2-4**, nothing happens. On a **5-6**, that **Faction** achieves a goal in its **Agenda**. 
-- If two **Factions** are _opposed_, have the highest-ranking **Seneschal** make a WIL save. On a success, they prevail. A tie (of any result) is a standstill. 
+- By default, **Factions** operate independent of the player character's actions. If the PCs do nothing, the **Factions** should still act to acheive their aims.
+- Whenever a **Faction** is positioned to advance one a goal in their **Agenda**, roll a **d10** on the [Faction Actions](#faction-actions): 
+- If two **Factions** are _opposed_, have the **Faction** _most at risk_ make a WIL save, using the score from the highest-ranking **Seneschal**. 
+  - On a success, they roll on the [Faction Actions](#faction-actions) table. Their opponent does not. 
+  - On a fail, their opponent rolls, and they do not.
+
+#### Faction Actions
+
+|          |                   |                                                                                   |
+| -------- | ----------------- | --------------------------------------------------------------------------------- |
+| **d10**  | **Consequence**   | **Impact**                                                                        |
+| **1-2**  | **Failure**       | No goals are achieved, and a **Resource** is lost. A new goal is introduced.      |
+| **3-4**  | **Setback**       | An **Obstacle** has stymied any further advancement, and a **Resoource** is lost. |
+| **5-6**  | **Status Quo**    | Nothing is gained, but nothing is lost.                                           |
+| **7-8**  | **Mixed Success** | A goal is achieved and the **Agenda** advanced, but a **Resource** is lost.       |
+| **8-9**  | **Success**       | A goal is achieved and no **Resources** lost.                                     |
+| **9-10** | **Success**       | A goal is achieved, and a new **Resource** is found.                              |
 
 > The fiction can always overrule the necessity for a dice roll, in some cases provide an advantage of some kind. 
 

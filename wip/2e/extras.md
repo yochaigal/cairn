@@ -218,6 +218,4 @@ The [**Proper Noun**] of (the) [**Noun**]
 #### Neutral
 - _Netural  **Factions** do not interact directly, but should their interests
 - 
-
-#### Neutral 
-
+- Between sessions roll 1d6 for each **Faction**. On a **1**, they lose a **Resource**. On a **2-4**, nothing happens. On a **5-6**, that **Faction** achieves a goal in its **Agenda**. 
