@@ -247,7 +247,7 @@ Starting with the **Heart**, name each **Detail** on the map based on its unique
 2. Create **Resources** as indicated by the results from the table. Consider how many **Resources** a **Faction** of this type might have (between **2-4**). Roll accordingly.
 3. Roll on the [Faction Obstacles](#faction-obstacles) table. Use the result to consider what might prevent the **Agenda** from succeeding.
 4. Create at least one **Seneschal**, inspired by the **Faction** type, **Resources**, and **Agenda**. Think of where they might be located on the map. Make that location the **Faction's** home base.
-5. Select a Lair or Ruin on the map. Follow steps 1-4 to make at least one **Faction** for that site. Repeat as desired.
+5. Select either a Lair or Ruin on the map. Follow steps 1-4 to make at least one **Faction** for that site. Repeat as desired.
  
 #### Faction Types
 
