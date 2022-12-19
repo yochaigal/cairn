@@ -29,17 +29,19 @@ Established facts about the setting. Good questions to answer:
 - Each **Province** has a **Heart**: a settlement (of any size) that reflects the history, **Factions**, and peoples of the land.
 
 ### Scale
-- **Small Province**: A **Heart** (typically a large village) no more than _four_ **Watches** from the furthest **Detail**.  
-- **Medium Province**: A **Heart** (typically a large town) no more than _eight_ **Watches** from the furthest **Detail**.
-- **Large Province**: A **Heart** (typically a large city) no more than _sixteen_ **Watches** from the furthest **Detail**.
+- **Small Province**: A **Heart** no more than _four_ **Watches** from the furthest **Detail**.  
+- **Medium Province**: A **Heart** no more than _eight_ **Watches** from the furthest **Detail**.
+- **Large Province**: A **Heart** no more than _sixteen_ **Watches** from the furthest **Detail**.
 
 ### Creating a Province
-1. On a flat sheet of paper, create a dot to signify the **Heart** (a village, town, or city) of the **Province**. Number it **1**. 
-2. Create three more dots in a triangle with the **Heart** in the rough center. Each of these dots represents an additional **Detail** on the map. Number these as well, in the order you create them.
-3. Connect two of the dots to the **Heart**, using solid lines to represent roads, dotted lines for trails, double solid lines for rivers, and double dotted lines and tunnels. Connect the remaining dot to one of these paths, crossing it and continuing for a distance. 
-4. Repeat step #2, orienting the triangle of dots in a different way than before. Number each dot.
-5. Connect two of the new dots to _any_ path, numbering each as you go. Do not connect the final dot.
-6. Create a new dot wherever paths cross, and wherever a new path ends. Number them as you go.
+1. On a flat sheet of paper, create a dot to signify the **Heart** of the **Province**. 
+2. Create three more dots in a triangle with the **Heart** in the rough center. Each of these dots represents an additional **Detail** on the map. 
+3. Connect two of the dots to the **Heart**, using solid lines to represent roads, dotted lines for trails, double solid lines for rivers, and double dotted lines for tunnels. 
+4. Connect the remaining dot to one of these paths, crossing it and continuing for a distance. 
+5. Repeat step #2, orienting the triangle of dots in a different way than before. 
+6. Connect two of the new dots to _any_ path, but do not connect the final dot to anything.
+7. Create a new dot wherever paths cross, and wherever a new path ends. 
+8. Number the dots, starting from the **Heart** and expanding outwards.
 
 > You can use other shapes (squares, rectangles, circles, etc) to create dots instead. Try varying the distance between dots for each successive **Province**. You can repeat this process for any adjacent **Provinces**, connecting them by road, river, or range.  
 
@@ -97,7 +99,7 @@ Established facts about the setting. Good questions to answer:
 ### Adding Details
 1. Roll on the [Settlments](#settlements) and [Settlement Features](#settlement-features) tables to generate the **Heart** of the **Province**.
 2. Generate features for each remaining dot by first rolling on the the [Detail Types](#detail-types) table, then on the associated table.
-3. For any additional settlements rolled, roll on the [Settlement Features](#settlement-features) table as well.
+3. For any additional Settlements rolled, roll on the [Settlement Features](#settlement-features) table as well.
 
 > If some of the results below seem incongruous, that's OK! Turn it into a question: _Why_ is there hazard terrain so close to a settlement? Perhaps there were mines there once, long abandoned. Rumors as to their true treasure - and dangers - abound. That said, don't be afraid to choose a more appropriate result if you're having a hard time making it work!
 
@@ -250,22 +252,21 @@ Starting with the **Heart**, name each **Detail** on the map based on its unique
  
 #### Faction Types
 
-|         |                   |                                                                                                                  |
-| ------- | ----------------- | ---------------------------------------------------------------------------------------------------------------- |
-| **d12** | **Faction Type**  | **Example Factions**                                                                                             |
-| **1**   | **Academic**      | An upstart cartographer's guild, preparing to map the **Far Reaches**. Many have tried, but none have returned.  |
-| **2**   | **Arcane**        | A league of wizards in search of an ancient power. They can't entrust its discovery to less experence hands.     |
-| **3**   | **Cabal**         | A secret society, its machinations shrouded in mystery. But its goal is all too clear: a new world order.        |
-| **4**   | **Commoners**     | Together, they are strong. Together they can move mountains. But who do they really serve?                       |
-| **4**   | **Criminal**      | An uneasy alliance of ruffians, thieves, and killers.  Their boss is scariesst of them all.                      |
-| **5**   | **Foreign**       | An array of outside interests, poking their nose in. Do they come bearing gifts, or blade?                       |
-| **6**   | **Government**    | Politicians, bureaucrats, tax collectors: they are everywhere. Who are they helping, besides themselves?         |
-| **7**   | **Industrial**    | Workers, united by a charismatic and troubled leader. Fighting for a better life.                                |
-| **8**   | **Mercantile**    | A cartel of beaming merchants, vendors, and trade experts. Followers of none, save for the almighty coin.        |
-| **9**   | **Military**      | Disgraced officers, relying on their only remaining assets: a soldier's loyalty. It might be enough.             |
-| **10**  | **Noble**         | A family built on deft politicking. Their house is in debt to a dangerous group, and they could lose everything. |
-| **11**  | **Religious**     | Stewards of sacred artifacts, guided by the divine to reclaim their most holy of objects.                        |
-| **12**  | **Revolutionary** | The body politic, diseased beyond redemption. There is only one cure, and my is he pretty.                       |
+|         |                   |                                                                                                                          |
+| ------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| **d12** | **Faction Type**  | **Example Factions**                                                                                                     |
+| **1**   | **Academic**      | An upstart cartographer's guild, preparing to map the **Far Reaches**. Many have tried, but none have returned.          |
+| **2**   | **Arcane**        | A league of wizards in search of an ancient power. They can't entrust its discovery to less experence hands.             |
+| **3**   | **Cabal**         | A secret society, its machinations shrouded in mystery. But its goal is all too clear: a new world order.                |
+| **4**   | **Commoners**     | Together, they are strong. Together they can move mountains. But who do they really serve?                               |
+| **5**   | **Criminal**      | An uneasy alliance of ruffians, thieves, and killers.  Their boss is scariesst of them all.                              |
+| **6**   | **Government**    | Politicians, bureaucrats, tax collectors: they are everywhere. Who are they helping, besides themselves?                 |
+| **7**   | **Industrial**    | Workers, united by a charismatic and troubled leader. Fighting for a better life.                                        |
+| **8**   | **Mercantile**    | A cartel of beaming merchants, vendors, and trade experts. Followers of none, save for the almighty coin.                |
+| **9**   | **Military**      | Disgraced officers, relying on their only remaining assets: a soldier's loyalty. It might be enough.                     |
+| **10**  | **Noble**         | A family built on deft politicking. Their house is in debt to a dangerous group, and they could lose everything.         |
+| **11**  | **Religious**     | Stewards of sacred artifacts, guided by the divine to reclaim their most holy of objects.                                |
+| **12**  | **Revolutionary** | The body politic is diseased beyond redemption. Plenty are ready to die for the cause, but only one is fit to lead them. |
 
 #### Faction Resources
 

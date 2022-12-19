@@ -221,3 +221,5 @@ The [**Proper Noun**] of (the) [**Noun**]
 - Between sessions roll 1d6 for each **Faction**. On a **1**, they lose a **Resource**. On a **2-4**, nothing happens. On a **5-6**, that **Faction** achieves a goal in its **Agenda**. 
 
 | **7-8**   | **Opportunity**   | A new **goal** is added, but a **Resource** is gained.        |
+
+| **5**   | **Foreign**       | An array of outside interests, poking their nose in. Do they come bearing gifts, or blade?                               |
