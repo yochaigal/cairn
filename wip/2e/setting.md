@@ -352,8 +352,8 @@ Consider the following when determining the **Province** name:
 
 ## Conclusion
 Congratulations, your **Province** is complete! You can now "drill down" into various locations (starting with the **Heart**) and build out each **Detail** on your own favorite tables. Keep the following thoughts in mind as you go:
-- How might the interactions between the **Factions** interact with the landscape, its features, and one another? How will this change as the **Factions** succeed (or fail) at their goals?  
-- Which **Factions** may be allied, and which opposed? Keep in mind the region's history, the **Resources** of each **Faction**, who might want them, and what someone would do to _get_ them.
+- How might the interactions between the **Factions** interact with the landscape, its features, and one another? How will this change as the **Factions** succeed (or fail) at their goals? 
+Consider which **Factions** may be allied, and which opposed? Keep in mind the region's history, what a **Faction** might have that others would want, and what someone would do to _get_ them. 
 - Consider the history of the region's original "discoverers", the locals they may have supplanted, and where both groups are today. 
 - When building out the next **Province**, keep in mind how it would have interacted historically with this **Province**, and what might happen between them in the future.
 
