@@ -243,11 +243,13 @@ Starting with the **Heart**, name each **Detail** on the map based on its unique
 - Do not feel limited by the table results below. If something feels "off" or a different table result would work better for your setting, use it!
 
 #### Factions Creation Procedure
-1. Starting with the **Heart**, roll on the [Faction Types](#faction-types), the [Faction Resources](#faction-resources), and the [**Faction Agendas**](#faction-agendas) tables for every Settlement **Detail** on the map.
-2. Create **Resources** as indicated by the results from the table. Consider how many **Resources** a **Faction** of this type might have (between **2-4**). Roll accordingly.
-3. Roll on the [Faction Obstacles](#faction-obstacles) table. Use the result to consider what might prevent the **Agenda** from succeeding.
-4. Create at least one **Seneschal**, inspired by the **Faction** type, **Resources**, and **Agenda**. Think of where they might be located on the map. Make that location the **Faction's** home base.
-5. Select either a Lair or Ruin on the map. Follow steps 1-4 to make at least one **Faction** for that site. Repeat as desired.
+Start by following steps 1-5 for every Settlement **Detail** on the map, starting with the **Heart**.
+1. Roll on the [Faction Types](#faction-types) table to determine the nature of the Faction. 
+2. Consider how many Resources a Faction of this type might have (between 2-4) and roll accordingly on the [Faction Resources](#faction-resources) table. Flesh out the specifics of the Resources as indicated by the results from the table. 
+3. Roll on the the [**Faction Agendas**](#faction-agendas) table and consider what their specific **Agenda** may be given your current information. Establish a series of goals (3-4) that must be accomplished for this **Agenda** to be accomplished.
+4. Roll on the [Faction Obstacles](#faction-obstacles) table. Use the result to consider what might prevent the **Agenda** from succeeding.
+5. Create at least one **Seneschal**, inspired by the **Faction** type, **Resources**, and **Agenda**, and **Obstacle**. Think of where they might be located on the map. Make that location the **Faction's** home base.
+6. Select either a Lair or Ruin on the map. Follow steps 1-5 to make at least one **Faction** for that site. Repeat as desired.
  
 #### Faction Types
 
