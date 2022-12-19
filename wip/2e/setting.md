@@ -234,7 +234,7 @@ Starting with the **Heart**, name each **Detail** on the map based on its unique
 
 ### Agendas & Resources
 - **Factions** have **Agendas** (3-4 **goals** towards a clear objective) and the **Resources** to help achieve them. 
-- **Resources** reflect a **Factions'** influence, resources, wealth, and special features. 
+- **Resources** reflect a **Factions'** influence, materials, wealth, and special features. 
 - **Factions** grow (or lose) their **Resources** by trying to complete their agenda. 
 
 ### Creating Factions
