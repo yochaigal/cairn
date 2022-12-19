@@ -131,15 +131,15 @@ Established facts about the setting. Good questions to answer:
 
 ##### Settlement Features
 
-|        |                         |
-| ------ | :---------------------: |
-| **d6** | **Settlement Features** |
-| **1**  |  **Highly defensible**  |
-| **2**  |  **Rich in resources**  |
-| **3**  |     **Overcrowded**     |
-| **4**  | **Seat of government**  |
-| **5**  | **Factionally divided** |
-| **6**  |  **Lacking resources**  |
+|        |                               |
+| ------ | :---------------------------: |
+| **d6** |    **Settlement Features**    |
+| **1**  |     **Highly defensible**     |
+| **2**  | **Rich in natural resources** |
+| **3**  |       **Overpopulated**       |
+| **4**  |    **Seat of government**     |
+| **5**  |    **Factionally divided**    |
+| **6**  | **Lacking natural resources** |
 
 #### Ruins
 
@@ -246,9 +246,8 @@ Starting with the **Heart**, name each **Detail** on the map based on its unique
 1. Starting with the **Heart**, roll on the [Faction Types](#faction-types), the [Faction Resources](#faction-resources), and the [**Faction Agendas**](#faction-agendas) tables for every Settlement **Detail** on the map.
 2. Create **Resources** as indicated by the results from the table. Consider how many **Resources** a **Faction** of this type might have (between **2-4**). Roll accordingly.
 3. Roll on the [Faction Obstacles](#faction-obstacles) table. Use the result to consider what might prevent the **Agenda** from succeeding.
-4. Create at least one **Seneschal**, inspired by the **Faction** type, **Resources**, and **Agenda**. Think of where they might be located on the map this is the **Faction's** home base.
+4. Create at least one **Seneschal**, inspired by the **Faction** type, **Resources**, and **Agenda**. Think of where they might be located on the map. Make that location the **Faction's** home base.
 5. Select a Lair or Ruin on the map. Follow steps 1-4 to make at least one **Faction** for that site. Repeat as desired.
-6. Create at least one alliance and at least one conflict between the **Factions**. Consider the region's history, the **Resources** of each **Faction**, who might want them, and what someone would do to _get_ them.
  
 #### Faction Types
 
@@ -353,7 +352,8 @@ Consider the following when determining the **Province** name:
 
 ## Conclusion
 Congratulations, your **Province** is complete! You can now "drill down" into various locations (starting with the **Heart**) and build out each **Detail** on your own favorite tables. Keep the following thoughts in mind as you go:
-- How might the interactions between the **Factions** interact with the landscape, its features, and one another? How will this change as the **Factions** succeed (or fail) at their goals? 
+- How might the interactions between the **Factions** interact with the landscape, its features, and one another? How will this change as the **Factions** succeed (or fail) at their goals?  
+- Which **Factions** may be allied, and which opposed? Keep in mind the region's history, the **Resources** of each **Faction**, who might want them, and what someone would do to _get_ them.
 - Consider the history of the region's original "discoverers", the locals they may have supplanted, and where both groups are today. 
 - When building out the next **Province**, keep in mind how it would have interacted historically with this **Province**, and what might happen between them in the future.
 
