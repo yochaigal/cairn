@@ -41,7 +41,7 @@ Established facts about the setting. Good questions to answer:
 5. Repeat step #2, orienting the triangle of dots in a different way than before. 
 6. Connect two of the new dots to _any_ path, but do not connect the final dot to anything.
 7. Create a new dot wherever paths cross, and wherever a new path ends. 
-8. Number the dots, starting from the **Heart** and expanding outwards.
+8. Number the dots, starting from the **Heart** and expanding outwards. The **Heart** is always **1**.
 
 > You can use other shapes (squares, rectangles, circles, etc) to create dots instead. Try varying the distance between dots for each successive **Province**. You can repeat this process for any adjacent **Provinces**, connecting them by road, river, or range.  
 
@@ -324,7 +324,7 @@ Starting with the **Heart**, name each **Detail** on the map based on its unique
 
 ### Faction Rules
 - By default, **Factions** operate independent of the player character's actions. If the PCs do nothing, the **Factions** should still act to achieve their aims.
-- Whenever a **Faction** is positioned to advance a goal in their **Agenda**, roll a **d10** on the [Faction Actions](#faction-actions) table. 
+- Whenever a **Faction** is positioned to advance a goal in their **Agenda**, roll a **d12** on the [Faction Actions](#faction-actions) table. 
 - If two **Factions** are _opposed_, the **Faction** _most at risk_ makes a WIL save, using the score of its highest-ranking **Seneschal**. 
   - On a success, the **Faction** most at risk rolls on the [Faction Actions](#faction-actions) table, and their opponent does not.
   - On a fail, the **Faction** most at risk _does not_ roll on the [Faction Actions](#faction-actions) table, but their opponent does.
