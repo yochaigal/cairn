@@ -223,3 +223,82 @@ The [**Proper Noun**] of (the) [**Noun**]
 | **7-8**   | **Opportunity**   | A new **goal** is added, but a **Resource** is gained.        |
 
 | **5**   | **Foreign**       | An array of outside interests, poking their nose in. Do they come bearing gifts, or blade?                               |
+
+
+### Adding Terrain
+1. Roll a d6 on the table below for any numbered dots below **5**. 
+2. Roll a d12 on the table below for any numbered dots between **6-9**. 
+3. Roll a d20 on the table below for any numbered dots **10** or higher. 
+4. Drawn or indicate the terrain for each dot on the map. 
+
+> Terrain modifiers are based on the [Terrain Difficulty](/wip/2e/wilderness-exploration#terrain-difficulty) rules. 
+
+|        |                                   |
+| ------ | :-------------------------------: |
+| **dx** |            **Terrain**            |
+| **1**  | **Plains, grasslands, farmlands** |
+| **2**  |    **Forests, jungle, swamp**     |
+| **3**  |     **River, flooded, oasis**     |
+| **4**  |   **Cliffs, beaches, caverns**    |
+| **5**  |   **Hills, canyons, mountains**   |
+| **6**  |    **Desert, wasteland, sea**     |
+| **7**  | **Plains, grasslands, farmlands** |
+| **8**  |    **Forests, jungle, swamp**     |
+| **9**  |   **Hills, canyons, mountains**   |
+| **10** |    **Forests, jungle, swamp**     |
+| **11** |   **Hills, canyons, mountains**   |
+| **12** |     **River, flooded, oasis**     |
+| **13** |   **Cliffs, beaches, caverns**    |
+| **14** |    **Desert, wasteland, sea**     |
+| **15** | **Plains, grasslands, farmlands** |
+| **16** |    **Forests, jungle, swamp**     |
+| **17** |   **Hills, canyons, mountains**   |
+| **18** |     **River, flooded, oasis**     |
+| **19** |   **Cliffs, beaches, caverns**    |
+| **20** |    **Desert, wasteland, sea**     |
+
+### Adding Terrain
+1. Roll on the [Heart Terrain](#hub-terrain) table to determine the **Heart's** terrain. Choose **one** terrain from the results. 
+2. Roll on the [Near Terrain](#near-terrain) table to determine the terrain for any dots _two_ hops or fewer from the **Heart**. Choose **one** terrain from the results for each.
+3. Roll on the [Far Terrain](#far-terrain) for any dots that are _three_ or more hops from the **Heart**, as well as those not connected to any path. Choose **one** terrain from the results for each.
+4. Drawn or indicate the terrain for each dot on the map.
+
+#### Heart Terrain
+
+|        |                                   |
+| ------ | :-------------------------------: |
+| **d6** |            **Terrain**            |
+| **1**  | **Plains, grasslands, farmlands** |
+| **2**  |    **Forests, jungle, swamp**     |
+| **3**  |     **River, flooded, oasis**     |
+| **4**  |   **Cliffs, beaches, caverns**    |
+| **5**  |   **Hills, canyons, mountains**   |
+| **6**  |    **Desert, wasteland, sea**     |
+
+#### Near Terrain
+
+|        |                                   |
+| ------ | :-------------------------------: |
+| **d8** |            **Terrain**            |
+| **1**  | **Plains, grasslands, farmlands** |
+| **2**  |    **Forests, jungle, swamp**     |
+| **3**  |    **Forests, jungle, swamp**     |
+| **4**  |   **Hills, canyons, mountains**   |
+| **5**  |   **Hills, canyons, mountains**   |
+| **6**  |     **River, flooded, oasis**     |
+| **7**  |   **Cliffs, beaches, caverns**    |
+| **8**  |    **Desert, wasteland, sea**     |
+
+#### Far Terrain
+
+|        |                                   |
+| ------ | :-------------------------------: |
+| **d8** |            **Terrain**            |
+| **1**  | **Plains, grasslands, farmlands** |
+| **2**  |    **Forests, jungle, swamp**     |
+| **3**  |   **Hills, canyons, mountains**   |
+| **4**  |   **Hills, canyons, mountains**   |
+| **5**  |     **River, flooded, oasis**     |
+| **6**  |   **Cliffs, beaches, caverns**    |
+| **7**  |    **Desert, wasteland, sea**     |
+| **8**  |    **Desert, wasteland, sea**     |
