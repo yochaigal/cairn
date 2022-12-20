@@ -46,7 +46,7 @@ Established facts about the setting. Good questions to answer:
 > You can use other shapes (squares, rectangles, circles, etc) to create dots instead. Try varying the distance between dots for each successive **Province**. You can repeat this process for any adjacent **Provinces**, connecting them by road, river, or range.  
 
 ### Adding Terrain
-1. Roll on the [Heart Terrain](#hub-terrain) table to determine the **Heart**'s terrain. Choose **one** terrain from the results. 
+1. Roll on the [Heart Terrain](#hub-terrain) table to determine the **Heart's** terrain. Choose **one** terrain from the results. 
 2. Roll on the [Near Terrain](#near-terrain) table to determine the terrain for any dots _two_ hops or fewer from the **Heart**. Choose **one** terrain from the results for each.
 3. Roll on the [Far Terrain](#far-terrain) for any dots that are _three_ or more hops from the **Heart**, as well as those not connected to any path. Choose **one** terrain from the results for each.
 4. Drawn or indicate the terrain for each dot on the map.
