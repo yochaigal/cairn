@@ -46,12 +46,12 @@ Established facts about the setting. Good questions to answer:
 > You can use other shapes (squares, rectangles, circles, etc) to create dots instead. Try varying the distance between dots for each successive **Province**. You can repeat this process for any adjacent **Provinces**, connecting them by road, river, or range.  
 
 ### Adding Terrain
-1. Roll on the [Hub Terrain](#hub-terrain) table to determine the **Heart**'s terrain. Choose **one** terrain from the results. 
+1. Roll on the [Heart Terrain](#hub-terrain) table to determine the **Heart**'s terrain. Choose **one** terrain from the results. 
 2. Roll on the [Near Terrain](#near-terrain) table to determine the terrain for any dots _two_ hops or fewer from the **Heart**. Choose **one** terrain from the results for each.
 3. Roll on the [Far Terrain](#far-terrain) for any dots that are _three_ or more hops from the **Heart**, as well as those not connected to any path. Choose **one** terrain from the results for each.
 4. Drawn or indicate the terrain for each dot on the map.
 
-#### Hub Terrain
+#### Heart Terrain
 
 |        |                                   |
 | ------ | :-------------------------------: |
@@ -251,7 +251,6 @@ Starting with the **Heart**, name each **Detail** on the map based on its unique
 3. Roll on the the [**Faction Agendas**](#faction-agendas) table and consider what their specific **Agenda** may be given your current information. Establish a series of goals (3-4) that must be accomplished for this **Agenda** to be accomplished.
 4. Roll on the [Faction Obstacles](#faction-obstacles) table. Use the result to consider what might prevent the **Agenda** from succeeding.
 5. Create at least one **Seneschal**, inspired by the **Faction** type, **Resources**, and **Agenda**, and **Obstacle**. Think of where they might be located on the map. Make that location the **Faction's** home base.
-
  
 #### Faction Types
 
