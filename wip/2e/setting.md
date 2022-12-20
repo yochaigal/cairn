@@ -46,50 +46,23 @@ Established facts about the setting. Good questions to answer:
 > You can use other shapes (squares, rectangles, circles, etc) to create dots instead. Try varying the distance between dots for each successive **Province**. You can repeat this process for any adjacent **Provinces**, connecting them by road, river, or range.  
 
 ### Adding Terrain
-1. Roll on the [Heart Terrain](#hub-terrain) table to determine the **Heart's** terrain. Choose **one** terrain from the results. 
-2. Roll on the [Near Terrain](#near-terrain) table to determine the terrain for any dots _two_ hops or fewer from the **Heart**. Choose **one** terrain from the results for each.
-3. Roll on the [Far Terrain](#far-terrain) for any dots that are _three_ or more hops from the **Heart**, as well as those not connected to any path. Choose **one** terrain from the results for each.
-4. Drawn or indicate the terrain for each dot on the map.
+1. Roll on the [Terrain Table](#terrain-table) below for each numbered dot, starting with the **Heart**. 
+2. Terrain modifiers are based on the [Terrain Difficulty](/wip/2e/wilderness-exploration#terrain-difficulty) rules. **E** = Easy, **T** = Tough, **P** = Perilous.
+3. Drawn or indicate the terrain for each dot on the map.
 
-#### Heart Terrain
+#### Terrain Table
 
-|        |                                   |
-| ------ | :-------------------------------: |
-| **d6** |            **Terrain**            |
-| **1**  | **Plains, grasslands, farmlands** |
-| **2**  |    **Forests, jungle, swamp**     |
-| **3**  |     **River, flooded, oasis**     |
-| **4**  |   **Cliffs, beaches, caverns**    |
-| **5**  |   **Hills, canyons, mountains**   |
-| **6**  |    **Desert, wasteland, sea**     |
-
-#### Near Terrain
-
-|        |                                   |
-| ------ | :-------------------------------: |
-| **d8** |            **Terrain**            |
-| **1**  | **Plains, grasslands, farmlands** |
-| **2**  |    **Forests, jungle, swamp**     |
-| **3**  |    **Forests, jungle, swamp**     |
-| **4**  |   **Hills, canyons, mountains**   |
-| **5**  |   **Hills, canyons, mountains**   |
-| **6**  |     **River, flooded, oasis**     |
-| **7**  |   **Cliffs, beaches, caverns**    |
-| **8**  |    **Desert, wasteland, sea**     |
-
-#### Far Terrain
-
-|        |                                   |
-| ------ | :-------------------------------: |
-| **d8** |            **Terrain**            |
-| **1**  | **Plains, grasslands, farmlands** |
-| **2**  |    **Forests, jungle, swamp**     |
-| **3**  |   **Hills, canyons, mountains**   |
-| **4**  |   **Hills, canyons, mountains**   |
-| **5**  |     **River, flooded, oasis**     |
-| **6**  |   **Cliffs, beaches, caverns**    |
-| **7**  |    **Desert, wasteland, sea**     |
-| **8**  |    **Desert, wasteland, sea**     |
+|        |                                                       |
+| ------ | ----------------------------------------------------- |
+| **d8** | **Terrain**                                           |
+| **1**  | Plains **(E)**, grasslands **(E)**, farmlands **(E)** |
+| **2**  | Oasis **(E)**, river **(T)**, sea **(E)**             |
+| **3**  | Forest **(T)**, bog  **(T)**, oasis **(E)**           |
+| **4**  | Cliffs **(T)**, beaches **(E)**, caverns **(P)**      |
+| **5**  | Hills **(T)**, canyons **(T)**, mountains **(P)**     |
+| **6**  | Beaches  **(E)**, wasteland **(P)**, jungle **(P)**   |
+| **7**  | Hollows  **(T)**, thickets **(T)**, lakes  **(T)**    |
+| **8**  | Plateau **(E)**, desert **(P)**, swamp **(P)**        |
 
 ## Details
 - Each dot on the map is one **Detail**. **Details** act as [**Points**](/wip/2e/wilderness-exploration/#points) according to the [**Wilderness Exploration**](/wip/2e/wilderness-exploration) rules. Keep in mind how many **Watches** it might take to travel to each **Detail**. 
