@@ -107,11 +107,12 @@ Established facts about the setting. Good questions to answer:
 - Assume there are small villages scattered around larger settlements. These do not need to be represented by dots or **Details**!   
 
 ### Adding Details
-1. Roll on the [Settlments](#settlements) and [Settlement Features](#settlement-features) tables to generate the **Heart** of the **Province**.
-2. Generate features for each remaining dot by first rolling on the the [Detail Types](#detail-types) table, then on the associated table.
+1. Roll on the [Settlements](#settlements) and [Settlement Features](#settlement-features) tables to generate the **Heart** of the **Province**.
+2. Generate features for each remaining dot _except_ the **Frontier** by first rolling on the the [Detail Types](#detail-types) table, then on the associated table.
 3. For any additional Settlements rolled, roll on the [Settlement Features](#settlement-features) table as well.
+4. Generate features for the **Frontier** by rolling _only_ the [Special](#special) table.
 
-> If some of the results below seem incongruous, that's OK! Turn it into a question: _Why_ is there hazard terrain so close to a settlement? Perhaps there were mines there once, long abandoned. Rumors as to their true treasure - and dangers - abound. That said, don't be afraid to choose a more appropriate result if you're having a hard time making it work!
+> If some of the results below seem incongruous, that's OK! Turn it into a question: _Why_ is there **hazardous** terrain so close to a settlement? Perhaps there were mines there once, long abandoned. Rumors as to their true treasure - and dangers - abound! That said, don't be afraid to choose a more appropriate result if you're having a hard time making it work!
 
 #### Detail Types
 
