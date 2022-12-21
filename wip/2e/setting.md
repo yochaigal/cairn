@@ -55,7 +55,6 @@ Established facts about the setting. Good questions to answer:
 
 #### Terrain Table
 
-
 |        |                                                       |
 | ------ | ----------------------------------------------------- |
 | **d8** | **Terrain**                                           |
@@ -108,15 +107,15 @@ Established facts about the setting. Good questions to answer:
 
 ##### Settlement Features
 
-|        |                               |
-| ------ | :---------------------------: |
-| **d6** |    **Settlement Features**    |
-| **1**  |     **Highly defensible**     |
-| **2**  | **Rich in natural resources** |
-| **3**  |       **Overpopulated**       |
-| **4**  |    **Seat of government**     |
-| **5**  |    **Factionally divided**    |
-| **6**  | **Lacking natural resources** |
+|        |                              |
+| ------ | :--------------------------: |
+| **d6** |   **Settlement Features**    |
+| **1**  |    **Highly defensible**     |
+| **2**  | **Rich in natural deposits** |
+| **3**  |      **Overpopulated**       |
+| **4**  |    **Seat of government**    |
+| **5**  |   **Factionally divided**    |
+| **6**  |     **Lacking supplies**     |
 
 #### Ruins
 
@@ -337,4 +336,4 @@ Consider which **Factions** may be allied, and which opposed? Keep in mind the r
 - Consider the history of the region's original "discoverers", the locals they may have supplanted, and where both groups are today. 
 - When building out the next **Province**, keep in mind how it would have interacted historically with this **Province**, and what might happen between them in the future.
 
-> If you find anything **amiss** (there aren't enough towns to feed a city so large!) or **wrong** (why is there a frozen graveyard in this hot wasteland?) feel free to change it, or add your own **Details**. Remember, it's _your_ setting. 
+> If you find anything _amiss_ or **wrong** feel free to change it, or add your own **Details**. Remember, it's _your_ setting. 
