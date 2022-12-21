@@ -43,7 +43,10 @@ Established facts about the setting. Good questions to answer:
 7. Create a new dot wherever paths cross, and wherever a new path ends. 
 8. Number the dots, starting from the **Heart** and expanding outwards. The **Heart** is always **1**.
 
-> You can use other shapes (squares, rectangles, circles, etc) to create dots instead. Try varying the distance between dots for each successive **Province**. You can repeat this process for any adjacent **Provinces**, connecting them by road, river, or range.  
+#### Tips
+- You can increease the **Province Scale** by doubling the triangle in step **5**, then adding dots halfway between two points on any line (roads, trails, rivers, etc).
+- You can use other shapes (squares, rectangles, circles, etc) to create dots instead. You can even mix & match!
+- You can repeat this process for any adjacent **Provinces**, connecting them by road, river, or range. 
 
 ### Adding Terrain
 1. Roll on the [Terrain Table](#terrain-table) below for each numbered dot, starting with the **Heart**. 
