@@ -15,7 +15,7 @@ search_exclude: true
 - If the characters split up, each group is treated as an independent entity.
 
 > ### Weather
-> Each day, the **Warden** rolls on the [**Weather**](#weather) table for the appropriate season.
+> Each day, the **Warden** rolls on the [**Weather**](#weather-difficulty) table for the appropriate season.
 
 ## Points
 - Potential destinations on a map are called **points**. 
@@ -63,24 +63,24 @@ search_exclude: true
 
 ### Terrain Difficulty
 
-|                               |                |                     |                          |                                                               |
-| ----------------------------- | -------------- | ------------------- | ------------------------ | ------------------------------------------------------------- |
-| **Terrain**                   | **Travel Difficulty** | **Travel Duration** | **Odds of Getting Lost** | **Examples**                     |
-| **Roads, grasslands, plains** | **Easy**       | _Normal_            | None      | _Smooth roads, safe areas for rest, fellow travellers_     |
-| **Forests, mountains, hills** | **Tough**      | _Doubled_           | 2-in-6    | _Wild animals, flooding, broken equipment, falling rocks, unsafe shelters, hunter's traps_    |
-| **Deserts, jungle, swamp**    | **Perilous**   | _Tripled_           | 3-in-6    | _Quicksand, sucking mud, choking vines, unclean water, poisonous plants and animals, poor navigation_ |
+|                               |                       |                     |                          |                                                                                                       |
+| ----------------------------- | --------------------- | ------------------- | ------------------------ | ----------------------------------------------------------------------------------------------------- |
+| **Terrain**                   | **Travel Difficulty** | **Travel Duration** | **Odds of Getting Lost** | **Examples**                                                                                          |
+| **Roads, grasslands, plains** | **Easy**              | _Normal_            | None                     | _Smooth roads, safe areas for rest, fellow travellers_                                                |
+| **Forests, mountains, hills** | **Tough**             | _Doubled_           | 2-in-6                   | _Wild animals, flooding, broken equipment, falling rocks, unsafe shelters, hunter's traps_            |
+| **Deserts, jungle, swamp**    | **Perilous**          | _Tripled_           | 3-in-6                   | _Quicksand, sucking mud, choking vines, unclean water, poisonous plants and animals, poor navigation_ |
 
 ### Weather Difficulty
 
-|                  |                                                              |                                                  |
-| :--------------: | ------------------------------------------------------------ | ------------------------------------------------ |
-|   **Weather**    | **Effect**                                                   | **Examples**                                     |
-|     **Nice**     | Favorable conditions for travel. Bedroll or shelter required. | _Clear skies, sunny_                      |
-|     **Fair**     | Favorable conditions for travel. Bedroll or shelter required. | _Overcast, breezy_                              |
-|  **Unpleasant**  | Gain one **Fatigue** _or_ add one **watch** to the journey.  | _Gusting winds, rain showers, sweltering heat, chill air_ |
-|  **Inclement**   | Gain one **Fatigue** _or_ add one **watch** to the journey. **Difficulty** increases one step. | _Thunderstorms & lightning, rain, muddy ground_      |
-|   **Extreme**    | Gain one **Fatigue** _and_ add one **watch** to the journey. Chance of getting lost increases by one step. **Difficulty** increases one step. | _Blizzards, freezing winds, flooding_            |
-| **Catastrophic** | Most parties cannot travel under these conditions.     | _Tornados, tidal waves, hurricane, etc._ |
+|                  |                                                                                                                           |                                                           |
+| :--------------: | ------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
+|   **Weather**    | **Effect**                                                                                                                | **Examples**                                              |
+|     **Nice**     | Favorable conditions for travel. Bedroll or shelter required.                                                             | _Clear skies, sunny_                                      |
+|     **Fair**     | Favorable conditions for travel. Bedroll or shelter required.                                                             | _Overcast, breezy_                                        |
+|  **Unpleasant**  | Gain one **Fatigue** _or_ add one **watch** to the journey.                                                               | _Gusting winds, rain showers, sweltering heat, chill air_ |
+|  **Inclement**   | Gain one **Fatigue** _or_ add one **watch** to the journey. **Difficulty** increases one step.                            | _Thunderstorms & lightning, rain, muddy ground_           |
+|   **Extreme**    | Gain one **Fatigue** _and_ add one **watch** to the journey. **Difficulty** chance of getting lost increases by one step. | _Blizzards, freezing winds, flooding_                     |
+| **Catastrophic** | Most parties cannot travel under these conditions.                                                                        | _Tornados, tidal waves, hurricane, etc._                  |
 
 ## Wilderness Actions
 ### Travel
@@ -112,26 +112,26 @@ search_exclude: true
 ### Weather
 If the "**Extreme**" weather result is rolled twice in a row, the weather turns to "**Catastrophic**". A summer squall becomes a hurricane, a fall storm floods the valleys, etc.
 
-|        |              |              |              |             |
-| :----: | :----------: | :----------: | :----------: | :----------:|
-| **d6** |  **Spring**  |  **Summer**  |   **Fall**   |  **Winter** |
-| **1**  |     Nice     |     Nice     |     Fair     |  Fair       |
-| **2**  |     Fair     |     Nice     |     Fair     |  Unpleasant |
-| **3**  |     Fair     |     Fair     |  Unpleasant  |  Inclement  |
-| **4**  |  Unpleasant  |  Unpleasant  |  Inclement   |  Inclement  |
-| **5**  |  Inclement   |  Inclement   |  Inclement   |  Extreme    |
-| **6**  |  Extreme     |  Extreme     |  Extreme     |  Extreme    |
+|        |            |            |            |            |
+| :----: | :--------: | :--------: | :--------: | :--------: |
+| **d6** | **Spring** | **Summer** |  **Fall**  | **Winter** |
+| **1**  |    Nice    |    Nice    |    Fair    |    Fair    |
+| **2**  |    Fair    |    Nice    |    Fair    | Unpleasant |
+| **3**  |    Fair    |    Fair    | Unpleasant | Inclement  |
+| **4**  | Unpleasant | Unpleasant | Inclement  | Inclement  |
+| **5**  | Inclement  | Inclement  | Inclement  |  Extreme   |
+| **6**  |  Extreme   |  Extreme   |  Extreme   |  Extreme   |
 
 ### Wilderness Events
 
-|                         |                  |             |
-| ----------------------- | ---------------- | ----------- |
-|  **1** |  **Encounter** | Roll on an encounter table for that terrain type or location. Don’t forget to roll for NPC [reactions](/cairn-srd/#reactions) if applicable. |
-|  **2** | **Sign**  | The party discover a clue, spoor, or indication of a nearby encounter, locality, hidden feature, or information about a nearby area.   |
-|  **3** | **Environment**  | A shift in weather or terrain.   |
-|  **4** | **Loss**  | The party is faced with a choice that costs them a resource (rations, tools, etc), time, or effort. |
-|  **5** | **Exhaustion** | The party encounter a barrier, forcing effort, care or delays. This might mean spending extra time (and an additional **Wilderness Action**) or adding **Fatigue** to the PC's inventory to represent their difficulties.
-|  **6** | **Discovery** | The party find food, treasure, or other useful resources. The **Warden** can instead choose to reveal the primary feature of the area.  |
+|       |                 |                                                                                                                                                                                                                           |
+| ----- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | **Encounter**   | Roll on an encounter table for that terrain type or location. Don’t forget to roll for NPC [reactions](/cairn-srd/#reactions) if applicable.                                                                              |
+| **2** | **Sign**        | The party discover a clue, spoor, or indication of a nearby encounter, locality, hidden feature, or information about a nearby area.                                                                                      |
+| **3** | **Environment** | A shift in weather or terrain.                                                                                                                                                                                            |
+| **4** | **Loss**        | The party is faced with a choice that costs them a resource (rations, tools, etc), time, or effort.                                                                                                                       |
+| **5** | **Exhaustion**  | The party encounter a barrier, forcing effort, care or delays. This might mean spending extra time (and an additional **Wilderness Action**) or adding **Fatigue** to the PC's inventory to represent their difficulties. |
+| **6** | **Discovery**   | The party find food, treasure, or other useful resources. The **Warden** can instead choose to reveal the primary feature of the area.                                                                                    |
 
 ## Example
 In this example we'll be using a map made with [Watabou's](https://watabou.itch.io/) terrific [Perilous Shores](https://watabou.itch.io/perilous-shores) generator.

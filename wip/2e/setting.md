@@ -39,9 +39,9 @@ Established facts about the setting. Good questions to answer:
 3. Connect two of the dots to the **Heart**, using solid lines to represent roads, dotted lines for trails, double solid lines for rivers, and double dotted lines for tunnels. 
 4. Connect the remaining dot to one of these paths, crossing it and continuing for a distance. 
 5. Repeat step #2, orienting the triangle of dots in a different way than before. 
-6. Connect two of the new dots to _any_ path, but do not connect the final dot to anything.
+6. Connect two of the new dots to _any_ path, but do not connect the final dot to anything! This is the **Frontier**.
 7. Create a new dot wherever paths cross, and wherever a new path ends. 
-8. Number the dots, starting from the **Heart** and expanding outwards. The **Heart** is always **1**.
+8. Number the dots, starting from the **Heart** and expanding outwards. The **Heart** is always **1**, and the **Frontier** is always the terminal number.
 
 #### Tips
 - You can increease the **Province Scale** by doubling the triangle in step **5**, then adding dots halfway between two points on any line (roads, trails, rivers, etc).
@@ -67,6 +67,40 @@ Established facts about the setting. Good questions to answer:
 | **7**  | Forest (**T**), thickets (**T**), jungle (**P**)      |
 | **8**  | Tundra (**T**), desert **(P)**, caverns **(P)**       |
 
+#### Weather
+- Roll on the [Seasonal Weather](#seasonal-weather) table for the **Heart**. Repeat for each season.
+- Roll on the [Weird Weather Effects](#weird-weather-effects) table _once_ for the **Frontier**. 
+
+#### Seasonal Weather
+
+|        |                  |                      |                   |                      |
+| ------ | ---------------- | -------------------- | ----------------- | -------------------- |
+| **d6** | **Spring**       | **Summer**           | **Fall**          | **Winter**           |
+| **1**  | Mild and sunny   | Hot and sunny        | Nice and breezy   | Mild and clear       |
+| **2**  | Nice and drizzly | Nice and cloudy      | Mild and windy    | Cool and windy       |
+| **3**  | Cool and breezy  | Mild and rainy       | Cool and foggy    | Cold and raining     |
+| **4**  | Mild and cloudy  | Cool and stormy      | Cold and cloudy   | Frigid and stormy    |
+| **5**  | Cold and windy   | Hot and humid        | Cool and rainy    | Freezing and snowing |
+| **6**  | Cold and rainy   | Sweltering and humid | Chilly and stormy | Freezing and hailing |
+
+#### Weird Weather Effects
+
+|         |                                                                                                                    |
+| ------- | ------------------------------------------------------------------------------------------------------------------ |
+| **d12** |                                                                                                                    |
+| **1**   | The clouds are shaped like faces. They appear to be laughing.                                                      |
+| **2**   | Roaming, coughing, dust clouds that smell of cinnamon.                                                             |
+| **3**   | Days are erratic. The Sun goes backwards for a time, then jumps forward rapidly as night quickly falls.            |
+| **4**   | Lakes and streams dry up in minutes, filling storm clouds that drench the landscape.                               |
+| **5**   | Rainbows lack most of their colors, and occasionally flicker. Raindrops fall in various colors. Do not taste them. |
+| **6**   | Distant chimes instead of thunder. A smokey, sweet wind stems from the **West**, with no apparent origin.          |
+| **7**   | Fog there fills the belly (no need for rations). Tomorrow, vomiting.                                               |
+| **8**   | The winds carry whispers; some sawy with hints of the future.                                                      |
+| **9**   | Shadows disappear at random. Animals do not want to go there.                                                      |
+| **10**  | Flashes of movement in the periphery. They always amount to nothing. Travelers return without their memories.      |
+| **11**  | The air is thicker than usual, and breathing is difficult. Drinking water seems to help.                           |
+| **12**  | Rains of small aquatic creatures (tadpoles, frogs, small fish). No one knows where they come from                  |
+
 ## Details
 - Each dot on the map is one **Detail**. **Details** act as [**Points**](/wip/2e/wilderness-exploration/#points) according to the [**Wilderness Exploration**](/wip/2e/wilderness-exploration) rules. Keep in mind how many **Watches** it might take to travel to each **Detail**. 
 - The **Heart** of a **Province** is always a settlement. It isn't necessarily the largest or most important place people live, but it does always have a significant history. 
@@ -82,120 +116,120 @@ Established facts about the setting. Good questions to answer:
 #### Detail Types
 
 |        |                 |
-| ------ | :-------------: |
+| ------ | --------------- |
 | **d6** | **Detail Type** |
 | **1**  | **Settlement**  |
-| **2**  |    **Ruins**    |
-| **3**  |    **Lair**     |
-| **4**  |   **Hazard**    |
-| **5**  |  **Landmark**   |
-| **6**  |   **Special**   |
+| **2**  | **Ruins**       |
+| **3**  | **Lair**        |
+| **4**  | **Hazard**      |
+| **5**  | **Landmark**    |
+| **6**  | **Special**     |
 
 #### Settlements
 
 |        |                |
-| ------ | :------------: |
+| ------ | -------------- |
 | **d6** | **Settlement** |
-| **1**  |    **Town**    |
-| **2**  |    **City**    |
-| **3**  |  **Outpost**   |
+| **1**  | **Town**       |
+| **2**  | **City**       |
+| **3**  | **Outpost**    |
 | **4**  | **Stronghold** |
 | **5**  | **Sanctuary**  |
-| **6**  |   **Prison**   |
+| **6**  | **Prison**     |
 
 > Roll on the [Settlement Features](#settlement-features) table below.
 
 ##### Settlement Features
 
 |        |                              |
-| ------ | :--------------------------: |
-| **d6** |   **Settlement Features**    |
-| **1**  |    **Highly defensible**     |
+| ------ | ---------------------------- |
+| **d6** | **Settlement Features**      |
+| **1**  | **Highly defensible**        |
 | **2**  | **Rich in natural deposits** |
-| **3**  |      **Overpopulated**       |
-| **4**  |    **Seat of government**    |
-| **5**  |   **Factionally divided**    |
-| **6**  |     **Lacking supplies**     |
+| **3**  | **Overpopulated**            |
+| **4**  | **Seat of government**       |
+| **5**  | **Factionally divided**      |
+| **6**  | **Lacking supplies**         |
 
 #### Ruins
 
 |        |                           |
-| ------ | :-----------------------: |
-| **d6** |         **Ruins**         |
-| **1**  |    **Forsaken temple**    |
-| **2**  |    **Ransacked tomb**     |
+| ------ | ------------------------- |
+| **d6** | **Ruins**                 |
+| **1**  | **Forsaken temple**       |
+| **2**  | **Ransacked tomb**        |
 | **3**  | **Abandonded settlement** |
-| **4**  |     **Sunken villa**      |
-| **5**  |  **Dilapidated cottage**  |
-| **6**  |    **Ancient prison**     |
+| **4**  | **Sunken villa**          |
+| **5**  | **Dilapidated cottage**   |
+| **6**  | **Ancient prison**        |
 
 #### Lairs
 
 |        |                      |
-| ------ | :------------------: |
-| **d6** |       **Lair**       |
+| ------ | -------------------- |
+| **d6** | **Lair**             |
 | **1**  | **Faction hideout**  |
-| **2**  |  **Blighted cave**   |
-| **3**  |  **Sunken thicket**  |
-| **4**  |  **Hidden burrow**   |
-| **5**  |  **Colossal hive**   |
+| **2**  | **Blighted cave**    |
+| **3**  | **Sunken thicket**   |
+| **4**  | **Hidden burrow**    |
+| **5**  | **Colossal hive**    |
 | **6**  | **Abandoned bridge** |
 
 #### Hazards
 
 |        |                       |
-| ------ | :-------------------: |
-| **d6** |      **Hazard**       |
-| **1**  |  **Boiling liquid**   |
-| **2**  |    **Weak ground**    |
-| **3**  |   **Permanent fog**   |
+| ------ | --------------------- |
+| **d6** | **Hazard**            |
+| **1**  | **Boiling liquid**    |
+| **2**  | **Weak ground**       |
+| **3**  | **Permanent fog**     |
 | **4**  | **Poisonous foliage** |
 | **5**  | **Perilous caverns**  |
-| **6**  |    **Toxic mines**    |
+| **6**  | **Toxic mines**       |
 
 #### Landmarks
 
 |         |                         |
-| ------- | :---------------------: |
-| **d12** |      **Landmark**       |
+| ------- | ----------------------- |
+| **d12** | **Landmark**            |
 | **1**   | **Mysterious megalith** |
-| **2**   |   **Glimmering cave**   |
-| **3**   |    **Ancient tree**     |
-| **4**   |   **Misty waterfall**   |
-| **5**   |  **Oddly-shaped lake**  |
+| **2**   | **Glimmering cave**     |
+| **3**   | **Ancient tree**        |
+| **4**   | **Misty waterfall**     |
+| **5**   | **Oddly-shaped lake**   |
 | **6**   | **Fungus-covered well** |
-| **7**   |     **Mass grave**      |
-| **8**   |   **Giant skeleton**    |
-| **9**   |     **Hot springs**     |
+| **7**   | **Mass grave**          |
+| **8**   | **Giant skeleton**      |
+| **9**   | **Hot springs**         |
 | **10**  | **Enormous footprint**  |
-| **11**  |  **Endless sinkholes**  |
-| **12**  |   **Petrified trees**   |
+| **11**  | **Endless sinkholes**   |
+| **12**  | **Petrified trees**     |
 
 #### Special
 
 |         |                            |
-| ------- | :------------------------: |
-| **d12** |        **Special**         |
-| **1**   |    **Ancient library**     |
-| **2**   |   **Ever-distant tower**   |
-| **3**   |       **Trash heap**       |
-| **4**   |   **Floating construct**   |
-| **5**   |    **Unusual gravity**     |
-| **6**   |     **Singing stones**     |
-| **7**   |    **Trees that move**     |
-| **8**   |      **Buried giant**      |
-| **9**   |  **Pristine, empty city**  |
+| ------- | -------------------------- |
+| **d12** | **Special**                |
+| **1**   | **Ancient library**        |
+| **2**   | **Ever-distant tower**     |
+| **3**   | **Trash heap**             |
+| **4**   | **Floating construct**     |
+| **5**   | **Unusual gravity**        |
+| **6**   | **Singing stones**         |
+| **7**   | **Trees that move**        |
+| **8**   | **Buried giant**           |
+| **9**   | **Pristine, empty city**   |
 | **10**  | **Home of the folk witch** |
-| **11**  |    **Cult ritual site**    |
-| **12**  |   **Bloody battlefield**   |
-| **13**  |  **Phasal trading post**   |
-| **14**  |    **Frozen graveyard**    |
-| **15**  |  **Primitive shipwreack**  |
-| **16**  |     **Illusory city**      |
-| **17**  |     **Purple geysers**     |
-| **18**  |   **Carnivorous plants**   |
-| **19**  |      **Misty crater**      |
-| **20**  |    **Floating island**     |
+| **11**  | **Cult ritual site**       |
+| **12**  | **Bloody battlefield**     |
+| **13**  | **Phasal trading post**    |
+| **14**  | **Frozen graveyard**       |
+| **15**  | **Primitive shipwreack**   |
+| **16**  | **Illusory city**          |
+| **17**  | **Purple geysers**         |
+| **18**  | **Carnivorous plants**     |
+| **19**  | **Misty crater**           |
+| **20**  | **Floating island**        |
 
 ### Detail Names
 Starting with the **Heart**, name each **Detail** on the map based on its unique terrain, feature, or history. 
@@ -249,20 +283,20 @@ Starting with the **Heart**, name each **Detail** on the map based on its unique
 #### Faction Resources
 
 |         |                   |                                                                              |                                    |
-| ------- | ----------------- | ---------------------------------------------------------------------------- | :--------------------------------: |
-| **d12** | **Resource Type** | **Example Resources**                                                        |       **Example Seneschals**       |
-| **1**   | **Anonymity**     | A secret society shrouded in mystery, its members' identities unknown.       |   Monks, politicians, demi-gods    |
-| **2**   | **Apparatus**     | A powerful Relic, artifact, or tool.                                         |   Scholars, philosophers, sages    |
-| **3**   | **Fealty**        | Enjoys the loyalty of a large or important bloc of people.                   |     Lords, bannermen, farmers      |
-| **4**   | **Force**         | Employs brawn as its voice, and brute force as the cudgel.                   |     Bullies, toughs, flatfoots     |
-| **5**   | **Information**   | Keeps tabs on friends and enemies alike via espionage and arcane privileges. |     Spies, informants, mystics     |
-| **6**   | **Magic**         | Relies on the arcane arts to carry out its agenda.                           |    Wizards, spellswords, liches    |
-| **7**   | **Population**    | Boasts a large number of rank and file members.                              |      Gangs, urchins, peddlers      |
+| ------- | ----------------- | ---------------------------------------------------------------------------- | ---------------------------------- |
+| **d12** | **Resource Type** | **Example Resources**                                                        | **Example Seneschals**             |
+| **1**   | **Anonymity**     | A secret society shrouded in mystery, its members' identities unknown.       | Monks, politicians, demi-gods      |
+| **2**   | **Apparatus**     | A powerful Relic, artifact, or tool.                                         | Scholars, philosophers, sages      |
+| **3**   | **Fealty**        | Enjoys the loyalty of a large or important bloc of people.                   | Lords, bannermen, farmers          |
+| **4**   | **Force**         | Employs brawn as its voice, and brute force as the cudgel.                   | Bullies, toughs, flatfoots         |
+| **5**   | **Information**   | Keeps tabs on friends and enemies alike via espionage and arcane privileges. | Spies, informants, mystics         |
+| **6**   | **Magic**         | Relies on the arcane arts to carry out its agenda.                           | Wizards, spellswords, liches       |
+| **7**   | **Population**    | Boasts a large number of rank and file members.                              | Gangs, urchins, peddlers           |
 | **8**   | **Position**      | Relies on a unique geographic or political immunity.                         | Outlanders, criminals, politicians |
-| **9**   | **Property**      | Keeps sway over a local resource, item, or source of power.                  |     Workers, thugs, academics      |
-| **10**  | **Renown**        | Part of a de-facto regime, respected or feared.                              |    Nobles, merchants, generals     |
-| **11**  | **Subterfuge**    | Moves unseen, achieving its goals through a cloak-and-dagger approach.       |   Assassins, tricksters, thieves   |
-| **12**  | **Wealth**        | Affluent, using its riches to extend their influence and protect themselves. |   Soldiers, officials, merchants   |
+| **9**   | **Property**      | Keeps sway over a local resource, item, or source of power.                  | Workers, thugs, academics          |
+| **10**  | **Renown**        | Part of a de-facto regime, respected or feared.                              | Nobles, merchants, generals        |
+| **11**  | **Subterfuge**    | Moves unseen, achieving its goals through a cloak-and-dagger approach.       | Assassins, tricksters, thieves     |
+| **12**  | **Wealth**        | Affluent, using its riches to extend their influence and protect themselves. | Soldiers, officials, merchants     |
 
 #### Faction Agendas
 
