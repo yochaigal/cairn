@@ -302,3 +302,31 @@ The [**Proper Noun**] of (the) [**Noun**]
 | **6**  |   **Cliffs, beaches, caverns**    |
 | **7**  |    **Desert, wasteland, sea**     |
 | **8**  |    **Desert, wasteland, sea**     |
+
+
+
+
+beaches **(E)**
+bogs  **(T)**
+canyons **(T)**
+caverns **(P)**
+cliffs **(P)**
+desert **(P)**
+farmlands **(E)**
+forest **(T)**
+grasslands **(E)**
+hills **(T)**
+hollows **(T)**
+jungle **(P)**
+lakes  **(T)**
+mountains **(P)**
+oasis **(E)**
+plains **(E)**
+plateau **(E)**
+river **(T)**
+sea **(E)**
+swamp **(P)**
+thickets **(T)**
+tundra **(P)**
+valley **(E)**
+wasteland **(T)**

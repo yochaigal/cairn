@@ -52,17 +52,18 @@ Established facts about the setting. Good questions to answer:
 
 #### Terrain Table
 
+
 |        |                                                       |
 | ------ | ----------------------------------------------------- |
 | **d8** | **Terrain**                                           |
 | **1**  | Plains **(E)**, grasslands **(E)**, farmlands **(E)** |
-| **2**  | Oasis **(E)**, river **(T)**, sea **(E)**             |
-| **3**  | Forest **(T)**, bog  **(T)**, swamp **(P)**           |
-| **4**  | Cliffs **(T)**, beaches **(E)**, caverns **(P)**      |
-| **5**  | Hills **(T)**, canyons **(T)**, mountains **(P)**     |
-| **6**  | Beaches  **(E)**, wasteland **(P)**, jungle **(P)**   |
-| **7**  | Hollows  **(T)**, thickets **(T)**, lakes  **(T)**    |
-| **8**  | Plateau **(E)**, desert **(P)**, valley **(P)**       |
+| **2**  | Oasis **(E)**, lakes **(T)**, sea **(T)**             |
+| **3**  | River **(T)**, bog **(T)**, swamp **(P)**             |
+| **4**  | Beaches **(E)**, canyons **(E)**, cliffs **(T)**      |
+| **5**  | Valley **(E)**, hills **(T)**, mountains **(P)**      |
+| **6**  | Plateau **(E)**, hollows  **(T)**, wasteland **(P)**  |
+| **7**  | Forest (**T**), thickets (**T**), jungle (**P**)      |
+| **8**  | Tundra (**T**), desert **(P)**, caverns **(P)**       |
 
 ## Details
 - Each dot on the map is one **Detail**. **Details** act as [**Points**](/wip/2e/wilderness-exploration/#points) according to the [**Wilderness Exploration**](/wip/2e/wilderness-exploration) rules. Keep in mind how many **Watches** it might take to travel to each **Detail**. 
