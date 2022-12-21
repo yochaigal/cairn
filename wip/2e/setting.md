@@ -47,7 +47,7 @@ Established facts about the setting. Good questions to answer:
 
 ### Adding Terrain
 1. Roll on the [Terrain Table](#terrain-table) below for each numbered dot, starting with the **Heart**. 
-2. Terrain modifiers are based on the [Terrain Difficulty](/wip/2e/wilderness-exploration#terrain-difficulty) rules. **E** = Easy, **T** = Tough, **P** = Perilous.
+2. Terrain modifiers are based on the [Terrain Difficulty](/wip/2e/wilderness-exploration/#terrain-difficulty) rules. **E** = Easy, **T** = Tough, **P** = Perilous.
 3. Drawn or indicate the terrain for each dot on the map.
 
 #### Terrain Table
@@ -57,12 +57,12 @@ Established facts about the setting. Good questions to answer:
 | **d8** | **Terrain**                                           |
 | **1**  | Plains **(E)**, grasslands **(E)**, farmlands **(E)** |
 | **2**  | Oasis **(E)**, river **(T)**, sea **(E)**             |
-| **3**  | Forest **(T)**, bog  **(T)**, oasis **(E)**           |
+| **3**  | Forest **(T)**, bog  **(T)**, swamp **(P)**           |
 | **4**  | Cliffs **(T)**, beaches **(E)**, caverns **(P)**      |
 | **5**  | Hills **(T)**, canyons **(T)**, mountains **(P)**     |
 | **6**  | Beaches  **(E)**, wasteland **(P)**, jungle **(P)**   |
 | **7**  | Hollows  **(T)**, thickets **(T)**, lakes  **(T)**    |
-| **8**  | Plateau **(E)**, desert **(P)**, swamp **(P)**        |
+| **8**  | Plateau **(E)**, desert **(P)**, valley **(P)**       |
 
 ## Details
 - Each dot on the map is one **Detail**. **Details** act as [**Points**](/wip/2e/wilderness-exploration/#points) according to the [**Wilderness Exploration**](/wip/2e/wilderness-exploration) rules. Keep in mind how many **Watches** it might take to travel to each **Detail**. 
