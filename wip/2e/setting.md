@@ -99,7 +99,7 @@ Established facts about the setting. Good questions to answer:
 | **9**   | Shadows disappear at random. Animals do not want to go there.                                                      |
 | **10**  | Flashes of movement in the periphery. They always amount to nothing. Travelers return without their memories.      |
 | **11**  | The air is thicker than usual, and breathing is difficult. Drinking water seems to help.                           |
-| **12**  | Rains of small aquatic creatures (tadpoles, frogs, small fish). No one knows where they come from                  |
+| **12**  | Rains of small aquatic creatures (tadpoles, frogs, small fish). No one seems to knows where they come from.        |
 
 ## Details
 - Each dot on the map is one **Detail**. **Details** act as [**Points**](/wip/2e/wilderness-exploration/#points) according to the [**Wilderness Exploration**](/wip/2e/wilderness-exploration) rules. Keep in mind how many **Watches** it might take to travel to each **Detail**. 
