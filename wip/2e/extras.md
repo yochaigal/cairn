@@ -297,5 +297,66 @@ The [**Proper Noun**] of (the) [**Noun**]
 | **8**  |    **Desert, wasteland, sea**     |
 
 
+#### Name Formulas
+
+|           |                           |
+| --------- | ------------------------- |
+| **d12**   | **Template**              |
+| **1-2**   | [Adjective] [Terrain]     |
+| **3-4**   | [Adjective] [Detail]      |
+| **5-6**   | [Terrain] [Detail]        |
+| **7-8**   | [Detail] [Terrain]        |
+| **9-10**  | The [Detail] [Terrain]    |
+| **11-12** | [Terrain] of the [Detail] |
+
+**Cliffs/Ruins/Abandoned Settlement**
+**1-2**: Forgotten Bluffs
+
+**Plateau/Lair/Abandonded Bridge**
+**3-4**:  Flat Crossing
+
+**Forest/Settlement/Prison**
+**5-6**: Woodcage
+
+**Hills/Special/Trash heap**
+**7-8**: Dunny Knoll
+
+**Hills/Hazard/Permanent Fog**
+**9-10**: The Cloud Hillocks 
+
+**Grasslands/Landmark/Mysterious Megalith**
+**11-12**: Pasture of the Missing Fingers
 
 
+
+River
+
+#### Terrain Synonyms
+
+|             |             |
+| ----------- | ----------- |
+| **Terrain** | **Synonym** |
+| beaches     |             |
+| bogs        |             |
+| canyons     |             |
+| caverns     |             |
+| cliffs      | bluffs      |
+| desert      |             |
+| farmlands   |             |
+| forest      |             |
+| grasslands  |             |
+| hills       |             |
+| hollows     |             |
+| jungle      |             |
+| lakes       |             |
+| mountains   |             |
+| oasis       |             |
+| plains      |             |
+| plateau     |             |
+| river       |             |
+| sea         |             |
+| swamp       |             |
+| thickets    |             |
+| tundra      |             |
+| valley      |             |
+| wasteland   |             |

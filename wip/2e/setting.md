@@ -174,7 +174,7 @@ Established facts about the setting. Good questions to answer:
 | **3**  | **Sunken thicket**   |
 | **4**  | **Hidden burrow**    |
 | **5**  | **Colossal hive**    |
-| **6**  | **Abandoned bridge** |
+| **6**  | **Primitive bridge** |
 
 #### Hazards
 

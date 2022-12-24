@@ -22,7 +22,7 @@ search_exclude: true
 ### Terrain
 The results of the die rolls are below. Items  in **bold** represent the chosen terrain.
 
-#### Hub
+#### Terrain Types
 1. **Oasis**
 2. **Forests**
 3. **Cliffs**
@@ -37,7 +37,7 @@ The results of the die rolls are below. Items  in **bold** represent the chosen 
 
 ## Details
 ### Details Table Results
-1. (Central hub) **Stronghold**: Seat of government
+1. **Heart**: **Stronghold**: Seat of government
 2. **Special**: Unusual gravity
 3. **Hazard**: Permanent fog
 4. **Ruins**: Abandoned settlement
