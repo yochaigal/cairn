@@ -233,10 +233,34 @@ Established facts about the setting. Good questions to answer:
 | **20**  | **Floating island**        |
 
 ### Detail Names
-Starting with the **Heart**, name each **Detail** on the map based on its unique terrain, feature, or history. 
-- Settlements are often named after their unique features: the shape of the river nearby, or the large windmill in the town center. Then, the residents add a noun or adjective. _Windy Gulch, Black Tree Fort, Pitty Gardens_, etc.
-- Wilderness and dangerous places are even more obvious: poison lake, greedy mines, etc. Some tell a story: _Luka's Folly, Dead Man's Path_, etc. 
-- Important places should have important names: that of heroes, religious/political figures, and important events. _The Chalet of Saint Ibiz, Queen's Harvest, Light of the Nine_, etc.
+- Towns and cities are often named after their unique features: the shape of the river nearby, or the large windmill in the town center. The residents then add a noun or adjective. _Windy Gulch, Black Tree Fort, Pitty Gardens_, etc.
+- Important places should have important names: those of heroes, religious/political figures, and important events. _The Chalet of Saint Ibiz, Queen's Harvest, Light of the Nine_, etc.
+- Wild and dangerous places are named after their obvious hazards: poison lake, greedy mines, etc. Some tell a story: _Luka's Folly, Dead Man's Path_, etc. 
+
+#### Generating Names
+- Starting with the **Heart**, roll on the [Name Formulas](#name-formulas) table to name each **Detail** on the map. 
+- [Adjectives] can be replaced with [Nouns] on the table.
+- Refer to the [Terrain Synonyms](#terrain-synonyms)table if you need. 
+
+#### Name Formulas
+
+|           |                           |
+| --------- | ------------------------- |
+| **d12**   | **Template**              |
+| **1-2**   | [Adjective] [Terrain]     |
+| **3-4**   | [Adjective] [Detail]      |
+| **5-6**   | [Terrain] [Detail]        |
+| **7-8**   | [Detail] [Terrain]        |
+| **9-10**  | The [Detail] [Terrain]    |
+| **11-12** | [Terrain] of the [Detail] |
+
+#### Examples
+- **Cliffs/Ruins/Abandoned Settlement**: 1-2 = **Forgotten Bluffs**
+- **Plateau/Lair/Abandonded Bridge** 3-4 = **Flat Crossing**
+- **Forest/Settlement/Prison**: 5-6 = **Woodcage**
+- **Canyons / Hazard / Poisonous foliage**: 7-8 = **Bane Ravine**
+- **Oasis  / Special / Unusual gravity**: 9-10 = **The Floating Spring** 
+- **Grasslands/Landmark/Mysterious Megalith**: 11-12 = **Pasture of the Missing Fingers**
 
 ## Factions
 - Factions rule over one or more **Details**, an entire **Province**, or even a **Domain**. 

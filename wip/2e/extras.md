@@ -327,6 +327,25 @@ The [**Proper Noun**] of (the) [**Noun**]
 **Grasslands/Landmark/Mysterious Megalith**
 **11-12**: Pasture of the Missing Fingers
 
+Some more:
+
+**River / Settlement / Sanctuary**
+Blissful River
+
+**Lakes / Ruins / Abandonded Settlement**
+Dead Village Lake
+
+**Beaches / Special / Ancient library**
+Seaside Athenaeum
+
+**Canyons / Hazard / Poisonous foliage**
+Bane Ravine
+
+**Oasis  / Special / Unusual gravity**
+The Floating Spring 
+
+**Cliffs / Landmark / Fungus-covered well**
+The Crag of the Mossy Reservoir
 
 
 River
