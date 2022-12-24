@@ -210,7 +210,7 @@ Established facts about the setting. Good questions to answer:
 
 |         |                            |
 | ------- | -------------------------- |
-| **d12** | **Special**                |
+| **d20** | **Special**                |
 | **1**   | **Ancient library**        |
 | **2**   | **Ever-distant tower**     |
 | **3**   | **Trash heap**             |
