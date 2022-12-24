@@ -355,11 +355,11 @@ River
 |             |             |
 | ----------- | ----------- |
 | **Terrain** | **Synonym** |
-| beaches     |             |
-| bogs        |             |
-| canyons     |             |
-| caverns     |             |
-| cliffs      | bluffs      |
+| beaches     | seaside, seashore, shore, coast, seaboard, foreshore            |
+| bogs        | marsh, sump, mire, quad, morass, slough, fens            |
+| canyons     | ravine, gorge, gully, chasm, abyss, gulf, gulch     |
+| caverns     | grotty, hollows, cavity, tunnels, dugout, caves            |
+| cliffs      | precipice, face, crag, bluff, ridge, escarpment, steep      |
 | desert      |             |
 | farmlands   |             |
 | forest      |             |
@@ -379,3 +379,17 @@ River
 | tundra      |             |
 | valley      |             |
 | wasteland   |             |
+
+|        |                                                       |     |
+| ------ | ----------------------------------------------------- | --- |
+| **d8** | **Terrain**                                           |     |
+| **1**  | Plains **(E)**, grasslands **(E)**, farmlands **(E)** |     |
+| **2**  | Oasis **(E)**, lakes **(T)**, sea **(T)**             |     |
+| **3**  | River **(T)**, bog **(T)**, swamp **(P)**             |     |
+| **4**  | Beaches **(E)**, canyons **(E)**, cliffs **(T)**      |     |
+| **5**  | Valley **(E)**, hills **(T)**, mountains **(P)**      |     |
+| **6**  | Plateau **(E)**, hollows  **(T)**, wasteland **(P)**  |     |
+| **7**  | Forest (**T**), thickets (**T**), jungle (**P**)      |     |
+| **8**  | Tundra (**T**), desert **(P)**, caverns **(P)**       |     |
+
+- Refer to the [Terrain Synonyms](#terrain-synonyms) table if you need. 

@@ -240,7 +240,6 @@ Established facts about the setting. Good questions to answer:
 #### Generating Names
 - Starting with the **Heart**, roll on the [Name Formulas](#name-formulas) table to name each **Detail** on the map. 
 - [Adjectives] can be replaced with [Nouns] on the table.
-- Refer to the [Terrain Synonyms](#terrain-synonyms)table if you need. 
 
 #### Name Formulas
 
