@@ -233,26 +233,26 @@ Established facts about the setting. Good questions to answer:
 | **20**  | **Floating island**        |
 
 ### Detail Names
-- Towns and cities are often named after their unique features: the shape of the river nearby, or the large windmill in the town center. The residents then add a noun or adjective: _Windy Gulch, Black Tree Fort, Pitty Gardens_, etc.
-- Important places should have important names: those of heroes, religious/political figures, and important events: _The Chalet of Saint Ibiz, Queen's Harvest, Light of the Nine_, etc.
+- Settlements are often named after their unique features: the shape of the river nearby, or the large windmill in the town center. The residents then add a noun or adjective: _Windy Gulch, Black Tree Fort, Pitty Gardens_, etc.
+- Important places (like cities) should have important names, like those of heroes, religious/political figures, and important events: _The Chalet of Saint Ibiz, Queen's Harvest, Light of the Nine_, etc.
 - Wild and dangerous places are named after their obvious hazards: poison lake, greedy mines, etc. Some tell a story: _Luka's Folly, Dead Man's Path_, etc. 
 
 #### Generating Names
 - Starting with the **Heart**, roll on the [Name Formulas](#name-formulas) table to name each **Detail** on the map. 
-- Refer to the [Example Names](#example-names) for a model of each table result. 
 - [**Nouns**] can be added to or even replace [**Adjectives**] on the table, e.g. **Bruna's Ugly Gulch**.
+- Use the [Terrain Synonyms](#terrain-synonyms) table for inspiration. Refer to the [Example Names](#example-names) for a model of each table result. 
  
 #### Name Formulas
 
-|           |                                   |
-| --------- | --------------------------------- |
-| **d12**   | **Template**                      |
-| **1-2**   | [**Adjective**] [**Terrain**]     |
-| **3-4**   | [**Adjective**] [**Detail**]      |
-| **5-6**   | [**Terrain**] [**Detail**]        |
-| **7-8**   | [**Detail**] [**Terrain**]        |
-| **9-10**  | The [**Detail**] [**Terrain**]    |
-| **11-12** | [**Terrain**] of the [**Detail**] |
+|           |                           |
+| --------- | ------------------------- |
+| **d12**   | **Template**              |
+| **1-2**   | [Adjective] [Terrain]     |
+| **3-4**   | [Adjective] [Detail]      |
+| **5-6**   | [Terrain] [Detail]        |
+| **7-8**   | [Detail] [Terrain]        |
+| **9-10**  | The [Detail] [Terrain]    |
+| **11-12** | [Terrain] of the [Detail] |
 
 #### Example Names
 - Cliffs / Ruins / Abandoned Settlement: 1-2 = **Forgotten Bluffs**
@@ -261,6 +261,41 @@ Established facts about the setting. Good questions to answer:
 - Canyons / Hazard / Poisonous foliage: 7-8 = **Bane Ravine**
 - Oasis / Special / Unusual gravity: 9-10 = **The Floating Spring** 
 - Grasslands / Landmark / Mysterious Megalith: 11-12 = **Field of the Stone Gods**
+
+#### Terrain Synonyms
+
+|             |                                                         |
+| ----------- | ------------------------------------------------------- |
+| **Terrain** | **Synonym**                                             |
+| beaches     | seaside, shore, coast, seaboard, foreshore, marina      |
+| bogs        | marsh, sump, mire, quad, morass, slough, fens           |
+| canyons     | ravine, gorge, gully, chasm, abyss, gulf, gulch         |
+| caverns     | grotty, hollows, cavity, tunnels, dugout, caves         |
+| cliffs      | precipice, face, crag, bluff, ridge, escarpment, steep  |
+| desert      | dunes, sands, vasts, wastes, blight, borderlands        |
+| farmlands   | tillage, holding, acreage, steading, grange, plantation |
+| forest      | bush, woods, woodland, weald, grove, copse              |
+| grasslands  | pasture, steppe, prairie, savanna, fields, greenery     |
+| hills       | hillock, mound, mount, knoll, hummock, slope            |
+| hollows     | dip, hole, pit, cavity, crater, trough, holes           |
+| jungle      | See forest                                              |
+| lakes       | pond, pool, tarn, lagoon, loch, bayou                   |
+| mountains   | peaks, ridge, range, summit, pinnacle, butte            |
+| oasis       | spring, well, fountain, haven, watering hole, refuge    |
+| plains      | heath, meadow, veldt, flats, lowlands, sward            |
+| plateau     | uplands, mesa, highlands, downs, reach                  |
+| river       | waterway, stream, brook, runnel creek, channel          |
+| sea         | See beaches                                             |
+| swamp       | mire, morass, quag, moors, sump, wetlands               |
+| thickets    | chaparral, boscage, covert, coppice, fells              |
+| tundra      | expanse, prairie, steppe, plateau, boreal, ley          |
+| valley      | dale, vale, basin, gully, gorge, gap, glen              |
+| wasteland   | See deserts                                             |
+
+> Lines on the map (roads, paths, etc) can be named in a similar way, if necessary.
+
+
+
 
 ## Factions
 - Factions rule over one or more **Details**, an entire **Province**, or even a **Domain**. 

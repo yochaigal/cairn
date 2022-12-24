@@ -349,33 +349,33 @@ The Crag of the Mossy Reservoir
 
 #### Terrain Synonyms
 
-|             |             |
-| ----------- | ----------- |
-| **Terrain** | **Synonym** |
-| beaches     | seaside, seashore, shore, coast, seaboard, foreshore            |
-| bogs        | marsh, sump, mire, quad, morass, slough, fens            |
-| canyons     | ravine, gorge, gully, chasm, abyss, gulf, gulch     |
-| caverns     | grotty, hollows, cavity, tunnels, dugout, caves            |
-| cliffs      | precipice, face, crag, bluff, ridge, escarpment, steep      |
-| desert      | dunes, sands,             |
-| farmlands   | tillage, holding, acreage, steading, grange, plantation            |
-| forest      | timber, woods, woodland, weald, grove, copse            |
-| grasslands  | pasture, steppe, prairie, savanna, fields, sward            |
+|             |                                                         |
+| ----------- | ------------------------------------------------------- |
+| **Terrain** | **Synonym**                                             |
+| beaches     | seaside, shore, coast, seaboard, foreshore, marina      |
+| bogs        | marsh, sump, mire, quad, morass, slough, fens           |
+| canyons     | ravine, gorge, gully, chasm, abyss, gulf, gulch         |
+| caverns     | grotty, hollows, cavity, tunnels, dugout, caves         |
+| cliffs      | precipice, face, crag, bluff, ridge, escarpment, steep  |
+| desert      | dunes, sands, vasts, wastes, blight, borderlands        |
+| farmlands   | tillage, holding, acreage, steading, grange, plantation |
+| forest      | bush, woods, woodland, weald, grove, copse              |
+| grasslands  | pasture, steppe, prairie, savanna, fields, greenery     |
 | hills       | hillock, mound, mount, knoll, hummock, slope            |
-| hollows     | dip, hole, pit, cavity, crater, trough,             |
-| jungle      | bush              |
-| lakes       | pond, pool, tarn, lagoon, loch, bayou            |
+| hollows     | dip, hole, pit, cavity, crater, trough, holes           |
+| jungle      | See forest                                              |
+| lakes       | pond, pool, tarn, lagoon, loch, bayou                   |
 | mountains   | peaks, ridge, range, summit, pinnacle, butte            |
-| oasis       | spring, well, fountain, haven, watering hole, refuge             |
-| plains      | heath, meadow, veld, flats,              |
-| plateau     | upland, mesa, highlands            |
-| river       | waterway, stream, brook, runnel creek, channel            |
-| sea         | the deeps, the mains, the drink            |
-| swamp       |             |
-| thickets    | chaparral, boscage            |
-| tundra      |             |
-| valley      |             |
-| wasteland   |             |
+| oasis       | spring, well, fountain, haven, watering hole, refuge    |
+| plains      | heath, meadow, veldt, flats, lowlands, sward            |
+| plateau     | uplands, mesa, highlands, downs, reach                  |
+| river       | waterway, stream, brook, runnel creek, channel          |
+| sea         | See beaches                                             |
+| swamp       | mire, morass, quag, moors, sump, wetlands               |
+| thickets    | chaparral, boscage, covert, coppice, fells              |
+| tundra      | expanse, prairie, steppe, plateau, boreal, ley          |
+| valley      | dale, vale, basin, gully, gorge, gap, glen              |
+| wasteland   | See deserts                                             |
 
 |        |                                                       |     |
 | ------ | ----------------------------------------------------- | --- |
@@ -390,8 +390,5 @@ The Crag of the Mossy Reservoir
 | **8**  | Tundra (**T**), desert **(P)**, caverns **(P)**       |     |
 
 - Refer to the [Terrain Synonyms](#terrain-synonyms) table if you need. 
-
-
-
 
 
