@@ -68,8 +68,8 @@ The results of the die rolls are below. Items  in **bold** represent the chosen 
 ## Factions
 
 ### The Potentate (Government)
-#### Resources
 - **Base**: **Hope's Landing**. 
+#### Resources
 - **Anonymity**: The ruling council speaks only through an anointed subject, **The Whisper**.  
 - **Knowledge**: There is little the **Potentate**'s ubiquitous spies do not know.   
 - **Authority**: As the ruling faction over the **Province**, _detachments_ of soldiers can be summoned from the villages very quickly.
@@ -80,8 +80,8 @@ The results of the die rolls are below. Items  in **bold** represent the chosen 
 - **Obstacle**: Opposition. **The Will** directly defies the rule of law.
 
 ### Earl of White (Noble)
-#### Resources
 - **Base**: **Hope's Landing**. 
+#### Resources
 - **Fealty** of the plains villages and their farms (as detachment, stats as [Bandits](/resources/monsters/bandit/)).
 - **Property**: The **White** family has control of significant food stores.
 - **Seneschal**: Personal Chamberlain, stats as [Brigand](/resources/monsters/brigand/).
@@ -92,8 +92,8 @@ The results of the die rolls are below. Items  in **bold** represent the chosen 
 - **Obstacle**: Cloak & Dagger. If the **Earl's** plans are discovered, there will be nowhere he can hide. 
 
 ### The Under-folk (Commoner)
-#### Resources
 - **Base**: The caverns at **The Skunkholes**.
+#### Resources
 - **Population**: 2d10+10 ratlike **Under-folk**, stats as [Kobold](/resources/monsters/kobold/).
 - **Apparatus**: The **God-thumb**, which provides warmth and safety for the colony. 
 - **Seneschal**: **Ka-ro**, stats as [Ettin](/resources/monsters/ettin/).
@@ -103,8 +103,8 @@ The results of the die rolls are below. Items  in **bold** represent the chosen 
 - **Obstacle**: Dog Eat Dog. Other **Factions** want the **God-thumb** as well.
 
 ### The Will (Arcane)
-#### Resources
 - **Base**: **Dead Margin** (see below). Remnants in **Fria's Promise**.
+#### Resources
 - **Population**: 2d10+10 [Acolytes](/resources/monsters/acolyte).
 - **Position**: **The Springhouse**, an abandoned keep in **Dead Margin**, once used by ancestors of the **Earl of White** to imprison and torture their political enemies. It is well-fortified and contains a small complex of jails beneath it. 
 - **Seneschal**: **Arjen Vol Sonn**, stats as [Lich](/resources/monsters/lich/).

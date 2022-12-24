@@ -244,15 +244,15 @@ Established facts about the setting. Good questions to answer:
  
 #### Name Formulas
 
-|           |                           |
-| --------- | ------------------------- |
-| **d12**   | **Template**              |
-| **1-2**   | [Adjective] [Terrain]     |
-| **3-4**   | [Adjective] [Detail]      |
-| **5-6**   | [Terrain] [Detail]        |
-| **7-8**   | [Detail] [Terrain]        |
-| **9-10**  | The [Detail] [Terrain]    |
-| **11-12** | [Terrain] of the [Detail] |
+|           |                                   |
+| --------- | --------------------------------- |
+| **d12**   | **Name Template**                 |
+| **1-2**   | **[Adjective]** **[Terrain]**     |
+| **3-4**   | **[Adjective]** **[Detail]**      |
+| **5-6**   | **[Terrain]** **[Detail]**        |
+| **7-8**   | **[Detail]** **[Terrain]**        |
+| **9-10**  | The **[Detail]** **[Terrain]**    |
+| **11-12** | **[Terrain]** of the **[Detail]** |
 
 #### Example Names
 - Cliffs / Ruins / Abandoned Settlement: 1-2 = **Forgotten Bluffs**
@@ -278,24 +278,21 @@ Established facts about the setting. Good questions to answer:
 | grasslands  | pasture, steppe, prairie, savanna, fields, greenery     |
 | hills       | hillock, mound, mount, knoll, hummock, slope            |
 | hollows     | dip, hole, pit, cavity, crater, trough, holes           |
-| jungle      | See forest                                              |
+| jungle      | _See forest_                                            |
 | lakes       | pond, pool, tarn, lagoon, loch, bayou                   |
 | mountains   | peaks, ridge, range, summit, pinnacle, butte            |
 | oasis       | spring, well, fountain, haven, watering hole, refuge    |
 | plains      | heath, meadow, veldt, flats, lowlands, sward            |
 | plateau     | uplands, mesa, highlands, downs, reach                  |
 | river       | waterway, stream, brook, runnel creek, channel          |
-| sea         | See beaches                                             |
+| sea         | _See beaches_                                           |
 | swamp       | mire, morass, quag, moors, sump, wetlands               |
 | thickets    | chaparral, boscage, covert, coppice, fells              |
 | tundra      | expanse, prairie, steppe, plateau, boreal, ley          |
 | valley      | dale, vale, basin, gully, gorge, gap, glen              |
-| wasteland   | See deserts                                             |
+| wasteland   | _See desert_                                            |
 
 > Lines on the map (roads, paths, etc) can be named in a similar way, if necessary.
-
-
-
 
 ## Factions
 - Factions rule over one or more **Details**, an entire **Province**, or even a **Domain**. 
@@ -393,6 +390,20 @@ Established facts about the setting. Good questions to answer:
 | **10**  | **Limited Means**         | Considerable capital will be required to carry out the **Agenda**.              |
 | **11**  | **Rotten from Within**    | The **Faction** has a been infiltrated by a spy, intent on sabotage.            |
 | **12**  | **Body Count**            | Someone must die to ensure a successful outcome. The **Agenda** demands it.     |
+
+#### Faction Format
+### Faction Name
+- **Base**: Faction Base  
+#### Resources
+- Resource 
+- Resource
+- Resource
+- **Seneschals**: 
+- **Agenda**: Primary Agenda
+  - Goal
+  - Goal
+  - Goal
+- **Obstacle**: 
 
 ### Faction Rules
 - By default, **Factions** operate independent of the player character's actions. If the PCs do nothing, the **Factions** should still act to achieve their aims.
