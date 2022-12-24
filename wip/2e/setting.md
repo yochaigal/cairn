@@ -239,8 +239,9 @@ Established facts about the setting. Good questions to answer:
 
 #### Generating Names
 - Starting with the **Heart**, roll on the [Name Formulas](#name-formulas) table to name each **Detail** on the map. 
-- [Adjectives] can be replaced with [Nouns] on the table.
-
+- Reference the [**Name Examples**](#name-examples) for a model of each table result. 
+- [**Nouns**] can be added to or even replace [**Adjectives**] on the table, e.g. **Bruna's Ugly Gulch**.
+ 
 #### Name Formulas
 
 |           |                           |
@@ -253,13 +254,13 @@ Established facts about the setting. Good questions to answer:
 | **9-10**  | The [Detail] [Terrain]    |
 | **11-12** | [Terrain] of the [Detail] |
 
-#### Examples
+#### Name Examples
 - Cliffs / Ruins / Abandoned Settlement: 1-2 = **Forgotten Bluffs**
 - Plateau / Lair / Abandonded Bridge: 3-4 = **Flat Crossing**
 - Forest / Settlement / Prison: 5-6 = **Woodcage**
 - Canyons / Hazard / Poisonous foliage: 7-8 = **Bane Ravine**
 - Oasis / Special / Unusual gravity: 9-10 = **The Floating Spring** 
-- Grasslands / Landmark / Mysterious Megalith: 11-12 = **Pasture of the Missing Fingers**
+- Grasslands / Landmark / Mysterious Megalith: 11-12 = **Field of the Stone Gods**
 
 ## Factions
 - Factions rule over one or more **Details**, an entire **Province**, or even a **Domain**. 
