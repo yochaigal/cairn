@@ -239,22 +239,22 @@ Established facts about the setting. Good questions to answer:
 
 #### Generating Names
 - Starting with the **Heart**, roll on the [Name Formulas](#name-formulas) table to name each **Detail** on the map. 
-- Reference the [**Name Examples**](#name-examples) for a model of each table result. 
+- Refer to the [Example Names](#example-names) for a model of each table result. 
 - [**Nouns**] can be added to or even replace [**Adjectives**] on the table, e.g. **Bruna's Ugly Gulch**.
  
 #### Name Formulas
 
-|           |                           |
-| --------- | ------------------------- |
-| **d12**   | **Template**              |
-| **1-2**   | [Adjective] [Terrain]     |
-| **3-4**   | [Adjective] [Detail]      |
-| **5-6**   | [Terrain] [Detail]        |
-| **7-8**   | [Detail] [Terrain]        |
-| **9-10**  | The [Detail] [Terrain]    |
-| **11-12** | [Terrain] of the [Detail] |
+|           |                                   |
+| --------- | --------------------------------- |
+| **d12**   | **Template**                      |
+| **1-2**   | [**Adjective**] [**Terrain**]     |
+| **3-4**   | [**Adjective**] [**Detail**]      |
+| **5-6**   | [**Terrain**] [**Detail**]        |
+| **7-8**   | [**Detail**] [**Terrain**]        |
+| **9-10**  | The [**Detail**] [**Terrain**]    |
+| **11-12** | [**Terrain**] of the [**Detail**] |
 
-#### Name Examples
+#### Example Names
 - Cliffs / Ruins / Abandoned Settlement: 1-2 = **Forgotten Bluffs**
 - Plateau / Lair / Abandonded Bridge: 3-4 = **Flat Crossing**
 - Forest / Settlement / Prison: 5-6 = **Woodcage**
