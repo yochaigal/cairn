@@ -233,8 +233,8 @@ Established facts about the setting. Good questions to answer:
 | **20**  | **Floating island**        |
 
 ### Detail Names
-- Towns and cities are often named after their unique features: the shape of the river nearby, or the large windmill in the town center. The residents then add a noun or adjective. _Windy Gulch, Black Tree Fort, Pitty Gardens_, etc.
-- Important places should have important names: those of heroes, religious/political figures, and important events. _The Chalet of Saint Ibiz, Queen's Harvest, Light of the Nine_, etc.
+- Towns and cities are often named after their unique features: the shape of the river nearby, or the large windmill in the town center. The residents then add a noun or adjective: _Windy Gulch, Black Tree Fort, Pitty Gardens_, etc.
+- Important places should have important names: those of heroes, religious/political figures, and important events: _The Chalet of Saint Ibiz, Queen's Harvest, Light of the Nine_, etc.
 - Wild and dangerous places are named after their obvious hazards: poison lake, greedy mines, etc. Some tell a story: _Luka's Folly, Dead Man's Path_, etc. 
 
 #### Generating Names
@@ -254,12 +254,12 @@ Established facts about the setting. Good questions to answer:
 | **11-12** | [Terrain] of the [Detail] |
 
 #### Examples
-- **Cliffs/Ruins/Abandoned Settlement**: 1-2 = **Forgotten Bluffs**
-- **Plateau/Lair/Abandonded Bridge** 3-4 = **Flat Crossing**
-- **Forest/Settlement/Prison**: 5-6 = **Woodcage**
-- **Canyons / Hazard / Poisonous foliage**: 7-8 = **Bane Ravine**
-- **Oasis  / Special / Unusual gravity**: 9-10 = **The Floating Spring** 
-- **Grasslands/Landmark/Mysterious Megalith**: 11-12 = **Pasture of the Missing Fingers**
+- Cliffs / Ruins / Abandoned Settlement: 1-2 = **Forgotten Bluffs**
+- Plateau / Lair / Abandonded Bridge: 3-4 = **Flat Crossing**
+- Forest / Settlement / Prison: 5-6 = **Woodcage**
+- Canyons / Hazard / Poisonous foliage: 7-8 = **Bane Ravine**
+- Oasis / Special / Unusual gravity: 9-10 = **The Floating Spring** 
+- Grasslands / Landmark / Mysterious Megalith: 11-12 = **Pasture of the Missing Fingers**
 
 ## Factions
 - Factions rule over one or more **Details**, an entire **Province**, or even a **Domain**. 

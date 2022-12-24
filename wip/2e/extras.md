@@ -347,9 +347,6 @@ The Floating Spring
 **Cliffs / Landmark / Fungus-covered well**
 The Crag of the Mossy Reservoir
 
-
-River
-
 #### Terrain Synonyms
 
 |             |             |
@@ -360,22 +357,22 @@ River
 | canyons     | ravine, gorge, gully, chasm, abyss, gulf, gulch     |
 | caverns     | grotty, hollows, cavity, tunnels, dugout, caves            |
 | cliffs      | precipice, face, crag, bluff, ridge, escarpment, steep      |
-| desert      |             |
-| farmlands   |             |
-| forest      |             |
-| grasslands  |             |
-| hills       |             |
-| hollows     |             |
-| jungle      |             |
-| lakes       |             |
-| mountains   |             |
-| oasis       |             |
-| plains      |             |
-| plateau     |             |
-| river       |             |
-| sea         |             |
+| desert      | dunes, sands,             |
+| farmlands   | tillage, holding, acreage, steading, grange, plantation            |
+| forest      | timber, woods, woodland, weald, grove, copse            |
+| grasslands  | pasture, steppe, prairie, savanna, fields, sward            |
+| hills       | hillock, mound, mount, knoll, hummock, slope            |
+| hollows     | dip, hole, pit, cavity, crater, trough,             |
+| jungle      | bush              |
+| lakes       | pond, pool, tarn, lagoon, loch, bayou            |
+| mountains   | peaks, ridge, range, summit, pinnacle, butte            |
+| oasis       | spring, well, fountain, haven, watering hole, refuge             |
+| plains      | heath, meadow, veld, flats,              |
+| plateau     | upland, mesa, highlands            |
+| river       | waterway, stream, brook, runnel creek, channel            |
+| sea         | the deeps, the mains, the drink            |
 | swamp       |             |
-| thickets    |             |
+| thickets    | chaparral, boscage            |
 | tundra      |             |
 | valley      |             |
 | wasteland   |             |
@@ -393,3 +390,8 @@ River
 | **8**  | Tundra (**T**), desert **(P)**, caverns **(P)**       |     |
 
 - Refer to the [Terrain Synonyms](#terrain-synonyms) table if you need. 
+
+
+
+
+
