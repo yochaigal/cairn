@@ -398,11 +398,11 @@ Established facts about the setting. Good questions to answer:
 - **Apparatus**: A _Map of the Dead_. It opens a path to the underworld, and to the secrets of the dead.  
 - **Position**: The _Seaside Athenaeum_ is both well-defended and steeped in forbidden secrets. 
 - **Renown**: None would dare defy the _Guild_ publicly. Their voice carries great weight in the kingdom.
-- **Seneschals**: _Dr. Horatia Confi_, first order. She discovered the _Map of the Dead_, and brought it to her masters. Stats as human (WIL 15).  
+- **Seneschals**: _Dr. Horatia Confi_, first order. Discovered the _Map of the Dead_. Stats as human (WIL 15).  
 - **Agenda**: **Destroy**. The _Guild_ has long been at war with the _Holy Order of Yix_ (figuratively and otherwise) for over a century. It is time their ignorant sect was brought to its knees. _The Order_ is currently favored by the monarchy, but that could all change.
-  - _Dr. Confi_ hires a skilled party, and (using the map) lead them to the _Gates of the Underworld_.   
-  - Travel through the lands of the dead in search of the _Order_'s founder, and force him to reveal his secrets.
-  - Reveal the founder's secrets - including his true identity - to the monarchy. Tie up any loose ends, including witnesses.
+  - Hire a skilled party, and lead them to the _Gates of the Underworld_. _Dr. Confi_ will lead the expedition.   
+  - Travel through the lands of the dead in search of the _Order_'s founder, and force their to reveal an ancient secret.
+  - Reveal the founder's secrets - including their true identity - to the monarchy. Tie up any loose ends, including witnesses.
 - **Obstacle**: **Rotten From Within**. The _Guild_ has received legitimate intelligence that a well-placed operative moves within their ranks, and is aware of the coming operation.
 
 ### Faction Rules
