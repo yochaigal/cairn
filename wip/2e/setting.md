@@ -67,7 +67,7 @@ To help create your setting's theme, answer the following questions:
 | **7**  | Forest (**T**), thickets (**T**), jungle (**P**)      |
 | **8**  | Tundra (**T**), desert **(P)**, caverns **(P)**       |
 
-#### Weather
+#### Seasons
 - Roll on the [Seasonal Weather](#seasonal-weather) table for the **Heart**. Repeat for each season.
 - Roll on the [Weird Weather Effects](#weird-weather-effects) table _once_ for the **Frontier**. 
 

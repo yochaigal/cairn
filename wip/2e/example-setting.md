@@ -63,7 +63,7 @@ The results of the die rolls are below. Items  in **bold** represent the chosen 
 11. **The Skunkholes**
 
 ## Province: Whitefort
-**Whitefort**, after its "founding" by the great ancestor of the **Earl of White**. The (now dead) locals referred to it as **The Ramparts**, but that name is long forgotten. The **Heart** of the **Province** is **Hope Landing**. Built around a large font of water in an otherwise brackish land, and originally acted as a hub for future explorers and pioneers travelling throughout the region. After years of stymied exploration in the wastelands to the West, folks eventually settled in the capital city. The current ruling Faction (The **Potentate**) makes the city its center of government, while **The Will** hides in the abandoned town of **Dead Margin** on the cliffs to the Southwest.
+**Whitefort**, after its "founding" by the great ancestor of the **Earl of White**. The (now dead) locals referred to it as **The Ramparts**, but that name is long forgotten. In the Spring the weather is cold and rainy, in the Summer it is hot and humid, in the Fall it is cool and rainy, and in the Winter it is freezing and hailing.  The **Heart** of the **Province** is **Hope Landing**. Built around a large font of water in an otherwise brackish land, and originally acted as a hub for future explorers and pioneers travelling throughout the region. After years of stymied exploration in the wastelands to the West, folks eventually settled in the capital city. The current ruling Faction (The **Potentate**) makes the city its center of government, while **The Will** hides in the abandoned town of **Dead Margin** on the cliffs to the Southwest.
 
 ## Factions
 
