@@ -15,7 +15,7 @@ search_exclude: true
 - Distance is measured in [**Watches**](/wip/2e/wilderness-exploration/#travel), assuming that the party travels by foot and on maintained roads.
 
 ## Theme
-Established facts about the setting. Good questions to answer: 
+Established facts about the setting. Good questions to answer:
 - How does magic work?
 - What level of technology do the denizens have?
 - How does religion function? Do gods walk the lands, and do the people know it?
@@ -299,14 +299,14 @@ Established facts about the setting. Good questions to answer:
 - The map should reflect the impact of goals being completed or interrupted. **Factions** will work to complete their **Agenda** independently.
 - A **Faction** may be governed by a powerful figure, but most of the time PCs will be dealing with their lieutenants, or **Seneschals**. 
 
-### Agendas & Resources
-- **Factions** have **Agendas** (3-4 **goals** towards a clear objective) and the **Resources** to help achieve them. 
-- **Resources** reflect a **Factions'** influence, materials, wealth, and special features. 
-- **Factions** grow (or lose) their **Resources** by trying to complete their agenda. 
+### Agendas & Advantages
+- **Factions** have **Agendas** (3-4 **goals** towards a clear objective) and the **Advantages** to help achieve them. 
+- **Advantages** reflect a **Factions'** influence, materials, wealth, and special features. 
+- **Factions** add (or lose) their **Advantages** by trying to complete their agenda. 
 
 ### Creating Factions
 - Consider the **Details** and **Terrain** you've developed. Note what is worth protecting, as well as what is worth taking.
-- **Agendas** are lofty plans with distinct steps based on actionable goals. They should relate to the acquisition of powerful territory, weapons, money, and **Resources**. 
+- **Agendas** are lofty plans with distinct steps based on actionable goals. They should relate to the acquisition of powerful territory, weapons, money, and **Advantages**. 
 - Do not feel limited by the table results below. If something feels "off" or a different table result would work better for your setting, use it!
 
 #### Factions Creation Procedure
@@ -314,46 +314,46 @@ Established facts about the setting. Good questions to answer:
 - Then, select either a Lair or Ruin on the map. Follow steps 1-5 to make at least one **Faction** for that site. 
 - Repeat as desired.
 1. Roll on the [Faction Types](#faction-types) table to determine the nature of the Faction. 
-2. Consider how many Resources a Faction of this type might have (between 2-4) and roll accordingly on the [Faction Resources](#faction-resources) table. Flesh out the specifics of the Resources as indicated by the results from the table. 
+2. Consider how many Advantages a Faction of this type might have (between 2-4) and roll accordingly on the [Faction Advantages](#faction-Advantages) table. Flesh out the specifics of the Advantages as indicated by the results from the table. 
 3. Roll on the the [**Faction Agendas**](#faction-agendas) table and consider what their specific **Agenda** may be given your current information. Establish a series of goals (3-4) that must be accomplished for this **Agenda** to be accomplished.
 4. Roll on the [Faction Obstacles](#faction-obstacles) table. Use the result to consider what might prevent the **Agenda** from succeeding.
-5. Create at least one **Seneschal**, inspired by the **Faction** type, **Resources**, and **Agenda**, and **Obstacle**. Think of where they might be located on the map. Make that location the **Faction's** home base.
+5. Create at least one **Seneschal**, inspired by the **Faction** type, **Advantages**, and **Agenda**, and **Obstacle**. Think of where they might be located on the map. Make that location the **Faction's** home base.
  
 #### Faction Types
 
-|         |                   |                                                                                                                          |
-| ------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| **d12** | **Faction Type**  | **Example Factions**                                                                                                     |
-| **1**   | **Academic**      | An upstart cartographer's guild, preparing to map the **Far Reaches**. Many have tried, but none have returned.          |
-| **2**   | **Arcane**        | A league of wizards in search of an ancient power. They can't entrust its discovery to less experence hands.             |
-| **3**   | **Cabal**         | A secret society, its machinations shrouded in mystery. But its goal is all too clear: a new world order.                |
-| **4**   | **Commoners**     | Together, they are strong. Together they can move mountains. But who do they really serve?                               |
-| **5**   | **Criminal**      | An uneasy alliance of ruffians, thieves, and killers.  Their boss is scariesst of them all.                              |
-| **6**   | **Government**    | Politicians, bureaucrats, tax collectors: they are everywhere. Who are they helping, besides themselves?                 |
-| **7**   | **Industrial**    | Workers, united by a charismatic and troubled leader. Fighting for a better life.                                        |
-| **8**   | **Mercantile**    | A cartel of beaming merchants, vendors, and trade experts. Followers of none, save for the almighty coin.                |
-| **9**   | **Military**      | Disgraced officers, relying on their only remaining assets: a soldier's loyalty. It might be enough.                     |
-| **10**  | **Noble**         | A family built on deft politicking. Their house is in debt to a dangerous group, and they could lose everything.         |
-| **11**  | **Religious**     | Stewards of sacred artifacts, guided by the divine to reclaim their most holy of objects.                                |
-| **12**  | **Revolutionary** | The body politic is diseased beyond redemption. Plenty are ready to die for the cause, but only one is fit to lead them. |
+|         |                   |                                                                                                                                                |
+| ------- | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| **d12** | **Faction Type**  | **Example Factions**                                                                                                                           |
+| **1**   | **Academic**      | _Royal Topographer's Society_. An upstart cartographer's guild, preparing to map the **Far Reaches**. Many have tried, but none have returned. |
+| **2**   | **Arcane**        | _The Syndak_. A league of wizards in search of an ancient power. They can't entrust its discovery to less experence hands.                     |
+| **3**   | **Cabal**         | _Praxis._ A secret society, its machinations shrouded in mystery. But its goal is all too clear: a new world order.                            |
+| **4**   | **Commoners**     | _Unite or Perish_. Together, they are strong. Together they can move mountains. But who do they really serve?                                  |
+| **5**   | **Criminal**      | _Missing Fingers_. An uneasy alliance of ruffians, thieves, and killers. Their boss is scariesst of them all.                                  |
+| **6**   | **Government**    | _The Bloc_. Politicians, bureaucrats, tax collectors: they are everywhere. Who are they helping, besides themselves?                           |
+| **7**   | **Industrial**    | _The Iron Pantheon_. Workers, united by a charismatic and troubled leader. Fighting for a better life.                                         |
+| **8**   | **Mercantile**    | _Earnest Buyer's Club_. A cartel of beaming merchants, vendors, and trade experts. Followers of none, save for the almighty coin.              |
+| **9**   | **Military**      | _Azure Guard_. Disgraced officers, relying on their only remaining assets: a soldier's loyalty. It might be enough.                            |
+| **10**  | **Noble**         | _Lichthammer_. A family built on deft politicking. Their house is in debt to a dangerous group, and they could lose everything.                |
+| **11**  | **Religious**     | _His Noble Justice._ Stewards of sacred artifacts, guided by the divine to reclaim their most holy of objects.                                 |
+| **12**  | **Revolutionary** | _Light Rising_. The body politic is diseased beyond redemption. Plenty are ready to die for the cause, but only one is fit to lead them.       |
 
-#### Faction Resources
+#### Faction Advantages
 
-|         |                   |                                                                              |                                    |
-| ------- | ----------------- | ---------------------------------------------------------------------------- | ---------------------------------- |
-| **d12** | **Resource Type** | **Example Resources**                                                        | **Example Seneschals**             |
-| **1**   | **Anonymity**     | A secret society shrouded in mystery, its members' identities unknown.       | Monks, politicians, demi-gods      |
-| **2**   | **Apparatus**     | A powerful Relic, artifact, or tool.                                         | Scholars, philosophers, sages      |
-| **3**   | **Fealty**        | Enjoys the loyalty of a large or important bloc of people.                   | Lords, bannermen, farmers          |
-| **4**   | **Force**         | Employs brawn as its voice, and brute force as the cudgel.                   | Bullies, toughs, flatfoots         |
-| **5**   | **Information**   | Keeps tabs on friends and enemies alike via espionage and arcane privileges. | Spies, informants, mystics         |
-| **6**   | **Magic**         | Relies on the arcane arts to carry out its agenda.                           | Wizards, spellswords, liches       |
-| **7**   | **Population**    | Boasts a large number of rank and file members.                              | Gangs, urchins, peddlers           |
-| **8**   | **Position**      | Relies on a unique geographic or political immunity.                         | Outlanders, criminals, politicians |
-| **9**   | **Property**      | Keeps sway over a local resource, item, or source of power.                  | Workers, thugs, academics          |
-| **10**  | **Renown**        | Part of a de-facto regime, respected or feared.                              | Nobles, merchants, generals        |
-| **11**  | **Subterfuge**    | Moves unseen, achieving its goals through a cloak-and-dagger approach.       | Assassins, tricksters, thieves     |
-| **12**  | **Wealth**        | Affluent, using its riches to extend their influence and protect themselves. | Soldiers, officials, merchants     |
+|         |                    |                                                                              |                                    |
+| ------- | ------------------ | ---------------------------------------------------------------------------- | ---------------------------------- |
+| **d12** | **Advantage Type** | **Example Advantages**                                                       | **Example Seneschals**             |
+| **1**   | **Anonymity**      | A secret society shrouded in mystery, its members' identities unknown.       | Monks, politicians, demi-gods      |
+| **2**   | **Apparatus**      | A powerful Relic, artifact, or tool.                                         | Scholars, philosophers, sages      |
+| **3**   | **Fealty**         | Enjoys the loyalty of a large or important bloc of people.                   | Lords, bannermen, farmers          |
+| **4**   | **Force**          | Employs brawn as its voice, and brute force as the cudgel.                   | Bullies, toughs, flatfoots         |
+| **5**   | **Information**    | Keeps tabs on friends and enemies alike via espionage and arcane privileges. | Spies, informants, mystics         |
+| **6**   | **Magic**          | Relies on the arcane arts to carry out its agenda.                           | Wizards, spellswords, liches       |
+| **7**   | **Population**     | Boasts a large number of rank and file members.                              | Gangs, urchins, peddlers           |
+| **8**   | **Position**       | Relies on a unique geographic or political immunity.                         | Outlanders, criminals, politicians |
+| **9**   | **Resources**      | Keeps sway over a properties, assets, or source of power.                    | Workers, thugs, academics          |
+| **10**  | **Renown**         | Part of a de-facto regime, respected or feared.                              | Nobles, merchants, generals        |
+| **11**  | **Subterfuge**     | Moves unseen, achieving its goals through a cloak-and-dagger approach.       | Assassins, tricksters, thieves     |
+| **12**  | **Wealth**         | Affluent, using its riches to extend their influence and protect themselves. | Soldiers, officials, merchants     |
 
 #### Faction Agendas
 
@@ -394,7 +394,7 @@ Established facts about the setting. Good questions to answer:
 #### Example Faction
 - **Academic**: _Royal Cartographer's Guild_
 - **Base**: _Seaside Athenaeum_
-##### Resources
+##### Advantages
 - **Apparatus**: A _Map of the Dead_. It opens a path to the underworld, and to the secrets of the dead.  
 - **Position**: The _Seaside Athenaeum_ is both well-defended and steeped in forbidden secrets. 
 - **Renown**: None would dare defy the _Guild_ publicly. Their voice carries great weight in the kingdom.
@@ -414,19 +414,19 @@ Established facts about the setting. Good questions to answer:
 
 #### Faction Actions
 
-|           |                   |                                                               |
-| --------- | ----------------- | ------------------------------------------------------------- |
-| **d12**   | **Consequence**   | **Impact**                                                    |
-| **1-2**   | **Failure**       | A new **Obstacle** is introduced, and a **Resource** is lost. |
-| **3-4**   | **Setback**       | A **Resource** is lost.                                       |
-| **5-6**   | **Status Quo**    | Nothing is gained, but nothing is lost.                       |
-| **7-8**   | **Mixed Success** | A **goal** is achieved,  but a **Resource** is lost.          |
-| **9-10**  | **Success**       | A **goal** is achieved, and no **Resources** are lost.        |
-| **11-12** | **Major Success** | A **goal** is achieved, and a new **Resource** is found.      |
+|           |                   |                                                                |
+| --------- | ----------------- | -------------------------------------------------------------- |
+| **d12**   | **Consequence**   | **Impact**                                                     |
+| **1-2**   | **Failure**       | A new **Obstacle** is introduced, and a **Advantage** is lost. |
+| **3-4**   | **Setback**       | A **Advantage** is lost.                                       |
+| **5-6**   | **Status Quo**    | Nothing is gained, but nothing is lost.                        |
+| **7-8**   | **Mixed Success** | A **goal** is achieved,  but a **Advantage** is lost.          |
+| **9-10**  | **Success**       | A **goal** is achieved, and no **Advantages** are lost.        |
+| **11-12** | **Major Success** | A **goal** is achieved, and a new **Advantage** is found.      |
 
 > The actions of the PCs can always overrule the necessity for a **Faction** action, or in some cases provide an advantage of some kind to the roll. 
 
-## Name The Province
+## Province Name
 Consider the following when determining the **Province** name:
 - What are the key geographic features of the region? 
 - What major events (war, famine, discoveries) occured here in the past? Who were the major players?
