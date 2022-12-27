@@ -15,13 +15,13 @@ search_exclude: true
 - Distance is measured in [**Watches**](/wip/2e/wilderness-exploration/#travel), assuming that the party travels by foot and on maintained roads.
 
 ## Theme
-Established facts about the setting. Good questions to answer:
-- How does magic work?
-- What level of technology do the denizens have?
-- How does religion function? Do gods walk the lands, and do the people know it?
-- Who are the PCs in the setting? What is theirposition with respect to those in power?
-- What species & backgrounds exist, and are they playable by PCs?
-- What linguistic and cultural flavor exists in the setting? 
+To help create your setting's theme, answer the following questions:
+ - How does magic work?
+ - What level of technology do the denizens have?
+ - How does religion function? Do gods walk the lands, and do the people know it?
+ - Who are the PCs in the setting? What is theirposition with respect to those in power?
+ - What species & backgrounds exist, and are they playable by PCs?
+ - What linguistic and cultural flavor exists in the setting? 
 
 ## Provinces
 - A **Province** is a single, traversable landscape roughly defined by divisble terrain (mountain ranges, rivers, oceans). 
@@ -38,7 +38,7 @@ Established facts about the setting. Good questions to answer:
 2. Create three more dots in a triangle with the **Heart** in the rough center. Each of these dots represents an additional **Detail** on the map. 
 3. Connect two of the dots to the **Heart**, using solid lines to represent roads, dotted lines for trails, double solid lines for rivers, and double dotted lines for tunnels. 
 4. Connect the remaining dot to one of these paths, crossing it and continuing for a distance. 
-5. Repeat step #2, orienting the triangle of dots in a different way than before. 
+5. Repeat step **2**, orienting the triangle of dots in a different way than before. 
 6. Connect two of the new dots to _any_ path, but do not connect the final dot to anything! This is the **Frontier**.
 7. Create a new dot wherever paths cross, and wherever a new path ends. 
 8. Number the dots, starting from the **Heart** and expanding outwards. The **Heart** is always **1**, and the **Frontier** is always the terminal number.

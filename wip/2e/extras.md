@@ -393,7 +393,7 @@ The Crag of the Mossy Reservoir
 
 
 ## Choose a Theme
-1. Roll on the [Themes](#themes)table.
+1. Roll on the [Setting Themes](#setting-themes)table.
 2. Answer the following questions:
    - How does magic work?
    - What level of technology do the denizens have?
@@ -404,13 +404,12 @@ The Crag of the Mossy Reservoir
 
 ### Themes
 
-|        |                  |     |
-| ------ | ---------------- | --- |
-| **d6** |                  |     |
-| **1**  | War-torn         |     |
-| **2**  | Religious strife |     |
-| **3**  | Lawlessness      |     |
-| **4**  |                  |     |
-| **5**  |                  |     |
-| **6**  |                  |     |
-
+|        |                       |     |
+| ------ | --------------------- | --- |
+| **d6** |                       |     |
+| **1**  | **War-torn**          |     |
+| **2**  | **Religious strife**  |     |
+| **3**  | **Lawlessness**       |     |
+| **4**  | **Pastoral**          |     |
+| **5**  | **Harsh Environment** |     |
+| **6**  | **                      |     |
