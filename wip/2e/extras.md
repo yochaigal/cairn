@@ -392,3 +392,25 @@ The Crag of the Mossy Reservoir
 - Refer to the [Terrain Synonyms](#terrain-synonyms) table if you need. 
 
 
+## Choose a Theme
+1. Roll on the [Themes](#themes)table.
+2. Answer the following questions:
+   - How does magic work?
+   - What level of technology do the denizens have?
+   - How does religion function? Do gods walk the lands, and do the people know it?
+   - Who are the PCs in the setting? What is theirposition with respect to those in power?
+   - What species & backgrounds exist, and are they playable by PCs?
+   - What linguistic and cultural flavor exists in the setting? 
+
+### Themes
+
+|        |                  |     |
+| ------ | ---------------- | --- |
+| **d6** |                  |     |
+| **1**  | War-torn         |     |
+| **2**  | Religious strife |     |
+| **3**  | Lawlessness      |     |
+| **4**  |                  |     |
+| **5**  |                  |     |
+| **6**  |                  |     |
+
