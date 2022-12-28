@@ -270,7 +270,7 @@ To help create your setting's theme, answer the following questions:
 | beaches     | seaside, shore, coast, seaboard, foreshore, marina      |
 | bogs        | marsh, sump, mire, quad, morass, slough, fens           |
 | canyons     | ravine, gorge, gully, chasm, abyss, gulf, gulch         |
-| caverns     | grotty, hollows, cavity, tunnels, dugout, caves         |
+| caverns     | grottoes, cavity, tunnels, dugout, caves         |
 | cliffs      | precipice, face, crag, bluff, ridge, escarpment, steep  |
 | desert      | dunes, sands, vasts, wastes, blight, borderlands        |
 | farmlands   | tillage, holding, acreage, steading, grange, plantation |
