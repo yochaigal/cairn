@@ -288,7 +288,7 @@ To help create your setting's theme, answer the following questions:
 | sea         | _See beaches_                                           |
 | swamp       | mire, morass, quag, moors, sump, wetlands               |
 | thickets    | chaparral, boscage, covert, coppice, fells              |
-| tundra      | expanse, prairie, steppe, plateau, boreal, ley          |
+| tundra      | expanse, prairie, steppe, boreal, ley          |
 | valley      | dale, vale, basin, gully, gorge, gap, glen              |
 | wasteland   | _See desert_                                            |
 
