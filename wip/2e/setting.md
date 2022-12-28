@@ -208,29 +208,29 @@ To help create your setting's theme, answer the following questions:
 
 #### Special
 
-|         |                            |
-| ------- | -------------------------- |
-| **d20** | **Special**                |
-| **1**   | **Ancient library**        |
-| **2**   | **Ever-distant tower**     |
-| **3**   | **Trash heap**             |
-| **4**   | **Floating construct**     |
-| **5**   | **Unusual gravity**        |
-| **6**   | **Singing stones**         |
-| **7**   | **Trees that move**        |
-| **8**   | **Buried giant**           |
-| **9**   | **Pristine, empty city**   |
-| **10**  | **Home of the folk witch** |
-| **11**  | **Cult ritual site**       |
-| **12**  | **Bloody battlefield**     |
-| **13**  | **Phasal trading post**    |
-| **14**  | **Frozen graveyard**       |
-| **15**  | **Primitive shipwreack**   |
-| **16**  | **Illusory city**          |
-| **17**  | **Purple geysers**         |
-| **18**  | **Carnivorous plants**     |
-| **19**  | **Misty crater**           |
-| **20**  | **Floating island**        |
+|         |                             |
+| ------- | --------------------------- |
+| **d20** | **Special**                 |
+| **1**   | **Ancient library**         |
+| **2**   | **Ever-distant tower**      |
+| **3**   | **Trash heap**              |
+| **4**   | **Floating construct**      |
+| **5**   | **Unusual gravity**         |
+| **6**   | **Singing stones**          |
+| **7**   | **Trees that move**         |
+| **8**   | **Buried giant**            |
+| **9**   | **Pristine but empty city** |
+| **10**  | **Home of the folk witch**  |
+| **11**  | **Cult ritual site**        |
+| **12**  | **Bloody battlefield**      |
+| **13**  | **Phasal trading post**     |
+| **14**  | **Frozen graveyard**        |
+| **15**  | **Primitive shipwreack**    |
+| **16**  | **Illusory city**           |
+| **17**  | **Purple geysers**          |
+| **18**  | **Carnivorous plants**      |
+| **19**  | **Misty crater**            |
+| **20**  | **Floating island**         |
 
 ### Detail Names
 - Settlements are often named after their unique features: the shape of the river nearby, or the large windmill in the town center. The residents then add a noun or adjective: _Windy Gulch, Black Tree Fort, Pitty Gardens_, etc.
