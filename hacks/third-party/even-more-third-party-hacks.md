@@ -20,7 +20,7 @@ nav_order: 20
 * [**Plerion**](https://plerion.zeruhur.space/)
 * [**Runecairn**](https://byodinsbeardrpg.itch.io/runecairn)
 * [**Thalassa**](https://zeruhur.itch.io/thalassa)
-* [**Cyber**](https://oswida.github.io/cyber/docs/en/srd.html)
+* [**Cyber**](https://oskarswida.itch.io/cyber-eng)
 
 ## Supplements
 * [**Follow the Bones**](https://symboliccity.itch.io/follow-the-bones)
