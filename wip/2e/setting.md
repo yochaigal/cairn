@@ -44,7 +44,7 @@ To help create your setting's theme, answer the following questions:
 8. Number the dots, starting from the **Heart** and expanding outwards. The **Heart** is always **1**, and the **Frontier** is always the terminal number.
 
 #### Tips
-- You can increease the **Province Scale** by doubling the triangle in step **5**, then adding dots halfway between two points on any line (roads, trails, rivers, etc).
+- You can increase the **Province Scale** by doubling the size of the triangle in step **5**, then adding dots halfway between two points on any line (roads, trails, rivers, etc).
 - You can use other shapes (squares, rectangles, circles, etc) to create dots instead. You can even mix & match!
 - You can repeat this process for any adjacent **Provinces**, connecting them by road, river, or range. 
 
@@ -103,7 +103,7 @@ To help create your setting's theme, answer the following questions:
 
 ## Details
 - Each dot on the map is one **Detail**. **Details** act as [**Points**](/wip/2e/wilderness-exploration/#points) according to the [**Wilderness Exploration**](/wip/2e/wilderness-exploration) rules. Keep in mind how many **Watches** it might take to travel to each **Detail**. 
-- The **Heart** of a **Province** is always a settlement. It isn't necessarily the largest or most important place people live, but it does always have a significant history. 
+- The **Heart** of a **Province** is always a settlement. It isn't necessarily the largest or most important place in the setting, but it should always have a significant history. 
 - Assume there are small villages scattered around larger settlements. These do not need to be represented by dots or **Details**!   
 
 ### Adding Details
@@ -215,7 +215,7 @@ To help create your setting's theme, answer the following questions:
 | **2**   | **Ever-distant tower**      |
 | **3**   | **Trash heap**              |
 | **4**   | **Floating construct**      |
-| **5**   | **Unusual gravity**         |
+| **5**   | **Irregular gravity**       |
 | **6**   | **Singing stones**          |
 | **7**   | **Trees that move**         |
 | **8**   | **Buried giant**            |
@@ -225,7 +225,7 @@ To help create your setting's theme, answer the following questions:
 | **12**  | **Bloody battlefield**      |
 | **13**  | **Phasal trading post**     |
 | **14**  | **Frozen graveyard**        |
-| **15**  | **Primitive shipwreack**    |
+| **15**  | **Unusual shipwreck**       |
 | **16**  | **Illusory city**           |
 | **17**  | **Purple geysers**          |
 | **18**  | **Carnivorous plants**      |
@@ -270,7 +270,7 @@ To help create your setting's theme, answer the following questions:
 | beaches     | seaside, shore, coast, seaboard, foreshore, marina      |
 | bogs        | marsh, sump, mire, quad, morass, slough, fens           |
 | canyons     | ravine, gorge, gully, chasm, abyss, gulf, gulch         |
-| caverns     | grottoes, cavity, tunnels, dugout, caves         |
+| caverns     | grottoes, cavity, tunnels, dugout, caves                |
 | cliffs      | precipice, face, crag, bluff, ridge, escarpment, steep  |
 | desert      | dunes, sands, vasts, wastes, blight, borderlands        |
 | farmlands   | tillage, holding, acreage, steading, grange, plantation |
@@ -325,10 +325,10 @@ To help create your setting's theme, answer the following questions:
 | ------- | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | **d12** | **Faction Type**  | **Example Factions**                                                                                                                           |
 | **1**   | **Academic**      | _Royal Topographer's Society_. An upstart cartographer's guild, preparing to map the **Far Reaches**. Many have tried, but none have returned. |
-| **2**   | **Arcane**        | _The Syndak_. A league of wizards in search of an ancient power. They can't entrust its discovery to less experence hands.                     |
+| **2**   | **Arcane**        | _The Syndak_. A league of wizards in search of an ancient power. They can't entrust its discovery to less experienced hands.                     |
 | **3**   | **Cabal**         | _Praxis._ A secret society, its machinations shrouded in mystery. But its goal is all too clear: a new world order.                            |
 | **4**   | **Commoners**     | _Unite or Perish_. Together, they are strong. Together they can move mountains. But who do they really serve?                                  |
-| **5**   | **Criminal**      | _Missing Fingers_. An uneasy alliance of ruffians, thieves, and killers. Their boss is scariesst of them all.                                  |
+| **5**   | **Criminal**      | _Missing Fingers_. An uneasy alliance of ruffians, thieves, and killers. Their boss is the most terrifying of them all.                                  |
 | **6**   | **Government**    | _The Bloc_. Politicians, bureaucrats, tax collectors: they are everywhere. Who are they helping, besides themselves?                           |
 | **7**   | **Industrial**    | _The Iron Pantheon_. Workers, united by a charismatic and troubled leader. Fighting for a better life.                                         |
 | **8**   | **Mercantile**    | _Earnest Buyer's Club_. A cartel of beaming merchants, vendors, and trade experts. Followers of none, save for the almighty coin.              |
