@@ -360,7 +360,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |                |                  |                          |                                |
 | :-------------------: | :--------------: | :----------------------: | :----------------------------: |
 |          1-5          |       6-14       |          15-19           |               20               |
-| Dagger, Cudgel, Staff | Sword, Mace, Axe | Longbow, Crossbow, Sling | Halberd, War Hammer, Battleaxe |
+| Dagger, Cudgel, Staff | Sword, Mace, Axe | Bow, Crossbow, Sling | Halberd, War Hammer, Battleaxe |
 
 #### Expeditionary Gear
 
