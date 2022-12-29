@@ -40,7 +40,7 @@ Expand For Example
 
  **Esther**: _"As a former **Herbalist**, do I recognize this plant?"_
 
- **Warden**: _"Yes. You also knows that it is probably overgrown on account of the sunbeam drenching it in natural light."_
+ **Warden**: _"Yes. You also know that it is probably overgrown on account of the sunbeam drenching it in natural light."_
 
 **Esther**: _"What do the colors tell me about the plant? Is it poisonous? What about the green ichor?"_
 
