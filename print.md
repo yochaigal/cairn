@@ -28,7 +28,6 @@ A _deluxe_ print edition of Cairn can be purchased from the following places:
 
 ## CA
 - [Monkey's Paw Games](https://monkeyspawgames.com/collections/new-arrivals/products/cairn)
-- [Four Rogues Trading Company](https://www.fourroguestrading.co/collections/new-arrivals/products/cairn)
 - [ratti incantati](https://rattiincantati.com/products/cairn-pdf)
 
 ## UK
