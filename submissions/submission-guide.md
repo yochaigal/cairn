@@ -24,7 +24,7 @@ To create a page on the Cairn website, you need to create a text file with your 
 
  - First, you need to create a GitHub account and 'fork' the repo. See [fork this](/hacks/fork-this/), and this [GitHub documentation](https://docs.github.com/en/get-started/quickstart/fork-a-repo) for specific instructions and examples.
 > **You have now created a version of the website files that is entirely your own.** It's based on the original set of website files (in GitHub terms, the 'repository'), but the website does not look at your copy of the files at all. This gives you complete freedom to play around with edits before they get pushed to the main website.
-- If you would like to work on the files from your local computer, you will need ot install [git](https://git-scm.com/downloads).
+- If you would like to work on the files from your local computer, you will need to install [git](https://git-scm.com/downloads).
 > If you like editing files through installed programs, rather than in a web browser, this allows you to download and upload files easily to GitHub and have your method of choice for writing the webpages.
  - Clone the repository to your own computer. See [here](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-clone) for a tutorial.
 - Should you want to edit the files directly on your computer, this step does the mass-downloading of files onto your computer. 
