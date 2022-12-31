@@ -11,7 +11,7 @@ search_exclude: true
 
 ### Summary
 - A setting has a **Theme**, **Terrain**, **Details**, and **Factions**. 
-- See [this page](/wip/2e/example-setting) for an example setting.
+- See [this page](/wip/2e/example-setting) for an example setting, and generate (most) of the setting automatically with [this](https://perchance.org/cairn-setting-generator).
 - Distance is measured in [**Watches**](/wip/2e/wilderness-exploration/#travel), assuming that the party travels by foot and on maintained roads.
 
 ## Theme
@@ -325,7 +325,7 @@ To help create your setting's theme, answer the following questions:
 | ------- | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | **d12** | **Faction Type**  | **Example Factions**                                                                                                                           |
 | **1**   | **Academic**      | _Royal Topographer's Society_. An upstart cartographer's guild, preparing to map the **Far Reaches**. Many have tried, but none have returned. |
-| **2**   | **Arcane**        | _The Syndak_. A league of wizards in search of an ancient power. They can't entrust its discovery to less experienced hands.                     |
+| **2**   | **Arcane**        | _The Syndak_. A league of wizards in search of an ancient power. They cannot allow it to fall into the wrong hands.                     |
 | **3**   | **Cabal**         | _Praxis._ A secret society, its machinations shrouded in mystery. But its goal is all too clear: a new world order.                            |
 | **4**   | **Commoners**     | _Unite or Perish_. Together, they are strong. Together they can move mountains. But who do they really serve?                                  |
 | **5**   | **Criminal**      | _Missing Fingers_. An uneasy alliance of ruffians, thieves, and killers. Their boss is the most terrifying of them all.                                  |
