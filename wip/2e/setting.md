@@ -350,7 +350,7 @@ To help create your setting's theme, answer the following questions:
 | **6**   | **Magic**          | Relies on the arcane arts to carry out its agenda.                           | Wizards, spellswords, liches       |
 | **7**   | **Population**     | Boasts a large number of rank and file members.                              | Gangs, urchins, peddlers           |
 | **8**   | **Position**       | Relies on a unique geographic or political immunity.                         | Outlanders, criminals, politicians |
-| **9**   | **Resources**      | Keeps sway over a properties, assets, or source of power.                    | Workers, thugs, academics          |
+| **9**   | **Resources**      | Keeps sway over properties, assets, or source of power.                    | Workers, thugs, academics          |
 | **10**  | **Renown**         | Part of a de-facto regime, respected or feared.                              | Nobles, merchants, generals        |
 | **11**  | **Subterfuge**     | Moves unseen, achieving its goals through a cloak-and-dagger approach.       | Assassins, tricksters, thieves     |
 | **12**  | **Wealth**         | Affluent, using its riches to extend their influence and protect themselves. | Soldiers, officials, merchants     |
