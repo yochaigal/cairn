@@ -8,7 +8,7 @@ title: Through Ultan's Door One
 
 # Through Ultan’s Door One
 
-Based on [Through Ultan’s Door Issue 1](https://www.google.com/url?q=https://www.drivethrurpg.com/product/254659/Through-Ultans-Door-Issue-1&sa=D&source=editors&ust=1672527488476254&usg=AOvVaw3LwgJyx9COVFfEoDwzXNr7), by [Ben Laurence](https://www.google.com/url?q=http://maziriansgarden.blogspot.com/&sa=D&source=editors&ust=1672527488476490&usg=AOvVaw0DxQc8-ihhMqTbZuqC5FrP). 
+Based on [Through Ultan’s Door Issue 1](https://www.google.com/url?q=https://www.drivethrurpg.com/product/254659/Through-Ultans-Door-Issue-1&sa=D&source=editors&ust=1672527488476254&usg=AOvVaw3LwgJyx9COVFfEoDwzXNr7), by [Ben Laurence](http://maziriansgarden.blogspot.com/). 
 
 Conversion by lovelyzoo#7672.
 
