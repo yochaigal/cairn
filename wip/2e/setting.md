@@ -272,20 +272,22 @@ To help create your setting's theme, answer the following questions:
 
 #### Generating Names
 - Starting with the **Heart**, roll on the [Name Formulas](#name-formulas) table to name each **Detail** on the map. 
-- [**Nouns**] can be added to or even replace [**Adjectives**] on the table, e.g. **Bruna's Ugly Gulch**.
-- Use the [Terrain Synonyms](#terrain-synonyms) table for inspiration. Refer to the [Example Names](#example-names) for a model of each table result. 
- 
+- Roll on the [Adjectives](#adjectives) and [Nouns](#nouns) table where appropriate, and consult the [Terrain Synonyms](#terrain-synonyms) table for inspiration. 
+- Refer to the [Example Names](#example-names) for a model of each table result. [**Proper Nouns**] can be added to or even replace parts of a name, e.g. **Bruna's Ugly Gulch**. 
+
+| To roll 1d100, roll 2d10, using one die for the tens place, and one for the ones place.
+
 #### Name Formulas
 
-|           |                                   |
-| --------- | --------------------------------- |
-| **d12**   | **Name Template**                 |
-| **1-2**   | **[Adjective]** **[Terrain]**     |
-| **3-4**   | **[Adjective]** **[Detail]**      |
-| **5-6**   | **[Terrain]** **[Detail]**        |
-| **7-8**   | **[Detail]** **[Terrain]**        |
-| **9-10**  | The **[Detail]** **[Terrain]**    |
-| **11-12** | **[Terrain]** of the **[Detail]** |
+|           |                                 |
+| --------- | ------------------------------- |
+| **d12**   | **Name Template**               |
+| **1-2**   | **[Adjective]** **[Terrain]**   |
+| **3-4**   | **[Adjective]** **[Noun]**      |
+| **5-6**   | **[Terrain]** **[Noun]**        |
+| **7-8**   | **[Noun]** **[Terrain]**        |
+| **9-10**  | The **[Noun]** **[Terrain]**    |
+| **11-12** | **[Terrain]** of the **[Noun]** |
 
 #### Example Names
 - Cliffs / Ruins / Abandoned Settlement: 1-2 = **Forgotten Bluffs**
@@ -294,6 +296,219 @@ To help create your setting's theme, answer the following questions:
 - Canyons / Hazard / Poisonous foliage: 7-8 = **Bane Ravine**
 - Oasis / Special / Unusual gravity: 9-10 = **The Floating Spring** 
 - Grasslands / Landmark / Mysterious Megalith: 11-12 = **Field of the Stone Gods**
+
+#### Adjectives
+
+|          |                   |
+| -------- | ----------------- |
+| **d100** | **Adjective**     |
+| **1**    | **Aging**         |
+| **2**    | **Amber**         |
+| **3**    | **Ancient**       |
+| **4**    | **Angry**         |
+| **5**    | **Ashen**         |
+| **6**    | **Awe-inspiring** |
+| **7**    | **Bare**          |
+| **8**    | **Battered**      |
+| **9**    | **Bitter**        |
+| **10**   | **Blackened**     |
+| **11**   | **Blazing**       |
+| **12**   | **Bleak**         |
+| **13**   | **Blistering**    |
+| **14**   | **Blustery**      |
+| **15**   | **Boozy**         |
+| **16**   | **Breezy**        |
+| **17**   | **Broken**        |
+| **18**   | **Calm**          |
+| **19**   | **Celestial**     |
+| **20**   | **Choking**       |
+| **21**   | **Coiled**        |
+| **22**   | **Cold**          |
+| **23**   | **Colorful**      |
+| **24**   | **Crimson**       |
+| **25**   | **Curling**       |
+| **26**   | **Curvy**         |
+| **27**   | **Damp**          |
+| **28**   | **Dark**          |
+| **29**   | **Dazzling**      |
+| **30**   | **Dead**          |
+| **31**   | **Deathly**       |
+| **32**   | **Desolate**      |
+| **33**   | **Despairing**    |
+| **34**   | **Dismal**        |
+| **35**   | **Distraught**    |
+| **36**   | **Dreary**        |
+| **37**   | **Eerie**         |
+| **38**   | **Empty**         |
+| **39**   | **Endless**       |
+| **40**   | **Ethereal**      |
+| **41**   | **Fierce**        |
+| **42**   | **Flaming**       |
+| **43**   | **Flashing**      |
+| **44**   | **Foggy**         |
+| **45**   | **Forgotten**     |
+| **46**   | **Frozen**        |
+| **47**   | **Furious**       |
+| **48**   | **Gaping**        |
+| **49**   | **Gleaming**      |
+| **50**   | **Gloomy**        |
+| **51**   | **Glorious**      |
+| **52**   | **Glow**          |
+| **53**   | **Granite**       |
+| **54**   | **Grim**          |
+| **55**   | **Grimy**         |
+| **56**   | **Grizzled**      |
+| **57**   | **Hazy**          |
+| **58**   | **Heated**        |
+| **59**   | **Hellish**       |
+| **60**   | **Hideous**       |
+| **61**   | **Infernal**      |
+| **62**   | **Infuriated**    |
+| **63**   | **Jagged**        |
+| **64**   | **Lone**          |
+| **65**   | **Lonely**        |
+| **66**   | **Long**          |
+| **67**   | **Luminous**      |
+| **68**   | **Lurching**      |
+| **69**   | **Lustrous**      |
+| **70**   | **Majestic**      |
+| **71**   | **Miserable**     |
+| **72**   | **Misty**         |
+| **73**   | **Mournful**      |
+| **74**   | **Muddy**         |
+| **75**   | **Mysterious**    |
+| **76**   | **Narrow**        |
+| **77**   | **Ominous**       |
+| **78**   | **Petrified**     |
+| **79**   | **Plunging**      |
+| **80**   | **Prayer**        |
+| **81**   | **Proud**         |
+| **82**   | **Punishment**    |
+| **83**   | **Rainy**         |
+| **84**   | **Red**           |
+| **85**   | **Reflective**    |
+| **86**   | **Regretting**    |
+| **87**   | **Repentant**     |
+| **88**   | **Reproachful**   |
+| **89**   | **Rotting**       |
+| **90**   | **Ruin**          |
+| **91**   | **Savage**        |
+| **92**   | **Scary**         |
+| **93**   | **Screaming**     |
+| **94**   | **Shifting**      |
+| **95**   | **Shimmering**    |
+| **96**   | **Shining**       |
+| **97**   | **Shivering**     |
+| **98**   | **Shrouded**      |
+| **99**   | **Slaughter**     |
+| **100**  | **Victory**       |
+
+#### Nouns
+
+|          |                |
+| -------- | -------------- |
+| **d100** | **Nouns**      |
+| **1**    | **Aged**       |
+| **2**    | **Ancient**    |
+| **3**    | **Ash**        |
+| **4**    | **Barren**     |
+| **5**    | **Battered**   |
+| **6**    | **Blighted**   |
+| **7**    | **Blistered**  |
+| **8**    | **Bone**       |
+| **9**    | **Bright**     |
+| **10**   | **Burned**     |
+| **11**   | **Chilled**    |
+| **12**   | **Chipped**    |
+| **13**   | **Copper**     |
+| **14**   | **Crisp**      |
+| **15**   | **Crumbling**  |
+| **16**   | **Curled**     |
+| **17**   | **Curved**     |
+| **18**   | **Damp**       |
+| **19**   | **Dampened**   |
+| **20**   | **Dark**       |
+| **21**   | **Darkness**   |
+| **22**   | **Dead**       |
+| **23**   | **Death**      |
+| **24**   | **Decayed**    |
+| **25**   | **Decaying**   |
+| **26**   | **Dented**     |
+| **27**   | **Desolation** |
+| **28**   | **Despair**    |
+| **29**   | **Devil**      |
+| **30**   | **Dirty**      |
+| **31**   | **Doom**       |
+| **32**   | **Fate**       |
+| **33**   | **Fear**       |
+| **34**   | **Fire**       |
+| **35**   | **Flimsy**     |
+| **36**   | **Forbidden**  |
+| **37**   | **Fragile**    |
+| **38**   | **Frayed**     |
+| **39**   | **Frost**      |
+| **40**   | **Frozen**     |
+| **41**   | **Fury**       |
+| **42**   | **Ghost**      |
+| **43**   | **Giant**      |
+| **44**   | **God**        |
+| **45**   | **Gold**       |
+| **46**   | **Gummy**      |
+| **47**   | **Harsh**      |
+| **48**   | **Heaven**     |
+| **49**   | **Hell**       |
+| **50**   | **Honor**      |
+| **51**   | **Hope**       |
+| **52**   | **Horror**     |
+| **53**   | **Iron**       |
+| **54**   | **King**       |
+| **55**   | **Life**       |
+| **56**   | **Light**      |
+| **57**   | **Lonely**     |
+| **58**   | **Lord**       |
+| **59**   | **Mist**       |
+| **60**   | **Moldy**      |
+| **61**   | **Muddy**      |
+| **62**   | **Mushy**      |
+| **63**   | **Musty**      |
+| **64**   | **Old**        |
+| **65**   | **Overgrown**  |
+| **66**   | **Patched**    |
+| **67**   | **Peeling**    |
+| **68**   | **Peril**      |
+| **69**   | **Ragged**     |
+| **70**   | **Rain**       |
+| **71**   | **Red**        |
+| **72**   | **Refuge**     |
+| **73**   | **Regret**     |
+| **74**   | **Rotting**    |
+| **75**   | **Salty**      |
+| **76**   | **Shadow**     |
+| **77**   | **Sharp**      |
+| **78**   | **Shattered**  |
+| **79**   | **Silver**     |
+| **80**   | **Skull**      |
+| **81**   | **Sky**        |
+| **82**   | **Smoke**      |
+| **83**   | **Snake**      |
+| **84**   | **Soggy**      |
+| **85**   | **Sooty**      |
+| **86**   | **Sorrow**     |
+| **87**   | **Sparse**     |
+| **88**   | **Splintered** |
+| **89**   | **Stained**    |
+| **90**   | **Sticky**     |
+| **91**   | **Storm**      |
+| **92**   | **Sun**        |
+| **93**   | **Tattered**   |
+| **94**   | **Thin**       |
+| **95**   | **Thunder**    |
+| **96**   | **Toxic**      |
+| **97**   | **Troll**      |
+| **98**   | **Victory**    |
+| **99**   | **Warped**     |
+| **100**  | **Witch**      |
+
 
 #### Terrain Synonyms
 
