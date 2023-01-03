@@ -120,9 +120,6 @@ The Warden can roll on the [Cardinal Directions](#cardinal-directions) table to 
 | valley **(E)**     |
 | wasteland **(T)**  |
 
-
-
-
 ### Terrain Generation 
 
 |        |                |

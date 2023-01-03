@@ -149,21 +149,21 @@ To help create your setting's theme, answer the following questions:
 
 ##### Settlement Features
 
-|         |                              |
-| ------- | ---------------------------- |
-| **d12** | **Settlement Features**      |
-| **1**   | **Highly defensible**        |
-| **2**   | **Rich in natural deposits** |
-| **3**   | **Overpopulated**            |
-| **4**   | **Seat of government**       |
-| **5**   | **Factionally divided**      |
-| **6**   | **Lacking supplies**         |
-| **7**   | ****                         |
-| **8**   | ****                         |
-| **9**   | ****                         |
-| **10**  | ****                         |
-| **11**  | ****                         |
-| **12**  | ****                         |
+|         |                               |
+| ------- | ----------------------------- |
+| **d12** | **Settlement Features**       |
+| **1**   | **Highly defensible**         |
+| **2**   | **Rich in natural deposits**  |
+| **3**   | **Overpopulated**             |
+| **4**   | **Seat of government**        |
+| **5**   | **Factionally divided**       |
+| **6**   | **Lacking supplies**          |
+| **7**   | **Technologically advanced**  |
+| **8**   | **Renowned exports**          |
+| **9**   | **Reclusive**                 |
+| **10**  | **Built atop atop ruins**     |
+| **11**  | **Important to trade**        |
+| **12**  | **Ruled by powerful faction** |
 
 #### Ruins
 
