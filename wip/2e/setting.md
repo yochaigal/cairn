@@ -128,29 +128,42 @@ To help create your setting's theme, answer the following questions:
 
 #### Settlements
 
-|        |                |
-| ------ | -------------- |
-| **d6** | **Settlement** |
-| **1**  | **Town**       |
-| **2**  | **City**       |
-| **3**  | **Outpost**    |
-| **4**  | **Stronghold** |
-| **5**  | **Sanctuary**  |
-| **6**  | **Prison**     |
+|         |                  |
+| ------- | ---------------- |
+| **d12** | **Settlement**   |
+| **1**   | **Bivouac**      |
+| **2**   | **Campground**   |
+| **3**   | **Caravan**      |
+| **4**   | **Caravanserai** |
+| **5**   | **City**         |
+| **6**   | **Commune**      |
+| **7**   | **Outpost**      |
+| **8**   | **Prison**       |
+| **9**   | **Sanctuary**    |
+| **10**  | **Stronghold**   |
+| **11**  | **Town**         |
+| **12**  | **Villa**        |
+
 
 > Roll on the [Settlement Features](#settlement-features) table below.
 
 ##### Settlement Features
 
-|        |                              |
-| ------ | ---------------------------- |
-| **d6** | **Settlement Features**      |
-| **1**  | **Highly defensible**        |
-| **2**  | **Rich in natural deposits** |
-| **3**  | **Overpopulated**            |
-| **4**  | **Seat of government**       |
-| **5**  | **Factionally divided**      |
-| **6**  | **Lacking supplies**         |
+|         |                              |
+| ------- | ---------------------------- |
+| **d12** | **Settlement Features**      |
+| **1**   | **Highly defensible**        |
+| **2**   | **Rich in natural deposits** |
+| **3**   | **Overpopulated**            |
+| **4**   | **Seat of government**       |
+| **5**   | **Factionally divided**      |
+| **6**   | **Lacking supplies**         |
+| **7**   | ****                         |
+| **8**   | ****                         |
+| **9**   | ****                         |
+| **10**  | ****                         |
+| **11**  | ****                         |
+| **12**  | ****                         |
 
 #### Ruins
 
@@ -163,18 +176,30 @@ To help create your setting's theme, answer the following questions:
 | **4**  | **Sunken villa**          |
 | **5**  | **Dilapidated cottage**   |
 | **6**  | **Ancient prison**        |
+| **7**  | **Caved-in mine**   |
+| **8**  | ****        |
+| **9**  | ****   |
+| **10**  | ****        |
+| **11**  | ****        |
+| **12**  | ****        |
 
 #### Lairs
 
-|        |                      |
-| ------ | -------------------- |
-| **d6** | **Lair**             |
-| **1**  | **Faction hideout**  |
-| **2**  | **Blighted cave**    |
-| **3**  | **Sunken thicket**   |
-| **4**  | **Hidden burrow**    |
-| **5**  | **Colossal hive**    |
-| **6**  | **Primitive bridge** |
+|         |                       |
+| ------- | --------------------- |
+| **d12** | **Lair**              |
+| **1**   | **Blighted cave**     |
+| **2**   | **Colossal hive**     |
+| **3**   | **Crumbling tower**   |
+| **4**   | **Hidden burrow**     |
+| **5**   | **Illusory shelter**  |
+| **6**   | **Massive tree**      |
+| **7**   | **Primitive bridge**  |
+| **8**   | **Rusted metal cube** |
+| **9**   | **Shallow island**    |
+| **10**  | **Shipwreck**         |
+| **11**  | **Sunken thicket**    |
+| **12**  | **Toxic quarry**      |
 
 #### Hazards
 
@@ -187,23 +212,29 @@ To help create your setting's theme, answer the following questions:
 | **4**  | **Poisonous foliage** |
 | **5**  | **Perilous caverns**  |
 | **6**  | **Toxic mines**       |
+| **7**  | **Perilous caverns**  |
+| **8**  | **Toxic mines**       |
+| **9**  | **Toxic mines**       |
+| **10**  | **Toxic mines**       |
+| **11**  | **Toxic mines**       |
+| **12**  | **Toxic mines**       |
 
 #### Landmarks
 
 |         |                         |
 | ------- | ----------------------- |
 | **d12** | **Landmark**            |
-| **1**   | **Mysterious megalith** |
-| **2**   | **Glimmering cave**     |
-| **3**   | **Ancient tree**        |
-| **4**   | **Misty waterfall**     |
-| **5**   | **Oddly-shaped lake**   |
-| **6**   | **Fungus-covered well** |
-| **7**   | **Mass grave**          |
-| **8**   | **Giant skeleton**      |
-| **9**   | **Hot springs**         |
-| **10**  | **Enormous footprint**  |
-| **11**  | **Endless sinkholes**   |
+| **1**   | **Ancient tree**        |
+| **2**   | **Enormous footprint**  |
+| **3**   | **Endless sinkholes**   |
+| **4**   | **Fungus-covered well** |
+| **5**   | **Giant skeleton**      |
+| **6**   | **Glimmering cave**     |
+| **7**   | **Hot springs**         |
+| **8**   | **Mass grave**          |
+| **9**   | **Misty waterfall**     |
+| **10**  | **Mysterious megalith** |
+| **11**  | **Oddly-shaped lake**   |
 | **12**  | **Petrified trees**     |
 
 #### Special
@@ -212,25 +243,25 @@ To help create your setting's theme, answer the following questions:
 | ------- | --------------------------- |
 | **d20** | **Special**                 |
 | **1**   | **Ancient library**         |
-| **2**   | **Ever-distant tower**      |
-| **3**   | **Trash heap**              |
-| **4**   | **Floating construct**      |
-| **5**   | **Irregular gravity**       |
-| **6**   | **Singing stones**          |
-| **7**   | **Trees that move**         |
-| **8**   | **Buried giant**            |
-| **9**   | **Pristine but empty city** |
+| **2**   | **Bloody battlefield**      |
+| **3**   | **Buried giant**            |
+| **4**   | **Carnivorous plants**      |
+| **5**   | **Cult ritual site**        |
+| **6**   | **Ever-distant tower**      |
+| **7**   | **Frozen graveyard**        |
+| **8**   | **Floating construct**      |
+| **9**   | **Floating island**         |
 | **10**  | **Home of the folk witch**  |
-| **11**  | **Cult ritual site**        |
-| **12**  | **Bloody battlefield**      |
-| **13**  | **Phasal trading post**     |
-| **14**  | **Frozen graveyard**        |
-| **15**  | **Unusual shipwreck**       |
-| **16**  | **Illusory city**           |
-| **17**  | **Purple geysers**          |
-| **18**  | **Carnivorous plants**      |
-| **19**  | **Misty crater**            |
-| **20**  | **Floating island**         |
+| **11**  | **Illusory city**           |
+| **12**  | **Irregular gravity**       |
+| **13**  | **Misty crater**            |
+| **14**  | **Phasal trading post**     |
+| **15**  | **Pristine but empty city** |
+| **16**  | **Purple geysers**          |
+| **17**  | **Singing stones**          |
+| **18**  | **Strange Vessel**          |
+| **19**  | **Trash heap**              |
+| **20**  | **Trees that move**         |
 
 ### Detail Names
 - Settlements are often named after their unique features: the shape of the river nearby, or the large windmill in the town center. The residents then add a noun or adjective: _Windy Gulch, Black Tree Fort, Pitty Gardens_, etc.
@@ -325,10 +356,10 @@ To help create your setting's theme, answer the following questions:
 | ------- | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | **d12** | **Faction Type**  | **Example Factions**                                                                                                                           |
 | **1**   | **Academic**      | _Royal Topographer's Society_. An upstart cartographer's guild, preparing to map the **Far Reaches**. Many have tried, but none have returned. |
-| **2**   | **Arcane**        | _The Syndak_. A league of wizards in search of an ancient power. They cannot allow it to fall into the wrong hands.                     |
+| **2**   | **Arcane**        | _The Syndak_. A league of wizards in search of an ancient power. They cannot allow it to fall into the wrong hands.                            |
 | **3**   | **Cabal**         | _Praxis._ A secret society, its machinations shrouded in mystery. But its goal is all too clear: a new world order.                            |
 | **4**   | **Commoners**     | _Unite or Perish_. Together, they are strong. Together they can move mountains. But who do they really serve?                                  |
-| **5**   | **Criminal**      | _Missing Fingers_. An uneasy alliance of ruffians, thieves, and killers. Their boss is the most terrifying of them all.                                  |
+| **5**   | **Criminal**      | _Missing Fingers_. An uneasy alliance of ruffians, thieves, and killers. Their boss is the most terrifying of them all.                        |
 | **6**   | **Government**    | _The Bloc_. Politicians, bureaucrats, tax collectors: they are everywhere. Who are they helping, besides themselves?                           |
 | **7**   | **Industrial**    | _The Iron Pantheon_. Workers, united by a charismatic and troubled leader. Fighting for a better life.                                         |
 | **8**   | **Mercantile**    | _Earnest Buyer's Club_. A cartel of beaming merchants, vendors, and trade experts. Followers of none, save for the almighty coin.              |
@@ -350,7 +381,7 @@ To help create your setting's theme, answer the following questions:
 | **6**   | **Magic**          | Relies on the arcane arts to carry out its agenda.                           | Wizards, spellswords, liches       |
 | **7**   | **Population**     | Boasts a large number of rank and file members.                              | Gangs, urchins, peddlers           |
 | **8**   | **Position**       | Relies on a unique geographic or political immunity.                         | Outlanders, criminals, politicians |
-| **9**   | **Resources**      | Keeps sway over properties, assets, or source of power.                    | Workers, thugs, academics          |
+| **9**   | **Resources**      | Keeps sway over properties, assets, or source of power.                      | Workers, thugs, academics          |
 | **10**  | **Renown**         | Part of a de-facto regime, respected or feared.                              | Nobles, merchants, generals        |
 | **11**  | **Subterfuge**     | Moves unseen, achieving its goals through a cloak-and-dagger approach.       | Assassins, tricksters, thieves     |
 | **12**  | **Wealth**         | Affluent, using its riches to extend their influence and protect themselves. | Soldiers, officials, merchants     |
