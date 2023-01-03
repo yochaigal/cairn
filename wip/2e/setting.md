@@ -167,21 +167,22 @@ To help create your setting's theme, answer the following questions:
 
 #### Ruins
 
-|        |                           |
-| ------ | ------------------------- |
-| **d6** | **Ruins**                 |
-| **1**  | **Forsaken temple**       |
-| **2**  | **Ransacked tomb**        |
-| **3**  | **Abandonded settlement** |
-| **4**  | **Sunken villa**          |
-| **5**  | **Dilapidated cottage**   |
-| **6**  | **Ancient prison**        |
-| **7**  | **Caved-in mine**   |
-| **8**  | ****        |
-| **9**  | ****   |
-| **10**  | ****        |
-| **11**  | ****        |
-| **12**  | ****        |
+|         |                           |
+| ------- | ------------------------- |
+| **d12** | **Ruins**                 |
+| **1**   | **Ancient prison**        |
+| **2**   | **Collapsed aqueduct**    |
+| **3**   | **Crumbling tower**       |
+| **4**   | **Eroded arches**         |
+| **5**   | **Fallen obelisk**        |
+| **6**   | **Forsaken graveyard**    |
+| **7**   | **Neglected lighthouse**  |
+| **8**   | **Overgrown garden maze** |
+| **9**   | **Primeval stone circle** |
+| **10**  | **Rotted mill**           |
+| **11**  | **Swaying minaret**       |
+| **12**  | **Weathered temple**      |
+
 
 #### Lairs
 
@@ -203,21 +204,22 @@ To help create your setting's theme, answer the following questions:
 
 #### Hazards
 
-|        |                       |
-| ------ | --------------------- |
-| **d6** | **Hazard**            |
-| **1**  | **Boiling liquid**    |
-| **2**  | **Weak ground**       |
-| **3**  | **Permanent fog**     |
-| **4**  | **Poisonous foliage** |
-| **5**  | **Perilous caverns**  |
-| **6**  | **Toxic mines**       |
-| **7**  | **Perilous caverns**  |
-| **8**  | **Toxic mines**       |
-| **9**  | **Toxic mines**       |
-| **10**  | **Toxic mines**       |
-| **11**  | **Toxic mines**       |
-| **12**  | **Toxic mines**       |
+|         |                       |
+| ------- | --------------------- |
+| **d12** | **Hazard**            |
+| **1**   | **Acid rain**         |
+| **2**   | **Avian predators**   |
+| **3**   | **Dense fog**         |
+| **4**   | **Drought**           |
+| **5**   | **Dust storms**       |
+| **6**   | **Flooding**          |
+| **7**   | **Molten lava**       |
+| **8**   | **Poisonous foliage** |
+| **9**   | **Toxic water**       |
+| **10**  | **Venomous insects**  |
+| **11**  | **Weak ground**       |
+| **12**  | **Wildfires**         |
+
 
 #### Landmarks
 
