@@ -1,0 +1,298 @@
+Settlement
+Hamlet
+Village
+Fort
+Outpost
+Trading post
+Farming community
+
+SettlementFeatures
+Wealthy merchant class
+Artisan hub
+Religious center
+Military training grounds
+Famed for its food
+Known for its festivals
+
+Ruins
+Collapsed castle
+Crumbling mansion
+Abandoned monastery
+Desolate graveyard
+Decrepit mill
+Ruined theater
+
+Lair
+Bandit hideout
+Dark forest grove
+Marshland retreat
+Underwater cave
+Hidden valley
+Mountain fortress
+
+Hazard
+Quicksand pits
+Flash flooding
+Wildfire-prone area
+Stormy weather
+Strong winds
+Extreme temperatures
+
+Landmark
+Ancient tower
+Monumental statue
+Mysterious circle of stones
+Sunken ship
+Abandoned lighthouse
+Enormous tree
+Sprawling field of flowers
+Giant waterfall
+Mysterious whirlpool
+Spectral graveyard
+Enchanted glade
+Cursed mansion
+Magical portal
+
+Special
+Enormous, ancient tree
+Frozen lake
+Enormous, crystal-clear cave
+Abandoned temple
+Enormous, ancient monument
+Enormous, ancient ruin
+
+Details
+<i>[Forgotten Road]</i> (roll on Forgotten Road)
+<i>[Haunted House]</i> (roll on Haunted House)
+<i>[Arcanum]</i> (roll on Arcanum)
+<i>[Enchantment]</i> (roll on Enchantment)
+<i>[Anomaly]</i> (roll on Anomaly)
+<i>[Conundrum]</i> (roll on Conundrum)
+
+Settlement
+Village
+Metropolis
+Military base
+Agora
+Hamlet
+Burgh
+
+SettlementFeatures
+Strategically located
+Rich in agriculture
+Excessively law-abiding
+Historically significant
+A hub for trade
+Technologically advanced
+
+Ruins
+Haunted castle
+Abandoned laboratory
+Desecrated burial ground
+Collapsed mine
+Overgrown garden
+Cursed mansion
+
+Lair
+Monster's den
+Bandit hideout
+Secret laboratory
+Forbidden temple
+Haunted asylum
+Illicit gambling ring
+
+Hazard
+Magnetic field
+Acidic rainfall
+Radioactive wasteland
+Sonic waves
+Time dilation
+Gravity fluctuations
+
+Landmark
+Floating mountain
+Giant crystal
+Living statue
+Time portal
+Portal to another dimension
+Wormhole
+Dimension rift
+Colossal tree
+Enormous mushroom
+Cursed fountain
+Phantom bridge
+Perpetual eclipse
+Enormous geyser
+Mysterious obelisk
+Enormous flower
+Ever-burning fire
+Enormous iceberg
+Gravity-defying mountain
+Melting glacier
+
+Forgotten Road
+Road to nowhere
+Road that changes direction
+Road that changes length
+Road that leads to alternate reality
+Road that disappears and reappears
+Road
+
+Details
+<i>[Laboratory]</i>. (roll on LaboratoryFeatures)
+<i>[Fortress]</i> (roll on Fortress)
+<i>[Enclave]</i> (roll on Enclave)
+<i>[Zone]</i> (Roll on Zone)
+<i>[Curiosity]</i> (roll on Curiosity)
+<i>[Place of Power]</i>.
+
+Laboratory
+Secret research facility
+Arcane workshop
+Bioengineering center
+Technomancy laboratory
+Energy research station
+Ghost containment unit
+
+LaboratoryFeatures
+Protected by powerful wards
+Utilizes forbidden technology
+Contains dangerous experiments
+Run by mad scientists
+Housed in an abandoned skyscraper
+Powered by a stolen artifact
+
+Fortress
+Impregnable citadel
+Ancient castle
+Giant walled city
+Floating fortress
+Futuristic military base
+Underwater base
+
+Enclave
+Hidden elf village
+Goblin market
+Faerie grove
+Dryad grove
+Centaur herd
+Satyr village
+
+Zone
+Radioactive wasteland
+Cursed forest
+Haunted swamp
+Burning desert
+Glacial tundra
+Acid rain region
+
+Curiosity
+Crystal cave
+Rainbow waterfall
+Time-looping grove
+Shapeshifting pond
+Teleporting tree
+Reality-warping portal
+
+Place of Power
+Dragon's hoard
+Elemental nexus
+Altar of the gods
+Well of souls
+Portal to the abyss
+Heavenly gate
+
+d6	Settlement
+7	Fort
+8	Castle
+9	Monastery
+10	Keep
+11	Fortress
+12	Villa
+
+Settlement Features
+d6	Settlement Features
+7	Wealthy
+8	Pleasure garden
+9	Enormous market
+10	Full of thieves
+11	High taxes
+12	Ruled by iron-fisted leader
+
+Ruins
+d6	Ruins
+7	Abandoned keep
+8	Collapsed watchtower
+9	Frozen fortress
+10	Creepy graveyard
+11	Deserted military camp
+12	Overgrown garden
+
+d6	Settlement
+1	Fort
+2	Citadel
+3	Camp
+4	Keep
+5	Asylum
+6	Jail
+Ruins
+
+d6	Ruins
+1	Desecrated chapel
+2	Plundered crypt
+3	Abandoned manor
+4	Collapsed tower
+5	Rotting cottage
+6	Forgotten gaol
+
+Lairs
+d6	Lair
+1	Enemy fortification
+2	Tainted grotto
+3	Concealed copse
+4	Surreptitious burrow
+5	Gigantic nest
+6	Primitive bridge
+
+d6	Settlement
+1	Fortress
+2	Thorp
+3	Hamlet
+4	Berg
+5	Keep
+6	Castle
+
+Ruins
+d6	Ruins
+1	Haunted keep
+2	Abandoned monastery
+3	Overgrown garden
+4	Collapsed bridge
+5	Sunken shipwreck
+6	Haunted mansion
+Lair
+d6	Lair
+1	Bandit hideout
+2	Goblin cave
+3	Dragon's hoard
+4	Pirate den
+5	Ancient ruin
+6	Haunted ruin
+Hazard
+d6	Hazard
+1	Quicksand
+2	Toxic mist
+
+
+A field of razor-sharp blades that move with the wind
+A towering wall of water that crashes down every hour
+A cloud of toxic gas that randomly shifts location
+A section of the land that is always on fire
+A region where the air is so thin that it is difficult to breathe
+A dense, impenetrable fog that causes hallucinations
+A series of pits filled with venomous snakes
+A network of underground tunnels that are prone to cave-ins
+A lake that is infused with a powerful acid
+A forest of carnivorous trees that lure prey with hypnotic sounds
+A mountain that constantly erupts with fiery lava
+A desert where sandstorms are a daily occurrence
