@@ -272,7 +272,7 @@ To help create your setting's theme, answer the following questions:
 | canyons     | ravine, gorge, gully, chasm, abyss, gulf, gulch         |
 | caverns     | grottoes, cavity, tunnels, dugout, caves                |
 | cliffs      | precipice, face, crag, bluff, ridge, escarpment, steep  |
-| desert      | dunes, sands, vasts, wastes, blight, borderlands        |
+| desert      | dunes, sands, vasts, wastes, blight, erg                |
 | farmlands   | tillage, holding, acreage, steading, grange, plantation |
 | forest      | bush, woods, woodland, weald, grove, copse              |
 | grasslands  | pasture, steppe, prairie, savanna, fields, greenery     |
@@ -288,7 +288,7 @@ To help create your setting's theme, answer the following questions:
 | sea         | _See beaches_                                           |
 | swamp       | mire, morass, quag, moors, sump, wetlands               |
 | thickets    | chaparral, boscage, covert, coppice, fells              |
-| tundra      | expanse, prairie, steppe, boreal, ley          |
+| tundra      | expanse, prairie, steppe, boreal, ley                   |
 | valley      | dale, vale, basin, gully, gorge, gap, glen              |
 | wasteland   | _See desert_                                            |
 
