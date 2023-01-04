@@ -10,9 +10,6 @@ search_exclude: true
 # Setting
 
 ## Index
-<details>
-  <summary>Click me</summary>
- 
 - [Setting](#setting)
   - [Index](#index)
     - [Summary](#summary)
@@ -56,9 +53,8 @@ search_exclude: true
     - [Faction Rules](#faction-rules)
       - [Faction Actions](#faction-actions)
   - [Province Name](#province-name)
+    - [Generate a Province Name](#generate-a-province-name)
   - [Conclusion](#conclusion)
-
-</details>
 
 ### Summary
 - A setting has a **Theme**, **Terrain**, **Details**, and **Factions**. 
@@ -630,6 +626,12 @@ Consider the following when determining the **Province** name:
 - What sort of factions have historically dominated this place?
 - A name may also include a reference to the region's relative position to the seat of power: _The Northeast Redoubt_, _Western Ranges_, etc.
 - The name (first, or family) of a "discoverer", conquerer or colonizer often sticks around long after their death.
+
+### Generate a Province Name
+1. Consider the dominant terrain, either by earlier table results or personal choice. 
+2. Look at the synonyms table for that terrain, e.g. "Cliffs = Bluffs". 
+3. Roll on the [Adjectives](#adjectives) table, e.g. "Luminous."
+4. Combine the result with the terrain synonym into a single word preceded by "The", e.g. "The Luminous Bluffs."
 
 ## Conclusion
 Congratulations, your **Province** is complete! You can now "drill down" into various locations (starting with the **Heart**) and build out each **Detail** on your own favorite tables. Keep the following thoughts in mind as you go:
