@@ -299,216 +299,115 @@ To help create your setting's theme, answer the following questions:
 
 #### Adjectives
 
-|          |                |
-| -------- | -------------- |
-| **d100** | **Adjective**  |
-| **1**    | **Aging**      |
-| **2**    | **Amber**      |
-| **3**    | **Ancient**    |
-| **4**    | **Angry**      |
-| **5**    | **Ashen**      |
-| **6**    | **Bare**       |
-| **7**    | **Battered**   |
-| **8**    | **Bitter**     |
-| **9**    | **Blackened**  |
-| **10**   | **Blazing**    |
-| **11**   | **Bleak**      |
-| **12**   | **Blighted**   |
-| **13**   | **Blistered**  |
-| **14**   | **Blistering** |
-| **15**   | **Blustery**   |
-| **16**   | **Breezy**     |
-| **17**   | **Bright**     |
-| **18**   | **Broad**      |
-| **19**   | **Calm**       |
-| **20**   | **Celestial**  |
-| **21**   | **Choking**    |
-| **22**   | **Cold**       |
-| **23**   | **Colorful**   |
-| **24**   | **Copper**     |
-| **25**   | **Cracked**    |
-| **26**   | **Crimson**    |
-| **27**   | **Crumbling**  |
-| **28**   | **Curled**     |
-| **29**   | **Curling**    |
-| **30**   | **Curved**     |
-| **31**   | **Curvy**      |
-| **32**   | **Dampened**   |
-| **33**   | **Dark**       |
-| **34**   | **Dazzling**   |
-| **35**   | **Dead**       |
-| **36**   | **Deathly**    |
-| **37**   | **Diamond**    |
-| **38**   | **Dismal**     |
-| **39**   | **Dreary**     |
-| **40**   | **Empty**      |
-| **41**   | **Endless**    |
-| **42**   | **Fierce**     |
-| **43**   | **Flaming**    |
-| **44**   | **Flashing**   |
-| **45**   | **Foggy**      |
-| **46**   | **Forbidden**  |
-| **47**   | **Forgotten**  |
-| **48**   | **Fragile**    |
-| **49**   | **Frayed**     |
-| **50**   | **Frozen**     |
-| **51**   | **Furious**    |
-| **52**   | **Gaping**     |
-| **53**   | **Gleaming**   |
-| **54**   | **Glow**       |
-| **55**   | **Granite**    |
-| **56**   | **Grim**       |
-| **57**   | **Grizzled**   |
-| **58**   | **Hazy**       |
-| **59**   | **Heated**     |
-| **60**   | **Hellish**    |
-| **61**   | **Hideous**    |
-| **62**   | **Jagged**     |
-| **63**   | **Lone**       |
-| **64**   | **Lonely**     |
-| **65**   | **Luminous**   |
-| **66**   | **Lurching**   |
-| **67**   | **Lustrous**   |
-| **68**   | **Miserable**  |
-| **69**   | **Misty**      |
-| **70**   | **Mournful**   |
-| **71**   | **Muddy**      |
-| **72**   | **Narrow**     |
-| **73**   | **Ominous**    |
-| **74**   | **Overgrown**  |
-| **75**   | **Patched**    |
-| **76**   | **Peeling**    |
-| **77**   | **Plunging**   |
-| **78**   | **Ragged**     |
-| **79**   | **Rotting**    |
-| **80**   | **Salty**      |
-| **81**   | **Savage**     |
-| **82**   | **Shifting**   |
-| **83**   | **Shimmering** |
-| **84**   | **Shining**    |
-| **85**   | **Shivering**  |
-| **86**   | **Shrouded**   |
-| **87**   | **Singed**     |
-| **88**   | **Sinking**    |
-| **89**   | **Slaughter**  |
-| **90**   | **Smoky**      |
-| **91**   | **Soggy**      |
-| **92**   | **Sour**       |
-| **93**   | **Sputtering** |
-| **94**   | **Stained**    |
-| **95**   | **Starved**    |
-| **96**   | **Stinking**   |
-| **97**   | **Stuffed**    |
-| **98**   | **Sunken**     |
-| **99**   | **Thin**       |
-| **100**  | **Withered**   |
+|          |                |         |                |
+| -------- | -------------- | ------- | -------------- |
+| **d100** | **Adjective**  |         |                |
+| **1**    | **Aging**      | **51**  | **Furious**    |
+| **2**    | **Amber**      | **52**  | **Gaping**     |
+| **3**    | **Ancient**    | **53**  | **Gleaming**   |
+| **4**    | **Angry**      | **54**  | **Glow**       |
+| **5**    | **Ashen**      | **55**  | **Granite**    |
+| **6**    | **Bare**       | **56**  | **Grim**       |
+| **7**    | **Battered**   | **57**  | **Grizzled**   |
+| **8**    | **Bitter**     | **58**  | **Hazy**       |
+| **9**    | **Blackened**  | **59**  | **Heated**     |
+| **10**   | **Blazing**    | **60**  | **Hellish**    |
+| **11**   | **Bleak**      | **61**  | **Hideous**    |
+| **12**   | **Blighted**   | **62**  | **Jagged**     |
+| **13**   | **Blistered**  | **63**  | **Lone**       |
+| **14**   | **Blistering** | **64**  | **Lonely**     |
+| **15**   | **Blustery**   | **65**  | **Luminous**   |
+| **16**   | **Breezy**     | **66**  | **Lurching**   |
+| **17**   | **Bright**     | **67**  | **Lustrous**   |
+| **18**   | **Broad**      | **68**  | **Miserable**  |
+| **19**   | **Calm**       | **69**  | **Misty**      |
+| **20**   | **Celestial**  | **70**  | **Mournful**   |
+| **21**   | **Choking**    | **71**  | **Muddy**      |
+| **22**   | **Cold**       | **72**  | **Narrow**     |
+| **23**   | **Colorful**   | **73**  | **Ominous**    |
+| **24**   | **Copper**     | **74**  | **Overgrown**  |
+| **25**   | **Cracked**    | **75**  | **Patched**    |
+| **26**   | **Crimson**    | **76**  | **Peeling**    |
+| **27**   | **Crumbling**  | **77**  | **Plunging**   |
+| **28**   | **Curled**     | **78**  | **Ragged**     |
+| **29**   | **Curling**    | **79**  | **Rotting**    |
+| **30**   | **Curved**     | **80**  | **Salty**      |
+| **31**   | **Curvy**      | **81**  | **Savage**     |
+| **32**   | **Dampened**   | **82**  | **Shifting**   |
+| **33**   | **Dark**       | **83**  | **Shimmering** |
+| **34**   | **Dazzling**   | **84**  | **Shining**    |
+| **35**   | **Dead**       | **85**  | **Shivering**  |
+| **36**   | **Deathly**    | **86**  | **Shrouded**   |
+| **37**   | **Diamond**    | **87**  | **Singed**     |
+| **38**   | **Dismal**     | **88**  | **Sinking**    |
+| **39**   | **Dreary**     | **89**  | **Slaughter**  |
+| **40**   | **Empty**      | **90**  | **Smoky**      |
+| **41**   | **Endless**    | **91**  | **Soggy**      |
+| **42**   | **Fierce**     | **92**  | **Sour**       |
+| **43**   | **Flaming**    | **93**  | **Sputtering** |
+| **44**   | **Flashing**   | **94**  | **Stained**    |
+| **45**   | **Foggy**      | **95**  | **Starved**    |
+| **46**   | **Forbidden**  | **96**  | **Stinking**   |
+| **47**   | **Forgotten**  | **97**  | **Stuffed**    |
+| **48**   | **Fragile**    | **98**  | **Sunken**     |
+| **49**   | **Frayed**     | **99**  | **Thin**       |
+| **50**   | **Frozen**     | **100** | **Withered**   |
 
 #### Nouns
 
-|          |                |
-| -------- | -------------- |
-| **d100** | **Nouns**      |
-| **1**    | **Ash**        |
-| **2**    | **Barren**     |
-| **3**    | **Battered**   |
-| **4**    | **Black**      |
-| **5**    | **Blighted**   |
-| **6**    | **Blistered**  |
-| **7**    | **Blue**       |
-| **8**    | **Bone**       |
-| **9**    | **Bright**     |
-| **10**   | **Burned**     |
-| **11**   | **Chilled**    |
-| **12**   | **Chipped**    |
-| **13**   | **Copper**     |
-| **14**   | **Cracked**    |
-| **15**   | **Curled**     |
-| **16**   | **Curved**     |
-| **17**   | **Damp**       |
-| **18**   | **Dampened**   |
-| **19**   | **Dark**       |
-| **20**   | **Darkness**   |
-| **21**   | **Dead**       |
-| **22**   | **Death**      |
-| **23**   | **Decayed**    |
-| **24**   | **Dented**     |
-| **25**   | **Desolation** |
-| **26**   | **Despair**    |
-| **27**   | **Devil**      |
-| **28**   | **Dirty**      |
-| **29**   | **Doom**       |
-| **30**   | **Fate**       |
-| **31**   | **Fear**       |
-| **32**   | **Fire**       |
-| **33**   | **Flimsy**     |
-| **34**   | **Forbidden**  |
-| **35**   | **Fragile**    |
-| **36**   | **Frayed**     |
-| **37**   | **Frost**      |
-| **38**   | **Frozen**     |
-| **39**   | **Fury**       |
-| **40**   | **Ghost**      |
-| **41**   | **Giant**      |
-| **42**   | **God**        |
-| **43**   | **Gold**       |
-| **44**   | **Green**      |
-| **45**   | **Gummy**      |
-| **46**   | **Harsh**      |
-| **47**   | **Heaven**     |
-| **48**   | **Hell**       |
-| **49**   | **Honor**      |
-| **50**   | **Hope**       |
-| **51**   | **Horror**     |
-| **52**   | **Iron**       |
-| **53**   | **King**       |
-| **54**   | **Life**       |
-| **55**   | **Light**      |
-| **56**   | **Lord**       |
-| **57**   | **Mist**       |
-| **58**   | **Moldy**      |
-| **59**   | **Muddy**      |
-| **60**   | **Mushy**      |
-| **61**   | **Musty**      |
-| **62**   | **Nightmare**  |
-| **63**   | **Old**        |
-| **64**   | **Ominous**    |
-| **65**   | **Overgrown**  |
-| **66**   | **Patched**    |
-| **67**   | **Peril**      |
-| **68**   | **Purple**     |
-| **69**   | **Ragged**     |
-| **70**   | **Rain**       |
-| **71**   | **Red**        |
-| **72**   | **Refuge**     |
-| **73**   | **Regret**     |
-| **74**   | **Rotting**    |
-| **75**   | **Ruin**       |
-| **76**   | **Salty**      |
-| **77**   | **Shadow**     |
-| **78**   | **Sharp**      |
-| **79**   | **Shattered**  |
-| **80**   | **Silver**     |
-| **81**   | **Skull**      |
-| **82**   | **Sky**        |
-| **83**   | **Smoke**      |
-| **84**   | **Snake**      |
-| **85**   | **Sorrow**     |
-| **86**   | **Sparse**     |
-| **87**   | **Sticky**     |
-| **88**   | **Storm**      |
-| **89**   | **Sun**        |
-| **90**   | **Tattered**   |
-| **91**   | **Terror**     |
-| **92**   | **Thin**       |
-| **93**   | **Thunder**    |
-| **94**   | **Toxic**      |
-| **95**   | **Troll**      |
-| **96**   | **Ugly**       |
-| **97**   | **Victory**    |
-| **98**   | **War**        |
-| **99**   | **Warped**     |
-| **100**  | **Witch**      |
-
+|          |                |         |               |
+| -------- | -------------- | ------- | ------------- |
+| **d100** | **Nouns**      |         |               |
+| **1**    | **Ash**        | **51**  | **Horror**    |
+| **2**    | **Barren**     | **52**  | **Iron**      |
+| **3**    | **Battered**   | **53**  | **King**      |
+| **4**    | **Black**      | **54**  | **Life**      |
+| **5**    | **Blighted**   | **55**  | **Light**     |
+| **6**    | **Blistered**  | **56**  | **Lord**      |
+| **7**    | **Blue**       | **57**  | **Mist**      |
+| **8**    | **Bone**       | **58**  | **Moldy**     |
+| **9**    | **Bright**     | **59**  | **Muddy**     |
+| **10**   | **Burned**     | **60**  | **Mushy**     |
+| **11**   | **Chilled**    | **61**  | **Musty**     |
+| **12**   | **Chipped**    | **62**  | **Nightmare** |
+| **13**   | **Copper**     | **63**  | **Old**       |
+| **14**   | **Cracked**    | **64**  | **Ominous**   |
+| **15**   | **Curled**     | **65**  | **Overgrown** |
+| **16**   | **Curved**     | **66**  | **Patched**   |
+| **17**   | **Damp**       | **67**  | **Peril**     |
+| **18**   | **Dampened**   | **68**  | **Purple**    |
+| **19**   | **Dark**       | **69**  | **Ragged**    |
+| **20**   | **Darkness**   | **70**  | **Rain**      |
+| **21**   | **Dead**       | **71**  | **Red**       |
+| **22**   | **Death**      | **72**  | **Refuge**    |
+| **23**   | **Decayed**    | **73**  | **Regret**    |
+| **24**   | **Dented**     | **74**  | **Rotting**   |
+| **25**   | **Desolation** | **75**  | **Ruin**      |
+| **26**   | **Despair**    | **76**  | **Salty**     |
+| **27**   | **Devil**      | **77**  | **Shadow**    |
+| **28**   | **Dirty**      | **78**  | **Sharp**     |
+| **29**   | **Doom**       | **79**  | **Shattered** |
+| **30**   | **Fate**       | **80**  | **Silver**    |
+| **31**   | **Fear**       | **81**  | **Skull**     |
+| **32**   | **Fire**       | **82**  | **Sky**       |
+| **33**   | **Flimsy**     | **83**  | **Smoke**     |
+| **34**   | **Forbidden**  | **84**  | **Snake**     |
+| **35**   | **Fragile**    | **85**  | **Sorrow**    |
+| **36**   | **Frayed**     | **86**  | **Sparse**    |
+| **37**   | **Frost**      | **87**  | **Sticky**    |
+| **38**   | **Frozen**     | **88**  | **Storm**     |
+| **39**   | **Fury**       | **89**  | **Sun**       |
+| **40**   | **Ghost**      | **90**  | **Tattered**  |
+| **41**   | **Giant**      | **91**  | **Terror**    |
+| **42**   | **God**        | **92**  | **Thin**      |
+| **43**   | **Gold**       | **93**  | **Thunder**   |
+| **44**   | **Green**      | **94**  | **Toxic**     |
+| **45**   | **Gummy**      | **95**  | **Troll**     |
+| **46**   | **Harsh**      | **96**  | **Ugly**      |
+| **47**   | **Heaven**     | **97**  | **Victory**   |
+| **48**   | **Hell**       | **98**  | **War**       |
+| **49**   | **Honor**      | **99**  | **Warped**    |
+| **50**   | **Hope**       | **100** | **Witch**     |
 
 #### Terrain Synonyms
 
