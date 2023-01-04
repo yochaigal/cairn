@@ -275,7 +275,7 @@ To help create your setting's theme, answer the following questions:
 - Roll on the [Adjectives](#adjectives) and [Nouns](#nouns) table where appropriate, and consult the [Terrain Synonyms](#terrain-synonyms) table for inspiration. 
 - Refer to the [Example Names](#example-names) for a model of each table result. [**Proper Nouns**] can be added to or even replace parts of a name, e.g. **Bruna's Ugly Gulch**. 
 
-| To roll 1d100, roll 2d10, using one die for the tens place, and one for the ones place.
+| To roll **1d100**, roll **2d10**, using one die for the tens place, and one die for the ones place.
 
 #### Name Formulas
 
@@ -421,7 +421,7 @@ To help create your setting's theme, answer the following questions:
 | **11**   | **Chilled**    |
 | **12**   | **Chipped**    |
 | **13**   | **Copper**     |
-| **14**   | **Crisp**      |
+| **14**   | **Cracked**    |
 | **15**   | **Crumbling**  |
 | **16**   | **Curled**     |
 | **17**   | **Curved**     |
@@ -509,36 +509,35 @@ To help create your setting's theme, answer the following questions:
 | **99**   | **Warped**     |
 | **100**  | **Witch**      |
 
-
 #### Terrain Synonyms
 
-|             |                                                         |
-| ----------- | ------------------------------------------------------- |
-| **Terrain** | **Synonym**                                             |
-| beaches     | seaside, shore, coast, seaboard, foreshore, marina      |
-| bogs        | marsh, sump, mire, quad, morass, slough, fens           |
-| canyons     | ravine, gorge, gully, chasm, abyss, gulf, gulch         |
-| caverns     | grottoes, cavity, tunnels, dugout, caves                |
-| cliffs      | precipice, face, crag, bluff, ridge, escarpment, steep  |
-| desert      | dunes, sands, vasts, wastes, blight, erg                |
-| farmlands   | tillage, holding, acreage, steading, grange, plantation |
-| forest      | bush, woods, woodland, weald, grove, copse              |
-| grasslands  | pasture, steppe, prairie, savanna, fields, greenery     |
-| hills       | hillock, mound, mount, knoll, hummock, slope            |
-| hollows     | dip, hole, pit, cavity, crater, trough, holes           |
-| jungle      | _See forest_                                            |
-| lakes       | pond, pool, tarn, lagoon, loch, bayou                   |
-| mountains   | peaks, ridge, range, summit, pinnacle, butte            |
-| oasis       | spring, well, fountain, haven, watering hole, refuge    |
-| plains      | heath, meadow, veldt, flats, lowlands, sward            |
-| plateau     | uplands, mesa, highlands, downs, reach                  |
-| river       | waterway, stream, brook, runnel creek, channel          |
-| sea         | _See beaches_                                           |
-| swamp       | mire, morass, quag, moors, sump, wetlands               |
-| thickets    | chaparral, boscage, covert, coppice, fells              |
-| tundra      | expanse, prairie, steppe, boreal, ley                   |
-| valley      | dale, vale, basin, gully, gorge, gap, glen              |
-| wasteland   | _See desert_                                            |
+|                |                                                         |
+| -------------- | ------------------------------------------------------- |
+| **Terrain**    | **Synonym**                                             |
+| **beaches**    | seaside, shore, coast, seaboard, foreshore, marina      |
+| **bogs**       | marsh, sump, mire, quad, morass, slough, fens           |
+| **canyons**    | ravine, gorge, gully, chasm, abyss, gulf, gulch         |
+| **caverns**    | grottoes, cavity, tunnels, dugout, caves                |
+| **cliffs**     | precipice, face, crag, bluff, ridge, escarpment, steep  |
+| **desert**     | dunes, sands, vasts, wastes, blight, erg                |
+| **farmlands**  | tillage, holding, acreage, steading, grange, plantation |
+| **forest**     | bush, woods, woodland, weald, grove, copse              |
+| **grasslands** | pasture, steppe, prairie, savanna, fields, greenery     |
+| **hills**      | hillock, mound, mount, knoll, hummock, slope            |
+| **hollows**    | dip, hole, pit, cavity, crater, trough, holes           |
+| **jungle**     | _See forest_                                            |
+| **lakes**      | pond, pool, tarn, lagoon, loch, bayou                   |
+| **mountains**  | peaks, ridge, range, summit, pinnacle, butte            |
+| **oasis**      | spring, well, fountain, haven, watering hole, refuge    |
+| **plains**     | heath, meadow, veldt, flats, lowlands, sward            |
+| **plateau**    | uplands, mesa, highlands, downs, reach                  |
+| **river**      | waterway, stream, brook, runnel creek, channel          |
+| **sea**        | _See beaches_                                           |
+| **swamp**      | mire, morass, quag, moors, sump, wetlands               |
+| **thickets**   | chaparral, boscage, covert, coppice, fells              |
+| **tundra**     | expanse, prairie, steppe, boreal, ley                   |
+| **valley**     | dale, vale, basin, gully, gorge, gap, glen              |
+| **wasteland**  | _See desert_                                            |
 
 > Lines on the map (roads, paths, etc) can be named in a similar way, if necessary.
 
