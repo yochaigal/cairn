@@ -307,7 +307,7 @@ To help create your setting's theme, answer the following questions:
 | **3**    | **Ancient**       |
 | **4**    | **Angry**         |
 | **5**    | **Ashen**         |
-| **6**    | **Awe-inspiring** |
+| **6**    | **Broad** |
 | **7**    | **Bare**          |
 | **8**    | **Battered**      |
 | **9**    | **Bitter**        |
