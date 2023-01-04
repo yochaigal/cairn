@@ -59,7 +59,7 @@ search_exclude: true
 ### Summary
 - A setting has a **Theme**, **Terrain**, **Details**, and **Factions**. 
 - See [this page](/wip/2e/example-setting) for an example setting, and generate (most) of the setting automatically with [this](https://perchance.org/cairn-setting-generator).
-- Distance is measured in [**Watches**](/wip/2e/wilderness-exploration/#travel), assuming that the party travels by foot and on maintained roads.
+- Distance is measured in [**Watches**](/wip/2e/wilderness-exploration/#travel), assuming that the party travels by foot.
 
 ## Theme
 To help create your setting's theme, answer the following questions:
@@ -632,7 +632,6 @@ Consider the following when determining the **Province** name:
 - What sort of factions have historically dominated this place?
 - A name may also include a reference to the region's relative position to the seat of power: _The Northeast Redoubt_, _Western Ranges_, etc.
 - The name (first, or family) of a "discoverer", conquerer or colonizer often sticks around long after their death.
-
 
 ## Conclusion
 Congratulations, your **Province** is complete! You can now "drill down" into various locations (starting with the **Heart**) and build out each **Detail** on your own favorite tables. Keep the following thoughts in mind as you go:

@@ -61,6 +61,8 @@ search_exclude: true
 - The party may need to spend **Fatigue**, resources, tools or other resource in order to maintain their travel speed. 
 - Mounts, guides, and maps can increase the party's travel speed or even overcome a terrain's difficulty.
 
+| Maintained roads and trails should be considered **Easy** unless the terrain says otherwise.
+
 ### Terrain Difficulty
 
 |                               |                       |                     |                          |                                                                                                       |
