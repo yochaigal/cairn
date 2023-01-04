@@ -9,6 +9,21 @@ search_exclude: true
 
 # Setting
 
+## Index
+- [Theme](#theme)
+- [Creating a Province](#creating-a-province)
+- [Adding Terrain](#adding-terrain)
+- [Seasons](#seasons)
+- [Details](#details)
+  - [Adding Details](#adding-details)
+  - [Detail Names](#detail-names)
+- [Factions](#factions)
+  - [Agendas & Advantages](#agendas--advantages)
+  - [Creating Factions](#creating-factions)
+  - [Faction Rules](#faction-rules)
+- [Province Name](#province-name)
+- [Conclusion](#conclusion)
+
 ### Summary
 - A setting has a **Theme**, **Terrain**, **Details**, and **Factions**. 
 - See [this page](/wip/2e/example-setting) for an example setting, and generate (most) of the setting automatically with [this](https://perchance.org/cairn-setting-generator).
@@ -182,7 +197,6 @@ To help create your setting's theme, answer the following questions:
 | **10**  | **Rotted mill**           |
 | **11**  | **Swaying minaret**       |
 | **12**  | **Weathered temple**      |
-
 
 #### Lairs
 
