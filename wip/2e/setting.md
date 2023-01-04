@@ -10,6 +10,9 @@ search_exclude: true
 # Setting
 
 ## Index
+<details>
+  <summary>Click me</summary>
+ 
 - [Setting](#setting)
   - [Index](#index)
     - [Summary](#summary)
@@ -54,6 +57,8 @@ search_exclude: true
       - [Faction Actions](#faction-actions)
   - [Province Name](#province-name)
   - [Conclusion](#conclusion)
+
+</details>
 
 ### Summary
 - A setting has a **Theme**, **Terrain**, **Details**, and **Factions**. 
