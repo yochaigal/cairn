@@ -591,7 +591,7 @@ To help create your setting's theme, answer the following questions:
 
 ### Faction Names
 1. Roll on the [Faction Names Formula](#faction-names-formula) table below.
-2. Roll on the [Adjectives](#adjectives), [Nouns](#nouns), [Terrain], and [Group Types](#group-types) table where appropriate. 
+2. Roll on the [Adjectives](#adjectives), [Nouns](#nouns), and [Group Types](#group-types) table where appropriate. 
 
 #### Faction Names Formula
 
@@ -620,8 +620,6 @@ To help create your setting's theme, answer the following questions:
 | **10**  | **Order**       |
 | **11**  | **Pact**        |
 | **12**  | **Syndicate**   |
-
-
 
 ### Example Faction
 - **Academic**: _Royal Cartographer's Guild_
