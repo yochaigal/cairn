@@ -619,7 +619,7 @@ To help create your setting's theme, answer the following questions:
 | **9**   | **Market**      |
 | **10**  | **Order**       |
 | **11**  | **Pact**        |
-| **12**  | **Syndicate**   |
+| **12**  | **Prelate**     |
 
 ### Example Faction
 - **Academic**: _Royal Cartographer's Guild_
@@ -681,22 +681,23 @@ To help create your setting's theme, answer the following questions:
 | **2**   | **Commonwealth**  |
 | **3**   | **Confederation** |
 | **4**   | **Dominion**      |
-| **5**   | **Empire**        |
-| **6**   | **Federacy**      |
-| **7**   | **Grand Duchy**   |
-| **8**   | **Kingdom**       |
-| **9**   | **Principality**  |
-| **10**  | **Protectorate**  |
-| **11**  | **Republic**      |
-| **12**  | **Union**         |
-| **13**  | **Barony**        |
-| **14**  | **Fiefdom**       |
-| **15**  | **Hegemony**      |
-| **16**  | **Monarchy**      |
-| **17**  | **Realm**         |
-| **18**  | **Regency**       |
-| **19**  | **State**         |
-| **20**  | **Sultanate**     |
+| **5**   | **Ecclesiarchy**  |
+| **6**   | **Empire**        |
+| **7**   | **Federacy**      |
+| **8**   | **Grand Duchy**   |
+| **9**   | **Kingdom**       |
+| **10**  | **Principality**  |
+| **11**  | **Protectorate**  |
+| **12**  | **Republic**      |
+| **13**  | **Union**         |
+| **14**  | **Barony**        |
+| **15**  | **Fiefdom**       |
+| **16**  | **Hegemony**      |
+| **17**  | **Monarchy**      |
+| **18**  | **Realm**         |
+| **19**  | **Regency**       |
+| **20**  | **State**         |
+
 
 ### Non-random Province Names
 Consider the following when determining the **Province** name:
