@@ -623,19 +623,21 @@ To help create your setting's theme, answer the following questions:
 
 ## Province Name
 1. Roll on the [Ruler Names Formula](#ruler-names-formula) table below.
-2. Roll on the [Adjectives](#adjectives), [Nouns](#nouns) and [Rulers](#rulers) table where appropriate. 
+2. Roll on the [Adjectives](#adjectives), [Nouns](#nouns), [Terrain], and [Rulers](#rulers) table where appropriate. 
 
-| Optionally, replace either value with a [Noun] result, but reverse the word order (example: "_The Empire of Victory_"). A dominant terrain synonym would work as well, e.g. "_The Misty Bluffs_". 
+| Optionally, replace any value with the dominant terrain synonym, e.g. "_The Misty Bluffs_". 
 
 ### Ruler Names Formula
 
 |        |                                   |
 | ------ | --------------------------------- |
-| **d4** | **Template**                      |
+| **d6** | **Template**                      |
 | **1**  | The [Adjective] [Rulers]          |
-| **2**  | The [Adjective] of (the) [Rulers] |
-| **3**  | The [Rulers] of [Adjective]       |
+| **2**  | The [Noun] [Rulers]               |
+| **3**  | The [Rulers] of (the) [Adjective] |
 | **4**  | The [Rulers] of (the) [Noun]      |
+| **5**  | The [Rulers] of (the) [Terrain]   |
+| **6**  | The [Adjective] [Terrain]         |
 
 ### Rulers
 
