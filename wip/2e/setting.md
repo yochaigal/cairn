@@ -698,7 +698,6 @@ To help create your setting's theme, answer the following questions:
 | **19**  | **State**         |
 | **20**  | **Sultanate**     |
 
-
 ### Non-random Province Names
 Consider the following when determining the **Province** name:
 - What are the key geographic features of the region? 
