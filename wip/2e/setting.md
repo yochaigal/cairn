@@ -658,27 +658,25 @@ To help create your setting's theme, answer the following questions:
 
 ## Province Name
 1. Roll on the [Ruler Names Formula](#ruler-names-formula) table below.
-2. Roll on the [Adjectives](#adjectives), [Nouns](#nouns), [Terrain](#terrain), and [Rulers](#rulers) table where appropriate. 
+2. Roll on the [Adjectives](#adjectives), [Nouns](#nouns), [Terrain](#terrain), and [Rulers](#rulers) table, and add "of" or "the" where appropriate
 
 | Optionally, replace any value with the dominant terrain synonym, e.g. "_The Misty Bluffs_". 
 
 ### Ruler Names Formula
 
-|        |                                   |
-| ------ | --------------------------------- |
-| **d6** | **Template**                      |
-| **1**  | The [Adjective] [Rulers]          |
-| **2**  | The [Noun] [Rulers]               |
-| **3**  | The [Rulers] of (the) [Adjective] |
-| **4**  | The [Rulers] of (the) [Noun]      |
-| **5**  | The [Rulers] of (the) [Terrain]   |
-| **6**  | The [Adjective] [Terrain]         |
+|        |                               |
+| ------ | ----------------------------- |
+| **d6** | **Template**                  |
+| **1**  | The [Adjective] [Rulers]      |
+| **2**  | The [Noun] [Rulers]           |
+| **3**  | The [Terrain] [Rulers]        |
+| **4**  | The [Adjective] [Terrain]     |
 
 ### Rulers
 
 |         |                   |
 | ------- | ----------------- |
-| **d12** | **Ruler**         |
+| **d20** | **Ruler**         |
 | **1**   | **Alliance**      |
 | **2**   | **Commonwealth**  |
 | **3**   | **Confederation** |
@@ -687,10 +685,19 @@ To help create your setting's theme, answer the following questions:
 | **6**   | **Federacy**      |
 | **7**   | **Grand Duchy**   |
 | **8**   | **Kingdom**       |
-| **9**   | **Principalit**   |
+| **9**   | **Principality**  |
 | **10**  | **Protectorate**  |
 | **11**  | **Republic**      |
 | **12**  | **Union**         |
+| **13**  | **Barony**        |
+| **14**  | **Fiefdom**       |
+| **15**  | **Hegemony**      |
+| **16**  | **Monarchy**      |
+| **17**  | **Realm**         |
+| **18**  | **Regency**       |
+| **19**  | **State**         |
+| **20**  | **Sultanate**     |
+
 
 ### Non-random Province Names
 Consider the following when determining the **Province** name:
