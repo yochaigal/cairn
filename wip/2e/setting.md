@@ -53,6 +53,7 @@ search_exclude: true
     - [Faction Rules](#faction-rules)
       - [Faction Actions](#faction-actions)
   - [Province Name](#province-name)
+    - [Rulers](#rulers)
     - [Non-random Province Names](#non-random-province-names)
   - [Conclusion](#conclusion)
 
@@ -620,10 +621,30 @@ To help create your setting's theme, answer the following questions:
 > The actions of the PCs can always overrule the necessity for a **Faction** action, or in some cases provide an advantage of some kind to the roll. 
 
 ## Province Name
-1. Consider the dominant terrain, either by earlier table results or personal choice. 
-2. Look at the synonyms table for that terrain, e.g. "Cliffs = Bluffs". 
-3. Roll on the [Adjectives](#adjectives) table, e.g. "Luminous."
-4. Combine the result with the terrain synonym into a single word preceded by "The", e.g. "The Luminous Bluffs."
+1. Roll on the [Adjectives](#adjectives) table, e.g. "Luminous."
+2. Roll on the [Rulers](#rulers) table.
+3. Use the following template: "The + [Adjective] + [Ruler]. Example: "_The Luminous Dominion_."
+
+| Optionally, use a [Noun] result instead, but reverse the word order (example: "_The Empire of Victory_"). Or take a terrain synonym, e.g. "_The Misty Bluffs_". 
+
+### Rulers
+
+|         |                   |
+| ------- | ----------------- |
+| **d12** | **Ruler**         |
+| **1**   | **Alliance**      |
+| **2**   | **Commonwealth**  |
+| **3**   | **Confederation** |
+| **4**   | **Dominion**      |
+| **5**   | **Empire**        |
+| **6**   | **Federacy**      |
+| **7**   | **Grand Duchy**   |
+| **8**   | **Kingdom**       |
+| **9**   | **Principalit**   |
+| **10**  | **Protectorate**  |
+| **11**  | **Republic**      |
+| **12**  | **Union**         |
+
 
 ### Non-random Province Names
 Consider the following when determining the **Province** name:
