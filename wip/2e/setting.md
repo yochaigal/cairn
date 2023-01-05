@@ -19,7 +19,7 @@ search_exclude: true
     - [Creating a Province](#creating-a-province)
       - [Tips](#tips)
     - [Adding Terrain](#adding-terrain)
-      - [Terrain Table](#terrain-table)
+      - [Terrain](#terrain)
       - [Seasons](#seasons)
       - [Seasonal Weather](#seasonal-weather)
       - [Weird Weather Effects](#weird-weather-effects)
@@ -101,11 +101,11 @@ To help create your setting's theme, answer the following questions:
 - You can repeat this process for any adjacent **Provinces**, connecting them by road, river, or range. 
 
 ### Adding Terrain
-1. Roll on the [Terrain Table](#terrain-table) below for each numbered dot, starting with the **Heart**. 
+1. Roll on the [Terrain](#terrain) table below for each numbered dot, starting with the **Heart**. 
 2. Terrain modifiers are based on the [Terrain Difficulty](/wip/2e/wilderness-exploration/#terrain-difficulty) rules. **E** = Easy, **T** = Tough, **P** = Perilous.
 3. Drawn or indicate the terrain for each dot on the map.
 
-#### Terrain Table
+#### Terrain
 
 |        |                                                       |
 | ------ | ----------------------------------------------------- |
@@ -658,7 +658,7 @@ To help create your setting's theme, answer the following questions:
 
 ## Province Name
 1. Roll on the [Ruler Names Formula](#ruler-names-formula) table below.
-2. Roll on the [Adjectives](#adjectives), [Nouns](#nouns), [Terrain], and [Rulers](#rulers) table where appropriate. 
+2. Roll on the [Adjectives](#adjectives), [Nouns](#nouns), [Terrain](#terrain), and [Rulers](#rulers) table where appropriate. 
 
 | Optionally, replace any value with the dominant terrain synonym, e.g. "_The Misty Bluffs_". 
 
