@@ -48,7 +48,10 @@ search_exclude: true
       - [Faction Advantages](#faction-advantages)
       - [Faction Agendas](#faction-agendas)
       - [Faction Obstacles](#faction-obstacles)
-      - [Example Faction](#example-faction)
+    - [Faction Names](#faction-names)
+      - [Faction Names Formula](#faction-names-formula)
+      - [Group Types](#group-types)
+    - [Example Faction](#example-faction)
         - [Advantages](#advantages)
     - [Faction Rules](#faction-rules)
       - [Faction Actions](#faction-actions)
@@ -586,7 +589,41 @@ To help create your setting's theme, answer the following questions:
 | **11**  | **Rotten from Within**    | The **Faction** has a been infiltrated by a spy, intent on sabotage.            |
 | **12**  | **Body Count**            | Someone must die to ensure a successful outcome. The **Agenda** demands it.     |
 
-#### Example Faction
+### Faction Names
+1. Roll on the [Faction Names Formula](#faction-names-formula) table below.
+2. Roll on the [Adjectives](#adjectives), [Nouns](#nouns), [Terrain], and [Group Types](#group-types) table where appropriate. 
+
+#### Faction Names Formula
+
+|        |                                                    |
+| ------ | -------------------------------------------------- |
+| **d4** | **Formula**                                        |
+| **1**  | The **[Adjective] [Noun] [Group Type]**            |
+| **2**  | The **[Adjective] [Group Type]**                   |
+| **3**  | The **[Group Type]** of the **[Adjective] [Noun]** |
+| **4**  | The **[Noun] [Group Type]**                        |
+
+#### Group Types
+
+|         |                 |
+| ------- | --------------- |
+| **d12** | **Type**        |
+| **1**   | **Alliance**    |
+| **2**   | **Brotherhood** |
+| **3**   | **Cabal**       |
+| **4**   | **Clan**        |
+| **5**   | **Covenant**    |
+| **6**   | **Cult**        |
+| **7**   | **Guild**       |
+| **8**   | **League**      |
+| **9**   | **Market**      |
+| **10**  | **Order**       |
+| **11**  | **Pact**        |
+| **12**  | **Syndicate**   |
+
+
+
+### Example Faction
 - **Academic**: _Royal Cartographer's Guild_
 - **Base**: _Seaside Athenaeum_
 ##### Advantages
