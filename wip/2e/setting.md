@@ -35,7 +35,7 @@ search_exclude: true
       - [Special](#special)
     - [Detail Names](#detail-names)
       - [Generating Names](#generating-names)
-      - [Name Formulas](#name-formulas)
+      - [Detail Names Formula](#detail-names-formula)
       - [Example Names](#example-names)
       - [Adjectives](#adjectives)
       - [Nouns](#nouns)
@@ -53,6 +53,7 @@ search_exclude: true
     - [Faction Rules](#faction-rules)
       - [Faction Actions](#faction-actions)
   - [Province Name](#province-name)
+    - [Ruler Names Formula](#ruler-names-formula)
     - [Rulers](#rulers)
     - [Non-random Province Names](#non-random-province-names)
   - [Conclusion](#conclusion)
@@ -318,17 +319,17 @@ To help create your setting's theme, answer the following questions:
 - Wild and dangerous places are named after their obvious hazards: poison lake, greedy mines, etc. Some tell a story: _Luka's Folly, Dead Man's Path_, etc. 
 
 #### Generating Names
-- Starting with the **Heart**, roll on the [Name Formulas](#name-formulas) table to name each **Detail** on the map. 
+- Starting with the **Heart**, roll on the [Detail Names Formula](#detail-names-formula) table to name each **Detail** on the map. 
 - Roll on the [Adjectives](#adjectives) and [Nouns](#nouns) table where appropriate, and consult the [Terrain Synonyms](#terrain-synonyms) table for inspiration. 
 - Refer to the [Example Names](#example-names) for a model of each table result. [**Proper Nouns**] can be added to or even replace parts of a name, e.g. **Bruna's Ugly Gulch**. 
 
 | To roll **1d100**, roll **2d10**, using one die for the tens place, and one die for the ones place.
 
-#### Name Formulas
+#### Detail Names Formula
 
 |           |                                 |
 | --------- | ------------------------------- |
-| **d12**   | **Name Template**               |
+| **d12**   | **Formula**               |
 | **1-2**   | **[Adjective]** **[Terrain]**   |
 | **3-4**   | **[Adjective]** **[Noun]**      |
 | **5-6**   | **[Terrain]** **[Noun]**        |
@@ -621,11 +622,20 @@ To help create your setting's theme, answer the following questions:
 > The actions of the PCs can always overrule the necessity for a **Faction** action, or in some cases provide an advantage of some kind to the roll. 
 
 ## Province Name
-1. Roll on the [Adjectives](#adjectives) table, e.g. "Luminous."
-2. Roll on the [Rulers](#rulers) table.
-3. Use the following template: "The + [Adjective] + [Ruler]. Example: "_The Luminous Dominion_."
+1. Roll on the [Ruler Names Formula](#ruler-names-formula) table below.
+2. Roll on the [Adjectives](#adjectives), [Nouns](#nouns) and [Rulers](#rulers) table where appropriate. 
 
-| Optionally, use a [Noun] result instead, but reverse the word order (example: "_The Empire of Victory_"). Or take a terrain synonym, e.g. "_The Misty Bluffs_". 
+| Optionally, replace either value with a [Noun] result, but reverse the word order (example: "_The Empire of Victory_"). A dominant terrain synonym would work as well, e.g. "_The Misty Bluffs_". 
+
+### Ruler Names Formula
+
+|        |                                 |
+| ------ | ------------------------------- |
+| **d4** | **Template**                    |
+| **1**  | The [Adjective] [Rulers]        |
+| **2**  | The [Adjective] of (the) [Rulers] |
+| **3**  | The [Rulers] of [Adjective]     |
+| **4**  | The [Rulers] of (the) [Noun] |
 
 ### Rulers
 
