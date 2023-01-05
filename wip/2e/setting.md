@@ -629,13 +629,13 @@ To help create your setting's theme, answer the following questions:
 
 ### Ruler Names Formula
 
-|        |                                 |
-| ------ | ------------------------------- |
-| **d4** | **Template**                    |
-| **1**  | The [Adjective] [Rulers]        |
+|        |                                   |
+| ------ | --------------------------------- |
+| **d4** | **Template**                      |
+| **1**  | The [Adjective] [Rulers]          |
 | **2**  | The [Adjective] of (the) [Rulers] |
-| **3**  | The [Rulers] of [Adjective]     |
-| **4**  | The [Rulers] of (the) [Noun] |
+| **3**  | The [Rulers] of [Adjective]       |
+| **4**  | The [Rulers] of (the) [Noun]      |
 
 ### Rulers
 
@@ -654,7 +654,6 @@ To help create your setting's theme, answer the following questions:
 | **10**  | **Protectorate**  |
 | **11**  | **Republic**      |
 | **12**  | **Union**         |
-
 
 ### Non-random Province Names
 Consider the following when determining the **Province** name:
