@@ -1,10 +1,11 @@
 ---
 layout: default
-title: Brazilian Portuguese
+title: Portuguese
 parent: Localizations
 ---
 
 # Documento de Referência do Sistema Cairn (v.1.0)
+{: .no_toc }
 
 <p></p>
 
@@ -16,17 +17,14 @@ Os jogadores agem como aventureiros experientes explorando uma floresta escura e
 
 Traduzido por [Xenio](https://xenioinabottle.blogspot.com).
 
-## Índice
-- [Visão Geral](#visão-geral)
-- [Princípios para Diretores](#princípios-para-diretores)
-- [Princípios para Jogadores](#princípios-para-jogadores)
-- [Criação de personagem](#criação-de-personagem)
-- [Equipamento](#lista-de-equipamentos-preços-em-peças-de-ouro)
-- [Regras](#regras)
-- [Bestiário](#bestiário)
-- [100 Feitiços](#100-feitiços)
-- [Resumo das Regras](#resumo-das-regras)
-
+<details close markdown="block">
+  <summary>
+    Índice
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 
 ## Visão geral
 
