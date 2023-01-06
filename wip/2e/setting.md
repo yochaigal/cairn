@@ -8,10 +8,9 @@ search_exclude: true
 ---
 
 # Setting
-# Navigation Structure
 {: .no_toc }
 
-<details open markdown="block">
+<details close markdown="block">
   <summary>
     Table of contents
   </summary>
