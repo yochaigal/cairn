@@ -5,6 +5,7 @@ nav_order: 2
 ---
 
 # Cairn System Reference Document (v.1.0)
+{: .no_toc }
 
 <p></p>
 
@@ -14,17 +15,14 @@ Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in ot
 **Cairn** is an adventure game for one facilitator (the **Warden**) and at least one other player.
 Players act as hardened adventurers exploring a dark & mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities.
 
-## Index
-- [Overview](#overview)
-- [Principles for Wardens](#principles-for-wardens)
-- [Principles for Players](#principles-for-players)
-- [Character Creation](#character-creation)
-- [Equipment](#equipment-list-prices-in-gold-pieces)
-- [Rules](#rules)
-- [Bestiary](#bestiary)
-- [100 Spells](#100-spells)
-- [Rules Summary](#rules-summary)
-
+<details close markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 
 ## Overview
 

@@ -8,6 +8,16 @@ search_exclude: true
 ---
 
 # Wilderness Exploration
+{: .no_toc }
+
+<details close markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 
 ## Watches
 - A day is divided into three **watches**, called _morning_, _afternoon_, and _night_. 

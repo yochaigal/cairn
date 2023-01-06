@@ -8,6 +8,16 @@ search_exclude: true
 ---
 
 # Dungeon Exploration
+{: .no_toc }
+
+<details close markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 
 ## Turns
 - The dungeon exploration **cycle** is divided into a series of **turns**, **actions**, and their consequences. 
