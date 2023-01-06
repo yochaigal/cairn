@@ -8,58 +8,17 @@ search_exclude: true
 ---
 
 # Setting
+# Navigation Structure
+{: .no_toc }
 
-## Index
-- [Setting](#setting)
-  - [Index](#index)
-    - [Summary](#summary)
-  - [Theme](#theme)
-  - [Provinces](#provinces)
-    - [Scale](#scale)
-    - [Creating a Province](#creating-a-province)
-      - [Tips](#tips)
-    - [Adding Terrain](#adding-terrain)
-      - [Terrain](#terrain)
-      - [Seasons](#seasons)
-      - [Seasonal Weather](#seasonal-weather)
-      - [Weird Weather Effects](#weird-weather-effects)
-  - [Details](#details)
-    - [Adding Details](#adding-details)
-      - [Detail Types](#detail-types)
-      - [Settlements](#settlements)
-        - [Settlement Features](#settlement-features)
-      - [Ruins](#ruins)
-      - [Lairs](#lairs)
-      - [Hazards](#hazards)
-      - [Landmarks](#landmarks)
-      - [Special](#special)
-    - [Detail Names](#detail-names)
-      - [Generating Names](#generating-names)
-      - [Detail Names Formula](#detail-names-formula)
-      - [Example Names](#example-names)
-      - [Adjectives](#adjectives)
-      - [Nouns](#nouns)
-      - [Terrain Synonyms](#terrain-synonyms)
-  - [Factions](#factions)
-    - [Agendas \& Advantages](#agendas--advantages)
-    - [Creating Factions](#creating-factions)
-      - [Factions Creation Procedure](#factions-creation-procedure)
-      - [Faction Types](#faction-types)
-      - [Faction Advantages](#faction-advantages)
-      - [Faction Agendas](#faction-agendas)
-      - [Faction Obstacles](#faction-obstacles)
-    - [Faction Names](#faction-names)
-      - [Faction Names Formula](#faction-names-formula)
-      - [Group Types](#group-types)
-    - [Example Faction](#example-faction)
-        - [Advantages](#advantages)
-    - [Faction Rules](#faction-rules)
-      - [Faction Actions](#faction-actions)
-  - [Province Name](#province-name)
-    - [Ruler Names Formula](#ruler-names-formula)
-    - [Rulers](#rulers)
-    - [Non-random Province Names](#non-random-province-names)
-  - [Conclusion](#conclusion)
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 
 ### Summary
 - A setting has a **Theme**, **Terrain**, **Details**, and **Factions**. 
