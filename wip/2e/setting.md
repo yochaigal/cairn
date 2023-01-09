@@ -398,9 +398,9 @@ To help create your setting's theme, answer the following questions:
 | **30**   | **Fate**       | **80**  | **Silver**    |
 | **31**   | **Fear**       | **81**  | **Skull**     |
 | **32**   | **Fire**       | **82**  | **Sky**       |
-| **33**   | **Flimsy**     | **83**  | **Smoke**     |
+| **33**   | **Flame**      | **83**  | **Smoke**     |
 | **34**   | **Forbidden**  | **84**  | **Snake**     |
-| **35**   | **Fragile**    | **85**  | **Sorrow**    |
+| **35**   | **Foreign**    | **85**  | **Sorrow**    |
 | **36**   | **Frayed**     | **86**  | **Sparse**    |
 | **37**   | **Frost**      | **87**  | **Sticky**    |
 | **38**   | **Frozen**     | **88**  | **Storm**     |
