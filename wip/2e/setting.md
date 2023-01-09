@@ -154,25 +154,25 @@ To help create your setting's theme, answer the following questions:
 | **11**  | **Town**       |
 | **12**  | **Villa**      |
 
-> Roll on the [Settlement Features](#settlement-features) table below.
+> For each result from the [Settlement](#settlements) table, roll on the [Settlement Features](#settlement-features) table below.
 
 ##### Settlement Features
 
-|         |                               |
-| ------- | ----------------------------- |
-| **d12** | **Settlement Features**       |
-| **1**   | **Highly defensible**         |
-| **2**   | **Rich in natural deposits**  |
-| **3**   | **Overpopulated**             |
-| **4**   | **Seat of government**        |
-| **5**   | **Factionally divided**       |
-| **6**   | **Lacking supplies**          |
-| **7**   | **Technologically advanced**  |
-| **8**   | **Renowned exports**          |
-| **9**   | **Reclusive**                 |
-| **10**  | **Built atop ruins**          |
-| **11**  | **Important to trade**        |
-| **12**  | **Ruled by powerful faction** |
+|         |                                 |
+| ------- | ------------------------------- |
+| **d12** | **Settlement Features**         |
+| **1**   | **Built atop ruins**            |
+| **2**   | **Factionally divided**         |
+| **3**   | **Highly defensible**           |
+| **4**   | **Important to trade**          |
+| **5**   | **Lacking supplies**            |
+| **6**   | **Overpopulated**               |
+| **7**   | **Reclusive**                   |
+| **8**   | **Renowned exports**            |
+| **9**   | **Rich in natural deposits**    |
+| **10**  | **Ruled by a powerful faction** |
+| **11**  | **Seat of government**          |
+| **12**  | **Technologically advanced**    |
 
 #### Ruins
 
