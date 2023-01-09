@@ -414,4 +414,128 @@ The Crag of the Mossy Reservoir
 
 ### Generate a Province Name
 - If you'd like to roll a **Province** name randomly, roll on the [Adjectives](#adjectives) and [Nouns](#nouns) table.
-- 
+
+
+
+### Spark Tables
+
+|         |                  |                |
+| ------- | ---------------- | -------------- |
+| **d20** | **Spark One**    | **Spark Two**  |
+| **1**   | **Barren**       | **Perilous**   |
+| **2**   | **Lurid**        | **Sinister**   |
+| **3**   | **Petrified**    | **Crypt**      |
+| **4**   | **Putrid**       | **Haunting**   |
+| **5**   | **Somber**       | **Vexed**      |
+| **6**   | **Corporeal**    | **Grim**       |
+| **7**   | **Decaying**     | **Ghoulish**   |
+| **8**   | **Eerie**        | **Unnatural**  |
+| **9**   | **Forbidding**   | **Cadaverous** |
+| **10**  | **Ghastly**      | **Haunted**    |
+| **11**  | **Macabre**      | **Cursed**     |
+| **12**  | **Noisome**      | **Concealed**  |
+| **13**  | **Otherworldly** | **Vexed**      |
+| **14**  | **Pernicious**   | **Grim**       |
+| **15**  | **Stagnant**     | **Ghoulish**   |
+| **16**  | **Unseen**       | **Unnatural**  |
+| **17**  | **Malevolent**   | **Cadaverous** |
+| **18**  | **Tenebrous**    | **Haunted**    |
+| **19**  | **Ethereal**     | **Cursed**     |
+| **20**  | **Morbid**       | **Concealed**  |
+
+|         |                 |                      |
+| ------- | --------------- | -------------------- |
+| **d20** | **Spark One**   | **Spark Two**        |
+| **1**   | **Nourishing**  | **Fur**              |
+| **2**   | **Goat**        | **Church**           |
+| **3**   | **Standing**    | **Herbalists**       |
+| **4**   | **Primordial**  | **Hunter**           |
+| **5**   | **Spirit**      | **Blackbird**        |
+| **6**   | **Edible**      | **Whorl**            |
+| **7**   | **Invisible**   | **Tree**             |
+| **8**   | **Rabid**       | **Folklore**         |
+| **9**   | **Seed**        | **Knack**            |
+| **10**  | **Grimalkin**   | **Shadows**          |
+| **11**  | **Poisonous**   | **Transformation**   |
+| **12**  | **Deceased**    | **Fancy**            |
+| **13**  | **Psychedelic** | **Bestiary**         |
+| **14**  | **Mildew**      | **Habitat**          |
+| **15**  | **Dank**        | **Gloom**            |
+| **16**  | **Glowing**     | **Bread**            |
+| **17**  | **Muddy**       | **Deep**             |
+| **18**  | **Bloody**      | **Scuttling things** |
+| **19**  | **Enchanted**   | **Looming trees**    |
+| **20**  | **Poisoned**    | **Children**         |
+
+
+|         |                 |                 |
+| ------- | --------------- | --------------- |
+| **d20** | **Spark One**   | **Spark Two**   |
+| **1**   | **Fungi**       | **Bark**        |
+| **2**   | **Missing**     | **Burrows**     |
+| **3**   | **Bramblewood** | **Death**       |
+| **4**   | **Pock-marked** | **Errant**      |
+| **5**   | **Foraging**    | **Claws**       |
+| **6**   | **Grotesque**   | **Hue**         |
+| **7**   | **Entangled**   | **Horror**      |
+| **8**   | **Wild**        | **Delve**       |
+| **9**   | **Hideous**     | **Wood**        |
+| **10**  | **Moss**        | **Magic**       |
+| **11**  | **Foaming**     | **Eyes**        |
+| **12**  | **Inverted**    | **Incantation** |
+| **13**  | **Damp**        | **Hog**         |
+| **14**  | **Flesh**       | **Armor**       |
+| **15**  | **Withering**   | **Fibers**      |
+| **16**  | **Genesis**     | **Spell**       |
+| **17**  | **Digesting**   | **Growth**      |
+| **18**  | **White**       | **Inanimate**   |
+| **19**  | **Mushroom**    | **Forest**      |
+| **20**  | **Illusory**    | **Fey**         |
+
+|         |                   |                     |
+| ------- | ----------------- | ------------------- |
+| **d20** | **Spark One**     | **Spark Two**       |
+| **1**   | **Ominous**       | **Summoning**       |
+| **2**   | **Mortal**        | **Awakening**       |
+| **3**   | **Knotty**        | **Witch**           |
+| **4**   | **Truthful**      | **Lumberjacks**     |
+| **5**   | **Defensive**     | **Secrets**         |
+| **6**   | **Screaming**     | **Vibrations**      |
+| **7**   | **Preserved**     | **Whisper**         |
+| **8**   | **Transmutation** | **Twitterings**     |
+| **9**   | **Suffocating**   | **Deep dark pools** |
+| **10**  | **Distorted**     | **Exit**            |
+| **11**  | **Possessed**     | **Clawing plants**  |
+| **12**  | **Shrunken**      | **Flanges**         |
+| **13**  | **Vibrant**       | **Sludge**          |
+| **14**  | **Shimmering**    | **Sap**             |
+| **15**  | **Yeasty**        | **Heart**           |
+| **16**  | **Predatory**     | **Standing stones** |
+| **17**  | **Threaded**      | **Bane**            |
+| **18**  | **Tortoiseshell** | **Cryptic**         |
+| **19**  | **Germinating**   | **Metal things**    |
+| **20**  | **Bubbling**      | **Toadstools**      |
+
+|         |                 |                     |
+| ------- | --------------- | ------------------- |
+| **d20** | **Spark One**   | **Spark Two**       |
+| **1**   | **Venomous**    | **Dwarf**           |
+| **2**   | **Dying**       | **Polymorph**       |
+| **3**   | **Lost**        | **Berries**         |
+| **4**   | **Fungal**      | **Knowledge**       |
+| **5**   | **Fleshy**      | **The Old Ways**    |
+| **6**   | **Diseased**    | **Warp**            |
+| **7**   | **Ghostly**     | **Yowls**           |
+| **8**   | **Dreaming**    | **Sparrows**        |
+| **9**   | **Pulsating**   | **Pungent flowers** |
+| **10**  | **Verdant**     | **Bones**           |
+| **11**  | **Sinking**     | **Sacrifice**       |
+| **12**  | **Floating**    | **Druid**           |
+| **13**  | **Innocent**    | **Thorns**          |
+| **14**  | **Trapped**     | **Tongues**         |
+| **15**  | **Burning**     | **Meat**            |
+| **16**  | **Mirage**      | **Enigma**          |
+| **17**  | **Whisperings** | **Invaders**        |
+| **18**  | **Enshrouded**  | **Sky**             |
+| **19**  | **Apparition**  | **Slime**           |
+| **20**  | **Aberrant**    | **Pestilent**       |
