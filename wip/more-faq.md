@@ -33,7 +33,11 @@ Imagine
 ### Do monsters use the same combat rules as PCs (e.g. critical save)?
 - Yes, monsters use the exact same combat rules as PCs, with the exception of rolling on the [Scars Table](/cairn-srd#scars-1) at 0 HP.
 
-### How does having 10 inventory slots actually work?
+### How does having 10 inventory slots actually work? 
+When a Fatigue occupies an inventory slot, that slot cannot be used for items, equipment, spellbooks, etc. When the Fatigue is cleared, the inventory slot is once more available.
+
+#### What happens when there are no more empty slots, and Fatigue is applied to a slot that includes an item?
+The player must drop an item to accommodate the Fatigue.
 
 ### What are examples of deprived conditions?
 

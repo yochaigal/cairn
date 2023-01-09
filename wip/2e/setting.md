@@ -61,7 +61,7 @@ To help create your setting's theme, answer the following questions:
 ### Adding Terrain
 1. Roll on the [Terrain](#terrain) table below for each numbered dot, starting with the **Heart**. 
 2. Terrain modifiers are based on the [Terrain Difficulty](/wip/2e/wilderness-exploration/#terrain-difficulty) rules. **E** = Easy, **T** = Tough, **P** = Perilous.
-3. Drawn or indicate the terrain for each dot on the map.
+3. Draw or indicate the terrain for each dot on the map.
 
 #### Terrain
 
@@ -100,16 +100,16 @@ To help create your setting's theme, answer the following questions:
 | **d12** |                                                                                                                    |
 | **1**   | The clouds are shaped like faces. They appear to be laughing.                                                      |
 | **2**   | Roaming, coughing, dust clouds that smell of cinnamon.                                                             |
-| **3**   | Days are erratic. The Sun goes backwards for a time, then jumps forward rapidly as night quickly falls.            |
+| **3**   | Days are erratic. The Sun goes backwards for a time, then jumps forward as night rapidly sets.                     |
 | **4**   | Lakes and streams dry up in minutes, filling storm clouds that drench the landscape.                               |
 | **5**   | Rainbows lack most of their colors, and occasionally flicker. Raindrops fall in various colors. Do not taste them. |
-| **6**   | Distant chimes instead of thunder. A smokey, sweet wind stems from the **West**, with no apparent origin.          |
+| **6**   | Distant chimes instead of thunder. A smokey, sweet wind of no apparent origin blows in from the West.              |
 | **7**   | Fog there fills the belly (no need for rations). Tomorrow, vomiting.                                               |
-| **8**   | The winds carry whispers; some sawy with hints of the future.                                                      |
-| **9**   | Shadows disappear at random. Animals do not want to go there.                                                      |
-| **10**  | Flashes of movement in the periphery. They always amount to nothing. Travelers return without their memories.      |
+| **8**   | The winds carry whispers of voices. Some say they tell hints of the future.                                        |
+| **9**   | Shadows disappear at random. Animals are reluctant to enter.                                                       |
+| **10**  | Flashes of movement in the periphery that always amount to nothing. Travelers return without gaps in their memories.      |
 | **11**  | The air is thicker than usual, and breathing is difficult. Drinking water seems to help.                           |
-| **12**  | Rains of small aquatic creatures (tadpoles, frogs, small fish). No one seems to knows where they come from.        |
+| **12**  | Periodic rains of small aquatic creatures (tadpoles, frogs, small fish). No one knows where they come from.        |
 
 ## Details
 - Each dot on the map is one **Detail**. **Details** act as [**Points**](/wip/2e/wilderness-exploration/#points) according to the [**Wilderness Exploration**](/wip/2e/wilderness-exploration) rules. Keep in mind how many **Watches** it might take to travel to each **Detail**. 
@@ -138,22 +138,21 @@ To help create your setting's theme, answer the following questions:
 
 #### Settlements
 
-|         |                  |
-| ------- | ---------------- |
-| **d12** | **Settlement**   |
-| **1**   | **Bivouac**      |
-| **2**   | **Campground**   |
-| **3**   | **Caravan**      |
-| **4**   | **Caravanserai** |
-| **5**   | **City**         |
-| **6**   | **Commune**      |
-| **7**   | **Outpost**      |
-| **8**   | **Prison**       |
-| **9**   | **Sanctuary**    |
-| **10**  | **Stronghold**   |
-| **11**  | **Town**         |
-| **12**  | **Villa**        |
-
+|         |                |
+| ------- | -------------- |
+| **d12** | **Settlement** |
+| **1**   | **Campground** |
+| **2**   | **Caravan**    |
+| **3**   | **City**       |
+| **4**   | **Commune**    |
+| **5**   | **Inn**        |
+| **6**   | **Outpost**    |
+| **7**   | **Prison**     |
+| **8**   | **Sanctuary**  |
+| **9**   | **Settlement** |
+| **10**  | **Stronghold** |
+| **11**  | **Town**       |
+| **12**  | **Villa**      |
 
 > Roll on the [Settlement Features](#settlement-features) table below.
 
@@ -171,7 +170,7 @@ To help create your setting's theme, answer the following questions:
 | **7**   | **Technologically advanced**  |
 | **8**   | **Renowned exports**          |
 | **9**   | **Reclusive**                 |
-| **10**  | **Built atop atop ruins**     |
+| **10**  | **Built atop ruins**          |
 | **11**  | **Important to trade**        |
 | **12**  | **Ruled by powerful faction** |
 
@@ -207,7 +206,7 @@ To help create your setting's theme, answer the following questions:
 | **7**   | **Primitive bridge**  |
 | **8**   | **Rusted metal cube** |
 | **9**   | **Shallow island**    |
-| **10**  | **Shipwreck**         |
+| **10**  | **Derilect ship**     |
 | **11**  | **Sunken thicket**    |
 | **12**  | **Toxic quarry**      |
 
@@ -326,7 +325,7 @@ To help create your setting's theme, answer the following questions:
 | **13**   | **Blistered**  | **63**  | **Lone**       |
 | **14**   | **Blistering** | **64**  | **Lonely**     |
 | **15**   | **Blustery**   | **65**  | **Luminous**   |
-| **16**   | **Breezy**     | **66**  | **Lurching**   |
+| **16**   | **Brisk**      | **66**  | **Lurching**   |
 | **17**   | **Bright**     | **67**  | **Lustrous**   |
 | **18**   | **Broad**      | **68**  | **Miserable**  |
 | **19**   | **Calm**       | **69**  | **Misty**      |
@@ -470,7 +469,7 @@ To help create your setting's theme, answer the following questions:
 - Then, select either a Lair or Ruin on the map. Follow steps 1-5 to make at least one **Faction** for that site. 
 - Repeat as desired.
 1. Roll on the [Faction Types](#faction-types) table to determine the nature of the Faction. 
-2. Consider how many Advantages a Faction of this type might have (between 2-4) and roll accordingly on the [Faction Advantages](#faction-Advantages) table. Flesh out the specifics of the Advantages as indicated by the results from the table. 
+2. Consider how many **Advantages** a **Faction** of this type might have (between 2-4) and roll accordingly on the [Faction Advantages](#faction-Advantages) table. Flesh out the specifics of the Advantages as indicated by the results from the table. 
 3. Roll on the the [**Faction Agendas**](#faction-agendas) table and consider what their specific **Agenda** may be given your current information. Establish a series of goals (3-4) that must be accomplished for this **Agenda** to be accomplished.
 4. Roll on the [Faction Obstacles](#faction-obstacles) table. Use the result to consider what might prevent the **Agenda** from succeeding.
 5. Create at least one **Seneschal**, inspired by the **Faction** type, **Advantages**, and **Agenda**, and **Obstacle**. Think of where they might be located on the map. Make that location the **Faction's** home base.
