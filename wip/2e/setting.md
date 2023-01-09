@@ -451,13 +451,15 @@ To help create your setting's theme, answer the following questions:
 
 ## Factions
 - Factions rule over one or more **Details**, an entire **Province**, or even a **Domain**. 
-- The map should reflect the impact of goals being completed or interrupted. **Factions** will work to complete their **Agenda** independently.
-- A **Faction** may be governed by a powerful figure, but most of the time PCs will be dealing with their lieutenants, or **Seneschals**. 
+- A **Faction** may be governed by a powerful figure, but most of the time PCs will be dealing with their **Seneschals**.
+- **Factions** have **Agendas**, and the **Advantages** to help them complete their goals. **Factions** will work to complete their **Agendas** independently.
 
-### Agendas & Advantages
-- **Factions** have **Agendas** (3-4 **goals** towards a clear objective) and the **Advantages** to help achieve them. 
-- **Advantages** reflect a **Factions'** influence, materials, wealth, and special features. 
-- **Factions** add (or lose) their **Advantages** by trying to complete their agenda. 
+> The setting map should reflect the impact of **Factions** as they work on completing their **Agendas** and acquiring more **Advantages**.
+
+### Agendas & Advantages 
+- **Agendas** are 3-4 **goals** towards a clear objective or purpose. They are rooted in desire: that for power, wealth, revenge, resources, etc.
+- **Advantages** reflect a **Faction's** influence, materials, wealth, and unique features. **Factions** add or lose **Advantages** by trying to complete their **Agenda**. 
+- **Factions** leverage **Advantages** as much as possible to acheive their goals, and at the same time work to acquire _more_ **Advantages**. 
 
 ### Creating Factions
 - Consider the **Details** and **Terrain** you've developed. Note what is worth protecting, as well as what is worth taking.
@@ -654,7 +656,6 @@ To help create your setting's theme, answer the following questions:
 | **18**  | **Realm**         |
 | **19**  | **Regency**       |
 | **20**  | **State**         |
-
 
 ### Non-random Province Names
 Consider the following when determining the **Province** name:
