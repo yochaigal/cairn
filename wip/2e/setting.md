@@ -206,7 +206,7 @@ To help create your setting's theme, answer the following questions:
 | **7**   | **Primitive bridge**  |
 | **8**   | **Rusted metal cube** |
 | **9**   | **Shallow island**    |
-| **10**  | **Derilect ship**     |
+| **10**  | **Derelect ship**     |
 | **11**  | **Sunken thicket**    |
 | **12**  | **Toxic quarry**      |
 
