@@ -451,8 +451,8 @@ To help create your setting's theme, answer the following questions:
 
 ## Factions
 - Factions rule over one or more **Details**, an entire **Province**, or even a **Domain**. 
-- A **Faction** may be governed by a powerful figure, but most of the time PCs will be dealing with their **Seneschals**.
-- **Factions** have **Agendas**, and the **Advantages** to help them complete their goals. **Factions** will work to complete their **Agendas** independently.
+- A **Faction** may be governed by a powerful figure, but most of the time PCs will be dealing with their subordinates, or **Seneschals**.
+- **Factions** have **Agendas** and **Advantages** to help them complete their goals. **Factions** will work to complete their **Agendas** independently.
 
 > The setting map should reflect the impact of **Factions** as they work on completing their **Agendas** and acquiring more **Advantages**.
 
@@ -473,6 +473,9 @@ To help create your setting's theme, answer the following questions:
 1. Roll on the [Faction Types](#faction-types) table to determine the nature of the Faction. 
 2. Consider how many **Advantages** a **Faction** of this type might have (between 2-4) and roll accordingly on the [Faction Advantages](#faction-Advantages) table. Flesh out the specifics of the Advantages as indicated by the results from the table. 
 3. Roll on the the [**Faction Agendas**](#faction-agendas) table and consider what their specific **Agenda** may be given your current information. Establish a series of goals (3-4) that must be accomplished for this **Agenda** to be accomplished.
+   - Goals are _progressive_, each building on the previous successes (or failures) of earlier goals.
+   - Most goals should focus on acquiring a distinct **Advantage** in order to proceed to the next goal.
+   - At least one goal should deal with the **Faction's** primary **Obstacle** (see below). This may be the first goal, or the last.
 4. Roll on the [Faction Obstacles](#faction-obstacles) table. Use the result to consider what might prevent the **Agenda** from succeeding.
 5. Create at least one **Seneschal**, inspired by the **Faction** type, **Advantages**, and **Agenda**, and **Obstacle**. Think of where they might be located on the map. Make that location the **Faction's** home base.
  
