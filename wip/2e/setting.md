@@ -477,6 +477,7 @@ To help create your setting's theme, answer the following questions:
   - Goals are _progressive_, each building on the previous successes (or failures) of earlier goals.
   - Most goals should focus on acquiring a distinct **Advantage** in order to proceed to the next goal.
   - At least one goal should deal with the **Faction's** primary **Obstacle** (see below). This may be the first goal, or the last.
+
 5. Roll on the [Faction Obstacles](#faction-obstacles) table. Use the result to consider what might prevent the **Agenda** from succeeding.
 6. Create at least one **Seneschal**, inspired by the **Faction** type, **Advantages**, and **Agenda**, and **Obstacle**. Think of where they might be located on the map. Make that location the **Faction's** home base.
  
