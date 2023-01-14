@@ -457,9 +457,14 @@ To help create your setting's theme, answer the following questions:
 > The setting map should reflect the impact of **Factions** as they work on completing their **Agendas** and acquiring more **Advantages**.
 
 ### Agendas & Advantages 
-- **Agendas** are 3-4 **goals** towards a clear objective or purpose. They are rooted in desire: that for power, wealth, revenge, resources, etc.
 - **Advantages** reflect a **Faction's** influence, materials, wealth, and unique features. **Factions** add or lose **Advantages** by trying to complete their **Agenda**. 
 - **Factions** leverage **Advantages** as much as possible to acheive their goals, and at the same time work to acquire _more_ **Advantages**. 
+- **Agendas** are 3-4 **goals** towards a clear objective or purpose. They are rooted in desire: that for power, wealth, revenge, resources, etc.
+
+##### Goals
+  - Goals are _progressive_, each building on the previous successes (or failures) of earlier goals.
+  - Most goals should focus on acquiring a distinct **Advantage** in order to proceed to the next goal.
+  - At least one goal should deal with the **Faction's** primary **Obstacle** (see below). This may be the first goal, or the last.
 
 ### Creating Factions
 - Consider the **Details** and **Terrain** you've developed. Note what is worth protecting, as well as what is worth taking.
@@ -473,11 +478,7 @@ To help create your setting's theme, answer the following questions:
 1. Roll on the [Faction Types](#faction-types) table to determine the nature of the Faction. 
 2. Consider how many **Advantages** a **Faction** of this type might have (between 2-4) and roll accordingly on the [Faction Advantages](#faction-Advantages) table. Flesh out the specifics of the Advantages as indicated by the results from the table. 
 3. Roll on the the [**Faction Agendas**](#faction-agendas) table and consider what their specific **Agenda** may be given your current information. 
-4. Establish a series of goals (3-4) that must be accomplished for this **Agenda** to be accomplished.
-  - Goals are _progressive_, each building on the previous successes (or failures) of earlier goals.
-  - Most goals should focus on acquiring a distinct **Advantage** in order to proceed to the next goal.
-  - At least one goal should deal with the **Faction's** primary **Obstacle** (see below). This may be the first goal, or the last.
-
+4. Establish a series of 3-4 goals that _must_ be accomplished for this **Agenda** to be accomplished. See [Goals](#goals) above.
 5. Roll on the [Faction Obstacles](#faction-obstacles) table. Use the result to consider what might prevent the **Agenda** from succeeding.
 6. Create at least one **Seneschal**, inspired by the **Faction** type, **Advantages**, and **Agenda**, and **Obstacle**. Think of where they might be located on the map. Make that location the **Faction's** home base.
  
