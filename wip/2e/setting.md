@@ -39,9 +39,9 @@ To help create your setting's theme, answer the following questions:
 - Each **Province** has a **Heart**: a settlement (of any size) that reflects the history, **Factions**, and peoples of the land.
 
 ### Scale
-- **Small Province**: A **Heart** no more than _four_ **Watches** from the furthest **Detail**.  
-- **Medium Province**: A **Heart** no more than _eight_ **Watches** from the furthest **Detail**.
-- **Large Province**: A **Heart** no more than _sixteen_ **Watches** from the furthest **Detail**.
+- **Small Province**: A **Heart** no more than _four_ **Watches** from the furthest **Detail**, and up to 3 **Factions**.  
+- **Medium Province**: A **Heart** no more than _eight_ **Watches** from the furthest **Detail**, and up to 6 **Factions**.
+- **Large Province**: A **Heart** no more than _sixteen_ **Watches** from the furthest **Detail**, and up to 9 **Factions**.
 
 ### Creating a Province
 1. On a flat sheet of paper, create a dot to signify the **Heart** of the **Province**. 
@@ -467,17 +467,18 @@ To help create your setting's theme, answer the following questions:
 - Do not feel limited by the table results below. If something feels "off" or a different table result would work better for your setting, use it!
 
 #### Factions Creation Procedure
-- First, follow steps **1-5** for every Settlement **Detail** on the map, starting with the **Heart**.
-- Then, select either a Lair or Ruin on the map. Follow steps 1-5 to make at least one **Faction** for that site. 
-- Repeat as desired.
+- First, decide how many **Factions** you would like to create, or refer to the **Province** [Scale](#scale). 
+- Follow steps **1-6** for each **Faction**.
+- Finally, select either a **Lair** or **Ruin** on the map and follow steps **1-6** again to make at least one **Faction** for that **Detail**. 
 1. Roll on the [Faction Types](#faction-types) table to determine the nature of the Faction. 
 2. Consider how many **Advantages** a **Faction** of this type might have (between 2-4) and roll accordingly on the [Faction Advantages](#faction-Advantages) table. Flesh out the specifics of the Advantages as indicated by the results from the table. 
-3. Roll on the the [**Faction Agendas**](#faction-agendas) table and consider what their specific **Agenda** may be given your current information. Establish a series of goals (3-4) that must be accomplished for this **Agenda** to be accomplished.
-   - Goals are _progressive_, each building on the previous successes (or failures) of earlier goals.
-   - Most goals should focus on acquiring a distinct **Advantage** in order to proceed to the next goal.
-   - At least one goal should deal with the **Faction's** primary **Obstacle** (see below). This may be the first goal, or the last.
-4. Roll on the [Faction Obstacles](#faction-obstacles) table. Use the result to consider what might prevent the **Agenda** from succeeding.
-5. Create at least one **Seneschal**, inspired by the **Faction** type, **Advantages**, and **Agenda**, and **Obstacle**. Think of where they might be located on the map. Make that location the **Faction's** home base.
+3. Roll on the the [**Faction Agendas**](#faction-agendas) table and consider what their specific **Agenda** may be given your current information. 
+4. Establish a series of goals (3-4) that must be accomplished for this **Agenda** to be accomplished.
+  - Goals are _progressive_, each building on the previous successes (or failures) of earlier goals.
+  - Most goals should focus on acquiring a distinct **Advantage** in order to proceed to the next goal.
+  - At least one goal should deal with the **Faction's** primary **Obstacle** (see below). This may be the first goal, or the last.
+5. Roll on the [Faction Obstacles](#faction-obstacles) table. Use the result to consider what might prevent the **Agenda** from succeeding.
+6. Create at least one **Seneschal**, inspired by the **Faction** type, **Advantages**, and **Agenda**, and **Obstacle**. Think of where they might be located on the map. Make that location the **Faction's** home base.
  
 #### Faction Types
 
