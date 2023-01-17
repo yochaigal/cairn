@@ -48,8 +48,6 @@ Expand For Example
 
  **Barry**: _"All right, here's the plan: I'll climb up one of these trees above the plant and drape my blanket over it, blocking the sunlight. Hopefully that'll make the pods close up!"_
 
- **Barry**: _"All right, here's the plan: I'll climb up one of these trees above the plant and drape my blanket over it, blocking the sunlight. Hopefully that'll make the pods close up!"_
-
 **Warden**: _"You carefully lay your sleeping blanket between to trunks, casting a shadow over the blue pods of the plant below. Immediately they begin to close, just enough to allow a careful person to squeeze around them."_
 
 **Esther**: _"Excellent. I'm going to carefully extract one of the leaves for later use, then move on."_
@@ -127,7 +125,7 @@ Expand For Example
 
  **Esther**: _"Do we know anything about this creature?"_
 
- **Warden**: _"Yes - it's a [**Blood Elk**](/monsters/blood-elk/), which is a sort of killer deer born from great greed or envy. They are pretty powerful, from what you've heard."_
+ **Warden**: _"Yes - it's a [**Blood Elk**](/resources/monsters/blood-elk/), which is a sort of killer deer born from great greed or envy. They are pretty powerful, from what you've heard."_
 
  **Esther**: _"Spooky! In that case, I want to use my action to help drag my comrade out of the way, maybe towards that Oak tree you mentioned earlier."_
 
@@ -191,7 +189,7 @@ Expand For Example
 
  **Warden**: _"Not that you can see. In the far North a copse of trees hugs the ravine and partially blocks your way; you'd need to explore a bit to see past them.  A few hundred meters South however you can see a small shelf jutting out from inside the ravine, probably fifty feet down. It makes a sort of "L" shape, getting pretty close to the other side. It might require a little work to shimmy onto, but it seems doable."_
 
- **Barry**: _"I say, let's go for the shelf. Still go that rope and pitons?"_
+ **Barry**: _"I say, let's go for the shelf. Still got that rope and pitons?"_
 
  **Esther**: _"Yeah, I don't see a better way across. Let's go."_
 
@@ -359,7 +357,7 @@ Expand For Example
 
   **Esther**: _"If I'm close to the river, I'd like to study it some more. Do I still see the swirling bioluminescent plant things?"_
 
-  **Warden**: _"Yes, and they seem to be following you. Interestingly, the light from their movement is almost enough to see the into the river."_
+  **Warden**: _"Yes, and they seem to be following you. Interestingly, the light from their movement is almost enough to see into the river."_
 
   **Barry**: _"That's good. Maybe now you can keep an eye out for any more eels? What about me? What do I see as I trod down this godforsaken ravine?"_
 
