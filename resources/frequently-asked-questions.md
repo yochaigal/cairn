@@ -189,7 +189,7 @@ Expand For Example
 
  **Warden**: _"Not that you can see. In the far North a copse of trees hugs the ravine and partially blocks your way; you'd need to explore a bit to see past them.  A few hundred meters South however you can see a small shelf jutting out from inside the ravine, probably fifty feet down. It makes a sort of "L" shape, getting pretty close to the other side. It might require a little work to shimmy onto, but it seems doable."_
 
- **Barry**: _"I say, let's go for the shelf. Still go that rope and pitons?"_
+ **Barry**: _"I say, let's go for the shelf. Still got that rope and pitons?"_
 
  **Esther**: _"Yeah, I don't see a better way across. Let's go."_
 
@@ -357,7 +357,7 @@ Expand For Example
 
   **Esther**: _"If I'm close to the river, I'd like to study it some more. Do I still see the swirling bioluminescent plant things?"_
 
-  **Warden**: _"Yes, and they seem to be following you. Interestingly, the light from their movement is almost enough to see the into the river."_
+  **Warden**: _"Yes, and they seem to be following you. Interestingly, the light from their movement is almost enough to see into the river."_
 
   **Barry**: _"That's good. Maybe now you can keep an eye out for any more eels? What about me? What do I see as I trod down this godforsaken ravine?"_
 
