@@ -125,7 +125,7 @@ Expand For Example
 
  **Esther**: _"Do we know anything about this creature?"_
 
- **Warden**: _"Yes - it's a [**Blood Elk**](/monsters/blood-elk/), which is a sort of killer deer born from great greed or envy. They are pretty powerful, from what you've heard."_
+ **Warden**: _"Yes - it's a [**Blood Elk**](/resources/monsters/blood-elk/), which is a sort of killer deer born from great greed or envy. They are pretty powerful, from what you've heard."_
 
  **Esther**: _"Spooky! In that case, I want to use my action to help drag my comrade out of the way, maybe towards that Oak tree you mentioned earlier."_
 
