@@ -450,21 +450,9 @@ To help create your setting's theme, answer the following questions:
 > Lines on the map (roads, paths, etc) can be named in a similar way, if necessary.
 
 ## Factions
+- For complete rules, see [here](/wip/2e/factions).
 - Factions rule over one or more **Details**, an entire **Province**, or even a **Domain**. 
-- A **Faction** may be governed by a powerful figure, but most of the time PCs will be dealing with their subordinates, or **Seneschals**.
-- **Factions** have **Agendas** and **Advantages** to help them complete their goals. **Factions** will work to complete their **Agendas** independently.
-
-> The setting map should reflect the impact of **Factions** as they work on completing their **Agendas** and acquiring more **Advantages**.
-
-### Agendas & Advantages 
-- **Advantages** reflect a **Faction's** influence, materials, wealth, and unique features. **Factions** add or lose **Advantages** by trying to complete their **Agenda**. 
-- **Factions** leverage **Advantages** as much as possible to acheive their goals, and at the same time work to acquire _more_ **Advantages**. 
-- **Agendas** are 3-4 **goals** towards a clear objective or purpose. They are rooted in desire: that for power, wealth, revenge, resources, etc.
-
-##### Goals
-  - Goals are _progressive_, each building on the previous successes (or failures) of earlier goals.
-  - Most goals should focus on acquiring a distinct **Advantage** in order to proceed to the next goal.
-  - At least one goal should deal with the **Faction's** primary **Obstacle** (see below). This may be the first goal, or the last.
+- The setting map should reflect the impact of **Factions** as they work on completing their **Agendas** and acquiring more **Advantages**.
 
 ### Creating Factions
 - Consider the **Details** and **Terrain** you've developed. Note what is worth protecting, as well as what is worth taking.
@@ -599,27 +587,6 @@ To help create your setting's theme, answer the following questions:
   - Travel through the lands of the dead in search of the _Order_'s founder, and force their to reveal an ancient secret.
   - Reveal the founder's secrets - including their true identity - to the monarchy. Tie up any loose ends, including witnesses.
 - **Obstacle**: **Rotten From Within**. The _Guild_ has received legitimate intelligence that a well-placed operative moves within their ranks, and is aware of the coming operation.
-
-### Faction Rules
-- By default, **Factions** operate independent of the player character's actions. If the PCs do nothing, the **Factions** should still act to achieve their aims.
-- Whenever a **Faction** is positioned to advance a goal in their **Agenda**, roll a **d12** on the [Faction Actions](#faction-actions) table. 
-- If two **Factions** are _opposed_, the **Faction** _most at risk_ makes a WIL save, using the score of its highest-ranking **Seneschal**. 
-  - On a success, the **Faction** most at risk rolls on the [Faction Actions](#faction-actions) table, and their opponent does not.
-  - On a fail, the **Faction** most at risk _does not_ roll on the [Faction Actions](#faction-actions) table, but their opponent does.
-
-#### Faction Actions
-
-|           |                   |                                                                |
-| --------- | ----------------- | -------------------------------------------------------------- |
-| **d12**   | **Consequence**   | **Impact**                                                     |
-| **1-2**   | **Failure**       | A new **Obstacle** is introduced, and a **Advantage** is lost. |
-| **3-4**   | **Setback**       | A **Advantage** is lost.                                       |
-| **5-6**   | **Status Quo**    | Nothing is gained, but nothing is lost.                        |
-| **7-8**   | **Mixed Success** | A **goal** is achieved,  but a **Advantage** is lost.          |
-| **9-10**  | **Success**       | A **goal** is achieved, and no **Advantages** are lost.        |
-| **11-12** | **Major Success** | A **goal** is achieved, and a new **Advantage** is found.      |
-
-> The actions of the PCs can always overrule the necessity for a **Faction** action, or in some cases provide an advantage of some kind to the roll. 
 
 ## Province Name
 1. Roll on the [Ruler Names Formula](#ruler-names-formula) table below.

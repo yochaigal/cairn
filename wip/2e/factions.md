@@ -1,0 +1,48 @@
+---
+layout: default
+title: Factions
+grand_parent: WIP
+parent: 2e
+nav_exclude: true
+search_exclude: true
+---
+
+# Factions
+- Generate **Factions** for your setting [here](/wip/2e/setting#factions).
+- A **Faction** may be governed by a powerful figure, but most of the time PCs will be dealing with their subordinates, or **Seneschals**.
+- **Factions** have **Agendas** and **Advantages** to help them complete their goals. **Factions** will work to complete their **Agendas** independently.
+
+> The setting map should reflect the impact of **Factions** as they work on completing their **Agendas** and acquiring more **Advantages**.
+
+## Agendas & Advantages 
+- **Advantages** reflect a **Faction's** influence, materials, wealth, and unique features. **Factions** add or lose **Advantages** by trying to complete their **Agenda**. 
+- **Factions** leverage **Advantages** as much as possible to acheive their goals, and at the same time work to acquire _more_ **Advantages**. 
+- **Agendas** are 3-4 **goals** towards a clear objective or purpose. They are rooted in desire: that for power, wealth, revenge, resources, etc.
+
+### Goals
+  - Goals are _progressive_, each building on the previous successes (or failures) of earlier goals.
+  - Most goals should focus on acquiring a distinct **Advantage** in order to proceed to the next goal.
+  - At least one goal should deal with the **Faction's** primary **Obstacle** (see below). This may be the first goal, or the last.
+
+## Faction Rules
+- By default, **Factions** operate independent of the player character's actions. If the PCs do nothing, the **Factions** should still act to achieve their aims.
+- Whenever a **Faction** is positioned to advance a **goal** in their **Agenda**, roll a **d12** on the [Faction Actions](#faction-actions) table. 
+- If two **Factions** are _opposed_, the **Faction** _most at risk_ makes a WIL save, using the score of its highest-ranking **Seneschal**. 
+  - On a success, the **Faction** most at risk rolls on the [Faction Actions](#faction-actions) table, and their opponent does not.
+  - On a fail, the **Faction** most at risk _does not_ roll on the [Faction Actions](#faction-actions) table, but their opponent does.
+
+| The **Warden** should rely on the fiction to determine whether a **Faction** is positioned to advance their **Agenda**. **Goals** may be time-sensitive or depend on explicit circumstances. Other times might be after a major event, alliance or friction between one or more **Factions**, etc.
+
+### Faction Actions
+
+|           |                   |                                                                |
+| --------- | ----------------- | -------------------------------------------------------------- |
+| **d12**   | **Consequence**   | **Impact**                                                     |
+| **1-2**   | **Failure**       | A new **Obstacle** is introduced, and a **Advantage** is lost. |
+| **3-4**   | **Setback**       | A **Advantage** is lost.                                       |
+| **5-6**   | **Status Quo**    | Nothing is gained, but nothing is lost.                        |
+| **7-8**   | **Mixed Success** | A **goal** is achieved,  but a **Advantage** is lost.          |
+| **9-10**  | **Success**       | A **goal** is achieved, and no **Advantages** are lost.        |
+| **11-12** | **Major Success** | A **goal** is achieved, and a new **Advantage** is found.      |
+
+> The actions of the PCs can always overrule the necessity for a **Faction** action, or in some cases provide an advantage of some kind to the roll. 
