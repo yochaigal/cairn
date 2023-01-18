@@ -31,7 +31,7 @@ search_exclude: true
   - On a success, the **Faction** most at risk rolls on the [Faction Actions](#faction-actions) table, and their opponent does not.
   - On a fail, the **Faction** most at risk _does not_ roll on the [Faction Actions](#faction-actions) table, but their opponent does.
 
-| The **Warden** should rely on the fiction to determine whether a **Faction** is positioned to advance their **Agenda**. **Goals** may be time-sensitive or depend on explicit circumstances. Other times might be after a major event, alliance or friction between one or more **Factions**, etc.
+> The **Warden** should rely on the fiction to determine whether a **Faction** is positioned to advance their **Agenda**. **Goals** may be time-sensitive or depend on explicit circumstances. Other times might be after a major event, alliance or friction between one or more **Factions**, etc.
 
 ### Faction Actions
 
