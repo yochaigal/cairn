@@ -166,7 +166,7 @@ Now that all three players have taken a turn, the **Warden** rolls on the [**Dun
 
 > **Combat ensues between the party members in the Courtyard - a _turn undead_ spellbook is used, and the player characters are quickly (and brutally) victorious. Gar returns from the tunnel just as the fight is ended.**
 
-**Warden**: _"Great, everyone please record that you've each used your torches for one **turn**. When you've finished, tell me what you plan to do next..."_
+**Warden**: _"Alright folks. You've each completed a full turn. Please tell me what you plan to do next..."_
 
 ## Credits
 
