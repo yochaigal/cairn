@@ -32,7 +32,7 @@ Players act as hardened adventurers exploring a dark & mysterious Wood filled wi
 The Warden's role is to portray the rules, situations, NPCs, and narrative clearly, while acting as a neutral arbiter.
 
 ### Classless  
-A character's role or skills are not limited by a single class. Instead, the equipment they carry and their experiences defines their specialty.
+A character's role or skills are not limited by a single class. Instead, the equipment they carry and their experiences define their specialty.
 
 ### Death
 Characters may be powerful, but they are also vulnerable to harm in its many forms. Death is always around the corner, but it is never random or without warning.
