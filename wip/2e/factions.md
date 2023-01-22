@@ -25,6 +25,8 @@ search_exclude: true
 4. Establish a series of 3-4 goals that _must_ be accomplished for this **Agenda** to be accomplished. See [Goals](#goals) below.
 5. Create at least one [**Seneschal**](#Seneschals), inspired by the **Faction** type, **Advantages**, and **Agenda**, and **Obstacle** that were generated. Place them at the **Faction's** home base, or at a **Detail** where the interests of the Faction lie.
 
+> Do not feel limited by the table results below. If something feels "off" or a different table result would work better for your setting, use it!
+
 ## Advantages
 - **Advantages** reflect a **Faction's** influence, materials, wealth, and unique features. **Advantages** are best interpreted through the lens of **Faction Type**.
 - **Factions** add or lose **Advantages** by trying to complete their **Agenda** (see below).
@@ -100,6 +102,20 @@ search_exclude: true
 - Small **Factions** may have a single leader that acts as **Seneschal**, and may even be a **Faction** of one!
 
 > Often **Seneschals** will have personal motivations that differ from the Faction's main **Agenda**, a fact that canny PCs can exploit for their own gain.
+
+## Example Faction
+- **Academic**: _Royal Cartographer's Guild_
+- **Base**: _Seaside Athenaeum_
+##### Advantages
+- **Apparatus**: A _Map of the Dead_. It opens a path to the underworld, and to the secrets of the dead.  
+- **Position**: The _Seaside Athenaeum_ is both well-defended and steeped in forbidden secrets. 
+- **Renown**: None would dare defy the _Guild_ publicly. Their voice carries great weight in the kingdom.
+- **Seneschals**: _Dr. Horatia Confi_, first order. Discovered the _Map of the Dead_. Stats as human (WIL 15).  
+- **Agenda**: **Destroy**. The _Guild_ has long been at war with the _Holy Order of Yix_ (figuratively and otherwise) for over a century. It is time their ignorant sect was brought to its knees. _The Order_ is currently favored by the monarchy, but that could all change.
+  - Hire a skilled party, and lead them to the _Gates of the Underworld_. _Dr. Confi_ will lead the expedition.   
+  - Travel through the lands of the dead in search of the _Order_'s founder, and force their to reveal an ancient secret.
+  - Reveal the founder's secrets - including their true identity - to the monarchy. Tie up any loose ends, including witnesses.
+- **Obstacle**: **Rotten From Within**. The _Guild_ has received legitimate intelligence that a well-placed operative moves within their ranks, and is aware of the coming operation.
 
 ## Faction Rules
 - By default, **Factions** operate independent of the player character's actions. If the PCs do nothing, the **Factions** should still act to achieve their aims.
