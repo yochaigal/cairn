@@ -25,6 +25,8 @@ search_exclude: true
 4. Establish a series of 3-4 goals that _must_ be accomplished for this **Agenda** to be accomplished. See [Goals](#goals) below.
 5. Create at least one [**Seneschal**](#Seneschals), inspired by the **Faction** type, **Advantages**, and **Agenda**, and **Obstacle** that were generated. Place them at the **Faction's** home base, or at a **Detail** where the interests of the Faction lie.
 
+> Do not feel limited by the table results below. If something feels "off" or a different table result would work better for your setting, use it!
+
 ## Advantages
 - **Advantages** reflect a **Faction's** influence, materials, wealth, and unique features. **Advantages** are best interpreted through the lens of **Faction Type**.
 - **Factions** add or lose **Advantages** by trying to complete their **Agenda** (see below).
