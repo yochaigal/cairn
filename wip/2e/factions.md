@@ -7,8 +7,10 @@ nav_exclude: true
 search_exclude: true
 ---
 
-# Factions
-- Generate **Factions** for your setting [here](/wip/2e/setting#factions).
+# Factions Overview
+- Rules for initially generating **Factions** for your setting can be found [here](/wip/2e/setting#factions).
+- **Factions** possess **Advantages** that allow them to accomplish their goals, the culmination of which will result in fufilling their **Agendas**.
+- All Factions also face **Obstacles**, which prevent them from easily accomplishing their **Agendas**
 - A **Faction** may be governed by a powerful figure, but most of the time PCs will be dealing with their subordinates, or **Seneschals**.
 - **Factions** have **Agendas** and **Advantages** to help them complete their goals. **Factions** will work to complete their **Agendas** independently.
 
@@ -31,7 +33,7 @@ search_exclude: true
   - On a success, the **Faction** most at risk rolls on the [Faction Actions](#faction-actions) table, and their opponent does not.
   - On a fail, the **Faction** most at risk _does not_ roll on the [Faction Actions](#faction-actions) table, but their opponent does.
 
-> The **Warden** should rely on the fiction to determine whether a **Faction** is positioned to advance their **Agenda**. **Goals** may be time-sensitive or depend on explicit circumstances. Other times might be after a major event, alliance or friction between one or more **Factions**, etc.
+> The **Warden** should rely on the fiction to determine whether a **Faction** is positioned to advance their **Agenda**. **Goals** may be time-sensitive or depend on explicit circumstances. Other times it might be more appropriate after a major event, alliance, or friction between one or more **Factions**, etc.
 
 ### Faction Actions
 
@@ -45,4 +47,4 @@ search_exclude: true
 | **9-10**  | **Success**       | A **goal** is achieved, and no **Advantages** are lost.        |
 | **11-12** | **Major Success** | A **goal** is achieved, and a new **Advantage** is found.      |
 
-> The actions of the PCs can always overrule the necessity for a **Faction** action, or in some cases provide an advantage of some kind to the roll. 
+> The actions of the PCs can always overrule the necessity for a **Faction** action, or in some cases shift the outcome of the roll in a favorable or unfavorable direction. 
