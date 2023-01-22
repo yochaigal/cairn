@@ -29,12 +29,12 @@ To help create your setting's theme, answer the following questions:
  - How does magic work?
  - What level of technology do the denizens have?
  - How does religion function? Do gods walk the lands, and do the people know it?
- - Who are the PCs in the setting? What is theirposition with respect to those in power?
+ - Who are the PCs in the setting? What is their position with respect to those in power?
  - What species & backgrounds exist, and are they playable by PCs?
  - What linguistic and cultural flavor exists in the setting? 
 
 ## Provinces
-- A **Province** is a single, traversable landscape roughly defined by divisble terrain (mountain ranges, rivers, oceans). 
+- A **Province** is a single, traversable landscape roughly defined by divisible terrain (mountain ranges, rivers, oceans). 
 - A **Domain** is one or more adjacent **Provinces** defined by the same ruler(s). 
 - Each **Province** has a **Heart**: a settlement (of any size) that reflects the history, **Factions**, and peoples of the land.
 
@@ -54,8 +54,8 @@ To help create your setting's theme, answer the following questions:
 8. Number the dots, starting from the **Heart** and expanding outwards. The **Heart** is always **1**, and the **Frontier** is always the terminal number.
 
 #### Tips
-- You can increase the **Province Scale** by doubling the size of the triangle in step **5**, then adding dots halfway between two points on any line (roads, trails, rivers, etc).
-- You can use other shapes (squares, rectangles, circles, etc) to create dots instead. You can even mix & match!
+- You can increase the **Province Scale** by doubling the size of the triangle in step **5**, then adding dots halfway between two points on any line (roads, trails, rivers, etc.).
+- You can use other shapes (squares, rectangles, circles, etc.) to create dots instead. You can even mix & match!
 - You can repeat this process for any adjacent **Provinces**, connecting them by road, river, or range. 
 
 ### Adding Terrain
@@ -103,7 +103,7 @@ To help create your setting's theme, answer the following questions:
 | **3**   | Days are erratic. The Sun goes backwards for a time, then jumps forward as night rapidly sets.                     |
 | **4**   | Lakes and streams dry up in minutes, filling storm clouds that drench the landscape.                               |
 | **5**   | Rainbows lack most of their colors, and occasionally flicker. Raindrops fall in various colors. Do not taste them. |
-| **6**   | Distant chimes instead of thunder. A smokey, sweet wind of no apparent origin blows in from the West.              |
+| **6**   | Distant chimes instead of thunder. A smoky, sweet wind of no apparent origin blows in from the West.              |
 | **7**   | Fog there fills the belly (no need for rations). Tomorrow, vomiting.                                               |
 | **8**   | The winds carry whispers of voices. Some say they tell hints of the future.                                        |
 | **9**   | Shadows disappear at random. Animals are reluctant to enter.                                                       |
@@ -118,7 +118,7 @@ To help create your setting's theme, answer the following questions:
 
 ### Adding Details
 1. Roll on the [Settlements](#settlements) and [Settlement Features](#settlement-features) tables to generate the **Heart** of the **Province**.
-2. Generate features for each remaining dot _except_ the **Frontier** by first rolling on the the [Detail Types](#detail-types) table, then on the associated table.
+2. Generate features for each remaining dot _except_ the **Frontier** by first rolling on the [Detail Types](#detail-types) table, then on the associated table.
 3. For any additional Settlements rolled, roll on the [Settlement Features](#settlement-features) table as well.
 4. Generate features for the **Frontier** by rolling _only_ the [Special](#special) table.
 
@@ -206,7 +206,7 @@ To help create your setting's theme, answer the following questions:
 | **7**   | **Primitive bridge**  |
 | **8**   | **Rusted metal cube** |
 | **9**   | **Shallow island**    |
-| **10**  | **Derelect ship**     |
+| **10**  | **Derelict ship**     |
 | **11**  | **Sunken thicket**    |
 | **12**  | **Toxic quarry**      |
 
@@ -274,7 +274,7 @@ To help create your setting's theme, answer the following questions:
 | **20**  | **Trees that move**         |
 
 ### Detail Names
-- Settlements are often named after their unique features: the shape of the river nearby, or the large windmill in the town center. The residents then add a noun or adjective: _Windy Gulch, Black Tree Fort, Pitty Gardens_, etc.
+- Settlements are often named after their unique features: the shape of the river nearby, or the large windmill in the town center. The residents then add a noun or adjective: _Windy Gulch, Black Tree Fort, Rotting Gardens_, etc.
 - Important places (like cities) should have important names, like those of heroes, religious/political figures, and important events: _The Chalet of Saint Ibiz, Queen's Harvest, Light of the Nine_, etc.
 - Wild and dangerous places are named after their obvious hazards: poison lake, greedy mines, etc. Some tell a story: _Luka's Folly, Dead Man's Path_, etc. 
 
@@ -299,7 +299,7 @@ To help create your setting's theme, answer the following questions:
 
 #### Example Names
 - Cliffs / Ruins / Abandoned Settlement: 1-2 = **Forgotten Bluffs**
-- Plateau / Lair / Abandonded Bridge: 3-4 = **Flat Crossing**
+- Plateau / Lair / Abandoned Bridge: 3-4 = **Flat Crossing**
 - Forest / Settlement / Prison: 5-6 = **Woodcage**
 - Canyons / Hazard / Poisonous foliage: 7-8 = **Bane Ravine**
 - Oasis / Special / Unusual gravity: 9-10 = **The Floating Spring** 
@@ -447,7 +447,7 @@ To help create your setting's theme, answer the following questions:
 | **valley**     | dale, vale, basin, gully, gorge, gap, glen              |
 | **wasteland**  | _See desert_                                            |
 
-> Lines on the map (roads, paths, etc) can be named in a similar way, if necessary.
+> Lines on the map (roads, paths, etc.) can be named in a similar way, if necessary.
 
 ## Factions
 - For complete rules, see [here](/wip/2e/factions).
@@ -459,7 +459,7 @@ To help create your setting's theme, answer the following questions:
 ### Initial Faction Creation
 1. First, decide how many **Factions** you would like to create, or refer to the **Province** [Scale](#scale). 
  Generally it is a good idea to have at least one **Faction** in each **Settlement**, as well as at least one headquartered out of a **Lair** or **Ruin**.
-2. RRoll on the [**Faction Types**](#faction-types) table to determine the nature of each **Faction**.
+2. Roll on the [**Faction Types**](#faction-types) table to determine the nature of each **Faction**.
 3. Consider the **Details** and **Terrain** you've developed. Place each **Faction** at a **Detail** that makes sense for its **Faction Type**.
 4. Roll on the [**Faction Names**](#faction-names) for each **Faction** you have created.
 
@@ -560,10 +560,10 @@ To help create your setting's theme, answer the following questions:
 ### Non-random Province Names
 Consider the following when determining the **Province** name:
 - What are the key geographic features of the region? 
-- What major events (war, famine, discoveries) occured here in the past? Who were the major players?
+- What major events (war, famine, discoveries) occurred here in the past? Who were the major players?
 - What sort of factions have historically dominated this place?
 - A name may also include a reference to the region's relative position to the seat of power: _The Northeast Redoubt_, _Western Ranges_, etc.
-- The name (first, or family) of a "discoverer", conquerer or colonizer often sticks around long after their death.
+- The name (first, or family) of a "discoverer", conqueror or colonizer often sticks around long after their death.
 
 ## Conclusion
 Congratulations, your **Province** is complete! You can now "drill down" into various locations (starting with the **Heart**) and build out each **Detail** on your own favorite tables. Keep the following thoughts in mind as you go:
