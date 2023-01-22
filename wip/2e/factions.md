@@ -11,20 +11,30 @@ search_exclude: true
 - Rules for initially generating **Factions** for your setting can be found [here](/wip/2e/setting#factions).
 - **Factions** possess **Advantages** that allow them to accomplish their goals, the culmination of which will result in fufilling their **Agendas**.
 - All Factions also face **Obstacles**, which prevent them from easily accomplishing their **Agendas**
-- A **Faction** may be governed by a powerful figure, but most of the time PCs will be dealing with their subordinates, or **Seneschals**.
-- **Factions** have **Agendas** and **Advantages** to help them complete their goals. **Factions** will work to complete their **Agendas** independently.
+- A **Faction** may be governed by a one or more powerful figures, but most of the time PCs will be dealing with subordinates known as **Seneschals**.
+- **Factions** will work to complete their **Agendas** independently, enlisting the help of PCs only when advantageous.
 
 > The setting map should reflect the impact of **Factions** as they work on completing their **Agendas** and acquiring more **Advantages**.
 
-## Agendas & Advantages 
-- **Advantages** reflect a **Faction's** influence, materials, wealth, and unique features. **Factions** add or lose **Advantages** by trying to complete their **Agenda**. 
+## Advantages & Agendas
+- **Advantages** reflect a **Faction's** influence, materials, wealth, and unique features. **Advantages** are best interpreted through the lense of **Faction Type**.
+- *Factions** add or lose **Advantages** by trying to complete their **Agenda**.
 - **Factions** leverage **Advantages** as much as possible to acheive their goals, and at the same time work to acquire _more_ **Advantages**. 
-- **Agendas** are 3-4 **goals** towards a clear objective or purpose. They are rooted in desire: that for power, wealth, revenge, resources, etc.
+- **Agendas** are accomplished through the completion of **goals** that work toward a clear objective or purpose. They are rooted in desire: that for power, wealth, revenge, resources, etc.
+
+> If a Faction completes an **Agenda**, either roll another one or choose the option from the table that is best supported by developments in the fiction.
+
+## Obstacles
+- All **Agendas** have at least one **Obstacle** that stands in the way of their completion.  
+- Additional **Obstacles** can arise through **Faction Actions** (see below) or through developments in the fiction.
 
 ### Goals
   - Goals are _progressive_, each building on the previous successes (or failures) of earlier goals.
   - Most goals should focus on acquiring a distinct **Advantage** in order to proceed to the next goal.
-  - At least one goal should deal with the **Faction's** primary **Obstacle** (see below). This may be the first goal, or the last.
+  - At least one goal should deal with the **Faction's** primary **Obstacle** (see above). This may be the first goal, or the last.
+
+## Seneschals
+- 
 
 ## Faction Rules
 - By default, **Factions** operate independent of the player character's actions. If the PCs do nothing, the **Factions** should still act to achieve their aims.
