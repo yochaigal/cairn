@@ -9,17 +9,19 @@ search_exclude: true
 
 # Factions Overview
 - Rules for initially generating **Factions** for your setting can be found [here](/wip/2e/setting#factions).
-- **Factions** possess **Advantages** that allow them to accomplish their goals, the culmination of which will result in fufilling their **Agendas**.
+- **Factions** possess **Advantages** that allow them to accomplish their goals, the culmination of which will result in fulfilling their **Agendas**.
 - All Factions also face **Obstacles**, which prevent them from easily accomplishing their **Agendas**
 - A **Faction** may be governed by a one or more powerful figures, but most of the time PCs will be dealing with subordinates known as **Seneschals**.
 - **Factions** will work to complete their **Agendas** independently, enlisting the help of PCs only when advantageous.
 
 > The setting map should reflect the impact of **Factions** as they work on completing their **Agendas** and acquiring more **Advantages**.
 
+
+
 ## Advantages & Agendas
-- **Advantages** reflect a **Faction's** influence, materials, wealth, and unique features. **Advantages** are best interpreted through the lense of **Faction Type**.
+- **Advantages** reflect a **Faction's** influence, materials, wealth, and unique features. **Advantages** are best interpreted through the lens of **Faction Type**.
 - **Factions** add or lose **Advantages** by trying to complete their **Agenda**.
-- **Factions** leverage **Advantages** as much as possible to acheive their goals, and at the same time work to acquire _more_ **Advantages**. 
+- **Factions** leverage **Advantages** as much as possible to achieve their goals, and at the same time work to acquire _more_ **Advantages**. 
 - **Agendas** are accomplished through the completion of **goals** that work toward a clear objective or purpose. They are rooted in desire: that for power, wealth, revenge, resources, etc.
 
 > If a Faction completes an **Agenda**, either roll another one or choose the option from the table that is best supported by developments in the fiction.
@@ -36,6 +38,7 @@ search_exclude: true
 ## Seneschals
 - **Seneschals** are often in charge of completing one or more of the goals of the **Agenda** of a **Faction**.
 - Particularly large **Factions** may have additional **Seneschals**, often with each in charge of a different set of **Resources**
+- Small **Factions** may have a single leader that acts as **Seneschal**, and may even be a **Faction** of one!
 
 > Often **Seneschals** will have personal motivations that differ from the Faction's main **Agenda**, a fact that canny PCs can exploit for their own gain.
 
@@ -54,9 +57,9 @@ search_exclude: true
 | --------- | ----------------- | -------------------------------------------------------------- |
 | **d12**   | **Consequence**   | **Impact**                                                     |
 | **1-2**   | **Failure**       | A new **Obstacle** is introduced, and a **Advantage** is lost. |
-| **3-4**   | **Setback**       | A **Advantage** is lost.                                       |
+| **3-4**   | **Setback**       | An **Advantage** is lost.                                       |
 | **5-6**   | **Status Quo**    | Nothing is gained, but nothing is lost.                        |
-| **7-8**   | **Mixed Success** | A **goal** is achieved,  but a **Advantage** is lost.          |
+| **7-8**   | **Mixed Success** | A **goal** is achieved,  but an **Advantage** is lost.          |
 | **9-10**  | **Success**       | A **goal** is achieved, and no **Advantages** are lost.        |
 | **11-12** | **Major Success** | A **goal** is achieved, and a new **Advantage** is found.      |
 
