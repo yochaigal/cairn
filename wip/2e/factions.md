@@ -20,7 +20,7 @@ search_exclude: true
 - First, follow the initial Factions Creation instructions found in [Setting](/wip/2e/setting#factions), if you have yet to do so.
 - Follow steps **1-5** for each **Faction**.
 1. Consider how many **Advantages** a **Faction** would have (between 2-4) based on their **Faction Type** and roll accordingly on the [**Faction Advantages**](#Advantages) table. Flesh out the specifics of the Advantages as indicated by the results from the table. 
-2. Roll on the the [**Faction Agendas**](#Agendas) table and consider what their specific **Agenda** may be given your current information. 
+2. Roll on the [**Faction Agendas**](#Agendas) table and consider what their specific **Agenda** may be given your current information. 
 3. Roll on the [**Faction Obstacles**](#Obstacles) table. Use the result to consider what might prevent the **Agenda** from succeeding.
 4. Establish a series of 3-4 goals that _must_ be accomplished for this **Agenda** to be accomplished. See [Goals](#goals) below.
 5. Create at least one [**Seneschal**](#Seneschals), inspired by the **Faction** type, **Advantages**, and **Agenda**, and **Obstacle** that were generated. Place them at the **Faction's** home base, or at a **Detail** where the interests of the Faction lie.
