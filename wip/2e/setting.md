@@ -466,6 +466,7 @@ To help create your setting's theme, answer the following questions:
 #### Faction Types
 - Every **Faction** can generally be placed in one of the following broad categories.  
 - A **Faction Type** at odds with your existing Setting isn't necessarily a problem.  Some **Factions** are outsiders within a **Province**. 
+
 |         |                   |                                                                                                                                                |
 | ------- | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | **d12** | **Faction Type**  | **Example Factions**                                                                                                                           |
