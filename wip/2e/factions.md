@@ -18,7 +18,7 @@ search_exclude: true
 
 ## Advantages & Agendas
 - **Advantages** reflect a **Faction's** influence, materials, wealth, and unique features. **Advantages** are best interpreted through the lense of **Faction Type**.
-- *Factions** add or lose **Advantages** by trying to complete their **Agenda**.
+- **Factions** add or lose **Advantages** by trying to complete their **Agenda**.
 - **Factions** leverage **Advantages** as much as possible to acheive their goals, and at the same time work to acquire _more_ **Advantages**. 
 - **Agendas** are accomplished through the completion of **goals** that work toward a clear objective or purpose. They are rooted in desire: that for power, wealth, revenge, resources, etc.
 
@@ -34,7 +34,10 @@ search_exclude: true
   - At least one goal should deal with the **Faction's** primary **Obstacle** (see above). This may be the first goal, or the last.
 
 ## Seneschals
-- 
+- **Seneschals** are often in charge of completing one or more of the goals of the **Agenda** of a **Faction**.
+- Particularly large **Factions** may have additional **Seneschals**, often with each in charge of a different set of **Resources**
+
+> Often **Seneschals** will have personal motivations that differ from the Faction's main **Agenda**, a fact that canny PCs can exploit for their own gain.
 
 ## Faction Rules
 - By default, **Factions** operate independent of the player character's actions. If the PCs do nothing, the **Factions** should still act to achieve their aims.
