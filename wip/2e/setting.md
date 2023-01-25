@@ -362,7 +362,7 @@ To help create your setting's theme, answer the following questions:
 | **50**   | **Frozen**     | **100** | **Withered**   |
 
 
-#### **Nouns**
+#### Nouns
 
 |          |                |         |               |
 | -------- | -------------- | ------- | ------------- |
