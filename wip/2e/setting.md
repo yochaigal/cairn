@@ -29,12 +29,12 @@ To help create your setting's theme, answer the following questions:
  - How does magic work?
  - What level of technology do the denizens have?
  - How does religion function? Do gods walk the lands, and do the people know it?
- - Who are the PCs in the setting? What is theirposition with respect to those in power?
+ - Who are the PCs in the setting? What is their position with respect to those in power?
  - What species & backgrounds exist, and are they playable by PCs?
  - What linguistic and cultural flavor exists in the setting? 
 
 ## Provinces
-- A **Province** is a single, traversable landscape roughly defined by divisble terrain (mountain ranges, rivers, oceans). 
+- A **Province** is a single, traversable landscape roughly defined by divisible terrain (mountain ranges, rivers, oceans). 
 - A **Domain** is one or more adjacent **Provinces** defined by the same ruler(s). 
 - Each **Province** has a **Heart**: a settlement (of any size) that reflects the history, **Factions**, and peoples of the land.
 
@@ -54,8 +54,8 @@ To help create your setting's theme, answer the following questions:
 8. Number the dots, starting from the **Heart** and expanding outwards. The **Heart** is always **1**, and the **Frontier** is always the terminal number.
 
 #### Tips
-- You can increase the **Province Scale** by doubling the size of the triangle in step **5**, then adding dots halfway between two points on any line (roads, trails, rivers, etc).
-- You can use other shapes (squares, rectangles, circles, etc) to create dots instead. You can even mix & match!
+- You can increase the **Province Scale** by doubling the size of the triangle in step **5**, then adding dots halfway between two points on any line (roads, trails, rivers, etc.).
+- You can use other shapes (squares, rectangles, circles, etc.) to create dots instead. You can even mix & match!
 - You can repeat this process for any adjacent **Provinces**, connecting them by road, river, or range. 
 
 ### Adding Terrain
@@ -103,7 +103,7 @@ To help create your setting's theme, answer the following questions:
 | **3**   | Days are erratic. The Sun goes backwards for a time, then jumps forward as night rapidly sets.                     |
 | **4**   | Lakes and streams dry up in minutes, filling storm clouds that drench the landscape.                               |
 | **5**   | Rainbows lack most of their colors, and occasionally flicker. Raindrops fall in various colors. Do not taste them. |
-| **6**   | Distant chimes instead of thunder. A smokey, sweet wind of no apparent origin blows in from the West.              |
+| **6**   | Distant chimes instead of thunder. A smoky, sweet wind of no apparent origin blows in from the West.              |
 | **7**   | Fog there fills the belly (no need for rations). Tomorrow, vomiting.                                               |
 | **8**   | The winds carry whispers of voices. Some say they tell hints of the future.                                        |
 | **9**   | Shadows disappear at random. Animals are reluctant to enter.                                                       |
@@ -118,7 +118,7 @@ To help create your setting's theme, answer the following questions:
 
 ### Adding Details
 1. Roll on the [Settlements](#settlements) and [Settlement Features](#settlement-features) tables to generate the **Heart** of the **Province**.
-2. Generate features for each remaining dot _except_ the **Frontier** by first rolling on the the [Detail Types](#detail-types) table, then on the associated table.
+2. Generate features for each remaining dot _except_ the **Frontier** by first rolling on the [Detail Types](#detail-types) table, then on the associated table.
 3. For any additional Settlements rolled, roll on the [Settlement Features](#settlement-features) table as well.
 4. Generate features for the **Frontier** by rolling _only_ the [Special](#special) table.
 
@@ -206,7 +206,7 @@ To help create your setting's theme, answer the following questions:
 | **7**   | **Primitive bridge**  |
 | **8**   | **Rusted metal cube** |
 | **9**   | **Shallow island**    |
-| **10**  | **Derelect ship**     |
+| **10**  | **Derelict ship**     |
 | **11**  | **Sunken thicket**    |
 | **12**  | **Toxic quarry**      |
 
@@ -274,7 +274,7 @@ To help create your setting's theme, answer the following questions:
 | **20**  | **Trees that move**         |
 
 ### Detail Names
-- Settlements are often named after their unique features: the shape of the river nearby, or the large windmill in the town center. The residents then add a noun or adjective: _Windy Gulch, Black Tree Fort, Pitty Gardens_, etc.
+- Settlements are often named after their unique features: the shape of the river nearby, or the large windmill in the town center. The residents then add a noun or adjective: _Windy Gulch, Black Tree Fort, Rotting Gardens_, etc.
 - Important places (like cities) should have important names, like those of heroes, religious/political figures, and important events: _The Chalet of Saint Ibiz, Queen's Harvest, Light of the Nine_, etc.
 - Wild and dangerous places are named after their obvious hazards: poison lake, greedy mines, etc. Some tell a story: _Luka's Folly, Dead Man's Path_, etc. 
 
@@ -299,7 +299,7 @@ To help create your setting's theme, answer the following questions:
 
 #### Example Names
 - Cliffs / Ruins / Abandoned Settlement: 1-2 = **Forgotten Bluffs**
-- Plateau / Lair / Abandonded Bridge: 3-4 = **Flat Crossing**
+- Plateau / Lair / Abandoned Bridge: 3-4 = **Flat Crossing**
 - Forest / Settlement / Prison: 5-6 = **Woodcage**
 - Canyons / Hazard / Poisonous foliage: 7-8 = **Bane Ravine**
 - Oasis / Special / Unusual gravity: 9-10 = **The Floating Spring** 
@@ -448,30 +448,25 @@ To help create your setting's theme, answer the following questions:
 | **valley**     | dale, vale, basin, gully, gorge, gap, glen              |
 | **wasteland**  | _See desert_                                            |
 
-> Lines on the map (roads, paths, etc) can be named in a similar way, if necessary.
+> Lines on the map (roads, paths, etc.) can be named in a similar way, if necessary.
 
 ## Factions
 - For complete rules, see [here](/wip/2e/factions).
-- Factions rule over one or more **Details**, an entire **Province**, or even a **Domain**. 
-- The setting map should reflect the impact of **Factions** as they work on completing their **Agendas** and acquiring more **Advantages**.
+- Factions can vary in size. Some may compete over a single **Detail**, while others may control one or more **Details**, an entire **Province**, or even a **Domain**. 
+- The setting map should reflect the impact of **Factions** as they work on completing their **Agendas** and acquiring more **Advantages** (see [Factions](/wip/2e/factions) for more information).
 
-### Creating Factions
-- Consider the **Details** and **Terrain** you've developed. Note what is worth protecting, as well as what is worth taking.
-- **Agendas** are lofty plans with distinct steps based on actionable goals. They should relate to the acquisition of powerful territory, weapons, money, and **Advantages**. 
-- Do not feel limited by the table results below. If something feels "off" or a different table result would work better for your setting, use it!
+> Less is more when it comes to creating your initial Factions.  A few **Factions** that have interests and a presence in multiple **Details** within your Setting are easier to manage than a dozen smaller **Factions** of limited scope.  You can always add more if, in the process of fleshing out a **Detail**, it makes sense to do so.
 
-#### Factions Creation Procedure
-- First, decide how many **Factions** you would like to create, or refer to the **Province** [Scale](#scale). 
-- Follow steps **1-6** for each **Faction**.
-- Finally, select either a **Lair** or **Ruin** on the map and follow steps **1-6** again to make at least one **Faction** for that **Detail**. 
-1. Roll on the [Faction Types](#faction-types) table to determine the nature of the Faction. 
-2. Consider how many **Advantages** a **Faction** of this type might have (between 2-4) and roll accordingly on the [Faction Advantages](#faction-Advantages) table. Flesh out the specifics of the Advantages as indicated by the results from the table. 
-3. Roll on the the [**Faction Agendas**](#faction-agendas) table and consider what their specific **Agenda** may be given your current information. 
-4. Establish a series of 3-4 goals that _must_ be accomplished for this **Agenda** to be accomplished. See [Goals](#goals) above.
-5. Roll on the [Faction Obstacles](#faction-obstacles) table. Use the result to consider what might prevent the **Agenda** from succeeding.
-6. Create at least one **Seneschal**, inspired by the **Faction** type, **Advantages**, and **Agenda**, and **Obstacle**. Think of where they might be located on the map. Make that location the **Faction's** home base.
- 
+### Initial Faction Creation
+1. First, decide how many **Factions** you would like to create, or refer to the **Province** [Scale](#scale). 
+ Generally it is a good idea to have at least one **Faction** in each **Settlement**, as well as at least one headquartered out of a **Lair** or **Ruin**.
+2. Roll on the [**Faction Types**](#faction-types) table to determine the nature of each **Faction**.
+3. Consider the **Details** and **Terrain** you've developed. Place each **Faction** at a **Detail** that makes sense for its **Faction Type**.
+4. Roll on the [**Faction Names**](#faction-names) for each **Faction** you have created.
+
 #### Faction Types
+- Every **Faction** can generally be placed in one of the following broad categories.  
+- A **Faction Type** at odds with your existing Setting isn't necessarily a problem.  Some **Factions** are outsiders within a **Province**. 
 
 |         |                   |                                                                                                                                                |
 | ------- | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -488,60 +483,6 @@ To help create your setting's theme, answer the following questions:
 | **10**  | **Noble**         | _Lichthammer_. A family built on deft politicking. Their house is in debt to a dangerous group, and they could lose everything.                |
 | **11**  | **Religious**     | _His Noble Justice._ Stewards of sacred artifacts, guided by the divine to reclaim their most holy of objects.                                 |
 | **12**  | **Revolutionary** | _Light Rising_. The body politic is diseased beyond redemption. Plenty are ready to die for the cause, but only one is fit to lead them.       |
-
-#### Faction Advantages
-
-|         |                    |                                                                              |                                    |
-| ------- | ------------------ | ---------------------------------------------------------------------------- | ---------------------------------- |
-| **d12** | **Advantage Type** | **Example Advantages**                                                       | **Example Seneschals**             |
-| **1**   | **Anonymity**      | A secret society shrouded in mystery, its members' identities unknown.       | Monks, politicians, demi-gods      |
-| **2**   | **Apparatus**      | A powerful Relic, artifact, or tool.                                         | Scholars, philosophers, sages      |
-| **3**   | **Fealty**         | Enjoys the loyalty of a large or important bloc of people.                   | Lords, bannermen, farmers          |
-| **4**   | **Force**          | Employs brawn as its voice, and brute force as the cudgel.                   | Bullies, toughs, flatfoots         |
-| **5**   | **Information**    | Keeps tabs on friends and enemies alike via espionage and arcane privileges. | Spies, informants, mystics         |
-| **6**   | **Magic**          | Relies on the arcane arts to carry out its agenda.                           | Wizards, spellswords, liches       |
-| **7**   | **Population**     | Boasts a large number of rank and file members.                              | Gangs, urchins, peddlers           |
-| **8**   | **Position**       | Relies on a unique geographic or political immunity.                         | Outlanders, criminals, politicians |
-| **9**   | **Resources**      | Keeps sway over properties, assets, or source of power.                      | Workers, thugs, academics          |
-| **10**  | **Renown**         | Part of a de-facto regime, respected or feared.                              | Nobles, merchants, generals        |
-| **11**  | **Subterfuge**     | Moves unseen, achieving its goals through a cloak-and-dagger approach.       | Assassins, tricksters, thieves     |
-| **12**  | **Wealth**         | Affluent, using its riches to extend their influence and protect themselves. | Soldiers, officials, merchants     |
-
-#### Faction Agendas
-
-|         |                |                                                                      |
-| ------- | -------------- | -------------------------------------------------------------------- |
-| **d12** | **Agenda**     | **Example Agendas**                                                  |
-| **1**   | **Collect**    | Bring together ancient artifacts once thought lost.                  |
-| **2**   | **Defend**     | Protect a person, place or thing at all costs.                       |
-| **3**   | **Destroy**    | Eliminate a rival faction, artifact, or person.                      |
-| **4**   | **Domination** | Bring disparate factions under the same leadership, and then expand. |
-| **5**   | **Enrich**     | Concentrate as much wealth in the faction's coffers as possible.     |
-| **6**   | **Infiltrate** | Place members in other factions, asserting control from within.      |
-| **7**   | **Overthrow**  | Replace the current leadership with themselves.                      |
-| **8**   | **Preserve**   | Maintain the status quo, whatever the cost. Order isn't cheap.       |
-| **9**   | **Purge**      | Rid the land of a custom, belief, or people.                         |
-| **10**  | **Revenge**    | Rectify a perceived injustice. Direct experience unnecessary.        |
-| **11**  | **Reveal**     | Disclose a long-kept secret, not necessarily for personal gain.      |
-| **12**  | **Revive**     | Restore a former leader, god, or locale and pay it tribute.          |
-
-#### Faction Obstacles
-
-|         |                           |                                                                                 |
-| ------- | ------------------------- | ------------------------------------------------------------------------------- |
-| **d12** | **Obstacles**             | **Example Obstacles**                                                           |
-| **1**   | **Dog Eat Dog**           | Another **Faction** is vying for the same or similar **Agenda**.                |
-| **2**   | **Cloak & Dagger**        | The **Agenda** must be carried out in absolute secrecy.                         |
-| **3**   | **Guardian at the Gate**  | A powerful figure or foe must be eliminated to ensure a successful **Agenda**.  |
-| **4**   | **Consequnces are Dire**  | The **Agenda** contravenes an established code. Violation pays a heavy penalty. |
-| **5**   | **Special Set of Skills** | Accomplishing the **Agenda** requires specialists of an uncommon sort.          |
-| **6**   | **Tools for the Job**     | A particular object or Relic is required to complete the **Agenda**.            |
-| **7**   | **Perfect Timing**        | The **Agenda** must be carried out at a rare or exact moment.                   |
-| **8**   | **Public Perception**     | A significant portion of the population openly opposes the **Agenda**.          |
-| **9**   | **Opposition**            | Another **Faction** opposes the **Agenda**, and will attempt to stop it.        |
-| **10**  | **Limited Means**         | Considerable capital will be required to carry out the **Agenda**.              |
-| **11**  | **Rotten from Within**    | The **Faction** has a been infiltrated by a spy, intent on sabotage.            |
-| **12**  | **Body Count**            | Someone must die to ensure a successful outcome. The **Agenda** demands it.     |
 
 ### Faction Names
 1. Roll on the [Faction Names Formula](#faction-names-formula) table below.
@@ -574,20 +515,6 @@ To help create your setting's theme, answer the following questions:
 | **10**  | **Order**       |
 | **11**  | **Pact**        |
 | **12**  | **Prelate**     |
-
-### Example Faction
-- **Academic**: _Royal Cartographer's Guild_
-- **Base**: _Seaside Athenaeum_
-##### Advantages
-- **Apparatus**: A _Map of the Dead_. It opens a path to the underworld, and to the secrets of the dead.  
-- **Position**: The _Seaside Athenaeum_ is both well-defended and steeped in forbidden secrets. 
-- **Renown**: None would dare defy the _Guild_ publicly. Their voice carries great weight in the kingdom.
-- **Seneschals**: _Dr. Horatia Confi_, first order. Discovered the _Map of the Dead_. Stats as human (WIL 15).  
-- **Agenda**: **Destroy**. The _Guild_ has long been at war with the _Holy Order of Yix_ (figuratively and otherwise) for over a century. It is time their ignorant sect was brought to its knees. _The Order_ is currently favored by the monarchy, but that could all change.
-  - Hire a skilled party, and lead them to the _Gates of the Underworld_. _Dr. Confi_ will lead the expedition.   
-  - Travel through the lands of the dead in search of the _Order_'s founder, and force their to reveal an ancient secret.
-  - Reveal the founder's secrets - including their true identity - to the monarchy. Tie up any loose ends, including witnesses.
-- **Obstacle**: **Rotten From Within**. The _Guild_ has received legitimate intelligence that a well-placed operative moves within their ranks, and is aware of the coming operation.
 
 ## Province Name
 1. Roll on the [Ruler Names Formula](#ruler-names-formula) table below.
@@ -634,10 +561,10 @@ To help create your setting's theme, answer the following questions:
 ### Non-random Province Names
 Consider the following when determining the **Province** name:
 - What are the key geographic features of the region? 
-- What major events (war, famine, discoveries) occured here in the past? Who were the major players?
+- What major events (war, famine, discoveries) occurred here in the past? Who were the major players?
 - What sort of factions have historically dominated this place?
 - A name may also include a reference to the region's relative position to the seat of power: _The Northeast Redoubt_, _Western Ranges_, etc.
-- The name (first, or family) of a "discoverer", conquerer or colonizer often sticks around long after their death.
+- The name (first, or family) of a "discoverer", conqueror or colonizer often sticks around long after their death.
 
 ## Conclusion
 Congratulations, your **Province** is complete! You can now "drill down" into various locations (starting with the **Heart**) and build out each **Detail** on your own favorite tables. Keep the following thoughts in mind as you go:
