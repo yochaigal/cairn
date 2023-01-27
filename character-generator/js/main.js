@@ -14,7 +14,7 @@ allItems.push(armor, helmet, weapons, gear, tool, trinket, bonus);
 let total = 2;
 for (let i = 0; i < allItems.length; i++) {
   let item = allItems[i];
-  if (item.includes("bulky")) {
+  if (item.includes("bulky") || item.includes("and a")) {
     total += 2;
   } else if (total > 10){
     total = 10;
