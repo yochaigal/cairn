@@ -248,12 +248,12 @@ If you would like something closer to traditional classes, refer to the list of 
 #### Skin
 
 |  |            |      |           |
-| ---- | ---------- | ---- | --------- |
-| 1    | Birthmark  | 6    | Round     |
-| 2    | Dark       | 7    | Soft      |
-| 3    | Elongated  | 8    | Tanned    |
-| 4    | Pockmarked | 9    | Tattooed  |
-| 5    | Rosy       | 10   | Weathered |
+| ---- | ---------- | ---- | ---------  |
+| 1    | Birthmark  | 6    | Pockmarked |
+| 2    | Dark       | 7    | Rosy       |
+| 3    | Oily       | 8    | Tanned     |
+| 4    | Pale       | 9    | Tattooed   |
+| 5    | Perfect    | 10   | Weathered  |
 
 #### Hair
 
@@ -269,11 +269,11 @@ If you would like something closer to traditional classes, refer to the list of 
 
 |  |           |      |          |
 | ---- | --------- | ---- | -------- |
-| 1    | Bony      | 6    | Perfect  |
-| 2    | Broken    | 7    | Rat-like |
-| 3    | Chiseled  | 8    | Sharp    |
+| 1    | Bony      | 6    | Round    |
+| 2    | Broken    | 7    | Sharp    |
+| 3    | Chiseled  | 8    | Soft     |
 | 4    | Elongated | 9    | Square   |
-| 5    | Pale      | 10   | Sunken   |
+| 5    | Ratlike   | 10   | Sunken   |
 
 #### Speech
 
