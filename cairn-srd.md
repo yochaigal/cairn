@@ -532,7 +532,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |Elegant Sword (d8)                       |
 |Recurve Bow (d8)                         |
 |Gilt Clothing (1 Armor)                  |
-|Spellbook (_Charm_ or _Detect_)               |
+|Spellbook (_Charm_ or _Detect Magic_)    |
 |Golden Flute                             |
 |Air Bladder                              |
 
