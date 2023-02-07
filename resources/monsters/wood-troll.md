@@ -10,4 +10,4 @@ grand_parent: Resources
 
 - Large humanoid beings with alongated arms. Live in forests, sharing a deep connection with the vegetation around it.
 - As an action the troll can eat a handful of moss to fully recover its HP.
-- C**ritical Damage**: Moss and twigs begin growing out of target's wounds.
+- **Critical Damage**: Moss and twigs begin growing out of target's wounds.
