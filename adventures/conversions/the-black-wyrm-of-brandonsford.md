@@ -84,6 +84,7 @@ grand_parent: Adventures
 | 5       | [_Deafen_](/cairn-srd#deafen)                   |
 | 6       | [_Filch_](/cairn-srd#filch)                     |
 | 7       | [_Haste_](/cairn-srd#haste)                     |
+| 8       | [_heatless-torch_](/cairn-srd#heatless-torch)   |
 | 9       | [_Pacify_](/cairn-srd#pacify)                   |
 | 10      | [_Phobia_](/cairn-srd#phobia)                   |
 | 11      | [_Repel_](/cairn-srd#repel)                     |
@@ -203,7 +204,6 @@ See the table below for random Cleric Spells. Refer to the following spells in [
 | 3       | Curse Unlife         |
 | 4       | Fortify              |
 | 5       | Healing Grace        |
-| 5       | Induce Despair       |
 | 6       | Lichsense            |
 | 7       | Light Show           |
 | 8       | Linguist             |
