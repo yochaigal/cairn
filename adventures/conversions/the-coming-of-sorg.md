@@ -10,7 +10,7 @@ redirect_from: /resources/adventure-conversions/the-coming-of-sorg/
 
 - Original system-neutral [adventure](http://blog.trilemma.com/2014/06/the-coming-of-sorg.html) by Michael Prescott. Michael Prescott. Updated version [available](https://www.drivethrurpg.com/product/286792/Trilemma-Adventures-Compendium-Volume-I).
 - Original conversion by [Jason Tocci](https://jasontocci.itch.io/agents-of-the-odd/devlog/180126/adapting-scenarios-for-agents-of-the-odd).
-- Additional conversion by [Daniel Soilbuilder](https://danielsoilbuilder.itch.io/)  
+- Additional conversion by [Daniel Soilbuilder](https://danielsoilbuilder.itch.io/)
 - Adapted with permission.
 
 ## Encounters
@@ -20,9 +20,9 @@ redirect_from: /resources/adventure-conversions/the-coming-of-sorg/
 - Crew of 15 heretics is untrained, *impairing* most of their attacks.
 
 ### Cultists
-4 HP, 1 Armor, 14 WIL, mace (d6), Holy Symbol (_Ward_ once per day)  
-- Holy men & women in a quest for their deity.  
-- Normally travel in groups of 4+.  
+4 HP, 1 Armor, 14 WIL, mace (d6), Holy Symbol (_Ward_ once per day)
+- Holy men & women in a quest for their deity.
+- Normally travel in groups of 4+.
 
 ## Sorg Emanations
 
@@ -36,7 +36,7 @@ redirect_from: /resources/adventure-conversions/the-coming-of-sorg/
 - Rhino-sized larva, slow.
 - Protected by 11 acolytes (devoted, but weaponless and deprived---0 HP, attacks *impaired*).
 
-### Toothy in/ine emanation 
+### Toothy intestine emanation 
 - Squeeze (d6), swallow on critical damage.
 
 ### Air leech Swarm Emanation 
