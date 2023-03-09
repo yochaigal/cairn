@@ -32,7 +32,7 @@ redirect_from: /resources/adventure-conversions/a-gathering-of-blades/
 3 HP, 12 STR, 15 DEX, 6 WIL, bite (d8)
 
 ### The Lepidoracy
-18 HP, 16 STR, 5 DEX, 6 WIL, multi-sword-slash (d12+d12, blast)  
+18 HP, 16 STR, 5 DEX, 6 WIL, multi-sword-slash (d12+d12, blast)
 - Critical damage: target is eviscerated, and their swords join the awakening.
 
 ### Gelatinous King (Giant Skeleton)
@@ -44,4 +44,4 @@ redirect_from: /resources/adventure-conversions/a-gathering-of-blades/
 4 HP, 5 STR, 7 DEX, 12 WIL, acidic spray (d6, corrodes armor)
 
 ### Rawg, a 10ft sentient sword
-- Awaits a true master; shrinks to the size of its la/ wielder.
+- Awaits a true master; shrinks to the size of its latest wielder.

@@ -13,7 +13,7 @@ redirect_from: /resources/adventure-conversions/the-sky-blind-spire/
 
 ## Introduction
 
-**Tintardinal’s** spire was to be his grea/ work: A stone tower crafted as a giant arcanum, granting a great reward to those who unlock its secrets. Nobody knows the secrets, though, because **Tintardinal** fell to his death before he could use it.
+**Tintardinal’s** spire was to be his greatest work: A stone tower crafted as a giant arcanum, granting a great reward to those who unlock its secrets. Nobody knows the secrets, though, because **Tintardinal** fell to his death before he could use it.
 
 The spire stands five stories tall, the only structure on a small island in a large lake. Now that  you've had a chance to tether your rowboat and get a close up look, you can see a great door ahead at the end of the path leading from the dock, and windows up the sides of the tower, pointing in each of the directions of the compass. The upper floor windows each seem to have a chain bolted to their sills, dangling down to the window down below (but nothing dangling from the second floor all the way to the ground). The lake is all around you, and beyond that, the scrublands you crossed to get here, mountains in the distance, and the sun just rising over the horizon to the east. The weather’s clear – it’ll be a sunny day with a clear, blue sky.
 
@@ -63,7 +63,7 @@ In addition to the number “six” on the floor, there’s a staircase leading 
 
 ### Undines
 13hp 13 STR, 18 DEX, 15 WIL, pressure jet (d8)
-- _Critical damage_: overwhelmed by the wave and pushed far away.  
+- _Critical damage_: overwhelmed by the wave and pushed far away.
 - Impair any damage against them unless it would freeze/boil water.
 
 ## 8. Room
