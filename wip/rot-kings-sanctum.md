@@ -51,7 +51,7 @@ title: Rot King's Sanctum
 
 - Immune to sleep or charm spells
 - When saving for critical damage (regardless of the outcome) there is 3-in-6 chance they release a ***\*cloud of spores\**** against their assailant.
--  ***\*Cloud of Spores\****: Victim makes a STR save or dies within 6 rounds  
+-  **Cloud of Spores**: Victim makes a STR save or dies within 6 rounds  
 
 ### Plague Priest
 
@@ -99,13 +99,14 @@ title: Rot King's Sanctum
 
 ### Room 1
 #### Pressure Plate/Gas Trap
-- Paralyzing gas
+- Paralyzing gas, WIL save or be paralyzed for 1d4 turns.
 
 ### Room 4
-#### Magic Mace
-- Notes on weird thing 1
+#### Mace (d8, see note)
+- _Enhanced_ damage against non-magical opponents
+
 #### Ring of Spell Turning
-- Notes on weird thing 1
+- The wearer can redirect a spell that strikes them back on the caster. Treat this as casting a spell under difficult conditions.  
 
 ### Room 5
 #### Healing Mushroom
@@ -124,10 +125,11 @@ title: Rot King's Sanctum
 - As the spell, lasts 1 turn
 
 #### Spellbook of Magic Dampener
+- Nearby magical effects are reduced in potency for one hour.
 
 #### Spellbook of Fireball
 
-- Throw an exploding ball of fire that does 1d6 of damage to each creature in the area of the explosion
+- Throw an exploding ball of fire that does 1d6 STR damage to an area.
 
 #### Magic Arrrows
 - +1 damage, 3 usage dots, roll a d6 on use, on a 6 mark a dot
@@ -140,7 +142,7 @@ title: Rot King's Sanctum
 
 ### Room 12
 #### Pool of black liquid
-- Creatures take 1d3 Str per round while touching the liquid. If reduced to 0 Str, they die and turn into black liquid that is drawn into the pool. 
+- Creatures take 1d3 STR per round while touching the liquid. If reduced to 0 STR, they die and turn into black liquid that is drawn into the pool. 
 
 ### Room 14
 #### Potion of Cure Wounds
@@ -148,6 +150,7 @@ title: Rot King's Sanctum
 
 #### Magic Dagger
 - +1 damage
+
 ### Room 15
 #### d6 scrolls
 1. Sleep
