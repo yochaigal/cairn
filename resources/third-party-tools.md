@@ -10,7 +10,6 @@ parent: Resources
 # Miscelleanous Resources
 - [Character Sheet (token)](https://docs.google.com/drawings/d/1_X9o8rzE5jFPQpP1yCz1sPikdm8naQ1gPkT-ATK2T0c) (Download as PDF or PNG)
 - [Online Character Keeper](https://docs.google.com/spreadsheets/d/1Ueq-v5XZ-mC1qFd81T0892RzRsr8WdgAG89M4ZXe5qM) (Google Sheets)
-- [Online Character Keeper](https://docs.google.com/spreadsheets/d/1z_SdtvAzUILAxCtgfbp8BJWCOfHHBbkEv_H4nzm847A) by Tuirgin
 - [Online Character Sheet + Tokens](https://docs.google.com/presentation/d/1rYEUNE9_zsEUBut3a3UyRhRr8fy33s5fjX4Y7L6lvog)
 - [Online Character Sheet for Notion](https://tinyurl.com/notion-cairn) by Brent Dykes-Kirwan
 - [Perchance](https://perchance.org/cairn-characters) & [Chartopia](http://d12dev.com/chart/32009) generators by idolofmanyhands
