@@ -5,9 +5,9 @@ grand_parent: Adventures
 title: Library Beneath the Sands Conversion
 ---
 
-
-
-# Library Beneath the Sands Conversion
+# Library Beneath the Sands
+- [Library Beneath the Sands](https://brick-road.itch.io/the-library-beneath-the-sands) by [JD](https://brick-road.itch.io).
+- Conversion by **lovelyzoo**.
 
 ## Bestiary
 
@@ -52,8 +52,6 @@ Giant scorpion with an adult human’s face.
 
 - Stings (d6) grappled characters, paralysed on failed STR save, death after 24 hours
 - Can climb
-
-### 
 
 ### Screaming Scorpion (Broodling)
 
