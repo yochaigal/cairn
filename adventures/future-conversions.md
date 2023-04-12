@@ -12,7 +12,6 @@ nav_order: 3
 
 The following is a list of planned conversions. If you'd like to help out, pick an adventure or module, write the conversion in whatever you feel like and send it my way via Discord, Twitter or pull request on github!
 
-* [A Pound of Flesh](https://www.tuesdayknightgames.com/a-pound-of-flesh)
 * [A Rasp of Sand](https://www.drivethrurpg.com/product/298057/A-Rasp-of-Sand)
 * [A Simple Dungeon](https://micah-anderson.itch.io/a-simple-dungeon)
 * [A Shadow Over The Greatwood](https://www.drivethrurpg.com/product/318409/A-Shadow-Over-the-Greatwood)
@@ -50,7 +49,7 @@ The following is a list of planned conversions. If you'd like to help out, pick 
 * [Stonehell: Down Night-Haunted Halls](https://www.lulu.com/en/us/shop/michael-curtis/stonehell-dungeon-down-night-haunted-halls-ebook/ebook/product-1nq5eywz.html)
 * [Stonehell: Into The Heart of Hell](https://www.lulu.com/en/us/shop/michael-curtis/stonehell-dungeon-into-the-heart-of-hell/ebook/product-1yj5yj72.html)
 * [Spy in the House of Eth](https://www.drivethrurpg.com/product/310456/Best-Left-Buried-Spy-in-the-House-of-Eth)
-* [The Black Wyrm of Brandonsford](https://www.drivethrurpg.com/product/327744/The-Black-Wyrm-of-Brandonsford)
+* [The Temple of 1000 Swords](https://www.drivethrurpg.com/product/360211/Temple-of-1000-Swords)
 * [The Bruja, the Beast & the Barrow](https://www.drivethrurpg.com/product/340873/The-Bruja-The-Beast-and-The-Barrow)
 * [The Caverns of Thracia](https://en.wikipedia.org/wiki/The_Caverns_of_Thracia)
 * [The Dark of Hot Springs Island](https://shop.swordfishislands.com/the-dark-of-hot-springs-island)
@@ -64,12 +63,9 @@ The following is a list of planned conversions. If you'd like to help out, pick 
 * [The Misty Isle of the Eld](https://www.drivethrurpg.com/product/183439/Misty-Isles-of-the-Eld)
 * [The Necropolis of Nuroman](https://www.drivethrurpg.com/product/110292/BLUEHOLMETM-The-Necropolis-of-Nuromen)
 * [The Secret of Bone Hill](https://www.drivethrurpg.com/product/17059/L1-The-Secret-of-Bone-Hill-1e)
-* [The Sepulcher of the Seven](https://www.drivethrurpg.com/product/366868/The-Sepulchre-of-Seven)
+* [The Sepulchre of Seven](https://www.drivethrurpg.com/product/366868/The-Sepulchre-of-Seven)
 * [The Stygian Library](https://www.drivethrurpg.com/product/257113/The-Stygian-Library)
 * [The Temple of the Blood Moth](https://www.drivethrurpg.com/product/282346/The-Temple-of-the-Blood-Moth)
-* [The Temple of the Moon Priests](https://www.drivethrurpg.com/product/310492/Temple-of-the-Moon-Priests)
-* [The Temple of 1000 Swords](https://www.drivethrurpg.com/product/360211/Temple-of-1000-Swords)
-* [Times that Fry Men's Souls](https://www.drivethrurpg.com/product/242849/Times-That-Fry-Mens-Souls)
 * [Darkling Seas of Islesmere](https://www.drivethrurpg.com/product/310464/Best-Left-Buried-Darkling-Seas-of-Islesmere)
 * [The Tomb of Annihilation](https://dnd.wizards.com/products/tabletop-games/rpg-products/tomb-annihilation)
 * [The Tomb of Black Sands](https://shop.swordfishislands.com/the-tomb-of-black-sand/)
@@ -89,5 +85,4 @@ The following is a list of planned conversions. If you'd like to help out, pick 
 * [Worm Gullet](https://dysonlogos.blog/2011/03/30/into-the-worms-gullet-a-one-page-dungeon/)
 * [Wormskin](https://www.drivethrurpg.com/product/231189/Everything-Dolmenwood-PDF-BUNDLE) (Dolmenwood)
 * [Xanadu](https://www.drivethrurpg.com/product/332813/Xanadu)
-* [Yoon-Suin](https://www.drivethrurpg.com/product/144820/YoonSuin)
 * [You Got a Job on the Garbage Barge](https://amandalee.itch.io/you-got-a-job-on-the-garbage-barge)
