@@ -26,6 +26,7 @@ search_exclude: true
 - The Waking of Willowby Hall
 - Where the Wheat Grows Tall
 - Willow
+- Toxic Wood
 - The Hole in the Oak
 - Temple of the Moon Priests
 - Elder Oak
@@ -41,6 +42,8 @@ search_exclude: true
 - Crypts/Tombs/Barrows
 - Folklore & History
 - Dolmens
+- Mysteries
+- Royalty
 
 ### Bands
 - Hearth = center of the province
