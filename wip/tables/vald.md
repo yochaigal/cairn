@@ -70,4 +70,4 @@ search_exclude: true
 - Druids
 - Demons/Spirits
 - Talking animals
-- Various humanoid cultures (optional)
+- Various humanoid cultures (optional): ratfolk, crowfolk, wood elves
