@@ -10,19 +10,22 @@ title: Broken Bastion
 - Converted from the [original work by Gus L./Ratking Productions](https://www.drivethrurpg.com/product/340122/Broken-Bastion).
 - Converted by **Naeolin**
 
-**War Automata**
+#### War Automata
+
 18 HP, 3 Armor, 18 STR, 5 DEX, 18 WIL, pincers (d10+d10) and heat ray (d12, ignores armor)
 * Magenta Shield: The Automata’s HP is derived from a translucent, glowing magenta orb that surrounds it at all times. It regenerates 2 HP per turn.
 * Heat Ray: At the beginning of the Automata’s turn, it may target any character in sight with its heat ray.  
 * **Critical Damage:** If dealt with pincers, roll a Die of Fate to determine what appendage is lost (4-6: arm or leg 1-3: head). If dealt with the heat ray, the victim's body and all non-magical equipment are reduced to cinders. 
 
-**Lith Wights, Greater**
+#### Lith Wights, Greater
+
 6 HP, 12 STR, 6 DEX, 15 WIL, rend (d6)
 * Mad, rotting bodies heavily encrusted with Tomb Crystal that is shot through with greenish black veins.
 * Crystalized Body: The wight is immune to damage from normal weapons. 
 * Critical Damage: Suffer a level of Tomb Crystal Poisoning after the battle is over (see Appendix).
 
-**Glass Spiders**
+#### Glass Spiders
+
 6 HP, 3 STR, 10 DEX, 6 WIL, bite (d6 poison damage)
 * Will almost always attack, but will often retreat after one or more characters suffers Critical Damage.  They will return later with the intention of feasting on anyone left behind.
 * Tenacious: Glass spiders do not check Morale (WIL save) unless reduced to 0 HP or faced with overwhelming force.  
@@ -34,7 +37,8 @@ Glass spiders that are undetected in this room will ambush characters, resulting
 
 ### 8) Target Control
 
-**Lith Wights, Armored Greater**
+#### Lith Wights, Armored Greater
+
 6 HP, 2 Armor 12 STR, 6 DEX, 15 WIL, rend (d6)
 * Crystalized Body: The wight is immune to damage from normal weapons. 
 * **Critical Damage**: Suffer a level of Tomb Crystal Poisoning after the battle is over (see Appendix). 
@@ -47,7 +51,8 @@ Crystal Orb: 1d6 STR damage unless some sort of magical protection is utilized.
 
 ### 12) Automata Control
 
-**Maintenance Automata**
+#### Maintenance Automata
+
 6 HP, 3 Armor, 12 STR, 15 DEX, 18 WIL, pincers (d8+d8)
 * Mechanized Body: The automata's metal construction and mechanical nature ensures that all attacks with non-bludgeoning weapons are *impaired* and that it is immune to mind-influencing effects.
 
@@ -58,18 +63,21 @@ Gigantic Tanks: Anyone too close to a ruptured tank immediately takes 1d6 STR da
  
 ## Appendix
 
-**Commander's Emblem, 8 Charges**
+#### Commander's Emblem, 8 Charges
+
 * Unlocks all normal Empyrean doors with the expenditure of 1 charge. High security doors require a WIL save as well, and use 1d6 charges in the process.
 * **Recharge**: Unknown. 
 
-**Void Armor**
+#### Void Armor
+
 * As Chainmail (2 Armor), but also allows the wearer to operate in airless environments (for 12 Turns, if using Turn procedures).
 * Wearers always act last during combat.
 
-**Converter's Note**: With Gus's permission, I have added information on Tomb Crystal Poisoning and Occulith Size and Effect from *Tomb Robbers of the Crystal Frontier*.  
+**Converter's Note**: With the author's permission I have added information on Tomb Crystal Poisoning and Occulith Size and Effect from *Tomb Robbers of the Crystal Frontier*.  
 
 
 ### Occulith Size and Effect 
+
 |          |          |          |
 | -------- | -------- | -------- |
 | **Name** | **Value** | **Effect** |
@@ -79,6 +87,7 @@ Gigantic Tanks: Anyone too close to a ruptured tank immediately takes 1d6 STR da
 | Orb | 10,000 GP | Allows the possessor to cast a spell without adding Fatigue and enhance it quickly without consequence, restore all charges to a relic, or perform a greater work of sorcery if given sufficient time and additional resources. 
 
 ### Crystal Poisioning Infection Stage & Effect
+
 |           |            |
 | --------- | ---------- | 
 | **Stage** | **Effect** |
