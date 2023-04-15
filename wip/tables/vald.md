@@ -50,6 +50,7 @@ search_exclude: true
 - Fields = crops and farms near the Hearth
 - Woods = Forests and areas unconquered by Man, near fields and hearth
 - Wilds = Other areas surrounding the woods and fields but far from the hearth. Danger. Barrows/Tombs.
+- Roots = the places beneath the forest
 - Settlement/Refuge = 
 - Guardians = 
 - Ruins/Hollows/Lairs = 
