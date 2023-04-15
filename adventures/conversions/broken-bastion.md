@@ -70,16 +70,18 @@ Gigantic Tanks: Anyone too close to a ruptured tank immediately takes 1d6 STR da
 
 
 ### Occulith Size and Effect 
-| Name | Value | Effect |
+|          |          |          |
 | -------- | -------- | -------- |
+| **Name** | **Value** | **Effect** |
 | Spark | 100 GP | Allows possessor to cast a spell without adding Fatigue, or restores 1 charge to a relic. |
 | Ember | 500 GP | Allows the possessor to cast a spell without adding Fatigue, restore 2 charges to a relic, or enhance a spell quickly without consequence. |
 | Carbuncle | 1000 GP | Allows the possessor to cast a spell without adding Fatigue and enhance it quickly without consequence, or restore 4 charges to a relic. |
 | Orb | 10,000 GP | Allows the possessor to cast a spell without adding Fatigue and enhance it quickly without consequence, restore all charges to a relic, or perform a greater work of sorcery if given sufficient time and additional resources. 
 
-### Crystal Poisioning Infection Stage & Effect 
-| Stage | Effect |
-| -------- | -------- | 
+### Crystal Poisioning Infection Stage & Effect
+|           |            |
+| --------- | ---------- | 
+| **Stage** | **Effect** |
 | I | Bodily excretions turn to glittering pastel Tomb Crystal. Most notably, sweat will harden into fragile sheets, and tiny crystal tears must occasionally be picked out of one's eyes. **Suffer one Fatigue upon reaching this stage. No other negative effects**. | 
 | II | Patches of crystal build up on bone, hair, and skin. They result in random bruises, stiff joints, and frequent aching pains.**-1 permanent DEX loss.** | 
 | III | Eyes cloud and craze with tiny growths, while shoots of crystal push out through flesh. The poisoned character's immune system begins to break down. ** -2 permanent loss to both STR and DEX.** | 
