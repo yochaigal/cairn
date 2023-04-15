@@ -35,7 +35,6 @@ The following is a list of planned conversions. If you'd like to help out, pick 
 * [Genial Jack](https://www.drivethrurpg.com/product/295462/Genial-Jack--issue-I)
 * [Goblin Gully](https://dysonlogos.blog/2009/08/21/friday-map-goblin-gully-a-deadly-one-page-dungeon/)
 * [Gradient Descent](https://www.mothershiprpg.com/gradient-descent)
-* [Hel's Crow's Final Rest](https://www.drivethrurpg.com/product/377007/Hels-Crows-Final-Rest)
 * [In The Shadow of Tower Silveraxe](https://gelatinouscubism.itch.io/in-the-shadow-of-tower-silveraxe)
 * [Into the Wyrd and Wild](https://www.drivethrurpg.com/product/274922/Into-the-Wyrd-and-Wild-Revised-Edition)
 * [Lorn Song of the Bachelor](https://www.drivethrurpg.com/product/295976/Lorn-Song-of-the-Bachelor)
