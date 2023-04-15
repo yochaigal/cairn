@@ -2,7 +2,7 @@
 layout: default
 parent: Conversions
 grand_parent: Adventures
-title: [Adventure Title]
+title: Hel's Crow's Final Rest
 ---
 
 # Hel's Crow's Final Rest
