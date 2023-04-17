@@ -8,7 +8,7 @@ title: Aberrant Reflections
 # Aberrant Reflections
 
 - Based on the [Aberrant Reflections](https://www.exaltedfuneral.com/products/aberrant-reflections-pdf) by [Direct Sun Games](https://www.directsungames.com/).
-- Conversion by [Pat Eyler](https://footofthemountainadventures.blogspot.com]
+- Conversion by [Pat Eyler](https://footofthemountainadventures.blogspot.com)
 
 ## General Notes
 - This was a very easy adventure to convert. A number or relics are given in the adventure with system neutral descriptions which needed no conversion notes.

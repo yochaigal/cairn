@@ -2,25 +2,18 @@
 layout: default
 title: vald
 grand_parent: WIP
-parent: tables
+parent: 2e
 nav_exclude: true
 search_exclude: true
 ---
 
 # Vald
 
-### Basic structures of the default setting
-- Central authority
-- Factions
-- Welsh, Irish, Slavic, Jewish, Russian inspired
-- Plain-English names? Anglish names? Slavic names? Irish names?
-
-### Adventures 
+### Inspirational Adventures 
 - Black Wyrm of Brandonsford
 - Winter's Daughter
 - Blackapple Brugh
 - Barrow of the Elf King
-- Demon Driven to the Maw
 - Hideous Daylight
 - Beyond The Pale
 - The Waking of Willowby Hall
@@ -46,19 +39,20 @@ search_exclude: true
 - Royalty
 
 ### Bands
-- Hearth = center of the province
+- Heart = focal point of a province
+- Frontier = the borderlands/edge to the wilds
 - Fields = crops and farms near the Hearth
-- Woods = Forests and areas unconquered by Man, near fields and hearth
-- Wilds = Other areas surrounding the woods and fields but far from the hearth. Danger. Barrows/Tombs.
-- Roots = the places beneath the forest
-- Settlement/Refuge = 
-- Guardians = 
-- Ruins/Hollows/Lairs = 
+- Woods = Forests and areas unconquered by Man
+- Wilds = Other areas surrounding the woods and fields but far from the hearth. Danger. 
+- Roots = the places beneath the forest. Barrows/Tombs.
+- Settlement/Refuge/Sanctuary 
+- Guardians/Wardens 
+- Ruins/Hollows/Lairs 
 
 ### Anatomy of a Forest
-- Heart (or perhaps "Waldron")
+- The Waldron/The Crown
 - Rocks/Dolmens
-- Rituals
+- Moonlight rituals
 - Leylines
 - Former villages/graveyards, swallowed by the forest
 
