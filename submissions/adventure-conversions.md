@@ -22,7 +22,7 @@ parent: Submissions
 layout: default
 parent: Conversions
 grand_parent: Adventures
-title: [Adventure Title]
+title: Adventure Title
 ---
 
 # Adventure Title
