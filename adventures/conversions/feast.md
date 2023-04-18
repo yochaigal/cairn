@@ -11,38 +11,34 @@ title: Feast
 - Conversion by [Pat Eyler](https://footofthemountainadventures.blogspot.com/)
 
 ## General Notes
-- Put any notes on the conversion here!
-- You can list monsters & NPCs separately or by the location they can be found
-
-## Monsters or NPCs
-
-### Monster Name
-Monster 1
-- Monster special (critical damage, abilities)
-- More monster specials, etc.
+- The stats for any creatures or NPCs are listed in the location where they appear.
+- 
 
 ## Locations
 ### Encounters in the Hex Crawl
 
 #### 1) Truffle Hunter
 
-- Notes on weird thing 1
+- Truffle Hunter - 3 HP, 9 STR, dagger (d6)
+- Truffle Dog - 3 HP, 7 STR, bite (d6)
 
 #### 4) Fat Brown Bear
 
-- Notes on weird thing 1
+- 6 HP, 14 STR, 12 DEX, 6 WIL, claws (d6+d6), bite (d8)
 
 #### 5) Cloud of Spores
 
-- Notes on weird thing 1
+- WIL Save or incapacitated for 1d4 hours.
 
 #### 6) Three Mercenaries
 
-- Notes on weird thing 1
+- 4 HP, 2 Armor, 9 STR, 12 DEX, 11 WIL, Sword (d8)
+- 3 HP, 2 Armor, 10 STR, 11, DEX, 12 WIL, Sword (d8)
+- 0 HP,  7 STR, 10 DEX, 9 WIL - Bound.
 
 #### 7) The Ground Ripples
 
-- Notes on weird thing 1
+- WIL save or remain in a spiritual ecstasy at this location until the end of the next watch. 
 
 ### 1: The Loggers
 
