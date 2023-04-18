@@ -25,44 +25,49 @@ search_exclude: true
 - Elder Oak
 
 ### Adventures Commonalities
-- Some have the classic village, forest, dungeon
+- Most have the classic village, forest, dungeon
 - Undead
-- Some are _only_ tombs/dungeons
 - Druids or similar often feature 
 - Infected or corruputed trees/animals
 - Fairy stuff/liminal spaces
 - Rituals
 - Crypts/Tombs/Barrows
 - Folklore & History
-- Dolmens
+- Dolmens/Megaliths
 - Mysteries
-- Royalty
+- Fae Royalty
 
-### Bands
+### Definitions
 - Heart = focal point of a province
-- Frontier = the borderlands/edge to the wilds
-- Fields = crops and farms near the Hearth
+- Frontier/Marches/Treeline = the borderlands/edge to the wilds. DANGER
+- Towns/Colony/Hamlet
+- Fields/Tillage/ = crops and farms near the Heart
+- Underworld/Ruins/Hollows/Roots
+- Regents/Seneschals/Factions
 - Woods = Forests and areas unconquered by Man
-- Wilds = Other areas surrounding the woods and fields but far from the hearth. Danger. 
+- Wilds = Other areas surrounding the woods and fields but far from the heart. Danger. 
 - Roots = the places beneath the forest. Barrows/Tombs.
-- Settlement/Refuge/Sanctuary 
-- Guardians/Wardens 
-- Ruins/Hollows/Lairs 
+- Settlement/Refuge/Sanctuary  
+- Treasure/Relics
 
-### Anatomy of a Forest
+### Forest Anatomy
 - The Waldron/The Crown
-- Rocks/Dolmens
+- Rocks/Dolmens/Megaliths
 - Moonlight rituals
 - Leylines
-- Former villages/graveyards, swallowed by the forest
+- Dead Villages/graveyards/bridges/ruins, swallowed by the forest
 
-#### Forest Denizens
+### Forest Denizens
 - Wild Man
 - Green Man
-- Baba Yaga analog
+- The Crone
 - Fairies
 - Werewolves
 - Druids
 - Demons/Spirits
+- Horrors
+- Deities
 - Talking animals
 - Various humanoid cultures (optional): ratfolk, crowfolk, wood elves
+- Sylvan creatures (wood nymphs, dryads)
+- Wolves, Elk, tree creatures, etc
