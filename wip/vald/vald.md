@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Vald
+title: Basics
 grand_parent: WIP
 parent: 2e
 nav_exclude: true
 search_exclude: true
 ---
 
-# Vald
+# Basics
 
 ### Inspirational Adventures 
 - Black Wyrm of Brandonsford
