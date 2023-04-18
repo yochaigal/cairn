@@ -13,7 +13,7 @@ search_exclude: true
 - Conversion by [Pat Eyler](https://footofthemountainadventures.blogspot.com/)
 
 ## General Notes
-- The stats for any creatures or NPCs are listed in the location where they appear.
+- Creature and NPC stats are listed in the location where they appear.
 - 
 
 ## Locations
