@@ -3,6 +3,8 @@ layout: default
 parent: Conversions
 grand_parent: Adventures
 title: Feast
+nav_exclude: true
+search_exclude: true
 ---
 
 # Feast
