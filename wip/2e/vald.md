@@ -74,16 +74,23 @@ search_exclude: true
 - Sylvan creatures (wood nymphs, dryads)
 - Wolves, Elk, tree creatures, etc
 
-### Introduction
--**The Provinces**: Settled lands under the control of a monarch or ruler. 
-- **The Wood**: Any forested terrain within **The Provinces**. All forests are part of The Wood, and its denizens are subject to their rules alone.
-- **The Marches**: Any lands beyond the **Provinces**, without a single monarch or ruler. Typically wilder and less "civilized."
-
-
+## Introduction
 ### The Provinces
-- Cities (though rare) are typically connected to maintained roads. 
-- Fields
+- Large, settled regions under the control of a ruler. Regardless of the ruler, all lands are considered a part of **The Provinces**.
+- The borders of **The Provinces** ebb and flow as rulers marry, conquer, and destroy each other.
+
+### The Fields
+- Any farms, orchards, or meadows within **The Provinces** that owe a tax or tithe in exchange for cultivation rights and basic protections.
+- Cities are typically connected to farms and villages via roads and footpaths. 
 
 ### The Wood
+- Any forested terrain within **The Provinces**. All forests are considered part of **The Wood**, no matter how isolated. 
+- Its denizens believe that they are subject solely to the rules of **The Wood**, and none other. And so, they are forever at war with **The Provinces**.
 
 ### The Marches
+- Any lands beyond the boundary of **The Provinces** that lack a single monarch or ruler. 
+- Typically wilder and less "civilized."
+
+### The Roots
+- Remnants of the **Old World**. Its labyrinthine hollows stretch across **The Provinces**, connecting both city sewers to far-flung ruins. 
+- Only the brave or foolish have dared enter **The Roots**, in search of forgotten **Relics** or powerful **Spellbooks**. The few that return whisper of unspeakable terrors guarding these lost treasures. 
