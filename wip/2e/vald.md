@@ -1,6 +1,6 @@
 ---
 layout: default
-title: vald
+title: Vald
 grand_parent: WIP
 parent: 2e
 nav_exclude: true
@@ -38,6 +38,8 @@ search_exclude: true
 - Fae Royalty
 
 ### Definitions
+- Province
+- Barony/Dominion
 - Heart = focal point of a province
 - Frontier/Marches/Treeline = the borderlands/edge to the wilds. DANGER
 - Towns/Colony/Hamlet
@@ -71,3 +73,17 @@ search_exclude: true
 - Various humanoid cultures (optional): ratfolk, crowfolk, wood elves
 - Sylvan creatures (wood nymphs, dryads)
 - Wolves, Elk, tree creatures, etc
+
+### Introduction
+-**The Provinces**: Settled lands under the control of a monarch or ruler. 
+- **The Wood**: Any forested terrain within **The Provinces**. All forests are part of The Wood, and its denizens are subject to their rules alone.
+- **The Marches**: Any lands beyond the **Provinces**, without a single monarch or ruler. Typically wilder and less "civilized."
+
+
+### The Provinces
+- Cities (though rare) are typically connected to maintained roads. 
+- Fields
+
+### The Wood
+
+### The Marches
