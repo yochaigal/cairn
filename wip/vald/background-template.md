@@ -1,5 +1,5 @@
 ---
-title: Wild Healer
+title: Background Template
 layout: default
 nav_exclude: true
 search_exclude: true
@@ -7,16 +7,16 @@ parent: Vald
 grand_parent: WIP
 ---
 
-# Wild Healer
+
+# Background Name
 
 ## Starting Gear
 
 - 3d6 gold pieces
 - Three days’ rations
-- Long-burning torch (5 relights)
-- Restorative herbs (restore 1 STR, 3 uses)
+- Torch (3 lights)
 
-## How did first hear nature's call?
+## How did you become X? Roll 1d6:
 
 |       |     |
 | ----- | --- |
@@ -27,7 +27,7 @@ grand_parent: WIP
 | **5** |     |
 | **6** |     |
 
-## ? Roll 1d6
+## What did you take with you? Roll 1d6:
 
 |       |     |
 | ----- | --- |
