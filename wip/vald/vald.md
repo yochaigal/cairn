@@ -100,6 +100,6 @@ search_exclude: true
 
 ### The Roots
 - Remnants of the **Old World**, its labyrinthine hollows stretching for immeasurable distances deep underground, connecting the sewers of **The Cobbles** to the far-flung ruins of **The Marches**.
-- Entrances to **The Roots** are scattered across **The Provinces**. These gates to the underworld are called **Doors**, and are usually protected or shrewdly hidden. 
+- Entrances to **The Roots** are scattered across **The Provinces**. These gates to the underworld are called **Gates**, and are usually protected or shrewdly hidden. 
 - Only the brave or foolish have dared enter **The Roots**, in search of forgotten **Relics** or powerful **Spellbooks**. The few that return whisper of unspeakable terrors guarding these lost treasures. 
-- Folktales recount that travelling through **The Roots** bends the natural order of things. Stories tell of adventurers lost for centuries to the depths later re-emerging, claiming only a few hours have passed. Others have claimed to make a week-long journey above ground in just one day, travelling inthe tunnels beneath.
+- Folktales recount that travelling through **The Roots** bends the natural order of things. Stories tell of adventurers lost for centuries to the depths, only to emerge again claiming that only a few hours have passed. Others have claimed to make a week-long journey above ground in just one day, travelling inthe tunnels beneath.
