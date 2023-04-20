@@ -2,7 +2,7 @@
 layout: default
 title: Setting
 grand_parent: WIP
-parent: 2e
+parent: vald
 nav_exclude: true
 search_exclude: true
 ---
