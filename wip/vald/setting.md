@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Basics
+title: Setting
 grand_parent: WIP
 parent: 2e
 nav_exclude: true
