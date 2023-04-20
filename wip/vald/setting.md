@@ -96,7 +96,9 @@ search_exclude: true
 ### The Wood
 
 - Any untamed forested terrain. All forests are considered part of **The Wood**, no matter how isolated.
-- The people of **The Wood** are fiercely independent, believing they are subject solely to the rules of **The Wood**. And so, they are forever at war with **The Cobbles**.
+- The Woods are populated creatures far stranger and wondrous than humankind: Fae, Demons, Witches, werewolves, and even talking plants and animals. They do not appreciate the loss of their home from the encroachment of **The Cobbles**, either. 
+- The denizens of **The Wood** are fiercely independent, believing they are subject solely to the rules of **The Wood** and no other.
+
 
 ### The Marches
 
