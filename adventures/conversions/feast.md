@@ -3,8 +3,6 @@ layout: default
 parent: Conversions
 grand_parent: Adventures
 title: Feast
-nav_exclude: true
-search_exclude: true
 ---
 
 # Feast
@@ -14,7 +12,6 @@ search_exclude: true
 
 ## General Notes
 - Creature and NPC stats are listed in the location where they appear.
-- 
 
 ## Locations
 ### Encounters in the Hex Crawl
