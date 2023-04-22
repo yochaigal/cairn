@@ -3,8 +3,6 @@ layout: default
 parent: Conversions
 grand_parent: Adventures
 title: Something Stinks In Stilton
-nav_exclude: true
-search_exclude: true
 ---
 
 # Something Stinks In Stilton
