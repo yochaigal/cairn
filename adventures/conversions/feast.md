@@ -45,32 +45,25 @@ search_exclude: true
 ### 1: The Loggers
 
 #### Rupert
-- Notes on weird thing 1
-
-#### Runestones
-
-- Notes on weird thing 1
+- 0 HP,  2 STR, 10 DEX, 11 WIL
 
 ### 2: The Mushroom Ring
 
 #### The Mushroom Circle
 
-- Notes on weird thing 1
-
-#### The Bone Knife
-
-- Notes on weird thing 1
+- WIL save or time works differently for you, age 1d12 years when you leave the circle.
 
 #### Mushrooms
 
-- Notes on weird thing 1
+- WIL save or hallucinate for 1d3 hours
 
 ### 3: Gillen
 
 #### Gillen
 
-- Notes on weird thing 1
-- Carries three spell books:
+- 8 HP,  8 STR, 10 DEX, 12 WIL 
+
+  Carries three spell books:
   - *Drain Swiftness:* When the victim tries to move faster than normal, the caster gains that movement instead.
   - *Sign of False Vitality:* Makes a corpse seem as if it's still barely alive.
   - *Vacant Flesh:* The caster's spirit steps out of its body but must return within 1d6 rounds or be forever lost. The spirit can make themselves heard and manipulate small items.
@@ -79,56 +72,85 @@ search_exclude: true
 
 #### 1) Another Group
 
-- Notes on weird thing 1
+- *Eira*
+  - 7 HP,  2 Armor, 14 STR, 10 DEX, 8 WIL, longsword (d10)
+    studded leather armor, shield, long pole
+
+- *Pollonia*
+  - 6 HP, 8 STR, 12 DEX, 12 WIL, staff (d6)
+    3 spell books: *Sleep*, *Mirror Image*, *Web*
+
+- *Kadlin*
+  - 6 HP,  1 Armor, 9 STR, 14 DEX, 9 WIL, halberd (d10)
+    leather armor, iron spikes, spell book: *knock*
+
 
 #### 3) Grasping Roots
 
-- Notes on weird thing 1
+- DEX save or be caught up in grasping roots and pulled into the earth.
+  Roots can be attacked to free a trapped victim, the roots and the victim take *diminished* damage. Roots have 12 STR.
 
 #### 4) Arnaut
 
-- Notes on weird thing 1
+- 6 HP, 1 Armor, 4 STR, 6 DEX, 9 WIL, dagger (d6)
+  leather armor, 2 daggers
 
 #### 5) Fungus Coated Black Slime
 
-- Notes on weird thing 1
+- 5 HP, 12 STR, 6 DEX, 3 WIL, acidic touch (d10+d8)
+  Acid will corrode metal, eating through chain mail in 1d4 rounds. Metal weapons striking the slime will may be damaged, doing *diminished* damage afterward.
+  **Critical Damage:** the fungus spreads to the victim, doing a point of STR damage each round until amputated or burnt off.
 
 #### 6) Fine Spores
 
-- Notes on weird thing 1
+- Make a WIL save or see through one another's eyes for 1d3 turns. 
 
 ### 2) The Teeth of Pahloun Efgaddu
 
-#### Weird thing 1
+#### Jagged shards of flint stud the walls and floor
 
-- Notes on weird thing 1
+- The first character to descend into the room must make a DEX save or fall onto the flint shards for *enhanced* damage.
+- Characters moving through the room must make a DEX save or take *diminished* damage.
 
 ### 3) The Mouth of Pahloun Efgaddu
 
-#### Weird thing 1
+#### Hidden Funnel
 
-- Notes on weird thing 1
+- Make a DEX save or slide down the funnel
+
+#### Ring of Lightning Bolts
+
+- Creates a bolt of lightning, three charges
 
 ### 4) The Charnel Pit
 
-#### Weird thing 1
+#### Pile of Bones
 
-- Notes on weird thing 1
+- Make a DEX save or slip beneath the bones.
 
 ### Deacon's Respite
 
-#### Weird thing 1
+#### Deacon
 
-- Notes on weird thing 1
+- 4 HP, 2 Armor 9 STR, 10 DEX, 8 WIL, dagger (d6)
+  leather armor, shield
 
 ### 6) The Baptismal
 
-#### Weird thing 1
+#### Pool of clear water
 
-- Notes on weird thing 1
+- Make a WIL save or gain an overwhelming desire to complete the ritual in 7
 
 ### 7) The Ritual Chamber
 
-#### Weird thing 1
+#### Fungus covered skeleton
 
-- Notes on weird thing 1
+- Make a WIL save or be paralyzed d12 minutes
+
+#### Dust of disappearance
+
+- Sprinkled over a person, they become invisible for d4 turns or until they attack a target. One use.
+
+#### The Altar
+
+- Make a STR save to escape the vines.
