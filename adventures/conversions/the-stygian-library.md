@@ -98,14 +98,62 @@ Valve
 
 ## Details
 
-### Furnace
+### Gas Lamps
 
-Furnace 
+Gas pipes 
 
-- Opening the doors does d6 damage to anyone directly in front of it.
-- Entering the furnace does d12+d12 damage.
+- If the gas is let out in a room, it will explode for d10+d8 *blast* damage to everyone present.
 
-## 
+### Haunted
+
+What the Haunting can do 
+
+1. Thrown objects to d6 damage.
+
+4. WIL save or memories are subtly altered. If the victim makes their save, they are aware of the attempt.
+
+5. DEX save or take flame damage
+
+10. make a vermin swarm appear:
+
+    4 HP, 6 STR, 12 DEX, 11 WIL, bite (d3) _detachment_
+
+    - Afraid of fire
+
+12. Falling objects do D6 damage.
+
+### Morbid
+
+Death is a constant presence here 
+
+- Increase any damage taken here by 1 point.
+- Anyone sleeping here heals any lost STR.
+
+### Negligible Gravity
+
+Effects of low gravity 
+
+- Missile attacks are *impaired*.
+
+### Silent
+
+Trying to cast spells 
+
+- The caster must make a STR save to yell loudly enough to cast the spell. If they fail, they take 1 point damage by damaging their vocal cords.
+
+### Staircase
+
+Falling 
+
+- Anything falling down the stairs takes d6 damage for each 20' fallen.
+- If someone is pushed down the stairs, they make a DEX save or fall.
+
+### Turning Gears
+
+Getting caught in the gears
+
+- Sticking a body part into the gears does d8+d8 damage.
+- If someone is pushed into the gears, they make a Dex save or take d8+d8 damage.
 
 ## Monsters
 
