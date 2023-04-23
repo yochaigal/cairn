@@ -1,3 +1,13 @@
+---
+layout: default
+title: Scratch
+parent: WIP
+grand_parent: Vald
+nav_exclude: true
+search_exclude: true
+has_children: true
+---
+
 
 ### Backgrounds
 
