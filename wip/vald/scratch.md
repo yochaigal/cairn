@@ -1,6 +1,10 @@
+
+### Backgrounds
+
 As punishment it cursed you to feel the pain of others as if it were your own.
 
 
+### Old stuff
 ---
 ## Introduction
 ### The Provinces
