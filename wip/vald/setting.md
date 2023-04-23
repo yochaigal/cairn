@@ -1,10 +1,10 @@
 ---
-layout: default
 title: Setting
-grand_parent: WIP
-parent: vald
+layout: default
 nav_exclude: true
 search_exclude: true
+parent: Vald
+grand_parent: WIP
 ---
 
 # Basics
@@ -24,6 +24,7 @@ search_exclude: true
 - The Hole in the Oak
 - Temple of the Moon Priests
 - Elder Oak
+- Tannic
 
 ### Adventures Commonalities
 
