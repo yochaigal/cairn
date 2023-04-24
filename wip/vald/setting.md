@@ -10,27 +10,27 @@ grand_parent: WIP
 # Setting
 
 ## Introduction
-- A setting is comprised of five **Domains**: **The Cobbles**, **The Field**, **The Wood**, **The Marches**, and **The Roots**.
-- **Domains** are not necessarily bound to a specific geography: **The Wood** is not one forest, but _all_ forests, for example. 
-- 
+- The implied setting of Cairn is comprised of the following **Domains**: **The Cobbles**, **The Fields**, **The Woods**, **The Marches**, and **The Roots**.
+- **Domains** are not necessarily bound to a specific geography: **The Woods** is not one forest, but _all_ forests, for example. 
+- Your own setting is not limited these particular **Domains**; one could just as easily have **The Rivers** or **The Seas**.
 
 ### The Cobbles
 
-- An urban seat of power that uses its advanced technology, wealth, and might to bring the people of **The Field** and **The Wood** to heel whenever necessary.
+- An urban seat of power that uses its advanced technology, wealth, and might to bring the people of **The Fields** and **The Woods** to heel whenever necessary.
 - As self-styled "centers of civilization", the people of **The Cobbles** are vast and sundry, reflecting the fulcrum of culture and education in the region.
 - To ensure the continued flow of food and goods, the wealthier denizens of **The Cobbles** ensure that any connected roads or footpaths are maintained and patrolled by soldiers, militia, or local champions.
 
 ### The Field
 
 - Any farms, orchards, or meadows that owe a tax or tithe to **The Cobbles** in exchange for cultivation "rights" over land and unprotected forests.
-- The people of **The Field** are generally tougher folks than those of **The Cobbles**, and are equally as diverse. What they lack in education they make up for in practical skills, and their connection to the land and its natural history.
-- Alliances between the various factions of **The Field** are not uncommon, but rarely long-lasting. There are murmors of an alliance with the Sea, River, and Wood folk, but to speak openly about such things is considered foolish as well as dangerous.
+- The people of **The Fields** are generally tougher folks than those of **The Cobbles**, and are equally as diverse. What they lack in education they make up for in practical skills, and their connection to the land and its natural history.
+- Alliances between the various factions of **The Fields** are not uncommon, but rarely long-lasting. There are murmors of an alliance with the Sea, River, and Wood folk, but to speak openly about such things is considered foolish as well as dangerous.
 
 ### The Wood
 
-- Any untamed forested terrain. All forests are considered part of **The Wood**, no matter how isolated.
+- Any untamed forested terrain. All forests are considered part of **The Woods**, no matter how isolated.
 - The Woods are populated by creatures far stranger and wondrous than humankind: Fae, Demons, Witches, werewolves, and even talking plants and animals. They do not appreciate the loss of their home from the encroachment of **The Cobbles**, either. 
-- The denizens of **The Wood** are fiercely independent, believing they are subject solely to the rules of **The Wood** and no other.
+- The denizens of **The Woods** are fiercely independent, believing they are subject solely to the rules of **The Woods** and no other.
 
 ### The Marches
 

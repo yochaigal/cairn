@@ -154,13 +154,6 @@ Rare, fragrant burial herbs
 Antique gravedigger's toolkit
 Memento from a loved one's grave
 Shovel with hidden compartments
-Ceremonial burial robe with protective runes
-Witnessed a necromancer's ritual, compelled to stop the undead menace
-Accidentally awakened a slumbering spirit, now seeks to put it to rest
-Discovered an ancient prophecy involving the dead, determined to solve the mystery
-Unearthed a powerful relic that attracts dark forces, must keep it safe
-Challenged by the ghosts of the graveyard to prove your worth to the living
-Called upon by a restless spirit to avenge their wrongful death
 Copper lantern
 Five days' trail mix
 Ever-burning candle
@@ -304,3 +297,20 @@ Flamebloom Powder: Throw at a target or area to create a small, fiery explosion 
 Flashroot: When crushed and thrown, it creates a bright flash of light, temporarily blinding enemies in the vicinity.
 Mudcap Spores: Scatter in an area to create a thick, obscuring mist, hindering vision and granting concealment.
 Chillthorn Essence: Apply to a weapon or projectile, adding a frost effect that deals additional cold damage and may slow enemies struck by it.
+
+### Charlatan
+**Invisible Ink**: A small vial of liquid that turns invisible when dry, revealing its message under heat or the right substance.
+**Forger's Kit**: A set of tools for forging documents, including quills, ink, wax, and various seals.
+**Pocket Smoke Bomb**: A tiny, fragile container that releases a cloud of obscuring smoke when broken.
+**Mirrored Cards**: A deck of playing cards with mirrored surfaces, making it difficult for opponents to see their own hand.
+**Mimic Stone**: A smooth stone that records a short phrase when spoken to and can be activated to replay the recording.
+**Lockpick Set**: A collection of small tools designed for picking locks and disarming simple traps.
+**Marked Dice**: A set of loaded dice designed to favor specific outcomes when rolled.
+**Distraction Marbles**: A bag of glass marbles that make a loud, startling noise when thrown or dropped.
+**Disguise Glasses**: A pair of spectacles that subtly alter the wearer's facial features, making them harder to recognize.
+**Voice Modulator**: A small device that, when placed in the mouth, alters the wearer's voice to sound like someone else.
+**Feign Death Powder**: A tasteless, odorless substance that, when ingested, causes the user to appear dead for a short period of time.
+**Quick-Change Cloak**: A reversible cloak with different colors and patterns on each side, allowing for rapid costume changes.
+**Forgery Ring**: A ring that can store a small amount of ink, useful for quickly forging signatures or small documents.
+**Sleight of Hand Gloves**: A pair of gloves that aid in performing sleight of hand tricks and pickpocketing attempts.
+**Fake Treasure Map**: An elaborately crafted and convincing map that leads to a nonexistent treasure, perfect for swindling would-be treasure hunters.
