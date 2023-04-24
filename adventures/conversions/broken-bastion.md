@@ -26,10 +26,10 @@ title: Broken Bastion
 
 #### Glass Spiders
 
-6 HP, 3 STR, 10 DEX, 6 WIL, bite (d6 poison damage)
+6 HP, 3 STR, 10 DEX, 6 WIL, bite (d6)
 * Will almost always attack, but will often retreat after one or more characters suffers Critical Damage.  They will return later with the intention of feasting on anyone left behind.
 * Tenacious: Glass spiders do not check Morale (WIL save) unless reduced to 0 HP or faced with overwhelming force.  
-* Critical Damage: target suffers from spasmodic violence and attacks (enhanced damage) the nearest creature, then falls into a coma. They die in 1d6/2 days, or recover in 2d6 if hydrated and cared for. 
+* Critical Damage: target suffers from spasmodic violence and attacks (*enhanced* damage) the nearest creature, then falls into a coma. They die in 1d6/2 days, or recover in 2d6 if hydrated and cared for. 
 
 ### 3) Optics Station
 
