@@ -15,33 +15,33 @@ redirect_from: /more-content/backgrounds/herbalist/
 ## Starting Gear
 
 - 3d6 gold pieces
-- Three days’ rations
-- Long-burning torch
+- Three days' rations
+- Long-burning torch (4 uses)
 - Rake (d6) or spade (d6)
-- Watering tin
 - Restorative herbs
 
-## Why did you lose your passion for herbalism? Roll 1d6:
+## Why did you leave the herbalist life? Roll 1d6:
 
 |      |                                                              |
 | ---- | ------------------------------------------------------------ |
-| 1    | You (accidentally?) stole the heart-seed of a cantankerous forest spirit; it still hounds you. Until such time as the spirit's ire is sated anything you plant will wilt and die. Take a **Bezoar Stone**. It can cure any wound, and even reverse death. One use. |
-| 2    | You bore witness to the death of a close friend. Recently, you've been seeing their face in any teas you brew. They only speak of death; both theirs and yours. Take a soporific. You're quite good at making them, now. |
-| 3    | You spent years studying plants and herbs, hoping to find the cure for a life-long affliction. You were successful, but paid a great price: the loss of both your taste and smell. You can handle noxious fumes better than most. Take an authoritative book on dangerous plants. |
-| 4    | Your experiments were radical, crossing boundaries you were never meant to surpass. You used yourself as a test subject, with dire consequences. You do not eat; the Sun provides enough nutrients, provided its rays reach you often enough. Instead of rations, you carry a jug of water. |
-| 5    | The local nobility sponsored a grand competition between all the greatest herbalists, florists and gardeners. Your corpse-flower won the show. Unfortunately, it also killed one of the judges. Take the grand prize: 25gp, and the hatred of nearly everyone. |
-| 6    | Your restorative tinctures were known all through the lands, bringing you fame and fortune. That is of course until it was discovered that one of the side-effects was infertility. Take a healing potion; drinking restores all STR. You know the cost, though. |
+| 1    | An ill-tempered spirit cursed you for stealing its heart-seed. Now any plant you touch wilts and dies. Take a **Bezoar Stone**. Ingesting it cures any poison (one use, unless retrieved). |
+| 2    | Grief over a friend's death follows you, their face appearing in any any tea you brew. Take a soporific concoction. |
+| 3    | An accidental poisoning cost you your sense of taste and smell, but you can now withstand noxious fumes. Take a book on dangerous plants. |
+| 4    | Your radical experiments altered you allowig you to subsist on only sun and water. Instead of rations, you carry a fortified jug of water (bulky). |
+| 5    | A corpse-flower you grew won a competion in **The Cobbles** but killed a judge. You fled, but not without the prize money (100gp). |
+| 6    | A restorative tincture you brewed caused infertility in a patient. Take a healing potion that completely restores STR. Only you know of its unintended side-effects |
 
-## What keepsake did you take with you? Roll 1d6:
+## What keepsake accompanied you? Roll 1d6:
 
-|      |                       |                                                              |
-| ---- | --------------------- | ------------------------------------------------------------ |
-| 1    | **Amadou**            | A peculiar kind of fungus that catches flame quite easily. You have about 6 uses worth. |
-| 2    | **Delphinium**        | A gray, concentrated elixir that allows the drinker the ability to hold their breath for up to an hour. It can be divided into multiple doses.  |
-| 3    | **Tacky Stalk**       | This woody reed contains a fibrous, chalky interior that may be chewed into a gummy mound. After a few minutes this mound will harden entirely, becoming a permanent adhesive after drying. It spreads well. |
-| 4    | **Artificial Flowers** | A bouquet fashioned out of felt, wax, wire and other materials. It looks real as long as it is not closely observed, and is rather resplendent. Its odor resembles that of a person's favorite flower. |
-| 5    | **Seed Bomb**         | Three dirt clods held tightly together in small canvas sacks. Their contents explodes on impact, showering their target with dirt and a multitude of seeds. |
-| 6    | **Duda**          | A brownish root that looks almost like a tiny sleeping human. At first it fits snugly into your backpack, but comes alive when splashed with a bit of milk. Tell it where you (and only you) want to go, and suddenly you'll find yourself there. Each time it wakes it grows by a factor of two. |
+|      |                        |                                                              |
+| ---- | ---------------------- | ------------------------------------------------------------ |
+| 1    | **Amadou**             | A peculiar kind of fungus that catches flame quite easily. Six uses. |
+| 2    | **Delphinium**         | An elixir allowing the drinker to hold their breath for an hour, can be divided into multiple doses. |
+| 3    | **Tacky Stalk**        | A woody reed that, when chewed, hardens into a permanent adhesive. |
+| 4    | **Artificial Flowers** | A realistic-looking bouquet with an odor resembling a person's favorite flower. |
+| 5    | **Seed Bomb**          | Three dirt clods in canvas sacks that explode on impact, scattering seeds. d6 damage (_blast). |
+| 6    | **Briarvine**          | Entangles any creature smaller than an elephant. One use. |
 
 ## If you are the oldest character in the party, your whole group is in Debt to....
-You trespassed over an invisible boundary maintained by the **Wooden Dead**, a faction of benign Forest Liches. They now demand you plant a new grove of rare (and expensive) corpsewood trees. Until this debt is paid, trees and plants wilt at your touch.  
+
+The **Wooded Dead**, a group of benign Forest Liches. They demand you plant a grove of rare **corpsewood trees** for trespassing in their part of **The Wood**. Until your debt is paid travelling through **The Wood** is slower and more dangerous.
