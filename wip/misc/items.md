@@ -55,6 +55,32 @@ Spell-scroll case with a secure locking mechanism
 A sketchbook illustrating the luminescent flowers and their effects
 An ancient tome detailing the history and rituals of the lost civilization
 A leather-bound journal detailing the true stories of the outlaws
+Harvest Moon Pendant: Provides dim light in a small radius when worn during a full moon.
+Enchanted Pruning Shears: Cuts through vines and overgrowth with ease.
+Withering Touch Gloves: Ages touched plants, useful for clearing obstructing growth.
+Dewdrop Elixir: A potion that restores a small amount of health when consumed.
+Sprouting Pebbles: When thrown, these pebbles rapidly grow into large, obstructing bushes.
+Plant Growth Charm: A charm that can be hung on a tree or plant to promote rapid growth.
+Elemental Watering Can: When filled with water, can create minor water-based effects.
+Thorn Whip: A whip made from tough, thorny vines that can also grapple and pull objects.
+Sapling Staff: A staff that can sprout tiny branches, creating a makeshift ladder or bridge.
+Bloom Caller Whistle: A whistle that can attract or repel pollinating insects.
+Grafting Knife: A knife that can magically graft two different plants together.
+Verdant Boots: Soft-soled boots that leave no trace when walking through vegetation.
+Seed of Explosive Growth: When planted, causes a massive tree to grow in just minutes.
+Fungal Spore Bomb: A throwable item that releases a cloud of confusion-inducing spores.
+Cursed Scarecrow: A scarecrow that can animate and attack when a specific command word is spoken.
+Nectar of the Blossom: A sweet drink that temporarily enhances the imbiber's charisma.
+Vine Lasso: A self-tying lasso made from strong, animated vines.
+Sunflower Shield: A shield that reflects sunlight, potentially dazzling or blinding opponents.
+Bramble Armor: Armor covered in thorny vines that deals damage to attackers who get too close.
+Tree Bark Bracers: Bracers made from enchanted bark that grant minor resistance to natural attacks.
+Fertile Soil Bag: A bag of soil that, when scattered, can turn barren land into fertile ground.
+Berry of Truth: A berry that forces the eater to speak only the truth for a short time.
+Root Net: A throwable net made from magical roots that entangles and restrains targets.
+Petal Cloak: A cloak made from flower petals that helps the wearer blend into natural surroundings.
+Sling of the Seedling: A sling that launches seeds, which sprout into entangling plants upon impact.
+
 
 ## **The Marches**
 Border-etched, accurate compass
