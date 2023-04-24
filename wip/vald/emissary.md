@@ -17,17 +17,18 @@ grand_parent: WIP
 - Torch (3 lights)
 - Fine clothing and a signet ring, marking your affiliation with The Cobbles
 - Quill, ink, and a letter of authority
+- Walking staff (d6)
 
 ## What led you to become an emissary for The Cobbles? Roll 1d6:
 
-|       |                                                              |
-| ----- | ------------------------------------------------------------ |
-| **1** | You were handpicked by a powerful noble, impressed by your diplomatic skills and social grace. |
-| **2** | You sought out the position, believing that you could bring about change and peace through diplomacy. |
-| **3** | You were once a skilled negotiator or merchant and saw the opportunity to use your talents for a greater purpose. |
-| **4** | You were born into a family of emissaries, and it was expected that you would follow in their footsteps. |
-| **5** | You stumbled into the role accidentally, but found that you had a natural aptitude for it. |
-| **6** | You were trained as a spy, and becoming an emissary is the perfect cover for your true mission. |
+|       |     |
+| ----- | --- |
+| **1** |     |
+| **2** |     |
+| **3** |     |
+| **4** |     |
+| **5** |     |
+| **6** |     |
 
 ## What did you bring with you on your journey? Roll 1d6:
 
