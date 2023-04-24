@@ -53,7 +53,7 @@ The general workflow is to write files on your computer to your local copy of th
 
 Now that you know how to contribute, take a look at what is desired for the website. In particular:
 
- - [Future adventure conversions](/adventures/future-conversions/) if you have a adventure you have run in Cairn.
+ - [Future adventure conversions](/adventures/future-conversions/) if you are looking for popular adventures without existing Cairn conversions.
  - [Third party resources](/hacks/third-party/) if you have a product related to Cairn.
  - [This site in another language](/localizations/localization-guide) if you can translate this site.
 

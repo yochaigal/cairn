@@ -23,6 +23,8 @@ layout: default
 parent: Conversions
 grand_parent: Adventures
 title: Adventure Title
+nav_exclude: true
+search_exclude: true
 ---
 
 # Adventure Title
@@ -47,3 +49,5 @@ Monster 1
 - Notes on weird thing 1
 
 ```
+
+Note that the "nav_exclude" and "search_exclude" directives in the Front Matter are for staging purposes only; when the conversion is "complete" they can be removed.
