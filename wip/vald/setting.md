@@ -20,13 +20,13 @@ grand_parent: WIP
 - As self-styled "centers of civilization", the people of **The Cobbles** are vast and sundry, reflecting the fulcrum of culture and education in the region.
 - To ensure the continued flow of food and goods, the wealthier denizens of **The Cobbles** ensure that any connected roads or footpaths are maintained and patrolled by soldiers, militia, or local champions.
 
-### The Field
+### The Fields
 
 - Any farms, orchards, or meadows that owe a tax or tithe to **The Cobbles** in exchange for cultivation "rights" over land and unprotected forests.
 - The people of **The Fields** are generally tougher folks than those of **The Cobbles**, and are equally as diverse. What they lack in education they make up for in practical skills, and their connection to the land and its natural history.
 - Alliances between the various factions of **The Fields** are not uncommon, but rarely long-lasting. There are murmors of an alliance with the Sea, River, and Wood folk, but to speak openly about such things is considered foolish as well as dangerous.
 
-### The Wood
+### The Woods
 
 - Any untamed forested terrain. All forests are considered part of **The Woods**, no matter how isolated.
 - The Woods are populated by creatures far stranger and wondrous than humankind: Fae, Demons, Witches, werewolves, and even talking plants and animals. They do not appreciate the loss of their home from the encroachment of **The Cobbles**, either. 
