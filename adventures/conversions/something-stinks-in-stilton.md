@@ -7,7 +7,7 @@ title: Something Stinks In Stilton
 
 # Something Stinks In Stilton
 
-- Based on the [Something Stinks In Stilton](https://melsonian-arts-council.itch.io/something-stinks-in-stilton) by **Oli Palmer**.
+- Based on the [Something Stinks In Stilton](https://melsonian-arts-council.itch.io/something-stinks-in-stilton) by **Oli Palmer** and [Melsonian Arts Council](https://www.melsonia.com/).
 - Conversion by [Pat Eyler](https://footofthemountainadventures.blogspot.com/)
 
 ## General Notes
