@@ -15,8 +15,8 @@ grand_parent: WIP
 - 3d6 gold pieces
 - Three days' rations
 - Torch (3 lights)
-- Woodland garb, providing camouflage in forested areas
-- A sturdy shortbow (d6 damage) and a quiver of arrows
+- Woodland garb
+- A sturdy shortbow (d6)
 
 ## What compelled you to leave the safety of The Wood? Roll 1d6:
 
