@@ -1,5 +1,5 @@
 ---
-title: Border Steward
+title: Marchguard
 layout: default
 nav_exclude: true
 search_exclude: true
@@ -8,7 +8,7 @@ grand_parent: WIP
 ---
 
 
-# Border Steward
+# Marchguard
 
 ## Starting Gear
 
@@ -18,7 +18,7 @@ grand_parent: WIP
 - Shortsword (d6)
 - Worn leather cuirass (1 Armor)
 
-## Why did you join the Border Stewards?
+## Why did you take the Oath?
 
 |       |                                                              |
 | ----- | ------------------------------------------------------------ |
