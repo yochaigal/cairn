@@ -18,13 +18,13 @@ grand_parent: WIP
 - Shortsword (d6)
 - Worn leather cuirass (1 Armor)
 
-## Why did you take the Oath?
+## Why did you take the Oath of the Marchguard?
 
 |       |                                                              |
 | ----- | ------------------------------------------------------------ |
 | **1** | Your family has a long tradition of serving. You were trained from an early age how to survive in the wilds. You can forgo **Sleep** for one night without penalty, and you find **d6** rations when taking the **Supply** action.|
-| **2** | A convict from **The Cobbles**, you knew nothing of **The Marshes**, only taking the Oath as a means of avoiding death. Take a **hidden throwing knife (d6)**, and a key to somewhere safe you can hide if you need it. |
-| **3** | Raised in **The Marshes**, you left everything you knew to become a **Steward**, in the hopes that your life would turn out better on the other side of the border. Take a **Goosefelt Tarp** (one slot), a gift of the **Steward** that brought you in. |
+| **2** | A convict from **The Cobbles**, you knew nothing of **The Marshes**, only taking the Oath as a means of avoiding death. Take a **hidden throwing knife (d6)**, and the key to a safe hideout back home. |
+| **3** | Raised in **The Marshes**, you joined The Guard to escape family trouble.  Take a **Goosefelt Tarp** (one slot), a gift of the Marchguard that brought you in. |
 | **4** | When your family lost its land rights in **The Fields**, you joined to avoid becoming a burden. Take a sack of seeds your mother gave you, and a pair of shears.    |
 | **5** |   |
 | **6** |  |
