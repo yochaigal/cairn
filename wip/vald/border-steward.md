@@ -1,5 +1,5 @@
 ---
-title: Border Guardian
+title: Border Steward
 layout: default
 nav_exclude: true
 search_exclude: true
@@ -8,28 +8,28 @@ grand_parent: WIP
 ---
 
 
-# Border Guardian
+# Border Steward
 
 ## Starting Gear
 
 - 3d6 gold pieces
 - Three days' rations
-- Torch
+- Lantern & oil (bulky, 6 uses)
 - Shortsword (d6)
-- Worn leather armor
+- Worn leather cuirass (1 Armor)
 
-## How did you become a Border Guardian?
+## Why did you join the Border Stewards?
 
 |       |                                                              |
 | ----- | ------------------------------------------------------------ |
-| **1** | You were born into a family with a long tradition of serving as border guardians. From a young age, you were taught the art of combat, scouting, and survival. |
-| **2** | You once lived a life of crime but found redemption by protecting the border. You've dedicated your life to ensuring the safety of those who live in the Marches. |
-| **3** | You were a merchant who frequently traveled across the border. After witnessing the dangers faced by the people of the Marches, you decided to take up arms and protect them. |
-| **4** | You were conscripted into the border guard as a youth and, despite the challenges and dangers, you found your purpose in protecting your homeland. |
-| **5** | You were a wanderer who stumbled upon the Marches, where you found a sense of belonging. You decided to stay and become a border guardian, using your skills to protect the land and its people. |
-| **6** | You were a member of a scouting party that was ambushed near the border. You were the sole survivor and swore an oath to protect the Marches from future threats. |
+| **1** | Your family has a long tradition of serving. You were trained from an early age how to survive in the wilds. You can forgo **Sleep** for one night without penalty, and you find **d6** rations when taking the **Supply** action.|
+| **2** | A convict from **The Cobbles**, you knew nothing of **The Marshes**, only taking the Oath as a means of avoiding death. Take a **hidden throwing knife (d6)**, and a key to somewhere safe you can hide if you need it. |
+| **3** | Raised in **The Marshes**, you left everything you knew to become a **Steward**, in the hopes that your life would turn out better on the other side of the border. Take a **Goosefelt Tarp** (one slot), a gift of the **Steward** that brought you in. |
+| **4** | When your family lost its land rights in **The Fields**, you joined to avoid becoming a burden. Take a sack of seeds your mother gave you, and a pair of shears.    |
+| **5** |   |
+| **6** |  |
 
-## Why did you leave the Watch? Roll 1d6:
+## Why did you break your Oath? Roll 1d6:
 
 |       |                                                              |
 | ----- | ------------------------------------------------------------ |

@@ -38,7 +38,7 @@ redirect_from: /wip/backgrounds/herbalist/
 | **1** | **Amadou**       | A peculiar kind of fungus that catches flame quite easily. Six uses.                                 |
 | **2** | **Delphinium**   | An elixir allowing the drinker to hold their breath for an hour, can be divided into multiple doses. |
 | **3** | **Tacky Stalk**  | A woody reed that, when chewed, hardens into a permanent adhesive.                                   |
-| **4** | **Wisp Lantern** |  **Wisp Lantern** | Caged in wrought iron, providing an unending light that grows stronger as the wisp feeds on nearby pain and fear. |
+| **4** | **Wisp Lantern** | Caged in wrought iron. Provides an unending light so long as the wisp is able to feed on nearby pain and fear. |
 | **5** | **Seed Bomb**    | Three dirt clods in canvas sacks that explode on impact, scattering seeds. d6 damage (_blast).       |
 | **6** | **Briarvine**    | Entangles any creature smaller than an elephant. One use.                                            |
 

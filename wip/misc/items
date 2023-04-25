@@ -126,7 +126,7 @@ Verdant Boots: Soft-soled boots that leave no trace when walking through vegetat
 Seed of Explosive Growth: When planted, causes a massive tree to grow in just minutes.
 Fungal Spore Bomb: A throwable item that releases a cloud of confusion-inducing spores.
 Cursed Scarecrow: A scarecrow that can animate and attack when a specific command word is spoken.
-Nectar of the Blossom: A sweet drink that temporarily enhances the imbiber's charisma.
+Nectar of the Blossom: A sweet drink that temporarily enhances the imbiber's personal charm.
 Vine Lasso: A self-tying lasso made from strong, animated vines.
 Sunflower Shield: A shield that reflects sunlight, potentially dazzling or blinding opponents.
 Bramble Armor: Armor covered in thorny vines that deals damage to attackers who get too close.
@@ -140,7 +140,6 @@ Sigil of Bountiful Harvest: When placed in a field, increases crop yield and red
 Stormcaller's Whistle: A whistle that can summon or disperse minor rainstorms for a short period of time.
 Pouch of Dowsing Beans: Throwing a bean from this pouch will lead the thrower to the nearest water source.
 Beastbane Amulet: Wearing this amulet will deter wild animals from attacking or approaching the wearer.
-Wisp Willow Lantern: A lantern that contains a friendly wisp, which can guide the bearer through darkness or fog.
 Farsight Spyglass: A spyglass that allows the user to see great distances and identify distant landmarks.
 Aura of Serenity Totem: A small totem that, when placed in an area, promotes a sense of peace and tranquility.
 Golden Egg Charm: A charm that ensures a flock of chickens will lay a healthy supply of eggs.
@@ -178,21 +177,8 @@ Hedge Trimmer
 Harvest Moon Calendar
 Crop Rotation Planner
 Family heirloom (weapon)
-Stolen item from your criminal past
 Merchant's ledger
-Border guard insignia
-Wanderer's cloak
-Tattered scouting party banner
-Ancestral guardian's cloak
-Concealed lockpick set from your criminal past
-Collection of rare trade goods
-Border guard's training manual
-Map of hidden paths in the Marches
-Broken arrow from the ambush
-Valuable map of secret border crossings
-Unique herbal remedy recipe
-Blacksmith's tools
-Contact's token from the Marches' criminal underworld
+
 Rare tome of ancient knowledge
 Enchanted compass
 Stolen official document proving your innocence
@@ -205,43 +191,31 @@ Odd, glowing crystal
 Fey charm of good fortune
 Tome of forbidden arcane knowledge
 Luminescent flower seeds
-
-### Fields (descriptive text)
-
-Enchanted amulet to calm restless souls
-Beautifully crafted dagger from the outlaws
-Fragment of a mysterious stone tablet
-Enchanted flute that summons fey creatures
-Sealed scroll containing a powerful spell
-Pressed, luminescent flower in a keepsake box
-Ghostly lantern that reveals hidden spirits
-Outlaw's bandana signifying camaraderie
-Family heirloom compass for navigating the borderlands
-Customized bandolier with hidden compartments from your criminal past
-Pocket-sized guidebook to regional plants and herbs
-Weather-resistant cloak gifted by a fellow border guard
-Hand-carved walking stick for traversing the Marches
-An arrowhead necklace as a reminder of your survival
-A detailed sketch of the person who framed you
-A pair of matching rings, one worn by you and the other by your lover
-Blacksmith's hammer and tongs for weapon maintenance
-A coded message detailing the corruption within the border guard
-A satchel of incense and meditation beads for spiritual growth
-A signet ring bearing the crest of your new employer
-Carved stone idol of an unknown deity from the depths of The Roots
-A small vial containing enchanted fey dust
-Spell-scroll case with a secure locking mechanism
-A sketchbook illustrating the luminescent flowers and their effects
-An ancient tome detailing the history and rituals of the lost civilization
-A leather-bound journal detailing the true stories of the outlaws
-
-Wealthstone (1 use, can be used to temporarily dazzle others with displays of wealth) 
-Cartographer's Compass (1 use, can be used to find the shortest route to a destination) 
-Concealed Cane Blade (1 use, can be used to make a surprise attack) 
+Pesticide-resistant crop seeds
+Insect-repelling charm
+Pruning shears
+Ancestral scarecrow figurine
+Weather-resistant hat
+Fertile soil sample
+Secret crop fertilizer recipe
+Homemade plant growth elixir
+Enchanted seed starter
+Drought-surviving plant cutting
+Compact grain mill
+Miniature garden gnome
+Sack of natural compost
+Ancient tree sapling
+Rare mushroom spores
+Decorative garden stake
+Hand-carved animal totem
+Nutrient-rich soil additive
+Artifact of agricultural significance
+Wealthstone 
+Cartographer's Compass
+Concealed Cane Blade 
 
 ## The Marches
 Wayfinder's Beacon: A small device that emits a signal, allowing the user to find their way back to a specific location.
-Featherweight Tarp: A lightweight and durable tarp that can be used as a makeshift shelter or for carrying heavy loads.
 Marsh Strider Stilts: Adjustable stilts that allow the user to traverse marshy terrain without sinking.
 Snarewire Bracelet: A bracelet that can be unraveled into a strong, nearly invisible wire for setting traps.
 Mirage Mirror: A small mirror that can create illusory duplicates of the user to distract or confuse pursuers.
@@ -292,25 +266,19 @@ Harvest celebration token
 Pouch of preserving salts
 Lucky horseshoe
 Wind chime for good energy
-Pesticide-resistant crop seeds
-Insect-repelling charm
-Pruning shears
-Ancestral scarecrow figurine
-Weather-resistant hat
-Fertile soil sample
-Secret crop fertilizer recipe
-Homemade plant growth elixir
-Enchanted seed starter
-Drought-surviving plant cutting
-Compact grain mill
-Miniature garden gnome
-Sack of natural compost
-Ancient tree sapling
-Rare mushroom spores
-Decorative garden stake
-Hand-carved animal totem
-Nutrient-rich soil additive
-Artifact of agricultural significance
+Tattered scouting party banner
+Ancestral guardian's cloak
+Concealed lockpick set from your criminal past
+Collection of rare trade goods
+Border guard's training manual
+Map of hidden paths in the Marches
+Broken arrow from the ambush
+Valuable map of secret border crossings
+Unique herbal remedy recipe
+Blacksmith's tools
+Contact's token from the Marches' criminal underworld
+
+
 
 ## The Cobbles
 
@@ -424,6 +392,37 @@ Shadowstep Boots
 Glowing Mushroom Spores
 Cave Fisher's Net
 Heatgem
+
+
+
+## Whatever this is
+
+Enchanted amulet to calm restless souls
+Beautifully crafted dagger from the outlaws
+Fragment of a mysterious stone tablet
+Enchanted flute that summons fey creatures
+Sealed scroll containing a powerful spell
+Pressed, luminescent flower in a keepsake box
+Ghostly lantern that reveals hidden spirits
+Outlaw's bandana signifying camaraderie
+Family heirloom compass for navigating the borderlands
+Customized bandolier with hidden compartments 
+Pocket-sized guidebook to regional plants and herbs
+Weather-resistant cloak gifted by a fellow border guard
+Hand-carved walking stick for traversing the Marches
+An arrowhead necklace as a reminder of your survival
+A detailed sketch of the person who framed you
+A pair of matching rings, one worn by you and the other by your lover
+Blacksmith's hammer and tongs for weapon maintenance
+A coded message detailing the corruption within the border guard
+A satchel of incense and meditation beads for spiritual growth
+A signet ring bearing the crest of your new employer
+Carved stone idol of an unknown deity from the depths of The Roots
+A small vial containing enchanted fey dust
+Spell-scroll case with a secure locking mechanism
+A sketchbook illustrating the luminescent flowers and their effects
+An ancient tome detailing the history and rituals of the lost civilization
+A leather-bound journal detailing the true stories of the outlaws
 
 ## By "class"
 
