@@ -18,8 +18,8 @@ title: Feast
 
 #### 1) Truffle Hunter
 
-- Truffle Hunter - 3 HP, 9 STR, dagger (d6)
-- Truffle Dog - 3 HP, 7 STR, bite (d6)
+- Truffle Hunter - 3 HP, 9 STR, 10 DEX, 10 WIL, dagger (d6)
+- Truffle Dog - 3 HP, 7 STR, 12 DEX, 8 WIL, bite (d6)
 
 #### 4) Fat Brown Bear
 

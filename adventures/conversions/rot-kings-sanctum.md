@@ -18,7 +18,7 @@ title: Rot King's Sanctum
 
 ### Corpse Crawler
 
-8 HP, 9 STR, 8 WIL, tentacles (d8+d8 _blast_)
+8 HP, 9 STR, 10 DEX, 8 WIL, tentacles (d8+d8 _blast_)
 
 - **Critical Damage**: target is paralyzed, to be devoured later
 - Can walk on walls, ceilings, etc.
@@ -47,7 +47,7 @@ title: Rot King's Sanctum
 
 ### Moldy Skeletons
 
-4 HP, 1 Armor, 9 STR, 13 DEX, rake (d6)
+4 HP, 1 Armor, 9 STR, 13 DEX, 10 WIL, rake (d6)
 
 - Immune to sleep or charm spells
 - When saving for critical damage (regardless of the outcome) there is 3-in-6 chance they release a ***\*cloud of spores\**** against their assailant.
@@ -72,14 +72,13 @@ title: Rot King's Sanctum
 - Summon Swarm - 1d4 times per day, the Rot King can release a *Fly Swarm* from their body.
 
 - **Spells (1x each)**:
-
   - _Cause Wounds_: Target loses d8 STR. Grasp only.
   - _Grasp of Yahzahar_: Target is grappled by a shadowy hand and held in place for 1d4 rounds. A STR save is required to escape before the spell ends.
   - _Swarm Form_: Transofmrs into a swarm of bugs, rats or bats.
   
 ### Shadow
 
-6 HP, 8 STR, 14 WIL, draining touch (d6, ignores armor) 
+6 HP, 8 STR, 10 DEX, 14 WIL, draining touch (d6, ignores armor) 
 
 - Incorporeal monsters that look like animated shadows.
 - Unharmed by mundane attacks, sleep or mind control.

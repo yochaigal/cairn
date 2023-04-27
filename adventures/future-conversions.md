@@ -72,7 +72,6 @@ The following is a list of planned conversions. If you'd like to help out, pick 
 * [The Village of Hommlet](https://www.drivethrurpg.com/product/17067/T1-The-Village-of-Hommlet-1e)
 * [The Weird That Befell Drigbolton](https://www.drivethrurpg.com/product/207631/The-Weird-That-Befell-Drigbolton)
 * [Through Ultan’s Door](https://throughultansdoor.bigcartel.com/)
-* [Tomb Robbers of the Crystal Frontier](https://www.drivethrurpg.com/product/357799/Tomb-Robbers-of-the-Crystal-Frontier)
 * [Tower of the Moon](https://www.drivethrurpg.com/product/289553/Tower-of-the-Moon)
 * [Trilemma Adventures](https://www.drivethrurpg.com/browse/pub/6008/Trilemma-Adventures) (see "ranking" [here](https://coinsandscrolls.blogspot.com/2020/01/osr-trilemma-adventures-vol-1-review_2.html))
 * [Ultraviolet Grasslands and the Black City](https://www.drivethrurpg.com/product/302021/Ultraviolet-Grasslands-and-the-Black-City)

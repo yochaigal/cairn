@@ -7,84 +7,16 @@ parent: Vald
 grand_parent: WIP
 ---
 
-# Basics
-
-### Inspirational Adventures
-
-- Black Wyrm of Brandonsford
-- Winter's Daughter
-- Blackapple Brugh
-- Barrow of the Elf King
-- Hideous Daylight
-- Beyond The Pale
-- The Waking of Willowby Hall
-- Where the Wheat Grows Tall
-- Willow
-- Toxic Wood
-- The Hole in the Oak
-- Temple of the Moon Priests
-- Elder Oak
-- Tannic
-
-### Adventures Commonalities
-
-- Most have the classic village, forest, dungeon
-- Undead
-- Druids or similar often feature
-- Infected or corruputed trees/animals
-- Fairy stuff/liminal spaces
-- Rituals
-- Crypts/Tombs/Barrows
-- Folklore & History
-- Dolmens/Megaliths
-- Mysteries
-- Fae Royalty
-
-### Definitions
-
-- Province
-- Barony/Dominion
-- Heart = focal point of a province
-- Frontier/Marches/Treeline = the borderlands/edge to the wilds. DANGER
-- Towns/Colony/Hamlet
-- Fields/Tillage/ = crops and farms near the Heart
-- Underworld/Ruins/Hollows/Roots
-- Regents/Seneschals/Factions
-- Woods = Forests and areas unconquered by Man
-- Wilds = Other areas surrounding the woods and fields but far from the heart. Danger.
-- Roots = the places beneath the forest. Barrows/Tombs.
-- Settlement/Refuge/Sanctuary  
-- Treasure/Relics
-
-### Forest Anatomy
-
-- The Waldron/The Crown
-- Rocks/Dolmens/Megaliths
-- Moonlight rituals
-- Leylines
-- Dead Villages/graveyards/bridges/ruins, swallowed by the forest
-
-### Forest Denizens
-
-- Wild Man
-- Green Man
-- The Crone
-- Fairies
-- Werewolves
-- Druids
-- Demons/Spirits
-- Horrors
-- Deities
-- Talking animals
-- Various humanoid cultures (optional): ratfolk, crowfolk, wood elves
-- Sylvan creatures (wood nymphs, dryads)
-- Wolves, Elk, tree creatures, etc
+# Setting
 
 ## Introduction
+- The implied setting of Cairn is comprised of the following **Domains**: **The Cobbles**, **The Fields**, **The Woods**, **The Marches**, and **The Roots**.
+- **Domains** are not necessarily bound to a specific geography: **The Woods** is not one forest, but _all_ forests, for example. 
+- Your own setting is not limited these particular **Domains**; one could just as easily have **The Rivers** or **The Seas**.
 
 ### The Cobbles
 
-- An urban seat of power that uses its advanced technology, wealth, and might to bring the people of **The Fields** and **The Wood** to heel whenever necessary.
+- An urban seat of power that uses its advanced technology, wealth, and might to bring the people of **The Fields** and **The Woods** to heel whenever necessary.
 - As self-styled "centers of civilization", the people of **The Cobbles** are vast and sundry, reflecting the fulcrum of culture and education in the region.
 - To ensure the continued flow of food and goods, the wealthier denizens of **The Cobbles** ensure that any connected roads or footpaths are maintained and patrolled by soldiers, militia, or local champions.
 
@@ -94,12 +26,11 @@ grand_parent: WIP
 - The people of **The Fields** are generally tougher folks than those of **The Cobbles**, and are equally as diverse. What they lack in education they make up for in practical skills, and their connection to the land and its natural history.
 - Alliances between the various factions of **The Fields** are not uncommon, but rarely long-lasting. There are murmors of an alliance with the Sea, River, and Wood folk, but to speak openly about such things is considered foolish as well as dangerous.
 
-### The Wood
+### The Woods
 
-- Any untamed forested terrain. All forests are considered part of **The Wood**, no matter how isolated.
+- Any untamed forested terrain. All forests are considered part of **The Woods**, no matter how isolated.
 - The Woods are populated by creatures far stranger and wondrous than humankind: Fae, Demons, Witches, werewolves, and even talking plants and animals. They do not appreciate the loss of their home from the encroachment of **The Cobbles**, either. 
-- The denizens of **The Wood** are fiercely independent, believing they are subject solely to the rules of **The Wood** and no other.
-
+- The denizens of **The Woods** are fiercely independent, believing they are subject solely to the rules of **The Woods** and no other.
 
 ### The Marches
 
