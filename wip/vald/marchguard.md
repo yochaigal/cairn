@@ -37,9 +37,9 @@ grand_parent: WIP
 | 2    | **Tattered Map** | A fragile scroll marked with the locations of key landmarks and hidden paths along the border. |
 | 3    | **Pullstones**   | Two jet-black stones. When separated, the stones will always roll in the direction of the other.  |
 | 4    | **Fireflask**  | Highly alcoholic, but strangely delicious. When lit, creates a short-living wall of flames 10ft high. |
-| 5    | **Pain Band** | Ttouch an injured creature while wearing it to transfer their wounds to you. They do not regain lost STR, but you do not lose any either. **Recharge**: Someone must die while wearing the ring.  |
+| 5    | **Pain Band** | Touch an injured creature while wearing it to transfer their wounds to you. They do not regain lost STR, but you do not lose any either. **Recharge**: Someone must die while wearing the ring.  |
 | 6    | **Poacher's Woe** | Creatures struck by these arrows leave behind a strong scent you can follow. d8 damage, 5 uses.  |
 
 ## If you are the oldest character in the party, your whole group is in Debt to....
 
-**The Dawn Brigade**. Oathbreakers that do not return by the following dawn are shown mercy. The others must contend with **The Dawn Brigade**, an elite force of silent killers. One of their own was brutally killed while looking for you, and now the others want answers. 
+**The Dawn Brigade**. Oathbreakers that do not return by the following dawn are shown mercy. The others must contend with **The Dawn Brigade**, an elite force of silent killers. One of their own was brutally killed while looking for you, and now the others want answers.  
