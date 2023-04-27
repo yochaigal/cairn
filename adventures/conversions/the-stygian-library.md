@@ -157,6 +157,26 @@ Getting caught in the gears
 
 ## Monsters
 
+### Animated Book
+
+6 HP, 1 Armor, 8 STR, 8 DEX, 9 WIL 
+
+- It can fly.
+- It is immune to poison, cold, and effects that only affect living things.
+- Fire does *enhanced* damage.
+- **Critical Damage:** drains 1 point of WIL
+
+### Animate Spell
+
+3 HP, 6 STR, 6 DEX, 10 WIL *spell casting* 
+
+- The spell's personality and powers depend on the nature of the spell
+- Immune to physical damage of the same type as the spell.
+- Controls the effects of any spells cast which have the same type/function.
+- Magical weapons do *diminished* damage to animate spells, normal weapons do no damage.
+- No physical attacks, but can cast itself once per round. 
+- If reduced to 0 STR, 0 WIL, or takes **critical damage**, becomes a normal spell book.
+
 ### Monster 1
 
 Stats 
@@ -164,7 +184,16 @@ Stats
 - Notes
 - **Critical Damage:**
 
-### Mummified Stage
+### Monster 1
+
+Stats 
+
+- Notes
+- **Critical Damage:**
+
+### 
+
+### Mummified Sage
 
 Stats 
 
