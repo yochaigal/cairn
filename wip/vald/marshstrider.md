@@ -41,4 +41,3 @@ grand_parent: WIP
 
 ## If you are the oldest character in the party, your whole group is in Debt to....
 
-A wise hermit who lives deep in the Marches. They saved your life when you were on the brink of death and taught you how to survive in the harsh wilderness. In return, they occasionally request your help in maintaining the balance of the land and protecting its secrets from those who would exploit them.

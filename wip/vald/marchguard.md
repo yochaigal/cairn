@@ -42,4 +42,4 @@ grand_parent: WIP
 
 ## If you are the oldest character in the party, your whole group is in Debt to....
 
-A noble family who provided you with the resources and support needed to maintain the border defenses. They expect regular reports on any threats or unusual activities near the border, and they may call upon your group for assistance in times of need.
+**The Dawn Brigade**. Oathbreakers that do not return by the following dawn are shown mercy. The others must contend with **The Dawn Brigade**, an elite force of silent killers. One of their own was brutally killed while looking for you, and now the others want answers. 
