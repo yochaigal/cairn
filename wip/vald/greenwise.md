@@ -14,7 +14,6 @@ redirect_from: /wip/backgrounds/herbalist/
 
 ## Starting Gear
 
-- 3d6 gold pieces
 - Three days' rations
 - Long-burning torch (4 uses)
 - Bone knife (d6)

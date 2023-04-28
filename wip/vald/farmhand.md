@@ -8,27 +8,25 @@ grand_parent: WIP
 ---
 
 
+## Farmhand
 
-# Farmhand
+> You do not own the land, but you nurture it anyway. Without it, we are all doomed.
 
 ## Starting Gear
 
-- 3d6 gold pieces
 - Three days' rations
-- Torch
-- Sickle (d6)
-- A simple tool related to your farming specialty (hoe, shears, etc.)
-
-## How did you become a Farmhand?
+- Torch (3 uses)
+- Sickle (d6) or Sledgehammer (d10, bulky)
 
 |      |                                                              |
 | ---- | ------------------------------------------------------------ |
-| 1    | You were born into a family of farmers and learned the trade from your parents. You've honed your skills over the years and are proud of your ability to cultivate the land and provide for your community. |
-| 2    | You were an orphan taken in by a kind-hearted farmer. They taught you everything about farming and you grew to love the land, the animals, and the sense of purpose it gave you. |
-| 3    | You lost everything in a disaster and had to rebuild your life from scratch. You found work as a farmhand, and over time, developed a deep appreciation for the land and its bounty. |
-| 4    | You were once a city-dweller who grew tired of the urban life and sought solace in the countryside. You apprenticed with a skilled farmer, learning the ins and outs of working the land and became a valuable farmhand. |
-| 5    | You were a wandering traveler who found work on a farm in exchange for food and shelter. You discovered a natural talent for farming and decided to settle down, dedicating your life to tending the fields. |
-| 6    | You inherited a small plot of land and, through hard work and determination, turned it into a thriving farm. You've become a skilled farmhand, respected by your community for your dedication and perseverance. |
+| 1    | A devastating flood left you indebted, with no means to recover. Take a satchel of **farm repair tools** (bulky). |
+| 2    | You left a scholarship in **The Cobbles** for the rustic life, but quickly ran out of money. Take a surprisingly good **handwritten guide to farming**. |
+| 3    | You uncovered a **Gate** beneath the soil. Something unsettling came out of it, and those crops are dead, now. Take extra **rations**, and a sense of dread.  |
+| 4    | The farm was overwhelmed by invaders from **The Marches**, forcing you to flee. Take a **hunter's bow** (d6) you stole from someone who didn't need it anymore. |
+| 5    | Your impressive harvest won you the favor of a noble in **The Cobbles**, until a competitor sabotaged your reputation. Take a pouch of **rare seeds** (d20gp). |
+| 6    | A traveler who told you tales of adventure and excitement, then vanished under mysterious circumstances. Take a **regional map**; one spot is marked **G** with a skull and crossbones.  |
+
 
 ## What do you carry that might identify you?
 

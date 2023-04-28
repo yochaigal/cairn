@@ -9,26 +9,26 @@ grand_parent: WIP
 
 # Crop Guardian
 
-> Nurturing the fields, you protect bountiful harvests from pests and blight. Now, outside the farmland, new challenges await.
+> Nurturing **The Fields**, you protect the harvest from pests and blight. Now, outside the farmland, new challenges await.
 
 ## Starting Gear
 
-- 3d6 gold pieces
 - Three days' rations
-- Stout staff (d6)
-- Sickle (d4)
-- Pouch of **Pest-Repelling Seeds**
-
-## What drew you away from the farmland? Roll 1d6:
+- Torch (3 uses)
+- Slingshot (d6)
+- Woodcutter's axe (d8, bulky)
+- Repellent (wolf, deer, or insect)
+ 
+## What drew you away from the crops? Roll 1d6:
 
 |       |                                                              |
 | ----- | ------------------------------------------------------------ |
-| **1** | A devastating storm ruined your crops, and you seek a way to prevent such disasters. Take a **Raincatcher Jar** to collect rain for later use. |
-| **2** | You discovered a mysterious, potent fertilizer but need rare components to recreate it. Take a sample of the potent fertilizer in a small jar. |
-| **3** | A powerful landowner took your fields; you search for a way to reclaim them. Take a deed to your lost land, filled with sentimental value. |
-| **4** | Driven by wanderlust, you left to explore new lands and their agricultural secrets. Take a leather-bound journal to record your discoveries. |
-| **5** | A fellow guardian was slain, and you must bring their story to their distant kin. Take a hand-carved figurine, a memento of the fallen guardian. |
-| **6** | A voracious pest species threatens the land; you seek a way to eradicate them. Take a vial of poison, carefully crafted to target the pests. |
+| **1** | A voracious pest threatened the land, and you were unable to eradicate them. Take a vial of sprayable poison (4 STR damage, _blast_). |
+| **2** | You created a potent fertilizer but need rare and expensive components to craft it. Take **explosive putty**.   |
+| **3** | A fellow guardian was slain, and you must tell their kin who live in **The Cobbles**. Take a **bone knife** (d8), a memento of the fallen guardian. |
+| **4** |  |
+| **5** |  |
+| **6** |  |
 
 ## What keepsake do you carry? Roll 1d6:
 

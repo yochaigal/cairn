@@ -13,7 +13,6 @@ grand_parent: WIP
 
 ## Starting Gear
 
-- 3d6 gold pieces
 - Three days' rations
 - Lantern & oil (bulky, 6 uses)
 - Wooden staff (d6)
