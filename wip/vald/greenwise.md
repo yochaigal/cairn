@@ -41,6 +41,6 @@ redirect_from: /wip/backgrounds/herbalist/
 | **5** | **Seed Bomb**    | Three dirt clods in canvas sacks that explode on impact, scattering seeds. d6 damage (_blast_).                |
 | **6** | **Briarvine**    | Entangles any creature smaller than an elephant. One use.                                                      |
 
-## If you are the oldest character in the party, your whole group is in Debt to....
+## If you are the oldest character in the party, you are in in Debt to....
 
 **The Wooded Dead**, a group of benign Forest Liches. After trespassing on a sacred grove, they demand you plant a grove of rare (and expensive) **Corpsewood** trees, whose saplings grow wherever the dead rest in great numbers. Until your debt is paid, travelling through **The Woods** is slower, and forest critters shy away from you.  
