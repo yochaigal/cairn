@@ -786,18 +786,18 @@ quill
 skull
 animal scent
 bow
-20 arrows
+arrows
 stationary
 bell
 holy water
-10 stakes
+stakes
 prayer book
-10 iron spikes
+iron spikes
 pan
 confetti
 puppet
 cage
-10 rat traps
+rat traps
 air bladder
 beeswax
 signal flags
@@ -962,3 +962,15 @@ Wildvine Rope: Strong and flexible, this rope can attach to surfaces with ease.
 **Falconstone**, 3 Charges
   - See through the eyes of the nearest bird of prey and send it basic commands.
   - **Recharge**: Kill and eat a common quarry, cooking the meat along with the stone.
+
+
+**Seed Sling** - A sling that launches seeds, which rapidly grow into thorny vines upon impact, ensnaring enemies. d6 damage.
+**Thorned Whip** - A whip embedded with sharp thorns that can disarm opponents and cause bleeding. d6 damage.
+**Scythe** - A traditional farming tool used for harvesting crops, repurposed as a deadly weapon. d8 damage.
+**Entangling Net** - A net imbued with plant essence that entwines and immobilizes enemies on impact.
+**Blade of Bountiful Growth** - A sword adorned with intricate plant patterns that grants a temporary boost to your allies' health on a successful strike. d6 damage.
+**Sapling Staff** - A staff with a living sapling at its tip, which can sprout thorny branches to strike enemies from a distance. d6 damage.
+**Fungus Bomb** - A small clay jar filled with explosive spores that release a cloud of toxic gas on impact. d6 damage (*blast*).
+**Vial of Swarm Attractant** - A pungent liquid that attracts a swarm of insects to harass and distract enemies.
+**Living Grappling Hook** - A grappling hook made from a tough, animated vine that can respond to your commands, reaching difficult places and binding enemies.
+**Irrigation Canister** - A canister that can store and release water in a controlled manner, allowing you to manipulate the terrain and create slippery or muddy surfaces.
