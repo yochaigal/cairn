@@ -18,27 +18,27 @@ grand_parent: WIP
 - Torch (3 uses)
 - Sickle (d6) or Sledgehammer (d10, bulky)
 
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-| 1    | A devastating flood left you indebted, with no means to recover. Take a satchel of **farm repair tools** (bulky). |
-| 2    | You left a scholarship in **The Cobbles** for the rustic life, but quickly ran out of money. Take a surprisingly good **handwritten guide to farming**. |
-| 3    | You uncovered a **Gate** beneath the soil. Something unsettling came out of it, and those crops are dead, now. Take extra **rations**, and a sense of dread.  |
-| 4    | The farm was overwhelmed by invaders from **The Marches**, forcing you to flee. Take a **hunter's bow** (d6) you stole from someone who didn't need it anymore. |
-| 5    | Your impressive harvest won you the favor of a noble in **The Cobbles**, until a competitor sabotaged your reputation. Take a pouch of **rare seeds** (d20gp). |
-| 6    | A traveler who told you tales of adventure and excitement, then vanished under mysterious circumstances. Take a **regional map**; one spot is marked **G** with a skull and crossbones.  |
+|     |                                                                                                                                                                                         |
+| --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | A devastating flood left you indebted, with no means to recover. Take a satchel of **farm repair tools** (bulky).                                                                       |
+| 2   | You left a scholarship in **The Cobbles** for the rustic life, but quickly ran out of money. Take a surprisingly good **handwritten guide to farming**.                                 |
+| 3   | You uncovered a **Gate** beneath the soil. Something unsettling came out of it, and those crops are dead, now. Take extra **rations**, and a sense of dread.                            |
+| 4   | The farm was overwhelmed by invaders from **The Marches**, forcing you to flee. Take a **hunter's bow** (d6) you stole from someone who didn't need it anymore.                         |
+| 5   | Your impressive harvest won you the favor of a noble in **The Cobbles**, until a competitor sabotaged your reputation. Take a scroll of _Plant Scourge_, and a wanted poster.           |
+| 6   | A traveler who told you tales of adventure and excitement, then vanished under mysterious circumstances. Take a **regional map**; one spot is marked **G** with a skull and crossbones. |
 
 
-## What do you carry that might identify you?
+## What do you carry that brings you luck?
 
-|      |                         |                                                              |
-| ---- | ----------------------- | ------------------------------------------------------------ |
-| 1    | **Weathered Hat**       | A well-worn hat that has seen many seasons in the fields. It's a symbol of your dedication to your work and your connection to the land. |
-| 2    | **Heirloom Tool**       | A simple farming tool passed down through generations. It may be old, but it has been well-cared for and serves as a reminder of your family's legacy. |
-| 3    | **Lucky Charm**         | A small trinket or charm that you believe brings good fortune and bountiful harvests. It's a symbol of your faith in the land and your connection to its cycles. |
-| 4    | **Handwritten Journal** | A journal filled with notes, sketches, and observations about the land, crops, and animals. It's a testament to your knowledge and dedication to farming. |
-| 5    | **Crops Emblem**        | A small emblem made from dried stalks of your favorite crop, woven into a unique pattern. It represents your connection to the land and the fruits of your labor. |
-| 6    | **Worn Leather Gloves** | A pair of well-worn leather gloves that have protected your hands through countless days of labor in the fields. They are a symbol of your hard work and dedication to the land. |
+|     |                        |                                                                                                |
+| --- | ---------------------- | ---------------------------------------------------------------------------------------------- |
+| 1   | **Cookbook**           | A family-style cookbook that always brings delights to those that eat of its recipes.          |
+| 2   | **Heirloom Tool**      | A simple farming tool passed down through generations.                                         |
+| 3   | **Iron Gourd**         | A small trinket that someone close to you believed brings good fortune and bountiful harvests. |
+| 4   | **Seed Pouch**         | A pouch of mixed seeds from the best harvest you've ever had. They are worth 20gp to a farmer. |
+| 5   | **Nightshade Pendant** | A silver amulet that protects the wearer by turning purple near anything toxic.                |
+| 6   | **Leather Gloves**     | A pair of well-worn gloves for ripping weeds, thorns, or worse from between the crops.         |
 
-## If you are the oldest character in the party, your whole group is in Debt to....
+## If you are the oldest character in the party, you are in Debt to....
 
-A wealthy landowner who provided you with seeds and equipment to start a new crop after a devastating drought. They expect a significant portion of the harvest in return, but the season has not been as fruitful as you had hoped.
+**Garik**, a powerful trader who supplied you with exotic seeds when your crops were wiped out by disease. In return, they have asked you to venture into **The Roots** to acquire a rare "moving" fungi called a **Strollshroom**.  
