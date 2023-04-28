@@ -10,6 +10,9 @@ grand_parent: WIP
 
 # Marchguard
 
+> Bound by blood Oath, they patrol the border to protect **The Cobbles** and **The Fields**.  Once sworn, there is no escape: **The Bloodhounds** will find you. 
+
+
 ## Starting Gear
 
 - 3d6 gold pieces
@@ -40,6 +43,6 @@ grand_parent: WIP
 | 5    | **Pain Band** | Touch an injured creature while wearing it to transfer their wounds to you. They do not regain lost STR, but you do not lose any either. **Recharge**: Someone must die while wearing the ring.  |
 | 6    | **Poacher's Woe** | Creatures struck by these arrows leave behind a strong scent you can follow. d8 damage, 5 uses.  |
 
-## If you are the oldest character in the party, your whole group is in Debt to....
+## If you are the oldest character in the party, you are all in Debt to....
 
-**The Dawn Brigade**. Oathbreakers that do not return by the following dawn are shown mercy. The others must contend with **The Dawn Brigade**, an elite force of silent killers. One of their own was brutally killed while looking for you, and now the others want answers.  
+**The Dawn Brigade**: They helped get you out, asking for only one thing in return: Cross the border. Deep in **The Marches** there is a glade of primrose and ash. In its center is a **Blood Flower**. You have three months to bring it to them before **The Bloodhounds** find you.
