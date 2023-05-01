@@ -75,7 +75,7 @@ grand_parent: WIP
 | **11**  | thickets      | pond           | range         | quad            |
 | **12**  | weald         | pool           | ridge         | quag            |
 | **13**  | wetlands      | tarn           | slope         | slough          |
-| **14**  | woods         | tillage        | trough        | steppe          |
+| **14**  | glade         | tillage        | trough        | steppe          |
 | **15**  | basin         | bayou          | butte         | dale            |
 | **16**  | expanse       | gorge          | mesa          | promontory      |
 | **17**  | fen           | plateau        | gulch         | savanna         |
@@ -218,16 +218,16 @@ grand_parent: WIP
 | **46**  | Winding       | Trail       |
 | **51**  | Fragrant      | Blossoms    |
 | **52**  | Trickling     | Brook       |
-| **53**  | Overgrown     | Pathway     |
+| **53**  | Luminous      | Pathway     |
 | **54**  | Shrouded      | Forest      |
 | **55**  | Hushed        | Woods       |
-| **56**  | Sun-speckled  | Clearing    |
+| **56**  | Beckoning     | Clearing    |
 | **61**  | Serene        | Grove       |
 | **62**  | Ancient       | Timber      |
 | **63**  | Sturdy        | Oak         |
 | **64**  | Majestic      | Pine        |
 | **65**  | Verdant       | Moss        |
-| **66**  | Mysterious    | Woodland    |
+| **66**  | Sacred        | Woodland    |
 
 
 ### The Marches Location Names
@@ -252,8 +252,8 @@ grand_parent: WIP
 | **33**  | Sunken        | Ruins       |
 | **34**  | Swirling      | Marsh       |
 | **35**  | Twisted       | Root        |
-| **36**  | Spooky        | Glade       |
-| **41**  | Gloomy        | Thicket     |
+| **36**  | Spooky        | Uplands     |
+| **41**  | Gloomy        | Expanse     |
 | **42**  | Whispering    | Reeds       |
 | **43**  | Withered      | Branch      |
 | **44**  | Desolate      | Hill        |
@@ -269,7 +269,7 @@ grand_parent: WIP
 | **62**  | Rotten        | Stump       |
 | **63**  | Slumbering    | Willow      |
 | **64**  | Flickering    | Shadows     |
-| **65**  | Lurking       | Creature    |
+| **65**  | Lurking       | Stem        |
 | **66**  | Sinking       | Peat        |
 
 ### The Roots Location Names
@@ -321,7 +321,7 @@ grand_parent: WIP
 - If they hail from **The Cobbles**, use their background or profession, e.g. "Paela Miller."
 - If they hail from **The Fields**, use the first name of their parent (roll another name), e.g. "Leni Lio." 
 - If they hail from **The Woods**, use the name of their hometown, e.g. "Faroelel of Sundew Glade."
-- If they hail from **The Marches**, use dashes between names and a title, e.g. "Jar-a-Sif the Mighty." 
+- If they hail from **The Marches**, use dashes between the second and third syllables, as well as a title, e.g. "Jar-a-Sif the Mighty." 
 - If they hail from **The Roots**, create three names and combine them, e.g. "Lylethor Sorin Tal." 
 
 
