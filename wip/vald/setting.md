@@ -49,46 +49,45 @@ grand_parent: WIP
 
 ### The Cobbles Location Names
 
-|         |               |              |
-| ------- | ------------- | ------------ |
-| **d66** | **Adjective** | **Noun**     |
-| **11**  | Cobblestone   | Street       |
-| **12**  | Bustling      | Market       |
-| **13**  | Winding       | Alley        |
-| **14**  | Shadowy       | Corner       |
-| **15**  | Historic      | Monument     |
-| **16**  | Serene        | Plaza        |
-| **21**  | Lantern-lit   | Walkway      |
-| **22**  | Charming      | Pub          |
-| **23**  | Intricate     | Mosaic       |
-| **24**  | Hidden        | Courtyard    |
-| **25**  | Elegant       | Arch         |
-| **26**  | Towering      | Clocktower   |
-| **31**  | Quaint        | Cottage      |
-| **32**  | Colorful      | Facade       |
-| **33**  | Grand         | Cathedral    |
-| **34**  | Weathered     | Stone        |
-| **35**  | Tumbling      | Fountain     |
-| **36**  | Hushed        | Library      |
-| **41**  | Vibrant       | Bazaar       |
-| **42**  | Sun-drenched  | Terrace      |
-| **43**  | Ornate        | Balcony      |
-| **44**  | Glowing       | Window       |
-| **45**  | Cozy          | Bookstore    |
-| **46**  | Echoing       | Tunnel       |
-| **51**  | Crumbling     | Wall         |
-| **52**  | Secluded      | Garden       |
-| **53**  | Glistening    | Cobblestones |
-| **54**  | Ancient       | Gate         |
-| **55**  | Ivy-covered   | Bridge       |
-| **56**  | Aged          | Statue       |
-| **61**  | Enchanting    | Shopfront    |
-| **62**  | Inviting      | Inn          |
-| **63**  | Sturdy        | Workshop     |
-| **64**  | Bustling      | Square       |
-| **65**  | Fragrant      | Florist      |
-| **66**  | Mysterious    | Passage      |
-
+|         |               |             |
+| ------- | ------------- | ----------- |
+| **d66** | **Adjective** | **Noun**    |
+| **11**  | Soaring       | Spire       |
+| **12**  | Elegant       | Tower       |
+| **13**  | Whispering    | Gardens     |
+| **14**  | Enchanted     | Observatory |
+| **15**  | Gilded        | Palace      |
+| **16**  | Luminous      | Coliseum    |
+| **21**  | Crystal       | Atrium      |
+| **22**  | Tumbling      | Colonnade   |
+| **23**  | Spiraling     | Staircase   |
+| **24**  | Hidden        | Grotto      |
+| **25**  | Stately       | Mansion     |
+| **26**  | Splendid      | Castle      |
+| **31**  | Verdant       | Park        |
+| **32**  | Tranquil      | Terrace     |
+| **33**  | Magnificent   | Pavilion    |
+| **34**  | Illuminated   | Arch        |
+| **35**  | Quaint        | Stone       |
+| **36**  | Tranquil      | Grove       |
+| **41**  | Opulent       | Gallery     |
+| **42**  | Towering      | Courtyard   |
+| **43**  | Serene        | Citadel     |
+| **44**  | Vibrant       | Canopy      |
+| **45**  | Bustling      | Port        |
+| **46**  | Serpentine    | Canal       |
+| **51**  | Grand         | Cathedral   |
+| **52**  | Peaceful      | Sanctuary   |
+| **53**  | Gleaming      | Belfry      |
+| **54**  | Ancient       | Ruins       |
+| **55**  | Blossoming    | Orchard     |
+| **56**  | Timeless      | Mausoleum   |
+| **61**  | Enigmatic     | Vault       |
+| **62**  | Storied       | Fountain    |
+| **63**  | Atmospheric   | Plaza       |
+| **64**  | Fragrant      | Obelisk     |
+| **65**  | Shadowed      | Monument    |
+| 66      | Cobblestone   | Bazaar      |
 
 ### The Fields Location Names
 
@@ -260,8 +259,7 @@ grand_parent: WIP
 | **65**  | Lurking       | Creature    |
 | **66**  | Sinking       | Peat        |
 
-## Terrain Types By Domain
-
+### Terrain Types By Domain
 
 |         |               |                |               |                 |
 | ------- | ------------- | -------------- | ------------- | --------------- |
@@ -288,7 +286,7 @@ grand_parent: WIP
 | **20**  | jungle        | steppe         | mesa          | taiga           |
 
 
-
+### Terrain Types
 
 |                |              |                |                 |               |                |               |                    |
 | -------------- | ------------ | -------------- | --------------- | ------------- | -------------- | ------------- | u----------------- |
