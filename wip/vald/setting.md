@@ -49,6 +49,10 @@ grand_parent: WIP
 
 ### The Cobbles Location Names
 
+Here's the table with the leftmost column bolded:
+
+Sure, here's the table with the leftmost column in bold:
+
 |         |               |             |
 | ------- | ------------- | ----------- |
 | **d66** | **Adjective** | **Noun**    |
@@ -58,36 +62,54 @@ grand_parent: WIP
 | **14**  | Enchanted     | Observatory |
 | **15**  | Gilded        | Palace      |
 | **16**  | Luminous      | Coliseum    |
+| **17**  | Misty         | Citadel     |
+| **18**  | Winding       | Fort        |
+| **19**  | Rustic        | Keep        |
+| **20**  | Arcane        | Hall        |
 | **21**  | Crystal       | Atrium      |
 | **22**  | Tumbling      | Colonnade   |
 | **23**  | Spiraling     | Staircase   |
 | **24**  | Hidden        | Grotto      |
 | **25**  | Stately       | Mansion     |
 | **26**  | Splendid      | Castle      |
+| **27**  | Emerald       | Palace      |
+| **28**  | Glittering    | Citadel     |
+| **29**  | Mystic        | Abbey       |
+| **30**  | Celestial     | Temple      |
 | **31**  | Verdant       | Park        |
 | **32**  | Tranquil      | Terrace     |
 | **33**  | Magnificent   | Pavilion    |
 | **34**  | Illuminated   | Arch        |
 | **35**  | Quaint        | Stone       |
 | **36**  | Tranquil      | Grove       |
+| **37**  | Mythic        | Lighthouse  |
+| **38**  | Majestic      | Citadel     |
+| **39**  | Wild          | Arena       |
+| **40**  | Ancient       | Colosseum   |
 | **41**  | Opulent       | Gallery     |
 | **42**  | Towering      | Courtyard   |
 | **43**  | Serene        | Citadel     |
 | **44**  | Vibrant       | Canopy      |
 | **45**  | Bustling      | Port        |
 | **46**  | Serpentine    | Canal       |
+| **47**  | Verdant       | Meadow      |
+| **48**  | Whistling     | Glen        |
+| **49**  | Shimmering    | Lake        |
+| **50**  | Mountainous   | Village     |
 | **51**  | Grand         | Cathedral   |
 | **52**  | Peaceful      | Sanctuary   |
 | **53**  | Gleaming      | Belfry      |
-| **54**  | Ancient       | Ruins       |
+| **54**  | Whispering    | Falls       |
 | **55**  | Blossoming    | Orchard     |
 | **56**  | Timeless      | Mausoleum   |
+| **57**  | Rustling      | Fields      |
+| **58**  | Windy         | Bluff       |
+| **59**  | Coastal       | Hamlet      |
+| **60**  | Enchanted     | Abbey       |
 | **61**  | Enigmatic     | Vault       |
 | **62**  | Storied       | Fountain    |
 | **63**  | Atmospheric   | Plaza       |
 | **64**  | Fragrant      | Obelisk     |
-| **65**  | Shadowed      | Monument    |
-| 66      | Cobblestone   | Bazaar      |
 
 ### The Fields Location Names
 
