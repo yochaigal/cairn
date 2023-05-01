@@ -45,13 +45,46 @@ grand_parent: WIP
 - Folktales recount that traveling through **The Roots** bends the natural order of things. Stories tell of adventurers lost for centuries to the depths, only to emerge again claiming that only a few hours have passed. Others have claimed to make a week-long journey above ground in just one day, traveling in the tunnels beneath.
 
 
-## Tables
+## Creating Location Names
+
+- Roll on the [Terrain Types By Domain](#terrain-types-by-domain) table for the appropriate **Domain**.
+- Roll a d66 on each table twice, first for the adjective and then for the noun. 
+- Combine the results with the terrain type to create a location name. You do not need to include the terrain in the name, but you can.  
+
+### Tips & Changes
+- Be specific! "Golden Barley" vs "Golden Fields" creates a more vivid image.
+- Use contrasting words (e.g. "Thorny Meadows") to evoke an interesting detail about the location.
+- Make it sound nice. Alliteration and pleasing combinations can create pleasant sounds. "Babbling Brook" is more pleasing than "Rambling Brook." 
+
+
+### Terrain Types By Domain
+
+|         |               |                |               |                 |
+| ------- | ------------- | -------------- | ------------- | --------------- |
+| **d20** | **The Woods** | **The Fields** | **The Roots** | **The Marches** |
+| **1**   | bush          | acreage        | cavity        | bogs            |
+| **2**   | boscage       | farmlands      | caves         | fens            |
+| **3**   | chaparral     | grange         | crater        | ley             |
+| **4**   | copse         | hills          | dip           | marsh           |
+| **5**   | coppice       | hillock        | dugout        | mire            |
+| **6**   | covert        | holding        | grottoes      | moors           |
+| **7**   | fells         | lakes          | holes         | morass          |
+| **8**   | forest        | hills          | hollows       | mountains       |
+| **9**   | grove         | hummock        | knoll         | pinnacle        |
+| **10**  | jungle        | mound          | pit           | prairie         |
+| **11**  | thickets      | pond           | range         | quad            |
+| **12**  | weald         | pool           | ridge         | quag            |
+| **13**  | wetlands      | tarn           | slope         | slough          |
+| **14**  | woods         | tillage        | trough        | steppe          |
+| **15**  | basin         | bayou          | butte         | dale            |
+| **16**  | expanse       | gorge          | mesa          | promontory      |
+| **17**  | fen           | plateau        | gulch         | savanna         |
+| **18**  | heath         | prairie        | jungle        | oasis           |
+| **19**  | highlands     | savannah       | knolls        | scrubland       |
+| **20**  | jungle        | steppe         | mesa          | taiga           |
+
 
 ### The Cobbles Location Names
-
-Here's the table with the leftmost column bolded:
-
-Sure, here's the table with the leftmost column in bold:
 
 |         |               |             |
 | ------- | ------------- | ----------- |
@@ -122,7 +155,7 @@ Sure, here's the table with the leftmost column in bold:
 | **14**  | Fragrant      | Blossoms   |
 | **15**  | Thorny        | Brambles   |
 | **16**  | Babbling      | Brook      |
-| **21**  | Sun-dappled   | Clearing   |
+| **21**  | Dappled       | Clearing   |
 | **22**  | Rushing       | Creek      |
 | **23**  | Abundant      | Crop       |
 | **24**  | Crossed       | Crossroads |
@@ -280,32 +313,6 @@ Sure, here's the table with the leftmost column in bold:
 | **64**  | Flickering    | Shadows     |
 | **65**  | Lurking       | Creature    |
 | **66**  | Sinking       | Peat        |
-
-### Terrain Types By Domain
-
-|         |               |                |               |                 |
-| ------- | ------------- | -------------- | ------------- | --------------- |
-| **d20** | **The Woods** | **The Fields** | **The Roots** | **The Marches** |
-| **1**   | bush          | acreage        | cavity        | bogs            |
-| **2**   | boscage       | farmlands      | caves         | fens            |
-| **3**   | chaparral     | grange         | crater        | ley             |
-| **4**   | copse         | hills          | dip           | marsh           |
-| **5**   | coppice       | hillock        | dugout        | mire            |
-| **6**   | covert        | holding        | grottoes      | moors           |
-| **7**   | fells         | lakes          | holes         | morass          |
-| **8**   | forest        | hills          | hollows       | mountains       |
-| **9**   | grove         | hummock        | knoll         | pinnacle        |
-| **10**  | jungle        | mound          | pit           | prairie         |
-| **11**  | thickets      | pond           | range         | quad            |
-| **12**  | weald         | pool           | ridge         | quag            |
-| **13**  | wetlands      | tarn           | slope         | slough          |
-| **14**  | woods         | tillage        | trough        | steppe          |
-| **15**  | basin         | bayou          | butte         | dale            |
-| **16**  | expanse       | gorge          | mesa          | promontory      |
-| **17**  | fen           | plateau        | gulch         | savanna         |
-| **18**  | heath         | prairie        | jungle        | oasis           |
-| **19**  | highlands     | savannah       | knolls        | scrubland       |
-| **20**  | jungle        | steppe         | mesa          | taiga           |
 
 
 ### Terrain Types
