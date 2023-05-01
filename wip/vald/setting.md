@@ -315,42 +315,177 @@ grand_parent: WIP
 | **66**  | Sinking       | Peat        |
 
 
-### Terrain Types
+## On Naming 
 
-|                |              |                |                 |               |                |               |                    |
-| -------------- | ------------ | -------------- | --------------- | ------------- | -------------- | ------------- | u----------------- |
-| **The Shores** | **The Bogs** | **The Cliffs** | **The Caverns** | **The Dunes** | **The Fields** | **The Woods** | **The Grasslands** |
-| beaches        | bogs         | cliffs         | caverns         | desert        | farmlands      | forest        | grasslands         |
-| seaside        | marsh        | precipice      | grottoes        | dunes         | tillage        | bush          | pasture            |
-| shore          | sump         | face           | cavity          | sands         | holding        | woods         | steppe             |
-| coast          | mire         | crag           | tunnels         | vasts         | acreage        | woodland      | prairie            |
-| seaboard       | quad         | bluff          | dugout          | wastes        | steading       | weald         | savanna            |
-| foreshore      | morass       | ridge          | caves           | blight        | grange         | grove         | fields             |
-| marina         | slough       | escarpment     |                 | erg           | plantation     | copse         | greenery           |
-|                | fens         | steep          |                 |               |                |               |                    |
-
-|               |                 |                |               |                   |               |                |                 |
-| ------------- | --------------- | -------------- | ------------- | ----------------- | ------------- | -------------- | --------------- |
-| **The Hills** | **The Hollows** | **The Jungle** | **The Lakes** | **The Mountains** | **The Oasis** | **The Plains** | **The Plateau** |
-| hills         | hollows         | _See forest_   | lakes         | mountains         | oasis         | plains         | plateau         |
-| hillock       | dip             |                | pond          | peaks             | spring        | heath          | uplands         |
-| mound         | hole            |                | pool          | ridge             | well          | meadow         | mesa            |
-| mount         | pit             |                | tarn          | range             | fountain      | veldt          | highlands       |
-| knoll         | cavity          |                | lagoon        | summit            | haven         | flats          | downs           |
-| hummock       | crater          |                | loch          | pinnacle          | watering hole | lowlands       | reach           |
-| slope         | trough          |                | bayou         | butte             | refuge        | sward          |                 |
-|               | holes           |                |               |                   |               |                |                 |
-
-|                |                  |                |                 |                    |     |
-| -------------- | ---------------- | -------------- | --------------- | ------------------ | --- |
-| **The Swamps** | **The Thickets** | **The Tundra** | **The Valleys** | **The Wastelands** |     |
-| swamp          | thickets         | tundra         | valley          | _See desert_       |     |
-| mire           | chaparral        | expanse        | dale            |                    |     |
-| morass         | boscage          | prairie        | vale            |                    |     |
-| quag           | covert           | steppe         | basin           |                    |     |
-| moors          | coppice          | boreal         | gully           |                    |     |
-| sump           | fells            | ley            | gorge           |                    |     |
-| wetlands       |                  |                | gap             |                    |     |
-|                |                  |                |                 |                    |     |
+- For the first name, roll on each table respectively, then combine. Then use the format:
+- If they hail from **The Cobbles**, use their background or profession, e.g. "Paela Miller."
+- If they hail from **The Fields**, use the first name of their parent (roll another name), e.g. "Leni Lio." 
+- If they hail from **The Woods**, use the name of their hometown, e.g. "Faroelel of Sundew Glade."
+- If they hail from **The Marches**, use dashes between names and a title, e.g. "Jar-a-Sif the Mighty." 
+- If they hail from **The Roots**, create three names and combine them, e.g. "Lylethor Sorin Tal." 
 
 
+|         |                    |
+| ------- | ------------------ |
+| **d66** | **First Syllable** |
+| **1**   | Al                 |
+| **2**   | Bal                |
+| **3**   | Bel                |
+| **4**   | Br                 |
+| **5**   | Car                |
+| **6**   | Cor                |
+| **7**   | Del                |
+| **8**   | Dor                |
+| **9**   | Ed                 |
+| **10**  | Er                 |
+| **11**  | Far                |
+| **12**  | Fi                 |
+| **13**  | Fr                 |
+| **14**  | Gar                |
+| **15**  | Gil                |
+| **16**  | Hal                |
+| **17**  | Har                |
+| **18**  | Ian                |
+| **19**  | Iz                 |
+| **20**  | Jar                |
+| **21**  | Jor                |
+| **22**  | Kal                |
+| **23**  | Kat                |
+| **24**  | Kev                |
+| **25**  | Ker                |
+| **26**  | La                 |
+| **27**  | Lar                |
+| **28**  | Len                |
+| **29**  | Li                 |
+| **30**  | Lw                 |
+| **31**  | Ma                 |
+| **32**  | Mar                |
+| **33**  | Mi                 |
+| **34**  | Na                 |
+| **35**  | Ne                 |
+| **36**  | Ni                 |
+| **37**  | Nol                |
+| **38**  | Ol                 |
+| **39**  | Ow                 |
+| **40**  | Pal                |
+| **41**  | Pen                |
+| **42**  | Pir                |
+| **43**  | Por                |
+| **44**  | Ran                |
+| **45**  | Ral                |
+| **46**  | Ri                 |
+| **47**  | Ro                 |
+| **48**  | Ros                |
+| **49**  | Sa                 |
+| **50**  | San                |
+| **51**  | Se                 |
+| **52**  | Sig                |
+| **53**  | Sio                |
+| **54**  | Sko                |
+| **55**  | Sl                 |
+| **56**  | Sol                |
+| **57**  | Son                |
+| **58**  | Syl                |
+| **59**  | Syr                |
+| **60**  | Tar                |
+| **61**  | Ted                |
+| **62**  | Th                 |
+| **63**  | Tor                |
+| **64**  | Tu                 |
+| **65**  | Ty                 |
+| **66**  | Un                 |
+
+
+|         |                     |
+| ------- | ------------------- |
+| **d20** | **Second Syllable** |
+| **1**   | a                   |
+| **2**   | ae                  |
+| **3**   | ai                  |
+| **4**   | au                  |
+| **5**   | e                   |
+| **6**   | ea                  |
+| **7**   | ee                  |
+| **8**   | ei                  |
+| **9**   | eu                  |
+| **10**  | i                   |
+| **11**  | ia                  |
+| **12**  | ie                  |
+| **13**  | io                  |
+| **14**  | o                   |
+| **15**  | oe                  |
+| **16**  | oi                  |
+| **17**  | ou                  |
+| **18**  | u                   |
+| **19**  | ua                  |
+| **20**  | ue                  |
+
+|         |                    |
+| ------- | ------------------ |
+| **d66** | **Third Syllable** |
+| **1**   | Ar                 |
+| **2**   | Bar                |
+| **3**   | Bor                |
+| **4**   | Cal                |
+| **5**   | Cer                |
+| **6**   | Dar                |
+| **7**   | Der                |
+| **8**   | Dr                 |
+| **9**   | El                 |
+| **10**  | Ez                 |
+| **11**  | Fel                |
+| **12**  | Flor               |
+| **13**  | Gal                |
+| **14**  | Ger                |
+| **15**  | Gor                |
+| **16**  | Han                |
+| **17**  | Hir                |
+| **18**  | Il                 |
+| **19**  | Ja                 |
+| **20**  | Jez                |
+| **21**  | Jul                |
+| **22**  | Kar                |
+| **23**  | Kel                |
+| **24**  | Ken                |
+| **25**  | Kyl                |
+| **26**  | Lan                |
+| **27**  | Le                 |
+| **28**  | Ler                |
+| **29**  | Ul                 |
+| **30**  | Ly                 |
+| **31**  | Mal                |
+| **32**  | Mer                |
+| **33**  | Mor                |
+| **34**  | Nar                |
+| **35**  | Nel                |
+| **36**  | Nia                |
+| **37**  | Nor                |
+| **38**  | Or                 |
+| **39**  | Pa                 |
+| **40**  | Par                |
+| **41**  | Per                |
+| **42**  | Pol                |
+| **43**  | Pow                |
+| **44**  | Ra                 |
+| **45**  | Rhi                |
+| **46**  | Riog               |
+| **47**  | Ron                |
+| **48**  | Ru                 |
+| **49**  | Sal                |
+| **50**  | Sar                |
+| **51**  | Sel                |
+| **52**  | Sif                |
+| **53**  | Sir                |
+| **54**  | Ska                |
+| **55**  | Skye               |
+| **56**  | Som                |
+| **57**  | Sor                |
+| **58**  | Stel               |
+| **59**  | Stev               |
+| **60**  | Tan                |
+| **61**  | Tat                |
+| **62**  | Ter                |
+| **63**  | Ti                 |
+| **64**  | Ton                |
+| **65**  | Tre                |
+| **66**  | Ur                 |
