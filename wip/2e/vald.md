@@ -31,7 +31,7 @@ The implied setting of Cairn is called **Vald**. It is comprised of the followin
 
 ## The Roots
 
-- Remnants of the **Old World**, its labyrinthine hollows stretching for immeasurable distances deep underground, connecting the sewers of **The Cobbles** to the far-flung ruins of **The Marches**. Entrances to **The Roots** (called **Gates**) are scattered across the lands, and are usually protected or shrewdly hidden.
+- Remnants of the **Old World**, its labyrinthine hollows stretching for immeasurable distances deep underground, connecting the sewers of the cities to the far-flung ruins. Entrances to **The Roots** (called **Gates**) are scattered across the lands, and are usually protected or shrewdly hidden.
 - Only the brave or foolish have dared enter **The Roots**, in search of forgotten **Relics** or powerful **Spellbooks**. The few that return whisper of unspeakable terrors guarding these lost treasures.
 - Folktales recount that traveling through **The Roots** bends the natural order of things. Stories tell of adventurers lost for centuries to the depths, only to emerge again claiming that only a few hours have passed. Others have claimed to make a week-long journey above ground in just one day, traveling in the tunnels beneath.
 
