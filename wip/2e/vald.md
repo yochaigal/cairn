@@ -1,5 +1,5 @@
 ---
-title: Vald Setting
+title: Vald
 layout: default
 nav_exclude: true
 search_exclude: true
@@ -10,11 +10,11 @@ grand_parent: WIP
 # Vald
 
 ## Introduction
-The implied setting of Cairn is called **Vald**. It is comprised of the following **Domains**: **The Cobbles**, ***The Woods** and **The Roots**. **Domains** are not necessarily bound to a specific geography: **The Woods** is not one forest, but _all_ forests, for example. 
+The implied setting of Cairn is called **Vald**. It is comprised of the following **Domains**: **The Cobbles**, **The Woods** and **The Roots**. **Domains** are not necessarily bound to a specific geography: **The Woods** is not one forest, but _all_ forests, for example. 
 
 ### Domains
 - **The Cobbles** include all developed or settled lands, fed by farms and native water sources. The particular ruler does not matter. 
-- **The Wood** surrounds and divides **The Cobbles**, and includes anyone - or anything - that has not sworn fealty to **The Cobbles**.
+- **The Wood** surrounds and divides **The Cobbles**, and includes anyone (or anything) that has not sworn fealty to **The Cobbles**.
 - **The Roots** is the realm of mystery and horror underneath, and does not care for the petty divisions overground.   
 
 ### The Cobbles
@@ -40,40 +40,12 @@ The implied setting of Cairn is called **Vald**. It is comprised of the followin
 
 - Roll on the [Terrain Types By Domain](#terrain-types-by-domain) table for the appropriate **Domain**.
 - Roll a d66 on each table twice, first for the adjective and then for the noun. 
-- Combine the results with the terrain type to create a location name. You do not need to include the terrain in the name, but you can.  
+- Combine the results to create a name! You can also mix in a randomly rolled [Name](#on-naming) with the results. 
 
 ### Tips & Changes
 - Be specific! "Golden Barley" vs "Golden Fields" creates a more vivid image.
 - Use contrasting words (e.g. "Thorny Meadows") to evoke an interesting detail about the location.
 - Make it sound nice. Alliteration and pleasing combinations can create pleasant sounds. "Babbling Brook" is more pleasing than "Rambling Brook." 
-
-
-### Terrain Types By Domain
-
-|         |               |                |               |                 |
-| ------- | ------------- | -------------- | ------------- | --------------- |
-| **d20** | **The Woods** | **The Fields** | **The Roots** | **The Marches** |
-| **1**   | bush          | acreage        | cavity        | bogs            |
-| **2**   | boscage       | farmlands      | caves         | fens            |
-| **3**   | chaparral     | grange         | crater        | ley             |
-| **4**   | copse         | hills          | dip           | marsh           |
-| **5**   | coppice       | hillock        | dugout        | mire            |
-| **6**   | covert        | holding        | grottoes      | moors           |
-| **7**   | fells         | lakes          | holes         | morass          |
-| **8**   | forest        | hills          | hollows       | mountains       |
-| **9**   | grove         | hummock        | knoll         | pinnacle        |
-| **10**  | jungle        | mound          | pit           | prairie         |
-| **11**  | thickets      | pond           | range         | quad            |
-| **12**  | weald         | pool           | ridge         | quag            |
-| **13**  | wetlands      | tarn           | slope         | slough          |
-| **14**  | glade         | tillage        | trough        | steppe          |
-| **15**  | basin         | bayou          | butte         | dale            |
-| **16**  | expanse       | gorge          | mesa          | promontory      |
-| **17**  | fen           | plateau        | gulch         | savanna         |
-| **18**  | heath         | prairie        | jungle        | oasis           |
-| **19**  | highlands     | savannah       | knolls        | scrubland       |
-| **20**  | jungle        | steppe         | mesa          | taiga           |
-
 
 ### The Cobbles Location Names
 
