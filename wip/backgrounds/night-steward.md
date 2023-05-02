@@ -3,7 +3,7 @@ title: Night Steward
 layout: default
 nav_exclude: true
 search_exclude: true
-parent: Vald
+parent: Backgrounds
 grand_parent: WIP
 ---
 

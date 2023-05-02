@@ -1,13 +1,13 @@
 ---
-title: Setting
+title: Setting Draft One
 layout: default
 nav_exclude: true
 search_exclude: true
-parent: Vald
+parent: misc
 grand_parent: WIP
 ---
 
-# Setting
+# Setting Draft One
 
 ## Introduction
 - The implied setting of Cairn is comprised of the following **Domains**: **The Cobbles**, **The Fields**, **The Woods**, **The Marches**, and **The Roots**.
