@@ -17,7 +17,7 @@ The implied setting of Cairn is called **Vald**. It is comprised of the followin
 - **The Wood** surrounds and divides **The Cobbles**, and includes anyone (or anything) that has not sworn fealty to **The Cobbles**.
 - **The Roots** is the realm of mystery and horror underneath, and does not care for the petty divisions overground.   
 
-### The Cobbles
+## The Cobbles
 
 - An urban seat of power that uses its advanced technology, wealth, and might to bring the people of **The Woods** to heel whenever necessary.
 - As self-styled "centers of civilization", the people of **The Cobbles** are vast and sundry, reflecting the fulcrum of culture and education in the region.
@@ -43,7 +43,7 @@ The implied setting of Cairn is called **Vald**. It is comprised of the followin
 - Combine the results to create a name! You can also mix in a randomly rolled [Name](#on-naming) with the results. 
 
 ### Tips & Changes
-- Be specific! "Golden Barley" vs "Golden Fields" creates a more vivid image.
+- Be specific! "Golden Barley" creates a more vivid image than "Golden Fields."
 - Use contrasting words (e.g. "Thorny Meadows") to evoke an interesting detail about the location.
 - Make it sound nice. Alliteration and pleasing combinations can create pleasant sounds. "Babbling Brook" is more pleasing than "Rambling Brook." 
 
