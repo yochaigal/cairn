@@ -40,6 +40,28 @@ The goal is to encourage party cooperation, further questing, and character grow
 
 **The Vanished Stair**: A well-trod and "safe" **Gate** to **The Roots** has inexplicably vanished, swallowed by darkness. The progeny of a powerful noble has since disappeared, some say trapped below. His father has issued formal offers of land and title to those willing to brave the deeps.
 
+### More Omens
+
+**Omens for The Cobbles:**
+
+**The Crumbling Tower:** A once-proud and ancient tower begins to crumble, its stones falling like rain. Whispers among the citizens of The Cobbles suggest it's a sign of impending disaster, with the blame placed on an artifact stolen from The Roots.
+
+**The Dying Light:** The city's lanterns and torches flicker and dim, seemingly unable to hold a steady flame. Some believe it to be the work of vengeful spirits from The Woods, seeking to plunge The Cobbles into eternal darkness.
+
+**Omens for The Woods:**
+
+**The Blighted Glade:** A once-verdant glade in The Woods now withers and decays, its leaves turning black and twisted. Rumors suggest that a cursed relic from The Roots has been buried within the glade, tainting the land with its malevolence.
+
+**The Silent Song:** The birds and beasts of The Woods have fallen eerily silent, their songs and calls replaced by a pervasive stillness. Some claim that the silence is the work of a powerful entity from The Roots, seeking to assert its dominance over the natural world.
+
+**Omens for The Roots:**
+
+**The Shattered Gate:** A long-forgotten Gate to The Roots lies shattered and broken, its remnants covered in a thick layer of dust. Whispers among the denizens of The Cobbles suggest that an ancient force, long imprisoned within The Roots, has finally broken free.
+
+**The Unending Shadow:** A darkness creeps through The Roots, consuming all light in its path. The denizens of The Cobbles and The Woods whisper in hushed tones about the approaching shadow, fearing that it heralds the end of all things.
+
+
+
 ## Debts
 
 **The Wooded Dead**: A group of benign Forest Liches  demand you plant a grove of rare (and expensive) **Corpsewood** trees after you (accidentally) trespassed on their sacred grove. The saplings grow wherever the dead rest in great numbers. Until your debt is paid, travelling through **The Woods** is slower, and forest critters shy away from you.  
@@ -106,3 +128,4 @@ The goal is to encourage party cooperation, further questing, and character grow
 **The Blackened Soil**: The infested fields wither and die, their essence corrupted by a terrible darkness. The soil itself seems to cry out in anguish, and only by purging the blight can you restore life to the land.
 
 **The Shadowed Crop**: The once-lush fields lie in ruin, a monument to despair and loss. As you stand amidst the wreckage, you feel the weight of the omen upon your shoulders, driving you to seek redemption and prevent the pestilence from consuming all.
+
