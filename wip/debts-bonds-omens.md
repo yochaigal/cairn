@@ -18,6 +18,42 @@ The goal is to encourage party cooperation, further questing, and character grow
 - Fulfill an obligation
 - Get back their [stuff, reputation, whatever]
 
+## Bonds
+
+## Who or what binds you? Roll 1d6:
+
+
+
+|       |                                                              |
+| ----- | ------------------------------------------------------------ |
+| **1** | A **wise mentor** who taught you the ways of the Fae and the mortal world. They asked you to help bridge the gap between the two. Take a **handwritten journal** filled with their wisdom. |
+| **2** | A **troubled spirit** that haunts the edge of **The Woods**. You promised to help it find peace. Take a **fragment of a broken mirror** that reflects the spirit's face. |
+| **3** | A **childhood friend** from your village, who has always believed in you. You promised to return with proof of your innocence. Take a **friendship bracelet** woven from twine and wildflowers. |
+| **4** | A **mysterious Fae lord** who claims to know your true parents. You are bound by a pact to complete a task for them. Take a **sealed scroll** with the details of the task. |
+| **5** | A **guardian of the forest** who saved your life as a child. In return, you swore to protect **The Woods** from harm. Take an **acorn amulet** symbolizing your vow. |
+| **6** | A **mortal lover** who knows your true nature but loves you regardless. You promised to return to them after your journey. Take a **hand-drawn portrait** of them. |
+|       |                                                              |
+|       |                                                              |
+|       |                                                              |
+|       |                                                              |
+|       |                                                              |
+|       |                                                              |
+|       |                                                              |
+|       |                                                              |
+|       |                                                              |
+|       |                                                              |
+|       |                                                              |
+|       |                                                              |
+|       |                                                              |
+|       |                                                              |
+|       |                                                              |
+|       |                                                              |
+|       |                                                              |
+|       |                                                              |
+|       |                                                              |
+|       |                                                              |
+
+
 ## Omens
 
 ### Omens for The Cobbles:

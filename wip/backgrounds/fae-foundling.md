@@ -9,7 +9,7 @@ grand_parent: WIP
 
 **Fae Foundling**
 
-You were found in **The Woods** as an infant, swaddled in leaves and moonlight. A village in **The Cobbles** took you in, raising you as one of their own. Yet, whispers of your true nature followed you, and the touch of the Fae lingers in your soul.
+> You were found in **The Woods** as an infant, swaddled in leaves and moonlight. A village in **The Cobbles** took you in, raising you as one of their own. Yet, whispers of your true nature followed you, and the touch of the Fae lingers in your soul. Roll on the **Omens** table.
 
 ## Starting Gear
 
@@ -42,13 +42,3 @@ You were found in **The Woods** as an infant, swaddled in leaves and moonlight. 
 | **5** | **Dreamer's Stone**| A smooth, iridescent stone that helps you recall your dreams more clearly, potentially revealing hidden messages.|
 | **6** | **Fae Whistle**    | A small silver whistle that, when blown, has a chance of summoning a helpful Fae creature in your time of need.|
 
-## Who or what binds you? Roll 1d6:
-
-|       |                                                              |
-| ----- | ------------------------------------------------------------ |
-| **1** | A **wise mentor** who taught you the ways of the Fae and the mortal world. They asked you to help bridge the gap between the two. Take a **handwritten journal** filled with their wisdom.|
-| **2** | A **troubled spirit** that haunts the edge of **The Woods**. You promised to help it find peace. Take a **fragment of a broken mirror** that reflects the spirit's face.|
-| **3** | A **childhood friend** from your village, who has always believed in you. You promised to return with proof of your innocence. Take a **friendship bracelet** woven from twine and wildflowers. |
-| **4** | A **mysterious Fae lord** who claims to know your true parents. You are bound by a pact to complete a task for them. Take a **sealed scroll** with the details of the task.|
-| **5** | A **guardian of the forest** who saved your life as a child. In return, you swore to protect **The Woods** from harm. Take an **acorn amulet** symbolizing your vow.|
-| **6** | A **mortal lover** who knows your true nature but loves you regardless. You promised to return to them after your journey. Take a **hand-drawn portrait** of them.|
