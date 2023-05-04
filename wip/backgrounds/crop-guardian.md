@@ -9,7 +9,7 @@ grand_parent: WIP
 
 # Crop Guardian
 
-> You protect the harvest from pests, blight, and the creatures of **The Wood**. A position of great honor, while it lasts: many guardians do not live out their natural lives. Roll on the **Bonds** table.
+> You protect the harvest from pests, blight, and the creatures of **The Wood**. A position of great honor, while it lasts: many guardians do not live out their natural lives Roll on the **Bonds** table.
 
 ## Starting Gear
 
@@ -41,15 +41,4 @@ grand_parent: WIP
 | **4** | **Root Tether**    | When thrown, binds a wolf-sized creature to the soil for a short time.                                                                        |
 | **5** | **Greenwhistle**   | A small flute that calms plants, allowing you passage without needing to cut through first.                                                   |
 | **6** | **Everbloom Band** | A circlet adorned with flowers that never wilt, lest they are removed from the wrist. While wearing it, you cannot die. You can still suffer. |
-
-## Who or what binds you? Roll 1d6:
-
-|       |                                                              |
-| ----- | ------------------------------------------------------------ |
-| **1** | A **wealthy noble**, after you accidentally destroyed their priceless collection of ancient wine. What you can't repay in gold, you must repay in service. Take a **lapel of vassalhood**. |
-| **2** | A **pond spirit**, after it saved you from drowning at a local swimming hole. Now you dream of a great swan circling an eye-shaped pool, somewhere deep in **The Woods**. The dreams are becoming more urgent each day. Take a **lily pad** that never dries. |
-| **3** | A **greenwise**, after she healed an ill family member. In lieu of payment she asked that you perform a similar act on behalf of **The Woods** before the year is out. You have 15 days remaining. Take fragrant **dried herbs**. |
-| **4** | A **local militia leader** who spared you from punishment. He asked that you never walk his road again. It is very inconvenient. Take a **small brand** on your wrist. |
-| **5** | You saw your grandfather's spirit walking into the wheat after he died. Later, you kept **a loaf of bread** made from its harvest. It has never gone stale, and you feel his ever-watchful eye. |
-| **6** | As a child you became lost in the woods, where you met a grey-skinned men with cool blue eyes. He told you he was a prince, and asked you to join him in his kingdom. You refused, but he was not angry. Now you carry his **ring**. You have since never met harm in **The Woods**, save for when you forgot it.           |
 

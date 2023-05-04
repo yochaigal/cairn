@@ -29,7 +29,7 @@ You are the master of the arts of combat and warfare
 
 **Starting Gear**
 
-- Roll 1d0+10 on the **Armor Table**.
+- Roll 1d10+10 on the **Armor Table**.
 - Roll 1d10+10 on the **Helmets and Shields Table**.
 - Roll for **Weapons** and choose a second one.
 - Roll the rest as usual.
