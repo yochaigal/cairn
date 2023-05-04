@@ -20,10 +20,6 @@ The goal is to encourage party cooperation, further questing, and character grow
 
 ## Bonds
 
-## Who or what binds you? Roll 1d6:
-
-
-
 |       |                                                              |
 | ----- | ------------------------------------------------------------ |
 | **1** | A **wise mentor** who taught you the ways of the Fae and the mortal world. They asked you to help bridge the gap between the two. Take a **handwritten journal** filled with their wisdom. |

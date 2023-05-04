@@ -9,7 +9,8 @@ grand_parent: WIP
 
 # Crop Guardian
 
-> You protect the harvest from pests, blight, and the creatures of **The Wood**. A position of great honor, while it lasts: many guardians do not live out their natural lives Roll on the **Bonds** table.
+> You protect the harvest from pests, blight, and the creatures of **The Wood**. A position of great honor, while it lasts: many guardians do not live out their natural lives. 
+>> Roll on the **Bonds** table.
 
 ## Starting Gear
 
