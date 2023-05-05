@@ -23,18 +23,17 @@ The goal is to encourage party cooperation, further questing, and character grow
 |         |                                                              |
 | ------- | ------------------------------------------------------------ |
 | **d20** | **Bond**                                                     |
-| **1**   | A **wise mentor** who taught you the ways of the Fae and the mortal world. They asked you to help bridge the gap between the two. Take a **handwritten journal** filled with their wisdom. |
-| **2**   | A **troubled spirit** that haunts the edge of **The Woods**. You promised to help it find peace. Take a **fragment of a broken mirror** that reflects the spirit's face. |
-| **3**   | A **childhood friend** from your village. You promised to return with a gift wholly unique in all the world. Take a ** bracelet** woven from twine and wildflowers. |
-| **4**   | A **mysterious Fae lord** who claims to know your true parents. You are bound by a pact to complete a task for them. Take a **sealed scroll** with the details of the task. |
-| **5**   | A **guardian of the forest** who saved your life as a child. In return, you swore to protect **The Woods** from harm. Take an **acorn amulet** symbolizing your vow. |
-| **6**   | A **mortal lover** who knows your true nature but loves you regardless. You promised to return to them after your journey. Take a **hand-drawn portrait** of them. |
-| **7**   | A **local healer** who needs rare ingredients from **The Woods** to save a sick villager. You've sworn to help. Take a **small leather pouch** for collecting herbs. |
-| **8**   | A **fellow outcast** from your village. You both vowed to prove yourselves. Take a **shared secret** only the two of you know. |
-| **9**   | A **vengeful Fae** who believes you've wronged them. You seek to clear your name. Take a **crystal shard** as a reminder of their anger. |
-| **10**  | A **spirit of the land** who granted you a vision of a great danger. You pledged to prevent it. Take a **charm of the spirit's favor**. |
-| **11**  | A **merchant** who traded a powerful artifact to a dangerous entity. You agreed to retrieve it. Take a **sketch of the artifact**. |
-| **12**  | A **lost sibling** who was taken by the Fae. You swore to find them. Take a **locket with their picture**. |
+| **1**   | A wise mentor taught you the ways of the Fae and the mortal world hoping to bridge the gap between the two. Take a **handwritten journal** filled with their wisdom. |
+| **2**   | A troubled spirit haunts the woods around your home village, refusing to rest until its death is avenged. Take a **fragment of glass** that always reflects the spirit's face. |
+| **3**   | You promised a childhood friend that you'd bring them back a rare gift, something unique in all the world. Take a **bracelet** woven from twine and wildflowers. |
+| **4**   | A mysterious Fae lord has asked that you close a **Gate** not far from your village. In return they will reveal your true parentage. Take a **sealed scroll** with the details of the task. |
+| **5**   | A woodseer saved your life; in return you swore to protect **The Woods** from harm. Take an **acorn amulet** (1 Armor against forest magic)  symbolizing your vow. |
+| **6**   | You carry **a hand-drawn portrait** of a past love who disappeared into **The Woods** long ago. Somehow you know that they still live. |
+| **7**   | An former mentor lies dying of a rare disease. The healing herbs they require are common in **The Woods**, but dangerous to acquire. Take a **belt pouch**. |
+| **8**   | You share a secret with a fellow village outcast. Take half of an ancient key. Repaired, it can open any **Gate**.   |
+| **9**   | A vengeful spirit blames you for a great loss, and demands you return what was stolen. Take a **crystal shard** as a reminder of their anger. It can reveal what lies beneath any illusion. |
+| **10**  | You trespassed on a grove of rare Corpsewood trees belonging to the **Wooded Dead**, a cult of benign forest liches. As recompense, they've asked you retrieve a fresh sapling. They grow wherever the dead rest in great numbers.   |
+| **11**  | **The Dawn Brigade**: They helped get you out, asking for only one thing in return: Cross the border. Deep in the frontier there is a glade of primrose and ash. In its center is a **Blood Flower**. You have three months to bring it to them before **The Bloodhounds** find you.|
 | **13**  | A **powerful sorcerer** who desires a Fae artifact. You are bound to help them acquire it. Take a **coded map** to its location. |
 | **14**  | A **pack of forest creatures** that you befriended. They need protection from hunters. Take a **small totem** gifted by the creatures. |
 | **15**  | A **wounded traveler** you saved. They asked you to deliver a message to their loved ones. Take the **sealed letter**. |
@@ -48,8 +47,9 @@ The goal is to encourage party cooperation, further questing, and character grow
 | **23**  | A **group of lost travelers** who you guided to safety. They asked you to find their missing companion. Take a **tattered journal** belonging to the missing person. |
 | **24**  | A **fierce storm** that threatens the village. You pledged to find a way to calm it. Take a **vial of storm essence**. |
 | **25**  | A **Fae oracle** who foresaw your great destiny. You seek to fulfill the prophecy. Take a **parchment with the prophecy**. |
-| **26**  | **The Wooded Dead**: A group of benign Forest Liches  demand you plant a grove of rare (and expensive) **Corpsewood** trees after you (accidentally) trespassed on their sacred grove. The saplings grow wherever the dead rest in great numbers. Until your debt is paid, travelling through **The Woods** is slower, and forest critters shy away from you. |
-| **27**  | **The Dawn Brigade**: They helped get you out, asking for only one thing in return: Cross the border. Deep in the frontier there is a glade of primrose and ash. In its center is a **Blood Flower**. You have three months to bring it to them before **The Bloodhounds** find you. |
+| **26**  | A **merchant** who traded a powerful artifact to a dangerous entity. You agreed to retrieve it. Take a **sketch of the artifact**. |
+| **12**  | A **lost sibling** who was taken by the Fae. You swore to find them. Take a **locket with their picture**.  |
+| **27**  |  |
 | **28**  | **The Ironscale Syndicate**: You borrowed money from a notorious criminal organization to cover a desperate need. They expect you to repay the loan with considerable interest. (500gp) Until the debt is paid, their enforcers will hound you, making it difficult to rest or find sanctuary in **The Cobbles**. |
 | **29**  | **Seeds of Fortune**: Your family owes a large sum of money to a moneylender from **The Cobbles** to sponser a failed crop. With no way to repay the debt, you cannot return home or step foot in **The Cobbles** without risking their wrath. |
 | **30**  | **The Cost of Freedom**: You paid dearly for a chance to escape **The Roots** and your enemies there. The price remains unpaid, and now your liberators are demanding the fee, plus interest (250gp). It would cost them nothing to throw you down the nearest **Gate** and inform your enemies of your whereabouts. |
@@ -86,7 +86,7 @@ The goal is to encourage party cooperation, further questing, and character grow
 | **5**   | **The Vanishing Stars**: The night sky grows dimmer each evening, as if stars are disappearing one by one. Some believe it's a sign of an impending disaster, while others suspect the influence of a powerful Fae from **The Woods**. |
 | **6**   | **The Silent Song**: The songbirds of **The Woods** have fallen eerily silent. Hunters claim that a spectral figure has been spotted wandering the forest, cursing the land with its presence. |
 | **7**   | **The Weeping Stones**: Strange, tear-shaped stones have been found throughout the region. The locals believe they are the tears of the earth itself, weeping for a great tragedy yet to come. |
-| **8**   | **The Shadow's Embrace**: As the sun sets, the shadows grow longer and darker, seeming to take on a life of their own. Many fear that an ancient entity from **The Roots** is rising, casting its sinister darkness over the land. |
+| **8**   | A **crops spirit** has granted you a vision of great danger. You pledged to prevent it. Take a **wheat charm**.|
 | **9**   | **The Blood Moon**: The moon turns a deep crimson, bathing the night in an eerie, blood-red light. Some say it heralds a time of chaos and strife, as the boundaries between **The Woods** and the mortal realm grow thin. |
 | **10**  | **The Screaming Wind**: Howling winds carry desperate, tormented screams from deep within **The Woods**. Villagers whisper that the restless spirits of the dead are seeking vengeance on the living. |
 | **11**  | **The Dying Light**: The sun grows weaker each day, casting a sickly, pale light across the land. Many fear that a Fae lord from **The Woods** seeks to snuff out the sun and plunge the world into eternal darkness. |
@@ -130,3 +130,4 @@ The goal is to encourage party cooperation, further questing, and character grow
 | **49**  | **The Plague Bearer**: The pests spread a vile disease in their wake, infecting the land and all who dwell within it. You feel the sickness growing within you, a warning of the grim fate that awaits unless you can find a cure. |
 | **50**  | **The Blackened Soil**: The infested fields wither and die, their essence corrupted by a terrible darkness. The soil itself seems to cry out in anguish, and only by purging the blight can you restore life to the land. |
 | **51**  | **The Shadowed Crop**: The once-lush fields lie in ruin, a monument to despair and loss. As you stand amidst the wreckage, you feel the weight of the omen upon your shoulders, driving you to seek redemption and prevent the pestilence from consuming all |
+| **52** | **The Shadow's Embrace**: As the sun sets, the shadows grow longer and darker, seeming to take on a life of their own. Many fear that an ancient entity from **The Roots** is rising, casting its sinister darkness over the land. |
