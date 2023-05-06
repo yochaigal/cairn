@@ -26,17 +26,18 @@ The goal is to encourage party cooperation, further questing, and character grow
 | **1**   | A wise mentor taught you the ways of the Fae and the mortal world hoping to bridge the gap between the two. Take a **handwritten journal** filled with their wisdom. |
 | **2**   | A troubled spirit haunts the woods around your home village, refusing to rest until its death is avenged. Take a **fragment of glass** that always reflects the spirit's face. |
 | **3**   | You promised a childhood friend that you'd bring them back a rare gift, something unique in all the world. Take a **bracelet** woven from twine and wildflowers. |
-| **4**   | A mysterious Fae lord has asked that you close a **Gate** not far from your village. In return they will reveal your true parentage. Take a **sealed scroll** with the details of the task. |
+| **4**   | A mysterious Fae lord has asked you to close a **Gate** in a field not far from your village. In return they will reveal your true parentage. Take a **sealed scroll** with the details of the task. |
 | **5**   | A woodseer saved your life; in return you swore to protect **The Woods** from harm. Take an **acorn amulet** (1 Armor against forest magic) symbolizing your vow. |
-| **6**   | You carry **a hand-drawn portrait** of a past love who disappeared into **The Woods** long ago. Somehow, you know that they still live. |
-| **7**   | A former mentor lies dying of a rare disease. The healing herbs they require are common in **The Woods**, but dangerous to acquire. Take a **belt pouch**. |
+| **6**   | The **Dawn Brigade** did your family a favor, giving you a dried blood-red flower as proof. Now, it has turned white, and they will soon ask for a favor. |
+| **7**   | A former mentor lies dying of a rare disease. The healing herbs they require are common in **The Woods**, but dangerous to acquire. Take a **waterproof pouch**. |
 | **8**   | You protect a long-dormant family secret. Take one half of an **ancient key**. If joined with its twin, they say it opens a **Gate** through any door.   |
-| **9**   | A crop spirit blames you for last year's poor yield. Take a **crystal shard** as a reminder of their anger. It can reveal what lies beneath any illusion._  |
-| **10**  | You trespassed on a sacred grove cared for by the **Wooded Dead**, a cult of benign forest liches. As recompense, they've asked you retrieve a fresh Corpsewood sapling. They grow wherever the dead rest in great numbers.   |
-| **11**  | **The Dawn Brigade**: They helped get you out, asking for only one thing in return: Cross the border. Deep in the frontier there is a glade of primrose and ash. In its center is a **Blood Flower**. You have three months to bring it to them before **The Bloodhounds** find you.|
-| **13**  | A **powerful sorcerer** who desires a Fae artifact. You are bound to help them acquire it. Take a **coded map** to its location. |
-| **14**  | A **pack of forest creatures** that you befriended. They need protection from hunters. Take a **small totem** gifted by the creatures. |
-| **15**  | A **wounded traveler** you saved. They asked you to deliver a message to their loved ones. Take the **sealed letter**. |
+| **9**   | A forest witch cursed your family line many years before. Mirrors always break with your reflection, but its shards can reveal illusion.  |
+| **10**  | You trespassed on the **Wooded Dead's** sacred grove. To atone you must retrieve a corpsewood sapling. They grow in places populated only by the dead.  |
+| **11**  | You carry a hand-drawn **portrait** of a past love who disappeared into **The Woods** long ago. Somehow, you know that they still live.|
+| **12** | During your travels you met a dying hunter, who asked you to deliver a message to their loved ones. Take a **letter**, sealed with tree sap. It is addressed only to the **Lord of Winter**. |
+| **13**  |  |
+| **14**  |  |
+| **15**  |  |
 | **16**  | A **cursed town** on the edge of **The Woods**. You pledged to lift the curse. Take a **fragment of the curse's origin**. |
 | **17**  | A **group of scholars** seeking to learn the secrets of the Fae. You agreed to share your knowledge. Take a **blank book** for your findings. |
 | **18**  | A **shapeshifting trickster** who challenges you to a game of wits. Take a **deck of enchanted cards**. |
