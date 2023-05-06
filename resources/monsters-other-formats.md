@@ -7,7 +7,7 @@ nav_order: 8
 
 # Monsters (Other Formats)
 
-### A print-on-demand bestiary is now available from [Lulu](https://www.lulu.com/shop/yochai-gal-and-flacoalto-/cairn-bestiary/paperback/product-gmgjkz.html)!
+### A print-on-demand bestiary is now available from [Lulu](https://www.lulu.com/shop/yochai-gal/cairn-bestiary/paperback/product-prq2rg.html)!
 
 ## Other Downloads 
 
