@@ -30,7 +30,7 @@ The goal is to encourage party cooperation, further questing, and character grow
 | **5**   | A woodseer saved your life; in return you swore to protect **The Woods** from harm. Take an **acorn amulet** (1 Armor against forest magic) symbolizing your vow. |
 | **6**   | The **Dawn Brigade** did your family a favor, giving you a dried blood-red flower as proof. Now, it has turned white, and they will soon ask for a favor. |
 | **7**   | A former mentor lies dying of a rare disease. The healing herbs they require are common in **The Woods**, but dangerous to acquire. Take a **waterproof pouch**. |
-| **8**   | You protect a long-dormant family secret. Take one half of an **ancient key**. If joined with its twin, they say it opens a **Gate** through any door.   |
+| **8**   | You protect a long-dormant family secret. Take one half of an **ancient key**. They that if joined with its twin, it opens a **Gate** through any door.   |
 | **9**   | A forest witch cursed your family line many years before. Mirrors always break with your reflection, but its shards can reveal illusion.  |
 | **10**  | You trespassed on the **Wooded Dead's** sacred grove. To atone you must retrieve a corpsewood sapling. They grow in places populated only by the dead.  |
 | **11**  | You carry a hand-drawn **portrait** of a past love who disappeared into **The Woods** long ago. Somehow, you know that they still live.|
@@ -44,7 +44,7 @@ The goal is to encourage party cooperation, further questing, and character grow
 | **19**  | A **mortal artist** who desires inspiration from the Fae realm. You agreed to help them. Take a **paintbrush from a Fae tree**. |
 | **20**  | A **forest fire** that consumed part of **The Woods**. You swore to find the cause. Take a **burnt twig** as a reminder. |
 | **21**  | A **Fae courtier** who seeks an audience with the mortal ruler. You agreed to arrange it. Take a **letter of introduction**. |
-| **22**  | A **legendary tree** in **The Woods** that holds the key to a great mystery. You vowed to uncover its secrets. Take a **leaf from the tree**. |
+| **22**  |  |
 | **23**  | A **group of lost travelers** who you guided to safety. They asked you to find their missing companion. Take a **tattered journal** belonging to the missing person. |
 | **24**  | A **fierce storm** that threatens the village. You pledged to find a way to calm it. Take a **vial of storm essence**. |
 | **25**  | A **Fae oracle** who foresaw your great destiny. You seek to fulfill the prophecy. Take a **parchment with the prophecy**. |
@@ -80,7 +80,7 @@ The goal is to encourage party cooperation, further questing, and character grow
 |         |                                                              |
 | ------- | ------------------------------------------------------------ |
 | **d20** | **Omens**                                                    |
-| **1**   | **The Devoured Fields**: Swarming pests gnaw away at the edges of your dreams, portending a grim future harvest. Farmers speak of a loud buzzing sound emanating from deep within The Woods. |
+| **1**   | Swarming pests gnaw away at the edges of your dreams, portending a grim future harvest. Farmers speak of a loud buzzing sound emanating from deep within The Woods. |
 | **2**   | **The Choked River**: The life-giving waters of the city's river have turned black and putrid, tainting the land and sickening those who drink from it. Rumors suggest that an ancient curse from **The Woods** has befallen the river. |
 | **3**   | **The Wailing Trees**: A haunting chorus of anguished cries echoes through the forest. Some say an otherworldly presence from **The Roots** has seeped into the earth, infecting the woods with its sorrow. Each day the voices of tree and bird alike grows more quiet. |
 | **4**   | **The Shrouded Path**: A thick, unnatural fog has descended upon an ancient and holy grove, and is slowly expanding. It is said to be the work of a great spirit, disturbed by the expansion of **The Cobbles**. |
@@ -88,6 +88,7 @@ The goal is to encourage party cooperation, further questing, and character grow
 | **6**   | **The Silent Song**: The songbirds of **The Woods** have fallen eerily silent. Hunters claim that a spectral figure has been spotted wandering the forest, cursing the land with its presence. |
 | **7**   | **The Weeping Stones**: Strange, tear-shaped stones have been found throughout the region. The locals believe they are the tears of the earth itself, weeping for a great tragedy yet to come. |
 | **8**   | A **crops spirit** has granted you a vision of great danger. You pledged to prevent it. Take a **wheat charm**.|
+| **9** | In your village there lies a mother tree. They say it has always been there, holding the town's secrets in its boughs and roots. Recently it began bleeding red sap, and the elders are worried. Take a **leaf** from the tree. It turns a deep red when danger is near. |
 | **9**   | **The Blood Moon**: The moon turns a deep crimson, bathing the night in an eerie, blood-red light. Some say it heralds a time of chaos and strife, as the boundaries between **The Woods** and the mortal realm grow thin. |
 | **10**  | **The Screaming Wind**: Howling winds carry desperate, tormented screams from deep within **The Woods**. Villagers whisper that the restless spirits of the dead are seeking vengeance on the living. |
 | **11**  | **The Dying Light**: The sun grows weaker each day, casting a sickly, pale light across the land. Many fear that a Fae lord from **The Woods** seeks to snuff out the sun and plunge the world into eternal darkness. |
