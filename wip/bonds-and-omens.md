@@ -27,12 +27,12 @@ The goal is to encourage party cooperation, further questing, and character grow
 | **2**   | A troubled spirit haunts the woods around your home village, refusing to rest until its death is avenged. Take a **fragment of glass** that always reflects the spirit's face. |
 | **3**   | You promised a childhood friend that you'd bring them back a rare gift, something unique in all the world. Take a **bracelet** woven from twine and wildflowers. |
 | **4**   | A mysterious Fae lord has asked that you close a **Gate** not far from your village. In return they will reveal your true parentage. Take a **sealed scroll** with the details of the task. |
-| **5**   | A woodseer saved your life; in return you swore to protect **The Woods** from harm. Take an **acorn amulet** (1 Armor against forest magic)  symbolizing your vow. |
-| **6**   | You carry **a hand-drawn portrait** of a past love who disappeared into **The Woods** long ago. Somehow you know that they still live. |
-| **7**   | An former mentor lies dying of a rare disease. The healing herbs they require are common in **The Woods**, but dangerous to acquire. Take a **belt pouch**. |
-| **8**   | You share a secret with a fellow village outcast. Take half of an ancient key. Repaired, it can open any **Gate**.   |
-| **9**   | A vengeful spirit blames you for a great loss, and demands you return what was stolen. Take a **crystal shard** as a reminder of their anger. It can reveal what lies beneath any illusion. |
-| **10**  | You trespassed on a grove of rare Corpsewood trees belonging to the **Wooded Dead**, a cult of benign forest liches. As recompense, they've asked you retrieve a fresh sapling. They grow wherever the dead rest in great numbers.   |
+| **5**   | A woodseer saved your life; in return you swore to protect **The Woods** from harm. Take an **acorn amulet** (1 Armor against forest magic) symbolizing your vow. |
+| **6**   | You carry **a hand-drawn portrait** of a past love who disappeared into **The Woods** long ago. Somehow, you know that they still live. |
+| **7**   | A former mentor lies dying of a rare disease. The healing herbs they require are common in **The Woods**, but dangerous to acquire. Take a **belt pouch**. |
+| **8**   | You protect a long-dormant family secret. Take one half of an **ancient key**. If joined with its twin, they say it opens a **Gate** through any door.   |
+| **9**   | A crop spirit blames you for last year's poor yield. Take a **crystal shard** as a reminder of their anger. It can reveal what lies beneath any illusion._  |
+| **10**  | You trespassed on a sacred grove cared for by the **Wooded Dead**, a cult of benign forest liches. As recompense, they've asked you retrieve a fresh Corpsewood sapling. They grow wherever the dead rest in great numbers.   |
 | **11**  | **The Dawn Brigade**: They helped get you out, asking for only one thing in return: Cross the border. Deep in the frontier there is a glade of primrose and ash. In its center is a **Blood Flower**. You have three months to bring it to them before **The Bloodhounds** find you.|
 | **13**  | A **powerful sorcerer** who desires a Fae artifact. You are bound to help them acquire it. Take a **coded map** to its location. |
 | **14**  | A **pack of forest creatures** that you befriended. They need protection from hunters. Take a **small totem** gifted by the creatures. |
