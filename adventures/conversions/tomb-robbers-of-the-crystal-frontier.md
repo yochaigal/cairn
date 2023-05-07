@@ -119,11 +119,11 @@ title: Tomb Robbers of the Crystal Frontier
 ### 7) Chambered Hall
 
 #### Revenant of Greed
-6 HP, 12 STR, 14 DEX, 3 WIL, claws(d6, ignores armor)
+6 HP, 12 STR, 14 DEX, 3 WIL, claws (d6, ignores armor)
 * Shambling, Empyryean figures wrapped in stained silks, their hands compulsively grasping for any nearby riches.
 * Self-Serving: Only check Morale if reduced to 0 HP.
-Semi-Corporeal: Immune to all normal weapons, but take full damage from blessed weapons, fire, and acid. Immune to sleep, charm, and mind-affecting spells.
-Lure of Gold: The Revenant can forgo dealing STR damage, instead grasping the target and provoking a WIL save.  Failure results in the victim being overcome with the compulsion to kill and rob one's companions:  They must attack their nearest ally for the next 1d6 Rounds. 
+* Semi-Corporeal: Immune to all normal weapons, but take full damage from blessed weapons, fire, and acid. Immune to sleep, charm, and mind-affecting spells.
+* Lure of Gold: The Revenant can forgo dealing STR damage, instead grasping the target and provoking a WIL save.  Failure results in the victim being overcome with the compulsion to kill and rob one's companions:  They must attack their nearest ally for the next 1d6 Rounds. 
 
 **Tubbs (Greenhorn)**
 4 HP, 2 Armor, 10 STR, 10 DEX, 10 WIL, spear (d8)
