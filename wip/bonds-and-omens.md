@@ -23,7 +23,7 @@ The goal is to encourage party cooperation, further questing, and character grow
 |         |                                                              |
 | ------- | ------------------------------------------------------------ |
 | **d20** | **Bond**                                                     |
-| **1**   | A wise mentor taught you the ways of the Fae and the mortal world hoping to bridge the gap between the two. Take a **handwritten journal** filled with their wisdom. |
+| **1**   | A wise mentor taught you the ways of the Fae and the mortal world, hoping to bridge the gap between the two. Take a **handwritten journal** filled with their wisdom. |
 | **2**   | A troubled spirit haunts the woods around your home village, refusing to rest until its death is avenged. Take a **fragment of glass** that always reflects the spirit's face. |
 | **3**   | You promised a childhood friend that you'd bring them back a rare gift, something unique in all the world. Take a **bracelet** woven from twine and wildflowers. |
 | **4**   | A mysterious Fae lord has asked you to close a **Gate** in a field not far from your village. In return they will reveal your true parentage. Take a **sealed scroll** with the details of the task. |
@@ -35,8 +35,8 @@ The goal is to encourage party cooperation, further questing, and character grow
 | **10**  | You trespassed on the **Wooded Dead's** sacred grove. To atone you must retrieve a corpsewood sapling. They grow in places populated only by the dead.  |
 | **11**  | You carry a hand-drawn **portrait** of a past love who disappeared into **The Woods** long ago. Somehow, you know that they still live.|
 | **12** | During your travels you met a dying hunter, who asked you to deliver a message to their loved ones. Take a **letter**, sealed with tree sap. It is addressed only to the **Lord of Winter**. |
-| **13**  |  |
-| **14**  |  |
+| **13**  | A distant cousin left you a small inheritance. Take **20gp**, and an **ornate compass** that always points towards something deep in **The Woods**. |
+| **14**  | An entertainer once visited your home, filling it with story and song. He left one day with hardly a note, leaving behind only **a miniature lute**. Something rattles inside.   |
 | **15**  |  |
 | **16**  | A **cursed town** on the edge of **The Woods**. You pledged to lift the curse. Take a **fragment of the curse's origin**. |
 | **17**  | A **group of scholars** seeking to learn the secrets of the Fae. You agreed to share your knowledge. Take a **blank book** for your findings. |
