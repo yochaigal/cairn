@@ -31,16 +31,16 @@ The goal is to encourage party cooperation, further questing, and character grow
 | **6**   | The **Dawn Brigade** did your family a favor, giving you a dried blood-red flower as proof. Now, it has turned white, and they will soon ask for a favor. |
 | **7**   | A former mentor lies dying of a rare disease. The healing herbs they require are common in **The Woods**, but dangerous to acquire. Take a **waterproof pouch**. |
 | **8**   | You protect a long-dormant family secret. Take one half of an **ancient key**. They that if joined with its twin, it opens a **Gate** through any door.   |
-| **9**   | A forest witch cursed your family line many years before. Mirrors always break with your reflection, but its shards can reveal illusion.  |
+| **9**   | One of your ancestors wronged a moss witch, cursing their bloodline. Mirrors always break with your reflection, but its shards can reveal illusion.  |
 | **10**  | You trespassed on the **Wooded Dead's** sacred grove. To atone you must retrieve a corpsewood sapling. They grow in places populated only by the dead.  |
 | **11**  | You carry a hand-drawn **portrait** of a past love who disappeared into **The Woods** long ago. Somehow, you know that they still live.|
 | **12** | During your travels you met a dying hunter, who asked you to deliver a message to their loved ones. Take a **letter**, sealed with tree sap. It is addressed only to the **Lord of Winter**. |
 | **13**  | A distant cousin left you a small inheritance. Take **20gp**, and an **ornate compass** that always points towards something deep in **The Woods**. |
 | **14**  | An entertainer once visited your home, filling it with story and song. He left one day with hardly a note, leaving behind only **a miniature lute**. Something rattles inside.   |
 | **15**  |  |
-| **16**  | A **cursed town** on the edge of **The Woods**. You pledged to lift the curse. Take a **fragment of the curse's origin**. |
-| **17**  | A **group of scholars** seeking to learn the secrets of the Fae. You agreed to share your knowledge. Take a **blank book** for your findings. |
-| **18**  | A **shapeshifting trickster** who challenges you to a game of wits. Take a **deck of enchanted cards**. |
+| **16**  |  |
+| **17**  |  |
+| **18**  |  |
 | **19**  | A **mortal artist** who desires inspiration from the Fae realm. You agreed to help them. Take a **paintbrush from a Fae tree**. |
 | **20**  | A **forest fire** that consumed part of **The Woods**. You swore to find the cause. Take a **burnt twig** as a reminder. |
 | **21**  | A **Fae courtier** who seeks an audience with the mortal ruler. You agreed to arrange it. Take a **letter of introduction**. |
