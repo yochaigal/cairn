@@ -15,6 +15,8 @@ search_exclude: true
 
 ## General Notes
 - This conversion is based on The Stygian Library: Remastered
+- Archivist-Liches are based on Liches at [cairnrpg.com](https://cairnrpg.com).
+- 
 
 ## Locations
 
@@ -159,7 +161,7 @@ Getting caught in the gears
 
 ### Animated Book
 
-6 HP, 1 Armor, 8 STR, 8 DEX, 9 WIL 
+6 HP, 1 Armor, 8 STR, 8 DEX, 9 WIL,  slam (d6)
 
 - It can fly.
 - It is immune to poison, cold, and effects that only affect living things.
@@ -168,7 +170,7 @@ Getting caught in the gears
 
 ### Animate Spell
 
-3 HP, 6 STR, 6 DEX, 10 WIL *spell casting* 
+3 HP, 6 STR, 6 DEX, 10 WIL, *spell casting* 
 
 - The spell's personality and powers depend on the nature of the spell
 - Immune to physical damage of the same type as the spell.
@@ -177,6 +179,48 @@ Getting caught in the gears
 - No physical attacks, but can cast itself once per round. 
 - If reduced to 0 STR, 0 WIL, or takes **critical damage**, becomes a normal spell book.
 
+### Archivist-Liches
+
+14 HP, 3 Armor, 15 STR, 9 DEX, 15 WIL, lich's finger (d10), *spell casting* 
+
+- Immune to mind control and sleep magics
+- Unless phylactery is destroyed, cannot be permanently killed.
+- cannot be turned
+- Able to cast virtually any spell without suffering consequences. Carries 2d6 random spellbooks with them.
+- **Critical Damage:** victim is paralyzed for 1 turn.
+
+### Bandersnatch
+
+13 HP, 14 STR, 9 DEX, 7 WIL, Long Arms (d4, *long reach*)
+
+- Until they take action, they can remain unnoticed, make a WIL save to spot them.
+- In lieu of attacking the arms can snatch an item (make a STR save to resist) or pick a victim's pocket (make a DEX save to avoid).
+- Non-iron weapons are *impaired* against them. Iron weapons are *enhanced*. 
+- **Critical Damage:** The opponent is grabbed and takes d8+d8 Damage per round until they make 3 STR saves to escape.
+
+### Black Ooze
+
+5 HP, 12 STR, 6 DEX, 3 WIL, Mental Digestion (d6 to WIL)
+
+- Piercing or slashing attacks against it are *diminished*
+- Regains 1HP for every point of damage caused by Mental Digestion 
+- Can crawl up walls and along ceilings, can squeeze through small openings.
+
+### Conceptual Well
+
+1 HP, 5 STR, 5 DEX, 5 WIL, Unreal Knife (d6)
+
+- Can not be perceived or attacked directly.
+- **Critical Damage:** The victim immediately forgets a concept from the table provided. They take d10+d10 damage if they act in a way that indicates they are still aware of that concept unless the player immediately changes course when reminded by the keeper.
+
+### Crawling Things
+
+4 HP, 1 Armor, 9 STR, 6 DEX, 5 WIL, Claw and Clutch (d6)  
+
+- Slow, lurching.
+- Only dimly aware of surroundings
+- **Critical Damage:** Begins removing body parts and incorporating them into itself. Does d6+d6 damage to the victim from that point. Will only release its victim when the Crawling Thing is killed.
+
 ### Monster 1
 
 Stats 
@@ -184,12 +228,27 @@ Stats
 - Notes
 - **Critical Damage:**
 
+
+
 ### Monster 1
 
 Stats 
 
 - Notes
 - **Critical Damage:**
+
+
+
+### Monster 1
+
+Stats 
+
+- Notes
+- **Critical Damage:**
+
+
+
+
 
 ### 
 
