@@ -33,7 +33,7 @@ The goal is to encourage party cooperation, further questing, and character grow
 | **8**   | You protect a long-dormant family secret. Take one half of an **ancient key**. They that if joined with its twin, it opens a **Gate** through any door.   |
 | **9**   | One of your ancestors wronged a moss witch, cursing their bloodline. Mirrors always break with your reflection, but its shards can reveal illusion.  |
 | **10**  | You trespassed on the **Wooded Dead's** sacred grove. To atone you must retrieve a corpsewood sapling. They grow in places populated only by the dead.  |
-| **11**  | You carry a hand-drawn **portrait** of a past love who disappeared into **The Woods** long ago. Somehow, you know that they still live.|
+| **11**  | You carry a hand-drawn **portrait** of a past love who disappeared into **The Woods** long ago. Somehow, you know that they still alive.|
 | **12** | During your travels you met a dying hunter, who asked you to deliver a message to their loved ones. Take a **letter**, sealed with tree sap. It is addressed only to the **Lord of Winter**. |
 | **13**  | A distant cousin left you a small inheritance. Take **20gp**, and an **ornate compass** that always points towards something deep in **The Woods**. |
 | **14**  | An entertainer once visited your home, filling it with story and song. He left one day with hardly a note, leaving behind only **a miniature lute**. Something rattles inside.   |
@@ -46,9 +46,9 @@ The goal is to encourage party cooperation, further questing, and character grow
 | **21**  | A **Fae courtier** who seeks an audience with the mortal ruler. You agreed to arrange it. Take a **letter of introduction**. |
 | **22**  | |
 | **23**  | A **group of lost travelers** who you guided to safety. They asked you to find their missing companion. Take a **tattered journal** belonging to the missing person. |
-| **24**  | A **fierce storm** that threatens the village. You pledged to find a way to calm it. Take a **vial of storm essence**. |
-| **25**  | A **Fae oracle** who foresaw your great destiny. You seek to fulfill the prophecy. Take a **parchment with the prophecy**. |
-| **26**  | A **merchant** who traded a powerful artifact to a dangerous entity. You agreed to retrieve it. Take a **sketch of the artifact**. |
+| **24**  | Take a **vial of storm essence**. |
+| **25**  |  |
+| **26**  | Someone close to your traded a family heirloom to a shadowy entity from **The Cobbles**. Take a **sketch of the artifact**. |
 | **12**  | A **lost sibling** who was taken by the Fae. You swore to find them. Take a **locket with their picture**.  |
 | **27**  | |
 | **28**  | You borrowed money from a notorious criminal organization to cover a desperate need. They expect you to repay the loan with considerable interest. (500gp) Until the debt is paid, their enforcers will hound you, making it difficult to rest or find sanctuary in **The Cobbles**. |
@@ -153,7 +153,6 @@ The goal is to encourage party cooperation, further questing, and character grow
 | **70** | You awake to find frost surrounding only your campsite, leaving the rest of the environment untouched. |
 | **71** | A spider spins a web in the shape of an ancient symbol near your resting place.|
 | **72** | You find a stone in the shape of a heart, inexplicably warm to the touch. |
-
 
 ## Misc
 **The Wooded Dead**, a group of benign Forest Liches. After trespassing on a sacred grove, they demand you plant a grove of rare (and expensive) **Corpsewood** trees, whose saplings grow wherever the dead rest in great numbers. Until your debt is paid, travelling through **The Woods** is slower, and forest critters shy away from you.  

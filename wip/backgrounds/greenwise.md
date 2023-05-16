@@ -26,12 +26,12 @@ Briar, Moss, Fern, Lichen, Thistle, Root, Willow, Laurel, Sage, Yarrow, Mallow, 
 
 |       |                                                                                                                                                                                            |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **1** | An ill-tempered spirit cursed you for stealing its heart-seed. Now any plant you touch wilts and dies. Take a **Bezoar Stone**. Ingesting it cures any poison (one use, unless retrieved). |
-| **2** | Grief over a friend's death follows you, their face appearing in any any tea you brew. Take a **soporific concoction**.                                                                        |
-| **3** | An accidental poisoning cost you your sense of taste and smell, but you can now withstand noxious fumes. Take a **book on dangerous plants**.                                                  |
-| **4** | Your radical experiments altered you; you now subsist on only copious amounts of sun and water. Instead of rations, you carry a **fortified jug of water**. (bulky).                           |
-| **5** | Your impressive corpseflower won a contest in **The Cobbles**, then promptly killed a judge. You fled, but not without **the prize money (100gp)**.                                            |
-| **6** | A restorative tincture you brewed caused accidental infertility in a powerful client. Take a **healing potion** that completely restores STR. Only you know of its unintended side-effects.    |
+| **1** | An ill-tempered spirit cursed you for stealing its heart-seed. Now any plant you touch wilts and dies. Take a **Bezoar Stone**. Ingesting it cures any poison (one use, unless retrieved). Roll on the **Bonds** table. |
+| **2** | Grief over a friend's death follows you, their face appearing in any any tea you brew. Take a **soporific concoction**. Roll on the **Bonds** table.                                   |
+| **3** | An accidental poisoning cost you your sense of taste and smell, but you can now withstand noxious fumes. Take a **book on dangerous plants**. Roll on the **Omens** table.|
+| **4** | Your radical experiments altered you; you now subsist on only copious amounts of sun and water. Instead of rations, you carry a **fortified jug of water** (bulky). Roll on the **Omens** table.       |
+| **5** | Your impressive corpseflower won a contest in **The Cobbles**, then promptly killed a judge. You fled, but not without **the prize money (100gp)**. Roll on the **Bonds** table.              |
+| **6** | A restorative tincture you brewed caused accidental infertility in a powerful client. Take a **healing potion** that completely restores STR. Only you know of its unintended side-effects. Roll on the **Bonds** table.    |
 
 ## What keepsake accompanies you? Roll 1d6:
 
