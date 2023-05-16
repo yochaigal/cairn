@@ -153,3 +153,7 @@ The goal is to encourage party cooperation, further questing, and character grow
 | **70** | You awake to find frost surrounding only your campsite, leaving the rest of the environment untouched. |
 | **71** | A spider spins a web in the shape of an ancient symbol near your resting place.|
 | **72** | You find a stone in the shape of a heart, inexplicably warm to the touch. |
+
+
+## Misc
+**The Wooded Dead**, a group of benign Forest Liches. After trespassing on a sacred grove, they demand you plant a grove of rare (and expensive) **Corpsewood** trees, whose saplings grow wherever the dead rest in great numbers. Until your debt is paid, travelling through **The Woods** is slower, and forest critters shy away from you.  
