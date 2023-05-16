@@ -13,7 +13,7 @@ redirect_from: /wip/backgrounds/herbalist/
 > Deep in the forest's embrace, secrets are whispered. Now you seek wisdom beyond its verdant boughs.
 
 ## Names
-Briar, Moss, Fern, Thicket, Grove, Lichen, Thistle, Root, Willow, Laurel, Sage, Yarrow, Mallow, Elder, Hawthorn, Aspen, Sprig, Hazel, Cedar, Elm, Linden, Rowan, Ash, Holly, Juniper, Alder
+Briar, Moss, Fern, Lichen, Thistle, Root, Willow, Laurel, Sage, Yarrow, Mallow, Hawthorn, Aspen, Sprig, Hazel, Linden, Rowan, Ash, Holly, Juniper
 
 ## Starting Gear
 

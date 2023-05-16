@@ -12,7 +12,7 @@ grand_parent: WIP
 > You protect the harvest from pests, blight, and the creatures of **The Wood**. A position of great honor, while it lasts: many guardians do not live out their natural lives. 
 
 ## Names
-Thresher, Barley, Rye, Kernel, Harrow, Sheaf, Till, Bracken, Sickle, Grain, Chaff, Stalk, Cobb, Barrow, Paddock, Furrow, Hull, and Fallow
+Seeder, Thresher, Dibber, Bracken, Barley, Sow, Stalk, Furrow, Till, Harrow, Sheaf, Kernel, Cobb, Plow, Hull, Flax, Barrow, Winnow, Briar, Rye, Fallow
 
 ## Starting Gear
 
