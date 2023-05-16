@@ -10,7 +10,7 @@ redirect_from: /wip/backgrounds/herbalist/
 
 # Greenwise
 
-> You delve deep into **The Wood**, prying its secrets from between rough boughs and whispering leaves. In this verdant kingdom, you are not a mere scholar but a confidant.
+> You delve deep into **The Wood**, prying its secrets from between rough boughs and whispering leaves. In this verdant kingdom, you are no mere scholar, but a confidant as well.
 
 ## Names
 Briar, Moss, Fern, Lichen, Thistle, Root, Willow, Laurel, Sage, Yarrow, Mallow, Hawthorn, Aspen, Sprig, Hazel, Linden, Rowan, Ash, Holly, Juniper
