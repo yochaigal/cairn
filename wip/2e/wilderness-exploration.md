@@ -89,10 +89,10 @@ search_exclude: true
 |   **Weather**    | **Effect**                                                                                                                | **Examples**                                              |
 |     **Nice**     | Favorable conditions for travel. Bedroll or shelter required.                                                             | _Clear skies, sunny_                                      |
 |     **Fair**     | Favorable conditions for travel. Bedroll or shelter required.                                                             | _Overcast, breezy_                                        |
-|  **Unpleasant**  | Gain one **Fatigue** _or_ add one **watch** to the journey.                                                               | _Gusting winds, rain showers, sweltering heat, chill air_ |
-|  **Inclement**   | Gain one **Fatigue** _or_ add one **watch** to the journey. Chance of getting lost increases by one step.        | _Thunderstorms & lightning, rain, muddy ground_           |
-|   **Extreme**    | Gain one **Fatigue** _and_ add one **watch** to the journey. **Difficulty** increases one step.  | _Blizzards, freezing winds, flooding_                     |
-| **Catastrophic** | Most parties cannot travel under these conditions.                                                                        | _Tornados, tidal waves, hurricane, etc._                  |
+|  **Unpleasant**  | Gain one **Fatigue** _or_ add one **watch** to the journey.  | _Gusting winds, rain showers, sweltering heat, chill air_ |
+|  **Inclement**   | Gain one **Fatigue** _or_ add one **watch** to the journey. **Difficulty** increases by one step.      | _Thunderstorms & lightning, rain, muddy ground_           |
+|   **Extreme**    | Gain one **Fatigue** _and_ add one **watch** to the journey. **Difficulty** increases by one step.  | _Blizzards, freezing winds, flooding,mud slides                     |
+| **Catastrophic** | Most parties cannot travel under these conditions.                                                                        | _Tornados, tidal waves, hurricane, volcanic eruption_                  |
 
 ## Wilderness Actions
 ### Travel
