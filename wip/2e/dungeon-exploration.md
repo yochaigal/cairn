@@ -47,7 +47,7 @@ search_exclude: true
 ### Resting
 - A character can spend a turn **resting** to restore all **HP**.
 - A light source and a _safe location_ are required to **rest**. Present or oncoming danger make **rest** impossible.
-- **Resting** does not restore **Fatigue**, as it is imposisble to safely **Make Camp** in a dungeon.
+- **Resting** does not restore **Fatigue**, as it is impossible to safely **Make Camp** in a dungeon.
 
 ## Conditions
 ### Panic
