@@ -16,7 +16,6 @@ search_exclude: true
 ## General Notes
 - This conversion is based on The Stygian Library: Remastered
 - Archivist-Liches are based on Liches at [cairnrpg.com](https://cairnrpg.com).
-- 
 
 ## Locations
 
