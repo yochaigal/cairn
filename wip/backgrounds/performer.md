@@ -7,9 +7,9 @@ parent: Backgrounds
 grand_parent: WIP
 ---
 
-[![Alt text](/img/backgrounds/performer.jpg "East of the Sun and West of the Moon, illustrated by Kay Nielsen"){:height="60%" width="60%"}](/img/backgrounds/performer.jpg)
-
 # Performer
+
+> 
 
 ## Starting Gear
 
@@ -41,6 +41,3 @@ grand_parent: WIP
 | 4    |**Tome of Troubling Limericks** | These verses become less bawdy the further into the book you get, and become more and more harrowing. |
 | 5    |**Many Faced Mask** | This leather and plaster mask appears mundane, but every time it is slipped off it takes the countenance of a random creature of legend. |
 | 6    |**Stage Double** | Seeing as how you are out of work, your double also is. They continue to follow you day to day, but not without regularly complaining that you ruined their career. |
-
-## Add
-- Your mother was a reknowned actor, famed for her skill and wit. She died when you were quite young, but still it seems that you've inherited her talents. 

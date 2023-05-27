@@ -39,7 +39,3 @@ grand_parent: WIP
 | 4    | **Leaf-Wrapped Bundle**   | A small bundle of sacred herbs and offerings, wrapped in leaves and bound with twine. It represents your commitment to the groves and is used in rituals to honor the spirits of the Wood. |
 | 5    | **Spirit Stone**          | A smooth, polished stone with a spirit's essence bound within. It serves as a reminder of the power and responsibility that comes with being a Grove Warden, and a connection to the spirits of the Wood. |
 | 6    | **Warden's Whistle**      | A wooden whistle carved in the shape of an animal or bird native to the Wood. It is used to communicate with the spirits and other Grove Wardens, and to summon aid when needed. |
-
-## If you are the oldest character in the party, your whole group is in Debt to....
-
-The ancient spirits of the Wood, who require you to perform a sacred ritual in a long-forgotten grove to....

@@ -10,6 +10,8 @@ grand_parent: WIP
 
 # Background Name
 
+> Blurb
+
 ## Starting Gear
 
 - 3d6 gold pieces
@@ -37,5 +39,3 @@ grand_parent: WIP
 | **4** |     |
 | **5** |     |
 | **6** |     |
-
-## If you are the oldest character in the party, your whole group is in Debt to....

@@ -7,9 +7,9 @@ parent: Backgrounds
 grand_parent: WIP
 ---
 
-[![Alt text](/img/backgrounds/tinker.jpg "East of the Sun and West of the Moon, illustrated by Kay Nielsen"){:height="45%" width="45%"}](/img/backgrounds/tinker.jpg)
-
 # Tinker
+
+> 
 
 ## Starting Gear
 

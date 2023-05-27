@@ -43,6 +43,3 @@ grand_parent: WIP
 | 5    | **Pain Band** | Touch an injured creature while wearing it to transfer their wounds to you. They do not regain lost STR, but you do not lose any either. **Recharge**: Someone must die while wearing the ring.  |
 | 6    | **Poacher's Woe** | Creatures struck by these arrows leave behind a strong scent you can follow. d8 damage, 5 uses.  |
 
-## If you are the oldest character in the party, you are all in Debt to....
-
-**The Dawn Brigade**: They helped get you out, asking for only one thing in return: Cross the border. Deep in **The Marches** there is a glade of primrose and ash. In its center is a **Blood Flower**. You have three months to bring it to them before **The Bloodhounds** find you.

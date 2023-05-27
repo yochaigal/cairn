@@ -7,9 +7,9 @@ parent: Backgrounds
 grand_parent: WIP
 ---
 
-[![Alt text](/img/backgrounds/charlatan.jpg "East of the Sun and West of the Moon, illustrated by Kay Nielsen"){:height="45%" width="45%"}](/img/backgrounds/charlatan.jpg)
-
 # Charlatan
+
+>
 
 ## Starting Gear
 
