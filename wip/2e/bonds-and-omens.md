@@ -41,8 +41,7 @@ The goal is to encourage party cooperation, further questing, and character grow
 | **16**  | You carved a **whistle** from an **Oak Lord's** branch. Your act did not go unnoticed. You cannot seem to rid yourself of the whistle, either.                                                       |
 | **17**  | You inherited an old **journal**, bound in bark. Each evening, its pages are filled with the events of the day, crassly from the journal's perspective'. The writing is crude, but accurate.         |
 | **18**  |                                                                                                                                                                                                      |
-| **19**  |                                                                                                                                                                                                      |
-| **20**  |                                                                                                                                                                                                      |
+| **19**  | **20**                                                                                                                                                                                               |  
 
 
 ## Omens
