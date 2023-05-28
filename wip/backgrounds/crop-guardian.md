@@ -27,12 +27,12 @@ Seeder, Thresher, Dibber, Bracken, Barley, Sow, Stalk, Furrow, Till, Harrow, She
 
 |       |                                                                                                                                                                                                                                        |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | A voracious pest threatened the land, and you were unable to eradicate them. Take a vial of **sprayable poison** (4 STR damage, _blast_).                                                             |
-| **2** | You were sent to retrieve some rare and expensive components for a potentially invaluable pesticide. Take **explosive putty**.                                                                       |
-| **3** | A fellow guardian was slain and you must tell their only kin, a silent monk who lives deep in **The Woods**. Take their blood-stained **bone knife** (d8).                                           |
-| **4** | The crops are dying, but no one knows why. You were sent to find answers. Take a **diseased crop** that decays any plant it touches.                                                                 |
-| **5** | Their howls drew you deep into **The Woods**; you were hurt but did not die. You are a **werewolf** [15 STR, claws (d6+d6) or bite (d8)]. You turn at least once a month, or when making a critical damage save (affects still apply).  |
-| **6** | You failed your charge, and were sent away. Now you take work where you can find it. You were always good with a blade. Take a **hilted broadsword** (d8).                                            |
+| **1** | A voracious pest threatened the land, and you were unable to eradicate them. Take a vial of **sprayable poison** (4 STR damage, _blast_).                                                                                              |
+| **2** | You were sent to retrieve some rare and expensive components for a potentially invaluable pesticide. Take **explosive putty**.                                                                                                         |
+| **3** | A fellow guardian was slain and you must tell their only kin, a silent monk who lives deep in **The Woods**. Take their blood-stained **bone knife** (d8).                                                                             |
+| **4** | The crops are dying, but no one knows why. You were sent to find answers. Take a **diseased crop** that decays any plant it touches.                                                                                                   |
+| **5** | Their howls drew you deep into **The Woods**; you were hurt but did not die. You are a **werewolf** [15 STR, claws (d6+d6) or bite (d8)]. You turn at least once a month, or when making a critical damage save (affects still apply). |
+| **6** | You failed your charge, and were sent away. Now you take work where you can find it. You were always good with a blade. Take a **hilted broadsword** (d8).                                                                             |
 
 ## What tool of the trade do you always carry? Roll 1d6:
 
@@ -47,10 +47,11 @@ Seeder, Thresher, Dibber, Bracken, Barley, Sow, Stalk, Furrow, Till, Harrow, She
 
 ## What binds you?
 
-| **d6** | **Bond**                                                                                                                                                                                             |
-| **1**   | A former mentor is dying of a rare disease. The healing herbs they require are found only in **The Woods**, but are dangerous to acquire. Take a **waterproof pouch**.                        |
-| **2**   | A troubled spirit haunts the woods around your home village, refusing to rest until its death is avenged. Take a **fragment of glass** that always reflects the spirit's face.                       |
-| **3**   | You promised a childhood friend that you'd bring them back a rare gift, something unique in all the world. Take a **bracelet** woven from twine and wildflowers.                                     |
-| **4**   | A distant cousin left you a small inheritance. Take **20gp**, and an **ornate compass** that always points towards something deep in **The Woods**.  |
-| **5**   | You inherited an old **journal**, bound in bark. Each evening, its pages are filled with the events of the day, crassly from the journal's perspective'. The writing is crude, but accurate.                                      |
-| **6**   | The **Dawn Brigade** did your family a service, and gave you a dried blood-red flower as proof. If the flower turns white, it means the favor is owed.                                               |
+|       |                                                                                                                                                                                              |     |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| **1** | During your travels you met a dying hunter, who asked you to deliver a message to their loved ones. Take a **letter**, sealed with tree sap. It is addressed only to the **Lord of Winter**. |     |
+| **2** | A troubled spirit haunts the woods around your home village, refusing to rest until its death is avenged. Take a **fragment of glass** that always reflects the spirit's face.               |     |
+| **3** | You promised a childhood friend that you'd bring them back a rare gift, something unique in all the world. Take a **bracelet** woven from twine and wildflowers.                             |     |
+| **4** | A distant cousin left you a small inheritance. Take **20gp**, and an **ornate compass** that always points towards something deep in **The Woods**.                                          |     |
+| **5** | You inherited an old **journal**, bound in bark. Each evening, its pages are filled with the events of the day, crassly from the journal's perspective'. The writing is crude, but accurate. |     |
+| **6** | The **Dawn Brigade** did your family a service, and gave you a dried blood-red flower as proof. If the flower turns white, it means the favor is owed.                                       |     |
