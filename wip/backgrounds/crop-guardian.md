@@ -44,14 +44,3 @@ Seeder, Thresher, Dibber, Bracken, Barley, Sow, Stalk, Furrow, Till, Harrow, She
 | **4** | **Root Tether**    | When thrown, binds a wolf-sized creature to the soil for a short time.                                                                        |
 | **5** | **Greenwhistle**   | A small flute that calms plants, allowing you passage without needing to cut through first.                                                   |
 | **6** | **Everbloom Band** | A circlet adorned with flowers that never wilt, lest they are removed from the wrist. While wearing it, you cannot die. You can still suffer. |
-
-## What binds you?
-
-|       |                                                                                                                                                                                              |     |
-| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
-| **1** | During your travels you met a dying hunter, who asked you to deliver a message to their loved ones. Take a **letter**, sealed with tree sap. It is addressed only to the **Lord of Winter**. |     |
-| **2** | A troubled spirit haunts the woods around your home village, refusing to rest until its death is avenged. Take a **fragment of glass** that always reflects the spirit's face.               |     |
-| **3** | You promised a childhood friend that you'd bring them back a rare gift, something unique in all the world. Take a **bracelet** woven from twine and wildflowers.                             |     |
-| **4** | A distant cousin left you a small inheritance. Take **20gp**, and an **ornate compass** that always points towards something deep in **The Woods**.                                          |     |
-| **5** | You inherited an old **journal**, bound in bark. Each evening, its pages are filled with the events of the day, crassly from the journal's perspective'. The writing is crude, but accurate. |     |
-| **6** | The **Dawn Brigade** did your family a service, and gave you a dried blood-red flower as proof. If the flower turns white, it means the favor is owed.                                       |     |
