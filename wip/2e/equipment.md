@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Inventory
+title: Equipment
 grand_parent: WIP
 parent: 2e
 nav_exclude: true
 search_exclude: true
 ---
 
-# Inventory
+# Equipment
 
 ## Size
 
@@ -21,10 +21,10 @@ Most items take up one slot, unless otherwise indicated.
 The following PC has used 7 of 10 available slots. The Chalk and Net are bundled together in one slot.
 
 - Rations (3 uses)
-- Lantern (bulky, 6 uses)
+- Lantern (_bulky_, 6 uses)
 - Oil can
 - Sword (d6)
 - Gambeson (+1 Armor)
 - Chalk + Net 
-- Scarf (petty)
+- Scarf (_petty_)
 

@@ -13,7 +13,7 @@ grand_parent: WIP
 ## Starting Gear
 
 - 3d6 gold pieces
-- Three days' rations
+- Rations (3 uses)
 - Torch
 - Wooden quarterstaff (d6)
 - Herb pouch

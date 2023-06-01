@@ -17,8 +17,8 @@ Briar, Moss, Fern, Lichen, Root, Willow, Sage, Yarrow, Rowan, Ash
 
 ## Starting Gear
 
-- Three days' rations
-- Long-burning torch (4 uses)
+- Rations (3 uses)
+- Hornbeam torch (4 uses)
 - Bone knife (d6)
 - Restorative herbs
 

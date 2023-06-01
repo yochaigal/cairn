@@ -17,6 +17,7 @@ Rook, Ebon, Moro, Yew, Pall, Leth, Nix, Sable, Vesper, Rune
 ## Starting Gear
 
 - 3d6 gold pieces
+- Rations (3 uses)
 - Torch (3 uses)
 - Grave stake (d6)
 - Charm (_petty_, _Ward_ against undead, once per day)

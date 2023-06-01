@@ -14,7 +14,7 @@ grand_parent: WIP
 ## Starting Gear
 
 - 3d6 gold pieces
-- Three days' rations
+- Rations (3 uses)
 - Torch (3 lights)
 - Simple weapon (d6)
 - Medal or trophy for a past heroic deed

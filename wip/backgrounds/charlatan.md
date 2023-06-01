@@ -14,7 +14,7 @@ grand_parent: WIP
 ## Starting Gear
 
 - 3d6 gold pieces
-- Three days' rations
+- Rations (3 uses)
 - Torch
 - Fancy hat
 - Walking stick (d6)

@@ -17,7 +17,7 @@ Stone, Light, Gale, Frost, Thorn, Rill, Reed, Flint, Brook, Snow
 ## Starting Gear
 
 - 3d6 gold pieces
-- Three days' rations
+- Rations (3 uses)
 - Lantern & oil (bulky, 6 uses)
 - Shortsword (d6)
 - Worn leather cuirass (1 Armor)

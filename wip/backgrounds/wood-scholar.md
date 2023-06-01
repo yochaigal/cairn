@@ -13,7 +13,7 @@ grand_parent: WIP
 
 ## Starting Gear
 
-- Three days' rations
+- Rations (3 uses)
 - Lantern & oil (bulky, 6 uses)
 - Wooden staff (d6)
 - Leather-bound journal

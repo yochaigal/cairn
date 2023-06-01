@@ -12,7 +12,7 @@ grand_parent: WIP
 ## Starting Gear
 
 - 3d6 gold pieces
-- Three days' rations
+- Rations (3 uses)
 - Torch
 - Walking staff (d6)
 - A small keepsake from your past
