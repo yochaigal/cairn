@@ -1,5 +1,5 @@
 ---
-title: Crop Guardian
+title: Fieldwarden
 layout: default
 nav_exclude: true
 search_exclude: true
@@ -7,12 +7,12 @@ parent: Backgrounds
 grand_parent: WIP
 ---
 
-# Crop Guardian
+# Fieldwarden
 
-> You protect the harvest from pests, blight, and the creatures of **The Wood**. A position of great honor, while it lasts: many guardians do not live out their natural lives. 
+> Protectors of the harvest, standing against from pests, blight, and even creatures of **The Wood**. A position of great honor, while it lasts: many guardians do not live out their natural lives. 
 
-## Names
-Seeder, Thresher, Dibber, Bracken, Barley, Sow, Stalk, Furrow, Till, Harrow, Sheaf, Kernel, Cobb, Plow, Hull, Flax, Barrow, Winnow, Briar, Rye, Fallow
+## Name
+Seed, Thresh, Dibber, Sow, Stalk, Harrow, Cobb, Flax, Briar, Rye 
 
 ## Starting Gear
 
@@ -28,7 +28,7 @@ Seeder, Thresher, Dibber, Bracken, Barley, Sow, Stalk, Furrow, Till, Harrow, She
 |       |                                                                                                                                                                                                                                        |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1** | A voracious pest threatened the land, and you were unable to eradicate them. Take a vial of **sprayable poison** (4 STR damage, _blast_).                                                                                              |
-| **2** | You were sent to retrieve some rare and expensive components for a potentially invaluable pesticide. Take **explosive putty**.                                                                                                         |
+| **2** | You left in search of rare and expensive components for a potentially invaluable pesticide. Take **explosive putty**.                                                                                                         |
 | **3** | A fellow guardian was slain and you must tell their only kin, a silent monk who lives deep in **The Woods**. Take their blood-stained **bone knife** (d8).                                                                             |
 | **4** | The crops are dying, but no one knows why. You were sent to find answers. Take a **diseased crop** that decays any plant it touches.                                                                                                   |
 | **5** | Their howls drew you deep into **The Woods**; you were hurt but did not die. You are a **werewolf** [15 STR, claws (d6+d6) or bite (d8)]. You turn at least once a month, or when making a critical damage save (affects still apply). |
