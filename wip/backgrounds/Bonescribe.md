@@ -1,5 +1,5 @@
 ---
-title: Gravedigger
+title: Bonescribe
 layout: default
 nav_exclude: true
 search_exclude: true
@@ -7,28 +7,27 @@ parent: Backgrounds
 grand_parent: WIP
 ---
 
-# Gravedigger
+# Bonescribe
 
 > A silent shepherd to the departed, etching the last whispers of the dead into cold, unyielding earth. To fully celebrate the gift of life, we must honor its finale as well.
 
 ## Names
-
+Rook, Ebon, Moro, Yew, Pall, Leth, Nix, Sable, Vesper, Rune
 
 ## Starting Gear
 
 - 3d6 gold pieces
-- Three days’ rations
-- Torch
+- Torch (3 uses)
 - Grave stake (d6)
-- Charm (_Ward_ against undead, once per day)
+- Charm (_petty_, _Ward_ against undead, once per day)
 
-## What drove you from caring for the dead? Roll 1d6:
+## Why did you stop caring for the dead? Roll 1d6:
 
 |      |                                                              |
 | ---- | ------------------------------------------------------------ |
-| 1    | Shadowy, inhuman figures interrupted the private burial of a wealthy noble, taking the corpse and murdering the mourners. You were left alive, with no explanation given. Later you found a **crow-shaped token** in your pocket, which returns there each day at dawn, despite your attempts to lose it. With it, you may ask a fresh corpse any single questions and receive an answer in return (take 1 Fatigue). But remember, the dead do not necessarily speak the truth. |
-| 2    | You opened a forgotten crypt, releasing the long-dormant revenant trapped within. Although you survived your face was scarred, forever marking you as a pariah among civilized folk. Your physical form is now trapped in a state between life and death: you no longer require rations, nor do you need to breathe, but you can still be killed like any other. Your scar is usually obscured (hood, mask, etc) to avoid trouble from the living. The dead see you as one of their own. |
-| 3    | You were involved in a death cult, but fled after failing to pay the ultimate sacrifice: your life. Your formerly-living brethren are still in pursuit, their master's power growing by the day. Take a **Blood Pail**. Pour its contents into a mound of dirt to raise a **Shambling Warrior** (6 HP, 1 Armor, 13 STR, 11 DEX, 4 WIL). The creature is built of the objects buried below (bones, farming implements, etc), as is its weapon (d8 damage). It follows your command, and if destroyed, you permanently lose 1 STR. **Recharge**: Fill it with the blood of a dying warrior. |
+| 1    | Inhuman figures stole a noble's corpse, killing the attended mourners but leaving you alive. They left you **crow-shaped token** that lets you ask one question of the dead (take 1 Fatigue). Don't assume the Dead speak truly. |
+| 2    | You released a long-dormant **Revenant** from a forgotten tome. The experienced scarred you, leaving you a pariah amongst the living. You no longer breathe, nor do you require food. Of course, you can still die, but the dead now see you as one of their own. Your **Charm** acts as a _Ward_ against the living instead. |
+| 3    | You fled a death cult after failing to pay the ultimate sacrifice: your life. Your (now undead) brethren are still in pursuit, and their master's power is growing by the day. Take a **Blood Pail**. Pour its contents into a mound of dirt to raise a **Shambling Warrior** (6 HP, 1 Armor, 13 STR, 11 DEX, 4 WIL). The creature is built of the objects buried below (bones, farming implements, etc), as is its weapon (d8 damage). It follows your command, and if destroyed, you permanently lose 1 STR. **Recharge**: Fill it with the blood of a dying warrior. |
 | 4    | Obviously, the graveyard was haunted: everyone knew that. What you _didn't know_ was that the place was frequented by lycanthropes, meeting in great packs each month atop the hill. Fortunately you came prepared, but that wasn't enough - a scratch was all it took. You killed the blasted thing, but still a cure eludes you. Now you *shift* each full moon (WIL save to maintain control while changed) or when grievously injured (you lose control). While changed you appear as a very large wolf: 8 HP, 15 STR, 14 DEX, 6 WIL, claws (d6+d6) or bite (d8). Any left alive from your bite must make a WIL save to avoid infection. |
 | 5    | You took the job as a temporary measure, a first step towards wealth. Your role was simple: play as a grave tender, cleaning the family's tombs and taking care of the shrubbery. And on the date indicated let your friends into the family vault. You did your part, but your friends were caught and thrown in prison! Now you're on the run, your old life left behind forever. But it wasn't a total loss: you escaped with the getaway wagon (+8 slots, slow) and a stubborn old donkey (+4 slots, slow). If attached to the wagon, the donkey only holds +2 slots. |
 | 6    | Your family acted as caretakers for the dead, but only to those who worshipped their ancient, obscure deity. You were taught the rituals and principles of that faith, and for a time it brought meaning and purpose. As you grew older, a bitter realization wedged itself between you and your family: you no longer believed in their god. They cursed you for it, casting you out forever. Take a staff (d6) and the [_Frozen Corpse_](https://cairnrpg.com/resources/more-spellbooks/#frozen-corpse) spellbook. |

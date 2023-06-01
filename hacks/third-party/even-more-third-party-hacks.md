@@ -14,7 +14,7 @@ nav_order: 20
 * [**From The Mud**](https://cueinn.itch.io/fromthemud)
 * [**Liminal Horror**](https://goblinarchives.itch.io/liminal-horror)
 * [**Mangayaw**](https://mangayaw.carrd.co) by [Goobernuts](https://goobernutsblog.wordpress.com/)
-* [**Meteor**](https://discourse.rpgcauldron.com/t/meteor-corporate-sci-fi-cairn-hack-updated-to-version-0-2/729)
+* [**Meteor**](https://www.meteorrpg.com/)
 * [**Monolith**](https://adamhensley.itch.io/monolith)
 * [**NEANDERTAL**](https://natetreme.com/blog/neandertal)
 * [**Plerion**](https://plerion.zeruhur.space/)
