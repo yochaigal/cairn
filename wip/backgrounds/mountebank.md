@@ -1,5 +1,5 @@
 ---
-title: Charlatan
+title: Mountebank
 layout: default
 nav_exclude: true
 search_exclude: true
@@ -7,16 +7,20 @@ parent: Backgrounds
 grand_parent: WIP
 ---
 
-# Charlatan
+# Mountebank
 
->
+> Wits are your sharpest weapon, a facade the strongest shield. But when you lose, you lose badly. 
+
+## What do you call yourself?
+
+Montague, Ambrose, Lucius, Sterling, Beauregard, Cornelius, Percival, Crispin, Algernon, Sylvester
 
 ## Starting Gear
 
 - 3d6 gold pieces
 - Rations (3 uses)
-- Torch
-- Fancy hat
+- Torch (3 uses)
+- Fancy hat (_petty_)
 - Walking stick (d6)
 
 ## How was your fraud exposed?
@@ -40,7 +44,3 @@ grand_parent: WIP
 | **4** | **Goat Powder**                    | Derived from the placenta of a baby goat.  Temporarily cures any affliction, but symptoms return within hours. |
 | **5** | **Cursed Sapphire**                | Returns to your pocket each time you spend it. You can't seem to get rid of it, either. Valued at around 200gp. |
 | **6** | **Wooden Sword**                   | A wooden sheath with a fixed pommel, useful as a club (d6) or costume prop. Something jiggles inside. |
-
-## If you are the oldest character in the party, your whole group is in Debt to...
-
-The **Guild of Tricksters, Rapscallions, and Interlopers**. They demand that you either pay 1d4 years in backdated guild fees, or be booted from the organization, your personage besmirched forever. Also, they will take one of your thumbs as recompense. The trouble is, you can't remember actually _joining_ the Guild...   

@@ -9,13 +9,16 @@ grand_parent: WIP
 
 # Tinker
 
-> 
+> You carry the jingle of coins and the smell of molten metal to towns far and wide. Your cart full of wonders, solutions to problems no one knew they'd had. Not a mere merchant, but an artisan. 
+
+## Names
+Fergus, Eamon, Bram, Idris, Elara, Darragh, Seren, Rónán, Berek, Lorenz
 
 ## Starting Gear
 
 - 3d6 gold pieces
-- Three days’ rations
-- Torch
+- Rations (3 uses)
+- Torch (3 users)
 - Kettle
 - Helm (+1 Armor)
 
@@ -40,7 +43,4 @@ grand_parent: WIP
 | 4    |**Tinker's Paste** | Seals shut any fist-sized opening. 3 uses.     |
 | 5    |**Younger Sibling** | Create another character, but follow the [hireling](https://cairnrpg.com/cairn-srd/#hirelings) rules. They share your background, and will follow you to the ends of the earth. You are not necessarily related. |
 | 6    |**Riding Horse** | This powerful steed (hooves, d6) is fast and carries you +2 slots of goods as far as you wish. You must feed it one ration a day. |
-
-## If you are the oldest character in the party, your whole group is in Debt to....
-**Her Majesty's Royal Archivists**. After cleansing the lordship's crypt of several undead former monarchs you are now on the hook for destroying a valuable heirloom, the **Lantern of the Father**. By royal decree you must pay 500 gold pieces by season's end or suffer the consequences. Your group shares ownership over the aforementioned heirloom (*bulky*). It shines an ever-burning light whose radius no spirits can cross. It whispers the royal family's most lascivious secrets. 
 

@@ -31,7 +31,7 @@ Rook, Ebon, Moro, Yew, Pall, Leth, Nix, Sable, Vesper, Rune
 | **3** | You fled a death cult after getting cold feet. Your (now undead) brethren are still in pursuit, and their master's power is growing by the day. Take a **Blood Pail** (_bulky_). Empty its contents to summon a creature built from items buried below (bones, rocks, pottery, etc). The **Shambler** [6 HP, 1 Armor, 13 STR, 11 DEX, 4 WIL, shard fists (d8)] obeys your command but if destroyed _permanently_ subtracts 1 STR. **Recharge**: Fill the bucket with the blood of the dying. |
 | **4** | You tended to the family tomb as part of a failed heist that landed your friends in jail, and left you a fugitive. On the bright side, you escaped with the getaway **wagon** (+8 slots, slow) and a stubborn old **donkey** (+4 slots, slow). If attached to the wagon, the donkey only holds +2 slots. |
 | **5** | Once part of a family that served an obscure underworld deity, you lost your faith but retained its teachings. Cast out, you were allowed to take the  [_Frozen Corpse_](https://cairnrpg.com/resources/more-spellbooks/#frozen-corpse) spellbook with you, so that you may continue to serve, even as an apostate.
-| **6** | Plague struck your village, filling the graveyard beyond capacity. Alone and heartbroken, you fled. Take a **Plague Doctor's Mask** to protect against disease and other airborne toxins. |
+| **6** | Disease struck your village, filling the graveyard beyond capacity. Alone and heartbroken, you fled. Take a **plague doctor's mask** to protect against disease and other airborne toxins. |
 
 ## What did you take from the deceased? Roll 1d6:
 
