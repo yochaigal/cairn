@@ -1,5 +1,5 @@
 ---
-title: Fae Foundling
+title: Foundling
 layout: default
 nav_exclude: true
 search_exclude: true
@@ -7,10 +7,10 @@ parent: Backgrounds
 grand_parent: WIP
 ---
 
-**Fae Foundling**
+# Foundling
 
-> You were found in **The Woods** as an infant, swaddled in leaves and moonlight. A villager took you in, raising you as one of their own. Yet, whispers of your true nature have allows followed you, and the touch of the Fae lingers. Roll on the **Omens** table, but keep the result private (for now).
-
+> Taken in, strange as you are. An odd birthmark, a strange smell: a touch of **The Woods** still lingers, even now. You'll never fit in, not here. Roll on the **Omens** table, but keep the results private (for now).
+ 
 ## Names
 
 Faunus, Snowdrop, Wisp, Silverdew, Thistle, Solstice, Moondance, Starbloom, Gossamer, Hazel
@@ -20,21 +20,20 @@ Faunus, Snowdrop, Wisp, Silverdew, Thistle, Solstice, Moondance, Starbloom, Goss
 - 3d6 gold pieces
 - Rations (3 uses)
 - Torch (3 uses)
-- Carving knife (d6)
-- Slingshot (d6) or Woodcutter's axe (d8, bulky)
+- Slingshot (d6) 
 
-## What drew you from your village? Roll 1d6:
+## Who found you? Roll 1d6:
 
 |       |                                                                                                                                                                     |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | A strange illness struck your village, and the cure lies deep within **The Woods**. Take a **vial of sickly essence** from an afflicted villager.                   |
-| **2** | You were sent on a quest by the village elder to find a long-lost Fae artifact. Take a **parchment with a cryptic riddle** that may lead you to it.                 |
-| **3** | The Fae creatures you've befriended in **The Woods** have warned you of a coming threat to your village. Take a **feather quill** gifted by a wise raven.           |
-| **4** | You wish to learn more about your Fae heritage and find your true family. Take a **locket** with a mysterious symbol that could be a clue to your origins.          |
-| **5** | Fellow villagers believed your nature brought them bad luck. You left to prove your worth and clear your name. Take a **four-leaf clover** for good fortune.     |
-| **6** | A powerful Fae creature has taken an interest in you, sending you cryptic messages in your dreams. Take a **lucid dreamcatcher** that might help you decipher them. |
+| **1** | An old hunter living a quiet life at the edge of **The Woods**. You were both happy there, even at the end. There is nothing there for you now. Take a **weathered longbow** (d8, _bulky_), and an old woolen cloak (_petty_).  |
+| **2** |              |
+| **3** |        |
+| **4** |       |
+| **5** |    |
+| **6** | |
 
-## What Fae charm do you always carry? Roll 1d6:
+## What charm do you always carry? Roll 1d6:
 
 |       |                     |                                                                                                                     |
 | ----- | ------------------- | ------------------------------------------------------------------------------------------------------------------- |
