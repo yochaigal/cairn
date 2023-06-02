@@ -1,5 +1,5 @@
 ---
-title: Gespendwald
+title: Gespenwald
 parent: Originals
 layout: default
 grand_parent: Adventures
