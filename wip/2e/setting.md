@@ -146,10 +146,10 @@ To help create your setting's theme, answer the following questions:
 | **3**   | **City**       |
 | **4**   | **Commune**    |
 | **5**   | **Inn**        |
-| **6**   | **Outpost**    |
-| **7**   | **Prison**     |
-| **8**   | **Sanctuary**  |
-| **9**   | **Settlement** |
+| **6**   | **Monastery**  |
+| **7**   | **Outpost**    |
+| **8**   | **Prison**     |
+| **9**   | **Refuge**     |
 | **10**  | **Stronghold** |
 | **11**  | **Town**       |
 | **12**  | **Villa**      |
