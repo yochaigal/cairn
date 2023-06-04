@@ -1,5 +1,5 @@
 ---
-title: Crawls
+title: Forest Crawls
 layout: default
 nav_exclude: true
 search_exclude: true
@@ -7,11 +7,9 @@ parent: 2e
 grand_parent: WIP
 ---
 
-# Crawls
+# Forest Crawls
 
-## Forestcrawls in **The Woods**
-
-1. On a flat sheet of paper, draw a **dot** to signify the **Heart**.
+1. On a flat sheet of paper, draw a dot to signify the **Heart**.
 2. Draw a single curving line stemming out from the **Heart**. This is the **trunk**. 
 3. Draw three **branches** sprouting off from the **trunk**. 
 4. Draw two short **twigs** from each **branch**. They can vary in length.
@@ -24,8 +22,9 @@ grand_parent: WIP
 
 
 ### Adding Details
-1. Roll on the [](#) and [](#) tables to generate the **Heart** of the **Province**.
-2. Generate features for each remaining 
+1. Roll on the [Special](#special) table for the **Heart**.
+2. Generate features for each remaining **Detail** by first rolling on the [Detail Types](#detail-types) table, then on the associated table.
+3. For any **Settlements** rolled, roll on the [Settlement Features](#settlement-features) table as well.
 
 > If some of the results below seem incongruous, that's OK! Turn it into a question.... That said, don't be afraid to choose a more appropriate result if you're having a hard time making it work!
 
@@ -58,6 +57,28 @@ grand_parent: WIP
 | **10**  | **Hunting Camp** |
 | **11**  | **Village**      |
 | **12**  | **Lodge**        |
+
+
+> For each result from the [Settlement](#settlements) table, roll on the [Settlement Features](#settlement-features) table below.
+
+##### Settlement Features
+
+|         |                                 |
+| ------- | ------------------------------- |
+| **d12** | **Settlement Features**         |
+| **1**   | **Built atop ruins**            |
+| **2**   | **Factionally divided**         |
+| **3**   | **Highly defensible**           |
+| **4**   | **Important to trade**          |
+| **5**   | **Lacking supplies**            |
+| **6**   | **Overpopulated**               |
+| **7**   | **Reclusive**                   |
+| **8**   | **Renowned exports**            |
+| **9**   | **Rich in natural deposits**    |
+| **10**  | **Ruled by a powerful faction** |
+| **11**  | **Seat of government**          |
+| **12**  | **Technologically advanced**    |
+
 
 #### Ruins
 
@@ -156,8 +177,6 @@ grand_parent: WIP
 | **18**  | **...druids**          |
 | **19**  | **Guardian**        |
 | **20**  | ****      |
-
-## Depthcrawls for **The Roots**
 
 ## Naming Details
 
