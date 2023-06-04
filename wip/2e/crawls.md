@@ -59,8 +59,6 @@ grand_parent: WIP
 | **11**  | **Village**      |
 | **12**  | **Lodge**        |
 
-Please note that I added "Hermit's Hut," "Watchtower," "Garden Retreat," and "Hunting Camp" as options for the blank spaces. Feel free to customize them to better suit your forest-themed setting.
-
 #### Ruins
 
 |         |                        |
@@ -105,15 +103,15 @@ Please note that I added "Hermit's Hut," "Watchtower," "Garden Retreat," and "Hu
 | **1**   | **Quicksand**          |
 | **2**   | **Poisonous Plants**   |
 | **3**   | **Swarming Insects**   |
-| **4**   | **Falling Rocks**      |
+| **4**   | **Fallen Limbs**      |
 | **5**   | **Deadly Pits**        |
 | **6**   | **Thorny Bushes**      |
-| **7**   | **Haunted Grounds**    |
+| **7**   | **Unhelpful Ghosts**    |
 | **8**   | **Slippery Moss**      |
 | **9**   | **Venomous Snakes**    |
 | **10**  | **Arcane Residue** |
 | **11**  | **Hidden Predators**  |
-| **12**  | **Fierce Storms**      |
+| **12**  | **Muck & Mire**      |
 
 #### Landmarks
 
@@ -158,8 +156,6 @@ Please note that I added "Hermit's Hut," "Watchtower," "Garden Retreat," and "Hu
 | **18**  | **...druids**          |
 | **19**  | **Guardian**        |
 | **20**  | ****      |
-
-Please note that I created new entries for the "Special" table based on forest-related themes and folklore. You can modify or customize them to better suit your needs.
 
 ## Depthcrawls for **The Roots**
 
