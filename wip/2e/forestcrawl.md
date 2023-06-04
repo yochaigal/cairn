@@ -1,5 +1,5 @@
 ---
-title: Forest Crawls
+title: Forestcrawls
 layout: default
 nav_exclude: true
 search_exclude: true
@@ -7,7 +7,7 @@ parent: 2e
 grand_parent: WIP
 ---
 
-# Forest Crawls
+# Forestcrawl
 
 1. On a flat sheet of paper, draw a dot to signify the **Heart**.
 2. Draw a single curving line stemming out from the **Heart**. This is the **trunk**. 

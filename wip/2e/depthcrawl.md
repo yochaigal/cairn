@@ -1,5 +1,5 @@
 ---
-title: Forest Crawls
+title: Depthcrawls
 layout: default
 nav_exclude: true
 search_exclude: true
@@ -7,7 +7,7 @@ parent: 2e
 grand_parent: WIP
 ---
 
-# Forest Crawls
+# Depthcrawl
 
 1. On a flat sheet of paper, draw a dot to signify the **Heart**.
 2. 
