@@ -1,5 +1,5 @@
 ---
-title: Forestcrawls
+title: Forestcrawl
 layout: default
 nav_exclude: true
 search_exclude: true
@@ -18,13 +18,13 @@ grand_parent: WIP
 
 ## Details
 - Each dot on the map is one **Detail**. **Details** act as [**Points**](/wip/2e/wilderness-exploration/#points) according to the [**Wilderness Exploration**](/wip/2e/wilderness-exploration) rules. Keep in mind how many **Watches** it might take to travel to each **Detail**. 
-- The **Heart** of a forest is....
-
+- The **Heart** of a forest can be any **Detail**. It is here that the forest is most powerful, most conscious, and most dangerous. 
 
 ### Adding Details
 1. Roll on the [Special](#special) table for the **Heart**.
 2. Generate features for each remaining **Detail** by first rolling on the [Detail Types](#detail-types) table, then on the associated table.
 3. For any **Settlements** rolled, roll on the [Settlement Features](#settlement-features) table as well.
+4. For every **branch**, roll on the [Trail Marker](#trail-marker) table.  
 
 > If some of the results below seem incongruous, that's OK! Turn it into a question.... That said, don't be afraid to choose a more appropriate result if you're having a hard time making it work!
 
@@ -184,6 +184,18 @@ grand_parent: WIP
 | **18**  | **Massive Hive**          |
 | **19**  | **Guardian**              |
 | **20**  | **Bloom Field**           |
+
+#### Trail Marker
+
+|        |                     |
+| ------ | ------------------- |
+| **d6** | **Marker**          |
+| **1**  | **Animals**         |
+| **2**  | **Illegible**       |
+| **3**  | **Fae Passage**     |
+| **4**  | **Bandit's Run**    |
+| **5**  | **Pilgrim's Route** |
+| **6**  | **Logging Road**    |
 
 ## Naming Details
 
