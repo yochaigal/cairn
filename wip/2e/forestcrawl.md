@@ -10,10 +10,10 @@ grand_parent: WIP
 # Forestcrawl
 
 1. On a flat sheet of paper, draw a dot to signify the **Heart**.
-2. Draw a single curving line stemming out from the **Heart**. This is the **trunk**. 
-3. Draw three **branches** sprouting off from the **trunk**. 
-4. Draw two short **twigs** from each **branch**. They can vary in length.
-5. Place a dot wherever lines intersect, e.g. when a **branch** meets the **trunk** or a **twig** _and_ at the terminus of every line.
+2. Draw a single curving line stemming out from the **Heart**. This is the **Trunk**. 
+3. Draw three **Branches** sprouting off from the **Trunk**. 
+4. Draw two short **Twigs** from each **Branch**. They can vary in length.
+5. Place a dot wherever lines intersect, e.g. when a **Branch** meets the **Trunk** or a **twig** _and_ at the terminus of every line.
 6. Number each dot, starting with the **Heart**. 
 
 ## Details
@@ -24,7 +24,7 @@ grand_parent: WIP
 1. Roll on the [Special](#special) table for the **Heart**.
 2. Generate features for each remaining **Detail** by first rolling on the [Detail Types](#detail-types) table, then on the associated table.
 3. For any **Settlements** rolled, roll on the [Settlement Features](#settlement-features) table as well.
-4. For every **branch**, roll on the [Trail Marker](#trail-marker) table. Trails modifiers are based on the [Terrain Difficulty](/wip/2e/wilderness-exploration/#terrain-difficulty) rules. **E** = Easy, **T** = Tough, **P** = Perilous.  
+4. For the **Trunk** and for every **Branch**, roll on the [Trail Marker](#trail-marker) table. **Twigs** simply use the same trail type as their respective **Branches**. Trail modifiers are based on the [Terrain Difficulty](/wip/2e/wilderness-exploration/#terrain-difficulty) rules. **E** = _Easy_, **T** = _Tough_, **P** = _Perilous_.  
 
 > If some of the results below seem incongruous, that's OK! Turn it into a question.... That said, don't be afraid to choose a more appropriate result if you're having a hard time making it work!
 

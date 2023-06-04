@@ -60,7 +60,7 @@ To help create your setting's theme, answer the following questions:
 
 ### Adding Terrain
 1. Roll on the [Terrain](#terrain) table below for each numbered dot, starting with the **Heart**. 
-2. Terrain modifiers are based on the [Terrain Difficulty](/wip/2e/wilderness-exploration/#terrain-difficulty) rules. **E** = Easy, **T** = Tough, **P** = Perilous.
+2. Terrain modifiers are based on the [Terrain Difficulty](/wip/2e/wilderness-exploration/#terrain-difficulty) rules. **E** = _Easy_, **T** = _Tough_, **P** = _Perilous_.
 3. Draw or indicate the terrain for each dot on the map.
 
 #### Terrain
