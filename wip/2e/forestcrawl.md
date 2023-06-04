@@ -13,7 +13,7 @@ grand_parent: WIP
 2. Draw a single curving line stemming out from the **Heart**. This is the **Trunk**. 
 3. Draw three **Branches** sprouting off from the **Trunk**. 
 4. Draw two short **Twigs** from each **Branch**. They can vary in length.
-5. Place a dot wherever lines intersect, e.g. when a **Branch** meets the **Trunk** or a **twig** _and_ at the terminus of every line.
+5. Place a dot wherever lines intersect, e.g. when a **Branch** meets the **Trunk** or a **Twig** _and_ at the terminus of every line.
 6. Number each dot, starting with the **Heart**. 
 
 ## Details
