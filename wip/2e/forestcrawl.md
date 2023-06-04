@@ -24,7 +24,7 @@ grand_parent: WIP
 1. Roll on the [Special](#special) table for the **Heart**.
 2. Generate features for each remaining **Detail** by first rolling on the [Detail Types](#detail-types) table, then on the associated table.
 3. For any **Settlements** rolled, roll on the [Settlement Features](#settlement-features) table as well.
-4. For every **branch**, roll on the [Trail Marker](#trail-marker) table.  
+4. For every **branch**, roll on the [Trail Marker](#trail-marker) table. Trails modifiers are based on the [Terrain Difficulty](/wip/2e/wilderness-exploration/#terrain-difficulty) rules. **E** = Easy, **T** = Tough, **P** = Perilous.  
 
 > If some of the results below seem incongruous, that's OK! Turn it into a question.... That said, don't be afraid to choose a more appropriate result if you're having a hard time making it work!
 
@@ -63,29 +63,29 @@ grand_parent: WIP
 
 ##### Settlement Features
 
-|         |                                                  |
-| ------- | ------------------------------------------------ |
-| **d20** | **Settlement Features**                          |
-| **1**   | **Home to a unique species**                     |
-| **2**   | **Known for its hospitality**                    |
-| **3**   | **Besieged by a natural threat**                 |
-| **4**   | **Steeped in ancient tradition**                 |
-| **5**   | **Guarded by a mystical barrier**                |
-| **6**   | **Constructed within a giant tree**              |
-| **7**   | **Built sacred grounds**                         |
-| **8**   | **Built atop ruins**                             |
-| **9**   | **Contains a powerful artifact**                 |
-| **10**  | **Known for its elaborate defenses**             |
-| **11**  | **Host to a renowned artisan**                   |
-| **12**  | **Rumored to be cursed**                         |
-| **13**  | **Guarded by trained beasts**                    |
-| **14**  | **Mystically protected**                         |
-| **15**  | **Renowned for its scholars**                    |
-| **16**  | **Famous for a festival**                        |
-| **17**  | **Reclusive**                                    |
-| **18**  | **Home to a famous hero**                        |
-| **19**  | **Secretly controlled by a supernatural entity** |
-| **20**  | **Seat of government**                           |
+|         |                                         |
+| ------- | --------------------------------------- |
+| **d20** | **Settlement Features**                 |
+| **1**   | **Home to a unique species**            |
+| **2**   | **Known for its hospitality**           |
+| **3**   | **Besieged by a natural threat**        |
+| **4**   | **Steeped in ancient tradition**        |
+| **5**   | **Guarded by a mystical barrier**       |
+| **6**   | **Constructed within a giant tree**     |
+| **7**   | **Built sacred grounds**                |
+| **8**   | **Built atop ruins**                    |
+| **9**   | **Contains a powerful artifact**        |
+| **10**  | **Known for its elaborate defenses**    |
+| **11**  | **Host to a renowned artisan**          |
+| **12**  | **Rumored to be cursed**                |
+| **13**  | **Guarded by trained beasts**           |
+| **14**  | **Mystically protected**                |
+| **15**  | **Renowned for its scholars**           |
+| **16**  | **Famous for a festival**               |
+| **17**  | **Reclusive and suspicious**            |
+| **18**  | **Home to a famous hero**               |
+| **19**  | **Controlled by a supernatural entity** |
+| **20**  | **Reknowned scholars**                  |
 
 #### Ruins
 
@@ -187,15 +187,15 @@ grand_parent: WIP
 
 #### Trail Marker
 
-|        |                     |
-| ------ | ------------------- |
-| **d6** | **Marker**          |
-| **1**  | **Animals**         |
-| **2**  | **Illegible**       |
-| **3**  | **Fae Passage**     |
-| **4**  | **Bandit's Run**    |
-| **5**  | **Pilgrim's Route** |
-| **6**  | **Logging Road**    |
+|        |                         |
+| ------ | ----------------------- |
+| **d6** | **Marker**              |
+| **1**  | **Animal Path (T)**     |
+| **2**  | **Illegible (?)**       |
+| **3**  | **Fae Passage (P)**     |
+| **4**  | **Bandit's Run (T)**    |
+| **5**  | **Pilgrim's Route (E)** |
+| **6**  | **Logging Road (E)**    |
 
 ## Naming Details
 
