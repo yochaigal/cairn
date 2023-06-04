@@ -2,7 +2,7 @@
 layout: default
 title: Third Party Links
 parent: Resources
-nav_order: 11
+nav_order: 10
 ---
 
 # Third Party Links
@@ -12,6 +12,7 @@ nav_order: 11
 Chris McDowall created Into The Odd and Electric Bastionland, Cairn owes 90% of its rules to him. Here are some of his most impactful posts:
 
 - [How I Run Into The Odd](https://www.bastionland.com/2015/09/how-i-run-into-odd.html)
+- [The ICI Doctrine](https://www.bastionland.com/2018/09/the-ici-doctrine-information-choice.html)
 - [Difficulty in Bastionland](https://www.bastionland.com/2020/03/difficulty-in-bastionland.html)
 - [Foreground Growth and Becoming Odd](https://www.bastionland.com/2016/05/foreground-growth-and-becoming-odd.html)
 - [Three Step Dungeons](https://www.bastionland.com/2018/10/three-step-dungeons.html)
@@ -45,3 +46,11 @@ Sam is the author of Skorne and Adventure Hour, and writes on Into The Odd (and 
 - [Focus on the World](https://dreamingdragonslayer.wordpress.com/2021/08/25/focus-on-the-world-development/)
 - [Odd Notaion: Monsters](https://dreamingdragonslayer.wordpress.com/2023/01/22/odd-notation-monsters/)
 - [Knowledge and Perception](https://dreamingdragonslayer.wordpress.com/2021/09/18/knowledge-and-perception-with-examples/)
+
+## Videos
+
+- Yochai Gal: ["Barrow of the Elf King"](https://www.youtube.com/watch?v=e3N4pqHIEwQ) (Actual Play with Warden commentary)
+- Dieku Games: ["Use Cairn to Design Your RPG"](https://www.youtube.com/watch?v=DrnucqJXuSo)
+- Bob World Builder ["The easiest DnD like RPG"](https://www.youtube.com/watch?v=nJ8MnckBn9I)
+- Tabletop Sandbox: ["D&D 5e has two many rules"](https://youtu.be/FGyB4Y4pFP4)
+- By Odin's Beard: ["How is Cairn Different from D&D 5e"](https://www.youtube.com/watch?v=3vQTAa8rIzg)
