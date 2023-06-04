@@ -45,11 +45,11 @@ grand_parent: WIP
 |         |                  |
 | ------- | ---------------- |
 | **d12** | **Settlement**   |
-| **1**   | **Night Market**       |
-| **2**   | ****       |
+| **1**   | **Night Market** |
+| **2**   | **Lumber Site**  |
 | **3**   | **Megalith**     |
-| **4**   | **** |
-| **5**   | ****   |
+| **4**   | ****             |
+| **5**   | ****             |
 | **6**   | **Outpost**      |
 | **7**   | **Enclave**      |
 | **8**   | **Cottage**      |
@@ -79,24 +79,23 @@ grand_parent: WIP
 | **11**  | **Seat of government**          |
 | **12**  | **Technologically advanced**    |
 
-
 #### Ruins
 
-|         |                        |
-| ------- | ---------------------- |
-| **d12** | **Ruins**              |
-| **1**   | ****                   |
-| **2**   | **Sunken Castle**      |
-| **3**   | **Fallen Tower**       |
-| **4**   | ****                   |
-| **5**   | ****                   |
-| **6**   | ****                   |
-| **7**   | **Abbey**              |
-| **8**   | ****                   |
-| **9**   | **Collapsed Megalith** |
-| **10**  | **Decayed Mansion**    |
-| **11**  | **Blighted Sanctuary** |
-| **12**  | **Derelict Monastery** |
+|         |                         |
+| ------- | ----------------------- |
+| **d12** | **Ruins**               |
+| **1**   | **Forgotten Temple**    |
+| **2**   | **Sunken Castle**       |
+| **3**   | **Fallen Tower**        |
+| **4**   | **Crumbled Crypt**      |
+| **5**   | **Overgrown Fort**      |
+| **6**   | **Abandoned Manor**     |
+| **7**   | **Mossy Arch**          |
+| **8**   | **Dilapidated Ruins**   |
+| **9**   | **Collapsed Megalith**  |
+| **10**  | **Cracked Observatory** |
+| **11**  | **Rotted Mill**         |
+| **12**  | **Derelict Monastery**  |
 
 #### Lairs
 
@@ -118,65 +117,65 @@ grand_parent: WIP
 
 #### Hazards
 
-|         |                        |
-| ------- | ---------------------- |
-| **d12** | **Hazard**             |
-| **1**   | **Quicksand**          |
-| **2**   | **Poisonous Plants**   |
-| **3**   | **Swarming Insects**   |
-| **4**   | **Fallen Limbs**      |
-| **5**   | **Deadly Pits**        |
-| **6**   | **Thorny Bushes**      |
+|         |                         |
+| ------- | ----------------------- |
+| **d12** | **Hazard**              |
+| **1**   | **Quicksand**           |
+| **2**   | **Poisonous Plants**    |
+| **3**   | **Swarming Insects**    |
+| **4**   | **Knight's Challenge**  |
+| **5**   | **Deadly Hollows**      |
+| **6**   | **Thorny Thickets**     |
 | **7**   | **Unhelpful Ghosts**    |
-| **8**   | **Slippery Moss**      |
-| **9**   | **Venomous Snakes**    |
-| **10**  | **Arcane Residue** |
-| **11**  | **Hidden Predators**  |
-| **12**  | **Muck & Mire**      |
+| **8**   | **Slippery Moss**       |
+| **9**   | **Venomous Snakes**     |
+| **10**  | **Arcane Residue**      |
+| **11**  | **Hidden Predators**    |
+| **12**  | **Relentless Darkness** |
 
 #### Landmarks
 
-|         |                                       |
-| ------- | ------------------------------------- |
-| **d12** | **Landmark**                          |
-| **1**   | **Enormous Tree**                      |
-| **2**   | **Waterfall**                  |
-| **3**   | **Giant Mushroom**                    |
-| **4**   | **Unusual Grove**                   |
-| **5**   | **Massive Stone Circle**               |
-| **6**   | **Burial Glade**                   |
-| **7**   | ****                  |
-| **8**   | **Deep Pond**                      |
-| **9**   | **Fairy Ring**                        |
-| **10**  | **Flickering Lights**                 |
-| **11**  | **Cathedral of Trees**                |
-| **12**  | **Overgrown Ruins** |
+|         |                          |
+| ------- | ------------------------ |
+| **d12** | **Landmark**             |
+| **1**   | **Enormous Tree**        |
+| **2**   | **Waterfall**            |
+| **3**   | **Giant Mushroom**       |
+| **4**   | **Old Timber Mill**      |
+| **5**   | **Massive Stone Circle** |
+| **6**   | **Burial Glade**         |
+| **7**   | **Perilous Bridge**      |
+| **8**   | **Deep Pond**            |
+| **9**   | **Fairy Ring**           |
+| **10**  | **Flickering Lights**    |
+| **11**  | **Cathedral of Trees**   |
+| **12**  | **Overgrown Ruins**      |
 
 #### Special
 
-|         |                             |
-| ------- | --------------------------- |
-| **d20** | **Special**                 |
-| **1**   | **..Grove**        |
-| **2**   | **Lost Altar**              |
-| **3**   | **Spirits**         |
-| **4**   | **Fey Nexus**               |
-| **5**   | **Will-o'-Wisps**   |
-| **6**   | **... Spring**          |
-| **7**   | ****  |
-| **8**   | **Goblin Market**           |
-| **9**   | **Sentient Tree**       |
-| **10**  | ****        |
-| **11**  | ****     |
-| **12**  | **Celestial Observatory**   |
-| **13**  | **Living Tapestry**         |
-| **14**  | **Fae Gate**          |
-| **15**  | ****    |
-| **16**  | **Singing Tree**            |
-| **17**  | **... Spirits**       |
-| **18**  | **...druids**          |
-| **19**  | **Guardian**        |
-| **20**  | ****      |
+|         |                           |
+| ------- | ------------------------- |
+| **d20** | **Special**               |
+| **1**   | **..Grove**               |
+| **2**   | **Lost Altar**            |
+| **3**   | **Spirits**               |
+| **4**   | **Fey Nexus**             |
+| **5**   | **Will-o'-Wisps**         |
+| **6**   | **... Spring**            |
+| **7**   | ****                      |
+| **8**   | **Goblin Market**         |
+| **9**   | **Sentient Tree**         |
+| **10**  | **Secret Cache**          |
+| **11**  | ****                      |
+| **12**  | **Celestial Observatory** |
+| **13**  | **Living Tapestry**       |
+| **14**  | **Fae Gate**              |
+| **15**  | ****                      |
+| **16**  | **Singing Tree**          |
+| **17**  | **... Spirits**           |
+| **18**  | **...druids**             |
+| **19**  | **Guardian**              |
+| **20**  | ****                      |
 
 ## Naming Details
 
