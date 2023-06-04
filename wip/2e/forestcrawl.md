@@ -42,42 +42,50 @@ grand_parent: WIP
 
 #### Settlements
 
-|         |                  |
-| ------- | ---------------- |
-| **d12** | **Settlement**   |
-| **1**   | **Night Market** |
-| **2**   | **Lumber Site**  |
-| **3**   | **Megalith**     |
-| **4**   | ****             |
-| **5**   | ****             |
-| **6**   | **Outpost**      |
-| **7**   | **Enclave**      |
-| **8**   | **Cottage**      |
-| **9**   | **Retreat**      |
-| **10**  | **Hunting Camp** |
-| **11**  | **Village**      |
-| **12**  | **Lodge**        |
+|         |                       |
+| ------- | --------------------- |
+| **d12** | **Settlement**        |
+| **1**   | **Night Market**      |
+| **2**   | **Lumber Site**       |
+| **3**   | **Druid Circle**      |
+| **4**   | **Hermit's Hut**      |
+| **5**   | **Treehouse**         |
+| **6**   | **Ranger's Outpost**  |
+| **7**   | **Hidden Refuge**     |
+| **8**   | **Quaint Cottage**    |
+| **9**   | **Monastic Retreat**  |
+| **10**  | **Ranger Encampment** |
+| **11**  | **Leafy Village**     |
+| **12**  | **Hunter's Lodge**    |
 
 
 > For each result from the [Settlement](#settlements) table, roll on the [Settlement Features](#settlement-features) table below.
 
 ##### Settlement Features
 
-|         |                                 |
-| ------- | ------------------------------- |
-| **d12** | **Settlement Features**         |
-| **1**   | **Built atop ruins**            |
-| **2**   | **Factionally divided**         |
-| **3**   | **Highly defensible**           |
-| **4**   | **Important to trade**          |
-| **5**   | **Lacking supplies**            |
-| **6**   | **Overpopulated**               |
-| **7**   | **Reclusive**                   |
-| **8**   | **Renowned exports**            |
-| **9**   | **Rich in natural deposits**    |
-| **10**  | **Ruled by a powerful faction** |
-| **11**  | **Seat of government**          |
-| **12**  | **Technologically advanced**    |
+|         |                                                  |
+| ------- | ------------------------------------------------ |
+| **d20** | **Settlement Features**                          |
+| **1**   | **Home to a unique species**                     |
+| **2**   | **Known for its hospitality**                    |
+| **3**   | **Besieged by a natural threat**                 |
+| **4**   | **Steeped in ancient tradition**                 |
+| **5**   | **Guarded by a mystical barrier**                |
+| **6**   | **Constructed within a giant tree**              |
+| **7**   | **Built sacred grounds**                         |
+| **8**   | **Built atop ruins**                             |
+| **9**   | **Contains a powerful artifact**                 |
+| **10**  | **Known for its elaborate defenses**             |
+| **11**  | **Host to a renowned artisan**                   |
+| **12**  | **Rumored to be cursed**                         |
+| **13**  | **Guarded by trained beasts**                    |
+| **14**  | **Mystically protected**                         |
+| **15**  | **Renowned for its scholars**                    |
+| **16**  | **Famous for a festival**                        |
+| **17**  | **Reclusive**                                    |
+| **18**  | **Home to a famous hero**                        |
+| **19**  | **Secretly controlled by a supernatural entity** |
+| **20**  | **Seat of government**                           |
 
 #### Ruins
 
@@ -91,7 +99,7 @@ grand_parent: WIP
 | **5**   | **Overgrown Fort**      |
 | **6**   | **Abandoned Manor**     |
 | **7**   | **Mossy Arch**          |
-| **8**   | **Dilapidated Ruins**   |
+| **8**   | **Shattered Bridge**    |
 | **9**   | **Collapsed Megalith**  |
 | **10**  | **Cracked Observatory** |
 | **11**  | **Rotted Mill**         |
@@ -156,26 +164,26 @@ grand_parent: WIP
 |         |                           |
 | ------- | ------------------------- |
 | **d20** | **Special**               |
-| **1**   | **..Grove**               |
+| **1**   | **Fae Observatory**       |
 | **2**   | **Lost Altar**            |
 | **3**   | **Spirits**               |
 | **4**   | **Fey Nexus**             |
 | **5**   | **Will-o'-Wisps**         |
-| **6**   | **... Spring**            |
-| **7**   | ****                      |
+| **6**   | **Time-Distorted Grove**  |
+| **7**   | **Dreaming Stones**       |
 | **8**   | **Goblin Market**         |
 | **9**   | **Sentient Tree**         |
 | **10**  | **Secret Cache**          |
-| **11**  | ****                      |
+| **11**  | **Elf Queen's Pavilion**  |
 | **12**  | **Celestial Observatory** |
 | **13**  | **Living Tapestry**       |
 | **14**  | **Fae Gate**              |
-| **15**  | ****                      |
+| **15**  | **Ward Circle**           |
 | **16**  | **Singing Tree**          |
-| **17**  | **... Spirits**           |
-| **18**  | **...druids**             |
+| **17**  | **Fungus Grotto**         |
+| **18**  | **Massive Hive**          |
 | **19**  | **Guardian**              |
-| **20**  | ****                      |
+| **20**  | **Bloom Field**           |
 
 ## Naming Details
 
@@ -228,46 +236,3 @@ grand_parent: WIP
 | **64**  | Majestic      | Pine        |
 | **65**  | Verdant       | Moss        |
 | **66**  | Sacred        | Woodland    |
-
-
-### The Roots Location Names
-
-|         |               |             |
-| ------- | ------------- | ----------- |
-| **d66** | **Adjective** | **Noun**    |
-| **11**  | Marshy        | Bog         |
-| **12**  | Muddy         | Path        |
-| **13**  | Soggy         | Field       |
-| **14**  | Damp          | Forest      |
-| **15**  | Gnarled       | Tree        |
-| **16**  | Foggy         | Moor        |
-| **21**  | Ominous       | Pool        |
-| **22**  | Overgrown     | Trail       |
-| **23**  | Chilling      | Wind        |
-| **24**  | Stagnant      | Pond        |
-| **25**  | Eerie         | Silence     |
-| **26**  | Hallowed      | Ground      |
-| **31**  | Haunting      | Mist        |
-| **32**  | Verdant       | Moss        |
-| **33**  | Sunken        | Ruins       |
-| **34**  | Swirling      | Marsh       |
-| **35**  | Twisted       | Root        |
-| **36**  | Spooky        | Glade       |
-| **41**  | Gloomy        | Thicket     |
-| **42**  | Whispering    | Reeds       |
-| **43**  | Withered      | Branch      |
-| **44**  | Desolate      | Hill        |
-| **45**  | Tangled       | Undergrowth |
-| **46**  | Forsaken      | Clearing    |
-| **51**  | Murky         | Waters      |
-| **52**  | Ancient       | Stone       |
-| **53**  | Shrouded      | Copse       |
-| **54**  | Enchanted     | Grove       |
-| **55**  | Creaking      | Bridge      |
-| **56**  | Abandoned     | Cabin       |
-| **61**  | Quivering     | Quagmire    |
-| **62**  | Rotten        | Stump       |
-| **63**  | Slumbering    | Willow      |
-| **64**  | Flickering    | Shadows     |
-| **65**  | Lurking       | Creature    |
-| **66**  | Sinking       | Peat        |
