@@ -21,12 +21,32 @@ grand_parent: WIP
 - The **Heart** of a forest can be any **Detail**. It is here that the forest is most powerful, most conscious, and most dangerous. 
 
 ### Adding Details
-1. Roll on the [Special](#special) table for the **Heart**.
-2. Generate features for each remaining **Detail** by first rolling on the [Detail Types](#detail-types) table, then on the associated table.
-3. For any **Settlements** rolled, roll on the [Settlement Features](#settlement-features) table as well.
-4. For the **Trunk** and for every **Branch**, roll on the [Trail Marker](#trail-marker) table. **Twigs** simply use the same trail type as their respective **Branches**. Trail modifiers are based on the [Terrain Difficulty](/wip/2e/wilderness-exploration/#terrain-difficulty) rules. **E** = _Easy_, **T** = _Tough_, **P** = _Perilous_.  
+1. Roll on the [Trail Marker](#trail-marker) table for the **Trunk**, and for every **Branch** (**Twigs** use same trails as their respective **Branches**). Trail modifiers are based on the [Terrain Difficulty](/wip/2e/wilderness-exploration/#terrain-difficulty) rules. **E** = _Easy_, **T** = _Tough_, **P** = _Perilous_. This indicates walk difficulty, not threat level.
+2. Roll on the [Special](#special) table for the **Heart** **Detail**.
+3. Generate features for each remaining **Detail** by first rolling on the [Detail Types](#detail-types) table, then on the associated table.
+4. For any **Settlements** rolled, roll on the [Settlement Features](#settlement-features) table as well.   
 
-> If some of the results below seem incongruous, that's OK! Turn it into a question.... That said, don't be afraid to choose a more appropriate result if you're having a hard time making it work!
+> If some of the results below seem incongruous, that's OK! Turn it into a question, like "Why is there an old logging road leading to the bandit's hideout?" That said, don't be afraid to choose a more appropriate result if you're having a hard time making it work!
+
+
+#### Trail Marker
+
+|        |                            |
+| ------ | -------------------------- |
+| **d6** | **Marker**                 |
+| **1**  | **Animal Path (T)**        |
+| **2**  | **Merchant's Road (E)**    |
+| **3**  | **Fae Passage (P)**        |
+| **4**  | **Bandit's Run (T)**       |
+| **5**  | **Pilgrim's Footpath (E)** |
+| **6**  | **Old Logging Road (E)**   |
+| **7**  | **Thistle Way (T)**        |
+| **8**  | **Treeline Heights (P)**   |
+| **9**  | **Cloistered Grove (E)**   |
+| **10** | **River Gulch (T)**        |
+| **11** | **Spore Saturated (E)**    |
+| **12** | **War Route (E)**          |
+
 
 #### Detail Types
 
@@ -72,12 +92,12 @@ grand_parent: WIP
 | **4**   | **Steeped in ancient tradition**        |
 | **5**   | **Guarded by a mystical barrier**       |
 | **6**   | **Constructed within a giant tree**     |
-| **7**   | **Built sacred grounds**                |
-| **8**   | **Built atop ruins**                    |
+| **7**   | **Built on sacred grounds**             |
+| **8**   | **Rumored to be cursed**                |
 | **9**   | **Contains a powerful artifact**        |
 | **10**  | **Known for its elaborate defenses**    |
 | **11**  | **Host to a renowned artisan**          |
-| **12**  | **Rumored to be cursed**                |
+| **12**  | **Built atop ruins**                    |
 | **13**  | **Guarded by trained beasts**           |
 | **14**  | **Mystically protected**                |
 | **15**  | **Renowned for its scholars**           |
@@ -185,27 +205,15 @@ grand_parent: WIP
 | **19**  | **Guardian**              |
 | **20**  | **Bloom Field**           |
 
-#### Trail Marker
-
-|        |                         |
-| ------ | ----------------------- |
-| **d6** | **Marker**              |
-| **1**  | **Animal Path (T)**     |
-| **2**  | **Illegible (?)**       |
-| **3**  | **Fae Passage (P)**     |
-| **4**  | **Bandit's Run (T)**    |
-| **5**  | **Pilgrim's Route (E)** |
-| **6**  | **Logging Road (E)**    |
-
 ## Naming Details
 
-- Roll a d66 on each table twice, first for the adjective and then for the noun. 
-- Combine the results with the terrain type to create a location name. You do not need to include the terrain in the name, but you can.  
+1. Roll a d66 on each table twice, first for the adjective and then for the noun. 
+2. Combine the results with the terrain type to create a location name. 
 
 ### Tips & Changes
-- Be specific! "Golden Barley" vs "Golden Fields" creates a more vivid image.
-- Use contrasting words (e.g. "Thorny Meadows") to evoke an interesting detail about the location.
-- Make it sound nice. Alliteration and pleasing combinations can create pleasant sounds. "Babbling Brook" is more pleasing than "Rambling Brook." 
+- Change it up! The name "Welcoming Grove" creates a more vivid image than "Beckoning Copse" might.
+- Use contrasting words (e.g. "Twisted Canopy") to evoke an interesting detail about the location.
+- Make it sound nice. Alliteration and pleasing combinations can create pleasant sounds. "Whispering Woods" is more pleasing to the ear than "Tangled Woods." 
 
 ### The Woods Location Names
 
@@ -224,7 +232,7 @@ grand_parent: WIP
 | **24**  | Enchanted     | Copse       |
 | **25**  | Lush          | Ferns       |
 | **26**  | Misty         | Hollow      |
-| **31**  | Dappled       | Sunlight    |
+| **31**  | Dappled       | Weald       |
 | **32**  | Towering      | Trees       |
 | **33**  | Leafy         | Canopy      |
 | **34**  | Wild          | Brambles    |
