@@ -12,7 +12,7 @@ grand_parent: WIP
 ## Introduction
 - A pointcrawl is a great method for exploring complex, non-linear areas like forests, swamps, or cities, where the paths between points of interest can be labyrinthine and less easily defined than in a wide open space. 
 - A forestcrawl is a type of pointcrawl that focuses specifically on travel through forested zones, trying to capture the density, non-linearity, and intricate network of paths within a heavily wooded area. 
-- A forested zone is made up of trails connecting various **Details**, or points of interest within a forested zone. For an example map, jump to the [bottom](#example-map).
+- A forested zone is made up of trails connecting various **Details**, or points of interest within a forested zone. For an example map, jump to the [bottom](#example-forest).
 
 ## Exploring The Wood
 - When travelling on clearly marked trails, a small forest zone (no more than 15 **Details**) can be explored in its entirety in a single [**Watch**](https://cairnrpg.com/wip/2e/wilderness-exploration/#watches). 
@@ -27,12 +27,14 @@ grand_parent: WIP
 2. Draw a single curving line stemming out from the **Heart**. This is the **Trunk**. 
 3. Draw three **Branches** sprouting off from the **Trunk**. 
 4. Draw one or two short **Twigs** from each **Branch**. They can vary in length.
-5. Place a dot wherever lines intersect, e.g. when a **Branch** meets the **Trunk** or a **Twig** _and_ at the terminus of every line.
+5. Place a dot at the terminus of every **Branch**, **Trunk**, or **Twig**. 
 6. Number each dot, starting with the **Heart**. 
+
+> If you'd like to increase the number of **Details** on the map, you can either add more **Branches** and **Twigs**, or place a dot at the intersection of lines, e.g. where the **Trunk** meets a **Branch**.
 
 ## Details
 
-- Each dot on the map is one **Detail**. 
+- Each dot on the map is one **Detail**.  
 - The **Heart** of a forest can be any **Detail**. It is here that the forest is its most powerful, most sentient, and most dangerous. 
 - Each **Detail** is connected to its nearest neighbor by a trail, indicated by a specififc [Trail Type](#trail-types). 
 
@@ -42,17 +44,17 @@ grand_parent: WIP
 2. Generate features for each remaining **Detail** by first rolling on the [Detail Types](#detail-types) table, then on the associated table.
 3. For any **Settlements** rolled, roll on the [Settlement Features](#settlement-features) table as well.   
 
-> If some of the results below seem incongruous, that's OK! Turn it into a question, like "Why is there an old logging road leading to the bandit's hideout?" That said, don't be afraid to choose a more appropriate result if you're having a hard time making it work!
+> If some of the results below seem incongruous, that's OK! Turn it into a question, like "Why _is_ there an old logging road leading to the bandit's hideout?" That said, don't be afraid to choose a more appropriate result if you're having a hard time making it work!
 
 
-### Adding Trail Types
+### Adding Trail Markers
 
 1. Roll on the [Trail Marker](#trail-marker) table for the **Trunk**, along with every **Branch**. **Twigs** use same trails as their respective **Branches**. 
-2. Travelling on a trail is always fairly quick, but not necessarily safe! 
+2. Travelling on a trail is always fairly quick, but not necessarily safe! The Marker indicates the type of trail it is. This marker may be inaccurate!
 3. Some trails may simply connect to other forested zones: entirely new regions to explore!
 
 
-#### Trail Types
+#### Trail Marker
 
 |        |                         |
 | ------ | ---------------------- |
@@ -128,7 +130,7 @@ grand_parent: WIP
 | **17**  | **Reclusive and suspicious**            |
 | **18**  | **Home to a famous hero**               |
 | **19**  | **Controlled by a supernatural entity** |
-| **20**  | **Reknowned scholars**                  |
+| **20**  | **Reknowned for its scholars**          |
 
 #### Ruins
 
@@ -230,15 +232,15 @@ grand_parent: WIP
 
 ## Naming Details
 
-1. Roll a d66 on each table twice, first for the adjective and then for the noun. 
+1. Roll a d66 on the [Location Names](#location-names) table twice, first for the adjective and then for the noun. 
 2. Combine the results with the terrain type to create a location name. 
 
 ### Tips & Changes
-- Change it up! The name "Welcoming Grove" creates a more vivid image than "Beckoning Copse" might.
-- Use contrasting words (e.g. "Twisted Canopy") to evoke an interesting detail about the location.
-- Make it sound nice. Alliteration and pleasing combinations can create pleasant sounds. "Whispering Woods" is more pleasing to the ear than "Tangled Woods." 
+- Change it up! The name _Welcoming Grove_ creates a more vivid image than _Beckoning Copse_ might.
+- Use contrasting words (e.g. _Twisted Canopy_) to evoke an interesting detail about the location.
+- Make it sound nice. Alliteration and pleasing combinations can create pleasant sounds. _Whispering Woods_ is more pleasing to the ear than _Tangled Woods._ 
 
-### The Woods Location Names
+### Location Names
 
 |         |               |             |
 | ------- | ------------- | ----------- |
@@ -281,6 +283,61 @@ grand_parent: WIP
 | **66**  | Sacred        | Woodland    |
 
 
-## Example Map
+## Example Forest
+
+### Draw Trails
+
+- We start by creating the structure of our forest, drawing the first dot representing the **Heart** in the center, Southern part of the region.
+- We then draw the **Trunk**, creating a gentle curve towards the Northwest.
+- Then we draw three **Branches** extending from the **Trunk**, one towards the East (closer to the **Heart**) and the other towards the West and further North. 
+- Finally we draw a single **Twig** off of each **Branch**.
+
+### Number Dots
+
+- First we place dots at every terminal point. 
+- We then assign numbers, starting with the **Heart** at 11. In total, we have 7 dots for **Details**: 
+
+- `1` is our **Heart**.
+- `2` is at the beginning (or end) of the **Trunk**. 
+- `4`, `5`, and `6`, are each at the end of a **Branch**.
+- `3` and `7` are each at the end of **Twigs**, to the East and West of the **Trunk** respectively. 
+
+### Assign Trail Markers
+
+For the **Trunk** as well as each **Branch** and **Twig**, we'll roll on the **Trail Markers** table (**d12**):
+
+  - For the **Trunk** we got a **6** (_Old Logging Road_).
+  - For the Eastern **Branch** closest to the **Heart** we got a **3** (Fae Passage).
+  - For the Western **Branch** closest to the **Heart** we got a **4** (Bandit's Run).
+  - For the Eastern **Branch** farthest from the **Heart** we got a **5** (Pilgrim's Footpath).
+  
+### Assign Details
+
+Next we'll roll on the provided tables to generate features for each **Detail**.
+- First up is the **Heart (1)**, and we roll on the [Special](#special) table (**d20**). We got an **11** (Elf Queen's Pavilion).
+
+For each remaining **Detail**, we first roll on the [Detail Types](#detail-types) table, then on the associated table:
+- **Detail (2)**: We roll a **d6**: a **4** (Hazard). Now we roll a **d12** on the [Hazards](#hazards) table: a **6** (Thorny Thickets).
+- **Detail (3)**: We roll a **d6**: a **5** (Landmark). Now we roll a **d12** on the [Landmarks](#landmarks) table: an **11** (Cathedral of Trees).
+- **Detail (4)**: We roll a **d6**: **1** (Settlement). Now we roll a **d12** on the [Settlement](#settlements) table: a **9** (Monastic Retreat). We also roll on the [Settlement Features](#settlement-features) table with a **d20**: a **20** (Renowned for its scholars).
+- **Detail (5)**: We roll a **d6**: **2** (Ruins). Roll a **d12** on the [Ruins](#ruins) table: a **4** (Crumbled Crypt).
+- **Detail (6)**: We roll a **d6**: **3** (Lair). Roll a **d12** on the [Lairs](#lairs) table: an **8** (Goblin Hideaway).
+- **Detail (7)**: We roll a **d6**: **6** (Special). Roll a **d20** on the Special table: a **5** (Will-o'-Wisps).
+
+### Detail Naming
+
+Finally, we'll name each **Detail** using the [Location Names](#location-names) table. I took some liberties here, smashing together words I liked with random words.
+
+1. **Heart (Elf Queen's Pavilion)**: _Glintleaf Dell_
+2. **(Thorny Thickets)**: _Thistlefield_
+3. **(Cathedral of Trees)**: _Timbertop Spire_
+4. **(Monastic Retreat)**: _Cloister of the Quiet Wood_
+5. **(Crumbled Crypt)**: _Shattered Barrow_
+6. **(Goblin Hideaway)**: _Mossbreak Nook_
+7. **(Will-o'-Wisps)**: _Glimmerglade_
+
+### Example Map
+
+And that's it! Here is the final map.
 
 [![Alt text](/img/2e/forestcrawl.png "Click to embiggen"){:height="80%" width="60%"}](/img/2e/forestcrawl.png)
