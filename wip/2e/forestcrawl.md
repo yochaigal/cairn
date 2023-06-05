@@ -11,13 +11,15 @@ grand_parent: WIP
 
 ## Introduction
 - A pointcrawl is a great method for exploring complex, non-linear areas like forests, swamps, or cities, where the paths between points of interest can be labyrinthine and less easily defined than in a wide open space. 
-- A forestcrawl is a type of pointcrawl that focuses specifically on travel through forested regions, trying to capture the density, non-linearity, and intricate network of paths within a heavily wooded area. 
+- A forestcrawl is a type of pointcrawl that focuses specifically on travel through forested zones, trying to capture the density, non-linearity, and intricate network of paths within a heavily wooded area. 
 - A forested zone is made up of trails connecting various **Details**, or points of interest within a forested zone.
 
-## Movement
-- Unlike the [**Points**](/wip/2e/wilderness-exploration/#points) found on a much larger map, exploring **Details** (close locations within a forested zone) do not trigger the standard **Wilderness Exploration** rules.
-- When travelling on clearly marked trails, a small forest zone (no more than 15 **Details**) can be explored in its entirety in a single *[*Watch**](https://cairnrpg.com/wip/2e/wilderness-exploration/#watches). 
+## Exploring The Wood
+- When travelling on clearly marked trails, a small forest zone (no more than 15 **Details**) can be explored in its entirety in a single [**Watch**](https://cairnrpg.com/wip/2e/wilderness-exploration/#watches). 
+- **Details** in a forestcrawl are close to each other. Assume that the PCs are taking the [**Explore**](https://cairnrpg.com/wip/2e/wilderness-exploration/#explore) action, no matter how many locations they visit. 
 - If the party attempts to reach a **Detail** without a clearly marked trail or path, the **Warden** should make any associated costs clear: time (a full **Watch**), effort (**Fatigue**), or obvious dangers.
+
+> If the party is interrupted, stops to investigate something, rest, etc while exploring a forested zone, there may not be enough time to fully explore every connected **Detail**. In these cases, rely on the fiction and common sense to determine how much time is left in the day. 
 
 ## Create The Forest
 
@@ -47,6 +49,7 @@ grand_parent: WIP
 
 1. Roll on the [Trail Marker](#trail-marker) table for the **Trunk**, along with every **Branch**. **Twigs** use same trails as their respective **Branches**. 
 2. Travelling on a trail is always fairly quick, but not necessarily safe! 
+3. Some trails may simply connect to other forested zones: entirely new regions to explore!
 
 
 #### Trail Types
