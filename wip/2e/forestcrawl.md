@@ -283,4 +283,4 @@ grand_parent: WIP
 
 ## Example Map
 
-[![Alt text](/img/2e/forestcrawl.png "Click to embiggen"){:height="60%" width="60%"}](/img/2e/forestcrawl.png)
+[![Alt text](/img/2e/forestcrawl.png "Click to embiggen"){:height="80%" width="60%"}](/img/2e/forestcrawl.png)
