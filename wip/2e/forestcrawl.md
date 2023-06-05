@@ -12,7 +12,7 @@ grand_parent: WIP
 ## Introduction
 - A pointcrawl is a great method for exploring complex, non-linear areas like forests, swamps, or cities, where the paths between points of interest can be labyrinthine and less easily defined than in a wide open space. 
 - A forestcrawl is a type of pointcrawl that focuses specifically on travel through forested zones, trying to capture the density, non-linearity, and intricate network of paths within a heavily wooded area. 
-- A forested zone is made up of trails connecting various **Details**, or points of interest within a forested zone.
+- A forested zone is made up of trails connecting various **Details**, or points of interest within a forested zone. For an example map, jump to the [bottom](#example-map).
 
 ## Exploring The Wood
 - When travelling on clearly marked trails, a small forest zone (no more than 15 **Details**) can be explored in its entirety in a single [**Watch**](https://cairnrpg.com/wip/2e/wilderness-exploration/#watches). 
@@ -279,3 +279,8 @@ grand_parent: WIP
 | **64**  | Majestic      | Pine        |
 | **65**  | Verdant       | Moss        |
 | **66**  | Sacred        | Woodland    |
+
+
+## Example Map
+
+[![Alt text](/img/2e/forestcrawl.png "Click to embiggen"){:height="60%" width="60%"}](/img/2e/forestcrawl.png)
