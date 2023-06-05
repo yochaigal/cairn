@@ -9,6 +9,18 @@ grand_parent: WIP
 
 # Forestcrawl
 
+## Introduction
+- A pointcrawl is a great method for exploring complex, non-linear areas like forests, swamps, or cities, where the paths between points of interest can be labyrinthine and less easily defined than in a wide open space. 
+- A forestcrawl is a type of pointcrawl that focuses specifically on travel through forested regions, trying to capture the density, non-linearity, and intricate network of paths within a heavily wooded area. 
+- A forested zone is made up of trails connecting various **Details**, or points of interest within a forested zone.
+
+## Movement
+- Unlike the [**Points**](/wip/2e/wilderness-exploration/#points) found on a much larger map, exploring **Details** (close locations within a forested zone) do not trigger the standard **Wilderness Exploration** rules.
+- When travelling on clearly marked trails, a small forest zone (no more than 15 **Details**) can be explored in its entirety in a single *[*Watch**](https://cairnrpg.com/wip/2e/wilderness-exploration/#watches). 
+- If the party attempts to reach a **Detail** without a clearly marked trail or path, the **Warden** should make any associated costs clear: time (a full **Watch**), effort (**Fatigue**), or obvious dangers.
+
+## Create The Forest
+
 1. On a flat sheet of paper, draw a dot to signify the **Heart**.
 2. Draw a single curving line stemming out from the **Heart**. This is the **Trunk**. 
 3. Draw three **Branches** sprouting off from the **Trunk**. 
@@ -17,35 +29,43 @@ grand_parent: WIP
 6. Number each dot, starting with the **Heart**. 
 
 ## Details
-- Each dot on the map is one **Detail**. **Details** act as [**Points**](/wip/2e/wilderness-exploration/#points) according to the [**Wilderness Exploration**](/wip/2e/wilderness-exploration) rules. Keep in mind how many **Watches** it might take to travel to each **Detail**. 
-- The **Heart** of a forest can be any **Detail**. It is here that the forest is most powerful, most conscious, and most dangerous. 
+
+- Each dot on the map is one **Detail**. 
+- The **Heart** of a forest can be any **Detail**. It is here that the forest is its most powerful, most sentient, and most dangerous. 
+- Each **Detail** is connected to its nearest neighbor by a trail, indicated by a specififc [Trail Type](#trail-types). 
 
 ### Adding Details
-1. Roll on the [Trail Marker](#trail-marker) table for the **Trunk**, and for every **Branch** (**Twigs** use same trails as their respective **Branches**). Trail modifiers are based on the [Terrain Difficulty](/wip/2e/wilderness-exploration/#terrain-difficulty) rules. **E** = _Easy_, **T** = _Tough_, **P** = _Perilous_. This indicates walk difficulty, not threat level.
-2. Roll on the [Special](#special) table for the **Heart** **Detail**.
-3. Generate features for each remaining **Detail** by first rolling on the [Detail Types](#detail-types) table, then on the associated table.
-4. For any **Settlements** rolled, roll on the [Settlement Features](#settlement-features) table as well.   
+
+1. Roll on the [Special](#special) table for the **Heart** **Detail**.
+2. Generate features for each remaining **Detail** by first rolling on the [Detail Types](#detail-types) table, then on the associated table.
+3. For any **Settlements** rolled, roll on the [Settlement Features](#settlement-features) table as well.   
 
 > If some of the results below seem incongruous, that's OK! Turn it into a question, like "Why is there an old logging road leading to the bandit's hideout?" That said, don't be afraid to choose a more appropriate result if you're having a hard time making it work!
 
 
-#### Trail Marker
+### Adding Trail Types
 
-|        |                            |
-| ------ | -------------------------- |
-| **d6** | **Marker**                 |
-| **1**  | **Animal Path (T)**        |
-| **2**  | **Merchant's Road (E)**    |
-| **3**  | **Fae Passage (P)**        |
-| **4**  | **Bandit's Run (T)**       |
-| **5**  | **Pilgrim's Footpath (E)** |
-| **6**  | **Old Logging Road (E)**   |
-| **7**  | **Thistle Way (T)**        |
-| **8**  | **Treeline Heights (P)**   |
-| **9**  | **Cloistered Grove (E)**   |
-| **10** | **River Gulch (T)**        |
-| **11** | **Spore Saturated (E)**    |
-| **12** | **War Route (E)**          |
+1. Roll on the [Trail Marker](#trail-marker) table for the **Trunk**, along with every **Branch**. **Twigs** use same trails as their respective **Branches**. 
+2. Travelling on a trail is always fairly quick, but not necessarily safe! 
+
+
+#### Trail Types
+
+|        |                         |
+| ------ | ---------------------- |
+| **d6** | **Marker**             |
+| **1**  | **Animal Path**        |
+| **2**  | **Merchant's Road**    |
+| **3**  | **Fae Passage**        |
+| **4**  | **Bandit's Run**       |
+| **5**  | **Pilgrim's Footpath** |
+| **6**  | **Old Logging Road**   |
+| **7**  | **Trail Tree**        |
+| **8**  | **Treeline Heights**   |
+| **9**  | **Cloistered Grove**   |
+| **10** | **River Gulch**        |
+| **11** | **Spore Saturated**    |
+| **12** | **War Route**          |
 
 
 #### Detail Types
