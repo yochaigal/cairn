@@ -10,9 +10,11 @@ grand_parent: WIP
 # Forestcrawl
 
 ## Introduction
-- A pointcrawl is a great method for exploring complex, non-linear areas like forests, swamps, or cities, where the paths between points of interest can be labyrinthine and less easily defined than in a wide open space. 
-- A forestcrawl is a type of pointcrawl that focuses specifically on travel through forested zones, trying to capture the density, non-linearity, and intricate network of paths within a heavily wooded area. 
-- A forested zone is made up of trails connecting various **Details**, or points of interest within a forested zone. For an example map, jump to the [bottom](#example-forest).
+- A forestcrawl is a type of **pointcrawl** (see below) that focuses specifically on travel through forested zones, trying to capture the density, non-linearity, and intricate network of paths within a heavily wooded area. 
+- A forested zone is made up of trails connecting various **Details**, or points of interest within a forested zone. 
+- For an example map, jump to the [bottom](#example-forest).
+
+> A pointcrawl is a great method for exploring complex, non-linear areas like forests, swamps, or cities, where the paths between points of interest can be labyrinthine and less easily defined than in a wide open space. 
 
 ## Exploring The Wood
 - When travelling on clearly marked trails, a small forest zone (no more than 15 **Details**) can be explored in its entirety in a single [**Watch**](https://cairnrpg.com/wip/2e/wilderness-exploration/#watches). 
@@ -24,13 +26,13 @@ grand_parent: WIP
 ## Create The Forest
 
 1. On a flat sheet of paper, draw a dot to signify the **Heart**.
-2. Draw a single curving line stemming out from the **Heart**. This is the **Trunk**. 
-3. Draw three **Branches** sprouting off from the **Trunk**. 
-4. Draw one or two short **Twigs** from each **Branch**. They can vary in length.
-5. Place a dot at the terminus of every **Branch**, **Trunk**, or **Twig**. 
+2. Draw a single curving line stemming out from the **Heart**. This is the **trunk**. 
+3. Draw three **branches** sprouting off from the **trunk**. 
+4. Draw one or two short **twigs** from each **branch**. They can vary in length.
+5. Place a dot at the terminus of every **branch**, **trunk**, or **twig**. 
 6. Number each dot, starting with the **Heart**. 
 
-> If you'd like to increase the number of **Details** on the map, you can either add more **Branches** and **Twigs**, or place a dot at the intersection of lines, e.g. where the **Trunk** meets a **Branch**.
+> If you'd like to increase the number of **Details** on the map, you can either add more **branches** and **twigs**, or place a dot at the intersection of lines, e.g. where the **trunk** meets a **branch**.
 
 ## Details
 
@@ -49,7 +51,7 @@ grand_parent: WIP
 
 ### Adding Trail Markers
 
-1. Roll on the [Trail Marker](#trail-marker) table for the **Trunk**, along with every **Branch**. **Twigs** use same trails as their respective **Branches**. 
+1. Roll on the [Trail Marker](#trail-marker) table for the **trunk**, along with every **branch**. **twigs** use same trails as their respective **branches**. 
 2. Travelling on a trail is always fairly quick, but not necessarily safe! The Marker indicates the type of trail it is. This marker may be inaccurate!
 3. Some trails may simply connect to other forested zones: entirely new regions to explore!
 
@@ -249,7 +251,7 @@ grand_parent: WIP
 | **12**  | Ancient       | Grove       |
 | **13**  | Silent        | Glade       |
 | **14**  | Mossy         | Path        |
-| **15**  | Twisted       | Branches    |
+| **15**  | Twisted       | branches    |
 | **16**  | Murmuring     | Stream      |
 | **21**  | Moonlit       | Clearing    |
 | **22**  | Whispering    | Wind        |
@@ -288,41 +290,40 @@ grand_parent: WIP
 ### Draw Trails
 
 - We start by creating the structure of our forest, drawing the first dot representing the **Heart** in the center, Southern part of the region.
-- We then draw the **Trunk**, creating a gentle curve towards the Northwest.
-- Then we draw three **Branches** extending from the **Trunk**, one towards the East (closer to the **Heart**) and the other towards the West and further North. 
-- Finally we draw a single **Twig** off of each **Branch**.
+- We then draw the **trunk**, creating a gentle curve towards the Northwest.
+- Then we draw three **branches** extending from the **trunk**, one towards the East (closer to the **Heart**) and the other towards the West and further North. 
+- Finally we draw a single **twig** off of each **branch**.
 
 ### Number Dots
 
 - First we place dots at every terminal point. 
 - We then assign numbers, starting with the **Heart** at 11. In total, we have 7 dots for **Details**: 
-
 - `1` is our **Heart**.
-- `2` is at the beginning (or end) of the **Trunk**. 
-- `4`, `5`, and `6`, are each at the end of a **Branch**.
-- `3` and `7` are each at the end of **Twigs**, to the East and West of the **Trunk** respectively. 
+- `2` is at the beginning (or end) of the **trunk**. 
+- `4`, `5`, and `6`, are each at the end of a **branch**.
+- `3` and `7` are each at the end of **twigs**, to the East and West of the **trunk** respectively. 
 
 ### Assign Trail Markers
 
-For the **Trunk** as well as each **Branch** and **Twig**, we'll roll on the **Trail Markers** table (**d12**):
+For the **trunk** as well as each **branch** and **twig**, we'll roll on the **Trail Markers** table (**d12**):
 
-  - For the **Trunk** we got a **6** (_Old Logging Road_).
-  - For the Eastern **Branch** closest to the **Heart** we got a **3** (Fae Passage).
-  - For the Western **Branch** closest to the **Heart** we got a **4** (Bandit's Run).
-  - For the Eastern **Branch** farthest from the **Heart** we got a **5** (Pilgrim's Footpath).
+  - For the **trunk** we got a **6** (_Old Logging Road_).
+  - For the Eastern **branch** closest to the **Heart** we got a **3** (_Fae Passage_).
+  - For the Western **branch** closest to the **Heart** we got a **4** (_Bandit's Run_).
+  - For the Eastern **branch** farthest from the **Heart** we got a **5** (_Pilgrim's Footpath_).
   
 ### Assign Details
 
 Next we'll roll on the provided tables to generate features for each **Detail**.
-- First up is the **Heart (1)**, and we roll on the [Special](#special) table (**d20**). We got an **11** (Elf Queen's Pavilion).
+- First up is the **Heart (1)**, and we roll on the [Special](#special) table (**d20**). We got an **11** (_Elf Queen's Pavilion_).
 
 For each remaining **Detail**, we first roll on the [Detail Types](#detail-types) table, then on the associated table:
-- **Detail (2)**: We roll a **d6**: a **4** (Hazard). Now we roll a **d12** on the [Hazards](#hazards) table: a **6** (Thorny Thickets).
-- **Detail (3)**: We roll a **d6**: a **5** (Landmark). Now we roll a **d12** on the [Landmarks](#landmarks) table: an **11** (Cathedral of Trees).
-- **Detail (4)**: We roll a **d6**: **1** (Settlement). Now we roll a **d12** on the [Settlement](#settlements) table: a **9** (Monastic Retreat). We also roll on the [Settlement Features](#settlement-features) table with a **d20**: a **20** (Renowned for its scholars).
-- **Detail (5)**: We roll a **d6**: **2** (Ruins). Roll a **d12** on the [Ruins](#ruins) table: a **4** (Crumbled Crypt).
-- **Detail (6)**: We roll a **d6**: **3** (Lair). Roll a **d12** on the [Lairs](#lairs) table: an **8** (Goblin Hideaway).
-- **Detail (7)**: We roll a **d6**: **6** (Special). Roll a **d20** on the Special table: a **5** (Will-o'-Wisps).
+- **Detail (2)**: We roll a **d6**: a **4** (Hazard). Now we roll a **d12** on the [Hazards](#hazards) table: a **6** (_Thorny Thickets_).
+- **Detail (3)**: We roll a **d6**: a **5** (Landmark). Now we roll a **d12** on the [Landmarks](#landmarks) table: an **11** (_Cathedral of Trees_).
+- **Detail (4)**: We roll a **d6**: **1** (Settlement). Now we roll a **d12** on the [Settlement](#settlements) table: a **9** (_Monastic Retreat_). We also roll on the [Settlement Features](#settlement-features) table with a **d20**: a **20** (Renowned for its scholars).
+- **Detail (5)**: We roll a **d6**: **2** (Ruins). Roll a **d12** on the [Ruins](#ruins) table: a **4** (_Crumbled Crypt_).
+- **Detail (6)**: We roll a **d6**: **3** (Lair). Roll a **d12** on the [Lairs](#lairs) table: an **8** (_Goblin Hideaway_).
+- **Detail (7)**: We roll a **d6**: **6** (Special). Roll a **d20** on the Special table: a **5** (_Will-o'-Wisps_).
 
 ### Detail Naming
 
