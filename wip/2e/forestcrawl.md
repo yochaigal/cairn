@@ -17,11 +17,17 @@ grand_parent: WIP
 > A pointcrawl is a great method for exploring complex, non-linear areas like forests, swamps, or cities, where the paths between points of interest can be labyrinthine and less easily defined than in a wide open space. 
 
 ## Exploring The Wood
-- When travelling on clearly marked trails, a small forest zone (no more than 15 **Details**) can be explored in its entirety in a single [**Watch**](https://cairnrpg.com/wip/2e/wilderness-exploration/#watches). 
 - **Details** in a forestcrawl are close to each other. Assume that the PCs are taking the [**Explore**](https://cairnrpg.com/wip/2e/wilderness-exploration/#explore) action, no matter how many locations they visit. 
-- If the party attempts to reach a **Detail** without a clearly marked trail or path, the **Warden** should make any associated costs clear: time (a full **Watch**), effort (**Fatigue**), or obvious dangers.
+- When travelling on clearly marked trails, a small forest zone (10-15 **Details**) can be explored in its entirety in a single [**Watch**](https://cairnrpg.com/wip/2e/wilderness-exploration/#watches). 
+- If the party attempts to reach a **Detail** by going "off-trail" (bushwhacking), the **Warden** should make any associated costs clear: typically time , effort (**Fatigue**), or any obvious dangers. See [Bushwhacking Costs](#bushwhacking-costs) for more.
 
 > If the party is interrupted, stops to investigate something, rest, etc while exploring a forested zone, there may not be enough time to fully explore every connected **Detail**. In these cases, rely on the fiction and common sense to determine how much time is left in the day. 
+
+
+### Bushwhacking Costs
+
+- Forging a new path by going off-trail automatically triggers a roll on the [Wilderness Events](https://cairnrpg.com/wip/2e/wilderness-exploration/#wilderness-events) table.
+
 
 ## Create The Forest
 
@@ -51,14 +57,14 @@ grand_parent: WIP
 
 ### Adding Trail Markers
 
-1. Roll on the [Trail Marker](#trail-marker) table for the **trunk**, along with every **branch**. **twigs** use same trails as their respective **branches**. 
+1. Roll on the [Trail Marker](#trail-marker) table for the **trunk**, along with every **branch**. **Twigs** use same trails as their respective **branches**. 
 2. Travelling on a trail is always fairly quick, but not necessarily safe! The Marker indicates the type of trail it is. This marker may be inaccurate!
 3. Some trails may simply connect to other forested zones: entirely new regions to explore!
 
 
 #### Trail Marker
 
-|        |                         |
+|        |                        |
 | ------ | ---------------------- |
 | **d6** | **Marker**             |
 | **1**  | **Animal Path**        |
@@ -67,7 +73,7 @@ grand_parent: WIP
 | **4**  | **Bandit's Run**       |
 | **5**  | **Pilgrim's Footpath** |
 | **6**  | **Old Logging Road**   |
-| **7**  | **Trail Tree**        |
+| **7**  | **Trail Tree**         |
 | **8**  | **Treeline Heights**   |
 | **9**  | **Cloistered Grove**   |
 | **10** | **River Gulch**        |
@@ -339,6 +345,6 @@ Finally, we'll name each **Detail** using the [Location Names](#location-names) 
 
 ### Example Map
 
-And that's it! Here is the final map.
+And that's it! Here is the final map. I've added a backdrop from the wonderful [Perilous Shores](https://watabou.itch.io/perilous-shores) to give it more flavor. 
 
 [![Alt text](/img/2e/forestcrawl.png "Click to embiggen"){:height="80%" width="60%"}](/img/2e/forestcrawl.png)
