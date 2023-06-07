@@ -25,7 +25,7 @@ grand_parent: WIP
 
 ## Create The Forest
 
-1. On a flat sheet of paper, draw a dot to signify the **Heart**.
+1. On a flat sheet of paper, draw a dot to signify the forest's **Heart**.
 2. Draw a single curving line stemming out from the **Heart**. This is the **trunk**. 
 3. Draw three **branches** sprouting off from the **trunk**. 
 4. Draw one or two short **twigs** from each **branch**. They can vary in length.
@@ -33,6 +33,13 @@ grand_parent: WIP
 6. Number each dot, starting with the **Heart**. 
 
 > If you'd like to increase the number of **Details** on the map, you can either add more **branches** and **twigs**, or place a dot at the intersection of lines, e.g. where the **trunk** meets a **branch**.
+
+### Populating The Forest
+
+1. Follow the instructions found in the [Details](#details) section.
+2. Roll on the [Trail Markers](#trail-markers) table for the **trunk**, as well as each **branch**. **Twigs** use same trails as their respective **branches**.  Label each trail!
+3. Roll on the [Spoor Types](#spoor-types) table for every trail. Note the **spoor** for each.
+4. Roll on the [Forest Encounters](#forest-encounters) table fore each [Detail](#detail), recording and expanding on the results. 
 
 ## Details
 
@@ -47,33 +54,6 @@ grand_parent: WIP
 3. For any **Settlements** rolled, roll on the [Settlement Features](#settlement-features) table as well.   
 
 > If some of the results below seem incongruous, that's OK! Turn it into a question, like "Why _is_ there an old logging road leading to the bandit's hideout?" That said, don't be afraid to choose a more appropriate result if you're having a hard time making it work!
-
-
-### Adding Trail Markers
-
-1. Roll on the [Trail Marker](#trail-marker) table for the **trunk**, along with every **branch**. **Twigs** use same trails as their respective **branches**. 
-2. Travelling on a trail is always fairly quick, but not necessarily safe! The Marker indicates the type of trail it is. This marker may be inaccurate!
-3. Some trails may simply connect to other forested zones: entirely new regions to explore!
-
-
-#### Trail Marker
-
-|        |                        |
-| ------ | ---------------------- |
-| **d6** | **Marker**             |
-| **1**  | **Animal Path**        |
-| **2**  | **Merchant's Road**    |
-| **3**  | **Fae Passage**        |
-| **4**  | **Bandit's Run**       |
-| **5**  | **Pilgrim's Footpath** |
-| **6**  | **Old Logging Road**   |
-| **7**  | **Trail Tree**         |
-| **8**  | **Treeline Heights**   |
-| **9**  | **Cloistered Grove**   |
-| **10** | **River Gulch**        |
-| **11** | **Spore Saturated**    |
-| **12** | **War Route**          |
-
 
 #### Detail Types
 
@@ -284,6 +264,75 @@ grand_parent: WIP
 | **65**  | Verdant       | Moss        |
 | **66**  | Sacred        | Woodland    |
 
+
+#### Trail Markers
+
+|        |                        |
+| ------ | ---------------------- |
+| **d6** | **Marker**             |
+| **1**  | **Animal Path**        |
+| **2**  | **Merchant's Road**    |
+| **3**  | **Fae Passage**        |
+| **4**  | **Bandit's Run**       |
+| **5**  | **Pilgrim's Footpath** |
+| **6**  | **Old Logging Road**   |
+| **7**  | **Trail Tree**         |
+| **8**  | **Treeline Heights**   |
+| **9**  | **Cloistered Grove**   |
+| **10** | **River Gulch**        |
+| **11** | **Spore Saturated**    |
+| **12** | **War Route**          |
+
+### Spoor Types 
+
+|         |                               |
+| ------- | ----------------------------- |
+| **d20** | **Spoor**                     |
+| **1**   | **Distant, Haunting Singing** |
+| **2**   | **Badger Holes**              |
+| **3**   | **Serpent Traces**            |
+| **4**   | **Enormous Footprints**       |
+| **5**   | **Rabbit Droppings**          |
+| **6**   | **Animals Acting Strangely**  |
+| **7**   | **Large Bird Feathers**       |
+| **8**   | **Fox Prints**                |
+| **9**   | **Faint Laughter**            |
+| **10**  | **Bear Rubbings**             |
+| **11**  | **A smoldering campsite**     |
+| **12**  | **Fresh Spiderwebs**          |
+| **13**  | **Archaic Tree Carvings**     |
+| **14**  | **Dozens Of Stone Piles**     |
+| **15**  | **Claw Marks**                |
+| **16**  | **Phosphorescent Toadstools** |
+| **17**  | **Deer Tracks**               |
+| **18**  | **Swaying Plants**            |
+| **19**  | **Peripheral Images**         |
+| **20**  | **Muted Bells**               |
+
+### Forest Encounters
+|         |                                                                                |
+| ------- | ------------------------------------------------------------------------------ |
+| **d20** | **Encounter**                                                                  |
+| **1**   | An enormous deer, its antlers shimmering silver.                               |
+| **2**   | The remnants of an old watchtower hidden dense forest growth.                  |
+| **3**   | A snarling pack of wolves surrounding a fresh kill.                            |
+| **4**   | Suddenly, the usual sounds of nature eerily absent.                            |
+| **5**   | A wide river where otters are playing with something shiny.                    |
+| **6**   | A circle of perfect mushrooms. Blue-white wings flutter between.               |
+| **7**   | A gnarled tree trunk bearing an uncannily carved face on its trunk.            |
+| **8**   | A trio of mischievous forest sprites.                                          |
+| **9**   | A hillside cave, wafting the scent of damp and decay.                          |
+| **10**  | A trap, hastily set and poorly concealed.                                      |
+| **11**  | A tree acting as makeshift bridge over a glittering stream.                    |
+| **12**  | Bees swarm protectively around a tree brimming with honeycombs.                |
+| **13**  | Wild berries grow in abundance, a feast for foragers.                          |
+| **14**  | Shadowy figures dart between the trees. Hushed voices call out to one another. |
+| **15**  | A wounded animal, whining pitifully as it limps.                               |
+| **16**  | A spectacular waterfall, rainbows dancing in its spray.                        |
+| **17**  | A dense thicket of thorns, nearly impassable.                                  |
+| **18**  | A patch of quicksand disguised as soft ground.                                 |
+| **19**  | A bird circles ominously overhead. It seems to be following the party.         |
+| **20**  | The sky is suddenly darkened by a large object streaking above.                |
 
 ## Example Forest
 
