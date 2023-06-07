@@ -320,7 +320,7 @@ grand_parent: WIP
 | **5**   | A wide river where otters are playing with something shiny.                    |
 | **6**   | A circle of perfect mushrooms. Blue-white wings flutter between.               |
 | **7**   | A gnarled tree trunk bearing an uncannily carved face on its trunk.            |
-| **8**   | A trio of mischievous forest sprites.                                          |
+| **8**   | Naiads splashing in a small pond. Their teeth are fanged, like daggers.        |
 | **9**   | A hillside cave, wafting the scent of damp and decay.                          |
 | **10**  | A trap, hastily set and poorly concealed.                                      |
 | **11**  | A tree acting as makeshift bridge over a glittering stream.                    |
