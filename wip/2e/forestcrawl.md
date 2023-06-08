@@ -231,7 +231,7 @@ grand_parent: WIP
 | **2**    | Ancient       | Grove       |
 | **3**    | Silent        | Glade       |
 | **4**    | Mossy         | Path        |
-| **5**    | Twisted       | branches    |
+| **5**    | Twisted       | Branches    |
 | **6**    | Murmuring     | Stream      |
 | **7**    | Moonlit       | Clearing    |
 | **8**    | Whispering    | Wind        |
@@ -254,7 +254,7 @@ grand_parent: WIP
 | **25**   | Fragrant      | Blossoms    |
 | **26**   | Trickling     | Brook       |
 | **27**   | Luminous      | Pathway     |
-| **28**   | Shrouded      | Forest      |
+| **28**   | Shrouded      | Herbs       |
 | **29**   | Hushed        | Woods       |
 | **30**   | Beckoning     | Clearing    |
 | **31**   | Serene        | Grove       |
@@ -264,13 +264,13 @@ grand_parent: WIP
 | **35**   | Verdant       | Moss        |
 | **36**   | Sacred        | Woodland    |
 | **37**   | Ethereal      | Waterfall   |
-| **38**   | Majestic      | Mountain    |
-| **39**   | Looming       | Cliff       |
+| **38**   | Majestic      | Shrub       |
+| **39**   | Looming       | Stump       |
 | **40**   | Shimmering    | Lake        |
 | **41**   | Tranquil      | Meadow      |
 | **42**   | Wistful       | Clouds      |
-| **43**   | Smoky         | Peaks       |
-| **44**   | Whispering    | Grasslands  |
+| **43**   | Smoky         | Loam        |
+| **44**   | Whispering    | Knar        |
 | **45**   | Somber        | Cavern      |
 | **46**   | Lost          | Trail       |
 | **47**   | Abandoned     | Hut         |
@@ -281,7 +281,7 @@ grand_parent: WIP
 | **52**   | Desolate      | Dunes       |
 | **53**   | Lonely        | Plateau     |
 | **54**   | Exotic        | Oasis       |
-| **55**   | Stark         | Campfire    |
+| **55**   | Stark         | Camp        |
 | **56**   | Rugged        | Crags       |
 | **57**   | Eternal       | River       |
 | **58**   | Bountiful     | Orchard     |
@@ -303,7 +303,7 @@ grand_parent: WIP
 | **74**   | Unyielding    | Granite     |
 | **75**   | Harmonious    | Harmony     |
 | **76**   | Opulent       | Cascade     |
-| **77**   | Silent        | Summit      |
+| **77**   | Silent        | Trail       |
 | **78**   | Roaring       | Rapids      |
 | **79**   | Serpentine    | River       |
 | **80**   | Uncharted     | Path        |
@@ -323,7 +323,7 @@ grand_parent: WIP
 | **94**   | Veiled        | Gorge       |
 | **95**   | Crystal       | Pool        |
 | **96**   | Swirling      | Portal      |
-| **97**   | Decaying      | Tower       |
+| **97**   | Weeping       | Tower       |
 | **98**   | Jagged        | Light       |
 | **99**   | Forsaken      | Cemetery    |
 | **100**  | Grassy        | Waterfall   |
