@@ -1,3 +1,13 @@
+---
+layout: default
+parent: Conversions
+grand_parent: Adventures
+title: Night of Blood
+---
+
+- [Night of Blood](https://cubicle7games.com/night-of-blood-pdf) by Jim Bambra
+- Conversion by [Joe Burrito](https://github.com/JoeBurrito) 
+
 #### Mutant
 4 HP, 10 STR, 6 DEX, 6 WIL, dagger or club (d6)
 
