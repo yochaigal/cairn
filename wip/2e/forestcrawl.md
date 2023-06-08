@@ -528,14 +528,14 @@ Finally, we roll on the [Forest Names](#forest-names) table, getting a **4** and
 
 #### The Luminous Weald
 
-##### Trails of _The Weald_
+##### Trails in The Weald
 
 - _Old Logging Road_: Runs Northwest, connecting **Glintleaf Dell** to **Thistlefield**. Heavy with enormous footprints.
 - _Fae Passage_: Runs Northeast, an offshoot of the _Old Logging Road_. Connects to **Shattered Barrow** and **Glimmerglade**. Covered in fresh spiderwebs.
 - _Bandit's Run_: Runs West, offshoot of the _Old Logging Road_. Connects to **Timpertop Spire** and **Mossbreak Nook**. Archaic tree carvings line the path.
 - _Pilgrim's Footpath_: Runs East from the _Old Logging Road_. Ends at the **Cloister of the Quiet Wood**. Odd, swaying plants line both sides of the trail.
 
-##### Points of Interest in _The Weald_
+##### Points of Interest in The Weald
 
 1. **Glintleaf Dell**: The heart of the forest. In the center is a small pond, where Naiads splash in a small pond with teeth fanged like daggers. Just beyond palatial, stone stage is built, topped by a gold-leaf arch. Here, the Elf Queen meets her subjects.
 2. **Thistlefield**: Overrun with thick bush, forming a dense thicket of thorns that is nearly impassable. Acts as a barrier of sorts, as just beyond lie the wide meadows of the West.
