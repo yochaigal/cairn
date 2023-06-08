@@ -264,41 +264,57 @@ grand_parent: WIP
 | **19**  | **Guardian**              |
 | **20**  | **Bloom Field**           |
 
-
-### Creating Forest Encounters
-
 #### Forest Encounters
 
-|         |                                                                                |
-| ------- | ------------------------------------------------------------------------------ |
-| **d20** | **Encounter**                                                                  |
-| **1**   | An enormous deer, its antlers shimmering silver.                               |
-| **2**   | The remnants of an old watchtower hidden dense forest growth.                  |
-| **3**   | A snarling pack of wolves surrounding a fresh kill.                            |
-| **4**   | Suddenly, the usual sounds of nature eerily absent.                            |
-| **5**   | A wide river where otters are playing with something shiny.                    |
-| **6**   | A circle of perfect mushrooms. Blue-white wings flutter between.               |
-| **7**   | A gnarled tree trunk bearing an uncannily carved face on its trunk.            |
-| **8**   | Naiads splashing in a small pond. Their teeth are fanged, like daggers.        |
-| **9**   | A hillside cave, wafting the scent of damp and decay.                          |
-| **10**  | A trap, hastily set and poorly concealed.                                      |
-| **11**  | A tree acting as makeshift bridge over a glittering stream.                    |
-| **12**  | Bees swarm protectively around a tree brimming with honeycombs.                |
-| **13**  | Wild berries grow in abundance, a feast for foragers.                          |
-| **14**  | Shadowy figures dart between the trees. Hushed voices call out to one another. |
-| **15**  | A wounded animal, whining pitifully as it limps.                               |
-| **16**  | A spectacular waterfall, rainbows dancing in its spray.                        |
-| **17**  | A dense thicket of thorns, nearly impassable.                                  |
-| **18**  | A patch of quicksand disguised as soft ground.                                 |
-| **19**  | A bird circles ominously overhead. It seems to be following the party.         |
-| **20**  | The sky is suddenly darkened by a large object streaking above.                |
+- To roll on the table below, roll a **d6** twice, first for the **tens** place, and then another for the **ones** place. 
+- Feel free iterate or combine the results, or simply choose an encounter that interests you.
 
+|         |                                                                                                            |
+| ------- | ---------------------------------------------------------------------------------------------------------- |
+| **d66** | **Encounter**                                                                                              |
+| **11**  | A woodwife gathers herbs, singing a melancholic song. She disappears into the wood if provoked.            |
+| **12**  | An old watchtower, hidden by dense forest growth. Something larger looms just around the bend.             |
+| **13**  | A snarling pack of wolves surround a fresh kill. They are not keen to share.                               |
+| **14**  | A massive boulder blocks the path ahead. It is actually a buried troll, turned to stone by the sun.        |
+| **15**  | A wide river where otters are playing with something shiny. It appears to be a small suit of armor.        |
+| **16**  | A circle of perfect mushrooms. Blue-white wings flutter between, their wings humming a hypnotic tune.      |
+| **21**  | A gnarled tree trunk with an uncannily carved face on its trunk.                                           |
+| **22**  | Naiads splashing in a small pond. Their teeth are fanged, like daggers.                                    |
+| **23**  | A hillside cave, wafting the scent of damp and decay. Within, a stone statue of some forgotten deity.      |
+| **24**  | A trap, hastily set and poorly concealed. It smells strongly of urine.                                     |
+| **25**  | A tree acting as makeshift bridge over a glittering stream. It appears sturdy.                             |
+| **26**  | Bees swarm protectively around a tree brimming with honeycombs. A cloaked figure silently observes nearby. |
+| **31**  | Wild berries grow here in abundance. None have been eaten, not even by birds.                              |
+| **32**  | Shadowy figures dart between the trees. Hushed voices call out to one another.                             |
+| **33**  | A wounded animal, whining pitifully and limping. There is intelligence in its eyes.                        |
+| **34**  | A spectacular waterfall, spraying rainbows high. A silver horn splits the cascade, its owner obscured.     |
+| **35**  | A dense thicket of thorns, nearly impassable. Something shiny glints just beyond.                          |
+| **36**  | A patch of quicksand disguised as soft ground. A broken spool of rope lies nearby.                         |
+| **41**  | A trio of ravens circle ominously overhead. Suddenly they burst into action, diving down into the bush.    |
+| **42**  | A dryad sits atop a stone, a purple fungus lining her arms. There is a violence to her eyes.               |
+| **43**  | A great oak has been felled, perhaps by lightning. A large hole is rent on one side.                       |
+| **44**  | A troll sits holding a mirror, engaged in deep conversation with its own reflection.                       |
+| **45**  | A tiny hovel is nestled in a tree's roots. The smell of baking bread wafts out.                            |
+| **46**  | A lone woodwose stands directly on the path ahead, holding a large stick.                                  |
+| **51**  | A trio of satyrs playing and dancing to music. They seem ignorant of any observation.                      |
+| **52**  | A windless glade with a large willow at the center. It sways softly, as if to some unseen breeze.          |
+| **53**  | Sleeping peacefully atop two boughts, a giant is snoring. The ground vibrates in response.                 |
+| **54**  | Dozens of smallfolk have setup a market here, trading forest goods. Their wares are impressive.            |
+| **55**  | A robed woman is tending to a wounded animal, whispering in its ear.                                       |
+| **56**  | A fairy circle, covered in black moss. Something about it feels off.                                       |
+| **61**  | A small bearded man argues with a squawking raven. It holds something shiny in its beak.                   |
+| **62**  | A tree, all but consumed by blight. In its boughs, something cries out as if trapped.                      |
+| **63**  | The path ends at a small pond. The water looks pure, but something moves subtly within.                    |
+| **64**  | A circle of standing stones, overgrown with moss. No grass grows in their shadow.                          |
+| **65**  | In the crook of a hollow tree, six ravens squawk and preen. If observed they stare back in silence.        |
+| **66**  | A rotted, vine-covered cabin, clearly abandoned long ago. A delicious smell wafts from the window.         |
 
 ### Detail Names
 
 - To create a name each **Detail**, combine the results from the first column (adjectives) with the results from the second column (nouns).
 - For the adjective, roll a **d10** twice, first for the **tens** place, and then another for the **ones** place. Then repeat the process for the noun. 
 - Feel free to combine two nouns, or an adjective and a [terrain type](https://cairnrpg.com/wip/2e/setting/#terrain-noun
+
 |          |                |             |
 | -------- | -------------- | s---------- |
 | **d100** | **Adjectives** | **Nouns**   |
