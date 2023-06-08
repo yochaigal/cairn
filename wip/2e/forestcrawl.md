@@ -297,7 +297,7 @@ grand_parent: WIP
 ### Detail Names
 
 - To create a name each **Detail**, combine the results from the first column (adjectives) with the results from the second column (nouns).
-- For the adjective, roll a **d10** twice, first for the tens place, and then another for the ones place. Then repeat the process for the noun. 
+- For the adjective, roll a **d10** twice, first for the **tens** place, and then another for the **ones** place. Then repeat the process for the noun. 
 - Feel free to combine two nouns, or an adjective and a [terrain type](https://cairnrpg.com/wip/2e/setting/#terrain-noun
 |          |                |             |
 | -------- | -------------- | s---------- |
@@ -406,7 +406,7 @@ grand_parent: WIP
 ### Forest Names
 
 - To create a name for your forest, combine the results from the first column (adjectives) with the results from the second column.
-- For the adjective, roll a **d6** twice, first for the tens place, and then another for the ones place. Then repeat the process for the noun. 
+- For the adjective, roll a **d6** twice, first for the **tens** place, and then another for the **ones** place. Then repeat the process for the noun. 
 - Feel free to combine two nouns, or an adjective and a [terrain type](https://cairnrpg.com/wip/2e/setting/#terrain-synonyms).
 
 |         |                |             |
@@ -414,7 +414,7 @@ grand_parent: WIP
 | **d66** | **Adjectives** | **Nouns**   |
 | **11**  | Dense          | Branches    |
 | **12**  | Ancient        | Glade       |
-| **13**  | Mossy          | Fen         |
+| **13**  | Mossy          | Fens        |
 | **14**  | Twisted        | Roots       |
 | **15**  | Murmuring      | Weald       |
 | **16**  | Amber          | Grove       |
@@ -423,9 +423,9 @@ grand_parent: WIP
 | **23**  | Speckled       | Morass      |
 | **24**  | Lush           | Bracken     |
 | **25**  | Misty          | Swale       |
-| **26**  | Shimmering     | Vines       |
+| **26**  | Shimmering     | Covert      |
 | **31**  | Towering       | Blossoms    |
-| **32**  | Leafy          | Pathway     |
+| **32**  | Leafy          | Paths       |
 | **33**  | Crystal        | Woods       |
 | **34**  | Rustling       | Ridge       |
 | **35**  | Secluded       | Woodland    |
@@ -435,7 +435,7 @@ grand_parent: WIP
 | **43**  | Looming        | Stand       |
 | **44**  | Fragrant       | Scar        |
 | **45**  | Yellow         | Vale        |
-| **46**  | Luminous       | Marsh       |
+| **46**  | Luminous       | Holt        |
 | **51**  | Hushed         | Thicket     |
 | **52**  | Golden         | Root        |
 | **53**  | Serene         | Brook       |
@@ -453,7 +453,7 @@ grand_parent: WIP
 
 ### Draw Trails
 
-- We start by creating the structure of our forest, drawing the first dot representing the **Heart** in the center, Southern part of the region.
+- We start by creating the structure of our forest, drawing the first dot representing the **Heart** in the central, Southern part of the region.
 - We then draw the **trunk**, creating a gentle curve towards the Northwest.
 - Then we draw three **branches** extending from the **trunk**, one towards the East (closer to the **Heart**) and the other towards the West and further North. 
 - Finally we draw a single **twig** off of each **branch**.
@@ -486,7 +486,7 @@ For the **trunk** as well as each **branch** and **twig**, we'll roll on the **T
 
 ### Assign Details
 
-Next we'll roll on the provided tables to generate features for each **Detail**. First create the **Heart (1)** by rolling on the [Special](#special) table (**d20**). We got an **11** (_Elf Queen's Pavilion_).
+Next we'll roll on the provided tables to generate features for each **Detail**. First roll a **d20** on the [Special](#special) table to create the **Heart (1)**. We got an **11** (_Elf Queen's Pavilion_).
 
 For each remaining **Detail**, we first roll on the [Detail Types](#detail-types) table, then on the associated table:
 - **Detail (2)**: We roll a **d6**: a **4** (Hazard). Now we roll a **d12** on the [Hazards](#hazards) table: a **6** (_Thorny Thickets_).
@@ -510,7 +510,7 @@ Next, we create forest encounters by rolling a **d20** on the [Forest Encounters
 
 ### Detail Naming
 
-We will now name each **Detail** using the [Detail Names](#detail-names) table. I took some liberties here, smashing together words I liked with random words.
+We will now name each **Detail** using the [Detail Names](#detail-names) table. I took some liberties here, smashing together words I liked with other words from the list.
 
 1. **Heart (Elf Queen's Pavilion)**: _Glintleaf Dell_
 2. **(Thorny Thickets)**: _Thistlefield_
@@ -528,14 +528,18 @@ Finally, we roll on the [Forest Names](#forest-names) table, getting a **4** and
 
 #### The Luminous Weald
 
-##### Trails in The Weald
+[![Alt text](/img/2e/forestcrawl.png "Click to embiggen"){:height="80%" width="80%"}](/img/2e/forestcrawl.png)
+
+> I've added a backdrop from the wonderful [Perilous Shores](https://watabou.itch.io/perilous-shores) to give it more flavor. 
+
+#### Trails in The Weald
 
 - _Old Logging Road_: Runs Northwest, connecting **Glintleaf Dell** to **Thistlefield**. Heavy with enormous footprints.
 - _Fae Passage_: Runs Northeast, an offshoot of the _Old Logging Road_. Connects to **Shattered Barrow** and **Glimmerglade**. Covered in fresh spiderwebs.
 - _Bandit's Run_: Runs West, offshoot of the _Old Logging Road_. Connects to **Timpertop Spire** and **Mossbreak Nook**. Archaic tree carvings line the path.
 - _Pilgrim's Footpath_: Runs East from the _Old Logging Road_. Ends at the **Cloister of the Quiet Wood**. Odd, swaying plants line both sides of the trail.
 
-##### Points of Interest in The Weald
+#### Points of Interest in The Weald
 
 1. **Glintleaf Dell**: The heart of the forest. In the center is a small pond, where Naiads splash in a small pond with teeth fanged like daggers. Just beyond palatial, stone stage is built, topped by a gold-leaf arch. Here, the Elf Queen meets her subjects.
 2. **Thistlefield**: Overrun with thick bush, forming a dense thicket of thorns that is nearly impassable. Acts as a barrier of sorts, as just beyond lie the wide meadows of the West.
@@ -545,8 +549,3 @@ Finally, we roll on the [Forest Names](#forest-names) table, getting a **4** and
 6. **Mossbreak Nook**: A Goblin hideout, completely hidden by the heavily-mossed trees surrounding it. In a small nearby glade a pack of snarling wolves surrounds a freshly killed fae-touched deer.
 7. **Glimmerglade**: A lovely meadow nestled beneath an impressive willow tree. In the center, blue-white wings flutter about over a circle of perfect red mushrooms. At night, Will-o'-Wisps descend from the willow's boughs, and feast.
 
-##### Map of The Luminous Weald
-
-And that's it! Here is the final map. I've added a backdrop from the wonderful [Perilous Shores](https://watabou.itch.io/perilous-shores) to give it more flavor. 
-
-[![Alt text](/img/2e/forestcrawl.png "Click to embiggen"){:height="80%" width="60%"}](/img/2e/forestcrawl.png)
