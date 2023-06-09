@@ -12,12 +12,12 @@ search_exclude: true
 
 ## Name, Background & Traits
 
-- First, roll for your character's **age** (2d20+10).
-- Then roll on the [Backgrounds](#backgrounds) table. A PC’s background informs their potential knowledge and skills. You'll need to refer to the Background result for the next few steps.
-- Choose a name from the available list, then roll on each included table for the Background. Record the **Bonds**, items, skills, or abilities gained (or lost) from each result.    
+- First roll on the [Backgrounds](#backgrounds) table. A PC’s background informs their potential knowledge and skills. You'll need to refer to the Background result for the next few steps.
+- Choose a name from the available list, then roll for your character's **age** (2d20+10). 
+- Next, roll on each of the included tables in the background. Record your character's **Bonds**, items, skills, or abilities gained (or lost) from each result. See [Inventory](#inventory) for how to record items.     
 - Finally, roll for the rest of your character's **traits** (appearance, speech, mannerisms, beliefs, reputation, etc.) on the [**Character Traits**](#character-traits-d10) tables. 
 
-> Note: the backgrounds below are clickable!
+> To roll on the table below, roll a **d6** twice, first for the **tens** place, and then another for the **ones** place. The backgrounds below are clickable!
 
 ### Backgrounds
 
@@ -60,8 +60,6 @@ search_exclude: true
 | **64**  |                                                                       |
 | **65**  |                                                                       |
 | **66**  |                                                                       |
-
-Please note that the numbers 11 to 66 represent the range for rolling on the d66 table, and you can fill in the empty cells with additional backgrounds or information if needed.
 
 ## Character Traits (d10)
 
