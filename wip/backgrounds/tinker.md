@@ -9,7 +9,7 @@ grand_parent: WIP
 
 # Tinker
 
-> You carry the jingle of coins and the smell of molten metal to towns far and wide. Your cart full of wonders, solutions to problems no one knew they'd had. Not a mere merchant, but an artisan. 
+> You are followed by the smell of molten metal, the jingle of coins. Your pack full of wonders, bearing solutions to problems no one knew they'd had. You are not a mere merchant, but an artisan of fire and metal. 
 
 ## Names
 Fergus, Eamon, Bram, Idris, Elara, Darragh, Seren, Rónán, Berek, Lorenz
@@ -19,28 +19,28 @@ Fergus, Eamon, Bram, Idris, Elara, Darragh, Seren, Rónán, Berek, Lorenz
 - 3d6 gold pieces
 - Rations (3 uses)
 - Torch (3 users)
-- Kettle
+- Tent (fits 2)
 - Helm (+1 Armor)
 
-## How did your lose your way?
+## How did your lose your way? Roll 1d6:
 
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-| 1    | A well-respected tinsmith, your skill attracted the attention of a wealthy patron who offered you a year's pay to design a miniscule part of a mysterious machine. You later learned that your handiwork was was found in a vault-cracking device used by the **Guild of Thieves, Scoundrels and Wastrels**, your signature scrived within. Your property seized, you fled to avoid imprisonment (or worse). You always carry pincers, a hammer, and tin. Given time and materials, you can open almost any door. |
-| 2    | You made a living traveling from town to town, selling home goods, tools, and the like. You didn't stuck around long enough to make friends, but enemies seemed to pop-up almost everywhere: superstitious peasants, greedy nobles, or wicked zealots. Some whispered on the devilish origins of your people, while others simply made your kind a bogeymen for their daily ills. Eventually it became too dangerous to keep up the family trade, so you found a new path for yourself. You start with a  hidden stiletto (d6, 0 slots), a lantern, and oil. You are fluent in the *Traveller's Cant* and its signs; if there is a city within 3 days' walk, you can always find it. |
-| 3    | Your folk were smelters, taking raw mineral and making it stronger, more flexible. And during the war, bronze was in high demand - as were your services. But once the war ended, so did your family's livelihood. You and your seven siblings split what was left and spread across the lands in search of the next profitable mineral beneath the earth's crust. Take a smelting hammer (d10, bulky) and . Given time and adequete materials, you can repair or even *augment* armor, increasing its strength and resiliency. You can identify refined metals and their properties. |
-| 4    | You sold only the most rare or unique items: scholarly books, scientific tools, and mechanical wonders. Monasteries and religious houses were once your most important customer, before the inquisition, before the demon trials took over the countryside. You escaped with what little you could grab, and deep down you know the witchfinders are still hunting for you. Take a spyglass, and the [Fold Portal](https://cairnrpg.com/resources/more-spellbooks/#fold-portal) spellbook. |
-| 5    | You aren't a tinker, not really. You don't have a head for numbers, or a heart for the sale. Your skill lay instead in the art of self-defense, of killing. You'd travel to and fro with the tinker's, protecting their wares and keeping their company. In time they became like family to you. But you became too comfortable, and let your guard down when it really counted. Your caravan was robbed and someone close to you was killed. Now they're gone, and you're looking for work. You carry a long sword (d10, bulky) and wear a brigandine (1 Armor, bulky). |
-| 6    | During the war you became nought more than a scavenger, scouring the bloody grasses and burning forests for tin and iron mere hours after the armies had moved out, the bodies of their soldiers sometimes still twitching and clinging on to life. The horrors you saw in the battlefields still haunt you to this day. After the war ended, you vowed never to dishonor the dead again, donating regular alms to funeraries and their ilk. Start with a donkey (+4 slots, slow), a crossbow (d8 damage, bulky), holy water, a saw, and a debt you can never repay. |
+|     |                                                                                                                                                                                                                                                                                                                                                                   |
+| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | A machine you designed was later used open a wealthy noble's vault. Now the constables are after you, and the **Guild of Thieves, Scoundrels and Wastrels** is asking for a percentage of the stolen goods. You always carry pincers, a hammer, and tin. Given time and materials, you can open almost any door.                                                  |
+| 2   | Formerly a traveling merchant dealing in home goods and tools, the hostility and superstition of townspeople pushed you towards new horizons. You are armed with a hidden **stiletto**, a **lantern**, and **oil**. You are fluent in the _Traveller's Cant_, and can always find a city within a three-day walk.                                                 |
+| 3   | Formerly a military smelter, peace destroyed your livelihood. Now you roam in search of profitable minerals only found deep under ground. Take a **smelting hammer** (d10, bulky). You can identify most metals and understand their properties. Given time and adequete materials, you can even repair armor.                                                    |
+| 4   | You traded only in the most rare and sought-after items, selling to monastaries and nobles alike. Then the inquisitions swept the lands, followed soon after by trials. You escaped with only what you could carry. Take a **spyglass**, a necklace worth 20gp, and the [Fold Portal](https://cairnrpg.com/resources/more-spellbooks/#fold-portal) spellbook.     |
+| 5   | Not a true tinker, your skill lay in the art of self-defense. You protected the tinker's trade, quietly watching for threats as gold exchanged hands. One day your caravan was robbed and your ward was killed. You survived, but were banned from service. You start with +d4 HP, and carry a **long sword** (d10, bulky) and a **brigandine** (1 Armor, bulky). |
+| 6   | You scavenged bloody battlefields for tin and iron, pulling teeth from still-twitching corpses. After the war, you vowed never again to dishonor the dead. Start with a **donkey** (+4 slots, slow), a **crossbow** (d8 damage, bulky), a **saw** (d6), and a debt you can never repay.                                                                           |
 
-## What do you keep near that never fails to get you out of trouble?
+## What do you have that ever fails to get you out of trouble? Roll 1d6:
 
-|      |      |      |
-| ---- | ---- | ---- |
-| 1    |**Fire Eggs** | Six small pellets made of sea salt, wood, and crockery-dust. They explode at low heat (d8, _blast_) but dissipate quickly.      |
-| 2    |**Black Tar** | Useful while carting your goods on the long lonely roads between towns. Especially if you're being followed.    |
-| 3    |**Spiked Boots** | Cracks heads as easily as it does ice and muck (d8). Travel is also a bit slower, but easier.     |
-| 4    |**Tinker's Paste** | Seals shut any fist-sized opening. 3 uses.     |
-| 5    |**Younger Sibling** | Create another character, but follow the [hireling](https://cairnrpg.com/cairn-srd/#hirelings) rules. They share your background, and will follow you to the ends of the earth. You are not necessarily related. |
-| 6    |**Riding Horse** | This powerful steed (hooves, d6) is fast and carries you +2 slots of goods as far as you wish. You must feed it one ration a day. |
+|     |                    |                                                                                                                                   |
+| --- | ------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | **Fire Eggs**      | Six small pellets made of sea salt, wood, and crockery-dust. They explode at low heat (d8, _blast_) but dissipate quickly.        |
+| 2   | **Black Tar**      | Useful while carting your goods on the long lonely roads between towns. Especially if you're being followed.                      |
+| 3   | **Spiked Boots**   | Cracks heads as easily as it does ice and muck (d8). Travel is also a bit slower, but easier.                                     |
+| 4   | **Tinker's Paste** | Seals shut any fist-sized opening. 3 uses.                                                                                        |
+| 5   | **Fireworks**      | A dazzling, albeit dangerous display, with enough explosive material to blow off a finger. Or more. 2 uses remain.                |
+| 6   | **Riding Horse**   | This powerful steed (hooves, d6) is fast and carries you +2 slots of goods as far as you wish. You must feed it one ration a day. |
 

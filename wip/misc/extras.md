@@ -539,3 +539,8 @@ The Crag of the Mossy Reservoir
 | **18**  | **Enshrouded**  | **Sky**             |
 | **19**  | **Apparition**  | **Slime**           |
 | **20**  | **Aberrant**    | **Pestilent**       |
+
+
+
+## Backgrounds
+**Younger Sibling: **Create a second character They share your background, and will follow you to the ends of the earth. You are not necessarily related.
