@@ -146,7 +146,7 @@ search_exclude: true
 ## Ability Scores  
 
 - Player Characters (PCs) have just three attributes: **Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**.
-- Roll 3d6 for each of their character's ability scores, in order. They may then swap any two of the results.
+- Roll 3d6 for each of your character's ability scores, in order. You may then swap any two of the results.
 - Ability scores are not universal descriptors. A character with a low STR is not necessarily weak; they can still attempt to raise a door or survive a deadly fight! Their risk is simply higher. 
 
 ## Hit Protection  
