@@ -12,83 +12,56 @@ search_exclude: true
 
 ## Name, Background & Traits
 
-- First roll on the [Backgrounds](#backgrounds) table. A PC’s background informs their potential knowledge and skills. You'll need to refer to the Background result for the next few steps.
+- First, roll for your character's **age** (2d20+10).
+- Then roll on the [Backgrounds](#backgrounds) table. A PC’s background informs their potential knowledge and skills. You'll need to refer to the Background result for the next few steps.
 - Choose a name from the available list, then roll on each included table for the Background. Record the **Bonds**, items, skills, or abilities gained (or lost) from each result.    
-- Next, roll for the rest of your character's **traits** (appearance, speech, mannerisms, beliefs, reputation, etc.) on the [**Character Traits**](#character-traits-d10) tables. 
-- Finally, roll for your character's **age** (2d20+10).
+- Finally, roll for the rest of your character's **traits** (appearance, speech, mannerisms, beliefs, reputation, etc.) on the [**Character Traits**](#character-traits-d10) tables. 
+
+> Note: the backgrounds below are clickable!
 
 ### Backgrounds
 
 |         |                                                                       |
 | ------- | --------------------------------------------------------------------- |
 | **d66** | **Background**                                                        |
-| 1       | [Marchguard](https://cairnrpg.com/wip/backgrounds/marchguard/)        |
-| 2       | [Fieldwarden](https://cairnrpg.com/wip/backgrounds/fieldwarden/)      |
-| 3       | [Greenwise](https://cairnrpg.com/wip/backgrounds/greenwise/)          |
-| 4       | [Bonescribe](https://cairnrpg.com/wip/backgrounds/fieldwarden/)       |
-| 5       | [Mountebank](https://cairnrpg.com/wip/backgrounds/mountebank)         |              |
-| 6       | [Tinker](https://cairnrpg.com/wip/backgrounds/tinker)   
-| 7       | [Grove Warden](https://cairnrpg.com/wip/backgrounds/grove-warden)     |
-| 8       | [Hunter](https://cairnrpg.com/wip/backgrounds/hunter)                 |
-| 9       | [Local Hero](https://cairnrpg.com/wip/backgrounds/local-hero)         |
-| 10      | [Marshstrider](https://cairnrpg.com/wip/backgrounds/marshstrider)     |
-| 11      | [Foundling](https://cairnrpg.com/wip/backgrounds/foundling)           |
-| 12      | [Performer](https://cairnrpg.com/wip/backgrounds/performer)           |
-| 13      | [Petty Magician](https://cairnrpg.com/wip/backgrounds/petty-magician) |
-| 14      | [Ranger](https://cairnrpg.com/wip/backgrounds/ranger)                 |
-| 15      | [Scribe](https://cairnrpg.com/wip/backgrounds/scribe)                 |
-| 16      | [Alchemist](https://cairnrpg.com/wip/backgrounds/alchemist)           |
-| 17      | [Wood Scholar](https://cairnrpg.com/wip/backgrounds/wood-scholar)     |
-| 18      |                                                                       |
-| 19      |                                                                       |
-| 20      |                                                                       |
-| 21      |                                                                       |
-| 22      |                                                                       |
-| 23      |                                                                       |
-| 24      |                                                                       |
-| 25      |                                                                       |
-| 26      |                                                                       |
-| 27      |                                                                       |
-| 28      |                                                                       |
-| 29      |                                                                       |
-| 30      |                                                                       |
-| 31      |                                                                       |
-| 32      |                                                                       |
-| 33      |                                                                       |
-| 34      |                                                                       |
-| 35      |                                                                       |
-| 36      |                                                                       |
-| 37      |                                                                       |
-| 38      |                                                                       |
-| 39      |                                                                       |
-| 40      |                                                                       |
-| 41      |                                                                       |
-| 42      |                                                                       |
-| 43      |                                                                       |
-| 44      |                                                                       |
-| 45      |                                                                       |
-| 46      |                                                                       |
-| 47      |                                                                       |
-| 48      |                                                                       |
-| 49      |                                                                       |
-| 50      |                                                                       |
-| 51      |                                                                       |
-| 52      |                                                                       |
-| 53      |                                                                       |
-| 54      |                                                                       |
-| 55      |                                                                       |
-| 56      |                                                                       |
-| 57      |                                                                       |
-| 58      |                                                                       |
-| 59      |                                                                       |
-| 60      |                                                                       |
-| 61      |                                                                       |
-| 62      |                                                                       |
-| 63      |                                                                       |
-| 64      |                                                                       |
-| 65      |                                                                       |
-| 66      |                                                                       |
+| **11**  | [Marchguard](https://cairnrpg.com/wip/backgrounds/marchguard/)        |
+| **12**  | [Fieldwarden](https://cairnrpg.com/wip/backgrounds/fieldwarden/)      |
+| **13**  | [Greenwise](https://cairnrpg.com/wip/backgrounds/greenwise/)          |
+| **14**  | [Bonescribe](https://cairnrpg.com/wip/backgrounds/fieldwarden/)       |
+| **15**  | [Mountebank](https://cairnrpg.com/wip/backgrounds/mountebank)         |
+| **16**  | [Tinker](https://cairnrpg.com/wip/backgrounds/tinker)                 |
+| **21**  | [Grove Warden](https://cairnrpg.com/wip/backgrounds/grove-warden)     |
+| **22**  | [Hunter](https://cairnrpg.com/wip/backgrounds/hunter)                 |
+| **23**  | [Local Hero](https://cairnrpg.com/wip/backgrounds/local-hero)         |
+| **24**  | [Marshstrider](https://cairnrpg.com/wip/backgrounds/marshstrider)     |
+| **25**  | [Foundling](https://cairnrpg.com/wip/backgrounds/foundling)           |
+| **26**  | [Performer](https://cairnrpg.com/wip/backgrounds/performer)           |
+| **31**  | [Petty Magician](https://cairnrpg.com/wip/backgrounds/petty-magician) |
+| **32**  | [Ranger](https://cairnrpg.com/wip/backgrounds/ranger)                 |
+| **33**  | [Scribe](https://cairnrpg.com/wip/backgrounds/scribe)                 |
+| **34**  | [Alchemist](https://cairnrpg.com/wip/backgrounds/alchemist)           |
+| **35**  | [Wood Scholar](https://cairnrpg.com/wip/backgrounds/wood-scholar)     |
+| **36**  |                                                                       |
+| **41**  |                                                                       |
+| **42**  |                                                                       |
+| **43**  |                                                                       |
+| **44**  |                                                                       |
+| **45**  |                                                                       |
+| **46**  |                                                                       |
+| **51**  |                                                                       |
+| **52**  |                                                                       |
+| **53**  |                                                                       |
+| **54**  |                                                                       |
+| **55**  |                                                                       |
+| **56**  |                                                                       |
+| **61**  |                                                                       |
+| **62**  |                                                                       |
+| **63**  |                                                                       |
+| **64**  |                                                                       |
+| **65**  |                                                                       |
+| **66**  |                                                                       |
 
+Please note that the numbers 11 to 66 represent the range for rolling on the d66 table, and you can fill in the empty cells with additional backgrounds or information if needed.
 
 ## Character Traits (d10)
 
