@@ -19,6 +19,75 @@ search_exclude: true
 
 ### Backgrounds
 
+|         |                                                                       |
+| ------- | --------------------------------------------------------------------- |
+| **d66** | **Background**                                                        |
+| 1       | [Marchguard](https://cairnrpg.com/wip/backgrounds/marchguard/)        |
+| 2       | [Fieldwarden](https://cairnrpg.com/wip/backgrounds/fieldwarden/)      |
+| 3       | [Greenwise](https://cairnrpg.com/wip/backgrounds/greenwise/)          |
+| 4       | [Bonescribe](https://cairnrpg.com/wip/backgrounds/fieldwarden/)       |
+| 5       | [Tinker](https://cairnrpg.com/wip/backgrounds/tinker)                 |
+| 6       | [Mountebank](https://cairnrpg.com/wip/backgrounds/mountebank)         |
+| 7       | [Grove Warden](https://cairnrpg.com/wip/backgrounds/grove-warden)     |
+| 8       | [Hunter](https://cairnrpg.com/wip/backgrounds/hunter)                 |
+| 9       | [Local Hero](https://cairnrpg.com/wip/backgrounds/local-hero)         |
+| 10      | [Marshstrider](https://cairnrpg.com/wip/backgrounds/marshstrider)     |
+| 11      | [Foundling](https://cairnrpg.com/wip/backgrounds/foundling)           |
+| 12      | [Performer](https://cairnrpg.com/wip/backgrounds/performer)           |
+| 13      | [Petty Magician](https://cairnrpg.com/wip/backgrounds/petty-magician) |
+| 14      | [Ranger](https://cairnrpg.com/wip/backgrounds/ranger)                 |
+| 15      | [Scribe](https://cairnrpg.com/wip/backgrounds/scribe)                 |
+| 16      | [Alchemist](https://cairnrpg.com/wip/backgrounds/alchemist)           |
+| 17      | [Wood Scholar](https://cairnrpg.com/wip/backgrounds/wood-scholar)     |
+| 18      |                                                                       |
+| 19      |                                                                       |
+| 20      |                                                                       |
+| 21      |                                                                       |
+| 22      |                                                                       |
+| 23      |                                                                       |
+| 24      |                                                                       |
+| 25      |                                                                       |
+| 26      |                                                                       |
+| 27      |                                                                       |
+| 28      |                                                                       |
+| 29      |                                                                       |
+| 30      |                                                                       |
+| 31      |                                                                       |
+| 32      |                                                                       |
+| 33      |                                                                       |
+| 34      |                                                                       |
+| 35      |                                                                       |
+| 36      |                                                                       |
+| 37      |                                                                       |
+| 38      |                                                                       |
+| 39      |                                                                       |
+| 40      |                                                                       |
+| 41      |                                                                       |
+| 42      |                                                                       |
+| 43      |                                                                       |
+| 44      |                                                                       |
+| 45      |                                                                       |
+| 46      |                                                                       |
+| 47      |                                                                       |
+| 48      |                                                                       |
+| 49      |                                                                       |
+| 50      |                                                                       |
+| 51      |                                                                       |
+| 52      |                                                                       |
+| 53      |                                                                       |
+| 54      |                                                                       |
+| 55      |                                                                       |
+| 56      |                                                                       |
+| 57      |                                                                       |
+| 58      |                                                                       |
+| 59      |                                                                       |
+| 60      |                                                                       |
+| 61      |                                                                       |
+| 62      |                                                                       |
+| 63      |                                                                       |
+| 64      |                                                                       |
+| 65      |                                                                       |
+| 66      |                                                                       |
 
 
 ## Character Traits (d10)
