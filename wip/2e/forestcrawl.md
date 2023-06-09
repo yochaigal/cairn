@@ -557,11 +557,11 @@ Finally, we roll on the [Forest Names](#forest-names) table, getting a **4** and
 
 #### Points of Interest in The Weald
 
-1. **Glintleaf Dell**: The heart of the forest. In the center is a small pond, where Naiads splash in a small pond with teeth fanged like daggers. Just beyond palatial, stone stage is built, topped by a gold-leaf arch. Here, the Elf Queen meets her subjects.
-2. **Thistlefield**: Overrun with thick bush, forming a dense thicket of thorns that is nearly impassable. Acts as a barrier of sorts, as just beyond lie the wide meadows of the West.
-3. **Timbertop Spire**: A heavily wooded area featuring tall, majestic oak trees arranged in an unnatural albeit pleasing fashion, evoking a feelilng of reverence in its visitors. A wounded animal whines pitifully within the grove. 
-4. **Cloister of the Quiet Wood**: A monastery built into an old military outpost. The only items allowed beyond the decrepit watch tower standing before it are books, as this particular order is well-known for its scholarly research.
-5. **Shattered Barrow**: A collapsed crypt, covered in moss and ivy. An ugly, scarred face is carved into an enormous oak tree nearby.
-6. **Mossbreak Nook**: A Goblin hideout, completely hidden by the heavily-mossed trees surrounding it. In a small nearby glade a pack of snarling wolves surrounds a freshly killed fae-touched deer.
-7. **Glimmerglade**: A lovely meadow nestled beneath an impressive willow tree. In the center, blue-white wings flutter about over a circle of perfect red mushrooms. At night, Will-o'-Wisps descend from the willow's boughs, and feast.
+1. **Glintleaf Dell**: The heart of the forest. In the center is a small pond, where Naiads with dagger-like teeth frolic. A palatial stone stage is built on one side, topped by a gold-leaf arch. Here, the Elf Queen meets her subjects.
+2. **Thistlefield**: This area is overrun with thick bushes, forming a dense, nearly impassable thicket of thorns. It acts as a barrier of sorts, as just beyond lie the wide meadows of the West.
+3. **Timbertop Spire**: A heavily wooded area featuring tall, majestic oak trees arranged in an unnatural yet pleasing pattern, evoking a sense of reverence in its visitors. A wounded animal whines pitifully within this sacred grove.
+4. **Cloister of the Quiet Wood**: A monastery repurposed from an old military outpost. The only items allowed beyond the decrepit watchtower standing before it are books, as this particular order is well-known for its scholarly research.
+5. **Shattered Barrow**: A collapsed crypt, blanketed in moss and ivy. An uncanny, scarred face is carved into a nearby enormous oak tree.
+6. **Mossbreak Nook**: A Goblin hideout, completely obscured by the heavily-mossed trees surrounding it. In a small nearby glade, a pack of snarling wolves surrounds a freshly killed fae-touched deer.
+7. **Glimmerglade**: A lovely meadow nestled beneath an impressive willow tree. In the center, blue-white wings flutter about a circle of perfect red mushrooms. At night, Will-o'-Wisps descend from the willow's boughs to feast.
 
