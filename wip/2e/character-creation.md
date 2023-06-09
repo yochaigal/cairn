@@ -13,7 +13,7 @@ search_exclude: true
 ## Name, Background & Traits
 
 - First roll on the [Backgrounds](#backgrounds) table. A PC’s background informs their potential knowledge and skills. You'll need to refer to the Background result for the next few steps.
-- Choose a name from the available list, then roll on each included table for the Background. Record the items, skills, or abilities gained (or lost) from each result.    
+- Choose a name from the available list, then roll on each included table for the Background. Record the **Bonds**, items, skills, or abilities gained (or lost) from each result.    
 - Next, roll for the rest of your character's **traits** (appearance, speech, mannerisms, beliefs, reputation, etc.) on the [**Character Traits**](#character-traits-d10) tables. 
 - Finally, roll for your character's **age** (2d20+10).
 
