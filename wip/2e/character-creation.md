@@ -26,8 +26,8 @@ search_exclude: true
 | 2       | [Fieldwarden](https://cairnrpg.com/wip/backgrounds/fieldwarden/)      |
 | 3       | [Greenwise](https://cairnrpg.com/wip/backgrounds/greenwise/)          |
 | 4       | [Bonescribe](https://cairnrpg.com/wip/backgrounds/fieldwarden/)       |
-| 5       | [Tinker](https://cairnrpg.com/wip/backgrounds/tinker)                 |
-| 6       | [Mountebank](https://cairnrpg.com/wip/backgrounds/mountebank)         |
+| 5       | [Mountebank](https://cairnrpg.com/wip/backgrounds/mountebank)         |              |
+| 6       | [Tinker](https://cairnrpg.com/wip/backgrounds/tinker)   
 | 7       | [Grove Warden](https://cairnrpg.com/wip/backgrounds/grove-warden)     |
 | 8       | [Hunter](https://cairnrpg.com/wip/backgrounds/hunter)                 |
 | 9       | [Local Hero](https://cairnrpg.com/wip/backgrounds/local-hero)         |
