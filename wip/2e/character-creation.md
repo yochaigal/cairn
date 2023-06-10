@@ -30,8 +30,8 @@ search_exclude: true
 | **14**  | [Bonescribe](https://cairnrpg.com/wip/backgrounds/fieldwarden/)       |
 | **15**  | [Mountebank](https://cairnrpg.com/wip/backgrounds/mountebank)         |
 | **16**  | [Tinker](https://cairnrpg.com/wip/backgrounds/tinker)                 |
-| **21**  | [Grove Warden](https://cairnrpg.com/wip/backgrounds/grove-warden)     |
-| **22**  | [Hunter](https://cairnrpg.com/wip/backgrounds/hunter)                 |
+| **21**  | [Alchemist](https://cairnrpg.com/wip/backgrounds/alchemist)           |
+| **22**  | [Grove Warden](https://cairnrpg.com/wip/backgrounds/grove-warden)     |
 | **23**  | [Local Hero](https://cairnrpg.com/wip/backgrounds/local-hero)         |
 | **24**  | [Marshstrider](https://cairnrpg.com/wip/backgrounds/marshstrider)     |
 | **25**  | [Foundling](https://cairnrpg.com/wip/backgrounds/foundling)           |
@@ -39,7 +39,7 @@ search_exclude: true
 | **31**  | [Petty Magician](https://cairnrpg.com/wip/backgrounds/petty-magician) |
 | **32**  | [Ranger](https://cairnrpg.com/wip/backgrounds/ranger)                 |
 | **33**  | [Scribe](https://cairnrpg.com/wip/backgrounds/scribe)                 |
-| **34**  | [Alchemist](https://cairnrpg.com/wip/backgrounds/alchemist)           |
+| **34**  | [Hunter](https://cairnrpg.com/wip/backgrounds/hunter)                 |
 | **35**  | [Wood Scholar](https://cairnrpg.com/wip/backgrounds/wood-scholar)     |
 | **36**  |                                                                       |
 | **41**  |                                                                       |

@@ -1,5 +1,5 @@
 ---
-title: Grove Warden
+title: Woodweard
 layout: default
 nav_exclude: true
 search_exclude: true
@@ -8,7 +8,7 @@ grand_parent: WIP
 ---
 
 
-# Grove Warden
+# Woodweard
 
 ## Starting Gear
 

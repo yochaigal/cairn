@@ -21,14 +21,14 @@ grand_parent: WIP
 
 ## Why did you quit magic?
 
-|      |                |                                                              |
-| ---- | -------------- | ------------------------------------------------------------ |
-| 1    | **Prosecuted** | A series of witch hunters swore to have you drowned.         |
-| 2    | **Debt**       | While performing a routine stage show, a being born from the shadows cast by your candles offered you power for your soul, mistaking it as a potential part of your act you obliged. |
-| 3    | **Loss**       | You mastered the ability to make things disappear, but you could never find where they went, eventually every pet you ever had was lost to the ether. |
-| 4    | **Heckler**    | One especially insensitive lay-about child always snuck into your shows and would shout just the worst jibes, to the enjoyment of your measly crowd. |
-| 5    | **Sabotage**   | Someone snuck into your storage and ruined your saw box, leading to your on-stage dismemberment of an audience participant. |
-| 6    | **Thievery**   | The look-alike you used for tricks stole your entire routine and has completely drawn your crowd away from you, painting you as the fraud. |
+|      |                                                              |
+| ---- | ------------------------------------------------------------ |
+| **1**    | Your experiments with birds went a little overboard. Now, you can communicate with crows, but they incessantly follow you around, always cawing. Start with a bag of **shiny trinkets** to keep them at bay, or to exchange for "favors." 
+| **2**    | While performing a routine stage show, a being born from the shadows cast by your candles offered you power for your soul, mistaking it as a potential part of your act you obliged. |
+| **3**    | You never excelled in any particular field, instead dabbling in many subjects without focus. You can only create parlor tricks, useful for dazzle and not much else. Take a **card game** you created. You know how to win every time. |
+| **4**    | One especially insensitive lay-about child always snuck into your shows and would shout just the worst jibes, to the enjoyment of your measly crowd. |
+| **5**    | Someone snuck into your storage and ruined your saw box, leading to your on-stage dismemberment of an audience participant. |
+| **6**    | The look-alike you used for tricks stole your entire routine and has completely drawn your crowd away from you, painting you as the fraud. |
 
 
 ## What trick was your specialty?
