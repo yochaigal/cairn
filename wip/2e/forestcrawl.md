@@ -316,7 +316,7 @@ grand_parent: WIP
 - Feel free to combine two nouns, or an adjective and a [terrain type](https://cairnrpg.com/wip/2e/setting/#terrain-noun
 
 |          |                |             |
-| -------- | -------------- | s---------- |
+| -------- | -------------- | ----------- |
 | **d100** | **Adjectives** | **Nouns**   |
 | **1**    | Dense          | Thicket     |
 | **2**    | Mossy          | Branches    |
@@ -446,7 +446,7 @@ grand_parent: WIP
 | **34**  | Rustling       | Ridge       |
 | **35**  | Secluded       | Woodland    |
 | **36**  | Vibrant        | Trail       |
-| **41**  | Hidden         | Grove       |
+| **41**  | Hidden         | Passage     |
 | **42**  | Tangled        | Loam        |
 | **43**  | Looming        | Stand       |
 | **44**  | Fragrant       | Scar        |
