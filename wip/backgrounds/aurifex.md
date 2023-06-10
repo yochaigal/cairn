@@ -21,35 +21,31 @@ grand_parent: WIP
 
 |     |                                                                                                                                                                                                                                                                                            |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **1**   |                       |
-| **2** | Your mentor died in a tragic accident, just as you were on the cusp of a major discovery. You survived, but not unscathed: you can _smell gold_, even rooms away. The sense is so powerful it overwhelms everything else. Take a **tin of snuff**. You are _deprived_ without it.          |
+| **1**   | Your attempts to transmute lead ended in tragedy. You survived, but lost your sense of smell, with one exception. You can _smell gold_, even from rooms away; the scent is overwhelming. Take a **tin of snuff**. Without it, you are _deprived_.                  |
+| **2** | You discovered evidence that someone - you don't know who - was slowly experimenting on you. Occasionally you experience terrifying visions of the future. You rarely feel hunger and need only eat every 3 days. Take antitoxin.          |
 | **3** | You accidentally brewed a love potion for a client, an heir to a local position of nobility. They were infatuated with you, but their parents had other ideas. With the proper ingredients, you know how to make the _Shroud_ potion (take one now).                                       |
-| **4** | You are followed by a homunculus, a small 6-inch replica of yourself. You created it, and it hates being enthralled to you. Though it will follow your commands to the letter, it will try to undo your requests whenever possible. Any damage done to the homunculus is also done to you. |
-| **5** | You discovered evidence that someone - you don't know who - was slowly experimenting on you. Occasionally you experience terrifying visions of the future. You rarely feel hunger and need only eat every 3 days. Take antitoxin.                                                          |
-| **6** | The last concoction you brewed resulted in a massive explosion, scarring you horribly. Most folk will look away from whatever you're up to. You can walk handle fire for small spurts without taking injury. Take fire oil.                                                                |
+| **4** | You were exposed to a vial of truth serum, and the effects refuse to wear off. Now, you compulsively speak the truth, and cannot lie. You carry a **Rod of Silence** (3 charges, **Recharge**: Complete a vow of silence for one week). It cancels all magical effects, including your affliction.       |
+| **5** |                                                          |
+| **6** | The last concoction you brewed resulted in a massive explosion, scarring you horribly. Most folk will look away from whatever you're up to. You can walk handle fire for small spurts without taking injury. Take fire oil.     |
 
 
-|     |                                                                                                                                                                                                                                                                                                                                                                           |
-| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **7** | You crafted a tonic that accidentally amplified the consumer's worst traits. The local town was thrown into chaos, and you were blamed. Shunned, you stopped practicing. Now, you can immediately identify any person's dominant character trait on sight. Take a vial of clear water, the base of all your potions. |
-| **8** | You made an elixir of youth for a wealthy patron. It worked too well, reducing them to an infant. Fleeing their wrath, you swore off your craft. But, you age slower now, adding 10 years to your lifespan. Start with a baby rattle, a reminder of your mistake. |
-| **9** |  |
-| **10** | A rival tricked you into creating a deadly poison, resulting in several deaths. Riddled with guilt, you abandoned your craft. However, you've become immune to common poisons. Start with a snake fang, a symbol of your past. |
-| **11** | Your attempts to transmute lead into gold resulted in a blinding flash. You regained sight after a week, but now, you see precious metals as dull and worthless. Start with a worthless lead nugget, a testament to your failure. |
-| **12** | You sought the perfect healing salve, but only managed to create a powerful hallucinogen. After an unplanned "trip", you quit. Now, psychedelic experiences don't affect you. Start with a bundle of dried herbs, ingredients for that disastrous salve. |
-
-
+|     |                                                                                                                                                                                                                                                                                            |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **1** | A botched potion brewing resulted in a permanent, spectral glow surrounding you. It's rather beautiful, but also inconvenient, especially when attempting stealth. You have a **bottle of Blackout Brew**. Consuming it will suppress your glow for one day. Without it, you glow brightly in the dark. |
+| **2** | Your obsession with immortality led to an unfortunate encounter with a cursed elixir. Now, your aging process has slowed, but your reflection has vanished. You carry a **Mirror of Absence**. Without it, you can't perceive your physical appearance. |
+| **3** | A failed experiment caused a small explosion, scarring your hands. While they are fully functional, they are a constant reminder of your past mistake. You carry a **jar of healing salve**. Without it, your hands ache in cold weather. |
+| **4** | You tried to create a truth serum but it backfired. Now, you compulsively speak the truth, even when it is not in your best interest. You carry a **vial of Silence Elixir**. Consuming it will allow you to lie for one day. Without it, you're a walking lie detector. |
+| **5** | You once sought to create an elixir to grant visions of the future but ended up blinding yourself temporarily. Now, you see sudden flashes of possible futures. You carry an **Eye of Seeing**. Without it, your visions are incoherent and disorienting. |
+| **6** | You inadvertently turned your beloved pet into an ethereal spirit during an experiment. It follows you around, invisible to others. You carry a **Spirit Beacon**. Without it, the pet can't interact with the physical world. |
 
 ## What alchemical keepsake did you take with you? Roll 1d6:
 
 |     |                               |                                                                                                                                                                             |
 | --- | ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | **Alchemist's Fire**          | A clay bottle filled with sticky green fluid that catches fire when exposed to air. Counts a bottle of burning oil without needing to lit.                                  |
-| 2   | **Bomb**                      | Head-sized iron ball filled with explosive powder with an attached wick. Deals 1d12 [blast](https://cairnrpg.com/cairn-srd/#blast) damage.                                  |
-| 3   | **Vial of Acid**              | Can disintegrate 1 cubic inch of any surface.                                                                                                                               |
-| 4   | **Tincture Of Truth-Talking** | Only a few drops remain, enough for one dose. This tasteless clear liquid will compel whoever ingests it to answer questions truthfully for d6 \* 10 minutes.               |
-| 5   | **Magnesium Shavings**        | A pouch containing d6 uses that will easily ignite and burn intensely.                                                                                                      |
-| 6   | **Basic Alchemist's Kit**     | A wooden chest filled with four corked glass vials and stand, a small bronze weight scale, pestle & mortar, stirring rods, a bottle of solvent, and a pouch of salt. Bulky. |
+| **1**   | **Alchemist's Fire**          | A clay bottle filled with sticky green fluid that catches fire when exposed to air. Counts a bottle of burning oil without needing to lit.                                  |
+| **2**   | **Bomb**                      | Head-sized iron ball filled with explosive powder with an attached wick. Deals 1d12 [blast](https://cairnrpg.com/cairn-srd/#blast) damage.                                  |
+| **3**   | **Vial of Acid**              | Can disintegrate 1 cubic inch of any surface.                                                                                                                               |
+| **4**   | **Tincture Of Truth-Talking** | Only a few drops remain, enough for one dose. This tasteless clear liquid will compel whoever ingests it to answer questions truthfully for a few minutes.               |
+| **5**   | **Magnesium Shavings**        | A pouch containing d6 uses that will easily ignite and burn intensely.                                                                                                      |
+| **6**   | **Homunculus**  | An animated mouse-sized replica of yourself. Though it follows your commands to the letter, it hates being enthralled to you and will try to undo your requests whenever possible. Any damage done to the homunculus is also done to you. |
 
-## If you are the oldest character in the party, your whole group is in Debt to....
-The **Order of the Merciful Balance**, a shadowy group of alchemists, scholars, and their occult followers. 
