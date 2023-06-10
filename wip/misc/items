@@ -8,9 +8,9 @@ Quicksprout Seeds: When planted and watered, these seeds instantly grow into a 1
 Calmweed Poultice: Apply to skin to temporarily suppress strong emotions and grant resistance to fear effects.
 Sunleaf Extract: Drink to gain temporary night vision, with the ability to see in complete darkness for 1 hour.
 Moss of Mending: Place on a damaged object or wound, allowing it to repair or heal slowly over time.
-Frostflower Petals: Scatter on the ground to create a slippery ice-like surface, causing balance checks for those traversing it.
+Frostflower Petals: Scatter on the ground to create a slippery ice-like surface, causing those traversing it to fall.
 Windwhisper Grass: When woven into a bracelet, it grants the wearer the ability to communicate silently with nearby allies.
-Shadowberry Jam: Consume to temporarily blend into shadows, granting advantage on stealth checks for 10 minutes.
+Shadowberry Jam: Consume to temporarily blend into shadows.
 Bloodroot Sap: Apply to a weapon or projectile, adding a mild poison that causes fatigue in enemies struck by it.
 Stonebark Salve: When applied to the skin, it grants a temporary bonus to Armor, providing protection from physical attacks.
 Willowweep Tonic: Drinking this tonic grants the user resistance to psychic or mind-affecting attacks for a short duration.
@@ -22,7 +22,7 @@ Tanglethorn Seed: When planted and watered, grows into a dense, thorny barrier t
 Echolocation Fruit: Consuming this fruit grants the ability to navigate through darkness using echolocation for 1 hour.
 Stoneberry Extract: Drinking this extract temporarily increases the consumer's strength and resilience.
 Flutterwing Charm: A small charm that, when activated, summons a swarm of harmless, distracting butterflies.
-Verdant Mist Flask: When broken, releases a dense, green mist that camouflages those within, granting advantage on stealth checks.
+Verdant Mist Flask: When broken, releases a dense, green mist that camouflages those within.
 Strider's Ivy: When applied to shoes, allows the wearer to walk on difficult terrain without hindrance for a short duration.
 Glimmerdust: When sprinkled on an object, makes it invisible for a brief period of time or until touched.
 Tranquil Willow Tea: Drinking this tea helps to restore mental clarity and focus, providing resistance to confusion effects.
@@ -220,7 +220,7 @@ Marsh Strider Stilts: Adjustable stilts that allow the user to traverse marshy t
 Snarewire Bracelet: A bracelet that can be unraveled into a strong, nearly invisible wire for setting traps.
 Mirage Mirror: A small mirror that can create illusory duplicates of the user to distract or confuse pursuers.
 Tracker's Quiver: A quiver that provides a constant supply of non-lethal, marking arrows for tracking targets.
-Silent Step Boots: Boots that muffle the wearer's footsteps, granting advantage on stealth checks in natural environments.
+Silent Step Boots: Boots that muffle the wearer's footsteps.
 Stonefinder Goggles: Goggles that highlight valuable minerals and ores in the wearer's field of vision.
 Mistwalker's Cloak: A cloak that provides resistance to the negative effects of extreme humidity and dampness.
 Whisperwind Map: A magical map that updates itself with the surrounding terrain and displays the location of nearby points of interest.
@@ -851,11 +851,6 @@ resin
 torchwick
 
 ### Relics
-Root of the Earth, 1 Charge
-A gnarled wooden talisman in the shape of a twisted root.
-Spend the charge to instantly tunnel a 5-foot-wide, 50-foot-long tunnel through any solid material (stone, ice, etc.). The tunnel remains until the next dawn or dusk, whichever comes first, then it collapses and is permanently sealed.
-Recharge: Plant the talisman in fertile soil and water it with your own blood; it regains its charge after one full moon cycle.
-
 #### Root of the Earth, 1 Charge
 
 - A gnarled wooden talisman in the shape of a twisted root.
