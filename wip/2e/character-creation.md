@@ -14,9 +14,9 @@ search_exclude: true
 - Choose a name from the available list, then roll on each of the included tables in the background. Record your character's items, skills, or abilities gained (or lost) from each result. See [Inventory](#inventory) for how to record items.
 - Roll for your character's **Ability Scores** and **Hit Protection**.
 - Roll for the rest of your [**character's traits**](#character-traits-d10), and for your character's **age** (2d20+10). 
-- Finally, roll on the [Bonds](https://cairnrpg.com/wip/2e/bonds-and-omens/#bonds) table.      
+- Finally, roll on the [Bonds](#bonds) table.      
 
-> Note: If you are the _youngest_ character, roll on the [Omens](https://cairnrpg.com/wip/2e/bonds-and-omens/#omens) table. The result should be read aloud to the rest of the table.
+> Note: If you are the _youngest_ character, roll on the [Omens](#omens) table. The result should be read aloud to the rest of the table.
 
 ## Backgrounds
 
@@ -211,7 +211,7 @@ Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects
 
 - Characters have a total of ten inventory slots, but can only carry four items comfortably without the help of bags, backpacks, horses, carts, etc.
 - Each PC starts with a **backpack** that can hold up to six slots. Carts (which must be pulled with both hands), horses, or mules can increase inventory. **Hirelings** can also be paid to carry equipment. 
-- Inventory is _abstract_, dependent only on the fiction, adjudicated by the Warden. When ten slots are filled, the character becomes _deprived. A character cannot fill more than ten slots.
+- Inventory is abstract, dependent only on the fiction as adjudicated by the Warden. When ten slots are filled, the character becomes _deprived_. A character cannot fill more than ten slots.
 
 ### Item Size
 
