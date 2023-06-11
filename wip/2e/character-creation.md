@@ -12,14 +12,20 @@ search_exclude: true
 
 ## Name, Background & Traits
 
-- First roll on the [Backgrounds](#backgrounds) table. A PC’s background informs their potential knowledge and skills. You'll need to refer to the Background result for the next few steps.
-- Choose a name from the available list, then roll for your character's **age** (2d20+10). 
-- Next, roll on each of the included tables in the background. Record your character's **Bonds**, items, skills, or abilities gained (or lost) from each result. See [Inventory](#inventory) for how to record items.     
-- Finally, roll for the rest of your character's **traits** (appearance, speech, mannerisms, beliefs, reputation, etc.) on the [**Character Traits**](#character-traits-d10) tables. 
+- First roll on the [Backgrounds](#backgrounds) table below. A PC’s background informs their potential knowledge and skills. You'll need to refer to the Background result for the next few steps.
+- Choose a name from the available list. Then roll on each of the included tables in the background. Record your character's items, skills, or abilities gained (or lost) from each result. See [Inventory](#inventory) for how to record items.
+- Roll on the [Bonds](https://cairnrpg.com/wip/2e/bonds-and-omens/#bonds) table.      
+- Roll for the rest of your character's **traits** (appearance, speech, mannerisms, beliefs, reputation, etc.) on the [**Character Traits**](#character-traits-d10) tables. 
+- Finally, roll for your character's **age** (2d20+10).
+
+> Note: If you are the _youngest_ player, roll on the [Omens](https://cairnrpg.com/wip/2e/bonds-and-omens/#omens) table. The result should be read aloud to the rest of the table.
+
+
+### Backgrounds
 
 > To roll on the table below, roll a **d6** twice, first for the **tens** place, and then another for the **ones** place. The backgrounds below are clickable!
 
-### Backgrounds
+
 
 |         |                                                                       |
 | ------- | --------------------------------------------------------------------- |

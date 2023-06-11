@@ -27,7 +27,7 @@ search_exclude: true
 > Although the term "dungeon" is used here, it can be exchanged for any dangerous locale (mansions, farmhouses, adventure site, etc).
 
 ## Dungeon Exploration Cycle
-1. The **Warden** describes the party's surroundings. Any immediate dangers [**combat**](/cairn-srd/#rounds), **traps**, surprises, etc.) are resolved.
+1. The **Warden** describes the party's surroundings. Any immediate dangers [**combat**](/cairn-srd/#rounds), **traps**, surprises, etc. are resolved.
 2. The **players** ask questions, then declare their character's intended movements and **actions**. 
 3. The **Warden** resolves each character's action simultaneously, as well as **actions** that are already in-progress. 
 4. The **Warden** rolls on the [**Dungeon Events**](#dungeon-events) table, and describes the results. The characters react to the event. 
@@ -52,7 +52,7 @@ search_exclude: true
 ## Conditions
 ### Panic
 - A character that is surrounded by enemies, enveloped by darkness, or facing their greatest fears may experience _panic_. A **WIL** **save** is typically required to avoid losing control and becoming _panicked_. 
-- A _panicked_ character must make a **WIL** **save** to overcome their condition _as an **action_** on their **turn**.
+- A _panicked_ character must make a **WIL** **save** to overcome their condition as an **action** on their **turn**.
 - A _panicked_ character has 0 **HP**, is always _surprised_, and all of their attacks are _impaired_.  
 
 ## Dungeon Elements
