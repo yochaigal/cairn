@@ -32,7 +32,7 @@ search_exclude: true
 | **15**  | [Mountebank](https://cairnrpg.com/wip/backgrounds/mountebank)         |
 | **16**  | [Tinker](https://cairnrpg.com/wip/backgrounds/tinker)                 |
 | **21**  | [Alchemist](https://cairnrpg.com/wip/backgrounds/alchemist)           |
-| **22**  | [Grove Warden](https://cairnrpg.com/wip/backgrounds/grove-warden)     |
+| **22**  | [Woodweard](https://cairnrpg.com/wip/backgrounds/woodweard)           |
 | **23**  | [Local Hero](https://cairnrpg.com/wip/backgrounds/local-hero)         |
 | **24**  | [Marshstrider](https://cairnrpg.com/wip/backgrounds/marshstrider)     |
 | **25**  | [Foundling](https://cairnrpg.com/wip/backgrounds/foundling)           |

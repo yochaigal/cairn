@@ -9,7 +9,7 @@ grand_parent: WIP
 
 # Aurifex
 
-> 
+> The world bows before gold, and those that have it. There are those that say that to try to turn lead to gold is a fool's errand, a dream of wealth that will never come. But they don't understand. The dream isn't about wealth, but of power! For to create gold is to bow to no one.
 
 ## Names
 Hestia, Basil, Rune, Prism, Ember, Quintess, Aludel, Mordant, Salaman, Rune
