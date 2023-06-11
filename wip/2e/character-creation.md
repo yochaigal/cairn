@@ -146,15 +146,13 @@ Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects
 
 ### Vice
 
-|       |            |       |         |
-| ----- | ---------- | ----- | ------- |
-| **1** | Aggressive | **6** | Lazy    |
-| **2** | Bitter     | **7** | Nervous |
-| **3** | Craven     | **    |         |
-
-8**   | Rude     |
-| **4** | Deceitful | **9** | Vain |
-| *---* | G-------y | *---* | V--l |
+|       |            |        |          |
+| ----- | ---------- | ------ | -------- |
+| **1** | Aggressive | **6**  | Lazy     |
+| **2** | Bitter     | **7**  | Nervous  |
+| **3** | Craven     | **8**  | Rude     |
+| **4** | Deceitful  | **9**  | Vain     |
+| **5** | Greedy     | **10** | Vengeful |
 
 
 ## Bonds
