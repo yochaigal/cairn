@@ -11,10 +11,9 @@ search_exclude: true
 # Character Creation
 
 - First roll on the [Backgrounds](#backgrounds) table below. A PC’s background informs their potential knowledge and skills. You'll need to refer to the Background result for the next few steps.
-- Choose a name from the available list. Then roll on each of the included tables in the background. Record your character's items, skills, or abilities gained (or lost) from each result. See [Inventory](#inventory) for how to record items.
-- Roll for your character's **ability scores** and **Hit Protection**.
-- Roll for the rest of your character's **traits** (appearance, speech, mannerisms, beliefs, reputation, etc.) on the [**Character Traits**](#character-traits-d10) tables. 
-- roll for your character's **age** (2d20+10). 
+- Choose a name from the available list, then roll on each of the included tables in the background. Record your character's items, skills, or abilities gained (or lost) from each result. See [Inventory](#inventory) for how to record items.
+- Roll for your character's **Ability Scores** and **Hit Protection**.
+- Roll for the rest of your [**character's traits**](#character-traits-d10), and for your character's **age** (2d20+10). 
 - Finally, roll on the [Bonds](https://cairnrpg.com/wip/2e/bonds-and-omens/#bonds) table.      
 
 > Note: If you are the _youngest_ character, roll on the [Omens](https://cairnrpg.com/wip/2e/bonds-and-omens/#omens) table. The result should be read aloud to the rest of the table.
@@ -168,7 +167,7 @@ Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects
 | **5**   | You once freed a Naiad from a choked stream. In return, it gave you some **silver moss**. Swallow it near water and the creature will come, once, to repay its debt.                                             |
 | **6**   | You inherited an old **journal**, bound in bark. Each evening, its pages are filled with the events of the day, crassly from the journal's perspective. The writing is crude, but accurate.                      |
 | **7**   | You protect a long-dormant family secret. Take one half of an **ancient key**. They say that if joined with its twin, it opens a **Gate** through any door.                                                      |
-| **8**   | A mysterious Fae lord has asked you to close a **Gate** in a field not far from your village. In return, they will reveal your true parentage. Take a **sealed scroll** with the details of the task.            |
+| **8**   | You received a letter detailing incontrovertible proof that your true parontage is that of Fae nobility. The note also indicated a date and location where you are to meet them, deep in the **Woods**.            |
 | **9**   | You owe a great debt to a figure of some nobility, and carry their **signet ring**, which serves as proof both of their protection as well as your obligation.                                                   |
 | **10**  | You consumed a mischievous spirit that now periodically wreaks havoc on your insides, demanding to be taken home. It wants to keep you alive, albeit uncomfortably. You still carry the **bottle** it came from. |
 | **11**  | A former mentor is dying of a rare disease. The healing herbs they require are found only in **The Woods**, but are dangerous to acquire. Take a **waterproof pouch**.                                           |
