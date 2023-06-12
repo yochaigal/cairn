@@ -31,7 +31,7 @@ search_exclude: true
 | **14**  | [Bonescribe](https://cairnrpg.com/wip/backgrounds/fieldwarden/)       |
 | **15**  | [Mountebank](https://cairnrpg.com/wip/backgrounds/mountebank)         |
 | **16**  | [Tinker](https://cairnrpg.com/wip/backgrounds/tinker)                 |
-| **21**  | [Alchemist](https://cairnrpg.com/wip/backgrounds/alchemist)           |
+| **21**  | [Alchemist](https://cairnrpg.com/wip/backgrounds/aurifex)           |
 | **22**  | [Woodweard](https://cairnrpg.com/wip/backgrounds/woodweard)           |
 | **23**  | [Local Hero](https://cairnrpg.com/wip/backgrounds/local-hero)         |
 | **24**  | [Marshstrider](https://cairnrpg.com/wip/backgrounds/marshstrider)     |
