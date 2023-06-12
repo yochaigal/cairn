@@ -18,7 +18,7 @@ grand_parent: WIP
 - Wooden quarterstaff (d6)
 - Herb pouch
 
-## How did you become a Grove Warden?
+## Why did you defend the Woods?
 
 |      |                                                              |
 | ---- | ------------------------------------------------------------ |
