@@ -14,18 +14,17 @@ grand_parent: WIP
 ## Starting Gear
 
 - 3d6 gold pieces
-- Three days’ rations
-- Torch
-- Dramatic outfit
-- Set of makeup
-- Withered rose
+- Rations (3 uses)
+- Torch (3 uses)
+- Outfit
+- Prop dagger (d4)
 
-# What was your final performance?
+# What happened at your final performance?
 
 |      |      |      |
 | ---- | ---- | ---- |
-| 1    |**Avant-garde** | You experimental one-person-show perplexed even the most diabolical coalition of warlocks who cursed you to never play again. |
-| 2    |**Offensive** | The prince did not enjoy the laughter of the crowd responding to your musical accusations of his romantic failings. |
+| **1**    | Your troupe trained in the deadly arts to lend authenticity to your performance. An actor died, and you were blamed. Take a light-weight **rapier** (d6), a false identity, and a sneaking suspicion you were framed.
+| **2**    | The crowd loved your catchy tune about a noble and his romantic failings. Unfortunately for you, the noble in question was not nearly as amused. Take a **musical instrument**, a brand (you decide where), and a the _Read Mind_ spellbook. |
 | 3    |**Injury** | The exotic beast seller promised you that your purchased owlbear was toothless. Turns out beaks are just as deadly. |
 | 4    |**Maddening** | A traveling astronomer pitched you a sheet music inspired by vibrations they claimed to hear while looking into the night sky. Your fluting rendered the audience into a gibbering, howling state, rasping in fear and admiration of something called "the dwellers beyond the veil of space." Not exactly your theater's name so you didn't take it as praise. |
 | 5    |**Timidity** | Your one and only performance involved you staring wide-eyed into the audience for several minutes. When you finally opened your mouth to speak your lines you were caught in anxiety-induced dry heaving. Everyone uncomfortable got up and just walked out. |
