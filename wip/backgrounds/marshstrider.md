@@ -13,7 +13,7 @@ grand_parent: WIP
 
 - 3d6 gold pieces
 - Rations (3 uses)
-- Torch
+- Torch (3 uses)
 - Walking staff (d6)
 - A small keepsake from your past
 
