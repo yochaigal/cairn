@@ -42,7 +42,7 @@ search_exclude: true
 | **33**  | [Scribe](https://cairnrpg.com/wip/backgrounds/scribe)                 |
 | **34**  | [Hunter](https://cairnrpg.com/wip/backgrounds/hunter)                 |
 | **35**  | [Wood Scholar](https://cairnrpg.com/wip/backgrounds/wood-scholar)     |
-| **36**  |                                                                       |
+| **36**  | [Rill Runner](https://cairnrpg.com/wip/backgrounds/rill-runner)       |
 | **41**  |                                                                       |
 | **42**  |                                                                       |
 | **43**  |                                                                       |

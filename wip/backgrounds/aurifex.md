@@ -21,14 +21,14 @@ Hestia, Basil, Rune, Prism, Ember, Quintess, Aludel, Mordant, Salaman, Rune
 - Lantern & oil (six uses, two slots)
 - Needle-knife (d6)
 
-## What went horribly wrong? Roll 1d6:
+## What experiment went horribly wrong? Roll 1d6:
 
 |       |                                                                                                                                                                                                                                                                                                                              |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1** | Your attempts to transmute lead into gold nearly proved fatal. You survived but lost your sense of smell, save for the scent of **gold**. Take a **tin of snuff** to dampen the impacts. A day without it makes you _deprived_.                       |
 | **2** | You inadvertently dematerialized a noble's beloved pet. Now the creature follows you around, invisible to everyone but you. Although it cannot interact with the physical realm, you are able to share its senses at any time (take one **Fatigue**).      |
 | **3** | You were exposed to a vial of long-acting truth serum. Now, you compulsively speak the truth, and cannot lie. You carry a **Rod of Silence** (3 charges). It cancels all magical effects, including your affliction. **Recharge**: Complete a vow of silence for one week.    |
-| **4** | You were never a true aurifex. Instead, You wer adept at creating _fake_ gold. Somehow your ruse was discovered, and you were forced to flee. Take a **rod of quick-flow metal** and **gold powder**.                                |
+| **4** | You were never a true aurifex; instead you were adept at creating _fake_ gold. Somehow your ruse was discovered, and you were forced to flee. Take a **rod of quick-flow metal** and **gold powder**.                                |
 | **5** | Your recipe for turning iron to gold worked, but a rival stole the blueprint. Your reputation ruined, you lack the funds to try again. Take a protoype **blunderbuss** (**d12**, _blast_, bulky), and a taste for revenge.         |
 | **6** | Ridiculed for discovering how to turn gold into _lead_, you chose to pursue opportunities in more open-minded environs. Take a bottle of **universal solvent** (2 uses) that dissolves anything it touches into its constituant parts. |
 
