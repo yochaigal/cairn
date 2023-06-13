@@ -35,7 +35,7 @@ grand_parent: WIP
 |     |                                 |                                                                                                                                                                                                                |
 | --- | ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | **False Cuffs**       | Comfortable, realistic-looking cuffs. Only you know the trick to get out of them.          |
-| 2   | **Benign Mimic** | A    |
+| 2   | **Pocket Theatre** | A small set of small puppets and folding stage. Good for quick distractions.    |
 | 3   | **Speculative Future Clothing** | A peculiar cotton t-shaped tunic, and rough blue trousers with a peculiar buckling apparatus near the front of the waist. This outfit is based on a fictional codex of time traveling serf to the far futures. |
 | 4   | **Tome of Troubling Limericks** | These verses become less bawdy the further into the book you get, and become more and more harrowing.                                                                                                          |
 | 5   | **Many Faced Mask**             | This leather and plaster mask appears mundane, but every time it is slipped off it takes the countenance of a random creature of legend.                                                                       |
