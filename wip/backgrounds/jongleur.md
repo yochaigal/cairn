@@ -19,7 +19,7 @@ grand_parent: WIP
 - Traveller's Harness (1 Armor)
 - Prop short sword (looks real)
 
-# What happened at your final performance? Roll 1d6:
+## What happened at your final performance? Roll 1d6:
 
 |       |                                                              |
 | ----- | ------------------------------------------------------------ |
@@ -30,7 +30,7 @@ grand_parent: WIP
 | **5** | You were scarred in an on-stage accident. The crowd cheered, thinking it was part of the act. Take well-worn **stage mail** (1 Armor), a memorable scar, and a fear of applause. |
 | **6** | Your respectable puppeteering skills were matched only by your mimicry. You were so good you were branded a witch (literally) and banished. Take an **uncanny hand-puppet** and a **rabbit skull** (sewn with grass) that protects against charms.     |
 
-# What trinket were you unable to leave behind? Roll 1d6:
+## What trinket were you unable to leave behind? Roll 1d6:
 
 |      |                                                              |                                                              |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
