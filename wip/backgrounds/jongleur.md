@@ -9,34 +9,34 @@ grand_parent: WIP
 
 # Jongleur
 
-> 
+> What inspires in the soul more than song, words, and show? Why practice for years to learn magic, when you've already got real magic inside? 
 
 ## Starting Gear
 
 - 3d6 gold pieces
 - Rations (3 uses)
 - Torch (3 uses)
-- Outfit
-- Prop dagger (looks real)
+- Traveller's Harness (1 Armor)
+- Prop short sword (looks real)
 
-# What happened at your final performance?
+# What happened at your final performance? Roll 1d6:
 
-|       |                                                                                                                                                                                                                                                                               |     |
-| ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
-| **1** | Your troupe trained in the deadly arts to lend authenticity to your performance. An actor died, and you were blamed. Take a light-weight **rapier** (d6), a false identity, and a sneaking suspicion you were framed.                                                         |     |
-| **2** | The people loved your catchy tune about a noble and his romantic failings. Unfortunately the noble in question was not amused. Take a **musical instrument**, a brand (you decide where), and a the _Read Mind_ **spellbook**.                                                    |     |
-| **3** | Your debut composition reduced the audience to a gibbering mess, murmuring of bright creatures descending from the night sky. Later you noticed that your notes faintly resembled stellar constellations. Take a heavily-marked **book on astronomy**, and a lot of questions. |     |
-| **4** | Your flowery poetry mocked a minor trickster god, long thought forgotten. They weren't pleased, and cursed you with **chronic rhyme**. You cannot speak without making a perfect rhyme. Ironically this only made you more popular among your peers.  |     |
-| **5** | Your theater burned down. You believe it to be arson and carry a bitter grudge. Take a charred **play script** with missing pages, and a fire-hardened resolve.                                       |     |
-| **6** | You had a terrible stage accident that left you physically scarred. The crowd cheered, thinking it was part of the act. Take a twisted **prop**, a noticeable scar, and a fear of applause.                                                 |     |
+|       |                                                              |
+| ----- | ------------------------------------------------------------ |
+| **1** | You trained in the deadly arts to lend authenticity to your performance, perhaps too well. An actor died, and you were blamed. Take a light-weight **rapier** (d6) and a false identity. |
+| **2** | The people loved your catchy tune about a noble and his romantic failings. Unfortunately the noble in question was not amused. Take a **musical instrument**, a brand (you decide where), and the _Read Mind_ **spellbook**. |
+| **3** | Your debut composition reduced the audience to a gibbering mess, murmuring of bright creatures descending from the night sky. Later you noticed that your notes faintly resembled stellar constellations. Take a heavily-marked **book on astronomy**, and a lot of questions. |
+| **4** | Your humorous poetry mocked a minor trickster god, long thought forgotten. They weren't pleased, and cursed you. You cannot speak unless it is in perfect rhyme. Ironically this has only made you more popular among your peers. Take an expensive **thesaurus** (100gp). Without it you are _deprived_. |
+| **5** | You were scarred in an on-stage accident. The crowd cheered, thinking it was part of the act. Take well-worn **stage mail** (1 Armor), a memorable scar, and a fear of applause. |
+| **6** | Your respectable puppeteering skills were matched only by your mimicry. You were so good you were branded a witch (literally) and banished. Take an **uncanny hand-puppet** and a **rabbit skull** (sewn with grass) that protects against charms.     |
 
-# You made off with this trinket from your troupe:
+# What trinket were you unable to leave behind? Roll 1d6:
 
-|     |                                 |                                                                                                                                                                                                                |
-| --- | ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | **False Cuffs**       | Comfortable, realistic-looking cuffs. Only you know the trick to get out of them.          |
-| 2   | **Pocket Theatre** | A small set of small puppets and folding stage. Good for quick distractions.    |
-| 3   | **Speculative Future Clothing** | A peculiar cotton t-shaped tunic, and rough blue trousers with a peculiar buckling apparatus near the front of the waist. This outfit is based on a fictional codex of time traveling serf to the far futures. |
-| 4   | **Tome of Troubling Limericks** | These verses become less bawdy the further into the book you get, and become more and more harrowing.                                                                                                          |
-| 5   | **Many Faced Mask**             | This leather and plaster mask appears mundane, but every time it is slipped off it takes the countenance of a random creature of legend.                                                                       |
-| 6   | **Stage Double**                | Seeing as how you are out of work, your double also is. They continue to follow you day to day, but not without regularly complaining that you ruined their career.                                            |
+|      |                                                              |                                                              |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **1**    | **False Cuffs**              | Comfortable, realistic-looking cuffs. Only you know the trick to get out of them. |
+| **2**    | **Pocket Theatre**              | A small set of small puppets and folding stage. Good for quick distractions. |
+| **3**    | **Ghost Violin**         | A dark grey violin that plays a haunting tune, mirrored by an invisible, distant twin. |
+| **4**    | **Tragic Tails** |    Banned in proper company, it become less bawdy and more harrowing towards the end. Worth 100gp. |
+| **5**    | **Mythos Mask** |  A plaster mask that can convincingly takes on a monster's countenance. The wearer loses a **Fatigue** once it comes off. |                                                              |
+| **6**    | **Rebreak Glass**      | A wine flute that can be broken multiple times, reforming after 24 hours. Make a really loud noise.   |
