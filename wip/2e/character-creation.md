@@ -31,12 +31,12 @@ search_exclude: true
 | **14**  | [Bonescribe](https://cairnrpg.com/wip/backgrounds/fieldwarden/)       |
 | **15**  | [Mountebank](https://cairnrpg.com/wip/backgrounds/mountebank)         |
 | **16**  | [Tinker](https://cairnrpg.com/wip/backgrounds/tinker)                 |
-| **21**  | [Alchemist](https://cairnrpg.com/wip/backgrounds/aurifex)           |
-| **22**  | [Woodweard](https://cairnrpg.com/wip/backgrounds/woodweard)           |
+| **21**  | [Aurifex](https://cairnrpg.com/wip/backgrounds/aurifex)               |
+| **22**  | [Jongleur](https://cairnrpg.com/wip/backgrounds/jongleur/)            |
 | **23**  | [Local Hero](https://cairnrpg.com/wip/backgrounds/local-hero)         |
 | **24**  | [Marshstrider](https://cairnrpg.com/wip/backgrounds/marshstrider)     |
 | **25**  | [Foundling](https://cairnrpg.com/wip/backgrounds/foundling)           |
-| **26**  | [Performer](https://cairnrpg.com/wip/backgrounds/performer)           |
+| **26**  | [Woodweard](https://cairnrpg.com/wip/backgrounds/woodweard)           |
 | **31**  | [Petty Magician](https://cairnrpg.com/wip/backgrounds/petty-magician) |
 | **32**  | [Ranger](https://cairnrpg.com/wip/backgrounds/ranger)                 |
 | **33**  | [Scribe](https://cairnrpg.com/wip/backgrounds/scribe)                 |

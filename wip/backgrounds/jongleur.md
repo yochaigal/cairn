@@ -11,6 +11,9 @@ grand_parent: WIP
 
 > What inspires in the soul more than song, words, and show? Why practice for years to learn magic, when you've already got real magic inside? 
 
+## Names
+Jax, Selene, Baladria, Ada, Felix, Saylor, Tripp, Lantos, Echo, Jubilo   
+
 ## Starting Gear
 
 - 3d6 gold pieces
