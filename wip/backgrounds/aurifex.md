@@ -9,7 +9,7 @@ grand_parent: WIP
 
 # Aurifex
 
-> Some say that to try to turn lead to gold is a fool's errand, a pitiful dream of wealth that will never come. But they don't understand, it isn't about the money. For to have gold is to have power. And to create gold is to bow to no one.
+> 
 
 ## Names
 Hestia, Basil, Rune, Prism, Ember, Quintess, Aludel, Mordant, Salaman, Rune
@@ -19,7 +19,7 @@ Hestia, Basil, Rune, Prism, Ember, Quintess, Aludel, Mordant, Salaman, Rune
 - Rations (3 uses)
 - Lantern & oil (six uses, two slots)
 - Needle-knife (d6)
-- 
+- Iron Pincers
 
 ## What experiment went horribly wrong? Roll 1d6:
 
