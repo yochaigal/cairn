@@ -16,10 +16,10 @@ Hestia, Basil, Rune, Prism, Ember, Quintess, Aludel, Mordant, Salaman, Rune
 
 ## Starting Gear
 
-- 
 - Rations (3 uses)
 - Lantern & oil (six uses, two slots)
 - Needle-knife (d6)
+- 
 
 ## What experiment went horribly wrong? Roll 1d6:
 

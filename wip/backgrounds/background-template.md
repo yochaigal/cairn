@@ -14,7 +14,7 @@ grand_parent: WIP
 
 ## Starting Gear
  
-- Three days’ rations
+- Rations (3 uses)
 - Torch (3 uses)
 
 ## How did you become X? Roll 1d6:

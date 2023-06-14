@@ -13,7 +13,6 @@ grand_parent: WIP
 
 ## Starting Gear
 
-- 
 - Three days’ rations
 - Torch
 - A pointed hat

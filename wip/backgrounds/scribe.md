@@ -16,9 +16,8 @@ Quill, Reed, Parchment, Scroll, Inksmith, Codex, Vellum, Ledger
 
 ## Starting Gear
 
-- 
 - Rations (3 uses)
-- Candle (3 uses)
+- Torch (3 uses)
 - Quill and ink
 - Dagger (d6)
 - Parchment and seals

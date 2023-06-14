@@ -3,7 +3,7 @@ title: Mariner
 layout: default
 nav_exclude: true
 search_exclude: true
-parent: backgrounds-archive
+Parent: Background Background Archives
 grand_parent: WIP
 ---
 

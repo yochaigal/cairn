@@ -16,7 +16,6 @@ Jax, Selene, Baladria, Ada, Felix, Saylor, Tripp, Lantos, Echo, Jubilo
 
 ## Starting Gear
 
-- 
 - Rations (3 uses)
 - Torch (3 uses)
 - Traveller's Harness (1 Armor)

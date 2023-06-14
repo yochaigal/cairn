@@ -3,7 +3,7 @@ title: Wood Scholar
 layout: default
 nav_exclude: true
 search_exclude: true
-parent: Backgrounds
+Parent: Background Archives
 grand_parent: WIP
 ---
 

@@ -16,7 +16,6 @@ Stone, Light, Gale, Frost, Thorn, Rill, Reed, Flint, Brook, Snow
 
 ## Starting Gear
 
-- 
 - Rations (3 uses)
 - Lantern & oil (bulky, 6 uses)
 - Shortsword (d6)

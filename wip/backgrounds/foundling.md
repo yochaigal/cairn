@@ -17,7 +17,6 @@ Faunus, Snowdrop, Wisp, Silverdew, Thistle, Solstice, Moondance, Starbloom, Goss
 
 ## Starting Gear
 
-- 
 - Rations (3 uses)
 - Torch (3 uses)
 - Slingshot (d6) 

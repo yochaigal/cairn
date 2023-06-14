@@ -16,10 +16,9 @@ Rook, Ebon, Moro, Yew, Pall, Leth, Nix, Sable, Vesper, Rune
 
 ## Starting Gear
 
-- 
 - Rations (3 uses)
-- Lanter (_bulky_, 6 uses)
-- Oil can
+- Lantern (needs oil)
+- Oil can (6 uses)
 - Grave stake (d6)
 
 ## Why did you stop caring for the dead? Roll 1d6:

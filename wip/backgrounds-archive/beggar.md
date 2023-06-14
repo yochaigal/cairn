@@ -3,7 +3,7 @@ title: Beggar
 layout: default
 nav_exclude: true
 search_exclude: true
-parent: Unused Backgrounds
+Parent: Background Archives
 grand_parent: WIP
 ---
 

@@ -17,7 +17,6 @@ Montague, Ambrose, Lucius, Sterling, Beauregard, Cornelius, Percival, Crispin, A
 
 ## Starting Gear
 
-- 
 - Rations (3 uses)
 - Torch (3 uses)
 - Fancy hat (_petty_)

@@ -12,7 +12,6 @@ grand_parent: WIP
 
 ## Starting Gear
 
-- 
 - Rations (3 uses)
 - Torch
 - Wooden quarterstaff (d6)

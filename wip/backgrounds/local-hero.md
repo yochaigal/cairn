@@ -13,7 +13,6 @@ grand_parent: WIP
 
 ## Starting Gear
 
-- 
 - Rations (3 uses)
 - Torch (3 lights)
 - Simple weapon (d6)

@@ -16,7 +16,6 @@ Seed, Thresh, Dibber, Sow, Stalk, Harrow, Cobb, Flax, Briar, Rye
 
 ## Starting Gear
 
-- 
 - Rations (3 uses)
 - Torch (3 uses)
 - Carving knife (d6)
