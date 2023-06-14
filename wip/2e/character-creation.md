@@ -33,7 +33,7 @@ search_exclude: true
 | **16**  | [Tinker](https://cairnrpg.com/wip/backgrounds/tinker)                 |
 | **21**  | [Aurifex](https://cairnrpg.com/wip/backgrounds/aurifex)               |
 | **22**  | [Jongleur](https://cairnrpg.com/wip/backgrounds/jongleur/)            |
-| **23**  | [Local Hero](https://cairnrpg.com/wip/backgrounds/local-hero)         |
+| **23**  | [Prowler](https://cairnrpg.com/wip/backgrounds/prowler)         |
 | **24**  | [Marshstrider](https://cairnrpg.com/wip/backgrounds/marshstrider)     |
 | **25**  | [Foundling](https://cairnrpg.com/wip/backgrounds/foundling)           |
 | **26**  | [Woodweard](https://cairnrpg.com/wip/backgrounds/woodweard)           |
@@ -43,7 +43,7 @@ search_exclude: true
 | **34**  | [Hunter](https://cairnrpg.com/wip/backgrounds/hunter)                 |
 | **35**  | [Wood Scholar](https://cairnrpg.com/wip/backgrounds/wood-scholar)     |
 | **36**  | [Rill Runner](https://cairnrpg.com/wip/backgrounds/rill-runner)       |
-| **41**  |                                                                       |
+| **41**  | [Local Hero](https://cairnrpg.com/wip/backgrounds/local-hero)         |
 | **42**  |                                                                       |
 | **43**  |                                                                       |
 | **44**  |                                                                       |
