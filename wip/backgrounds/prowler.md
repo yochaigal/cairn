@@ -9,7 +9,7 @@ grand_parent: WIP
 
 # Prowler
 
-> 
+> You are a specter in the night, a fleeting shadow that slips by its prey, unseen. Each kill a test of cunning and animal determination, a contest between life and death. You know that one day, you will lose. You look forward to it. 
 
 ## Starting Gear
 
@@ -18,7 +18,7 @@ grand_parent: WIP
 - Tarp (shelters 1)
 - Boiled leather (1 Armor)
 - Shortsword (d6)
-- Trap (4 STR damage)
+- Spring-loaded trap (4 STR damage)
 
 ## What did you last hunt? Roll 1d6:
 
@@ -27,7 +27,7 @@ grand_parent: WIP
 | **1** | A _mock firefly_, baiting water carriers with its glowing lure. Take an **alchemical limb** (d8) to replace the one it tore off you. It works as well as the real thing and is immune to poison, fire and heat. Sometimes it jams. |
 | **2** | An _ice nettle_, trapping and draining sheep. You lost your commission when the fungus you introduced killed half the flock. Take an **rime seed**. It freezes any body of water, no matter the size. Don't eat it. |
 | **3** | A _silver marsh crawler_ that killed your father years before. You succeeded, carrying its **tooth** on a chain around your neck as a warning to others of its kind. You wander aimlessly now, mapping the countryside. Take a **blank map and pen**.  |
-| **4**  | A malicious _forest spirit_ that was poisoning your homestead. You lost everything. Before fleeing, you wrenched a **heartseed** the roots of a dying tree. Take **iron gauntlets** (+1 Armor, _bulky_) and a **heartseed** (_petty_, priceless). 
+| **4**  | A malicious _forest spirit_ that was poisoning your homestead. You lost everything. Before fleeing, you wrenched a **heartseed** the roots of a dying tree. Take **iron bracers** (+1 Armor, _bulky_) and a **heartseed** (_petty_, priceless). 
 | **5** | A  _hollow wolf_ that had been frightening travellers. By the time you found it, the creature was nearly dead. You took pity, and nursed it back to health. It is loyal to you, until death. 5 HP, 11 STR, 13 DEX, 8 WIL, teeth (d6). It is a great tunneler.    |
 | **6** | An _azure warbler_. The gametes attract a sizeable profit, if properly extracted. You succeeded, but left a nest to the wolves. Take a paring knife (d6), 20 extra gold pieces, and serious regret. |
 
