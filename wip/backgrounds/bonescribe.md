@@ -16,7 +16,7 @@ Rook, Ebon, Moro, Yew, Pall, Leth, Nix, Sable, Vesper, Rune
 
 ## Starting Gear
 
-- 3d6 gold pieces
+- 
 - Rations (3 uses)
 - Lanter (_bulky_, 6 uses)
 - Oil can

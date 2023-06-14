@@ -13,7 +13,7 @@ grand_parent: WIP
 
 ## Starting Gear
 
-- 3d6 gold pieces
+- 
 - Three days’ rations
 - Torch
 - Fur coverings (1 Armor)

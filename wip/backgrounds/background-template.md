@@ -13,10 +13,9 @@ grand_parent: WIP
 > Blurb
 
 ## Starting Gear
-
-- 3d6 gold pieces
+ 
 - Three days’ rations
-- Torch (3 lights)
+- Torch (3 uses)
 
 ## How did you become X? Roll 1d6:
 

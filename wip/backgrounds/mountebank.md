@@ -17,7 +17,7 @@ Montague, Ambrose, Lucius, Sterling, Beauregard, Cornelius, Percival, Crispin, A
 
 ## Starting Gear
 
-- 3d6 gold pieces
+- 
 - Rations (3 uses)
 - Torch (3 uses)
 - Fancy hat (_petty_)

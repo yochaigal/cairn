@@ -16,7 +16,7 @@ Quill, Reed, Parchment, Scroll, Inksmith, Codex, Vellum, Ledger
 
 ## Starting Gear
 
-- 3d6 gold pieces
+- 
 - Rations (3 uses)
 - Candle (3 uses)
 - Quill and ink

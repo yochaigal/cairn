@@ -16,7 +16,7 @@ Seed, Thresh, Dibber, Sow, Stalk, Harrow, Cobb, Flax, Briar, Rye
 
 ## Starting Gear
 
-- 3d6 gold pieces
+- 
 - Rations (3 uses)
 - Torch (3 uses)
 - Carving knife (d6)

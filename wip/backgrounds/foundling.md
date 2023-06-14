@@ -17,7 +17,7 @@ Faunus, Snowdrop, Wisp, Silverdew, Thistle, Solstice, Moondance, Starbloom, Goss
 
 ## Starting Gear
 
-- 3d6 gold pieces
+- 
 - Rations (3 uses)
 - Torch (3 uses)
 - Slingshot (d6) 

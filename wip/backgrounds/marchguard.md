@@ -16,7 +16,7 @@ Stone, Light, Gale, Frost, Thorn, Rill, Reed, Flint, Brook, Snow
 
 ## Starting Gear
 
-- 3d6 gold pieces
+- 
 - Rations (3 uses)
 - Lantern & oil (bulky, 6 uses)
 - Shortsword (d6)
