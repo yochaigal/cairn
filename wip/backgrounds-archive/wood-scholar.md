@@ -40,6 +40,3 @@ grand_parent: WIP
 | **5** | **Seed of Awakening** | A rare seed that, when planted, grows into a sentient plant ally with unique abilities. One use. |
 | **6** | **Windchime Totem**   | A totem adorned with wind chimes that can calm restless spirits when played. |
 
-## If you are the oldest character in the party, you are in Debt to....
-
-**The Verdant Conclave**, an order of powerful druids protecting the ancient forests. They require you to restore a desecrated sacred grove by planting a circle of **Heartwood Trees**—trees that can only be grown from the heartwood of ancient, fallen forest giants. Until your debt is paid, the forest will react unpredictably to your presence, and animals may be less cooperative.
