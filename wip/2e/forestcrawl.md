@@ -29,8 +29,9 @@ grand_parent: WIP
 2. Draw a single curving line stemming out from the **Heart**. This is the **trunk**. 
 3. Draw three **branches** sprouting off from the **trunk**. 
 4. Draw one or two short **twigs** from each **branch**. They can vary in length.
-5. Place a dot at the terminus of every **branch**, **trunk**, or **twig**. 
-6. Number each dot, starting with the **Heart**. 
+5. Place a dot at the terminus of every **branch**, **trunk**, or **twig**.
+6. Create loops by connecting two dots to any other trail.   
+7. Number each dot, starting with the **Heart**. 
 
 ### Create The Forest
 
@@ -38,7 +39,7 @@ grand_parent: WIP
 2. Roll on the [Spoor Types](#spoor-types) table for every trail. Note the **spoor** for each.
 3. Follow the instructions [Details](#details) section to create **Details** for each dot.
 4. Roll on the [Forest Encounters](#forest-encounters) table for each [Detail](#detail), recording and expanding on the results. 
-5. Roll the [Detail Names](#detail-names) table, combining the results to produce a name for each **Detail**.
+5. Roll on the [Detail Names](#detail-names) table, combining the results to produce a name for each **Detail**.
 6. Name the forest by rolling on the [Forest Names](#forest-names) table.
 
 #### Tips
@@ -476,12 +477,13 @@ grand_parent: WIP
 - We start by creating the structure of our forest, drawing the first dot representing the **Heart** in the central, Southern part of the region.
 - We then draw the **trunk**, creating a gentle curve towards the Northwest.
 - Then we draw three **branches** extending from the **trunk**, one towards the East (closer to the **Heart**) and the other towards the West and further North. 
-- Finally we draw a single **twig** off of each **branch**.
+- We then draw a single **twig** off of each **branch**.
+- We draw a dot at every terminal point. 
+- Finally we connect two dots to other trails in our forest.
 
 ### Number Dots
 
-- First we place dots at every terminal point. 
-- We then assign numbers, starting with the **Heart** at 11. In total, we have 7 dots for **Details**: 
+- First we assign numbers, starting with the **Heart** at 11. In total, we have 7 dots for the **Details**: 
 - `1` is our **Heart**.
 - `2` is at the beginning (or end) of the **trunk**. 
 - `4`, `5`, and `6`, are each at the end of a **branch**.
@@ -489,12 +491,13 @@ grand_parent: WIP
 
 ### Assign Trail Markers
 
-For the **trunk** as well as each **branch** and **twig**, we'll roll on the **Trail Markers** table (**d12**):
+For each trail we'll roll on the **Trail Markers** table (**d12**):
 
   - For the **trunk** we got a **6** (_Old Logging Road_).
   - For the Eastern **branch** closest to the **Heart** we got a **3** (_Fae Passage_).
   - For the Western **branch** closest to the **Heart** we got a **4** (_Bandit's Run_).
   - For the Eastern **branch** farthest from the **Heart** we got a **5** (_Pilgrim's Footpath_).
+  - For the loopeing trails that we made last, we got a **12** (_War Route_) and a **7** (_Trail Tree_).  
 
 ### Assign Trail Spoor
 
@@ -503,6 +506,8 @@ For the **trunk** as well as each **branch** and **twig**, we'll roll on the **T
 - For the _Fae Passage_ we rolled a **12** (Fresh Spiderwebs).
 - For the _Bandit's Run_ we rolled a **13** (Archaic Tree Carvings).
 - For the _Pilgrim's Footpath_ we rolled an **18** (Swaying Plants).
+- For the _War Route_ we rolled a **14** (Dozens of Stone Piles)
+- For the _Trail Tree_ we rolled a **13** (Claw Marks).
 
 ### Assign Details
 
@@ -554,10 +559,12 @@ Finally, we roll on the [Forest Names](#forest-names) table, getting a **4** and
 
 #### Trails in The Weald
 
-- _Old Logging Road_: Runs Northwest, connecting **Glintleaf Dell** to **Thistlefield**. Heavy with enormous footprints.
-- _Fae Passage_: Runs Northeast, an offshoot of the _Old Logging Road_. Connects to **Shattered Barrow** and **Glimmerglade**. Covered in fresh spiderwebs.
-- _Bandit's Run_: Runs West, offshoot of the _Old Logging Road_. Connects to **Timpertop Spire** and **Mossbreak Nook**. Archaic tree carvings line the path.
-- _Pilgrim's Footpath_: Runs East from the _Old Logging Road_. Ends at the **Cloister of the Quiet Wood**. Odd, swaying plants line both sides of the trail.
+- _Old Logging Road_: Runs Northwest, connecting **Glintleaf Dell** to **Thistlefield**. Logging tracks cut into the ground the entire length of the trail. Enormous footprints are visible in the caked mud.
+- _Fae Passage_: Runs Northeast, an offshoot of the _Old Logging Road_. Connects to **Shattered Barrow** and **Glimmerglade**. The air feels heavy here. Covered in fresh spiderwebs. 
+- _Bandit's Run_: Runs West, an offshoot of the _Old Logging Road_. Connects to **Timpertop Spire** and **Mossbreak Nook**. The entry is partly hidden, but ancient tree carvings indicate its presence.
+- _Pilgrim's Footpath_: Runs East from the _Old Logging Road_. Ends at the **Cloister of the Quiet Wood**. The comfortable trail is lined by odd, swaying plants line both sides of the trail.
+- _War Route_: Connects **Timbertop Spire** to the _Old Logging Road_. The path is wide but heavily pitted here. Stones are stacked along the road in an intrictate arrangement as a memorial to the last war. 
+- _Trail Tree_: Connects **Glimmberglade** to the _Pilgrim's Footpath_. A bent tree indicates that there is safety towards the Northeast. Ugly claw marks scar the otherwise healthy tree.  
 
 #### Points of Interest in The Weald
 
