@@ -9,7 +9,7 @@ grand_parent: WIP
 
 # Aurifex
 
-> 
+> You are an artisan of the arcane, a smith of subtle forces. In the crucible of your workshop the laws that govern this world are set warped to suit your needs. But the forward path is fraught with peril, each experiment a step toward either greatness or disaster.
 
 ## Names
 Hestia, Basil, Rune, Prism, Ember, Quintess, Aludel, Mordant, Salaman, Rune
@@ -32,7 +32,7 @@ Hestia, Basil, Rune, Prism, Ember, Quintess, Aludel, Mordant, Salaman, Rune
 | **5** | Your recipe for turning iron to gold worked, but a rival stole the blueprint. Your reputation ruined, you lack the funds to try again. Take a protoype **blunderbuss** (**d12**, _blast_, bulky), and a taste for revenge.         |
 | **6** | Ridiculed for discovering how to turn gold into _lead_, you chose to pursue opportunities in more open-minded environs. Take a bottle of **universal solvent** (2 uses) that dissolves anything it touches into its constituant parts. |
 
-## What instruments do you always keep on you? Roll 1d6:
+## What marvel is the product of your latest ingenuity? Roll 1d6:
 
 |       |                      |                                                                                                                                                                                                                                           |
 | ----- | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
