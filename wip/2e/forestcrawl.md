@@ -32,8 +32,6 @@ grand_parent: WIP
 5. Place a dot at the terminus of every **branch**, **trunk**, or **twig**. 
 6. Number each dot, starting with the **Heart**. 
 
-> If you'd like to increase the number of **Details** on the map, you can either add more **branches** and **twigs**, or place a dot at the intersection of lines, e.g. where the **trunk** meets a **branch**.
-
 ### Create The Forest
 
 1. Roll on the [Trail Markers](#trail-markers) table for the **trunk**, as well as each **branch**. **Twigs** use same trails as their respective **branches**. Label each trail!
@@ -43,29 +41,28 @@ grand_parent: WIP
 5. Roll the [Detail Names](#detail-names) table, combining the results to produce a name for each **Detail**.
 6. Name the forest by rolling on the [Forest Names](#forest-names) table.
 
-### Tips & Changes
-- Change it up! The name _Welcoming Grove_ creates a more vivid image than _Beckoning Copse_ might.
-- Use contrasting words (e.g. _Twisted Canopy_) to evoke an interesting detail about the location.
-- Make it sound nice. Alliteration and pleasing combinations can create pleasant sounds. _Whispering Woods_ is more pleasing to the ear than _Tangled Woods._ 
+#### Tips
 
+- To increase the number of **Details** on the map, you can either add more **branches** and **twigs**, or place a dot at the intersection of lines, e.g. where the **trunk** meets a **branch**.
+- Create loops by adding more trails! Connect an existing **Detail** to another **branch** or the **trunk**. 
 
 ### Trail Markers
 
-|        |                        |
-| ------ | ---------------------- |
-| **d6** | **Marker**             |
-| **1**  | **Animal Path**        |
-| **2**  | **Merchant's Road**    |
-| **3**  | **Fae Passage**        |
-| **4**  | **Bandit's Run**       |
-| **5**  | **Pilgrim's Footpath** |
-| **6**  | **Old Logging Road**   |
-| **7**  | **Trail Tree**         |
-| **8**  | **Treeline Heights**   |
-| **9**  | **Cloistered Grove**   |
-| **10** | **River Gulch**        |
-| **11** | **Spore Saturated**    |
-| **12** | **War Route**          |
+|         |                        |
+| ------- | ---------------------- |
+| **d12** | **Marker**             |
+| **1**   | **Animal Path**        |
+| **2**   | **Merchant's Road**    |
+| **3**   | **Fae Passage**        |
+| **4**   | **Bandit's Run**       |
+| **5**   | **Pilgrim's Footpath** |
+| **6**   | **Old Logging Road**   |
+| **7**   | **Trail Tree**         |
+| **8**   | **Treeline Heights**   |
+| **9**   | **Cloistered Grove**   |
+| **10**  | **River Gulch**        |
+| **11**  | **Spore Saturated**    |
+| **12**  | **War Route**          |
 
 ### Spoor Types 
 
@@ -309,11 +306,18 @@ grand_parent: WIP
 | **65**  | In the crook of a hollow tree, six ravens squawk and preen. If observed they stare back in silence.        |
 | **66**  | A rotted, vine-covered cabin, clearly abandoned long ago. A delicious smell wafts from the window.         |
 
-### Detail Names
+# Naming Details
 
 - To create a name each **Detail**, combine the results from the first column (adjectives) with the results from the second column (nouns).
 - For the adjective, roll a **d10** twice, first for the **tens** place, and then another for the **ones** place. Then repeat the process for the noun. 
 - Feel free to combine two nouns, or an adjective and a [terrain type](https://cairnrpg.com/wip/2e/setting/#terrain-noun
+
+#### Tips & Changes
+- Change it up! The name _Welcoming Grove_ creates a more vivid image than _Beckoning Copse_ might.
+- Use contrasting words (e.g. _Twisted Canopy_) to evoke an interesting detail about the location.
+- Make it sound nice. Alliteration and pleasing combinations can create pleasant sounds. _Whispering Woods_ is more pleasing to the ear than _Tangled Woods._ 
+
+### Detail Names
 
 |          |                |             |
 | -------- | -------------- | ----------- |
