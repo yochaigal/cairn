@@ -32,7 +32,7 @@ Hestia, Basil, Rune, Prism, Ember, Quintess, Aludel, Mordant, Salaman, Rune
 | **5** | Your recipe for turning iron to gold worked, but a rival stole the blueprint. Your reputation ruined, you lack the funds to try again. Take a protoype **blunderbuss** (**d12**, _blast_, bulky), and a taste for revenge.         |
 | **6** | Ridiculed for discovering how to turn gold into _lead_, you chose to pursue opportunities in more open-minded environs. Take a bottle of **universal solvent** (2 uses) that dissolves anything it touches into its constituant parts. |
 
-## What marvel is the product of your latest ingenuity? Roll 1d6:
+## What alchemical marvel is the product of your latest ingenuity? Roll 1d6:
 
 |       |                      |                                                                                                                                                                                                                                           |
 | ----- | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
