@@ -9,7 +9,7 @@ grand_parent: WIP
 
 # Mountebank
 
-> Wits are your sharpest weapon, a facade the strongest shield. But when you lose, you lose badly. 
+> Wits are your sharpest weapon, a facade the strongest shield. But when you do lose, you lose badly. 
 
 ## What do you call yourself?
 
@@ -20,26 +20,26 @@ Montague, Ambrose, Lucius, Sterling, Beauregard, Cornelius, Percival, Crispin, A
 - Rations (3 uses)
 - Torch (3 uses)
 - Fancy hat (_petty_)
-- Walking stick (d6)
+- Cane sword (d6)
 
-## How was your fraud exposed?
+## How was your fraud exposed? Roll 1d6:
 
 |       |                                                              |
 | ----- | ------------------------------------------------------------ |
-| **1** | Your "patients" reported miraculous recoveries, making you famous and forcing you to seek new opportunities. Start with bandages, ointment, and a knack for healing. |
-| **2** | After seducing a wealthy individual, their family hired a criminal gang to retrieve you. You escaped but need to lay low for a while. Start with a scroll of _Charm_. |
-| **3** | You unconsciouly mimic another's mannerisms, voice, and speech patterns. You do not feel at home in your own skin, and are prone to bouts of shivering, shaking, and _deprivation_ if you go more than a day without practicing your craft. Your condition forces you to travel without end, seeking a cure. |
-| **4** | Known as a thrill-seeker and provocateur in **The Cobbles** until your latest stunt destroyed a priceless artifact, and left least at least a dozen injured. Start with a captain's uniform, a ceremonial sword (bulky, 60gp), and a bouquet of flowers. |
-| **5** | You have a knack for the sleight of hand, passing it off as the real thing for a spot of gold. Unfortunately you crossed paths with a **Hedgewitch**, who cursed you for taking advantage of the common folk. Whenever you lie, your money (wherever it may be) vanishes. You have no idea where it goes. An odd quirk of this is that you can always tell when someone _else_ is lying, too. Start with an extra 2d20gp and a bad attitude. |
-| **6** | You were a self-proclaimed speaker for the dead, selling your services as a bridge from this world to the Great Beyond. In actuality, you possessed a spellbook of _Raise Spirit_, cleverly hidden beneath your seance table. Inevitably a skeptical patron investigated your workmanship and discovered your secret. Cast out, you fled with what you could. Take the spellbook, a bundle of scarves, and an incomplete knowledge of astrological charts. |
+| **1** | Your "patients" kept reporting miraculous recoveries, surprising you as much as the local authorities. When they investigated your credentials, you ran. Start with **bandages** and a knack for healing. |
+| **2** | After seducing a wealthy patron, their family hired a criminal gang to retrieve you. You escaped but need to lay low for a while. Start with a scroll of _Charm_. |
+| **3** | You peddled fake prophesies, until one turned out to be true, drawing unwanted attention. Roll on the **Omens** table but keep the result to yourself. If someone wants you dead, you always know about it.  |
+| **4** | When your latest stunt destroyed a priceless artifact and left a dozen injured you were forced to fake your own death (again). Start with a **captain's uniform**, a **ceremonial sword** (harmless, _bulky_, 60gp), and a **bouquet of flowers** (_petty_ if smashed). |
+| **5** | You have a knack for sleight of hand magic, passing it off as the real thing. Eventually you crossed paths with a hedgewitch, who cursed you for it. You "set off" nearby magic, often in unpredictable ways. Interacting with Relics or Spellbooks requires a WIL save to avoid disaster. If you are the target of either the same applies to its source. |
+| **6** | Your "seances" with the dead were in actuality a ruse involving a cleverly hidden spellbook of _Raise Spirit_. Inevitably a patron discovered your secret and uncovered your ruse. You fled with the **spellbook**, a bundle of scarves, and a knack for showmanship. |
 
-## What identifying keepsake do you carry?
+## What keepsake could always identify you? Roll 1d6:
 
 |       |                                    |                                                              |
 | ----- | ---------------------------------- | ------------------------------------------------------------ |
-| **1** | **Royal Crest**                    | Born into royalty, you chose a life of crime. The crest grants you access, but also alerts yoru family of your whereabouts. |
-| **2** | **Pop's World-Famous Miracle Oil** | A slippery, smelly concoction inherited from a family member. You can't bring yourself to rid of it. It is very, very, slippery. |
-| **3** | **Surgeon's Soap**                 | A lye and ash block that makes skin transparent, revealing anatomy. You have three bars. |
+| **1** | **Royal Crest**                    | Born into royalty, you chose a different life The crest grants you access, but also alerts your family of your whereabouts. |
+| **2** | **World-Famous Miracle Oil**       | A smelly concoction inherited from a family member. You can't bring yourself to rid of it. It is very, very, slippery. |
+| **3** | **Surgeon's Soap**                 | A lye and ash block that makes skin transparent, revealing the anatomy within. 4 uses. |
 | **4** | **Goat Powder**                    | Derived from the placenta of a baby goat.  Temporarily cures any affliction, but symptoms return within hours. |
-| **5** | **Cursed Sapphire**                | Returns to your pocket each time you spend it. You can't seem to get rid of it, either. Valued at around 200gp. |
-| **6** | **Wooden Sword**                   | A wooden sheath with a fixed pommel, useful as a club (d6) or costume prop. Something jiggles inside. |
+| **5** | **Cursed Sapphire**                | Valued at around 200gp, it returns to your pocket each time you spend it You can't seem to get rid of it. |
+| **6** | **Alchemical Tattoo**              | A mundane house pet that leaps off your body whenever you wish, and follows your command. It can pass injuries back onto you.    |
