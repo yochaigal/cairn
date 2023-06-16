@@ -370,23 +370,23 @@ Se você quiser algo mais próximo das classes tradicionais, consulte a lista de
 
 #### Ferramentas
 
-|      |                |      |                |
-| ---- | -------------- | ---- | -------------- |
-| 1    | Balde          | 6    | Giz            |
-| 2    | Broca (Manual) | 7    | Panela         |
-| 3    | Cinzel         | 8    | Pé-de-Cabra    |
-| 4    | Cola           | 9    | Pinos          |
-| 5    | Fole           | 10   | Vara de Pescar |
+|     |                |     |               |     |             |     |                |
+| --- | -------------- | --- | ------------- | --- | ----------- | --- | -------------- |
+| 1   | Ampulheta      | 6   | Fole          | 11  | Pá          | 16  | Pregos         |
+| 2   | Balde          | 7   | Giz           | 12  | Panela      | 17  | Rede           |
+| 3   | Broca (Manual) | 8   | Graxa         | 13  | Pé-de-Cabra | 18  | Serra          |
+| 4   | Cola           | 9   | Lixa de Metal | 14  | Pinças      | 19  | Selante        |
+| 5   | Cinzel         | 10  | Martelo       | 15  | Pinos       | 20  | Vara de Pescar | 
 
 #### Bugigangas
 
-|      |          |      |              |
-| ---- | -------- | ---- | ------------ |
-| 1    | Baralho  | 6    | Incenso      |
-| 2    | Bolinhas | 7    | Instrumento  |
-| 3    | Corneta  | 8    | Jóias Falsas |
-| 4    | Dados    | 9    | Lentes       |
-| 5    | Garrafa  | 10   | Tinta        |
+|     |          |     |         |     |              |     |         |
+| --- | -------- | --- | ------- | --- | ------------ | --- | ------- |
+| 1   | Apito    | 6   | Dados   | 11  | Instrumento  | 16  | Piche   |
+| 2   | Baralho  | 7   | Espelho | 12  | Joias Falsas | 17  | Sabão   |
+| 3   | Barbante | 8   | Esponja | 13  | Lente        | 18  | Sal     |
+| 4   | Bolinhas | 9   | Garrafa | 14  | Pena e Tinta | 19  | Sininho | 
+| 5   | Corneta  | 10  | Incenso | 15  | Perfume      | 20  | Tinta   |
 
 #### Item Bônus (role na tabela indicada)
 
