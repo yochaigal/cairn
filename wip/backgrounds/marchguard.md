@@ -17,20 +17,21 @@ Stone, Light, Gale, Frost, Thorn, Rill, Reed, Flint, Brook, Snow
 ## Starting Gear
 
 - Rations (3 uses)
-- Lantern & oil (bulky, 6 uses)
+- Lantern (bulky)
+- Oil can (6 uses)
 - Shortsword (d6)
-- Worn leather cuirass (1 Armor)
+- Worn cuirass (1 Armor)
 
 ## Why did you take the Oath?
 
 |       |                                                              |
 | ----- | ------------------------------------------------------------ |
 | **1** | Your family has a long tradition of serving, and you were trained from an early age how to survive in the wilds. You can forgo **Sleep** for one night without penalty, and you find **d6** rations when taking the **Supply** action.|
-| **2** | As a convict, you knew nothing of the Oath you were taking, only as a means of avoiding death. Take a **hidden throwing knife (d6)**, and the key to a safe hideout back home. |
-| **3** | You joined to escape family trouble. Take a **Goosefelt Tarp** (one slot), a gift of the Guard that brought you in. |
+| **2** | As a convict, you knew nothing of the Oath you were taking, only as a means of avoiding death. Take a **throwing knives** (d6, 3 uses)s, and the key to a safe hideout back home. |
+| **3** | To escape family trouble. Take a **Goosefelt Tarp** (one slot), a gift of the Guard that brought you in. |
 | **4** | When your family lost its land rights, you joined to avoid becoming a burden. Take a pouch of glow-in-the-dark **Emberseeds** whose flowers become highly explosive when planted.    |
-| **5** | Your life was saved by a member of the **Marchguard**, and you were inspired to join their ranks. Take a **snare kit** and a sketchbook. |
-| **6** | After failing at living in the wilds alone, you figured things might be easier among others. You're still not so sure. Take an **oilskin coat** and **weatherproof mapping paper**. |
+| **5** | Your life was saved by a member of the **Marchguard**, and you were inspired to join their ranks. Take a **snare kit** and a **sketchbook**. |
+| **6** | When things weren't looking great, you figured life might be easier among others. You're still not so sure. Take an **oilskin coat** and **weatherproof mapping paper**. |
 
 ## What do you carry that might identify you as an Oathbreaker?
 
