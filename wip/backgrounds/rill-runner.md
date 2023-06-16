@@ -21,7 +21,7 @@ Gale, Piper, Brook, Adair, Stone, Dale, Wren, Cliff, Rain, Robin
 - Compass
 - Dagger (d6)
 
-## What songs were you best known for? Roll 1d6:
+## What songs are you best known for? Roll 1d6:
 
 |       |                                                                                                                                                                                                                                          |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -32,14 +32,13 @@ Gale, Piper, Brook, Adair, Stone, Dale, Wren, Cliff, Rain, Robin
 | **5** | _Song of the Silver Stream_. A wordless lullaby that mimics flowing water. Take a **stone flute** that can calm any river waters in earshot.                                                                                             |
 | **6** | _The Thrush and the Meadow_. A moody tale told in alternating chorus. Start with a **feather quill** (1 use, _petty_). A map drawn with this quill always charts the most expedient course from one edge to the other,as the bird flies. |
 
-## How do you pay your way? Roll 1d6:
+## What pays your way across the land? Roll 1d6:
 
-|       |                     |                                                                                                                                           |
-| ----- | ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Performance**     | Performing at taverns always provides both room and board, provided you perform. Sometimes you get tips! Start with an extra d6 gold.           |
-| **2** | **Sailor's Friend** | Whether water, wind or sail, your aid brings ships to their destination. You have friends in every port, and your passage is always free. |
-| **3** | **Wares**           | You buy low and sell high, but always just enough to get by. Take an item under 20gp from the equipment table.                            |
-| **4** | **Transport**       | You deliver "select" packages throughout the lands. You have at least one contact in any major town.                                      |
-| **5** | **Bodyguard**       | You acted as protector for those afraid to travel alone. Start with a rapier (d8).                                                        |
-| **6** | **Guide**           | You shephard caravans and travelers alike across water-soaked lands. Start with an extra 10gp gold and a map relevant to your next journey.       |
-
+|       |                     |                                                                                                                                             |
+| ----- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | **Performance**     | Performing at taverns always yields both room and board. Sometimes you even get tips! Start with an extra d6 gold.                          |
+| **2** | **Bodyguard**       | You are a protector for those afraid to travel alone. Start with a rapier (d8).                                                          |
+| **3** | **Wares**           | You buy low and sell high, but always just enough to get by. Take an item under 20gp from the equipment table.                              |
+| **4** | **Transport**       | You deliver "select" packages throughout the lands. You have at least one contact in any major town.                                        |                                                    
+| **5** | **Sailor's Friend** | Whether water, wind, or sail, your aid brings ships to their destination. You have friends in every port, and your passage is always free.  |
+| **6** | **Guide**           | You shephard caravans and travelers across water-soaked lands. Start with an extra 10gp gold and a map relevant to your next journey. |
