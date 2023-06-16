@@ -11,7 +11,7 @@ parent: Resources
 - [Character Sheet (token)](https://docs.google.com/drawings/d/1_X9o8rzE5jFPQpP1yCz1sPikdm8naQ1gPkT-ATK2T0c) (Download as PDF or PNG)
 - [Online Character Keeper](https://docs.google.com/spreadsheets/d/1Ueq-v5XZ-mC1qFd81T0892RzRsr8WdgAG89M4ZXe5qM) (Google Sheets)
 - [Online Character Sheet + Tokens](https://docs.google.com/presentation/d/1rYEUNE9_zsEUBut3a3UyRhRr8fy33s5fjX4Y7L6lvog)
-- [Online Character Sheet for Notion](https://tinyurl.com/notion-cairn) by Brent Dykes-Kirwan
+- [Online Character Sheet for Notion](https://www.notion.so/cairnrpg/Cairn-Character-Sheet-Template-684b830396e4472186987fd733bde47c?pvs=4)
 - [Fari Character Sheet](https://fari.app/characters/new/cairn/cairn)
 - [Perchance](https://perchance.org/cairn-characters) & [Chartopia](http://d12dev.com/chart/32009) generators by idolofmanyhands
 - [Classic Fantasy Starting Packages](https://dreamingdragonslayer.itch.io/into-the-odd-classic-fantasy-starting-packages)
