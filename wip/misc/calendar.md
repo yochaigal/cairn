@@ -60,10 +60,10 @@
 - **Highwater Fair**: A major trade event taking place when the waters are highest. Every major town and city celebrates with fairs and markets. 1st of Highwater.
 
 **Rise**
-- **Harvest Festival**: Marking the end of the Wet season and the beginning of growth and fertility. Tree planting is common. The week of the 16th.
+- **Harvest Festival**: Marking the end of the Wet season and the beginning of growth and fertility. Tree planting is common. The week of the 19th (except for **Resting Day**).
 
 **Quell**
-- **Storm Dance**: Dances and betrothels meant to please the masters of storm and rain for a fruitful dry season ahead. All day on the 10th.
+- **Storm Dance**: Dances and betrothals meant to please the masters of storm and rain for a fruitful dry season ahead. All day on the 4th.
 
 **Bane**
 - **Fast of Spirits**: A solemn day of fasting and reflection to remember the hardships endured by both ancestors and those still alive. 14th day of the month.
@@ -72,10 +72,10 @@
 - **Dustset Carnival**: Marked by parades and masquerades, participants wear masks to protect from dust and wind. Afternoon until midnight on the 9th.
 
 **Sunheart**
-- **Sunheart Feast**: The final grand feast of the year, celebrating gratitude for the harvest, with the sun as centerpiece. Pregnancies are common. 20th day and night.
+- **Sunheart Feast**: The final grand feast of the year, celebrating gratitude for the harvest, with the sun as centerpiece. Pregnancies are common. 24th day of the month, when the stars show.
 
 **Dusk**
-- **Gleam**: Pays homage to the setting sun, and the hard work ahead preparing for the Dead season. Lantern release ceremonies are a common practice. 10th day of the month.
+- **Ember**: Pays homage to the setting sun, and the hard work ahead preparing for the Dead season. Lantern release ceremonies are a common practice. Evening of the 11th Day of the month.
 
 **Ashfall**
 - **Parade of Ash**: To celebrate the end of the year and lift spirits during the onset of the Dead season, participants mark their faces with ash and play music. Nearly all labor is frowned upon. 24th day of the month.
