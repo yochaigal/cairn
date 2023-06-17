@@ -17,22 +17,22 @@ Fergus, Eamon, Bram, Idris, Elara, Darragh, Seren, Rónán, Berek, Lorenz
 ## Starting Gear
 
 - Rations (3 uses)
-- Torch (3 users)
+- Torch (3 uses)
 - Tent (fits 2)
-- Helm (+1 Armor)
+- Dagger (d6)
 
-## How did your lose your way? Roll 1d6:
+## What was your trade? Roll 1d6:
 
-|     |                                                                                                                                                                                                                                                                                                                                                                   |
-| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | A machine you designed was later used open a wealthy noble's vault. Now the constables are after you, and the **Guild of Thieves, Scoundrels and Wastrels** is asking for a percentage of the stolen goods. You always carry pincers, a hammer, and tin. Given time and materials, you can open almost any door.                                                  |
-| 2   | Formerly a traveling merchant dealing in home goods and tools, the hostility and superstition of townspeople pushed you towards new horizons. You are armed with a hidden **stiletto**, a **lantern**, and **oil**. You are fluent in the _Traveller's Cant_, and can always find a city within a three-day walk.                                                 |
-| 3   | Formerly a military smelter, peace destroyed your livelihood. Now you roam in search of profitable minerals only found deep under ground. Take a **smelting hammer** (d10, bulky). You can identify most metals and understand their properties. Given time and adequete materials, you can even repair armor.                                                    |
-| 4   | You traded only in the most rare and sought-after items, selling to monastaries and nobles alike. Then the inquisitions swept the lands, followed soon after by trials. You escaped with only what you could carry. Take a **spyglass**, a **necklace** (petty) worth 20gp, and the [Fold Portal](https://cairnrpg.com/resources/more-spellbooks/#fold-portal) spellbook.     |
-| 5   | Not a true metalsmith, your skill lay in the art of self-defense. You protected the trade, quietly watching for threats as gold exchanged hands. One day your caravan was robbed and your ward was killed. You survived, but were banned from service. You start with +d4 HP, and carry a **long sword** (d10, bulky) and a **brigandine** (1 Armor, bulky). |
-| 6   | You scavenged bloody battlefields for tin and iron, pulling teeth from still-twitching corpses. After the war, you vowed never again to dishonor the dead. Start with a **donkey** (+4 slots, slow), a **crossbow** (d8 damage, bulky), a **saw** (d6), and a debt you can never repay.                                                                           |
+|       |                                                                                                                                                                                                                          |
+| ----- | --------------------------------- |
+| **1** | You build small contraptions for local guilds (you don't ask questions). You always carry a **pincers** (d6) and a roll of **tin**. Given time and materials, you can open almost any door.                              |
+| **2** | You dealt in home goods and tools, improving the lives of townspeople across the lands. Roll on the **trinkets** table twice. You carry a hidden **stiletto** and are fluent in the _Traveller's Cant_.                  |
+| **3** | You were a military smelter, before peace destroyed your livelihood. Take a **smelting hammer** (d10, _bulky_) and a **helm** (+1 Armor). Given time and adequete materials, you can repair armor.                       |
+| **4** | You sold rare and quality items to monastaries and nobles alike. Take a **spyglass**, a **necklace** (_petty_) worth 20gp, and the [Fold Portal](https://cairnrpg.com/resources/more-spellbooks/#fold-portal) spellbook. |
+| **5** | You offered protection as a service, quietly watching for threats while the money exchanged hands. You start with +d4 HP, and carry a **long sword** (d10, bulky) and a **brigandine** (1 Armor, bulky).                 |
+| **6** | Raw tin and iron scavenged from battlefields, pulling teeth from still-twitching corpses. Start with a **donkey** (+4 slots, slow), a **crossbow** (d8 damage, bulky), a **saw** (d6).                                   |
 
-## What do you have that ever fails to get you out of trouble? Roll 1d6:
+## What never fails to get you out of trouble? Roll 1d6:
 
 |     |                    |                                                                                                                                   |
 | --- | ------------------ | --------------------------------------------------------------------------------------------------------------------------------- |

@@ -19,18 +19,18 @@ Rook, Ebon, Moro, Yew, Pall, Leth, Nix, Sable, Vesper, Rune
 - Rations (3 uses)
 - Lantern (needs oil)
 - Oil can (6 uses)
-- Grave stake (d6)
+- Stake (d6)
 
-## How did caring for the dead change you? Roll 1d6:
+## How did take from the dead? Roll 1d6:
 
 |       |                                                                                                                                                                                                                                                                                                                                                                                         |     |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
-| **1** | You found a **crow-shaped amulet** on an unidentified body. With it you can ask one question of the dead (take a **Fatigue**). They do not always speak truly.                                                                                                                                                                                                                          |     |
-| **2** | You accidently released a _revenant_ from a long-forgotten tome. It scarred you, and made you a pariah amongst the living. You no longer breathe, nor do you require food. You can still feel pain, and die.                                                                                                                                                                            |     |
-| **3** | You left a suicide cult after getting cold feet. Take a **Blood Pail** (_bulky_). Empty its contents to summon a creature built from items buried below (bones, rocks, pottery, etc). It obeys your command, but if destroyed you _permanently_ lose 1d4 STR. It has 6 HP, 1 Armor, 13 STR, 11 DEX, 4 WIL, shard fists (d8). **Recharge**: Fill the bucket with the blood of the dying. |     |
-| **4** | Your job at the noble's tomb was part of a failed heist that landed your friends in jail, and left you a fugitive. On the bright side, you escaped with the getaway **wagon** (+8 slots, slow) and a stubborn old **donkey** (+4 slots, +2 slots with wagon).                                                                                                                           |     |
-| **5** | Your family cleansed the dead in service to an obscure underworld deity. You lost your faith, but retained its teachings. You were exiled, but were given the  [_Frozen Corpse_](https://cairnrpg.com/resources/more-spellbooks/#frozen-corpse) spellbook so that you may continue to serve, even as an apostate.                                                                       |     |
-| **6** | You cared for the diseased and dying, until there was no one left to care for. Take a **plague doctor's mask** and a black notebook filled with names.                                                                                                                                                                                                                                  |     |
+| **1** | A **crow-shaped amulet**. With it you can ask one question of the dead (take a **Fatigue**). They do not always speak truly.  |
+| **2** | A **mortal wound** from an escaped _revenant_. You were healed, but the disfigurement has made you a pariah amongst the living, for you no longer breathe, nor do you require food. You can still feel pain, and die. The dead see you as their own.                                         |     |
+| **3** | A **Blood Pail** (_bulky_) from the lich worshiped by a local death-cult. Empty its contents to summon a creature built from items buried below (bones, rocks, pottery, etc). It obeys your command, but if destroyed you _permanently_ lose 1d4 STR. It has 6 HP, 1 Armor, 13 STR, 11 DEX, 4 WIL, shard fists (d8). **Recharge**: Fill the bucket with the blood of the dying. |     |
+| **4** | A **burial wagon** (+6 slots) and a stubborn old **donkey** (+4 slots, +2 slots with wagon). Something really bad happened at work. The story changes each time. |     |
+| **5** | The [_Frozen Corpse_](https://cairnrpg.com/resources/more-spellbooks/#frozen-corpse) spellbook from an ancient library. Your family worked in service to an obscure underworld deity, but you lost your faith. You were exiled, but continue to serve, even as an apostate.    |     |
+| **6** | A **plague doctor's mask**, after its owner succumbed to a disease that wiped out everything you knew. They should have kept it on.
 
 ## What tool was invaluable in your work? Roll 1d6:
 
