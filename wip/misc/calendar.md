@@ -5,18 +5,19 @@
 
 - View it [here](https://app.fantasy-calendar.com/calendars/2669bad0fde3ee0be2d57d168248352b)
 - 24 hours a day
-- 5 days a week
-- 20 days or 4 weeks in a month
-- 12 months or 240 days a year
-- 3 seasons a year
+- 6 days a week
+- 24 days (or 4 weeks) in a month
+- 12 months or 280 days a year
+- 4 seasons a year
 
 ## Days of the week
 
 1. Market Day
 2. Garden Day
-3. Midweek
+3. Song Day
 4. Tithe Day
 5. Bathing Day
+6. Resting Day
 
 ## Months
 
@@ -35,15 +36,16 @@
 
 ## Seasons
 
-- Each season lasts exactly 4 months (80 days).
-- The Dead season starts on the 10th day of the 3rd month.
-- The Wet season starts on the 10th day of the 7th month.
-- The Dry season starts on the 10th day of the 11th month.
+- Each season lasts exactly 3 months (72 days).
+- The Dead season starts on the 4th day of the 1st month.
+- The Wet season starts on the 4th day of the 4th month.
+- The Culling season starts on the 4th day of the 10th month.
+- The Dry season starts on the 4th day of the 7th month. 
 
 ## Holidays and Festivals
 
 ### Mourning
-- **First Light**: Commemorating the end of the hardest month. Torches and fire are lit all night, turning night to day. Last day of the month.  
+- **First Light**: Commemorating the end of the hardest month. Torches and fire are lit all night, turning night to day. Evening of the 24th day of **Mourning** (**Rest Day**).  
 
 ### Silence
 - **Whisper**: Speaking above a whisper is taboo. Silent auctions are common. Dawn to Dusk on the 11th (**Market Day**).
