@@ -12,11 +12,26 @@
 
 ## Days of the week
 
-- Market Day
-- Garden Day
-- Midweek
-- Tithe Day
-- Bathing Day
+1. Market Day
+2. Garden Day
+3. Midweek
+4. Tithe Day
+5. Bathing Day
+
+## Months
+
+1. Mourning
+2. Silence
+3. Veil
+4. Flood
+5. Highwater
+6. Rise
+7. Quell
+8. Bane
+9. Dustset
+10. Sunheart
+11. Dusk
+12. Ashfall
 
 ## Seasons
 
@@ -25,9 +40,7 @@
 - The Wet season starts on the 10th day of the 7th month.
 - The Dry season starts on the 10th day of the 11th month.
 
-## Month names
-
-### Options
+## Ideas for month names
 
 - Deities or religious figures
 - Emperors, leaders or famous figures
@@ -50,17 +63,3 @@
 - Art or music
 - Trade or commerce
 
-### Ideas
-
-1. Mourning
-2. Silence
-3. Veil
-4. Flood
-5. Highwater
-6. Rise
-7. Quell
-8. Bane
-9. Dustset
-10. Sunheart
-11. Dusk
-12. Ashfall
