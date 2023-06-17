@@ -40,7 +40,47 @@
 - The Wet season starts on the 10th day of the 7th month.
 - The Dry season starts on the 10th day of the 11th month.
 
-## Ideas for month names
+## Holidays and Festivals
+
+### Mourning
+- **Festival of the Dead**: 
+
+### Silence
+- **Whisper**: Speaking above a whisper is taboo. Silent auctions are common. Dawn to Dusk on the 11th (**Market Day**).
+
+**Veil**
+- **Lift the Veil**: The beginning of the end of the Dead season is celebrated through solemn vows. Midnight on the 10th (**Bathing Day**).
+
+**Flood**
+- **Splash Festival**: Celebrating the abundance of water, with boat races, contests, gifts, and water blessings. 3 days starting on the 10th **Bathing Day**/Wet Solstice. 
+
+**Highwater**
+- **Highwater Fair**: A major trade event taking place when the waters are highest. Every major town and city celebrates with fairs and markets. 1st of Highwater (**Market Day**).
+
+**Rise**
+- **Harvest Festival**: Marking the end of the Wet season and the beginning of growth and fertility. Tree planting is common. The week of the 16th.
+
+**Quell**
+- **Storm Dance**: Dances and betrothels meant to please the masters of storm and rain for a fruitful dry season ahead. All day on the 10th (**Bathing Day**).
+
+**Bane**
+- **Fast of Spirits**: A solemn day of fasting and reflection to remember the hardships endured by both ancestors and those still alive. 14th day, **Tithe Day**. 
+
+**Dustset**
+- **Dustset Carnival**: Marked by parades and masquerades, participants wear masks to protect from dust and wind. Afternoon until midnight on the 9th **Tithe Day**.
+
+**Sunheart**
+- **Sunheart Feast**: The final grand feast of the year, celebrating gratitude for the harvest, with the sun as centerpiece. Pregnancies are common. 20th of the month, all day and all night (**Bathing Day**).
+
+**Dusk**
+- **Gleam**: Pays homage to the setting sun, and the hard work ahead preparing for the Dead season. Lantern release ceremonies are a common practice. 10th of the month. **Bathing Day**.
+
+**Ashfall**
+- Parade of Ash: To celebrate the end of the year and lift spirits during the onset of the Dead season, participants mark their faces with ash and play music. Nearly all labor is frowned upon. 20th day, **Bathing Day**.
+
+## Ideas
+
+### Month Names
 
 - Deities or religious figures
 - Emperors, leaders or famous figures
