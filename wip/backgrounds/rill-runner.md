@@ -30,7 +30,7 @@ Gale, Piper, Brook, Adair, Stone, Dale, Wren, Cliff, Rain, Robin
 | **3** | _Harper's Hollow_. A sad, short tale about a musician that falls in love with a star. Start with a **lunar lute**. Reveals the constellations above, no matter the weather.                                                              |
 | **4** | _The Reed Fisher_. A celebrated tale of a fisher and a massive carp. Begin with a spool of **river twine** (5 uses). Each dip into the river guarantees a catch, though it's not always pleasant.                                        |
 | **5** | _Song of the Silver Stream_. A wordless lullaby that mimics flowing water. Take a **stone flute** that can calm any river waters in earshot.                                                                                             |
-| **6** | _The Thrush and the Meadow_. A moody tale told in alternating chorus. Start with a **feather quill** (1 use, _petty_). A map drawn with this quill always charts the most expedient course from one edge to the other,as the bird flies. |
+| **6** | _The Thrush and the Meadow_. A moody tale told in alternating chorus. Start with a **feather quill** (1 use, _petty_). A map drawn with this quill reveals the most expedient course from any two points. |
 
 ## What pays your way across the land? Roll 1d6:
 

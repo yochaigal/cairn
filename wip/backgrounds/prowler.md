@@ -35,7 +35,7 @@ grand_parent: WIP
 
 |      |                   |                                                              |
 | ---- | ----------------- | ------------------------------------------------------------ |
-| **1** | **Fermented Spirits** | Keeps you warm at the best of times, can be used as an explosive at the worst.  |
+| **1** | **Fermented Spirits** | Keeps you warm at the best of times, can be used as an explosive at the worst 3 Uses.  |
 | **2** | **Trail Shaker** | A noisy instrument that reveals a nearby trail, even when hidden. Fae trails are not affected.   |
 | **3** | **Drowse Balm** | A wax bar. If boiled in water, the steam acts as a soporific agent, even for larger creatures.|
 | **4** | **Spike and Cord** |  For traversing or securing difficult terrains, or for creating makeshift traps and structures.|
