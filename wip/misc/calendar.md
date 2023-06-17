@@ -20,114 +20,43 @@ Bathing Day
 - The Dead season starts on the 10th day of the 3rd month.
 - The Wet season starts on the 10th day of the 7th month.
 - The Dry season starts on the 10th day of the 11th month.
-- The Wet Equinox occurs on the 20th day of the 4th month.
-- The Dry Equinox occurs on the 20th day of the 8th month.
 
-### Month names
-- Witches
-- gods
-- 
+## Month names
 
+### Options
 
-## Options
+- Deities or religious figures
+- Emperors, leaders or famous figures
+- Natural phenomena
+- Agricultural events
+- Seasons
+- Celestial bodies or events
+- Cultural or societal events
+- Numeric order
+- Virtues or abstract concepts
+- Weapons or objects of significance
+- Mythical creatures or legends
+- Elements or materials
+- Colors
+- Landforms
+- Animals
+- Tribes or clans
+- War or peace
+- Life events
+- Art or music
+- Trade or commerce
 
-Frostfall
-Suncrest
-Windwhisper
-Riverwake
-Flamebirth
-Starhold
-Leafdew
-Cloudveil
-Stoneheart
-Moonglow
-Thornthaw
-Rainshadow
-Lightgrace
-Skywatch
-Emberturn
-Bloomrise
-Dreamseer
-Snowgleam
-Firepeak
-Solstice
-Harvestreach
-Mistweaver
-Fawnleap
-Wavecrest
-Gildedleaf
-Cinderfall
-Dragonwake
-Dawnharbor
-Stormseeker
-Ashenwind
-Birchsong
-Featherlight
-Deepfrost
-Blazereign
-Stormdrum
-Earthwane
-Cragshadow
-Tidecaller
-Emberwane
-Ironcrest
-Duskwing
-Glimmerveil
-Starwoven
-Crowndance
-Dawnchaser
-Fablemourn
-Goldenshield
-Eclipselatch
-Springrise
-Pearlseer
-Icehallow
-Heartfire
-Quartzgleam
-Runeveil
-Gleamdrift
-Silvergleam
-Stormchase
-Lightmark
-Crystalseer
-Sunshield
-Frostclasp
-Galespire
-Flamegale
-Leafborne
-Stagrun
-Ravenroost
-Foxglove
-Lanternrise
-Willowveil
-Starseek
-Galewing
-Skyward
-Aegisfall
-Oakenhold
-Wispdancer
-Emberveil
-Tidewhisper
-Wraithmoon
-Snowfury
-Pyresong
-Solardrift
-Shadowdeep
-Harvestgleam
-Wolfcry
-Spiritveil
-Lighthaven
-Sapphiremourn
-Stormheart
-Moonlatch
-Flamefrost
-Emberchase
-Frostgaze
-Stonestride
-Shatterveil
-Swiftlight
-Crystalbloom
-Frostvale
-Echofall
-Glitterveil
-Pheonixcry
+### Ideas
+
+1. Mourning
+2. Silence
+3. Veil
+4. Flood
+5. Highwater
+6. Rise
+7. Quell
+8. Bane
+9. Dustset
+10. Sunheart
+11. Dusk
+12. Ashfall
