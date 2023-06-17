@@ -39,46 +39,46 @@
 - Each season lasts exactly 3 months (72 days).
 - The Dead season starts on the 4th day of the 1st month.
 - The Wet season starts on the 4th day of the 4th month.
-- The Culling season starts on the 4th day of the 10th month.
-- The Dry season starts on the 4th day of the 7th month. 
+- The Harvest season starts on the 4th day of the 7th month. 
+- The Dry season starts on the 4th day of the 10th month.
 
 ## Holidays and Festivals
 
 ### Mourning
-- **First Light**: Commemorating the end of the hardest month. Torches and fire are lit all night, turning night to day. Evening of the 24th day of **Mourning** (**Rest Day**).  
+- **First Light**: Commemorating the end of the hardest month. Torches and fire are lit all night, turning night to day. Evening of the 24th day of **Mourning**.  
 
 ### Silence
-- **Whisper**: Speaking above a whisper is taboo. Silent auctions are common. Dawn to Dusk on the 11th (**Market Day**).
+- **Whisper**: Speaking above a whisper is taboo. Silent auctions are common. Dawn to Dusk on the 11th.
 
 **Veil**
-- **Lift the Veil**: The beginning of the end of the Dead season is celebrated through solemn vows. Midnight on the 10th (**Bathing Day**).
+- **Lift the Veil**: The beginning of the end of the Dead season is celebrated through solemn vows. Midnight on the 10th.
 
 **Flood**
-- **Splash Festival**: Celebrating the abundance of water, with boat races, contests, gifts, and water blessings. 3 days starting on the 10th **Bathing Day**/Wet Solstice. 
+- **Splash Festival**: Celebrating the abundance of water, with boat races, contests, gifts, and water blessings. 3 days starting on the Wet Solstice. 
 
 **Highwater**
-- **Highwater Fair**: A major trade event taking place when the waters are highest. Every major town and city celebrates with fairs and markets. 1st of Highwater (**Market Day**).
+- **Highwater Fair**: A major trade event taking place when the waters are highest. Every major town and city celebrates with fairs and markets. 1st of Highwater.
 
 **Rise**
 - **Harvest Festival**: Marking the end of the Wet season and the beginning of growth and fertility. Tree planting is common. The week of the 16th.
 
 **Quell**
-- **Storm Dance**: Dances and betrothels meant to please the masters of storm and rain for a fruitful dry season ahead. All day on the 10th (**Bathing Day**).
+- **Storm Dance**: Dances and betrothels meant to please the masters of storm and rain for a fruitful dry season ahead. All day on the 10th.
 
 **Bane**
-- **Fast of Spirits**: A solemn day of fasting and reflection to remember the hardships endured by both ancestors and those still alive. 14th day, **Tithe Day**. 
+- **Fast of Spirits**: A solemn day of fasting and reflection to remember the hardships endured by both ancestors and those still alive. 14th day of the month.
 
 **Dustset**
-- **Dustset Carnival**: Marked by parades and masquerades, participants wear masks to protect from dust and wind. Afternoon until midnight on the 9th (**Tithe Day**).
+- **Dustset Carnival**: Marked by parades and masquerades, participants wear masks to protect from dust and wind. Afternoon until midnight on the 9th.
 
 **Sunheart**
-- **Sunheart Feast**: The final grand feast of the year, celebrating gratitude for the harvest, with the sun as centerpiece. Pregnancies are common. 20th day and night (**Bathing Day**).
+- **Sunheart Feast**: The final grand feast of the year, celebrating gratitude for the harvest, with the sun as centerpiece. Pregnancies are common. 20th day and night.
 
 **Dusk**
-- **Gleam**: Pays homage to the setting sun, and the hard work ahead preparing for the Dead season. Lantern release ceremonies are a common practice. 10th day **Bathing Day**.
+- **Gleam**: Pays homage to the setting sun, and the hard work ahead preparing for the Dead season. Lantern release ceremonies are a common practice. 10th day of the month.
 
 **Ashfall**
-- **Parade of Ash**: To celebrate the end of the year and lift spirits during the onset of the Dead season, participants mark their faces with ash and play music. Nearly all labor is frowned upon. 20th day, **Bathing Day**.
+- **Parade of Ash**: To celebrate the end of the year and lift spirits during the onset of the Dead season, participants mark their faces with ash and play music. Nearly all labor is frowned upon. 24th day of the month.
 
 ## Ideas
 
