@@ -3,16 +3,20 @@
 
 ## How it works
 
-24 hours a day, 5 days a week, 20 days, 4 weeks a month, 12 months a year, 240 days a year
-3 seasons a year
+- View it [here](https://app.fantasy-calendar.com/calendars/2669bad0fde3ee0be2d57d168248352b)
+- 24 hours a day
+- 5 days a week
+- 20 days or 4 weeks in a month
+- 12 months or 240 days a year
+- 3 seasons a year
 
 ## Days of the week
 
-Market Day
-Garden Day
-Midweek
-Tithe Day
-Bathing Day
+- Market Day
+- Garden Day
+- Midweek
+- Tithe Day
+- Bathing Day
 
 ## Seasons
 
