@@ -43,7 +43,7 @@
 ## Holidays and Festivals
 
 ### Mourning
-- **Festival of the Dead**: 
+- **First Light**: Commemorating the end of the hardest month. Torches and fire are lit all night, turning night to day. Last day of the month.  
 
 ### Silence
 - **Whisper**: Speaking above a whisper is taboo. Silent auctions are common. Dawn to Dusk on the 11th (**Market Day**).
@@ -67,16 +67,16 @@
 - **Fast of Spirits**: A solemn day of fasting and reflection to remember the hardships endured by both ancestors and those still alive. 14th day, **Tithe Day**. 
 
 **Dustset**
-- **Dustset Carnival**: Marked by parades and masquerades, participants wear masks to protect from dust and wind. Afternoon until midnight on the 9th **Tithe Day**.
+- **Dustset Carnival**: Marked by parades and masquerades, participants wear masks to protect from dust and wind. Afternoon until midnight on the 9th (**Tithe Day**).
 
 **Sunheart**
-- **Sunheart Feast**: The final grand feast of the year, celebrating gratitude for the harvest, with the sun as centerpiece. Pregnancies are common. 20th of the month, all day and all night (**Bathing Day**).
+- **Sunheart Feast**: The final grand feast of the year, celebrating gratitude for the harvest, with the sun as centerpiece. Pregnancies are common. 20th day and night (**Bathing Day**).
 
 **Dusk**
-- **Gleam**: Pays homage to the setting sun, and the hard work ahead preparing for the Dead season. Lantern release ceremonies are a common practice. 10th of the month. **Bathing Day**.
+- **Gleam**: Pays homage to the setting sun, and the hard work ahead preparing for the Dead season. Lantern release ceremonies are a common practice. 10th day **Bathing Day**.
 
 **Ashfall**
-- Parade of Ash: To celebrate the end of the year and lift spirits during the onset of the Dead season, participants mark their faces with ash and play music. Nearly all labor is frowned upon. 20th day, **Bathing Day**.
+- **Parade of Ash**: To celebrate the end of the year and lift spirits during the onset of the Dead season, participants mark their faces with ash and play music. Nearly all labor is frowned upon. 20th day, **Bathing Day**.
 
 ## Ideas
 
