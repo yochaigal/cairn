@@ -22,45 +22,45 @@ search_exclude: true
 
 > To roll on the table below, roll a **d6** twice, first for the **tens** place, and then another for the **ones** place. The backgrounds below are clickable!
 
-|         |                                                                       |
-| ------- | --------------------------------------------------------------------- |
-| **d66** | **Background**                                                        |
-| **11**  | [Marchguard](https://cairnrpg.com/wip/backgrounds/marchguard/)        |
-| **12**  | [Fieldwarden](https://cairnrpg.com/wip/backgrounds/fieldwarden/)      |
-| **13**  | [Greenwise](https://cairnrpg.com/wip/backgrounds/greenwise/)          |
-| **14**  | [Bonescribe](https://cairnrpg.com/wip/backgrounds/fieldwarden/)       |
-| **15**  | [Mountebank](https://cairnrpg.com/wip/backgrounds/mountebank)         |
-| **16**  | [Tinker](https://cairnrpg.com/wip/backgrounds/tinker)                 |
-| **21**  | [Aurifex](https://cairnrpg.com/wip/backgrounds/aurifex)               |
-| **22**  | [Jongleur](https://cairnrpg.com/wip/backgrounds/jongleur/)            |
-| **23**  | [Prowler](https://cairnrpg.com/wip/backgrounds/prowler)         |
-| **24**  | [Marshstrider](https://cairnrpg.com/wip/backgrounds/marshstrider)     |
-| **25**  | [Foundling](https://cairnrpg.com/wip/backgrounds/foundling)           |
-| **26**  | [Woodweard](https://cairnrpg.com/wip/backgrounds/woodweard)           |
-| **31**  | [Petty Magician](https://cairnrpg.com/wip/backgrounds/petty-magician) |
-| **32**  | [Ranger](https://cairnrpg.com/wip/backgrounds/ranger)                 |
-| **33**  | [Scribe](https://cairnrpg.com/wip/backgrounds/scribe)                 |
-| **34**  | [Hunter](https://cairnrpg.com/wip/backgrounds/hunter)                 |
-| **35**  | [Wood Scholar](https://cairnrpg.com/wip/backgrounds/wood-scholar)     |
-| **36**  | [Rill Runner](https://cairnrpg.com/wip/backgrounds/rill-runner)       |
-| **41**  | [Local Hero](https://cairnrpg.com/wip/backgrounds/local-hero)         |
-| **42**  |                                                                       |
-| **43**  |                                                                       |
-| **44**  |                                                                       |
-| **45**  |                                                                       |
-| **46**  |                                                                       |
-| **51**  |                                                                       |
-| **52**  |                                                                       |
-| **53**  |                                                                       |
-| **54**  |                                                                       |
-| **55**  |                                                                       |
-| **56**  |                                                                       |
-| **61**  |                                                                       |
-| **62**  |                                                                       |
-| **63**  |                                                                       |
-| **64**  |                                                                       |
-| **65**  |                                                                       |
-| **66**  |                                                                       |
+|         |                                                                   |
+| ------- | ----------------------------------------------------------------- |
+| **d66** | **Background**                                                    |
+| **11**  | [Marchguard](https://cairnrpg.com/wip/backgrounds/marchguard/)    |
+| **12**  | [Fieldwarden](https://cairnrpg.com/wip/backgrounds/fieldwarden/)  |
+| **13**  | [Greenwise](https://cairnrpg.com/wip/backgrounds/greenwise/)      |
+| **14**  | [Bonescribe](https://cairnrpg.com/wip/backgrounds/fieldwarden/)   |
+| **15**  | [Mountebank](https://cairnrpg.com/wip/backgrounds/mountebank)     |
+| **16**  | [Kettlewright](https://cairnrpg.com/wip/backgrounds/kettlewright) |
+| **21**  | [Aurifex](https://cairnrpg.com/wip/backgrounds/aurifex)           |
+| **22**  | [Jongleur](https://cairnrpg.com/wip/backgrounds/jongleur/)        |
+| **23**  | [Prowler](https://cairnrpg.com/wip/backgrounds/prowler)           |
+| **24**  | [Marshstrider](https://cairnrpg.com/wip/backgrounds/marshstrider) |
+| **25**  | [Foundling](https://cairnrpg.com/wip/backgrounds/foundling)       |
+| **26**  | [Woodweard](https://cairnrpg.com/wip/backgrounds/woodweard)       |
+| **31**  | [Rill Runner](https://cairnrpg.com/wip/backgrounds/rill-runner)   |
+| **32**  | [Scriviner](https://cairnrpg.com/wip/backgrounds/scriviner)       |
+| **33**  | [Local Hero](https://cairnrpg.com/wip/backgrounds/local-hero)     |
+| **34**  |                                                                   |
+| **35**  |                                                                   |
+| **36**  |                                                                   |
+| **41**  |                                                                   |
+| **42**  |                                                                   |
+| **43**  |                                                                   |
+| **44**  |                                                                   |
+| **45**  |                                                                   |
+| **46**  |                                                                   |
+| **51**  |                                                                   |
+| **52**  |                                                                   |
+| **53**  |                                                                   |
+| **54**  |                                                                   |
+| **55**  |                                                                   |
+| **56**  |                                                                   |
+| **61**  |                                                                   |
+| **62**  |                                                                   |
+| **63**  |                                                                   |
+| **64**  |                                                                   |
+| **65**  |                                                                   |
+| **66**  |                                                                   |
 
 ## Ability Scores  
 
