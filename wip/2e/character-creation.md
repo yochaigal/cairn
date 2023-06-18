@@ -20,7 +20,10 @@ search_exclude: true
 
 ## Backgrounds
 
-> To roll on the table below, roll a **d6** twice, first for the **tens** place, and then another for the **ones** place. The backgrounds below are clickable!
+- Some backgrounds may ask you to roll on the [Gear Tables](https://cairnrpg.com/wip/2e/equipment#gear-tables).
+- To roll on the table below, roll a **d6** twice, first for the **tens** place, and then another for the **ones** place. 
+- The backgrounds below are clickable!
+
 
 |         |                                                                   |
 | ------- | ----------------------------------------------------------------- |
