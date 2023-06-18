@@ -1,5 +1,5 @@
 ---
-title: Scribe
+title: Scrivener
 layout: default
 nav_exclude: true
 search_exclude: true
@@ -7,7 +7,7 @@ parent: Backgrounds
 grand_parent: WIP
 ---
 
-# Scribe
+# Scrivener
 
 > You spent your days transcribing ancient texts and illuminating manuscripts. Your only outdoor engagement a formal delivery of messages.
 

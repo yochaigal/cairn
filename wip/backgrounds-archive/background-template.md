@@ -3,7 +3,7 @@ title: Background Template
 layout: default
 nav_exclude: true
 search_exclude: true
-parent: Backgrounds
+parent: Backgrounds Archive
 grand_parent: WIP
 ---
 

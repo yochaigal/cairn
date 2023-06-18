@@ -3,7 +3,7 @@ title: Dowser
 layout: default
 nav_exclude: true
 search_exclude: true
-Parent: Background Background Archives
+Parent: Background Archive
 grand_parent: WIP
 ---
 

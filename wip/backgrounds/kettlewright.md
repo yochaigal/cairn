@@ -1,5 +1,5 @@
 ---
-title: Tinker
+title: Kettlewright
 layout: default
 nav_exclude: true
 search_exclude: true
@@ -7,7 +7,7 @@ parent: Backgrounds
 grand_parent: WIP
 ---
 
-# Tinker
+# Kettlewright
 
 > You are followed by the smell of molten metal, the jingle of coins. Your pack full of wonders, bearing solutions to problems no one knew they'd had. You are not a mere merchant, but an artisan of fire and metal. 
 
