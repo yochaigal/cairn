@@ -544,3 +544,31 @@ The Crag of the Mossy Reservoir
 
 ## Backgrounds
 **Younger Sibling: **Create a second character They share your background, and will follow you to the ends of the earth. You are not necessarily related.
+
+
+
+## Ideas
+
+### Month Names
+
+- Deities or religious figures
+- Emperors, leaders or famous figures
+- Natural phenomena
+- Agricultural events
+- Seasons
+- Celestial bodies or events
+- Cultural or societal events
+- Numeric order
+- Virtues or abstract concepts
+- Weapons or objects of significance
+- Mythical creatures or legends
+- Elements or materials
+- Colors
+- Landforms
+- Animals
+- Tribes or clans
+- War or peace
+- Life events
+- Art or music
+- Trade or commerce
+

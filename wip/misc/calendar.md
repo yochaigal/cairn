@@ -79,29 +79,3 @@
 
 **Ashfall**
 - **Parade of Ash**: To celebrate the end of the year and lift spirits during the onset of the Dead season, participants mark their faces with ash and play music. Nearly all labor is frowned upon. 24th day of the month.
-
-## Ideas
-
-### Month Names
-
-- Deities or religious figures
-- Emperors, leaders or famous figures
-- Natural phenomena
-- Agricultural events
-- Seasons
-- Celestial bodies or events
-- Cultural or societal events
-- Numeric order
-- Virtues or abstract concepts
-- Weapons or objects of significance
-- Mythical creatures or legends
-- Elements or materials
-- Colors
-- Landforms
-- Animals
-- Tribes or clans
-- War or peace
-- Life events
-- Art or music
-- Trade or commerce
-
