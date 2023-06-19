@@ -78,4 +78,4 @@
 - **Ember**: Pays homage to the setting sun, and the hard work ahead preparing for the Dead season. Lantern release ceremonies are a common practice. Evening of the 11th Day of the month.
 
 **Ashfall**
-- **Parade of Ash**: To celebrate the end of the year and lift spirits during the onset of the Dead season, participants mark their faces with ash and play music. Nearly all labor is frowned upon. 24th day of the month.
+- **Parade of Ash**: To celebrate the end of the year and lift spirits during the onset of the Dead season, participants mark their faces with ash and play music. Nearly all labor is frowned upon. Afternoon of the 24th day of the month.
