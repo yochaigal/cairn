@@ -33,17 +33,6 @@ Per, Stilo, Akshara, Pisa, Per, Kalamos, Hugo, Shui, Kalam, Julius
 | **5** | **The Cathedral and the Canopy**. Large-leaf binding over vellum. Nominally a children's storybook, the margins detail information about traveling, eating, and sleeping in the cloud forests.    |
 | **6** | **Garden of Glass**. Bound in the cover of another book. A heretical work, it describes the materials, location, and procedures for opening a **Gate**.|
 
-## Why is your area of study? Roll 1d6.
-
-|       |                      |
-| ----- | -------------------  |
-| **1** | **Arcane Lore** - Your focus is on the study of magical texts, both for the knowledge they contain and the potential they offer for future magical endeavors. |
-| **2** | **Historical Chronicles** - You transcribe and study histories of the past, gaining understanding of the events that shaped your world. |
-| **3** | **Divine Scriptures** - Your work centers on the holy books and teachings of deities and spiritual paths, seeking to interpret and share the divine wisdom within. |
-| **4** | **Natural Philosophy** - Your manuscripts focus on the natural world, studying the patterns of stars, the behavior of animals, and the growth of plants. |
-| **5** | **Cartography** - Your texts are maps of the known and unknown world, providing essential information for travelers and scholars alike. |
-| **6** | **Linguistics** - You study languages, dialects, and scripts, seeking to understand and preserve communication across cultures. |
-
 ## How do you transcribe sensitive information? Roll 1d6.
 
 |       |                    |                                                                                                                        |
