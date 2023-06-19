@@ -13,11 +13,9 @@ grand_parent: WIP
 
 ## Starting Gear
 
-- Rations (3 uses)
-- Torch (3 uses)
 - Tarp (shelters 1)
 - Boiled leather (1 Armor)
-- Shortsword (d6)
+- Short sword (d6)
 - Spring-loaded trap (4 STR damage)
 
 ## What did you last hunt? Roll 1d6:

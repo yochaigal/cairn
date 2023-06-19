@@ -16,10 +16,10 @@ Rook, Ebon, Moro, Yew, Pall, Leth, Nix, Sable, Vesper, Rune
 
 ## Starting Gear
 
-- Rations (3 uses)
-- Lantern (needs oil)
+- Lantern
 - Oil can (6 uses)
 - Stake (d6)
+- Chains
 
 ## How did take from the dead? Roll 1d6:
 

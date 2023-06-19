@@ -9,17 +9,18 @@ grand_parent: WIP
 
 # Foundling
 
-> An odd birthmark, a strange smell: a touch of **The Woods** still lingers on your skin. You'll never fit in, not here. Roll once on the **Omens** table, but keep the results private (for now).
+> An odd birthmark, a strange smell: **The Woods'** touch still lingers. You'll never fit in, not here. Roll on the **Omens** table, but keep the results private for now.
  
 ## Names
 
-Faunus, Snowdrop, Wisp, Silverdew, Thistle, Solstice, Moondance, Starbloom, Gossamer, Hazel
+Faunus, Snowdrop, Wisp, Silverdew, Brim, Solstice, Steeleye, Sileas, Gossamer, Hazel
 
 ## Starting Gear
 
-- Rations (3 uses)
-- Torch (3 uses)
-- Slingshot (d6) 
+- Salt pounch
+- Heirloom amulet (_Detect Magic_)
+- Slingshot (d6)
+- Dagger (d6) 
 
 ## Who took you in? Roll 1d6:
 
@@ -33,11 +34,11 @@ Faunus, Snowdrop, Wisp, Silverdew, Thistle, Solstice, Moondance, Starbloom, Goss
 | **6** | A secluded monastery, deep in **The Woods**. The monks there held nature in great esteem, and you its bounty. Eventually their rules became to strict, and you snuck away. Take a **monk's habit** (warm, _petty_) and a **spellbook** of _Control Plants_. |
 
 
-## What charm keeps you safe? Roll 1d6:
+## What keeps away bad tidings? Roll 1d6:
 
 |       |                 |                                                                                                                                         |
 | ----- | --------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Pipeweed**    | Not a charm per se, but it might as well be. Conversations tend to flow more easily after a smoke.                                      |
+| **1** | **Pipeweed**    |Your good luck charm. Conversations tend to flow more easily after a smoke.                                      |
 | **2** | **Stink Jar**   | Shattering this jar releases an odor so foul all nearby must make a STR save or immediately vomit.                                      |
 | **3** | **Ivy Worm**    | A green worm often mistaken for a weed. Swallowed whole, it absorbs any toxins or rot in the body before exiting through the usual way. |
 | **4** | **Dream Stone** | A smooth blue stone that helps you recall your dreams more clearly. You have often found answers this way.                              |

@@ -9,17 +9,17 @@ grand_parent: WIP
 
 # Aurifex
 
-> You are an artisan of the arcane, a smith of subtle forces. In the crucible of your workshop the laws that govern this world are set warped to suit your needs. But the forward path is fraught with peril, each experiment a step toward either greatness or disaster.
+> You are an artisan of the arcane, a smith of subtle forces. In the crucible of your workshop, the laws that govern this world are set warped to suit your needs. 
 
 ## Names
 Hestia, Basil, Rune, Prism, Ember, Quintess, Aludel, Mordant, Salaman, Rune
 
 ## Starting Gear
 
-- Rations (3 uses)
-- Lantern & oil (six uses, two slots)
+- Lantern
+- Oil can (6 uses)
 - Needle-knife (d6)
-- Iron Pincers
+- Protective gloves
 
 ## What experiment went horribly wrong? Roll 1d6:
 

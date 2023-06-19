@@ -16,8 +16,8 @@ Gale, Piper, Brook, Adair, Stone, Dale, Wren, Cliff, Rain, Robin
 
 ## Starting Gear
 
-- Rations (3 uses)
-- Torch (3 uses)
+- Water shoes
+- Brigandine (1 Armor)
 - Compass
 - Dagger (d6)
 

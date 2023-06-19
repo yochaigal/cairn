@@ -10,17 +10,17 @@ redirect_from: /wip/backgrounds/herbalist/
 
 # Greenwise
 
-> You delve deep into **The Wood**, prying its secrets from between rough boughs and whispering leaves. In this verdant kingdom, you are no mere scholar, but a confidant as well.
+> You delve deep into **The Wood**, prying its secrets from between rough boughs and whispering leaves. In this verdant kingdom, you are no mere scholar, but its confidant as well.
 
 ## Names
 Briar, Moss, Fern, Lichen, Root, Willow, Sage, Yarrow, Rowan, Ash
 
 ## Starting Gear
 
-- Rations (3 uses)
-- Hornbeam torch (4 uses)
+- Smelling salts
+- Iron pot
 - Bone knife (d6)
-- Restorative herbs
+- Healing salve (restore d4 STR, 2 uses)
 
 ## How did your talents betray you? Roll 1d6:
 

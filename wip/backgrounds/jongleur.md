@@ -9,24 +9,24 @@ grand_parent: WIP
 
 # Jongleur
 
-> What inspires in the soul more than song, words, and show? Why practice for years to learn magic, when you've already got real magic inside? 
+> What inspires in the soul more than song, words, and show? Why practice for years to learn magic when you've already got real magic inside? 
 
 ## Names
 Jax, Selene, Baladria, Ada, Felix, Saylor, Tripp, Lantos, Echo, Jubilo   
 
 ## Starting Gear
 
-- Rations (3 uses)
-- Torch (3 uses)
-- Traveller's Harness (1 Armor)
-- Prop short sword (looks real)
+- Costume
+- Makeup
+- Lucky jerkin (1 Armor)
+- Prop sword (looks real, no damage)
 
 ## What happened at your final performance? Roll 1d6:
 
 |       |                                                              |
 | ----- | ------------------------------------------------------------ |
-| **1** | You trained in the deadly arts to lend authenticity to your performance, perhaps too well. An actor died, and you were blamed. Take a light-weight **rapier** (d6) and a false identity. |
-| **2** | The people loved your catchy tune about a noble and his romantic failings. Unfortunately the noble in question was not amused. Take a **musical instrument**, a brand (you decide where), and the _Read Mind_ **spellbook**. |
+| **1** | Despite your training in the deadly arts, an actor died and you were blamed. Take a light-weight **rapier** (d6) and a false identity. |
+| **2** | The crowd loved your catchy tune about a noble and his romantic failings. Unfortunately the noble in question was not amused. Take a **musical instrument**, a brand (you decide where), and the _Read Mind_ **spellbook**. |
 | **3** | Your debut composition reduced the audience to a gibbering mess, murmuring of bright creatures descending from the night sky. Later you noticed that your notes faintly resembled stellar constellations. Take a heavily-marked **book on astronomy**, and a lot of questions. |
 | **4** | Your humorous poetry mocked a minor trickster god, long thought forgotten. They weren't pleased, and cursed you. You cannot speak unless it is in perfect rhyme. Ironically this has only made you more popular among your peers. Take an expensive **thesaurus** (100gp). Without it you are _deprived_. |
 | **5** | You were scarred in an on-stage accident. The crowd cheered, thinking it was part of the act. Take well-worn **stage mail** (1 Armor), a memorable scar, and a fear of applause. |

@@ -10,10 +10,11 @@ search_exclude: true
 
 # Character Creation
 
+- Unless otherwise noted, every PC starts with a torch (3 uses), rations (3 uses), and 3d6 gold pieces.
 - First roll on the [Backgrounds](#backgrounds) table below. A PC’s background informs their potential knowledge and skills. You'll need to refer to the Background result for the next few steps.
 - Choose a name from the available list, then roll on each of the included tables in the background. Record your character's items, skills, or abilities gained (or lost) from each result. See [Inventory](#inventory) for how to record items.
 - Roll for your character's **Ability Scores** and **Hit Protection**.
-- Roll for the rest of your [**character's traits**](#character-traits-d10), for your character's **age** (2d20+10), and for their starting gold pieces (3d6). 
+- Roll for the rest of your [**character's traits**](#character-traits-d10) and their **age** (2d20+10).
 - Finally, roll on the [Bonds](#bonds) table.      
 
 > Note: If you are the _youngest_ character, roll on the [Omens](#omens) table. The result should be read aloud to the rest of the table.

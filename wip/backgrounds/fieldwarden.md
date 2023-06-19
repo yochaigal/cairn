@@ -9,16 +9,16 @@ grand_parent: WIP
 
 # Fieldwarden
 
-> Protectors of the harvest, standing against from pests, blight, and deadly beasts. A position of great honor, while it lasts: many guardians do not live out their natural lives. 
+> Protectors of the harvest, standing against from pests, thieves, and beasts. A position of great honor, while it lasts: many guardians do not live out their natural lives. 
 
 ## Name
 Seed, Thresh, Dibber, Sow, Stalk, Harrow, Cobb, Flax, Briar, Rye 
 
 ## Starting Gear
 
-- Rations (3 uses)
-- Torch (3 uses)
-- Bow (d6) or Woodcutter's axe (d8, bulky)
+- Brigandine (1 Armor, _bulky_)
+- Bow (d6)
+- Hand axe (d6)
 - Repellent (wolf, deer, or insect)
  
 ## What got the better of you? Roll 1d6:
@@ -26,11 +26,11 @@ Seed, Thresh, Dibber, Sow, Stalk, Harrow, Cobb, Flax, Briar, Rye
 |       |                                                                         |
 | ----- | --------------------------------------------------------------- |
 | **1** | A voracious swarm of pests that swallowed crops and animals alike. With nothing to defend, you left. Take a bottle of **sprayable poison** (4 STR damage).         |
-| **2** | A crops spirit, angered by your people's lack of tithings this year. Although the fires consumed nearly everything, you were able to gather a pouch of fireseeds (d8, _blast_, 10 uses).        |
-| **3** | An antlered, toothy demon the likes of which you'd neve seen. Take the blood-stained **bone knife** that saved your life (d6, if given blood attacks are _enhanced_ for an hour). There something off about it. |
-| **4** | _The Withering_, a type of stem rot from **The Roots**. The farmers were despondent, and there was nothing you could do to help. Take a **diseased crop** that decays any plant it touches.                        |
-| **5** | Wolves. One scratch was all it took: you are now a **werewolf** [8 HP, 15 STR, 14 DEX, claws (d6+d6) or bite (d8)]. You turn when the moon is full or when on a **critical damage** fail (affects still apply). Anyone left alive from your attacks must make a WIL save to avoid infection. |
-| **6** | You were derelict in your duties, and as a result a full harvest was lost. Exiled, you now take work wherever you can find it.        |
+| **2** | A crops spirit, angered by weak tithing this year. Although the fires consumed nearly everything, you were able to gather a pouch of **fireseeds** (d8, _blast_, 10 uses).        |
+| **3** | An antlered, toothy demon that nearly emded you. Take the blood-stained **bone knife** that saved your life (d6, if given blood attacks are _enhanced_ for an hour). Something is off about it. |
+| **4** | _The Withering_, a type of stem rot from **The Roots**. Take a **diseased crop** that decays any plant it touches.                        |
+| **5** | Wolves. One scratch was all it took: you are now a **werewolf** [8 HP, 15 STR, 14 DEX, claws (d6+d6) or bite (d8)]. You can turn at will (once per day) but must make a WIL save to revert. Anyone left alive from your attacks must make a WIL save to avoid infection. |
+| **6** | Crop thieves. Not all of them survived (you always were good good with a blade). Take a +d4 HP and a **hilted broadsword** (d8, _bulky_).  |
 
 ## What tool saved your life? Roll 1d6:
 
