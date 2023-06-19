@@ -1,3 +1,11 @@
+---
+title: Calendar
+layout: default
+nav_exclude: true
+search_exclude: true
+Parent: misc
+grand_parent: WIP
+---
 
 # Calendar
 
