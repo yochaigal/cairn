@@ -25,7 +25,7 @@ Fergus, Eamon, Bram, Idris, Elara, Darragh, Seren, Rónán, Berek, Lorenz
 
 |       |                                                                                                                                                                                                                          |
 | ----- | --------------------------------- |
-| **1** | You build small contraptions for local guilds (you don't ask questions). Take a set of **artificer's tools** (_bulky). Given time and materials, you can open almost any door or vault.       |
+| **1** | You build small contraptions for local guilds (you don't ask questions). Take a set of **artificer's tools** (_bulky_). Given time and materials, you can open almost any door or vault.       |
 | **2** | You dealt in home goods and tools, improving the lives of townspeople across the lands. Roll on the **trinkets** table twice. You carry a hidden **stiletto** (d6) and are fluent in the _Traveller's Cant_.                  |
 | **3** | You were a military smelter, before peace destroyed your livelihood. Take a **smelting hammer** (d10, _bulky_) and a **helm** (+1 Armor). Given time and adequete materials, you can repair armor.                       |
 | **4** | You sold rare and quality items to monastaries and nobles alike. Take a **spyglass**, a **necklace** (_petty_) worth 20gp, and the [Fold Portal](https://cairnrpg.com/resources/more-spellbooks/#fold-portal) spellbook. |
