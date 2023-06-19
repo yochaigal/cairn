@@ -3,7 +3,7 @@ title: Calendar
 layout: default
 nav_exclude: true
 search_exclude: true
-Parent: misc
+Parent: Playtest
 grand_parent: WIP
 ---
 
@@ -71,10 +71,10 @@ grand_parent: WIP
 - **Harvest Festival**: Marking the end of the Wet season and the beginning of growth and fertility. Tree planting is common. The week of the 19th (except for **Resting Day**).
 
 **Quell**
-- **Storm Dance**: Dances and betrothals meant to please the masters of storm and rain for a fruitful dry season ahead. All day on the 4th.
+- **Storm Dance**: Dances and betrothals meant to please the masters of storm and rain for a fruitful Harvest season ahead. All day on the 4th.
 
 **Bane**
-- **Fast of Spirits**: A solemn day of fasting and reflection to remember the hardships endured by both ancestors and those still alive. 14th day of the month.
+- **Fast of Spirits**: A solemn day of fasting and reflection to remember the hardships endured by both ancestors and those still living. 14th day of the month.
 
 **Dustset**
 - **Dustset Carnival**: Marked by parades and masquerades, participants wear masks to protect from dust and wind. Afternoon until midnight on the 9th.
