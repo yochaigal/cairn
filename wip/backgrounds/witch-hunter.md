@@ -25,7 +25,7 @@ grand_parent: WIP
 
 |       |     |
 | ----- | --- |
-| **1** | **Order of the Crossroads**. Take a **wayfinder**. It points to nearby ley lines and sources of arcane power. You have a contact in most taverns willing to provide aid, food, or weapons.   |
+| **1** | **Order of the Crossroads**. Take a pocket **leyfinder**. It points to nearby ley lines and other sources of arcane power. If you lose it, the punishment is death. You have a contact in most taverns willing to provide aid, food, or weapons.   |
 | **2** | **Order of the Bleeding Star**. Take a **mace** (d8) made from star iron. It shines faintly in darkness, and becomes very hot in the presence of witchcraft.           |
 | **3** | **Order of the Glass Sigil**. Take a short sword (d8) and chainmail (2 Armor, _bulky_). You are immune to one kind of mundane weapon (blade, blunt, etc). Name a vow. If you break it, you lose this ability until you make amends. |
 | **4** | **Order of the Blank Eye**. Take a shard of **voidglass**. Peer through it to see invisible marks, creatures, and other magical effects. Lose the use of your eye for an hour afterwards (you are _deprived_).    |
