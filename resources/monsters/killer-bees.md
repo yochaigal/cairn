@@ -10,4 +10,4 @@ grand_parent: Resources
 
 - Oversized bees that build underground hives. Hyper aggressive, attack anything that comes near.
 - Produce special honey that can heal d6 HP once per day if consumed.
-- When the bees cause STR damage, the sting is lodged into the target, dealing d4 damage each round until removed.
+- When the bees cause STR damage, the stinger is lodged into the target, dealing d4 damage each round until removed.
