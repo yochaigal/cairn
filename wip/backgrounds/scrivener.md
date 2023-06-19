@@ -9,7 +9,7 @@ grand_parent. WIP
 
 # Scrivener
 
-> You transcribe ancient texts and illuminate manuscripts, recording the acts of those of far greater impact. Or so you thought...
+> You record ancient texts and illuminate manuscripts, recording the voices of the clever, the great, and the powerful. You will prove that the pen truly is mightier than the sword.
 
 ## Names
 
@@ -44,9 +44,7 @@ Per, Stilo, Akshara, Pisa, Per, Kalamos, Hugo, Shui, Kalam, Julius
 | **5** | **Cartography** - Your texts are maps of the known and unknown world, providing essential information for travelers and scholars alike. |
 | **6** | **Linguistics** - You study languages, dialects, and scripts, seeking to understand and preserve communication across cultures. |
 
-Remember, the character's area of study can significantly influence their skills and knowledge in a roleplaying scenario. This can be used to solve puzzles, decipher messages, or contribute unique knowledge in their adventures.
-
-## How do you ensure you messages are delivered? Roll 1d6.
+## How do you transcribe sensitive information? Roll 1d6.
 
 |       |                    |                                                                                                                        |
 | ----- | ------------------ | ---------------------------------------------------------------------------------------------------------------------- |
