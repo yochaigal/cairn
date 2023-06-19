@@ -1,10 +1,10 @@
 ---
-title. Scrivener
-layout. default
-nav_exclude. true
-search_exclude. true
-parent. Backgrounds
-grand_parent. WIP
+title: Scrivener
+layout: default
+nav_exclude: true
+search_exclude: true
+parent: Backgrounds
+grand_parent: WIP
 ---
 
 # Scrivener
