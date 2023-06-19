@@ -40,10 +40,10 @@ search_exclude: true
 | **23**  | [Prowler](https://cairnrpg.com/wip/backgrounds/prowler)           |
 | **24**  | [Marshstrider](https://cairnrpg.com/wip/backgrounds/marshstrider) |
 | **25**  | [Foundling](https://cairnrpg.com/wip/backgrounds/foundling)       |
-| **26**  | [Woodweard](https://cairnrpg.com/wip/backgrounds/woodweard)       |
-| **31**  | [Rill Runner](https://cairnrpg.com/wip/backgrounds/rill-runner)   |
-| **32**  | [Scriviner](https://cairnrpg.com/wip/backgrounds/scriviner)       |
-| **33**  | [Local Hero](https://cairnrpg.com/wip/backgrounds/local-hero)     |
+| **26**  | [Rill Runner](https://cairnrpg.com/wip/backgrounds/rill-runner)   |
+| **31**  | [Scriviner](https://cairnrpg.com/wip/backgrounds/scriviner)       |
+| **32**  |                                                                   |
+| **33**  |                                                                   |
 | **34**  |                                                                   |
 | **35**  |                                                                   |
 | **36**  |                                                                   |
