@@ -7,17 +7,20 @@ parent: Backgrounds Archive
 grand_parent: WIP
 ---
 
-
 # Background Name
 
 > Blurb
 
+## Names
+
 ## Starting Gear
  
-- Rations (3 uses)
-- Torch (3 uses)
+- 1
+- 2
+- 3
+- 4
 
-## How did you become X? Roll 1d6:
+## X? Roll 1d6:
 
 |       |     |
 | ----- | --- |
@@ -28,7 +31,7 @@ grand_parent: WIP
 | **5** |     |
 | **6** |     |
 
-## What did you take with you? Roll 1d6:
+## Y? Roll 1d6:
 
 |       |     |
 | ----- | --- |
