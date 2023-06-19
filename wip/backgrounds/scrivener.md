@@ -41,5 +41,5 @@ Per, Stilo, Akshara, Pisa, Per, Kalamos, Hugo, Shui, Kalam, Julius
 | **2** | **Cipher Stones**  | Decrypts any message written by another stone. You have a pouch with 2.                                                |
 | **3** | **Everquill**      | A quill that writes on any surface. You still need ink.                                                                |
 | **4** | **Whisper Vial**   | Whisper a message within and it will play back (as a whisper) the message to whomever opens it next.                   |
-| **5** | **Memory Dropper** | Used to extract saliva that is later dropped directly into the eye, revealing the person's memories from the past day. |
+| **5** | **Voyeur's Suringa** | Extracted blood can later be dropped directly into the eye, revealing the person's memories from the past day. |
 | **6** | **Echo Scroll**    | A blank parchment that reveals the last written words of the whomever last  unfurled it.                               |
