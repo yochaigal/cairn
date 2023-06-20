@@ -7,7 +7,7 @@ parent: Playtest
 grand_parent: WIP
 ---
 
-# Vald Setting
+# Vald
 
 ## Introduction
 The implied setting of Cairn is called **Vald**. It is comprised of the following **Domains**: **The Cobbles**, **The Woods** and **The Roots**. **Domains** are not necessarily bound to a specific geography: **The Woods** is not one forest, but _all_ forests, for example. 
