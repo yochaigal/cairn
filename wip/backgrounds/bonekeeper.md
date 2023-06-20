@@ -1,5 +1,5 @@
 ---
-title: Bonescribe
+title: Bonekeeper
 layout: default
 nav_exclude: true
 search_exclude: true
@@ -7,7 +7,7 @@ parent: Backgrounds
 grand_parent: WIP
 ---
 
-# Bonescribe
+# Bonekeeper
 
 > A shepherd to the departed, etching the last whispers of the dead into cold, unyielding earth. To fully celebrate the gift of life, we must honor its finale as well.
 
