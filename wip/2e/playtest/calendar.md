@@ -3,7 +3,7 @@ title: Calendar
 layout: default
 nav_exclude: true
 search_exclude: true
-Parent: Playtest
+parent: Playtest
 grand_parent: WIP
 ---
 
