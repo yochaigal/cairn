@@ -93,6 +93,22 @@ Expand For Example
 ## How is turn order decided?
 Some games rely on "Initiative" to determine who goes first when combat begins. In **Cairn**, the PCs must each make a **DEX save** in order to act before their opponents. After that round has been concluded, the two "sides" each take turns attacking, their individual members acting in whatever order they wish. In some cases a **DEX save** may _not_ be necessary, especially when the PC or NPC was on guard or ready for an attack.
 
+ **A standard combat scenario would work like this:**
+
+### Round 1
+- PCs make a DEX save. Those who successfully pass go before the enemies (collectively one "side"). They go in whatever order they wish; the results however are simultaneous.
+- All enemies go, in whatever order the **Warden** chooses; the results are simultaneous.
+
+### Round 2
+- _All_ PCs (including those that failed the original DEX save) get to go in whatever order they wish. The results however are simultaneous.
+- _All_ enemies get to go in whatever order the Warden chooses; the results however are simultaneous.
+
+### Round 3
+- All PCs get to go, as per round 2.
+- All enemies get to go, as per round 2.
+
+And so on.
+
 <details markdown="block">
   <summary>
 Expand For Example
@@ -106,7 +122,7 @@ Expand For Example
 
  **Barry**: _"I rolled 1d20, and the result is a 17. Ouch."_
 
- **Warden**: _"Yes, that's a fail. **Esther** will go first, then the creature, and finally **Barry**. After that you both will go again in any order you wish, then the creature, and so on."_
+ **Warden**: _"Yes, that's a fail. **Esther** will go first, then the creature. After that you both will go again in any order you wish, then the creature, and so on."_
 
 </details>
 

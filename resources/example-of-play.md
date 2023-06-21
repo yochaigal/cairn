@@ -69,8 +69,8 @@ For a live "actual play" of Cairn (with Warden commentary), please see [here](ht
 
  **Barry**: _"I rolled 1d20, and the result is a 17. Ouch."_
 
- **Warden**: _"Yes, that's a fail. **Esther** will go first, then the creature, and finally **Barry**. After that you both will go again in any order you wish, then the creature, and so on."_
-
+**Warden**: _"Yes, that's a fail. **Esther** will go first, then the creature. After that you both will go again in any order you wish, then the creature, and so on."_
+ 
  **Esther**: _"Do we know anything about this creature?"_
 
  **Warden**: _"Yes - it's a [**Blood Elk**](/resources/monsters/blood-elk/), which is a sort of killer deer born from great greed or envy. They are pretty powerful, from what you've heard."_
