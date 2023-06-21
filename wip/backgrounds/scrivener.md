@@ -27,7 +27,7 @@ Per, Stilo, Akshara, Pisa, Per, Kalamos, Hugo, Shui, Kalam, Julius
 |       |                      |
 | ----- | -------------------- |
 | **1** | **The Wild Tongue**. A bundle of leather-bound scrolls. A seminal work, cataloging the hidden languages of beasts.     |
-| **2** | **A Silent Symphony**. Bound in fluorescent wrap. Very rare, it chronicles the subtle signs used by creatures employeeing invisibility magic.    |
+| **2** | **A Silent Symphony**. Bound in fluorescent wrap. Very rare, it chronicles the subtle signs used by creatures employing invisibility magic.    |
 | **3** | **A Treatise on the Abyss**. A non-descript black book. An in-depth, largely theoretical text describing **The Roots**, as well as a guide to navigating through **Gates**.   |
 | **4** |  **The Star Waltz**. A comet-shaped clapse closing a fine leather cover. Detailed astronomical charts, celestial movements, and stellar festivals. Highly valued (100gp) for its usefulness to travelers.     |
 | **5** | **The Cathedral and the Canopy**. Large-leaf binding over vellum. Nominally a children's storybook, the margins detail information about traveling, eating, and sleeping in the cloud forests.    |
