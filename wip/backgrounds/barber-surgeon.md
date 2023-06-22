@@ -34,11 +34,11 @@ Wilmot, Patch, Lancet, Sawbones, Theo, Cutwell, Humor, Landsford, Goodeye, Johan
 
 ## What rare tool is essential to your work? Roll 1d6:
 
-|       |                    |                                                                                                                                                                                                              |
-| ----- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **1** | **Regrowth Salve** | It can regrow small body parts (a finger or toe) over the course of a day. 3 uses.                                                                                                                           |
-| **2** | **Graftgrub**      | A small worm that can fuse inanimate objects with parts of the body.  1 use.                                                                                                                                 |
-| **3** | **Woundwax**       | Heals wounds from fire or chemicals, but nothing else (restores full STR). 2 uses.                                                                                                                           |
+|       |                    |                                                                                                                                                                      |
+| ----- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | **Regrowth Salve** | It can regrow small body parts (a finger or toe) over the course of a day. 3 uses.                                                                                   |
+| **2** | **Graftgrub**      | A small worm that can fuse inanimate objects with parts of the body.  1 use.                                                                                         |
+| **3** | **Woundwax**       | Heals wounds from fire or chemicals, but nothing else (restores full STR). 2 uses.                                                                                   |
 | **4** | **Quicksilver**    | A stimulant. You go first in combat and automatically pass any WIL saves for one hour. _Addictive_: Save STR or become _deprived_ after 24 hours without it. 4 uses. |
-| **5** | **Pneuma Pump**    | Mechanical iron lungs (_bulky). Enables life-saving surgery, or underwater breathing.                                                                                                                        |
-| **6** | **Lodestone**      | Draws out dangerous elements from the body, and acts as a powerful magnetic force.                                                                                                                           |
+| **5** | **Pneuma Pump**    | Portable iron lungs (_bulky_). Enables life-saving surgery, or underwater breathing.                                                                                 |
+| **6** | **Lodestone**      | Draws out dangerous elements from the body, and acts as a powerful magnetic force.                                                                                   |
