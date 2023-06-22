@@ -1,13 +1,13 @@
 ---
-title: Fungal
+title: Mushroom Farmer
 layout: default
 nav_exclude: true
 search_exclude: true
-parent: Backgrounds Archive
+parent: Backgrounds
 grand_parent: WIP
 ---
 
-# Background Name
+# Mushroom Farmer
 
 > Blurb
 
