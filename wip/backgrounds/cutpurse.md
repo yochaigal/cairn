@@ -24,22 +24,22 @@ Sable, Lyra, Eamon, Salina, Elara, Freya, Isolde, Sparrow, Ivy, Silas
 
 ## X? Roll 1d6:
 
-|       |     |
-| ----- | --- |
-| **1** | **Climbing claws**     |
-| **2** | **Retractable wire**   |
-| **3** | **Blinding powder**    |
-| **4** | **Fence cutters**    |
-| **5** | **Silk rope**    |
-| **6** |  **Smoke pellets** (3 uses)   |
+|       |                            |
+| ----- | -------------------------- |
+| **1** | ****         |
+| **2** | **Retractable wire**       |
+| **3** | **Blinding powder**        |
+| **4** | **Fence cutters**          |
+| **5** | **Silk rope**              |
+| **6** | **Smoke pellets** (3 uses) |
 
-## What is your most valuable stolen item? Roll 1d6:
+## What stolen item do you most value? Roll 1d6:
 
-|       |             |     |
-| ----- | ----------- | --- |
-| **1** | **Catring** | 2 charges. Climb up walls and fall silently. **Recharge**: Place the ring on a stray cat's tail.     |
-| **2** | **Gildfinger** | 1 Charge. A finger glove that mimics any mundane key. **Recharge**: bundle with at least 100gp for a night.     |
-| **3** | **Glimpse Glass** | A monocle. See through walls or other obstructions. Causes headaches (take 1 Fatigue).            |     |
-| **4** | **Dreamwhistle** |  Listeners hear a soft voice, familiar but distant. It is very hard to resist following. After use it appears in the inventory of a former lover.      |
-| **5** | **             |     |
-| **6** |             |     |
+|       |                   |                                                                                                             |
+| ----- | ----------------- | ----------------------------------------------------------------------------------------------------------- |
+| **1** | **Catring**       | 2 charges. Climb up walls and fall silently. **Recharge**: Place the ring on a stray cat's tail.            |
+| **2** | **Gildfinger**    | 1 charge. A finger glove that mimics any mundane key. **Recharge**: bundle with at least 100gp for a night. |
+| **3** | **Glimpse Glass** | 3 charges. A monocle that lets you see through walls or other obstructions. It shatters after the last use.            |     
+| **4** | **Sweetwhistle**  | 1 charge. Listeners hear a soft, familiar voice in the distance that they cannot resist following. **Recharge**: Lose a dear memory (describe it).      |
+| **5** | **Sack of Lies**  | Pull out a convincing lie appropriate to whatever situation you're in. For the rest of the day, you cannot lie.  |
+| **6** | **Spider Gloves** | _Bulky_. Heavy gloves that allow you to climb walls with ease. They take a few minutes to remove, and can only be worn for short instances. |
