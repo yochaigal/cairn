@@ -9,7 +9,7 @@ grand_parent: WIP
 
 # Cutpurse
 
-> You live in the grey space between those who have power, and those that don't, with nimble fingers that unburden both the richest merchant and the lowliest guard. You thrive in thick of things, in finding opportunity where others see only chaos. 
+> You live in the grey space between those who have power, and those that don't. You thrive in thick of things, in finding opportunity where others see only chaos. With nimble fingers you unburden both the richest merchant and the lowliest guard. 
 
 ## Names
 
