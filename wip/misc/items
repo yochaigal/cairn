@@ -2,47 +2,76 @@
 # Items
 
 
-1. **Philosopher's Light**: A small handheld lantern that uses phosphorescent alchemical concoctions instead of traditional oil, giving off a steady, soft glow.
-
-2. **Ever-Cool Flask**: A drinking container that keeps liquids at a consistent cool temperature, thanks to an interior coating of alchemically-treated materials.
-
-3. **Glow Paint**: A mixture that, once applied and dried, can absorb light during the day and emit a gentle glow during the night.
-
-4. **Thermo-Resistant Gloves**: A pair of gloves treated with special compounds that resist extreme heat, useful for handling heated crucibles and flasks.
-
-5. **Smokeless Fire-Starter**: A small device that, when struck, produces a flame without any smoke, ideal for indoor use or secret signaling.
-
-6. **Elemental Extractor**: A simple yet elegant device that separates and extracts the basic "elements" from substances (such as obtaining pure iron from ore).
-
-7. **Alkahest Universal Solvent**: A rare and carefully-crafted liquid that can dissolve nearly any substance into its constituent parts.
-
-8. **Purifying Prisms**: Pieces of specially-treated glass that can purify water when it's poured through them.
-
-9. **Healing Salves**: A collection of creams and ointments, made with alchemically-enhanced herbs and substances, each tailored to heal specific types of injuries or ailments.
-
-10. **Ever-Burning Candle**: A candle made of special alchemical substances that can burn for months, if not years, without being fully consumed.
-
-
-1. **Echoing Flask**: A container designed to amplify the sounds of the reactions happening within it, useful for precision in alchemical processes.
-
-2. **Self-Cleaning Beakers**: Glassware that, when emptied, begins an alchemical reaction that cleans residue, eliminating the need for manual cleaning.
-
-3. **Light Absorbent Cloak**: A cloak treated with a substance that absorbs light, making the wearer more difficult to detect in the dark.
-
-4. **Alchemy Pen**: A writing tool that uses a special ink; what is written can only be seen under a certain light or after an alchemical reaction.
-
-5. **Aqua Vita**: A life-preserving water purifier which removes all harmful substances and imbues the water with minor restorative properties.
-
-6. **Odorless Potions**: Traditional potions modified with a specific compound that removes any scent, making them easier to administer or conceal.
-
-7. **Metal-Seeking Compass**: A handheld device that points toward the nearest concentration of a chosen metal, assisting in finding valuable ore deposits.
-
-8. **Heat Stone**: A small stone that, when activated, gives off a significant amount of heat for cooking or warmth in harsh conditions.
-
-9. **Elemental Goggles**: Eyewear that allows the user to view the world in terms of the four classical elements: earth, air, fire, and water.
-
-10. **Alchemic Timepiece**: A clock that uses a slow-reacting alchemical mixture instead of traditional mechanics to keep accurate time.
-
+**Regrowth Salve** (3 uses): A green ointment that can regrow a small body part (like a finger or toe) over the course of a day.
+**Grafting Grubs** (5 grubs): Carnivorous insect larvae that eat dead tissue, promoting healthy healing. Unsettling, but effective.
+**Pain-Eater Poppet**: A doll you can use to transfer pain from a patient to itself. 
+**Woundwax**: A special blend of beeswax that can be used to seal small wounds and burns.
+**Boneknit Thread**: When stitched into broken bones, it accelerates the healing process.  
+**Humor Balancing Elixir**: A concoction that allegedly balances the body's humors, leading to better health. 
+**Silver Nerve Lacing**: Can be implanted to replace damaged nerves, granting normal function but a slight tingling sensation. 
+**Magmablood Infusion**: A rare, magical material that can cauterize and heal significant injuries when injected.
+**Dreamleaf Powder**: Administered to patients for pain relief and to induce a healing sleep.
+**Pneuma Pump**: A mechanical device that can temporarily replace lung function during surgery.
+**Vessel Mender's Kit**: A set of very small, precision tools used to repair damage to blood vessels.
+**Mimic Patch**: A skin graft from a shapeshifting creature. It takes on the appearance of surrounding tissue.
+**Echovoice Lozenge**: A soothing tablet that can temporarily restore lost voices.
+**Vitalis Beads**: Tiny magical orbs that can be ingested to speed up the healing process.
+**Heartmend Needle**: Used in complex surgeries to repair damage to the heart.
+**Stonestomach Pill**: Hardens the stomach lining temporarily to enable the digestion of otherwise harmful substances.
+**Shadowcast Splint**: A lightweight yet sturdy splint that can be adjusted to fit any broken limb perfectly.
+**Reverie Balm**: Applied to the forehead to induce lucid dreams that speed mental recovery from trauma.
+**Featherlight Cast**: A sturdy but lightweight cast that feels almost weightless when worn.
+**Quicksilver Stitch**: A surgical thread that is exceptionally strong and responsive to magic.
+**Blinkdrop Elixir**: Restores vision or cures minor eye diseases when used as eye drops.
+**Aetherlung**: A magical device that allows the patient to breathe normally in any environment.
+**Lodestone Loop**: A tiny iron ring that helps guide out foreign metal objects when swallowed.
+**Mossplast**: A natural, moss-based bandage that is remarkably effective at staving off infection.
+**Scarscribe**: A tattoo needle used to magically transfer scars from one person to another.
+**Spiritstitch Needle**: A needle made from bone that can mend tears in the spirit as well as the body.
+**Whisperwillow Wrap**: A bandage infused with healing magic that significantly reduces recovery time.
+**Sunstone Scalpel**: A knife made from a shard of sunstone that cauterizes as it cuts.
+**Starsight Salve**: An ointment that temporarily grants night vision when applied to the eyes.
+**Chimeric Transplant**: An organ from a chimera that can adapt to replace a variety of missing body parts.
+**Philosopher's Light**: A small handheld lantern that uses phosphorescent alchemical concoctions instead of traditional oil, giving off a steady, soft glow.
+**Ever-Cool Flask**: A drinking container that keeps liquids at a consistent cool temperature, thanks to an interior coating of alchemically-treated materials.
+**Glow Paint**: A mixture that, once applied and dried, can absorb light during the day and emit a gentle glow during the night.
+**Thermo-Resistant Gloves**: A pair of gloves treated with special compounds that resist extreme heat, useful for handling heated crucibles and flasks.
+**Smokeless Fire-Starter**: A small device that, when struck, produces a flame without any smoke, ideal for indoor use or secret signaling.
+**Elemental Extractor**: A simple yet elegant device that separates and extracts the basic "elements" from substances (such as obtaining pure iron from ore).
+**Alkahest Universal Solvent**: A rare and carefully-crafted liquid that can dissolve nearly any substance into its constituent parts.
+**Purifying Prisms**: Pieces of specially-treated glass that can purify water when it's poured through them.
+**Healing Salves**: A collection of creams and ointments, made with alchemically-enhanced herbs and substances, each tailored to heal specific types of injuries or ailments.
+**Ever-Burning Candle**: A candle made of special alchemical substances that can burn for months, if not years, without being fully consumed.
+**Echoing Flask**: A container designed to amplify the sounds of the reactions happening within it, useful for precision in alchemical processes.
+**Self-Cleaning Beakers**: Glassware that, when emptied, begins an alchemical reaction that cleans residue, eliminating the need for manual cleaning.
+**Light Absorbent Cloak**: A cloak treated with a substance that absorbs light, making the wearer more difficult to detect in the dark.
+**Alchemy Pen**: A writing tool that uses a special ink; what is written can only be seen under a certain light or after an alchemical reaction.
+**Aqua Vita**: A life-preserving water purifier which removes all harmful substances and imbues the water with minor restorative properties.
+**Odorless Potions**: Traditional potions modified with a specific compound that removes any scent, making them easier to administer or conceal.
+**Metal-Seeking Compass**: A handheld device that points toward the nearest concentration of a chosen metal, assisting in finding valuable ore deposits.
+**Heat Stone**: A small stone that, when activated, gives off a significant amount of heat for cooking or warmth in harsh conditions.
+**Elemental Goggles**: Eyewear that allows the user to view the world in terms of the four classical elements: earth, air, fire, and water.
+**Alchemic Timepiece**: A clock that uses a slow-reacting alchemical mixture instead of traditional mechanics to keep accurate time.
+**Dreamspore Capsule**: A pill containing ethereal fungal spores that help soothe the mind during sleep.
+**Bloodleech Vial**: A vial containing miniature, magical leeches that can cleanse blood of toxins.
+**Gossamer Stitches**: Near-invisible sutures that blend with the skin, reducing scarring.
+**Wardweaver's Thread**: Magical thread that weaves protective wards into the patient's skin as it stitches.
+**Boneshaper's Mallet**: A small hammer used to mend and reshape broken bones with a gentle touch.
+**Sightseer Salve**: A balm applied to the eyes, providing temporary ability to see in the dark.
+**Vapordream Incense**: A smoky substance that provides soothing and restful sleep, speeding up recovery.
+**Mindmend Tea**: A herbal infusion that helps restore mental balance after a traumatic event.
+**Echo-Ear Drops**: Restores some degree of hearing to those with hearing impairments.
+**Phoenix Feather Bandage**: Accelerates healing by a significant factor, the wounds practically rebirthed.
+**Ghoul Gut Stitch**: Threads made from ghoul gut, rumored to hasten the mending of internal injuries.
+**Nightsbane Nectar**: A concoction that cures diseases caught from night creatures.
+**Skinweld Salve**: A cream that can seamlessly bond cuts and small wounds together.
+**Pulsefeather Quill**: A tool that, when placed on the wrist, accurately measures the heartbeat.
+**Cogsprocket Limb**: A mechanical limb that can serve as a temporary replacement.
+**Memorymoss Poultice**: A moss poultice that, when applied, helps restore lost memories.
+**Gorgon Gauze**: A gauze that can temporarily petrify a wound, stopping bleeding immediately.
+**Silvertongue Lozenge**: A lozenge that restores the voice after a throat injury or illness.
+**Zephyr Lung**: A magically imbued organ replacement that grants the ability to survive in thin air.
+**Moonsilver Scalpel**: A scalpel that glows under moonlight, it is said to bring luck to surgeries performed under its glow.
 
 ## The Woods
 
@@ -473,7 +502,7 @@ Two minor health potions
 Alchemical ingredients pouch
 
 ### Beggar
-1d6 gold pieces
+d6 gold pieces
 Tattered clothes
 Sturdy walking stick (d4)
 Small tin cup
@@ -686,7 +715,7 @@ smoke bomb
 hammer
 bellows
 tongs
-10’ pole
+’ pole
 instrument
 paddle
 sewing kit
@@ -778,7 +807,7 @@ pliers
 journal
 vial
 padlock
-10’ chain
+’ chain
 wine jug
 scepter
 donkey head
@@ -806,14 +835,14 @@ medal
 tea leaves
 tarot deck
 crystal
-100 marbles
+marbles
 bullhorn
 wax tablet
 linseed oil
 pigments
 brushes
 bucket
-300’ twine
+’ twine
 mirror
 lantern
 staff
@@ -870,12 +899,12 @@ needles
 bear trap
 drill
 hourglass
-10’ chain
-300’ twine
+’ chain
+’ twine
 bear pelt
 trumpet
 firewood
-50’ rope
+’ rope
 yoke
 branding iron
 milking stool
@@ -929,7 +958,7 @@ torchwick
 
 - A set of delicate, crystalline chimes that emit a soft, soothing sound when stirred by the wind.
 - When hung outdoors, the chimes attract friendly spirits and fey creatures, who are drawn to their calming music. These beings may provide valuable information or assistance, but may also be capricious or unpredictable in their behavior.
- - The chimes are fragile and can be easily broken if not handled with care.
+- The chimes are fragile and can be easily broken if not handled with care.
 
 #### Orb of the Elements, 1 Charges
 
@@ -989,16 +1018,16 @@ Wildvine Rope: Strong and flexible, this rope can attach to surfaces with ease.
 ## Relics
 
 **Heartwood Amulet**, 3 Charges
-  - Merge with a tree, becoming invisible and immune to harm.
-  - **Recharge**: Meditate for one hour while touching a healthy, living tree.
-  
+ - Merge with a tree, becoming invisible and immune to harm.
+ - **Recharge**: Meditate for one hour while touching a healthy, living tree.
+ 
 **Spiritseeker's Eye**, 1 Charge
-  - See and communicate with nearby spirits and woodland creatures.
-  - **Recharge**: Offer a small token or gift to the spirits of the forest.
+ - See and communicate with nearby spirits and woodland creatures.
+ - **Recharge**: Offer a small token or gift to the spirits of the forest.
 
 **Falconstone**, 3 Charges
-  - See through the eyes of the nearest bird of prey and send it basic commands.
-  - **Recharge**: Kill and eat a common quarry, cooking the meat along with the stone.
+ - See through the eyes of the nearest bird of prey and send it basic commands.
+ - **Recharge**: Kill and eat a common quarry, cooking the meat along with the stone.
 
 
 **Seed Sling** - A sling that launches seeds, which rapidly grow into thorny vines upon impact, ensnaring enemies. d6 damage.
