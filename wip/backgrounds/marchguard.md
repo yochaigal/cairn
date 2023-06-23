@@ -12,7 +12,7 @@ grand_parent: WIP
 > Bound by blood Oath to patrol the border and protect the realm. Once sworn, the Oath cannot be broken. The Guard always finds its own.
 
 ## Name
-Stone, Light, Gale, Frost, Thorn, Rill, Reed, Flint, Brook, Snow
+Gann, Light, Gale, Frost, Thorn, Reed, Flint, Brook, Snow, Aasim
 
 ## Starting Gear
 

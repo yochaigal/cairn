@@ -12,7 +12,8 @@ grand_parent: WIP
 > A shepherd to the departed, etching the last whispers of the dead into cold, unyielding earth. To fully celebrate the gift of life, we must honor its finale as well.
 
 ## Names
-Rook, Ebon, Moro, Yew, Pall, Leth, Nix, Sable, Vesper, Rune
+
+Rook, Ebon, Moro, Yew, Pall, Leth, Nix, Barnaby, Vesper, Leder
 
 ## Starting Gear
 

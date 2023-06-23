@@ -11,6 +11,10 @@ grand_parent: WIP
 
 > You are a specter in the night, a fleeting shadow that slips by its prey, unseen. Each kill a test of cunning and animal determination, a contest between life and death. You know that one day, you will lose. You look forward to it. 
 
+## Names
+
+Winda, Brielle, Theron, Chayse, Nuja, Dev, Raven, Lyra, Sable
+
 ## Starting Gear
 
 - Tarp (shelters 1)

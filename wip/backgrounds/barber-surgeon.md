@@ -12,6 +12,7 @@ grand_parent: WIP
 > You walk the line between healer and harrower, knowing the frailty of the flesh but also the secrets that lay within. With the right tools, life and death are merely words.
 
 ## Names
+
 Wilmot, Patch, Lancet, Sawbones, Theo, Cutwell, Humor, Landsford, Goodeye, Johanna  
 
 ## Starting Gear
@@ -27,8 +28,7 @@ Wilmot, Patch, Lancet, Sawbones, Theo, Cutwell, Humor, Landsford, Goodeye, Johan
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1** | **Ocular enhancement**. Your new eye can magnify or act as a telescope, and has minimal night vision. You cannot wear anything metal on your head.                                                                                                                                          |
 | **2** | **Metatarsal upgrade**. Your foot is mostly metal (d6 damage as a kick), and you treat some [tough](https://cairnrpg.com/wip/2e/wilderness-exploration/#terrain-difficulty) terrain as **Easy**. Carry a **can of oil** (6 uses). Without a daily application you are _deprived_ and noisy. |
-| **3** | **Digit replantation**. One finger has been swapped, the bone replaced by gold and iron. Take a **set of small tools** (picks, hooks, flathead) that attach to your fingertip.                                                                                                              |
-| **4** | **Cochlear implant**. You can hear extremely well from one ear, deciphering full conversations with a turn of the head. It is overwhelming though: you wear an ear flap to protect yourself from sudden noises.                                                                             |
+| **3** | **Digit replantatithere are no horses **. You can hear extremely well from one ear, deciphering full conversations with a turn of the head. It is overwhelming though: you wear an ear flap to protect yourself from sudden noises.                                                                             |
 | **5** | **Reinforced ribcage**. Your chest is lined with alchemical sigils, toughening the skin and giving you Armor 1. Wearing metallic armor dampens the power, nullifying it.                                                                                                                    |
 | **6** | **Detachable limb**. Your arm is fully metal, and comes off at the shoulder. It can be used as a weapon (d8, _bulky_ when not attached) and can move independently if you are within sight of it.                                                                                           |
 

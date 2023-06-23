@@ -11,7 +11,8 @@ grand_parent: WIP
 
 > Protectors of the harvest, defense against pests, thieves, and beasts. A position of great honor, while it lasts: many guardians do not live out their natural lives. 
 
-## Name
+## Names
+
 Seed, Thresh, Dibber, Sow, Stalk, Harrow, Cobb, Flax, Briar, Rye 
 
 ## Starting Gear
