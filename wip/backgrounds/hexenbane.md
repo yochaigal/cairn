@@ -1,5 +1,5 @@
 ---
-title: Witch Finder
+title: Hexenbane
 layout: default
 nav_exclude: true
 search_exclude: true
@@ -7,9 +7,9 @@ parent: Backgrounds
 grand_parent: WIP
 ---
 
-# Witch Finder
+# Hexenbane
 
-> You are a mere digit on the unerring hand of justice. You go where others fear to tread, unyielding and unbroken. 
+> You are a mere digit on the unerring hand of justice. You go where others fear to tread, unyielding and unbroken. Like a 
 
 ## Names
 Percival, Felix, Isolde, Wolfram, Aldric, Eira, Oswin, Ivor, Brunhilda, Beatrix

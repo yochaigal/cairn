@@ -41,7 +41,7 @@ search_exclude: true
 | **25**  | [Foundling](https://cairnrpg.com/wip/backgrounds/foundling)             |
 | **26**  | [Rill Runner](https://cairnrpg.com/wip/backgrounds/rill-runner)         |
 | **31**  | [Scriviner](https://cairnrpg.com/wip/backgrounds/scriviner)             |
-| **32**  | [Witch Finder](https://cairnrpg.com/wip/backgrounds/witch-finder)       |
+| **32**  | [Hexenbane](https://cairnrpg.com/wip/backgrounds/hexenbane)       |
 | **33**  | [Barber-Surgeon](https://cairnrpg.com/wip/backgrounds/barber-surgeon)   |
 | **34**  | [Cutpurse](https://cairnrpg.com/wip/backgrounds/cutpurse)               |
 | **35**  | [Mushroom Farmer](https://cairnrpg.com/wip/backgrounds/mushroom-farmer) |

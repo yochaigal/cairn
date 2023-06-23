@@ -11,7 +11,7 @@ grand_parent: WIP
 
 > Wits are your sharpest weapon, a facade the strongest shield. But when you do lose, you lose badly. 
 
-## What do you call yourself?
+## Names
 
 Montague, Ambrose, Lucius, Sterling, Beauregard, Cornelius, Percival, Crispin, Algernon, Sylvester
 

@@ -13,6 +13,7 @@ redirect_from: /wip/backgrounds/herbalist/
 > You delve deep into **The Wood**, prying its secrets from between rough boughs and whispering leaves. In this verdant kingdom, you are no mere scholar, but its confidant as well.
 
 ## Names
+
 Briar, Moss, Fern, Lichen, Root, Willow, Sage, Yarrow, Rowan, Ash
 
 ## Starting Gear

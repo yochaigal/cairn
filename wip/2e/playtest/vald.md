@@ -10,26 +10,18 @@ grand_parent: WIP
 # Vald
 
 ## Introduction
-The implied setting of Cairn is called **Vald**. It is comprised of the following **Domains**: **The Cobbles**, **The Woods** and **The Roots**. **Domains** are not necessarily bound to a specific geography: **The Woods** is not one forest, but _all_ forests, for example. 
 
-### Domains
-- **The Cobbles** include all developed or settled lands, fed by farms and native water sources. The particular ruler does not matter. 
-- **The Wood** surrounds and divides **The Cobbles**, and includes anyone (or anything) that has not sworn fealty to **The Cobbles**.
+- The implied setting of Cairn is called **Vald**. This includes all developed or settled lands, cities, towns, etc. The particular ruler does not matter. 
+- **The Wood** surrounds and divides the kingdoms, and includes anyone (or anything) that has not yet sworn fealty. **The Woods** is not one forest, but _all_ forests.
 - **The Roots** is the realm of mystery and horror underneath, and does not care for the petty divisions overground.   
 
-## The Cobbles
+### The Woods
 
-- An urban seat of power that uses its advanced technology, wealth, and might to bring the people of **The Woods** to heel whenever necessary.
-- As self-styled "centers of civilization", the people of **The Cobbles** are vast and sundry, reflecting the fulcrum of culture and education in the region.
-- To ensure the continued flow of food and goods, the wealthier denizens of **The Cobbles** ensure that any connected roads or footpaths are maintained and patrolled by soldiers, militia, or local champions.
+- Any lands beyond the control of a noble, a city, or a town. Typically wilder and less "civilized." All forests are considered part of **The Woods**, no matter how isolated.
+- The Woods are populated by creatures far stranger and wondrous than humankind: Fae, Demons, Witches, werewolves, and even talking plants and animals. They do not appreciate the loss of their home from the encroachment of "natural" progress, either. 
+- The denizens of **The Woods** are fiercely independent, believing they are subject solely to the rules of **The Woods** and no other.Its fierce nations, wild tribes, and unrelenting elements have kept armies and scouting parties at bay. For now.
 
-## The Woods
-
-- Any lands beyond the control of **The Cobbles**. Typically wilder and less "civilized." All forests are considered part of **The Woods**, no matter how isolated.
-- The Woods are populated by creatures far stranger and wondrous than humankind: Fae, Demons, Witches, werewolves, and even talking plants and animals. They do not appreciate the loss of their home from the encroachment of **The Cobbles**, either. 
-- The denizens of **The Woods** are fiercely independent, believing they are subject solely to the rules of **The Woods** and no other.Its fierce nations, wild tribes, and unrelenting elements have kept the armies and scouting parties of **The Cobbles** at bay. For now.
-
-## The Roots
+### The Roots
 
 - Remnants of the **Old World**, its labyrinthine hollows stretching for immeasurable distances deep underground, connecting the sewers of the cities to the far-flung ruins. Entrances to **The Roots** (called **Gates**) are scattered across the lands, and are usually protected or shrewdly hidden.
 - Only the brave or foolish have dared enter **The Roots**, in search of forgotten **Relics** or powerful **Spellbooks**. The few that return whisper of unspeakable terrors guarding these lost treasures.
@@ -38,7 +30,7 @@ The implied setting of Cairn is called **Vald**. It is comprised of the followin
 ## On Naming 
 
 - For the first name, roll on each table respectively, then combine. Then use the format:
-- If they hail from **The Cobbles**, use their background or profession, e.g. "Paela Miller," or the first name of a parent (roll another name), e.g. "Leni Lio." 
+- If they hail from a city or town, use their background or profession, e.g. "Paela Miller," or the first name of a parent (roll another name), e.g. "Leni Lio." 
 - If they hail from **The Woods**, use the name of their hometown, e.g. "Faroelel of Sundew Glade," or a title, e.g. "JaraSif the Mighty." 
 - If they hail from **The Roots**, create three names and combine them, e.g. "Lylethor Sorin Tal," or dashes, between the second and third syllables, e.g. "Penu-Flor."
 
@@ -220,7 +212,7 @@ The implied setting of Cairn is called **Vald**. It is comprised of the followin
 - Use contrasting words (e.g. "Thorny Meadows") to evoke an interesting detail about the location.
 - Make it sound nice. Alliteration and pleasing combinations can create pleasant sounds. "Babbling Brook" is more pleasing than "Rambling Brook." 
 
-### The Cobbles Location Names
+### Cities and Towns Location Names
 
 |          |               |             |
 | -------- | ------------- | ----------- |
