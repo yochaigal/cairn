@@ -42,5 +42,5 @@ Gann, Light, Gale, Frost, Thorn, Reed, Flint, Brook, Snow, Aasim
 | 3    | **Pullstones**   | Two jet-black stones. When separated, the stones will always roll in the direction of the other.  |
 | 4    | **Fireflask**  | Highly alcoholic, but strangely delicious. When lit, creates a short-living wall of flames 10ft high. |
 | 5    | **Pain Band** | Touch an injured creature while wearing it to transfer their wounds to you. They do not regain lost STR, but you do not lose any either. **Recharge**: A creature must die while wearing the ring.  |
-| 6    | **Poacher's Woe** | Smelly arrows (d8, 5 uses). Creatures struck leave behind a strong scent you can follow.  |
+| 6    | **Poacher's Woe** | scent-laced arrows (d8, 5 uses). Creatures struck leave behind a strong scent you can follow.  |
 
