@@ -13,11 +13,11 @@ grand_parent: WIP
 
 ## Names
 
-Solena, Feron, Vex, Sabine, Rook, Rowena, Galen, Nyx, Thorn, Thistle
+Solena, Veles, Bryn, Sabine, Razvan, Rowena, Galen, Nyx, Vex, Iwan
 
 ## Starting Gear
  
-- Spellbook (choose one: _Hover_, _Illuminate_, Thicket_)
+- Spellbook (choose one: _Hover_, _Illuminate_, _Thicket_)
 - Iron dagger (d6)
 - Herbs pouch (restore 1 STR, 3 uses)
 - Mortar & pestle
