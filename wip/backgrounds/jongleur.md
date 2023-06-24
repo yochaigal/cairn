@@ -29,7 +29,7 @@ Jax, Selene, Baladria, Ada, Felix, Saylor, Tripp, Lantos, Echo, Jubilo
 | **1** | Despite your training in the deadly arts, an actor died and you were blamed. Take a light-weight **rapier** (d6) and a false identity. |
 | **2** | The crowd loved your catchy tune about a noble and his romantic failings. Unfortunately the noble in question was not amused. Take a **musical instrument**, a brand (you decide where), and the _Read Mind_ **spellbook**. |
 | **3** | Your debut composition reduced the audience to a gibbering mess, murmuring of bright creatures descending from the night sky. Later you noticed that your notes faintly resembled stellar constellations. Take a heavily-marked **book on astronomy**, and a lot of questions. |
-| **4** | Your humorous poetry mocked a minor trickster god, long abandoned. They expressed their displeasure by cursing you. You cannot speak unless it is in perfect rhyme. Ironically this has only made you more popular among your peers. Take an expensive **thesaurus** (100gp). Without it you are _deprived_. |
+| **4** | Your poetry mocked a forgotten trickster god, and they cursed you for it. You speak only in perfect rhyme. Ironically, this has only made you more popular among your peers. Take a **thesaurus** (20gp). Without it you are _deprived_. |
 | **5** | You were scarred in an on-stage accident. The crowd cheered, thinking it was part of the act. Take well-worn **stage mail** (1 Armor), a memorable scar, and a fear of applause. |
 | **6** | Your respectable puppeteering skills were matched only by your mimicry. You were so good you were branded a witch (literally) and banished. Take an **uncanny hand-puppet** and a **rabbit skull** (sewn with grass) that protects against charms.     |
 

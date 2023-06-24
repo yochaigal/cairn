@@ -17,8 +17,8 @@ Faunus, Snowdrop, Wisp, Silverdew, Brim, Solstice, Steeleye, Sileas, Gossamer, H
 
 ## Starting Gear
 
-- Salt pounch
-- Heirloom amulet (_Detect Magic_)
+- Salt pouch
+- Heirloom amulet (glows in the presence of magic)
 - Slingshot (d6)
 - Dagger (d6) 
 
@@ -26,12 +26,12 @@ Faunus, Snowdrop, Wisp, Silverdew, Brim, Solstice, Steeleye, Sileas, Gossamer, H
 
 |       |                                                                                                                                                                                                                                                              |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **1** | An old hunter living a quiet life at the edge of **The Woods**. You were both happy there, until the end. There is nothing there for you now. Take a **weathered longbow** (d8, _bulky_) and a **leather jerkin** (1 Armor).                                 |
-| **2** | A wizened apothecary from the city, who taught you knowledge and basic healing, but never gave you love. Now they are gone, along with their stifling, cold presence. Take a **healing ungent** (d4 STR) and a small **steel knife** (d6).                   |
-| **3** | A druid, living in harmony with **The Woods**. You learned to survive in the wilderness, to speak the language of trees. When it came time to leave, you took with you only a **gnarled staff** (d8) and fond memories of home.                              |
-| **4** | A gruff blacksmith in a sleepy river town. You were kept at arm's length, separate from others. Now their forge is cold, and you've moved on. Take a **smith's hammer** (d6) and a set of **oft-mended chain mail** (2 Armor, bulky).                        |
-| **5** | A troupe of traveling entertainers. They were your family for a time. One day you woke up and they were gone, with no explanation. Take a **storybook**, a **dagger** (d6), and a strong hatred for song.                                                    |
-| **6** | A secluded monastery, deep in **The Woods**. The monks there held nature in great esteem, and you its bounty. Eventually their rules became too strict, and you snuck away. Take a **monk's habit** (warm, _petty_) and a **spellbook** of _Control Plants_. |
+| **1** | An old hunter. You were both quite happy, all the way until the end. There is nothing there for you now. Take a **weathered longbow** (d8, _bulky_) and a **leather jerkin** (1 Armor).                                 |
+| **2** | A wizened apothecary, who taught you the healing arts. Despite this, you were never very close. Take a **healing ungent** (d4 STR) and a small **steel knife** (d6).                   |
+| **3** | A druid, who taught you the language of trees. When it came time to leave you took with you only a **gnarled staff** (d8) and the promise you would one day return.                              |
+| **4** | A gruff blacksmith in a sleepy river town. You were always kept at arm's length, separated from others. Now their forge is cold, and you've moved on. Take a **smith's hammer** (d6) and a set of **oft-mended chain mail** (2 Armor, _bulky_).                        |
+| **5** | A troupe of traveling entertainers. For a time, they were like family to you. One day you woke up and they were gone with no explanation. Take a **storybook**, a **dagger** (d6), and some burning questions. |
+| **6** | The monnks of a secluded forest monastery. Eventually their rules became too strict, and you snuck away. Take a **monk's habit** (warm, _petty_) and a **spellbook** of _Control Plants_. |
 
 
 ## What keeps away bad tidings? Roll 1d6:

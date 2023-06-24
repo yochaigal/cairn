@@ -26,12 +26,12 @@ Montague, Ambrose, Lucius, Sterling, Beauregard, Cornelius, Percival, Crispin, A
 
 |       |                                                              |
 | ----- | ------------------------------------------------------------ |
-| **1** | Your "patients" kept reporting miraculous recoveries, surprising you as much as the local authorities. When they investigated your credentials, you ran. Start with **bandages** and a knack for healing. |
+| **1** | Your "patients" kept reporting miraculous recoveries, despite your lack of training. Start with **bandages** and a knack for healing. |
 | **2** | After seducing a wealthy patron, their family hired a criminal gang to retrieve you. You escaped but need to lay low for a while. Start with a scroll of _Charm_. |
-| **3** | You peddled fake prophesies, until one turned out to be true, drawing unwanted attention. Roll on the **Omens** table but keep the result to yourself.   |
-| **4** | When your latest stunt destroyed a priceless artifact and left a dozen injured you were forced to fake your own death (again). Start with a **captain's uniform**, a **ceremonial sword** (harmless, _bulky_, 60gp), and a **bouquet of flowers** (_petty_ if smashed). |
-| **5** | Your sleight of hand only *appeared* to be magic, until you were cursed by a hedgewitch. You "set off" nearby magic, often in unpredictable ways. Interacting with **Relics** or **Spellbooks** requires a WIL save to avoid disaster. If you are the target of either, the same applies to its source. |
-| **6** | Your "seances" with the dead were in actuality a ruse involving a cleverly hidden spellbook of [Auditory Illusion](https://cairnrpg.com/cairn-srd/#100-spells). Inevitably a patron discovered your secret and uncovered your ruse. You fled with the **spellbook**, a bundle of scarves, and a knack for showmanship. |
+| **3** | You were a peddler of fake prophesies, but when one turned out to be true it drew unwanted attention. Roll on the **Omens** table, but keep the result to yourself. Start with a knife (d6) hidden in your boot.    |
+| **4** | Your latest stunt destroyed a priceless artifact and injured a dozen bystanders. Start with a **captain's uniform** (_petty_), a **ceremonial sword** (harmless, _bulky_, 60gp), and a **bouquet of flowers**. |
+| **5** | You were cursed by a hedgewitch for fooling some innocent village folk. Magic acts unpredictbly in your hands (WIL save to avoid disaster). If you are the target of magic, the same applies to its wielder. |
+| **6** | Your "seances" with the dead were in actuality a ruse involving a cleverly hidden spellbook of [Auditory Illusion](https://cairnrpg.com/cairn-srd/#100-spells). Inevitably a patron discovered your secret. Start with the **spellbook** and a bundle of scarves. |
 
 ## What keepsake could always identify you? Roll 1d6:
 
