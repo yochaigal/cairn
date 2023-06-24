@@ -31,7 +31,7 @@ Per, Stilo, Akshara, Pisa, Per, Kalamos, Hugo, Shui, Kalam, Julius
 | **3** | **A Treatise on the Abyss**. A non-descript black book. An in-depth, largely theoretical text describing **The Roots**, as well as a guide to navigating through **Gates**.   |
 | **4** |  **The Star Waltz**. A comet-shaped clapse closing a fine leather cover. Detailed astronomical charts, celestial movements, and stellar festivals. Highly valued (100gp) for its usefulness to travelers.     |
 | **5** | **The Cathedral and the Canopy**. Large-leaf binding over vellum. Nominally a children's storybook, the margins detail information about traveling, eating, and sleeping in the cloud forests.    |
-| **6** | **Garden of Glass**. Bound in the cover of another book. A heretical work, it describes the materials, location, and procedures for opening a **Gate**.|
+| **6** | **Garden of Glass**. Bound in the cover of another book. A heretical work, it describes the materials, procedures, and potential locations necessary for opening a **Gate**.|
 
 ## How do you transcribe sensitive information? Roll 1d6.
 
@@ -41,5 +41,5 @@ Per, Stilo, Akshara, Pisa, Per, Kalamos, Hugo, Shui, Kalam, Julius
 | **2** | **Cipher Stones**  | Decrypts any message written by another stone. You have a pouch with 2.                                                |
 | **3** | **Everquill**      | A quill that writes on any surface. You still need ink.                                                                |
 | **4** | **Whisper Vial**   | Whisper a message within and it will play back (as a whisper) the message to whomever opens it next.                   |
-| **5** | **Voyeur's Suringa** | Extracts blood from a target without their knowledge. Dropped directly into the eye the blood reveals their memories from the past day. |
+| **5** | **Voyeur's Suringa** | Extracts blood from a target without their knowledge. A stolen drop placed on the eye reveals memories from the past day. |
 | **6** | **Echo Scroll**    | A blank parchment that reveals the last written words of the whomever last  unfurled it.                               |
