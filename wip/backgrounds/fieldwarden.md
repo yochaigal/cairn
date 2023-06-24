@@ -9,7 +9,7 @@ grand_parent: WIP
 
 # Fieldwarden
 
-> Protectors of the harvest, defense against pests, thieves, and beasts. A position of great honor, while it lasts: many guardians do not live out their natural lives. 
+> Protectors of the harvest, defense against pests, thieves, and beasts. A position of great honor, while it lasts: many guardians do not live out their natural lives. Roll a second time on the **Bonds** table. 
 
 ## Names
 
