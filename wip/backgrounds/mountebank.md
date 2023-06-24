@@ -31,7 +31,7 @@ Montague, Ambrose, Lucius, Sterling, Beauregard, Cornelius, Percival, Crispin, A
 | **3** | You peddled fake prophesies, until one turned out to be true, drawing unwanted attention. Roll on the **Omens** table but keep the result to yourself.   |
 | **4** | When your latest stunt destroyed a priceless artifact and left a dozen injured you were forced to fake your own death (again). Start with a **captain's uniform**, a **ceremonial sword** (harmless, _bulky_, 60gp), and a **bouquet of flowers** (_petty_ if smashed). |
 | **5** | Your sleight of hand only *appeared* to be magic, until you were cursed by a hedgewitch. You "set off" nearby magic, often in unpredictable ways. Interacting with **Relics** or **Spellbooks** requires a WIL save to avoid disaster. If you are the target of either, the same applies to its source. |
-| **6** | Your "seances" with the dead were in actuality a ruse involving a cleverly hidden spellbook of _Raise Spirit_. Inevitably a patron discovered your secret and uncovered your ruse. You fled with the **spellbook**, a bundle of scarves, and a knack for showmanship. |
+| **6** | Your "seances" with the dead were in actuality a ruse involving a cleverly hidden spellbook of [Auditory Illusion](https://cairnrpg.com/cairn-srd/#100-spells). Inevitably a patron discovered your secret and uncovered your ruse. You fled with the **spellbook**, a bundle of scarves, and a knack for showmanship. |
 
 ## What keepsake could always identify you? Roll 1d6:
 
