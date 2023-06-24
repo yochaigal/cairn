@@ -9,7 +9,7 @@ grand_parent: WIP
 
 # Cutpurse
 
-> You live in the grey space between those who have power, and those that don't. You thrive in thick of things, in finding opportunity where others see only chaos. With nimble fingers you unburden both the richest merchant and the lowliest guard. 
+> You live in the grey space between those who have power and those that don't. You thrive in thick of things, in finding opportunity where others see only chaos. With nimble fingers, you unburden both the richest merchant and the lowliest guard. 
 
 ## Names
 
@@ -27,11 +27,11 @@ Sable, Lyra, Eamon, Salina, Elara, Freya, Isolde, Sparrow, Ivy, Silas
 |       |                                                                                                                |
 | ----- | -------------------------------------------------------------------------------------------------------------- |
 | **1** | A noble's summer home. Take **fence cutters**. The place was full of fancy wine (+20gp) but not much else.  |
-| **2** | A bank. Take **retractable wires**. You were caught, and spent time in jail. Your face bears the brand of a thief: any tavern patron that sees the mark can ask you for a beer. You really want to get it removed.                                |
+| **2** | A bank. Take **retractable wires**. You were caught, branded a thief, and thrown in jail. Your face bears the brand, and any tavern patron that sees the mark can ask you for a beer.  |
 | **3** | A guild storehouse. Take **blinding powder**.                                                                  |
 | **4** | Moneylender. Someone beat you to the job, but left behind a **scroll** of _Arcane Eye_.                        |
 | **5** | Constable's quarters. Take **strong silk rope**. You escaped, but left some friends behind.                    |
-| **6** | A university. Take **smoke pellets** (3 uses). You were seen, but not pursued. It left you with a bad feeling. |
+| **6** | A university. Take **smoke pellets** (3 uses). You were seen, but not pursued. You still don't know why. |
 
 ## What helps you steal? Roll 1d6:
 
