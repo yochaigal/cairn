@@ -44,7 +44,7 @@ search_exclude: true
 | **32**  | [Hexenbane](https://cairnrpg.com/wip/backgrounds/hexenbane)       |
 | **33**  | [Barber-Surgeon](https://cairnrpg.com/wip/backgrounds/barber-surgeon)   |
 | **34**  | [Cutpurse](https://cairnrpg.com/wip/backgrounds/cutpurse)               |
-| **35**  | [Mushroom Farmer](https://cairnrpg.com/wip/backgrounds/mushroom-farmer) |
+| **35**  | [Roots Farmer](https://cairnrpg.com/wip/backgrounds/roots-farmer) |
 | **36**  |                                                                         |
 | **41**  |                                                                         |
 | **42**  |                                                                         |
