@@ -1,5 +1,5 @@
 ---
-title: Roots Diver
+title: Fungal Forager
 layout: default
 nav_exclude: true
 search_exclude: true
@@ -7,7 +7,7 @@ parent: Backgrounds
 grand_parent: WIP
 ---
 
-# Roots Diver
+# Fungal Forager
 
 > You follow the whisperings of the deep earth, the rhythmic pulse of the mycelium forest that grows beneath the surface. The dark holds no terror for you. Also, you really love mushrooms.
 
