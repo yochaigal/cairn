@@ -44,10 +44,10 @@ search_exclude: true
 | **14**  | [Hexenbane](https://cairnrpg.com/wip/backgrounds/hexenbane)           |
 | **15**  | [Barber-Surgeon](https://cairnrpg.com/wip/backgrounds/barber-surgeon) |
 | **16**  | [Cutpurse](https://cairnrpg.com/wip/backgrounds/cutpurse)             |
-| **17**  | [Fungal Forager](https://cairnrpg.com/wip/backgrounds/fungal-forager)     |
+| **17**  | [Fungal Forager](https://cairnrpg.com/wip/backgrounds/fungal-forager) |
 | **18**  | [Outrider](https://cairnrpg.com/wip/backgrounds/outrider)             |
-| **19**  |                                                                       |
-| **20**  |                                                                       |
+| **19**  | [Half-Witch](https://cairnrpg.com/wip/backgrounds/half-witch)         |
+| **20**  | [Beast Handler](https://cairnrpg.com/wip/backgrounds/beast-handler)   |
 
 ## Ability Scores  
 
