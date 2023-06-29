@@ -31,7 +31,7 @@ Montague, Ambrose, Lucius, Sterling, Beauregard, Cornelius, Percival, Crispin, A
 | **3** | You were a peddler of fake prophesies, but when one turned out to be true it drew unwanted attention. Roll on the **Omens** table, but keep the result to yourself. Start with a knife (d6) hidden in your boot.    |
 | **4** | Your latest stunt destroyed a priceless artifact and injured a dozen bystanders. Start with a **captain's uniform** (_petty_), a **ceremonial sword** (harmless, _bulky_, 60gp), and a **bouquet of flowers**. |
 | **5** | You were cursed by a hedgewitch for fooling some innocent village folk. Magic acts unpredictbly in your hands (WIL save to avoid disaster). If you are the target of magic, the same applies to its wielder. |
-| **6** | Your "seances" with the dead were in actuality a ruse involving a cleverly hidden spellbook of [Auditory Illusion](https://cairnrpg.com/cairn-srd/#100-spells). Inevitably a patron discovered your secret. Start with the **spellbook** and a bundle of scarves. |
+| **6** | Your "seances" with the dead were in actuality a ruse involving a cleverly hidden spellbook of [Auditory Illusion](https://cairnrpg.com/cairn-srd/#100-spells). Inevitably, a patron discovered your secret. Start with the **spellbook** and a bundle of scarves. |
 
 ## What keepsake could always identify you? Roll 1d6:
 
