@@ -38,8 +38,8 @@ Drake, Cyra, Keir, Darius, Valen, Rorik, Yara, Rui, Talon, Jory
 
 |       |                       |                                                                                                                         |
 | ----- | --------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Warmblooded Draft** | A beast built for war. An imposing creature. 8 HP, 1 Armor, hooves (d10+d10), +2 slots.                                  |
-| **2** | **Goldcoat**          | Known for high endurance, it can ride without rest for up to 4 **Watches**. 4 HP. +4 slots.                             |
+| **1** | **Heavy Destrier** | A beast built for war. An imposing creature. 8 HP, 1 Armor, hooves (d10+d10), +2 slots.                                  |
+                       |
 | **2** | **Blacklegged Dandy** | Hardy and adaptable, **Tough** or **Perilous** terrain are one step easier. 6 HP. +4 slots.                             |
 | **3** | **Rivertooth**        | Impressively strong, capable of carrying heavy loads. 4 HP. +6 slots (+2 if carrying two people).                       |
 | **4** | **Piebald Cob**       | Intelligent, it can understand simple commands, and even has an instinct for danger. 6 HP. +4 slots.                    |
