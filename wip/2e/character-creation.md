@@ -27,27 +27,27 @@ search_exclude: true
 
 |         |                                                                       |
 | ------- | --------------------------------------------------------------------- |
-| **d20** | **Background**                                                        |
-| **1**   | [Marchguard](https://cairnrpg.com/wip/backgrounds/marchguard/)        |
-| **2**   | [Fieldwarden](https://cairnrpg.com/wip/backgrounds/fieldwarden/)      |
-| **3**   | [Greenwise](https://cairnrpg.com/wip/backgrounds/greenwise/)          |
+| **d20** | **Background**                                                            |
+| **1**   | [Aurifex](https://cairnrpg.com/wip/backgrounds/aurifex)               |
+| **2**   | [Barber-Surgeon](https://cairnrpg.com/wip/backgrounds/barber-surgeon) |
+| **3**   | [Beast Handler](https://cairnrpg.com/wip/backgrounds/beast-handler)   |
 | **4**   | [Bonescribe](https://cairnrpg.com/wip/backgrounds/fieldwarden/)       |
-| **5**   | [Mountebank](https://cairnrpg.com/wip/backgrounds/mountebank)         |
-| **6**   | [Kettlewright](https://cairnrpg.com/wip/backgrounds/kettlewright)     |
-| **7**   | [Aurifex](https://cairnrpg.com/wip/backgrounds/aurifex)               |
-| **8**   | [Jongleur](https://cairnrpg.com/wip/backgrounds/jongleur/)            |
-| **9**   | [Prowler](https://cairnrpg.com/wip/backgrounds/prowler)               |
-| **10**  | [Marshstrider](https://cairnrpg.com/wip/backgrounds/marshstrider)     |
-| **11**  | [Foundling](https://cairnrpg.com/wip/backgrounds/foundling)           |
-| **12**  | [Rill Runner](https://cairnrpg.com/wip/backgrounds/rill-runner)       |
-| **13**  | [Scriviner](https://cairnrpg.com/wip/backgrounds/scriviner)           |
-| **14**  | [Hexenbane](https://cairnrpg.com/wip/backgrounds/hexenbane)           |
-| **15**  | [Barber-Surgeon](https://cairnrpg.com/wip/backgrounds/barber-surgeon) |
-| **16**  | [Cutpurse](https://cairnrpg.com/wip/backgrounds/cutpurse)             |
-| **17**  | [Fungal Forager](https://cairnrpg.com/wip/backgrounds/fungal-forager) |
-| **18**  | [Outrider](https://cairnrpg.com/wip/backgrounds/outrider)             |
-| **19**  | [Half-Witch](https://cairnrpg.com/wip/backgrounds/half-witch)         |
-| **20**  | [Beast Handler](https://cairnrpg.com/wip/backgrounds/beast-handler)   |
+| **5**   | [Cutpurse](https://cairnrpg.com/wip/backgrounds/cutpurse)             |
+| **6**   | [Fieldwarden](https://cairnrpg.com/wip/backgrounds/fieldwarden/)      |
+| **7**   | [Foundling](https://cairnrpg.com/wip/backgrounds/foundling)           |
+| **8**   | [Fungal Forager](https://cairnrpg.com/wip/backgrounds/fungal-forager) |
+| **9**   | [Greenwise](https://cairnrpg.com/wip/backgrounds/greenwise/)          |
+| **10**  | [Half-Witch](https://cairnrpg.com/wip/backgrounds/half-witch)         |
+| **11**  | [Hexenbane](https://cairnrpg.com/wip/backgrounds/hexenbane)           |
+| **12**  | [Jongleur](https://cairnrpg.com/wip/backgrounds/jongleur/)            |
+| **13**  | [Kettlewright](https://cairnrpg.com/wip/backgrounds/kettlewright)     |
+| **14**  | [Marchguard](https://cairnrpg.com/wip/backgrounds/marchguard/)        |
+| **15**  | [Marshstrider](https://cairnrpg.com/wip/backgrounds/marshstrider)     |
+| **16**  | [Mountebank](https://cairnrpg.com/wip/backgrounds/mountebank)         |
+| **17**  | [Outrider](https://cairnrpg.com/wip/backgrounds/outrider)             |
+| **18**  | [Prowler](https://cairnrpg.com/wip/backgrounds/prowler)               |
+| **19**  | [Rill Runner](https://cairnrpg.com/wip/backgrounds/rill-runner)       |
+| **20**  | [Scriviner](https://cairnrpg.com/wip/backgrounds/scriviner)           |
 
 ## Ability Scores  
 
