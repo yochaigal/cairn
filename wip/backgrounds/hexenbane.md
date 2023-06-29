@@ -30,7 +30,7 @@ Percival, Felix, Isolde, Wolfram, Aldric, Eira, Oswin, Ivor, Brunhilda, Beatrix
 | **3** | **Order of the Glass Sigil**. Take a short sword (d8) and chainmail (Armor, _bulky_). You have contacts in most towns (the more rural, the better) willing provide aid, food, or even weapons.                 |
 | **4** | **Order of the Blank Eye**. Take a **voidglass shard**. Peer through it to see invisible marks, creatures, and other magical effects. Lose the use of your eye for an hour afterwards (you are _deprived_). |
 | **5** | **Order of Canaas**. Once per day you can change into a wolf. Take a **quicksilver chain**. Without it, you are unable to shift back.                                                                           |
-| **6** | **Order of the Silent Veil**. Take a **quell stone** (3 uses) wrapped in burlap. Extinguishes any nearby flames once exposed to air.                                                                             |
+| **6** | **Order of the Silent Veil**. Take a **quell stone** (2 uses) wrapped in burlap. Extinguishes any nearby flames once exposed to air.                                                                             |
 
 ## What was your vow? Roll 1d6:
 
