@@ -31,7 +31,7 @@ Seed, Thresh, Dibber, Sow, Stalk, Harrow, Cobb, Flax, Briar, Rye
 | **3** | An antlered, toothy demon that nearly ended you. Take the blood-stained **bone knife** that saved your life (d6, next attack is _enhanced_ after exposure to fresh blood). Something is off about it. |
 | **4** | _The Withering_, a type of stem rot from **The Roots**. Take a **diseased crop** that decays any plant it touches.                        |
 | **5** | Wolves. One scratch was all it took: you are now a **werewolf** [8 HP, 15 STR, 14 DEX, claws (d6+d6) or bite (d8)]. You can turn at will (once per day) but must make a WIL save to revert. Anyone left alive from your attacks must make a WIL save to avoid infection. |
-| **6** | Crop thieves. Not all of them survived (you always were good good with a blade). Take a +d4 HP and a **hilted broadsword** (d8, _bulky_).  |
+| **6** | Crop thieves. Not all of them survived, but you were outnumbered. Take a +d4 HP and a **hilted broadsword** (d8, _bulky_).  |
 
 ## What tool saved your life? Roll 1d6:
 
