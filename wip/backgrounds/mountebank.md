@@ -42,4 +42,4 @@ Montague, Ambrose, Lucius, Sterling, Beauregard, Cornelius, Percival, Crispin, A
 | **3** | **Surgeon's Soap**                 | A lye and ash block that makes skin transparent, revealing the anatomy within. 4 uses. |
 | **4** | **Goat Powder**                    | Derived from the placenta of a baby goat.  Temporarily cures any affliction, but symptoms return within hours. |
 | **5** | **Cursed Sapphire**                | Valued at around 200gp, it returns to your pocket each time you spend it. You can't seem to get rid of it. |
-| **6** | **Alchemical Tattoo**              | A mundane house pet that leaps off your body on demand and follows your every command. It can pass injuries back onto you.    |
+| **6** | **Alchemical Tattoo**              | A mundane house pet that leaps off your body on demand and follows your every command. It can pass injuries (STR Damage) back onto you.    |
