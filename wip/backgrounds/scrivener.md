@@ -29,7 +29,7 @@ Per, Stilo, Akshara, Pisa, Per, Kalamos, Hugo, Shui, Kalam, Julius
 | **1** | **The Wild Tongue**. A bundle of leather-bound scrolls. A seminal work, cataloging the hidden languages of beasts.     |
 | **2** | **A Silent Symphony**. Bound in fluorescent wrap. Very rare, it chronicles the subtle signs used by creatures employing invisibility magic.    |
 | **3** | **A Treatise on the Abyss**. A non-descript black book. An in-depth, largely theoretical text describing **The Roots**, as well as a guide to navigating through **Gates**.   |
-| **4** |  **The Star Waltz**. A comet-shaped clapse closing a fine leather cover. Detailed astronomical charts, celestial movements, and stellar festivals. Highly valued (100gp) for its usefulness to travelers.     |
+| **4** |  **The Star Waltz**. A comet-shaped clasp closing a fine leather cover. Detailed astronomical charts, celestial movements, and stellar festivals. Highly valued (100gp) for its usefulness to travelers.     |
 | **5** | **The Cathedral and the Canopy**. Large-leaf binding over vellum. Nominally a children's storybook, the margins detail information about traveling, eating, and sleeping in the cloud forests.    |
 | **6** | **Garden of Glass**. Bound in the cover of another book. A heretical work, it describes the materials, procedures, and potential locations necessary for opening a **Gate**.|
 
@@ -42,4 +42,4 @@ Per, Stilo, Akshara, Pisa, Per, Kalamos, Hugo, Shui, Kalam, Julius
 | **3** | **Everquill**      | A quill that writes on any surface. You still need ink.                                                                |
 | **4** | **Whisper Vial**   | Whisper a message within and it will play back (as a whisper) the message to whomever opens it next.                   |
 | **5** | **Voyeur's Suringa** | Extracts blood from a target without their knowledge. A stolen drop placed on the eye reveals memories from the past day. |
-| **6** | **Echo Scroll**    | A blank parchment that reveals the last written words of the whomever last  unfurled it.                               |
+| **6** | **Echo Scroll**    | A blank parchment that reveals the last written words of the whomever last unfurled it.                               |

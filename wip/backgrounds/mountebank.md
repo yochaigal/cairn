@@ -31,7 +31,7 @@ Montague, Ambrose, Lucius, Sterling, Beauregard, Cornelius, Percival, Crispin, A
 | **3** | You were a peddler of fake prophesies, but when one turned out to be true it drew unwanted attention. Roll on the **Omens** table, but keep the result to yourself. Start with a knife (d6) hidden in your boot.    |
 | **4** | Your latest stunt destroyed a priceless artifact and injured a dozen bystanders. Start with a **captain's uniform** (_petty_), a **ceremonial sword** (harmless, _bulky_, 60gp), and a **bouquet of flowers**. |
 | **5** | You were cursed by a hedgewitch for fooling some innocent village folk. Magic acts unpredictbly in your hands (WIL save to avoid disaster). If you are the target of magic, the same applies to its wielder. |
-| **6** | Your "seances" with the dead were in actuality a ruse involving a cleverly hidden spellbook of [Auditory Illusion](https://cairnrpg.com/cairn-srd/#100-spells). Inevitably a patron discovered your secret. Start with the **spellbook** and a bundle of scarves. |
+| **6** | Your "seances" with the dead were in actuality a ruse involving a cleverly hidden spellbook of [Auditory Illusion](https://cairnrpg.com/cairn-srd/#100-spells). Inevitably, a patron discovered your secret. Start with the **spellbook** and a bundle of scarves. |
 
 ## What keepsake could always identify you? Roll 1d6:
 
@@ -42,4 +42,4 @@ Montague, Ambrose, Lucius, Sterling, Beauregard, Cornelius, Percival, Crispin, A
 | **3** | **Surgeon's Soap**                 | A lye and ash block that makes skin transparent, revealing the anatomy within. 4 uses. |
 | **4** | **Goat Powder**                    | Derived from the placenta of a baby goat.  Temporarily cures any affliction, but symptoms return within hours. |
 | **5** | **Cursed Sapphire**                | Valued at around 200gp, it returns to your pocket each time you spend it. You can't seem to get rid of it. |
-| **6** | **Alchemical Tattoo**              | A mundane house pet that leaps off your body on demand and follows your every command. It can pass injuries back onto you.    |
+| **6** | **Alchemical Tattoo**              | A mundane house pet that leaps off your body on demand and follows your every command. It can pass injuries (STR Damage) back onto you.    |

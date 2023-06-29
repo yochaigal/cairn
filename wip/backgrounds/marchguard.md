@@ -42,4 +42,4 @@ Gann, Light, Gale, Frost, Thorn, Reed, Flint, Brook, Brie, Aasim
 | **3** | **Pullstones**     | Two jet-black stones. When separated, the stones will always roll in the direction of the other.                                                                         |
 | **4** | **Fireflask**      | Highly alcoholic, but strangely delicious. When lit, creates a short-living wall of flames 10ft high.                                                                    |
 | **5** | **Pain Band**      | Touch an injured creature to transfer their wounds to you. They do not regain lost STR, but they may yet live. **Recharge**: A creature must die while wearing the ring. |
-| **6** | **Poacher's Woe**  | Strongly scented arrows (5 uses). The scent is powerful enough to track with eaaes.                                                                                      |
+| **6** | **Poacher's Woe**  | Strongly-scented arrows (5 uses). The scent is powerful enough to track with ease.                                                                                      |

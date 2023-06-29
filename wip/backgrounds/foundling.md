@@ -26,8 +26,8 @@ Faunus, Snowdrop, Wisp, Silverdew, Brim, Solstice, Steeleye, Sileas, Gossamer, H
 
 |       |                                                                                                                                                                                                                                                              |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **1** | An old hunter. You were both quite happy, all the way until the end. There is nothing there for you now. Take a **weathered longbow** (d8, _bulky_) and a **leather jerkin** (1 Armor).                                 |
-| **2** | A wizened apothecary, who taught you the healing arts. Despite this, you were never very close. Take a **healing ungent** (d4 STR) and a small **steel knife** (d6).                   |
+| **1** | An old hunter. You were both quite happy, until it all ended. There is nothing there for you now. Take a **weathered longbow** (d8, _bulky_) and a **leather jerkin** (1 Armor).                                 |
+| **2** | A wizened apothecary, who taught you the healing arts but maintained a clinical detachment. Take a **healing ungent** (d4 STR) and a small **steel knife** (d6).                   |
 | **3** | A druid, who taught you the language of trees. When it came time to leave you took with you only a **gnarled staff** (d8) and the promise you would one day return.                              |
 | **4** | A gruff blacksmith in a sleepy river town. You were always kept at arm's length, separated from others. Now their forge is cold, and you've moved on. Take a **smith's hammer** (d6) and a set of **oft-mended chain mail** (2 Armor, _bulky_).                        |
 | **5** | A troupe of traveling entertainers. For a time, they were like family to you. One day you woke up and they were gone with no explanation. Take a **storybook**, a **dagger** (d6), and some burning questions. |

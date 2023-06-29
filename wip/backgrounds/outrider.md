@@ -27,7 +27,7 @@ Drake, Cyra, Keir, Darius, Valen, Rorik, Yara, Rui, Talon, Jory
 |       |                                                                                                                                                                                                                                                             |
 | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1** | **No innocent blood**: You never harm bystanders, whether directly or no. Take a **steadymade buckler** (+1 Armor). While holding this shield you cannot be moved so long as both feet are planted on firm ground.                                          |
-| **2** | **Revere the tools of death**: Weapons are to be respected and maintained. Take a **wyrmbone whetsone**. Attacks with your blade are _enhanced_ immediately after ritualized sharpening (one hour).                                                         |
+| **2** | **Revere the tools of death**: Weapons are to be respected and maintained. Take a **wyrmbone whetsone**. Following an hour-long ritualized sharpening, attacks are _enhanced_ until STR damage is dealt.                                                         |
 | **3** | **To the death, always**: You never back down from a challenge or a fight, no matter the odds. Take a **death-whistle**, 1 charge. Its scream frightens away all who hear it (save WIL or flee). **Recharge**: Capture the dying breath of a dying warrior. |
 | **4** | **Respect the Dead**: Death is a journey we all take, and it deserves respect. Take an extra **30gp**. You always place two gold pieces on the eyelids of a slain foe. Somehow, you always find the coin.                                                   |
 | **5** | **Loyalty to the work**: Your word is your bond. Once you've accepted a job, you see it through to the end.                                                                                                                                                 |
@@ -38,8 +38,8 @@ Drake, Cyra, Keir, Darius, Valen, Rorik, Yara, Rui, Talon, Jory
 
 |       |                       |                                                                                                                         |
 | ----- | --------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Warmblooded Draft** | A beast built for war. An imposing creature. 8 HP, 1 Armor, hooves (d10+d10), +2 slots.                                  |
-| **2** | **Goldcoat**          | Known for high endurance, it can ride without rest for up to 4 **Watches**. 4 HP. +4 slots.                             |
+| **1** | **Heavy Destrier** | A beast built for war. An imposing creature. 8 HP, 1 Armor, hooves (d10+d10), +2 slots.                                  |
+                       |
 | **2** | **Blacklegged Dandy** | Hardy and adaptable, **Tough** or **Perilous** terrain are one step easier. 6 HP. +4 slots.                             |
 | **3** | **Rivertooth**        | Impressively strong, capable of carrying heavy loads. 4 HP. +6 slots (+2 if carrying two people).                       |
 | **4** | **Piebald Cob**       | Intelligent, it can understand simple commands, and even has an instinct for danger. 6 HP. +4 slots.                    |
