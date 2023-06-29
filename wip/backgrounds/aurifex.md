@@ -41,4 +41,4 @@ Hestia, Basil, Rune, Prism, Ember, Quintess, Aludel, Mordant, Salaman, Jazia
 | **3** | **Aqua Vita**     | Purifies any liquid, converting it to pure water. Drinking it cures 1d6 STR. | 
 | **4** | **Mimic Stone**      | Records a short phrase that can later be played back, just once.              |
 | **5** | **Spark Dust** | Ignites easily and quickly. Useful for starting a fire or as an incendiary device. 6 uses.           |
-| **6** | **Homunculus**       | A minature clay replica of yourself that follows your every command to the letter. It hates being enthralled to you and complains bitteraly whenever possible. Any damage done to the homunculus is also done to you. |
+| **6** | **Homunculus**       | A minature clay replica of yourself that follows your every command to the letter. It hates being enthralled to you and complains bitterly whenever possible. Any damage done to the homunculus is also done to you. |
