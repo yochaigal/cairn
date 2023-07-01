@@ -21,6 +21,7 @@ grand_parent: WIP
 - **Critical Damage** should be bold.
 - **Rations** should probably be bolded since they are an item. 
 - Phrases like **one step** should probably be bolded or _emphasized_
+- Spellbooks that get mentioned should have their definitions appear somewhere
 
 ### Principles (7)
 
@@ -73,4 +74,4 @@ grand_parent: WIP
 
 - No background was spared. Full replacements from folder (including blurbs and names)
 
-> Status: Finished up to and including Foundling
+> Status: Finished up to and including Half Witch
