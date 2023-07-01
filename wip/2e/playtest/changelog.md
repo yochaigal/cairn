@@ -29,6 +29,8 @@ grand_parent: WIP
 - Item size: why is petty and bulky underlined here?
 - Currency: do we need the last bullet?
 
+> Status: Finished
+
 ## Character Traits (15)
 
 - Need to update to NEW tables
@@ -44,10 +46,13 @@ grand_parent: WIP
 - Replace 19
 - See edits on 17/20
 
+> Status: finished
+
 ## Omens (19)
 
 - See edits on basically every line
 
+> Status: finished
 
 ## Equipment list (21)
 
