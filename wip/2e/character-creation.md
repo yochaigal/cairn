@@ -8,22 +8,20 @@ nav_exclude: true
 search_exclude: true
 ---
 
-# Character Creation
+# Character Creation Summary
 
 - Unless otherwise noted, every PC starts with a torch (3 uses), rations (3 uses), and 3d6 gold pieces.
 - First roll on the [Backgrounds](#backgrounds) table below. A PC’s background informs their potential knowledge and skills. You'll need to refer to the Background result for the next few steps.
 - Choose a name from the available list, then roll on each of the included tables in the background. Record your character's items, skills, or abilities gained (or lost) from each result. See [Inventory](#inventory) for how to record items.
-- Roll for your character's **Ability Scores** and **Hit Protection**.
-- Roll for the rest of your [**character's traits**](#character-traits-d10) and their **age** (2d20+10).
+- Roll for your character's [Ability Scores](#ability-scores) and [Hit Protection](#hit-protection).
+- Roll for the rest of your [character's traits](#character-traits-d10) and their **age** (2d20+10).
 - Finally, roll on the [Bonds](#bonds) table.      
 
-> Note: If you are the _youngest_ character, roll on the [Omens](#omens) table. The result should be read aloud to the rest of the table.
+> If you are the _youngest_ character, roll on the [Omens](#omens) table. The result should be read aloud to the rest of the table.
 
 ## Backgrounds
 
-- Some backgrounds may ask you to roll on the [Gear Tables](https://cairnrpg.com/wip/2e/equipment#gear-tables).
-- To roll on the table below, roll a **d6** twice, first for the **tens** place, and then another for the **ones** place. 
-- The backgrounds below are clickable!
+> Some backgrounds may ask you to roll on the [Gear Tables](https://cairnrpg.com/wip/2e/equipment#gear-tables).
 
 |         |                                                                       |
 | ------- | --------------------------------------------------------------------- |
@@ -57,7 +55,31 @@ search_exclude: true
 
 ## Hit Protection  
 
-Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**). If an attack takes a PC's HP exactly to 0, the player must roll on the [**Scars**](https://cairnrpg.com/cairn-srd#scars-1) table.
+- Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. 
+- HP does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**). 
+- If an attack takes a PC's HP exactly to 0, the player must roll on the [**Scars**](https://cairnrpg.com/cairn-srd#scars-1) table.
+
+## Inventory
+
+- Characters have a total of ten inventory slots, but can only carry four or five items comfortably without the help of bags, backpacks, horses, carts, etc.
+- Each PC starts with a **backpack** that can hold up to six slots. Carts (which must be pulled with both hands), horses, or mules can increase inventory. **Hirelings** can also be paid to carry equipment. 
+- Inventory is abstract, dependent only on the fiction as adjudicated by the Warden. When ten slots are filled, the character becomes _deprived_. A character cannot fill more than ten slots.
+
+### Item Size
+
+Most items take up one slot, unless otherwise indicated. 
+
+- _Petty_ items do not take up any slots. These items are rarely useful mechanically. 
+- _Bulky_ items take up two slots. Armor, two-handed weapons, treasure, and some Relics.
+- At the **Warden's** discretion, some smaller items (e.g. a deck of cards, dice) can be _bundled_ with one or more additional items, occupying only one slot.
+
+### Currency
+
+The most common coin is the gold piece (gp). 
+- A bag of coins worth less than 100gp is _petty_ and takes no slots.
+- Treasure is highly valuable, usually bulky, and rarely useful beyond its value. It can be a lure, taking PCs to exotic and even dangerous locations, and is often under the protection of intimidating foes.
+- Villages, strongholds, and ports of call barter and trade based on the local rarity and value of an item or commodity.
+
 
 ## Character Traits (d10)
 
@@ -193,25 +215,4 @@ Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects
 | **18**  | Statues throughout **The Cobbles** have been weeping tears of blood each month, and no babies have been born for a bit longer than the elders think possible. Save for one, whisked away by the authorities for its own safety.                                          |
 | **19**  | Local fauna are behaving oddly, with reports of animals acting out of character, displaying heightened aggression, or fleeing the area entirely. Hunters talk of a shadowy figure that roams **The Woods**, driving the animals mad.                                     |
 | **20**  | Border towns have become riotous in recent weeks, after multiple claims of a red-robed figure appearing in their children's dreams, uttering the same warning: A fire is coming, and it will consume them all.                                                           |
-
-## Inventory
-
-- Characters have a total of ten inventory slots, but can only carry four items comfortably without the help of bags, backpacks, horses, carts, etc.
-- Each PC starts with a **backpack** that can hold up to six slots. Carts (which must be pulled with both hands), horses, or mules can increase inventory. **Hirelings** can also be paid to carry equipment. 
-- Inventory is abstract, dependent only on the fiction as adjudicated by the Warden. When ten slots are filled, the character becomes _deprived_. A character cannot fill more than ten slots.
-
-### Item Size
-
-Most items take up one slot, unless otherwise indicated. 
-
-- _Petty_ items do not take up any slots. These items are rarely useful mechanically. 
-- _Bulky_ items take up two slots. Armor, two-handed weapons, treasure, and some Relics.
-- At the **Warden's** discretion, some smaller items (e.g. a deck of cards, dice) can be _bundled_ with one or more additional items, occupying only one slot.
-
-### Currency
-
-The most common coin is the gold piece (gp). 
-- A bag of coins worth less than 100gp is _petty_ and takes no slots.
-- Treasure is highly valuable, usually bulky, and rarely useful beyond its value. It can be a lure, taking PCs to exotic and even dangerous locations, and is often under the protection of intimidating foes.
-- Villages, strongholds, and ports of call barter and trade based on the local rarity and value of an item or commodity.
 
