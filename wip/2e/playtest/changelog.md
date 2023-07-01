@@ -74,4 +74,4 @@ grand_parent: WIP
 
 - No background was spared. Full replacements from folder (including blurbs and names)
 
-> Status: Finished up to and including Half Witch
+> Status: Finished up to and including Hexenbane
