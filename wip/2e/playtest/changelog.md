@@ -11,11 +11,16 @@ grand_parent: WIP
 
 ## Playtest packet 6-30-23
 
+### General notes 
+
+- _petty_, _bulky_, _blast_ should all be in italics
+- items in background tables should be **bolded**
+
 ### Principles (7)
 
 - Remove warden principles
 
-## Character Creation (13)
+### Character Creation (13)
 
 - Rename Character Creation header/title to Character Creation Summary?
 - Update grammar in first bullet
@@ -31,12 +36,12 @@ grand_parent: WIP
 
 > Status: Finished
 
-## Character Traits (15)
+### Character Traits (15)
 
 - Need to update to NEW tables
 - Need to remove reputation/misfortunes
 
-## Bonds (17)
+### Bonds (17)
 
 - Items should be bolded
 - Rewrite 1
@@ -48,16 +53,16 @@ grand_parent: WIP
 
 > Status: finished
 
-## Omens (19)
+### Omens (19)
 
 - See edits on basically every line
 
 > Status: finished
 
-## Equipment list (21)
+### Equipment list (21)
 
 - Possibly expand? We have the sapce for it. Could add some animals, maybe hirelings?
 
-## Backgrounds
+### Backgrounds
 
 - No background was spared. Full replacements from folder
