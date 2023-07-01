@@ -75,4 +75,4 @@ grand_parent: WIP
 - No background was spared. Full replacements from folder (including blurbs and names)
 - Kettlewright has a placeholder art stamp, and needs names
 
-> Status: Finished up to and including kettlewright
+> Status: Finished up to and including marchguard

@@ -30,7 +30,7 @@ Flint, Feather, Crier, Thunder, Falcon, Pluck, Needle, Warsong, Hawk, Cai
 | **3** | **Hunting**. When taking the [**Supply**](https://cairnrpg.com/wip/2e/wilderness-exploration/#supply) action your chance of finding **rations** increases by **one step** (e.g. 1d4 becomes 1d6).    |
 | **4** | **Tournaments**. Attacks with your bow are _enhanced_ if the target is immobile.                                                                                                                     |
 | **5** | **Training**. If you are the first to attack, melee attacks against you are _impaired_ until you take STR damage.                                                                                    |
-| **6** | **Scouting**. When taking the [**Travel**](https://cairnrpg.com/wip/2e/wilderness-exploration/#travel) action your presence decreases the chance of getting lost by one step (e.g. 1d6 becomes 1d4). |
+| **6** | **Scouting**. When taking the [**Travel**](https://cairnrpg.com/wip/2e/wilderness-exploration/#travel) action, your presence decreases the chance of getting lost by one step (e.g. 1d6 becomes 1d4). |
 
 ## What kind of wood is your bow made from? Roll 1d6:
 
@@ -40,5 +40,5 @@ Flint, Feather, Crier, Thunder, Falcon, Pluck, Needle, Warsong, Hawk, Cai
 | **2** | **Sessile Oak** (d8, _bulky_). Slams into targets. On **critical damage**, something is torn off.        |
 | **3** | **Stone Pine** (d6, _bulky_). Produces one use worth of sticky sap per day. It is highly explosive.      |
 | **4** | **White Ash** (d6, _bulky_). Can be used in place of a shield in melee combat (+1 Armor).                |
-| **5** | **Silverstripe Bamboo** (d6). Collapsible, it only requires one slot (but still requires both hands).    |
+| **5** | **Striped Bamboo** (d6). Collapsible, it only requires one slot (but still requires both hands).    |
 | **6** | **Wych Elm** (d6, _bulky_). Protects the bearer from poisons and toxins, so long as they are holding it. |
