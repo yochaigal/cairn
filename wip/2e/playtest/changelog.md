@@ -17,8 +17,10 @@ grand_parent: WIP
 - items in background tables should be **bolded**
 - **Fatigue** should be bolded.
 - **Recharge** should be bolded.
-- Spells should be (_italicized_)
+- Spells should be _italicized_
 - **Critical Damage** should be bold.
+- **Rations** should probably be bolded since they are an item. 
+- Phrases like **one step** should probably be bolded or _emphasized_
 
 ### Principles (7)
 
