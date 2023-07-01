@@ -15,6 +15,8 @@ grand_parent: WIP
 
 - _petty_, _bulky_, _blast_ should all be in italics
 - items in background tables should be **bolded**
+- **Fatigue** should be bolded.
+- **Recharge** should be bolded.
 
 ### Principles (7)
 
