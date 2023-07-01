@@ -18,6 +18,7 @@ grand_parent: WIP
 - **Fatigue** should be bolded.
 - **Recharge** should be bolded.
 - Spells should be (_italicized_)
+- **Critical Damage** should be bold.
 
 ### Principles (7)
 
