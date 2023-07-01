@@ -53,3 +53,6 @@ grand_parent: WIP
 
 - Possibly expand? We have the sapce for it. Could add some animals, maybe hirelings?
 
+## Backgrounds
+
+- No background was spared. Full replacements from folder
