@@ -17,6 +17,7 @@ grand_parent: WIP
 - items in background tables should be **bolded**
 - **Fatigue** should be bolded.
 - **Recharge** should be bolded.
+- Spells should be (_italicized_)
 
 ### Principles (7)
 
