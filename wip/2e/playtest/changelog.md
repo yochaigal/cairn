@@ -80,4 +80,7 @@ grand_parent: WIP
 ### Rules
 
 - Rename Basic Rules?
-- Combat: Add in example from FAQ (see)
+- Combat: Add in example from FAQ (see [here](https://cairnrpg.com/wip/more-faq/#how-does-initiative-in-combat-work))
+
+### Downtime
+- Cut downtime for now
