@@ -19,7 +19,7 @@ Flint, Feather, Crier, Thunder, Falcon, Pluck, Needle, Warsong, Hawk, Cai
 - Serrated knife (d6)
 - Boiled leather (1 Armor)
 - Wooden sight (_petty_)
-- Bandages (recover 1d4 STR)
+- Heartroot Salve (recover 1d4 STR)
 
 ## How did you earn your bow? Roll 1d6:
 
