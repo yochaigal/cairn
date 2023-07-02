@@ -50,19 +50,13 @@ grand_parent: WIP
 
 ### Bonds (17)
 
-- Items should be bolded
-- Rewrite 1
-- See edits on  4, 6, 8, 10
-- Replace 11
-- Remove cobbles reference from 13
-- Replace 19
-- See edits on 17/20
+- Updated/replaced/fixed Bonds
 
 > Status: finished
 
 ### Omens (19)
 
-- See edits on basically every line
+- Updated/replaced/fixed every Omens
 
 > Status: finished
 
@@ -81,6 +75,7 @@ grand_parent: WIP
 
 - Rename Basic Rules?
 - Combat: Add in example from FAQ (see [here](https://cairnrpg.com/wip/more-faq/#how-does-initiative-in-combat-work))
+- See updated [equipment](https://cairnrpg.com/wip/2e/equipment/) page (esp example)
 
 ### Downtime
 - Cut downtime for now
