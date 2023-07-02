@@ -38,8 +38,6 @@ search_exclude: true
 | **10**  | [Half-Witch](https://cairnrpg.com/wip/backgrounds/half-witch)         | **20**  | [Scriviner](https://cairnrpg.com/wip/backgrounds/scriviner)       |
 
 
-
-
 ## Ability Scores  
 
 - Player Characters (PCs) have just three attributes: **Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**.
