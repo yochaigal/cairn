@@ -9,7 +9,7 @@ grand_parent: WIP
 
 # Mountebank
 
-> Wits are your sharpest weapon, a facade the strongest shield. But when you do lose, you lose badly. 
+> Wits are your sharpest weapon, and a facade your strongest shield. But when you do lose, you lose badly. 
 
 ## Names
 
@@ -17,8 +17,8 @@ Montague, Ambrose, Lucius, Sterling, Beauregard, Cornelius, Percival, Crispin, A
 
 ## Starting Gear
 
-- Cart (+4 slots, _bulky_ when carried)
-- Playing cards (tricked)
+- Cart (+4 slots, _bulky_ when pulled)
+- Trick playing cards 
 - Fancy hat (_petty_)
 - Cane sword (d6)
 
