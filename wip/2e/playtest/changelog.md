@@ -76,3 +76,8 @@ grand_parent: WIP
 - Kettlewright has a placeholder art stamp, and needs names
 
 > Status: Finished ALL backgrounds!
+
+### Rules
+
+- Rename Basic Rules?
+- Combat: Add in example from FAQ (see)
