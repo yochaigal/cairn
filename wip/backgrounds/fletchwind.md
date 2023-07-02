@@ -37,7 +37,7 @@ Flint, Feather, Crier, Thunder, Falcon, Pluck, Needle, Warsong, Hawk, Cai
 |       |                                                                                                          |
 | ----- | -------------------------------------------------------------------------------------------------------- |
 | **1** | **Western Yew** (d6, _bulky_). Can be wielded as a blunt weapon (d6). Noisy.                             |
-| **2** | **Sessile Oak** (d8, _bulky_). Slams into targets. On **critical damage**, something is torn off.        |
+| **2** | **Sessile Oak** (d8, _bulky_). Slams into targets. On ****, something is torn off.        |
 | **3** | **Stone Pine** (d6, _bulky_). Produces one use worth of sticky sap per day. It is highly explosive.      |
 | **4** | **White Ash** (d6, _bulky_). Can be used in place of a shield in melee combat (+1 Armor).                |
 | **5** | **Striped Bamboo** (d6). Collapsible, it only requires one slot (but still requires both hands).    |

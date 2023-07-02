@@ -19,7 +19,7 @@ Gann, Light, Gale, Frost, Thorn, Reed, Flint, Brook, Brie, Aasim
 
 - Lantern (bulky)
 - Oil can (6 uses)
-- Long sword (d8, _bulky_)
+- Long sword (d10, _bulky_)
 - Boiled leather (1 Armor)
 
 ## Why did you take the Oath?

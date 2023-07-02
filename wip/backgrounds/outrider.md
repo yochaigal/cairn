@@ -17,7 +17,7 @@ Drake, Cyra, Keir, Darius, Valen, Rorik, Yara, Rui, Talon, Jory
 
 ## Starting Gear
 
-- Longsword (d8, _bulky_)
+- Long sword (d10, _bulky_)
 - Leather jerkin (1 Armor)
 - Crossbow (d8, _bulky_)
 - Spyglass

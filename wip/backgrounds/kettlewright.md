@@ -30,7 +30,7 @@ Fergus, Eamon, Bram, Idris, Elara, Darragh, Seren, Rónán, Berek, Lorenz
 | **2** | You deal in home goods and tools, hawking your wares to townspeople across the lands. Roll on the **trinkets** table twice. You are fluent in the _Traveller's Cant_.                  |
 | **3** | You were a military smelter, before peace destroyed your livelihood. Take a **smelting hammer** (d10, _bulky_) and a **tin helm** (+1 Armor). Given time and adequete materials, you can repair armor.                       |
 | **4** | You sell rare and quality items to monastaries and nobles alike. Take a **spyglass**, a **necklace** (_petty_) worth 20gp, and a scroll of [Mirrorwalk](https://cairnrpg.com/cairn-srd/#100-spells). |
-| **5** | You offer protection as a service, quietly watching for threats while money exchanged hands. You start with +d4 HP, and carry a **long sword** (d10, bulky) and a **brigandine** (1 Armor, bulky).                 |
+| **5** | You offer protection as a service, quietly watching for threats while money exchanged hands. You start with +d4 HP, and carry a **long sword** (d10, _bulky_) and a **brigandine** (1 Armor, bulky).                 |
 | **6** | You scavenge rraw tin and iron from battlefields, pulling teeth from still-twitching corpses. Start with a young **donkey** (+4 slots, slow), a **crossbow** (d8 damage, _bulky_), and a **saw** (d6).                                   |
 
 ## What never fails to get you out of trouble? Roll 1d6:
