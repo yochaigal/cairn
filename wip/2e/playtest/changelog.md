@@ -18,15 +18,16 @@ grand_parent: WIP
 
 ### Equipment changes
 
-- Added massive equipment table. It could now be a d100 table, if we wish. 
 - Added marketplace tables!
 - Created document called marketplace
 - Moved equipment rules to core rules
 - Cleaned up character creation
+- Fixed marketplace (it is alphabetical now)
+- Added _petty_ tags to some items
 
 ### Backgrounds Changes
 - Added _petty_ tag to scrolls (cutpurse, kettlewright, mountebank)
-- Fixed gear table references
+- Fixed gear table references (kettlewright, rill-runner)
 
 ## Playtest packet 6-30-23
 
