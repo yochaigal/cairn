@@ -28,10 +28,16 @@ grand_parent: WIP
 ### Character creation changes
 
 - Simplified summary
+- Added scars reference
 
 ### Backgrounds Changes
 - Added _petty_ tag to scrolls (cutpurse, kettlewright, mountebank)
 - Fixed gear table references (kettlewright, rill-runner)
+
+### Core Rules
+
+- Collapsed currency into Inventory
+- Added Scars 
 
 ## Playtest packet 6-30-23
 

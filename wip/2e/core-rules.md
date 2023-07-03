@@ -28,6 +28,26 @@ Each of the three **abilities** are used in different circumstances (see **saves
 - Ability loss (see **Critical Damage**) can usually be restored with a week's rest, facilitated by a healer or other appropriate source of expertise. 
 - Some healing services are free, while magical or more expedient means of recovery may come at a cost.
 
+## Scars
+
+When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look up the result on the table below based on the total damage taken:
+
+|     |                                                                                                                                                                                                                           |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Lasting Scar: Roll 1d6 &#124; 1: Neck, 2: Hands, 3: Eye, 4: Chest, 5: Legs, 6: Ear. Roll 1d6. If the total is higher than your max HP, take the new result.                                                               |
+| 2   | Rattling Blow: You’re disoriented and shaken. Describe how you refocus. Roll 1d6. If the total is higher than your max HP, take the new result.                                                                           |
+| 3   | Walloped: You’re sent flying and land flat on your face, winded. You are deprived until you rest for a few hours. Then, roll 1d6. Add that amount to your max HP.                                                         |
+| 4   | Broken Limb: Roll 1d6 &#124; 1-2: Leg, 3-4: Arm, 5: Rib, 6: Skull. Once mended, roll 2d6. If the total is higher than your max HP, take the new result.                                                                   |
+| 5   | Diseased: You’re afflicted with a gross, uncomfortable infection. When you get over it, roll 2d6. If the total is higher than your max HP, take the new result.                                                           |
+| 6   | Reorienting Head Wound: Roll 1d6 &#124; 1-2: STR, 3-4: DEX, 5-6: WIL. Roll 3d6. If the total is higher than your current ability score, take the new result.                                                              |
+| 7   | Hamstrung: You can barely move until you get serious help and rest. After recovery, roll 3d6. If the total is higher than your max DEX, take the new result.                                                              |
+| 8   | Deafened: You cannot hear anything until you find extraordinary aid. Regardless, make a WIL save. If you pass, increase your max WIL by 1d4.                                                                              |
+| 9   | Re-brained: Some hidden part of your psyche is knocked loose. Roll 3d6. If the total is higher than your max WIL, take the new result.                                                                                    |
+| 10  | Sundered: An appendage is torn off, crippled or useless. The Warden will tell you which. Then, make a WIL save. If you pass, increase your max WIL by 1d6.                                                                |
+| 11  | Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max HP.                                                                         |
+| 12  | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result. |
+
+
 ## Deprivation & Fatigue
 - A PC **deprived** of a crucial need (such as food or rest) is unable to recover HP or ability scores. 
 - Anyone deprived for more than a day adds **Fatigue** to their inventory, one for each day. Each Fatigue occupies one slot and lasts until they are able to recuperate (such as a full night's rest in a safe spot). 
@@ -59,32 +79,11 @@ When the PCs encounter an NPC whose reaction to the party is not obvious, the Wa
 - To create a hireling, roll 3d6 for each ability score, then give them 1d6 HP and a simple weapon (d6), then roll on the [**Character Creation**](/wip/2e/character-creation#character-creation-summary) tables to further flesh them out. 
 - Hirelings cost between 1-3gp per day, or a share of whatever treasure the party obtains.
 
-# Equipment
-
-## Size
+## Inventory
 
 - Most items take up one slot, unless otherwise indicated. 
-- _Petty_ items do not take up any slots. These items are rarely useful mechanically. 
-- _Bulky_ items take up two slots. Armor, two-handed weapons, treasure, and some Relics.
-
-## Currency
-
-- The most common coin is the gold piece (gp). 
+- _Petty_ items do not take up any slots. _Bulky_ items take up **two** slots. 
 - A bag of coins worth less than 100gp is _petty_ and does not occupy a slot.
-- Treasure is highly valuable, usually _bulky_, and rarely useful beyond its value. It can be a lure, taking PCs to exotic and even dangerous locations, and is often under the protection of intimidating foes.
-
-### Example
-
-The following PC has used 7 of 10 available slots. The Chalk and Net are bundled together in one slot.
-
-- 62gp
-- Rations (3 uses)
-- Lantern (_bulky_, 6 uses)
-- Oil can
-- Sword (d6)
-- Gambeson (+1 Armor)
-- Chalk + Net 
-- Scarf (_petty_)
 
 ## Magic
 

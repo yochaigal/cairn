@@ -51,7 +51,7 @@ search_exclude: true
 
 - Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. 
 - HP does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**). 
-- If an attack takes a PC's HP exactly to 0, the player must roll on the [**Scars**](https://cairnrpg.com/cairn-srd#scars-1) table.
+- If an attack takes a PC's HP exactly to 0, the player must roll on the [**Scars**](https://cairnrpg.com/wip/2e/core-rules#scars) table.
 
 ## Inventory
 
