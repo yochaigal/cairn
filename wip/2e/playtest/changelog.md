@@ -26,6 +26,7 @@ grand_parent: WIP
 
 ### Backgrounds Changes
 - Added _petty_ tag to scrolls (cutpurse, kettlewright, mountebank)
+- Fixed gear table references
 
 ## Playtest packet 6-30-23
 
