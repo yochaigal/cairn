@@ -18,7 +18,8 @@ grand_parent: WIP
 
 ### Equipment changes
 
-- Added massive equipment table. It's at 62 entries. 
+- Added massive equipment table. It's now a d100 table, if we wish. 
+- Added marketplace tables!
 
 ### Backgrounds Changes
 - Added _petty_ tag to scrolls (cutpurse, kettlewright, mountebank)
