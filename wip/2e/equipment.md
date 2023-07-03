@@ -127,6 +127,7 @@ The following PC has used 7 of 10 available slots. The Chalk and Net are bundled
 | Ship's passage           | 10  |
 
 ### Hospitality
+
 |                       |     |
 | --------------------- | --- |
 | Simple meal           | 5   |
