@@ -9,6 +9,20 @@ grand_parent: WIP
 
 # Changelog
 
+## Playtest packet 7-2-23
+
+### General notes
+
+- Spellbooks should probably be described in each background
+- Added a "[core rules](/wip/2e/core-rules.md)" document
+
+### Equipment changes
+
+- Added massive equipment table. It's at 62 entries. 
+
+### Backgrounds Changes
+- Added _petty_ tag to scrolls (cutpurse, kettlewright, mountebank)
+
 ## Playtest packet 6-30-23
 
 ### General notes 

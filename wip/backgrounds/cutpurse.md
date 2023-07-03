@@ -29,7 +29,7 @@ Sable, Lyra, Eamon, Salina, Elara, Freya, Isolde, Sparrow, Ivy, Silas
 | **1** | A noble's summer home. The place was full of fancy wine (+20gp) but not much else. Take **fence cutters**.                                              |
 | **2** | A bank (you were caught). You bear a brand only visible by firelight, and anyone that sees the mark can ask you for a beer. Take **retractable wires**. |
 | **3** | A guild warehouse. Take a **ladder** (_bulky_, 10ft) and **blinding powder**.                                                                           |
-| **4** | Moneylender. Someone beat you to the job, but left behind a **scroll** of _Arcane Eye_.                                                                 |
+| **4** | Moneylender. Someone beat you to the job, but left behind a **scroll** of _Arcane Eye_ (_petty_).                                                                 |
 | **5** | Constable's quarters. You escaped, but left some friends behind. Take **strong silk rope** and a queasy feeling.                                        |
 | **6** | A university. You were seen, but not pursued. You still don't know why. Take **smoke pellets** (3 uses).                                                |
 
