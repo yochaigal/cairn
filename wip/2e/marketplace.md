@@ -94,18 +94,18 @@ search_exclude: true
 | Horse (+4 slots)         | 75  |
 | Mule (+6 slots, slow)    | 30  |
 | Carriage seat            | 5   |
-| Canoe (fits 3)           | 150 |
 | Ship's passage           | 10  |
 
 ## Hospitality
 
-|                       |     |
-| --------------------- | --- |
-| Simple meal           | 5   |
-| Extravagent meal      | 20  |
-| Bed                   | 5   |
-| Private room (fits 4) | 25  |
-| Stable & feed         | 5   |
+|                           |     |
+| ------------------------- | --- |
+| Room & board (per night)  | 10  |
+| Private room (fits 4)     | 5   |
+| Stable & feed (per night) | 5   |
+| Medical healing           | 50  |
+| Spiritual Healing         | 30  |
+| Hot bath                  | 1   |
 
 ## Hirelings (per day)
 

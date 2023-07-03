@@ -13,7 +13,6 @@ grand_parent: WIP
 
 ### General notes
 
-- Spellbooks should probably be described in each background
 - Added a "[core rules](/wip/2e/core-rules)" document
 
 ### Equipment changes
@@ -24,11 +23,13 @@ grand_parent: WIP
 - Cleaned up character creation
 - Fixed marketplace (it is alphabetical now)
 - Added _petty_ tags to some items
+- 
 
 ### Character creation changes
 
 - Simplified summary
 - Added scars reference
+- Fixed some language
 
 ### Backgrounds Changes
 - Added _petty_ tag to scrolls (cutpurse, kettlewright, mountebank)
@@ -36,7 +37,7 @@ grand_parent: WIP
 
 ### Core Rules
 
-- Collapsed currency into Inventory
+- Collapsed currency into "Inventory Slots"
 - Added Scars 
 
 ## Playtest packet 6-30-23

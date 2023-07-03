@@ -22,7 +22,7 @@ search_exclude: true
 
 - Roll for your character's [Ability Scores](#ability-scores) and [Hit Protection](#hit-protection).
 - Roll for the rest of your [character's traits](#character-traits-d10), and then on the the [Bonds](#bonds) table. 
-- Finally, roll for your character's **age** (2d20+10). If you are the _youngest_ character, roll on the [Omens](#omens) table. The result should be read aloud to the rest of the table.
+- Finally, roll for your character's **age** (2d20+10). If you are the _youngest_ character, roll on the [Omens](#omens) table. The result should be read aloud to the other players.
 
 ## Backgrounds
 
