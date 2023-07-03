@@ -35,54 +35,54 @@ search_exclude: true
 
 ## Gear
 
-|                      |     |                      |     |
-| -------------------- | --- | -------------------- | --- |
-| Air bladder          | 5   | Mirror               | 5   |
-| Antitoxin            | 20  | Mortar & pestle      | 10  |
-| Bandages (3 uses)    | 30  | Nails (5)            | 5   |
-| Bell                 | 10  | Net                  | 10  |
-| Bellows              | 10  | Oil (6 uses)         | 10  |
-| Blanket              | 5   | Oilskin bag          | 5   |
-| Book                 | 50  | Padlock & key        | 15  |
-| Bottle               | 2   | Paint & brush        | 10  |
-| Bucket               | 5   | Parchment (3 uses)   | 10  |
-| Caltrops             | 10  | Perfume              | 30  |
-| Card deck            | 5   | Pick                 | 10  |
-| Chain (10ft)         | 10  | Pole (10ft)          | 5   |
-| Chalk (petty)        | 1   | Poncho (petty)       | 15  |
-| Chest                | 25  | Pulley               | 10  |
-| Chisel               | 5   | Quill & ink          | 10  |
-| Compass              | 75  | Repellent            | 20  |
-| Cook pots            | 10  | Rope (25ft)          | 5   |
-| Crowbar              | 10  | Sack                 | 5   |
-| Dice set (petty)     | 5   | Salt pack            | 1   |
-| Dowsing rod          | 15  | Saw                  | 5   |
-| Drill                | 10  | Scissors             | 30  |
-| Face paint           | 10  | Sealant              | 10  |
-| Fake jewels          | 15  | Sedative             | 30  |
-| Fire oil             | 10  | Sewing kit           | 20  |
-| Fishing rod          | 10  | Shovel               | 10  |
-| Gloves (petty)       | 20  | Smoking pipe (petty) | 15  |
-| Glue                 | 5   | Soap                 | 1   |
-| Grappling hook       | 25  | Spike                | 5   |
-| Grease               | 10  | Spiked boots         | 5   |
-| Hammock              | 10  | Spyglass             | 40  |
-| Hammer               | 5   | Tar pot              | 25  |
-| Horn                 | 10  | Tent (fits 2, bulky) | 20  |
-| Horse shoes          | 10  | Tinderbox            | 5   |
-| Hourglass            | 50  | Tongs                | 10  |
-| Incense              | 10  | Torch (3 uses)       | 5   |
-| Iron poker           | 5   | Trowel               | 10  |
-| Ladder (10ft, bulky) | 10  | Trap (d6 STR damage) | 35  |
-| Lantern              | 10  | Travelling clothes   | 20  |
-| Large sack           | 2   | Twine                | 5   |
-| Leather straps       | 5   | Waterskin (petty)    | 5   |
-| Lens                 | 10  | Wax                  | 2   |
-| Lockpicks            | 25  | Whetstone            | 10  |
-| Lute                 | 100 | Whistle (petty)      | 15  |
-| Manacles             | 10  | Wheelbarrow          | 10  |
-| Marbles              | 5   | Wolfsbane            | 10  |
-| Metal file           | 5   | Wooden stake         | 1   |
+|                        |     |                        |     |
+| ---------------------- | --- | ---------------------- | --- |
+| Air bladder            | 5   | Mirror                 | 5   |
+| Antitoxin              | 20  | Mortar & pestle        | 10  |
+| Bandages (3 uses)      | 30  | Nails (5)              | 5   |
+| Bell                   | 10  | Net                    | 10  |
+| Bellows                | 10  | Oil (6 uses)           | 10  |
+| Blanket                | 5   | Oilskin bag            | 5   |
+| Book                   | 50  | Padlock & key          | 15  |
+| Bottle                 | 2   | Paint & brush          | 10  |
+| Bucket                 | 5   | Parchment (3 uses)     | 10  |
+| Caltrops               | 10  | Perfume                | 30  |
+| Card deck              | 5   | Pick                   | 10  |
+| Chain (10ft)           | 10  | Pole (10ft)            | 5   |
+| Chalk (_petty_)        | 1   | Poncho (_petty_)       | 15  |
+| Chest                  | 25  | Pulley                 | 10  |
+| Chisel                 | 5   | Quill & ink            | 10  |
+| Compass                | 75  | Repellent              | 20  |
+| Cook pots              | 10  | Rope (25ft)            | 5   |
+| Crowbar                | 10  | Sack                   | 5   |
+| Dice set (_petty_)     | 5   | Salt pack              | 1   |
+| Dowsing rod            | 15  | Saw                    | 5   |
+| Drill                  | 10  | Scissors               | 30  |
+| Face paint             | 10  | Sealant                | 10  |
+| Fake jewels            | 15  | Sedative               | 30  |
+| Fire oil               | 10  | Sewing kit             | 20  |
+| Fishing rod            | 10  | Shovel                 | 10  |
+| Gloves (_petty_)       | 20  | Smoking pipe (_petty_) | 15  |
+| Glue                   | 5   | Soap                   | 1   |
+| Grappling hook         | 25  | Spike                  | 5   |
+| Grease                 | 10  | Spiked boots           | 5   |
+| Hammock                | 10  | Spyglass               | 40  |
+| Hammer                 | 5   | Tar pot                | 25  |
+| Horn                   | 10  | Tent (fits 2, _bulky_) | 20  |
+| Horse shoes            | 10  | Tinderbox              | 5   |
+| Hourglass              | 50  | Tongs                  | 10  |
+| Incense                | 10  | Torch (3 uses)         | 5   |
+| Iron poker             | 5   | Trowel                 | 10  |
+| Ladder (10ft, _bulky_) | 10  | Trap (d6 STR damage)   | 35  |
+| Lantern                | 10  | Travelling clothes     | 20  |
+| Large sack             | 2   | Twine                  | 5   |
+| Leather straps         | 5   | Waterskin (_petty_)    | 5   |
+| Lens                   | 10  | Wax                    | 2   |
+| Lockpicks              | 25  | Whetstone              | 10  |
+| Lute                   | 100 | Whistle (_petty_)      | 15  |
+| Manacles               | 10  | Wheelbarrow            | 10  |
+| Marbles                | 5   | Wolfsbane              | 10  |
+| Metal file             | 5   | Wooden stake           | 1   |
 
 
 ## Transport
