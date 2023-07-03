@@ -1,47 +1,17 @@
 ---
 layout: default
-title: Equipment
+title: Marketplace
 grand_parent: WIP
 parent: 2e
 nav_exclude: true
 search_exclude: true
 ---
 
-# Equipment
-
-## Size
-
-Most items take up one slot, unless otherwise indicated. 
-
-- _Petty_ items do not take up any slots. These items are rarely useful mechanically. 
-- __bulky__ items take up two slots. Armor, two-handed weapons, treasure, and some Relics.
-- At the **Warden's** discretion, some smaller items (e.g. a deck of cards, dice) can be _bundled_ with one or more additional items, occupying only one slot.
-
-## Currency
-
-The most common coin is the gold piece (gp). 
-- A bag of coins worth less than 100gp is _petty_ and takes no slots.
-- Treasure is highly valuable, usually _bulky_, and rarely useful beyond its value. It can be a lure, taking PCs to exotic and even dangerous locations, and is often under the protection of intimidating foes.
-- Villages, strongholds, and ports of call will barter and trade based on the local rarity and value of an item or commodity.
-
-### Example
-
-The following PC has used 7 of 10 available slots. The Chalk and Net are bundled together in one slot.
-
-- 62gp
-- Rations (3 uses)
-- Lantern (__bulky__, 6 uses)
-- Oil can
-- Sword (d6)
-- Gambeson (+1 Armor)
-- Chalk + Net 
-- Scarf (_petty_)
-
-## Marketplace 
+# Marketplace 
 
 > All prices are in gold pieces  
 
-### Armor
+## Armor
 
 |                               |     |
 | ----------------------------- | --- |
@@ -52,7 +22,7 @@ The following PC has used 7 of 10 available slots. The Chalk and Net are bundled
 | Chainmail (2 Armor, _bulky_)  | 40  |
 | Plate (3 Armor, _bulky_)      | 60  |
 
-### Weapons
+## Weapons
 
 |                                                              |     |
 | ------------------------------------------------------------ | --- |
@@ -63,7 +33,7 @@ The following PC has used 7 of 10 available slots. The Chalk and Net are bundled
 | Bow  (d6  damage, _bulky_)                                   | 20  |
 | Crossbow (d8  damage, _bulky_)                               | 30  |
 
-### Gear
+## Gear
 
 |                         |     |                        |     |
 | ----------------------- | --- | ---------------------- | --- |
@@ -114,7 +84,7 @@ The following PC has used 7 of 10 available slots. The Chalk and Net are bundled
 | Whistle                 | 15  | Wheelbarrow            | 10  |
 | Wolfsbane               | 10  | Wooden stake           | 1   |
 
-### Transport
+## Transport
 
 |                          |     |
 | ------------------------ | --- |
@@ -126,7 +96,7 @@ The following PC has used 7 of 10 available slots. The Chalk and Net are bundled
 | Canoe (fits 3)           | 150 |
 | Ship's passage           | 10  |
 
-### Hospitality
+## Hospitality
 
 |                       |     |
 | --------------------- | --- |
@@ -136,7 +106,7 @@ The following PC has used 7 of 10 available slots. The Chalk and Net are bundled
 | Private room (fits 4) | 25  |
 | Stable & feed         | 5   |
 
-### Hirelings (per day)
+## Hirelings (per day)
 
 |                   |     |
 | ----------------- | --- |

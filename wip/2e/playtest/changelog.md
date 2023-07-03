@@ -14,12 +14,14 @@ grand_parent: WIP
 ### General notes
 
 - Spellbooks should probably be described in each background
-- Added a "[core rules](/wip/2e/core-rules.md)" document
+- Added a "[core rules](/wip/2e/core-rules)" document
 
 ### Equipment changes
 
-- Added massive equipment table. It's now a d100 table, if we wish. 
+- Added massive equipment table. It could now be a d100 table, if we wish. 
 - Added marketplace tables!
+- Created document called marketplace
+- Moved equipment rules to core rules
 
 ### Backgrounds Changes
 - Added _petty_ tag to scrolls (cutpurse, kettlewright, mountebank)
