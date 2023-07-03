@@ -22,6 +22,7 @@ grand_parent: WIP
 - Added marketplace tables!
 - Created document called marketplace
 - Moved equipment rules to core rules
+- Cleaned up character creation
 
 ### Backgrounds Changes
 - Added _petty_ tag to scrolls (cutpurse, kettlewright, mountebank)

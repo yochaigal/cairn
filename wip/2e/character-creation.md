@@ -8,20 +8,23 @@ nav_exclude: true
 search_exclude: true
 ---
 
-# Character Creation Summary
+# Character Creation 
 
-- Unless otherwise noted, every PC starts with a torch (3 uses), rations (3 uses), and 3d6 gold pieces.
-- First roll on the [Backgrounds](#backgrounds) table below. A PC’s background informs their potential knowledge and skills. You'll need to refer to the Background result for the next few steps.
-- Choose a name from the available list, then roll on each of the included tables in the background. Record your character's items, skills, or abilities gained (or lost) from each result. See [Inventory](#inventory) for how to record items.
+> Unless otherwise noted, every PC starts with a Torch (3 uses), Rations (3 uses), and 3d6 gold pieces. Some backgrounds may ask you to refer to tables on the [Marketplace](https://cairnrpg.com/wip/2e/marketplace) as well.
+
+### Roll or choose a Background
+
+- First, roll on the [Backgrounds](#backgrounds) table below. You'll also need to refer to the Background result for the next few steps.
+- Choose a name from the available list, then roll on each of the included tables in the background. Record your character's items, skills, or abilities from each result. 
+- See the [core rules](/wip/2e/#core-rules/#equipment) for how to record items. 
+
+### Ability Scores, HP & Traits
+
 - Roll for your character's [Ability Scores](#ability-scores) and [Hit Protection](#hit-protection).
-- Roll for the rest of your [character's traits](#character-traits-d10) and their **age** (2d20+10).
-- Finally, roll on the [Bonds](#bonds) table.      
-
-> If you are the _youngest_ character, roll on the [Omens](#omens) table. The result should be read aloud to the rest of the table.
+- Roll for the rest of your [character's traits](#character-traits-d10), and then on the the [Bonds](#bonds) table. 
+- Finally, roll for your character's **age** (2d20+10). If you are the _youngest_ character, roll on the [Omens](#omens) table. The result should be read aloud to the rest of the table.
 
 ## Backgrounds
-
-> Some backgrounds may ask you to roll on the [Gear Tables](https://cairnrpg.com/wip/2e/equipment#gear-tables).
 
 |         |                                                                       |         |                                                                   |
 | ------- | --------------------------------------------------------------------- | ------- | ----------------------------------------------------------------- |
@@ -53,18 +56,8 @@ search_exclude: true
 ## Inventory
 
 - Characters have a total of ten inventory slots, but can only carry four or five items comfortably without the help of bags, backpacks, horses, carts, etc.
-- Each PC starts with a **backpack** that can hold up to six slots. Carts (which must be pulled with both hands), horses, or mules can increase inventory. **Hirelings** can also be paid to carry equipment. 
+- Each PC starts with a **backpack** that can hold up to six slots. Carts (which must be pulled with both hands), horses, or mules can make a uge difference in how much a PC can bring with them on an adventure. **Hirelings** can also be paid to carry equipment. 
 - Inventory is abstract, dependent only on the fiction as adjudicated by the Warden. When ten slots are filled, the character becomes _deprived_. A character cannot fill more than ten slots.
-
-### Item Size
-
-Most items take up one slot, unless otherwise indicated. 
-
-- _Petty_ items do not take up any slots. These items are rarely useful mechanically. 
-- _Bulky_ items take up two slots. Armor, two-handed weapons, treasure, and some Relics.
-- At the **Warden's** discretion, some smaller items (e.g. a deck of cards, dice) can be _bundled_ with one or more additional items, occupying only one slot.
-
-> A bag of coins worth less than 100gp is _petty_ and takes no slots.
 
 ## Character Traits (d10)
 
