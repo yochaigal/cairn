@@ -79,7 +79,7 @@ When the PCs encounter an NPC whose reaction to the party is not obvious, the Wa
 - To create a hireling, roll 3d6 for each ability score, then give them 1d6 HP and a simple weapon (d6), then roll on the [**Character Creation**](/wip/2e/character-creation#character-creation-summary) tables to further flesh them out. 
 - Hirelings cost between 1-3gp per day, or a share of whatever treasure the party obtains.
 
-## Inventory
+## Inventory Slots
 
 - Most items take up one slot, unless otherwise indicated. 
 - _Petty_ items do not take up any slots. _Bulky_ items take up **two** slots. 
