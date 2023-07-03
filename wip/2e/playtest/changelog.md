@@ -9,7 +9,7 @@ grand_parent: WIP
 
 # Changelog
 
-## Playtest packet 7-2-23
+## Playtest packet 7-2-23 changes
 
 ### General notes
 
@@ -24,6 +24,10 @@ grand_parent: WIP
 - Cleaned up character creation
 - Fixed marketplace (it is alphabetical now)
 - Added _petty_ tags to some items
+
+### Character creation changes
+
+- Simplified summary
 
 ### Backgrounds Changes
 - Added _petty_ tag to scrolls (cutpurse, kettlewright, mountebank)
