@@ -37,7 +37,9 @@ The following PC has used 7 of 10 available slots. The Chalk and Net are bundled
 - Chalk + Net 
 - Scarf (_petty_)
 
-## Marketplace (Prices in Gold Pieces)  
+## Marketplace 
+
+> All prices are in gold pieces  
 
 ### Armor
 
@@ -63,54 +65,54 @@ The following PC has used 7 of 10 available slots. The Chalk and Net are bundled
 
 ### Gear
 
-|                        |     |                        |     |
-| ---------------------- | --- | ---------------------- | --- |
-| Air bladder            | 5   | Antitoxin              | 20  |
-| Bandages (3 uses)      | 30  | Bell                   | 10  |
-| Bellows                | 10  | Blanket                | 5   |
-| Book                   | 50  | Bottle                 | 2   |
-| Bucket                 | 5   | Caltrops               | 10  |
-| Card deck              | 5   | Chain (10ft)           | 10  |
-| Chalk                  | 1   | Chest                  | 25  |
-| Chisel                 | 5   | Compass                | 75  |
-| Cook pots              | 10  | Crowbar                | 10  |
-| Dice set               | 5   | Dowsing rod            | 15  |
-| Drill (manual)         | 10  | Face paint             | 10  |
-| Fake jewels            | 15  | Fire oil               | 10  |
-| Fishing rod            | 10  | Gloves                 | 20  |
-| Glue                   | 5   | Grappling hook         | 25  |
-| Grease                 | 10  | Hammock                | 10  |
-| Hammer                 | 5   | Horn                   | 10  |
-| Horse shoes            | 10  | Hourglass              | 50  |
-| Incense                | 10  | Iron poker             | 5   |
-| Ladder (10ft, _bulky_) | 10  | Lantern                | 10  |
-| Large sack             | 2   | Leather straps         | 5   |
-| Lens                   | 10  | Lockpicks              | 25  |
-| Lute                   | 100 | Manacles               | 10  |
-| Marbles                | 5   | Metal file             | 5   |
-| Mirror                 | 5   | Mortar & pestle        | 10  |
-| Nail                   | 1   | Net                    | 10  |
-| Oil (6 uses)           | 10  | Oilskin bag            | 5   |
-| Padlock & key          | 15  | Paint & brush          | 10  |
-| Parchment (3 uses)     | 10  | Perfume                | 30  |
-| Pick                   | 10  | Pole (10ft)            | 5   |
-| Pouch                  | 5   | Pulley                 | 10  |
-| Quill & ink            | 10  | Repellent              | 20  |
-| Rope (25ft)            | 5   | Sack                   | 5   |
-| Salt pack              | 1   | Saw                    | 5   |
-| Scissors               | 30  | Sealant                | 10  |
-| Sedative               | 30  | Sewing kit             | 20  |
-| Shovel                 | 10  | Smoking pipe           | 15  |
-| Soap                   | 1   | Spike                  | 5   |
-| Spiked boots           | 5   | Spyglass               | 40  |
-| Tar pot                | 25  | Tent (fits 2, _bulky_) | 20  |
-| Tinderbox              | 5   | Tongs                  | 10  |
-| Torch (3 uses)         | 5   | Trowel                 | 10  |
-| Trapped (d6 STR damage)| 35  | Travelling clothes     | 20  |
-| Twine                  | 5   | Waterskin              | 5   |
-| Wax                    | 2   | Whetstone              | 10  |
-| Whistle                | 15  | Wheelbarrow            | 10  |
-| Wolfsbane              | 10  | Wooden stake           | 1   |
+|                         |     |                        |     |
+| ----------------------- | --- | ---------------------- | --- |
+| Air bladder             | 5   | Antitoxin              | 20  |
+| Bandages (3 uses)       | 30  | Bell                   | 10  |
+| Bellows                 | 10  | Blanket                | 5   |
+| Book                    | 50  | Bottle                 | 2   |
+| Bucket                  | 5   | Caltrops               | 10  |
+| Card deck               | 5   | Chain (10ft)           | 10  |
+| Chalk                   | 1   | Chest                  | 25  |
+| Chisel                  | 5   | Compass                | 75  |
+| Cook pots               | 10  | Crowbar                | 10  |
+| Dice set                | 5   | Dowsing rod            | 15  |
+| Drill (manual)          | 10  | Face paint             | 10  |
+| Fake jewels             | 15  | Fire oil               | 10  |
+| Fishing rod             | 10  | Gloves                 | 20  |
+| Glue                    | 5   | Grappling hook         | 25  |
+| Grease                  | 10  | Hammock                | 10  |
+| Hammer                  | 5   | Horn                   | 10  |
+| Horse shoes             | 10  | Hourglass              | 50  |
+| Incense                 | 10  | Iron poker             | 5   |
+| Ladder (10ft, _bulky_)  | 10  | Lantern                | 10  |
+| Large sack              | 2   | Leather straps         | 5   |
+| Lens                    | 10  | Lockpicks              | 25  |
+| Lute                    | 100 | Manacles               | 10  |
+| Marbles                 | 5   | Metal file             | 5   |
+| Mirror                  | 5   | Mortar & pestle        | 10  |
+| Nail                    | 1   | Net                    | 10  |
+| Oil (6 uses)            | 10  | Oilskin bag            | 5   |
+| Padlock & key           | 15  | Paint & brush          | 10  |
+| Parchment (3 uses)      | 10  | Perfume                | 30  |
+| Pick                    | 10  | Pole (10ft)            | 5   |
+| Pouch                   | 5   | Pulley                 | 10  |
+| Quill & ink             | 10  | Repellent              | 20  |
+| Rope (25ft)             | 5   | Sack                   | 5   |
+| Salt pack               | 1   | Saw                    | 5   |
+| Scissors                | 30  | Sealant                | 10  |
+| Sedative                | 30  | Sewing kit             | 20  |
+| Shovel                  | 10  | Smoking pipe           | 15  |
+| Soap                    | 1   | Spike                  | 5   |
+| Spiked boots            | 5   | Spyglass               | 40  |
+| Tar pot                 | 25  | Tent (fits 2, _bulky_) | 20  |
+| Tinderbox               | 5   | Tongs                  | 10  |
+| Torch (3 uses)          | 5   | Trowel                 | 10  |
+| Trapped (d6 STR damage) | 35  | Travelling clothes     | 20  |
+| Twine                   | 5   | Waterskin              | 5   |
+| Wax                     | 2   | Whetstone              | 10  |
+| Whistle                 | 15  | Wheelbarrow            | 10  |
+| Wolfsbane               | 10  | Wooden stake           | 1   |
 
 ### Transport
 
@@ -120,6 +122,7 @@ The following PC has used 7 of 10 available slots. The Chalk and Net are bundled
 | Wagon (+8 slots, slow)   | 200 |
 | Horse (+4 slots)         | 75  |
 | Mule (+6 slots, slow)    | 30  |
+| Carriage seat            | 5   |
 | Canoe (fits 3)           | 150 |
 | Ship's passage           | 10  |
 
@@ -134,15 +137,18 @@ The following PC has used 7 of 10 available slots. The Chalk and Net are bundled
 
 ### Hirelings (per day)
 
-|                |     |
-| -------------- | --- |
-| Alchemist      | 30  |
-| Animal handler | 20  |
-| Blacksmith     | 15  |
-| Bodyguard      | 10  |
-| Lockpick       | 10  |
-| Navigator      | 10  |
-| Sailor         | 5   |
-| Tracker        | 5   |
-| Trapper        | 5   |
+|                   |     |
+| ----------------- | --- |
+| Alchemist         | 30  |
+| Animal handler    | 20  |
+| Blacksmith        | 15  |
+| Bodyguard         | 10  |
+| Lockpick          | 10  |
+| Guide             | 5   |
+| Navigator         | 10  |
+| Sailor            | 5   |
+| Scholar           | 20  |
+| Tracker           | 5   |
+| Trapper           | 5   |
+| Veteran Bodyguard | 20  |
 
