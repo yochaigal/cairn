@@ -18,8 +18,8 @@ Wilmot, Patch, Lancet, Sawbones, Theo, Cutwell, Humor, Landsford, Goodeye, Johan
 ## Starting Gear
  
 - Amputation knife (d6)
-- Bandages (restores d4 STR)
-- Leech (restores 1 STR)
+- Leech (restores 1d4 STR)
+- Sewing kit
 - Stained medical finery (_petty_)
 
 ## How have you "improved" yourself? Roll 1d6:
