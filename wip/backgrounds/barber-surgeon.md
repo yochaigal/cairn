@@ -17,7 +17,7 @@ Wilmot, Patch, Lancet, Sawbones, Theo, Cutwell, Humor, Landsford, Goodeye, Johan
 
 ## Starting Gear
  
-- Amputation knife (d6)
+- Bonesaw (d6)
 - Leech (restores 1d4 STR)
 - Sewing kit
 - Stained medical finery (_petty_)

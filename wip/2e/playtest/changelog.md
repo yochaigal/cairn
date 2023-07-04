@@ -82,7 +82,7 @@ grand_parent: WIP
 
 #### Barber-Surgeon
 
-- [x] Starting Equipment: Change Bandages and Leeches to be rarer things or impose penalties? (1 STR for 1 Fatigue for Leeches, for instance). [**YG**: replaced bandages]
+- [x] Starting Equipment: Change Bandages and Leeches to be rarer things or impose penalties? (1 STR for 1 Fatigue for Leeches, for instance). [**YG**: replaced bandages and added bonesaw]
 - [x] T1 Entry 1: Remove “weak” from end of last sentence. [Changed sentence! **YG**]
 - [x] T2 Entry 5 and 6: remove commas.
 
