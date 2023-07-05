@@ -9,7 +9,7 @@ grand_parent: WIP
 
 # Beast Handler
 
-> You alone can walk among the creatures of the wild fearless and in control. You share a connection with animals that others can only dream of. As long as it lasts, anyways.
+> You alone can walk among the creatures of the wild, fearless and in control. You share a connection with animals that others can only dream of. As long as it lasts, anyways.
 
 ## Names
 
@@ -30,7 +30,7 @@ Amara, Wulf, Mireille, Soren, Freki, Aster, Gerrik, Boreas, Delphine, Matheus
 | **2** | **Felines**   | Take a sack of **whiskerwort**. Its odor can calm and control even the largest of cats.                                                                                           |
 | **3** | **Canines**   | Take a wreath of **wolfbane** and a **large net**. Effective against werewolves as well.                                                      |
 | **4** | **Birds**     | Take a **warble-whistle** (3 charges). It can imitate any bird call, and can even be used to send simple messages. **Recharge**: Feed a baby bird as its mother would, then blow. |
-| **5** | **Rodents**   | Take a **windpipe** that emits a high-pitched sound that only rodents can hear. So long as you play, they will follow. Even to their deaths.                                           |
+| **5** | **Rodents**   | Take a **pan flute** that emits a high-pitched sound that only rodents can hear. So long as you play, they will follow. Even to their deaths.                                           |
 | **6** | **Serpents**  | Take a **warming stone** that generates an irresistible heat, and a vial of **antitoxin** (2 uses).                                                                               |
 
 
