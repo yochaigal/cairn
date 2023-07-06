@@ -57,7 +57,7 @@ search_exclude: true
 
 - Characters have a total of ten inventory slots, but can only carry four or five items comfortably without the help of bags, backpacks, horses, carts, etc.
 - Each PC starts with a **Backpack** that can hold up to six slots. Carts (which must be pulled with both hands), horses, or mules can make a huge difference in how much a PC can bring with them on an adventure. **Hirelings** can also be paid to carry equipment. 
-- Inventory is abstract, dependent only on the fiction as adjudicated by the Warden. When ten slots are filled, the character becomes _Deprived_. A character cannot fill more than ten slots.
+- Inventory is abstract, dependent only on the fiction as adjudicated by the Warden. Anyone carrying a full inventory (i.e. filling all 10 slots) is reduced to 0 HP. A character cannot fill more than ten slots.
 
 ## Character Traits (d10)
 
