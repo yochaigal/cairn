@@ -30,11 +30,11 @@ Briar, Moss, Fern, Lichen, Root, Willow, Sage, Yarrow, Rowan, Ash
 |       |                                                                                                                                                                                               |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1** | An ill-tempered forest spirit cursed you for stealing, marking you as an enemy of their kind. Take a **Bezoar Stone**. Ingesting it cures any poison (one use, unless retrieved).             |
-| **2** | A close friend, swallowed whole. Now you see their face in any tea you brew. Take a **soporific concoction**.                                                                                 |
+| **2** | A close friend, swallowed whole. Now you see their face in any tea you brew. Take a **Soporific Concoction**.                                                                                 |
 | **3** | You were poisoned, losing your sense of taste and smell. You can now withstand noxious fumes, and always carry **antitoxin** (2 uses).                                                        |
-| **4** | Your radical experiments turned your skin green, and you now gain nourishment as a plant. You don't carry **rations**, but a day without sufficient sunlight and water leaves you _deprived_. |
-| **5** | Your impressive **corpseflower** won a contest in town, then promptly killed a judge. You fled, but not without the **prize money (100gp)** and a warrant for your arrest.                    |
-| **6** | You created a restorative tincture that also caused accidental infertility. Take a **healing potion** that completely restores STR. Only you know of its unintended side-effects.                       |
+| **4** | Your radical experiments turned your skin green, and you now gain nourishment as a plant. You don't need **Rations**, but a day without sufficient sunlight and water leaves you _deprived_. |
+| **5** | Your impressive **Corpseflower** won a contest in town, then promptly killed a judge. You fled, but not without the **Prize Money (100gp)** and a warrant for your arrest.                    |
+| **6** | You created a restorative tincture that also caused accidental infertility. Take a **Healing Potion** that completely restores STR. Only you know of its unintended side-effects.                       |
 
 ## What keeps you safe while in The Woods? Roll 1d6:
 
