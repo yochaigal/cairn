@@ -26,7 +26,7 @@ Fergus, Eamon, Bram, Idris, Elara, Darragh, Seren, Rónán, Berek, Lorenz
 
 |       |                                                                                                                                                                                                                          |
 | ----- | --------------------------------- |
-| **1** | You build small contraptions for local guilds (and don't ask too many questions). Take an extra 40gp and a wanted poster with your face on it. Given time and materials, you can open almost any door or vault.       |
+| **1** | You build small contraptions for local guilds (and don't ask too many questions). Take an extra 40gp and a wanted poster with your face on it. Given time and materials, _you can open almost any door or vault_.       |
 | **2** | You deal in home goods and tools, hawking your wares to townspeople across the lands. Roll on the [gear](/wip/2e/marketplace#gear) table twice. You are fluent in the _Traveller's Cant_.                  |
 | **3** | You were a military smelter, before peace destroyed your livelihood. Take a **smelting hammer** (d10, _bulky_) and a **tin helm** (+1 Armor). Given time and adequete materials, you can repair armor.                       |
 | **4** | You sell rare and quality items to monastaries and nobles alike. Take a **spyglass**, a **necklace** (_petty_) worth 20gp, and a scroll of [Mirrorwalk](https://cairnrpg.com/cairn-srd/#100-spells) (_petty_). |
