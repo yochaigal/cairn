@@ -37,7 +37,7 @@ Winda, Brielle, Theron, Chayse, Nuja, Dev, Raven, Lyra, Sable
 
 |      |                   |                                                              |
 | ---- | ----------------- | ------------------------------------------------------------ |
-| **1** | **Fermented Spirits** | Keeps you warm at the best of times, and useful as an explosive at the worst. 3 Uses.  |
+| **1** | **Fermented Spirits** | Keeps you warm at the best of times, and as an explosive at the worst. 3 Uses.  |
 | **2** | **Trail Shaker** | A noisy instrument that reveals nearby trails, even when deeply hidden.   |
 | **3** | **Drowse Balm** | A wax bar. If boiled in water, the steam acts as a soporific agent.|
 | **4** | **Spike and Cord** |  For traversing or securing difficult terrains, or for creating makeshift traps and structures.|
