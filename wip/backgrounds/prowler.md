@@ -26,19 +26,19 @@ Winda, Brielle, Theron, Chayse, Nuja, Dev, Raven, Lyra, Sable
 
 |       |                                                              |
 | ----- | ------------------------------------------------------------ |
-| **1** | A _mock firefly_, baiting water carriers with its glowing lure. Take an **alchemical limb** (d8) to replace the one it tore off. It works as well as the real thing, and is immune to poison, fire, and heat. Sometimes it jams. |
-| **2** | An _ice nettle_, trapping and draining sheep. You lost your commission when the fungus you introduced killed half the flock. Take a **rime seed**. It freezes any body of water, no matter the size. Don't eat it. |
-| **3** | A _silver marsh crawler_ that killed someone close to you. You now carry its **tooth** (_petty_) on a chain around your neck as a warning to others of its kind. The tooth hums softly when something is stalking you.  |
-| **4**  | A malicious _forest spirit_ that poisoned a homestead. You saved a **heartseed** from the roots of a dying tree (plant to createa a new forest). Also, take **iron bracers** (+1 Armor, _bulky_). 
+| **1** | A _mock firefly_, baiting water carriers with its glowing lure. Take an **Alchemical Limb** (d8) to replace the one it tore off. It works as well as the real thing, and is immune to poison, fire, and heat. Sometimes it jams. |
+| **2** | An _ice nettle_, trapping and draining sheep. You lost your commission when the fungus you introduced killed half the flock. Take a **Rime Seed**. It freezes any body of water, no matter the size. Don't eat it. |
+| **3** | A _silver marsh crawler_ that killed someone close to you. You now carry its **Tooth** (_petty_) on a chain around your neck as a warning to others of its kind. _The tooth hums softly when something is stalking you_.  |
+| **4**  | A malicious _forest spirit_ that poisoned a homestead. You saved a **Heartseed** from the roots of a dying tree (plant to create a a new forest). Also, take **Iron Bracers** (+1 Armor, _bulky_). 
 | **5** | A  _hollow wolf_ that had been frightening travellers. By the time you found it, the creature was nearly dead. You took pity, and nursed it back to health. It is loyal to you unto death. 5 HP, 11 STR, 13 DEX, 8 WIL, teeth (d6). A great tunneler.    |
-| **6** | An _azure warbler_. The gametes attract a sizeable profit, if properly extracted. You succeeded, but left its nest to the wolves. Take a paring knife (d6), 20 extra gold pieces, and a pang of regret. |
+| **6** | An _azure warbler_. The gametes attract a sizeable profit, if properly extracted. You succeeded, but left its nest to the wolves. Take a **Paring Knife** (d6), **an extra 20gp**, and a pang of regret. |
 
 ## What tool is always in your pack? Roll 1d6:
 
 |      |                   |                                                              |
 | ---- | ----------------- | ------------------------------------------------------------ |
-| **1** | **Fermented Spirits** | Keeps you warm at the best of times, and can be used as an explosive at the worst. 3 Uses.  |
-| **2** | **Trail Shaker** | A noisy instrument that reveals nearby trailes, even when deeply hidden.   |
+| **1** | **Fermented Spirits** | Keeps you warm at the best of times, and useful as an explosive at the worst. 3 Uses.  |
+| **2** | **Trail Shaker** | A noisy instrument that reveals nearby trails, even when deeply hidden.   |
 | **3** | **Drowse Balm** | A wax bar. If boiled in water, the steam acts as a soporific agent.|
 | **4** | **Spike and Cord** |  For traversing or securing difficult terrains, or for creating makeshift traps and structures.|
 | **5** | **Iron Rattle**| A noisemaker for distracting or scaring your quarry. Sounds convincingly like a snake.  |

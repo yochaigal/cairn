@@ -28,10 +28,10 @@ Fergus, Eamon, Bram, Idris, Elara, Darragh, Seren, Rónán, Berek, Lorenz
 | ----- | --------------------------------- |
 | **1** | You build small contraptions for local guilds (and don't ask too many questions). Take an extra 40gp and a wanted poster with your face on it. Given time and materials, _you can open almost any door or vault_.       |
 | **2** | You deal in home goods and tools, hawking your wares to townspeople across the lands. Roll on the [gear](/wip/2e/marketplace#gear) table twice. You are fluent in the _Traveller's Cant_.                  |
-| **3** | You were a military smelter, before peace destroyed your livelihood. Take a **smelting hammer** (d10, _bulky_) and a **tin helm** (+1 Armor). Given time and adequete materials, you can repair armor.                       |
-| **4** | You sell rare and quality items to monastaries and nobles alike. Take a **spyglass**, a **necklace** (_petty_) worth 20gp, and a scroll of [Mirrorwalk](https://cairnrpg.com/cairn-srd/#100-spells) (_petty_). |
-| **5** | You offer protection as a service, quietly watching for threats while money exchanged hands. You start with +d4 HP, and carry a **long sword** (d10, _bulky_) and a **brigandine** (1 Armor, bulky).                 |
-| **6** | You scavenge raw tin and iron from battlefields, pulling teeth from still-twitching corpses. Start with a young **donkey** (+4 slots, slow), a **crossbow** (d8 damage, _bulky_), and a **saw** (d6).                                   |
+| **3** | You were a military smelter, before peace destroyed your livelihood. Take a **smelting hammer** (d10, _bulky_) and a **tin helm** (+1 Armor). Given time and adequete materials, _you can repair armor_.                       |
+| **4** | You sell rare and quality items to monastaries and nobles alike. Take a **Spyglass**, a **Necklace** (_petty_) worth 20gp, and a **Scroll** of [Mirrorwalk](https://cairnrpg.com/cairn-srd/#100-spells) (_petty_). |
+| **5** | You offer protection as a service, quietly watching for threats while money exchanged hands. You start with **+d4 HP**, and carry a **Long Sword** (d10, _bulky_) and a **Brigandine** (1 Armor, _bulky_).                 |
+| **6** | You scavenge raw tin and iron from battlefields, pulling teeth from still-twitching corpses. Start with a young **Donkey** (+4 slots, slow), a **Crossbow** (d8 damage, _bulky_), and a **Saw** (d6).                                   |
 
 ## What never fails to get you out of trouble? Roll 1d6:
 
