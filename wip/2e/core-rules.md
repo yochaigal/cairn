@@ -69,7 +69,7 @@ When the PCs encounter an NPC whose reaction to the party is not obvious, the Wa
 
 ### Rounds
 
-Combat typically plays without strict time accounting. In a fight or circumstance where timing is helpful, use rounds to keep track of when something occurs. A **round** is roughly ten seconds of in-game time and is comprised of **turns**.
+In a fight or circumstance where timing is helpful, use rounds to keep track of when something occurs. A **round** is roughly ten seconds of in-game time and is comprised of **turns**.
 
 ### Turns
 
