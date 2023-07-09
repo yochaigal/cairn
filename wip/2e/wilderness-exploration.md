@@ -107,7 +107,7 @@ search_exclude: true
 ### Travel
 
 - Travel begins. Obvious locations, features, and terrain of nearby areas are revealed according to their distance. 
-- If necessary, the party rolls **1d6** to see if they've become lost.
+- If necessary, the party rolls **d6** to see if they've become lost.
 - Provided they don't [**get lost**](#getting-lost), the party reaches the next **point** along their route. 
 
 #### Getting Lost
@@ -118,14 +118,14 @@ search_exclude: true
 ### Explore
 
 - The party covers a large area, searching for hidden features, scouting ahead, or treading carefully.
-- One Location or Feature is discovered.
+- A Location (shelter, village, cave, etc.) or Feature (geyser, underground river, beached ship, etc.) is discovered.
 - The **Travel** action is still required to _leave_ the current area, even if it has been completely explored.
 
 ### Supply
 
-- Characters can hunt, fish, or forage for food, each participant collecting 1d4 **Rations** worth (maximum 3 qty per slot). 
-- A character with relevant experience or equipment increases the supplies discovered by one or two steps (i.e. 1d4 becomes 1d6, etc.).
-- The party may encounter homes and small villages, spending a **watch** to fully resupply. 
+- Characters can hunt, fish, or forage for food. A single character collects d4 **Rations** (3 uses). 
+- The chance of a greater bounty increases with each additional participant (e.g. d4 becomes d6, and so on.). Relevant experience or equipment may also increase your chances. 
+- The party may encounter homes and small villages, spending gold and a full **watch** to resupply. 
 
 ### Make Camp
 
@@ -175,7 +175,7 @@ For their first **watch**, the party chooses the **Travel** action, taking the r
 
 For the party's second **watch**, the **Warden** explains that this area is peppered with small rocks and uneven hills, setting the terrain **Difficulty** to **Tough**. Worse yet, without a guide the party might easily lose their way! The players discuss whether it would be better to spend a **watch** exploring the area, perhaps even finding a faster (and safer) way through. 
 
-The party agrees that arriving at their destination sooner is worth the risk, and proceeds with the **Travel** action again. The players discuss how to avoid **Getting Lost**, checking to see if anyone in the party has knowledge of the area, relevant experience, or a map. They do not, so the **Warden** rolls 1d6. The result is not a **1** or a **2**, and the party moves on as planned.
+The party agrees that arriving at their destination sooner is worth the risk, and proceeds with the **Travel** action again. The players discuss how to avoid **Getting Lost**, checking to see if anyone in the party has knowledge of the area, relevant experience, or a map. They do not, so the **Warden** rolls a d6. The result is not a **1** or a **2**, and the party moves on as planned.
 
 The **Warden** rolls on the **Events** table, and the result is **Environment**. The **Warden** explains that a short while after entering the hills, the ground became much more demanding to cross. Small rocks turned into large crags, the hills to pits and mini-craters. The party now has a choice: push forward, spending a **Fatigue** to keep their current speed, or slow down, adding an additional **watch** of travel to their journey. They agree to push forward, each character adding a **Fatigue** to their inventory. Had they chosen to walk slower it may have been safer, but they would have an additional half-day of walking to do tomorrow.
 
