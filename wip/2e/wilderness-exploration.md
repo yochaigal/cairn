@@ -20,6 +20,7 @@ search_exclude: true
 </details>
 
 ## Watches
+
 - A day is divided into three **watches**, called _morning_, _afternoon_, and _night_. 
 - Each character can choose _one_ [**Wilderness Action**](#wilderness-actions) per **watch**. 
 - If the characters split up, each group is treated as an independent entity.
@@ -28,14 +29,16 @@ search_exclude: true
 > Each day, the **Warden** rolls on the [**Weather**](#weather-difficulty) table for the appropriate season.
 
 ## Points
+
 - Potential destinations on a map are called **points**. 
 - One or more **watches** may be required to journey between two **points** on a map, depending on the travel **Difficulty**.
 - The party has a rough idea of the challenges involved to get to their destination, but rarely any specifics. 
 
 > ### Hexes
-> When using a hex map, assume that the **Travel** action moves the party to an adjacent tile in one **watch** at _Normal_ **travel speed**, and that if they [**get lost**](#getting-lost) the party ends up in an adjacent hex.
+> When using a hex map, assume that the **Travel** action moves the party to an adjacent tile in one **watch** at _Normal_ **travel speed**, and that if they [**get lost**](#getting-lost) the party ends up in a random adjacent hex.
 
 ## Wilderness Exploration Cycle
+
 1. The **Warden** describes the current **point** or **region** on the map.
 2. The **Warden** explains how the current [**Difficulty**](#difficulty) affects the party's **travel speed**.
 3. The party plots or adjusts a given course towards their destination, each character choosing a single **Wilderness Action**.
@@ -44,16 +47,19 @@ search_exclude: true
 6. The process is repeated, starting from step **1**. 
 
 ## Night
+
 - The party can choose to travel during the night and rest during the day, but night travel is far slower and more treacherous!
-- Travelling at night _always_ increases the difficulty by one step (i.e. **Easy** terrain becomes **Tough**), and the **Warden** rolls twice on the [**Wilderness Events**](#wilderness-events) table.
+- Travelling at night _always_ increases the **Difficulty** by one step (i.e. **Easy** terrain becomes **Tough**), and the **Warden** rolls twice on the [**Wilderness Events**](#wilderness-events) table.
 - Some terrain and weather may be easier to traverse at night (desert, for example). The **Warden** should balance these challenges along with any other.
 
 ### Sleep
+
 - The last **watch** of the day is typically reserved for the [**Make Camp**](#make-camp) action.
 - Characters typically need to sleep each day. Anything beyond a minor interruption can negate or cancel the benefits of sleep.
-- If the party skips the **Make Camp** action, they each add one **Fatigue** to their inventory, and are _deprived_. Additionally, a sleep-deprived party raises the difficulty of a terrain by one step (i.e. **Easy** becomes **Tough**).
+- If the party skips the **Make Camp** action, they each add one **Fatigue** to their inventory, and are _deprived_. Additionally, a sleep-deprived party raises the **Difficulty** of a terrain by one step (i.e. **Easy** becomes **Tough**).
 
 ### Light
+
 - Torches and other radial sources of light illuminate 40ft ahead of the party, but beyond that only provides a dim outline of objects.
 - Characters without a light source may suffer from _panic_ until their situation is remedied. 
 - Environmental conditions (sudden gusts of wind, dust, water, etc.) can easily blow out a torch.
@@ -62,14 +68,16 @@ search_exclude: true
 > A torch can be lit 3 times before degrading. A lantern can be relit 6 times per oil can, but requires more inventory slots.
 
 ### Panic
+
 - A character that is surrounded by enemies, enveloped by darkness, or facing their greatest fears may experience _panic_. A **WIL** **save** is required to avoid losing control and becoming _panicked_. 
 - As an **action**, a _panicked_ character can make a **WIL** **save** to overcome the _panic_ condition. 
-- A _panicked_ character has 0 **HP**, is always _surprised_, and all of their attacks are _impaired_.  
+- A _panicked_ character has 0 **HP**, always fails the DEX save at the start of combat, and all of their attacks are _impaired_.  
 
 ## Difficulty
+
 - An area's [**weather**](#weather-difficulty), [**terrain**](#terrain-difficulty), obstacles, [**night travel**](#night), and slow or injured party members can reduce travel speed or make travel impossible. Characters that are _deprived_ always slow down the entire party. 
 - The party may need to spend **Fatigue**, resources, tools or other resource in order to maintain their travel speed. 
-- Mounts, guides, and maps can increase the party's travel speed or even overcome a terrain's difficulty.
+- Mounts, guides, and maps can increase the party's travel speed or even overcome a terrain's **Difficulty**.
 
 | Maintained roads and trails should be considered **Easy** unless the terrain says otherwise.
 
@@ -91,31 +99,37 @@ search_exclude: true
 |     **Fair**     | Favorable conditions for travel. Bedroll or shelter required.                                                             | _Overcast, breezy_                                        |
 |  **Unpleasant**  | Gain one **Fatigue** _or_ add one **watch** to the journey.  | _Gusting winds, rain showers, sweltering heat, chill air_ |
 |  **Inclement**   | Gain one **Fatigue** _or_ add one **watch** to the journey. **Difficulty** increases by one step.      | _Thunderstorms & lightning, rain, muddy ground_           |
-|   **Extreme**    | Gain one **Fatigue** _and_ add one **watch** to the journey. **Difficulty** increases by one step.  | _Blizzards, freezing winds, flooding,mud slides                     |
+|   **Extreme**    | Gain one **Fatigue** _and_ add one **watch** to the journey. **Difficulty** increases by one step.  | _Blizzards, freezing winds, flooding, mud slides_                     |
 | **Catastrophic** | Most parties cannot travel under these conditions.                                                                        | _Tornados, tidal waves, hurricane, volcanic eruption_                  |
 
 ## Wilderness Actions
+
 ### Travel
+
 - Travel begins. Obvious locations, features, and terrain of nearby areas are revealed according to their distance. 
 - If necessary, the party rolls **1d6** to see if they've become lost.
 - Provided they don't [**get lost**](#getting-lost), the party reaches the next **point** along their route. 
 
 #### Getting Lost
+
 - If lost, the party may need to spend a **Wilderness Action** to recover their way. 
 - Maps and relevant backgrounds may negate the need for a roll, or decrease the chances of getting lost.
 
 ### Explore
+
 - The party covers a large area, searching for hidden features, scouting ahead, or treading carefully.
 - One Location or Feature is discovered.
 - The **Travel** action is still required to _leave_ the current area, even if it has been completely explored.
 
 ### Supply
-- Characters can hunt, fish, or forage for food, each participant collecting 1d4 rations worth (maximum 3 qty per slot). 
+
+- Characters can hunt, fish, or forage for food, each participant collecting 1d4 **Rations** worth (maximum 3 qty per slot). 
 - A character with relevant experience or equipment increases the supplies discovered by one or two steps (i.e. 1d4 becomes 1d6, etc.).
 - The party may encounter homes and small villages, spending a **watch** to fully resupply. 
 
 ### Make Camp
-- The party stops to set up camp in the wilds. Each party member (and their mounts) consume a ration.
+
+- The party stops to set up camp in the wilds. Each party member (and their mounts) consume a **Ration**.
 - A **lookout rotation** is set so that the party can sleep unmolested. At least 3 rotations are necessary to ensure that all party members can rest. A smaller party may need to risk sleeping unguarded, or switch off sleeping over multiple days (see [**Sleep**](#sleep)).
 - Party members that were able to rest remove all of **Fatigue** from their inventory.
 

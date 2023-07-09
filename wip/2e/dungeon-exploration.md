@@ -27,7 +27,7 @@ search_exclude: true
 > Although the term "dungeon" is used here, it can be exchanged for any dangerous locale (mansions, farmhouses, adventure site, etc).
 
 ## Dungeon Exploration Cycle
-1. The **Warden** describes the party's surroundings. Any immediate dangers [**combat**](/cairn-srd/#rounds), **traps**, surprises, etc. are resolved.
+1. The **Warden** describes the party's surroundings. Any immediate dangers ([**combat**](/cairn-srd/#rounds), **traps**, surprises, etc.) are resolved.
 2. The **players** ask questions, then declare their character's intended movements and **actions**. 
 3. The **Warden** resolves each character's action simultaneously, as well as **actions** that are already in-progress. 
 4. The **Warden** rolls on the [**Dungeon Events**](#dungeon-events) table, and describes the results. The characters react to the event. 
@@ -35,38 +35,46 @@ search_exclude: true
 6. The process then repeats, starting from **step 1**.
 
 ## Actions
-- **Actions** are any non-passive activities such as _searching for traps_, _forcing open a door_, _listening for danger_, _disarming a trap_, _engaging an enemy in combat_, _casting a spell_, _dodging a trap_, _running away_, _resting_ etc. 
+
+- **Actions** are any non-passive activities such as _searching for traps_, _forcing open a door_, _listening for danger_, _disarming a trap_, _engaging an enemy in combat_, _casting a spell_, _dodging a trap_, _running away_, _resting_, etc. 
 - Some **actions** have special rules (see below), while others may take multiple **turns** to complete. 
 - Loud or noticeable **actions** may also trigger an **encounter** of the dungeon's denizens. 
 
 ### Searching
+
 - A character can spend a **turn** performing an _exhaustive_ search of **one** object or location in an area, revealing any relevant hidden treasure, traps, secret doors, etc. 
 - Larger rooms and difficult or complex dungeon terrain may take a few **turns** to properly search.
 - Searching a room _first_ is a safer way to explore the dungeon, but it has a steep cost: time.
 
 ### Resting
+
 - A character can spend a turn **resting** to restore all **HP**.
 - A light source and a _safe location_ are required to **rest**. Present or oncoming danger make **rest** impossible.
 - **Resting** does not restore **Fatigue**, as it is impossible to safely **Make Camp** in a dungeon.
 
 ## Conditions
+
 ### Panic
+
 - A character that is surrounded by enemies, enveloped by darkness, or facing their greatest fears may experience _panic_. A **WIL** **save** is typically required to avoid losing control and becoming _panicked_. 
 - A _panicked_ character must make a **WIL** **save** to overcome their condition as an **action** on their **turn**.
 - A _panicked_ character has 0 **HP**, is always _surprised_, and all of their attacks are _impaired_.  
 
 ## Dungeon Elements
+
 ### Light
 - Torches and other radial sources of light illuminate 40ft of dungeon, but beyond that only provides a dim outline of objects.
 - A torch can be lit 3 times before degrading. A lantern can be relit 6 times per oil can, but requires more inventory slots.
 - Characters without a light source may suffer from _panic_ until their situation is remedied. 
 
 ### Doors
+
 - Doors and entryways may be locked, stuck, moving or blocked entirely. Characters can try to force a door open (or wedge it shut) using available resources (spikes, glue), or through raw ability. 
 - The character _most at risk_ should **save** to avoid whatever danger may befall them. 
-- A character can focus carefully (listening, smelling, etc) to the sounds of denizens and other hazards through nearby doors and walls. 
+- A character can detect, through careful observation (listening, smelling, etc.), signs of life and other hazards through nearby doors and walls.
 
 ### Traps 
+
 - A cautious character should be presented with any and all information that would allow them the opportunity to _avoid_ springing a trap. An unwitting character will trigger a trap according to the fiction, or otherwise have a 2-in-6 chance.
 - **Traps** can usually be detected by carefully **searching** a room.
 - Damage from traps is taken from ability scores (usually **STR** or **DEX**) and _not_ from **HP**. Armor can reduce damage, but only if applicable (e.g. a shield would not reduce damage from noxious gas).
@@ -75,11 +83,11 @@ search_exclude: true
 
 |       |                 |                                                                                                           |
 | :---: | :-------------: | :------------------------------------------------------------------------------------------------------:  |
-| **1** | **Encounter**   | Roll on an encounter table. Possibly **hostile** (see NPC [reactions](/cairn-srd/#reactions)).            |
+| **1** | **Encounter**   | Roll on an encounter table. Possibly **hostile** (see [Reactions](/[#reactions](https://cairnrpg.com/wip/2e/core-rules/#reactions))).            |
 | **2** | **Environment** | Surroundings shift or escalate. Water rises, ceilings collapse, a ritual nears completion, etc.           |
 | **3** | **Loss**        | Torches are blown out, an ongoing spell fizzles, etc. The party must resolve the effect before moving on. |
-| **4** | **Exhaustion**  | The PCs must rest soon, otherwise **Fatigue** or _deprivation_ may set in.                                |
-| **5** | **Sign**        | A clue, “spoor”, track, abandoned lair, scent, victim, droppings, etc is discovered.                      |
+| **4** | **Exhaustion**  | The PCs must rest soon, otherwise they may take **Fatigue** or become _deprived_.                                |
+| **5** | **Sign**        | A “spoor” (clue, track, scent, victim, droppings, etc.) is discovered.                      |
 | **6** | **Quiet**       | The party is left alone (and safe) for the time being.                                                    |
 
 ## Example
