@@ -73,9 +73,13 @@ In a fight or circumstance where timing is helpful, use rounds to keep track of 
 
 ### Turns
 
-- At the start of combat, each PC must make a DEX save in order to act before their opponents. PCs that have saved successfully may then take their turns in any order they wish. The results of their actions occur simultaneously.
-- NPCs or monsters then attack in whatever order the Warden wishes. The results of their actions occur simultaneously. 
-- All of the PCs (including any PCs that failed their initial DEX save) may then act, in whatever order they choose. The results of their actions occur simultaneously.  
+- At the start of combat, each PC must make a DEX save in order to act before their opponents. 
+- PCs that have saved successfully may then take their turns in any order they wish. 
+- NPCs or monsters then attack in whatever order the Warden wishes.
+- All of the PCs (including any PCs that failed their initial DEX save) may then act, in whatever order they choose.
+- NPCs or monsters then attack again, followed by the _all_ PCs, and so on until one side is defeated.
+
+> Actions occur simultaneously for each side. 
 
 ### Actions  
 
