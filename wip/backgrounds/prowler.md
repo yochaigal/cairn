@@ -27,7 +27,7 @@ Winda, Brielle, Theron, Chayse, Nuja, Dev, Raven, Lyra, Sable
 |       |                                                              |
 | ----- | ------------------------------------------------------------ |
 | **1** | A _mock firefly_, baiting water carriers with its glowing lure. Take an **Alchemical Limb** (d8) to replace the one it tore off. It works as well as the real thing, and is immune to poison, fire, and heat. Sometimes it jams. |
-| **2** | An _ice nettle_, trapping and draining sheep. You lost your commission when the fungus you introduced killed half the flock. Take a **Rime Seed**. It freezes any body of water, no matter the size. Don't eat it. |
+| **2** | An _ice nettle_, trapping and draining sheep. You lost your commission when the fungus you introduced killed half the flock. Take a **Rime Seed** (1 use). It freezes any body of water, no matter the size. Don't eat it. |
 | **3** | A _silver marsh crawler_ that killed someone close to you. You now carry its **Tooth** (_petty_) on a chain around your neck as a warning to others of its kind. _The tooth hums softly when something is stalking you_.  |
 | **4**  | A malicious _forest spirit_ that poisoned a homestead. You saved a **Heartseed** from the roots of a dying tree (plant to create a a new forest). Also, take **Iron Bracers** (+1 Armor, _bulky_). 
 | **5** | A  _hollow wolf_ that had been frightening travellers. By the time you found it, the creature was nearly dead. You took pity, and nursed it back to health. It is loyal to you unto death. 5 HP, 11 STR, 13 DEX, 8 WIL, teeth (d6). A great tunneler.    |
