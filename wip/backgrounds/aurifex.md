@@ -9,7 +9,7 @@ grand_parent: WIP
 
 # Aurifex
 
-> You are an artisan of the arcane, a smith of subtle forces. In the crucible of your workshop, the laws that govern this world are warped to suit your needs. 
+> You are an artisan of the arcane, a smith of subtle forces. In the crucible of your workshop, the laws that govern this world are warped to suit your needs.
 
 ## Names
 Hestia, Basil, Rune, Prism, Ember, Quintess, Aludel, Mordant, Salaman, Jazia
@@ -30,7 +30,7 @@ Hestia, Basil, Rune, Prism, Ember, Quintess, Aludel, Mordant, Salaman, Jazia
 | **3** | You were exposed to a long-acting truth serum whose effects have yet to wear off. The disorder has its advantages: you cannot repeat lies you've heard, either.                                                                     |
 | **4** | You were adept at creating _fake_ gold, which is almost as good. Eventually, your ruse was discovered and you had to make a hasty retreat. Take a heavy **metal ingot** and **gold powder**.                                                    |
 | **5** | Your recipe worked, but a rival stole the blueprint before your claims could be proven. Take a protoype **blunderbuss** (**d12**, _blast_, _bulky_) and a thirst for revenge.                                                        |
-| **6** | Ridiculed for discovering how to turn gold into _lead_, you were a laughing stock. Take a bottle of **universal solvent** (2 uses) that dissolves anything it touches into its constituant parts.                                   |
+| **6** | Ridiculed for discovering how to turn gold into _lead_, you were a laughing stock. Take a bottle of **universal solvent** (2 uses) that dissolves anything it touches into its constituent parts.                                   |
 
 ## What alchemical marvel is the product of your latest ingenuity? Roll 1d6:
 
