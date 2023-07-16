@@ -35,7 +35,7 @@ search_exclude: true
 - The party has a rough idea of the challenges involved to get to their destination, but rarely any specifics. 
 
 > ### Hexes
-> When using a hex map, assume that the **Travel** action moves the party to an adjacent tile in one **watch** at _Normal_ **travel speed**, and that if they [**get lost**](#getting-lost) the party ends up in a random adjacent hex.
+> When using a hex map, assume that the **Travel** action moves the party to an adjacent tile in one **watch** at _Normal_ **travel speed**, and that if they [**get lost**](#getting-lost), the party ends up in a random adjacent hex.
 
 ## Wilderness Exploration Cycle
 

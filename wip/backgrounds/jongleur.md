@@ -40,6 +40,6 @@ Jax, Selene, Baladria, Ada, Felix, Saylor, Tripp, Lantos, Echo, Jubilo
 | **1** | **False Cuffs**    | Comfortable, realistic-looking cuffs. Only you know the trick to get out of them.                                    |
 | **2** | **Pocket Theatre** | A set of small puppets and folding stage. Good for quick distractions.                                               |
 | **3** | **Ghost Violin**   | A dark grey violin that plays a haunting tune, mirrored by an invisible, distant twin.                               |
-| **4** | **Tragic Tales**   | Banned in proper company, it become less bawdy and more harrowing towards the end. Worth **100gp**.                      |
+| **4** | **Tragic Tales**   | Banned in proper company, it becomes less bawdy and more harrowing towards the end. Worth **100gp**.                      |
 | **5** | **Mythos Mask**    | A plaster mask that allows one to take on a monster's countenance. Once it comes off, take one **Fatigue**. |                                                              
-| **6** | **Rebreak Glass**  | A wine flute that can be broken multiple times, reforming after 24 hours. Make a really loud noise.                  |
+| **6** | **Rebreak Glass**  | A wine flute that can be broken multiple times, reforming after 24 hours. Makes a really loud noise.                  |

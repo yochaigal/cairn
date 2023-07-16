@@ -41,5 +41,5 @@ Solena, Veles, Bryn, Sabine, Razvan, Rowena, Galen, Nyx, Vex, Iwan
 | **2** | **Glamour Feather**  | Plume of a firebird. Can make any creature appear convincingly as someone (or something) else. 1 use.                                                                         |
 | **3** | **Hawthorn Seed**    | An acorn from the other side, gathered on the spring equinox. When planted it sprouts a luxurious shelter, collapsing at moonrise the next day. 1 use.                         |
 | **4** | **Stonetree Sap**    | Sap obtained in exchange for blood. Hardens when rubbed on any surface (+1 Armor). 3 uses.        |
-| **5** | **Nightdust Powder** | The ritual burning of a six owls. When tossed in the air, day turns to night for a short while. 2 uses.                                                             |
+| **5** | **Nightdust Powder** | The ritual burning of six owls. When tossed in the air, day turns to night for a short while. 2 uses.                                                             |
 | **6** | **Hex Stone**        | Gathered from a river that flows from the _other side_. Removed from its iron tin, it can absorb the effects of an active magical effect. If destroyed, the magic is released. 1 use. |
