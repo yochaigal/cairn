@@ -9,6 +9,8 @@ grand_parent: WIP
 
 # Changelog
 
+## Current changelog is in google doc
+
 ## Proposed edits 7-2-23
 
 ### Character Creation Summary
