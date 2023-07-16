@@ -40,6 +40,6 @@ Montague, Ambrose, Lucius, Sterling, Beauregard, Cornelius, Percival, Crispin, A
 | **1** | **Royal Crest**       | Born into royalty, you chose a different life. The crest grants you access, but also alerts your family of your whereabouts.                                          |
 | **2** | **Pop's Miracle Oil** | A smelly concoction that is also very, very, slippery. 2 uses.                                                                                                        |
 | **3** | **Surgeon's Soap**    | A lye and ash block that makes skin temporarily transparent, revealing the anatomy within. 4 uses.                                                                    |
-| **4** | **Goat Powder**       | Derived from the placenta of a baby goat.  Temporarily cures any affliction, but symptoms return within hours.                                                        |
-| **5** | **Cursed Sapphire**   | Valued at around **200gp**, it _noticably_ returns to your pocket shortly after you spend it. You can't seem to get rid of it.                                            |
+| **4** | **Goat Powder**       | Derived from the placenta of a baby goat.  Temporarily cures any affliction, but symptoms return within hours. 2 Uses.                                                        |
+| **5** | **Cursed Sapphire**   | Valued at around **200gp**, it _noticeably_ returns to your pocket shortly after you spend it. You can't seem to get rid of it.                                            |
 | **6** | **Alchemical Tattoo** | A dog, cat, or bird that can leave your body on demand. It follows your commands to the best of its abilities, and can pass its injuries (_as STR loss_) back onto you. |
