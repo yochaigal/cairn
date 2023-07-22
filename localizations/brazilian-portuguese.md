@@ -962,22 +962,22 @@ Os dados de dano são praticamente os mesmos, embora os ataques armados causem p
 
 # Resumo das Regras
 
-**AÇÕES**
+**AÇÕES**  
 Em sua vez, um personagem pode se mover até 12 metros e realizar até uma ação. As ações podem incluir lançar um feitiço, atacar, fazer um segundo movimento ou outras atividades razoáveis. Ações, ataques e movimentos ocorrem simultaneamente. Sempre que a ordem do turno for incerta, os PJs devem fazer um teste de DES para ver se eles vão antes de seus inimigos.
 
 **Recuar** de uma situação perigosa sempre requer um teste de DES bem-sucedido, bem como um destino seguro para onde correr.
 
-**ATRIBUTOS**
-**FOR:** Força, resiliência e resistência.
-**DES:** Esquiva, furtividade e reflexos.
-**VON:** Persuasão, intimidação e magia.
+**ATRIBUTOS**  
+**FOR:** Força, resiliência e resistência.  
+**DES:** Esquiva, furtividade e reflexos.  
+**VON:** Persuasão, intimidação e magia.  
 
 **Salvamentos**
 
 - Role um d20 igual ou inferior a um atributo.
 - 1 é sempre um sucesso, 20 é sempre um fracasso.
 
-**PROTEÇÃO CONTRA GOLPES**
+**PROTEÇÃO CONTRA GOLPES**  
 **PG** indica a capacidade de um PJ de evitar se machucar. Ele é perdido durante o combate e recuperado após alguns momentos de descanso.
 
 **INVENTÁRIO**
@@ -986,18 +986,18 @@ Os PJs têm 10 espaços de inventário: quatro em seu corpo e seis em sua mochil
 
 Preencher todos os dez espaços de itens reduz um PJ a 0 PG. Os PJs não podem carregar mais do que seu inventário permite, embora carrinhos e cavalos possam fornecer um aumento nos slots.
 
-**PRIVAÇÃO**
+**PRIVAÇÃO**  
 PJs **Privados** não podem recuperar PG. Se privados por mais de um dia, eles adicionam uma **Fadiga** ao seu inventário. A fadiga ocupa um espaço e dura até que eles possam se recuperar em segurança. Este efeito é cumulativo.
 
-**CURA**
+**CURA**  
 Um momento de descanso e um gole de água irão restaurar o PG perdido, mas podem deixar o grupo vulnerável. A perda de **atributo** requer uma semana de descanso e a ajuda de um curandeiro habilidoso.
 
-**Livros de Feitiço**
+**LIVROS DE FEITIÇO**  
 Os livros de feitiços contêm um único feitiço e ocupam um espaço de item. Qualquer um pode lançar um feitiço segurando um livro de feitiço com as duas mãos e lendo seu conteúdo em voz alta. Lançar um feitiço adiciona **Fadiga** ao inventário do PJ.
 
 Com tempo e segurança, os PJs podem aprimorar uma magia sem nenhum custo adicional. Se eles estiverem privados ou em perigo, um salvamento de VON pode ser necessário para evitar consequências terríveis.
 
-**COMBATE**
+**COMBATE**  
 O atacante rola o dado de dano de arma e subtrai a Armadura do alvo, em seguida, aplica o total restante ao PG de seu oponente.
 
 Antes de calcular o dano ao PG, subtraia o valor de **Armadura** do alvo do resultado das jogadas de dano. Escudos e armaduras semelhantes fornecem um bônus de defesa (por exemplo, armadura +1), mas apenas enquanto o item é segurado ou usado.
@@ -1008,7 +1008,7 @@ Ataques **desarmados** sempre causam 1d4 de dano. Se **vários atacantes** alvej
 
 Se um ataque for **prejudicado**, o dado de dano é reduzido para 1d4, independentemente da arma. Se o ataque for **aprimorado**, o atacante rola 1d12. Ataques com a característica **explosivo** afetam todos os alvos na área, rolando separadamente para cada um.
 
-**DANO**
+**DANO**  
 Se um ataque reduz o PG de um PJ exatamente a 0, o jogador rola na tabela de **Cicatrizes**.
 
 O dano que reduz o PG **de um alvo abaixo de** 0 diminui sua FOR pelo restante. Ele deve então fazer um teste de resistência de FOR para evitar **dano crítico.** Falhar o tira do combate, morrendo se não for tratado.

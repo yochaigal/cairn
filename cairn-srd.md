@@ -980,7 +980,7 @@ Filling all ten item slots reduces a PC to 0 HP. PCs cannot carry more than thei
 **HEALING**  
 A moment's rest and a swig of water will restore lost HP, but may leave the party vulnerable. **Ability** loss requires a week's rest and the aid of a skilled healer.
 
-**SPELLBOOKS**
+**SPELLBOOKS**  
 Spellbooks contain a single spell and take up one item slot. Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. Casting a spell adds **Fatigue** to the PC's inventory.
 
 Given time and safety, PCs can enhance a spell without any additional cost. If they are deprived or in danger, a WIL save may be required to avoid terrible consequences.
