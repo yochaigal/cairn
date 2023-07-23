@@ -23,8 +23,6 @@ Briar, Moss, Fern, Lichen, Root, Willow, Sage, Yarrow, Rowan, Ash
 - Root knife (d6)
 - Healing salve (restore d4 STR, 2 uses)
 
-> _Ward_: A silver circle 50ft across appears on the ground. Choose one species that cannot cross it.
-
 ## How have The Woods failed you ? Roll 1d6:
 
 |       |                                                                                                                                                                                               |

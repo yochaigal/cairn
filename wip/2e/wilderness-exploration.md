@@ -88,7 +88,7 @@ search_exclude: true
 | **Terrain**                   | **Travel Difficulty** | **Travel Duration** | **Odds of Getting Lost** | **Examples**                                                                                          |
 | **Roads, grasslands, plains** | **Easy**              | _Normal_            | None                     | _Smooth roads, safe areas for rest, fellow travellers_                                                |
 | **Forests, mountains, hills** | **Tough**             | _Doubled_           | 2-in-6                   | _Wild animals, flooding, broken equipment, falling rocks, unsafe shelters, hunter's traps_            |
-| **Deserts, jungle, swamp**    | **Perilous**          | _Tripled_           | 3-in-6                   | _Quicksand, sucking mud, choking vines, unclean water, poisonous plants and animals, poor navigation_ |
+| **Deserts, jungle, swamp**    | **Perilous**          | _Tripled_           | 4-in-6                   | _Quicksand, sucking mud, choking vines, unclean water, poisonous plants and animals, poor navigation_ |
 
 ### Weather Difficulty
 
@@ -100,7 +100,7 @@ search_exclude: true
 |  **Unpleasant**  | Gain one **Fatigue** _or_ add one **watch** to the journey.  | _Gusting winds, rain showers, sweltering heat, chill air_ |
 |  **Inclement**   | Gain one **Fatigue** _or_ add one **watch** to the journey. **Difficulty** increases by one step.      | _Thunderstorms & lightning, rain, muddy ground_           |
 |   **Extreme**    | Gain one **Fatigue** _and_ add one **watch** to the journey. **Difficulty** increases by one step.  | _Blizzards, freezing winds, flooding, mud slides_                     |
-| **Catastrophic** | Most parties cannot travel under these conditions.                                                                        | _Tornados, tidal waves, hurricane, volcanic eruption_                  |
+| **Catastrophic** | Most parties cannot travel under these conditions.        | _Tornados, tidal waves, hurricane, volcanic eruption_                  |
 
 ## Wilderness Actions
 

@@ -30,7 +30,7 @@ Flint, Feather, Crier, Thunder, Falcon, Pluck, Needle, Warsong, Hawk, Cai
 | **3** | **Hunting**. When taking the [**Supply**](https://cairnrpg.com/wip/2e/wilderness-exploration/#supply) action your ability to secure **Rations** increases by **one step** (e.g. 1d4 becomes 1d6).    |
 | **4** | **Tournaments**. Attacks with your bow are _enhanced_ if the target is immobile.                                                                                                                     |
 | **5** | **Training**. If you are the first to attack, melee attacks against you are _impaired_ until you take STR damage.                                                                                    |
-| **6** | **Scouting**. When taking the [**Travel**](https://cairnrpg.com/wip/2e/wilderness-exploration/#travel) action, your presence decreases the chance of getting lost by one step (e.g. 1d6 becomes 1d4). |
+| **6** | **Scouting**. When taking the [**Travel**](https://cairnrpg.com/wip/2e/wilderness-exploration/#travel) action, your presence decreases the chance of getting lost by one step (e.g. 4-in-6 becomes 3-in-6).    |
 
 ## What kind of wood is your bow made from? Roll 1d6:
 

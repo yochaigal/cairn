@@ -59,12 +59,6 @@ When the PCs encounter an NPC whose reaction to the party is not obvious, the Wa
 - To create a hireling, roll 3d6 for each ability score, then give them 1d6 HP and a simple weapon (d6), then roll on the [**Character Creation**](/wip/2e/character-creation#character-creation-summary) tables to further flesh them out. 
 - Hirelings cost between 1-3gp per day for the unskilled, or much more for highly specialized help.
 
-## Inventory Slots
-
-- Most items take up one slot, unless otherwise indicated. 
-- _Petty_ items do not take up any slots. _Bulky_ items take up **two** slots. 
-- A bag of coins worth less than 100gp is _petty_ and does not occupy a slot.
-
 ## Combat
 
 ### Rounds
@@ -172,7 +166,7 @@ Running away from a dire situation always requires a successful DEX save, as wel
 
 - Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. They must then add a **Fatigue** to inventory. 
 - Given time and safety, PCs can _enhance_ a spell's impact (e.g., affecting multiple targets, increasing its power, etc.) without any additional cost. 
-- If the PC is deprived or in danger, the Warden may require a PC to make a WIL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect, and may result in added **Fatigue**, the destruction of the Spellbook, injury, and even death.
+- If the PC is _deprived_ or in danger (such as during combat), the Warden may require a PC to make a WIL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect, and may result in added **Fatigue**, the destruction of the Spellbook, injury, and even death.
 
 ## 100 Spells
 
