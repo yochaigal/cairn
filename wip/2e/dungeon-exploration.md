@@ -85,7 +85,7 @@ Exploring a dungeon is always dangerous, and time must always be weighed against
 When the party:
 
 - Moves into a new area 
-- Advances more than one dungeon cyle in a single room 
+- Advances more than one dungeon cycle in a single room 
 - Moves quickly through or haphazardly 
 - Makes a lot of noise 
 
