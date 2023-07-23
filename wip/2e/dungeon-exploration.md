@@ -80,14 +80,16 @@ search_exclude: true
 
 ## Dungeon Events
 
-Exploring a dungeon is always dangerous, and time must always be weighed against the risk of awakening the location's denizens, natural hazards, and worse. These are but a few circumstances that may trigger a roll on the the Dungeon Events table. 
-
+Exploring a dungeon is always dangerous, and time must always be weighed against the risk of awakening the location's denizens, natural hazards, and worse.  
 When the party:
 
-- Moves into a new area 
-- Advances more than one dungeon cycle in a single room 
+- Spends more than one dungeon cycle in a single room or location 
 - Moves quickly through or haphazardly 
+- Moves into a new area, level, or zone
 - Makes a lot of noise 
+
+Roll 1d6 on the the Dungeon Events table. 
+
 
 |       |                 |                                                                                                           |
 | :---: | :-------------: | :------------------------------------------------------------------------------------------------------:  |
