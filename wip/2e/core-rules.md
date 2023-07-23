@@ -63,14 +63,9 @@ When the PCs encounter an NPC whose reaction to the party is not obvious, the Wa
 
 ### Rounds
 
-In a fight or circumstance where timing is helpful, use rounds to keep track of when something occurs. A **Round** is roughly ten seconds of in-game time and is comprised of **Turns**. _The result of each side's actions occur simultaenously_.
-
-### Turns
-
-- At the start of combat, each PC must make a DEX save in order to act before their opponents. PCs that have saved successfully may then take their turns in any order they wish. 
-- NPCs or monsters then attack in whatever order the Warden wishes. 
-- All of the PCs (including any PCs that failed their initial DEX save) may then act, in whatever order they choose.
-- NPCs or monsters then attack again, followed by the _all_ PCs, and so on until one side is defeated.
+- A **Round** is roughly ten seconds of in-game time, and proceeds in turns. Each round starts with any PC that is able to act, followed by their opponents. _The result of each side's actions occur simultaneously_. 
+- During the _first round of combat_, each PC must make a DEX save in order to act. Special circumstances, abilities, items, or skills may negate this requirement. PCs that fail their save _lose their turn_ for this round.
+- Their opponents then take their turn, and the first round ends. The next round begins with the PCs taking their turn, followed by their opponents, and so on until combat has ended with one side defeated or fled.
 
 ### Actions  
 

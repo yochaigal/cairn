@@ -115,8 +115,8 @@ search_exclude: true
 | Animal handler    | 20  |
 | Blacksmith        | 15  |
 | Bodyguard         | 10  |
+| Local Guide       | 5   |
 | Lockpick          | 10  |
-| Guide             | 5   |
 | Navigator         | 10  |
 | Sailor            | 5   |
 | Scholar           | 20  |
