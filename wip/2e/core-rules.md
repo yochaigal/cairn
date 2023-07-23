@@ -95,7 +95,7 @@ Attacks with the _Blast_ quality affect all targets in the noted area, rolling s
 
 ### Critical Damage
 
-- Damage that reduces a target's HP below zero is subtracted _from their STR_ by the amount of damage remaining. The target must then immedaitely make a STR save to avoid taking **Critical Damage**. On a success, the target is still in the fight (albeit with a lower STR score) and must continue to make critical damage saves when incurring damage.
+- Damage that reduces a target's HP below zero is subtracted _from their STR_ by the amount of damage remaining. The target must then immedaitely make a STR save to avoid taking **Critical Damage**, using their _new STR score_. On a success, the target is still in the fight (albeit with a lower STR score) and must continue to make critical damage saves when incurring damage.
 
 - Any PC that suffers critical damage cannot do anything but crawl weakly, grasping for life. If given aid and rest, they will stabilize. If left untreated, they die within the hour. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save. 
 
