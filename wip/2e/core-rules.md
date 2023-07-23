@@ -8,9 +8,9 @@ grand_parent: WIP
 ---
 
 # Core Rules
-## Abilities
+## Attributes
 
-Each of the three **abilities** are used in different circumstances (see **saves**, below).  
+Each of the three **attributes** are used in different circumstances (see **saves**, below).  
 
 - **Strength (STR)**: Used for saves requiring physical power, like lifting gates, bending bars, resisting poison, etc.
 - **Dexterity (DEX)**: Used for saves requiring poise, speed, and reflexes like dodging, climbing, sneaking, balancing, etc.
@@ -22,7 +22,7 @@ Each of the three **abilities** are used in different circumstances (see **saves
 - PCs roll a d20 and compare the results to an appropriate ability score. If they roll equal to or under that ability score, they pass. Otherwise, they fail. 
 - A 1 is always a success, and a 20 is always a failure.
 
-## Healing
+## Healing & Recovery
 
 - Resting for a few moments and having a drink of water restores lost HP but leaves the party exposed. 
 - Ability loss (see **Critical Damage**) can usually be restored with a week's rest, facilitated by a healer or other appropriate source of expertise. 
