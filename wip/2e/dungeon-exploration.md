@@ -19,20 +19,19 @@ search_exclude: true
 {:toc}
 </details>
 
-## Turns
-- The dungeon exploration **cycle** is divided into a series of **turns**, **actions**, and their consequences. 
+## The Basics
+
+- The dungeon exploration cycle (see below) is divided into a series of **turns**, **actions**, and their consequences. 
 - On their **turn**, a character can move a distance equal to their torchlight's perimeter (about 40ft) and perform one **action**. They can spend their **action** to move an incredible distance, or at great speed.
-- The **Warden** should present obvious information about an area and its dangers freely and at no cost.
+- The **Warden** should present obvious information about an area and its dangers freely and at no cost. Moving quickly or without caution may increase the chance of encountering a wandering monster, springing a trap, or triggering a roll on the [**Dungeon Events**](#dungeon-events) table. 
 
 > Although the term "dungeon" is used here, it can be exchanged for any dangerous locale (mansions, farmhouses, adventure site, etc).
 
 ## Dungeon Exploration Cycle
-1. The **Warden** describes the party's surroundings. Any immediate dangers ([**combat**](/cairn-srd/#rounds), **traps**, surprises, etc.) are resolved.
-2. The **players** ask questions, then declare their character's intended movements and **actions**. 
-3. The **Warden** resolves each character's action simultaneously, as well as **actions** that are already in-progress. 
-4. The **Warden** rolls on the [**Dungeon Events**](#dungeon-events) table, and describes the results. The characters react to the event. 
-5. The **players** and the **Warden** record any loss of resources and new conditions (i.e. torch use, _deprivation_, etc). 
-6. The process then repeats, starting from **step 1**.
+
+1. The **Warden** describes the party's surroundings and any immediate dangers (combat, traps, surprises, etc.).The players then declare their character's intended movements and **actions**. 
+2. The **Warden** resolves each character's action simultaneously, as well as any **actions** that are already in-progress.
+3. The players record any loss of resources and any new conditions (i.e. item use, _deprivation_, etc). The cycle then _begins again_. If appropriate, the **Warden** should roll on the [**Dungeon Events**](#dungeon-events) table (see below). 
 
 ## Actions
 
@@ -80,6 +79,15 @@ search_exclude: true
 - Damage from traps is taken from ability scores (usually **STR** or **DEX**) and _not_ from **HP**. Armor can reduce damage, but only if applicable (e.g. a shield would not reduce damage from noxious gas).
 
 ## Dungeon Events
+
+Exploring a dungeon is always dangerous, and time must always be weighed against the risk of awakening the location's denizens, natural hazards, and worse. These are but a few circumstances that may trigger a roll on the the Dungeon Events table. 
+
+When the party:
+
+- Moves into a new area 
+- Advances more than one dungeon cyle in a single room 
+- Moves quickly through or haphazardly 
+- Makes a lot of noise 
 
 |       |                 |                                                                                                           |
 | :---: | :-------------: | :------------------------------------------------------------------------------------------------------:  |
