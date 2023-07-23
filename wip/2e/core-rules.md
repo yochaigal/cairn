@@ -55,9 +55,9 @@ When the PCs encounter an NPC whose reaction to the party is not obvious, the Wa
 
 ## Hirelings
 
-- PCs can hire **hirelings** to aid them in their expeditions. Hirelings cost between 1-30gp per day, depending on skill and specialization.
-- To create a hireling, choose an appropriate [**background**](/wip/2e/character-creation#backgrounds) and **name** from the [Character Creation](/wip/2e/character-creation) guide. Roll (or choose from) the tables in their respective background. Then, roll for Rations, Gold Pieces, Attributes, HP, and age.   
-- Optionally, roll on the Character Traits tables to further flesh them out. Remember, if a PC dies the Warden can allow them to take over as a Hireling!
+- PCs can enlist **hirelings** to aid them in their expeditions. Hirelings cost between 1-30gp per day, depending on skill and specialization.
+- To create a hireling, choose an appropriate role from the [Hirelings](/wip/2e/marketplace#hirelings-per-day) table in the Marketplace. Roll 3d6 for each attribute, and 1d6 for their HP. Give them weapons and armor appropriate to their station, then roll on the Character Traits tables to further flesh them out.
+- Alternatively, choose an appropriate [**background**](/wip/2e/character-creation#backgrounds) and **name** from the [Character Creation](/wip/2e/character-creation) guide. Roll (or choose from) the tables for that background. Then, roll for Rations, Gold Pieces, Attributes, HP, and age. 
 
 ## Combat
 
