@@ -55,9 +55,9 @@ When the PCs encounter an NPC whose reaction to the party is not obvious, the Wa
 
 ## Hirelings
 
-- PCs can hire **hirelings** to aid them in their expeditions. 
-- To create a hireling, roll 3d6 for each ability score, then give them 1d6 HP and a simple weapon (d6), then roll on the [**Character Creation**](/wip/2e/character-creation#character-creation-summary) tables to further flesh them out. 
-- Hirelings cost between 1-3gp per day for the unskilled, or much more for highly specialized help.
+- PCs can hire **hirelings** to aid them in their expeditions. Hirelings cost between 1-30gp per day, depending on skill and specialization.
+- To create a hireling, choose an appropriate [**background**](/wip/2e/character-creation#backgrounds) and **name** from the [Character Creation](/wip/2e/character-creation) guide. Roll (or choose from) the tables in their respective background. Then, roll for Rations, Gold Pieces, Attributes, HP, and age.   
+- Optionally, roll on the Character Traits tables to further flesh them out. Remember, if a PC dies the Warden can allow them to take over as a Hireling!
 
 ## Combat
 
@@ -100,18 +100,15 @@ Attacks with the _Blast_ quality affect all targets in the noted area, rolling s
 
 ### Critical Damage
 
-Damage that reduces a target's HP below zero decreases a target's STR by the amount remaining. They must then make a STR save to avoid **Critical Damage**. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a Critical Damage save.
+- Damage that reduces a target's HP below zero is subtracted _from their STR_ by the amount of damage remaining. The target must then immedaitely make a STR save to avoid taking **Critical Damage**. On a success, the target is still in the fight (albeit with a lower STR score) and must continue to make critical damage saves when incurring damage.
 
-Any PC that suffers critical damage cannot do anything but crawl weakly, grasping for life. If given aid and rest, they will stabilize. If left untreated, they die within the hour.
+- Any PC that suffers critical damage cannot do anything but crawl weakly, grasping for life. If given aid and rest, they will stabilize. If left untreated, they die within the hour. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save. 
 
 ### Ability Score Loss
 
-If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their WIL is reduced to 0, they are delirious.
-Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.  
+- If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their WIL is reduced to 0, they are delirious.
+- Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.  
 
-### Scars
-
-When damage to a PC reduces their HP to exactly 0, they are sometimes changed irrevocably. Look up the result on the  the [**Scars Table**](#scars-table) based on the _amount of HP that was lost_ (armor does not impact this number). 
 
 ### Unconsciousness & Death
 When a character dies, the player is free to create a new character or take control of a hireling. They immediately join the party in order to reduce downtime.
@@ -126,6 +123,10 @@ Attacks against individuals by detachments are _enhanced_ and deal _blast_ damag
 ### Retreat
 
 Running away from a dire situation always requires a successful DEX save, as well as a safe destination to run to.
+
+### Scars
+
+When damage to a PC reduces their HP to exactly 0, they are changed irrevocably. Look up the result on the table below, based on the _amount of HP lost in the attack_. For example, if a PC went from 3 HP to 0 HP, they would look at entry #3 (Walloped). 
 
 ## Scars Table
 
