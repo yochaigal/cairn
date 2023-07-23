@@ -57,7 +57,7 @@ search_exclude: true
 
 - A character that is surrounded by enemies, enveloped by darkness, or facing their greatest fears may experience _panic_. A **WIL** **save** is typically required to avoid losing control and becoming _panicked_. 
 - A _panicked_ character must make a **WIL** **save** to overcome their condition as an **action** on their **turn**.
-- A _panicked_ character has 0 **HP**, is always _surprised_, and all of their attacks are _impaired_.  
+- A _panicked_ character has 0 **HP**, does not act in the first round of combat, and all of their attacks are _impaired_.  
 
 ## Dungeon Elements
 
@@ -183,10 +183,3 @@ Now that all three players have taken a turn, the **Warden** rolls on the [**Dun
 > **Combat ensues between the party members in the Courtyard - a _turn undead_ spellbook is used, and the player characters are quickly (and brutally) victorious. Gar returns from the tunnel just as the fight is ended.**
 
 **Warden**: _"Alright folks. You've each completed a full turn. Please tell me what you plan to do next..."_
-
-## Credits
-
-- [The Cairn Adventurer’s Guide](https://adamhensley.itch.io/cairn-adventurers-guide) by Adam Hensley
-- [Dungeon Adventuring](https://oldschoolessentials.necroticgnome.com/srd/index.php/Dungeon_Adventuring)
-- [The Necropraxis Hazard System](https://www.necropraxis.com/2017/11/22/hazard-system-v0-3/)
-- [The Black Hacke 2e](https://www.drivethrurpg.com/product/255088/The-Black-Hack-Second-Edition)

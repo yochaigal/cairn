@@ -67,12 +67,6 @@ search_exclude: true
 > ### Light Sources
 > A torch can be lit 3 times before degrading. A lantern can be relit 6 times per oil can, but requires more inventory slots.
 
-### Panic
-
-- A character that is surrounded by enemies, enveloped by darkness, or facing their greatest fears may experience _panic_. A **WIL** **save** is required to avoid losing control and becoming _panicked_. 
-- As an **action**, a _panicked_ character can make a **WIL** **save** to overcome the _panic_ condition. 
-- A _panicked_ character has 0 **HP**, always fails the DEX save at the start of combat, and all of their attacks are _impaired_.  
-
 ## Difficulty
 
 - An area's [**weather**](#weather-difficulty), [**terrain**](#terrain-difficulty), obstacles, [**night travel**](#night), and slow or injured party members can reduce travel speed or make travel impossible. Characters that are _deprived_ always slow down the entire party. 
@@ -182,10 +176,3 @@ The **Warden** rolls on the **Events** table, and the result is **Environment**.
 As night descends, the party finds a large, rocky, outcropping that would work as a suitable shelter. There is no water nearby, but this location should be sufficient for their current needs. They agree to **Make Camp** as their final **watch**, choosing a **Watch Rotation** that should allow all party members a decent rest, and a chance to shed any **Fatigue** they have. Each party member consumes a ration, and the **Warden** rolls on the **Events** table. The result is a **Sign**. The **Warden** describes the flickering ghost of a torchlight in the distance. Could it be another party, or perhaps bandits, or even a dangerous creature on the prowl?
 
 The party rests, erasing their **Fatigue**. They mark their current location on the map, noting that should everything go well the following day, they should only have to spend one **watch** to arrive at the ruins of **Ein Eyton** by the _afternoon_.
-
-## Credits
-
-- [The Cairn Adventurer’s Guide](https://adamhensley.itch.io/cairn-adventurers-guide) by Adam Hensley
-- [Yet Another Hexcrawl Procedure](https://dangerisreal.blogspot.com/2021/08/yet-another-hexcrawl-procedure-there-is.html) by Danger is Real
-- [Overland Travel Time for OSR games](https://magickuser.wordpress.com/2020/02/19/overland-travel-time-for-osr-games/) by Vagabundork
-- [Wilderness Adventuring](https://oldschoolessentials.necroticgnome.com/srd/index.php/Wilderness_Adventuring) from Old School Essentials
