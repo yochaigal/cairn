@@ -29,7 +29,7 @@ search_exclude: true
 
 ## Dungeon Exploration Cycle
 
-1. The **Warden** describes the party's surroundings and any immediate dangers (combat, traps, surprises, etc.).The players then declare their character's intended movements and **actions**. 
+1. The **Warden** describes the party's surroundings and any immediate dangers (combat, traps, surprises, etc.). The players then declare their character's intended movements and **actions**. 
 2. The **Warden** resolves each character's action simultaneously, as well as any **actions** that are already in-progress.
 3. The players record any loss of resources and any new conditions (i.e. item use, _deprivation_, etc). The cycle then _begins again_. If appropriate, the **Warden** should roll on the [**Dungeon Events**](#dungeon-events) table (see below). 
 
