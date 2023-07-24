@@ -47,7 +47,7 @@ When the party:
 
 |       |                 |                                                                                                           |
 | :---: | :-------------: | :------------------------------------------------------------------------------------------------------:  |
-| **1** | **Encounter**   | Roll on an encounter table. Possibly **hostile** (see [Reactions](/[#reactions](https://cairnrpg.com/wip/2e/core-rules/#reactions))).            |
+| **1** | **Encounter**   | Roll on an encounter table. Possibly **hostile** (see [Reactions](/wip/2e/core-rules/#reactions)).            |
 | **2** | **Environment** | Surroundings shift or escalate. Water rises, ceilings collapse, a ritual nears completion, etc.           |
 | **3** | **Loss**        | Torches are blown out, an ongoing spell fizzles, etc. The party must resolve the effect before moving on. |
 | **4** | **Exhaustion**  | The PCs must rest soon, otherwise they may take **Fatigue** or become _deprived_.                                |
