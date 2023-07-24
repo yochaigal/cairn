@@ -101,13 +101,10 @@ search_exclude: true
 ### Travel
 
 - Travel begins. Obvious locations, features, and terrain of nearby areas are revealed according to their distance. 
-- The party rolls **1d6** to see if they've become lost, accounting for the **Difficulty** (see below) of terrain, weather, and other challenges. For example, **Tough** terrain in _Fair_ weather would require a roll of 2 or under in order for the party to get lost.  
-- Provided they don't [**get lost**](#getting-lost), the party reaches the next **point** along their route. 
+- The party rolls **1d6** to see if they get lost along the way. This risk can increase, depending on the travel **Difficulty**.  Maps, skills, and relevant backgrounds may decrease the chances of getting lost.
+- If lost, the party may need to spend a **Wilderness Action** to recover their way. Otherwise, the party reaches the next **point** along their route.
 
-#### Getting Lost
-
-- If lost, the party may need to spend a **Wilderness Action** to recover their way. 
-- Maps and relevant backgrounds may negate the need for a roll, or decrease the chances of getting lost.
+> For example, **Tough** terrain in _Fair_ weather would require a roll of 2 or under in order for the party to get lost.  
 
 ### Explore
 
