@@ -147,23 +147,25 @@ The **Warden** describes the room as "_A courtyard. Moonlight drifts through the
 
 **Leib**: _"I'm going to stash this thing in my pack for later investigation."_
 
-**Warden**: _"OK. It's bulky on account of its weight, though."_
+**Warden**: _"OK. It's **bulky** on account of its weight, though."_
 
-**Leib**: _"Damn. Alright, I didn't need this silly perfume anyway._"
+**Leib**: _"Damn. Fine, I'm going to chisel away at with the edge of my dagger and a block of rubble. Noise be damned!_"
 
-**Warden**: _"**Konstin**, you place an ear on the door, but hear only a faint rustling on the other side. It could be the wind._"
+**Warden**: _"OK, you do that. It makes a lot of noise, but eventually the jewel comes lose. You can store it with your other gold pieces. It is worth 25gp."_
+
+**Warden**: _"While this is all happening, **Konstin** places an ear on the door, but hears only a faint rustling on the other side. It could be the wind._"
 
 **Konstin**: _"How busted is the keyhole? Could I see through it? What about the door itself? You said it was rotted._"
 
 **Warden**: _"The keyhole is intact, and too dark to look through. You could shine a light through it, or you could use one of the gaps in the door."_
 
-**Konstin**: _"That works. I light my torch and hold it aloft so that I can see through."_
+**Konstin**: _"That works. I light my **torch** and hold it aloft so that I can see through."_
 
 **Warden**: _"**Konstin**, Through the cracks, you can see a gray cement floor. Something gleams on the ground, flickering in the torchlight. It is shaped like a large, wet footprint!"_
 
 **Konstin**: _"Eek! I let the others know."_
 
-**Warden**: _"**Konstin**: You move to notify the others of your discovery, but notice that **Gar** has left the room, but see his torchlight flickering down the **Western** corridor. You meet up with **Leib** just as he digs up the stone fist. You tell him what you've discovered, and point out **Gar's** absence."_
+**Warden**: _"**Konstin**: You move to notify the others of your discovery, and notice that **Gar** has left the room, but see his torchlight flickering down the **Western** corridor. You meet up with **Leib** just as he digs up the stone fist. You tell him what you've discovered, and point out **Gar's** absence."_
 
 **Konstin**: _"**Gar**, get back here, you dummy!"_
 
@@ -171,16 +173,17 @@ The **Warden** describes the room as "_A courtyard. Moonlight drifts through the
 
 **Gar**: _"Yes"_. 
 
-**Warden**: _"You follow the tunnel bend towards the Southwest. It ends at a closed wooden doorway. It is rotted, it iron lock rusted and coming off the hinges. It would take only a small push to open."_
+**Warden**: _"You follow the tunnel bend towards the **South-west**. It ends at a closed wooden doorway. It is rotted, it iron lock rusted and coming off the hinges. It would take only a small push to open."_
 
 **Gar**: _"I think I'm going to head back, rather than enter this new area alone."_
 
-**Warden**: _"As you do, you hear one of your companions say something in the other room."_
+**Warden**: _"As you do, you hear a loud banging noise coming from room your friends are in."_
 
-Now that all three players have taken a turn, the **Warden** rolls on the [**Dungeon Events**](#dungeon-events) table. The result is a **1**: an **Encounter**. The **Warden**'s prep indicates that the _Zombies_ in the adjacent room will react to nearby noise, so... 
+**Warden**: _"Alright folks. You've each completed a full round. Accordingly, **Leib** made a ton of noise_ [**Leib's** player winces], _which means I have to roll on the **Dungeon Events** table!_"
+
+> The **Warden** rolls on the [**Dungeon Events**](#dungeon-events) table. The result is a **1**: an **Encounter**. The **Warden**'s prep indicates that the _Zombies_ in the adjacent room will react to nearby noise, so... 
 
 **Warden**: _"The shuffling sound **Konstin** heard earlier behind the **East** door suddenly becomes much louder. Then, something large and powerful begins **slamming** itself into the wooden door! It creaks and groans under the assault, until finally it explodes from the top! Through the newly-created hole, **Leib** and **Konstin** can clearly make out the face of a decayed human man, his flesh flaking beneath layers of slime. He appears clearly undead, and very, very, angry."_
 
 > **Combat ensues between the party members in the Courtyard - a _turn undead_ spellbook is used, and the player characters are quickly (and brutally) victorious. Gar returns from the tunnel just as the fight is ended.**
 
-**Warden**: _"Alright folks. You've each completed a full turn. Please tell me what you plan to do next..."_
