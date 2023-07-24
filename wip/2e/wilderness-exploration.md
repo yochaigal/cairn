@@ -104,7 +104,7 @@ search_exclude: true
 - The party rolls **1d6** to see if they get lost along the way. This risk can increase, depending on the travel **Difficulty**.  Maps, skills, and relevant backgrounds may decrease the chances of getting lost.
 - If lost, the party may need to spend a **Wilderness Action** to recover their way. Otherwise, the party reaches the next **point** along their route.
 
-> For example, **Tough** terrain in _Fair_ weather would require a roll of 2 or under in order for the party to get lost.  
+> Compare the **Getting Lost**result to the current travel **Difficulty** to lower or raise the chances of getting lost. For example, Tough terrain in Fair weather would require a roll of 2 or under in order for the party to get lost.  
 
 ### Explore
 
@@ -127,7 +127,7 @@ search_exclude: true
 ## Tables
 
 ### Weather
-If the "**Extreme**" weather result is rolled twice in a row, the weather turns to "**Catastrophic**". A summer squall becomes a hurricane, a fall storm floods the valleys, etc.
+If the "**Extreme**" weather result is rolled twice in a row, the weather turns to "**Catastrophic**". A squall becomes a hurricane, a storm floods the valley, etc.
 
 |        |            |            |            |            |
 | :----: | :--------: | :--------: | :--------: | :--------: |
