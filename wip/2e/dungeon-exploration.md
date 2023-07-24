@@ -33,6 +33,27 @@ search_exclude: true
 2. The **Warden** resolves each character's action simultaneously, as well as any **actions** that are already in-progress.
 3. The players record any loss of resources and any new conditions (i.e. item use, _deprivation_, etc). The cycle then _begins again_. If appropriate, the **Warden** should roll on the [**Dungeon Events**](#dungeon-events) table (see below). 
 
+## Dungeon Events
+
+Exploring a dungeon is always dangerous, and time must always be weighed against the risk of awakening the location's denizens, natural hazards, and worse.  
+When the party:
+
+- Spends more than one dungeon cycle in a single room or location 
+- Moves quickly through or haphazardly 
+- Moves into a new area, level, or zone
+- Creates a loud disturbance 
+
+**Roll 1d6 on the the Dungeon Events table below.**
+
+|       |                 |                                                                                                           |
+| :---: | :-------------: | :------------------------------------------------------------------------------------------------------:  |
+| **1** | **Encounter**   | Roll on an encounter table. Possibly **hostile** (see [Reactions](/[#reactions](https://cairnrpg.com/wip/2e/core-rules/#reactions))).            |
+| **2** | **Environment** | Surroundings shift or escalate. Water rises, ceilings collapse, a ritual nears completion, etc.           |
+| **3** | **Loss**        | Torches are blown out, an ongoing spell fizzles, etc. The party must resolve the effect before moving on. |
+| **4** | **Exhaustion**  | The PCs must rest soon, otherwise they may take **Fatigue** or become _deprived_.                                |
+| **5** | **Sign**        | A “spoor” (clue, track, scent, victim, droppings, etc.) is discovered.                      |
+| **6** | **Quiet**       | The party is left alone (and safe) for the time being.                                                    |
+
 ## Actions
 
 - **Actions** are any non-passive activities such as _searching for traps_, _forcing open a door_, _listening for danger_, _disarming a trap_, _engaging an enemy in combat_, _casting a spell_, _dodging a trap_, _running away_, _resting_, etc. 
@@ -77,28 +98,6 @@ search_exclude: true
 - A cautious character should be presented with any and all information that would allow them the opportunity to _avoid_ springing a trap. An unwitting character will trigger a trap according to the fiction, or otherwise have a 2-in-6 chance.
 - **Traps** can usually be detected by carefully **searching** a room.
 - Damage from traps is taken from ability scores (usually **STR** or **DEX**) and _not_ from **HP**. Armor can reduce damage, but only if applicable (e.g. a shield would not reduce damage from noxious gas).
-
-## Dungeon Events
-
-Exploring a dungeon is always dangerous, and time must always be weighed against the risk of awakening the location's denizens, natural hazards, and worse.  
-When the party:
-
-- Spends more than one dungeon cycle in a single room or location 
-- Moves quickly through or haphazardly 
-- Moves into a new area, level, or zone
-- Makes a lot of noise 
-
-Roll 1d6 on the the Dungeon Events table. 
-
-
-|       |                 |                                                                                                           |
-| :---: | :-------------: | :------------------------------------------------------------------------------------------------------:  |
-| **1** | **Encounter**   | Roll on an encounter table. Possibly **hostile** (see [Reactions](/[#reactions](https://cairnrpg.com/wip/2e/core-rules/#reactions))).            |
-| **2** | **Environment** | Surroundings shift or escalate. Water rises, ceilings collapse, a ritual nears completion, etc.           |
-| **3** | **Loss**        | Torches are blown out, an ongoing spell fizzles, etc. The party must resolve the effect before moving on. |
-| **4** | **Exhaustion**  | The PCs must rest soon, otherwise they may take **Fatigue** or become _deprived_.                                |
-| **5** | **Sign**        | A “spoor” (clue, track, scent, victim, droppings, etc.) is discovered.                      |
-| **6** | **Quiet**       | The party is left alone (and safe) for the time being.                                                    |
 
 ## Example
 A party of 3 player characters (**Leib**, **Konstin**, and **Gar**) have entered the first level of the forest ruins of **Ein Eyton**, once the home of the death-cult **Lunheuzo**. Each character has a torch, but only **Leib** has one lit. There are no light sources here beyond the Moon in the night sky. The **Warden** reads the first room's description:  
