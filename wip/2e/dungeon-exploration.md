@@ -22,8 +22,8 @@ search_exclude: true
 ## The Basics
 
 - The dungeon exploration cycle (see below) is divided into a series of **turns**, **actions**, and their consequences. 
-- On their **turn**, a character can move a distance equal to their torchlight's perimeter (about 40ft) and perform one **action**. They can spend their **action** to move an incredible distance, or at great speed.
-- The **Warden** should present obvious information about an area and its dangers freely and at no cost. Moving quickly or without caution may increase the chance of encountering a wandering monster, springing a trap, or triggering a roll on the [**Dungeon Events**](#dungeon-events) table. 
+- On their **turn**, a character can move a distance equal to their torchlight's perimeter (about 40ft), and perform one **action**. Players can use their **action** to move up to three times that distance, though that will increase the chance of triggering a roll on the [**Dungeon Events**](#dungeon-events) table.
+- The **Warden** should present obvious information about an area and its dangers freely and at no cost. Moving quickly or without caution may increase the chance of encountering a wandering monster, springing a trap, or triggering a roll on the [**Dungeon Events**](#dungeon-events) table.
 
 > Although the term "dungeon" is used here, it can be exchanged for any dangerous locale (mansions, farmhouses, adventure site, etc).
 
@@ -31,7 +31,7 @@ search_exclude: true
 
 1. The **Warden** describes the party's surroundings and any immediate dangers (combat, traps, surprises, etc.). The players then declare their character's intended movements and **actions**. 
 2. The **Warden** resolves each character's action simultaneously, as well as any **actions** that are already in-progress.
-3. The players record any loss of resources and any new conditions (i.e. item use, _deprivation_, etc). The cycle then _begins again_. If appropriate, the **Warden** should roll on the [**Dungeon Events**](#dungeon-events) table (see below). 
+3. The players record any loss of resources and any new conditions (i.e. item use, _deprivation_, etc). The cycle then _begins again_. If appropriate, the **Warden** should roll on the [**Dungeon Events**](#dungeon-events) table. 
 
 ## Dungeon Events
 
