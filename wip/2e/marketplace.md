@@ -51,7 +51,7 @@ search_exclude: true
 | Common Agents (Glue, Grease, etc.)                 | 10  |
 | Common Tools (Hammer, Shovel, etc.)                | 10  |
 | Compass                                            | 75  |
-| Complex Instruments (Bagpipes, Fiddle, etc.)       | 10  |
+| Complex Instruments (Bagpipes, Fiddle, etc.)       | 50  |
 | Containers (Sack, Waterskin, etc.)                 | 10  |
 | Cooking Gear (Pots, Utensils, etc.)                | 10  |
 | Costume Gear (Face Paint, Disguise)                | 15  |
@@ -73,7 +73,7 @@ search_exclude: true
 | Rope (25ft)                                        | 5   |
 | Sedative                                           | 30  |
 | Sewing kit                                         | 20  |
-| Simple Instruments (Pipes, Lute, etc.)             | 50  |
+| Simple Instruments (Pipes, Lute, etc.)             | 10  |
 | Smoking pipe (_petty_)                             | 15  |
 | Specialized Tools (Ink, etc.)                      | 20  |
 | Spiked boots (_petty_)                             | 5   |

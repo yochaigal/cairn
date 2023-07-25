@@ -1,12 +1,3 @@
----
-title: Changelog
-layout: default
-nav_exclude: true
-search_exclude: true
-parent: Playtest
-grand_parent: WIP
----
-
 # Changelog
 
 ## Current changelog is in google doc
