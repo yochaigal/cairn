@@ -8,6 +8,7 @@ search_exclude: true
 ---
 
 # Factions Overview
+
 - Rules for initially generating **Factions** for your setting can be found [here](/wip/2e/setting#factions).
 - **Factions** possess **Advantages** that allow them to accomplish their goals, the culmination of which will result in fulfilling their **Agendas**.
 - All Factions also face **Obstacles**, which prevent them from easily accomplishing their **Agendas**
@@ -17,6 +18,7 @@ search_exclude: true
 > The setting map should reflect the impact of **Factions** as they work on completing their **Agendas** and acquiring more **Advantages**.
 
 #### Factions Creation Procedure
+
 - First, follow the initial Factions Creation instructions found in [Setting](/wip/2e/setting#factions), if you have yet to do so.
 - Follow steps **1-5** for each **Faction**.
 1. Consider how many **Advantages** a **Faction** would have (between 2-4) based on their **Faction Type** and roll accordingly on the [**Faction Advantages**](#Advantages) table. Flesh out the specifics of the Advantages as indicated by the results from the table. 
@@ -28,6 +30,7 @@ search_exclude: true
 > Do not feel limited by the table results below. If something feels "off" or a different table result would work better for your setting, use it!
 
 ## Advantages
+
 - **Advantages** reflect a **Faction's** influence, materials, wealth, and unique features. **Advantages** are best interpreted through the lens of **Faction Type**.
 - **Factions** add or lose **Advantages** by trying to complete their **Agenda** (see below).
 - **Factions** leverage **Advantages** as much as possible to achieve their goals, and at the same time work to acquire _more_ **Advantages**. 
@@ -92,11 +95,13 @@ search_exclude: true
 | **12**  | **Body Count**            | Someone must die to ensure a successful outcome. The **Agenda** demands it.     |
 
 ### Goals
+
   - Goals are _progressive_, each building on the previous successes (or failures) of earlier goals.
   - Most goals should focus on acquiring a distinct **Advantage** in order to proceed to the next goal.
   - At least one goal should deal with the **Faction's** primary **Obstacle** (see above). This may be the first goal, or the last.
 
 ## Seneschals
+
 - **Seneschals** are often in charge of completing one or more of the goals of the **Agenda** of a **Faction**.
 - Particularly large **Factions** may have additional **Seneschals**, often with each in charge of a different set of **Resources**
 - Small **Factions** may have a single leader that acts as **Seneschal**, and may even be a **Faction** of one!
@@ -104,9 +109,11 @@ search_exclude: true
 > Often **Seneschals** will have personal motivations that differ from the Faction's main **Agenda**, a fact that canny PCs can exploit for their own gain.
 
 ## Example Faction
+
 - **Academic**: _Royal Cartographer's Guild_
 - **Base**: _Seaside Athenaeum_
-##### Advantages
+
+### Advantages
 - **Apparatus**: A _Map of the Dead_. It opens a path to the underworld, and to the secrets of the dead.  
 - **Position**: The _Seaside Athenaeum_ is both well-defended and steeped in forbidden secrets. 
 - **Renown**: None would dare defy the _Guild_ publicly. Their voice carries great weight in the kingdom.
@@ -118,6 +125,7 @@ search_exclude: true
 - **Obstacle**: **Rotten From Within**. The _Guild_ has received legitimate intelligence that a well-placed operative moves within their ranks, and is aware of the coming operation.
 
 ## Faction Rules
+
 - By default, **Factions** operate independent of the player character's actions. If the PCs do nothing, the **Factions** should still act to achieve their aims.
 - Whenever a **Faction** is positioned to advance a **goal** in their **Agenda**, roll a **d12** on the [Faction Actions](#faction-actions) table. 
 - If two **Factions** are _opposed_, the **Faction** _most at risk_ makes a WIL save, using the score of its highest-ranking **Seneschal**. 
