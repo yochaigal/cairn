@@ -65,15 +65,13 @@ search_exclude: true
 - Environmental conditions (sudden gusts of wind, dust, water, etc.) can easily blow out a torch.
 
 > ### Light Sources
-> A torch can be lit 3 times before degrading. A lantern can be relit 6 times per oil can, but requires more inventory slots.
+> A torch can be lit 3 times before degrading. A lantern can be relit indefinitely, but requires an oil can (6 uses).
 
 ## Difficulty
 
-- An area's [**weather**](#weather-difficulty), [**terrain**](#terrain-difficulty), obstacles, [**night travel**](#night), and slow or injured party members can reduce travel speed or make travel impossible. Characters that are _deprived_ always slow down the entire party. 
-- The party may need to spend **Fatigue**, resources, tools or other resource in order to maintain their travel speed. 
-- Mounts, guides, and maps can increase the party's travel speed or even overcome a terrain's **Difficulty**.
-
-| Maintained roads and trails should be considered **Easy** unless the terrain says otherwise.
+- An area's [**weather**](#weather-difficulty), [**terrain**](#terrain-difficulty), obstacles, [**night travel**](#night), and _deprived_ or injured party members can reduce the party's speed or make travel impossible. 
+- Mounts, guides, and maps can increase the party's travel speed or even overcome a terrain's **Difficulty**. The party may also need to spend **Fatigue**, resources, tools or other resource in order to sustain their pace.  
+- Maintained roads and trails should be considered **Easy** unless the terrain or weather say otherwise.
 
 ### Terrain Difficulty
 
