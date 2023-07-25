@@ -104,7 +104,7 @@ search_exclude: true
 - The party rolls **1d6** to see if they get lost along the way. This risk can increase or decrease, depending on the travel **Difficulty**, items, skills, and relevant backgrounds of the party.
 - If lost, the party may need to spend a **Wilderness Action** to recover their way. Otherwise, the party reaches the next **point** along their route.
 
-> Remember to reference the **Getting Lost** result to the current travel **Difficulty**. For example, Tough terrain in Fair weather would require a roll of 2 or under in order for the party to get lost.  
+> Remember to compare the **Getting Lost** result to the current travel **Difficulty**. For example, Tough terrain in Fair weather would require a roll of 2 or under in order for the party to get lost.  
 
 ### Explore
 
