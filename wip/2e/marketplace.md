@@ -73,7 +73,7 @@ search_exclude: true
 | Rope (25ft)                                        | 5   |
 | Sedative                                           | 30  |
 | Sewing kit                                         | 20  |
-| Simple Instruments (Pipes, Lute, etc.)             | 100 |
+| Simple Instruments (Pipes, Lute, etc.)             | 50  |
 | Smoking pipe (_petty_)                             | 15  |
 | Specialized Tools (Ink, etc.)                      | 20  |
 | Spiked boots (_petty_)                             | 5   |
