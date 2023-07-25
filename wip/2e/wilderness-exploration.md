@@ -39,12 +39,9 @@ search_exclude: true
 
 ## Wilderness Exploration Cycle
 
-1. The **Warden** describes the current **point** or **region** on the map.
-2. The **Warden** explains how the current [**Difficulty**](#difficulty) affects the party's **travel speed**.
-3. The party plots or adjusts a given course towards their destination, each character choosing a single **Wilderness Action**.
-4. The **Warden** narrates the results, and then rolls on the [**Wilderness Events**](#wilderness-events) table. The party responds to the results.
-5. The **players** and the **Warden** record any loss of resources and new conditions (i.e. torch use, _deprivation_, etc). 
-6. The process is repeated, starting from step **1**. 
+1. The **Warden** describes the current **point** or **region** on the map, and how the current [**Difficulty**](#difficulty) affects the party's **travel speed**. The party plots or adjusts a given course towards their destination. 
+2. Each character chooses a single **Wilderness Action**. The **Warden** narrates the results, and then rolls on the [**Wilderness Events**](#wilderness-events) table. The party responds to the results.
+3. The **players** and the **Warden** record any loss of resources and new conditions (i.e. torch use, _deprivation_, etc), and the cycle repeats. 
 
 ## Night
 
