@@ -94,7 +94,7 @@ grand_parent: WIP
 ## Details
 
 - Each dot on the map is one **Detail**.  
-- The **Heart** of a forest can be any **Detail**. It is here that the forest is its most powerful, most sentient, and most dangerous. 
+- The **Heart** is where the forest is the most powerful, the most sentient, and the most dangerous. 
 - Each **Detail** is connected to its nearest neighbor by a trail, indicated by a specififc [Trail Type](#trail-types). 
 
 ### Adding Details
