@@ -1,15 +1,34 @@
+---
+title: The Fallen Kingdom
+layout: default
+nav_exclude: true
+search_exclude: true
+parent: West Marches
+grand_parent: WIP
+---
 
+# The Fallen Kingdom
 
-Geographic themes
+## Basics
+
+### Geographic themes
 - Forest on all sides, 1-9
 - Southern-flowing river, spilling into a waterfall (Heart)
 - Heart is only traversable by stopping at encampment North, then trekking down. Cloud forest?
 - River continues as land opens to non-forest, mostly plains, plateaus, grasslands etc but mountain range on the west side
+- Current weather: Drizzly
+- River: 
+- Forest? The Watersilk Weald?
+- Language family
 
-Language family:
-Current weather: Drizzly
-Land/Kingdom: The Riverlands, Watersilk Weald
-River: Wandering? Watersilk?
+### Summary
+
+About this region: it is covered in forest, and a river runs North to South. At one point (near Reprieve) the river becomes an enormous waterfall, and travelers must disembark at **Reprieve** and hike down to the base. 
+
+**Waterfall City** is a bustling new frontier city, and only a small portion of roads and trails connect it to points 1-9. Points 10-17 are all unexplored and happen to the South. 
+
+These lands were once ruled by a long-dead civilization, which has left behind some pretty powerful "magical items" (called Relics). There is now a Relic goldrush of sorts, where large amounts of gold are paid for the recovery of Relics from the ruins.
+
 
 ### Faction A
 

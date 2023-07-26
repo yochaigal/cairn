@@ -3,7 +3,7 @@ title: Calendar
 layout: default
 nav_exclude: true
 search_exclude: true
-parent: Playtest
+parent: West Marches
 grand_parent: WIP
 ---
 

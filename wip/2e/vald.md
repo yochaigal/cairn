@@ -3,7 +3,7 @@ title: Vald
 layout: default
 nav_exclude: true
 search_exclude: true
-parent: Playtest
+parent: 2e
 grand_parent: WIP
 ---
 
