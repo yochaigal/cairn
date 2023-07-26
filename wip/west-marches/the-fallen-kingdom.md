@@ -32,57 +32,57 @@ These lands were once ruled by a long-dead civilization, which has left behind s
 
 ### Faction A
 
--   Religious (Order)
-    -   Renknown
-        -   Respected far and wide
-    -   Fealty
-        -   Its followers are loyal
-    -   Subterfuge
-        -   Employees a network of spies, like The Entity
--   Overthrow current regime
-    -   Specialists required
-        -   Obtain Relic
+- Religious (Order)
+  - Renknown
+    - Respected far and wide
+  - Fealty
+    - Its followers are loyal
+  - Subterfuge
+    - Employees a network of spies, like The Entity
+  - Overthrow current regime
+    - Specialists required
+    - Obtain Relic
 
 ### Faction B
 
--   Mercantile (Guild)
-    -   Resources
-        -   Gold
-        -   Land
-    -   Force
-        -   Warriors
-        -   Relics
-    -   Anonymity
-        -   An amorphous company, run by a shadowy cabal
--   Preserve the Status Quo
-    -   Public Perception
-        -   Public works
-        -   Building up the city
+- Mercantile (Guild)
+  - Resources
+    - Gold
+    - Land
+    - Force
+      - Warriors
+      - Relics
+  - Anonymity
+    - An amorphous company, run by a shadowy cabal
+  - Preserve the Status Quo
+    - Public Perception
+    - Public works
+    - Building up the city
 
 ### 1. Waterfall City
 
 - Adjacent to an enormous waterfall
 - The Great Waterwheel: Powers the city, turning a great wheel.
 - Thundering Market: an enormous trading center, set to the backdrop of the roaring falls.
-- The Looming Tower: The seat of power in the city, located on the cliff edge, overlooking the waterfall.
-- Fisher's Wharf: An important food source, supplying the city with fresh fish from the river.
-- The Drenched Plaza: A public space in the city, constantly covered in a mist from the waterfall.
+- Rainbow Wharf: An important food source, supplying the city with fresh fish from the river.
+- The Wets: A public space in the city, constantly covered in a mist from the waterfall.
 
 ### 2. Reprieve
 
 - Oasis and river basin, serves as a starting point for a difficult hike.
 - Overgrown garden maze: a mysterious, ancient site overgrown with greenery.
 - Views of the entire valley: panoramic views of the waterfall and valley.
-- The hike: a 12-hour journey to the base of the waterfall.
+- The hike: an 8 hr journey to **Waterfall City**.
 
 ### 3. Forest/Thicket
 
 - Landmark: Glimmering Cave, a curious natural formation that sparkles in the sunlight.
-- Dense forest: This region is a rich habitat filled with diverse fauna and flora.
+- Dense forest
+  - 
 
 ### 4. Hollows
 
-- Ruins: Fallen Obelisk, a relic from a long-lost civilization, believed to have collapsed due to unknown reasons.
+- Ruins: Fallen Obelisk
 - Scholars and historians often gather here for research and study.
 
 ### 5. Bog/Swamp
