@@ -1,5 +1,6 @@
 ---
 layout: default
+title: West Marches
 parent: WIP
 nav_order: 11
 nav_exclude: true
