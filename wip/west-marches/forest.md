@@ -47,13 +47,29 @@ A **large troll** sits in the middle of a vibrant field of blooms, engrossed in 
 - **Field**: The flowers, varied and plentiful, rustle and sway as if whispering to each other, even when no wind blows.
 - **Hope Glass**: Looking into the mirror allows the holder to talk itself, one year in the future. If the mirror reflects nothing, their spirit is elsewhere. 1 use per person (permanent). **Recharges** when given willingly to another.  
 
-### 4. Cathedral of Trees
-  - A great oak has been felled, perhaps by lightning. A large hole is rent on one side.
-  
-### 5. Lost Altar
-  - A robed woman is tending to a wounded animal, whispering in its ear.
-### 6. Will-o’-Wisps
-  - A hillside cave, wafting the scent of damp and decay. Within, a stone statue of some forgotten deity.
+### 4. Lightning Struck Grandeur
+
+A gargantuan **fallen oak**, possibly struck by lightning, lies in the heart of a serene grove. A sizable **cavity** in its side invites explorers.
+
+- **Fallen Oak**: The bark around the scar is unusually smooth to the touch and sparks tiny jolts of static electricity.
+- **Cavity**: Large enough for a person to crawl into. Inside, it's surprisingly dry and resonates with soft, harmonious hums when the wind blows.
+- **Grove**: The trees in the grove form a natural dome-like cathedral around the fallen oak. They sway in the wind, producing a soothing rustle that's almost hymnal in nature. In their roots, a network of interconnected tunnels hint at a deeper connection beneath the grove.
+
+### 5. Whispering Sanctuary
+
+On a large, moss-covered **altar** a **red-haired woman** is tending to a **wounded fox** with soothing whispers.
+
+- **Altar**: An ancient stone structure covered in moss and etched with symbols and burning herbs.
+- **Woman**: **Annafranax**. Her whispers mend most wounds, but she seeks rare herbs to aide her work. She would repay the party in kind, as her healing skills are well-known.
+- **Fox**: Her husband (a **Woodwise**). Cannot leave his current form so long as he is injured (an arrow from a tourist).
+
+### 6. Gloomlight Cave
+
+The scent of damp and decay wafts from a **hillside cave**, inside which a stone statue of an **unknown deity** presides. Mysterious **will-o'-wisps** float around the area.
+
+- **Cave**: The lair of a dangerous creature, evidenced by the scattered, gnawed bones near the entrance.
+- **Unknown Deity**: The statue holds an empty bowl outstretched. Its eyes seem to follow one's movements.
+- **Will-o'-Wisps**: Mischievous and potentially hostile if provoked, they flicker and dance around the area. They're drawn to the statue.
 
 ## B (Old Logging Road)
 
