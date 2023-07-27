@@ -29,11 +29,18 @@ The path ends at a wide, lazy **river**. A group of frolicking **otters** play w
 - **River**: Bisects the path, which continues on the other side. There is no easy way across.
 - **Trinket**:  A tiny **suit of armor**, crafted in exquisite detail, as if worn for a real-life, miniature knight. The otters have claimed the suit of armor, but may be convinced to part with it.
 
-### 12. Thorny Thickets
-  - The path ends at a small pond. The water looks pure, but something moves subtly within.
+### 12. Shimmering Pond
 
-### 15. Ward Circle
-  - In the crook of a hollow tree, six ravens squawk and preen. If observed they stare back in silence.
+Three paths meet around a serene **pond**. D to the **East**, B to the **West**.
+
+- **Pond**: Something white thrashes underneath, visible only after careful observation.
+
+### 15. Silent Observers
+
+Inside a hollow **tree**, six **ravens** squawk and preen. 
+
+- **Tree**: Its interior is carved with symbols of warding. 
+- **Ravens**: The birds act as eyes for the [old witch]. They watch passers-by with keen intelligence, reporting all back to their master.
 
 ## A (War Route)
 
@@ -97,9 +104,12 @@ An old, vine-covered **wooden cabin**. At sundown, a delightful aroma wafts out 
 - **Cabin**: Appears long-abandoned. A long dining room table is free from dust, protected by a beautiful white tablecloth. In the oven are human remains.
 - **Meal**: At sundown every evening, a perfectly prepared meal appears on the dining room table, still warm. The food is delicious and nourishing, but leaves the eater _deprived_ the following day if more of the food is not consumed. 
 
-### 10. Slippery Path
+### 10. Silver Falls
 
-A lone **woodwose** stands tall in the center of the path ahead, clutching a large **stick** with a determined gaze. 
+A majestic **waterfall** sends droplets into the sunlight, casting vibrant rainbows. A **black horn** protrudes from the cascade, its owner hidden.
+
+- **Waterfall**: The cascade is strong, but an experienced climber could scale the rocks to the side. A hidden cave exists behind the waterfall.
+- **Black Horn**: 
 
 ## C (Animal Path)
 
@@ -112,7 +122,6 @@ A collapsed and **rotting mill**, surrounded by **yellow dirt**.
 - **Mill**: 
 - **Sand**: Quicksand. DEX save to escape, failure causes the victim to sink down further (maximum 3 attempts).
 
-
 ### 12. Wounded Watcher
 
 A wounded **boar** limps painfully near what seems to be large, **black mass** of leaves and wood.
@@ -120,13 +129,20 @@ A wounded **boar** limps painfully near what seems to be large, **black mass** o
 - **Boar**: Has a large spider bite on one of its hindquarters. It does not run away, and its eyes hold a fierce determination.
 - **Black Mass**: White silk holds the pile together. Hidden beneath is a nest of giant spiders.
 
-
 ## D (Cloistered Grove)
 
 - **Spoor**: Swaying plants
 
-### 13. Perilous Bridge
-  - Wild berries grow here in abundance. None have been eaten, not even by birds.
+### 13. Wildberry Bridge
 
-### 14. Fungus Grotto
-  - A circle of standing stones, overgrown with moss. No grass grows in their shadow.
+**Wild berries** grow in unusual abundance along the trail, untouched by any creatures. A fragile **wooden bridge** crosses a deep ravine nearby. 
+
+- **Berries**: Eating the berries cures hunger and _deprivation_, but causes late-night, violent hallucinations (WIL save to snap out of it).
+- **Bridge**: During the day it sways dangerously over the chasm. On a windy or stormy day a DEX save is required to get across safely. At night the bride is solid and easily crossed, regardless of the weather.
+
+### 14. Sporestone Hollow
+
+A **circle of mossy stones** encloses a grotto, filled with a variety of brightly colored **fungus**.
+
+- **Stone Circle**: The stones hum softly when touched, a melodic resonance.
+- **Fungus**: A few varieties are recognized as curative, but most are dangerously poisonous. Sampling the wrong one could lead to paralysis, hallucinations, or even transformation into a fungal creature.
