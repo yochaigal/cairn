@@ -18,13 +18,22 @@ grand_parent: WIP
 A circle of **mossy stones** form a perfect around a **large oak tree**. A **gentle melody** emanates from somewhere near the tree. 
 
 ### **Stone Circle**: No grass or vegetation grows in its shadow. They form a perfect circle around the tree.
+
 ### **Oak Tree**: Ancient. The boughs are thick enough to blot out the sky. 
+
 ### **Melody**: Lovely, induces gentle sleep after half an hour (WIL save to resist). Sleepers wake feeling refreshed (_deprivation_ is cured). 
 
-### 7. Leafy Village
-  - A wide river where otters are playing with something shiny. It appears to be a small suit of armor.
+### 7. Otter's Gleam
+
+The path ends at a wide, lazy **river**. A group of frolicking **otters** play with a **shiny trinket**, making odd, giggling noises. 
+
+- **Otters**: Highly intelligent, territorial, and capable of speech. They love shiny things, fish, and cracking crayfish shells.
+- **River**: Bisects the path, which continues on the other side. There is no easy way across.
+- **Trinket**:  A tiny **suit of armor**, crafted in exquisite detail, as if worn for a real-life, miniature knight. The otters have claimed the suit of armor, but may be convinced to part with it.
+
 ### 12. Thorny Thickets
   - The path ends at a small pond. The water looks pure, but something moves subtly within.
+
 ### 15. Ward Circle
   - In the crook of a hollow tree, six ravens squawk and preen. If observed they stare back in silence.
 
@@ -65,8 +74,9 @@ On a large, moss-covered **altar** a **red-haired woman** is tending to a **woun
 
 ### 6. Gloomlight Cave
 
-The scent of damp and decay wafts from a **hillside cave**, inside which a stone statue of an **unknown deity** presides. Mysterious **will-o'-wisps** float around the area.
+The scent of damp and decay wafts from a **hillside cave**, inside which a **stone statue** presides. Mysterious **will-o'-wisps** float around the area.
 
+- **statue**: A deity, long-forgotten. 
 - **Cave**: The lair of a dangerous creature, evidenced by the scattered, gnawed bones near the entrance.
 - **Unknown Deity**: The statue holds an empty bowl outstretched. Its eyes seem to follow one's movements.
 - **Will-o'-Wisps**: Mischievous and potentially hostile if provoked, they flicker and dance around the area. They're drawn to the statue.
@@ -76,9 +86,11 @@ The scent of damp and decay wafts from a **hillside cave**, inside which a stone
 - **Spoor**: Peripheral images
 
 ### 8. Bandit Camp
-  - Sleeping peacefully atop two boughts, a giant is snoring. The ground vibrates in response.
+  - Sleeping peacefully atop two bought, a giant is snoring. The ground vibrates in response.
+
 ### 9. Old Timber Mill
   - A rotted, vine-covered cabin, clearly abandoned long ago. A delicious smell wafts from the window.
+
 ### 10. Slippery Moss
   - A lone woodwose stands directly on the path ahead, holding a large stick.
 
@@ -88,6 +100,7 @@ The scent of damp and decay wafts from a **hillside cave**, inside which a stone
 
 ### 11. Rotted Mill
   - A patch of quicksand disguised as soft ground. A broken spool of rope lies nearby.
+
 ### 12. Giant Spider Nest
   - A wounded animal, whining pitifully and limping. There is intelligence in its eyes.
 
@@ -97,5 +110,6 @@ The scent of damp and decay wafts from a **hillside cave**, inside which a stone
 
 ### 13. Perilous Bridge
   - Wild berries grow here in abundance. None have been eaten, not even by birds.
+
 ### 14. Fungus Grotto
   - A circle of standing stones, overgrown with moss. No grass grows in their shadow.
