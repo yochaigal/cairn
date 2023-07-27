@@ -17,11 +17,9 @@ grand_parent: WIP
 
 A circle of **mossy stones** form a perfect around a **large oak tree**. A **gentle melody** emanates from somewhere near the tree. 
 
-### **Stone Circle**: No grass or vegetation grows in its shadow. They form a perfect circle around the tree.
-
-### **Oak Tree**: Ancient. The boughs are thick enough to blot out the sky. 
-
-### **Melody**: Lovely, induces gentle sleep after half an hour (WIL save to resist). Sleepers wake feeling refreshed (_deprivation_ is cured). 
+- **Stone Circle**: No grass or vegetation grows in its shadow. They form a perfect circle around the tree.
+- **Oak Tree**: Ancient. The boughs are thick enough to blot out the sky. 
+- **Melody**: Lovely, induces gentle sleep after half an hour (WIL save to resist). Sleepers wake feeling refreshed (_deprivation_ is cured). 
 
 ### 7. Otter's Gleam
 
@@ -76,7 +74,7 @@ On a large, moss-covered **altar** a **red-haired woman** is tending to a **woun
 
 The scent of damp and decay wafts from a **hillside cave**, inside which a **stone statue** presides. Mysterious **will-o'-wisps** float around the area.
 
-- **statue**: A deity, long-forgotten. 
+- **statue**: A deity, long-forgotten. [Insert Deity information].
 - **Cave**: The lair of a dangerous creature, evidenced by the scattered, gnawed bones near the entrance.
 - **Unknown Deity**: The statue holds an empty bowl outstretched. Its eyes seem to follow one's movements.
 - **Will-o'-Wisps**: Mischievous and potentially hostile if provoked, they flicker and dance around the area. They're drawn to the statue.
@@ -85,24 +83,43 @@ The scent of damp and decay wafts from a **hillside cave**, inside which a **sto
 
 - **Spoor**: Peripheral images
 
-### 8. Bandit Camp
-  - Sleeping peacefully atop two bought, a giant is snoring. The ground vibrates in response.
+### 8. Lost Altar
 
-### 9. Old Timber Mill
-  - A rotted, vine-covered cabin, clearly abandoned long ago. A delicious smell wafts from the window.
+An enormous altar carved from stone blocks the path ahead. 
 
-### 10. Slippery Moss
-  - A lone woodwose stands directly on the path ahead, holding a large stick.
+- **Boulder**: Immovable by conventional means, it blocks the path entirely. If exposed to darkness, it will revert back to a troll.
+- **Troll**:
+
+### 9. The Hearth
+
+An old, vine-covered **wooden cabin**. At sundown, a delightful aroma wafts out of a broken window. 
+
+- **Cabin**: Appears long-abandoned. A long dining room table is free from dust, protected by a beautiful white tablecloth. In the oven are human remains.
+- **Meal**: At sundown every evening, a perfectly prepared meal appears on the dining room table, still warm. The food is delicious and nourishing, but leaves the eater _deprived_ the following day if more of the food is not consumed. 
+
+### 10. Slippery Path
+
+A lone **woodwose** stands tall in the center of the path ahead, clutching a large **stick** with a determined gaze. 
 
 ## C (Animal Path)
 
 - **Spoor**: Animals acting strangely
 
-### 11. Rotted Mill
-  - A patch of quicksand disguised as soft ground. A broken spool of rope lies nearby.
+### 11. Quicksand Trap
 
-### 12. Giant Spider Nest
-  - A wounded animal, whining pitifully and limping. There is intelligence in its eyes.
+A collapsed and **rotting mill**, surrounded by **yellow dirt**.
+
+- **Mill**: 
+- **Sand**: Quicksand. DEX save to escape, failure causes the victim to sink down further (maximum 3 attempts).
+
+
+### 12. Wounded Watcher
+
+A wounded **boar** limps painfully near what seems to be large, **black mass** of leaves and wood.
+
+- **Boar**: Has a large spider bite on one of its hindquarters. It does not run away, and its eyes hold a fierce determination.
+- **Black Mass**: White silk holds the pile together. Hidden beneath is a nest of giant spiders.
+
 
 ## D (Cloistered Grove)
 
