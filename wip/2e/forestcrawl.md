@@ -311,7 +311,7 @@ grand_parent: WIP
 
 - To create a name each **Detail**, combine the results from the first column (adjectives) with the results from the second column (nouns).
 - For the adjective, roll a **d10** twice, first for the **tens** place, and then another for the **ones** place. Then repeat the process for the noun. 
-- Feel free to combine two nouns, or an adjective and a [terrain type](https://cairnrpg.com/wip/2e/setting/#terrain-noun
+- Feel free to combine two nouns, or an adjective and a [terrain type](https://cairnrpg.com/wip/2e/setting/#terrain-noun)
 
 #### Tips & Changes
 - Change it up! The name _Welcoming Grove_ creates a more vivid image than _Beckoning Copse_ might.
