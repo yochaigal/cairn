@@ -9,8 +9,9 @@ grand_parent: WIP
 
 # Forest
 
-## Trunk (Trail Tree)
+## Trunk 
 
+- **Marker**: Trail Tree
 - **Spoor**: Serpent traces 
 
 ### 1. Singing Tree
@@ -18,22 +19,29 @@ grand_parent: WIP
 A circle of **mossy stones** form a perfect around a **large oak tree**. A **gentle melody** emanates from somewhere near the tree. 
 
 - **Stone Circle**: No grass or vegetation grows in its shadow. They form a perfect circle around the tree.
-- **Oak Tree**: Ancient. The boughs are thick enough to blot out the sky. 
+- **Oak Tree**: Ancient, its boughs thick enough to blot out the sky above. 
 - **Melody**: Lovely, induces gentle sleep after half an hour (WIL save to resist). Sleepers wake feeling refreshed (_deprivation_ is cured). 
 
-### 7. Otter's Gleam
+### 7. Wildberry Bridge
 
-The path ends at a wide, lazy **river**. A group of frolicking **otters** play with a **shiny trinket**, making odd, giggling noises. 
+Here the **Trunk** meets _The Old Logging Road_ (**B**), separated by a huge chasm. A fragile **wooden bridge** crosses the ravine. There is no way to get to **B** without it. **Wild berries** grow in unusual abundance along the trail, untouched by any creatures. 
 
-- **Otters**: Highly intelligent, territorial, and capable of speech. They love shiny things, fish, and cracking crayfish shells.
-- **River**: Bisects the path, which continues on the other side. There is no easy way across.
-- **Trinket**:  A tiny **suit of armor**, crafted in exquisite detail, as if worn for a real-life, miniature knight. The otters have claimed the suit of armor, but may be convinced to part with it.
+- **Berries**: Eating the berries cures hunger and _deprivation_, but causes late-night, violent hallucinations (WIL save to snap out of it).
+- **Bridge**: During the day it sways dangerously over the chasm. On a windy or stormy day a DEX save is required to get across safely. At night the bride is solid and easily crossed, regardless of the weather.
 
 ### 12. Shimmering Pond
 
-Three paths meet around a serene **pond**. D to the **East**, B to the **West**.
+Two paths meet the **Trunk**, winding around a serene **pond**: The _Cloistered Grove_ (**D**) to the **West** and the _Animal Path_ (**C**) to the **East**.
 
-- **Pond**: Something white thrashes underneath, visible only after careful observation.
+- **Pond**: A **Gilly Worm** thrashes about in the water, its white tail visible only after careful observation. 
+
+#### Gilly Worm
+
+Appears as a great serpentine creature, but in actuality is a multitude of smaller, rope-like worms acting in a hivemind. 
+
+- 10 HP, 1 Armor, 8 STR, 15 DEX, 10 WIL, bite (d8), slam (d10)
+- **Worms**: 1 HP, 1 STR, 12 DEX, 4 WIL, bite (d4). There are hundreds of them, but most will flee. 
+- **Poison**: Any target suffering STR damage from its bite loses 1d4 STR each day and is _deprived_, starting the following day. An antitoxin can be procured from a single, _live_ worm.
 
 ### 15. Silent Observers
 
@@ -56,10 +64,10 @@ A massive **colony of bees** tirelessly circles a tree heavy with **glistening h
   
 ### 3. Bloom Field
 
-A **large troll** sits in the middle of a vibrant field of blooms, engrossed in dialogue with someone. It is holding something **shiny**.
-- **Troll**: Sits entranced amidst the flowers, conducting a deep conversation with the **Hope Glass**.
-- **Field**: The flowers, varied and plentiful, rustle and sway as if whispering to each other, even when no wind blows.
-- **Hope Glass**: Looking into the mirror allows the holder to talk itself, one year in the future. If the mirror reflects nothing, their spirit is elsewhere. 1 use per person (permanent). **Recharges** when given willingly to another.  
+A **large troll** sits in the middle of a vibrant field of blooms, engrossed by something  **shiny** it is holding.
+- **Troll**: Sits entranced amidst the flowers, conducting a deep conversation with the **Yore Glass**.
+- **Field**: The flowers, varied and plentiful, rustle and sway as if whispering to each other, even when no wind is blowing.
+- **Yore Glass**: Looking into the mirror allows the holder to view any part of its life up to present day. Addictive: WIL save (once) or suffer _deprivation_ if not used daily.
 
 ### 4. Lightning Struck Grandeur
 
@@ -69,13 +77,13 @@ A gargantuan **fallen oak**, possibly struck by lightning, lies in the heart of 
 - **Cavity**: Large enough for a person to crawl into. Inside, it's surprisingly dry and resonates with soft, harmonious hums when the wind blows.
 - **Grove**: The trees in the grove form a natural dome-like cathedral around the fallen oak. They sway in the wind, producing a soothing rustle that's almost hymnal in nature. In their roots, a network of interconnected tunnels hint at a deeper connection beneath the grove.
 
-### 5. Whispering Sanctuary
+### 5. Otter's Gleam
 
-On a large, moss-covered **altar** a **red-haired woman** is tending to a **wounded fox** with soothing whispers.
+The path ends at a wide, lazy **river**. A group of frolicking **otters** play with a **shiny trinket**, making odd, giggling noises. 
 
-- **Altar**: An ancient stone structure covered in moss and etched with symbols and burning herbs.
-- **Woman**: **Annafranax**. Her whispers mend most wounds, but she seeks rare herbs to aide her work. She would repay the party in kind, as her healing skills are well-known.
-- **Fox**: Her husband (a **Woodwise**). Cannot leave his current form so long as he is injured (an arrow from a tourist).
+- **Otters**: Highly intelligent, territorial, and capable of speech. They love shiny things, fish, and cracking crayfish shells.
+- **River**: Bisects the path, which continues on the other side. There is no easy way across.
+- **Trinket**:  A tiny **suit of armor**, crafted in exquisite detail, as if worn for a real-life, miniature knight. The otters have claimed the suit of armor, but may be convinced to part with it.
 
 ### 6. Gloomlight Cave
 
@@ -86,8 +94,9 @@ The scent of damp and decay wafts from a **hillside cave**, inside which a **sto
 - **Unknown Deity**: The statue holds an empty bowl outstretched. Its eyes seem to follow one's movements.
 - **Will-o'-Wisps**: Mischievous and potentially hostile if provoked, they flicker and dance around the area. They're drawn to the statue.
 
-## B (Old Logging Road)
+## B 
 
+- **Type**: Old Logging Road
 - **Spoor**: Peripheral images
 
 ### 8. Lost Altar
@@ -111,8 +120,8 @@ A majestic **waterfall** sends droplets into the sunlight, casting vibrant rainb
 - **Waterfall**: The cascade is strong, but an experienced climber could scale the rocks to the side. A hidden cave exists behind the waterfall.
 - **Black Horn**: 
 
-## C (Animal Path)
-
+## C 
+- **Type**: Animal Path
 - **Spoor**: Animals acting strangely
 
 ### 11. Quicksand Trap
@@ -129,16 +138,18 @@ A wounded **boar** limps painfully near what seems to be large, **black mass** o
 - **Boar**: Has a large spider bite on one of its hindquarters. It does not run away, and its eyes hold a fierce determination.
 - **Black Mass**: White silk holds the pile together. Hidden beneath is a nest of giant spiders.
 
-## D (Cloistered Grove)
+## D 
 
+- **Type**: Cloistered Grove
 - **Spoor**: Swaying plants
 
-### 13. Wildberry Bridge
+### 13. Whispering Sanctuary
 
-**Wild berries** grow in unusual abundance along the trail, untouched by any creatures. A fragile **wooden bridge** crosses a deep ravine nearby. 
+On a large, moss-covered **altar** a **red-haired woman** is tending to a **wounded fox** with soothing whispers.
 
-- **Berries**: Eating the berries cures hunger and _deprivation_, but causes late-night, violent hallucinations (WIL save to snap out of it).
-- **Bridge**: During the day it sways dangerously over the chasm. On a windy or stormy day a DEX save is required to get across safely. At night the bride is solid and easily crossed, regardless of the weather.
+- **Altar**: An ancient stone structure covered in moss and etched with symbols and burning herbs.
+- **Woman**: **Annafranax**. Her whispers mend most wounds, but she seeks rare herbs to aide her work. She would repay the party in kind, as her healing skills are well-known.
+- **Fox**: Her husband (a **Woodwise**). Cannot leave his current form so long as he is injured (an arrow from a tourist).
 
 ### 14. Sporestone Hollow
 
