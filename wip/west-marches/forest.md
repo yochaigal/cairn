@@ -31,13 +31,13 @@ Here the **Trunk** meets _The Old Logging Road_ (**B**), separated by a huge cha
 
 ### 12. Shimmering Pond
 
-Two paths meet the **Trunk**, winding around a serene **pond**: The _Cloistered Grove_ (**D**) to the **West** and the _Animal Path_ (**C**) to the **East**.
+Two paths converge here, winding around a serene **pond**: The _Cloistered Grove_ (**D**) to the **West** and the _Animal Path_ (**C**) to the **East**. Both terminate at the **Trunk**. 
 
 - **Pond**: A **Gilly Worm** thrashes about in the water, its white tail visible only after careful observation. 
 
 #### Gilly Worm
 
-Appears as a great serpentine creature, but in actuality is a multitude of smaller, rope-like worms acting in a hivemind. 
+Appears as a great serpentine creature, but is in fact a multitude of smaller, rope-like worms acting in a hivemind. Its entrails are worth 100gp if delivered fresh (within 24 hours). A single worm is worth 10gp dead, 50gp alive.
 
 - 10 HP, 1 Armor, 8 STR, 15 DEX, 10 WIL, bite (d8), slam (d10)
 - **Worms**: 1 HP, 1 STR, 12 DEX, 4 WIL, bite (d4). There are hundreds of them, but most will flee. 
@@ -69,13 +69,12 @@ A **large troll** sits in the middle of a vibrant field of blooms, engrossed by 
 - **Field**: The flowers, varied and plentiful, rustle and sway as if whispering to each other, even when no wind is blowing.
 - **Yore Glass**: Looking into the mirror allows the holder to view any part of its life up to present day. Addictive: WIL save (once) or suffer _deprivation_ if not used daily.
 
-### 4. Lightning Struck Grandeur
+### 4. Fallen Grove
 
-A gargantuan **fallen oak**, possibly struck by lightning, lies in the heart of a serene grove. A sizable **cavity** in its side invites explorers.
+In the heart of a small **grove** lies a gargantuan **oak**, a sizable **cavity** in its side. The other trees form a natural dome-like cathedral around it.
 
-- **Fallen Oak**: The bark around the scar is unusually smooth to the touch and sparks tiny jolts of static electricity.
-- **Cavity**: Large enough for a person to crawl into. Inside, it's surprisingly dry and resonates with soft, harmonious hums when the wind blows.
-- **Grove**: The trees in the grove form a natural dome-like cathedral around the fallen oak. They sway in the wind, producing a soothing rustle that's almost hymnal in nature. In their roots, a network of interconnected tunnels hint at a deeper connection beneath the grove.
+- **Fallen Oak**: Burn marks act as evidence of a recent lightning stike. The scar is unusually smooth to the touch, tingling slightly on contact. 
+- **Cavity**: Large enough for crawling, single file. It is warm and peaceful. A softly glowing **Heartseed** nestles within. Wherever it is buried, a new forest will bloom. Worth 500gp to a merchant or prince, but priceless to protectors of **The Wood**.
 
 ### 5. Otter's Gleam
 
@@ -87,12 +86,13 @@ The path ends at a wide, lazy **river**. A group of frolicking **otters** play w
 
 ### 6. Gloomlight Cave
 
-The scent of damp and decay wafts from a **hillside cave**, inside which a **stone statue** presides. Mysterious **will-o'-wisps** float around the area.
+The path gradually becomes broken cobblestone steps that lead up a hill towards a small **cave**. Something like firelight is flickering within. 
 
-- **statue**: A deity, long-forgotten. [Insert Deity information].
-- **Cave**: The lair of a dangerous creature, evidenced by the scattered, gnawed bones near the entrance.
-- **Unknown Deity**: The statue holds an empty bowl outstretched. Its eyes seem to follow one's movements.
-- **Will-o'-Wisps**: Mischievous and potentially hostile if provoked, they flicker and dance around the area. They're drawn to the statue.
+- **Cave**: 100 steps exactly to the entrance. Small, the cave appears several hundred years old. Within, a **small lamp** is lit at the feet of an enormous staue. Behind the statue the cave continues for only a short while.
+- **Lamp**: Wrought iron, containing a trapped **Will-o’-Wisp** within. Survives on the energy of nearby pain and suffering. It is brighter on the side closer to the statue.
+  - **Will-o-wisp**: Placed here by its master to feed, then forgotten. Over the decades it has gone quite mad, but contains enough energy to swallow a small village if destroyed.    
+- **Statue**: A troglodytic figure with goat-like eyes holds an empty bowl in each palm. One has ash, the other a feather. Built for a deity by worshipers many centuries ago, it is all but forgotten now. The **bowls** do nothing special. 
+  - The Will-o-wisp feeds from its anguish, and in turn the god is not forgotten. If the lamp is taken away, it loses its last true believer.
 
 ## B 
 
