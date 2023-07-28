@@ -17,7 +17,7 @@ grand_parent: WIP
 - Heart is only traversable by stopping at encampment North, then trekking down. Cloud forest?
 - River continues as land opens to non-forest, mostly plains, plateaus, grasslands etc but mountain range on the west side
 - Current weather: Drizzly
-- River: 
+- River: The Scar
 - Forest? The Watersilk Weald?
 - Language family
 
@@ -78,43 +78,40 @@ These lands were once ruled by a long-dead civilization, which has left behind s
 
 - Landmark: Glimmering Cave, a curious natural formation that sparkles in the sunlight.
 - Dense forest
-  - 
 
-### 4. Hollows
+### 4. Rotterdenes
 
+- Hollows
 - Ruins: Fallen Obelisk
 - Scholars and historians often gather here for research and study.
 
-### 5. Bog/Swamp
+### 5. White Tower Woods
 
-- Singing Stones: A collection of strange stones that emit a musical sound when the wind blows.
-- The stones are considered sacred by the locals, who visit to make offerings and listen to their tunes.
+- See [White Tower Woods](/wip/west-marches/white-tower-woods)
 
 ### 6. Valley
 
 - Lair: Primitive Bridge, a major choke point in the valley and home to a band of local bandits.
 - Breathtaking views of the valley from the bridge.
 
-### 7. Forest (Drought-stricken)
+### 7. White Tower Woods 
 
-- Hazard: Drought, causing significant changes to the local ecosystem.
-- Water conservation: The local population has devised various techniques for conserving water in this arid environment.
+- Hazard: 
+- Singing Stones
 
 ### 8. Cliffs/Canyons
 
 - Ruins: Rotted Mill, a dilapidated mill from a bygone era.
-- Popular among explorers, despite being dangerous due to its unstable structure.
 
 ### 9. Forest (High-altitude)
 
 - Isthmus Town: a settlement built high up in the forest trees.
-- The Lofty Leaf: an inn built atop ancient ruins, offering a magnificent view of the forest.
+- The Stuffed Inn: an inn built atop ancient ruins, offering a magnificent view of the forest.
 - Thick, humid air often envelops the town in a dreamy fog.
 
 ### 10. Mountains
 
-- Lair: Toxic Quarry, a dangerous site known for its poisonous minerals and gasses.
-- Miners risk their lives to extract valuable resources.
+- Lair: **Ring Quarry**, a dangerous site known for its poisonous minerals and gasses.
 
 ### 11. Caverns
 
@@ -124,29 +121,24 @@ These lands were once ruled by a long-dead civilization, which has left behind s
 ### 12. Plateau
 
 - Hazard: Endless Sinkholes, making this an unstable and dangerous area.
-- The area is avoided by most, but daring adventurers might find hidden treasures in these sinkholes.
 
 ### 13. Beaches
 
-- Ruins: Weathered Temple, remnants of a once-glorious temple, eroded by time and sea.
-- A place of quiet reflection and speculation about past civilizations.
+- Ruins: Weathered Temple, remnants of a once-glorious temple.
 
 ### 14. Hollows
 
-- Special: Cult Ritual Site, a mysterious location linked to esoteric ceremonies.
-- A place of unease and curiosity.
+- Special: Cult Ritual Site
 
 ### 15. Grasslands
 
-- Hazard: Molten Lava, a dangerous and unpredictable environment shaped by volcanic activity.
-- The local fauna and flora have adapted to the extreme conditions.
+- Hazard:
 
 ### 16. Hills
 
 - Special: Misty Crater, a mysterious crater filled with a dense fog.
-- A source of many local legends and tales.
 
 ### 17. Beaches or cliffs (dust clouds)
 
-- Overcrowded Monastery: a refuge for those seeking peace and spirituality, suffering from its own popularity.
+- Overcrowded Monastery
 - Dust clouds frequently roll over this area, creating a unique atmosphere.

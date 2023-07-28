@@ -1,5 +1,5 @@
 ---
-title: Forest
+title: White Tower Woods
 layout: default
 nav_exclude: true
 search_exclude: true
@@ -7,7 +7,7 @@ parent: West Marches
 grand_parent: WIP
 ---
 
-# Forest
+# White Tower Woods
 
 ## Trunk 
 
@@ -43,12 +43,9 @@ Appears as a great serpentine creature, but is in fact a multitude of smaller, r
 - **Worms**: 1 HP, 1 STR, 12 DEX, 4 WIL, bite (d4). There are hundreds of them, but most will flee. 
 - **Poison**: Any target suffering STR damage from its bite loses 1d4 STR each day and is _deprived_, starting the following day. An antitoxin can be procured from a single, _live_ worm.
 
-### 15. Silent Observers
+### 16. 
 
-Inside a hollow **tree**, six **ravens** squawk and preen. 
 
-- **Tree**: Its interior is carved with symbols of warding. 
-- **Ravens**: The birds act as eyes for the [old witch]. They watch passers-by with keen intelligence, reporting all back to their master.
 
 ## A (War Route)
 
@@ -157,3 +154,10 @@ A **circle of mossy stones** encloses a grotto, filled with a variety of brightl
 
 - **Stone Circle**: The stones hum softly when touched, a melodic resonance.
 - **Fungus**: A few varieties are recognized as curative, but most are dangerously poisonous. Sampling the wrong one could lead to paralysis, hallucinations, or even transformation into a fungal creature.
+
+### 15. Silent Observers
+
+Inside a hollow **tree**, six **ravens** squawk and preen. 
+
+- **Tree**: Its interior is carved with symbols of warding. 
+- **Ravens**: The birds act as eyes for the [old witch]. They watch passers-by with keen intelligence, reporting all back to their master.
