@@ -43,9 +43,12 @@ Appears as a great serpentine creature, but is in fact a multitude of smaller, r
 - **Worms**: 1 HP, 1 STR, 12 DEX, 4 WIL, bite (d4). There are hundreds of them, but most will flee. 
 - **Poison**: Any target suffering STR damage from its bite loses 1d4 STR each day and is _deprived_, starting the following day. An antitoxin can be procured from a single, _live_ worm.
 
-### 16. 
+### 16. White Tower
 
+A partly collapsed tower, colored **white** as snow. The **upper** portion of the tower is completely missing.  
 
+- **Color**: The paint has chipped away, leaving only a sparse white color.
+- **Upper portion**: No rubble is evident anywhere nearby. The tower is still 40ft high, and looks difficult to climb.  
 
 ## A (War Route)
 
