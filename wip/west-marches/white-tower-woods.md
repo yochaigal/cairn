@@ -22,7 +22,7 @@ A circle of **mossy stones** form a perfect around a **large oak tree**. A **gen
 - **Oak Tree**: Ancient, its boughs thick enough to blot out the sky above. 
 - **Melody**: Lovely, induces gentle sleep after half an hour (WIL save to resist). Sleepers wake feeling refreshed (_deprivation_ is cured). 
 
-### 7. Wildberry Bridge
+### 6. Wildberry Bridge
 
 Here the **Trunk** meets _The Old Logging Road_ (**B**), separated by a huge chasm. A fragile **wooden bridge** crosses the ravine. There is no way to get to **B** without it. **Wild berries** grow in unusual abundance along the trail, untouched by any creatures. 
 
@@ -84,36 +84,26 @@ The path ends at a wide, lazy **river**. A group of frolicking **otters** play w
 - **River**: Bisects the path, which continues on the other side. There is no easy way across.
 - **Trinket**:  A tiny **suit of armor**, crafted in exquisite detail, as if worn for a real-life, miniature knight. The otters have claimed the suit of armor, but may be convinced to part with it.
 
-### 6. Gloomlight Cave
-
-The path gradually becomes broken cobblestone steps that lead up a hill towards a small **cave**. Something like firelight is flickering within. 
-
-- **Cave**: 100 steps exactly to the entrance. Small, the cave appears several hundred years old. Within, a **small lamp** is lit at the feet of an enormous staue. Behind the statue the cave continues for only a short while.
-- **Lamp**: Wrought iron, containing a trapped **Will-o’-Wisp** within. Survives on the energy of nearby pain and suffering. It is brighter on the side closer to the statue.
-  - **Will-o-wisp**: Placed here by its master to feed, then forgotten. Over the decades it has gone quite mad, but contains enough energy to swallow a small village if destroyed.    
-- **Statue**: A troglodytic figure with goat-like eyes holds an empty bowl in each palm. One has ash, the other a feather. Built for a deity by worshipers many centuries ago, it is all but forgotten now. The **bowls** do nothing special. 
-  - The Will-o-wisp feeds from its anguish, and in turn the god is not forgotten. If the lamp is taken away, it loses its last true believer.
-
 ## B 
 
 - **Type**: Old Logging Road
 - **Spoor**: Peripheral images
 
-### 8. Lost Altar
+### 7. Lost Altar
 
 An enormous altar carved from stone blocks the path ahead. 
 
 - **Boulder**: Immovable by conventional means, it blocks the path entirely. If exposed to darkness, it will revert back to a troll.
 - **Troll**:
 
-### 9. The Hearth
+### 8. The Hearth
 
 An old, vine-covered **wooden cabin**. At sundown, a delightful aroma wafts out of a broken window. 
 
 - **Cabin**: Appears long-abandoned. A long dining room table is free from dust, protected by a beautiful white tablecloth. In the oven are human remains.
 - **Meal**: At sundown every evening, a perfectly prepared meal appears on the dining room table, still warm. The food is delicious and nourishing, but leaves the eater _deprived_ the following day if more of the food is not consumed. 
 
-### 10. Silver Falls
+### 9. Silver Falls
 
 A majestic **waterfall** sends droplets into the sunlight, casting vibrant rainbows. A **black horn** protrudes from the cascade, its owner hidden.
 
@@ -131,7 +121,7 @@ A collapsed and **rotting mill**, surrounded by **yellow dirt**.
 - **Mill**: 
 - **Sand**: Quicksand. DEX save to escape, failure causes the victim to sink down further (maximum 3 attempts).
 
-### 12. Wounded Watcher
+### 11. Wounded Watcher
 
 A wounded **boar** limps painfully near what seems to be large, **black mass** of leaves and wood.
 
@@ -143,7 +133,7 @@ A wounded **boar** limps painfully near what seems to be large, **black mass** o
 - **Type**: Cloistered Grove
 - **Spoor**: Swaying plants
 
-### 13. Whispering Sanctuary
+### 12. Whispering Sanctuary
 
 On a large, moss-covered **altar** a **red-haired woman** is tending to a **wounded fox** with soothing whispers.
 
@@ -151,14 +141,14 @@ On a large, moss-covered **altar** a **red-haired woman** is tending to a **woun
 - **Woman**: **Annafranax**. Her whispers mend most wounds, but she seeks rare herbs to aide her work. She would repay the party in kind, as her healing skills are well-known.
 - **Fox**: Her husband (a **Woodwise**). Cannot leave his current form so long as he is injured (an arrow from a tourist).
 
-### 14. Sporestone Hollow
+### 13. Sporestone Hollow
 
 A **circle of mossy stones** encloses a grotto, filled with a variety of brightly colored **fungus**.
 
 - **Stone Circle**: The stones hum softly when touched, a melodic resonance.
 - **Fungus**: A few varieties are recognized as curative, but most are dangerously poisonous. Sampling the wrong one could lead to paralysis, hallucinations, or even transformation into a fungal creature.
 
-### 15. Silent Observers
+### 14. Silent Observers
 
 Inside a hollow **tree**, six **ravens** squawk and preen. 
 

@@ -76,11 +76,15 @@ The Fallen Kingdom's Southern Valley (beyond Dunny Town) is largely unexplored. 
 - Views of the entire valley: panoramic views of the waterfall and valley.
 - The hike: an 8 hr journey to **Waterfall City**. 12 hours uphill.
 
-### 3. Bottleneck Cave
+### 3. Gloomlight Cave
 
-A former religious site, its original purpose lost to time. Locals make pilgrimages to the cave but never enter, leaving their wishes (curled-up scrolls) in the pitted alcoves that mar the hillside. 
+A former religious site, its original purpose lost to time. Locals make pilgrimages to the cave but never enter, leaving their wishes (curled-up scrolls) in the pitted alcoves that mar the hillside. The path gradually becomes broken cobblestone steps that lead up a hill towards a small **cave**. Something like firelight is flickering within. 
 
-- Dense forest
+- **Cave**: 100 steps exactly to the entrance. Small, the cave appears several hundred years old. Within, a **small lamp** is lit at the feet of an enormous staue. Behind the statue the cave continues for only a short while.
+- **Lamp**: Wrought iron, containing a trapped **Will-o’-Wisp** within. Survives on the energy of nearby pain and suffering. It is brighter on the side closer to the statue.
+  - **Will-o-wisp**: Placed here by its master to feed, then forgotten. Over the decades it has gone quite mad, but contains enough energy to swallow a small village if destroyed.    
+- **Statue**: A troglodytic figure with goat-like eyes holds an empty bowl in each palm. One has ash, the other a feather. Built for a deity by worshipers many centuries ago, it is all but forgotten now. The **bowls** do nothing special. 
+  - The Will-o-wisp feeds from its anguish, and in turn the god is not forgotten. If the lamp is taken away, it loses its last true believer.
 
 ### 4. Rotterdenes
 
