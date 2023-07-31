@@ -34,10 +34,9 @@ grand_parent: WIP
 - If they hail from **The Woods**, use the name of their hometown, e.g. "Faroelel of Sundew Glade," or a title, e.g. "JaraSif the Mighty." 
 - If they hail from **The Roots**, create three names and combine them, e.g. "Lylethor Sorin Tal," or dashes, between the second and third syllables, e.g. "Penu-Flor."
 
-
 |         |                    |
 | ------- | ------------------ |
-| **d66** | **First Syllable** |
+| **d100** | **First Syllable** |
 | **1**   | Al                 |
 | **2**   | Bal                |
 | **3**   | Bel                |
@@ -104,6 +103,40 @@ grand_parent: WIP
 | **64**  | Tu                 |
 | **65**  | Ty                 |
 | **66**  | Un                 |
+| **67**  | Ver                |
+| **68**  | Wal                |
+| **69**  | Wim                |
+| **70**  | Xal                |
+| **71**  | Yol                |
+| **72**  | Zan                |
+| **73**  | Zed                |
+| **74**  | Zil                |
+| **75**  | Zor                |
+| **76**  | Qua                |
+| **77**  | Qui                |
+| **78**  | Quo                |
+| **79**  | Ust                |
+| **80**  | Ist                |
+| **81**  | Orl                |
+| **82**  | Urb                |
+| **83**  | Vex                |
+| **84**  | Xen                |
+| **85**  | Yur                |
+| **86**  | Zyr                |
+| **87**  | Ux                 |
+| **88**  | Ox                 |
+| **89**  | Nex                |
+| **90**  | Pax                |
+| **91**  | Pyr                |
+| **92**  | Qix                |
+| **93**  | Rax                |
+| **94**  | Ryk                |
+| **95**  | Syx                |
+| **96**  | Uyk                |
+| **97**  | Vyx                |
+| **98**  | Wyr                |
+| **99**  | Xyr                |
+| **100** | Zyx                |
 
 
 |         |                     |
