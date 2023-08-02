@@ -99,14 +99,14 @@ search_exclude: true
 
 ## Hospitality
 
-|                           |     |
-| ------------------------- | --- |
-| Room & board (per night)  | 10  |
-| Private room (fits 4)     | 5   |
-| Stable & feed (per night) | 5   |
-| Medical healing           | 50  |
-| Spiritual Healing         | 30  |
-| Hot bath                  | 1   |
+|                               |     |
+| ----------------------------- | --- |
+| Room & board (per night)      | 10  |
+| Private room & board (fits 4) | 35  |
+| Stable & feed (per night)     | 5   |
+| Medical healing               | 50  |
+| Spiritual Healing             | 30  |
+| Hot bath                      | 1   |
 
 ## Hirelings (per day)
 
@@ -125,3 +125,9 @@ search_exclude: true
 | Trapper           | 5   |
 | Veteran Bodyguard | 20  |
 
+## Food
+
+|                             |     |
+| --------------------------- | --- |
+| Rations (3 uses)            | 10  |
+| Animal Feed (3 uses, bulky) | 5   |
