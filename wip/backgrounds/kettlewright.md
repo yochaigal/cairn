@@ -38,7 +38,7 @@ Fergus, Eamon, Bram, Idris, Elara, Darragh, Seren, Rónán, Berek, Lorenz
 |     |                    |                                                                                                                                   |
 | --- | ------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | **Fire Eggs**      | Six small pellets made of sea salt, wood, and crockery-dust. They explode at low heat (d8, _blast_) but dissipate quickly.        |
-| 2   | **Black Tar**      | Versatile: both sticky and highly flammible. 3 uses.          |
+| 2   | **Black Tar**      | Versatile: both sticky and highly flammable. 3 uses.          |
 | 3   | **Spiked Boots**   | Cracks heads (d8) as easily as it does ice and muck. Travel is also a bit slower, but easier.                                     |
 | 4   | **Tinker's Paste** | Seals shut any fist-sized opening. 3 uses.                                                                                        |
 | 5   | **Fireworks**      | A dazzling, albeit dangerous display. Enough explosive material to blow off a finger or three. 2 uses remain.                |

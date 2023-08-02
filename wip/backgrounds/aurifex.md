@@ -29,7 +29,7 @@ Hestia, Basil, Rune, Prism, Ember, Quintess, Aludel, Mordant, Salaman, Jazia
 | **2** | You dematerialized a beloved pet. Now it follows you around, invisible but always present. Although it cannot interact with the physical realm, you are able to share its senses (take one **Fatigue**). It follows basic commands. |
 | **3** | You were exposed to a long-acting truth serum whose effects have yet to wear off. The disorder has its advantages: you cannot repeat lies you've heard, either.                                                                     |
 | **4** | You were adept at creating _fake_ gold, which is almost as good. Eventually, your ruse was discovered and you had to make a hasty retreat. Take a heavy **metal ingot** and **gold powder**.                                                    |
-| **5** | Your recipe worked, but a rival stole the blueprint before your claims could be proven. Take a protoype **blunderbuss** (**d12**, _blast_, _bulky_) and a thirst for revenge.                                                        |
+| **5** | Your recipe worked, but a rival stole the blueprint before your claims could be proven. Take a prototype **blunderbuss** (**d12**, _blast_, _bulky_) and a thirst for revenge.                                                        |
 | **6** | Ridiculed for discovering how to turn gold into _lead_, you were a laughing stock. Take a bottle of **universal solvent** (2 uses) that dissolves anything it touches into its constituent parts.                                   |
 
 ## What alchemical marvel is the product of your latest ingenuity? Roll 1d6:
@@ -41,4 +41,4 @@ Hestia, Basil, Rune, Prism, Ember, Quintess, Aludel, Mordant, Salaman, Jazia
 | **3** | **Aqua Vita**      | Purifies any liquid, converting it to pure water. Drinking it cures 1d6 STR. 1 use.                                                                                                                                         |
 | **4** | **Mimic Stone**    | Records a short phrase that can later be played back.                                                                                                                                                     |
 | **5** | **Spark Dust**     | Ignites easily and quickly. Useful for starting a fire or as an incendiary device. 3 uses.                                                                                                                           |
-| **6** | **Homunculus**     | A minature clay replica of yourself that follows your every command to the letter. It hates being enthralled to you and complains bitterly whenever possible. Any damage done to the homunculus is also done to you. |
+| **6** | **Homunculus**     | A miniature clay replica of yourself that follows your every command to the letter. It hates being enthralled to you and complains bitterly whenever possible. Any damage done to the homunculus is also done to you. |

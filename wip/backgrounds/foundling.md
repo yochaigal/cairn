@@ -18,8 +18,8 @@ Faunus, Snowdrop, Wisp, Silverdew, Brim, Solstice, Steeleye, Sileas, Gossamer, H
 ## Starting Gear
 
 - Salt pouch
-- Heirloom amulet (glows in the presence of magic)
-- Slingshot (d6)
+- Heirloom amulet (_petty_, glows in the presence of magic)
+- Sling (d6)
 - Dagger (d6) 
 
 ## Who took you in? Roll 1d6:

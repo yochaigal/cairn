@@ -81,7 +81,7 @@ If multiple attackers target the same foe, roll all damage dice and keep the sin
 
 ### Attack Modifiers
 
-If fighting from a position of weakness (such as through cover or with bound hands), the attack is _Impaired_ and the attacker must roll 1d4 damage regardless of the attacks damage die.
+If fighting from a position of weakness (such as through cover or with bound hands), the attack is _Impaired_ and the attacker must roll 1d4 damage regardless of the attacks damage die. Unarmed attacks always do d4 damage.
 
 If fighting from a position of advantage (such as against a helpless foe or through a daring maneuver), the attack is _Enhanced_, allowing the attacker to roll 1d12 damage instead of their normal die.
 
@@ -95,7 +95,7 @@ Attacks with the _Blast_ quality affect all targets in the noted area, rolling s
 
 ### Critical Damage
 
-- Damage that reduces a target's HP below zero is subtracted _from their STR_ by the amount of damage remaining. The target must then immedaitely make a STR save to avoid taking **Critical Damage**, using their _new STR score_. On a success, the target is still in the fight (albeit with a lower STR score) and must continue to make critical damage saves when incurring damage.
+- Damage that reduces a target's HP below zero is subtracted _from their STR_ by the amount of damage remaining. The target must then immediately make a STR save to avoid taking **Critical Damage**, using their _new STR score_. On a success, the target is still in the fight (albeit with a lower STR score) and must continue to make critical damage saves when incurring damage.
 
 - Any PC that suffers critical damage cannot do anything but crawl weakly, grasping for life. If given aid (such as bandages), they will stabilize. If left untreated, they die within the hour. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save. 
 
@@ -103,7 +103,6 @@ Attacks with the _Blast_ quality affect all targets in the noted area, rolling s
 
 - If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their WIL is reduced to 0, they are delirious.
 - Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.  
-
 
 ### Unconsciousness & Death
 When a character dies, the player is free to create a new character or take control of a hireling. They immediately join the party in order to reduce downtime.
