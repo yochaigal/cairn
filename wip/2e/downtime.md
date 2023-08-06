@@ -42,11 +42,11 @@ A player character may pursue a personal goal that doesn't necessarily improve t
 
 ### Downtime Events
 
-|       |               |     |
-| ----- | ------------- | --- |
-| **1** | **Encounter** |     |
-| **2** | **Clue**      |     |
-| **3** | **Faction**   |     |
-| **4** | **Loss**      |     |
-| **5** | **Clue**      |     |
-| **6** | **Stalled**   |     |
+|       |               |                                                                                                                                                                                                                           |
+| ----- | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | **Encounter** | You come across an individual or group that impacts your personal quest. The Warden rolls on an encounter table or narrates an encounter that fits your quest. |
+| **2** | **Clue**      | You discover a piece of information or a clue that advances your personal quest or provides a new perspective. This can involve finding a document, overhearing a conversation, or having a sudden realization. |
+| **3** | **Faction**   | Your actions during your personal quest cause a shift in your relationship with a faction. This is an existing faction in the campaign or a new one introduced by the Warden. The relationship improves or worsens based on your actions. |
+| **4** | **Loss**      | The pursuit of your personal quest leads to a setback. You lose a valuable resource, suffer a setback in your quest, or face a new obstacle. This presents a new challenge to be overcome. |
+| **5** | **Discovery** | You make a significant discovery that propels your personal quest forward. You discover a hidden location, uncover a secret, or find a valuable resource. This represents a positive outcome for you. |
+| **6** | **Stalled**   | Your progress on your personal quest is temporarily stalled. An unforeseen complication, distraction, or misstep causes you to pause your quest. This is a delay, a detour, or an unexpected challenge. |
