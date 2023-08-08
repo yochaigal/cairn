@@ -48,6 +48,8 @@ A character's relationship with a single individual, Faction, or institution wit
 
 ### Revelery
 
+A character
+
 
 ## Examples
 
@@ -90,8 +92,6 @@ A player informs the Warden that they'd like to improve their skill at _mapping 
 1. Hire an experienced local **Guide** (15gp per session) to provide safe but highly localized training within the local region. Select a specific territory that the Guide is familiar with. After two sessions, the player may roll on the [Downtime Events](#downtime-events) table. They can continue their training until they reach a **Success**, at which point they can no longer become lost within that specific region. 
 2. Travel to the **Southern Border**, between the rivers **Alcquat** and **Durang**. It is at least a three-day journey by foot. There is a hermit there, formerly of the **Guard**. They are rumored to have extensive knowledge in outdoor survival, wilderness mapping, and more! However, they are also known for having a difficult contenance, rejecting new pupils for seemingly arbitrary reasons (the Warden will roll on the [Reaction](/wip/2e/core-rules#reactions) table when the player arrives). A **Success** would mean unparalleled knowledge in wilderness survival and surveying. It is a long, drawn-out process however: expect at least 5 sessions with the master before rolling on the [Downtime Events](#downtime-events).
 
-
-
 ### Relationship Examples
 
 #### Building an Alliance 
@@ -101,7 +101,7 @@ A player wants their character to _strengthen a relationship_ with the **Order o
 1. Volunteer for an ongoing mission. This will likely involve several tasks such as going on patrol, escorting members, and aiding in the _Order's_ cause.
 2. Formally pledge allegiance to the Order, taking the Oath and embracing their cause fully. Besides the more obvious requirements, the character can never reveal their face to any living creature so long as they serve. There will be a ceremony, and perhaps a trial.
 
-The player chooses to present themselves to the _Order_ as a volunteer, then rolls on the [Downtime Events](#downtime-events) table. The result is a **4**: **Progress**. The Warden describes how the character has quickly proved themselves useful, posting guard for during a tense negotiona. They have earned the trust and respect of the Order, but not yet achieving full recognition.
+The player chooses to present themselves to the _Order_ as a volunteer, then rolls on the [Downtime Events](#downtime-events) table. The result is a **4**: **Progress**. The Warden describes how the character has quickly proved themselves useful, posting guard during a tense negotiona. They have earned the trust and respect of the Order, but not yet achieving full recognition.
 
 #### Strengthening Ties
 
