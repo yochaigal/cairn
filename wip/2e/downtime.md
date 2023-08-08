@@ -11,7 +11,7 @@ search_exclude: true
 # Downtime
 
 
-Between sessions, a player may take an **Action** for their PC from the [Downtime Actions](#downtime-actions) list, then follow the steps in the [Downtime Cycle](#downtime-cycle).   
+Between sessions, a player may take an **Action** for their PC from the [Downtime Actions](#downtime-actions) list, then follow the steps in the [Downtime Cycle](#downtime-cycle). A player cannot take more than one **Action** at a time, and some **Actions** will take multiple sessions to resolve.
 
 ## Downtime Cycle
 

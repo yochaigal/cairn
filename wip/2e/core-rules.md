@@ -19,17 +19,17 @@ Each of the three **attributes** are used in different circumstances (see **save
 ## Saves
 
 - A save is a roll to avoid bad outcomes from risky choices and circumstances. 
-- PCs roll a d20 and compare the results to an appropriate ability score. If they roll equal to or under that ability score, they pass. Otherwise, they fail. 
+- PCs roll a d20 and compare the results to an appropriate attribute. If they roll equal to or under that attribute, they pass. Otherwise, they fail. 
 - A 1 is always a success, and a 20 is always a failure.
 
 ## Healing & Recovery
 
 - Resting for a few moments and having a drink of water restores lost HP but leaves the party exposed. 
-- Ability loss (see **Critical Damage**) can usually be restored with a week's rest, facilitated by a healer or other appropriate source of expertise. 
+- Attribute loss (see **Critical Damage**) can usually be restored with a week's rest, facilitated by a healer or other appropriate source of expertise. 
 - Some healing services are free, while magical or more expedient means of recovery may come at a cost.
 
 ## Deprivation & Fatigue
-- A PC **deprived** of a crucial need (such as food or rest) is unable to recover HP or ability scores. 
+- A PC **deprived** of a crucial need (such as food or rest) is unable to recover HP or Attributes. 
 - Anyone deprived for more than a day adds **Fatigue** to their inventory, one for each day. Each Fatigue occupies one slot and lasts until they are able to recuperate (such as a full night's rest in a safe spot). 
 - PCs can also gain **Fatigue** by **casting spells**, or through events in the fiction.
 
@@ -99,7 +99,7 @@ Attacks with the _Blast_ quality affect all targets in the noted area, rolling s
 
 - Any PC that suffers critical damage cannot do anything but crawl weakly, grasping for life. If given aid (such as bandages), they will stabilize. If left untreated, they die within the hour. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save. 
 
-### Ability Score Loss
+### Attribute Loss
 
 - If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their WIL is reduced to 0, they are delirious.
 - Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.  
@@ -131,7 +131,7 @@ When damage to a PC reduces their HP to exactly 0, they are changed irrevocably.
 | 3   | Walloped: You’re sent flying and land flat on your face, winded. You are deprived until you rest for a few hours. Then, roll 1d6. Add that amount to your max HP.                                                         |
 | 4   | Broken Limb: Roll 1d6. 1-2: Leg, 3-4: Arm, 5: Rib, 6: Skull. Once mended, roll 2d6. If the total is higher than your max HP, take the new result.                                                                   |
 | 5   | Diseased: You’re afflicted with a gross, uncomfortable infection. When you get over it, roll 2d6. If the total is higher than your max HP, take the new result.                                                           |
-| 6   | Reorienting Head Wound: Roll 1d6. 1-2: STR, 3-4: DEX, 5-6: WIL. Roll 3d6. If the total is higher than your current ability score, take the new result.                                                              |
+| 6   | Reorienting Head Wound: Roll 1d6. 1-2: STR, 3-4: DEX, 5-6: WIL. Roll 3d6. If the total is higher than your current attribute, take the new result.                                                              |
 | 7   | Hamstrung: You can barely move until you get serious help and rest. After recovery, roll 3d6. If the total is higher than your max DEX, take the new result.                                                              |
 | 8   | Deafened: You cannot hear anything until you find extraordinary aid. Regardless, make a WIL save. If you pass, increase your max WIL by 1d4.                                                                              |
 | 9   | Re-brained: Some hidden part of your psyche is knocked loose. Roll 3d6. If the total is higher than your max WIL, take the new result.                                                                                    |

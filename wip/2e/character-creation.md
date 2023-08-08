@@ -18,9 +18,9 @@ search_exclude: true
 
 > Some backgrounds may ask you to refer to tables on the [Marketplace](https://cairnrpg.com/wip/2e/marketplace) as well.
 
-## Ability Scores, HP & Traits
+## Attributes, HP & Traits
 
-- Roll for your character's [Ability Scores](#ability-scores) and [Hit Protection](#hit-protection).
+- Roll for your character's [Attributes](attributes) and [Hit Protection](#hit-protection).
 - Roll for the rest  of your character's [Traits](#character-traits-d10), and then on the the [Bonds](#bonds) table. 
 - Finally, roll for your character's **Age** (2d20+10). If you are the _youngest_ character, roll on the [Omens](#omens) table. The result should be read aloud to the other players.
 
@@ -40,11 +40,11 @@ search_exclude: true
 | **9**   | [Fungal Forager](https://cairnrpg.com/wip/backgrounds/fungal-forager) | **19** | [Rill Runner](https://cairnrpg.com/wip/backgrounds/rill-runner)   |
 | **10**  | [Greenwise](https://cairnrpg.com/wip/backgrounds/greenwise/)          | **20** | [Scriviner](https://cairnrpg.com/wip/backgrounds/scriviner)       |
 
-## Ability Scores  
+## Attributes  
 
 - Player Characters (PCs) have just three attributes: **Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**.
-- Roll 3d6 for each of your character's ability scores, in order. You may then swap any two of the results.
-- Ability scores are not universal descriptors. A character with a low STR is not necessarily hopelessly weak; they can still attempt to raise a door or survive a deadly fight! Their risk is simply higher. 
+- Roll 3d6 for each of your character's Attributes, in order. You may then swap any two of the results.
+- Attributes are not universal descriptors. A character with a low STR is not necessarily hopelessly weak; they can still attempt to raise a door or survive a deadly fight! Their risk is simply higher. 
 
 ## Hit Protection  
 
