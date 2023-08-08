@@ -81,15 +81,15 @@ search_exclude: true
 
 ### Weather Difficulty
 
-|                  |                                                                                                                           |                                                           |
-| :--------------: | ------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
-|   **Weather**    | **Effect**                                                                                                                | **Examples**                                              |
-|     **Nice**     | Favorable conditions for travel. Bedroll or shelter required.                                                             | _Clear skies, sunny_                                      |
-|     **Fair**     | Favorable conditions for travel. Bedroll or shelter required.                                                             | _Overcast, breezy_                                        |
-|  **Unpleasant**  | Gain one **Fatigue** _or_ add one **watch** to the journey.  | _Gusting winds, rain showers, sweltering heat, chill air_ |
-|  **Inclement**   | Gain one **Fatigue** _or_ add one **watch** to the journey. **Difficulty** increases by one step.      | _Thunderstorms & lightning, rain, muddy ground_           |
-|   **Extreme**    | Gain one **Fatigue** _and_ add one **watch** to the journey. **Difficulty** increases by one step.  | _Blizzards, freezing winds, flooding, mud slides_                     |
-| **Catastrophic** | Most parties cannot travel under these conditions.        | _Tornados, tidal waves, hurricane, volcanic eruption_                  |
+|                  |                                                                                                    |                                                           |
+| :--------------: | -------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
+|   **Weather**    | **Effect**                                                                                         | **Examples**                                              |
+|     **Nice**     | Favorable conditions for travel. Bedroll or shelter required.                                      | _Clear skies, sunny_                                      |
+|     **Fair**     | Favorable conditions for travel. Bedroll or shelter required.                                      | _Overcast, breezy_                                        |
+|  **Unpleasant**  | Gain one **Fatigue** _or_ add one **watch** to the journey.                                        | _Gusting winds, rain showers, sweltering heat, chill air_ |
+|  **Inclement**   | Gain one **Fatigue** _or_ add one **watch** to the journey. **Difficulty** increases by one step.  | _Thunderstorms & lightning, rain, muddy ground_           |
+|   **Extreme**    | Gain one **Fatigue** _and_ add one **watch** to the journey. **Difficulty** increases by one step. | _Blizzards, freezing winds, flooding, mud slides_         |
+| **Catastrophic** | Most parties cannot travel under these conditions.                                                 | _Tornados, tidal waves, hurricane, volcanic eruption_     |
 
 ## Wilderness Actions
 
@@ -139,11 +139,11 @@ If the "**Extreme**" weather result is rolled twice in a row, the weather turns 
 |       |                 |                                                                                                                                                                                                                           |
 | ----- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1** | **Encounter**   | Roll on an encounter table for that terrain type or location. Don’t forget to roll for NPC [reactions](/cairn-srd/#reactions) if applicable.                                                                              |
-| **2** | **Sign**        | The party discover a clue, spoor, or indication of a nearby encounter, locality, hidden feature, or information about a nearby area.                                                                                      |
+| **2** | **Sign**        | The party discovers a clue, spoor, or indication of a nearby encounter, locality, hidden feature, or information about a nearby area.                                                                                     |
 | **3** | **Environment** | A shift in weather or terrain.                                                                                                                                                                                            |
 | **4** | **Loss**        | The party is faced with a choice that costs them a resource (rations, tools, etc), time, or effort.                                                                                                                       |
-| **5** | **Exhaustion**  | The party encounter a barrier, forcing effort, care or delays. This might mean spending extra time (and an additional **Wilderness Action**) or adding **Fatigue** to the PC's inventory to represent their difficulties. |
-| **6** | **Discovery**   | The party find food, treasure, or other useful resources. The **Warden** can instead choose to reveal the primary feature of the area.                                                                                    |
+| **5** | **Exhaustion**  | The party encounters a barrier, forcing effort, care or delays. This might mean spending extra time (and an additional **Wilderness Action**) or adding **Fatigue** to the PC's inventory to represent their difficulties. |
+| **6** | **Discovery**   | The party finds food, treasure, or other useful resources. The **Warden** can instead choose to reveal the primary feature of the area.                                                                                    |
 
 ## Example
 In this example we'll be using a map made with [Watabou's](https://watabou.itch.io/) terrific [Perilous Shores](https://watabou.itch.io/perilous-shores) generator.
