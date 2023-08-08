@@ -23,7 +23,7 @@ A player character may pursue a personal goal that doesn't necessarily improve t
 
 The player selects a specific weapon. The Warden should provide a goal for mastering that weapon (increasing its damage die, adding _blast_ damage, increasing a PC's HP while wielding it, etc.). The Warden states the monetary and technical requirements for achieving the player's aim. Examples include:
 
-###
+
   - Attending a well-known weapons school, usually at a very high cost (not including the weapon).
   - Travelling to a foreign land to learn from a renowned master, bearing a letter of introduction.
   -  
@@ -35,16 +35,15 @@ The player selects a specific weapon. The Warden should provide a goal for maste
 The player formulates a **single question** about forgotten lore, a rare bit of knowledge, a lost Spellbook, etc. The Warden then provides a path to achieve their aim, including the resources, time, and travel, that may be required. 
 
 
-### Downtime Events
+## Downtime Events
 
-|           |                 |                                                                                                                |
-| --------- | --------------- | -------------------------------------------------------------------------------------------------------------- |
-| **d12**   | **Consequence** | **Impact**                                                                                                     |
-| **1-3**   | **Stalled**     | An unforeseen complication, distraction, or misstep causes you to pause your quest.                            |
-| **4-6**   | **Discovery**   | You discover a piece of information or a clue that advances your personal quest or provides a new perspective. |
-| **7-9**   | **Progress**    | You make consistent but unremarkable progress on your quest, keeping on track without any major developments.  |
-| **10-12** | **Success**     | You achieve the intended goal without any significant issues, everything goes as planned.                      |
-
+|           |                 |                                                                                                              |
+| --------- | --------------- | ------------------------------------------------------------------------------------------------------------ |
+| **d6**    | **Consequence** | **Impact**                                                                                                   |
+| **1**     | **Stalled**     | An unforeseen complication, distraction, or misstep forces you to pause your quest.                          |
+| **2-3**   | **Discovery**   | You discover a rumor, clue, or fact that advances your quest.                                                |
+| **4-5**   | **Progress**    | A positive development contributes to significant progress in advancing toward the completion of your quest. |
+| **6**     | **Success**     | You achieve your intended goal without any significant drawbacks.                                            |
 
 ## Examples
 ### Example Research 
