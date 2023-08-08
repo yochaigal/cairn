@@ -140,9 +140,9 @@ search_exclude: true
 | --------- | ----------------- | -------------------------------------------------------------- |
 | **d12**   | **Consequence**   | **Impact**                                                     |
 | **1-2**   | **Failure**       | A new **Obstacle** is introduced, and a **Advantage** is lost. |
-| **3-4**   | **Setback**       | An **Advantage** is lost.                                       |
+| **3-4**   | **Setback**       | An **Advantage** is lost.                                      |
 | **5-6**   | **Status Quo**    | Nothing is gained, but nothing is lost.                        |
-| **7-8**   | **Mixed Success** | A **goal** is achieved,  but an **Advantage** is lost.          |
+| **7-8**   | **Mixed Success** | A **goal** is achieved,  but an **Advantage** is lost.         |
 | **9-10**  | **Success**       | A **goal** is achieved, and no **Advantages** are lost.        |
 | **11-12** | **Major Success** | A **goal** is achieved, and a new **Advantage** is found.      |
 
