@@ -11,7 +11,9 @@ search_exclude: true
 # Downtime
 
 
-Between sessions, a player may take an **Action** for their PC from the [Downtime Actions](#downtime-actions) list, then follow the steps in the [Downtime Cycle](#downtime-cycle). A player cannot take more than one **Action** at a time, and some **Actions** will take multiple sessions to resolve.
+Between sessions, a player may take an **Action** for their PC from the [Downtime Actions](#downtime-actions) list, then follow the steps in the [Downtime Cycle](#downtime-cycle). A player must say _how_ they plan on going about their chosen **Action**. A player cannot take more than one **Action** at a time, and some **Actions** will take multiple sessions to resolve. Some **Actions** cannot be taken while Healing. 
+
+> Downtime begins as soon as the characters return to a safe space. 
 
 ## Downtime Cycle
 
@@ -33,19 +35,17 @@ Between sessions, a player may take an **Action** for their PC from the [Downtim
 
 ### Research
 
-The player formulates a **single question** about forgotten lore, a rare bit of knowledge, the location of a lost Spellbook, etc. 
+A single question about a particular forgotten lore, a rare bit of knowledge, the location of a lost item, etc. is answered.
 
 ### Training
 
-The player describes a **single improvement** for a skill or ability.  The Warden provides a concrete narrative or mechanical result (improving unarmed combat, _enhancing_ a weapon's damage die, learning to track, etc.).
+A character's specific skill with an item or other ability is improved, with clear narrative or mechanical results. The weapon's damage die is _enhanced_, unarmed attacksdo more damage, the PC can more easily track animals of a certain type, and so on.
 
-### Crafting
+### Relationships
 
-### Carousing
+A character's relationship with a single individual, Faction, or institution within the setting is improved. This might mean joining a particular group, or simply completing one or more tasks on their behalf (see [Factions](/wip/2e/factions#goals)) In some cases, this might mean creating their own Faction. 
 
-
-
-
+### Revelery
 
 
 
@@ -63,20 +63,36 @@ A player learns of a holy Relic of great power, rumored to protect the bearer fr
 
 The Warden describes the time and resources required to make either journey. The player chooses their preferred option (head to the library), describes their plan (call upon an old friend that works for a relevant Faction) then rolls on the [Downtime Events](#downtime-events) table. The result is a 2, a **Discovery**. The Warden tells them, "You make your way to the city with very little fanfair. The Librarians welcome you, having been warned of your arrival from your friend. In mere hours you uncover a snippet from an old text referencing the Relic. It is incomplete, but you learn enough to know where you should go next: the **Ruins of Abbulahia**, a collapsed temple deep in the swamps of the South."
 
+#### Missing Person
+
+The party has been hired to find a missing person, believed kidnapped by the local guild of thieves, pilferers, and burglars (the **Bloody Seven**). A player volunteers to try and find out more. They suggest that the best course of action is to _infiltrate the guild_. The Warden describes a possible course of action:
+
+- The player will need to roll up a new identity (not including HP or Attributes) and pay for their starting gear up front. There will be serious risk to both their life and reputation. 
+- The Guild will likely not be easy to find, and the PC may need to first make some inquiries at less-than-reputable locales.
+- The Guild may want to see evidence of the PCs skills, and will likely require the PC to perform at least one task. Only after PC has their trust will they have any chance to learn more about the missing person. 
+
+The player agrees, and comes up with a fake identity and a believable backstory. The Warden asks the Player to roll on the [Downtime Events](#downtime-events) table. The result is a 5, **Progress**. The Warden declares, "You have successfully uncovered a way "in" to the organization. Do you want to make a WIL save to press your luck?" The Player agrees, and _fails_. The Warden says, "Unfortunately your patchwork backstory caught up with you: apparently the name you were using belonged to someone long-thought dead; now the constables have begun sniffing around, you've been forced to drop the disguise, at least for now.On the other hand: you know where to find your last contact in the Guild." 
+
 ### Training Examples
 
 #### Weapons Training
 
 A player informs the Warden that they'd like to improve their skill at _two-handed blade weapons_. The Warden tells them that they have two choices:
 
-- Enter the fighting pits of **Gora-Mora** (there is no entry fee). They will be trained by an expert bladesmaster, and may be able to increase the weapon damage to _enhanced_! However, they might be risking their very life in the process! 
-- Hire a **Veteran bodyguard** (20gp per session) to help them train. The improvements will be gradual (three sessions per [Downtime Event](#downtime-events) roll required).
+1. Enter the fighting pits of **Gora-Mora** (there is no entry fee). They will be trained by an expert bladesmaster, and may be able to increase the weapon damage to _enhanced_! However, they might be risking their very life in the process! 
+2. Hire a **Veteran bodyguard** (20gp per session) to help them train. The improvements will be gradual (three sessions per [Downtime Event](#downtime-events) roll required).
 
 #### Improve Mapping
 
 A player informs the Warden that they'd like to improve their skill at _mapping a wilderness location_, in the hopes that it will decrease their chances of getting lost while travelling. The Warden provides the following choices:
 
-- Hire an experienced local **Guide** (15gp per session) to provide safe but highly localized training within the local region. Select a specific territory that the Guide is familiar with. After two sessions, the player may roll on the [Downtime Events](#downtime-events) table. They can continue their training until they reach a **Success**, at which point they can no longer become lost within that specific region. 
-- Travel to the **Southern Border**, between the rivers **Alcquat** and **Durang**. It is at least a three-day journey by foot. There is a hermit there, formerly of the **Guard**. They are rumored to have extensive knowledge in outdoor survival, wilderness mapping, and more! However, they are also known for having a difficult contenance, rejecting new pupils for seemingly arbitrary reasons (the Warden will roll on the [Reaction](/wip/2e/core-rules#reactions) table when the player arrives). A **Success** would mean unparalleled knowledge in wilderness survival and surveying. It is a long, drawn-out process however: expect at least 5 sessions with the master before rolling on the [Downtime Events](#downtime-events).
+1. Hire an experienced local **Guide** (15gp per session) to provide safe but highly localized training within the local region. Select a specific territory that the Guide is familiar with. After two sessions, the player may roll on the [Downtime Events](#downtime-events) table. They can continue their training until they reach a **Success**, at which point they can no longer become lost within that specific region. 
+2. Travel to the **Southern Border**, between the rivers **Alcquat** and **Durang**. It is at least a three-day journey by foot. There is a hermit there, formerly of the **Guard**. They are rumored to have extensive knowledge in outdoor survival, wilderness mapping, and more! However, they are also known for having a difficult contenance, rejecting new pupils for seemingly arbitrary reasons (the Warden will roll on the [Reaction](/wip/2e/core-rules#reactions) table when the player arrives). A **Success** would mean unparalleled knowledge in wilderness survival and surveying. It is a long, drawn-out process however: expect at least 5 sessions with the master before rolling on the [Downtime Events](#downtime-events).
+
+### Relationship Examples
+
+
+
+
 
 ### Carousing Examples
