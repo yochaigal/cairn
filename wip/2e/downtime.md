@@ -12,12 +12,11 @@ search_exclude: true
 
 ## Downtime Actions
 
-### Personal Quest
+Between sessions, a player may choose from the following **Actions** for their PC. 
+
+### Improvement
 
 A player character may pursue a personal goal that doesn't necessarily improve their skills, abilities, or items.   
-- The Warden should clearly provide a list of obstacles the character may encounter, one more potential outcomes, and any associated costs. 
-- The player rolls on the [Downtime Events](#downtime-events) table. _After_ reading the result, the player can choose to make a WIL save for their character. On a success, the die result increases one step (e.g. **4-6** becomes **7-9**). On a fail, it _decreases_ by one step. 
-- The Warden adjudicates the result, accounting for the PC's preparedness, resources, skills, WIL save, and so on. 
 
 ### Training
 
@@ -30,20 +29,26 @@ The player selects a specific weapon. The Warden should provide a goal for maste
 
 ### Crafting
 
+### Carousing
+
 ### Research
 
 The player formulates a **single question** about forgotten lore, a rare bit of knowledge, a lost Spellbook, etc. The Warden then provides a path to achieve their aim, including the resources, time, and travel, that may be required. 
 
+- The Warden should clearly provide a list of obstacles the character may encounter, one more potential outcomes, and any associated costs. 
+- The player rolls on the [Downtime Events](#downtime-events) table. _After_ reading the result, the player can choose to make a WIL save for their character. On a success, the die result increases one step (e.g. **4-6** becomes **7-9**). On a fail, it _decreases_ by one step. 
+- The Warden adjudicates the result, accounting for the PC's preparedness, resources, skills, WIL save, and so on. 
+
 
 ## Downtime Events
 
-|           |                 |                                                                                                              |
-| --------- | --------------- | ------------------------------------------------------------------------------------------------------------ |
-| **d6**    | **Consequence** | **Impact**                                                                                                   |
-| **1**     | **Stalled**     | An unforeseen complication, distraction, or misstep forces you to pause your quest.                          |
-| **2-3**   | **Discovery**   | You discover a rumor, clue, or fact that advances your quest.                                                |
-| **4-5**   | **Progress**    | A positive development contributes to significant progress in advancing toward the completion of your quest. |
-| **6**     | **Success**     | You achieve your intended goal without any significant drawbacks.                                            |
+|         |                 |                                                                                                              |
+| ------- | --------------- | ------------------------------------------------------------------------------------------------------------ |
+| **d6**  | **Consequence** | **Impact**                                                                                                   |
+| **1**   | **Stalled**     | An unforeseen complication, distraction, or misstep forces you to pause .                                    |
+| **2-3** | **Discovery**   | You discover a rumor, clue, or fact that advances your quest.                                                |
+| **4-5** | **Progress**    | A positive development contributes to significant progress in advancing toward the completion of your quest. |
+| **6**   | **Success**     | You achieve your intended goal without any significant drawbacks.                                            |
 
 ## Examples
 ### Example Research 
