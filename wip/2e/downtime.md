@@ -10,10 +10,11 @@ search_exclude: true
 
 # Downtime
 
+Between game sessions a player may select an **Action** for their player character from the [Downtime Actions](#downtime-actions) list, and then proceed according to the guidelines in the [Downtime Cycle](#downtime-cycle). 
 
-Between sessions, a player may take an **Action** for their PC from the [Downtime Actions](#downtime-actions) list, then follow the steps in the [Downtime Cycle](#downtime-cycle). A player must say _how_ they plan on going about their chosen **Action**. A player cannot take more than one **Action** at a time, and some **Actions** will take multiple sessions to resolve. Some **Actions** cannot be taken while Healing. 
-
-> Downtime begins as soon as the characters return to a safe space. 
+- Downtime begins once PCs are in a safe space, and some **Actions** are not possible while Healing. 
+- Players must articulate _how_ they intend to carry out the chosen **Action**. 
+- Only one **Action** may be undertaken at a time, and certain **Actions** may require multiple sessions to complete. 
 
 ## Downtime Cycle
 
@@ -35,7 +36,7 @@ Between sessions, a player may take an **Action** for their PC from the [Downtim
 
 ### Research
 
-A single question about a particular forgotten lore, a rare bit of knowledge, the location of a lost item, etc. is answered.
+A single question about a bit of lost or forgotten lore, the location of a lost item, the whereabouts of an important NPC, etc. is answered.
 
 ### Training
 
@@ -46,8 +47,6 @@ A character's specific skill with an item or other ability is improved, with cle
 A character's relationship with a single individual, Faction, or institution within the setting is improved. This might mean joining a particular group, or simply completing one or more tasks on their behalf (see [Factions](/wip/2e/factions#goals)) In some cases, this might mean creating their own Faction. 
 
 ### Revelery
-
-
 
 
 ## Examples
@@ -82,6 +81,8 @@ A player informs the Warden that they'd like to improve their skill at _two-hand
 1. Enter the fighting pits of **Gora-Mora** (there is no entry fee). They will be trained by an expert bladesmaster, and may be able to increase the weapon damage to _enhanced_! However, they might be risking their very life in the process! 
 2. Hire a **Veteran bodyguard** (20gp per session) to help them train. The improvements will be gradual (three sessions per [Downtime Event](#downtime-events) roll required).
 
+
+
 #### Improve Mapping
 
 A player informs the Warden that they'd like to improve their skill at _mapping a wilderness location_, in the hopes that it will decrease their chances of getting lost while travelling. The Warden provides the following choices:
@@ -89,10 +90,29 @@ A player informs the Warden that they'd like to improve their skill at _mapping 
 1. Hire an experienced local **Guide** (15gp per session) to provide safe but highly localized training within the local region. Select a specific territory that the Guide is familiar with. After two sessions, the player may roll on the [Downtime Events](#downtime-events) table. They can continue their training until they reach a **Success**, at which point they can no longer become lost within that specific region. 
 2. Travel to the **Southern Border**, between the rivers **Alcquat** and **Durang**. It is at least a three-day journey by foot. There is a hermit there, formerly of the **Guard**. They are rumored to have extensive knowledge in outdoor survival, wilderness mapping, and more! However, they are also known for having a difficult contenance, rejecting new pupils for seemingly arbitrary reasons (the Warden will roll on the [Reaction](/wip/2e/core-rules#reactions) table when the player arrives). A **Success** would mean unparalleled knowledge in wilderness survival and surveying. It is a long, drawn-out process however: expect at least 5 sessions with the master before rolling on the [Downtime Events](#downtime-events).
 
+
+
 ### Relationship Examples
 
+#### Building an Alliance 
+
+A player wants their character to _strengthen a relationship_ with the **Order of the Helm**, a renowned knightly faction they are passingly familiar with. The Warden provides the following options:
+
+1. Volunteer for an ongoing mission. This will likely involve several tasks such as going on patrol, escorting members, and aiding in the _Order's_ cause.
+2. Formally pledge allegiance to the Order, taking the Oath and embracing their cause fully. Besides the more obvious requirements, the character can never reveal their face to any living creature so long as they serve. There will be a ceremony, and perhaps a trial.
+
+The player chooses to present themselves to the _Order_ as a volunteer, then rolls on the [Downtime Events](#downtime-events) table. The result is a **4**: **Progress**. The Warden describes how the character has quickly proved themselves useful, posting guard for during a tense negotiona. They have earned the trust and respect of the Order, but not yet achieving full recognition.
+
+#### Strengthening Ties
+
+A player wishes to raise their character's status with the influential **Merchants of the Gleaming Coin**. The Warden offers these paths:
+
+1. Invest in a new venture (foreign ale), demonstrating a modicum financial acumen and trust. This is easy, but costly: 100gp. The character could lose all of it. If successful, the character may gain formal entry into their guild hall, with access to more investment opportunities.
+2. Facilitate a major trade deal or negotiation that benefits the merchants, showcasing diplomacy and business savvy. This is a difficult task, requiring time and connections to achieve.
+
+The player decides to invest in the shipments of foreign ale. The Warden asks the player to roll on the [Downtime Events](#downtime-events) table, and the result is a 1, **Stalled**.
+
+The Warden describes how, just as the investment is made, unexpected complications arise. A ship carrying the traded goods is delayed, arriving far too late to be sold at the **Highland Games** festival. The _Merchants_ appreciate the attempt, but are visibly disappointed. The relationship remains neutral, with no significant gains or losses. The player may need to reassess and find another way to win the faction's favor.
 
 
-
-
-### Carousing Examples
+### Revelry Examples
