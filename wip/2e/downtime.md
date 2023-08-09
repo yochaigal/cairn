@@ -18,9 +18,10 @@ Between game sessions a player may select an **Action** for their player charact
 
 ## Downtime Cycle
 
-- The Warden provides a path for the player to achieve their stated **Action**, as well as a list of obstacles the character may encounter, one more potential outcomes, and any associated costs (time, resources, opportunities, etc.). 
-- Unless otherwise indicated, the player rolls on the [Downtime Events](#downtime-events) table. The player may then choose to make a WIL save for their character. On a success, the die result increases by one step (e.g. **4-6** becomes **7-9**). On a fail, it _decreases_ by one step. 
-- The Warden adjudicates the result, accounting for the PC's preparedness, resources, skills, WIL save, and so on. 
+- The Warden provides 1-3 **goals** the PC must achieve, as well as any obstacles and costs (time, resources, opportunities, etc.). Only one goal may be completed per Downtime **Action**. 
+- Unless otherwise indicated, the player rolls on the [Downtime Events](#downtime-events) table to see if they have accomplished their goal. The Warden adjudicates the outcome, accounting for the PC's preparedness, resources, skills, WIL save, and so on. 
+- Alternatively, the player may choose to make a WIL save for their character _instead_ of rolling on the [Downtime Events](#downtime-events) table. On a success, their goal is accomplished. On a fail, it is stalled.  
+
 
 ## Downtime Events
 
@@ -57,12 +58,17 @@ A character
 
 #### Item Location 
 
-A player learns of a holy Relic of great power, rumored to protect the bearer from death itself. They proclaim that they'd like to _learn the Relic's location_. The Warden then provides them with the following choices:
+A player learns of a holy Relic of great power, rumored to protect the bearer from harm, or even death itself. They proclaim that they'd like to _learn the Relic's location_. The Warden then provides them with the following choices:
 
-1. Travel to the timeless city of **Dropsilli**, where the walls fell. There is rumored to be a library there with more text on sacred objects than in any other. The trip is only possible by riverboat, and takes a week.
+1. Travel to the timeless city of **Dropsilli**, where the walls fell. There is a well-known library there with more text on sacred objects than in any other, though the librarians are notoriously snooty. The trip is only possible by riverboat, and takes a week.
 2. Travel to the **Granite Circle** at **Crowley Pass**, a notoriously dangerous town hewn directly into the mountain itself. They say if you can't catch a rumor about something there, it doesn't exist. The trip is two days over the _Pass_, but must be travelled by foot.
 
-The Warden describes the time and resources required to make either journey. The player chooses their preferred option (head to the library), describes their plan (call upon an old friend that works for a relevant Faction) then rolls on the [Downtime Events](#downtime-events) table. The result is a 2, a **Discovery**. The Warden tells them, "You make your way to the city with very little fanfair. The Librarians welcome you, having been warned of your arrival from your friend. In mere hours you uncover a snippet from an old text referencing the Relic. It is incomplete, but you learn enough to know where you should go next: the **Ruins of Abbulahia**, a collapsed temple deep in the swamps of the South."
+The Warden describes the time and resources required to make either journey. The player chooses their preferred option (head to the library), and describes their plan: call upon an old friend that works for a relevant Faction. The Warden creates the following goals:
+
+   - Travel to **Dropsilli**, find lodging, make introductions at the library, and be allowed entry.
+   - With the aide of the librarians, find any information on the location of the Relic. 
+
+ The player then rolls on the [Downtime Events](#downtime-events) table to see if they achieve their first goal. The result is a 3, **Discovery**. The Warden tells them, "You make your way to the city with very little fanfair. The Librarians welcome you, having been told of your arrival by your friend. In mere days, you uncover a snippet from an old text referencing the Relic. It is incomplete, but you learn of the Relic's last known bearer: a long-dead priest, whose body is interred nearby **Abbulahia**, a small village only a day's walk from the library." Play continues from there. 
 
 #### Missing Person
 
