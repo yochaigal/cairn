@@ -19,9 +19,8 @@ Between game sessions a player may select an **Action** for their player charact
 ## Downtime Cycle
 
 - The Warden provides 1-3 **goals** the PC must achieve, as well as any obstacles and costs (time, resources, opportunities, etc.). Only one goal may be completed per Downtime **Action**. 
-- Unless otherwise indicated, the player rolls on the [Downtime Events](#downtime-events) table to see if they have accomplished their goal. The Warden adjudicates the outcome, accounting for the PC's preparedness, resources, skills, WIL save, and so on. 
-- Alternatively, the player may choose to make a WIL save for their character _instead_ of rolling on the [Downtime Events](#downtime-events) table. On a success, their goal is accomplished. On a fail, it is stalled.  
-
+- To see if they have accomplished their goal, the player _either_ rolls on the [Downtime Events](#downtime-events) table _or_ makes a WIL save for their character. On a success, they achieve their current goal. On a fail, the player is **Stalled** (see the [Downtime Events](#downtime-events) table).
+- The Warden adjudicates the outcome, accounting for the PC's preparedness, resources, skills, WIL save, and so on.
 
 ## Downtime Events
 
