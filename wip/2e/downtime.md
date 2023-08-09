@@ -10,29 +10,15 @@ search_exclude: true
 
 # Downtime
 
-Between game sessions a player may select an **Action** for their player character from the [Downtime Actions](#downtime-actions) list, and then proceed according to the guidelines in the [Downtime Cycle](#downtime-cycle). 
-
-- Downtime begins once PCs are in a safe space, and some **Actions** are not possible while Healing. 
-- Players must articulate _how_ they intend to carry out the chosen **Action**. 
-- Only one **Action** may be undertaken at a time, and certain **Actions** may require multiple sessions to complete. 
+Between game sessions, a player may take a single Downtime **Action** for their player character from the [Downtime Actions](#downtime-actions) list below, then proceed according to the guidelines in the [Downtime Cycle](#downtime-cycle). Downtime is possible only if the PCs are in a safe space. Some **Actions** may not be possible while **Healing**. 
 
 ## Downtime Cycle
 
-- The Warden provides 1-3 **goals** the PC must achieve, as well as any obstacles and costs (time, resources, opportunities, etc.). Only one goal may be completed per Downtime **Action**. 
-- To see if they have accomplished their goal, the player _either_ rolls on the [Downtime Events](#downtime-events) table _or_ makes a WIL save for their character (see below).
-- The Warden adjudicates the outcome for either result, accounting for the PC's preparedness, resources, skills, WIL save, and so on.
+- A player articulates precisely _how_ they intend to achieve their goal. The Warden provides 1-5 **Milestones** that the player can tick off as they progress towards their goal. Some **Milestones** will come at a cost: overcoming an obstacle, spending a resource, traveling a great distance, time, etc. 
+- A PC may attempt to complete as many **milestones** as they like, provided they can meet the cost. Some **Milestones** may deliver their own unique benefits as well.
+- Whenever _possible_, a PC may make a WIL save to soften a cost, or even eliminate it entirely. On a fail they make _no_ progress, and the Warden describes any potential fallout. New milestones may be added, or the goal may need to be abandoned entirely.
 
-> If the PC successfully **passes** the WIL save, they complete their current goal. On a **fail**, the player is **Stalled** (see the [Downtime Events](#downtime-events) table).
-
-## Downtime Events
-
-|         |                 |                                                                          |
-| ------- | --------------- | ------------------------------------------------------------------------ |
-| **d6**  | **Consequence** | **Impact**                                                               |
-| **1**   | **Stalled**     | An unforeseen complication, distraction, or misstep forces you to pause. |
-| **2-3** | **Discovery**   | A relevation or discovery provides clarity or insight into your goal.    |
-| **4-5** | **Progress**    | You make significant progress toward the completion of your goal.        |
-| **6**   | **Success**     | You achieve your intended goal without any significant drawbacks.        |
+> Events during a session may change the stakes of Downtime **Actions** by adding or removing costs, **Milestones**, or even entire goals. Conversely, Downtime **Actions** may impact the events of a play session!
 
 ## Downtime Actions
 
@@ -59,17 +45,24 @@ A character
 
 #### Item Location 
 
-A player learns of a holy Relic of great power, rumored to protect the bearer from harm, or even death itself. They proclaim that they'd like to _learn the Relic's location_. The Warden then provides them with the following choices:
+A player learns of a holy Relic of great power, rumored to protect the bearer from harm, or even death itself. They proclaim that they'd like to _learn the Relic's location_. The Warden then provides the following outline:
 
-1. Travel to the timeless city of **Dropsilli**, where the walls fell. There is a well-known library there with more text on sacred objects than in any other, though the librarians are notoriously snooty. The trip is only possible by riverboat, and takes a week.
-2. Travel to the **Granite Circle** at **Crowley Pass**, a notoriously dangerous town hewn directly into the mountain itself. They say if you can't catch a rumor about something there, it doesn't exist. The trip is two days over the _Pass_, but must be travelled by foot.
+"You may travel to the timeless city of **Dropsilli**, where the walls fell. There is a well-known library there with more text on sacred objects than in any other. The trip is only possible by riverboat, and takes three day's travel. Also, the librarians there are notoriously snooty." They also explain that the character may run the danger of being separated from their party, as the next session begins only eight in-world days from now.
 
-The Warden describes the time and resources required to make either journey. The player chooses their preferred option (head to the library), and describes their plan: call upon an old friend that works for a relevant Faction. The Warden creates the following goals:
+ The player accepts this plan, but adds that they'd like to bring along a letter of introduction, signed by a powerful Count they'd met in a previous adventure. The Warden agrees, but adds that they will need to spend one additional day retrieving the letter. The Warden then creates three **Milestones**:
 
-   - Travel to **Dropsilli**, find lodging, make introductions at the library, and be allowed entry.
-   - With the aide of the librarians, find any information on the location of the Relic. 
+   - [ ] Retrieve the letter. [Cost: Time].
+   - [ ] Travel to **Dropsilli**. [Cost: Time, Gold].
+   - [ ] Be granted access to the library. [Cost: Reputation].
+   - [ ] Discover information on the location of the Relic. [Cost: Time].
 
- The player then rolls on the [Downtime Events](#downtime-events) table to see if they achieve their first goal. The result is a 3, **Discovery**. The Warden tells them, "You make your way to the city with very little fanfair. The Librarians welcome you, having been told of your arrival by your friend. In mere days, you uncover a snippet from an old text referencing the Relic. It is incomplete, but you learn of the Relic's last known bearer: a long-dead priest, whose body is interred nearby **Abbulahia**, a small village only a day's walk from the library." Play continues from there. 
+ The player feels that they can likely shave off a day by having their character force their way into the Count's office, demanding a letter. The Warden agrees, explaining that if things go badly, their reputation with the Count might wither. The player makes a WIL save for their character: a success! The Warden describes how the character, "used wit and bravado to remind the Count of their greet deeds together, retrieving not only his letter but a pre-paid ticket for the riverboat!" The player marks off one **Milestone**, and tells the Warden they'd like to begin their journey. 
+ 
+ They agree to pay the cost (only Time). They mark off another **Milestone**, and the notes how much time has passed. The Warden tells them, "You make your way to the city with little fanfair. Do you present your letter of introduction to the librarians?" The player agrees, and the Warden says, "They welcome you, impressed by the letter you carry." The player marks off a _third_ **Milestone**, and adds that they'd like to begin their research immediately. 
+ 
+ The Warden indicates that due to the size of the library, it will take at least three days to find information on their subject, and that they would be late to meet their party. Considering this, the player adds that they'd like to make a WIL save to see if their character can find what they're looking for any faster. The Warden reminds the player that these librarians are very strict; any failure to adhere to their rules will result in an immediate ban from the library. 
+ 
+ The player pushes ahead anyway, saving WIL once more. A success once again! The Warden says, "You spend a day and a night researching your subject, narrowly avoiding the wrath of the ever-present librarians. Finally, you uncover a snippet from an old text referencing the Relic.  It indicates that the Relic was buried with its last known bearer, a priest of some note. The grave is somewhere in the **Ruins of Abbulahia**, an abandoned city deep in the swamps to the South.”
 
 #### Missing Person
 
@@ -89,8 +82,6 @@ A player informs the Warden that they'd like to improve their skill at _two-hand
 
 1. Enter the fighting pits of **Gora-Mora** (there is no entry fee). They will be trained by an expert bladesmaster, and may be able to increase the weapon damage to _enhanced_! However, they might be risking their very life in the process! 
 2. Hire a **Veteran bodyguard** (20gp per session) to help them train. The improvements will be gradual (three sessions per [Downtime Event](#downtime-events) roll required).
-
-
 
 #### Improve Mapping
 
@@ -123,3 +114,5 @@ The Warden describes how, just as the investment is made, unexpected complicatio
 
 
 ### Revelry Examples
+
+1. Travel to the **Granite Circle** at **Crowley Pass**, a notoriously dangerous town hewn directly into the mountain itself. They say if you can't catch a rumor about something there, it doesn't exist. The trip is two days over the _Pass_, but must be travelled by foot.
