@@ -17,7 +17,7 @@ Gann, Light, Gale, Frost, Thorn, Reed, Flint, Brook, Brie, Aasim
 
 ## Starting Gear
 
-- Lantern (bulky)
+- Lantern
 - Oil can (6 uses)
 - Long sword (d10, _bulky_)
 - Boiled leather (1 Armor)
