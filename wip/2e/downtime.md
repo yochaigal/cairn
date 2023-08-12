@@ -14,8 +14,8 @@ Between game sessions, players may utilize the following Downtime procedures to 
 
 ## Downtime Overview
 
-- A player articulates precisely _how_ they intend to achieve their goal. The Warden _may_ provide the player with multiple _choices_, each with their own unique **Milestones**.
-- The Warden provides 1-5 **Milestones** that the player can tick off as they progress towards their goal. Most **Milestones** will come at a cost: overcoming an obstacle, spending a resource, traveling a great distance, time, etc. Some **Milestones** may deliver their own unique benefits as well.
+- A player articulates precisely _how_ they intend to achieve their goal. The Warden then provides 1-5 **Milestones** that the player can tick off as they progress towards their goal. The Warden _may_ provide the player with multiple _choices_, each with their own unique **Milestones**.
+- Most **Milestones** will come at a cost: overcoming an obstacle, spending a resource, traveling a great distance, time, etc. Some may deliver their own unique benefits as well. 
 - A PC may attempt to complete as many **milestones** as they like, provided they can meet the cost. A PC may make a WIL save to soften a cost, or even eliminate it entirely. On a fail they make _no_ progress, and the Warden describes any potential fallout. New milestones may be added, or the goal may need to be abandoned entirely.
 
 > Events that occur during a regular session of play may change the stakes of Downtime activities by adding or removing costs, **Milestones**, or even entire goals. Conversely, events that occur during Downtime may impact the events of a play session! **Milestones** that directly endanger the life of a character should occur during a regular play session.
