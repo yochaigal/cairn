@@ -109,7 +109,7 @@ search_exclude: true
 
 ### Supply
 
-- Characters can hunt, fish, or forage for food. A single character collects d4 **Rations** (3 uses). 
+- Characters can hunt, fish, or forage for food. An individual character collects d4 **Rations** (3 uses per **Ration**). 
 - The chance of a greater bounty increases with each additional participant (e.g. d4 becomes d6, and so on.). Relevant experience or equipment may also increase your chances. 
 - The party may encounter homes and small villages, spending gold and a full **watch** to resupply. 
 
