@@ -20,6 +20,16 @@ Between game sessions, players may utilize the following Downtime procedures to 
 
 > Events that occur during a regular session of play may change the stakes of Downtime activities by adding or removing costs, **Milestones**, or even entire goals. Conversely, events that occur during Downtime may impact the events of a play session! **Milestones** that directly endanger the life of a character should occur during a regular play session.
 
+## Costs
+
+The following are typical costs. This list is in no way exhaustive.
+
+- **Time**: The most common cost. Counted in days or weeks. Typical for travel, training, study, etc.
+- **Gold**: Direct payment of gold from a character's inventory.
+- **Resources**: Non-monetary costs, such as material goods, specific common items, and so on. 
+- **Reputation**: Betting on a character's reknown, personality, presence, etc.
+- **Loss**: Offering something specific and unique. A finger, a soul, a **Relic**, etc.   
+
 ## Examples
 
 ### Finding a lost Relic
@@ -64,7 +74,7 @@ A player informs the Warden that they'd like to improve their skill at _navigati
 The Warden goes on to explain that it is unlikely the player's character will be able to join the party in the next session, which begins in just a few days within the game-world. The player agrees, as they are likely going to miss the next two play sessions anyway. The Warden puts together the following **Milestones**:
 
   - [ ] Journey to the **Southern Border**. [Cost: **Resources**, **Time**] 
-  - [ ] Meet the **Master**. [Cost: **Personality**]
+  - [ ] Meet the **Master**. [Cost: **Reputation**]
   - [ ] Training Week 1. [Cost: **Time**]
   - [ ] Training Week 2. [Cost: **Time**]
   - [ ] Training Week 3. [Cost: **Time**]
