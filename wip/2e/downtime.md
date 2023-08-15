@@ -27,7 +27,7 @@ The following are typical costs. This list is in no way exhaustive.
 - **Time**: The most common cost. Counted in days or weeks. Typical for travel, training, study, etc.
 - **Gold**: Direct payment of gold from a character's inventory.
 - **Resources**: Non-monetary costs, such as material goods, specific common items, and so on. 
-- **Reputation**: Betting on a character's reknown, personality, presence, etc.
+- **Reputation**: Betting on a character's reknown, personality, presence, social connections, etc.
 - **Loss**: Offering something specific and unique. A finger, a soul, a **Relic**, etc.   
 
 ## Examples
