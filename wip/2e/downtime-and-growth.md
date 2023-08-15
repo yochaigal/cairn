@@ -1,24 +1,23 @@
 ---
 layout: default
-title: Downtime
+title: Downtime and Growth
 grand_parent: WIP
 parent: 2e
-nav_order: 10
 nav_exclude: true
 search_exclude: true
 ---
 
-# Downtime
+# Downtime and Growth
 
-Between game sessions, players may utilize the following Downtime procedures to improve a skill, research a question, follow-up on a lead, build a relationship, and more. Downtime is possible only if the PCs are in a safe space, and may not be possible while **Healing**. 
+Between game sessions, players may utilize the following procedures to improve a skill, research a question, follow-up on a lead, build a relationship, and more. This may not always be possible if the PC is not in a safe space, or while **Healing**. 
 
-## Downtime Overview
+## Overview
 
-- A player articulates precisely _how_ they intend to achieve their goal. The Warden then provides 1-5 **Milestones** that the player can tick off as they progress towards their goal. The Warden _may_ provide the player with multiple _choices_, each with their own unique **Milestones**.
-- Most **Milestones** will come at a cost: overcoming an obstacle, spending a resource, traveling a great distance, time, etc. Some may deliver their own unique benefits as well. 
-- A PC may attempt to complete as many **milestones** as they like, provided they can meet the cost. A PC may make a WIL save to soften a cost, or even eliminate it entirely. On a fail they make _no_ progress, and the Warden describes any potential fallout. New milestones may be added, or the goal may need to be abandoned entirely.
+- A player articulates a particular goal as well as exactly _how_ they intend to achieve it. 
+- The Warden then provides 1-5 **Milestones** that the player can tick off as they progress towards their goal. The Warden _may_ provide the player with multiple _choices_, each with their own unique **Milestones**.Most **Milestones** will come at a cost: overcoming an obstacle, spending a resource, traveling a great distance, time, etc. Some may deliver their own unique benefits as well. 
+- The player attempts to complete as many **milestones** as they like, provided they can meet the cost. A PC may make a WIL save to soften a cost, or even eliminate it entirely. On a fail they make _no_ progress, and the Warden describes any potential fallout. New milestones may be added, or the goal may need to be abandoned entirely.
 
-> Events that occur during a regular session of play may change the stakes of Downtime activities by adding or removing costs, **Milestones**, or even entire goals. Conversely, events that occur during Downtime may impact the events of a play session! **Milestones** that directly endanger the life of a character should occur during a regular play session.
+> Events that occur during a regular session of play may change the stakes of these activities by adding or removing costs, **Milestones**, or even entire goals. Conversely, events that occur as a result of these procedures may impact the events of a play session! **Milestones** that directly endanger the life of a character should occur during a regular play session.
 
 ## Costs
 
