@@ -5,8 +5,8 @@ grand_parent: Adventures
 title: Lorn Song of the Bachelor
 ---
 # Lorn Song of the Bachelor
-- Converted from the original work by [Zedeck Siew](tab:https://www.drivethrurpg.com/product/295976/Lorn-Song-of-the-Bachelor)
-- Conversion done by [Goobernuts](https://goobernutsblog.wordpress.com/2023/08/23/lorn-song-of-the-bachelor-cairn-conversion/), creator of [Mangayaw](tab:https://goobernuts.itch.io/mangayaw)
+- Converted from the original work by [Zedeck Siew](https://www.drivethrurpg.com/product/295976/Lorn-Song-of-the-Bachelor)
+- Conversion done by [Goobernuts](https://goobernutsblog.wordpress.com/2023/08/23/lorn-song-of-the-bachelor-cairn-conversion/), creator of [Mangayaw](https://goobernuts.itch.io/mangayaw)
 
 #### The Bachelor
 6 HP, 3 Armor, 18 STR, 10 DEX, 15 WIL, teeth (d10) or claws (d6, enchanted), treat as detachment
