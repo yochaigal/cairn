@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Downtime and Growth
+title: Downtime and Growth (Backup)
 grand_parent: WIP
 parent: 2e
 nav_exclude: true
 search_exclude: true
 ---
 
-# Downtime and Growth
+# Downtime and Growth (Backup)
 
 Between game sessions, players may utilize the following procedures to improve a skill, research a question, follow-up on a lead, build a relationship, and more. This may not always be possible if the PC is not in a safe space, or while **Healing**. 
 
