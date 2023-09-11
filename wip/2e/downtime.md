@@ -29,9 +29,13 @@ The following are typical costs. This list is in no way exhaustive.
 - **Reputation**: Betting on a character's reknown, personality, presence, social connections, etc.
 - **Loss**: Offering something specific and unique. A finger, a soul, a **Relic**, etc.   
 
-## Examples
+## Downtime Actions
 
-### Finding a lost Relic
+### Research
+
+A character answers a single question about a bit of lost or forgotten lore, the location of a lost item, the whereabouts of an important NPC, and so on. 
+
+#### Example: Finding a lost Relic
 
 A player learns of a holy Relic of great power, rumored to protect the bearer from harm, or even death itself. They proclaim that they'd like to _learn the Relic's location_. The Warden then provides the following outline:
 
@@ -53,7 +57,12 @@ A player learns of a holy Relic of great power, rumored to protect the bearer fr
  
  The player pushes ahead anyway, once again making a **WIL** save. They roll a **success**! The Warden says, "You spend a day and a night researching your subject, narrowly avoiding the wrath of the ever-present librarians. Finally, you uncover a snippet from an old text referencing the Relic. It indicates that the Relic was buried with its last known bearer, a priest of some note. The grave is somewhere in the **Ruins of Abbulahia**, an abandoned city deep in the swamps to the South.” The player marks off the final **Milestone**, and announces that their character hurriedly returns to their friends. 
 
-### Mastery of the spear
+
+### Training
+
+A character's specific skill with an item or other ability is improved, with clear narrative or mechanical results. The weapon's damage die is _enhanced_, unarmed attacksdo more damage, the PC can more easily track animals of a certain type, and so on.
+
+#### Example: Mastery of the spear
 
 A player informs the Warden that they'd like to improve their character's skill at the spear. The Warden indicates that they may hire a **Veteran Soldier** (30gp per session) to help them train. The improvements will be gradual, requiring a week of practice for every session. However, if they complete their training their attacks with spears would be **d10** instead of **d8**. The Warden then creates the following **Milestones** for each session:
 
@@ -66,7 +75,7 @@ A player informs the Warden that they'd like to improve their character's skill 
 
 The player agrees, and pays the required gold for the first session. Over the next 2 months of play sessions, the Warden indicates how much time has passed in the game world, whether the character was able to pay the cost for each subsequent milestone. Occasionally the character was unable to pay the cost: either because they lacked **Time** to practice, or because the party left their city (and the trainer) for long periods. After marking off the third **Milestone** (Session Two) the player felt their character was cocky enough to skip Practice, and that they'd like to show off their skills to the trainer. The Warden asked the player to make a WIL save, cautioning that they may injure themselves if unprepared. The player rolled, and **failed**. The Warden explained that skipping practice left the trainer unimpressed. The character makes _no_ progress, and loses money spent on the trainer. The player gruntingly agrees to not try that again. Weeks later, the player marks off the final **Milestone**, and the Warden awards them with an improved skill at the spear: d10 damage in combat. 
 
-### Improved navigation
+#### Example: Improved navigation
 
 A player informs the Warden that they'd like to improve their skill at _navigating a wilderness location_, in the hopes that it will decrease their chances of getting lost while travelling. The Warden says, "At the **Southern Border**, between the rivers **Alcquat** and **Durang** there lives a hermit, rumored to have extensive knowledge in outdoor survival, wilderness mapping, and more! However, they are also known for having a difficult contenance, rejecting new pupils for seemingly arbitrary reasons. Success would mean unparalleled knowledge in wilderness survival and surveying; however it will be a long, drawn-out process: at least a month of training. Finally, the journey by foot will take at least four days." 
 
@@ -87,7 +96,9 @@ The player pays the resources required for travel (3 Rations) and the Warden nar
 - When exploring, the character accurately depicts natural geographic formations on a map after only one visit. 
 - When **Foraging**, the character collects d6 rations. 
 
-### Faction alliance 
+### Strengthening Ties
+
+#### Example: Faction alliance 
 
 During a play session, a player character became friendly with the **Seneschal** for a **Faction** called the **Order of the Helm**. Impressed, they asked if the character would like to join the _Order_. The player says their character agrees, and the Warden provides the following options:
 
@@ -107,3 +118,8 @@ The player indicates that they'd like to present themselves to the _Order_ for T
 A few weeks later, the player asks if their character can volunteer for a _Order_ mission. The **Warden** informs the player that there is an upcoming escort through the swamps of **Falal-hall**, but as this **Milestone** carries some risk the scenario will need to play out in a regular session. The player (along with the rest of the group) agrees. In the next play session, the entire party joins the mission, which results in a nearly fatal encounter with a bog demon. Nevertheless, the player marks off their next **Milestone**. 
 
 The Warden then describes the formal presentation that all cadets must endure: a two-day affair of pomp and finery. The player suggests that perhaps the invitation from their **Seneschal** friend might help smooth things along? The Warden agrees that this is at least possible, though the consequences might be embarrasing. The player rolls a **WIL** save: a **success**! The Warden announces that once word of their friendship with a higher-ranking official was confirmed, they were hastily thrown a uniform, a new shield (+1) Armor, and a fine short sword (d6) along with full **Protector** status. Along with support at any _Order_ outpost, the character receives a stipend of 5gp per day while working on _Order_ business. They are ordered to check in with their local **Precept** once a week whenever possible. They cannot refuse a direct order, but all _Order_ missions are otherwise optional. They are expected to answer the call to battle when it comes.
+
+### Revelry
+
+A character may choose to spread news of their exploits through drinks and charm. Flush with gold, they feast and laugh in tavern, palace, or glen. 
+

@@ -25,3 +25,4 @@ There are many potential triggers for growth. The following is an inexhaustive l
 - Interacted with something dangerous, and felt its punishment
 - Overcame a long-time woe
 - Succeeded or failed despite a natural talent or ability
+
