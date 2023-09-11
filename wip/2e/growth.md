@@ -17,17 +17,14 @@ Just as the in-game world continues to grow and change, so do the player charact
 
 There are a many potential ways a PC can experience growth. The following is an inexhaustive list: 
 
-- Injury by powerful entity or creature
+- Injury or contamination by a powerful entity or creature
 - Exposure to a powerful Relic
 - Advancement within a Faction
 - Resolution of a Bond or Omen
-- Discovery
-- Interaction
-- Completion
-- Solving
-- Victory
-- Learning
-- Looting
+- Changed a relationship with a being of great power
+- Interacted with something dangerous, and felt its punishment
+- Overcame a long-time woe
+- Succeeded or failed despite your natural talents
 
 ## Old Overview
 
