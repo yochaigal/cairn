@@ -54,11 +54,11 @@ A player learns of a holy Relic of great power, rumored to protect the bearer fr
 
 "The trip is only possible by riverboat, and takes two days (20gp round trip). Also, the librarians there are notoriously snooty and will not accept outsiders without a proper introduction. You will likely need to spend up to FOUR non-consecutive **Downtime Actions** to complete your research, and will thus be unable to participate in each play session." The player accepts this plan, but adds that they'd like to bring along a letter of introduction, signed by a powerful Count they'd met in a previous adventure. The Warden agrees, but adds that the Count does not simply accept visitors unannounced: the PC will need to spend one **Action** simply setting up a meeting. The Warden then creates five **Milestones**:
 
-   - [ ] Formally request a meeting with the Count. [Cost: Time (one **Action**)].
-   - [ ] Secure a letter of recommendation. [Cost: Time (one **Action**)].
-   - [ ] Travel to **Dropsilli** and be granted access to the library. [Cost: **Time** (one **Action**), **Gold** (10gp), **Reputation**].
-   - [ ] Research the location of the Relic. [Cost: **Time** (at least one **Action**)].
-   - [ ] Return home. [Cost: **Time** (one **Action**), **Gold** (10gp)].
+   - [ ] Formally request a meeting with the Count. [Cost: **Time**].
+   - [ ] Secure a letter of recommendation. [Cost: **Time**].
+   - [ ] Travel to **Dropsilli** and be granted access to the library. [Cost: **Time**, **Gold** (10gp), **Reputation**].
+   - [ ] Research the location of the Relic. [Cost: **Time**].
+   - [ ] Return home. [Cost: **Time**, **Gold** (10gp)].
 
 The player agrees, and suggests that for their first **Action**, their character decides not to waste any time with a formalities, instead choosing to force their way into the Count's office to demand the letter. The Warden agrees, explaining that if things go badly, their reputation with the Count might suffer and they could lose out on the letter entirely! The player makes a **WIL** save for their character: a **success**! The Warden describes how the character, "used wit and bravado to remind the Count of their greet deeds together, retrieving not only his letter but a pre-paid ticket for the riverboat!" The player marks off the first two **Milestones**. 
 
@@ -81,14 +81,14 @@ Examples:
 
 #### Example: Mastery of the spear
 
-A player informs the Warden that they'd like to improve their character's skill at the spear. The Warden indicates that they may hire a local **Master** (a veteran soldier) to help them train (30gp per session). The improvements will be gradual, requiring a week of practice. However, if they complete their training their attacks with spears would be **d10** instead of **d8**. The Warden then creates the following **Milestones** for each session:
+A player informs the Warden that they'd like to improve their character's skill at the spear. The Warden indicates that they may hire a local **Master** (a veteran soldier) to help them train (30gp per session). The improvements will be gradual, requiring a week of practice. However, if they complete their training their attacks with spears would be **d10** instead of **d8**. In total, it will take 6 **Downtime Actions** to complete their training. The Warden then creates the following **Milestones** for each session:
 
-  - [ ] Session One. [Cost: **Gold**].
-  - [ ] Week of Practice. [Cost: **Time** (one **Action**)].
-  - [ ] Session Two. [Cost: **Gold**].
-  - [ ] Week of Practice. [Cost: **Time** (one **Action**)].
-  - [ ] Session Three. [Cost: **Gold**].
-  - [ ] Week of Practice. [Cost: **Time** (one **Action**)].
+  - [ ] Session One. [Cost: **Time**, **Gold**].
+  - [ ] Week of Practice. [Cost: **Time**].
+  - [ ] Session Two. [Cost: **Time**, **Gold**].
+  - [ ] Week of Practice. [Cost: **Time**].
+  - [ ] Session Three. [Cost: **Time**, **Gold**].
+  - [ ] Week of Practice. [Cost: **Time**].
 
 The player agrees, and pays the required gold for the first session. Over the next 2 months of play, the Warden indicates how much time has passed in the game world, and the player spends a **Downtime Action** (and/or gold) to practice alone, or train with the **Master**. Occasionally the character was unable to pay the cost: either because they lacked **Time** to practice, or because the party left their city (and the trainer) for longer periods. 
 
