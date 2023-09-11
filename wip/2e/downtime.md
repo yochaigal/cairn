@@ -9,31 +9,34 @@ search_exclude: true
 
 # Downtime
 
-Between game sessions, players may utilize the following procedures to improve a skill, research a question, follow-up on a lead, build a relationship, and more. This may not always be possible if the PC is not in a safe space, or while **Healing**. 
+Between game sessions, players may utilize the following procedures to research a question, follow-up on a lead, improve a skill, build a relationship, or even boast of their exploits. This may not always be possible if the PC is not in a safe space, or while **Healing**. 
 
-## Overview
+## Downtime Actions
 
-- A player articulates a particular goal as well as exactly _how_ they intend to achieve it. 
-- The Warden then provides 1-5 **Milestones** that the player can tick off as they progress towards their goal. The Warden _may_ provide the player with multiple _choices_, each with their own unique **Milestones**. Most **Milestones** will come at a cost: overcoming an obstacle, spending a resource, traveling a great distance, time, etc. Some may deliver their own unique benefits as well. 
-- The player attempts to complete as many **milestones** as they like, provided they can meet the cost. A PC may make a WIL save to soften a cost, or even eliminate it entirely. On a fail they make _no_ progress, and the Warden describes any potential fallout. New milestones may be added, or the goal may need to be abandoned entirely.
+### Research a Question
 
-> Events that occur during a regular session of play may change the stakes of these activities by adding or removing costs, **Milestones**, or even entire goals. Conversely, events that occur as a result of these procedures may impact the events of a play session! **Milestones** that directly endanger the life of a character should occur during a regular play session.
+A character answers a single question about a bit of lost or forgotten lore, the location of a lost item, the whereabouts of an important NPC, and so on. To take this action the player must have a clearly formulated **question** they'd like to answer, and a **source** of knowledge in the game world that their character can interact with. 
 
-## Costs
+#### Questions
 
-The following are typical costs. This list is in no way exhaustive.
+A player must be able to formulate a specific question. Some examples:
+- "Where can I find the **Lost Temple of East Nipoor**?" 
+- "Who in **Fortune City** might know how to crack an ancient vault?"
+- "Where can I find the cure to **curly sickness**?" 
 
-- **Time**: The most common cost. Counted in days or weeks. Typical for travel, training, study, etc.
+#### Sources
+
+A **Source** is a person, place, faction, or entity that holds either a part or whole answer that the character seeks. The PC _must_ have some knowledge of or connection to the **Source** in order to engage with it. Some example **Sources**:  
+- **Kewr the Mouth**, a frequent contact for the **Conclave of Merchants**. Despite their excellent relationship with this faction, asking for help in an illicit activity might come at a high cost.
+- A **Woodwise** who makes his home deep in the **Forest of Knives**. The party encountered him in an earlier expedition, and the encounter did not end well. Still, he is said to know the nature of every herb and their healing properties.
+- The **Temple of Puppets**, a nomadic circus troupe who have travelled the known and unknown lands. The party assisted one of their members during the **Rain of Fire**, when even the creatures of the Wood were were preparing to flee their homes. If anyone has heard of forgotten places, it's them.
+
+Engaging with a **Source** often comes at a cost. If the character cannot pay the cost, they will have to find some other way to answer their question. A few examples of costs: 
+- **Time**: Counted in hours, days or weeks. Typical for travel, waiting, effort, etc.
 - **Gold**: Direct payment of gold from a character's inventory.
 - **Resources**: Non-monetary costs, such as material goods, specific common items, and so on. 
 - **Reputation**: Betting on a character's reknown, personality, presence, social connections, etc.
 - **Loss**: Offering something specific and unique. A finger, a soul, a **Relic**, etc.   
-
-## Downtime Actions
-
-### Research
-
-A character answers a single question about a bit of lost or forgotten lore, the location of a lost item, the whereabouts of an important NPC, and so on. 
 
 #### Example: Finding a lost Relic
 
@@ -57,10 +60,17 @@ A player learns of a holy Relic of great power, rumored to protect the bearer fr
  
  The player pushes ahead anyway, once again making a **WIL** save. They roll a **success**! The Warden says, "You spend a day and a night researching your subject, narrowly avoiding the wrath of the ever-present librarians. Finally, you uncover a snippet from an old text referencing the Relic. It indicates that the Relic was buried with its last known bearer, a priest of some note. The grave is somewhere in the **Ruins of Abbulahia**, an abandoned city deep in the swamps to the South.” The player marks off the final **Milestone**, and announces that their character hurriedly returns to their friends. 
 
+### Improving a Skill
 
-### Training
+A character's specific skill with an item or other ability is improved, with clear narrative or mechanical results. The weapon's damage die is _enhanced_, unarmed attacks do more damage, the PC can more easily track animals of a certain type, and so on. A PC cannot take this action to learn a _new_ skill.
 
-A character's specific skill with an item or other ability is improved, with clear narrative or mechanical results. The weapon's damage die is _enhanced_, unarmed attacksdo more damage, the PC can more easily track animals of a certain type, and so on.
+#### Milestones
+
+- A player articulates a particular goal as well as exactly _how_ they intend to achieve it. 
+- The Warden then provides 1-5 **Milestones** that the player can tick off as they progress towards their goal. The Warden _may_ provide the player with multiple _choices_, each with their own unique **Milestones**. Most **Milestones** will come at a cost: overcoming an obstacle, spending a resource, traveling a great distance, time, etc. Some may deliver their own unique benefits as well. 
+- The player attempts to complete as many **milestones** as they like, provided they can meet the cost. A PC may make a WIL save to soften a cost, or even eliminate it entirely. On a fail they make _no_ progress, and the Warden describes any potential fallout. New milestones may be added, or the goal may need to be abandoned entirely.
+
+> Events that occur during a regular session of play may change the stakes of these activities by adding or removing costs, **Milestones**, or even entire goals. Conversely, events that occur as a result of these procedures may impact the events of a play session! **Milestones** that directly endanger the life of a character should occur during a regular play session.
 
 #### Example: Mastery of the spear
 
@@ -119,7 +129,7 @@ A few weeks later, the player asks if their character can volunteer for a _Order
 
 The Warden then describes the formal presentation that all cadets must endure: a two-day affair of pomp and finery. The player suggests that perhaps the invitation from their **Seneschal** friend might help smooth things along? The Warden agrees that this is at least possible, though the consequences might be embarrasing. The player rolls a **WIL** save: a **success**! The Warden announces that once word of their friendship with a higher-ranking official was confirmed, they were hastily thrown a uniform, a new shield (+1) Armor, and a fine short sword (d6) along with full **Protector** status. Along with support at any _Order_ outpost, the character receives a stipend of 5gp per day while working on _Order_ business. They are ordered to check in with their local **Precept** once a week whenever possible. They cannot refuse a direct order, but all _Order_ missions are otherwise optional. They are expected to answer the call to battle when it comes.
 
-### Revelry
+### Revelry & Mirth
 
 A character may choose to spread news of their exploits through drinks and charm. Flush with gold, they feast and laugh in tavern, palace, or glen. 
 
