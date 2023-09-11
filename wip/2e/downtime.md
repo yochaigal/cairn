@@ -18,7 +18,7 @@ Some **Downtime Actions** require multiple steps (and actions) to complete. In t
 ### Costs
 
 Some **Milestones** come at a cost. A few examples: 
-- **Time**: Counted in hours, days or weeks. Typical for travel, waiting, effort, etc.
+- **Time**: Counted **Actions**. Typical for travel, waiting, effort, etc.
 - **Gold**: Direct payment of gold from a character's inventory.
 - **Resources**: Non-monetary costs, such as material goods, specific common items, and so on. 
 - **Reputation**: Betting on a character's reknown, personality, presence, social connections, etc.
@@ -46,30 +46,25 @@ A **Source** is a person, place, faction, or entity that holds either a part or 
 - A **Woodwise** who makes his home deep in the **Forest of Knives**. The party encountered him in an earlier expedition, and the encounter did not end well. Still, he is said to know the nature of every herb and their healing properties.
 - The **Temple of Puppets**, a nomadic circus troupe who have travelled the known and unknown lands. The party assisted one of their members during the **Rain of Fire**, when even the creatures of the Wood were were preparing to flee their homes. If anyone has heard of forgotten places, it's them.
 
-#### Resolving a Question
-
-
 #### Example: Finding a lost Relic
 
-A player learns of a holy Relic of great power, rumored to protect the bearer from harm, or even death itself. They proclaim that they'd like to _learn the Relic's location_. The Warden then provides the following outline:
+A player learns of a holy Relic of great power, rumored to protect the bearer from harm, or even death itself. They proclaim that they'd like to _learn the Relic's location_. They also indicate a potential **Source**: the **Library of Faded Colors** in the timeless city of **Dropsilli**. The Warden then provides the following outline:
 
-"You may travel to the timeless city of **Dropsilli**, where the walls fell. There is a well-known library there with more text on sacred objects than in any other. The trip is only possible by riverboat, and takes three day's travel. Also, the librarians there are notoriously snooty." They also explain that the character may run the danger of being separated from their party, as the next session begins only eight in-world days from now.
+"The trip is only possible by riverboat, and takes two days (20gp round trip). Also, the librarians there are notoriously snooty and will not accept outsiders without a proper introduction. You will likely need to spend up to FOUR non-consecutive **Downtime Actions** to complete your research, and will thus be unable to participate in each play session." The player accepts this plan, but adds that they'd like to bring along a letter of introduction, signed by a powerful Count they'd met in a previous adventure. The Warden agrees, but adds that the Count does not simply accept visitors unannounced: the PC will need to spend one **Action** simply setting up a meeting. The Warden then creates five **Milestones**:
 
- The player accepts this plan, but adds that they'd like to bring along a letter of introduction, signed by a powerful Count they'd met in a previous adventure. The Warden agrees, but adds that they will need to spend one additional day retrieving the letter. The Warden then creates five **Milestones**:
+   - [ ] Formally request a meeting with the Count. [Cost: One **Action**].
+   - [ ] Secure a letter of recommendation. [Cost: One **Action**].
+   - [ ] Travel to **Dropsilli** and be granted access to the library. [Cost: **Time** (one **Action**), **Gold** (10gp), **Reputation**].
+   - [ ] Research the location of the Relic. [Cost: **Time** (at least one **Action**)].
+   - [ ] Return to your party. [Cost: **Time** (one **Action**), **Gold** (10gp)].
 
-   - [ ] Secure a letter of recommendation. [Cost: **Time**].
-   - [ ] Travel to **Dropsilli**. [Cost: **Time**, **Gold**].
-   - [ ] Be granted access to the library. [Cost: **Reputation**].
-   - [ ] Discover information on the location of the Relic. [Cost: **Time**].
-   - [ ] Return to your party. [Cost: **Time**].
+ The player agrees, and suggests that for their first **Action**, their character decides not to waste any time with a formalities, instead choosing to force their way into the Count's office to demand the letter. The Warden agrees, explaining that if things go badly, their reputation with the Count might suffer and they could lose out on the letter entirely! The player makes a **WIL** save for their character: a **success**! The Warden describes how the character, "used wit and bravado to remind the Count of their greet deeds together, retrieving not only his letter but a pre-paid ticket for the riverboat!" The player marks off the first two **Milestones**. 
 
- The player feels that they can likely shave off a day by having their character force their way into the Count's office, demanding a letter. The Warden agrees, explaining that if things go badly, their reputation with the Count might suffer. The player makes a **WIL** save for their character: a **success**! The Warden describes how the character, "used wit and bravado to remind the Count of their greet deeds together, retrieving not only his letter but a pre-paid ticket for the riverboat!" The player marks off one **Milestone**, and tells the Warden they'd like to begin their journey. 
+ The character joins the party for another adventure, and upon returning to a safe haven, they choose to continue with their quest. The **Warden** informs the player that if they leave their home base, they will not be able join the party on their next adventure. They will however be able to take another **Downtime Action** during this time. They agree, and the **Warden** tells them, "You make your way to the city with little fanfare. The librarians welcome you, impressed by the letter you carry." They player marks off another **Milestone**. 
  
- They agree to pay the cost (only **Time**). They mark off another **Milestone**, and the notes how much time has passed. The Warden tells them, "You make your way to the city with little fanfare. Do you present your letter of introduction to the librarians?" The player agrees, and the Warden says, "They welcome you, impressed by the letter you carry." The player marks off a _third_ **Milestone**, and adds that they'd like to begin their research immediately. 
+ Another session of play occurs, during which time the PC does not participate, and chooses to take another **Downtime Action** for their research. The Warden says, "You spend a day and a night researching your subject, narrowly avoiding the wrath of the ever-present librarians. Finally, you uncover a snippet from an old text referencing the Relic. It indicates that the Relic was buried with its last known bearer, a priest of some note. The grave is somewhere in the **Ruins of Abbulahia**, an abandoned city deep in the swamps to the South.” The player marks off the fourth **Milestone**. 
  
- The Warden indicates that due to the size of the library, it will take at least three days to find information on their subject, and that they would be late to meet their party. Considering this, the player adds that they'd like to make a WIL save to see if their character can find what they're looking for any faster. The Warden reminds the player that these librarians are very strict; any failure to adhere to their rules will result in an immediate ban from the library. 
- 
- The player pushes ahead anyway, once again making a **WIL** save. They roll a **success**! The Warden says, "You spend a day and a night researching your subject, narrowly avoiding the wrath of the ever-present librarians. Finally, you uncover a snippet from an old text referencing the Relic. It indicates that the Relic was buried with its last known bearer, a priest of some note. The grave is somewhere in the **Ruins of Abbulahia**, an abandoned city deep in the swamps to the South.” The player marks off the final **Milestone**, and announces that their character hurriedly returns to their friends. 
+ The other players complete their play session, and choose their own **Downtime Actions**. The player announces that during this period their character takes another **Downtime Action** to hurriedly return to their friends. The **Warden** agrees, and the player marks off the final **Milestone**. 
 
 ### Improving a Skill
 
