@@ -9,34 +9,45 @@ search_exclude: true
 
 # Downtime
 
-Between game sessions, players may utilize the following procedures to research a question, follow-up on a lead, improve a skill, build a relationship, or even boast of their exploits. This may not always be possible if the PC is not in a safe space, or while **Healing**. 
+Between game sessions, players may utilize the following procedures to research a question, follow-up on a lead, improve a skill, build a relationship, or even boast of their exploits. Only one action is possible at a time, and some actions will require multiple steps to complete. These actions may not be taken if the PC is not in a safe space, or while **Healing**. **Downtime Actions** cannot be taken if they would significantly _harm a character_. Dangerous activities should take place during a play session!
 
-## Downtime Actions
+## Milestones
 
-### Research a Question
+Some **Downtime Actions** require multiple steps (and actions) to complete. In these cases, the Warden then provides 1-3 **Milestones** that the player can tick off as they progress towards their goal. Each **Milestone** requires a single **Downtime Action** to accomplish and potentially their own unique **Cost**. The Warden _may_ provide the player with multiple means of accomplishing their goals. Events that occur during a regular play session may change the stakes of these activities by adding or removing **costs**, **Milestones**, or even entire goals. **Milestones** are "zoomed-out" activities, both abstract and non-interactive.
 
-A character answers a single question about a bit of lost or forgotten lore, the location of a lost item, the whereabouts of an important NPC, and so on. To take this action the player must have a clearly formulated **question** they'd like to answer, and a **source** of knowledge in the game world that their character can interact with. 
+### Costs
 
-#### Questions
-
-A player must be able to formulate a specific question. Some examples:
-- "Where can I find the **Lost Temple of East Nipoor**?" 
-- "Who in **Fortune City** might know how to crack an ancient vault?"
-- "Where can I find the cure to **curly sickness**?" 
-
-#### Sources
-
-A **Source** is a person, place, faction, or entity that holds either a part or whole answer that the character seeks. The PC _must_ have some knowledge of or connection to the **Source** in order to engage with it. Some example **Sources**:  
-- **Kewr the Mouth**, a frequent contact for the **Conclave of Merchants**. Despite their excellent relationship with this faction, asking for help in an illicit activity might come at a high cost.
-- A **Woodwise** who makes his home deep in the **Forest of Knives**. The party encountered him in an earlier expedition, and the encounter did not end well. Still, he is said to know the nature of every herb and their healing properties.
-- The **Temple of Puppets**, a nomadic circus troupe who have travelled the known and unknown lands. The party assisted one of their members during the **Rain of Fire**, when even the creatures of the Wood were were preparing to flee their homes. If anyone has heard of forgotten places, it's them.
-
-Engaging with a **Source** often comes at a cost. If the character cannot pay the cost, they will have to find some other way to answer their question. A few examples of costs: 
+Some **Milestones** come at a cost. A few examples: 
 - **Time**: Counted in hours, days or weeks. Typical for travel, waiting, effort, etc.
 - **Gold**: Direct payment of gold from a character's inventory.
 - **Resources**: Non-monetary costs, such as material goods, specific common items, and so on. 
 - **Reputation**: Betting on a character's reknown, personality, presence, social connections, etc.
 - **Loss**: Offering something specific and unique. A finger, a soul, a **Relic**, etc.   
+
+If a character cannot pay the **cost**, they may have to find some other way to achieve their goal. Some **costs** can be reduced or disregarded through character skills, connections, or force of will. For example, a PC may have already acquired the necessary reputation to gain access to a renowned institution, and thus the **cost** is abated. On the other hand, anotehr character may not be so lucky, and must rely on their force of personality instead. In this case, the Warden should state the risk (a permanent ban on entry, a loss of reputation, etc.). The PC then makes a **WIL** save; on a success the cost is either reduced or eliminated entirely. _A player cannot take this option if the consequences of failure would harm the character._
+
+## Downtime Actions
+
+### Research a Question
+
+A character answers a single question about a bit of lost or forgotten lore, the location of a lost item, the whereabouts of an important NPC, and so on. To take this action the player must have a clearly formulated question they'd like to answer, and a **Source** of knowledge in the game world that their character can interact with. Once a question is posed and an appropriate **Source** has been identified, the **Warden** should provide any  **Milestones** and associated **Costs**. 
+
+#### Questions
+
+A player must be able to formulate a specific question they'd like to answer. As always, the question must come from experiences that occur during play. A character cannot pursue knowledge they know nothing about! Some examples questions:
+- "Where is the **Lost Temple of East Nipoor**?" 
+- "Who in **Fortune City** might know how to crack an ancient vault?"
+- "Where can I find the cure to **curly sickness**?" 
+
+#### Sources
+
+A **Source** is a person, place, faction, or entity that holds either a part or whole answer that the character seeks. The PC _must_ have some knowledge of or connection to the **Source** in order to engage with it.  Some example **Sources**:  
+- **Kewr the Mouth**, a frequent contact for the **Conclave of Merchants**. Despite their excellent relationship with this faction, asking for help in an illicit activity might come at a high cost.
+- A **Woodwise** who makes his home deep in the **Forest of Knives**. The party encountered him in an earlier expedition, and the encounter did not end well. Still, he is said to know the nature of every herb and their healing properties.
+- The **Temple of Puppets**, a nomadic circus troupe who have travelled the known and unknown lands. The party assisted one of their members during the **Rain of Fire**, when even the creatures of the Wood were were preparing to flee their homes. If anyone has heard of forgotten places, it's them.
+
+#### Resolving a Question
+
 
 #### Example: Finding a lost Relic
 
