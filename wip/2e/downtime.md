@@ -9,7 +9,7 @@ search_exclude: true
 
 # Downtime
 
-Between game sessions, players may utilize the following procedures to research a question, follow-up on a lead, improve a skill, build a relationship, or even boast of their exploits. Only one action is possible at a time, and some actions will require multiple steps to complete. These actions may not be taken if the PC is not in a safe space, or while **Healing**. **Downtime Actions** cannot be taken if they would significantly _harm a character_. Dangerous activities should take place during a play session!
+Between game sessions, players may utilize the following procedures to research a question, follow-up on a lead, improve a skill, build a relationship, or even boast of their exploits. Only one action is possible at a time, and some actions will require multiple steps to complete. These actions may not be taken if the PC is not in a safe space, or while healing/recovering. **Downtime Actions** cannot be taken if they would significantly _harm a character_. Dangerous activities should take place during a play session!
 
 ## Milestones
 
@@ -18,7 +18,7 @@ Some **Downtime Actions** require multiple steps (and actions) to complete. In t
 ### Costs
 
 Some **Milestones** come at a cost. A few examples: 
-- **Time**: Counted **Actions**. Typical for travel, waiting, effort, etc.
+- **Time**: Counted in **Actions**. Typical for travel, waiting, effort, etc.
 - **Gold**: Direct payment of gold from a character's inventory.
 - **Resources**: Non-monetary costs, such as material goods, specific common items, and so on. 
 - **Reputation**: Betting on a character's reknown, personality, presence, social connections, etc.
