@@ -9,7 +9,9 @@ search_exclude: true
 
 # Downtime
 
-Between game sessions, players may utilize the following procedures to research a question, follow-up on a lead, improve a skill, build a relationship, or even boast of their exploits. Only one action is possible at a time, and some actions will require multiple steps to complete. These actions may not be taken if the PC is not in a safe space, or while healing/recovering. **Downtime Actions** cannot be taken if they would significantly _harm a character_. Dangerous activities should take place during a play session!
+Between game sessions, players may utilize the following procedures to research a question, follow-up on a lead, improve a skill, build a relationship, or even boast of their exploits. Only one action is possible at a time, and some actions will require multiple steps to complete. These actions may not be taken if the PC is not in a safe space, or while healing/recovering. **Downtime Actions** cannot be taken if they would significantly _harm a character_. 
+
+| Dangerous activities should only take place during a play session!
 
 ## Milestones
 
@@ -30,7 +32,7 @@ If a character cannot pay the **cost**, they may have to find some other way to 
 
 ### Research a Question
 
-A character answers a single question about a bit of lost or forgotten lore, the location of a lost item, the whereabouts of an important NPC, and so on. To take this action the player must have a clearly formulated question they'd like to answer, and a **Source** of knowledge in the game world that their character can interact with. Once a question is posed and an appropriate **Source** has been identified, the **Warden** should provide any  **Milestones** and associated **Costs**. 
+A character answers a single question about a bit of lost or forgotten lore, the location of a lost item, the whereabouts of an important NPC, and so on. To take this action the player must have a clearly formulated question they'd like to answer, and a **Source** of knowledge in the game world that their character can interact with. Once a question is posed and an appropriate **Source** has been identified, the **Warden** should provide any **Milestones** and associated **Costs**. 
 
 #### Questions
 
@@ -52,44 +54,45 @@ A player learns of a holy Relic of great power, rumored to protect the bearer fr
 
 "The trip is only possible by riverboat, and takes two days (20gp round trip). Also, the librarians there are notoriously snooty and will not accept outsiders without a proper introduction. You will likely need to spend up to FOUR non-consecutive **Downtime Actions** to complete your research, and will thus be unable to participate in each play session." The player accepts this plan, but adds that they'd like to bring along a letter of introduction, signed by a powerful Count they'd met in a previous adventure. The Warden agrees, but adds that the Count does not simply accept visitors unannounced: the PC will need to spend one **Action** simply setting up a meeting. The Warden then creates five **Milestones**:
 
-   - [ ] Formally request a meeting with the Count. [Cost: One **Action**].
-   - [ ] Secure a letter of recommendation. [Cost: One **Action**].
+   - [ ] Formally request a meeting with the Count. [Cost: Time (one **Action**)].
+   - [ ] Secure a letter of recommendation. [Cost: Time (one **Action**)].
    - [ ] Travel to **Dropsilli** and be granted access to the library. [Cost: **Time** (one **Action**), **Gold** (10gp), **Reputation**].
    - [ ] Research the location of the Relic. [Cost: **Time** (at least one **Action**)].
-   - [ ] Return to your party. [Cost: **Time** (one **Action**), **Gold** (10gp)].
+   - [ ] Return home. [Cost: **Time** (one **Action**), **Gold** (10gp)].
 
- The player agrees, and suggests that for their first **Action**, their character decides not to waste any time with a formalities, instead choosing to force their way into the Count's office to demand the letter. The Warden agrees, explaining that if things go badly, their reputation with the Count might suffer and they could lose out on the letter entirely! The player makes a **WIL** save for their character: a **success**! The Warden describes how the character, "used wit and bravado to remind the Count of their greet deeds together, retrieving not only his letter but a pre-paid ticket for the riverboat!" The player marks off the first two **Milestones**. 
+The player agrees, and suggests that for their first **Action**, their character decides not to waste any time with a formalities, instead choosing to force their way into the Count's office to demand the letter. The Warden agrees, explaining that if things go badly, their reputation with the Count might suffer and they could lose out on the letter entirely! The player makes a **WIL** save for their character: a **success**! The Warden describes how the character, "used wit and bravado to remind the Count of their greet deeds together, retrieving not only his letter but a pre-paid ticket for the riverboat!" The player marks off the first two **Milestones**. 
 
- The character joins the party for another adventure, and upon returning to a safe haven, they choose to continue with their quest. The **Warden** informs the player that if they leave their home base, they will not be able join the party on their next adventure. They will however be able to take another **Downtime Action** during this time. They agree, and the **Warden** tells them, "You make your way to the city with little fanfare. The librarians welcome you, impressed by the letter you carry." They player marks off another **Milestone**. 
+The character joins the party for another adventure, and upon returning to a safe haven, they choose to continue with their quest. The **Warden** informs the player that if they leave their home base, they will not be able join the party on their next adventure. They will however be able to take another **Downtime Action** during this time. They agree, and the **Warden** tells them, "You make your way to the city with little fanfare. The librarians welcome you, impressed by the letter you carry." They player marks off another **Milestone**. 
  
- Another session of play occurs, during which time the PC does not participate, and chooses to take another **Downtime Action** for their research. The Warden says, "You spend a day and a night researching your subject, narrowly avoiding the wrath of the ever-present librarians. Finally, you uncover a snippet from an old text referencing the Relic. It indicates that the Relic was buried with its last known bearer, a priest of some note. The grave is somewhere in the **Ruins of Abbulahia**, an abandoned city deep in the swamps to the South.” The player marks off the fourth **Milestone**. 
+Another session of play occurs, during which time the PC does not participate, and chooses to take another **Downtime Action** for their research. The Warden says, "You spend a day and a night researching your subject, narrowly avoiding the wrath of the ever-present librarians. Finally, you uncover a snippet from an old text referencing the Relic. It indicates that the Relic was buried with its last known bearer, a priest of some note. The grave is somewhere in the **Ruins of Abbulahia**, an abandoned city deep in the swamps to the South.” The player marks off the fourth **Milestone**. 
  
- The other players complete their play session, and choose their own **Downtime Actions**. The player announces that during this period their character takes another **Downtime Action** to hurriedly return to their friends. The **Warden** agrees, and the player marks off the final **Milestone**. 
+The other players complete their play session, and choose their own **Downtime Actions**. The player announces that during this period their character takes another **Downtime Action** to hurriedly return to their friends. The **Warden** agrees, and the player marks off the final **Milestone**. 
 
-### Improving a Skill
+### Self Improvement
 
-A character's specific skill with an item or other ability is improved, with clear narrative or mechanical results. The weapon's damage die is _enhanced_, unarmed attacks do more damage, the PC can more easily track animals of a certain type, and so on. A PC cannot take this action to learn a _new_ skill.
+A character can improve their skills with an item or ability, with clear narrative or mechanical results. They might be interested in dealing greater damage with a particular weapon, decreasing their chances of getting lost in rough weather, or learn to read the languages of the ancients. A PC might spend multiple **Downtime Actions** sparring with a particular weapon, improving their skills week by week. Or they may need to travel to the home of a distant sage, improving themselves through short but intense study.
 
-#### Milestones
+The player must describe precisely what they'd like to improve, and a **Master** whom they might train with. And of course, the character's inspiration to improve should come from an experience in play. The **Warden** should provide any **Milestones** and associated **Costs**. 
 
-- A player articulates a particular goal as well as exactly _how_ they intend to achieve it. 
-- The Warden then provides 1-5 **Milestones** that the player can tick off as they progress towards their goal. The Warden _may_ provide the player with multiple _choices_, each with their own unique **Milestones**. Most **Milestones** will come at a cost: overcoming an obstacle, spending a resource, traveling a great distance, time, etc. Some may deliver their own unique benefits as well. 
-- The player attempts to complete as many **milestones** as they like, provided they can meet the cost. A PC may make a WIL save to soften a cost, or even eliminate it entirely. On a fail they make _no_ progress, and the Warden describes any potential fallout. New milestones may be added, or the goal may need to be abandoned entirely.
-
-> Events that occur during a regular session of play may change the stakes of these activities by adding or removing costs, **Milestones**, or even entire goals. Conversely, events that occur as a result of these procedures may impact the events of a play session! **Milestones** that directly endanger the life of a character should occur during a regular play session.
+Examples:  
+- Blade expertise: When wielding a sword, the damage die is increased from d6 to d8.
+- Improved fishing: d6 Rations are gathered when taking the Supply **Action** near healthy sources of water.
+- Scholarly wisdom: The texts and signage of ancient temples and cities are finally intelligible, and understanding their Relics far easier.
 
 #### Example: Mastery of the spear
 
-A player informs the Warden that they'd like to improve their character's skill at the spear. The Warden indicates that they may hire a **Veteran Soldier** (30gp per session) to help them train. The improvements will be gradual, requiring a week of practice for every session. However, if they complete their training their attacks with spears would be **d10** instead of **d8**. The Warden then creates the following **Milestones** for each session:
+A player informs the Warden that they'd like to improve their character's skill at the spear. The Warden indicates that they may hire a local **Master** (a veteran soldier) to help them train (30gp per session). The improvements will be gradual, requiring a week of practice. However, if they complete their training their attacks with spears would be **d10** instead of **d8**. The Warden then creates the following **Milestones** for each session:
 
   - [ ] Session One. [Cost: **Gold**].
-  - [ ] Week of Practice. [Cost: **Time**].
+  - [ ] Week of Practice. [Cost: **Time** (one **Action**)].
   - [ ] Session Two. [Cost: **Gold**].
-  - [ ] Week of Practice. [Cost: **Time**].
+  - [ ] Week of Practice. [Cost: **Time** (one **Action**)].
   - [ ] Session Three. [Cost: **Gold**].
-  - [ ] Week of Practice. [Cost: **Time**].
+  - [ ] Week of Practice. [Cost: **Time** (one **Action**)].
 
-The player agrees, and pays the required gold for the first session. Over the next 2 months of play sessions, the Warden indicates how much time has passed in the game world, whether the character was able to pay the cost for each subsequent milestone. Occasionally the character was unable to pay the cost: either because they lacked **Time** to practice, or because the party left their city (and the trainer) for long periods. After marking off the third **Milestone** (Session Two) the player felt their character was cocky enough to skip Practice, and that they'd like to show off their skills to the trainer. The Warden asked the player to make a WIL save, cautioning that they may injure themselves if unprepared. The player rolled, and **failed**. The Warden explained that skipping practice left the trainer unimpressed. The character makes _no_ progress, and loses money spent on the trainer. The player gruntingly agrees to not try that again. Weeks later, the player marks off the final **Milestone**, and the Warden awards them with an improved skill at the spear: d10 damage in combat. 
+The player agrees, and pays the required gold for the first session. Over the next 2 months of play, the Warden indicates how much time has passed in the game world, and the player spends a **Downtime Action** (and/or gold) to practice alone, or train with the **Master**. Occasionally the character was unable to pay the cost: either because they lacked **Time** to practice, or because the party left their city (and the trainer) for longer periods. 
+
+After marking off the third **Milestone** (Session Two) the player felt their character was cocky enough to skip their practice (including the requisite **Downtime Action**), and that they'd like to show off their skills to the trainer. The Warden asked the player to make a WIL save, cautioning that they may lose time and progress if they fail. The player rolled, and **failed**. The Warden explained that skipping practice left the trainer unimpressed. The character makes _no_ progress, and loses money spent on the trainer. The player gruntingly agrees to not try that again. Weeks later, the player marks off the final **Milestone**, and the Warden awards them with an improved skill at the spear: d10 damage in combat. 
 
 #### Example: Improved navigation
 
@@ -112,7 +115,7 @@ The player pays the resources required for travel (3 Rations) and the Warden nar
 - When exploring, the character accurately depicts natural geographic formations on a map after only one visit. 
 - When **Foraging**, the character collects d6 rations. 
 
-### Strengthening Ties
+### Strengthen a Tie
 
 #### Example: Faction alliance 
 
