@@ -102,19 +102,17 @@ After marking off their fourth **Milestone**, the player felt their character wa
 
 #### Studying with a Master
 
-A player informs the Warden that they'd like to improve their skill at _navigating a wilderness location_, in the hopes that it will decrease their chances of getting lost while travelling. The Warden says, "At the **Southern Border**, between the rivers **Alcquat** and **Durang** there lives a hermit, rumored to have extensive knowledge in outdoor survival, wilderness mapping, and more! However, they are also known for having a difficult contenance, rejecting new pupils for seemingly arbitrary reasons. Success would mean unparalleled knowledge in wilderness survival and surveying; however it will be a long, drawn-out process: at least a month of training. Finally, the journey by foot will take at least four days." 
+During play, a player learns about a powerful sage living at the **Southern Border**, between the rivers **Alcquat** and **Durang**, rumored to have extensive knowledge in outdoor survival, wilderness mapping, and more! The player informs the Warden that they'd like to improve their skill at _navigating a wilderness location_, in the hopes that it will decrease their chances of getting lost while travelling. 
 
-The Warden goes on to explain that it is unlikely the player's character will be able to join the party in the next session, which begins in just a few days within the game-world. The player agrees, as they are likely going to miss the next two play sessions anyway. The Warden puts together the following **Milestones**:
+However, the **Warden** explains that this **Master** is also known for having a difficult contenance, rejecting new pupils for seemingly arbitrary reasons. Success would mean unparalleled knowledge in wilderness survival, but training will be a long, drawn-out process: at least a month of training. The Warden goes on to explain that it is unlikely the player's character will be able to join the party in the next session, which begins in just a few days within the game-world. The player agrees, as they are likely going to miss the next two play sessions anyway. The Warden puts together the following **Milestones**:
 
-- [ ] Journey to the **Southern Border**.
-- [ ] Meet the **Master**. [Cost: **Reputation**]
+- [ ] Journey to the **Southern Border** and meet the **Master**. [Cost: **Reputation**]
 - [ ] Training Week 1.
 - [ ] Training Week 2.
 - [ ] Training Week 3.
-- [ ] Training Week 4. 
 - [ ] Return home.
 
-The Warden narrates the character's journey South. Upon arrival, the Warden rolls on the [Reaction](/wip/2e/core-rules#reactions) table to determine the master's countenance: **Kind**! Fortunately for the character, the master was in a good mood. The player marks off both the journey and the meeting **Milestones**. Over the course of the following real-life weeks and month, the player marks off each week of training, as time passes in-game. With each passing week, the character learns to forage, navigate, and track in the wilderness. Once a full month of in-game time has passed, the player marks off their final **Milestone** of training, then asks if they can make a WIL save to return home faster. The Warden explains that this is no longer necessary: their newfound skills in tracking, exploring, mapping and survival cut the travel time in half! The Warden explains the added benefits from this experience:
+The Warden narrates the character's journey South. Upon arrival, the Warden rolls on the [Reaction](/wip/2e/core-rules#reactions) table to determine the master's countenance: **Kind**! Fortunately for the character, the master was in a good mood. The player marks off both the journey and the meeting **Milestones**. Over the course of the following weeks, the player marks off each week of training, as time passes in-game. With each passing week, the character learns to forage, navigate, and track in the wilderness. Once a full month of in-game time has passed, the player marks off their final **Milestone** of training, then asks if they can make a WIL save to return home faster. The Warden explains that this is no longer necessary: their newfound skills in tracking, exploring, mapping and survival cut the travel time in half! The Warden explains the added benefits from this experience:
 
 - When taking the **Travel** action, the odds of getting less are one step down (e.g. 4-in-6 becomes 2-in-6). 
 - When travelling _alone_, they treat **Tough** terrain as **Normal** if they've travelled there before.
