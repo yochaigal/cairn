@@ -9,7 +9,7 @@ search_exclude: true
 
 # Downtime
 
-Between game sessions, players may utilize the following procedures to research a question, follow-up on a lead, improve a skill, build a relationship, or even boast of their exploits. Only one action is possible at a time, and some actions will require multiple steps to complete. These actions may not be taken if the PC is not in a safe space, or while healing/recovering. **Downtime Actions** cannot be taken if they would significantly _harm a character_. 
+Between game sessions, players may utilize the following procedures to research a question, follow-up on a lead, improve a skill, build a relationship, or even boast of their exploits. Only one action is possible at a time, and some actions will require multiple steps to complete. These actions may not be taken if the PC is not in a safe space, or while healing/recovering. **Downtime Actions** (including WIL saves) cannot be taken if they would significantly _harm a character_. 
 
 > Note: Rations and daily upkeep are not tracked during Downtime unless otherwise noted.
 
@@ -23,13 +23,13 @@ Some **Downtime Actions** require multiple steps (and actions) to complete. In t
 
 ### Costs
 
-At a minimum, every **Milestone** costs a single **Downtime Action**. A few examples of **Cost**: 
+At a minimum, every **Milestone** costs a single **Downtime Action**. If a character cannot pay the **cost**, they may have to find some other way to achieve their goal. A few examples of **Cost**: 
 - **Gold**: Direct payment of gold from a character's inventory.
 - **Resources**: Non-monetary costs, such as material goods, specific common items, and so on. 
 - **Reputation**: Betting on a character's reknown, personality, presence, social connections, etc.
 - **Loss**: Offering something specific and unique. A finger, a soul, a **Relic**, etc.   
 
-If a character cannot pay the **cost**, they may have to find some other way to achieve their goal. Some **costs** can be reduced or disregarded through character skills, connections, or force of will. For example, a PC may have already acquired the necessary reputation to gain access to a renowned institution, and thus the **cost** is abated. On the other hand, anotehr character may not be so lucky, and must rely on their force of personality instead. In this case, the Warden should state the risk (a permanent ban on entry, a loss of reputation, etc.). The PC then makes a **WIL** save; on a success the cost is either reduced or eliminated entirely. _A player cannot take this option if the consequences of failure would harm the character._
+Some **costs** can be reduced or disregarded through character skills, connections, or force of will. For example, a PC may have already acquired the necessary reputation to gain access to a renowned institution, and thus the **cost** is abated. On the other hand, another character may not be so lucky, and must rely on their force of personality instead. In this case, the Warden should state the risk (a permanent ban on entry, a loss of reputation, etc.). The PC then makes a **WIL** save; on a success the cost is either reduced or eliminated entirely. 
 
 ## Downtime Actions
 
@@ -61,9 +61,9 @@ A player learns of a holy Relic of great power, rumored to protect the bearer fr
 
    - [ ] Formally request a meeting with the Count.
    - [ ] Secure a letter of recommendation.
-   - [ ] Travel to **Dropsilli** and be granted access to the library. [**Gold** (10gp), **Reputation**].
+   - [ ] Travel to **Dropsilli** and be granted access to the library. [Cost: **Gold**, **Reputation**].
    - [ ] Research the location of the Relic.
-   - [ ] Return home. [**Gold** (10gp)].
+   - [ ] Return home. [Cost: **Gold**].
 
 The player agrees, and suggests that for their first **Action**, their character decides not to waste any time with a formalities, instead choosing to force their way into the Count's office to demand the letter. The Warden agrees, explaining that if things go badly, their reputation with the Count might suffer and they could lose out on the letter entirely! The player makes a **WIL** save for their character: a **success**! The Warden describes how the character, "used wit and bravado to remind the Count of their greet deeds together, retrieving not only his letter but a pre-paid ticket for the riverboat!" The player marks off the first two **Milestones**. 
 
@@ -88,13 +88,13 @@ Examples:
 
 A player informs the Warden that they'd like to improve their character's skill at the spear. The Warden indicates that they may hire a local **Master** (a veteran soldier) to help them train (30gp per session). The improvements will be gradual, requiring a week of practice. However, if they complete their training their attacks with spears would be **d10** instead of **d8**. In total, it will take 7 **Downtime Actions** to complete their training. The Warden then creates the following **Milestones** for each session:
 
-  - [ ] Session One. [**Gold**].
+  - [ ] Session One. [Cost: **Gold**].
   - [ ] Week of Practice.
-  - [ ] Session Two. [**Gold**].
+  - [ ] Session Two. [Cost: **Gold**].
   - [ ] Week of Practice.
-  - [ ] Session Three. [**Gold**].
+  - [ ] Session Three. [Cost: **Gold**].
   - [ ] Week of Practice.
-  - [ ] Session Four. [**Gold**].
+  - [ ] Session Four. [Cost: **Gold**].
 
 The player agrees, and pays the required gold for the first session. Over the next 2 months of play, the Warden indicates how much time has passed in the game world, and the player spends a **Downtime Action** (and/or gold) to practice alone, or train with the **Master**. Occasionally the character was unable to pay the cost: either because they lacked **Time** to practice, or because the party left their city (and the trainer) for longer periods. 
 
