@@ -11,7 +11,7 @@ search_exclude: true
 
 Between game sessions, players may utilize the following procedures to research a question, follow-up on a lead, improve a skill, build a relationship, or even boast of their exploits. Only one action is possible at a time, and some actions will require multiple steps to complete. These actions may not be taken if the PC is not in a safe space, or while healing/recovering. **Downtime Actions** cannot be taken if they would significantly _harm a character_. 
 
-> Note: Dangerous activities should only take place during a play session!
+> Note: Rations and daily upkeep are not tracked during Downtime unless otherwise noted.
 
 ## Milestones
 
@@ -80,9 +80,9 @@ Examples:
 - Improved fishing: d6 Rations are gathered when taking the Supply **Action** near healthy sources of water.
 - Scholarly wisdom: The texts and signage of ancient temples and cities are finally intelligible, and understanding their Relics far easier.
 
-#### Example: Mastery of the spear
+#### Example: Spear Mastery
 
-A player informs the Warden that they'd like to improve their character's skill at the spear. The Warden indicates that they may hire a local **Master** (a veteran soldier) to help them train (30gp per session). The improvements will be gradual, requiring a week of practice. However, if they complete their training their attacks with spears would be **d10** instead of **d8**. In total, it will take 6 **Downtime Actions** to complete their training. The Warden then creates the following **Milestones** for each session:
+A player informs the Warden that they'd like to improve their character's skill at the spear. The Warden indicates that they may hire a local **Master** (a veteran soldier) to help them train (30gp per session). The improvements will be gradual, requiring a week of practice. However, if they complete their training their attacks with spears would be **d10** instead of **d8**. In total, it will take 7 **Downtime Actions** to complete their training. The Warden then creates the following **Milestones** for each session:
 
   - [ ] Session One. [**Gold**].
   - [ ] Week of Practice.
@@ -90,54 +90,34 @@ A player informs the Warden that they'd like to improve their character's skill 
   - [ ] Week of Practice.
   - [ ] Session Three. [**Gold**].
   - [ ] Week of Practice.
+  - [ ] Session Four. [**Gold**].
 
 The player agrees, and pays the required gold for the first session. Over the next 2 months of play, the Warden indicates how much time has passed in the game world, and the player spends a **Downtime Action** (and/or gold) to practice alone, or train with the **Master**. Occasionally the character was unable to pay the cost: either because they lacked **Time** to practice, or because the party left their city (and the trainer) for longer periods. 
 
-After marking off the third **Milestone** (Session Two) the player felt their character was cocky enough to skip their practice (including the requisite **Downtime Action**), and that they'd like to show off their skills to the trainer. The Warden asked the player to make a WIL save, cautioning that they may lose time and progress if they fail. The player rolled, and **failed**. The Warden explained that skipping practice left the trainer unimpressed. The character makes _no_ progress, and loses money spent on the trainer. The player gruntingly agrees to not try that again. Weeks later, the player marks off the final **Milestone**, and the Warden awards them with an improved skill at the spear: d10 damage in combat. 
-
-#### Example: Improved navigation
-
-A player informs the Warden that they'd like to improve their skill at _navigating a wilderness location_, in the hopes that it will decrease their chances of getting lost while travelling. The Warden says, "At the **Southern Border**, between the rivers **Alcquat** and **Durang** there lives a hermit, rumored to have extensive knowledge in outdoor survival, wilderness mapping, and more! However, they are also known for having a difficult contenance, rejecting new pupils for seemingly arbitrary reasons. Success would mean unparalleled knowledge in wilderness survival and surveying; however it will be a long, drawn-out process: at least a month of training. Finally, the journey by foot will take at least four days." 
-
-The Warden goes on to explain that it is unlikely the player's character will be able to join the party in the next session, which begins in just a few days within the game-world. The player agrees, as they are likely going to miss the next two play sessions anyway. The Warden puts together the following **Milestones**:
-
-  - [ ] Journey to the **Southern Border**. [Cost: **Resources**, **Time**] 
-  - [ ] Meet the **Master**. [Cost: **Reputation**]
-  - [ ] Training Week 1. [Cost: **Time**]
-  - [ ] Training Week 2. [Cost: **Time**]
-  - [ ] Training Week 3. [Cost: **Time**]
-  - [ ] Training Week 4. [Cost: **Time**]
-  - [ ] Return home. [Cost: **Time**] 
-
-The player pays the resources required for travel (3 Rations) and the Warden narrates the character's journey South. Upon arrival, the Warden rolls on the [Reaction](/wip/2e/core-rules#reactions) table to determine the master's countenance: **Kind**! Fortunately for the character, the master was in a good mood. The player marks off both the journey and the meeting **Milestones**. Over the course of the following real-life weeks and month, the player marks off each week of training, as time passes in-game. With each passing week, the character learns to forage, navigate, and track in the wilderness. Once a full month of in-game time has passed, the player marks off their final **Milestone** of training, then asks if they can make a WIL save to return home faster. The Warden explains that this is no longer necessary: their newfound skills in tracking, exploring, mapping and survival cut the travel time in half! The Warden explains the added benefits from this experience:
-
-- When taking the **Travel** action, the odds of getting less are one step down (e.g. 4-in-6 becomes 2-in-6). 
-- When travelling _alone_, they treat **Tough** terrain as **Normal** if they've travelled there before.
-- When exploring, the character accurately depicts natural geographic formations on a map after only one visit. 
-- When **Foraging**, the character collects d6 rations. 
+After marking off their fourth **Milestone**, the player felt their character was cocky enough to skip their practice (including the requisite **Downtime Action**), and that they'd like to show off their skills to the trainer. The Warden asked the player to make a WIL save, cautioning that they may lose time and progress if they fail. The player rolled, and **failed**. The Warden explained that skipping practice left the trainer unimpressed. The character makes _no_ progress, and loses money spent on the trainer. The player gruntingly agrees to not try that again. Weeks later, the player marks off the final **Milestone**, and the Warden awards them with an improved skill at the spear: d10 damage in combat. 
 
 ### Strengthen a Tie
 
 #### Example: Faction alliance 
 
-During a play session, a player character became friendly with the **Seneschal** for a **Faction** called the **Order of the Helm**. Impressed, they asked if the character would like to join the _Order_. The player says their character agrees, and the Warden provides the following options:
+During a play session, a player character became friendly with the **Seneschal** of the **Order of the Helm**. Impressed by their actions, the PC is asked if they would like to join the _Order_. The player agrees, and the Warden provides the following options:
 
-1. Join the _Order_ as a _Protector_, one of the lowest ranking members in the _Order_. It has not distinct requirements, pays a stipend, and has its own fraternal benefits.
+1. Join the _Order_ as a _Protector_, one of the lowest ranking members in the _Order_. The position has no distinct requirements, pays a stipend, and has its own fraternal benefits.
 2. Formally pledge allegiance to the _Order_, taking their Oath and embracing their cause. Besides the more obvious requirements, the character can never reveal their face to any living creature so long as they serve. There will be a ceremony, and perhaps a trial. Membership comes with many benefits, some potentially magical.
 
 The player chooses option #1: present themselves to the _Order_ as a volunteer. The Warden provides the following **Milestones** as requirements to reach **Protector** status:
 
-  - [ ] Travel to an _Order_ Outpost. [Cost: **Time**]
-  - [ ] Train. [Cost: **Time**]
-  - [ ] Volunteer For A Mission. [Cost: **Time**]
-  - [ ] Final Demonstration. [Cost: **Time**]
-  - [ ] Formally Join The _Order_. [Cost: Free]
+  - [ ] Travel to an _Order_ outpost. 
+  - [ ] Train.
+  - [ ] Return from the outpost. 
+  - [ ] Volunteer for a preliminary Mission.
+  - [ ] Final Demonstration. 
 
-The player indicates that they'd like to present themselves to the _Order_ for Training. The Warden says that travelling to the outpost will take one day, and they will remain there for a week. The player agrees, as the party is not due to go out again for a two weeks of in-game time. They mark off the first **Milestone**. After their training is complete, the player marks off the second **Milestone** and the Warden suggests the character return to the party for the next session.
+The Warden says that travelling to the outpost and returning will take a week of game time, and will require three **Downtime Actions** to complete. The player agrees, as the party is not due to go out again for a two weeks of in-game time. The **Warden** describes the character's experience training with the _Order_ and the journey home. At the end, the player marks three **Milestones**. 
 
-A few weeks later, the player asks if their character can volunteer for a _Order_ mission. The **Warden** informs the player that there is an upcoming escort through the swamps of **Falal-hall**, but as this **Milestone** carries some risk the scenario will need to play out in a regular session. The player (along with the rest of the group) agrees. In the next play session, the entire party joins the mission, which results in a nearly fatal encounter with a bog demon. Nevertheless, the player marks off their next **Milestone**. 
+A few weeks later, the player asks if their character can volunteer for a _Order_ mission. The **Warden** informs the player that there is an upcoming escort through the swamps of **Falal-hall**, but as this **Milestone** carries some risk the scenario will need to play out in a regular session. The player (along with the rest of the group) agrees. In the next play session, the entire party joins the mission, which results in a nearly fatal encounter with a bog demon. Although these events occured outside the scope of Downtime, the player still marks off their next **Milestone**. 
 
-The Warden then describes the formal presentation that all cadets must endure: a two-day affair of pomp and finery. The player suggests that perhaps the invitation from their **Seneschal** friend might help smooth things along? The Warden agrees that this is at least possible, though the consequences might be embarrasing. The player rolls a **WIL** save: a **success**! The Warden announces that once word of their friendship with a higher-ranking official was confirmed, they were hastily thrown a uniform, a new shield (+1) Armor, and a fine short sword (d6) along with full **Protector** status. Along with support at any _Order_ outpost, the character receives a stipend of 5gp per day while working on _Order_ business. They are ordered to check in with their local **Precept** once a week whenever possible. They cannot refuse a direct order, but all _Order_ missions are otherwise optional. They are expected to answer the call to battle when it comes.
+The Warden then describes the formal presentation that all cadets must endure: a two-day affair of training exercises, celebrations, and finery. The player suggests that perhaps the invitation from their **Seneschal** friend might help move things along, without all the pomp and circumstance? The Warden agrees that this is at least possible, though the consequences might be embarrasing. The player rolls a **WIL** save: a **success**! The Warden announces that once word of their friendship with a higher-ranking official was confirmed, they were hastily thrown a uniform, a new shield (+1 Armor), and a fine short sword (d6) along with full **Protector** status. Along with support at any _Order_ outpost, the character receives a stipend of 5gp per day while working on _Order_ business. They are ordered to check in with their local **Precept** once a week whenever possible. They cannot refuse a direct order, but all _Order_ missions are otherwise optional. They are also expected to answer the call to battle when it comes.
 
 ### Revelry & Mirth
 
