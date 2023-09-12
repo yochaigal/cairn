@@ -15,7 +15,7 @@ Between game sessions, players may utilize the following procedures to research 
 
 ## Milestones
 
-Some **Downtime Actions** require multiple steps (and actions) to complete. In these cases, the Warden then provides 1-3 **Milestones** that the player can tick off as they progress towards their goal. Each **Milestone** requires a single **Downtime Action** to accomplish and potentially their own unique **Cost**. 
+Some **Downtime Actions** require multiple steps (and actions) to complete. In these cases, the Warden then provides 1-3 **Milestones** that the player can tick off as they progress towards their goal. Each **Milestone** requires a single **Downtime Action** to accomplish, and potentially their own unique **Cost** as well. 
 
 - The Warden _may_ provide the player with multiple means of accomplishing their goals. 
 - Events that occur during a regular play session may change the stakes of these activities by adding or removing **Costs**, **Milestones**, or even entire goals.
@@ -57,7 +57,7 @@ Once a question is posed and an appropriate **Source** has been identified, the 
 
 A player learns of a holy Relic of great power, rumored to protect the bearer from harm, or even death itself. They proclaim that they'd like to _learn the Relic's location_. They also indicate a potential **Source**: the **Library of Faded Colors** in the timeless city of **Dropsilli**. The Warden then provides the following outline:
 
-"The trip is only possible by riverboat, and takes two days (20gp round trip). Also, the librarians there are notoriously snooty and will not accept outsiders without a proper introduction. You will likely need to spend up to FOUR non-consecutive **Downtime Actions** to complete your research, and will thus be unable to participate in each play session." The player accepts this plan, but adds that they'd like to bring along a letter of introduction, signed by a powerful Count they'd met in a previous adventure. The Warden agrees, but adds that the Count does not simply accept visitors unannounced: the PC will need to spend one **Action** simply setting up a meeting. The Warden then creates five **Milestones**:
+"The trip is only possible by riverboat, and takes two days (20gp round trip). Also, the librarians there are notoriously snooty and will not accept outsiders without a proper introduction. You will likely need to spend up to FOUR non-consecutive **Downtime Actions** to complete your research, and will thus be unable to participate in every play session." The player accepts this plan, but adds that they'd like to bring along a letter of introduction, signed by a powerful Count they'd met in a previous adventure. The Warden agrees, but adds that the Count does not simply accept visitors unannounced: the PC will need to spend one **Action** simply setting up a meeting. The Warden then creates five **Milestones**:
 
    - [ ] Formally request a meeting with the Count.
    - [ ] Secure a letter of recommendation.
@@ -84,7 +84,7 @@ Examples:
 - Improved fishing: d6 Rations are gathered when taking the Supply **Action** near healthy sources of water.
 - Scholarly wisdom: The texts and signage of ancient temples and cities are finally intelligible, and understanding their Relics far easier.
 
-#### Example: Spear Mastery
+#### Example: Skill with a Spear
 
 A player informs the Warden that they'd like to improve their character's skill at the spear. The Warden indicates that they may hire a local **Master** (a veteran soldier) to help them train (30gp per session). The improvements will be gradual, requiring a week of practice. However, if they complete their training their attacks with spears would be **d10** instead of **d8**. In total, it will take 7 **Downtime Actions** to complete their training. The Warden then creates the following **Milestones** for each session:
 
@@ -99,6 +99,27 @@ A player informs the Warden that they'd like to improve their character's skill 
 The player agrees, and pays the required gold for the first session. Over the next 2 months of play, the Warden indicates how much time has passed in the game world, and the player spends a **Downtime Action** (and/or gold) to practice alone, or train with the **Master**. Occasionally the character was unable to pay the cost: either because they lacked **Time** to practice, or because the party left their city (and the trainer) for longer periods. 
 
 After marking off their fourth **Milestone**, the player felt their character was cocky enough to skip their practice (including the requisite **Downtime Action**), and that they'd like to show off their skills to the trainer. The Warden asked the player to make a WIL save, cautioning that they may lose time and progress if they fail. The player rolled, and **failed**. The Warden explained that skipping practice left the trainer unimpressed. The character makes _no_ progress, and loses money spent on the trainer. The player gruntingly agrees to not try that again. Weeks later, the player marks off the final **Milestone**, and the Warden awards them with an improved skill at the spear: d10 damage in combat. 
+
+#### Studying with a Master
+
+A player informs the Warden that they'd like to improve their skill at _navigating a wilderness location_, in the hopes that it will decrease their chances of getting lost while travelling. The Warden says, "At the **Southern Border**, between the rivers **Alcquat** and **Durang** there lives a hermit, rumored to have extensive knowledge in outdoor survival, wilderness mapping, and more! However, they are also known for having a difficult contenance, rejecting new pupils for seemingly arbitrary reasons. Success would mean unparalleled knowledge in wilderness survival and surveying; however it will be a long, drawn-out process: at least a month of training. Finally, the journey by foot will take at least four days." 
+
+The Warden goes on to explain that it is unlikely the player's character will be able to join the party in the next session, which begins in just a few days within the game-world. The player agrees, as they are likely going to miss the next two play sessions anyway. The Warden puts together the following **Milestones**:
+
+- [ ] Journey to the **Southern Border**.
+- [ ] Meet the **Master**. [Cost: **Reputation**]
+- [ ] Training Week 1.
+- [ ] Training Week 2.
+- [ ] Training Week 3.
+- [ ] Training Week 4. 
+- [ ] Return home.
+
+The Warden narrates the character's journey South. Upon arrival, the Warden rolls on the [Reaction](/wip/2e/core-rules#reactions) table to determine the master's countenance: **Kind**! Fortunately for the character, the master was in a good mood. The player marks off both the journey and the meeting **Milestones**. Over the course of the following real-life weeks and month, the player marks off each week of training, as time passes in-game. With each passing week, the character learns to forage, navigate, and track in the wilderness. Once a full month of in-game time has passed, the player marks off their final **Milestone** of training, then asks if they can make a WIL save to return home faster. The Warden explains that this is no longer necessary: their newfound skills in tracking, exploring, mapping and survival cut the travel time in half! The Warden explains the added benefits from this experience:
+
+- When taking the **Travel** action, the odds of getting less are one step down (e.g. 4-in-6 becomes 2-in-6). 
+- When travelling _alone_, they treat **Tough** terrain as **Normal** if they've travelled there before.
+- When exploring, the character accurately depicts natural geographic formations on a map after only one visit. 
+- When **Foraging**, the character collects d6 rations.
 
 ### Strengthen a Tie
 
