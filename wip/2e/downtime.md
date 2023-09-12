@@ -11,16 +11,15 @@ search_exclude: true
 
 Between game sessions, players may utilize the following procedures to research a question, follow-up on a lead, improve a skill, build a relationship, or even boast of their exploits. Only one action is possible at a time, and some actions will require multiple steps to complete. These actions may not be taken if the PC is not in a safe space, or while healing/recovering. **Downtime Actions** cannot be taken if they would significantly _harm a character_. 
 
-| Dangerous activities should only take place during a play session!
+> Note: Dangerous activities should only take place during a play session!
 
 ## Milestones
 
-Some **Downtime Actions** require multiple steps (and actions) to complete. In these cases, the Warden then provides 1-3 **Milestones** that the player can tick off as they progress towards their goal. Each **Milestone** requires a single **Downtime Action** to accomplish and potentially their own unique **Cost**. The Warden _may_ provide the player with multiple means of accomplishing their goals. Events that occur during a regular play session may change the stakes of these activities by adding or removing **costs**, **Milestones**, or even entire goals. **Milestones** are "zoomed-out" activities, both abstract and non-interactive.
+Some **Downtime Actions** require multiple steps (and actions) to complete. In these cases, the Warden then provides 1-3 **Milestones** that the player can tick off as they progress towards their goal. Each **Milestone** requires a single **Downtime Action** to accomplish and potentially their own unique **Cost**. The Warden _may_ provide the player with multiple means of accomplishing their goals. Events that occur during a regular play session may change the stakes of these activities by adding or removing **Costs**, **Milestones**, or even entire goals. **Milestones** are "zoomed-out" activities, both abstract and non-interactive.
 
 ### Costs
 
-Some **Milestones** come at a cost. A few examples: 
-- **Time**: Counted in **Actions**. Typical for travel, waiting, effort, etc.
+At a minimum, every **Milestone** costs a single **Downtime Action**. A few examples of **Cost**: 
 - **Gold**: Direct payment of gold from a character's inventory.
 - **Resources**: Non-monetary costs, such as material goods, specific common items, and so on. 
 - **Reputation**: Betting on a character's reknown, personality, presence, social connections, etc.
@@ -30,23 +29,25 @@ If a character cannot pay the **cost**, they may have to find some other way to 
 
 ## Downtime Actions
 
-### Research a Question
+### Research
 
-A character answers a single question about a bit of lost or forgotten lore, the location of a lost item, the whereabouts of an important NPC, and so on. To take this action the player must have a clearly formulated question they'd like to answer, and a **Source** of knowledge in the game world that their character can interact with. Once a question is posed and an appropriate **Source** has been identified, the **Warden** should provide any **Milestones** and associated **Costs**. 
+A character answers a single question about a bit of lost or forgotten lore, the location of a lost item, the whereabouts of an important NPC, and so on. To take this action the player must have a clearly formulated question they'd like to answer, and a **Source** of knowledge in the game world that their character can interact with. 
 
 #### Questions
 
-A player must be able to formulate a specific question they'd like to answer. As always, the question must come from experiences that occur during play. A character cannot pursue knowledge they know nothing about! Some examples questions:
+As always, the question must come from an experience that occured during play. Some examples questions:
 - "Where is the **Lost Temple of East Nipoor**?" 
 - "Who in **Fortune City** might know how to crack an ancient vault?"
 - "Where can I find the cure to **curly sickness**?" 
 
 #### Sources
 
-A **Source** is a person, place, faction, or entity that holds either a part or whole answer that the character seeks. The PC _must_ have some knowledge of or connection to the **Source** in order to engage with it.  Some example **Sources**:  
+A **Source** is a person, place, faction, or entity that holds either a part or whole answer that the character seeks. The PC _must_ have some knowledge of or connection to the **Source** in order to engage with it. Some example **Sources**:  
 - **Kewr the Mouth**, a frequent contact for the **Conclave of Merchants**. Despite their excellent relationship with this faction, asking for help in an illicit activity might come at a high cost.
 - A **Woodwise** who makes his home deep in the **Forest of Knives**. The party encountered him in an earlier expedition, and the encounter did not end well. Still, he is said to know the nature of every herb and their healing properties.
 - The **Temple of Puppets**, a nomadic circus troupe who have travelled the known and unknown lands. The party assisted one of their members during the **Rain of Fire**, when even the creatures of the Wood were were preparing to flee their homes. If anyone has heard of forgotten places, it's them.
+
+Once a question is posed and an appropriate **Source** has been identified, the **Warden** should provide any **Milestones** and associated **Costs**. 
 
 #### Example: Finding a lost Relic
 
@@ -54,11 +55,11 @@ A player learns of a holy Relic of great power, rumored to protect the bearer fr
 
 "The trip is only possible by riverboat, and takes two days (20gp round trip). Also, the librarians there are notoriously snooty and will not accept outsiders without a proper introduction. You will likely need to spend up to FOUR non-consecutive **Downtime Actions** to complete your research, and will thus be unable to participate in each play session." The player accepts this plan, but adds that they'd like to bring along a letter of introduction, signed by a powerful Count they'd met in a previous adventure. The Warden agrees, but adds that the Count does not simply accept visitors unannounced: the PC will need to spend one **Action** simply setting up a meeting. The Warden then creates five **Milestones**:
 
-   - [ ] Formally request a meeting with the Count. [Cost: **Time**].
-   - [ ] Secure a letter of recommendation. [Cost: **Time**].
-   - [ ] Travel to **Dropsilli** and be granted access to the library. [Cost: **Time**, **Gold** (10gp), **Reputation**].
-   - [ ] Research the location of the Relic. [Cost: **Time**].
-   - [ ] Return home. [Cost: **Time**, **Gold** (10gp)].
+   - [ ] Formally request a meeting with the Count.
+   - [ ] Secure a letter of recommendation.
+   - [ ] Travel to **Dropsilli** and be granted access to the library. [**Gold** (10gp), **Reputation**].
+   - [ ] Research the location of the Relic.
+   - [ ] Return home. [**Gold** (10gp)].
 
 The player agrees, and suggests that for their first **Action**, their character decides not to waste any time with a formalities, instead choosing to force their way into the Count's office to demand the letter. The Warden agrees, explaining that if things go badly, their reputation with the Count might suffer and they could lose out on the letter entirely! The player makes a **WIL** save for their character: a **success**! The Warden describes how the character, "used wit and bravado to remind the Count of their greet deeds together, retrieving not only his letter but a pre-paid ticket for the riverboat!" The player marks off the first two **Milestones**. 
 
@@ -83,12 +84,12 @@ Examples:
 
 A player informs the Warden that they'd like to improve their character's skill at the spear. The Warden indicates that they may hire a local **Master** (a veteran soldier) to help them train (30gp per session). The improvements will be gradual, requiring a week of practice. However, if they complete their training their attacks with spears would be **d10** instead of **d8**. In total, it will take 6 **Downtime Actions** to complete their training. The Warden then creates the following **Milestones** for each session:
 
-  - [ ] Session One. [Cost: **Time**, **Gold**].
-  - [ ] Week of Practice. [Cost: **Time**].
-  - [ ] Session Two. [Cost: **Time**, **Gold**].
-  - [ ] Week of Practice. [Cost: **Time**].
-  - [ ] Session Three. [Cost: **Time**, **Gold**].
-  - [ ] Week of Practice. [Cost: **Time**].
+  - [ ] Session One. [**Gold**].
+  - [ ] Week of Practice.
+  - [ ] Session Two. [**Gold**].
+  - [ ] Week of Practice.
+  - [ ] Session Three. [**Gold**].
+  - [ ] Week of Practice.
 
 The player agrees, and pays the required gold for the first session. Over the next 2 months of play, the Warden indicates how much time has passed in the game world, and the player spends a **Downtime Action** (and/or gold) to practice alone, or train with the **Master**. Occasionally the character was unable to pay the cost: either because they lacked **Time** to practice, or because the party left their city (and the trainer) for longer periods. 
 
