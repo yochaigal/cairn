@@ -35,7 +35,7 @@ Some **costs** can be reduced or disregarded through character skills, connectio
 
 ### Research
 
-A character answers a single question about a bit of lost or forgotten lore, the location of a lost item, the whereabouts of an important NPC, and so on. To take this action the player must have a clearly formulated question they'd like to answer, and a **Source** of knowledge in the game world that their character can interact with. 
+A character answers a single question about a bit of lost or forgotten lore, the location of a lost item, the whereabouts of an important NPC, and so on. To take this action the player must have a clearly formulated question they'd like to answer, and a **Source** of knowledge in the game world that their character can interact with. If the PC does not have a **Source**, then they can spend a **Downtime Action** trying to find one. There is no guarantee that they will be successful. 
 
 #### Questions
 
@@ -46,7 +46,7 @@ As always, the question must come from an experience that occured during play. S
 
 #### Sources
 
-A **Source** is a person, place, faction, or entity that holds either a part or whole answer that the character seeks. The PC _must_ have some knowledge of or connection to the **Source** in order to engage with it. Some example **Sources**:  
+A **Source** is a person, place, faction, or entity that holds either a part or whole answer that the character seeks. Some example **Sources**:  
 - **Kewr the Mouth**, a frequent contact for the **Conclave of Merchants**. Despite their excellent relationship with this faction, asking for help in an illicit activity might come at a high cost.
 - A **Woodwise** who makes his home deep in the **Forest of Knives**. The party encountered him in an earlier expedition, and the encounter did not end well. Still, he is said to know the nature of every herb and their healing properties.
 - The **Temple of Puppets**, a nomadic circus troupe who have travelled the known and unknown lands. The party assisted one of their members during the **Rain of Fire**, when even the creatures of the Wood were were preparing to flee their homes. If anyone has heard of forgotten places, it's them.
