@@ -15,11 +15,11 @@ Between game sessions, players may utilize the following procedures to research 
 
 ## Milestones
 
-Some **Downtime Actions** require multiple steps (and actions) to complete. In these cases, the Warden then provides 1-3 **Milestones** that the player can tick off as they progress towards their goal. Each **Milestone** requires a single **Downtime Action** to accomplish, and potentially their own unique **Cost** as well. 
+Some **Downtime Actions** require multiple steps to complete. In these cases, the Warden then provides 1-3 **Milestones** that the player can tick off as they progress towards their goal. Most **Milestone** requires a single **Downtime Action** to accomplish, and potentially their own unique **Cost** as well.
 
-- The Warden _may_ provide the player with multiple means of accomplishing their goals. 
-- Events that occur during a regular play session may change the stakes of these activities by adding or removing **Costs**, **Milestones**, or even entire goals.
-- **Milestones** are "zoomed-out" activities, both abstract and non-interactive.
+- **Milestones** are "zoomed-out" activities that are both abstract and non-interactive.
+- The Warden _may_ provide the player with multiple "paths" to accomplishing their goals, each with their own unique **Milestones**. 
+- Over time, the **Warden** may add new **Milestones** or remove others entirely, depending on the events of the fiction.  
 
 ### Costs
 
@@ -46,7 +46,7 @@ As always, the question must come from an experience that occured during play. S
 
 #### Sources
 
-A **Source** is a person, place, faction, or entity that holds either a part or whole answer that the character seeks. Some example **Sources**:  
+A **Source** is a person, place, faction, or entity that holds either a part or whole answer that the character seeks. They can be NPCs, Factions, spirits, or even other PCs.   Some example **Sources**:  
 - **Kewr the Mouth**, a frequent contact for the **Conclave of Merchants**. Despite their excellent relationship with this faction, asking for help in an illicit activity might come at a high cost.
 - A **Woodwise** who makes his home deep in the **Forest of Knives**. The party encountered him in an earlier expedition, and the encounter did not end well. Still, he is said to know the nature of every herb and their healing properties.
 - The **Temple of Puppets**, a nomadic circus troupe who have travelled the known and unknown lands. The party assisted one of their members during the **Rain of Fire**, when even the creatures of the Wood were were preparing to flee their homes. If anyone has heard of forgotten places, it's them.
