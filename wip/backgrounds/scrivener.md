@@ -13,7 +13,7 @@ grand_parent: WIP
 
 ## Names
 
-Per, Stilo, Akshara, Pisa, Gibnus, Kalamos, Hugo, Shui, Kalam, Julius
+Per, Stilo, Akshara, Pisa, Ji-Yun, Kalamos, Hugo, Shui, Kalam, Julius
 
 ## Starting Gear
 

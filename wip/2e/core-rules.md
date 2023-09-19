@@ -73,7 +73,7 @@ On their turn, a character may move up to 40ft and take up to one action. This m
 
 ### Attacking & Damage
 
-The attacker rolls their weapon die and subtracts the target's armor, then deals the remaining total to their opponent's HP. Unarmed attacks always do 1d4 damage.
+The attacker rolls their weapon die and subtracts the target's armor, then deals the remaining total to their opponent's HP. Attacks in combat automatically hit.
 
 ### Multiple Attackers  
 
@@ -81,7 +81,7 @@ If multiple attackers target the same foe, roll all damage dice and keep the sin
 
 ### Attack Modifiers
 
-If fighting from a position of weakness (such as through cover or with bound hands), the attack is _Impaired_ and the attacker must roll 1d4 damage regardless of the attacks damage die. Unarmed attacks always do d4 damage.
+If fighting from a position of weakness (such as through cover or with bound hands), the attack is _Impaired_ and the attacker must roll 1d4 damage regardless of the attacks damage die. Unarmed attacks always do d4 damage. Unarmed attacks always do 1d4 damage.
 
 If fighting from a position of advantage (such as against a helpless foe or through a daring maneuver), the attack is _Enhanced_, allowing the attacker to roll 1d12 damage instead of their normal die.
 
@@ -97,22 +97,19 @@ Attacks with the _Blast_ quality affect all targets in the noted area, rolling s
 
 - Damage that reduces a target's HP below zero is subtracted _from their STR_ by the amount of damage remaining. The target must then immediately make a STR save to avoid taking **Critical Damage**, using their _new STR score_. On a success, the target is still in the fight (albeit with a lower STR score) and must continue to make critical damage saves when incurring damage.
 
-- Any PC that suffers critical damage cannot do anything but crawl weakly, grasping for life. If given aid (such as bandages), they will stabilize. If left untreated, they die within the hour. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save. 
+- Any PC that suffers Critical Damage cannot do anything but crawl weakly, grasping for life. If given aid (such as bandages), they will stabilize. If left untreated, they die within the hour. NPCs and monsters that fail a Critical Damage save are considered dead, per the **Warden's** discretion. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save. 
 
 ### Attribute Loss
 
-- If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their WIL is reduced to 0, they are delirious.
-- Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.  
+If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their WIL is reduced to 0, they are delirious. Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.  
 
 ### Unconsciousness & Death
 When a character dies, the player is free to create a new character or take control of a hireling. They immediately join the party in order to reduce downtime.
 
 ### Detachments
 
-Large groups of similar combatants fighting together are treated as a single _Detachment_. When a _detachment_ takes **Critical Damage**, it is routed or significantly weakened. When it reaches 0 STR, it is destroyed.
-
-Attacks against detachments by individuals are _impaired_ (excluding _blast_ damage).  
-Attacks against individuals by detachments are _enhanced_ and deal _blast_ damage.
+- Large groups of similar combatants fighting together are treated as a single _Detachment_. When a _detachment_ takes **Critical Damage**, it is routed or significantly weakened. When it reaches 0 STR, it is destroyed.
+- Attacks against detachments by individuals are _impaired_ (excluding _blast_ damage). Attacks against individuals by detachments are _enhanced_ and deal _blast_ damage.
 
 ### Retreat
 
@@ -120,7 +117,7 @@ Running away from a dire situation always requires a successful DEX save, as wel
 
 ### Scars
 
-When damage to a PC reduces their HP to exactly 0, they are changed irrevocably. Look up the result on the table below, based on the _amount of HP lost in the attack_. For example, if a PC went from 3 HP to 0 HP, they would look at entry #3 (Walloped). 
+If damage to a PC would reduce their HP to exactly 0, look up the result on the table below based on the _amount of HP lost in the attack_. For example, if a PC went from 3 HP to 0 HP, they would look at entry #3 (Walloped). 
 
 ## Scars Table
 

@@ -48,9 +48,9 @@ search_exclude: true
 
 ## Hit Protection  
 
-- Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. 
-- HP does not indicate a character’s health or fortitude, nor do they lose it for very long (see [Healing](/wip/2e/core-rules#healing)). 
-- If an attack takes a PC's HP exactly to 0, the player must roll on the [**Scars**](https://cairnrpg.com/wip/2e/core-rules#scars) table.
+- Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. It does not indicate a character’s health or fortitude, nor do they lose it for very long (see [Healing](/wip/2e/core-rules#healing)). 
+- If a PC would take damage outside of combat, they would instead take damage to an **Attribute** instead (typically **STR**).
+- If an attack would take a PC's HP exactly to 0, the player must roll on the [**Scars**](https://cairnrpg.com/wip/2e/core-rules#scars) table.
 
 ## Inventory
 
