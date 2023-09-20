@@ -3,8 +3,6 @@ layout: default
 parent: Conversions
 grand_parent: Adventures
 title: Neverland
-nav_exclude: true
-search_exclude: true
 ---
 
 # Neverland
