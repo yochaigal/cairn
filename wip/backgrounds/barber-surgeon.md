@@ -18,8 +18,8 @@ Wilmot, Patch, Lancet, Sawbones, Theo, Cutwell, Humor, Landsford, Goodeye, Johan
 ## Starting Gear
  
 - Bonesaw (d6)
-- Leech (restores 1d4 STR)
-- Sewing kit
+- Bandages (3 uses)
+- Leech (restores 1 STR)
 - Stained medical finery (_petty_)
 
 ## How have you "improved" yourself? Roll 1d6:

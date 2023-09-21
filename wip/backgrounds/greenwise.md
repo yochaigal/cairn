@@ -21,7 +21,7 @@ Briar, Moss, Fern, Lichen, Root, Willow, Sage, Yarrow, Rowan, Ash
 - Twine bauble (_petty_, _Ward_ once per day)
 - Iron pot
 - Root knife (d6)
-- Healing salve (restore d4 STR, 2 uses)
+- Healing salve (restore 4 STR)
 
 ## How have The Woods failed you ? Roll 1d6:
 

@@ -78,13 +78,13 @@ search_exclude: true
 
 ### Skin
 
-|       |            |        |           |
-| ----- | ---------- | ------ | --------- |
-| **1** | Birthmark  | **6**  | Soft      |
-| **2** | Dark       | **7**  | Tanned    |
-| **3** | Elongated  | **8**  | Tatooed   |
-| **4** | Pockmarked | **9**  | Tight     |
-| **5** | Rosy       | **10** | Weathered |
+|       |             |        |           |
+| ----- | ----------- | ------ | --------- |
+| **1** | Birthmarked | **6**  | Soft      |
+| **2** | Webbed      | **7**  | Tanned    |
+| **3** | Scarred     | **8**  | Tatooed   |
+| **4** | Marked      | **9**  | Tight     |
+| **5** | Rosy        | **10** | Weathered |
 
 ### Hair
 
@@ -153,7 +153,7 @@ search_exclude: true
 | **D20** | **Bond**                                                                                                                                                                                                                                                                                  |
 | **1**   | You inherited a **Single Gem** (500gp, cold and brittle) from a long-dead relative. It arrived with a warning: squander your newfound riches and a debt long thought forgotten would be called.                                                                                           |
 | **2**   | A distant cousin left you a small inheritance. Take **20Gp**, and an **Ornate Compass** that always points towards something deep in **The Woods**.                                                                                                                                       |
-| **3**   | You carry a **Portrait** in a locket (_petty_) of a past love who disappeared into **The Woods** long ago. Somehow, you know that they are still alive.                                                                                                                                              |
+| **3**   | You carry a **Portrait** in a locket (_petty_) of a past love who disappeared into **The Woods** long ago. Somehow, you know that they are still alive.                                                                                                                                   |
 | **4**   | You found a **Tiny Crystal Prism** (_petty_) buried in the dirt. When held up to the light, it shows visions of an unknown location deep within **The Woods**. Sometimes, you feel a presence looking back at you.                                                                        |
 | **5**   | You once freed a Naiad from a choked stream. In return, it gave you some **Silver Moss**. Swallow it near water and the creature will come, once, to repay its debt.                                                                                                                      |
 | **6**   | You inherited an old **Journal**, bound in bark. Each evening, its pages are filled with the events of the day, crassly from the journal's perspective. The writing is crude, but accurate.                                                                                               |
@@ -165,9 +165,9 @@ search_exclude: true
 | **12**  | During your travels, you met a dying hunter who asked you to deliver a message to their loved ones. Take a **Letter** (_petty_), sealed with tree sap. It is addressed only to the **Lord Of Winter**.                                                                                    |
 | **13**  | You found a wounded beast in the forest, but chose to ignore it. You see it everywhere now, but only when you're alone. It looks sad, but not angry.                                                                                                                                      |
 | **14**  | You promised a childhood friend that you'd bring them back a rare gift, something unique in all the world. Take a **Bracelet** (_petty_) woven from twine and wildflowers.                                                                                                                |
-| **15**  | You crossed a creature of **The Woods**, and it cursed you with a **Stone Heart** (1 Armor, _bulky_). With each passing month, the stone grows heavier by one slot. Until your debt is lifted, you cannot truly die.                                                                                 |
-| **16**  | You carved a **Whistle** (_petty_) from an **Oak Lord's** branch. Your act did not go unnoticed. You cannot seem to rid yourself of the whistle either.                                                                                                                                             |
-| **17**  | The **Dawn Brigade** did your family a service, giving you a dried **Blood-Red Flower** (_petty_) as proof. When the flower turns white, it means the favor is owed.                                                                                                                                |
+| **15**  | You crossed a creature of **The Woods**, and it cursed you with a **Stone Heart** (1 Armor, _bulky_). With each passing month, the stone grows heavier by one slot. Until your debt is lifted, you cannot truly die.                                                                      |
+| **16**  | You carved a **Whistle** (_petty_) from an **Oak Lord's** branch. Your act did not go unnoticed. You cannot seem to rid yourself of the whistle either.                                                                                                                                   |
+| **17**  | The **Dawn Brigade** did your family a service, giving you a dried **Blood-Red Flower** (_petty_) as proof. When the flower turns white, it means the favor is owed.                                                                                                                      |
 | **18**  | An entertainer once visited your home, filling it with story and song. He left one day without a word, leaving behind only **A Miniature Lute**. Something rattles inside.                                                                                                                |
 | **19**  | A white crow appeared to you in a dream, holding a twig in its mouth. You awoke the next morning with **The Twig** (_petty_) in your hand. You believe it brings you luck. It smells faintly of sulfur.                                                                                   |
 | **20**  | One of your ancestors wronged a **Moss Witch**, who cursed their bloodline. Your visage causes mirrors to shatter. You've noticed that the shards can sometimes reveal illusions.                                                                                                         |
@@ -195,6 +195,6 @@ search_exclude: true
 | **16**  | The constellations have slowly started shifting in the night sky, forming unfamiliar patterns that have stargazers and sages perplexed. Even the animals seem disturbed.                                                                           |
 | **17**  | An ancient tree at the heart of a sleepy village has suddenly withered and died, despite showing no signs of disease. After its trunk was cut, a bloody hand was found in its core.                                                                |
 | **18**  | Statues have been weeping blood for months on end, and the wombs of the village have lain barren since they began to fall.  A single child has been the only exception, taken by elders overcome with fear and dread.                              |
-| **19**  | The local fauna is behaving oddly, displaying heightened aggression, or fleeing the area entirely. Hunters talk of a shadowy figure that roams **The Woods**, calling to the animals.                                                                 |
+| **19**  | The local fauna is behaving oddly, displaying heightened aggression, or fleeing the area entirely. Hunters talk of a shadowy figure that roams **The Woods**, calling to the animals.                                                              |
 | **20**  | Border towns have become riotous in recent weeks, after multiple claims of a red-robed figure appearing in their children's dreams, uttering the same warning: A fire is coming, and it will consume them all.                                     |
 
