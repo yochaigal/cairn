@@ -40,13 +40,13 @@ search_exclude: true
 ## Wilderness Exploration Cycle
 
 1. The **Warden** describes the current **point** or **region** on the map, and how the current [**Difficulty**](#difficulty) affects the party's **travel speed**. The party plots or adjusts a given course towards their destination. 
-2. Each character chooses a single **Wilderness Action**. The **Warden** narrates the results, and then rolls on the [**Wilderness Events**](#wilderness-events) table. The party responds to the results.
+2. Each party member chooses a single **Wilderness Action**. The **Warden** narrates the results for each, and then rolls on the [**Wilderness Events**](#wilderness-events) table. The party responds to the results.
 3. The **players** and the **Warden** record any loss of resources and new conditions (i.e. torch use, _deprivation_, etc), and the cycle repeats. 
 
 ## Night
 
 - The party can choose to travel during the night and rest during the day, but night travel is far slower and more treacherous!
-- Travelling at night _always_ increases the **Difficulty** by one step (i.e. **Easy** terrain becomes **Tough**), and the **Warden** rolls twice on the [**Wilderness Events**](#wilderness-events) table.
+- Traveling at night _always_ increases the **Difficulty** by one step (i.e. **Easy** terrain becomes **Tough**), and the **Warden** rolls twice on the [**Wilderness Events**](#wilderness-events) table.
 - Some terrain and weather may be easier to traverse at night (desert, for example). The **Warden** should balance these challenges along with any other.
 
 ### Sleep
@@ -84,8 +84,8 @@ search_exclude: true
 |                  |                                                                                                    |                                                           |
 | :--------------: | -------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
 |   **Weather**    | **Effect**                                                                                         | **Examples**                                              |
-|     **Nice**     | Favorable conditions for travel. Bedroll or shelter required.                                      | _Clear skies, sunny_                                      |
-|     **Fair**     | Favorable conditions for travel. Bedroll or shelter required.                                      | _Overcast, breezy_                                        |
+|     **Nice**     | Favorable conditions for travel.                                                                   | _Clear skies, sunny_                                      |
+|     **Fair**     | Favorable conditions for travel.                                                                   | _Overcast, breezy_                                        |
 |  **Unpleasant**  | Gain one **Fatigue** _or_ add one **watch** to the journey.                                        | _Gusting winds, rain showers, sweltering heat, chill air_ |
 |  **Inclement**   | Gain one **Fatigue** _or_ add one **watch** to the journey. **Difficulty** increases by one step.  | _Thunderstorms & lightning, rain, muddy ground_           |
 |   **Extreme**    | Gain one **Fatigue** _and_ add one **watch** to the journey. **Difficulty** increases by one step. | _Blizzards, freezing winds, flooding, mud slides_         |
@@ -95,15 +95,13 @@ search_exclude: true
 
 ### Travel
 
-- Travel begins. Obvious locations, features, and terrain of nearby areas are revealed according to their distance. 
+- Travel begins. Obvious locations, features, and terrain of nearby areas are revealed according to their distance. This action is typically taken by the entire party as one.
 - The party rolls **1d6** to see if they get lost along the way. This risk can increase or decrease, depending on the travel **Difficulty**, items, skills, and relevant backgrounds of the party.
-- If lost, the party may need to spend a **Wilderness Action** to recover their way. Otherwise, the party reaches the next **point** along their route.
-
-> Remember to compare the results of getting lost to the current travel **Difficulty**. For example, Tough terrain in Fair weather would require a roll of 2 or under in order for the party to get lost.  
+- If lost, the party may need to spend a **Wilderness Action** to recover their way. Otherwise, the party reaches the next **point** along their route. Remember to compare the results of getting lost to the current travel **Difficulty**. For example, **Tough** terrain in Fair weather would require a roll of 2 or under in order for the party to get lost.  
 
 ### Explore
 
-- The party covers a large area, searching for hidden features, scouting ahead, or treading carefully.
+- One or more party members search a large area, searching for hidden features, scouting ahead, or treading carefully.
 - A Location (shelter, village, cave, etc.) or Feature (geyser, underground river, beached ship, etc.) is discovered.
 - The **Travel** action is still required to _leave_ the current area, even if it has been completely explored.
 
@@ -136,12 +134,12 @@ If the "**Extreme**" weather result is rolled twice in a row, the weather turns 
 
 ### Wilderness Events
 
-|       |                 |                                                                                                                                                                                                                           |
-| ----- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Encounter**   | Roll on an encounter table for that terrain type or location. Don’t forget to roll for NPC [reactions](/cairn-srd/#reactions) if applicable.                                                                              |
-| **2** | **Sign**        | The party discovers a clue, spoor, or indication of a nearby encounter, locality, hidden feature, or information about a nearby area.                                                                                     |
-| **3** | **Environment** | A shift in weather or terrain.                                                                                                                                                                                            |
-| **4** | **Loss**        | The party is faced with a choice that costs them a resource (rations, tools, etc), time, or effort.                                                                                                                       |
+|       |                 |                                                                                                                                                                                                                            |
+| ----- | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | **Encounter**   | Roll on an encounter table for that terrain type or location. Don’t forget to roll for NPC [reactions](/cairn-srd/#reactions) if applicable.                                                                               |
+| **2** | **Sign**        | The party discovers a clue, spoor, or indication of a nearby encounter, locality, hidden feature, or information about a nearby area.                                                                                      |
+| **3** | **Environment** | A shift in weather or terrain.                                                                                                                                                                                             |
+| **4** | **Loss**        | The party is faced with a choice that costs them a resource (rations, tools, etc), time, or effort.                                                                                                                        |
 | **5** | **Exhaustion**  | The party encounters a barrier, forcing effort, care or delays. This might mean spending extra time (and an additional **Wilderness Action**) or adding **Fatigue** to the PC's inventory to represent their difficulties. |
 | **6** | **Discovery**   | The party finds food, treasure, or other useful resources. The **Warden** can instead choose to reveal the primary feature of the area.                                                                                    |
 
