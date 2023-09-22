@@ -35,10 +35,10 @@ search_exclude: true
 | **4**   | [Bonekeeper](https://cairnrpg.com/wip/backgrounds/bonekeeper/)        | **14** | [Kettlewright](https://cairnrpg.com/wip/backgrounds/kettlewright) |
 | **5**   | [Cutpurse](https://cairnrpg.com/wip/backgrounds/cutpurse)             | **15** | [Marchguard](https://cairnrpg.com/wip/backgrounds/marchguard/)    |
 | **6**   | [Fieldwarden](https://cairnrpg.com/wip/backgrounds/fieldwarden/)      | **16** | [Mountebank](https://cairnrpg.com/wip/backgrounds/mountebank)     |
-| **7**   | [Fletchwind](https://cairnrpg.com/wip/backgrounds/foundling)          | **17** | [Outrider](https://cairnrpg.com/wip/backgrounds/outrider)         |
+| **7**   | [Fletchwind](https://cairnrpg.com/wip/backgrounds/fletchwind)         | **17** | [Outrider](https://cairnrpg.com/wip/backgrounds/outrider)         |
 | **8**   | [Foundling](https://cairnrpg.com/wip/backgrounds/foundling)           | **18** | [Prowler](https://cairnrpg.com/wip/backgrounds/prowler)           |
 | **9**   | [Fungal Forager](https://cairnrpg.com/wip/backgrounds/fungal-forager) | **19** | [Rill Runner](https://cairnrpg.com/wip/backgrounds/rill-runner)   |
-| **10**  | [Greenwise](https://cairnrpg.com/wip/backgrounds/greenwise/)          | **20** | [Scriviner](https://cairnrpg.com/wip/backgrounds/scriviner)       |
+| **10**  | [Greenwise](https://cairnrpg.com/wip/backgrounds/greenwise/)          | **20** | [Scrivener](https://cairnrpg.com/wip/backgrounds/scrivener)       |
 
 ## Attributes  
 
