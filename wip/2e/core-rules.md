@@ -103,7 +103,7 @@ Attacks with the _Blast_ quality affect all targets in the noted area, rolling s
 
 If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their WIL is reduced to 0, they are delirious. Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.  
 
-### Unconsciousness & Death
+### Character Death
 When a character dies, the player is free to create a new character or take control of a hireling. They immediately join the party in order to reduce downtime.
 
 ### Detachments
