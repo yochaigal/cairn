@@ -13,7 +13,7 @@ grand_parent: WIP
 
 ## Names
 
-Montague, Ambrose, Lucius, Sterling, Beauregard, Cornelius, Percival, Crispin, Algernon, Sylvester
+Ambrose, Lucius, Beauregard, Cornelius, Aria, Seren, Indigo, Delphine, Solene, Noa
 
 ## Starting Gear
 

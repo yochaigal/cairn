@@ -40,6 +40,6 @@ Gann, Light, Gale, Frost, Thorn, Reed, Flint, Brook, Brie, Aasim
 | **1** | **Impressive Pin** | A metal badge of honor from the Guard. It can open doors, but leaves a trail.                                                                                            |
 | **2** | **Oath Compass**   | Points not towards North, but instead to the nearest member of the Guard. It also lets you know when they're getting close.                                              |
 | **3** | **Pullstones**     | Two jet-black stones. When separated, the stones will always roll in the direction of the other.                                                                         |
-| **4** | **Fireflask**      | Highly alcoholic, but strangely delicious. When lit, creates a short-living wall of flames 10ft high.                                                                    |
+| **4** | **Fireflask**      | Highly alcoholic, yet strangely delicious. When thrown creates a wall of flames 10ft high that burns out after a few minutes.                                                                    |
 | **5** | **Pain Band**      | Touch an injured creature to transfer their wounds to you (exchange their lost STR with your own). **Recharge**: Wear the ring while in perfect health. It will take 1 STR, permanently. _Petty_. |
 | **6** | **Poacher's Woe**  | Strongly-scented arrows (3 uses). The scent is powerful enough to track with ease.                                                                                       |

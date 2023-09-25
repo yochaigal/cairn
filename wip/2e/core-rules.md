@@ -215,7 +215,7 @@ If damage to a PC would reduce their HP to exactly 0, look up the result on the 
 | 46   | [Leap](#leap)                           | You jump up to 10ft high, once.                              |
 | 47   | [Liquid Air](#liquid-air)               | The air around you becomes swimmable .                       |
 | 48   | [Magic Dampener](#magic-dampener)       | All nearby magical effects have their effectiveness halved.  |
-| 49   | [Manse](#manse)                         | A sturdy, furnished cottage appears for hours You can permit and forbid entry to it at will. |
+| 49   | [Manse](#manse)                         | A sturdy, furnished cottage appears for 12 hours. You can permit and forbid entry to it at will. |
 | 50   | [Marble Craze](#marble-craze)           | Your pockets are full of marbles, and will refill every 30 seconds. |
 | 51   | [Masquerade](#masquerade)               | A characters' appearance and voice becomes identical to those of a character you touch. |
 | 52   | [Miniaturize](#miniaturize)             | A creature you touch is shrunk down to the size of a mouse.  |
