@@ -39,7 +39,7 @@ Exploring a dungeon is always dangerous, and time must always be weighed against
 When the party:
 
 - Spends more than one dungeon cycle in a single room or location 
-- Moves quickly through or haphazardly 
+- Moves quickly or haphazardly through a room
 - Moves into a new area, level, or zone
 - Creates a loud disturbance 
 
@@ -50,7 +50,7 @@ When the party:
 | **1** |  **Encounter**  |    Roll on an encounter table. Possibly **hostile** (see [Reactions](/wip/2e/core-rules/#reactions)).     |
 | **2** | **Environment** |      Surroundings shift or escalate. Water rises, ceilings collapse, a ritual nears completion, etc.      |
 | **3** |    **Loss**     | Torches are blown out, an ongoing spell fizzles, etc. The party must resolve the effect before moving on. |
-| **4** | **Exhaustion**  |             The PCs must rest soon, otherwise they may take **Fatigue** or become _deprived_.             |
+| **4** | **Exhaustion**  |             The PCs must rest soon, otherwise they may add a **Fatigue** or become _deprived_.            |
 | **5** |    **Sign**     |                  A “spoor” (clue, track, scent, victim, droppings, etc.) is discovered.                   |
 | **6** |    **Quiet**    |                          The party is left alone (and safe) for the time being.                           |
 
@@ -83,8 +83,8 @@ When the party:
 ## Dungeon Elements
 
 ### Light
-- Torches and other radial sources of light illuminate 40ft of dungeon, but beyond that only provides a dim outline of objects.
-- A torch can be lit 3 times before degrading. A lantern can be relit 6 times per oil can, but requires more inventory slots.
+- Torches and other radial sources of light illuminate 40ft of dungeon, and beyond that only a dim outline of objects. Torches last until they are put out by a character or their environment.
+- A torch can be lit 3 times before permanently degrading. A lantern can be relit 6 times per oil can, but requires more inventory slots.
 - Characters without a light source may suffer from _panic_ until their situation is remedied. 
 
 ### Doors

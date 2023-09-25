@@ -43,4 +43,4 @@ Amara, Wulf, Mireille, Soren, Freki, Aster, Gerrik, Boreas, Delphine, Matheus
 | **3** | The pulse of the hunt is a powerful impulse. You have a sense for when predators, even those **not of your specialty**, are near.                                                                                        |
 | **4** | You know some lands intimately. Your chance of becoming lost in a terrain dominated by the beasts of your **specialty** is reduced by one step (e.g. 4-in-6 becomes 3-in-6).                                     |
 | **5** | Nature's symphony can be heard if you attune to its rhythm. When surrounded by creatures of your **specialty** they can alert you to approaching danger before it arrives.                    |
-| **6** | Survival is about adaptability. Once per day, you may take on a simple feature from a creature of your **speciality** (webbed fingers, night vision, etc.). Take one **Fatigue** each time. |
+| **6** | Survival is about adaptability. Once per day, you may take on a simple feature from a creature of your **speciality** (webbed fingers, night vision, etc.). Add a **Fatigue** each time. |

@@ -26,7 +26,7 @@ Seed, Thresh, Dibber, Sow, Stalk, Harrow, Cobb, Flax, Briar, Rye
 
 |       |                                                                         |
 | ----- | --------------------------------------------------------------- |
-| **1** | A voracious swarm of pests that swallowed crops and animals alike. With nothing to defend, you left. Take a **Gale Seed Extract** (3 uses).  Ingesting one lets you sprint with a speed four times your regular rate. Afterward you take two **Fatigue**.        |
+| **1** | A voracious swarm of pests that swallowed crops and animals alike. With nothing to defend, you left. Take a **Gale Seed Extract** (3 uses).  Ingesting one lets you sprint with a speed four times your regular rate. Afterward you add two **Fatigue**.        |
 | **2** | A crop spirit, angered by a poor tithing. The fires consumed nearly everything, and afterwards you were able to gather a pouch of **Fireseeds** (d8, _blast_, 4 uses).        |
 | **3** | An antlered, toothy demon that nearly ended you. Take the blood-stained **Bone Knife** that saved your life (d6). On **Critical Damage**, its next attack becomes _enhanced_ from contact with blood. |
 | **4** | _The Withering_, a type of stem rot from **The Roots**. Take a **Diseased Crop** (6 uses) that quickly decays any plant it touches.                        |

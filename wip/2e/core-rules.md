@@ -29,9 +29,9 @@ Each of the three **attributes** are used in different circumstances (see **save
 - Some healing services are free, while magical or more expedient means of recovery may come at a cost.
 
 ## Deprivation & Fatigue
-- A PC **deprived** of a crucial need (such as food or rest) is unable to recover HP or Attributes. 
+- A PC **deprived** of a crucial need (such as food or rest) is unable to recover HP or Attributes. PCs can also add a **Fatigue** by **casting spells**, or through events in the fiction. 
 - Anyone deprived for more than a day adds **Fatigue** to their inventory, one for each day. Each Fatigue occupies one slot and lasts until they are able to recuperate (such as a full night's rest in a safe spot). 
-- PCs can also gain **Fatigue** by **casting spells**, or through events in the fiction.
+- If a character is forced to add **Fatigue** to an inventory with no free slots they must drop an items they are carrying.
 
 ## Armor
 - Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. 
@@ -87,7 +87,7 @@ If fighting from a position of advantage (such as against a helpless foe or thro
 
 ### Dual Weapons
 
-If attacking with two weapons at the same time, roll both damage dice and keep the single highest result (e.g. d8+d8). 
+If attacking with two weapons at the same time, roll both damage dice and keep the single highest result (commonly denoted with a plus symbol, e.g. d8+d8).
 
 ### Blast  
 
@@ -139,9 +139,17 @@ If damage to a PC would reduce their HP to exactly 0, look up the result on the 
 
 ## Magic
 
+### Spellbooks 
+
 - **Spellbooks** contain a single spell and take up one slot. They cannot be easily transcribed or created; instead they are recovered from places like tombs, dungeons, and manors.
 - Spellbooks sometimes display unusual properties or limitations, such as producing a foul or unearthly smell when opened, possessing an innate intelligence, or being legible only when held in moonlight.
 - Spellbooks will attract the attention of those who seek the arcane power within, and it is considered dangerous to display them openly.
+
+### Casting Spells
+
+- Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. They must then add a **Fatigue** to inventory. 
+- Given time and safety, PCs can _enhance_ a spell's impact (e.g., affecting multiple targets, increasing its power, etc.) without any additional cost. 
+- If the PC is _deprived_ or in danger (such as during combat), the Warden may require a PC to make a WIL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect, and may result in added **Fatigue**, the destruction of the Spellbook, injury, and even death.
 
 ### Scrolls
 
@@ -154,12 +162,6 @@ If damage to a PC would reduce their HP to exactly 0, look up the result on the 
 ### Relics
 
 **Relics** are items imbued with a magical spell or power. They do not cause Fatigue. Relics usually have a limited use, as well as a recharge condition.
-
-### Casting Spells
-
-- Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. They must then add a **Fatigue** to inventory. 
-- Given time and safety, PCs can _enhance_ a spell's impact (e.g., affecting multiple targets, increasing its power, etc.) without any additional cost. 
-- If the PC is _deprived_ or in danger (such as during combat), the Warden may require a PC to make a WIL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect, and may result in added **Fatigue**, the destruction of the Spellbook, injury, and even death.
 
 ## 100 Spells
 

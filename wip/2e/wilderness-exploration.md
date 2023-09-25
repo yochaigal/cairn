@@ -53,7 +53,7 @@ search_exclude: true
 
 - The last **watch** of the day is typically reserved for the [**Make Camp**](#make-camp) action.
 - Characters typically need to sleep each day. Anything beyond a minor interruption can negate or cancel the benefits of sleep.
-- If the party skips the **Make Camp** action, they each add one **Fatigue** to their inventory, and are _deprived_. Additionally, a sleep-deprived party raises the **Difficulty** of a terrain by one step (i.e. **Easy** becomes **Tough**).
+- If the party skips the **Make Camp** action, they each add a **Fatigue** to their inventory, and are _deprived_. Additionally, a sleep-deprived party raises the **Difficulty** of a terrain by one step (i.e. **Easy** becomes **Tough**).
 
 ### Light
 
@@ -67,7 +67,7 @@ search_exclude: true
 ## Difficulty
 
 - An area's [**weather**](#weather-difficulty), [**terrain**](#terrain-difficulty), obstacles, [**night travel**](#night), and _deprived_ or injured party members can reduce the party's speed or make travel impossible. 
-- Mounts, guides, and maps can increase the party's travel speed or even overcome a terrain's **Difficulty**. The party may also need to spend **Fatigue**, resources, tools or other resource in order to sustain their pace.  
+- Mounts, guides, and maps can increase the party's travel speed or even overcome a terrain's **Difficulty**. The party may also need to add **Fatigue**, spend resources, tools or other resource in order to sustain their pace.  
 - Maintained roads and trails should be considered **Easy** unless the terrain or weather say otherwise.
 
 ### Terrain Difficulty
@@ -81,15 +81,15 @@ search_exclude: true
 
 ### Weather Difficulty
 
-|                  |                                                                                                    |                                                           |
-| :--------------: | -------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
-|   **Weather**    | **Effect**                                                                                         | **Examples**                                              |
-|     **Nice**     | Favorable conditions for travel.                                                                   | _Clear skies, sunny_                                      |
-|     **Fair**     | Favorable conditions for travel.                                                                   | _Overcast, breezy_                                        |
-|  **Unpleasant**  | Gain one **Fatigue** _or_ add one **watch** to the journey.                                        | _Gusting winds, rain showers, sweltering heat, chill air_ |
-|  **Inclement**   | Gain one **Fatigue** _or_ add one **watch** to the journey. **Difficulty** increases by one step.  | _Thunderstorms & lightning, rain, muddy ground_           |
-|   **Extreme**    | Gain one **Fatigue** _and_ add one **watch** to the journey. **Difficulty** increases by one step. | _Blizzards, freezing winds, flooding, mud slides_         |
-| **Catastrophic** | Most parties cannot travel under these conditions.                                                 | _Tornados, tidal waves, hurricane, volcanic eruption_     |
+|                  |                                                                                                 |                                                           |
+| :--------------: | ----------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
+|   **Weather**    | **Effect**                                                                                      | **Examples**                                              |
+|     **Nice**     | Favorable conditions for travel.                                                                | _Clear skies, sunny_                                      |
+|     **Fair**     | Favorable conditions for travel.                                                                | _Overcast, breezy_                                        |
+|  **Unpleasant**  | Add a **Fatigue** _or_ add one **watch** to the journey.                                        | _Gusting winds, rain showers, sweltering heat, chill air_ |
+|  **Inclement**   | Add a **Fatigue** _or_ add one **watch** to the journey. **Difficulty** increases by one step.  | _Thunderstorms & lightning, rain, muddy ground_           |
+|   **Extreme**    | Add a **Fatigue** _and_ add one **watch** to the journey. **Difficulty** increases by one step. | _Blizzards, freezing winds, flooding, mud slides_         |
+| **Catastrophic** | Most parties cannot travel under these conditions.                                              | _Tornados, tidal waves, hurricane, volcanic eruption_     |
 
 ## Wilderness Actions
 

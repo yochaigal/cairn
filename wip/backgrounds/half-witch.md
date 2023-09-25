@@ -17,7 +17,7 @@ Solena, Veles, Bryn, Sabine, Razvan, Rowena, Galen, Nyx, Vex, Iwan
 
 ## Starting Gear
  
-- Spellbook (choose one: _Hover_, _Illuminate_, _Thicket_)
+- _Thicket_ Spellbook 
 - Iron dagger (d6)
 - Herbs pouch (restore 1 STR, 3 uses)
 - Ghillie suit
