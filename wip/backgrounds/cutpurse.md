@@ -9,7 +9,7 @@ grand_parent: WIP
 
 # Cutpurse
 
-> You live in the grey space between those who have power and those that don't. You find opportunity where others see only chaos. With nimble fingers, you unburden both the richest merchant and the lowliest guard. 
+> You live in the grey space between those who have power and those who don’t. You find opportunity where others see only chaos. With nimble fingers, you unburden both the richest merchant and the lowliest guard. 
 
 ## Names
 
@@ -38,8 +38,8 @@ Sable, Lyra, Eamon, Salina, Elara, Freya, Isolde, Sparrow, Ivy, Silas
 |       |                   |                                                                                                                                                    |
 | ----- | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1** | **Catring**       | 2 charges. Climb up walls and fall silently. **Recharge**: Place the ring on a stray cat's tail.                                                   |
-| **2** | **Gildfinger**    | 1 charge. A finger glove that mimics any mundane key. **Recharge**: bundle with at least 100gp for a night.                                        |
+| **2** | **Gildfinger**    | 1 charge. A finger glove that mimics any mundane key. **Recharge**: bundle it with at least 100gp for a night.                                        |
 | **3** | **Glimpse Glass** | 3 charges. A monocle that lets you see through walls or other obstructions. It shatters after the last use.                                        |
 | **4** | **Sweetwhistle**  | 1 charge. Listeners hear a soft, familiar voice in the distance that they cannot resist following. **Recharge**: Lose a dear memory (describe it). |
 | **5** | **Sack of Lies**  | Pull out a convincing lie appropriate to whatever situation you're in. For the rest of the day, you cannot lie.                                    |
-| **6** | **Spider Gloves** | _Bulky_. Heavy gloves that allow you to climb walls with ease. They take a few minutes to remove, and can only be worn for short instances.        |
+| **6** | **Spider Gloves** | _Bulky_. Heavy gloves that allow you to climb walls with ease. They take a few minutes to remove, and can only be worn for short periods.     |

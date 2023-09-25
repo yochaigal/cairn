@@ -55,7 +55,7 @@ search_exclude: true
 ## Inventory
 
 - Characters have a total of ten inventory slots, but can only carry four or five items comfortably without the help of bags, backpacks, horses, carts, etc.
-- Each PC starts with a **Backpack** that can hold up to six slots. Carts (which must be pulled with both hands), horses, or mules can make a huge difference in how much a PC can bring with them on an adventure. **Hirelings** can also be paid to carry equipment. 
+- Each PC starts with a **Backpack** that can hold up to six slots of items, or **Fatigue**. Carts (which must be pulled with both hands), horses, or mules can make a huge difference in how much a PC can bring with them on an adventure. **Hirelings** can also be paid to carry equipment. 
 - Inventory is abstract, dependent only on the fiction as adjudicated by the Warden. Anyone carrying a full inventory (i.e. filling all 10 slots) is reduced to 0 HP. A character cannot fill more than ten slots.
 
 ### Inventory Slots
@@ -158,7 +158,7 @@ search_exclude: true
 | **5**   | You once freed a Naiad from a choked stream. In return, it gave you some **Silver Moss**. Swallow it near water and the creature will come, once, to repay its debt.                                                                                                                      |
 | **6**   | You inherited an old **Journal**, bound in bark. Each evening, its pages are filled with the events of the day, crassly from the journal's perspective. The writing is crude, but accurate.                                                                                               |
 | **7**   | You protect a long-dormant family secret. Take one half of an **Ancient Key** (_petty_). They say that if joined with its twin, it opens a **Gate** through any door.                                                                                                                     |
-| **8**   | You received a **Letter** (_petty_) detailing incontrovertible proof that your true parentage is that of Fae nobility. The note also indicated a date and location where you are to meet them, deep in the **Woods**.                                                                     |
+| **8**   | You received a **Letter** (_petty_) detailing incontrovertible proof that your true parentage is that of Fae nobility.The note also indicates a date and location where you are to meet them, deep in the **The Woods**.                                                                     |
 | **9**   | You owe a great debt to a figure of some nobility, and carry their **Signet Ring** (_petty_), which serves as proof both of their protection as well as your obligation.                                                                                                                  |
 | **10**  | You consumed a **Mischievous Spirit** that periodically wreaks havoc on your insides, demanding to be taken home. It wants to keep you alive, at least until it is free. It takes up one slot, but eats one **Fatigue** per day. It can detect magic and knows a bit about **The Woods**. |
 | **11**  | A roaming storyteller once spun you tales of great treasure hidden deep in **The Woods**. You thought it naught but fancy, till they gave you **A Rolled-Up Map** (_petty_) marked with an X.                                                                                             |
