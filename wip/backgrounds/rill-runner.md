@@ -9,7 +9,7 @@ grand_parent: WIP
 
 # Rill Runner
 
-> You sing the stories of rivers and lakes, calming the likes of friends and the elements alike. You've seen more than most, but somehow it never seems to be enough.
+> You sing the stories of rivers and lakes, your talents soothing friends and the elements alike. You've seen more than most, but somehow it never seems to be enough.
 
 ## Names
 
