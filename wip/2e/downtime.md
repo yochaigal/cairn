@@ -11,7 +11,7 @@ search_exclude: true
 
 Between game sessions, players may utilize the following procedures to research a question, follow-up on a lead, improve a skill, build a relationship, or even boast of their exploits. Only one action is possible at a time, and some actions will require multiple steps to complete. These actions may not be taken if the PC is not in a safe space, or while healing/recovering. **Downtime Actions** (including WIL saves) cannot be taken if they would significantly _harm a character_. 
 
-> Note: Unless otherwise noted, rations and daily upkeep are not tracked during **Downtime**.
+> Note: Unless otherwise noted, Rations and daily upkeep are not tracked during **Downtime**.
 
 ## Milestones
 
