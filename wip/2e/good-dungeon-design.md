@@ -35,43 +35,43 @@ search_exclude: true
   - Add vertical spaces, tall rooms, and climbable structures.
   - Include features that challenge and excite players, such as mineshafts.
   
-### Secret Areas:
+### Secret Areas
   - Design hidden zones for players to discover.
   - Provide subtle clues indicating secrets.
   
-### Room Varieties:
+### Room Varieties
 
   - Vary room shapes, sizes, and functions.
   - Use architectural motifs to connect rooms thematically.
   
-### Tactical Areas:
+### Tactical Areas
   - Include zones that offer strategic advantages.
   - Design chokepoints, elevated spots, and other tactical features.
   
-### Spying Opportunities:
+### Spying Opportunities
   - Provide means for players to gather information discreetly.
 
 ## Dungeon Checklist
 
-### Treasure:
+### Treasure
   - Ensure there's something valuable to seek.
   - Offer diverse forms of treasure, including knowledge, allies, trade goods, and artifacts.
   - Infuse narrative elements into the treasure.
   
-### Challenges:
+### Challenges
   - Incorporate threats and adversaries.
   - Use monsters and obstacles to tell the dungeon's story.
-  
-### Danger:
+
+### Danger
   - Create a sense of peril without making it unbeatable.
   - Label overtly dangerous areas and creatures.
   - Ensure nearly all combats can be avoided or escaped from.
   
-### Paths:
+### Paths
   - Offer multiple routes for diverse experiences.
   - Enable player agency and allow for dungeon mastery.
   - Balance between branching paths and necessary linearity.
   
-### Interaction:
+### Interaction
   - Include NPCs or creatures for players to engage with.
   - Use NPCs to deepen the dungeon's narrative and offer role-playing opportunities.
