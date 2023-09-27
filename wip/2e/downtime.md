@@ -9,7 +9,7 @@ search_exclude: true
 
 # Downtime
 
-Between game sessions, players may utilize the following procedures to research a question, follow-up on a lead, improve a skill, build a relationship, or even boast of their exploits. Only one action is possible at a time, and some actions will require multiple steps to complete. These actions may not be taken if the PC is not in a safe space, or while healing/recovering. **Downtime Actions** (including WIL saves) cannot be taken if they would significantly _harm a character_. 
+Between game sessions, players may utilize the following procedures to research a question, follow-up on a lead, improve a skill, or build a relationship. Only one action is possible at a time, and some actions will require multiple steps to complete. These actions may not be taken if the PC is not in a safe space, or while healing/recovering. **Downtime Actions** (including WIL saves) cannot be taken if there is risk of significant _harm_ to a character. 
 
 > Note: Unless otherwise noted, Rations and daily upkeep are not tracked during **Downtime**.
 
@@ -23,13 +23,13 @@ Some **Downtime Actions** require multiple steps to complete. In these cases, th
 
 ### Costs
 
-At a minimum, every **Milestone** costs a single **Downtime Action**. If a character cannot pay the **cost**, they may have to find some other way to achieve their goal. A few examples of **Cost**: 
+At a minimum, every **Milestone** costs a single **Downtime Action**. If a character cannot pay the **Cost**, they may have to find some other way to achieve their goal. A few examples of **Cost**: 
 - **Gold**: Direct payment of gold from a character's inventory.
 - **Resources**: Non-monetary costs, such as material goods, specific common items, and so on. 
-- **Reputation**: Betting on a character's reknown, personality, presence, social connections, etc.
+- **Reputation**: Betting on a character's renown, personality, presence, social connections, etc.
 - **Loss**: Offering something specific and unique. A finger, a soul, a **Relic**, etc.   
 
-Some **costs** can be reduced or disregarded through character skills, connections, or force of will. For example, a PC may have already acquired the necessary reputation to gain access to a renowned institution, and thus the **cost** is abated. On the other hand, another character may not be so lucky, and must rely on their force of personality instead. In this case, the Warden should state the risk (a permanent ban on entry, a loss of reputation, etc.). The PC then makes a **WIL** save; on a success the cost is either reduced or eliminated entirely. 
+Some **Costs** can be reduced or disregarded through character skills, connections, or force of will. For example, a PC may have already acquired the necessary reputation to gain access to a renowned institution, and thus the **cost** is abated. On the other hand, another character may not be so lucky, and must rely on their force of personality instead. In this case, the Warden should state the risk (a permanent ban on entry, a loss of reputation, etc.). The PC then makes a **WIL** save; on a success the cost is either reduced or eliminated entirely. 
 
 ## Downtime Actions
 
@@ -39,16 +39,16 @@ A character answers a single question about a bit of lost or forgotten lore, the
 
 #### Questions
 
-As always, the question must come from an experience that occured during play. Some examples questions:
+As always, the question must come from an experience that occured during play. Some example questions:
 - "Where is the **Lost Temple of East Nipoor**?" 
 - "Who in **Fortune City** might know how to crack an ancient vault?"
 - "Where can I find the cure to **curly sickness**?" 
 
 #### Sources
 
-A **Source** is a person, place, faction, or entity that holds either a part or whole answer that the character seeks. They can be NPCs, Factions, spirits, or even other PCs.   Some example **Sources**:  
+A **Source** is a person, place, faction, or entity that holds either a part or whole answer that the character seeks. They can be NPCs, Factions, spirits, or even other PCs.   Some example of **Sources**:  
 - **Kewr the Mouth**, a frequent contact for the **Conclave of Merchants**. Despite their excellent relationship with this faction, asking for help in an illicit activity might come at a high cost.
-- A **Woodwise** who makes his home deep in the **Forest of Knives**. The party encountered him in an earlier expedition, and the encounter did not end well. Still, he is said to know the nature of every herb and their healing properties.
+- A **Woodwose** who makes his home deep in the **Forest of Knives**. The party encountered him in an earlier expedition, and the encounter did not end well. Still, he is said to know the nature of every herb and their healing properties.
 - The **Temple of Puppets**, a nomadic circus troupe who have travelled the known and unknown lands. The party assisted one of their members during the **Rain of Fire**, when even the creatures of the Wood were were preparing to flee their homes. If anyone has heard of forgotten places, it's them.
 
 Once a question is posed and an appropriate **Source** has been identified, the **Warden** should provide any **Milestones** and associated **Costs**. 
@@ -65,7 +65,7 @@ A player learns of a holy Relic of great power, rumored to protect the bearer fr
    - [ ] Research the location of the Relic.
    - [ ] Return home. [Cost: **Gold**].
 
-The player agrees, and suggests that for their first **Action**, their character decides not to waste any time with a formalities, instead choosing to force their way into the Count's office to demand the letter. The Warden agrees, explaining that if things go badly, their reputation with the Count might suffer and they could lose out on the letter entirely! The player makes a **WIL** save for their character: a **success**! The Warden describes how the character, "used wit and bravado to remind the Count of their greet deeds together, retrieving not only his letter but a pre-paid ticket for the riverboat!" The player marks off the first two **Milestones**. 
+The player agrees, and suggests that for their first **Action**, their character decides not to waste any time with formalities, instead choosing to force their way into the Count's office to demand the letter. The Warden agrees, explaining that if things go badly, their reputation with the Count might suffer and they could lose out on the letter entirely! The player makes a **WIL** save for their character: a **success**! The Warden describes how the character, "used wit and bravado to remind the Count of their greet deeds together, retrieving not only his letter but a pre-paid ticket for the riverboat!" The player marks off the first two **Milestones**. 
 
 The character joins the party for another adventure, and upon returning to a safe haven, they choose to continue with their quest. The **Warden** informs the player that if they leave their home base, they will not be able join the party on their next adventure. They will however be able to take another **Downtime Action** during this time. They agree, and the **Warden** tells them, "You make your way to the city with little fanfare. The librarians welcome you, impressed by the letter you carry." They player marks off another **Milestone**. 
  
@@ -140,4 +140,4 @@ The Warden says that travelling to the outpost and returning will take a week of
 
 A few weeks later, the player asks if their character can volunteer for a _Order_ mission. The **Warden** informs the player that there is an upcoming escort through the swamps of **Falal-hall**, but as this **Milestone** carries some risk the scenario will need to play out in a regular session. The player (along with the rest of the group) agrees. In the next play session, the entire party joins the mission, which results in a nearly fatal encounter with a bog demon. Although these events occured outside the scope of Downtime, the player still marks off their next **Milestone**. 
 
-The Warden then describes the formal presentation that all cadets must endure: a two-day affair of training exercises, celebrations, and finery. The player suggests that perhaps the invitation from their **Seneschal** friend might help move things along, without all the pomp and circumstance? The Warden agrees that this is at least possible, though the consequences might be embarrasing. The player rolls a **WIL** save: a **success**! The Warden announces that once word of their friendship with a higher-ranking official was confirmed, they were hastily thrown a uniform, a new shield (+1 Armor), and a fine short sword (d6) along with full **Protector** status. Along with support at any _Order_ outpost, the character receives a stipend of 5gp per day while working on _Order_ business. They are ordered to check in with their local **Precept** once a week whenever possible. They cannot refuse a direct order, but all _Order_ missions are otherwise optional. They are also expected to answer the call to battle when it comes.
+The Warden then describes the formal presentation that all cadets must endure: a two-day affair of training exercises, celebrations, and finery. The player suggests that perhaps the invitation from their **Seneschal** friend might help move things along, without all the pomp and circumstance? The Warden agrees that this is at least possible, though the consequences might be embarrassing. The player rolls a **WIL** save: a **success**! The Warden announces that once word of their friendship with a higher-ranking official was confirmed, they were hastily thrown a uniform, a new shield (+1 Armor), and a fine short sword (d6) along with full **Protector** status. Along with support at any _Order_ outpost, the character receives a stipend of 5gp per day while working on _Order_ business. They are ordered to check in with their local **Precept** once a week whenever possible. They cannot refuse a direct order, but all _Order_ missions are otherwise optional. They are also expected to answer the call to battle when it comes.
