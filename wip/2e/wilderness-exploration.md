@@ -96,7 +96,7 @@ search_exclude: true
 ### Travel
 
 - Travel begins. Obvious locations, features, and terrain of nearby areas are revealed according to their distance. This action is typically taken by the entire party as one.
-- The party rolls **1d6** to see if they get lost along the way. This risk can increase or decrease, depending on the travel **Difficulty**, items, skills, and relevant backgrounds of the party.
+- The party rolls 1d6 to see if they get lost along the way. This risk can increase or decrease, depending on the travel **Difficulty**, items, skills, and relevant backgrounds of the party.
 - If lost, the party may need to spend a **Wilderness Action** to recover their way. Otherwise, the party reaches the next **point** along their route. Remember to compare the results of getting lost to the current travel **Difficulty**. For example, **Tough** terrain in Fair weather would require a roll of 2 or under in order for the party to get lost.  
 
 ### Explore
@@ -107,8 +107,8 @@ search_exclude: true
 
 ### Supply
 
-- Characters can hunt, fish, or forage for food, collecting d4 **Rations** (3 uses each). 
-- For each additional participant the chance for a higher yield increases  (e.g. d4 becomes d6, and so on.). Relevant experience or equipment can also increase the bounty. 
+- Characters can hunt, fish, or forage for food, with the first PC to take this action collecting 1d4 **Rations** (3 uses each).
+- The chance of a greater bounty increases with each additional participant (e.g. 1d4 becomes 1d6, up to a maximum of 1d12). Relevant experience or equipment may also increase the bounty.
 - The party may encounter homes and small villages, spending gold and a full **watch** to resupply. 
 
 ### Make Camp
