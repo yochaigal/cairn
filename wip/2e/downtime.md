@@ -49,7 +49,7 @@ A **Source** is a person, place, faction, or entity that holds either a part or 
 - A **Woodwose** who makes his home deep in the **Forest of Knives**. The party encountered him in an earlier expedition, and the encounter did not end well. Still, he is said to know the nature of every herb and their healing properties.
 - The **Temple of Puppets**, a nomadic circus troupe who have travelled the known and unknown lands. The party assisted one of their members during the **Rain of Fire**, when even the creatures of the Wood were were preparing to flee their homes. If anyone has heard of forgotten places, it's them.
 
-### Self Improvement
+### Training
 
 A character can improve their skills with an item or ability, with clear narrative or mechanical results. They might be interested in dealing greater damage with a particular weapon, decreasing their chances of getting lost in rough weather, or learn to read the languages of the ancients. A PC might spend multiple **Downtime Actions** sparring with a particular weapon, improving their skills week by week. Or they may need to travel to the home of a distant sage, improving themselves through short but intense study.
 
@@ -60,9 +60,9 @@ Examples:
 - Improved fishing: d6 Rations are gathered when taking the Supply **Action** near healthy sources of water.
 - Scholarly wisdom: The texts and signage of ancient temples and cities are finally intelligible, and understanding their Relics far easier.
 
-### Strengthening Relationship
+### Strengthening Ties
 
-Players may choose to foster their character's connection with an NPC or Faction in the game world. First, they must identify the entity with whom they wish to strengthen ties, along with their specific **intent** (e.g., building trust, mending a friendship, seeking membership in a Faction, forming an alliance). The **Warden** then provides concrete measures (described as **Milestones** and **Costs**) that the PC can undertake to advance the relationship. Unless otherwise noted, Factions and NPCs are neutral in their relationship with a PC.
+Players may choose to foster their character's connection with an NPC or Faction in the game world. First, they must identify the entity with whom they wish to strengthen ties, along with their specific **intent** (e.g., building trust, mending a friendship, seeking membership in a Faction, forming an alliance). The **Warden** then provides concrete measures (described as **Milestones** and **Costs**) that the PC can undertake to advance the relationship. With each completed **Milestone**, the **Warden** describes how the PC's relationship has grown or changed. 
 
 Examples:
 - After returning to their home base from an unsuccessful delve into the **Roots**, a PC discovers that they'd unknowingly brought along a stowaway: an eyeless devourer, barely hatched. They decide to keep the creature, and to train it in secret. 
