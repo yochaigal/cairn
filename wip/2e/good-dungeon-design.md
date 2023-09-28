@@ -11,35 +11,39 @@ search_exclude: true
 # Good Dungeon Design
 
 ## Entrances/Exits
-
-  - Have multiple entrances and exits.
-  - Add meaningful information to doorways.
+  - Create multiple entrances and exits and add meaningful information to doorways to to help players avoid feeling railroaded.
   
 ## Purpose
-  - Determine the original purpose of the dungeon.
-  - Consider its age and current use.
+  - Demonstrates the original inhabitants, design, or goal of the dungeon. Displays its age and current use.
+  - Consider was it used for, and what is it used for now. 
   - Identify what it was designed to keep out.
   
 ## Levels
-  - Include various levels to represent danger gradation.
-  - Introduce an element of risk and reward.
+  - Can represent danger gradation and thematic intent.
+  - Should push the players to balance the risk of continuing with the potential reward.
   
 ## Layout
   - Incorporate loops for non-linear exploration.
-  - Avoid tree-like structures and dead ends.
-  - Design a network of interconnected rooms and corridors.
+  - Avoid tree-like structures with dead ends.
+  - Form a network of interconnected rooms and corridors.
+  - Allows for interesting strategies, especially with combat and ambushes
 
 ## Verticality
-  - Add vertical spaces, tall rooms, and climbable structures.
-  - Include features that challenge and excite players, such as mineshafts.
+  - Makes mapping more complex.... but also more fun
+  - Add tall rooms, and climbable structures.
+  - Give players things to drop on to/from
+  - Lets them go up and over, instead of just pushing through
   
 ## Secret Areas
   - Design hidden zones for players to discover.
-  - Provide subtle clues indicating secrets.
+  - Provide subtle clues that say "something is off here"
+  - Have at least one place that the players may never find
   
 ## Room Varieties
   - Vary room shapes, sizes, and functions.
   - Use architectural motifs to connect rooms thematically.
+  - Should be easy to describe, map, and recall.
+  - Architectural motifs help connect rooms thematically.
   
 ## Tactical Areas
   - Include zones that offer strategic advantages.
