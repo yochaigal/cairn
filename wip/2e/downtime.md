@@ -13,7 +13,7 @@ Between game sessions, players may utilize the following procedures to research 
 
 ## Milestones
 
-Some **Downtime Actions** require multiple steps to complete. In these cases, the Warden then provides 1-3 **Milestones** that the player can tick off as they progress towards their goal. Most **Milestone** requires a single **Downtime Action** to accomplish, and potentially their own unique **Cost** as well.
+Some **Downtime Actions** require multiple steps to complete. In these cases, the Warden then provides 1-5 **Milestones** that the player can tick off as they progress towards their goal. Most **Milestone** requires a single **Downtime Action** to accomplish, and potentially their own unique **Cost** as well.
 
 - **Milestones** are "zoomed-out" activities that are both abstract and non-interactive.
 - The Warden _may_ provide the player with multiple "paths" to accomplishing their goals, each with their own unique **Milestones**. 
@@ -67,6 +67,6 @@ Players may choose to foster their character's connection with an NPC or Faction
 Examples:
 - After returning to their home base from an unsuccessful delve into the **Roots**, a PC discovers that they'd unknowingly brought along a stowaway: an eyeless devourer, barely hatched. They decide to keep the creature, and to train it in secret. 
 - During a play session, a PC becomes friendly with the **Seneschal** of the **Order of the Helm**. Impressed by the Order's values, the PC asks to join, and what the requirements are.
-- An NPC tragically died during the **Battle of Frogs** while under a particular PC's care. Now, the NPC's powerful family is terribly upset, making the PC's adventuring life more difficult. Now, that PC would like to repair their relationship enough so that they can show their face around town once more.
+- A powerful NPC died during the **Battle of Frogs** while under a particular PC's care. That PC would like to repair their relationship with the NPC's Faction so that they and their allies can once more perform tasks for the faction.
 
 
