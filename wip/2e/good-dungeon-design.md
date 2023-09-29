@@ -48,11 +48,7 @@ search_exclude: true
 ## Tactical Areas
   - Include zones that offer strategic advantages.
   - Design chokepoints, elevated spots, and other tactical features.
-  
-## Spying Opportunities
-  - Provide means for players to gather information discreetly.
-
-## Dungeon Checklist
+  - Provides a means for players to gather information discreetly.
 
 ## Treasure
   - Ensure there's something valuable to seek.
