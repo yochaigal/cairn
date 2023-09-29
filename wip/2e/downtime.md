@@ -9,15 +9,11 @@ search_exclude: true
 
 # Downtime
 
-Between game sessions, players may utilize the following procedures to research a question, follow-up on a lead, improve a skill, or build a relationship. Only one action is possible at a time, and some actions will require multiple steps to complete. These actions may not be taken if the PC is not in a safe space, or while healing/recovering. **Downtime Actions** (including WIL saves) cannot be taken if there is risk of significant _harm_ to a character. Unless otherwise noted, Rations and daily upkeep are not tracked during **Downtime**.
+Players may utilize the following procedures between game sessions to research a question, follow-up on a lead, improve a skill, or build a relationship. Only one action is possible at a time, and some actions may require multiple steps to complete. These actions may not be taken if the PC is not in a safe space, as well as while healing or recovering. A character cannot perform a **Downtime Actions** if it would put their safety at risk.
 
 ## Milestones
 
-Some **Downtime Actions** require multiple steps to complete. In these cases, the Warden then provides 1-5 **Milestones** that the player can tick off as they progress towards their goal. Most **Milestone** requires a single **Downtime Action** to accomplish, and potentially their own unique **Cost** as well.
-
-- **Milestones** are "zoomed-out" activities that are both abstract and non-interactive.
-- The Warden _may_ provide the player with multiple "paths" to accomplishing their goals, each with their own unique **Milestones**. 
-- Over time, the **Warden** may add new **Milestones** or remove others entirely, depending on the events of the fiction.  
+**Downtime Actions** may require multiple steps to complete. In these cases, the Warden then provides 1-5 **Milestones** that the player can tick off as they make progress towards their goal. Each **Milestone** represents a "zoomed-out" activity that is both abstract and non-interactive. Most **Milestone** requires a single **Downtime Action** to accomplish, and potentially their own unique **Cost** as well. The **Warden** _may_ provide the player with multiple "paths" to accomplishing their goals, each with their own unique **Milestones**. Over time, the **Warden** may add new **Milestones** or remove others entirely, depending on the events of the fiction.  
 
 ### Costs
 
@@ -44,7 +40,9 @@ As always, the question must come from an experience that occured during play. S
 
 #### Sources
 
-A **Source** is a person, place, faction, or entity that holds either a part or whole answer that the character seeks. They can be NPCs, Factions, spirits, or even other PCs.   Some example of **Sources**:  
+A **Source** is a person, place, faction, or entity that holds either a part or whole answer that the character seeks. They can be NPCs, Factions, spirits, or even other PCs. 
+
+Some example **Sources**:  
 - **Kewr the Mouth**, a frequent contact for the **Conclave of Merchants**. Despite their excellent relationship with this faction, asking for help in an illicit activity might come at a high cost.
 - A **Woodwose** who makes his home deep in the **Forest of Knives**. The party encountered him in an earlier expedition, and the encounter did not end well. Still, he is said to know the nature of every herb and their healing properties.
 - The **Temple of Puppets**, a nomadic circus troupe who have travelled the known and unknown lands. The party assisted one of their members during the **Rain of Fire**, when even the creatures of the Wood were were preparing to flee their homes. If anyone has heard of forgotten places, it's them.
@@ -62,7 +60,7 @@ Examples:
 
 ### Strengthening Ties
 
-Players may choose to foster their character's connection with an NPC or Faction in the game world. First, they must identify the entity with whom they wish to strengthen ties, along with their specific **intent** (e.g., building trust, mending a friendship, seeking membership in a Faction, forming an alliance). The **Warden** then provides concrete measures (described as **Milestones** and **Costs**) that the PC can undertake to advance the relationship. With each completed **Milestone**, the **Warden** describes how the PC's relationship has grown or changed. 
+Players may choose to foster their character's connection with an NPC or Faction in the game world. First, they must identify the entity with whom they wish to strengthen ties, along with their specific **intent** (e.g., building trust, mending a friendship, seeking membership in a Faction, forming an alliance, and so on). The **Warden** then provides concrete measures (described as **Milestones** and **Costs**) that the PC can undertake to advance the relationship. With each completed **Milestone**, the **Warden** describes how the PC's relationship has grown or changed. 
 
 Examples:
 - After returning to their home base from an unsuccessful delve into the **Roots**, a PC discovers that they'd unknowingly brought along a stowaway: an eyeless devourer, barely hatched. They decide to keep the creature, and to train it in secret. 
