@@ -9,7 +9,7 @@ search_exclude: true
 
 # Downtime
 
-Players may utilize the following procedures between game sessions to research a question, follow-up on a lead, improve a skill, or build a relationship. Only one **Downtime Action** is possible at a time, and some actions may require multiple steps to complete. These actions may not be taken if the PC is not in a safe space, as well as while healing or recovering. A character cannot perform an action if it would put their safety at risk.
+Players may utilize the following procedures between game sessions to research a question, follow-up on a lead, improve a skill, or build a relationship. Only one **Downtime Action** is possible at a time, and some actions may require multiple steps to complete. These actions may not be taken if the PC is not in a safe space, as well as while healing or recovering. A character cannot perform an action if it would put their safety at risk. 
 
 ## Milestones
 
@@ -26,6 +26,8 @@ At a minimum, every **Milestone** costs a single **Downtime Action**. If a chara
 Some **Costs** can be reduced or disregarded through character skills, connections, or force of will. For example, a PC may have already acquired the necessary reputation to gain access to a renowned institution, and thus the **cost** is abated. On the other hand, another character may not be so lucky, and must rely on their force of personality instead. In this case, the Warden should state the risk (a permanent ban on entry, a loss of reputation, etc.). The PC then makes a **WIL** save; on a success the cost is either reduced or eliminated entirely. 
 
 ## Downtime Actions
+
+The following activities represent some of the most common **Downtime Actions** a players can choose. The **Warden** can also create custom actions based on the needs of play.
 
 ### Research
 
