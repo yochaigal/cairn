@@ -42,4 +42,4 @@ Sable, Lyra, Eamon, Salina, Elara, Freya, Isolde, Sparrow, Ivy, Silas
 | **3** | **Glimpse Glass**     | 3 charges. A monocle that lets you see through walls or other obstructions. It shatters after the last use.                                        |
 | **4** | **Sweetwhistle**      | 1 charge. Listeners hear a soft, familiar voice in the distance that they cannot resist following. **Recharge**: Lose a dear memory (describe it). |
 | **5** | **Sack of Lies**      | Pull out a convincing lie appropriate to whatever situation you're in. For the rest of the day, you cannot lie.                                    |
-| **6** | **Smokestack Marble** | 3 uses. Crush to release a dense cloud of smoke that follows you. _petty_.                                                                         |
+| **6** | **Smokestack Marble** | 3 uses. Crush to release a dense cloud of smoke that follows you. _Petty_.                                                                         |
