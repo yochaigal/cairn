@@ -9,7 +9,7 @@ search_exclude: true
 
 # Downtime
 
-Players may utilize the following procedures between game sessions to research a question, follow-up on a lead, improve a skill, or build a relationship. Only one action is possible at a time, and some actions may require multiple steps to complete. These actions may not be taken if the PC is not in a safe space, as well as while healing or recovering. A character cannot perform a **Downtime Actions** if it would put their safety at risk.
+Players may utilize the following procedures between game sessions to research a question, follow-up on a lead, improve a skill, or build a relationship. Only one **Downtime Action** is possible at a time, and some actions may require multiple steps to complete. These actions may not be taken if the PC is not in a safe space, as well as while healing or recovering. A character cannot perform an action if it would put their safety at risk.
 
 ## Milestones
 
@@ -54,17 +54,17 @@ A character can improve their skills with an item or ability, with clear narrati
 The player must describe precisely what they'd like to improve, and a **Master** whom they might train with. And of course, the character's inspiration to improve should come from an experience in play. The **Warden** should provide any **Milestones** and associated **Costs**. 
 
 Examples:  
-- **The Two-Handed Parry**: When fighting with one hand free, a PC's HP increases by 1d4 (roll only once). The party took on a hireling from the **Cratered Lands**, where fighters focus on avoiding enemy attacks above all else. She has agreed to train **one** PC: whomever can best her in hand to hand combat. 
-- **Herbology**: Given proper ingredients, a PC can creating a **Healing Salve** (restores 4 STR) as a **Downtime Action**. After receiving care from an elderly herbalist in the **Verdant Glades**, the wounded PC asked to be trained in the healing arts. The **Master** agreed, but asks that they collect back three rare herbs before training can begin. 
-- **Troutmaster**: When taking the Supply **Action**, **Rations** gathered near cold, freshwater sources increases by one step (e.g. 1d4 becomes 1d6). While camping alongside the famously dreadful **Silver Wastes**, the party escorted a stranded naturalist safely back to the city. As thanks she has offered to train a PC to identify and capture a common lakefish that frequents colder waters.
+- **The Two-Handed Parry**: When fighting with one hand free, a PC's HP increases by 1d4 (roll once). The party took on a hireling from the **Cratered Lands**, whose fighters emphasize avoiding enemy attacks. She has agreed to train anyone that can best her in hand to hand combat.
+- **Herbology**: Given proper ingredients, a PC can creating a **Healing Salve** (restores 4 STR) as a **Downtime Action**. After receiving care from an elderly herbalist in the **Verdant Glades**, the wounded PC asked to be trained in the healing arts. The **Master** agreed, but asks that they collect three rare herbs before training can begin. 
+- **Troutmaster**: When taking the Supply **Action**, **Rations** gathered near cold, freshwater sources increases by one step (e.g. 1d4 becomes 1d6). The party escorted a stranded naturalist from the famously dreadful **Silver Wastes** safely back to the city. As thanks, she offers to train a PC to identify and capture a common lakefish that frequents colder waters.
 
 ### Strengthening Ties
 
-Players may choose to foster their character's connection with an NPC or Faction in the game world. First, they must identify the entity with whom they wish to strengthen ties, along with their specific **intent** (e.g., building trust, mending a friendship, seeking membership in a Faction, forming an alliance, and so on). The **Warden** then provides concrete measures (described as **Milestones** and **Costs**) that the PC can undertake to advance the relationship. With each completed **Milestone**, the **Warden** describes how the PC's relationship has grown or changed. 
+A character fosters a connection with an NPC or Faction in the game world. First, they must identify the entity with whom they wish to strengthen ties, as well as a specific **intent** (e.g., building trust, mending a friendship, seeking membership in a Faction, forming an alliance, and so on). The **Warden** then provides concrete measures (described as **Milestones** and **Costs**) that the PC can undertake to advance the relationship. With each completed **Milestone**, the **Warden** describes how the PC's relationship has grown or changed. 
 
 Examples:
-- After returning to their home base from an unsuccessful delve into the **Roots**, a PC discovers that they'd unknowingly brought along a stowaway: an eyeless devourer, barely hatched. They decide to keep the creature and train it in secret. 
+- After returning from an unsuccessful delve into the **Roots**, a PC discovers that they'd unknowingly brought along a stowaway: an eyeless devourer, barely hatched. They decide to keep the creature and train it in secret. 
 - During a play session, a PC becomes friendly with the **Seneschal** of the **Order of the Helm**. Impressed by the Order's values, the PC asks what the requirements are to join.
-- A powerful NPC died during the **Battle of Frogs** while under a particular PC's care. That PC would like to repair their relationship with the NPC's Faction so that they and their allies can once more perform tasks for the Faction.
+- A powerful **Seneschal** died during the **Battle of Frogs** while under the party's care. Now those responsible wish to provide redress, so that the party can once again perform tasks for that Faction.
 
 
