@@ -54,9 +54,9 @@ A character can improve their skills with an item or ability, with clear narrati
 The player must describe precisely what they'd like to improve, and a **Master** whom they might train with. And of course, the character's inspiration to improve should come from an experience in play. The **Warden** should provide any **Milestones** and associated **Costs**. 
 
 Examples:  
-- Blade expertise: When wielding a sword, the damage die is increased from d8 to d10.
-- Improved fishing: d6 Rations are gathered when taking the Supply **Action** near healthy sources of water.
-- Scholarly wisdom: The texts and signage of ancient temples and cities are finally intelligible, and understanding their Relics far easier.
+- **The Two-Handed Parry**: When fighting with one hand free, a PC's HP increases by 1d4 (roll only once). The party took on a hireling from the **Cratered Lands**, where fighters focus on avoiding enemy attacks above all else. She has agreed to train **one** PC: whomever can best her in hand to hand combat. 
+- **Herbology**: Given proper ingredients, a PC can creating a **Healing Salve** (restores 4 STR) as a **Downtime Action**. After receiving care from an elderly herbalist in the **Verdant Glades**, the wounded PC asked to be trained in the healing arts. The **Master** agreed, but asks that they collect back three rare herbs before training can begin. 
+- **Troutmaster**: When taking the Supply **Action**, **Rations** gathered near cold, freshwater sources increases by one step (e.g. 1d4 becomes 1d6). While camping alongside the famously dreadful **Silver Wastes**, the party escorted a stranded naturalist safely back to the city. As thanks she has offered to train a PC to identify and capture a common lakefish that frequents colder waters.
 
 ### Strengthening Ties
 
