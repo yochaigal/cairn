@@ -97,7 +97,7 @@ search_exclude: true
 | Carriage seat            | 5   |
 | Ship's passage           | 10  |
 
-## Hospitality
+## Upkeep & Recovery
 
 |                               |     |
 | ----------------------------- | --- |
@@ -105,8 +105,8 @@ search_exclude: true
 | Private room & board (fits 4) | 35  |
 | Stable & feed (per night)     | 5   |
 | Medical healing               | 50  |
-| Spiritual Healing             | 30  |
-| Hot bath                      | 1   |
+| Rations (3 uses)              | 10  |
+| Animal Feed (3 uses, bulky)   | 5   |
 
 ## Hirelings (per day)
 
@@ -124,10 +124,3 @@ search_exclude: true
 | Tracker           | 5   |
 | Trapper           | 5   |
 | Veteran Bodyguard | 20  |
-
-## Food
-
-|                             |     |
-| --------------------------- | --- |
-| Rations (3 uses)            | 10  |
-| Animal Feed (3 uses, bulky) | 5   |
