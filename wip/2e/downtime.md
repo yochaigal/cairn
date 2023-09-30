@@ -13,7 +13,7 @@ Players may utilize the following procedures between game sessions to research a
 
 ## Milestones
 
-**Downtime Actions** may require multiple steps to complete. In these cases, the Warden then provides 1-5 **Milestones** that the player can tick off as they make progress towards their goal. Each **Milestone** represents a "zoomed-out" activity that is both abstract and non-interactive. Most **Milestone** requires a single **Downtime Action** to accomplish, and potentially their own unique **Cost** as well. The **Warden** _may_ provide the player with multiple "paths" to accomplishing their goals, each with their own unique **Milestones**. Over time, the **Warden** may add new **Milestones** or remove others entirely, depending on the events of the fiction.  
+**Downtime Actions** may require multiple steps to complete. In these cases, the Warden then provides 1-5 **Milestones** that the player can tick off as they make progress towards their goal. Each **Milestone** represents a "zoomed-out" activity that is both abstract and non-interactive. Most **Milestones** requires a single **Downtime Action** to accomplish, and potentially their own unique **Cost** as well. The **Warden** _may_ provide the player with multiple "paths" to accomplishing their goals, each with their own unique **Milestones**. Over time, the **Warden** may add new **Milestones** or remove others entirely, depending on the events of the fiction.  
 
 ### Costs
 
