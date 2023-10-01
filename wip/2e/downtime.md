@@ -57,7 +57,7 @@ The player must describe precisely what they'd like to improve, and a **Master**
 
 Examples:  
 - **The Two-Handed Parry**: When fighting with one hand free, a PC's HP increases by 1d4 (roll once). The party took on a hireling from the **Cratered Lands**, whose fighters emphasize avoiding enemy attacks. She has agreed to train anyone that can best her in hand to hand combat.
-- **Herbology**: Given proper ingredients, a PC can creating a **Healing Salve** (restores 4 STR) as a **Downtime Action**. After receiving care from an elderly herbalist in the **Verdant Glades**, the wounded PC asked to be trained in the healing arts. The **Master** agreed, but asks that they collect three rare herbs before training can begin. 
+- **Herbology**: Given proper ingredients, a PC can create a **Healing Salve** (restores 4 STR) as a **Downtime Action**. After receiving care from an elderly herbalist in the **Verdant Glades**, the wounded PC asked to be trained in the healing arts. The **Master** agreed, but asks that they collect three rare herbs before training can begin. 
 - **Troutmaster**: When taking the Supply **Action**, **Rations** gathered near cold, freshwater sources increases by one step (e.g. 1d4 becomes 1d6). The party escorted a stranded naturalist from the famously dreadful **Silver Wastes** safely back to the city. As thanks, she offers to train a PC to identify and capture a common lakefish that frequents colder waters.
 
 ### Strengthening Ties
