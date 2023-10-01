@@ -31,7 +31,7 @@ Each of the three **attributes** are used in different circumstances (see **save
 ## Deprivation & Fatigue
 - A PC **deprived** of a crucial need (such as food or rest) is unable to recover HP or Attributes. PCs can also add a **Fatigue** by **casting spells**, or through events in the fiction. 
 - Anyone deprived for more than a day adds **Fatigue** to their inventory, one for each day. Each Fatigue occupies one slot and lasts until they are able to recuperate (such as a full night's rest in a safe spot). 
-- If a character is forced to add **Fatigue** to an inventory with no free slots they must drop an items they are carrying.
+- If a character is forced to add **Fatigue** to their inventory with no free slots they must drop an items they are carrying.
 
 ## Armor
 - Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. 
