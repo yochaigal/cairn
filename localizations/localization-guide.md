@@ -25,4 +25,4 @@ Although the Cairn rules exist in many forms (PDF, Google Docs, Word, etc), the 
 
 5. When building the Affinity files, add "**Lang** Version" to the cover.
 
-6. If you would like a subdomain (e.g. lan.cairnrpg.com) let Yochai know!  
+6. If you would like a subdomain (e.g. lan.cairnrpg.com) let Yochai know and follow [this](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site) guide.
