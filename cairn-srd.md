@@ -16,7 +16,7 @@ Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in ot
 Players act as hardened adventurers exploring a dark & mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities.
 
 <details close markdown="block">
-  <summary>
+  <summary id="index">
     Table of contents
   </summary>
   {: .text-delta }
