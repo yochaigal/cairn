@@ -13,11 +13,11 @@ search_exclude: true
 
 ## Time
 
-Travel time in Cairn is counted in **Watches**. However, as each **watch** is divided into an eight-hour segment, and most parties elect to spend at least one **watch** resting (typically at night), one can use "days" as a shorthand for travel. For example, if the distance between two points is equal to four **watches** of travel, the party will need to travel for _at least_ two days to arrive at their destintation. 
+Travel time in Cairn is counted in **Watches**, divided into three eight-hour segments per day. However, as most parties elect to spend the third **watch** of the day resting, one can use "days" as a shorthand for travel. For example, if the distance between two points is equal to four **watches** of travel, the party will need to travel for _at least_ two days to arrive at their destintation. 
 
-## Adjusting Travel Speed 
+### Adjusting Travel Speed 
 
-The **default travel** speed is a single **watch** between two **points**. It is defined as a short, unmolested journey on foot along a **maintained road**, during normal weather. This rate is doubled for **trails**, and tripled when travelling **off-road**. Terrain and weather difficulty can severly slow down the party's movement, as can injured party members or a travelling with a convoy. Horses, guides, and maps can increase the rate of travel as well. The Warden should weigh all of these factors when determining how much time it takes to travel between one or more **points**. 
+By default, a party can travel a single **watch** between two **points** at _Normal_ travel speed.  _Normal_ travel speed is defined as a short, unmolested journey on foot along a **maintained road**, with fair weather. This rate is _doubled_ for **trails**, and _tripled_ when travelling **off-road**. Terrain and weather difficulty can severly slow down the party's movement, as can injured party members or a travelling with a convoy. Horses, guides, and maps can increase the rate of travel as well. The Warden should weigh all of these factors when determining how much time it takes to travel between one or more **points**. 
 
 ## Creating a Pointcrawl
 
@@ -25,7 +25,7 @@ The **default travel** speed is a single **watch** between two **points**. It is
 - Identify potential routes between each **point**, noting obvious roads and trails. If there are no obvious routes between one or more **points**, denote those as "off-road". 
 - Indicate the rough travel time (in days) between any two points, accounting for the **default** travel speed, terrain, weather, and other elements of play that might affect the journey. 
 
-### Written Example
+## Written Example
 
 In this example we'll be using a map made with [Watabou's](https://watabou.itch.io/) terrific [Perilous Shores](https://watabou.itch.io/perilous-shores) generator.
 
