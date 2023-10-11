@@ -17,7 +17,7 @@ Travel time in Cairn is counted in **Watches**, divided into three eight-hour se
 
 ### Adjusting Travel Speed 
 
-By default, a party can travel a single **watch** between two **points** at _Normal_ travel speed.  _Normal_ travel speed is defined as a short, unmolested journey on foot along a **maintained road**, with fair weather. This rate is _doubled_ for **trails**, and _tripled_ when travelling **off-road**. Terrain and weather difficulty can severly slow down the party's movement, as can injured party members or a travelling with a convoy. Horses, guides, and maps can increase the rate of travel as well. The Warden should weigh all of these factors when determining how much time it takes to travel between one or more **points**. 
+By default, a party can travel a single **watch** between two **points** at _Normal_ travel speed.  _Normal_ travel speed is defined as a short, unmolested journey on foot along a **maintained road**, with fair weather. This rate is _doubled_ for **trails**, and _tripled_ when bushwhacking. Both the terrain and current weather can severly slow down the party's movement, as can caring for an injured party member or travelling with a convoy. Conversely, horses, guides, and local maps can increase the rate of travel. The Warden should weigh all of these factors when determining how much time it takes to travel between one or more **points**. 
 
 ## Creating a Pointcrawl
 
