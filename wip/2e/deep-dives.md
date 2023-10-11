@@ -25,7 +25,7 @@ By default, a party can travel a single **watch** between two **points** at _Nor
 - Identify potential routes between each **point**, noting obvious roads and trails. If there are no obvious routes between one or more **points**, denote those as "off-road". 
 - Indicate the rough travel time (in days) between any two points, accounting for the **default** travel speed, terrain, weather, and other elements of play that might affect the journey. 
 
-## Written Example
+### Pointcrawl Example
 
 In this example we'll be using a map made with [Watabou's](https://watabou.itch.io/) terrific [Perilous Shores](https://watabou.itch.io/perilous-shores) generator.
 
