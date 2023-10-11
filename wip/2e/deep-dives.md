@@ -9,7 +9,7 @@ search_exclude: true
 
 # Deep Dives
 
-## Deep Dive: Wilderness Exploration
+## Wilderness Exploration
 
 ## Time
 
@@ -23,7 +23,7 @@ The **default travel** speed is a single **watch** between two **points**. It is
 
 - Number any potential **points** of interest on the map.
 - Identify potential routes between each **point**, noting obvious roads and trails. If there are no obvious routes between one or more **points**, denote those as "off-road". 
-- Indicate the rough travel time (in days) between any two points, accpimtomg for the **default** travel speed, terrain, weather, and other elements of play that might affect the journey. 
+- Indicate the rough travel time (in days) between any two points, accounting for the **default** travel speed, terrain, weather, and other elements of play that might affect the journey. 
 
 ### Written Example
 
