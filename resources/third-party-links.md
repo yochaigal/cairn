@@ -28,7 +28,7 @@ Naeolin has written a ton of great posts on Cairn, including:
 
 ## Dice Goblin Games
 
-Dice Goblin (author of the Block, Dodge Parry hack) 
+Dice Goblin (author of the Block, Dodge Parry hack)
 
 - [Time, Gear & Skill: A Different Approach to Skill Checks](https://dicegoblin.blog/time-gear-skill-a-different-approach-to-skill-checks/)
 - [Dark Souls inspired Weapons](https://dicegoblin.blog/dark-souls-inspired-weapons-for-into-the-odd-cairn/)
@@ -38,7 +38,7 @@ Dice Goblin (author of the Block, Dodge Parry hack)
 
 ## Dreaming Dragonslayer
 
-Sam is the author of Skorne and Adventure Hour, and writes on Into The Odd (and its variants), playing with chidlren, and foreground growth. 
+Sam is the author of Skorne and Adventure Hour, and writes on Into The Odd (and its variants), playing with children, and foreground growth.
 
 - [Advantage & Impact](https://dreamingdragonslayer.wordpress.com/2020/03/28/advantage-and-impact/)
 - [Diegetic Advancement Triggers](https://dreamingdragonslayer.wordpress.com/2020/06/13/diegetic-advancement-triggers/)
