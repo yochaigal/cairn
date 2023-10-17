@@ -17,12 +17,14 @@ Travel time in Cairn is counted in **Watches**, divided into three eight-hour se
 
 ### Adjusting Travel Speed 
 
-By default, a party can travel a single **watch** between two **points** at _Normal_ travel speed.  _Normal_ travel speed is defined as a short, unmolested journey on foot along a **maintained road**, with fair weather. This rate is _doubled_ for **trails**, and _tripled_ when bushwhacking. Both the terrain and current weather can severly slow down the party's movement, as can caring for an injured party member or travelling with a convoy. Conversely, horses, guides, and local maps can increase the rate of travel. The Warden should weigh all of these factors when determining how much time it takes to travel between one or more **points**. 
+_Normal_ travel speed is defined as a short, unmolested journey on foot along a **maintained road**, with fair weather. This rate is _doubled_ for **trails**, and _tripled_ when travelling over raw terrain. By default, a party can travel a single **watch** between two **points** at _Normal_ travel speed.
+
+Both the terrain and current weather can slow down the party's movement, as can caring for an injured party member or travelling with a convoy. Conversely, horses, guides, and local maps can increase the rate of travel. The Warden should weigh all of these factors when determining how much time it takes to travel between one or more **points**. 
 
 ## Creating a Pointcrawl
 
 - Number any potential **points** of interest on the map.
-- Identify potential routes between each **point**, noting obvious roads and trails. If there are no obvious routes between one or more **points**, denote those as "off-road". 
+- Identify potential routes between each **point**, noting obvious roads and trails. Indicate any sites that lack connecting routes to other **points**. 
 - Indicate the rough travel time (in days) between any two points, accounting for the **default** travel speed, terrain, weather, and other elements of play that might affect the journey. 
 
 ### Pointcrawl Example
