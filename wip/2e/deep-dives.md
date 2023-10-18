@@ -31,7 +31,6 @@ Difficult terrain and bad weather can slow down the party's movement, as can car
 
 [![Alt text](/img/2e/pointcrawl_example.jpg "Click to embiggen"){:height="60%" width="60%"}](/img/2e/pointcrawl_example.jpg)
 
-
 The travel times between each point were determined as follows:
 
 - Assume that the party is travelling by foot, and that _Normal_ travel speed takes a single watch when moving between two connected points.
@@ -43,9 +42,4 @@ The travel times between each point were determined as follows:
 - The journey between **4** and **5** takes 3 watches:
   - Add one watch for the trail through the woods.
   - Add one watch for the _Tough_ forest terrain.
-- The journey to **3** should be at least four watches from any adjacent point:
-  - Points **1**, **2**, or **4** are closest.
-
-
-A party of 3 PCs (**Leib**, **Konstin**, and **Gar**) are plotting a journey to an ancient ruin deep in the forests of **Ein Eyton** (**5**). 
-They ask the Warden how long it will take the party to travel there from their present location, the village of **Rudbat** (**1**). The Warden collates the following information:  
+- The journey to **3** should be _at least_ four watches from any adjacent points.
