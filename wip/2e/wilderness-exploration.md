@@ -75,9 +75,9 @@ search_exclude: true
 |                               |                       |                     |                          |                                                                                                       |
 | ----------------------------- | --------------------- | ------------------- | ------------------------ | ----------------------------------------------------------------------------------------------------- |
 | **Terrain**                   | **Travel Difficulty** | **Travel Duration** | **Odds of Getting Lost** | **Examples**                                                                                          |
-| **Roads, grasslands, plains** | **Easy**              | _Normal_            | None                     | _Smooth roads, safe areas for rest, fellow travellers_                                                |
-| **Forests, mountains, hills** | **Tough**             | _Doubled_           | 2-in-6                   | _Wild animals, flooding, broken equipment, falling rocks, unsafe shelters, hunter's traps_            |
-| **Deserts, jungle, swamp**    | **Perilous**          | _Tripled_           | 4-in-6                   | _Quicksand, sucking mud, choking vines, unclean water, poisonous plants and animals, poor navigation_ |
+| **Roads, grasslands, plains** | **Easy**              | _Normal_           | None                     | _Smooth roads, safe areas for rest, fellow travellers_                                                |
+| **Forests, mountains, hills** | **Tough**             | +1 Watch           | 2-in-6                   | _Wild animals, flooding, broken equipment, falling rocks, unsafe shelters, hunter's traps_            |
+| **Deserts, jungle, swamp**    | **Perilous**          | +2 Watches         | 4-in-6                   | _Quicksand, sucking mud, choking vines, unclean water, poisonous plants and animals, poor navigation_ |
 
 ### Weather Difficulty
 
