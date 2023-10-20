@@ -18,7 +18,7 @@ Amara, Wulf, Mireille, Soren, Freki, Aster, Gerrik, Boreas, Delphine, Matheus
 ## Starting Gear
  
 - Leather whip (d6)
-- Thick gloves
+- Thick gloves (petty)
 - Lure
 - Rope
 

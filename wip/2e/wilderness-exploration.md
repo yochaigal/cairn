@@ -35,7 +35,13 @@ search_exclude: true
 - The party has a rough idea of the challenges involved to get to their destination, but rarely any specifics. 
 
 > ### Hexes
-> When using a hex map, assume that the **Travel** action moves the party to an adjacent tile in one **watch** at _Normal_ **travel speed**, and that if they [**get lost**](#getting-lost), the party ends up in a random adjacent hex.
+> When using a hex map, assume that the **Travel** action moves the party to an adjacent tile, and that if they [**get lost**](#getting-lost), the party ends up in a random adjacent hex.
+
+## Travel Duration
+
+Traveling by maintained road incurres no penalties to a journey. Trails and boats adds one watch to the party's total travel duration. To determine the distance between two points, combine the **Path** and **Terrain** type penalties. Traveling over raw terrain always incurs a penalty of _two_ watches. If the party covers multiple types of terrain, only include penalties for the _most difficult_ terrain. 
+
+For example, if two **points** on the map are connected by a forest road, the total travel distance would be 2 **Watches** (+0 Watches for the road, +2 Watches for the **Tough** terrain). 
 
 ## Wilderness Exploration Cycle
 
@@ -72,12 +78,14 @@ search_exclude: true
 
 ### Terrain Difficulty
 
-|                               |                       |                     |                          |                                                                                                       |
-| ----------------------------- | --------------------- | ------------------- | ------------------------ | ----------------------------------------------------------------------------------------------------- |
-| **Terrain**                   | **Travel Difficulty** | **Travel Duration** | **Odds of Getting Lost** | **Examples**                                                                                          |
-| **Roads, grasslands, plains** | **Easy**              | _Normal_           | None                     | _Smooth roads, safe areas for rest, fellow travellers_                                                |
-| **Forests, mountains, hills** | **Tough**             | +1 Watch           | 2-in-6                   | _Wild animals, flooding, broken equipment, falling rocks, unsafe shelters, hunter's traps_            |
-| **Deserts, jungle, swamp**    | **Perilous**          | +2 Watches         | 4-in-6                   | _Quicksand, sucking mud, choking vines, unclean water, poisonous plants and animals, poor navigation_ |
+
+|      |      |      |      |      |
+| ---- | ---- | ---- | ---- | ---- |
+| **Difficulty** | **Terrain** | **Penalty** | **Odds of Getting Lost** | **Examples**                                                                                          |
+| **Easy**              | **Plains, grasslands, valleys** | +1 Watch           | None                     | _Smooth roads, safe areas for rest, fellow travelers_                                                |
+| **Tough**             | **Forests, deserts, hills** | +2 Watches           | 2-in-6                   | _Wild animals, flooding, broken equipment, falling rocks, unsafe shelters, hunter's traps_            |
+| **Perilous**          | **Mountains, jungle, swamp** | +3 Watches         | 4-in-6                   | _Quicksand, sucking mud, choking vines, unclean water, poisonous plants and animals, poor navigation_ |
+
 
 ### Weather Difficulty
 
