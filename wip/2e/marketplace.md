@@ -85,7 +85,6 @@ search_exclude: true
 | Whistle (_petty_)                                  | 15  |
 | Wilderness Clothes (_petty_) (Poncho, Cloak, etc.) | 15  |
 
-
 ## Transport
 
 |                          |     |

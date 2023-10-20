@@ -26,11 +26,11 @@ Unther, Woozy, Hilda, Current, Leif, Ratan, Mourella, Lal, Per, Madrigal
 
 |       |                                                                                                                                                                        |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Shrieking Trumpet**. When exposed to light it screams so loudly that all nearby attacks (including your own) are _impaired_.                                         |
+| **1** | **Shrieking Trumpet**. When exposed to light it screams so loudly that all nearby attacks (including your own) are _impaired_. 2 uses.                                        |
 | **2** | **Torch Fungus**. When crushed it creates a heatless light for ten minutes. 3 uses.                                                                                    |
 | **3** | **Murderous Truffle**. Pungent, highly toxic, and very rare (worth 50gp to assassins).  Illegal pretty much everywhere.                                                 |
 | **4** | **Hellcap**. Exposure to its aroma causes intense nausea and vomiting. Either way, it clears the room. Bottled (1 use).                                                |
-| **5** | **Sproutcup**. Ingest to shrink down to the size of a mouse (your belongings stay the same size). You return to normal size within the hour, often in fits and starts. |
+| **5** | **Sproutcup**. Ingest to shrink down to the size of a mouse (your belongings stay the same size). You return to normal size within the hour, often in fits and starts. 1 use. |
 | **6** | **Rootflower**. A white fungus found only on corpses deep underground. Ingest to restore d6 WIL. You will dream of the dead, and their stories. 1 use.                 |
 
 ## What keeps you sane, even in utter darkness? Roll 1d6:
