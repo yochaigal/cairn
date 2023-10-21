@@ -21,7 +21,6 @@ To determine the distance between two points, combine the **Path** and **Terrain
 
 ### Terrain Difficulty
 
-
 |      |      |      |      |      |
 | ---- | ---- | ---- | ---- | ---- |
 | **Difficulty** | **Terrain** | **Penalty** | **Odds of Getting Lost** | **Examples**                                                                                          |
