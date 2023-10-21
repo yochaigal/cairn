@@ -39,11 +39,9 @@ search_exclude: true
 
 ## Travel Duration
 
-- Traveling by maintained road incurs no penalties to travel, while trails add one watch. Traveling through the wilderness always adds _two_ watches. 
-- If the party covers multiple types of terrain, only include penalties for the _most difficult_ terrain. 
-- Mounts, guides, and maps can increase the party's travel speed or even overcome a terrain's **Difficulty**. 
+Traveling by maintained road incurs no penalties to travel, while trails add one watch. Traveling through the wilderness always adds _two_ watches. Rivers are treated as trails (provided the party has a boat). The party only incurs penalties for the _most difficult_ terrain they pass through. Mounts, guides, and maps can increase the party's travel speed or even overcome other penalties. 
 
-To determine the distance between two points, combine the **Path** and **Terrain** type penalties. For example, if two **points** on the map are connected by a forest road, the total travel distance would be 2 **Watches** (+0 Watches for the road and +2 Watches for the **Tough** terrain).
+To determine the distance between two points, combine the **Path** and **Terrain** type penalties. For example, if two **points** on the map are connected by a forest road, the total travel distance would be 2 **Watches** (+0 Watches for the road and +2 Watches for the **Tough** terrain). 
 
 ## Wilderness Exploration Cycle
 
