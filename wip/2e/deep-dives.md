@@ -15,7 +15,30 @@ search_exclude: true
 
 Travel time in Cairn is counted in watches, divided into three eight-hour segments per day. However, as most parties elect to spend the third watch of the day resting, one can use "days" as a shorthand for travel. For example, if the distance between two points is equal to three watches of travel, the party will need to travel for at least one day to arrive at their destination. 
 
-Traveling by maintained road incures no penalties to a journey. Trails and boats adds one watch to the party's total travel duration. To determine the distance between two points, combine the **Path** and **Terrain** type penalties. Traveling through the wilderness always incurs a penalty of _two_ watches. If the party covers multiple types of terrain, only include penalties for the _most difficult_ terrain. 
+Traveling by maintained road incures no penalties to a journey. Trails and boats adds one watch to the party's total travel duration. Traveling through the wilderness always incurs a penalty of _two_ watches. If the party covers multiple types of terrain, only include penalties for the _most difficult_ terrain. To determine the distance between two points, combine the **Path** and **Terrain** type penalties.
+
+### Terrain Difficulty
+
+
+|      |      |      |      |      |
+| ---- | ---- | ---- | ---- | ---- |
+| **Difficulty** | **Terrain** | **Penalty** | **Odds of Getting Lost** | **Examples**                                                                                          |
+| **Easy**              | **Plains, grasslands, valleys** | +1 Watch           | None                     | _Smooth roads, safe areas for rest, fellow travelers_                                                |
+| **Tough**             | **Forests, deserts, hills** | +2 Watches           | 2-in-6                   | _Wild animals, flooding, broken equipment, falling rocks, unsafe shelters, hunter's traps_            |
+| **Perilous**          | **Mountains, jungle, swamp** | +3 Watches         | 4-in-6                   | _Quicksand, sucking mud, choking vines, unclean water, poisonous plants and animals, poor navigation_ |
+
+
+### Weather Difficulty
+
+|                  |                                                                                                 |                                                           |
+| :--------------: | ----------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
+|   **Weather**    | **Effect**                                                                                      | **Examples**                                              |
+|     **Nice**     | Favorable conditions for travel.                                                                | _Clear skies, sunny_                                      |
+|     **Fair**     | Favorable conditions for travel.                                                                | _Overcast, breezy_                                        |
+|  **Unpleasant**  | Add a **Fatigue** _or_ add one **watch** to the journey.                                        | _Gusting winds, rain showers, sweltering heat, chill air_ |
+|  **Inclement**   | Add a **Fatigue** _or_ add one **watch** to the journey. **Difficulty** increases by one step.  | _Thunderstorms & lightning, rain, muddy ground_           |
+|   **Extreme**    | Add a **Fatigue** _and_ add one **watch** to the journey. **Difficulty** increases by one step. | _Blizzards, freezing winds, flooding, mud slides_         |
+| **Catastrophic** | Most parties cannot travel under these conditions.                                              | _Tornados, tidal waves, hurricane, volcanic eruption_     |
 
 ### Creating a Pointcrawl
 

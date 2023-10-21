@@ -39,7 +39,7 @@ search_exclude: true
 
 ## Travel Duration
 
-Traveling by maintained road incures no penalties to a journey. Trails and boats adds one watch to the party's total travel duration. To determine the distance between two points, combine the **Path** and **Terrain** type penalties. Traveling through the wilderness incurs a penalty of _two_ watches. If the party covers multiple types of terrain, only include penalties for the _most difficult_ terrain. 
+Traveling by maintained road incures no penalties to a journey. Trails and boats adds one watch to the party's total travel duration. Traveling through the wilderness incurs a penalty of _two_ watches. If the party covers multiple types of terrain, only include penalties for the _most difficult_ terrain. To determine the distance between two points, combine the **Path** and **Terrain** type penalties. 
 
 For example, if two **points** on the map are connected by a forest road, the total travel distance would be 2 **Watches** (+0 Watches for the road, +2 Watches for the **Tough** terrain). 
 
