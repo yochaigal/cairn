@@ -75,8 +75,8 @@ To determine the distance between two points, combine the **Path** and **Terrain
 ## Difficulty
 
 - An area's [**weather**](#weather-difficulty), [**terrain**](#terrain-difficulty), obstacles, [**night travel**](#night), and _deprived_ or injured party members can reduce the party's speed or make travel impossible. 
-- Mounts, guides, and maps can increase the party's travel speed or even overcome a terrain's **Difficulty**. The party may also need to add **Fatigue**, spend resources, tools or other resource in order to sustain their pace.  
-- Maintained roads and trails should be considered **Easy** unless the terrain or weather say otherwise.
+- Mounts, guides, and maps can increase the party's travel speed or even overcome a terrain's **Difficulty**. 
+- The party may need to add **Fatigue**, spend resources, tools or other resource in order to sustain their pace.  
 
 ### Terrain Difficulty
 
