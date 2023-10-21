@@ -60,10 +60,12 @@ The travel times between each point were determined as follows (assuming that th
 - The journey between **2** and **4** takes two watches:
   - No penalty for traveling on a maintained road.
   - Add two watches for the _Tough_ forest terrain.
-- The journey between **4** and **6** takes one watch due to the maintained road.
+- The journey between **4** and **6** takes one watch: 
+  - No penalty for traveling on a maintained road.
+  - Add one watch for the _Easy_ countryside terrain.
 - The journey between **4** and **5** takes 3 watches:
   - Add one watch for the trail through the woods.
-  - Add one watch for the _Tough_ forest terrain.
+  - Add two watches for the _Tough_ forest terrain.
 - The journey to **3** from the nearest adjacent points:
   -  +2 for traveling over raw terrain
-  -  +2 for traverling through _Tough_ forest terrain.
+  -  +2 for traveling through the _Tough_ forest terrain.
