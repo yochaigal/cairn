@@ -64,5 +64,5 @@ The travel times between each point were determined as follows (assuming that th
   - Add one watch for the trail through the woods.
   - Add two watches for the _Tough_ forest terrain.
 - The journey to **3** from the nearest adjacent points:
-  -  +2 for traveling over raw terrain
+  -  +2 for traveling an untrodden path.
   -  +2 for traveling through the _Tough_ forest terrain.
