@@ -45,14 +45,14 @@ To determine the distance between two points, combine the **Path** and **Terrain
 
 ## Wilderness Exploration Cycle
 
-1. The **Warden** describes the current **point** or **region** on the map, and how the current [**Difficulty**](#difficulty) affects the party's **travel speed**. The party plots or adjusts a given course towards their destination. 
-2. Each party member chooses a single **Wilderness Action**. The **Warden** narrates the results for each, and then rolls on the [**Wilderness Events**](#wilderness-events) table. The party responds to the results.
+1. The **Warden** describes the current **point** or **region** on the map and how the current [**Difficulty**](#difficulty) affects the party's **travel speed**. The party plots or adjusts a given course towards their destination. 
+2. Each party member chooses a single **Wilderness Action**. The **Warden** narrates the results for each and then rolls on the [**Wilderness Events**](#wilderness-events) table. The party responds to the results.
 3. The **players** and the **Warden** record any loss of resources and new conditions (i.e. torch use, _deprivation_, etc), and the cycle repeats. 
 
 ## Night
 
 - The party can choose to travel during the night and rest during the day, but night travel is far slower and more treacherous!
-- Traveling at night _always_ increases the **Difficulty** by one step (i.e. **Easy** terrain becomes **Tough**), and the **Warden** rolls twice on the [**Wilderness Events**](#wilderness-events) table.
+- Traveling at night _always_ increases the **Difficulty** by one step (i.e. **Easy** terrain becomes **Tough**) and the **Warden** rolls twice on the [**Wilderness Events**](#wilderness-events) table.
 - Some terrain and weather may be easier to traverse at night (desert, for example). The **Warden** should balance these challenges along with any other.
 
 ### Sleep
