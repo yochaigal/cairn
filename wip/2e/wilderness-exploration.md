@@ -41,7 +41,7 @@ search_exclude: true
 
 Travel time in Cairn is counted in Watches, divided into three eight-hour segments per day. However, as most parties elect to spend the third Watch of the day resting, one can use "Days" as a shorthand for travel. For example, if the distance between two points is equal to four Watches, the party would need to travel for two Days, arriving in the evening of the second day.
 
-Traveling by maintained road incurs no penalties to travel, while trails add one Watch to the journey. Traveling through the wilderness always adds two Watches, and waterway travel is determined by factors such as boat size, weather, and waterflow. Mounts, guides, and maps can increase the party's travel speed or even negate certain penalties. The party only incurs penalties for the most challenging terrain they navigate.I think
+Traveling by maintained road incurs no penalties to travel, while trails add one Watch to the journey. Traveling through the wilderness always adds two Watches, and waterway travel is determined by factors such as boat size, weather, and waterflow. The party only incurs penalties for the most challenging terrain they navigate. Mounts, guides, and maps can increase the party's travel speed or even negate certain penalties.
 
 To determine the distance between two points, combine the penalties from both **Path** and **Terrain** types. For instance, if two **points** on the map are connected by a forest road, the total travel distance would be 2 Watches (+0 Watches for the road and +2 Watches for the _Tough_ terrain).
 
