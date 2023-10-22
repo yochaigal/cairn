@@ -54,7 +54,6 @@ The travel times between each point were determined as follows (assuming that th
 - The journey between points **1** to **2** takes 4 watches (two days):  
   - Add one watch for the trail through the mountains and grasslands.
   - Add three watches for the _Perilous_ mountain terrain.
-  - Add one watch for the _Easy_ grasslands.
 - The journey between **2** and **4** takes two watches:
   - No penalty for traveling on a maintained road.
   - Add two watches for the _Tough_ forest terrain.
