@@ -69,7 +69,7 @@ The travel times between each point were determined as follows (assuming that th
 - The journey between points **1** to **2** is 6 watches:  
   - Add one watch for the trail through the mountains and forests.
   - Add three watches for the _Perilous_ mountain terrain, and 2 watches for the forest.
-- The journey between **2** and **3** takes 3 watches:
+- The journey between **2** and **3** takes 4 watches:
   - Add one watch for the trail through the mountains.
   - Add three watches for the _Perilous_ mountain terrain.
 - The journey between **2** and **4** takes three watches:
@@ -85,4 +85,4 @@ The travel times between each point were determined as follows (assuming that th
 - The journey to **7** from anywhere should consider:
   -  +2 for traveling through the wilderness
   -  +2 for traveling through the _Tough_ forest terrain.
-  -  +1 watch for the extensive forest (longer journey)
+  -  +1 watch if traveling from further away.
