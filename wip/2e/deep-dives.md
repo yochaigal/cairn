@@ -17,7 +17,7 @@ Travel time in Cairn is counted in Watches, divided into three eight-hour segmen
 
 To determine the distance between two points, combine the penalties from both **Path** and **Terrain** types. Consult the [Terrain](#terrain-difficulty) and [Path Difficulty](#path-difficulty) tables to determine the appropriate penalty to travel. For instance, if two **points** on the map are connected by a forest trail, the total travel distance would be 3 Watches (+1 Watch for the winding trail and +2 Watches for the _Tough_ wooded terrain). 
 
-Traveling by a maintained road incurs _no_ penalties to travel, while trails add one Watch to the journey. Traveling through the wilderness _always_ adds two Watches. For travel via waterways, refer to the surrounding terrain difficulty. Tally any new penalties the party would encounter due to a change in paths or terrain during the journey. For longer journeys, add up to +3 Watches as penalty. Mounts, guides, and maps can increase the party's travel speed or even negate certain penalties. 
+Traveling by a maintained road incurs _no_ penalties to travel, while trails add one Watch to the journey. Traveling through the wilderness _always_ adds two Watches. For travel via waterways, refer to the surrounding terrain difficulty. Include penalties from any changes in paths or terrain along the route, and for longer journeys add up to +3 Watches. Mounts, guides, and maps can increase the party's travel speed or even negate certain penalties. 
 
 ### Path Difficulty
 
@@ -36,17 +36,6 @@ Traveling by a maintained road incurs _no_ penalties to travel, while trails add
 | **Tough**      | **Forests, deserts, hills**     | +2 Watches  | 2-in-6                   | _Wild animals, flooding, broken equipment, falling rocks, unsafe shelters, hunter's traps_            |
 | **Perilous**   | **Mountains, jungle, swamp**    | +3 Watches  | 4-in-6                   | _Quicksand, sucking mud, choking vines, unclean water, poisonous plants and animals, poor navigation_ |
 
-### Weather Difficulty
-
-|                  |                                                                                                 |                                                           |
-| :--------------: | ----------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
-|   **Weather**    | **Effect**                                                                                      | **Examples**                                              |
-|     **Nice**     | Favorable conditions for travel.                                                                | _Clear skies, sunny_                                      |
-|     **Fair**     | Favorable conditions for travel.                                                                | _Overcast, breezy_                                        |
-|  **Unpleasant**  | Add a **Fatigue** _or_ add one **watch** to the journey.                                        | _Gusting winds, rain showers, sweltering heat, chill air_ |
-|  **Inclement**   | Add a **Fatigue** _or_ add one **watch** to the journey. **Difficulty** increases by one step.  | _Thunderstorms & lightning, rain, muddy ground_           |
-|   **Extreme**    | Add a **Fatigue** _and_ add one **watch** to the journey. **Difficulty** increases by one step. | _Blizzards, freezing winds, flooding, mud slides_         |
-| **Catastrophic** | Most parties cannot travel under these conditions.                                              | _Tornados, tidal waves, hurricane, volcanic eruption_     |
 
 ### Creating a Pointcrawl
 
