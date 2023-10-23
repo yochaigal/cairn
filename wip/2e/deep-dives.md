@@ -13,18 +13,18 @@ search_exclude: true
 
 ### Time & Travel Duration
 
-Travel time in Cairn is counted in watches, divided into three eight-hour segments per day. However, as most parties elect to spend the third watch of the day resting, one can use "days" as a shorthand for travel. For example, if the distance between two points is equal to four watches, the party would need to travel for two days, arriving in the evening of the second day.
+Travel time in Cairn is counted in Watches, divided into three eight-hour segments per day. However, as most parties elect to spend the third Watch of the day resting, one can use "Days" as a shorthand for travel. For example, if the distance between two points is equal to four Watches, the party would need to travel for two Days, arriving in the evening of the second day. 
 
-Traveling by maintained road incurs no penalties to travel, while trails add one watch. Traveling through the wilderness always adds _two_ watches. Rivers are treated as trails (provided the party has a boat). The party only incurs penalties for the _most difficult_ terrain they pass through. Mounts, guides, and maps can increase the party's travel speed or even overcome other penalties. 
+Traveling by maintained road incurs no penalties to travel, while trails add one Watch to the journey. Traveling through the wilderness always adds two Watches, and waterway travel is determined by factors such as boat size, weather, and waterflow. The party only incurs penalties for the most challenging terrain they navigate. Mounts, guides, and maps can increase the party's travel speed or even negate certain penalties. 
 
-To determine the distance between two points, combine the **Path** and **Terrain** type penalties. For example, if two **points** on the map are connected by a forest road, the total travel distance would be 2 **Watches** (+0 Watches for the road and +2 Watches for the **Tough** terrain). 
+To determine the distance between two points, combine the penalties from both **Path** and **Terrain** types. For instance, if two **points** on the map are connected by a forest road, the total travel distance would be 2 Watches (+0 Watches for the road and +2 Watches for the _Tough_ terrain).
 
 ### Terrain Difficulty
 
 |      |      |      |      |      |
 | ---- | ---- | ---- | ---- | ---- |
 | **Difficulty** | **Terrain** | **Penalty** | **Odds of Getting Lost** | **Examples**                                                                                          |
-| **Easy**              | **Plains, grasslands, valleys** | +1 Watch           | None                     | _Smooth roads, safe areas for rest, fellow travelers_                                                |
+| **Easy**              | **Plains, grasslands, valleys** | +1 Watch           | None                     | _Safe areas for rest, fellow travelers, good visibilities_                                                |
 | **Tough**             | **Forests, deserts, hills** | +2 Watches           | 2-in-6                   | _Wild animals, flooding, broken equipment, falling rocks, unsafe shelters, hunter's traps_            |
 | **Perilous**          | **Mountains, jungle, swamp** | +3 Watches         | 4-in-6                   | _Quicksand, sucking mud, choking vines, unclean water, poisonous plants and animals, poor navigation_ |
 
