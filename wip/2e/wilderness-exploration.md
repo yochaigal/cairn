@@ -39,22 +39,22 @@ search_exclude: true
 
 ## Travel Duration
 
-Travel time in Cairn is counted in Watches, divided into three eight-hour segments per day. However, as most parties elect to spend the third Watch of the day resting, one can use "Days" as a shorthand for travel. For example, if the distance between two points is equal to four Watches, the party would need to travel for two Days, arriving in the evening of the second day.
+Travel time in Cairn is counted in Watches, divided into three eight-hour segments per day. However, as most parties elect to spend the third Watch of the day resting, one can use "Days" as a shorthand for travel. For example, if the distance between two points is equal to four Watches, the party would need to travel for two Days, arriving in the evening of the second day. 
 
-Traveling by maintained road incurs no penalties to travel, while trails add one Watch to the journey. Traveling through the wilderness always adds two Watches, and waterway travel is determined by factors such as boat size, weather, and waterflow. The party only incurs penalties for the most challenging terrain they navigate. Mounts, guides, and maps can increase the party's travel speed or even negate certain penalties.
+To determine the distance between two points, combine the penalties from both **Path** and **Terrain** types. Consult the [Terrain](#terrain-difficulty) and [Path Difficulty](#path-difficulty) tables to determine the appropriate penalty to travel. For instance, if two **points** on the map are connected by a forest trail, the total travel distance would be 3 Watches (+1 Watch for the winding trail and +2 Watches for the _Tough_ wooded terrain). 
 
-To determine the distance between two points, combine the penalties from both **Path** and **Terrain** types. For instance, if two **points** on the map are connected by a forest road, the total travel distance would be 2 Watches (+0 Watches for the road and +2 Watches for the _Tough_ terrain).
+Traveling by a maintained road incurs _no_ penalties to travel, while trails add one Watch to the journey. Traveling through the wilderness _always_ adds two Watches. For travel via waterways, refer to the surrounding terrain difficulty. Include penalties from any changes in paths or terrain along the route, and for longer journeys add up to +3 Watches. Mounts, guides, and maps can increase the party's travel speed or even negate certain penalties. 
 
 ## Wilderness Exploration Cycle
 
-1. The **Warden** describes the current **point** or **region** on the map and how the current [**Difficulty**](#difficulty) affects the party's **travel speed**. The party plots or adjusts a given course towards their destination. 
-2. Each party member chooses a single **Wilderness Action**. The **Warden** narrates the results for each and then rolls on the [**Wilderness Events**](#wilderness-events) table. The party responds to the results.
+1. The **Warden** describes the current **point** or **region** on the map, and how the current [**Difficulty**](#difficulty) affects the party's **travel speed**. The party plots or adjusts a given course towards their destination. 
+2. Each party member chooses a single **Wilderness Action**. The **Warden** narrates the results for each, and then rolls on the [**Wilderness Events**](#wilderness-events) table. The party responds to the results.
 3. The **players** and the **Warden** record any loss of resources and new conditions (i.e. torch use, _deprivation_, etc), and the cycle repeats. 
 
 ## Night
 
 - The party can choose to travel during the night and rest during the day, but night travel is far slower and more treacherous!
-- Traveling at night _always_ increases the **Difficulty** by one step (i.e. **Easy** terrain becomes **Tough**) and the **Warden** rolls twice on the [**Wilderness Events**](#wilderness-events) table.
+- Traveling at night _always_ increases the **Difficulty** by one step (i.e. **Easy** terrain becomes **Tough**), and the **Warden** rolls twice on the [**Wilderness Events**](#wilderness-events) table.
 - Some terrain and weather may be easier to traverse at night (desert, for example). The **Warden** should balance these challenges along with any other.
 
 ### Sleep
@@ -88,6 +88,13 @@ To determine the distance between two points, combine the penalties from both **
 | **Tough**             | **Forests, deserts, hills** | +2 Watches           | 2-in-6                   | _Wild animals, flooding, broken equipment, falling rocks, unsafe shelters, hunter's traps_            |
 | **Perilous**          | **Mountains, jungle, swamp** | +3 Watches         | 4-in-6                   | _Quicksand, sucking mud, choking vines, unclean water, poisonous plants and animals, poor navigation_ |
 
+### Path Difficulty
+
+| **Path**   | **Penalty** |
+| ---------- | ----------- |
+| Roads      | +0 Watches  |
+| Trails     | +1 Watch    |
+| Wilderness | +2 Watches  |
 
 ### Weather Difficulty
 
