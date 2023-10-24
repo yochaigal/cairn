@@ -35,7 +35,7 @@ search_exclude: true
 - The party has a rough idea of the challenges involved to get to their destination, but rarely any specifics. 
 
 > ### Hexes
-> When using a hex map, assume that the **Travel** action moves the party to an adjacent tile, and that if they [**get lost**](#getting-lost), the party ends up in a random adjacent hex.
+> When using a hex map, assume a tile takes one watch to cross, and that if the party [**gets lost**](#getting-lost), they end up in a random adjacent hex.
 
 ## Travel Duration
 
@@ -56,14 +56,14 @@ The [**weather**](#weather-difficulty), [**terrain**](#terrain-difficulty), [**n
 ## Night
 
 - The party can choose to travel during the night and rest during the day, but night travel is far slower and more treacherous!
-- Traveling at night _always_ increases the [Terrain Difficulty](#terrain-difficulty) by one step (i.e. **Easy** terrain becomes **Tough**) and the **Warden** rolls twice on the [**Wilderness Events**](#wilderness-events) table.
+- Traveling at night _always_ increases the [Terrain Difficulty](#terrain-difficulty) by one step (i.e. _Easy_ terrain becomes _Tough_) and the **Warden** rolls twice on the [**Wilderness Events**](#wilderness-events) table.
 - Some terrain and weather may be easier to traverse at night (desert, for example). The **Warden** should balance these challenges along with any other.
 
 ### Sleep
 
 - The last **watch** of the day is typically reserved for the [**Make Camp**](#make-camp) action.
 - Characters typically need to sleep each day. Anything beyond a minor interruption can negate or cancel the benefits of sleep.
-- If the party skips the **Make Camp** action, they each add a **Fatigue** to their inventory, and are _deprived_. Additionally, traveling when sleep-deprived raises the terrain **Difficulty** by one step (i.e. **Easy** becomes **Tough**).
+- If the party skips the **Make Camp** action, they each add a **Fatigue** to their inventory, and are _deprived_. Additionally, traveling when sleep-deprived raises the terrain **Difficulty** by one step (i.e. _Easy_ becomes _Tough_).
 
 ### Light
 
@@ -74,35 +74,36 @@ The [**weather**](#weather-difficulty), [**terrain**](#terrain-difficulty), [**n
 > ### Light Sources
 > A torch can be lit 3 times before degrading. A lantern can be relit indefinitely, but requires an oil can (6 uses).
 
+### Path Difficulty
+
+|                |                  |
+| -------------- | ---------------- |
+| **Path**       | **Penalty**      |
+| Roads          | +0 Watches       |
+| Trails         | +1 Watch         |
+| Wilderness     | +2 Watches       |
+
 ### Terrain Difficulty
 
 
-|      |      |      |      |      |
-| ---- | ---- | ---- | ---- | ---- |
-| **Difficulty** | **Terrain** | **Penalty** | **Odds of Getting Lost** | **Examples**                                                                                          |
-| **Easy**              | **Plains, grasslands, valleys** | +1 Watch           | None                     | _Safe areas for rest, fellow travelers, good visibilities_                                            |
-| **Tough**             | **Forests, deserts, hills** | +2 Watches           | 2-in-6                   | _Wild animals, flooding, broken equipment, falling rocks, unsafe shelters, hunter's traps_            |
-| **Perilous**          | **Mountains, jungle, swamp** | +3 Watches         | 4-in-6                   | _Quicksand, sucking mud, choking vines, unclean water, poisonous plants and animals, poor navigation_ |
-
-### Path Difficulty
-
-| **Path**   | **Penalty** |
-| ---------- | ----------- |
-| Roads      | +0 Watches  |
-| Trails     | +1 Watch    |
-| Wilderness | +2 Watches  |
+|                |                                 |             |                          |                                                                                                       |
+| -------------- | ------------------------------- | ----------- | ------------------------ | ----------------------------------------------------------------------------------------------------- |
+| **Difficulty** | **Terrain**                     | **Penalty** | **Odds of Getting Lost** | **Examples**                                                                                          |
+| **Easy**       | **Plains, grasslands, valleys** | +1 Watch    | None                     | _Safe areas for rest, fellow travelers, good visibilities_                                            |
+| **Tough**      | **Forests, deserts, hills**     | +2 Watches  | 2-in-6                   | _Wild animals, flooding, broken equipment, falling rocks, unsafe shelters, hunter's traps_            |
+| **Perilous**   | **Mountains, jungle, swamp**    | +3 Watches  | 4-in-6                   | _Quicksand, sucking mud, choking vines, unclean water, poisonous plants and animals, poor navigation_ |
 
 ### Weather Difficulty
 
-|                  |                                                                                                 |                                                           |
-| :--------------: | ----------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
-|   **Weather**    | **Effect**                                                                                      | **Examples**                                              |
-|     **Nice**     | Favorable conditions for travel.                                                                | _Clear skies, sunny_                                      |
-|     **Fair**     | Favorable conditions for travel.                                                                | _Overcast, breezy_                                        |
-|  **Unpleasant**  | Add a **Fatigue** _or_ add one **watch** to the journey.                                        | _Gusting winds, rain showers, sweltering heat, chill air_ |
+|                  |                                                                                                         |                                                           |
+| :--------------: | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
+|   **Weather**    | **Effect**                                                                                              | **Examples**                                              |
+|     **Nice**     | Favorable conditions for travel.                                                                        | _Clear skies, sunny_                                      |
+|     **Fair**     | Favorable conditions for travel.                                                                        | _Overcast, breezy_                                        |
+|  **Unpleasant**  | Add a **Fatigue** _or_ add one **watch** to the journey.                                                | _Gusting winds, rain showers, sweltering heat, chill air_ |
 |  **Inclement**   | Add a **Fatigue** _or_ add one **watch** to the journey. Terrain **Difficulty** increases by one step.  | _Thunderstorms & lightning, rain, muddy ground_           |
 |   **Extreme**    | Add a **Fatigue** _and_ add one **watch** to the journey. Terrain **Difficulty** increases by one step. | _Blizzards, freezing winds, flooding, mud slides_         |
-| **Catastrophic** | Most parties cannot travel under these conditions.                                              | _Tornados, tidal waves, hurricane, volcanic eruption_     |
+| **Catastrophic** | Most parties cannot travel under these conditions.                                                      | _Tornados, tidal waves, hurricane, volcanic eruption_     |
 
 ## Wilderness Actions
 
@@ -110,7 +111,7 @@ The [**weather**](#weather-difficulty), [**terrain**](#terrain-difficulty), [**n
 
 - Travel begins. Obvious locations, features, and terrain of nearby areas are revealed according to their distance. This action is typically taken by the entire party as one.
 - The party rolls 1d6 to see if they get lost along the way. This risk can increase or decrease, depending on the terrain and weather **Difficulty**, items, skills, and relevant backgrounds of the party.
-- If lost, the party may need to spend a **Wilderness Action** to recover their way. Otherwise, the party reaches the next **point** along their route. Remember to compare the results of getting lost to the relevant terrain or weather **Difficulty**. For example, **Tough** terrain in Fair weather would require a roll of 2 or under in order for the party to get lost.  
+- If lost, the party may need to spend a **Wilderness Action** to recover their way. Otherwise, the party reaches the next **point** along their route. Remember to compare the results of getting lost to the relevant terrain or weather **Difficulty**. For example, _Tough_ terrain in Fair weather would require a roll of 2 or under in order for the party to get lost.  
 
 ### Explore
 
