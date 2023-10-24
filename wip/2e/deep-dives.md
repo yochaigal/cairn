@@ -13,16 +13,19 @@ search_exclude: true
 
 ### Time & Travel Duration
 
-Travel time in Cairn is counted in Watches, divided into three eight-hour segments per day. However, as most parties elect to spend the third Watch of the day resting, one can use "Days" as a shorthand for travel. For example, if the distance between two points is equal to four Watches, the party would need to travel for two Days, arriving in the evening of the second day. 
+Travel time in Cairn is counted in watches, divided into three eight-hour segments per day. However, as most parties elect to spend the third watch of the day resting, one can use "Days" as a shorthand for travel. For example, if the distance between two points is equal to four watches, the party would need to travel for two Days, arriving in the evening of the second day. 
 
-To determine the distance between two points, combine the penalties from both **Path** and **Terrain** types. Consult the [Terrain](#terrain-difficulty) and [Path Difficulty](#path-difficulty) tables to determine the appropriate penalty to travel. For instance, if two **points** on the map are connected by a forest trail, the total travel distance would be 3 Watches (+1 Watch for the winding trail and +2 Watches for the _Tough_ wooded terrain). 
+To determine the distance between two points, combine the penalties from both **Path** and **Terrain** types. Consult the [Terrain](#terrain-difficulty) and [Path Difficulty](#path-difficulty) tables to determine the appropriate penalty to travel. For instance, if two **points** on the map are connected by a forest trail, the total travel distance would be 3 watches (+1 watch for the winding trail and +2 watches for the _Tough_ wooded terrain). 
 
-Traveling by a maintained road incurs _no_ penalties to travel, while trails add one Watch to the journey. Traveling through the wilderness _always_ adds two Watches. For travel via waterways, refer to the surrounding terrain difficulty. Include penalties from any changes in paths or terrain along the route, and for longer journeys add up to +3 Watches. Mounts, guides, and maps can increase the party's travel speed or even negate certain penalties. 
+Traveling by a maintained road incurs _no_ penalties to travel, while trails add one watch to the journey. Traveling through the wilderness _always_ adds two watches. Include penalties from any changes in paths or terrain along the route, and for longer journeys add up to +3 watches. For travel via waterways, refer to the surrounding terrain difficulty. 
+
+The [**weather**](#weather-difficulty), [**terrain**](#terrain-difficulty), [**night travel**](#night), _deprived_ or injured party members, or other obstacles can reduce the party's speed, or make travel impossible! In some cases, the party need to add **Fatigue**, spend resources, tools or other resource in order to sustain their pace. Mounts, guides, and maps can increase the party's travel speed or even negate certain penalties.  
 
 ### Path Difficulty
 
-| **Path**   | **Penalty** |
+|            |             |
 | ---------- | ----------- |
+| **Path**   | **Penalty** |
 | Roads      | +0 Watches  |
 | Trails     | +1 Watch    |
 | Wilderness | +2 Watches  |
