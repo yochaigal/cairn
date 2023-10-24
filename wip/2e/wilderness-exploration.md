@@ -49,7 +49,7 @@ Traveling by a maintained road incurs _no_ penalties to travel, while trails add
 
 1. The **Warden** describes the current **point** or **region** on the map, and how the current [**Difficulty**](#difficulty) affects the party's **travel speed**. The party plots or adjusts a given course towards their destination. 
 2. Each party member chooses a single **Wilderness Action**. The **Warden** narrates the results for each, and then rolls on the [**Wilderness Events**](#wilderness-events) table. The party responds to the results.
-3. The **players** and the **Warden** record any loss of resources and new conditions (i.e. torch use, _deprivation_, etc), and the cycle repeats. 
+3. The **players** and the **Warden** record any loss of resources and new conditions (i.e. torch use, _deprivation_, etc) and the cycle repeats. 
 
 ## Night
 
@@ -76,7 +76,7 @@ Traveling by a maintained road incurs _no_ penalties to travel, while trails add
 
 - An area's [**weather**](#weather-difficulty), [**terrain**](#terrain-difficulty), obstacles, [**night travel**](#night), and _deprived_ or injured party members can reduce the party's speed or make travel impossible. 
 - Mounts, guides, and maps can increase the party's travel speed or even overcome a terrain's **Difficulty**. 
-- The party may need to add **Fatigue**, spend resources, tools or other resource in order to sustain their pace.  
+- The party may need to add **Fatigue** or expend resources in order to sustain their pace.  
 
 ### Terrain Difficulty
 
