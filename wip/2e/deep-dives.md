@@ -21,6 +21,9 @@ Traveling by a maintained road incurs _no_ penalties to travel, while trails add
 
 The [**weather**](#weather-difficulty), [**terrain**](#terrain-difficulty), [**night travel**](#night), _deprived_ or injured party members, or other obstacles can reduce the party's speed, or make travel impossible! In some cases, the party need to add **Fatigue**, spend resources, tools or other resource in order to sustain their pace. Mounts, guides, and maps can increase the party's travel speed or even negate certain penalties.  
 
+> #### Hexes
+> When using a hex map, assume a tile takes one watch to cross, and that if the party [**gets lost**](#getting-lost) they end up in a random adjacent hex.
+
 ### Path Difficulty
 
 |            |             |

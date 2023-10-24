@@ -35,7 +35,7 @@ search_exclude: true
 - The party has a rough idea of the challenges involved to get to their destination, but rarely any specifics. 
 
 > ### Hexes
-> When using a hex map, assume a tile takes one watch to cross, and that if the party [**gets lost**](#getting-lost), they end up in a random adjacent hex.
+> When using a hex map, assume a tile takes one watch to cross, and that if the party [**gets lost**](#getting-lost) they end up in a random adjacent hex.
 
 ## Travel Duration
 
