@@ -19,7 +19,7 @@ To determine the distance between two points, combine the penalties from both **
 
 Traveling by a maintained road incurs _no_ penalties to travel, while trails add one watch to the journey. Traveling through the wilderness _always_ adds two watches. Include penalties from any changes in paths or terrain along the route, and for longer journeys add up to +3 watches. For travel via waterways, refer to the surrounding terrain difficulty. 
 
-The [**weather**](#weather-difficulty), [**terrain**](#terrain-difficulty), [**night travel**](#night), _deprived_ or injured party members, or other obstacles can reduce the party's speed, or make travel impossible! In some cases, the party need to add **Fatigue**, spend resources, tools or other resource in order to sustain their pace. Mounts, guides, and maps can increase the party's travel speed or even negate certain penalties.  
+The [**weather**](#weather-difficulty), [**terrain**](#terrain-difficulty), [**night travel**](#night), _deprived_ or injured party members, or other obstacles can reduce the party's speed, or make travel impossible! In some cases, the party need to add **Fatigue** or expend resources in order to sustain their pace. Mounts, guides, and maps can increase the party's travel speed or even negate certain penalties.  
 
 > #### Hexes
 > When using a hex map, assume a tile takes one watch to cross, and that if the party [**gets lost**](#getting-lost) they end up in a random adjacent hex.
