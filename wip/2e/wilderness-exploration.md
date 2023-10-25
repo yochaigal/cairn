@@ -110,27 +110,6 @@ The [**weather**](#weather-difficulty), [**terrain**](#terrain-difficulty), [**n
 | **5** | **Exhaustion**  | The party encounters a barrier, forcing effort, care or delays. This might mean spending extra time (and an additional **Wilderness Action**) or adding **Fatigue** to the PC's inventory to represent their difficulties. |
 | **6** | **Discovery**   | The party finds food, treasure, or other useful resources. The **Warden** can instead choose to reveal the primary feature of the area.                                                                                    |
 
-## Night
-
-- The party can choose to travel during the night and rest during the day, but night travel is far slower and more treacherous!
-- Traveling at night _always_ increases the [Terrain Difficulty](#terrain-difficulty) by one step (i.e. _Easy_ terrain becomes _Tough_) and the **Warden** rolls twice on the [**Wilderness Events**](#wilderness-events) table.
-- Some terrain and weather may be easier to traverse at night (desert, for example). The **Warden** should balance these challenges along with any other.
-
-### Sleep
-
-- The last **watch** of the day is typically reserved for the [**Make Camp**](#make-camp) action.
-- Characters typically need to sleep each day. Anything beyond a minor interruption can negate or cancel the benefits of sleep.
-- If the party skips the **Make Camp** action, they each add a **Fatigue** to their inventory, and are _deprived_. Additionally, traveling when sleep-deprived raises the terrain **Difficulty** by one step (i.e. _Easy_ becomes _Tough_).
-
-### Light
-
-- Torches and other radial sources of light illuminate 40ft ahead of the party, but beyond that only provides a dim outline of objects.
-- Characters without a light source may suffer from _panic_ until their situation is remedied. 
-- Environmental conditions (sudden gusts of wind, dust, water, etc.) can easily blow out a torch.
-
-> ### Light Sources
-> A torch can be lit 3 times before degrading. A lantern can be relit indefinitely, but requires an oil can (6 uses).
-
 ## Wilderness Actions
 
 ### Travel
@@ -156,3 +135,26 @@ The [**weather**](#weather-difficulty), [**terrain**](#terrain-difficulty), [**n
 - The party stops to set up camp in the wilds. Each party member (and their mounts) consume a **Ration**.
 - A **lookout rotation** is set so that the party can sleep unmolested. At least 3 rotations are necessary to ensure that all party members can rest. A smaller party may need to risk sleeping unguarded, or switch off sleeping over multiple days (see [**Sleep**](#sleep)).
 - Party members that were able to rest remove all of **Fatigue** from their inventory.
+
+## Wilderness Elements
+
+### Night
+
+- The party can choose to travel during the night and rest during the day, but night travel is far slower and more treacherous!
+- Traveling at night _always_ increases the [Terrain Difficulty](#terrain-difficulty) by one step (i.e. _Easy_ terrain becomes _Tough_) and the **Warden** rolls twice on the [**Wilderness Events**](#wilderness-events) table.
+- Some terrain and weather may be easier to traverse at night (desert, for example). The **Warden** should balance these challenges along with any other.
+
+### Sleep
+
+- The last **watch** of the day is typically reserved for the [**Make Camp**](#make-camp) action.
+- Characters typically need to sleep each day. Anything beyond a minor interruption can negate or cancel the benefits of sleep.
+- If the party skips the **Make Camp** action, they each add a **Fatigue** to their inventory, and are _deprived_. Additionally, traveling when sleep-deprived raises the terrain **Difficulty** by one step (i.e. _Easy_ becomes _Tough_).
+
+### Light
+
+- Torches and other radial sources of light illuminate 40ft ahead of the party, but beyond that only provides a dim outline of objects.
+- Characters without a light source may suffer from _panic_ until their situation is remedied. 
+- Environmental conditions (sudden gusts of wind, dust, water, etc.) can easily blow out a torch.
+
+> ### Light Sources
+> A torch can be lit 3 times before degrading. A lantern can be relit indefinitely, but requires an oil can (6 uses).
