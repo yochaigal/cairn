@@ -87,8 +87,8 @@ The [**weather**](#weather-difficulty), [**terrain**](#terrain-difficulty), [**n
 |     **Nice**     | Favorable conditions for travel.                                                                        | _Clear skies, sunny_                                      |
 |     **Fair**     | Favorable conditions for travel.                                                                        | _Overcast, breezy_                                        |
 |  **Unpleasant**  | Add a **Fatigue** _or_ add one **watch** to the journey.                                                | _Gusting winds, rain showers, sweltering heat, chill air_ |
-|  **Inclement**   | Add a **Fatigue** _or_ add one **watch** to the journey. Terrain **Difficulty** increases by one step.  | _Thunderstorms & lightning, rain, muddy ground_           |
-|   **Extreme**    | Add a **Fatigue** _and_ add one **watch** to the journey. Terrain **Difficulty** increases by one step. | _Blizzards, freezing winds, flooding, mud slides_         |
+|  **Inclement**   | Add a **Fatigue** _or_ add **+1 watch**. Increase terrain **Difficulty** by a step.  | _Thunderstorms & lightning, rain, muddy ground_           |
+|   **Extreme**    | Add a **Fatigue** _and_ add **+1 watch**. Increase terrain **Difficulty** by a step. | _Blizzards, freezing winds, flooding, mud slides_         |
 | **Catastrophic** | Most parties cannot travel under these conditions.                                                      | _Tornados, tidal waves, hurricane, volcanic eruption_     |
 
 ## Wilderness Exploration Cycle
@@ -141,14 +141,14 @@ The [**weather**](#weather-difficulty), [**terrain**](#terrain-difficulty), [**n
 ### Night
 
 - The party can choose to travel during the night and rest during the day, but night travel is far slower and more treacherous!
-- Traveling at night _always_ increases the [Terrain Difficulty](#terrain-difficulty) by one step (i.e. _Easy_ terrain becomes _Tough_) and the **Warden** rolls twice on the [**Wilderness Events**](#wilderness-events) table.
+- Traveling at night _always_ increases the [Terrain Difficulty](#terrain-difficulty) by a step (i.e. _Easy_ terrain becomes _Tough_) and the **Warden** rolls twice on the [**Wilderness Events**](#wilderness-events) table.
 - Some terrain and weather may be easier to traverse at night (desert, for example). The **Warden** should balance these challenges along with any other.
 
 ### Sleep
 
 - The last **watch** of the day is typically reserved for the [**Make Camp**](#make-camp) action.
 - Characters typically need to sleep each day. Anything beyond a minor interruption can negate or cancel the benefits of sleep.
-- If the party skips the **Make Camp** action, they each add a **Fatigue** to their inventory, and are _deprived_. Additionally, traveling when sleep-deprived raises the terrain **Difficulty** by one step (i.e. _Easy_ becomes _Tough_).
+- If the party skips the **Make Camp** action, they each add a **Fatigue** to their inventory, and are _deprived_. Additionally, traveling when sleep-deprived raises the terrain **Difficulty** by a step (i.e. _Easy_ becomes _Tough_).
 
 ### Light
 
