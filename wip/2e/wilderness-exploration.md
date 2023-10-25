@@ -110,7 +110,7 @@ The [**weather**](#weather-difficulty), [**terrain**](#terrain-difficulty), [**n
 ### Travel
 
 - Travel begins. Obvious locations, features, and terrain of nearby areas are revealed according to their distance. This action is typically taken by the entire party as one.
-- The party rolls 1d6 to see if they get lost along the way. This risk can increase or decrease, depending on the terrain and weather **Difficulty**, items, skills, and relevant backgrounds of the party.
+- The party rolls 1d6 to see if they get lost along the way. This risk can increase or decrease, depending on path **Difficulty**, maps, guides, skills of party members.
 - If lost, the party may need to spend a **Wilderness Action** to recover their way. Otherwise, the party reaches the next **point** along their route. Remember to compare the results of getting lost to the relevant terrain or weather **Difficulty**. For example, _Tough_ terrain in _Fair_ weather would require a roll of 2 or under in order for the party to get lost. 
 
 ### Explore
