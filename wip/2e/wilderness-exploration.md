@@ -110,9 +110,6 @@ The [**weather**](#weather-difficulty), [**terrain**](#terrain-difficulty), [**n
 | **5** | **Exhaustion**  | The party encounters a barrier, forcing effort, care or delays. This might mean spending extra time (and an additional **Wilderness Action**) or adding **Fatigue** to the PC's inventory to represent their difficulties. |
 | **6** | **Discovery**   | The party finds food, treasure, or other useful resources. The **Warden** can instead choose to reveal the primary feature of the area.                                                                                    |
 
-
-
-
 ## Night
 
 - The party can choose to travel during the night and rest during the day, but night travel is far slower and more treacherous!
@@ -136,7 +133,7 @@ The [**weather**](#weather-difficulty), [**terrain**](#terrain-difficulty), [**n
 
 ## Wilderness Actions
 
-### Trave
+### Travel
 
 - Travel begins. Obvious locations, features, and terrain of nearby areas are revealed according to their distance. This action is typically taken by the entire party as one.
 - The party rolls 1d6 to see if they get lost along the way. This risk can increase or decrease, depending on path **Difficulty**, maps, party skills, and guides.
