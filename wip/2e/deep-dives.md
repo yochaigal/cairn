@@ -29,16 +29,16 @@ The [**weather**](#weather-difficulty), [**terrain**](#terrain-difficulty), [**n
 |            |             |                          |
 | ---------- | ----------- | ------------------------ |
 | **Path**   | **Penalty** | **Odds of Getting Lost** |
-| Roads      | +0 Watches  | None                     |
+| Roads      | None        | None                     |
 | Trails     | +1 Watch    | 2-in-6                   |
-| Wilderness | +2 Watches  | 4-in-6                   |
+| Wilderness | +2 Watches  | 3-in-6                   |
 
 ### Terrain Difficulty
 
 
 |                |                                 |             |                                                                                                       |
 | -------------- | ------------------------------- | ----------- | ----------------------------------------------------------------------------------------------------- |
-| **Difficulty** | **Terrain**                     | **Penalty** | **Factors**                                                                                          |
+| **Difficulty** | **Terrain**                     | **Penalty** | **Factors**                                                                                           |
 | **Easy**       | **Plains, grasslands, valleys** | +1 Watch    | _Safe areas for rest, fellow travelers, good visibilities_                                            |
 | **Tough**      | **Forests, deserts, hills**     | +2 Watches  | _Wild animals, flooding, broken equipment, falling rocks, unsafe shelters, hunter's traps_            |
 | **Perilous**   | **Mountains, jungle, swamp**    | +3 Watches  | _Quicksand, sucking mud, choking vines, unclean water, poisonous plants and animals, poor navigation_ |
