@@ -26,22 +26,22 @@ The [**weather**](#weather-difficulty), [**terrain**](#terrain-difficulty), [**n
 
 ### Path Difficulty
 
-|            |             |
-| ---------- | ----------- |
-| **Path**   | **Penalty** |
-| Roads      | +0 Watches  |
-| Trails     | +1 Watch    |
-| Wilderness | +2 Watches  |
+|            |             |                          |
+| ---------- | ----------- | ------------------------ |
+| **Path**   | **Penalty** | **Odds of Getting Lost** |
+| Roads      | +0 Watches  | None                     |
+| Trails     | +1 Watch    | 2-in-6                   |
+| Wilderness | +2 Watches  | 4-in-6                   |
 
 ### Terrain Difficulty
 
-|                |                                 |             |                          |                                                                                                       |
-| -------------- | ------------------------------- | ----------- | ------------------------ | ----------------------------------------------------------------------------------------------------- |
-| **Difficulty** | **Terrain**                     | **Penalty** | **Odds of Getting Lost** | **Examples**                                                                                          |
-| **Easy**       | **Plains, grasslands, valleys** | +1 Watch    | None                     | _Safe areas for rest, fellow travelers, good visibilities_                                            |
-| **Tough**      | **Forests, deserts, hills**     | +2 Watches  | 2-in-6                   | _Wild animals, flooding, broken equipment, falling rocks, unsafe shelters, hunter's traps_            |
-| **Perilous**   | **Mountains, jungle, swamp**    | +3 Watches  | 4-in-6                   | _Quicksand, sucking mud, choking vines, unclean water, poisonous plants and animals, poor navigation_ |
 
+|                |                                 |             |                                                                                                       |
+| -------------- | ------------------------------- | ----------- | ----------------------------------------------------------------------------------------------------- |
+| **Difficulty** | **Terrain**                     | **Penalty** | **Factors**                                                                                          |
+| **Easy**       | **Plains, grasslands, valleys** | +1 Watch    | _Safe areas for rest, fellow travelers, good visibilities_                                            |
+| **Tough**      | **Forests, deserts, hills**     | +2 Watches  | _Wild animals, flooding, broken equipment, falling rocks, unsafe shelters, hunter's traps_            |
+| **Perilous**   | **Mountains, jungle, swamp**    | +3 Watches  | _Quicksand, sucking mud, choking vines, unclean water, poisonous plants and animals, poor navigation_ |
 
 ### Creating a Pointcrawl
 

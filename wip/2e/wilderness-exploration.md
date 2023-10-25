@@ -45,7 +45,7 @@ To determine the distance between two points, combine the penalties from both **
 
 Traveling by a maintained road incurs _no_ penalties to travel, while trails add one watch to the journey. Traveling through the wilderness _always_ adds two watches. Include penalties from any changes in paths or terrain along the route, and for longer journeys add up to +3 watches. For travel via waterways, refer to the surrounding terrain difficulty. 
 
-The [**weather**](#weather-difficulty), [**terrain**](#terrain-difficulty), [**night travel**](#night), _deprived_ or injured party members, or other obstacles can reduce the party's speed, or make travel impossible! In some cases, the party need to add **Fatigue** or expend resources in order to sustain their pace. Mounts, guides, and maps can increase the party's travel speed or even negate certain penalties.
+The [**weather**](#weather-difficulty), [**terrain**](#terrain-difficulty), [**night travel**](#night), _deprived_ or injured party members, or other obstacles can reduce the party's speed, or make travel impossible! In some cases, the party need to add **Fatigue** or expend resources in order to sustain their pace. Mounts, guides, and maps can increase the party's travel speed or even negate certain penalties.  
 
 ## Wilderness Exploration Cycle
 
@@ -76,22 +76,22 @@ The [**weather**](#weather-difficulty), [**terrain**](#terrain-difficulty), [**n
 
 ### Path Difficulty
 
-|                |                  |
-| -------------- | ---------------- |
-| **Path**       | **Penalty**      |
-| Roads          | +0 Watches       |
-| Trails         | +1 Watch         |
-| Wilderness     | +2 Watches       |
+|            |             |                          |
+| ---------- | ----------- | ------------------------ |
+| **Path**   | **Penalty** | **Odds of Getting Lost** |
+| Roads      | +0 Watches  | None                     |
+| Trails     | +1 Watch    | 2-in-6                   |
+| Wilderness | +2 Watches  | 4-in-6                   |
 
 ### Terrain Difficulty
 
 
-|                |                                 |             |                          |                                                                                                       |
-| -------------- | ------------------------------- | ----------- | ------------------------ | ----------------------------------------------------------------------------------------------------- |
-| **Difficulty** | **Terrain**                     | **Penalty** | **Odds of Getting Lost** | **Examples**                                                                                          |
-| **Easy**       | **Plains, grasslands, valleys** | +1 Watch    | None                     | _Safe areas for rest, fellow travelers, good visibilities_                                            |
-| **Tough**      | **Forests, deserts, hills**     | +2 Watches  | 2-in-6                   | _Wild animals, flooding, broken equipment, falling rocks, unsafe shelters, hunter's traps_            |
-| **Perilous**   | **Mountains, jungle, swamp**    | +3 Watches  | 4-in-6                   | _Quicksand, sucking mud, choking vines, unclean water, poisonous plants and animals, poor navigation_ |
+|                |                                 |             |                                                                                                       |
+| -------------- | ------------------------------- | ----------- | ----------------------------------------------------------------------------------------------------- |
+| **Difficulty** | **Terrain**                     | **Penalty** | **Factors**                                                                                          |
+| **Easy**       | **Plains, grasslands, valleys** | +1 Watch    | _Safe areas for rest, fellow travelers, good visibilities_                                            |
+| **Tough**      | **Forests, deserts, hills**     | +2 Watches  | _Wild animals, flooding, broken equipment, falling rocks, unsafe shelters, hunter's traps_            |
+| **Perilous**   | **Mountains, jungle, swamp**    | +3 Watches  | _Quicksand, sucking mud, choking vines, unclean water, poisonous plants and animals, poor navigation_ |
 
 ### Weather Difficulty
 
@@ -111,7 +111,7 @@ The [**weather**](#weather-difficulty), [**terrain**](#terrain-difficulty), [**n
 
 - Travel begins. Obvious locations, features, and terrain of nearby areas are revealed according to their distance. This action is typically taken by the entire party as one.
 - The party rolls 1d6 to see if they get lost along the way. This risk can increase or decrease, depending on the terrain and weather **Difficulty**, items, skills, and relevant backgrounds of the party.
-- If lost, the party may need to spend a **Wilderness Action** to recover their way. Otherwise, the party reaches the next **point** along their route. Remember to compare the results of getting lost to the relevant terrain or weather **Difficulty**. For example, _Tough_ terrain in Fair weather would require a roll of 2 or under in order for the party to get lost.  
+- If lost, the party may need to spend a **Wilderness Action** to recover their way. Otherwise, the party reaches the next **point** along their route. Remember to compare the results of getting lost to the relevant terrain or weather **Difficulty**. For example, _Tough_ terrain in _Fair_ weather would require a roll of 2 or under in order for the party to get lost. 
 
 ### Explore
 
