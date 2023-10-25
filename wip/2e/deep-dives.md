@@ -35,7 +35,6 @@ The [**weather**](#weather-difficulty), [**terrain**](#terrain-difficulty), [**n
 
 ### Terrain Difficulty
 
-
 |                |                                 |             |                                                                                                       |
 | -------------- | ------------------------------- | ----------- | ----------------------------------------------------------------------------------------------------- |
 | **Difficulty** | **Terrain**                     | **Penalty** | **Factors**                                                                                           |
