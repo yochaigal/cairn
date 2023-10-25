@@ -38,7 +38,7 @@ search_exclude: true
 
 Travel time in Cairn is counted in watches, divided into three eight-hour segments per day. However, as most parties elect to spend the third watch of the day resting, one can use "days" as a shorthand for travel. For example, if the distance between two points is equal to four watches, the party would need to travel for two days, arriving in the evening of the second day. 
 
-To determine the distance between two points, combine all penalties from the path, terrain, and weather Difficulty tables, taking into account any changes to those elements along the route. For travel via waterways, refer to the surrounding terrain difficulty. For especially vast terrain, assign a penalty of up to +3 watches to the journey.
+To determine the distance between two points, combine all penalties from the path, terrain, and weather Difficulty tables, taking into account any changes to those elements along the route. For travel via waterways, refer to the surrounding terrain difficulty. For especially vast terrain, assign a penalty of up to +2 watches to the journey.
 
 The [**weather**](#weather-difficulty), [**terrain**](#terrain-difficulty), [**night travel**](#night), _deprived_ or injured party members, or other obstacles can reduce the party's speed, or make travel impossible! In some cases, the party need to add **Fatigue** or expend resources in order to sustain their pace. Mounts, guides, and maps can increase the party's travel speed or even negate certain penalties.
 
@@ -69,8 +69,6 @@ The [**weather**](#weather-difficulty), [**terrain**](#terrain-difficulty), [**n
 
 ## Weather
 
-Roll on the table below each day for the appropriate season. If the "**Extreme**" weather result is rolled twice in a row, the weather turns to "**Catastrophic**". A squall becomes a hurricane, a storm floods the valley, etc.
-
 |        |            |            |            |            |
 | :----: | :--------: | :--------: | :--------: | :--------: |
 | **d6** | **Spring** | **Summer** |  **Fall**  | **Winter** |
@@ -98,6 +96,8 @@ Roll on the table below each day for the appropriate season. If the "**Extreme**
 1. The **Warden** describes the current **point** or **region** on the map and how the path, weather, terrain, or party status might affect **travel speed**. The party plots or adjusts a given course towards their destination. 
 2. Each party member chooses a single **Wilderness Action**. The **Warden** narrates the results for each and then rolls on the [**Wilderness Events**](#wilderness-events) table. The party responds to the results.
 3. The **players** and the **Warden** record any loss of resources and new conditions (i.e. torch use, _deprivation_, etc), and the cycle repeats. 
+
+> Roll on the table below each day for the appropriate season. If the "**Extreme**" weather result is rolled twice in a row, the weather turns to "**Catastrophic**". A squall becomes a hurricane, a storm floods the valley, etc.
 
 ## Wilderness Events
 
