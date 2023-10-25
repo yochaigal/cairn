@@ -36,11 +36,11 @@ search_exclude: true
 
 ## Travel Duration
 
-Travel time in Cairn is counted in watches, divided into three eight-hour segments per day. However, as most parties elect to spend the third watch of the day resting, one can use "days" as a shorthand for travel. For example, if the distance between two points is equal to four watches, the party would need to travel for two days, arriving in the evening of the second day. 
+Travel time in Cairn is counted in watches, divided into three eight-hour segments per day. However, as most parties elect to spend the third watch of the day resting, one can use "days" as a shorthand for travel time.
 
 To determine the distance between two points, combine all penalties from the path, terrain, and weather Difficulty tables, taking into account any changes to those elements along the route. For travel via waterways, refer to the surrounding terrain difficulty. For especially vast terrain, assign a penalty of up to +2 watches to the journey.
 
-The [**weather**](#weather-difficulty), [**terrain**](#terrain-difficulty), [**night travel**](#night), _deprived_ or injured party members, or other obstacles can reduce the party's speed, or make travel impossible! In some cases, the party need to add **Fatigue** or expend resources in order to sustain their pace. Mounts, guides, and maps can increase the party's travel speed or even negate certain penalties.
+The [**weather**](#weather-difficulty), [**terrain**](#terrain-difficulty), [**night travel**](#night), _deprived_ or injured party members, or other obstacles can impact travel, or even make it impossible! In some cases, the party may need to add **Fatigue** or expend resources in order to sustain their pace. Mounts, guides, and maps can increase the party's travel speed or even negate certain penalties.
 
 ## Path Difficulty
 
@@ -63,7 +63,7 @@ The [**weather**](#weather-difficulty), [**terrain**](#terrain-difficulty), [**n
 |                |                                 |             |                                                                                                       |
 | -------------- | ------------------------------- | ----------- | ----------------------------------------------------------------------------------------------------- |
 | **Difficulty** | **Terrain**                     | **Penalty** | **Factors**                                                                                           |
-| **Easy**       | **Plains, grasslands, valleys** | +1 Watch    | _Safe areas for rest, fellow travelers, good visibilities_                                            |
+| **Easy**       | **Plains, grasslands, valleys** | +1 Watch    | _Safe areas for rest, fellow travelers, good visibility_                                            |
 | **Tough**      | **Forests, deserts, hills**     | +2 Watches  | _Wild animals, flooding, broken equipment, falling rocks, unsafe shelters, hunter's traps_            |
 | **Perilous**   | **Mountains, jungle, swamp**    | +3 Watches  | _Quicksand, sucking mud, choking vines, unclean water, poisonous plants and animals, poor navigation_ |
 
@@ -116,7 +116,7 @@ The [**weather**](#weather-difficulty), [**terrain**](#terrain-difficulty), [**n
 
 - Travel begins. Obvious locations, features, and terrain of nearby areas are revealed according to their distance. This action is typically taken by the entire party as one.
 - The party rolls 1d6 to see if they get lost along the way. This risk can increase or decrease, depending on path **Difficulty**, maps, party skills, and guides.
-- If lost, the party may need to spend a **Wilderness Action** to recover their way. Otherwise, the party reaches the next **point** along their route. Remember to compare the results of getting lost to the relevant Path **Difficulty**. 
+- If lost, the party may need to spend a **Wilderness Action** to recover their way. Otherwise, the party reaches the next **point** along their route. Remember to compare the results of getting lost to the relevant path **Difficulty**. 
 
 ### Explore
 
@@ -141,7 +141,7 @@ The [**weather**](#weather-difficulty), [**terrain**](#terrain-difficulty), [**n
 ### Night
 
 - The party can choose to travel during the night and rest during the day, but night travel is far slower and more treacherous!
-- Traveling at night _always_ increases the [Terrain Difficulty](#terrain-difficulty) by a step (i.e. _Easy_ terrain becomes _Tough_) and the **Warden** rolls twice on the [**Wilderness Events**](#wilderness-events) table.
+- Traveling at night _always_ increases the [terrain Difficulty](#terrain-difficulty) by a step (i.e. _Easy_ terrain becomes _Tough_) and the **Warden** rolls twice on the [**Wilderness Events**](#wilderness-events) table.
 - Some terrain and weather may be easier to traverse at night (desert, for example). The **Warden** should balance these challenges along with any other.
 
 ### Sleep
