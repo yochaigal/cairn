@@ -67,18 +67,6 @@ The [**weather**](#weather-difficulty), [**terrain**](#terrain-difficulty), [**n
 | **Tough**      | **Forests, deserts, hills**     | +2 Watches  | _Wild animals, flooding, broken equipment, falling rocks, unsafe shelters, hunter's traps_            |
 | **Perilous**   | **Mountains, jungle, swamp**    | +3 Watches  | _Quicksand, sucking mud, choking vines, unclean water, poisonous plants and animals, poor navigation_ |
 
-## Weather
-
-|        |            |            |            |            |
-| :----: | :--------: | :--------: | :--------: | :--------: |
-| **d6** | **Spring** | **Summer** |  **Fall**  | **Winter** |
-| **1**  |    Nice    |    Nice    |    Fair    |    Fair    |
-| **2**  |    Fair    |    Nice    |    Fair    | Unpleasant |
-| **3**  |    Fair    |    Fair    | Unpleasant | Inclement  |
-| **4**  | Unpleasant | Unpleasant | Inclement  | Inclement  |
-| **5**  | Inclement  | Inclement  | Inclement  |  Extreme   |
-| **6**  |  Extreme   |  Extreme   |  Extreme   |  Extreme   |
-
 ## Weather Difficulty
 
 |                  |                                                                                                         |                                                           |
@@ -96,8 +84,6 @@ The [**weather**](#weather-difficulty), [**terrain**](#terrain-difficulty), [**n
 1. The **Warden** describes the current **point** or **region** on the map and how the path, weather, terrain, or party status might affect **travel speed**. The party plots or adjusts a given course towards their destination. 
 2. Each party member chooses a single **Wilderness Action**. The **Warden** narrates the results for each and then rolls on the [**Wilderness Events**](#wilderness-events) table. The party responds to the results.
 3. The **players** and the **Warden** record any loss of resources and new conditions (i.e. torch use, _deprivation_, etc), and the cycle repeats. 
-
-> Roll on the table below each day for the appropriate season. If the "**Extreme**" weather result is rolled twice in a row, the weather turns to "**Catastrophic**". A squall becomes a hurricane, a storm floods the valley, etc.
 
 ## Wilderness Events
 
@@ -158,3 +144,17 @@ The [**weather**](#weather-difficulty), [**terrain**](#terrain-difficulty), [**n
 
 > ### Light Sources
 > A torch can be lit 3 times before degrading. A lantern can be relit indefinitely, but requires an oil can (6 uses).
+
+## Weather
+
+Each day, the Warden should roll on the weather table for the appropriate season. If the "**Extreme**" weather result is rolled twice in a row, the weather turns to "**Catastrophic**". A squall becomes a hurricane, a storm floods the valley, etc.
+
+|        |            |            |            |            |
+| :----: | :--------: | :--------: | :--------: | :--------: |
+| **d6** | **Spring** | **Summer** |  **Fall**  | **Winter** |
+| **1**  |    Nice    |    Nice    |    Fair    |    Fair    |
+| **2**  |    Fair    |    Nice    |    Fair    | Unpleasant |
+| **3**  |    Fair    |    Fair    | Unpleasant | Inclement  |
+| **4**  | Unpleasant | Unpleasant | Inclement  | Inclement  |
+| **5**  | Inclement  | Inclement  | Inclement  |  Extreme   |
+| **6**  |  Extreme   |  Extreme   |  Extreme   |  Extreme   |
