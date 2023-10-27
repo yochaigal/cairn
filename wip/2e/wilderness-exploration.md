@@ -67,6 +67,22 @@ The [**weather**](#weather-difficulty), [**terrain**](#terrain-difficulty), [**n
 | **Tough**      | **Forests, deserts, hills**     | +2 Watches  | _Wild animals, flooding, broken equipment, falling rocks, unsafe shelters, hunter's traps_            |
 | **Perilous**   | **Mountains, jungle, swamp**    | +3 Watches  | _Quicksand, sucking mud, choking vines, unclean water, poisonous plants and animals, poor navigation_ |
 
+## Weather
+
+Each day, the Warden should roll on the weather table for the appropriate season. If the "**Extreme**" weather result is rolled twice in a row, the weather turns to "**Catastrophic**". A squall becomes a hurricane, a storm floods the valley, etc.
+
+### Weather Type
+
+|        |            |            |            |            |
+| :----: | :--------: | :--------: | :--------: | :--------: |
+| **d6** | **Spring** | **Summer** |  **Fall**  | **Winter** |
+| **1**  |    Nice    |    Nice    |    Fair    |    Fair    |
+| **2**  |    Fair    |    Nice    |    Fair    | Unpleasant |
+| **3**  |    Fair    |    Fair    | Unpleasant | Inclement  |
+| **4**  | Unpleasant | Unpleasant | Inclement  | Inclement  |
+| **5**  | Inclement  | Inclement  | Inclement  |  Extreme   |
+| **6**  |  Extreme   |  Extreme   |  Extreme   |  Extreme   |
+
 ## Weather Difficulty
 
 |                  |                                                                                                         |                                                           |
@@ -144,19 +160,3 @@ The [**weather**](#weather-difficulty), [**terrain**](#terrain-difficulty), [**n
 
 > ### Light Sources
 > A torch can be lit 3 times before degrading. A lantern can be relit indefinitely, but requires an oil can (6 uses).
-
-## Weather
-
-Each day, the Warden should roll on the weather table for the appropriate season. If the "**Extreme**" weather result is rolled twice in a row, the weather turns to "**Catastrophic**". A squall becomes a hurricane, a storm floods the valley, etc.
-
-### Weather Type
-
-|        |            |            |            |            |
-| :----: | :--------: | :--------: | :--------: | :--------: |
-| **d6** | **Spring** | **Summer** |  **Fall**  | **Winter** |
-| **1**  |    Nice    |    Nice    |    Fair    |    Fair    |
-| **2**  |    Fair    |    Nice    |    Fair    | Unpleasant |
-| **3**  |    Fair    |    Fair    | Unpleasant | Inclement  |
-| **4**  | Unpleasant | Unpleasant | Inclement  | Inclement  |
-| **5**  | Inclement  | Inclement  | Inclement  |  Extreme   |
-| **6**  |  Extreme   |  Extreme   |  Extreme   |  Extreme   |
