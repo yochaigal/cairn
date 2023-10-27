@@ -43,7 +43,6 @@ search_exclude: true
   - Vary room shapes, sizes, and functions.
   - Use architectural motifs to connect rooms thematically.
   - Should be easy to describe, map, and recall.
-  - Architectural motifs help connect rooms thematically.
   
 ## Tactical Areas
   - Include zones that offer strategic advantages.

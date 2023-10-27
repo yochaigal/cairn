@@ -40,7 +40,7 @@ Travel time in Cairn is counted in watches, divided into three eight-hour segmen
 
 To determine the distance between two points, combine all penalties from the path, terrain, and weather difficulty tables, taking into account any changes to those elements along the route. For travel via waterways, refer to the surrounding terrain difficulty. For especially vast terrain, assign a penalty of up to +2 watches to the journey.
 
-The [**weather**](#weather-difficulty), [**terrain**](#terrain-difficulty), [**night travel**](#night), _deprived_ or injured party members, or other obstacles can impact travel, or even make it impossible! In some cases, the party may need to add **Fatigue** or expend resources in order to sustain their pace. Mounts, guides, and maps can increase the party's travel speed or even negate certain penalties.
+The weather, terrain, darkness, injured party members, and other obstacles can impact travel or even make it impossible! In some cases, the party may need to add **Fatigue** or expend resources in order to sustain their pace. Mounts, guides, and maps can increase the party’s travel speed or even negate certain penalties.
 
 ## Path Difficulty
 
