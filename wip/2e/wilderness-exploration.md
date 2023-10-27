@@ -38,7 +38,7 @@ search_exclude: true
 
 Travel time in Cairn is counted in watches, divided into three eight-hour segments per day. However, as most parties elect to spend the third watch of the day resting, one can use "days" as a shorthand for travel time.
 
-To determine the distance between two points, combine all penalties from the path, terrain, and weather Difficulty tables, taking into account any changes to those elements along the route. For travel via waterways, refer to the surrounding terrain difficulty. For especially vast terrain, assign a penalty of up to +2 watches to the journey.
+To determine the distance between two points, combine all penalties from the path, terrain, and weather difficulty tables, taking into account any changes to those elements along the route. For travel via waterways, refer to the surrounding terrain difficulty. For especially vast terrain, assign a penalty of up to +2 watches to the journey.
 
 The [**weather**](#weather-difficulty), [**terrain**](#terrain-difficulty), [**night travel**](#night), _deprived_ or injured party members, or other obstacles can impact travel, or even make it impossible! In some cases, the party may need to add **Fatigue** or expend resources in order to sustain their pace. Mounts, guides, and maps can increase the party's travel speed or even negate certain penalties.
 
@@ -148,6 +148,8 @@ The [**weather**](#weather-difficulty), [**terrain**](#terrain-difficulty), [**n
 ## Weather
 
 Each day, the Warden should roll on the weather table for the appropriate season. If the "**Extreme**" weather result is rolled twice in a row, the weather turns to "**Catastrophic**". A squall becomes a hurricane, a storm floods the valley, etc.
+
+### Weather Type
 
 |        |            |            |            |            |
 | :----: | :--------: | :--------: | :--------: | :--------: |
