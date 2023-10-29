@@ -20,7 +20,7 @@ Amara, Wulf, Mireille, Soren, Freki, Aster, Gerrik, Boreas, Delphine, Matheus
 - Leather whip (d6)
 - Thick gloves (petty)
 - Lure
-- Rope
+- Rope (25ft)
 
 ## What creature is your specialty? Roll 1d6:
 
