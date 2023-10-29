@@ -20,7 +20,7 @@ Rook, Ebon, Moro, Yew, Pall, Leth, Nix, Barnaby, Vesper, Leder
 - Lantern
 - Oil can (6 uses)
 - Stake (d6)
-- Chains
+- Chains (10ft)
 
 ## What did you take from the dead? Roll 1d6:
 
