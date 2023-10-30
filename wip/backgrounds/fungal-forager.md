@@ -19,7 +19,7 @@ Unther, Woozy, Hilda, Current, Leif, Ratan, Mourella, Lal, Per, Madrigal
 
 - Sharpened trowel (d6)
 - Candle helmet (1 Armor, dim, 6 uses)
-- Rope
+- Rope (25ft)
 - Metal pail
 
 ## What strange fungi did you discover? Roll 1d6:
