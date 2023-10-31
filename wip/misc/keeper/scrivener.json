@@ -1,0 +1,124 @@
+{
+    "title": "Scrivener",
+    "description": "You copy ancient texts and illuminate manuscripts, recording the voices of the clever, the great, and the powerful. You will prove that the pen truly is mightier than the sword.",
+    "names": [
+        "Per",
+        "Stilo",
+        "Akshara",
+        "Pisa",
+        "Ji-Yun",
+        "Kalamos",
+        "Hugo",
+        "Shui",
+        "Kalam",
+        "Julius"
+    ],
+    "starting_gear": [
+        "Quill & Ink",
+        "Blank book",
+        "Awl (d6)",
+        "Badge (petty)"
+    ],
+    "work_choices": [
+        {
+            "description": "The Wild Tongue. A bundle of leather-bound scrolls. A seminal work, cataloging the hidden languages of beasts, and how to understand them.",
+            "items": [
+                "The Wild Tongue"
+            ],
+            "tags": [],
+            "gold": null
+        },
+        {
+            "description": "The Silent Symphony. Bound in fluorescent wrap. Very rare, it chronicles the subtle signs used by those employing invisibility magic.",
+            "items": [
+                "The Silent Symphony"
+            ],
+            "tags": [],
+            "gold": null
+        },
+        {
+            "description": "A Treatise on the Abyss. A non-descript black book. An in-depth, largely theoretical text describing The Roots, as well as information around the location of a nearby Gate.",
+            "items": [
+                "A Treatise on the Abyss"
+            ],
+            "tags": [],
+            "gold": null
+        },
+        {
+            "description": "The Star Waltz. A comet-shaped clasp embracing a fine leather cover. Detailed astronomical charts, celestial movements, and stellar festivals. Highly valued (100gp) for its usefulness to travelers.",
+            "items": [
+                "The Star Waltz"
+            ],
+            "tags": [],
+            "gold": 100
+        },
+        {
+            "description": "The Cathedral and the Canopy. Large-leaf binding over vellum. Nominally a children's storybook, the margins detail information about traveling, eating, and sleeping in the cloud forests.",
+            "items": [
+                "The Cathedral and the Canopy"
+            ],
+            "tags": [],
+            "gold": null
+        },
+        {
+            "description": "Garden of Glass. Bound in the cover of another book. A heretical work, it describes the materials, procedures, and optimal locations required to open a Gate.",
+            "items": [
+                "Garden of Glass"
+            ],
+            "tags": [],
+            "gold": null
+        }
+    ],
+    "transcription_choices": [
+        {
+            "description": "Fib Ink. Glows when used to write true statements, but fades if used to write false ones.",
+            "items": [
+                "Fib Ink"
+            ],
+            "tags": [],
+            "gold": null
+        },
+        {
+            "description": "Cipher Stone. A pair of sharp black stones. Decrypts any message written by the other.",
+            "items": [
+                "Cipher Stone"
+            ],
+            "tags": [],
+            "gold": null
+        },
+        {
+            "description": "Everquill. A quill that writes on any surface. You still need ink. Petty.",
+            "items": [
+                "Everquill"
+            ],
+            "tags": [
+                "petty"
+            ],
+            "gold": null
+        },
+        {
+            "description": "Whisper Vial. Whisper a message into the vial and it will play back to whomever opens it next.",
+            "items": [
+                "Whisper Vial"
+            ],
+            "tags": [],
+            "gold": null
+        },
+        {
+            "description": "Voyeur's Suringa. Extracts blood from a target without their knowledge. A stolen drop placed on the eye reveals memories from the past day.",
+            "items": [
+                "Voyeur's Suringa"
+            ],
+            "tags": [],
+            "gold": null
+        },
+        {
+            "description": "Echo Leaf. A blank parchment. Whomever unfurls it sees their actions of the day slowly revealed in a tight scrawl. Petty.",
+            "items": [
+                "Echo Leaf"
+            ],
+            "tags": [
+                "petty"
+            ],
+            "gold": null
+        }
