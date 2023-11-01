@@ -143,7 +143,7 @@ Each day, the Warden should roll on the weather table for the appropriate season
 ### Night
 
 - The party can choose to travel during the night and rest during the day, but night travel is far slower and more treacherous!
-- Traveling at night _always_ increases the [terrain Difficulty](#terrain-difficulty) by a step (i.e. _Easy_ terrain becomes _Tough_) and the **Warden** rolls twice on the [**Wilderness Events**](#wilderness-events) table.
+- Traveling at night is always more dangerous! The **Warden** should roll _twice_ on the [**Wilderness Events**](#wilderness-events) table.
 - Some terrain and weather may be easier to traverse at night (desert, for example). The **Warden** should balance these challenges along with any other.
 
 ### Sleep
@@ -158,5 +158,7 @@ Each day, the Warden should roll on the weather table for the appropriate season
 - Characters without a light source may suffer from _panic_ until their situation is remedied. 
 - Environmental conditions (sudden gusts of wind, dust, water, etc.) can easily blow out a torch.
 
-> ### Light Sources
-> A torch can be lit 3 times before degrading. A lantern can be relit indefinitely, but requires an oil can (6 uses).
+### Light Sources
+
+- A torch can be lit 3 times before degrading. 
+- A lantern can be relit indefinitely, but requires a separate oil can (6 uses).
