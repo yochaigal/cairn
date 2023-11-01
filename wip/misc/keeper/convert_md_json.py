@@ -46,7 +46,7 @@ def parse_markdown_to_json_with_all_items(markdown_content):
     gear_regex = re.compile(r'^## Starting Gear')
     table_regex = re.compile(r'^## (.+):')
     table_option_regex = re.compile(r'^\|\s*\*\*(\d+)\*\*\s*\|\s*(.+?)\s*\|')
-    tags_regex = re.compile(r'\b(bulky|petty|blast|d4|d6|d8|d10|d12|d6\+d6|uses)\b')
+    tags_regex = re.compile(r'\b(?:_?bulky_?|_?petty_?|_?blast_?|d[468]|d10|d12|(?:d\d+\+?)+)\b')
     
     # Variables to track the current section and table count
     current_section = None
