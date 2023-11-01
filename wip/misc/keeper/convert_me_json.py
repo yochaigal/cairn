@@ -10,8 +10,8 @@ def save_json_file(data, filepath):
         json.dump(data, file, indent=4)
 
 def clean_description(description):
-    # Remove markdown syntax like "**" and "_"
-    return description.replace("**", "").replace("_", "")
+    # Remove markdown syntax (bold, italic, etc.)
+    return re.sub(r'\*\*|\*', '', description)
 
 def extract_items(description):
     # Extract items from the description using regex
@@ -63,7 +63,7 @@ def parse_markdown_to_json_with_all_items(markdown_content):
         # Check for description
         description_match = description_regex.match(line)
         if description_match:
-            json_data["background_description"] = clean_description(description_match.group(1).strip())
+            json_data["background_description"] = description_match.group(1).strip()
             continue
         
         # Check for names section
@@ -77,15 +77,17 @@ def parse_markdown_to_json_with_all_items(markdown_content):
             continue
         
         # Check for table section
-        table_match = table_regex.match(line)
-        if table_match:
+        if table_regex.match(line):
             current_section = "table"
             table_count += 1
             current_table_key = f"table{table_count}"
             json_data[current_table_key] = {
-                "question": clean_description(table_match.group(1).strip()),
+                "question": "",
                 "options": []
             }
+            # Check if line includes "Roll 1d6:" to set the table question
+            if "Roll 1d6:" in line:
+                json_data[current_table_key]["question"] = line.strip()
             continue
         
         # Process names
@@ -104,11 +106,10 @@ def parse_markdown_to_json_with_all_items(markdown_content):
                 tags = tags_regex.findall(item_details)
                 max_uses = None
                 # If details contain "uses", consider it as max_uses
-                if "uses" in tags:
-                    max_uses_index = tags.index("uses")
-                    tags.pop(max_uses_index)  # Remove "uses" from tags
-                    max_uses_match = re.search(r'\d+', item_details)
-                    max_uses = int(max_uses_match.group()) if max_uses_match else None
+                if "uses" in item_details:
+                    max_uses_match = re.search(r'(\d+) uses', item_details)
+                    max_uses = int(max_uses_match.group(1)) if max_uses_match else None
+                    tags.remove('uses')  # Remove "uses" from tags if it's there
                 json_data["background_items"][item_name] = {
                     "tags": tags,
                     "max_uses": max_uses,
@@ -117,10 +118,11 @@ def parse_markdown_to_json_with_all_items(markdown_content):
         
         # Process table options and add items to "background_items"
         if current_section == "table" and line.strip():
+            # Options are in the format: "| **Roll** | Description |"
             option_match = table_option_regex.match(line)
             if option_match:
-                # Clean the description and extract items
-                items, cleaned_description = extract_items(option_match.group(2).strip())
+                description = option_match.group(2).strip()
+                items, cleaned_description = extract_items(description)
                 json_data[current_table_key]["options"].append({
                     "description": cleaned_description,
                     "items": items,
