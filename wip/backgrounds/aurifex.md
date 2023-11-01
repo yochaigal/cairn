@@ -19,7 +19,7 @@ Hestia, Basil, Rune, Prism, Ember, Quintess, Aludel, Mordant, Salaman, Jazia
 - Lantern
 - Oil can (6 uses)
 - Needle-knife (d6)
-- Protective gloves
+- Protective gloves (_petty_)
 
 ## What went horribly wrong? Roll 1d6:
 

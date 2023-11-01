@@ -1,191 +1,199 @@
-  {
-        "background": "Aurifex",
-        "image": "aurifex.png",
-        "background_description": "You are an artisan of the arcane, a smith of subtle forces. In the crucible of your workshop, the laws that govern this world are warped to suit your needs.",
-        "names": [
-            "Hestia",
-            "Basil",
-            "Rune",
-            "Prism",
-            "Ember",
-            "Quintess",
-            "Aludel",
-            "Mordant",
-            "Salaman",
-            "Jazia"
-        ],
-        "background_items": {
-            "Needle-knife": {
-                "tags": [
-                    "d6"
-                ],
-                "max_uses": null,
-                "description": ""
-            },
-            "Tin of Snuff": {
-                "tags": [],
-                "max_uses": null,
-                "description": ""
-            },
-            "Metal Ingot": {
-                "tags": [],
-                "max_uses": null,
-                "description": ""
-            },
-            "Gold Powder": {
-                "tags": [],
-                "max_uses": null,
-                "description": ""
-            },
-            "Prototype Blunderbuss": {
-                "tags": [
-                    "d12",
-                    "blast",
-                    "bulky"
-                ],
-                "max_uses": null,
-                "description": ""
-            },
-            "Universal Solvent": {
-                "tags": [
-                    "uses"
-                ],
-                "max_uses": 2,
-                "description": ""
-            },
-            "Pyrophoric Gel": {
-                "tags": [],
-                "max_uses": null,
-                "description": ""
-            },
-            "Blast Sphere": {
-                "tags": [
-                    "d12",
-                    "blast",
-                    "bulky"
-                ],
-                "max_uses": null,
-                "description": ""
-            },
-            "Aqua Vita": {
-                "tags": [
-                    "uses"
-                ],
-                "max_uses": 1,
-                "description": ""
-            },
-            "Mimic Stone": {
-                "tags": [],
-                "max_uses": null,
-                "description": ""
-            },
-            "Spark Dust": {
-                "tags": [
-                    "uses"
-                ],
-                "max_uses": 3,
-                "description": ""
-            },
-            "Homunculus": {
-                "tags": [],
-                "max_uses": null,
-                "description": ""
-            }
+{
+    "background": "Aurifex",
+    "image": "aurifex.png",
+    "background_description": "You are an artisan of the arcane, a smith of subtle forces. In the crucible of your workshop, the laws that govern this world are warped to suit your needs.",
+    "names": [
+        "Hestia",
+        "Basil",
+        "Rune",
+        "Prism",
+        "Ember",
+        "Quintess",
+        "Aludel",
+        "Mordant",
+        "Salaman",
+        "Jazia"
+    ],
+    "background_items": {
+        "Needle-knife": {
+            "tags": [
+                "d6"
+            ],
+            "max_uses": null,
+            "description": ""
         },
-        "starting_gear": [
-            "Lantern",
-            "Oil Can",
-            "Needle-knife"
-        ],
-        "table1": {
-            "question": "What went horribly wrong? (d6)",
-            "options": [
-                {
-                    "description": "There was an explosion, and you lost your sense of smell. Well, almost: you can sniff out gold as a pig does truffles. Take a tin of snuff to dampen the impact. Without it you are deprived",
-                    "items": [
-                        "Tin of Snuff"
-                    ],
-                    "gold": 0
-                },
-                {
-                    "description": "You dematerialized a beloved pet. Now it follows you around, invisible but always present. Although it cannot interact with the physical realm, you are able to share its senses (add a Fatigue each time). It follows basic commands.",
-                    "items": [],
-                    "gold": 0
-                },
-                {
-                    "description": "You were exposed to a long-acting truth serum whose effects have yet to wear off. The disorder has its advantages: you cannot repeat lies you’ve heard, either.",
-                    "items": [],
-                    "gold": 0
-                },
-                {
-                    "description": "You were adept at creating fake gold, which is almost as good. Eventually, your ruse was discovered and you had to make a hasty retreat. Take a heavy metal ingot and gold powder.",
-                    "items": [
-                        "Metal Ingot",
-                        "Gold Powder"
-                    ],
-                    "gold": 0
-                },
-                {
-                    "description": "Your recipe worked, but a rival stole the blueprint before your claims could be proven. Take a prototype blunderbuss (d12, blast, bulky) and a thirst for revenge.",
-                    "items": [
-                        "Prototype Blunderbuss"
-                    ],
-                    "gold": 0
-                },
-                {
-                    "description": "Ridiculed for discovering how to turn gold into lead, you were a laughing stock. Take a bottle of universal solvent (2 uses) that dissolves anything it touches into its constituent parts.",
-                    "items": [
-                        "Universal Solvent"
-                    ],
-                    "gold": 0
-                }
-            ]
+        "Protective gloves": {
+            "tags": [
+                "petty"
+            ],
+            "max_uses": null,
+            "description": ""
         },
-        "table2": {
-            "question": "What alchemical marvel is the product of your latest ingenuity? (d6)",
-            "options": [
-                {
-                    "description": "Pyrophoric Gel: A sticky green fluid that catches fire when exposed to air. It lasts for 8 hours and cannot be extinguished.",
-                    "items": [
-                        "Pyrophoric Gel"
-                    ],
-                    "gold": 0
-                },
-                {
-                    "description": "Blast Sphere: A head-sized iron ball filled with explosive powder that detonates on impact. d12, blast, bulky",
-                    "items": [
-                        "Blast Sphere"
-                    ],
-                    "gold": 0
-                },
-                {
-                    "description": "Aqua Vita: Purifies any liquid, converting it to pure water. Drinking it cures 1d6 STR. 1 use.",
-                    "items": [
-                        "Aqua Vita"
-                    ],
-                    "gold": 0
-                },
-                {
-                    "description": "Mimic Stone: Records a short phrase that can later be played back.",
-                    "items": [
-                        "Mimic Stone"
-                    ],
-                    "gold": 0
-                },
-                {
-                    "description": "Spark Dust: Ignites easily and quickly. Useful for starting a fire or as an incendiary device. 3 uses.",
-                    "items": [
-                        "Spark Dust"
-                    ],
-                    "gold": 0
-                },
-                {
-                    "description": "Homunculus: A miniature clay replica of yourself that follows your every command to the letter. It hates being enthralled to you and complains bitterly whenever possible. Any damage done to the homunculus is also done to you.",
-                    "items": [
-                        "Homunculus"
-                    ],
-                    "gold": 0
-                }
-            ]
+        "Tin of Snuff": {
+            "tags": [],
+            "max_uses": null,
+            "description": ""
+        },
+        "Metal Ingot": {
+            "tags": [],
+            "max_uses": null,
+            "description": ""
+        },
+        "Gold Powder": {
+            "tags": [],
+            "max_uses": null,
+            "description": ""
+        },
+        "Prototype Blunderbuss": {
+            "tags": [
+                "d12",
+                "blast",
+                "bulky"
+            ],
+            "max_uses": null,
+            "description": ""
+        },
+        "Universal Solvent": {
+            "tags": [
+                "uses"
+            ],
+            "max_uses": 2,
+            "description": ""
+        },
+        "Pyrophoric Gel": {
+            "tags": [],
+            "max_uses": null,
+            "description": ""
+        },
+        "Blast Sphere": {
+            "tags": [
+                "d12",
+                "blast",
+                "bulky"
+            ],
+            "max_uses": null,
+            "description": ""
+        },
+        "Aqua Vita": {
+            "tags": [
+                "uses"
+            ],
+            "max_uses": 1,
+            "description": ""
+        },
+        "Mimic Stone": {
+            "tags": [],
+            "max_uses": null,
+            "description": ""
+        },
+        "Spark Dust": {
+            "tags": [
+                "uses"
+            ],
+            "max_uses": 3,
+            "description": ""
+        },
+        "Homunculus": {
+            "tags": [],
+            "max_uses": null,
+            "description": ""
         }
+    },
+    "starting_gear": [
+        "Lantern",
+        "Oil can",
+        "Needle-knife",
+        "Protective gloves"
+    ],
+    "table1": {
+        "question": "What went horribly wrong? (d6)",
+        "options": [
+            {
+                "description": "There was an explosion, and you lost your sense of smell. Well, almost: you can sniff out gold as a pig does truffles. Take a tin of snuff to dampen the impact. Without it you are deprived",
+                "items": [
+                    "Tin of Snuff"
+                ],
+                "gold": 0
+            },
+            {
+                "description": "You dematerialized a beloved pet. Now it follows you around, invisible but always present. Although it cannot interact with the physical realm, you are able to share its senses (add a Fatigue each time). It follows basic commands.",
+                "items": [],
+                "gold": 0
+            },
+            {
+                "description": "You were exposed to a long-acting truth serum whose effects have yet to wear off. The disorder has its advantages: you cannot repeat lies you’ve heard, either.",
+                "items": [],
+                "gold": 0
+            },
+            {
+                "description": "You were adept at creating fake gold, which is almost as good. Eventually, your ruse was discovered and you had to make a hasty retreat. Take a heavy metal ingot and gold powder.",
+                "items": [
+                    "Metal Ingot",
+                    "Gold Powder"
+                ],
+                "gold": 0
+            },
+            {
+                "description": "Your recipe worked, but a rival stole the blueprint before your claims could be proven. Take a prototype blunderbuss (d12, blast, bulky) and a thirst for revenge.",
+                "items": [
+                    "Prototype Blunderbuss"
+                ],
+                "gold": 0
+            },
+            {
+                "description": "Ridiculed for discovering how to turn gold into lead, you were a laughing stock. Take a bottle of universal solvent (2 uses) that dissolves anything it touches into its constituent parts.",
+                "items": [
+                    "Universal Solvent"
+                ],
+                "gold": 0
+            }
+        ]
+    },
+    "table2": {
+        "question": "What alchemical marvel is the product of your latest ingenuity? (d6)",
+        "options": [
+            {
+                "description": "Pyrophoric Gel: A sticky green fluid that catches fire when exposed to air. It lasts for 8 hours and cannot be extinguished.",
+                "items": [
+                    "Pyrophoric Gel"
+                ],
+                "gold": 0
+            },
+            {
+                "description": "Blast Sphere: A head-sized iron ball filled with explosive powder that detonates on impact. d12, blast, bulky",
+                "items": [
+                    "Blast Sphere"
+                ],
+                "gold": 0
+            },
+            {
+                "description": "Aqua Vita: Purifies any liquid, converting it to pure water. Drinking it cures 1d6 STR. 1 use.",
+                "items": [
+                    "Aqua Vita"
+                ],
+                "gold": 0
+            },
+            {
+                "description": "Mimic Stone: Records a short phrase that can later be played back.",
+                "items": [
+                    "Mimic Stone"
+                ],
+                "gold": 0
+            },
+            {
+                "description": "Spark Dust: Ignites easily and quickly. Useful for starting a fire or as an incendiary device. 3 uses.",
+                "items": [
+                    "Spark Dust"
+                ],
+                "gold": 0
+            },
+            {
+                "description": "Homunculus: A miniature clay replica of yourself that follows your every command to the letter. It hates being enthralled to you and complains bitterly whenever possible. Any damage done to the homunculus is also done to you.",
+                "items": [
+                    "Homunculus"
+                ],
+                "gold": 0
+            }
+        ]
     }
+}
