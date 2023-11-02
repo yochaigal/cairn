@@ -27,8 +27,8 @@ A _deluxe_ print edition of Cairn can be purchased from the following places:
 - [Cave-Evil/Pit of Infinite Shadow](https://store.cave-evil.com/products/cairn)
 
 ## CA
-- [Monkey's Paw Games](https://monkeyspawgames.com/collections/new-arrivals/products/cairn)
 - [ratti incantati](https://rattiincantati.com/products/cairn-pdf)
+- 
 
 ## UK
 - [Rook's Press](https://www.rookspress.com/products/cairn)
