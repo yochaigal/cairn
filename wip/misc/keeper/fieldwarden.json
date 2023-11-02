@@ -1,0 +1,160 @@
+{
+    "background": "Fieldwarden",
+    "image": "fieldwarden.png",
+    "background_description": "Protectors of the harvest, defense against pests, thieves, and beasts. A position of great honor, while it lasts: many guardians do not live out their natural lives. Roll a second time on the **Bonds** table.",
+    "names": ["Seed", "Thresh", "Dibber", "Sow", "Stalk", "Harrow", "Cobb", "Flax", "Briar", "Rye"],
+    "background_items": {
+      "Brigandine": {
+        "tags": ["1 Armor", "bulky"],
+        "max_uses": null,
+        "description": ""
+      },
+      "Bow": {
+        "tags": ["d6", "bulky"],
+        "max_uses": null,
+        "description": ""
+      },
+      "Hand axe": {
+        "tags": ["d6"],
+        "max_uses": null,
+        "description": ""
+      },
+      "Repellent": {
+        "tags": [],
+        "max_uses": null,
+        "description": ""
+      },
+      "Gale Seed Extract": {
+        "tags": ["uses"],
+        "max_uses": 3,
+        "description": "Ingesting one lets you sprint with a speed four times your regular rate. Afterward you add two Fatigue."
+      },
+      "Fireseeds": {
+        "tags": ["blast", "d8", "uses"],
+        "max_uses": 4,
+        "description": ""
+      },
+      "Bone Knife": {
+        "tags": ["d6"],
+        "max_uses": null,
+        "description": "On Critical Damage, its next attack becomes enhanced from contact with blood."
+      },
+      "Diseased Crop": {
+        "tags": ["uses"],
+        "max_uses": 6,
+        "description": "Quickly decays any plant it touches."
+      },
+      "Hilted Broadsword": {
+        "tags": ["d8"],
+        "max_uses": null,
+        "description": ""
+      },
+      "Bloodvine Whip": {
+        "tags": ["d8"],
+        "max_uses": null,
+        "description": "On Critical Damage it drains the target's blood, granting the weapon's next attack the blast quality."
+      },
+      "Clatter Keeper": {
+        "tags": [],
+        "max_uses": null,
+        "description": ""
+      },
+      "Sun Stick": {
+        "tags": [],
+        "max_uses": null,
+        "description": "Recharge: Leave in heavy sunlight for a full day."
+      },
+      "Root Tether": {
+        "tags": [],
+        "max_uses": null,
+        "description": ""
+      },
+      "Greenwhistle": {
+        "tags": [],
+        "max_uses": null,
+        "description": ""
+      },
+      "Everbloom Band": {
+        "tags": [],
+        "max_uses": null,
+        "description": "On taking Critical Damage the flowers dissolve into dust, but you act as if your save succeeded (STR loss still occurs)."
+      }
+    },
+    "starting_gear": [
+      "Brigandine",
+      "Bow",
+      "Hand axe",
+      "Repellent"
+    ],
+    "table1": {
+      "question": "What got the better of you? Roll 1d6:",
+      "options": [
+        {
+          "description": "A voracious swarm of pests that swallowed crops and animals alike. With nothing to defend, you left.",
+          "gold": null,
+          "items": ["Gale Seed Extract"]
+        },
+        {
+          "description": "A crop spirit, angered by a poor tithing. The fires consumed nearly everything, and afterwards you were able to gather a pouch of Fireseeds.",
+          "gold": null,
+          "items": ["Fireseeds"]
+        },
+        {
+          "description": "An antlered, toothy demon that nearly ended you.",
+          "gold": null,
+          "items": ["Bone Knife"]
+        },
+        {
+          "description": "The Withering, a type of stem rot from The Roots.",
+          "gold": null,
+          "items": ["Diseased Crop"]
+        },
+        {
+          "description": "Wolves, or so you thought. You are now a Werewolf [8 HP, 15 STR, 14 DEX, claws (d6+d6) or bite (d8)]. Your WIL remains the same. You can turn at will (once per day) but must make a WIL save to revert. Anyone left alive from your attacks must make a WIL save to avoid infection.",
+          "gold": null,
+          "items": []
+        },
+        {
+          "description": "Crop thieves. Not all of them survived, but you were outnumbered.",
+          "gold": null,
+          "items": ["Hilted Broadsword"]
+        }
+      ]
+    },
+    "table2": {
+      "question": "What tool saved your life? Roll 1d6:",
+      "options": [
+        {
+          "description": "Bloodvine Whip",
+          "gold": null,
+          "items": ["Bloodvine Whip"]
+        },
+        {
+          "description": "Clatter Keeper",
+          "gold": null,
+          "items": ["Clatter Keeper"]
+        },
+        {
+          "description": "Sun Stick",
+          "gold": null,
+          "items": ["Sun Stick"]
+        },
+        {
+          "description": "Root Tether",
+          "gold": null,
+          "items": ["Root Tether"]
+        },
+        {
+          "description": "Greenwhistle",
+          "gold": null,
+          "items": ["Greenwhistle"]
+        },
+        {
+          "description": "Everbloom Band",
+          "gold": null,
+          "items": ["Everbloom Band"]
+        }
+      ]
+    }
+  }
+  
