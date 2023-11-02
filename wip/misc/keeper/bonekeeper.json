@@ -1,0 +1,131 @@
+{
+  "background": "Bonekeeper",
+  "image": "bonekeeper.png",
+  "background_description": "You are a shepherd to the departed. You listen to the final whispers of the dead as they descend into the cold, unyielding earth. You know that to fully celebrate the gift of life, we must honor its finale as well.",
+  "names": ["Rook", "Ebon", "Moro", "Yew", "Pall", "Leth", "Nix", "Barnaby", "Vesper", "Leder"],
+  "background_items": {
+    "Stake": {
+      "tags": ["d6"],
+      "max_uses": null,
+      "description": ""
+    },
+    "Chains": {
+      "tags": [],
+      "max_uses": null,
+      "description": ""
+    },
+    "Crow-shaped amulet": {
+      "tags": [""],
+      "max_uses": null,
+      "description": ""
+    },
+    "Mortal wound": {
+      "tags": [],
+      "max_uses": null,
+      "description": ""
+    },
+    "Blood Pail": {
+      "tags": ["bulky", "d8", "uses"],
+      "max_uses": null,
+      "description": "Recharge: Fill the bucket with the blood of a dying warrior."
+    },
+    "Detect Magic spellbook": {
+      "tags": [],
+      "max_uses": null,
+      "description": ""
+    },
+    "Plague doctor's mask": {
+      "tags": [],
+      "max_uses": null,
+      "description": ""
+    },
+    "Manacles": {
+      "tags": [],
+      "max_uses": null,
+      "description": "You don't have the key."
+    },
+    "Sponge": {
+      "tags": [],
+      "max_uses": null,
+      "description": ""
+    },
+    "Pulley": {
+      "tags": [],
+      "max_uses": null,
+      "description": ""
+    },
+    "Incense": {
+      "tags": [],
+      "max_uses": null,
+      "description": ""
+    },
+    "Crowbar": {
+      "tags": ["d6"],
+      "max_uses": null,
+      "description": ""
+    },
+    "Repellent": {
+      "tags": ["uses"],
+      "max_uses": 3,
+      "description": "Its faded label makes it unclear what it is actually meant to repel."
+    }
+  },
+  "starting_gear": ["Lantern", "Oil can", "Stake", "Chains (10ft)"],
+  "table1": {
+    "question": "What did you take from the dead?",
+    "options": [
+      {
+        "description": "A crow-shaped amulet. You can ask a question of the dead, but must add a Fatigue each time. They do not always speak truthfully.",
+        "items": ["Crow-shaped amulet"]
+      },
+      {
+        "description": "A mortal wound from a freed revenant. You were healed, but the disfigurement has made you a pariah. You require neither air nor sustenance, but are still subject to pain and death. Trapped between, the dead see you as one of their own.",
+      },
+      {
+        "description": "A Blood Pail from a local death-cult. Empty its contents to summon a creature built from items buried below. It obeys your command, but if destroyed you permanently lose 1d4 STR. It has 6 HP, 1 Armor, 13 STR, 11 DEX, 4 WIL, shard fists.",
+        "items": ["Blood Pail"]
+      },
+      {
+        "description": "A burial wagon from your last job. It came with a stubborn old donkey.",
+        "items": ["Burial wagon"]
+      },
+      {
+        "description": "The Detect Magic spellbook, stolen from an ancient library. Your family worked in service to an obscure underworld deity, but you lost your faith. Though exiled, you continue to serve, even as an apostate.",
+        "items": ["Detect Magic spellbook"]
+      },
+      {
+        "description": "A plague doctor's mask, after its owner succumbed to the disease that wiped out everyone you once knew. They should have kept it on.",
+        "items": ["Plague doctor's mask"]
+      }
+    ]
+  },
+  "table2": {
+    "question": "What tool was invaluable in your work?",
+    "options": [
+      {
+        "description": "Though old, manacles are still effective even against the very strong. You don't have the key.",
+        "items": ["Manacles"]
+      },
+      {
+        "description": "A sponge supposedly made from the remains of a rare sea creature. It never seems to dry out.",
+        "items": ["Sponge"]
+      },
+      {
+        "description": "A pulley, great for moving gravestones, rocks, or even bodies.",
+        "items": ["Pulley"]
+      },
+      {
+        "description": "Incense, perfect for rituals, or to keep the flies at bay. Cools the blood.",
+        "items": ["Incense"]
+      },
+      {
+        "description": "A crowbar. Sometimes you just need to get the damn thing open!",
+        "items": ["Crowbar"]
+      },
+      {
+        "description": "Powerful repellent. Its faded label makes it unclear what it is actually meant to repel, though. Perhaps everything.",
+        "items": ["Repellent"]
+      }
+    ]
+  }
+}
