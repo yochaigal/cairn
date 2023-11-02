@@ -18,7 +18,7 @@ Unther, Woozy, Hilda, Current, Leif, Ratan, Mourella, Lal, Per, Madrigal
 ## Starting Gear
 
 - Sharpened trowel (d6)
-- Candle helmet (1 Armor, dim, 6 uses)
+- Candle helmet (+1 Armor, dim, 6 uses)
 - Rope (25ft)
 - Metal pail
 
