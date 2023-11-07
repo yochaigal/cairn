@@ -19,7 +19,7 @@ The following are detailed instructions for converting a given Markdown text int
    - Extract the items mentioned in the text, including the starting gear and those in tables. For each item:
      - The text immediately following the dash or enclosed in double asterisks (**) is the item's name. Include measurements or specifications as part of the item's name if mentioned (e.g., "Chains (10ft)").
      - If there's text in parentheses (()), it contains the item's details.
-       - **Important**: Only include the following words as tags: "bulky", "petty", "blast", "Armor", and die notations (e.g., "d4", "d6", "d8", "d10", "d12", "d6+d6"). Treat "1 Armor", "2 Armor", "3 Armor", "+1 Armor", etc., as tags. Do not create new tags or include any other words or phrases as tags, regardless of their contextual significance.
+       - **Important**: Only include the following words as tags: "bulky", "petty", "blast", "Armor", and die notations (e.g., "d4", "d6", "d8", "d10", "d12", "d6+d6"). Treat "1 Armor", "2 Armor", "3 Armor", "+1 Armor", etc., as tags. Words like "enhanced" and "impaired" should not be included as tags. Do not create new tags or include any other words or phrases as tags, regardless of their contextual significance.
        - Tags are keywords that directly impact the gameplay mechanics of the item. If in doubt, refer to the provided list and include only those specified.
      - Look for numbers followed by the word "uses" or "charges" (e.g., "6 uses", "2 charges"), indicating the maximum uses for the item. Include the tag "uses" in the "tags" array and specify the total number of uses in the "max_uses" field. If the item has unlimited uses or charges, set "max_uses" to `null`. If an item is listed with "uses" or "charges" but without a specific number, include the tag "uses" and set "max_uses" to `null`.
    - If an item description includes a method for recharging, add this information to the "description" field of the item.
@@ -42,10 +42,11 @@ The following are detailed instructions for converting a given Markdown text int
      - "image": The file name constructed from the background name.
      - "background_description": The recorded description.
      - "names": The list of recorded names.
-     - "background_items": A dictionary where each key is an item name, and the value is another dictionary with keys "tags", "max_uses", and "description". Fill in the details for each item based on the extracted tags and maximum uses. Leave "description" as an empty string unless a method for recharging is specified.
+     - "background_items": A dictionary where each key is an item name, and the value is another dictionary with keys "tags", "max_uses", and "description". Fill in the details for each item based on the extracted tags and maximum uses. Leave "description" as an empty string unless a
+
+ method for recharging is specified.
      - "starting_gear": A list of the starting gear items.
-     - "table1": A structured representation of the first table, including the question and options.
-     - "table2": A structured representation of the second table, including the question and options.
+     - "table1", "table2", etc.: A structured representation of the tables, including the question and options.
      - Do not include the roll number or any dice notation.
      - Do not add comments (e.g. "//").
      - Remove any markdown notations for bold and italic from the entire JSON structure.
@@ -57,7 +58,7 @@ The following are detailed instructions for converting a given Markdown text int
 
 9. **Verification of Tables**:
    - After constructing the JSON, specifically verify that all items listed within the tables' options have been captured.
-   - Cross-check the "table1" and "table2" structures against the original Markdown to confirm that no items, descriptions, or gold values have been missed.
+   - Cross-check the "table1", "table2", etc., structures against the original Markdown to confirm that no items, descriptions, or gold values have been missed.
    - If any items are found to be missing or incorrect, revise the JSON structure to include them accurately.
 
-These instructions are intended to guide you through the process of accurately converting Markdown text into a structured JSON format, paying close attention to the specific requirements for each section.
+These instructions are intended to guide you through the process of accurately converting Markdown text into a structured JSON format, paying close attention to the specific requirements for each section. The goal is to ensure the resulting JSON is a faithful representation of the original Markdown content, allowing for effective use in applications or games that will utilize the data.

@@ -39,7 +39,7 @@ Seed, Thresh, Dibber, Sow, Stalk, Harrow, Cobb, Flax, Briar, Rye
 | ----- | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1** | **Bloodvine Whip** | d8 damage. On **Critical Damage** it drains the target's blood, granting the weapon's next attack the _blast_ quality             |
 | **2** | **Clatter Keeper** | A hand-cranked device that emits a loud noise, frightening away most creatures.                                                               |
-| **3** | **Sun Stick**      | Provides ample warmth and light for up to one hour. **Recharge**: Leave in heavy sunlight for a full day.  |
+| **3** | **Sun Stick**      | Provides ample warmth and light for up to one hour. **Recharge**: Leave in heavy sunlight for a full day. 1 use. |
 | **4** | **Root Tether**    | When thrown, binds up to a wolf-sized creature to the soil for a short time.                                                                        |
 | **5** | **Greenwhistle**   | A small flute that calms plants, making passage through areas heavy with plant life a bit easier.                                                   |
 | **6** | **Everbloom Band** | A circlet adorned with flowers that never wilt. On taking **Critical Damage** the flowers dissolve into dust, but you act as if your save succeeded (STR loss still occurs). |

@@ -39,8 +39,8 @@ Faunus, Snowdrop, Wisp, Silverdew, Brim, Solstice, Steeleye, Sileas, Gossamer, H
 |       |                   |                                                                                                                                         |
 | ----- | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
 | **1** | **Pipeweed**      | Your good luck charm. Conversations tend to flow more easily after a smoke. 6 uses.                                                     |
-| **2** | **Stink Jar**     | Shattering this jar releases an odor so foul all nearby must make a STR save or immediately vomit.                                      |
+| **2** | **Stink Jar**     | Shattering this jar releases an odor so foul all nearby must make a STR save or immediately vomit. 1 use.                                 |
 | **3** | **Ivy Worm**      | A green worm often mistaken for a weed. Swallowed whole, it absorbs any toxins or rot in the body before exiting through the usual way. |
 | **4** | **Dream Stone**   | A smooth blue stone that helps recall dreams more clearly. Overuse can cause dream-addiction.                                           |
-| **5** | **Drowning Rod**  | A finger-sized wooden stick that doubles in size each time it is fully submerged in water. It does not shrink down again.               |
+| **5** | **Drowning Rod**  | A finger-sized wooden stick that doubles in size each time it is fully submerged in water. It does not shrink down again.         |
 | **6** | **Rabbit's Foot** | You were wearing it when they found you. They say it is the foot of she who left you, and that it protects you from witch magic.        |

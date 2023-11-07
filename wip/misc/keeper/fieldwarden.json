@@ -60,8 +60,8 @@
         "description": ""
       },
       "Sun Stick": {
-        "tags": [],
-        "max_uses": null,
+        "tags": ["uses"],
+        "max_uses": 1,
         "description": "Recharge: Leave in heavy sunlight for a full day."
       },
       "Root Tether": {
