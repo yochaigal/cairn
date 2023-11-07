@@ -1,0 +1,166 @@
+{
+    "background": "Mountebank",
+    "image": "mountebank.png",
+    "background_description": "Wits are your sharpest weapon, a facade your strongest shield. But when you do lose, you lose badly.",
+    "names": [
+      "Ambrose",
+      "Lucius",
+      "Beauregard",
+      "Cornelius",
+      "Aria",
+      "Seren",
+      "Indigo",
+      "Delphine",
+      "Solene",
+      "Noa"
+    ],
+    "background_items": {
+      "Cart": {
+        "tags": ["bulky"],
+        "max_uses": null,
+        "description": ""
+      },
+      "Trick playing cards": {
+        "tags": [],
+        "max_uses": null,
+        "description": ""
+      },
+      "Fancy hat": {
+        "tags": ["petty"],
+        "max_uses": null,
+        "description": ""
+      },
+      "Cane sword": {
+        "tags": [],
+        "max_uses": null,
+        "description": ""
+      },
+      "Bandages": {
+        "tags": [],
+        "max_uses": 3,
+        "description": ""
+      },
+      "Scroll of Charm": {
+        "tags": ["petty"],
+        "max_uses": null,
+        "description": ""
+      },
+      "Knife": {
+        "tags": [],
+        "max_uses": null,
+        "description": ""
+      },
+      "Captain's Uniform": {
+        "tags": ["petty"],
+        "max_uses": null,
+        "description": ""
+      },
+      "Ceremonial Sword": {
+        "tags": [],
+        "max_uses": null,
+        "description": "harmless, worth 60gp"
+      },
+      "Bouquet of Flowers": {
+        "tags": [],
+        "max_uses": null,
+        "description": ""
+      },
+      "Auditory Illusion Spellbook": {
+        "tags": [],
+        "max_uses": null,
+        "description": "You create illusory sounds that seem to come from a direction of your choice."
+      },
+      "Miracle Oil": {
+        "tags": ["uses"],
+        "max_uses": 2,
+        "description": ""
+      },
+      "Surgeon's Soap": {
+        "tags": ["uses"],
+        "max_uses": 4,
+        "description": ""
+      },
+      "Goat Powder": {
+        "tags": [],
+        "max_uses": null,
+        "description": ""
+      },
+      "Cursed Sapphire": {
+        "tags": [],
+        "max_uses": null,
+        "description": "Worth 200gp, reappears in pocket after spending"
+      },
+      "Alchemical Tattoo": {
+        "tags": [],
+        "max_uses": null,
+        "description": "Can leave body on demand, follows commands, can pass injuries as STR loss"
+      }
+    },
+    "starting_gear": [
+      "Cart (+4 slots, bulky when pulled)",
+      "Trick playing cards",
+      "Fancy hat (petty)",
+      "Cane sword (d6)"
+    ],
+    "table1": {
+      "question": "How was your fraud exposed?",
+      "options": [
+        {
+          "description": "Your \"patients\" kept reporting miraculous recoveries, despite your lack of training. Start with Bandages (3 uses) and a knack for healing.",
+          "items": ["Bandages"],
+          "gold": null
+        },
+        {
+          "description": "After seducing a wealthy patron, their family hired a criminal gang to retrieve you. You escaped but need to lay low for a while. Start with a Scroll of Charm (petty).",
+          "items": ["Scroll of Charm"],
+          "gold": null
+        },
+        {
+          "description": "You were a peddler of fake prophesies, but when one turned out to be true, it drew unwanted attention. Roll on the Omens table, but keep the result to yourself. Start with a Knife (d6) hidden in your boot.",
+          "items": ["Knife"],
+          "gold": null
+        },
+        {
+          "description": "Your latest stunt destroyed a priceless artifact and injured a dozen bystanders. Start with a Captain's Uniform (petty), a Ceremonial Sword (harmless, 60gp), and a Bouquet of Flowers.",
+          "items": ["Captain's Uniform", "Ceremonial Sword", "Bouquet of Flowers"],
+          "gold": null
+        },
+        {
+          "description": "You were cursed by a hedgewitch for fooling some innocent village folk. Magic acts unpredictably in your hands (WIL save to avoid disaster). If you are the target of magic, the same applies to its wielder.",
+          "items": [],
+          "gold": null
+        }
+      ]
+    },
+    "table2": {
+      "question": "What did you learn from the experience?",
+      "options": [
+        {
+          "description": "How to quickly make friends, and more importantly, how to avoid enemies. Start with a Spellbook (contains the spell Auditory Illusion).",
+          "items": ["Spellbook"],
+          "gold": null
+        },
+        {
+          "description": "The art of disguise. How a change in attire and posture can change perception. Start with Miracle Oil (2 uses).",
+          "items": ["Miracle Oil"],
+          "gold": null
+        },
+        {
+          "description": "Cleanliness is next to godliness. No one suspects a well-groomed individual. Start with Surgeon's Soap (4 uses).",
+          "items": ["Surgeon's Soap"],
+          "gold": null
+        },
+        {
+          "description": "A little bit of danger adds excitement. A touch too much becomes lethal. Start with Goat Powder (addictive, but you can't overdose).",
+          "items": ["Goat Powder"],
+          "gold": null
+        },
+        {
+          "description": "Magic comes with a price, but sometimes the price is worth paying. Start with a Cursed Sapphire (200gp, reappears in pocket after spending).",
+          "items": ["Cursed Sapphire"],
+          "gold": null
+        }
+      ]
+    }
+  }
+  

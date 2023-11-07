@@ -1,0 +1,159 @@
+{
+    "background": "Greenwise",
+    "image": "greenwise.png",
+    "background_description": "You delve deep into The Woods, prying its secrets from between rough boughs and whispering leaves. In this verdant kingdom, you are no mere scholar, but its confidant as well.",
+    "names": ["Briar", "Moss", "Fern", "Lichen", "Root", "Willow", "Sage", "Yarrow", "Rowan", "Ash"],
+    "background_items": {
+      "Iron pot": {
+        "tags": [],
+        "max_uses": null,
+        "description": ""
+      },
+      "Root knife": {
+        "tags": ["d6"],
+        "max_uses": null,
+        "description": ""
+      },
+      "Healing salve": {
+        "tags": [],
+        "max_uses": null,
+        "description": "restore 4 STR"
+      },
+      "Twine bauble": {
+        "tags": ["petty"],
+        "max_uses": null,
+        "description": "Ward once per day"
+      },
+      "Bezoar Stone": {
+        "tags": ["uses"],
+        "max_uses": 1,
+        "description": "Ingesting it cures any poison (1 use, unless retrieved)."
+      },
+      "Soporific Concoction": {
+        "tags": ["uses"],
+        "max_uses": 3,
+        "description": ""
+      },
+      "Antitoxin": {
+        "tags": ["uses"],
+        "max_uses": 2,
+        "description": ""
+      },
+      "Healing Potion": {
+        "tags": [],
+        "max_uses": null,
+        "description": "completely restores STR"
+      },
+      "Prize Money": {
+        "tags": [],
+        "max_uses": null,
+        "description": "100gp"
+      },
+      "Amadou": {
+        "tags": ["uses"],
+        "max_uses": 3,
+        "description": ""
+      },
+      "Delphinium": {
+        "tags": [],
+        "max_uses": null,
+        "description": "Breathe water for up to one hour. Can be divided into fractional doses."
+      },
+      "Tacky Stalk": {
+        "tags": ["uses"],
+        "max_uses": 2,
+        "description": ""
+      },
+      "Wisp Lantern": {
+        "tags": [],
+        "max_uses": null,
+        "description": "provides a dim light so long as the wisp is able to feed on nearby pain and fear"
+      },
+      "Seed Bomb": {
+        "tags": ["blast", "uses"],
+        "max_uses": 3,
+        "description": "d6 damage"
+      },
+      "Briarvine": {
+        "tags": [],
+        "max_uses": null,
+        "description": "Entangles any creature up to horse size (STR to break free). Reusable."
+      }
+    },
+    "starting_gear": [
+      "Iron pot",
+      "Root knife (d6)",
+      "Healing salve (restore 4 STR)",
+      "Twine bauble (petty, Ward once per day)"
+    ],
+        "table1": {
+          "question": "How have The Woods failed you ?",
+          "options": [
+            {
+              "description": "An ill-tempered forest spirit cursed you for stealing, marking you as an enemy of their kind.",
+              "item": "Bezoar Stone",
+              "gold": null
+            },
+            {
+              "description": "A close friend, swallowed whole. Now you see their face in any tea you brew.",
+              "item": "Soporific Concoction",
+              "gold": null
+            },
+            {
+              "description": "You were poisoned, losing your sense of taste and smell. You can now withstand noxious fumes, and always carry antitoxin.",
+              "item": "Antitoxin",
+              "gold": null
+            },
+            {
+              "description": "Your radical experiments turned your skin green, and you now gain nourishment as a plant. You don't need Rations, but a day without sufficient sunlight and water leaves you deprived.",
+              "item": null,
+              "gold": null
+            },
+            {
+              "description": "Your impressive corpseflower won a local contest, then promptly killed a judge. You fled, but not without the Prize Money and a warrant for your arrest.",
+              "item": "Prize Money",
+              "gold": 100
+            },
+            {
+              "description": "You created a restorative tincture that also caused accidental infertility.",
+              "item": "Healing Potion",
+              "gold": null
+            }
+          ]
+        },
+        "table2": {
+        "question": "What keeps you safe while in The Woods?",
+        "options": [
+          {
+            "description": "A vermillion fungus that catches fire quite easily.",
+            "Items": ["Amadou"],
+            "gold": null
+          },
+          {
+            "description": "Breathe water for up to one hour. Can be divided into fractional doses.",
+            "Items": ["Delphinium"],
+            "gold": null
+          },
+          {
+            "description": "A woody reed that hardens into a permanent adhesive when chewed.",
+            "Items": ["Tacky Stalk"],
+            "gold": null
+          },
+          {
+            "description": "Caged in wrought iron, provides a dim light so long as the wisp is able to feed on nearby pain and fear.",
+            "Items": ["Wisp Lantern"],
+            "gold": null
+          },
+          {
+            "description": "A canvas sack that explodes on impact, scattering seeds. d6 damage (blast).",
+            "Items": ["Seed Bomb"],
+            "gold": null
+          },
+          {
+            "description": "Entangles any creature up to horse size (STR to break free). Reusable.",
+            "Items": ["Briarvine"],
+            "gold": null
+          }
+        ]
+    }
+  }

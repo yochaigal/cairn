@@ -1,0 +1,233 @@
+{
+    "background": "Prowler",
+    "image": "prowler.png",
+    "background_description": "You are a specter in the night, a fleeting shadow that slips by its prey, unseen. Each kill a test of cunning and animal determination, a contest between life and death. You know that one day you will lose. You look forward to it.",
+    "names": [
+      "Winda",
+      "Brielle",
+      "Theron",
+      "Chayse",
+      "Nuja",
+      "Dev",
+      "Raven",
+      "Lyra",
+      "Sable"
+    ],
+    "starting_gear": [
+      "Tarp",
+      "Boiled leather",
+      "Short sword",
+      "Spring-loaded trap"
+    ],
+    "background_items": {
+      "Boiled leather": {
+        "tags": ["1 Armor"],
+        "max_uses": null,
+        "description": ""
+      },
+      "Short sword": {
+        "tags": ["d6"],
+        "max_uses": null,
+        "description": ""
+      },
+      "Spring-loaded trap": {
+        "tags": ["4 STR damage"],
+        "max_uses": null,
+        "description": ""
+      },
+      "Alchemical Limb": {
+        "tags": ["d8"],
+        "max_uses": null,
+        "description": "It works as well as the real thing, and is immune to poison, fire, and heat. Sometimes it jams."
+      },
+      "Rime Seed": {
+        "tags": ["1 use"],
+        "max_uses": 1,
+        "description": "It freezes any body of water, no matter the size. Don't eat it."
+      },
+      "Tooth": {
+        "tags": ["petty"],
+        "max_uses": null,
+        "description": "The tooth hums softly when something is stalking you."
+      },
+      "Heartseed": {
+        "tags": [],
+        "max_uses": null,
+        "description": "Plant to create a new forest."
+      },
+      "Iron Bracers": {
+        "tags": ["+1 Armor", "bulky"],
+        "max_uses": null,
+        "description": ""
+      },
+      "Paring Knife": {
+        "tags": ["d6"],
+        "max_uses": null,
+        "description": ""
+      },
+      "Fermented Spirits": {
+        "tags": ["3 uses"],
+        "max_uses": 3,
+        "description": "Keeps you warm at the best of times, and as an explosive at the worst."
+      },
+      "Trail Shaker": {
+        "tags": [],
+        "max_uses": null,
+        "description": "A noisy instrument that reveals nearby trails, even when deeply hidden."
+      },
+      "Drowse Balm": {
+        "tags": [],
+        "max_uses": null,
+        "description": "A wax bar. If boiled in water, the steam acts as a soporific agent."
+      },
+      "Spike and Cord": {
+        "tags": [],
+        "max_uses": null,
+        "description": "For traversing or securing difficult terrains, or for creating makeshift traps and structures."
+      },
+      "Iron Rattle": {
+        "tags": [],
+        "max_uses": null,
+        "description": "A noisemaker for distracting or scaring your quarry. Sounds convincingly like a snake."
+      },
+      "Hardening Glue": {
+        "tags": ["3 uses"],
+        "max_uses": 3,
+        "description": "Makes any flat material (cloth, leather, sand) as hard as stone. Expensive."
+      }
+    },
+        "table1": {
+          "question": "What did you last hunt?",
+          "options": [
+            {
+              "description": "A mock firefly, baiting water carriers with its glowing lure.",
+              "items": [
+                {
+                  "name": "Alchemical Limb",
+                  "description": "Take an Alchemical Limb (d8) to replace the one it tore off. It works as well as the real thing, and is immune to poison, fire, and heat. Sometimes it jams."
+                }
+              ],
+              "gold": null
+            },
+            {
+              "description": "An ice nettle, trapping and draining sheep.",
+              "items": [
+                {
+                  "name": "Rime Seed",
+                  "description": "Take a Rime Seed (1 use). It freezes any body of water, no matter the size. Don't eat it."
+                }
+              ],
+              "gold": null
+            },
+            {
+              "description": "A silver marsh crawler that killed someone close to you.",
+              "items": [
+                {
+                  "name": "Tooth",
+                  "description": "You now carry its Tooth (petty) on a chain around your neck as a warning to others of its kind. The tooth hums softly when something is stalking you."
+                }
+              ],
+              "gold": null
+            },
+            {
+              "description": "A malicious forest spirit that poisoned a homestead.",
+              "items": [
+                {
+                  "name": "Heartseed",
+                  "description": "You saved a Heartseed from the roots of a dying tree (plant to create a new forest)."
+                },
+                {
+                  "name": "Iron Bracers",
+                  "description": "Also, take Iron Bracers (+1 Armor, bulky)."
+                }
+              ],
+              "gold": null
+            },
+            {
+              "description": "A hollow wolf that had been frightening travellers.",
+              "items": [
+                {
+                  "name": "Hollow Wolf Companion",
+                  "description": "You took pity on the half-starved creature, and nursed it back to health. Now it is loyal to you unto death. It is also a great tunneler. 5 HP, 11 STR, 13 DEX, 8 WIL, teeth (d6)."
+                }
+              ],
+              "gold": null
+            },
+            {
+              "description": "An azure warbler. The gametes attract a sizeable profit, if properly extracted.",
+              "items": [
+                {
+                  "name": "Paring Knife",
+                  "description": "Take a Paring Knife (d6), an extra 20gp, and a pang of regret."
+                }
+              ],
+              "gold": 20
+            }
+          ]
+        },
+        "table2": {
+          "question": "What tool is always in your pack?",
+          "options": [
+            {
+              "description": "Fermented Spirits",
+              "items": [
+                {
+                  "name": "Fermented Spirits",
+                  "description": "Keeps you warm at the best of times, and as an explosive at the worst. 3 Uses."
+                }
+              ],
+              "gold": null
+            },
+            {
+              "description": "Trail Shaker",
+              "items": [
+                {
+                  "name": "Trail Shaker",
+                  "description": "A noisy instrument that reveals nearby trails, even when deeply hidden."
+                }
+              ],
+              "gold": null
+            },
+            {
+              "description": "Drowse Balm",
+              "items": [
+                {
+                  "name": "Drowse Balm",
+                  "description": "A wax bar. If boiled in water, the steam acts as a soporific agent."
+                }
+              ],
+              "gold": null
+            },
+            {
+              "description": "Spike and Cord",
+              "items": [
+                {
+                  "name": "Spike and Cord",
+                  "description": "For traversing or securing difficult terrains, or for creating makeshift traps and structures."
+                }
+              ],
+              "gold": null
+            },
+            {
+              "description": "Iron Rattle",
+              "items": [
+                {
+                  "name": "Iron Rattle",
+                  "description": "A noisemaker for distracting or scaring your quarry. Sounds convincingly like a snake."
+                }
+              ],
+              "gold": null
+            },
+            {
+              "description": "Hardening Glue",
+              "items": [
+                {
+                  "name": "Hardening Glue",
+                  "description": "Makes any flat material (cloth, leather, sand) as hard as stone. Expensive (20gp a bottle, 3 uses)."
+                }
+              ],
+              "gold": null
+            }
+          ]
+        }
+      }

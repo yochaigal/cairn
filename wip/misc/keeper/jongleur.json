@@ -1,0 +1,210 @@
+{
+    "background": "Jongleur",
+    "image": "jongleur.png",
+    "background_description": "What inspires the soul more than song, words, and spectacle? Why practice for years to master the arcane when you've already got real magic inside?",
+    "names": [
+      "Jax",
+      "Selene",
+      "Baladria",
+      "Ada",
+      "Felix",
+      "Saylor",
+      "Tripp",
+      "Lantos",
+      "Echo",
+      "Jubilo"
+    ],
+    "background_items": {
+      "Rapier": {
+        "tags": [],
+        "max_uses": null,
+        "description": ""
+      },
+      "False identity": {
+        "tags": [],
+        "max_uses": null,
+        "description": ""
+      },
+      "Read Mind Spellbook": {
+        "tags": [],
+        "max_uses": null,
+        "description": ""
+      },
+      "Arrest warrant": {
+        "tags": [],
+        "max_uses": null,
+        "description": ""
+      },
+      "Book On Astronomy": {
+        "tags": [],
+        "max_uses": null,
+        "description": ""
+      },
+      "Thesaurus": {
+        "tags": [],
+        "max_uses": null,
+        "description": ""
+      },
+      "Stage Mail": {
+        "tags": ["1 Armor"],
+        "max_uses": null,
+        "description": ""
+      },
+      "Memorable scar": {
+        "tags": [],
+        "max_uses": null,
+        "description": ""
+      },
+      "Fear of applause": {
+        "tags": [],
+        "max_uses": null,
+        "description": ""
+      },
+      "Uncanny Hand-Puppet": {
+        "tags": [],
+        "max_uses": null,
+        "description": ""
+      },
+      "Rabbit Skull": {
+        "tags": [],
+        "max_uses": null,
+        "description": ""
+      },
+      "False Cuffs": {
+        "tags": [],
+        "max_uses": null,
+        "description": ""
+      },
+      "Pocket Theatre": {
+        "tags": [],
+        "max_uses": null,
+        "description": ""
+      },
+      "Ghost Violin": {
+        "tags": [],
+        "max_uses": null,
+        "description": ""
+      },
+      "Tragic Tales": {
+        "tags": [],
+        "max_uses": null,
+        "description": ""
+      },
+      "Mythos Mask": {
+        "tags": [],
+        "max_uses": null,
+        "description": ""
+      },
+      "Rebreak Glass": {
+        "tags": [],
+        "max_uses": null,
+        "description": ""
+      }
+    },
+    "starting_gear": [
+      "Costume",
+      "Makeup",
+      "Lucky jerkin (1 Armor)",
+      "Prop sword (looks real, no damage)"
+    ],
+    "table1": {
+      "question": "What happened at your final performance?",
+      "options": [
+        {
+          "description": "Despite your training in the deadly arts, an actor died and you were blamed. Take a light-weight Rapier (d6) and a false identity.",
+          "items": [
+            "Rapier",
+            "False identity"
+          ],
+          "gold": null
+        },
+        {
+          "description": "The crowd loved your catchy tune about a noble and his romantic failings. The noble in question, not so much. Take the Read Mind Spellbook and a warrant for your arrest.",
+          "items": [
+            "Read Mind Spellbook",
+            "Arrest warrant"
+          ],
+          "gold": null
+        },
+        {
+          "description": "Your debut composition reduced the audience to a gibbering mess, murmuring of bright creatures descending from the night sky. Later you noticed that the notes resembled stellar constellations. Take a Book On Astronomy, and a lot of questions.",
+          "items": [
+            "Book On Astronomy"
+          ],
+          "gold": null
+        },
+        {
+          "description": "You mocked a forgotten trickster god, and were cursed for it. You speak only in perfect rhyme. Ironically, this has only made you more popular among your peers. Take a Thesaurus (20gp). Without it you are deprived.",
+          "items": [
+            "Thesaurus"
+          ],
+          "gold": null
+        },
+        {
+          "description": "You were scarred in an on-stage accident. The crowd cheered, thinking it was part of the act. Take well-worn Stage Mail (1 Armor), a memorable scar, and a fear of applause.",
+          "items": [
+            "Stage Mail",
+            "Memorable scar",
+            "Fear of applause"
+          ],
+          "gold": null
+        },
+        {
+          "description": "A string on your violin snapped mid-note, flogging your face. Now you play a Ghost Violin (4 uses), no strings attached. Literally.",
+          "items": [
+            "Ghost Violin"
+          ],
+          "gold": null
+        }
+      ]
+    },
+    "table2": {
+      "question": "What legendary act do you aspire to perform?",
+      "options": [
+        {
+          "description": "The Dance of the Seven Winds. A single misstep could send you plummeting to your doom. It requires a pair of Mythos Masks.",
+          "items": [
+            "Mythos Mask"
+          ],
+          "gold": null
+        },
+        {
+          "description": "The Great Escape. You plan to break out of the inescapable Dreadfort using only your Uncanny Hand-Puppet and a set of False Cuffs.",
+          "items": [
+            "Uncanny Hand-Puppet",
+            "False Cuffs"
+          ],
+          "gold": null
+        },
+        {
+          "description": "The Play That Ends the World. To perform it, you need a Pocket Theatre and the script, which you're sure exists... somewhere.",
+          "items": [
+            "Pocket Theatre"
+          ],
+          "gold": null
+        },
+        {
+          "description": "A Tragic Tale so sad it makes the audience's heart stop. You're still working on the ending. Literally. Take the book of Tragic Tales.",
+          "items": [
+            "Tragic Tales"
+          ],
+          "gold": null
+        },
+        {
+          "description": "The Ultimate Joke. You're collecting jokes so funny, listeners die laughing. It's dangerous work, but you have a Rabbit Skull that seems to ward off the fatal effects.",
+          "items": [
+            "Rabbit Skull"
+          ],
+          "gold": null
+        },
+        {
+          "description": "A new form of storytelling that involves breaking something and then restoring it. Your Rebreak Glass is the first step.",
+          "items": [
+            "Rebreak Glass"
+          ],
+          "gold": null
+        }
+      ]
+    }
+  }
+  

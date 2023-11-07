@@ -1,0 +1,139 @@
+{
+    "background": "Hexenbane",
+    "image": "hexenbane.png",
+    "background_description": "You are a mere digit on the unerring hand of justice. You go where others fear to tread, unyielding and unbroken.",
+    "names": [
+      "Percival",
+      "Felix",
+      "Isolde",
+      "Wolfram",
+      "Aldric",
+      "Eira",
+      "Oswin",
+      "Ivor",
+      "Brunhilda",
+      "Beatrix"
+    ],
+    "background_items": {
+      "Vestments of the Order": {
+        "tags": ["petty"],
+        "max_uses": null,
+        "description": ""
+      },
+      "Blessed Tinctures": {
+        "tags": [],
+        "max_uses": null,
+        "description": ""
+      },
+      "Silver knife": {
+        "tags": ["d6"],
+        "max_uses": null,
+        "description": ""
+      },
+      "Crossbow": {
+        "tags": ["d8", "bulky"],
+        "max_uses": null,
+        "description": ""
+      },
+      "Pocket Leyfinder": {
+        "tags": [],
+        "max_uses": null,
+        "description": "Points to nearby ley lines and other sources of arcane power."
+      },
+      "Star-Iron Mace": {
+        "tags": ["d8"],
+        "max_uses": null,
+        "description": "Shines faintly in darkness, becomes very hot in the presence of witchcraft."
+      },
+      "Short sword": {
+        "tags": ["d8"],
+        "max_uses": null,
+        "description": ""
+      },
+      "Chainmail": {
+        "tags": ["2 Armor", "bulky"],
+        "max_uses": null,
+        "description": "Provides contacts in most towns for aid."
+      },
+      "Voidglass Shard": {
+        "tags": [],
+        "max_uses": null,
+        "description": "See invisible marks and creatures but temporarily lose vision."
+      },
+      "Quicksilver Chain": {
+        "tags": [],
+        "max_uses": null,
+        "description": "Allows transformation into a wolf and back."
+      },
+      "Quell Stone": {
+        "tags": [],
+        "max_uses": 2,
+        "description": "Extinguishes any nearby flames once exposed to air."
+      }
+    },
+    "starting_gear": [
+      "Vestments of the Order (petty)",
+      "Blessed Tinctures",
+      "Silver knife (d6)",
+      "Crossbow (d8, bulky)"
+    ],
+    "table1": {
+      "question": "To which order do you belong? Roll 1d6:",
+      "options": [
+        {
+          "Description": "Order of the Crossroads: Take a Pocket Leyfinder. It points to nearby ley lines and other sources of arcane power. If you lose it, the punishment is death.",
+          "Items": ["Pocket Leyfinder"]
+        },
+        {
+          "Description": "Order of the Bleeding Star: Take a Star-Iron Mace (d8). It shines faintly in darkness, and becomes very hot in the presence of witchcraft.",
+          "Items": ["Star-Iron Mace"]
+        },
+        {
+          "Description": "Order of the Glass Sigil: Take a short sword (d8) and chainmail (2 Armor, bulky). You have contacts in most towns (the more rural, the better) willing to provide aid, food, or even weapons.",
+          "Items": ["Short sword", "Chainmail"]
+        },
+        {
+          "Description": "Order of the Blank Eye: Take a Voidglass Shard. Peer through it to see invisible marks, creatures, and other magical effects. Lose the use of your eye for an hour afterwards (you are deprived).",
+          "Items": ["Voidglass Shard"]
+        },
+        {
+          "Description": "Order of Canaas: Once per day you can change into a wolf. Take a Quicksilver Chain. Without it, you are unable to shift back.",
+          "Items": ["Quicksilver Chain"]
+        },
+        {
+          "Description": "Order of the Silent Veil: Take a Quell Stone (2 uses) wrapped in burlap. Extinguishes any nearby flames once exposed to air.",
+          "Items": ["Quell Stone"]
+        }
+      ]
+    },
+    "table2": {
+      "question": "What was your vow? Roll 1d6:",
+      "options": [
+        {
+          "Description": "Honesty: Choose a weapon type (blunt, blade, etc). Attacks with this type will always hit their target but have no other effect.",
+          "Items": ["Vow of Honesty"]
+        },
+        {
+          "Description": "Silence: You cannot speak or you will lose a d6 STR permanently.",
+          "Items": ["Vow of Silence"]
+        },
+        {
+          "Description": "Mercy: You cannot deal a killing blow. If you do, you lose a d6 STR.",
+          "Items": ["Vow of Mercy"]
+        },
+        {
+          "Description": "Endurance: Each morning, roll d6. Gain that much STR. If you fail to do this, you lose d6 STR.",
+          "Items": ["Vow of Endurance"]
+        },
+        {
+          "Description": "Poverty: Cannot own more than 6 items. If you exceed this, you lose d6 STR.",
+          "Items": ["Vow of Poverty"]
+        },
+        {
+          "Description": "Valor: Each time you take a blow for another, regain maximum HP if you were below it. If your vow is broken, you lose d8 STR.",
+          "Items": ["Vow of Valor"]
+        }
+      ]
+    }
+  }
+  

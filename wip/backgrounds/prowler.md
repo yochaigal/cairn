@@ -30,7 +30,7 @@ Winda, Brielle, Theron, Chayse, Nuja, Dev, Raven, Lyra, Sable
 | **2** | An _ice nettle_, trapping and draining sheep. You lost your commission when the fungus you introduced killed half the flock. Take a **Rime Seed** (1 use). It freezes any body of water, no matter the size. Don't eat it. |
 | **3** | A _silver marsh crawler_ that killed someone close to you. You now carry its **Tooth** (_petty_) on a chain around your neck as a warning to others of its kind. _The tooth hums softly when something is stalking you_.  |
 | **4**  | A malicious _forest spirit_ that poisoned a homestead. You saved a **Heartseed** from the roots of a dying tree (plant to create a a new forest). Also, take **Iron Bracers** (+1 Armor, _bulky_). 
-| **5** | A  _hollow wolf_ that had been frightening travellers. By the time you found it, the creature was nearly dead. You took pity, and nursed it back to health. It is loyal to you unto death. 5 HP, 11 STR, 13 DEX, 8 WIL, teeth (d6). A great tunneler.    |
+| **5** | A _hollow wolf_ that had been frightening travellers. You took pity on the half-starved creature, and nursed it back to health. Now it is loyal to you unto death. It is also a great tunneler. 5 HP, 11 STR, 13 DEX, 8 WIL, teeth (d6).     |
 | **6** | An _azure warbler_. The gametes attract a sizeable profit, if properly extracted. You succeeded, but left its nest to the wolves. Take a **Paring Knife** (d6), **an extra 20gp**, and a pang of regret. |
 
 ## What tool is always in your pack? Roll 1d6:
