@@ -9,15 +9,15 @@ search_exclude: true
 
 # Downtime
 
-Players may utilize the following procedures between game sessions to research a question, follow-up on a lead, improve a skill, or build a relationship. Only one **Downtime Action** is possible at a time, and some actions may require multiple steps to complete. These actions may not be taken if the PC is not in a safe space, as well as while healing or recovering. A character cannot perform an action if it would put their safety at risk. 
+Between game sessions, players can engage in a variety of activities such as researching, following up on leads, improving skills, or building relationships. A PC is limited to one **Downtime Action** at a time. These actions cannot be undertaken in unsafe conditions or while a character is in recovery. A character cannot perform an action if it would put their safety at risk.
 
 ## Milestones
 
-**Downtime Actions** may require multiple steps to complete. In these cases, the Warden then provides 1-5 **Milestones** that the player can tick off as they make progress towards their goal. Each **Milestone** represents a "zoomed-out" activity that is both abstract and non-interactive. Most **Milestones** requires a single **Downtime Action** to accomplish, and potentially their own unique **Cost** as well. The **Warden** _may_ provide the player with multiple "paths" to accomplishing their goals, each with their own unique **Milestones**. Over time, the **Warden** may add new **Milestones** or remove others entirely, depending on the events of the fiction.  
+For activities requiring multiple steps, the **Warden** assigns 1-5 **Milestones** for players to track progress. Each **Milestone** represents a comprehensive, non-interactive task. The **Warden** may present different strategies to achieve these goals, each with distinct **Milestones**. Depending on the unfolding events in the game, the **Warden** is also empowered to introduce new **Milestones** or discard existing ones.
 
-### Costs
+## Costs
 
-At a minimum, every **Milestone** costs a single **Downtime Action**. If a character cannot pay the **Cost**, they may have to find some other way to achieve their goal. A few examples of **Cost**: 
+PCs can complete individual **Milestones** by taking a **Downtine Action**, and paying its respective **Cost**. If a character is unable to pay the **Cost**, they may have to find some other way to achieve their goal. A few examples of **Cost**: 
 - **Gold**: Direct payment of gold from a character's inventory.
 - **Resources**: Non-monetary costs, such as material goods, specific common items, and so on. 
 - **Reputation**: Betting on a character's renown, personality, presence, social connections, etc.
@@ -68,5 +68,3 @@ Examples:
 - After returning from an unsuccessful delve into the **Roots**, a PC discovers that they'd unknowingly brought along a stowaway: an eyeless devourer, barely hatched. They decide to keep the creature and train it in secret. 
 - During a play session, a PC becomes friendly with the **Seneschal** of the **Order of the Helm**. Impressed by the Order's values, the PC asks what the requirements are to join.
 - A powerful **Seneschal** died during the **Battle of Frogs** while under the party's care. Now those responsible wish to provide redress, so that the party can once again perform tasks for that Faction.
-
-
