@@ -7,21 +7,21 @@ nav_exclude: true
 search_exclude: true
 ---
 
-# Downtime
+### Downtime
 
 Between game sessions, players can engage in a variety of activities such as research, following up on leads, improving skills, or building relationships. A PC is limited to one **Downtime Action** at a time. These actions cannot be undertaken in unsafe conditions or while a character is in recovery. A character cannot perform an action if it would put their safety at risk.
 
-## Milestones
+### Milestones
 
 For activities requiring multiple steps, the **Warden** assigns 1-5 **Milestones** for players to track progress. Each **Milestone** represents a comprehensive, non-interactive task. The **Warden** may present different strategies to achieve these goals, each with distinct **Milestones**. Depending on the unfolding events in the game, the **Warden** is also empowered to introduce new **Milestones** or discard existing ones.
 
-## Costs
+### Costs
 
-PCs can complete individual **Milestones** by taking a **Downtine Action**, and paying its respective **Cost**. If a character is unable to pay the **Cost**, they may have to find some other way to achieve their goal. A few examples of **Cost**: 
+PCs can complete individual **Milestones** by taking a **Downtine Action** and paying its respective **Cost**. If a character is unable to pay the **Cost**, they may have to find some other way to achieve their goal. A few examples of **Cost**: 
 - **Gold**: Direct payment of gold from a character's inventory.
-- **Resources**: Non-monetary costs, such as material goods, specific common items, and so on. 
+- **Resources**: Non-monetary costs such as material goods, specific common items, and so on. 
 - **Reputation**: Betting on a character's renown, personality, presence, social connections, etc.
-- **Loss**: Offering something specific and unique. A finger, a soul, a **Relic**, etc.   
+- **Loss**: Offering something specific and unique. A finger, a soul, a **Relic**, etc.
 
 Some **Costs** can be reduced or disregarded through character skills, connections, or force of will. For example, a PC may have already acquired the necessary reputation to gain access to a renowned institution, and thus the **cost** is abated. On the other hand, another character may not be so lucky, and must rely on their force of personality instead. In this case, the Warden should state the risk (a permanent ban on entry, a loss of reputation, etc.). The PC then makes a **WIL** save; on a success the cost is either reduced or eliminated entirely. 
 
@@ -46,12 +46,12 @@ A **Source** is a person, place, faction, or entity that holds either a part or 
 
 Example **Sources**:  
 - **Kewr the Mouth**, a frequent contact for the **Conclave of Merchants**. Despite their excellent relationship with this faction, asking for help in an illicit activity might come at a high cost.
-- A **Woodwose** who makes his home deep in the **Forest of Knives**. The party encountered him in an earlier expedition, and the encounter did not end well. Still, he is said to know the nature of every herb and their healing properties.
+- A **Woodwose** who makes his home deep in the **Forest of Knives**. The party encountered him in an earlier expedition and the meeting did not end well. Still, he is said to know the nature of every herb and their healing properties.
 - The **Temple of Puppets**, a nomadic circus troupe who have travelled the known and unknown lands. The party assisted one of their members during the **Rain of Fire**, when even the creatures of the Wood were preparing to flee their homes. If anyone has heard of forgotten places, it's them.
 
 ### Training
 
-A character can improve their skills with an item or ability, with clear narrative or mechanical results. They might be interested in dealing greater damage with a particular weapon, decreasing their chances of getting lost in rough weather, or learn to read the languages of the ancients. A PC might spend multiple **Downtime Actions** sparring with a particular weapon, improving their skills week by week. Or they may need to travel to the home of a distant sage, improving themselves through short but intense study.
+A character can improve their skills with an item or ability, with clear narrative or mechanical results. They might be interested in dealing greater damage with a particular weapon, decreasing their chances of getting lost in rough weather, or learning to read the languages of the ancients. A PC might spend multiple **Downtime Actions** sparring with a particular weapon, improving their skills week by week. Or they may need to travel to the home of a distant sage, improving themselves through short but intense study.
 
 The player must describe precisely what they'd like to improve, and a **Master** whom they might train with. And of course, the character's inspiration to improve should come from an experience in play. The **Warden** should provide any **Milestones** and associated **Costs**. 
 
