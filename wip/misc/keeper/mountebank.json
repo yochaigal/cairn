@@ -1,0 +1,170 @@
+{
+    "Mountebank": {
+      "image": "mountebank.png",
+      "background_description": "Wits are your sharpest weapon, a facade your strongest shield. But when you do lose, you lose badly.",
+      "names": [
+        "Ambrose",
+        "Lucius",
+        "Beauregard",
+        "Cornelius",
+        "Aria",
+        "Seren",
+        "Indigo",
+        "Delphine",
+        "Solene",
+        "Noa"
+      ],
+      "background_items": {
+        "Cart": {
+          "tags": ["bulky"],
+          "max_uses": null,
+          "description": ""
+        },
+        "Trick Playing Cards": {
+          "tags": [],
+          "max_uses": null,
+          "description": ""
+        },
+        "Fancy Hat": {
+          "tags": ["petty"],
+          "max_uses": null,
+          "description": ""
+        },
+        "Cane Sword": {
+          "tags": ["d6"],
+          "max_uses": null,
+          "description": ""
+        },
+        "Bandages": {
+          "tags": ["uses"],
+          "max_uses": 3,
+          "description": ""
+        },
+        "Beauty Cream": {
+          "tags": ["uses"],
+          "max_uses": 2,
+          "description": "Apply to appear irresistibly beautiful for the next 12 hours."
+        },
+        "Knife": {
+          "tags": ["d6"],
+          "max_uses": null,
+          "description": ""
+        },
+        "Captain's Uniform": {
+          "tags": ["petty"],
+          "max_uses": null,
+          "description": ""
+        },
+        "Ceremonial Sword": {
+          "tags": ["harmless", "60gp"],
+          "max_uses": null,
+          "description": ""
+        },
+        "Bouquet of Flowers": {
+          "tags": [],
+          "max_uses": null,
+          "description": ""
+        },
+        "Spellbook": {
+          "tags": [],
+          "max_uses": null,
+          "description": ""
+        },
+        "Royal Crest": {
+          "tags": [],
+          "max_uses": null,
+          "description": "Grants access but alerts your family of your whereabouts."
+        },
+        "Miracle Oil": {
+          "tags": ["uses"],
+          "max_uses": 2,
+          "description": ""
+        },
+        "Surgeon's Soap": {
+          "tags": ["uses"],
+          "max_uses": 4,
+          "description": "Makes skin temporarily transparent, revealing the anatomy within."
+        },
+        "Goat Powder": {
+          "tags": ["uses"],
+          "max_uses": null,
+          "description": "Temporarily cures any affliction, but symptoms return within hours."
+        },
+        "Cursed Sapphire": {
+          "tags": ["200gp"],
+          "max_uses": null,
+          "description": "Noticeably returns to your pocket shortly after you spend it."
+        },
+        "Alchemical Tattoo": {
+          "tags": [],
+          "max_uses": null,
+          "description": "Can leave your body on demand and follows your commands, but can pass its injuries back onto you."
+        }
+      },
+      "starting_gear": [
+        "Cart",
+        "Trick Playing Cards",
+        "Fancy Hat",
+        "Cane Sword"
+      ],
+      "table1": {
+        "question": "How was your fraud exposed?",
+        "options": [
+          {
+            "description": "Your \"patients\" kept reporting miraculous recoveries, despite your lack of training. Start with Bandages (3 uses) and a knack for healing.",
+            "items": ["Bandages"]
+          },
+          {
+            "description": "After seducing a wealthy patron, their family hired a criminal gang to retrieve you. You got away and need to lay low. Start with Beauty Cream, 2 uses. Apply to appear irresistibly beautiful for the next 12 hours.",
+            "items": ["Beauty Cream"]
+          },
+          {
+            "description": "You were a peddler of fake prophesies, but when one turned out to be true, it drew unwanted attention. Roll on the Omens table, but keep the result to yourself. Start with a Knife (d6) hidden in your boot.",
+            "items": ["Knife"]
+          },
+          {
+            "description": "Your latest stunt destroyed a priceless artifact and injured a dozen bystanders. Start with a Captain's Uniform (petty), a Ceremonial Sword (harmless, 60gp), and a Bouquet of Flowers.",
+            "items": ["Captain's Uniform", "Ceremonial Sword", "Bouquet of Flowers"]
+          },
+          {
+            "description": "You were cursed by a hedgewitch for fooling some innocent village folk. Magic acts unpredictably in your hands (WIL save to avoid disaster). If you are the target of magic, the same applies to its wielder.",
+            "items": []
+          },
+          {
+            "description": "Your \"seances\" with the dead were in actuality a ruse involving a cleverly hidden spellbook of Auditory Illusion. Inevitably, a patron discovered your secret. Start with the Spellbook and a bundle of scarves.",
+            "items": ["Spellbook"]
+          }
+        ]
+      },
+      "table2": {
+        "question": "What keepsake could always identify you?",
+        "options": [
+          {
+            "description": "Born into royalty, you chose a different life. The Royal Crest grants you access, but also alerts your family of your whereabouts.",
+            "items": ["Royal Crest"]
+          },
+          {
+            "description": "A smelly concoction that is also very, very, slippery. 2 uses.",
+            "items": ["Miracle Oil"]
+          },
+          {
+            "description": "A lye and ash block that makes skin temporarily transparent, revealing the anatomy within. 4 uses.",
+            "items": ["Surgeon's Soap"]
+          },
+          {
+            "description": "Derived from the placenta of a baby goat. Temporarily cures any affliction, but symptoms return within hours.",
+            "items": ["Goat Powder"]
+          },
+          {
+            "description": "Worth 200gp, it noticeably returns to your pocket shortly after you spend it. You can't seem to get rid of it.",
+            "items": ["Cursed Sapphire"]
+          },
+          {
+            "description": "A dog, cat, or bird that can leave your body on demand. It follows your commands to the best of its abilities, and can pass its injuries (as STR loss) back onto you.",
+            "items": ["Alchemical Tattoo"]
+          }
+        ]
+      }
+    }
+  }
+  
