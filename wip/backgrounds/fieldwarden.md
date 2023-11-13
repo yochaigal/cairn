@@ -20,7 +20,7 @@ Seed, Thresh, Dibber, Sow, Stalk, Harrow, Cobb, Flax, Briar, Rye
 - Brigandine (1 Armor, _bulky_)
 - Bow (d6, _bulky_)
 - Hand axe (d6)
-- Repellent (wolf, deer, or insect)
+- Repellent (state the creature, 3 uses)
  
 ## What got the better of you? Roll 1d6:
 

@@ -19,7 +19,7 @@ Wilmot, Patch, Lancet, Sawbones, Theo, Cutwell, Humor, Landsford, Goodeye, Johan
  
 - Bonesaw (d6)
 - Bandages (3 uses)
-- Leech (restores 1 STR)
+- Leech (restores 1 STR, 3 uses)
 - Stained medical finery (_petty_)
 
 ## How have you "improved" yourself? Roll 1d6:
