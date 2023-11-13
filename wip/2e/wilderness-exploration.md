@@ -31,9 +31,6 @@ search_exclude: true
 - One or more **watches** may be required to journey between two **points** on a map, depending on the path, terrain, weather, and party status.
 - The party has a rough idea of the challenges involved to get to their destination, but rarely any specifics. 
 
-> ### Hexes
-> When using a hex map, assume a tile takes one watch to cross, and that if the party [**gets lost**](#getting-lost) they end up in a random adjacent hex.
-
 ## Travel Duration
 
 Travel time in Cairn is counted in watches, divided into three eight-hour segments per day. However, as most parties elect to spend the third watch of the day resting, one can use "days" as a shorthand for travel time.
@@ -54,18 +51,18 @@ The weather, terrain, darkness, injured party members, and other obstacles can i
 |                   |             |
 | ----------------- | ----------- |
 | **Path Distance** | **Penalty** |
-| Short             | None        |
-| Medium            | +1 Watch    |
-| Long              | +2 Watches  |
+| Short             | +1 Watch    |
+| Medium            | +2 Watches  |
+| Long              | +3 Watches  |
 
 ## Terrain Difficulty
 
 |                |                                 |             |                                                                                                       |
 | -------------- | ------------------------------- | ----------- | ----------------------------------------------------------------------------------------------------- |
 | **Difficulty** | **Terrain**                     | **Penalty** | **Factors**                                                                                           |
-| **Easy**       | **Plains, grasslands, valleys** | +1 Watch    | _Safe areas for rest, fellow travelers, good visibility_                                            |
-| **Tough**      | **Forests, deserts, hills**     | +2 Watches  | _Wild animals, flooding, broken equipment, falling rocks, unsafe shelters, hunter's traps_            |
-| **Perilous**   | **Mountains, jungle, swamp**    | +3 Watches  | _Quicksand, sucking mud, choking vines, unclean water, poisonous plants and animals, poor navigation_ |
+| **Easy**       | **Plains, plateaus, valleys**   | none        | _Safe areas for rest, fellow travelers, good visibility_                                            |
+| **Tough**      | **Forests, deserts, hills**     | +1 Watch    | _Wild animals, flooding, broken equipment, falling rocks, unsafe shelters, hunter's traps_            |
+| **Perilous**   | **Mountains, jungle, swamp**    | +2 Watches  | _Quicksand, sucking mud, choking vines, unclean water, poisonous plants and animals, poor navigation_ |
 
 ## Weather
 

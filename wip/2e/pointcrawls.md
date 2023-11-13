@@ -21,22 +21,26 @@ search_exclude: true
 
 The travel times between each point were determined as follows (assuming that the party is travelling by foot):
 - The journey between points **1** to **2** is 6 watches:  
-  - Add one watch for the trail through the mountains and forests.
-  - Add three watches for the _Perilous_ mountain terrain, and 2 watches for the forest.
+  - Add two watches for the _medium_ path distance.
+  - Add one watch for the _trail_ through the mountains and forests.
+  - Add two watches for the _Perilous_ mountain terrain, and 1 watch for the forest.
 - The journey between **2** and **3** takes 4 watches:
-  - Add one watch for the trail through the mountains.
-  - Add three watches for the _Perilous_ mountain terrain.
+  - Add one watch for the _short_ path distance.
+  - Add one watch for the _trail_ through the mountains.
+  - Add two watches for the _Perilous_ mountain terrain.
 - The journey between **2** and **4** takes three watches:
-  - No penalty for traveling on a maintained road.
-  - Add two watches for the _Tough_ forest terrain.
-  - Add one additional watch for the _extra long_ forest journey.
+  - Add two watches for the _medium_ path distance.
+  - No penalty for traveling on a maintained _road_.
+  - Add one watch for the _Tough_ forest terrain.
 - The journey between **4** and **5** takes four watches: 
-  - Add one watch for the trail through the swamp.
-  - Add one watch for the _Perilous_ swamp terrain.
+  - Add one watch for the _short_ path distance.
+  - Add one watch for the _trail_ through the swamp.
+  - Add two watches for the _Perilous_ swamp terrain.
 - The journey between **4** and **6** takes 3 watches:
-  - Add one watch for the trail through the woods.
-  - Add two watches for the _Tough_ forest terrain.
-- The journey to **7** from anywhere should consider:
-  -  +2 for traveling through the wilderness
-  -  +2 for traveling through the _Tough_ forest terrain.
-  -  +1 watch if traveling from further away.
+  - Add one watch for the _short_ path distance.
+  - Add one watch for the _trail_ through the woods.
+  - Add one watch for the _Tough_ forest terrain.
+- The journey to **7** from any other point should be at least 5 watches:
+  - Add two watches for the _medium_ path distance.
+  - Add two watches for traveling through the _wilderness_.
+  - Add one watch for the _Tough_ forest terrain.
