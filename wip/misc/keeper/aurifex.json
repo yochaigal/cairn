@@ -1,5 +1,5 @@
 {
-    "background": "Aurifex",
+  "Aurifex": {
     "image": "aurifex.png",
     "background_description": "You are an artisan of the arcane, a smith of subtle forces. In the crucible of your workshop, the laws that govern this world are warped to suit your needs.",
     "names": [
@@ -20,29 +20,34 @@
         "max_uses": null,
         "description": ""
       },
-      "Needle-knife": {
+      "Oil Can": {
+        "tags": ["uses"],
+        "max_uses": 6,
+        "description": ""
+      },
+      "Needle-Knife": {
         "tags": ["d6"],
         "max_uses": null,
         "description": ""
       },
-      "Protective gloves": {
+      "Protective Gloves": {
         "tags": ["petty"],
         "max_uses": null,
         "description": ""
       },
       "Tin of Snuff": {
-        "tags": [],
-        "max_uses": null,
-        "description": ""
+        "tags": ["uses"],
+        "max_uses": 6,
+        "description": "Use it every day or become deprived."
       },
       "Metal Ingot": {
-        "tags": ["bulky"],
+        "tags": [],
         "max_uses": null,
         "description": ""
       },
       "Gold Powder": {
-        "tags": [],
-        "max_uses": null,
+        "tags": ["uses"],
+        "max_uses": 3,
         "description": ""
       },
       "Blunderbuss": {
@@ -79,6 +84,11 @@
         "tags": ["uses"],
         "max_uses": 3,
         "description": ""
+      },
+      "Homunculus": {
+        "tags": [],
+        "max_uses": null,
+        "description": "Any damage done to the homunculus is also done to you."
       }
     },
     "starting_gear": [
@@ -91,7 +101,7 @@
       "question": "What went horribly wrong?",
       "options": [
         {
-          "description": "There was an explosion, and you lost your sense of smell. Well, almost: you can sniff out gold as a pig does truffles. Take a Tin of Snuff to dampen the impact. Without it you are deprived.",
+          "description": "There was an explosion, and you lost your sense of smell. Well, almost: you can sniff out gold as a pig does truffles. Take a Tin of Snuff to dampen the impact. Use it every day or become deprived.",
           "items": ["Tin of Snuff"]
         },
         {
@@ -118,29 +128,31 @@
       "question": "What alchemical marvel is the product of your latest ingenuity?",
       "options": [
         {
-          "description": "A sticky green fluid that catches fire when exposed to air. It lasts for 8 hours and cannot be extinguished.",
+          "description": "Pyrophoric Gel: A sticky green fluid that catches fire when exposed to air. It lasts for 8 hours and cannot be extinguished.",
           "items": ["Pyrophoric Gel"]
         },
         {
-          "description": "A head-sized iron ball filled with explosive powder that detonates on impact.",
+          "description": "Blast Sphere: A head-sized iron ball filled with explosive powder that detonates on impact.",
           "items": ["Blast Sphere"]
         },
         {
-          "description": "Purifies any liquid, converting it to pure water. Drinking it cures 1d6 STR.",
+          "description": "Aqua Vita: Purifies any liquid, converting it to pure water. Drinking it cures 1d6 STR.",
           "items": ["Aqua Vita"]
         },
         {
-          "description": "Records a short phrase that can later be played back.",
+          "description": "Mimic Stone: Records a short phrase that can later be played back.",
           "items": ["Mimic Stone"]
         },
         {
-          "description": "Ignites easily and quickly. Useful for starting a fire or as an incendiary device.",
+          "description": "Spark Dust: Ignites easily and quickly. Useful for starting a fire or as an incendiary device.",
           "items": ["Spark Dust"]
         },
         {
-          "description": "A miniature clay replica of yourself that follows your every command to the letter. It hates being enthralled to you and complains bitterly whenever possible. Any damage done to the homunculus is also done to you.",
+          "description": "Homunculus: A miniature clay replica of yourself that follows your every command to the letter. It hates being enthralled to you and complains bitterly whenever possible. Any damage done to the homunculus is also done to you.",
+          "items": ["Homunculus"]
         }
       ]
     }
   }
-  
+}
+

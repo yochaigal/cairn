@@ -17,7 +17,7 @@ For activities requiring multiple steps, the **Warden** assigns 1-5 **Milestones
 
 ### Costs
 
-PCs can complete individual **Milestones** by taking a **Downtine Action** and paying its respective **Cost**. If a character is unable to pay the **Cost**, they may have to find some other way to achieve their goal. A few examples of **Cost**: 
+PCs can complete individual **Milestones** by taking a **Downtime Action** and paying its respective **Cost**. If a character is unable to pay the **Cost**, they may have to find some other way to achieve their goal. A few examples of **Cost**: 
 - **Gold**: Direct payment of gold from a character's inventory.
 - **Resources**: Non-monetary costs such as material goods, specific common items, and so on. 
 - **Reputation**: Betting on a character's renown, personality, presence, social connections, etc.
