@@ -1,0 +1,165 @@
+{
+    "Fungal Forager": {
+      "image": "fungal-forager.png",
+      "background_description": "You follow the whisperings of the deep earth, the rhythmic pulse of the mycelium forest that grows beneath the surface. The dark holds no terror for you. Also, you really love mushrooms.",
+      "names": [
+        "Unther",
+        "Woozy",
+        "Hilda",
+        "Current",
+        "Leif",
+        "Ratan",
+        "Mourella",
+        "Lal",
+        "Per",
+        "Madrigal"
+      ],
+      "background_items": {
+        "Sharpened Trowel": {
+          "tags": ["d6"],
+          "max_uses": null,
+          "description": ""
+        },
+        "Candle Helmet": {
+          "tags": ["+1 Armor", "dim", "uses"],
+          "max_uses": 6,
+          "description": ""
+        },
+        "Rope (25ft)": {
+          "tags": [],
+          "max_uses": null,
+          "description": ""
+        },
+        "Metal Pail": {
+          "tags": [],
+          "max_uses": null,
+          "description": ""
+        },
+        "Shrieking Trumpet": {
+          "tags": ["uses", "impaired"],
+          "max_uses": 2,
+          "description": "When exposed to light it screams so loudly that all nearby attacks (including your own) are impaired."
+        },
+        "Torch Fungus": {
+          "tags": ["uses"],
+          "max_uses": 3,
+          "description": "When crushed it creates a heatless light for ten minutes."
+        },
+        "Murderous Truffle": {
+          "tags": ["uses"],
+          "max_uses": 1,
+          "description": "Pungent, highly toxic, and very rare (worth 50gp to assassins). Illegal pretty much everywhere."
+        },
+        "Hellcap": {
+          "tags": ["uses"],
+          "max_uses": 1,
+          "description": "Exposure to its aroma causes intense nausea and vomiting. Either way, it clears the room. Bottled."
+        },
+        "Sproutcup": {
+          "tags": ["uses"],
+          "max_uses": 1,
+          "description": "Ingest to shrink down to the size of a mouse (your belongings stay the same size). You return to normal size within the hour, often in fits and starts."
+        },
+        "Rootflower": {
+          "tags": ["uses"],
+          "max_uses": 1,
+          "description": "A white fungus found only on corpses deep underground. Ingest to restore d6 WIL. You will dream of the dead, and their stories."
+        },
+        "Glowsnail": {
+          "tags": [],
+          "max_uses": null,
+          "description": "Casts a soft, bioluminescent light. Feeds on one ration every two days."
+        },
+        "Silk Moth Shawl": {
+          "tags": [],
+          "max_uses": null,
+          "description": "A weatherproof blanket, it can also douse a fire without being damaged."
+        },
+        "Milkflower": {
+          "tags": ["uses"],
+          "max_uses": 3,
+          "description": "A gentle stimulant. Chewing makes you immune to panic for the next hour."
+        },
+        "Luxcompass": {
+          "tags": [],
+          "max_uses": null,
+          "description": "Hums softly as it moves closer to the Sun. Eventually, the noise becomes unbearably loud."
+        },
+        "Sloth-Tarp": {
+          "tags": ["+1 Armor"],
+          "max_uses": null,
+          "description": "A tough and weatherproof fabric, useful for hanging off trees. When inside, take +1 Armor."
+        },
+        "Miner's Grease": {
+          "tags": ["uses"],
+          "max_uses": 3,
+          "description": "Great for dislodging a gem, tool, or limb from a tight crack. Highly explosive."
+        }
+      },
+      "starting_gear": [
+        "Sharpened Trowel",
+        "Candle Helmet",
+        "Rope (25ft)",
+        "Metal Pail"
+      ],
+      "table1": {
+        "question": "What strange fungi did you discover?",
+        "options": [
+          {
+            "description": "Shrieking Trumpet. When exposed to light it screams so loudly that all nearby attacks (including your own) are impaired. 2 uses.",
+            "items": ["Shrieking Trumpet"]
+          },
+          {
+            "description": "Torch Fungus. When crushed it creates a heatless light for ten minutes. 3 uses.",
+            "items": ["Torch Fungus"]
+          },
+          {
+            "description": "Murderous Truffle. Pungent, highly toxic, and very rare (worth 50gp to assassins). Illegal pretty much everywhere. 1 use.",
+            "items": ["Murderous Truffle"]
+          },
+          {
+            "description": "Hellcap. Exposure to its aroma causes intense nausea and vomiting. Either way, it clears the room. Bottled. 1 use.",
+            "items": ["Hellcap"]
+          },
+          {
+            "description": "Sproutcup. Ingest to shrink down to the size of a mouse (your belongings stay the same size). You return to normal size within the hour, often in fits and starts. 1 use.",
+            "items": ["Sproutcup"]
+          },
+          {
+            "description": "Rootflower. A white fungus found only on corpses deep underground. Ingest to restore d6 WIL. You will dream of the dead, and their stories. 1 use.",
+            "items": ["Rootflower"]
+          }
+        ]
+      },
+      "table2": {
+        "question": "What keeps you sane, even in utter darkness?",
+        "options": [
+          {
+            "description": "Glowsnail. Casts a soft, bioluminescent light. Feeds on one ration every two days.",
+            "items": ["Glowsnail"]
+          },
+          {
+            "description": "Silk Moth Shawl. A weatherproof blanket, it can also douse a fire without being damaged.",
+            "items": ["Silk Moth Shawl"]
+          },
+          {
+            "description": "Milkflower. A gentle stimulant. Chewing makes you immune to panic for the next hour. 3 uses.",
+            "items": ["Milkflower"]
+          },
+          {
+            "description": "Luxcompass. Hums softly as it moves closer to the Sun. Eventually, the noise becomes unbearably loud.",
+            "items": ["Luxcompass"]
+          },
+          {
+            "description": "Sloth-Tarp. A tough and weatherproof fabric, useful for hanging off trees. When inside, take +1 Armor.",
+            "items": ["Sloth-Tarp"]
+          },
+          {
+            "description": "Miner's Grease. Great for dislodging a gem, tool, or limb from a tight crack. Highly explosive. 3 uses.",
+            "items": ["Miner's Grease"]
+          }
+        ]
+      }
+    }
+  }
+  

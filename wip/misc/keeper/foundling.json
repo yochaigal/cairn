@@ -1,0 +1,179 @@
+{
+    "background": "Foundling",
+    "image": "foundling.png",
+    "background_description": "An odd birthmark, a strange smell: somehow, the touch of _elsewhere_ still lingers. You'll never fit in, at least not where you're at. Roll on the **Omens** table, but keep the results private for now.",
+    "names": [
+      "Faunus",
+      "Snowdrop",
+      "Wisp",
+      "Silverdew",
+      "Brim",
+      "Solstice",
+      "Steeleye",
+      "Sileas",
+      "Gossamer",
+      "Hazel"
+    ],
+    "background_items": {
+      "Salt pouch": {
+        "tags": [],
+        "max_uses": null,
+        "description": ""
+      },
+      "Heirloom amulet": {
+        "tags": ["petty"],
+        "max_uses": null,
+        "description": "Glows in the presence of magic"
+      },
+      "Sling": {
+        "tags": ["d6"],
+        "max_uses": null,
+        "description": ""
+      },
+      "Dagger": {
+        "tags": ["d6"],
+        "max_uses": null,
+        "description": ""
+      },
+      "Weathered Longbow": {
+        "tags": ["d8", "bulky"],
+        "max_uses": null,
+        "description": ""
+      },
+      "Leather Jerkin": {
+        "tags": ["1 Armor"],
+        "max_uses": null,
+        "description": ""
+      },
+      "Healing Ungent": {
+        "tags": ["uses"],
+        "max_uses": 1,
+        "description": "Restores d4 STR"
+      },
+      "Gnarled Staff": {
+        "tags": ["d8"],
+        "max_uses": null,
+        "description": ""
+      },
+      "Smith's Hammer": {
+        "tags": ["d6"],
+        "max_uses": null,
+        "description": ""
+      },
+      "Oft-mended Chain Mail": {
+        "tags": ["2 Armor", "bulky"],
+        "max_uses": null,
+        "description": ""
+      },
+      "Storybook": {
+        "tags": [],
+        "max_uses": null,
+        "description": ""
+      },
+      "Monk's Habit": {
+        "tags": ["petty"],
+        "max_uses": null,
+        "description": "Warm"
+      },
+      "Spellbook of Control Plants": {
+        "tags": [],
+        "max_uses": null,
+        "description": ""
+      },
+      "Pipeweed": {
+        "tags": ["uses"],
+        "max_uses": 6,
+        "description": "Your good luck charm. Conversations tend to flow more easily after a smoke."
+      },
+      "Stink Jar": {
+        "tags": ["uses"],
+        "max_uses": 1,
+        "description": "Shattering this jar releases an odor so foul all nearby must make a STR save or immediately vomit."
+      },
+      "Ivy Worm": {
+        "tags": [],
+        "max_uses": null,
+        "description": "A green worm often mistaken for a weed. Swallowed whole, it absorbs any toxins or rot in the body before exiting through the usual way."
+      },
+      "Dream Stone": {
+        "tags": [],
+        "max_uses": null,
+        "description": "A smooth blue stone that helps recall dreams more clearly. Overuse can cause dream-addiction."
+      },
+      "Drowning Rod": {
+        "tags": [],
+        "max_uses": null,
+        "description": "A finger-sized wooden stick that doubles in size each time it is fully submerged in water. It does not shrink down again."
+      },
+      "Rabbit's Foot": {
+        "tags": [],
+        "max_uses": null,
+        "description": "You were wearing it when they found you. They say it is the foot of she who left you, and that it protects you from witch magic."
+      }
+    },
+    "starting_gear": [
+      "Salt pouch",
+      "Heirloom amulet",
+      "Sling",
+      "Dagger"
+    ],
+    "table1": {
+      "question": "Who took you in? Roll 1d6:",
+      "options": [
+        {
+          "description": "An old hunter. You were both quite happy, until it all ended. Take a **Weathered Longbow** (d8, _bulky_) and a **Leather Jerkin** (1 Armor).",
+          "items": ["Weathered Longbow", "Leather Jerkin"]
+        },
+        {
+          "description": "A wizened apothecary, who taught you the healing arts but maintained a clinical detachment. Take a **Healing Ungent** (restores d4 STR).",
+          "items": ["Healing Ungent"]
+        },
+        {
+          "description": "A druid, who taught you the language of trees. When it came time to leave you took with you only a **Gnarled Staff** (d8) and the promise that one day you would return.",
+          "items": ["Gnarled Staff"]
+        },
+        {
+          "description": "A gruff blacksmith from a sleepy river town. You were always kept at arm's length. Now the forge is cold, and you've moved on. Take a **Smith's Hammer** (d6) and a set of **Oft-mended Chain Mail** (2 Armor, _bulky_).",
+          "items": ["Smith's Hammer", "Oft-mended Chain Mail"]
+        },
+        {
+          "description": "A troupe of traveling entertainers. For a time, they were like family to you. One day you woke up and they were gone with no explanation. Take a **Storybook**, a **Dagger** (d6), and some burning questions.",
+          "items": ["Storybook", "Dagger"]
+        },
+        {
+          "description": "The monks of a secluded forest monastery. When their rules became too strict, and you snuck away. Take a **Monk's Habit** (warm, _petty_) and a **Spellbook** of _Control Plants_.",
+          "items": ["Monk's Habit", "Spellbook of Control Plants"]
+        }
+      ]
+    },
+    "table2": {
+      "question": "What keeps bad tidings at bay? Roll 1d6:",
+      "options": [
+        {
+          "description": "Pipeweed: Your good luck charm. Conversations tend to flow more easily after a smoke. 6 uses.",
+          "items": ["Pipeweed"]
+        },
+        {
+          "description": "Stink Jar: Shattering this jar releases an odor so foul all nearby must make a STR save or immediately vomit. 1 use.",
+          "items": ["Stink Jar"]
+        },
+        {
+          "description": "Ivy Worm: A green worm often mistaken for a weed. Swallowed whole, it absorbs any toxins or rot in the body before exiting through the usual way.",
+          "items": ["Ivy Worm"]
+        },
+        {
+          "description": "Dream Stone: A smooth blue stone that helps recall dreams more clearly. Overuse can cause dream-addiction.",
+          "items": ["Dream Stone"]
+        },
+        {
+          "description": "Drowning Rod: A finger-sized wooden stick that doubles in size each time it is fully submerged in water. It does not shrink down again.",
+          "items": ["Drowning Rod"]
+        },
+        {
+          "description": "Rabbit's Foot: You were wearing it when they found you. They say it is the foot of she who left you, and that it protects you from witch magic.",
+          "items": ["Rabbit's Foot"]
+        }
+      ]
+    }
+  }
+  

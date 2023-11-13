@@ -1,0 +1,169 @@
+{
+    "background": "Jongleur",
+    "image": "jongleur.png",
+    "background_description": "What inspires the soul more than song, words, and spectacle? Why practice for years to master the arcane when you've already got real magic inside?",
+    "names": [
+      "Jax",
+      "Selene",
+      "Baladria",
+      "Ada",
+      "Felix",
+      "Saylor",
+      "Tripp",
+      "Lantos",
+      "Echo",
+      "Jubilo"
+    ],
+    "background_items": {
+      "Costume": {
+        "tags": [],
+        "max_uses": null,
+        "description": ""
+      },
+      "Makeup": {
+        "tags": [],
+        "max_uses": null,
+        "description": ""
+      },
+      "Lucky Jerkin": {
+        "tags": ["1 Armor"],
+        "max_uses": null,
+        "description": ""
+      },
+      "Prop Sword": {
+        "tags": [],
+        "max_uses": null,
+        "description": "Looks real, no damage."
+      },
+      "Rapier": {
+        "tags": ["d6"],
+        "max_uses": null,
+        "description": ""
+      },
+      "Spellbook": {
+        "tags": [],
+        "max_uses": null,
+        "description": "Read Mind."
+      },
+      "Book On Astronomy": {
+        "tags": [],
+        "max_uses": null,
+        "description": ""
+      },
+      "Thesaurus": {
+        "tags": [],
+        "max_uses": null,
+        "description": "Without it you are deprived."
+      },
+      "Stage Mail": {
+        "tags": ["1 Armor"],
+        "max_uses": null,
+        "description": ""
+      },
+      "Uncanny Hand-Puppet": {
+        "tags": [],
+        "max_uses": null,
+        "description": ""
+      },
+      "Rabbit Skull": {
+        "tags": ["petty"],
+        "max_uses": null,
+        "description": "Sewn with grass, protects against charms."
+      },
+      "False Cuffs": {
+        "tags": [],
+        "max_uses": null,
+        "description": "Only you know the trick to get out of them."
+      },
+      "Pocket Theatre": {
+        "tags": [],
+        "max_uses": null,
+        "description": "Good for quick distractions."
+      },
+      "Ghost Violin": {
+        "tags": [],
+        "max_uses": null,
+        "description": ""
+      },
+      "Tragic Tales": {
+        "tags": [],
+        "max_uses": null,
+        "description": "Worth 100gp."
+      },
+      "Mythos Mask": {
+        "tags": [],
+        "max_uses": null,
+        "description": "Once it comes off, add a Fatigue."
+      },
+      "Rebreak Glass": {
+        "tags": [],
+        "max_uses": null,
+        "description": "Reforms after 24 hours, makes a loud noise."
+      }
+    },
+    "starting_gear": [
+      "Costume",
+      "Makeup",
+      "Lucky Jerkin",
+      "Prop Sword"
+    ],
+    "table1": {
+      "question": "What happened at your final performance?",
+      "options": [
+        {
+          "description": "Despite your training in the deadly arts, an actor died and you were blamed. Take a light-weight Rapier (d6) and a false identity.",
+          "items": ["Rapier"]
+        },
+        {
+          "description": "The crowd loved your catchy tune about a noble and his romantic failings. The noble in question, not so much. Take the Read Mind Spellbook and a warrant for your arrest.",
+          "items": ["Spellbook"]
+        },
+        {
+          "description": "Your debut composition reduced the audience to a gibbering mess, murmuring of bright creatures descending from the night sky. Later you noticed that the notes resembled stellar constellations. Take a Book On Astronomy, and a lot of questions.",
+          "items": ["Book On Astronomy"]
+        },
+        {
+          "description": "You mocked a forgotten trickster god, and were cursed for it. You speak only in perfect rhyme. Ironically, this has only made you more popular among your peers. Take a Thesaurus (20gp). Without it you are deprived.",
+          "items": ["Thesaurus"]
+        },
+        {
+          "description": "You were scarred in an on-stage accident. The crowd cheered, thinking it was part of the act. Take well-worn Stage Mail (1 Armor), a memorable scar, and a fear of applause.",
+          "items": ["Stage Mail"]
+        },
+        {
+          "description": "Your respectable puppeteering skills were matched only by your mimicry. You were so good you were branded a witch (literally) and banished. Take an Uncanny Hand-Puppet and a Rabbit Skull (petty, sewn with grass) that protects against charms.",
+          "items": ["Uncanny Hand-Puppet", "Rabbit Skull"]
+        }
+      ]
+    },
+    "table2": {
+      "question": "What trinket were you unable to leave behind?",
+      "options": [
+        {
+          "description": "Comfortable, realistic-looking False Cuffs. Only you know the trick to get out of them.",
+          "items": ["False Cuffs"]
+        },
+        {
+          "description": "A set of small puppets and folding Pocket Theatre. Good for quick distractions.",
+          "items": ["Pocket Theatre"]
+        },
+        {
+          "description": "A dark grey Ghost Violin that plays a haunting tune, mirrored by an invisible, distant twin.",
+          "items": ["Ghost Violin"]
+        },
+        {
+          "description": "Banned in proper company, Tragic Tales becomes less bawdy and more harrowing towards the end. Worth 100gp.",
+          "items": ["Tragic Tales"]
+        },
+        {
+          "description": "A plaster Mythos Mask that allows one to take on a monster's countenance. Once it comes off, add a Fatigue.",
+          "items": ["Mythos Mask"]
+        },
+        {
+          "description": "A wine flute Rebreak Glass that can be broken multiple times, reforming after 24 hours. Makes a really loud noise.",
+          "items": ["Rebreak Glass"]
+        }
+      ]
+    }
+  }
+  
