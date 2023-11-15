@@ -1,5 +1,5 @@
 {
-    "background": "Kettlewright",
+    "Kettlewright": {
     "image": "kettlewright.png",
     "background_description": "You are known by the smell of molten metal and the jingle of tin. You are not a mere merchant, but an artisan of fire and metal.",
     "names": [
@@ -181,4 +181,4 @@
       ]
     }
   }
-  
+}

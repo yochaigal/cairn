@@ -1,5 +1,5 @@
 {
-    "background": "Foundling",
+    "Foundling": {
     "image": "foundling.png",
     "background_description": "An odd birthmark, a strange smell: somehow, the touch of _elsewhere_ still lingers. You'll never fit in, at least not where you're at. Roll on the **Omens** table, but keep the results private for now.",
     "names": [
@@ -176,4 +176,4 @@
       ]
     }
   }
-  
+}
