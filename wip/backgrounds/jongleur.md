@@ -18,9 +18,9 @@ Jax, Selene, Baladria, Ada, Felix, Saylor, Tripp, Lantos, Echo, Jubilo
 ## Starting Gear
 
 - Costume
-- Makeup
+- Simple Instrument (Pipes, Lute, etc.)
 - Lucky jerkin (1 Armor)
-- Prop sword (looks real, no damage)
+- Sling (d6)
 
 ## What happened at your final performance? Roll 1d6:
 
