@@ -9,7 +9,7 @@ search_exclude: true
 
 # Growth
 
-Unlike other roleplaying games, Cairn does not reward player characters for their successes, or when they fail. Nor do PCs gain experience from killing monsters, looting treasure, or exploring a new area. Instead, their experiences in th egame world can alter a PC's health, abilities, beliefs, bonds, or even their minds.
+Unlike other roleplaying games, Cairn does not reward player characters for their successes, or when they fail. Nor do PCs gain experience from killing monsters, looting treasure, or exploring a new area. Instead, their experiences in the game world can alter a PC's health, abilities, beliefs, bonds, or even their minds.
 
 Just as the in-game world continues to grow and change, so do the player characters. The events, experiences, and encounters of a play session can greatly impact a PC, and sometimes in undesirable ways! The only hardfast rule is that character growth always stems _from_ the game world. 
 
