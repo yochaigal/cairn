@@ -30,8 +30,8 @@ search_exclude: true
 ## Dungeon Exploration Cycle
 
 1. The **Warden** describes the party's surroundings and any immediate dangers (combat, traps, surprises, etc.). The players then declare their character's intended movements and **actions**. 
-2. The **Warden** resolves each character's action simultaneously, as well as any **actions** that are already in-progress.
-3. The players record any loss of resources and any new conditions (i.e. item use, _deprivation_, etc). The cycle then _begins again_. If appropriate, the **Warden** should roll on the [**Dungeon Events**](#dungeon-events) table. 
+2. The Warden resolves the **actions** of each character simultaneously, along with any **actions** that are already in progress. Remember, the Die of Fate can be a useful tool whenever the Warden is in doubt!
+3. The players record any loss of resources and any new conditions (i.e. item use, _deprivation_, etc). The cycle then _begins again_. If appropriate, the **Warden** should roll on the [**Dungeon Events**](#dungeon-events) table. Keep common sense in mind when interpreting the results! 
 
 ## Dungeon Events
 
@@ -43,16 +43,16 @@ When the party:
 - Moves into a new area, level, or zone
 - Creates a loud disturbance 
 
-**Roll 1d6 on the the Dungeon Events table below.**
+**Roll on the table below.**
 
 |       |                 |                                                                                                           |
 | :---: | :-------------: | :-------------------------------------------------------------------------------------------------------: |
-| **1** |  **Encounter**  |    Roll on an encounter table. Possibly **hostile** (see [Reactions](/wip/2e/core-rules/#reactions)).     |
-| **2** | **Environment** |      Surroundings shift or escalate. Water rises, ceilings collapse, a ritual nears completion, etc.      |
+| **1** |  **Encounter**  | Roll on an encounter table. Possibly **hostile** (see [Reactions](/wip/2e/core-rules/#reactions)).     |
+| **2** | **Environment** | Surroundings shift or escalate. Water rises, ceilings collapse, a ritual nears completion, etc.      |
 | **3** |    **Loss**     | Torches are blown out, an ongoing spell fizzles, etc. The party must resolve the effect before moving on. |
-| **4** | **Exhaustion**  |     The PCs must rest soon, otherwise they may need to add a **Fatigue**, or become _deprived_.           |
-| **5** |    **Sign**     |                  A “spoor” (clue, track, scent, victim, droppings, etc.) is discovered.                   |
-| **6** |    **Quiet**    |                          The party is left alone (and safe) for the time being.                           |
+| **4** | **Exhaustion**  | The party must rest (triggering another roll on this table), add a **Fatigue**, or consume a ration.       |
+| **5** |    **Sign**     | A “spoor” (clue, track, scent, victim, droppings, etc.) is discovered.                   |
+| **6** |    **Quiet**    | The party is left alone (and safe) for the time being.                           |
 
 ## Actions
 
