@@ -112,7 +112,7 @@ search_exclude: true
 |                   |     |
 | ----------------- | --- |
 | Alchemist         | 30  |
-| Animal handler    | 20  |
+| Animal handler    | 5   |
 | Blacksmith        | 15  |
 | Bodyguard         | 10  |
 | Local Guide       | 5   |
