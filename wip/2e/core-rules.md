@@ -29,11 +29,16 @@ Each of the three **attributes** are used in different circumstances (see **save
 - Some healing services are free, while magical or more expedient means of recovery may come at a cost.
 
 ## Deprivation & Fatigue
-- A PC **deprived** of a crucial need (such as food or rest) is unable to recover HP or Attributes. PCs can also add a **Fatigue** by **casting spells**, or through events in the fiction. 
-- Anyone deprived for more than a day adds **Fatigue** to their inventory, one for each day. Each Fatigue occupies one slot and lasts until they are able to recuperate (such as a full night's rest in a safe spot). 
-- If a character is forced to add Fatigue to their inventory but have no free slots, they must drop an item.
+
+A PC that lacks a crucial need (such as food or rest) is considered **Deprived**. Anyone **Deprived** for more than a day adds **Fatigue** to their inventory, one for each day. A **Deprived** PC cannot recover HP, Attributes, or item slots from **Fatigue**.
+- PCs may also be forced to add **Fatigue** after casting spells or due to events occurring in the fiction.
+- Each Fatigue occupies one slot and lasts until they are able to recuperate (such as a full night’s rest in a safe spot).
+- If a character is forced to add **Fatigue** to their inventory but they have no free slots,
+they must drop an item from their inventory.
+
 
 ## Armor
+
 - Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. 
 - Shields and similar armor provide a bonus defense (e.g. +1 Armor), but only while the item is held or worn. Some may also provide additional benefits according to their use.
 - A PC, NPC, or monster cannot have more than 3 Armor.  
