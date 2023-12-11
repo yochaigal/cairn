@@ -19,8 +19,8 @@ Each of the three **attributes** are used in different circumstances (see **save
 ## Saves
 
 - A save is a roll to avoid bad outcomes from risky choices and circumstances. 
-- PCs roll a d20 and compare the results to an appropriate attribute. If they roll equal to or under that attribute, they pass. Otherwise, they fail. 
-- A 1 is always a success, and a 20 is always a failure.
+- PCs roll a d20 and compare the results to an appropriate attribute. If they roll equal to or under that attribute, they pass. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
+- If two opponents are both attempting to overcome the other, whoever is most at risk should save.
 
 ## Healing & Recovery
 
@@ -63,6 +63,12 @@ When the PCs encounter an NPC whose reaction to the party is not obvious, the Wa
 - PCs can enlist **hirelings** to aid them in their expeditions. Hirelings cost between 1-30gp per day, depending on skill and specialization.
 - To create a hireling, choose an appropriate role from the [Hirelings](/wip/2e/marketplace#hirelings-per-day) table in the Marketplace. Roll 3d6 for each attribute, and 1d6 for their HP. Give them **equipment** appropriate to their station, then roll on the Character Traits tables to further flesh them out.
 - Alternatively, choose an appropriate [**background**](/wip/2e/character-creation#backgrounds) and **name** from the [Character Creation](/wip/2e/character-creation) guide. Roll (or choose from) the tables for that background. Then, roll for Rations, Gold Pieces, Attributes, HP, and age. 
+
+## Inventory Slots
+
+- Most items take up one slot unless otherwise indicated. 
+- _Petty_ items do not take up any slots. _Bulky_ items take up **two** slots. 
+- A bag of coins worth less than 100gp is _petty_ and does not occupy a slot.
 
 ## Combat
 
