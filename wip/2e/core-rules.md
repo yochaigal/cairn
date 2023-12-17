@@ -10,7 +10,7 @@ grand_parent: WIP
 # Core Rules
 ## Attributes
 
-Each of the three **attributes** are used in different circumstances (see **saves**, below).  
+Each of the three **Attributes** are used in different circumstances (see **Saves**, below).
 
 - **Strength (STR)**: Used for saves requiring physical power, like lifting gates, bending bars, resisting poison, etc.
 - **Dexterity (DEX)**: Used for saves requiring poise, speed, and reflexes like dodging, climbing, sneaking, balancing, etc.
@@ -36,7 +36,6 @@ A PC that lacks a crucial need (such as food or rest) is considered **Deprived**
 - If a character is forced to add **Fatigue** to their inventory but they have no free slots,
 they must drop an item from their inventory.
 
-
 ## Armor
 
 - Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. 
@@ -58,17 +57,17 @@ When the PCs encounter an NPC whose reaction to the party is not obvious, the Wa
 - Some groups may use their leader's WIL in place of their own. Lone foes must save when they're reduced to 0 HP. 
 - Morale does not affect PCs.
 
-## Hirelings
-
-- PCs can enlist **hirelings** to aid them in their expeditions. Hirelings cost between 1-30gp per day, depending on skill and specialization.
-- To create a hireling, choose an appropriate role from the [Hirelings](/wip/2e/marketplace#hirelings-per-day) table in the Marketplace. Roll 3d6 for each attribute, and 1d6 for their HP. Give them **equipment** appropriate to their station, then roll on the Character Traits tables to further flesh them out.
-- Alternatively, choose an appropriate [**background**](/wip/2e/character-creation#backgrounds) and **name** from the [Character Creation](/wip/2e/character-creation) guide. Roll (or choose from) the tables for that background. Then, roll for Rations, Gold Pieces, Attributes, HP, and age. 
-
 ## Inventory Slots
 
 - Most items take up one slot unless otherwise indicated. 
 - _Petty_ items do not take up any slots. _Bulky_ items take up **two** slots. 
 - A bag of coins worth less than 100gp is _petty_ and does not occupy a slot.
+
+## Hirelings
+
+- PCs can enlist **hirelings** to aid them in their expeditions. Hirelings cost between 1-30gp per day, depending on skill and specialization.
+- To create a hireling, choose an appropriate role from the [Hirelings](/wip/2e/marketplace#hirelings-per-day) table in the Marketplace. Roll 3d6 for each attribute, and 1d6 for their HP. Give them **equipment** appropriate to their station, then roll on the Character Traits tables to further flesh them out.
+- Alternatively, choose an appropriate [**background**](/wip/2e/character-creation#backgrounds) and **name** from the [Character Creation](/wip/2e/character-creation) guide. Roll (or choose from) the tables for that background. Then, roll for Rations, Gold Pieces, Attributes, HP, and age. 
 
 ## Combat
 
@@ -78,15 +77,17 @@ When the PCs encounter an NPC whose reaction to the party is not obvious, the Wa
 - During the _first round of combat_, each PC must make a DEX save in order to act. Special circumstances, abilities, items, or skills may negate this requirement. PCs that fail their save _lose their turn_ for this round.
 - Their opponents then take their turn, and the first round ends. The next round begins with the PCs taking their turn, followed by their opponents, and so on until combat has ended with one side defeated or fled.
 
-### Actions  
+### Actions
 
 On their turn, a character may move up to 40ft and take up to one action. This may be casting a spell, attacking, making a second move, or some other reasonable action. Each round, the PCs declare what they are doing before dice are rolled. If a character attempts something risky, the Warden calls for a save for appropriate players or NPCs. 
 
 ### Attacking & Damage
 
-The attacker rolls their weapon die and subtracts the target's armor, then deals the remaining total to their opponent's HP. Attacks in combat automatically hit.
+- The attacker rolls their weapon die and subtracts the target's armor, then deals the remaining total to their opponent's HP. Attacks in combat automatically hit.
+- If a PC would take damage outside of combat, they would instead take damage to an **Attribute** instead (typically **STR**).
+- If an attack would take a PC's HP exactly to 0, the player must roll on the [**Scars**](https://cairnrpg.com/wip/2e/core-rules#scars) table.
 
-### Multiple Attackers  
+### Multiple Attackers
 
 If multiple attackers target the same foe, roll all damage dice and keep the single highest result. All actions are declared before being resolved.
 
@@ -100,7 +101,7 @@ If fighting from a position of advantage (such as against a helpless foe or thro
 
 If attacking with two weapons at the same time, roll both damage dice and keep the single highest result (commonly denoted with a plus symbol, e.g. d8+d8).
 
-### Blast  
+### Blast
 
 Attacks with the _Blast_ quality affect all targets in the noted area, rolling separately for each affected character. _Blast_ refers to anything from explosions to huge cleaving onslaughts to the impact of a meteorite. If unsure how many targets can be affected, _roll the related damage die for a result_.
 
@@ -126,11 +127,11 @@ When a character dies, the player is free to create a new character or take cont
 
 Running away from a dire situation always requires a successful DEX save, as well as a safe destination to run to.
 
-### Scars
+## Scars
 
 If damage to a PC would reduce their HP to exactly 0, look up the result on the table below based on the _amount of HP lost in the attack_. For example, if a PC went from 3 HP to 0 HP, they would look at entry #3 (Walloped). 
 
-## Scars Table
+### Scars Table
 
 |         |                                                              |
 | ------- | ------------------------------------------------------------ |

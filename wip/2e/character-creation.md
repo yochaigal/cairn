@@ -18,12 +18,6 @@ search_exclude: true
 
 > Some backgrounds may ask you to refer to tables on the [Marketplace](https://cairnrpg.com/wip/2e/marketplace) as well.
 
-## Attributes, HP & Traits
-
-- Roll for your character's [Attributes](attributes) and [Hit Protection](#hit-protection).
-- Roll for the rest  of your character's [Traits](#character-traits-d10), and then on the the [Bonds](#bonds) table. 
-- Finally, roll for your character's **Age** (2d20+10). If you are the _youngest_ character, roll on the [Omens](#omens) table. The result should be read aloud to the other players.
-
 ## Backgrounds
 
 |         |                                                                       |        |                                                                   |
@@ -40,17 +34,12 @@ search_exclude: true
 | **9**   | [Fungal Forager](https://cairnrpg.com/wip/backgrounds/fungal-forager) | **19** | [Rill Runner](https://cairnrpg.com/wip/backgrounds/rill-runner)   |
 | **10**  | [Greenwise](https://cairnrpg.com/wip/backgrounds/greenwise/)          | **20** | [Scrivener](https://cairnrpg.com/wip/backgrounds/scrivener)       |
 
-## Attributes  
-
-- Player Characters (PCs) have just three attributes: **Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**.
-- Roll 3d6 for each of your character's Attributes, in order. You may then swap any two of the results.
-- Attributes are not universal descriptors. A character with a low STR is not necessarily hopelessly weak; they can still attempt to raise a door or survive a deadly fight! Their risk is simply higher. 
-
-## Hit Protection  
+## Attributes, HP & Traits
 
 - Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. It does not indicate a character’s health or fortitude, nor do they lose it for very long (see [Healing](/wip/2e/core-rules#healing)). 
-- If a PC would take damage outside of combat, they would instead take damage to an **Attribute** instead (typically **STR**).
-- If an attack would take a PC's HP exactly to 0, the player must roll on the [**Scars**](https://cairnrpg.com/wip/2e/core-rules#scars) table.
+- Roll 3d6 for each of your character's Attributes (**Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**), in order. You may then swap any two of the results. Attributes are not universal descriptors. A character with a low STR is not necessarily hopelessly weak; they can still attempt to raise a door or survive a deadly fight! Their risk is simply higher. 
+- Roll for the rest  of your character's [Traits](#character-traits-d10), and then on the the [Bonds](#bonds) table. 
+- Finally, roll for your character's **Age** (2d20+10). If you are the _youngest_ character, roll on the [Omens](#omens) table. The result should be read aloud to the other players.
 
 ## Inventory
 
