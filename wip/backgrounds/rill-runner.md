@@ -17,7 +17,7 @@ Gale, Piper, Brook, Adair, Stone, Dale, Wren, Cliff, Rain, Robin
 
 ## Starting Gear
 
-- Water shoes
+- Water Shoes
 - Brigandine (1 Armor, _bulky_)
 - Compass
 - Dagger (d6)

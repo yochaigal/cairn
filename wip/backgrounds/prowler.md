@@ -19,7 +19,7 @@ Winda, Brielle, Theron, Chayse, Nuja, Dev, Raven, Lyra, Sable
 
 - Tarp
 - Boiled leather (1 Armor)
-- Short sword (d6)
+- Short Sword (d6)
 - Spring-loaded trap (4 STR damage)
 
 ## What did you last hunt? Roll 1d6:

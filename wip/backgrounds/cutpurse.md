@@ -17,10 +17,10 @@ Sable, Lyra, Eamon, Salina, Elara, Freya, Isolde, Sparrow, Ivy, Silas
 
 ## Starting Gear
  
-- Twin daggers (d6+d6, _bulky_)
-- Padded leather (1 Armor)
+- Twin Daggers (d6+d6, _bulky_)
+- Padded Leather (1 Armor)
 - Lockpicks
-- Black outfit (_petty_)
+- Black Outfit (_petty_)
 
 ## What was your last big job? Roll 1d6:
 

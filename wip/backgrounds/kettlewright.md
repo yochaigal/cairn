@@ -18,8 +18,8 @@ Fergus, Eamon, Bram, Idris, Elara, Darragh, Seren, Rónán, Berek, Lorenz
 ## Starting Gear
 
 - Pincers
-- Roll of tin
-- Tent (fits 2)
+- Roll of Tin
+- Tent (Fits 2)
 - Hammer (d6)
 
 ## What is your trade? Roll 1d6:

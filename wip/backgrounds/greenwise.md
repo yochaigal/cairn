@@ -18,10 +18,10 @@ Briar, Moss, Fern, Lichen, Root, Willow, Sage, Yarrow, Rowan, Ash
 
 ## Starting Gear
 
-- Iron pot
-- Root knife (d6)
-- Healing salve (restore 4 STR)
-- Twine bauble (_petty_, _Ward_ once per day)
+- Iron Pot
+- Root Knife (d6)
+- Healing Salve (restore 4 STR)
+- Twine Bauble (_petty_, _Ward_ once per day)
 _Ward_: A silver circle 50ft across appears on the ground. Choose one species that cannot cross it.
 
 ## How have The Woods failed you ? Roll 1d6:

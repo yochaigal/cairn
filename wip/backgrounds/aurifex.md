@@ -17,9 +17,9 @@ Hestia, Basil, Rune, Prism, Ember, Quintess, Aludel, Mordant, Salaman, Jazia
 ## Starting Gear
 
 - Lantern
-- Oil can (6 uses)
+- Oil Can (6 uses)
 - Needle-knife (d6)
-- Protective gloves (_petty_)
+- Protective Gloves (_petty_)
 
 ## What went horribly wrong? Roll 1d6:
 

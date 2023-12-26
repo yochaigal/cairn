@@ -17,8 +17,8 @@ Faunus, Snowdrop, Wisp, Silverdew, Brim, Solstice, Steeleye, Sileas, Gossamer, H
 
 ## Starting Gear
 
-- Salt pouch
-- Heirloom amulet (_petty_, glows in the presence of magic)
+- Salt Pouch
+- Heirloom Amulet (_petty_, glows in the presence of magic)
 - Sling (d6)
 - Dagger (d6) 
 

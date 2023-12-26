@@ -18,9 +18,9 @@ Ambrose, Lucius, Beauregard, Cornelius, Aria, Seren, Indigo, Delphine, Solene, N
 ## Starting Gear
 
 - Cart (+4 slots, _bulky_ when pulled)
-- Trick playing cards 
-- Fancy hat (_petty_)
-- Cane sword (d6)
+- Trick Playing cards 
+- Fancy Hat (_petty_)
+- Cane Sword (d6)
 
 ## How was your fraud exposed? Roll 1d6:
 

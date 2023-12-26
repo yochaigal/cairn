@@ -18,9 +18,9 @@ Gann, Light, Gale, Frost, Thorn, Reed, Flint, Brook, Brie, Aasim
 ## Starting Gear
 
 - Lantern
-- Oil can (6 uses)
-- Long sword (d10, _bulky_)
-- Boiled leather (1 Armor)
+- Oil Can (6 uses)
+- Long Sword (d10, _bulky_)
+- Boiled Leather (1 Armor)
 
 ## Why did you take the Oath?
 

@@ -17,8 +17,8 @@ Amara, Wulf, Mireille, Soren, Freki, Aster, Gerrik, Boreas, Delphine, Matheus
 
 ## Starting Gear
  
-- Leather whip (d6)
-- Soporific darts (STR save or fall asleep, 6 uses)
+- Leather Whip (d6)
+- Soporific Darts (STR save or fall asleep, 6 uses)
 - Lure
 - Rope (25ft)
 

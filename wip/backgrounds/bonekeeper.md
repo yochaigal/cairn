@@ -18,7 +18,7 @@ Rook, Ebon, Moro, Yew, Pall, Leth, Nix, Barnaby, Vesper, Leder
 ## Starting Gear
 
 - Lantern
-- Oil can (6 uses)
+- Oil Can (6 uses)
 - Stake (d6)
 - Chains (10ft)
 

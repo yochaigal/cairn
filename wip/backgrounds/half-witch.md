@@ -18,9 +18,9 @@ Solena, Veles, Bryn, Sabine, Razvan, Rowena, Galen, Nyx, Vex, Iwan
 ## Starting Gear
  
 - _Thicket_ Spellbook 
-- Iron dagger (d6)
-- Herbs pouch (restore 1 STR, 3 uses)
-- Ghillie suit
+- Iron Dagger (d6)
+- Herbs Pouch (restore 1 STR, 3 uses)
+- Ghillie Suit
 
 ## What did you bring back from the Unseelie Court? Roll 1d6:
 

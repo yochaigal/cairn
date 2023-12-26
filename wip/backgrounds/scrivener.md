@@ -18,7 +18,7 @@ Per, Stilo, Akshara, Pisa, Ji-Yun, Kalamos, Hugo, Shui, Kalam, Julius
 ## Starting Gear
 
 - Quill & Ink
-- Blank book
+- Blank Book
 - Awl (d6)
 - Badge (_petty_)
 
