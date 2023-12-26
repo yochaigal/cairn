@@ -15,7 +15,10 @@ grand_parent: WIP
 Flint, Feather, Crier, Thunder, Falcon, Pluck, Needle, Warsong, Hawk, Cai
 
 ## Starting Gear
- 
+
+- 3d6 Gold Pieces
+- Rations (3 uses)
+- Torches (3 uses) 
 - Serrated Knife (d6)
 - Boiled Leather (1 Armor)
 - Wooden Sight (_petty_)

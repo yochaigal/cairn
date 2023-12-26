@@ -16,7 +16,10 @@ grand_parent: WIP
 Wilmot, Patch, Lancet, Sawbones, Theo, Cutwell, Humor, Landsford, Goodeye, Johanna  
 
 ## Starting Gear
- 
+
+- 3d6 Gold Pieces
+- Rations (3 uses)
+- Torches (3 uses) 
 - Bonesaw (d6)
 - Bandages (3 uses)
 - Leech (restores 1 STR, 3 uses)

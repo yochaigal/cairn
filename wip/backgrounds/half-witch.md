@@ -17,6 +17,9 @@ Solena, Veles, Bryn, Sabine, Razvan, Rowena, Galen, Nyx, Vex, Iwan
 
 ## Starting Gear
  
+- 3d6 Gold Pieces
+- Rations (3 uses)
+- Torches (3 uses) 
 - _Thicket_ Spellbook 
 - Iron Dagger (d6)
 - Herbs Pouch (restore 1 STR, 3 uses)

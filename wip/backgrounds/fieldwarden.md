@@ -17,6 +17,9 @@ Seed, Thresh, Dibber, Sow, Stalk, Harrow, Cobb, Flax, Briar, Rye
 
 ## Starting Gear
 
+- 3d6 Gold Pieces
+- Rations (3 uses)
+- Torches (3 uses) 
 - Brigandine (1 Armor, _bulky_)
 - Bow (d6, _bulky_)
 - Hand Axe (d6)

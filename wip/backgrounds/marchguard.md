@@ -17,6 +17,8 @@ Gann, Light, Gale, Frost, Thorn, Reed, Flint, Brook, Brie, Aasim
 
 ## Starting Gear
 
+- 3d6 Gold Pieces
+- Rations (3 uses)
 - Lantern
 - Oil Can (6 uses)
 - Long Sword (d10, _bulky_)

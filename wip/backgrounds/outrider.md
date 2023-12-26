@@ -17,6 +17,9 @@ Drake, Cyra, Keir, Darius, Valen, Rorik, Yara, Rui, Talon, Jory
 
 ## Starting Gear
 
+- 3d6 Gold Pieces
+- Rations (3 uses)
+- Torches (3 uses) 
 - Long Sword (d10, _bulky_)
 - Leather Jerkin (1 Armor)
 - Crossbow (d8, _bulky_)

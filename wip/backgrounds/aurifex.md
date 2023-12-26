@@ -16,6 +16,8 @@ Hestia, Basil, Rune, Prism, Ember, Quintess, Aludel, Mordant, Salaman, Jazia
 
 ## Starting Gear
 
+- 3d6 Gold Pieces
+- Rations (3 uses)
 - Lantern
 - Oil Can (6 uses)
 - Needle-knife (d6)

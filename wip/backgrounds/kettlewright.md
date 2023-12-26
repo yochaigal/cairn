@@ -17,6 +17,9 @@ Fergus, Eamon, Bram, Idris, Elara, Darragh, Seren, Rónán, Berek, Lorenz
 
 ## Starting Gear
 
+- 3d6 Gold Pieces
+- Rations (3 uses)
+- Torches (3 uses) 
 - Pincers
 - Roll of Tin
 - Tent (Fits 2)
