@@ -19,7 +19,7 @@ Percival, Felix, Isolde, Wolfram, Aldric, Eira, Oswin, Ivor, Brunhilda, Beatrix
  
 - Vestments of the Order (_petty_)
 - Blessed Tinctures
-- Silver knife (d6)
+- Silver Knife (d6)
 - Crossbow (d8, _bulky_)
 
 ## To which order do you belong? Roll 1d6:
