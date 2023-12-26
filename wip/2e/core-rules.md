@@ -83,8 +83,7 @@ On their turn, a character may move up to 40ft and take up to one action. This m
 
 - The attacker rolls their weapon die and subtracts the target's armor, then deals the remaining total to their opponent's HP. Attacks in combat automatically hit.
 - If multiple attackers target the same foe, roll all damage dice and keep the single highest result. All actions are declared before being resolved.
-- If a PC would take damage outside of combat, they would instead take damage to an **Attribute** instead (typically **STR**).
-- If an attack would take a PC's HP exactly to 0, the player must roll on the [**Scars**](https://cairnrpg.com/wip/2e/core-rules#scars) table.
+- If attacking with two weapons at the same time, roll both damage dice and keep the single highest result (commonly denoted with a plus symbol, e.g. d8+d8).
 
 ### Attack Modifiers
 
