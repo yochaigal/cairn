@@ -8,6 +8,7 @@ grand_parent: WIP
 ---
 
 # Core Rules
+
 ## Attributes
 
 Each of the three **Attributes** are used in different circumstances (see **Saves**, below).
