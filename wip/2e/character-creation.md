@@ -14,7 +14,7 @@ search_exclude: true
 
 - First, roll on the [Backgrounds](#backgrounds) table below. Note the roll result, as you will need to refer to it for the next few steps.
 - Choose a name from the available list, then record each of your character's starting items.  See the [core rules](/wip/2e/#core-rules/#equipment) for how to record items. 
-- Roll on each of the included tables in the background. Record your character's items, skills, or abilities from each result. Some backgrounds may ask you to refer to tables on the [Marketplace](https://cairnrpg.com/wip/2e/marketplace) as well.
+- Roll on each of the included tables in the background. Record your character's items, skills, or abilities from each result. Some backgrounds may ask you to refer to the tables in the [Marketplace](https://cairnrpg.com/wip/2e/marketplace) as well.
 
 ## Backgrounds
 
