@@ -24,17 +24,15 @@ Each of the three **Attributes** are used in different circumstances (see **Save
 
 ## Healing & Recovery
 
-- Resting for a few moments and having a drink of water restores lost HP but leaves the party exposed. Bandages can stabilize a character that is bleeding out.
+- Resting for a few moments and having a drink of water restores lost HP but may leave the party exposed. Bandages can stabilize a character that has taken critical damage.
 - Attribute loss (see **Critical Damage**) can usually be restored with a week's rest, facilitated by a healer or other appropriate source of expertise. 
-- Some healing services are free, while magical or more expedient means of recovery may come at a cost.
+- Some healing services are free, while magical or more expedient means of recovery may come at a cost. 
 
 ## Deprivation & Fatigue
 
-A PC that lacks a crucial need (such as food or rest) is considered **Deprived**. Anyone **Deprived** for more than a day adds **Fatigue** to their inventory, one for each day. A **Deprived** PC cannot recover HP, Attributes, or item slots from **Fatigue**.
-- A PC may also be forced to add **Fatigue** after casting spells or due to events occurring in the fiction.
-- Each Fatigue occupies one slot and lasts until they are able to recuperate (such as a full night’s rest in a safe spot).
-- If a character is forced to add **Fatigue** to their inventory but they have no free slots,
-they must drop an item from their inventory.
+- A PC that lacks a crucial need (such as food or rest) is **Deprived**. Anyone **Deprived** for more than a day adds **Fatigue** to their inventory, one for each day. A **Deprived** PC cannot recover HP, Attributes, or item slots from **Fatigue**.
+- A PC may also be forced to add **Fatigue** after casting spells or due to events occurring in the fiction. Each Fatigue occupies one slot and lasts until the PC is able to recuperate (such as a full night’s rest in a safe spot).
+- If a character is forced to add **Fatigue** to their inventory but they have no free slots, they must drop an item from their inventory.
 
 ## Armor
 
