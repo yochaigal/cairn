@@ -76,7 +76,7 @@ search_exclude: true
 | Simple Instruments (Pipes, Lute, etc.)             | 10  |
 | Smoking pipe (_petty_)                             | 15  |
 | Specialized Tools (Ink, etc.)                      | 20  |
-| Spiked boots (_petty_)                             | 5   |
+| Spiked boots                                       | 15  |
 | Spyglass                                           | 40  |
 | Tent (fits 2, _bulky_)                             | 20  |
 | Thieving Tools (Lockpick, Metal File, etc.)        | 25  |
