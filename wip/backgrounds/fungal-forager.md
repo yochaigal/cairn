@@ -19,7 +19,7 @@ Unther, Woozy, Hilda, Current, Leif, Ratan, Mourella, Lal, Per, Madrigal
 
 - 3d6 Gold Pieces
 - Rations (3 uses)
-- Torches (3 uses) 
+- Torch (3 uses) 
 - Sharpened Trowel (d6)
 - Candle Helmet (+1 Armor, dim, 6 uses)
 - Rope (25ft)

@@ -19,7 +19,7 @@ Ambrose, Lucius, Beauregard, Cornelius, Aria, Seren, Indigo, Delphine, Solene, N
 
 - 3d6 Gold Pieces
 - Rations (3 uses)
-- Torches (3 uses) 
+- Torch (3 uses) 
 - Cart (+4 slots, _bulky_ when pulled)
 - Trick Playing cards 
 - Fancy Hat (_petty_)

@@ -19,7 +19,7 @@ Faunus, Snowdrop, Wisp, Silverdew, Brim, Solstice, Steeleye, Sileas, Gossamer, H
 
 - 3d6 Gold Pieces
 - Rations (3 uses)
-- Torches (3 uses) 
+- Torch (3 uses) 
 - Salt Pouch
 - Heirloom Amulet (_petty_, glows in the presence of magic)
 - Sling (d6)

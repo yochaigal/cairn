@@ -19,7 +19,7 @@ Jax, Selene, Baladria, Ada, Felix, Saylor, Tripp, Lantos, Echo, Jubilo
 
 - 3d6 Gold Pieces
 - Rations (3 uses)
-- Torches (3 uses) 
+- Torch (3 uses) 
 - Costume
 - Simple Instrument (Pipes, Lute, etc.)
 - Lucky Jerkin (1 Armor)

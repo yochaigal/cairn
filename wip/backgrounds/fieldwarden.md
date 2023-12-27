@@ -19,7 +19,7 @@ Seed, Thresh, Dibber, Sow, Stalk, Harrow, Cobb, Flax, Briar, Rye
 
 - 3d6 Gold Pieces
 - Rations (3 uses)
-- Torches (3 uses) 
+- Torch (3 uses) 
 - Brigandine (1 Armor, _bulky_)
 - Bow (d6, _bulky_)
 - Hand Axe (d6)

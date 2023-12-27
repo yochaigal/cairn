@@ -19,7 +19,7 @@ Sable, Lyra, Eamon, Salina, Elara, Freya, Isolde, Sparrow, Ivy, Silas
  
 - 3d6 Gold Pieces
 - Rations (3 uses)
-- Torches (3 uses) 
+- Torch (3 uses) 
 - Twin Daggers (d6+d6, _bulky_)
 - Padded Leather (1 Armor)
 - Lockpicks

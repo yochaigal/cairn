@@ -19,7 +19,7 @@ Percival, Felix, Isolde, Wolfram, Aldric, Eira, Oswin, Ivor, Brunhilda, Beatrix
 
 - 3d6 Gold Pieces
 - Rations (3 uses)
-- Torches (3 uses) 
+- Torch (3 uses) 
 - Vestments of the Order (_petty_)
 - Blessed Tinctures
 - Silver Knife (d6)

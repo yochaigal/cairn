@@ -16,7 +16,10 @@ grand_parent: WIP
 Amara, Wulf, Mireille, Soren, Freki, Aster, Gerrik, Boreas, Delphine, Matheus
 
 ## Starting Gear
- 
+
+- 3d6 Gold Pieces
+- Rations (3 uses)
+- Torch (3 uses)   
 - Leather Whip (d6)
 - Soporific Darts (STR save or fall asleep, 6 uses)
 - Lure
