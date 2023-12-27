@@ -81,7 +81,7 @@ search_exclude: true
 | **1** | Birthmarked | **6**  | Marked    |
 | **2** | Oily        | **7**  | Rosy      |
 | **3** | Scarred     | **8**  | Soft      |
-| **4** | Tanned      | **9**  | Tatooed   |
+| **4** | Tanned      | **9**  | Tattooed  |
 | **5** | Webbed      | **10** | Weathered |
 
 ### Hair
