@@ -41,12 +41,6 @@ Each of the three **Attributes** are used in different circumstances (see **Save
 - Shields and similar armor provide a bonus defense (e.g. +1 Armor), but only while the item is held or worn. Some may also provide additional benefits according to their use.
 - A PC, NPC, or monster cannot have more than 3 Armor.  
 
-## Inventory Slots
-
-- Most items take up one slot unless otherwise indicated. 
-- _Petty_ items do not take up any slots. _Bulky_ items take up **two** slots. 
-- A bag of coins worth less than 100gp is _petty_ and does not occupy a slot.
-
 ## Reactions
 
 When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll 2d6 and consult the following table:
