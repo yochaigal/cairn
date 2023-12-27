@@ -153,7 +153,7 @@ If damage to a PC would reduce their HP to exactly 0, look up the result on the 
 
 ### Relics
 
-**Relics** are items imbued with a magical spell or power. They do not cause Fatigue. Relics usually have a limited use, as well as a recharge condition.
+**Relics** are items imbued with a magical spell or power. They do not cause Fatigue. Relics usually have limited use, as well as a recharge condition.
 
 ## 100 Spells
 
