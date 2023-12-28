@@ -78,15 +78,14 @@ On their turn, a character may move up to 40ft and take up to one action. This m
 
 - The attacker rolls their weapon die and subtracts the target's armor, then deals the remaining total to their opponent's HP. Attacks in combat automatically hit.
 - If multiple attackers target the same foe, roll all damage dice and keep the single highest result. All actions are declared before being resolved.
-- If a PC would take damage outside of combat, they would instead take damage to an Attribute instead (typically STR).
 - If an attack would take a PC’s HP exactly to 0, the player must roll on the Scars table (pg. 67).
 
 ### Attack Modifiers
 
 - If fighting from a position of weakness (such as through cover or with bound hands), the attack is _Impaired_ and the attacker must roll 1d4 damage regardless of the attacks damage die. Unarmed attacks always do d4 damage. Unarmed attacks always do 1d4 damage.
 - If fighting from a position of advantage (such as against a helpless foe or through a daring maneuver), the attack is _Enhanced_, allowing the attacker to roll 1d12 damage instead of their normal die.
-- Attacks with the _Blast_ quality affect all targets in the noted area, rolling separately for each affected character. _Blast_ refers to anything from explosions to huge cleaving onslaughts to the impact of a meteorite. If unsure how many targets can be affected, _roll the related damage die for a result_.
-- If attacking with two weapons at the same time, roll both damage dice and keep the single highest result (commonly denoted with a plus symbol, e.g. d8+d8).
+- Attacks with the _Blast_ quality affect all targets in the noted area, rolling separately for each affected character. This can be anything from explosions, to a dragon's breath, to the impact of a meteorite. If unsure how many targets can be affected, _roll the related damage die for a result_.
+- If attacking with two weapons at the same time, roll both damage dice and keep the single highest result (denoted with a plus symbol, e.g. d8+d8).
 
 ### Critical Damage
 
@@ -95,11 +94,12 @@ On their turn, a character may move up to 40ft and take up to one action. This m
 
 ### Attribute Loss
 
-If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their WIL is reduced to 0, they are delirious. Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.  
+- If a PC would take damage outside of combat, they would instead take damage to an Attribute instead (typically STR).
+- If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their WIL is reduced to 0, they are delirious. Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.  
 
 ### Character Death
 
-When a character dies, the player is free to create a new character or take control of a hireling. They immediately join the party in order to reduce downtime.
+- When a character dies, the player is free to create a new character or take control of a hireling. They immediately join the party in order to reduce downtime.
 
 ### Detachments
 
@@ -108,7 +108,7 @@ When a character dies, the player is free to create a new character or take cont
 
 ### Retreat
 
-Running away from a dire situation always requires a successful DEX save, as well as a safe destination to run to.
+- Running away from a dire situation always requires a successful DEX save, as well as a safe destination to run to.
 
 ## Scars
 
