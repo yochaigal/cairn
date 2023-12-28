@@ -63,9 +63,9 @@ When the PCs encounter an NPC whose reaction to the party is not obvious, the Wa
 - Alternatively, choose an appropriate [**background**](/wip/2e/character-creation#backgrounds) and **name** from the [Character Creation](/wip/2e/character-creation) guide. Roll (or choose from) the tables for that background. Then, roll for Rations, Gold Pieces, Attributes, HP, and age. 
 
 ## Die of Fate  
-- To simulate the element of randomness (e.g. the weather, unique character knowledge, etc.).
-- In these situations, roll 1d6. A roll of 4 or more generally favors the PCs.
-- A roll of 3 or under tends to mean bad luck for the PCs or their allies.
+
+- Optionally, roll 1d6 whenever the outcome of an event is uncertain or to simulate an element of randomness and chance.
+- A roll of 4 or more generally favors the PCs, while a roll of 3 or under usually means bad luck for the PCs.
 
 ## Combat
 
