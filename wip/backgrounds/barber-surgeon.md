@@ -33,7 +33,7 @@ Wilmot, Patch, Lancet, Sawbones, Theo, Cutwell, Humor, Landsford, Goodeye, Johan
 | **2** | One foot is mostly metal (kick, d6), and you treat some [tough](https://cairnrpg.com/wip/2e/wilderness-exploration/#terrain-difficulty) terrain as **Easy**. Carry a **Oil Can** (6 uses). Without a daily application you are _deprived_ and noisy.    |
 | **3** | One of your fingers has been swapped, the bone replaced by gold and iron. Take a **Hook** and a **Screwdriver** that can attach to the fingertip.                                                                                                            |
 | **4** | Both ears have been surgically enhanced, tripling your hearing. You can _focus on a specific sound_ at a great distance, such as a conversation. You wear an ear flap to protect against sudden loud noises (WIL save to avoid temporary paralysis). |
-| **5** | Your chest is lined with alchemical sigils, _toughening the skin_ (Armor 1). Wearing other metallic armor nullifies the effect.                                                                                                                              |
+| **5** | Your chest is lined with alchemical sigils, _toughening the skin_ (1 Armor). Wearing other metallic armor nullifies the effect.                                                                                                                              |
 | **6** | One arm is fully metal (fist, d8), and comes off at the shoulder (_bulky_ when carried). It can move independently if you are within sight of it.                                                                                 |
 
 ## What rare tool is essential to your work? Roll 1d6:
