@@ -40,7 +40,7 @@ Ambrose, Lucius, Beauregard, Cornelius, Aria, Seren, Indigo, Delphine, Solene, N
 
 |       |                       |                                                                                                                                                                         |
 | ----- | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Royal Crest**       | Born into royalty, you chose a different life. The crest grants you access, but also alerts your family of your whereabouts.                                            |
+| **1** | **Royal Crest**       | Born into royalty, you chose a different life. The crest grants you access, but also alerts your family of your whereabouts. _Petty_.                                            |
 | **2** | **Miracle Oil**       | A smelly concoction that is also very, very, slippery. 2 uses.                                                                                                          |
 | **3** | **Surgeon's Soap**    | A lye and ash block that makes skin temporarily transparent, revealing the anatomy within. 4 uses.                                                                      |
 | **4** | **Goat Powder**       | Derived from the placenta of a baby goat.  Temporarily cures any affliction, but symptoms return within hours.                                                          |
