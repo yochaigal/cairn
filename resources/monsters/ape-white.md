@@ -6,7 +6,7 @@ grand_parent: Resources
 
 # Ape, White
 
-5 HP, 14 STR, claws (d6+d6), rocks (d6, _blast_)
+6 HP, 14 STR, 15 DEX, 12 WIL, claws (d6+d6), rocks (d6, _blast_)
 
-- Albino gorillas with nocturnal habits.
-- Defend their territory with threating gestures, followed by sudden violence.
+- Nocturnal gorillas covered in snow-white hair.
+- Defend their territory with threating gestures followed by sudden violence.
