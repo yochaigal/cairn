@@ -10,4 +10,4 @@ grand_parent: Resources
 
 - 6’ tall humanoid constructs made of bone and sorcery. Four-armed, with sharpened ends spread around their torso.
 - Mindless guardians, they simply detect and attack any living creature besides their creator.
-- Mundane attacks are _impaired__ against the construct.
+- Mundane attacks are _impaired_ against the construct.

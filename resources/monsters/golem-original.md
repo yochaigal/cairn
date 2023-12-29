@@ -10,5 +10,5 @@ grand_parent: Resources
 
 - A hulking 9’ tall statue made of clay, mud, and prayer.
 - Mindlessly follows whatever commands given by its master, even after their death.
-- Immune to mundane blades and missile weapons. Damage from fire is __enhanced__.
+- Immune to mundane blades and missile weapons. Damage from fire is _enhanced_.
 - If destroyed, the Golem eventually reforms and carries out its previous orders.
