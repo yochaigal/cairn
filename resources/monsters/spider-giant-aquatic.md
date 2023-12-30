@@ -6,8 +6,8 @@ grand_parent: Resources
 
 # Spider, Giant Aquatic
 
-4 HP, 12 DEX, bite (d6)
+4 HP, 13 STR, 8 DEX, 4 WIL, bite (d8)
 
-- 4’ long spiders that dwell in large bodies of freshwater. Build air-filled nests in aquatic vegetation.
-- Are able to hold breath for long periods of time, and lurk just below the water's surface to surprise its victims.
-- **Critical Damage**: The poison paralyzes the victim (d8 DEX damage), the spider drags paralyzed victims to its lair to eat them.
+- Enormous spiders that dwell in large bodies of fresh water. Build air-filled nests in aquatic vegetation.
+- Can hold their breath for long periods, lurking just below the water's surface to surprise their victims.
+- **Critical Damage**: Deals 1d4 DEX damage to target, paralyzing them for later consumption.
