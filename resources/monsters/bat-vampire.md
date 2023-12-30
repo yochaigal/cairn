@@ -6,8 +6,8 @@ grand_parent: Resources
 
 # Bat, Vampire
 
-3 HP, 6 STR, 14 DEX,  bite (d8)
+3 HP, 6 STR, 14 DEX, 3 WIL, bite (d8)
 
-- Large, nocturnal mammals that feed on the blood of their victims. 
-- Unaffected by darkness or blinding effects. Loud noises and holy rituals may frighten them.
-- **Critical Damage**: Recovers full STR and HP if the target has blood.
+- Large, nocturnal mammals that feed on live blood. 
+- Use echolocation to navigate. Fear loud noises.
+- **Critical Damage**: Target is infected by disease and are _deprived_ without specialist healing.

@@ -10,4 +10,4 @@ grand_parent: Resources
 
 - Long, serpentine lizards that nest deep below the earth or in brambles just underfoot. 
 - Fighting a **Basilisk** without meeting its gaze is difficult (attacks facing it are _impaired_).
-- **Gaze**: A target facing the Basilisk is slowly turned to stone, from the bottom up. After three rounds, they petrify completely. Its reflection is harmless. An antidote can be brewed from the Basilisk's gizzards.
+- **Gaze**: A target facing the Basilisk is slowly petrified, from the bottom up, completely frozen after three rounds. Its reflection is harmless. An antidote can be brewed from the Basilisk's gizzards.
