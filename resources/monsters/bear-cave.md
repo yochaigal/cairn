@@ -6,8 +6,8 @@ grand_parent: Resources
 
 # Bear, Cave
 
-8 HP, 17 STR, 13 DEX, 8 WIL, claws (d10+d10), bite (d12)
+8 HP, 16 STR, 13 DEX, 8 WIL, claws (d8+d8), bite (d10)
 
-- Ferocious, 15’ tall carnivorous bears. Make their dens in caves. 
-- Excellent trackers despite their poor eyesight, relying on their keen their sense of smell.
-- **Hug**: On **Critical Damage**, the target loses an additional d6 damage as they are squeezed into a pulp.
+- Large, carnivorous bears that den in caves and dark places. 
+- Excellent trackers that rely heavily on their keen their sense of smell.
+- **Critical Damage**: Target loses an additional d6 damage as they are squeezed into a pulp.
