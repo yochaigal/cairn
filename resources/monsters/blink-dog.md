@@ -8,5 +8,5 @@ grand_parent: Resources
 
 5 HP, 11 STR, 14 DEX, 5 WIL, bite (d6)
 
-- Intelligent, wild dogs that travel in packs.
-- After each attack, they may teleport a safe distance away.
+- Teleporting canines in service of a powerful master.
+- Can phase out of reality at will. Melee attacks against them are _impaired_.   
