@@ -4,7 +4,7 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Bat, Vampire
+# Vampire Bat
 
 3 HP, 6 STR, 14 DEX, 3 WIL, bite (d8)
 

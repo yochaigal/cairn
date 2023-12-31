@@ -4,7 +4,7 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Bear, Polar
+# Polar Bear
 
 7 HP, 16 STR, 12 DEX, 6 WIL, claws (d8+d8), bite (d10)
 

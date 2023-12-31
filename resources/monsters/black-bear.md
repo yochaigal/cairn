@@ -4,7 +4,7 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Bear, Black
+# Black Bear
 
 6 HP, 14 STR, 12 DEX, 6 WIL, claws (d6+d6), bite (d8)
 
