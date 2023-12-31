@@ -8,6 +8,6 @@ grand_parent: Resources
 
 7 HP, 1 Armor, 16 STR, 9 DEX, 13 WIL, tail (d8)
 
-- A monstrous creature with the body of a Cape buffalo, scales on its back, and the head of a wild boar. Its enormous head always points towards te ground.
-- **Paralyze**: Its stare turns a single target to stone. Moonlight reverses the effect.   
+- A chimeric monstrosity bearing traits of buffalo, lizard, and boar. Its enormous head is always pointing towards the ground.
+- **Paralyze**: A single target is turned to stone. Moonlight reverses the effect.   
 
