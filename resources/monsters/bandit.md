@@ -6,8 +6,8 @@ grand_parent: Resources
 
 # Bandit
 
-4 HP, 11 STR, 14 DEX, 12 WIL, dagger (d6), bow (d6)
+4 HP, 1 Armor, 12 STR, 12 DEX, 9 WIL, shortsword (d6) or short bow (d6)
 
-- Thieves who value wealth over all else.
-- They use disguises, stealth, and trickery to surprise victims.
-- Typically found in groups accompanied by a powerful leader.
+- Outlaws and brigands who raid settlements and ambush travelers. Travel in large groups of at least one _detachment_.
+- A detachment always travels with one leader wearing chainmail or similar (2 Armor) and a longsword (d8) or crossbow (d8).
+- When testing Morale, save using the leader's WIL (13). If the leader dies, the Brigands will flee.
