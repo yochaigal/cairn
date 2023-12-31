@@ -4,7 +4,7 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Ape, White
+# White Ape
 
 6 HP, 14 STR, 15 DEX, 12 WIL, claws (d6+d6), rocks (d6, _blast_)
 
