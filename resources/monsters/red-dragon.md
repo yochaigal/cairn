@@ -4,7 +4,7 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# The Red Dragon
+# Red Dragon
 
 18 HP, 3 Armor, 18 STR, 12 DEX, 16 WIL, bite (d12), claws (d10+d8), _detachment_
 

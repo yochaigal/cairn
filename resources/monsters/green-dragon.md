@@ -4,7 +4,7 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# The Green Dragon
+# Green Dragon
 
 12 HP, 2 Armor, 14 STR, 15 DEX, 18 WIL, bite (d12), venom spit (d8, blast), _detachment_
 

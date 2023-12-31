@@ -4,7 +4,7 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Giant Chameleon
+# Giant Horned Chameleon
 
 6 HP, 14 STR, 12 WIL, bite (d8)
 

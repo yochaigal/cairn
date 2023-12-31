@@ -4,7 +4,7 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Squid, Camouflaged
+# Camouflaged Squid
 
 12 HP, 15 STR, 15 DEX, 11 WIL, tentacles (d8, _blast_), beak (d12), ink spray
 

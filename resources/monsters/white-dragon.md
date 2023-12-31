@@ -4,7 +4,7 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# The White Dragon
+# White Dragon
 
 16 HP, 1 Armor, 16 STR, 16 DEX, 12 WIL, bite (d12), claws (d8+d8), _detachment_
 

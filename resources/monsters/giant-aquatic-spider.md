@@ -4,7 +4,7 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Spider, Giant Aquatic
+# Giant Aquatic Spider
 
 4 HP, 13 STR, 8 DEX, 4 WIL, bite (d8)
 

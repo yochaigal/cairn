@@ -4,7 +4,7 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# The Blue Dragon
+# Blue Dragon
 
 14 HP, 2 Armor, 14 STR, 16 DEX, 15 WIL, bite (d10), claws (d8+d8, blast), _detachment_
 
