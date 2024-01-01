@@ -6,7 +6,7 @@ grand_parent: Resources
 
 # Chimera
 
-10 HP, 14 STR, bite and gore (d10+d10), fire breath (d12, _blast_)
+10 HP, 14 STR, 11 DEX, 13 WIL, bite (d10+d10, _blast_)
 
-- A three-headed flying aberration.A hybrid of lion, goat, and dragon.
-- Created through powerful magic, these creatures are can be bound to a master or roaming free.
+- A flying, sorcerous hybrid of lion, goat, and dragon.
+- **Dragon's Breath**:  Acid, Lightning, or Fire (depending on the head). d8 STR damage.

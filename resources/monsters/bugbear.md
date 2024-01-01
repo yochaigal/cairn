@@ -10,4 +10,4 @@ grand_parent: Resources
 
 - Large, goblin-like creatures covered in fur.
 - Prefers stealth and trickery to gain an advantage.
-- May command a party of like creatures (typically goblins).
+- Often command parties of like creatures (typically goblins).

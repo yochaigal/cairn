@@ -6,8 +6,7 @@ grand_parent: Resources
 
 # Bone Construct
 
-8 HP, 2 Armor, 15 STR, 8 WIL, sharpened arms (d8, blast)
+8 HP, 3 Armor, 15 STR, 5 DEX, 0 WIL, sharpened arms (d8+d8), _detachment_
 
-- 6’ tall humanoid constructs made of bone and sorcery. Four-armed, with sharpened ends spread around their torso.
-- Mindless guardians, they simply detect and attack any living creature besides their creator.
-- Mundane attacks are _impaired_ against the construct.
+- Gigantic, four-armed constructs made of bone and sorcery.
+- Mindless guardians that stand ready to attack any creature other than their creator.
