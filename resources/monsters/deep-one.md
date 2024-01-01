@@ -6,8 +6,8 @@ grand_parent: Resources
 
 # Deep One
 
-6 HP, 12 WIL, spear (d8)
+6 HP, 14 STR, 16 DEX, 12 WIL, trident (d10)
 
-- Amphibious, fish-like humanoids with webbed fingers. Live in deep seas and are able to see in the darkness.
-- Highly resistant to magical effects.
-- Occasionally surface to trade with coastal settlements, frequently requesting union between one of them and a human.
+- Amphibious, fish-like humanoids that live in the deep sea. Highly resistant to magical effects.
+- Occasionally surface to trade with coastal settlements. On land their DEX is halved. 
+- Can only reproduce with land-dwelling humanoids.
