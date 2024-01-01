@@ -6,8 +6,7 @@ grand_parent: Resources
 
 # Cockatrice
 
-5 HP, 8 STR, 14 DEX, beak (d6)
+5 HP, 8 STR, 14 DEX, 4 WIL, beak (d6)
 
-- Small creatures resembling chickens with reptilian features.
-- Notably agile and hard to pin down, their greatest enemy is the weasel.
-- **Critical Damage**: the victim is turned to stone until the Cockatrice is killed.
+- Small, agile creatures resembling chickens with reptilian features.
+- **Critical Damage**: Injured area is covered in stone, which spreads to the rest of their body within three rounds. The stone can be chipped off.
