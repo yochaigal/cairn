@@ -6,8 +6,8 @@ grand_parent: Resources
 
 # Dryad
 
-4 HP, 14 WIL, unarmed (d4)
+4 HP, 8 STR, 12 DEX, 14 WIL, knotted arms (d6)
 
-- Shy, peaceful tree spirits whose manifest in a beautiful female form.
-- Spiritually bound with a tree, may disappear by joining with the tree again. Can’t go too far away from it and dies if the tree is destroyed.
-- Charm strangers that come near. Charmed creatures mindlessly walk into the tree, disappearing forever if not rescued quickly.
+- Shy, protective tree spirits that manifest as beautiful, green-skinned humanoids.
+- Unable to travel far from the tree they are bound to, and perish themselves if it is destroyed.
+- **Befuddle**: Target becomes confused, gradually moving further and further away from the host tree. WIL save once per round to break free.
