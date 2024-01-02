@@ -6,8 +6,8 @@ grand_parent: Resources
 
 # Djinn
 
-10 HP, 1 Armor, 15 DEX, fists (d10+d8)
+15 HP, 16 STR, 16 DEX, 18 WIL, elemental fists (d10+d10), _detachment_
 
-- Tall, cloudy humanoids from the plane of air. Highly intelligent, use invisibility and illusions to trick other beings.
-- May transform into a whirlwind, sweeping everything on its path.
-- Capable of granting a wish per person, the result always is distorted based on the wording of the wish.
+- Magical, intelligent extraplanar beings. Can take any form, or none at all.
+- Can conjure mundane objects from nothing, sound, or vision.
+- **Whirlwind**: Transforms into a building-sized vortex, destroying anything in its path (DEX save or take d12 STR damage). 
