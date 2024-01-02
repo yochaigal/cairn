@@ -6,8 +6,8 @@ grand_parent: Resources
 
 # Dwarf
 
-4 HP, 2 Armor, 14 STR, hammer (d8)
+4 HP, 2 Armor, 14 STR, 6 DEX, 13 WIL, hammer (d8)
 
-- Short, bulky, humanoids with tough skin like earth and stone. Dwell in mountains and underground.
-- Do not rely on light, being able to see shapes and heat patterns in darkness.
+- Short, humanoids with skin as tough as stone. Dwell in mountains and underground.
+- Can nearly perfect in darkness, and hear the whispers of rare gems.
 - Highly resistant to poison and disease.
