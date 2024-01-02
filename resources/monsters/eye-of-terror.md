@@ -6,8 +6,8 @@ grand_parent: Resources
 
 # Eye of Terror
 
-15 HP, 8 DEX, 18 WIL, bite (d8+d8)
+15 HP, 9 STR, 8 DEX, 16 WIL, bite (d8)
 
-- Floating spheres with a large maw, one big central eye, and several small eyes on stalks scattered through the body.   Scheming and greedy, lair deep underground.
-- Cancels any magic effect in a nearby range facing its central eye.
-- The eyestalks cast one of those spells each round randomly: (1-Charm, 2-Phobia, 3-Telekinesis, 4-Sleep, 5-Shuffle, 6-Vision).
+- Floating spheres with large mouths, enormous eyes, and several small eyes set atop long stalks. 
+- They are highly intelligent, intensely greedy, and completely insane. 
+- Can cast the following spells at will: _Charm, Phobia, Telekinesis, Sleep, Shuffle, Vision_. Magic used against them requires a WIL save or fizzle out.

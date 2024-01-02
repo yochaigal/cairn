@@ -10,4 +10,4 @@ grand_parent: Resources
 
 - Long-lived, slender Fae with pointed ears preferring to live in harmony with nature.
 - Highly resistant to charming and mind-controlling effects.
-- **Spells**: Can cast **Charm**, **Pacify**, and **Telepathy** at will.
+- Can cast the following spells at will: _Charm_, _Pacify_, _Telepathy_. 

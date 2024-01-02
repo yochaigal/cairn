@@ -6,7 +6,7 @@ grand_parent: Resources
 
 # Ettin
 
-10 HP, 16 STR, 6 WIL, club (d10)
+10 HP, 16 STR, 8 DEX, 6 WIL, club (d10)
 
-- Two-headed giant kin of low intelligence and aggressive behavior.   Lay underground and only act in darkness.
-- One head is always vigilant, preventing being surprised.
+- The two-headed kin of giants. Prefer caves and underground hovels.
+- Cannot be surprised.
