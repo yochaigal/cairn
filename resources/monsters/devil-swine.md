@@ -6,8 +6,8 @@ grand_parent: Resources
 
 # Devil Swine
 
-9 HP, 16 STR, 8 DEX, gore (d6+d6)
+9 HP, 16 STR, 8 DEX, gore (d6+d6) or club (d8)
 
-- Corpulent humans who can change into massive swine. Lurk in isolated human settlements, hunting the people to eat their flesh.
-- Can only shape change at night, hunt in the dark, surprising victims.
-- **Critical Damage**: A human victim gets infected, becoming a lycanthrope of the same type after a couple of weeks.
+- Obese humanoids that transform into massive porcine monstrosities to feast on human flesh.
+- Prefer to hunt in isolated settlements close forests and wetlands. Can only shapeshift at night.
+- **Charm**: Target obey's the swine's every command until it is killed. WIL save once per round to break free.
