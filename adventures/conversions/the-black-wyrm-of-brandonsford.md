@@ -7,71 +7,101 @@ grand_parent: Adventures
 
 # The Black Wyrm of Brandonsford
 - Original system-neutral [adventure](https://www.drivethrurpg.com/product/327744/The-Black-Wyrm-of-Brandonsford) by [Chance Dudinack](https://wizardfightclub.blogspot.com/).
+Conversion by [Derek B.](https://widdershinswanderings.bearblog.dev/) and Yochai Gal.
 - If not mentioned, run as written (RAW).
 - Treat NPCs as 2-6 HP, 8-12 STR (dependent on perceived hardiness).
 
 ## The Town of Brandonsford
 
 ### Lady Hilda
-8 HP, 3 Armor, 15 STR, 9 DEX, 16 WIL, sword (d8), dagger (d6)
+
+8 HP, 3 Armor, 16 STR, 9 DEX, 16 WIL, sword (d8) or dagger (d6)
 
 ### Malzazerick the Magnificent
-4 HP, 11 STR, 11 DEX, 16 WIL, dagger (1d6), Spells: _Read Magic_, _Charm Person_, _Magic Missile_
-- _Read Magic_: Decipher magical runes, inscriptions or language.
-- _Charm Person_: See [_Charm_](/cairn-srd/#charm).
-- _Magic Missile_: See [_Arcane Arrow_](/resources/more-spellbooks/#arcane-arrow).
+
+3 HP, 11 STR, 11 DEX, 15 WIL, dagger (1d6), Spells: _Charm_, _Arcane Arrow_
+
+- **Student of the Arcane**: Can Decipher magical runes, inscriptions or language.
+- _Charm_: A creature you can see treats you as a friend.
+- _Arcane Arrow_: Green energy bursts from your fingers, dealing 1d4 STR damage and ignoring mundane armor.
 
 ### “Drop Dead” Ned
-4 HP, 1 Armor, 11 STR, 13 DEX, 12 WIL, silver dagger (d6), shortbow (d6), killer wasp (d4)
-- Shortbow: On Critical Damage, target takes double the STR loss.
-- Killer Wasp: Target must make a WIL save to avoid falling to the ground and twitching for d6+1 rounds.
+
+4 HP, 1 Armor, 11 STR, 13 DEX, 12 WIL, silver dagger (d6) or shortbow (d6)
+
+- **Ambush**: If the initial DEX save to begin combat is successful his first attack is _enhanced_.
+- **Killer Wasp**: Ned can release in lieu of an attack.  It will pursue its target unerringly.
+
+#### Killer Wasp
+
+2 HP, 3 STR, 15 DEX, 3 WIL, stinger (d4)
+
 
 ### Squints
-3 HP, 1 Armor, 8 STR, 14 DEX, 9 WIL, dagger (d6), sling (d6)
+
+3 HP, 1 Armor, 8 STR, 14 DEX, 9 WIL, dagger (d6) or sling (d6)
 
 ### Warwick the Smith
-- **Mithril Chain:** 2 Armor, half damage from magic weapons/spells. _One slot_.
+
+- **Mithril Chain:** 2 Armor, resistant to magical weapons and effects. _One slot_.
 
 ### Father William the Priest
-- _Cure Wounds_: See [Cure Wounds](/cairn-srd#cure-wounds).
+- _Cure Wounds_: Restore 1d4 STR per day to a creature you can touch.
 - _Cure Disease_: A target is completely cured of a single disease.
 
 ### Ingrid the Alchemist
-- **Mandrake Root Tea**: Heals d4 STR over a 4 hour period.
+
+- **Mandrake Root Tea**: Heals d4 STR over the course of a Watch (8 hours).
 
 ### Naggeneen, the Clurichaun
-3 HP, 2 Armor, 8 STR, 13 DEX, 12 WIL
-- As written this creature has an advantage at escaping death.
+
+3 HP, 5 STR, 15 DEX, 12 WIL
+
+- Can turn invisible, fly, and create illusions but will lose his powers if apprehended.
 
 ## The Woods
 ### Wolves
-4 HP, 8 STR, 14 DEX, 12 WIL, bite (d6)
 
+4 HP, 8 STR, 14 DEX, 3 WIL, bite (d6)
+
+- **Ravenous**: These wolves are so starved they will ignore **Morale** Saves related to casualties, only saving whenever they are reduced to 0 HP.
 ### Drunk Goblins
-2 HP, 8 STR, 11 DEX, 11 WIL, 1 weapon (d6)
+
+2 HP, 8 STR, 8 DEX, 8 WIL, 1 weapon (d6)
 
 ### Idiot Dragon Hunters
-4 HP, 9 STR, 14 WIL, pitchfork (d6)
+
+2 HP, 12 STR, 10 DEX, 8 WIL, pitchfork (d6)
 
 ### Dryad
-10 HP, 2 Armor, 11 STR, 14 DEX, 9 WIL
-- _Charm Person_: See [_Charm_](/cairn-srd#charm).
+
+8 HP, 2 Armor, 12 STR, 16 DEX, 9 WIL
+
+- _Charm Person_: A creature you can see treats you as a friend.
 
 ### Stirges
-3 HP, 6 STR, 14 DEX, 13 WIL, bite (d4)
-- Blood drain: On Critical Damage target also takes 1d3 STR damage.
+
+3 HP, 4 STR, 14 DEX, 6 WIL, bite (d4)
+
+- **Critical Damage**: Latch onto their victim, dealing an additional 1d4 STR damage every **Round** thereafter.
 
 ### Sprites
-2 HP, 2 Armor, 4 STR, 16 DEX, 11 WIL
+6 HP, 4 STR, 16 DEX, 11 WIL
+
+- **Untouchable**: Cannot be targeted by ranged attacks and melee attacks are _impaired_. Anyone who can see through illusions nullifies the effect.  
 
 ### Golden Fox
-4 HP, 3 Armor, 8 STR, 15 DEX, 8 WIL, bite (d6)
+
+8 HP, 1 Armor, 8 STR, 16 DEX, 8 WIL, bite (d6)
 
 ### Fae Hounds
-6 HP, 2 Armor, 8 STR, 15 DEX, 15 WIL, bite (d6)
+
+6 HP, 1 Armor, 8 STR, 14 DEX, 8 WIL, bite (d6)
 
 ### Pompous Elvish Hunters
-4 HP, 2 Armor, 11 STR, 13 DEX, 12 WIL, longbow (d8), a spellbook
+
+4 HP, 2 Armor, 10 STR, 14 DEX, 10 WIL, bow (d8), a spellbook
+
 - For spells consider any of the following table or see any ([random spell](/cairn-srd#100-spells)):
 
 |         |                                                 |
@@ -99,98 +129,123 @@ grand_parent: Adventures
 | 20      | [_Wizard Mark_](/cairn-srd#wizard-mark)         |
 
 ### Goblin Scavengers
-3 HP, 1 Armor, 9 STR, 11 DEX, 15 WIL, 1 weapon (d6)
+
+3 HP, 1 Armor, 12 STR, 10 DEX, 10 WIL, 1 weapon (d6)
 
 ## The Dragon
+
 8 HP, 3 Armor, 18 STR, 16 DEX, 18 WIL, venomous bite (d12) or breath (d12, _blast_), _detachment_
-- Scales of Glistening Black: Immune to normal weapons except for eyes & mouth.
-- Jaws Dripping With Poison (bite): On critical damage, target is crushed. Their corpse becomes damaging to the touch (d6 to STR).
-- Throat Full of Brimstone (breath): on critical damage, the target explodes.
+
+- **Scales of Glistening Black**: Immune to normal weapons unless such attacks are stated to specifically target the mouth or eyes. Such attacks are _impaired_ instead.
+- **Critical Damage (bite)**: Target is crushed in jaws dripping with poison. Their corpse becomes visibly corrosive and damaging to the touch (d6 to STR). If the victim is wearing anything made of precious metals or gems, the dragon will spend the next **Round** securing it.
+- **Critical Damage (breath)**: Targets who succumb are reduced to a smoking ruin. Only items made of precious metals or gems will be spared.
 
 ## Stream
+
 ### Nixie Traders
-2 HP, 1 Armor, 4 STR, 14 DEX, 9 WIL, trident (d6)
-- _Charm Person_: See [Charm](https://cairnrpg.com/cairn-srd#charm).
-- Water Breathing (24h).
+
+2 HP, 4 STR, 14 DEX, 9 WIL, trident (d4)
+
+- _Charm Person_: A creature you can see treats you as a friend.
+- **Water Breathing**: Can grant a target the ability to breathe underwater for a day and night.
 
 ### Leprechaun Fisherman
-3 HP, 8 STR, 12 DEX, 12 WIL, None
-- Turn invisible at will.
-- Polymorph nonliving objects at will.
-- Create illusions at will.
+
+3 HP, 8 STR, 10 DEX, 10 WIL 
+
+- Can turn invisible, polymorph nonliving objects, and create illusions at will.
 
 ### River Troll
-River Troll
-7 HP, 2 Armor, 14 STR, 11 DEX, 15 WIL, claws (d6+d6)
-- Can be distracted with food
+
+8 HP, 2 Armor, 14 STR, 8 DEX, 14 WIL, claws (d6+d6)
+
+- **False Log**: The first person to attempt to cross the log is not granted a DEX Save to go first in combat.
+- Can be distracted with food.
 
 ### Goblins
-3 HP, 1 Armor, 9 STR, 11 DEX, 15 WIL, 1 weapon (d6)
+
+3 HP, 1 Armor, 9 STR, 11 DEX, 10 WIL, 1 weapon (d6)
 
 ### Giant Beaver
-7 HP, 1 Armor, 13 STR, 14 DEX, 13 WIL, bite (d8)
+
+7 HP, 1 Armor, 13 STR, 14 DEX, 12 WIL, bite (d8)
 
 ### Fauns' Grove
-- **Wine**: STR save to avoid poison.
+- **Wine**: STR save to avoid losing consciousness for one **Watch**(8 hours).
 
 ### Giant
+
 10 HP, 2 Armor, 16 STR, 9 DEX, 12 WIL, fists (d8+d8), _detachment_
 
 ### Brother Dirk
-3 HP, 9 STR, 8 DEX, 15 WIL, fists (d4), spellbook (see below)
-- _Cure Light Wounds_: See [Cure Wounds](/cairn-srd#cure-wounds).
+
+3 HP, 9 STR, 8 DEX, 15 WIL, fists (d4)
+
+- _Cure Light Wounds_: Restore 1d4 STR per day to a creature you can touch.
 
 ## Goblin Castle
 ### Hogboon, the Goblin King
-8 HP, 2 Armor, 14 STR, 11 DEX, 15 WIL, sword (d8), spellbook (see below)
-- _Charm Person_: See [Charm](https://cairnrpg.com/cairn-srd#charm).
-- _Sleep_: See [Sleep](https://cairnrpg.com/cairn-srd#sleep).
-- _Invisibility_: See [Invisibility](https://cairnrpg.com/cairn-srd#invisibility).
+
+8 HP, 2 Armor, 14 STR, 11 DEX, 15 WIL, sword (d8)
+
+- _Charm Person_: A creature you can see treats you as a friend.
+- _Sleep_: A creature you can see falls into a light sleep.
+- _Invisibility_: Target is invisible until they attempt harm.
+- **Emerald Ring of the Goblin King**: Can change any nonliving, nonmagical object into a plant.  May reverse the process if desired.
 
 ## Barrow Mound
 ### Knight's Crypt
-- **Burial Alcove**: STR save to move.
+- **Burial Alcove**: STR save to move without a horrific grinding sound.
 
 ### Goblins
 See [above](/adventures/conversions/the-black-wyrm-of-brandonsford/#goblins)
 
 ### Gray Ooze
-5 HP, 4 STR, 12 DEX, 18 WIL, touch (d8+d8)
-- Critical Damage: Armor loses 1 point of value. Unarmored targets lose additional d8 STR.
+
+6 HP, 4 STR, 12 DEX, 6 WIL, touch (d8+d8)
+- **Critical Damage**: Victims are engulfed. Armor is degraded by 1 point (destroyed if 0 Armor is reached) per round. Unarmored victims take d8 STR damage each **Round** until slain or rescued.  
 
 ### Chapel
-- **Touching the Mold**: STR save or lose d2 STR.
-- **Blessing**: Cleaning the mold gives the PC a fictional advantage when they Save within the woods (the Warden will say how).
+- **Touching the Mold**: STR save or **Deprived**.
+- **Blessing**: Cleaning the mold gives the PC fictional advantage when they Save within the woods (the Warden will say how).
 
 ## Lower Level
 ### Sir Alfred
-5 HP, 2 Armor, 11 STR, 8 DEX, 18 WIL, greatsword (d8)
+
+6 HP, 2 Armor, 11 STR, 8 DEX, 15 WIL, greatsword (d8)
 
 ### Sir Wyllt's Skull
-4 HP, 3 Armor, 4 STR, 14 DEX, 18 WIL, bite (d6)
+
+8 HP, 1 Armor, 4 STR, 14 DEX, 15 WIL, bite (d6)
 
 ### Food
-- **Amphorae**: Eating the food deals d2 STR damage; save to avoid vomiting.
+- **Amphorae**: Eating the food requires a STR save to not become **Deprived**.
 
 ### Giant Rat
-9 HP, 1 Armor, 14 STR, 11 DEX, 12 WIL, bite (d3)
+
+2 HP, 1 Armor, 8 STR, 12 DEX, 6 WIL, bite (d4)
 
 ### Giant Spider
-6 HP, 1 Armor, 8 STR, 13 DEX, 11 WIL, bite d6+d6,
-- Critical Damage: Death by poison within one round.
+
+6 HP, 1 Armor, 8 STR, 14 DEX, 6 WIL, bite (d8)
+- **Critical Damage**: Death by poison within one **Round**.
 
 ### Sir Myrddin’s Ghost
-8 HP, 3 Armor, 8 STR, 15 DEX, 18 WIL, touch (d6+d6)
-- **Call to Arms**: Statue d8 damage to HP (no save).
+
+5 HP, 6 STR, 15 DEX, 15 WIL, touch (d6, ignores armor) or **Call to Arms**
+
+- **Incorporal**: Cannot be harmed by normal weapons or means.
+- **Call to Arms**: Statue hurls itself at target, dealing d10 damage. 
 
 ### Crypt of Sir Wyllt
-- **Potions of Healing**: Restore 1d6+1 STR.
-- **Potions of Sleep**: Imbibers fall asleep.
-- **Potion of Tranquility**: See [Pacify](/cairn-srd#pacify).
+- **Potions of Healing**: Restore 1d6 STR.
+- **Potions of Sleep**: Imbiber fall asleep.
+- **Potion of Tranquility**: Imbiber has an aversion to violence.
 
-### Sir Wylt's Skeleton
-6 HP, 2 Armor, 11 STR, 8 DEX, 18 WIL, axe (d8)
-- Critical damage: roll for random body part to be severed (1-2: leg, 2-5: arm, 6: head)
+### Sir Wyllt's Skeleton
+
+6 HP, 2 Armor, 11 STR, 8 DEX, 15 WIL, axe (d8, _enhanced_ against unarmored)
+- **Critical damage**: roll for random body part to be severed (1-2: leg, 2-5: arm, 6: head)
 
 ### Crypt of Sir Myrddin
 #### Rune Stones
@@ -222,14 +277,18 @@ See the table below for random Cleric Spells. Refer to the following spells in [
 
 
 ### Maiden Statue
-1 HP, 3 Armor, 15 STR, 4 DEX, 16 WIL, rush attack (d4 STR loss on a failed save)
+
+8 HP, 2 Armor, 15 STR, 4 DEX, 18 WIL, stone sword (d8)
+
+- **Body of Stone**: Attacks made with cutting or piercing weapons are _impaired_.
 
 ## Appendix B: Magic Items
 ### Carmelo's Jeweled Cutlass
-- d8 damage, _enhanced_ against those it considers Lawful.
+- d8 damage, _enhanced_ against those in positions of power and authority.
 
 ### Holy Sword of Sir Brandon
-- d8 damage, _enhanced_ against those it considers Evil.
+- d8 damage, _enhanced_ against supernatural opponents.
 
 ### Silver Axe of Sir Wyllt
-- d8 damage, on critical damage severs body part f wielder's choice.
+- d8 damage, _enhanced_ against the unarmored and natural armor (scales, bone, hide, etc.).
+- **Critical Damage**: Sever an appendage of the wielder's choice.
