@@ -10,4 +10,4 @@ grand_parent: Resources
 
 - A wild, hairy trickster that prizes shiny trinkets above coin.
 - Boggarts have true names that describe their true nature. Knowing these names gives a person control over them.
-- Can bring objects to life,  sow confusion, create magically disguises, use basic telekinesis, and teleport.
+- **Magic**: The Boggart can _bring objects to life_,  _sow confusion_, _create magical disguises_, use _telekinesis_, and _teleport_.
