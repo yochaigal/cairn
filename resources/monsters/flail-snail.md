@@ -4,9 +4,9 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Flail Snail
+# Gastropod Warrior
 
-4 HP, 2 Armor, 14 STR, 6 DEX, tentacles (d8+d8)
+4 HP, 2 Armor, 14 STR, 6 DEX, 3 WIL, tentacles (d8+d8)
 
-- Giant snails with heavy, club-like tentacles and a colorful shell.   Dwell underground.
-- Its colorful shell can deflect magic, possibly annulling it or reflecting it to its caster.
+- Giant armored snails with heavy, club-like tentacles. 
+- Some have colorful shells that reflect magic back towards their origin.

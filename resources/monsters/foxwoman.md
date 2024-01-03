@@ -6,7 +6,8 @@ grand_parent: Resources
 
 # Foxwoman
 
-6 HP, 12 STR, 14 DEX, 11 WIL, teeth (d6), claws (d8+d8)
+8 HP, 12 STR, 14 DEX, 15 WIL, claws or hands (d8+d8)
 
-- Appears as a 7-foot tall with a human woman with the head of a fox.
-- Transforms into a fox at will.
+- Can take the form of a fox, or a woman with a single, hidden fox led.
+- Immune to attacks from metal weapons.
+- **Critical damage**: Victim is choked unconscious.
