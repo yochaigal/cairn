@@ -6,8 +6,7 @@ grand_parent: Resources
 
 # Gargoyle
 
-8 HP, 3 Armor, 14 STR, 6 DEX, 12 WIL, claws (d8+d6)
+8 HP, 3 Armor, 14 STR, 4 DEX, 12 WIL, claws (d8+d8)
 
-- Magical creatures that look like monstrous, horned, winged statues.
-- Guard places by standing still to pass like inanimate statues and attacking what comes near.
-- Cannot be charmed and put to sleep.
+- Magical, slow-moving statues of monstrous winged creatures, typically employed as guards or watchdogs.
+- Immune to charms and magical sleep.

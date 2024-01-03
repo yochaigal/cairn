@@ -8,6 +8,5 @@ grand_parent: Resources
 
 15 HP, 3 Armor, 16 STR, 6 DEX, 5 WIL, bite (d12), _detachment_
 
-- 60’ long, extremely rare reptiles found on unexplored fluvial regions.
-- Attracted to the scent of blood or movement in the water.
-- Their crushing bite can tear ships (or armor) apart with ease.
+- Rare, gigantic reptiles from ancient times.
+- Natural hunters, they are attracted to the scent of blood in the water, even at great distances.
