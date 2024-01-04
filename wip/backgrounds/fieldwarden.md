@@ -21,7 +21,7 @@ Seed, Thresh, Dibber, Sow, Stalk, Harrow, Cobb, Flax, Briar, Rye
 - Rations (3 uses)
 - Torch (3 uses) 
 - Brigandine (1 Armor, _bulky_)
-- Bow (d6, _bulky_)
+- Sling (d6)
 - Hand Axe (d6)
 - Repellent (state the creature, 3 uses)
  
