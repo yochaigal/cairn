@@ -10,4 +10,4 @@ grand_parent: Resources
 
 - Huge insectoids with multiple legs and shiny black eyes. Subsists from dirt, roots, and flesh.
 - Burrows just beneath the surfaces to ambush unsuspecting creatures.
-- **Critical Damage**: Target loses a limb. Roll 1d6. 1-2: Head, 3-4: Leg, 5-6: Arm. 
+- **Critical Damage**: Target loses a body part. Roll 1d6. 1: Head, 2-4: Leg, 5-6: Arm. 
