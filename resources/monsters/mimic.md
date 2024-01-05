@@ -6,8 +6,8 @@ grand_parent: Resources
 
 # Mimic
 
-9 HP, 2 Armor, 13 STR, 12 WIL, bite (d12)
+9 HP, 2 Armor, 13 STR, 6 DEX, 12 WIL, bite (d8)
 
-- Monstrous shape-shifters that take on the form of inanimate objects made of wood and stone. Found only underground.
-- Remain motionless (generally in the form of chests or doors), devouring anything that touches it.
-- The mimic's saliva is extremely sticky, taking great strength to remove something from its mouth once glued.
+- Malicious shapeshifters that take on the form of inanimate objects commonly found in dungeons.
+- Remain motionless (typically in the form of a chest or door), surprising anyone that comes near.
+- The mimic's saliva is extremely sticky and difficult to remove. Alchemists will pay up to 150gp for even the smallest vial.
