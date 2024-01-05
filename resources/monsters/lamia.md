@@ -6,8 +6,8 @@ grand_parent: Resources
 
 # Lamia
 
-9 HP, 14 STR, 14 WIL, claws and bite (d8+d6)
+6 HP, 11 STR, 12 DEX, 16 WIL, toothy bite (d8)
 
-- Centaur-like monsters with the head and upper body of a woman and the lower body of a scaled beast. Prey on humanoids, drinking their blood and eating their flesh.
-- Can disguise their true form with illusions, appearing as a human woman.
-- Critical Damage: The lamia saps the victim's wisdom (d6 WIL damage). A victim who reaches 0 WIL this way mindlessly obeys the lamia's commands.
+- Centaur-like creatures that prey on the life force of others, seducing their victims through hightened charm and intelligence. Their upper bodies are typically humanoid, the lower half any number of animal hybrids.
+- Inherently magical. Can create illusions, charm, and disguise themselves at will.
+- **Critical Damage**: The target takes d6 WIL damage as their spirit is slowly sapped away. They then become enthralled to the Lamia, obeying its every command while in its presence.

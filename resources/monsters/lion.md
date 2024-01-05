@@ -10,4 +10,4 @@ grand_parent: Resources
 
 - Carnivorous hunters that live in the savannah or other similarly dry lands.
 - Can follow the scent of blood over great distances.
-- **Critical Damage**: Delivers a killing bite (d6 STR damage) to the throat. 
+- **Critical Damage**: Delivers a killing bite to the throat (d6 STR damage). 
