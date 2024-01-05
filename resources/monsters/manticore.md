@@ -6,8 +6,8 @@ grand_parent: Resources
 
 # Manticore
 
-6 HP, 15 DEX, 12 WIL, claws (d4+d4) or tail spike (d6)
+6 HP, 15 STR, 14 DEX, 12 WIL, claws (d6+d6) or tail spike (d6)
 
-- Monstrosities with a human face, a lion body, bat wings, and a spiked tail. Dwell in mountainous regions.
-- Prey on humans, following them and attacking with the spikes when they see an opening.
-- Attack with their tails by throwing the spikes like darts. The spikes regrow after a few days.
+- Spiteful monstrosities that wear a humanoid face, a lion's body, wings of a bat, and a scorpion's tail. Dwell in mountainous regions, abandoned castles, and forgotten dungeons.
+- Tail spikes act like darts, regrowing after a few days. A single spike is worth 150gp to a collector.
+- **Critical Damage**: Target is _deprived_ until they get a good night's sleep. Until then they act boorish, selfish, and cruel (or more so, if that already is their nature).

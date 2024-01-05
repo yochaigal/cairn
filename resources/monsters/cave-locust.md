@@ -8,6 +8,5 @@ grand_parent: Resources
 
 2 HP, 6 STR, 12 DEX, 3 WIL, bite (d6)
 
-- Giant herbivorous crickets that dwell in caves, where their natural coloration helps them blend with the stone.
-- Emit loud shrieks when threatened.
-- Immune to most types of poison.
+- Giant plant-eating crickets that dwell in caves. Immune to most types of poison.
+- Their natural coloration allows them to blend in with the stone. They emit loud shrieks when threatened.

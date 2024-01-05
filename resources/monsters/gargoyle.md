@@ -8,5 +8,6 @@ grand_parent: Resources
 
 8 HP, 3 Armor, 14 STR, 4 DEX, 12 WIL, claws (d8+d8)
 
-- Magical, slow-moving statues of monstrous winged creatures, typically employed as guards or watchdogs.
+- Magical, slow-moving statues of monstrous winged creatures, typically employed as guards or watchdogs. 
+- Prowl the nights and fear the day, where the sun's light freezes them in place.
 - Immune to charms and magical sleep.
