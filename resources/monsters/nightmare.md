@@ -6,8 +6,7 @@ grand_parent: Resources
 
 # Nightmare
 
-8 HP, 15 STR, 12 DEX, 18 WIL, flaming hooves (d8+d6)
+8 HP, 15 STR, 12 DEX, 18 WIL, flaming hooves (d8+d8)
 
-- Intelligent demonic horses with burning-red eyes, smoldering nostrils, and flaming hooves.
-- Constantly breathe a thick cloud of smoke, impairing damage dealt by anyone in melee with the nightmare.
-- Sometimes are used as steeds by other powerful demonic creatures.
+- Intelligent, demonic horses with eyes like burning coals, smoldering nostrils, and flaming hooves.
+- Melee attacks against the Nightmare are _impaired_ due to the thick clouds of smoke it produces.

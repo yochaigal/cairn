@@ -8,6 +8,5 @@ grand_parent: Resources
 
 6 HP, 1 Armor, 16 STR, 8 DEX, 6 WIL, club (d10)
 
-- 10' tall brute humanoids dressed in animal hides. Mostly live in caves.
-- Mostly antisocial, drive away any other beings from nearby its lair.
-- Easily impressed by shiny materials, carry sacks full of coins with them.
+- Massive, gluttonous brutes of ill-spirit and low intelligence.
+- Easily impressed by shiny materials, keeping sacks of gold and treasure in its lairs.
