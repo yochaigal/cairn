@@ -1,3 +1,5 @@
 Pillow<=9.5.0
 marko
 lxml
+re
+textwrap

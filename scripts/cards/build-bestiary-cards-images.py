@@ -2,10 +2,9 @@
 # Written by Oskar Swida and Yochai Gal
 # This creates monster cards from original monsters in markdown format
 
-source
 import glob
+import re
 from textwrap import wrap
-
 import marko
 from lxml import html
 from marko.ast_renderer import ASTRenderer
@@ -95,7 +94,7 @@ class MonsterCard:
         self.outdir = outdir
 
     def generate(self, mdfile):
-        self.image = Image.open("sources/monster-ls.png")
+        self.image = Image.open("/home/yochai/github/cairn/scripts/sources/monster-ls.png")
         text_file = open(mdfile, "r", encoding="utf-8")
         data = text_file.read()
         text_file.close()
