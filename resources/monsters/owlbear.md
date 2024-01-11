@@ -4,7 +4,7 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Owl Bear
+# Owlbear
 
 9 HP, 16 STR, 12 DEX, 5 WIL, beak (d10) or claws (d8+d8)
 
