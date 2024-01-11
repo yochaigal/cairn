@@ -10,4 +10,4 @@ grand_parent: Resources
 
 - Enormous, centipede-like reptilian creatures that dwells in deserts and rocky drylands. 
 - Proud and vain, they often keep victims as slaves. The more prestigious the better.
-- **Thunder Clap**: Deals d8 _blast_ damage against a target, ignoring HP. Attacks against targets wearing metal armor are _enhanced_.   
+- **Thunder Clap**: Deals 4 STR damage against a single target. Targets wearing metal armor take double damage.   
