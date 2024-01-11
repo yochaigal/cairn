@@ -6,8 +6,8 @@ grand_parent: Resources
 
 # Wyvern
 
-7 HP, 14 DEX, bite (d8+d8) or poisonous sting (d6)
+11 HP, 15 STR, 14 DEX, 13 WIL, bite (d8)
 
-- Winged, two-legged, reptilian monsters with a long tail tipped with a venomous sting. Dwell in any terrain, but favor dry cliffs.
-- Shy away from other creatures, but attacks anything that comes in the victiny of its nest.
-- **Critical Damage**: The deadly poison permanently debilitates the target, reducing its maximum STR to the current value. 
+- Large, intelligent, winged reptiles. Dwell in any terrain, but favor dry cliffs.
+- Shy away from other creatures, preferring to silently stalk their targets from afar.
+- **Grab**: Target is scooped up into the air and dropped, taking d6 STR damage.

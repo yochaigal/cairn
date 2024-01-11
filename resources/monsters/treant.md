@@ -6,8 +6,7 @@ grand_parent: Resources
 
 # Treant
 
-10 HP, 3 Armor, 15 STR, 3 DEX, 12 WIL, roots (d10+d8, blast)
+10 HP, 3 Armor, 15 STR, 3 DEX, 12 WIL, roots (d10+d10, _blast_)
 
-- A human face made of bark on the trunk of a massive tree. Found in the center of thick forests where it spreads its massive roots.
-- Connected to all trees on its forest, can control their growth and move their branches.
-- It feeds by draining energy from fresh bodies, any amount can be used, but the mightier the creature the better.
+- A sentient, bipedal tree with a vaguely humanoid face on its trunk. Found in the deepest part of the wood.
+- Speaks slowly and ponderously with a d deep and lustrous voice. Timeless, living for thousands of years.

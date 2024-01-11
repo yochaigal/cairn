@@ -6,8 +6,7 @@ grand_parent: Resources
 
 # Troll
 
-6 HP, 1 Armor, 14 STR, 12 DEX, talons and bite (d10+d6)
+14 HP, 1 Armor, 14 STR, 12 DEX, 4 WIL,  claw (d8), club (d10)
 
-- Wicked, 8’ tall humanoids with rubbery bodies. Consume the flesh of other humanoids. Dwell underground, in the barren wilderness, and in the ruined homes of former victims.
-- Fire and acid damage received is _enhanced_, and stops a troll's regeneration. When attacked with either of those, the troll fails all morale checks.
-- Regains 3 HP per round, and even severed limbs are reattached. If killed, will regenerate and fight again in an hour.
+- Giant, warty humanoids of flesh and bark. Dwell underground or in deep forests, as well as the ruined homes of their former victims. Carnivorous. 
+- When taking **Critical Damage** a Troll will continue fighting, despite loss of flesh and limb. Only when their STR is 0 are they truly killed. Unless their heads are bathed in acid, fire, or powerful magic they will fully regenerate within 1d4 days.

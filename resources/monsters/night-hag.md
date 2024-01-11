@@ -9,5 +9,4 @@ grand_parent: Resources
 8 HP, 9 STR, 11 DEX, 16 WIL, talons (d8+d8)
 
 - Hideous old women that dwell in dead forests, swamps, and bogs.
-- Can cloak their true appearance with an illusory form, and can see through any illusion.
-- Carries the following spellbooks: _Arcane Eye_, _Fog Cloud_, _Identify Owner_, _Smoke Form_.
+- Carries the following spellbooks: _Arcane Eye_, _Disguise_, _Fog Cloud_, _Identify Owner_, _Smoke Form_.

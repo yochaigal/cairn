@@ -6,8 +6,8 @@ grand_parent: Resources
 
 # White Dragon
 
-16 HP, 1 Armor, 16 STR, 16 DEX, 12 WIL, bite (d12), claws (d8+d8), _detachment_
+16 HP, 1 Armor, 16 STR, 16 DEX, 12 WIL, bite (d12), _detachment_
 
-- A massive winged creature of frost, it appears as if the winter itself coalesced into life. Wanders in the coldest regions, along with harsh snowstorms.
-- Extremely ferocious, is at the same time a clever hunter and a bestial predator. Tracks everything that lives, as if it was trying to satiate a endless hunger.
-- It's always surrounded by a storm of ice and cold wind, dealing d6 blast damage every round to everything nearby, in addition to its normal attacks.
+- A massive winged creature of frost that lairs comfortably in only the coldest regions. 
+- Perpetually accompanied by a storm of ice and wind, the White Dragon is a manifestation of winter itself.
+- **Frost Breath**: Nearby targets must make a DEX save or are frozen solid, their breath turned to icicles in their lungs.

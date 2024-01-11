@@ -8,5 +8,5 @@ grand_parent: Resources
 
 12 HP, 3 Armor, 16 STR, 8 DEX, 12 WIL, longsword (d10)
 
-- Fallen servants of Death. They ride equally nightmarish steeds, leading lesser undead creatures into battle.
-- **Critical Damage**: STR loss is permanent, even on a successful save.
+- Grotesque, fallen warriors, raised from death for ill purpose. Often bestrode an equally nightmarish steeds, leading lesser undead creatures into battle.
+- **Critical Damage**: On a fail, any STR loss is permanent.

@@ -6,8 +6,8 @@ grand_parent: Resources
 
 # Sphinx
 
-12 HP, 12 STR, 15 WIL, claws (d8+d6) or roar (save)
+18 HP, 12 STR, 13 DEX, 18 WIL
 
-- Large monsters with bird wings, the body of a lion, and a human face. Collect puzzles, riddles, and obscure knowledge. Might pose riddles to those they meet, attacking and consuming any who cannot give the correct answer.
-- **Roar**: Anyone who hears the sphinx's roar must save WIL or flee in fear.
-- Carry 1d4 spellbooks with them, prefering magic related to knowledge or communication, but taking any.
+- Mythical beasts with the upper body and head of a human, the wings of an eagle, and the body of a lion. Immune to magic of any kind.
+- Enjoy riddles, and will pose at least one to anyone they meet. Failure to answer correctly is usually met with death. They know almost everything worth knowing.
+- **Roar**: Anyone in earshot must save WIL or flee in fear.
