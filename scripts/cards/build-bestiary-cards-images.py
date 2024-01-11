@@ -1,8 +1,8 @@
 # -*- coding: UTF-8 -*-
-# Written by Oskar Swida
+# Written by Oskar Swida and Yochai Gal
 # This creates monster cards from original monsters in markdown format
 
-
+source
 import glob
 from textwrap import wrap
 
