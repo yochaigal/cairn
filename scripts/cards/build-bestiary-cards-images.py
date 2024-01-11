@@ -35,13 +35,16 @@ class TextBox:
 
     def compute_font_size(
         self,
+        canvas,
         text,
         font_name,
         initial_size=64,
         ):
         fnt = ImageFont.truetype(font_name, initial_size)
         fs = initial_size
-        fsize = fnt.getsize_multiline(text)
+        # fsize = fnt.getsize_multiline(text) # will be deprecated
+        bbox = canvas.multiline_textbbox((0,0),text,font=fnt)
+        fsize = [bbox[2]-bbox[0], bbox[3]-bbox[1]]
         if fsize[0] < self.coords.width and fsize[1] \
             < self.coords.height:
             return (fs, text.splitlines())
@@ -51,7 +54,9 @@ class TextBox:
             >= self.coords.height:
             fs = fs - 1
             fnt = ImageFont.truetype(font_name, fs)
-            cw = fnt.getsize('o')
+            # cw = fnt.getsize('o') # will be deprecated
+            bbox = fnt.getbbox('o')
+            cw = [bbox[2] - bbox[0], bbox[3]-bbox[1]]
             line_width = int(self.coords.width / cw[0]) + 1
             outl = []
             for l in lines:
@@ -59,7 +64,9 @@ class TextBox:
                                break_long_words=True)
                 for x in wrapped:
                     outl.append(x)
-            fsize = fnt.getsize_multiline('\n'.join(outl))
+            bbox = canvas.multiline_textbbox((0,0),'\n'.join(outl),font=fnt)
+            fsize = [bbox[2]-bbox[0], bbox[3]-bbox[1]]
+            # fsize = fnt.getsize_multiline('\n'.join(outl)) # will be deprecated
 
         return (fs, outl)
 
@@ -73,21 +80,29 @@ class TextBox:
         initial_size=64,
         ):
         canvas = ImageDraw.Draw(image)
-        (fs, lines) = self.compute_font_size(text, font_name=font_name,
+        (fs, lines) = self.compute_font_size(canvas, text, font_name=font_name,
                 initial_size=initial_size)
         fnt = ImageFont.truetype(font_name, fs)
         cnt = 0
-        ch = fnt.getsize('gh')
-        fsize = fnt.getsize_multiline('\n'.join(lines))
+        # ch = fnt.getsize('gh') # will be deprecated
+        ch = fnt.getbbox('gh') # using bounding box instead
+        fh = ch[3] - ch[1] + 5   # added 5, bounding box seems smaller than previous function
+        
+        bbox = canvas.multiline_textbbox((0,0),'\n'.join(lines),font=fnt)
+        fsize = [bbox[2]-bbox[0], bbox[3]-bbox[1]]
+        # fsize = fnt.getsize_multiline('\n'.join(lines)) # will be deprecated
+        
         if angle != 0:
             img_txt = Image.new('L', fsize, color=255)
             draw_txt = ImageDraw.Draw(img_txt)
             for l in lines:
-                isize = fnt.getsize(l)
+                bb = fnt.getbbox(l)
+                isize = [bb[2] - bb[0],bb[3]-bb[1]]
+                # isize = fnt.getsize(l) # will be deprecated
 
                 # experimental results
 
-                y = cnt * ch[1] * 0.75 - ch[1] / 6
+                y = cnt * fh * 0.75 - fh / 6
                 if center:
                     x = (fsize[0] - isize[0]) / 2
                 else:
@@ -104,7 +119,7 @@ class TextBox:
                         y + sy))
         else:
             for l in lines:
-                y = self.coords.y + cnt * ch[1] * 0.8
+                y = self.coords.y + cnt * fh * 0.8
                 if center:
                     x = self.coords.x + (self.coords.width - fsize[0]) \
                         / 2
@@ -133,10 +148,11 @@ class MonsterCard:
         data = text_file.read()
         text_file.close()
         res = marko.convert(data)
-
+        print(res)
         # replace formatting because xpath engine seems not to respect descendant axis
 
         res = res.replace('<em>', '', -1).replace('</em>', '', -1)
+        res = res.replace('<strong>', '', -1).replace('</strong>', '', -1)
         tree = html.fromstring(res)
         title = tree.xpath('//h1/text()')
         if title == None or len(title) == 0:
