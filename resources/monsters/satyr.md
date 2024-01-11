@@ -6,8 +6,7 @@ grand_parent: Resources
 
 # Satyr
 
-6 HP, 12 DEX, 16 WIL, horns (d6) or pipes (save)
+6 HP, 11 STR, 14 DEX, 16 WIL, horns (d6)
 
-- Magical humanoids with the legs and horns of a goat that love to dance and drink. Found in deep forests.
-- Highly resistant to magic effects.
-- **Pipes**: Anyone who hears the music from a satyr's pipes must save WIL or fall asleep, be charmed or frightened. The Satyr chooses which effect when playing the pipes.
+- Mythical humanoids with legs and horns of a goat that love to dance and drink. Found in deep forests. Immune to mind-altering magic.
+- **Pipes**: Anyone in earshot of their music must save WIL or fall asleep.
