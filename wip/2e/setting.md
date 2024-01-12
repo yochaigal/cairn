@@ -466,23 +466,23 @@ To help create your setting's theme, answer the following questions:
 
 #### Faction Types
 - Every **Faction** can generally be placed in one of the following broad categories.  
-- A **Faction Type** at odds with your existing Setting isn't necessarily a problem.  Some **Factions** are outsiders within a **Province**. 
+- A **Faction Type** at odds with your existing Setting isn't necessarily a problem.
+- Some **Factions** are outsiders within a **Province**. 
 
-|         |                   |                                                                                                                                                |
-| ------- | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| **d12** | **Faction Type**  | **Example Factions**                                                                                                                           |
-| **1**   | **Academic**      | _Royal Topographer's Society_. An upstart cartographer's guild, preparing to map the **Far Reaches**. Many have tried, but none have returned. |
-| **2**   | **Arcane**        | _The Syndak_. A league of wizards in search of an ancient power. They cannot allow it to fall into the wrong hands.                            |
-| **3**   | **Cabal**         | _Praxis._ A secret society, its machinations shrouded in mystery. But its goal is all too clear: a new world order.                            |
-| **4**   | **Commoners**     | _Unite or Perish_. Together, they are strong. Together they can move mountains. But who do they really serve?                                  |
-| **5**   | **Criminal**      | _Missing Fingers_. An uneasy alliance of ruffians, thieves, and killers. Their boss is the most terrifying of them all.                        |
-| **6**   | **Government**    | _The Bloc_. Politicians, bureaucrats, tax collectors: they are everywhere. Who are they helping, besides themselves?                           |
-| **7**   | **Industrial**    | _The Iron Pantheon_. Workers, united by a charismatic and troubled leader. Fighting for a better life.                                         |
-| **8**   | **Mercantile**    | _Earnest Buyer's Club_. A cartel of beaming merchants, vendors, and trade experts. Followers of none, save for the almighty coin.              |
-| **9**   | **Military**      | _Azure Guard_. Disgraced officers, relying on their only remaining assets: a soldier's loyalty. It might be enough.                            |
-| **10**  | **Noble**         | _Lichthammer_. A family built on deft politicking. Their house is in debt to a dangerous group, and they could lose everything.                |
-| **11**  | **Religious**     | _His Noble Justice._ Stewards of sacred artifacts, guided by the divine to reclaim their most holy of objects.                                 |
-| **12**  | **Revolutionary** | _Light Rising_. The body politic is diseased beyond redemption. Plenty are ready to die for the cause, but only one is fit to lead them.       |
+|         | **Faction Type** | **Example Factions** |
+| ------- | ---------------- | -------------------- |
+| **1**   | **Academic**     | _Royal Topographer's Society_. An upstart cartographer's guild, preparing to map the **Far Reaches**. Many have tried, but none have returned. |
+| **2**   | **Arcane**       | _The Syndak_. A league of wizards in search of an ancient power. They cannot allow it to fall into the wrong hands. |
+| **3**   | **Commoners**    | _Unite or Perish_. Together, they are strong. Together they can move mountains. But who do they really serve? |
+| **4**   | **Criminal**     | _Missing Fingers_. An uneasy alliance of ruffians, thieves, and killers. Their boss is the most terrifying of them all. |
+| **5**   | **Government**   | _The Bloc_. Politicians, bureaucrats, tax collectors: they are everywhere. Who are they helping, besides themselves? |
+| **6**   | **Industrial**   | _The Iron Pantheon_. Workers, united by a charismatic and troubled leader. Fighting for a better life. |
+| **7**   | **Mercantile**   | _Earnest Buyer's Club_. A cartel of beaming merchants, vendors, and trade experts. Followers of none, save for the almighty coin. |
+| **8**   | **Military**     | _Azure Guard_. Disgraced officers, relying on their only remaining assets: a soldier's loyalty. It might be enough. |
+| **9**   | **Noble**        | _Lichthammer_. A family built on deft politicking. Their house is in debt to a dangerous group, and they could lose everything. |
+| **10**  | **Religious**    | _His Noble Justice._ Stewards of sacred artifacts, guided by the divine to reclaim their most holy of objects. |
+| **11**  | **Revolutionary**| _Light Rising_. The body politic is diseased beyond redemption. Plenty are ready to die for the cause, but only one is fit to lead them. |
+| **12**  | **Syndicate**    | _Praxis._ A secret society, its machinations shrouded in mystery. But its goal is all too clear: a new world order. |
 
 ### Faction Names
 1. Roll on the [Faction Names Formula](#faction-names-formula) table below.
@@ -502,19 +502,18 @@ To help create your setting's theme, answer the following questions:
 
 |         |                 |
 | ------- | --------------- |
-| **d12** | **Type**        |
 | **1**   | **Alliance**    |
 | **2**   | **Brotherhood** |
-| **3**   | **Cabal**       |
-| **4**   | **Clan**        |
-| **5**   | **Covenant**    |
-| **6**   | **Cult**        |
-| **7**   | **Guild**       |
-| **8**   | **League**      |
-| **9**   | **Market**      |
-| **10**  | **Order**       |
-| **11**  | **Pact**        |
-| **12**  | **Prelate**     |
+| **3**   | **Clan**        |
+| **4**   | **Covenant**    |
+| **5**   | **Cult**        |
+| **6**   | **Guild**       |
+| **7**   | **League**      |
+| **8**   | **Market**      |
+| **9**   | **Order**       |
+| **10**  | **Pact**        |
+| **11**  | **Prelate**     |
+| **12**  | **Syndicate**   |
 
 ## Province Name
 1. Roll on the [Ruler Names Formula](#ruler-names-formula) table below.
