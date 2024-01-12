@@ -31,7 +31,7 @@ Seed, Thresh, Dibber, Sow, Stalk, Harrow, Cobb, Flax, Briar, Rye
 | ----- | --------------------------------------------------------------- |
 | **1** | A voracious swarm of pests that swallowed crops and animals alike. With nothing to defend, you left. Take **Gale Seed Extract** (3 uses).  Ingesting one lets you sprint with a speed four times your regular rate. Afterward you add two **Fatigue**.        |
 | **2** | A crop spirit, angered by a poor tithing. The fires consumed nearly everything, and afterwards you were able to gather a pouch of **Fireseeds** (d8, _blast_, 4 uses).        |
-| **3** | An antlered, toothy demon that nearly ended you. Take the blood-stained **Bone Knife** that saved your life (d6). On **Critical Damage**, its next attack becomes _enhanced_ from contact with blood. |
+| **3** | An antlered, toothy demon that nearly ended you. Take a blood-stained **Bone Knife** (d6). On **Critical Damage**, its next attack becomes _enhanced_ from contact with blood. |
 | **4** | _The Withering_, a type of stem rot from **The Roots**. Take a **Diseased Crop** (6 uses) that quickly decays any plant it touches.                        |
 | **5** | Wolves, or so you thought. You are now a **Werewolf** [8 HP, 15 STR, 14 DEX, claws (d6+d6) or bite (d8)]. Your WIL remains the same. You can _turn_ at will (once per day) but must make a WIL save to revert. Anyone left alive from your attacks must make a WIL save to avoid infection. |
 | **6** | Crop thieves. Not all of them survived, but you were outnumbered. Take a +d4 HP and a **Hilted Broadsword** (d8).  |
