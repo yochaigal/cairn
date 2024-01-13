@@ -17,7 +17,7 @@ from textwrap import wrap
 
 # Please adjust to your monster markdown & output directory
 
-monster_defs = "ome/yochai/github/cairn/resources/monsters/"           # monsters definitions directory
+monster_defs = "/home/yochai/github/cairn/resources/monsters/"           # monsters definitions directory
 monster_files = "/*.md"                             # selected monsters to generate
 output_dir = "/home/yochai/Google Drive/Games/OSR/Into The Odd/hacks/Cairn/Monsters/cairn-bestiary-cards"     # output directory
 background_image = "/home/yochai/github/cairn/scripts/sources/monster-ls.png"      # card background image
