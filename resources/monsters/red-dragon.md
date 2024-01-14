@@ -10,4 +10,4 @@ grand_parent: Resources
 
 - Flaming titans of smoke and fire, boasting a greater wingspan than any of their brethren. Lair close to volcanos and lava flows.
 - Immune to fire damage of any kind. Ice and water evaporate on contact.
-- **Fire Breath**: Deals 8 STRdamage to anyone nearby, destroying all mundane armor it touches in the process. 
+- **Fire Breath**: Deals 8 STR damage to anyone nearby, destroying all mundane armor it touches in the process. 

@@ -9,4 +9,4 @@ grand_parent: Resources
 6 HP, 14 STR, 14 DEX, 5 WIL, bite (d10)
 
 - Tall, carnivorous lizards that glide in the air on flaps of skin.
-- Wait atop tall natural formation to swing down and surprise their unsuspecting targets.
+- Wait atop tall natural formations to swing down and surprise their unsuspecting targets.

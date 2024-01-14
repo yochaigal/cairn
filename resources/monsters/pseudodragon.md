@@ -4,7 +4,7 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Psuedodragon
+# Pseudodragon
 
 4 HP, 6 STR, 14 DEX, 13 WIL, bite (d6)
 
