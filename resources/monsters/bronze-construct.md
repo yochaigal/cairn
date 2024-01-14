@@ -10,4 +10,4 @@ grand_parent: Resources
 
 - Towering humanoid constructs made of pure bronze. Resemble old men with long beards and hair, and emanate a strong heat.
 - Immune to fire and heat.
-- If punctured, spurts a burning hot liquid dealing d6 STR damage anyone nearby.
+- If punctured, spurts a burning hot liquid dealing d6 STR damage to anyone nearby.

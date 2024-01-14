@@ -10,4 +10,4 @@ grand_parent: Resources
 
 - Ruthless warriors that derive their power from the skins they wear: bears, wolves, boars, etc.
 - Ignore the **Morale** rule and are never treated as part of a _detachment_.
-- **Rage**: The Berserker enters a state of pure fury. Their next attack has both the _enhanced_ _blast_ qualities.
+- **Rage**: The Berserker enters a state of pure fury. Their next attack has both the _enhanced_ and _blast_ qualities.

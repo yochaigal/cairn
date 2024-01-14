@@ -9,5 +9,4 @@ grand_parent: Resources
 4 HP, 2 Armor, 14 STR, 6 DEX, 13 WIL, hammer (d8)
 
 - Short, humanoids with skin as tough as stone. Dwell in mountains and underground.
-- Can nearly perfect in darkness, and hear the whispers of rare gems.
 - Highly resistant to poison and disease.
