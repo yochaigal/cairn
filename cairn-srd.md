@@ -754,7 +754,7 @@ Attacks against individuals by detachments are **enhanced** and deal blast damag
 Running away from a dire situation always requires a successful DEX save, as well as a safe destination to run to.
 
 ### Scars
-When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look up the result on the table below based on the total damage taken:
+When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look up the result on the table below based on the _total_ damage taken:
 
 |      |                                                              |
 |------ |---|
