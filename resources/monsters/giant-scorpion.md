@@ -6,8 +6,7 @@ grand_parent: Resources
 
 # Giant Scorpion
 
-8 HP, 2 Armor, 12 DEX, 8 WIL, claws (d10+d8) or sting (d8)
+8 HP, 1 Armor, 11 STR, 12 DEX, 4 WIL, claws (d10+d10)
 
-- Huge arachnids, the size of a horse, with pincers and poisonous stingers. Found in drylands and caverns. Highly aggressive, normally attack on sight.
-- Immobilizes its victims with the claws, and then attack with the sting.
-- **Critical Damage**: The sting’s poison paralyzes  the target, killing it in one day if not treated.
+- Horse-sized arachnides commonly found in dry terrain or caverns.
+- **Critical Damage**: The stinger's poison liquifies the target's insides (8 STR damage).

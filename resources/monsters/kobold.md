@@ -6,8 +6,7 @@ grand_parent: Resources
 
 # Kobold
 
-3 HP, 8 STR, bite (d6)
+3 HP, 8 STR, 13 DEX, 4 WIL, bite (d6), spear (d8)
 
-- Small canine humanoids with hairless, scaly, red-brown skin. Can see perfectly in the dark, but are harmed by direct sunlight. 
-- Fight dirty, ambushing their victims in cramped spaces and running away as soon as the tide turns. Try to ambush adventurers and take their possessions. 
-- **Critical Damage**: The Kobold bites a off a chunk of flesh from the target.
+- Hairless humanoids with canine-like features and scaly skin. Can see perfectly in the dark, but are harmed by direct sunlight. 
+- Use traps and ambush to defeat opponents. Often act in service of a more powerful creatures.
