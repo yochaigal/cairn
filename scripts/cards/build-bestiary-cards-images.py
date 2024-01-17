@@ -21,7 +21,7 @@ monster_defs = "/home/yochai/github/cairn/resources/monsters/"           # monst
 monster_files = "/*.md"                             # selected monsters to generate
 output_dir = "/home/yochai/Google Drive/Games/OSR/Into The Odd/hacks/Cairn/Monsters/cairn-bestiary-cards"     # output directory
 background_image = "/home/yochai/github/cairn/scripts/sources/monster-ls.png"      # card background image
-font_dir = "../fonts" # font directory
+font_dir = "/home/yochai/github/cairn/scripts/fonts" # font directory
 
 
 # ------------  Generate single monster card
