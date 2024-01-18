@@ -6,7 +6,7 @@ grand_parent: Resources
 
 # Chimera
 
-10 HP, 14 STR, 11 DEX, 13 WIL, bite (d10+d10, _blast_)
+10 HP, 14 STR, 11 DEX, 13 WIL, bite (d10)
 
-- A flying, sorcerous hybrid of lion, goat, and dragon.
-- **Dragon's Breath**:  Acid, Lightning, or Fire (depending on the head). d8 STR damage.
+- A flying, sorcerous hybrid of lion, goat, and dragon (pick one).
+- **Dragon's Breath**: The dragon's head spits acid, lightning, or fire depending on its type. d8 STR damage.

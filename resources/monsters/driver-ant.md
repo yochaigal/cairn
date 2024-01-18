@@ -10,4 +10,4 @@ grand_parent: Resources
 
 - Giant, omnivorous black ants that build colonies deep underground.
 - Consume any edible object in their path.
-- Often act as a hive mind. Treat 2 more Driver Ants as _detachments_.
+- Often act as a hive mind. Two or more Driver Ants together is a _detachment_.

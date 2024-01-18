@@ -10,4 +10,4 @@ grand_parent: Resources
 
 - Enormous humanoid-shaped beings made of earth and stone. 
 - Can move through the ground as if it were water.
-- **Mudwall**: A wall of earth is raised and then quickly lowered beneath a target, dealing d8 STR damage.
+- **Mudcannon**: A wall of earth is raised and then quickly lowered beneath a target, dealing d8 STR damage.

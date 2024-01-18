@@ -10,5 +10,5 @@ grand_parent: Resources
 
 - Outlaws who raid settlements, attack ships, or ambush travelers. Travel in large groups of at least one _detachment_.
 - A detachment always travels with one leader wearing chainmail or similar (2 Armor) and a longsword (d8) or crossbow (d8).
-- When testing Morale, save using the leader's WIL (13). If the leader dies, the Brigands will flee.
+- **Loyal**: When testing Morale, save using the leader's WIL (13). If the leader dies, the Brigands will flee.
 - Alternative names: Brigands, Buccaneers, Robbers, Highwaymen
