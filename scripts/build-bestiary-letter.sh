@@ -13,7 +13,7 @@ cat $tmpdir/cairn-bestiary-tmp.tex >> $tmpdir/cairn-bestiary.tex
 sed -i '$a \\\end{document}' $tmpdir/cairn-bestiary.tex
 pdflatex -output-directory=$tmpdir $tmpdir/cairn-bestiary.tex 
 pdflatex -output-directory=$tmpdir $tmpdir/cairn-bestiary.tex
-pdfjam --letterpaper --booklet true --landscape --noautoscale true "$tmpdir/cairn-bestiary.pdf" -o "$tmpdir/cairn-bestiary-letter-booklet.pdf --preamble '\usepackage{everyshi} \makeatletter \EveryShipout{\ifodd\c@page\pdfpageattr{/Rotate 180}\fi} \makeatother'
+pdfjam --letterpaper --booklet true --landscape --noautoscale true "$tmpdir/cairn-bestiary.pdf" -o "$tmpdir/cairn-bestiary-letter-booklet.pdf" --preamble '\usepackage{everyshi} \makeatletter \EveryShipout{\ifodd\c@page\pdfpageattr{/Rotate 180}\fi} \makeatother'
 mv $tmpdir/cairn-bestiary.pdf "$destdir/cairn-bestiary-letter.pdf"
 mv $tmpdir/cairn-bestiary-booklet.pdf "$destdir/cairn-bestiary-letter-booklet.pdf"
 rm -rf $tmpdir
