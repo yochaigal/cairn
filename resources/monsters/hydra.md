@@ -6,7 +6,7 @@ grand_parent: Resources
 
 # Hydra
 
-18 HP, 2 Armor, 15 STR, 7 DEX, 12 WIL, bite (d12, _blast_), _detachment_
+12 HP, 2 Armor, 13 STR, 7 DEX, 12 WIL, bite (d12, _blast_), _detachment_
 
-- Large reptilians with nine serpentine heads.
-- On **Critical Damage** the hydra loses one head. It then continues fighting until no heads remains.
+- Large reptilians with nine serpentine heads. Very difficult to throw off once their quarry is detected.
+- On taking **Critical Damage**, the hydra loses one head. It then continues fighting until no heads remains.
