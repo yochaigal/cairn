@@ -10,4 +10,4 @@ grand_parent: Resources
 
 - Enormous spiders with greenish-black skin and large brains. Can shapeshift into human form at will. 
 - Conduct their magical research in dark, web-filled caverns. Carry the _Charm_ and _Command_ spellbooks at all times.
-- Fire damage against aranea is _enhanced_.
+- Fire damage against Aranea is _enhanced_.
