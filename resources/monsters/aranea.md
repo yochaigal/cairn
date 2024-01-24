@@ -4,7 +4,7 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Werespider
+# Aranea
 
 6 HP, 13 STR, 12 DEX, 15 WIL, bite (d8)
 
