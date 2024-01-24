@@ -6,8 +6,9 @@ grand_parent: Resources
 
 # Griffon
 
-7 HP, 14 STR, 15 DEX, beak (d8+d8) or claws (d6, blast)
+7 HP, 14 STR, 15 DEX, 12 WIL, claws (d6+d6), _detachment_
 
-- Ravenous hybrid predators, with the head and wings of an eagle and the lower body of a lion.
-- Fly and attack at astonishing speeds, being able to dive for an attack and fly away before the target can react.
+- Ravenous hybrids, with the head and wings of an eagle and the lower body of a lion.
 - Can be used as a mount if taken young and properly trained.
+- Flies and attacks at astonishing speeds, diving in scoop up its prey.
+- **Critical Damage**: Tears flesh and bone from its victim with its razor-sharp beak.
