@@ -247,7 +247,7 @@ gen_data['weapons'] = {
 
 gen_data['wgroup1'] = ['Dagger', 'Cudgel', 'Staff']
 gen_data['wgroup2'] = ['Sword', 'Mace', 'Axe']
-gen_data['wgroup3'] = ['Longbow (bulky)', 'Crossbow (bulky)', 'Sling']
+gen_data['wgroup3'] = ['Bow (bulky)', 'Crossbow (bulky)', 'Sling']
 gen_data['wgroup4'] = ['Halberd (bulky)', 'War Hammer (bulky)', 'Battleaxe (bulky)']
 
 gen_data['armor_weapons'] = {
@@ -333,7 +333,7 @@ gen_data['gear'] = [
 ,  'Spirit Ward'
 ,  'Spyglass'
 ,  'Tinderbox'
-,  'Wolfsbane '
+,  'Wolfsbane'
 ]
 
 gen_data['spellbook'] = [
@@ -407,7 +407,7 @@ gen_data['spellbook'] = [
 ,  'Scry'
 ,  'Sculpt Elements'
 ,  'Sense'
-,  'Missile Shield'
+,  'Shield'
 ,  'Shroud'
 ,  'Shuffle'
 ,  'Sleep'
