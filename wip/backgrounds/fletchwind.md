@@ -19,9 +19,9 @@ Flint, Feather, Crier, Thunder, Falcon, Pluck, Needle, Warsong, Hawk, Cai
 - 3d6 Gold Pieces
 - Rations (3 uses)
 - Torch (3 uses) 
+- Bow (see table)
 - Serrated Knife (d6)
 - Boiled Leather (1 Armor)
-- Wooden Sight (_petty_)
 - Heartroot Salve (recover 1d4 STR)
 
 ## How did you earn your bow? Roll 1d6:
