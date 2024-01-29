@@ -576,7 +576,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |Spellbook (random spell)                 |
 |Spellbook (random spell)                 |
 |Ragged Clothing (hidden pockets)         |
-|Leycap (x2, see Relics)                  |
+|Leycap (x2, see **Relics**)              |
 
 #### Thief
 
