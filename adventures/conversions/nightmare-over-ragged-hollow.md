@@ -3,8 +3,6 @@ layout: default
 parent: Conversions
 grand_parent: Adventures
 title: Nightmare Over Ragged Hollow
-nav_exclude: true
-search_exclude: true
 ---
 
 # Nightmare Over Ragged Hollow
