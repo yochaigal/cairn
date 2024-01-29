@@ -15,6 +15,7 @@ title: Nightmare Over Ragged Hollow
 - Converted traps or environmental features will be noted under the relevant location header
 
 ## Encounters by Location
+
 ---
 
 ## Town of Ragged Hollow
@@ -47,6 +48,7 @@ title: Nightmare Over Ragged Hollow
 #### Jethra, Bandit
 4 HP, 1 Armor, 8 STR, 10 DEX, 14 WIL, Dagger (d4) or Bow (d6)
 - Carries Ring of Protection (1 Armor)
+
 ---
 ## Windler House
 
@@ -76,6 +78,7 @@ title: Nightmare Over Ragged Hollow
 #### Rat Goblin
 4 HP, 8 STR, 12 DEX, 8 WIL, Bite (d4)
 - **Critical Damage**: Target must make a STR save or be turned into a rat-faced mutant until magically healed.
+
 ---
 ## Gloam Wood
 
@@ -135,6 +138,7 @@ title: Nightmare Over Ragged Hollow
 10 HP, 12 STR, 10 DEX, 16 WIL, Talons (d8+d6)
 - Illusory form: looks like a friendly old lady, changes to horrible hag form when attacking
 - Owns spellbooks "Night Sphere" and "Control Weather"
+
 ---
 ## Bleak Mountains
 
