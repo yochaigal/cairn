@@ -99,7 +99,7 @@ search_exclude: true
 |       |           |        |          |
 | ----- | --------- | ------ | -------- |
 | **1** | Bony      | **6**  | Perfect  |
-| **2** | Broken    | **7**  | Rat-like |
+| **2** | Broken    | **7**  | Rakish   |
 | **3** | Chiseled  | **8**  | Sharp    |
 | **4** | Elongated | **9**  | Square   |
 | **5** | Pale      | **10** | Sunken   |
