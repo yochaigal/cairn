@@ -48,10 +48,10 @@ When the party:
 |       |                 |                                                                                                           |
 | :---: | :-------------: | :-------------------------------------------------------------------------------------------------------: |
 | **1** |  **Encounter**  | Roll on an encounter table. Possibly **hostile** (see [Reactions](/wip/2e/core-rules/#reactions)).     |
-| **2** | **Environment** | Surroundings shift or escalate. Water rises, ceilings collapse, a ritual nears completion, etc.      |
-| **3** |    **Loss**     | Torches are blown out, an ongoing spell fizzles, etc. The party must resolve the effect before moving on. |
-| **4** | **Exhaustion**  | The party must rest (triggering another roll on this table), add a **Fatigue**, or consume a ration.       |
-| **5** |    **Sign**     | A “spoor” (clue, track, scent, victim, droppings, etc.) is discovered.                   |
+| **2** |    **Sign**     | A “spoor” (clue, track, scent, victim, droppings, etc.) is discovered.                   |
+| **3** | **Environment** | Surroundings shift or escalate. Water rises, ceilings collapse, a ritual nears completion, etc.      |
+| **4** |    **Loss**     | Torches are blown out, an ongoing spell fizzles, etc. The party must resolve the effect before moving on. |
+| **5** | **Exhaustion**  | The party must rest (triggering another roll on this table), add a **Fatigue**, or consume a ration.       |
 | **6** |    **Quiet**    | The party is left alone (and safe) for the time being.                           |
 
 ## Actions
