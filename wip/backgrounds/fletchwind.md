@@ -22,7 +22,7 @@ Flint, Feather, Crier, Thunder, Falcon, Pluck, Needle, Warsong, Hawk, Cai
 - Bow (see table)
 - Serrated Knife (d6)
 - Boiled Leather (1 Armor)
-- Heartroot Salve (recover 1d4 STR)
+- Heartroot Salve (restores 1d4 STR, 1 use)
 
 ## How did you earn your bow? Roll 1d6:
 
