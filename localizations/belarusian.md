@@ -189,7 +189,7 @@ Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in ot
 
 ## Імя і Паходжанне (d20)
 
-#### Female Names
+#### Жаночыя імёны
 
 |||||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
@@ -199,7 +199,7 @@ Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in ot
 |4     | Bronwyn   |9          |Griya      |14        |Moralil  |19    |Ygwal     |
 |5     | Cannora   |10         |Henaine    |15        |Morgwen  |20    |Yslen     |
 
-#### Male Names
+#### Мужчынскія імёны
 
 |||||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
@@ -209,79 +209,79 @@ Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in ot
 |4           |Borrid    |9          |Ethex      |14        |Gwestin  |19    |Wenlan    |
 |5           |Breagle   |10         |Gringle    |15        |Mannog   |20    |Yirmeor   |
 
-#### Surnames
+#### Прозвічшы
 
 |||||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
-|1           |Abernathy |6          |Crumwaller |11        |Harper   |16    |Swinney   |
-|2           |Addercap  |7          |Dunswallow |12        |Loomer   |17    |Thatcher  |
-|3           |Burl      |8          |Getri      |13        |Malksmilk|18    |Tolmen    |
-|4           |Candlewick|9          |Glass      |14        |Smythe   |19    |Weaver    |
-|5           |Cormick   |10         |Harkness   |15        |Sunderman|20    |Wolder    |
+|1     |Abernathy |6          |Crumwaller |11        |Harper   |16    |Swinney   |
+|2     |Addercap  |7          |Dunswallow |12        |Loomer   |17    |Thatcher  |
+|3     |Burl      |8          |Getri      |13        |Malksmilk|18    |Tolmen    |
+|4     |Candlewick|9          |Glass      |14        |Smythe   |19    |Weaver    |
+|5     |Cormick   |10         |Harkness   |15        |Sunderman|20    |Wolder    |
 
-#### Background
+#### Паходжанне
 
-|||||||||
-|------|-----------|-----------|-----------|----------|---------|------|----------|
-|1           |Alchemist |6          |Cleric     |11        |Magician |16    |Performer |
-|2           |Blacksmith|7          |Gambler    |12        |Mercenary|17    |Pickpocket|
-|3           |Burglar   |8          |Gravedigger|13        |Merchant |18    |Smuggler  |
-|4           |Butcher   |9          |Herbalist  |14        |Miner    |19    |Servant   |
-|5           |Carpenter |10         |Hunter     |15        |Outlaw   |20    |Ranger    |
+|   |          |    |               |    |           |    |               |
+| - | -------- | -- | ------------- | -- | --------- | -- | ------------- |
+| 1 | Алхімік  | 6  | Клірык        | 11 | Штукар    | 16 | Артыст        |
+| 2 | Каваль   | 7  | Азартны гулец | 12 | Найміт    | 17 | Кішэннік      |
+| 3 | Рабаўнік | 8  | Магільшчык    | 13 | Гандляр   | 18 | Кантрабандыст |
+| 4 | Мяснік   | 9  | Траўнік       | 14 | Шахцёр    | 19 | Служка        |
+| 5 | Цясляр   | 10 | Паляўнічы     | 15 | Разбойнік | 20 | Ляснічы       |
 
 <p></p>
 
-## Character Traits (d10)
+## Рысы персанажа (d10)
 
-#### Physique
+#### Склад цела
 
-|  |          |      |            |
-| -------- | -------- | ---- | ---------- |
-| 1        | Athletic | 6    | Scrawny    |
-| 2        | Brawny   | 7    | Short      |
-| 3        | Flabby   | 8    | Statuesque |
-| 4        | Lanky    | 9    | Stout      |
-| 5        | Rugged   | 10   | Towering   |
+|   |            |    |           |
+| - | ---------- | -- | --------- |
+| 1 | Зграбны    | 6  | Худы      |
+| 2 | Мускулісты | 7  | Нізкі     |
+| 3 | Адрузлы    | 8  | Як статуя |
+| 4 | Даўгавязы  | 9  | Тоўсты    |
+| 5 | Вынослівы  | 10 | Статны    |
 
-#### Skin
+#### Скура
 
-|  |            |      |           |
-| ---- | ---------- | ---- | --------- |
-| 1    | Birthmark  | 6    | Round     |
-| 2    | Dark       | 7    | Soft      |
-| 3    | Elongated  | 8    | Tanned    |
-| 4    | Pockmarked | 9    | Tattooed  |
-| 5    | Rosy       | 10   | Weathered |
+|   |              |    |              |
+| - | ------------ | -- | ------------ |
+| 1 | З радзімкамі | 6  | Бледная      |
+| 2 | Цёмная       | 7  | Мяккая       |
+| 3 | Абвіслая     | 8  | Загарэлая    |
+| 4 | Шчарбатая    | 9  | Татуіраваная |
+| 5 | Ружовая      | 10 | Выветраная   |
 
-#### Hair
+#### Валасы
 
-|  |         |      |           |
-| ---- | ------- | ---- | --------- |
-| 1    | Bald    | 6    | Long      |
-| 2    | Braided | 7    | Luxurious |
-| 3    | Curly   | 8    | Oily      |
-| 4    | Filthy  | 9    | Wavy      |
-| 5    | Frizzy  | 10   | Wispy     |
+|   |            |    |           |
+| - | ---------- | -- | --------- |
+| 1 | Лысы       | 6  | Доўгія    |
+| 2 | Заплеценыя | 7  | Шыкоўныя  |
+| 3 | Кучаравыя  | 8  | Тлустыя   |
+| 4 | Брудныя    | 9  | Хвалістыя |
+| 5 | Рэдкія     | 10 | Тонкія    |
 
-#### Face
+#### Твар
 
-|  |           |      |          |
-| ---- | --------- | ---- | -------- |
-| 1    | Bony      | 6    | Perfect  |
-| 2    | Broken    | 7    | Rat-like |
-| 3    | Chiseled  | 8    | Sharp    |
-| 4    | Elongated | 9    | Square   |
-| 5    | Pale      | 10   | Sunken   |
+|   |           |    |             |
+| - | --------- | -- | ----------- |
+| 1 | Кастлявы  | 6  | Ідэальны    |
+| 2 | Разбіты   | 7  | Пацучыны    |
+| 3 | Точаны    | 8  | Востры      |
+| 4 | Выцягнуты | 9  | Простакутны |
+| 5 | Хворы     | 10 | Запалы      |
 
-#### Speech
+#### Маўленне
 
-|  |         |      |            |
-| ------ | ------- | ---- | ---------- |
-| 1      | Blunt   | 6    | Gravelly   |
-| 2      | Booming | 7    | Precise    |
-| 3      | Cryptic | 8    | Squeaky    |
-| 4      | Droning | 9    | Stuttering |
-| 5      | Formal  | 10   | Whispery   |
+|   |            |    |             |
+| - | ---------- | -- | ----------- |
+| 1 | Прамое     | 6  | Замагільнае |
+| 2 | Гулкае     | 7  | Дакладнае   |
+| 3 | Загадкавае | 8  | Рыпучые     |
+| 4 | Ціхае      | 9  | З заіканнем |
+| 5 | Фармальнае | 10 | Шэпат       |
 
 #### Clothing
 
