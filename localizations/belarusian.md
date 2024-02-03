@@ -47,7 +47,7 @@ Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in ot
 Гульцы заўсёды павінны ўсведамляць прычыны выбару, які яны зрабілі, і мець вольны доступ да інфармацыі пра наступствы гэтага выбару.
 
 ### Удзельнікі прытрымліваюцца прынцыпаў
-Прынцыпы, якіх павінны прытрымлівацца Наглядчык і гульцы, дапамагаюць ствараць спецыфічны гульнявы досвед, абумоўлены жывым аповедам, даследваннямі і крытычным мысленнем.
+Прынцыпы, якіх павінны прытрымлівацца Наглядчык і гульцы, дапамагаюць ствараць спецыфічны гульнявы досвед, абумоўлены жывым аповедам, даследаваннямі і крытычным мысленнем.
 
 ### Агульныя мэты
 Гульцы разам будуюць свет, выконваюць групавыя чэленджы, ставяць мэты персанажам і дасягаюць іх. Такім чынам, каманда звычайна працуе разам дзеля агульнай мэты.
@@ -75,13 +75,13 @@ Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in ot
 - Негульнявыя персанажы не хочуць паміраць. Дадавайце іхнія інтарэсы і прагу да жыцця ў характары кожнай асобы.
 
 ### Фокус на апавяданне
-- Emergent experience of play is what matters, not math or character abilities. Give the players weapon trainers and personal quests to facilitate improvement and specialization.
-- Звяртайце ўвагу да патрэб і жаданняў гульцоў, стаўце дасяжныя перашкоды і магчымасці на іх шляху.
+- Галоўнае - досвед імправізацыйнага апавядання, а не разлік ці значэнні здольнасцяў персанажаў. Давайце гульцам магчымасць развіваць іхніх персанажаў праз асабістыя задачы і настаўнікаў зброі.
+- Звяртайце ўвагу на патрэбы і жаданні гульцоў, стаўце дасяжныя перашкоды і магчымасці на шляху герояў.
 - Кінжал у горла заб’е, нягледзячы на дарагія даспехі і ўражвальную падрыхтоўку.
 
 ### Небяспека
 - Сусвет гульні нясе рызыку болю і смерці персанажам гульцоў.
-- Намякайце гульцам пра небяспеку, калі яна прысутнічае. Чым больш небяспечныя абставіны, тым больш празрыстыя намёкі.
+- Намякайце гульцам на небяспеку, калі яна прысутнічае. Чым больш небяспечныя абставіны, тым больш празрыстыя намёкі.
 - Рабіце пасткі бачнымі і дазваляйце гульцам не спяшацца з прыняццем рашэння.
 - Давайце гульцам магчымасць вырашаць праблемы і ўзаемадзейнічаць з сусветам.
 
@@ -92,102 +92,102 @@ Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in ot
 - Карыстайцеся скарбамі, каб прывабіць гульцоў у экзатычныя лакацыі пад аховай пагрозлівых ворагаў.
 
 ### Выбар
-- Give players a solid choice to force outcomes when the situation lulls.
-- Use binary "so, A or B?" responses when their intentions are vague.
-- Work together using this conversational method to keep the game moving.
-- Ensure that the player character's actions leave their mark on the game world.
+- Стаўце гульцоў перад выбарам, калі яны не ведаюць, што рабіць далей.
+- Задайце бінарнае пытанне "А ці Б?", калі іхнія намеры няпэўныя.
+- Працуйце разам з дапамогай гэтага размоўнага метаду, каб не зацягваць гульню.
+- Сачыце, каб дзеянні герояў пакідалі адбітак на свеце гульні.
 
-### Die of Fate
-- Occasionally you will want an element of randomness (e.g. the weather, unique character knowledge, etc.).
-- In these situations, roll 1d6. A roll of 4 or more generally favors the players.
-- A roll of 3 or under tends to mean bad luck for the PCs or their allies.
-
-[back to index](#index)
-<p></p>
-
-## Principles for Players
-### Agency
-- Attributes and related saves do not define your character. They are tools.
-- Don't ask only what your character would do, ask what you would do, too.
-- Be creative with your intuition, items, and connections.
-
-### Teamwork
-- Seek consensus from the other players before barreling forward.
-- Stay on the same page about goals and limits, respecting each other and accomplishing more as a group than alone.
-
-### Exploration
-- Asking questions and listening to detail is more useful than any stats, items, or skills you have.
-- Take the Warden's description without suspicion, but don't shy away from seeking more information.
-- There is no single correct way forward.
-
-### Talking
-- Treat NPCs as if they were real people, and rely on your curiosity to safely gain information and solve problems.
-- You'll find that most people are interesting and will want to talk things through before getting violent.
-
-### Caution
-- Fighting is a choice and rarely a wise one; consider whether violence is the best way to achieve your goals.
-- Try to stack the odds in your favor and retreat when things seem unfavorable.
-
-### Planning
-- Think of ways to avoid your obstacles through reconnaissance, subtlety, and fact-finding.
-- Do some research and ask around about your objectives.
-
-### Ambition
-- Set goals and use your meager means to take steps forward.
-- Expect nothing. Earn your reputation.
-- Keep things moving forward and play to see what happens.
+### Косць Лёсу
+- Часам вам спатрэбіцца элемент выпадковасці (напрыклад, вызначыць надвор’е, даць унікальныя веды персанажу і г. д.).
+- У такіх абставінах кіньце 1d6. Калі выпала 4 і болей, звычайна значыць, што героям пашчасціла.
+- Вынік 3 і меней значыць няўдачу для герояў і іх паплечнікаў.
 
 [back to index](#index)
 <p></p>
 
-## Character Creation
+## Прынцыпы для Гульцоў
+### Уплыў на аповед
+- Здольнасці і праверкі не вызначаюць вашага персанажа. Яны толькі апавядальныя інструменты.
+- Задавайцеся не толькі пытаннем "Што б зрабіў мой персанаж?", таксама пытайцеся, што б зрабілі вы.
+- Творча карыстайцеся інтуіцыяй, рэчамі і знаёмствамі вашага персанажа.
 
-#### Name, Background & Traits
-First, choose or roll your PC’s **name** and **background** from their respective [tables](#name--background-d20). A PC’s background informs their potential knowledge and skills.
+### Камандная праца
+- Чакайце згоды з іншымі гульцамі перад тым, як ляцець наперад.
+- Дамаўляйцеся пра мэты і межы, паважайце адно аднаго і рабіце ўпор на мэты каманды, а не асобнага персанажа.
 
-Next, roll for the rest of your character's **traits** (appearance, speech, mannerisms, beliefs, reputation, etc.) on the [**Character Traits**](#character-traits-d10) tables.
+### Даследаванне
+- Правільныя пытанні і ўвага да дэталяў больш карысныя, чым усе здольнасці, рэчы і навыкі, што ў вас ёсць.
+- Не чакайце падману ад Наглядчыка, але не саромейцеся задаваць пытанні, каб даведацца больш.
+- Няма адзінага правільнага шляху наперад.
 
-Finally, roll for their **age** (2d20+10).
+### Размовы
+- Стаўцеся да негульнявых персанажаў як да сапраўдных людзей, ужывайце сваю цікаўнасць, каб бяспечна атрымліваць інфармацыю і вырашаць праблемы.
+- Вы заўважыце, што большасць людзей цікавыя і гатовыя абмеркаваць непаразуменні перад тым, як звяртацца да гвалту.
 
-#### Ability Scores
-Player Characters (PCs) have just three attributes:  
-**Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**. When creating a PC, the player should roll 3d6 for each of their character's ability scores, in order. They may then swap any two of the results.
+### Асцярожнасць
+- Бойка - гэта выбар, і рэдка мудры. Думайце, ці будзе гвалт найлепшым шляхам да вашых мэт.
+- Спрабуйце змяняць баланс сіл на сваю карысць і адыходзьце, калі перавага не на вашым баку.
+
+### Падрыхтоўка
+- Падумайце пра спосабы пазбегнуць перашкод з дапамогай выведкі, далікатнасці і вядомых вам фактаў.
+- Праводзьце даследаванні і распытвайце іншых персанажаў пра вашы задачы.
+
+### Амбітнасць
+- Стаўце мэты і выкарыстоўвайце вашы сціплыя магчымасці, каб крочыць да іх.
+- Не чакайце неабгрунтаванага прыязнага стаўлення. Будуйце сваю рэпутацыю.
+- Працягвайце рухаць аповед уперад, каб убачыць, што адбудзецца далей.
+
+[back to index](#index)
+<p></p>
+
+## Стварэнне персанажа
+
+#### Імя, Паходжанне і Рысы
+Спачатку выберыце (на ваш густ або кінуўшы косць) **імя** і **паходжанне** свайго героя з адпаведнай [табліцы](#name--background-d20). Паходжанне вызначае патэнцыйныя веды і навыкі героя.
+
+Далей кіньце косць на **рысы** вашага персанажа (знешнасць, маўленне, манеры, павер’і, рэпутацыю і г. д.) з табліцы [**Рысы персанажа**](#character-traits-d10).
+
+Нарэшце кіньце косць, каб вызначыць **узрост** (2d20+10).
+
+#### Значэнні здольнасцей
+Персанажы гульцоў (героі) маюць усяго тры здольнасці:
+**Моц**, **Спрыт** і **Волю**. Ствараючы героя, кіньце 3d6 на кожную са здольнасцей персанажа па чарзе. Затым можаце памяняць значэнні дзвюх любых здольнасцей.
 
 <details markdown="block">
   <summary>
-Expand For Example
+Прыклад
  </summary>
- Ines rolls for her character's **STR**, resulting in a **2**, a **4**, and a **6**, totaling **12**. The next two ability rolls result in a **9** for **DEX** and a **13** for **WIL**. She decides to swap the **12** and the **9**, for a character with **9 STR**, **12 DEX** and **13** **WIL**.
+ _Інэс кідае на **Моц** ейнага персанажа, атрымлівае **2**, **4** і **6**, агулам - **12**. Вынік наступных двух кідкоў - **9** на **Спрыт** і **13** на **Волю**. Яна вырашае абмяняць **12** і **9**, каб атрымаць персанажа з **9 моцы**, **12 спрыту** і **13 волі**._
 </details>
 
-### Hit Protection
-Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**). If an attack takes a PC's HP exactly to 0, the player must roll on the [**Scars**](/cairn-srd#scars-1) table.
+### Абарона ад атак
+Кіньце 1d6, каб вызначыць пачатковую **Абарону ад атак** (ААА), якая адлюстроўвае здольнасць персанажа пазбягаць урону ў баі. ААА не паказвае здароўе і стойкасць духу, і персанажы не губляюць яе надоўга (глядзі **Узнаўленне**). Калі атака зніжае ААА героя роўна да 0, гулец павінен кінуць косць на [**Шнары**](/cairn-srd#scars-1).
 
-#### Inventory
-Characters have a total of 10 inventory slots: a backpack with six slots, one slot for each hand, and two slots for their upper body (such as the belt, chest, or head). The backpack can also double as an emergency sleeping bag but only if emptied of its contents.
+#### Інвентар
+Персанажы маюць агулам 10 ячэек інвентара: заплечнік з шасцю ячэйкамі, па адной ячэйцы ў кожнай руцэ і дзве ячэйкі на верхнюю частку цела (напрыклад, на рэмені, на грудзях альбо на галаве). Заплечнік, калі яго вызваліць ад змесціва, таксама можа выконваць ролю спальніка.
 
-Most items take up one slot, and small items can be bundled together. Slots are abstract and can be rearranged per the Warden's discretion.
+Большасць рэчаў займае адну ячэйку, а дробныя рэчы можна пакаваць у адну ячэйку разам. Ячэйкі абстрактныя і могуць змяняцца на меркаванне Наглядчыка.
 
-**Bulky** items take up two slots and are typically two-handed or awkward to carry. Anyone carrying a full inventory (i.e. filling all 10 slots) is reduced to 0 HP.
+**Грувасткія** рэчы займаюць дзве ячэйкі і звычайна двуручныя альбо нязручныя для пераноскі. ААА персанажаў з цалкам забітым інвентаром (з усімі 10 занятымі ячэйкамі) зніжаецца да 0.
 
-A PC cannot carry more items than their inventory allows. Carts (which must be pulled with both hands), horses, or mules can increase inventory. **Hirelings** can also be paid to carry equipment.
+Герой не можа пераносіць больш рэчаў, чам здольны змясціць ягоны інвентар. Інвентар могуць павялічыць цялежкі (якія трэба цягнуць абедзвюма рукамі), коні альбо аслы. **Найміты** таксама могуць пераносіць ваш рыштунак за грошы.
 
-#### Starting Gear
-All PCs begin with:
+#### Пачатковы рыштунак
+Усе героі пачынаюць:
 
-- Three days' rations (one slot)
-- A torch (one slot)
-- 3d6 gold pieces
+- з запасам ежы на тры дні (адна ячэйка);
+- паходняй (адна ячэйка);
+- 3d6 талерамі.
 
-Roll once on each of the **Starting Gear** tables to determine your PC's armor, weapons, tools, and equipment. If indicated, roll on the [**Spellbooks**](#spellbooks-d100) table with a d100 (or roll 2d10, using one die as the ones place, and the other as the tens place). Pick only one item for each result.
+Кіньце па адной косці на кожную з табліц у раздзеле **Пачатковы рыштунак**, каб вызначыць даспехі, зброю, інструменты і іншую экіпіроўку. Кіньце d100 (альбо 2d10, дзе адна косць вызначае дзясяткі, а другая - адзінкі) на [**Кнігі закляццяў**](#spellbooks-d100). Вазьміце па адной рэчы за кожны вынік.
 
-See the **Equipment List** for related armor, damage, and slot values. Smaller items can sometimes be bundled together into one slot.
+Значэнні брані, урону і колькасці патрэбных ячэек пералічаны ў раздзеле **Спіс экіпіроўкі**. Меншыя рэчы часам можна пакаваць у адзін слот.
 
-If you would like something closer to traditional classes, refer to the list of [**Optional Gear Packages**](#optional-gear-packages).
+Калі хочаце, каб ваш персанаж быў набліжаны да традыцыйных класаў, звярніцеся да раздзелу [**Наборы рыштунку**](#optional-gear-packages).
 
 <p></p>
 
-## Name & Background (d20)
+## Імя і Паходжанне (d20)
 
 #### Female Names
 
@@ -429,7 +429,7 @@ If you would like something closer to traditional classes, refer to the list of 
 
 <p></p>
 
-## Equipment List (Prices in Gold Pieces)
+## Спіс экіпіроўкі (кошт у талерах)
 
 #### Armor
 
@@ -488,7 +488,7 @@ If you would like something closer to traditional classes, refer to the list of 
 
 <p></p>
 
-## Optional Gear Packages
+## Наборы рыштунку
 
 #### Cleric
 
@@ -605,7 +605,7 @@ If you would like something closer to traditional classes, refer to the list of 
 
 ## Правілы
 ### Здольнасці
-Кожная з трох **здольнасцей** выкарыстоўваецца ў розных абставінах (глядзі **праверкі** ніжэй).
+Кожная з трох **здольнасцей** выкарыстоўваецца ў розных абставінах (глядзі **Праверкі** ніжэй).
 
 **Моц**: Выкарыстоўваецца пры праверках дзеянняў, якія патрабуюць фізічнай сілы, напрыклад: падняць вароты, сагнуць краты, супраціўляцца атруце і г. д.
 
@@ -623,7 +623,7 @@ Expand For Example
  _Bea encounters a group of heavily-armed Goblins standing guard before a tunnel entrance. Her player carefully plots a course, recognizing that her 13 DEX makes sneaking past the guards the best option. She rolls a d20, and resulting in a 10 – a success!_
 </details>
 
-### Healing
+### Узнаўленне
 Resting for a few moments and having a drink of water restores lost HP but leaves the party exposed. Ability loss (see **Critical Damage**) can usually be restored with a week's rest facilitated by a healer or other appropriate source of expertise. Some of these services are free, while magical or more expedient means of recovery may come at a cost.
 
 ### Deprivation & Fatigue
@@ -734,7 +734,7 @@ Any PC that suffers critical damage cannot do anything but crawl weakly, graspin
 If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their WIL is reduced to 0, they are delirious.
 Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.
 
-### Scars
+### Шнары
 When damage to a PC reduces their HP to exactly 0, they are sometimes changed irrevocably. See the [**Scars**](/cairn-srd#scars-1) table for more.
 
 ### Unconsciousness & Death
@@ -749,7 +749,7 @@ Attacks against individuals by detachments are **enhanced** and deal blast damag
 ### Retreat
 Running away from a dire situation always requires a successful DEX save, as well as a safe destination to run to.
 
-### Scars
+### Шнары
 When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look up the result on the table below based on the _total_ damage taken:
 
 |      |                                                              |
