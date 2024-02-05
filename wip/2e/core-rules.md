@@ -87,7 +87,7 @@ On their turn, a character may move up to 40ft and take up to one action. This m
 
 ### Attack Modifiers
 
-- If fighting from a position of weakness (such as through cover or with bound hands), the attack is _Impaired_ and the attacker must roll 1d4 damage regardless of the attacks damage die. Unarmed attacks always do d4 damage. Unarmed attacks always do 1d4 damage.
+- If fighting from a position of weakness (such as through cover or with bound hands), the attack is _Impaired_ and the attacker must roll 1d4 damage regardless of the attacks damage die. Unarmed attacks always do d4 damage.
 - If fighting from a position of advantage (such as against a helpless foe or through a daring maneuver), the attack is _Enhanced_, allowing the attacker to roll 1d12 damage instead of their normal die.
 - Attacks with the _Blast_ quality affect all targets in the noted area, rolling separately for each affected character. This can be anything from explosions, to a dragon's breath, to the impact of a meteorite. If unsure how many targets can be affected, _roll the related damage die for a result_.
 - If attacking with two weapons at the same time, roll both damage dice and keep the single highest result (denoted with a plus symbol, e.g. d8+d8).
