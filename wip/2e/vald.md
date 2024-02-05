@@ -13,7 +13,7 @@ grand_parent: WIP
 
 - The implied setting of Cairn is called **Vald**. This includes all developed or settled lands, cities, towns, etc. The particular ruler does not matter. 
 - **The Wood** surrounds and divides the kingdoms, and includes anyone (or anything) that has not yet sworn fealty. **The Woods** is not one forest, but _all_ forests.
-- **The Roots** is the realm of mystery and horror underneath, and does not care for the petty divisions overground.   
+- **The Roots** is the realm of mystery and horror underneath, and does not care for the petty divisions aboveground.   
 
 ### The Woods
 
