@@ -9,7 +9,7 @@ grand_parent: WIP
 
 # Marchguard
 
-> Bound by blood Oath to patrol the border and protect the realm. Once sworn, the Oath cannot be broken. The Guard always finds its own.
+> Bound by blood Oath to patrol the border and protect the realm. Once sworn, the Oath cannot be broken. The Guard always finds their own.
 
 ## Names
 
