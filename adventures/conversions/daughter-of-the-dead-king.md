@@ -56,7 +56,7 @@ Hagstooth Mead - If consumed, the drinker has advantage on WIL saves for an hour
 - Poisoned characters take 1d4 damage each round for 1d4 rounds
 
 ### Three-Headed Giant Snake
-5 HP, 2 Armor, 15 STR, 11 DEX, 5 WIL, bite (1d8+1d8+1d8)
+5 HP, 2 Armor, 15 STR, 11 DEX, 5 WIL, bite (d8+d8+d8)
 - Critical damage - Target is swallowed whole. Swallowed characters take 1d4 damage per turn until dead or cut free.
 
 ### Bog Body
