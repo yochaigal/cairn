@@ -35,7 +35,7 @@ redirect_from: /resources/adventure-conversions/tomb-of-the-serpent-kings/
 - If separated, will scurry off
 
 ####  Stone Cobra Guardian
-10 HP, 3 Armor, 16 STR, 11 DEX, 15 WIL, Shield Draw (1d6, shield can be sundered for -1d12 damage once per shield), Leap and Slam (1d4, forces prone, next attack Enhanced unless players use action to get up and avoid damage), Twin Slash (1d8+1d8, two targets)
+10 HP, 3 Armor, 16 STR, 11 DEX, 15 WIL, Shield Draw (1d6, shield can be sundered for -1d12 damage once per shield), Leap and Slam (1d4, forces prone, next attack Enhanced unless players use action to get up and avoid damage), Twin Slash (d8+d8, two targets)
 - Turns slowly
 - Will switch targets if player is being evasive
 - Does actions in order, unless it still has a shield, in which case it skips Shield Draw

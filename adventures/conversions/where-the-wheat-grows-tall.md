@@ -90,7 +90,7 @@ redirect_from: /resources/adventure-conversions/where-the-wheat-grows-tall/
 4 HP, 8 STR, 5 DEX, 11 WIL, farming tool (d6)
 
 ### Trull The Troll
-8 HP, 2 Armor, 14 STR, 11 DEX, 11 WIL, toadslap (1d6+1d6, _blast_)
+8 HP, 2 Armor, 14 STR, 11 DEX, 11 WIL, toadslap (d6+d6, _blast_)
 - Critical damage: characters are hurled into stream.
 - In shadowed water regenerates 2 STR per round.
 
