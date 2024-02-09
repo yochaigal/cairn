@@ -61,7 +61,7 @@ HP 12 , 14 STR, 11 DEX, 15 WIL Armor 1, detachment, bite (d12) or 2 claws (d8+d8
 ### Myconids
 HP 5, 10 STR, 10 DEX, 12 WIL, spear (d6)
 - Mysterious humanoid mushrooms
-- They communicate with each other telepatically
+- They communicate with each other telepathically
 - Spore cloud: 1d4 damage and causes coughing for 1 turn
 
 ### Orangutan
@@ -80,11 +80,11 @@ HP 5, 10 STR, 10 DEX, 12 WIL, spear (d6)
 5 HP, STR 11, DEX 11, WIL 10, bite (d6)
 - Climb walls
 - Web: DEX save or get stuck in a web
-- Silent: if not spotted they suprise the party
+- Silent: if not spotted they surprise the party
 
 ### Stone ogre
 8 HP, 2 Armor, 10 STR, 6 DEX, 10 WIL, 2 fist (d6+d6)
-- Large cave-dwelling creatures with rock-like skin, attracked to heat and repelled by the cold
+- Large cave-dwelling creatures with rock-like skin, attracted to heat and repelled by the cold
 - Fire/heat attacks are _impaired_
 - Ice/cold attack are _enhanced_
 
@@ -110,7 +110,7 @@ HP 5, 10 STR, 10 DEX, 12 WIL, spear (d6)
 12 HP, 1 Armor, 14 STR, 12 DEX, 16 WIL, bite (d6) or stab (d8)
 - Vastion was passing through the valley many years ago and stayed after falling in love with a beau­tiful rare flower. Devoted to gardening and wish they could feel the sun again, like their beloved flowers.
 - Regeneration: A damaged vampire regains 6 HP when it bites a target that has blood. If killed, it becomes a cloud of gas and retreats to its coffin, reforming at the next nightfall. Can only be killed if exposed to sunlight or if the coffin is destroyed.
-- **Critical Damage**: The vampire drains the targets's essence, dealing d12 damage to WIL. If the target reaches 0 WIL this way, it dies and is raised as a thrall of the vampire
+- **Critical Damage**: The vampire drains the target's essence, dealing d12 damage to WIL. If the target reaches 0 WIL this way, it dies and is raised as a thrall of the vampire
 - Can turn into a bat
 - Spells: *Charm, Passive Invisibility* (spell n. 451)
 

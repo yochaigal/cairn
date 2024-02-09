@@ -167,7 +167,7 @@ title: Rot King's Sanctum
 
 #### Lightning Trap
 
-- Shoots lightning bolts at each creature touching the sarcophagous, dealing 2d6 STR damage.
+- Shoots lightning bolts at each creature touching the sarcophagus, dealing 2d6 STR damage.
 
 #### Rod of Cancellation
 
