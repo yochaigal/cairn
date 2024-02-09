@@ -32,7 +32,7 @@ title: Tomb Robbers of the Crystal Frontier
 
 #### Hunting Echo
 10 HP, 1 Armor, 10 STR, 15 DEX, 10 WIL, flensing wind (d8) 
-* Glass Explosion: Melee and ranged attacks without the *blast* qualitiy are *impaired* against the Hunting Echo, with melee attackers also suffering d4 damage for every attack made.  
+* Glass Explosion: Melee and ranged attacks without the *blast* quality are *impaired* against the Hunting Echo, with melee attackers also suffering d4 damage for every attack made.  
 * Eternal Recurrence: There is only one Hunting Echo, but it will always reform in 30-80 minutes when destroyed (unless the **Sleeper** is either awakened or slain).
 * **Critical Damage**: Arterial spray mixes with Tomb Crystal dust, and a new Echo forms in the shape of the victim (but with the statistics of the Hunting Echo). The new Echo will not reform upon destruction.
 
@@ -44,7 +44,7 @@ title: Tomb Robbers of the Crystal Frontier
 
 #### Lith Mummy
 6 HP, 12 STR, 8 DEX, 6 WIL, rend (d8)
-* Crystalized Flesh: All attacks from normal weapons are considered *impaired*. 
+* Crystallized Flesh: All attacks from normal weapons are considered *impaired*. 
 * **Critical Damage**: Suffer a level of Tomb Crystal Poisoning after the battle is over (see [Appendix A](/adventures/conversions/tomb-robbers-of-the-crystal-frontier/#appendix-a---occuliths)).
 
 #### Lith Zombies
@@ -83,21 +83,21 @@ title: Tomb Robbers of the Crystal Frontier
 
 |                  |                               |
 | ---------------- | ----------------------------- |
-| Events Witnessed | Effects of Prolongued Viewing |
+| Events Witnessed | Effects of Prolonged Viewing |
 | **2** A Crowned King and his Wazir tour a natural crystal cave, the Wazir gestures and the King sneers. | Several vague ideas about crystal structure form occur to the viewer, providing "Training" in Tomb Crystal Faceting (see [Appendix A](/adventures/conversions/tomb-robbers-of-the-crystal-frontier/#appendix-a---occuliths)). |
 | **3** Workers toil at the edge of exhaustion. They carve a throne, and connect it to machinery they're installing in the walls and floors. | The workers look back, eyes filled with hate. Lith Mummies, Wights and Zombies are treated as if they rolled Hostile for their *Reaction* and seek to immediately kill the viewer. |
 | **4** A Noble in battered armor kneels before a Crowned King. The King is angry. He grips the throne, and Burning Rays from the walls melt the Noble. | A curse of rage boils within, making the viewer yearn for brutal combat. Viewer will no longer use ranged weapons, and must make a WIL save to retreat from battle. |
 | **5** A group of Nobles force one of their own into a gilded suit of red-hot armor. He screams, and pleads. A Sad Woman in chains watches. | Sympathetic magic burns and boils across the viewer. They take d6 STR damage in ugly blisters and rashes as they're cooked by the body's own fires. |
 | **6** A Crowned King sits on the throne in the gilded chamber. Nobles and Concubines kneel before him, including a Sad Woman. | The viewer's manner changes. Sneering disregard and cold command come more naturally now. The viewer becomes imperious, with Reaction results reduced by one step for most social interactions. Hirelings treat their Reaction results as one step higher instead. |
 | **7** A Crowned King slumps on his throne in the dark. He coughs blood into his sleeve, eyes wild. A Gilded Guard and silent concubines stand at his side. | The King's pain causes sympathetic lung disease. The viewer coughs and hacks when they're under stress, making stealth impossible until cured. |
-| **8** A Sad Woman stares at the dying Crowned King. She smiles at the King's monsterous Gilded Guard, who nods back. | A sense of fufillment and the inevitability of revenge sets in the viwer's mind. Gain 1 WIL in steadiness of purpose. |
-| **9** Incense, wailing and pomp as a Crowned King's corpse is placed on his throne. His weight arms the room's traps. | An understanding of the nature of traps within the tomb dawns on the viwer - they gain knowledge of the importance and use of the King's Mark (Areas 8 and 11). |
+| **8** A Sad Woman stares at the dying Crowned King. She smiles at the King's monsterous Gilded Guard, who nods back. | A sense of fulfillment and the inevitability of revenge sets in the viewer's mind. Gain 1 WIL in steadiness of purpose. |
+| **9** Incense, wailing and pomp as a Crowned King's corpse is placed on his throne. His weight arms the room's traps. | An understanding of the nature of traps within the tomb dawns on the viewer - they gain knowledge of the importance and use of the King's Mark (Areas 8 and 11). |
 | **10** Concubines and Nobles drink poison from golden goblets and collapse into frothing heaps. A Sad Woman slips something from a vial into her cup. | Witnessing such foolish acts of devotion, and feeling sympathetic effects of the Empyrean poisons grants the viewer +1 STR due to an enhanced constitution. |
 | **11** Draped in golden robes, a robed Wazir walks into the silent tomb. He seals the crystals behind him, and drinks from a poisoned cup. | A curse of compulsion to duty and truth seeps into the viewer. They are unable to lie without suffering internal bleeding (d6 STR damage per lie). |
 | **12** A Crowned King—now the **Dead King**—mummifies on his throne. The corpse's weight keeps the machinery in the walls primed to trigger their Burning Rays. | Death's inevitability settles to ride the viewer's soul. Any attack that targets the viewer deals double damage if the maximum amount is rolled. |
 
 ### 4) Singing Crystals
-* Crystal Columns: Crystals can be avoided by succeeding at a DEX save.  Failure results in d6 DEX damage from the painful warbling sounds produced, and any hesitation in immediately leaving the room as the sound intensifies will provoke a STR save, with failure leading to unconciousness and death by the end of 10 minutes.
+* Crystal Columns: Crystals can be avoided by succeeding at a DEX save.  Failure results in d6 DEX damage from the painful warbling sounds produced, and any hesitation in immediately leaving the room as the sound intensifies will provoke a STR save, with failure leading to unconsciousness and death by the end of 10 minutes.
 * Two Corpses: See [Empyrean Panoply](/adventures/conversions/tomb-robbers-of-the-crystal-frontier/#empyrean-panoply-2-armor) in **Appendix C**.  
 
 ### 5) Murkvey's Camp
@@ -112,7 +112,7 @@ title: Tomb Robbers of the Crystal Frontier
 10 HP, 3 Armor, 15 STR, 5 DEX, 8 WIL, claws and tentacles (d8, blast)
 * Death Wish: Both Reaction and Morale do not apply to the Monstrosity.
 * Crystal Plating: All attacks from normal weapons are *impaired*, unless the player specifically targets the face.
-* Resilience: The Monstrosity regenerates 2 STR per round, even after it's dead or reduced to fragments. If killed, it will be able to fight again at 6 STR. It may only be permanently slain by being disolved in alchemical spirits.
+* Resilience: The Monstrosity regenerates 2 STR per round, even after it's dead or reduced to fragments. If killed, it will be able to fight again at 6 STR. It may only be permanently slain by being dissolved in alchemical spirits.
 * Poisonous: Striking the Monstrosity creates a cloud of Tomb Crystal dust and a spray of crystal shards. After any combat where the Monstrosity has been attacked (damaged or not) anyone who was in the same location must make a STR save or suffer a level of Tomb Crystal Poisioning (see [Appendix A](/adventures/conversions/tomb-robbers-of-the-crystal-frontier/#appendix-a---occuliths)). 
 * **Critical Damage**: The Monstrosity inexorably crushes the victim, whose bloody remains are are absorbed into the Monstrosity's cancerous bulk.  It restores 6 STR and its attacks are treated as *enhanced* on its next turn.
 
@@ -183,7 +183,7 @@ title: Tomb Robbers of the Crystal Frontier
 | 5 | Spend at least 250 GP pers session on clothing, jewels and perfumes. | Jilted concubine / Endless discouraging and cruel quips (-d6 WIL) |
 | 6 | Personally investigate odd, dangerous looking things — like obvious traps. | Discredited scholar / Overstimulation, distraction, and doubt (must act last in the 1st Round of combat, and is the last PC to go thereafter). |
 | 7 | Save the weak, perform acts of charity and always violently confront tyranny. | Patriotic assassin / Berserker rage (cannot retreat from combat or use range weapons). |
-| 8 | Tear down shrines and temples. Strike and insult priests and worshipers. | Turbulent philosopher / Terribble dream of ruin and destruction (+2 to all damage received) |
+| 8 | Tear down shrines and temples. Strike and insult priests and worshipers. | Turbulent philosopher / Terrible dream of ruin and destruction (+2 to all damage received) |
 | 9 | Always carry wine. Drink and carouse whenever possible to maximum ability. | Debauched entertainer / Constant reeling intoxication (all attack rolls are *impaired* and Save consequences are more severe). |
 | 10 | Scheme to seize power. Take concrete action against local rulers. | Tortured Royalty / Searing memories of pain (-d6 DEX) |
 
@@ -204,13 +204,13 @@ title: Tomb Robbers of the Crystal Frontier
 #### Guardian
 10 HP, 3 Armor, 18 STR, 8 DEX, 12 WIL, executioner sword (d10+d10) 
 * Haunted Armor: Immune to normal missile weapons and attacks made with non-magical fire, cold, and cutting and thrusting weapons are *impaired*.
-* Undead and Cursed: The Guardian is immune to sleep, charm, and other mind-afffecting spells or relics. While under the thrall of the geas, he must attack anyone he sees and never makes a WIL save to check Morale.
+* Undead and Cursed: The Guardian is immune to sleep, charm, and other mind-affecting spells or relics. While under the thrall of the geas, he must attack anyone he sees and never makes a WIL save to check Morale.
 * Executioner: A roll of two 10's results in dealing damage directly to STR, effectively triggering the Guardian's **Critical Damage**.
 * **Critical Damage**: The victim is beheaded or bisected.
 
 ### 18) Crypt Throne
 * Telegraph danger: emphasize the slight give of the tiles of the inlaid floor, and the glow and fierce humming that comes from the carvings on the walls once someone steps on the floor.
-* Inlaid floor: The PC who first steps on the tiles can safely flee if that is their first declared action. Otherwise they must pass a DEX save or be incenerated.  Anyone who steps onto the tiles afterwards is incenerated before they have a chance to react.
+* Inlaid floor: The PC who first steps on the tiles can safely flee if that is their first declared action. Otherwise they must pass a DEX save or be incinerated.  Anyone who steps onto the tiles afterwards is incinerated before they have a chance to react.
 * Glittering Orb: If the Occulith Orb drops onto the floor while it is still armed, the resulting explosion will instantly kill anyone in the room in a massive conflagration. Those in the hallway or adjoining room (Guardian Cell) must make a DEX save or suffer d12+d12 STR damage as they are hit with the heat and concussive force from the blast.  
 
 ## Appendix A - Occuliths
@@ -277,7 +277,7 @@ title: Tomb Robbers of the Crystal Frontier
 
 * **Fractal Presence (1000 GP)**: Produces several copies of the caster that seem to weave about in constant motion. Attacks against the caster are *impaired*.
 
-* **Anathema (1500 GP)**: Permanently dispels an effect caused by a Spellbook or minor magical ability. Can temporarly nullify magical effects produced by magical objects or major magical abilities. 
+* **Anathema (1500 GP)**: Permanently dispels an effect caused by a Spellbook or minor magical ability. Can temporarily nullify magical effects produced by magical objects or major magical abilities. 
 
 * **Mirror Step (1500 GP)**: Step into a crystalline or reflective surface and exit through another surface in sight.
 

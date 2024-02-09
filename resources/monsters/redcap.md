@@ -10,4 +10,4 @@ grand_parent: Resources
 
 - Borne from blood left to rot in the land of Fairy. Their hats are a deep red from the blood they bathe in.
 - Ignore those with little to live for, as there is no pleasure in their murder.
-- **Critical Damage**: Target is eviserated, the spray of their blood restoring STR loss suffered by the Red Cap.
+- **Critical Damage**: Target is eviscerated, the spray of their blood restoring STR loss suffered by the Red Cap.

@@ -10,7 +10,7 @@ parent: Submissions
 Welcome! The following guide will help folks interested in submitting Cairn content to the website. Files are written in Markdown, and submitted through git (the preferred method, see below). However, if this all seems a bit too technical, that's OK! Join our [Discord server](/discord-server) and ask for help, or even send Yochai a direct message with your work and he'll update it for the website. Formatting content does take some work, but in the end we are all better for it!
 
 ## Markdown
-Markdown is a syntax that uses entirely text characters in order to do fancy formatting. For example, if you want to write something in bold text, you put extra characters aroun the words to tell Markdown what should be bolded (e.g. `**bold**` becomes **bold**). Follow [this guide](https://www.markdownguide.org/tools/jekyll/) for proper Markdown formatting. 
+Markdown is a syntax that uses entirely text characters in order to do fancy formatting. For example, if you want to write something in bold text, you put extra characters around the words to tell Markdown what should be bolded (e.g. `**bold**` becomes **bold**). Follow [this guide](https://www.markdownguide.org/tools/jekyll/) for proper Markdown formatting. 
 
 To create a page on the Cairn website, you need to create a text file with your content, written in the Markdown format and ending in the *.md suffix. GitHub then handles the rest!
 

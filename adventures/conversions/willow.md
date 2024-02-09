@@ -19,12 +19,12 @@ title: Willow
 | 3   | The colour of the user’s eyes become “fluo-emerald green”      |
 | 4   | The user attacks are considered magical for the rest of the day     |
 | 5   | The user’s skin becomes grey     |
-| 6   | The user can see the plan of the oakalisk: reveal some informations about what will happen to willow on the next day (p. 32) |
+| 6   | The user can see the plan of the oakalisk: reveal some information about what will happen to willow on the next day (p. 32) |
 
 #### Coral Guardian (p. 16)
 HP 17, armor 1, STR 15, DEX 6, WIL 12, double slam (1d6 + 1d6).
 
-- The guardian is powered by eel electricty and is nearly entirely out of power, it stops anyone from entering the dungeon. It will agree to allow the players an invitation to visit the elves if players it a jar of electricity or a thunderstone.
+- The guardian is powered by eel electricity and is nearly entirely out of power, it stops anyone from entering the dungeon. It will agree to allow the players an invitation to visit the elves if players it a jar of electricity or a thunderstone.
 - Immune to sleep
 - The guardian repeatedly turns its nose up at the players unless they display high class
 
@@ -46,7 +46,7 @@ HP 17, armor 1, STR 15, DEX 6, WIL 12, double slam (1d6 + 1d6).
 4 HP, STR 6, DEX 10, WIL 3, leeching seaweed sendrils (1d6, 10ft reach).
 
 - Seaweedlings (a seaweed race living in the lake) who entered the dungeon out of curiosity and were corrupted by the dark magic the elves used to preserve their lives.
-- Recovers 1 HP for every suscessful attack
+- Recovers 1 HP for every successful attack
 - Immune to sleep and charm
 
 ### Seaweed Shambling Mound

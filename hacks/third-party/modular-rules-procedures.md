@@ -205,7 +205,7 @@ Expensive clothing, decadent food, art, and general opulence.
 **6. Weird** 
 Consorting with devils, contacting unknown entities, and performing forgotten or forbidden rituals.
 - Triggers: Exposure to forces beyond your comprehension, seeking out secrets not meant for mortal minds, cursed items. 
-- Satisfying: Discovering new forbidden knowledge or magic, growing weirder, deeping your connection with unknown powers. Expensive materials, sacrifices, or dealings that cost the player money.
+- Satisfying: Discovering new forbidden knowledge or magic, growing weirder, deepening your connection with unknown powers. Expensive materials, sacrifices, or dealings that cost the player money.
 
 **7. Obligation**
 Devotion to a cause, organization, charity, or family.

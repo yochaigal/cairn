@@ -100,7 +100,7 @@ grand_parent: Hacks
 - **Thoroughbred**: You're a prime specimen. All reactions or social roll results are +2 for you.
 - **Wildhide**: If you're forced to make a STR save in melee combat, your attacker loses 1d4 STR.
 - **Huckleberry**: Other animals are amenable to harmless small favors for you. It's requited.
-- **Truffler**: Your sense of smell is unparalled and can pick up even deliberately masked odors.
+- **Truffler**: Your sense of smell is unparalleled and can pick up even deliberately masked odors.
 
 -----
 ## Sawbones

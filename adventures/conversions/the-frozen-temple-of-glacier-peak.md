@@ -17,7 +17,7 @@ redirect_from: /resources/adventure-conversions/the-frozen-temple-of-glacier-pea
 
 ## Items
 - The "Magical sword with a hilt made of white bone" from "In the Sack" (**#17**): Melee attacks against the holder are _impaired_.
-- The adamntine longsword in **#28** is unbreakable and does 1d10 damage.
+- The adamantine longsword in **#28** is unbreakable and does 1d10 damage.
 - Mining tools in **#28** are _bulky_.
 - Treasure table in **#32**: Master-crafted longbow (d8+d8, bulky), The Decapitator (d10, bulky, CD: head comes off).
 
