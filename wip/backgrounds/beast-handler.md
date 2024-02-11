@@ -37,13 +37,13 @@ Amara, Wulf, Mireille, Soren, Freki, Aster, Gerrik, Boreas, Delphine, Matheus
 | **6** | **Serpents**  | Take a **Warming Stone** that generates an irresistible heat, and a vial of **Antitoxin** (2 uses).                                                                               |
 
 
-## What do creatures of the wild understand that your kind do not? Roll 1d6: 
+## What have you learned from the creatures of the wild? Roll 1d6: 
 
 |       |                                                                                                                                                                                          |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | There is far more to the world than meets the eye. With quiet concentration, you can borrow the senses of a nearby creature of your **specialty**.                                       |
-| **2** | The behavior of beasts is a language in itself. When observing beasts of your **specialty**, you gain insight into weather patterns and impending disasters.                             |
-| **3** | The pulse of the hunt is a powerful impulse. You have a sense for when predators, even those **not of your specialty**, are near.                                                        |
-| **4** | You know some lands intimately. Your chance of becoming lost in a terrain dominated by the beasts of your **specialty** is reduced by one step (e.g. 4-in-6 becomes 3-in-6).             |
-| **5** | Nature's symphony can be heard if you attune to its rhythm. When surrounded by creatures of your **specialty** they can alert you to approaching danger before it arrives.               |
-| **6** | Survival is about adaptability. Once per day, you may take on a simple feature from a creature of your **speciality** (webbed fingers, night vision, etc.). Add a **Fatigue** each time. |
+| **1** | That there is far more to the world than meets the eye. With quiet concentration, you can borrow the senses of a nearby creature of your **specialty**.                                       |
+| **2** | That the behavior of beasts is a language in itself. When observing beasts of your **specialty**, you gain insight into weather patterns and impending disasters.                             |
+| **3** | That the pulse of the hunt is a powerful impulse. You have a sense for when predators, even those **not of your specialty**, are near.                                                        |
+| **4** | That the land is a language unto itself. Your chance of becoming lost in a terrain dominated by the beasts of your **specialty** is reduced by one step (e.g. 4-in-6 becomes 3-in-6).             |
+| **5** | That nature's symphony can be heard if you attune to its rhythm. When surrounded by creatures of your **specialty** they can alert you to approaching danger before it arrives.               |
+| **6** | That survival is all about adaptability. Once per day, you may take on a simple feature from a creature of your **speciality** (webbed fingers, night vision, etc.). Add a **Fatigue** each time. |
