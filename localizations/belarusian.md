@@ -388,7 +388,7 @@ Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in ot
 | 4 | Фарба для твару     | 9  | Лінза          | 14 | Пачак солі     | 19 | Шпагат         |
 | 5 | Фальшывыя самацветы | 10 | Шкляныя шарыкі | 15 | Званочак       | 20 | Свістулька     |
 
-#### Бонусная рэч (кіньце косць на рэч з адзаначанай табліцы)
+#### Бонусная рэч (кіньце косць на рэч з адзначанай табліцы)
 
 |                          |                         |                    |                |
 | :----------------------: | :---------------------: | :----------------: | :------------: |
@@ -399,33 +399,33 @@ Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in ot
 
 #### Кнігі закляццяў (d100)
 
-|||||||||
-|---|-----------------|---|----------------|---|---------------|---|---------------|
-|1  |Adhere           |26 |Earthquake      |51 |Masquerade     |76 |Smoke Form     |
-|2  |Anchor           |27 |Elasticity      |52 |Miniaturize    |77 |Sniff          |
-|3  |Animate Object   |28 |Elemental Wall  |53 |Mirror Image   |78 |Snuff          |
-|4  |Anthropomorphize |29 |Filch           |54 |Mirrorwalk     |79 |Sort           |
-|5  |Arcane Eye       |30 |Flare           |55 |Multiarm       |80 |Spectacle      |
-|6  |Astral Prison    |31 |Fog Cloud       |56 |Night Sphere   |81 |Spellsaw       |
-|7  |Attract          |32 |Frenzy          |57 |Objectify      |82 |Spider Climb   |
-|8  |Auditory Illusion|33 |Gate            |58 |Ooze Form      |83 |Summon Cube    |
-|9  |Babble           |34 |Gravity Shift   |59 |Pacify         |84 |Swarm          |
-|10 |Bait Flower      |35 |Greed           |60 |Phobia         |85 |Telekinesis    |
-|11 |Beast Form       |36 |Haste           |61 |Pit            |86 |Telepathy      |
-|12 |Befuddle         |37 |Hatred          |62 |Primal Surge   |87 |Teleport       |
-|13 |Body Swap        |38 |Hear Whispers   |63 |Push/Pull      |88 |Target Lure    |
-|14 |Charm            |39 |Hover           |64 |Raise Dead     |89 |Thicket        |
-|15 |Command          |40 |Hypnotize       |65 |Raise Spirit   |90 |Summon Idol    |
-|16 |Comprehend       |41 |Icy Touch       |66 |Read Mind      |91 |Time Control   |
-|17 |Cone of Foam     |42 |Identify Owner  |67 |Repel          |92 |True Sight     |
-|18 |Control Plants   |43 |Illuminate      |68 |Scry           |93 |Upwell         |
-|19 |Control Weather  |44 |Invisible Tether|69 |Sculpt Elements|94 |Vision         |
-|20 |Cure Wounds      |45 |Knock           |70 |Sense          |95 |Visual Illusion|
-|21 |Deafen           |46 |Leap            |71 |Shield         |96 |Ward           |
-|22 |Detect Magic     |47 |Liquid Air      |72 |Shroud         |97 |Web            |
-|23 |Disassemble      |48 |Magic Dampener  |73 |Shuffle        |98 |Widget         |
-|24 |Disguise         |49 |Manse           |74 |Sleep          |99 |Wizard Mark    |
-|25 |Displace         |50 |Marble Craze    |75 |Slick          |100|X-Ray Vision   |
+|    |                    |    |                  |    |                          |     |                      |
+| -- | ------------------ | -- | ---------------- | -- |------------------------- | --- |--------------------- |
+| 1  | Абарані            | 26 | Зачаруй          | 51 | Нянавісць                | 76  | Слыхавая галюцынацыя |
+| 2  | Абмен целамі       | 27 | Заўваж чары      | 52 | Павуцінне                | 77  | Спытай духа          |
+| 3  | Абярэг             | 28 | Звярыныя вочы    | 53 | Падмані зрок             | 78  | Стань на якар        |
+| 4  | Аглохні            | 29 | Згасні           | 54 | Пачуй шэпт               | 79  | Сфера ночы           |
+| 5  | Адкажы             | 30 | Земляны куб      | 55 | Пачуццё                  | 80  | Схавай               |
+| 6  | Адлюстраванне      | 31 | Землятрус        | 56 | Паўтары                  | 81  | Сцягні               |
+| 7  | Адсунь             | 32 | Ззяй             | 57 | Перанакіруй заклён       | 82  | Сядзіба              |
+| 8  | Адчыні замок       | 33 | Зменшыся         | 58 | Перастаў                 | 83  | Таемнае вока         |
+| 9  | Адштурхні/Прыцягні | 34 | Змяні гравітацыю | 59 | Ператварыся ў жэле       | 84  | Трымай дыстанцыю     |
+| 10 | Адшукай гаспадара  | 35 | Змяні надвор’е   | 60 | Ператварыся ў звера      | 85  | Тэлекінэз            |
+| 11 | Ажыві              | 36 | Знак чараўніка   | 61 | Ператварыся ў зграю      | 86  | Тэлепатыя            |
+| 12 | Аслабь чары        | 37 | Зразумей         | 62 | Ператварыся ў рэч        | 87  | Тэлепорт             |
+| 13 | Астральная турма   | 38 | Ілюзія           | 63 | Ператварыся ў дым        | 88  | Уваскрасі мёртвага   |
+| 14 | Бач наскрозь       | 39 | Кветка-прынада   | 64 | Першабытны ўсплёск       | 89  | Упарадкуйся          |
+| 15 | Вадкае паветра     | 40 | Конус пены       | 65 | Прагнасць                | 90  | Уціхамірыць          |
+| 16 | Вароты             | 41 | Коўзкі           | 66 | Празорлівасць            | 91  | Фобія                |
+| 17 | Воблака дыму       | 42 | Кіруй раслінамі  | 67 | Прайдзі скрозь люстэрка  | 92  | Хуткасць             |
+| 18 | Выкліч ідала       | 43 | Кіруй часам      | 68 | Прачытай думкі           | 93  | Чароўны сон          |
+| 19 | Вылечы раны        | 44 | Ледзяны дотык    | 69 | Прыліпні                 | 94  | Шаленства            |
+| 20 | Відовішча          | 45 | Лезь як павук    | 70 | Прыпадобніся да чалавека | 95  | Шарыкавае вар’яцтва  |
+| 21 | Гушчар             | 46 | Ляпі             | 71 | Прыцягніся               | 96  | Шматрукі             |
+| 22 | Жніво              | 47 | Маска            | 72 | Раздзяліся               | 97  | Штука                |
+| 23 | Забыўчывасць       | 48 | Маскарад         | 73 | Салёная студня           | 98  | Эластычнасць         |
+| 24 | Загад              | 49 | Нюх              | 74 | Свяці                    | 99  | Элементальная сцяна  |
+| 25 | Залунай            | 50 | Нябачная прывязь | 75 | Скокні                   | 100 | Яма                  |
 
 <p></p>
 
@@ -498,7 +498,7 @@ Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in ot
 | Chainmail (2 Armor, bulky)        |
 | Gauntlets (+1 Armor)              |
 | Cleansing Blade (d6)              |
-| Holy Symbol (_Ward_ once per day) |
+| Holy Symbol (_Абярэг_ once per day) |
 | Cloak of the Order                |
 
 #### Dowser
@@ -508,7 +508,7 @@ Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in ot
 |Sickle (d6)                                |
 |Patchwork Doublet (+1 Armor)               |
 |Dowsing Rod                                |
-|Eyestone (_Sense_ if placed in fresh water)|
+|Eyestone (_Пачуццё_ if placed in fresh water)|
 |Worn Map                                   |
 |Spyglass                                   |
 
@@ -530,7 +530,7 @@ Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in ot
 |Elegant Sword (d8)                       |
 |Recurve Bow (d8)                         |
 |Gilt Clothing (1 Armor)                  |
-|Spellbook (_Charm_ or _Detect Magic_)    |
+|Spellbook (_Зачаруй_ or _Заўваж чары_)    |
 |Golden Flute                             |
 |Air Bladder                              |
 
@@ -675,7 +675,7 @@ Anyone can cast a spell by holding a Spellbook in both hands and reading its con
 
 **Honeyclasp** , 3 charges. A rusted ring that shrinks the bearer to 6" tall. Recharge: place in a thimble-sized cup of royal jelly.
 
-**Falconer's Friend** , 1 charge. A bolt-shaped wand carrying the _Haste_ spell. Recharge: fire from a crossbow and recover.
+**Falconer's Friend** , 1 charge. A bolt-shaped wand carrying the _Хуткасць_ spell. Recharge: fire from a crossbow and recover.
 
 **Staff of Silence** , 1 charge. This blackened rod temporarily disables all magic within 50ft. Recharge: bathe in the light of a full moon.
 
@@ -779,7 +779,7 @@ When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look 
 - Prize Spellbooks; willing to trade.
 
 **Hooded Men**  
-12 HP, 9 STR, 12 DEX, 14 WIL, leystaff (d8), a Spellbook (Choose one: _Charm_, _Hypnotize_, _Push/Pull_, Shield_)
+12 HP, 9 STR, 12 DEX, 14 WIL, leystaff (d8), a Spellbook (Choose one: _Зачаруй_, _Адкажы_, _Адштурхні/Прыцягні_, _Абарані_)
 - The Watchers of the Wood; a cult that derive their power from leylines, rune stones, and the like.
 - Critical damage: leech a part of the victim's soul (1d4 WIL damage).
 
@@ -794,7 +794,7 @@ When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look 
 - Critical damage: moss and twigs begin growing out of target's wounds.
 
 **Frost Elf**  
-14 HP, 1 Armor, 8 STR, 13 DEX, 14 WIL, icicle dagger (d6), a Spellbook (Choose one: _Sleep_, _Teleport_, _Detect Magic_)
+14 HP, 1 Armor, 8 STR, 13 DEX, 14 WIL, icicle dagger (d6), a Spellbook (Choose one: _Sleep_, _Тэлепорт_, _Заўваж чары_)
 - Beautiful, amoral, and long-lived.
 - Resistant to most forms of magic.
 
@@ -839,108 +839,108 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 
 ## 100 Spells
 
-|      |                                         |                                                              |
-| ---- | --------------------------------------- | ------------------------------------------------------------ |
-| 1    | [Adhere](#adhere)                       | An object is covered in extremely sticky slime.              |
-| 2    | [Anchor](#anchor)                       | A strong wire sprouts from your arms, affixing itself to two points within 50ft on each side. |
-| 3    | [Animate Object](#animate-object)       | An object obeys your commands as best it can.                |
-| 4    | [Anthropomorphize](#anthropomorphize)   | An animal either gains human intelligence or human appearance for one day. |
-| 5    | [Arcane Eye](#arcane-eye)               | You can see through a magical floating eyeball that flies around at your command. |
-| 6    | [Astral Prison](#astral-prison)         | An object is frozen in time and space within an invulnerable crystal shell. |
-| 7    | [Attract](#attract)                     | Two objects are strongly magnetically attracted to each other if they come within 10 feet. |
-| 8    | [Auditory Illusion](#auditory-illusion) | You create illusory sounds that seem to come from a direction of your choice. |
-| 9    | [Babble](#babble)                       | A creature must loudly and clearly repeat everything you think. It is otherwise mute. |
-| 10   | [Bait Flower](#bait-flower)             | A plant sprouts from the ground that emanates the smell of decaying flesh. |
-| 11   | [Beast Form](#beast-form)               | You and your possessions transform into a mundane animal.    |
-| 12   | [Befuddle](#befuddle)                   | A creature of your choice is unable to form new short-term memories for the duration of the spell. |
-| 13   | [Body Swap](#body-swap)                 | You switch bodies with a creature you touch. If one body dies, the other dies as well. |
-| 14   | [Charm](#charm)                         | A creature you can see treats you as a friend.               |
-| 15   | [Command](#command)                     | A target obeys a single three-word command that does not cause it harm. |
-| 16   | [Comprehend](#comprehend)               | You become fluent in all languages for a short while.        |
-| 17   | [Cone of Foam](#cone-of-foam)           | Dense foam sprays from your hand, coating the target.        |
-| 18   | [Control Plants](#control-plants)       | Nearby plants and trees obey you and gain the ability to move at a slow pace. |
-| 19   | [Control Weather](#control-weather)     | You may alter the type of weather at will, but you do not otherwise control it. |
-| 20   | [Cure Wounds](#cure-wounds)             | Restore 1d4 STR per day to a creature you can touch.         |
-| 21   | [Deafen](#deafen)                       | All nearby creatures are deafened.                           |
-| 22   | [Detect Magic](#detect-magic)           | You can see or hear nearby magical auras.                    |
-| 23   | [Disassemble](#disassemble)             | Any of your body parts may be detached and reattached at will, without causing pain or damage. You can still control them. |
-| 24   | [Disguise](#disguise)                   | You may alter the appearance of one character at will as long as they remain humanoid. Attempts to duplicate other characters will seem uncanny. |
-| 25   | [Displace](#displace)                   | An object appears to be up to 15ft from its actual position. |
-| 26   | [Earthquake](#earthquake)               | The ground begins shaking violently. Structures may be damaged or collapse. |
-| 27   | [Elasticity](#elasticity)               | Your body can stretch up to 10ft.                            |
-| 28   | [Elemental Wall](#elemental-wall)       | A straight wall of ice or fire 50ft long and 10ft high rises from the ground. |
-| 29   | [Filch](#filch)                         | A visible item teleports to your hands.                      |
-| 30   | [Flare](#flare)                         | A bright ball of energy fires a trail of light into the sky, revealing your location to friend or foe. |
-| 31   | [Fog Cloud](#fog-cloud)                 | A dense fog spreads out from you.                            |
-| 32   | [Frenzy](#frenzy)                       | A nearby creature erupts in a frenzy of violence.            |
-| 33   | [Gate](#gate)                           | A portal to a random plane opens.                            |
-| 34   | [Gravity Shift](#gravity-shift)         | You can change the direction of gravity, but only for yourself. |
-| 35   | [Greed](#greed)                         | A creature develops the overwhelming urge to possess a visible item of your choice. |
-| 36   | [Haste](#haste)                         | Your movement speed is tripled.                              |
-| 37   | [Hatred](#hatred)                       | A creature develops a deep hatred of another creature or group and wishes to destroy them. |
-| 38   | [Hear Whispers](#hear-whispers)         | You can hear faint sounds clearly.                           |
-| 39   | [Hover](#hover)                         | An object hovers, frictionless, 2ft above the ground. It can hold up to one humanoid. |
-| 40   | [Hypnotize](#hypnotize)                 | A creature enters a trance and will truthfully answer one yes or no question you ask it. |
-| 41   | [Icy Touch](#icy-touch)                 | A thick ice layer spreads across a touched surface, up to 10ft in radius. |
-| 42   | [Identify Owner](#identify-owner)       | Letters appear over the object you touch, spelling out the name of the object's owners, if there are any. |
-| 43   | [Illuminate](#illuminate)               | A floating light moves as you command.                       |
-| 44   | [Invisible Tether](#invisible-tether)   | Two objects within 10ft of each other cannot be moved more than 10ft apart. |
-| 45   | [Knock](#knock)                         | A nearby mundane or magical lock unlocks loudly.             |
-| 46   | [Leap](#leap)                           | You jump up to 10ft high, once.                              |
-| 47   | [Liquid Air](#liquid-air)               | The air around you becomes swimmable .                       |
-| 48   | [Magic Dampener](#magic-dampener)       | All nearby magical effects have their effectiveness halved.  |
-| 49   | [Manse](#manse)                         | A sturdy, furnished cottage appears for 12 hours. You can permit and forbid entry to it at will. |
-| 50   | [Marble Craze](#marble-craze)           | Your pockets are full of marbles, and will refill every 30 seconds. |
-| 51   | [Masquerade](#masquerade)               | A characters appearance and voice becomes identical to those of a character you touch. |
-| 52   | [Miniaturize](#miniaturize)             | A creature you touch is shrunk down to the size of a mouse.  |
-| 53   | [Mirror Image](#mirror-image)           | An illusory duplicate of yourself appears and is under your control. |
-| 54   | [Mirrorwalk](#mirrorwalk)               | A mirror becomes a gateway to another mirror that you looked into today. |
-| 55   | [Multiarm](#multiarm)                   | You temporarily gain an extra arm.                           |
-| 56   | [Night Sphere](#night-sphere)           | A 50ft wide sphere of darkness displaying the night sky appears before you. |
-| 57   | [Objectify](#objectify)                 | You become any inanimate object between the size of a grand piano and an apple. |
-| 58   | [Ooze Form](#ooze-form)                 | You become a living jelly.                                   |
-| 59   | [Pacify](#pacify)                       | A creature near you has an aversion to violence.             |
-| 60   | [Phobia](#phobia)                       | A nearby creature becomes terrified of an object of your choice. |
-| 61   | [Pit](#pit)                             | A pit 10ft wide and 10ft deep opens in the ground.           |
-| 62   | [Primal Surge](#primal-surge)           | A creature rapidly evolves into a future version of its species. |
-| 63   | [Push/Pull](#push/pull)                 | An object of any size is pulled directly towards you or pushed directly away from you with the strength of one man. |
-| 64   | [Raise Dead](#raise-dead)               | A skeleton rises from the ground to serve you. They are incredibly stupid and can only obey simple orders. |
-| 65   | [Raise Spirit](#raise-spirit)           | The spirit of a nearby corpse manifests and will answer 1 question. |
-| 66   | [Read Mind](#read-mind)                 | You can hear the surface thoughts of nearby creatures.       |
-| 67   | [Repel](#repel)                         | Two objects are strongly magnetically repelled from each other within 10 feet. |
-| 68   | [Scry](#scry)                           | You can see through the eyes of a creature you touched earlier today. |
-| 69   | [Sculpt Elements](#sculpt-elements)     | Inanimate material behaves like clay in your hands.          |
-| 70   | [Sense](#sense)                         | Choose one kind of object (key, gold, arrow, jug, etc). You can sense the nearest example. |
-| 71   | [Shield](#shield)                       | A creature you touch is protected from mundane attacks for one minute. |
-| 72   | [Shroud](#shroud)                       | A creature you touch is invisible until they move.           |
-| 73   | [Shuffle](#shuffle)                     | Two creatures you can see instantly switch places.           |
-| 74   | [Sleep](#sleep)                         | A creature you can see falls into a light sleep.             |
-| 75   | [Slick](#slick)                         | Every surface in a 30ft radius becomes extremely slippery.   |
-| 76   | [Smoke Form](#smoke-form)               | Your body becomes a living smoke that you can control.       |
-| 77   | [Sniff](#sniff)                         | You can smell even the faintest traces of scents.            |
-| 78   | [Snuff](#snuff)                         | The source of any mundane light you can see is instantly snuffed out. |
-| 79   | [Sort](#sort)                           | Inanimate items sort themselves according to categories you set. |
-| 80   | [Spectacle](#spectacle)                 | A clearly false but impressive illusion of your choice appears, under your control. It may be up to the size of a palace and has full motion and sound. |
-| 81   | [Spellsaw](#spellsaw)                   | A whirling blade flies from your chest, clearing any plant material in its way. It is otherwise harmless. |
-| 82   | [Spider Climb](#spider-climb)           | You can climb surfaces like a spider.                        |
-| 83   | [Summon Cube](#summon-cube)             | Once per second you may summon or banish a 3-foot-wide cube of earth. New cubes must be affixed to the earth or to other cubes. |
-| 84   | [Swarm](#swarm)                         | You become a swarm of crows, rats, or piranhas. You can only be harmed by blast attacks. |
-| 85   | [Telekinesis](#telekinesis)             | You may mentally 1 move item under 60lbs.                    |
-| 86   | [Telepathy](#telepathy)                 | Two creatures can hear each other's thoughts, no matter how far apart. |
-| 87   | [Teleport](#teleport)                   | An object or person you can see is transported from one place to another in a 50ft radius. |
-| 88   | [Target Lure](#target-lure)             | An object you touch becomes the target of any nearby spell.  |
-| 89   | [Thicket](#thicket)                     | A thicket of trees and dense brush up to 50ft wide suddenly sprouts up. |
-| 90   | [Summon Idol](#summon-idol)             | A carved stone statue the size of a mule rises from the ground. |
-| 91   | [Time Control](#time-control)           | Time in a 50ft bubble slows down or increases by 10% for 30 seconds. |
-| 92   | [True Sight](#true-sight)               | You see through all nearby illusions.                        |
-| 93   | [Upwell](#upwell)                       | A spring of seawater appears.                                |
-| 94   | [Vision](#vision)                       | You completely control what a creature sees.                 |
-| 95   | [Visual Illusion](#visual-illusion)     | A silent, immobile, room-sized illusion of your choice appears. |
-| 96   | [Ward](#ward)                           | A silver circle 50ft across appears on the ground. Choose one species that cannot cross it. |
-| 97   | [Web](#web)                             | Your wrists shoot thick webbing.                             |
-| 98   | [Widget](#widget)                       | A primitive version of a drawn tool or item appears before you and disappears after a short time. |
-| 99   | [Wizard Mark](#wizard-mark)             | Your finger can shoot a stream of ulfire-colored paint. This paint is only visible to you and can be seen at any distance, even through solid objects. |
-| 100  | [X-Ray Vision](#x-ray-vision)           | You can see through walls, dirt, clothing, etc.              | 
+|     |                                               |                                                              |
+| --- | --------------------------------------------- | ------------------------------------------------------------ |
+| 1   | [Абарані](#shield)                            | A creature you touch is protected from mundane attacks for one minute. |
+| 2   | [Абмен целамі](#body-swap)                    | You switch bodies with a creature you touch. If one body dies, the other dies as well. |
+| 3   | [Абярэг](#ward)                               | A silver circle 50ft across appears on the ground. Choose one species that cannot cross it. |
+| 4   | [Аглохні](#deafen)                            | All nearby creatures are deafened.                           |
+| 5   | [Адкажы](#hypnotize)                          | A creature enters a trance and will truthfully answer one yes or no question you ask it. |
+| 6   | [Адлюстраванне](#mirror-image)                | An illusory duplicate of yourself appears and is under your control. |
+| 7   | [Адсунь](#displace)                           | An object appears to be up to 15ft from its actual position. |
+| 8   | [Адчыні замок](#knock)                        | A nearby mundane or magical lock unlocks loudly.             |
+| 9   | [Адштурхні/Прыцягні](#push/pull)              | An object of any size is pulled directly towards you or pushed directly away from you with the strength of one man. |
+| 10  | [Адшукай гаспадара](#identify-owner)          | Letters appear over the object you touch, spelling out the name of the object's owners, if there are any. |
+| 11  | [Ажыві](#animate-object)                      | An object obeys your commands as best it can.                |
+| 12  | [Аслабь чары](#magic-dampener)                | All nearby magical effects have their effectiveness halved.  |
+| 13  | [Астральная турма](#astral-prison)            | An object is frozen in time and space within an invulnerable crystal shell. |
+| 14  | [Бач наскрозь](#x-ray-vision)                 | You can see through walls, dirt, clothing, etc.              | 
+| 15  | [Вадкае паветра](#liquid-air)                 | The air around you becomes swimmable .                       |
+| 16  | [Вароты](#gate)                               | A portal to a random plane opens.                            |
+| 17  | [Воблака дыму](#fog-cloud)                    | A dense fog spreads out from you.                            |
+| 18  | [Выкліч ідала](#summon-idol)                  | A carved stone statue the size of a mule rises from the ground. |
+| 19  | [Вылечы раны](#cure-wounds)                   | Restore 1d4 STR per day to a creature you can touch.         |
+| 20  | [Відовішча](#spectacle)                       | A clearly false but impressive illusion of your choice appears, under your control. It may be up to the size of a palace and has full motion and sound. |
+| 21  | [Гушчар](#thicket)                            | A thicket of trees and dense brush up to 50ft wide suddenly sprouts up. |
+| 22  | [Жніво](#spellsaw)                            | A whirling blade flies from your chest, clearing any plant material in its way. It is otherwise harmless. |
+| 23  | [Забыўчывасць](#befuddle)                     | A creature of your choice is unable to form new short-term memories for the duration of the spell. |
+| 24  | [Загад](#command)                             | A target obeys a single three-word command that does not cause it harm. |
+| 25  | [Залунай](#hover)                             | An object hovers, frictionless, 2ft above the ground. It can hold up to one humanoid. |
+| 26  | [Зачаруй](#charm)                             | A creature you can see treats you as a friend.               |
+| 27  | [Заўваж чары](#detect-magic)                  | You can see or hear nearby magical auras.                    |
+| 28  | [Звярыныя вочы](#scry)                        | You can see through the eyes of a creature you touched earlier today. |
+| 29  | [Згасні](#snuff)                              | The source of any mundane light you can see is instantly snuffed out. |
+| 30  | [Земляны куб](#summon-cube)                   | Once per second you may summon or banish a 3-foot-wide cube of earth. New cubes must be affixed to the earth or to other cubes. |
+| 31  | [Землятрус](#earthquake)                      | The ground begins shaking violently. Structures may be damaged or collapse. |
+| 32  | [Ззяй](#flare)                                | A bright ball of energy fires a trail of light into the sky, revealing your location to friend or foe. |
+| 33  | [Зменшыся](#miniaturize)                      | A creature you touch is shrunk down to the size of a mouse.  |
+| 34  | [Змяні гравітацыю](#gravity-shift)            | You can change the direction of gravity, but only for yourself. |
+| 35  | [Змяні надвор’е](#control-weather)            | You may alter the type of weather at will, but you do not otherwise control it. |
+| 36  | [Знак чараўніка](#wizard-mark)                | Your finger can shoot a stream of ulfire-colored paint. This paint is only visible to you and can be seen at any distance, even through solid objects. |
+| 37  | [Зразумей](#comprehend)                       | You become fluent in all languages for a short while.        |
+| 38  | [Ілюзія](#visual-illusion)                    | A silent, immobile, room-sized illusion of your choice appears. |
+| 39  | [Кветка-прынада](#bait-flower)                | A plant sprouts from the ground that emanates the smell of decaying flesh. |
+| 40  | [Конус пены](#cone-of-foam)                   | Dense foam sprays from your hand, coating the target.        |
+| 41  | [Коўзкі](#slick)                              | Every surface in a 30ft radius becomes extremely slippery.   |
+| 42  | [Кіруй раслінамі](#control-plants)            | Nearby plants and trees obey you and gain the ability to move at a slow pace. |
+| 43  | [Кіруй часам](#time-control)                  | Time in a 50ft bubble slows down or increases by 10% for 30 seconds. |
+| 44  | [Ледзяны дотык](#icy-touch)                   | A thick ice layer spreads across a touched surface, up to 10ft in radius. |
+| 45  | [Лезь як павук](#spider-climb)                | You can climb surfaces like a spider.                        |
+| 46  | [Ляпі](#sculpt-elements)                      | Inanimate material behaves like clay in your hands.          |
+| 47  | [Маска](#disguise)                            | You may alter the appearance of one character at will as long as they remain humanoid. Attempts to duplicate other characters will seem uncanny. |
+| 48  | [Маскарад](#masquerade)                       | A characters appearance and voice becomes identical to those of a character you touch. |
+| 49  | [Нюх](#sniff)                                 | You can smell even the faintest traces of scents.            |
+| 50  | [Нябачная прывязь](#invisible-tether)         | Two objects within 10ft of each other cannot be moved more than 10ft apart. |
+| 51  | [Нянавісць](#hatred)                          | A creature develops a deep hatred of another creature or group and wishes to destroy them. |
+| 52  | [Павуцінне](#web)                             | Your wrists shoot thick webbing.                             |
+| 53  | [Падмані зрок](#vision)                       | You completely control what a creature sees.                 |
+| 54  | [Пачуй шэпт](#hear-whispers)                  | You can hear faint sounds clearly.                           |
+| 55  | [Пачуццё](#sense)                             | Choose one kind of object (key, gold, arrow, jug, etc). You can sense the nearest example. |
+| 56  | [Паўтары](#babble)                            | A creature must loudly and clearly repeat everything you think. It is otherwise mute. |
+| 57  | [Перанакіруй заклён](#target-lure)            | An object you touch becomes the target of any nearby spell.  |
+| 58  | [Перастаў](#shuffle)                          | Two creatures you can see instantly switch places.           |
+| 59  | [Ператварыся ў жэле](#ooze-form)              | You become a living jelly.                                   |
+| 60  | [Ператварыся ў звера](#beast-form)            | You and your possessions transform into a mundane animal.    |
+| 61  | [Ператварыся ў зграю](#swarm)                 | You become a swarm of crows, rats, or piranhas. You can only be harmed by blast attacks. |
+| 62  | [Ператварыся ў рэч](#objectify)               | You become any inanimate object between the size of a grand piano and an apple. |
+| 63  | [Ператварыся ў дым](#smoke-form)              | Your body becomes a living smoke that you can control.       |
+| 64  | [Першабытны ўсплёск](#primal-surge)           | A creature rapidly evolves into a future version of its species. |
+| 65  | [Прагнасць](#greed)                           | A creature develops the overwhelming urge to possess a visible item of your choice. |
+| 66  | [Празорлівасць](#true-sight)                  | You see through all nearby illusions.                        |
+| 67  | [Прайдзі скрозь люстэрка](#mirrorwalk)        | A mirror becomes a gateway to another mirror that you looked into today. |
+| 68  | [Прачытай думкі](#read-mind)                  | You can hear the surface thoughts of nearby creatures.       |
+| 69  | [Прыліпні](#adhere)                           | An object is covered in extremely sticky slime.              |
+| 70  | [Прыпадобніся да чалавека](#anthropomorphize) | An animal either gains human intelligence or human appearance for one day. |
+| 71  | [Прыцягніся](#attract)                        | Two objects are strongly magnetically attracted to each other if they come within 10 feet. |
+| 72  | [Раздзяліся](#disassemble)                    | Any of your body parts may be detached and reattached at will, without causing pain or damage. You can still control them. |
+| 73  | [Салёная студня](#upwell)                     | A spring of seawater appears.                                |
+| 74  | [Свяці](#illuminate)                          | A floating light moves as you command.                       |
+| 75  | [Скокні](#leap)                               | You jump up to 10ft high, once.                              |
+| 76  | [Слыхавая галюцынацыя](#auditory-illusion)    | You create illusory sounds that seem to come from a direction of your choice. |
+| 77  | [Спытай духа](#raise-spirit)                  | The spirit of a nearby corpse manifests and will answer 1 question. |
+| 78  | [Стань на якар](#anchor)                      | A strong wire sprouts from your arms, affixing itself to two points within 50ft on each side. |
+| 79  | [Сфера ночы](#night-sphere)                   | A 50ft wide sphere of darkness displaying the night sky appears before you. |
+| 80  | [Схавай](#shroud)                             | A creature you touch is invisible until they move.           |
+| 81  | [Сцягні](#filch)                              | A visible item teleports to your hands.                      |
+| 82  | [Сядзіба](#manse)                             | A sturdy, furnished cottage appears for 12 hours. You can permit and forbid entry to it at will. |
+| 83  | [Таемнае вока](#arcane-eye)                   | You can see through a magical floating eyeball that flies around at your command. |
+| 84  | [Трымай дыстанцыю](#repel)                    | Two objects are strongly magnetically repelled from each other within 10 feet. |
+| 85  | [Тэлекінэз](#telekinesis)                     | You may mentally 1 move item under 60lbs.                    |
+| 86  | [Тэлепатыя](#telepathy)                       | Two creatures can hear each other's thoughts, no matter how far apart. |
+| 87  | [Тэлепорт](#teleport)                         | An object or person you can see is transported from one place to another in a 50ft radius. |
+| 88  | [Уваскрасі мёртвага](#raise-dead)             | A skeleton rises from the ground to serve you. They are incredibly stupid and can only obey simple orders. |
+| 89  | [Упарадкуйся](#sort)                          | Inanimate items sort themselves according to categories you set. |
+| 90  | [Уціхамірыць](#pacify)                        | A creature near you has an aversion to violence.             |
+| 91  | [Фобія](#phobia)                              | A nearby creature becomes terrified of an object of your choice. |
+| 92  | [Хуткасць](#haste)                            | Your movement speed is tripled.                              |
+| 93  | [Чароўны сон](#sleep)                         | A creature you can see falls into a light sleep.             |
+| 94  | [Шаленства](#frenzy)                          | A nearby creature erupts in a frenzy of violence.            |
+| 95  | [Шарыкавае вар’яцтва](#marble-craze)          | Your pockets are full of marbles, and will refill every 30 seconds. |
+| 96  | [Шматрукі](#multiarm)                         | You temporarily gain an extra arm.                           |
+| 97  | [Штука](#widget)                              | A primitive version of a drawn tool or item appears before you and disappears after a short time. |
+| 98  | [Эластычнасць](#elasticity)                   | Your body can stretch up to 10ft.                            |
+| 99  | [Элементальная сцяна](#elemental-wall)        | A straight wall of ice or fire 50ft long and 10ft high rises from the ground. |
+| 100 | [Яма](#pit)                                   | A pit 10ft wide and 10ft deep opens in the ground.           |
 
 [back to index](#index)
 <p></p>
