@@ -9,6 +9,7 @@ search_exclude: true
 
 # Setting Seeds
 
+## Introduction
 
 ## Theme
 
@@ -18,7 +19,7 @@ Tables for:
 - Barriers
 - Problems
 
-## Procedures
+## Paths
 
 - Path Types
   - Loops
@@ -32,7 +33,9 @@ Tables for:
   - Passing Sights
   - Crossroads
   - \# of Paths
-- Points
+ 
+## Points
+
   - How do we get there?
   - Who knows about it? 
   - What are the risks?
@@ -47,12 +50,19 @@ Tables for:
   - Lairs
   - Dungeons
   - Refuge ("utilities")
-- Borders
+
+## Borders
+
   - Elevation
   - Water
   - Biomie Edges
-- Barriers
+
+## Barriers
   - Isolated
   - Seams
-- Regions
-- Landmarks
+
+## Regions
+
+## Landmarks
+
+## Procedures
