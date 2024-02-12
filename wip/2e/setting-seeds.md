@@ -22,6 +22,11 @@ search_exclude: true
 
  region + people. Heart = place, history/time. Problem is (external forces) that affect local resources.
 
+ - Create the region's terrain and topographic features.
+ - Create the civilization's defining aspects, as well as their ambitions.
+ - 
+
+
 
 ### Topography
 
@@ -76,35 +81,6 @@ search_exclude: true
 | **19**  | Curious     | **19**  | Piety           |
 | **20**  | Resilient   | **20**  | Return          |
 
-
-### Heart
-
-|         |           |
-| ------- | --------- |
-| **d20** | **Heart** |
-| **1**   |           |
-| **2**   |           |
-| **3**   |           |
-| **4**   |           |
-| **5**   |           |
-| **6**   |           |
-| **7**   |           |
-| **8**   |           |
-
-### History
-
-|        |             |
-| ------ | ----------- |
-| **d8** | **History** |
-| **1**  |             |
-| **2**  |             |
-| **3**  |             |
-| **4**  |             |
-| **5**  |             |
-| **6**  |             |
-| **7**  |             |
-| **8**  |             |
-
 ### Problems
 
 |        |              |
@@ -118,7 +94,6 @@ search_exclude: true
 | **6**  |              |
 | **7**  |              |
 | **8**  |              |
-
 
 ### Resources
 
@@ -135,6 +110,33 @@ search_exclude: true
 | **8**  |               |
 
 
+### History
+
+|        |             |
+| ------ | ----------- |
+| **d8** | **History** |
+| **1**  |             |
+| **2**  |             |
+| **3**  |             |
+| **4**  |             |
+| **5**  |             |
+| **6**  |             |
+| **7**  |             |
+| **8**  |             |
+
+### Heart
+
+|         |           |
+| ------- | --------- |
+| **d20** | **Heart** |
+| **1**   |           |
+| **2**   |           |
+| **3**   |           |
+| **4**   |           |
+| **5**   |           |
+| **6**   |           |
+| **7**   |           |
+| **8**   |           |
 
 #### misc theme stuff
 
