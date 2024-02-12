@@ -59,7 +59,7 @@ Roll 2d20 and combine the results.
 
 |         |             |                 |
 | ------- | ----------- | --------------- |
-| **d20** | **Aspect**  | **Ambition**    |
+| **d20** | **Character**  | **Ambition**    |
 | **1**   | Struggling  | Power           |
 | **2**   | Wealthy     | Conquest        |
 | **3**   | Religious   | Stability       |
@@ -78,7 +78,7 @@ Roll 2d20 and combine the results.
 | **16**  | Harmonious  | Fealty          |
 | **17**  | Inventive   | Recognition     |
 | **18**  | Altruistic  | Natural Harmony |
-| **19**  | Curious     | Piety           |
+| **19**  | Curious     | Conversion      |
 | **20**  | Resilient   | Return          |
 
 ### Resources
@@ -97,7 +97,7 @@ Roll 2d20 and combine the results.
 | **7**   | Knowledge     | Textiles      |
 | **8**   | Herbs         | Livestock     |
 | **9**   | Wood          | Herbs         |
-| **10**  | Food          | Leather       |
+| **10**  | Food          | Weapons       |
 | **11**  | Stone         | Gemstones     |
 | **12**  | Gemstones     | Ore           |
 | **13**  | Ore           | Stone         |
@@ -107,7 +107,7 @@ Roll 2d20 and combine the results.
 | **17**  | Livestock     | Skilled Labor |
 | **18**  | Horses        | Tools         |
 | **19**  | Textiles      | Vessels       |
-| **20**  | Leather       | Fuel          |
+| **20**  | Weapons       | Fuel          |
 
 ### Create the Heart
 
