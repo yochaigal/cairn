@@ -25,55 +25,56 @@ search_exclude: true
 
 ### Topography
 
-|         |                   |             |
-| ------- | ----------------- | ----------- |
-| **d20** | **Terrain**       | **Feature** |
-| **1**   | Plains **(E)**    |             |
-| **2**   | Oasis **(E)**     |             |
-| **3**   | Lakes **(T)**     |             |
-| **4**   | Sea **(T)**       |             |
-| **5**   | River **(T)**     |             |
-| **6**   | Swamp **(P)**     |             |
-| **7**   | Canyons **(E)**   |             |
-| **8**   | Cliffs **(T)**    |             |
-| **9**   | Valley **(E)**    |             |
-| **10**  | Hills **(T)**     |             |
-| **11**  | Mountains **(P)** |             |
-| **12**  | Plateau **(E)**   |             |
-| **13**  | Hollows **(T)**   |             |
-| **14**  | Wasteland **(P)** |             |
-| **15**  | Forest **(T)**    |             |
-| **16**  | Thickets **(T)**  |             |
-| **17**  | Jungle **(P)**    |             |
-| **18**  | Tundra **(T)**    |             |
-| **19**  | Desert **(T)**    |             |
-| **20**  | Caverns **(P)**   |             |
+|         |                   |         |                    |
+| ------- | ----------------- | ------- | ------------------ |
+| **d20** | **Terrain**       | **d20** | **Feature**        |
+| **1**   | Plains **(E)**    | **1**   | Natural Bridges    |
+| **2**   | Oasis **(E)**     | **2**   | Sinkholes          |
+| **3**   | Lakes **(T)**     | **3**   | Islands            |
+| **4**   | Sea **(T)**       | **4**   | Volcanoes          |
+| **5**   | Rivers **(T)**    | **5**   | Wildfires          |
+| **6**   | Swamps **(P)**    | **6**   | Glacial Melt       |
+| **7**   | Canyons **(E)**   | **7**   | Geysers            |
+| **8**   | Cliffs **(T)**    | **8**   | Mudflats           |
+| **9**   | Valley **(E)**    | **9**   | Earthquakes        |
+| **10**  | Hills **(T)**     | **10**  | Megaliths          |
+| **11**  | Mountains **(P)** | **11**  | Permafrost         |
+| **12**  | Plateaus **(E)**  | **12**  | Celestial Displays |
+| **13**  | Hollows **(T)**   | **13**  | Fossil Fields      |
+| **14**  | Wasteland **(P)** | **14**  | Salt Flats         |
+| **15**  | Forests **(T)**   | **15**  | Meteorites         |
+| **16**  | Thickets **(T)**  | **16**  | Ice Caves          |
+| **17**  | Jungles **(P)**   | **17**  | Sandstorms         |
+| **18**  | Tundra **(T)**    | **18**  | Underground Rivers |
+| **19**  | Deserts **(T)**   | **19**  | Coral Reefs        |
+| **20**  | Caverns **(P)**   | **20**  | Lava Fields        |
+
 
 ### People
 
-|         |             |              |
-| ------- | ----------- | ------------ |
-| **d20** | **Aspect**  | **Ambition** |
-| **1**   | Struggling  | Power        |
-| **2**   | Wealthy     | Conquest     |
-| **3**   | Religious   | Stability    |
-| **4**   | Hearty      | Peace        |
-| **5**   | Reclusive   | Independence |
-| **6**   | Xenophobic  | Control      |
-| **7**   | Traditional | Purity       |
-| **8**   | War-like    | Union        |
-| **9**   | Enlightened | Knowledge    |
-| **10**  | Artistic    | Harmony      |
-| **11**  | Nomadic     | Exploration  |
-| **12**  | Scholarly   | Ascendancy   |
-| **13**  | Mercantile  | Wealth       |
-| **14**  | Devious     | Dominance    |
-| **15**  | Stoic       | Security     |
-| **16**  | Harmonious  | Prosperity   |
-| **17**  | Inventive   | Mastery      |
-| **18**  | Altruistic  | Change       |
-| **19**  | Curious     | Victory      |
-| **20**  | Resilient   | Strategy     |
+|         |             |         |                 |
+| ------- | ----------- | ------- | --------------- |
+| **d20** | **Aspect**  | **d20** | **Ambition**    |
+| **1**   | Struggling  | **1**   | Power           |
+| **2**   | Wealthy     | **2**   | Conquest        |
+| **3**   | Religious   | **3**   | Stability       |
+| **4**   | Hearty      | **4**   | Peace           |
+| **5**   | Reclusive   | **5**   | Independence    |
+| **6**   | Xenophobic  | **6**   | Control         |
+| **7**   | Traditional | **7**   | Purity          |
+| **8**   | War-like    | **8**   | Unification     |
+| **9**   | Enlightened | **9**   | Knowledge       |
+| **10**  | Artistic    | **10**  | Division        |
+| **11**  | Nomadic     | **11**  | Exploration     |
+| **12**  | Scholarly   | **12**  | Bounty          |
+| **13**  | Mercantile  | **13**  | Wealth          |
+| **14**  | Devious     | **14**  | Dominance       |
+| **15**  | Stoic       | **15**  | Security        |
+| **16**  | Harmonious  | **16**  | Fealty          |
+| **17**  | Inventive   | **17**  | Recognition     |
+| **18**  | Altruistic  | **18**  | Natural Harmony |
+| **19**  | Curious     | **19**  | Piety           |
+| **20**  | Resilient   | **20**  | Return          |
 
 
 ### Heart
