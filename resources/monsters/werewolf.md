@@ -10,4 +10,4 @@ grand_parent: Resources
 
 - A ferocious lycanthrope that can transform into a wolf-shape at will.
 - Mundane attacks are _impaired_ against the werewolf, but weapons made of silver are _enhanced_.
-- **Critical Damage**: Roll 1d6. On a 1-2, the target becomes infected, transforming into a werewolf by the next full moon.
+- **Critical Damage**: Target becomes infected with lycanthropy, transforming into a werewolf by the next full moon.
