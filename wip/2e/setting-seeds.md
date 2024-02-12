@@ -13,10 +13,9 @@ search_exclude: true
 
 ## Overview
 
-1. Create the theme.
-2. Create the Heart.
-3. Extend via paths and new POIs.
-4. Terminate via borders.
+1. Create the region's topography, people, resources, and heart.
+2. Extend via paths and new POIs.
+3. Terminate via borders.
 
 ## Create the Overarching Theme
 
@@ -24,7 +23,6 @@ search_exclude: true
  - Create the civilization's defining aspects, as well as their ambitions.
  - What resources are in abundance, and what are scarce?
  - What makes up the heart of this region, and what problems to they have?
-
 
 ### Topography
 
@@ -53,7 +51,6 @@ Roll 2d20 and combine the results.
 | **18**  | Tundra **(T)**    | **18**  | Underground Rivers |
 | **19**  | Deserts **(T)**   | **19**  | Coral Reefs        |
 | **20**  | Caverns **(P)**   | **20**  | Lava Fields        |
-
 
 ### People
 
@@ -87,29 +84,29 @@ Roll 2d20 and combine the results.
 
 Roll 2d20 and combine the results.
 
-|         |               |         |              |
-| ------- | ------------- | ------- | ------------ |
-| **d20** | **Abundance** | **d20** | **Scarcity** |
-| **1**   | Vessels       | **1**   | Water        |
-| **2**   | Labor         | **2**   | Food         |
-| **3**   | Tools         | **3**   | Tools        |
-| **4**   | Fuel          | **4**   | Land         |
-| **5**   | Medicine      | **5**   | Goods        |
-| **6**   | Land          | **6**   | Spices       |
-| **7**   | Grains        | **7**   | Textiles     |
-| **8**   | Herbs         | **8**   | Livestock    |
-| **9**   | Wood          | **9**   | Herbs        |
-| **10**  | Food          | **10**  | Leather      |
-| **11**  | Stone         | **11**  | Gemstones    |
-| **12**  | Gemstones     | **12**  | Ore          |
-| **13**  | Ore           | **13**  | Stone        |
-| **14**  | Water         | **14**  | Horses       |
-| **15**  | Goods         | **15**  | Wood         |
-| **16**  | Spices        | **16**  | Medicine     |
-| **17**  | Livestock     | **17**  | Labor        |
-| **18**  | Horses        | **18**  | Grains       |
-| **19**  | Textiles      | **19**  | Vessels      |
-| **20**  | Leather       | **20**  | Fuel         |
+|         |               |         |               |
+| ------- | ------------- | ------- | ------------- |
+| **d20** | **Abundance** | **d20** | **Scarcity**  |
+| **1**   | Vessels       | **1**   | Water         |
+| **2**   | Skilled Labor | **2**   | Food          |
+| **3**   | Tools         | **3**   | Knowledge     |
+| **4**   | Fuel          | **4**   | Land          |
+| **5**   | Medicine      | **5**   | Trade Goods   |
+| **6**   | Land          | **6**   | Spices        |
+| **7**   | Knowledge     | **7**   | Textiles      |
+| **8**   | Herbs         | **8**   | Livestock     |
+| **9**   | Wood          | **9**   | Herbs         |
+| **10**  | Food          | **10**  | Leather       |
+| **11**  | Stone         | **11**  | Gemstones     |
+| **12**  | Gemstones     | **12**  | Ore           |
+| **13**  | Ore           | **13**  | Stone         |
+| **14**  | Water         | **14**  | Horses        |
+| **15**  | Trade Goods   | **15**  | Wood          |
+| **16**  | Spices        | **16**  | Medicine      |
+| **17**  | Livestock     | **17**  | Skilled Labor |
+| **18**  | Horses        | **18**  | Tools         |
+| **19**  | Textiles      | **19**  | Vessels       |
+| **20**  | Leather       | **20**  | Fuel          |
 
 ### Create the Heart
 
@@ -138,7 +135,6 @@ Roll 2d20 and combine the results.
 | **18**  | Sanctuary  | **18**  | Haven                       |
 | **19**  | Guildhall  | **19**  | Artisans                    |
 | **20**  | Citadel    | **20**  | Traders                     |
-
 
 #### Example Themes
 
