@@ -28,113 +28,114 @@ search_exclude: true
 
 Roll 2d20 and combine the results.
 
-|         |                   |         |                    |
-| ------- | ----------------- | ------- | ------------------ |
-| **d20** | **Terrain**       | **d20** | **Feature**        |
-| **1**   | Plains **(E)**    | **1**   | Natural Bridges    |
-| **2**   | Oasis **(E)**     | **2**   | Sinkholes          |
-| **3**   | Lakes **(T)**     | **3**   | Islands            |
-| **4**   | Sea **(T)**       | **4**   | Volcanoes          |
-| **5**   | Rivers **(T)**    | **5**   | Wildfires          |
-| **6**   | Swamps **(P)**    | **6**   | Glacial Melt       |
-| **7**   | Canyons **(E)**   | **7**   | Geysers            |
-| **8**   | Cliffs **(T)**    | **8**   | Mudflats           |
-| **9**   | Valley **(E)**    | **9**   | Earthquakes        |
-| **10**  | Hills **(T)**     | **10**  | Megaliths          |
-| **11**  | Mountains **(P)** | **11**  | Permafrost         |
-| **12**  | Plateaus **(E)**  | **12**  | Celestial Displays |
-| **13**  | Hollows **(T)**   | **13**  | Fossil Fields      |
-| **14**  | Wasteland **(P)** | **14**  | Salt Flats         |
-| **15**  | Forests **(T)**   | **15**  | Meteorites         |
-| **16**  | Thickets **(T)**  | **16**  | Ice Caves          |
-| **17**  | Jungles **(P)**   | **17**  | Sandstorms         |
-| **18**  | Tundra **(T)**    | **18**  | Underground Rivers |
-| **19**  | Deserts **(T)**   | **19**  | Coral Reefs        |
-| **20**  | Caverns **(P)**   | **20**  | Lava Fields        |
+
+|         |                   |                    |
+| ------- | ----------------- | ------------------ |
+| **d20** | **Terrain**       | **Feature**        |
+| **1**   | Plains **(E)**    | Natural Bridges    |
+| **2**   | Oasis **(E)**     | Sinkholes          |
+| **3**   | Lakes **(T)**     | Islands            |
+| **4**   | Sea **(T)**       | Volcanoes          |
+| **5**   | Rivers **(T)**    | Wildfires          |
+| **6**   | Swamps **(P)**    | Glacial Melt       |
+| **7**   | Canyons **(E)**   | Geysers            |
+| **8**   | Cliffs **(T)**    | Mudflats           |
+| **9**   | Valley **(E)**    | Earthquakes        |
+| **10**  | Hills **(T)**     | Megaliths          |
+| **11**  | Mountains **(P)** | Permafrost         |
+| **12**  | Plateaus **(E)**  | Celestial Displays |
+| **13**  | Hollows **(T)**   | Fossil Fields      |
+| **14**  | Wasteland **(P)** | Salt Flats         |
+| **15**  | Forests **(T)**   | Meteorites         |
+| **16**  | Thickets **(T)**  | Ice Caves          |
+| **17**  | Jungles **(P)**   | Sandstorms         |
+| **18**  | Tundra **(T)**    | Underground Rivers |
+| **19**  | Deserts **(T)**   | Coral Reefs        |
+| **20**  | Caverns **(P)**   | Lava Fields        |
 
 ### People
 
 Roll 2d20 and combine the results.
 
-|         |             |         |                 |
-| ------- | ----------- | ------- | --------------- |
-| **d20** | **Aspect**  | **d20** | **Ambition**    |
-| **1**   | Struggling  | **1**   | Power           |
-| **2**   | Wealthy     | **2**   | Conquest        |
-| **3**   | Religious   | **3**   | Stability       |
-| **4**   | Hearty      | **4**   | Peace           |
-| **5**   | Reclusive   | **5**   | Independence    |
-| **6**   | Xenophobic  | **6**   | Control         |
-| **7**   | Traditional | **7**   | Purity          |
-| **8**   | War-like    | **8**   | Unification     |
-| **9**   | Enlightened | **9**   | Knowledge       |
-| **10**  | Artistic    | **10**  | Division        |
-| **11**  | Nomadic     | **11**  | Exploration     |
-| **12**  | Scholarly   | **12**  | Bounty          |
-| **13**  | Mercantile  | **13**  | Wealth          |
-| **14**  | Devious     | **14**  | Dominance       |
-| **15**  | Stoic       | **15**  | Security        |
-| **16**  | Harmonious  | **16**  | Fealty          |
-| **17**  | Inventive   | **17**  | Recognition     |
-| **18**  | Altruistic  | **18**  | Natural Harmony |
-| **19**  | Curious     | **19**  | Piety           |
-| **20**  | Resilient   | **20**  | Return          |
+|         |             |                 |
+| ------- | ----------- | --------------- |
+| **d20** | **Aspect**  | **Ambition**    |
+| **1**   | Struggling  | Power           |
+| **2**   | Wealthy     | Conquest        |
+| **3**   | Religious   | Stability       |
+| **4**   | Hearty      | Peace           |
+| **5**   | Reclusive   | Independence    |
+| **6**   | Xenophobic  | Control         |
+| **7**   | Traditional | Purity          |
+| **8**   | War-like    | Unification     |
+| **9**   | Enlightened | Knowledge       |
+| **10**  | Artistic    | Division        |
+| **11**  | Nomadic     | Exploration     |
+| **12**  | Scholarly   | Bounty          |
+| **13**  | Mercantile  | Wealth          |
+| **14**  | Devious     | Dominance       |
+| **15**  | Stoic       | Security        |
+| **16**  | Harmonious  | Fealty          |
+| **17**  | Inventive   | Recognition     |
+| **18**  | Altruistic  | Natural Harmony |
+| **19**  | Curious     | Piety           |
+| **20**  | Resilient   | Return          |
 
 ### Resources
 
 Roll 2d20 and combine the results.
 
-|         |               |         |               |
-| ------- | ------------- | ------- | ------------- |
-| **d20** | **Abundance** | **d20** | **Scarcity**  |
-| **1**   | Vessels       | **1**   | Water         |
-| **2**   | Skilled Labor | **2**   | Food          |
-| **3**   | Tools         | **3**   | Knowledge     |
-| **4**   | Fuel          | **4**   | Land          |
-| **5**   | Medicine      | **5**   | Trade Goods   |
-| **6**   | Land          | **6**   | Spices        |
-| **7**   | Knowledge     | **7**   | Textiles      |
-| **8**   | Herbs         | **8**   | Livestock     |
-| **9**   | Wood          | **9**   | Herbs         |
-| **10**  | Food          | **10**  | Leather       |
-| **11**  | Stone         | **11**  | Gemstones     |
-| **12**  | Gemstones     | **12**  | Ore           |
-| **13**  | Ore           | **13**  | Stone         |
-| **14**  | Water         | **14**  | Horses        |
-| **15**  | Trade Goods   | **15**  | Wood          |
-| **16**  | Spices        | **16**  | Medicine      |
-| **17**  | Livestock     | **17**  | Skilled Labor |
-| **18**  | Horses        | **18**  | Tools         |
-| **19**  | Textiles      | **19**  | Vessels       |
-| **20**  | Leather       | **20**  | Fuel          |
+|         |               |               |
+| ------- | ------------- | ------------- |
+| **d20** | **Abundance** | **Scarcity**  |
+| **1**   | Vessels       | Water         |
+| **2**   | Skilled Labor | Food          |
+| **3**   | Tools         | Knowledge     |
+| **4**   | Fuel          | Land          |
+| **5**   | Medicine      | Trade Goods   |
+| **6**   | Land          | Spices        |
+| **7**   | Knowledge     | Textiles      |
+| **8**   | Herbs         | Livestock     |
+| **9**   | Wood          | Herbs         |
+| **10**  | Food          | Leather       |
+| **11**  | Stone         | Gemstones     |
+| **12**  | Gemstones     | Ore           |
+| **13**  | Ore           | Stone         |
+| **14**  | Water         | Horses        |
+| **15**  | Trade Goods   | Wood          |
+| **16**  | Spices        | Medicine      |
+| **17**  | Livestock     | Skilled Labor |
+| **18**  | Horses        | Tools         |
+| **19**  | Textiles      | Vessels       |
+| **20**  | Leather       | Fuel          |
 
 ### Create the Heart
 
 Roll 2d20 and combine the results.
 
-|         |            |         |                             |
-| ------- | ---------- | ------- | --------------------------- |
-| **d20** | **Type**   | **d20** | **Unique Features**         |
-| **1**   | Campground | **1**   | Built atop ruins            |
-| **2**   | Caravan    | **2**   | Factionally divided         |
-| **3**   | City       | **3**   | Highly defensible           |
-| **4**   | Commune    | **4**   | Important to trade          |
-| **5**   | Inn        | **5**   | Lacking supplies            |
-| **6**   | Monastery  | **6**   | Overpopulated               |
-| **7**   | Outpost    | **7**   | Reclusive                   |
-| **8**   | Prison     | **8**   | Exports                     |
-| **9**   | Refuge     | **9**   | Natural deposits            |
-| **10**  | Stronghold | **10**  | Ruled by a powerful faction |
-| **11**  | Town       | **11**  | Seat of government          |
-| **12**  | Villa      | **12**  | Technology                  |
-| **13**  | Fortress   | **13**  | Impregnable walls           |
-| **14**  | Academy    | **14**  | Center of learning          |
-| **15**  | Hamlet     | **15**  | Close-knit                  |
-| **16**  | Estate     | **16**  | Stronghold                  |
-| **17**  | Harbor     | **17**  | Vast archives               |
-| **18**  | Sanctuary  | **18**  | Haven                       |
-| **19**  | Guildhall  | **19**  | Artisans                    |
-| **20**  | Citadel    | **20**  | Traders                     |
+|         |            |                             |
+| ------- | ---------- | --------------------------- |
+| **d20** | **Type**   | **Unique Element**          |
+| **1**   | Campground | Built Atop Ruins            |
+| **2**   | Caravan    | Factionally Divided         |
+| **3**   | City       | Well-defended               |
+| **4**   | Commune    | Trading Hub                 |
+| **5**   | Inn        | Reknowned Artisans          |
+| **6**   | Monastery  | High Population Density     |
+| **7**   | Outpost    | Ancient Buildings           |
+| **8**   | Prison     | Star Gate                   |
+| **9**   | Village    | Natural deposits            |
+| **10**  | Stronghold | A Haven to Outcasts         |
+| **11**  | Town       | Seat of Government          |
+| **12**  | Villa      | Technologically Advanced    |
+| **13**  | Fortress   | Impregnable Walls           |
+| **14**  | Academy    | Center of Learning          |
+| **15**  | Hamlet     | Close-knit Community        |
+| **16**  | Bazaar     | Ruled by a Powerful Faction |
+| **17**  | Port       | Ancient Archives            |
+| **18**  | Sanctuary  | Perpetually Revolves        |
+| **19**  | Farmstead  | Unusual Rulers              |
+| **20**  | Citadel    | Integration with Nature     |
 
 #### Example Themes
 
@@ -200,26 +201,26 @@ Roll 2d20 and combine the results.
 
 #### Empty Table
 
-|         |      |         |      |
-| ------- | ---- | ------- | ---- |
-| **d20** | **** | **d20** | **** |
-| **1**   |      | **1**   |      |
-| **2**   |      | **2**   |      |
-| **3**   |      | **3**   |      |
-| **4**   |      | **4**   |      |
-| **5**   |      | **5**   |      |
-| **6**   |      | **6**   |      |
-| **7**   |      | **7**   |      |
-| **8**   |      | **8**   |      |
-| **9**   |      | **9**   |      |
-| **10**  |      | **10**  |      |
-| **11**  |      | **11**  |      |
-| **12**  |      | **12**  |      |
-| **13**  |      | **13**  |      |
-| **14**  |      | **14**  |      |
-| **15**  |      | **15**  |      |
-| **16**  |      | **16**  |      |
-| **17**  |      | **17**  |      |
-| **18**  |      | **18**  |      |
-| **19**  |      | **19**  |      |
-| **20**  |      | **20**  |      |
+|         |      |      |
+| ------- | ---- | ---- |
+| **d20** | **** | **** |
+| **1**   |      |      |
+| **2**   |      |      |
+| **3**   |      |      |
+| **4**   |      |      |
+| **5**   |      |      |
+| **6**   |      |      |
+| **7**   |      |      |
+| **8**   |      |      |
+| **9**   |      |      |
+| **10**  |      |      |
+| **11**  |      |      |
+| **12**  |      |      |
+| **13**  |      |      |
+| **14**  |      |      |
+| **15**  |      |      |
+| **16**  |      |      |
+| **17**  |      |      |
+| **18**  |      |      |
+| **19**  |      |      |
+| **20**  |      |      |
