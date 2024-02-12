@@ -18,17 +18,17 @@ search_exclude: true
 3. Extend via paths and new POIs.
 4. Terminate via borders.
 
-## Theme
-
- region + people. Heart = place, history/time. Problem is (external forces) that affect local resources.
+## Create the Overarching Theme
 
  - Create the region's terrain and topographic features.
  - Create the civilization's defining aspects, as well as their ambitions.
- - 
-
+ - What resources are in abundance, and what are scarce?
+ - What makes up the heart of this region, and what problems to they have?
 
 
 ### Topography
+
+Roll 2d20 and combine the results.
 
 |         |                   |         |                    |
 | ------- | ----------------- | ------- | ------------------ |
@@ -57,6 +57,8 @@ search_exclude: true
 
 ### People
 
+Roll 2d20 and combine the results.
+
 |         |             |         |                 |
 | ------- | ----------- | ------- | --------------- |
 | **d20** | **Aspect**  | **d20** | **Ambition**    |
@@ -81,77 +83,70 @@ search_exclude: true
 | **19**  | Curious     | **19**  | Piety           |
 | **20**  | Resilient   | **20**  | Return          |
 
-### Problems
-
-|        |              |
-| ------ | ------------ |
-| **d8** | **Problems** |
-| **1**  |              |
-| **2**  |              |
-| **3**  |              |
-| **4**  |              |
-| **5**  |              |
-| **6**  |              |
-| **7**  |              |
-| **8**  |              |
-
 ### Resources
 
-|        |               |
-| ------ | ------------- |
-| **d8** | **Resources** |
-| **1**  |               |
-| **2**  |               |
-| **3**  |               |
-| **4**  |               |
-| **5**  |               |
-| **6**  |               |
-| **7**  |               |
-| **8**  |               |
+Roll 2d20 and combine the results.
+
+|         |               |         |              |
+| ------- | ------------- | ------- | ------------ |
+| **d20** | **Abundance** | **d20** | **Scarcity** |
+| **1**   | Vessels       | **1**   | Water        |
+| **2**   | Labor         | **2**   | Food         |
+| **3**   | Tools         | **3**   | Tools        |
+| **4**   | Fuel          | **4**   | Land         |
+| **5**   | Medicine      | **5**   | Goods        |
+| **6**   | Land          | **6**   | Spices       |
+| **7**   | Grains        | **7**   | Textiles     |
+| **8**   | Herbs         | **8**   | Livestock    |
+| **9**   | Wood          | **9**   | Herbs        |
+| **10**  | Food          | **10**  | Leather      |
+| **11**  | Stone         | **11**  | Gemstones    |
+| **12**  | Gemstones     | **12**  | Ore          |
+| **13**  | Ore           | **13**  | Stone        |
+| **14**  | Water         | **14**  | Horses       |
+| **15**  | Goods         | **15**  | Wood         |
+| **16**  | Spices        | **16**  | Medicine     |
+| **17**  | Livestock     | **17**  | Labor        |
+| **18**  | Horses        | **18**  | Grains       |
+| **19**  | Textiles      | **19**  | Vessels      |
+| **20**  | Leather       | **20**  | Fuel         |
+
+### Create the Heart
+
+Roll 2d20 and combine the results.
+
+|         |            |         |                             |
+| ------- | ---------- | ------- | --------------------------- |
+| **d20** | **Type**   | **d20** | **Unique Features**         |
+| **1**   | Campground | **1**   | Built atop ruins            |
+| **2**   | Caravan    | **2**   | Factionally divided         |
+| **3**   | City       | **3**   | Highly defensible           |
+| **4**   | Commune    | **4**   | Important to trade          |
+| **5**   | Inn        | **5**   | Lacking supplies            |
+| **6**   | Monastery  | **6**   | Overpopulated               |
+| **7**   | Outpost    | **7**   | Reclusive                   |
+| **8**   | Prison     | **8**   | Exports                     |
+| **9**   | Refuge     | **9**   | Natural deposits            |
+| **10**  | Stronghold | **10**  | Ruled by a powerful faction |
+| **11**  | Town       | **11**  | Seat of government          |
+| **12**  | Villa      | **12**  | Technology                  |
+| **13**  | Fortress   | **13**  | Impregnable walls           |
+| **14**  | Academy    | **14**  | Center of learning          |
+| **15**  | Hamlet     | **15**  | Close-knit                  |
+| **16**  | Estate     | **16**  | Stronghold                  |
+| **17**  | Harbor     | **17**  | Vast archives               |
+| **18**  | Sanctuary  | **18**  | Haven                       |
+| **19**  | Guildhall  | **19**  | Artisans                    |
+| **20**  | Citadel    | **20**  | Traders                     |
 
 
-### History
+#### Example Themes
 
-|        |             |
-| ------ | ----------- |
-| **d8** | **History** |
-| **1**  |             |
-| **2**  |             |
-| **3**  |             |
-| **4**  |             |
-| **5**  |             |
-| **6**  |             |
-| **7**  |             |
-| **8**  |             |
-
-### Heart
-
-|         |           |
-| ------- | --------- |
-| **d20** | **Heart** |
-| **1**   |           |
-| **2**   |           |
-| **3**   |           |
-| **4**   |           |
-| **5**   |           |
-| **6**   |           |
-| **7**   |           |
-| **8**   |           |
-
-#### misc theme stuff
-
-Decide on a theme for the setting. Examples include:
 - A vast tundra of glaciers, ice caves, and beasts long forgotten. Small settlements dot the frozen landscape, competing for food, warmth, and mates. A newly-appointed clan chief is uniting formerly warring tribes, building an army greater than any seen before. Now, their forces are digging into the Star Ridge mountains, searching the icy rivers for something - or someone -long-thought lost to time.
 - Within a manufactured dome of alien technology, people live in relative harmony, united by the Benefactor, an immortal entity of powerful knowledge and perception. Crime is nearly obselete, as the Benefactor arrests its perpetrators before even their own intentions are known to themselves. There are those who say this system is unfair, organizing in secret to overthrow their perfect leader. Or so they think...
 - Seven warring kingdoms jostle for a single landmass in an endless war. The greatest of these nations were corrupted from within, destroying a thousand-year old regime in a matter of months. Now their former enemies comb the lands of this once glorious nation, searching its bloated corpse for whatever riches may remain, all the while wondering who will be next?
 - An archipelago boasting thousands of small islands, their biomes equally as diverse as their animals and plant life. Rival factions ride the crimson seas in search of a holy artifact that is prophesized to unite not only the broken clans, but the earth itself. 
 - A post-apocalyptic wasteland littered with ancient technology, derelict sky-ships, and ruled by the Time Wizards. Cracked deserts and spiral forests encroach the last megacity, the only true respite from their cruelty. 
-
-Tables for:  
-- Factions
-- Terrain
-- Barriers
-- Problems
 
 ## Paths
 
@@ -205,5 +200,30 @@ Tables for:
 - Ruins
 - Obstacles
 
-
 ## Procedures
+
+#### Empty Table
+
+|         |      |         |      |
+| ------- | ---- | ------- | ---- |
+| **d20** | **** | **d20** | **** |
+| **1**   |      | **1**   |      |
+| **2**   |      | **2**   |      |
+| **3**   |      | **3**   |      |
+| **4**   |      | **4**   |      |
+| **5**   |      | **5**   |      |
+| **6**   |      | **6**   |      |
+| **7**   |      | **7**   |      |
+| **8**   |      | **8**   |      |
+| **9**   |      | **9**   |      |
+| **10**  |      | **10**  |      |
+| **11**  |      | **11**  |      |
+| **12**  |      | **12**  |      |
+| **13**  |      | **13**  |      |
+| **14**  |      | **14**  |      |
+| **15**  |      | **15**  |      |
+| **16**  |      | **16**  |      |
+| **17**  |      | **17**  |      |
+| **18**  |      | **18**  |      |
+| **19**  |      | **19**  |      |
+| **20**  |      | **20**  |      |
