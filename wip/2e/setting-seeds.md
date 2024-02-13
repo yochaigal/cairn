@@ -11,6 +11,12 @@ search_exclude: true
 
 ## Introduction
 
+Points on a map are generally divided into three categories:
+
+- **Refuge**: A town, temple, or place of shelter.
+- **Landmarks** or **Hazard**: A significant geographic signpost or hazard.
+- **Lairs** or **Dungeons**: An explicitly dangerous adventure site.
+
 ## Overview
 
 1. Create the region's topography, people, resources, and heart.
@@ -56,29 +62,29 @@ Roll 2d20 and combine the results.
 
 Roll 2d20 and combine the results.
 
-|         |             |                 |
-| ------- | ----------- | --------------- |
-| **d20** | **Character**  | **Ambition**    |
-| **1**   | Struggling  | Power           |
-| **2**   | Wealthy     | Conquest        |
-| **3**   | Religious   | Stability       |
-| **4**   | Hearty      | Peace           |
-| **5**   | Reclusive   | Independence    |
-| **6**   | Xenophobic  | Control         |
-| **7**   | Traditional | Purity          |
-| **8**   | War-like    | Unification     |
-| **9**   | Enlightened | Knowledge       |
-| **10**  | Artistic    | Division        |
-| **11**  | Nomadic     | Exploration     |
-| **12**  | Scholarly   | Bounty          |
-| **13**  | Mercantile  | Wealth          |
-| **14**  | Devious     | Dominance       |
-| **15**  | Stoic       | Security        |
-| **16**  | Harmonious  | Fealty          |
-| **17**  | Inventive   | Recognition     |
-| **18**  | Altruistic  | Natural Harmony |
-| **19**  | Curious     | Conversion      |
-| **20**  | Resilient   | Return          |
+|         |               |                 |
+| ------- | ------------- | --------------- |
+| **d20** | **Character** | **Ambition**    |
+| **1**   | Struggling    | Power           |
+| **2**   | Wealthy       | Conquest        |
+| **3**   | Religious     | Stability       |
+| **4**   | Hearty        | Peace           |
+| **5**   | Reclusive     | Independence    |
+| **6**   | Xenophobic    | Control         |
+| **7**   | Traditional   | Purity          |
+| **8**   | War-like      | Unification     |
+| **9**   | Enlightened   | Knowledge       |
+| **10**  | Artistic      | Division        |
+| **11**  | Nomadic       | Exploration     |
+| **12**  | Scholarly     | Bounty          |
+| **13**  | Mercantile    | Wealth          |
+| **14**  | Devious       | Dominance       |
+| **15**  | Stoic         | Security        |
+| **16**  | Harmonious    | Fealty          |
+| **17**  | Inventive     | Recognition     |
+| **18**  | Altruistic    | Natural Harmony |
+| **19**  | Curious       | Conversion      |
+| **20**  | Resilient     | Return          |
 
 ### Resources
 
@@ -108,9 +114,9 @@ Roll 2d20 and combine the results.
 | **19**  | Textiles      | Vessels       |
 | **20**  | Weapons       | Fuel          |
 
-### Create the Heart
+### The Heart
 
-Roll 2d20 and combine the results.
+The **Heart** is always a **Refuge** of some kind, a place of relative calm and safety. It isn't necessarily the largest or most important place in the setting, but it should be significant to the region's history. Roll 2d20 and combine the results.
 
 |         |            |                             |
 | ------- | ---------- | --------------------------- |
@@ -136,9 +142,7 @@ Roll 2d20 and combine the results.
 | **19**  | Farmstead  | Unusual Rulers              |
 | **20**  | Citadel    | Integration with Nature     |
 
-## Procedures
-
-### The Heart
+## The Map
 
 - On a flat sheet of paper draw a circle. This is the Heart of your adventure site. 
 - From the Heart, create two to three distinct Paths:
@@ -147,19 +151,197 @@ Roll 2d20 and combine the results.
   - A line with an X over it indicating a _blocked_ Path.
   - A line with a number on top indicating _elevation_.
 - At the terminus of each line, add a Point of Interest (POI):
-  - A circle to represent a _Refuge_ (town, city, farm, etc).
-  - A triangle to represent a _Landmark_ (rock formation, stone bridge, sinkhole).
-  - A diamond to represent a _Dungeon or Lair_ (cave, burrow, crypt).
+  - A circle to represent a _refuge_ (town, city, farm, etc).
+  - A triangle to represent a _landmark or hazard_ (rock formation, stone bridge, sinkhole).
+  - A diamond to represent a _dungeon or lair_ (cave, burrow, crypt).
 - From each POI add a new Path, terminating in a new POI _or_ connecting to an existing POI.
 - Create a single POI on the map that is not connected to any Path.
 - Finally number each POI, starting with the Heart and ending with the standalone POI.
 
-> At this time, don't focus too much on the specific traits of any Path or POI, as they will be decided later. That includes distance, path types (i.e. trails, roads, rivers, etc.) and refuge details.
+> At this time, don't focus too much on the specific traits of any Path or POI, as those will be decided later. That includes distance, path types (i.e. trails, roads, rivers, etc.) and refuge details.
 
+### Paths, Expanded
+ 
+ - Starting from the Heart, select a Path. 
+   - If it is _accessible_, determine whether it should be a road, trail, or river. 
+   - If it is _hidden_, roll on the [Hidden Paths](#hidden-paths) table or choose appropriate option.
+   - If it is _blocked_ roll on the [Blocked Paths](#blocked-paths) table or choose an appropriate option.
+   - If it is at a different _elevation_, roll on the [Topography](#topography) table or choose an appropriate option.
+ - Continue the process until all of the Paths on the map have been created.
 
-### Points
+#### Hidden Paths
 
-## Paths
+|         |      |      |
+| ------- | ---- | ---- |
+| **d20** | **** | **** |
+| **1**   |      |      |
+| **2**   |      |      |
+| **3**   |      |      |
+| **4**   |      |      |
+| **5**   |      |      |
+| **6**   |      |      |
+| **7**   |      |      |
+| **8**   |      |      |
+| **9**   |      |      |
+| **10**  |      |      |
+| **11**  |      |      |
+| **12**  |      |      |
+| **13**  |      |      |
+| **14**  |      |      |
+| **15**  |      |      |
+| **16**  |      |      |
+| **17**  |      |      |
+| **18**  |      |      |
+| **19**  |      |      |
+| **20**  |      |      |
+
+#### Blocked Paths
+
+|         |      |      |
+| ------- | ---- | ---- |
+| **d20** | **** | **** |
+| **1**   |      |      |
+| **2**   |      |      |
+| **3**   |      |      |
+| **4**   |      |      |
+| **5**   |      |      |
+| **6**   |      |      |
+| **7**   |      |      |
+| **8**   |      |      |
+| **9**   |      |      |
+| **10**  |      |      |
+| **11**  |      |      |
+| **12**  |      |      |
+| **13**  |      |      |
+| **14**  |      |      |
+| **15**  |      |      |
+| **16**  |      |      |
+| **17**  |      |      |
+| **18**  |      |      |
+| **19**  |      |      |
+| **20**  |      |      |
+
+### POIs, Expanded
+
+Starting with the POI nearest to the Heart, roll on the table appropriate to its type:
+
+#### Refuge
+
+|         |            |                             |
+| ------- | ---------- | --------------------------- |
+| **d20** | **Type**   | **Unique Element**          |
+| **1**   | Campground | Built Atop Ruins            |
+| **2**   | Caravan    | Factionally Divided         |
+| **3**   | City       | Well-defended               |
+| **4**   | Commune    | Trading Hub                 |
+| **5**   | Inn        | Reknowned Artisans          |
+| **6**   | Monastery  | High Population Density     |
+| **7**   | Outpost    | Ancient Buildings           |
+| **8**   | Prison     | Star Gate                   |
+| **9**   | Village    | Natural deposits            |
+| **10**  | Stronghold | A Haven to Outcasts         |
+| **11**  | Town       | Seat of Government          |
+| **12**  | Villa      | Technologically Advanced    |
+| **13**  | Fortress   | Impregnable Walls           |
+| **14**  | Academy    | Center of Learning          |
+| **15**  | Hamlet     | Close-knit Community        |
+| **16**  | Temple     | Ruled by a Powerful Faction |
+| **17**  | Port       | Ancient Archives            |
+| **18**  | Sanctuary  | Perpetually Revolves        |
+| **19**  | Farmstead  | Unusual Rulers              |
+| **20**  | Citadel    | Integration with Nature     |
+
+> This needs to be changed to diverge from the Heart table, or merged.
+
+#### Hazards
+
+|         |                       |
+| ------- | --------------------- |
+| **d12** | **Hazard**            |
+| **1**   | **Acid rain**         |
+| **2**   | **Avian predators**   |
+| **3**   | **Dense fog**         |
+| **4**   | **Drought**           |
+| **5**   | **Dust storms**       |
+| **6**   | **Flooding**          |
+| **7**   | **Molten lava**       |
+| **8**   | **Poisonous foliage** |
+| **9**   | **Toxic water**       |
+| **10**  | **Venomous insects**  |
+| **11**  | **Weak ground**       |
+| **12**  | **Wildfires**         |
+
+> To be expanded
+
+#### Landmarks
+
+|         |                         |                            |
+| ------- | ----------------------- | -------------------------- |
+| **d20** | **Landmark**            | **Feature**                |
+| **1**   | **Ancient tree**        | **Ancient library**        |
+| **2**   | **Enormous footprint**  | **Bloody battlefield**     |
+| **3**   | **Endless sinkholes**   | **Buried giant**           |
+| **4**   | **Fungus-covered well** | **Carnivorous plants**     |
+| **5**   | **Giant skeleton**      | **Cult ritual site**       |
+| **6**   | **Glimmering cave**     |                            |
+| **7**   | **Hot springs**         | **Frozen graveyard**       |
+| **8**   | **Mass grave**          | **Floating construct**     |
+| **9**   | **Misty waterfall**     | **Floating island**        |
+| **10**  | **Mysterious megalith** | **Home of the folk witch** |
+| **11**  | **Oddly-shaped lake**   | **Illusory city**          |
+| **12**  | **Petrified trees**     | **Irregular gravity**      |
+| **13**  |                         | **Misty crater**           |
+| **14**  |                         | **Phasal trading post**    |
+| **15**  |                         |                            |
+| **16**  |                         | **Purple geysers**         |
+| **17**  |                         | **Singing stones**         |
+| **18**  |                         | **Strange Vessel**         |
+| **19**  |                         | **Trash heap**             |
+| **20**  |                         |                            |
+
+> To be expanded
+
+#### Dungeons
+
+|         |                           |
+| ------- | ------------------------- |
+| **d12** | **Dungeons**              |
+| **1**   | **Ancient prison**        |
+| **2**   | **Collapsed aqueduct**    |
+| **3**   | **Crumbling tower**       |
+| **4**   | **Eroded arches**         |
+| **5**   | **Fallen obelisk**        |
+| **6**   | **Forsaken graveyard**    |
+| **7**   | **Neglected lighthouse**  |
+| **8**   | **Overgrown garden maze** |
+| **9**   | **Primeval stone circle** |
+| **10**  | **Rotted mill**           |
+| **11**  | **Swaying minaret**       |
+| **12**  | **Weathered temple**      |
+
+> To be expanded
+
+#### Lairs
+
+|         |                       |
+| ------- | --------------------- |
+| **d12** | **Lair**              |
+| **1**   | **Blighted cave**     |
+| **2**   | **Colossal hive**     |
+| **3**   | **Crumbling tower**   |
+| **4**   | **Hidden burrow**     |
+| **5**   | **Illusory shelter**  |
+| **6**   | **Massive tree**      |
+| **7**   | **Primitive bridge**  |
+| **8**   | **Rusted metal cube** |
+| **9**   | **Shallow island**    |
+| **10**  | **Derelict ship**     |
+| **11**  | **Sunken thicket**    |
+| **12**  | **Toxic quarry**      |
+
+> To be expanded
+
+## Paths Notes
 
 - Path Types
   - Loops
@@ -174,7 +356,7 @@ Roll 2d20 and combine the results.
   - Crossroads
   - \# of Paths
  
-## Points
+## Points Notes
 
   - How do we get there?
   - Who knows about it? 
@@ -191,27 +373,24 @@ Roll 2d20 and combine the results.
   - Dungeons
   - Refuge ("utilities")
 
-## Borders
+## Borders Notes
 
   - Elevation
   - Water
   - Biomie Edges
 
-## Barriers
+## Barriers Notes
+
   - Isolated
   - Seams
 
-## Regions
-
-## Landmarks
+## Landmarks Notes
 
 - Towns
 - Mounuments
 - Dangers
 - Ruins
 - Obstacles
-
-## Procedures
 
 ## Extras
 
