@@ -130,11 +130,34 @@ Roll 2d20 and combine the results.
 | **13**  | Fortress   | Impregnable Walls           |
 | **14**  | Academy    | Center of Learning          |
 | **15**  | Hamlet     | Close-knit Community        |
-| **16**  | Bazaar     | Ruled by a Powerful Faction |
+| **16**  | Temple     | Ruled by a Powerful Faction |
 | **17**  | Port       | Ancient Archives            |
 | **18**  | Sanctuary  | Perpetually Revolves        |
 | **19**  | Farmstead  | Unusual Rulers              |
 | **20**  | Citadel    | Integration with Nature     |
+
+## Procedures
+
+### The Heart
+
+- On a flat sheet of paper draw a circle. This is the Heart of your adventure site. 
+- From the Heart, create two to three distinct Paths:
+  - A line indicating an accessible Path.
+  - A dashed line indicating a _hidden_ Path.
+  - A line with an X over it indicating a _blocked_ Path.
+  - A line with a number on top indicating _elevation_.
+- At the terminus of each line, add a Point of Interest (POI):
+  - A circle to represent a _Refuge_ (town, city, farm, etc).
+  - A triangle to represent a _Landmark_ (rock formation, stone bridge, sinkhole).
+  - A diamond to represent a _Dungeon or Lair_ (cave, burrow, crypt).
+- From each POI add a new Path, terminating in a new POI _or_ connecting to an existing POI.
+- Create a single POI on the map that is not connected to any Path.
+- Finally number each POI, starting with the Heart and ending with the standalone POI.
+
+> At this time, don't focus too much on the specific traits of any Path or POI, as they will be decided later. That includes distance, path types (i.e. trails, roads, rivers, etc.) and refuge details.
+
+
+### Points
 
 ## Paths
 
@@ -162,8 +185,8 @@ Roll 2d20 and combine the results.
   - Hostility
   - Uniqueness
 - Point Types
-  - Towns
-  - Natural Features
+  - Refuge
+  - Landmarks
   - Lairs
   - Dungeons
   - Refuge ("utilities")
@@ -236,7 +259,7 @@ Roll 2d20 and combine the results.
 - **Type**: Academy
 - **Unique Element**: Center of Learning
 
-A heavily forested area, pock-marked by meteors. The people there are inventive, but seek recognition. They have an abundance of food but leather is a rare commodity (perhaps there is little farmland there, and the food comes from the forest itself?). Their Heart is a school, a center for learning in the region. Somehow it does not receive the recognition it deserves, however.
+_A heavily forested area, pock-marked by meteors. The people there are inventive, but seek recognition. They have an abundance of food but leather is a rare commodity (perhaps there is little farmland there, and the food comes from the forest itself?). Their Heart is a school, a center for learning in the region. Somehow it does not receive the recognition it deserves, however._
 
 **Topography**
 - **Terrain**: Oasis **(E)**
@@ -254,7 +277,7 @@ A heavily forested area, pock-marked by meteors. The people there are inventive,
 - **Type**: Farmstead
 - **Unique Element**: Unusual Rulers
 
-An archipelago, uniquely vibrant in a sea of dead islands. Protected by vast coral reefs, the people there are cunning to fault, and follow their ruler's orders without flinching.. Their kingdom is wrought from stone, surrounded by water farms. Their master is an ancient demigod made of coral.
+_An archipelago, uniquely vibrant in a sea of dead islands. Protected by vast coral reefs, the people there are cunning to fault, and follow their ruler's orders without flinching.. Their kingdom is wrought from stone, surrounded by water farms. Their master is an ancient demigod made of coral._
 
 **Topography**
 Terrain: Rivers (T)
@@ -272,7 +295,7 @@ Scarcity: Spices
 Type: City
 Unique Element: Well-defended
 
-A kingdom of rivers separated by mudflats. Highly religious, the people there seek recognition for their piety. Land is plentiful here, though trading is down these many years, making spice a very valuable commodity. The capital is a medium-sized city strategically placed for optimal defense.
+_A kingdom of rivers separated by mudflats. Highly religious, the people there seek recognition for their piety. Land is plentiful here, though trading is down these many years, making spice a very valuable commodity. The capital is a medium-sized city strategically placed for optimal defense._
 
 ### More examples
 
