@@ -145,18 +145,17 @@ The **Heart** is always a **Refuge** of some kind, a place of relative calm and 
 ## The Map
 
 - On a flat sheet of paper draw a circle. This is the Heart of your adventure site. 
-- From the Heart, create two to three distinct Paths:
-  - A line indicating an accessible Path.
+- From the Heart, draw four distinct Paths:
+  - A bold line indicating an accessible Path.
   - A dashed line indicating a _hidden_ Path.
   - A line with an X over it indicating a _blocked_ Path.
-  - A line with a number on top indicating _elevation_.
+  - A line with a number on top (1-4) indicating _elevation_.
 - At the terminus of each line, add a Point of Interest (POI):
   - A circle to represent a _refuge_ (town, city, farm, etc).
-  - A triangle to represent a _landmark or hazard_ (rock formation, stone bridge, sinkhole).
-  - A diamond to represent a _dungeon or lair_ (cave, burrow, crypt).
+  - A triangle to represent a _landmark or hazard_ (rock formation, stone bridge, sinkhole, etc.).
+  - A diamond to represent a _dungeon or lair_ (cave, burrow, crypt, etc.).
 - From each POI add a new Path, terminating in a new POI _or_ connecting to an existing POI.
-- Create a single POI on the map that is not connected to any Path.
-- Finally number each POI, starting with the Heart and ending with the standalone POI.
+- Number each POI, starting with the Heart and ending with the standalone POI.
 
 > At this time, don't focus too much on the specific traits of any Path or POI, as those will be decided later. That includes distance, path types (i.e. trails, roads, rivers, etc.) and refuge details.
 
@@ -402,58 +401,6 @@ Starting with the POI nearest to the Heart, roll on the table appropriate to its
 | **20**  |                       |
 
 > To be expanded
-
-## Paths Notes
-
-- Path Types
-  - Loops
-  - Dead-ends
-  - Elevation
-  - Chains/Segments
-  - Environment
-  - Annotations
-- Path Relationships
-  - Remote
-  - Passing Sights
-  - Crossroads
-  - \# of Paths
- 
-## Points Notes
-
-  - How do we get there?
-  - Who knows about it? 
-  - What are the risks?
-  - Who lives there?
-  - Time/Duration
-  - Complexity
-  - Hostility
-  - Uniqueness
-- Point Types
-  - Refuge
-  - Landmarks
-  - Lairs
-  - Dungeons
-  - Refuge ("utilities")
-
-## Borders Notes
-
-  - Elevation
-    - 0 (lowlands), 1 (montane), 2 (subalpine), 3 (alpine), 4 (summit).
-  - Water
-  - Biomie Edges
-
-## Barriers Notes
-
-  - Isolated
-  - Seams
-
-## Landmarks Notes
-
-- Towns
-- Mounuments
-- Dangers
-- Ruins
-- Obstacles
 
 ## Extras
 

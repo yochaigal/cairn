@@ -1,0 +1,52 @@
+
+## Paths Notes
+
+- Path Types
+  - Loops
+  - Dead-ends
+  - Elevation
+  - Chains/Segments
+  - Environment
+  - Annotations
+- Path Relationships
+  - Remote
+  - Passing Sights
+  - Crossroads
+  - \# of Paths
+ 
+## Points Notes
+
+  - How do we get there?
+  - Who knows about it? 
+  - What are the risks?
+  - Who lives there?
+  - Time/Duration
+  - Complexity
+  - Hostility
+  - Uniqueness
+- Point Types
+  - Settlement
+  - Landmarks
+  - Lairs
+  - Dungeons
+  - Refuge ("utilities")
+
+## Borders Notes
+
+  - Elevation
+    - 0 (lowlands), 1 (montane), 2 (subalpine), 3 (alpine), 4 (summit).
+  - Water
+  - Biomie Edges
+
+## Barriers Notes
+
+  - Isolated
+  - Seams
+
+## Landmarks Notes
+
+- Towns
+- Mounuments
+- Dangers
+- Ruins
+- Obstacles
