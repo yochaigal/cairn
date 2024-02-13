@@ -145,7 +145,8 @@ The **Heart** is always a **Refuge** of some kind, a place of relative calm and 
 ## The Map
 
 - On a flat sheet of paper draw a circle. This is the Heart of your adventure site. 
-- From the Heart, draw four distinct Paths:
+- Roll 1d4 and write the resulting numbers around the Heart as if it were a clock face. 
+- Starting with the lowest number, draw any combination of the following Paths:
   - A bold line indicating an accessible Path.
   - A dashed line indicating a _hidden_ Path.
   - A line with an X over it indicating a _blocked_ Path.
@@ -159,7 +160,7 @@ The **Heart** is always a **Refuge** of some kind, a place of relative calm and 
 
 > At this time, don't focus too much on the specific traits of any Path or POI, as those will be decided later. That includes distance, path types (i.e. trails, roads, rivers, etc.) and refuge details.
 
-### Paths, Expanded
+### Paths
  
  - Starting from the Heart, select a Path. 
    - If it is _accessible_, roll 2d6 on the [Accessible Paths](#accessible-paths) table.
