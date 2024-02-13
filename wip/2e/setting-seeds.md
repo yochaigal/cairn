@@ -163,11 +163,38 @@ The **Heart** is always a **Refuge** of some kind, a place of relative calm and 
 ### Paths, Expanded
  
  - Starting from the Heart, select a Path. 
-   - If it is _accessible_, determine whether it should be a road, trail, or river. 
-   - If it is _hidden_, roll on the [Hidden Paths](#hidden-paths) table or choose appropriate option.
-   - If it is _blocked_ roll on the [Blocked Paths](#blocked-paths) table or choose an appropriate option.
-   - If it is at a different _elevation_, roll on the [Topography](#topography) table or choose an appropriate option.
+   - If it is _accessible_, roll 2d6 on the [Accessible Paths](#accessible-paths) table.
+   - If it is _hidden_, roll 2d6 on the [Hidden Paths](#hidden-paths) table or choose appropriate option.
+   - If it is _blocked_ roll 2d6 on the [Blocked Paths](#blocked-paths) table or choose an appropriate option.
+   - If it is at a different _elevation_, roll 2d4 on the [Elevated Paths](#elevated-paths) table or choose an appropriate option.
  - Continue the process until all of the Paths on the map have been created.
+
+#### Accessible Paths
+
+|         |      |      |
+| ------- | ---- | ---- |
+| **d20** | **** | **** |
+| **1**   |      |      |
+| **2**   |      |      |
+| **3**   |      |      |
+| **4**   |      |      |
+| **5**   |      |      |
+| **6**   |      |      |
+| **7**   |      |      |
+| **8**   |      |      |
+| **9**   |      |      |
+| **10**  |      |      |
+| **11**  |      |      |
+| **12**  |      |      |
+| **13**  |      |      |
+| **14**  |      |      |
+| **15**  |      |      |
+| **16**  |      |      |
+| **17**  |      |      |
+| **18**  |      |      |
+| **19**  |      |      |
+| **20**  |      |      |
+
 
 #### Hidden Paths
 
@@ -221,9 +248,20 @@ The **Heart** is always a **Refuge** of some kind, a place of relative calm and 
 | **19**  |      |      |
 | **20**  |      |      |
 
+#### Elevated Paths
+
+|        |           |              |
+| ------ | --------- | ------------ |
+| **d4** | **Type**  | **Features** |
+| **1**  | Lowlands  |              |
+| **2**  | Montane   |              |
+| **3**  | Subalpine |              |
+| **4**  | Alpine    |              |
+
+
 ### POIs, Expanded
 
-Starting with the POI nearest to the Heart, roll on the table appropriate to its type:
+Starting with the POI nearest to the Heart, roll on the table appropriate to its type for each:
 
 #### Refuge
 
@@ -255,21 +293,29 @@ Starting with the POI nearest to the Heart, roll on the table appropriate to its
 
 #### Hazards
 
-|         |                       |
-| ------- | --------------------- |
-| **d12** | **Hazard**            |
-| **1**   | **Acid rain**         |
-| **2**   | **Avian predators**   |
-| **3**   | **Dense fog**         |
-| **4**   | **Drought**           |
-| **5**   | **Dust storms**       |
-| **6**   | **Flooding**          |
-| **7**   | **Molten lava**       |
-| **8**   | **Poisonous foliage** |
-| **9**   | **Toxic water**       |
-| **10**  | **Venomous insects**  |
-| **11**  | **Weak ground**       |
-| **12**  | **Wildfires**         |
+|         |                       |     |
+| ------- | --------------------- | --- |
+| **d20** | **Hazard**            |     |
+| **1**   | **Acid rain**         |     |
+| **2**   | **Avian predators**   |     |
+| **3**   | **Dense fog**         |     |
+| **4**   | **Drought**           |     |
+| **5**   | **Dust storms**       |     |
+| **6**   | **Flooding**          |     |
+| **7**   | **Molten lava**       |     |
+| **8**   | **Poisonous foliage** |     |
+| **9**   | **Toxic water**       |     |
+| **10**  | **Venomous insects**  |     |
+| **11**  | **Weak ground**       |     |
+| **12**  | **Wildfires**         |     |
+| **13**  |                       |     |
+| **14**  |                       |     |
+| **15**  |                       |     |
+| **16**  |                       |     |
+| **17**  |                       |     |
+| **18**  |                       |     |
+| **19**  |                       |     |
+| **20**  |                       |     |
 
 > To be expanded
 
@@ -303,21 +349,29 @@ Starting with the POI nearest to the Heart, roll on the table appropriate to its
 
 #### Dungeons
 
-|         |                           |
-| ------- | ------------------------- |
-| **d12** | **Dungeons**              |
-| **1**   | **Ancient prison**        |
-| **2**   | **Collapsed aqueduct**    |
-| **3**   | **Crumbling tower**       |
-| **4**   | **Eroded arches**         |
-| **5**   | **Fallen obelisk**        |
-| **6**   | **Forsaken graveyard**    |
-| **7**   | **Neglected lighthouse**  |
-| **8**   | **Overgrown garden maze** |
-| **9**   | **Primeval stone circle** |
-| **10**  | **Rotted mill**           |
-| **11**  | **Swaying minaret**       |
-| **12**  | **Weathered temple**      |
+|         |                           |     |
+| ------- | ------------------------- | --- |
+| **d20** | **Dungeons**              |     |
+| **1**   | **Ancient prison**        |     |
+| **2**   | **Collapsed aqueduct**    |     |
+| **3**   | **Crumbling tower**       |     |
+| **4**   | **Eroded arches**         |     |
+| **5**   | **Fallen obelisk**        |     |
+| **6**   | **Forsaken graveyard**    |     |
+| **7**   | **Neglected lighthouse**  |     |
+| **8**   | **Overgrown garden maze** |     |
+| **9**   | **Primeval stone circle** |     |
+| **10**  | **Rotted mill**           |     |
+| **11**  | **Swaying minaret**       |     |
+| **12**  | **Weathered temple**      |     |
+| **13**  |                           |     |
+| **14**  |                           |     |
+| **15**  |                           |     |
+| **16**  |                           |     |
+| **17**  |                           |     |
+| **18**  |                           |     |
+| **19**  |                           |     |
+| **20**  |                           |     |
 
 > To be expanded
 
@@ -325,7 +379,7 @@ Starting with the POI nearest to the Heart, roll on the table appropriate to its
 
 |         |                       |
 | ------- | --------------------- |
-| **d12** | **Lair**              |
+| **d20** | **Lair**              |
 | **1**   | **Blighted cave**     |
 | **2**   | **Colossal hive**     |
 | **3**   | **Crumbling tower**   |
@@ -338,6 +392,14 @@ Starting with the POI nearest to the Heart, roll on the table appropriate to its
 | **10**  | **Derelict ship**     |
 | **11**  | **Sunken thicket**    |
 | **12**  | **Toxic quarry**      |
+| **13**  |                       |
+| **14**  |                       |
+| **15**  |                       |
+| **16**  |                       |
+| **17**  |                       |
+| **18**  |                       |
+| **19**  |                       |
+| **20**  |                       |
 
 > To be expanded
 
@@ -376,6 +438,7 @@ Starting with the POI nearest to the Heart, roll on the table appropriate to its
 ## Borders Notes
 
   - Elevation
+    - 0 (lowlands), 1 (montane), 2 (subalpine), 3 (alpine), 4 (summit).
   - Water
   - Biomie Edges
 
