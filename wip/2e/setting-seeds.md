@@ -28,7 +28,6 @@ search_exclude: true
 
 Roll 2d20 and combine the results.
 
-
 |         |                   |                    |
 | ------- | ----------------- | ------------------ |
 | **d20** | **Terrain**       | **Feature**        |
@@ -137,14 +136,6 @@ Roll 2d20 and combine the results.
 | **19**  | Farmstead  | Unusual Rulers              |
 | **20**  | Citadel    | Integration with Nature     |
 
-#### Example Themes
-
-- A vast tundra of glaciers, ice caves, and beasts long forgotten. Small settlements dot the frozen landscape, competing for food, warmth, and mates. A newly-appointed clan chief is uniting formerly warring tribes, building an army greater than any seen before. Now, their forces are digging into the Star Ridge mountains, searching the icy rivers for something - or someone -long-thought lost to time.
-- Within a manufactured dome of alien technology, people live in relative harmony, united by the Benefactor, an immortal entity of powerful knowledge and perception. Crime is nearly obselete, as the Benefactor arrests its perpetrators before even their own intentions are known to themselves. There are those who say this system is unfair, organizing in secret to overthrow their perfect leader. Or so they think...
-- Seven warring kingdoms jostle for a single landmass in an endless war. The greatest of these nations were corrupted from within, destroying a thousand-year old regime in a matter of months. Now their former enemies comb the lands of this once glorious nation, searching its bloated corpse for whatever riches may remain, all the while wondering who will be next?
-- An archipelago boasting thousands of small islands, their biomes equally as diverse as their animals and plant life. Rival factions ride the crimson seas in search of a holy artifact that is prophesized to unite not only the broken clans, but the earth itself. 
-- A post-apocalyptic wasteland littered with ancient technology, derelict sky-ships, and ruled by the Time Wizards. Cracked deserts and spiral forests encroach the last megacity, the only true respite from their cruelty. 
-
 ## Paths
 
 - Path Types
@@ -199,7 +190,9 @@ Roll 2d20 and combine the results.
 
 ## Procedures
 
-#### Empty Table
+## Extras
+
+### Empty Table
 
 |         |      |      |
 | ------- | ---- | ---- |
@@ -224,3 +217,67 @@ Roll 2d20 and combine the results.
 | **18**  |      |      |
 | **19**  |      |      |
 | **20**  |      |      |
+
+### Example Themes
+
+**Topography**
+- **Terrain**: Forests **(T)**
+- **Feature**: Meteorites
+
+**People**
+- **Aspect**: Inventive
+- **Ambition**: Recognition
+
+**Resources**
+- **Abundance**: Food
+- **Scarcity**: Leather
+
+**Heart**
+- **Type**: Academy
+- **Unique Element**: Center of Learning
+
+A heavily forested area, pock-marked by meteors. The people there are inventive, but seek recognition. They have an abundance of food but leather is a rare commodity (perhaps there is little farmland there, and the food comes from the forest itself?). Their Heart is a school, a center for learning in the region. Somehow it does not receive the recognition it deserves, however.
+
+**Topography**
+- **Terrain**: Oasis **(E)**
+- **Feature**: Coral Reefs
+
+**People**
+- **Aspect**: Devious
+- **Ambition**: Fealty
+
+**Resources**
+- **Abundance**: Stone
+- **Scarcity**: Ore
+
+**Heart**
+- **Type**: Farmstead
+- **Unique Element**: Unusual Rulers
+
+An archipelago, uniquely vibrant in a sea of dead islands. Protected by vast coral reefs, the people there are cunning to fault, and follow their ruler's orders without flinching.. Their kingdom is wrought from stone, surrounded by water farms. Their master is an ancient demigod made of coral.
+
+**Topography**
+Terrain: Rivers (T)
+Feature: Mudflats
+
+**People**
+Aspect: Religious
+Ambition: Recognition
+
+**Resources**
+Abundance: Land
+Scarcity: Spices
+
+**Heart**
+Type: City
+Unique Element: Well-defended
+
+A kingdom of rivers separated by mudflats. Highly religious, the people there seek recognition for their piety. Land is plentiful here, though trading is down these many years, making spice a very valuable commodity. The capital is a medium-sized city strategically placed for optimal defense.
+
+### More examples
+
+- A vast tundra of glaciers, ice caves, and beasts long forgotten. Small settlements dot the frozen landscape, competing for food, warmth, and mates. A newly-appointed clan chief is uniting formerly warring tribes, building an army greater than any seen before. Now, their forces are digging into the Star Ridge mountains, searching the icy rivers for something - or someone -long-thought lost to time.
+- Within a manufactured dome of alien technology, people live in relative harmony, united by the Benefactor, an immortal entity of powerful knowledge and perception. Crime is nearly obselete, as the Benefactor arrests its perpetrators before even their own intentions are known to themselves. There are those who say this system is unfair, organizing in secret to overthrow their perfect leader. Or so they think...
+- Seven warring kingdoms jostle for a single landmass in an endless war. The greatest of these nations were corrupted from within, destroying a thousand-year old regime in a matter of months. Now their former enemies comb the lands of this once glorious nation, searching its bloated corpse for whatever riches may remain, all the while wondering who will be next?
+- An archipelago boasting thousands of small islands, their biomes equally as diverse as their animals and plant life. Rival factions ride the crimson seas in search of a holy artifact that is prophesized to unite not only the broken clans, but the earth itself. 
+- A post-apocalyptic wasteland littered with ancient technology, derelict sky-ships, and ruled by the Time Wizards. Cracked deserts and spiral forests encroach the last megacity, the only true respite from their cruelty. 
