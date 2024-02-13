@@ -442,13 +442,13 @@ Starting with the POI nearest to the Heart, roll on the table appropriate to its
 
 **Resources**
 - **Abundance**: Food
-- **Scarcity**: Leather
+- **Scarcity**: Textiles
 
 **Heart**
 - **Type**: Academy
 - **Unique Element**: Center of Learning
 
-_A heavily forested area, pock-marked by meteors. The people there are inventive, but seek recognition. They have an abundance of food but leather is a rare commodity (perhaps there is little farmland there, and the food comes from the forest itself?). Their Heart is a school, a center for learning in the region. Somehow it does not receive the recognition it deserves, however._
+_A heavily forested area, pock-marked by meteors. The people there are inventive, but seek recognition. They have an abundance of food but textiles are a rare commodity. Their Heart is a school, a center for learning in the region. Somehow it does not receive the recognition it deserves, however._
 
 **Topography**
 - **Terrain**: Oasis **(E)**
@@ -466,7 +466,7 @@ _A heavily forested area, pock-marked by meteors. The people there are inventive
 - **Type**: Farmstead
 - **Unique Element**: Unusual Rulers
 
-_An archipelago, uniquely vibrant in a sea of dead islands. Protected by vast coral reefs, the people there are cunning to fault, and follow their ruler's orders without flinching.. Their kingdom is wrought from stone, surrounded by water farms. Their master is an ancient demigod made of coral._
+_An archipelago, uniquely vibrant in a sea of dead islands. Protected by vast coral reefs, the people there are cunning to fault, and follow their ruler's orders without flinching. Their kingdom is wrought from stone, surrounded by seaweed farms. Their master is an ancient demigod made of coral._
 
 **Topography**
 Terrain: Rivers (T)
