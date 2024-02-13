@@ -155,7 +155,7 @@ The **Heart** is always a **Refuge** of some kind, a place of relative calm and 
   - A triangle to represent a _landmark or hazard_ (rock formation, stone bridge, sinkhole, etc.).
   - A diamond to represent a _dungeon or lair_ (cave, burrow, crypt, etc.).
 - From each POI add a new Path, terminating in a new POI _or_ connecting to an existing POI.
-- Number each POI, starting with the Heart and ending with the standalone POI.
+- Number each POI, starting with the Heart.
 
 > At this time, don't focus too much on the specific traits of any Path or POI, as those will be decided later. That includes distance, path types (i.e. trails, roads, rivers, etc.) and refuge details.
 
@@ -166,7 +166,7 @@ The **Heart** is always a **Refuge** of some kind, a place of relative calm and 
    - If it is _hidden_, roll 2d6 on the [Hidden Paths](#hidden-paths) table or choose appropriate option.
    - If it is _blocked_ roll 2d6 on the [Blocked Paths](#blocked-paths) table or choose an appropriate option.
    - If it is at a different _elevation_, roll 2d4 on the [Elevated Paths](#elevated-paths) table or choose an appropriate option.
- - Continue the process until all of the Paths on the map have been created.
+ - Continue this process until all of the Paths on the map have been created.
 
 #### Accessible Paths
 
