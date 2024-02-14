@@ -141,58 +141,50 @@ Points of Interest on a map (or POIs) are generally divided into three categorie
 - **Landmarks** or **Hazard**: A significant geographic signpost or hazard.
 - **Lairs** or **Dungeons**: An explicitly dangerous adventure site.
 
-Paths that connect POIs can be divided into two types:  
-- _Accessible_ paths are known by the PCs _and_ easily traversable. They always appear on in-world maps.
-- _Conditional_ paths are more difficult to traverse, requiring knowledge, time, tools, effort, and so on. These might require climbing, fording a river, or careful navigation. Some conditional paths may lead to POIs that allow the PCs to see more of the world than what appears on their map.
+### Paths
+
+Some paths may lead to POIs that allow the PCs to see more of the world than what appears on their map.
+
+- **Barrier**: A change in the biome's terrain that slows down or completely blocks further travel. Examples can include rivers, changes in elevation, thickly-grown trees, sinkholes, and more. 
+- **Chain**: The path is a segment in a series, typically tied to terrain (mountain passes, rivers, trade routes, etc.).
+- **Dead End**: Leads to a remote or isolated location.
+- **Encounter**: The risk of peril is increased. Roll on the Wilderness Event table an extra time, and the chance of getting lost increases by a step.
+- **Hidden**: A path not appearing on any known maps. Learning about them always require some kind of cost. Additionally, chance of getting lost increases by a step.
+- **Shortcut**: A path that provides a significant boost in speed to an existing POI.
 
 ### The Basics
 
 - On a flat sheet of paper draw a circle. This is the Heart of your adventure site. 
 - Roll 4d12 and write the results around the circle as if it were a clock face. Ignore any duplicates. 
-- Starting with the lowest result, draw any combination of the following Paths:
-  - A bold line indicating an _accessible_ path.
-  - A crossed line indicating a _conditional_ path.
+- Roll on the [Path Types](#path-types) table and draw the result, starting with the earliest time on the clock. 
+  - Denote the path type as R (road), T (trail) and W (wilderness), as well as its individual features according to the [Legend](#legend) below.
 - At the terminus of each line, add a Point of Interest (POI):
   - A circle indicating a _refuge_ (a town, a city, a farm, etc).
   - A triangle indicating a _landmark_ or _hazard_ (a rock formation, a stone bridge, a sinkhole, etc.).
   - A diamond indicating a _dungeon_ or _lair_ (a cave, a burrow, a crypt, etc.).
-- From each POI add a _new _path, terminating in a new POI _or_ connecting to an existing POI.
+- From each POI, roll on the [Path Types](#path-types) table again and draw the results.
+- [Roll on the appropriate table for each POI]
 - Number each POI, starting with the Heart.
 
-> We can assume that all paths are one Watch long for this procedure, but if you'd like to make them longer, make sure to place more POIs along the way! Also, don't focus too much on the specific traits of any Path or POI, at this time. That includes distance, path types (i.e. trails, roads, rivers, etc.) and other details (towns, dungeons, etc.).
+> We can assume that all paths are one Watch long for this procedure, but if you'd like to make them longer, make sure to place more POIs along the way! Also, don't focus too much on the specific traits of any Path or POI, at this time. That includes distance, path types (i.e. trails, roads, rivers, etc.) and other details (towns, dungeons, etc.). 
 
-### Paths
- 
-- Assign path a _type_: roads, trails, or wilderness, denoted by an R, a T, or a W along the line.
-- For each _conditional_ path, roll 2d6 on the [Conditional Paths](#conditional-paths) table. 
-  - 
-- Continue this process until all of the Paths on the map have been assigned a ___.
- 
-
-#### Conditional Paths
+#### Path Types
 
 Roll 2d6 and combine the results.
 
-|        |             |      |
-| ------ | ----------- | ---- |
-| **d6** | **Type** | **Feature** |
-| **1**  | Barrier     |      |
-| **2**  | Chain       |      |
-| **3**  | Dead End    |      |
-| **4**  | Encounter   |      |
-| **5**  | Hidden      |      |
-| **6**  | Shortcut    |      |
+|        |            |             |
+| ------ | ---------- | ----------- |
+| **d6** | **Type**   | **Feature** |
+| **1**  | Road       | Barrier     |
+| **2**  | Trail      | Chain       |
+| **3**  | Wilderness | Dead End    |
+| **4**  | Road       | Encounter   |
+| **5**  | Trail      | Hidden      |
+| **6**  | Wilderness | Shortcut    |
 
-##### Conditional Path Features
+#### Legend
 
-
-- Barrier: A change in the biome's terrain that slows down or completely blocks further travel. Examples can include rivers, changes in elevation, thickly-grown trees, sinkholes, and more. 
-- Chain: One segment in a part of a series, typically tied to terrain (mountain passes, rivers, trade routes, etc.).
-- Dead End: Leads to a remote or isolated location.
-- Encounter: The risk of peril is increased. Roll on the Wilderness Event table an extra time, and the chance of getting lost increases by a step.
-- Hidden: A path not appearing on any known maps. Learning about them always require some kind of cost. Additionally, chance of getting lost increases by a step.
-- Shortcut: A path that provides a significant boost in speed to an existing POI.
-
+[![Alt text](/img/2e/legend.png "Click to embiggen"){:height="80%" width="80%"}](/img/2e/legend.png)
 
 ### POIs, Expanded
 
