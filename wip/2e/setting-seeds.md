@@ -177,29 +177,29 @@ Roll 2d20 and combine the results.
 
 Roll 2d20 and combine the results.
 
-|         |            |     |
-| ------- | ---------- | --- |
-| **d20** | **POI**    |     |
-| **1**   | Settlement |     |
-| **2**   | Landmark   |     |
-| **3**   | Hazard     |     |
-| **4**   | Ruins      |     |
-| **5**   | Ruins      |     |
-| **6**   | Lair       |     |
-| **7**   | Lair       |     |
-| **8**   | Ruins      |     |
-| **9**   | Landmark   |     |
-| **10**  | Refuge     |     |
-| **11**  | Lair       |     |
-| **12**  | Ruins      |     |
-| **13**  | Ruins      |     |
-| **14**  | Ruins      |     |
-| **15**  | Ruins      |     |
-| **16**  | Lair       |     |
-| **17**  | Hazard     |     |
-| **18**  | Refuge     |     |
-| **19**  | Refuge     |     |
-| **20**  | Ruins      |     |
+|         |            |             |
+| ------- | ---------- | ----------- |
+| **d20** | **POI**    | **Feature** |
+| **1**   | Settlement |             |
+| **2**   | Landmark   |             |
+| **3**   | Hazard     |             |
+| **4**   | Ruins      |             |
+| **5**   | Ruins      |             |
+| **6**   | Lair       |             |
+| **7**   | Lair       |             |
+| **8**   | Ruins      |             |
+| **9**   | Landmark   |             |
+| **10**  | Refuge     |             |
+| **11**  | Lair       |             |
+| **12**  | Ruins      |             |
+| **13**  | Ruins      |             |
+| **14**  | Ruins      |             |
+| **15**  | Ruins      |             |
+| **16**  | Lair       |             |
+| **17**  | Hazard     |             |
+| **18**  | Refuge     |             |
+| **19**  | Refuge     |             |
+| **20**  | Ruins      |             |
 
 #### Legend
 
@@ -213,7 +213,7 @@ Roll 2d20 and combine the results.
 
 |         |            |                             |
 | ------- | ---------- | --------------------------- |
-| **d20** | **Type**   | **Unique Element**          |
+| **d20** | **Type**   | **Feature**                 |
 | **1**   | Campground | Built Atop Ruins            |
 | **2**   | Caravan    | Factionally Divided         |
 | **3**   | City       | Well-defended               |
@@ -237,29 +237,29 @@ Roll 2d20 and combine the results.
 
 #### Hazards
 
-|         |                       |     |
-| ------- | --------------------- | --- |
-| **d20** | **Hazard**            |     |
-| **1**   | **Acid rain**         |     |
-| **2**   | **Avian predators**   |     |
-| **3**   | **Dense fog**         |     |
-| **4**   | **Drought**           |     |
-| **5**   | **Dust storms**       |     |
-| **6**   | **Flooding**          |     |
-| **7**   | **Molten lava**       |     |
-| **8**   | **Poisonous foliage** |     |
-| **9**   | **Toxic water**       |     |
-| **10**  | **Venomous insects**  |     |
-| **11**  | **Weak ground**       |     |
-| **12**  | **Wildfires**         |     |
-| **13**  |                       |     |
-| **14**  |                       |     |
-| **15**  |                       |     |
-| **16**  |                       |     |
-| **17**  |                       |     |
-| **18**  |                       |     |
-| **19**  |                       |     |
-| **20**  |                       |     |
+|         |                   |             |
+| ------- | ----------------- | ----------- |
+| **d20** | **Hazard**        | **Feature** |
+| **1**   | Acid rain         |             |
+| **2**   | Avian predators   |             |
+| **3**   | Dense fog         |             |
+| **4**   | Drought           |             |
+| **5**   | Dust storms       |             |
+| **6**   | Flooding          |             |
+| **7**   | Molten lava       |             |
+| **8**   | Poisonous foliage |             |
+| **9**   | Toxic water       |             |
+| **10**  | Venomous insects  |             |
+| **11**  | Weak ground       |             |
+| **12**  | Wildfires         |             |
+| **13**  |                   |             |
+| **14**  |                   |             |
+| **15**  |                   |             |
+| **16**  |                   |             |
+| **17**  |                   |             |
+| **18**  |                   |             |
+| **19**  |                   |             |
+| **20**  |                   |             |
 
 > To be expanded
 
@@ -293,57 +293,57 @@ Roll 2d20 and combine the results.
 
 #### Ruins
 
-|         |                           |     |
-| ------- | ------------------------- | --- |
-| **d20** | **Ruins**                 |     |
-| **1**   | **Ancient prison**        |     |
-| **2**   | **Collapsed aqueduct**    |     |
-| **3**   | **Crumbling tower**       |     |
-| **4**   | **Eroded arches**         |     |
-| **5**   | **Fallen obelisk**        |     |
-| **6**   | **Forsaken graveyard**    |     |
-| **7**   | **Neglected lighthouse**  |     |
-| **8**   | **Overgrown garden maze** |     |
-| **9**   | **Primeval stone circle** |     |
-| **10**  | **Rotted mill**           |     |
-| **11**  | **Swaying minaret**       |     |
-| **12**  | **Weathered temple**      |     |
-| **13**  |                           |     |
-| **14**  |                           |     |
-| **15**  |                           |     |
-| **16**  |                           |     |
-| **17**  |                           |     |
-| **18**  |                           |     |
-| **19**  |                           |     |
-| **20**  |                           |     |
+|         |                       |     |
+| ------- | --------------------- | --- |
+| **d20** | **Ruins**             |     |
+| **1**   | Ancient prison        |     |
+| **2**   | Collapsed aqueduct    |     |
+| **3**   | Crumbling tower       |     |
+| **4**   | Eroded arches         |     |
+| **5**   | Fallen obelisk        |     |
+| **6**   | Forsaken graveyard    |     |
+| **7**   | Neglected lighthouse  |     |
+| **8**   | Overgrown garden maze |     |
+| **9**   | Primeval stone circle |     |
+| **10**  | Rotted mill           |     |
+| **11**  | Swaying minaret       |     |
+| **12**  | Weathered temple      |     |
+| **13**  |                       |     |
+| **14**  |                       |     |
+| **15**  |                       |     |
+| **16**  |                       |     |
+| **17**  |                       |     |
+| **18**  |                       |     |
+| **19**  |                       |     |
+| **20**  |                       |     |
 
 > To be expanded
 
 #### Lairs
 
-|         |                       |
-| ------- | --------------------- |
-| **d20** | **Lair**              |
-| **1**   | **Blighted cave**     |
-| **2**   | **Colossal hive**     |
-| **3**   | **Crumbling tower**   |
-| **4**   | **Hidden burrow**     |
-| **5**   | **Illusory shelter**  |
-| **6**   | **Massive tree**      |
-| **7**   | **Primitive bridge**  |
-| **8**   | **Rusted metal cube** |
-| **9**   | **Shallow island**    |
-| **10**  | **Derelict ship**     |
-| **11**  | **Sunken thicket**    |
-| **12**  | **Toxic quarry**      |
-| **13**  |                       |
-| **14**  |                       |
-| **15**  |                       |
-| **16**  |                       |
-| **17**  |                       |
-| **18**  |                       |
-| **19**  |                       |
-| **20**  |                       |
+|         |                   |             |
+| ------- | ----------------- | ----------- |
+| **d20** | **Lair**          | **Feature** |
+| **1**   | Blighted cave     |             |
+| **2**   | Colossal hive     |             |
+| **3**   | Crumbling tower   |             |
+| **4**   | Hidden burrow     |             |
+| **5**   | Illusory shelter  |             |
+| **6**   | Massive tree      |             |
+| **7**   | Primitive bridge  |             |
+| **8**   | Rusted metal cube |             |
+| **9**   | Shallow island    |             |
+| **10**  | Derelict ship     |             |
+| **11**  | Sunken thicket    |             |
+| **12**  | Toxic quarry      |             |
+| **13**  |                   |             |
+| **14**  |                   |             |
+| **15**  |                   |             |
+| **16**  |                   |             |
+| **17**  |                   |             |
+| **18**  |                   |             |
+| **19**  |                   |             |
+| **20**  |                   |             |
 
 > To be expanded
 
