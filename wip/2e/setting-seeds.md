@@ -17,8 +17,8 @@ search_exclude: true
 
 ## Create the Overarching Theme
 
- - Create the region's terrain and topographic features.
- - Create the civilization's defining aspects, as well as their ambitions.
+ - Create the region's major terrain and topographic features.
+ - Create the defining aspects of the people living their, as well as their ambitions.
  - What resources are in abundance, and what are scarce?
  - What makes up the heart of this region, and what problems to they have?
 
@@ -29,26 +29,26 @@ Roll 2d20 and combine the results.
 |         |                   |                    |
 | ------- | ----------------- | ------------------ |
 | **d20** | **Terrain**       | **Feature**        |
-| **1**   | Plains **(E)**    | Natural Bridges    |
-| **2**   | Oasis **(E)**     | Sinkholes          |
-| **3**   | Lakes **(T)**     | Islands            |
-| **4**   | Sea **(T)**       | Volcanoes          |
-| **5**   | Rivers **(T)**    | Wildfires          |
-| **6**   | Swamps **(P)**    | Glacial Melt       |
-| **7**   | Canyons **(E)**   | Geysers            |
-| **8**   | Cliffs **(T)**    | Mudflats           |
-| **9**   | Valley **(E)**    | Earthquakes        |
-| **10**  | Hills **(T)**     | Megaliths          |
-| **11**  | Mountains **(P)** | Permafrost         |
+| **1**   | Canyons **(E)**   | Natural Bridges    |
+| **2**   | Caverns **(P)**   | Sinkholes          |
+| **3**   | Cliffs **(T)**    | Crystal Growths    |
+| **4**   | Deserts **(T)**   | Volcanoes          |
+| **5**   | Forests **(T)**   | Wildfires          |
+| **6**   | Hills **(T)**     | Glacial Melt       |
+| **7**   | Hollows **(T)**   | Geysers            |
+| **8**   | Jungles **(P)**   | Mudflats           |
+| **9**   | Lakes **(T)**     | Earthquakes        |
+| **10**  | Mountains **(P)** | Megaliths          |
+| **11**  | Oasis **(E)**     | Permafog           |
 | **12**  | Plateaus **(E)**  | Celestial Displays |
-| **13**  | Hollows **(T)**   | Fossil Fields      |
-| **14**  | Wasteland **(P)** | Salt Flats         |
-| **15**  | Forests **(T)**   | Meteorites         |
-| **16**  | Thickets **(T)**  | Ice Caves          |
-| **17**  | Jungles **(P)**   | Sandstorms         |
+| **13**  | Plains **(E)**    | Fossil Fields      |
+| **14**  | Rivers **(T)**    | Salt Flats         |
+| **15**  | Sea **(T)**       | Meteorites         |
+| **16**  | Swamps **(P)**    | Ice Caves          |
+| **17**  | Thickets **(T)**  | Sandstorms         |
 | **18**  | Tundra **(T)**    | Underground Rivers |
-| **19**  | Deserts **(T)**   | Coral Reefs        |
-| **20**  | Caverns **(P)**   | Lava Fields        |
+| **19**  | Valley **(E)**    | Coral Reefs        |
+| **20**  | Wasteland **(P)** | Lava Fields        |
 
 ### People
 
@@ -143,27 +143,27 @@ Points of Interest on a map (or POIs) are generally divided into three categorie
 
 The paths that connect POIs them can be divided into four types:  
 - _Accessible Paths_ are known by the PCs _and_ accessible. They always appear on in-world maps.
-- _Elevated Paths_ are known by the PCs _and_ accessible, but crossing them comes at a higher cost. Climbing them may provide characters with the ability to see more of the world than what appears on an in-world map.
+- _Elevated Paths_ are similar to _accessible paths_ but crossing them usually comes at a higher cost (time, effort, etc.). Climbing them may also provide the characters with the ability to see _more_ of the world than what appears on an in-world map.
 - _Blocked Paths_ are known by the PCs but _not_ directly accessible. They may require special knowledge to bypass, or tools. They will appear on in-world maps.
 - _Hidden Paths_ are only known by some, and learning about them always require some kind of _cost_. They do not appear on in-world maps, though there may be hints or clues for those who know how to find them.
 
 ### The Basics
 
 - On a flat sheet of paper draw a circle. This is the Heart of your adventure site. 
-- Roll 4d12 and write the results around the circle as if it were a clock face. Do not reroll duplicates.  
-- Starting with the lowest number, draw any combination of the following Paths:
+- Roll 4d12 and write the results around the circle as if it were a clock face. Ignore any duplicates. 
+- Starting with the lowest result, draw any combination of the following Paths:
   - A bold line indicating an _accessible_ path.
-  - A dashed line indicating a _hidden_ path.
-  - A crossed line indicating a _blocked_ path.
   - A line with a star on top indicating an _elevated_ path.
+  - A crossed line indicating a _blocked_ path.
+  - A dashed line indicating a _hidden_ path.  
 - At the terminus of each line, add a Point of Interest (POI):
-  - A circle to represent a _refuge_ (a town, city, farm, etc).
-  - A triangle to represent a _landmark or hazard_ (a rock formation, stone bridge, sinkhole, etc.).
-  - A diamond to represent a _dungeon or lair_ (a cave, burrow, crypt, etc.).
-- From each POI add a new Path, terminating in a new POI _or_ connecting to an existing POI.
+  - A circle indicating a _refuge_ (a town, a city, a farm, etc).
+  - A triangle indicating a _landmark_ or _hazard_ (a rock formation, a stone bridge, a sinkhole, etc.).
+  - A diamond indicating a _dungeon_ or _lair_ (a cave, a burrow, a crypt, etc.).
+- From each POI add a new path, terminating in a new POI _or_ connecting to an existing POI.
 - Number each POI, starting with the Heart.
 
-> At this time, don't focus too much on the specific traits of any Path or POI, as those will be decided later. That includes distance, path types (i.e. trails, roads, rivers, etc.) and refuge details.
+> At this time, don't focus too much on the specific traits of any Path or POI, as those will be decided later. That includes distance, path types (i.e. trails, roads, rivers, etc.) and other details (towns, dungeons, etc.).
 
 ### Paths
  
@@ -171,27 +171,33 @@ The paths that connect POIs them can be divided into four types:
   - Mark the type and distance for each path on your map. For example, if the result is a medium-length road, write "M - Road"
   - Continue this process until all of the Paths on the map have been created.
 
-#### Path Types
+### Path Terrain
 
-|        |            |            |
-| ------ | ---------- | ---------- |
-| **d4** | **Length** | **Type**   |
-| **1**  | Short      | Trail      |
-| **2**  | Medium     | Road       |
-| **3**  | Long       | River      |
-| **4**  | Special    | Wilderness |
+Roll 2d20 and combine the results.
+|         |                   |     |
+| ------- | ----------------- | --- |
+| **d20** | **Terrain**       |     |
+| **1**   | Canyons **(E)**   |     |
+| **2**   | Caverns **(P)**   |     |
+| **3**   | Cliffs **(T)**    |     |
+| **4**   | Deserts **(T)**   |     |
+| **5**   | Forests **(T)**   |     |
+| **6**   | Hills **(T)**     |     |
+| **7**   | Hollows **(T)**   |     |
+| **8**   | Jungles **(P)**   |     |
+| **9**   | Lakes **(T)**     |     |
+| **10**  | Mountains **(P)** |     |
+| **11**  | Oasis **(E)**     |     |
+| **12**  | Plateaus **(E)**  |     |
+| **13**  | Plains **(E)**    |     |
+| **14**  | Rivers **(T)**    |     |
+| **15**  | Sea **(T)**       |     |
+| **16**  | Swamps **(P)**    |     |
+| **17**  | Thickets **(T)**  |     |
+| **18**  | Tundra **(T)**    |     |
+| **19**  | Valley **(E)**    |     |
+| **20**  | Wasteland **(P)** |     |
 
-#### Hidden Paths
-
-|         |      |      |
-| ------- | ---- | ---- |
-| **d20** | **** | **** |
-| **1**   |      |      |
-| **2**   |      |      |
-| **3**   |      |      |
-| **4**   |      |      |
-| **5**   |      |      |
-| **6**   |      |      |
 
 #### Blocked Paths
 
@@ -206,19 +212,19 @@ The paths that connect POIs them can be divided into four types:
 | **6**   |      |      |
 
 
-#### Elevated Paths
+#### Hidden Paths
 
-|              |           |                                                                   |
-| ------------ | --------- | ----------------------------------------------------------------- |
-| **Notation** | **Type**  | **Terrain**                                                       |
-| **1**        | Montane   | Plateau **(E)**, Valley **(E)**, hills **(T)**, mountains **(P)** |
-| **2**        | Subalpine | Forest **(T)**, thickets **(T)**, jungle **(P)**, hollows **(T)** |
-| **3**        | Alpine    | Caverns **(P)** canyons **(E)**, cliffs **(T)**, tundra **(T)**   |
+|         |      |      |
+| ------- | ---- | ---- |
+| **d20** | **** | **** |
+| **1**   |      |      |
+| **2**   |      |      |
+| **3**   |      |      |
+| **4**   |      |      |
+| **5**   |      |      |
+| **6**   |      |      |
 
 
-**Montane**: Starts where the forest line ends and extends up to the tree line, and is mostly forests and meadows.
-**Subalpine**: Just below the alpine zone, characterized by harsher conditions than the montane and often features shrubland, meadows, and sparse forests.
-**Alpine**: Above the tree line, this zone includes areas where trees cannot grow, featuring mostly grasslands, rocky terrain, and snowfields.
 
 ### POIs, Expanded
 
@@ -365,6 +371,31 @@ Starting with the POI nearest to the Heart, roll on the table appropriate to its
 > To be expanded
 
 ## Extras
+
+
+#### Path Terrain
+
+|        |            |            |
+| ------ | ---------- | ---------- |
+| **d4** | **Length** | **Type**   |
+| **1**  | Short      | Trail      |
+| **2**  | Medium     | Road       |
+| **3**  | Long       | River      |
+| **4**  | Special    | Wilderness |
+
+#### Elevated Paths
+
+|        |           |                                                                   |
+| ------ | --------- | ----------------------------------------------------------------- |
+| **d4** | **Type**  | **Terrain**                                                       |
+| **1**  | Montane   | Plateau **(E)**, valley **(E)**, hills **(T)**, mountains **(P)** |
+| **2**  | Subalpine | Forest **(T)**, thickets **(T)**, jungle **(P)**, hollows **(T)** |
+| **3**  | Alpine    | Caverns **(P)** canyons **(E)**, cliffs **(T)**, tundra **(T)**   |
+
+
+**Montane**: Starts where the forest line ends and extends up to the tree line, and is mostly forests and meadows.
+**Subalpine**: Just below the alpine zone, characterized by harsher conditions than the montane and often features shrubland, meadows, and sparse forests.
+**Alpine**: Above the tree line, this zone includes areas where trees cannot grow, featuring mostly grasslands, rocky terrain, and snowfields.
 
 ### Empty Table
 

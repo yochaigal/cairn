@@ -228,7 +228,6 @@ To help create your setting's theme, answer the following questions:
 | **11**  | **Weak ground**       |
 | **12**  | **Wildfires**         |
 
-
 #### Landmarks
 
 |         |                         |
