@@ -148,6 +148,7 @@ Points of Interest on a map (or POIs) are generally divided into three categorie
 
 Some paths may lead to POIs that allow the PCs to see more of the world than what appears on their map.
 
+- **Standard**: A path typical to the region, lacking in special features.
 - **Barrier**: A change in the biome's terrain that slows down or completely blocks further travel. Examples can include rivers, changes in elevation, thickly-grown trees, sinkholes, and more. 
 - **Chain**: The path is a segment in a series, typically tied to terrain (mountain passes, rivers, trade routes, etc.).
 - **Dead End**: Leads to a remote or isolated location.
@@ -159,13 +160,13 @@ Some paths may lead to POIs that allow the PCs to see more of the world than wha
 
 - On a flat sheet of paper draw a circle. This is the Heart of your adventure site. 
 - Roll 4d12 and write the results around the circle as if it were a clock face. Ignore any duplicates. 
-- Roll on the [Path Types](#path-types) table and draw the result, starting with the earliest time on the clock. 
-  - Denote the path type as R (road), T (trail) and W (wilderness)
-  - Draw the path's individual features according to the [Legend](#legend) below. 
-- Roll on the [POIs] table and add draw the result and at the terminus of each path.
-- For each POI, roll on the [Path Types](#path-types) table again and draw the result as before. 
-- Number each POI, starting with the Heart.
+- Roll on the [Path Types](#path-types) table and draw the results, starting with the earliest "hour" on the clock face. 
+  - Denote the path type as R (Road), T (Trail) and W (Wilderness)
+  - Draw the path's individual _Features_ according to the [Legend](#legend) below. 
+- Roll on the [POIs] table and draw the results at the terminus of each path.
+- For each POI, roll on the [Path Types](#path-types) table as before and draw the results. Ignore Dead Ends. 
 - [Roll on the appropriate table for each POI - ToDo]
+- Number each POI, starting with the Heart.
 
 > We can assume that all paths are one Watch long for this procedure, but if you'd like to make them longer, make sure to place more POIs along the way! 
 > Also, don't focus too much on the specific traits of any Path or POI, at this time. That includes distance, path types (i.e. trails, roads, rivers, etc.) and other details (towns, Ruins, etc.). 
