@@ -9,14 +9,6 @@ search_exclude: true
 
 # Setting Seeds
 
-## Introduction
-
-Points on a map are generally divided into three categories:
-
-- **Refuge**: A town, temple, or place of shelter.
-- **Landmarks** or **Hazard**: A significant geographic signpost or hazard.
-- **Lairs** or **Dungeons**: An explicitly dangerous adventure site.
-
 ## Overview
 
 1. Create the region's topography, people, resources, and heart.
@@ -144,6 +136,12 @@ The **Heart** is always a **Refuge** of some kind, a place of relative calm and 
 
 ## The Map
 
+Points on a map are generally divided into three categories:
+
+- **Refuge**: A town, temple, or place of shelter.
+- **Landmarks** or **Hazard**: A significant geographic signpost or hazard.
+- **Lairs** or **Dungeons**: An explicitly dangerous adventure site.
+
 - On a flat sheet of paper draw a circle. This is the Heart of your adventure site. 
 - Roll 4d12 and write the results around the circle as if it were a clock face. Do not reroll duplicates.  
 - Starting with the lowest number, draw any combination of the following Paths:
@@ -194,7 +192,6 @@ The **Heart** is always a **Refuge** of some kind, a place of relative calm and 
 | **18**  |      |      |
 | **19**  |      |      |
 | **20**  |      |      |
-
 
 #### Hidden Paths
 
@@ -248,17 +245,19 @@ The **Heart** is always a **Refuge** of some kind, a place of relative calm and 
 | **19**  |      |      |
 | **20**  |      |      |
 
-
 #### Elevated Paths
 
-|     |           |                                                                                                           |
-| --- | --------- | --------------------------------------------------------------------------------------------------------- |
-|     | **Type**  | **Terrain**                                                                                               |
-| 1   | Lowlands  | Plains (E), Grasslands (E), Farmlands (E), Oasis (E), Lakes (T), Sea (T), River (T), Bog (T), Beaches (E) |
-| 2   | Montane   | Forest (T), Thickets (T), Valley (E), Hills (T), Swamps (P), Canyons (E), Cliffs (T)                      |
-| 3   | Subalpine | Plateau (E), Hollows (T), Mountains (P), Jungle (P)                                                       |
-| 4   | Alpine    | Tundra (T), Desert (T), Caverns (P), Wasteland (P)                                                        |
+|              |           |                                                                   |
+| ------------ | --------- | ----------------------------------------------------------------- |
+| **Notation** | **Type**  | **Terrain**                                                       |
+| **1**        | Montane   | Plateau **(E)**, Valley **(E)**, hills **(T)**, mountains **(P)** |
+| **2**        | Subalpine | Forest **(T)**, thickets **(T)**, jungle **(P)**, hollows **(T)** |
+| **3**        | Alpine    | Caverns **(P)** canyons **(E)**, cliffs **(T)**, tundra **(T)**   |
 
+
+**Montane**: Starts where the forest line ends and extends up to the tree line, and is mostly forests and meadows.
+**Subalpine**: Just below the alpine zone, characterized by harsher conditions than the montane and often features shrubland, meadows, and sparse forests.
+**Alpine**: Above the tree line, this zone includes areas where trees cannot grow, featuring mostly grasslands, rocky terrain, and snowfields.
 
 ### POIs, Expanded
 

@@ -74,8 +74,8 @@ To help create your setting's theme, answer the following questions:
 | **4**  | Beaches **(E)**, canyons **(E)**, cliffs **(T)**      |
 | **5**  | Valley **(E)**, hills **(T)**, mountains **(P)**      |
 | **6**  | Plateau **(E)**, hollows  **(T)**, wasteland **(P)**  |
-| **7**  | Forest (**T**), thickets (**T**), jungle (**P**)      |
-| **8**  | Tundra (**T**), desert **(T)**, caverns **(P)**       |
+| **7**  | Forest **(T)**, thickets **(T)**, jungle **(P)**      |
+| **8**  | Tundra **(T)**, desert **(T)**, caverns **(P)**       |
 
 #### Seasons
 - Roll on the [Seasonal Weather](#seasonal-weather) table for the **Heart**. Repeat for each season.
