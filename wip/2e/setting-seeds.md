@@ -26,29 +26,29 @@ search_exclude: true
 
 Roll 2d20 and combine the results.
 
-|         |                   |                    |
-| ------- | ----------------- | ------------------ |
-| **d20** | **Terrain**       | **Feature**        |
-| **1**   | Canyons **(E)**   | Natural Bridges    |
-| **2**   | Caverns **(P)**   | Sinkholes          |
-| **3**   | Cliffs **(T)**    | Crystal Growths    |
-| **4**   | Deserts **(T)**   | Volcanoes          |
-| **5**   | Forests **(T)**   | Wildfires          |
-| **6**   | Hills **(T)**     | Glacial Melt       |
-| **7**   | Hollows **(T)**   | Geysers            |
-| **8**   | Jungles **(P)**   | Mudflats           |
-| **9**   | Lakes **(T)**     | Earthquakes        |
-| **10**  | Mountains **(P)** | Megaliths          |
-| **11**  | Oasis **(E)**     | Permafog           |
-| **12**  | Plateaus **(E)**  | Celestial Displays |
-| **13**  | Plains **(E)**    | Fossil Fields      |
-| **14**  | Rivers **(T)**    | Salt Flats         |
-| **15**  | Sea **(T)**       | Meteorites         |
-| **16**  | Swamps **(P)**    | Ice Caves          |
-| **17**  | Thickets **(T)**  | Sandstorms         |
-| **18**  | Tundra **(T)**    | Underground Rivers |
-| **19**  | Valley **(E)**    | Coral Reefs        |
-| **20**  | Wasteland **(P)** | Lava Fields        |
+|         |             |                    |
+| ------- | ----------- | ------------------ |
+| **d20** | **Terrain** | **Feature**        |
+| **1**   | Canyons     | Natural Bridges    |
+| **2**   | Caverns     | Sinkholes          |
+| **3**   | Cliffs      | Crystal Growths    |
+| **4**   | Deserts     | Volcanoes          |
+| **5**   | Forests     | Wildfires          |
+| **6**   | Hills       | Glacial Melt       |
+| **7**   | Hollows     | Geysers            |
+| **8**   | Jungles     | Mudflats           |
+| **9**   | Lakes       | Earthquakes        |
+| **10**  | Mountains   | Megaliths          |
+| **11**  | Oasis       | Permafog           |
+| **12**  | Plateaus    | Celestial Displays |
+| **13**  | Plains      | Fossil Fields      |
+| **14**  | Rivers      | Salt Flats         |
+| **15**  | Sea         | Meteorites         |
+| **16**  | Swamps      | Ice Caves          |
+| **17**  | Thickets    | Sandstorms         |
+| **18**  | Tundra      | Underground Rivers |
+| **19**  | Valley      | Coral Reefs        |
+| **20**  | Wasteland   | Lava Fields        |
 
 ### People
 
@@ -141,11 +141,9 @@ Points of Interest on a map (or POIs) are generally divided into three categorie
 - **Landmarks** or **Hazard**: A significant geographic signpost or hazard.
 - **Lairs** or **Dungeons**: An explicitly dangerous adventure site.
 
-The paths that connect POIs them can be divided into four types:  
-- _Accessible Paths_ are known by the PCs _and_ accessible. They always appear on in-world maps.
-- _Elevated Paths_ are similar to _accessible paths_ but crossing them usually comes at a higher cost (time, effort, etc.). Climbing them may also provide the characters with the ability to see _more_ of the world than what appears on an in-world map.
-- _Blocked Paths_ are known by the PCs but _not_ directly accessible. They may require special knowledge to bypass, or tools. They will appear on in-world maps.
-- _Hidden Paths_ are only known by some, and learning about them always require some kind of _cost_. They do not appear on in-world maps, though there may be hints or clues for those who know how to find them.
+Paths that connect POIs can be divided into two types:  
+- _Accessible_ paths are known by the PCs _and_ easily traversable. They always appear on in-world maps.
+- _Conditional_ paths are more difficult to traverse, requiring knowledge, time, tools, effort, and so on. These might require climbing, fording a river, or careful navigation. Some conditional paths may lead to POIs that allow the PCs to see more of the world than what appears on their map.
 
 ### The Basics
 
@@ -153,77 +151,47 @@ The paths that connect POIs them can be divided into four types:
 - Roll 4d12 and write the results around the circle as if it were a clock face. Ignore any duplicates. 
 - Starting with the lowest result, draw any combination of the following Paths:
   - A bold line indicating an _accessible_ path.
-  - A line with a star on top indicating an _elevated_ path.
-  - A crossed line indicating a _blocked_ path.
-  - A dashed line indicating a _hidden_ path.  
+  - A crossed line indicating a _conditional_ path.
 - At the terminus of each line, add a Point of Interest (POI):
   - A circle indicating a _refuge_ (a town, a city, a farm, etc).
   - A triangle indicating a _landmark_ or _hazard_ (a rock formation, a stone bridge, a sinkhole, etc.).
   - A diamond indicating a _dungeon_ or _lair_ (a cave, a burrow, a crypt, etc.).
-- From each POI add a new path, terminating in a new POI _or_ connecting to an existing POI.
+- From each POI add a _new _path, terminating in a new POI _or_ connecting to an existing POI.
 - Number each POI, starting with the Heart.
 
-> At this time, don't focus too much on the specific traits of any Path or POI, as those will be decided later. That includes distance, path types (i.e. trails, roads, rivers, etc.) and other details (towns, dungeons, etc.).
+> We can assume that all paths are one Watch long for this procedure, but if you'd like to make them longer, make sure to place more POIs along the way! Also, don't focus too much on the specific traits of any Path or POI, at this time. That includes distance, path types (i.e. trails, roads, rivers, etc.) and other details (towns, dungeons, etc.).
 
 ### Paths
  
- - Starting from the Heart, select a path and roll 2d4 on the [Path Types](#path-types) table, or choose an appropriate option.
-  - Mark the type and distance for each path on your map. For example, if the result is a medium-length road, write "M - Road"
-  - Continue this process until all of the Paths on the map have been created.
+- Assign path a _type_: roads, trails, or wilderness, denoted by an R, a T, or a W along the line.
+- For each _conditional_ path, roll 2d6 on the [Conditional Paths](#conditional-paths) table. 
+  - 
+- Continue this process until all of the Paths on the map have been assigned a ___.
+ 
 
-### Path Terrain
+#### Conditional Paths
 
-Roll 2d20 and combine the results.
-|         |                   |     |
-| ------- | ----------------- | --- |
-| **d20** | **Terrain**       |     |
-| **1**   | Canyons **(E)**   |     |
-| **2**   | Caverns **(P)**   |     |
-| **3**   | Cliffs **(T)**    |     |
-| **4**   | Deserts **(T)**   |     |
-| **5**   | Forests **(T)**   |     |
-| **6**   | Hills **(T)**     |     |
-| **7**   | Hollows **(T)**   |     |
-| **8**   | Jungles **(P)**   |     |
-| **9**   | Lakes **(T)**     |     |
-| **10**  | Mountains **(P)** |     |
-| **11**  | Oasis **(E)**     |     |
-| **12**  | Plateaus **(E)**  |     |
-| **13**  | Plains **(E)**    |     |
-| **14**  | Rivers **(T)**    |     |
-| **15**  | Sea **(T)**       |     |
-| **16**  | Swamps **(P)**    |     |
-| **17**  | Thickets **(T)**  |     |
-| **18**  | Tundra **(T)**    |     |
-| **19**  | Valley **(E)**    |     |
-| **20**  | Wasteland **(P)** |     |
+Roll 2d6 and combine the results.
+
+|        |             |      |
+| ------ | ----------- | ---- |
+| **d6** | **Type** | **Feature** |
+| **1**  | Barrier     |      |
+| **2**  | Chain       |      |
+| **3**  | Dead End    |      |
+| **4**  | Encounter   |      |
+| **5**  | Hidden      |      |
+| **6**  | Shortcut    |      |
+
+##### Conditional Path Features
 
 
-#### Blocked Paths
-
-|         |      |      |
-| ------- | ---- | ---- |
-| **d20** | **** | **** |
-| **1**   |      |      |
-| **2**   |      |      |
-| **3**   |      |      |
-| **4**   |      |      |
-| **5**   |      |      |
-| **6**   |      |      |
-
-
-#### Hidden Paths
-
-|         |      |      |
-| ------- | ---- | ---- |
-| **d20** | **** | **** |
-| **1**   |      |      |
-| **2**   |      |      |
-| **3**   |      |      |
-| **4**   |      |      |
-| **5**   |      |      |
-| **6**   |      |      |
-
+- Barrier: A change in the biome's terrain that slows down or completely blocks further travel. Examples can include rivers, changes in elevation, thickly-grown trees, sinkholes, and more. 
+- Chain: One segment in a part of a series, typically tied to terrain (mountain passes, rivers, trade routes, etc.).
+- Dead End: Leads to a remote or isolated location.
+- Encounter: The risk of peril is increased. Roll on the Wilderness Event table an extra time, and the chance of getting lost increases by a step.
+- Hidden: A path not appearing on any known maps. Learning about them always require some kind of cost. Additionally, chance of getting lost increases by a step.
+- Shortcut: A path that provides a significant boost in speed to an existing POI.
 
 
 ### POIs, Expanded
@@ -372,25 +340,14 @@ Starting with the POI nearest to the Heart, roll on the table appropriate to its
 
 ## Extras
 
-
-#### Path Terrain
-
-|        |            |            |
-| ------ | ---------- | ---------- |
-| **d4** | **Length** | **Type**   |
-| **1**  | Short      | Trail      |
-| **2**  | Medium     | Road       |
-| **3**  | Long       | River      |
-| **4**  | Special    | Wilderness |
-
 #### Elevated Paths
 
-|        |           |                                                                   |
-| ------ | --------- | ----------------------------------------------------------------- |
-| **d4** | **Type**  | **Terrain**                                                       |
-| **1**  | Montane   | Plateau **(E)**, valley **(E)**, hills **(T)**, mountains **(P)** |
-| **2**  | Subalpine | Forest **(T)**, thickets **(T)**, jungle **(P)**, hollows **(T)** |
-| **3**  | Alpine    | Caverns **(P)** canyons **(E)**, cliffs **(T)**, tundra **(T)**   |
+|        |           |                                     |
+| ------ | --------- | ----------------------------------- |
+| **d4** | **Type**  | **Terrain**                         |
+| **1**  | Montane   | Plateau , valley , hills, mountains |
+| **2**  | Subalpine | Forest, thickets, jungle, hollows   |
+| **3**  | Alpine    | Caverns canyons , cliffs, tundra    |
 
 
 **Montane**: Starts where the forest line ends and extends up to the tree line, and is mostly forests and meadows.
@@ -426,7 +383,7 @@ Starting with the POI nearest to the Heart, roll on the table appropriate to its
 ### Example Themes
 
 **Topography**
-- **Terrain**: Forests **(T)**
+- **Terrain**: Forests
 - **Feature**: Meteorites
 
 **People**
@@ -444,7 +401,7 @@ Starting with the POI nearest to the Heart, roll on the table appropriate to its
 _A heavily forested area, pock-marked by meteors. The people there are inventive, but seek recognition. They have an abundance of food but textiles are a rare commodity. Their Heart is a school, a center for learning in the region. Somehow it does not receive the recognition it deserves, however._
 
 **Topography**
-- **Terrain**: Oasis **(E)**
+- **Terrain**: Oasis 
 - **Feature**: Coral Reefs
 
 **People**
