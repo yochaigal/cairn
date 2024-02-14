@@ -145,16 +145,16 @@ The **Heart** is always a **Refuge** of some kind, a place of relative calm and 
 ## The Map
 
 - On a flat sheet of paper draw a circle. This is the Heart of your adventure site. 
-- Roll 1d4 and write the resulting numbers around the Heart as if it were a clock face. 
+- Roll 4d12 and write the results around the circle as if it were a clock face. Do not reroll duplicates.  
 - Starting with the lowest number, draw any combination of the following Paths:
   - A bold line indicating an accessible Path.
   - A dashed line indicating a _hidden_ Path.
-  - A line with an X over it indicating a _blocked_ Path.
+  - A crossed line indicating a _blocked_ Path.
   - A line with a number on top (1-4) indicating _elevation_.
 - At the terminus of each line, add a Point of Interest (POI):
-  - A circle to represent a _refuge_ (town, city, farm, etc).
-  - A triangle to represent a _landmark or hazard_ (rock formation, stone bridge, sinkhole, etc.).
-  - A diamond to represent a _dungeon or lair_ (cave, burrow, crypt, etc.).
+  - A circle to represent a _refuge_ (a town, city, farm, etc).
+  - A triangle to represent a _landmark or hazard_ (a rock formation, stone bridge, sinkhole, etc.).
+  - A diamond to represent a _dungeon or lair_ (a cave, burrow, crypt, etc.).
 - From each POI add a new Path, terminating in a new POI _or_ connecting to an existing POI.
 - Number each POI, starting with the Heart.
 
@@ -248,15 +248,16 @@ The **Heart** is always a **Refuge** of some kind, a place of relative calm and 
 | **19**  |      |      |
 | **20**  |      |      |
 
+
 #### Elevated Paths
 
-|        |           |              |
-| ------ | --------- | ------------ |
-| **d4** | **Type**  | **Features** |
-| **1**  | Lowlands  |              |
-| **2**  | Montane   |              |
-| **3**  | Subalpine |              |
-| **4**  | Alpine    |              |
+|     |           |                                                                                                           |
+| --- | --------- | --------------------------------------------------------------------------------------------------------- |
+|     | **Type**  | **Terrain**                                                                                               |
+| 1   | Lowlands  | Plains (E), Grasslands (E), Farmlands (E), Oasis (E), Lakes (T), Sea (T), River (T), Bog (T), Beaches (E) |
+| 2   | Montane   | Forest (T), Thickets (T), Valley (E), Hills (T), Swamps (P), Canyons (E), Cliffs (T)                      |
+| 3   | Subalpine | Plateau (E), Hollows (T), Mountains (P), Jungle (P)                                                       |
+| 4   | Alpine    | Tundra (T), Desert (T), Caverns (P), Wasteland (P)                                                        |
 
 
 ### POIs, Expanded
