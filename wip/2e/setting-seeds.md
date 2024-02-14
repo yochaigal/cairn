@@ -162,40 +162,72 @@ Some paths may lead to POIs that allow the PCs to see more of the world than wha
 - Roll on the [Path Types](#path-types) table and draw the result, starting with the earliest time on the clock. 
   - Denote the path type as R (road), T (trail) and W (wilderness)
   - Draw the path's individual features according to the [Legend](#legend) below. 
-  - At the terminus of each line, add the resulting Point of Interest (POI) according to the [Legend](#legend) below.
-- From each POI, roll on the [Path Types](#path-types) table again and draw the results.
-- [Roll on the appropriate table for each POI]
+- Roll on the [POIs] table and add draw the result and at the terminus of each path.
+- For each POI, roll on the [Path Types](#path-types) table again and draw the result as before. 
 - Number each POI, starting with the Heart.
+- [Roll on the appropriate table for each POI - ToDo]
 
-> We can assume that all paths are one Watch long for this procedure, but if you'd like to make them longer, make sure to place more POIs along the way! Also, don't focus too much on the specific traits of any Path or POI, at this time. That includes distance, path types (i.e. trails, roads, rivers, etc.) and other details (towns, dungeons, etc.). 
+> We can assume that all paths are one Watch long for this procedure, but if you'd like to make them longer, make sure to place more POIs along the way! 
+> Also, don't focus too much on the specific traits of any Path or POI, at this time. That includes distance, path types (i.e. trails, roads, rivers, etc.) and other details (towns, dungeons, etc.). 
 
 #### Path Types
 
-Roll 3d20 and combine the results.
+Roll 2d20 and combine the results.
 
-|         |            |             |            |
-| ------- | ---------- | ----------- | ---------- |
-| **d20** | **Type**   | **Feature** | **POI**    |
-| **1**   | Trail      | Dead End    | Settlement |
-| **2**   | Road       | Chain       | Landmark   |
-| **3**   | Trail      | Chain       | Hazard     |
-| **4**   | Trail      | Hidden      | Dungeon    |
-| **5**   | Road       | Hidden      | Dungeon    |
-| **6**   | Trail      | Standard    | Lair       |
-| **7**   | Wilderness | Chain       | Lair       |
-| **8**   | Trail      | Encounter   | Dungeon    |
-| **9**   | Trail      | Barrier     | Landmark   |
-| **10**  | Wilderness | Dead End    | Refuge     |
-| **11**  | Wilderness | Standard    | Lair       |
-| **12**  | Trail      | Barrier     | Dungeon    |
-| **13**  | Trail      | Shortcut    | Dungeon    |
-| **14**  | Wilderness | Barrier     | Dungeon    |
-| **15**  | Road       | Shortcut    | Dungeon    |
-| **16**  | Road       | Dead End    | Lair       |
-| **17**  | Trail      | Standard    | Hazard     |
-| **18**  | Wilderness | Standard    | Refuge     |
-| **19**  | Road       | Barrier     | Refuge     |
-| **20**  | Trail      | Hidden      | Dungeon    |
+|         |            |             |
+| ------- | ---------- | ----------- |
+| **d20** | **Type**   | **Feature** |
+| **1**   | Trail      | Dead End    |
+| **2**   | Road       | Chain       |
+| **3**   | Trail      | Chain       |
+| **4**   | Trail      | Hidden      |
+| **5**   | Road       | Hidden      |
+| **6**   | Trail      | Standard    |
+| **7**   | Wilderness | Chain       |
+| **8**   | Trail      | Encounter   |
+| **9**   | Trail      | Barrier     |
+| **10**  | Wilderness | Dead End    |
+| **11**  | Wilderness | Standard    |
+| **12**  | Trail      | Barrier     |
+| **13**  | Trail      | Shortcut    |
+| **14**  | Wilderness | Barrier     |
+| **15**  | Road       | Shortcut    |
+| **16**  | Road       | Dead End    |
+| **17**  | Trail      | Standard    |
+| **18**  | Wilderness | Standard    |
+| **19**  | Road       | Barrier     |
+| **20**  | Trail      | Hidden      |
+
+
+#### POIs
+
+Roll 2d20 and combine the results.
+
+|         |            |      |
+| ------- | ---------- | ---- |
+| **d20** | **POI**    |      |
+| **1**   | Settlement |      |
+| **2**   | Landmark   |      |
+| **3**   | Hazard     |      |
+| **4**   | Dungeon    |      |
+| **5**   | Dungeon    |      |
+| **6**   | Lair       |      |
+| **7**   | Lair       |      |
+| **8**   | Dungeon    |      |
+| **9**   | Landmark   |      |
+| **10**  | Refuge     |      |
+| **11**  | Lair       |      |
+| **12**  | Dungeon    |      |
+| **13**  | Dungeon    |      |
+| **14**  | Dungeon    |      |
+| **15**  | Dungeon    |      |
+| **16**  | Lair       |      |
+| **17**  | Hazard     |      |
+| **18**  | Refuge     |      |
+| **19**  | Refuge     |      |
+| **20**  | Dungeon    |      |
+
+
 
 #### Legend
 
