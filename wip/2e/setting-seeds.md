@@ -184,7 +184,7 @@ Roll 2d6 and combine the results.
 
 #### Legend
 
-[![Alt text](/img/2e/legend.png "Click to embiggen"){:height="80%" width="80%"}](/img/2e/legend.png)
+[![Alt text](/img/2e/legend.png "Click to embiggen"){:height="40%" width="40%"}](/img/2e/legend.png)
 
 ### POIs, Expanded
 
