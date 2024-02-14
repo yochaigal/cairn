@@ -11,8 +11,8 @@ search_exclude: true
 
 ## Overview
 
-1. Create the region's topography, people, resources, and heart.
-2. Extend via paths and new POIs.
+1. Create the region's major topography, people, and resources.
+2. Extend via paths and POIs.
 3. Terminate via borders.
 
 ## Create the Overarching Theme
@@ -106,47 +106,17 @@ Roll 2d20 and combine the results.
 | **19**  | Textiles      | Vessels       |
 | **20**  | Weapons       | Fuel          |
 
-### The Heart
-
-The **Heart** is always a **Settlement** of some kind, a place of relative calm and safety. It isn't necessarily the largest or most important place in the setting, but it should be significant to the region's history. Roll 2d20 and combine the results.
-
-|         |            |                             |
-| ------- | ---------- | --------------------------- |
-| **d20** | **Type**   | **Unique Element**          |
-| **1**   | Campground | Built Atop Ruins            |
-| **2**   | Caravan    | Factionally Divided         |
-| **3**   | City       | Well-defended               |
-| **4**   | Commune    | Trading Hub                 |
-| **5**   | Inn        | Reknowned Artisans          |
-| **6**   | Monastery  | High Population Density     |
-| **7**   | Outpost    | Ancient Buildings           |
-| **8**   | Prison     | Star Gate                   |
-| **9**   | Village    | Natural deposits            |
-| **10**  | Stronghold | A Haven to Outcasts         |
-| **11**  | Town       | Seat of Government          |
-| **12**  | Villa      | Technologically Advanced    |
-| **13**  | Fortress   | Impregnable Walls           |
-| **14**  | Academy    | Center of Learning          |
-| **15**  | Hamlet     | Close-knit Community        |
-| **16**  | Temple     | Ruled by a Powerful Faction |
-| **17**  | Port       | Ancient Archives            |
-| **18**  | Sanctuary  | Perpetually Revolves        |
-| **19**  | Farmstead  | Unusual Rulers              |
-| **20**  | Citadel    | Integration with Nature     |
-
 ## The Map
 
 Points of Interest on a map (or POIs) are generally divided into the following categories:  
-- **Settlement**: A village, town, city.
-- **Landmarks**: A significant geographic signpost. 
-- **Hazard**: A naturally occuring scene that should be avoided.
-- **Lairs**: A source of heightened monster activity, enemy encampment, or home.
-- **Ruins**: An explicitly dangerous adventure site.
-- **Refuge**: A cloister of safe haven from the wilds
+- **Settlement**: Any civilized community larger than a single family or religious order. Typically a village, town, or city. 
+- **Landmarks**: A significant geographic signpost. Crumbling bridges, megaliths, face-shaped outcrop, and so on.
+- **Hazard**: A naturally occuring locale that should be avoided or circumnavigated.
+- **Lairs**: A source of heightened monster activity, enemy encampment, or hive.
+- **Ruins**: An explicitly dangerous locale, dungeon, or adventure site.
+- **Refuge**: A safe, populated haven. An inn, monastery, sanctuary, prison, campground, etc.
 
 ### Paths
-
-Some paths may lead to POIs that allow the PCs to see more of the world than what appears on their map.
 
 - **Standard**: A path typical to the region, lacking in special features.
 - **Barrier**: A change in the biome's terrain that slows down or completely blocks further travel. Examples can include rivers, changes in elevation, thickly-grown trees, sinkholes, and more. 
@@ -155,6 +125,8 @@ Some paths may lead to POIs that allow the PCs to see more of the world than wha
 - **Encounter**: The risk of peril is increased. Roll on the Wilderness Event table an extra time, and the chance of getting lost increases by a step.
 - **Hidden**: A path not appearing on any known maps. Learning about them always require some kind of cost. Additionally, chance of getting lost increases by a step.
 - **Shortcut**: A path that provides a significant boost in speed to an existing POI.
+
+> Some paths may lead to POIs that allow the PCs to see more of the world than what appears on their map.
 
 ### The Basics
 
@@ -165,7 +137,9 @@ Some paths may lead to POIs that allow the PCs to see more of the world than wha
   - Draw the path's individual _Features_ according to the [Legend](#legend) below. 
 - Roll on the [POIs] table and draw the results at the terminus of each path.
 - For each POI, roll on the [Path Types](#path-types) table as before and draw the results. Ignore Dead Ends. 
-- [Roll on the appropriate table for each POI - ToDo]
+- Starting with the Heart, roll on the appropriate table for each POI.
+  - The **Heart** is always a **Settlement** of some kind, a place of relative calm and safety. It isn't necessarily the largest or most important place in the setting, but it should be significant to the region's history.
+  - 
 - Number each POI, starting with the Heart.
 
 > We can assume that all paths are one Watch long for this procedure, but if you'd like to make them longer, make sure to place more POIs along the way! 
@@ -231,11 +205,11 @@ Roll 2d20 and combine the results.
 
 [![Alt text](/img/2e/legend.png "Click to embiggen"){:height="40%" width="40%"}](/img/2e/legend.png)
 
-### POIs, Expanded
+### POIs
 
-Starting with the POI nearest to the Heart, roll on the table appropriate to its type for each:
+Roll 2d20 and combine the results.
 
-#### Settlement
+### Settlement
 
 |         |            |                             |
 | ------- | ---------- | --------------------------- |
@@ -260,8 +234,6 @@ Starting with the POI nearest to the Heart, roll on the table appropriate to its
 | **18**  | Sanctuary  | Perpetually Revolves        |
 | **19**  | Farmstead  | Unusual Rulers              |
 | **20**  | Citadel    | Integration with Nature     |
-
-> This needs to be changed to diverge from the Heart table, or merged.
 
 #### Hazards
 
