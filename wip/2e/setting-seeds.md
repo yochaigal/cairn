@@ -108,7 +108,7 @@ Roll 2d20 and combine the results.
 
 ### The Heart
 
-The **Heart** is always a **Refuge** of some kind, a place of relative calm and safety. It isn't necessarily the largest or most important place in the setting, but it should be significant to the region's history. Roll 2d20 and combine the results.
+The **Heart** is always a **Settlement** of some kind, a place of relative calm and safety. It isn't necessarily the largest or most important place in the setting, but it should be significant to the region's history. Roll 2d20 and combine the results.
 
 |         |            |                             |
 | ------- | ---------- | --------------------------- |
@@ -136,7 +136,7 @@ The **Heart** is always a **Refuge** of some kind, a place of relative calm and 
 
 ## The Map
 
-Points of Interest on a map (or POIs) are generally divided into three categories:  
+Points of Interest on a map (or POIs) are generally divided into the following categories:  
 - **Settlement**: A village, town, city.
 - **Landmarks**: A significant geographic signpost. 
 - **Hazard**: A naturally occuring scene that should be avoided.
@@ -227,8 +227,6 @@ Roll 2d20 and combine the results.
 | **19**  | Refuge     |     |
 | **20**  | Ruins      |     |
 
-
-
 #### Legend
 
 [![Alt text](/img/2e/legend.png "Click to embiggen"){:height="40%" width="40%"}](/img/2e/legend.png)
@@ -237,7 +235,7 @@ Roll 2d20 and combine the results.
 
 Starting with the POI nearest to the Heart, roll on the table appropriate to its type for each:
 
-#### Refuge
+#### Settlement
 
 |         |            |                             |
 | ------- | ---------- | --------------------------- |
@@ -295,29 +293,29 @@ Starting with the POI nearest to the Heart, roll on the table appropriate to its
 
 #### Landmarks
 
-|         |                         |                            |
-| ------- | ----------------------- | -------------------------- |
-| **d20** | **Landmark**            | **Feature**                |
-| **1**   | **Ancient tree**        | **Ancient library**        |
-| **2**   | **Enormous footprint**  | **Bloody battlefield**     |
-| **3**   | **Endless sinkholes**   | **Buried giant**           |
-| **4**   | **Fungus-covered well** | **Carnivorous plants**     |
-| **5**   | **Giant skeleton**      | **Cult ritual site**       |
-| **6**   | **Glimmering cave**     |                            |
-| **7**   | **Hot springs**         | **Frozen graveyard**       |
-| **8**   | **Mass grave**          | **Floating construct**     |
-| **9**   | **Misty waterfall**     | **Floating island**        |
-| **10**  | **Mysterious megalith** | **Home of the folk witch** |
-| **11**  | **Oddly-shaped lake**   | **Illusory city**          |
-| **12**  | **Petrified trees**     | **Irregular gravity**      |
-| **13**  |                         | **Misty crater**           |
-| **14**  |                         | **Phasal trading post**    |
-| **15**  |                         |                            |
-| **16**  |                         | **Purple geysers**         |
-| **17**  |                         | **Singing stones**         |
-| **18**  |                         | **Strange Vessel**         |
-| **19**  |                         | **Trash heap**             |
-| **20**  |                         |                            |
+|         |                     |                        |
+| ------- | ------------------- | ---------------------- |
+| **d20** | **Landmark**        | **Feature**            |
+| **1**   | Ancient tree        | Ancient library        |
+| **2**   | Enormous footprint  | Bloody battlefield     |
+| **3**   | Endless sinkholes   | Buried giant           |
+| **4**   | Fungus-covered well | Carnivorous plants     |
+| **5**   | Giant skeleton      | Cult ritual site       |
+| **6**   | Glimmering cave     |                        |
+| **7**   | Hot springs         | Frozen graveyard       |
+| **8**   | Mass grave          | Floating construct     |
+| **9**   | Misty waterfall     | Floating island        |
+| **10**  | Mysterious megalith | Home of the folk witch |
+| **11**  | Oddly-shaped lake   | Illusory city          |
+| **12**  | Petrified trees     | Irregular gravity      |
+| **13**  |                     | Misty crater           |
+| **14**  |                     | Phasal trading post    |
+| **15**  |                     |                        |
+| **16**  |                     | Purple geysers         |
+| **17**  |                     | Singing stones         |
+| **18**  |                     | Strange Vessel         |
+| **19**  |                     | Trash heap             |
+| **20**  |                     |                        |
 
 > To be expanded
 
