@@ -11,44 +11,78 @@ search_exclude: true
 
 ## Overview
 
-1. Create the region's major topography, people, and resources.
-2. Extend via paths and POIs.
+
+1. Create the region's theme from its topography, natural features, people, and resources.
+2. Build paths and POIs.
 3. Terminate via borders.
 
-## Create the Overarching Theme
 
- - Create the region's major terrain and topographic features.
- - Create the defining aspects of the people living their, as well as their ambitions.
- - What resources are in abundance, and what are scarce?
- - What makes up the heart of this region, and what problems to they have?
+## Theme
+
+- Roll on [Topography](#topography) table and record the results.
+  - This is the common terrain of the region. Consider what effects this would have on the people that live there, what would draw them there, and why they stay.
+- Roll on [Natural Features](#natural-features) table and record the results.
+  - 
+- Roll on the [People](#people) table and record the result.
+  - This defines the dominant aspects of the people living their, as well as their ambitions. Consider how they perceive themselves, and how others see them as well.
+- Roll on the [Resources](#resources) table and record the results.
+   - What resources are in abundance, and what are scarce? How do these relate to the topography, and how did they shape the people that live here?
 
 ### Topography
 
 Roll 2d20 and combine the results.
 
-|         |             |                    |
-| ------- | ----------- | ------------------ |
-| **d20** | **Terrain** | **Feature**        |
-| **1**   | Canyons     | Natural Bridges    |
-| **2**   | Caverns     | Sinkholes          |
-| **3**   | Cliffs      | Crystal Growths    |
-| **4**   | Deserts     | Volcanoes          |
-| **5**   | Forests     | Wildfires          |
-| **6**   | Hills       | Glacial Melt       |
-| **7**   | Hollows     | Geysers            |
-| **8**   | Jungles     | Mudflats           |
-| **9**   | Lakes       | Earthquakes        |
-| **10**  | Mountains   | Megaliths          |
-| **11**  | Oasis       | Permafog           |
-| **12**  | Plateaus    | Celestial Displays |
-| **13**  | Plains      | Fossil Fields      |
-| **14**  | Rivers      | Salt Flats         |
-| **15**  | Sea         | Meteorites         |
-| **16**  | Swamps      | Ice Caves          |
-| **17**  | Thickets    | Sandstorms         |
-| **18**  | Tundra      | Underground Rivers |
-| **19**  | Valley      | Coral Reefs        |
-| **20**  | Wasteland   | Lava Fields        |
+
+|         |                      |                       |
+| ------- | -------------------- | --------------------- |
+| **d20** | **Dominant Terrain** | **Secondary Terrain** |
+| **1**   | Canyons              |                       |
+| **2**   | Caverns              |                       |
+| **3**   | Cliffs               |                       |
+| **4**   | Deserts              |                       |
+| **5**   | Forests              |                       |
+| **6**   | Hills                |                       |
+| **7**   | Hollows              |                       |
+| **8**   | Jungles              |                       |
+| **9**   | Lakes                |                       |
+| **10**  | Mountains            |                       |
+| **11**  | Oasis                |                       |
+| **12**  | Plateaus             |                       |
+| **13**  | Plains               |                       |
+| **14**  | Rivers               |                       |
+| **15**  | Sea                  |                       |
+| **16**  | Swamps               |                       |
+| **17**  | Thickets             |                       |
+| **18**  | Tundra               |                       |
+| **19**  | Valley               |                       |
+| **20**  | Wasteland            |                       |
+
+
+### Natural Features
+
+|         |                    |      |
+| ------- | ------------------ | ---- |
+| **d20** | **Feature**        |      |
+| **1**   | Natural Bridges    |      |
+| **2**   | Sinkholes          |      |
+| **3**   | Crystal Growths    |      |
+| **4**   | Volcanoes          |      |
+| **5**   | Wildfires          |      |
+| **6**   | Glacial Melt       |      |
+| **7**   | Geysers            |      |
+| **8**   | Mudflats           |      |
+| **9**   | Earthquakes        |      |
+| **10**  | Megaliths          |      |
+| **11**  | Permafog           |      |
+| **12**  | Celestial Displays |      |
+| **13**  | Fossil Fields      |      |
+| **14**  | Salt Flats         |      |
+| **15**  | Meteorites         |      |
+| **16**  | Ice Caves          |      |
+| **17**  | Sandstorms         |      |
+| **18**  | Underground Rivers |      |
+| **19**  | Coral Reefs        |      |
+| **20**  | Lava Fields        |      |
 
 ### People
 
@@ -124,7 +158,7 @@ Points of Interest on a map (or POIs) are generally divided into the following c
 - **Dead End**: Leads to a remote or isolated location.
 - **Encounter**: The risk of peril is increased. Roll on the Wilderness Event table an extra time, and the chance of getting lost increases by a step.
 - **Hidden**: A path not appearing on any known maps. Learning about them always require some kind of cost. Additionally, chance of getting lost increases by a step.
-- **Shortcut**: A path that provides a significant boost in speed to an existing POI.
+- **Shortcut**: A path that provides a significant boost in speed to another POI.
 
 > Some paths may lead to POIs that allow the PCs to see more of the world than what appears on their map.
 
@@ -136,6 +170,7 @@ Points of Interest on a map (or POIs) are generally divided into the following c
   - Denote the path type as R (Road), T (Trail) and W (Wilderness)
   - Draw the path's individual _Features_ according to the [Legend](#legend) below. 
 - Roll on the [POIs] table and draw the results at the terminus of each path.
+  - If a Barrier or Shortcut is rolled, select a terrain.    
 - For each POI, roll on the [Path Types](#path-types) table as before and draw the results. Ignore Dead Ends. 
 - Starting with the Heart, roll on the appropriate table for each POI.
   - The **Heart** is always a **Settlement** of some kind, a place of relative calm and safety. It isn't necessarily the largest or most important place in the setting, but it should be significant to the region's history.
