@@ -141,7 +141,7 @@ Points of Interest on a map (or POIs) are generally divided into three categorie
 - **Landmarks**: A significant geographic signpost. 
 - **Hazard**: A naturally occuring scene that should be avoided.
 - **Lairs**: A source of heightened monster activity, enemy encampment, or home.
-- **Dungeons**: An explicitly dangerous adventure site.
+- **Ruins**: An explicitly dangerous adventure site.
 - **Refuge**: A cloister of safe haven from the wilds
 
 ### Paths
@@ -168,7 +168,7 @@ Some paths may lead to POIs that allow the PCs to see more of the world than wha
 - [Roll on the appropriate table for each POI - ToDo]
 
 > We can assume that all paths are one Watch long for this procedure, but if you'd like to make them longer, make sure to place more POIs along the way! 
-> Also, don't focus too much on the specific traits of any Path or POI, at this time. That includes distance, path types (i.e. trails, roads, rivers, etc.) and other details (towns, dungeons, etc.). 
+> Also, don't focus too much on the specific traits of any Path or POI, at this time. That includes distance, path types (i.e. trails, roads, rivers, etc.) and other details (towns, Ruins, etc.). 
 
 #### Path Types
 
@@ -178,18 +178,18 @@ Roll 2d20 and combine the results.
 | ------- | ---------- | ----------- |
 | **d20** | **Type**   | **Feature** |
 | **1**   | Trail      | Dead End    |
-| **2**   | Road       | Chain       |
+| **2**   | Wilderness | Chain       |
 | **3**   | Trail      | Chain       |
-| **4**   | Trail      | Hidden      |
+| **4**   | Wilderness | Hidden      |
 | **5**   | Road       | Hidden      |
 | **6**   | Trail      | Standard    |
 | **7**   | Wilderness | Chain       |
-| **8**   | Trail      | Encounter   |
+| **8**   | Road       | Encounter   |
 | **9**   | Trail      | Barrier     |
 | **10**  | Wilderness | Dead End    |
-| **11**  | Wilderness | Standard    |
-| **12**  | Trail      | Barrier     |
-| **13**  | Trail      | Shortcut    |
+| **11**  | Road       | Standard    |
+| **12**  | Wilderness | Barrier     |
+| **13**  | Road       | Shortcut    |
 | **14**  | Wilderness | Barrier     |
 | **15**  | Road       | Shortcut    |
 | **16**  | Road       | Dead End    |
@@ -198,34 +198,33 @@ Roll 2d20 and combine the results.
 | **19**  | Road       | Barrier     |
 | **20**  | Trail      | Hidden      |
 
-
 #### POIs
 
 Roll 2d20 and combine the results.
 
-|         |            |      |
-| ------- | ---------- | ---- |
-| **d20** | **POI**    |      |
-| **1**   | Settlement |      |
-| **2**   | Landmark   |      |
-| **3**   | Hazard     |      |
-| **4**   | Dungeon    |      |
-| **5**   | Dungeon    |      |
-| **6**   | Lair       |      |
-| **7**   | Lair       |      |
-| **8**   | Dungeon    |      |
-| **9**   | Landmark   |      |
-| **10**  | Refuge     |      |
-| **11**  | Lair       |      |
-| **12**  | Dungeon    |      |
-| **13**  | Dungeon    |      |
-| **14**  | Dungeon    |      |
-| **15**  | Dungeon    |      |
-| **16**  | Lair       |      |
-| **17**  | Hazard     |      |
-| **18**  | Refuge     |      |
-| **19**  | Refuge     |      |
-| **20**  | Dungeon    |      |
+|         |            |     |
+| ------- | ---------- | --- |
+| **d20** | **POI**    |     |
+| **1**   | Settlement |     |
+| **2**   | Landmark   |     |
+| **3**   | Hazard     |     |
+| **4**   | Ruins      |     |
+| **5**   | Ruins      |     |
+| **6**   | Lair       |     |
+| **7**   | Lair       |     |
+| **8**   | Ruins      |     |
+| **9**   | Landmark   |     |
+| **10**  | Refuge     |     |
+| **11**  | Lair       |     |
+| **12**  | Ruins      |     |
+| **13**  | Ruins      |     |
+| **14**  | Ruins      |     |
+| **15**  | Ruins      |     |
+| **16**  | Lair       |     |
+| **17**  | Hazard     |     |
+| **18**  | Refuge     |     |
+| **19**  | Refuge     |     |
+| **20**  | Ruins      |     |
 
 
 
@@ -321,11 +320,11 @@ Starting with the POI nearest to the Heart, roll on the table appropriate to its
 
 > To be expanded
 
-#### Dungeons
+#### Ruins
 
 |         |                           |     |
 | ------- | ------------------------- | --- |
-| **d20** | **Dungeons**              |     |
+| **d20** | **Ruins**                 |     |
 | **1**   | **Ancient prison**        |     |
 | **2**   | **Collapsed aqueduct**    |     |
 | **3**   | **Crumbling tower**       |     |
