@@ -19,10 +19,9 @@ search_exclude: true
 
 ## Theme
 
-- Roll on [Topography](#topography) table and record the results.
-  - This is the common terrain of the region. Consider what effects this would have on the people that live there, what would draw them there, and why they stay.
-- Roll on [Natural Features](#natural-features) table and record the results.
-  - 
+- Roll on the [Topography](#topography) table and record the results.
+  - What effects the region's dominant terrain would have on the people that live there? What would draw them there? Why would they stay? 
+  - How does are the region's borders shaped by the terrain of its neighbors?
 - Roll on the [People](#people) table and record the result.
   - This defines the dominant aspects of the people living their, as well as their ambitions. Consider how they perceive themselves, and how others see them as well.
 - Roll on the [Resources](#resources) table and record the results.
@@ -32,57 +31,29 @@ search_exclude: true
 
 Roll 2d20 and combine the results.
 
-
-|         |                      |                       |
-| ------- | -------------------- | --------------------- |
-| **d20** | **Dominant Terrain** | **Secondary Terrain** |
-| **1**   | Canyons              |                       |
-| **2**   | Caverns              |                       |
-| **3**   | Cliffs               |                       |
-| **4**   | Deserts              |                       |
-| **5**   | Forests              |                       |
-| **6**   | Hills                |                       |
-| **7**   | Hollows              |                       |
-| **8**   | Jungles              |                       |
-| **9**   | Lakes                |                       |
-| **10**  | Mountains            |                       |
-| **11**  | Oasis                |                       |
-| **12**  | Plateaus             |                       |
-| **13**  | Plains               |                       |
-| **14**  | Rivers               |                       |
-| **15**  | Sea                  |                       |
-| **16**  | Swamps               |                       |
-| **17**  | Thickets             |                       |
-| **18**  | Tundra               |                       |
-| **19**  | Valley               |                       |
-| **20**  | Wasteland            |                       |
-
-
-### Natural Features
-
-|         |                    |      |
-| ------- | ------------------ | ---- |
-| **d20** | **Feature**        |      |
-| **1**   | Natural Bridges    |      |
-| **2**   | Sinkholes          |      |
-| **3**   | Crystal Growths    |      |
-| **4**   | Volcanoes          |      |
-| **5**   | Wildfires          |      |
-| **6**   | Glacial Melt       |      |
-| **7**   | Geysers            |      |
-| **8**   | Mudflats           |      |
-| **9**   | Earthquakes        |      |
-| **10**  | Megaliths          |      |
-| **11**  | Permafog           |      |
-| **12**  | Celestial Displays |      |
-| **13**  | Fossil Fields      |      |
-| **14**  | Salt Flats         |      |
-| **15**  | Meteorites         |      |
-| **16**  | Ice Caves          |      |
-| **17**  | Sandstorms         |      |
-| **18**  | Underground Rivers |      |
-| **19**  | Coral Reefs        |      |
-| **20**  | Lava Fields        |      |
+|         |             |                    |
+| ------- | ----------- | ------------------ |
+| **d20** | **Terrain** | **Border Terrain** |
+| **1**   | Canyons     | Rivers             |
+| **2**   | Caverns     | Tundra             |
+| **3**   | Cliffs      | Swamps             |
+| **4**   | Deserts     | Caverns            |
+| **5**   | Forests     | Lakes              |
+| **6**   | Hills       | Cliffs             |
+| **7**   | Hollows     | Plateaus           |
+| **8**   | Jungles     | Deserts            |
+| **9**   | Lakes       | Valley             |
+| **10**  | Mountains   | Thickets           |
+| **11**  | Oasis       | Canyons            |
+| **12**  | Plateaus    | Hills              |
+| **13**  | Plains      | Mountains          |
+| **14**  | Rivers      | Wasteland          |
+| **15**  | Sea         | Forests            |
+| **16**  | Swamps      | Plains             |
+| **17**  | Thickets    | Jungles            |
+| **18**  | Tundra      | Oasis              |
+| **19**  | Valley      | Sea                |
+| **20**  | Wasteland   | Hollows            |
 
 ### People
 
@@ -162,7 +133,7 @@ Points of Interest on a map (or POIs) are generally divided into the following c
 
 > Some paths may lead to POIs that allow the PCs to see more of the world than what appears on their map.
 
-### The Basics
+### Build the Map
 
 - On a flat sheet of paper draw a circle. This is the Heart of your adventure site. 
 - Roll 4d12 and write the results around the circle as if it were a clock face. Ignore any duplicates. 
@@ -170,10 +141,10 @@ Points of Interest on a map (or POIs) are generally divided into the following c
   - Denote the path type as R (Road), T (Trail) and W (Wilderness)
   - Draw the path's individual _Features_ according to the [Legend](#legend) below. 
 - Roll on the [POIs] table and draw the results at the terminus of each path.
-  - If a Barrier or Shortcut is rolled, select a terrain.    
+  - If a Barrier is rolled, note that the path cuts through the region's border terrain.     
 - For each POI, roll on the [Path Types](#path-types) table as before and draw the results. Ignore Dead Ends. 
 - Starting with the Heart, roll on the appropriate table for each POI.
-  - The **Heart** is always a **Settlement** of some kind, a place of relative calm and safety. It isn't necessarily the largest or most important place in the setting, but it should be significant to the region's history.
+  - The **Heart** is always a **Settlement** of some kind. It isn't necessarily the largest or most important place in the setting, but it should be significant to the region's history.
   - 
 - Number each POI, starting with the Heart.
 
@@ -276,25 +247,26 @@ Roll 2d20 and combine the results.
 | ------- | ----------------- | ----------- |
 | **d20** | **Hazard**        | **Feature** |
 | **1**   | Acid rain         |             |
-| **2**   | Avian predators   |             |
+| **2**   | Crystal Growths   |             |
 | **3**   | Dense fog         |             |
 | **4**   | Drought           |             |
 | **5**   | Dust storms       |             |
 | **6**   | Flooding          |             |
-| **7**   | Molten lava       |             |
+| **7**   | Lava Fields       |             |
 | **8**   | Poisonous foliage |             |
 | **9**   | Toxic water       |             |
 | **10**  | Venomous insects  |             |
 | **11**  | Weak ground       |             |
 | **12**  | Wildfires         |             |
-| **13**  |                   |             |
-| **14**  |                   |             |
-| **15**  |                   |             |
-| **16**  |                   |             |
-| **17**  |                   |             |
-| **18**  |                   |             |
-| **19**  |                   |             |
-| **20**  |                   |             |
+| **13**  | Natural Bridges   |             |
+| **14**  | Sinkholes         |             |
+| **15**  | Earthquakes       |             |
+| **16**  | Volcanoes         |             |
+| **17**  | Wildfires         |             |
+| **18**  | Glacial Melt      |             |
+| **19**  | Geysers           |             |
+| **20**  | Mudflats          |             |
+   
 
 > To be expanded
 
@@ -323,6 +295,7 @@ Roll 2d20 and combine the results.
 | **18**  |                     | Strange Vessel         |
 | **19**  |                     | Trash heap             |
 | **20**  |                     |                        |
+
 
 > To be expanded
 
@@ -423,6 +396,19 @@ Roll 2d20 and combine the results.
 | **18**  |      |      |
 | **19**  |      |      |
 | **20**  |      |      |
+
+Add:
+
+Celestial Displays 
+Fields      
+Underground Rivers
+Crystal Growths 
+Permafog
+Coral Reefs 
+Megaliths
+Salt Flats  
+Meteorites 
+Avian predators 
 
 ### Example Themes
 
