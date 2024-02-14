@@ -136,19 +136,26 @@ The **Heart** is always a **Refuge** of some kind, a place of relative calm and 
 
 ## The Map
 
-Points on a map are generally divided into three categories:
-
+Points of Interest on a map (or POIs) are generally divided into three categories:  
 - **Refuge**: A town, temple, or place of shelter.
 - **Landmarks** or **Hazard**: A significant geographic signpost or hazard.
 - **Lairs** or **Dungeons**: An explicitly dangerous adventure site.
 
+The paths that connect POIs them can be divided into four types:  
+- _Accessible Paths_ are known by the PCs _and_ accessible. They always appear on in-world maps.
+- _Elevated Paths_ are known by the PCs _and_ accessible, but crossing them comes at a higher cost. Climbing them may provide characters with the ability to see more of the world than what appears on an in-world map.
+- _Blocked Paths_ are known by the PCs but _not_ directly accessible. They may require special knowledge to bypass, or tools. They will appear on in-world maps.
+- _Hidden Paths_ are only known by some, and learning about them always require some kind of _cost_. They do not appear on in-world maps, though there may be hints or clues for those who know how to find them.
+
+### The Basics
+
 - On a flat sheet of paper draw a circle. This is the Heart of your adventure site. 
 - Roll 4d12 and write the results around the circle as if it were a clock face. Do not reroll duplicates.  
 - Starting with the lowest number, draw any combination of the following Paths:
-  - A bold line indicating an accessible Path.
-  - A dashed line indicating a _hidden_ Path.
-  - A crossed line indicating a _blocked_ Path.
-  - A line with a number on top (1-4) indicating _elevation_.
+  - A bold line indicating an _accessible_ path.
+  - A dashed line indicating a _hidden_ path.
+  - A crossed line indicating a _blocked_ path.
+  - A line with a star on top indicating an _elevated_ path.
 - At the terminus of each line, add a Point of Interest (POI):
   - A circle to represent a _refuge_ (a town, city, farm, etc).
   - A triangle to represent a _landmark or hazard_ (a rock formation, stone bridge, sinkhole, etc.).
@@ -160,38 +167,19 @@ Points on a map are generally divided into three categories:
 
 ### Paths
  
- - Starting from the Heart, select a Path. 
-   - If it is _accessible_, roll 2d6 on the [Accessible Paths](#accessible-paths) table.
-   - If it is _hidden_, roll 2d6 on the [Hidden Paths](#hidden-paths) table or choose appropriate option.
-   - If it is _blocked_ roll 2d6 on the [Blocked Paths](#blocked-paths) table or choose an appropriate option.
-   - If it is at a different _elevation_, roll 2d4 on the [Elevated Paths](#elevated-paths) table or choose an appropriate option.
- - Continue this process until all of the Paths on the map have been created.
+ - Starting from the Heart, select a path and roll 2d4 on the [Path Types](#path-types) table, or choose an appropriate option.
+  - Mark the type and distance for each path on your map. For example, if the result is a medium-length road, write "M - Road"
+  - Continue this process until all of the Paths on the map have been created.
 
-#### Accessible Paths
+#### Path Types
 
-|         |      |      |
-| ------- | ---- | ---- |
-| **d20** | **** | **** |
-| **1**   |      |      |
-| **2**   |      |      |
-| **3**   |      |      |
-| **4**   |      |      |
-| **5**   |      |      |
-| **6**   |      |      |
-| **7**   |      |      |
-| **8**   |      |      |
-| **9**   |      |      |
-| **10**  |      |      |
-| **11**  |      |      |
-| **12**  |      |      |
-| **13**  |      |      |
-| **14**  |      |      |
-| **15**  |      |      |
-| **16**  |      |      |
-| **17**  |      |      |
-| **18**  |      |      |
-| **19**  |      |      |
-| **20**  |      |      |
+|        |            |            |
+| ------ | ---------- | ---------- |
+| **d4** | **Length** | **Type**   |
+| **1**  | Short      | Trail      |
+| **2**  | Medium     | Road       |
+| **3**  | Long       | River      |
+| **4**  | Special    | Wilderness |
 
 #### Hidden Paths
 
@@ -204,20 +192,6 @@ Points on a map are generally divided into three categories:
 | **4**   |      |      |
 | **5**   |      |      |
 | **6**   |      |      |
-| **7**   |      |      |
-| **8**   |      |      |
-| **9**   |      |      |
-| **10**  |      |      |
-| **11**  |      |      |
-| **12**  |      |      |
-| **13**  |      |      |
-| **14**  |      |      |
-| **15**  |      |      |
-| **16**  |      |      |
-| **17**  |      |      |
-| **18**  |      |      |
-| **19**  |      |      |
-| **20**  |      |      |
 
 #### Blocked Paths
 
@@ -230,20 +204,7 @@ Points on a map are generally divided into three categories:
 | **4**   |      |      |
 | **5**   |      |      |
 | **6**   |      |      |
-| **7**   |      |      |
-| **8**   |      |      |
-| **9**   |      |      |
-| **10**  |      |      |
-| **11**  |      |      |
-| **12**  |      |      |
-| **13**  |      |      |
-| **14**  |      |      |
-| **15**  |      |      |
-| **16**  |      |      |
-| **17**  |      |      |
-| **18**  |      |      |
-| **19**  |      |      |
-| **20**  |      |      |
+
 
 #### Elevated Paths
 
