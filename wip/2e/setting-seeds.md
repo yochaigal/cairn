@@ -137,9 +137,12 @@ The **Heart** is always a **Refuge** of some kind, a place of relative calm and 
 ## The Map
 
 Points of Interest on a map (or POIs) are generally divided into three categories:  
-- **Refuge**: A town, temple, or place of shelter.
-- **Landmarks** or **Hazard**: A significant geographic signpost or hazard.
-- **Lairs** or **Dungeons**: An explicitly dangerous adventure site.
+- **Settlement**: A village, town, city.
+- **Landmarks**: A significant geographic signpost. 
+- **Hazard**: A naturally occuring scene that should be avoided.
+- **Lairs**: A source of heightened monster activity, enemy encampment, or home.
+- **Dungeons**: An explicitly dangerous adventure site.
+- **Refuge**: A cloister of safe haven from the wilds
 
 ### Paths
 
@@ -157,11 +160,9 @@ Some paths may lead to POIs that allow the PCs to see more of the world than wha
 - On a flat sheet of paper draw a circle. This is the Heart of your adventure site. 
 - Roll 4d12 and write the results around the circle as if it were a clock face. Ignore any duplicates. 
 - Roll on the [Path Types](#path-types) table and draw the result, starting with the earliest time on the clock. 
-  - Denote the path type as R (road), T (trail) and W (wilderness), as well as its individual features according to the [Legend](#legend) below.
-- At the terminus of each line, add a Point of Interest (POI):
-  - A circle indicating a _refuge_ (a town, a city, a farm, etc).
-  - A triangle indicating a _landmark_ or _hazard_ (a rock formation, a stone bridge, a sinkhole, etc.).
-  - A diamond indicating a _dungeon_ or _lair_ (a cave, a burrow, a crypt, etc.).
+  - Denote the path type as R (road), T (trail) and W (wilderness)
+  - Draw the path's individual features according to the [Legend](#legend) below. 
+  - At the terminus of each line, add the resulting Point of Interest (POI) according to the [Legend](#legend) below.
 - From each POI, roll on the [Path Types](#path-types) table again and draw the results.
 - [Roll on the appropriate table for each POI]
 - Number each POI, starting with the Heart.
@@ -170,17 +171,31 @@ Some paths may lead to POIs that allow the PCs to see more of the world than wha
 
 #### Path Types
 
-Roll 2d6 and combine the results.
+Roll 3d20 and combine the results.
 
-|        |            |             |
-| ------ | ---------- | ----------- |
-| **d6** | **Type**   | **Feature** |
-| **1**  | Road       | Barrier     |
-| **2**  | Trail      | Chain       |
-| **3**  | Wilderness | Dead End    |
-| **4**  | Road       | Encounter   |
-| **5**  | Trail      | Hidden      |
-| **6**  | Wilderness | Shortcut    |
+|         |            |             |            |
+| ------- | ---------- | ----------- | ---------- |
+| **d20** | **Type**   | **Feature** | **POI**    |
+| **1**   | Trail      | Dead End    | Settlement |
+| **2**   | Road       | Chain       | Landmark   |
+| **3**   | Trail      | Chain       | Hazard     |
+| **4**   | Trail      | Hidden      | Dungeon    |
+| **5**   | Road       | Hidden      | Dungeon    |
+| **6**   | Trail      | Standard    | Lair       |
+| **7**   | Wilderness | Chain       | Lair       |
+| **8**   | Trail      | Encounter   | Dungeon    |
+| **9**   | Trail      | Barrier     | Landmark   |
+| **10**  | Wilderness | Dead End    | Refuge     |
+| **11**  | Wilderness | Standard    | Lair       |
+| **12**  | Trail      | Barrier     | Dungeon    |
+| **13**  | Trail      | Shortcut    | Dungeon    |
+| **14**  | Wilderness | Barrier     | Dungeon    |
+| **15**  | Road       | Shortcut    | Dungeon    |
+| **16**  | Road       | Dead End    | Lair       |
+| **17**  | Trail      | Standard    | Hazard     |
+| **18**  | Wilderness | Standard    | Refuge     |
+| **19**  | Road       | Barrier     | Refuge     |
+| **20**  | Trail      | Hidden      | Dungeon    |
 
 #### Legend
 
