@@ -11,11 +11,7 @@ search_exclude: true
 
 ## Overview
 
-
-1. Create the region's theme from its topography, natural features, people, and resources.
-2. Build paths and POIs.
-3. Terminate via borders.
-
+The following procedure is designed to help create the _seed_ of a setting: the paths, places, and geography that an adventuring party may have to navigate as they travel throughout a region. We'll start by first creating the region's theme, by determining its topography, natural features, people, and resources. Then we'll build the initial paths and locales at the focal point of the setting, and finish by repeating the process a few more times to flesh out the region a bit more.
 
 ## Theme
 
@@ -28,6 +24,8 @@ search_exclude: true
 - Roll on the [Resources](#resources) table and record the results.
    - What resources are in abundance, and what are scarce? 
    - How do these factors relate to the other aspects of the region, and how does it shape the people that live there?
+
+Once you've gathered the results of these tables, combine them in order to create a cohesive theme for this region. For example, if I rolled a region covered in plains and surrouned by Rivers, I might assume that the locals here were tradespeople, selling their wares to the neighbors downriver. If I rolled that the people there were religious and sought conversion, I'd assume they were a proud folk, but prone to religious extremes and proselytizing. And if their primary resources were land, I'd assume they grew their own food, but that their traders were always on the search for spices from distant lands.
 
 ### Topography
 
@@ -144,6 +142,9 @@ Points of Interest on a map (or POIs) are generally divided into the following c
 - Starting with the earliest "hour" on the clock face, roll on the [Path Types](#path-types) table and draw the results.
   - If a Barrier was rolled, note that the path cuts through the region's border terrain. 
 
+> We can assume that all paths are one Watch long for this procedure, but if you'd like to make them longer, make sure to place more POIs along the way! 
+> Don't focus too much on the specific traits of any Path or POI, at this time. That includes distance, path types (i.e. trails, roads, rivers, etc.) and other details (towns, Ruins, etc.). 
+
 #### Stage Two
 - Starting with the Heart, roll on the [POIs] table and draw the results at the terminus of each path. 
   - The **Heart** is always a **Settlement** of some kind. It isn't necessarily the largest or most important place in the setting, but it should be significant to the region's history.
@@ -157,9 +158,6 @@ Points of Interest on a map (or POIs) are generally divided into the following c
 - Roll on the [POIs] table again, and draw the results at the terminus of each path.
 - Repeat the process as you like.
 - Number each POI, starting with the Heart.
-
-> We can assume that all paths are one Watch long for this procedure, but if you'd like to make them longer, make sure to place more POIs along the way! 
-> Also, don't focus too much on the specific traits of any Path or POI, at this time. That includes distance, path types (i.e. trails, roads, rivers, etc.) and other details (towns, Ruins, etc.). 
 
 #### Path Types
 
@@ -364,122 +362,3 @@ Roll 2d20 and combine the results.
 | **20**  |                   |             |
 
 > To be expanded
-
-## Extras
-
-#### Elevated Paths
-
-|        |           |                                     |
-| ------ | --------- | ----------------------------------- |
-| **d4** | **Type**  | **Terrain**                         |
-| **1**  | Montane   | Plateau , valley , hills, mountains |
-| **2**  | Subalpine | Forest, thickets, jungle, hollows   |
-| **3**  | Alpine    | Caverns canyons , cliffs, tundra    |
-
-
-**Montane**: Starts where the forest line ends and extends up to the tree line, and is mostly forests and meadows.
-**Subalpine**: Just below the alpine zone, characterized by harsher conditions than the montane and often features shrubland, meadows, and sparse forests.
-**Alpine**: Above the tree line, this zone includes areas where trees cannot grow, featuring mostly grasslands, rocky terrain, and snowfields.
-
-### Empty Table
-
-|         |      |      |
-| ------- | ---- | ---- |
-| **d20** | **** | **** |
-| **1**   |      |      |
-| **2**   |      |      |
-| **3**   |      |      |
-| **4**   |      |      |
-| **5**   |      |      |
-| **6**   |      |      |
-| **7**   |      |      |
-| **8**   |      |      |
-| **9**   |      |      |
-| **10**  |      |      |
-| **11**  |      |      |
-| **12**  |      |      |
-| **13**  |      |      |
-| **14**  |      |      |
-| **15**  |      |      |
-| **16**  |      |      |
-| **17**  |      |      |
-| **18**  |      |      |
-| **19**  |      |      |
-| **20**  |      |      |
-
-Add:
-
-Celestial Displays 
-Fields      
-Underground Rivers
-Crystal Growths 
-Permafog
-Coral Reefs 
-Megaliths
-Salt Flats  
-Meteorites 
-Avian predators 
-
-### Example Themes
-
-**Topography**
-- **Terrain**: Forests
-- **Feature**: Meteorites
-
-**People**
-- **Aspect**: Inventive
-- **Ambition**: Recognition
-
-**Resources**
-- **Abundance**: Food
-- **Scarcity**: Textiles
-
-**Heart**
-- **Type**: Academy
-- **Unique Element**: Center of Learning
-
-_A heavily forested area, pock-marked by meteors. The people there are inventive, but seek recognition. They have an abundance of food but textiles are a rare commodity. Their Heart is a school, a center for learning in the region. Somehow it does not receive the recognition it deserves, however._
-
-**Topography**
-- **Terrain**: Oasis 
-- **Feature**: Coral Reefs
-
-**People**
-- **Aspect**: Devious
-- **Ambition**: Fealty
-
-**Resources**
-- **Abundance**: Stone
-- **Scarcity**: Ore
-
-**Heart**
-- **Type**: Farmstead
-- **Unique Element**: Unusual Rulers
-
-_An archipelago, uniquely vibrant in a sea of dead islands. Protected by vast coral reefs, the people there are cunning to fault, and follow their ruler's orders without flinching. Their kingdom is wrought from stone, surrounded by seaweed farms. Their master is an ancient demigod made of coral._
-
-**Topography**
-Terrain: Rivers (T)
-Feature: Mudflats
-
-**People**
-Aspect: Religious
-Ambition: Recognition
-
-**Resources**
-Abundance: Land
-Scarcity: Spices
-
-**Heart**
-Type: City
-Unique Element: Well-defended
-
-_A kingdom of rivers separated by mudflats. Highly religious, the people there seek recognition for their piety. Land is plentiful here, though trading is down these many years, making spice a very valuable commodity. The capital is a medium-sized city strategically placed for optimal defense._
-
-### More examples
-
-- A vast tundra of glaciers, ice caves, and beasts long forgotten. Small settlements dot the frozen landscape, competing for food, warmth, and mates. A newly-appointed clan chief is uniting formerly warring tribes, building an army greater than any seen before. Now, their forces are digging into the Star Ridge mountains, searching the icy rivers for something - or someone -long-thought lost to time.
-- Within a manufactured dome of alien technology, people live in relative harmony, united by the Benefactor, an immortal entity of powerful knowledge and perception. Crime is nearly obselete, as the Benefactor arrests its perpetrators before even their own intentions are known to themselves. There are those who say this system is unfair, organizing in secret to overthrow their perfect leader. Or so they think...
-- Seven warring kingdoms jostle for a single landmass in an endless war. The greatest of these nations were corrupted from within, destroying a thousand-year old regime in a matter of months. Now their former enemies comb the lands of this once glorious nation, searching its bloated corpse for whatever riches may remain, all the while wondering who will be next?
-- An archipelago boasting thousands of small islands, their biomes equally as diverse as their animals and plant life. Rival factions ride the crimson seas in search of a holy artifact that is prophesized to unite not only the broken clans, but the earth itself. 
-- A post-apocalyptic wasteland littered with ancient technology, derelict sky-ships, and ruled by the Time Wizards. Cracked deserts and spiral forests encroach the last megacity, the only true respite from their cruelty. 
