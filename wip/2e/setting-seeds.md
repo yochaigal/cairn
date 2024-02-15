@@ -146,18 +146,22 @@ Points of Interest on a map (or POIs) are generally divided into the following c
 > Don't focus too much on the specific traits of any Path or POI, at this time. That includes distance, path types (i.e. trails, roads, rivers, etc.) and other details (towns, Ruins, etc.). 
 
 #### Stage Two
-- Starting with the Heart, roll on the [POIs] table and draw the results at the terminus of each path. 
+- Starting with the Heart, roll on the [Points of Interest](#points-of-interest) table and draw the results at the terminus of each path. 
   - The **Heart** is always a **Settlement** of some kind. It isn't necessarily the largest or most important place in the setting, but it should be significant to the region's history.
 
 #### Stage Three
 
 - Roll on the [Path Types](#path-types) table again, creating **two** new paths for every POI _except_ for the Heart. 
-  - Ignore any POIs that are at Dead Ends.
-  - If a Chain was previously rolled, a future connecting path to that POI should also be a Chain of the same path type. 
+  - Ignore any POIs at Dead Ends.
+  - If a Chain was previously _rolled_, a future connecting path to that POI should also be a Chain of the same path type. 
   - Connect at least one of each new paths to an existing POI.
-- Roll on the [POIs] table again, and draw the results at the terminus of each path.
+- Roll on the [Points of Interest](#points-of-interest) table again, and draw the results at the terminus of each path.
 - Repeat the process as you like.
 - Number each POI, starting with the Heart.
+
+#### Legend
+
+[![Alt text](/img/2e/legend.png "Click to embiggen"){:height="40%" width="40%"}](/img/2e/legend.png)
 
 #### Path Types
 
@@ -187,7 +191,7 @@ Roll 2d20 and combine the results.
 | **19**  | Road       | Barrier     |
 | **20**  | Trail      | Hidden      |
 
-#### POIs
+#### Points of Interest
 
 Roll 2d20 and combine the results.
 
@@ -215,15 +219,7 @@ Roll 2d20 and combine the results.
 | **19**  | Refuge     |             |
 | **20**  | Ruins      |             |
 
-#### Legend
-
-[![Alt text](/img/2e/legend.png "Click to embiggen"){:height="40%" width="40%"}](/img/2e/legend.png)
-
-### POIs
-
-Roll 2d20 and combine the results.
-
-### Settlement
+#### Settlement
 
 |         |            |                             |
 | ------- | ---------- | --------------------------- |
@@ -249,7 +245,7 @@ Roll 2d20 and combine the results.
 | **19**  | Farmstead  | Unusual Rulers              |
 | **20**  | Citadel    | Integration with Nature     |
 
-#### Hazards
+##### Hazards
 
 |         |                   |             |
 | ------- | ----------------- | ----------- |
@@ -278,7 +274,7 @@ Roll 2d20 and combine the results.
 
 > To be expanded
 
-#### Landmarks
+##### Landmarks
 
 |         |                     |                        |
 | ------- | ------------------- | ---------------------- |
@@ -288,7 +284,7 @@ Roll 2d20 and combine the results.
 | **3**   | Endless sinkholes   | Buried giant           |
 | **4**   | Fungus-covered well | Carnivorous plants     |
 | **5**   | Giant skeleton      | Cult ritual site       |
-| **6**   | Glimmering cave     |                        |
+| **6**   | Glimmering cave     | Purple geysers         |
 | **7**   | Hot springs         | Frozen graveyard       |
 | **8**   | Mass grave          | Floating construct     |
 | **9**   | Misty waterfall     | Floating island        |
@@ -297,17 +293,17 @@ Roll 2d20 and combine the results.
 | **12**  | Petrified trees     | Irregular gravity      |
 | **13**  |                     | Misty crater           |
 | **14**  |                     | Phasal trading post    |
-| **15**  |                     |                        |
-| **16**  |                     | Purple geysers         |
-| **17**  |                     | Singing stones         |
-| **18**  |                     | Strange Vessel         |
-| **19**  |                     | Trash heap             |
+| **15**  |                     | Singing stones         |
+| **16**  |                     | Strange Vessel         |
+| **17**  |                     | Trash heap             |
+| **18**  |                     |                        |
+| **19**  |                     |                        |
 | **20**  |                     |                        |
 
 
 > To be expanded
 
-#### Ruins
+##### Ruins
 
 |         |                       |     |
 | ------- | --------------------- | --- |
@@ -335,7 +331,7 @@ Roll 2d20 and combine the results.
 
 > To be expanded
 
-#### Lairs
+##### Lairs
 
 |         |                   |             |
 | ------- | ----------------- | ----------- |
@@ -360,5 +356,36 @@ Roll 2d20 and combine the results.
 | **18**  |                   |             |
 | **19**  |                   |             |
 | **20**  |                   |             |
+
+> To be expanded
+
+##### Refuge
+
+Roll 2d20 and combine the results.
+
+
+|         |            |                                     |
+| ------- | ---------- | ----------------------------------- |
+| **d20** | **Refuge** | Settlement Features                 |
+| **1**   |            | Home to a unique species            |
+| **2**   |            | Known for its hospitality           |
+| **3**   |            | Besieged by a natural threat        |
+| **4**   |            | Steeped in ancient tradition        |
+| **5**   |            | Guarded by a mystical barrier       |
+| **6**   |            | Constructed within a giant tree     |
+| **7**   |            | Built on sacred grounds             |
+| **8**   |            | Rumored to be cursed                |
+| **9**   |            | Contains a powerful artifact        |
+| **10**  |            | Known for its elaborate defenses    |
+| **11**  |            | Host to a renowned artisan          |
+| **12**  |            | Built atop ruins                    |
+| **13**  |            | Guarded by trained beasts           |
+| **14**  |            | Mystically protected                |
+| **15**  |            | Renowned for its scholars           |
+| **16**  |            | Famous for its festivals            |
+| **17**  |            | Reclusive and suspicious            |
+| **18**  |            | Home to a famous hero               |
+| **19**  |            | Controlled by a supernatural entity |
+| **20**  |            | Reknowned for its scholars          |
 
 > To be expanded

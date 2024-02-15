@@ -158,7 +158,7 @@ grand_parent: WIP
 | **13**  | **Guarded by trained beasts**           |
 | **14**  | **Mystically protected**                |
 | **15**  | **Renowned for its scholars**           |
-| **16**  | **Famous for its festivals**               |
+| **16**  | **Famous for its festivals**            |
 | **17**  | **Reclusive and suspicious**            |
 | **18**  | **Home to a famous hero**               |
 | **19**  | **Controlled by a supernatural entity** |
