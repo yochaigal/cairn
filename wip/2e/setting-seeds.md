@@ -16,44 +16,43 @@ The following procedure is designed to help create the _seed_ of a setting: the 
 ## Theme
 
 - Roll on the [Topography](#topography) table and record the results.
-  - What effects does the region's dominant terrain have on the people that live there? 
+  - What effects does the region's terrain have on the people that live there? 
   - What would draw someone there, and why would they stay? 
-  - How does are the region's borders shaped by the terrain of its neighbors?
 - Roll on the [People](#people) table and record the result.
   - How do the people that live there perceive themselves, and how others perceive them?
 - Roll on the [Resources](#resources) table and record the results.
    - What resources are in abundance, and what are scarce? 
    - How do these factors relate to the other aspects of the region, and how does it shape the people that live there?
 
-Once you've gathered the results of these tables, combine them in order to create a cohesive theme for this region. For example, if I rolled a region covered in plains and surrouned by Rivers, I might assume that the locals here were tradespeople, selling their wares to the neighbors downriver. If I rolled that the people there were religious and sought conversion, I'd assume they were a proud folk, but prone to religious extremes and proselytizing. And if their primary resources were land, I'd assume they grew their own food, but that their traders were always on the search for spices from distant lands.
+Once you've gathered the results of these tables, combine them in order to create a cohesive theme for this region. For example, if I rolled a region covered in plains and surrounded by rivers, I might assume that the locals here were tradespeople, selling their wares to the neighbors downriver. If I rolled that the people there were religious and sought conversion, I'd assume they were a proud folk, but prone to religious extremes and proselytizing. And if their primary resources were land, I'd assume they grew their own food, but that their traders were always on the search for spices from distant lands.
 
 ### Topography
 
 Roll 2d20 and combine the results.
 
-|         |             |                    |
-| ------- | ----------- | ------------------ |
-| **d20** | **Terrain** | **Border Terrain** |
-| **1**   | Canyons     | Rivers             |
-| **2**   | Caverns     | Tundra             |
-| **3**   | Cliffs      | Swamps             |
-| **4**   | Deserts     | Caverns            |
-| **5**   | Forests     | Lakes              |
-| **6**   | Hills       | Cliffs             |
-| **7**   | Hollows     | Plateaus           |
-| **8**   | Jungles     | Deserts            |
-| **9**   | Lakes       | Valley             |
-| **10**  | Mountains   | Thickets           |
-| **11**  | Oasis       | Canyons            |
-| **12**  | Plateaus    | Hills              |
-| **13**  | Plains      | Mountains          |
-| **14**  | Rivers      | Wasteland          |
-| **15**  | Sea         | Forests            |
-| **16**  | Swamps      | Plains             |
-| **17**  | Thickets    | Jungles            |
-| **18**  | Tundra      | Oasis              |
-| **19**  | Valley      | Sea                |
-| **20**  | Wasteland   | Hollows            |
+|         |                     |                       |
+| ------- | ------------------- | --------------------- |
+| **d20** | **Primary Terrain** | **Secondary Terrain** |
+| **1**   | Canyons             | Rivers                |
+| **2**   | Caverns             | Tundra                |
+| **3**   | Cliffs              | Swamps                |
+| **4**   | Deserts             | Caverns               |
+| **5**   | Forests             | Lakes                 |
+| **6**   | Hills               | Cliffs                |
+| **7**   | Hollows             | Plateaus              |
+| **8**   | Jungles             | Deserts               |
+| **9**   | Lakes               | Valley                |
+| **10**  | Mountains           | Thickets              |
+| **11**  | Oasis               | Canyons               |
+| **12**  | Plateaus            | Hills                 |
+| **13**  | Plains              | Mountains             |
+| **14**  | Rivers              | Wasteland             |
+| **15**  | Sea                 | Forests               |
+| **16**  | Swamps              | Plains                |
+| **17**  | Thickets            | Jungles               |
+| **18**  | Tundra              | Oasis                 |
+| **19**  | Valley              | Sea                   |
+| **20**  | Wasteland           | Hollows               |
 
 ### People
 
@@ -116,7 +115,7 @@ Roll 2d20 and combine the results.
 Points of Interest on a map (or POIs) are generally divided into the following categories:  
 - **Settlement**: Any civilized community larger than a single family or religious order. Typically a village, town, or city. 
 - **Landmarks**: A significant geographic signpost. Crumbling bridges, megaliths, face-shaped outcrop, and so on.
-- **Hazard**: A naturally occuring locale that should be avoided or circumnavigated.
+- **Hazard**: A naturally occurring locale that should be avoided or circumnavigated.
 - **Lairs**: A source of heightened monster activity, enemy encampment, or hive.
 - **Ruins**: An explicitly dangerous locale, dungeon, or adventure site.
 - **Refuge**: A safe, populated haven. An inn, monastery, sanctuary, prison, campground, etc.
@@ -198,14 +197,14 @@ Roll 2d20 and combine the results.
 |         |            |             |
 | ------- | ---------- | ----------- |
 | **d20** | **POI**    | **Feature** |
-| **1**   | Settlement |  Elevated           |
-| **2**   | Landmark   |  Sinking           |
-| **3**   | Hazard     |  Shifting           |
-| **4**   | Ruins      |  Stinking           |
-| **5**   | Ruins      |  Ragged           |
-| **6**   | Lair       |  Gleaming           |
-| **7**   | Lair       |  Hideous           |
-| **8**   | Ruins      |  Lonely           |
+| **1**   | Settlement | Elevated    |
+| **2**   | Landmark   | Sinking     |
+| **3**   | Hazard     | Shifting    |
+| **4**   | Ruins      | Stinking    |
+| **5**   | Ruins      | Ragged      |
+| **6**   | Lair       | Gleaming    |
+| **7**   | Lair       | Hideous     |
+| **8**   | Ruins      | Lonely      |
 | **9**   | Landmark   |             |
 | **10**  | Refuge     |             |
 | **11**  | Lair       |             |
@@ -228,7 +227,7 @@ Roll 2d20 and combine the results.
 | **2**   | Caravan    | Factionally Divided         |
 | **3**   | City       | Well-defended               |
 | **4**   | Commune    | Trading Hub                 |
-| **5**   | Inn        | Reknowned Artisans          |
+| **5**   | Inn        | Renowned Artisans           |
 | **6**   | Monastery  | High Population Density     |
 | **7**   | Outpost    | Ancient Buildings           |
 | **8**   | Prison     | Star Gate                   |
@@ -366,7 +365,7 @@ Roll 2d20 and combine the results.
 
 |         |            |                                     |
 | ------- | ---------- | ----------------------------------- |
-| **d20** | **Refuge** | Settlement Features                 |
+| **d20** | **Refuge** | **Feature**                         |
 | **1**   |            | Home to a unique species            |
 | **2**   |            | Known for its hospitality           |
 | **3**   |            | Besieged by a natural threat        |
