@@ -150,7 +150,12 @@ Points of Interest on a map (or POIs) are generally divided into the following c
 
 #### Stage Three
 
-- Select any POI _except_ for those at Dead Ends. Roll on the [Path Types](#path-types) table again, and connect each POI to at least one other (except for Dead Ends). If a Chain was previously rolled, the next connecting path to that POI is also a Chain of the same path type.
+- Roll on the [Path Types](#path-types) table again, creating **two** new paths for every POI _except_ for the Heart. 
+  - Ignore any POIs that are at Dead Ends.
+  - If a Chain was previously rolled, a future connecting path to that POI should also be a Chain of the same path type. 
+  - Connect at least one of each new paths to an existing POI.
+- Roll on the [POIs] table again, and draw the results at the terminus of each path.
+- Repeat the process as you like.
 - Number each POI, starting with the Heart.
 
 > We can assume that all paths are one Watch long for this procedure, but if you'd like to make them longer, make sure to place more POIs along the way! 
