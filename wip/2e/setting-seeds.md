@@ -198,14 +198,14 @@ Roll 2d20 and combine the results.
 |         |            |             |
 | ------- | ---------- | ----------- |
 | **d20** | **POI**    | **Feature** |
-| **1**   | Settlement |             |
-| **2**   | Landmark   |             |
-| **3**   | Hazard     |             |
-| **4**   | Ruins      |             |
-| **5**   | Ruins      |             |
-| **6**   | Lair       |             |
-| **7**   | Lair       |             |
-| **8**   | Ruins      |             |
+| **1**   | Settlement |  Elevated           |
+| **2**   | Landmark   |  Sinking           |
+| **3**   | Hazard     |  Shifting           |
+| **4**   | Ruins      |  Stinking           |
+| **5**   | Ruins      |  Ragged           |
+| **6**   | Lair       |  Gleaming           |
+| **7**   | Lair       |  Hideous           |
+| **8**   | Ruins      |  Lonely           |
 | **9**   | Landmark   |             |
 | **10**  | Refuge     |             |
 | **11**  | Lair       |             |
@@ -276,29 +276,29 @@ Roll 2d20 and combine the results.
 
 ##### Landmarks
 
-|         |                     |                        |
-| ------- | ------------------- | ---------------------- |
-| **d20** | **Landmark**        | **Feature**            |
-| **1**   | Ancient tree        | Ancient library        |
-| **2**   | Enormous footprint  | Bloody battlefield     |
-| **3**   | Endless sinkholes   | Buried giant           |
-| **4**   | Fungus-covered well | Carnivorous plants     |
-| **5**   | Giant skeleton      | Cult ritual site       |
-| **6**   | Glimmering cave     | Purple geysers         |
-| **7**   | Hot springs         | Frozen graveyard       |
-| **8**   | Mass grave          | Floating construct     |
-| **9**   | Misty waterfall     | Floating island        |
-| **10**  | Mysterious megalith | Home of the folk witch |
-| **11**  | Oddly-shaped lake   | Illusory city          |
-| **12**  | Petrified trees     | Irregular gravity      |
-| **13**  |                     | Misty crater           |
-| **14**  |                     | Phasal trading post    |
-| **15**  |                     | Singing stones         |
-| **16**  |                     | Strange Vessel         |
-| **17**  |                     | Trash heap             |
-| **18**  |                     |                        |
-| **19**  |                     |                        |
-| **20**  |                     |                        |
+|         |                     |                     |
+| ------- | ------------------- | ------------------- |
+| **d20** | **Landmark**        | **Feature**         |
+| **1**   | Ancient tree        | Ancient library     |
+| **2**   | Enormous footprint  | Bloody battlefield  |
+| **3**   | Endless sinkholes   | Fungal growths      |
+| **4**   | Fungus-covered well | Carnivorous plants  |
+| **5**   | Giant skeleton      | Ritual site         |
+| **6**   | Glimmering cave     | Purple geysers      |
+| **7**   | Hot springs         | Frozen graveyard    |
+| **8**   | Bloody Archway      | Floating construct  |
+| **9**   | Misty waterfall     | Floating island     |
+| **10**  | Mysterious megalith | Folk witch          |
+| **11**  | Oddly-shaped lake   | Illusory city       |
+| **12**  | Petrified trees     | Irregular gravity   |
+| **13**  | Whispering chasm    | Misty crater        |
+| **14**  | Crystal spire       | Phasal trading post |
+| **15**  | Echoing fields      | Singing stones      |
+| **16**  | Rising fist         | Abandoned Vessel    |
+| **17**  | Illegible signpost  | Trash heap          |
+| **18**  | Shifting sands      | Perpetual shadows   |
+| **19**  | Sunken city         | Endless storm       |
+| **20**  | Broken tower        | Swirling stones     |
 
 
 > To be expanded
