@@ -20,12 +20,14 @@ search_exclude: true
 ## Theme
 
 - Roll on the [Topography](#topography) table and record the results.
-  - What effects the region's dominant terrain would have on the people that live there? What would draw them there? Why would they stay? 
+  - What effects does the region's dominant terrain have on the people that live there? 
+  - What would draw someone there, and why would they stay? 
   - How does are the region's borders shaped by the terrain of its neighbors?
 - Roll on the [People](#people) table and record the result.
-  - This defines the dominant aspects of the people living their, as well as their ambitions. Consider how they perceive themselves, and how others see them as well.
+  - How do the people that live there perceive themselves, and how others perceive them?
 - Roll on the [Resources](#resources) table and record the results.
-   - What resources are in abundance, and what are scarce? How do these relate to the topography, and how did they shape the people that live here?
+   - What resources are in abundance, and what are scarce? 
+   - How do these factors relate to the other aspects of the region, and how does it shape the people that live there?
 
 ### Topography
 
