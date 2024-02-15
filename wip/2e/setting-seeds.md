@@ -137,17 +137,20 @@ Points of Interest on a map (or POIs) are generally divided into the following c
 
 ### Build the Map
 
+#### Stage One
+
 - On a flat sheet of paper draw a circle. This is the Heart of your adventure site. 
 - Roll 4d12 and write the results around the circle as if it were a clock face. Ignore any duplicates. 
-- Roll on the [Path Types](#path-types) table and draw the results, starting with the earliest "hour" on the clock face. 
-  - Denote the path type as R (Road), T (Trail) and W (Wilderness)
-  - Draw the path's individual _Features_ according to the [Legend](#legend) below. 
-- Roll on the [POIs] table and draw the results at the terminus of each path.
-  - If a Barrier is rolled, note that the path cuts through the region's border terrain.     
-- For each POI, roll on the [Path Types](#path-types) table as before and draw the results. Ignore Dead Ends. 
-- Starting with the Heart, roll on the appropriate table for each POI.
+- Starting with the earliest "hour" on the clock face, roll on the [Path Types](#path-types) table and draw the results.
+  - If a Barrier was rolled, note that the path cuts through the region's border terrain. 
+
+#### Stage Two
+- Starting with the Heart, roll on the [POIs] table and draw the results at the terminus of each path. 
   - The **Heart** is always a **Settlement** of some kind. It isn't necessarily the largest or most important place in the setting, but it should be significant to the region's history.
-  - 
+
+#### Stage Three
+
+- Select any POI _except_ for those at Dead Ends. Roll on the [Path Types](#path-types) table again, and connect each POI to at least one other (except for Dead Ends). If a Chain was previously rolled, the next connecting path to that POI is also a Chain of the same path type.
 - Number each POI, starting with the Heart.
 
 > We can assume that all paths are one Watch long for this procedure, but if you'd like to make them longer, make sure to place more POIs along the way! 
