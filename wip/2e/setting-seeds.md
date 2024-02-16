@@ -13,7 +13,7 @@ search_exclude: true
 
 The following procedure is designed to help create the _seed_ of a setting: the paths, places, and geography that an adventuring party may have to navigate as they travel throughout a region. We'll start by first creating the region's theme, by determining its topography, natural features, people, and resources. Then we'll build the initial paths and locales at the focal point of the setting, and finish by repeating the process a few more times to flesh out the region a bit more.
 
-## Theme
+## Create a Theme
 
 - Roll on the [Topography](#topography) table and record the results.
   - What effects does the region's terrain have on the people that live there? 
@@ -110,57 +110,32 @@ Roll 2d20 and combine the results.
 | **19**  | Textiles      | Vessels       |
 | **20**  | Weapons       | Fuel          |
 
-## The Map
+## Legend
 
-Points of Interest on a map (or POIs) are generally divided into the following categories:  
-- **Settlement**: Any civilized community larger than a single family or religious order. Typically a village, town, or city. 
-- **Landmarks**: A significant geographic signpost. Crumbling bridges, megaliths, face-shaped outcrop, and so on.
-- **Hazard**: A naturally occurring locale that should be avoided or circumnavigated.
-- **Lairs**: A source of heightened monster activity, enemy encampment, or hive.
-- **Ruins**: An explicitly dangerous locale, dungeon, or adventure site.
-- **Refuge**: A safe, populated haven. An inn, monastery, sanctuary, prison, campground, etc.
+[![Alt text](/img/2e/legend.png "Click to embiggen"){:height="40%" width="40%"}](/img/2e/legend.png)
 
-### Paths
+## Regions
+
+## Borders
+
+## Paths
 
 - **Standard**: A path typical to the region, lacking in special features.
-- **Barrier**: A change in the biome's terrain that slows down or completely blocks further travel. Examples can include rivers, changes in elevation, thickly-grown trees, sinkholes, and more. 
+- **Barrier**: A geographic obstruction that slows down or completely blocks further travel. Examples can include rivers, changes in elevation, thickly-grown trees, sinkholes, and more. 
 - **Chain**: The path is a segment in a series, typically tied to terrain (mountain passes, rivers, trade routes, etc.).
 - **Dead End**: Leads to a remote or isolated location.
 - **Encounter**: The risk of peril is increased. Roll on the Wilderness Event table an extra time, and the chance of getting lost increases by a step.
 - **Hidden**: A path not appearing on any known maps. Learning about them always require some kind of cost. Additionally, chance of getting lost increases by a step.
 - **Shortcut**: A path that provides a significant boost in speed to another POI.
 
+### Draw Paths
+
+- On a flat sheet of paper draw a five-pointed star. This is the "Heart" of your adventure site. We will draw paths from 3-5 of the star's points.
+- Roll on the [Path Types](#path-types) table and draw the results, starting with the heart's top-right point.
+  - Assume that all paths are one Watch long. If you'd like to make them longer, make sure to place more POIs along the way! 
+  - Don't focus too much on the specific traits of any Path or POI, at this time. That includes distance, path types (i.e. trails, roads, rivers, etc.) and other details (towns, Ruins, etc.). 
+
 > Some paths may lead to POIs that allow the PCs to see more of the world than what appears on their map.
-
-### Build the Map
-
-#### Stage One
-
-- On a flat sheet of paper draw a circle. This is the Heart of your adventure site. 
-- Roll 4d12 and write the results around the circle as if it were a clock face. Ignore any duplicates. 
-- Starting with the earliest "hour" on the clock face, roll on the [Path Types](#path-types) table and draw the results.
-  - If a Barrier was rolled, note that the path cuts through the region's border terrain. 
-
-> We can assume that all paths are one Watch long for this procedure, but if you'd like to make them longer, make sure to place more POIs along the way! 
-> Don't focus too much on the specific traits of any Path or POI, at this time. That includes distance, path types (i.e. trails, roads, rivers, etc.) and other details (towns, Ruins, etc.). 
-
-#### Stage Two
-- Starting with the Heart, roll on the [Points of Interest](#points-of-interest) table and draw the results at the terminus of each path. 
-  - The **Heart** is always a **Settlement** of some kind. It isn't necessarily the largest or most important place in the setting, but it should be significant to the region's history.
-
-#### Stage Three
-
-- Roll on the [Path Types](#path-types) table again, creating **two** new paths for every POI _except_ for the Heart. 
-  - Ignore any POIs at Dead Ends.
-  - If a Chain was previously _rolled_, a future connecting path to that POI should also be a Chain of the same path type. 
-  - Connect at least one of each new paths to an existing POI.
-- Roll on the [Points of Interest](#points-of-interest) table again, and draw the results at the terminus of each path.
-- Repeat the process as you like.
-- Number each POI, starting with the Heart.
-
-#### Legend
-
-[![Alt text](/img/2e/legend.png "Click to embiggen"){:height="40%" width="40%"}](/img/2e/legend.png)
 
 #### Path Types
 
@@ -189,6 +164,29 @@ Roll 2d20 and combine the results.
 | **18**  | Wilderness | Standard    |
 | **19**  | Road       | Barrier     |
 | **20**  | Trail      | Hidden      |
+
+
+## Points of Interest
+
+Points of Interest on a map (or POIs) are generally divided into the following categories:  
+- **Settlement**: Any civilized community larger than a single family or religious order. Typically a village, town, or city. 
+- **Landmarks**: A significant geographic signpost. Crumbling bridges, megaliths, face-shaped outcrop, and so on.
+- **Hazard**: A naturally occurring locale that should be avoided or circumnavigated.
+- **Lairs**: A source of heightened monster activity, enemy encampment, or hive.
+- **Ruins**: An explicitly dangerous locale, dungeon, or adventure site.
+- **Refuge**: A safe, populated haven. An inn, monastery, sanctuary, prison, campground, etc.
+
+### Draw POIs
+
+- Starting with the Heart, roll on the [Points of Interest](#points-of-interest) table and draw the results at the terminus of each path. 
+  - The **Heart** is always a **Settlement** of some kind. It isn't necessarily the largest or most important place in the setting, but it should be significant to the region's history.
+- Roll on the [Path Types](#path-types) table again, creating **two** new paths for every POI _except_ for the Heart. 
+  - Ignore any POIs at Dead Ends.
+  - If a Chain was previously _rolled_, a future connecting path to that POI should also be a Chain of the same path type. 
+  - Connect at least one of each new paths to an existing POI.
+- Roll on the [Points of Interest](#points-of-interest) table again, and draw the results at the terminus of each path.
+- Repeat the process as you like.
+- Number each POI, starting with the Heart.
 
 #### Points of Interest
 
@@ -244,7 +242,7 @@ Roll 2d20 and combine the results.
 | **19**  | Farmstead  | Unusual Rulers              |
 | **20**  | Citadel    | Integration with Nature     |
 
-##### Hazards
+#### Hazards
 
 |         |                   |             |
 | ------- | ----------------- | ----------- |
@@ -270,10 +268,7 @@ Roll 2d20 and combine the results.
 | **19**  | Geysers           |             |
 | **20**  | Mudflats          |             |
    
-
-> To be expanded
-
-##### Landmarks
+#### Landmarks
 
 |         |                     |                     |
 | ------- | ------------------- | ------------------- |
@@ -298,9 +293,6 @@ Roll 2d20 and combine the results.
 | **18**  | Shifting sands      | Perpetual shadows   |
 | **19**  | Sunken city         | Endless storm       |
 | **20**  | Broken tower        | Swirling stones     |
-
-
-> To be expanded
 
 ##### Ruins
 
@@ -328,9 +320,7 @@ Roll 2d20 and combine the results.
 | **19**  |                       |     |
 | **20**  |                       |     |
 
-> To be expanded
-
-##### Lairs
+#### Lairs
 
 |         |                   |             |
 | ------- | ----------------- | ----------- |
@@ -356,12 +346,9 @@ Roll 2d20 and combine the results.
 | **19**  |                   |             |
 | **20**  |                   |             |
 
-> To be expanded
-
-##### Refuge
+#### Refuge
 
 Roll 2d20 and combine the results.
-
 
 |         |            |                                     |
 | ------- | ---------- | ----------------------------------- |
@@ -386,5 +373,3 @@ Roll 2d20 and combine the results.
 | **18**  |            | Home to a famous hero               |
 | **19**  |            | Controlled by a supernatural entity |
 | **20**  |            | Reknowned for its scholars          |
-
-> To be expanded

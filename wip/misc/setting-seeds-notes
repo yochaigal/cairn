@@ -1,4 +1,22 @@
 
+1. Regions
+  - Have edges, are experienced as the player moves through them.
+  - Help differentiate areas from each other
+2. Borders
+  - Create boundaries, edges.
+  - Can be seams or barriers.
+  - "Linear breaks in continuity"
+3. Paths
+  - Channels for movement
+  - "Create a cognitive image"
+4. Points
+  - Spots where someone can "enter"
+  - Concentrations, transit hubs, places to visit repeatedly.
+5. Landmarks
+  - Help orient travelers.
+  - Single, local, memorable. Recognizable.
+
+
 
 ## Extras
 
@@ -15,6 +33,10 @@
 **Montane**: Starts where the forest line ends and extends up to the tree line, and is mostly forests and meadows.
 **Subalpine**: Just below the alpine zone, characterized by harsher conditions than the montane and often features shrubland, meadows, and sparse forests.
 **Alpine**: Above the tree line, this zone includes areas where trees cannot grow, featuring mostly grasslands, rocky terrain, and snowfields.
+
+
+If a Barrier was rolled, note that the path cuts through the region's border terrain. 
+
 
 ### Empty Table
 
@@ -54,6 +76,20 @@ Megaliths
 Salt Flats  
 Meteorites 
 Avian predators 
+
+### Old Paths
+
+- **Standard**: A path typical to the region, lacking in special features.
+- **Barrier**: A change in the biome's terrain that slows down or completely blocks further travel. Examples can include rivers, changes in elevation, thickly-grown trees, sinkholes, and more. 
+- **Chain**: The path is a segment in a series, typically tied to terrain (mountain passes, rivers, trade routes, etc.).
+- **Dead End**: Leads to a remote or isolated location.
+- **Encounter**: The risk of peril is increased. Roll on the Wilderness Event table an extra time, and the chance of getting lost increases by a step.
+- **Hidden**: A path not appearing on any known maps. Learning about them always require some kind of cost. Additionally, chance of getting lost increases by a step.
+- **Shortcut**: A path that provides a significant boost in speed to another POI.
+
+> Some paths may lead to POIs that allow the PCs to see more of the world than what appears on their map.
+
+
 
 ### Example Themes
 
