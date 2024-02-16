@@ -116,6 +116,8 @@ Roll 2d20 and combine the results.
 
 ## Regions
 
+Regions are wide swaths of land defined by a particular terrain (e.g. tundra, hills, etc.), arbitrary political boundaries (a kingdom, a barony, etc.), or both.
+
 ## Borders
 
 ## Paths
@@ -130,40 +132,40 @@ Roll 2d20 and combine the results.
 
 ### Draw Paths
 
-- On a flat sheet of paper draw a five-pointed star. This is the "Heart" of your adventure site. We will draw paths from 3-5 of the star's points.
-- Roll on the [Path Types](#path-types) table and draw the results, starting with the heart's top-right point.
+- On a flat sheet of paper draw a five-pointed star. This is the "Heart" of your adventure site. 
+- Select a point on the star, and roll on the [Path Types](#path-types) table and draw the results.
   - Assume that all paths are one Watch long. If you'd like to make them longer, make sure to place more POIs along the way! 
-  - Don't focus too much on the specific traits of any Path or POI, at this time. That includes distance, path types (i.e. trails, roads, rivers, etc.) and other details (towns, Ruins, etc.). 
+  - Don't focus too much on the specific traits of any Path or POI, at this time. That includes distance, path types (i.e. trails, roads, rivers, etc.) and other details (towns, Ruins, etc.).
+  - Create between 3-5 paths from each of the star's points.
+- Next, determine whether the path is going to be a Trail (T), a Road (R), or a Wilderness (W) route.
 
 > Some paths may lead to POIs that allow the PCs to see more of the world than what appears on their map.
 
 #### Path Types
 
-Roll 2d20 and combine the results.
+Roll 2d8 and combine the results.
 
-|         |            |             |
-| ------- | ---------- | ----------- |
-| **d20** | **Type**   | **Feature** |
-| **1**   | Trail      | Dead End    |
-| **2**   | Wilderness | Chain       |
-| **3**   | Trail      | Chain       |
-| **4**   | Wilderness | Hidden      |
-| **5**   | Road       | Hidden      |
-| **6**   | Trail      | Standard    |
-| **7**   | Wilderness | Chain       |
-| **8**   | Road       | Encounter   |
-| **9**   | Trail      | Barrier     |
-| **10**  | Wilderness | Dead End    |
-| **11**  | Road       | Standard    |
-| **12**  | Wilderness | Barrier     |
-| **13**  | Road       | Shortcut    |
-| **14**  | Wilderness | Barrier     |
-| **15**  | Road       | Shortcut    |
-| **16**  | Road       | Dead End    |
-| **17**  | Trail      | Standard    |
-| **18**  | Wilderness | Standard    |
-| **19**  | Road       | Barrier     |
-| **20**  | Trail      | Hidden      |
+|         |           |             |
+| ------- | --------- | ----------- |
+| **d8**  | **Type**  | **Feature** |
+| **1**   | Trail   |             |
+| **2**   | Road     |             |
+| **3**   | Wilderness  |             |
+| **4**   |  |             |
+
+
+
+|         |           |             |
+| ------- | --------- | ----------- |
+| **d8**  | **Type**  | **Feature** |
+| **1**   | Barrier   |             |
+| **2**   | Chain     |             |
+| **3**   | Dead End  |             |
+| **4**   | Elevation |             |
+| **5**   | Encounter |             |
+| **6**   | Hidden    |             |
+| **7**   | Shortcut  |             |
+| **8**   | Standard  |             |
 
 
 ## Points of Interest
