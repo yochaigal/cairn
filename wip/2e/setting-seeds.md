@@ -140,7 +140,7 @@ Roll 2d20 and combine the results.
 | ------- | ----------------- |
 | **d6**  | **POI**           |
 | **1**   | Settlement/Refuge |
-| **2-3** | Hazard            |
+| **2-3** | Special              |
 | **4**   | Lair              |
 | **5-6** | Dungeon           |
 
@@ -149,7 +149,7 @@ Roll 2d20 and combine the results.
 Points of Interest on a map (or POIs) are generally divided into the following categories:  
 - **Settlements**: Any civilized community larger than a single family or religious order. Typically a village, town, or city. 
 - **Refuges**: A safe, populated haven. An inn, monastery, sanctuary, prison, campground, etc.
-- **Hazards**: A naturally occurring locale that should be avoided or circumnavigated.
+- **Special**: A locale that is unlikely to be directly dangerous, but definitely remarkable or strange.
 - **Lairs**: A source of heightened monster activity, enemy encampment, or hive.
 - **Dungeons**: An explicitly dangerous locale, dungeon, or adventure site.
 
