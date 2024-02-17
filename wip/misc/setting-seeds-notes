@@ -567,8 +567,10 @@ Potentially:
 ### Die Drop Procedure
 
 - To create POIs, roll 6d6 on a sheet of paper.
-  - Circle the dice, write the face-up die result.
-  - Compare the die result to the POI table.
+  - Circle clumps of dice. These are your regions.  
+  - Circle the dice, writing the face-up die result on the page.
+  - Roll on the Regions table for each clump.
+  - Compare the individual die results to the POI table.
   - The first 1 result is your region's Heart, or primary settlement. If no settlement is rolled, roll one more die. This becomes the Heart, regardless of the outcome.
   - Mark the distance between each POI by rolling 1d6 for close POIs, 2d6 for moderate distances, and 3d6 for POIs far apart. The result is how many days of travel between each POI.
 - Roll 2d20 on the relevant tables and combine for each POI.
