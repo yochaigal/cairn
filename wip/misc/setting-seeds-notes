@@ -17,8 +17,89 @@
   - Single, local, memorable. Recognizable.
 
 
+## Probabilities
 
-## Extras
+### d20 Distribution 
+
+- Settlement: 5%
+- Landmark: 10%
+- Hazard: 10%
+- Ruins: 45%
+- Lair: 20%
+- Refuge: 15%
+
+### d12 Distribution
+
+- Settlement: 8.33%
+- Landmark: 8.33%
+- Hazard: 8.33%
+- Ruins: 41.67%
+- Lair: 16.67%
+- Refuge: 16.67%
+
+### d10 Distribution
+
+- Settlement: 10.0%
+- Landmark: 10.0%
+- Hazard: 10.0%
+- Ruins: 40.0%
+- Lair: 20.0%
+- Refuge: 20.0%
+
+### d8 Distribution 
+
+- Settlement: 12.5%
+- Landmark: 12.5%
+- Hazard: 12.5%
+- Ruins: 50.0%
+- Lair: 25.0%
+- Refuge: 12.5%
+
+### d6 Distribution
+
+- Settlement: 16.67%
+- Landmark: 16.67%
+- Hazard: 16.67%
+- Ruins: 50.0%
+- Lair: 16.67%
+- Refuge: 16.67%
+
+### d4 Distribution
+
+- Settlement: 25.0%
+- Landmark: 25.0%
+- Hazard: 25.0%
+- Ruins: 50.0%
+- Lair: 25.0%
+- Refuge: 25.0%
+
+### d20
+
+- Settlement: 1
+- Landmark: 2
+- Hazard: 2
+- Ruins: 9
+- Lair: 4
+- Refuge: 3
+
+### d12
+
+- Settlement: 1 face
+- Landmark: 1 face
+- Hazard: 1 face
+- Ruins: 5 faces
+- Lair: 2 faces
+- Refuge: 2 faces
+
+### d8
+
+- Settlement: 1 face
+- Landmark: 1 face
+- Hazard: 1 face
+- Ruins: 4 faces
+- Lair: 2 faces
+- Refuge: 1 face
+
 
 #### Elevated Paths
 
@@ -473,3 +554,29 @@ POIs
 - **Dead Ends**: 11
 - **Refuge**: 2
 - **Dungeon/Adventure**: 2
+
+
+Potentially:
+- **Settlements**: 1
+- **Landmarks**: 6
+- **Hazards**: 6
+- **Lairs**: 9
+- **Dungeons**: 2
+- **Refuge**: 2
+
+### Die Drop Procedure
+
+- To create POIs, roll 6d6 on a sheet of paper.
+  - Circle the dice, write the face-up die result.
+  - Compare the die result to the POI table.
+  - The first 1 result is your region's Heart, or primary settlement. If no settlement is rolled, roll one more die. This becomes the Heart, regardless of the outcome.
+  - Mark the distance between each POI by rolling 1d6 for close POIs, 2d6 for moderate distances, and 3d6 for POIs far apart. The result is how many days of travel between each POI.
+- Roll 2d20 on the relevant tables and combine for each POI.
+  - Create 1-4 paths between each location.
+
+#### POI Die Drop Table
+
+1: Settlement (once), Refuge
+2-3: Landmark or Hazard
+4: Lair
+5-6: Dungeon

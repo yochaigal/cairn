@@ -145,27 +145,27 @@ Regions are wide swaths of land defined by a particular terrain (e.g. tundra, hi
 
 Roll 2d8 and combine the results.
 
-|         |           |             |
-| ------- | --------- | ----------- |
-| **d8**  | **Type**  | **Feature** |
-| **1**   | Trail   |             |
-| **2**   | Road     |             |
-| **3**   | Wilderness  |             |
-| **4**   |  |             |
+|        |            |             |
+| ------ | ---------- | ----------- |
+| **d8** | **Type**   | **Feature** |
+| **1**  | Trail      |             |
+| **2**  | Road       |             |
+| **3**  | Wilderness |             |
+| **4**  |            |             |
 
 
 
-|         |           |             |
-| ------- | --------- | ----------- |
-| **d8**  | **Type**  | **Feature** |
-| **1**   | Barrier   |             |
-| **2**   | Chain     |             |
-| **3**   | Dead End  |             |
-| **4**   | Elevation |             |
-| **5**   | Encounter |             |
-| **6**   | Hidden    |             |
-| **7**   | Shortcut  |             |
-| **8**   | Standard  |             |
+|        |           |             |
+| ------ | --------- | ----------- |
+| **d8** | **Type**  | **Feature** |
+| **1**  | Barrier   |             |
+| **2**  | Chain     |             |
+| **3**  | Dead End  |             |
+| **4**  | Elevation |             |
+| **5**  | Encounter |             |
+| **6**  | Hidden    |             |
+| **7**  | Shortcut  |             |
+| **8**  | Standard  |             |
 
 
 ## Points of Interest
@@ -175,7 +175,7 @@ Points of Interest on a map (or POIs) are generally divided into the following c
 - **Landmarks**: A significant geographic signpost. Crumbling bridges, megaliths, face-shaped outcrop, and so on.
 - **Hazard**: A naturally occurring locale that should be avoided or circumnavigated.
 - **Lairs**: A source of heightened monster activity, enemy encampment, or hive.
-- **Ruins**: An explicitly dangerous locale, dungeon, or adventure site.
+- **Dungeons**: An explicitly dangerous locale, dungeon, or adventure site.
 - **Refuge**: A safe, populated haven. An inn, monastery, sanctuary, prison, campground, etc.
 
 ### Draw POIs
