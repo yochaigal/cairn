@@ -158,190 +158,79 @@ Salt Flats
 Meteorites 
 Avian predators 
 
-|        |                                         |
-| ------ | --------------------------------------- |
-| **dx** | **Landmark**                            |
-| 1      | Wooden arch                             |
-| 2      | Giant mushroom                          |
-| 3      | Mushroom covered tree                   |
-| 4      | Beaver dam                              |
-| 5      | emblem on a pole                        |
-| 6      | Lumberlands                             |
-| 7      | Tombstone                               |
-| 8      | Giant mushroom forest                   |
-| 9      | Sword stuck in rock                     |
-| 10     | statue in pieces                        |
-| 11     | Tall grasses                            |
-| 12     | Bluffs                                  |
-| 13     | Stone calendar                          |
-| 14     | burrow                                  |
-| 15     | Garland of bones                        |
-| 16     | Flowery fields                          |
-| 17     | Alpine lake                             |
-| 18     | Tree decorated with feathers            |
-| 19     | Log cabin                               |
-| 20     | Graveyard                               |
-| 21     | Fish pond                               |
-| 22     | Giant exoskeleton                       |
-| 23     | stone table                             |
-| 24     | covered with cobwebs                    |
-| 25     | Dense thicket                           |
-| 26     | Place struck by repeatedly by lightning |
-| 27     | old Gallows                             |
-| 28     | old Well                                |
-| 29     | Circle of menhirs                       |
-| 30     | Shrub in the shape of a body            |
-| 31     | Overgrowth                              |
-| 32     | Dry knoll                               |
-| 33     | Rock overhang                           |
-| 34     | Pillory                                 |
-| 35     | Giant animal skeleton                   |
-| 36     | Carved rock                             |
-| 37     | Holly bush                              |
-| 38     | Hidden caves                            |
-| 39     | Grassy river                            |
-| 40     | Map carved into rock                    |
-| 41     | Burned forest                           |
-| 42     | Beehives                                |
-| 43     | Hangman's beam                          |
-| 44     | Flower circle                           |
-| 45     | Boundary stone                          |
-| 46     | Sunken fields                           |
-| 47     | Banner                                  |
-| 48     | Old house                               |
-| 49     | new construction site                   |
-| 50     | Abandoned market stalls                 |
-| 51     | Mushroom patch                          |
-| 52     | Cool stream                             |
-| 53     | Tree alignment                          |
-| 54     | Broken cart                             |
-| 55     | Meteorite                               |
-| 56     | Statue                                  |
-| 57     | Majestic peak                           |
-| 58     | Tree with colorful leaves               |
-| 59     | Dead forest                             |
-| 60     | Bird netting                            |
-| 61     | Gentle slopes                           |
-| 62     | Giant root                              |
-| 63     | Wooden barrier                          |
-| 64     | Decrepit fence                          |
-| 65     | Cage hanging from a tree                |
-| 66     | Man sized diptych                       |
-| 67     | Freshly dug grave                       |
-| 68     | Rare flower                             |
-| 69     | Pond covered with lily pads             |
-| 70     | Grassy lake                             |
-| 71     | Dry riverbed                            |
-| 72     | Tree house                              |
-| 73     | Cocoons                                 |
-| 74     | Bridge                                  |
-| 75     | Menhir                                  |
-| 76     | Vineyards                               |
-| 77     | Root forming a gate                     |
-| 78     | Shipwreck                               |
-| 79     | Wall covered with hieroglyphics         |
-| 80     | Mine                                    |
-| 81     | Plant overgrowth                        |
-| 82     | Remains of a ritual                     |
-| 83     | Natural stone arch                      |
-| 84     | Hanging bridge                          |
-| 85     | Beehive in a tree                       |
-| 86     | Burnt area                              |
-| 87     | Mushroom circle                         |
-| 88     | Centenary tree                          |
-| 89     | Waterfall                `               |
-| 90     | Pit full of bones                       |
-| 91     | Tumulus                                 |
-| 92     | Battlefield                             |
-| 93     | Symbol engraved in the earth            |
-| 94     | Rolling fields                          |
-| 95     | Moss covered ground                     |
-| 96     | Rocky caves                             |
-| 97     | Sacrifice table                         |
-| 98     | Weeping willow tree                     |
-| 99     | Old farm                                |
-| 100    | Pyre ready to be lit                    |
-| 101    | Gully lake                              |
-| 102    | Huge trees                              |
-| 103    | Tomb with sepulchre                     |
-| 104    | Altar                                   |
-| 105    | Flower bed                              |
-| 106    | Fishing pontoon                         |
-| 107    | Rotting tree trunk                      |
-| 108    | alluvial deposits                       |
-| 109    | Pile of stones/mud                      |
-| 110    | Anthill                                 |
-| 111    | Animal skeleton                         |
-| 112    | Commemorative cross                     |
-| 113    | Giant chain anchored to the ground      |
-| 114    | Dragon statue                           |
-| 115    | Hammock between two trees               |
-| 116    | Plundered caravan                       |
-| 117    | Fallow field                            |
-| 118    | Dump                                    |
-| 119    | Soil turned by wild animals            |
-| 120    | Quarry                                  |
-| 121    | Petrified woods                         |
-| 122    | Firewood reserve                        |
-| 123    | Bush cut into animal shapes             |
-| 124    | Meadow with animals                     |
-| 125    | Burned fields                           |
-| 126    | Bramble bed                             |
-| 127    | spring                                  |
-| 128    | Sinkhole                                |
-| 129    | Manure pit                              |
-| 130    | Skulls hanging from trees               |
-| 131    | Latrines                                |
-| 132    | Pile of branches                        |
-| 133    | Nest of a giant bird                    |
-| 134    | Dolmen                                  |
-| 135    | Crystalline proliferation               |
-| 136    | Scarecrow                               |
-| 137    | Archery target                          |
-| 138    | Uprooted tree                           |
-| 139    | Collapsed mine entrance                 |
-| 140    | nfested oak                             |
-| 141    | Swing                                   |
-| 142    | Stone arch                              |
-| 143    | Almanac carved in stone                 |
-| 144    | Volcano                                 |
-| 145    | Animal shaped rock                      |
-| 146    | Ruined wall                             |
-| 147    | Moss gully                              |
-| 148    | Burial mounds                           |
-| 149    | Phosphorescent mushrooms                |
-| 150    | purple flowers                          |
-| 151    | Rocky thorn                             |
-| 152    | Carnivorous plant                       |
-| 153    | Sundial                                 |
-| 154    | Heads on spears                         |
-| 155    | Dead tree                               |
-| 156    | Wrought iron gate                       |
-| 157    | altar                                   |
-| 158    | Hollow tree                             |
-| 159    | Rotting trebuchet                       |
-| 160    | Wild roses                              |
-| 161    | Lonely tree                             |
-| 162    | Frog pond                               |
-| 163    | Snow pack                               |
-| 164    | Abandoned dam                           |
-| 165    | Totem                                   |
-| 166    | Cairn                                   |
-| 167    | Steep fissure                           |
-| 168    | Tree stump                              |
-| 169    | Greenhouse                              |
-| 170    | Vault                                   |
-| 171    | Bench                                   |
-| 172    | Animal cemetery                         |
-| 173    | Boulder field                           |
-| 174    | Stone with fossil                       |
-| 175    | Gigantic traces                         |
-| 176    | Cemetery                                |
-| 177    | Wood sculpture                          |
-| 178    | Rock with keyhole                       |
-| 179    | Giant crystal                           |
-| 180    | Particularly strange rock               |
+- **Landmarks**: A significant geographic signpost. Crumbling bridges, megaliths, face-shaped outcrop, and so on.
 
+
+
+|     |                                    |
+| --- | ---------------------------------- |
+| dx  | Landmark                           |
+| 1   | Wooden arch                        |
+| 8   | Giant mushroom forest              |
+| 9   | Sword stuck in rock                |
+| 12  | Bluffs                             |
+| 13  | Stone calendar                     |
+| 17  | Alpine lake                        |
+| 22  | Giant exoskeleton                  |
+| 29  | Circle of menhirs                  |
+| 32  | Dry knoll                          |
+| 33  | Rock overhang                      |
+| 35  | Giant animal skeleton              |
+| 36  | Carved rock                        |
+| 38  | Hidden caves                       |
+| 40  | Map carved into rock               |
+| 43  | Hangman's beam                     |
+| 45  | Boundary stone                     |
+| 57  | Majestic peak                      |
+| 58  | Tree with colorful leaves          |
+| 69  | Pond covered with lily pads        |
+| 72  | Tree house                         |
+| 74  | Bridge                             |
+| 75  | Menhir                             |
+| 77  | Root forming a gate                |
+| 78  | Shipwreck                          |
+| 79  | Wall covered with hieroglyphics    |
+| 83  | Natural stone arch                 |
+| 84  | Hanging bridge                     |
+| 87  | Mushroom circle                    |
+| 88  | Centenary tree                     |
+| 89  | Waterfall                          |
+| 90  | Pit full of bones                  |
+| 92  | Battlefield                        |
+| 93  | Symbol engraved in the earth       |
+| 96  | Rocky caves                        |
+| 97  | Sacrifice table                    |
+| 98  | Weeping willow tree                |
+| 102 | Huge trees                         |
+| 103 | Tomb with sepulchre                |
+| 109 | Pile of stones/mud                 |
+| 113 | Giant chain anchored to the ground |
+| 114 | Dragon statue                      |
+| 120 | Quarry                             |
+| 121 | Petrified woods                    |
+| 128 | Sinkhole                           |
+| 133 | Nest of a giant bird               |
+| 134 | Dolmen                             |
+| 135 | Crystalline proliferation          |
+| 142 | Stone arch                         |
+| 144 | Volcano                            |
+| 145 | Animal shaped rock                 |
+| 148 | Burial mounds                      |
+| 149 | Phosphorescent mushrooms           |
+| 153 | Sundial                            |
+| 154 | Heads on spears                    |
+| 156 | Wrought iron gate                  |
+| 164 | Abandoned dam                      |
+| 165 | Totem                              |
+| 166 | Cairn                              |
+| 167 | Steep fissure                      |
+| 169 | Greenhouse                         |
+| 173 | Boulder field                      |
+| 174 | Stone with fossil                  |
+| 175 | Gigantic traces                    |
+| 178 | Rock with keyhole                  |
+| 179 | Giant crystal                      |
+| 180 | Particularly strange rock          |
 
 ### Path Types
 
@@ -596,3 +485,34 @@ Potentially:
 - Roll on the [Points of Interest](#points-of-interest) table again, and draw the results at the terminus of each path.
 - Repeat the process as you like.
 - Number each POI, starting with the Heart.
+
+
+
+Roll 2d20 and combine the results.
+
+|         |            |             |
+| ------- | ---------- | ----------- |
+| **d20** | **POI**    | **Feature** |
+| **1**   | Settlement | Elevated    |
+| **2**   | Landmark   | Sinking     |
+| **3**   | Hazard     | Shifting    |
+| **4**   | Ruins      | Stinking    |
+| **5**   | Ruins      | Ragged      |
+| **6**   | Lair       | Gleaming    |
+| **7**   | Lair       | Hideous     |
+| **8**   | Ruins      | Lonely      |
+| **9**   | Landmark   |             |
+| **10**  | Refuge     |             |
+| **11**  | Lair       |             |
+| **12**  | Ruins      |             |
+| **13**  | Ruins      |             |
+| **14**  | Ruins      |             |
+| **15**  | Ruins      |             |
+| **16**  | Lair       |             |
+| **17**  | Hazard     |             |
+| **18**  | Refuge     |             |
+| **19**  | Refuge     |             |
+| **20**  | Ruins      |             |
+
+
+   

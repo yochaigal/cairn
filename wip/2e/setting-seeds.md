@@ -95,7 +95,7 @@ Roll 2d20 and combine the results.
    - Roll on the [Regions](#regions) table for each clump and note the results.
    - Regions are wide swaths of land defined by a particular terrain (e.g. tundra, hills, etc.), arbitrary political boundaries (a kingdom, a barony, etc.), or both.
  - Circle each individual die, writing the face-up die result on the map beneath.
- - Compare each individual die result to the [Die Drop](#die-drop-table) table.
+ - Compare each individual die result to the [Die Drop](#die-drop-table) table and note the results.
   - The first 1 result is the region's Heart, or primary settlement. 
   - If no settlement is rolled, roll one more die. This becomes the Heart, regardless of the outcome.
 - Roll 2d20 on the relevant tables and combine for each POI.
@@ -147,38 +147,11 @@ Roll 2d20 and combine the results.
 ### Points of Interest
 
 Points of Interest on a map (or POIs) are generally divided into the following categories:  
-- **Settlement**: Any civilized community larger than a single family or religious order. Typically a village, town, or city. 
-- **Landmarks**: A significant geographic signpost. Crumbling bridges, megaliths, face-shaped outcrop, and so on.
-- **Hazard**: A naturally occurring locale that should be avoided or circumnavigated.
+- **Settlements**: Any civilized community larger than a single family or religious order. Typically a village, town, or city. 
+- **Refuges**: A safe, populated haven. An inn, monastery, sanctuary, prison, campground, etc.
+- **Hazards**: A naturally occurring locale that should be avoided or circumnavigated.
 - **Lairs**: A source of heightened monster activity, enemy encampment, or hive.
 - **Dungeons**: An explicitly dangerous locale, dungeon, or adventure site.
-- **Refuge**: A safe, populated haven. An inn, monastery, sanctuary, prison, campground, etc.
-
-Roll 2d20 and combine the results.
-
-|         |            |             |
-| ------- | ---------- | ----------- |
-| **d20** | **POI**    | **Feature** |
-| **1**   | Settlement | Elevated    |
-| **2**   | Landmark   | Sinking     |
-| **3**   | Hazard     | Shifting    |
-| **4**   | Ruins      | Stinking    |
-| **5**   | Ruins      | Ragged      |
-| **6**   | Lair       | Gleaming    |
-| **7**   | Lair       | Hideous     |
-| **8**   | Ruins      | Lonely      |
-| **9**   | Landmark   |             |
-| **10**  | Refuge     |             |
-| **11**  | Lair       |             |
-| **12**  | Ruins      |             |
-| **13**  | Ruins      |             |
-| **14**  | Ruins      |             |
-| **15**  | Ruins      |             |
-| **16**  | Lair       |             |
-| **17**  | Hazard     |             |
-| **18**  | Refuge     |             |
-| **19**  | Refuge     |             |
-| **20**  | Ruins      |             |
 
 #### Settlement
 
@@ -234,11 +207,9 @@ Roll 2d20 and combine the results.
 | **19**  |            | Controlled by a supernatural entity |
 | **20**  |            | Renowned for its scholars           |
 
-
 #### Hazards
 
 Roll 2d20 and combine the results.
-
 
 |         |                   |             |
 | ------- | ----------------- | ----------- |
@@ -268,7 +239,6 @@ Roll 2d20 and combine the results.
 
 Roll 2d20 and combine the results.
 
-
 |         |                     |                    |
 | ------- | ------------------- | ------------------ |
 | **d20** | **Landmark**        | **Feature**        |
@@ -297,18 +267,17 @@ Roll 2d20 and combine the results.
 
 Roll 2d20 and combine the results.
 
-
 |         |                   |             |
 | ------- | ----------------- | ----------- |
 | **d20** | **Lair**          | **Feature** |
-| **1**   | Blighted cave     |             |
-| **2**   | Colossal hive     |             |
-| **3**   | Crumbling tower   |             |
-| **4**   | Hidden burrow     |             |
-| **5**   | Illusory shelter  |             |
-| **6**   | Massive tree      |             |
-| **7**   | Primitive bridge  |             |
-| **8**   | Rusted metal cube |             |
+| **1**   | Blighted cave     | Elevated    |
+| **2**   | Colossal hive     | Sinking     |
+| **3**   | Crumbling tower   | Shifting    |
+| **4**   | Hidden burrow     | Stinking    |
+| **5**   | Illusory shelter  | Ragged      |
+| **6**   | Massive tree      | Gleaming    |
+| **7**   | Primitive bridge  | Hideous     |
+| **8**   | Rusted metal cube | Lonely      |
 | **9**   | Shallow island    |             |
 | **10**  | Derelict ship     |             |
 | **11**  | Sunken thicket    |             |
@@ -322,10 +291,10 @@ Roll 2d20 and combine the results.
 | **19**  |                   |             |
 | **20**  |                   |             |
 
+
 #### Dungeons
 
 Roll 2d20 and combine the results.
-
 
 |         |                       |     |
 | ------- | --------------------- | --- |
