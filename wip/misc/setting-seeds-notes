@@ -249,7 +249,7 @@ Avian predators
 | 86     | Burnt area                              |
 | 87     | Mushroom circle                         |
 | 88     | Centenary tree                          |
-| 89     | Waterfall                               |
+| 89     | Waterfall                `               |
 | 90     | Pit full of bones                       |
 | 91     | Tumulus                                 |
 | 92     | Battlefield                             |
@@ -279,7 +279,7 @@ Avian predators
 | 116    | Plundered caravan                       |
 | 117    | Fallow field                            |
 | 118    | Dump                                    |
-| 119    | Soil turned by wild annimals            |
+| 119    | Soil turned by wild animals            |
 | 120    | Quarry                                  |
 | 121    | Petrified woods                         |
 | 122    | Firewood reserve                        |
@@ -579,6 +579,20 @@ Potentially:
 #### POI Die Drop Table
 
 1: Settlement (once), Refuge
-2-3: Landmark or Hazard
+2-3: Hazard
 4: Lair
 5-6: Dungeon
+
+
+### Old Procedures
+
+
+- Starting with the Heart, roll on the [Points of Interest](#points-of-interest) table and draw the results at the terminus of each path. 
+  - The **Heart** is always a **Settlement** of some kind. It isn't necessarily the largest or most important place in the setting, but it should be significant to the region's history.
+- Roll on the [Path Types](#path-types) table again, creating **two** new paths for every POI _except_ for the Heart. 
+  - Ignore any POIs at Dead Ends.
+  - If a Chain was previously _rolled_, a future connecting path to that POI should also be a Chain of the same path type. 
+  - Connect at least one of each new paths to an existing POI.
+- Roll on the [Points of Interest](#points-of-interest) table again, and draw the results at the terminus of each path.
+- Repeat the process as you like.
+- Number each POI, starting with the Heart.
