@@ -13,15 +13,16 @@ search_exclude: true
 
 The following procedure is designed to help create the _seed_ of a setting: the geography, people, and paths that an adventuring party may have to navigate as they travel throughout a region. We'll start by drawing a map of the region, noting its unique topography, natural features, towns, lairs, dungeons, roads, and so on. Then we'll develop the people of the region, their ambitions and resources, and the factions that rule them.
 
+### Draw the Map
+
 ### Materials Required
 - At least one sheet of paper. Letter/A4 is OK, but the larger the better.
 - Pencils and erasers.
 - At least one d6 and one d20, but 6d6 and 2d20 would be ideal.
 
-## Create the Map
 - Draw the letter **H** anywhere on a sheet of paper, or roll a d6 and mark where it lands. This is the region's **Heart**, or primary settlement. 
-  - Roll 6d6 on the paper, ignoring any dice that roll off the page. These are the maps's **Points of Interest** (POI).
-  - Note the face up results according to the [Die Drop Table](#die-drop-table), writing its corresponding letter on the page beneath (e.g. R = Refuge, S = Special, etc.).
+  - Roll 6d6 on the page, ignoring any dice that roll off the page. These are the maps's **Points of Interest** (POI).
+  - Note the face up results according to the [Die Drop Table](#die-drop-table), writing its corresponding letter on the page beneath (e.g. R = Waypoint, S = Special, etc.).
 - Draw circles around the dice in bordering clumps of 2-4 dice each. These represent the map's regions.
   - The Heart can be in its own circle, or can be included in another region.
   - Regions should be big enough to touch each other. They _are_ the map.
@@ -35,8 +36,8 @@ The following procedure is designed to help create the _seed_ of a setting: the 
 
 Points of Interest on a map (or POIs) are generally divided into the following categories:  
 - **Settlements**: Permanent, largely self-sufficient population centers, typically governed by a political body or faction.
-- **Refuges**: A safe place to refill supplies, get a good night's sleep, or get directions. Often rely on travellers for survival, but provide necessary services.
-- **Wonder**: A locale that is not necessarily dangerous, but definitely remarkable or strange.
+- **Waypoints**: A safe place to refill supplies, get a good night's sleep, or get directions. Often rely on travellers for survival, but provide necessary services.
+- **Curiosities**: A wilderness locale of note, somewhere remarkable or strange. It may indeed be hazardous, but only if the PCs interact with it.
 - **Lairs**: A source of heightened monster activity, enemy encampment, or hive.
 - **Dungeons**: An explicitly dangerous locale, dungeon, or adventure site.
 
@@ -44,13 +45,13 @@ Points of Interest on a map (or POIs) are generally divided into the following c
 
 ### Die Drop Table
 
-|         |                      |
-| ------- | -------------------- |
-| **d6**  | **POI**              |
-| **1**   | Refuge or Settlement |
-| **2-3** | Wonder               |
-| **4**   | Lair                 |
-| **5-6** | Dungeon              |
+|         |                        |
+| ------- | ---------------------- |
+| **d6**  | **POI**                |
+| **1**   | Waypoint or Settlement |
+| **2-3** | Curiosities                 |
+| **4**   | Lair                   |
+| **5-6** | Dungeon                |
 
 ### Regions
 
@@ -82,38 +83,37 @@ Roll 2d20 and combine the results.
 
 ### Settlements
 
-|         |            |                                  |
-| ------- | ---------- | -------------------------------- |
-| **d20** | **Type**   | **Feature**                      |
-| **1**   | Academy    | Built Atop Ruins                 |
-| **2**   | Caravan    | Center of Learning               |
-| **3**   | Citadel    | Close-knit                       |
-| **4**   | City       | Divided                          |
-| **5**   | Commune    | Emits a Mysterious Hum           |
-| **6**   | Compound   | Famous for its Festivals         |
-| **7**   | Convent    | Guarded by Trained Beasts        |
-| **8**   | Farmstead  | High Population Density          |
-| **9**   | Fortress   | Impregnable                      |
-| **10**  | Garrison   | Integrated with Nature           |
-| **11**  | Hamlet     | Known for its Elaborate Defenses |
-| **12**  | Keep       | Known for its Hospitality        |
-| **13**  | Monastery  | Location of a Legendary Forge    |
-| **14**  | Outpost    | Moves or Revolves                |
-| **15**  | Plantation | Protected by a Great Warrior     |
-| **16**  | Prison     | Renowned Artisans                |
-| **17**  | Stronghold | Rests on Bones of Giants         |
-| **18**  | Town       | Ruled by a Powerful Faction      |
-| **19**  | Villa      | Steeped in Tradition             |
-| **20**  | Village    | Trading Hub                      |
+|         |                 |                                  |
+| ------- | --------------- | -------------------------------- |
+| **d20** | **Settlements** | **Feature**                      |
+| **1**   | Academy         | Built Atop Ruins                 |
+| **2**   | Caravan         | Center of Learning               |
+| **3**   | Citadel         | Close-knit                       |
+| **4**   | City            | Divided                          |
+| **5**   | Commune         | Emits a Mysterious Hum           |
+| **6**   | Compound        | Famous for its Festivals         |
+| **7**   | Convent         | Guarded by Trained Beasts        |
+| **8**   | Farmstead       | High Population Density          |
+| **9**   | Fortress        | Impregnable                      |
+| **10**  | Garrison        | Integrated with Nature           |
+| **11**  | Hamlet          | Known for its Elaborate Defenses |
+| **12**  | Keep            | Known for its Hospitality        |
+| **13**  | Monastery       | Location of a Legendary Forge    |
+| **14**  | Outpost         | Moves or Revolves                |
+| **15**  | Plantation      | Protected by a Great Warrior     |
+| **16**  | Prison          | Renowned Artisans                |
+| **17**  | Stronghold      | Rests on Bones of Giants         |
+| **18**  | Town            | Ruled by a Powerful Faction      |
+| **19**  | Villa           | Steeped in Tradition             |
+| **20**  | Village         | Trading Hub                      |
 
-
-### Refuge
+### Waypoints
 
 Roll 2d20 and combine the results.
 
 |         |               |             |
 | ------- | ------------- | ----------- |
-| **d20** | **Type**      | **Feature** |
+| **d20** | **Waypoints** | **Feature** |
 | **1**   | Archive       |             |
 | **2**   | Asylum        |             |
 | **3**   | Bazaar        |             |
@@ -135,13 +135,13 @@ Roll 2d20 and combine the results.
 | **19**  | Watchtower    |             |
 | **20**  | Work Camp     |             |
 
-### Wonder
+### Curiosities
 
 Roll 2d20 and combine the results.
 
 |         |                     |                    |
 | ------- | ------------------- | ------------------ |
-| **d20** | **Wonder**          | **Feature**        |
+| **d20** | **Curiosities**          | **Feature**        |
 | **1**   | Ancient tree        | Ancient library    |
 | **2**   | Enormous footprint  | Bloody battlefield |
 | **3**   | Endless sinkholes   | Fungal growths     |
