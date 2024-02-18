@@ -140,7 +140,7 @@ Roll 2d20 and combine the results.
 | ------- | ----------------- |
 | **d6**  | **POI**           |
 | **1**   | Settlement/Refuge |
-| **2-3** | Special              |
+| **2-3** | Special           |
 | **4**   | Lair              |
 | **5-6** | Dungeon           |
 
@@ -152,6 +152,20 @@ Points of Interest on a map (or POIs) are generally divided into the following c
 - **Special**: A locale that is unlikely to be directly dangerous, but definitely remarkable or strange.
 - **Lairs**: A source of heightened monster activity, enemy encampment, or hive.
 - **Dungeons**: An explicitly dangerous locale, dungeon, or adventure site.
+
+
+#### Heart
+
+|        |                |
+| ------ | -------------- |
+| **d6** | **Settlement** |
+| **1**  | Caravan        |
+| **2**  | City           |
+| **3**  | Farmstead      |
+| **4**  | Hamlet         |
+| **5**  | Town           |
+| **6**  | Village        |
+
 
 #### Settlement
 
@@ -178,6 +192,33 @@ Points of Interest on a map (or POIs) are generally divided into the following c
 | **18**  | Sanctuary  | Perpetually Revolves        |
 | **19**  | Farmstead  | Unusual Rulers              |
 | **20**  | Citadel    | Integration with Nature     |
+
+
+|         |                |
+| ------- | -------------- |
+| **d20** | **Settlement** |
+| **1**   | Academy        |
+| **2**   | Campground     |
+| **3**   | Caravan        |
+| **4**   | Citadel        |
+| **5**   | City           |
+| **6**   | Commune        |
+| **7**   | Farmstead      |
+| **8**   | Fortress       |
+| **9**   | Hamlet         |
+| **10**  | Inn            |
+| **11**  | Monastery      |
+| **12**  | Outpost        |
+| **13**  | Prison         |
+| **14**  | Refuge         |
+| **15**  | Sanctuary      |
+| **16**  | Stronghold     |
+| **18**  | Temple         |
+| **19**  | Town           |
+| **20**  | Villa          |
+| **21**  | Village        |
+
+
 
 #### Refuge
 
