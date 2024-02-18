@@ -84,26 +84,20 @@ Roll 2d20 and combine the results.
 | **19**  | Textiles      | Vessels       |
 | **20**  | Weapons       | Fuel          |
 
-## Legend
-
-[![Alt text](/img/2e/legend.png "Click to embiggen"){:height="40%" width="40%"}](/img/2e/legend.png)
-
 ## Create the Map
 
 - Roll 6d6 on a sheet of paper.
  - Circle 2-3 "clumps" of dice. These are the map's regions. 
    - Roll on the [Regions](#regions) table for each clump and note the results.
    - Regions are wide swaths of land defined by a particular terrain (e.g. tundra, hills, etc.), arbitrary political boundaries (a kingdom, a barony, etc.), or both.
- - Circle each individual die, writing the face-up die result on the map beneath.
- - Compare each individual die result to the [Die Drop](#die-drop-table) table and note the results.
-  - The first 1 result is the region's Heart, or primary settlement. 
-  - If no settlement is rolled, roll one more die. This becomes the Heart, regardless of the outcome.
-- Roll 2d20 on the relevant tables and combine for each POI.
-  - Create 1-4 paths between each location.
-  - Mark the distance between each POI by rolling 1d6 for close POIs, 2d6 for moderate distances, and 3d6 for POIs far apart. The result is how many days of travel between each POI.
+   - Circle each individual die, writing the face-up die result on the map beneath.
+- Compare each individual die result to the [Die Drop](#die-drop-table) table and note the results.
+   - Roll 2d20 on the relevant tables and combine for each POI.
+- Roll 1d6. This is the region's Heart, or primary settlement. Ignore the die face and roll on the [Settlement](#settlement) table.
+- Create 1-4 paths between each location.
+  - Mark the distance between each POI by rolling 1d6 for close POIs, 2d6 for moderate distances, and 3d6 for POIs far apart. The result is how many days of travel between each point.
 
 > Note: The **Heart** is always a **Settlement** of some kind. It isn't necessarily the largest or most important place in the setting, but it should be significant to the region's history
-
 
 ### Regions
 
@@ -133,7 +127,6 @@ Roll 2d20 and combine the results.
 | **19**  | Valley      | Coral Reefs        |
 | **20**  | Wasteland   | Lava Fields        |
 
-
 ### Die Drop Table
 
 |         |                   |
@@ -153,7 +146,6 @@ Points of Interest on a map (or POIs) are generally divided into the following c
 - **Lairs**: A source of heightened monster activity, enemy encampment, or hive.
 - **Dungeons**: An explicitly dangerous locale, dungeon, or adventure site.
 
-
 #### Heart
 
 |        |                |
@@ -169,120 +161,52 @@ Points of Interest on a map (or POIs) are generally divided into the following c
 
 #### Settlement
 
-|         |            |                             |
-| ------- | ---------- | --------------------------- |
-| **d20** | **Type**   | **Feature**                 |
-| **1**   | Campground | Built Atop Ruins            |
-| **2**   | Caravan    | Divided                     |
-| **3**   | City       | Well-defended               |
-| **4**   | Commune    | Trading Hub                 |
-| **5**   | Inn        | Renowned Artisans           |
-| **6**   | Monastery  | High Population Density     |
-| **7**   | Outpost    | Ancient Buildings           |
-| **8**   | Prison     | Star Gate                   |
-| **9**   | Village    | Natural deposits            |
-| **10**  | Stronghold | A Haven to Outcasts         |
-| **11**  | Town       | Seat of Government          |
-| **12**  | Villa      | Technologically Advanced    |
-| **13**  | Fortress   | Impregnable Walls           |
-| **14**  | Academy    | Center of Learning          |
-| **15**  | Hamlet     | Close-knit Community        |
-| **16**  | Temple     | Ruled by a Powerful Faction |
-| **17**  | Port       | Ancient Archives            |
-| **18**  | Sanctuary  | Perpetually Revolves        |
-| **19**  | Farmstead  | Unusual Rulers              |
-| **20**  | Citadel    | Integration with Nature     |
-
-
-|         |                |
-| ------- | -------------- |
-| **d20** | **Settlement** |
-| **1**   | Academy        |
-| **2**   | Campground     |
-| **3**   | Caravan        |
-| **4**   | Citadel        |
-| **5**   | City           |
-| **6**   | Commune        |
-| **7**   | Farmstead      |
-| **8**   | Fortress       |
-| **9**   | Hamlet         |
-| **10**  | Inn            |
-| **11**  | Monastery      |
-| **12**  | Outpost        |
-| **13**  | Prison         |
-| **14**  | Refuge         |
-| **15**  | Sanctuary      |
-| **16**  | Stronghold     |
-| **18**  | Temple         |
-| **19**  | Town           |
-| **20**  | Villa          |
-| **21**  | Village        |
-
-
+|        |                |
+| ------ | -------------- |
+| **d6** | **Settlement** |
+| **1**  | Caravan        |
+| **2**  | City           |
+| **3**  | Farmstead      |
+| **4**  | Hamlet         |
+| **5**  | Town           |
+| **6**  | Village        |
 
 #### Refuge
 
 Roll 2d20 and combine the results.
 
-|         |            |                                     |
-| ------- | ---------- | ----------------------------------- |
-| **d20** | **Refuge** | **Feature**                         |
-| **1**   |            | Home to a unique species            |
-| **2**   |            | Known for its hospitality           |
-| **3**   |            | Besieged by a natural threat        |
-| **4**   |            | Steeped in ancient tradition        |
-| **5**   |            | Guarded by a mystical barrier       |
-| **6**   |            | Constructed within a giant tree     |
-| **7**   |            | Built on sacred grounds             |
-| **8**   |            | Rumored to be cursed                |
-| **9**   |            | Contains a powerful artifact        |
-| **10**  |            | Known for its elaborate defenses    |
-| **11**  |            | Host to a renowned artisan          |
-| **12**  |            | Built atop ruins                    |
-| **13**  |            | Guarded by trained beasts           |
-| **14**  |            | Mystically protected                |
-| **15**  |            | Renowned for its scholars           |
-| **16**  |            | Famous for its festivals            |
-| **17**  |            | Reclusive and suspicious            |
-| **18**  |            | Home to a famous hero               |
-| **19**  |            | Controlled by a supernatural entity |
-| **20**  |            | Renowned for its scholars           |
+|         |            |                             |                                     |
+| ------- | ---------- | --------------------------- | ----------------------------------- |
+| **d20** | **Type**   | **Feature A**               | **Feature B**                       |
+| **1**   | Campground | Built Atop Ruins            | Home to a unique species            |
+| **2**   | Caravan    | Divided                     | Known for its hospitality           |
+| **3**   | City       | Well-defended               | Besieged by a natural threat        |
+| **4**   | Commune    | Trading Hub                 | Steeped in ancient tradition        |
+| **5**   | Inn        | Renowned Artisans           | Guarded by a mystical barrier       |
+| **6**   | Monastery  | High Population Density     | Constructed within a giant tree     |
+| **7**   | Outpost    | Ancient Buildings           | Built on sacred grounds             |
+| **8**   | Prison     | Star Gate                   | Rumored to be cursed                |
+| **9**   | Village    | Natural deposits            | Contains a powerful artifact        |
+| **10**  | Stronghold | A Haven to Outcasts         | Known for its elaborate defenses    |
+| **11**  | Town       | Seat of Government          | Host to a renowned artisan          |
+| **12**  | Villa      | Technologically Advanced    | Built atop ruins                    |
+| **13**  | Fortress   | Impregnable Walls           | Guarded by trained beasts           |
+| **14**  | Academy    | Center of Learning          | Mystically protected                |
+| **15**  | Hamlet     | Close-knit Community        | Renowned for its scholars           |
+| **16**  | Temple     | Ruled by a Powerful Faction | Famous for its festivals            |
+| **17**  | Port       | Ancient Archives            | Reclusive and suspicious            |
+| **18**  | Sanctuary  | Perpetually Revolves        | Home to a famous hero               |
+| **19**  | Farmstead  | Unusual Rulers              | Controlled by a supernatural entity |
+| **20**  | Citadel    | Integration with Nature     | Renowned for its scholars           |
 
-#### Hazards
-
-Roll 2d20 and combine the results.
-
-|         |                   |             |
-| ------- | ----------------- | ----------- |
-| **d20** | **Hazard**        | **Feature** |
-| **1**   | Acid rain         |             |
-| **2**   | Crystal Growths   |             |
-| **3**   | Dense fog         |             |
-| **4**   | Drought           |             |
-| **5**   | Dust storms       |             |
-| **6**   | Flooding          |             |
-| **7**   | Lava Fields       |             |
-| **8**   | Poisonous foliage |             |
-| **9**   | Toxic water       |             |
-| **10**  | Venomous insects  |             |
-| **11**  | Weak ground       |             |
-| **12**  | Wildfires         |             |
-| **13**  | Natural Bridges   |             |
-| **14**  | Sinkholes         |             |
-| **15**  | Earthquakes       |             |
-| **16**  | Volcanoes         |             |
-| **17**  | Wildfires         |             |
-| **18**  | Glacial Melt      |             |
-| **19**  | Geysers           |             |
-| **20**  | Mudflats          |             |
    
-#### Landmarks
+#### Special
 
 Roll 2d20 and combine the results.
 
 |         |                     |                    |
 | ------- | ------------------- | ------------------ |
-| **d20** | **Landmark**        | **Feature**        |
+| **d20** | **Special**         | **Feature**        |
 | **1**   | Ancient tree        | Ancient library    |
 | **2**   | Enormous footprint  | Bloody battlefield |
 | **3**   | Endless sinkholes   | Fungal growths     |
@@ -360,6 +284,33 @@ Roll 2d20 and combine the results.
 | **18**  |                       |     |
 | **19**  |                       |     |
 | **20**  |                       |     |
+
+
+#### What is this?
+
+|         |                   |             |
+| ------- | ----------------- | ----------- |
+| **d20** | **Hazard**        | **Feature** |
+| **1**   | Acid rain         |             |
+| **2**   | Crystal Growths   |             |
+| **3**   | Dense fog         |             |
+| **4**   | Drought           |             |
+| **5**   | Dust storms       |             |
+| **6**   | Flooding          |             |
+| **7**   | Lava Fields       |             |
+| **8**   | Poisonous foliage |             |
+| **9**   | Toxic water       |             |
+| **10**  | Venomous insects  |             |
+| **11**  | Weak ground       |             |
+| **12**  | Wildfires         |             |
+| **13**  | Natural Bridges   |             |
+| **14**  | Sinkholes         |             |
+| **15**  | Earthquakes       |             |
+| **16**  | Volcanoes         |             |
+| **17**  | Wildfires         |             |
+| **18**  | Glacial Melt      |             |
+| **19**  | Geysers           |             |
+| **20**  | Mudflats          |             |
 
 ### Paths
 

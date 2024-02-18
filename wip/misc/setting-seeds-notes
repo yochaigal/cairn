@@ -599,3 +599,32 @@ Outpost
 | **18**  | Town           |
 | **19**  | Villa          |
 | **20**  | Village        |
+
+
+#### Special
+
+Roll 2d20 and combine the results.
+
+|         |                   |             |
+| ------- | ----------------- | ----------- |
+| **d20** | **Hazard**        | **Feature** |
+| **1**   | Acid rain         |             |
+| **2**   | Crystal Growths   |             |
+| **3**   | Dense fog         |             |
+| **4**   | Drought           |             |
+| **5**   | Dust storms       |             |
+| **6**   | Flooding          |             |
+| **7**   | Lava Fields       |             |
+| **8**   | Poisonous foliage |             |
+| **9**   | Toxic water       |             |
+| **10**  | Venomous insects  |             |
+| **11**  | Weak ground       |             |
+| **12**  | Wildfires         |             |
+| **13**  | Natural Bridges   |             |
+| **14**  | Sinkholes         |             |
+| **15**  | Earthquakes       |             |
+| **16**  | Volcanoes         |             |
+| **17**  | Wildfires         |             |
+| **18**  | Glacial Melt      |             |
+| **19**  | Geysers           |             |
+| **20**  | Mudflats          |             |
