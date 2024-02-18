@@ -49,7 +49,7 @@ Points of Interest on a map (or POIs) are generally divided into the following c
 | ------- | ---------------------- |
 | **d6**  | **POI**                |
 | **1**   | Waypoint or Settlement |
-| **2-3** | Curiosities                 |
+| **2-3** | Curiosities            |
 | **4**   | Lair                   |
 | **5-6** | Dungeon                |
 
@@ -141,7 +141,7 @@ Roll 2d20 and combine the results.
 
 |         |                     |                    |
 | ------- | ------------------- | ------------------ |
-| **d20** | **Curiosities**          | **Feature**        |
+| **d20** | **Curiosities**     | **Feature**        |
 | **1**   | Ancient tree        | Ancient library    |
 | **2**   | Enormous footprint  | Bloody battlefield |
 | **3**   | Endless sinkholes   | Fungal growths     |
