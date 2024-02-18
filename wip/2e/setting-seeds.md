@@ -11,93 +11,36 @@ search_exclude: true
 
 ## Overview
 
-The following procedure is designed to help create the _seed_ of a setting: the paths, places, and geography that an adventuring party may have to navigate as they travel throughout a region. We'll start by first creating the region's theme, by determining its topography, natural features, people, and resources. Then we'll build the initial paths and locales at the focal point of the setting, and finish by repeating the process a few more times to flesh out the region a bit more.
+The following procedure is designed to help create the _seed_ of a setting: the geography, people, and paths that an adventuring party may have to navigate as they travel throughout a region. We'll start by drawing a map of the region, noting its unique topography, natural features, towns, lairs, dungeons, roads, and so on. Then we'll develop the people of the region, their ambitions and resources, and the factions that rule them.
 
-## Create a Theme
-
-- Roll on the [Topography](#topography) table and record the results.
-  - What effects does the region's terrain have on the people that live there? 
-  - What would draw someone there, and why would they stay? 
-- Roll on the [People](#people) table and record the result.
-  - How do the people that live there perceive themselves, and how others perceive them?
-- Roll on the [Resources](#resources) table and record the results.
-   - What resources are in abundance, and what are scarce? 
-   - How do these factors relate to the other aspects of the region, and how does it shape the people that live there?
-
-Once you've gathered the results of these tables, combine them in order to create a cohesive theme for this region. For example, if I rolled a region covered in plains and surrounded by rivers, I might assume that the locals here were tradespeople, selling their wares to the neighbors downriver. If I rolled that the people there were religious and sought conversion, I'd assume they were a proud folk, but prone to religious extremes and proselytizing. And if their primary resources were land, I'd assume they grew their own food, but that their traders were always on the search for spices from distant lands.
-
-
-
-### People
-
-Roll 2d20 and combine the results.
-
-|         |               |                 |
-| ------- | ------------- | --------------- |
-| **d20** | **Character** | **Ambition**    |
-| **1**   | Struggling    | Power           |
-| **2**   | Wealthy       | Conquest        |
-| **3**   | Religious     | Stability       |
-| **4**   | Hearty        | Peace           |
-| **5**   | Reclusive     | Independence    |
-| **6**   | Xenophobic    | Control         |
-| **7**   | Traditional   | Purity          |
-| **8**   | War-like      | Unification     |
-| **9**   | Enlightened   | Knowledge       |
-| **10**  | Artistic      | Division        |
-| **11**  | Nomadic       | Exploration     |
-| **12**  | Scholarly     | Bounty          |
-| **13**  | Mercantile    | Wealth          |
-| **14**  | Devious       | Dominance       |
-| **15**  | Stoic         | Security        |
-| **16**  | Harmonious    | Fealty          |
-| **17**  | Inventive     | Recognition     |
-| **18**  | Altruistic    | Natural Harmony |
-| **19**  | Curious       | Conversion      |
-| **20**  | Resilient     | Return          |
-
-### Resources
-
-Roll 2d20 and combine the results.
-
-|         |               |               |
-| ------- | ------------- | ------------- |
-| **d20** | **Abundance** | **Scarcity**  |
-| **1**   | Vessels       | Water         |
-| **2**   | Skilled Labor | Food          |
-| **3**   | Tools         | Knowledge     |
-| **4**   | Fuel          | Land          |
-| **5**   | Medicine      | Trade Goods   |
-| **6**   | Land          | Spices        |
-| **7**   | Knowledge     | Textiles      |
-| **8**   | Herbs         | Livestock     |
-| **9**   | Wood          | Herbs         |
-| **10**  | Food          | Weapons       |
-| **11**  | Stone         | Gemstones     |
-| **12**  | Gemstones     | Ore           |
-| **13**  | Ore           | Stone         |
-| **14**  | Water         | Horses        |
-| **15**  | Trade Goods   | Wood          |
-| **16**  | Spices        | Medicine      |
-| **17**  | Livestock     | Skilled Labor |
-| **18**  | Horses        | Tools         |
-| **19**  | Textiles      | Vessels       |
-| **20**  | Weapons       | Fuel          |
+### Materials Required
+- At least one sheet of paper. Letter/A4 is OK, but the larger the better.
+- Pencils and erasers.
+- At least one d6 and one d20, but 6d6 and 2d20 would be ideal.
 
 ## Create the Map
+- Draw the letter **H** anywhere on a sheet of paper, or roll a d6 and mark where it lands. This is the region's **Heart**, or primary settlement. 
+ - Roll on the [Settlement](#settlement) table for the Heart, noting the results on the page.
+- Roll 6d6 on the paper, ignoring any dice that roll off the page. These are the Points of Interest (POI).
+- Note the face up results according to the [Die Drop Table](#die-drop-table), writing its corresponding letter on the page beneath (e.g. R = Refuge, S = Special, etc.).
+- Draw circles around the dice in bordering clumps of 2-4 dice each. These represent the map's regions.
+  - The Heart can be in its own circle, or can be included in another region.
+  - Regions should be big enough to touch each other. They _are_ the map.
+- Roll on the [Regions](#regions) table for each clump, and write the results on on the page.
+- Roll on the relevant tables for each POI and note the results.
 
-- Roll 6d6 on a sheet of paper.
- - Circle 2-3 "clumps" of dice. These are the map's regions. 
-   - Roll on the [Regions](#regions) table for each clump and note the results.
-   - Regions are wide swaths of land defined by a particular terrain (e.g. tundra, hills, etc.), arbitrary political boundaries (a kingdom, a barony, etc.), or both.
-   - Circle each individual die, writing the face-up die result on the map beneath.
-- Compare each individual die result to the [Die Drop](#die-drop-table) table and note the results.
-   - Roll 2d20 on the relevant tables and combine for each POI.
-- Roll 1d6. This is the region's Heart, or primary settlement. Ignore the die face and roll on the [Settlement](#settlement) table.
-- Create 1-4 paths between each location.
-  - Mark the distance between each POI by rolling 1d6 for close POIs, 2d6 for moderate distances, and 3d6 for POIs far apart. The result is how many days of travel between each point.
+> - Regions are wide swaths of land defined by either a particular terrain (e.g. tundra, hills, etc.), arbitrary political boundaries (a kingdom, a barony, etc.), or both.
+> - The **Heart** is always a **Settlement** of some kind. It isn't necessarily the largest or most important place in the setting, but it should be significant to the region's history
 
-> Note: The **Heart** is always a **Settlement** of some kind. It isn't necessarily the largest or most important place in the setting, but it should be significant to the region's history
+### Die Drop Table
+
+|         |         |
+| ------- | ------- |
+| **d6**  | **POI** |
+| **1**   | Refuge  |
+| **2-3** | Special |
+| **4**   | Lair    |
+| **5-6** | Dungeon |
 
 ### Regions
 
@@ -126,16 +69,6 @@ Roll 2d20 and combine the results.
 | **18**  | Tundra      | Underground Rivers |
 | **19**  | Valley      | Coral Reefs        |
 | **20**  | Wasteland   | Lava Fields        |
-
-### Die Drop Table
-
-|         |                   |
-| ------- | ----------------- |
-| **d6**  | **POI**           |
-| **1**   | Settlement/Refuge |
-| **2-3** | Special           |
-| **4**   | Lair              |
-| **5-6** | Dungeon           |
 
 ### Points of Interest
 
@@ -312,7 +245,11 @@ Roll 2d20 and combine the results.
 | **19**  | Geysers           |             |
 | **20**  | Mudflats          |             |
 
-### Paths
+## Create Paths
+- Create 1-4 paths between each location.
+- Mark the distance between each POI by rolling 1d6 for close POIs, 2d6 for moderate distances, and 3d6 for POIs far apart. The result is how many days of travel between each point.
+
+### Types of Paths
 
 - **Standard**: A path typical to the region, lacking in special features.
 - **Barrier**: A geographic obstruction that slows down or completely blocks further travel. Examples can include rivers, changes in elevation, thickly-grown trees, sinkholes, and more. 
@@ -358,4 +295,72 @@ Roll 2d8 and combine the results.
 | **6**  | Hidden    |             |
 | **7**  | Shortcut  |             |
 | **8**  | Standard  |             |
+
+
+## People
+
+- Roll on the [People](#people) table and record the result.
+ - How do the people that live there perceive themselves, and how others perceive them?
+ - What effects does the region's terrain have on the people that live there? 
+ - What would draw someone there, and why would they stay? 
+- Roll on the [Resources](#resources) table and record the results.
+   - What resources are in abundance, and what are scarce? 
+   - How do these factors relate to the other aspects of the region, and how does it shape the people that live there?
+
+Once you've gathered the results of these tables, combine them in order to create a cohesive theme for this region. For example, if I rolled a region covered in plains and surrounded by rivers, I might assume that the locals here were tradespeople, selling their wares to the neighbors downriver. If I rolled that the people there were religious and sought conversion, I'd assume they were a proud folk, but prone to religious extremes and proselytizing. And if their primary resources were land, I'd assume they grew their own food, but that their traders were always on the search for spices from distant lands.
+
+
+Roll 2d20 and combine the results.
+
+|         |               |                 |
+| ------- | ------------- | --------------- |
+| **d20** | **Character** | **Ambition**    |
+| **1**   | Struggling    | Power           |
+| **2**   | Wealthy       | Conquest        |
+| **3**   | Religious     | Stability       |
+| **4**   | Hearty        | Peace           |
+| **5**   | Reclusive     | Independence    |
+| **6**   | Xenophobic    | Control         |
+| **7**   | Traditional   | Purity          |
+| **8**   | War-like      | Unification     |
+| **9**   | Enlightened   | Knowledge       |
+| **10**  | Artistic      | Division        |
+| **11**  | Nomadic       | Exploration     |
+| **12**  | Scholarly     | Bounty          |
+| **13**  | Mercantile    | Wealth          |
+| **14**  | Devious       | Dominance       |
+| **15**  | Stoic         | Security        |
+| **16**  | Harmonious    | Fealty          |
+| **17**  | Inventive     | Recognition     |
+| **18**  | Altruistic    | Natural Harmony |
+| **19**  | Curious       | Conversion      |
+| **20**  | Resilient     | Return          |
+
+### Resources
+
+Roll 2d20 and combine the results.
+
+|         |               |               |
+| ------- | ------------- | ------------- |
+| **d20** | **Abundance** | **Scarcity**  |
+| **1**   | Vessels       | Water         |
+| **2**   | Skilled Labor | Food          |
+| **3**   | Tools         | Knowledge     |
+| **4**   | Fuel          | Land          |
+| **5**   | Medicine      | Trade Goods   |
+| **6**   | Land          | Spices        |
+| **7**   | Knowledge     | Textiles      |
+| **8**   | Herbs         | Livestock     |
+| **9**   | Wood          | Herbs         |
+| **10**  | Food          | Weapons       |
+| **11**  | Stone         | Gemstones     |
+| **12**  | Gemstones     | Ore           |
+| **13**  | Ore           | Stone         |
+| **14**  | Water         | Horses        |
+| **15**  | Trade Goods   | Wood          |
+| **16**  | Spices        | Medicine      |
+| **17**  | Livestock     | Skilled Labor |
+| **18**  | Horses        | Tools         |
+| **19**  | Textiles      | Vessels       |
+| **20**  | Weapons       | Fuel          |
 
