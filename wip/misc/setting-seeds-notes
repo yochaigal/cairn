@@ -550,7 +550,6 @@ Outpost
 | **19**  | Town           |
 | **20**  | Villa          |
 | **21**  | Village        |
-|         |                |
 
 |        |                |
 | ------ | -------------- |
@@ -600,31 +599,34 @@ Outpost
 | **19**  | Villa          |
 | **20**  | Village        |
 
+## Extra region features
 
-#### Special
+|                    |
+| ------------------ |
+| Megaliths          |
+| Permafrost         |
+| Celestial Displays |
+| Underground Rivers |
 
-Roll 2d20 and combine the results.
 
-|         |                   |             |
-| ------- | ----------------- | ----------- |
-| **d20** | **Hazard**        | **Feature** |
-| **1**   | Acid rain         |             |
-| **2**   | Crystal Growths   |             |
-| **3**   | Dense fog         |             |
-| **4**   | Drought           |             |
-| **5**   | Dust storms       |             |
-| **6**   | Flooding          |             |
-| **7**   | Lava Fields       |             |
-| **8**   | Poisonous foliage |             |
-| **9**   | Toxic water       |             |
-| **10**  | Venomous insects  |             |
-| **11**  | Weak ground       |             |
-| **12**  | Wildfires         |             |
-| **13**  | Natural Bridges   |             |
-| **14**  | Sinkholes         |             |
-| **15**  | Earthquakes       |             |
-| **16**  | Volcanoes         |             |
-| **17**  | Wildfires         |             |
-| **18**  | Glacial Melt      |             |
-| **19**  | Geysers           |             |
-| **20**  | Mudflats          |             |
+## Extra settlment features
+
+|                                  |
+| -------------------------------- |
+| Built on Sacred Grounds          |
+| Ancient Buildings                |
+| Reclusive and Suspicious         |
+| Ancient Archives                 |
+| Rumored to be Cursed             |
+| Star Gate                        |
+| Home to a Famous Hero            |
+| Perpetually Revolves             |
+| Known for its Elaborate Defenses |
+| A Haven to Outcasts              |
+| Famous for its Festivals         |
+| Ruled by a Powerful Faction      |
+| Host to a Renowned Artisan       |
+| Seat of Government               |
+| Technologically Advanced         |
+| Contains a Powerful Artifact     |
+| Natural Deposits                 |

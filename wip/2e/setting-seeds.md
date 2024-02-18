@@ -20,126 +20,128 @@ The following procedure is designed to help create the _seed_ of a setting: the 
 
 ## Create the Map
 - Draw the letter **H** anywhere on a sheet of paper, or roll a d6 and mark where it lands. This is the region's **Heart**, or primary settlement. 
- - Roll on the [Settlement](#settlement) table for the Heart, noting the results on the page.
-- Roll 6d6 on the paper, ignoring any dice that roll off the page. These are the Points of Interest (POI).
-- Note the face up results according to the [Die Drop Table](#die-drop-table), writing its corresponding letter on the page beneath (e.g. R = Refuge, S = Special, etc.).
+  - Roll 6d6 on the paper, ignoring any dice that roll off the page. These are the maps's **Points of Interest** (POI).
+  - Note the face up results according to the [Die Drop Table](#die-drop-table), writing its corresponding letter on the page beneath (e.g. R = Refuge, S = Special, etc.).
 - Draw circles around the dice in bordering clumps of 2-4 dice each. These represent the map's regions.
   - The Heart can be in its own circle, or can be included in another region.
   - Regions should be big enough to touch each other. They _are_ the map.
 - Roll on the [Regions](#regions) table for each clump, and write the results on on the page.
-- Roll on the relevant tables for each POI and note the results.
+- For the Heart, roll on the [Settlments](#settlments) table and note the result on the map.
+- Roll on the relevant tables for each POI (including the Heart) and note the results.
 
-> - Regions are wide swaths of land defined by either a particular terrain (e.g. tundra, hills, etc.), arbitrary political boundaries (a kingdom, a barony, etc.), or both.
-> - The **Heart** is always a **Settlement** of some kind. It isn't necessarily the largest or most important place in the setting, but it should be significant to the region's history
+> Regions are wide swaths of land defined by either a particular terrain (e.g. tundra, hills, etc.), arbitrary political boundaries (a kingdom, a barony, etc.), or both.
+
+### Points of Interest
+
+Points of Interest on a map (or POIs) are generally divided into the following categories:  
+- **Settlements**: Permanent, largely self-sufficient population centers, typically governed by a political body or faction.
+- **Refuges**: A safe place to refill supplies, get a good night's sleep, or get directions. Often rely on travellers for survival, but provide necessary services.
+- **Wonder**: A locale that is not necessarily dangerous, but definitely remarkable or strange.
+- **Lairs**: A source of heightened monster activity, enemy encampment, or hive.
+- **Dungeons**: An explicitly dangerous locale, dungeon, or adventure site.
+
+> The **Heart** is always a **Settlement** of some kind. It isn't necessarily the largest or most important place in the setting, but it should be significant to the region's history
 
 ### Die Drop Table
 
-|         |         |
-| ------- | ------- |
-| **d6**  | **POI** |
-| **1**   | Refuge  |
-| **2-3** | Special |
-| **4**   | Lair    |
-| **5-6** | Dungeon |
+|         |                      |
+| ------- | -------------------- |
+| **d6**  | **POI**              |
+| **1**   | Refuge or Settlement |
+| **2-3** | Wonder               |
+| **4**   | Lair                 |
+| **5-6** | Dungeon              |
 
 ### Regions
 
 Roll 2d20 and combine the results.
 
-|         |             |                    |
-| ------- | ----------- | ------------------ |
-| **d20** | **Terrain** | **Feature**        |
-| **1**   | Canyons     | Natural Bridges    |
-| **2**   | Caverns     | Sinkholes          |
-| **3**   | Cliffs      | Islands            |
-| **4**   | Deserts     | Volcanoes          |
-| **5**   | Forests     | Wildfires          |
-| **6**   | Hills       | Glacial Melt       |
-| **7**   | Hollows     | Geysers            |
-| **8**   | Jungles     | Mudflats           |
-| **9**   | Lakes       | Earthquakes        |
-| **10**  | Mountains   | Megaliths          |
-| **11**  | Oasis       | Permafrost         |
-| **12**  | Plateaus    | Celestial Displays |
-| **13**  | Plains      | Fossil Fields      |
-| **14**  | Rivers      | Salt Flats         |
-| **15**  | Sea         | Meteorites         |
-| **16**  | Swamps      | Ice Caves          |
-| **17**  | Thickets    | Sandstorms         |
-| **18**  | Tundra      | Underground Rivers |
-| **19**  | Valley      | Coral Reefs        |
-| **20**  | Wasteland   | Lava Fields        |
+|         |             |                   |
+| ------- | ----------- | ----------------- |
+| **d20** | **Terrain** | **Feature**       |
+| **1**   | Canyons     | Natural Bridges   |
+| **2**   | Caverns     | Acid Rain         |
+| **3**   | Cliffs      | Sinkholes         |
+| **4**   | Deserts     | Crystal Growths   |
+| **5**   | Forests     | Salt Flats        |
+| **6**   | Hills       | Dense Fog         |
+| **7**   | Hollows     | Volcanoes         |
+| **8**   | Jungles     | Drought           |
+| **9**   | Lakes       | Wildfires         |
+| **10**  | Mountains   | Dust Storms       |
+| **11**  | Oasis       | Glacial Melt      |
+| **12**  | Plateaus    | Ice Caves         |
+| **13**  | Plains      | Geysers           |
+| **14**  | Rivers      | Lava Fields       |
+| **15**  | Sea         | Poisonous Foliage |
+| **16**  | Swamps      | Toxic Water       |
+| **17**  | Thickets    | Venomous Insects  |
+| **18**  | Tundra      | Weak Ground       |
+| **19**  | Valley      | Mudflats          |
+| **20**  | Wasteland   | Earthquakes       |
 
-### Points of Interest
+### Settlements
 
-Points of Interest on a map (or POIs) are generally divided into the following categories:  
-- **Settlements**: Any civilized community larger than a single family or religious order. Typically a village, town, or city. 
-- **Refuges**: A safe, populated haven. An inn, monastery, sanctuary, prison, campground, etc.
-- **Special**: A locale that is unlikely to be directly dangerous, but definitely remarkable or strange.
-- **Lairs**: A source of heightened monster activity, enemy encampment, or hive.
-- **Dungeons**: An explicitly dangerous locale, dungeon, or adventure site.
+|         |            |                                  |
+| ------- | ---------- | -------------------------------- |
+| **d20** | **Type**   | **Feature**                      |
+| **1**   | Academy    | Built Atop Ruins                 |
+| **2**   | Caravan    | Center of Learning               |
+| **3**   | Citadel    | Close-knit                       |
+| **4**   | City       | Divided                          |
+| **5**   | Commune    | Emits a Mysterious Hum           |
+| **6**   | Compound   | Famous for its Festivals         |
+| **7**   | Convent    | Guarded by Trained Beasts        |
+| **8**   | Farmstead  | High Population Density          |
+| **9**   | Fortress   | Impregnable                      |
+| **10**  | Garrison   | Integrated with Nature           |
+| **11**  | Hamlet     | Known for its Elaborate Defenses |
+| **12**  | Keep       | Known for its Hospitality        |
+| **13**  | Monastery  | Location of a Legendary Forge    |
+| **14**  | Outpost    | Moves or Revolves                |
+| **15**  | Plantation | Protected by a Great Warrior     |
+| **16**  | Prison     | Renowned Artisans                |
+| **17**  | Stronghold | Rests on Bones of Giants         |
+| **18**  | Town       | Ruled by a Powerful Faction      |
+| **19**  | Villa      | Steeped in Tradition             |
+| **20**  | Village    | Trading Hub                      |
 
-#### Heart
 
-|        |                |
-| ------ | -------------- |
-| **d6** | **Settlement** |
-| **1**  | Caravan        |
-| **2**  | City           |
-| **3**  | Farmstead      |
-| **4**  | Hamlet         |
-| **5**  | Town           |
-| **6**  | Village        |
-
-
-#### Settlement
-
-|        |                |
-| ------ | -------------- |
-| **d6** | **Settlement** |
-| **1**  | Caravan        |
-| **2**  | City           |
-| **3**  | Farmstead      |
-| **4**  | Hamlet         |
-| **5**  | Town           |
-| **6**  | Village        |
-
-#### Refuge
+### Refuge
 
 Roll 2d20 and combine the results.
 
-|         |            |                             |                                     |
-| ------- | ---------- | --------------------------- | ----------------------------------- |
-| **d20** | **Type**   | **Feature A**               | **Feature B**                       |
-| **1**   | Campground | Built Atop Ruins            | Home to a unique species            |
-| **2**   | Caravan    | Divided                     | Known for its hospitality           |
-| **3**   | City       | Well-defended               | Besieged by a natural threat        |
-| **4**   | Commune    | Trading Hub                 | Steeped in ancient tradition        |
-| **5**   | Inn        | Renowned Artisans           | Guarded by a mystical barrier       |
-| **6**   | Monastery  | High Population Density     | Constructed within a giant tree     |
-| **7**   | Outpost    | Ancient Buildings           | Built on sacred grounds             |
-| **8**   | Prison     | Star Gate                   | Rumored to be cursed                |
-| **9**   | Village    | Natural deposits            | Contains a powerful artifact        |
-| **10**  | Stronghold | A Haven to Outcasts         | Known for its elaborate defenses    |
-| **11**  | Town       | Seat of Government          | Host to a renowned artisan          |
-| **12**  | Villa      | Technologically Advanced    | Built atop ruins                    |
-| **13**  | Fortress   | Impregnable Walls           | Guarded by trained beasts           |
-| **14**  | Academy    | Center of Learning          | Mystically protected                |
-| **15**  | Hamlet     | Close-knit Community        | Renowned for its scholars           |
-| **16**  | Temple     | Ruled by a Powerful Faction | Famous for its festivals            |
-| **17**  | Port       | Ancient Archives            | Reclusive and suspicious            |
-| **18**  | Sanctuary  | Perpetually Revolves        | Home to a famous hero               |
-| **19**  | Farmstead  | Unusual Rulers              | Controlled by a supernatural entity |
-| **20**  | Citadel    | Integration with Nature     | Renowned for its scholars           |
+|         |               |             |
+| ------- | ------------- | ----------- |
+| **d20** | **Type**      | **Feature** |
+| **1**   | Archive       |             |
+| **2**   | Asylum        |             |
+| **3**   | Bazaar        |             |
+| **4**   | Beacon Tower  |             |
+| **5**   | Bunker        |             |
+| **6**   | Cabin         |             |
+| **7**   | Campground    |             |
+| **8**   | Guildhall     |             |
+| **9**   | Hospice       |             |
+| **10**  | Hunting Lodge |             |
+| **11**  | Inn           |             |
+| **12**  | Observatory   |             |
+| **13**  | Reservoir     |             |
+| **14**  | Sanatorium    |             |
+| **15**  | Sanctuary     |             |
+| **16**  | Shrine        |             |
+| **17**  | Temple        |             |
+| **18**  | Trading Post  |             |
+| **19**  | Watchtower    |             |
+| **20**  | Work Camp     |             |
 
-   
-#### Special
+### Wonder
 
 Roll 2d20 and combine the results.
 
 |         |                     |                    |
 | ------- | ------------------- | ------------------ |
-| **d20** | **Special**         | **Feature**        |
+| **d20** | **Wonder**          | **Feature**        |
 | **1**   | Ancient tree        | Ancient library    |
 | **2**   | Enormous footprint  | Bloody battlefield |
 | **3**   | Endless sinkholes   | Fungal growths     |
@@ -161,7 +163,7 @@ Roll 2d20 and combine the results.
 | **19**  | Sunken city         | Endless storm      |
 | **20**  | Broken tower        | Swirling stones    |
 
-#### Lairs
+### Lairs
 
 Roll 2d20 and combine the results.
 
@@ -190,7 +192,7 @@ Roll 2d20 and combine the results.
 | **20**  |                   |             |
 
 
-#### Dungeons
+### Dungeons
 
 Roll 2d20 and combine the results.
 
@@ -218,32 +220,6 @@ Roll 2d20 and combine the results.
 | **19**  |                       |     |
 | **20**  |                       |     |
 
-
-#### What is this?
-
-|         |                   |             |
-| ------- | ----------------- | ----------- |
-| **d20** | **Hazard**        | **Feature** |
-| **1**   | Acid rain         |             |
-| **2**   | Crystal Growths   |             |
-| **3**   | Dense fog         |             |
-| **4**   | Drought           |             |
-| **5**   | Dust storms       |             |
-| **6**   | Flooding          |             |
-| **7**   | Lava Fields       |             |
-| **8**   | Poisonous foliage |             |
-| **9**   | Toxic water       |             |
-| **10**  | Venomous insects  |             |
-| **11**  | Weak ground       |             |
-| **12**  | Wildfires         |             |
-| **13**  | Natural Bridges   |             |
-| **14**  | Sinkholes         |             |
-| **15**  | Earthquakes       |             |
-| **16**  | Volcanoes         |             |
-| **17**  | Wildfires         |             |
-| **18**  | Glacial Melt      |             |
-| **19**  | Geysers           |             |
-| **20**  | Mudflats          |             |
 
 ## Create Paths
 - Create 1-4 paths between each location.
@@ -283,7 +259,6 @@ Roll 2d8 and combine the results.
 | **4**  |            |             |
 
 
-
 |        |           |             |
 | ------ | --------- | ----------- |
 | **d8** | **Type**  | **Feature** |
@@ -296,19 +271,18 @@ Roll 2d8 and combine the results.
 | **7**  | Shortcut  |             |
 | **8**  | Standard  |             |
 
-
 ## People
 
-- Roll on the [People](#people) table and record the result.
+- Roll on the [Culture](#culture) table, and record the results:
+- Roll on the [Resources](#resources) table and record the results.
+- Answer the following:
  - How do the people that live there perceive themselves, and how others perceive them?
  - What effects does the region's terrain have on the people that live there? 
+ - What resources are in abundance, and what are scarce? 
+ - How do these factors relate to the other aspects of the region, and how does it shape the people that live there?
  - What would draw someone there, and why would they stay? 
-- Roll on the [Resources](#resources) table and record the results.
-   - What resources are in abundance, and what are scarce? 
-   - How do these factors relate to the other aspects of the region, and how does it shape the people that live there?
 
-Once you've gathered the results of these tables, combine them in order to create a cohesive theme for this region. For example, if I rolled a region covered in plains and surrounded by rivers, I might assume that the locals here were tradespeople, selling their wares to the neighbors downriver. If I rolled that the people there were religious and sought conversion, I'd assume they were a proud folk, but prone to religious extremes and proselytizing. And if their primary resources were land, I'd assume they grew their own food, but that their traders were always on the search for spices from distant lands.
-
+### Culture
 
 Roll 2d20 and combine the results.
 
@@ -318,7 +292,7 @@ Roll 2d20 and combine the results.
 | **1**   | Struggling    | Power           |
 | **2**   | Wealthy       | Conquest        |
 | **3**   | Religious     | Stability       |
-| **4**   | Hearty        | Peace           |
+| **4**   | Hardy         | Peace           |
 | **5**   | Reclusive     | Independence    |
 | **6**   | Xenophobic    | Control         |
 | **7**   | Traditional   | Purity          |
@@ -364,3 +338,9 @@ Roll 2d20 and combine the results.
 | **19**  | Textiles      | Vessels       |
 | **20**  | Weapons       | Fuel          |
 
+
+
+
+## Conclusion
+
+Once you've gathered the results of these tables, combine them in order to create a cohesive theme for this region. For example, if I rolled a region covered in plains and surrounded by rivers, I might assume that the locals here were tradespeople, selling their wares to the neighbors downriver. If I rolled that the people there were religious and sought conversion, I'd assume they were a proud folk, but prone to religious extremes and proselytizing. And if their primary resources were land, I'd assume they grew their own food, but that their traders were always on the search for spices from distant lands.
