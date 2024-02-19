@@ -85,57 +85,57 @@ Roll 2d20 and combine the results.
 
 Roll 2d20 and combine the results.
 
-|         |                 |                                  |
-| ------- | --------------- | -------------------------------- |
-| **d20** | **Settlements** | **Feature**                      |
-| **1**   | Academy         | Built Atop Ruins                 |
-| **2**   | Caravan         | Center of Learning               |
-| **3**   | Citadel         | Close-knit                       |
-| **4**   | City            | Divided                          |
-| **5**   | Commune         | Emits a Mysterious Hum           |
-| **6**   | Compound        | Famous for its Festivals         |
-| **7**   | Convent         | Guarded by Trained Beasts        |
-| **8**   | Farmstead       | High Population Density          |
-| **9**   | Fortress        | Impregnable                      |
-| **10**  | Garrison        | Integrated with Nature           |
-| **11**  | Hamlet          | Known for its Elaborate Defenses |
-| **12**  | Keep            | Known for its Hospitality        |
-| **13**  | Monastery       | Location of a Legendary Forge    |
-| **14**  | Outpost         | Moves or Revolves                |
-| **15**  | Plantation      | Protected by a Great Warrior     |
-| **16**  | Prison          | Renowned Artisans                |
-| **17**  | Stronghold      | Rests on Bones of Giants         |
-| **18**  | Town            | Ruled by a Powerful Faction      |
-| **19**  | Villa           | Steeped in Tradition             |
-| **20**  | Village         | Trading Hub                      |
+|         |                 |                               |
+| ------- | --------------- | ----------------------------- |
+| **d20** | **Settlements** | **Feature**                   |
+| **1**   | Academy         | Built Atop Ruins              |
+| **2**   | Caravan         | Center of Learning            |
+| **3**   | Citadel         | Close-knit                    |
+| **4**   | City            | Divided                       |
+| **5**   | Commune         | Emits a Mysterious Hum        |
+| **6**   | Compound        | Famous for its Festivals      |
+| **7**   | Convent         | Guarded by Trained Beasts     |
+| **8**   | Farmstead       | High Population Density       |
+| **9**   | Fortress        | Impregnable                   |
+| **10**  | Garrison        | Integrated with Nature        |
+| **11**  | Hamlet          | Hides a Dangerous Portal      |
+| **12**  | Keep            | Known for its Hospitality     |
+| **13**  | Monastery       | Location of a Legendary Forge |
+| **14**  | Outpost         | Moves or Revolves             |
+| **15**  | Plantation      | Protected by a Great Warrior  |
+| **16**  | Prison          | Famous for its Artisans       |
+| **17**  | Stronghold      | Built on Bones of Giants      |
+| **18**  | Town            | Ruled by a Powerful Faction   |
+| **19**  | Villa           | Steeped in Tradition          |
+| **20**  | Village         | Trading Hub                   |
 
 ### Waypoints
 
 Roll 2d20 and combine the results.
 
-|         |               |             |
-| ------- | ------------- | ----------- |
-| **d20** | **Waypoints** | **Feature** |
-| **1**   | Archive       |             |
-| **2**   | Asylum        |             |
-| **3**   | Bazaar        |             |
-| **4**   | Beacon Tower  |             |
-| **5**   | Bunker        |             |
-| **6**   | Cabin         |             |
-| **7**   | Campground    |             |
-| **8**   | Guildhall     |             |
-| **9**   | Hospice       |             |
-| **10**  | Hunting Lodge |             |
-| **11**  | Inn           |             |
-| **12**  | Observatory   |             |
-| **13**  | Reservoir     |             |
-| **14**  | Sanatorium    |             |
-| **15**  | Sanctuary     |             |
-| **16**  | Shrine        |             |
-| **17**  | Temple        |             |
-| **18**  | Trading Post  |             |
-| **19**  | Watchtower    |             |
-| **20**  | Work Camp     |             |
+|         |               |                                  |
+| ------- | ------------- | -------------------------------- |
+| **d20** | **Waypoints** | **Feature**                      |
+| **1**   | Archive       | Built on Sacred Grounds          |
+| **2**   | Asylum        | Decrepit Buildings               |
+| **3**   | Bazaar        | Reclusive Occupants              |
+| **4**   | Beacon Tower  | Protects a Powerful Object       |
+| **5**   | Bunker        | Cursed By Previous Occupants     |
+| **6**   | Cabin         | Known for its Elaborate Defenses |
+| **7**   | Campground    | Occupants are Lawful to a Fault  |
+| **8**   | Guildhall     | Part of an Illegal Trade Route   |
+| **9**   | Hospice       | Ruled by a Powerful Faction      |
+| **10**  | Hunting Lodge | Host to a Renowned Artisan       |
+| **11**  | Inn           | Distrustful Occupants            |
+| **12**  | Observatory   | Technologically Advanced         |
+| **13**  | Reservoir     | Contains a Powerful Artifact     |
+| **14**  | Sanatorium    | Sits on Natural Deposits         |
+| **15**  | Sanctuary     | Front for Illegal Operations     |
+| **16**  | Shrine        | Popular Pilgrim Destination      |
+| **17**  | Temple        | Occupants are Overly Formal      |
+| **18**  | Trading Post  | A Haven for Outcasts             |
+| **19**  | Watchtower    | Does Not Appear On Any Map       |
+| **20**  | Work Camp     | Outsiders Cannot Carry Weapons   |
 
 ### Curiosities
 
