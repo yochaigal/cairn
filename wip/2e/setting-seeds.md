@@ -198,29 +198,29 @@ Roll 2d20 and combine the results.
 
 Roll 2d20 and combine the results.
 
-|         |               |             |
-| ------- | ------------- | ----------- |
-| **d20** | **Type**      | **Feature** |
-| **1**   | Crypt         |             |
-| **2**   | Prison        |             |
-| **3**   | Cave          |             |
-| **4**   | Mine          |             |
-| **5**   | Den           |             |
-| **6**   | Stronghold    |             |
-| **7**   | Temple        |             |
-| **8**   | Laboratory    |             |
-| **9**   | Workshop      |             |
-| **10**  | Great Hall    |             |
-| **11**  | Burial Ground |             |
-| **12**  | Fungal Grove  |             |
-| **13**  | Ruined City   |             |
-| **14**  | Estate        |             |
-| **15**  | Tower         |             |
-| **16**  | Manor         |             |
-| **17**  | Outpost       |             |
-| **18**  | Fort          |             |
-| **19**  | Palace        |             |
-| **20**  | Graveyard     |             |
+|         |                |              |
+| ------- | -------------- | ------------ |
+| **d20** | **Type**       | **Feature**  |
+| **1**   | Crypt          | Abandoned    |
+| **2**   | Prison         | Buried       |
+| **3**   | Cave           | Burnt        |
+| **4**   | Mine           | Clockwork    |
+| **5**   | Den            | Collapsed    |
+| **6**   | Stronghold     | Crumbling    |
+| **7**   | Temple         | Crystalline  |
+| **8**   | Laboratory     | Floating     |
+| **9**   | Workshop       | Flooded      |
+| **10**  | Great Hall     | Fungal       |
+| **11**  | Burial Ground  | Inverted     |
+| **12**  | Shrouded Grove | Isolated     |
+| **13**  | Ruined City    | Mirrored     |
+| **14**  | Estate         | Otherworldly |
+| **15**  | Tower          | Overgrown    |
+| **16**  | Manor          | Petrified    |
+| **17**  | Outpost        | Remote       |
+| **18**  | Fort           | Sealed       |
+| **19**  | Palace         | Toxic        |
+| **20**  | Tomb           | Warped       |
 
 
 ## Create Paths
