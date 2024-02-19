@@ -49,7 +49,7 @@ Points of Interest on a map (or POIs) are generally divided into the following c
 | ------- | ---------------------- |
 | **d6**  | **POI**                |
 | **1**   | Waypoint or Settlement |
-| **2-3** | Curiosity            |
+| **2-3** | Curiosity              |
 | **4**   | Lair                   |
 | **5-6** | Dungeon                |
 
@@ -198,29 +198,29 @@ Roll 2d20 and combine the results.
 
 Roll 2d20 and combine the results.
 
-|         |                       |     |
-| ------- | --------------------- | --- |
-| **d20** | **Dungeons**          |     |
-| **1**   | Ancient prison        |     |
-| **2**   | Collapsed aqueduct    |     |
-| **3**   | Crumbling tower       |     |
-| **4**   | Eroded arches         |     |
-| **5**   | Fallen obelisk        |     |
-| **6**   | Forsaken graveyard    |     |
-| **7**   | Neglected lighthouse  |     |
-| **8**   | Overgrown garden maze |     |
-| **9**   | Primeval stone circle |     |
-| **10**  | Rotted mill           |     |
-| **11**  | Swaying minaret       |     |
-| **12**  | Weathered temple      |     |
-| **13**  |                       |     |
-| **14**  |                       |     |
-| **15**  |                       |     |
-| **16**  |                       |     |
-| **17**  |                       |     |
-| **18**  |                       |     |
-| **19**  |                       |     |
-| **20**  |                       |     |
+|         |               |             |
+| ------- | ------------- | ----------- |
+| **d20** | **Type**      | **Feature** |
+| **1**   | Crypt         |             |
+| **2**   | Prison        |             |
+| **3**   | Cave          |             |
+| **4**   | Mine          |             |
+| **5**   | Den           |             |
+| **6**   | Stronghold    |             |
+| **7**   | Temple        |             |
+| **8**   | Laboratory    |             |
+| **9**   | Workshop      |             |
+| **10**  | Great Hall    |             |
+| **11**  | Burial Ground |             |
+| **12**  | Fungal Grove  |             |
+| **13**  | Ruined City   |             |
+| **14**  | Estate        |             |
+| **15**  | Tower         |             |
+| **16**  | Manor         |             |
+| **17**  | Outpost       |             |
+| **18**  | Fort          |             |
+| **19**  | Palace        |             |
+| **20**  | Graveyard     |             |
 
 
 ## Create Paths
@@ -339,9 +339,6 @@ Roll 2d20 and combine the results.
 | **18**  | Horses        | Tools         |
 | **19**  | Textiles      | Vessels       |
 | **20**  | Weapons       | Fuel          |
-
-
-
 
 ## Conclusion
 
