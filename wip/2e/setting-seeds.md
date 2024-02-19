@@ -222,30 +222,15 @@ Roll 2d20 and combine the results.
 
 Landmarks are unique, visible POIs that can also be used as geographic reference points: towers, mountains, tall buildings, and so on. They help orient travelers around the map, and can help to identify terrain, regions, settlements, and Curiosities from afar. Landmarks are especially visible from areas with higher elevation or a clear viewpoint.
 
-### Create Landmarks
+## Paths
 
-## Create Paths
-- Create 1-4 paths between each location.
-- Mark the distance between each POI by rolling 1d6 for close POIs, 2d6 for moderate distances, and 3d6 for POIs far apart. The result is how many days of travel between each point.
+Paths act as geographic connectors on the map, ranging from well-traveled roads to rough wilderness routes. Paths should provide compelling choices between POIs, who must weigh factors such as safety, speed, and travel difficulty. They may be well-trod, or hidden and not appearing any map. Some paths may require specialized tools (boats, climbing gear, etc.) or are simply impossible to navigate without a map or guide.  
 
-### Types of Paths
+### Draw Paths
+- On your map, create 1-4 paths between each location.
+ - Add at least two Hidden Paths, represented by a dashed line.
+ - Add at least two Conditional Paths, represented by a crossed line. 
 
-- **Standard**: A path typical to the region, lacking in special features.
-- **Barrier**: A geographic obstruction that slows down or completely blocks further travel. Examples can include rivers, changes in elevation, thickly-grown trees, sinkholes, and more. 
-- **Chain**: The path is a segment in a series, typically tied to terrain (mountain passes, rivers, trade routes, etc.).
-- **Dead End**: Leads to a remote or isolated location.
-- **Encounter**: The risk of peril is increased. Roll on the Wilderness Event table an extra time, and the chance of getting lost increases by a step.
-- **Hidden**: A path not appearing on any known maps. Learning about them always require some kind of cost. Additionally, chance of getting lost increases by a step.
-- **Shortcut**: A path that provides a significant boost in speed to another POI.
-
-#### Draw Paths
-
-- On a flat sheet of paper draw a five-pointed star. This is the "Heart" of your adventure site. 
-- Select a point on the star, and roll on the [Path Types](#path-types) table and draw the results.
-  - Assume that all paths are one Watch long. If you'd like to make them longer, make sure to place more POIs along the way! 
-  - Don't focus too much on the specific traits of any Path or POI, at this time. That includes distance, path types (i.e. trails, roads, rivers, etc.) and other details (towns, Ruins, etc.).
-  - Create between 3-5 paths from each of the star's points.
-- Next, determine whether the path is going to be a Trail (T), a Road (R), or a Wilderness (W) route.
 
 > Some paths may lead to POIs that allow the PCs to see more of the world than what appears on their map.
 
