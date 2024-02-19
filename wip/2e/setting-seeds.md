@@ -23,25 +23,22 @@ The following procedure is designed to help create the _seed_ of a setting: the 
 - Draw the letter **H** anywhere on a sheet of paper, or roll a d6 and mark where it lands. This is the region's **Heart**, or primary settlement. 
   - Roll 6d6 on the page, ignoring any dice that roll off the page. These are the maps's **Points of Interest** (POI).
   - Note the face up results according to the [Die Drop Table](#die-drop-table), writing its corresponding letter on the page beneath (e.g. R = Waypoint, D = Dungeon, etc.).
-- Draw circles around the dice in clumps of 2-4 dice each. These represent the map's regions.
-  - The Heart can be in its own circle, or can be included in another region.
-  - Regions should be big enough to share a border.
+- Draw circles around the POIs (including the Heart) in clumps of 2-4 each, large enough to share borders. These represent the map's regions.
 - Roll on the [Regions](#regions) table for each clump, and write the results on on the page.
-- For the Heart, roll on the [Settlements](#settlments) table and note the result on the map.
 - Roll on the relevant tables for each POI (including the Heart) and note the results.
 
-> Regions are wide swaths of land defined by either a particular terrain (e.g. tundra, hills, etc.), arbitrary political boundaries (a kingdom, a barony, etc.), or both.
+> - The **Heart** is always a **Settlement** of some kind. It isn't necessarily the largest or most important place in the setting, but it should be significant to the region's history
+> - Regions are swaths of land defined by either a particular terrain (e.g. tundra, hills, etc.), arbitrary political boundaries (a kingdom, a barony, etc.), or both.
 
 ### Points of Interest
 
 Points of Interest on a map (or POIs) are generally divided into the following categories:  
 - **Settlements**: Permanent, largely self-sufficient population centers, typically governed by a political body or faction.
-- **Waypoints**: A safe place to refill supplies, get a good night's sleep, or get directions. Often rely on travellers for survival, but provide necessary services.
+- **Waypoints**: A safe place to refill supplies, get a good night's sleep, or get directions. Often rely on travelers for survival, but provide necessary services.
 - **Curiosities**: A wilderness locale of note, somewhere remarkable or strange. It may indeed be hazardous, but only if the PCs interact with it.
 - **Lairs**: A source of heightened monster activity, enemy encampment, or hive.
 - **Dungeons**: An explicitly dangerous locale, dungeon, or adventure site.
 
-> The **Heart** is always a **Settlement** of some kind. It isn't necessarily the largest or most important place in the setting, but it should be significant to the region's history
 
 ### Die Drop Table
 
@@ -221,6 +218,11 @@ Roll 2d20 and combine the results.
 | **18**  | Fort           | Sealed       |
 | **19**  | Palace         | Toxic        |
 | **20**  | Tomb           | Warped       |
+
+
+### Landmarks
+
+
 
 
 ## Create Paths
