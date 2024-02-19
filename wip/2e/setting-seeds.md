@@ -83,6 +83,8 @@ Roll 2d20 and combine the results.
 
 ### Settlements
 
+Roll 2d20 and combine the results.
+
 |         |                 |                                  |
 | ------- | --------------- | -------------------------------- |
 | **d20** | **Settlements** | **Feature**                      |
@@ -139,29 +141,29 @@ Roll 2d20 and combine the results.
 
 Roll 2d20 and combine the results.
 
-|         |                     |                    |
-| ------- | ------------------- | ------------------ |
-| **d20** | **Curiosities**     | **Feature**        |
-| **1**   | Ancient tree        | Ancient library    |
-| **2**   | Enormous footprint  | Bloody battlefield |
-| **3**   | Endless sinkholes   | Fungal growths     |
-| **4**   | Fungus-covered well | Carnivorous plants |
-| **5**   | Giant skeleton      | Ritual site        |
-| **6**   | Glimmering cave     | Purple geysers     |
-| **7**   | Hot springs         | Frozen graveyard   |
-| **8**   | Bloody Archway      | Floating construct |
-| **9**   | Misty waterfall     | Floating island    |
-| **10**  | Mysterious megalith | Folk witch         |
-| **11**  | Oddly-shaped lake   | Illusory city      |
-| **12**  | Petrified trees     | Irregular gravity  |
-| **13**  | Whispering chasm    | Misty crater       |
-| **14**  | Crystal spire       | Trading post       |
-| **15**  | Echoing fields      | Singing stones     |
-| **16**  | Rising fist         | Abandoned Vessel   |
-| **17**  | Illegible signpost  | Trash heap         |
-| **18**  | Shifting sands      | Perpetual shadows  |
-| **19**  | Sunken city         | Endless storm      |
-| **20**  | Broken tower        | Swirling stones    |
+|         |                    |                        |
+| ------- | ------------------ | ---------------------- |
+| **d20** | **Curiosities**    | **Feature**            |
+| **1**   | Ancient Tree       | Buried Library         |
+| **2**   | Enormous Footprint | Site of Ancient Battle |
+| **3**   | Collapsed Mill     | Edible Fungus          |
+| **4**   | Cracked Bell       | Carnivorous Plants     |
+| **5**   | Singing Stones     | Cult Ritual Site       |
+| **6**   | Leviathan Skeleton | Impossible Music       |
+| **7**   | Purple Geysers     | Unstable Ground        |
+| **8**   | Dripping Archway   | Perpetual Mist         |
+| **9**   | Floating Island    | Infested With Vermin   |
+| **10**  | Buried Megalith    | Buried Ley Line        |
+| **11**  | Oddly-shaped Lake  | Illusory               |
+| **12**  | Petrified Trees    | Irregular Gravity      |
+| **13**  | Hanging Bridges    | Only Appears At Night  |
+| **14**  | Crystal Spire      | Hidden Market          |
+| **15**  | Echoing Fields     | Celestial Mirror       |
+| **16**  | Enormous Fist      | Abandoned Vessel       |
+| **17**  | Illegible Signpost | Ancient Trash Heap     |
+| **18**  | Frozen Graveyard   | Perpetual Shadows      |
+| **19**  | Sunken City        | Isolated Weather       |
+| **20**  | Broken Tower       | Floating Debris        |
 
 ### Lairs
 
