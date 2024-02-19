@@ -22,12 +22,12 @@ The following procedure is designed to help create the _seed_ of a setting: the 
 
 - Draw the letter **H** anywhere on a sheet of paper, or roll a d6 and mark where it lands. This is the region's **Heart**, or primary settlement. 
   - Roll 6d6 on the page, ignoring any dice that roll off the page. These are the maps's **Points of Interest** (POI).
-  - Note the face up results according to the [Die Drop Table](#die-drop-table), writing its corresponding letter on the page beneath (e.g. R = Waypoint, S = Special, etc.).
-- Draw circles around the dice in bordering clumps of 2-4 dice each. These represent the map's regions.
+  - Note the face up results according to the [Die Drop Table](#die-drop-table), writing its corresponding letter on the page beneath (e.g. R = Waypoint, D = Dungeon, etc.).
+- Draw circles around the dice in clumps of 2-4 dice each. These represent the map's regions.
   - The Heart can be in its own circle, or can be included in another region.
-  - Regions should be big enough to touch each other. They _are_ the map.
+  - Regions should be big enough to share a border.
 - Roll on the [Regions](#regions) table for each clump, and write the results on on the page.
-- For the Heart, roll on the [Settlments](#settlments) table and note the result on the map.
+- For the Heart, roll on the [Settlements](#settlments) table and note the result on the map.
 - Roll on the relevant tables for each POI (including the Heart) and note the results.
 
 > Regions are wide swaths of land defined by either a particular terrain (e.g. tundra, hills, etc.), arbitrary political boundaries (a kingdom, a barony, etc.), or both.
