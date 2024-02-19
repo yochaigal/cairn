@@ -13,12 +13,12 @@ search_exclude: true
 
 The following procedure is designed to help create the _seed_ of a setting: the geography, people, and paths that an adventuring party may have to navigate as they travel throughout a region. We'll start by drawing a map of the region, noting its unique topography, natural features, towns, lairs, dungeons, roads, and so on. Then we'll develop the people of the region, their ambitions and resources, and the factions that rule them.
 
-### Draw the Map
-
-### Materials Required
+## Materials Required
 - At least one sheet of paper. Letter/A4 is OK, but the larger the better.
 - Pencils and erasers.
 - At least one d6 and one d20, but 6d6 and 2d20 would be ideal.
+
+## Draw the Map
 
 - Draw the letter **H** anywhere on a sheet of paper, or roll a d6 and mark where it lands. This is the region's **Heart**, or primary settlement. 
   - Roll 6d6 on the page, ignoring any dice that roll off the page. These are the maps's **Points of Interest** (POI).
@@ -38,7 +38,6 @@ Points of Interest on a map (or POIs) are generally divided into the following c
 - **Curiosities**: A wilderness locale of note, somewhere remarkable or strange. It may indeed be hazardous, but only if the PCs interact with it.
 - **Lairs**: A source of heightened monster activity, enemy encampment, or hive.
 - **Dungeons**: An explicitly dangerous locale, dungeon, or adventure site.
-
 
 ### Die Drop Table
 
@@ -190,7 +189,6 @@ Roll 2d20 and combine the results.
 | **19**  | Ruined Town         | Training Camp       |
 | **20**  | Abandoned Tower     | Abandoned           |
 
-
 ### Dungeons
 
 Roll 2d20 and combine the results.
@@ -220,10 +218,11 @@ Roll 2d20 and combine the results.
 | **20**  | Tomb           | Warped       |
 
 
-### Landmarks
+## Landmarks
 
+Landmarks are unique, visible POIs that can also be used as geographic reference points: towers, mountains, tall buildings, and so on. They help orient travelers around the map, and can help to identify terrain, regions, settlements, and Curiosities from afar. Landmarks are especially visible from areas with higher elevation or a clear viewpoint.
 
-
+### Create Landmarks
 
 ## Create Paths
 - Create 1-4 paths between each location.
