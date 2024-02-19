@@ -49,7 +49,7 @@ Points of Interest on a map (or POIs) are generally divided into the following c
 | ------- | ---------------------- |
 | **d6**  | **POI**                |
 | **1**   | Waypoint or Settlement |
-| **2-3** | Curiosities            |
+| **2-3** | Curiosity            |
 | **4**   | Lair                   |
 | **5-6** | Dungeon                |
 
@@ -169,29 +169,29 @@ Roll 2d20 and combine the results.
 
 Roll 2d20 and combine the results.
 
-|         |                   |             |
-| ------- | ----------------- | ----------- |
-| **d20** | **Lair**          | **Feature** |
-| **1**   | Blighted cave     | Elevated    |
-| **2**   | Colossal hive     | Sinking     |
-| **3**   | Crumbling tower   | Shifting    |
-| **4**   | Hidden burrow     | Stinking    |
-| **5**   | Illusory shelter  | Ragged      |
-| **6**   | Massive tree      | Gleaming    |
-| **7**   | Primitive bridge  | Hideous     |
-| **8**   | Rusted metal cube | Lonely      |
-| **9**   | Shallow island    |             |
-| **10**  | Derelict ship     |             |
-| **11**  | Sunken thicket    |             |
-| **12**  | Toxic quarry      |             |
-| **13**  |                   |             |
-| **14**  |                   |             |
-| **15**  |                   |             |
-| **16**  |                   |             |
-| **17**  |                   |             |
-| **18**  |                   |             |
-| **19**  |                   |             |
-| **20**  |                   |             |
+|         |                     |                     |
+| ------- | ------------------- | ------------------- |
+| **d20** | **Lair**            | **Feature**         |
+| **1**   | Ancient prison      | Underwater          |
+| **2**   | Unruly Copse        | Entry Forbidden     |
+| **3**   | Dry Aqueduct        | Signs Posted        |
+| **4**   | Colossal Hive       | Waste Pit           |
+| **5**   | Crumbling Fort      | Piles of Bones      |
+| **6**   | Crashed Ship        | Previously Occupied |
+| **7**   | Spiked Cave         | Constant Screaming  |
+| **8**   | Hollow Obelisk      | At Crossroads       |
+| **9**   | Forgotten Graveyard | Religious Graffiti  |
+| **10**  | Hidden Burrow       | Bioluminescence     |
+| **11**  | Collapsed Mine      | Something Sleeps    |
+| **12**  | Enormous Stump      | Odd Machinery       |
+| **13**  | Overgrown Garden    | Scattered Traps     |
+| **14**  | Primeval Menhirs    | Scavengers Watch    |
+| **15**  | Primitive Bridge    | Symbiotic Entity    |
+| **16**  | Rotted Mill         | Hidden Exit         |
+| **17**  | Rusted Construct    | Baited Entrance     |
+| **18**  | Sunken Grotto       | Faction Hideout     |
+| **19**  | Ruined Town         | Training Camp       |
+| **20**  | Abandoned Tower     | Abandoned           |
 
 
 ### Dungeons
