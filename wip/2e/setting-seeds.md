@@ -217,11 +217,6 @@ Roll 2d20 and combine the results.
 | **19**  | Palace         | Toxic        |
 | **20**  | Tomb           | Warped       |
 
-
-## Landmarks
-
-Landmarks are unique, visible POIs that can also be used as geographic reference points: towers, mountains, tall buildings, and so on. They help orient travelers around the map, and can help to identify terrain, regions, settlements, and Curiosities from afar. Landmarks are especially visible from areas with higher elevation or a clear viewpoint.
-
 ## Paths
 
 Paths act as geographic connectors on the map, ranging from well-traveled roads to rough wilderness routes. Paths should provide compelling choices between POIs, who must weigh factors such as safety, speed, and travel difficulty. They may be well-trod, or hidden and not appearing any map. Some paths may require specialized tools (boats, climbing gear, etc.) or are simply impossible to navigate without a map or guide.  
@@ -258,6 +253,44 @@ Roll 2d8 and combine the results.
 | **6**  | Hidden    |             |
 | **7**  | Shortcut  |             |
 | **8**  | Standard  |             |
+
+## Landmarks
+
+Landmarks are unique, visible POIs that can also be used as geographic reference points: towers, mountains, tall buildings, and so on. They help orient travelers around the map, and can help to identify terrain, regions, settlements, and Curiosities from afar. Landmarks are especially visible from areas with higher elevation or a clear viewpoint.
+
+Landmarks have:
+- Three or more obvious (i.e., not hidden) paths
+- Can be identified from nearby POIs
+- Are typically visible from other Landmarks
+
+### Landmark Features
+
+
+Roll 2d20 and combine the results.
+
+|         |          |             |
+| ------- | -------- | ----------- |
+| **d20** | **Type** | **Feature** |
+| **1**   |          |             |
+| **2**   |          |             |
+| **3**   |          |             |
+| **4**   |          |             |
+| **5**   |          |             |
+| **6**   |          |             |
+| **7**   |          |             |
+| **8**   |          |             |
+| **9**   |          |             |
+| **10**  |          |             |
+| **11**  |          |             |
+| **12**  |          |             |
+| **13**  |          |             |
+| **14**  |          |             |
+| **15**  |          |             |
+| **16**  |          |             |
+| **17**  |          |             |
+| **18**  |          |             |
+| **19**  |          |             |
+| **20**  |          |             |
 
 ## People
 
