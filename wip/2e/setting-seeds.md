@@ -233,23 +233,41 @@ Paths act as geographic connectors on the map, ranging from well-traveled roads 
   - Add at least two Hidden Paths, represented by a dashed line.
   - Add at least two Conditional Paths, represented by a crossed line.
   - Create loops, branching paths, dead-ends, and shortcuts between POIs.
-  - Decide whether each path represents a road, a trail, or a wilderness route and roll on the appropriate table, noting the results on the page.
+- Decide whether each path represents a road, a trail, or a wilderness route and roll on the [Path Names](#path-names) tables, noting the results on the page.
+- Determine the path distances and note the time on the page:
+  - POIs a short distance apart take one Watch to traverse, a medium distance apart take two Watches, and a long distance apart take three Watches. 
+  - For Trails add 1 more Watch, and for Wilderness routes add 2 additional Watches.
 
 > Keep in mind that some paths may be parts of a chain and tied to a particular terrain (mountain passes, rivers, etc.). 
+> Each Watch 8 hours long. Denote days between POIs wherever possible (typically two Watches and one rest per day).
 
-### Path Distance 
+### Path Names
 
-To determine the distance between two POIs, refer to the Path Difficulty table below.
+Roll 2d20 and combine the results.
 
-#### Path Difficulty
-
-|            |                        |                         |                       |
-| ---------- | ---------------------- | ----------------------- | --------------------- |
-| Path Type  | Short Distance Penalty | Medium Distance Penalty | Long Distance Penalty |
-| Roads      | +1 Watch               | +2 Watches              | +3 Watches            |
-| Trails     | +2 Watches             | +3 Watches              | +4 Watches            |
-| Wilderness | +3 Watches             | +4 Watches              | +5 Watches            |
-
+|         |          |             |
+| ------- | -------- | ----------- |
+| **d20** | **Name** | **Feature** |
+| **1**   |          |             |
+| **2**   |          |             |
+| **3**   |          |             |
+| **4**   |          |             |
+| **5**   |          |             |
+| **6**   |          |             |
+| **7**   |          |             |
+| **8**   |          |             |
+| **9**   |          |             |
+| **10**  |          |             |
+| **11**  |          |             |
+| **12**  |          |             |
+| **13**  |          |             |
+| **14**  |          |             |
+| **15**  |          |             |
+| **16**  |          |             |
+| **17**  |          |             |
+| **18**  |          |             |
+| **19**  |          |             |
+| **20**  |          |             |
 
 ## Landmarks
 
