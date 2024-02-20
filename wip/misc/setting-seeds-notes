@@ -668,3 +668,11 @@ Weathered temple
 - You should see at least 2 other landmarks from any hub/intersection
 - Landmark hubs usually mark major path intersections and allow you see at least another hub in close proximity.
 - "A designer should populate the horizon line with at least three POIs each offering different gameplay, no matter where the player goes"
+- Each fork should have a location of note.  
+- Don’t require too many words to describe 
+- Only a few kinds of hidden interactions. 
+
+Landmarks have:
+- Two or more obvious (i.e., not hidden) paths
+- Can be identified from at least one nearby POIs (including other Landmarks)
+

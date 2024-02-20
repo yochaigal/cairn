@@ -256,17 +256,18 @@ Roll 2d8 and combine the results.
 
 ## Landmarks
 
-Landmarks are unique, visible POIs that can also be used as geographic reference points: towers, mountains, tall buildings, and so on. They help orient travelers around the map, and can help to identify terrain, regions, settlements, and Curiosities from afar. Landmarks are especially visible from areas with higher elevation or a clear viewpoint.
+Landmarks are unique, visible POIs that can also be used as geographic reference points: towers, mountains, tall buildings, and so on. They help orient travelers around the map, and can help to identify terrain, regions, settlements, and Curiosities from afar. Landmarks are especially visible from areas with higher elevation or a clear viewpoint. Each region should have at least one Landmark, with larger regions having 3-4.
 
-Landmarks have:
-- Three or more obvious (i.e., not hidden) paths
-- Can be identified from nearby POIs
-- Are typically visible from other Landmarks
+### Draw Landmarks
 
-### Landmark Features
+Roll on the [Landmarks](#landmarks-table) table wherever:
+- A path crosses into another region
+- A path forks into at least two directions
 
+If a POI does not exist in either case, create one in the normal fashion.
 
-Roll 2d20 and combine the results.
+### Landmarks Table
+
 
 |         |          |             |
 | ------- | -------- | ----------- |
@@ -291,6 +292,7 @@ Roll 2d20 and combine the results.
 | **18**  |          |             |
 | **19**  |          |             |
 | **20**  |          |             |
+
 
 ## People
 
