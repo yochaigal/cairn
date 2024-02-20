@@ -221,23 +221,35 @@ Roll 2d20 and combine the results.
 
 ## Paths
 
-Paths act as geographic connectors on the map, ranging from well-traveled roads to rough wilderness routes. Paths should provide compelling choices between POIs, who must weigh factors such as safety, speed, and travel difficulty.
+Paths act as geographic connectors on the map, ranging from well-traveled roads to rough wilderness routes. Paths should provide compelling choices between POIs, who must weigh factors such as safety, speed, and travel difficulty. The following represent common path 
 
-### Types of Paths
-
-- **Standard**: An obvious or well-trod path between two POIs. 
-- **Hidden**: A path not appearing on any known maps. Their discovery always requires some kind of cost.
-- **Conditional**: May be blocked, or requires specialized tools (boats, climbing gear, etc.) to cross. Others may even be impossible to navigate without a map or guide.
-- **Shortcut**: A path that provides a significant boost in speed to another POI.
-- **Chain**: The path is a segment in a series, typically tied to terrain (mountain passes, rivers, trade routes, etc.).
+- **Standard**: An obvious or well-trod path between two POIs. Represented by a thick line.
+- **Hidden**: A path not appearing on any known maps. Their discovery always requires some kind of cost. Represented by a dashed line.
+- **Conditional**: May be blocked, or requires specialized tools (boats, climbing gear, etc.) to cross. Others may even be impossible to navigate without a map or guide. Represented by a crossed line.
 
 ### Draw Paths
+
 - On your map, create 1-4 paths between each location.
- - Add at least two Hidden Paths, represented by a dashed line.
- - Add at least two Conditional Paths, represented by a crossed line.
- - Create loops, branching paths, dead-ends, and shortcuts between POIs.
+  - Add at least two Hidden Paths, represented by a dashed line.
+  - Add at least two Conditional Paths, represented by a crossed line.
+  - Create loops, branching paths, dead-ends, and shortcuts between POIs.
+  - Decide whether each path represents a road, a trail, or a wilderness route and roll on the appropriate table, noting the results on the page.
 
 > Keep in mind that some paths may be parts of a chain and tied to a particular terrain (mountain passes, rivers, etc.). 
+
+### Path Distance 
+
+To determine the distance between two POIs, refer to the Path Difficulty table below.
+
+#### Path Difficulty
+
+|            |                        |                         |                       |
+| ---------- | ---------------------- | ----------------------- | --------------------- |
+| Path Type  | Short Distance Penalty | Medium Distance Penalty | Long Distance Penalty |
+| Roads      | +1 Watch               | +2 Watches              | +3 Watches            |
+| Trails     | +2 Watches             | +3 Watches              | +4 Watches            |
+| Wilderness | +3 Watches             | +4 Watches              | +5 Watches            |
+
 
 ## Landmarks
 
@@ -285,11 +297,11 @@ Add the table results to the map around the POI.
 - Roll on the [Culture](#culture) table, and record the results:
 - Roll on the [Resources](#resources) table and record the results.
 - Answer the following:
- - How do the people that live there perceive themselves, and how others perceive them?
- - What effects does the region's terrain have on the people that live there? 
- - What resources are in abundance, and what are scarce? 
- - How do these factors relate to the other aspects of the region, and how does it shape the people that live there?
- - What would draw someone there, and why would they stay? 
+  - How do the people that live there perceive themselves, and how others perceive them?
+  - What effects does the region's terrain have on the people that live there? 
+  - What resources are in abundance, and what are scarce? 
+  - How do these factors relate to the other aspects of the region, and how does it shape the people that live there?
+  - What would draw someone there, and why would they stay? 
 
 ### Culture
 
