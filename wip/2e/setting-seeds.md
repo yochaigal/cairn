@@ -247,29 +247,30 @@ Roll 2d20 and combine the results.
 
 Roll 2d20 and combine the results.
 
-|         |                   |                     |
-| ------- | ----------------- | ------------------- |
-| **d20** | **Traveled By**   | **Landmark**        |
-| **1**   | Merchants         | Enormous Footprints |
-| **2**   | Thieves           | Trail Trees         |
-| **3**   | Pilgrims          | Ancient Ruins       |
-| **4**   | Loggers           | Broken Aqueduct     |
-| **5**   | Armies            | Collapsed Tower     |
-| **6**   | Smugglers         |                     |
-| **7**   | Star Gazers       |                     |
-| **8**   | Farmers           |                     |
-| **9**   | Cattle Drivers    |                     |
-| **10**  | Miners            |                     |
-| **11**  | Nomads            |                     |
-| **12**  | Migratory Animals |                     |
-| **13**  | Patrols           | Petrified Wood      |
-| **14**  | Ancient Peoples   |                     |
-| **15**  | Cattle Drivers    |                     |
-| **16**  | Day Laborers      |                     |
-| **17**  | Settlers          |                     |
-| **18**  | Zealots           |                     |
-| **19**  | Prospectors       |                     |
-| **20**  | Rebels            |                     |
+|         |                   |                        |
+| ------- | ----------------- | ---------------------- |
+| **d20** | **Traveled By**   | **Landmark**           |
+| **1**   | Merchants         | The Enormous Footprint |
+| **2**   | Thieves           | The Broken Aqueduct    |
+| **3**   | Pilgrims          | The Petrified Wood     |
+| **4**   | Loggers           | The Great Anvil        |
+| **5**   | Armies            | The Grand Arch         |
+| **6**   | Smugglers         | The Iron Forge         |
+| **7**   | Star Gazers       | The Marble Fountain    |
+| **8**   | Farmers           | The Broken Column      |
+| **9**   | Cattle Drivers    | The Sundial            |
+| **10**  | Miners            | The Oracle's Well      |
+| **11**  | Nomads            | The Mossy Cairn        |
+| **12**  | Migratory Animals | The Sapphire Gate      |
+| **13**  | Patrols           | The Amber Rock         |
+| **14**  | Ancient Peoples   | The Rainbow Falls      |
+| **15**  | Cattle Drivers    | The Wishing Steps      |
+| **16**  | Day Laborers      | The Mirror Maze        |
+| **17**  | Settlers          | The Water Wheel        |
+| **18**  | Zealots           | The Titan's Gate       |
+| **19**  | Prospectors       | The Golden Bridge      |
+| **20**  | Rebels            | The Crystal Spire      |
+
 
 ## People
 
