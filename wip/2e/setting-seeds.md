@@ -39,6 +39,8 @@ Points of Interest on a map (or POIs) are generally divided into the following c
 - **Lairs**: A source of heightened monster activity, enemy encampment, or hive.
 - **Dungeons**: An explicitly dangerous locale, dungeon, or adventure site.
 
+> Some POIs may allow the PCs to see more of the world than what appears on their map.
+
 ### Die Drop Table
 
 |         |                        |
@@ -219,40 +221,22 @@ Roll 2d20 and combine the results.
 
 ## Paths
 
-Paths act as geographic connectors on the map, ranging from well-traveled roads to rough wilderness routes. Paths should provide compelling choices between POIs, who must weigh factors such as safety, speed, and travel difficulty. They may be well-trod, or hidden and not appearing any map. Some paths may require specialized tools (boats, climbing gear, etc.) or are simply impossible to navigate without a map or guide.  
+Paths act as geographic connectors on the map, ranging from well-traveled roads to rough wilderness routes. Paths should provide compelling choices between POIs, who must weigh factors such as safety, speed, and travel difficulty.
+
+### Types of Paths
+
+- **Standard**: An obvious or well-trod path between two POIs. 
+- **Hidden**: A path not appearing on any known maps. Their discovery always requires some kind of cost.
+- **Conditional**: May be blocked, or requires specialized tools (boats, climbing gear, etc.) to cross. Others may even be impossible to navigate without a map or guide.
+- **Shortcut**: A path that provides a significant boost in speed to another POI.
+- **Chain**: The path is a segment in a series, typically tied to terrain (mountain passes, rivers, trade routes, etc.).
 
 ### Draw Paths
 - On your map, create 1-4 paths between each location.
  - Add at least two Hidden Paths, represented by a dashed line.
- - Add at least two Conditional Paths, represented by a crossed line. 
-
-
-> Some paths may lead to POIs that allow the PCs to see more of the world than what appears on their map.
-
-#### Path Types
-
-Roll 2d8 and combine the results.
-
-|        |            |             |
-| ------ | ---------- | ----------- |
-| **d8** | **Type**   | **Feature** |
-| **1**  | Trail      |             |
-| **2**  | Road       |             |
-| **3**  | Wilderness |             |
-| **4**  |            |             |
-
-
-|        |           |             |
-| ------ | --------- | ----------- |
-| **d8** | **Type**  | **Feature** |
-| **1**  | Barrier   |             |
-| **2**  | Chain     |             |
-| **3**  | Dead End  |             |
-| **4**  | Elevation |             |
-| **5**  | Encounter |             |
-| **6**  | Hidden    |             |
-| **7**  | Shortcut  |             |
-| **8**  | Standard  |             |
+ - Add at least two Conditional Paths, represented by a crossed line.
+ - Create loops, branching paths, dead-ends, and shortcuts between POIs.
+ - Paths can be parts of a chain, tied to a particular terrain (mountain passes, rivers, etc.) 
 
 ## Landmarks
 

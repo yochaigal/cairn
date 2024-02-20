@@ -650,8 +650,6 @@ Weathered temple
 
 ### Paths stuff
 
-- Mark the distance between each POI by rolling 1d6 for close POIs, 2d6 for moderate distances, and 3d6 for POIs far apart. The result is how many days of travel between each point.
-
 - **Standard**: A path typical to the region, lacking in special features.
 - **Hidden**: A path not appearing on any known maps. Learning about them always require some kind of cost. Additionally, chance of getting lost increases by a step.
 - **Shortcut**: A path that provides a significant boost in speed to another POI.
@@ -659,6 +657,35 @@ Weathered temple
 - **Chain**: The path is a segment in a series, typically tied to terrain (mountain passes, rivers, trade routes, etc.).
 - **Dead End**: Leads to a remote or isolated location.
 - **Encounter**: The risk of peril is increased. Roll on the Wilderness Event table an extra time, and the chance of getting lost increases by a step.
+
+#### Path Types
+
+Roll 2d8 and combine the results.
+
+|        |            |             |
+| ------ | ---------- | ----------- |
+| **d8** | **Type**   | **Feature** |
+| **1**  | Trail      |             |
+| **2**  | Road       |             |
+| **3**  | Wilderness |             |
+| **4**  |            |             |
+
+
+|        |           |             |
+| ------ | --------- | ----------- |
+| **d8** | **Type**  | **Feature** |
+| **1**  | Barrier   |             |
+| **2**  | Chain     |             |
+| **3**  | Dead End  |             |
+| **4**  | Elevation |             |
+| **5**  | Encounter |             |
+| **6**  | Hidden    |             |
+| **7**  | Shortcut  |             |
+| **8**  | Standard  |             |
+
+
+- Mark the distance between each POI by rolling 1d6 for close POIs, 2d6 for moderate distances, and 3d6 for POIs far apart. The result is how many days of travel between each point.
+
 
 
 ### Landmarks
