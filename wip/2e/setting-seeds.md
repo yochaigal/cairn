@@ -236,7 +236,8 @@ Paths act as geographic connectors on the map, ranging from well-traveled roads 
  - Add at least two Hidden Paths, represented by a dashed line.
  - Add at least two Conditional Paths, represented by a crossed line.
  - Create loops, branching paths, dead-ends, and shortcuts between POIs.
- - Paths can be parts of a chain, tied to a particular terrain (mountain passes, rivers, etc.) 
+
+> Keep in mind that some paths may be parts of a chain and tied to a particular terrain (mountain passes, rivers, etc.). 
 
 ## Landmarks
 
@@ -247,8 +248,9 @@ Landmarks are unique, visible POIs that can also be used as geographic reference
 Roll on the [Landmarks](#landmarks-table) table wherever:
 - A path crosses into another region
 - A path forks into at least two directions
+- If a POI does not exist in either case, create one in the normal fashion.
 
-If a POI does not exist in either case, create one in the normal fashion.
+Add the table results to the map around the POI.
 
 ### Landmarks Table
 
