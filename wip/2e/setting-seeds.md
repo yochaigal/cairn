@@ -219,96 +219,57 @@ Roll 2d20 and combine the results.
 | **19**  | Palace         | Toxic        |
 | **20**  | Tomb           | Warped       |
 
-## Paths
+## Paths & Landmarks
 
-Paths act as geographic connectors on the map, ranging from well-traveled roads to rough wilderness routes. Paths should provide compelling choices between POIs, who must weigh factors such as safety, speed, and travel difficulty. The following represent common path 
+**Paths** act as geographic connectors on the map, ranging from well-traveled roads to rough wilderness routes. Paths should provide compelling choices between POIs, who must weigh factors such as safety, speed, and travel difficulty. 
 
-- **Standard**: An obvious or well-trod path between two POIs. Represented by a thick line.
-- **Hidden**: A path not appearing on any known maps. Their discovery always requires some kind of cost. Represented by a dashed line.
-- **Conditional**: May be blocked, or requires specialized tools (boats, climbing gear, etc.) to cross. Others may even be impossible to navigate without a map or guide. Represented by a crossed line.
+- **Standard** paths are obvious or well-trod routes between two POIs, represented by a thick line.
+- **Hidden** paths do not appear on any known maps. Their discovery always requires some kind of cost. Represented by a dashed line.
+- **Conditional** paths may be blocked, or requires specialized tools (boats, climbing gear, etc.) to cross. Others may even be impossible to navigate without a map or guide. Represented by a crossed line.
+- **Landmarks** are unique, visible POIs that can also be used as geographic reference points: towers, mountains, tall buildings, and so on. They help orient travelers around the map, and can help to identify terrain, regions, settlements, and Curiosities from afar. Landmarks are _especially_ visible from areas with higher elevation or a clear viewpoint. Each path should have at least one visible landmark.
 
-### Draw Paths
+### Draw Paths & Add Landmarks
 
 - On your map, create 1-4 paths between each location.
   - Add at least two Hidden Paths, represented by a dashed line.
   - Add at least two Conditional Paths, represented by a crossed line.
   - Create loops, branching paths, dead-ends, and shortcuts between POIs.
-- Decide whether each path represents a road, a trail, or a wilderness route and roll on the [Path Names](#path-names) tables, noting the results on the page.
+  - Some paths may be parts of a chain and tied to a particular terrain (mountain passes, rivers, etc.).
+- Decide whether each path represents a road, a trail, or a wilderness route and add them to the map. 
+  - Roll on the [Path Types](#path-types) tables and note the results. 
+  - Each path should have a visible Landmark somewhere along the way.
 - Determine the path distances and note the time on the page:
   - POIs a short distance apart take one Watch to traverse, a medium distance apart take two Watches, and a long distance apart take three Watches. 
   - For Trails add 1 more Watch, and for Wilderness routes add 2 additional Watches.
+  - Each Watch is 8 hours long. Denote days between POIs wherever possible (typically two Watches and one rest per day).
 
-> Keep in mind that some paths may be parts of a chain and tied to a particular terrain (mountain passes, rivers, etc.). 
-> Each Watch 8 hours long. Denote days between POIs wherever possible (typically two Watches and one rest per day).
-
-### Path Names
+### Path Types
 
 Roll 2d20 and combine the results.
 
-|         |          |             |
-| ------- | -------- | ----------- |
-| **d20** | **Name** | **Feature** |
-| **1**   |          |             |
-| **2**   |          |             |
-| **3**   |          |             |
-| **4**   |          |             |
-| **5**   |          |             |
-| **6**   |          |             |
-| **7**   |          |             |
-| **8**   |          |             |
-| **9**   |          |             |
-| **10**  |          |             |
-| **11**  |          |             |
-| **12**  |          |             |
-| **13**  |          |             |
-| **14**  |          |             |
-| **15**  |          |             |
-| **16**  |          |             |
-| **17**  |          |             |
-| **18**  |          |             |
-| **19**  |          |             |
-| **20**  |          |             |
-
-## Landmarks
-
-Landmarks are unique, visible POIs that can also be used as geographic reference points: towers, mountains, tall buildings, and so on. They help orient travelers around the map, and can help to identify terrain, regions, settlements, and Curiosities from afar. Landmarks are especially visible from areas with higher elevation or a clear viewpoint. Each region should have at least one Landmark, with larger regions having 3-4.
-
-### Draw Landmarks
-
-Roll on the [Landmarks](#landmarks-table) table wherever:
-- A path crosses into another region
-- A path forks into at least two directions
-- If a POI does not exist in either case, create one in the normal fashion.
-
-Add the table results to the map around the POI.
-
-### Landmarks Table
-
-
-|         |          |             |
-| ------- | -------- | ----------- |
-| **d20** | **Type** | **Feature** |
-| **1**   |          |             |
-| **2**   |          |             |
-| **3**   |          |             |
-| **4**   |          |             |
-| **5**   |          |             |
-| **6**   |          |             |
-| **7**   |          |             |
-| **8**   |          |             |
-| **9**   |          |             |
-| **10**  |          |             |
-| **11**  |          |             |
-| **12**  |          |             |
-| **13**  |          |             |
-| **14**  |          |             |
-| **15**  |          |             |
-| **16**  |          |             |
-| **17**  |          |             |
-| **18**  |          |             |
-| **19**  |          |             |
-| **20**  |          |             |
-
+|         |                   |                     |
+| ------- | ----------------- | ------------------- |
+| **d20** | **Traveled By**   | **Landmark**        |
+| **1**   | Merchants         | Enormous Footprints |
+| **2**   | Thieves           | Trail Trees         |
+| **3**   | Pilgrims          | Ancient Ruins       |
+| **4**   | Loggers           | Broken Aqueduct     |
+| **5**   | Armies            | Collapsed Tower     |
+| **6**   | Smugglers         |                     |
+| **7**   | Star Gazers       |                     |
+| **8**   | Farmers           |                     |
+| **9**   | Cattle Drivers    |                     |
+| **10**  | Miners            |                     |
+| **11**  | Nomads            |                     |
+| **12**  | Migratory Animals |                     |
+| **13**  | Patrols           | Petrified Wood      |
+| **14**  | Ancient Peoples   |                     |
+| **15**  | Cattle Drivers    |                     |
+| **16**  | Day Laborers      |                     |
+| **17**  | Settlers          |                     |
+| **18**  | Zealots           |                     |
+| **19**  | Prospectors       |                     |
+| **20**  | Rebels            |                     |
 
 ## People
 
