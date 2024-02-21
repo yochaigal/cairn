@@ -352,9 +352,11 @@ Next, you can follow the [Factions](/wip/2e/factions.md) rules for generating Fa
 - Wild and dangerous places are named after their obvious hazards: poison lake, greedy mines, etc. Some tell a story: _Luka's Folly, Dead Man's Path_, etc. 
 
 ### Generating Names
-- Starting with the **Heart**, roll on the [Names Formula](#names-formula) table to name each POI on the map. 
-- Roll on the [Adjectives](#adjectives) and [Nouns](#nouns) table where appropriate, and consult the [Terrain Synonyms](#terrain-synonyms) table for inspiration. 
-- Refer to the [Example Names](#example-names) for a model of each table result. [**Proper Nouns**] can be added to or even replace parts of a name, e.g. **Bruna's Ugly Gulch**. 
+- Starting with the **Heart**, roll on the [Names Formula](#names-formula) table to name each POI on the map.
+- Use both the region's dominant terrain as well as the specific POI details where appropriate. 
+- Roll on the [Adjectives](#adjectives) and [Nouns](#nouns) table, and consult the [Terrain Synonyms](#terrain-synonyms) table for inspiration. 
+- Refer to the [Example Names](#example-names) for a model of each table result. 
+- [**Proper Nouns**] can be added to or even replace parts of a name, e.g. **Bruna's Ugly Gulch**. 
 
 | To roll **1d100**, roll **2d10**, using one die for the tens place, and one die for the ones place.
 
