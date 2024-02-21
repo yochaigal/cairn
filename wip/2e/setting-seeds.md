@@ -247,29 +247,29 @@ Roll 2d20 and combine the results.
 
 Roll 2d20 and combine the results.
 
-|         |                   |                        |
-| ------- | ----------------- | ---------------------- |
-| **d20** | **Traveled By**   | **Landmark**           |
-| **1**   | Merchants         | The Enormous Footprint |
-| **2**   | Thieves           | The Broken Aqueduct    |
-| **3**   | Pilgrims          | The Petrified Wood     |
-| **4**   | Loggers           | The Great Anvil        |
-| **5**   | Armies            | The Grand Arch         |
-| **6**   | Smugglers         | The Iron Forge         |
-| **7**   | Star Gazers       | The Marble Fountain    |
-| **8**   | Farmers           | The Broken Column      |
-| **9**   | Cattle Drivers    | The Sundial            |
-| **10**  | Miners            | The Oracle's Well      |
-| **11**  | Nomads            | The Mossy Cairn        |
-| **12**  | Migratory Animals | The Sapphire Gate      |
-| **13**  | Patrols           | The Amber Rock         |
-| **14**  | Ancient Peoples   | The Rainbow Falls      |
-| **15**  | Cattle Drivers    | The Wishing Steps      |
-| **16**  | Day Laborers      | The Mirror Maze        |
-| **17**  | Settlers          | The Water Wheel        |
-| **18**  | Zealots           | The Titan's Gate       |
-| **19**  | Prospectors       | The Golden Bridge      |
-| **20**  | Rebels            | The Crystal Spire      |
+|         |                   |                    |
+| ------- | ----------------- | ------------------ |
+| **d20** | **Traveled By**   | **Landmark**       |
+| **1**   | Merchants         | Enormous Footprint |
+| **2**   | Thieves           | Dead Aqueduct      |
+| **3**   | Pilgrims          | Petrified Forest   |
+| **4**   | Loggers           | Giant's Throne     |
+| **5**   | Armies            | Great Face         |
+| **6**   | Smugglers         | Fire Temple        |
+| **7**   | Star Gazers       | Mirage Lake        |
+| **8**   | Farmers           | Fallen Column      |
+| **9**   | Cattle Drivers    | Broken Sundial     |
+| **10**  | Miners            | Massive Hole       |
+| **11**  | Nomads            | Heart Tree         |
+| **12**  | Migratory Animals | Ancient Maze       |
+| **13**  | Patrols           | Amber Den          |
+| **14**  | Ancient Peoples   | Glittering Cascade |
+| **15**  | Cattle Drivers    | Cloud Stairway     |
+| **16**  | Day Laborers      | Silver Face        |
+| **17**  | Settlers          | Great Waterwheel   |
+| **18**  | Zealots           | Gate for Titans    |
+| **19**  | Prospectors       | Golden Bridge      |
+| **20**  | Rebels            | Crystal Spire      |
 
 
 ## People
