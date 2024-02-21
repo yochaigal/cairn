@@ -244,7 +244,7 @@ Roll 2d20 and combine the results.
 - Determine the path distances and note the time on the page:
   - POIs a short distance apart take one Watch to traverse, a medium distance apart take two Watches, and a long distance apart take three Watches. 
   - For Trails add 1 more Watch, and for Wilderness routes add 2 additional Watches.
-  - Each Watch is 8 hours long. Denote days between POIs wherever possible (typically two Watches and one rest per day).
+  - A Watch is 8 hours long. Denote days between POIs wherever possible (typically two Watches and one rest per day).
 
 ### Path Types
 
