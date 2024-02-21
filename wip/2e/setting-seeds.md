@@ -226,7 +226,7 @@ Roll 2d20 and combine the results.
 - **Standard** paths are obvious or well-trod routes between two POIs, represented by a thick line.
 - **Hidden** paths do not appear on any known maps. Their discovery always requires some kind of cost. Represented by a dashed line.
 - **Conditional** paths may be blocked, or requires specialized tools (boats, climbing gear, etc.) to cross. Others may even be impossible to navigate without a map or guide. Represented by a crossed line.
-- **Landmarks** are unique, visible POIs that can also be used as geographic reference points: towers, mountains, tall buildings, and so on. They help orient travelers around the map, and can help to identify terrain, regions, settlements, and Curiosities from afar. Landmarks are _especially_ visible from areas with higher elevation or a clear viewpoint. Each path should have at least one visible landmark.
+- **Landmarks** are unique, visible POIs that can also be used as geographic reference points: towers, mountains, tall buildings, and so on. They help orient travelers around the map, and can help to identify terrain, regions, settlements, and curiosities from afar. Landmarks are _especially_ visible from areas with higher elevation or a clear viewpoint. Each path should have at least one visible landmark, represented by a triangle drawn somewhere along the path.
 
 ### Draw Paths & Add Landmarks
 
@@ -271,12 +271,11 @@ Roll 2d20 and combine the results.
 | **19**  | Prospectors       | Golden Bridge      |
 | **20**  | Rebels            | Crystal Spire      |
 
-
 ## People
 
-- Roll on the [Culture](#culture) table, and record the results:
-- Roll on the [Resources](#resources) table and record the results.
-- Answer the following:
+The most important aspect of a setting are its _people_. But they are shaped by the terrain and history of their region, which is why we generate their character, ambitions, and resources at the very end. 
+
+- Roll on the [Culture](#culture) and [Resources](#resources) tables for every region that has a settlement. and record the results. Then answer the following:
   - How do the people that live there perceive themselves, and how others perceive them?
   - What effects does the region's terrain have on the people that live there? 
   - What resources are in abundance, and what are scarce? 
@@ -342,3 +341,5 @@ Roll 2d20 and combine the results.
 ## Conclusion
 
 Once you've gathered the results of these tables, combine them in order to create a cohesive theme for this region. For example, if I rolled a region covered in plains and surrounded by rivers, I might assume that the locals here were tradespeople, selling their wares to the neighbors downriver. If I rolled that the people there were religious and sought conversion, I'd assume they were a proud folk, but prone to religious extremes and proselytizing. And if their primary resources were land, I'd assume they grew their own food, but that their traders were always on the search for spices from distant lands.
+
+Next, you can follow the [Factions](/wip/2e/factions.md) rules for generating Factions to populate your map, and the [Dungeons] or [Forestcrawl](/wip/2e/forestcrawl.md) rules to build each of your POIs.
