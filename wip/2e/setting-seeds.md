@@ -13,7 +13,7 @@ search_exclude: true
 
 The following procedure is designed to help create the _seed_ of a setting: the geography, people, and paths that an adventuring party may have to navigate as they travel throughout a region. We'll start by drawing a map of the region, noting its unique topography, natural features, towns, lairs, dungeons, roads, and so on. Then we'll develop the people of the region, their ambitions and resources, and the factions that rule them.
 
-[![Alt text](/img/2e/setting-seed-example-dark.png "Click to embiggen"){:height="40%" width="40%"}](/img/2e/setting-seed-example-dark.png)
+[![Alt text](/img/2e/setting-seed-example.png "Click to embiggen"){:height="40%" width="40%"}](/img/2e/setting-seed-example.png)
 
 ## Materials Required
 - At least one sheet of paper. Letter/A4 is OK, but the larger the better.
