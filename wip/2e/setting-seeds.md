@@ -240,7 +240,7 @@ Roll 2d20 and combine the results.
   - Some paths may be parts of a chain and tied to a particular terrain (mountain passes, rivers, etc.).
 - Decide whether each path represents a road, a trail, or a wilderness route and add them to the map. 
   - Roll on the [Path Types](#path-types) tables and note the results. 
-  - Each path should have a visible Landmark somewhere along the way.
+  - Each path should have a visible Landmark somewhere along the way, represented by a triangle somewhere along the path. Landmarks do not need to be numbered.
 - Determine the path distances and note the time on the page:
   - POIs a short distance apart take one Watch to traverse, a medium distance apart take two Watches, and a long distance apart take three Watches. 
   - For Trails add 1 more Watch, and for Wilderness routes add 2 additional Watches.
@@ -252,7 +252,7 @@ Roll 2d20 and combine the results.
 
 |         |                   |                    |
 | ------- | ----------------- | ------------------ |
-| **d20** | **Traveled By**   | **Landmark**       |
+| **d20** | **Created By**    | **Landmark**       |
 | **1**   | Merchants         | Enormous Footprint |
 | **2**   | Thieves           | Dead Aqueduct      |
 | **3**   | Pilgrims          | Petrified Forest   |
