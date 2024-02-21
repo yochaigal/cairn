@@ -26,6 +26,7 @@ The following procedure is designed to help create the _seed_ of a setting: the 
 - Draw circles around the POIs (including the Heart) in clumps of 2-4 each, large enough to share borders. These represent the map's regions.
 - Roll on the [Regions](#regions) table for each clump, and write the results on on the page.
 - Roll on the relevant tables for each POI (including the Heart) and note the results.
+- Number each POI, starting with the Heart.
 
 > - The **Heart** is always a **Settlement** of some kind. It isn't necessarily the largest or most important place in the setting, but it should be significant to the region's history
 > - Regions are swaths of land defined by either a particular terrain (e.g. tundra, hills, etc.), arbitrary political boundaries (a kingdom, a barony, etc.), or both.
