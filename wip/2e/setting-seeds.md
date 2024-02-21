@@ -279,7 +279,6 @@ The most important aspect of a setting are its _people_. But they are shaped by 
   - How do the people that live there perceive themselves, and how others perceive them?
   - What effects does the region's terrain have on the people that live there? 
   - What resources are in abundance, and what are scarce? 
-  - How do these factors relate to the other aspects of the region, and how does it shape the people that live there?
   - What would draw someone there, and why would they stay? 
 
 ### Culture
@@ -342,8 +341,9 @@ Roll 2d20 and combine the results.
 
 Once you've gathered the results of these tables, combine them in order to create a cohesive theme for this region. For example, if I rolled a region covered in plains and surrounded by rivers, I might assume that the locals here were tradespeople, selling their wares to the neighbors downriver. If I rolled that the people there were religious and sought conversion, I'd assume they were a proud folk, but prone to religious extremes and proselytizing. And if their primary resources were land, I'd assume they grew their own food, but that their traders were always on the search for spices from distant lands.
 
-Next, you can follow the [Factions](/wip/2e/factions.md) rules for generating Factions to populate your map, and the [Dungeons] or [Forestcrawl](/wip/2e/forestcrawl.md) rules to build each of your POIs.
 
+> - Everything beyond this point is just for reference; we'll have a separate naming chapter I think. Still, might be helpful.
+> - You can follow the [Factions](/wip/2e/factions.md) rules for generating Factions to populate your map, and the [Dungeons] or [Forestcrawl](/wip/2e/forestcrawl.md) rules to build each of your POIs. 
 
 ## On Names 
 
