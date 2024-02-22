@@ -13,6 +13,8 @@ search_exclude: true
 
 The following procedure is designed to help create the _seed_ of a setting: the geography, people, and paths that an adventuring party may have to navigate as they travel throughout a region. We'll start by drawing a map of the region, noting its unique topography, natural features, towns, lairs, dungeons, roads, and so on. Then we'll develop the people of the region, their ambitions and resources, and the factions that rule them.
 
+## Example
+
 [![Alt text](/img/2e/setting-seed-example.png "Click to embiggen"){:height="40%" width="40%"}](/img/2e/setting-seed-example.png)
 
 ## Materials Required
@@ -25,7 +27,7 @@ The following procedure is designed to help create the _seed_ of a setting: the 
 - Draw the letter **H** anywhere on a sheet of paper, or roll a d6 and mark where it lands. This is the region's **Heart**, or primary settlement. 
   - Roll 6d6 on the page, ignoring any dice that roll off the page. These are the maps's **Points of Interest** (POI).
   - Note the face up results according to the [Die Drop Table](#die-drop-table), writing its corresponding letter on the page beneath (e.g. W = Waypoint, D = Dungeon, etc.).
-- Draw circles around the POIs (including the Heart) in clumps of 2-4 each, large enough to share borders. These represent the map's regions.
+- Draw adjacent circles around the POIs (including the Heart) in clumps of 2-4 each, large enough to share a border with one another. These represent the map's regions.
 - Roll on the [Regions](#regions) table for each clump, and write the results on on the page.
 - Roll on the relevant tables for each POI (including the Heart) and note the results.
 - Number each POI, starting with the Heart.
@@ -239,7 +241,7 @@ Roll 2d20 and combine the results.
   - Create loops, branching paths, dead-ends, and shortcuts between POIs.
   - Some paths may be parts of a chain and tied to a particular terrain (mountain passes, rivers, etc.).
 - Decide whether each path represents a road, a trail, or a wilderness route and add them to the map. 
-  - Roll on the [Path Types](#path-types) tables and note the results. 
+  - Roll on the [Path Types](#path-types) tables for every road or trail, and note the results. 
   - Each path should have a visible Landmark somewhere along the way, represented by a triangle somewhere along the path. Landmarks do not need to be numbered.
 - Determine the path distances and note the time on the page:
   - POIs a short distance apart take one Watch to traverse, a medium distance apart take two Watches, and a long distance apart take three Watches. 
@@ -250,29 +252,29 @@ Roll 2d20 and combine the results.
 
 Roll 2d20 and combine the results.
 
-|         |                   |                    |
-| ------- | ----------------- | ------------------ |
-| **d20** | **Created By**    | **Landmark**       |
-| **1**   | Merchants         | Enormous Footprint |
-| **2**   | Thieves           | Dead Aqueduct      |
-| **3**   | Pilgrims          | Petrified Forest   |
-| **4**   | Loggers           | Giant's Throne     |
-| **5**   | Armies            | Great Face         |
-| **6**   | Smugglers         | Fire Temple        |
-| **7**   | Star Gazers       | Mirage Lake        |
-| **8**   | Farmers           | Fallen Column      |
-| **9**   | Cattle Drivers    | Broken Sundial     |
-| **10**  | Miners            | Massive Hole       |
-| **11**  | Nomads            | Heart Tree         |
-| **12**  | Migratory Animals | Ancient Maze       |
-| **13**  | Patrols           | Amber Den          |
-| **14**  | Ancient Peoples   | Glittering Cascade |
-| **15**  | Cattle Drivers    | Cloud Stairway     |
-| **16**  | Day Laborers      | Silver Face        |
-| **17**  | Settlers          | Great Waterwheel   |
-| **18**  | Zealots           | Gate for Titans    |
-| **19**  | Prospectors       | Golden Bridge      |
-| **20**  | Rebels            | Crystal Spire      |
+|         |                       |                    |
+| ------- | --------------------- | ------------------ |
+| **d20** | **Feature**           | **Landmark**       |
+| **1**   | Blood-red             | Enormous Footprint |
+| **2**   | Smells of Smoke       | Dead Aqueduct      |
+| **3**   | Twisted               | Petrified Forest   |
+| **4**   | Massive Grooves       | Giant's Throne     |
+| **5**   | Dead Vegetation       | Great Face         |
+| **6**   | Mile Markers          | Fire Temple        |
+| **7**   | Follows the Stars     | Mirage Lake        |
+| **8**   | Abandoned Fields      | Fallen Column      |
+| **9**   | Cattle Prints         | Broken Sundial     |
+| **10**  | Mineral Flecks        | Massive Hole       |
+| **11**  | Shriveled             | Heart Tree         |
+| **12**  | Overgrown             | Ancient Maze       |
+| **13**  | Ubiquitous Footprints | Amber Den          |
+| **14**  | Buried Charms         | Glittering Cascade |
+| **15**  | Rusted Tools          | Cloud Stairway     |
+| **16**  | Diseased Animals      | Silver Face        |
+| **17**  | Newly Made            | Great Waterwheel   |
+| **18**  | Frequent Pilgrims     | Gate for Titans    |
+| **19**  | Disappearing          | Golden Bridge      |
+| **20**  | Constant Patrols      | Crystal Spire      |
 
 ## People
 

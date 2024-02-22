@@ -1,4 +1,6 @@
 
+## Regions
+
 1. Regions
   - Have edges, are experienced as the player moves through them.
   - Help differentiate areas from each other
@@ -599,11 +601,7 @@ Outpost
 | **19**  | Villa          |
 | **20**  | Village        |
 
-
-
-
 ToDo: add Landmark, Hidden Secret as a property
-
 
 ### Unused table results
 
@@ -686,6 +684,36 @@ Roll 2d8 and combine the results.
 
 - Mark the distance between each POI by rolling 1d6 for close POIs, 2d6 for moderate distances, and 3d6 for POIs far apart. The result is how many days of travel between each point.
 
+
+### Path Types
+
+Roll 2d20 and combine the results.
+
+|         |                   |                    |
+| ------- | ----------------- | ------------------ |
+| **d20** | **Created By**    | **Landmark**       |
+| **1**   | Merchants         | Enormous Footprint |
+| **2**   | Thieves           | Dead Aqueduct      |
+| **3**   | Pilgrims          | Petrified Forest   |
+| **4**   | Loggers           | Giant's Throne     |
+| **5**   | Armies            | Great Face         |
+| **6**   | Smugglers         | Fire Temple        |
+| **7**   | Star Gazers       | Mirage Lake        |
+| **8**   | Farmers           | Fallen Column      |
+| **9**   | Cattle Drivers    | Broken Sundial     |
+| **10**  | Miners            | Massive Hole       |
+| **11**  | Nomads            | Heart Tree         |
+| **12**  | Migratory Animals | Ancient Maze       |
+| **13**  | Patrols           | Amber Den          |
+| **14**  | Ancient Peoples   | Glittering Cascade |
+| **15**  | Cattle Drivers    | Cloud Stairway     |
+| **16**  | Day Laborers      | Silver Face        |
+| **17**  | Settlers          | Great Waterwheel   |
+| **18**  | Zealots           | Gate for Titans    |
+| **19**  | Prospectors       | Golden Bridge      |
+| **20**  | Rebels            | Crystal Spire      |
+
+
 ### Landmarks
 
 - You need to be able to identify a landmark from any point in the map.
@@ -713,3 +741,7 @@ Roll on the [Landmarks](#landmarks-table) table wherever:
 - If a POI does not exist in either case, create one in the normal fashion.
 
 Add the table results to the map around the POI.
+
+
+### Conditional Paths
+
