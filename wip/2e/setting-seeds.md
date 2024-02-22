@@ -228,6 +228,8 @@ Roll 2d20 and combine the results.
 
 **Paths** act as geographic connectors on the map, ranging from well-traveled roads to rough wilderness routes. Paths should provide compelling choices between POIs, who must weigh factors such as safety, speed, and travel difficulty. 
 
+### Path Types
+
 - **Standard** paths are obvious or well-trod routes between two POIs, represented by a thick line.
 - **Hidden** paths do not appear on any known maps. Their discovery always requires some kind of cost. Represented by a dashed line.
 - **Conditional** paths may be blocked, or requires specialized tools (boats, climbing gear, etc.) to cross. Others may even be impossible to navigate without a map or guide. Represented by a crossed line.
@@ -248,7 +250,7 @@ Roll 2d20 and combine the results.
   - For Trails add 1 more Watch, and for Wilderness routes add 2 additional Watches.
   - A Watch is 8 hours long. Denote days between POIs wherever possible (typically two Watches and one rest per day).
 
-### Path Types
+### Path Features & Landmarks
 
 Roll 2d20 and combine the results.
 
@@ -346,7 +348,6 @@ Roll 2d20 and combine the results.
 
 Once you've gathered the results of these tables, combine them in order to create a cohesive theme for this region. For example, if I rolled a region covered in plains and surrounded by rivers, I might assume that the locals here were tradespeople, selling their wares to the neighbors downriver. If I rolled that the people there were religious and sought conversion, I'd assume they were a proud folk, but prone to religious extremes and proselytizing. And if their primary resources were land, I'd assume they grew their own food, but that their traders were always on the search for spices from distant lands.
 
-
 > - Everything beyond this point is just for reference; we'll have a separate naming chapter I think. Still, might be helpful.
 > - You can follow the [Factions](/wip/2e/factions.md) rules for generating Factions to populate your map, and the [Dungeons] or [Forestcrawl](/wip/2e/forestcrawl.md) rules to build each of your POIs. 
 
@@ -357,6 +358,7 @@ Once you've gathered the results of these tables, combine them in order to creat
 - Wild and dangerous places are named after their obvious hazards: poison lake, greedy mines, etc. Some tell a story: _Luka's Folly, Dead Man's Path_, etc. 
 
 ### Generating Names
+
 - Starting with the **Heart**, roll on the [Names Formula](#names-formula) table to name each POI on the map.
 - Use both the region's dominant terrain as well as the specific POI details where appropriate. 
 - Roll on the [Adjectives](#adjectives) and [Nouns](#nouns) table, and consult the [Terrain Synonyms](#terrain-synonyms) table for inspiration. 
