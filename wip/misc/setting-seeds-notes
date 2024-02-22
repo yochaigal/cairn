@@ -745,3 +745,27 @@ Add the table results to the map around the POI.
 
 ### Conditional Paths
 
+
+|         |                 |             |
+| ------- | --------------- | ----------- |
+| **d20** | **Condition**   | **Benefit** |
+| **1**   | Giant Boulder   |             |
+| **2**   | Soggy Plain     |             |
+| **3**   | Ice Sheets      |             |
+| **4**   | Steep Cliff     |             |
+| **5**   | No Food         |             |
+| **6**   | Ceaseless Mist  |             |
+| **7**   | Stampedes       |             |
+| **8**   | Erratic Weather |             |
+| **9**   | Night Predators |             |
+| **10**  | Heavy Toll      |             |
+| **11**  | Toxic River     |             |
+| **12**  |                 |             |
+| **13**  |                 |             |
+| **14**  |                 |             |
+| **15**  |                 |             |
+| **16**  |                 |             |
+| **17**  |                 |             |
+| **18**  |                 |             |
+| **19**  |                 |             |
+| **20**  |                 |             |
