@@ -24,7 +24,7 @@ The following procedure is designed to help create the _seed_ of a setting: the 
 
 - Draw the letter **H** anywhere on a sheet of paper, or roll a d6 and mark where it lands. This is the region's **Heart**, or primary settlement. 
   - Roll 6d6 on the page, ignoring any dice that roll off the page. These are the maps's **Points of Interest** (POI).
-  - Note the face up results according to the [Die Drop Table](#die-drop-table), writing its corresponding letter on the page beneath (e.g. R = Waypoint, D = Dungeon, etc.).
+  - Note the face up results according to the [Die Drop Table](#die-drop-table), writing its corresponding letter on the page beneath (e.g. W = Waypoint, D = Dungeon, etc.).
 - Draw circles around the POIs (including the Heart) in clumps of 2-4 each, large enough to share borders. These represent the map's regions.
 - Roll on the [Regions](#regions) table for each clump, and write the results on on the page.
 - Roll on the relevant tables for each POI (including the Heart) and note the results.
