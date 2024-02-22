@@ -242,9 +242,10 @@ Roll 2d20 and combine the results.
   - Add at least two Conditional Paths, represented by a crossed line.
   - Create loops, branching paths, dead-ends, and shortcuts between POIs.
   - Some paths may be parts of a chain and tied to a particular terrain (mountain passes, rivers, etc.).
-- Decide whether each path represents a road, a trail, or a wilderness route and add them to the map. 
-  - Roll on the [Path Types](#path-types) tables for every road or trail, and note the results. 
-  - Each path should have a visible Landmark somewhere along the way, represented by a triangle somewhere along the path. Landmarks do not need to be numbered.
+- Decide whether each path represents a road, a trail, or a wilderness route and note that on the map. 
+- Select 2-4 paths per region and roll on the [Path Types](#path-types) table, then note the results. 
+  - These paths should have a visible Landmark somewhere along the way, represented by a triangle on the path. 
+  - Landmarks do not need to be numbered.
 - Determine the path distances and note the time on the page:
   - POIs a short distance apart take one Watch to traverse, a medium distance apart take two Watches, and a long distance apart take three Watches. 
   - For Trails add 1 more Watch, and for Wilderness routes add 2 additional Watches.
