@@ -224,7 +224,7 @@ Roll 2d20 and combine the results.
 | **19**  | Palace         | Toxic        |
 | **20**  | Tomb           | Warped       |
 
-## Paths & Landmarks
+## Paths
 
 **Paths** act as geographic connectors on the map, ranging from well-traveled roads to rough wilderness routes. Paths should provide compelling choices between POIs, who must weigh factors such as safety, speed, and travel difficulty. 
 
@@ -233,9 +233,8 @@ Roll 2d20 and combine the results.
 - **Standard** paths are obvious or well-trod routes between two POIs, represented by a thick line.
 - **Hidden** paths do not appear on any known maps. Their discovery always requires some kind of cost. Represented by a dashed line.
 - **Conditional** paths may be blocked, or requires specialized tools (boats, climbing gear, etc.) to cross. Others may even be impossible to navigate without a map or guide. Represented by a crossed line.
-- **Landmarks** are unique, visible POIs that can also be used as geographic reference points: towers, mountains, tall buildings, and so on. They help orient travelers around the map, and can help to identify terrain, regions, settlements, and curiosities from afar. Landmarks are _especially_ visible from areas with higher elevation or a clear viewpoint. Each path should have at least one visible landmark, represented by a triangle drawn somewhere along the path.
 
-### Draw Paths & Add Landmarks
+### Draw Paths
 
 - On your map, create 1-4 paths between each location.
   - Add at least two Hidden Paths, represented by a dashed line.
@@ -243,41 +242,78 @@ Roll 2d20 and combine the results.
   - Create loops, branching paths, dead-ends, and shortcuts between POIs.
   - Some paths may be parts of a chain and tied to a particular terrain (mountain passes, rivers, etc.).
 - Decide whether each path represents a road, a trail, or a wilderness route and note that on the map. 
-- Select 2-4 paths per region and roll on the [Path Types](#path-types) table, then note the results. 
-  - These paths should have a visible Landmark somewhere along the way, represented by a triangle on the path. 
-  - Landmarks do not need to be numbered.
+- Select 2-4 paths per region and roll on the [Path Features](#path-features) table, then note the results. 
 - Determine the path distances and note the time on the page:
   - POIs a short distance apart take one Watch to traverse, a medium distance apart take two Watches, and a long distance apart take three Watches. 
   - For Trails add 1 more Watch, and for Wilderness routes add 2 additional Watches.
   - A Watch is 8 hours long. Denote days between POIs wherever possible (typically two Watches and one rest per day).
 
-### Path Features & Landmarks
+### Path Features
 
 Roll 2d20 and combine the results.
 
-|         |                       |                    |
-| ------- | --------------------- | ------------------ |
-| **d20** | **Feature**           | **Landmark**       |
-| **1**   | Blood-red             | Enormous Footprint |
-| **2**   | Smells of Smoke       | Dead Aqueduct      |
-| **3**   | Twisted               | Petrified Forest   |
-| **4**   | Massive Grooves       | Giant's Throne     |
-| **5**   | Dead Vegetation       | Great Face         |
-| **6**   | Mile Markers          | Fire Temple        |
-| **7**   | Follows the Stars     | Mirage Lake        |
-| **8**   | Abandoned Fields      | Fallen Column      |
-| **9**   | Cattle Prints         | Broken Sundial     |
-| **10**  | Mineral Flecks        | Massive Hole       |
-| **11**  | Shriveled             | Heart Tree         |
-| **12**  | Overgrown             | Ancient Maze       |
-| **13**  | Ubiquitous Footprints | Amber Den          |
-| **14**  | Buried Charms         | Glittering Cascade |
-| **15**  | Rusted Tools          | Cloud Stairway     |
-| **16**  | Diseased Animals      | Silver Face        |
-| **17**  | Newly Made            | Great Waterwheel   |
-| **18**  | Frequent Pilgrims     | Gate for Titans    |
-| **19**  | Disappearing          | Golden Bridge      |
-| **20**  | Constant Patrols      | Crystal Spire      |
+|         |                       |                              |
+| ------- | --------------------- | ---------------------------- |
+| **d20** | **Feature**           | **Condition**                |
+| **1**   | Blood-red             | Blocked by Giant Boulder     |
+| **2**   | Smells of Smoke       | Uneven, Soggy Ground         |
+| **3**   | Twisted               | Steep Climb                  |
+| **4**   | Massive Grooves       | Poisonous Fruit              |
+| **5**   | Buried Charms         | Thick Evening Mist           |
+| **6**   | Mile Markers          | Occasional Stampedes         |
+| **7**   | Follows the Stars     | Erratic Weather              |
+| **8**   | Abandoned Fields      | Night Predators              |
+| **9**   | Cattle Prints         | Heavy Toll Required          |
+| **10**  | Mineral Flecks        | Labyrinthine Canyons         |
+| **11**  | Shriveled Away        | Thick, Smokey Air            |
+| **12**  | Overgrown             | Frequent Flash Floods        |
+| **13**  | Ubiquitous Footprints | Collapsed Bridge             |
+| **14**  | Dead Vegetation       | Bandit Ambushes              |
+| **15**  | Rusted Tools          | Dense Bramble                |
+| **16**  | Diseased Animals      | Passed Over Rapids           |
+| **17**  | Newly Made            | Gets Extremely Cold          |
+| **18**  | Frequent Pilgrims     | Divided by Political Dispute |
+| **19**  | Disappearing          | Overcrowded                  |
+| **20**  | Constant Patrols      | Confusing to Navigate        |
+
+
+## Landmarks
+
+**Landmarks** are unique, visible POIs that can also be used as geographic reference points: towers, mountains, tall buildings, and so on. They help orient travelers around the map, and can help to identify terrain, regions, settlements, and curiosities from afar. Landmarks are _especially_ visible from areas with higher elevation or a clear viewpoint. Each path should have at least one visible landmark, represented by a triangle drawn somewhere along the path.
+
+### Create Landmarks
+
+- Roll 2-4 times on the [Landmark Features](#landmark-features) table for every region. 
+  - Note the results on the map by drawing a triangle, typically along a path. 
+  - Landmarks do not need to be numbered.
+
+### Landmark Features
+
+Roll 2d20 and combine the results.
+
+|         |                    |             |
+| ------- | ------------------ | ----------- |
+| **d20** | **Landmark**       | **Feature** |
+| **1**   | Enormous Footprint |             |
+| **2**   | Dead Aqueduct      |             |
+| **3**   | Petrified Forest   |             |
+| **4**   | Giant's Throne     |             |
+| **5**   | Great Face         |             |
+| **6**   | Fire Temple        |             |
+| **7**   | Mirage Lake        |             |
+| **8**   | Fallen Column      |             |
+| **9**   | Broken Sundial     |             |
+| **10**  | Massive Hole       |             |
+| **11**  | Heart Tree         |             |
+| **12**  | Ancient Maze       |             |
+| **13**  | Amber Den          |             |
+| **14**  | Glittering Cascade |             |
+| **15**  | Cloud Stairway     |             |
+| **16**  | Silver Face        |             |
+| **17**  | Great Waterwheel   |             |
+| **18**  | Gate for Titans    |             |
+| **19**  | Golden Bridge      |             |
+| **20**  | Crystal Spire      |             |
 
 ## People
 
