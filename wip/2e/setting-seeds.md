@@ -276,7 +276,6 @@ Roll 2d20 and combine the results.
 | **19**  | Disappearing          | Overcrowded                  |
 | **20**  | Constant Patrols      | Confusing to Navigate        |
 
-
 ## Landmarks
 
 **Landmarks** are unique, visible POIs that can also be used as geographic reference points: towers, mountains, tall buildings, and so on. They help orient travelers around the map, and can help to identify terrain, regions, settlements, and curiosities from afar. Landmarks are _especially_ visible from areas with higher elevation or a clear viewpoint. Each path should have at least one visible landmark, represented by a triangle drawn somewhere along the path.
@@ -291,29 +290,30 @@ Roll 2d20 and combine the results.
 
 Roll 2d20 and combine the results.
 
-|         |                    |             |
-| ------- | ------------------ | ----------- |
-| **d20** | **Landmark**       | **Feature** |
-| **1**   | Enormous Footprint |             |
-| **2**   | Dead Aqueduct      |             |
-| **3**   | Petrified Forest   |             |
-| **4**   | Giant's Throne     |             |
-| **5**   | Great Face         |             |
-| **6**   | Fire Temple        |             |
-| **7**   | Mirage Lake        |             |
-| **8**   | Fallen Column      |             |
-| **9**   | Broken Sundial     |             |
-| **10**  | Massive Hole       |             |
-| **11**  | Heart Tree         |             |
-| **12**  | Ancient Maze       |             |
-| **13**  | Amber Den          |             |
-| **14**  | Glittering Cascade |             |
-| **15**  | Cloud Stairway     |             |
-| **16**  | Silver Face        |             |
-| **17**  | Great Waterwheel   |             |
-| **18**  | Gate for Titans    |             |
-| **19**  | Golden Bridge      |             |
-| **20**  | Crystal Spire      |             |
+|         |                    |                              |
+| ------- | ------------------ | ---------------------------- |
+| **d20** | **Landmark**       | **Feature**                  |
+| **1**   | Enormous Footprint | Blocked by Giant Boulder     |
+| **2**   | Dead Aqueduct      | Uneven, Soggy Ground         |
+| **3**   | Petrified Forest   | Steep Climb                  |
+| **4**   | Giant's Throne     | Poisonous Fruit              |
+| **5**   | Great Face         | Thick Evening Mist           |
+| **6**   | Fire Temple        | Occasional Stampedes         |
+| **7**   | Mirage Lake        | Erratic Weather              |
+| **8**   | Fallen Column      | Firebug Hive                 |
+| **9**   | Broken Sundial     | Heavy Toll Required          |
+| **10**  | Massive Hole       | Labyrinthine Canyons         |
+| **11**  | Heart Tree         | Thick, Smokey Air            |
+| **12**  | Ancient Maze       | Frequent Flash Floods        |
+| **13**  | Amber Den          | Collapsed Bridge             |
+| **14**  | Glittering Cascade | Bandit Ambushes              |
+| **15**  | Cloud Stairway     | Dense Bramble                |
+| **16**  | Silver Face        | Passed Over Rapids           |
+| **17**  | Great Waterwheel   | Gets Extremely Cold          |
+| **18**  | Gate for Titans    | Divided by Political Dispute |
+| **19**  | Golden Bridge      | Overcrowded                  |
+| **20**  | Crystal Spire      | Confusing to Navigate        |
+
 
 ## People
 
