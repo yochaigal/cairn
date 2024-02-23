@@ -236,13 +236,12 @@ Roll 2d20 and combine the results.
 
 ### Draw Paths
 
-- On your map, create 1-4 paths between each location.
-  - Add at least two Hidden Paths, represented by a dashed line.
-  - Add at least two Conditional Paths, represented by a crossed line.
-  - Create loops, branching paths, dead-ends, and shortcuts between POIs.
-  - Some paths may be parts of a chain and tied to a particular terrain (mountain passes, rivers, etc.).
+- On your map, create 1-4 paths between each location.Create loops, branching paths, dead-ends, and shortcuts between POIs.
 - Decide whether each path represents a road, a trail, or a wilderness route and note that on the map. 
 - Select 2-4 paths per region and roll on the [Path Features](#path-features) table, then note the results. 
+  - Some paths may be parts of a chain and tied to a particular terrain (mountain passes, rivers, etc.).
+  - Some paths are Conditional, represented by a crossed line.
+  - Some paths are Hidden, represented by a dashed line.
 - Determine the path distances and note the time on the page:
   - POIs a short distance apart take one Watch to traverse, a medium distance apart take two Watches, and a long distance apart take three Watches. 
   - For Trails add 1 more Watch, and for Wilderness routes add 2 additional Watches.
