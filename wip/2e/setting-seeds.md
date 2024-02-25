@@ -15,7 +15,9 @@ The following procedure is designed to help create the _seed_ of a setting: the 
 
 ## Example
 
-[![Alt text](/img/2e/setting-seed-example.png "Click to embiggen"){:height="40%" width="40%"}](/img/2e/setting-seed-example.png)
+Before you begin please check out this example (click on it):
+
+[![Alt text](/img/2e/setting-seed-example.webp "Click to embiggen"){:height="40%" width="40%"}](/img/2e/setting-seed-example.webp)
 
 ## Materials Required
 - At least one sheet of paper. Letter/A4 is OK, but the larger the better.
