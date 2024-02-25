@@ -281,38 +281,37 @@ Roll 2d20 and combine the results.
 
 ### Create Landmarks
 
-- Roll 2-4 times on the [Landmark Features](#landmark-features) table for every region. 
-  - Note the results on the map by drawing a triangle, typically along a path. 
+- Roll 2-6 times on the [Landmark Features](#landmark-features) table for every region. 
+  - Note the results on the map by drawing a triangle. Place them along a path, or between multiple paths.
   - Landmarks do not need to be numbered.
 
 ### Landmark Features
 
 Roll 2d20 and combine the results.
 
-|         |                    |                              |
-| ------- | ------------------ | ---------------------------- |
-| **d20** | **Landmark**       | **Feature**                  |
-| **1**   | Enormous Footprint |                              |
-| **2**   | Dead Aqueduct      |                              |
-| **3**   | Petrified Forest   |                              |
-| **4**   | Giant's Throne     |                              |
-| **5**   | Great Face         |                              |
-| **6**   | Fire Temple        |                              |
-| **7**   | Mirage Lake        |                              |
-| **8**   | Fallen Column      |                              |
-| **9**   | Broken Sundial     |                              |
-| **10**  | Massive Hole       |                              |
-| **11**  | Heart Tree         |                              |
-| **12**  | Ancient Maze       |                              |
-| **13**  | Amber Den          |                              |
-| **14**  | Glittering Cascade |                              |
-| **15**  | Cloud Stairway     |                              |
-| **16**  | Silver Face        |                              |
-| **17**  | Great Waterwheel   |                              |
-| **18**  | Gate for Titans    |                              |
-| **19**  | Golden Bridge      |                              |
-| **20**  | Crystal Spire      |                              |
-
+|         |                    |                               |
+| ------- | ------------------ | ----------------------------- |
+| **d20** | **Landmark**       | **Feature**                   |
+| **1**   | Enormous Footprint | Hollow                        |
+| **2**   | Dead Aqueduct      | Something Special Grows There |
+| **3**   | Petrified Forest   | Hides Something Powerful      |
+| **4**   | Giant's Throne     | Unchanging                    |
+| **5**   | Great Face         | Smaller than It Appears       |
+| **6**   | Fire Temple        | Popular With Cults            |
+| **7**   | Mirage Lake        | Unaffected by Weather         |
+| **8**   | Fallen Column      | Continually Humming           |
+| **9**   | Broken Sundial     | Part of a Series              |
+| **10**  | Massive Hole       | Visible from any Distance     |
+| **11**  | Heart Tree         | Collapsing                    |
+| **12**  | Ancient Maze       | Slowly Rotates                |
+| **13**  | Amber Den          | Untouched                     |
+| **14**  | Glittering Cascade | Toxic to its Surroundings     |
+| **15**  | Cloud Stairway     | Larger than it Appears        |
+| **16**  | Silver Face        | Wet, but not with Water       |
+| **17**  | Great Waterwheel   | Only Appears at Night         |
+| **18**  | Gate for Titans    | Has Always Been Here          |
+| **19**  | Golden Bridge      | Recently Appeared             |
+| **20**  | Crystal Spire      | Resplendent with Dead Things  |
 
 ## People
 
