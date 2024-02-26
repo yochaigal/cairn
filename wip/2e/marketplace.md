@@ -105,7 +105,7 @@ search_exclude: true
 | Lantern                                            | 10  |
 | Mirror                                             | 5   |
 | Net                                                | 10  |
-| Oil (6 uses)                                       | 10  |
+| Oil Can (6 uses)                                   | 10  |
 | Outdoor Comfort (Blanket, Hammock, etc.)           | 10  |
 | Parchment (3 uses)                                 | 10  |
 | Pole (10ft)                                        | 5   |
