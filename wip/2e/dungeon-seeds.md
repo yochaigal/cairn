@@ -14,11 +14,12 @@ search_exclude: true
 
 - Establish a theme
   - Find inspiration
-  - Use real examples
+  - Use examples from real life
 - Create the map
   - Do it however you can do it
-  - Be ready to change it
+  - Be ready to change it - a lot
 - Stock the rooms
+  - [we'll get there]
 - Good Keying
   - Put everything in maps (dimension, exits)
   - Numbering
@@ -28,6 +29,50 @@ search_exclude: true
   - Only say what's happening _now_
   - Don't assume
   - Don't tell the PCs how they feel
+
+
+## Establish a Theme
+
+### Initial Concept
+
+What comes to mind when you think of a dungeon? It might be at the center of an abandoned maze, a trapdoor in a ruined temple, or in a gaping crystal maw in a long-abandoned mine. Consider where the dungeon is located, and how does its entrance look? If you can't think of anything off-hand, you can always roll on the [Dungeon Types](#dungeon-types) table below.
+
+For this example, let's start with a simple dungeon concept: a former mine, sealed off to prevent further exploration. Perhaps the miners found something they could not contain, and blasted the entry shut? Maybe they even sacrificed some of their own, for "the greater good?"
+
+### Location History
+
+What was the location originally used for? Perhaps it used to be a mill, abandoned after the war took away all the able-bodied workers. Or maybe it was once a great fort, acting as a bulwark against the creatures of the night - till they won, of course.
+
+
+### Dungeon Types
+
+Roll 2d20 and combine the results.
+
+|         |                |              |
+| ------- | -------------- | ------------ |
+| **d20** | **Type**       | **Feature**  |
+| **1**   | Crypt          | Abandoned    |
+| **2**   | Prison         | Buried       |
+| **3**   | Cave           | Burnt        |
+| **4**   | Mine           | Clockwork    |
+| **5**   | Den            | Collapsed    |
+| **6**   | Stronghold     | Crumbling    |
+| **7**   | Temple         | Crystalline  |
+| **8**   | Laboratory     | Floating     |
+| **9**   | Workshop       | Flooded      |
+| **10**  | Great Hall     | Fungal       |
+| **11**  | Burial Ground  | Inverted     |
+| **12**  | Shrouded Grove | Isolated     |
+| **13**  | Ruined City    | Mirrored     |
+| **14**  | Estate         | Otherworldly |
+| **15**  | Tower          | Overgrown    |
+| **16**  | Manor          | Petrified    |
+| **17**  | Outpost        | Remote       |
+| **18**  | Fort           | Sealed       |
+| **19**  | Palace         | Toxic        |
+| **20**  | Tomb           | Warped       |
+
+
 
 
 ## Good Dungeon Design
