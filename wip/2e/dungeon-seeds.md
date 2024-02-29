@@ -113,7 +113,7 @@ Roll 2d20 and combine the results.
   
 ### Tactical Areas
   - Include zones that offer strategic advantages.
-  - Design chokepoints, elevated spots, and other tactical features.
+  - Design choke points, elevated spots, and other tactical features.
   - Provides a means for players to gather information discreetly.
 
 ### Treasure

@@ -84,7 +84,7 @@ search_exclude: true
 | **1**   | **Dog Eat Dog**           | Another **Faction** is vying for the same or similar **Agenda**.                |
 | **2**   | **Cloak & Dagger**        | The **Agenda** must be carried out in absolute secrecy.                         |
 | **3**   | **Guardian at the Gate**  | A powerful figure or foe must be eliminated to ensure a successful **Agenda**.  |
-| **4**   | **Consequnces are Dire**  | The **Agenda** contravenes an established code. Violation pays a heavy penalty. |
+| **4**   | **Consequences are Dire** | The **Agenda** contravenes an established code. Violation pays a heavy penalty. |
 | **5**   | **Special Set of Skills** | Accomplishing the **Agenda** requires specialists of an uncommon sort.          |
 | **6**   | **Tools for the Job**     | A particular object or Relic is required to complete the **Agenda**.            |
 | **7**   | **Perfect Timing**        | The **Agenda** must be carried out at a rare or exact moment.                   |

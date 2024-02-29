@@ -468,20 +468,20 @@ To help create your setting's theme, answer the following questions:
 - A **Faction Type** at odds with your existing Setting isn't necessarily a problem.
 - Some **Factions** are outsiders within a **Province**. 
 
-|         | **Faction Type** | **Example Factions** |
-| ------- | ---------------- | -------------------- |
-| **1**   | **Academic**     | _Royal Topographer's Society_. An upstart cartographer's guild, preparing to map the **Far Reaches**. Many have tried, but none have returned. |
-| **2**   | **Arcane**       | _The Syndak_. A league of wizards in search of an ancient power. They cannot allow it to fall into the wrong hands. |
-| **3**   | **Commoners**    | _Unite or Perish_. Together, they are strong. Together they can move mountains. But who do they really serve? |
-| **4**   | **Criminal**     | _Missing Fingers_. An uneasy alliance of ruffians, thieves, and killers. Their boss is the most terrifying of them all. |
-| **5**   | **Government**   | _The Bloc_. Politicians, bureaucrats, tax collectors: they are everywhere. Who are they helping, besides themselves? |
-| **6**   | **Industrial**   | _The Iron Pantheon_. Workers, united by a charismatic and troubled leader. Fighting for a better life. |
-| **7**   | **Mercantile**   | _Earnest Buyer's Club_. A cartel of beaming merchants, vendors, and trade experts. Followers of none, save for the almighty coin. |
-| **8**   | **Military**     | _Azure Guard_. Disgraced officers, relying on their only remaining assets: a soldier's loyalty. It might be enough. |
-| **9**   | **Noble**        | _Lichthammer_. A family built on deft politicking. Their house is in debt to a dangerous group, and they could lose everything. |
-| **10**  | **Religious**    | _His Noble Justice._ Stewards of sacred artifacts, guided by the divine to reclaim their most holy of objects. |
-| **11**  | **Revolutionary**| _Light Rising_. The body politic is diseased beyond redemption. Plenty are ready to die for the cause, but only one is fit to lead them. |
-| **12**  | **Syndicate**    | _Praxis._ A secret society, its machinations shrouded in mystery. But its goal is all too clear: a new world order. |
+|        | **Faction Type**  | **Example Factions**                                                                                                                           |
+| ------ | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1**  | **Academic**      | _Royal Topographer's Society_. An upstart cartographer's guild, preparing to map the **Far Reaches**. Many have tried, but none have returned. |
+| **2**  | **Arcane**        | _The Syndak_. A league of wizards in search of an ancient power. They cannot allow it to fall into the wrong hands.                            |
+| **3**  | **Commoners**     | _Unite or Perish_. Together, they are strong. Together they can move mountains. But who do they really serve?                                  |
+| **4**  | **Criminal**      | _Missing Fingers_. An uneasy alliance of ruffians, thieves, and killers. Their boss is the most terrifying of them all.                        |
+| **5**  | **Government**    | _The Bloc_. Politicians, bureaucrats, tax collectors: they are everywhere. Who are they helping, besides themselves?                           |
+| **6**  | **Industrial**    | _The Iron Pantheon_. Workers, united by a charismatic and troubled leader. Fighting for a better life.                                         |
+| **7**  | **Mercantile**    | _Earnest Buyer's Club_. A cartel of beaming merchants, vendors, and trade experts. Followers of none, save for the almighty coin.              |
+| **8**  | **Military**      | _Azure Guard_. Disgraced officers, relying on their only remaining assets: a soldier's loyalty. It might be enough.                            |
+| **9**  | **Noble**         | _Lichthammer_. A family built on deft politicking. Their house is in debt to a dangerous group, and they could lose everything.                |
+| **10** | **Religious**     | _His Noble Justice._ Stewards of sacred artifacts, guided by the divine to reclaim their most holy of objects.                                 |
+| **11** | **Revolutionary** | _Light Rising_. The body politic is diseased beyond redemption. Plenty are ready to die for the cause, but only one is fit to lead them.       |
+| **12** | **Syndicate**     | _Praxis._ A secret society, its machinations shrouded in mystery. But its goal is all too clear: a new world order.                            |
 
 ### Faction Names
 1. Roll on the [Faction Names Formula](#faction-names-formula) table below.
