@@ -54,36 +54,36 @@ Roll 2d20 and combine the results.
 | **16**  | Grasslands  | Hollows     |
 | **17**  | Rivers      | Reefs       |
 | **18**  | Wasteland   | Ice Fields  |
-| **19**  | Sea         |             |
-| **20**  | Swamps      |             |
+| **19**  | Sea         | Mud         |
+| **20**  | Swamps      | Pastures    |
 
 #### Regional Features
 
 Roll 2d20 and combine the results.
 
-|         |                   |     |
-| ------- | ----------------- | --- |
-| **d20** | **Feature**       |     |
-| **1**   | Acid Rain         |     |
-| **2**   | Natural Bridges   |     |
-| **3**   | Venomous Insects  |     |
-| **4**   | Tidal Flats       |     |
-| **5**   | Geysers           |     |
-| **6**   |                   |     |
-| **7**   | Glacial Melt      |     |
-| **8**   | Toxic Water       |     |
-| **9**   | Crystal Growths   |     |
-| **10**  | Earthquakes       |     |
-| **11**  | Dust Storms       |     |
-| **12**  | Lava Fields       |     |
-| **13**  | Drought           |     |
-| **14**  | Ice Caves         |     |
-| **15**  | Dense Fog         |     |
-| **16**  | Sinkholes         |     |
-| **17**  | Weak Ground       |     |
-| **18**  |                   |     |
-| **19**  | Poisonous Foliage |     |
-| **20**  | Wildfires         |     |
+|         |                     |     |
+| ------- | ------------------- | --- |
+| **d20** | **Feature**         |     |
+| **1**   | Acid Rain           |     |
+| **2**   | Natural Bridges     |     |
+| **3**   | Venomous Insects    |     |
+| **4**   | Tidal Flats         |     |
+| **5**   | Thermal Vents       |     |
+| **6**   | Poisonous Foliage   |     |
+| **7**   | Glacial Melt        |     |
+| **8**   | Toxic Water         |     |
+| **9**   | Crystal Growths     |     |
+| **10**  | Earthquakes         |     |
+| **11**  | Dust Storms         |     |
+| **12**  | Lava Fields         |     |
+| **13**  | Drought             |     |
+| **14**  | Ice Caves           |     |
+| **15**  | Dense Fog           |     |
+| **16**  | Sinkholes           |     |
+| **17**  | Weak Ground         |     |
+| **18**  | Wildfires           |     |
+| **19**  | Flash Floods        |     |
+| **20**  | Bioluminescent Bays |     |
 
 ### People
 
