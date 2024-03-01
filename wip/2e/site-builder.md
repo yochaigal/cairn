@@ -36,27 +36,26 @@ Roll 2d20 and combine the results.
 |         |             |             |
 | ------- | ----------- | ----------- |
 | **d20** | **Terrain** | **Terrain** |
-| **1**   | Mountains   | Swamps      |
-| **2**   | Caverns     | Valley      |
-| **3**   | Oasis       | Lava Fields |
-| **4**   | Volcanoes   | Scrubland   |
-| **5**   | Plains      | Savannas    |
-| **6**   | Canyons     | Fjords      |
-| **7**   | Glaciers    | Bogs        |
-| **8**   | Plateaus    | Thickets    |
-| **9**   | Forests     | Beaches     |
-| **10**  | Waterfalls  | Dunes       |
-| **11**  | Lakes       | Craters     |
-| **12**  | Tundra      |             |
-| **13**  | Deserts     | Dolines     |
-| **14**  | Mangroves   | Jungles     |
-| **15**  | Cliffs      | Wetlands    |
-| **16**  | Salt Flats  | Hills       |
-| **17**  | Grasslands  | Hollows     |
-| **18**  | Reefs       | Farmlands   |
-| **19**  | Wasteland   | Rivers      |
-| **20**  | Sea         | Ice Fields  |
-
+| **1**   | Mountains   | Valleys     |
+| **2**   | Caverns     | Lava Fields |
+| **3**   | Oasis       | Scrubland   |
+| **4**   | Plains      | Savannas    |
+| **5**   | Canyons     | Fjords      |
+| **6**   | Glaciers    | Bogs        |
+| **7**   | Plateaus    | Thickets    |
+| **8**   | Forests     | Beaches     |
+| **9**   | Farmlands   | Dunes       |
+| **10**  | Lakes       | Craters     |
+| **11**  | Tundra      | Mangroves   |
+| **12**  | Deserts     | Dolines     |
+| **13**  | Hills       | Volcanoes   |
+| **14**  | Cliffs      | Wetlands    |
+| **15**  | Jungles     | Salt Flats  |
+| **16**  | Grasslands  | Hollows     |
+| **17**  | Rivers      | Reefs       |
+| **18**  | Wasteland   | Ice Fields  |
+| **19**  | Sea         |             |
+| **20**  | Swamps      |             |
 
 #### Regional Features
 
