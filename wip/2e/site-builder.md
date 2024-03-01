@@ -17,13 +17,13 @@ I'd like to build a procedure wherein the Warden can create a world bit by bit, 
 
 The unique combination of terrain, political boundaries, and people in a particular place is called a **Realm**. This term can also refer to the overall "theme" of your setting, as well as the sorts of adventures the player characters will get up to.
 
-### Define its Terrain
+### Geography
 
 Roll on the [Terrain](#terrain) table below to determine the dominant terrain, as well as one interesting feature common to the realm. This terrain will be the "default" terrain of your realm.
 
 > As with any other table, if you don't like the result, roll again or tweak as desired!
 
-## Terrain
+#### Terrain
 
 Roll 2d20 and combine the results.
 
@@ -51,7 +51,7 @@ Roll 2d20 and combine the results.
 | **19**  | Valley      | Mudflats          |
 | **20**  | Wasteland   | Earthquakes       |
 
-### Describe its People
+### People
 
 The most important aspect of a realm are its _people_: their character, ambitions, and the resources that tie them to this land. Roll on the [Culture](#culture) and [Resources](#resources) tables, then answer the following:
 - How do the people that live here perceive themselves, and how others perceive them?
@@ -118,10 +118,11 @@ Roll 2d20 and combine the results.
 
 ### Factions
 
-A Realm is dominated by one or more Factions, each with its own unique advantages, goals, and obstacles. Roll 1-4 times on [Faction Types](#faction-types) and [Faction Agendas](#faction-agendas) tables, then answer the following for each:
+A Realm is dominated by one or more Factions, each with its own unique advantages, goals, and obstacles. Roll 1-4 times on [Faction Types](#faction-types), [Faction Agendas](#faction-agendas) and [Seneschals](#seneschals) tables, then answer the following for each:
 - What power do they have over the people who live here?
 - Who or what threatens their Agenda?
 - How would the Faction interact with any newcomers (i.e. an adventuring party)?
+- What sorts of people act on behalf of these Factions?
 
 #### Faction Types
 
@@ -155,30 +156,29 @@ Roll 2d20 and combine the results.
 
 Roll 2d20 and combine the results.
 
-|         |                           |                                                              |
-| ------- | ------------------------- | ------------------------------------------------------------ |
-| **d20** | **Agenda**                | **Obstacle**                                                 |
-| **1**   | Ascend to a Higher Plane  | A large portion of the population openly opposes their plan. |
-| **2**   | Collect Artifacts         | A particular object or Relic is required.                    |
-| **3**   | Cultivate a Rare Resource | A powerful figure or foe must be eliminated.                 |
-| **4**   | Defend Something          | Another Faction has the same goal.                           |
-| **5**   | Destroy Something         | Another Faction stands in opposition.                        |
-| **6**   | Dominate Others           | Considerable capital is required.                            |
-| **7**   | Enrich Themselves         | Contravenes an established code, with a heavy penalty.       |
-| **8**   | Establish a Colony        | Many must die, either as a necessity or consequence.         |
-| **9**   | Establish a New Order     | Must be carried out at a rare or exact moment.               |
-| **10**  | Explore Uncharted Lands   | Must be carried out in absolute secrecy.                     |
-| **11**  | Forge an Alliance         | Requires a specialist of an uncommon sort.                   |
-| **12**  | Infiltrate Other Factions | A key piece of information must first be discovered.         |
-| **13**  | Preserve the Status Quo   | A rare but necessary resource must first be acquired.        |
-| **14**  | Protect a Secret          | A well-known prophecy predicts imminent failure.             |
-| **15**  | Purge the Land            | A serious debt forces the Faction to make dire choices.      |
-| **16**  | Reveal a Secret           | The outcome would lead to unavoidable war.                   |
-| **17**  | Revenge                   | An alliance with an enemy must first be brokered.            |
-| **18**  | Revive a Former Power     | Hindered by cultural taboos.                                 |
-| **19**  | Seek New Leadership       | An internal schism threatens to tear the Faction apart.      |
-| **20**  | Spread a Belief           | A geographic barrier or impassable terrain.                  |
-
+|         |                           |                                                         |
+| ------- | ------------------------- | ------------------------------------------------------- |
+| **d20** | **Agenda**                | **Obstacle**                                            |
+| **1**   | Ascend to a Higher Plane  | Commoners stand openly in opposition.                   |
+| **2**   | Collect Artifacts         | A particular object or Relic is required.               |
+| **3**   | Cultivate a Rare Resource | A powerful figure or foe must be eliminated.            |
+| **4**   | Defend Something          | Another Faction has the same goal.                      |
+| **5**   | Destroy Something         | An alliance with an enemy must first be brokered.       |
+| **6**   | Dominate Others           | Considerable capital is required.                       |
+| **7**   | Enrich Themselves         | Contravenes an established code, with a heavy penalty.  |
+| **8**   | Establish a Colony        | Many must die, either as a necessity or consequence.    |
+| **9**   | Establish a New Order     | Must be carried out at a rare or exact moment.          |
+| **10**  | Explore Uncharted Lands   | Must be carried out in absolute secrecy.                |
+| **11**  | Forge an Alliance         | Requires a specialist of an uncommon sort.              |
+| **12**  | Infiltrate Other Factions | A key piece of information must first be discovered.    |
+| **13**  | Preserve the Status Quo   | A rare but necessary resource must first be acquired.   |
+| **14**  | Protect a Secret          | A well-known prophecy predicts imminent failure.        |
+| **15**  | Purge the Land            | A serious debt forces the Faction to make dire choices. |
+| **16**  | Reveal a Secret           | The outcome would lead to unavoidable war.              |
+| **17**  | Revenge                   | Another Faction stands in opposition.                   |
+| **18**  | Revive a Former Power     | Hindered by cultural taboos.                            |
+| **19**  | Seek New Leadership       | An internal schism threatens to tear the Faction apart. |
+| **20**  | Spread a Belief           | A geographic barrier or impassable terrain.             |
 
 #### Seneschals
 
@@ -187,23 +187,26 @@ Roll 2d20 and combine the results.
 |         |                |             |
 | ------- | -------------- | ----------- |
 | **d20** | **Seneschals** | **Feature** |
-| **1**   | academics      |             |
-| **2**   | assassins      |             |
-| **3**   | bannermen      |             |
-| **4**   | criminals      |             |
-| **5**   | farmers        |             |
-| **6**   | generals       |             |
-| **7**   | laborers       |             |
-| **8**   | lords          |             |
-| **9**   | merchants      |             |
-| **10**  | monks          |             |
-| **11**  | mystics        |             |
-| **12**  | nobles         |             |
-| **13**  | officials      |             |
-| **14**  | outlanders     |             |
-| **15**  | peddlers       |             |
-| **16**  | philosophers   |             |
-| **17**  | politicians    |             |
-| **18**  | spies          |             |
-| **19**  | thieves        |             |
-| **20**  | thugs          |             |
+| **1**   | Academics      |             |
+| **2**   | Assassins      |             |
+| **3**   | Bannermen      |             |
+| **4**   | Criminals      |             |
+| **5**   | Farmers        |             |
+| **6**   | Generals       |             |
+| **7**   | Laborers       |             |
+| **8**   | Lords          |             |
+| **9**   | Merchants      |             |
+| **10**  | Monks          |             |
+| **11**  | Mystics        |             |
+| **12**  | Nobles         |             |
+| **13**  | Officials      |             |
+| **14**  | Outlanders     |             |
+| **15**  | Peddlers       |             |
+| **16**  | Philosophers   |             |
+| **17**  | Politicians    |             |
+| **18**  | Spies          |             |
+| **19**  | Thieves        |             |
+| **20**  | Thugs          |             |
+
+### Regions
+
