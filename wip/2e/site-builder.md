@@ -25,7 +25,7 @@ The unique combination of terrain, political boundaries, and people in a particu
 
 ### Topography
 
-Roll on the [Terrain](#terrain) table below to determine the dominant terrain, as well as one interesting feature common to the realm. This terrain will be the "default" terrain of your realm.
+Roll on the [Terrain](#terrain) table below to determine the region's terrain. These results are the "default" terrain in the region.
 
 > As with any other table, if you don't like the result, roll again or tweak as desired!
 
@@ -33,29 +33,58 @@ Roll on the [Terrain](#terrain) table below to determine the dominant terrain, a
 
 Roll 2d20 and combine the results.
 
-|         |             |                   |
-| ------- | ----------- | ----------------- |
-| **d20** | **Terrain** | **Feature**       |
-| **1**   | Canyons     | Natural Bridges   |
-| **2**   | Caverns     | Acid Rain         |
-| **3**   | Cliffs      | Sinkholes         |
-| **4**   | Deserts     | Crystal Growths   |
-| **5**   | Forests     | Salt Flats        |
-| **6**   | Hills       | Dense Fog         |
-| **7**   | Hollows     | Volcanoes         |
-| **8**   | Jungles     | Drought           |
-| **9**   | Lakes       | Wildfires         |
-| **10**  | Mountains   | Dust Storms       |
-| **11**  | Oasis       | Glacial Melt      |
-| **12**  | Plateaus    | Ice Caves         |
-| **13**  | Plains      | Geysers           |
-| **14**  | Rivers      | Lava Fields       |
-| **15**  | Sea         | Poisonous Foliage |
-| **16**  | Swamps      | Toxic Water       |
-| **17**  | Thickets    | Venomous Insects  |
-| **18**  | Tundra      | Weak Ground       |
-| **19**  | Valley      | Mudflats          |
-| **20**  | Wasteland   | Earthquakes       |
+|         |             |             |
+| ------- | ----------- | ----------- |
+| **d20** | **Terrain** | **Terrain** |
+| **1**   | Mountains   | Swamps      |
+| **2**   | Caverns     | Valley      |
+| **3**   | Oasis       | Lava Fields |
+| **4**   | Volcanoes   | Scrubland   |
+| **5**   | Plains      | Savannas    |
+| **6**   | Canyons     | Fjords      |
+| **7**   | Glaciers    | Bogs        |
+| **8**   | Plateaus    | Thickets    |
+| **9**   | Forests     | Beaches     |
+| **10**  | Waterfalls  | Dunes       |
+| **11**  | Lakes       | Craters     |
+| **12**  | Tundra      |             |
+| **13**  | Deserts     | Dolines     |
+| **14**  | Mangroves   | Jungles     |
+| **15**  | Cliffs      | Wetlands    |
+| **16**  | Salt Flats  | Hills       |
+| **17**  | Grasslands  | Hollows     |
+| **18**  | Reefs       | Farmlands   |
+| **19**  | Wasteland   | Rivers      |
+| **20**  | Sea         | Ice Fields  |
+
+
+#### Regional Features
+
+Roll 2d20 and combine the results.
+
+|         |                   |     |
+| ------- | ----------------- | --- |
+| **d20** | **Feature**       |     |
+| **1**   | Acid Rain         |     |
+| **2**   | Natural Bridges   |     |
+| **3**   | Venomous Insects  |     |
+| **4**   | Tidal Flats       |     |
+| **5**   | Geysers           |     |
+| **6**   |                   |     |
+| **7**   | Glacial Melt      |     |
+| **8**   | Toxic Water       |     |
+| **9**   | Crystal Growths   |     |
+| **10**  | Earthquakes       |     |
+| **11**  | Dust Storms       |     |
+| **12**  | Lava Fields       |     |
+| **13**  | Drought           |     |
+| **14**  | Ice Caves         |     |
+| **15**  | Dense Fog         |     |
+| **16**  | Sinkholes         |     |
+| **17**  | Weak Ground       |     |
+| **18**  |                   |     |
+| **19**  | Poisonous Foliage |     |
+| **20**  | Wildfires         |     |
 
 ### People
 
