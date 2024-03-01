@@ -216,12 +216,12 @@ Roll 2d20 and combine the results.
 
 ### Regions
 
-A realm is made up of a dozen or more regions, defined by changes in terrain, a seat of power, unusual points of interest, or a unique landmark. 
+A realm is made up of a four or more regions defined by changes in terrain, a seat of power, unusual points of interest, or a unique landmark. 
 
 - To create regions, roll 6d6 on your sheet of paper, collecting any dice that roll off the page. 
 - Note the face up results according to the [Die Drop Table](#die-drop-table), writing its corresponding letter on the page beneath (e.g. W = Waypoint, D = Dungeon, etc.). These are the maps's Points of Interest (POIs).
-- Roll any dice that fell off the page, repeating the previous process until there are no dice remaining.
-- Draw a line around each POI, carving the map into at least 6 segments. Each segment represents a region.
+- Roll any dice that fell off the page, repeating the previous process until no dice are remaining.
+- Draw a line around each POI, carving the map into at least 4 segments, each representing a region.
 
 ### Points of Interest
 

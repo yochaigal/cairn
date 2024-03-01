@@ -238,7 +238,7 @@ Roll 2d20 and combine the results.
 
 ### Draw Paths
 
-- On your map, create 1-4 paths between each location.Create loops, branching paths, dead-ends, and shortcuts between POIs.
+- On your map, create 1-4 paths between each location. Create loops, branching paths, dead-ends, and shortcuts between POIs.
 - Decide whether each path represents a road, a trail, or a wilderness route and note that on the map. 
 - Select 2-4 paths per region and roll on the [Path Features](#path-features) table, then note the results. 
   - Some paths may be parts of a chain and tied to a particular terrain (mountain passes, rivers, etc.).
