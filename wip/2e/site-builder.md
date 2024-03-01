@@ -9,15 +9,21 @@ search_exclude: true
 
 # Site Builder
 
-## Prospectus
+## Overview
 
-I'd like to build a procedure wherein the Warden can create a world bit by bit, using region by region, adventure site by adventure site. First we'll define the realm's overall terrain and themes, then we'll "zoom in" to a particular chunk (a "region") and build from there. I'm looking at terms like "realm" or "domain" or "principality" for the larger context.
+The following procedure should provide a means for the Warden to create a game setting bit by bit, region by region, adventure site by adventure site. First we'll define the realm's terrain and theme, then we'll divide up the map into regions, and finally we'll stock each region with interesting things for the player characters to do.
 
 ## The Realm
 
 The unique combination of terrain, political boundaries, and people in a particular place is called a **Realm**. This term can also refer to the overall "theme" of your setting, as well as the sorts of adventures the player characters will get up to.
 
-### Geography
+### Materials Required
+
+- At least one sheet of paper. Letter/A4 is OK, but the larger the better.
+- Pencils and erasers.
+- At least one d6 and one d20, but 6d6 and 2d20 would be ideal.
+
+### Topography
 
 Roll on the [Terrain](#terrain) table below to determine the dominant terrain, as well as one interesting feature common to the realm. This terrain will be the "default" terrain of your realm.
 
@@ -208,5 +214,176 @@ Roll 2d20 and combine the results.
 | **19**  | Thieves        |             |
 | **20**  | Thugs          |             |
 
+### Landscape
+
+On your paper
+
 ### Regions
+
+A realm is made up of a dozen or more regions, defined by changes in terrain, a seat of power, unusual points of interest, or a unique landmark. 
+
+- To create regions, roll 6d6 on your sheet of paper, ignoring any dice that roll off the page. Draw a wide circle around each dice. Each circle represents a region.
+- Note the face up results according to the [Die Drop Table](#die-drop-table), writing its corresponding letter on the page beneath (e.g. W = Waypoint, D = Dungeon, etc.). These are the maps's Points of Interest (POIs).
+-  
+
+### Points of Interest
+
+Points of Interest on a map (or POIs) are generally divided into the following categories:  
+- **Settlements**: Permanent, largely self-sufficient population centers, typically governed by a political body or faction.
+- **Waypoints**: A safe place to refill supplies, get a good night's sleep, or get directions. Often rely on travelers for survival, but provide necessary services.
+- **Curiosities**: A wilderness locale of note, somewhere remarkable or strange. It may indeed be hazardous, but only if the PCs interact with it.
+- **Lairs**: A source of heightened monster activity, enemy encampment, or hive.
+- **Dungeons**: An explicitly dangerous locale, dungeon, or adventure site.
+
+> Some POIs may allow the PCs to see more of the world than what appears on their map.
+
+### Die Drop Table
+
+|         |                        |
+| ------- | ---------------------- |
+| **d6**  | **POI**                |
+| **1**   | Waypoint or Settlement |
+| **2-3** | Curiosity              |
+| **4**   | Lair                   |
+| **5-6** | Dungeon                |
+ 
+### Settlements
+
+Roll 2d20 and combine the results.
+
+|         |                 |                               |
+| ------- | --------------- | ----------------------------- |
+| **d20** | **Settlements** | **Feature**                   |
+| **1**   | Academy         | Built Atop Ruins              |
+| **2**   | Caravan         | Center of Learning            |
+| **3**   | Citadel         | Close-knit                    |
+| **4**   | City            | Divided                       |
+| **5**   | Commune         | Emits a Mysterious Hum        |
+| **6**   | Compound        | Famous for its Festivals      |
+| **7**   | Convent         | Guarded by Trained Beasts     |
+| **8**   | Farmstead       | High Population Density       |
+| **9**   | Fortress        | Impregnable                   |
+| **10**  | Garrison        | Integrated with Nature        |
+| **11**  | Hamlet          | Hides a Dangerous Portal      |
+| **12**  | Keep            | Known for its Hospitality     |
+| **13**  | Monastery       | Location of a Legendary Forge |
+| **14**  | Outpost         | Moves or Revolves             |
+| **15**  | Plantation      | Protected by a Great Warrior  |
+| **16**  | Prison          | Famous for its Artisans       |
+| **17**  | Stronghold      | Built on Bones of Giants      |
+| **18**  | Town            | Ruled by a Powerful Faction   |
+| **19**  | Villa           | Steeped in Tradition          |
+| **20**  | Village         | Trading Hub                   |
+
+### Waypoints
+
+Roll 2d20 and combine the results.
+
+|         |               |                                  |
+| ------- | ------------- | -------------------------------- |
+| **d20** | **Waypoints** | **Feature**                      |
+| **1**   | Archive       | Built on Sacred Grounds          |
+| **2**   | Asylum        | Decrepit Buildings               |
+| **3**   | Bazaar        | Reclusive Occupants              |
+| **4**   | Beacon Tower  | Protects a Powerful Object       |
+| **5**   | Bunker        | Cursed By Previous Occupants     |
+| **6**   | Cabin         | Known for its Elaborate Defenses |
+| **7**   | Campground    | Occupants are Lawful to a Fault  |
+| **8**   | Guildhall     | Part of an Illegal Trade Route   |
+| **9**   | Hospice       | Ruled by a Powerful Faction      |
+| **10**  | Hunting Lodge | Host to a Renowned Artisan       |
+| **11**  | Inn           | Distrustful Occupants            |
+| **12**  | Observatory   | Technologically Advanced         |
+| **13**  | Reservoir     | Contains a Powerful Artifact     |
+| **14**  | Sanatorium    | Sits on Natural Deposits         |
+| **15**  | Sanctuary     | Front for Illegal Operations     |
+| **16**  | Shrine        | Popular Pilgrim Destination      |
+| **17**  | Temple        | Occupants are Overly Formal      |
+| **18**  | Trading Post  | A Haven for Outcasts             |
+| **19**  | Watchtower    | Does Not Appear On Any Map       |
+| **20**  | Work Camp     | Outsiders Cannot Carry Weapons   |
+
+### Curiosities
+
+Roll 2d20 and combine the results.
+
+|         |                    |                        |
+| ------- | ------------------ | ---------------------- |
+| **d20** | **Curiosities**    | **Feature**            |
+| **1**   | Ancient Tree       | Buried Library         |
+| **2**   | Enormous Footprint | Site of Ancient Battle |
+| **3**   | Collapsed Mill     | Edible Fungus          |
+| **4**   | Cracked Bell       | Carnivorous Plants     |
+| **5**   | Singing Stones     | Cult Ritual Site       |
+| **6**   | Leviathan Skeleton | Impossible Music       |
+| **7**   | Purple Geysers     | Unstable Ground        |
+| **8**   | Dripping Archway   | Perpetual Mist         |
+| **9**   | Floating Island    | Infested With Vermin   |
+| **10**  | Buried Megalith    | Buried Ley Line        |
+| **11**  | Oddly-shaped Lake  | Illusory               |
+| **12**  | Petrified Trees    | Irregular Gravity      |
+| **13**  | Hanging Bridges    | Only Appears At Night  |
+| **14**  | Crystal Spire      | Hidden Market          |
+| **15**  | Echoing Fields     | Celestial Mirror       |
+| **16**  | Enormous Fist      | Abandoned Vessel       |
+| **17**  | Illegible Signpost | Ancient Trash Heap     |
+| **18**  | Frozen Graveyard   | Perpetual Shadows      |
+| **19**  | Sunken City        | Isolated Weather       |
+| **20**  | Broken Tower       | Floating Debris        |
+
+### Lairs
+
+Roll 2d20 and combine the results.
+
+|         |                     |                     |
+| ------- | ------------------- | ------------------- |
+| **d20** | **Lair**            | **Feature**         |
+| **1**   | Ancient prison      | Underwater          |
+| **2**   | Unruly Copse        | Entry Forbidden     |
+| **3**   | Dry Aqueduct        | Signs Posted        |
+| **4**   | Colossal Hive       | Waste Pit           |
+| **5**   | Crumbling Fort      | Piles of Bones      |
+| **6**   | Crashed Ship        | Previously Occupied |
+| **7**   | Spiked Cave         | Constant Screaming  |
+| **8**   | Hollow Obelisk      | At Crossroads       |
+| **9**   | Forgotten Graveyard | Religious Graffiti  |
+| **10**  | Hidden Burrow       | Bioluminescence     |
+| **11**  | Collapsed Mine      | Something Sleeps    |
+| **12**  | Enormous Stump      | Odd Machinery       |
+| **13**  | Overgrown Garden    | Scattered Traps     |
+| **14**  | Primeval Menhirs    | Scavengers Watch    |
+| **15**  | Primitive Bridge    | Symbiotic Entity    |
+| **16**  | Rotted Mill         | Hidden Exit         |
+| **17**  | Rusted Construct    | Baited Entrance     |
+| **18**  | Sunken Grotto       | Faction Hideout     |
+| **19**  | Ruined Town         | Training Camp       |
+| **20**  | Abandoned Tower     | Abandoned           |
+
+### Dungeons
+
+Roll 2d20 and combine the results.
+
+|         |                |              |
+| ------- | -------------- | ------------ |
+| **d20** | **Type**       | **Feature**  |
+| **1**   | Crypt          | Abandoned    |
+| **2**   | Prison         | Buried       |
+| **3**   | Cave           | Burnt        |
+| **4**   | Mine           | Clockwork    |
+| **5**   | Den            | Collapsed    |
+| **6**   | Stronghold     | Crumbling    |
+| **7**   | Temple         | Crystalline  |
+| **8**   | Laboratory     | Floating     |
+| **9**   | Workshop       | Flooded      |
+| **10**  | Great Hall     | Fungal       |
+| **11**  | Burial Ground  | Inverted     |
+| **12**  | Shrouded Grove | Isolated     |
+| **13**  | Ruined City    | Mirrored     |
+| **14**  | Estate         | Otherworldly |
+| **15**  | Tower          | Overgrown    |
+| **16**  | Manor          | Petrified    |
+| **17**  | Outpost        | Remote       |
+| **18**  | Fort           | Sealed       |
+| **19**  | Palace         | Toxic        |
+| **20**  | Tomb           | Warped       |
 
