@@ -26,10 +26,11 @@ A **Realm** is a general term for the combination of terrain, political boundari
 ### Materials Required
 
 - A sheet of paper and a notebook. Letter/A4 is OK, but the larger the better.
-- Pencils and erasers.
+- Pencils and erasers. Color markers if you want to make it pretty.
 - At least one d6 and one d20, but 6d6 and 2d20 would be ideal.
 
 > Going forward, we will refer to the sheet of paper as the **map**.
+> As with any other rule, if you don't like a table result, roll again or tweak as desired!
 
 ## Theme
 
@@ -102,7 +103,7 @@ Each region is dominated by one or more Factions, each with its own unique advan
 
 > Often **Seneschals** will have personal motivations that differ from the Faction's main **Agenda**, a fact that canny PCs can exploit for their own gain.
 
-Roll 1-4 times on [Faction Types](#faction-types), [Faction Agendas](#faction-agendas) and [Seneschals](#seneschals) tables, then answer the following for each Faction:
+Roll one or more times on the [Faction Types](#faction-types), [Faction Agendas](#faction-agendas) and [Seneschals](#seneschals) tables, then answer the following for each Faction:
 - What power do they have over the people who live here?
 - Who or what threatens their Agenda?
 - How would the Faction interact with any newcomers (i.e. an adventuring party)?
@@ -423,9 +424,6 @@ Roll 2d20 and combine the results.
 Answer the following questions:
 - How does the region's dominant terrain effect the people that live here? 
 - What would draw people here? What would keep them here?
-
-
-> As with any other table, if you don't like the result, roll again or tweak as desired!
 
 #### Terrain
 
