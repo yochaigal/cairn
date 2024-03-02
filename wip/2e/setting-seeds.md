@@ -100,7 +100,11 @@ Roll 2d20 and combine the results.
 
 ### Factions
 
-A Realm is dominated by one or more Factions, each with its own unique advantages, goals, and obstacles. Roll 1-4 times on [Faction Types](#faction-types), [Faction Agendas](#faction-agendas) and [Seneschals](#seneschals) tables, then answer the following for each Faction:
+A Realm is dominated by one or more Factions, each with its own unique advantages, goals, and obstacles. They each should have one or more representatives, or **Seneschals**, tasked with helping complete a Faction's Agenda.
+
+> Often **Seneschals** will have personal motivations that differ from the Faction's main **Agenda**, a fact that canny PCs can exploit for their own gain.
+
+Roll 1-4 times on [Faction Types](#faction-types), [Faction Agendas](#faction-agendas) and [Seneschals](#seneschals) tables, then answer the following for each Faction:
 - What power do they have over the people who live here?
 - Who or what threatens their Agenda?
 - How would the Faction interact with any newcomers (i.e. an adventuring party)?
@@ -168,37 +172,39 @@ Roll 2d20 and combine the results.
 
 Roll 2d20 and combine the results.
 
-|         |                |             |
-| ------- | -------------- | ----------- |
-| **d20** | **Seneschals** | **Feature** |
-| **1**   | Academics      |             |
-| **2**   | Assassins      |             |
-| **3**   | Bannermen      |             |
-| **4**   | Criminals      |             |
-| **5**   | Farmers        |             |
-| **6**   | Generals       |             |
-| **7**   | Laborers       |             |
-| **8**   | Lords          |             |
-| **9**   | Merchants      |             |
-| **10**  | Monks          |             |
-| **11**  | Mystics        |             |
-| **12**  | Nobles         |             |
-| **13**  | Officials      |             |
-| **14**  | Outlanders     |             |
-| **15**  | Peddlers       |             |
-| **16**  | Philosophers   |             |
-| **17**  | Politicians    |             |
-| **18**  | Spies          |             |
-| **19**  | Thieves        |             |
-| **20**  | Thugs          |             |
+|         |               |             |
+| ------- | ------------- | ----------- |
+| **d20** | **Seneschal** | **Trait**   |
+| **1**   | Academics     | Brutal      |
+| **2**   | Assassins     | Cautious    |
+| **3**   | Bannermen     | Craven      |
+| **4**   | Criminals     | Cruel       |
+| **5**   | Farmers       | Cunning     |
+| **6**   | Generals      | Deceptive   |
+| **7**   | Laborers      | Discreet    |
+| **8**   | Lords         | Enigmatic   |
+| **9**   | Merchants     | Fierce      |
+| **10**  | Monks         | Jovial      |
+| **11**  | Mystics       | Judicious   |
+| **12**  | Nobles        | Keen        |
+| **13**  | Officials     | Loyal       |
+| **14**  | Outlanders    | Mercurial   |
+| **15**  | Peddlers      | Meticulous  |
+| **16**  | Philosophers  | Pragmatic   |
+| **17**  | Politicians   | Resourceful |
+| **18**  | Spies         | Selfish     |
+| **19**  | Thieves       | Tenacious   |
+| **20**  | Thugs         | Tranquil    |
+
+
+
+
 
 ## Put it all Together
 
 You should now have a sufficient idea about the people of this realm, including their character, ambitions, resources, and Faction details, and are finally ready to form these results into a coherent theme. 
 
-For example, if I rolled up a realm covered in plains and surrounded by rivers, I might assume that the locals here were tradespeople, selling their wares to the neighbors downriver. If their land was prone to dust storms, I may decide that the people are hardy, and probably wear clothing appropriate to a dust bowl setting.
-
-If I rolled that the people there were religious and sought conversion, I'd assume they were a proud folk, but prone to religious extremes and proselytizing. And if their primary resources were land, yet spices were rare, I'd assume they grew their own food, but that due to a religious prohibition their cuisine was often bland.
+For example, if I rolled up a people that were there religious and sought conversion, I'd assume they were a proud folk, but prone to religious extremes and proselytizing. And if their primary resources were land, yet spices were rare, I'd assume they grew their own food, but that due to a religious prohibition their cuisine was often bland.
 
 Presume that I also rolled up a ruling Faction of Nomads, whose primary Advantage was their conviction, I would assume the elites were a class of religious chiefs. If the Faction's Agenda was to cultivate a rare resource, but that they were hindered by cultural taboos, I might decide that they had hired the party to take on the task. Perhaps the object of their quest was a unique plant, only grown in a distant place, and that the mission must remain a secret? 
  
@@ -417,7 +423,7 @@ Roll 2d20 and combine the results.
 
 ### Topography
 
-- Draw a line around 2-4 POIs, dividing the map into at least two "bands," or sections. 
+- Draw a line around groups of 2-6 POIs, dividing the map into at least two "bands," or sections. 
 - Roll on the [Terrain](#terrain) table below for each band, noting the results in the map.
 
 > As with any other table, if you don't like the result, roll again or tweak as desired!
@@ -450,10 +456,9 @@ Roll 2d20 and combine the results.
 | **19**  | Tundra      | Flash Floods      |
 | **20**  | Wasteland   | Salt Flats        |
 
-
 ### Paths
 
-**Paths** act as geographic connectors on the map, ranging from well-traveled roads to rough wilderness routes. Paths should provide compelling choices between POIs, who must weigh factors such as safety, speed, and travel difficulty. 
+**Paths** act as geographic connectors on the map, ranging from well-traveled roads and trails to rough wilderness routes. Paths should provide compelling choices between POIs, who must weigh factors such as safety, speed, and travel difficulty. 
 
 #### Path Types
 
