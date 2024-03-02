@@ -29,13 +29,13 @@ A **Realm** is a general term for the combination of terrain, political boundari
 - Pencils and erasers.
 - At least one d6 and one d20, but 6d6 and 2d20 would be ideal.
 
-Going forward, we will refer to the sheet of paper as the **map**.
+> Going forward, we will refer to the sheet of paper as the **map**.
 
 ## Theme
 
 ### Topography
 
-- Roll on the [Terrain](#terrain) and [Special Features](#special-features) tables below to determine the realm's default terrain. Write these in your notebook.
+- Roll on the [Terrain](#terrain) and [Special Features](#special-features) tables below to determine the realm's default terrain. Write the results in your notebook.
 
 > As with any other table, if you don't like the result, roll again or tweak as desired!
 
@@ -62,7 +62,7 @@ Roll 2d20 and combine the results.
 | **14**  | Cliffs      | Wetlands    |
 | **15**  | Jungles     | Salt Flats  |
 | **16**  | Grasslands  | Hollows     |
-| **17**  | Rivers      | Reefs       |
+| **17**  | Rivers      | Rocky       |
 | **18**  | Wasteland   | Ice Fields  |
 | **19**  | Sea         | Mud         |
 | **20**  | Swamps      | Pastures    |
@@ -268,10 +268,6 @@ Finally, the party would meet with one of the Faction's Seneschals, a spy posing
 
 ## Draw the Map
 
-### Add Terrain
-
-[ ToDo ]
-
 ### Points of Interest
 
 Points of Interest on a map (or POIs) are generally divided into the following categories:  
@@ -450,7 +446,7 @@ Roll 2d20 and combine the results.
 
 **Landmarks** are unique, visible POIs that can also be used as geographic reference points: towers, mountains, tall buildings, and so on. They help orient travelers around the map, and are _especially_ visible from areas with higher elevation or a clear viewpoint.
 
-- To create Landmarks, roll 3d6 dice on the map, noting the location by drawing a triangle. The further apart, the better!
+- To create Landmarks, roll 3d6 dice on the map, ignoring the face-up result, writing the result as a triangle.
 - Number each Landmark on the map, then roll on the [Landmark Features](#landmark-features) table, noting the results in your notebook.
 
 #### Landmark Features
@@ -481,6 +477,11 @@ Roll 2d20 and combine the results.
 | **19**  | Golden Bridge      | Recently Appeared             |
 | **20**  | Crystal Spire      | Resplendent with Dead Things  |
 
+### Add Terrain
+  
+- Draw wide curves around clumps of 2-4 POIs, dividing the map into multiple "bands" of terrain. 
+- Refer to the terrain results you rolled earlier, noting a different terrain type for each band.  
+
 ### Paths
 
 **Paths** act as geographic connectors on the map, ranging from well-traveled roads to rough wilderness routes. Paths should provide compelling choices between POIs, who must weigh factors such as safety, speed, and travel difficulty. 
@@ -495,11 +496,11 @@ Roll 2d20 and combine the results.
 
 - Starting with the Heart, create 1-4 paths between each location. 
   - Create loops, branching paths, dead-ends, and shortcuts between POIs.
-- Decide whether each path represents a road, a trail, or a wilderness route and note it on the map. 
   - Some paths may be parts of a chain and tied to a particular terrain (mountain passes, rivers, etc.).
   - Some paths are Conditional, represented by a crossed line.
   - Some paths are Hidden, represented by a dashed line.
-- Designate each path in your notebook using the number of a POI and its connecting point, e.g. 1 &harr; 3.  
+- Designate each path using the number of a POI and its connecting point, e.g. 1 &harr; 3. You can denote this in your notebook under the originating POI or in a separate section.  
+- Decide whether a path represents a road, a trail, or a wilderness route and write the results in your notebook.
 - Roll on the [Path Features](#path-features) table for each path, writing the results in your notebook. 
 - Determine the path distances between POIs and note the duration on the map:
   - A short distance between POIs takes one Watch to traverse, a medium distance takes two Watches, and a long distance takes three Watches. 
@@ -536,7 +537,7 @@ Roll 2d20 and combine the results.
 
 ## Conclusion
 
-Your realm is now...
+Your realm is now complete...
 
 [ add concluding words ]
 
