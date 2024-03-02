@@ -11,7 +11,7 @@ search_exclude: true
 
 ## Overview
 
-The following procedure is designed to help create the _seed_ of a setting: the geography, people, and paths that an adventuring party may have to navigate as they travel throughout a region. We'll start by drawing a map of the region, noting its unique topography, natural features, towns, lairs, dungeons, roads, and so on. Then we'll develop the people of the region, their ambitions and resources, and the factions that rule them.
+The following procedure is designed to help create the _seed_ of a setting: the unique topography, natural features, people, and paths that an adventuring party may have to navigate as they travel throughout a region. We'll start by develop the people that live their, their ambitions and resources, and the factions that rule them. Then we'll draw a map of the realm, noting its points of interest, landmarks, roads, trails, and so on. 
 
 ## Example
 
@@ -19,311 +19,90 @@ Before you begin please check out this example (click on it):
 
 [![Alt text](/img/2e/setting-seed-example.webp "Click to embiggen"){:height="40%" width="40%"}](/img/2e/setting-seed-example.webp)
 
-## Materials Required
-- At least one sheet of paper. Letter/A4 is OK, but the larger the better.
+[ update this image ]
+
+## The Realm
+
+A **Realm** is a general term for the combination of terrain, political boundaries, and people that live in a particular place. This term can also refer to the overall "theme" of your setting, as well as the sorts of adventures the player characters will get up to. Realms are defined by the culture of the people that live there, their ambitions, their resources, and the Factions that rule them.
+
+### Materials Required
+
+- A sheet of paper and a notebook. Letter/A4 is OK, but the larger the better.
 - Pencils and erasers.
 - At least one d6 and one d20, but 6d6 and 2d20 would be ideal.
 
-## Draw the Map
+Going forward, we will refer to the sheet of paper as **the map**.
 
-- Draw the letter **H** anywhere on a sheet of paper, or roll a d6 and mark where it lands. This is the region's **Heart**, or primary settlement. 
-  - Roll 6d6 on the page, ignoring any dice that roll off the page. These are the maps's **Points of Interest** (POI).
-  - Note the face up results according to the [Die Drop Table](#die-drop-table), writing its corresponding letter on the page beneath (e.g. W = Waypoint, D = Dungeon, etc.).
-- Group POIs together in clusters of 2-4, then draw a circle that surrounds each cluster. These circles should be large enough that they touch; they represent the map's regions.
-- Roll on the [Regions](#regions) table for each clump, and write the results on on the page.
-- Roll on the relevant tables for each POI (including the Heart) and note the results.
-- Number each POI, starting with the Heart.
+## Topography
 
-> - The **Heart** is always a **Settlement** of some kind. It isn't necessarily the largest or most important place in the setting, but it should be significant to the region's history
-> - Regions are swaths of land defined by either a particular terrain (e.g. tundra, hills, etc.), arbitrary political boundaries (a kingdom, a barony, etc.), or both.
+- Roll on the [Terrain](#terrain) and [Special Features](#special-features) tables below to determine the realm's default terrain. Write these in your notebook.
 
-### Points of Interest
+> As with any other table, if you don't like the result, roll again or tweak as desired!
 
-Points of Interest on a map (or POIs) are generally divided into the following categories:  
-- **Settlements**: Permanent, largely self-sufficient population centers, typically governed by a political body or faction.
-- **Waypoints**: A safe place to refill supplies, get a good night's sleep, or get directions. Often rely on travelers for survival, but provide necessary services.
-- **Curiosities**: A wilderness locale of note, somewhere remarkable or strange. It may indeed be hazardous, but only if the PCs interact with it.
-- **Lairs**: A source of heightened monster activity, enemy encampment, or hive.
-- **Dungeons**: An explicitly dangerous locale, dungeon, or adventure site.
-
-> Some POIs may allow the PCs to see more of the world than what appears on their map.
-
-### Die Drop Table
-
-|         |                        |
-| ------- | ---------------------- |
-| **d6**  | **POI**                |
-| **1**   | Waypoint or Settlement |
-| **2-3** | Curiosity              |
-| **4**   | Lair                   |
-| **5-6** | Dungeon                |
-
-### Regions
+### Terrain
 
 Roll 2d20 and combine the results.
 
-|         |             |                   |
-| ------- | ----------- | ----------------- |
-| **d20** | **Terrain** | **Feature**       |
-| **1**   | Canyons     | Natural Bridges   |
-| **2**   | Caverns     | Acid Rain         |
-| **3**   | Cliffs      | Sinkholes         |
-| **4**   | Deserts     | Crystal Growths   |
-| **5**   | Forests     | Salt Flats        |
-| **6**   | Hills       | Dense Fog         |
-| **7**   | Hollows     | Volcanoes         |
-| **8**   | Jungles     | Drought           |
-| **9**   | Lakes       | Wildfires         |
-| **10**  | Mountains   | Dust Storms       |
-| **11**  | Oasis       | Glacial Melt      |
-| **12**  | Plateaus    | Ice Caves         |
-| **13**  | Plains      | Geysers           |
-| **14**  | Rivers      | Lava Fields       |
-| **15**  | Sea         | Poisonous Foliage |
-| **16**  | Swamps      | Toxic Water       |
-| **17**  | Thickets    | Venomous Insects  |
-| **18**  | Tundra      | Weak Ground       |
-| **19**  | Valley      | Mudflats          |
-| **20**  | Wasteland   | Earthquakes       |
+|         |             |             |
+| ------- | ----------- | ----------- |
+| **d20** | **Terrain** | **Terrain** |
+| **1**   | Mountains   | Valleys     |
+| **2**   | Caverns     | Lava Fields |
+| **3**   | Oasis       | Scrubland   |
+| **4**   | Plains      | Savannas    |
+| **5**   | Canyons     | Fjords      |
+| **6**   | Glaciers    | Bogs        |
+| **7**   | Plateaus    | Thickets    |
+| **8**   | Forests     | Beaches     |
+| **9**   | Farmlands   | Dunes       |
+| **10**  | Lakes       | Craters     |
+| **11**  | Tundra      | Mangroves   |
+| **12**  | Deserts     | Dolines     |
+| **13**  | Hills       | Volcanoes   |
+| **14**  | Cliffs      | Wetlands    |
+| **15**  | Jungles     | Salt Flats  |
+| **16**  | Grasslands  | Hollows     |
+| **17**  | Rivers      | Reefs       |
+| **18**  | Wasteland   | Ice Fields  |
+| **19**  | Sea         | Mud         |
+| **20**  | Swamps      | Pastures    |
 
-### Settlements
-
-Roll 2d20 and combine the results.
-
-|         |                 |                               |
-| ------- | --------------- | ----------------------------- |
-| **d20** | **Settlements** | **Feature**                   |
-| **1**   | Academy         | Built Atop Ruins              |
-| **2**   | Caravan         | Center of Learning            |
-| **3**   | Citadel         | Close-knit                    |
-| **4**   | City            | Divided                       |
-| **5**   | Commune         | Emits a Mysterious Hum        |
-| **6**   | Compound        | Famous for its Festivals      |
-| **7**   | Convent         | Guarded by Trained Beasts     |
-| **8**   | Farmstead       | High Population Density       |
-| **9**   | Fortress        | Impregnable                   |
-| **10**  | Garrison        | Integrated with Nature        |
-| **11**  | Hamlet          | Hides a Dangerous Portal      |
-| **12**  | Keep            | Known for its Hospitality     |
-| **13**  | Monastery       | Location of a Legendary Forge |
-| **14**  | Outpost         | Moves or Revolves             |
-| **15**  | Plantation      | Protected by a Great Warrior  |
-| **16**  | Prison          | Famous for its Artisans       |
-| **17**  | Stronghold      | Built on Bones of Giants      |
-| **18**  | Town            | Ruled by a Powerful Faction   |
-| **19**  | Villa           | Steeped in Tradition          |
-| **20**  | Village         | Trading Hub                   |
-
-### Waypoints
+### Special Features
 
 Roll 2d20 and combine the results.
 
-|         |               |                                  |
-| ------- | ------------- | -------------------------------- |
-| **d20** | **Waypoints** | **Feature**                      |
-| **1**   | Archive       | Built on Sacred Grounds          |
-| **2**   | Asylum        | Decrepit Buildings               |
-| **3**   | Bazaar        | Reclusive Occupants              |
-| **4**   | Beacon Tower  | Protects a Powerful Object       |
-| **5**   | Bunker        | Cursed By Previous Occupants     |
-| **6**   | Cabin         | Known for its Elaborate Defenses |
-| **7**   | Campground    | Occupants are Lawful to a Fault  |
-| **8**   | Guildhall     | Part of an Illegal Trade Route   |
-| **9**   | Hospice       | Ruled by a Powerful Faction      |
-| **10**  | Hunting Lodge | Host to a Renowned Artisan       |
-| **11**  | Inn           | Distrustful Occupants            |
-| **12**  | Observatory   | Technologically Advanced         |
-| **13**  | Reservoir     | Contains a Powerful Artifact     |
-| **14**  | Sanatorium    | Sits on Natural Deposits         |
-| **15**  | Sanctuary     | Front for Illegal Operations     |
-| **16**  | Shrine        | Popular Pilgrim Destination      |
-| **17**  | Temple        | Occupants are Overly Formal      |
-| **18**  | Trading Post  | A Haven for Outcasts             |
-| **19**  | Watchtower    | Does Not Appear On Any Map       |
-| **20**  | Work Camp     | Outsiders Cannot Carry Weapons   |
-
-### Curiosities
-
-Roll 2d20 and combine the results.
-
-|         |                    |                        |
-| ------- | ------------------ | ---------------------- |
-| **d20** | **Curiosities**    | **Feature**            |
-| **1**   | Ancient Tree       | Buried Library         |
-| **2**   | Enormous Footprint | Site of Ancient Battle |
-| **3**   | Collapsed Mill     | Edible Fungus          |
-| **4**   | Cracked Bell       | Carnivorous Plants     |
-| **5**   | Singing Stones     | Cult Ritual Site       |
-| **6**   | Leviathan Skeleton | Impossible Music       |
-| **7**   | Purple Geysers     | Unstable Ground        |
-| **8**   | Dripping Archway   | Perpetual Mist         |
-| **9**   | Floating Island    | Infested With Vermin   |
-| **10**  | Buried Megalith    | Buried Ley Line        |
-| **11**  | Oddly-shaped Lake  | Illusory               |
-| **12**  | Petrified Trees    | Irregular Gravity      |
-| **13**  | Hanging Bridges    | Only Appears At Night  |
-| **14**  | Crystal Spire      | Hidden Market          |
-| **15**  | Echoing Fields     | Celestial Mirror       |
-| **16**  | Enormous Fist      | Abandoned Vessel       |
-| **17**  | Illegible Signpost | Ancient Trash Heap     |
-| **18**  | Frozen Graveyard   | Perpetual Shadows      |
-| **19**  | Sunken City        | Isolated Weather       |
-| **20**  | Broken Tower       | Floating Debris        |
-
-### Lairs
-
-Roll 2d20 and combine the results.
-
-|         |                     |                     |
-| ------- | ------------------- | ------------------- |
-| **d20** | **Lair**            | **Feature**         |
-| **1**   | Ancient prison      | Underwater          |
-| **2**   | Unruly Copse        | Entry Forbidden     |
-| **3**   | Dry Aqueduct        | Signs Posted        |
-| **4**   | Colossal Hive       | Waste Pit           |
-| **5**   | Crumbling Fort      | Piles of Bones      |
-| **6**   | Crashed Ship        | Previously Occupied |
-| **7**   | Spiked Cave         | Constant Screaming  |
-| **8**   | Hollow Obelisk      | At Crossroads       |
-| **9**   | Forgotten Graveyard | Religious Graffiti  |
-| **10**  | Hidden Burrow       | Bioluminescence     |
-| **11**  | Collapsed Mine      | Something Sleeps    |
-| **12**  | Enormous Stump      | Odd Machinery       |
-| **13**  | Overgrown Garden    | Scattered Traps     |
-| **14**  | Primeval Menhirs    | Scavengers Watch    |
-| **15**  | Primitive Bridge    | Symbiotic Entity    |
-| **16**  | Rotted Mill         | Hidden Exit         |
-| **17**  | Rusted Construct    | Baited Entrance     |
-| **18**  | Sunken Grotto       | Faction Hideout     |
-| **19**  | Ruined Town         | Training Camp       |
-| **20**  | Abandoned Tower     | Abandoned           |
-
-### Dungeons
-
-Roll 2d20 and combine the results.
-
-|         |                |              |
-| ------- | -------------- | ------------ |
-| **d20** | **Type**       | **Feature**  |
-| **1**   | Crypt          | Abandoned    |
-| **2**   | Prison         | Buried       |
-| **3**   | Cave           | Burnt        |
-| **4**   | Mine           | Clockwork    |
-| **5**   | Den            | Collapsed    |
-| **6**   | Stronghold     | Crumbling    |
-| **7**   | Temple         | Crystalline  |
-| **8**   | Laboratory     | Floating     |
-| **9**   | Workshop       | Flooded      |
-| **10**  | Great Hall     | Fungal       |
-| **11**  | Burial Ground  | Inverted     |
-| **12**  | Shrouded Grove | Isolated     |
-| **13**  | Ruined City    | Mirrored     |
-| **14**  | Estate         | Otherworldly |
-| **15**  | Tower          | Overgrown    |
-| **16**  | Manor          | Petrified    |
-| **17**  | Outpost        | Remote       |
-| **18**  | Fort           | Sealed       |
-| **19**  | Palace         | Toxic        |
-| **20**  | Tomb           | Warped       |
-
-## Paths
-
-**Paths** act as geographic connectors on the map, ranging from well-traveled roads to rough wilderness routes. Paths should provide compelling choices between POIs, who must weigh factors such as safety, speed, and travel difficulty. 
-
-### Path Types
-
-- **Standard** paths are obvious or well-trod routes between two POIs, represented by a thick line.
-- **Hidden** paths do not appear on any known maps. Their discovery always requires some kind of cost. Represented by a dashed line.
-- **Conditional** paths may be blocked, or requires specialized tools (boats, climbing gear, etc.) to cross. Others may even be impossible to navigate without a map or guide. Represented by a crossed line.
-
-### Draw Paths
-
-- On your map, create 1-4 paths between each location. Create loops, branching paths, dead-ends, and shortcuts between POIs.
-- Decide whether each path represents a road, a trail, or a wilderness route and note that on the map. 
-- Select 2-4 paths per region and roll on the [Path Features](#path-features) table, then note the results. 
-  - Some paths may be parts of a chain and tied to a particular terrain (mountain passes, rivers, etc.).
-  - Some paths are Conditional, represented by a crossed line.
-  - Some paths are Hidden, represented by a dashed line.
-- Determine the path distances and note the time on the page:
-  - POIs a short distance apart take one Watch to traverse, a medium distance apart take two Watches, and a long distance apart take three Watches. 
-  - For Trails add 1 more Watch, and for Wilderness routes add 2 additional Watches.
-  - A Watch is 8 hours long. Denote days between POIs wherever possible (typically two Watches and one rest per day).
-
-### Path Features
-
-Roll 2d20 and combine the results.
-
-|         |                       |                              |
-| ------- | --------------------- | ---------------------------- |
-| **d20** | **Feature**           | **Condition**                |
-| **1**   | Blood-red             | Blocked by Giant Boulder     |
-| **2**   | Smells of Smoke       | Uneven, Soggy Ground         |
-| **3**   | Twisted               | Steep Climb                  |
-| **4**   | Massive Grooves       | Poisonous Fruit              |
-| **5**   | Buried Charms         | Thick Evening Mist           |
-| **6**   | Mile Markers          | Occasional Stampedes         |
-| **7**   | Follows the Stars     | Erratic Weather              |
-| **8**   | Abandoned Fields      | Night Predators              |
-| **9**   | Cattle Prints         | Heavy Toll Required          |
-| **10**  | Mineral Flecks        | Labyrinthine Canyons         |
-| **11**  | Shriveled Away        | Smoke-filled                 |
-| **12**  | Overgrown             | Frequent Flash Floods        |
-| **13**  | Ubiquitous Footprints | Collapsed Bridge             |
-| **14**  | Dead Vegetation       | Bandit Ambushes              |
-| **15**  | Rusted Tools          | Dense Bramble                |
-| **16**  | Diseased Animals      | Passed Over Rapids           |
-| **17**  | Newly Made            | Gets Extremely Cold          |
-| **18**  | Frequent Pilgrims     | Divided by Political Dispute |
-| **19**  | Disappearing          | Overcrowded                  |
-| **20**  | Constant Patrols      | Confusing to Navigate        |
-
-## Landmarks
-
-**Landmarks** are unique, visible POIs that can also be used as geographic reference points: towers, mountains, tall buildings, and so on. They help orient travelers around the map, and can help to identify terrain, regions, settlements, and curiosities from afar. Landmarks are _especially_ visible from areas with higher elevation or a clear viewpoint. Each path should have at least one visible landmark, represented by a triangle drawn somewhere along the path.
-
-### Create Landmarks
-
-- Roll 2-6 times on the [Landmark Features](#landmark-features) table for every region. 
-  - Note the results on the map by drawing a triangle. Place them along a path, or between multiple paths.
-  - Landmarks do not need to be numbered.
-
-### Landmark Features
-
-Roll 2d20 and combine the results.
-
-|         |                    |                               |
-| ------- | ------------------ | ----------------------------- |
-| **d20** | **Landmark**       | **Feature**                   |
-| **1**   | Enormous Footprint | Hollow                        |
-| **2**   | Dead Aqueduct      | Something Special Grows There |
-| **3**   | Petrified Forest   | Hides Something Powerful      |
-| **4**   | Giant's Throne     | Unchanging                    |
-| **5**   | Great Face         | Smaller than It Appears       |
-| **6**   | Fire Temple        | Popular With Cults            |
-| **7**   | Mirage Lake        | Unaffected by Weather         |
-| **8**   | Fallen Column      | Continually Humming           |
-| **9**   | Broken Sundial     | Part of a Series              |
-| **10**  | Massive Hole       | Visible from any Distance     |
-| **11**  | Heart Tree         | Collapsing                    |
-| **12**  | Ancient Maze       | Slowly Rotates                |
-| **13**  | Amber Den          | Untouched                     |
-| **14**  | Glittering Cascade | Toxic to its Surroundings     |
-| **15**  | Cloud Stairway     | Larger than it Appears        |
-| **16**  | Silver Face        | Wet, but not with Water       |
-| **17**  | Great Waterwheel   | Only Appears at Night         |
-| **18**  | Gate for Titans    | Has Always Been Here          |
-| **19**  | Golden Bridge      | Recently Appeared             |
-| **20**  | Crystal Spire      | Resplendent with Dead Things  |
+|         |                     |     |
+| ------- | ------------------- | --- |
+| **d20** | **Feature**         |     |
+| **1**   | Acid Rain           |     |
+| **2**   | Natural Bridges     |     |
+| **3**   | Venomous Insects    |     |
+| **4**   | Tidal Flats         |     |
+| **5**   | Thermal Vents       |     |
+| **6**   | Poisonous Foliage   |     |
+| **7**   | Glacial Melt        |     |
+| **8**   | Toxic Water         |     |
+| **9**   | Crystal Growths     |     |
+| **10**  | Earthquakes         |     |
+| **11**  | Dust Storms         |     |
+| **12**  | Lava Fields         |     |
+| **13**  | Drought             |     |
+| **14**  | Ice Caves           |     |
+| **15**  | Dense Fog           |     |
+| **16**  | Sinkholes           |     |
+| **17**  | Weak Ground         |     |
+| **18**  | Wildfires           |     |
+| **19**  | Flash Floods        |     |
+| **20**  | Bioluminescent Bays |     |
 
 ## People
 
-The most important aspect of a setting are its _people_. But they are shaped by the terrain and history of their region, which is why we generate their character, ambitions, and resources at the very end. 
+The most important aspect of a realm are its _people_: their character, ambitions, and the resources that tie them to this land. Roll on the [Culture](#culture) and [Resources](#resources) tables, then answer the following:
+- How do the people that live here perceive themselves, and how others perceive them?
+- How does the Realm's dominant terrain effect the people that live here? 
+- What would draw people here? What would keep them here?
 
-- Roll on the [Culture](#culture) and [Resources](#resources) tables for every region that has a settlement. and record the results. Then answer the following:
-  - How do the people that live there perceive themselves, and how others perceive them?
-  - What effects does the region's terrain have on the people that live there? 
-  - What resources are in abundance, and what are scarce? 
-  - What would draw someone there, and why would they stay? 
+Note the results in your notebook.    
 
 ### Culture
 
@@ -381,9 +160,381 @@ Roll 2d20 and combine the results.
 | **19**  | Textiles      | Vessels       |
 | **20**  | Weapons       | Fuel          |
 
+## Factions
+
+A Realm is dominated by one or more Factions, each with its own unique advantages, goals, and obstacles. Roll 1-4 times on [Faction Types](#faction-types), [Faction Agendas](#faction-agendas) and [Seneschals](#seneschals) tables, then answer the following for each Faction:
+- What power do they have over the people who live here?
+- Who or what threatens their Agenda?
+- How would the Faction interact with any newcomers (i.e. an adventuring party)?
+- What sorts of people act on behalf of these Factions?
+
+Note the results in your notebook.
+
+### Faction Types
+
+Roll 2d20 and combine the results.
+
+|         |                 |                |
+| ------- | --------------- | -------------- |
+| **d20** | **Type**        | **Advantage**  |
+| **1**   | Artisans        | Agility        |
+| **2**   | Commoners       | Alliances      |
+| **3**   | Criminals       | Anonymity      |
+| **4**   | Cultists        | Apparatus      |
+| **5**   | Exiles          | Charisma       |
+| **6**   | Explorers       | Conviction     |
+| **7**   | Industrialists  | Fealty         |
+| **8**   | Military        | Force          |
+| **9**   | Nobles          | Heritage       |
+| **10**  | Nomads          | Information    |
+| **11**  | Pilgrims        | Magic          |
+| **12**  | Protectors      | Members        |
+| **13**  | Regime          | Popularity     |
+| **14**  | Religious       | Position       |
+| **15**  | Revolutionaries | Renown         |
+| **16**  | Scholars        | Resources      |
+| **17**  | Settlers        | Ruthlessness   |
+| **18**  | Spies           | Specialization |
+| **19**  | Traders         | Subterfuge     |
+| **20**  | Tribal          | Wealth         |
+
+### Faction Agendas
+
+Roll 2d20 and combine the results.
+
+|         |                           |                                                         |
+| ------- | ------------------------- | ------------------------------------------------------- |
+| **d20** | **Agenda**                | **Obstacle**                                            |
+| **1**   | Ascend to a Higher Plane  | Commoners stand openly in opposition.                   |
+| **2**   | Collect Artifacts         | A particular object or Relic is required.               |
+| **3**   | Cultivate a Rare Resource | A powerful figure or foe must be eliminated.            |
+| **4**   | Defend Something          | Another Faction has the same goal.                      |
+| **5**   | Destroy Something         | An alliance with an enemy must first be brokered.       |
+| **6**   | Dominate Others           | Considerable capital is required.                       |
+| **7**   | Enrich Themselves         | Contravenes an established code, with a heavy penalty.  |
+| **8**   | Establish a Colony        | Many must die, either as a necessity or consequence.    |
+| **9**   | Establish a New Order     | Must be carried out at a rare or exact moment.          |
+| **10**  | Explore Uncharted Lands   | Must be carried out in absolute secrecy.                |
+| **11**  | Forge an Alliance         | Requires a specialist of an uncommon sort.              |
+| **12**  | Infiltrate Other Factions | A key piece of information must first be discovered.    |
+| **13**  | Preserve the Status Quo   | A rare but necessary resource must first be acquired.   |
+| **14**  | Protect a Secret          | A well-known prophecy predicts imminent failure.        |
+| **15**  | Purge the Land            | A serious debt forces the Faction to make dire choices. |
+| **16**  | Reveal a Secret           | The outcome would lead to unavoidable war.              |
+| **17**  | Revenge                   | Another Faction stands in opposition.                   |
+| **18**  | Revive a Former Power     | Hindered by cultural taboos.                            |
+| **19**  | Seek New Leadership       | An internal schism threatens to tear the Faction apart. |
+| **20**  | Spread a Belief           | A geographic barrier or impassable terrain.             |
+
+### Seneschals
+
+Roll 2d20 and combine the results.
+
+|         |                |             |
+| ------- | -------------- | ----------- |
+| **d20** | **Seneschals** | **Feature** |
+| **1**   | Academics      |             |
+| **2**   | Assassins      |             |
+| **3**   | Bannermen      |             |
+| **4**   | Criminals      |             |
+| **5**   | Farmers        |             |
+| **6**   | Generals       |             |
+| **7**   | Laborers       |             |
+| **8**   | Lords          |             |
+| **9**   | Merchants      |             |
+| **10**  | Monks          |             |
+| **11**  | Mystics        |             |
+| **12**  | Nobles         |             |
+| **13**  | Officials      |             |
+| **14**  | Outlanders     |             |
+| **15**  | Peddlers       |             |
+| **16**  | Philosophers   |             |
+| **17**  | Politicians    |             |
+| **18**  | Spies          |             |
+| **19**  | Thieves        |             |
+| **20**  | Thugs          |             |
+
+ ### Theme
+
+ You should now have a sufficient idea about the people of this realm, including their character, ambitions, resources, and Faction details, and are finally ready to form these results into a coherent theme. 
+ 
+ For example, if I rolled up a realm covered in plains and surrounded by rivers, I might assume that the locals here were tradespeople, selling their wares to the neighbors downriver. If their land was prone to dust storms, I may decide that the people are hardy, and probably wear clothing appropriate to a dust bowl setting.
+ 
+ If I rolled that the people there were religious and sought conversion, I'd assume they were a proud folk, but prone to religious extremes and proselytizing. And if their primary resources were land, yet spices were rare, I'd assume they grew their own food, but that due to a religious prohibition their cuisine was often bland.
+
+ Presume that I also rolled up a ruling Faction of Nomads, whose primary Advantage was their conviction, I would assume the elites were a class of religious chiefs. If the Faction's Agenda was to cultivate a rare resource, but that they were hindered by cultural taboos, I might decide that they had hired the party to take on the task. Perhaps the object of their quest was a unique plant, only grown in a distant place, and that the mission must remain a secret? 
+ 
+ Finally, the party would meet with one of the Faction's Seneschals, a spy posing as a Peddler. Only he could tell them where the plant grew, and how to cultivate it.
+
+## Draw the Map
+
+### Add Terrain
+
+### Points of Interest
+
+Points of Interest on a map (or POIs) are generally divided into the following categories:  
+- **Settlements**: Permanent, largely self-sufficient population centers, typically governed by a political body or faction. The **Heart** (see below) is always a settlement of some kind.
+- **Waypoints**: A safe place to refill supplies, get a good night's sleep, or get directions. Often rely on travelers for survival, but provide necessary services.
+- **Curiosities**: A wilderness locale of note, somewhere remarkable or strange. It may indeed be hazardous, but only if the PCs interact with it.
+- **Lairs**: A source of heightened monster activity, enemy encampment, or hive.
+- **Dungeons**: An explicitly dangerous locale, dungeon, or adventure site.
+
+#### The Heart
+
+The focal point of a realm is called the **Heart**, or primary settlement. It isn't necessarily the largest or most important place in the realm, but it should always be significant to the realm's history and people.
+
+#### Create POIs
+
+- Draw the letter **H** anywhere on the map, or roll a d6 and mark where it lands. 
+- Roll 6d6 on the map, collecting any dice that roll off the page and setting them aside. These are the maps's Points of Interest.
+- Remove each die, noting the face up result according to the [Die Drop Table](#die-drop-table) on the page. For example, the number 4 would indicate a Lair, denoted by the letter "L" on the page. 
+- Roll any dice that fell off the map page, repeating the previous process until no dice are remaining.
+- Roll on the relevant tables for each POI, including the Heart. Note the results for each in your notebook.
+- Number each POI, both on the map and in your notebook.
+
+> Some POIs may allow the PCs to see more of the world than what appears on their map.
+
+#### Die Drop Table
+
+|         |                        |
+| ------- | ---------------------- |
+| **d6**  | **POI**                |
+| **1**   | Waypoint or Settlement |
+| **2-3** | Curiosity              |
+| **4**   | Lair                   |
+| **5-6** | Dungeon                |
+ 
+#### Settlements
+
+Roll 2d20 and combine the results.
+
+|         |                 |                               |
+| ------- | --------------- | ----------------------------- |
+| **d20** | **Settlements** | **Feature**                   |
+| **1**   | Academy         | Built Atop Ruins              |
+| **2**   | Caravan         | Center of Learning            |
+| **3**   | Citadel         | Close-knit                    |
+| **4**   | City            | Divided                       |
+| **5**   | Commune         | Emits a Mysterious Hum        |
+| **6**   | Compound        | Famous for its Festivals      |
+| **7**   | Convent         | Guarded by Trained Beasts     |
+| **8**   | Farmstead       | High Population Density       |
+| **9**   | Fortress        | Impregnable                   |
+| **10**  | Garrison        | Integrated with Nature        |
+| **11**  | Hamlet          | Hides a Dangerous Portal      |
+| **12**  | Keep            | Known for its Hospitality     |
+| **13**  | Monastery       | Location of a Legendary Forge |
+| **14**  | Outpost         | Moves or Revolves             |
+| **15**  | Plantation      | Protected by a Great Warrior  |
+| **16**  | Prison          | Famous for its Artisans       |
+| **17**  | Stronghold      | Built on Bones of Giants      |
+| **18**  | Town            | Ruled by a Powerful Faction   |
+| **19**  | Villa           | Steeped in Tradition          |
+| **20**  | Village         | Trading Hub                   |
+
+#### Waypoints
+
+Roll 2d20 and combine the results.
+
+|         |               |                                  |
+| ------- | ------------- | -------------------------------- |
+| **d20** | **Waypoints** | **Feature**                      |
+| **1**   | Archive       | Built on Sacred Grounds          |
+| **2**   | Asylum        | Decrepit Buildings               |
+| **3**   | Bazaar        | Reclusive Occupants              |
+| **4**   | Beacon Tower  | Protects a Powerful Object       |
+| **5**   | Bunker        | Cursed By Previous Occupants     |
+| **6**   | Cabin         | Known for its Elaborate Defenses |
+| **7**   | Campground    | Occupants are Lawful to a Fault  |
+| **8**   | Guildhall     | Part of an Illegal Trade Route   |
+| **9**   | Hospice       | Ruled by a Powerful Faction      |
+| **10**  | Hunting Lodge | Host to a Renowned Artisan       |
+| **11**  | Inn           | Distrustful Occupants            |
+| **12**  | Observatory   | Technologically Advanced         |
+| **13**  | Reservoir     | Contains a Powerful Artifact     |
+| **14**  | Sanatorium    | Sits on Natural Deposits         |
+| **15**  | Sanctuary     | Front for Illegal Operations     |
+| **16**  | Shrine        | Popular Pilgrim Destination      |
+| **17**  | Temple        | Occupants are Overly Formal      |
+| **18**  | Trading Post  | A Haven for Outcasts             |
+| **19**  | Watchtower    | Does Not Appear On Any Map       |
+| **20**  | Work Camp     | Outsiders Cannot Carry Weapons   |
+
+#### Curiosities
+
+Roll 2d20 and combine the results.
+
+|         |                    |                        |
+| ------- | ------------------ | ---------------------- |
+| **d20** | **Curiosities**    | **Feature**            |
+| **1**   | Ancient Tree       | Buried Library         |
+| **2**   | Enormous Footprint | Site of Ancient Battle |
+| **3**   | Collapsed Mill     | Edible Fungus          |
+| **4**   | Cracked Bell       | Carnivorous Plants     |
+| **5**   | Singing Stones     | Cult Ritual Site       |
+| **6**   | Leviathan Skeleton | Impossible Music       |
+| **7**   | Purple Geysers     | Unstable Ground        |
+| **8**   | Dripping Archway   | Perpetual Mist         |
+| **9**   | Floating Island    | Infested With Vermin   |
+| **10**  | Buried Megalith    | Buried Ley Line        |
+| **11**  | Oddly-shaped Lake  | Illusory               |
+| **12**  | Petrified Trees    | Irregular Gravity      |
+| **13**  | Hanging Bridges    | Only Appears At Night  |
+| **14**  | Crystal Spire      | Hidden Market          |
+| **15**  | Echoing Fields     | Celestial Mirror       |
+| **16**  | Enormous Fist      | Abandoned Vessel       |
+| **17**  | Illegible Signpost | Ancient Trash Heap     |
+| **18**  | Frozen Graveyard   | Perpetual Shadows      |
+| **19**  | Sunken City        | Isolated Weather       |
+| **20**  | Broken Tower       | Floating Debris        |
+
+#### Lairs
+
+Roll 2d20 and combine the results.
+
+|         |                     |                     |
+| ------- | ------------------- | ------------------- |
+| **d20** | **Lair**            | **Feature**         |
+| **1**   | Ancient prison      | Underwater          |
+| **2**   | Unruly Copse        | Entry Forbidden     |
+| **3**   | Dry Aqueduct        | Signs Posted        |
+| **4**   | Colossal Hive       | Waste Pit           |
+| **5**   | Crumbling Fort      | Piles of Bones      |
+| **6**   | Crashed Ship        | Previously Occupied |
+| **7**   | Spiked Cave         | Constant Screaming  |
+| **8**   | Hollow Obelisk      | At Crossroads       |
+| **9**   | Forgotten Graveyard | Religious Graffiti  |
+| **10**  | Hidden Burrow       | Bioluminescence     |
+| **11**  | Collapsed Mine      | Something Sleeps    |
+| **12**  | Enormous Stump      | Odd Machinery       |
+| **13**  | Overgrown Garden    | Scattered Traps     |
+| **14**  | Primeval Menhirs    | Scavengers Watch    |
+| **15**  | Primitive Bridge    | Symbiotic Entity    |
+| **16**  | Rotted Mill         | Hidden Exit         |
+| **17**  | Rusted Construct    | Baited Entrance     |
+| **18**  | Sunken Grotto       | Faction Hideout     |
+| **19**  | Ruined Town         | Training Camp       |
+| **20**  | Abandoned Tower     | Abandoned           |
+
+#### Dungeons
+
+Roll 2d20 and combine the results.
+
+|         |                |              |
+| ------- | -------------- | ------------ |
+| **d20** | **Type**       | **Feature**  |
+| **1**   | Crypt          | Abandoned    |
+| **2**   | Prison         | Buried       |
+| **3**   | Cave           | Burnt        |
+| **4**   | Mine           | Clockwork    |
+| **5**   | Den            | Collapsed    |
+| **6**   | Stronghold     | Crumbling    |
+| **7**   | Temple         | Crystalline  |
+| **8**   | Laboratory     | Floating     |
+| **9**   | Workshop       | Flooded      |
+| **10**  | Great Hall     | Fungal       |
+| **11**  | Burial Ground  | Inverted     |
+| **12**  | Shrouded Grove | Isolated     |
+| **13**  | Ruined City    | Mirrored     |
+| **14**  | Estate         | Otherworldly |
+| **15**  | Tower          | Overgrown    |
+| **16**  | Manor          | Petrified    |
+| **17**  | Outpost        | Remote       |
+| **18**  | Fort           | Sealed       |
+| **19**  | Palace         | Toxic        |
+| **20**  | Tomb           | Warped       |
+
+#### Landmarks
+
+**Landmarks** are unique, visible POIs that can also be used as geographic reference points: towers, mountains, tall buildings, and so on. They help orient travelers around the map, and are _especially_ visible from areas with higher elevation or a clear viewpoint.
+
+- To create Landmarks, roll 3d6 dice on the map, noting the location by drawing a triangle. The further apart, the better!
+- Number each Landmark on the map, then roll on the [Landmark Features](#landmark-features) table, noting the results in your notebook.
+
+#### Landmark Features
+
+Roll 2d20 and combine the results.
+
+|         |                    |                               |
+| ------- | ------------------ | ----------------------------- |
+| **d20** | **Landmark**       | **Feature**                   |
+| **1**   | Enormous Footprint | Hollow                        |
+| **2**   | Dead Aqueduct      | Something Special Grows There |
+| **3**   | Petrified Forest   | Hides Something Powerful      |
+| **4**   | Giant's Throne     | Unchanging                    |
+| **5**   | Great Face         | Smaller than It Appears       |
+| **6**   | Fire Temple        | Popular With Cults            |
+| **7**   | Mirage Lake        | Unaffected by Weather         |
+| **8**   | Fallen Column      | Continually Humming           |
+| **9**   | Broken Sundial     | Part of a Series              |
+| **10**  | Massive Hole       | Visible from any Distance     |
+| **11**  | Heart Tree         | Collapsing                    |
+| **12**  | Ancient Maze       | Slowly Rotates                |
+| **13**  | Amber Den          | Untouched                     |
+| **14**  | Glittering Cascade | Toxic to its Surroundings     |
+| **15**  | Cloud Stairway     | Larger than it Appears        |
+| **16**  | Silver Face        | Wet, but not with Water       |
+| **17**  | Great Waterwheel   | Only Appears at Night         |
+| **18**  | Gate for Titans    | Has Always Been Here          |
+| **19**  | Golden Bridge      | Recently Appeared             |
+| **20**  | Crystal Spire      | Resplendent with Dead Things  |
+
+### Paths
+
+**Paths** act as geographic connectors on the map, ranging from well-traveled roads to rough wilderness routes. Paths should provide compelling choices between POIs, who must weigh factors such as safety, speed, and travel difficulty. 
+
+#### Path Types
+
+- **Standard** paths are obvious or well-trod routes between two POIs. _Represented by a thick line._
+- **Hidden** paths do not appear on any known maps. Their discovery always requires some kind of cost. _Represented by a dashed line._
+- **Conditional** paths may be blocked, or requires specialized tools (boats, climbing gear, etc.) to cross. Others may even be impossible to navigate without a map or guide. _Represented by a crossed line._
+
+#### Draw Paths
+
+- Starting with the Heart, create 1-4 paths between each location. Create loops, branching paths, dead-ends, and shortcuts between POIs.
+- Decide whether each path represents a road, a trail, or a wilderness route and note that on the map. 
+- Roll on the [Path Features](#path-features) table for each path, writing the results in your notebook. 
+  - Some paths may be parts of a chain and tied to a particular terrain (mountain passes, rivers, etc.).
+  - Some paths are Conditional, represented by a crossed line.
+  - Some paths are Hidden, represented by a dashed line.
+- Determine the path distances and note the time on the map:
+  - POIs a short distance apart take one Watch to traverse, a medium distance apart take two Watches, and a long distance apart take three Watches. 
+  - For Trails add 1 more Watch, and for Wilderness routes add 2 additional Watches.
+  - A Watch is 8 hours long. Denote days between POIs wherever possible (typically two Watches and one rest per day of travel).
+
+#### Path Features
+
+Roll 2d20 and combine the results.
+
+|         |                       |                              |
+| ------- | --------------------- | ---------------------------- |
+| **d20** | **Feature**           | **Condition**                |
+| **1**   | Blood-red             | Blocked by Giant Boulder     |
+| **2**   | Smells of Smoke       | Uneven, Soggy Ground         |
+| **3**   | Twisted               | Steep Climb                  |
+| **4**   | Massive Grooves       | Poisonous Fruit              |
+| **5**   | Buried Charms         | Thick Evening Mist           |
+| **6**   | Mile Markers          | Occasional Stampedes         |
+| **7**   | Follows the Stars     | Erratic Weather              |
+| **8**   | Abandoned Fields      | Night Predators              |
+| **9**   | Cattle Prints         | Heavy Toll Required          |
+| **10**  | Mineral Flecks        | Labyrinthine Canyons         |
+| **11**  | Shriveled Away        | Smoke-filled                 |
+| **12**  | Overgrown             | Frequent Flash Floods        |
+| **13**  | Ubiquitous Footprints | Collapsed Bridge             |
+| **14**  | Dead Vegetation       | Bandit Ambushes              |
+| **15**  | Rusted Tools          | Dense Bramble                |
+| **16**  | Diseased Animals      | Passed Over Rapids           |
+| **17**  | Newly Made            | Gets Extremely Cold          |
+| **18**  | Frequent Pilgrims     | Divided by Political Dispute |
+| **19**  | Disappearing          | Overcrowded                  |
+| **20**  | Constant Patrols      | Confusing to Navigate        |
+
 ## Conclusion
 
-Once you've gathered the results of these tables, combine them in order to create a cohesive theme for this region. For example, if I rolled a region covered in plains and surrounded by rivers, I might assume that the locals here were tradespeople, selling their wares to the neighbors downriver. If I rolled that the people there were religious and sought conversion, I'd assume they were a proud folk, but prone to religious extremes and proselytizing. And if their primary resources were land, I'd assume they grew their own food, but that their traders were always on the search for spices from distant lands.
+Your realm is now...
+
+[ add concluding words ]
 
 > - Everything beyond this point is just for reference; we'll have a separate naming chapter I think. Still, might be helpful.
 > - You can follow the [Factions](/wip/2e/factions.md) rules for generating Factions to populate your map, and the [Dungeons] or [Forestcrawl](/wip/2e/forestcrawl.md) rules to build each of your POIs. 
@@ -397,7 +548,7 @@ Once you've gathered the results of these tables, combine them in order to creat
 ### Generating Names
 
 - Starting with the **Heart**, roll on the [Names Formula](#names-formula) table to name each POI on the map.
-- Use both the region's dominant terrain as well as the specific POI details where appropriate. 
+- Use both the realm's dominant terrain as well as the specific POI details where appropriate. 
 - Roll on the [Adjectives](#adjectives) and [Nouns](#nouns) table, and consult the [Terrain Synonyms](#terrain-synonyms) table for inspiration. 
 - Refer to the [Example Names](#example-names) for a model of each table result. 
 - [**Proper Nouns**] can be added to or even replace parts of a name, e.g. **Bruna's Ugly Gulch**. 
