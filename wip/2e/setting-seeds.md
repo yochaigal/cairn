@@ -417,7 +417,7 @@ Roll 2d20 and combine the results.
 
 ### Topography
 
-- Draw wide curves around clumps of 2-4 POIs, dividing the map into at least two "bands" of terrain. 
+- Draw a line around 2-4 POIs, dividing the map into at least two "bands," or sections. 
 - Roll on the [Terrain](#terrain) table below for each band, noting the results in the map.
 
 > As with any other table, if you don't like the result, roll again or tweak as desired!
@@ -428,7 +428,7 @@ Roll 2d20 and combine the results.
 
 |         |             |                   |
 | ------- | ----------- | ----------------- |
-| **d20** | **Terrain** | **Terrain**       |
+| **d20** | **Terrain** | **Features**      |
 | **1**   | Canyons     | Acid Rain         |
 | **2**   | Caverns     | Natural Bridges   |
 | **3**   | Cliffs      | Venomous Insects  |
@@ -441,7 +441,7 @@ Roll 2d20 and combine the results.
 | **10**  | Jungles     | Earthquakes       |
 | **11**  | Lakes       | Dust Storms       |
 | **12**  | Mountains   | Lava Fields       |
-| **13**  | Meadows     | Drought           |
+| **13**  | Meadows     | Volcanoes         |
 | **14**  | Plateaus    | Ice Fields        |
 | **15**  | Rivers      | Dense Fog         |
 | **16**  | Sea         | Sinkholes         |
