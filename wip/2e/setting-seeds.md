@@ -17,8 +17,6 @@ The following procedure is designed to help create the _seed_ of a setting: the 
 
 Before you begin please check out this example (click on it):
 
-[![Alt text](/img/2e/setting-seed-example.webp "Click to embiggen"){:height="40%" width="40%"}](/img/2e/setting-seed-example.webp)
-
 [ update this image ]
 
 ## The Realm
@@ -31,7 +29,7 @@ A **Realm** is a general term for the combination of terrain, political boundari
 - Pencils and erasers.
 - At least one d6 and one d20, but 6d6 and 2d20 would be ideal.
 
-Going forward, we will refer to the sheet of paper as **the map**.
+Going forward, we will refer to the sheet of paper as the **map**.
 
 ## Theme
 
