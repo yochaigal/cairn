@@ -33,13 +33,15 @@ A **Realm** is a general term for the combination of terrain, political boundari
 
 Going forward, we will refer to the sheet of paper as **the map**.
 
-## Topography
+## Theme
+
+### Topography
 
 - Roll on the [Terrain](#terrain) and [Special Features](#special-features) tables below to determine the realm's default terrain. Write these in your notebook.
 
 > As with any other table, if you don't like the result, roll again or tweak as desired!
 
-### Terrain
+#### Terrain
 
 Roll 2d20 and combine the results.
 
@@ -67,7 +69,7 @@ Roll 2d20 and combine the results.
 | **19**  | Sea         | Mud         |
 | **20**  | Swamps      | Pastures    |
 
-### Special Features
+#### Special Features
 
 Roll 2d20 and combine the results.
 
@@ -95,7 +97,7 @@ Roll 2d20 and combine the results.
 | **19**  | Flash Floods        |     |
 | **20**  | Bioluminescent Bays |     |
 
-## People
+### People
 
 The most important aspect of a realm are its _people_: their character, ambitions, and the resources that tie them to this land. Roll on the [Culture](#culture) and [Resources](#resources) tables, then answer the following:
 - How do the people that live here perceive themselves, and how others perceive them?
@@ -104,7 +106,7 @@ The most important aspect of a realm are its _people_: their character, ambition
 
 Note the results in your notebook.    
 
-### Culture
+#### Culture
 
 Roll 2d20 and combine the results.
 
@@ -132,7 +134,7 @@ Roll 2d20 and combine the results.
 | **19**  | Curious       | Conversion      |
 | **20**  | Resilient     | Return          |
 
-### Resources
+#### Resources
 
 Roll 2d20 and combine the results.
 
@@ -160,7 +162,7 @@ Roll 2d20 and combine the results.
 | **19**  | Textiles      | Vessels       |
 | **20**  | Weapons       | Fuel          |
 
-## Factions
+### Factions
 
 A Realm is dominated by one or more Factions, each with its own unique advantages, goals, and obstacles. Roll 1-4 times on [Faction Types](#faction-types), [Faction Agendas](#faction-agendas) and [Seneschals](#seneschals) tables, then answer the following for each Faction:
 - What power do they have over the people who live here?
@@ -170,7 +172,7 @@ A Realm is dominated by one or more Factions, each with its own unique advantage
 
 Note the results in your notebook.
 
-### Faction Types
+#### Faction Types
 
 Roll 2d20 and combine the results.
 
@@ -198,7 +200,7 @@ Roll 2d20 and combine the results.
 | **19**  | Traders         | Subterfuge     |
 | **20**  | Tribal          | Wealth         |
 
-### Faction Agendas
+#### Faction Agendas
 
 Roll 2d20 and combine the results.
 
@@ -226,7 +228,7 @@ Roll 2d20 and combine the results.
 | **19**  | Seek New Leadership       | An internal schism threatens to tear the Faction apart. |
 | **20**  | Spread a Belief           | A geographic barrier or impassable terrain.             |
 
-### Seneschals
+#### Seneschals
 
 Roll 2d20 and combine the results.
 
@@ -254,21 +256,23 @@ Roll 2d20 and combine the results.
 | **19**  | Thieves        |             |
 | **20**  | Thugs          |             |
 
- ### Theme
+## Put it all Together
 
- You should now have a sufficient idea about the people of this realm, including their character, ambitions, resources, and Faction details, and are finally ready to form these results into a coherent theme. 
- 
- For example, if I rolled up a realm covered in plains and surrounded by rivers, I might assume that the locals here were tradespeople, selling their wares to the neighbors downriver. If their land was prone to dust storms, I may decide that the people are hardy, and probably wear clothing appropriate to a dust bowl setting.
- 
- If I rolled that the people there were religious and sought conversion, I'd assume they were a proud folk, but prone to religious extremes and proselytizing. And if their primary resources were land, yet spices were rare, I'd assume they grew their own food, but that due to a religious prohibition their cuisine was often bland.
+You should now have a sufficient idea about the people of this realm, including their character, ambitions, resources, and Faction details, and are finally ready to form these results into a coherent theme. 
 
- Presume that I also rolled up a ruling Faction of Nomads, whose primary Advantage was their conviction, I would assume the elites were a class of religious chiefs. If the Faction's Agenda was to cultivate a rare resource, but that they were hindered by cultural taboos, I might decide that they had hired the party to take on the task. Perhaps the object of their quest was a unique plant, only grown in a distant place, and that the mission must remain a secret? 
+For example, if I rolled up a realm covered in plains and surrounded by rivers, I might assume that the locals here were tradespeople, selling their wares to the neighbors downriver. If their land was prone to dust storms, I may decide that the people are hardy, and probably wear clothing appropriate to a dust bowl setting.
+
+If I rolled that the people there were religious and sought conversion, I'd assume they were a proud folk, but prone to religious extremes and proselytizing. And if their primary resources were land, yet spices were rare, I'd assume they grew their own food, but that due to a religious prohibition their cuisine was often bland.
+
+Presume that I also rolled up a ruling Faction of Nomads, whose primary Advantage was their conviction, I would assume the elites were a class of religious chiefs. If the Faction's Agenda was to cultivate a rare resource, but that they were hindered by cultural taboos, I might decide that they had hired the party to take on the task. Perhaps the object of their quest was a unique plant, only grown in a distant place, and that the mission must remain a secret? 
  
- Finally, the party would meet with one of the Faction's Seneschals, a spy posing as a Peddler. Only he could tell them where the plant grew, and how to cultivate it.
+Finally, the party would meet with one of the Faction's Seneschals, a spy posing as a Peddler. Only he could tell them where the plant grew, and how to cultivate it.
 
 ## Draw the Map
 
 ### Add Terrain
+
+[ ToDo ]
 
 ### Points of Interest
 
@@ -491,14 +495,16 @@ Roll 2d20 and combine the results.
 
 #### Draw Paths
 
-- Starting with the Heart, create 1-4 paths between each location. Create loops, branching paths, dead-ends, and shortcuts between POIs.
-- Decide whether each path represents a road, a trail, or a wilderness route and note that on the map. 
-- Roll on the [Path Features](#path-features) table for each path, writing the results in your notebook. 
+- Starting with the Heart, create 1-4 paths between each location. 
+  - Create loops, branching paths, dead-ends, and shortcuts between POIs.
+- Decide whether each path represents a road, a trail, or a wilderness route and note it on the map. 
   - Some paths may be parts of a chain and tied to a particular terrain (mountain passes, rivers, etc.).
   - Some paths are Conditional, represented by a crossed line.
   - Some paths are Hidden, represented by a dashed line.
-- Determine the path distances and note the time on the map:
-  - POIs a short distance apart take one Watch to traverse, a medium distance apart take two Watches, and a long distance apart take three Watches. 
+- Designate each path in your notebook using the number of a POI and its connecting point, e.g. 1 &harr; 3.  
+- Roll on the [Path Features](#path-features) table for each path, writing the results in your notebook. 
+- Determine the path distances between POIs and note the duration on the map:
+  - A short distance between POIs takes one Watch to traverse, a medium distance takes two Watches, and a long distance takes three Watches. 
   - For Trails add 1 more Watch, and for Wilderness routes add 2 additional Watches.
   - A Watch is 8 hours long. Denote days between POIs wherever possible (typically two Watches and one rest per day of travel).
 
