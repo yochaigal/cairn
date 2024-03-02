@@ -772,3 +772,28 @@ Add the table results to the map around the POI.
 | **18**  | Rapids               |     |
 | **19**  | Extreme Cold         |     |
 | **20**  | Political Dispute    |     |
+
+
+|         |             |             |
+| ------- | ----------- | ----------- |
+| **d20** | **Terrain** | **Terrain** |
+| **1**   | Mountains   | Valleys     |
+| **2**   | Caverns     | Ravine      |
+| **3**   | Springs     | Scrubland   |
+| **4**   | Plains      | Savannas    |
+| **5**   | Canyons     | Fjords      |
+| **6**   | Glaciers    | Bogs        |
+| **7**   | Plateaus    | Thickets    |
+| **8**   | Forests     | Beaches     |
+| **9**   | Farmlands   | Boulders    |
+| **10**  | Lakes       | Craters     |
+| **11**  | Tundra      | Islands     |
+| **12**  | Deserts     | Meadows     |
+| **13**  | Hills       |             |
+| **14**  | Cliffs      | Wetlands    |
+| **15**  | Jungles     | Salt Flats  |
+| **16**  | Grasslands  | Hollows     |
+| **17**  | Rivers      | Dunes       |
+| **18**  | Wasteland   | Quagmire    |
+| **19**  | Sea         | Ice Caves   |
+| **20**  | Swamps      | Pastures    |

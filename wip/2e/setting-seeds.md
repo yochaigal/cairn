@@ -33,68 +33,6 @@ A **Realm** is a general term for the combination of terrain, political boundari
 
 ## Theme
 
-### Topography
-
-- Roll on the [Terrain](#terrain) and [Special Features](#special-features) tables below to determine the realm's default terrain. Write the results in your notebook.
-
-> As with any other table, if you don't like the result, roll again or tweak as desired!
-
-#### Terrain
-
-Roll 2d20 and combine the results.
-
-|         |             |             |
-| ------- | ----------- | ----------- |
-| **d20** | **Terrain** | **Terrain** |
-| **1**   | Mountains   | Valleys     |
-| **2**   | Caverns     | Lava Fields |
-| **3**   | Oasis       | Scrubland   |
-| **4**   | Plains      | Savannas    |
-| **5**   | Canyons     | Fjords      |
-| **6**   | Glaciers    | Bogs        |
-| **7**   | Plateaus    | Thickets    |
-| **8**   | Forests     | Beaches     |
-| **9**   | Farmlands   | Dunes       |
-| **10**  | Lakes       | Craters     |
-| **11**  | Tundra      | Mangroves   |
-| **12**  | Deserts     | Dolines     |
-| **13**  | Hills       | Volcanoes   |
-| **14**  | Cliffs      | Wetlands    |
-| **15**  | Jungles     | Salt Flats  |
-| **16**  | Grasslands  | Hollows     |
-| **17**  | Rivers      | Rocky       |
-| **18**  | Wasteland   | Ice Fields  |
-| **19**  | Sea         | Mud         |
-| **20**  | Swamps      | Pastures    |
-
-#### Special Features
-
-Roll 2d20 and combine the results.
-
-|         |                     |     |
-| ------- | ------------------- | --- |
-| **d20** | **Feature**         |     |
-| **1**   | Acid Rain           |     |
-| **2**   | Natural Bridges     |     |
-| **3**   | Venomous Insects    |     |
-| **4**   | Tidal Flats         |     |
-| **5**   | Thermal Vents       |     |
-| **6**   | Poisonous Foliage   |     |
-| **7**   | Glacial Melt        |     |
-| **8**   | Toxic Water         |     |
-| **9**   | Crystal Growths     |     |
-| **10**  | Earthquakes         |     |
-| **11**  | Dust Storms         |     |
-| **12**  | Lava Fields         |     |
-| **13**  | Drought             |     |
-| **14**  | Ice Caves           |     |
-| **15**  | Dense Fog           |     |
-| **16**  | Sinkholes           |     |
-| **17**  | Weak Ground         |     |
-| **18**  | Wildfires           |     |
-| **19**  | Flash Floods        |     |
-| **20**  | Bioluminescent Bays |     |
-
 ### People
 
 The most important aspect of a realm are its _people_: their character, ambitions, and the resources that tie them to this land. Roll on the [Culture](#culture) and [Resources](#resources) tables, then answer the following:
@@ -477,10 +415,41 @@ Roll 2d20 and combine the results.
 | **19**  | Golden Bridge      | Recently Appeared             |
 | **20**  | Crystal Spire      | Resplendent with Dead Things  |
 
-### Add Terrain
-  
-- Draw wide curves around clumps of 2-4 POIs, dividing the map into multiple "bands" of terrain. 
-- Refer to the terrain results you rolled earlier, noting a different terrain type for each band.  
+### Topography
+
+- Draw wide curves around clumps of 2-4 POIs, dividing the map into at least two "bands" of terrain. 
+- Roll on the [Terrain](#terrain) table below for each band, noting the results in the map.
+
+> As with any other table, if you don't like the result, roll again or tweak as desired!
+
+#### Terrain
+
+Roll 2d20 and combine the results.
+
+|         |             |                   |
+| ------- | ----------- | ----------------- |
+| **d20** | **Terrain** | **Terrain**       |
+| **1**   | Canyons     | Acid Rain         |
+| **2**   | Caverns     | Natural Bridges   |
+| **3**   | Cliffs      | Venomous Insects  |
+| **4**   | Deserts     | Tidal Flats       |
+| **5**   | Wetlands    | Thermal Vents     |
+| **6**   | Forests     | Poisonous Foliage |
+| **7**   | Glaciers    | Glacial Melt      |
+| **8**   | Grasslands  | Toxic Water       |
+| **9**   | Hills       | Crystal Growths   |
+| **10**  | Jungles     | Earthquakes       |
+| **11**  | Lakes       | Dust Storms       |
+| **12**  | Mountains   | Lava Fields       |
+| **13**  | Meadows     | Drought           |
+| **14**  | Plateaus    | Ice Fields        |
+| **15**  | Rivers      | Dense Fog         |
+| **16**  | Sea         | Sinkholes         |
+| **17**  | Valleys     | Weak Ground       |
+| **18**  | Swamps      | Wildfires         |
+| **19**  | Tundra      | Flash Floods      |
+| **20**  | Wasteland   | Salt Flats        |
+
 
 ### Paths
 
@@ -700,7 +669,7 @@ Your realm is now complete...
 | **Terrain**    | **Synonym**                                             |
 | **beaches**    | seaside, shore, coast, seaboard, foreshore, marina      |
 | **bogs**       | marsh, sump, mire, quad, morass, slough, fens           |
-| **canyons**    | ravine, gorge, gully, chasm, abyss, gulf, gulch         |
+| **canyons**    | ravine, gully, chasm, abyss, gulf, gulch                |
 | **caverns**    | grottoes, cavity, tunnels, dugout, caves                |
 | **cliffs**     | precipice, face, crag, bluff, ridge, escarpment, steep  |
 | **desert**     | dunes, sands, vasts, wastes, blight, erg                |
