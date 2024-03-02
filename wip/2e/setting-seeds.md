@@ -11,7 +11,7 @@ search_exclude: true
 
 ## Overview
 
-The following procedure is designed to help create the _seed_ of a setting: the unique topography, natural features, people, and paths that an adventuring party may have to navigate as they travel throughout a region. We'll start by develop the people that live their, their ambitions and resources, and the factions that rule them. Then we'll draw a map of the realm, noting its points of interest, landmarks, roads, trails, and so on. 
+The following procedure is designed to help create the _seed_ of a setting: the unique topography, natural features, people, and paths that an adventuring party may have to navigate as they travel throughout a region. We'll start by develop the people that live their, their ambitions and resources, and the factions that rule them. Then we'll draw a map of a single region, noting its points of interest, landmarks, roads, trails, and so on.
 
 ## Example
 
@@ -21,7 +21,7 @@ Before you begin please check out this example (click on it):
 
 ## The Realm
 
-A **Realm** is a general term for the combination of terrain, political boundaries, and people that live in a particular place. This term can also refer to the overall "theme" of your setting, as well as the sorts of adventures the player characters will get up to. Realms are defined by the culture of the people that live there, their ambitions, their resources, and the Factions that rule them.
+A **Realm** is a general term for the combination of terrain, political boundaries, and people that live in a particular place. This term can also refer to the overall "theme" of your setting, as well as the sorts of adventures the player characters will get up to. Realms are defined by the culture of the people that live there, their ambitions, their resources, and the Factions that rule them. Each realm is made up of four or more regions, connected through the overarching theme.
 
 ### Materials Required
 
@@ -37,8 +37,6 @@ A **Realm** is a general term for the combination of terrain, political boundari
 
 The most important aspect of a realm are its _people_: their character, ambitions, and the resources that tie them to this land. Roll on the [Culture](#culture) and [Resources](#resources) tables, then answer the following:
 - How do the people that live here perceive themselves, and how others perceive them?
-- How does the Realm's dominant terrain effect the people that live here? 
-- What would draw people here? What would keep them here?
 
 Note the results in your notebook.    
 
@@ -100,7 +98,7 @@ Roll 2d20 and combine the results.
 
 ### Factions
 
-A Realm is dominated by one or more Factions, each with its own unique advantages, goals, and obstacles. They each should have one or more representatives, or **Seneschals**, tasked with helping complete a Faction's Agenda.
+Each region is dominated by one or more Factions, each with its own unique advantages, goals, and obstacles. They each should have one or more representatives, or **Seneschals**, tasked with helping complete a Faction's Agenda.
 
 > Often **Seneschals** will have personal motivations that differ from the Faction's main **Agenda**, a fact that canny PCs can exploit for their own gain.
 
@@ -196,13 +194,9 @@ Roll 2d20 and combine the results.
 | **19**  | Thieves       | Tenacious   |
 | **20**  | Thugs         | Tranquil    |
 
-
-
-
-
 ## Put it all Together
 
-You should now have a sufficient idea about the people of this realm, including their character, ambitions, resources, and Faction details, and are finally ready to form these results into a coherent theme. 
+You should now have a sufficient idea about the people of this Realm, including their character, ambitions, resources, and Faction details, and are finally ready to form these results into a coherent theme. 
 
 For example, if I rolled up a people that were there religious and sought conversion, I'd assume they were a proud folk, but prone to religious extremes and proselytizing. And if their primary resources were land, yet spices were rare, I'd assume they grew their own food, but that due to a religious prohibition their cuisine was often bland.
 
@@ -210,7 +204,7 @@ Presume that I also rolled up a ruling Faction of Nomads, whose primary Advantag
  
 Finally, the party would meet with one of the Faction's Seneschals, a spy posing as a Peddler. Only he could tell them where the plant grew, and how to cultivate it.
 
-## Draw the Map
+## Draw the Region
 
 ### Points of Interest
 
@@ -223,7 +217,7 @@ Points of Interest on a map (or POIs) are generally divided into the following c
 
 #### The Heart
 
-The focal point of a realm is called the **Heart**, or primary settlement. It isn't necessarily the largest or most important place in the realm, but it should always be significant to the realm's history and people.
+The focal point of a region is called the **Heart**, or primary settlement. It isn't necessarily the largest or most important place in the land, but it should always be significant to the region's history and people.
 
 #### Create POIs
 
@@ -426,6 +420,11 @@ Roll 2d20 and combine the results.
 - Draw a line around groups of 2-6 POIs, dividing the map into at least two "bands," or sections. 
 - Roll on the [Terrain](#terrain) table below for each band, noting the results in the map.
 
+Answer the following questions:
+- How does the region's dominant terrain effect the people that live here? 
+- What would draw people here? What would keep them here?
+
+
 > As with any other table, if you don't like the result, roll again or tweak as desired!
 
 #### Terrain
@@ -511,12 +510,9 @@ Roll 2d20 and combine the results.
 
 ## Conclusion
 
-Your realm is now complete...
+Your first region is now complete. You may repeat the process as many times as you wish, starting with [Draw the Region](#draw-the-region) and connecting each region to taste.
 
-[ add concluding words ]
-
-> - Everything beyond this point is just for reference; we'll have a separate naming chapter I think. Still, might be helpful.
-> - You can follow the [Factions](/wip/2e/factions.md) rules for generating Factions to populate your map, and the [Dungeons] or [Forestcrawl](/wip/2e/forestcrawl.md) rules to build each of your POIs. 
+> Everything beyond this point is just for reference; we'll have a separate naming chapter I think. Still, might be helpful.
 
 ## On Names 
 
@@ -527,7 +523,7 @@ Your realm is now complete...
 ### Generating Names
 
 - Starting with the **Heart**, roll on the [Names Formula](#names-formula) table to name each POI on the map.
-- Use both the realm's dominant terrain as well as the specific POI details where appropriate. 
+- Use both the region's local terrain as well as the specific POI details where appropriate. 
 - Roll on the [Adjectives](#adjectives) and [Nouns](#nouns) table, and consult the [Terrain Synonyms](#terrain-synonyms) table for inspiration. 
 - Refer to the [Example Names](#example-names) for a model of each table result. 
 - [**Proper Nouns**] can be added to or even replace parts of a name, e.g. **Bruna's Ugly Gulch**. 
