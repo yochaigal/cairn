@@ -219,12 +219,12 @@ The focal point of a region is called the **Heart**, or primary settlement. It i
 
 #### Create POIs
 
-- Draw the letter **H** anywhere on the map, or roll a d6 and mark where it lands. 
+- Draw the letter **H** anywhere on the map, or roll a d6 and mark where it lands. Ignore the face-up result. 
 - Roll 6d6 on the map, collecting any dice that roll off the page and setting them aside. These are the maps's Points of Interest.
 - Remove each die, noting the face up result according to the [Die Drop Table](#die-drop-table) on the page. For example, the number 4 would indicate a Lair, denoted by the letter "L" on the page. 
 - Roll any dice that fell off the map page, repeating the previous process until no dice are remaining.
+- Starting with the Heart, number each POI on the map.
 - Roll on the relevant tables for each POI, including the Heart. Note the results for each in your notebook.
-- Number each POI, both on the map and in your notebook.
 
 > Some POIs may allow the PCs to see more of the world than what appears on their map.
 
@@ -342,7 +342,7 @@ Roll 2d20 and combine the results.
 | **11**  | Collapsed Mine      | Something Sleeps    |
 | **12**  | Enormous Stump      | Odd Machinery       |
 | **13**  | Overgrown Garden    | Scattered Traps     |
-| **14**  | Primeval Menhirs    | Scavengers Watch    |
+| **14**  | Primeval Menhirs    | Scavengers Prowl    |
 | **15**  | Primitive Bridge    | Symbiotic Entity    |
 | **16**  | Rotted Mill         | Hidden Exit         |
 | **17**  | Rusted Construct    | Baited Entrance     |
@@ -380,9 +380,9 @@ Roll 2d20 and combine the results.
 
 #### Landmarks
 
-**Landmarks** are unique, visible POIs that can also be used as geographic reference points: towers, mountains, tall buildings, and so on. They help orient travelers around the map, and are _especially_ visible from areas with higher elevation or a clear viewpoint.
+**Landmarks** are unique, visible POIs that can also be used as geographic reference points: towers, mountains, tall buildings, and so on. They help orient travelers around the map, and are _especially_ visible from areas with higher elevation or a clear viewpoint. Landmarks are _represented on the map by a triangle_.
 
-- To create Landmarks, roll 3d6 dice on the map, ignoring the face-up result, writing the result as a triangle.
+- To create Landmarks, roll 3d6 dice on the map, ignoring the face-up result. Draw a triangle on the map for each. Ignore any dice that fell off the page.
 - Number each Landmark on the map, then roll on the [Landmark Features](#landmark-features) table, noting the results in your notebook.
 
 #### Landmark Features
@@ -415,12 +415,12 @@ Roll 2d20 and combine the results.
 
 ### Topography
 
-- Draw a line around groups of 2-6 POIs, dividing the map into at least two "bands," or sections. 
-- Roll on the [Terrain](#terrain) table below for each band, noting the results in the map.
+- Draw a line around groups of 2-6 POIs, dividing the map into at least two sections. 
+- Roll on the [Terrain](#terrain) table below for each section, noting the results in the map.
 
 Answer the following questions:
-- How does the region's dominant terrain effect the people that live here? 
-- What would draw people here? What would keep them here?
+- How does the region's terrain effect the people that live here? 
+- What would draw people to this region? What keeps them there?
 
 #### Terrain
 
