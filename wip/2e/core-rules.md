@@ -83,7 +83,7 @@ On their turn, a character may move up to 40ft and take up to one action. This m
 
 - The attacker rolls their weapon die and subtracts the target's armor, then deals the remaining total to their opponent's HP. Attacks in combat automatically hit.
 - If multiple attackers target the same foe, roll all damage dice and keep the single highest result. All actions are declared before being resolved.
-- If an attack would take a PC's HP exactly to 0, refer to to the [Scars](#scars-table) table to see how they are uniquely impacted.
+- If an attack would take a PC's HP exactly to 0, refer to the [Scars](#scars-table) table to see how they are uniquely impacted.
 
 ### Attack Modifiers
 
@@ -99,8 +99,8 @@ On their turn, a character may move up to 40ft and take up to one action. This m
 
 ### Attribute Loss
 
-- If a PC would take damage outside of combat, they would instead take damage to an Attribute instead (typically STR).
-- If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their WIL is reduced to 0, they are delirious. Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.  
+- If a PC takes damage outside of combat, they should instead receive damage to an Attribute, typically STR.
+- If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their WIL is reduced to 0, they are delirious. Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.
 
 ### Character Death
 

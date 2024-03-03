@@ -797,3 +797,121 @@ Add the table results to the map around the POI.
 | **18**  | Wasteland   | Quagmire    |
 | **19**  | Sea         | Ice Caves   |
 | **20**  | Swamps      | Pastures    |
+
+
+
+### 1. **Wasteland**
+- Deserts
+- Salt Flats
+- Dunes
+- Quagmire
+- Barrens
+- Badlands
+- Lava Fields
+- Ash Fields
+- Dust Bowls
+- Rock Fields
+- Gravel Plains
+- Dry Riverbeds
+- Salt Marshes
+- Deadlands
+
+### 2. **Ice**
+- Glaciers
+- Tundra
+- Ice Caves
+- Snowfields
+- Permafrost
+- Frost Lands
+- Icebergs
+- Frozen Lakes
+- Ice Flats
+- Glacier Valleys
+- Polar Coasts
+- Frostbite Fields
+- Hailstone Plains
+- Icy Tundras
+- Snow Drifts
+- Frozen Rivers
+- Blizzard Zones
+- Ice Sheets
+- Sleet Hills
+
+### 3. **Trees**
+- Forests
+- Thickets
+- Jungles
+- Meadows
+- Woodlands
+- Rainforests
+- Groves
+- Coppices
+- Deciduous Forests
+- Coniferous Forests
+- Tropical Forests
+- Mangroves
+- Orchards
+
+### 4. **Mountains**
+- Mountains
+- Valleys
+- Plateaus
+- Canyons
+- Cliffs
+- Hills
+- Ravine
+- Boulders
+- Craters
+- Gorges
+- Escarpments
+- Highlands
+- Mountain Ranges
+- Rocky Outcrops
+- Volcanoes
+- Foothills
+- Alpines
+- Mesa
+
+### 5. **Plains**
+- Plains
+- Savannas
+- Grasslands
+- Farmlands
+- Pastures
+- Scrubland
+- Steppes
+- Prairies
+- Tundras
+- Meadows
+- Cultivated Lands
+- Open Fields
+- Moors
+- Heathlands
+- Pampas
+- Lowlands
+- Flatlands
+- Crop Fields
+- Terraced Fields
+- Rolling Plains
+
+### 6. **Water**
+- Lakes
+- Rivers
+- Sea
+- Swamps
+- Bogs
+- Fjords
+- Beaches
+- Springs
+- Islands
+- Wetlands
+- Creeks
+- Estuaries
+- Lagoons
+- Marshes
+- Oceans
+- Waterfalls
+- Streams
+- Gulfs
+- Bays
+- Coral Reefs
