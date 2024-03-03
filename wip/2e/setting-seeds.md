@@ -192,6 +192,48 @@ Roll 2d20 and combine the results.
 | **19**  | Thieves       | Tenacious   |
 | **20**  | Thugs         | Tranquil    |
 
+### Topography
+
+A region's terrain and natural features are an essential part of any map, affecting the local history, resources, settlements, culture, and more. 
+
+To determine the terrain of your region: 
+- Draw a curved line across the page
+- Draw another line that cuts it off
+- Optionally, draw another line 
+- Roll on the [Terrain](#terrain) table below for each section, noting the results in the map.
+
+Then answer the following questions:
+- How does the region's terrain effect the people that live here? 
+- What would draw people to this region? What keeps them there?
+
+#### Terrain
+
+Roll 2d20 and combine the results.
+
+|         |             |                   |
+| ------- | ----------- | ----------------- |
+| **d20** | **Terrain** | **Features**      |
+| **1**   | Canyons     | Acid Rain         |
+| **2**   | Caverns     | Natural Bridges   |
+| **3**   | Cliffs      | Venomous Insects  |
+| **4**   | Deserts     | Tidal Flats       |
+| **5**   | Wetlands    | Thermal Vents     |
+| **6**   | Forests     | Poisonous Foliage |
+| **7**   | Glaciers    | Glacial Melt      |
+| **8**   | Grasslands  | Toxic Water       |
+| **9**   | Hills       | Crystal Growths   |
+| **10**  | Jungles     | Earthquakes       |
+| **11**  | Lakes       | Dust Storms       |
+| **12**  | Mountains   | Lava Fields       |
+| **13**  | Meadows     | Volcanoes         |
+| **14**  | Plateaus    | Ice Fields        |
+| **15**  | Rivers      | Dense Fog         |
+| **16**  | Sea         | Sinkholes         |
+| **17**  | Valleys     | Weak Ground       |
+| **18**  | Swamps      | Wildfires         |
+| **19**  | Tundra      | Flash Floods      |
+| **20**  | Wasteland   | Salt Flats        |
+
 ## Put it all Together
 
 You should now have a sufficient idea about the people of this Realm, including their character, ambitions, resources, and Faction details, and are finally ready to form these results into a coherent theme. 
@@ -412,43 +454,6 @@ Roll 2d20 and combine the results.
 | **18**  | Gate for Titans    | Has Always Been Here          |
 | **19**  | Golden Bridge      | Recently Appeared             |
 | **20**  | Crystal Spire      | Resplendent with Dead Things  |
-
-### Topography
-
-- Draw a line around groups of 2-6 POIs, dividing the map into at least two sections. 
-- Roll on the [Terrain](#terrain) table below for each section, noting the results in the map.
-
-Answer the following questions:
-- How does the region's terrain effect the people that live here? 
-- What would draw people to this region? What keeps them there?
-
-#### Terrain
-
-Roll 2d20 and combine the results.
-
-|         |             |                   |
-| ------- | ----------- | ----------------- |
-| **d20** | **Terrain** | **Features**      |
-| **1**   | Canyons     | Acid Rain         |
-| **2**   | Caverns     | Natural Bridges   |
-| **3**   | Cliffs      | Venomous Insects  |
-| **4**   | Deserts     | Tidal Flats       |
-| **5**   | Wetlands    | Thermal Vents     |
-| **6**   | Forests     | Poisonous Foliage |
-| **7**   | Glaciers    | Glacial Melt      |
-| **8**   | Grasslands  | Toxic Water       |
-| **9**   | Hills       | Crystal Growths   |
-| **10**  | Jungles     | Earthquakes       |
-| **11**  | Lakes       | Dust Storms       |
-| **12**  | Mountains   | Lava Fields       |
-| **13**  | Meadows     | Volcanoes         |
-| **14**  | Plateaus    | Ice Fields        |
-| **15**  | Rivers      | Dense Fog         |
-| **16**  | Sea         | Sinkholes         |
-| **17**  | Valleys     | Weak Ground       |
-| **18**  | Swamps      | Wildfires         |
-| **19**  | Tundra      | Flash Floods      |
-| **20**  | Wasteland   | Salt Flats        |
 
 ### Paths
 

@@ -789,7 +789,7 @@ Add the table results to the map around the POI.
 | **10**  | Lakes       | Craters     |
 | **11**  | Tundra      | Islands     |
 | **12**  | Deserts     | Meadows     |
-| **13**  | Hills       |             |
+| **13**  | Hills       | Islands     |
 | **14**  | Cliffs      | Wetlands    |
 | **15**  | Jungles     | Salt Flats  |
 | **16**  | Grasslands  | Hollows     |
