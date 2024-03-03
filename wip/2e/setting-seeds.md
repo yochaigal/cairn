@@ -36,10 +36,7 @@ A **Realm** is a general term for the combination of terrain, political boundari
 
 ### People
 
-The most important aspect of a realm are its _people_: their character, ambitions, and the resources that tie them to this land. Roll on the [Culture](#culture) and [Resources](#resources) tables, then answer the following:
-- How do the people that live here perceive themselves, and how others perceive them?
-
-Note the results in your notebook.    
+The most important aspect of a realm are its _people_: their character, ambitions, and the resources that tie them to this land. Roll on the [Culture](#culture) and [Resources](#resources) tables, then note the results in your notebook.    
 
 #### Culture
 
