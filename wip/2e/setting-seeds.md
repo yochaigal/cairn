@@ -21,7 +21,7 @@ Before you begin please check out this example (click on it):
 
 ## The Realm
 
-A **Realm** is a general term for the combination of terrain, political boundaries, and people that live in a particular place. This term can also refer to the overall "theme" of your setting, as well as the sorts of adventures the player characters will get up to. Realms are defined by the culture of the people that live there, their ambitions, their resources, and the Factions that rule them. Each realm is made up of four or more regions, connected through the overarching theme.
+A **Realm** is a general term for the combination of regions, encompassing multiple maps and potentially hundreds of places for the characters to visit and interact with. Regions are defined by the culture of the people that live in its boundaries, their ambitions, their resources, and the Factions that rule them. 
 
 ### Materials Required
 
@@ -36,7 +36,7 @@ A **Realm** is a general term for the combination of terrain, political boundari
 
 ### People
 
-The most important aspect of a realm are its _people_: their character, ambitions, and the resources that tie them to this land. Roll on the [Culture](#culture) and [Resources](#resources) tables, then note the results in your notebook.    
+The most important aspect of a region are its _people_: their character, ambitions, and the resources that tie them to this land. Roll on the [Culture](#culture) and [Resources](#resources) tables, then note the results in your notebook.    
 
 #### Culture
 
@@ -197,9 +197,9 @@ Roll 2d20 and combine the results.
 A region's terrain and natural features are an essential part of any map, affecting the local history, resources, settlements, culture, and more. 
 
 To determine the terrain of your region: 
-- Draw a curved line across the page
-- Draw another line that cuts it off
-- Optionally, draw another line 
+- Draw a curved line across the page, from any side.
+- Stating from one side of the map, draw another line that intersects with the first.
+- Optionally, draw another line intersecting with the first or second lines.
 - Roll on the [Terrain](#terrain) table below for each section, noting the results in the map.
 
 Then answer the following questions:
