@@ -192,7 +192,7 @@ A region's terrain and natural features are an essential part of any map, affect
 
 - Roll **3d6**, collecting any dice that roll off the page and setting them aside.
 - Draw long, curvy lines across the page, carving up the map around each die. 
-- Remove each die, noting the face up result according to the [Terrain Die Drop Table](#terrain-die-drop-table) on the page. For example, the number 1 would indicate Elevated terrain, denoted by the letter "E" on the page. 
+- Remove each die, noting the face up result according to the [Terrain Die Drop Table](#terrain-die-drop-table) on the page. For example, the number 1 would indicate Easy terrain, denoted by the letter "E" on the page. 
 - Reroll any dice that rolled off the page and note the results on the map.
 - Roll on the relevant table below for each terrain type, noting the results in the map.
 
