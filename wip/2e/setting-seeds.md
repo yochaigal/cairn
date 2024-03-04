@@ -208,81 +208,83 @@ A region's terrain and natural features are an essential part of any map, affect
 
 ### Easy
 
-|         |             |
-| ------- | ----------- |
-| **d20** | **Terrain** |
-| **1**   | Plains      |
-| **2**   | Plateaus    |
-| **3**   | Grasslands  |
-| **4**   | Pastures    |
-| **5**   | Pampas      |
-| **6**   | Steppes     |
-| **7**   | Savannas    |
-| **8**   | Farmlands   |
-| **9**   | Meadows     |
-| **10**  | Valleys     |
-| **11**  | Glades      |
-| **12**  | Gardens     |
-| **13**  | Orchards    |
-| **14**  | Vineyards   |
-| **15**  | Groves      |
-| **16**  | Fields      |
-| **17**  | Prairies    |
-| **18**  | Dunes       |
-| **19**  | Beaches     |
-| **20**  | Riverbanks  |
+|         |             |              |
+| ------- | ----------- | ------------ |
+| **d20** | **Terrain** | **Features** |
+| **1**   | Plains      |              |
+| **2**   | Plateaus    |              |
+| **3**   | Grasslands  |              |
+| **4**   | Pastures    |              |
+| **5**   | Pampas      |              |
+| **6**   | Steppes     |              |
+| **7**   | Savannas    |              |
+| **8**   | Farmlands   |              |
+| **9**   | Meadows     |              |
+| **10**  | Valleys     |              |
+| **11**  | Moors       |              |
+| **12**  | Heaths      |              |
+| **13**  | Gulleys     |              |
+| **14**  | Bluffs      |              |
+| **15**  | Groves      |              |
+| **16**  | Fields      |              |
+| **17**  | Prairies    |              |
+| **18**  | Foothills   |              |
+| **19**  | Glens       |              |
+| **20**  | Fells       |              |
 
 ### Tough
 
-|         |                |
-| ------- | -------------- |
-| **d20** | **Terrain**    |
-| **1**   | Hills          |
-| **2**   | Forests        |
-| **3**   | Deserts        |
-| **4**   | Jungles        |
-| **5**   | Tundra         |
-| **6**   | Moorlands      |
-| **7**   | Heathlands     |
-| **8**   | Thickets       |
-| **9**   | Barrens        |
-| **10**  | Rainforests    |
-| **11**  | Taiga          |
-| **12**  | Mangroves      |
-| **13**  | Scrublands     |
-| **14**  | Woodlands      |
-| **15**  | Chaparral      |
-| **16**  | Coral Reefs    |
-| **17**  | Marshlands     |
-| **18**  | Fens           |
-| **19**  | Estuaries      |
-| **20**  | Bamboo Forests |
+|         |             |              |
+| ------- | ----------- | ------------ |
+| **d20** | **Terrain** | **Features** |
+| **1**   | Hills       |              |
+| **2**   | Forests     |              |
+| **3**   | Deserts     |              |
+| **4**   | Canyons     |              |
+| **5**   | Tundra      |              |
+| **6**   | Moorlands   |              |
+| **7**   | Heathlands  |              |
+| **8**   | Thickets    |              |
+| **9**   | Barrens     |              |
+| **10**  | Rainforests |              |
+| **11**  | Taiga       |              |
+| **12**  | Mangroves   |              |
+| **13**  | Scrublands  |              |
+| **14**  | Woodlands   |              |
+| **15**  | Chaparral   |              |
+| **16**  | Coral Reefs |              |
+| **17**  | Marshlands  |              |
+| **18**  | Fens        |              |
+| **19**  | Estuaries   |              |
+| **20**  | Dunes       |              |
 
 ### Perilous
 
-|         |             |
-| ------- | ----------- |
-| **d20** | **Terrain** |
-| **1**   | Mountains   |
-| **2**   | Canyons     |
-| **3**   | Swamps      |
-| **4**   | Boulders    |
-| **5**   | Craters     |
-| **6**   | Gorges      |
-| **7**   | Cliffs      |
-| **8**   | Ravine      |
-| **9**   | Hollows     |
-| **10**  | Caverns     |
-| **11**  | Quagmire    |
-| **12**  | Wasteland   |
-| **13**  | Bogs        |
-| **14**  | Wetlands    |
-| **15**  | Peatlands   |
-| **16**  | Badlands    |
-| **17**  | Lava Fields |
-| **18**  | Ice Fields  |
-| **19**  | Glaciers    |
-| **20**  | Volcanoes   |
+|         |             |                   |
+| ------- | ----------- | ----------------- |
+| **d20** | **Terrain** | **Features**      |
+| **1**   | Mountains   | Acid Rain         |
+| **2**   | Jungles     | Natural Bridges   |
+| **3**   | Swamps      | Venomous Insects  |
+| **4**   | Boulders    |                   |
+| **5**   | Craters     | Thermal Vents     |
+| **6**   | Gorges      | Poisonous Foliage |
+| **7**   | Cliffs      | Glacial Melt      |
+| **8**   | Ravine      | Toxic Water       |
+| **9**   | Hollows     | Crystal Growths   |
+| **10**  | Caverns     | Earthquakes       |
+| **11**  | Quagmires   | Dust Storms       |
+| **12**  | Wastelands  |                   |
+| **13**  | Bogs        | Volcanoes         |
+| **14**  | Crevasses   | Ice Fields        |
+| **15**  | Peatlands   | Dense Fog         |
+| **16**  | Badlands    | Sinkholes         |
+| **17**  | Lava Fields | Weak Ground       |
+| **18**  | Ice Fields  | Wildfires         |
+| **19**  | Glaciers    | Flash Floods      |
+| **20**  | Geysers     |       |
+
+
 
 ### Water
 
