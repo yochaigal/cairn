@@ -282,16 +282,17 @@ A region's terrain and natural features are an essential part of any map, affect
 | **17**  | Lava Fields | Weak Ground       |
 | **18**  | Ice Fields  | Wildfires         |
 | **19**  | Glaciers    | Flash Floods      |
-| **20**  | Geysers     |       |
-
-
+| **20**  | Geysers     |                   |
 
 ### Water
 
-- Draw a wiggly line from the highest elevation point (i.e. Mountains) to the lowest (i.e. Plains), typically towards the South.
-  - If the lowest terrain is adjacent to another body of terrain that is both higher in elevation _and_ is not the water's source, terminate the river in a **lake**.
-  - If your map has a sea, the river can terminate there.
-  - Otherwise, the river can continue on off the map page.
+#### Rivers
+
+Draw a wiggly line from the highest elevation point (i.e. Mountains) to the lowest (i.e. Plains), typically in a Southwardly direction. If the river runs through terrain that is higher in elevation, it might terminate in a **lake**. If your map has a sea, it might terminate there. Otherwise, the river can continue on off the map page.
+
+#### Lakes
+
+#### Sea
 
 ### Put it all Together
 
