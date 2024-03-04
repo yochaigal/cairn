@@ -201,11 +201,10 @@ A region's terrain and natural features are an essential part of any map, affect
 |         |                |
 | ------- | -------------- |
 | **d6**  | **Difficulty** |
-| **1**   | Easy           |
-| **2-3** | Tough          |
-| **4**   | Perilous       |
-| **5-6** | ???            |
-
+| **1-2** | Easy           |
+| **3-4** | Tough          |
+| **5**   | Perilous       |
+| **6**   | Impassable     |
 
 ### Easy
 
@@ -260,6 +259,24 @@ A region's terrain and natural features are an essential part of any map, affect
 | **15**  | Peatlands   |
 | **16**  | Badlands    |
 
+### Impassable
+
+|         |                   |
+| ------- | ----------------- |
+| **d20** | **Terrain**       |
+| **1**   | Ice fields        |
+| **2**   | Glaciers          |
+| **3**   | Volcanic flows    |
+| **4**   | Lava fields       |
+| **5**   | Icebergs          |
+| **6**   | Frozen seas       |
+| **7**   | Quicksand         |
+| **8**   | Sheer ice walls   |
+| **9**   | Deep chasms       |
+| **10**  | Acidic pools      |
+| **12**  | Sulfur fields     |
+| **13**  | Thermal geysers   |
+| **14**  | Permafrost tundra |
 
 ### Water
 
