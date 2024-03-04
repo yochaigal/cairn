@@ -197,10 +197,9 @@ Roll 2d20 and combine the results.
 A region's terrain and natural features are an essential part of any map, affecting the local history, resources, settlements, culture, and more. 
 
 To determine the terrain of your region: 
-- Draw a curved line across the page, from any side.
-- Stating from one side of the map, draw another line that intersects with the first.
-- Optionally, draw another line intersecting with the first or second lines.
-- Roll on the [Terrain](#terrain) table below for each section, noting the results in the map.
+- Roll 3d6. Carve up the page around each die. Note the face up results on the page.
+- If there are any "blank" areas, roll a d6 anywhere and assign terrain, or just pick one.
+- Roll on the [Terrain](#terrain) table below for each terrain type, noting the results in the map.
 
 Then answer the following questions:
 - How does the region's terrain effect the people that live here? 
