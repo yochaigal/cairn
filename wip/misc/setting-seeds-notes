@@ -1102,7 +1102,44 @@ What should NOT be a terrain category
 3. Glaciers: Too random, IMO. And temperature (extreme hot and cold) are determined by a lot of factors.
 4. Swamps: Not enough variety, a bog/swamp/fen/marsh are just synonyms to me. I can't actionably do much different between these subtypes. Swamp should go into extreme, IMO, (or fields, maybe).
 
-If 4 categories, d4 hate is a problem, just weight it on a d6: 1-2: Plains 3-4: Trees
-
+If 4 categories, d4 hate is a problem, just weight it on a d6: 
+1-2: Plains 
+3-4: Trees
 5. Rocky
 6. Extremes
+
+
+### Terrain Features
+
+|         |             |                   |
+| ------- | ----------- | ----------------- |
+| **d20** | **Terrain** | **Features**      |
+| **1**   | Canyons     | Acid Rain         |
+| **2**   | Caverns     | Natural Bridges   |
+| **3**   | Cliffs      | Venomous Insects  |
+| **4**   | Deserts     | Tidal Flats       |
+| **5**   | Wetlands    | Thermal Vents     |
+| **6**   | Forests     | Poisonous Foliage |
+| **7**   | Glaciers    | Glacial Melt      |
+| **8**   | Grasslands  | Toxic Water       |
+| **9**   | Hills       | Crystal Growths   |
+| **10**  | Jungles     | Earthquakes       |
+| **11**  | Lakes       | Dust Storms       |
+| **12**  | Mountains   | Lava Fields       |
+| **13**  | Meadows     | Volcanoes         |
+| **14**  | Plateaus    | Ice Fields        |
+| **15**  | Rivers      | Dense Fog         |
+| **16**  | Sea         | Sinkholes         |
+| **17**  | Valleys     | Weak Ground       |
+| **18**  | Swamps      | Wildfires         |
+| **19**  | Tundra      | Flash Floods      |
+| **20**  | Wasteland   | Salt Flats        |
+
+
+Used letters:
+S
+W
+C
+L
+D
+H

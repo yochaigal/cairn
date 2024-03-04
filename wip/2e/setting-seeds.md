@@ -188,40 +188,87 @@ Roll 2d20 and combine the results.
 
 A region's terrain and natural features are an essential part of any map, affecting the local history, resources, settlements, culture, and more. 
 
-To determine the terrain of your region: 
-- Roll **3d6**, collecting any dice that roll off the page and setting them aside. Each represent a different terrain on the map
+#### Draw Terrain
+
+- Roll **3d6**, collecting any dice that roll off the page and setting them aside.
 - Draw long, curvy lines across the page, carving up the map around each die. 
-- If there are any "blank" areas, roll a d6 anywhere and assign terrain, or just pick one.
-- Remove each die, noting the face up result according to the [Terrain Die Drop Table](#terrain-die-drop-table) on the page. For example, the number 4 would indicate a Lair, denoted by the letter "L" on the page. 
-- Roll on the [Terrain](#terrain) table below for each terrain type, noting the results in the map.
+- Remove each die, noting the face up result according to the [Terrain Die Drop Table](#terrain-die-drop-table) on the page. For example, the number 1 would indicate Elevated terrain, denoted by the letter "E" on the page. 
+- Reroll any dice that rolled off the page and note the results on the map.
+- Roll on the relevant table below for each terrain type, noting the results in the map.
 
-#### Terrain
+### Terrain Die Drop Table
 
-Roll 2d20 and combine the results.
+|         |          |
+| ------- | -------- |
+| **d6**  | **POI**  |
+| **1**   | Elevated |
+| **2-3** | Flat     |
+| **4**   | Dense    |
+| **5-6** | Extreme  |
 
-|         |             |                   |
-| ------- | ----------- | ----------------- |
-| **d20** | **Terrain** | **Features**      |
-| **1**   | Canyons     | Acid Rain         |
-| **2**   | Caverns     | Natural Bridges   |
-| **3**   | Cliffs      | Venomous Insects  |
-| **4**   | Deserts     | Tidal Flats       |
-| **5**   | Wetlands    | Thermal Vents     |
-| **6**   | Forests     | Poisonous Foliage |
-| **7**   | Glaciers    | Glacial Melt      |
-| **8**   | Grasslands  | Toxic Water       |
-| **9**   | Hills       | Crystal Growths   |
-| **10**  | Jungles     | Earthquakes       |
-| **11**  | Lakes       | Dust Storms       |
-| **12**  | Mountains   | Lava Fields       |
-| **13**  | Meadows     | Volcanoes         |
-| **14**  | Plateaus    | Ice Fields        |
-| **15**  | Rivers      | Dense Fog         |
-| **16**  | Sea         | Sinkholes         |
-| **17**  | Valleys     | Weak Ground       |
-| **18**  | Swamps      | Wildfires         |
-| **19**  | Tundra      | Flash Floods      |
-| **20**  | Wasteland   | Salt Flats        |
+### Elevated 
+
+|         |             |
+| ------- | ----------- |
+| **d20** | **Terrain** |
+| **1**   | Mountains   |
+| **2**   | Caverns     |
+| **3**   | Canyons     |
+| **4**   | Plateaus    |
+| **5**   | Hills       |
+| **6**   | Ravine      |
+| **7**   | Boulders    |
+| **8**   | Craters     |
+| **9**   | Cliffs      |
+| **10**  | Fjords      |
+| **11**  | Gorges      |
+| **12**  | Hollows     |
+
+### Flat
+
+|         |             |
+| ------- | ----------- |
+| **d20** | **Terrain** |
+| **1**   | Plains      |
+| **2**   | Savannas    |
+| **3**   | Farmlands   |
+| **4**   | Grasslands  |
+| **5**   | Pastures    |
+| **6**   | Pampas      |
+| **7**   | Steppes     |
+
+### Dense
+
+|         |             |
+| ------- | ----------- |
+| **d20** | **Terrain** |
+| **1**   | Swamps      |
+| **2**   | Bogs        |
+| **3**   | Wetlands    |
+| **4**   | Quagmire    |
+| **5**   | Marshes     |
+| **6**   | Peatlands   |
+| **1**   | Forest      |
+| **2**   | Jungles     |
+| **3**   | Thickets    |
+| **4**   | Heathlands  |
+| **5**   | Moorlands   |
+| **6**   | Rainforests |
+
+### Extreme
+
+|         |             |
+| ------- | ----------- |
+| **d20** | **Terrain** |
+| **1**   | Glaciers    |
+| **2**   | Tundra      |
+| **3**   | Icebergs    |
+| **4**   | Taiga       |
+| **5**   | Deserts     |
+| **6**   | Wasteland   |
+| **7**   | Badlands    |
+| **8**   | Barrens     |
+
 
 ### Water
 
@@ -249,18 +296,17 @@ Presume that I also rolled up a ruling Faction of Nomads, whose primary Advantag
  
 Finally, the party would meet with one of the Faction's Seneschals, a spy posing as a Peddler. Only he could tell them where the plant grew, and how to cultivate it.
 
-## Draw Points of Interest
+## Points of Interest
 
 Points of Interest on a map (or POIs) are generally divided into the following categories:  
-- **Settlements**: Permanent, largely self-sufficient population centers, typically governed by a political body or faction. The **Heart** (see below) is always a settlement of some kind.
+- **Heart**: The primary settlement in a region. It isn't necessarily the largest or most important place, but it should always be significant to the region's history and people. 
+- **Settlements**: Permanent, largely self-sufficient population centers, typically governed by a political body or faction. 
 - **Waypoints**: A safe place to refill supplies, get a good night's sleep, or get directions. Often rely on travelers for survival, but provide necessary services.
 - **Curiosities**: A wilderness locale of note, somewhere remarkable or strange. It may indeed be hazardous, but only if the PCs interact with it.
 - **Lairs**: A source of heightened monster activity, enemy encampment, or hive.
 - **Dungeons**: An explicitly dangerous locale, dungeon, or adventure site.
 
-### The Heart
-
-The focal point of a region is called the **Heart**, or primary settlement. It isn't necessarily the largest or most important place in the land, but it should always be significant to the region's history and people.
+### Draw Points of Interest
 
 - Draw the letter **H** anywhere on the map, or roll a d6 and mark where it lands. Ignore the face-up result. 
 - Roll **6d6** on the map, collecting any dice that roll off the page and setting them aside. These are the maps's Points of Interest.
@@ -456,7 +502,7 @@ Roll 2d20 and combine the results.
 | **19**  | Golden Bridge      | Recently Appeared             |
 | **20**  | Crystal Spire      | Resplendent with Dead Things  |
 
-## Draw Paths
+## Paths
 
 **Paths** act as geographic connectors on the map, ranging from well-traveled roads and trails to rough wilderness routes. Paths should provide compelling choices between POIs, who must weigh factors such as safety, speed, and travel difficulty. 
 
