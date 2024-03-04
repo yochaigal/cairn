@@ -26,7 +26,7 @@ A **Realm** is a general term for the combination of regions, encompassing multi
 ### Materials Required
 
 - A sheet of paper and a notebook. Letter/A4 is OK, but the larger the better.
-- Pencils and erasers. Color markers if you want to make it pretty.
+- Pencils and erasers. Color pencils if you want to make it pretty, or want to designate terrain with color.
 - At least one d6 and one d20, but 6d6 and 2d20 would be ideal.
 
 > Going forward, we will refer to the sheet of paper as the **map**.
@@ -192,18 +192,35 @@ Roll 2d20 and combine the results.
 | **19**  | Thieves       | Tenacious   |
 | **20**  | Thugs         | Tranquil    |
 
+## Put it all Together
+
+You should now have a sufficient idea about the people of this Realm, including their character, ambitions, resources, and Faction details, and are finally ready to form these results into a coherent theme. 
+
+For example, if I rolled up a people that were there religious and sought conversion, I'd assume they were a proud folk, but prone to religious extremes and proselytizing. And if their primary resources were land, yet spices were rare, I'd assume they grew their own food, but that due to a religious prohibition their cuisine was often bland.
+
+Presume that I also rolled up a ruling Faction of Nomads, whose primary Advantage was their conviction, I would assume the elites were a class of religious chiefs. If the Faction's Agenda was to cultivate a rare resource, but that they were hindered by cultural taboos, I might decide that they had hired the party to take on the task. Perhaps the object of their quest was a unique plant, only grown in a distant place, and that the mission must remain a secret? 
+ 
+Finally, the party would meet with one of the Faction's Seneschals, a spy posing as a Peddler. Only he could tell them where the plant grew, and how to cultivate it.
+
+## Draw the Region
+
 ### Topography
 
 A region's terrain and natural features are an essential part of any map, affecting the local history, resources, settlements, culture, and more. 
 
 To determine the terrain of your region: 
-- Roll 3d6. Carve up the page around each die. Note the face up results on the page.
+- Roll **3d6**, collecting any dice that roll off the page and setting them aside. Each represent a different terrain on the map
+- Draw long, curvy lines across the page, carving up the map around each die. 
 - If there are any "blank" areas, roll a d6 anywhere and assign terrain, or just pick one.
+- Remove each die, noting the face up result according to the [Terrain Die Drop Table](#terrain-die-drop-table) on the page. For example, the number 4 would indicate a Lair, denoted by the letter "L" on the page. 
 - Roll on the [Terrain](#terrain) table below for each terrain type, noting the results in the map.
 
 Then answer the following questions:
 - How does the region's terrain effect the people that live here? 
 - What would draw people to this region? What keeps them there?
+
+
+
 
 #### Terrain
 
@@ -233,18 +250,6 @@ Roll 2d20 and combine the results.
 | **19**  | Tundra      | Flash Floods      |
 | **20**  | Wasteland   | Salt Flats        |
 
-## Put it all Together
-
-You should now have a sufficient idea about the people of this Realm, including their character, ambitions, resources, and Faction details, and are finally ready to form these results into a coherent theme. 
-
-For example, if I rolled up a people that were there religious and sought conversion, I'd assume they were a proud folk, but prone to religious extremes and proselytizing. And if their primary resources were land, yet spices were rare, I'd assume they grew their own food, but that due to a religious prohibition their cuisine was often bland.
-
-Presume that I also rolled up a ruling Faction of Nomads, whose primary Advantage was their conviction, I would assume the elites were a class of religious chiefs. If the Faction's Agenda was to cultivate a rare resource, but that they were hindered by cultural taboos, I might decide that they had hired the party to take on the task. Perhaps the object of their quest was a unique plant, only grown in a distant place, and that the mission must remain a secret? 
- 
-Finally, the party would meet with one of the Faction's Seneschals, a spy posing as a Peddler. Only he could tell them where the plant grew, and how to cultivate it.
-
-## Draw the Region
-
 ### Points of Interest
 
 Points of Interest on a map (or POIs) are generally divided into the following categories:  
@@ -261,15 +266,15 @@ The focal point of a region is called the **Heart**, or primary settlement. It i
 #### Create POIs
 
 - Draw the letter **H** anywhere on the map, or roll a d6 and mark where it lands. Ignore the face-up result. 
-- Roll 6d6 on the map, collecting any dice that roll off the page and setting them aside. These are the maps's Points of Interest.
-- Remove each die, noting the face up result according to the [Die Drop Table](#die-drop-table) on the page. For example, the number 4 would indicate a Lair, denoted by the letter "L" on the page. 
+- Roll **6d6** on the map, collecting any dice that roll off the page and setting them aside. These are the maps's Points of Interest.
+- Remove each die, noting the face up result according to the [POI Die Drop Table](#poi-die-drop-table) on the page. For example, the number 4 would indicate a Lair, denoted by the letter "L" on the page. 
 - Roll any dice that fell off the map page, repeating the previous process until no dice are remaining.
 - Starting with the Heart, number each POI on the map.
 - Roll on the relevant tables for each POI, including the Heart. Note the results for each in your notebook.
 
 > Some POIs may allow the PCs to see more of the world than what appears on their map.
 
-#### Die Drop Table
+#### POI Die Drop Table
 
 |         |                        |
 | ------- | ---------------------- |

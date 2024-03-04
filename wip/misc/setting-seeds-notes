@@ -774,6 +774,31 @@ Add the table results to the map around the POI.
 | **20**  | Political Dispute    |     |
 
 
+
+### Example Region
+
+Curious - Division
+Livestock - Trade Goods
+Protectors - Conviction
+Protect a Secret - An alliance with an enemy must first be brokered.
+Nobles - Loyal
+
+1 - Village - Hides a dangerous portal
+2 - Tower - Overgrown
+3 - Hanging Bridges - Site of Ancient Battle
+4 - Shrouded Grove - Sealed
+5 - Unruly Copse - Scavenger's Watch
+6 - Purple Geysers - Hidden Market
+7 - Compound - Built Atop Ruins
+8 - Glittering Cascade - Recently Appeared
+9 - Golden Bridge - Popular with Cults
+10 - Giant's Throne - Toxic to its Surroundings	
+
+Valleys and Dense Fog
+Meadows - Dust Storms
+
+### Terrain Types
+
 |         |             |             |
 | ------- | ----------- | ----------- |
 | **d20** | **Terrain** | **Terrain** |
@@ -798,120 +823,200 @@ Add the table results to the map around the POI.
 | **19**  | Sea         | Ice Caves   |
 | **20**  | Swamps      | Pastures    |
 
+### Wasteland
+
+| **d20** |               |
+| ------- | ------------- |
+| **1**   | Deserts       |
+| **2**   | Salt Flats    |
+| **3**   | Dunes         |
+| **4**   | Quagmire      |
+| **5**   | Barrens       |
+| **6**   | Badlands      |
+| **7**   | Lava Fields   |
+| **8**   | Ash Fields    |
+| **9**   | Dust Bowls    |
+| **10**  | Rock Fields   |
+| **11**  | Gravel Plains |
+| **12**  | Dry Riverbeds |
+| **13**  | Salt Marshes  |
+| **14**  | Deadlands     |
+| **15**  |               |
+| **16**  |               |
+| **17**  |               |
+| **18**  |               |
+| **19**  |               |
+| **20**  |               |
+
+### Ice
+
+| **d20** |                  |
+| ------- | ---------------- |
+| **1**   | Glaciers         |
+| **2**   | Tundra           |
+| **3**   | Ice Caves        |
+| **4**   | Snowfields       |
+| **5**   | Permafrost       |
+| **6**   | Frost Lands      |
+| **7**   | Icebergs         |
+| **8**   | Frozen Lakes     |
+| **9**   | Ice Flats        |
+| **10**  | Glacier Valleys  |
+| **11**  | Polar Coasts     |
+| **12**  | Frostbite Fields |
+| **13**  | Hailstone Plains |
+| **14**  | Icy Tundras      |
+| **15**  | Snow Drifts      |
+| **16**  | Frozen Rivers    |
+| **17**  | Blizzard Zones   |
+| **18**  | Ice Sheets       |
+| **19**  | Sleet Hills      |
+| **20**  |                  |
+
+### Trees
+
+| **d20** |                    |
+| ------- | ------------------ |
+| **1**   | Forests            |
+| **2**   | Thickets           |
+| **3**   | Jungles            |
+| **4**   | Meadows            |
+| **5**   | Woodlands          |
+| **6**   | Rainforests        |
+| **7**   | Groves             |
+| **8**   | Coppices           |
+| **9**   | Deciduous Forests  |
+| **10**  | Coniferous Forests |
+| **11**  | Tropical Forests   |
+| **12**  | Mangroves          |
+| **13**  | Orchards           |
+| **14**  |                    |
+| **15**  |                    |
+| **16**  |                    |
+| **17**  |                    |
+| **18**  |                    |
+| **19**  |                    |
+| **20**  |                    |
+
+### Mountains
+
+|         |                 |
+| ------- | --------------- |
+| **d20** |                 |
+| **1**   | Valleys         |
+| **2**   | Plateaus        |
+| **3**   | Canyons         |
+| **4**   | Cliffs          |
+| **5**   | Hills           |
+| **6**   | Ravine          |
+| **7**   | Boulders        |
+| **8**   | Craters         |
+| **9**   | Gorges          |
+| **10**  | Escarpments     |
+| **11**  | Highlands       |
+| **12**  | Mountain Ranges |
+| **13**  | Rocky Outcrops  |
+| **14**  | Volcanoes       |
+| **15**  | Foothills       |
+| **16**  | Alpines         |
+| **17**  | Mesa            |
+| **18**  |                 |
+| **19**  |                 |
+| **20**  |                 |
+
+### Plains
 
 
-### 1. **Wasteland**
-- Deserts
-- Salt Flats
-- Dunes
-- Quagmire
-- Barrens
-- Badlands
-- Lava Fields
-- Ash Fields
-- Dust Bowls
-- Rock Fields
-- Gravel Plains
-- Dry Riverbeds
-- Salt Marshes
-- Deadlands
+| **d20** | Savannas         |
+| ------- | ---------------- |
+| **1**   | Grasslands       |
+| **2**   | Farmlands        |
+| **3**   | Pastures         |
+| **4**   | Scrubland        |
+| **5**   | Steppes          |
+| **6**   | Prairies         |
+| **7**   | Tundras          |
+| **8**   | Meadows          |
+| **9**   | Cultivated Lands |
+| **10**  | Open Fields      |
+| **11**  | Moors            |
+| **12**  | Heathlands       |
+| **13**  | Pampas           |
+| **14**  | Lowlands         |
+| **15**  | Flatlands        |
+| **16**  | Crop Fields      |
+| **17**  | Terraced Fields  |
+| **18**  | Rolling Plains   |
+| **19**  |                  |
+| **20**  |                  |
 
-### 2. **Ice**
-- Glaciers
-- Tundra
-- Ice Caves
-- Snowfields
-- Permafrost
-- Frost Lands
-- Icebergs
-- Frozen Lakes
-- Ice Flats
-- Glacier Valleys
-- Polar Coasts
-- Frostbite Fields
-- Hailstone Plains
-- Icy Tundras
-- Snow Drifts
-- Frozen Rivers
-- Blizzard Zones
-- Ice Sheets
-- Sleet Hills
+### Water
 
-### 3. **Trees**
-- Forests
-- Thickets
-- Jungles
-- Meadows
-- Woodlands
-- Rainforests
-- Groves
-- Coppices
-- Deciduous Forests
-- Coniferous Forests
-- Tropical Forests
-- Mangroves
-- Orchards
+| **d20** |             |
+| ------- | ----------- |
+| **1**   | Lakes       |
+| **2**   | Rivers      |
+| **3**   | Sea         |
+| **4**   | Swamps      |
+| **5**   | Bogs        |
+| **6**   | Fjords      |
+| **7**   | Beaches     |
+| **8**   | Springs     |
+| **9**   | Islands     |
+| **10**  | Wetlands    |
+| **11**  | Creeks      |
+| **12**  | Estuaries   |
+| **13**  | Lagoons     |
+| **14**  | Marshes     |
+| **15**  | Oceans      |
+| **16**  | Waterfalls  |
+| **17**  | Streams     |
+| **18**  | Gulfs       |
+| **19**  | Bays        |
+| **20**  | Coral Reefs |
 
-### 4. **Mountains**
-- Mountains
-- Valleys
-- Plateaus
+
+Six types
+**Swamps**
+**Hills**
+**Valleys**
+**Forests**
+**Plains**
+**Extreme**
+
+Six types A 
+**Rocky**
 - Canyons
 - Cliffs
+- Mountains
 - Hills
-- Ravine
-- Boulders
-- Craters
-- Gorges
-- Escarpments
-- Highlands
-- Mountain Ranges
-- Rocky Outcrops
-- Volcanoes
-- Foothills
-- Alpines
-- Mesa
+ 
+**Holes**
+- Valleys
+- Caverns
 
-### 5. **Plains**
-- Plains
-- Savannas
-- Grasslands
-- Farmlands
-- Pastures
-- Scrubland
-- Steppes
-- Prairies
-- Tundras
-- Meadows
-- Cultivated Lands
-- Open Fields
-- Moors
-- Heathlands
-- Pampas
-- Lowlands
-- Flatlands
-- Crop Fields
-- Terraced Fields
-- Rolling Plains
-
-### 6. **Water**
-- Lakes
-- Rivers
-- Sea
+**Trees**
+- Forests
+- Jungles
 - Swamps
-- Bogs
-- Fjords
-- Beaches
-- Springs
-- Islands
-- Wetlands
-- Creeks
-- Estuaries
-- Lagoons
-- Marshes
-- Oceans
-- Waterfalls
-- Streams
-- Gulfs
-- Bays
-- Coral Reefs
+
+**Grass**
+- Grasslands
+- Meadows
+- Savannas
+- Plateaus
+
+**Extreme**
+- Glaciers
+- Tundra
+- Deserts
+- Wasteland
+
+
+Six types B
+**Swamps**
+**Hills**
+**Valleys**
+**Forests**
+**Plains**
+**Extreme**
