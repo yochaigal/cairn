@@ -1020,3 +1020,89 @@ Six types B
 **Forests**
 **Plains**
 **Extreme**
+
+
+### 1. Elevated and Rocky Terrains
+
+|        | Terrain Type |
+| ------ | ------------ |
+| **1**  | Mountains    |
+| **2**  | Caverns      |
+| **3**  | Canyons      |
+| **4**  | Plateaus     |
+| **5**  | Hills        |
+| **6**  | Ravine       |
+| **7**  | Boulders     |
+| **8**  | Craters      |
+| **9**  | Cliffs       |
+| **10** | Fjords       |
+| **11** | Gorges       |
+| **12** | Hollows      |
+
+### 2. Flat and Open Terrains
+
+|         | Terrain Type |
+|---------|--------------|
+| **1**   | Plains       |
+| **2**   | Savannas     |
+| **3**   | Farmlands    |
+| **4**   | Grasslands   |
+| **5**   | Pastures     |
+| **6**   | Pampas       |
+| **7**   | Steppes       |
+
+### 3. Wetlands and Moist Areas
+
+|         | Terrain Type |
+|---------|--------------|
+| **1**   | Swamps       |
+| **2**   | Bogs         |
+| **3**   | Wetlands     |
+| **4**   | Quagmire     |
+| **5**   | Marshes      |
+| **6**   | Peatlands    |
+
+### 4. Forested and Vegetated Areas
+
+|         | Terrain Type |
+|---------|--------------|
+| **1**   | Forests      |
+| **2**   | Jungles      |
+| **3**   | Thickets     |
+| **4**   | Heathlands   |
+| **5**   | Moorlands    |
+| **6**   | Rainforests  |
+
+### 5. Extreme
+
+|        | Terrain Type |
+| ------ | ------------ |
+| **1**  | Glaciers     |
+| **2**  | Tundra       |
+| **3**  | Icebergs     |
+| **4**  | Taiga        |
+| **5**  | Deserts      |
+| **6**  | Wasteland    |
+| **7**  | Badlands     |
+| **8**  | Barrens      |
+
+From Adam
+
+**Terrain Categories**
+
+1. Plains/Fields (Grasslands, Valleys, etc)
+2. Trees (Forests, Jungles, Fungal Thickets, etc.)
+3. Rocky (Hills, Mountains, Canyons)
+4. Extremes (not enough variety for their own sections: Swamps, Deserts, Wastelands, Dunes)
+
+What should NOT be a terrain category
+
+1. Water: Water features will be rolled within a terrain zone. All terrain types can potentially have water.
+2. Holes: These can be nested in the rocky or plains categories (caverns, valleys)
+3. Glaciers: Too random, IMO. And temperature (extreme hot and cold) are determined by a lot of factors.
+4. Swamps: Not enough variety, a bog/swamp/fen/marsh are just synonyms to me. I can't actionably do much different between these subtypes. Swamp should go into extreme, IMO, (or fields, maybe).
+
+If 4 categories, d4 hate is a problem, just weight it on a d6: 1-2: Plains 3-4: Trees
+
+5. Rocky
+6. Extremes

@@ -96,17 +96,9 @@ Roll 2d20 and combine the results.
 
 ### Factions
 
-Each region is dominated by one or more Factions, each with its own unique advantages, goals, and obstacles. They each should have one or more representatives, or **Seneschals**, tasked with helping complete a Faction's Agenda.
+Each region is dominated by one or more Factions, each with its own unique advantages, goals, and obstacles. They each should have one or more representatives, or **Seneschals**, tasked with helping complete a Faction's Agenda. Often **Seneschals** will have personal motivations that differ from the Faction's main **Agenda**, a fact that canny PCs can exploit for their own gain.
 
-> Often **Seneschals** will have personal motivations that differ from the Faction's main **Agenda**, a fact that canny PCs can exploit for their own gain.
-
-Roll one or more times on the [Faction Types](#faction-types), [Faction Agendas](#faction-agendas) and [Seneschals](#seneschals) tables, then answer the following for each Faction:
-- What power do they have over the people who live here?
-- Who or what threatens their Agenda?
-- How would the Faction interact with any newcomers (i.e. an adventuring party)?
-- What sorts of people act on behalf of these Factions?
-
-Note the results in your notebook.
+Roll one or more times on the [Faction Types](#faction-types), [Faction Agendas](#faction-agendas) and [Seneschals](#seneschals) tables. Note the results in your notebook.
 
 #### Faction Types
 
@@ -192,18 +184,6 @@ Roll 2d20 and combine the results.
 | **19**  | Thieves       | Tenacious   |
 | **20**  | Thugs         | Tranquil    |
 
-## Put it all Together
-
-You should now have a sufficient idea about the people of this Realm, including their character, ambitions, resources, and Faction details, and are finally ready to form these results into a coherent theme. 
-
-For example, if I rolled up a people that were there religious and sought conversion, I'd assume they were a proud folk, but prone to religious extremes and proselytizing. And if their primary resources were land, yet spices were rare, I'd assume they grew their own food, but that due to a religious prohibition their cuisine was often bland.
-
-Presume that I also rolled up a ruling Faction of Nomads, whose primary Advantage was their conviction, I would assume the elites were a class of religious chiefs. If the Faction's Agenda was to cultivate a rare resource, but that they were hindered by cultural taboos, I might decide that they had hired the party to take on the task. Perhaps the object of their quest was a unique plant, only grown in a distant place, and that the mission must remain a secret? 
- 
-Finally, the party would meet with one of the Faction's Seneschals, a spy posing as a Peddler. Only he could tell them where the plant grew, and how to cultivate it.
-
-## Draw the Region
-
 ### Topography
 
 A region's terrain and natural features are an essential part of any map, affecting the local history, resources, settlements, culture, and more. 
@@ -214,13 +194,6 @@ To determine the terrain of your region:
 - If there are any "blank" areas, roll a d6 anywhere and assign terrain, or just pick one.
 - Remove each die, noting the face up result according to the [Terrain Die Drop Table](#terrain-die-drop-table) on the page. For example, the number 4 would indicate a Lair, denoted by the letter "L" on the page. 
 - Roll on the [Terrain](#terrain) table below for each terrain type, noting the results in the map.
-
-Then answer the following questions:
-- How does the region's terrain effect the people that live here? 
-- What would draw people to this region? What keeps them there?
-
-
-
 
 #### Terrain
 
@@ -250,7 +223,33 @@ Roll 2d20 and combine the results.
 | **19**  | Tundra      | Flash Floods      |
 | **20**  | Wasteland   | Salt Flats        |
 
-### Points of Interest
+### Water
+
+- Draw a wiggly line from the highest elevation point (i.e. Mountains) to the lowest (i.e. Plains), typically towards the South.
+  - If the lowest terrain is adjacent to another body of terrain that is both higher in elevation _and_ is not the water's source, terminate the river in a **lake**.
+  - If your map has a sea, the river can terminate there.
+  - Otherwise, the river can continue on off the map page.
+
+### Put it all Together
+
+#### Questions
+
+- What power do they have over the people who live here?
+- Who or what threatens their Agenda?
+- How would the Faction interact with any newcomers (i.e. an adventuring party)?
+- What sorts of people act on behalf of these Factions?
+- How does the region's terrain effect the people that live here? 
+- What would draw people to this region? What keeps them there?
+
+You should now have a sufficient idea about the people of this Realm, including their character, ambitions, resources, and Faction details, and are finally ready to form these results into a coherent theme. 
+
+For example, if I rolled up a people that were there religious and sought conversion, I'd assume they were a proud folk, but prone to religious extremes and proselytizing. And if their primary resources were land, yet spices were rare, I'd assume they grew their own food, but that due to a religious prohibition their cuisine was often bland.
+
+Presume that I also rolled up a ruling Faction of Nomads, whose primary Advantage was their conviction, I would assume the elites were a class of religious chiefs. If the Faction's Agenda was to cultivate a rare resource, but that they were hindered by cultural taboos, I might decide that they had hired the party to take on the task. Perhaps the object of their quest was a unique plant, only grown in a distant place, and that the mission must remain a secret? 
+ 
+Finally, the party would meet with one of the Faction's Seneschals, a spy posing as a Peddler. Only he could tell them where the plant grew, and how to cultivate it.
+
+## Draw Points of Interest
 
 Points of Interest on a map (or POIs) are generally divided into the following categories:  
 - **Settlements**: Permanent, largely self-sufficient population centers, typically governed by a political body or faction. The **Heart** (see below) is always a settlement of some kind.
@@ -259,11 +258,9 @@ Points of Interest on a map (or POIs) are generally divided into the following c
 - **Lairs**: A source of heightened monster activity, enemy encampment, or hive.
 - **Dungeons**: An explicitly dangerous locale, dungeon, or adventure site.
 
-#### The Heart
+### The Heart
 
 The focal point of a region is called the **Heart**, or primary settlement. It isn't necessarily the largest or most important place in the land, but it should always be significant to the region's history and people.
-
-#### Create POIs
 
 - Draw the letter **H** anywhere on the map, or roll a d6 and mark where it lands. Ignore the face-up result. 
 - Roll **6d6** on the map, collecting any dice that roll off the page and setting them aside. These are the maps's Points of Interest.
@@ -274,7 +271,7 @@ The focal point of a region is called the **Heart**, or primary settlement. It i
 
 > Some POIs may allow the PCs to see more of the world than what appears on their map.
 
-#### POI Die Drop Table
+### POI Die Drop Table
 
 |         |                        |
 | ------- | ---------------------- |
@@ -284,7 +281,7 @@ The focal point of a region is called the **Heart**, or primary settlement. It i
 | **4**   | Lair                   |
 | **5-6** | Dungeon                |
  
-#### Settlements
+### Settlements
 
 Roll 2d20 and combine the results.
 
@@ -312,7 +309,7 @@ Roll 2d20 and combine the results.
 | **19**  | Villa           | Steeped in Tradition          |
 | **20**  | Village         | Trading Hub                   |
 
-#### Waypoints
+### Waypoints
 
 Roll 2d20 and combine the results.
 
@@ -340,7 +337,7 @@ Roll 2d20 and combine the results.
 | **19**  | Watchtower    | Does Not Appear On Any Map       |
 | **20**  | Work Camp     | Outsiders Cannot Carry Weapons   |
 
-#### Curiosities
+### Curiosities
 
 Roll 2d20 and combine the results.
 
@@ -368,7 +365,7 @@ Roll 2d20 and combine the results.
 | **19**  | Sunken City        | Isolated Weather       |
 | **20**  | Broken Tower       | Floating Debris        |
 
-#### Lairs
+### Lairs
 
 Roll 2d20 and combine the results.
 
@@ -396,7 +393,7 @@ Roll 2d20 and combine the results.
 | **19**  | Ruined Town         | Training Camp       |
 | **20**  | Abandoned Tower     | Abandoned           |
 
-#### Dungeons
+### Dungeons
 
 Roll 2d20 and combine the results.
 
@@ -424,14 +421,14 @@ Roll 2d20 and combine the results.
 | **19**  | Palace         | Toxic        |
 | **20**  | Tomb           | Warped       |
 
-#### Landmarks
+### Landmarks
 
 **Landmarks** are unique, visible POIs that can also be used as geographic reference points: towers, mountains, tall buildings, and so on. They help orient travelers around the map, and are _especially_ visible from areas with higher elevation or a clear viewpoint. Landmarks are _represented on the map by a triangle_.
 
 - To create Landmarks, roll 3d6 dice on the map, ignoring the face-up result. Draw a triangle on the map for each. Ignore any dice that fell off the page.
 - Number each Landmark on the map, then roll on the [Landmark Features](#landmark-features) table, noting the results in your notebook.
 
-#### Landmark Features
+### Landmark Features
 
 Roll 2d20 and combine the results.
 
@@ -459,17 +456,17 @@ Roll 2d20 and combine the results.
 | **19**  | Golden Bridge      | Recently Appeared             |
 | **20**  | Crystal Spire      | Resplendent with Dead Things  |
 
-### Paths
+## Draw Paths
 
 **Paths** act as geographic connectors on the map, ranging from well-traveled roads and trails to rough wilderness routes. Paths should provide compelling choices between POIs, who must weigh factors such as safety, speed, and travel difficulty. 
 
-#### Path Types
+### Path Types
 
 - **Standard** paths are obvious or well-trod routes between two POIs. _Represented by a thick line._
 - **Hidden** paths do not appear on any known maps. Their discovery always requires some kind of cost. _Represented by a dashed line._
 - **Conditional** paths may be blocked, or requires specialized tools (boats, climbing gear, etc.) to cross. Others may even be impossible to navigate without a map or guide. _Represented by a crossed line._
 
-#### Draw Paths
+### Draw Paths
 
 - Starting with the Heart, create 1-4 paths between each location. 
   - Create loops, branching paths, dead-ends, and shortcuts between POIs.
@@ -484,7 +481,7 @@ Roll 2d20 and combine the results.
   - For Trails add 1 more Watch, and for Wilderness routes add 2 additional Watches.
   - A Watch is 8 hours long. Denote days between POIs wherever possible (typically two Watches and one rest per day of travel).
 
-#### Path Features
+### Path Features
 
 Roll 2d20 and combine the results.
 
