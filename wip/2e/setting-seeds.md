@@ -198,76 +198,67 @@ A region's terrain and natural features are an essential part of any map, affect
 
 ### Terrain Die Drop Table
 
-|         |          |
-| ------- | -------- |
-| **d6**  | **POI**  |
-| **1**   | Elevated |
-| **2-3** | Flat     |
-| **4**   | Dense    |
-| **5-6** | Extreme  |
+|         |                |
+| ------- | -------------- |
+| **d6**  | **Difficulty** |
+| **1**   | Easy           |
+| **2-3** | Tough          |
+| **4**   | Perilous       |
+| **5-6** | ???            |
 
-### Elevated 
 
-|         |             |
-| ------- | ----------- |
-| **d20** | **Terrain** |
-| **1**   | Mountains   |
-| **2**   | Caverns     |
-| **3**   | Canyons     |
-| **4**   | Plateaus    |
-| **5**   | Hills       |
-| **6**   | Ravine      |
-| **7**   | Boulders    |
-| **8**   | Craters     |
-| **9**   | Cliffs      |
-| **10**  | Fjords      |
-| **11**  | Gorges      |
-| **12**  | Hollows     |
-
-### Flat
+### Easy
 
 |         |             |
 | ------- | ----------- |
 | **d20** | **Terrain** |
 | **1**   | Plains      |
-| **2**   | Savannas    |
-| **3**   | Farmlands   |
-| **4**   | Grasslands  |
-| **5**   | Pastures    |
-| **6**   | Pampas      |
-| **7**   | Steppes     |
+| **2**   | Plateaus    |
+| **3**   | Grasslands  |
+| **4**   | Pastures    |
+| **5**   | Pampas      |
+| **6**   | Steppes     |
+| **7**   | Savannas    |
+| **8**   | Farmlands   |
 
-### Dense
-
-|         |             |
-| ------- | ----------- |
-| **d20** | **Terrain** |
-| **1**   | Swamps      |
-| **2**   | Bogs        |
-| **3**   | Wetlands    |
-| **4**   | Quagmire    |
-| **5**   | Marshes     |
-| **6**   | Peatlands   |
-| **1**   | Forest      |
-| **2**   | Jungles     |
-| **3**   | Thickets    |
-| **4**   | Heathlands  |
-| **5**   | Moorlands   |
-| **6**   | Rainforests |
-
-### Extreme
+### Tough
 
 |         |             |
 | ------- | ----------- |
 | **d20** | **Terrain** |
-| **1**   | Glaciers    |
-| **2**   | Tundra      |
-| **3**   | Icebergs    |
-| **4**   | Taiga       |
-| **5**   | Deserts     |
-| **6**   | Wasteland   |
-| **7**   | Badlands    |
-| **8**   | Barrens     |
+| **1**   | Hills       |
+| **2**   | Forests     |
+| **3**   | Deserts     |
+| **4**   | Jungles     |
+| **5**   | Tundra      |
+| **6**   | Moorlands   |
+| **7**   | Heathlands  |
+| **8**   | Thickets    |
+| **9**   | Barrens     |
+| **10**  | Rainforests |
+| **11**  | Taiga       |
+
+### Perilous
+
+|         |             |
+| ------- | ----------- |
+| **d20** | **Terrain** |
+| **1**   | Mountains   |
+| **2**   | Canyons     |
+| **3**   | Swamps      |
+| **4**   | Boulders    |
+| **5**   | Craters     |
+| **6**   | Gorges      |
+| **7**   | Cliffs      |
+| **8**   | Ravine      |
+| **9**   | Hollows     |
+| **10**  | Caverns     |
+| **11**  | Quagmire    |
+| **12**  | Wasteland   |
+| **13**  | Bogs        |
+| **14**  | Wetlands    |
+| **15**  | Peatlands   |
+| **16**  | Badlands    |
 
 
 ### Water
