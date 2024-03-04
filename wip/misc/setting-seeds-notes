@@ -1143,3 +1143,23 @@ C
 L
 D
 H
+
+
+### Impassable
+
+|         |                   |
+| ------- | ----------------- |
+| **d20** | **Terrain**       |
+| **1**   | Ice fields        |
+| **2**   | Glaciers          |
+| **3**   | Volcanic flows    |
+| **4**   | Lava fields       |
+| **5**   | Icebergs          |
+| **6**   | Frozen seas       |
+| **7**   | Quicksand         |
+| **8**   | Sheer ice walls   |
+| **9**   | Deep chasms       |
+| **10**  | Acidic pools      |
+| **12**  | Sulfur fields     |
+| **13**  | Thermal geysers   |
+| **14**  | Permafrost tundra |

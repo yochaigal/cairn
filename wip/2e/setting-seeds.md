@@ -201,10 +201,10 @@ A region's terrain and natural features are an essential part of any map, affect
 |         |                |
 | ------- | -------------- |
 | **d6**  | **Difficulty** |
-| **1-2** | Easy           |
-| **3-4** | Tough          |
-| **5**   | Perilous       |
-| **6**   | Impassable     |
+| **1-3** | Easy           |
+| **4-5** | Tough          |
+| **6**   | Perilous       |
+
 
 ### Easy
 
@@ -219,23 +219,44 @@ A region's terrain and natural features are an essential part of any map, affect
 | **6**   | Steppes     |
 | **7**   | Savannas    |
 | **8**   | Farmlands   |
+| **9**   | Meadows     |
+| **10**  | Valleys     |
+| **11**  | Glades      |
+| **12**  | Gardens     |
+| **13**  | Orchards    |
+| **14**  | Vineyards   |
+| **15**  | Groves      |
+| **16**  | Fields      |
+| **17**  | Prairies    |
+| **18**  | Dunes       |
+| **19**  | Beaches     |
+| **20**  | Riverbanks  |
 
 ### Tough
 
-|         |             |
-| ------- | ----------- |
-| **d20** | **Terrain** |
-| **1**   | Hills       |
-| **2**   | Forests     |
-| **3**   | Deserts     |
-| **4**   | Jungles     |
-| **5**   | Tundra      |
-| **6**   | Moorlands   |
-| **7**   | Heathlands  |
-| **8**   | Thickets    |
-| **9**   | Barrens     |
-| **10**  | Rainforests |
-| **11**  | Taiga       |
+|         |                |
+| ------- | -------------- |
+| **d20** | **Terrain**    |
+| **1**   | Hills          |
+| **2**   | Forests        |
+| **3**   | Deserts        |
+| **4**   | Jungles        |
+| **5**   | Tundra         |
+| **6**   | Moorlands      |
+| **7**   | Heathlands     |
+| **8**   | Thickets       |
+| **9**   | Barrens        |
+| **10**  | Rainforests    |
+| **11**  | Taiga          |
+| **12**  | Mangroves      |
+| **13**  | Scrublands     |
+| **14**  | Woodlands      |
+| **15**  | Chaparral      |
+| **16**  | Coral Reefs    |
+| **17**  | Marshlands     |
+| **18**  | Fens           |
+| **19**  | Estuaries      |
+| **20**  | Bamboo Forests |
 
 ### Perilous
 
@@ -258,25 +279,10 @@ A region's terrain and natural features are an essential part of any map, affect
 | **14**  | Wetlands    |
 | **15**  | Peatlands   |
 | **16**  | Badlands    |
-
-### Impassable
-
-|         |                   |
-| ------- | ----------------- |
-| **d20** | **Terrain**       |
-| **1**   | Ice fields        |
-| **2**   | Glaciers          |
-| **3**   | Volcanic flows    |
-| **4**   | Lava fields       |
-| **5**   | Icebergs          |
-| **6**   | Frozen seas       |
-| **7**   | Quicksand         |
-| **8**   | Sheer ice walls   |
-| **9**   | Deep chasms       |
-| **10**  | Acidic pools      |
-| **12**  | Sulfur fields     |
-| **13**  | Thermal geysers   |
-| **14**  | Permafrost tundra |
+| **17**  | Lava Fields |
+| **18**  | Ice Fields  |
+| **19**  | Glaciers    |
+| **20**  | Volcanoes   |
 
 ### Water
 
