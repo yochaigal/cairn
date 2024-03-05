@@ -95,21 +95,21 @@ To help create your setting's theme, answer the following questions:
 
 #### Weird Weather Effects
 
-|         |                                                                                                                    |
-| ------- | ------------------------------------------------------------------------------------------------------------------ |
-| **d12** |                                                                                                                    |
-| **1**   | The clouds are shaped like faces. They appear to be laughing.                                                      |
-| **2**   | Roaming, coughing, dust clouds that smell of cinnamon.                                                             |
-| **3**   | Days are erratic. The Sun goes backwards for a time, then jumps forward as night rapidly sets.                     |
-| **4**   | Lakes and streams dry up in minutes, filling storm clouds that drench the landscape.                               |
-| **5**   | Rainbows lack most of their colors, and occasionally flicker. Raindrops fall in various colors. Do not taste them. |
-| **6**   | Distant chimes instead of thunder. A smoky, sweet wind of no apparent origin blows in from the West.              |
-| **7**   | Fog there fills the belly (no need for rations). Tomorrow, vomiting.                                               |
-| **8**   | The winds carry whispers of voices. Some say they tell hints of the future.                                        |
-| **9**   | Shadows disappear at random. Animals are reluctant to enter.                                                       |
-| **10**  | Flashes of movement in the periphery that always amount to nothing. Travelers return without gaps in their memories.      |
-| **11**  | The air is thicker than usual, and breathing is difficult. Drinking water seems to help.                           |
-| **12**  | Periodic rains of small aquatic creatures (tadpoles, frogs, small fish). No one knows where they come from.        |
+|         |                                                                                                                      |
+| ------- | -------------------------------------------------------------------------------------------------------------------- |
+| **d12** |                                                                                                                      |
+| **1**   | The clouds are shaped like faces. They appear to be laughing.                                                        |
+| **2**   | Roaming, coughing, dust clouds that smell of cinnamon.                                                               |
+| **3**   | Days are erratic. The Sun goes backwards for a time, then jumps forward as night rapidly sets.                       |
+| **4**   | Lakes and streams dry up in minutes, filling storm clouds that drench the landscape.                                 |
+| **5**   | Rainbows lack most of their colors, and occasionally flicker. Raindrops fall in various colors. Do not taste them.   |
+| **6**   | Distant chimes instead of thunder. A smoky, sweet wind of no apparent origin blows in from the West.                 |
+| **7**   | Fog there fills the belly (no need for rations). Tomorrow, vomiting.                                                 |
+| **8**   | The winds carry whispers of voices. Some say they tell hints of the future.                                          |
+| **9**   | Shadows disappear at random. Animals are reluctant to enter.                                                         |
+| **10**  | Flashes of movement in the periphery that always amount to nothing. Travelers return without gaps in their memories. |
+| **11**  | The air is thicker than usual, and breathing is difficult. Drinking water seems to help.                             |
+| **12**  | Periodic rains of small aquatic creatures (tadpoles, frogs, small fish). No one knows where they come from.          |
 
 ## Details
 - Each dot on the map is one **Detail**. **Details** act as [**Points**](/wip/2e/wilderness-exploration/#points) according to the [**Wilderness Exploration**](/wip/2e/wilderness-exploration) rules. Keep in mind how many **Watches** it might take to travel to each **Detail**. 

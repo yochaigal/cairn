@@ -196,6 +196,8 @@ A region's terrain and natural features are an essential part of any map, affect
 - Reroll any dice that rolled off the page and note the results on the map.
 - Roll on the relevant table below for each terrain type, noting the results in the map.
 
+> Some terrain features may prompt you to roll on the [Unusual Weather](#unusual-weather) table as well.
+
 ### Terrain Die Drop Table
 
 |         |                |
@@ -205,96 +207,138 @@ A region's terrain and natural features are an essential part of any map, affect
 | **4-5** | Tough          |
 | **6**   | Perilous       |
 
-
 ### Easy
 
 Roll 2d20 and combine the results.
 
-|         |             |              |
-| ------- | ----------- | ------------ |
-| **d20** | **Terrain** | **Features** |
-| **1**   | Bluffs      |              |
-| **2**   | Farmlands   |              |
-| **3**   | Fells       |              |
-| **4**   | Fields      |              |
-| **5**   | Foothills   |              |
-| **6**   | Glens       |              |
-| **7**   | Grasslands  |              |
-| **8**   | Groves      |              |
-| **9**   | Gulleys     |              |
-| **10**  | Heaths      |              |
-| **11**  | Meadows     |              |
-| **12**  | Moors       |              |
-| **13**  | Pampas      |              |
-| **14**  | Pastures    |              |
-| **15**  | Plains      |              |
-| **16**  | Plateaus    |              |
-| **17**  | Prairies    |              |
-| **18**  | Savannas    |              |
-| **19**  | Steppes     |              |
-| **20**  | Valleys     |              |
+|         |             |                                     |
+| ------- | ----------- | ----------------------------------- |
+| **d20** | **Terrain** | **Features**                        |
+| **1**   | Bluffs      |                                     |
+| **2**   | Farmlands   | Dense Fog                           |
+| **3**   | Fells       |                                     |
+| **4**   | Fields      |                                     |
+| **5**   | Foothills   | [Unusual Weather](#unusual-weather) |
+| **6**   | Glens       |                                     |
+| **7**   | Grasslands  |                                     |
+| **8**   | Groves      |                                     |
+| **9**   | Gulleys     |                                     |
+| **10**  | Heaths      |                                     |
+| **11**  | Meadows     |                                     |
+| **12**  | Moors       |                                     |
+| **13**  | Pampas      | [Unusual Weather](#unusual-weather) |
+| **14**  | Pastures    |                                     |
+| **15**  | Plains      |                                     |
+| **16**  | Plateaus    |                                     |
+| **17**  | Prairies    |                                     |
+| **18**  | Savannas    |                                     |
+| **19**  | Steppes     |                                     |
+| **20**  | Valleys     |                                     |
 
 ### Tough
 
 Roll 2d20 and combine the results.
 
-|         |             |              |
-| ------- | ----------- | ------------ |
-| **d20** | **Terrain** | **Features** |
-| **1**   | Barrens     |              |
-| **2**   | Canyons     |              |
-| **3**   | Chaparral   |              |
-| **4**   | Coral Reefs |              |
-| **5**   | Deserts     |              |
-| **6**   | Dunes       |              |
-| **7**   | Estuaries   |              |
-| **8**   | Fens        |              |
-| **9**   | Forests     |              |
-| **10**  | Heathlands  |              |
-| **11**  | Hills       |              |
-| **12**  | Mangroves   |              |
-| **13**  | Marshlands  |              |
-| **14**  | Moorlands   |              |
-| **15**  | Rainforests |              |
-| **16**  | Scrublands  |              |
-| **17**  | Taiga       |              |
-| **18**  | Thickets    |              |
-| **19**  | Tundra      |              |
-| **20**  | Woodlands   |              |
+|         |             |                                     |
+| ------- | ----------- | ----------------------------------- |
+| **d20** | **Terrain** | **Features**                        |
+| **1**   | Barrens     |                                     |
+| **2**   | Canyons     | Natural Bridges                     |
+| **3**   | Chaparral   | [Unusual Weather](#unusual-weather) |
+| **4**   | Coral Reefs |                                     |
+| **5**   | Deserts     |                                     |
+| **6**   | Dunes       |                                     |
+| **7**   | Estuaries   |                                     |
+| **8**   | Fens        |                                     |
+| **9**   | Forests     | Weak Ground                         |
+| **10**  | Heathlands  |                                     |
+| **11**  | Hills       |                                     |
+| **12**  | Mangroves   |                                     |
+| **13**  | Marshlands  |                                     |
+| **14**  | Moorlands   | [Unusual Weather](#unusual-weather) |
+| **15**  | Rainforests |                                     |
+| **16**  | Scrublands  |                                     |
+| **17**  | Taiga       |                                     |
+| **18**  | Thickets    |                                     |
+| **19**  | Tundra      |                                     |
+| **20**  | Woodlands   |                                     |
 
 ### Perilous
 
 Roll 2d20 and combine the results.
 
-|         |             |                   |
-| ------- | ----------- | ----------------- |
-| **d20** | **Terrain** | **Features**      |
-| **1**   | Badlands    | Acid Rain         |
-| **2**   | Bogs        | Natural Bridges   |
-| **3**   | Boulders    | Venomous Insects  |
-| **4**   | Caverns     |                   |
-| **5**   | Cliffs      | Thermal Vents     |
-| **6**   | Craters     | Poisonous Foliage |
-| **7**   | Crevasses   | Glacial Melt      |
-| **8**   | Geysers     | Toxic Water       |
-| **9**   | Glaciers    | Crystal Growths   |
-| **10**  | Gorges      | Earthquakes       |
-| **11**  | Hollows     | Dust Storms       |
-| **12**  | Ice Fields  |                   |
-| **13**  | Jungles     | Volcanoes         |
-| **14**  | Lava Fields | Ice Fields        |
-| **15**  | Mountains   | Dense Fog         |
-| **16**  | Peatlands   | Sinkholes         |
-| **17**  | Quagmires   | Weak Ground       |
-| **18**  | Ravine      | Wildfires         |
-| **19**  | Swamps      | Flash Floods      |
-| **20**  | Wastelands  |                   |
+|         |             |                                     |
+| ------- | ----------- | ----------------------------------- |
+| **d20** | **Terrain** | **Features**                        |
+| **1**   | Badlands    | Acid Rain                           |
+| **2**   | Bogs        | [Unusual Weather](#unusual-weather) |
+| **3**   | Boulders    | Venomous Insects                    |
+| **4**   | Caverns     |                                     |
+| **5**   | Cliffs      | Thermal Vents                       |
+| **6**   | Craters     | Poisonous Foliage                   |
+| **7**   | Crevasses   |                                     |
+| **8**   | Geysers     | Toxic Water                         |
+| **9**   | Glaciers    | Crystal Growths                     |
+| **10**  | Gorges      | Earthquakes                         |
+| **11**  | Hollows     | Dust Storms                         |
+| **12**  | Ice Fields  |                                     |
+| **13**  | Jungles     | Volcanoes                           |
+| **14**  | Lava Fields | Ice Fields                          |
+| **15**  | Mountains   | [Unusual Weather](#unusual-weather) |
+| **16**  | Peatlands   | Sinkholes                           |
+| **17**  | Quagmires   |                                     |
+| **18**  | Ravine      | Wildfires                           |
+| **19**  | Swamps      | Flash Floods                        |
+| **20**  | Wastelands  |                                     |
+
+#### Unusual Weather
+
+|         |                                                                                                                      |
+| ------- | -------------------------------------------------------------------------------------------------------------------- |
+|         |                                                                                                                      |
+| **d20** | The clouds are shaped like faces. They appear to be laughing.                                                        |
+| **1**   | Roaming, coughing, dust clouds that smell of cinnamon.                                                               |
+| **2**   | Days are erratic. The Sun goes backwards for a time, then jumps forward as night rapidly sets.                       |
+| **3**   | Lakes and streams dry up in minutes, filling storm clouds that drench the landscape.                                 |
+| **4**   | Rainbows lack most of their colors, and occasionally flicker. Raindrops fall in various colors. Do not taste them.   |
+| **5**   | Distant chimes instead of thunder. A smoky, sweet wind of no apparent origin blows in from the West.                 |
+| **6**   | Fog there fills the belly (no need for rations). Tomorrow, vomiting.                                                 |
+| **7**   | The winds carry whispers of voices. Some say they tell hints of the future.                                          |
+| **8**   | Shadows disappear at random. Animals are reluctant to enter.                                                         |
+| **9**   | Flashes of movement in the periphery that always amount to nothing. Travelers return without gaps in their memories. |
+| **10**  | The air is thicker than usual, and breathing is difficult. Drinking water seems to help.                             |
+| **11**  | Periodic rains of small aquatic creatures (tadpoles, frogs, small fish). No one knows where they come from.          |
+| **12**  |                                                                                                                      |
+| **13**  |                                                                                                                      |
+| **14**  |                                                                                                                      |
+| **15**  |                                                                                                                      |
+| **16**  |                                                                                                                      |
+| **17**  |                                                                                                                      |
+| **18**  |                                                                                                                      |
+| **19**  |                                                                                                                      |
+| **20**  |                                                                                                                      |
 
 ### Water
 
 #### Rivers
 
 Draw a wiggly line from the highest elevation point (i.e. Mountains) to the lowest (i.e. Plains), typically in a Southwardly direction. If the river runs through terrain that is higher in elevation, it might terminate in a **lake**. If your map has a sea, it might terminate there. Otherwise, the river can continue on off the map page.
+
+### Weather
+
+- Roll on the [Seasonal Weather](#seasonal-weather) table once for each season.
+
+#### Seasonal Weather
+
+|        |                  |                      |                   |                      |
+| ------ | ---------------- | -------------------- | ----------------- | -------------------- |
+| **d6** | **Spring**       | **Summer**           | **Fall**          | **Winter**           |
+| **1**  | Mild and sunny   | Hot and sunny        | Nice and breezy   | Mild and clear       |
+| **2**  | Nice and drizzly | Nice and cloudy      | Mild and windy    | Cool and windy       |
+| **3**  | Cool and breezy  | Mild and rainy       | Cool and foggy    | Cold and raining     |
+| **4**  | Mild and cloudy  | Cool and stormy      | Cold and cloudy   | Frigid and stormy    |
+| **5**  | Cold and windy   | Hot and humid        | Cool and rainy    | Freezing and snowing |
+| **6**  | Cold and rainy   | Sweltering and humid | Chilly and stormy | Freezing and hailing |
 
 ### Put it all Together
 
