@@ -208,6 +208,8 @@ A region's terrain and natural features are an essential part of any map, affect
 
 ### Easy
 
+Roll 2d20 and combine the results.
+
 |         |             |              |
 | ------- | ----------- | ------------ |
 | **d20** | **Terrain** | **Features** |
@@ -234,6 +236,8 @@ A region's terrain and natural features are an essential part of any map, affect
 
 ### Tough
 
+Roll 2d20 and combine the results.
+
 |         |             |              |
 | ------- | ----------- | ------------ |
 | **d20** | **Terrain** | **Features** |
@@ -259,6 +263,8 @@ A region's terrain and natural features are an essential part of any map, affect
 | **20**  | Woodlands   |              |
 
 ### Perilous
+
+Roll 2d20 and combine the results.
 
 |         |             |                   |
 | ------- | ----------- | ----------------- |
