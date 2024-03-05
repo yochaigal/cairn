@@ -296,13 +296,9 @@ Roll 2d20 and combine the results.
 
 Draw a wiggly line from the highest elevation point (i.e. Mountains) to the lowest (i.e. Plains), typically in a Southwardly direction. If the river runs through terrain that is higher in elevation, it might terminate in a **lake**. If your map has a sea, it might terminate there. Otherwise, the river can continue on off the map page.
 
-#### Lakes
-
-#### Sea
-
 ### Put it all Together
 
-#### Questions
+Ask yourself the following questions:
 
 - What power do they have over the people who live here?
 - Who or what threatens their Agenda?
