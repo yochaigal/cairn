@@ -219,17 +219,17 @@ Roll 2d20 and combine the results.
 | **1**   | Bluffs      | Mirage Lake        |
 | **2**   | Farmlands   | Fallen Column      |
 | **3**   | Fells       | Broken Sundial     |
-| **4**   |             | Sinkhole           |
-| **5**   | Foothills   | Heart Tree         |
-| **6**   | Glens       | Ancient Maze       |
-| **7**   | Grasslands  | Amber Den          |
-| **8**   |             | Glittering Cascade |
-| **9**   | Gulleys     | Cloud Stairway     |
-| **10**  | Heaths      | Silver Face        |
+| **4**   | Foothills   | Sinkhole           |
+| **5**   | Glens       | Heart Tree         |
+| **6**   | Gorges      | Circular Maze      |
+| **7**   | Grasslands  | False Oasis        |
+| **8**   | Gulleys     | Glittering Cascade |
+| **9**   | Heaths      | Cloud Stairway     |
+| **10**  | Lowlands    | Silver Face        |
 | **11**  | Meadows     | Great Waterwheel   |
 | **12**  | Moors       | Titanic Gate       |
 | **13**  | Pampas      | Golden Bridge      |
-| **14**  | Pastures    | Menhirs            |
+| **14**  | Pastures    | Circle of Menhirs  |
 | **15**  | Plains      | Enormous Footprint |
 | **16**  | Plateaus    | Dead Aqueduct      |
 | **17**  | Prairies    | Petrified Forest   |
@@ -245,7 +245,7 @@ Roll 2d20 and combine the results.
 | ------- | ----------- | ------------------- |
 | **d20** | **Terrain** | **Landmark**        |
 | **1**   | Barrens     | Basalt Columns      |
-| **2**   | Canyons     | Iceberg Field       |
+| **2**   | Canyons     | Massive Dung Ball   |
 | **3**   | Chaparral   | Behemoth Graveyard  |
 | **4**   | Coral Reefs | Salt Flat Mirrors   |
 | **5**   | Deserts     | Hanging Valley      |
@@ -275,23 +275,23 @@ Roll 2d20 and combine the results.
 | **1**   | Alpine Meadows | Behemoth's Skull    |
 | **2**   | Bogs           | Land Scar           |
 | **3**   | Boulders       | Large Thermal Vents |
-| **4**   | Caverns        |                     |
-| **5**   | Cliffs         |                     |
+| **4**   | Caverns        | Enormous Hive       |
+| **5**   | Cliffs         | Sky-Root            |
 | **6**   | Craters        | Crystalline Forest  |
-| **7**   | Crevasses      |                     |
-| **8**   | Geysers        |                     |
+| **7**   | Crevasses      | Ammonia Caves       |
+| **8**   | Geysers        | Meteor Garden       |
 | **9**   | Glaciers       | Active Volcano      |
-| **10**  | Gorges         | Ice Fields          |
-| **11**  | Hollows        |                     |
-| **12**  | Ice Fields     |                     |
-| **13**  | Jungles        |                     |
+| **10**  | Gorges         | Floating Object     |
+| **11**  | Hollows        | Weeping Bubble      |
+| **12**  | Ice Fields     | Reverse Waterfall   |
+| **13**  | Jungles        | Mao on the Mountain |
 | **14**  | Lava Fields    | River of Sulfur     |
 | **15**  | Mountains      | Magma Fields        |
-| **16**  | Peatlands      |                     |
-| **17**  | Quagmires      |                     |
-| **18**  | Ravine         |                     |
-| **19**  | Swamps         |                     |
-| **20**  | Wastelands     |                     |
+| **16**  | Peatlands      | Dome of Darkness    |
+| **17**  | Quagmires      | Inactive Automaton  |
+| **18**  | Ravine         | Titanic Ribcage     |
+| **19**  | Swamps         | Obsidian Needle     |
+| **20**  | Wastelands     | Siren Stones        |
 
 ### Water
 
