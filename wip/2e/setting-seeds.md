@@ -216,7 +216,7 @@ Roll 2d20 and combine the results.
 |         |             |                    |
 | ------- | ----------- | ------------------ |
 | **d20** | **Terrain** | **Landmark**       |
-| **1**   | Bluffs      | Mirage Lake        |
+| **1**   | Bluffs      | Opaque Lake        |
 | **2**   | Farmlands   | Fallen Column      |
 | **3**   | Fells       | Broken Sundial     |
 | **4**   | Foothills   | Sinkhole           |
