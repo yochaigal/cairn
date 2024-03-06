@@ -186,17 +186,19 @@ Roll 2d20 and combine the results.
 
 ### Topography
 
-A region's terrain and natural features are an essential part of any map, affecting the local history, resources, settlements, culture, and more. 
+A region's terrain and natural features are an essential part of any map, affecting the local history, resources, settlements, culture, and more.
+
+#### Landmarks 
+
+**Landmarks** are unique, visible POIs that can also be used as geographic reference points: towers, mountains, tall buildings, and so on. They help orient travelers around the map, and are _especially_ visible from areas with higher elevation or a clear viewpoint. Landmarks are _represented on the map by a triangle_.
 
 #### Draw Terrain
 
 - Roll **3d6**, collecting any dice that roll off the page and setting them aside.
 - Draw long, curvy lines across the page, carving up the map around each die. 
-- Remove each die, noting the face up result according to the [Terrain Die Drop Table](#terrain-die-drop-table) on the page. For example, the number 1 would indicate Easy terrain, denoted by the letter "E" on the page. 
-- Reroll any dice that rolled off the page and note the results on the map.
-- Roll on the relevant table below for each terrain type, noting the results in the map.
-
-> Some terrain features may prompt you to roll on the [Unusual Weather](#unusual-weather) table as well.
+- Roll on the relevant table for each result, noting the terrain type and Landmarks on the map.
+  - Each terrain type is accompanied by a unique Landmark, noted on the map by a triangle.
+- If necessary, reroll any dice that rolled off the page.
 
 ### Terrain Die Drop Table
 
@@ -211,85 +213,108 @@ A region's terrain and natural features are an essential part of any map, affect
 
 Roll 2d20 and combine the results.
 
-|         |             |                                     |
-| ------- | ----------- | ----------------------------------- |
-| **d20** | **Terrain** | **Features**                        |
-| **1**   | Bluffs      |                                     |
-| **2**   | Farmlands   | Dense Fog                           |
-| **3**   | Fells       |                                     |
-| **4**   | Fields      |                                     |
-| **5**   | Foothills   | [Unusual Weather](#unusual-weather) |
-| **6**   | Glens       |                                     |
-| **7**   | Grasslands  |                                     |
-| **8**   | Groves      |                                     |
-| **9**   | Gulleys     |                                     |
-| **10**  | Heaths      |                                     |
-| **11**  | Meadows     |                                     |
-| **12**  | Moors       |                                     |
-| **13**  | Pampas      | [Unusual Weather](#unusual-weather) |
-| **14**  | Pastures    |                                     |
-| **15**  | Plains      |                                     |
-| **16**  | Plateaus    |                                     |
-| **17**  | Prairies    |                                     |
-| **18**  | Savannas    |                                     |
-| **19**  | Steppes     |                                     |
-| **20**  | Valleys     |                                     |
+|         |             |                    |
+| ------- | ----------- | ------------------ |
+| **d20** | **Terrain** | **Landmark**       |
+| **1**   | Bluffs      | Mirage Lake        |
+| **2**   | Farmlands   | Fallen Column      |
+| **3**   | Fells       | Broken Sundial     |
+| **4**   | Fields      | Massive Hole       |
+| **5**   | Foothills   | Heart Tree         |
+| **6**   | Glens       | Ancient Maze       |
+| **7**   | Grasslands  | Amber Den          |
+| **8**   | Groves      | Glittering Cascade |
+| **9**   | Gulleys     | Cloud Stairway     |
+| **10**  | Heaths      | Silver Face        |
+| **11**  | Meadows     | Great Waterwheel   |
+| **12**  | Moors       | Gate for Titans    |
+| **13**  | Pampas      | Golden Bridge      |
+| **14**  | Pastures    | Crystal Spire      |
+| **15**  | Plains      | Enormous Footprint |
+| **16**  | Plateaus    | Dead Aqueduct      |
+| **17**  | Prairies    | Petrified Forest   |
+| **18**  | Savannas    | Giant's Throne     |
+| **19**  | Steppes     | Great Face         |
+| **20**  | Valleys     | Fire Temple        |
 
 ### Tough
 
 Roll 2d20 and combine the results.
 
-|         |             |                                     |
-| ------- | ----------- | ----------------------------------- |
-| **d20** | **Terrain** | **Features**                        |
-| **1**   | Barrens     |                                     |
-| **2**   | Canyons     | Natural Bridges                     |
-| **3**   | Chaparral   | [Unusual Weather](#unusual-weather) |
-| **4**   | Coral Reefs |                                     |
-| **5**   | Deserts     |                                     |
-| **6**   | Dunes       |                                     |
-| **7**   | Estuaries   |                                     |
-| **8**   | Fens        |                                     |
-| **9**   | Forests     | Weak Ground                         |
-| **10**  | Heathlands  |                                     |
-| **11**  | Hills       |                                     |
-| **12**  | Mangroves   |                                     |
-| **13**  | Marshlands  |                                     |
-| **14**  | Moorlands   | [Unusual Weather](#unusual-weather) |
-| **15**  | Rainforests |                                     |
-| **16**  | Scrublands  |                                     |
-| **17**  | Taiga       |                                     |
-| **18**  | Thickets    |                                     |
-| **19**  | Tundra      |                                     |
-| **20**  | Woodlands   |                                     |
+|         |             |                    |
+| ------- | ----------- | ------------------ |
+| **d20** | **Terrain** | **Landmark**       |
+| **1**   | Barrens     | Basalt Columns     |
+| **2**   | Canyons     | Iceberg Field      |
+| **3**   | Chaparral   | Behemoth Graveyard |
+| **4**   | Coral Reefs | Salt Flat Mirrors  |
+| **5**   | Deserts     | Hanging Valley     |
+| **6**   | Dunes       | Stalagmite Forest  |
+| **7**   | Estuaries   | Cinder Cone Field  |
+| **8**   | Fens        | Giant's Quiver     |
+| **9**   | Forests     | Titan's Table      |
+| **10**  | Heathlands  | Algae Falls        |
+| **11**  | Hills       | Leviathan Bones    |
+| **12**  | Mangroves   | Crystal Forest     |
+| **13**  | Marshlands  | Undying Flame      |
+| **14**  | Moorlands   | Behemoth's Skull   |
+| **15**  | Rainforests | Shrouded Ziggurat  |
+| **16**  | Scrublands  | Sunken Colossus    |
+| **17**  | Taiga       | Molten River       |
+| **18**  | Thickets    |                    |
+| **19**  | Tundra      |                    |
+| **20**  | Woodlands   |                    |
 
 ### Perilous
 
 Roll 2d20 and combine the results.
 
-|         |             |                                     |
-| ------- | ----------- | ----------------------------------- |
-| **d20** | **Terrain** | **Features**                        |
-| **1**   | Badlands    | Acid Rain                           |
-| **2**   | Bogs        | [Unusual Weather](#unusual-weather) |
-| **3**   | Boulders    | Venomous Insects                    |
-| **4**   | Caverns     |                                     |
-| **5**   | Cliffs      | Thermal Vents                       |
-| **6**   | Craters     | Poisonous Foliage                   |
-| **7**   | Crevasses   |                                     |
-| **8**   | Geysers     | Toxic Water                         |
-| **9**   | Glaciers    | Crystal Growths                     |
-| **10**  | Gorges      | Earthquakes                         |
-| **11**  | Hollows     | Dust Storms                         |
-| **12**  | Ice Fields  |                                     |
-| **13**  | Jungles     | Volcanoes                           |
-| **14**  | Lava Fields | Ice Fields                          |
-| **15**  | Mountains   | [Unusual Weather](#unusual-weather) |
-| **16**  | Peatlands   | Sinkholes                           |
-| **17**  | Quagmires   |                                     |
-| **18**  | Ravine      | Wildfires                           |
-| **19**  | Swamps      | Flash Floods                        |
-| **20**  | Wastelands  |                                     |
+|         |             |                   |
+| ------- | ----------- | ----------------- |
+| **d20** | **Terrain** | **Landmark**      |
+| **1**   | Badlands    | Acid Rain         |
+| **2**   | Bogs        | Venomous Insects  |
+| **3**   | Boulders    | Thermal Vents     |
+| **4**   | Caverns     | Poisonous Foliage |
+| **5**   | Cliffs      | Toxic Water       |
+| **6**   | Craters     | Crystal Growths   |
+| **7**   | Crevasses   | Earthquakes       |
+| **8**   | Geysers     | Dust Storms       |
+| **9**   | Glaciers    | Volcanoes         |
+| **10**  | Gorges      | Ice Fields        |
+| **11**  | Hollows     | Sinkholes         |
+| **12**  | Ice Fields  | Wildfires         |
+| **13**  | Jungles     | Flash Floods      |
+| **14**  | Lava Fields |                   |
+| **15**  | Mountains   |                   |
+| **16**  | Peatlands   |                   |
+| **17**  | Quagmires   |                   |
+| **18**  | Ravine      |                   |
+| **19**  | Swamps      |                   |
+| **20**  | Wastelands  |                   |
+
+### Water
+
+#### Rivers
+
+Draw a wiggly line from the highest elevation point (i.e. Mountains) to the lowest (i.e. Plains), typically in a Southwardly direction. If the river runs through terrain that is higher in elevation, it might terminate in a **lake**. If your map has a sea, it might terminate there. Otherwise, the river can continue on off the map page.
+
+### Weather
+
+- Roll on the [Seasonal Weather](#seasonal-weather) table once for each season.
+- [ToDo Unusual Weather Tables]
+
+#### Seasonal Weather
+
+|        |                  |                      |                   |                      |
+| ------ | ---------------- | -------------------- | ----------------- | -------------------- |
+| **d6** | **Spring**       | **Summer**           | **Fall**          | **Winter**           |
+| **1**  | Mild and sunny   | Hot and sunny        | Nice and breezy   | Mild and clear       |
+| **2**  | Nice and drizzly | Nice and cloudy      | Mild and windy    | Cool and windy       |
+| **3**  | Cool and breezy  | Mild and rainy       | Cool and foggy    | Cold and raining     |
+| **4**  | Mild and cloudy  | Cool and stormy      | Cold and cloudy   | Frigid and stormy    |
+| **5**  | Cold and windy   | Hot and humid        | Cool and rainy    | Freezing and snowing |
+| **6**  | Cold and rainy   | Sweltering and humid | Chilly and stormy | Freezing and hailing |
 
 #### Unusual Weather
 
@@ -317,28 +342,6 @@ Roll 2d20 and combine the results.
 | **18**  |                                                                                                                      |
 | **19**  |                                                                                                                      |
 | **20**  |                                                                                                                      |
-
-### Water
-
-#### Rivers
-
-Draw a wiggly line from the highest elevation point (i.e. Mountains) to the lowest (i.e. Plains), typically in a Southwardly direction. If the river runs through terrain that is higher in elevation, it might terminate in a **lake**. If your map has a sea, it might terminate there. Otherwise, the river can continue on off the map page.
-
-### Weather
-
-- Roll on the [Seasonal Weather](#seasonal-weather) table once for each season.
-
-#### Seasonal Weather
-
-|        |                  |                      |                   |                      |
-| ------ | ---------------- | -------------------- | ----------------- | -------------------- |
-| **d6** | **Spring**       | **Summer**           | **Fall**          | **Winter**           |
-| **1**  | Mild and sunny   | Hot and sunny        | Nice and breezy   | Mild and clear       |
-| **2**  | Nice and drizzly | Nice and cloudy      | Mild and windy    | Cool and windy       |
-| **3**  | Cool and breezy  | Mild and rainy       | Cool and foggy    | Cold and raining     |
-| **4**  | Mild and cloudy  | Cool and stormy      | Cold and cloudy   | Frigid and stormy    |
-| **5**  | Cold and windy   | Hot and humid        | Cool and rainy    | Freezing and snowing |
-| **6**  | Cold and rainy   | Sweltering and humid | Chilly and stormy | Freezing and hailing |
 
 ### Put it all Together
 
@@ -376,7 +379,7 @@ Points of Interest on a map (or POIs) are generally divided into the following c
 - Remove each die, noting the face up result according to the [POI Die Drop Table](#poi-die-drop-table) on the page. For example, the number 4 would indicate a Lair, denoted by the letter "L" on the page. 
 - Roll any dice that fell off the map page, repeating the previous process until no dice are remaining.
 - Starting with the Heart, number each POI on the map.
-- Roll on the relevant tables for each POI, including the Heart. Note the results for each in your notebook.
+- Roll on the relevant tables for each POI, including the Heart and all Landmarks. Note the results for each in your notebook.
 
 > Some POIs may allow the PCs to see more of the world than what appears on their map.
 
@@ -529,41 +532,6 @@ Roll 2d20 and combine the results.
 | **18**  | Fort           | Sealed       |
 | **19**  | Palace         | Toxic        |
 | **20**  | Tomb           | Warped       |
-
-### Landmarks
-
-**Landmarks** are unique, visible POIs that can also be used as geographic reference points: towers, mountains, tall buildings, and so on. They help orient travelers around the map, and are _especially_ visible from areas with higher elevation or a clear viewpoint. Landmarks are _represented on the map by a triangle_.
-
-- To create Landmarks, roll 3d6 dice on the map, ignoring the face-up result. Draw a triangle on the map for each. Ignore any dice that fell off the page.
-- Number each Landmark on the map, then roll on the [Landmark Features](#landmark-features) table, noting the results in your notebook.
-
-### Landmark Features
-
-Roll 2d20 and combine the results.
-
-|         |                    |                               |
-| ------- | ------------------ | ----------------------------- |
-| **d20** | **Landmark**       | **Feature**                   |
-| **1**   | Enormous Footprint | Hollow                        |
-| **2**   | Dead Aqueduct      | Something Special Grows There |
-| **3**   | Petrified Forest   | Hides Something Powerful      |
-| **4**   | Giant's Throne     | Unchanging                    |
-| **5**   | Great Face         | Smaller than It Appears       |
-| **6**   | Fire Temple        | Popular With Cults            |
-| **7**   | Mirage Lake        | Unaffected by Weather         |
-| **8**   | Fallen Column      | Continually Humming           |
-| **9**   | Broken Sundial     | Part of a Series              |
-| **10**  | Massive Hole       | Visible from any Distance     |
-| **11**  | Heart Tree         | Collapsing                    |
-| **12**  | Ancient Maze       | Slowly Rotates                |
-| **13**  | Amber Den          | Untouched                     |
-| **14**  | Glittering Cascade | Toxic to its Surroundings     |
-| **15**  | Cloud Stairway     | Larger than it Appears        |
-| **16**  | Silver Face        | Wet, but not with Water       |
-| **17**  | Great Waterwheel   | Only Appears at Night         |
-| **18**  | Gate for Titans    | Has Always Been Here          |
-| **19**  | Golden Bridge      | Recently Appeared             |
-| **20**  | Crystal Spire      | Resplendent with Dead Things  |
 
 ## Paths
 
