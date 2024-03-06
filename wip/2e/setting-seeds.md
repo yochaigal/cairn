@@ -11,7 +11,7 @@ search_exclude: true
 
 ## Overview
 
-The following procedure is designed to help create the _seed_ of a setting: the unique topography, natural features, people, and paths that an adventuring party may have to navigate as they travel throughout a region. We'll start by develop the people that live their, their ambitions and resources, and the factions that rule them. Then we'll draw a map of a single region, noting its points of interest, landmarks, roads, trails, and so on.
+The following procedure is designed to help create the _seed_ of a setting: the unique topography, natural features, people, and paths that an adventuring party may have to navigate as they travel throughout a region. We'll start by develop the people that live their, their ambitions and resources, and the factions that rule them. Then we'll generate the terrain of your region, followed by its various points of interest, landmarks, roads, trails, and so on.
 
 ## Example
 
@@ -219,79 +219,79 @@ Roll 2d20 and combine the results.
 | **1**   | Bluffs      | Mirage Lake        |
 | **2**   | Farmlands   | Fallen Column      |
 | **3**   | Fells       | Broken Sundial     |
-| **4**   | Fields      | Massive Hole       |
+| **4**   |             | Sinkhole           |
 | **5**   | Foothills   | Heart Tree         |
 | **6**   | Glens       | Ancient Maze       |
 | **7**   | Grasslands  | Amber Den          |
-| **8**   | Groves      | Glittering Cascade |
+| **8**   |             | Glittering Cascade |
 | **9**   | Gulleys     | Cloud Stairway     |
 | **10**  | Heaths      | Silver Face        |
 | **11**  | Meadows     | Great Waterwheel   |
-| **12**  | Moors       | Gate for Titans    |
+| **12**  | Moors       | Titanic Gate       |
 | **13**  | Pampas      | Golden Bridge      |
-| **14**  | Pastures    | Crystal Spire      |
+| **14**  | Pastures    | Menhirs            |
 | **15**  | Plains      | Enormous Footprint |
 | **16**  | Plateaus    | Dead Aqueduct      |
 | **17**  | Prairies    | Petrified Forest   |
 | **18**  | Savannas    | Giant's Throne     |
-| **19**  | Steppes     | Great Face         |
+| **19**  | Steppes     | Great Stone Face   |
 | **20**  | Valleys     | Fire Temple        |
 
 ### Tough
 
 Roll 2d20 and combine the results.
 
-|         |             |                    |
-| ------- | ----------- | ------------------ |
-| **d20** | **Terrain** | **Landmark**       |
-| **1**   | Barrens     | Basalt Columns     |
-| **2**   | Canyons     | Iceberg Field      |
-| **3**   | Chaparral   | Behemoth Graveyard |
-| **4**   | Coral Reefs | Salt Flat Mirrors  |
-| **5**   | Deserts     | Hanging Valley     |
-| **6**   | Dunes       | Stalagmite Forest  |
-| **7**   | Estuaries   | Cinder Cone Field  |
-| **8**   | Fens        | Giant's Quiver     |
-| **9**   | Forests     | Titan's Table      |
-| **10**  | Heathlands  | Algae Falls        |
-| **11**  | Hills       | Leviathan Bones    |
-| **12**  | Mangroves   | Crystal Forest     |
-| **13**  | Marshlands  | Undying Flame      |
-| **14**  | Moorlands   | Behemoth's Skull   |
-| **15**  | Rainforests | Shrouded Ziggurat  |
-| **16**  | Scrublands  | Sunken Colossus    |
-| **17**  | Taiga       | Molten River       |
-| **18**  | Thickets    |                    |
-| **19**  | Tundra      |                    |
-| **20**  | Woodlands   |                    |
+|         |             |                     |
+| ------- | ----------- | ------------------- |
+| **d20** | **Terrain** | **Landmark**        |
+| **1**   | Barrens     | Basalt Columns      |
+| **2**   | Canyons     | Iceberg Field       |
+| **3**   | Chaparral   | Behemoth Graveyard  |
+| **4**   | Coral Reefs | Salt Flat Mirrors   |
+| **5**   | Deserts     | Hanging Valley      |
+| **6**   | Dunes       | Stalagmite Forest   |
+| **7**   | Estuaries   | Cinder Cones        |
+| **8**   | Fens        | Forest of Arrows    |
+| **9**   | Forests     | Canyon Bridge       |
+| **10**  | Heathlands  | Algae Falls         |
+| **11**  | Hills       | Leviathan Bones     |
+| **12**  | Mangroves   | Crystal Forest      |
+| **13**  | Marshlands  | Flame Pits          |
+| **14**  | Moorlands   | Massive Crater      |
+| **15**  | Rainforests | Shrouded Ziggurat   |
+| **16**  | Scrublands  | Sunken Colossus     |
+| **17**  | Taiga       | Fungal Forest       |
+| **18**  | Thickets    | Titan's Table       |
+| **19**  | Tundra      | Frozen Waterfall    |
+| **20**  | Woodlands   | Inverted Lighthouse |
 
 ### Perilous
 
 Roll 2d20 and combine the results.
 
-|         |             |                   |
-| ------- | ----------- | ----------------- |
-| **d20** | **Terrain** | **Landmark**      |
-| **1**   | Badlands    | Acid Rain         |
-| **2**   | Bogs        | Venomous Insects  |
-| **3**   | Boulders    | Thermal Vents     |
-| **4**   | Caverns     | Poisonous Foliage |
-| **5**   | Cliffs      | Toxic Water       |
-| **6**   | Craters     | Crystal Growths   |
-| **7**   | Crevasses   | Earthquakes       |
-| **8**   | Geysers     | Dust Storms       |
-| **9**   | Glaciers    | Volcanoes         |
-| **10**  | Gorges      | Ice Fields        |
-| **11**  | Hollows     | Sinkholes         |
-| **12**  | Ice Fields  | Wildfires         |
-| **13**  | Jungles     | Flash Floods      |
-| **14**  | Lava Fields |                   |
-| **15**  | Mountains   |                   |
-| **16**  | Peatlands   |                   |
-| **17**  | Quagmires   |                   |
-| **18**  | Ravine      |                   |
-| **19**  | Swamps      |                   |
-| **20**  | Wastelands  |                   |
+|         |                |                     |
+| ------- | -------------- | ------------------- |
+| **d20** | **Terrain**    | **Landmark**        |
+| **1**   | Alpine Meadows | Behemoth's Skull    |
+| **2**   | Bogs           | Land Scar           |
+| **3**   | Boulders       | Large Thermal Vents |
+| **4**   | Caverns        |                     |
+| **5**   | Cliffs         |                     |
+| **6**   | Craters        | Crystalline Forest  |
+| **7**   | Crevasses      |                     |
+| **8**   | Geysers        |                     |
+| **9**   | Glaciers       | Active Volcano      |
+| **10**  | Gorges         | Ice Fields          |
+| **11**  | Hollows        |                     |
+| **12**  | Ice Fields     |                     |
+| **13**  | Jungles        |                     |
+| **14**  | Lava Fields    | River of Sulfur     |
+| **15**  | Mountains      | Magma Fields        |
+| **16**  | Peatlands      |                     |
+| **17**  | Quagmires      |                     |
+| **18**  | Ravine         |                     |
+| **19**  | Swamps         |                     |
+| **20**  | Wastelands     |                     |
 
 ### Water
 
