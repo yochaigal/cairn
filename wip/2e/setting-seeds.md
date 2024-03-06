@@ -196,8 +196,9 @@ A region's terrain and natural features are an essential part of any map, affect
 
 - Roll **3d6**, collecting any dice that roll off the page and setting them aside.
 - Draw long, curvy lines across the page, carving up the map around each die. 
-- Roll on the relevant table for each result, writing the terrain type and Landmark on the map. 
-  - Reroll any dice that rolled off the page, repeating the process for each die. 
+- Roll on the relevant table for each result, writing the terrain type on the map.
+  - Replace the die with a triangle, writing the Landmark result beneath.
+  - Reroll any dice that rolled off the page, following the earlier process as before. 
   - If there are any empty spaces in need of terrain, roll a die anywhere you like and use the face-up result as before.
 
 ### Terrain Die Drop Table
@@ -297,7 +298,7 @@ Roll 2d20 and combine the results.
 
 Every region should have some kind of water source. Otherwise, where would the locals get their drinking water, or receive news from the rest of the realm? 
 
-To create water, draw a wiggly line from the highest elevation point (i.e. Mountains) to the lowest (i.e. Plains), typically in a Southwardly direction. If the river runs through terrain that is higher in elevation, it might terminate in a **lake**. If your map has a sea, it might terminate there. Otherwise, the river can continue on off the map page.
+To create water, draw a wiggly line from the highest elevation point (i.e. Mountains) to the lowest (i.e. Plains). If the river runs through terrain that is higher in elevation, it might terminate in a **lake**. If your map has a sea, it might terminate there. Otherwise, the river can continue on off the map page.
 
 ### Weather
 
@@ -317,30 +318,29 @@ The weather can have a great impact on the people, culture, and terrain of a reg
 
 #### Unusual Weather
 
-|         |                                                                                                                      |
-| ------- | -------------------------------------------------------------------------------------------------------------------- |
-|         |                                                                                                                      |
-| **d20** | The clouds are shaped like faces. They appear to be laughing.                                                        |
-| **1**   | Roaming, coughing, dust clouds that smell of cinnamon.                                                               |
-| **2**   | Days are erratic. The Sun goes backwards for a time, then jumps forward as night rapidly sets.                       |
-| **3**   | Lakes and streams dry up in minutes, filling storm clouds that drench the landscape.                                 |
-| **4**   | Rainbows lack most of their colors, and occasionally flicker. Raindrops fall in various colors. Do not taste them.   |
-| **5**   | Distant chimes instead of thunder. A smoky, sweet wind of no apparent origin blows in from the West.                 |
-| **6**   | Fog there fills the belly (no need for rations). Tomorrow, vomiting.                                                 |
-| **7**   | The winds carry whispers of voices. Some say they tell hints of the future.                                          |
-| **8**   | Shadows disappear at random. Animals are reluctant to enter.                                                         |
-| **9**   | Flashes of movement in the periphery that always amount to nothing. Travelers return without gaps in their memories. |
-| **10**  | The air is thicker than usual, and breathing is difficult. Drinking water seems to help.                             |
-| **11**  | Periodic rains of small aquatic creatures (tadpoles, frogs, small fish). No one knows where they come from.          |
-| **12**  |                                                                                                                      |
-| **13**  |                                                                                                                      |
-| **14**  |                                                                                                                      |
-| **15**  |                                                                                                                      |
-| **16**  |                                                                                                                      |
-| **17**  |                                                                                                                      |
-| **18**  |                                                                                                                      |
-| **19**  |                                                                                                                      |
-| **20**  |                                                                                                                      |
+|         |                                                                                                             |
+| ------- | ----------------------------------------------------------------------------------------------------------- |
+| **d20** | The clouds are shaped like faces. They appear to be laughing.                                               |
+| **1**   | Roaming, coughing, dust clouds that smell of cinnamon.                                                      |
+| **2**   | Days are erratic. The Sun goes backwards for a time, then jumps forward as night rapidly sets.              |
+| **3**   | Lakes and streams dry up in minutes, filling storm clouds that drench the landscape.                        |
+| **4**   | Rainbows lack most of their colors, and occasionally flicker. Raindrops fall in various colors.             |
+| **5**   | Distant chimes instead of thunder. A smoky, sweet wind of no apparent origin blows in from the West.        |
+| **6**   | Fog there fills the belly (no need for rations). Tomorrow, vomiting.                                        |
+| **7**   | The winds carry whispers of voices. Some say they tell hints of the future.                                 |
+| **8**   | Shadows disappear at random. Animals are reluctant to enter.                                                |
+| **9**   | Flashes of movement in the periphery that always amount to nothing.                                         |
+| **10**  | The air is thicker than usual, and breathing is difficult.                                                  |
+| **11**  | Periodic rains of small aquatic creatures (tadpoles, frogs, small fish). No one knows where they come from. |
+| **12**  | An aurora that is visible even during the day.                                                              |
+| **13**  | When it snows, the flakes are warm and dry.                                                                 |
+| **14**  | The moon appears larger, and softly hums at night.                                                          |
+| **15**  | An annual fog appears randomly, turning metallic surfaces to gold on contact.                               |
+| **16**  | Birds fly backwards, yet somehow still move forward.                                                        |
+| **17**  | The rain glows gently at night. It can be gathered, but the light eventually fades.                         |
+| **18**  | The stars arrange themselves in intricate patterns, making navigation difficult.                            |
+| **19**  | Enormous, fleshy eyes peer down from the skies, their pupils lighting up the night sky.                     |
+| **20**  | For half the year the sky is bare of moon and stars, and the land is pitch-black.                           |
 
 ### Put It All Together
 
@@ -384,13 +384,13 @@ Points of Interest on a map (or POIs) are generally divided into the following c
 
 ### POI Die Drop Table
 
-|         |                        |
-| ------- | ---------------------- |
-| **d6**  | **POI**                |
-| **1**   | Waypoint or Settlement |
-| **2-3** | Curiosity              |
-| **4**   | Lair                   |
-| **5-6** | Dungeon                |
+|         |                          |
+| ------- | ------------------------ |
+| **d6**  | **POI**                  |
+| **1**   | Waypoint _or_ Settlement |
+| **2-3** | Curiosity                |
+| **4**   | Lair                     |
+| **5-6** | Dungeon                  |
  
 ### Settlements
 
