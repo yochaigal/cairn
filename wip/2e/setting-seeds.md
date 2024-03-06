@@ -235,7 +235,7 @@ Roll 2d20 and combine the results.
 | **17**  | Prairies    | Petrified Forest   |
 | **18**  | Savannas    | Giant's Throne     |
 | **19**  | Steppes     | Great Stone Face   |
-| **20**  | Valleys     | Fire Temple        |
+| **20**  | Valleys     | Pit of Cold Fire   |
 
 ### Tough
 
