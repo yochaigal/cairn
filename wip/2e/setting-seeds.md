@@ -342,16 +342,16 @@ The weather can have a great impact on the people, culture, and terrain of a reg
 | **19**  |                                                                                                                      |
 | **20**  |                                                                                                                      |
 
-### Put it all Together
+### Put It All Together
 
 Ask yourself the following questions:
 
-- What power do they have over the people who live here?
+- How does the region's terrain effect the people that live here? 
+- What would draw people to this region? What keeps them here?
+- How do the people here think of outsiders? How do outsiders think of them?
+- What power do the Factions have over the people who live here?
 - Who or what threatens their Agenda?
 - How would the Faction interact with any newcomers (i.e. an adventuring party)?
-- What sorts of people act on behalf of these Factions?
-- How does the region's terrain effect the people that live here? 
-- What would draw people to this region? What keeps them there?
 
 You should now have a sufficient idea about the people and terrain of this region, and are finally ready to form these results into a coherent theme. 
 
@@ -359,7 +359,7 @@ For example, if I rolled up a people that were there religious and sought conver
 
 Presume that I also rolled up a ruling Faction of Nomads, whose primary Advantage was their conviction, I would assume the elites were a class of religious chiefs. If the Faction's Agenda was to cultivate a rare resource, but that they were hindered by cultural taboos, I might decide that they had hired the party to take on the task. Perhaps the object of their quest was a unique plant, only grown in a distant place, and that the mission must remain a secret? 
  
-Finally, the party would meet with one of the Faction's Seneschals, a spy posing as a Peddler. Only he could tell them where the plant grew, and how to cultivate it.
+Finally, the party would meet with one of the Faction's Seneschals, a spy posing as a Peddler. Only she could tell them where the plant grew, and how to cultivate it.
 
 ## Points of Interest
 
