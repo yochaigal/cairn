@@ -196,9 +196,9 @@ A region's terrain and natural features are an essential part of any map, affect
 
 - Roll **3d6**, collecting any dice that roll off the page and setting them aside.
 - Draw long, curvy lines across the page, carving up the map around each die. 
-- Roll on the relevant table for each result, noting the terrain type and Landmarks on the map.
-  - Each terrain type is accompanied by a unique Landmark, noted on the map by a triangle.
-- If necessary, reroll any dice that rolled off the page.
+- Roll on the relevant table for each result, writing the terrain type and Landmark on the map. 
+  - Reroll any dice that rolled off the page, repeating the process for each die. 
+  - If there are any empty spaces in need of terrain, roll a die anywhere you like and use the face-up result as before.
 
 ### Terrain Die Drop Table
 
@@ -293,16 +293,15 @@ Roll 2d20 and combine the results.
 | **19**  | Swamps         | Obsidian Needle     |
 | **20**  | Wastelands     | Siren Stones        |
 
-### Water
+#### Rivers, Seas, and Lakes
 
-#### Rivers
+Every region should have some kind of water source. Otherwise, where would the locals get their drinking water, or receive news from the rest of the realm? 
 
-Draw a wiggly line from the highest elevation point (i.e. Mountains) to the lowest (i.e. Plains), typically in a Southwardly direction. If the river runs through terrain that is higher in elevation, it might terminate in a **lake**. If your map has a sea, it might terminate there. Otherwise, the river can continue on off the map page.
+To create water, draw a wiggly line from the highest elevation point (i.e. Mountains) to the lowest (i.e. Plains), typically in a Southwardly direction. If the river runs through terrain that is higher in elevation, it might terminate in a **lake**. If your map has a sea, it might terminate there. Otherwise, the river can continue on off the map page.
 
 ### Weather
 
-- Roll on the [Seasonal Weather](#seasonal-weather) table once for each season.
-- [ToDo Unusual Weather Tables]
+The weather can have a great impact on the people, culture, and terrain of a region. It impacts what kinds of clothes the adventurers need to wear, what sorts of tools they'll have to bring, and how tough the journey might be. To determine the average weather of a region, roll on the [Seasonal Weather](#seasonal-weather) table once for each season. Optionally, you may also roll on the [Unusual Weather](#unusual-weather) table around particular landmarks or terrain.
 
 #### Seasonal Weather
 
@@ -354,7 +353,7 @@ Ask yourself the following questions:
 - How does the region's terrain effect the people that live here? 
 - What would draw people to this region? What keeps them there?
 
-You should now have a sufficient idea about the people of this Realm, including their character, ambitions, resources, and Faction details, and are finally ready to form these results into a coherent theme. 
+You should now have a sufficient idea about the people and terrain of this region, and are finally ready to form these results into a coherent theme. 
 
 For example, if I rolled up a people that were there religious and sought conversion, I'd assume they were a proud folk, but prone to religious extremes and proselytizing. And if their primary resources were land, yet spices were rare, I'd assume they grew their own food, but that due to a religious prohibition their cuisine was often bland.
 
@@ -374,7 +373,7 @@ Points of Interest on a map (or POIs) are generally divided into the following c
 
 ### Draw Points of Interest
 
-- Draw the letter **H** anywhere on the map, or roll a d6 and mark where it lands. Ignore the face-up result. 
+- Draw the letter **H** close to a water source on the map. 
 - Roll **6d6** on the map, collecting any dice that roll off the page and setting them aside. These are the maps's Points of Interest.
 - Remove each die, noting the face up result according to the [POI Die Drop Table](#poi-die-drop-table) on the page. For example, the number 4 would indicate a Lair, denoted by the letter "L" on the page. 
 - Roll any dice that fell off the map page, repeating the previous process until no dice are remaining.
@@ -588,17 +587,15 @@ Roll 2d20 and combine the results.
 
 ## Conclusion
 
-Your first region is now complete. You may repeat the process as many times as you wish, starting with [Draw the Region](#draw-the-region) and connecting each region to taste.
+Your first region is now complete. You may repeat the process as many times as you wish. Everything beyond this point is just for reference; we'll have a separate naming chapter I think. Still, might be helpful.
 
-> Everything beyond this point is just for reference; we'll have a separate naming chapter I think. Still, might be helpful.
-
-## On Names 
+### On Names 
 
 - Settlements are often named after their unique features: the shape of the river nearby, or the large windmill in the town center. The residents then add a noun or adjective: _Windy Gulch, Black Tree Fort, Rotting Gardens_, etc.
 - Important places (like cities) should have important names, like those of heroes, religious/political figures, and important events: _The Chalet of Saint Ibiz, Queen's Harvest, Light of the Nine_, etc.
 - Wild and dangerous places are named after their obvious hazards: poison lake, greedy mines, etc. Some tell a story: _Luka's Folly, Dead Man's Path_, etc. 
 
-### Generating Names
+#### Generating Names
 
 - Starting with the **Heart**, roll on the [Names Formula](#names-formula) table to name each POI on the map.
 - Use both the region's local terrain as well as the specific POI details where appropriate. 
@@ -608,7 +605,7 @@ Your first region is now complete. You may repeat the process as many times as y
 
 | To roll **1d100**, roll **2d10**, using one die for the tens place, and one die for the ones place.
 
-### Names Formula
+#### Names Formula
 
 |           |                                 |
 | --------- | ------------------------------- |
@@ -620,7 +617,7 @@ Your first region is now complete. You may repeat the process as many times as y
 | **9-10**  | The **[Noun]** **[Terrain]**    |
 | **11-12** | **[Terrain]** of the **[Noun]** |
 
-### Example Names
+#### Example Names
 
 - Cliffs / Ruins / Abandoned Settlement: 1-2 = **Forgotten Bluffs**
 - Plateau / Lair / Abandoned Bridge: 3-4 = **Flat Crossing**
@@ -629,7 +626,7 @@ Your first region is now complete. You may repeat the process as many times as y
 - Oasis / Special / Unusual Gravity: 9-10 = **The Floating Spring** 
 - Grasslands / Landmark / Mysterious Megalith: 11-12 = **Field of the Stone Gods**
 
-### Adjectives
+#### Adjectives
 
 |          |            |         |            |
 | -------- | ---------- | ------- | ---------- |
@@ -685,7 +682,7 @@ Your first region is now complete. You may repeat the process as many times as y
 | **49**   | Frayed     | **99**  | Thin       |
 | **50**   | Frozen     | **100** | Withered   |
 
-### Nouns
+#### Nouns
 
 |          |            |         |           |
 | -------- | ---------- | ------- | --------- |
