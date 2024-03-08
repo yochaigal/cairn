@@ -19,9 +19,9 @@ Each of the three **Attributes** are used in different circumstances (see **Save
 
 ## Saves
 
-- A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs roll a d20 and compare the results to an appropriate attribute. If they roll equal to or under that attribute, they pass. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
-- If two opponents are both attempting to overcome the other, whoever is most at risk should save.
-- Whenever one or more characters would need to take an action together, whomever is most at risk should save. This may be the _weakest_ character (i.e. with the lowest relative Attribute) or whichever active character is most at risk if the action should fail.
+- A save is a roll to avoid negative outcomes from risky choices. Characters roll a d20 and compare the results to the appropriate attribute. If they roll equal to or under that attribute, they succeed. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
+- If two opponents are each trying to overcome the other, whoever is most at risk should save.
+- If two more characters would need to take an action together, whoever is most at risk should save (typically the character with the lowest Attribute).
 
 ## Healing & Recovery
 
