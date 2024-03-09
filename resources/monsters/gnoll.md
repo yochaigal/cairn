@@ -8,5 +8,5 @@ grand_parent: Resources
 
 6 HP, 1 Armor, 12 STR, 14 DEX, 8 WIL, spear (d8)
 
-- Ferocious humanoid hyenas spawned from arcame experiments long ago.   
+- Ferocious humanoid hyenas spawned from arcane experiments long ago.   
 - Deadly warriors, they attack as a pack (as _detachment_) or on their own.
