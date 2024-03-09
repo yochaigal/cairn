@@ -15,6 +15,12 @@ search_exclude: true
 - Establish a theme
   - Find inspiration
   - Use examples from real life
+  - Location
+  - Setting
+  - Entrance
+  - Construction
+  - History 
+  - Original Use
 - Create the map
   - Do it however you can do it
   - Be ready to change it - a lot
@@ -30,21 +36,15 @@ search_exclude: true
   - Don't assume
   - Don't tell the PCs how they feel
 
-
 ## Establish a Theme
 
 ### Initial Concept
 
-What comes to mind when you think of a dungeon? It might be at the center of an abandoned maze, a trapdoor in a ruined temple, or in a gaping crystal maw in a long-abandoned mine. Consider where the dungeon is located, and how does its entrance look? If you can't think of anything off-hand, you can always roll on the [Dungeon Types](#dungeon-types) table below.
+Consider what comes to mind when you think of a dungeon: it might be at the center of an abandoned maze, a trapdoor in a ruined temple, or in a gaping crystal maw in a long-abandoned mine. Consider where the dungeon is located, and how its entrance looks. Keep that image in your mind as we establish the theme. 
 
-For this example, let's start with a simple dungeon concept: a former mine, sealed off to prevent further exploration. Perhaps the miners found something they could not contain, and blasted the entry shut? Maybe they even sacrificed some of their own, for "the greater good?"
+> If you have already arrived at a basic concept for your dungeon by way of the Dungeon Types table in [Setting Seeds](/wip/2e/setting-seeds), you may skip ahead to the next section. 
 
-### Location History
-
-What was the location originally used for? Perhaps it used to be a mill, abandoned after the war took away all the able-bodied workers. Or maybe it was once a great fort, acting as a bulwark against the creatures of the night - till they won, of course.
-
-
-### Dungeon Types
+### Dungeon Concepts
 
 Roll 2d20 and combine the results.
 
@@ -72,7 +72,62 @@ Roll 2d20 and combine the results.
 | **19**  | Palace         | Toxic        |
 | **20**  | Tomb           | Warped       |
 
+### Dungeon History
 
+Who built the dungeon? What was its originally used for? Perhaps it used to be a mill, abandoned after the war took away all the able-bodied workers. Or maybe it was once a great fort, acting as a bulwark against the creatures of the night.
+
+|         |                     |                    |
+| ------- | ------------------- | ------------------ |
+| **d20** | **Original Use**    | **Built By**       |
+| **1**   | Ancient Battlefield |                    |
+| **2**   | Lost Civilization   |                    |
+| **3**   | Prison              | A tyrannical ruler |
+| **4**   | Temple              | A Fanatical Cult   |
+| **5**   | Vault               | A Wealthy Recluse  |
+| **6**   | Military Outpost    |                    |
+| **7**   | City                |                    |
+| **8**   | Burial Site         | A warrior tribe    |
+| **9**   | Sanctuary           | Demonic Monks      |
+| **10**  | Observatory         | Astrologers        |
+| **11**  | Palace              |                    |
+| **12**  | Breeding Grounds    | A Forgotten Empire |
+| **13**  | Thief's Hideout     | Bandits            |
+| **14**  | Pilgrimage Site     | Religious Pilgrims |
+| **15**  | Laboratory          | Alchemists         |
+| **16**  | Battlefield         | Conquering armies  |
+| **17**  | Mine                |                    |
+| **18**  | Library             | Scholarly order    |
+| **19**  | Monument            | A fallen hero      |
+| **20**  | Library             | A council of sages |
+
+|         |                    |                    |
+| ------- | ------------------ | ------------------ |
+| **d20** | **Entrance**       | **Construction**   |
+| **1**   | Cliff door         | Stone              |
+| **2**   | A Well             | Wood               |
+| **3**   | Underwater Tunnel  | Bone               |
+| **4**   |                    | Ice                |
+| **5**   |                    | Crystal            |
+| **6**   | Cave               |                    |
+| **7**   | Magical Portal     | Metal              |
+| **8**   | Mine Shaft         | Earth              |
+| **9**   | Tomb               |                    |
+| **10**  |                    | Glass              |
+| **11**  | Behind a Waterfall | Wood               |
+| **12**  | A Normal House     | Sand               |
+| **13**  | A Creature's Lair  | Webs               |
+| **14**  | Under a Bridge     | Flesh              |
+| **15**  | In the Depths      | Shadow Material    |
+| **16**  | Center of a Maze   | Floating Platforms |
+| **17**  | Tip of a Plateau   | Coral              |
+| **18**  | An Enormous Grave  |                    |
+| **19**  | A Massive Tree     |                    |
+| **20**  | A Dream            |                    |
+
+
+### Example
+
+Let's start with a simple dungeon concept: a former mine, sealed off to prevent further exploration. Perhaps the miners found something they could not contain, and blasted the entry shut? Maybe they even sacrificed some of their own, for "the greater good?"
 
 
 ## Good Dungeon Design
