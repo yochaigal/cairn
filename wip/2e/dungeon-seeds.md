@@ -36,101 +36,9 @@ search_exclude: true
   - Don't assume
   - Don't tell the PCs how they feel
 
-## Establish a Theme
-
-### Initial Concept
-
-Consider what comes to mind when you think of a dungeon: it might be at the center of an abandoned maze, a trapdoor in a ruined temple, or in a gaping crystal maw in a long-abandoned mine. Consider where the dungeon is located, and how its entrance looks. Keep that image in your mind as we establish the theme. 
-
-> If you have already arrived at a basic concept for your dungeon by way of the Dungeon Types table in [Setting Seeds](/wip/2e/setting-seeds), you may skip ahead to the next section. 
-
-### Dungeon Concepts
-
-Roll 2d20 and combine the results.
-
-|         |                |              |
-| ------- | -------------- | ------------ |
-| **d20** | **Type**       | **Feature**  |
-| **1**   | Crypt          | Abandoned    |
-| **2**   | Prison         | Buried       |
-| **3**   | Cave           | Burnt        |
-| **4**   | Mine           | Clockwork    |
-| **5**   | Den            | Collapsed    |
-| **6**   | Stronghold     | Crumbling    |
-| **7**   | Temple         | Crystalline  |
-| **8**   | Laboratory     | Floating     |
-| **9**   | Workshop       | Flooded      |
-| **10**  | Great Hall     | Fungal       |
-| **11**  | Burial Ground  | Inverted     |
-| **12**  | Shrouded Grove | Isolated     |
-| **13**  | Ruined City    | Mirrored     |
-| **14**  | Estate         | Otherworldly |
-| **15**  | Tower          | Overgrown    |
-| **16**  | Manor          | Petrified    |
-| **17**  | Outpost        | Remote       |
-| **18**  | Fort           | Sealed       |
-| **19**  | Palace         | Toxic        |
-| **20**  | Tomb           | Warped       |
-
-### Dungeon History
-
-Who built the dungeon? What was its originally used for? Perhaps it used to be a mill, abandoned after the war took away all the able-bodied workers. Or maybe it was once a great fort, acting as a bulwark against the creatures of the night.
-
-|         |                     |                    |
-| ------- | ------------------- | ------------------ |
-| **d20** | **Original Use**    | **Built By**       |
-| **1**   | Ancient Battlefield |                    |
-| **2**   | Lost Civilization   |                    |
-| **3**   | Prison              | A tyrannical ruler |
-| **4**   | Temple              | A Fanatical Cult   |
-| **5**   | Vault               | A Wealthy Recluse  |
-| **6**   | Military Outpost    |                    |
-| **7**   | City                |                    |
-| **8**   | Burial Site         | A warrior tribe    |
-| **9**   | Sanctuary           | Demonic Monks      |
-| **10**  | Observatory         | Astrologers        |
-| **11**  | Palace              |                    |
-| **12**  | Breeding Grounds    | A Forgotten Empire |
-| **13**  | Thief's Hideout     | Bandits            |
-| **14**  | Pilgrimage Site     | Religious Pilgrims |
-| **15**  | Laboratory          | Alchemists         |
-| **16**  | Battlefield         | Conquering armies  |
-| **17**  | Mine                |                    |
-| **18**  | Library             | Scholarly order    |
-| **19**  | Monument            | A fallen hero      |
-| **20**  | Library             | A council of sages |
-
-|         |                    |                    |
-| ------- | ------------------ | ------------------ |
-| **d20** | **Entrance**       | **Construction**   |
-| **1**   | Cliff door         | Stone              |
-| **2**   | A Well             | Wood               |
-| **3**   | Underwater Tunnel  | Bone               |
-| **4**   |                    | Ice                |
-| **5**   |                    | Crystal            |
-| **6**   | Cave               |                    |
-| **7**   | Magical Portal     | Metal              |
-| **8**   | Mine Shaft         | Earth              |
-| **9**   | Tomb               |                    |
-| **10**  |                    | Glass              |
-| **11**  | Behind a Waterfall | Wood               |
-| **12**  | A Normal House     | Sand               |
-| **13**  | A Creature's Lair  | Webs               |
-| **14**  | Under a Bridge     | Flesh              |
-| **15**  | In the Depths      | Shadow Material    |
-| **16**  | Center of a Maze   | Floating Platforms |
-| **17**  | Tip of a Plateau   | Coral              |
-| **18**  | An Enormous Grave  |                    |
-| **19**  | A Massive Tree     |                    |
-| **20**  | A Dream            |                    |
 
 
-### Example
-
-Let's start with a simple dungeon concept: a former mine, sealed off to prevent further exploration. Perhaps the miners found something they could not contain, and blasted the entry shut? Maybe they even sacrificed some of their own, for "the greater good?"
-
-
-## Good Dungeon Design
+## Principles
 
 ### Entrances/Exits
   - Create multiple entrances and exits and add meaningful information to doorways to to help players avoid feeling railroaded.
@@ -193,3 +101,132 @@ Let's start with a simple dungeon concept: a former mine, sealed off to prevent 
 ### Interaction
   - Include NPCs or creatures for players to engage with.
   - Use NPCs to deepen the dungeon's narrative and offer role-playing opportunities.
+
+## Establish a Theme
+
+### Initial Concept
+
+Consider what comes to mind when you think of a dungeon: it might be at the center of an abandoned maze, a trapdoor in a ruined temple, or in a gaping crystal maw in a long-abandoned mine. Consider where the dungeon is located, and how its entrance looks. Keep that image in your mind as we establish the theme. 
+
+> If you have already arrived at a basic concept for your dungeon by way of the Dungeon Types table in [Setting Seeds](/wip/2e/setting-seeds), you may skip ahead to the next section. 
+
+#### Concepts
+
+Roll 2d20 and combine the results.
+
+|         |                |              |
+| ------- | -------------- | ------------ |
+| **d20** | **Type**       | **Feature**  |
+| **1**   | Crypt          | Abandoned    |
+| **2**   | Prison         | Buried       |
+| **3**   | Cave           | Burnt        |
+| **4**   | Mine           | Clockwork    |
+| **5**   | Den            | Collapsed    |
+| **6**   | Stronghold     | Crumbling    |
+| **7**   | Temple         | Crystalline  |
+| **8**   | Laboratory     | Floating     |
+| **9**   | Workshop       | Flooded      |
+| **10**  | Great Hall     | Fungal       |
+| **11**  | Burial Ground  | Inverted     |
+| **12**  | Shrouded Grove | Isolated     |
+| **13**  | Ruined City    | Mirrored     |
+| **14**  | Estate         | Otherworldly |
+| **15**  | Tower          | Overgrown    |
+| **16**  | Manor          | Petrified    |
+| **17**  | Outpost        | Remote       |
+| **18**  | Fort           | Sealed       |
+| **19**  | Palace         | Toxic        |
+| **20**  | Tomb           | Warped       |
+
+### History
+
+Who built the dungeon? What was its originally used for? Perhaps it used to be a mill, abandoned after the war took away all the able-bodied workers. Or maybe it was once a great fort, acting as a bulwark against the creatures of the night.
+
+#### Purpose
+
+Roll 2d20 and combine the results.
+
+|         |                     |                    |
+| ------- | ------------------- | ------------------ |
+| **d20** | **Original Use**    | **Built By**       |
+| **1**   | Ancient Battlefield |                    |
+| **2**   | Lost Civilization   |                    |
+| **3**   | Prison              | A tyrannical ruler |
+| **4**   | Temple              | A Fanatical Cult   |
+| **5**   | Vault               | A Wealthy Recluse  |
+| **6**   | Military Outpost    |                    |
+| **7**   | City                |                    |
+| **8**   | Burial Site         | A warrior tribe    |
+| **9**   | Sanctuary           | Demonic Monks      |
+| **10**  | Observatory         | Astrologers        |
+| **11**  | Palace              |                    |
+| **12**  | Breeding Grounds    | A Forgotten Empire |
+| **13**  | Thief's Hideout     | Bandits            |
+| **14**  | Pilgrimage Site     | Religious Pilgrims |
+| **15**  | Laboratory          | Alchemists         |
+| **16**  | Battlefield         | Conquering armies  |
+| **17**  | Mine                |                    |
+| **18**  | Library             | Scholarly order    |
+| **19**  | Monument            | A fallen hero      |
+| **20**  | Library             | A council of sages |
+
+#### Ruination
+
+Roll 2d20 and combine the results.
+
+|                  |                             |
+| ---------------- | --------------------------- |
+| **Condition**    | **Cause**                   |
+| Collapsed        | Alchemical Accident         |
+| Crumbling        | Ancient Curse               |
+| Cursed           | Cataclysmic Flood           |
+| Desecrated       | Consumed by a Beast         |
+| Devoured         | Competing Rituals           |
+| Displaced        | Earthquakes                 |
+| Encased in Ice   |                             |
+| Frozen           |                             |
+| Haunted          | Long-term Abandonment       |
+| Infested         | Magic Gone Awry             |
+| Overgrown        | Magically Seal              |
+| Petrified        | Overrun With Monsters       |
+| Plundered        | Natural Erosion             |
+| Poisoned         | Permanent Fog               |
+| Scorched         | Pillaged                    |
+| Sealed           | A Shift in Landmass         |
+| Shrouded in Mist | Sudden Change in Climate    |
+| Submerged        | Teleported to Another Realm |
+| Sunken           | Turned to Stone             |
+| Warped           | Unresolved Spirits          |
+
+#### Entrance
+
+Roll 2d20 and combine the results.
+
+|         |                    |                    |
+| ------- | ------------------ | ------------------ |
+| **d20** | **Entrance**       | **Construction**   |
+| **1**   | Cliff door         | Stone              |
+| **2**   | A Well             | Wood               |
+| **3**   | Underwater Tunnel  | Bone               |
+| **4**   |                    | Ice                |
+| **5**   |                    | Crystal            |
+| **6**   | Cave               |                    |
+| **7**   | Magical Portal     | Metal              |
+| **8**   | Mine Shaft         | Earth              |
+| **9**   | Tomb               |                    |
+| **10**  |                    | Glass              |
+| **11**  | Behind a Waterfall | Wood               |
+| **12**  | A Normal House     | Sand               |
+| **13**  | A Creature's Lair  | Webs               |
+| **14**  | Under a Bridge     | Flesh              |
+| **15**  | In the Depths      | Shadow Material    |
+| **16**  | Center of a Maze   | Floating Platforms |
+| **17**  | Tip of a Plateau   | Coral              |
+| **18**  | An Enormous Grave  |                    |
+| **19**  | A Massive Tree     |                    |
+| **20**  | A Dream            |                    |
+
+
+### Example
+
+Let's start with a simple dungeon concept: a former mine, sealed off to prevent further exploration. Perhaps the miners found something they could not contain, and blasted the entry shut? Maybe they even sacrificed some of their own, for "the greater good?"
