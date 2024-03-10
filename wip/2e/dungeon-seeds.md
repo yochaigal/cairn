@@ -146,29 +146,29 @@ Who built the dungeon? What was its originally used for? Perhaps it used to be a
 
 Roll 2d20 and combine the results.
 
-|         |                     |                    |
-| ------- | ------------------- | ------------------ |
-| **d20** | **Original Use**    | **Built By**       |
-| **1**   | Ancient Battlefield |                    |
-| **2**   | Lost Civilization   |                    |
-| **3**   | Prison              | A tyrannical ruler |
-| **4**   | Temple              | A Fanatical Cult   |
-| **5**   | Vault               | A Wealthy Recluse  |
-| **6**   | Military Outpost    |                    |
-| **7**   | City                |                    |
-| **8**   | Burial Site         | A warrior tribe    |
-| **9**   | Sanctuary           | Demonic Monks      |
-| **10**  | Observatory         | Astrologers        |
-| **11**  | Palace              |                    |
-| **12**  | Breeding Grounds    | A Forgotten Empire |
-| **13**  | Thief's Hideout     | Bandits            |
-| **14**  | Pilgrimage Site     | Religious Pilgrims |
-| **15**  | Laboratory          | Alchemists         |
-| **16**  | Battlefield         | Conquering armies  |
-| **17**  | Mine                |                    |
-| **18**  | Library             | Scholarly order    |
-| **19**  | Monument            | A fallen hero      |
-| **20**  | Library             | A council of sages |
+|         |                  |                    |
+| ------- | ---------------- | ------------------ |
+| **d20** | **Original Use** | **Built By**       |
+| **1**   |                  |                    |
+| **2**   |                  |                    |
+| **3**   | Prison           | A tyrannical ruler |
+| **4**   | Temple           | A Fanatical Cult   |
+| **5**   | Vault            | A Wealthy Recluse  |
+| **6**   | Military Outpost |                    |
+| **7**   |                  |                    |
+| **8**   | Burial Site      | A warrior tribe    |
+| **9**   | Sanctuary        | Demonic Monks      |
+| **10**  | Observatory      | Astrologers        |
+| **11**  | Palace           |                    |
+| **12**  | Breeding Grounds | A Forgotten Empire |
+| **13**  | Hideout          | Bandits            |
+| **14**  | Pilgrimage Site  | Religious Pilgrims |
+| **15**  | Laboratory       | Alchemists         |
+| **16**  | Battlefield      | Conquering armies  |
+| **17**  |                  |                    |
+| **18**  |                  | Scholarly order    |
+| **19**  | Monument         | A fallen hero      |
+| **20**  | Library          | A council of sages |
 
 #### Ruination
 
@@ -177,28 +177,28 @@ Roll 2d20 and combine the results.
 |                  |                             |
 | ---------------- | --------------------------- |
 | **Condition**    | **Cause**                   |
-| Collapsed        | Alchemical Accident         |
+| Corpse           | Alchemical Accident         |
 | Crumbling        | Ancient Curse               |
 | Cursed           | Cataclysmic Flood           |
-| Desecrated       | Consumed by a Beast         |
+| Encased in Ice   | Civil War                   |
 | Devoured         | Competing Rituals           |
-| Displaced        | Earthquakes                 |
-| Encased in Ice   |                             |
-| Frozen           |                             |
+| Desecrated       | Consumed by a Beast         |
+| Sealed           | Disease                     |
+| Displaced        | Hedonism                    |
+| Scorched         | Invasion                    |
 | Haunted          | Long-term Abandonment       |
 | Infested         | Magic Gone Awry             |
-| Overgrown        | Magically Seal              |
-| Petrified        | Overrun With Monsters       |
+| Overgrown        | Magical Seal                |
+| Frozen           | Natural disaster            |
 | Plundered        | Natural Erosion             |
-| Poisoned         | Permanent Fog               |
-| Scorched         | Pillaged                    |
-| Sealed           | A Shift in Landmass         |
+| Poisoned         | Obfuscation                 |
+| Petrified        | Overrun With Monsters       |
 | Shrouded in Mist | Sudden Change in Climate    |
 | Submerged        | Teleported to Another Realm |
-| Sunken           | Turned to Stone             |
+| Unending         | Turned to Stone             |
 | Warped           | Unresolved Spirits          |
 
-#### Entrance
+#### Construction
 
 Roll 2d20 and combine the results.
 
@@ -225,6 +225,62 @@ Roll 2d20 and combine the results.
 | **18**  | An Enormous Grave  |                    |
 | **19**  | A Massive Tree     |                    |
 | **20**  | A Dream            |                    |
+
+
+### Denizens
+
+#### Traits
+
+|         |                 |               |
+| ------- | --------------- | ------------- |
+| **d20** | **Virtues**     | **Vices**     |
+| **1**   | Honest          | Impulsive     |
+| **2**   | Courageous      | Cynical       |
+| **3**   | Loyal           | Stubborn      |
+| **4**   | Compassionate   | Vain          |
+| **5**   | Resilient       | Greedy        |
+| **6**   | Creative        | Unfocused     |
+| **7**   | Methodical      | Perfectionist |
+| **8**   | Self-sufficient | Aloof         |
+| **9**   | Studious        | Pedantic      |
+| **10**  | Witty           | Sarcastic     |
+| **11**  | Incorruptible   | Naive         |
+| **12**  | Suave           | Superficial   |
+| **13**  | Solid           | Inflexible    |
+| **14**  | Scholarly       | Absent-minded |
+| **15**  | Incisive        | Critical      |
+| **16**  | Individualistic | Selfish       |
+| **17**  | Polite          | Passive       |
+| **18**  | Unwavering      | Obstinate     |
+| **19**  | Deductive       | Skeptical     |
+| **20**  | Practical       | Unimaginative |
+
+#### Agendas
+
+|         |                |              |
+| ------- | -------------- | ------------ |
+| **d20** | **Goal**       | **Obstacle** |
+| **1**   | Ascension      | Sacrifice    |
+| **2**   | Creation       | Conflict     |
+| **3**   | Destruction    | Corruption   |
+| **4**   | Dominion       | Cost         |
+| **5**   | Enlightenment  | Danger       |
+| **6**   | Exploration    | Decay        |
+| **7**   | Growth         | Discord      |
+| **8**   | Innovation     | Division     |
+| **9**   | Justice        | Dogma        |
+| **10**  | Knowledge      | Exposure     |
+| **11**  | Liberation     | Factionalism |
+| **12**  | Peace          | Fear         |
+| **13**  | Power          | Ignorance    |
+| **14**  | Preservation   | Incompetence |
+| **15**  | Protection     | Injustice    |
+| **16**  | Redemption     | Isolation    |
+| **17**  | Revenge        | Opposition   |
+| **18**  | Survival       | Stagnation   |
+| **19**  | Transformation | Tradition    |
+| **20**  | Wealth         | Weakness     |
+
 
 
 ### Example
