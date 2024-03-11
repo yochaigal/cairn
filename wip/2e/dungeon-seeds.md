@@ -3,7 +3,6 @@ layout: default
 title: Dungeon Seeds
 grand_parent: WIP
 parent: 2e
-nav_order: 13
 nav_exclude: true
 search_exclude: true
 ---

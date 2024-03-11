@@ -3,7 +3,6 @@ layout: default
 title: Character Creation
 grand_parent: WIP
 parent: 2e
-nav_order: 12
 nav_exclude: true
 search_exclude: true
 ---
