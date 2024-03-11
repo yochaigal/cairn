@@ -98,35 +98,35 @@ Roll 2d20 and combine the results.
 
 Each region is dominated by one or more Factions, each with its own unique advantages, goals, and obstacles. They each should have one or more representatives, or **Agents**, tasked with helping complete a Faction's Agenda. Often **Agents** will have personal motivations that differ from the Faction's main **Agenda**, a fact that canny PCs can exploit for their own gain.
 
-Roll one or more times on the [Faction Types](#faction-types), [Faction Agendas](#faction-agendas) and [Agents](#Agents) tables.
+Roll one or more times on the [Faction Types](#faction-types), [Faction Traits](#faction-traits), [Faction Advantages](#faction-advantages) and [Faction Agendas](#faction-agendas) tables.
 
 ### Faction Types
 
 Roll 2d20 and combine the results.
 
-|         |                 |              |
-| ------- | --------------- | ------------ |
-| **d20** | **Type**        | **Agents**   |
-| **1**   | Artisans        | Academics    |
-| **2**   | Commoners       | Assassins    |
-| **3**   | Criminals       | Bannermen    |
-| **4**   | Cultists        | Criminals    |
-| **5**   | Exiles          | Farmers      |
-| **6**   | Explorers       | Generals     |
-| **7**   | Industrialists  | Laborers     |
-| **8**   | Military        | Lords        |
-| **9**   | Nobles          | Merchants    |
-| **10**  | Nomads          | Monks        |
-| **11**  | Pilgrims        | Mystics      |
-| **12**  | Protectors      | Nobles       |
-| **13**  | Regime          | Officials    |
-| **14**  | Religious       | Outlanders   |
-| **15**  | Revolutionaries | Peddlers     |
-| **16**  | Scholars        | Philosophers |
-| **17**  | Settlers        | Politicians  |
-| **18**  | Spies           | Spies        |
-| **19**  | Traders         | Thieves      |
-| **20**  | Tribal          | Thugs        |
+|         |                 |             |
+| ------- | --------------- | ----------- |
+| **d20** | **Type**        | **Agent**   |
+| **1**   | Artisans        | Academic    |
+| **2**   | Commoners       | Assassin    |
+| **3**   | Criminals       | Blacksmith  |
+| **4**   | Cultists        | Farmer      |
+| **5**   | Exiles          | General     |
+| **6**   | Explorers       | Gravedigger |
+| **7**   | Industrialists  | Guard       |
+| **8**   | Merchants       | Healer      |
+| **9**   | Military        | Jailer      |
+| **10**  | Nobles          | Laborer     |
+| **11**  | Nomads          | Lord        |
+| **12**  | Pilgrims        | Merchant    |
+| **13**  | Protectors      | Monk        |
+| **14**  | Religious       | Mystic      |
+| **15**  | Revolutionaries | Outlander   |
+| **16**  | Rulers          | Peddler     |
+| **17**  | Scholars        | Politician  |
+| **18**  | Settlers        | Spy         |
+| **19**  | Spies           | Thief       |
+| **20**  | Tribe           | Thug        |
 
 ### Faction Traits
 
@@ -158,29 +158,31 @@ Roll 2d20 and combine the results.
 
 ### Faction Advantages
 
-|         |                 |                 |
-| ------- | --------------- | --------------- |
-| **d20** | **Advantage 1** | **Advantage 2** |
-| **1**   | Artisans        | Agility         |
-| **2**   | Commoners       | Alliances       |
-| **3**   | Criminals       | Anonymity       |
-| **4**   | Cultists        | Apparatus       |
-| **5**   | Exiles          | Charisma        |
-| **6**   | Explorers       | Conviction      |
-| **7**   | Industrialists  | Fealty          |
-| **8**   | Military        | Force           |
-| **9**   | Nobles          | Heritage        |
-| **10**  | Nomads          | Information     |
-| **11**  | Pilgrims        | Magic           |
-| **12**  | Protectors      | Members         |
-| **13**  | Regime          | Popularity      |
-| **14**  | Religious       | Position        |
-| **15**  | Revolutionaries | Renown          |
-| **16**  | Scholars        | Resources       |
-| **17**  | Settlers        | Ruthlessness    |
-| **18**  | Spies           | Specialization  |
-| **19**  | Traders         | Subterfuge      |
-| **20**  | Tribal          | Wealth          |
+Roll 2d20, first for the number of advantages the Faction has, then for each subsequent advantage. For example, if a "2" was rolled for the "# of Advantages" column, you would roll on the "Advantage" column twice, noting each result.
+
+|         |                     |                |
+| ------- | ------------------- | -------------- |
+| **d20** | **# of Advantages** | **Advantage**  |
+| **1**   | 1                   | Alliances      |
+| **2**   | 1                   | Anonymity      |
+| **3**   | 1                   | Apparatus      |
+| **4**   | 1                   | Beliefs        |
+| **5**   | 1                   | Charisma       |
+| **6**   | 1                   | Conviction     |
+| **7**   | 2                   | Fealty         |
+| **8**   | 2                   | Force          |
+| **9**   | 2                   | Information    |
+| **10**  | 2                   | Lineage        |
+| **11**  | 2                   | Magic          |
+| **12**  | 2                   | Members        |
+| **13**  | 3                   | Popularity     |
+| **14**  | 3                   | Position       |
+| **15**  | 3                   | Renown         |
+| **16**  | 3                   | Resources      |
+| **17**  | 3                   | Ruthlessness   |
+| **18**  | 4                   | Specialization |
+| **19**  | 4                   | Subterfuge     |
+| **20**  | 4                   | Wealth         |
 
 ### Faction Agendas
 
