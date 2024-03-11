@@ -260,12 +260,12 @@ The weather can have a great impact on the people, culture, and terrain of a reg
 
 Ask yourself the following questions:
 
-- How does the region's terrain effect the people that live here? 
 - What would draw people to this region? What keeps them here?
 - How do the people here think of outsiders? How do outsiders think of them?
 - What power do the Factions have over the people who live here?
-- Who or what threatens their Agenda?
-- How would the Faction interact with any newcomers (i.e. an adventuring party)?
+- Who or what threatens their agendas?
+- How would a faction interact with any newcomers (i.e. an adventuring party)?
+- How does the region's terrain and weather effect the people that live here? 
 
 You should now have a sufficient idea about the people and terrain of this region, and are finally ready to form these results into a coherent theme. 
 
