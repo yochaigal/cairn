@@ -236,27 +236,27 @@ The weather can have a great impact on the people, culture, and terrain of a reg
 
 |         |                                                                                                             |
 | ------- | ----------------------------------------------------------------------------------------------------------- |
-| **d20** | The clouds are shaped like faces. They appear to be laughing.                                               |
-| **1**   | Roaming, coughing, dust clouds that smell of cinnamon.                                                      |
-| **2**   | Days are erratic. The Sun goes backwards for a time, then jumps forward as night rapidly sets.              |
-| **3**   | Lakes and streams dry up in minutes, filling storm clouds that drench the landscape.                        |
-| **4**   | Rainbows lack most of their colors, and occasionally flicker. Raindrops fall in various colors.             |
-| **5**   | Distant chimes instead of thunder. A smoky, sweet wind of no apparent origin blows in from the West.        |
-| **6**   | Fog there fills the belly (no need for rations). Tomorrow, vomiting.                                        |
-| **7**   | The winds carry whispers of voices. Some say they tell hints of the future.                                 |
-| **8**   | Shadows disappear at random. Animals are reluctant to enter.                                                |
-| **9**   | Flashes of movement in the periphery that always amount to nothing.                                         |
-| **10**  | The air is thicker than usual, and breathing is difficult.                                                  |
-| **11**  | Periodic rains of small aquatic creatures (tadpoles, frogs, small fish). No one knows where they come from. |
-| **12**  | An aurora that is visible even during the day.                                                              |
-| **13**  | When it snows, the flakes are warm and dry.                                                                 |
-| **14**  | The moon appears larger, and softly hums at night.                                                          |
-| **15**  | An annual fog appears randomly, turning metallic surfaces to gold on contact.                               |
-| **16**  | Birds fly backwards, yet somehow still move forward.                                                        |
-| **17**  | The rain glows gently at night. It can be gathered, but the light eventually fades.                         |
-| **18**  | The stars arrange themselves in intricate patterns, making navigation difficult.                            |
-| **19**  | Enormous, fleshy eyes peer down from the skies, their pupils lighting up the night sky.                     |
-| **20**  | For half the year the sky is bare of moon and stars, and the land is pitch-black.                           |
+| **d20** | **Weather**                                                                                                 |
+| **1**   | The clouds are shaped like faces. They appear to be laughing.                                               |
+| **2**   | Roaming, coughing, dust clouds that smell of cinnamon.                                                      |
+| **3**   | Days are erratic. The Sun goes backwards for a time, then jumps forward as night rapidly sets.              |
+| **4**   | Lakes and streams dry up in minutes, filling storm clouds that drench the landscape.                        |
+| **5**   | Rainbows lack most of their colors, and occasionally flicker. Raindrops fall in various colors.             |
+| **6**   | Distant chimes instead of thunder. A smoky, sweet wind of no apparent origin blows in from the West.        |
+| **7**   | Fog there fills the belly (no need for rations). Tomorrow, vomiting.                                        |
+| **8**   | The winds carry whispers of voices. Some say they tell hints of the future.                                 |
+| **9**   | Shadows disappear at random. Animals are reluctant to enter.                                                |
+| **10**  | Flashes of movement in the periphery that always amount to nothing.                                         |
+| **11**  | The air is thicker than usual, and breathing is difficult.                                                  |
+| **12**  | Periodic rains of small aquatic creatures (tadpoles, frogs, small fish). No one knows where they come from. |
+| **13**  | An aurora that is visible even during the day.                                                              |
+| **14**  | When it snows, the flakes are warm and dry.                                                                 |
+| **15**  | The moon appears larger, and softly hums at night.                                                          |
+| **16**  | An annual fog appears randomly, turning metallic surfaces to gold on contact.                               |
+| **17**  | Birds fly backwards, yet somehow still move forward.                                                        |
+| **18**  | The rain glows gently at night. It can be gathered, but the light eventually fades.                         |
+| **19**  | The stars arrange themselves in intricate patterns, making navigation difficult.                            |
+| **20**  | Enormous, fleshy eyes peer down from the skies, their pupils lighting up the night sky.                     |
 
 ### Put It All Together
 
