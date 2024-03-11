@@ -36,71 +36,89 @@ search_exclude: true
   - Don't assume
   - Don't tell the PCs how they feel
 
-
-
 ## Principles
 
+_Emphasize putting the power in the player's hands to make their own decisions, so that their choices have the greatest possible impact._
+
 ### Entrances/Exits
+
   - Create multiple entrances and exits and add meaningful information to doorways to to help players avoid feeling railroaded.
   
 ### Purpose
-  - Demonstrates the original inhabitants, design, or goal of the dungeon. Displays its age and current use.
+
+  - Demonstrate the original inhabitants, design, or goal of the dungeon. Displays its age and current use.
   - Consider was it used for, and what is it used for now. 
   - Identify what it was designed to keep out.
   
 ### Levels
+
   - Can represent danger gradation and thematic intent.
   - Should push the players to balance the risk of continuing with the potential reward.
   
 ### Layout
+
   - Incorporate loops for non-linear exploration.
   - Avoid tree-like structures with dead ends.
   - Form a network of interconnected rooms and corridors.
   - Allows for interesting strategies, especially with combat and ambushes
 
 ### Verticality
+
   - Makes mapping more complex... but also more fun
   - Add tall rooms, and climbable structures.
   - Give players things to drop on to/from
   - Lets them go up and over, instead of just pushing through
   
 ### Secret Areas
+
   - Design hidden zones for players to discover.
   - Provide subtle clues that say "something is off here"
   - Have at least one place that the players may never find
   
 ### Room Varieties
+
   - Vary room shapes, sizes, and functions.
   - Use architectural motifs to connect rooms thematically.
   - Should be easy to describe, map, and recall.
   
 ### Tactical Areas
+
   - Include zones that offer strategic advantages.
   - Design choke points, elevated spots, and other tactical features.
   - Provides a means for players to gather information discreetly.
 
 ### Treasure
+
   - Ensure there's something valuable to seek.
   - Offer diverse forms of treasure, including knowledge, allies, trade goods, and artifacts.
   - Infuse narrative elements into the treasure.
   
 ### Challenges
-  - Incorporate threats and adversaries.
-  - Use monsters and obstacles to tell the dungeon's story.
 
-### Danger
-  - Create a sense of peril without making it unbeatable.
-  - Label overtly dangerous areas and creatures.
-  - Ensure nearly all combats can be avoided or escaped from.
+- Monsters and obstacles are another way to tell the dungeon's story.
+
+### Dangers
+
+  - Try to create a sense of peril without making obstacles seem unbeatable.
+  - Overtly dangerous areas and creatures should be obvious.
+  - Create combat encounters that can be avoided with critical thinking.
   
 ### Paths
-  - Offer multiple routes for diverse experiences.
-  - Enable player agency by allowing them to exploit its geography.
-  - Balance between branching paths and necessary linearity.
+
+  - Offer multiple routes.
+  - Allow them to exploit a dungeon's geography.
+  - Should offer a balance between branching routes and obvious linearity.
   
-### Interaction
-  - Include NPCs or creatures for players to engage with.
-  - Use NPCs to deepen the dungeon's narrative and offer role-playing opportunities.
+### Interactions
+
+  - Include NPCs for the players to engage with.
+  - Use Factions to deepen the dungeon's narrative and offer role-playing opportunities.
+
+
+## Example
+
+Let's start with a simple dungeon concept: a former mine, sealed off to prevent further exploration. Perhaps the miners found something they could not contain, and blasted the entry shut? Maybe they even sacrificed some of their own, for "the greater good?"
+
 
 ## Establish a Theme
 
@@ -226,7 +244,6 @@ Roll 2d20 and combine the results.
 | **19**  | A Massive Tree     |                    |
 | **20**  | A Dream            |                    |
 
-
 ### Denizens
 
 #### Traits
@@ -281,8 +298,3 @@ Roll 2d20 and combine the results.
 | **19**  | Transformation | Tradition    |
 | **20**  | Wealth         | Weakness     |
 
-
-
-### Example
-
-Let's start with a simple dungeon concept: a former mine, sealed off to prevent further exploration. Perhaps the miners found something they could not contain, and blasted the entry shut? Maybe they even sacrificed some of their own, for "the greater good?"
