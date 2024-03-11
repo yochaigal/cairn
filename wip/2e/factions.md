@@ -9,96 +9,31 @@ search_exclude: true
 
 # Factions Overview
 
-- Rules for initially generating **Factions** for your setting can be found [here](/wip/2e/setting#factions).
-- **Factions** possess **Advantages** that allow them to accomplish their goals, the culmination of which will result in fulfilling their **Agendas**.
-- All Factions also face **Obstacles**, which prevent them from easily accomplishing their **Agendas**
-- A **Faction** may be governed by a one or more powerful figures, but most of the time PCs will be dealing with subordinates known as **Seneschals**.
-- **Factions** will work to complete their **Agendas** independently, enlisting the help of PCs only when advantageous.
-
-> The setting map should reflect the impact of **Factions** as they work on completing their **Agendas** and acquiring more **Advantages**.
-
-#### Factions Creation Procedure
-
-- First, follow the initial Factions Creation instructions found in [Setting](/wip/2e/setting#factions), if you have yet to do so.
-- Follow steps **1-5** for each **Faction**.
-1. Consider how many **Advantages** a **Faction** would have (between 2-4) based on their **Faction Type** and roll accordingly on the [**Faction Advantages**](#Advantages) table. Flesh out the specifics of the Advantages as indicated by the results from the table. 
-2. Roll on the [**Faction Agendas**](#Agendas) table and consider what their specific **Agenda** may be given your current information. 
-3. Roll on the [**Faction Obstacles**](#Obstacles) table. Use the result to consider what might prevent the **Agenda** from succeeding.
-4. Establish a series of 3-4 goals that _must_ be accomplished for this **Agenda** to be accomplished. See [Goals](#goals) below.
-5. Create at least one [**Seneschal**](#Seneschals), inspired by the **Faction** type, **Advantages**, and **Agenda**, and **Obstacle** that were generated. Place them at the **Faction's** home base, or at a **Detail** where the interests of the Faction lie.
-
-> Do not feel limited by the table results below. If something feels "off" or a different table result would work better for your setting, use it!
+Each region in your setting is dominated by one or more **Factions**, each with its own unique **Advantages**, **Goals**, and **Obstacles**. A Faction may be governed by a one or more powerful figures, but most of the time PCs will be dealing with subordinates known as Seneschals, tasked with helping complete a Faction's **Agenda**. Occasionally Seneschals will have personal motivations that differ from the Faction's main Agenda, a fact that canny PCs can exploit for their own gain. Place Seneschals in the **Heart** or otherwise appropriate location.
 
 ## Advantages
 
-- **Advantages** reflect a **Faction's** influence, materials, wealth, and unique features. **Advantages** are best interpreted through the lens of **Faction Type**.
-- **Factions** add or lose **Advantages** by trying to complete their **Agenda** (see below).
-- **Factions** leverage **Advantages** as much as possible to achieve their goals, and at the same time work to acquire _more_ **Advantages**. 
-
-|         |                    |                                                                              |                                    |
-| ------- | ------------------ | ---------------------------------------------------------------------------- | ---------------------------------- |
-| **d12** | **Advantage Type** | **Example Advantages**                                                       | **Example Seneschals**             |
-| **1**   | **Anonymity**      | A secret society shrouded in mystery, its members' identities unknown.       | Monks, politicians, demi-gods      |
-| **2**   | **Apparatus**      | A powerful Relic, artifact, or tool.                                         | Scholars, philosophers, sages      |
-| **3**   | **Fealty**         | Enjoys the loyalty of a large or important bloc of people.                   | Lords, bannermen, farmers          |
-| **4**   | **Force**          | Employs brawn as its voice, and brute force as the cudgel.                   | Bullies, toughs, flatfoots         |
-| **5**   | **Information**    | Keeps tabs on friends and enemies alike via espionage and arcane privileges. | Spies, informants, mystics         |
-| **6**   | **Magic**          | Relies on the arcane arts to carry out its agenda.                           | Wizards, spellswords, liches       |
-| **7**   | **Population**     | Boasts a large number of rank and file members.                              | Gangs, urchins, peddlers           |
-| **8**   | **Position**       | Relies on a unique geographic or political immunity.                         | Outlanders, criminals, politicians |
-| **9**   | **Resources**      | Keeps sway over properties, assets, or source of power.                      | Workers, thugs, academics          |
-| **10**  | **Renown**         | Part of a de-facto regime, respected or feared.                              | Nobles, merchants, generals        |
-| **11**  | **Subterfuge**     | Moves unseen, achieving its goals through a cloak-and-dagger approach.       | Assassins, tricksters, thieves     |
-| **12**  | **Wealth**         | Affluent, using its riches to extend their influence and protect themselves. | Soldiers, officials, merchants     |
-
+- Factions possess advantages that allow them to accomplish their goals, the culmination of which will result in fulfilling their Agendas.
+- Advantages reflect a Faction's influence, materials, wealth, and unique features. Advantages are best interpreted through the lens of the Faction's Type.
+- Factions add or lose advantages by trying to complete their agenda (see below).
+- Factions leverage their advantages as much as possible to achieve their goals, and at the same time work to acquire _more_ advantages. 
 
 ## Agendas
-- **Agendas** are accomplished through the completion of **goals** that work toward a clear objective or purpose. They are rooted in desire: that for power, wealth, revenge, resources, etc.
-- **Agendas** should not be small things.  Their successful completion should potentially change the landscape of a setting.
 
-> If a Faction completes an **Agenda**, either roll another one or choose the option from the table that is best supported by developments in the fiction.
-
-|         |                |                                                                      |
-| ------- | -------------- | -------------------------------------------------------------------- |
-| **d12** | **Agenda**     | **Example Agendas**                                                  |
-| **1**   | **Collect**    | Bring together ancient artifacts once thought lost.                  |
-| **2**   | **Defend**     | Protect a person, place or thing at all costs.                       |
-| **3**   | **Destroy**    | Eliminate a rival faction, artifact, or person.                      |
-| **4**   | **Domination** | Bring disparate factions under the same leadership, and then expand. |
-| **5**   | **Enrich**     | Concentrate as much wealth in the faction's coffers as possible.     |
-| **6**   | **Infiltrate** | Place members in other factions, asserting control from within.      |
-| **7**   | **Overthrow**  | Replace the current leadership with themselves.                      |
-| **8**   | **Preserve**   | Maintain the status quo, whatever the cost. Order isn't cheap.       |
-| **9**   | **Purge**      | Rid the land of a custom, belief, or people.                         |
-| **10**  | **Revenge**    | Rectify a perceived injustice. Direct experience unnecessary.        |
-| **11**  | **Reveal**     | Disclose a long-kept secret, not necessarily for personal gain.      |
-| **12**  | **Revive**     | Restore a former leader, god, or locale and pay it tribute.          |
-
-## Obstacles
-- All **Agendas** have at least one **Obstacle** that stands in the way of their completion.  
-- Additional **Obstacles** can arise through **Faction Actions** (see below) or through developments in the fiction.
-
-|         |                           |                                                                                 |
-| ------- | ------------------------- | ------------------------------------------------------------------------------- |
-| **d12** | **Obstacles**             | **Example Obstacles**                                                           |
-| **1**   | **Dog Eat Dog**           | Another **Faction** is vying for the same or similar **Agenda**.                |
-| **2**   | **Cloak & Dagger**        | The **Agenda** must be carried out in absolute secrecy.                         |
-| **3**   | **Guardian at the Gate**  | A powerful figure or foe must be eliminated to ensure a successful **Agenda**.  |
-| **4**   | **Consequences are Dire** | The **Agenda** contravenes an established code. Violation pays a heavy penalty. |
-| **5**   | **Special Set of Skills** | Accomplishing the **Agenda** requires specialists of an uncommon sort.          |
-| **6**   | **Tools for the Job**     | A particular object or Relic is required to complete the **Agenda**.            |
-| **7**   | **Perfect Timing**        | The **Agenda** must be carried out at a rare or exact moment.                   |
-| **8**   | **Public Perception**     | A significant portion of the population openly opposes the **Agenda**.          |
-| **9**   | **Opposition**            | Another **Faction** opposes the **Agenda**, and will attempt to stop it.        |
-| **10**  | **Limited Means**         | Considerable capital will be required to carry out the **Agenda**.              |
-| **11**  | **Rotten from Within**    | The **Faction** has a been infiltrated by a spy, intent on sabotage.            |
-| **12**  | **Body Count**            | Someone must die to ensure a successful outcome. The **Agenda** demands it.     |
+- All agendas have at least one obstacle that stands in the way of their completion. Additional obstacles can arise through Faction Actions (see below) or through developments in the fiction.
+- Factions will work to complete their agendas independently, enlisting the help of PCs only when advantageous.
+- Agendas are accomplished through the completion of goals that work toward a clear objective or purpose. They are rooted in desire: that for power, wealth, revenge, resources, etc.
+- Agendas should not be small things. Their successful completion should potentially change the landscape of a setting.
 
 ### Goals
 
-  - Goals are _progressive_, each building on the previous successes (or failures) of earlier goals.
-  - Most goals should focus on acquiring a distinct **Advantage** in order to proceed to the next goal.
-  - At least one goal should deal with the **Faction's** primary **Obstacle** (see above). This may be the first goal, or the last.
+- Each Faction should 3-4 [Goals](#goals) that _must_ be accomplished for this agenda to be accomplished.
+- Goals are _progressive_, each building on the previous successes (or failures) of earlier goals.
+- Most goals should focus on acquiring a distinct **Advantage** in order to proceed to the next goal.
+- At least one goal should deal with the **Faction's** primary **Obstacle** (see above). This may be the first goal, or the last.
+
+> The region map should reflect the impact of Factions as they work on completing their agendas and acquiring more advantages.
+> Do not feel limited by the table results below. If something feels "off" or a different table result would work better for your setting, use it!
 
 ## Seneschals
 
@@ -106,7 +41,93 @@ search_exclude: true
 - Particularly large **Factions** may have additional **Seneschals**, often with each in charge of a different set of **Resources**
 - Small **Factions** may have a single leader that acts as **Seneschal**, and may even be a **Faction** of one!
 
-> Often **Seneschals** will have personal motivations that differ from the Faction's main **Agenda**, a fact that canny PCs can exploit for their own gain.
+## Creating Factions
+
+Roll one or more times on the [Faction Types](#faction-types), [Faction Agendas](#faction-agendas) and [Seneschals](#seneschals) tables.
+
+### Faction Types
+
+Roll 2d20 and combine the results.
+
+|         |                 |                |
+| ------- | --------------- | -------------- |
+| **d20** | **Type**        | **Advantage**  |
+| **1**   | Artisans        | Agility        |
+| **2**   | Commoners       | Alliances      |
+| **3**   | Criminals       | Anonymity      |
+| **4**   | Cultists        | Apparatus      |
+| **5**   | Exiles          | Charisma       |
+| **6**   | Explorers       | Conviction     |
+| **7**   | Industrialists  | Fealty         |
+| **8**   | Military        | Force          |
+| **9**   | Nobles          | Heritage       |
+| **10**  | Nomads          | Information    |
+| **11**  | Pilgrims        | Magic          |
+| **12**  | Protectors      | Members        |
+| **13**  | Regime          | Popularity     |
+| **14**  | Religious       | Position       |
+| **15**  | Revolutionaries | Renown         |
+| **16**  | Scholars        | Resources      |
+| **17**  | Settlers        | Ruthlessness   |
+| **18**  | Spies           | Specialization |
+| **19**  | Traders         | Subterfuge     |
+| **20**  | Tribal          | Wealth         |
+
+### Faction Agendas
+
+Roll 2d20 and combine the results.
+
+|         |                           |                                                         |
+| ------- | ------------------------- | ------------------------------------------------------- |
+| **d20** | **Agenda**                | **Obstacle**                                            |
+| **1**   | Ascend to a Higher Plane  | Commoners stand openly in opposition.                   |
+| **2**   | Collect Artifacts         | A particular object or Relic is required.               |
+| **3**   | Cultivate a Rare Resource | A powerful figure or foe must be eliminated.            |
+| **4**   | Defend Something          | Another Faction has the same goal.                      |
+| **5**   | Destroy Something         | An alliance with an enemy must first be brokered.       |
+| **6**   | Dominate Others           | Considerable capital is required.                       |
+| **7**   | Enrich Themselves         | Contravenes an established code, with a heavy penalty.  |
+| **8**   | Establish a Colony        | Many must die, either as a necessity or consequence.    |
+| **9**   | Establish a New Order     | Must be carried out at a rare or exact moment.          |
+| **10**  | Explore Uncharted Lands   | Must be carried out in absolute secrecy.                |
+| **11**  | Forge an Alliance         | Requires a specialist of an uncommon sort.              |
+| **12**  | Infiltrate Other Factions | A key piece of information must first be discovered.    |
+| **13**  | Preserve the Status Quo   | A rare but necessary resource must first be acquired.   |
+| **14**  | Protect a Secret          | A well-known prophecy predicts imminent failure.        |
+| **15**  | Purge the Land            | A serious debt forces the Faction to make dire choices. |
+| **16**  | Reveal a Secret           | The outcome would lead to unavoidable war.              |
+| **17**  | Revenge                   | Another Faction stands in opposition.                   |
+| **18**  | Revive a Former Power     | Hindered by cultural taboos.                            |
+| **19**  | Seek New Leadership       | An internal schism threatens to tear the Faction apart. |
+| **20**  | Spread a Belief           | A geographic barrier or impassable terrain.             |
+
+### Seneschals
+
+Roll 2d20 and combine the results.
+
+|         |               |             |
+| ------- | ------------- | ----------- |
+| **d20** | **Seneschal** | **Trait**   |
+| **1**   | Academics     | Brutal      |
+| **2**   | Assassins     | Cautious    |
+| **3**   | Bannermen     | Craven      |
+| **4**   | Criminals     | Cruel       |
+| **5**   | Farmers       | Cunning     |
+| **6**   | Generals      | Deceptive   |
+| **7**   | Laborers      | Discreet    |
+| **8**   | Lords         | Enigmatic   |
+| **9**   | Merchants     | Fierce      |
+| **10**  | Monks         | Jovial      |
+| **11**  | Mystics       | Judicious   |
+| **12**  | Nobles        | Keen        |
+| **13**  | Officials     | Loyal       |
+| **14**  | Outlanders    | Mercurial   |
+| **15**  | Peddlers      | Meticulous  |
+| **16**  | Philosophers  | Pragmatic   |
+| **17**  | Politicians   | Resourceful |
+| **18**  | Spies         | Selfish     |
+| **19**  | Thieves       | Tenacious   |
+| **20**  | Thugs         | Tranquil    |
 
 ## Example Faction
 

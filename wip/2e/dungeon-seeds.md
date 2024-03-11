@@ -115,11 +115,6 @@ _Emphasize putting the power in the player's hands to make their own decisions, 
   - Use Factions to deepen the dungeon's narrative and offer role-playing opportunities.
 
 
-## Example
-
-Let's start with a simple dungeon concept: a former mine, sealed off to prevent further exploration. Perhaps the miners found something they could not contain, and blasted the entry shut? Maybe they even sacrificed some of their own, for "the greater good?"
-
-
 ## Establish a Theme
 
 ### Initial Concept
@@ -164,113 +159,90 @@ Who built the dungeon? What was its originally used for? Perhaps it used to be a
 
 Roll 2d20 and combine the results.
 
-|         |                  |                    |
-| ------- | ---------------- | ------------------ |
-| **d20** | **Original Use** | **Built By**       |
-| **1**   |                  |                    |
-| **2**   |                  |                    |
-| **3**   | Prison           | A tyrannical ruler |
-| **4**   | Temple           | A Fanatical Cult   |
-| **5**   | Vault            | A Wealthy Recluse  |
-| **6**   | Military Outpost |                    |
-| **7**   |                  |                    |
-| **8**   | Burial Site      | A warrior tribe    |
-| **9**   | Sanctuary        | Demonic Monks      |
-| **10**  | Observatory      | Astrologers        |
-| **11**  | Palace           |                    |
-| **12**  | Breeding Grounds | A Forgotten Empire |
-| **13**  | Hideout          | Bandits            |
-| **14**  | Pilgrimage Site  | Religious Pilgrims |
-| **15**  | Laboratory       | Alchemists         |
-| **16**  | Battlefield      | Conquering armies  |
-| **17**  |                  |                    |
-| **18**  |                  | Scholarly order    |
-| **19**  | Monument         | A fallen hero      |
-| **20**  | Library          | A council of sages |
+|         |                              |                        |
+| ------- | ---------------------------- | ---------------------- |
+| **d20** | **Original Use**             | **Built By**           |
+| **1**   | Forge for a Great Weapon     | Immoral Sorcerers      |
+| **2**   | Ancestral Rites              | A Fallen Hero          |
+| **3**   | Arcane Library               | Heretical Monks        |
+| **4**   | Astral Trading Hub           | A Renowned Alchemist   |
+| **5**   | Bestial Creations            | A Royal Dynasty        |
+| **6**   | Breeding Grounds             | Inverted Astrologers   |
+| **7**   | Burial Site                  | Mob Families           |
+| **8**   | Celestial Observations       | Rogue Scholars         |
+| **9**   | Covert Experiments           | A Fanatical Cult       |
+| **10**  | Forbidden Trysts             | Desperate Rebels       |
+| **11**  | Hideout                      | Pilgrims to a Dead God |
+| **12**  | Isolated Refuge              | A Long-dead Poet       |
+| **13**  | Military Outpost             | Opulent Merchants      |
+| **14**  | Observatory                  | A Forgotten Empire     |
+| **15**  | Pilgrimage Site              | A Militant Order       |
+| **16**  | Protection of Rare Artifacts | A Secret Society       |
+| **17**  | Invasion of Dreams           | A Tyrannical Ruler     |
+| **18**  | Secret Meeting Place         | A Warrior Tribe        |
+| **19**  | Treasure Horde               | A Wealthy Recluse      |
+| **20**  | Impenetrable Vault           | Heretical Alchemists   |
+
 
 #### Ruination
 
 Roll 2d20 and combine the results.
 
-|                  |                             |
-| ---------------- | --------------------------- |
-| **Condition**    | **Cause**                   |
-| Corpse           | Alchemical Accident         |
-| Crumbling        | Ancient Curse               |
-| Cursed           | Cataclysmic Flood           |
-| Encased in Ice   | Civil War                   |
-| Devoured         | Competing Rituals           |
-| Desecrated       | Consumed by a Beast         |
-| Sealed           | Disease                     |
-| Displaced        | Hedonism                    |
-| Scorched         | Invasion                    |
-| Haunted          | Long-term Abandonment       |
-| Infested         | Magic Gone Awry             |
-| Overgrown        | Magical Seal                |
-| Frozen           | Natural disaster            |
-| Plundered        | Natural Erosion             |
-| Poisoned         | Obfuscation                 |
-| Petrified        | Overrun With Monsters       |
-| Shrouded in Mist | Sudden Change in Climate    |
-| Submerged        | Teleported to Another Realm |
-| Unending         | Turned to Stone             |
-| Warped           | Unresolved Spirits          |
+|         |                  |                             |
+| ------- | ---------------- | --------------------------- |
+| **d20** | **Condition**    | **Cause**                   |
+| **1**   | Corpse           | Alchemical Accident         |
+| **2**   | Crumbling        | Ancient Curse               |
+| **3**   | Cursed           | Cataclysmic Flood           |
+| **4**   | Encased in Ice   | Civil War                   |
+| **5**   | Devoured         | Competing Rituals           |
+| **6**   | Desecrated       | Consumed by a Beast         |
+| **7**   | Sealed           | Disease                     |
+| **8**   | Displaced        | Hedonism                    |
+| **9**   | Scorched         | Invasion                    |
+| **10**  | Haunted          | Long-term Abandonment       |
+| **11**  | Infested         | Magic Gone Awry             |
+| **12**  | Overgrown        | Magical Seal                |
+| **13**  | Frozen           | Natural disaster            |
+| **14**  | Plundered        | Natural Erosion             |
+| **15**  | Poisoned         | Obfuscation                 |
+| **16**  | Petrified        | Overrun With Monsters       |
+| **17**  | Shrouded in Mist | Sudden Change in Climate    |
+| **18**  | Submerged        | Teleported to Another Realm |
+| **19**  | Unending         | Turned to Stone             |
+| **20**  | Warped           | Unresolved Spirits          |
 
 #### Construction
 
 Roll 2d20 and combine the results.
 
-|         |                    |                    |
-| ------- | ------------------ | ------------------ |
-| **d20** | **Entrance**       | **Construction**   |
-| **1**   | Cliff door         | Stone              |
-| **2**   | A Well             | Wood               |
-| **3**   | Underwater Tunnel  | Bone               |
-| **4**   |                    | Ice                |
-| **5**   |                    | Crystal            |
-| **6**   | Cave               |                    |
-| **7**   | Magical Portal     | Metal              |
-| **8**   | Mine Shaft         | Earth              |
-| **9**   | Tomb               |                    |
-| **10**  |                    | Glass              |
-| **11**  | Behind a Waterfall | Wood               |
-| **12**  | A Normal House     | Sand               |
-| **13**  | A Creature's Lair  | Webs               |
-| **14**  | Under a Bridge     | Flesh              |
-| **15**  | In the Depths      | Shadow Material    |
-| **16**  | Center of a Maze   | Floating Platforms |
-| **17**  | Tip of a Plateau   | Coral              |
-| **18**  | An Enormous Grave  |                    |
-| **19**  | A Massive Tree     |                    |
-| **20**  | A Dream            |                    |
+|         |                       |                    |
+| ------- | --------------------- | ------------------ |
+| **d20** | **Entrance**          | **Construction**   |
+| **1**   | Cliff door            | Bone               |
+| **2**   | A Well                | Coral              |
+| **3**   | Underwater Tunnel     | Crystal            |
+| **4**   | Through a Painting    | Earth              |
+| **5**   | Skyward Beam of Light | Ethereal Fabric    |
+| **6**   | Cave                  | Flesh              |
+| **7**   | Starlight Path        | Floating Platforms |
+| **8**   | Mine Shaft            | Glass              |
+| **9**   | Illusory Wall         | Ice                |
+| **10**  | Veil of Mist          | Living Plants      |
+| **11**  | Behind a Waterfall    | Wood               |
+| **12**  | Hollow Statue         | Marble             |
+| **13**  | A Creature's Lair     | Metal              |
+| **14**  | Under a Bridge        | Obsidian           |
+| **15**  | Sinking Sand          | Sand               |
+| **16**  | Center of a Maze      | Shadow Material    |
+| **17**  | Tip of a Plateau      | Stone              |
+| **18**  | An Enormous Grave     | Webs               |
+| **19**  | A Massive Tree        | Petrified Wood     |
+| **20**  | A Dream               | Fungi              |
 
-### Denizens
+### Factions
 
-#### Traits
-
-|         |                 |               |
-| ------- | --------------- | ------------- |
-| **d20** | **Virtues**     | **Vices**     |
-| **1**   | Honest          | Impulsive     |
-| **2**   | Courageous      | Cynical       |
-| **3**   | Loyal           | Stubborn      |
-| **4**   | Compassionate   | Vain          |
-| **5**   | Resilient       | Greedy        |
-| **6**   | Creative        | Unfocused     |
-| **7**   | Methodical      | Perfectionist |
-| **8**   | Self-sufficient | Aloof         |
-| **9**   | Studious        | Pedantic      |
-| **10**  | Witty           | Sarcastic     |
-| **11**  | Incorruptible   | Naive         |
-| **12**  | Suave           | Superficial   |
-| **13**  | Solid           | Inflexible    |
-| **14**  | Scholarly       | Absent-minded |
-| **15**  | Incisive        | Critical      |
-| **16**  | Individualistic | Selfish       |
-| **17**  | Polite          | Passive       |
-| **18**  | Unwavering      | Obstinate     |
-| **19**  | Deductive       | Skeptical     |
-| **20**  | Practical       | Unimaginative |
+Dungeons (like any other setting) should have one or more Factions with their own unique agenda, obstacles, leaders, and hierarchy.  
 
 #### Agendas
 
@@ -298,3 +270,39 @@ Roll 2d20 and combine the results.
 | **19**  | Transformation | Tradition    |
 | **20**  | Wealth         | Weakness     |
 
+### Denizens
+
+Most dungeons will have someone _living_ there. Someone that _prefers_ the dungeon life over any other. These should be NPCs that the party can interact, trade, hire, aid, and so on. These creatures can be deeply involved or entirely neutral towards the dungeon's Factions.
+
+
+#### Traits
+
+|         |                 |               |
+| ------- | --------------- | ------------- |
+| **d20** | **Virtues**     | **Vices**     |
+| **1**   | Honest          | Impulsive     |
+| **2**   | Courageous      | Cynical       |
+| **3**   | Loyal           | Stubborn      |
+| **4**   | Compassionate   | Vain          |
+| **5**   | Resilient       | Greedy        |
+| **6**   | Creative        | Unfocused     |
+| **7**   | Methodical      | Perfectionist |
+| **8**   | Self-sufficient | Aloof         |
+| **9**   | Studious        | Pedantic      |
+| **10**  | Witty           | Sarcastic     |
+| **11**  | Incorruptible   | Naive         |
+| **12**  | Suave           | Superficial   |
+| **13**  | Solid           | Inflexible    |
+| **14**  | Scholarly       | Absent-minded |
+| **15**  | Incisive        | Critical      |
+| **16**  | Individualistic | Selfish       |
+| **17**  | Polite          | Passive       |
+| **18**  | Unwavering      | Obstinate     |
+| **19**  | Deductive       | Skeptical     |
+| **20**  | Practical       | Unimaginative |
+
+
+
+### Implementation
+
+Let's start with a simple dungeon concept: a former mine, sealed off to prevent further exploration. Perhaps the miners found something they could not contain, and blasted the entry shut? Maybe they even sacrificed some of their own, for "the greater good?"
