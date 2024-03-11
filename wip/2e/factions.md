@@ -9,7 +9,7 @@ search_exclude: true
 
 # Factions
 
-A region is typically dominated by one or more factions, each with their own unique **Advantages**, **Agenda**, and **Obstacles**. Each faction should also have one or more representatives, or **Agents**, tasked with helping complete their agenda. 
+A region is typically dominated by one or more factions, each with their own unique **Advantages**, **Agenda**, and **Obstacles**. Each faction should also have one or more representatives, or **Agents**, tasked with helping complete their agenda. Smaller regions with fewer POIs should have 1-2 factions, while larger regions could have as many as 5-6 factions. 
 
 Agents are often in charge of completing one or more of the goals of the Agenda of a faction. Particularly large factions may have additional agents, each in charge of a distinct goal. Agents may have personal motivations that differ from the faction's main agenda, a fact that canny PCs can exploit for their own gain.
 
