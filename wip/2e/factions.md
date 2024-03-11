@@ -113,7 +113,7 @@ Roll 2d20, first for the number of advantages the Faction has, then for each sub
 | **4**   | 1                   | Beliefs        |
 | **5**   | 1                   | Charisma       |
 | **6**   | 1                   | Conviction     |
-| **7**   | 2                   | Fealty         |
+| **7**   | 1                   | Fealty         |
 | **8**   | 2                   | Force          |
 | **9**   | 2                   | Information    |
 | **10**  | 2                   | Lineage        |
