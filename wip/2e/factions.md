@@ -1,46 +1,33 @@
 ---
 layout: default
-title: Factions
+title: factions
 grand_parent: WIP
 parent: 2e
 nav_exclude: true
 search_exclude: true
 ---
 
-# Factions Overview
+# Factions
 
-Each region in your setting is dominated by one or more **Factions**, each with its own unique **Advantages**, **Goals**, and **Obstacles**. A Faction may be governed by a one or more powerful figures, but most of the time PCs will be dealing with subordinates known as Agents, tasked with helping complete a Faction's **Agenda**. Occasionally Agents will have personal motivations that differ from the Faction's main Agenda, a fact that canny PCs can exploit for their own gain. Place Agents in the **Heart** or otherwise appropriate location.
+Each region is dominated by one or more factions, each with its own unique **Advantages**, **Agenda**, and **Obstacles**. They each should have one or more representatives, or **Agents**, tasked with helping complete a faction's agenda. Agents are often in charge of completing one or more of the goals of the Agenda of a faction. Particularly large factions may have additional agents, each in charge of a distinct goal. Agents may have personal motivations that differ from the faction's main agenda, a fact that canny PCs can exploit for their own gain.
+
+> Do not feel limited by the table results below. If something feels "off" or a different table result would work better for your setting, use it!
 
 ## Advantages
 
-- Factions possess advantages that allow them to accomplish their goals, the culmination of which will result in fulfilling their Agendas.
-- Advantages reflect a Faction's influence, materials, wealth, and unique features. Advantages are best interpreted through the lens of the Faction's Type.
-- Factions add or lose advantages by trying to complete their agenda, leveraging their advantages as much as possible to achieve their goals, and at the same time work to acquire _more_ advantages. 
+Factions possess advantages that assist them in accomplishing their agenda. Advantages reflect a faction's influence, materials, wealth, and other unique features. Factions add or lose advantages by trying to complete their agenda, leveraging their advantages as much as possible to achieve their goals, and at the same time work to acquire _more_ advantages. Larger factions will
 
 ## Agendas
 
-- All agendas have at least one obstacle that stands in the way of their completion. Additional obstacles can arise through Faction Actions (see below) or through developments in the fiction.
-- Factions will work to complete their agendas independently, enlisting the help of PCs only when it helps strengthen their agenda.
-- Agendas are accomplished through the completion of goals that work toward a clear objective or purpose. They are rooted in desire: that for power, wealth, revenge, resources, etc.
-- Agendas should not be small things. Their successful completion should potentially change the landscape of a setting.
+Factions will work to complete their agendas independently, enlisting the help of PCs only when that would strengthen their agenda. Agendas are defined by a series of 3-5 goals that build toward a clear objective. Goals are _progressive_, building on the previous successes (or failures) of earlier goals. 
 
-### Goals
+Goals should focus on acquiring a distinct advantage in order to proceed to the next goal. At least one goal should deal with the faction's primary obstacle. This may be the first goal, or the last. All agendas have at least one obstacle that stands in the way of their completion. Additional obstacles can arise through faction Actions (see below) or through developments in the fiction. 
 
-- Each Faction should 3-4 [Goals](#goals) that _must_ be accomplished for this agenda to be accomplished.
-- Goals are _progressive_, each building on the previous successes (or failures) of earlier goals.
-- Most goals should focus on acquiring a distinct advantage in order to proceed to the next goal.
-- At least one goal should deal with the Faction's primary obstacle. This may be the first goal, or the last.
+Completing a faction's agendas should be a significant event, potentially changing the political or natural landscape of a region.
 
-## Agents
+> The region map should reflect the impact of factions as they work on completing their agendas and acquiring more advantages.
 
-- Agents are often in charge of completing one or more of the goals of the Agenda of a Faction.
-- Particularly large Factions may have additional Agents, often with each in charge of a different set of Resources
-- Small Factions may have a single leader that acts as Agent, and may even be a Faction of one!
-
-> The region map should reflect the impact of Factions as they work on completing their agendas and acquiring more advantages.
-> Do not feel limited by the table results below. If something feels "off" or a different table result would work better for your setting, use it!
-
-## Creating Factions
+## Creating factions
 
 Roll one or more times on the [Faction Types](#faction-types), [Faction Traits](#faction-traits), [Faction Advantages](#faction-advantages) and [Faction Agendas](#faction-agendas) tables.
 
@@ -102,7 +89,7 @@ Roll 2d20 and combine the results.
 
 ### Faction Advantages
 
-Roll 2d20, first for the number of advantages the Faction has, then for each subsequent advantage. For example, if a "2" was rolled for the "# of Advantages" column, you would roll on the "Advantage" column twice, noting each result.
+Roll 2d20, first for the number of advantages the faction has, then for each subsequent advantage. For example, if a "2" was rolled for the "# of Advantages" column, you would roll on the "Advantage" column twice, noting each result. Reroll repeated results.
 
 |         |                     |                |
 | ------- | ------------------- | -------------- |
@@ -132,29 +119,29 @@ Roll 2d20, first for the number of advantages the Faction has, then for each sub
 
 Roll 2d20 and combine the results.
 
-|         |                           |                                                         |
-| ------- | ------------------------- | ------------------------------------------------------- |
-| **d20** | **Agenda**                | **Obstacle**                                            |
-| **1**   | Ascend to a Higher Plane  | Commoners stand openly in opposition.                   |
-| **2**   | Collect Artifacts         | A particular object or Relic is required.               |
-| **3**   | Cultivate a Rare Resource | A powerful figure or foe must be eliminated.            |
-| **4**   | Defend Something          | Another Faction has the same goal.                      |
-| **5**   | Destroy Something         | An alliance with an enemy must first be brokered.       |
-| **6**   | Dominate Others           | Considerable capital is required.                       |
-| **7**   | Enrich Themselves         | Contravenes an established code, with a heavy penalty.  |
-| **8**   | Establish a Colony        | Many must die, either as a necessity or consequence.    |
-| **9**   | Establish a New Order     | Must be carried out at a rare or exact moment.          |
-| **10**  | Explore Uncharted Lands   | Must be carried out in absolute secrecy.                |
-| **11**  | Forge an Alliance         | Requires a specialist of an uncommon sort.              |
-| **12**  | Infiltrate Other Factions | A key piece of information must first be discovered.    |
-| **13**  | Preserve the Status Quo   | A rare but necessary resource must first be acquired.   |
-| **14**  | Protect a Secret          | A well-known prophecy predicts imminent failure.        |
-| **15**  | Purge the Land            | A serious debt forces the Faction to make dire choices. |
-| **16**  | Reveal a Secret           | The outcome would lead to unavoidable war.              |
-| **17**  | Revenge                   | Another Faction stands in opposition.                   |
-| **18**  | Revive a Former Power     | Hindered by cultural taboos.                            |
-| **19**  | Seek New Leadership       | An internal schism threatens to tear the Faction apart. |
-| **20**  | Spread a Belief           | A geographic barrier or impassable terrain.             |
+|         |                            |                                                         |
+| ------- | -------------------------- | ------------------------------------------------------- |
+| **d20** | **Agenda**                 | **Obstacle**                                            |
+| **1**   | Ascend to a Higher Plane   | Commoners stand openly in opposition.                   |
+| **2**   | Collect Artifacts          | A particular object or Relic is required.               |
+| **3**   | Cultivate a Rare Resource  | A powerful figure or foe must be eliminated.            |
+| **4**   | Defend Something           | Another faction has the same goal.                      |
+| **5**   | Destroy Something          | An alliance with an enemy must first be brokered.       |
+| **6**   | Dominate Others            | Considerable capital is required.                       |
+| **7**   | Enrich Themselves          | Contravenes an established code, with a heavy penalty.  |
+| **8**   | Establish a Colony         | Many must die, either as a necessity or consequence.    |
+| **9**   | Establish a New Order      | Must be carried out at a rare or exact moment.          |
+| **10**  | Explore Uncharted Lands    | Must be carried out in absolute secrecy.                |
+| **11**  | Forge an Alliance          | Requires a specialist of an uncommon sort.              |
+| **12**  | Infiltrate Another Faction | A key piece of information must first be discovered.    |
+| **13**  | Preserve the Status Quo    | A rare but necessary resource must first be acquired.   |
+| **14**  | Protect a Secret           | A well-known prophecy predicts imminent failure.        |
+| **15**  | Purge the Land             | A serious debt forces the faction to make dire choices. |
+| **16**  | Reveal a Secret            | The outcome would lead to unavoidable war.              |
+| **17**  | Revenge                    | Another faction stands in opposition.                   |
+| **18**  | Revive a Former Power      | Hindered by cultural taboos.                            |
+| **19**  | Seek New Leadership        | An internal schism threatens to tear the faction apart. |
+| **20**  | Spread a Belief            | A geographic barrier or impassable terrain.             |
 
 ## Example Faction
 
@@ -179,17 +166,17 @@ The _Guild_ has long been at war with the _Holy Order of Yix_ (figuratively and 
 
 The _Guild_ has received legitimate intelligence that a well-placed operative moves within their ranks, and is aware of the coming operation.
 
-## Faction Rules
+## faction Rules
 
-- By default, **Factions** operate independent of the player character's actions. If the PCs do nothing, the **Factions** should still act to achieve their aims.
-- Whenever a **Faction** is positioned to advance a **goal** in their **Agenda**, roll a **d12** on the [Faction Actions](#faction-actions) table. 
-- If two **Factions** are _opposed_, the **Faction** _most at risk_ makes a WIL save, using the score of its highest-ranking **Agent**. 
-  - On a success, the **Faction** most at risk rolls on the [Faction Actions](#faction-actions) table, and their opponent does not.
-  - On a fail, the **Faction** most at risk _does not_ roll on the [Faction Actions](#faction-actions) table, but their opponent does.
+- By default, factions operate independent of the player character's actions. If the PCs do nothing, the faction should still act to achieve their aims.
+- Whenever a faction is positioned to advance a goal in their agenda, roll a **d12** on the [Faction Actions](#faction-actions) table. 
+- If two factions are _opposed_, the faction _most at risk_ makes a WIL save, using the score of its highest-ranking agent. 
+  - On a success, the faction most at risk rolls on the [Faction Actions](#faction-actions) table, and their opponent does not.
+  - On a fail, the faction most at risk _does not_ roll on the [Faction Actions](#faction-actions) table, but their opponent does.
 
-> The **Warden** should rely on the fiction to determine whether a **Faction** is positioned to advance their **Agenda**. **Goals** may be time-sensitive or depend on explicit circumstances. Other times it might be more appropriate after a major event, alliance, or friction between one or more **Factions**, etc.
+> The **Warden** should rely on the fiction to determine whether a faction is positioned to advance their agenda. Goals may be time-sensitive or depend on explicit circumstances. Other times it might be more appropriate after a major event, alliance, or friction between one or more factions, etc.
 
-### Faction Actions
+### faction Actions
 
 |           |                   |                                                                |
 | --------- | ----------------- | -------------------------------------------------------------- |
@@ -201,4 +188,4 @@ The _Guild_ has received legitimate intelligence that a well-placed operative mo
 | **9-10**  | **Success**       | A **goal** is achieved, and no **Advantages** are lost.        |
 | **11-12** | **Major Success** | A **goal** is achieved, and a new **Advantage** is found.      |
 
-> The actions of the PCs can always overrule the necessity for a **Faction** action, or in some cases shift the outcome of the roll in a favorable or unfavorable direction. 
+> The actions of the PCs can always overrule the necessity for a **faction** action, or in some cases shift the outcome of the roll in a favorable or unfavorable direction. 
