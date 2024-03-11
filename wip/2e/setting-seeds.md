@@ -96,9 +96,7 @@ Roll 2d20 and combine the results.
 
 ### Factions
 
-Each region is dominated by one or more Factions, each with its own unique **Advantages**, **Agenda**, and **Obstacles**. They each should have one or more representatives, or Agents, tasked with helping complete a Faction's Agenda. Agents may have personal motivations that differ from the Faction's main agenda, a fact that canny PCs can exploit for their own gain.
-
-See the [Factions](#factions) chapter for how to generate factions for your setting.
+Each region is dominated by one or more Factions, each with its own unique **Advantages**, **Agenda**, and **Obstacles**. See the [Factions](#factions) chapter for how to generate factions for your setting, writing the results in your notebook. Smaller regions with fewer POIs should have 1-2 factions, while larger regions could have as many as 5-6 factions. 
 
 ### Topography
 
@@ -271,11 +269,11 @@ Ask yourself the following questions:
 
 You should now have a sufficient idea about the people and terrain of this region, and are finally ready to form these results into a coherent theme. 
 
-For example, if I rolled up a people that were there religious and sought conversion, I'd assume they were a proud folk, but prone to religious extremes and proselytizing. And if their primary resources were land, yet spices were rare, I'd assume they grew their own food, but that due to a religious prohibition their cuisine was often bland.
+For example, if my results described a people that were there religious and sought conversion, I'd assume they were a proud folk, but prone to religious extremes and proselytizing. And if their primary resources were land, yet spices were rare, I'd assume they grew their own food, but that due to a religious prohibition their cuisine was often bland.
 
-Presume that I also rolled up a ruling Faction of Nomads, whose primary Advantage was their conviction, I would assume the elites were a class of religious chiefs. If the Faction's Agenda was to cultivate a rare resource, but that they were hindered by cultural taboos, I might decide that they had hired the party to take on the task. Perhaps the object of their quest was a unique plant, only grown in a distant place, and that the mission must remain a secret? 
+Presume that I also rolled up a ruling faction of Nomads, whose primary advantage was their conviction. I could then assume that their elites were a class of religious chiefs. If the faction's agenda was to cultivate a rare resource, but they were hindered by cultural taboos, I might decide that they had hired the party to take on the task instead. Perhaps the object of their quest was a unique plant, only grown in a distant place, and that the mission must remain a secret? 
  
-Finally, the party would meet with one of the Faction's Agents, a spy posing as a Peddler. Only she could tell them where the plant grew, and how to cultivate it.
+Finally, the party would meet with one of the faction's agents, a spy posing as a peddler. Only she could tell them where the plant grew, and how to cultivate it. I keep in mind that this person should likely appear in the region's **Heart** (see below).
 
 ## Points of Interest
 
