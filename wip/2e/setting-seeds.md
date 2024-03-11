@@ -96,39 +96,93 @@ Roll 2d20 and combine the results.
 
 ### Factions
 
-Each region is dominated by one or more Factions, each with its own unique advantages, goals, and obstacles. They each should have one or more representatives, or **Seneschals**, tasked with helping complete a Faction's Agenda. Often **Seneschals** will have personal motivations that differ from the Faction's main **Agenda**, a fact that canny PCs can exploit for their own gain.
+Each region is dominated by one or more Factions, each with its own unique advantages, goals, and obstacles. They each should have one or more representatives, or **Agents**, tasked with helping complete a Faction's Agenda. Often **Agents** will have personal motivations that differ from the Faction's main **Agenda**, a fact that canny PCs can exploit for their own gain.
 
-Roll one or more times on the [Faction Types](#faction-types), [Faction Agendas](#faction-agendas) and [Seneschals](#seneschals) tables. Note the results in your notebook.
+Roll one or more times on the [Faction Types](#faction-types), [Faction Agendas](#faction-agendas) and [Agents](#Agents) tables.
 
-#### Faction Types
+### Faction Types
 
 Roll 2d20 and combine the results.
 
-|         |                 |                |
-| ------- | --------------- | -------------- |
-| **d20** | **Type**        | **Advantage**  |
-| **1**   | Artisans        | Agility        |
-| **2**   | Commoners       | Alliances      |
-| **3**   | Criminals       | Anonymity      |
-| **4**   | Cultists        | Apparatus      |
-| **5**   | Exiles          | Charisma       |
-| **6**   | Explorers       | Conviction     |
-| **7**   | Industrialists  | Fealty         |
-| **8**   | Military        | Force          |
-| **9**   | Nobles          | Heritage       |
-| **10**  | Nomads          | Information    |
-| **11**  | Pilgrims        | Magic          |
-| **12**  | Protectors      | Members        |
-| **13**  | Regime          | Popularity     |
-| **14**  | Religious       | Position       |
-| **15**  | Revolutionaries | Renown         |
-| **16**  | Scholars        | Resources      |
-| **17**  | Settlers        | Ruthlessness   |
-| **18**  | Spies           | Specialization |
-| **19**  | Traders         | Subterfuge     |
-| **20**  | Tribal          | Wealth         |
+|         |                 |              |
+| ------- | --------------- | ------------ |
+| **d20** | **Type**        | **Agents**   |
+| **1**   | Artisans        | Academics    |
+| **2**   | Commoners       | Assassins    |
+| **3**   | Criminals       | Bannermen    |
+| **4**   | Cultists        | Criminals    |
+| **5**   | Exiles          | Farmers      |
+| **6**   | Explorers       | Generals     |
+| **7**   | Industrialists  | Laborers     |
+| **8**   | Military        | Lords        |
+| **9**   | Nobles          | Merchants    |
+| **10**  | Nomads          | Monks        |
+| **11**  | Pilgrims        | Mystics      |
+| **12**  | Protectors      | Nobles       |
+| **13**  | Regime          | Officials    |
+| **14**  | Religious       | Outlanders   |
+| **15**  | Revolutionaries | Peddlers     |
+| **16**  | Scholars        | Philosophers |
+| **17**  | Settlers        | Politicians  |
+| **18**  | Spies           | Spies        |
+| **19**  | Traders         | Thieves      |
+| **20**  | Tribal          | Thugs        |
 
-#### Faction Agendas
+### Faction Traits
+
+Roll 2d20 and combine the results.
+
+|         |               |               |
+| ------- | ------------- | ------------- |
+| **d20** | **Trait 1**   | **Trait 2**   |
+| **1**   | Cautious      | Brutal        |
+| **2**   | Discreet      | Craven        |
+| **3**   | Enigmatic     | Cruel         |
+| **4**   | Fierce        | Cunning       |
+| **5**   | Dogmatic      | Deceptive     |
+| **6**   | Judicious     | Mercurial     |
+| **7**   | Keen          | Selfish       |
+| **8**   | Loyal         | Bankrupt      |
+| **9**   | Meticulous    | Corrupt       |
+| **10**  | Pragmatic     | Generous      |
+| **11**  | Resourceful   | Incompetent   |
+| **12**  | Tenacious     | Manipulative  |
+| **13**  | Decadent      | Ruthless      |
+| **14**  | Connected     | Repressed     |
+| **15**  | Disciplined   | Adaptable     |
+| **16**  | Incorruptible | Stealthy      |
+| **17**  | Intellectual  | Threatened    |
+| **18**  | Shrewd        | Xenophobic    |
+| **19**  | Popular       | Collaborative |
+| **20**  | Secretive     | Cynical       |
+
+### Faction Advantages
+
+|         |                 |                 |
+| ------- | --------------- | --------------- |
+| **d20** | **Advantage 1** | **Advantage 2** |
+| **1**   | Artisans        | Agility         |
+| **2**   | Commoners       | Alliances       |
+| **3**   | Criminals       | Anonymity       |
+| **4**   | Cultists        | Apparatus       |
+| **5**   | Exiles          | Charisma        |
+| **6**   | Explorers       | Conviction      |
+| **7**   | Industrialists  | Fealty          |
+| **8**   | Military        | Force           |
+| **9**   | Nobles          | Heritage        |
+| **10**  | Nomads          | Information     |
+| **11**  | Pilgrims        | Magic           |
+| **12**  | Protectors      | Members         |
+| **13**  | Regime          | Popularity      |
+| **14**  | Religious       | Position        |
+| **15**  | Revolutionaries | Renown          |
+| **16**  | Scholars        | Resources       |
+| **17**  | Settlers        | Ruthlessness    |
+| **18**  | Spies           | Specialization  |
+| **19**  | Traders         | Subterfuge      |
+| **20**  | Tribal          | Wealth          |
+
+### Faction Agendas
 
 Roll 2d20 and combine the results.
 
@@ -155,34 +209,6 @@ Roll 2d20 and combine the results.
 | **18**  | Revive a Former Power     | Hindered by cultural taboos.                            |
 | **19**  | Seek New Leadership       | An internal schism threatens to tear the Faction apart. |
 | **20**  | Spread a Belief           | A geographic barrier or impassable terrain.             |
-
-#### Seneschals
-
-Roll 2d20 and combine the results.
-
-|         |               |             |
-| ------- | ------------- | ----------- |
-| **d20** | **Seneschal** | **Trait**   |
-| **1**   | Academics     | Brutal      |
-| **2**   | Assassins     | Cautious    |
-| **3**   | Bannermen     | Craven      |
-| **4**   | Criminals     | Cruel       |
-| **5**   | Farmers       | Cunning     |
-| **6**   | Generals      | Deceptive   |
-| **7**   | Laborers      | Discreet    |
-| **8**   | Lords         | Enigmatic   |
-| **9**   | Merchants     | Fierce      |
-| **10**  | Monks         | Jovial      |
-| **11**  | Mystics       | Judicious   |
-| **12**  | Nobles        | Keen        |
-| **13**  | Officials     | Loyal       |
-| **14**  | Outlanders    | Mercurial   |
-| **15**  | Peddlers      | Meticulous  |
-| **16**  | Philosophers  | Pragmatic   |
-| **17**  | Politicians   | Resourceful |
-| **18**  | Spies         | Selfish     |
-| **19**  | Thieves       | Tenacious   |
-| **20**  | Thugs         | Tranquil    |
 
 ### Topography
 
@@ -359,7 +385,7 @@ For example, if I rolled up a people that were there religious and sought conver
 
 Presume that I also rolled up a ruling Faction of Nomads, whose primary Advantage was their conviction, I would assume the elites were a class of religious chiefs. If the Faction's Agenda was to cultivate a rare resource, but that they were hindered by cultural taboos, I might decide that they had hired the party to take on the task. Perhaps the object of their quest was a unique plant, only grown in a distant place, and that the mission must remain a secret? 
  
-Finally, the party would meet with one of the Faction's Seneschals, a spy posing as a Peddler. Only she could tell them where the plant grew, and how to cultivate it.
+Finally, the party would meet with one of the Faction's Agents, a spy posing as a Peddler. Only she could tell them where the plant grew, and how to cultivate it.
 
 ## Points of Interest
 

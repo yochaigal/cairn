@@ -9,7 +9,7 @@ search_exclude: true
 
 # Factions Overview
 
-Each region in your setting is dominated by one or more **Factions**, each with its own unique **Advantages**, **Goals**, and **Obstacles**. A Faction may be governed by a one or more powerful figures, but most of the time PCs will be dealing with subordinates known as Seneschals, tasked with helping complete a Faction's **Agenda**. Occasionally Seneschals will have personal motivations that differ from the Faction's main Agenda, a fact that canny PCs can exploit for their own gain. Place Seneschals in the **Heart** or otherwise appropriate location.
+Each region in your setting is dominated by one or more **Factions**, each with its own unique **Advantages**, **Goals**, and **Obstacles**. A Faction may be governed by a one or more powerful figures, but most of the time PCs will be dealing with subordinates known as Agents, tasked with helping complete a Faction's **Agenda**. Occasionally Agents will have personal motivations that differ from the Faction's main Agenda, a fact that canny PCs can exploit for their own gain. Place Agents in the **Heart** or otherwise appropriate location.
 
 ## Advantages
 
@@ -31,46 +31,102 @@ Each region in your setting is dominated by one or more **Factions**, each with 
 - Most goals should focus on acquiring a distinct advantage in order to proceed to the next goal.
 - At least one goal should deal with the Faction's primary obstacle. This may be the first goal, or the last.
 
-## Seneschals
+## Agents
 
-- Seneschals are often in charge of completing one or more of the goals of the Agenda of a Faction.
-- Particularly large Factions may have additional Seneschals, often with each in charge of a different set of Resources
-- Small Factions may have a single leader that acts as Seneschal, and may even be a Faction of one!
+- Agents are often in charge of completing one or more of the goals of the Agenda of a Faction.
+- Particularly large Factions may have additional Agents, often with each in charge of a different set of Resources
+- Small Factions may have a single leader that acts as Agent, and may even be a Faction of one!
 
 > The region map should reflect the impact of Factions as they work on completing their agendas and acquiring more advantages.
 > Do not feel limited by the table results below. If something feels "off" or a different table result would work better for your setting, use it!
 
 ## Creating Factions
 
-Roll one or more times on the [Faction Types](#faction-types), [Faction Agendas](#faction-agendas) and [Seneschals](#seneschals) tables.
+Roll one or more times on the [Faction Types](#faction-types), [Faction Agendas](#faction-agendas) and [Agents](#Agents) tables.
 
 ### Faction Types
 
 Roll 2d20 and combine the results.
 
-|         |                 |                |
-| ------- | --------------- | -------------- |
-| **d20** | **Type**        | **Advantage**  |
-| **1**   | Artisans        | Agility        |
-| **2**   | Commoners       | Alliances      |
-| **3**   | Criminals       | Anonymity      |
-| **4**   | Cultists        | Apparatus      |
-| **5**   | Exiles          | Charisma       |
-| **6**   | Explorers       | Conviction     |
-| **7**   | Industrialists  | Fealty         |
-| **8**   | Military        | Force          |
-| **9**   | Nobles          | Heritage       |
-| **10**  | Nomads          | Information    |
-| **11**  | Pilgrims        | Magic          |
-| **12**  | Protectors      | Members        |
-| **13**  | Regime          | Popularity     |
-| **14**  | Religious       | Position       |
-| **15**  | Revolutionaries | Renown         |
-| **16**  | Scholars        | Resources      |
-| **17**  | Settlers        | Ruthlessness   |
-| **18**  | Spies           | Specialization |
-| **19**  | Traders         | Subterfuge     |
-| **20**  | Tribal          | Wealth         |
+|         |                 |              |
+| ------- | --------------- | ------------ |
+| **d20** | **Type**        | **Agents**   |
+| **1**   | Artisans        | Academics    |
+| **2**   | Commoners       | Assassins    |
+| **3**   | Criminals       | Bannermen    |
+| **4**   | Cultists        | Criminals    |
+| **5**   | Exiles          | Farmers      |
+| **6**   | Explorers       | Generals     |
+| **7**   | Industrialists  | Laborers     |
+| **8**   | Military        | Lords        |
+| **9**   | Nobles          | Merchants    |
+| **10**  | Nomads          | Monks        |
+| **11**  | Pilgrims        | Mystics      |
+| **12**  | Protectors      | Nobles       |
+| **13**  | Regime          | Officials    |
+| **14**  | Religious       | Outlanders   |
+| **15**  | Revolutionaries | Peddlers     |
+| **16**  | Scholars        | Philosophers |
+| **17**  | Settlers        | Politicians  |
+| **18**  | Spies           | Spies        |
+| **19**  | Traders         | Thieves      |
+| **20**  | Tribal          | Thugs        |
+
+### Faction Traits
+
+Roll 2d20 and combine the results.
+
+|         |               |               |
+| ------- | ------------- | ------------- |
+| **d20** | **Trait 1**   | **Trait 2**   |
+| **1**   | Cautious      | Brutal        |
+| **2**   | Discreet      | Craven        |
+| **3**   | Enigmatic     | Cruel         |
+| **4**   | Fierce        | Cunning       |
+| **5**   | Dogmatic      | Deceptive     |
+| **6**   | Judicious     | Mercurial     |
+| **7**   | Keen          | Selfish       |
+| **8**   | Loyal         | Bankrupt      |
+| **9**   | Meticulous    | Corrupt       |
+| **10**  | Pragmatic     | Generous      |
+| **11**  | Resourceful   | Incompetent   |
+| **12**  | Tenacious     | Manipulative  |
+| **13**  | Decadent      | Ruthless      |
+| **14**  | Connected     | Repressed     |
+| **15**  | Disciplined   | Adaptable     |
+| **16**  | Incorruptible | Stealthy      |
+| **17**  | Intellectual  | Threatened    |
+| **18**  | Shrewd        | Xenophobic    |
+| **19**  | Popular       | Collaborative |
+| **20**  | Secretive     | Cynical       |
+
+### Faction Advantages
+
+Roll 2d20 and combine the results.
+
+|         |                 |                 |
+| ------- | --------------- | --------------- |
+| **d20** | **Advantage 1** | **Advantage 2** |
+| **1**   | Artisans        | Agility         |
+| **2**   | Commoners       | Alliances       |
+| **3**   | Criminals       | Anonymity       |
+| **4**   | Cultists        | Apparatus       |
+| **5**   | Exiles          | Charisma        |
+| **6**   | Explorers       | Conviction      |
+| **7**   | Industrialists  | Fealty          |
+| **8**   | Military        | Force           |
+| **9**   | Nobles          | Heritage        |
+| **10**  | Nomads          | Information     |
+| **11**  | Pilgrims        | Magic           |
+| **12**  | Protectors      | Members         |
+| **13**  | Regime          | Popularity      |
+| **14**  | Religious       | Position        |
+| **15**  | Revolutionaries | Renown          |
+| **16**  | Scholars        | Resources       |
+| **17**  | Settlers        | Ruthlessness    |
+| **18**  | Spies           | Specialization  |
+| **19**  | Traders         | Subterfuge      |
+| **20**  | Tribal          | Wealth          |
 
 ### Faction Agendas
 
@@ -100,55 +156,34 @@ Roll 2d20 and combine the results.
 | **19**  | Seek New Leadership       | An internal schism threatens to tear the Faction apart. |
 | **20**  | Spread a Belief           | A geographic barrier or impassable terrain.             |
 
-### Seneschals
-
-Roll 2d20 and combine the results.
-
-|         |               |             |
-| ------- | ------------- | ----------- |
-| **d20** | **Seneschal** | **Trait**   |
-| **1**   | Academics     | Brutal      |
-| **2**   | Assassins     | Cautious    |
-| **3**   | Bannermen     | Craven      |
-| **4**   | Criminals     | Cruel       |
-| **5**   | Farmers       | Cunning     |
-| **6**   | Generals      | Deceptive   |
-| **7**   | Laborers      | Discreet    |
-| **8**   | Lords         | Enigmatic   |
-| **9**   | Merchants     | Fierce      |
-| **10**  | Monks         | Jovial      |
-| **11**  | Mystics       | Judicious   |
-| **12**  | Nobles        | Keen        |
-| **13**  | Officials     | Loyal       |
-| **14**  | Outlanders    | Mercurial   |
-| **15**  | Peddlers      | Meticulous  |
-| **16**  | Philosophers  | Pragmatic   |
-| **17**  | Politicians   | Resourceful |
-| **18**  | Spies         | Selfish     |
-| **19**  | Thieves       | Tenacious   |
-| **20**  | Thugs         | Tranquil    |
-
 ## Example Faction
 
-- **Academic**: _Royal Cartographer's Guild_
-- **Base**: _Seaside Athenaeum_
+### Type
+
+- **Academics**: _Royal Cartographer's Guild_
 
 ### Advantages
+
 - **Apparatus**: A _Map of the Dead_. It opens a path to the underworld, and to the secrets of the dead.  
-- **Position**: The _Seaside Athenaeum_ is both well-defended and steeped in forbidden secrets. 
 - **Renown**: None would dare defy the _Guild_ publicly. Their voice carries great weight in the kingdom.
-- **Seneschals**: _Dr. Horatia Confi_, first order. Discovered the _Map of the Dead_. Stats as human (WIL 15).  
-- **Agenda**: **Destroy**. The _Guild_ has long been at war with the _Holy Order of Yix_ (figuratively and otherwise) for over a century. It is time their ignorant sect was brought to its knees. _The Order_ is currently favored by the monarchy, but that could all change.
-  - Hire a skilled party, and lead them to the _Gates of the Underworld_. _Dr. Confi_ will lead the expedition.   
-  - Travel through the lands of the dead in search of the _Order_'s founder, and force their to reveal an ancient secret.
-  - Reveal the founder's secrets - including their true identity - to the monarchy. Tie up any loose ends, including witnesses.
-- **Obstacle**: **Rotten From Within**. The _Guild_ has received legitimate intelligence that a well-placed operative moves within their ranks, and is aware of the coming operation.
+- **Agents**: _Dr. Horatia Confi_, first order. Discovered the _Map of the Dead_. Stats as human (WIL 15).  
+
+### Agenda
+
+The _Guild_ has long been at war with the _Holy Order of Yix_ (figuratively and otherwise) for over a century. It is time their ignorant sect was brought to its knees. _The Order_ is currently favored by the monarchy, but that could all change.
+- Hire a skilled party, and lead them to the _Gates of the Underworld_. _Dr. Confi_ will lead the expedition.   
+- Travel through the lands of the dead in search of the _Order_'s founder, and force their to reveal an ancient secret.
+- Reveal the founder's secrets - including their true identity - to the monarchy. Tie up any loose ends, including witnesses.
+
+### Obstacle
+
+The _Guild_ has received legitimate intelligence that a well-placed operative moves within their ranks, and is aware of the coming operation.
 
 ## Faction Rules
 
 - By default, **Factions** operate independent of the player character's actions. If the PCs do nothing, the **Factions** should still act to achieve their aims.
 - Whenever a **Faction** is positioned to advance a **goal** in their **Agenda**, roll a **d12** on the [Faction Actions](#faction-actions) table. 
-- If two **Factions** are _opposed_, the **Faction** _most at risk_ makes a WIL save, using the score of its highest-ranking **Seneschal**. 
+- If two **Factions** are _opposed_, the **Faction** _most at risk_ makes a WIL save, using the score of its highest-ranking **Agent**. 
   - On a success, the **Faction** most at risk rolls on the [Faction Actions](#faction-actions) table, and their opponent does not.
   - On a fail, the **Faction** most at risk _does not_ roll on the [Faction Actions](#faction-actions) table, but their opponent does.
 

@@ -2,7 +2,7 @@
 layout: default
 title: Dungeon Seeds
 grand_parent: WIP
-parent: 2e
+parent: 2e 
 nav_exclude: true
 search_exclude: true
 ---
@@ -182,7 +182,6 @@ Roll 2d20 and combine the results.
 | **19**  | Treasure Horde               | A Wealthy Recluse      |
 | **20**  | Impenetrable Vault           | Heretical Alchemists   |
 
-
 #### Ruination
 
 Roll 2d20 and combine the results.
@@ -273,7 +272,6 @@ Dungeons (like any other setting) should have one or more Factions with their ow
 
 Most dungeons will have someone _living_ there. Someone that _prefers_ the dungeon life over any other. These should be NPCs that the party can interact, trade, hire, aid, and so on. These creatures can be deeply involved or entirely neutral towards the dungeon's Factions.
 
-
 #### Traits
 
 |         |                 |               |
@@ -299,8 +297,6 @@ Most dungeons will have someone _living_ there. Someone that _prefers_ the dunge
 | **18**  | Unwavering      | Obstinate     |
 | **19**  | Deductive       | Skeptical     |
 | **20**  | Practical       | Unimaginative |
-
-
 
 ### Implementation
 
