@@ -15,13 +15,12 @@ Each region in your setting is dominated by one or more **Factions**, each with 
 
 - Factions possess advantages that allow them to accomplish their goals, the culmination of which will result in fulfilling their Agendas.
 - Advantages reflect a Faction's influence, materials, wealth, and unique features. Advantages are best interpreted through the lens of the Faction's Type.
-- Factions add or lose advantages by trying to complete their agenda (see below).
-- Factions leverage their advantages as much as possible to achieve their goals, and at the same time work to acquire _more_ advantages. 
+- Factions add or lose advantages by trying to complete their agenda, leveraging their advantages as much as possible to achieve their goals, and at the same time work to acquire _more_ advantages. 
 
 ## Agendas
 
 - All agendas have at least one obstacle that stands in the way of their completion. Additional obstacles can arise through Faction Actions (see below) or through developments in the fiction.
-- Factions will work to complete their agendas independently, enlisting the help of PCs only when advantageous.
+- Factions will work to complete their agendas independently, enlisting the help of PCs only when it helps strengthen their agenda.
 - Agendas are accomplished through the completion of goals that work toward a clear objective or purpose. They are rooted in desire: that for power, wealth, revenge, resources, etc.
 - Agendas should not be small things. Their successful completion should potentially change the landscape of a setting.
 
@@ -29,17 +28,17 @@ Each region in your setting is dominated by one or more **Factions**, each with 
 
 - Each Faction should 3-4 [Goals](#goals) that _must_ be accomplished for this agenda to be accomplished.
 - Goals are _progressive_, each building on the previous successes (or failures) of earlier goals.
-- Most goals should focus on acquiring a distinct **Advantage** in order to proceed to the next goal.
-- At least one goal should deal with the **Faction's** primary **Obstacle** (see above). This may be the first goal, or the last.
-
-> The region map should reflect the impact of Factions as they work on completing their agendas and acquiring more advantages.
-> Do not feel limited by the table results below. If something feels "off" or a different table result would work better for your setting, use it!
+- Most goals should focus on acquiring a distinct advantage in order to proceed to the next goal.
+- At least one goal should deal with the Faction's primary obstacle. This may be the first goal, or the last.
 
 ## Seneschals
 
-- **Seneschals** are often in charge of completing one or more of the goals of the **Agenda** of a **Faction**.
-- Particularly large **Factions** may have additional **Seneschals**, often with each in charge of a different set of **Resources**
-- Small **Factions** may have a single leader that acts as **Seneschal**, and may even be a **Faction** of one!
+- Seneschals are often in charge of completing one or more of the goals of the Agenda of a Faction.
+- Particularly large Factions may have additional Seneschals, often with each in charge of a different set of Resources
+- Small Factions may have a single leader that acts as Seneschal, and may even be a Faction of one!
+
+> The region map should reflect the impact of Factions as they work on completing their agendas and acquiring more advantages.
+> Do not feel limited by the table results below. If something feels "off" or a different table result would work better for your setting, use it!
 
 ## Creating Factions
 
