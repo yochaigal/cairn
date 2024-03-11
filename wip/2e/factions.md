@@ -9,7 +9,9 @@ search_exclude: true
 
 # Factions
 
-Each region is dominated by one or more factions, each with its own unique **Advantages**, **Agenda**, and **Obstacles**. They each should have one or more representatives, or **Agents**, tasked with helping complete a faction's agenda. Agents are often in charge of completing one or more of the goals of the Agenda of a faction. Particularly large factions may have additional agents, each in charge of a distinct goal. Agents may have personal motivations that differ from the faction's main agenda, a fact that canny PCs can exploit for their own gain.
+A region is typically dominated by one or more factions, each with their own unique **Advantages**, **Agenda**, and **Obstacles**. Each faction should also have one or more representatives, or **Agents**, tasked with helping complete their agenda. 
+
+Agents are often in charge of completing one or more of the goals of the Agenda of a faction. Particularly large factions may have additional agents, each in charge of a distinct goal. Agents may have personal motivations that differ from the faction's main agenda, a fact that canny PCs can exploit for their own gain.
 
 > Do not feel limited by the table results below. If something feels "off" or a different table result would work better for your setting, use it!
 
