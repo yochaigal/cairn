@@ -12,106 +12,87 @@ search_exclude: true
 ## Overview
 
 - Establish a theme
-  - Find inspiration
-  - Use examples from real life
-  - Location
-  - Setting
-  - Entrance
-  - Construction
-  - History 
-  - Original Use
+- Find inspiration
+- Use examples from real life
+- Location
+- Setting
+- Entrance
+- Construction
+- History 
+- Original Use
 - Create the map
-  - Do it however you can do it
-  - Be ready to change it - a lot
+- Do it however you can do it
+- Be ready to change it- a lot
 - Stock the rooms
-  - [we'll get there]
+- [we'll get there]
 - Good Keying
-  - Put everything in maps (dimension, exits)
-  - Numbering
-  - Start with what matters most
-  - Be specific
-  - Ignore boring stuff
-  - Only say what's happening _now_
-  - Don't assume
-  - Don't tell the PCs how they feel
+- Put everything in maps (dimension, exits)
+- Numbering
+- Start with what matters most
+- Be specific
+- Ignore boring stuff
+- Only say what's happening _now_
+- Don't assume
+- Don't tell the PCs how they feel
 
 ## Principles
 
-_Emphasize putting the power in the player's hands to make their own decisions, so that their choices have the greatest possible impact._
+_Emphasize creating opportunities for players to make their own decisions, so that their choices have the greatest possible impact._
 
-### Entrances/Exits
-
-  - Create multiple entrances and exits and add meaningful information to doorways to to help players avoid feeling railroaded.
-  
 ### Purpose
 
-  - Demonstrate the original inhabitants, design, or goal of the dungeon. Displays its age and current use.
-  - Consider was it used for, and what is it used for now. 
-  - Identify what it was designed to keep out.
+- Demonstrate signs of the original inhabitants, design, or goal of the dungeon. Displays its age and current use.
+- Consider was the dungeon was used for, and what is it used for now. 
+- What was the dungeon designed to keep out? What was it designed to keep _in_?
   
 ### Levels
 
-  - Can represent danger gradation and thematic intent.
-  - Should push the players to balance the risk of continuing with the potential reward.
+- Levels in a dungeon should represent increased danger as well as thematic intent.
+- Each level should push the players to weight the balance of a potential reward vs the risk of continuing on.
   
 ### Layout
-
-  - Incorporate loops for non-linear exploration.
-  - Avoid tree-like structures with dead ends.
-  - Form a network of interconnected rooms and corridors.
-  - Allows for interesting strategies, especially with combat and ambushes
+  
+- Create multiple entrances and exits. Add meaningful information to doorways to to help players avoid feeling railroaded.
+- Offer multiple routes between rooms and incorporate loops, but avoid creating tree-like structures with unnecessary dead ends.
+- Design choke points and other tactical opportunities to allow for interesting combat tactics.
+- Provide hiding spots for the players to gather information discreetly and allows them to exploit a dungeon's geography.
 
 ### Verticality
 
-  - Makes mapping more complex... but also more fun
-  - Add tall rooms, and climbable structures.
-  - Give players things to drop on to/from
-  - Lets them go up and over, instead of just pushing through
+- Make your rooms tall and create climbable structures.
+- Give players things to drop on to/from.
+- Make paths that let PCs go up and over, instead of just pushing through.
   
 ### Secret Areas
 
-  - Design hidden zones for players to discover.
-  - Provide subtle clues that say "something is off here"
-  - Have at least one place that the players may never find
+- Design hidden zones for players to discover.
+- Provide subtle clues that say "something is off here" and "warning: death lies ahead."
+- Have at least one place that the players may never find. Make it worth it.
   
-### Room Varieties
+### Rooms
 
-  - Vary room shapes, sizes, and functions.
-  - Use architectural motifs to connect rooms thematically.
-  - Should be easy to describe, map, and recall.
+- Vary room shapes, sizes, and functions.
+- Use architectural motifs to connect rooms thematically and provide a hint of what's to come.
+- Room descriptions should be easy to map and recall.
   
-### Tactical Areas
-
-  - Include zones that offer strategic advantages.
-  - Design choke points, elevated spots, and other tactical features.
-  - Provides a means for players to gather information discreetly.
-
 ### Treasure
 
-  - Ensure there's something valuable to seek.
-  - Offer diverse forms of treasure, including knowledge, allies, trade goods, and artifacts.
-  - Infuse narrative elements into the treasure.
+- Ensure there's always something valuable to seek! That doesn't always mean gold.
+- Offer diverse forms of treasure, including knowledge, allies, trade goods, and artifacts.
+- Add narrative elements, so that some treasure has a greater narrative significance than monetary value.
   
 ### Challenges
 
-- Monsters and obstacles are another way to tell the dungeon's story.
-
-### Dangers
-
-  - Try to create a sense of peril without making obstacles seem unbeatable.
-  - Overtly dangerous areas and creatures should be obvious.
-  - Create combat encounters that can be avoided with critical thinking.
-  
-### Paths
-
-  - Offer multiple routes.
-  - Allow them to exploit a dungeon's geography.
-  - Should offer a balance between branching routes and obvious linearity.
-  
+- Monsters and obstacles are another way to inform the party of the dungeon's story.
+- Try to create a sense of peril without making obstacles seem unbeatable.
+- Overtly dangerous areas and creatures should be obvious.
+- Create combat encounters that can be avoided with critical thinking or problem solving.
+    
 ### Interactions
 
-  - Include NPCs for the players to engage with.
-  - Use Factions to deepen the dungeon's narrative and offer role-playing opportunities.
+- Include NPCs for the players to engage with. These characters should _want_ to stay in the dungeon.
+- Create factions with their own goals and agendas. 
+- Factions should interact with one another, as well as the PCs.
 
 
 ## Establish a Theme
