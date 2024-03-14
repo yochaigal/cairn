@@ -37,8 +37,6 @@ search_exclude: true
 
 ## Principles
 
-_Emphasize creating opportunities for players to make their own decisions, so that their choices have the greatest possible impact._
-
 ### Purpose
 
 - Demonstrate signs of the original inhabitants, design, or goal of the dungeon. Displays its age and current use.
@@ -83,17 +81,28 @@ _Emphasize creating opportunities for players to make their own decisions, so th
   
 ### Challenges
 
+- Emphasize creating opportunities for players to make their own decisions, so that their choices have the greatest possible impact.
 - Monsters and obstacles are another way to inform the party of the dungeon's story.
 - Try to create a sense of peril without making obstacles seem unbeatable.
 - Overtly dangerous areas and creatures should be obvious.
 - Create combat encounters that can be avoided with critical thinking or problem solving.
     
-### Interactions
+### NPCs & Factions
 
 - Include NPCs for the players to engage with. These characters should _want_ to stay in the dungeon.
-- Create factions with their own goals and agendas. 
-- Factions should interact with one another, as well as the PCs.
+- NPCs (and even monsters) should communicate with the PCs, even during combat. Have them make threats, suggest compromises, or try to persuade the PCs whenever possible.
+- Create factions with their own goals and agendas. Everyone wants something, and has a limit to what they might do to get it.
+- Factions should interact with one another, as well as the PCs. They should act _regardless_ of what the PCs may do.
+- Factions have hierarchies and divisions, both of which the PCs can potentially exploit to their own advantage.
 
+### Describing a Dungeon
+
+- Constantly re-state the party's surroundings, where they are in physical space, and what each character's senses are detecting.
+- Don't tell them how they feel. Say, "a long, jagged knife" rather than "an evil-looking knife."
+- Always reiterate what is _about_ to happen. Does the flaming barrel look stable, or like it might explode?
+- Describe elements to help orient the party to their surroundings. 
+  - How close is a PC to a potential danger? Are they above it, or below it?
+  - What side of an object is a PC standing in? Are they inside or outside a room, building, or structure?
 
 ## Establish a Theme
 
