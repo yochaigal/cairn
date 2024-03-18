@@ -3,7 +3,6 @@ layout: default
 title: Spellbooks
 parent: 2e
 grand_parent: WIP
-nav_order: 8
 nav_exclude: true
 ---
 
