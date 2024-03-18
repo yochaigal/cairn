@@ -34,7 +34,7 @@ Faunus, Snowdrop, Wisp, Silverdew, Brim, Solstice, Steeleye, Sileas, Gossamer, H
 | **3** | A druid, who taught you the language of trees. When it came time to leave you took with you only a **Gnarled Staff** (d8) and the promise that one day you would return.                                                 |
 | **4** | A gruff blacksmith from a sleepy river town. You were always kept at arm's length. Now the forge is cold, and you've moved on. Take a **Smith's Apron** (_petty_) and a set of **Oft-mended Chain Mail** (2 Armor, _bulky_). |
 | **5** | A troupe of traveling entertainers. For a time, they were like family to you. One day you woke up and they were gone with no explanation. Take a **Storybook**, a **Dagger** (d6), and some burning questions.           |
-| **6** | The monks of a secluded forest monastery. When their rules became too strict, and you snuck away. Take a **Monk's Habit** (warm, _petty_) and a **Spellbook** of _Control Plants_.                                       |
+| **6** | The monks of a secluded forest monastery. When their rules became too strict, and you snuck away. Take a **Monk's Habit** (warm, _petty_) and a **Spellbook** of _Control Plants_. Control Plants: Nearby plants and trees obey you and gain the ability to move at a slow pace. _Leaves grow along the spine, and it smells faintly of decay._                                        |
 
 
 ## What keeps bad tidings at bay? Roll 1d6:
