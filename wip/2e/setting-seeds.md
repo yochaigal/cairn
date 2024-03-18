@@ -110,7 +110,8 @@ A region's terrain and natural features are an essential part of any map, affect
 
 #### Draw Terrain
 
-- Roll **3d6**, collecting any dice that roll off the page and setting them aside.
+- Roll **1d6** anywhere the map, noting the face up result but removing the die. The face-up result determines how many dice are needed next.
+- Roll the amount of dice indicated in the previous step, collecting any dice that roll off the page, setting them aside.
 - Draw long, curvy lines across the page, carving up the map around each die. 
 - Roll on the relevant table for each result, writing the terrain type on the map.
   - Replace the die with a triangle, writing the Landmark result beneath.
@@ -290,7 +291,8 @@ Points of Interest on a map (or POIs) are generally divided into the following c
 ### Draw Points of Interest
 
 - Draw the letter **H** close to a water source on the map. 
-- Roll **6d6** on the map, collecting any dice that roll off the page and setting them aside. These are the maps's Points of Interest.
+- Roll **1d6** anywhere the map, noting the face up result but removing the die. The face-up result determines how many dice are needed next.
+- Roll the amount of dice indicated in the previous step, collecting any dice that roll off the page, setting them aside.
 - Remove each die, noting the face up result according to the [POI Die Drop Table](#poi-die-drop-table) on the page. For example, the number 4 would indicate a Lair, denoted by the letter "L" on the page. 
 - Roll any dice that fell off the map page, repeating the previous process until no dice are remaining.
 - Starting with the Heart, number each POI on the map.
