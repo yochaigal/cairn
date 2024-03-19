@@ -101,50 +101,18 @@ search_exclude: true
 - Don't tell them how they feel. Say, "a long, jagged knife" rather than "an evil-looking knife."
 - Always reiterate what is _about_ to happen. Does the flaming barrel look stable, or like it might explode?
 - Describe elements to help orient the party to their surroundings. 
-  - How close is a PC to a potential danger? Are they above it, or below it?
-  - What side of an object is a PC standing in? Are they inside or outside a room, building, or structure?
+ - How close is a PC to a potential danger? Are they above it, or below it?
+ - What side of an object is a PC standing in? Are they inside or outside a room, building, or structure?
 
-## Establish a Theme
+## Creating a Dungeon
 
-### Initial Concept
-
-Consider what comes to mind when you think of a dungeon: it might be at the center of an abandoned maze, a trapdoor in a ruined temple, or in a gaping crystal maw in a long-abandoned mine. Consider where the dungeon is located, and how its entrance looks. Keep that image in your mind as we establish the theme. 
-
-> If you have already arrived at a basic concept for your dungeon by way of the Dungeon Types table in [Setting Seeds](/wip/2e/setting-seeds), you may skip ahead to the next section. 
-
-#### Concepts
-
-Roll 2d20 and combine the results.
-
-|         |                |              |
-| ------- | -------------- | ------------ |
-| **d20** | **Type**       | **Feature**  |
-| **1**   | Crypt          | Abandoned    |
-| **2**   | Prison         | Buried       |
-| **3**   | Cave           | Burnt        |
-| **4**   | Mine           | Clockwork    |
-| **5**   | Den            | Collapsed    |
-| **6**   | Stronghold     | Crumbling    |
-| **7**   | Temple         | Crystalline  |
-| **8**   | Laboratory     | Floating     |
-| **9**   | Workshop       | Flooded      |
-| **10**  | Great Hall     | Fungal       |
-| **11**  | Burial Ground  | Inverted     |
-| **12**  | Shrouded Grove | Isolated     |
-| **13**  | Ruined City    | Mirrored     |
-| **14**  | Estate         | Otherworldly |
-| **15**  | Tower          | Overgrown    |
-| **16**  | Manor          | Petrified    |
-| **17**  | Outpost        | Remote       |
-| **18**  | Fort           | Sealed       |
-| **19**  | Palace         | Toxic        |
-| **20**  | Tomb           | Warped       |
+Follow this procedure for any Dungeon POIs in your setting. Refer to the dungeon type table results from earlier. Read the results from the map. What image springs immediately to mind? Where is the dungeon is located? What does its entrance look like? Don't worry if you can't answer these questions yet. By the end of this process, you should be able to.
 
 ### History
 
-Who built the dungeon? What was its originally used for? Perhaps it used to be a mill, abandoned after the war took away all the able-bodied workers. Or maybe it was once a great fort, acting as a bulwark against the creatures of the night.
+Who built the dungeon? What was its originally used for? Perhaps it was once a great forge, capable of building the world's most powerful weapon. Or maybe it was once a burial site for ancient kings, binding their souls to the lands they once ruled.
 
-#### Purpose
+### Purpose
 
 Roll 2d20 and combine the results.
 
@@ -172,7 +140,35 @@ Roll 2d20 and combine the results.
 | **19**  | Treasure Horde               | A Wealthy Recluse      |
 | **20**  | Impenetrable Vault           | Heretical Alchemists   |
 
-#### Ruination
+### Construction
+
+Roll 2d20 and combine the results.
+
+|         |                       |                    |
+| ------- | --------------------- | ------------------ |
+| **d20** | **Entrance**          | **Construction**   |
+| **1**   | Cliff door            | Bone               |
+| **2**   | A Well                | Coral              |
+| **3**   | Underwater Tunnel     | Crystal            |
+| **4**   | Through a Painting    | Earth              |
+| **5**   | Skyward Beam of Light | Ethereal Fabric    |
+| **6**   | Cave                  | Flesh              |
+| **7**   | Starlight Path        | Floating Platforms |
+| **8**   | Mine Shaft            | Glass              |
+| **9**   | Illusory Wall         | Ice                |
+| **10**  | Veil of Mist          | Living Plants      |
+| **11**  | Behind a Waterfall    | Wood               |
+| **12**  | Hollow Statue         | Marble             |
+| **13**  | A Creature's Lair     | Metal              |
+| **14**  | Under a Bridge        | Obsidian           |
+| **15**  | Sinking Sand          | Sand               |
+| **16**  | Center of a Maze      | Shadow Material    |
+| **17**  | Between Menhirs       | Stone              |
+| **18**  | An Enormous Grave     | Webs               |
+| **19**  | A Massive Tree        | Petrified Wood     |
+| **20**  | A Dream               | Fungi              |
+
+### Ruination
 
 Roll 2d20 and combine the results.
 
@@ -200,37 +196,9 @@ Roll 2d20 and combine the results.
 | **19**  | Unending         | Turned to Stone             |
 | **20**  | Warped           | Unresolved Spirits          |
 
-#### Construction
+### Dungeon Factions
 
-Roll 2d20 and combine the results.
-
-|         |                       |                    |
-| ------- | --------------------- | ------------------ |
-| **d20** | **Entrance**          | **Construction**   |
-| **1**   | Cliff door            | Bone               |
-| **2**   | A Well                | Coral              |
-| **3**   | Underwater Tunnel     | Crystal            |
-| **4**   | Through a Painting    | Earth              |
-| **5**   | Skyward Beam of Light | Ethereal Fabric    |
-| **6**   | Cave                  | Flesh              |
-| **7**   | Starlight Path        | Floating Platforms |
-| **8**   | Mine Shaft            | Glass              |
-| **9**   | Illusory Wall         | Ice                |
-| **10**  | Veil of Mist          | Living Plants      |
-| **11**  | Behind a Waterfall    | Wood               |
-| **12**  | Hollow Statue         | Marble             |
-| **13**  | A Creature's Lair     | Metal              |
-| **14**  | Under a Bridge        | Obsidian           |
-| **15**  | Sinking Sand          | Sand               |
-| **16**  | Center of a Maze      | Shadow Material    |
-| **17**  | Tip of a Plateau      | Stone              |
-| **18**  | An Enormous Grave     | Webs               |
-| **19**  | A Massive Tree        | Petrified Wood     |
-| **20**  | A Dream               | Fungi              |
-
-### Factions
-
-Dungeons (like any other setting) should have one or more Factions with their own unique agenda, obstacles, leaders, and hierarchy.  
+All dungeons should have one or more Factions with their own unique agenda, obstacles, leaders, and hierarchy.
 
 #### Agendas
 
@@ -290,4 +258,16 @@ Most dungeons will have someone _living_ there. Someone that _prefers_ the dunge
 
 ### Implementation
 
-Let's start with a simple dungeon concept: a former mine, sealed off to prevent further exploration. Perhaps the miners found something they could not contain, and blasted the entry shut? Maybe they even sacrificed some of their own, for "the greater good?"
+Let's assume that our earlier POI result was:
+- **Type**: _Shrouded Grove_
+- **Feature**: _Petrified Wood_
+
+We can easily imagine that this dungeon can be found in a dark, impenetrable forest with very little light, and at its center a small copse of petrified trees. It is likely hidden from view, and known by very few outside the forest boundary. 
+
+Continuing to roll on the **Purpose**, **Construction**, and **Ruination** tables we get the following results:
+
+- **Purpose**: Originally constructed to _protect of rare artifacts_. Built by a _fanatical cult_. 
+- **Construction**: The entrance is _between a circle of menhirs_, and its foundation is built of the very same _petrified wood_ that surrounds it.
+- **Ruination**: _Sealed_ as a result of _competing rituals_.
+
+We can picture it now: a forest temple built of petrified wood, designed to house rare and powerful Relics by an extremist sect of druids. After a magical accident sealed the doors forever shut, it can now only be entered through a circle of ancient menhirs. Who caused the incident that led to the temple's ruin? Perhaps a schism divided the cult, both sides vying for power through ritual domination.
