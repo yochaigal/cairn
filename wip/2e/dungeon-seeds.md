@@ -106,7 +106,7 @@ search_exclude: true
 
 ## Creating a Dungeon
 
-Follow this procedure for any Dungeon POIs in your setting. Refer to the dungeon type table results from earlier. Read the results from the map. What image springs immediately to mind? Where is the dungeon is located? What does its entrance look like? Don't worry if you can't answer these questions yet. By the end of this process, you should be able to.
+Follow this procedure for any Dungeon POIs in your setting. Refer to the dungeon type table results from earlier, reading the results from your map. What image springs immediately to mind? Where is the dungeon is located? What does its entrance look like? Don't worry if you can't answer these questions yet. By the end of this process, you should be able to.
 
 ### History
 
@@ -196,39 +196,11 @@ Roll 2d20 and combine the results.
 | **19**  | Unending         | Turned to Stone             |
 | **20**  | Warped           | Unresolved Spirits          |
 
-### Dungeon Factions
-
-All dungeons should have one or more Factions with their own unique agenda, obstacles, leaders, and hierarchy.
-
-#### Agendas
-
-|         |                |              |
-| ------- | -------------- | ------------ |
-| **d20** | **Goal**       | **Obstacle** |
-| **1**   | Ascension      | Sacrifice    |
-| **2**   | Creation       | Conflict     |
-| **3**   | Destruction    | Corruption   |
-| **4**   | Dominion       | Cost         |
-| **5**   | Enlightenment  | Danger       |
-| **6**   | Exploration    | Decay        |
-| **7**   | Growth         | Discord      |
-| **8**   | Innovation     | Division     |
-| **9**   | Justice        | Dogma        |
-| **10**  | Knowledge      | Exposure     |
-| **11**  | Liberation     | Factionalism |
-| **12**  | Peace          | Fear         |
-| **13**  | Power          | Ignorance    |
-| **14**  | Preservation   | Incompetence |
-| **15**  | Protection     | Injustice    |
-| **16**  | Redemption     | Isolation    |
-| **17**  | Revenge        | Opposition   |
-| **18**  | Survival       | Stagnation   |
-| **19**  | Transformation | Tradition    |
-| **20**  | Wealth         | Weakness     |
-
 ### Denizens
 
-Most dungeons will have someone _living_ there. Someone that _prefers_ the dungeon life over any other. These should be NPCs that the party can interact, trade, hire, aid, and so on. These creatures can be deeply involved or entirely neutral towards the dungeon's Factions.
+Most dungeons will have people and creatures _living_ there. These types _prefer_ the dungeon life over any other. They should be NPCs that the party can interact, trade, hire, aid, and so on. These creatures can be deeply involved or entirely neutral towards the dungeon's Factions.
+
+Roll 2d20 and combine the results.
 
 #### Traits
 
@@ -255,6 +227,38 @@ Most dungeons will have someone _living_ there. Someone that _prefers_ the dunge
 | **18**  | Unwavering      | Obstinate     |
 | **19**  | Deductive       | Skeptical     |
 | **20**  | Practical       | Unimaginative |
+
+### Dungeon Factions
+
+All dungeons should have one or more Factions with their own unique agenda, obstacles, leaders, and hierarchy.
+
+Roll 2d20 and combine the results.
+
+#### Agendas
+
+|         |                |              |
+| ------- | -------------- | ------------ |
+| **d20** | **Goal**       | **Obstacle** |
+| **1**   | Ascension      | Sacrifice    |
+| **2**   | Creation       | Conflict     |
+| **3**   | Destruction    | Corruption   |
+| **4**   | Dominion       | Cost         |
+| **5**   | Enlightenment  | Danger       |
+| **6**   | Exploration    | Decay        |
+| **7**   | Growth         | Discord      |
+| **8**   | Innovation     | Division     |
+| **9**   | Justice        | Dogma        |
+| **10**  | Knowledge      | Exposure     |
+| **11**  | Liberation     | Factionalism |
+| **12**  | Peace          | Fear         |
+| **13**  | Power          | Ignorance    |
+| **14**  | Preservation   | Incompetence |
+| **15**  | Protection     | Injustice    |
+| **16**  | Redemption     | Isolation    |
+| **17**  | Revenge        | Opposition   |
+| **18**  | Survival       | Stagnation   |
+| **19**  | Transformation | Tradition    |
+| **20**  | Wealth         | Weakness     |
 
 ### Implementation
 
