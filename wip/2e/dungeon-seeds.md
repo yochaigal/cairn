@@ -24,7 +24,7 @@ search_exclude: true
 - Do it however you can do it
 - Be ready to change it- a lot
 - Stock the rooms
-- [we'll get there]
+- Encounter tables
 - Good Keying
 - Put everything in maps (dimension, exits)
 - Numbering
@@ -103,6 +103,19 @@ search_exclude: true
 - Describe elements to help orient the party to their surroundings. 
  - How close is a PC to a potential danger? Are they above it, or below it?
  - What side of an object is a PC standing in? Are they inside or outside a room, building, or structure?
+
+### Dungeon Example
+
+#### Example Theme
+
+[ This should get moved to the bottom ]
+
+With some idea on the history, purpose, and denizens of the dungeon, we finally have our theme. Let's put it all together:
+Nestled within a dense, shrouded forest lies a temple made entirely of petrified wood. Built by a fanatical cult to protect sacred artifacts, its entrance concealed by a circle of ancient menhirs deep in the forest. The temple was partly sealed after a competing faction unleashed magic which interacted poorly with another ritual, spawning a terrible monster that protects the relics to this day. Today, the descendants of these factions still vie for control and redemption, hindered by dogmatic disputes and fear of the creature that still roams its halls.
+
+#### Example Map
+
+
 
 ## Creating a Dungeon
 
@@ -300,28 +313,146 @@ What stands in the way of Faction A achieving their aims of total power?
 What is Faction B trying to redeem, and what danger prevents them from achieving it?
 - Perhaps their faction was the cause of the ritual that sealed the temple from the ancient relics it was meant to protect, and they still carry that shame? Did the competing rituals create a monster that still patrols the temple? Perhaps if this monster was defeated, they could finally overcome their burden?
 
-#### Example Theme
+### Encounter Tables
 
-With some idea on the history, purpose, and denizens of the dungeon, we finally have our theme. Let's put it all together:
-Nestled within a dense, shrouded forest lies a temple made entirely of petrified wood. Built by a fanatical cult to protect sacred artifacts, its entrance concealed by a circle of ancient menhirs deep in the forest. The temple was partly sealed after a competing faction unleashed magic which interacted poorly with another ritual, spawning a terrible monster that protects the relics to this day. Today, the descendants of these factions still vie for control and redemption, hindered by dogmatic disputes and fear of the creature that still roams its halls.
+[Build encounter tables.]
 
-### Dungeon Rooms 
+## Create the Map
 
-[ This will probably get moved up, and the example put at the end ]
+### Room Types
 
-- Roll **3d6** on the table, then roll an amount of dice equal to the sum of those results on the map. Collect any dice that roll off the page and set them aside.
-- Draw a circle around each die on the table, noting their face-up result on the map.
-- Roll any dice that fell off the map page, repeating the last step until none remain.
-- Starting with the entrance, roll on the relevant tables for each room.
+- **Lore**: A room that helps build on the theme of the dungeon or provides a valuable lesson to the characters.
+- **Monster**: A dangerous creature that lives in the dungeon. This does not mean it will attack intruders by default.
+- **Special**: A unique or uncommon room, typically featuring a puzzle or hidden, interactive element.
+- **Trap**: A dangerous and hidden object, typically triggered through interaction with a character.
 
-> Some POIs may allow the PCs to see more of the world than what appears on their map.
+### Layout
 
-### Dungeon Die Drop Table
+- Roll **4d6** on the table, then roll an amount of dice _equal to the sum_ of the face-up results on the dungeon map. Ignore any dice that rolled off the page. What remains are the dungeon's _rooms_.
+- Remove each die, noting the face up result according to the [Dungeon Die Drop Table](#dungeon-die-drop-table) on the map. For example, the number **4** would indicate a **Special** room, denoted by the letter "S" on the page.
+- Select a room close to the page border. This is the _entrance_ to the dungeon.
+- Roll on the relevant tables for each room.
+- Starting with the entrance, number each room on the dungeon map.
 
-|         |                        |
-| ------- | ---------------------- |
-| **d6**  | **Room**               |
-| **1-2** | Encounter              |
-| **3**   | Trap                   |
-| **4**   | Special                |
-| **5-6** | Encounter and Treasure |
+#### Dungeon Die Drop Table
+
+|         |          |
+| ------- | -------- |
+| **d6**  | **Room** |
+| **1-2** | Lore     |
+| **3-4** | Monster  |
+| **4**   | Special  |
+| **5-6** | Trap     |
+
+#### Lore
+
+Roll 2d20 and combine the results.
+
+|         |          |          |
+| ------- | -------- | -------- |
+| **d20** | **Lore** | **Clue** |
+| **1**   |          |          |
+| **2**   |          |          |
+| **3**   |          |          |
+| **4**   |          |          |
+| **5**   |          |          |
+| **6**   |          |          |
+| **7**   |          |          |
+| **8**   |          |          |
+| **9**   |          |          |
+| **10**  |          |          |
+| **11**  |          |          |
+| **12**  |          |          |
+| **13**  |          |          |
+| **14**  |          |          |
+| **15**  |          |          |
+| **16**  |          |          |
+| **17**  |          |          |
+| **18**  |          |          |
+| **19**  |          |          |
+| **20**  |          |          |
+
+#### Monster
+
+Roll 2d20 and combine the results.
+
+|         |             |             |
+| ------- | ----------- | ----------- |
+| **d20** | **Monster** | **Feature** |
+| **1**   |             |             |
+| **2**   |             |             |
+| **3**   |             |             |
+| **4**   |             |             |
+| **5**   |             |             |
+| **6**   |             |             |
+| **7**   |             |             |
+| **8**   |             |             |
+| **9**   |             |             |
+| **10**  |             |             |
+| **11**  |             |             |
+| **12**  |             |             |
+| **13**  |             |             |
+| **14**  |             |             |
+| **15**  |             |             |
+| **16**  |             |             |
+| **17**  |             |             |
+| **18**  |             |             |
+| **19**  |             |             |
+| **20**  |             |             |
+
+#### Special
+
+Roll 2d20 and combine the results.
+
+|         |             |             |
+| ------- | ----------- | ----------- |
+| **d20** | **Special** | **Feature** |
+| **1**   |             |             |
+| **2**   |             |             |
+| **3**   |             |             |
+| **4**   |             |             |
+| **5**   |             |             |
+| **6**   |             |             |
+| **7**   |             |             |
+| **8**   |             |             |
+| **9**   |             |             |
+| **10**  |             |             |
+| **11**  |             |             |
+| **12**  |             |             |
+| **13**  |             |             |
+| **14**  |             |             |
+| **15**  |             |             |
+| **16**  |             |             |
+| **17**  |             |             |
+| **18**  |             |             |
+| **19**  |             |             |
+| **20**  |             |             |
+
+#### Trap
+
+Roll 2d20 and combine the results.
+
+|         |          |          |
+| ------- | -------- | -------- |
+| **d20** | **Trap** | **Clue** |
+| **1**   |          |          |
+| **2**   |          |          |
+| **3**   |          |          |
+| **4**   |          |          |
+| **5**   |          |          |
+| **6**   |          |          |
+| **7**   |          |          |
+| **8**   |          |          |
+| **9**   |          |          |
+| **10**  |          |          |
+| **11**  |          |          |
+| **12**  |          |          |
+| **13**  |          |          |
+| **14**  |          |          |
+| **15**  |          |          |
+| **16**  |          |          |
+| **17**  |          |          |
+| **18**  |          |          |
+| **19**  |          |          |
+| **20**  |          |          |
+
