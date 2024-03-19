@@ -112,7 +112,7 @@ Follow this procedure for any Dungeon POIs in your setting. Refer to the dungeon
 
 Who built the dungeon? What was its originally used for? Perhaps it was once a great forge, capable of building the world's most powerful weapon. Or maybe it was once a burial site for ancient kings, binding their souls to the lands they once ruled.
 
-### Purpose
+#### Purpose
 
 Roll 2d20 and combine the results.
 
@@ -140,7 +140,7 @@ Roll 2d20 and combine the results.
 | **19**  | Treasure Horde               | A Wealthy Recluse      |
 | **20**  | Impenetrable Vault           | Heretical Alchemists   |
 
-### Construction
+#### Construction
 
 Roll 2d20 and combine the results.
 
@@ -168,7 +168,7 @@ Roll 2d20 and combine the results.
 | **19**  | A Massive Tree        | Petrified Wood     |
 | **20**  | A Dream               | Fungi              |
 
-### Ruination
+#### Ruination
 
 Roll 2d20 and combine the results.
 
@@ -198,7 +198,7 @@ Roll 2d20 and combine the results.
 
 ### Denizens
 
-Most dungeons will have people and creatures _living_ there. These types _prefer_ the dungeon life over any other. They should be NPCs that the party can interact, trade, hire, aid, and so on. These creatures can be deeply involved or entirely neutral towards the dungeon's Factions.
+Most dungeons will have creatures _living_ there, making it their home. These types _prefer_ the dungeon life over any other. They should be NPCs that the party can interact, trade, hire, aid, and so on. These creatures can be deeply involved or entirely neutral towards the dungeon's Factions. The following table can be used to describe the general attitude of any or all of the intelligent creatures in the dungeon.
 
 Roll 2d20 and combine the results.
 
@@ -275,3 +275,19 @@ Continuing to roll on the **Purpose**, **Construction**, and **Ruination** table
 - **Ruination**: _Sealed_ as a result of _competing rituals_.
 
 We can picture it now: a forest temple built of petrified wood, designed to house rare and powerful Relics by an extremist sect of druids. After a magical accident sealed the doors forever shut, it can now only be entered through a circle of ancient menhirs. Who caused the incident that led to the temple's ruin? Perhaps a schism divided the cult, both sides vying for power through ritual domination.
+
+Continuing on to the current habitants of our dungeon, we get the following results (rolling for two factions):
+- **Denizens**: The creatures living here are _practical,_ yet _unimaginative_.
+- **Faction A**: Would like maintain _power_ over the temple, but are rebuffed by _dogma_.
+- **Faction B**: Seek a _redemption_ they cannot find due to a great _danger_.
+
+It seems as though the people currently living in the forest temple are happy with how things currently are, and frankly can't imagine why anyone would want to change things. The two dominant factions are clearly descendents of the original druid cult's schism, and are likely still at odds with one another. 
+
+What stands in the way of Faction A achieving their aims of total power?
+- Perhaps the druid cult's dogma was such that power must be shared between the two cults. Who were their leaders? Siblings, rivals, perhaps? If the original words of the founders were found, they might be able to prove their faction's true destiny.
+
+What is Faction B trying to redeem, and what danger prevents them from acheiving it?
+- Perhaps their faction was the cause of the ritual that sealed the temple from the ancient relics it was meant to protect, and they still carry that shame? Did the competing rituals create a monster that still patrols the temple? Perhaps if this monster was defeated, they could finally overcome their burden?
+
+With some idea on the history, purpose, and denizens of the dungeon, we finally have our theme. Let's put it all together:
+Nestled within a dense, shrouded forest lies a temple made entirely of petrified wood. Built by a fanatical cult to protect sacred artifacts, its entrance concealed by a circle of ancient menhirs deep in the forest. The temple was partly sealed after a competing faction unleashed magic which interacted poorly with another ritual, spawning a terrible monster that protects the relics to this day. Today, the descendants of these factions still vie for control and redemption, hindered by dogmatic disputes and fear of the creature that still roams its halls.
