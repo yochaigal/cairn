@@ -287,17 +287,17 @@ Continuing to roll on the **Purpose**, **Construction**, and **Ruination** table
 
 We can picture it now: a forest temple built of petrified wood, designed to house rare and powerful Relics by an extremist sect of druids. After a magical accident sealed the doors forever shut, it can now only be entered through a circle of ancient menhirs. Who caused the incident that led to the temple's ruin? Perhaps a schism divided the cult, both sides vying for power through ritual domination.
 
-Continuing on to the current habitants of our dungeon, we get the following results (rolling for two factions):
+Continuing on to the current inhabitants of our dungeon, we get the following results (rolling for two factions):
 - **Denizens**: The creatures living here are _practical,_ yet _unimaginative_.
 - **Faction A**: Would like maintain _power_ over the temple, but are rebuffed by _dogma_.
 - **Faction B**: Seek a _redemption_ they cannot find due to a great _danger_.
 
-It seems as though the people currently living in the forest temple are happy with how things currently are, and frankly can't imagine why anyone would want to change things. The two dominant factions are clearly descendents of the original druid cult's schism, and are likely still at odds with one another. 
+It seems as though the people currently living in the forest temple are happy with how things currently are, and frankly can't imagine why anyone would want to change things. The two dominant factions are clearly descendants of the original druid cult's schism, and are likely still at odds with one another. 
 
 What stands in the way of Faction A achieving their aims of total power?
 - Perhaps the druid cult's dogma was such that power must be shared between the two cults. Who were their leaders? Siblings, rivals, perhaps? If the original words of the founders were found, they might be able to prove their faction's true destiny.
 
-What is Faction B trying to redeem, and what danger prevents them from acheiving it?
+What is Faction B trying to redeem, and what danger prevents them from achieving it?
 - Perhaps their faction was the cause of the ritual that sealed the temple from the ancient relics it was meant to protect, and they still carry that shame? Did the competing rituals create a monster that still patrols the temple? Perhaps if this monster was defeated, they could finally overcome their burden?
 
 #### Example Theme
