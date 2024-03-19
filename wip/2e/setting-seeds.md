@@ -98,7 +98,7 @@ Roll 2d20 and combine the results.
 
 A region is typically dominated by one or more factions, each with their own unique **Advantages**, **Agenda**, and **Obstacles**. Each faction should also have one or more representatives, or **Agents**, tasked with helping complete their agenda. Smaller regions with fewer POIs should have 1-2 factions, while larger regions could have as many as 5-6 factions. 
 
-See the [Factions](#factions) chapter (p.x) for how to generate unique factions for your setting. 
+See the [Factions](/wip/2e/factions.md) chapter (p.x) for how to generate unique factions for your setting. 
 
 ### Topography
 
