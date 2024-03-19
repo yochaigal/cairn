@@ -106,11 +106,20 @@ search_exclude: true
 
 ## Creating a Dungeon
 
+### Materials Required
+
+- A sheet of paper and a notebook. Letter/A4 is fine.
+- Pencils and erasers.
+- At least one d6 and one d20, but 6d6 and 2d20 would be ideal.
+
+> Going forward, we will refer to the sheet of paper as the **dungeon map**.
+> As with any other rule, if you don't like a table result, roll again or tweak as desired!
+
 Follow this procedure for any Dungeon POIs in your setting. Refer to the dungeon type table results from earlier, reading the results from your map. What image springs immediately to mind? Where is the dungeon is located? What does its entrance look like? Don't worry if you can't answer these questions yet. By the end of this process, you should be able to.
 
 ### History
 
-Who built the dungeon? What was its originally used for? Perhaps it was once a great forge, capable of building the world's most powerful weapon. Or maybe it was once a burial site for ancient kings, binding their souls to the lands they once ruled.
+Who built the dungeon? What was its originally used for? Perhaps it was once a great forge, capable of building the world's most powerful weapon. Or maybe it was once a burial site for ancient kings, binding their souls to the lands they once ruled. Roll on the tables below, noting the results in your notebook.
 
 #### Purpose
 
@@ -198,11 +207,13 @@ Roll 2d20 and combine the results.
 
 ### Denizens
 
-Most dungeons will have creatures _living_ there, making it their home. These types _prefer_ the dungeon life over any other. They should be NPCs that the party can interact, trade, hire, aid, and so on. These creatures can be deeply involved or entirely neutral towards the dungeon's Factions. The following table can be used to describe the general attitude of any or all of the intelligent creatures in the dungeon.
+Most dungeons will have creatures _living_ there, making it their home. These types _prefer_ the dungeon life over any other. They should be NPCs that the party can interact, trade, hire, aid, and so on. These creatures can be deeply involved or entirely neutral towards the dungeon's Factions. The following table can be used to describe the general attitude of any or all of the intelligent creatures in the dungeon. Roll on the tables below, noting the results in your notebook.
+
+
+#### Traits
 
 Roll 2d20 and combine the results.
 
-#### Traits
 
 |         |                 |               |
 | ------- | --------------- | ------------- |
@@ -232,9 +243,9 @@ Roll 2d20 and combine the results.
 
 All dungeons should have one or more Factions with their own unique agenda, obstacles, leaders, and hierarchy.
 
-Roll 2d20 and combine the results.
-
 #### Agendas
+
+Roll 2d20 and combine the results.
 
 |         |                |              |
 | ------- | -------------- | ------------ |
@@ -260,7 +271,7 @@ Roll 2d20 and combine the results.
 | **19**  | Transformation | Tradition    |
 | **20**  | Wealth         | Weakness     |
 
-### Implementation
+### Example Process
 
 Let's assume that our earlier POI result was:
 - **Type**: _Shrouded Grove_
@@ -289,5 +300,28 @@ What stands in the way of Faction A achieving their aims of total power?
 What is Faction B trying to redeem, and what danger prevents them from acheiving it?
 - Perhaps their faction was the cause of the ritual that sealed the temple from the ancient relics it was meant to protect, and they still carry that shame? Did the competing rituals create a monster that still patrols the temple? Perhaps if this monster was defeated, they could finally overcome their burden?
 
+#### Example Theme
+
 With some idea on the history, purpose, and denizens of the dungeon, we finally have our theme. Let's put it all together:
 Nestled within a dense, shrouded forest lies a temple made entirely of petrified wood. Built by a fanatical cult to protect sacred artifacts, its entrance concealed by a circle of ancient menhirs deep in the forest. The temple was partly sealed after a competing faction unleashed magic which interacted poorly with another ritual, spawning a terrible monster that protects the relics to this day. Today, the descendants of these factions still vie for control and redemption, hindered by dogmatic disputes and fear of the creature that still roams its halls.
+
+### Dungeon Rooms 
+
+[ This will probably get moved up, and the example put at the end ]
+
+- Roll **3d6** on the table, then roll an amount of dice equal to the sum of those results on the map. Collect any dice that roll off the page and set them aside.
+- Draw a circle around each die on the table, noting their face-up result on the map.
+- Roll any dice that fell off the map page, repeating the last step until none remain.
+- Starting with the entrance, roll on the relevant tables for each room.
+
+> Some POIs may allow the PCs to see more of the world than what appears on their map.
+
+### Dungeon Die Drop Table
+
+|         |                        |
+| ------- | ---------------------- |
+| **d6**  | **Room**               |
+| **1-2** | Encounter              |
+| **3**   | Trap                   |
+| **4**   | Special                |
+| **5-6** | Encounter and Treasure |

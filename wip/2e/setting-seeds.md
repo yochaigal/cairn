@@ -114,7 +114,7 @@ A region's terrain and natural features are an essential part of any map, affect
 - Draw long, curvy lines across the page, carving up the map around each die. 
 - Roll on the relevant table for each result, writing the terrain type on the map.
   - Replace the die with a triangle, writing the Landmark result beneath.
-  - Reroll any dice that rolled off the page, following the earlier process as before. 
+  - Roll any dice that fell off the map page, repeating the last step until none remain.
   - If there are any empty spaces in need of terrain, roll a die anywhere you like and use the face-up result as before.
 
 ### Terrain Die Drop Table
@@ -292,7 +292,7 @@ Points of Interest on a map (or POIs) are generally divided into the following c
 - Draw the letter **H** close to a water source on the map. 
 - Roll **1d6** on the table, then roll an amount of dice equal to that number on the map. Collect any dice that roll off the page and set them aside.
 - Remove each die, noting the face up result according to the [POI Die Drop Table](#poi-die-drop-table) on the map. For example, the number 4 would indicate a Lair, denoted by the letter "L" on the page. 
-- Roll any dice that fell off the map page, repeating the previous process until no dice are remaining.
+- Roll any dice that fell off the map page, repeating the last step until none remain.
 - Starting with the Heart, number each POI on the map.
 - Roll on the relevant tables for each POI, including the Heart and all Landmarks. Note the results for each in your notebook.
 
