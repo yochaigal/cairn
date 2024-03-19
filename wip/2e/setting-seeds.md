@@ -11,7 +11,7 @@ search_exclude: true
 
 ## Overview
 
-The following procedure is designed to help create the _seed_ of a setting: the unique topography, natural features, people, and paths that an adventuring party may have to navigate as they travel throughout a region. We'll start by develop the people that live their, their ambitions and resources, and the factions that rule them. Then we'll generate the terrain of your region, followed by its various points of interest, landmarks, roads, trails, and so on.
+The following procedure is designed to help create the _seed_ of a setting: the unique topography, natural features, people, and paths that an adventuring party may have to navigate as they travel throughout a region. We'll start by develop the people that live there, their ambitions and resources, and the factions that rule them. Then we'll generate the terrain of your region, followed by its various points of interest, landmarks, roads, trails, and so on.
 
 ## Example
 
@@ -273,7 +273,7 @@ You should now have a sufficient idea about the people and terrain of this regio
 
 For example, if my results described a people that were there religious and sought conversion, I'd assume they were a proud folk, but prone to religious extremes and proselytizing. And if their primary resources were land, yet spices were rare, I'd assume they grew their own food, but that due to a religious prohibition their cuisine was often bland.
 
-Presume that I also rolled up a ruling faction of Nomads, whose primary advantage was their conviction. I could then assume that their elites were a class of religious chiefs. If the faction's agenda was to cultivate a rare resource, but they were hindered by cultural taboos, I might decide that they had hired the party to take on the task instead. Perhaps the object of their quest was a unique plant, only grown in a distant place, and that the mission must remain a secret? 
+Presume that for Factions the result were a group of Nomads, with conviction their primary advantage. I could then assume that their elites were a class of religious chiefs. If the faction's agenda was to cultivate a rare resource, but they were hindered by cultural taboos, I might decide that they had hired the party to take on the task instead. Perhaps the object of their quest was a unique plant, only grown in a distant place, and that the mission must remain a secret? 
  
 Finally, the party would meet with one of the faction's agents, a spy posing as a peddler. Only she could tell them where the plant grew, and how to cultivate it. I keep in mind that this person should likely appear in the region's **Heart** (see below).
 
@@ -291,7 +291,7 @@ Points of Interest on a map (or POIs) are generally divided into the following c
 
 - Draw the letter **H** close to a water source on the map. 
 - Roll **1d6** on the table, then roll an amount of dice equal to that number on the map. Collect any dice that roll off the page and set them aside.
-- Remove each die, noting the face up result according to the [POI Die Drop Table](#poi-die-drop-table) on the page. For example, the number 4 would indicate a Lair, denoted by the letter "L" on the page. 
+- Remove each die, noting the face up result according to the [POI Die Drop Table](#poi-die-drop-table) on the map. For example, the number 4 would indicate a Lair, denoted by the letter "L" on the page. 
 - Roll any dice that fell off the map page, repeating the previous process until no dice are remaining.
 - Starting with the Heart, number each POI on the map.
 - Roll on the relevant tables for each POI, including the Heart and all Landmarks. Note the results for each in your notebook.
