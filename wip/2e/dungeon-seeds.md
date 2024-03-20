@@ -472,4 +472,8 @@ Nestled within a dense, shrouded forest lies a temple made entirely of petrified
 
 ### Example Map
 
+[![Click Me!](/img/2e/dungeon-seed-example-1.webp "Click to embiggen"){:height="60%" width="60%"}](/img/2e/dungeon-seed-example-1.webp)
+
+
 ### Example Rooms
+
