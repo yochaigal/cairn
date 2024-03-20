@@ -343,18 +343,18 @@ Monsters are any dangerous creature that lives in a dungeon. This does not mean 
 
 Roll 2d20 and combine the results.
 
-|         |                  |              |
+
+| **d20** | **Monster Type** | **Activity** |
 | ------- | ---------------- | ------------ |
-| **d20** | **Monster**      | **Feature**  |
-| **1**   | Beast            | Building     |
+| **1**   | Aquatic          | Haunting     |
 | **2**   | Construct        | Devouring    |
 | **3**   | Elemental        | Dying        |
-| **5**   | Enormous         | Fighting     |
-| **6**   | Extra-dimensional | Growing      |
-| **4**   | Feline           | Haunting     |
-| **7**   | Goblinoid        | Hiding       |
-| **8**   | Humanoid         | Killing      |
-| **9**   | Insectoid        | Mating       |
+| **4**   | Extraplanar      | Growing      |
+| **5**   | Fey              | Building     |
+| **6**   | Goblinoid        | Hiding       |
+| **7**   | Humanoid         | Killing      |
+| **8**   | Insectoid        | Mating       |
+| **9**   | Legendary        | Fighting     |
 | **10**  | Lycanthrope      | Mourning     |
 | **11**  | Magical          | Patrolling   |
 | **12**  | Ooze             | Praying      |
@@ -364,9 +364,8 @@ Roll 2d20 and combine the results.
 | **16**  | Snake            | Sleeping     |
 | **17**  | Undead           | Stalking     |
 | **18**  | Underworld       | Torturing    |
-| **19**  | Wild             | Training     |
+| **19**  | Beast            | Training     |
 | **20**  | Worm             | Trapped      |
-
 
 #### Special
 
