@@ -287,11 +287,11 @@ Roll 2d20 and combine the results.
 
 ### Layout
 
-- Roll **4d6** on the table, then roll an amount of dice _equal to the sum_ of the face-up results on the dungeon map. Ignore any dice that rolled off the page. What remains are the dungeon's _rooms_.
-- Remove each die, noting the face up result according to the [Dungeon Die Drop Table](#dungeon-die-drop-table) on the map. For example, the number **4** would indicate a **Special** room, denoted by the letter "S" on the page.
-- If a room feels "too far" from the rest, place another room between it and the rest of the dungeon. Follow the previous process to determine the room type, noting the results on the map.
-- Select a room close to the page border. This is the _entrance_ to the dungeon.
+- Roll **6-20 d6** dice on the dungeon map, ignoring any dice that fall off the page. These are the dungeon's _rooms_.
+- Write the face-up results on the page according to the [Dungeon Die Drop Table](#dungeon-die-drop-table). For example, the number **4** would indicate a **Special** room, denoted by the letter "S" on the page.
+- If a room feels "too far" from the rest, roll another die and follow the previous process to add a new room.
 - Roll on the relevant tables for each room.
+- Select the room closest to the page border. This is the _entrance_ to the dungeon.
 - Starting with the entrance, number each room on the dungeon map.
 
 #### Dungeon Die Drop Table
@@ -422,6 +422,7 @@ Roll 2d20 and combine the results.
  - Create loops, branching hallways, dead-ends, and shortcuts between rooms.
  - Some paths are Conditional, represented by a crossed line.
  - Some paths are Hidden, represented by a dashed line.
+- Create at least two intersections (crossed lines) with no rooms in between.
 
 ### Stock the Rooms
 
