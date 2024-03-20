@@ -339,33 +339,34 @@ Roll 2d20 and combine the results.
 
 #### Monster
 
-Monsters are dangerous creature that live in the dungeon. This does not mean it will attack intruders by default! Monsters are not simply "waiting around" for the characters to find them, but instead have their own wants and goals, even if they are simply looking for their next meal. 
+Monsters are any dangerous creature that lives in a dungeon. This does not mean it will attack intruders by default! Monsters are not simply "waiting around" for the characters to find them, but instead have their own wants and goals, even if they are simply looking for their next meal. Some monsters can talk, reason, and even beg for mercy. _People can be monsters, too_.
 
 Roll 2d20 and combine the results.
 
-|         |             |             |
-| ------- | ----------- | ----------- |
-| **d20** | **Monster** | **Feature** |
-| **1**   |             |             |
-| **2**   |             |             |
-| **3**   |             |             |
-| **4**   |             |             |
-| **5**   |             |             |
-| **6**   |             |             |
-| **7**   |             |             |
-| **8**   |             |             |
-| **9**   |             |             |
-| **10**  |             |             |
-| **11**  |             |             |
-| **12**  |             |             |
-| **13**  |             |             |
-| **14**  |             |             |
-| **15**  |             |             |
-| **16**  |             |             |
-| **17**  |             |             |
-| **18**  |             |             |
-| **19**  |             |             |
-| **20**  |             |             |
+|         |                  |              |
+| ------- | ---------------- | ------------ |
+| **d20** | **Monster**      | **Feature**  |
+| **1**   | Beast            | Building     |
+| **2**   | Construct        | Devouring    |
+| **3**   | Elemental        | Dying        |
+| **5**   | Enormous         | Fighting     |
+| **6**   | Extra-dimensional | Growing      |
+| **4**   | Feline           | Haunting     |
+| **7**   | Goblinoid        | Hiding       |
+| **8**   | Humanoid         | Killing      |
+| **9**   | Insectoid        | Mating       |
+| **10**  | Lycanthrope      | Mourning     |
+| **11**  | Magical          | Patrolling   |
+| **12**  | Ooze             | Praying      |
+| **13**  | Plant            | Protecting   |
+| **14**  | Reptilian        | Recuperating |
+| **15**  | Saurian          | Scheming     |
+| **16**  | Snake            | Sleeping     |
+| **17**  | Undead           | Stalking     |
+| **18**  | Underworld       | Torturing    |
+| **19**  | Wild             | Training     |
+| **20**  | Worm             | Trapped      |
+
 
 #### Special
 
