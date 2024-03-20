@@ -489,7 +489,9 @@ The smell of root vegetables and cloves.
 
 #### 3
 
-**Monster**. Legendary. Recuperating.
+**Monster**. Behemoth. Recuperating.
+
+A Green Dragon, sleeping off a decade's worth of plunder.
 
 #### 4
 
@@ -510,6 +512,8 @@ The smell of root vegetables and cloves.
 #### 8
 
 **Monster**. Insectoid. Hiding.
+
+A Burrowing Horror, hiding in wait beneath ___.
 
 #### 9
 
