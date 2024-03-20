@@ -385,7 +385,7 @@ Roll 2d20 and combine the results.
 |         |             |             |
 | ------- | ----------- | ----------- |
 | **d20** | **Special** | **Feature** |
-| **1**   | Creature    | Activates   |
+| **1**   | Creature    | Ages        |
 | **2**   | Books       | Alarms      |
 | **3**   | Bridge      | Animates    |
 | **4**   | Contraption | Attracts    |
@@ -477,3 +477,39 @@ Nestled within a dense, shrouded forest lies a temple made entirely of petrified
 
 ### Example Rooms
 
+
+#### 1
+
+**Lore**. Dining Hall. The smell of root vegetables and cloves.
+
+#### 2
+
+**Special**. Furniture. Animates.
+
+#### 3
+
+**Monster**. Legendary. Recuperating.
+
+#### 4
+
+**Trap**. Infects. Extinguishing.
+
+#### 5
+
+**Lore**. Study. Decor.
+
+#### 6
+
+**Special**. Smoke. Illusion.
+
+#### 7
+
+**Trap**. Confuses. Interacting.
+
+#### 8
+
+**Monster**. Insectoid. Hiding.
+
+#### 9
+
+**Special**. Mirror. Locks.
