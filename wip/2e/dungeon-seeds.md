@@ -346,27 +346,26 @@ Roll 2d20 and combine the results.
 |         |             |              |                                                                                                      |
 | ------- | ----------- | ------------ | ---------------------------------------------------------------------------------------------------- |
 | **d20** | **Group**   | **Activity** | **Examples**                                                                                         |
-| **1**   | Beast       | Haunting     | Grizzly Bear, Killer Bees, White Ape, Night Cat, Viper                                               |
-| **2**   | Behemoth    | Devouring    | Green Dragon, Purple Worm                                                                            |
-| **3**   | Construct   | Dying        | Bone Construct, Gargoyle, Cobblehounds                                                               |
-| **4**   | Demonic     | Growing      | Hellhound, Nightmare                                                                                 |
-| **5**   | Elemental   | Building     | Water Elemental                                                                                      |
-| **6**   | Extraplanar | Hiding       | Eye of Terror, Mind Lasher                                                                           |
-| **7**   | Fey         | Killing      | Frost Elf, Dryad, Pixie, Boggart, Night Hag, Sea Hag                                                 |
-| **8**   | Giant       | Mating       | Cloud Giant, Storm Giant, Fire Giant                                                                 |
-| **9**   | Goblinoid   | Fighting     | Bugbear, Goblin, Hobgoblin, Kobold, Root Goblin, Ettin, Ogre, Troll, Wood Troll                      |
-| **10**  | Humanoid    | Mourning     | Acolyte, Bandit, Frost Elf, Hooded Men, Gnoll                                                        |
-| **11**  | Hungry      | Patrolling   | Devil Swine, Blood Elk<br>                                                                           |
-| **12**  | Hybrid      | Praying      | Werewolf, Centaur, Manticore, Minotaur                                                               |
-| **13**  | Incorporeal | Protecting   | Shadow, Invisible Stalker                                                                            |
-| **14**  | Insectoid   | Recuperating | Aranea, Cave Locust, Giant Scorpion, Burrowing Horror                                                |
-| **15**  | Magical     | Scheming     | Blink Dog, Mimic, Warp Panther, Rust Monster, Gelatinous Ooze, Chimera, Owlbear                      |
-| **16**  | Mythical    | Sleeping     | Hydra, Harpy, Titan, Wyvern, Banshee, Unicorn, Griffon, Lamia                                        |
-| **17**  | Plant       | Stalking     | Creeping Vines, Shambling Mound, Treant, Root Witch                                                  |
-| **18**  | Reptilian   | Torturing    | Basilisk, Hydra, Naga                                                                                |
-| **19**  | Undead      | Training     | Ghoul, Lich, Mummy, Skeleton, Vampire, Wight, Zombie, Crypt Guardian, Ghost, Draugr, Flesh Construct |
-| **20**  |             | Trapped      |                                                                                                      |
-
+| **1**  | Beasts       | Haunting     | Grizzly Bear, Killer Bees, White Ape, Night Cat, Viper                                               |
+| **2**  | Behemoths    | Devouring    | Green Dragon, Purple Worm                                                                            |
+| **3**  | Constructs   | Dying        | Bone Construct, Gargoyle, Cobblehounds                                                               |
+| **4**  | Demons       | Growing      | Hellhound, Nightmare                                                                                 |
+| **5**  | Elementals   | Building     | Water Elemental                                                                                      |
+| **6**  | Extraplanar  | Hiding       | Eye of Terror, Mind Lasher                                                                           |
+| **7**  | Fey          | Killing      | Frost Elf, Dryad, Pixie, Boggart, Night Hag, Sea Hag                                                 |
+| **8**  | Giants       | Mating       | Cloud Giant, Storm Giant, Fire Giant                                                                 |
+| **9**  | Goblinoids   | Fighting     | Bugbear, Goblin, Hobgoblin, Root Goblin, Ettin, Ogre, Troll, Wood Troll                              |
+| **10** | Humanoids    | Mourning     | Acolyte, Bandit, Frost Elf, Hooded Men, Gnoll                                                        |
+| **11** | Consumers    | Patrolling   | Devil Swine, Blood Elk<br>                                                                           |
+| **12** | Hybrids      | Praying      | Werewolf, Centaur, Manticore, Minotaur                                                               |
+| **13** | Incorporeal  | Protecting   | Shadow, Invisible Stalker                                                                            |
+| **14** | Insectoids   | Recuperating | Aranea, Cave Locust, Giant Scorpion, Burrowing Horror                                                |
+| **15** | Magical      | Scheming     | Blink Dog, Mimic, Warp Panther, Chimera, Owlbear                                                     |
+| **16** | Mythical     | Sleeping     | Hydra, Harpy, Titan, Wyvern, Banshee, Unicorn, Griffon, Lamia                                        |
+| **17** | Plants       | Stalking     | Creeping Vines, Shambling Mound, Treant, Root Witch                                                  |
+| **18** | Reptilians   | Torturing    | Basilisk, Hydra, Naga, Kobold                                                                        |
+| **19** | Undead       | Training     | Ghoul, Lich, Mummy, Skeleton, Vampire, Wight, Zombie, Crypt Guardian, Ghost, Draugr, Flesh Construct |
+| **20** | Unusual      | Trapped      | Rust Monster, Gelatinous Ooze                                                                        |
 
 #### Special
 
