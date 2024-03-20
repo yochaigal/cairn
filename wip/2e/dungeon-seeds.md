@@ -278,19 +278,9 @@ Roll 2d20 and combine the results.
 
 ## Create the Map
 
-### Room Types
-
-- **Lore**: A room that builds on the theme of the dungeon, provides a valuable lesson, or points to an NPC/Faction.
-- **Monster**: A dangerous creature that lives in the dungeon. This does not mean it will attack intruders by default.
-- **Special**: A unique or uncommon room, typically featuring a puzzle or hidden, interactive element.
-- **Trap**: A dangerous and hidden object, typically triggered through interaction with a character.
-
-### Layout
-
 - Roll **6-20 d6** dice on the dungeon map, ignoring any dice that fall off the page. These are the dungeon's _rooms_.
 - Write the face-up results on the page according to the [Dungeon Die Drop Table](#dungeon-die-drop-table). For example, the number **4** would indicate a **Special** room, denoted by the letter "S" on the page.
 - If a room feels "too far" from the rest, roll another die and follow the previous process to add a new room.
-- Roll on the relevant tables for each room.
 - Select the room closest to the page border. This is the _entrance_ to the dungeon.
 - Starting with the entrance, number each room on the dungeon map.
 
@@ -304,7 +294,22 @@ Roll 2d20 and combine the results.
 | **4**   | Special  |
 | **5-6** | Trap     |
 
+### Draw Paths
+
+- Starting with the entrance, create 1-4 paths between each room. 
+ - Create loops, branching hallways, dead-ends, and shortcuts between rooms.
+ - Some paths are Conditional, represented by a crossed line.
+ - Some paths are Hidden, represented by a dashed line.
+- Create at least two intersections (crossed lines) with no rooms in between.
+
+### Stock the Rooms
+
+- Roll on the relevant tables for each room, writing the results in your notebook. 
+- For each room, filter the table results through the theme you generated earlier in this process. 
+
 #### Lore
+
+Lore rooms should build on the theme of the dungeon, provide a valuable lesson, or connect the characters with an NPC or Faction.
 
 Roll 2d20 and combine the results.
 
@@ -334,6 +339,9 @@ Roll 2d20 and combine the results.
 
 #### Monster
 
+Monsters are dangerous creature that live in the dungeon. This does not mean it will attack intruders by default! They are not simply "waiting around" for the characters to find them, but instead have their own wants and goals, even if they are simply looking for their next meal.
+
+
 Roll 2d20 and combine the results.
 
 |         |             |             |
@@ -362,6 +370,17 @@ Roll 2d20 and combine the results.
 
 #### Special
 
+Special rooms areas are uncommon areas that feature a hidden or interactive element. This element can be a challenge, an obstacle, a puzzle, or all of the above.
+
+
+Puzzles should have: 
+- Clear, actionable goals
+- Obvious challenges, but not obvious solutions
+- Multiple solutions, solvable with intelligence and critical thinking, not special abilities or unique tools
+- Built-in clues about their origin and their effects
+- Elements that reinforce the themes of the dungeon
+
+
 Roll 2d20 and combine the results.
 
 |         |             |             |
@@ -388,8 +407,9 @@ Roll 2d20 and combine the results.
 | **19**  | Wheel       | Teleport    |
 | **20**  | Writing     | Transforms  |
 
-
 #### Trap
+
+A trap is a dangerous and hidden object, typically triggered through interaction with a character.
 
 Roll 2d20 and combine the results.
 
@@ -416,31 +436,6 @@ Roll 2d20 and combine the results.
 | **18**  | Poisons    | Taking        |
 | **19**  | Shocks     | Touching      |
 | **20**  | Shoots     | Tripping      |
-
-- Starting with the entrance, create 1-4 paths between each room. 
- - Create loops, branching hallways, dead-ends, and shortcuts between rooms.
- - Some paths are Conditional, represented by a crossed line.
- - Some paths are Hidden, represented by a dashed line.
-- Create at least two intersections (crossed lines) with no rooms in between.
-
-### Stock the Rooms
-
-For each room, combine the results from each respective table, filtered through the theme generated earlier in this process. For example, 
-
-#### Lore
-
-#### Monsters
-
-#### Special
-
-Puzzles should have: 
-- Clear, actionable goals
-- Obvious challenges, but not obvious solutions
-- Multiple solutions, solvable with intelligence and critical thinking, not special abilities or unique tools
-- Built-in clues about their origin and their effects
-- Elements that reinforce the themes of the dungeon
-
-#### Traps
 
 
 ## Dungeon Example
