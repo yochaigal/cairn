@@ -392,29 +392,30 @@ Roll 2d20 and combine the results.
 
 Roll 2d20 and combine the results.
 
-|         |          |          |
-| ------- | -------- | -------- |
-| **d20** | **Trap** | **Clue** |
-| **1**   |          |          |
-| **2**   |          |          |
-| **3**   |          |          |
-| **4**   |          |          |
-| **5**   |          |          |
-| **6**   |          |          |
-| **7**   |          |          |
-| **8**   |          |          |
-| **9**   |          |          |
-| **10**  |          |          |
-| **11**  |          |          |
-| **12**  |          |          |
-| **13**  |          |          |
-| **14**  |          |          |
-| **15**  |          |          |
-| **16**  |          |          |
-| **17**  |          |          |
-| **18**  |          |          |
-| **19**  |          |          |
-| **20**  |          |          |
+|         |             |               |
+| ------- | ----------- | ------------- |
+| **d20** | **Trap**    | **Trigger**   |
+| **1**   | Acid        | Activating    |
+| **2**   | Alarm       | Breaking      |
+| **3**   | Animate     | Crossing      |
+| **4**   | Crush       | Extinguishing |
+| **5**   | Cut         | Disturbing    |
+| **6**   | Curse       | Entering      |
+| **7**   | Drop        | Focusing      |
+| **8**   | Fire        | Interacting   |
+| **9**   | Flood       | Lighting      |
+| **10**  | Freeze      | Moving        |
+| **11**  | Gas         | Opening       |
+| **12**  | Glue        | Pulling       |
+| **13**  | Gravity     | Pushing       |
+| **14**  | Hallucinate | Reading       |
+| **15**  | Hypnotize   | Speaking      |
+| **16**  | Impale      | Speaking      |
+| **17**  | Mirror      | Stepping      |
+| **18**  | Missile     | Taking        |
+| **19**  | Net         | Touching      |
+| **20**  | Shock       | Tripping      |
+
 
 ### Connect the Rooms
 
