@@ -343,29 +343,30 @@ Monsters are any dangerous creature that lives in a dungeon. This does not mean 
 
 Roll 2d20 and combine the results.
 
-|         |                  |              |
-| ------- | ---------------- | ------------ |
-| **d20** | **Monster Type** | **Activity** |
-| **1**   | Aquatic          | Haunting     |
-| **2**   | Beast            | Devouring    |
-| **3**   | Construct        | Dying        |
-| **4**   | Elemental        | Growing      |
-| **5**   | Extraplanar      | Building     |
-| **6**   | Fey              | Hiding       |
-| **7**   | Goblinoid        | Killing      |
-| **8**   | Humanoid         | Mating       |
-| **9**   | Insectoid        | Fighting     |
-| **10**  | Legendary        | Mourning     |
-| **11**  | Lycanthrope      | Patrolling   |
-| **12**  | Magical          | Praying      |
-| **13**  | Ooze             | Protecting   |
-| **14**  | Plant            | Recuperating |
-| **15**  | Reptilian        | Scheming     |
-| **16**  | Saurian          | Sleeping     |
-| **17**  | Shadow           | Stalking     |
-| **18**  | Undead           | Torturing    |
-| **19**  | Underworld       | Training     |
-| **20**  | Worm             | Trapped      |
+|         |             |              |                                                                                                      |
+| ------- | ----------- | ------------ | ---------------------------------------------------------------------------------------------------- |
+| **d20** | **Group**   | **Activity** | **Examples**                                                                                         |
+| **1**   | Beast       | Haunting     | Grizzly Bear, Killer Bees, White Ape, Night Cat, Viper                                               |
+| **2**   | Behemoth    | Devouring    | Green Dragon, Purple Worm                                                                            |
+| **3**   | Construct   | Dying        | Bone Construct, Gargoyle, Cobblehounds                                                               |
+| **4**   | Demonic     | Growing      | Hellhound, Nightmare                                                                                 |
+| **5**   | Elemental   | Building     | Water Elemental                                                                                      |
+| **6**   | Extraplanar | Hiding       | Eye of Terror, Mind Lasher                                                                           |
+| **7**   | Fey         | Killing      | Frost Elf, Dryad, Pixie, Boggart, Night Hag, Sea Hag                                                 |
+| **8**   | Giant       | Mating       | Cloud Giant, Storm Giant, Fire Giant                                                                 |
+| **9**   | Goblinoid   | Fighting     | Bugbear, Goblin, Hobgoblin, Kobold, Root Goblin, Ettin, Ogre, Troll, Wood Troll                      |
+| **10**  | Humanoid    | Mourning     | Acolyte, Bandit, Frost Elf, Hooded Men, Gnoll                                                        |
+| **11**  | Hungry      | Patrolling   | Devil Swine, Blood Elk<br>                                                                           |
+| **12**  | Hybrid      | Praying      | Werewolf, Centaur, Manticore, Minotaur                                                               |
+| **13**  | Incorporeal | Protecting   | Shadow, Invisible Stalker                                                                            |
+| **14**  | Insectoid   | Recuperating | Aranea, Cave Locust, Giant Scorpion, Burrowing Horror                                                |
+| **15**  | Magical     | Scheming     | Blink Dog, Mimic, Warp Panther, Rust Monster, Gelatinous Ooze, Chimera, Owlbear                      |
+| **16**  | Mythical    | Sleeping     | Hydra, Harpy, Titan, Wyvern, Banshee, Unicorn, Griffon, Lamia                                        |
+| **17**  | Plant       | Stalking     | Creeping Vines, Shambling Mound, Treant, Root Witch                                                  |
+| **18**  | Reptilian   | Torturing    | Basilisk, Hydra, Naga                                                                                |
+| **19**  | Undead      | Training     | Ghoul, Lich, Mummy, Skeleton, Vampire, Wight, Zombie, Crypt Guardian, Ghost, Draugr, Flesh Construct |
+| **20**  |             | Trapped      |                                                                                                      |
+
 
 #### Special
 
@@ -480,7 +481,8 @@ Nestled within a dense, shrouded forest lies a temple made entirely of petrified
 
 #### 1
 
-**Lore**. Dining Hall. The smell of root vegetables and cloves.
+**Lore**. Dining Hall. Smell.
+The smell of root vegetables and cloves.
 
 #### 2
 
