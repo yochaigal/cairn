@@ -207,8 +207,9 @@ Roll 2d20 and combine the results.
 
 ### Denizens
 
-Most dungeons will have creatures _living_ there, making it their home. These types _prefer_ the dungeon life over any other. They should be NPCs that the party can interact, trade, hire, aid, and so on. These creatures can be deeply involved or entirely neutral towards the dungeon's Factions. The following table can be used to describe the general attitude of any or all of the intelligent creatures in the dungeon. Roll on the tables below, noting the results in your notebook.
+Most dungeons will have creatures that _live_ there and make it their home. The following table can be used to describe the general attitude of any or all of the intelligent creatures in the dungeon. Roll on the Traits table, writing the results in your notebook. This describes the general attitude of the creatures found in the dungeon.
 
+Meanwhile, every dungeon should have at least one NPC that stands out from all the others. These types _prefer_ the dungeon life over any other, but still act differently than their brethren. They should be NPCs that the party can interact, trade, hire, aid, and so on. These strange creatures can be deeply involved or entirely neutral towards the dungeon's other denizens and Factions.  Roll on the Traits table again, writing the results in your notebook.
 
 #### Traits
 
@@ -270,6 +271,7 @@ Roll 2d20 and combine the results.
 | **18**  | Survival       | Stagnation   |
 | **19**  | Transformation | Tradition    |
 | **20**  | Wealth         | Weakness     |
+
 ### Encounter Tables
 
 [Build encounter tables.]
@@ -278,7 +280,7 @@ Roll 2d20 and combine the results.
 
 ### Room Types
 
-- **Lore**: A room that helps build on the theme of the dungeon or provides a valuable lesson to the characters.
+- **Lore**: A room that builds on the theme of the dungeon, provides a valuable lesson, or points to an NPC/Faction.
 - **Monster**: A dangerous creature that lives in the dungeon. This does not mean it will attack intruders by default.
 - **Special**: A unique or uncommon room, typically featuring a puzzle or hidden, interactive element.
 - **Trap**: A dangerous and hidden object, typically triggered through interaction with a character.
@@ -421,8 +423,9 @@ Roll 2d20 and combine the results.
  - Some paths are Conditional, represented by a crossed line.
  - Some paths are Hidden, represented by a dashed line.
 
+### Stock the Rooms
 
-
+For each room, combine the results from each respective table, filtered through the theme generated earlier in this process. For example, 
 
 
 ## Dungeon Example
