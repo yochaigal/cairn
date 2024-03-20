@@ -309,38 +309,37 @@ Roll 2d20 and combine the results.
 
 #### Lore
 
-Lore rooms should build on the theme of the dungeon, provide a valuable lesson, or connect the characters with an NPC or Faction.
+Lore rooms should build on the theme of the dungeon, provide a valuable lesson, or connect the characters with an NPC or Faction. They might create a dilemma or moral conflict that unites the party, or puts them at odds with their mission. These rooms help re-contextualize the dungeon and its overarching themes, twisting the party's perspective a bit. At the minimum these rooms act as a curiosity, adding something memorable to the dungeon delving experience beyond simple danger and puzzle-solving. Of course, the characters never know that these rooms do not contain monsters, puzzles, or other challenges. This helps increase tension in the dungeon, while offering a potential respite and opportunity for growing the narrative. 
 
 Roll 2d20 and combine the results.
 
-|         |          |          |
-| ------- | -------- | -------- |
-| **d20** | **Lore** | **Clue** |
-| **1**   |          |          |
-| **2**   |          |          |
-| **3**   |          |          |
-| **4**   |          |          |
-| **5**   |          |          |
-| **6**   |          |          |
-| **7**   |          |          |
-| **8**   |          |          |
-| **9**   |          |          |
-| **10**  |          |          |
-| **11**  |          |          |
-| **12**  |          |          |
-| **13**  |          |          |
-| **14**  |          |          |
-| **15**  |          |          |
-| **16**  |          |          |
-| **17**  |          |          |
-| **18**  |          |          |
-| **19**  |          |          |
-| **20**  |          |          |
+|         |               |               |
+| ------- | ------------- | ------------- |
+| **d20** | **Room Type** | **Clue**      |
+| **1**   | Armory        | Decay         |
+| **2**   | Barracks      | Decor         |
+| **3**   | Bath          | Draft         |
+| **4**   | Bath          | Echoes        |
+| **5**   | Cistern       | Footprints    |
+| **6**   | Court         | Leavings      |
+| **7**   | Crypt         | Light         |
+| **8**   | Den           | Markings      |
+| **9**   | Dining Hall   | Moisture      |
+| **10**  | Guard Post    | Noise         |
+| **11**  | Infirmary     | Paraphernalia |
+| **12**  | Kitchen       | Residue       |
+| **13**  | Latrine       | Scurrying     |
+| **14**  | Library       | Signs         |
+| **15**  | Shrine        | Smell         |
+| **16**  | Smith         | Stains        |
+| **17**  | Stable        | Tapping       |
+| **18**  | Storage       | Temperature   |
+| **19**  | Study         | Vibrations    |
+| **20**  | Vault         | Writing       |
 
 #### Monster
 
-Monsters are dangerous creature that live in the dungeon. This does not mean it will attack intruders by default! They are not simply "waiting around" for the characters to find them, but instead have their own wants and goals, even if they are simply looking for their next meal.
-
+Monsters are dangerous creature that live in the dungeon. This does not mean it will attack intruders by default! Monsters are not simply "waiting around" for the characters to find them, but instead have their own wants and goals, even if they are simply looking for their next meal. 
 
 Roll 2d20 and combine the results.
 
@@ -370,8 +369,9 @@ Roll 2d20 and combine the results.
 
 #### Special
 
-Special rooms areas are uncommon areas that feature a hidden or interactive element. This element can be a challenge, an obstacle, a puzzle, or all of the above.
+Special rooms areas are uncommon areas that feature a hidden or interactive element. This element can be a challenge, an obstacle, a puzzle, or all of the above. These rooms should offer difficult choices with long-term impacts. They might make dungeon exploration easier, but with a serious cost.
 
+##### Puzzles
 
 Puzzles should have: 
 - Clear, actionable goals
@@ -380,6 +380,7 @@ Puzzles should have:
 - Built-in clues about their origin and their effects
 - Elements that reinforce the themes of the dungeon
 
+#####
 
 Roll 2d20 and combine the results.
 
