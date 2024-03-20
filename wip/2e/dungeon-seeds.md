@@ -367,57 +367,55 @@ Roll 2d20 and combine the results.
 |         |             |             |
 | ------- | ----------- | ----------- |
 | **d20** | **Special** | **Feature** |
-| **1**   |             |             |
-| **2**   |             |             |
-| **3**   |             |             |
-| **4**   |             |             |
-| **5**   |             |             |
-| **6**   |             |             |
-| **7**   |             |             |
-| **8**   |             |             |
-| **9**   |             |             |
-| **10**  |             |             |
-| **11**  |             |             |
-| **12**  |             |             |
-| **13**  |             |             |
-| **14**  |             |             |
-| **15**  |             |             |
-| **16**  |             |             |
-| **17**  |             |             |
-| **18**  |             |             |
-| **19**  |             |             |
-| **20**  |             |             |
+| **1**   | Creature    | Activates   |
+| **2**   | Books       | Alarms      |
+| **3**   | Bridge      | Animates    |
+| **4**   | Contraption | Attracts    |
+| **5**   | Door        | Charges     |
+| **6**   | Flames      | Closes      |
+| **7**   | Furniture   | Falls       |
+| **8**   | Hole        | Glows       |
+| **9**   | Liquid      | Grows       |
+| **10**  | Mirror      | Illusion    |
+| **11**  | Mural       | Levitates   |
+| **12**  | Object      | Locks       |
+| **13**  | Pool        | Opens       |
+| **14**  | Shadows     | Reflects    |
+| **15**  | Smell       | Repels      |
+| **16**  | Statue      | Reveals     |
+| **17**  | Surface     | Shifts      |
+| **18**  | Voices      | Silences    |
+| **19**  | Wheel       | Teleport    |
+| **20**  | Writing     | Transforms  |
+
 
 #### Trap
 
 Roll 2d20 and combine the results.
 
-|         |             |               |
-| ------- | ----------- | ------------- |
-| **d20** | **Trap**    | **Trigger**   |
-| **1**   | Acid        | Activating    |
-| **2**   | Alarm       | Breaking      |
-| **3**   | Animate     | Crossing      |
-| **4**   | Crush       | Extinguishing |
-| **5**   | Cut         | Disturbing    |
-| **6**   | Curse       | Entering      |
-| **7**   | Drop        | Focusing      |
-| **8**   | Fire        | Interacting   |
-| **9**   | Flood       | Lighting      |
-| **10**  | Freeze      | Moving        |
-| **11**  | Gas         | Opening       |
-| **12**  | Glue        | Pulling       |
-| **13**  | Gravity     | Pushing       |
-| **14**  | Hallucinate | Reading       |
-| **15**  | Hypnotize   | Speaking      |
-| **16**  | Impale      | Speaking      |
-| **17**  | Mirror      | Stepping      |
-| **18**  | Missile     | Taking        |
-| **19**  | Net         | Touching      |
-| **20**  | Shock       | Tripping      |
-
-
-### Connect the Rooms
+|         |            |               |
+| ------- | ---------- | ------------- |
+| **d20** | **Trap**   | **Trigger**   |
+| **1**   | Ages       | Activating    |
+| **2**   | Burns      | Breaking      |
+| **3**   | Captures   | Crossing      |
+| **4**   | Carries    | Extinguishing |
+| **5**   | Confuses   | Disturbing    |
+| **6**   | Crushes    | Entering      |
+| **7**   | Curses     | Focusing      |
+| **8**   | Cuts       | Interacting   |
+| **17**  | Deafens    | Stepping      |
+| **9**   | Drops      | Lighting      |
+| **10**  | Drowns     | Moving        |
+| **11**  | Freezes    | Opening       |
+| **12**  | Glues      | Pulling       |
+| **13**  | Hypnotizes | Pushing       |
+| **14**  | Impales    | Reading       |
+| **15**  | Infects    | Speaking      |
+| **16**  | Lifts      | Speaking      |
+| **18**  | Poisons    | Taking        |
+| **19**  | Shocks     | Touching      |
+| **20**  | Shoots     | Tripping      |
 
 - Starting with the entrance, create 1-4 paths between each room. 
  - Create loops, branching hallways, dead-ends, and shortcuts between rooms.
@@ -428,6 +426,21 @@ Roll 2d20 and combine the results.
 ### Stock the Rooms
 
 For each room, combine the results from each respective table, filtered through the theme generated earlier in this process. For example, 
+
+#### Lore
+
+#### Monsters
+
+#### Special
+
+Puzzles should have: 
+- Clear, actionable goals
+- Obvious challenges, but not obvious solutions
+- Multiple solutions, solvable with intelligence and critical thinking, not special abilities or unique tools
+- Built-in clues about their origin and their effects
+- Elements that reinforce the themes of the dungeon
+
+#### Traps
 
 
 ## Dungeon Example
