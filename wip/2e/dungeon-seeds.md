@@ -104,19 +104,6 @@ search_exclude: true
  - How close is a PC to a potential danger? Are they above it, or below it?
  - What side of an object is a PC standing in? Are they inside or outside a room, building, or structure?
 
-### Dungeon Example
-
-#### Example Theme
-
-[ This should get moved to the bottom ]
-
-With some idea on the history, purpose, and denizens of the dungeon, we finally have our theme. Let's put it all together:
-Nestled within a dense, shrouded forest lies a temple made entirely of petrified wood. Built by a fanatical cult to protect sacred artifacts, its entrance concealed by a circle of ancient menhirs deep in the forest. The temple was partly sealed after a competing faction unleashed magic which interacted poorly with another ritual, spawning a terrible monster that protects the relics to this day. Today, the descendants of these factions still vie for control and redemption, hindered by dogmatic disputes and fear of the creature that still roams its halls.
-
-#### Example Map
-
-
-
 ## Creating a Dungeon
 
 ### Materials Required
@@ -283,36 +270,6 @@ Roll 2d20 and combine the results.
 | **18**  | Survival       | Stagnation   |
 | **19**  | Transformation | Tradition    |
 | **20**  | Wealth         | Weakness     |
-
-### Example Process
-
-Let's assume that our earlier POI result was:
-- **Type**: _Shrouded Grove_
-- **Feature**: _Petrified Wood_
-
-We can easily imagine that this dungeon can be found in a dark, impenetrable forest with very little light, and at its center a small copse of petrified trees. It is likely hidden from view, and known by very few outside the forest boundary. 
-
-Continuing to roll on the **Purpose**, **Construction**, and **Ruination** tables we get the following results:
-
-- **Purpose**: Originally constructed to _protect of rare artifacts_. Built by a _fanatical cult_. 
-- **Construction**: The entrance is _between a circle of menhirs_, and its foundation is built of the very same _petrified wood_ that surrounds it.
-- **Ruination**: _Sealed_ as a result of _competing rituals_.
-
-We can picture it now: a forest temple built of petrified wood, designed to house rare and powerful Relics by an extremist sect of druids. After a magical accident sealed the doors forever shut, it can now only be entered through a circle of ancient menhirs. Who caused the incident that led to the temple's ruin? Perhaps a schism divided the cult, both sides vying for power through ritual domination.
-
-Continuing on to the current inhabitants of our dungeon, we get the following results (rolling for two factions):
-- **Denizens**: The creatures living here are _practical,_ yet _unimaginative_.
-- **Faction A**: Would like maintain _power_ over the temple, but are rebuffed by _dogma_.
-- **Faction B**: Seek a _redemption_ they cannot find due to a great _danger_.
-
-It seems as though the people currently living in the forest temple are happy with how things currently are, and frankly can't imagine why anyone would want to change things. The two dominant factions are clearly descendants of the original druid cult's schism, and are likely still at odds with one another. 
-
-What stands in the way of Faction A achieving their aims of total power?
-- Perhaps the druid cult's dogma was such that power must be shared between the two cults. Who were their leaders? Siblings, rivals, perhaps? If the original words of the founders were found, they might be able to prove their faction's true destiny.
-
-What is Faction B trying to redeem, and what danger prevents them from achieving it?
-- Perhaps their faction was the cause of the ritual that sealed the temple from the ancient relics it was meant to protect, and they still carry that shame? Did the competing rituals create a monster that still patrols the temple? Perhaps if this monster was defeated, they could finally overcome their burden?
-
 ### Encounter Tables
 
 [Build encounter tables.]
@@ -463,3 +420,45 @@ Roll 2d20 and combine the results.
  - Create loops, branching hallways, dead-ends, and shortcuts between rooms.
  - Some paths are Conditional, represented by a crossed line.
  - Some paths are Hidden, represented by a dashed line.
+
+
+
+
+
+## Dungeon Example
+
+Let's assume that the dungeon results from the Setting Seeds chapter was:
+- **Type**: _Shrouded Grove_
+- **Feature**: _Petrified Wood_
+
+We can easily imagine that this dungeon can be found in a dark, impenetrable forest with very little light, and at its center a small copse of petrified trees. It is likely hidden from view, and known by very few outside the forest boundary. 
+
+Continuing to roll on the **Purpose**, **Construction**, and **Ruination** tables we get the following results:
+
+- **Purpose**: Originally constructed to _protect of rare artifacts_. Built by a _fanatical cult_. 
+- **Construction**: The entrance is _between a circle of menhirs_, and its foundation is built of the very same _petrified wood_ that surrounds it.
+- **Ruination**: _Sealed_ as a result of _competing rituals_.
+
+We can picture it now: a forest temple built of petrified wood, designed to house rare and powerful Relics by an extremist sect of druids. After a magical accident sealed the doors forever shut, it can now only be entered through a circle of ancient menhirs. Who caused the incident that led to the temple's ruin? Perhaps a schism divided the cult, both sides vying for power through ritual domination.
+
+Continuing on to the current inhabitants of our dungeon, we get the following results (rolling for two factions):
+- **Denizens**: The creatures living here are _practical,_ yet _unimaginative_.
+- **Faction A**: Would like maintain _power_ over the temple, but are rebuffed by _dogma_.
+- **Faction B**: Seek a _redemption_ they cannot find due to a great _danger_.
+
+It seems as though the people currently living in the forest temple are happy with how things currently are, and frankly can't imagine why anyone would want to change things. The two dominant factions are clearly descendants of the original druid cult's schism, and are likely still at odds with one another. 
+
+What stands in the way of Faction A achieving their aims of total power?
+- Perhaps the druid cult's dogma was such that power must be shared between the two cults. Who were their leaders? Siblings, rivals, perhaps? If the original words of the founders were found, they might be able to prove their faction's true destiny.
+
+What is Faction B trying to redeem, and what danger prevents them from achieving it?
+- Perhaps their faction was the cause of the ritual that sealed the temple from the ancient relics it was meant to protect, and they still carry that shame? Did the competing rituals create a monster that still patrols the temple? Perhaps if this monster was defeated, they could finally overcome their burden?
+
+### Conclusion
+
+With some idea on the history, purpose, and denizens of the dungeon, we finally have our theme. Let's put it all together:
+Nestled within a dense, shrouded forest lies a temple made entirely of petrified wood. Built by a fanatical cult to protect sacred artifacts, its entrance concealed by a circle of ancient menhirs deep in the forest. The temple was partly sealed after a competing faction unleashed magic which interacted poorly with another ritual, spawning a terrible monster that protects the relics to this day. Today, the descendants of these factions still vie for control and redemption, hindered by dogmatic disputes and fear of the creature that still roams its halls.
+
+### Example Map
+
+### Example Rooms
