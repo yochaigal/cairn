@@ -343,28 +343,28 @@ Monsters are any dangerous creature that lives in a dungeon. This does not mean 
 
 Roll 2d20 and combine the results.
 
-
-| **d20** | **Monster Type** | **Activity** |
+|         |                  |              |
 | ------- | ---------------- | ------------ |
+| **d20** | **Monster Type** | **Activity** |
 | **1**   | Aquatic          | Haunting     |
-| **2**   | Construct        | Devouring    |
-| **3**   | Elemental        | Dying        |
-| **4**   | Extraplanar      | Growing      |
-| **5**   | Fey              | Building     |
-| **6**   | Goblinoid        | Hiding       |
-| **7**   | Humanoid         | Killing      |
-| **8**   | Insectoid        | Mating       |
-| **9**   | Legendary        | Fighting     |
-| **10**  | Lycanthrope      | Mourning     |
-| **11**  | Magical          | Patrolling   |
-| **12**  | Ooze             | Praying      |
-| **13**  | Plant            | Protecting   |
-| **14**  | Reptilian        | Recuperating |
-| **15**  | Saurian          | Scheming     |
-| **16**  | Snake            | Sleeping     |
-| **17**  | Undead           | Stalking     |
-| **18**  | Underworld       | Torturing    |
-| **19**  | Beast            | Training     |
+| **2**   | Beast            | Devouring    |
+| **3**   | Construct        | Dying        |
+| **4**   | Elemental        | Growing      |
+| **5**   | Extraplanar      | Building     |
+| **6**   | Fey              | Hiding       |
+| **7**   | Goblinoid        | Killing      |
+| **8**   | Humanoid         | Mating       |
+| **9**   | Insectoid        | Fighting     |
+| **10**  | Legendary        | Mourning     |
+| **11**  | Lycanthrope      | Patrolling   |
+| **12**  | Magical          | Praying      |
+| **13**  | Ooze             | Protecting   |
+| **14**  | Plant            | Recuperating |
+| **15**  | Reptilian        | Scheming     |
+| **16**  | Saurian          | Sleeping     |
+| **17**  | Shadow           | Stalking     |
+| **18**  | Undead           | Torturing    |
+| **19**  | Underworld       | Training     |
 | **20**  | Worm             | Trapped      |
 
 #### Special
@@ -379,8 +379,6 @@ Puzzles should have:
 - Multiple solutions, solvable with intelligence and critical thinking, not special abilities or unique tools
 - Built-in clues about their origin and their effects
 - Elements that reinforce the themes of the dungeon
-
-#####
 
 Roll 2d20 and combine the results.
 
@@ -401,7 +399,7 @@ Roll 2d20 and combine the results.
 | **12**  | Object      | Locks       |
 | **13**  | Pool        | Opens       |
 | **14**  | Shadows     | Reflects    |
-| **15**  | Smell       | Repels      |
+| **15**  | Smoke       | Repels      |
 | **16**  | Statue      | Reveals     |
 | **17**  | Surface     | Shifts      |
 | **18**  | Voices      | Silences    |
@@ -425,19 +423,18 @@ Roll 2d20 and combine the results.
 | **6**   | Crushes    | Entering      |
 | **7**   | Curses     | Focusing      |
 | **8**   | Cuts       | Interacting   |
-| **17**  | Deafens    | Stepping      |
-| **9**   | Drops      | Lighting      |
-| **10**  | Drowns     | Moving        |
-| **11**  | Freezes    | Opening       |
-| **12**  | Glues      | Pulling       |
-| **13**  | Hypnotizes | Pushing       |
-| **14**  | Impales    | Reading       |
-| **15**  | Infects    | Speaking      |
-| **16**  | Lifts      | Speaking      |
+| **9**   | Deafens    | Stepping      |
+| **10**  | Drops      | Lighting      |
+| **11**  | Drowns     | Moving        |
+| **12**  | Freezes    | Opening       |
+| **13**  | Glues      | Pulling       |
+| **14**  | Hypnotizes | Pushing       |
+| **15**  | Impales    | Reading       |
+| **16**  | Infects    | Speaking      |
+| **17**  | Lifts      | Speaking      |
 | **18**  | Poisons    | Taking        |
 | **19**  | Shocks     | Touching      |
 | **20**  | Shoots     | Tripping      |
-
 
 ## Dungeon Example
 
