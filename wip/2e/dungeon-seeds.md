@@ -346,28 +346,28 @@ Roll 2d20 and combine the results.
 |         |             |              |                                                                             |
 | ------- | ----------- | ------------ | --------------------------------------------------------------------------- |
 | **d20** | **Group**   | **Activity** | **Examples**                                                                |
-| **1**   | Beasts      | Haunting     | Grizzly Bear, Killer Bees, Night Cat, Viper, White Ape                      |
-| **2**   | Behemoths   | Devouring    | Green Dragon, Purple Worm                                                   |
-| **3**   | Constructs  | Dying        | Bone Construct, Cobblehounds, Gargoyle                                      |
-| **4**   | Demons      | Growing      | Hellhound, Nightmare                                                        |
-| **5**   | Elementals  | Building     | Water Elemental                                                             |
-| **6**   | Extraplanar | Hiding       | Eye of Terror, Mind Lasher                                                  |
-| **7**   | Fey         | Killing      | Boggart, Dryad, Frost Elf, Night Hag, Pixie, Sea Hag, Red Cap               |
-| **8**   | Giants      | Mating       | Sky Giant, Storm Giant                                                      |
-| **9**   | Goblinoids  | Fighting     | Bugbear, Ettin, Goblin, Hobgoblin, Ogre, Root Goblin, Troll, Wood Troll     |
+| **1**   | Avians      | Building     | Phoenix, Roc, Wyvern                                                        |
+| **2**   | Beasts      | Devouring    | Blood Elk, Grizzly Bear, Killer Bees, Night Cat, Viper, White Ape           |
+| **3**   | Behemoths   | Dying        | Green Dragon, Purple Worm                                                   |
+| **4**   | Constructs  | Fighting     | Bone Construct, Cobblehounds, Gargoyle                                      |
+| **5**   | Demons      | Growing      | Hellhound, Nightmare                                                        |
+| **6**   | Extraplanar | Haunting     | Eye of Terror, Mind Lasher                                                  |
+| **7**   | Fey         | Hiding       | Boggart, Dryad, Frost Elf, Pixie, Red Cap, Night Hag, Sea Hag               |
+| **8**   | Giants      | Killing      | Sky Giant, Storm Giant                                                      |
+| **9**   | Goblinoids  | Mating       | Bugbear, Ettin, Goblin, Hobgoblin, Ogre, Root Goblin, Troll, Wood Troll     |
 | **10**  | Humanoids   | Mourning     | Acolyte, Bandit, Frost Elf, Gnoll, Hooded Men                               |
-| **11**  | Consumers   | Patrolling   | Blood Elk, Swine Thing                                                      |
-| **12**  | Hybrids     | Praying      | Centaur, Manticore, Minotaur, Werewolf                                      |
-| **13**  | Incorporeal | Protecting   | Invisible Stalker, Shadow                                                   |
-| **14**  | Insectoids  | Recuperating | Aranea, Burrowing Horror, Cave Locust, Giant Scorpion                       |
-| **15**  | Magical     | Scheming     | Blink Dog, Mimic, Owlbear, Warp Panther                                     |
-| **16**  | Mythical    | Sleeping     | Banshee, Griffon, Harpy, Hydra, Lamia, Titan, Unicorn, Wyvern               |
-| **17**  | Plants      | Stalking     | Creeping Vines, Root Witch, Shambling Mound, Treant                         |
-| **18**  | Lizards     | Torturing    | Basilisk, Hydra, Kobold, Naga, Reptilian                                    |
+| **11**  | Hybrids     | Patrolling   | Centaur, Manticore, Minotaur                                                |
+| **12**  | Incorporeal | Praying      | Invisible Stalker, Shadow                                                   |
+| **13**  | Insectoids  | Protecting   | Aranea, Burrowing Horror, Cave Locust, Giant Scorpion                       |
+| **14**  | Lizards     | Recuperating | Basilisk, Hydra, Kobold, Naga, Reptilian                                    |
+| **15**  | Lycanthrope | Scheming     | Swine Thing, Werewolf                                                       |
+| **16**  | Magical     | Sleeping     | Blink Dog, Mimic, Owlbear, Warp Panther, Water Elemental                    |
+| **17**  | Mythical    | Stalking     | Banshee, Griffon, Harpy, Hydra, Lamia, Titan, Unicorn                       |
+| **18**  | Plants      | Torturing    | Creeping Vines, Root Witch, Shambling Mound, Treant                         |
 | **19**  | Undead      | Training     | Crypt Guardian, Ghost, Ghoul, Lich, Mummy, Skeleton, Vampire, Wight, Zombie |
 | **20**  | Unusual     | Trapped      | Gelatinous Ooze, Rust Monster                                               |
 
-#### Special
+# Special
 
 Special rooms areas are uncommon areas that feature a hidden or interactive element. This element can be a challenge, an obstacle, a puzzle, or all of the above. These rooms should offer difficult choices with long-term impacts. They might make dungeon exploration easier, but with a serious cost.
 
