@@ -481,41 +481,42 @@ Nestled within a dense, shrouded forest lies a temple made entirely of petrified
 
 #### 1
 
-**Lore**. Dining Hall. Smell.
-The smell of root vegetables and cloves.
+**Results**: Lore. Dining Hall. Smell.
+
+A rustic dining hall. Long tables are arranged in rows. The lingering smell of root vegetables and cloves fills the air.
 
 #### 2
 
-**Special**. Furniture. Animates.
+**Results**: Special. Furniture. Animates.
 
 #### 3
 
-**Monster**. Lizard. Recuperating.
+**Results**: Monster. Lizard. Recuperating.
 
 A Basilisk, dozing after giving birth to a new clutch of eggs.
 
 #### 4
 
-**Trap**. Infects. Extinguishing.
+**Results**: Trap. Infects. Extinguishing.
 
 #### 5
 
-**Lore**. Study. Decor.
+**Results**: Lore. Study. Decor.
 
 #### 6
 
-**Special**. Smoke. Illusion.
+**Results**: Special. Smoke. Illusion.
 
 #### 7
 
-**Trap**. Confuses. Interacting.
+**Results**: Trap. Confuses. Interacting.
 
 #### 8
 
-**Monster**. Insectoid. Hiding.
+**Results**: Monster. Insectoid. Hiding.
 
 A Burrowing Horror, hiding in wait beneath ___.
 
 #### 9
 
-**Special**. Mirror. Locks.
+**Results**: Special. Mirror. Locks.
