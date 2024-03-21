@@ -8,5 +8,5 @@ grand_parent: Resources
 
 6 HP, 14 STR, 12 DEX, 14 WIL, horn (d10, ignores armor)
 
-- Magical horses with a single long horn on its forehead. Timid, but proud and wilful, are seen as divine beings.
+- Magical horses with a single long horn on its forehead. Timid, but proud and willful, are seen as divine beings.
 - Its hairs are worth small fortunes due to their powerful healing properties.

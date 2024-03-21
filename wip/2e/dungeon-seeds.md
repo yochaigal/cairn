@@ -343,29 +343,29 @@ Monsters are any dangerous creature that lives in a dungeon. This does not mean 
 
 Roll 2d20 and combine the results.
 
-|         |             |              |                                                                             |
-| ------- | ----------- | ------------ | --------------------------------------------------------------------------- |
-| **d20** | **Group**   | **Activity** | **Examples**                                                                |
-| **1**   | Avians      | Building     | Phoenix, Roc, Wyvern                                                        |
-| **2**   | Beasts      | Devouring    | Blood Elk, Grizzly Bear, Killer Bees, Night Cat, Viper, White Ape           |
-| **3**   | Behemoths   | Dying        | Green Dragon, Purple Worm                                                   |
-| **4**   | Constructs  | Fighting     | Bone Construct, Cobblehounds, Gargoyle                                      |
-| **5**   | Demons      | Growing      | Hellhound, Nightmare                                                        |
-| **6**   | Extraplanar | Haunting     | Eye of Terror, Mind Lasher                                                  |
-| **7**   | Fey         | Hiding       | Boggart, Dryad, Frost Elf, Pixie, Red Cap, Night Hag, Sea Hag               |
-| **8**   | Giants      | Killing      | Sky Giant, Storm Giant                                                      |
-| **9**   | Goblinoids  | Mating       | Bugbear, Ettin, Goblin, Hobgoblin, Ogre, Root Goblin, Troll, Wood Troll     |
-| **10**  | Humanoids   | Mourning     | Acolyte, Bandit, Frost Elf, Gnoll, Hooded Men                               |
-| **11**  | Hybrids     | Patrolling   | Centaur, Manticore, Minotaur                                                |
-| **12**  | Incorporeal | Praying      | Invisible Stalker, Shadow                                                   |
-| **13**  | Insectoids  | Protecting   | Aranea, Burrowing Horror, Cave Locust, Giant Scorpion                       |
-| **14**  | Lizards     | Recuperating | Basilisk, Hydra, Kobold, Naga, Reptilian                                    |
-| **15**  | Lycanthrope | Scheming     | Swine Thing, Werewolf                                                       |
-| **16**  | Magical     | Sleeping     | Blink Dog, Mimic, Owlbear, Warp Panther, Water Elemental                    |
-| **17**  | Mythical    | Stalking     | Banshee, Griffon, Harpy, Hydra, Lamia, Titan, Unicorn                       |
-| **18**  | Plants      | Torturing    | Creeping Vines, Root Witch, Shambling Mound, Treant                         |
-| **19**  | Undead      | Training     | Crypt Guardian, Ghost, Ghoul, Lich, Mummy, Skeleton, Vampire, Wight, Zombie |
-| **20**  | Unusual     | Trapped      | Gelatinous Ooze, Rust Monster                                               |
+|         |                |              |
+| ------- | -------------- | ------------ |
+| **d20** | **Group**      | **Activity** |
+| **1**   | Avians         | Building     |
+| **2**   | Beasts         | Devouring    |
+| **3**   | Behemoths      | Dying        |
+| **4**   | Constructs     | Fighting     |
+| **5**   | Demons         | Growing      |
+| **6**   | Extraplanar    | Haunting     |
+| **7**   | Fey            | Hiding       |
+| **8**   | Giants         | Killing      |
+| **9**   | Goblinoids     | Mating       |
+| **10**  | Humanoids      | Mourning     |
+| **11**  | Hybrids        | Patrolling   |
+| **12**  | Incorporeal    | Praying      |
+| **13**  | Insectoids     | Protecting   |
+| **14**  | Lizards        | Recuperating |
+| **15**  | Magical        | Scheming     |
+| **16**  | Mythical       | Sleeping     |
+| **17**  | Plants         | Stalking     |
+| **18**  | Shape Shifters | Torturing    |
+| **19**  | Undead         | Training     |
+| **20**  | Unusual        | Trapped      |
 
 # Special
 
