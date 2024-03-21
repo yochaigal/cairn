@@ -467,7 +467,8 @@ What is Faction B trying to redeem, and what danger prevents them from achieving
 
 ### Conclusion
 
-With some idea on the history, purpose, and denizens of the dungeon, we finally have our theme. Let's put it all together:
+With some idea on the history, purpose, and denizens of the dungeon, we finally have our theme. Let's put it all together:  
+
 Nestled within a dense, shrouded forest lies a temple made entirely of petrified wood. Built by a fanatical cult to protect sacred artifacts, its entrance concealed by a circle of ancient menhirs deep in the forest. The temple was partly sealed after a competing faction unleashed magic which interacted poorly with another ritual, spawning a terrible monster that protects the relics to this day. Today, the descendants of these factions still vie for control and redemption, hindered by dogmatic disputes and fear of the creature that still roams its halls.
 
 ### Example Map
@@ -489,9 +490,9 @@ The smell of root vegetables and cloves.
 
 #### 3
 
-**Monster**. Behemoth. Recuperating.
+**Monster**. Lizard. Recuperating.
 
-A Green Dragon, sleeping off a decade's worth of plunder.
+A Basilisk, dozing after giving birth to a new clutch of eggs.
 
 #### 4
 

@@ -11,29 +11,29 @@ search_exclude: true
 
 ## Monster Categories
 
-|         |                |                                                                             |
-| ------- | -------------- | --------------------------------------------------------------------------- |
-| **d20** | **Group**      | **Monsters**                                                                |
-| **1**   | Avians         | Phoenix, Roc, Wyvern                                                        |
-| **2**   | Beasts         | Blood Elk, Grizzly Bear, Killer Bees, Night Cat, Viper, White Ape           |
-| **3**   | Behemoths      | Green Dragon, Purple Worm                                                   |
-| **4**   | Constructs     | Bone Construct, Cobblehounds, Gargoyle                                      |
-| **5**   | Demons         | Hellhound, Nightmare                                                        |
-| **6**   | Extraplanar    | Eye of Terror, Mind Lasher                                                  |
-| **7**   | Fey            | Boggart, Dryad, Frost Elf, Pixie, Red Cap, Night Hag, Sea Hag               |
-| **8**   | Giants         | Sky Giant, Storm Giant, Titan                                               |
-| **9**   | Goblinoids     | Bugbear, Ettin, Goblin, Hobgoblin, Ogre, Root Goblin, Troll, Wood Troll     |
-| **10**  | Humanoids      | Acolyte, Bandit, Frost Elf, Gnoll, Hooded Men                               |
-| **11**  | Hybrids        | Centaur, Manticore, Minotaur                                                |
-| **12**  | Incorporeal    | Invisible Stalker, Shadow                                                   |
-| **13**  | Insectoids     | Aranea, Burrowing Horror, Cave Locust, Giant Scorpion                       |
-| **14**  | Lizards        | Basilisk, Hydra, Kobold, Naga, Reptilian                                    |
-| **15**  | Magical        | Blink Dog, Mimic, Owlbear, Warp Panther, Water Elemental                    |
-| **16**  | Mythical       | Banshee, Griffon, Harpy, Hydra, Lamia, Unicorn                              |
-| **17**  | Plants         | Creeping Vines, Root Witch, Shambling Mound, Treant                         |
-| **18**  | Shape Shifters | Swine Thing, Werewolf                                                       |
-| **19**  | Undead         | Crypt Guardian, Ghost, Ghoul, Lich, Mummy, Skeleton, Vampire, Wight, Zombie |
-| **20**  | Unusual        | Gelatinous Ooze, Rust Monster                                               |
+|         |               |                                                                             |
+| ------- | ------------- | --------------------------------------------------------------------------- |
+| **d20** | **Group**     | **Monsters**                                                                |
+| **1**   | Avian         | Phoenix, Roc, Wyvern                                                        |
+| **2**   | Beast         | Blood Elk, Grizzly Bear, Killer Bees, Night Cat, Viper, White Ape           |
+| **3**   | Behemoth      | Green Dragon, Purple Worm                                                   |
+| **4**   | Construct     | Bone Construct, Cobblehounds, Gargoyle                                      |
+| **5**   | Demon         | Hellhound, Nightmare                                                        |
+| **6**   | Extraplanar   | Eye of Terror, Mind Lasher                                                  |
+| **7**   | Fey           | Boggart, Dryad, Frost Elf, Pixie, Red Cap, Night Hag, Sea Hag               |
+| **8**   | Giant         | Ettin, Sky Giant, Storm Giant, Titan                                        |
+| **9**   | Goblinoid     | Bugbear, Goblin, Hobgoblin, Ogre, Root Goblin, Troll, Wood Troll            |
+| **10**  | Humanoid      | Acolyte, Bandit, Frost Elf, Gnoll, Hooded Men                               |
+| **11**  | Hybrid        | Centaur, Manticore, Minotaur                                                |
+| **12**  | Incorporeal   | Invisible Stalker, Shadow                                                   |
+| **13**  | Insectoid     | Aranea, Burrowing Horror, Cave Locust, Giant Scorpion                       |
+| **14**  | Lizard        | Basilisk, Hydra, Kobold, Naga, Reptilian                                    |
+| **15**  | Magical       | Blink Dog, Mimic, Owlbear, Warp Panther, Water Elemental                    |
+| **16**  | Mythical      | Banshee, Griffon, Harpy, Hydra, Lamia, Unicorn                              |
+| **17**  | Plant         | Creeping Vines, Root Witch, Shambling Mound, Treant                         |
+| **18**  | Shape Shifter | Swine Thing, Werewolf                                                       |
+| **19**  | Undead        | Crypt Guardian, Ghost, Ghoul, Lich, Mummy, Skeleton, Vampire, Wight, Zombie |
+| **20**  | Unusual       | Gelatinous Ooze, Rust Monster                                               |
 
 # Aranea
 
