@@ -319,23 +319,23 @@ Roll 2d20 and combine the results.
 | **1**   | Armory        | Decay         |
 | **2**   | Barracks      | Decor         |
 | **3**   | Bath          | Draft         |
-| **4**   | Bath          | Echoes        |
-| **5**   | Cistern       | Footprints    |
-| **6**   | Court         | Leavings      |
-| **7**   | Crypt         | Light         |
-| **8**   | Den           | Markings      |
-| **9**   | Dining Hall   | Moisture      |
-| **10**  | Guard Post    | Noise         |
-| **11**  | Infirmary     | Paraphernalia |
-| **12**  | Kitchen       | Residue       |
-| **13**  | Latrine       | Scurrying     |
-| **14**  | Library       | Signs         |
-| **15**  | Shrine        | Smell         |
-| **16**  | Smith         | Stains        |
-| **17**  | Stable        | Tapping       |
-| **18**  | Storage       | Temperature   |
-| **19**  | Study         | Vibrations    |
-| **20**  | Vault         | Writing       |
+| **4**   | Cistern       | Echoes        |
+| **5**   | Court         | Footprints    |
+| **6**   | Crypt         | Leavings      |
+| **7**   | Den           | Light         |
+| **8**   | Dining Hall   | Markings      |
+| **9**   | Guard Post    | Moisture      |
+| **10**  | Infirmary     | Noise         |
+| **11**  | Kitchen       | Paraphernalia |
+| **12**  | Latrine       | Residue       |
+| **13**  | Library       | Scurrying     |
+| **14**  | Shrine        | Signs         |
+| **15**  | Smith         | Smell         |
+| **16**  | Stable        | Stains        |
+| **17**  | Storage       | Tapping       |
+| **18**  | Study         | Temperature   |
+| **19**  | Vault         | Vibrations    |
+| **20**  | Workshop      | Writing       |
 
 #### Monster
 
@@ -446,7 +446,7 @@ We can easily imagine that this dungeon can be found in a dark, impenetrable for
 
 Continuing to roll on the **Purpose**, **Construction**, and **Ruination** tables we get the following results:
 
-- **Purpose**: Originally constructed to _protect of rare artifacts_. Built by a _fanatical cult_. 
+- **Purpose**: Originally constructed for the _protection of rare artifacts_. Built by a _fanatical cult_. 
 - **Construction**: The entrance is _between a circle of menhirs_, and its foundation is built of the very same _petrified wood_ that surrounds it.
 - **Ruination**: _Sealed_ as a result of _competing rituals_.
 
@@ -454,7 +454,7 @@ We can picture it now: a forest temple built of petrified wood, designed to hous
 
 Continuing on to the current inhabitants of our dungeon, we get the following results (rolling for two factions):
 - **Denizens**: The creatures living here are _practical,_ yet _unimaginative_.
-- **Faction A**: Would like maintain _power_ over the temple, but are rebuffed by _dogma_.
+- **Faction A**: Would like to maintain _power_ over the temple, but are rebuffed by _dogma_.
 - **Faction B**: Seek a _redemption_ they cannot find due to a great _danger_.
 
 It seems as though the people currently living in the forest temple are happy with how things currently are, and frankly can't imagine why anyone would want to change things. The two dominant factions are clearly descendants of the original druid cult's schism, and are likely still at odds with one another. 
