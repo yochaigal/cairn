@@ -100,9 +100,7 @@ search_exclude: true
 - Constantly re-state the party's surroundings, where they are in physical space, and what each character's senses are detecting.
 - Don't tell them how they feel. Say, "a long, jagged knife" rather than "an evil-looking knife."
 - Always reiterate what is _about_ to happen. Does the flaming barrel look stable, or like it might explode?
-- Describe elements to help orient the party to their surroundings. 
- - How close is a PC to a potential danger? Are they above it, or below it?
- - What side of an object is a PC standing in? Are they inside or outside a room, building, or structure?
+- Describe elements that help orient the party to their surroundings. How close is a character to a potential danger? Are they above it, or below it? What side of an object are they standing on? Are they inside of or outside of a room, building, or structure?
 
 ## Creating a Dungeon
 

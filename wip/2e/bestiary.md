@@ -28,12 +28,12 @@ search_exclude: true
 | **12**  | Incorporeal   | Invisible Stalker, Shadow                                                   |
 | **13**  | Insectoid     | Aranea, Burrowing Horror, Cave Locust, Giant Scorpion                       |
 | **14**  | Lizard        | Basilisk, Hydra, Kobold, Naga, Reptilian                                    |
-| **15**  | Magical       | Blink Dog, Mimic, Owlbear, Warp Panther, Water Elemental                    |
+| **15**  | Magical       | Blink Dog, Owlbear, Warp Panther, Water Elemental                           |
 | **16**  | Mythical      | Banshee, Griffon, Harpy, Hydra, Lamia, Unicorn                              |
 | **17**  | Plant         | Creeping Vines, Root Witch, Shambling Mound, Treant                         |
 | **18**  | Shape Shifter | Swine Thing, Werewolf                                                       |
 | **19**  | Undead        | Crypt Guardian, Ghost, Ghoul, Lich, Mummy, Skeleton, Vampire, Wight, Zombie |
-| **20**  | Unusual       | Gelatinous Ooze, Rust Monster, Warrior Snail                                |
+| **20**  | Unusual       | Gelatinous Ooze, Mimic, Rust Monster, Warrior Snail                         |
 
 # Aranea
 
