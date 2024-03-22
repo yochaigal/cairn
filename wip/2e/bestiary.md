@@ -164,6 +164,14 @@ search_exclude: true
 - The two-headed kin of giants. Prefer caves and underground hovels.
 - Cannot be surprised.
 
+# Eye of Terror
+
+15 HP, 9 STR, 8 DEX, 16 WIL, bite (d8)
+
+- Floating spheres with large mouths, enormous eyes, and several small eyes set atop long stalks. 
+- They are highly intelligent, intensely greedy, and completely insane. 
+- Can cast the following spells at will: _Charm, Phobia, Telekinesis, Sleep, Shuffle, Vision_. Magic used against them requires a WIL save or fizzle out.
+
 # Frost Elf
 
 14 HP, 1 Armor, 8 STR, 13 DEX, 14 WIL, icicle dagger (d6)
