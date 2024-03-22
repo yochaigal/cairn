@@ -185,19 +185,19 @@ Roll 2d20 and combine the results.
 | **1**   | Corpse           | Alchemical Accident         |
 | **2**   | Crumbling        | Ancient Curse               |
 | **3**   | Cursed           | Cataclysmic Flood           |
-| **4**   | Encased in Ice   | Civil War                   |
+| **4**   | Desecrated       | Civil War                   |
 | **5**   | Devoured         | Competing Rituals           |
-| **6**   | Desecrated       | Consumed by a Beast         |
-| **7**   | Sealed           | Disease                     |
-| **8**   | Displaced        | Hedonism                    |
-| **9**   | Scorched         | Invasion                    |
-| **10**  | Haunted          | Long-term Abandonment       |
-| **11**  | Infested         | Magic Gone Awry             |
-| **12**  | Overgrown        | Magical Seal                |
-| **13**  | Frozen           | Natural disaster            |
+| **6**   | Displaced        | Consumed by a Beast         |
+| **7**   | Divided          | Disease                     |
+| **8**   | Frozen           | Hedonism                    |
+| **9**   | Haunted          | Invasion                    |
+| **10**  | Infested         | Long-term Abandonment       |
+| **11**  | Overgrown        | Magic Gone Awry             |
+| **12**  | Overpopulated    | Magical Seal                |
+| **13**  | Petrified        | Natural disaster            |
 | **14**  | Plundered        | Natural Erosion             |
 | **15**  | Poisoned         | Obfuscation                 |
-| **16**  | Petrified        | Overrun With Monsters       |
+| **16**  | Scorched         | Overrun With Monsters       |
 | **17**  | Shrouded in Mist | Sudden Change in Climate    |
 | **18**  | Submerged        | Teleported to Another Realm |
 | **19**  | Unending         | Turned to Stone             |
@@ -436,47 +436,47 @@ Roll 2d20 and combine the results.
 
 ## Dungeon Example
 
-Let's assume that the dungeon results from the Setting Seeds chapter was:
+For this example, let's assume we are looking at a POI generated using the methods described in the Setting Seeds chapter. Our relevant results were:
 
+- **Terrain**: _Forest_
 - **Type**: _Temple_
-- **Feature**: _Remote_
+- **Feature**: _Isolated_
 
-_What kind of dungeon is this, and what makes it unusual?_
+### What kind of dungeon is this, and what makes it unusual?
 
-The temple is located in a dark, impenetrable forest with very little light, and at its center a small copse of petrified trees. It is likely hidden from view, and known by very few outside the forest boundary.
+_A remote forest temple, cut off from the world by a vast ocean of trees and shrubbery.
 
-Continuing to roll on the **Purpose**, **Construction**, and **Ruination** tables we get the following results:
+We then roll on the **Purpose**, **Construction**, and **Ruination** tables we get the following results:
 
-- **Purpose**: Originally constructed for the _protection of rare artifacts_. Built by a _fanatical cult_. 
+- **Purpose**: The _Protection of rare artifacts_. Built by a _fanatical cult_. 
 - **Construction**: The entrance is _between a circle of menhirs_, and its foundation is built of the very same _petrified wood_ that surrounds it.
-- **Ruination**: _Sealed_ as a result of _competing rituals_.
+- **Ruination**: _Divided_ (literally) by _competing rituals_.
 
-We can picture it now: 
-A forest temple built of petrified wood, designed to house rare and powerful Relics by an extremist sect of druids. After a magical accident sealed the doors forever shut, it can now only be entered through a circle of ancient menhirs. 
+### Why was this dungeon built, how was it built, and what caused its downfall?
 
-_What incident led to the temple's ruin?_
-A schism divided the cult, with both sides struggling for power through magic and ritual.
+_It was designed by an extremist cult of forest druids to house reality-altering Relic. Its entrance is beneath a false stone in a circle of menhirs deep in the forest. The walls and ceiling of the dungeon are built from petrified wood, as the ancient artifact affects living plants, warping them to its will. A division within the cult faced off over control of the Relic, but fell victim to their own hubris and nearly destroyed one another. When two opposing rituals collided, the temple was split in two, divided along Factional lines. The Relic was lost in the aftermath._
 
+Continuing on to the current inhabitants of our dungeon, we get the following results (rolling for _two_ factions):
 
-Continuing on to the current inhabitants of our dungeon, we get the following results (rolling for two factions):
 - **Denizens**: The creatures living here are _practical,_ yet _unimaginative_.
-- **Faction A**: Would like to maintain _power_ over the temple, but are rebuffed by _dogma_.
-- **Faction B**: Seek a _redemption_ they cannot find due to a great _danger_.
+- **Faction A**: Would like to see the _destruction_ of the other faction, but are cowed by their opponent's opposition.
+- **Faction B**: Seek a _redemption_ that they cannot find due to a great _tradition_.
 
-It seems that the temple's current denizens are happy with the way things are, but that the two dominant factions are clearly descendants of the original druid cult's schism, and are likely still at odds with one another. 
+### What do we know about the creatures and Factions that occupy the dungeon?
 
+_The current denizens of this dungeon are the descendants of the original Factions, and are typically pragmatic about their ceaseless war, unable to imagine a way out._
 
-_What stands in the way of Faction A achieving their aims of total power?_
-- Perhaps the druid cult's dogma was such that power must be shared between the two cults. Who were their leaders? Siblings, rivals, perhaps? If the original words of the founders were found, they might be able to prove their faction's true destiny.
+### What are each Factions trying to achieve, and what stands in their way?
 
-_What is Faction B trying to redeem, and what danger prevents them from achieving it?_
-- Perhaps their faction created the ritual that sealed the temple, and they still carry that shame? Did the "competing rituals" also create a monster that still roams the temple? And if this monster was defeated, they could finally overcome their burden?
+One Faction seeks power over the alternate reality, but under no circumstances desires the reunification of the two sides. They believe that if the original Relic were recovered, they might bend its power to destroy the other Faction. However, every attempt to plumb the temple's depths has been countered by an attack by a far more powerful opponent that watches their every move.
+
+The other Faction feel a great sense of shame over their ancestor's actions, and believes that if they were able to reunite the two Factions, they might make things right again. They believe that if the original Relic were recovered, they might bend its power to undue they Great Split in the temple, joining the two clans. Unfortunately, a long-standing tradition states that none of their blood may seek the Relic so as to avoid the mistakes of the past.
 
 ### Conclusion
 
 With some idea on the history, purpose, and denizens of the dungeon, we finally have our theme. Let's put it all together:  
 
-Nestled within a dense, shrouded forest lies a temple made entirely of petrified wood. Built by a fanatical cult to protect sacred artifacts, its entrance concealed by a circle of ancient menhirs deep in the forest. The temple was partly sealed after a competing faction unleashed magic which interacted poorly with another ritual, spawning a terrible monster that protects the relics to this day. Today, the descendants of these factions still vie for control and redemption, hindered by dogmatic disputes and fear of the creature that still roams its halls.
+Nestled within a dense, shrouded forest lies a temple made entirely of petrified wood. Built by a fanatical cult to protect an ancient Relic, its entrance is concealed by a false menhirs. After dual rituals collided, the temple was physically divided along ideological lines. Today, the descendants of these factions still vie for control and redemption, hindered by power imbalances and ancient tradition.
 
 ### Example Map
 
