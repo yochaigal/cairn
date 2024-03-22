@@ -24,11 +24,11 @@ search_exclude: true
 | **8**   | Giant         | Ettin, Sky Giant, Storm Giant, Titan                                        |
 | **9**   | Goblinoid     | Bugbear, Goblin, Hobgoblin, Ogre, Root Goblin, Troll, Wood Troll            |
 | **10**  | Humanoid      | Acolyte, Bandit, Frost Elf, Gnoll, Hooded Men, Triton                       |
-| **11**  | Hybrid        | Centaur, Manticore, Minotaur                                                |
+| **11**  | Hybrid        | Centaur, Manticore, Minotaur, Owlbear                                       |
 | **12**  | Incorporeal   | Invisible Stalker, Shadow                                                   |
 | **13**  | Insectoid     | Aranea, Burrowing Horror, Cave Locust, Giant Scorpion                       |
 | **14**  | Lizard        | Basilisk, Hydra, Kobold, Naga, Reptilian                                    |
-| **15**  | Magical       | Blink Dog, Owlbear, Warp Panther, Water Elemental                           |
+| **15**  | Magical       | Blink Dog, Warp Panther, Water Elemental                                    |
 | **16**  | Mythical      | Banshee, Griffon, Harpy, Hydra, Lamia, Unicorn                              |
 | **17**  | Plant         | Creeping Vines, Root Witch, Shambling Mound, Treant                         |
 | **18**  | Shape Shifter | Swine Thing, Werewolf                                                       |

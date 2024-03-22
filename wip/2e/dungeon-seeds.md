@@ -341,29 +341,29 @@ Monsters are any dangerous creature that lives in a dungeon. This does not mean 
 
 Roll 2d20 and combine the results.
 
-|         |                |              |
-| ------- | -------------- | ------------ |
-| **d20** | **Group**      | **Activity** |
-| **1**   | Avians         | Building     |
-| **2**   | Beasts         | Devouring    |
-| **3**   | Behemoths      | Dying        |
-| **4**   | Constructs     | Fighting     |
-| **5**   | Demons         | Growing      |
-| **6**   | Extraplanar    | Haunting     |
-| **7**   | Fey            | Hiding       |
-| **8**   | Giants         | Killing      |
-| **9**   | Goblinoids     | Mating       |
-| **10**  | Humanoids      | Mourning     |
-| **11**  | Hybrids        | Patrolling   |
-| **12**  | Incorporeal    | Praying      |
-| **13**  | Insectoids     | Protecting   |
-| **14**  | Lizards        | Recuperating |
-| **15**  | Magical        | Scheming     |
-| **16**  | Mythical       | Sleeping     |
-| **17**  | Plants         | Stalking     |
-| **18**  | Shape Shifters | Torturing    |
-| **19**  | Undead         | Training     |
-| **20**  | Unusual        | Trapped      |
+|         |               |              |
+| ------- | ------------- | ------------ |
+| **d20** | **Group**     | **Activity** |
+| **1**   | Avian         | Building     |
+| **2**   | Beast         | Devouring    |
+| **3**   | Behemoth      | Dying        |
+| **4**   | Construct     | Fighting     |
+| **5**   | Demon         | Growing      |
+| **6**   | Extraplanar   | Haunting     |
+| **7**   | Fey           | Hiding       |
+| **8**   | Giant         | Killing      |
+| **9**   | Goblinoid     | Mating       |
+| **10**  | Humanoid      | Mourning     |
+| **11**  | Hybrid        | Patrolling   |
+| **12**  | Incorporeal   | Praying      |
+| **13**  | Insectoid     | Protecting   |
+| **14**  | Lizard        | Recuperating |
+| **15**  | Magical       | Scheming     |
+| **16**  | Mythical      | Sleeping     |
+| **17**  | Plant         | Stalking     |
+| **18**  | Shape Shifter | Torturing    |
+| **19**  | Undead        | Training     |
+| **20**  | Unusual       | Trapped      |
 
 # Special
 
@@ -437,10 +437,13 @@ Roll 2d20 and combine the results.
 ## Dungeon Example
 
 Let's assume that the dungeon results from the Setting Seeds chapter was:
-- **Type**: _Shrouded Grove_
-- **Feature**: _Petrified Wood_
 
-We can easily imagine that this dungeon can be found in a dark, impenetrable forest with very little light, and at its center a small copse of petrified trees. It is likely hidden from view, and known by very few outside the forest boundary. 
+- **Type**: _Temple_
+- **Feature**: _Remote_
+
+_What kind of dungeon is this, and what makes it unusual?_
+
+The temple is located in a dark, impenetrable forest with very little light, and at its center a small copse of petrified trees. It is likely hidden from view, and known by very few outside the forest boundary.
 
 Continuing to roll on the **Purpose**, **Construction**, and **Ruination** tables we get the following results:
 
@@ -448,20 +451,26 @@ Continuing to roll on the **Purpose**, **Construction**, and **Ruination** table
 - **Construction**: The entrance is _between a circle of menhirs_, and its foundation is built of the very same _petrified wood_ that surrounds it.
 - **Ruination**: _Sealed_ as a result of _competing rituals_.
 
-We can picture it now: a forest temple built of petrified wood, designed to house rare and powerful Relics by an extremist sect of druids. After a magical accident sealed the doors forever shut, it can now only be entered through a circle of ancient menhirs. Who caused the incident that led to the temple's ruin? Perhaps a schism divided the cult, both sides vying for power through ritual domination.
+We can picture it now: 
+A forest temple built of petrified wood, designed to house rare and powerful Relics by an extremist sect of druids. After a magical accident sealed the doors forever shut, it can now only be entered through a circle of ancient menhirs. 
+
+_What incident led to the temple's ruin?_
+A schism divided the cult, with both sides struggling for power through magic and ritual.
+
 
 Continuing on to the current inhabitants of our dungeon, we get the following results (rolling for two factions):
 - **Denizens**: The creatures living here are _practical,_ yet _unimaginative_.
 - **Faction A**: Would like to maintain _power_ over the temple, but are rebuffed by _dogma_.
 - **Faction B**: Seek a _redemption_ they cannot find due to a great _danger_.
 
-It seems as though the people currently living in the forest temple are happy with how things currently are, and frankly can't imagine why anyone would want to change things. The two dominant factions are clearly descendants of the original druid cult's schism, and are likely still at odds with one another. 
+It seems that the temple's current denizens are happy with the way things are, but that the two dominant factions are clearly descendants of the original druid cult's schism, and are likely still at odds with one another. 
 
-What stands in the way of Faction A achieving their aims of total power?
+
+_What stands in the way of Faction A achieving their aims of total power?_
 - Perhaps the druid cult's dogma was such that power must be shared between the two cults. Who were their leaders? Siblings, rivals, perhaps? If the original words of the founders were found, they might be able to prove their faction's true destiny.
 
-What is Faction B trying to redeem, and what danger prevents them from achieving it?
-- Perhaps their faction was the cause of the ritual that sealed the temple from the ancient relics it was meant to protect, and they still carry that shame? Did the competing rituals create a monster that still patrols the temple? Perhaps if this monster was defeated, they could finally overcome their burden?
+_What is Faction B trying to redeem, and what danger prevents them from achieving it?_
+- Perhaps their faction created the ritual that sealed the temple, and they still carry that shame? Did the "competing rituals" also create a monster that still roams the temple? And if this monster was defeated, they could finally overcome their burden?
 
 ### Conclusion
 

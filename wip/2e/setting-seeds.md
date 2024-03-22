@@ -424,29 +424,29 @@ Roll 2d20 and combine the results.
 
 Roll 2d20 and combine the results.
 
-|         |                |              |
-| ------- | -------------- | ------------ |
-| **d20** | **Type**       | **Feature**  |
-| **1**   | Crypt          | Abandoned    |
-| **2**   | Prison         | Buried       |
-| **3**   | Cave           | Burnt        |
-| **4**   | Mine           | Clockwork    |
-| **5**   | Den            | Collapsed    |
-| **6**   | Stronghold     | Crumbling    |
-| **7**   | Temple         | Crystalline  |
-| **8**   | Laboratory     | Floating     |
-| **9**   | Workshop       | Flooded      |
-| **10**  | Great Hall     | Fungal       |
-| **11**  | Burial Ground  | Inverted     |
-| **12**  | Shrouded Grove | Isolated     |
-| **13**  | Ruined City    | Mirrored     |
-| **14**  | Estate         | Otherworldly |
-| **15**  | Tower          | Overgrown    |
-| **16**  | Manor          | Petrified    |
-| **17**  | Outpost        | Remote       |
-| **18**  | Fort           | Sealed       |
-| **19**  | Palace         | Toxic        |
-| **20**  | Tomb           | Warped       |
+|         |               |              |
+| ------- | ------------- | ------------ |
+| **d20** | **Type**      | **Feature**  |
+| **1**   | Burial Ground | Abandoned    |
+| **2**   | Cave          | Buried       |
+| **3**   | Cellar        | Burnt        |
+| **4**   | Crypt         | Clockwork    |
+| **5**   | Den           | Collapsed    |
+| **6**   | Estate        | Crumbling    |
+| **7**   | Fort          | Crystalline  |
+| **8**   | Great Hall    | Floating     |
+| **9**   | Laboratory    | Flooded      |
+| **10**  | Manor         | Fungal       |
+| **11**  | Mine          | Inverted     |
+| **12**  | Outpost       | Isolated     |
+| **13**  | Palace        | Mirrored     |
+| **14**  | Prison        | Otherworldly |
+| **15**  | Ruined City   | Overgrown    |
+| **16**  | Stronghold    | Petrified    |
+| **17**  | Temple        | Remote       |
+| **18**  | Tomb          | Sealed       |
+| **19**  | Tower         | Toxic        |
+| **20**  | Workshop      | Warped       |
 
 See the [Dungeon Seeds](/wip/dungeon-seeds) chapter (p.x) for how to generate each Dungeon POI for your setting, writing the results in your notebook.  
 
