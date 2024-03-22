@@ -15,15 +15,15 @@ search_exclude: true
 | ------- | ------------- | --------------------------------------------------------------------------- |
 | **d20** | **Group**     | **Monsters**                                                                |
 | **1**   | Avian         | Phoenix, Roc, Wyvern                                                        |
-| **2**   | Beast         | Blood Elk, Grizzly Bear, Killer Bees, Night Cat, Viper, White Ape           |
-| **3**   | Behemoth      | Green Dragon, Purple Worm                                                   |
+| **2**   | Beast         | Blood Elk, Grizzly Bear, Killer Bees, Night Cat, Viper, White Ape, Wolf     |
+| **3**   | Behemoth      | Green Dragon, Purple Worm, Kraken                                           |
 | **4**   | Construct     | Bone Construct, Cobblehounds, Gargoyle                                      |
 | **5**   | Demon         | Hellhound, Nightmare                                                        |
 | **6**   | Extraplanar   | Eye of Terror, Mind Lasher                                                  |
-| **7**   | Fey           | Boggart, Dryad, Frost Elf, Pixie, Red Cap, Night Hag, Sea Hag               |
+| **7**   | Fey           | Boggart, Dryad, Frost Elf, Pixie, Red Cap, Night Hag, Sea Hag, Will-o-Wisp  |
 | **8**   | Giant         | Ettin, Sky Giant, Storm Giant, Titan                                        |
 | **9**   | Goblinoid     | Bugbear, Goblin, Hobgoblin, Ogre, Root Goblin, Troll, Wood Troll            |
-| **10**  | Humanoid      | Acolyte, Bandit, Frost Elf, Gnoll, Hooded Men                               |
+| **10**  | Humanoid      | Acolyte, Bandit, Frost Elf, Gnoll, Hooded Men, Triton                       |
 | **11**  | Hybrid        | Centaur, Manticore, Minotaur                                                |
 | **12**  | Incorporeal   | Invisible Stalker, Shadow                                                   |
 | **13**  | Insectoid     | Aranea, Burrowing Horror, Cave Locust, Giant Scorpion                       |
@@ -33,7 +33,7 @@ search_exclude: true
 | **17**  | Plant         | Creeping Vines, Root Witch, Shambling Mound, Treant                         |
 | **18**  | Shape Shifter | Swine Thing, Werewolf                                                       |
 | **19**  | Undead        | Crypt Guardian, Ghost, Ghoul, Lich, Mummy, Skeleton, Vampire, Wight, Zombie |
-| **20**  | Unusual       | Gelatinous Ooze, Rust Monster                                               |
+| **20**  | Unusual       | Gelatinous Ooze, Rust Monster, Warrior Snail                                |
 
 # Aranea
 
@@ -316,6 +316,13 @@ search_exclude: true
 - Hairless humanoids with canine-like features and scaly skin. Can see perfectly in the dark, but are harmed by direct sunlight. 
 - Use traps and ambush to defeat opponents. Often act in service of a more powerful creatures.
 
+# Kraken
+
+16 HP, 15 STR, 13 DEX, 8 WIL, arms (d10, _blast_)
+
+- Titanic, eight-armed saltwater monstrosities that build enormous "castles" deep below the ocean.
+- Terrorize ships and coastal cities alike in their obsessive search for building materials.
+
 # Lamia
 
 6 HP, 11 STR, 12 DEX, 16 WIL, toothy bite (d8)
@@ -544,6 +551,13 @@ still alive.
 - A sentient, bipedal tree with a vaguely humanoid face on its trunk. Found in the deepest part of the wood.
 - Speaks slowly and ponderously, with a deep voice. Timeless, living for thousands of years.
 
+# Triton
+
+6 HP, 12 STR, 15 DEX, 12 WIL, trident (d8)
+
+- Aquatic humanoids with silvery skin, blue-green hair, and scaled legs ending in fins. Dwell in warmer waters close to land.
+- Lair in beautiful castles sculpted from sea rock and coral. Command vast schools of fish for both protection and food.
+
 # Troll
 
 14 HP, 1 Armor, 14 STR, 12 DEX, 4 WIL,  claw (d8), club (d10)
@@ -582,6 +596,13 @@ still alive.
 - Resistant to magical attacks. Caster must make a WIL save for the intended effect to succeed.
 - Can teleport a short distance away at will. Hate Blink Dogs.
 
+# Warrior Snail
+
+4 HP, 2 Armor, 14 STR, 6 DEX, 3 WIL, tentacles (d8+d8)
+
+- Giant armored snails with heavy, club-like tentacles. 
+- Some species have colorful shells that can reflect magical attacks.
+
 # Water Elemental
 
 14 HP, 15 STR, 16 DEX, 4 WIL, spray (d8)
@@ -607,10 +628,24 @@ still alive.
 
 # Wight
 
-12 HP, 3 Armor, 16 STR, 8 DEX, 12 WIL, longsword (d10)
+12 HP, 3 Armor, 16 STR, 8 DEX, 12 WIL, long sword (d10)
 
 - Grotesque, fallen warriors, raised from death for ill purpose. Often bestrode an equally nightmarish steeds, leading lesser undead creatures into battle.
 - **Critical Damage**: On a fail, any STR loss is permanent.
+
+# Will-o-Wisp
+
+3 HP, 6 STR, 17 DEX, 12 WIL
+
+- Nocturnal spirits of cool flame, commonly found in dense woodlands, marshes, and swamps.
+- Known to lead travelers astray, to a corpse, or back home again.
+
+# Wolf
+
+6 HP, 12 STR, 14 DEX, 8 WIL, bite (d8)
+
+- Large canines that dwell primarily in forest or tundra. 
+- Can be trained with effort if captured at a young age.
 
 # Wood Troll
 
