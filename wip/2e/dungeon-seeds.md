@@ -92,7 +92,11 @@ Follow this procedure for any Dungeon POIs in your setting. Refer to the dungeon
 
 ### History
 
-Who built the dungeon? What was its originally used for? Perhaps it was once a great forge, capable of building the world's most powerful weapon. Or maybe it was once a burial site for ancient kings, binding their souls to the lands they once ruled. Roll on the tables below, noting the results in your notebook.
+Who built the dungeon? What was its originally used for? Perhaps it was once a great forge, capable of building the world's most powerful weapon. Or maybe it was once a burial site for ancient kings, binding their souls to the lands they once ruled. Roll on the tables below, noting the results in your notebook. Then answer the following questions: 
+
+_"What kind of dungeon is this, and what makes it unusual?"_
+
+_"Why was this dungeon built, how was it built, and what caused its downfall?"_
 
 #### Purpose
 
@@ -180,9 +184,13 @@ Roll 2d20 and combine the results.
 
 ### Denizens
 
-Most dungeons will have creatures that _live_ there and make it their home. The following table can be used to describe the general attitude of any or all of the intelligent creatures in the dungeon. Roll on the Traits table, writing the results in your notebook. This describes the general attitude of the creatures found in the dungeon.
+Most dungeons will have creatures that _live_ there, and make it their home. The following table can be used to describe the general attitude of any or all of the intelligent creatures in the dungeon. Roll on the Traits table, writing the results in your notebook. This describes the general attitude of the creatures found in the dungeon.
 
-Meanwhile, every dungeon should have at least one NPC that stands out from all the others. These types _prefer_ the dungeon life over any other, but still act differently than their brethren. They should be NPCs that the party can interact, trade, hire, aid, and so on. These strange creatures can be deeply involved or entirely neutral towards the dungeon's other denizens and Factions.  Roll on the Traits table again, writing the results in your notebook.
+Meanwhile, every dungeon should have at least one NPC that stands out from all the others. These types _prefer_ the dungeon life over any other, but still act differently than their brethren. They should be NPCs that the party can interact, trade, hire, aid, and so on. These strange creatures can be deeply involved or entirely neutral towards the dungeon's other denizens and Factions.  Roll on the Traits table again, writing the results in your notebook. Then answer the following questions:
+
+_"What do we know about the creatures and Factions that occupy the dungeon?"_
+
+_"What are each Factions trying to achieve, and what stands in their way?"_
 
 #### Traits
 
