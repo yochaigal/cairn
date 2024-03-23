@@ -394,7 +394,7 @@ Continuing on to the current inhabitants of our dungeon, we get the following re
 
 ### What do we know about the creatures and Factions that occupy the dungeon?
 
-_The current denizens of this dungeon are the descendants of the original Factions, and are typically pragmatic about their ceaseless war, unable to imagine a way out._
+_The current denizens of this dungeon are the descendants of the original Factions, are typically pragmatic about their ceaseless war, and cannot imagine a way out._
 
 ### What are each Factions trying to achieve, and what stands in their way?
 
@@ -418,50 +418,63 @@ Nestled within a dense, shrouded forest lies a temple made entirely of petrified
 
 **Lore**: _Dining Hall_. _Smell_.
 
-Long, rustic **tables** are arranged in horizontal rows. The lingering **smell** of root vegetables and cloves fills the air.
+Long, rustic **tables** are arranged in horizontal rows. The **smell** of root vegetables and cloves lingers in the air.
 
 - **Tables**: Large enough for 80 people, used by the cult before the split. 
-- **Smell**: 
+- **Smell**: Strongest near the North passage (towards **4**).
 
 #### 2 - Sitting Room
 
 **Special**: _Furniture_. _Falls_.
 
-Plush, **dust-covered** chairs and couches are arranged in a semi-circle around a black, wooden **chair**.
+Plush, **dust-covered** chairs and couches are arranged in a semi-circle around a black, wooden **chair**. The air in the room tastes stale.
 
-- **Dust**: Ignored for decades. The black chair is dust-free, however. 
-- **Chair**: Clean and shiny, as if new. Small straps are tied to the underside of the chair, which is bolted to the floor.
+- **Dust**: Most of the furniture appears long-abandoned, but the black chair is dust-free.
+- **Chair**: Clean and shiny, as if new. Ankle straps are tied to the underside of the chair, which is bolted to the floor.
   - A thin, nearly-invisible square line is cut around the chair.
-  - Sitting in the chair and strapping causes the floor beneath the chair to lower, descending to 3.
+  - Sitting in the chair and attaching the straps causes the floor beneath the chair to lower, descending to **3**.
 
-#### 3 - 
+#### 3 - Basilisk Lair
 
-**Monster**. _Lizard_. _Recuperating_.
+**Monster**: _Lizard_. _Recuperating_.
 
-A Basilisk, dozing after giving birth to a new clutch of eggs.
+A Basilisk sleeps on a nest built atop a slab of **wall** on the East side of the room. In the center of the room is a tall glass **cage** runs from the floor to the **ceiling**. 
 
-#### 4 - 
+- **Basilisk**: Recuperating after having just birthed a new clutch of eggs.
+  - She warms her eggs by sitting atop them, and will not leave them for very long. 
+- **Wall**: The passage East is still accessible, despite having collapsed. It is well-guarded by the Basilisk, however. 
+- **Cage**: Acts as an observation chute from **2**, where new acolytes were lowered into the chamber and forced to encounter the Basilisk.
 
-**Results**: Trap. Infects. Extinguishing.
+##### Basilisk
 
-#### 5 - 
+10 HP, 1 Armor, 12 STR, 13 DEX, 13 WIL, bite (d10)
 
-**Results**: Lore. Study. Decor.
+- Long, serpentine lizards that nest deep below the earth or in brambles just underfoot. 
+- Fighting a **Basilisk** without meeting its gaze is difficult (attacks facing it are _impaired_).
+- **Gaze**: A target facing the Basilisk is slowly petrified, from the bottom up, completely frozen after three rounds. An antidote can be brewed from the Basilisk's gizzards. The creature's reflection is harmless.
+
+#### 4 - Kitchen
+
+**Trap**: _Infects_. _Extinguishing_.
+
+#### 5 - Study
+
+**Lore**: _Study_. _Decor_.
 
 #### 6 - 
 
-**Results**: Special. Smoke. Illusion.
+**Special**: _Smoke_. _Illusion_.
 
 #### 7 - 
 
-**Results**: Trap. Confuses. Interacting.
+**Trap: _Confuses_. _Interacting_.
 
 #### 8 - 
 
-**Results**: Monster. Insectoid. Hiding.
+**Monster**: _Insectoid_. _Hiding_.
 
-A Burrowing Horror, hiding in wait beneath ___.
+A _Burrowing Horror_, hiding in wait beneath ___.
 
 #### 9 - 
 
-**Results**: Special. Mirror. Locks.
+**Special**: _Mirror_. _Locks_.
