@@ -457,6 +457,12 @@ A Basilisk sleeps on a nest built atop a slab of **wall** on the East side of th
 
 **Trap**: _Infects_. _Extinguishing_.
 
+A withered **corpse** is stretched across a large table in the center of the room. Rows of **shelves** line the floors. A **sconce** on the west wall burns twin blue flames.
+
+**Corpse**:
+**Shelves**:
+**Sconce**:
+
 #### 5 - Study
 
 **Lore**: _Study_. _Decor_.
