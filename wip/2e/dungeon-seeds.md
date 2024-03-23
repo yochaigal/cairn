@@ -13,9 +13,9 @@ search_exclude: true
 
 ### Purpose
 
-- Demonstrate signs of the original inhabitants, design, or goal of the dungeon. Displays its age and current use.
-- Consider was the dungeon was used for, and what is it used for now. 
-- What was the dungeon designed to keep out? What was it designed to keep _in_?
+- Demonstrate signs of the original inhabitants, design, or goal of the dungeon. Display its age and current use wherever possible.
+- Consider what the dungeon was used for, and what is it used for now. 
+- Consider what was the dungeon designed to keep out? What was it designed to keep _in_?
   
 ### Levels
 
@@ -24,7 +24,7 @@ search_exclude: true
   
 ### Layout
   
-- Create multiple entrances and exits. Add meaningful information to doorways to to help players avoid feeling railroaded.
+- Create multiple entrances and exits. Add meaningful information to doorways and exits to to help players avoid feeling railroaded.
 - Offer multiple routes between rooms and incorporate loops, but avoid creating tree-like structures with unnecessary dead ends.
 - Design choke points and other tactical opportunities to allow for interesting combat tactics.
 - Provide hiding spots for the players to gather information discreetly and allows them to exploit a dungeon's geography.
