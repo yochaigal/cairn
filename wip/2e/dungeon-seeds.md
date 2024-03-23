@@ -410,50 +410,58 @@ Nestled within a dense, shrouded forest lies a temple made entirely of petrified
 
 ### Example Map
 
-[![Click Me!](/img/2e/dungeon-seed-example-1.webp "Click to embiggen"){:height="60%" width="60%"}](/img/2e/dungeon-seed-example-1.webp)
-
+[![Click Me!](/img/2e/dungeon-setting-example-1.webp "Click to embiggen"){:height="60%" width="60%"}](/img/2e/dungeon-setting-example-1.webp)
 
 ### Example Rooms
 
+#### 1 - Dining Hall
 
-#### 1
+**Lore**: _Dining Hall_. _Smell_.
 
-**Results**: Lore. Dining Hall. Smell.
+Long, rustic **tables** are arranged in horizontal rows. The lingering **smell** of root vegetables and cloves fills the air.
 
-A rustic dining hall. Long tables are arranged in rows. The lingering smell of root vegetables and cloves fills the air.
+- **Tables**: Large enough for 80 people, used by the cult before the split. 
+- **Smell**: 
 
-#### 2
+#### 2 - Sitting Room
 
-**Results**: Special. Furniture. Animates.
+**Special**: _Furniture_. _Falls_.
 
-#### 3
+Plush, **dust-covered** chairs and couches are arranged in a semi-circle around a black, wooden **chair**.
 
-**Results**: Monster. Lizard. Recuperating.
+- **Dust**: Ignored for decades. The black chair is dust-free, however. 
+- **Chair**: Clean and shiny, as if new. Small straps are tied to the underside of the chair, which is bolted to the floor.
+  - A thin, nearly-invisible square line is cut around the chair.
+  - Sitting in the chair and strapping causes the floor beneath the chair to lower, descending to 3.
+
+#### 3 - 
+
+**Monster**. _Lizard_. _Recuperating_.
 
 A Basilisk, dozing after giving birth to a new clutch of eggs.
 
-#### 4
+#### 4 - 
 
 **Results**: Trap. Infects. Extinguishing.
 
-#### 5
+#### 5 - 
 
 **Results**: Lore. Study. Decor.
 
-#### 6
+#### 6 - 
 
 **Results**: Special. Smoke. Illusion.
 
-#### 7
+#### 7 - 
 
 **Results**: Trap. Confuses. Interacting.
 
-#### 8
+#### 8 - 
 
 **Results**: Monster. Insectoid. Hiding.
 
 A Burrowing Horror, hiding in wait beneath ___.
 
-#### 9
+#### 9 - 
 
 **Results**: Special. Mirror. Locks.
