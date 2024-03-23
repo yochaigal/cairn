@@ -11,15 +11,17 @@ search_exclude: true
 
 ## Principles
 
-- **Purpose**: Demonstrate signs of the original inhabitants, design, or goal of the dungeon. Display its age and current use wherever possible. Consider what the dungeon was used for, and what it is used for now. Consider what was the dungeon designed to keep out? What was it designed to keep _in_?
+- **Purpose**: Demonstrate signs of the original inhabitants, design, or goal of the dungeon. Display its age and current use wherever possible. Consider what the dungeon was used for, and what it is used for now. Consider what was the dungeon designed to keep out? What was it designed to keep _in_? A dungeon can have multiple purposes, and these can push against each other to create tension among its denizens.
 - **Levels**: Levels should represent increased danger as well as thematic intent. Each level pushes players to weigh the potential reward vs the risk.
 - **Layout**: Create multiple entrances and exits, offer multiple routes, design choke points, and provide hiding spots. Add meaningful and obvious information to doorways and exits.
 - **Verticality**: Incorporate tall rooms, climbable structures, and paths that allow movement up and over obstacles.
-- **Secret Areas**: Include hidden zones, ensuring at least one area might remain undiscovered but is worth finding.
+- **Secret Areas**: Include hidden zones, ensuring at least one area might remain undiscovered but is worth finding. Try to avoid hiding crucial information behind secret rooms.
 - **Rooms**: Vary room shapes, sizes, and functions. Use architectural motifs to connect rooms and provide hints of what's to come. Room descriptions should be easy to map and recall.
 - **Treasure**: Incorporate a variety of treasures beyond mere gold, such as knowledge, allies, trade goods, and artifacts. Add narrative elements to treasure to increase its non-monetary value.
-- **Challenges**: Create opportunities for the players to make their own decisions, so that their choices have the greatest possible impact. Create a sense of peril without making obstacles seem unbeatable. Overtly dangerous areas and creatures should be obvious. Create combat encounters that can be avoided with critical thinking or problem-solving. Use monsters and other obstacles to help tell the dungeon's story.
-- **NPCs & Factions**: Include engaging NPCs and factions with their own goals and agendas. Factions should interact with both the characters and one another, acting on their own regardless of the character's actions. Give them hierarchies and divisions that can be exploited. NPCs and monsters should communicate with the PCs, even during combat. Have them make threats, suggest compromises, or try to persuade the PCs whenever possible. 
+- **Challenges**: Allow the characters to drive the story by writing challenges without prescribed outcomes. Create a sense of peril, but avoid making obstacles seem unbeatable. Overtly dangerous areas and creatures should be obvious. Create combat encounters that can be avoided with critical thinking or problem-solving. Use monsters and other obstacles to help tell the dungeon's story.
+- **NPCs**: Include engaging NPCs with their own goals and agendas. These characters may _want_ to stay in the dungeon; they may even love it! NPCs and monsters should communicate with the PCs, even during combat. Have them make threats, suggest compromises, or try to persuade the PCs whenever possible. Every character wants something, and has a limit to what they might do to get it. Every 
+- **Factions**: Factions should interact with both the characters and one another, acting on their own regardless of the character's actions. Give them hierarchies and divisions that can be exploited. 
+- **Puzzles**: Create puzzles that have clear, actionable goals. Puzzles should reinforce the themes of the dungeon and build on its history. Make the challenge of the puzzle obvious, but the solution less so. Allow for multiple solutions, and for players to solve them using intelligence and critical thinking, not special abilities or tools. Create built-in clues on the puzzle's origin and its effects. 
 - **The Dungeon Map**: Put boring or repetitive stuff (exits, room shapes, etc.) on the map. Obvious exits should be described using clear, distinct language. Number your rooms to help avoid confusion when referencing the map.
 - **Room Keying**: Emphasize a room's most important aspects (typically obvious threats or NPCs). Describe elements that help orient the party to their surroundings. Be specific, but avoid describing how the characters should _feel_. Only describe what's happening _now_. If there is history here, the characters will discover it in play. Name each room!
 - **Describing a Dungeon**: Always reiterate what is _about_ to happen. Does that flaming barrel look stable, or like it might explode? Constantly re-state the party's surroundings, where they are in physical space, and what each character's senses are detecting. 
@@ -299,15 +301,6 @@ Roll 2d20 and combine the results.
 
 Special rooms areas are uncommon areas that feature a hidden or interactive element. This element can be a challenge, an obstacle, a puzzle, or all of the above. These rooms should offer difficult choices with long-term impacts. They might make dungeon exploration easier, but with a serious cost.
 
-##### Puzzles
-
-Puzzles should have: 
-- Clear, actionable goals
-- Obvious challenges, but not obvious solutions
-- Multiple solutions, solvable with intelligence and critical thinking, not special abilities or unique tools
-- Built-in clues about their origin and their effects
-- Elements that reinforce the themes of the dungeon
-
 Roll 2d20 and combine the results.
 
 |         |             |             |
@@ -398,21 +391,27 @@ _The current denizens of this dungeon are the descendants of the original Factio
 
 ### What are each Factions trying to achieve, and what stands in their way?
 
-One Faction seeks power over the alternate reality, but under no circumstances desires the reunification of the two sides. They believe that if the original Relic were recovered, they might bend its power to destroy the other Faction. However, every attempt to plumb the temple's depths has been countered by an attack by a far more powerful opponent that watches their every move.
+One Faction seeks to annihilate their former brethren, and under no circumstances desires the reunification of the two sides. They believe that if the original Relic were recovered, they might bend its power to destroy the other Faction. However, every attempt to plumb the temple's depths has been countered by an attack by a far more powerful opponent that watches their every move.
 
 The other Faction feel a great sense of shame over their ancestor's actions, and believes that if they were able to reunite the two Factions, they might make things right again. They believe that if the original Relic were recovered, they might bend its power to undue they Great Split in the temple, joining the two clans. Unfortunately, a long-standing tradition states that none of their blood may seek the Relic so as to avoid the mistakes of the past.
 
-### Conclusion
+### Dungeon Theme
 
 With some idea on the history, purpose, and denizens of the dungeon, we finally have our theme. Let's put it all together:  
 
-Nestled within a dense, shrouded forest lies a temple made entirely of petrified wood. Built by a fanatical cult to protect an ancient Relic, its entrance is concealed by a false menhirs. After dueling rituals collided, the temple broke along both ideological and structural boundaries. Today the descendants of these factions still vie for control, destruction and redemption, but are hindered by power imbalances and ancient tradition.
+Nestled within a dense, shrouded forest lies a temple made entirely of petrified wood. Built by a fanatical cult to protect an ancient Relic, its entrance is concealed by a false menhirs. After dueling rituals collided, the temple broke along both ideological and structural boundaries. Today the descendants of these factions still vie for control, destruction and redemption, but are hindered by power imbalances and ancient tradition. 
 
-### Example Map
+#### Dungeon Factions
+
+The **Azure Legion**
+
+The **Crimson Path**
+
+### Map
 
 [![Click Me!](/img/2e/dungeon-setting-example-1.webp "Click to embiggen"){:height="60%" width="60%"}](/img/2e/dungeon-setting-example-1.webp)
 
-### Example Rooms
+### Rooms
 
 #### 1 - Dining Hall
 
@@ -459,7 +458,7 @@ A Basilisk sleeps on a nest built atop a slab of **wall** on the East side of th
 
 A withered **corpse** is stretched across a large table in the center of the room. Rows of **shelves** line the floors. A **sconce** on the west wall burns twin blue flames.
 
-**Corpse**:
+**Corpse**: Dressed in the Red Robes of the **Crimson Path**.
 **Shelves**:
 **Sconce**:
 
