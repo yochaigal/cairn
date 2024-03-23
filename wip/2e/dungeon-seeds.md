@@ -9,32 +9,6 @@ search_exclude: true
 
 # Dungeon Seeds
 
-## Overview
-
-- Establish a theme
-- Find inspiration
-- Use examples from real life
-- Location
-- Setting
-- Entrance
-- Construction
-- History 
-- Original Use
-- Create the map
-- Do it however you can do it
-- Be ready to change it- a lot
-- Stock the rooms
-- Encounter tables
-- Good Keying
-- Put everything in maps (dimension, exits)
-- Numbering
-- Start with what matters most
-- Be specific
-- Ignore boring stuff
-- Only say what's happening _now_
-- Don't assume
-- Don't tell the PCs how they feel
-
 ## Principles
 
 ### Purpose
@@ -98,6 +72,7 @@ search_exclude: true
 ### Describing a Dungeon
 
 - Constantly re-state the party's surroundings, where they are in physical space, and what each character's senses are detecting.
+- Describe obvious exits using clear, distinct language. Consider what lies beyond those corridors, and what clues they might have left behind? Is there a change in elevation? Is air a different temperature? Is the light, smell, or sound distinct from where the characters are standing? 
 - Don't tell them how they feel. Say, "a long, jagged knife" rather than "an evil-looking knife."
 - Always reiterate what is _about_ to happen. Does the flaming barrel look stable, or like it might explode?
 - Describe elements that help orient the party to their surroundings. How close is a character to a potential danger? Are they above it, or below it? What side of an object are they standing on? Are they inside of or outside of a room, building, or structure?
@@ -444,9 +419,9 @@ For this example, let's assume we are looking at a POI generated using the metho
 
 ### What kind of dungeon is this, and what makes it unusual?
 
-_A remote forest temple, cut off from the world by a vast ocean of trees and shrubbery.
+_A remote forest temple, cut off from the world by a vast ocean of trees and shrubbery._
 
-We then roll on the **Purpose**, **Construction**, and **Ruination** tables we get the following results:
+We then roll on the **Purpose**, **Construction**, and **Ruination** tables and get the following results:
 
 - **Purpose**: The _Protection of rare artifacts_. Built by a _fanatical cult_. 
 - **Construction**: The entrance is _between a circle of menhirs_, and its foundation is built of the very same _petrified wood_ that surrounds it.
@@ -476,7 +451,7 @@ The other Faction feel a great sense of shame over their ancestor's actions, and
 
 With some idea on the history, purpose, and denizens of the dungeon, we finally have our theme. Let's put it all together:  
 
-Nestled within a dense, shrouded forest lies a temple made entirely of petrified wood. Built by a fanatical cult to protect an ancient Relic, its entrance is concealed by a false menhirs. After dual rituals collided, the temple was physically divided along ideological lines. Today, the descendants of these factions still vie for control and redemption, hindered by power imbalances and ancient tradition.
+Nestled within a dense, shrouded forest lies a temple made entirely of petrified wood. Built by a fanatical cult to protect an ancient Relic, its entrance is concealed by a false menhirs. After dueling rituals collided, the temple broke along both ideological and structural boundaries. Today the descendants of these factions still vie for control, destruction and redemption, but are hindered by power imbalances and ancient tradition.
 
 ### Example Map
 
