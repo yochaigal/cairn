@@ -24,7 +24,7 @@ search_exclude: true
   
 ### Layout
   
-- Create multiple entrances and exits. Add meaningful information to doorways and exits to to help players avoid feeling railroaded.
+- Create multiple entrances and exits. Add meaningful and obvious information to doorways and exits.
 - Offer multiple routes between rooms and incorporate loops, but avoid creating tree-like structures with unnecessary dead ends.
 - Design choke points and other tactical opportunities to allow for interesting combat tactics.
 - Provide hiding spots for the players to gather information discreetly and allows them to exploit a dungeon's geography.
@@ -71,11 +71,14 @@ search_exclude: true
 
 ### Describing a Dungeon
 
-- Constantly re-state the party's surroundings, where they are in physical space, and what each character's senses are detecting.
 - Describe obvious exits using clear, distinct language. Consider what lies beyond those corridors, and what clues they might have left behind? Is there a change in elevation? Is air a different temperature? Is the light, smell, or sound distinct from where the characters are standing? 
-- Don't tell them how they feel. Say, "a long, jagged knife" rather than "an evil-looking knife."
 - Always reiterate what is _about_ to happen. Does the flaming barrel look stable, or like it might explode?
 - Describe elements that help orient the party to their surroundings. How close is a character to a potential danger? Are they above it, or below it? What side of an object are they standing on? Are they inside of or outside of a room, building, or structure?
+- Put the boring or repetitive stuff on the maps. Exits, room shapes and sizes, etc.
+- Emphasize a room's most important aspects by placing them either first, or last. These are typically obvious threats or NPCs, described with bold or modified text. 
+- Be specific, but avoid describing something makes the characters _feel_. Say, "a long, jagged knife" rather than "an evil-looking knife." 
+- Only describe what's happening _now_, when the PCs enter the room. If there is history here, the PCs will discover it.
+- Number your rooms to help avoid confusion when referencing the map.
 
 ## Creating a Dungeon
 
