@@ -11,74 +11,29 @@ search_exclude: true
 
 ## Principles
 
-### Purpose
+- **Purpose**: Demonstrate signs of the original inhabitants, design, or goal of the dungeon. Display its age and current use wherever possible. Consider what the dungeon was used for, and what it is used for now. Consider what was the dungeon designed to keep out? What was it designed to keep _in_?
 
-- Demonstrate signs of the original inhabitants, design, or goal of the dungeon. Display its age and current use wherever possible.
-- Consider what the dungeon was used for, and what is it used for now. 
-- Consider what was the dungeon designed to keep out? What was it designed to keep _in_?
+- **Levels**: Levels should represent increased danger as well as thematic intent. Each level pushes players to weigh the potential reward vs the risk.
+
+- **Layout**: Create multiple entrances and exits, offer multiple routes, design choke points, and provide hiding spots. Add meaningful and obvious information to doorways and exits.
+
+- **Verticality**: Incorporate tall rooms, climbable structures, and paths that allow movement up and over obstacles.
   
-### Levels
+- **Secret Areas**: Include hidden zones, ensuring at least one area might remain undiscovered but is worth finding.
 
-- Levels in a dungeon should represent increased danger as well as thematic intent.
-- Each level should push the players to weight the balance of a potential reward vs the risk of continuing on.
-  
-### Layout
-  
-- Create multiple entrances and exits. Add meaningful and obvious information to doorways and exits.
-- Offer multiple routes between rooms and incorporate loops, but avoid creating tree-like structures with unnecessary dead ends.
-- Design choke points and other tactical opportunities to allow for interesting combat tactics.
-- Provide hiding spots for the players to gather information discreetly and allows them to exploit a dungeon's geography.
+- **Rooms**: Vary room shapes, sizes, and functions. Use architectural motifs to connect rooms and provide hints of what's to come. Room descriptions should be easy to map and recall.
 
-### Verticality
-
-- Make your rooms tall and create climbable structures.
-- Give players things to drop on to/from.
-- Make paths that let PCs go up and over, instead of just pushing through.
-  
-### Secret Areas
-
-- Design hidden zones for players to discover.
-- Provide subtle clues that say "something is off here" and "warning: death lies ahead."
-- Have at least one place that the players may never find. Make it worth it.
-  
-### Rooms
-
-- Vary room shapes, sizes, and functions.
-- Use architectural motifs to connect rooms thematically and provide a hint of what's to come.
-- Room descriptions should be easy to map and recall.
-  
-### Treasure
-
-- Ensure there's always something valuable to seek! That doesn't always mean gold.
-- Offer diverse forms of treasure, including knowledge, allies, trade goods, and artifacts.
-- Add narrative elements, so that some treasure has a greater narrative significance than monetary value.
-  
-### Challenges
-
-- Emphasize creating opportunities for players to make their own decisions, so that their choices have the greatest possible impact.
-- Monsters and obstacles are another way to inform the party of the dungeon's story.
-- Try to create a sense of peril without making obstacles seem unbeatable.
-- Overtly dangerous areas and creatures should be obvious.
-- Create combat encounters that can be avoided with critical thinking or problem solving.
+- **Treasure**: Incorporate a variety of treasures beyond mere gold, such as knowledge, allies, trade goods, and artifacts. Add narrative elements to treasure to increase its non-monetary value.
     
-### NPCs & Factions
+- **Challenges**: Create opportunities for the players to make their own decisions, so that their choices have the greatest possible impact. Create a sense of peril without making obstacles seem unbeatable. Overtly dangerous areas and creatures should be obvious. Create combat encounters that can be avoided with critical thinking or problem-solving. Use monsters and other obstacles to help tell the dungeon's story. 
 
-- Include NPCs for the players to engage with. These characters should _want_ to stay in the dungeon.
-- NPCs (and even monsters) should communicate with the PCs, even during combat. Have them make threats, suggest compromises, or try to persuade the PCs whenever possible.
-- Create factions with their own goals and agendas. Everyone wants something, and has a limit to what they might do to get it.
-- Factions should interact with one another, as well as the PCs. They should act _regardless_ of what the PCs may do.
-- Factions have hierarchies and divisions, both of which the PCs can potentially exploit to their own advantage.
+- **NPCs & Factions**: Include engaging NPCs and factions with their own goals and agendas. Factions should interact with both the characters and one another, acting on their own regardless of the character's actions. Give them hierarchies and divisions that can be exploited. NPCs and monsters should communicate with the PCs, even during combat. Have them make threats, suggest compromises, or try to persuade the PCs whenever possible. 
 
-### Describing a Dungeon
+- **The Dungeon Map**: Put boring or repetitive stuff (exits, room shapes, etc.) on the map. Obvious exits should be described using clear, distinct language. Number your rooms to help avoid confusion when referencing the map.  
 
-- Describe obvious exits using clear, distinct language. Consider what lies beyond those corridors, and what clues they might have left behind? Is there a change in elevation? Is air a different temperature? Is the light, smell, or sound distinct from where the characters are standing? 
-- Always reiterate what is _about_ to happen. Does the flaming barrel look stable, or like it might explode?
-- Describe elements that help orient the party to their surroundings. How close is a character to a potential danger? Are they above it, or below it? What side of an object are they standing on? Are they inside of or outside of a room, building, or structure?
-- Put the boring or repetitive stuff on the maps. Exits, room shapes and sizes, etc.
-- Emphasize a room's most important aspects by placing them either first, or last. These are typically obvious threats or NPCs, described with bold or modified text. 
-- Be specific, but avoid describing something makes the characters _feel_. Say, "a long, jagged knife" rather than "an evil-looking knife." 
-- Only describe what's happening _now_, when the PCs enter the room. If there is history here, the PCs will discover it.
-- Number your rooms to help avoid confusion when referencing the map.
+- **Room Keying**: Emphasize a room's most important aspects (typically obvious threats or NPCs). Describe elements that help orient the party to their surroundings. Be specific, but avoid describing how the characters should _feel_. Only describe what's happening _now_. If there is history here, the characters will discover it in play. 
+
+- **Running a Dungeon**: Always reiterate what is _about_ to happen. Does that flaming barrel look stable, or like it might explode? Constantly re-state the party's surroundings, where they are in physical space, and what each character's senses are detecting. 
 
 ## Creating a Dungeon
 
