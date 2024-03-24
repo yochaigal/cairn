@@ -500,7 +500,7 @@ Bookshelves wrap around every inch of wall, heaps of **books** stacked on dusty 
 - **Candelabra**: Unusual design, worth 500gp (four slots, brittle). 
   - The candles (5 uses) are still accessible (assuming they can be reached). When lit, they produce around 20ft of darkness that is impenetrable my non-magical light. They were placed here as a final insult against the old study.
 
-### 6 - Hall of Ash
+### 6 - The Fractured Hall
 
 **Special**: _Smoke_. _Illusion_.
 
@@ -521,7 +521,7 @@ Swirling **smoke** fills the air in a ceaseless typhoon of ash and embers, obscu
 
 ### 7 - 
 
-**Trap: _Confuses_. _Interacting_.
+**Trap**: _Confuses_. _Interacting_.
 
 ### 8 - 
 
@@ -538,4 +538,4 @@ The outline of a white **circle** is burnt into the ground in the center of the 
 - **Circle**: A remnant of the Faction's colliding rituals. It is mostly inert.
   - Stepping within the circle triggers a vision of a black, seed-shaped object being used to petrify a tree by a man wearing blue and red robes.
 
-- **Relic**:
+- **Woodturn**:
