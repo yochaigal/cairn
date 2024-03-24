@@ -413,7 +413,7 @@ The **Azure Legion** feel a great sense of shame over their ancestor's actions b
 
 ### Map
 
-[![Click Me!](/img/2e/dungeon-setting-example-1.webp "Click to embiggen"){:height="60%" width="60%"}](/img/2e/dungeon-setting-example-1.webp)
+[![Click Me!](/img/2e/dungeon-seed-example-1.webp "Click to embiggen"){:height="60%" width="60%"}](/img/2e/dungeon-seed-example-1.webp)
 
 ### Rooms
 
@@ -458,13 +458,14 @@ A Basilisk sleeps on a nest built atop a slab of **wall** on the East side of th
 
 #### 4 - Kitchen
 
-**Trap**: _Infects_. _Extinguishing_.
+**Trap**: _Poisons_. _Stepping_.
 
-A withered **corpse** is stretched across a large table in the center of the room. Rows of **shelves** line the floors. A **sconce** on the west wall burns twin blue flames.
+The withered **corpse** of a man is stretched atop a large table. A **sconce** on the West wall burns twin blue flames over the West exit. Open **cupboards** stand at knee-height on the North wall.
 
-**Corpse**: Dressed in the Red Robes of the **Crimson Path**.
-**Shelves**:
-**Sconce**:
+- **Corpse**: Dressed in the Red Robes of the **Crimson Path**. There are no obvious wounds or markings, save for a green crust around the man's lip.
+- **Sconce**: Entering or exiting through the West exit releases a poison gas spray, dealing d4 STR damage to anyone in the room (save to avoid losing consciousness).
+- **Cupboards**: Bare. The arrangement of the cupboards and the table make obvious that this room was once a communal kitchen. 
+  - One has a false back that can be depressed, disabling the poison gas trap. 
 
 #### 5 - Study
 
