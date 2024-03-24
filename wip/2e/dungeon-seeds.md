@@ -390,8 +390,8 @@ _It was designed by an extremist cult of forest druids to house reality-altering
 Continuing on to the current inhabitants of our dungeon, we get the following results (rolling for _two_ factions):
 
 - **Denizens**: The creatures living here are _practical,_ yet _unimaginative_.
-- **Faction A**: Goal: _Destruction_. Obstacle: _opposition_.
-- **Faction B**: Goal: _Redemption_. Obstacle: _tradition_.
+- **Faction A**: Goal: _Destruction_. Obstacle: _Opposition_.
+- **Faction B**: Goal: _Redemption_. Obstacle: _Tradition_.
 
 ### What do we know about the creatures and Factions that occupy the dungeon?
 
@@ -399,7 +399,7 @@ _The current denizens of this dungeon are the descendants of the original Factio
 
 ### What are each Factions trying to achieve, and what stands in their way?
 
-**The Crimson Path** would like to destroy their former brethren the **Azure Legion**, but are cowed by their opponent's prowess in battle. The Azure Legion feel great shame over the actions of their forebears, and believe that their redemption can only be achieved by way of finding the temple's original artifact. Unfortunately ancient custom decrees that no Azure member may seek the lost Relic.
+**The Crimson Path** would like to destroy their former brethren the **Azure Legion**, but are cowed by their opponent's prowess in battle. The Azure Legion feel great shame over the actions of their forebears, and believe that their redemption can only be achieved by way of finding and destroying the temple's hidden artifact. Unfortunately an ancient custom decrees that no one wearing the Azure cloth may seek the lost Relic.
 
 ### Dungeon Theme
 
@@ -407,15 +407,32 @@ With some idea on the history, purpose, and denizens of the dungeon, we finally 
 
 _Nestled within a dense, shrouded forest lies a temple made entirely of petrified wood. Built by a fanatical cult to protect an ancient Relic, its entrance is concealed by a false menhirs. Eventually the cult became divided, splitting into two opposed Factions. When their dueling rituals collided the temple was shattered, with each Faction taking one half. Today the descendants of these factions still vie for control, destruction and redemption, but are hindered by power imbalances and ancient tradition._
 
-_The Crimson Path believe that if the original Relic were recovered, they might bend its power to destroy their the Azure Legion forever. However every attempt to plumb the temple's depths has been countered by their former brethren._
+_The Crimson Path believe that if the original Relic were recovered, they might bend its power to destroy their the Azure Legion forever. However every attempt to plumb the temple's depths has been countered by their former brethren. A recent attack has left many of their number dead, and the remaining members have since fled the temple to regroup._
 
-_The Azure Legion feel a great sense of shame over their ancestor's actions believe that if the original Relic were recovered, they might bend its power to heal the Azure Legion, joining the temple as well as the two clans. Unfortunately, a long-standing tradition prohibits any members from seeking the Relic, so as to avoid the mistakes of the past._
+_The Azure Legion feel a great sense of shame over their ancestor's actions believe that if the original Relic were destroyed, the temple would be healed again and their shame expunged. Unfortunately, a long-standing tradition prohibits any members from seeking the Relic, so as to avoid the mistakes of the past._
 
 _In the center of the temple (between **3** and **4**) a massive crack (the Fracture) splits the dungeon in two, and acts as a sort of demilitarized zone. Both Factions realize that only death lies across its threshold._
+
+_Hidden deep within the dungeon is a Relic called the **Woodturn**. It is capable of petrifying trees, wood, or other plant life through mere contact. If not properly contained it could turn an entire forest into a wasteland!_
+
+#### Hooks
+
+- The Crimson Path has made a public offer of 300gp apiece for the safe retrieval of an "ancient relic" deep within the temple. The party may find some respite among the Red Robes, but otherwise the characters will be on their own in dealing with any "opposition." 
+- The party is contacted by an agent of the Azure Legion, acting in secret. The party is to find and destroy the **Woodturn**, an item of great power lost somewhere in the temple. The mission is to remain a secret, and any Factions of Red _or_ Blue will likely stand against them. The characters are to be paid 1000gp (total) for evidence of the Relic's destruction.
 
 ### Map
 
 [![Click Me!](/img/2e/dungeon-seed-example-1.webp "Click to embiggen"){:height="60%" width="60%"}](/img/2e/dungeon-seed-example-1.webp)
+
+### Entrance: Circle of Menhirs
+
+A small circle of 10' tall **stones** are set in a circle atop a **grassy** hill. White **trees** surround the glade on all sides.
+
+- **Grass**: A patch in the center is browner than the rest.
+  - A trap door is concealed underneath. Petrified wooden steps lead down to **1**.
+- **Stones**: Moss-covered, with thin, ruined writing in an ancient script.
+  - An expert in such matters can still determine that the stones are many centuries old.
+- **Trees**: Petrified, and as white as stone.
 
 ### 1 - Dining Hall
 
@@ -460,14 +477,14 @@ A Basilisk sleeps on a nest built atop a slab of **wall** on the East side of th
 
 **Trap**: _Poisons_. _Stepping_.
 
-The withered **corpse** of a man is stretched atop a large table. A **sconce** on the West wall burns twin blue flames over the West exit. Open **cupboards** stand at knee-height on the North wall.
+The withered **corpse** of a man is stretched atop a large butcher block. A **sconce** on the West wall burns twin blue flames over the West exit. Open **cupboards** stand at knee-height on the North wall.
 
-- **Corpse**: Dressed in the Red Robes of the Crimson Path. 
+- **Corpse**: Dressed in the Red Robes of the Crimson Path. Looks at least two weeks dead.
   - There are no obvious wounds or markings, save for a green crust around the man's lip.
-  - The Azure Legion have placed the corpse here as a warning to any that cross the Fracture.
-- **Sconce**: Entering or exiting through the West exit releases a poison gas spray, dealing d4 STR damage to anyone in the room (save to avoid losing consciousness).
-- **Cupboards**: Bare. The arrangement of the cupboards and the table make obvious that this room was once a communal kitchen. 
-  - One has a false back that can be depressed, disabling the poison gas trap. 
+  - He carries a white dagger made of petrified wood (d8).
+- **Sconce**: Passing beneath the flames releases a poison gas spray into the room, dealing d4 STR damage to anyone nearby (save to avoid losing consciousness).
+- **Cupboards**: Bare. The arrangement of the cupboards and the block seem to imply that this room was once a communal kitchen. 
+  - One of the cupboards has a false back that can be depressed, disabling the poison gas trap for one minute.
 
 ### 5 - Study
 
@@ -478,12 +495,19 @@ Bookshelves wrap around every inch of wall, heaps of **books** stacked on dusty 
 - **Books**: Untouched for decades. Clearing the dust from the spines reveal all manner of subjects.
   - Nearly every word in every book has been blacked out in stark black.
 - **Shelves**: Despite the lack of furniture, the room looks like it may have been a well-used study at one time.
-- **Candelabra**: Unusual design, worth at least 1000gp (four slots, brittle). 
+- **Candelabra**: Unusual design, worth 500gp (four slots, brittle). 
   - The candles (5 uses) are still accessible (assuming they can be reached). When lit, they produce around 20ft of darkness that is impenetrable my non-magical light. They were placed here as a final insult against the old study.
 
-### 6 - 
+### 6 - Hall of Ash
 
 **Special**: _Smoke_. _Illusion_.
+
+Swirling **smoke** fills the air in a ceaseless typhoon of ash and embers, obscuring the exits. The outline of a white **circle** is burnt into the ground in the center of the room.
+
+- **Smoke**: Emits no smell. Magical in nature, it was produced when the temple broke in two.
+  - 
+- **Circle**: A remnant of the Faction's colliding rituals. Mostly inert.
+  - Stepping within the circle triggers a vision of the **Woodturn** turning an entire forest into petrified wood.
 
 ### 7 - 
 
@@ -498,3 +522,5 @@ A _Burrowing Horror_, hiding in wait beneath ___.
 ### 9 - 
 
 **Special**: _Mirror_. _Locks_.
+
+- **Relic**:
