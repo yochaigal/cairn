@@ -11,20 +11,20 @@ search_exclude: true
 
 ## Principles
 
-- **Purpose**: Demonstrate signs of the original inhabitants, design, or goal of the dungeon. Display its age and current use wherever possible. Consider what the dungeon was used for, and what it is used for now. Consider what was the dungeon designed to keep out? What was it designed to keep _in_? A dungeon can have multiple purposes, and these can push against each other to create tension among its denizens.
-- **Levels**: Levels should represent increased danger as well as thematic intent. Each level pushes players to weigh the potential reward vs the risk.
-- **Layout**: Create multiple entrances and exits, offer multiple routes, design choke points, and provide hiding spots. Add meaningful and obvious information to doorways and exits.
-- **Verticality**: Incorporate tall rooms, climbable structures, and paths that allow movement up and over obstacles.
-- **Secret Areas**: Include hidden zones, ensuring at least one area might remain undiscovered but is worth finding. Try to avoid hiding crucial information behind secret rooms.
+- **Purpose**: Consider what the dungeon's original purpose as well as what it being used for today. Demonstrate a dungeon's history by including signs of its original inhabitants and their goals through. Sometimes a dungeon will have multiple purposes, and these can push against each other to create tension among its denizens.
+- **Levels**: Levels should represent both increased danger as well as thematic intent. On each level try to pushe players to weigh the risk of further exploration versus a potential reward.
+- **Layout**: Create multiple entrances and exits, offer multiple routes, design choke points, and provide hiding spots. Add meaningful and obvious information to room entrances and exits.
+- **Verticality**: Incorporate tall rooms, climbable structures, and paths that allow movement around and over obstacles.
+- **Secret Areas**: Include hidden zones, including at least one that will likley reamin undiscovered but is still worth finding. Try to avoid hiding crucial information behind secret rooms.
 - **Rooms**: Vary room shapes, sizes, and functions. Use architectural motifs to connect rooms and provide hints of what's to come. Room descriptions should be easy to map and recall.
 - **Treasure**: Incorporate a variety of treasures beyond mere gold, such as knowledge, allies, trade goods, and artifacts. Add narrative elements to treasure to increase its non-monetary value.
-- **Challenges**: Allow the characters to drive the story by writing challenges without prescribed outcomes. Create a sense of peril, but avoid making obstacles seem unbeatable. Overtly dangerous areas and creatures should be obvious. Create combat encounters that can be avoided with critical thinking or problem-solving. Use monsters and other obstacles to help tell the dungeon's story.
-- **NPCs**: Include engaging NPCs with their own goals and agendas. These characters may _want_ to stay in the dungeon; they may even love it! NPCs and monsters should communicate with the PCs, even during combat. Have them make threats, suggest compromises, or try to persuade the PCs whenever possible. Every character wants something, and has a limit to what they might do to get it. Every 
+- **Challenges**: Allow the characters to drive the story by writing challenges without prescribed outcomes. Create a sense of peril, but avoid making obstacles seem unbeatable. Overly dangerous areas and creatures should be obvious. Create encounters that can be avoided with critical thinking or problem-solving, not just violence. Use monsters and other obstacles to help tell the dungeon's story.
+- **NPCs**: Include engaging NPCs with their own goals and agendas. These characters may _want_ to stay in the dungeon; they may even love it! NPCs and monsters should communicate with the PCs, even during combat. Have them make threats, suggest compromises, or try to persuade the PCs whenever possible. Every character wants something, and has a limit to what they might do to get it. 
 - **Factions**: Factions should interact with both the characters and one another, acting on their own regardless of the character's actions. Give them hierarchies and divisions that can be exploited. 
-- **Puzzles**: Create puzzles that have clear, actionable goals. Puzzles should reinforce the themes of the dungeon and build on its history. Make the challenge of the puzzle obvious, but the solution less so. Allow for multiple solutions, and for players to solve them using intelligence and critical thinking, not special abilities or tools. Create built-in clues on the puzzle's origin and its effects. 
+- **Puzzles**: Create puzzles that have clear, actionable goals. Puzzles should reinforce the themes of the dungeon and build on its history. Make the challenge of the puzzle obvious, but the solution less so. Allow for multiple solutions, and for players to solve them using intelligence and critical thinking, not just special abilities or tools. Create built-in clues suggesting the puzzle's origin and its effects. 
 - **The Dungeon Map**: Put boring or repetitive stuff (exits, room shapes, etc.) on the map. Obvious exits should be described using clear, distinct language. Number your rooms to help avoid confusion when referencing the map.
 - **Room Keying**: Emphasize a room's most important aspects (typically obvious threats or NPCs). Describe elements that help orient the party to their surroundings. Be specific, but avoid describing how the characters should _feel_. Only describe what's happening _now_. If there is history here, the characters will discover it in play. Name each room!
-- **Describing a Dungeon**: Always reiterate what is _about_ to happen. Does that flaming barrel look stable, or like it might explode? Constantly re-state the party's surroundings, where they are in physical space, and what each character's senses are detecting. 
+- **Describing a Dungeon**: Always reiterate what is _about_ to happen. Does that flaming barrel look stable, or like it might explode? Constantly re-state the party's surroundings, where they are in physical space, and what their senses are detecting. Provide hints about what lies beyond the next corridor, including odors, sounds, and elevation.
 
 ## Creating a Dungeon
 
@@ -49,7 +49,7 @@ Follow this procedure for any Dungeon POIs in your setting. Refer to the dungeon
 
 ### History
 
-Who built the dungeon? What was its originally used for? Perhaps it was once a great forge, capable of building the world's most powerful weapon. Or maybe it was once a burial site for ancient kings, binding their souls to the lands they once ruled. Roll on the tables below, noting the results in your notebook. Then answer the following questions: 
+Who built the dungeon? What was its originally used for? Perhaps it was once a great forge, capable of building the world's most powerful weapon. Or maybe it was once a burial site for ancient kings, binding their souls to the lands they once ruled. Roll on the tables below, noting the results in your notebook, keeping the following questions in mind: 
 
 _"What kind of dungeon is this, and what makes it unusual?"_
 
@@ -143,7 +143,7 @@ Roll 2d20 and combine the results.
 
 Most dungeons will have creatures that _live_ there, and make it their home. The following table can be used to describe the general attitude of any or all of the intelligent creatures in the dungeon. Roll on the Traits table, writing the results in your notebook. This describes the general attitude of the creatures found in the dungeon.
 
-Meanwhile, every dungeon should have at least one NPC that stands out from all the others. These types _prefer_ the dungeon life over any other, but still act differently than their brethren. They should be NPCs that the party can interact, trade, hire, aid, and so on. These strange creatures can be deeply involved or entirely neutral towards the dungeon's other denizens and Factions.  Roll on the Traits table again, writing the results in your notebook. Then answer the following questions:
+Meanwhile, every dungeon should have at least one NPC that stands out from all the others. These types _prefer_ the dungeon life over any other, but still act differently than their brethren. They should be NPCs that the party can interact, trade, hire, aid, and so on. These strange creatures can be deeply involved or entirely neutral towards the dungeon's other denizens and Factions.  Roll on the Traits table again, writing the results in your notebook, keeping the following questions in mind: 
 
 _"What do we know about the creatures and Factions that occupy the dungeon?"_
 
@@ -383,7 +383,7 @@ We then roll on the **Purpose**, **Construction**, and **Ruination** tables and 
 - **Construction**: The entrance is _between a circle of menhirs_, and its foundation is built of the very same _petrified wood_ that surrounds it.
 - **Ruination**: _Divided_ (literally) by _competing rituals_.
 
-### Why was this dungeon built, how was it built, and what caused its downfall?
+### Why was this dungeon built and what caused its downfall?
 
 _It was designed by an extremist cult of forest druids to house reality-altering Relic. Its entrance is beneath a false stone in a circle of menhirs deep in the forest. The walls and ceiling of the dungeon are built from petrified wood, as the ancient artifact affects living plants, warping them to its will. A division within the cult faced off over control of the Relic, but fell victim to their own hubris and nearly destroyed one another. When two opposing rituals collided, the temple was split in two, divided along Factional lines. The Relic was lost in the aftermath._
 
@@ -403,7 +403,7 @@ _The current denizens of this dungeon are the descendants of the original Factio
 
 ### Dungeon Theme
 
-With some idea on the history, purpose, and denizens of the dungeon, we finally have our theme. Let's put it all together:  
+With some idea on the history, purpose, and denizens of the dungeon, we finally have our theme. Let's put it all together:
 
 _Nestled within a dense, shrouded forest lies a temple made entirely of petrified wood. Built by a fanatical cult to protect an ancient Relic, its entrance is concealed by a false menhirs. Eventually the cult became divided, splitting into two opposed Factions. When their dueling rituals collided the temple was shattered, with each Faction taking one half. Today the descendants of these factions still vie for control, destruction and redemption, but are hindered by power imbalances and ancient tradition._
 
@@ -517,7 +517,7 @@ Swirling **smoke** fills the air in a ceaseless typhoon of ash and embers, obscu
 
 5 HP, 11 STR, 12 DEX, 8 WIL, petrified short sword (d8)
 
-- Wears a Red or Blue robe to indicate their factional allegiance.
+- Wears a Red or Blue robe to indicate their factional allegiance. Are otherwise indistinguishable.
 
 ### 7 - 
 
