@@ -405,19 +405,19 @@ _The current denizens of this dungeon are the descendants of the original Factio
 
 With some idea on the history, purpose, and denizens of the dungeon, we finally have our theme. Let's put it all together:  
 
-Nestled within a dense, shrouded forest lies a temple made entirely of petrified wood. Built by a fanatical cult to protect an ancient Relic, its entrance is concealed by a false menhirs. Eventually the cult became divided, splitting into two opposed Factions. When their dueling rituals collided the temple was shattered, with each Faction taking one half. Today the descendants of these factions still vie for control, destruction and redemption, but are hindered by power imbalances and ancient tradition. 
+_Nestled within a dense, shrouded forest lies a temple made entirely of petrified wood. Built by a fanatical cult to protect an ancient Relic, its entrance is concealed by a false menhirs. Eventually the cult became divided, splitting into two opposed Factions. When their dueling rituals collided the temple was shattered, with each Faction taking one half. Today the descendants of these factions still vie for control, destruction and redemption, but are hindered by power imbalances and ancient tradition._
 
-The **Crimson Path** believe that if the original Relic were recovered, they might bend its power to destroy their the Azure Legion forever. However every attempt to plumb the temple's depths has been countered by their former brethren.
+_The Crimson Path believe that if the original Relic were recovered, they might bend its power to destroy their the Azure Legion forever. However every attempt to plumb the temple's depths has been countered by their former brethren._
 
-The **Azure Legion** feel a great sense of shame over their ancestor's actions believe that if the original Relic were recovered, they might bend its power to heal the **Azure Legion**, joining the temple as well as the two clans. Unfortunately, a long-standing tradition prohibits any members from seeking the Relic, so as to avoid the mistakes of the past.
+_The Azure Legion feel a great sense of shame over their ancestor's actions believe that if the original Relic were recovered, they might bend its power to heal the Azure Legion, joining the temple as well as the two clans. Unfortunately, a long-standing tradition prohibits any members from seeking the Relic, so as to avoid the mistakes of the past._
+
+_In the center of the temple (between **3** and **4**) a massive crack (the Fracture) splits the dungeon in two, and acts as a sort of demilitarized zone. Both Factions realize that only death lies across its threshold._
 
 ### Map
 
 [![Click Me!](/img/2e/dungeon-seed-example-1.webp "Click to embiggen"){:height="60%" width="60%"}](/img/2e/dungeon-seed-example-1.webp)
 
-### Rooms
-
-#### 1 - Dining Hall
+### 1 - Dining Hall
 
 **Lore**: _Dining Hall_. _Smell_.
 
@@ -426,7 +426,7 @@ Long, rustic **tables** are arranged in horizontal rows. The **smell** of root v
 - **Tables**: Large enough for 80 people, used by the cult before the split. 
 - **Smell**: Strongest near the North passage (towards **4**).
 
-#### 2 - Sitting Room
+### 2 - Sitting Room
 
 **Special**: _Furniture_. _Falls_.
 
@@ -437,7 +437,7 @@ Plush, **dust-covered** chairs and couches are arranged in a semi-circle around 
   - A thin, nearly-invisible square line is cut around the chair.
   - Sitting in the chair and attaching the straps causes the floor beneath the chair to lower, descending to **3**.
 
-#### 3 - Basilisk Lair
+### 3 - Basilisk Lair
 
 **Monster**: _Lizard_. _Recuperating_.
 
@@ -445,10 +445,10 @@ A Basilisk sleeps on a nest built atop a slab of **wall** on the East side of th
 
 - **Basilisk**: Recuperating after having just birthed a new clutch of eggs.
   - She warms her eggs by sitting atop them, and will not leave them for very long. 
-- **Wall**: The passage East is still accessible, despite having collapsed. It is well-guarded by the Basilisk, however. 
+- **Wall**: The passage East is still accessible, despite having collapsed. The Basilisk is too large to traverse the rubble.
 - **Cage**: Acts as an observation chute from **2**, where new acolytes were lowered into the chamber and forced to encounter the Basilisk.
 
-##### Basilisk
+### Basilisk
 
 10 HP, 1 Armor, 12 STR, 13 DEX, 13 WIL, bite (d10)
 
@@ -456,35 +456,45 @@ A Basilisk sleeps on a nest built atop a slab of **wall** on the East side of th
 - Fighting a **Basilisk** without meeting its gaze is difficult (attacks facing it are _impaired_).
 - **Gaze**: A target facing the Basilisk is slowly petrified, from the bottom up, completely frozen after three rounds. An antidote can be brewed from the Basilisk's gizzards. The creature's reflection is harmless.
 
-#### 4 - Kitchen
+### 4 - Kitchen
 
 **Trap**: _Poisons_. _Stepping_.
 
 The withered **corpse** of a man is stretched atop a large table. A **sconce** on the West wall burns twin blue flames over the West exit. Open **cupboards** stand at knee-height on the North wall.
 
-- **Corpse**: Dressed in the Red Robes of the **Crimson Path**. There are no obvious wounds or markings, save for a green crust around the man's lip.
+- **Corpse**: Dressed in the Red Robes of the Crimson Path. 
+  - There are no obvious wounds or markings, save for a green crust around the man's lip.
+  - The Azure Legion have placed the corpse here as a warning to any that cross the Fracture.
 - **Sconce**: Entering or exiting through the West exit releases a poison gas spray, dealing d4 STR damage to anyone in the room (save to avoid losing consciousness).
 - **Cupboards**: Bare. The arrangement of the cupboards and the table make obvious that this room was once a communal kitchen. 
   - One has a false back that can be depressed, disabling the poison gas trap. 
 
-#### 5 - Study
+### 5 - Study
 
 **Lore**: _Study_. _Decor_.
 
-#### 6 - 
+Bookshelves wrap around every inch of wall, heaps of **books** stacked on dusty **shelves**. An unlit **candelabra** hangs from the ceiling.
+
+- **Books**: Untouched for decades. Clearing the dust from the spines reveal all manner of subjects.
+  - Nearly every word in every book has been blacked out in stark black.
+- **Shelves**: Despite the lack of furniture, the room looks like it may have been a well-used study at one time.
+- **Candelabra**: Unusual design, worth at least 1000gp (four slots, brittle). 
+  - The candles (5 uses) are still accessible (assuming they can be reached). When lit, they produce around 20ft of darkness that is impenetrable my non-magical light. They were placed here as a final insult against the old study.
+
+### 6 - 
 
 **Special**: _Smoke_. _Illusion_.
 
-#### 7 - 
+### 7 - 
 
 **Trap: _Confuses_. _Interacting_.
 
-#### 8 - 
+### 8 - 
 
 **Monster**: _Insectoid_. _Hiding_.
 
 A _Burrowing Horror_, hiding in wait beneath ___.
 
-#### 9 - 
+### 9 - 
 
 **Special**: _Mirror_. _Locks_.
