@@ -458,12 +458,14 @@ Plush, **dust-covered** chairs and couches are arranged in a semi-circle around 
 
 **Monster**: _Lizard_. _Recuperating_.
 
-A Basilisk sleeps on a nest built atop a slab of **wall** on the East side of the room. In the center of the room is a tall glass **cage** runs from the floor to the **ceiling**. 
+A Basilisk sleeps on a nest built atop a slab of **wall** on the East side of the room. In the center of the room is a tall glass **cage** runs from the floor to the **ceiling**. A long, broken **chain** is attached to the South wall.
 
-- **Basilisk**: Recuperating after having just birthed a new clutch of eggs.
+- **Basilisk**: Recuperating after having just birthed a new clutch of three new eggs.
   - She warms her eggs by sitting atop them, and will not leave them for very long. 
+  - The eggs are worth 1000gp each. They _bulky_ and extremely fragile.
 - **Wall**: The passage East is still accessible, despite having collapsed. The Basilisk is too large to traverse the rubble.
 - **Cage**: Acts as an observation chute from **2**, where new acolytes were lowered into the chamber and forced to encounter the Basilisk.
+- **Chain**: Once used to trap the Basilisk here.
 
 ### Basilisk
 
@@ -502,12 +504,20 @@ Bookshelves wrap around every inch of wall, heaps of **books** stacked on dusty 
 
 **Special**: _Smoke_. _Illusion_.
 
-Swirling **smoke** fills the air in a ceaseless typhoon of ash and embers, obscuring the exits. The outline of a white **circle** is burnt into the ground in the center of the room.
+Swirling **smoke** fills the air in a ceaseless typhoon of ash and embers, obscuring the exits. Faint **movement** is visible through the smoke, as well as occasional shouting from the West side of the room. The **floor** is not level, with the East side raised a full foot higher than the West.
 
-- **Smoke**: Emits no smell. Magical in nature, it was produced when the temple broke in two.
-  - 
-- **Circle**: A remnant of the Faction's colliding rituals. Mostly inert.
-  - Stepping within the circle triggers a vision of the **Woodturn** turning an entire forest into petrified wood.
+- **Smoke**: Magical, it emits no sound or smell. The exits in this room are obscured.
+  - The doorway near the SW corridor contains the broken statue of a robed figure (see Basilisk, **3**).
+- **Movement**: Robed soldiers engaged in melee combat with unseen opponents.
+  - There are always at least 3 members of either Faction engaged in skirmishes here. They will generally attack any shapes that try to cross the room but are easily confused by the smoke.
+  - Due to the smoke all attacks are _impaired_ and it is impossible to determine friend from foe.
+- **Floor**: Split when the temple fractured. Along with the smoke, navigation in this room is extremely difficult.
+
+#### Druid Cultist 
+
+5 HP, 11 STR, 12 DEX, 8 WIL, petrified short sword (d8)
+
+- Wears a Red or Blue robe to indicate their factional allegiance.
 
 ### 7 - 
 
@@ -522,5 +532,10 @@ A _Burrowing Horror_, hiding in wait beneath ___.
 ### 9 - 
 
 **Special**: _Mirror_. _Locks_.
+
+The outline of a white **circle** is burnt into the ground in the center of the room.
+
+- **Circle**: A remnant of the Faction's colliding rituals. It is mostly inert.
+  - Stepping within the circle triggers a vision of a black, seed-shaped object being used to petrify a tree by a man wearing blue and red robes.
 
 - **Relic**:
