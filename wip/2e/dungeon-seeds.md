@@ -39,6 +39,14 @@ search_exclude: true
 
 Follow this procedure for any Dungeon POIs in your setting. Refer to the dungeon type table results from earlier, reading the results from your map. What image springs immediately to mind? Where is the dungeon is located? What does its entrance look like? Don't worry if you can't answer these questions yet. By the end of this process, you should be able to.
 
+### Overview
+
+- Describe the dungeon's original purpose, its construction, and finally its ruination.
+- Describe the dungeon's NPCs and Factions, including their unique traits and agendas.
+- Finalize the dungeon theme.
+- Create the dungeon's rooms.
+- Create an encounter table.
+
 ### History
 
 Who built the dungeon? What was its originally used for? Perhaps it was once a great forge, capable of building the world's most powerful weapon. Or maybe it was once a burial site for ancient kings, binding their souls to the lands they once ruled. Roll on the tables below, noting the results in your notebook. Then answer the following questions: 
@@ -382,8 +390,8 @@ _It was designed by an extremist cult of forest druids to house reality-altering
 Continuing on to the current inhabitants of our dungeon, we get the following results (rolling for _two_ factions):
 
 - **Denizens**: The creatures living here are _practical,_ yet _unimaginative_.
-- **Faction A**: Would like to see the _destruction_ of the other faction, but are cowed by their opponent's opposition.
-- **Faction B**: Seek a _redemption_ that they cannot find due to a great _tradition_.
+- **Faction A**: Goal: _Destruction_. Obstacle: _opposition_.
+- **Faction B**: Goal: _Redemption_. Obstacle: _tradition_.
 
 ### What do we know about the creatures and Factions that occupy the dungeon?
 
@@ -391,21 +399,17 @@ _The current denizens of this dungeon are the descendants of the original Factio
 
 ### What are each Factions trying to achieve, and what stands in their way?
 
-One Faction seeks to annihilate their former brethren, and under no circumstances desires the reunification of the two sides. They believe that if the original Relic were recovered, they might bend its power to destroy the other Faction. However, every attempt to plumb the temple's depths has been countered by an attack by a far more powerful opponent that watches their every move.
-
-The other Faction feel a great sense of shame over their ancestor's actions, and believes that if they were able to reunite the two Factions, they might make things right again. They believe that if the original Relic were recovered, they might bend its power to undue they Great Split in the temple, joining the two clans. Unfortunately, a long-standing tradition states that none of their blood may seek the Relic so as to avoid the mistakes of the past.
+**The Crimson Path** would like to destroy their former brethren the **Azure Legion**, but are cowed by their opponent's prowess in battle. The Azure Legion feel great shame over the actions of their forebears, and believe that their redemption can only be achieved by way of finding the temple's original artifact. Unfortunately ancient custom decrees that no Azure member may seek the lost Relic.
 
 ### Dungeon Theme
 
 With some idea on the history, purpose, and denizens of the dungeon, we finally have our theme. Let's put it all together:  
 
-Nestled within a dense, shrouded forest lies a temple made entirely of petrified wood. Built by a fanatical cult to protect an ancient Relic, its entrance is concealed by a false menhirs. After dueling rituals collided, the temple broke along both ideological and structural boundaries. Today the descendants of these factions still vie for control, destruction and redemption, but are hindered by power imbalances and ancient tradition. 
+Nestled within a dense, shrouded forest lies a temple made entirely of petrified wood. Built by a fanatical cult to protect an ancient Relic, its entrance is concealed by a false menhirs. Eventually the cult became divided, splitting into two opposed Factions. When their dueling rituals collided the temple was shattered, with each Faction taking one half. Today the descendants of these factions still vie for control, destruction and redemption, but are hindered by power imbalances and ancient tradition. 
 
-#### Dungeon Factions
+The **Crimson Path** believe that if the original Relic were recovered, they might bend its power to destroy their the Azure Legion forever. However every attempt to plumb the temple's depths has been countered by their former brethren.
 
-The **Azure Legion**
-
-The **Crimson Path**
+The **Azure Legion** feel a great sense of shame over their ancestor's actions believe that if the original Relic were recovered, they might bend its power to heal the **Azure Legion**, joining the temple as well as the two clans. Unfortunately, a long-standing tradition prohibits any members from seeking the Relic, so as to avoid the mistakes of the past.
 
 ### Map
 
