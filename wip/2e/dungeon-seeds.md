@@ -12,7 +12,7 @@ search_exclude: true
 ## Principles
 
 - **Purpose**: Consider what the dungeon's original purpose as well as what it being used for today. Demonstrate a dungeon's history by including signs of its original inhabitants and their goals through. Sometimes a dungeon will have multiple purposes, and these can push against each other to create tension among its denizens.
-- **Levels**: Levels should represent both increased danger as well as thematic intent. On each level try to pushe players to weigh the risk of further exploration versus a potential reward.
+- **Levels**: Levels should represent both increased danger as well as thematic intent. On each level try to push players to weigh the risk of further exploration versus a potential reward.
 - **Layout**: Create multiple entrances and exits, offer multiple routes, design choke points, and provide hiding spots. Add meaningful and obvious information to room entrances and exits.
 - **Verticality**: Incorporate tall rooms, climbable structures, and paths that allow movement around and over obstacles.
 - **Secret Areas**: Include hidden zones, including at least one that will likley reamin undiscovered but is still worth finding. Try to avoid hiding crucial information behind secret rooms.
