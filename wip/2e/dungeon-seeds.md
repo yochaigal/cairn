@@ -428,7 +428,7 @@ _Hidden deep within the dungeon is a Relic called the **Woodturn**. It is capabl
 
 A small circle of 10' tall **stones** are set in a circle atop a **grassy** hill. White **trees** surround the glade on all sides.
 
-- **Grass**: A patch in the center is browner than the rest.
+- **Grass**: A patch in the center of the circle is browner than the rest.
   - A trap door is concealed underneath. Petrified wooden steps lead down to **1**.
 - **Stones**: Moss-covered, with thin, ruined writing in an ancient script.
   - An expert in such matters can still determine that the stones are many centuries old.
@@ -506,22 +506,29 @@ Bookshelves wrap around every inch of wall, heaps of **books** stacked on dusty 
 
 Swirling **smoke** fills the air in a ceaseless typhoon of ash and embers, obscuring the exits. Faint **movement** is visible through the smoke, as well as occasional shouting from the West side of the room. The **floor** is not level, with the East side raised a full foot higher than the West.
 
-- **Smoke**: Magical, it emits no sound or smell. The exits in this room are obscured.
+- **Smoke**: Magical, it emits no sound or smell and can not be dissolved by normal means. The exits in this room are obscured.
   - The doorway near the SW corridor contains the broken statue of a robed figure (see Basilisk, **3**).
 - **Movement**: Robed soldiers engaged in melee combat with unseen opponents.
   - There are always at least 3 members of either Faction engaged in skirmishes here. They will generally attack any shapes that try to cross the room but are easily confused by the smoke.
-  - Due to the smoke all attacks are _impaired_ and it is impossible to determine friend from foe.
+  - Due to the smoke all attacks within the room are _impaired_.
 - **Floor**: Split when the temple fractured. Along with the smoke, navigation in this room is extremely difficult.
 
 #### Druid Cultist 
 
 5 HP, 11 STR, 12 DEX, 8 WIL, petrified short sword (d8)
 
-- Wears a Red or Blue robe to indicate their factional allegiance. Are otherwise indistinguishable.
+- Wears a red or blue robe to indicate their factional allegiance. Are otherwise indistinguishable.
 
-### 7 - 
+### 7 - False Relic
 
-**Trap**: _Confuses_. _Interacting_.
+**Trap**: _Crushes_. _Interacting_.
+
+Four **pillars** are arranged in a **square** pattern around a white **rod** suspended in air. 
+
+- **Pillars**: Built from floor to ceiling. Made of petrified wood. 
+  - Act as a magical, impenetrable barrier. At least two pillars must be destroyed for the barrier to dissolve. 
+  - If two _adjacent_ pillars are destroyed the room will collapse on its occupants (DEX save to escape or take 12 STR damage).
+- **Rod**: A facsimile of the **Woodturn** in **9**, but lacks any real power. Worthless.
 
 ### 8 - 
 
