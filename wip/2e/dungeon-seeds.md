@@ -530,13 +530,13 @@ Four **pillars** are arranged in a **square** pattern around a white **rod** sus
   - If two _adjacent_ pillars are destroyed, the room will collapse on its occupants (DEX save or take 12 STR damage).
 - **Rod**: A facsimile of the **Woodturn** found in **9**, but lacks any real power.
 
-### 8 - 
+### 8 - Hive
 
 **Monster**: _Insectoid_. _Hiding_.
 
-A _Burrowing Horror_, hiding in wait beneath ___.
+- **Mound** - A _Burrowing Horror_, hiding in wait beneath ___.
 
-### 9 - 
+### 9 - Mirror Room
 
 **Special**: _Mirror_. _Locks_.
 
