@@ -15,10 +15,10 @@ search_exclude: true
 - **Levels**: Levels should represent both increased danger as well as thematic intent. On each level try to push players to weigh the risk of further exploration versus a potential reward.
 - **Layout**: Create multiple entrances and exits, offer multiple routes, design choke points, and provide hiding spots. Add meaningful and obvious information to room entrances and exits.
 - **Verticality**: Incorporate tall rooms, climbable structures, and paths that allow movement around and over obstacles.
-- **Secret Areas**: Include hidden zones, including at least one that will likley reamin undiscovered but is still worth finding. Try to avoid hiding crucial information behind secret rooms.
+- **Secret Areas**: Include hidden zones, including at least one that will likely remain undiscovered but is still worth finding. Try to avoid hiding crucial information behind secret rooms.
 - **Rooms**: Vary room shapes, sizes, and functions. Use architectural motifs to connect rooms and provide hints of what's to come. Room descriptions should be easy to map and recall.
 - **Treasure**: Incorporate a variety of treasures beyond mere gold, such as knowledge, allies, trade goods, and artifacts. Add narrative elements to treasure to increase its non-monetary value.
-- **Challenges**: Allow the characters to drive the story by writing challenges without prescribed outcomes. Create a sense of peril, but avoid making obstacles seem unbeatable. Overly dangerous areas and creatures should be obvious. Create encounters that can be avoided with critical thinking or problem-solving, not just violence. Use monsters and other obstacles to help tell the dungeon's story.
+- **Challenges**: Allow the characters to drive the story by writing challenges without prescribed outcomes. Create a sense of peril, but avoid making obstacles seem unbeatable. Overly dangerous areas and creatures should be obvious. Create encounters that can be avoided with critical thinking and problem-solving, not just violence. Remember that monsters and other obstacles are another way to tell the dungeon's story.
 - **NPCs**: Include engaging NPCs with their own goals and agendas. These characters may _want_ to stay in the dungeon; they may even love it! NPCs and monsters should communicate with the PCs, even during combat. Have them make threats, suggest compromises, or try to persuade the PCs whenever possible. Every character wants something, and has a limit to what they might do to get it. 
 - **Factions**: Factions should interact with both the characters and one another, acting on their own regardless of the character's actions. Give them hierarchies and divisions that can be exploited. 
 - **Puzzles**: Create puzzles that have clear, actionable goals. Puzzles should reinforce the themes of the dungeon and build on its history. Make the challenge of the puzzle obvious, but the solution less so. Allow for multiple solutions, and for players to solve them using intelligence and critical thinking, not just special abilities or tools. Create built-in clues suggesting the puzzle's origin and its effects. 
@@ -525,10 +525,10 @@ Swirling **smoke** fills the air in a ceaseless typhoon of ash and embers, obscu
 
 Four **pillars** are arranged in a **square** pattern around a white **rod** suspended in air. 
 
-- **Pillars**: Built from floor to ceiling. Made of petrified wood. 
-  - Act as a magical, impenetrable barrier. At least two pillars must be destroyed for the barrier to dissolve. 
-  - If two _adjacent_ pillars are destroyed the room will collapse on its occupants (DEX save to escape or take 12 STR damage).
-- **Rod**: A facsimile of the **Woodturn** in **9**, but lacks any real power. Worthless.
+- **Pillars**: Built from floor to ceiling and made of petrified wood. 
+  - The space between the pillars is protected by a magical, impenetrable barrier. At least two pillars must be destroyed for the barrier to dissolve. 
+  - If two _adjacent_ pillars are destroyed, the room will collapse on its occupants (DEX save or take 12 STR damage).
+- **Rod**: A facsimile of the **Woodturn** found in **9**, but lacks any real power.
 
 ### 8 - 
 
