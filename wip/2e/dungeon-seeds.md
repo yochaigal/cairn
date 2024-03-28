@@ -228,7 +228,7 @@ Roll 2d20 and combine the results.
 | ------- | -------- |
 | **d6**  | **Room** |
 | **1-2** | Lore     |
-| **3-4** | Monster  |
+| **3**   | Monster  |
 | **4**   | Special  |
 | **5-6** | Trap     |
 
