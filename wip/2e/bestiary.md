@@ -15,7 +15,7 @@ search_exclude: true
 | ------- | ------------- | --------------------------------------------------------------------------- |
 | **d20** | **Group**     | **Monsters**                                                                |
 | **1**   | Avian         | Phoenix, Roc, Wyvern                                                        |
-| **2**   | Beast         | Blood Elk, Grizzly Bear, Killer Bees, Night Cat, Viper, White Ape, Wolf     |
+| **2**   | Beast         | Blood Elk, Grizzly Bear, Killer Bees, Night Cat, Viper, Wolf                |
 | **3**   | Behemoth      | Green Dragon, Purple Worm, Kraken                                           |
 | **4**   | Construct     | Bone Construct, Cobblehounds, Gargoyle                                      |
 | **5**   | Demon         | Hellhound, Nightmare                                                        |
@@ -618,13 +618,6 @@ still alive.
 - A ferocious lycanthrope that can transform into a wolf-shape at will.
 - Mundane attacks are _impaired_ against the werewolf, but weapons made of silver are _enhanced_.
 - **Critical Damage**: Target becomes infected with lycanthropy, transforming into a werewolf by the next full moon.
-
-# White Ape
-
-6 HP, 14 STR, 15 DEX, 12 WIL, claws (d6+d6), rocks (d6, _blast_)
-
-- Nocturnal gorillas covered in snow-white hair.
-- Defend their territory with threatening gestures followed by sudden violence.
 
 # Wight
 
