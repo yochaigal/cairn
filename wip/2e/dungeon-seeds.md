@@ -546,8 +546,9 @@ Four **pillars** are arranged in a **square** pattern around a white **rod** sus
 The floor is heavily broken, segmented by raised **tiles** of petrified flooring. Large **holes** are scattered throughout the ceiling.
 
 - **Tiles**: A catacomb of broken shards. The West exit is entirely obscured by the tiles.
-- **Holes**: Created by a _Burrowing Horror_, lying in wait in a hole near the West exit.
+- **Holes**: Created by a _Burrowing Horror_, lying in wait in one of five holes.
   - If the party ignores the ceiling entirely, it falls on the first PC to walk beneath it (ignore HP).
+  - The hole nearest the West exit leads up to **9**.
 
 #### Burrowing Horror
 
@@ -560,10 +561,10 @@ The floor is heavily broken, segmented by raised **tiles** of petrified flooring
 ### 9 - Mirror Room
 
 **Special**: _Mirror_. _Locks_.
-
-The outline of a white **circle** is burnt into the ground in the center of the room.
+  
+The outline of a white **circle** is burnt into the ground. On the East end of the room is a large **hole**.
 
 - **Circle**: A remnant of the Faction's colliding rituals. It is mostly inert.
-  - Stepping within the circle triggers a vision of a black, seed-shaped object being used to petrify a tree by a man wearing blue and red robes.
-
+  - Anyone stepping inside the circle triggers a vision of a black, seed-shaped object being used to petrify a tree by a man wearing blue and red robes.
 - **Woodturn**:
+- **Hole**: 
