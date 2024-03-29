@@ -405,7 +405,7 @@ _The current denizens of this dungeon are the descendants of the original Factio
 
 With some idea on the history, purpose, and denizens of the dungeon, we finally have our theme. Let's put it all together:
 
-_Nestled within a dense, shrouded forest lies a temple made entirely of petrified wood. Built by a fanatical cult to protect an ancient Relic, its entrance is concealed by a false menhirs. Eventually the cult became divided, splitting into two opposed Factions. When their dueling rituals collided the temple was shattered, with each Faction taking one half. Today the descendants of these factions still vie for control, destruction and redemption, but are hindered by power imbalances and ancient tradition._
+_Nestled within a dense, shrouded forest lies a temple made entirely of petrified wood. Built by a fanatical cult called the Children of the Eolith, the temple was designed to protect the Woodturn, an ancient Relic that could turn any plant to stone. The cult eventually split into two opposing Factions, and when their dueling rituals collided the temple was shattered, with each Faction taking one half. Today the descendants of these factions still vie for control, destruction and redemption, but are hindered by power imbalances and ancient tradition._
 
 _The Crimson Path believe that if the original Relic were recovered, they might bend its power to destroy their the Azure Legion forever. However every attempt to plumb the temple's depths has been countered by their former brethren. A recent attack has left many of their number dead, and the remaining members have since fled the temple to regroup._
 
@@ -423,6 +423,15 @@ _Hidden deep within the dungeon is a Relic called the **Woodturn**. It is capabl
 ### Map
 
 [![Click Me!](/img/2e/dungeon-seed-example-1.webp "Click to embiggen"){:height="60%" width="60%"}](/img/2e/dungeon-seed-example-1.webp)
+
+
+### The Fractured Temple
+
+#### Features Throughout
+
+- **Light**: Wall sconces are built into the walls in every room. None are lit.
+- **Smell**: Damp, dirt, and hints of sulfur.
+- **Noise**: Distant shouting, along with an occasional rumbling and creaking throughout.
 
 ### Entrance: Circle of Menhirs
 
@@ -530,11 +539,23 @@ Four **pillars** are arranged in a **square** pattern around a white **rod** sus
   - If two _adjacent_ pillars are destroyed, the room will collapse on its occupants (DEX save or take 12 STR damage).
 - **Rod**: A facsimile of the **Woodturn** found in **9**, but lacks any real power.
 
-### 8 - Hive
+### 8 - Nest
 
 **Monster**: _Insectoid_. _Hiding_.
 
-- **Mound** - A _Burrowing Horror_, hiding in wait beneath ___.
+The floor is heavily broken, segmented by raised **tiles** of petrified flooring. Large **holes** are scattered throughout the ceiling.
+
+- **Tiles**: A catacomb of broken shards. The West exit is entirely obscured by the tiles.
+- **Holes**: Created by a _Burrowing Horror_, lying in wait in a hole near the West exit.
+  - If the party ignores the ceiling entirely, it falls on the first PC to walk beneath it (ignore HP).
+
+#### Burrowing Horror
+
+6 HP, 1 Armor, 16 STR, 11 DEX, 4 WIL, bite (d10), acid squirt (d8, _blast_)
+
+- Huge insectoids with multiple legs and shiny black eyes. Subsists from dirt, roots, and flesh.
+- Burrows just beneath the surfaces to ambush unsuspecting creatures.
+- **Critical Damage**: Target loses a body part. Roll 1d6. 1: Head, 2-4: Leg, 5-6: Arm. 
 
 ### 9 - Mirror Room
 
