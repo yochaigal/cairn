@@ -360,8 +360,8 @@ Roll 2d20 and combine the results.
 | **14**  | Hypnotizes | Pushing       |
 | **15**  | Impales    | Reading       |
 | **16**  | Infects    | Speaking      |
-| **17**  | Lifts      | Speaking      |
-| **18**  | Poisons    | Taking        |
+| **17**  | Lifts      | Taking        |
+| **18**  | Poisons    | Talking       |
 | **19**  | Shocks     | Touching      |
 | **20**  | Shoots     | Tripping      |
 
@@ -405,7 +405,7 @@ _The current denizens of this dungeon are the descendants of the original Factio
 
 With some idea on the history, purpose, and denizens of the dungeon, we finally have our theme. Let's put it all together:
 
-_Nestled within a dense, shrouded forest lies a temple made entirely of petrified wood. Built by a fanatical cult called the Children of the Eolith, the temple was designed to protect the Woodturn, an ancient Relic that could turn any plant to stone. The cult eventually split into two opposing Factions, and when their dueling rituals collided the temple was shattered, with each Faction taking one half. Today the descendants of these factions still vie for control, destruction and redemption, but are hindered by power imbalances and ancient tradition._
+_Nestled within a dense, shrouded forest lies a temple made entirely of petrified wood. Built by a fanatical cult called the Children of Eolith, the temple was designed to protect the Woodturn, an ancient Relic that could turn any plant to stone. The cult eventually split into two opposing Factions, and when their dueling rituals collided the temple was shattered, with each Faction taking one half. Today the descendants of these factions still vie for control, destruction and redemption, but are hindered by power imbalances and ancient tradition._
 
 _The Crimson Path believe that if the original Relic were recovered, they might bend its power to destroy their the Azure Legion forever. However every attempt to plumb the temple's depths has been countered by their former brethren. A recent attack has left many of their number dead, and the remaining members have since fled the temple to regroup._
 
@@ -432,6 +432,7 @@ _Hidden deep within the dungeon is a Relic called the **Woodturn**. It is capabl
 - **Light**: Wall sconces are built into the walls in every room. None are lit.
 - **Smell**: Damp, dirt, and hints of sulfur.
 - **Noise**: Distant shouting, along with an occasional rumbling and creaking throughout.
+- **Build**: The walls and floor are made of a white, petrified wood that is malleable with effort.
 
 ### Entrance: Circle of Menhirs
 
@@ -545,10 +546,10 @@ Four **pillars** are arranged in a **square** pattern around a white **rod** sus
 
 The floor is heavily broken, segmented by raised **tiles** of petrified flooring. Large **holes** are scattered throughout the ceiling.
 
-- **Tiles**: A catacomb of broken shards. The West exit is entirely obscured by the tiles.
-- **Holes**: Created by a _Burrowing Horror_, lying in wait in one of five holes.
-  - If the party ignores the ceiling entirely, it falls on the first PC to walk beneath it (ignore HP).
-  - The hole nearest the West exit leads up to **9**.
+- **Tiles**: A maze of broken shards. The West exit is entirely obscured by the tiles.
+- **Holes**: Created by a _Burrowing Horror_. 
+  - If the party ignores the ceiling, it attacks the first PC that walks under a hole (ignore HP).
+  - The hole nearest the West exit leads up to **9** (20ft from the ceiling to the exit).
 
 #### Burrowing Horror
 
@@ -562,9 +563,17 @@ The floor is heavily broken, segmented by raised **tiles** of petrified flooring
 
 **Special**: _Mirror_. _Locks_.
   
-The outline of a white **circle** is burnt into the ground. On the East end of the room is a large **hole**.
+A large **mirror** is built into the wall on the South side. The outline of a white **circle** is burnt into the ground. A large **hole** is dug into the ground on the East side.
 
-- **Circle**: A remnant of the Faction's colliding rituals. It is mostly inert.
-  - Anyone stepping inside the circle triggers a vision of a black, seed-shaped object being used to petrify a tree by a man wearing blue and red robes.
-- **Woodturn**:
-- **Hole**: 
+- **Mirror**: Shows no reflection. There is no seam between the glass and wall. 
+  - If damaged, the mirror will explode (d6 damage to anyone nearby). The victim is _deprived_, and their cuts do not heal until they have left the temple. 
+  - Behind the mirror is a cavity holding the **Woodturn**. 
+- **Circle**: A remnant of the ritual that fractured the temple. The powder is made from petrified wood. 
+  - When broken, it is inert and safe to cross.
+  - The boundary is mostly intact, but a small area has been brushed over. If restored, the temple will heal (with devastating consequences)
+- **Hole**: Leads to **C8** (30ft long).
+
+#### Woodturn
+
+- A white rod made of polished wood. Touching the rod to any living plant petrifies it. 3 Charges.
+- **Recharge**: 
