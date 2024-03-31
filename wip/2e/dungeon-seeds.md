@@ -544,12 +544,12 @@ Four **pillars** are arranged in a **square** pattern around a white **rod** sus
 
 **Monster**: _Insectoid_. _Hiding_.
 
-The floor is heavily broken, segmented by raised **tiles** of petrified flooring. Large **holes** are scattered throughout the ceiling.
+The floor is heavily broken, segmented by raised **tiles** of petrified flooring. Large **holes** are scattered throughout the low ceiling. There are no obvious exits.
 
 - **Tiles**: A maze of broken shards. The West exit is entirely obscured by the tiles.
 - **Holes**: Created by a _Burrowing Horror_. 
   - If the party ignores the ceiling, it attacks the first PC that walks under a hole (ignore HP).
-  - The hole nearest the West exit leads up to **9** (20ft from the ceiling to the exit).
+  - A hole on the West side is actually a 30ft tunnel leading up to **9**. Small grooves along the tunnel make climbing easy, provided one can reach them.
 
 #### Burrowing Horror
 
@@ -561,19 +561,17 @@ The floor is heavily broken, segmented by raised **tiles** of petrified flooring
 
 ### 9 - Mirror Room
 
-**Special**: _Mirror_. _Locks_.
+**Special**: _Mirror_. _Opens_.
   
-A large **mirror** is built into the wall on the South side. The outline of a white **circle** is burnt into the ground. A large **hole** is dug into the ground on the East side.
+A **mirror** hangs off a **track** on the West wall. A large **hole** is dug into the ground on the East side.
 
-- **Mirror**: Shows no reflection. There is no seam between the glass and wall. 
-  - If damaged, the mirror will explode (d6 damage to anyone nearby). The victim is _deprived_, and their cuts do not heal until they have left the temple. 
-  - Behind the mirror is a cavity holding the **Woodturn**. 
-- **Circle**: A remnant of the ritual that fractured the temple. The powder is made from petrified wood. 
-  - When broken, it is inert and safe to cross.
-  - The boundary is mostly intact, but a small area has been brushed over. If restored, the temple will heal (with devastating consequences)
-- **Hole**: Leads to **C8** (30ft long).
+**Track**: Runs in a full circle around the room, allowing the mirror to be moved along the track.
+- **Mirror**: If moved to the North wall, the reflection will reveal a small, invisible alcove on the South side.
+  - The alcove is hidden behind an otherwise illusory piece of wall. Hidden inside is the **Woodturn**. 
+  - If damaged, the mirror will explode (d6 damage to any nearby). The victim is _deprived_, and their cuts do not heal until they have left the temple.
+- **Hole**: Tunnel to **C8** (30ft).
 
 #### Woodturn
 
 - A white rod made of polished wood. Touching the rod to any living plant petrifies it. 3 Charges.
-- **Recharge**: 
+- **Recharge**: Burn the rod in heavy flames for a day and a night. Pour the ashes into pure spring water. The rod will reform. 
