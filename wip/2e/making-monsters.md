@@ -56,7 +56,6 @@ Typically an object (e.g. a sword or bow) or a natural weapon (claws or teeth).
 
 A unique action or power the creature can utilize both in and out of combat.     
 
-##### Considerations:
 - If an ability can be meaningfully avoided or defended against through traditional means, it is an Attack and interacts with HP.
 - If an ability cannot be meaningfully avoided or defended against through traditional means, it is an Ability.
 - If an ability only affects a single PC it should generally have an immediate effect with no chance to Save in that round (possibly not at all).
@@ -194,7 +193,7 @@ There is no perfect system for converting from other systems. Here are some tips
 
 - Magical creatures can just "know" a bunch of spells. In this case, make their corpses magical (and dangerous)!
 - Spells are tricky; you can give magic-users Spellbooks, but remember, they might _drop_ them when defeated.
-- I like to make 1d4 dropped Spellbooks implode ([Die of Fate](/cairn-srd#die-of-fate)), just to mix it up!
+- Consider making some of the dropped Spellbooks implode (use the Die of Fate to determine which).
 
 ### Saving Throws
 
@@ -224,24 +223,24 @@ _HD 5, Speed 120', Armor 14, Morale 11, Attack: +4 d8hp (claw, bite or choke)_
 - Special: Can transform into a fox or a maiden with one fox leg hidden (same stats) at will
 
 _**Using the example above, I can see that she:**_  
-- Appears as a 7-foot tall with a human woman with the head of a fox.
-- Looking at the stats, it seems like she doesn't have too high HP, and she's quite fast.
-- Her **ML** is pretty high. She's obviously quite willful.
-- Agile and lithe.
-- Attacks with deadly teeth and claws (choking her prey if possible).
-- Transforms into a fox at will.
-- Immune to metal weapons.
+- She appears as a 7-foot tall with a human woman with the head of a fox.
+- She doesn't have super high HP, and she's quite fast.
+- Her **ML** is pretty high, and she's obviously quite willful.
+- She is agile and lithe.
+- She attacks with teeth and claws (choking her prey if possible).
+- She can transform into a fox at will.
+- She is immune to metal weapons.
 
 _**What can we learn from this?**_  
-- She's fast, and probably savvy in a fight. Starting from **3 HP**, then counting 1 **HP** per additional **HD** is **8 HP**.
+- She's fast, and probably savvy in a fight. If we start from **3 HP** and add 1 **HP** per additional **HD**, that means she has **8 HP**.
 - I don't think foxes have protective hides, and she's otherwise human beside her head. **No Armor**.
-- She is decently strong. Normal human is 10 and she's bigger. **12 STR**.
+- She is decently strong. A normal human has 10 **STR** and she's a little bigger. **12 STR**.
 - I can imagine her hunting prey over the snowy tundra. She's fast. **14 DEX**.
-- Her **ML** is high but not the max. And foxes are pretty cunning, right? She'll stick it out in a tough situation. **15 WIL**.
-- I'd go with **bite (d6)** for the teeth attack, and **claws (d8+d8)**, the same as any two-handed weapon.
+- Her **ML** is high, and foxes are known for their cunning. **15 WIL**.
+- For her attacks I'd go with claws (d6+d6) and bite (d8).
 
 _**In summary, that leaves us with the following opening stat block:**_  
-_8 HP, 12 STR, 14 DEX, 15 WIL, teeth (d6), claws (d8+d8)_
+8 HP, 12 STR, 14 DEX, 15 WIL, claws (d6+d6), bite (d8)
 
 _**Now on to her abilities:**_  
 This is pretty straightforward. We simply read the fictional stat block we created earlier!
@@ -259,7 +258,7 @@ _**The finished result**_:
 
 #### Foxwoman
 
-8 HP, 12 STR, 14 DEX, 15 WIL, claws (d8+d8)
+8 HP, 12 STR, 14 DEX, 15 WIL, claws (d6+d6), bite (d8)
 
 - Can take the form of a fox, or a woman with a single, hidden fox led.
 - Immune to attacks from metal weapons.
