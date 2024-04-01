@@ -44,8 +44,8 @@ Follow this procedure for any Dungeon POIs in your setting. Refer to the dungeon
 - Describe the dungeon's original purpose, its construction, and finally its ruination.
 - Describe the dungeon's NPCs and Factions, including their unique traits and agendas.
 - Finalize the dungeon theme.
-- Create the dungeon's rooms.
-- Create an encounter table.
+- Create the map.
+- Stock the dungeon's rooms.
 
 ### History
 
@@ -210,10 +210,6 @@ Roll 2d20 and combine the results.
 | **19**  | Transformation | Tradition    |
 | **20**  | Wealth         | Weakness     |
 
-### Encounter Tables
-
-[Build encounter tables.]
-
 ## Create the Map
 
 - Roll **6-20 d6** dice on the dungeon map, ignoring any dice that fall off the page. These are the dungeon's _rooms_.
@@ -364,6 +360,8 @@ Roll 2d20 and combine the results.
 | **18**  | Poisons    | Talking       |
 | **19**  | Shocks     | Touching      |
 | **20**  | Shoots     | Tripping      |
+
+> **Encounter tables** help make a dungeon feel alive, providing challenges, respite, and opportunities for roleplay. They make exploration tense and unpredictable, as parties may encounter wandering monsters, Factions, NPCs, or signs of an approaching threat.
 
 ## Dungeon Example
 
