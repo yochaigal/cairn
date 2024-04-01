@@ -11,65 +11,89 @@ grand_parent: WIP
 
 ## Create a Monster
 
-- Roll on the [Monster Themes](#monster-features) table.
+- Roll on the [Monster Appearance](#monster-appearance) table.
 - Roll on the [Monster Abilities](#monster-abilities) table.
+- Roll on the [Monster Attacks](#monster-attacks) table.
 
-### Monster Features
+### Monster Appearance
 
 Roll 2d20 and combine the results.
 
-|         |             |           |
-| ------- | ----------- | --------- |
-| **d20** | **Feature** | **Trait** |
-| **1**   |             |           |
-| **2**   |             |           |
-| **3**   |             |           |
-| **4**   |             |           |
-| **5**   |             |           |
-| **6**   |             |           |
-| **7**   |             |           |
-| **8**   |             |           |
-| **9**   |             |           |
-| **10**  |             |           |
-| **11**  |             |           |
-| **12**  |             |           |
-| **13**  |             |           |
-| **14**  |             |           |
-| **15**  |             |           |
-| **16**  |             |           |
-| **17**  |             |           |
-| **18**  |             |           |
-| **19**  |             |           |
-| **20**  |             |           |
+|         |                |             |
+| ------- | -------------- | ----------- |
+| **d20** | **Appearance** | **Feature** |
+| **1**   | Albino         | Antennae    |
+| **2**   | Black          | Beak        |
+| **3**   | Crystalline    | Carapace    |
+| **4**   | Emaciated      | Claws       |
+| **5**   | Eyeless        | Fangs       |
+| **6**   | Feathered      | Feathers    |
+| **7**   | Gelatinous     | Fur         |
+| **8**   | Glowing        | Horns       |
+| **9**   | Hardened       | Markings    |
+| **11**  | Horned         | Scales      |
+| **12**  | Hunched        | Shell       |
+| **13**  | Iridescent     | Snout       |
+| **14**  | Polyocular     | Tail        |
+| **15**  | Scaled         | Talons      |
+| **16**  | Segmented      | Tentacles   |
+| **17**  | Skeletal       | Trunk       |
+| **18**  | Slimy          | Tusks       |
+| **19**  | Translucent    | Voice       |
+| **20**  | Twisted        | Wings       |
 
 ### Monster Abilities
 
 Roll 2d20 and combine the results.
 
-|         |             |             |
-| ------- | ----------- | ----------- |
-| **d20** | **Ability** | **Form**    |
-| **1**   | Absorb      | Animals     |
-| **2**   | Attracts    | Body        |
-| **3**   | Camouflages | Breath      |
-| **4**   | Changes     | Elements    |
-| **5**   | Controls    | Emotions    |
-| **6**   | Disables    | Energy      |
-| **7**   | Drains      | Environment |
-| **8**   | Duplicates  | Hearing     |
-| **9**   | Explodes    | Knowledge   |
-| **10**  | Grows       | Life        |
-| **11**  | Manipulates | Metal       |
-| **12**  | Moves       | Mind        |
-| **13**  | Regenerates | Plants      |
-| **14**  | Resists     | Self        |
-| **15**  | Shoots      | Shape       |
-| **16**  | Shrinks     | Skill       |
-| **17**  | Traps       | Smell       |
-| **18**  |             | Spirit      |
-| **19**  |             | Vision      |
-| **20**  |             | Weather     |
+|         |             |              |
+| ------- | ----------- | ------------ |
+| **d20** | **Ability** | **Form**     |
+| **1**   | Absorbs     | Body         |
+| **3**   | Amplifies   | Dreams       |
+| **4**   | Attracts    | Elements     |
+| **5**   | Binds       | Emotions     |
+| **6**   | Camouflages | Energy       |
+| **7**   | Conjures    | Hearing      |
+| **8**   | Controls    | Illusions    |
+| **9**   | Disables    | Life         |
+| **11**  | Duplicates  | Light        |
+| **12**  | Grows       | Memory       |
+| **13**  | Manipulates | Metal        |
+| **14**  | Reflects    | Plants       |
+| **15**  | Regenerates | Spirit       |
+| **2**   | Resists     | Stone        |
+| **16**  | Reverses    | Surroundings |
+| **17**  | Shapes      | Time         |
+| **18**  | Shrinks     | Vision       |
+| **19**  | Transforms  | Water        |
+| **20**  | Traps       | Weather      |
 
+### Monster Attacks
+
+|         |              |                     |
+| ------- | ------------ | ------------------- |
+| **d20** | **Type**     | **Critical Damage** |
+| **1**   | Bites        | Asphyxiates         |
+| **2**   | Blunts       | Bleeds profusely    |
+| **3**   | Burns        | Blinds              |
+| **4**   | Drains       | Breaks              |
+| **5**   | Electrocutes | Crushes             |
+| **6**   | Freezes      | Decays              |
+| **7**   | Gases        | Dissolves           |
+| **8**   | Kicks        | Ensnares            |
+| **9**   | Punches      | Explodes            |
+| **10**  | Shoots       | Grapples            |
+| **11**  | Slashes      | Incapacitates       |
+| **12**  | Smashes      | Lacerates           |
+| **13**  | Slices       | Paralyzes           |
+| **14**  | Sprays       | Petrifies           |
+| **15**  | Squeezes     | Poisons             |
+| **16**  | Stabs        | Punctures           |
+| **17**  | Stings       | Severs              |
+| **18**  | Throws       | Tramples            |
+| **19**  | Touches      | Transforms          |
+| **20**  | Whips        | Weakens             |
 
 ### Monster Stat Block Format
 
