@@ -16,7 +16,7 @@ search_exclude: true
 | **d20** | **Group**     | **Monsters**                                                                |
 | **1**   | Avian         | Phoenix, Roc, Wyvern                                                        |
 | **2**   | Beast         | Blood Elk, Grizzly Bear, Killer Bees, Night Cat, Viper, Wolf                |
-| **3**   | Behemoth      | Green Dragon, Purple Worm, Kraken                                           |
+| **3**   | Behemoth      | Green Dragon, Purple Worm                                                   |
 | **4**   | Construct     | Bone Construct, Cobblehounds, Gargoyle                                      |
 | **5**   | Demon         | Hellhound, Nightmare                                                        |
 | **6**   | Extraplanar   | Eye of Terror, Mind Lasher                                                  |
@@ -316,13 +316,6 @@ search_exclude: true
 - Hairless humanoids with canine-like features and scaly skin. Can see perfectly in the dark, but are harmed by direct sunlight. 
 - Use traps and ambush to defeat opponents. Often act in service of a more powerful creatures.
 
-# Kraken
-
-16 HP, 15 STR, 13 DEX, 8 WIL, arms (d10, _blast_)
-
-- Titanic, eight-armed saltwater monstrosities that build enormous "castles" deep below the ocean.
-- Terrorize ships and coastal cities alike in their obsessive search for building materials.
-
 # Lamia
 
 6 HP, 11 STR, 12 DEX, 16 WIL, toothy bite (d8)
@@ -560,7 +553,7 @@ still alive.
 
 # Troll
 
-14 HP, 1 Armor, 14 STR, 12 DEX, 4 WIL,  claw (d8), club (d10)
+14 HP, 1 Armor, 14 STR, 12 DEX, 4 WIL, bite (d10), claws (d8+d8)
 
 - Giant, warty humanoids of flesh and bark. Dwell underground or in deep forests, as well as the ruined homes of their former victims. Carnivorous. 
 - When taking **Critical Damage** a Troll will continue fighting, despite loss of flesh and limb. Only when their STR is 0 are they truly killed. Unless their heads are bathed in acid, fire, or powerful magic they will fully regenerate within 1d4 days.
@@ -642,7 +635,7 @@ still alive.
 
 # Wood Troll
 
-10 HP, 15 STR, 12 DEX, 7 WIL, claws and bite (d8+d8, blast)
+10 HP, 15 STR, 12 DEX, 7 WIL, claws (d8+d8), club (d10)
 
 - Large humanoids with elongated arms made of bark or root. They live in forests, sharing a deep connection with the vegetation around them.
 - If killed they will slowly regenerate unless their corpse is taken out of the forest, or burned with fire.

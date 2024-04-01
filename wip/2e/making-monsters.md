@@ -210,9 +210,9 @@ There is no perfect system for converting from other systems. Here are some tips
 | **Breath Attacks**             | **DEX** or **STR** |
 | **Spells, Rods or Staves**     | **WIL**            |
 
-## Use The Fiction
+### Use The Fiction
 
-Read the original stat block and surrounding commentary, then write a few sentences about the creature. Then convert what you've written to the Cairn monster stat block.
+The easiest way to convert a monster from another system is to read the original stat block and any associated text, then write a few sentences about the creature in plain English. Finally, convert what you've written to the Cairn monster stat block.
 
 Take for example this creature:
 
@@ -255,12 +255,11 @@ _**Easy, right? Now to make it useful:**_
 - Immune to attacks from metal weapons.
 - Critical damage: victim is choked unconscious, to be fed on soon after.
 
-_**And that's it!**_
-_**Behold, a converted Cairn monster:**_
+_**The finished result**_:
 
 #### Foxwoman
 
-8 HP, 12 STR, 14 DEX, 15 WIL, claws or hands (d8+d8)
+8 HP, 12 STR, 14 DEX, 15 WIL, claws (d8+d8)
 
 - Can take the form of a fox, or a woman with a single, hidden fox led.
 - Immune to attacks from metal weapons.
