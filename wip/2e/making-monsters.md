@@ -11,26 +11,56 @@ grand_parent: WIP
 
 ## Create a Monster
 
-### Definitions
-
-- **Hit Protection** is a creature's ability to avoid danger, whether through toughness, speed, or skill. Give average creatures 3 HP, give hardier ones 6 HP, and serious threats should get 10 HP or higher.
-- **Armor**: For some creatures this represents their natural toughness, for others it may be from something that is worn or carried. If a creature is able to withstand an attack without moving, raise this number. 
-- **Ability Scores**: 3 is deficient, 6 is weak, 10 is average, 14 is noteworthy, and 18 is legendary. Adjust as necessary.
-- **Strength**: Tracks overall health, physical power, and resistance to poisons. It is the ability of a creature to survive a direct hit, not its ability to avoid danger! 
-- **Dexterity**: Start with **10** as a base, and if the creature is particularly quick, agile, or nimble increase the number as necessary. If it is slow to respond, bulky, or clumsy, lower the number.
-- **Willpower**: Determines a creature's ability to withstand the influence of another, as well as their power over others. It also acts as a measurement of their defense in magical or spiritual matters.
-- **Attacks**:
-- **Abilities**:   
+To create a unique monster, follow these steps:
+- Roll on the [Monster Appearance](#monster-appearance) table.
+- Roll on the [Monster Abilities](#monster-abilities) table.
+- Roll on the [Monster Attacks](#monster-attacks) table.
+- Describe the creature's appearance, abilities, and attacks in plain English.
+- Create the creature's stats according to the principles, definitions, and stat block format below.
 
 ### Principles
 
-- If an action can be meaningfully avoided or defended against through traditional means, it is an Attack and interacts with HP.
-- If an action cannot be meaningfully avoided or defended against through traditional means, it is an Ability.
-- If an Ability only affects a single PC it should generally have an immediate effect with no chance to Save in that round (possibly not at all).
-- If an Ability is capable of affecting a group of PCs it should generally call for an immediate Save.
-- Adjust based on what is fun and interesting.
-- Use flavor and style to help them stand out. Players will remember a pig-faced humanoid looking for his missing sheep more easily than a generic goblin archer.
 - Use **Critical Damage** to lean into the threat or strangeness of any aggressive NPC.
+- Use flavor and style to help creatures stand out. Players will remember a pig-faced humanoid looking for his missing sheep more easily than a generic goblin archer.
+- Always adjust creature stats based on what is fun and interesting.
+
+#### **Hit Protection**
+
+A creature's ability to avoid danger, whether through toughness, speed, or skill. Give average creatures 3 HP, give hardier ones 6 HP, and serious threats should get 10 HP or higher.
+
+#### Armor
+
+For some creatures this represents their natural toughness, for others it may be from something that is worn or carried. If a creature is able to withstand an attack without moving, raise this number. 
+
+#### Ability Score
+
+3 is deficient, 6 is weak, 10 is average, 14 is noteworthy, and 18 is legendary. 
+
+#### Strength
+
+Tracks overall health, physical power, and resistance to poisons. It is the ability of a creature to survive a direct hit, not its ability to avoid danger! 
+
+#### Dexterity
+
+Start with **10** as a base, and if the creature is particularly quick, agile, or nimble increase the number as necessary. If it is slow to respond, bulky, or clumsy, lower the number.
+
+#### Willpower
+
+Determines a creature's ability to withstand the influence of another, as well as their power over others. It also acts as a measurement of their defense in magical or spiritual matters.
+
+#### Attacks
+
+Typically an object (e.g. a sword or bow) or a natural weapon (claws or teeth).
+
+#### Abilities
+
+A unique action or power the creature can utilize both in and out of combat.     
+
+##### Considerations:
+- If an ability can be meaningfully avoided or defended against through traditional means, it is an Attack and interacts with HP.
+- If an ability cannot be meaningfully avoided or defended against through traditional means, it is an Ability.
+- If an ability only affects a single PC it should generally have an immediate effect with no chance to Save in that round (possibly not at all).
+- If an ability is capable of affecting a group of PCs it should generally call for an immediate Save.
 
 ### Monster Stat Block Format
 
@@ -38,12 +68,6 @@ X HP, X Armor, X STR, X DEX, X WIL, Attack (dX, special items, _qualities_)
 - An engaging descriptor of appearance, demeanor, or living habits.
 - A quirk, tactic, or peculiarity that distinguish this creature.
 - Special effect or consequence of critical damage.
-
-### Monster Tables
-
-- Roll on the [Monster Appearance](#monster-appearance) table.
-- Roll on the [Monster Abilities](#monster-abilities) table.
-- Roll on the [Monster Attacks](#monster-attacks) table.
 
 ### Monster Appearance
 
@@ -81,12 +105,12 @@ Roll 2d20 and combine the results.
 | **d20** | **Power**   | **Target**   |
 | **1**   | Absorbs     | Body         |
 | **3**   | Amplifies   | Dreams       |
-| **4**   | Attracts    | Elements     |
+| **4**   | Attracts    | Element      |
 | **5**   | Binds       | Emotions     |
 | **6**   | Camouflages | Energy       |
-| **7**   | Conjures    | Hearing      |
-| **8**   | Controls    | Illusions    |
-| **9**   | Disables    | Life         |
+| **7**   | Conjures    | Health       |
+| **8**   | Controls    | Hearing      |
+| **9**   | Disables    | Illusions    |
 | **11**  | Duplicates  | Light        |
 | **12**  | Grows       | Memory       |
 | **13**  | Manipulates | Metal        |
