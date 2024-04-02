@@ -13,8 +13,8 @@ grand_parent: WIP
 
 To create a unique monster, follow these steps:
 - Roll on the [Monster Appearance](#monster-appearance) table.
-- Roll on the [Monster Abilities](#monster-abilities) table.
 - Roll on the [Monster Attacks](#monster-attacks) table.
+- Roll on the [Monster Abilities](#monster-abilities) table.
 - Describe the creature's appearance, abilities, and attacks in plain English.
 - Create the creature's stats according to the principles, definitions, and stat block format below.
 
@@ -50,7 +50,7 @@ Determines a creature's ability to withstand the influence of another, as well a
 
 #### Attacks
 
-Typically an object (e.g. a sword or bow) or a natural weapon (claws or teeth).
+Typically an object (e.g. sword or bow) or a natural weapon (e.g. claws or teeth).
 
 #### Abilities
 
@@ -95,6 +95,32 @@ Roll 2d20 and combine the results.
 | **19**  | Translucent  | Voice       |
 | **20**  | Twisted      | Wings       |
 
+### Monster Attacks
+
+|         |          |                     |
+| ------- | -------- | ------------------- |
+| **d20** | **Type** | **Critical Damage** |
+| **1**   | Bites    | Asphyxiates         |
+| **2**   | Blunts   | Bleeds              |
+| **3**   | Burns    | Blinds              |
+| **4**   | Freezes  | Breaks              |
+| **5**   | Gases    | Crushes             |
+| **6**   | Kicks    | Decays              |
+| **7**   | Punches  | Dissolves           |
+| **8**   | Shoots   | Ensnares            |
+| **9**   | Slams    | Explodes            |
+| **10**  | Slashes  | Grapples            |
+| **11**  | Slices   | Incapacitates       |
+| **12**  | Smashes  | Lacerates           |
+| **13**  | Sprays   | Liquefies           |
+| **14**  | Squeezes | Paralyzes           |
+| **15**  | Stabs    | Petrifies           |
+| **16**  | Stings   | Poisons             |
+| **17**  | Throws   | Punctures           |
+| **18**  | Touches  | Severs              |
+| **19**  | Whips    | Tramples            |
+| **20**  | Zaps     | Weakens             |
+
 ### Monster Abilities
 
 Roll 2d20 and combine the results.
@@ -122,45 +148,20 @@ Roll 2d20 and combine the results.
 | **19**  | Transforms  | Water        |
 | **20**  | Traps       | Weather      |
 
-### Monster Attacks
-
-|         |              |                     |
-| ------- | ------------ | ------------------- |
-| **d20** | **Type**     | **Critical Damage** |
-| **1**   | Bites        | Asphyxiates         |
-| **2**   | Blunts       | Bleeds profusely    |
-| **3**   | Burns        | Blinds              |
-| **4**   | Drains       | Breaks              |
-| **5**   | Electrocutes | Crushes             |
-| **6**   | Freezes      | Decays              |
-| **7**   | Gases        | Dissolves           |
-| **8**   | Kicks        | Ensnares            |
-| **9**   | Punches      | Explodes            |
-| **10**  | Shoots       | Grapples            |
-| **11**  | Slashes      | Incapacitates       |
-| **12**  | Smashes      | Lacerates           |
-| **13**  | Slices       | Paralyzes           |
-| **14**  | Sprays       | Petrifies           |
-| **15**  | Squeezes     | Poisons             |
-| **16**  | Stabs        | Punctures           |
-| **17**  | Stings       | Severs              |
-| **18**  | Throws       | Tramples            |
-| **19**  | Touches      | Transforms          |
-| **20**  | Whips        | Weakens             |
-
 ### Monster Example
 
-#### Appearance
+- **Appearance**: _Hunched_ + _Carapace_.
+- **Attack**: _Smashes_ + _Grapples_.
+- **Abilities**: _Disables_ + _Hearing_
 
-Crystalline Physique with a Carapace
+_An armadillo-like creature with a hard shell. It rolls into opponents, pulling them into its wild orbit. The roar of its movement drowns out any other sounds._
 
-#### Abilities
+This creature is physically tough, with higher than average **STR** and strong armor. It is probably fast but not maneuverable, and likely doesn't rely on skill or dexterity to avoid danger. It is brutish, but still a wild beast and only as willful as any creature just looking for its next meal. It attacks by rolling in a straight line, and should impact multiple targets.
 
-Duplication Power that targets Light
-
-#### Attack
-
-Drains the target, Breaks them
+6 HP, 14 STR, 6 DEX, 4 WIL, smash & roll (d10, _blast_)
+- An thick-shelled beast that attacks by rolling over its opponents in a line.  
+- The noise of its tumbling shell is deafening.
+- **Critical Damage**: Target is pulled into its rolling momentum, losing an additional 1 STR per round until freed (STR save to escape).  
 
 ## Converting Monsters
 
@@ -177,24 +178,6 @@ There is no perfect system for converting from other systems. Here are some tips
 | **ML**  | 4 | 8  | 10 | 12 |
 | **WIL** | 6 | 12 | 15 | 18 |
 
-### Combat
-
-- **Damage**: Can typically be copied as is from most OSR systems, but it's a good idea to check with the weapon's listed in the Marketplace.
-- **Multiple attacks**: Can convert to _Blast_ and/or the "two weapons" rule (e.g. d6+d6 is roll 2d6, keep highest).
-- **When in doubt**: Think about how much serious damage the creature is supposed to do. Remember that instead of raising attack damage a step, think about making it _enhanced_ in certain situations, or just use the _Blast_ and "two weapons" rule.
-
-### Abilities
-
-- Sometimes the mechanics of the original system simply _do not translate_. That's OK; try to take what's cool about the creature and write a "version" of their ability more appropriate to Cairn.
-- If the monster has an attack that asks the PCs to attempt to dodge or save against some ability, consider making the ability an out-of-combat "trap" that the PCs can trigger. Otherwise _make it succeed automatically_ during combat. The Warden can always telegraph the danger prior to combat to better prepare the PCs against the danger.
-- Abilities can sometimes be made into weapons, and assign a damage die, making Critical Damage reveal the damage. More often you should simply let the ability or attack _happen_. Combat is dangerous, and it is up to the Warden to properly telegraph danger before the fighting begins.
-
-### Magic
-
-- Magical creatures can just "know" a bunch of spells. In this case, make their corpses magical (and dangerous)!
-- Spells are tricky; you can give magic-users Spellbooks, but remember, they might _drop_ them when defeated.
-- Consider making some of the dropped Spellbooks implode (use the Die of Fate to determine which).
-
 ### Saving Throws
 
 - You can rely on _saving throws_ to glean more information about a creature's abilities, specifically their ability to avoid death by physical trauma, magic, or poison. 
@@ -208,6 +191,24 @@ There is no perfect system for converting from other systems. Here are some tips
 | **Paralysis or Petrification** | **WIL** or **STR** |
 | **Breath Attacks**             | **DEX** or **STR** |
 | **Spells, Rods or Staves**     | **WIL**            |
+
+### Combat
+
+- **Damage Die**: Can typically be copied "as is" from most OSR systems, but it's a good idea to check with the weapon's listed in the Marketplace first.
+- **Multiple attacks**: Convert to _blast_ or to multiple dice (e.g. d6+d6).
+- **Devastating Attacks**: Consider making the damage _enhanced_, assign the _blast_ tag, or multiple dice.
+
+### Abilities
+
+- Sometimes the mechanics of the original system simply _do not translate_. That's OK! Try to focus on what's cool about the creature and write a "version" of their ability more appropriate to Cairn.
+- Abilities can sometimes be made into attacks (with a damage die), leaving Critical Damage to reveal the real impact. 
+- If the monster has an attack that asks the PCs to attempt to dodge or save against some ability, consider making the ability an out-of-combat "trap" that the PCs can trigger. Otherwise, make it succeed automatically. Combat is dangerous, and it is up to the Warden to properly telegraph danger before the fighting begins.
+
+### Magic
+
+- Magical creatures can "know" a bunch of spells without needing to carry Spellbooks. In this case, make their corpses magical (and dangerous)!
+- Spells are tricky; you can give magic-users Spellbooks, but remember, they might _drop_ them when defeated.
+- Consider making some of the dropped Spellbooks implode (use the Die of Fate to determine which).
 
 ### Use The Fiction
 
