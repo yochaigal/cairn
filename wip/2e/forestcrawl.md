@@ -18,7 +18,7 @@ grand_parent: WIP
 
 ## Exploring The Wood
 - **Details** in a forestcrawl are close to each other. Assume that the PCs are taking the [**Explore**](https://cairnrpg.com/wip/2e/wilderness-exploration/#explore) action, no matter how many locations they visit. 
-- When travelling on clearly marked trails, a small forest zone (10-15 **Details**) can be explored in its entirety in a single [**Watch**](https://cairnrpg.com/wip/2e/wilderness-exploration/#watches). 
+- When traveling on clearly marked trails, a small forest zone (10-15 **Details**) can be explored in its entirety in a single [**Watch**](https://cairnrpg.com/wip/2e/wilderness-exploration/#watches). 
 - If the party attempts to reach a **Detail** by going "off-trail" (bushwhacking), the **Warden** should make any associated costs clear: typically time, effort (**Fatigue**), or any obvious dangers. Going off-trail also automatically triggers a roll on the [Wilderness Events](https://cairnrpg.com/wip/2e/wilderness-exploration/#wilderness-events) table.
 
 > If the party is interrupted, stops to investigate something, rest, etc. while exploring a forested zone, there may not be enough time to fully explore every connected **Detail**. In these cases, rely on the fiction and common sense to determine how much time is left in the day. 

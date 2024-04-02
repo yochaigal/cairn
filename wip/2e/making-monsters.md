@@ -103,25 +103,24 @@ Roll 2d20 and combine the results.
 |         |                                |                 |
 | ------- | ------------------------------ | --------------- |
 | **d20** | **Quirks**                     | **Weakness**    |
-| **1**   | Hoards books                   | Alcohol         |
-| **2**   | Won't cross running water      | Cold            |
-| **3**   | Speaks in rhymes               | Conversation    |
-| **4**   | Loves/hates its own reflection | Flattery        |
-| **5**   | Afraid of heights              | Games           |
-| **6**   | Collects trophies              | Gifts           |
-| **7**   | Loves/hates a specific color   | Iron            |
-| **8**   | Afraid of the dark             | Loud Noises     |
-| **9**   | Collects rare flowers          | Mirrors         |
-| **11**  | Fascinated by fire             | Moonlight       |
-| **12**  | Mimics voices                  | Music           |
-| **13**  | Draws symbols                  | Prepared Meals  |
-| **14**  | Moves in a straight line       | Puzzles         |
-| **15**  | Obsessively cleans             | Religious Icons |
-| **16**  | Cannot distinguish faces       | Salt            |
-| **17**  | Sweats rare minerals           | Silver          |
-| **18**  | Changes color at will          | Sunlight        |
-| **19**  | Loves/hates shiny objects      | True Name       |
-| **20**  | Afraid of heights              | Weak Spot       |
+| **1**   | Plants grow in its wake        | Alcohol         |
+| **2**   | Alters its size at will        | Cold            |
+| **3**   | Changes color at will          | Conversation    |
+| **4**   | Collects rare flowers          | Flattery        |
+| **5**   | Collects trophies              | Games           |
+| **6**   | Does not die of old age        | Gifts           |
+| **7**   | Draws symbols                  | Iron            |
+| **8**   | Fascinated by fire             | Loud Noises     |
+| **9**   | Hoards books                   | Mirrors         |
+| **11**  | Loves/hates a specific color   | Moonlight       |
+| **12**  | Loves/hates its own reflection | Music           |
+| **13**  | Loves/hates shiny objects      | Prepared Meals  |
+| **14**  | Mimics voices                  | Puzzles         |
+| **15**  | Moves in a straight line       | Religious Icons |
+| **16**  | Obsessively cleans             | Salt            |
+| **17**  | Sleeps upside down             | Silver          |
+| **18**  | Speaks in rhymes               | Sunlight        |
+| **19**  | Sweats rare minerals           | True Name       |
 
 ### Monster Attacks
 
