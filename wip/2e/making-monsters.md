@@ -54,7 +54,7 @@ Typically an object (e.g. sword or bow) or a natural weapon (e.g. claws or teeth
 
 #### Abilities
 
-A unique action or power the creature can utilize both in and out of combat.     
+A unique action or power the creature can utilize both in and out of combat.
 
 - If an ability can be meaningfully avoided or defended against through traditional means, it is an Attack and interacts with HP.
 - If an ability cannot be meaningfully avoided or defended against through traditional means, it is an Ability.
@@ -161,9 +161,9 @@ This creature is physically tough, with higher than average **STR** and strong a
 #### Thunder Snail
 
 6 HP, 14 STR, 6 DEX, 4 WIL, smash & roll (d10, _blast_)
-- An thick-shelled beast that attacks by rolling over its opponents in a line.  
+- An thick-shelled beast that attacks by rolling over its opponents in a line.
 - The noise of its tumbling shell is deafening.
-- **Critical Damage**: Target is pulled into its rolling momentum, losing an additional 1 STR per round until freed (STR save to escape).  
+- **Critical Damage**: Target is pulled into its rolling momentum, losing an additional 1 STR per round until freed (STR save to escape).
 
 ## Converting Monsters
 
@@ -234,7 +234,7 @@ _**Using the example above, I can see that she:**_
 - She can transform into a fox at will.
 - She is immune to metal weapons.
 
-_**What can we learn from this?**_  
+_**What can we learn from this?**_
 - She's fast, and probably savvy in a fight. If we start from **3 HP** and add 1 **HP** per additional **HD**, that means she has **8 HP**.
 - I don't think foxes have protective hides, and she's otherwise human beside her head. **No Armor**.
 - She is decently strong. A normal human has 10 **STR** and she's a little bigger. **12 STR**.
@@ -242,16 +242,16 @@ _**What can we learn from this?**_
 - Her **ML** is high, and foxes are known for their cunning. **15 WIL**.
 - For her attacks I'd go with claws (d6+d6) and bite (d8).
 
-_**In summary, that leaves us with the following opening stat block:**_  
+_**In summary, that leaves us with the following opening stat block:**_
 8 HP, 12 STR, 14 DEX, 15 WIL, claws (d6+d6), bite (d8)
 
-_**Now on to her abilities:**_  
+_**Now on to her abilities:**_
 This is pretty straightforward. We simply read the fictional stat block we created earlier!
 - We know what she looks like, and that she can transform into a fox at will.
 - She cannot be harmed by metal; I'm taking this to mean she's immune to _metal weapons_.
 - She chokes her victims.
 
-_**Easy, right? Now to make it useful:**_  
+_**Easy, right? Now to make it useful:**_
 - Appears as a 7-foot tall with a human woman with the head of a fox.
 - Transforms into a fox at will.
 - Immune to attacks from metal weapons.
