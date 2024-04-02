@@ -9,7 +9,7 @@ search_exclude: true
 
 # Dungeon Seeds
 
-## Principles
+## Dungeon Principles
 
 - **Purpose**: Consider what the dungeon's original purpose as well as what it being used for today. Demonstrate a dungeon's history by including signs of its original inhabitants and their goals. Sometimes a dungeon will have multiple purposes, and these can push against each other to create tension among its denizens.
 - **Levels**: Levels should represent both increased danger as well as thematic intent. On each level try to push players to weigh the risk of further exploration versus a potential reward.
@@ -24,6 +24,7 @@ search_exclude: true
 - **Puzzles**: Create puzzles that have clear, actionable goals. Puzzles should reinforce the themes of the dungeon and build on its history. Make the challenge of the puzzle obvious, but the solution less so. Allow for multiple solutions, and for players to solve them using intelligence and critical thinking, not just special abilities or tools. Create built-in clues suggesting the puzzle's origin and its effects. 
 - **The Dungeon Map**: Put boring or repetitive stuff (exits, room shapes, etc.) on the map. Obvious exits should be described using clear, distinct language. Number your rooms to help avoid confusion when referencing the map.
 - **Room Keying**: Emphasize a room's most important aspects (typically obvious threats or NPCs). Describe elements that help orient the party to their surroundings. Be specific, but avoid describing how the characters should _feel_. Only describe what's happening _now_. If there is history here, the characters will discover it in play. Name each room!
+- **Encounter Tables**: Create random events to help make a dungeon feel alive by making exploration tense and unpredictable, as parties may encounter wandering monsters, Factions, NPCs, or signs of an approaching threat. Try to provide challenges, moments of respite, or opportunities for roleplay. 
 - **Describing a Dungeon**: Always reiterate what is _about_ to happen. Does that flaming barrel look stable, or like it might explode? Constantly re-state a character's surroundings, where they are in physical space, and what their senses are detecting. Provide hints about what lies beyond the next corridor, including odors, sounds, and elevation.
 
 ## Creating a Dungeon
@@ -139,7 +140,7 @@ Roll 2d20 and combine the results.
 | **19**  | Unending         | Turned to Stone             |
 | **20**  | Warped           | Unresolved Spirits          |
 
-### Denizens
+### Dungeon Denizens
 
 Most dungeons will have creatures that _live_ there, and make it their home. The following table can be used to describe the general attitude of any or all of the intelligent creatures in the dungeon. Roll on the Traits table, writing the results in your notebook. This describes the general attitude of the creatures found in the dungeon.
 
@@ -147,7 +148,7 @@ Meanwhile, every dungeon should have at least one NPC that stands out from all t
 
 _"What do we know about the creatures and Factions that occupy the dungeon?"_
 
-_"What are each Factions trying to achieve, and what stands in their way?"_
+_"What is each Faction trying to achieve, and what stands in their way?"_
 
 #### Traits
 
@@ -214,7 +215,7 @@ Roll 2d20 and combine the results.
 
 - Roll **6-20 d6** dice on the dungeon map, ignoring any dice that fall off the page. These are the dungeon's _rooms_.
 - Write the face-up results on the page according to the [Dungeon Die Drop Table](#dungeon-die-drop-table). For example, the number **4** would indicate a **Special** room, denoted by the letter "S" on the page.
-- If a room feels "too far" from the rest, roll another die and follow the previous process to add a new room.
+  - If a room feels "too far" from the rest, roll another die and follow the previous process to add a new room.
 - Select the room closest to the page border. This is the _entrance_ to the dungeon.
 - Starting with the entrance, number each room on the dungeon map.
 
@@ -243,7 +244,7 @@ Roll 2d20 and combine the results.
 
 #### Lore
 
-Lore rooms should build on the theme of the dungeon, provide a valuable lesson, or connect the characters with an NPC or Faction. They might create a dilemma or moral conflict that unites the party, or puts them at odds with their mission. These rooms help re-contextualize the dungeon and its overarching themes, twisting the party's perspective a bit. At the minimum these rooms act as a curiosity, adding something memorable to the dungeon delving experience beyond simple danger and puzzle-solving. Of course, the characters never know that these rooms do not contain monsters, puzzles, or other challenges. This helps increase tension in the dungeon, while offering a potential respite and opportunity for growing the narrative. 
+Lore rooms should build on the theme of the dungeon, provide a valuable lesson, or connect the characters with an NPC or Faction. They might create a dilemma that unites the party or puts them at odds with their mission. At a minimum these rooms act as a curiosity, adding something memorable to the experience beyond danger and puzzle-solving. Of course, the characters should not know that these rooms do not contain danger or challenges. This helps increase tension in the dungeon, while offering a potential respite and opportunity for growing the narrative. 
 
 Roll 2d20 and combine the results.
 
@@ -333,7 +334,7 @@ Roll 2d20 and combine the results.
 
 #### Trap
 
-A trap is a dangerous and hidden object, typically triggered through interaction with a character.
+A trap is a dangerous and hidden object, typically triggered through interaction with a character. While traps are by their very nature not obvious, a good trap should contain hints as to their presence or the room's true purpose.
 
 Roll 2d20 and combine the results.
 
@@ -360,8 +361,6 @@ Roll 2d20 and combine the results.
 | **18**  | Poisons    | Talking       |
 | **19**  | Shocks     | Touching      |
 | **20**  | Shoots     | Tripping      |
-
-> **Encounter tables** help make a dungeon feel alive, providing challenges, respite, and opportunities for roleplay. They make exploration tense and unpredictable, as parties may encounter wandering monsters, Factions, NPCs, or signs of an approaching threat.
 
 ## Dungeon Example
 
@@ -395,7 +394,7 @@ Continuing on to the current inhabitants of our dungeon, we get the following re
 
 _The current denizens of this dungeon are the descendants of the original Factions, are typically pragmatic about their ceaseless war, and cannot imagine a way out._
 
-### What are each Factions trying to achieve, and what stands in their way?
+### What is each Faction trying to achieve, and what stands in their way?
 
 **The Crimson Path** would like to destroy their former brethren the **Azure Legion**, but are cowed by their opponent's prowess in battle. The Azure Legion feel great shame over the actions of their forebears, and believe that their redemption can only be achieved by way of finding and destroying the temple's hidden artifact. Unfortunately an ancient custom decrees that no one wearing the Azure cloth may seek the lost Relic.
 
@@ -415,13 +414,12 @@ _Hidden deep within the dungeon is a Relic called the **Woodturn**. It is capabl
 
 #### Hooks
 
-- The Crimson Path has made a public offer of 300gp apiece for the safe retrieval of an "ancient relic" deep within the temple. The party may find some respite among the Red Robes, but otherwise the characters will be on their own in dealing with any "opposition." 
-- The party is contacted by an agent of the Azure Legion, acting in secret. The party is to find and destroy the **Woodturn**, an item of great power lost somewhere in the temple. The mission is to remain a secret, and any Factions of Red _or_ Blue will likely stand against them. The characters are to be paid 1000gp (total) for evidence of the Relic's destruction.
+- The Crimson Path has made a public offer of 300gp apiece for the safe retrieval of an "ancient relic" deep within the temple. The characters will be on their own in dealing with any "opposition." 
+- The party is contacted by an agent of the Azure Legion, acting in secret. The party is to find and destroy the **Woodturn**, an item of great power lost somewhere in the temple. The mission is to remain a secret, and members of any Faction will likely stand against them. The characters are to be paid 1000gp (total).
 
 ### Map
 
 [![Click Me!](/img/2e/dungeon-seed-example-1.webp "Click to embiggen"){:height="60%" width="60%"}](/img/2e/dungeon-seed-example-1.webp)
-
 
 ### The Fractured Temple
 
