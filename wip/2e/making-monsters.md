@@ -13,6 +13,7 @@ grand_parent: WIP
 
 To create a unique monster, follow these steps:
 - Roll on the [Monster Appearance](#monster-appearance) table.
+- Roll on the [Monster Traits](#monster-traits) table.
 - Roll on the [Monster Attacks](#monster-attacks) table.
 - Roll on the [Monster Abilities](#monster-abilities) table.
 - Describe the creature's appearance, abilities, and attacks in plain English.
@@ -95,6 +96,33 @@ Roll 2d20 and combine the results.
 | **19**  | Translucent  | Voice       |
 | **20**  | Twisted      | Wings       |
 
+### Monster Traits
+
+Roll 2d20 and combine the results.
+
+|         |                                |                 |
+| ------- | ------------------------------ | --------------- |
+| **d20** | **Quirks**                     | **Weakness**    |
+| **1**   | Hoards books                   | Alcohol         |
+| **2**   | Won't cross running water      | Cold            |
+| **3**   | Speaks in rhymes               | Conversation    |
+| **4**   | Loves/hates its own reflection | Flattery        |
+| **5**   | Afraid of heights              | Games           |
+| **6**   | Collects trophies              | Gifts           |
+| **7**   | Loves/hates a specific color   | Iron            |
+| **8**   | Afraid of the dark             | Loud Noises     |
+| **9**   | Collects rare flowers          | Mirrors         |
+| **11**  | Fascinated by fire             | Moonlight       |
+| **12**  | Mimics voices                  | Music           |
+| **13**  | Draws symbols                  | Prepared Meals  |
+| **14**  | Moves in a straight line       | Puzzles         |
+| **15**  | Obsessively cleans             | Religious Icons |
+| **16**  | Cannot distinguish faces       | Salt            |
+| **17**  | Sweats rare minerals           | Silver          |
+| **18**  | Changes color at will          | Sunlight        |
+| **19**  | Loves/hates shiny objects      | True Name       |
+| **20**  | Afraid of heights              | Weak Spot       |
+
 ### Monster Attacks
 
 |         |          |                     |
@@ -151,18 +179,19 @@ Roll 2d20 and combine the results.
 ### Monster Example
 
 - **Appearance**: _Hunched_ + _Carapace_.
+- **Traits**: _Moves in a straight line_ + _Weak Spot_
 - **Attack**: _Smashes_ + _Grapples_.
 - **Abilities**: _Disables_ + _Hearing_
 
-_A snail-like creature with a hard shell. It rolls into opponents, pulling them into its wild orbit. The roar of its movement drowns out any other sounds._
+_A snail-like creature with a hard shell. It moves only in straight lines, and has a soft underbelly. It rolls into opponents, pulling them into its wild orbit. The roar of its movement drowns out any other sounds._
 
 This creature is physically tough, with higher than average **STR** and strong armor. It is probably fast but not maneuverable, and likely doesn't rely on skill or dexterity to avoid danger. It is brutish, but still a wild beast and only as willful as any creature just looking for its next meal. It attacks by rolling in a straight line, and should impact multiple targets.
 
 #### Thunder Snail
 
 6 HP, 14 STR, 6 DEX, 4 WIL, smash & roll (d10, _blast_)
-- An thick-shelled beast that attacks by rolling over its opponents in a line.
-- The noise of its tumbling shell is deafening.
+- An thick-shelled beast that attacks by rolling over its opponents in a line. The noise of its tumbling shell is deafening.
+- If rolled onto its back it becomes completely vulnerable.
 - **Critical Damage**: Target is pulled into its rolling momentum, losing an additional 1 STR per round until freed (STR save to escape).
 
 ## Converting Monsters
