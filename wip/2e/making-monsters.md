@@ -83,8 +83,9 @@ Roll 2d20 and combine the results.
 | **5**   | Eyeless      | Fangs       |
 | **6**   | Feathered    | Feathers    |
 | **7**   | Gelatinous   | Fur         |
-| **8**   | Glowing      | Horns       |
-| **9**   | Hardened     | Markings    |
+| **8**   | Glowing      | Gilled      |
+| **9**   | Hardened     | Horns       |
+| **10**  | Headless     | Markings    |
 | **11**  | Horned       | Scales      |
 | **12**  | Hunched      | Shell       |
 | **13**  | Iridescent   | Snout       |
@@ -100,31 +101,29 @@ Roll 2d20 and combine the results.
 
 Roll 2d20 and combine the results.
 
-|         |                           |                 |
-| ------- | ------------------------- | --------------- |
-| **d20** | **Quirks**                | **Weakness**    |
-| **1**   | Alters its size at will   | Alcohol         |
-| **2**   | Changes color at will     | Cold            |
-| **3**   | Collects rare flowers     | Conversation    |
-| **4**   | Collects trophies         | Flattery        |
-| **5**   | Does not die of old age   | Games           |
-| **6**   | Draws symbols             | Gifts           |
-| **7**   | Fascinated by fire        | Iron            |
-| **8**   | Hoards books              | Loud Noises     |
-| **9**   | Loves a specific color    | Mirrors         |
-| **10**  | Loves its own reflection  | Bright colors   |
-| **11**  | Loves shiny objects       | Moonlight       |
-| **12**  | Mimics voices             | Music           |
-| **13**  | Moves in a straight line  | Prepared Meals  |
-| **14**  | Narrates Everything       | Puzzles         |
-| **15**  | Obsessively cleans        | Religious Icons |
-| **16**  | Plants grow in its wake   | Salt            |
-| **17**  | Sleeps upside down        | Silver          |
-| **18**  | Speaks in rhymes          | Sunlight        |
-| **19**  | Sweats rare minerals      | True Name       |
-| **20**  | Won't cross running water | Weak Spot       |
-
-
+|         |                          |                 |
+| ------- | ------------------------ | --------------- |
+| **d20** | **Quirks**               | **Weakness**    |
+| **1**   | Alters its size at will  | Alcohol         |
+| **2**   | Changes color at will    | Cold            |
+| **3**   | Collects rare flowers    | Conversation    |
+| **4**   | Collects trophies        | Flattery        |
+| **5**   | Does not die of old age  | Games           |
+| **6**   | Draws symbols            | Gifts           |
+| **7**   | Fascinated by fire       | Iron            |
+| **8**   | Hoards books             | Loud Noises     |
+| **9**   | Loves a specific color   | Mirrors         |
+| **10**  | Reborn each day          | Bright colors   |
+| **11**  | Loves shiny objects      | Moonlight       |
+| **12**  | Mimics voices            | Music           |
+| **13**  | Moves in a straight line | Prepared Meals  |
+| **14**  | Narrates Everything      | Puzzles         |
+| **15**  | Obsessively cleans       | Religious Icons |
+| **16**  | Plants grow in its wake  | Salt            |
+| **17**  | Sleeps upside down       | Silver          |
+| **18**  | Speaks in rhymes         | Sunlight        |
+| **19**  | Sweats rare minerals     | True Name       |
+| **20**  | Reproduces Asexually     | Weak Spot       |
 
 ### Monster Attacks
 
