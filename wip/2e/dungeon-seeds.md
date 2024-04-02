@@ -311,10 +311,10 @@ Roll 2d20 and combine the results.
 |         |             |             |
 | ------- | ----------- | ----------- |
 | **d20** | **Special** | **Feature** |
-| **1**   | Creature    | Ages        |
-| **2**   | Books       | Alarms      |
-| **3**   | Bridge      | Animates    |
-| **4**   | Contraption | Attracts    |
+| **1**   | Books       | Ages        |
+| **2**   | Bridge      | Alarms      |
+| **3**   | Contraption | Animates    |
+| **4**   | Creature    | Attracts    |
 | **5**   | Door        | Charges     |
 | **6**   | Flames      | Closes      |
 | **7**   | Furniture   | Falls       |
@@ -322,12 +322,12 @@ Roll 2d20 and combine the results.
 | **9**   | Liquid      | Grows       |
 | **10**  | Mirror      | Illusion    |
 | **11**  | Mural       | Levitates   |
-| **12**  | Object      | Locks       |
-| **13**  | Pool        | Opens       |
-| **14**  | Shadows     | Reflects    |
-| **15**  | Smoke       | Repels      |
-| **16**  | Statue      | Reveals     |
-| **17**  | Surface     | Shifts      |
+| **12**  | Pool        | Locks       |
+| **13**  | Shadows     | Opens       |
+| **14**  | Smoke       | Reflects    |
+| **15**  | Statue      | Repels      |
+| **16**  | Surface     | Reveals     |
+| **17**  | Treasure    | Shifts      |
 | **18**  | Voices      | Silences    |
 | **19**  | Wheel       | Teleport    |
 | **20**  | Writing     | Transforms  |
