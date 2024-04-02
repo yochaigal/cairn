@@ -534,12 +534,12 @@ Roll 2d20 and combine the results.
 | **10**  | Hunting Lodge | Known for its Elaborate Defenses |
 | **11**  | Inn           | Occupants are Lawful to a Fault  |
 | **12**  | Observatory   | Occupants are Overly Formal      |
-| **13**  | Reservoir     | Outsiders Cannot Carry Weapons   |
-| **14**  | Sanatorium    | Part of an Illegal Trade Route   |
-| **15**  | Sanctuary     | Popular Pilgrim Destination      |
-| **16**  | Shrine        | Protects a Powerful Object       |
-| **17**  | Temple        | Reclusive Occupants              |
-| **18**  | Trading Post  | Ruled by a Powerful Faction      |
+| **13**  | Reservoir     | Outsiders are Barred             |
+| **14**  | Sanatorium    | Outsiders Cannot Carry Weapons   |
+| **15**  | Sanctuary     | Part of an Illegal Trade Route   |
+| **16**  | Shrine        | Popular Pilgrim Destination      |
+| **17**  | Temple        | Protects a Powerful Object       |
+| **18**  | Trading Post  | Reclusive Occupants              |
 | **19**  | Watchtower    | Sits on Natural Deposits         |
 | **20**  | Work Camp     | Technologically Advanced         |
 

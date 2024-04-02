@@ -9,14 +9,15 @@ search_exclude: true
 
 # On Names 
 
-- Settlements are often named after their unique features: the shape of the river nearby, or the large windmill in the town center. The residents then add a noun or adjective: _Windy Gulch, Black Tree Fort, Rotting Gardens_, etc.
-- Important places (like cities) should have important names, like those of heroes, religious/political figures, and important events: _The Chalet of Saint Ibiz, Queen's Harvest, Light of the Nine_, etc.
-- Wild and dangerous places are named after their obvious hazards: poison lake, greedy mines, etc. Some tell a story: _Luka's Folly, Dead Man's Path_, etc. 
+- Settlements are often named after their unique features: the shape of the river nearby, or the large windmill in the town center. The residents then add a noun or adjective: _Windy Gulch_, _Black Tree Fort_, etc.
+- Important places should have important names, like those of heroes, religious or political figures, and other events. _The Chalet of Saint Ibiz, Queen's Harvest, Light of the Nine_, etc.
+- Wild and dangerous places are named after an obvious hazards: _Poison Lake_, _Foggy Cliffs_, etc. 
+- Some names tell a story: _Luka's Folly, Dead Man's Path_, etc. 
+- Use the region's local terrain and the location's details where appropriate. 
 
 ## Generating Names
 
-- Starting with the **Heart**, roll on the [Names Formula](#names-formula) table to name each POI on the map.
-- Use both the region's local terrain as well as the specific POI details where appropriate. 
+- Roll on the [Names Formula](#names-formula) table.
 - Roll on the [Adjectives](#adjectives) and [Nouns](#nouns) table, and consult the [Terrain Synonyms](#terrain-synonyms) table for inspiration. 
 - Refer to the [Example Names](#example-names) for a model of each table result. 
 - [**Proper Nouns**] can be added to or even replace parts of a name, e.g. **Bruna's Ugly Gulch**. 
@@ -189,6 +190,7 @@ search_exclude: true
 
 
 ### Faction Names
+
 1. Roll on the [Faction Names Formula](#faction-names-formula) table below.
 2. Roll on the [Adjectives](#adjectives), [Nouns](#nouns), and [Group Types](#group-types) table where appropriate. 
 
