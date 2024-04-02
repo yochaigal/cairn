@@ -11,7 +11,7 @@ search_exclude: true
 
 ## Principles
 
-- **Purpose**: Consider what the dungeon's original purpose as well as what it being used for today. Demonstrate a dungeon's history by including signs of its original inhabitants and their goals through. Sometimes a dungeon will have multiple purposes, and these can push against each other to create tension among its denizens.
+- **Purpose**: Consider what the dungeon's original purpose as well as what it being used for today. Demonstrate a dungeon's history by including signs of its original inhabitants and their goals. Sometimes a dungeon will have multiple purposes, and these can push against each other to create tension among its denizens.
 - **Levels**: Levels should represent both increased danger as well as thematic intent. On each level try to push players to weigh the risk of further exploration versus a potential reward.
 - **Layout**: Create multiple entrances and exits, offer multiple routes, design choke points, and provide hiding spots. Add meaningful and obvious information to room entrances and exits.
 - **Verticality**: Incorporate tall rooms, climbable structures, and paths that allow movement around and over obstacles.
@@ -234,7 +234,7 @@ Roll 2d20 and combine the results.
  - Create loops, branching hallways, dead-ends, and shortcuts between rooms.
  - Some paths are Conditional, represented by a crossed line.
  - Some paths are Hidden, represented by a dashed line.
-- Create at least two intersections (crossed lines) with no rooms in between.
+- Create intersections (crossed lines) with no rooms in between.
 
 ### Stock the Rooms
 
@@ -301,7 +301,7 @@ Roll 2d20 and combine the results.
 | **19**  | Undead        | Training     |
 | **20**  | Unusual       | Trapped      |
 
-# Special
+#### Special
 
 Special rooms areas are uncommon areas that feature a hidden or interactive element. This element can be a challenge, an obstacle, a puzzle, or all of the above. These rooms should offer difficult choices with long-term impacts. They might make dungeon exploration easier, but with a serious cost.
 
@@ -377,7 +377,7 @@ _A remote forest temple, cut off from the world by a vast ocean of trees and shr
 
 We then roll on the **Purpose**, **Construction**, and **Ruination** tables and get the following results:
 
-- **Purpose**: The _Protection of rare artifacts_. Built by a _fanatical cult_. 
+- **Purpose**: The _protection of rare artifacts_. Built by a _fanatical cult_. 
 - **Construction**: The entrance is _between a circle of menhirs_, and its foundation is built of the very same _petrified wood_ that surrounds it.
 - **Ruination**: _Divided_ (literally) by _competing rituals_.
 
@@ -407,9 +407,9 @@ _Nestled within a dense, shrouded forest lies a temple made entirely of petrifie
 
 _The Crimson Path believe that if the original Relic were recovered, they might bend its power to destroy their the Azure Legion forever. However every attempt to plumb the temple's depths has been countered by their former brethren. A recent attack has left many of their number dead, and the remaining members have since fled the temple to regroup._
 
-_The Azure Legion feel a great sense of shame over their ancestor's actions believe that if the original Relic were destroyed, the temple would be healed again and their shame expunged. Unfortunately, a long-standing tradition prohibits any members from seeking the Relic, so as to avoid the mistakes of the past._
+_The Azure Legion feel a great sense of shame over their ancestor's actions and believe that if the original Relic were destroyed, the temple would be healed again and their shame expunged. Unfortunately, a long-standing tradition prohibits any members from seeking the Relic, so as to avoid the mistakes of the past._
 
-_In the center of the temple (between **3** and **4**) a massive crack (the Fracture) splits the dungeon in two, and acts as a sort of demilitarized zone. Both Factions realize that only death lies across its threshold._
+_In the center of the temple (between **3** and **4**) a massive crack (the Fracture) splits the dungeon in two, acting as a sort of demilitarized zone. Both Factions realize that only death lies across its threshold._
 
 _Hidden deep within the dungeon is a Relic called the **Woodturn**. It is capable of petrifying trees, wood, or other plant life through mere contact. If not properly contained it could turn an entire forest into a wasteland!_
 
@@ -430,16 +430,16 @@ _Hidden deep within the dungeon is a Relic called the **Woodturn**. It is capabl
 - **Light**: Wall sconces are built into the walls in every room. None are lit.
 - **Smell**: Damp, dirt, and hints of sulfur.
 - **Noise**: Distant shouting, along with an occasional rumbling and creaking throughout.
-- **Build**: The walls and floor are made of a white, petrified wood that is malleable with effort.
+- **Build**: The walls and floor are made of a white, petrified wood.
 
 ### Entrance: Circle of Menhirs
 
 A small circle of 10' tall **stones** are set in a circle atop a **grassy** hill. White **trees** surround the glade on all sides.
 
-- **Grass**: A patch in the center of the circle is browner than the rest.
-  - A trap door is concealed underneath. Petrified wooden steps lead down to **1**.
 - **Stones**: Moss-covered, with thin, ruined writing in an ancient script.
   - An expert in such matters can still determine that the stones are many centuries old.
+- **Grass**: A patch in the center of the circle is browner than the rest.
+  - A trap door is concealed underneath. Petrified wooden steps lead down to **1**.
 - **Trees**: Petrified, and as white as stone.
 
 ### 1 - Dining Hall
