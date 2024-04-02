@@ -41,6 +41,7 @@ The most important aspect of a region are its _people_: their character, ambitio
 #### Culture
 
 Roll 2d20 and combine the results.
+
 |         |               |                 |
 | ------- | ------------- | --------------- |
 | **d20** | **Character** | **Ambition**    |
@@ -92,7 +93,6 @@ Roll 2d20 and combine the results.
 | **18**  | Water         | Water         |
 | **19**  | Weapons       | Weapons       |
 | **20**  | Wood          | Wood          |
-
 
 ### Factions
 
@@ -211,26 +211,26 @@ Roll 2d20 and combine the results.
 |         |                            |                                                         |
 | ------- | -------------------------- | ------------------------------------------------------- |
 | **d20** | **Agenda**                 | **Obstacle**                                            |
-| **1**   | Ascend to a Higher Plane   | Commoners stand openly in opposition.                   |
-| **2**   | Collect Artifacts          | A particular object or Relic is required.               |
-| **3**   | Cultivate a Rare Resource  | A powerful figure or foe must be eliminated.            |
-| **4**   | Defend Something           | Another faction has the same goal.                      |
-| **5**   | Destroy Something          | An alliance with an enemy must first be brokered.       |
-| **6**   | Dominate Others            | Considerable capital is required.                       |
-| **7**   | Enrich Themselves          | Contravenes an established code, with a heavy penalty.  |
-| **8**   | Establish a Colony         | Many must die, either as a necessity or consequence.    |
-| **9**   | Establish a New Order      | Must be carried out at a rare or exact moment.          |
-| **10**  | Explore Uncharted Lands    | Must be carried out in absolute secrecy.                |
-| **11**  | Forge an Alliance          | Requires a specialist of an uncommon sort.              |
-| **12**  | Infiltrate Another Faction | A key piece of information must first be discovered.    |
-| **13**  | Preserve the Status Quo    | A rare but necessary resource must first be acquired.   |
-| **14**  | Protect a Secret           | A well-known prophecy predicts imminent failure.        |
-| **15**  | Purge the Land             | A serious debt forces the faction to make dire choices. |
-| **16**  | Reveal a Secret            | The outcome would lead to unavoidable war.              |
-| **17**  | Revenge                    | Another faction stands in opposition.                   |
-| **18**  | Revive a Former Power      | Hindered by cultural taboos.                            |
-| **19**  | Seek New Leadership        | An internal schism threatens to tear the faction apart. |
-| **20**  | Spread a Belief            | A geographic barrier or impassable terrain.             |
+| **1**   | Ascend to a Higher Plane   | A geographic barrier or impassable terrain.             |
+| **2**   | Collect Artifacts          | A key piece of information must first be discovered.    |
+| **3**   | Cultivate a Rare Resource  | A particular object or Relic is required.               |
+| **4**   | Defend Something           | A powerful figure or foe must be eliminated.            |
+| **5**   | Destroy Something          | A rare but necessary resource must first be acquired.   |
+| **6**   | Dominate Others            | A serious debt forces the faction to make dire choices. |
+| **7**   | Enrich Themselves          | A well-known prophecy predicts imminent failure.        |
+| **8**   | Establish a Colony         | An alliance with an enemy must first be brokered.       |
+| **9**   | Establish a New Order      | An internal schism threatens to tear the faction apart. |
+| **10**  | Explore Uncharted Lands    | Another faction has the same goal.                      |
+| **11**  | Forge an Alliance          | Another faction stands in opposition.                   |
+| **12**  | Infiltrate Another Faction | Commoners stand openly in opposition.                   |
+| **13**  | Preserve the Status Quo    | Considerable capital is required.                       |
+| **14**  | Protect a Secret           | Contravenes an established code, with a heavy penalty.  |
+| **15**  | Purge the Land             | Hindered by cultural taboos.                            |
+| **16**  | Reveal a Secret            | Many must die, either as a necessity or consequence.    |
+| **17**  | Revenge                    | Must be carried out at a rare or exact moment.          |
+| **18**  | Revive a Former Power      | Must be carried out in absolute secrecy.                |
+| **19**  | Seek New Leadership        | Requires a specialist of an uncommon sort.              |
+| **20**  | Spread a Belief            | The outcome would lead to unavoidable war.              |
 
 #### Example Faction
 
@@ -416,26 +416,26 @@ The weather can have a great impact on the people, culture, and terrain of a reg
 |         |                                                                                                             |
 | ------- | ----------------------------------------------------------------------------------------------------------- |
 | **d20** | **Weather**                                                                                                 |
-| **1**   | The clouds are shaped like faces. They appear to be laughing.                                               |
-| **2**   | Roaming, coughing, dust clouds that smell of cinnamon.                                                      |
-| **3**   | Days are erratic. The Sun goes backwards for a time, then jumps forward as night rapidly sets.              |
-| **4**   | Lakes and streams dry up in minutes, filling storm clouds that drench the landscape.                        |
-| **5**   | Rainbows lack most of their colors, and occasionally flicker. Raindrops fall in various colors.             |
-| **6**   | Distant chimes instead of thunder. A smoky, sweet wind of no apparent origin blows in from the West.        |
-| **7**   | Fog there fills the belly (no need for rations). Tomorrow, vomiting.                                        |
-| **8**   | The winds carry whispers of voices. Some say they tell hints of the future.                                 |
-| **9**   | Shadows disappear at random. Animals are reluctant to enter.                                                |
-| **10**  | Flashes of movement in the periphery that always amount to nothing.                                         |
-| **11**  | The air is thicker than usual, and breathing is difficult.                                                  |
-| **12**  | Periodic rains of small aquatic creatures (tadpoles, frogs, small fish). No one knows where they come from. |
-| **13**  | An aurora that is visible even during the day.                                                              |
-| **14**  | When it snows, the flakes are warm and dry.                                                                 |
-| **15**  | The moon appears larger, and softly hums at night.                                                          |
-| **16**  | An annual fog appears randomly, turning metallic surfaces to gold on contact.                               |
-| **17**  | Birds fly backwards, yet somehow still move forward.                                                        |
-| **18**  | The rain glows gently at night. It can be gathered, but the light eventually fades.                         |
-| **19**  | The stars arrange themselves in intricate patterns, making navigation difficult.                            |
-| **20**  | Enormous, fleshy eyes peer down from the skies, their pupils lighting up the night sky.                     |
+| **1**   | An annual fog appears randomly, turning metallic surfaces to gold on contact.                               |
+| **2**   | An aurora that is visible even during the day.                                                              |
+| **3**   | Birds fly backwards, yet somehow still move forward.                                                        |
+| **4**   | Days are erratic. The Sun goes backwards for a time, then jumps forward as night rapidly sets.              |
+| **5**   | Distant chimes instead of thunder. A smoky, sweet wind of no apparent origin blows in from the West.        |
+| **6**   | Enormous, fleshy eyes peer down from the skies, their pupils lighting up the night sky.                     |
+| **7**   | Flashes of movement in the periphery that always amount to nothing.                                         |
+| **8**   | Fog there fills the belly (no need for rations). Tomorrow, vomiting.                                        |
+| **9**   | Lakes and streams dry up in minutes, filling storm clouds that drench the landscape.                        |
+| **10**  | Periodic rains of small aquatic creatures (tadpoles, frogs, small fish). No one knows where they come from. |
+| **11**  | Rainbows lack most of their colors, and occasionally flicker. Raindrops fall in various colors.             |
+| **12**  | Roaming, coughing, dust clouds that smell of cinnamon.                                                      |
+| **13**  | Shadows disappear at random. Animals are reluctant to enter.                                                |
+| **14**  | The air is thicker than usual, and breathing is difficult.                                                  |
+| **15**  | The clouds are shaped like faces. They appear to be laughing.                                               |
+| **16**  | The moon appears larger, and softly hums at night.                                                          |
+| **17**  | The rain glows gently at night. It can be gathered, but the light eventually fades.                         |
+| **18**  | The stars arrange themselves in intricate patterns, making navigation difficult.                            |
+| **19**  | The winds carry whispers of voices. Some say they tell hints of the future.                                 |
+| **20**  | When it snows, the flakes are warm and dry.                                                                 |
 
 ### Put It All Together
 
