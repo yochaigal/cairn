@@ -41,30 +41,29 @@ The most important aspect of a region are its _people_: their character, ambitio
 #### Culture
 
 Roll 2d20 and combine the results.
-
 |         |               |                 |
 | ------- | ------------- | --------------- |
 | **d20** | **Character** | **Ambition**    |
-| **1**   | Struggling    | Power           |
-| **2**   | Wealthy       | Conquest        |
-| **3**   | Religious     | Stability       |
-| **4**   | Hardy         | Peace           |
-| **5**   | Reclusive     | Independence    |
-| **6**   | Xenophobic    | Control         |
-| **7**   | Traditional   | Purity          |
-| **8**   | War-like      | Unification     |
-| **9**   | Enlightened   | Knowledge       |
-| **10**  | Artistic      | Division        |
-| **11**  | Nomadic       | Exploration     |
-| **12**  | Scholarly     | Bounty          |
-| **13**  | Mercantile    | Wealth          |
-| **14**  | Devious       | Dominance       |
-| **15**  | Stoic         | Security        |
-| **16**  | Harmonious    | Fealty          |
-| **17**  | Inventive     | Recognition     |
-| **18**  | Altruistic    | Natural Harmony |
-| **19**  | Curious       | Conversion      |
-| **20**  | Resilient     | Return          |
+| **1**   | Altruistic    | Bounty          |
+| **2**   | Artistic      | Conquest        |
+| **3**   | Curious       | Control         |
+| **4**   | Devious       | Conversion      |
+| **5**   | Enlightened   | Division        |
+| **6**   | Hardy         | Dominance       |
+| **7**   | Harmonious    | Exploration     |
+| **8**   | Inventive     | Fealty          |
+| **9**   | Mercantile    | Independence    |
+| **10**  | Nomadic       | Knowledge       |
+| **11**  | Reclusive     | Natural Harmony |
+| **12**  | Religious     | Peace           |
+| **13**  | Resilient     | Power           |
+| **14**  | Scholarly     | Purity          |
+| **15**  | Stoic         | Recognition     |
+| **16**  | Struggling    | Return          |
+| **17**  | Traditional   | Security        |
+| **18**  | War-like      | Stability       |
+| **19**  | Wealthy       | Unification     |
+| **20**  | Xenophobic    | Wealth          |
 
 #### Resources
 
@@ -73,26 +72,27 @@ Roll 2d20 and combine the results.
 |         |               |               |
 | ------- | ------------- | ------------- |
 | **d20** | **Abundance** | **Scarcity**  |
-| **1**   | Vessels       | Water         |
-| **2**   | Skilled Labor | Food          |
-| **3**   | Tools         | Knowledge     |
-| **4**   | Fuel          | Land          |
-| **5**   | Medicine      | Trade Goods   |
-| **6**   | Land          | Spices        |
-| **7**   | Knowledge     | Textiles      |
-| **8**   | Herbs         | Livestock     |
-| **9**   | Wood          | Herbs         |
-| **10**  | Food          | Weapons       |
-| **11**  | Stone         | Gemstones     |
-| **12**  | Gemstones     | Ore           |
-| **13**  | Ore           | Stone         |
-| **14**  | Water         | Horses        |
-| **15**  | Trade Goods   | Wood          |
-| **16**  | Spices        | Medicine      |
-| **17**  | Livestock     | Skilled Labor |
-| **18**  | Horses        | Tools         |
-| **19**  | Textiles      | Vessels       |
-| **20**  | Weapons       | Fuel          |
+| **1**   | Food          | Food          |
+| **2**   | Fuel          | Fuel          |
+| **3**   | Gemstones     | Gemstones     |
+| **4**   | Herbs         | Herbs         |
+| **5**   | Horses        | Horses        |
+| **6**   | Knowledge     | Knowledge     |
+| **7**   | Land          | Land          |
+| **8**   | Livestock     | Livestock     |
+| **9**   | Medicine      | Medicine      |
+| **10**  | Ore           | Ore           |
+| **11**  | Skilled Labor | Skilled Labor |
+| **12**  | Spices        | Spices        |
+| **13**  | Stone         | Stone         |
+| **14**  | Textiles      | Textiles      |
+| **15**  | Tools         | Tools         |
+| **16**  | Trade Goods   | Trade Goods   |
+| **17**  | Vessels       | Vessels       |
+| **18**  | Water         | Water         |
+| **19**  | Weapons       | Weapons       |
+| **20**  | Wood          | Wood          |
+
 
 ### Factions
 
