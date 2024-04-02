@@ -495,22 +495,22 @@ Roll 2d20 and combine the results.
 | ------- | --------------- | ----------------------------- |
 | **d20** | **Settlements** | **Feature**                   |
 | **1**   | Academy         | Built Atop Ruins              |
-| **2**   | Caravan         | Center of Learning            |
-| **3**   | Citadel         | Close-knit                    |
-| **4**   | City            | Divided                       |
-| **5**   | Commune         | Emits a Mysterious Hum        |
-| **6**   | Compound        | Famous for its Festivals      |
-| **7**   | Convent         | Guarded by Trained Beasts     |
-| **8**   | Farmstead       | High Population Density       |
-| **9**   | Fortress        | Impregnable                   |
-| **10**  | Garrison        | Integrated with Nature        |
-| **11**  | Hamlet          | Hides a Dangerous Portal      |
-| **12**  | Keep            | Known for its Hospitality     |
-| **13**  | Monastery       | Location of a Legendary Forge |
-| **14**  | Outpost         | Moves or Revolves             |
-| **15**  | Plantation      | Protected by a Great Warrior  |
-| **16**  | Prison          | Famous for its Artisans       |
-| **17**  | Stronghold      | Built on Bones of Giants      |
+| **2**   | Caravan         | Built on Bones of Giants      |
+| **3**   | Citadel         | Center of Learning            |
+| **4**   | City            | Close-knit                    |
+| **5**   | Commune         | Divided                       |
+| **6**   | Compound        | Emits a Mysterious Hum        |
+| **7**   | Convent         | Famous for its Artisans       |
+| **8**   | Farmstead       | Famous for its Festivals      |
+| **9**   | Fortress        | Guarded by Trained Beasts     |
+| **10**  | Garrison        | Hides a Dangerous Portal      |
+| **11**  | Hamlet          | High Population Density       |
+| **12**  | Keep            | Impregnable                   |
+| **13**  | Monastery       | Integrated with Nature        |
+| **14**  | Outpost         | Known for its Hospitality     |
+| **15**  | Plantation      | Location of a Legendary Forge |
+| **16**  | Prison          | Moves or Revolves             |
+| **17**  | Stronghold      | Protected by a Great Warrior  |
 | **18**  | Town            | Ruled by a Powerful Faction   |
 | **19**  | Villa           | Steeped in Tradition          |
 | **20**  | Village         | Trading Hub                   |
@@ -522,26 +522,26 @@ Roll 2d20 and combine the results.
 |         |               |                                  |
 | ------- | ------------- | -------------------------------- |
 | **d20** | **Waypoints** | **Feature**                      |
-| **1**   | Archive       | Built on Sacred Grounds          |
-| **2**   | Asylum        | Decrepit Buildings               |
-| **3**   | Bazaar        | Reclusive Occupants              |
-| **4**   | Beacon Tower  | Protects a Powerful Object       |
-| **5**   | Bunker        | Cursed By Previous Occupants     |
-| **6**   | Cabin         | Known for its Elaborate Defenses |
-| **7**   | Campground    | Occupants are Lawful to a Fault  |
-| **8**   | Guildhall     | Part of an Illegal Trade Route   |
-| **9**   | Hospice       | Ruled by a Powerful Faction      |
-| **10**  | Hunting Lodge | Host to a Renowned Artisan       |
-| **11**  | Inn           | Distrustful Occupants            |
-| **12**  | Observatory   | Technologically Advanced         |
-| **13**  | Reservoir     | Contains a Powerful Artifact     |
-| **14**  | Sanatorium    | Sits on Natural Deposits         |
-| **15**  | Sanctuary     | Front for Illegal Operations     |
-| **16**  | Shrine        | Popular Pilgrim Destination      |
-| **17**  | Temple        | Occupants are Overly Formal      |
-| **18**  | Trading Post  | A Haven for Outcasts             |
-| **19**  | Watchtower    | Does Not Appear On Any Map       |
-| **20**  | Work Camp     | Outsiders Cannot Carry Weapons   |
+| **1**   | Archive       | A Haven for Outcasts             |
+| **2**   | Asylum        | Built on Sacred Grounds          |
+| **3**   | Bazaar        | Contains a Powerful Artifact     |
+| **4**   | Beacon Tower  | Cursed By Previous Occupants     |
+| **5**   | Bunker        | Decrepit Buildings               |
+| **6**   | Cabin         | Distrustful Occupants            |
+| **7**   | Campground    | Does Not Appear On Any Map       |
+| **8**   | Guildhall     | Front for Illegal Operations     |
+| **9**   | Hospice       | Host to a Renowned Artisan       |
+| **10**  | Hunting Lodge | Known for its Elaborate Defenses |
+| **11**  | Inn           | Occupants are Lawful to a Fault  |
+| **12**  | Observatory   | Occupants are Overly Formal      |
+| **13**  | Reservoir     | Outsiders Cannot Carry Weapons   |
+| **14**  | Sanatorium    | Part of an Illegal Trade Route   |
+| **15**  | Sanctuary     | Popular Pilgrim Destination      |
+| **16**  | Shrine        | Protects a Powerful Object       |
+| **17**  | Temple        | Reclusive Occupants              |
+| **18**  | Trading Post  | Ruled by a Powerful Faction      |
+| **19**  | Watchtower    | Sits on Natural Deposits         |
+| **20**  | Work Camp     | Technologically Advanced         |
 
 ### Curiosities
 
@@ -550,26 +550,26 @@ Roll 2d20 and combine the results.
 |         |                    |                        |
 | ------- | ------------------ | ---------------------- |
 | **d20** | **Curiosities**    | **Feature**            |
-| **1**   | Ancient Tree       | Buried Library         |
-| **2**   | Enormous Footprint | Site of Ancient Battle |
-| **3**   | Collapsed Mill     | Edible Fungus          |
-| **4**   | Cracked Bell       | Carnivorous Plants     |
-| **5**   | Singing Stones     | Cult Ritual Site       |
-| **6**   | Leviathan Skeleton | Impossible Music       |
-| **7**   | Purple Geysers     | Unstable Ground        |
-| **8**   | Dripping Archway   | Perpetual Mist         |
-| **9**   | Floating Island    | Infested With Vermin   |
-| **10**  | Buried Megalith    | Buried Ley Line        |
-| **11**  | Oddly-shaped Lake  | Illusory               |
-| **12**  | Petrified Trees    | Irregular Gravity      |
-| **13**  | Hanging Bridges    | Only Appears At Night  |
-| **14**  | Crystal Spire      | Hidden Market          |
-| **15**  | Echoing Fields     | Celestial Mirror       |
-| **16**  | Enormous Fist      | Abandoned Vessel       |
-| **17**  | Illegible Signpost | Ancient Trash Heap     |
-| **18**  | Frozen Graveyard   | Perpetual Shadows      |
-| **19**  | Sunken City        | Isolated Weather       |
-| **20**  | Broken Tower       | Floating Debris        |
+| **1**   | Ancient Tree       | Abandoned Vessel       |
+| **2**   | Broken Tower       | Ancient Trash Heap     |
+| **3**   | Buried Megalith    | Buried Ley Line        |
+| **4**   | Collapsed Mill     | Buried Library         |
+| **5**   | Cracked Bell       | Carnivorous Plants     |
+| **6**   | Crystal Spire      | Celestial Mirror       |
+| **7**   | Dripping Archway   | Cult Ritual Site       |
+| **8**   | Echoing Fields     | Edible Fungus          |
+| **9**   | Enormous Fist      | Floating Debris        |
+| **10**  | Enormous Footprint | Hidden Market          |
+| **11**  | Floating Island    | Illusory               |
+| **12**  | Frozen Graveyard   | Impossible Music       |
+| **13**  | Hanging Bridges    | Infested With Vermin   |
+| **14**  | Illegible Signpost | Irregular Gravity      |
+| **15**  | Leviathan Skeleton | Isolated Weather       |
+| **16**  | Oddly-shaped Lake  | Only Appears At Night  |
+| **17**  | Petrified Trees    | Perpetual Mist         |
+| **18**  | Purple Geysers     | Perpetual Shadows      |
+| **19**  | Singing Stones     | Site of Ancient Battle |
+| **20**  | Sunken City        | Unstable Ground        |
 
 ### Lairs
 
@@ -578,26 +578,26 @@ Roll 2d20 and combine the results.
 |         |                     |                     |
 | ------- | ------------------- | ------------------- |
 | **d20** | **Lair**            | **Feature**         |
-| **1**   | Ancient prison      | Underwater          |
-| **2**   | Unruly Copse        | Entry Forbidden     |
-| **3**   | Dry Aqueduct        | Signs Posted        |
-| **4**   | Colossal Hive       | Waste Pit           |
-| **5**   | Crumbling Fort      | Piles of Bones      |
-| **6**   | Crashed Ship        | Previously Occupied |
-| **7**   | Spiked Cave         | Constant Screaming  |
-| **8**   | Hollow Obelisk      | At Crossroads       |
-| **9**   | Forgotten Graveyard | Religious Graffiti  |
-| **10**  | Hidden Burrow       | Bioluminescence     |
-| **11**  | Collapsed Mine      | Something Sleeps    |
-| **12**  | Enormous Stump      | Odd Machinery       |
-| **13**  | Overgrown Garden    | Scattered Traps     |
-| **14**  | Primeval Menhirs    | Scavengers Prowl    |
-| **15**  | Primitive Bridge    | Symbiotic Entity    |
-| **16**  | Rotted Mill         | Hidden Exit         |
-| **17**  | Rusted Construct    | Baited Entrance     |
-| **18**  | Sunken Grotto       | Faction Hideout     |
-| **19**  | Ruined Town         | Training Camp       |
-| **20**  | Abandoned Tower     | Abandoned           |
+| **1**   | Abandoned Tower     | Abandoned           |
+| **2**   | Ancient prison      | At Crossroads       |
+| **3**   | Collapsed Mine      | Baited Entrance     |
+| **4**   | Colossal Hive       | Bioluminescence     |
+| **5**   | Crashed Ship        | Constant Screaming  |
+| **6**   | Crumbling Fort      | Entry Forbidden     |
+| **7**   | Dry Aqueduct        | Faction Hideout     |
+| **8**   | Enormous Stump      | Hidden Exit         |
+| **9**   | Forgotten Graveyard | Odd Machinery       |
+| **10**  | Hidden Burrow       | Piles of Bones      |
+| **11**  | Hollow Obelisk      | Previously Occupied |
+| **12**  | Overgrown Garden    | Religious Graffiti  |
+| **13**  | Primeval Menhirs    | Scattered Traps     |
+| **14**  | Primitive Bridge    | Scavengers Prowl    |
+| **15**  | Rotted Mill         | Signs Posted        |
+| **16**  | Ruined Town         | Something Sleeps    |
+| **17**  | Rusted Construct    | Symbiotic Entity    |
+| **18**  | Spiked Cave         | Training Camp       |
+| **19**  | Sunken Grotto       | Underwater          |
+| **20**  | Unruly Copse        | Waste Pit           |
 
 ### Dungeons
 
@@ -626,6 +626,7 @@ Roll 2d20 and combine the results.
 | **18**  | Tomb          | Sealed       |
 | **19**  | Tower         | Toxic        |
 | **20**  | Workshop      | Warped       |
+
 
 > See the [Dungeon Seeds](/wip/dungeon-seeds) chapter (p.x) for how to flesh out each Dungeon POI for your setting.
 
