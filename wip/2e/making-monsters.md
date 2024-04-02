@@ -242,27 +242,22 @@ _**What can we learn from this?**_
 - Her **ML** is high, and foxes are known for their cunning. **15 WIL**.
 - For her attacks I'd go with claws (d6+d6) and bite (d8).
 
-_**In summary, that leaves us with the following opening stat block:**_
+_**This information leaves us with the following:**_
 8 HP, 12 STR, 14 DEX, 15 WIL, claws (d6+d6), bite (d8)
 
 _**Now on to her abilities:**_
 This is pretty straightforward. We simply read the fictional stat block we created earlier!
-- We know what she looks like, and that she can transform into a fox at will.
-- She cannot be harmed by metal; I'm taking this to mean she's immune to _metal weapons_.
-- She chokes her victims.
+- She appears as a 7-foot tall with a human woman with the head of a fox.
+- She can transforms into a fox at will.
+- She is immune to attacks from metal weapons.
+- She chokes her victims into unconsciousness.
 
-_**Easy, right? Now to make it useful:**_
-- Appears as a 7-foot tall with a human woman with the head of a fox.
-- Transforms into a fox at will.
-- Immune to attacks from metal weapons.
-- Critical damage: victim is choked unconscious, to be fed on soon after.
-
-_**The finished result**_:
+_**The final result**_:
 
 #### Foxwoman
 
 8 HP, 12 STR, 14 DEX, 15 WIL, claws (d6+d6), bite (d8)
 
-- Can take the form of a fox, or a woman with a single, hidden fox led.
+- Can take the form of a fox, or a woman with a hidden fox leg.
 - Immune to attacks from metal weapons.
 - **Critical damage**: Victim is choked unconscious.
