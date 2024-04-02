@@ -103,22 +103,22 @@ Roll 2d20 and combine the results.
 |         |                           |                 |
 | ------- | ------------------------- | --------------- |
 | **d20** | **Quirks**                | **Weakness**    |
-| **1**   | Plants grow in its wake   | Alcohol         |
-| **2**   | Alters its size at will   | Cold            |
-| **3**   | Changes color at will     | Conversation    |
-| **4**   | Collects rare flowers     | Flattery        |
-| **5**   | Collects trophies         | Games           |
-| **6**   | Does not die of old age   | Gifts           |
-| **7**   | Draws symbols             | Iron            |
-| **8**   | Fascinated by fire        | Loud Noises     |
-| **9**   | Hoards books              | Mirrors         |
-| **10**  | Narrates Everything       | Bright colors   |
-| **11**  | Loves a specific color    | Moonlight       |
-| **12**  | Loves its own reflection  | Music           |
-| **13**  | Loves shiny objects       | Prepared Meals  |
-| **14**  | Mimics voices             | Puzzles         |
-| **15**  | Moves in a straight line  | Religious Icons |
-| **16**  | Obsessively cleans        | Salt            |
+| **1**   | Alters its size at will   | Alcohol         |
+| **2**   | Changes color at will     | Cold            |
+| **3**   | Collects rare flowers     | Conversation    |
+| **4**   | Collects trophies         | Flattery        |
+| **5**   | Does not die of old age   | Games           |
+| **6**   | Draws symbols             | Gifts           |
+| **7**   | Fascinated by fire        | Iron            |
+| **8**   | Hoards books              | Loud Noises     |
+| **9**   | Loves a specific color    | Mirrors         |
+| **10**  | Loves its own reflection  | Bright colors   |
+| **11**  | Loves shiny objects       | Moonlight       |
+| **12**  | Mimics voices             | Music           |
+| **13**  | Moves in a straight line  | Prepared Meals  |
+| **14**  | Narrates Everything       | Puzzles         |
+| **15**  | Obsessively cleans        | Religious Icons |
+| **16**  | Plants grow in its wake   | Salt            |
 | **17**  | Sleeps upside down        | Silver          |
 | **18**  | Speaks in rhymes          | Sunlight        |
 | **19**  | Sweats rare minerals      | True Name       |
