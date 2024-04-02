@@ -187,8 +187,6 @@ search_exclude: true
 | **valley**     | dale, vale, basin, gully, gorge, gap, glen              |
 | **wasteland**  | _See desert_                                            |
 
-
-
 ### Faction Names
 
 1. Roll on the [Faction Names Formula](#faction-names-formula) table below.
@@ -205,6 +203,7 @@ search_exclude: true
 | **4**  | The **[Noun] [Group Type]**                        |
 
 ## Realm Names
+
 1. Roll on the [Ruler Names Formula](#ruler-names-formula) table below.
 2. Roll on the [Adjectives](#adjectives), [Nouns](#nouns), [Terrain](#terrain), and [Rulers](#rulers) table, and add "of" or "the" where appropriate
 

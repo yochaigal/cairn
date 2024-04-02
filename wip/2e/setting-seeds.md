@@ -627,7 +627,6 @@ Roll 2d20 and combine the results.
 | **19**  | Tower         | Toxic        |
 | **20**  | Workshop      | Warped       |
 
-
 > See the [Dungeon Seeds](/wip/dungeon-seeds) chapter (p.x) for how to flesh out each Dungeon POI for your setting.
 
 ## Paths
@@ -685,4 +684,4 @@ Roll 2d20 and combine the results.
 
 ## Conclusion
 
-Your first region is now complete. You may repeat the process as many times as you wish.
+Your first region is now complete. To expand your realm, repeat the process as many times as you wish.
