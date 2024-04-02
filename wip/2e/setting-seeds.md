@@ -155,26 +155,26 @@ Roll 2d20 and combine the results.
 |         |               |               |
 | ------- | ------------- | ------------- |
 | **d20** | **Trait 1**   | **Trait 2**   |
-| **1**   | Cautious      | Brutal        |
-| **2**   | Discreet      | Craven        |
-| **3**   | Enigmatic     | Cruel         |
-| **4**   | Fierce        | Cunning       |
-| **5**   | Dogmatic      | Deceptive     |
-| **6**   | Judicious     | Mercurial     |
-| **7**   | Keen          | Selfish       |
-| **8**   | Loyal         | Bankrupt      |
-| **9**   | Meticulous    | Corrupt       |
-| **10**  | Pragmatic     | Generous      |
-| **11**  | Resourceful   | Incompetent   |
-| **12**  | Tenacious     | Manipulative  |
-| **13**  | Decadent      | Ruthless      |
-| **14**  | Connected     | Repressed     |
-| **15**  | Disciplined   | Adaptable     |
-| **16**  | Incorruptible | Stealthy      |
-| **17**  | Intellectual  | Threatened    |
-| **18**  | Shrewd        | Xenophobic    |
-| **19**  | Popular       | Collaborative |
-| **20**  | Secretive     | Cynical       |
+| **1**   | Cautious      | Adaptable     |
+| **2**   | Discreet      | Bankrupt      |
+| **3**   | Enigmatic     | Brutal        |
+| **4**   | Fierce        | Collaborative |
+| **5**   | Dogmatic      | Corrupt       |
+| **6**   | Judicious     | Craven        |
+| **7**   | Keen          | Cruel         |
+| **8**   | Loyal         | Cunning       |
+| **9**   | Meticulous    | Cynical       |
+| **10**  | Pragmatic     | Deceptive     |
+| **11**  | Resourceful   | Generous      |
+| **12**  | Tenacious     | Incompetent   |
+| **13**  | Decadent      | Manipulative  |
+| **14**  | Connected     | Mercurial     |
+| **15**  | Disciplined   | Repressed     |
+| **16**  | Incorruptible | Ruthless      |
+| **17**  | Intellectual  | Selfish       |
+| **18**  | Shrewd        | Stealthy      |
+| **19**  | Popular       | Threatened    |
+| **20**  | Secretive     | Xenophobic    |
 
 #### Faction Advantages
 
@@ -312,26 +312,26 @@ Roll 2d20 and combine the results.
 |         |             |                    |
 | ------- | ----------- | ------------------ |
 | **d20** | **Terrain** | **Landmark**       |
-| **1**   | Bluffs      | Opaque Lake        |
-| **2**   | Farmlands   | Fallen Column      |
-| **3**   | Fells       | Broken Sundial     |
-| **4**   | Foothills   | Sinkhole           |
-| **5**   | Glens       | Heart Tree         |
-| **6**   | Gorges      | Circular Maze      |
-| **7**   | Grasslands  | False Oasis        |
-| **8**   | Gulleys     | Glittering Cascade |
-| **9**   | Heaths      | Cloud Stairway     |
-| **10**  | Lowlands    | Silver Face        |
-| **11**  | Meadows     | Great Waterwheel   |
-| **12**  | Moors       | Titanic Gate       |
-| **13**  | Pampas      | Golden Bridge      |
-| **14**  | Pastures    | Circle of Menhirs  |
-| **15**  | Plains      | Enormous Footprint |
-| **16**  | Plateaus    | Dead Aqueduct      |
-| **17**  | Prairies    | Petrified Forest   |
-| **18**  | Savannas    | Giant's Throne     |
-| **19**  | Steppes     | Great Stone Face   |
-| **20**  | Valleys     | Pit of Cold Fire   |
+| **1**   | Bluffs      | Broken Sundial     |
+| **2**   | Farmlands   | Circle of Menhirs  |
+| **3**   | Fells       | Circular Maze      |
+| **4**   | Foothills   | Cloud Stairway     |
+| **5**   | Glens       | Dead Aqueduct      |
+| **6**   | Gorges      | Enormous Footprint |
+| **7**   | Grasslands  | Fallen Column      |
+| **8**   | Gulleys     | False Oasis        |
+| **9**   | Heaths      | Giant's Throne     |
+| **10**  | Lowlands    | Glittering Cascade |
+| **11**  | Meadows     | Golden Bridge      |
+| **12**  | Moors       | Great Stone Face   |
+| **13**  | Pampas      | Great Waterwheel   |
+| **14**  | Pastures    | Heart Tree         |
+| **15**  | Plains      | Opaque Lake        |
+| **16**  | Plateaus    | Petrified Forest   |
+| **17**  | Prairies    | Pit of Cold Fire   |
+| **18**  | Savannas    | Silver Face        |
+| **19**  | Steppes     | Sinkhole           |
+| **20**  | Valleys     | Titanic Gate       |
 
 ### Tough
 
@@ -340,26 +340,26 @@ Roll 2d20 and combine the results.
 |         |             |                     |
 | ------- | ----------- | ------------------- |
 | **d20** | **Terrain** | **Landmark**        |
-| **1**   | Barrens     | Basalt Columns      |
-| **2**   | Canyons     | Massive Dung Ball   |
+| **1**   | Barrens     | Algae Falls         |
+| **2**   | Canyons     | Basalt Columns      |
 | **3**   | Chaparral   | Behemoth Graveyard  |
-| **4**   | Coral Reefs | Salt Flat Mirrors   |
-| **5**   | Deserts     | Hanging Valley      |
-| **6**   | Dunes       | Stalagmite Forest   |
-| **7**   | Estuaries   | Cinder Cones        |
+| **4**   | Coral Reefs | Canyon Bridge       |
+| **5**   | Deserts     | Cinder Cones        |
+| **6**   | Dunes       | Crystal Forest      |
+| **7**   | Estuaries   | Flame Pits          |
 | **8**   | Fens        | Forest of Arrows    |
-| **9**   | Forests     | Canyon Bridge       |
-| **10**  | Heathlands  | Algae Falls         |
-| **11**  | Hills       | Leviathan Bones     |
-| **12**  | Mangroves   | Crystal Forest      |
-| **13**  | Marshlands  | Flame Pits          |
+| **9**   | Forests     | Frozen Waterfall    |
+| **10**  | Heathlands  | Fungal Forest       |
+| **11**  | Hills       | Hanging Valley      |
+| **12**  | Mangroves   | Inverted Lighthouse |
+| **13**  | Marshlands  | Leviathan Bones     |
 | **14**  | Moorlands   | Massive Crater      |
-| **15**  | Rainforests | Shrouded Ziggurat   |
-| **16**  | Scrublands  | Sunken Colossus     |
-| **17**  | Taiga       | Fungal Forest       |
-| **18**  | Thickets    | Titan's Table       |
-| **19**  | Tundra      | Frozen Waterfall    |
-| **20**  | Woodlands   | Inverted Lighthouse |
+| **15**  | Rainforests | Massive Dung Ball   |
+| **16**  | Scrublands  | Salt Flat Mirrors   |
+| **17**  | Taiga       | Shrouded Ziggurat   |
+| **18**  | Thickets    | Stalagmite Forest   |
+| **19**  | Tundra      | Sunken Colossus     |
+| **20**  | Woodlands   | Titan's Table       |
 
 ### Perilous
 
@@ -368,26 +368,26 @@ Roll 2d20 and combine the results.
 |         |                |                     |
 | ------- | -------------- | ------------------- |
 | **d20** | **Terrain**    | **Landmark**        |
-| **1**   | Alpine Meadows | Behemoth's Skull    |
-| **2**   | Bogs           | Land Scar           |
-| **3**   | Boulders       | Large Thermal Vents |
-| **4**   | Caverns        | Enormous Hive       |
-| **5**   | Cliffs         | Sky-Root            |
-| **6**   | Craters        | Crystalline Forest  |
-| **7**   | Crevasses      | Ammonia Caves       |
-| **8**   | Geysers        | Meteor Garden       |
-| **9**   | Glaciers       | Active Volcano      |
-| **10**  | Gorges         | Floating Object     |
-| **11**  | Hollows        | Weeping Bubble      |
-| **12**  | Ice Fields     | Reverse Waterfall   |
-| **13**  | Jungles        | Mao on the Mountain |
-| **14**  | Lava Fields    | River of Sulfur     |
-| **15**  | Mountains      | Magma Fields        |
-| **16**  | Peatlands      | Dome of Darkness    |
-| **17**  | Quagmires      | Inactive Automaton  |
-| **18**  | Ravine         | Titanic Ribcage     |
-| **19**  | Swamps         | Obsidian Needle     |
-| **20**  | Wastelands     | Siren Stones        |
+| **1**   | Alpine Meadows | Active Volcano      |
+| **2**   | Bogs           | Ammonia Caves       |
+| **3**   | Boulders       | Behemoth's Skull    |
+| **4**   | Caverns        | Crystalline Forest  |
+| **5**   | Cliffs         | Dome of Darkness    |
+| **6**   | Craters        | Enormous Hive       |
+| **7**   | Crevasses      | Floating Object     |
+| **8**   | Geysers        | Inactive Automaton  |
+| **9**   | Glaciers       | Land Scar           |
+| **10**  | Gorges         | Large Thermal Vents |
+| **11**  | Hollows        | Magma Fields        |
+| **12**  | Ice Fields     | Mao on the Mountain |
+| **13**  | Jungles        | Meteor Garden       |
+| **14**  | Lava Fields    | Obsidian Needle     |
+| **15**  | Mountains      | Reverse Waterfall   |
+| **16**  | Peatlands      | River of Sulfur     |
+| **17**  | Quagmires      | Siren Stones        |
+| **18**  | Ravine         | Sky-Root            |
+| **19**  | Swamps         | Titanic Ribcage     |
+| **20**  | Wastelands     | Weeping Bubble      |
 
 #### Rivers, Seas, and Lakes
 
@@ -662,26 +662,26 @@ Roll 2d20 and combine the results.
 |         |                       |                              |
 | ------- | --------------------- | ---------------------------- |
 | **d20** | **Feature**           | **Condition**                |
-| **1**   | Blood-red             | Blocked by Giant Boulder     |
-| **2**   | Smells of Smoke       | Uneven, Soggy Ground         |
-| **3**   | Twisted               | Steep Climb                  |
-| **4**   | Massive Grooves       | Poisonous Fruit              |
-| **5**   | Buried Charms         | Thick Evening Mist           |
-| **6**   | Mile Markers          | Occasional Stampedes         |
-| **7**   | Follows the Stars     | Erratic Weather              |
-| **8**   | Abandoned Fields      | Night Predators              |
-| **9**   | Cattle Prints         | Heavy Toll Required          |
-| **10**  | Mineral Flecks        | Labyrinthine Canyons         |
-| **11**  | Shriveled Away        | Smoke-filled                 |
-| **12**  | Overgrown             | Frequent Flash Floods        |
-| **13**  | Ubiquitous Footprints | Collapsed Bridge             |
-| **14**  | Dead Vegetation       | Bandit Ambushes              |
-| **15**  | Rusted Tools          | Dense Bramble                |
-| **16**  | Diseased Animals      | Passed Over Rapids           |
-| **17**  | Newly Made            | Gets Extremely Cold          |
-| **18**  | Frequent Pilgrims     | Divided by Political Dispute |
-| **19**  | Disappearing          | Overcrowded                  |
-| **20**  | Constant Patrols      | Confusing to Navigate        |
+| **1**   | Abandoned Fields      | Bandit Ambushes              |
+| **2**   | Blood-red             | Blocked by Giant Boulder     |
+| **3**   | Buried Charms         | Collapsed Bridge             |
+| **4**   | Cattle Prints         | Confusing to Navigate        |
+| **5**   | Constant Patrols      | Dense Bramble                |
+| **6**   | Dead Vegetation       | Divided by Political Dispute |
+| **7**   | Disappearing          | Erratic Weather              |
+| **8**   | Diseased Animals      | Frequent Flash Floods        |
+| **9**   | Follows the Stars     | Gets Extremely Cold          |
+| **10**  | Frequent Pilgrims     | Heavy Toll Required          |
+| **11**  | Massive Grooves       | Labyrinthine Canyons         |
+| **12**  | Mile Markers          | Night Predators              |
+| **13**  | Mineral Flecks        | Occasional Stampedes         |
+| **14**  | Newly Made            | Overcrowded                  |
+| **15**  | Overgrown             | Passed Over Rapids           |
+| **16**  | Rusted Tools          | Poisonous Fruit              |
+| **17**  | Shriveled Away        | Smoke-filled                 |
+| **18**  | Smells of Smoke       | Steep Climb                  |
+| **19**  | Twisted               | Thick Evening Mist           |
+| **20**  | Ubiquitous Footprints | Uneven, Soggy Ground         |
 
 ## Conclusion
 
