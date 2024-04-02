@@ -154,9 +154,11 @@ Roll 2d20 and combine the results.
 - **Attack**: _Smashes_ + _Grapples_.
 - **Abilities**: _Disables_ + _Hearing_
 
-_An armadillo-like creature with a hard shell. It rolls into opponents, pulling them into its wild orbit. The roar of its movement drowns out any other sounds._
+_A snail-like creature with a hard shell. It rolls into opponents, pulling them into its wild orbit. The roar of its movement drowns out any other sounds._
 
 This creature is physically tough, with higher than average **STR** and strong armor. It is probably fast but not maneuverable, and likely doesn't rely on skill or dexterity to avoid danger. It is brutish, but still a wild beast and only as willful as any creature just looking for its next meal. It attacks by rolling in a straight line, and should impact multiple targets.
+
+#### Thunder Snail
 
 6 HP, 14 STR, 6 DEX, 4 WIL, smash & roll (d10, _blast_)
 - An thick-shelled beast that attacks by rolling over its opponents in a line.  
