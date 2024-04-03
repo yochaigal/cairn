@@ -184,29 +184,29 @@ Roll 2d20 and combine the results.
 
 #### Landmarks
 
-|         |                    |
-| ------- | ------------------ |
-| **d20** | **Landmark**       |
-| **1**   | Ancient Obelisk    |
-| **2**   | Blackened Crater   |
-| **3**   | Bloom Field        |
-| **4**   | Broken Peak        |
-| **5**   | Cathedral of Trees |
-| **6**   | City of Spores     |
-| **7**   | Colossal Bee Hive  |
-| **8**   | Enormous Tree      |
-| **9**   | Fallen God-Tree    |
-| **10**  | Fungus Grotto      |
-| **11**  | Giant Eagle Nest   |
-| **12**  | Glowing Chasm      |
-| **13**  | Massive Hive       |
-| **14**  | Obsidian River     |
-| **15**  | Petrified Behemoth |
-| **16**  | Rainbow Waterfall  |
-| **17**  | Sky Arch           |
-| **18**  | Stargazer's Rock   |
-| **19**  | Volcanic Plume     |
-| **20**  |                    |
+|         |                    |             |
+| ------- | ------------------ | ----------- |
+| **d20** | **Landmark**       | **Feature** |
+| **1**   | Ancient Obelisk    |             |
+| **2**   | Blackened Crater   |             |
+| **3**   | Bloom Field        |             |
+| **4**   | Broken Peak        |             |
+| **5**   | Cathedral of Trees |             |
+| **6**   | City of Spores     |             |
+| **7**   | Colossal Bee Hive  |             |
+| **8**   | Enormous Tree      |             |
+| **9**   | Fallen God-Tree    |             |
+| **10**  | Fungus Grotto      |             |
+| **11**  | Great Eagle's Nest |             |
+| **12**  | Glowing Chasm      |             |
+| **13**  | Massive Hive       |             |
+| **14**  | Obsidian River     |             |
+| **15**  | Petrified Behemoth |             |
+| **16**  | Rainbow Waterfall  |             |
+| **17**  | Sky Arch           |             |
+| **18**  | Stargazer's Rock   |             |
+| **19**  | Volcanic Plume     |             |
+| **20**  | Guardian Tree      |             |
 
 ### Draw Trails
 
