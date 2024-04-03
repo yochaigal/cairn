@@ -42,11 +42,11 @@ Follow this procedure for any Dungeon POIs in your setting. Refer to the dungeon
 
 ### Overview
 
-- Describe the dungeon's original purpose, its construction, and finally its ruination.
-- Describe the dungeon's NPCs and Factions, including their unique traits and agendas.
-- Finalize the dungeon theme.
-- Create the map.
-- Stock the dungeon's rooms.
+1. Define the dungeon's original purpose, its construction, and finally its ruination.
+2. Define the dungeon's NPCs and Factions, including their unique traits and agendas.
+3. Finalize the dungeon theme.
+4. Create the map.
+5. Stock the dungeon's rooms.
 
 ### History
 
@@ -154,7 +154,6 @@ _"What is each Faction trying to achieve, and what stands in their way?"_
 
 Roll 2d20 and combine the results.
 
-
 |         |                 |               |
 | ------- | --------------- | ------------- |
 | **d20** | **Virtues**     | **Vices**     |
@@ -224,8 +223,8 @@ Roll 2d20 and combine the results.
 |         |          |
 | ------- | -------- |
 | **d6**  | **Room** |
-| **1-2** | Lore     |
-| **3**   | Monster  |
+| **1**   | Monster  |
+| **2-3** | Lore     |
 | **4**   | Special  |
 | **5-6** | Trap     |
 

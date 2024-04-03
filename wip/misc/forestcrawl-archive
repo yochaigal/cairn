@@ -1,115 +1,132 @@
----
-title: Forestcrawl
-layout: default
-nav_exclude: true
-search_exclude: true
-parent: 2e
-grand_parent: WIP
----
 
-# Forestcrawl
+# Forestcrawl Archive
 
 ## Introduction
-
-- A forestcrawl is a type of **pointcrawl** that focuses specifically on travel through forested zones, trying to capture the density, non-linearity, and intricate network of paths within a heavily wooded area. 
-- A forested zone is made up of trails connecting various points of interest within a forested zone. 
+- A forestcrawl is a type of **pointcrawl** (see below) that focuses specifically on travel through forested zones, trying to capture the density, non-linearity, and intricate network of paths within a heavily wooded area. 
+- A forested zone is made up of trails connecting various **Details**, or points of interest within a forested zone. 
 - For an example map, jump to the [bottom](#example-forest).
 
+> A pointcrawl is a great method for exploring complex, non-linear areas like forests, swamps, or cities, where the paths between points of interest can be labyrinthine and less easily defined than in a wide open space. 
+
 ## Exploring The Wood
+- **Details** in a forestcrawl are close to each other. Assume that the PCs are taking the [**Explore**](https://cairnrpg.com/wip/2e/wilderness-exploration/#explore) action, no matter how many locations they visit. 
+- When traveling on clearly marked trails, a small forest zone (10-15 **Details**) can be explored in its entirety in a single [**Watch**](https://cairnrpg.com/wip/2e/wilderness-exploration/#watches). 
+- If the party attempts to reach a **Detail** by going "off-trail" (bushwhacking), the **Warden** should make any associated costs clear: typically time, effort (**Fatigue**), or any obvious dangers. Going off-trail also automatically triggers a roll on the [Wilderness Events](https://cairnrpg.com/wip/2e/wilderness-exploration/#wilderness-events) table.
 
-- Points in a forestcrawl are close to each other. When traveling on clearly marked trails, a small forest zone (10-15 POIs) can be explored in its entirety in a single Watch.
-- If the party attempts to reach a point by going "off-trail" (bushwhacking), the **Warden** should make any associated costs clear: typically time, effort (**Fatigue**), or any obvious dangers. Going off-trail also automatically triggers a roll on the Wilderness Events table.
-- If the party is interrupted, stops to investigate something, rest, etc. while exploring a forested zone, there may not be enough time to fully explore each connected point. In these cases, rely on the fiction and common sense to determine how much time is left in the day. 
+> If the party is interrupted, stops to investigate something, rest, etc. while exploring a forested zone, there may not be enough time to fully explore every connected **Detail**. In these cases, rely on the fiction and common sense to determine how much time is left in the day. 
 
-## Creating a Forest
+## Draw The Trails
 
-Follow this procedure for any forested terrain in a region. 
+1. On a flat sheet of paper, draw a dot to signify the forest's **Heart**.
+2. Draw a single curving line stemming out from the **Heart**. This is the **trunk**. 
+3. Draw three **branches** sprouting off from the **trunk**. 
+4. Draw one or two short **twigs** from each **branch**. They can vary in length.
+5. Place a dot at the terminus of every **branch**, **trunk**, or **twig**.
+6. Create loops by connecting two dots to any other trail.   
+7. Number each dot, starting with the **Heart**. 
 
-### Materials Required
+### Create The Forest
 
-- A sheet of paper and a notebook. Letter/A4 is fine.
-- Pencils and erasers.
-- At least one d6 and one d20, but 6d6 and 2d20 would be ideal.
+1. Roll on the [Trail Markers](#trail-markers) table for the **trunk**, as well as each **branch**. **Twigs** use same trails as their respective **branches**. Label each trail!
+2. Roll on the [Spoor Types](#spoor-types) table for every trail. Note the **spoor** for each.
+3. Follow the instructions [Details](#details) section to create **Details** for each dot.
+4. Roll on the [Forest Encounters](#forest-encounters) table for each [Detail](#detail), recording and expanding on the results. 
+5. Roll on the [Detail Names](#detail-names) table, combining the results to produce a name for each **Detail**.
+6. Name the forest by rolling on the [Forest Names](#forest-names) table.
 
-> Going forward, we will refer to the sheet of paper as the **forest map**.
-> As with any other rule, if you don't like a table result, roll again or tweak as desired!
+#### Tips
 
-### Overview
+- To increase the number of **Details** on the map, you can either add more **branches** and **twigs**, or place a dot at the intersection of lines, e.g. where the **trunk** meets a **branch**.
+- Create loops by adding more trails! Connect an existing **Detail** to another **branch** or the **trunk**. 
 
-1. Define the forest's inhabitants.
-2. Create the trails.
-3. Create points. 
-4. Create trail markers and spoor.
-5. Create forest encounters.
-6. Name each point.
-7. Name the forest.
+### Trail Markers
 
-### Forest Denizens
+|         |                        |
+| ------- | ---------------------- |
+| **d12** | **Marker**             |
+| **1**   | **Animal Path**        |
+| **2**   | **Merchant's Road**    |
+| **3**   | **Fae Passage**        |
+| **4**   | **Bandit's Run**       |
+| **5**   | **Pilgrim's Footpath** |
+| **6**   | **Old Logging Road**   |
+| **7**   | **Trail Tree**         |
+| **8**   | **Treeline Heights**   |
+| **9**   | **Cloistered Grove**   |
+| **10**  | **River Gulch**        |
+| **11**  | **Spore Saturated**    |
+| **12**  | **War Route**          |
 
-Something about forest people
+### Spoor Types 
 
-#### Some table
+|         |                               |
+| ------- | ----------------------------- |
+| **d20** | **Spoor**                     |
+| **1**   | **Distant Singing**           |
+| **2**   | **Badger Holes**              |
+| **3**   | **Serpent Traces**            |
+| **4**   | **Enormous Footprints**       |
+| **5**   | **Rabbit Droppings**          |
+| **6**   | **Animals Acting Strangely**  |
+| **7**   | **Large Bird Feathers**       |
+| **8**   | **Fox Prints**                |
+| **9**   | **Faint Laughter**            |
+| **10**  | **Bear Rubbings**             |
+| **11**  | **A smoldering campsite**     |
+| **12**  | **Fresh Spiderwebs**          |
+| **13**  | **Archaic Tree Carvings**     |
+| **14**  | **Dozens Of Stone Piles**     |
+| **15**  | **Claw Marks**                |
+| **16**  | **Phosphorescent Toadstools** |
+| **17**  | **Deer Tracks**               |
+| **18**  | **Swaying Plants**            |
+| **19**  | **Peripheral Images**         |
+| **20**  | **Muted Bells**               |
 
-|         |     |     |
-| ------- | --- | --- |
-| **d20** |     |     |
-| **1**   |     |     |
-| **2**   |     |     |
-| **3**   |     |     |
-| **4**   |     |     |
-| **5**   |     |     |
-| **6**   |     |     |
-| **7**   |     |     |
-| **8**   |     |     |
-| **9**   |     |     |
-| **10**  |     |     |
-| **11**  |     |     |
-| **12**  |     |     |
-| **13**  |     |     |
-| **14**  |     |     |
-| **15**  |     |     |
-| **16**  |     |     |
-| **17**  |     |     |
-| **18**  |     |     |
-| **19**  |     |     |
-| **20**  |     |     |
+## Details
 
-### Trails
+- Each dot on the map is one **Detail**.  
+- The **Heart** is where the forest is at its most powerful, its most sentient, and its most dangerous. 
+- Each **Detail** is connected to its nearest neighbor by a trail, indicated by a specififc [Trail Type](#trail-types). 
 
-## Create the Map
+### Adding Details
 
-- Roll **4-16 d6** dice on the dungeon map, ignoring any dice that fall off the page. These are the Points of Interest (POI) in the forest.
-- Write the face-up results on the page according to the [Forest Die Drop Table](#forest-die-drop-table). For example, the number **4** would indicate a **Special** area, denoted by the letter "S" on the page.
-- Select up to two points closest to the page border. These are the forest's entrances.
-- Starting with any entrance, number each room on the dungeon map.
+1. Roll on the [Special](#special) table for the **Heart** **Detail**.
+2. Generate features for each remaining **Detail** by first rolling on the [Detail Types](#detail-types) table, then on the associated table.
+3. For any **Settlements** rolled, roll on the [Settlement Features](#settlement-features) table as well.   
 
-#### Forest Die Drop Table
+> If some of the results below seem incongruous, that's OK! Turn it into a question, like "Why _is_ there an old logging road leading to the bandit's hideout?" That said, don't be afraid to choose a more appropriate result if you're having a hard time making it work!
 
-|         |          |
-| ------- | -------- |
-| **d6**  | **POI**  |
-| **1**   | Refuge   |
-| **2-3** | Hazard   |
-| **4**   | Special  |
-| **5-6** | Landmark |
+#### Detail Types
+
+|        |                 |
+| ------ | --------------- |
+| **d6** | **Detail Type** |
+| **1**  | **Settlement**  |
+| **2**  | **Ruins**       |
+| **3**  | **Lair**        |
+| **4**  | **Hazard**      |
+| **5**  | **Landmark**    |
+| **6**  | **Special**     |
 
 #### Settlements
 
-|         |                   |
-| ------- | ----------------- |
-| **d12** | **Settlement**    |
-| **1**   | Night Market      |
-| **2**   | Lumber Site       |
-| **3**   | Druid Circle      |
-| **4**   | Hermit's Hut      |
-| **5**   | Treehouse         |
-| **6**   | Ranger's Outpost  |
-| **7**   | Hidden Refuge     |
-| **8**   | Quaint Cottage    |
-| **9**   | Monastic Retreat  |
-| **10**  | Ranger Encampment |
-| **11**  | Leafy Village     |
-| **12**  | Hunter's Lodge    |
+|         |                       |
+| ------- | --------------------- |
+| **d12** | **Settlement**        |
+| **1**   | **Night Market**      |
+| **2**   | **Lumber Site**       |
+| **3**   | **Druid Circle**      |
+| **4**   | **Hermit's Hut**      |
+| **5**   | **Treehouse**         |
+| **6**   | **Ranger's Outpost**  |
+| **7**   | **Hidden Refuge**     |
+| **8**   | **Quaint Cottage**    |
+| **9**   | **Monastic Retreat**  |
+| **10**  | **Ranger Encampment** |
+| **11**  | **Leafy Village**     |
+| **12**  | **Hunter's Lodge**    |
+
 
 > For each result from the [Settlement](#settlements) table, roll on the [Settlement Features](#settlement-features) table below.
 
@@ -237,62 +254,6 @@ Something about forest people
 | **19**  | **Guardian**              |
 | **20**  | **Bloom Field**           |
 
-### Draw Trails
-
-- Starting with the entrance, create 1-4 trails between each point. 
- - Create loops, branching trails, dead-ends, and shortcuts between points.
- - Some paths are Conditional, represented by a crossed line.
- - Some paths are Hidden, represented by a dashed line.
-- Create intersections (crossed lines) with no rooms in between.
-- Roll on the [Trail Markers](#trail-markes) and [Trail Spoor](#trail-spoor) tables for each trail, recording the results in your notebook. 
-
-#### Trail Markers
-
-|         |                        |
-| ------- | ---------------------- |
-| **d12** | **Marker**             |
-| **1**   | **Animal Path**        |
-| **2**   | **Merchant's Road**    |
-| **3**   | **Fae Passage**        |
-| **4**   | **Bandit's Run**       |
-| **5**   | **Pilgrim's Footpath** |
-| **6**   | **Old Logging Road**   |
-| **7**   | **Trail Tree**         |
-| **8**   | **Treeline Heights**   |
-| **9**   | **Cloistered Grove**   |
-| **10**  | **River Gulch**        |
-| **11**  | **Spore Saturated**    |
-| **12**  | **War Route**          |
-
-#### Trail Spoor 
-
-|         |                               |
-| ------- | ----------------------------- |
-| **d20** | **Spoor**                     |
-| **1**   | **Distant Singing**           |
-| **2**   | **Badger Holes**              |
-| **3**   | **Serpent Traces**            |
-| **4**   | **Enormous Footprints**       |
-| **5**   | **Rabbit Droppings**          |
-| **6**   | **Animals Acting Strangely**  |
-| **7**   | **Large Bird Feathers**       |
-| **8**   | **Fox Prints**                |
-| **9**   | **Faint Laughter**            |
-| **10**  | **Bear Rubbings**             |
-| **11**  | **A smoldering campsite**     |
-| **12**  | **Fresh Spiderwebs**          |
-| **13**  | **Archaic Tree Carvings**     |
-| **14**  | **Dozens Of Stone Piles**     |
-| **15**  | **Claw Marks**                |
-| **16**  | **Phosphorescent Toadstools** |
-| **17**  | **Deer Tracks**               |
-| **18**  | **Swaying Plants**            |
-| **19**  | **Peripheral Images**         |
-| **20**  | **Muted Bells**               |
-
-> If some of the results seem incongruous, that's OK! Turn it into a question, like "Why _is_ there an old logging road leading to the bandit's hideout?" That said, don't be afraid to choose a more appropriate result if you're having a hard time making it work!
-
-
 #### Forest Encounters
 
 - To roll on the table below, roll a **d6** twice, first for the **tens** place, and then another for the **ones** place. 
@@ -338,19 +299,18 @@ Something about forest people
 | **65**  | In the crook of a hollow tree, six ravens squawk and preen. If observed they stare back in silence.        |
 | **66**  | A rotted, vine-covered cabin, clearly abandoned long ago. A delicious smell wafts from the window.         |
 
-# Naming Points
+# Naming Details
 
-- To create a name each point, combine the results from the first column (adjectives) with the results from the second column (nouns).
+- To create a name each **Detail**, combine the results from the first column (adjectives) with the results from the second column (nouns).
 - For the adjective, roll a **d10** twice, first for the **tens** place, and then another for the **ones** place. Then repeat the process for the noun. 
 - Feel free to combine two nouns, or an adjective and a [terrain type](https://cairnrpg.com/wip/2e/setting/#terrain-noun)
 
 #### Tips & Changes
-
 - Change it up! The name _Welcoming Grove_ creates a more vivid image than _Beckoning Copse_ might.
-- Use contrasting words (e.g. _Twisted Canopy_) to evoke an interesting point about the location.
+- Use contrasting words (e.g. _Twisted Canopy_) to evoke an interesting detail about the location.
 - Make it sound nice. Alliteration and pleasing combinations can create pleasant sounds. _Whispering Woods_ is more pleasing to the ear than _Tangled Woods._ 
 
-### Forest Names
+### Detail Names
 
 |          |                |             |
 | -------- | -------------- | ----------- |
@@ -515,7 +475,7 @@ Something about forest people
 
 ### Number Dots
 
-- First we assign numbers, starting with the **Heart** at 11. In total, we have 7 dots for the Points: 
+- First we assign numbers, starting with the **Heart** at 11. In total, we have 7 dots for the **Details**: 
 - `1` is our **Heart**.
 - `2` is at the beginning (or end) of the **trunk**. 
 - `4`, `5`, and `6`, are each at the end of a **branch**.
@@ -541,21 +501,21 @@ For each trail we'll roll on the **Trail Markers** table (**d12**):
 - For the _War Route_ we rolled a **14** (Dozens of Stone Piles)
 - For the _Trail Tree_ we rolled a **13** (Claw Marks).
 
-### Assign Points
+### Assign Details
 
-Next we'll roll on the provided tables to generate features for each point. First roll a **d20** on the [Special](#special) table to create the **Heart (1)**. We got an **11** (_Elf Queen's Pavilion_).
+Next we'll roll on the provided tables to generate features for each **Detail**. First roll a **d20** on the [Special](#special) table to create the **Heart (1)**. We got an **11** (_Elf Queen's Pavilion_).
 
-For each remaining point, we first roll on the [point Types](#point-types) table, then on the associated table:
-- **(2)**: We roll a **d6**: a **4** (Hazard). Now we roll a **d12** on the [Hazards](#hazards) table: a **6** (_Thorny Thickets_).
-- **(3)**: We roll a **d6**: a **5** (Landmark). Now we roll a **d12** on the [Landmarks](#landmarks) table: an **11** (_Cathedral of Trees_).
-- **(4)**: We roll a **d6**: **1** (Settlement). Now we roll a **d12** on the [Settlement](#settlements) table: a **9** (_Monastic Retreat_). We also roll on the [Settlement Features](#settlement-features) table with a **d20**: a **20** (Renowned for its scholars).
-- **(5)**: We roll a **d6**: **2** (Ruins). Roll a **d12** on the [Ruins](#ruins) table: a **4** (_Crumbled Crypt_).
-- **(6)**: We roll a **d6**: **3** (Lair). Roll a **d12** on the [Lairs](#lairs) table: an **8** (_Goblin Hideaway_).
-- **(7)**: We roll a **d6**: **6** (Special). Roll a **d20** on the Special table: a **5** (_Will-o'-Wisps_).
+For each remaining **Detail**, we first roll on the [Detail Types](#detail-types) table, then on the associated table:
+- **Detail (2)**: We roll a **d6**: a **4** (Hazard). Now we roll a **d12** on the [Hazards](#hazards) table: a **6** (_Thorny Thickets_).
+- **Detail (3)**: We roll a **d6**: a **5** (Landmark). Now we roll a **d12** on the [Landmarks](#landmarks) table: an **11** (_Cathedral of Trees_).
+- **Detail (4)**: We roll a **d6**: **1** (Settlement). Now we roll a **d12** on the [Settlement](#settlements) table: a **9** (_Monastic Retreat_). We also roll on the [Settlement Features](#settlement-features) table with a **d20**: a **20** (Renowned for its scholars).
+- **Detail (5)**: We roll a **d6**: **2** (Ruins). Roll a **d12** on the [Ruins](#ruins) table: a **4** (_Crumbled Crypt_).
+- **Detail (6)**: We roll a **d6**: **3** (Lair). Roll a **d12** on the [Lairs](#lairs) table: an **8** (_Goblin Hideaway_).
+- **Detail (7)**: We roll a **d6**: **6** (Special). Roll a **d20** on the Special table: a **5** (_Will-o'-Wisps_).
 
 ### Create Encounters
 
-Next, we create forest encounters by rolling a **d20** on the [Forest Encounters](#forest-encounters) table for each point.
+Next, we create forest encounters by rolling a **d20** on the [Forest Encounters](#forest-encounters) table for each **Detail**.
 
 1. We roll an **8**: _Naiads splashing in a small pond. Their teeth are fanged, like daggers._
 2. We roll a **17**: _A dense thicket of thorns, nearly impassable._
@@ -565,9 +525,9 @@ Next, we create forest encounters by rolling a **d20** on the [Forest Encounters
 6. We roll a **3**: _A snarling pack of wolves surrounding a fresh kill._
 7. We roll a **6**: _A circle of perfect mushrooms. Blue-white wings flutter between._
 
-### Naming
+### Detail Naming
 
-We will now name each point using the [Location Names](#location-names) table. I took some liberties here, smashing together words I liked with other words from the list.
+We will now name each **Detail** using the [Detail Names](#detail-names) table. I took some liberties here, smashing together words I liked with other words from the list.
 
 1. **Heart (Elf Queen's Pavilion)**: _Glintleaf Dell_
 2. **(Thorny Thickets)**: _Thistlefield_
