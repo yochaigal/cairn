@@ -130,29 +130,29 @@ Roll 2d20 and combine the results.
 
 Roll 2d20 and combine the results.
 
-|         |                     |                              |
-| ------- | ------------------- | ---------------------------- |
-| **d20** | **Hazard**          | **Feature**                  |
-| **1**   | Animal Trap         | Animated Armor               |
-| **2**   | Bone Orchard        | Bird spies                   |
-| **3**   | Bramble Tunnels     | Fever-dreaming swamp gas     |
-| **4**   | Giant Spider Nest   | Ghosts trapped in crystal    |
-| **5**   | Insects             | Highly localized weather     |
-| **6**   | Moving Thickets     | Howling stones               |
-| **7**   | Poisonous Plants    | Invisible webs               |
-| **8**   | Quicksand           | Living scarecrows            |
-| **9**   | Sap Trap            | Mimic vines                  |
-| **18**  | Sleeping Giant      | Will-o'-the-Wisp territory   |
-| **10**  | Slippery Moss       | Paths change direction       |
-| **11**  | Spiked Pit          | Pet basilisk                 |
-| **12**  | Stinging Nettles    | Pixies that steal memories   |
-| **13**  | Thorny Thickets     | Tracks are erased by mist    |
-| **14**  | Toxic spores        | Trees that grow from bones   |
-| **15**  | Troll Den           | Between the trees that bleed |
-| **16**  | Unstable Ground     |                              |
-| **17**  | Warrior's Challenge |                              |
-| **19**  |                     |                              |
-| **20**  |                     |                              |
+|         |                   |                              |
+| ------- | ----------------- | ---------------------------- |
+| **d20** | **Hazard**        | **Feature**                  |
+| **1**   | Animal Trap       | Animated Armor               |
+| **2**   | Bone Orchard      | Bird spies                   |
+| **3**   | Bramble Tunnels   | Induces fever-dreams         |
+| **4**   | Giant Spider Nest | Ghosts trapped in crystal    |
+| **5**   | Insect Swarm      | Highly localized weather     |
+| **6**   | Moving Thickets   | Howling stones               |
+| **7**   | Poisonous Plants  | Invisible webs               |
+| **8**   | Slow Quicksand    | Living scarecrows            |
+| **9**   | Sap Trap          | Mimic vines                  |
+| **18**  | Sleeping Giant    | Will-o-Wisp congregate       |
+| **10**  | Slippery Moss     | Paths change direction       |
+| **11**  | Spiked Pit        | A pet basilisk               |
+| **12**  | Stinging Nettles  | Memory Stealers              |
+| **13**  | Thorny Thickets   | Tracks erased by mist        |
+| **14**  | Toxic spores      | Trees that grow from bones   |
+| **15**  | Troll Den         | Embraced by bleeding trees   |
+| **16**  | Unstable Ground   | Giant rodent feeding grounds |
+| **17**  | Psychic Fog       | A witch trap                 |
+| **19**  | Frozen Troll      | Scavengers that wait         |
+| **20**  | Bog Shadows       | The dead - they watch        |
 
 #### Ruins
 
@@ -207,8 +207,6 @@ Roll 2d20 and combine the results.
 | **18**  | Stargazer's Rock   |
 | **19**  | Volcanic Plume     |
 | **20**  |                    |
-
-
 
 ### Draw Trails
 
