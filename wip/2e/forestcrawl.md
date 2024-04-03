@@ -78,7 +78,7 @@ Something about forest people
 
 ## Create the Map
 
-- Roll **4-16 d6** dice on the dungeon map, ignoring any dice that fall off the page. These are the Points of Interest (POI) in the forest.
+- Roll **8-12 d6** dice on the dungeon map, ignoring any dice that fall off the page. These are the Points of Interest (POI) in the forest.
 - Write the face-up results on the page according to the [Forest Die Drop Table](#forest-die-drop-table). For example, the number **4** would indicate a **Special** area, denoted by the letter "S" on the page.
 - Select up to two points closest to the page border. These are the forest's entrances.
 - Starting with any entrance, number each room on the dungeon map.
@@ -123,6 +123,8 @@ Roll 2d20 and combine the results.
 
 #### Ruins
 
+Roll 2d20 and combine the results.
+
 |         |                     |             |
 | ------- | ------------------- | ----------- |
 | **d20** | **Ruin**            | **Feature** |
@@ -147,85 +149,59 @@ Roll 2d20 and combine the results.
 | **19**  | Sunken Gazebo       |             |
 | **20**  | Toppled Monument    |             |
 
-#### Lairs
+#### Hazard
 
-|         |                        |
-| ------- | ---------------------- |
-| **d12** | **Lair**               |
-| **1**   | **Wolf Den**           |
-| **2**   | **Bear Cave**          |
-| **3**   | **Giant Spider Nest**  |
-| **4**   | **Troll Hideout**      |
-| **5**   | **Dragon's Lair**      |
-| **6**   | **Witch's Hut**        |
-| **7**   | **Bandit Camp**        |
-| **8**   | **Goblin Hideaway**    |
-| **9**   | **Ogre's Den**         |
-| **10**  | **Sorcerer's Retreat** |
-| **11**  | **Pixie Hollow**       |
-| **12**  | **Cursed Swamp**       |
+Roll 2d20 and combine the results.
 
-#### Hazards
-
-|         |                         |
-| ------- | ----------------------- |
-| **d12** | **Hazard**              |
-| **1**   | **Quicksand**           |
-| **2**   | **Poisonous Plants**    |
-| **3**   | **Swarming Insects**    |
-| **4**   | **Knight's Challenge**  |
-| **5**   | **Deadly Hollows**      |
-| **6**   | **Thorny Thickets**     |
-| **7**   | **Unhelpful Ghosts**    |
-| **8**   | **Slippery Moss**       |
-| **9**   | **Venomous Snakes**     |
-| **10**  | **Arcane Residue**      |
-| **11**  | **Hidden Predators**    |
-| **12**  | **Relentless Darkness** |
+|         |                    |
+| ------- | ------------------ |
+| **d20** | **Hazard**         |
+| **1**   | Wolf Den           |
+| **2**   | Bear Cave          |
+| **3**   | Giant Spider Nest  |
+| **4**   | Troll Hideout      |
+| **5**   | Dragon's Lair      |
+| **6**   | Witch's Hut        |
+| **7**   | Bandit Camp        |
+| **8**   | Goblin Hideaway    |
+| **9**   | Ogre's Den         |
+| **10**  | Sorcerer's Retreat |
+| **11**  | Pixie Hollow       |
+| **12**  | Cursed Swamp       |
+| **13**  | Quicksand          |
+| **14**  | Poisonous Plants   |
+| **15**  | Swarming Insects   |
+| **16**  | Knight's Challenge |
+| **17**  | Deadly Hollows     |
+| **18**  | Thorny Thickets    |
+| **19**  | Unhelpful Ghosts   |
+| **20**  | Slippery Moss      |
 
 #### Landmarks
 
-|         |                          |
-| ------- | ------------------------ |
-| **d12** | **Landmark**             |
-| **1**   | **Enormous Tree**        |
-| **2**   | **Waterfall**            |
-| **3**   | **Giant Mushroom**       |
-| **4**   | **Old Timber Mill**      |
-| **5**   | **Massive Stone Circle** |
-| **6**   | **Burial Glade**         |
-| **7**   | **Perilous Bridge**      |
-| **8**   | **Deep Pond**            |
-| **9**   | **Fairy Ring**           |
-| **10**  | **Flickering Lights**    |
-| **11**  | **Cathedral of Trees**   |
-| **12**  | **Overgrown Ruins**      |
-
-#### Special
-
-|         |                           |
-| ------- | ------------------------- |
-| **d20** | **Special**               |
-| **1**   | **Fae Observatory**       |
-| **2**   | **Lost Altar**            |
-| **3**   | **Spirits**               |
-| **4**   | **Fey Nexus**             |
-| **5**   | **Will-o'-Wisps**         |
-| **6**   | **Time-Distorted Grove**  |
-| **7**   | **Dreaming Stones**       |
-| **8**   | **Goblin Market**         |
-| **9**   | **Sentient Tree**         |
-| **10**  | **Secret Cache**          |
-| **11**  | **Elf Queen's Pavilion**  |
-| **12**  | **Celestial Observatory** |
-| **13**  | **Living Tapestry**       |
-| **14**  | **Fae Gate**              |
-| **15**  | **Ward Circle**           |
-| **16**  | **Singing Tree**          |
-| **17**  | **Fungus Grotto**         |
-| **18**  | **Massive Hive**          |
-| **19**  | **Guardian**              |
-| **20**  | **Bloom Field**           |
+|         |                      |
+| ------- | -------------------- |
+| **d20** | **Landmark**         |
+| **1**   | Bloom Field          |
+| **2**   | Burial Glade         |
+| **3**   | Cathedral of Trees   |
+| **4**   | Dreaming Stones      |
+| **5**   | Fae Pavilion         |
+| **6**   | Enormous Tree        |
+| **7**   | Flickering Lights    |
+| **8**   | Fungus Grotto        |
+| **9**   | Giant Mushroom       |
+| **10**  | Massive Hive         |
+| **11**  | Stone Circle         |
+| **12**  | Sentient Tree        |
+| **13**  | Time-Distorted Grove |
+| **14**  | Ward Circle          |
+| **15**  |                      |
+| **16**  |                      |
+| **17**  |                      |
+| **18**  |                      |
+| **19**  |                      |
+| **20**  |                      |
 
 ### Draw Trails
 
@@ -236,49 +212,32 @@ Roll 2d20 and combine the results.
 - Create intersections (crossed lines) with no rooms in between.
 - Roll on the [Trail Markers](#trail-markes) and [Trail Spoor](#trail-spoor) tables for each trail, recording the results in your notebook. 
 
-#### Trail Markers
+#### Trail Types
 
-|         |                        |
-| ------- | ---------------------- |
-| **d12** | **Marker**             |
-| **1**   | **Animal Path**        |
-| **2**   | **Merchant's Road**    |
-| **3**   | **Fae Passage**        |
-| **4**   | **Bandit's Run**       |
-| **5**   | **Pilgrim's Footpath** |
-| **6**   | **Old Logging Road**   |
-| **7**   | **Trail Tree**         |
-| **8**   | **Treeline Heights**   |
-| **9**   | **Cloistered Grove**   |
-| **10**  | **River Gulch**        |
-| **11**  | **Spore Saturated**    |
-| **12**  | **War Route**          |
+|         |                    |                           |
+| ------- | ------------------ | ------------------------- |
+| **d20** | **Marker**         | **Spoor**                 |
+| **1**   | Animal Path        | Distant Singing           |
+| **2**   | Merchant's Road    | Badger Holes              |
+| **3**   | Fae Passage        | Serpent Traces            |
+| **4**   | Bandit's Run       | Enormous Footprints       |
+| **5**   | Pilgrim's Footpath | Rabbit Droppings          |
+| **6**   | Old Logging Road   | Animals Acting Strangely  |
+| **7**   | Trail Tree         | Large Bird Feathers       |
+| **8**   | Treeline Heights   | Fox Prints                |
+| **9**   | Cloistered Grove   | Faint Laughter            |
+| **10**  | River Gulch        | Bear Rubbings             |
+| **11**  | Spore Saturated    | A smoldering campsite     |
+| **12**  | War Route          | Fresh Spiderwebs          |
+| **13**  |                    | Archaic Tree Carvings     |
+| **14**  |                    | Dozens Of Stone Piles     |
+| **15**  |                    | Claw Marks                |
+| **16**  |                    | Phosphorescent Toadstools |
+| **17**  |                    | Deer Tracks               |
+| **18**  |                    | Swaying Plants            |
+| **19**  |                    | Peripheral Images         |
+| **20**  |                    | Muted Bells               |
 
-#### Trail Spoor 
-
-|         |                               |
-| ------- | ----------------------------- |
-| **d20** | **Spoor**                     |
-| **1**   | **Distant Singing**           |
-| **2**   | **Badger Holes**              |
-| **3**   | **Serpent Traces**            |
-| **4**   | **Enormous Footprints**       |
-| **5**   | **Rabbit Droppings**          |
-| **6**   | **Animals Acting Strangely**  |
-| **7**   | **Large Bird Feathers**       |
-| **8**   | **Fox Prints**                |
-| **9**   | **Faint Laughter**            |
-| **10**  | **Bear Rubbings**             |
-| **11**  | **A smoldering campsite**     |
-| **12**  | **Fresh Spiderwebs**          |
-| **13**  | **Archaic Tree Carvings**     |
-| **14**  | **Dozens Of Stone Piles**     |
-| **15**  | **Claw Marks**                |
-| **16**  | **Phosphorescent Toadstools** |
-| **17**  | **Deer Tracks**               |
-| **18**  | **Swaying Plants**            |
-| **19**  | **Peripheral Images**         |
-| **20**  | **Muted Bells**               |
 
 > If some of the results seem incongruous, that's OK! Turn it into a question, like "Why _is_ there an old logging road leading to the bandit's hideout?" That said, don't be afraid to choose a more appropriate result if you're having a hard time making it work!
 
