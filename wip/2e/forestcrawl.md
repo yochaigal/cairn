@@ -83,6 +83,11 @@ Something about forest people
 - Select up to two points closest to the page border. These are the forest's entrances.
 - Starting with any entrance, number each room on the dungeon map.
 
+- **Shelter**
+- **Hazard**
+- **Ruins**
+- **Landmark**: Most forest landmarks are visible only by climbing a tree, though some may be large enough to stand out from the green. At times, landmarks are _heard_ rather than seen.
+
 #### Forest Die Drop Table
 
 |         |          |
@@ -125,29 +130,29 @@ Roll 2d20 and combine the results.
 
 Roll 2d20 and combine the results.
 
-|         |                     |                            |
-| ------- | ------------------- | -------------------------- |
-| **d20** | **Hazard**          | **Feature**                |
-| **1**   | Animal Trap         | Animated Armor             |
-| **2**   | Bone Orchard        | Bird spies                 |
-| **3**   | Bramble Tunnels     | Fever-dreaming swamp gas   |
-| **4**   | Giant Spider Nest   | Ghosts trapped in crystal  |
-| **5**   | Insects             | Highly localized weather   |
-| **6**   | Moving Thickets     | Howling stones             |
-| **7**   | Poisonous Plants    | Invisible webs             |
-| **8**   | Quicksand           | Living scarecrows          |
-| **9**   | Sap Trap            | Mimic vines                |
-| **18**  | Sleeping Giant      | Will-o'-the-Wisp territory |
-| **10**  | Slippery Moss       | Paths change direction     |
-| **11**  | Spiked Pit          | Pet basilisk               |
-| **12**  | Stinging Nettles    | Pixies that steal memories |
-| **13**  | Thorny Thickets     | Tracks are erased by mist  |
-| **14**  | Toxic spores        | Trees that grow from bones |
-| **15**  | Troll Den           | Sap that induces visions   |
-| **16**  | Unstable Ground     |                            |
-| **17**  | Warrior's Challenge |                            |
-| **19**  |                     |                            |
-| **20**  |                     |                            |
+|         |                     |                              |
+| ------- | ------------------- | ---------------------------- |
+| **d20** | **Hazard**          | **Feature**                  |
+| **1**   | Animal Trap         | Animated Armor               |
+| **2**   | Bone Orchard        | Bird spies                   |
+| **3**   | Bramble Tunnels     | Fever-dreaming swamp gas     |
+| **4**   | Giant Spider Nest   | Ghosts trapped in crystal    |
+| **5**   | Insects             | Highly localized weather     |
+| **6**   | Moving Thickets     | Howling stones               |
+| **7**   | Poisonous Plants    | Invisible webs               |
+| **8**   | Quicksand           | Living scarecrows            |
+| **9**   | Sap Trap            | Mimic vines                  |
+| **18**  | Sleeping Giant      | Will-o'-the-Wisp territory   |
+| **10**  | Slippery Moss       | Paths change direction       |
+| **11**  | Spiked Pit          | Pet basilisk                 |
+| **12**  | Stinging Nettles    | Pixies that steal memories   |
+| **13**  | Thorny Thickets     | Tracks are erased by mist    |
+| **14**  | Toxic spores        | Trees that grow from bones   |
+| **15**  | Troll Den           | Between the trees that bleed |
+| **16**  | Unstable Ground     |                              |
+| **17**  | Warrior's Challenge |                              |
+| **19**  |                     |                              |
+| **20**  |                     |                              |
 
 #### Ruins
 
@@ -179,29 +184,31 @@ Roll 2d20 and combine the results.
 
 #### Landmarks
 
-|         |                      |
-| ------- | -------------------- |
-| **d20** | **Landmark**         |
-| **1**   | Bloom Field          |
-| **2**   | Burial Glade         |
-| **3**   | Cathedral of Trees   |
-| **4**   | Dreaming Stones      |
-| **5**   | Fae Pavilion         |
-| **6**   | Enormous Tree        |
-| **7**   | Flickering Lights    |
-| **8**   | Fungus Grotto        |
-| **9**   | Giant Mushroom       |
-| **10**  | Massive Hive         |
-| **11**  | Stone Circle         |
-| **12**  | Sentient Tree        |
-| **13**  | Time-Distorted Grove |
-| **14**  | Ward Circle          |
-| **15**  |                      |
-| **16**  |                      |
-| **17**  |                      |
-| **18**  |                      |
-| **19**  |                      |
-| **20**  |                      |
+|         |                    |
+| ------- | ------------------ |
+| **d20** | **Landmark**       |
+| **1**   | Ancient Obelisk    |
+| **2**   | Blackened Crater   |
+| **3**   | Bloom Field        |
+| **4**   | Broken Peak        |
+| **5**   | Cathedral of Trees |
+| **6**   | City of Spores     |
+| **7**   | Colossal Bee Hive  |
+| **8**   | Enormous Tree      |
+| **9**   | Fallen God-Tree    |
+| **10**  | Fungus Grotto      |
+| **11**  | Giant Eagle Nest   |
+| **12**  | Glowing Chasm      |
+| **13**  | Massive Hive       |
+| **14**  | Obsidian River     |
+| **15**  | Petrified Behemoth |
+| **16**  | Rainbow Waterfall  |
+| **17**  | Sky Arch           |
+| **18**  | Stargazer's Rock   |
+| **19**  | Volcanic Plume     |
+| **20**  |                    |
+
+
 
 ### Draw Trails
 
@@ -250,7 +257,7 @@ Roll 2d20 and combine the results.
 |         |                                                                                                            |
 | ------- | ---------------------------------------------------------------------------------------------------------- |
 | **d66** | **Encounter**                                                                                              |
-| **11**  | A woodwife gathers herbs, singing a melancholic song. She disappears into the wood if provoked.            |
+| **11**  | A Woodwife gathers herbs, singing a melancholic song. She disappears into the wood if provoked.            |
 | **12**  | An old watchtower, hidden by dense forest growth. Something larger looms just around the bend.             |
 | **13**  | A snarling pack of wolves surround a fresh kill. They are not keen to share.                               |
 | **14**  | A massive boulder blocks the path ahead. It is actually a buried troll, turned to stone by the sun.        |
@@ -273,10 +280,10 @@ Roll 2d20 and combine the results.
 | **43**  | A great oak has been felled, perhaps by lightning. A large hole is rent on one side.                       |
 | **44**  | A troll sits holding a mirror, engaged in deep conversation with its own reflection.                       |
 | **45**  | A tiny hovel is nestled in a tree's roots. The smell of baking bread wafts out.                            |
-| **46**  | A lone woodwose stands directly on the path ahead, holding a large stick.                                  |
+| **46**  | A lone Woodwose stands directly on the path ahead, holding a large stick.                                  |
 | **51**  | A trio of satyrs playing and dancing to music. They seem ignorant of any observation.                      |
 | **52**  | A windless glade with a large willow at the center. It sways softly, as if to some unseen breeze.          |
-| **53**  | Sleeping peacefully atop two boughts, a giant is snoring. The ground vibrates in response.                 |
+| **53**  | Sleeping peacefully atop two boughs, a giant is snoring. The ground vibrates in response.                  |
 | **54**  | Dozens of smallfolk have setup a market here, trading forest goods. Their wares are impressive.            |
 | **55**  | A robed woman is tending to a wounded animal, whispering in its ear.                                       |
 | **56**  | A fairy circle, covered in black moss. Something about it feels off.                                       |
