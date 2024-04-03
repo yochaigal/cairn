@@ -100,82 +100,82 @@ Roll 2d20 and combine the results.
 |         |                   |                                    |
 | ------- | ----------------- | ---------------------------------- |
 | **d20** | **Shelter**       | **Feature**                        |
-| **1**   | Hillside Cave     | Site of an ancient murder          |
-| **2**   | Bandit Hideout    | Once sacred grounds                |
-| **3**   | Cache             | Constructed within a giant tree    |
-| **4**   | Falconer's Tower  | Hides a powerful artifact          |
-| **5**   | Forgotten Ruins   | Inhabited by a supernatural entity |
-| **6**   | Mossy Pool        | Outsiders                          |
-| **7**   | Stone Circle      | Guarded by a mystical barrier      |
-| **8**   | Hermit's Hut      | Protected by trained beasts        |
-| **9**   | Hidden Village    | Haunted by a friendly ghost        |
-| **10**  | Hollow Tree       | Home to war deserters              |
-| **11**  | Hunter's Lodge    | Pig folk hunting grounds           |
-| **12**  | Hut with Legs     | Pale folk dinner locale            |
-| **13**  | Ivy-wrapped Tower | Thieves' Camp                      |
-| **14**  | Lean-to           | Abandoned, for now                 |
-| **15**  | Lumber Site       | Inhabited by a Doomsday Cult       |
-| **16**  | Monastic Retreat  | Parasitic Foliage                  |
-| **17**  | Night Market      | Attracts wild beasts               |
-| **18**  | Ranger's Outpost  |                                    |
-| **19**  | Smoky Cabin       |                                    |
-| **20**  | Tattered Windmill |                                    |
-
-#### Ruins
-
-Roll 2d20 and combine the results.
-
-|         |                     |             |
-| ------- | ------------------- | ----------- |
-| **d20** | **Ruin**            | **Feature** |
-| **1**   | Abandoned Manor     |             |
-| **2**   | Broken Sundial      |             |
-| **3**   | Chipped Bell Tower  |             |
-| **4**   | Collapsed Megalith  |             |
-| **5**   | Crumbled Watchtower |             |
-| **6**   | Decomposed Canoes   |             |
-| **7**   | Entangled Pavilion  |             |
-| **8**   | Exposed Workshop    |             |
-| **9**   | Flooded Monastery   |             |
-| **10**  | Forgotten Market    |             |
-| **11**  | Moldering Farmhouse |             |
-| **12**  | Neglected Shrine    |             |
-| **13**  | Overrun Estate      |             |
-| **14**  | Petrified Campsite  |             |
-| **15**  | Rotted Mill         |             |
-| **16**  | Ruined Cloister     |             |
-| **17**  | Shattered Bridge    |             |
-| **18**  | Smothered Obelisk   |             |
-| **19**  | Sunken Gazebo       |             |
-| **20**  | Toppled Monument    |             |
+| **1**   | Bandit Hideout    | Abandoned, for now                 |
+| **2**   | Falconer's Tower  | Attracts wild beasts               |
+| **3**   | Fishing Hut       | Built in defiance of customs       |
+| **4**   | Forgotten Ruins   | Constructed within a giant tree    |
+| **5**   | Hermit's Hut      | Forest-Knight offers a challenge   |
+| **6**   | Hidden Village    | Guarded by trained animals         |
+| **7**   | Hillside Cave     | Haunted by unhelpful ghosts        |
+| **8**   | Hollow Tree       | Hides a powerful artifact          |
+| **9**   | Hunter's Lodge    | Hunting is forbidden here          |
+| **10**  | Hut with Legs     | Inhabited by a supernatural entity |
+| **11**  | Ivy-wrapped Tower | Occupied by army deserters         |
+| **12**  | Lean-to           | Overrun with cultists              |
+| **13**  | Lumber Site       | Pale folk dinner locale            |
+| **14**  | Monastic Retreat  | Parasitic foliage                  |
+| **15**  | Mossy Pool        | Pig folk hunting grounds           |
+| **16**  | Night Market      | Popular with smugglers             |
+| **17**  | Pale Folk Stable  | Presents a ready-to-eat meal       |
+| **18**  | Ranger's Outpost  | Protected by a playful spirit      |
+| **19**  | Smoky Cabin       | Site of an ancient murder          |
+| **20**  | Tattered Windmill | Thieves' Camp                      |
 
 #### Hazard
 
 Roll 2d20 and combine the results.
 
-|         |                    |
-| ------- | ------------------ |
-| **d20** | **Hazard**         |
-| **1**   | Wolf Den           |
-| **2**   | Bear Cave          |
-| **3**   | Giant Spider Nest  |
-| **4**   | Troll Hideout      |
-| **5**   | Dragon's Lair      |
-| **6**   | Witch's Hut        |
-| **7**   | Bandit Camp        |
-| **8**   | Goblin Hideaway    |
-| **9**   | Ogre's Den         |
-| **10**  | Sorcerer's Retreat |
-| **11**  | Pixie Hollow       |
-| **12**  | Cursed Swamp       |
-| **13**  | Quicksand          |
-| **14**  | Poisonous Plants   |
-| **15**  | Swarming Insects   |
-| **16**  | Knight's Challenge |
-| **17**  | Deadly Hollows     |
-| **18**  | Thorny Thickets    |
-| **19**  | Unhelpful Ghosts   |
-| **20**  | Slippery Moss      |
+|         |                     |                            |
+| ------- | ------------------- | -------------------------- |
+| **d20** | **Hazard**          | **Feature**                |
+| **1**   | Animal Trap         | Animated Armor             |
+| **2**   | Bone Orchard        | Bird spies                 |
+| **3**   | Bramble Tunnels     | Fever-dreaming swamp gas   |
+| **4**   | Giant Spider Nest   | Ghosts trapped in crystal  |
+| **5**   | Insects             | Highly localized weather   |
+| **6**   | Moving Thickets     | Howling stones             |
+| **7**   | Poisonous Plants    | Invisible webs             |
+| **8**   | Quicksand           | Living scarecrows          |
+| **9**   | Sap Trap            | Mimic vines                |
+| **18**  | Sleeping Giant      | Will-o'-the-Wisp territory |
+| **10**  | Slippery Moss       | Paths change direction     |
+| **11**  | Spiked Pit          | Pet basilisk               |
+| **12**  | Stinging Nettles    | Pixies that steal memories |
+| **13**  | Thorny Thickets     | Tracks are erased by mist  |
+| **14**  | Toxic spores        | Trees that grow from bones |
+| **15**  | Troll Den           | Sap that induces visions   |
+| **16**  | Unstable Ground     |                            |
+| **17**  | Warrior's Challenge |                            |
+| **19**  |                     |                            |
+| **20**  |                     |                            |
+
+#### Ruins
+
+Roll 2d20 and combine the results.
+
+|         |                     |                                          |
+| ------- | ------------------- | ---------------------------------------- |
+| **d20** | **Ruin**            | **Feature**                              |
+| **1**   | Abandoned Manor     | Spirit bound to location                 |
+| **2**   | Broken Sundial      | Cursed ground                            |
+| **3**   | Chipped Bell Tower  | A place where time flows differently     |
+| **4**   | Collapsed Megalith  | Ruins holding a dormant power            |
+| **5**   | Crumbled Watchtower | Enchanted with a protective aura         |
+| **6**   | Decomposed Canoes   | Conceals a passage to the underworld     |
+| **7**   | Entangled Pavilion  | Infested with mystical flora             |
+| **8**   | Exposed Workshop    | Contains an ancient, unbreakable curse   |
+| **9**   | Flooded Monastery   | Whispers of the old millers still linger |
+| **10**  | Forgotten Market    | Gateway to a liminal space               |
+| **11**  | Moldering Farmhouse | Hidden weapons cache                     |
+| **12**  | Neglected Shrine    | Resonates with otherworldly energy       |
+| **13**  | Overrun Estate      | Hosts an eternal, silent concert         |
+| **14**  | Petrified Campsite  | Marked by battles of yore                |
+| **15**  | Rotted Mill         | Ancient ruins' whisper                   |
+| **16**  | Ruined Cloister     | Haunted by ancestral spirits             |
+| **17**  | Shattered Bridge    | Resonates with lost magic                |
+| **18**  | Smothered Obelisk   | Veil thin between worlds                 |
+| **19**  | Sunken Gazebo       | Gateway to a liminal space               |
+| **20**  | Toppled Monument    | Time flows differently                   |
 
 #### Landmarks
 
