@@ -88,74 +88,64 @@ Something about forest people
 |         |          |
 | ------- | -------- |
 | **d6**  | **POI**  |
-| **1**   | Refuge   |
+| **1**   | Shelter  |
 | **2-3** | Hazard   |
-| **4**   | Special  |
+| **4**   | Ruins    |
 | **5-6** | Landmark |
 
-#### Settlements
+#### Shelter
 
-|         |                   |
-| ------- | ----------------- |
-| **d12** | **Settlement**    |
-| **1**   | Night Market      |
-| **2**   | Lumber Site       |
-| **3**   | Druid Circle      |
-| **4**   | Hermit's Hut      |
-| **5**   | Treehouse         |
-| **6**   | Ranger's Outpost  |
-| **7**   | Hidden Refuge     |
-| **8**   | Quaint Cottage    |
-| **9**   | Monastic Retreat  |
-| **10**  | Ranger Encampment |
-| **11**  | Leafy Village     |
-| **12**  | Hunter's Lodge    |
+Roll 2d20 and combine the results.
 
-> For each result from the [Settlement](#settlements) table, roll on the [Settlement Features](#settlement-features) table below.
-
-##### Settlement Features
-
-|         |                                         |
-| ------- | --------------------------------------- |
-| **d20** | **Settlement Features**                 |
-| **1**   | **Home to a unique species**            |
-| **2**   | **Known for its hospitality**           |
-| **3**   | **Besieged by a natural threat**        |
-| **4**   | **Steeped in ancient tradition**        |
-| **5**   | **Guarded by a mystical barrier**       |
-| **6**   | **Constructed within a giant tree**     |
-| **7**   | **Built on sacred grounds**             |
-| **8**   | **Rumored to be cursed**                |
-| **9**   | **Contains a powerful artifact**        |
-| **10**  | **Known for its elaborate defenses**    |
-| **11**  | **Host to a renowned artisan**          |
-| **12**  | **Built atop ruins**                    |
-| **13**  | **Guarded by trained beasts**           |
-| **14**  | **Mystically protected**                |
-| **15**  | **Renowned for its scholars**           |
-| **16**  | **Famous for its festivals**            |
-| **17**  | **Reclusive and suspicious**            |
-| **18**  | **Home to a famous hero**               |
-| **19**  | **Controlled by a supernatural entity** |
-| **20**  | **Reknowned for its scholars**          |
+|         |                   |                                    |
+| ------- | ----------------- | ---------------------------------- |
+| **d20** | **Shelter**       | **Feature**                        |
+| **1**   | Hillside Cave     | Site of an ancient murder          |
+| **2**   | Bandit Hideout    | Once sacred grounds                |
+| **3**   | Cache             | Constructed within a giant tree    |
+| **4**   | Falconer's Tower  | Hides a powerful artifact          |
+| **5**   | Forgotten Ruins   | Inhabited by a supernatural entity |
+| **6**   | Mossy Pool        | Outsiders                          |
+| **7**   | Stone Circle      | Guarded by a mystical barrier      |
+| **8**   | Hermit's Hut      | Protected by trained beasts        |
+| **9**   | Hidden Village    | Haunted by a friendly ghost        |
+| **10**  | Hollow Tree       | Home to war deserters              |
+| **11**  | Hunter's Lodge    | Pig folk hunting grounds           |
+| **12**  | Hut with Legs     | Pale folk dinner locale            |
+| **13**  | Ivy-wrapped Tower | Thieves' Camp                      |
+| **14**  | Lean-to           | Abandoned, for now                 |
+| **15**  | Lumber Site       | Inhabited by a Doomsday Cult       |
+| **16**  | Monastic Retreat  | Parasitic Foliage                  |
+| **17**  | Night Market      | Attracts wild beasts               |
+| **18**  | Ranger's Outpost  |                                    |
+| **19**  | Smoky Cabin       |                                    |
+| **20**  | Tattered Windmill |                                    |
 
 #### Ruins
 
-|         |                         |
-| ------- | ----------------------- |
-| **d12** | **Ruins**               |
-| **1**   | **Forgotten Temple**    |
-| **2**   | **Sunken Castle**       |
-| **3**   | **Fallen Tower**        |
-| **4**   | **Crumbled Crypt**      |
-| **5**   | **Overgrown Fort**      |
-| **6**   | **Abandoned Manor**     |
-| **7**   | **Mossy Arch**          |
-| **8**   | **Shattered Bridge**    |
-| **9**   | **Collapsed Megalith**  |
-| **10**  | **Cracked Observatory** |
-| **11**  | **Rotted Mill**         |
-| **12**  | **Derelict Monastery**  |
+|         |                     |             |
+| ------- | ------------------- | ----------- |
+| **d20** | **Ruin**            | **Feature** |
+| **1**   | Abandoned Manor     |             |
+| **2**   | Broken Sundial      |             |
+| **3**   | Chipped Bell Tower  |             |
+| **4**   | Collapsed Megalith  |             |
+| **5**   | Crumbled Watchtower |             |
+| **6**   | Decomposed Canoes   |             |
+| **7**   | Entangled Pavilion  |             |
+| **8**   | Exposed Workshop    |             |
+| **9**   | Flooded Monastery   |             |
+| **10**  | Forgotten Market    |             |
+| **11**  | Moldering Farmhouse |             |
+| **12**  | Neglected Shrine    |             |
+| **13**  | Overrun Estate      |             |
+| **14**  | Petrified Campsite  |             |
+| **15**  | Rotted Mill         |             |
+| **16**  | Ruined Cloister     |             |
+| **17**  | Shattered Bridge    |             |
+| **18**  | Smothered Obelisk   |             |
+| **19**  | Sunken Gazebo       |             |
+| **20**  | Toppled Monument    |             |
 
 #### Lairs
 
@@ -349,158 +339,6 @@ Something about forest people
 - Change it up! The name _Welcoming Grove_ creates a more vivid image than _Beckoning Copse_ might.
 - Use contrasting words (e.g. _Twisted Canopy_) to evoke an interesting point about the location.
 - Make it sound nice. Alliteration and pleasing combinations can create pleasant sounds. _Whispering Woods_ is more pleasing to the ear than _Tangled Woods._ 
-
-### Forest Names
-
-|          |                |             |
-| -------- | -------------- | ----------- |
-| **d100** | **Adjectives** | **Nouns**   |
-| **1**    | Dense          | Thicket     |
-| **2**    | Mossy          | Branches    |
-| **3**    | Twisted        | Stream      |
-| **4**    | Murmuring      | Wind        |
-| **5**    | Moonlit        | Roots       |
-| **6**    | Gnarled        | Copse       |
-| **7**    | Enchanted      | Ferns       |
-| **8**    | Lush           | Hollow      |
-| **9**    | Misty          | Weald       |
-| **10**   | Dappled        | Trees       |
-| **11**   | Towering       | Canopy      |
-| **12**   | Leafy          | Brambles    |
-| **13**   | Wild           | Undergrowth |
-| **14**   | Shadowy        | Leaves      |
-| **15**   | Rustling       | Dell        |
-| **16**   | Secluded       | Pond        |
-| **17**   | Hidden         | Foliage     |
-| **18**   | Tangled        | Spring      |
-| **19**   | Winding        | Blossoms    |
-| **20**   | Fragrant       | Brook       |
-| **21**   | Trickling      | Pathway     |
-| **22**   | Luminous       | Herbs       |
-| **23**   | Hushed         | Woods       |
-| **24**   | Beckoning      | Clearing    |
-| **25**   | Serene         | Grove       |
-| **26**   | Ancient        | Timber      |
-| **27**   | Sturdy         | Oak         |
-| **28**   | Verdant        | Pine        |
-| **29**   | Sacred         | Moss        |
-| **30**   | Ethereal       | Woodland    |
-| **31**   | Majestic       | Shrub       |
-| **32**   | Looming        | Stump       |
-| **33**   | Shimmering     | Lake        |
-| **34**   | Tranquil       | Meadow      |
-| **35**   | Wistful        | Clouds      |
-| **36**   | Smoky          | Loam        |
-| **37**   | Lost           | Knar        |
-| **38**   | Abandoned      | Hut         |
-| **39**   | Weathered      | Stones      |
-| **40**   | Timeless       | Ruins       |
-| **41**   | Mysterious     | Pools       |
-| **42**   | Haunted        | Bogs        |
-| **43**   | Desolate       | Dunes       |
-| **44**   | Lonely         | Plateau     |
-| **45**   | Exotic         | Oasis       |
-| **46**   | Stark          | Camp        |
-| **47**   | Rugged         | Crags       |
-| **48**   | Eternal        | Orchard     |
-| **49**   | Bountiful      | Waterway    |
-| **50**   | Splendid       | Snow        |
-| **51**   | Pristine       | Flowers     |
-| **52**   | Blooming       | Cave        |
-| **53**   | Illuminated    | Valley      |
-| **54**   | Charmed        | Passages    |
-| **55**   | Lavish         | Ravine      |
-| **56**   | Vibrant        | Dew         |
-| **57**   | Glistening     | Horizon     |
-| **58**   | Distant        | Bridge      |
-| **59**   | Fabled         | Stairs      |
-| **60**   | Overgrown      | Grotto      |
-| **61**   | Primeval       | Pass        |
-| **62**   | Unseen         | Ridge       |
-| **63**   | Precarious     | Slope       |
-| **64**   | Gentle         | Granite     |
-| **65**   | Unyielding     | Harmony     |
-| **66**   | Harmonious     | Cascade     |
-| **67**   | Opulent        | Trail       |
-| **68**   | Silent         | Rapids      |
-| **69**   | Roaring        | River       |
-| **70**   | Serpentine     | Path        |
-| **71**   | Uncharted      | Glade       |
-| **72**   | Radiant        | Mist        |
-| **73**   | Spectral       | Statue      |
-| **74**   | Shrouded       | Shadows     |
-| **75**   | Menacing       | Echoes      |
-| **76**   | Whispering     | Cavern      |
-| **77**   | Echoing        | Vines       |
-| **78**   | Flourishing    | Monolith    |
-| **79**   | Somber         | Cottage     |
-| **80**   | Quaint         | Mire        |
-| **81**   | Sunny          | Marsh       |
-| **82**   | Gloomy         | Memorial    |
-| **83**   | Forgotten      | Fungi       |
-| **84**   | Luminescent    | Gorge       |
-| **85**   | Veiled         | Pool        |
-| **86**   | Crystal        | Portal      |
-| **87**   | Swirling       | Tower       |
-| **88**   | Weeping        | Light       |
-| **89**   | Jagged         | Cemetery    |
-| **90**   | Forsaken       | Waterfall   |
-| **91**   | Grassy         | Sanctuary   |
-| **92**   | Frosty         | Pinnacle    |
-| **93**   | Serpentine     | Creek       |
-| **94**   | Melancholy     | Shore       |
-| **95**   | Golden         | Sands       |
-| **96**   | Whispered      | Echoes      |
-| **97**   | Timeless       | Monument    |
-| **98**   | Celestial      | Starlight   |
-| **99**   | Sacred         | Altar       |
-| **100**  | Forgotten      | Shrine      |
-
-### Forest Names
-
-- To create a name for your forest, combine the results from the first column (adjectives) with the results from the second column.
-- For the adjective, roll a **d6** twice, first for the **tens** place, and then another for the **ones** place. Then repeat the process for the noun. 
-- Feel free to combine two nouns, or an adjective and a [terrain type](https://cairnrpg.com/wip/2e/setting/#terrain-synonyms).
-
-|         |                |             |
-| ------- | -------------- | ----------- |
-| **d66** | **Adjectives** | **Nouns**   |
-| **11**  | Dense          | Branches    |
-| **12**  | Ancient        | Glade       |
-| **13**  | Mossy          | Fens        |
-| **14**  | Twisted        | Roots       |
-| **15**  | Murmuring      | Weald       |
-| **16**  | Amber          | Grove       |
-| **21**  | Whispering     | Brambles    |
-| **22**  | Gnarled        | Undergrowth |
-| **23**  | Speckled       | Morass      |
-| **24**  | Lush           | Bracken     |
-| **25**  | Misty          | Swale       |
-| **26**  | Shimmering     | Covert      |
-| **31**  | Towering       | Blossoms    |
-| **32**  | Leafy          | Paths       |
-| **33**  | Crystal        | Woods       |
-| **34**  | Rustling       | Ridge       |
-| **35**  | Secluded       | Woodland    |
-| **36**  | Vibrant        | Trail       |
-| **41**  | Hidden         | Passage     |
-| **42**  | Tangled        | Loam        |
-| **43**  | Looming        | Stand       |
-| **44**  | Fragrant       | Scar        |
-| **45**  | Yellow         | Vale        |
-| **46**  | Luminous       | Holt        |
-| **51**  | Hushed         | Thicket     |
-| **52**  | Golden         | Root        |
-| **53**  | Serene         | Brook       |
-| **54**  | Verdant        | Grotto      |
-| **55**  | Sacred         | Bush        |
-| **56**  | Fluttering     | Firth       |
-| **61**  | Tranquil       | Glen        |
-| **62**  | Smoky          | Expanse     |
-| **63**  | Lost           | Pines       |
-| **64**  | Evergreen      | Canopy      |
-| **65**  | Emerald        | Leaves      |
-| **66**  | Fertile        | Knoll       |
 
 ## Example Forest
 

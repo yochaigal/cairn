@@ -244,3 +244,157 @@ search_exclude: true
 | **18**  | **Realm**         |
 | **19**  | **Regency**       |
 | **20**  | **State**         |
+
+
+
+### Forest Names
+
+|          |                |             |
+| -------- | -------------- | ----------- |
+| **d100** | **Adjectives** | **Nouns**   |
+| **1**    | Dense          | Thicket     |
+| **2**    | Mossy          | Branches    |
+| **3**    | Twisted        | Stream      |
+| **4**    | Murmuring      | Wind        |
+| **5**    | Moonlit        | Roots       |
+| **6**    | Gnarled        | Copse       |
+| **7**    | Enchanted      | Ferns       |
+| **8**    | Lush           | Hollow      |
+| **9**    | Misty          | Weald       |
+| **10**   | Dappled        | Trees       |
+| **11**   | Towering       | Canopy      |
+| **12**   | Leafy          | Brambles    |
+| **13**   | Wild           | Undergrowth |
+| **14**   | Shadowy        | Leaves      |
+| **15**   | Rustling       | Dell        |
+| **16**   | Secluded       | Pond        |
+| **17**   | Hidden         | Foliage     |
+| **18**   | Tangled        | Spring      |
+| **19**   | Winding        | Blossoms    |
+| **20**   | Fragrant       | Brook       |
+| **21**   | Trickling      | Pathway     |
+| **22**   | Luminous       | Herbs       |
+| **23**   | Hushed         | Woods       |
+| **24**   | Beckoning      | Clearing    |
+| **25**   | Serene         | Grove       |
+| **26**   | Ancient        | Timber      |
+| **27**   | Sturdy         | Oak         |
+| **28**   | Verdant        | Pine        |
+| **29**   | Sacred         | Moss        |
+| **30**   | Ethereal       | Woodland    |
+| **31**   | Majestic       | Shrub       |
+| **32**   | Looming        | Stump       |
+| **33**   | Shimmering     | Lake        |
+| **34**   | Tranquil       | Meadow      |
+| **35**   | Wistful        | Clouds      |
+| **36**   | Smoky          | Loam        |
+| **37**   | Lost           | Knar        |
+| **38**   | Abandoned      | Hut         |
+| **39**   | Weathered      | Stones      |
+| **40**   | Timeless       | Ruins       |
+| **41**   | Mysterious     | Pools       |
+| **42**   | Haunted        | Bogs        |
+| **43**   | Desolate       | Dunes       |
+| **44**   | Lonely         | Plateau     |
+| **45**   | Exotic         | Oasis       |
+| **46**   | Stark          | Camp        |
+| **47**   | Rugged         | Crags       |
+| **48**   | Eternal        | Orchard     |
+| **49**   | Bountiful      | Waterway    |
+| **50**   | Splendid       | Snow        |
+| **51**   | Pristine       | Flowers     |
+| **52**   | Blooming       | Cave        |
+| **53**   | Illuminated    | Valley      |
+| **54**   | Charmed        | Passages    |
+| **55**   | Lavish         | Ravine      |
+| **56**   | Vibrant        | Dew         |
+| **57**   | Glistening     | Horizon     |
+| **58**   | Distant        | Bridge      |
+| **59**   | Fabled         | Stairs      |
+| **60**   | Overgrown      | Grotto      |
+| **61**   | Primeval       | Pass        |
+| **62**   | Unseen         | Ridge       |
+| **63**   | Precarious     | Slope       |
+| **64**   | Gentle         | Granite     |
+| **65**   | Unyielding     | Harmony     |
+| **66**   | Harmonious     | Cascade     |
+| **67**   | Opulent        | Trail       |
+| **68**   | Silent         | Rapids      |
+| **69**   | Roaring        | River       |
+| **70**   | Serpentine     | Path        |
+| **71**   | Uncharted      | Glade       |
+| **72**   | Radiant        | Mist        |
+| **73**   | Spectral       | Statue      |
+| **74**   | Shrouded       | Shadows     |
+| **75**   | Menacing       | Echoes      |
+| **76**   | Whispering     | Cavern      |
+| **77**   | Echoing        | Vines       |
+| **78**   | Flourishing    | Monolith    |
+| **79**   | Somber         | Cottage     |
+| **80**   | Quaint         | Mire        |
+| **81**   | Sunny          | Marsh       |
+| **82**   | Gloomy         | Memorial    |
+| **83**   | Forgotten      | Fungi       |
+| **84**   | Luminescent    | Gorge       |
+| **85**   | Veiled         | Pool        |
+| **86**   | Crystal        | Portal      |
+| **87**   | Swirling       | Tower       |
+| **88**   | Weeping        | Light       |
+| **89**   | Jagged         | Cemetery    |
+| **90**   | Forsaken       | Waterfall   |
+| **91**   | Grassy         | Sanctuary   |
+| **92**   | Frosty         | Pinnacle    |
+| **93**   | Serpentine     | Creek       |
+| **94**   | Melancholy     | Shore       |
+| **95**   | Golden         | Sands       |
+| **96**   | Whispered      | Echoes      |
+| **97**   | Timeless       | Monument    |
+| **98**   | Celestial      | Starlight   |
+| **99**   | Sacred         | Altar       |
+| **100**  | Forgotten      | Shrine      |
+
+### Forest Names
+
+- To create a name for your forest, combine the results from the first column (adjectives) with the results from the second column.
+- For the adjective, roll a **d6** twice, first for the **tens** place, and then another for the **ones** place. Then repeat the process for the noun. 
+- Feel free to combine two nouns, or an adjective and a [terrain type](https://cairnrpg.com/wip/2e/setting/#terrain-synonyms).
+
+|         |                |             |
+| ------- | -------------- | ----------- |
+| **d66** | **Adjectives** | **Nouns**   |
+| **11**  | Dense          | Branches    |
+| **12**  | Ancient        | Glade       |
+| **13**  | Mossy          | Fens        |
+| **14**  | Twisted        | Roots       |
+| **15**  | Murmuring      | Weald       |
+| **16**  | Amber          | Grove       |
+| **21**  | Whispering     | Brambles    |
+| **22**  | Gnarled        | Undergrowth |
+| **23**  | Speckled       | Morass      |
+| **24**  | Lush           | Bracken     |
+| **25**  | Misty          | Swale       |
+| **26**  | Shimmering     | Covert      |
+| **31**  | Towering       | Blossoms    |
+| **32**  | Leafy          | Paths       |
+| **33**  | Crystal        | Woods       |
+| **34**  | Rustling       | Ridge       |
+| **35**  | Secluded       | Woodland    |
+| **36**  | Vibrant        | Trail       |
+| **41**  | Hidden         | Passage     |
+| **42**  | Tangled        | Loam        |
+| **43**  | Looming        | Stand       |
+| **44**  | Fragrant       | Scar        |
+| **45**  | Yellow         | Vale        |
+| **46**  | Luminous       | Holt        |
+| **51**  | Hushed         | Thicket     |
+| **52**  | Golden         | Root        |
+| **53**  | Serene         | Brook       |
+| **54**  | Verdant        | Grotto      |
+| **55**  | Sacred         | Bush        |
+| **56**  | Fluttering     | Firth       |
+| **61**  | Tranquil       | Glen        |
+| **62**  | Smoky          | Expanse     |
+| **63**  | Lost           | Pines       |
+| **64**  | Evergreen      | Canopy      |
+| **65**  | Emerald        | Leaves      |
+| **66**  | Fertile        | Knoll       |
