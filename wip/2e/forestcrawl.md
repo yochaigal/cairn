@@ -107,26 +107,27 @@ Monsters are any dangerous creature that lives in a dungeon. This does not mean 
 |         |              |              |
 | ------- | ------------ | ------------ |
 | **d20** | **Monster**  | **Activity** |
-| **1**   | Blood Elk    |              |
+| **1**   | Bandit       |              |
 | **2**   | Blink Dog    |              |
-| **3**   | Centaur      |              |
-| **4**   | Dryad        |              |
-| **5**   | Green Dragon |              |
-| **6**   | Grizzly Bear |              |
+| **3**   | Blood Elk    |              |
+| **4**   | Centaur      |              |
+| **5**   | Dryad        |              |
+| **6**   | Ettin        |              |
 | **7**   | Gargoyle     |              |
-| **8**   | Killer Bees  |              |
-| **9**   | Night Cat    |              |
-| **10**  | Owlbear      |              |
-| **11**  | Pixie        |              |
-| **12**  | Treant       |              |
-| **13**  | Unicorn      |              |
-| **14**  | Will-o-Wisp  |              |
-| **15**  | Wolf         |              |
-| **16**  | Wood Troll   |              |
-| **17**  |              |              |
-| **18**  |              |              |
-| **19**  |              |              |
-| **20**  |              |              |
+| **8**   | Green Dragon |              |
+| **9**   | Grizzly Bear |              |
+| **10**  | Killer Bees  |              |
+| **11**  | Naga         |              |
+| **12**  | Night Cat    |              |
+| **13**  | Owlbear      |              |
+| **14**  | Pixie        |              |
+| **15**  | Skeleton     |              |
+| **16**  | Treant       |              |
+| **17**  | Unicorn      |              |
+| **18**  | Will-o-Wisp  |              |
+| **19**  | Wolf         |              |
+| **20**  | Wood Troll   |              |
+
 
 #### Shelter
 
