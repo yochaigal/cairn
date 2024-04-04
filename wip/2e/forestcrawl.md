@@ -285,30 +285,29 @@ Most forest landmarks are visible only by climbing a tree, though some may be la
 
 - Feel free iterate or combine the results, or simply choose an encounter that interests you.
 
-|         |                                                                                                            |
-| ------- | ---------------------------------------------------------------------------------------------------------- |
-| **d20** | **Encounter**                                                                                              |
-| **1**   | A circle of perfect mushrooms. Blue-white wings flutter between, their wings humming a hypnotic tune.      |
-| **2**   | A dense thicket of thorns, nearly impassable. Something shiny glints just beyond.                          |
-| **3**   | A dryad sits atop a stone, a purple fungus lining her arms. There is a violence to her eyes.               |
-| **4**   | A gnarled tree trunk with an uncannily carved face on its trunk.                                           |
-| **5**   | A hillside cave, wafting the scent of damp and decay. Within, a stone statue of some forgotten deity.      |
-| **6**   | A massive boulder blocks the path ahead. It is actually a buried troll, turned to stone by the sun.        |
-| **7**   | A patch of quicksand disguised as soft ground. A broken spool of rope lies nearby.                         |
-| **8**   | A snarling pack of wolves surround a fresh kill. They are not keen to share.                               |
-| **9**   | A spectacular waterfall, spraying rainbows high. A silver horn splits the cascade, its owner obscured.     |
-| **10**  | A trap, hastily set and poorly concealed. It smells strongly of urine.                                     |
-| **11**  | A tree acting as makeshift bridge over a glittering stream. It appears sturdy.                             |
-| **12**  | A trio of ravens circle ominously overhead. Suddenly they burst into action, diving down into the bush.    |
-| **13**  | A wide river where otters are playing with something shiny. It appears to be a small suit of armor.        |
-| **14**  | A Woodwife gathers herbs, singing a melancholic song. She disappears into the wood if provoked.            |
-| **15**  | A wounded animal, whining pitifully and limping. There is intelligence in its eyes.                        |
-| **16**  | An old watchtower, hidden by dense forest growth. Something larger looms just around the bend.             |
-| **17**  | Bees swarm protectively around a tree brimming with honeycombs. A cloaked figure silently observes nearby. |
-| **18**  | Naiads splashing in a small pond. Their teeth are fanged, like daggers.                                    |
-| **19**  | Shadowy figures dart between the trees. Hushed voices call out to one another.                             |
-| **20**  | Wild berries grow here in abundance. None have been eaten, not even by birds.                              |
-
+|         |                                                                                                               |
+| ------- | ------------------------------------------------------------------------------------------------------------- |
+| **d20** | **Encounter**                                                                                                 |
+| **1**   | A patch of perfectly round toadstools. Blue-white wings flutter between, their wings humming a hypnotic tune. |
+| **2**   | A dense thicket of thorns, nearly impassable. Something shiny glints just beyond.                             |
+| **3**   | A dryad sits atop a stone, a purple fungus lining her arms. There is a violence to her eyes.                  |
+| **4**   | A gnarled tree trunk with an uncannily carved face on its trunk.                                              |
+| **5**   | A hillside cave, wafting the scent of damp and decay. Within, a stone statue of some forgotten deity.         |
+| **6**   | A massive boulder blocks the path ahead. It is actually a buried troll, turned to stone by the sun.           |
+| **7**   | A patch of quicksand disguised as soft ground. A broken spool of rope lies nearby.                            |
+| **8**   | A snarling pack of wolves surround a fresh kill. They are not keen to share.                                  |
+| **9**   | A spectacular waterfall, spraying rainbows high. A silver horn splits the cascade, its owner obscured.        |
+| **10**  | A trap, hastily set and poorly concealed. It smells strongly of urine.                                        |
+| **11**  | A tree acting as makeshift bridge over a glittering stream. It appears sturdy.                                |
+| **12**  | A trio of ravens circle ominously overhead. Suddenly they burst into action, diving down into the bush.       |
+| **13**  | A wide river where otters are playing with something shiny. It appears to be a small suit of armor.           |
+| **14**  | A Woodwife gathers herbs, singing a melancholic song. She disappears into the wood if provoked.               |
+| **15**  | A wounded animal, whining pitifully and limping. There is intelligence in its eyes.                           |
+| **16**  | An old watchtower, hidden by dense forest growth. Something larger looms just around the bend.                |
+| **17**  | Bees swarm protectively around a tree brimming with honeycombs. A cloaked figure silently observes nearby.    |
+| **18**  | Naiads splashing in a small pond. Their teeth are fanged, like daggers.                                       |
+| **19**  | Shadowy figures dart between the trees. Hushed voices call out to one another.                                |
+| **20**  | Wild berries grow here in abundance. None have been eaten, not even by birds.                                 |
 
 |         |                                                                                                     |
 | ------- | --------------------------------------------------------------------------------------------------- |
@@ -329,10 +328,10 @@ Most forest landmarks are visible only by climbing a tree, though some may be la
 | **14**  | In the crook of a hollow tree, six ravens squawk and preen. If observed they stare back in silence. |
 | **15**  | Sleeping peacefully atop two boughs, a giant is snoring. The ground vibrates in response.           |
 | **16**  | The path ends at a small pond. The water looks pure, but something moves subtly within.             |
-| **17**  |                                                                                                     |
-| **18**  |                                                                                                     |
-| **19**  |                                                                                                     |
-| **20**  |                                                                                                     |
+| **17**  | Statues of warriors, their faces lined with horror.                                                 |
+| **18**  | A maze, invisible save for a faint shimmer.                                                         |
+| **19**  | Footprints that glow faintly under moonlight, but vanish when touched.                              |
+| **20**  | A flower that changes color based on the thoughts of those nearby.                                  |
 
 # Naming Points
 
