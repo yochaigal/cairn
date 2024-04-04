@@ -311,7 +311,7 @@ Most forest landmarks are visible only by climbing a tree, though some may be la
 
 |         |                                                                                                     |
 | ------- | --------------------------------------------------------------------------------------------------- |
-| **d20** | Encounter                                                                                           |
+| **d20** | **Encounter**                                                                                       |
 | **1**   | A circle of standing stones, overgrown with moss. No grass grows in their shadow.                   |
 | **2**   | A fairy circle, covered in black moss. Something about it feels off.                                |
 | **3**   | A great oak has been felled, perhaps by lightning. A large hole is rent on one side.                |
@@ -331,19 +331,7 @@ Most forest landmarks are visible only by climbing a tree, though some may be la
 | **17**  | Statues of warriors, their faces lined with horror.                                                 |
 | **18**  | A maze, invisible save for a faint shimmer.                                                         |
 | **19**  | Footprints that glow faintly under moonlight, but vanish when touched.                              |
-| **20**  | A flower that changes color based on the thoughts of those nearby.                                  |
-
-# Naming Points
-
-- To create a name each point, combine the results from the first column (adjectives) with the results from the second column (nouns).
-- For the adjective, roll a **d10** twice, first for the **tens** place, and then another for the **ones** place. Then repeat the process for the noun. 
-- Feel free to combine two nouns, or an adjective and a [terrain type](https://cairnrpg.com/wip/2e/setting/#terrain-noun)
-
-#### Tips & Changes
-
-- Change it up! The name _Welcoming Grove_ creates a more vivid image than _Beckoning Copse_ might.
-- Use contrasting words (e.g. _Twisted Canopy_) to evoke an interesting point about the location.
-- Make it sound nice. Alliteration and pleasing combinations can create pleasant sounds. _Whispering Woods_ is more pleasing to the ear than _Tangled Woods._ 
+| **20**  | A flower that changes color based on the emotions of those nearby.                                  |
 
 ## Example Forest
 
