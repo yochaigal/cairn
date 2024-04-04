@@ -241,36 +241,6 @@ Roll 2d20 and combine the results.
 - Roll on the relevant tables for each room, writing the results in your notebook. 
 - For each room, filter the table results through the theme you generated earlier in this process. 
 
-#### Lore
-
-Lore rooms should build on the theme of the dungeon, provide a valuable lesson, or connect the characters with an NPC or Faction. They might create a dilemma that unites the party or puts them at odds with their mission. At a minimum these rooms act as a curiosity, adding something memorable to the experience beyond danger and puzzle-solving. Of course, the characters should not know that these rooms do not contain danger or challenges. This helps increase tension in the dungeon, while offering a potential respite and opportunity for growing the narrative. 
-
-Roll 2d20 and combine the results.
-
-|         |               |               |
-| ------- | ------------- | ------------- |
-| **d20** | **Room Type** | **Clue**      |
-| **1**   | Armory        | Decay         |
-| **2**   | Barracks      | Decor         |
-| **3**   | Bath          | Draft         |
-| **4**   | Cistern       | Echoes        |
-| **5**   | Court         | Footprints    |
-| **6**   | Crypt         | Leavings      |
-| **7**   | Den           | Light         |
-| **8**   | Dining Hall   | Markings      |
-| **9**   | Guard Post    | Moisture      |
-| **10**  | Infirmary     | Noise         |
-| **11**  | Kitchen       | Paraphernalia |
-| **12**  | Latrine       | Residue       |
-| **13**  | Library       | Scurrying     |
-| **14**  | Shrine        | Signs         |
-| **15**  | Smith         | Smell         |
-| **16**  | Stable        | Stains        |
-| **17**  | Storage       | Tapping       |
-| **18**  | Study         | Temperature   |
-| **19**  | Vault         | Vibrations    |
-| **20**  | Workshop      | Writing       |
-
 #### Monster
 
 Monsters are any dangerous creature that lives in a dungeon. This does not mean it will attack intruders by default! Monsters are not simply "waiting around" for the characters to find them, but instead have their own wants and goals, even if they are simply looking for their next meal. Some monsters can talk, reason, and even beg for mercy. _People can be monsters, too_.
@@ -300,6 +270,36 @@ Roll 2d20 and combine the results.
 | **18**  | Shape Shifter | Torturing    |
 | **19**  | Undead        | Training     |
 | **20**  | Unusual       | Trapped      |
+
+#### Lore
+
+Lore rooms should build on the theme of the dungeon, provide a valuable lesson, or connect the characters with an NPC or Faction. They might create a dilemma that unites the party or puts them at odds with their mission. At a minimum these rooms act as a curiosity, adding something memorable to the experience beyond danger and puzzle-solving. Of course, the characters should not know that these rooms do not contain danger or challenges. This helps increase tension in the dungeon, while offering a potential respite and opportunity for growing the narrative. 
+
+Roll 2d20 and combine the results.
+
+|         |               |               |
+| ------- | ------------- | ------------- |
+| **d20** | **Room Type** | **Clue**      |
+| **1**   | Armory        | Decay         |
+| **2**   | Barracks      | Decor         |
+| **3**   | Bath          | Draft         |
+| **4**   | Cistern       | Echoes        |
+| **5**   | Court         | Footprints    |
+| **6**   | Crypt         | Leavings      |
+| **7**   | Den           | Light         |
+| **8**   | Dining Hall   | Markings      |
+| **9**   | Guard Post    | Moisture      |
+| **10**  | Infirmary     | Noise         |
+| **11**  | Kitchen       | Paraphernalia |
+| **12**  | Latrine       | Residue       |
+| **13**  | Library       | Scurrying     |
+| **14**  | Shrine        | Signs         |
+| **15**  | Smith         | Smell         |
+| **16**  | Stable        | Stains        |
+| **17**  | Storage       | Tapping       |
+| **18**  | Study         | Temperature   |
+| **19**  | Vault         | Vibrations    |
+| **20**  | Workshop      | Writing       |
 
 #### Special
 

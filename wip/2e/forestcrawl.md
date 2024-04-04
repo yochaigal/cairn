@@ -11,12 +11,11 @@ grand_parent: WIP
 
 ## Introduction
 
-- A forestcrawl is a type of **pointcrawl** that focuses specifically on travel through forested zones, trying to capture the density, non-linearity, and intricate network of paths within a heavily wooded area. 
-- A forested zone is made up of trails connecting various points of interest within a forested zone. 
-- For an example map, jump to the [bottom](#example-forest).
+A forestcrawl is a simple method for exploring a large forested area, typically made up of branching trails connecting scattered points of interest. While a forestcrawl has some of the same properties as a traditional dungeon delve, it swaps stone walls and ceilings for the dense, non-linear design of a heavily wooded area. Instead of rooms, points of interest are defined as clearings or major changes in the forested landscape. And unlike exploring a dungeon, characters can take shortcuts by going "off-trail" or climb trees to get a better look ahead (with a cost, of course).   
 
 ## Exploring The Wood
 
+- Dungeon exploration rules are _in effect_, including ruling on the Dungeon Events table.
 - Points in a forestcrawl are close to each other. When traveling on clearly marked trails, a small forest zone (10-15 POIs) can be explored in its entirety in a single Watch.
 - If the party attempts to reach a point by going "off-trail" (bushwhacking), the **Warden** should make any associated costs clear: typically time, effort (**Fatigue**), or any obvious dangers. Going off-trail also automatically triggers a roll on the Wilderness Events table.
 - If the party is interrupted, stops to investigate something, rest, etc. while exploring a forested zone, there may not be enough time to fully explore each connected point. In these cases, rely on the fiction and common sense to determine how much time is left in the day. 
@@ -37,8 +36,8 @@ Follow this procedure for any forested terrain in a region.
 ### Overview
 
 1. Define the forest's inhabitants.
-2. Create the trails.
-3. Create points. 
+2. Create points.
+3. Create the trails.
 4. Create trail markers and spoor.
 5. Create forest encounters.
 6. Name each point.
@@ -74,29 +73,60 @@ Something about forest people
 | **19**  |     |     |
 | **20**  |     |     |
 
-### Trails
-
 ## Create the Map
 
 - Roll **8-12 d6** dice on the dungeon map, ignoring any dice that fall off the page. These are the Points of Interest (POI) in the forest.
-- Write the face-up results on the page according to the [Forest Die Drop Table](#forest-die-drop-table). For example, the number **4** would indicate a **Special** area, denoted by the letter "S" on the page.
-- Select up to two points closest to the page border. These are the forest's entrances.
-- Starting with any entrance, number each room on the dungeon map.
+- Write the face-up results on the page according to the [Forest Die Drop Table](#forest-die-drop-table). For example, the number **R** would indicate a **Ruin**, denoted by the letter "R" on the page.
+- Select up to two opposite points closest to the page border. These are the forest's entrances.
+- Starting with either entrance, number each POI on the map.
 
-- **Shelter**
-- **Hazard**
-- **Ruins**
-- **Landmark**: Most forest landmarks are visible only by climbing a tree, though some may be large enough to stand out from the green. At times, landmarks are _heard_ rather than seen.
+- **Monster**
+- **Ruins**:
+- **Shelter**:
+- **Hazard**:
 
 #### Forest Die Drop Table
 
-|         |          |
-| ------- | -------- |
-| **d6**  | **POI**  |
-| **1**   | Shelter  |
-| **2-3** | Hazard   |
-| **4**   | Ruins    |
-| **5-6** | Landmark |
+|         |         |
+| ------- | ------- |
+| **d6**  | **POI** |
+| **1**   | Monster |
+| **2-3** | Ruins   |
+| **4**   | Shelter |
+| **5-6** | Hazard  |
+
+### Stock the Rooms
+
+- Roll on the relevant tables for each point, writing the results in your notebook. 
+- For each point, filter the table results through the theme you generated earlier in this process. 
+
+#### Monster
+
+Monsters are any dangerous creature that lives in a dungeon. This does not mean it will attack intruders by default! Monsters are not simply "waiting around" for the characters to find them, but instead have their own wants and goals, even if they are simply looking for their next meal. Some monsters can talk, reason, and even beg for mercy. _People can be monsters, too_.
+
+|         |              |              |
+| ------- | ------------ | ------------ |
+| **d20** | **Monster**  | **Activity** |
+| **1**   | Blood Elk    |              |
+| **2**   | Blink Dog    |              |
+| **3**   | Centaur      |              |
+| **4**   | Dryad        |              |
+| **5**   | Green Dragon |              |
+| **6**   | Grizzly Bear |              |
+| **7**   | Gargoyle     |              |
+| **8**   | Killer Bees  |              |
+| **9**   | Night Cat    |              |
+| **10**  | Owlbear      |              |
+| **11**  | Pixie        |              |
+| **12**  | Treant       |              |
+| **13**  | Unicorn      |              |
+| **14**  | Will-o-Wisp  |              |
+| **15**  | Wolf         |              |
+| **16**  | Wood Troll   |              |
+| **17**  |              |              |
+| **18**  |              |              |
+| **19**  |              |              |
+| **20**  |              |              |
 
 #### Shelter
 
@@ -126,34 +156,6 @@ Roll 2d20 and combine the results.
 | **19**  | Smoky Cabin       | Site of an ancient murder          |
 | **20**  | Tattered Windmill | Thieves' Camp                      |
 
-#### Hazard
-
-Roll 2d20 and combine the results.
-
-|         |                   |                              |
-| ------- | ----------------- | ---------------------------- |
-| **d20** | **Hazard**        | **Feature**                  |
-| **1**   | Animal Trap       | Animated Armor               |
-| **2**   | Bone Orchard      | Bird spies                   |
-| **3**   | Bramble Tunnels   | Induces fever-dreams         |
-| **4**   | Giant Spider Nest | Ghosts trapped in crystal    |
-| **5**   | Insect Swarm      | Highly localized weather     |
-| **6**   | Moving Thickets   | Howling stones               |
-| **7**   | Poisonous Plants  | Invisible webs               |
-| **8**   | Slow Quicksand    | Living scarecrows            |
-| **9**   | Sap Trap          | Mimic vines                  |
-| **18**  | Sleeping Giant    | Will-o-Wisp congregate       |
-| **10**  | Slippery Moss     | Paths change direction       |
-| **11**  | Spiked Pit        | A pet basilisk               |
-| **12**  | Stinging Nettles  | Memory Stealers              |
-| **13**  | Thorny Thickets   | Tracks erased by mist        |
-| **14**  | Toxic spores      | Trees that grow from bones   |
-| **15**  | Troll Den         | Embraced by bleeding trees   |
-| **16**  | Unstable Ground   | Giant rodent feeding grounds |
-| **17**  | Psychic Fog       | A witch trap                 |
-| **19**  | Frozen Troll      | Scavengers that wait         |
-| **20**  | Bog Shadows       | The dead - they watch        |
-
 #### Ruins
 
 Roll 2d20 and combine the results.
@@ -161,52 +163,54 @@ Roll 2d20 and combine the results.
 |         |                     |                                          |
 | ------- | ------------------- | ---------------------------------------- |
 | **d20** | **Ruin**            | **Feature**                              |
-| **1**   | Abandoned Manor     | Spirit bound to location                 |
-| **2**   | Broken Sundial      | Cursed ground                            |
-| **3**   | Chipped Bell Tower  | A place where time flows differently     |
-| **4**   | Collapsed Megalith  | Ruins holding a dormant power            |
-| **5**   | Crumbled Watchtower | Enchanted with a protective aura         |
-| **6**   | Decomposed Canoes   | Conceals a passage to the underworld     |
-| **7**   | Entangled Pavilion  | Infested with mystical flora             |
-| **8**   | Exposed Workshop    | Contains an ancient, unbreakable curse   |
-| **9**   | Flooded Monastery   | Whispers of the old millers still linger |
-| **10**  | Forgotten Market    | Gateway to a liminal space               |
-| **11**  | Moldering Farmhouse | Hidden weapons cache                     |
-| **12**  | Neglected Shrine    | Resonates with otherworldly energy       |
-| **13**  | Overrun Estate      | Hosts an eternal, silent concert         |
-| **14**  | Petrified Campsite  | Marked by battles of yore                |
-| **15**  | Rotted Mill         | Ancient ruins' whisper                   |
-| **16**  | Ruined Cloister     | Haunted by ancestral spirits             |
-| **17**  | Shattered Bridge    | Resonates with lost magic                |
-| **18**  | Smothered Obelisk   | Veil thin between worlds                 |
-| **19**  | Sunken Gazebo       | Gateway to a liminal space               |
-| **20**  | Toppled Monument    | Time flows differently                   |
+| **1**   | Abandoned Manor     | A place where time flows differently     |
+| **2**   | Broken Sundial      | Ancient ruins' whisper                   |
+| **3**   | Chipped Bell Tower  | Conceals a passage to the underworld     |
+| **4**   | Collapsed Megalith  | Contains an ancient, unbreakable curse   |
+| **5**   | Crumbled Watchtower | Cursed ground                            |
+| **6**   | Decomposed Canoes   | Enchanted with a protective aura         |
+| **7**   | Entangled Pavilion  | Gateway to a liminal space               |
+| **8**   | Exposed Workshop    | Gateway to a liminal space               |
+| **9**   | Flooded Monastery   | Haunted by ancestral spirits             |
+| **10**  | Forgotten Market    | Hidden weapons cache                     |
+| **11**  | Moldering Farmhouse | Hosts an eternal, silent concert         |
+| **12**  | Neglected Shrine    | Infested with mystical flora             |
+| **13**  | Overrun Estate      | Marked by battles of yore                |
+| **14**  | Petrified Campsite  | Resonates with lost magic                |
+| **15**  | Rotted Mill         | Resonates with otherworldly energy       |
+| **16**  | Ruined Cloister     | Ruins holding a dormant power            |
+| **17**  | Shattered Bridge    | Spirit bound to location                 |
+| **18**  | Smothered Obelisk   | Time flows differently                   |
+| **19**  | Sunken Gazebo       | Veil thin between worlds                 |
+| **20**  | Toppled Monument    | Whispers of the old millers still linger |
 
-#### Landmarks
+#### Hazard
 
-|         |                    |             |
-| ------- | ------------------ | ----------- |
-| **d20** | **Landmark**       | **Feature** |
-| **1**   | Ancient Obelisk    |             |
-| **2**   | Blackened Crater   |             |
-| **3**   | Bloom Field        |             |
-| **4**   | Broken Peak        |             |
-| **5**   | Cathedral of Trees |             |
-| **6**   | City of Spores     |             |
-| **7**   | Colossal Bee Hive  |             |
-| **8**   | Enormous Tree      |             |
-| **9**   | Fallen God-Tree    |             |
-| **10**  | Fungus Grotto      |             |
-| **11**  | Great Eagle's Nest |             |
-| **12**  | Glowing Chasm      |             |
-| **13**  | Massive Hive       |             |
-| **14**  | Obsidian River     |             |
-| **15**  | Petrified Behemoth |             |
-| **16**  | Rainbow Waterfall  |             |
-| **17**  | Sky Arch           |             |
-| **18**  | Stargazer's Rock   |             |
-| **19**  | Volcanic Plume     |             |
-| **20**  | Guardian Tree      |             |
+Roll 2d20 and combine the results.
+
+|         |                   |                              |
+| ------- | ----------------- | ---------------------------- |
+| **d20** | **Hazard**        | **Feature**                  |
+| **1**   | Animal Trap       | A pet basilisk               |
+| **2**   | Bog Shadows       | A witch trap                 |
+| **3**   | Bone Orchard      | Animated Armor               |
+| **4**   | Bramble Tunnels   | Bird spies                   |
+| **5**   | Frozen Troll      | Embraced by bleeding trees   |
+| **6**   | Giant Spider Nest | Ghosts trapped in crystal    |
+| **7**   | Insect Swarm      | Giant rodent feeding grounds |
+| **8**   | Moving Thickets   | Highly localized weather     |
+| **9**   | Poisonous Plants  | Howling stones               |
+| **18**  | Psychic Fog       | Induces fever-dreams         |
+| **10**  | Sap Trap          | Invisible webs               |
+| **11**  | Sleeping Giant    | Living scarecrows            |
+| **12**  | Slippery Moss     | Memory Stealers              |
+| **13**  | Slow Quicksand    | Mimic vines                  |
+| **14**  | Spiked Pit        | Paths change direction       |
+| **15**  | Stinging Nettles  | Scavengers that wait         |
+| **16**  | Thorny Thickets   | The dead - they watch        |
+| **17**  | Toxic spores      | Tracks erased by mist        |
+| **19**  | Troll Den         | Trees that grow from bones   |
+| **20**  | Unstable Ground   | Will-o-Wisp congregate       |
 
 ### Draw Trails
 
@@ -246,51 +250,88 @@ Roll 2d20 and combine the results.
 
 > If some of the results seem incongruous, that's OK! Turn it into a question, like "Why _is_ there an old logging road leading to the bandit's hideout?" That said, don't be afraid to choose a more appropriate result if you're having a hard time making it work!
 
+### Landmarks
+
+Most forest landmarks are visible only by climbing a tree, though some may be large enough to stand out from the green. At times, landmarks are _heard_ rather than seen.
+
+#### Landmarks Table
+
+|         |                    |             |
+| ------- | ------------------ | ----------- |
+| **d20** | **Landmark**       | **Feature** |
+| **1**   | Ancient Obelisk    |             |
+| **2**   | Blackened Crater   |             |
+| **3**   | Bloom Field        |             |
+| **4**   | Broken Peak        |             |
+| **5**   | Cathedral of Trees |             |
+| **6**   | City of Spores     |             |
+| **7**   | Colossal Bee Hive  |             |
+| **8**   | Enormous Tree      |             |
+| **9**   | Fallen God-Tree    |             |
+| **10**  | Fungus Grotto      |             |
+| **11**  | Great Eagle's Nest |             |
+| **12**  | Glowing Chasm      |             |
+| **13**  | Massive Hive       |             |
+| **14**  | Obsidian River     |             |
+| **15**  | Petrified Behemoth |             |
+| **16**  | Rainbow Waterfall  |             |
+| **17**  | Sky Arch           |             |
+| **18**  | Stargazer's Rock   |             |
+| **19**  | Volcanic Plume     |             |
+| **20**  | Guardian Tree      |             |
 
 #### Forest Encounters
 
-- To roll on the table below, roll a **d6** twice, first for the **tens** place, and then another for the **ones** place. 
 - Feel free iterate or combine the results, or simply choose an encounter that interests you.
 
 |         |                                                                                                            |
 | ------- | ---------------------------------------------------------------------------------------------------------- |
-| **d66** | **Encounter**                                                                                              |
-| **11**  | A Woodwife gathers herbs, singing a melancholic song. She disappears into the wood if provoked.            |
-| **12**  | An old watchtower, hidden by dense forest growth. Something larger looms just around the bend.             |
-| **13**  | A snarling pack of wolves surround a fresh kill. They are not keen to share.                               |
-| **14**  | A massive boulder blocks the path ahead. It is actually a buried troll, turned to stone by the sun.        |
-| **15**  | A wide river where otters are playing with something shiny. It appears to be a small suit of armor.        |
-| **16**  | A circle of perfect mushrooms. Blue-white wings flutter between, their wings humming a hypnotic tune.      |
-| **21**  | A gnarled tree trunk with an uncannily carved face on its trunk.                                           |
-| **22**  | Naiads splashing in a small pond. Their teeth are fanged, like daggers.                                    |
-| **23**  | A hillside cave, wafting the scent of damp and decay. Within, a stone statue of some forgotten deity.      |
-| **24**  | A trap, hastily set and poorly concealed. It smells strongly of urine.                                     |
-| **25**  | A tree acting as makeshift bridge over a glittering stream. It appears sturdy.                             |
-| **26**  | Bees swarm protectively around a tree brimming with honeycombs. A cloaked figure silently observes nearby. |
-| **31**  | Wild berries grow here in abundance. None have been eaten, not even by birds.                              |
-| **32**  | Shadowy figures dart between the trees. Hushed voices call out to one another.                             |
-| **33**  | A wounded animal, whining pitifully and limping. There is intelligence in its eyes.                        |
-| **34**  | A spectacular waterfall, spraying rainbows high. A silver horn splits the cascade, its owner obscured.     |
-| **35**  | A dense thicket of thorns, nearly impassable. Something shiny glints just beyond.                          |
-| **36**  | A patch of quicksand disguised as soft ground. A broken spool of rope lies nearby.                         |
-| **41**  | A trio of ravens circle ominously overhead. Suddenly they burst into action, diving down into the bush.    |
-| **42**  | A dryad sits atop a stone, a purple fungus lining her arms. There is a violence to her eyes.               |
-| **43**  | A great oak has been felled, perhaps by lightning. A large hole is rent on one side.                       |
-| **44**  | A troll sits holding a mirror, engaged in deep conversation with its own reflection.                       |
-| **45**  | A tiny hovel is nestled in a tree's roots. The smell of baking bread wafts out.                            |
-| **46**  | A lone Woodwose stands directly on the path ahead, holding a large stick.                                  |
-| **51**  | A trio of satyrs playing and dancing to music. They seem ignorant of any observation.                      |
-| **52**  | A windless glade with a large willow at the center. It sways softly, as if to some unseen breeze.          |
-| **53**  | Sleeping peacefully atop two boughs, a giant is snoring. The ground vibrates in response.                  |
-| **54**  | Dozens of smallfolk have setup a market here, trading forest goods. Their wares are impressive.            |
-| **55**  | A robed woman is tending to a wounded animal, whispering in its ear.                                       |
-| **56**  | A fairy circle, covered in black moss. Something about it feels off.                                       |
-| **61**  | A small bearded man argues with a squawking raven. It holds something shiny in its beak.                   |
-| **62**  | A tree, all but consumed by blight. In its boughs, something cries out as if trapped.                      |
-| **63**  | The path ends at a small pond. The water looks pure, but something moves subtly within.                    |
-| **64**  | A circle of standing stones, overgrown with moss. No grass grows in their shadow.                          |
-| **65**  | In the crook of a hollow tree, six ravens squawk and preen. If observed they stare back in silence.        |
-| **66**  | A rotted, vine-covered cabin, clearly abandoned long ago. A delicious smell wafts from the window.         |
+| **d20** | **Encounter**                                                                                              |
+| **1**   | A circle of perfect mushrooms. Blue-white wings flutter between, their wings humming a hypnotic tune.      |
+| **2**   | A dense thicket of thorns, nearly impassable. Something shiny glints just beyond.                          |
+| **3**   | A dryad sits atop a stone, a purple fungus lining her arms. There is a violence to her eyes.               |
+| **4**   | A gnarled tree trunk with an uncannily carved face on its trunk.                                           |
+| **5**   | A hillside cave, wafting the scent of damp and decay. Within, a stone statue of some forgotten deity.      |
+| **6**   | A massive boulder blocks the path ahead. It is actually a buried troll, turned to stone by the sun.        |
+| **7**   | A patch of quicksand disguised as soft ground. A broken spool of rope lies nearby.                         |
+| **8**   | A snarling pack of wolves surround a fresh kill. They are not keen to share.                               |
+| **9**   | A spectacular waterfall, spraying rainbows high. A silver horn splits the cascade, its owner obscured.     |
+| **10**  | A trap, hastily set and poorly concealed. It smells strongly of urine.                                     |
+| **11**  | A tree acting as makeshift bridge over a glittering stream. It appears sturdy.                             |
+| **12**  | A trio of ravens circle ominously overhead. Suddenly they burst into action, diving down into the bush.    |
+| **13**  | A wide river where otters are playing with something shiny. It appears to be a small suit of armor.        |
+| **14**  | A Woodwife gathers herbs, singing a melancholic song. She disappears into the wood if provoked.            |
+| **15**  | A wounded animal, whining pitifully and limping. There is intelligence in its eyes.                        |
+| **16**  | An old watchtower, hidden by dense forest growth. Something larger looms just around the bend.             |
+| **17**  | Bees swarm protectively around a tree brimming with honeycombs. A cloaked figure silently observes nearby. |
+| **18**  | Naiads splashing in a small pond. Their teeth are fanged, like daggers.                                    |
+| **19**  | Shadowy figures dart between the trees. Hushed voices call out to one another.                             |
+| **20**  | Wild berries grow here in abundance. None have been eaten, not even by birds.                              |
+
+
+|         |                                                                                                     |
+| ------- | --------------------------------------------------------------------------------------------------- |
+| **d20** | Encounter                                                                                           |
+| **1**   | A circle of standing stones, overgrown with moss. No grass grows in their shadow.                   |
+| **2**   | A fairy circle, covered in black moss. Something about it feels off.                                |
+| **3**   | A great oak has been felled, perhaps by lightning. A large hole is rent on one side.                |
+| **4**   | A lone Woodwose stands directly on the path ahead, holding a large stick.                           |
+| **5**   | A robed woman is tending to a wounded animal, whispering in its ear.                                |
+| **6**   | A rotted, vine-covered cabin, clearly abandoned long ago. A delicious smell wafts from the window.  |
+| **7**   | A small bearded man argues with a squawking raven. It holds something shiny in its beak.            |
+| **8**   | A tiny hovel is nestled in a tree's roots. The smell of baking bread wafts out.                     |
+| **9**   | A tree, all but consumed by blight. In its boughs, something cries out as if trapped.               |
+| **10**  | A trio of satyrs playing and dancing to music. They seem ignorant of any observation.               |
+| **11**  | A troll sits holding a mirror, engaged in deep conversation with its own reflection.                |
+| **12**  | A windless glade with a large willow at the center. It sways softly, as if to some unseen breeze.   |
+| **13**  | Dozens of smallfolk have setup a market here, trading forest goods. Their wares are impressive.     |
+| **14**  | In the crook of a hollow tree, six ravens squawk and preen. If observed they stare back in silence. |
+| **15**  | Sleeping peacefully atop two boughs, a giant is snoring. The ground vibrates in response.           |
+| **16**  | The path ends at a small pond. The water looks pure, but something moves subtly within.             |
+| **17**  |                                                                                                     |
+| **18**  |                                                                                                     |
+| **19**  |                                                                                                     |
+| **20**  |                                                                                                     |
 
 # Naming Points
 
