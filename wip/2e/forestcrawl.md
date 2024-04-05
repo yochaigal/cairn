@@ -224,30 +224,29 @@ Roll 2d20 and combine the results.
 
 #### Trail Types
 
-|         |                    |                           |
-| ------- | ------------------ | ------------------------- |
-| **d20** | **Marker**         | **Spoor**                 |
-| **1**   | Animal Path        | Distant Singing           |
-| **2**   | Merchant's Road    | Badger Holes              |
-| **3**   | Fae Passage        | Serpent Traces            |
-| **4**   | Bandit's Run       | Enormous Footprints       |
-| **5**   | Pilgrim's Footpath | Rabbit Droppings          |
-| **6**   | Old Logging Road   | Animals Acting Strangely  |
-| **7**   | Trail Tree         | Large Bird Feathers       |
-| **8**   | Treeline Heights   | Fox Prints                |
-| **9**   | Cloistered Grove   | Faint Laughter            |
-| **10**  | River Gulch        | Bear Rubbings             |
-| **11**  | Spore Saturated    | A smoldering campsite     |
-| **12**  | War Route          | Fresh Spiderwebs          |
-| **13**  |                    | Archaic Tree Carvings     |
-| **14**  |                    | Dozens Of Stone Piles     |
-| **15**  |                    | Claw Marks                |
-| **16**  |                    | Phosphorescent Toadstools |
-| **17**  |                    | Deer Tracks               |
-| **18**  |                    | Swaying Plants            |
-| **19**  |                    | Peripheral Images         |
-| **20**  |                    | Muted Bells               |
-
+|         |                    |                    |
+| ------- | ------------------ | ------------------ |
+| **d20** | **Type**           | **Marker**         |
+| **1**   | Animal Path        | Bear Rubbings      |
+| **2**   | Bandit's Run       | Bent Trees         |
+| **3**   | Bouldered Way      | Claw Marks         |
+| **4**   | Cloistered Grove   | Deer Tracks        |
+| **5**   | Deer Crossing      | Distant Singing    |
+| **6**   | Dry Riverbed       | Faint Laughter     |
+| **7**   | Fae Passage        | Fox Prints         |
+| **8**   | Farm Trail         | Fresh Spiderwebs   |
+| **9**   | Foraging Path      | Giant Feathers     |
+| **10**  | Hunter's Track     | Glowing Toadstools |
+| **11**  | King's March       | Muted Bells        |
+| **12**  | Merchant's Road    | Peripheral Images  |
+| **13**  | Old Logging Road   | Rabbit Droppings   |
+| **14**  | Orchard Path       | Serpent Traces     |
+| **15**  | Pilgrim's Footpath | Silence            |
+| **16**  | Spore Saturated    | Smoke              |
+| **17**  | Sticky Sap Path    | Stillness          |
+| **18**  | Trail Tree         | Stone Piles        |
+| **19**  | Treeline Heights   | Swaying Plants     |
+| **20**  | War Route          | Tree Carvings      |
 
 > If some of the results seem incongruous, that's OK! Turn it into a question, like "Why _is_ there an old logging road leading to the bandit's hideout?" That said, don't be afraid to choose a more appropriate result if you're having a hard time making it work!
 
