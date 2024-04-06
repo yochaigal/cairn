@@ -76,7 +76,7 @@ Something about forest people
 ## Create the Map
 
 - Roll **8-12 d6** dice on the dungeon map, ignoring any dice that fall off the page. These are the Points of Interest (POI) in the forest.
-- Write the face-up results on the page according to the [Forest Die Drop Table](#forest-die-drop-table). For example, the number **R** would indicate a **Ruin**, denoted by the letter "R" on the page.
+- Write the face-up results on the page according to the [Forest Die Drop Table](#forest-die-drop-table). For example, the number **4** would indicate a **Shelter**, denoted by the letter "S" on the page.
 - Select up to two opposite points closest to the page border. These are the forest's entrances.
 - Starting with either entrance, number each POI on the map.
 
@@ -104,6 +104,8 @@ Something about forest people
 
 Monsters are any dangerous creature that lives in a dungeon. This does not mean it will attack intruders by default! Monsters are not simply "waiting around" for the characters to find them, but instead have their own wants and goals, even if they are simply looking for their next meal. Some monsters can talk, reason, and even beg for mercy. _People can be monsters, too_.
 
+Roll 2d20 and combine the results.
+
 |         |              |              |
 | ------- | ------------ | ------------ |
 | **d20** | **Monster**  | **Activity** |
@@ -127,6 +129,34 @@ Monsters are any dangerous creature that lives in a dungeon. This does not mean 
 | **18**  | Will-o-Wisp  | Stalking     |
 | **19**  | Wolf         | Torturing    |
 | **20**  | Wood Troll   | Trapped      |
+
+#### Ruins
+
+Roll 2d20 and combine the results.
+
+|         |                     |                                        |
+| ------- | ------------------- | -------------------------------------- |
+| **d20** | **Ruin**            | **Feature**                            |
+| **1**   | Abandoned Manor     | A bound creature that wants freedom    |
+| **2**   | Broken Sundial      | A broken portal                        |
+| **3**   | Chipped Bell Tower  | A forest spirit, ready to die          |
+| **4**   | Collapsed Megalith  | A hag, foraging for ingredients        |
+| **5**   | Crumbled Watchtower | A hidden weapons cache                 |
+| **6**   | Decomposed Canoes   | A mirror of itself, just below         |
+| **7**   | Entangled Pavilion  | A self-obsessed Sprite                 |
+| **8**   | Exposed Workshop    | A silent, ghostly concert              |
+| **9**   | Flooded Monastery   | A very tiny ruined village             |
+| **10**  | Moldering Farmhouse | Bound by an unbreakable curse          |
+| **11**  | Neglected Shrine    | Holy ground, undead cannot enter       |
+| **12**  | Overrun Estate      | Hooded Men, completing a ritual        |
+| **13**  | Petrified Campsite  | Inaudible whispers from all directions |
+| **14**  | Rotted Mill         | Marked by battles of yore              |
+| **15**  | Ruined Cloister     | Overrun with unusual flora             |
+| **16**  | Rusted Market       | Remnants of a failed ritual            |
+| **17**  | Shattered Bridge    | Seventy-five realistic toy soldiers    |
+| **18**  | Splintered Obelisk  | Three corpses, fresh                   |
+| **19**  | Sunken Gazebo       | Veil between worlds is very thin       |
+| **20**  | Toppled Statue      | Visions of its past play out           |
 
 #### Shelter
 
@@ -155,34 +185,6 @@ Roll 2d20 and combine the results.
 | **18**  | Ranger's Outpost  | Protected by a playful spirit      |
 | **19**  | Smoky Cabin       | Site of an ancient murder          |
 | **20**  | Tattered Windmill | Thieves' Camp                      |
-
-#### Ruins
-
-Roll 2d20 and combine the results.
-
-|         |                     |                                          |
-| ------- | ------------------- | ---------------------------------------- |
-| **d20** | **Ruin**            | **Feature**                              |
-| **1**   | Abandoned Manor     | A place where time flows differently     |
-| **2**   | Broken Sundial      | Ancient ruins' whisper                   |
-| **3**   | Chipped Bell Tower  | Conceals a passage to the underworld     |
-| **4**   | Collapsed Megalith  | Contains an ancient, unbreakable curse   |
-| **5**   | Crumbled Watchtower | Cursed ground                            |
-| **6**   | Decomposed Canoes   | Enchanted with a protective aura         |
-| **7**   | Entangled Pavilion  | Gateway to a liminal space               |
-| **8**   | Exposed Workshop    | Gateway to a liminal space               |
-| **9**   | Flooded Monastery   | Haunted by ancestral spirits             |
-| **10**  | Forgotten Market    | Hidden weapons cache                     |
-| **11**  | Moldering Farmhouse | Hosts an eternal, silent concert         |
-| **12**  | Neglected Shrine    | Infested with mystical flora             |
-| **13**  | Overrun Estate      | Marked by battles of yore                |
-| **14**  | Petrified Campsite  | Resonates with lost magic                |
-| **15**  | Rotted Mill         | Resonates with otherworldly energy       |
-| **16**  | Ruined Cloister     | Ruins holding a dormant power            |
-| **17**  | Shattered Bridge    | Spirit bound to location                 |
-| **18**  | Smothered Obelisk   | Time flows differently                   |
-| **19**  | Sunken Gazebo       | Veil thin between worlds                 |
-| **20**  | Toppled Monument    | Whispers of the old millers still linger |
 
 #### Hazard
 

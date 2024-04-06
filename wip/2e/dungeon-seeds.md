@@ -437,7 +437,7 @@ A small circle of 10' tall **stones** are set in a circle atop a **grassy** hill
   - An expert in such matters can still determine that the stones are many centuries old.
 - **Grass**: A patch in the center of the circle is browner than the rest.
   - A trap door is concealed underneath. Petrified wooden steps lead down to **1**.
-- **Trees**: Petrified, and as white as stone.
+- **Trees**: Petrified. As white as snow.
 
 ### 1 - Dining Hall
 
