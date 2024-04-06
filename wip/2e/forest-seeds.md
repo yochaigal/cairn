@@ -75,15 +75,48 @@ Something about forest people
 
 ## Create the Map
 
+### Forest Topography
+
+Each forest is unique, 
+
+### Landmarks
+
+**Landmarks** are unique, visible POIs that can also be used as geographic reference points: unusually tall trees, towers, and so on. Most forest landmarks are visible only by climbing a tree, though some may be large enough to stand out from the green. Some landmarks are _heard_ rather than seen.
+
+Roll on the [Forest Types](#forest-types) table and (put a landmark somewhere?)
+
+#### Forest Types
+
+|         |          |                    |
+| ------- | -------- | ------------------ |
+| **d20** | **Type** | **Landmark**       |
+| **1**   |          | Ancient Obelisk    |
+| **2**   |          | Blackened Crater   |
+| **3**   |          | Bloom Field        |
+| **4**   |          | Broken Peak        |
+| **5**   |          | Cathedral of Trees |
+| **6**   |          | City of Spores     |
+| **7**   |          | Colossal Bee Hive  |
+| **8**   |          | Enormous Tree      |
+| **9**   |          | Fallen God-Tree    |
+| **10**  |          | Fungus Grotto      |
+| **11**  |          | Great Eagle's Nest |
+| **12**  |          | Glowing Chasm      |
+| **13**  |          | Massive Hive       |
+| **14**  |          | Obsidian River     |
+| **15**  |          | Petrified Behemoth |
+| **16**  |          | Rainbow Waterfall  |
+| **17**  |          | Sky Arch           |
+| **18**  |          | Stargazer's Rock   |
+| **19**  |          | Volcanic Plume     |
+| **20**  |          | Guardian Tree      |
+
+### Create POIs
+
 - Roll **8-12 d6** dice on the dungeon map, ignoring any dice that fall off the page. These are the Points of Interest (POI) in the forest.
 - Write the face-up results on the page according to the [Forest Die Drop Table](#forest-die-drop-table). For example, the number **4** would indicate a **Shelter**, denoted by the letter "S" on the page.
-- Select up to two opposite points closest to the page border. These are the forest's entrances.
-- Starting with either entrance, number each POI on the map.
-
-- **Monster**
-- **Ruins**:
-- **Shelter**:
-- **Hazard**:
+- Select two opposite points, preferably close to the page border. These are the forest's entrance and exit.
+- Starting with the entrance and ending at the exit, number each POI on the map.
 
 #### Forest Die Drop Table
 
@@ -95,7 +128,44 @@ Something about forest people
 | **4**   | Shelter |
 | **5-6** | Hazard  |
 
-### Stock the Rooms
+### Draw Trails
+
+- Starting with the entrance, create 1-4 trails between each point. 
+ - Create loops, branching trails, dead-ends, and shortcuts between points.
+ - Some trails are Conditional, represented by a crossed line.
+ - Some trails are Hidden, represented by a dashed line.
+- Create intersections (crossed lines) with no rooms in between.
+- Roll on the [Trail Types](#trail-types) table for each trail, recording the results in your notebook. 
+
+#### Trail Types
+
+|         |                    |                    |
+| ------- | ------------------ | ------------------ |
+| **d20** | **Type**           | **Marker**         |
+| **1**   | Animal Path        | Bear Rubbings      |
+| **2**   | Bandit's Run       | Bent Trees         |
+| **3**   | Bouldered Way      | Claw Marks         |
+| **4**   | Cloistered Grove   | Deer Tracks        |
+| **5**   | Deer Crossing      | Distant Singing    |
+| **6**   | Dry Riverbed       | Faint Laughter     |
+| **7**   | Fae Passage        | Fox Prints         |
+| **8**   | Farm Trail         | Fresh Spiderwebs   |
+| **9**   | Foraging Path      | Giant Feathers     |
+| **10**  | Hunter's Track     | Glowing Toadstools |
+| **11**  | King's March       | Muted Bells        |
+| **12**  | Merchant's Road    | Peripheral Images  |
+| **13**  | Old Logging Road   | Rabbit Droppings   |
+| **14**  | Orchard Path       | Serpent Traces     |
+| **15**  | Pilgrim's Footpath | Silence            |
+| **16**  | Spore Saturated    | Smoke              |
+| **17**  | Sticky Sap Path    | Stillness          |
+| **18**  | Trail Tree         | Stone Piles        |
+| **19**  | Treeline Heights   | Swaying Plants     |
+| **20**  | War Route          | Tree Carvings      |
+
+> If some of the results seem incongruous, that's OK! Turn it into a question, like "Why _is_ there an old logging road leading to the bandit's hideout?" That said, don't be afraid to choose a more appropriate result if you're having a hard time making it work!
+
+### Stock the POIs
 
 - Roll on the relevant tables for each point, writing the results in your notebook. 
 - For each point, filter the table results through the theme you generated earlier in this process. 
@@ -214,72 +284,6 @@ Roll 2d20 and combine the results.
 | **19**  | Troll Den         | Trees that grow from bones   |
 | **20**  | Unstable Ground   | Will-o-Wisp congregate       |
 
-### Draw Trails
-
-- Starting with the entrance, create 1-4 trails between each point. 
- - Create loops, branching trails, dead-ends, and shortcuts between points.
- - Some paths are Conditional, represented by a crossed line.
- - Some paths are Hidden, represented by a dashed line.
-- Create intersections (crossed lines) with no rooms in between.
-- Roll on the [Trail Types](#trail-types) table for each trail, recording the results in your notebook. 
-
-#### Trail Types
-
-|         |                    |                    |
-| ------- | ------------------ | ------------------ |
-| **d20** | **Type**           | **Marker**         |
-| **1**   | Animal Path        | Bear Rubbings      |
-| **2**   | Bandit's Run       | Bent Trees         |
-| **3**   | Bouldered Way      | Claw Marks         |
-| **4**   | Cloistered Grove   | Deer Tracks        |
-| **5**   | Deer Crossing      | Distant Singing    |
-| **6**   | Dry Riverbed       | Faint Laughter     |
-| **7**   | Fae Passage        | Fox Prints         |
-| **8**   | Farm Trail         | Fresh Spiderwebs   |
-| **9**   | Foraging Path      | Giant Feathers     |
-| **10**  | Hunter's Track     | Glowing Toadstools |
-| **11**  | King's March       | Muted Bells        |
-| **12**  | Merchant's Road    | Peripheral Images  |
-| **13**  | Old Logging Road   | Rabbit Droppings   |
-| **14**  | Orchard Path       | Serpent Traces     |
-| **15**  | Pilgrim's Footpath | Silence            |
-| **16**  | Spore Saturated    | Smoke              |
-| **17**  | Sticky Sap Path    | Stillness          |
-| **18**  | Trail Tree         | Stone Piles        |
-| **19**  | Treeline Heights   | Swaying Plants     |
-| **20**  | War Route          | Tree Carvings      |
-
-> If some of the results seem incongruous, that's OK! Turn it into a question, like "Why _is_ there an old logging road leading to the bandit's hideout?" That said, don't be afraid to choose a more appropriate result if you're having a hard time making it work!
-
-### Landmarks
-
-Most forest landmarks are visible only by climbing a tree, though some may be large enough to stand out from the green. At times, landmarks are _heard_ rather than seen.
-
-#### Landmarks Table
-
-|         |                    |             |
-| ------- | ------------------ | ----------- |
-| **d20** | **Landmark**       | **Feature** |
-| **1**   | Ancient Obelisk    |             |
-| **2**   | Blackened Crater   |             |
-| **3**   | Bloom Field        |             |
-| **4**   | Broken Peak        |             |
-| **5**   | Cathedral of Trees |             |
-| **6**   | City of Spores     |             |
-| **7**   | Colossal Bee Hive  |             |
-| **8**   | Enormous Tree      |             |
-| **9**   | Fallen God-Tree    |             |
-| **10**  | Fungus Grotto      |             |
-| **11**  | Great Eagle's Nest |             |
-| **12**  | Glowing Chasm      |             |
-| **13**  | Massive Hive       |             |
-| **14**  | Obsidian River     |             |
-| **15**  | Petrified Behemoth |             |
-| **16**  | Rainbow Waterfall  |             |
-| **17**  | Sky Arch           |             |
-| **18**  | Stargazer's Rock   |             |
-| **19**  | Volcanic Plume     |             |
-| **20**  | Guardian Tree      |             |
 
 #### Forest Encounters
 
