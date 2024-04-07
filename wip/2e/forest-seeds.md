@@ -87,29 +87,31 @@ Roll on the [Forest Types](#forest-types) table and (put a landmark somewhere?)
 
 #### Forest Types
 
-|         |          |                    |
-| ------- | -------- | ------------------ |
-| **d20** | **Type** | **Landmark**       |
-| **1**   |          | Ancient Obelisk    |
-| **2**   |          | Blackened Crater   |
-| **3**   |          | Bloom Field        |
-| **4**   |          | Broken Peak        |
-| **5**   |          | Cathedral of Trees |
-| **6**   |          | City of Spores     |
-| **7**   |          | Colossal Bee Hive  |
-| **8**   |          | Enormous Tree      |
-| **9**   |          | Fallen God-Tree    |
-| **10**  |          | Fungus Grotto      |
-| **11**  |          | Great Eagle's Nest |
-| **12**  |          | Glowing Chasm      |
-| **13**  |          | Massive Hive       |
-| **14**  |          | Obsidian River     |
-| **15**  |          | Petrified Behemoth |
-| **16**  |          | Rainbow Waterfall  |
-| **17**  |          | Sky Arch           |
-| **18**  |          | Stargazer's Rock   |
-| **19**  |          | Volcanic Plume     |
-| **20**  |          | Guardian Tree      |
+Roll 2d20 and combine the results.
+
+|         |           |                    |
+| ------- | --------- | ------------------ |
+| **d20** | **Type**  | **Landmark**       |
+| **1**   | Ancient   | Ancient Obelisk    |
+| **2**   | Barren    | Blackened Crater   |
+| **3**   | Buzzing   | Bloom Field        |
+| **4**   | Decaying  | Broken Crag        |
+| **5**   | Dying     | City of Spores     |
+| **6**   | Flooded   | Colossal Bee Hive  |
+| **7**   | Frozen    | Enormous Tree      |
+| **8**   | Fungal    | Fallen God-Tree    |
+| **9**   | Glowing   | Fungus Grotto      |
+| **10**  | Infested  | Glittering River   |
+| **11**  | Misty     | Glowing Chasm      |
+| **12**  | Mossy     | Great Eagle's Nest |
+| **13**  | Murky     | Leviathon Tree     |
+| **14**  | Overgrown | Massive Hive       |
+| **15**  | Petrified | Obsidian River     |
+| **16**  | Polluted  | Petrified Behemoth |
+| **17**  | Scorched  | Rainbow Waterfall  |
+| **18**  | Secluded  | Sky Arch           |
+| **19**  | Silent    | Stump Cathedral    |
+| **20**  | Sunlit    | Volcanic Plume     |
 
 ### Create POIs
 
@@ -138,6 +140,8 @@ Roll on the [Forest Types](#forest-types) table and (put a landmark somewhere?)
 - Roll on the [Trail Types](#trail-types) table for each trail, recording the results in your notebook. 
 
 #### Trail Types
+
+Roll 2d20 and combine the results.
 
 |         |                    |                    |
 | ------- | ------------------ | ------------------ |
