@@ -144,7 +144,7 @@ Roll 2d20 and combine the results.
 
 Most dungeons will have creatures that _live_ there, and make it their home. The following table can be used to describe the general attitude of any or all of the intelligent creatures in the dungeon. Roll on the Traits table, writing the results in your notebook. This describes the general attitude of the creatures found in the dungeon.
 
-Meanwhile, every dungeon should have at least one NPC that stands out from all the others. These types _prefer_ the dungeon life over any other, but still act differently than their brethren. They should be NPCs that the party can interact, trade, hire, aid, and so on. These strange creatures can be deeply involved or entirely neutral towards the dungeon's other denizens and Factions.  Roll on the Traits table again, writing the results in your notebook, keeping the following questions in mind: 
+Meanwhile, every dungeon should have at least one NPC that stands out from all the others. These types _prefer_ the dungeon life over any other, but still act differently than their brethren. They should be NPCs that the party can interact, trade, hire, aid, and so on. These strange creatures can be deeply involved or entirely neutral towards the dungeon's other denizens and Factions. Roll on the Traits table again, writing the results in your notebook, keeping the following questions in mind: 
 
 _"What do we know about the creatures and Factions that occupy the dungeon?"_
 
@@ -157,26 +157,26 @@ Roll 2d20 and combine the results.
 |         |                 |               |
 | ------- | --------------- | ------------- |
 | **d20** | **Virtues**     | **Vices**     |
-| **1**   | Honest          | Impulsive     |
-| **2**   | Courageous      | Cynical       |
-| **3**   | Loyal           | Stubborn      |
-| **4**   | Compassionate   | Vain          |
-| **5**   | Resilient       | Greedy        |
-| **6**   | Creative        | Unfocused     |
-| **7**   | Methodical      | Perfectionist |
-| **8**   | Self-sufficient | Aloof         |
-| **9**   | Studious        | Pedantic      |
-| **10**  | Witty           | Sarcastic     |
-| **11**  | Incorruptible   | Naive         |
-| **12**  | Suave           | Superficial   |
-| **13**  | Solid           | Inflexible    |
-| **14**  | Scholarly       | Absent-minded |
-| **15**  | Incisive        | Critical      |
-| **16**  | Individualistic | Selfish       |
-| **17**  | Polite          | Passive       |
-| **18**  | Unwavering      | Obstinate     |
-| **19**  | Deductive       | Skeptical     |
-| **20**  | Practical       | Unimaginative |
+| **1**   | Compassionate   | Absent-minded |
+| **2**   | Courageous      | Aloof         |
+| **3**   | Creative        | Critical      |
+| **4**   | Deductive       | Cynical       |
+| **5**   | Honest          | Greedy        |
+| **6**   | Incisive        | Impulsive     |
+| **7**   | Incorruptible   | Inflexible    |
+| **8**   | Individualistic | Naive         |
+| **9**   | Loyal           | Obstinate     |
+| **10**  | Methodical      | Passive       |
+| **11**  | Polite          | Pedantic      |
+| **12**  | Practical       | Perfectionist |
+| **13**  | Resilient       | Sarcastic     |
+| **14**  | Scholarly       | Selfish       |
+| **15**  | Self-sufficient | Skeptical     |
+| **16**  | Solid           | Stubborn      |
+| **17**  | Studious        | Superficial   |
+| **18**  | Suave           | Unfocused     |
+| **19**  | Unwavering      | Unimaginative |
+| **20**  | Witty           | Vain          |
 
 ### Dungeon Factions
 

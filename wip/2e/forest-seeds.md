@@ -9,17 +9,6 @@ grand_parent: WIP
 
 # Forest Seeds
 
-## Forestcrawls
-
-A forestcrawl is a simple method for exploring a large forested area, typically made up of branching trails connecting scattered points of interest. While a forestcrawl has some of the same properties as a traditional dungeon delve, it swaps stone walls and ceilings for the dense, non-linear design of a heavily wooded area. Instead of rooms, points of interest are defined as clearings or major changes in the forested landscape. And unlike exploring a dungeon, characters can take shortcuts by going "off-trail" or climb trees to get a better look ahead (with a cost, of course).   
-
-### Exploring The Wood
-
-- Dungeon exploration rules are _in effect_, including ruling on the Dungeon Events table.
-- Points in a forestcrawl are close to each other. When traveling on clearly marked trails, a small forest zone (10-15 POIs) can be explored in its entirety in a single Watch.
-- If the party attempts to reach a point by going "off-trail" (bushwhacking), the **Warden** should make any associated costs clear: typically time, effort (**Fatigue**), or any obvious dangers. Going off-trail also automatically triggers a roll on the Wilderness Events table.
-- If the party is interrupted, stops to investigate something, rest, etc. while exploring a forested zone, there may not be enough time to fully explore each connected point. In these cases, rely on the fiction and common sense to determine how much time is left in the day. 
-
 ## Creating a Forest
 
 Follow this procedure for any forested terrain in a region. 
@@ -36,41 +25,75 @@ Follow this procedure for any forested terrain in a region.
 ### Overview
 
 1. Define the forest's inhabitants.
-2. Define the type of forest and its landmarks.
+2. Create forest zones and add landmarks.
 3. Create points.
 4. Create the trails.
 5. Create forest encounters.
 6. Name the forest.
 
-### Forest Denizens
+## Forest Denizens
 
-Something about forest people
+In some ways the Wood a single entity, its brain alive within every tree and plant, connected via a network of thorn and branch. The animals and plants are its limbs, directing the wants, desires, fears, and needs. The creatures that live within its boundaries are its blood, answering its call by delivering much needed defenses and rebuffing interlopers. The Wood will always protect itself, and its children. Roll on the Traits table, writing the results in your notebook. This describes the general attitude of the creatures found in the forest.
 
-#### Some table
+### Traits
 
-|         |     |     |
-| ------- | --- | --- |
-| **d20** |     |     |
-| **1**   |     |     |
-| **2**   |     |     |
-| **3**   |     |     |
-| **4**   |     |     |
-| **5**   |     |     |
-| **6**   |     |     |
-| **7**   |     |     |
-| **8**   |     |     |
-| **9**   |     |     |
-| **10**  |     |     |
-| **11**  |     |     |
-| **12**  |     |     |
-| **13**  |     |     |
-| **14**  |     |     |
-| **15**  |     |     |
-| **16**  |     |     |
-| **17**  |     |     |
-| **18**  |     |     |
-| **19**  |     |     |
-| **20**  |     |     |
+Roll 2d20 and combine the results.
+
+|         |             |                 |
+| ------- | ----------- | --------------- |
+| **d20** | **Virtues** | **Vices**      |
+| **1**   | Adaptive    | Aggressive     |
+| **2**   | Balanced    | Covetous       |
+| **3**   | Brave       | Detached       |
+| **4**   | Clever      | Dominating     |
+| **5**   | Cultivating | Doubtful       |
+| **6**   | Empathic    | Invasive       |
+| **7**   | Enduring    | Judgemental    |
+| **8**   | Graceful    | Naïve          |
+| **9**   | Hardy       | Obscuring      |
+| **10**  | Harmonious  | Overzealous    |
+| **11**  | Independent | Parasitic      |
+| **12**  | Learned     | Polluting      |
+| **13**  | Nurturing   | Predatory      |
+| **14**  | Observant   | Prideful       |
+| **15**  | Purifying   | Rigid          |
+| **16**  | Resolute    | Rigid          |
+| **17**  | Sensible    | Scatterbrained |
+| **18**  | Sharp       | Self-centered  |
+| **19**  | Stable      | Self-centered  |
+| **20**  | Trusting    | Territorial    |
+
+### Factions 
+
+Every forest should have one or more Factions with their own unique agenda, obstacles, leaders, and hierarchy.
+
+#### Agendas
+
+Roll 2d20 and combine the results.
+
+|         |                |              |
+| ------- | -------------- | ------------ |
+| **d20** | **Goal**       | **Obstacle** |
+| **1**   | Abundance     | Agreements    |
+| **2**   | Awakening     | Belief        |
+| **3**   | Balance       | Contamination |
+| **4**   | Cleansing     | Disease       |
+| **5**   | Conservation  | Exploitation  |
+| **6**   | Defense       | Fragmentation |
+| **7**   | Discovery     | Frailty       |
+| **8**   | Emancipation  | Greed         |
+| **9**   | Enrichment    | Ignorance     |
+| **10**  | Evolution     | Infestation   |
+| **11**  | Expansion     | Invasion      |
+| **12**  | Harmony       | Isolation     |
+| **13**  | Healing       | Leadership    |
+| **14**  | Integration   | Oppression    |
+| **15**  | Justice       | Pollution     |
+| **16**  | Metamorphosis | Scarcity      |
+| **17**  | Purification  | Stasis        |
+| **18**  | Rebirth       | Turmoil       |
+| **19**  | Tranquility   | Vulnerability |
+| **20**  | Unity         | Vulnerability |
 
 ## Create the Map
 
@@ -291,5 +314,18 @@ Roll 2d20 and combine the results.
 | **17**  | Toxic spores      | Tracks erased by mist        |
 | **19**  | Troll Den         | Trees that grow from bones   |
 | **20**  | Unstable Ground   | Will-o-Wisp congregate       |
+
+## Forestcrawls
+
+A forestcrawl is a simple method for exploring a large forested area, typically made up of branching trails connecting scattered points of interest. While a forestcrawl has some of the same properties as a traditional dungeon delve, it swaps stone walls and ceilings for the dense, non-linear design of a heavily wooded area. Instead of rooms, points of interest are defined as clearings or major changes in the forested landscape. And unlike exploring a dungeon, characters can take shortcuts by going "off-trail" or climb trees to get a better look ahead (with a cost, of course).   
+
+### Exploring The Wood
+
+- Treat the forest as a _Dungeon_. Follow the standard dungeon exploration procedures, rolling on the Dungeon Events table.
+- Points in a forestcrawl are close to each other. When traveling on clearly marked trails, a small forest zone (10-15 POIs) can be explored in its entirety in a single Watch.
+- If the party attempts to reach a point by going "off-trail" (bushwhacking), the **Warden** should make any associated costs clear: typically time, effort (**Fatigue**), or any obvious dangers. Going off-trail also automatically triggers a roll on the Wilderness Events table.
+- If the party is interrupted, stops to investigate something, rest, etc. while exploring a forested zone, there may not be enough time to fully explore each connected point. In these cases, rely on the fiction and common sense to determine how much time is left in the day. 
+
+
 
 ## Example Forest
