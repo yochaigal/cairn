@@ -1,5 +1,114 @@
 
 
+## Example Forest
+
+### Draw Trails
+
+- We start by creating the structure of our forest, drawing the first dot representing the **Heart** in the central, Southern part of the region.
+- We then draw the **trunk**, creating a gentle curve towards the Northwest.
+- Then we draw three **branches** extending from the **trunk**, one towards the East (closer to the **Heart**) and the other towards the West and further North. 
+- We then draw a single **twig** off of each **branch**.
+- We draw a dot at every terminal point. 
+- Finally we connect two dots to other trails in our forest.
+
+### Number Dots
+
+- First we assign numbers, starting with the **Heart** at 11. In total, we have 7 dots for the Points: 
+- `1` is our **Heart**.
+- `2` is at the beginning (or end) of the **trunk**. 
+- `4`, `5`, and `6`, are each at the end of a **branch**.
+- `3` and `7` are each at the end of **twigs**, to the East and West of the **trunk** respectively. 
+
+### Assign Trail Markers
+
+For each trail we'll roll on the **Trail Markers** table (**d12**):
+
+  - For the **trunk** we got a **6** (_Old Logging Road_).
+  - For the Eastern **branch** closest to the **Heart** we got a **3** (_Fae Passage_).
+  - For the Western **branch** closest to the **Heart** we got a **4** (_Bandit's Run_).
+  - For the Eastern **branch** farthest from the **Heart** we got a **5** (_Pilgrim's Footpath_).
+  - For the loopeing trails that we made last, we got a **12** (_War Route_) and a **7** (_Trail Tree_).  
+
+### Assign Trail Spoor
+
+- For each Trail we roll on the [Spoor Types](#spoor-types) table. 
+- For the _Old Logging Road_ we rolled a **4** (Enormous Footprints).
+- For the _Fae Passage_ we rolled a **12** (Fresh Spiderwebs).
+- For the _Bandit's Run_ we rolled a **13** (Archaic Tree Carvings).
+- For the _Pilgrim's Footpath_ we rolled an **18** (Swaying Plants).
+- For the _War Route_ we rolled a **14** (Dozens of Stone Piles)
+- For the _Trail Tree_ we rolled a **13** (Claw Marks).
+
+### Assign Points
+
+Next we'll roll on the provided tables to generate features for each point. First roll a **d20** on the [Special](#special) table to create the **Heart (1)**. We got an **11** (_Elf Queen's Pavilion_).
+
+For each remaining point, we first roll on the [point Types](#point-types) table, then on the associated table:
+- **(2)**: We roll a **d6**: a **4** (Hazard). Now we roll a **d12** on the [Hazards](#hazards) table: a **6** (_Thorny Thickets_).
+- **(3)**: We roll a **d6**: a **5** (Landmark). Now we roll a **d12** on the [Landmarks](#landmarks) table: an **11** (_Cathedral of Trees_).
+- **(4)**: We roll a **d6**: **1** (Settlement). Now we roll a **d12** on the [Settlement](#settlements) table: a **9** (_Monastic Retreat_). We also roll on the [Settlement Features](#settlement-features) table with a **d20**: a **20** (Renowned for its scholars).
+- **(5)**: We roll a **d6**: **2** (Ruins). Roll a **d12** on the [Ruins](#ruins) table: a **4** (_Crumbled Crypt_).
+- **(6)**: We roll a **d6**: **3** (Lair). Roll a **d12** on the [Lairs](#lairs) table: an **8** (_Goblin Hideaway_).
+- **(7)**: We roll a **d6**: **6** (Special). Roll a **d20** on the Special table: a **5** (_Will-o'-Wisps_).
+
+### Create Encounters
+
+Next, we create forest encounters by rolling a **d20** on the [Forest Encounters](#forest-encounters) table for each point.
+
+1. We roll an **8**: _Naiads splashing in a small pond. Their teeth are fanged, like daggers._
+2. We roll a **17**: _A dense thicket of thorns, nearly impassable._
+3. We roll a **15**: _A wounded animal, whining pitifully as it limps._
+4. We roll a **2**: _The remnants of an old watchtower hidden in dense forest growth._
+5. We roll a **7**: _A gnarled tree trunk bearing an uncannily carved face on its trunk._
+6. We roll a **3**: _A snarling pack of wolves surrounding a fresh kill._
+7. We roll a **6**: _A circle of perfect mushrooms. Blue-white wings flutter between._
+
+### Naming
+
+We will now name each point using the [Location Names](#location-names) table. I took some liberties here, smashing together words I liked with other words from the list.
+
+1. **Heart (Elf Queen's Pavilion)**: _Glintleaf Dell_
+2. **(Thorny Thickets)**: _Thistlefield_
+3. **(Cathedral of Trees)**: _Timbertop Spire_
+4. **(Monastic Retreat)**: _Cloister of the Quiet Wood_
+5. **(Crumbled Crypt)**: _Shattered Barrow_
+6. **(Goblin Hideaway)**: _Mossbreak Nook_
+7. **(Will-o'-Wisps)**: _Glimmerglade_
+
+### Naming Our Forest
+
+Finally, we roll on the [Forest Names](#forest-names) table, getting a **4** and then a **6** (or 46) for the adjective, "Luminous". Then we roll again, getting a **10** and a **5** (or 15) for the noun, "Weald." Our forest is called **The Luminous Weald**.
+
+### Conclusion 
+
+#### The Luminous Weald
+
+[![Alt text](/img/2e/forestcrawl.png "Click to embiggen"){:height="80%" width="80%"}](/img/2e/forestcrawl.png)
+
+> I've added a backdrop from the wonderful [Perilous Shores](https://watabou.itch.io/perilous-shores) to give it more flavor. 
+
+#### Trails in The Weald
+
+- _Old Logging Road_: Runs Northwest, connecting **Glintleaf Dell** to **Thistlefield**. Logging tracks cut into the ground the entire length of the trail. Enormous footprints are visible in the caked mud.
+- _Fae Passage_: Runs Northeast, an offshoot of the _Old Logging Road_. Connects to **Shattered Barrow** and **Glimmerglade**. The air feels heavy here. Covered in fresh spiderwebs. 
+- _Bandit's Run_: Runs West, an offshoot of the _Old Logging Road_. Connects to **Timpertop Spire** and **Mossbreak Nook**. The entry is partly hidden, but ancient tree carvings indicate its presence.
+- _Pilgrim's Footpath_: Runs East from the _Old Logging Road_. Ends at the **Cloister of the Quiet Wood**. The comfortable trail is lined by odd, swaying plants line both sides of the trail.
+- _War Route_: Connects **Timbertop Spire** to the _Old Logging Road_. The path is wide but heavily pitted here. Stones are stacked along the road in an intrictate arrangement as a memorial to the last war. 
+- _Trail Tree_: Connects **Glimmberglade** to the _Pilgrim's Footpath_. A bent tree indicates that there is safety towards the Northeast. Ugly claw marks scar the otherwise healthy tree.  
+
+#### Points of Interest in The Weald
+
+1. **Glintleaf Dell**: The heart of the forest. In the center is a small pond, where Naiads with dagger-like teeth frolic. A palatial stone stage is built on one side, topped by a gold-leaf arch. Here, the Elf Queen meets her subjects.
+2. **Thistlefield**: This area is overrun with thick bushes, forming a dense, nearly impassable thicket of thorns. It acts as a barrier of sorts, as just beyond lie the wide meadows of the West.
+3. **Timbertop Spire**: A heavily wooded area featuring tall, majestic oak trees arranged in an unnatural yet pleasing pattern, evoking a sense of reverence in its visitors. A wounded animal whines pitifully within this sacred grove.
+4. **Cloister of the Quiet Wood**: A monastery repurposed from an old military outpost. The only items allowed beyond the decrepit watchtower standing before it are books, as this particular order is well-known for its scholarly research.
+5. **Shattered Barrow**: A collapsed crypt, blanketed in moss and ivy. An uncanny, scarred face is carved into a nearby enormous oak tree.
+6. **Mossbreak Nook**: A Goblin hideout, completely obscured by the heavily-mossed trees surrounding it. In a small nearby glade, a pack of snarling wolves surrounds a freshly killed fae-touched deer.
+7. **Glimmerglade**: A lovely meadow nestled beneath an impressive willow tree. In the center, blue-white wings flutter about a circle of perfect red mushrooms. At night, Will-o'-Wisps descend from the willow's boughs to feast.
+
+
+
+
 #### Forest Encounters
 
 - Feel free iterate or combine the results, or simply choose an encounter that interests you.
