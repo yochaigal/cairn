@@ -292,7 +292,7 @@ A region's terrain and natural features are an essential part of any map, affect
 - Roll **1d6** on the table, then roll an amount of dice equal to that number on the map. Collect any dice that roll off the page and set them aside.
 - Draw long, curvy lines across the page, carving up the map around each die. 
 - Roll on the relevant table for each result, writing the terrain type on the map.
-  - Replace the die with a triangle, writing the Landmark result beneath.
+  - Replace the die with a triangle, writing the landmark result on the map.
   - Roll any dice that fell off the map page, repeating the last step until none remain.
   - If there are any empty spaces in need of terrain, roll a die anywhere you like and use the face-up result as before.
 

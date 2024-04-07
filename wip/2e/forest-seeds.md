@@ -30,7 +30,7 @@ Follow this procedure for any forested terrain in a region.
 - Pencils and erasers.
 - At least one d6 and one d20, but 6d6 and 2d20 would be ideal.
 
-> Going forward, we will refer to the sheet of paper as the **forest map**.
+> Going forward, we will refer to the sheet of paper as the **map**.
 > As with any other rule, if you don't like a table result, roll again or tweak as desired!
 
 ### Overview
@@ -83,7 +83,10 @@ Each forest is unique,
 
 **Landmarks** are unique, visible POIs that can also be used as geographic reference points: unusually tall trees, towers, and so on. Most forest landmarks are visible only by climbing a tree, though some may be large enough to stand out from the green. Some landmarks are _heard_ rather than seen.
 
-Roll on the [Forest Types](#forest-types) table and (put a landmark somewhere?)
+- Roll **1d6** on the table, then roll an amount of dice equal to that number on the map. Ignore any dice that roll off the page.
+- Draw long, curvy lines across the page, carving up the map around each die. These represent areas where the forest shifts and changes.
+- Roll on the [Forest Types](#forest-types) table for each result, noting the forest type on the map. 
+  - Replace the die with a triangle and write the landmark result on the map.
 
 #### Forest Types
 
@@ -167,7 +170,7 @@ Roll 2d20 and combine the results.
 | **19**  | Treeline Heights   | Swaying Plants     |
 | **20**  | War Route          | Tree Carvings      |
 
-> If some of the results seem incongruous, that's OK! Turn it into a question, like "Why _is_ there an old logging road leading to the bandit's hideout?" That said, don't be afraid to choose a more appropriate result if you're having a hard time making it work!
+> If some of the results seem incongruous, that's OK! Create questions from the juxtaposition, such as "Why _is_ there an old logging road leading to the bandit's hideout?" That said, don't be afraid to choose a more appropriate result if you're having a hard time making it work!
 
 ### Stock the POIs
 
@@ -176,7 +179,7 @@ Roll 2d20 and combine the results.
 
 #### Monster
 
-Monsters are any dangerous creature that lives in a dungeon. This does not mean it will attack intruders by default! Monsters are not simply "waiting around" for the characters to find them, but instead have their own wants and goals, even if they are simply looking for their next meal. Some monsters can talk, reason, and even beg for mercy. _People can be monsters, too_.
+Monsters are any dangerous creature that live in the forest. This does not mean it will attack intruders by default! Monsters are not "waiting around" for characters to stumble upon them, but have their own wants and goals. Some monsters can talk, reason, and even beg for mercy. _People can be monsters, too_.
 
 Roll 2d20 and combine the results.
 
@@ -206,6 +209,8 @@ Roll 2d20 and combine the results.
 
 #### Ruins
 
+Forests are wild places, but that does not mean people haven't tried to tame them. The remnants of these attempts still show up from time to time, hinting at the folly of those who would stand against the Wood.
+
 Roll 2d20 and combine the results.
 
 |         |                     |                                        |
@@ -233,6 +238,8 @@ Roll 2d20 and combine the results.
 | **20**  | Toppled Statue      | Visions of its past play out           |
 
 #### Shelter
+
+Despite it wild & unpredictable nature, there have always been those that brave, skilled, or foolhardy enough to try and build a life in the Wood. And some do succeed, leaving their mark via smoldering campfire or gray tower, offering a welcome respite to weary travelers. 
 
 Roll 2d20 and combine the results.
 
@@ -262,6 +269,8 @@ Roll 2d20 and combine the results.
 
 #### Hazard
 
+The Wood is a dangerous place, and not to be trifled with. The forest and its inhabitants do what they must to survive, and even sated are still preparing for their next meal. Even the trees, plants, and even the earth itself will leave deadly traps and dangers to root out those unworthy to pass beneath the boughs.
+
 Roll 2d20 and combine the results.
 
 |         |                   |                              |
@@ -288,34 +297,6 @@ Roll 2d20 and combine the results.
 | **19**  | Troll Den         | Trees that grow from bones   |
 | **20**  | Unstable Ground   | Will-o-Wisp congregate       |
 
-
-#### Forest Encounters
-
-- Feel free iterate or combine the results, or simply choose an encounter that interests you.
-
-|         |                                                                                                               |                                                                                                     |
-| ------- | ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| **d20** | **Encounter**                                                                                                 | **Encounter**                                                                                       |
-| **1**   | A patch of perfectly round toadstools. Blue-white wings flutter between, their wings humming a hypnotic tune. | A circle of standing stones, overgrown with moss. No grass grows in their shadow.                   |
-| **2**   | A dense thicket of thorns, nearly impassable. Something shiny glints just beyond.                             | A fairy circle, covered in black moss. Something about it feels off.                                |
-| **3**   | A dryad sits atop a stone, a purple fungus lining her arms. There is a violence to her eyes.                  | A great oak has been felled, perhaps by lightning. A large hole is rent on one side.                |
-| **4**   | A gnarled tree trunk with an uncannily carved face on its trunk.                                              | A lone Woodwose stands directly on the path ahead, holding a large stick.                           |
-| **5**   | A hillside cave, wafting the scent of damp and decay. Within, a stone statue of some forgotten deity.         | A robed woman is tending to a wounded animal, whispering in its ear.                                |
-| **6**   | A massive boulder blocks the path ahead. It is actually a buried troll, turned to stone by the sun.           | A rotted, vine-covered cabin, clearly abandoned long ago. A delicious smell wafts from the window.  |
-| **7**   | A patch of quicksand disguised as soft ground. A broken spool of rope lies nearby.                            | A small bearded man argues with a squawking raven. It holds something shiny in its beak.            |
-| **8**   | A snarling pack of wolves surround a fresh kill. They are not keen to share.                                  | A tiny hovel is nestled in a tree's roots. The smell of baking bread wafts out.                     |
-| **9**   | A spectacular waterfall, spraying rainbows high. A silver horn splits the cascade, its owner obscured.        | A tree, all but consumed by blight. In its boughs, something cries out as if trapped.               |
-| **10**  | A trap, hastily set and poorly concealed. It smells strongly of urine.                                        | A trio of satyrs playing and dancing to music. They seem ignorant of any observation.               |
-| **11**  | A tree acting as makeshift bridge over a glittering stream. It appears sturdy.                                | A troll sits holding a mirror, engaged in deep conversation with its own reflection.                |
-| **12**  | A trio of ravens circle ominously overhead. Suddenly they burst into action, diving down into the bush.       | A windless glade with a large willow at the center. It sways softly, as if to some unseen breeze.   |
-| **13**  | A wide river where otters are playing with something shiny. It appears to be a small suit of armor.           | Dozens of smallfolk have setup a market here, trading forest goods. Their wares are impressive.     |
-| **14**  | A Woodwife gathers herbs, singing a melancholic song. She disappears into the wood if provoked.               | In the crook of a hollow tree, six ravens squawk and preen. If observed they stare back in silence. |
-| **15**  | A wounded animal, whining pitifully and limping. There is intelligence in its eyes.                           | Sleeping peacefully atop two boughs, a giant is snoring. The ground vibrates in response.           |
-| **16**  | An old watchtower, hidden by dense forest growth. Something larger looms just around the bend.                | The path ends at a small pond. The water looks pure, but something moves subtly within.             |
-| **17**  | Bees swarm protectively around a tree brimming with honeycombs. A cloaked figure silently observes nearby.    | Statues of warriors, their faces lined with horror.                                                 |
-| **18**  | Naiads splashing in a small pond. Their teeth are fanged, like daggers.                                       | A maze, invisible save for a faint shimmer.                                                         |
-| **19**  | Shadowy figures dart between the trees. Hushed voices call out to one another.                                | Footprints that glow faintly under moonlight, but vanish when touched.                              |
-| **20**  | Wild berries grow here in abundance. None have been eaten, not even by birds.                                 | A flower that changes color based on the emotions of those nearby.                                  |
 
 ## Example Forest
 
