@@ -9,6 +9,13 @@ grand_parent: WIP
 
 # Forest Seeds
 
+## Exploring The Wood
+
+- Follow the _Dungeon_ exploration procedures found in the Player's Guide, but rather than rolling for Dungeon Events, use the Wilderness Events table instead.
+- If the party attempts to step off the trail and cut through the forest, the Warden should make any associated costs clear. Added travel time, effort, special tools that may be required, and any obvious dangers. Going off-trail also automatically triggers a roll on the Wilderness Events table.
+- Points in a forestcrawl are close to each other. When traveling on clearly marked trails, a small forest zone (10-15 POIs) can be explored in its entirety in a single Watch.
+- Rely on the fiction and common sense to determine how much daylight is available, whether a suitable area is available for rest, and what the costs or dangers associated nighttime exploration may be. 
+
 ## Creating a Forest
 
 Follow this procedure for any forested terrain in a region. 
@@ -99,40 +106,40 @@ Roll 2d20 and combine the results.
 
 ### Forest Topography
 
-A forest can be broken up into zones, each defined by an obvious **Type** and **Landmark**. The type indicates how outsiders perceive the Wood, and landmarks help travelers navigate through the dense foliage, acting as geographic reference points: unusually tall trees, towers, and so on. Most forest landmarks are visible only by climbing a tree, though a few are large enough to stand out from the green. Some landmarks are _heard_ rather than seen.
+A forest can be broken up into zones, each defined by distinct **Zones** and **Landmarks**. The zones describe how outsiders perceive the Wood, and landmarks help travelers navigate through the dense foliage, acting as geographic reference points: unusually tall trees, towers, and so on. Most forest landmarks are visible only by climbing a tree, though a few are large enough to stand out from the green. Some landmarks are _heard_ rather than seen.
 
 - Roll **1d6** on the table, then roll an amount of dice equal to that number on the map. Ignore any dice that roll off the page.
 - Draw long, curvy lines across the page, carving up the map around each die. These represent areas where the forest shifts and changes.
-- Roll on the [Forest Types](#forest-types) table for each result, noting the forest type on the map. 
+- Roll on the [Forest Zones](#forest-zones) table for each result, noting the forest type on the map. 
   - Replace the die with a triangle and write the landmark result on the map.
 
-#### Forest Types
+#### Forest Zones
 
 Roll 2d20 and combine the results.
 
-|         |           |                    |
-| ------- | --------- | ------------------ |
-| **d20** | **Type**  | **Landmark**       |
-| **1**   | Ancient   | Blackened Crater   |
-| **2**   | Barren    | Bloom Field        |
-| **3**   | Buzzing   | Broken Crag        |
-| **4**   | Decaying  | City of Spores     |
-| **5**   | Dying     | Colossal Bee Hive  |
-| **6**   | Flooded   | Enormous Tree      |
-| **7**   | Frozen    | Fallen God-Tree    |
-| **8**   | Fungal    | Fungus Grotto      |
-| **9**   | Glowing   | Glittering River   |
-| **10**  | Infested  | Glowing Chasm      |
-| **11**  | Misty     | Great Eagle's Nest |
-| **12**  | Mossy     | Leviathon Tree     |
-| **13**  | Murky     | Massive Hive       |
-| **14**  | Overgrown | Obelisk            |
-| **15**  | Petrified | Obsidian River     |
-| **16**  | Polluted  | Petrified Behemoth |
-| **17**  | Scorched  | Rainbow Waterfall  |
-| **18**  | Secluded  | Sky Arch           |
-| **19**  | Silent    | Stump Cathedral    |
-| **20**  | Sunlit    | Volcanic Plume     |
+|         |                 |                    |
+| ------- | --------------- | ------------------ |
+| **d20** | **Description** | **Landmark**       |
+| **1**   | Ancient         | Blackened Crater   |
+| **2**   | Barren          | Bloom Field        |
+| **3**   | Buzzing         | Broken Crag        |
+| **4**   | Decaying        | City of Spores     |
+| **5**   | Dying           | Colossal Bee Hive  |
+| **6**   | Flooded         | Enormous Tree      |
+| **7**   | Frozen          | Fallen God-Tree    |
+| **8**   | Fungal          | Fungus Grotto      |
+| **9**   | Glowing         | Glittering River   |
+| **10**  | Infested        | Glowing Chasm      |
+| **11**  | Misty           | Great Eagle's Nest |
+| **12**  | Mossy           | Leviathon Tree     |
+| **13**  | Murky           | Massive Hive       |
+| **14**  | Overgrown       | Obelisk            |
+| **15**  | Petrified       | Obsidian River     |
+| **16**  | Polluted        | Petrified Behemoth |
+| **17**  | Scorched        | Rainbow Waterfall  |
+| **18**  | Secluded        | Sky Arch           |
+| **19**  | Silent          | Stump Cathedral    |
+| **20**  | Sunlit          | Volcanic Plume     |
 
 ### Create POIs
 
@@ -140,6 +147,7 @@ Roll 2d20 and combine the results.
 - Write the face-up results on the page according to the [Forest Die Drop Table](#forest-die-drop-table). For example, the number **4** would indicate a **Shelter**, denoted by the letter "S" on the page.
 - Select two opposite points, preferably close to the page border. These are the forest's entrance and exit.
 - Starting with the entrance and ending at the exit, number each POI on the map.
+- Roll on the relevant tables for each point, writing the results in your notebook. 
 
 #### Forest Die Drop Table
 
@@ -188,16 +196,11 @@ Roll 2d20 and combine the results.
 | **19**  | Treeline Heights   | Swaying Plants     |
 | **20**  | War Route          | Tree Carvings      |
 
-> If some of the results seem incongruous, that's OK! Create questions from the juxtaposition, such as "Why _is_ there an old logging road leading to the bandit's hideout?" That said, don't be afraid to choose a more appropriate result if you're having a hard time making it work!
-
-### Stock the POIs
-
-- Roll on the relevant tables for each point, writing the results in your notebook. 
-- For each point, filter the table results through the theme you generated earlier in this process. 
+> If some of the results seem incongruous, that's OK! Turn these juxtapositions into questions like "Why _is_ there an old logging road leading to the bandit's hideout?" That said, don't be afraid to choose a more appropriate result if you're having a hard time making it work!
 
 #### Monster
 
-Monsters are any dangerous creature that live in the forest. This does not mean it will attack intruders by default! Monsters are not "waiting around" for characters to stumble upon them, but have their own wants and goals. Some monsters can talk, reason, and even beg for mercy. _People can be monsters, too_.
+Monsters are any dangerous creature one might encounter in the forest. This does not mean it will attack intruders by default! Monsters are not "waiting around" for characters to stumble upon them, but have their own wants and goals. Some monsters can talk, reason, and even beg for mercy. _People can be monsters, too_.
 
 Roll 2d20 and combine the results.
 
@@ -319,13 +322,5 @@ Roll 2d20 and combine the results.
 
 A forestcrawl is a simple method for exploring a large forested area, typically made up of branching trails connecting scattered points of interest. While a forestcrawl has some of the same properties as a traditional dungeon delve, it swaps stone walls and ceilings for the dense, non-linear design of a heavily wooded area. Instead of rooms, points of interest are defined as clearings or major changes in the forested landscape. And unlike exploring a dungeon, characters can take shortcuts by going "off-trail" or climb trees to get a better look ahead (with a cost, of course).   
 
-### Exploring The Wood
-
-- Treat the forest as a _Dungeon_. Follow the standard dungeon exploration procedures, rolling on the Dungeon Events table.
-- Points in a forestcrawl are close to each other. When traveling on clearly marked trails, a small forest zone (10-15 POIs) can be explored in its entirety in a single Watch.
-- If the party attempts to reach a point by going "off-trail" (bushwhacking), the **Warden** should make any associated costs clear: typically time, effort (**Fatigue**), or any obvious dangers. Going off-trail also automatically triggers a roll on the Wilderness Events table.
-- If the party is interrupted, stops to investigate something, rest, etc. while exploring a forested zone, there may not be enough time to fully explore each connected point. In these cases, rely on the fiction and common sense to determine how much time is left in the day. 
-
-
-
 ## Example Forest
+
