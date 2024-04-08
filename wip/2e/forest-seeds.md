@@ -33,7 +33,7 @@ Follow this procedure for any forested terrain in a region.
 
 ## Forest Denizens
 
-In some ways the Wood a single entity, its brain alive within every tree and plant, connected via a network of thorn and branch. The animals and plants are its limbs, directing the wants, desires, fears, and needs. The creatures that live within its boundaries are its blood, answering its call by delivering much needed defenses and rebuffing interlopers. The Wood will always protect itself, and its children. Roll on the Traits table, writing the results in your notebook. This describes the general attitude of the creatures found in the forest.
+In some ways the Wood is a single entity, its brain alive within every tree and plant, connected via a network of thorn and branch. The animals and plants are its limbs, directing the wants, desires, fears, and needs. The creatures that live within its boundaries are its blood, answering its call by delivering much needed defenses and rebuffing interlopers. The Wood will always protect itself, and its children. Roll on the Traits table, writing the results in your notebook. This describes the general attitude of the creatures found in the forest.
 
 ### Traits
 
@@ -257,7 +257,7 @@ Roll 2d20 and combine the results.
 
 #### Shelter
 
-Despite it wild & unpredictable nature, there have always been those that brave, skilled, or foolhardy enough to try and build a life in the Wood. And some do succeed, leaving their mark via smoldering campfire or gray tower, offering a welcome respite to weary travelers. 
+Despite it wild & unpredictable nature, there have always been those brave, skilled, or foolhardy enough to try and build a life in the Wood. And some do succeed, leaving their mark via smoldering campfire or gray tower, offering a welcome respite to weary travelers. 
 
 Roll 2d20 and combine the results.
 
@@ -287,7 +287,7 @@ Roll 2d20 and combine the results.
 
 #### Hazard
 
-The Wood is a dangerous place, and not to be trifled with. The forest and its inhabitants do what they must to survive, and even sated are still preparing for their next meal. Even the trees, plants, and even the earth itself will leave deadly traps and dangers to root out those unworthy to pass beneath the boughs.
+The Wood is a dangerous place, and not to be trifled with. The forest and its inhabitants do what they must to survive, and even sated are still preparing for their next meal. The trees, the plants, and the earth itself will leave deadly traps and dangers to root out those unworthy to pass beneath the boughs.
 
 Roll 2d20 and combine the results.
 
