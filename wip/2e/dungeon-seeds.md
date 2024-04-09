@@ -228,7 +228,13 @@ Roll 2d20 and combine the results.
 | **4**   | Special  |
 | **5-6** | Trap     |
 
-### Draw Paths
+## Draw Paths
+
+### Path Types
+
+- **Standard** paths are obvious connectors between rooms. _Represented by a thick line._
+- **Hidden** paths do not appear on any known maps. Their discovery always requires some kind of cost. _Represented by a dashed line._
+- **Conditional** paths may be blocked, or requires specialized tools (hidden levers, climbing gear, etc.) to cross. Others may even be impossible to navigate without a map or guide. _Represented by a crossed line._
 
 - Starting with the entrance, create 1-4 paths between each room. 
  - Create loops, branching hallways, dead-ends, and shortcuts between rooms.

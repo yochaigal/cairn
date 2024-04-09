@@ -11,7 +11,7 @@ grand_parent: WIP
 
 ## Forestcrawls
 
-A forestcrawl is a simple method for exploring a large forested area, typically made up of branching trails connecting scattered points of interest. While a forestcrawl has some of the same properties as a traditional dungeon delve, it swaps stone walls and ceilings for the dense, non-linear design of a heavily wooded area. Instead of rooms, points of interest are defined as clearings or major changes in the forested landscape. And unlike exploring a dungeon, characters can take shortcuts by going "off-trail" or climb trees to get a better look ahead (with a cost, of course).   
+A forestcrawl is a simple method for exploring a large forested area, typically made up of branching trails connecting scattered points of interest. While a forestcrawl has some of the same properties as a traditional dungeon delve, it swaps stone walls and ceilings for the dense, non-linear design of a heavily wooded area. Instead of rooms, points of interest are defined as clearings or major changes in the forested landscape. However unlike exploring a dungeon, characters can go take shortcuts, go "off-trail," or climb trees to get a better look ahead (with a cost, of course).   
 
 ### Exploring The Wood
 
@@ -162,6 +162,14 @@ Roll 2d20 and combine the results.
 | **2-3** | Ruins   |
 | **4**   | Shelter |
 | **5-6** | Hazard  |
+
+## Trails
+
+### Trail Types
+
+- **Standard** trails are obvious or well-trod routes between two POIs. _Represented by a thick line._
+- **Hidden** trails do not appear on any known maps. Their discovery always requires some kind of cost. _Represented by a dashed line._
+- **Conditional** trails may be blocked, or requires specialized tools (boats, climbing gear, etc.) to cross. Others may even be impossible to navigate without a map or guide. _Represented by a crossed line._
 
 ### Draw Trails
 
