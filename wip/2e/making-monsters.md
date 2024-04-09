@@ -157,7 +157,7 @@ Roll 2d20 and combine the results.
 
 |         |             |              |
 | ------- | ----------- | ------------ |
-| **d20** | **Power**   | **Target**   |
+| **d20** | **Ability** | **Target**   |
 | **1**   | Absorbs     | Body         |
 | **3**   | Amplifies   | Dreams       |
 | **4**   | Attracts    | Element      |
