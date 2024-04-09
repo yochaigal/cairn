@@ -332,3 +332,21 @@ Roll 2d20 and combine the results.
 
 ## Example Forest
 
+Denizens Traits - Virtue: Stable, Vice: Invasive
+Faction Agendas - Goal: Expansion, Obstacle: Fragmentation
+Zones - Murky, Broken Crag
+Trail types - Merchant Road, Serpent Traces
+
+### POIs
+
+1 - Ruin: Petrified campsite, self-obsessed sprite (Entrance)
+2 - Hazard: Sap Trap, Ghost Trapped in Crystal
+3 - Shelter: Hermit's Hut, presents a ready meal
+4 - Shelter: Hut with legs, hunting is forbidden
+5 - Monster: Grizzly, prowling
+6 - Ruins: Flooded monastery, broken portal
+7 - Hazard: Stinging Nettles, Highly localized weather
+8 - Shelter: Fishing hut, Occupied by army deserters (Exit)
+9 - Monster: Skeleton, scouting
+10 - Hazard: Giant Spider Nest, bird spies
+
