@@ -253,20 +253,20 @@ Roll 2d20 and combine the results.
 | **4**   | Collapsed Megalith  | A hag, foraging for ingredients        |
 | **5**   | Crumbled Watchtower | A hidden weapons cache                 |
 | **6**   | Decomposed Canoes   | A mirror of itself, just below         |
-| **7**   | Entangled Pavilion  | A self-obsessed Sprite                 |
+| **7**   | Entangled Pavilion  | A self-obsessed sprite                 |
 | **8**   | Exposed Workshop    | A silent, ghostly concert              |
 | **9**   | Flooded Monastery   | A very tiny ruined village             |
 | **10**  | Moldering Farmhouse | Bound by an unbreakable curse          |
-| **11**  | Neglected Shrine    | Holy ground, undead cannot enter       |
-| **12**  | Overrun Estate      | Hooded Men, completing a ritual        |
-| **13**  | Petrified Campsite  | Inaudible whispers from all directions |
-| **14**  | Rotted Mill         | Marked by battles of yore              |
-| **15**  | Ruined Cloister     | Overrun with unusual flora             |
-| **16**  | Rusted Market       | Remnants of a failed ritual            |
-| **17**  | Shattered Bridge    | Seventy-five realistic toy soldiers    |
-| **18**  | Splintered Obelisk  | Three corpses, fresh                   |
-| **19**  | Sunken Gazebo       | Veil between worlds is very thin       |
-| **20**  | Toppled Statue      | Visions of its past play out           |
+| **11**  | Neglected Shrine    | Dozens of realistic toy soldiers       |
+| **12**  | Overrun Estate      | Holy ground, undead cannot enter       |
+| **13**  | Petrified Campsite  | Hooded Men completing a ritual         |
+| **14**  | Rotted Mill         | Inaudible whispers from all directions |
+| **15**  | Ruined Cloister     | Marked by battles of yore              |
+| **16**  | Rusted Market       | Overrun with unusual flora             |
+| **17**  | Shattered Bridge    | Remnants of a failed ritual            |
+| **18**  | Splintered Obelisk  | The veil between worlds is very thin   |
+| **19**  | Sunken Gazebo       | Three corpses, fresh                   |
+| **20**  | Toppled Statue      | Visions of the past                    |
 
 #### Shelter
 
@@ -360,21 +360,28 @@ The primary faction is bent on expanding the forest's reach to some adjacent lan
 
 ### POIs
 
-### 1 - Petrified Campsite
+### 1 - Diseased Campsite
 
-**Ruin**: _Petrified Campsite_, _self-obsessed sprite_ | **Entrance**
+**Ruin**: _Petrified Campsite_, _Overrun with unusual flora_ | **Entrance**
 
-At the forest edge is a dead **campfire** with piles of dark grey **bedding** on laid out close by. A **trail** to the North leads into the forest. 
+At the forest edge is a dead **campfire** with piles of dark grey **bedding** laid out close by. Plants, flowers, and other **flora** grow thickly over the campsite. A **trail** to the **North** leads into the forest. 
 
 - **Campfire**: No smoke or soot remains. 
-  - 
-- **Bedding**: 
-  - 
+  - The remaining wood is stained a deep grey and very cold to the touch. One of the logs is clearly diseased, and is as hard as iron.
+- **Bedding**: Stained a dark grey. Splinters of grey wood are stuck in the cloth.
+  - Icy cold to the touch. The space beneath the cloth is partly blue and red, but grey circles grow out of the wood flecks. 
+- **Flora**: Rare and unique species not common to these parts.
+  - Skilled pruning and a few minutes of careful work produces a **Healing Salve** (restore 1d4 STR, 1 use).
 - **Trail**: Long grooves in the rough shape of a tree trunk are cut into the ground. 
-- Fine spiderwebs block the forest entry, as if no one had walked through in a long while.
+  - Fine spiderwebs block the forest entry, as if no one had walked through in a long while.
 
 
-2 - Hazard: Sap Trap, Ghost Trapped in Crystal
+### 2 - 
+
+**Hazard**: _Sap Trap_, _Ghost Trapped in Crystal_
+
+
+
 3 - Shelter: Hermit's Hut, Presents a Ready Meal
 4 - Shelter: Hut with legs, hunting is forbidden
 5 - Monster: Grizzly, prowling
