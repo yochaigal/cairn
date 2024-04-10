@@ -12,14 +12,14 @@ grand_parent: WIP
 ## Introduction
 
 - The implied setting of Cairn is called **Vald**. This includes all developed or settled lands, cities, towns, etc. The particular ruler does not matter. 
-- **The Wood** surrounds and divides the kingdoms, and includes anyone (or anything) that has not yet sworn fealty. **The Woods** is not one forest, but _all_ forests.
+- **The Wood** surrounds and divides the kingdoms, and includes anyone (or anything) that has not yet sworn fealty. **The Wood** is not one forest, but _all_ forests.
 - **The Roots** is the realm of mystery and horror underneath, and does not care for the petty divisions aboveground.   
 
-### The Woods
+### The Wood
 
-- Any lands beyond the control of a noble, a city, or a town. Typically wilder and less "civilized." All forests are considered part of **The Woods**, no matter how isolated.
-- The Woods are populated by creatures far stranger and wondrous than humankind: Fae, Demons, Witches, werewolves, and even talking plants and animals. They do not appreciate the loss of their home from the encroachment of "natural" progress, either. 
-- The denizens of **The Woods** are fiercely independent, believing they are subject solely to the rules of **The Woods** and no other.Its fierce nations, wild tribes, and unrelenting elements have kept armies and scouting parties at bay. For now.
+- Any lands beyond the control of a noble, a city, or a town. Typically wilder and less "civilized." All forests are considered part of **The Wood**, no matter how isolated.
+- The Wood are populated by creatures far stranger and wondrous than humankind: Fae, Demons, Witches, werewolves, and even talking plants and animals. They do not appreciate the loss of their home from the encroachment of "natural" progress, either. 
+- The denizens of **The Wood** are fiercely independent, believing they are subject solely to the rules of **The Wood** and no other.Its fierce nations, wild tribes, and unrelenting elements have kept armies and scouting parties at bay. For now.
 
 ### The Roots
 
@@ -31,7 +31,7 @@ grand_parent: WIP
 
 - For the first name, roll on each table respectively, then combine. Then use the format:
 - If they hail from a city or town, use their background or profession, e.g. "Paela Miller," or the first name of a parent (roll another name), e.g. "Leni Lio." 
-- If they hail from **The Woods**, use the name of their hometown, e.g. "Faroelel of Sundew Glade," or a title, e.g. "JaraSif the Mighty." 
+- If they hail from **The Wood**, use the name of their hometown, e.g. "Faroelel of Sundew Glade," or a title, e.g. "JaraSif the Mighty." 
 - If they hail from **The Roots**, create three names and combine them, e.g. "Lylethor Sorin Tal," or dashes, between the second and third syllables, e.g. "Penu-Flor."
 
 |         |                    |
@@ -351,7 +351,7 @@ grand_parent: WIP
 | **99**   | Quaint        | Hamlet      |
 | **100**  | Celestial     | Observatory |
 
-### The Woods Location Names
+### The Wood Location Names
 
 |          |               |             |
 | -------- | ------------- | ----------- |

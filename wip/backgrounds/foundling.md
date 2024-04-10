@@ -46,4 +46,4 @@ Faunus, Snowdrop, Wisp, Silverdew, Brim, Solstice, Steeleye, Sileas, Gossamer, H
 | **3** | **Ivy Worm**      | A green worm often mistaken for a weed. Swallowed whole, it absorbs any toxins or rot in the body before exiting through the usual way. |
 | **4** | **Dream Stone**   | A smooth blue stone that helps recall dreams more clearly. Overuse can cause dream-addiction.                                           |
 | **5** | **Drowning Rod**  | A finger-sized wooden stick that doubles in size each time it is fully submerged in water. It does not shrink down again.         |
-| **6** | **Rabbit's Foot** | You were wearing it when they found you. They say it is the foot of she who left you, and that it protects you from witch magic.        |
+| **6** | **Rabbit's Foot** | You were wearing it when they found you. They say it is the foot of she who left you, and that it protects you from witch magic. _Petty_.       |
