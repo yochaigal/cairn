@@ -35,12 +35,44 @@ Follow this procedure for any forested terrain in a region.
 
 ### Overview
 
-1. Define the forest's inhabitants.
-2. Create forest zones and add landmarks.
+1. Define the forest.
+2. Define the forest's inhabitants.
 3. Create points.
 4. Create the trails.
 5. Create forest encounters.
 6. Name the forest.
+
+## Forest Description
+
+Roll on the [Forest Description](#forest-description) and write the results in your notebook. This table both indicates how outsiders perceive the forest as well as any unique natural features it may have. If the forested terrain was generated using the methods described in the Setting Seeds chapter, consider how the associated Landmark affects it as well.
+
+> Landmarks help travelers navigate through the dense foliage, acting as geographic reference points: unusually tall trees, watchtowers, and so on. Most forest landmarks are visible only by climbing a tree, though a few are large enough to stand out from the green. Some landmarks are _heard_ rather than seen.
+
+Roll 2d20 and combine the results.
+
+|         |                 |                 |
+| ------- | --------------- | --------------- |
+| **d20** | **Description** | **Description** |
+| **1**   | Barren          | Ancient         |
+| **2**   | Crystalline     | Awakening       |
+| **3**   | Diseased        | Buzzing         |
+| **4**   | Dying           | Decaying        |
+| **5**   | Flowering       | Flooded         |
+| **6**   | Glowing         | Foggy           |
+| **7**   | Hallowed        | Frigid          |
+| **8**   | Mossy           | Frozen          |
+| **9**   | Murky           | Fungal          |
+| **10**  | Perilous        | Hidden          |
+| **11**  | Petrified       | Infested        |
+| **12**  | Polluted        | Misty           |
+| **13**  | Primeval        | Mossy           |
+| **14**  | Scorched        | Overgrown       |
+| **15**  | Secluded        | Sacred          |
+| **16**  | Suffocating     | Secluded        |
+| **17**  | Timeless        | Silent          |
+| **18**  | Uncharted       | Smoldering      |
+| **19**  | Unspoilt        | Sunlit          |
+| **20**  | Winding         | Wild            |
 
 ## Forest Denizens
 
@@ -108,38 +140,6 @@ Roll 2d20 and combine the results.
 
 ## Create the Map
 
-#### Forest Description
-
-Roll on the [Forest Description](#forest-description) and write the results in your notebook. This table both indicates how outsiders perceive the forest as well as any unique natural features it may have. If the forested terrain was generated using the methods described in the Setting Seeds chapter, consider how the associated Landmark affects it as well.
-
-> Landmarks help travelers navigate through the dense foliage, acting as geographic reference points: unusually tall trees, watchtowers, and so on. Most forest landmarks are visible only by climbing a tree, though a few are large enough to stand out from the green. Some landmarks are _heard_ rather than seen.
-
-Roll 2d20 and combine the results.
-
-|         |                 |                 |
-| ------- | --------------- | --------------- |
-| **d20** | **Description** | **Description** |
-| **1**   | Barren          | Ancient         |
-| **2**   | Crystalline     | Awakening       |
-| **3**   | Diseased        | Buzzing         |
-| **4**   | Dying           | Decaying        |
-| **5**   | Flowering       | Flooded         |
-| **6**   | Glowing         | Foggy           |
-| **7**   | Hallowed        | Frigid          |
-| **8**   | Mossy           | Frozen          |
-| **9**   | Murky           | Fungal          |
-| **10**  | Petrified       | Hidden          |
-| **11**  | Polluted        | Infested        |
-| **12**  | Primeval        | Misty           |
-| **13**  | Scorched        | Mossy           |
-| **14**  | Secluded        | Overgrown       |
-| **15**  | Suffocating     | Sacred          |
-| **16**  | Timeless        | Secluded        |
-| **17**  | Timeless        | Silent          |
-| **18**  | Uncharted       | Smoldering      |
-| **19**  | Unspoilt        | Sunlit          |
-| **20**  | Winding         | Wild            |
-
 ### Create POIs
 
 - Roll **8-12 d6** dice on the dungeon map, ignoring any dice that fall off the page. These are the Points of Interest (POI) in the forest.
@@ -162,18 +162,19 @@ Roll 2d20 and combine the results.
 
 ### Trail Types
 
-- **Standard** trails are obvious or well-trod routes between two POIs. _Represented by a thick line._
+- **Standard** trails are obvious or well-trod routes between two points. _Represented by a thick line._
 - **Hidden** trails do not appear on any known maps. Their discovery always requires some kind of cost. _Represented by a dashed line._
 - **Conditional** trails may be blocked, or requires specialized tools (boats, climbing gear, etc.) to cross. Others may even be impossible to navigate without a map or guide. _Represented by a crossed line._
 
 ### Draw Trails
 
-- Starting with the entrance, create 1-4 trails between each point. 
- - Create loops, branching trails, dead-ends, and shortcuts between points.
- - Some trails are Conditional, represented by a crossed line.
- - Some trails are Hidden, represented by a dashed line.
-- Create intersections (crossed lines) with no rooms in between.
-- Roll on the [Trail Types](#trail-types) table for each trail, recording the results in your notebook. 
+- Starting with the entrance, draw 1-4 paths between each point.
+  - Create loops, branching paths, dead-ends, and shortcuts between points.
+  - Some paths are Conditional, represented by a crossed line.
+  - Some paths are Hidden, represented by a dashed line.
+  - Create intersections (crossed lines) with no POIs in between.
+- A direct path connecting betweeo two and four points is a trail.
+- Roll on the [Trail Types](#trail-types) table for each unique trail, recording the results in your notebook. 
 
 #### Trail Types
 
@@ -327,20 +328,36 @@ Roll 2d20 and combine the results.
 
 ## Example Forest
 
-### Map
+## Map
 
 [![Click Me!](/img/2e/forest-seed-example.webp "Click to embiggen"){:height="60%" width="60%"}](/img/2e/forest-seed-example.webp)
 
-### Questions
+## The Forest
 
-_"What is each forest zone like, and what Landmark can usually be seen from the top of a tree?_"
+**Description**: Diseased, Flooded
 
-### Rolls
+A wood infected with disease and rot. Parts of it are severely flooded.
 
-Denizens Traits - Virtue: Stable, Vice: Invasive
-Faction Agendas - Goal: Expansion, Obstacle: Fragmentation
-Forest Description - Murky, Flooded
-Trails - Type: Merchant Road, Marker: Serpent Traces
+## Denizens
+
+### What are the inhabitants of this forest like?
+
+**Traits**: Stable, Invasive
+
+They value stability above all things. They will do whatever it takes - including invading other lands - to maintain that stability.
+
+### What do their Factions want?
+
+**Faction Agendas**: Expansion, Fragmentation
+
+The primary faction is bent on expanding the forest's reach to some adjacent lands, but fears that spreading their forces too thin might break their hold over the forest.
+
+## Trails 
+
+- Merchant Road, Serpent Traces
+- Dry Riverbed, Tree Carvings
+- Old Logging Road, Fresh Spiderwebs
+- Treeline Heights, Stone Piles
 
 ### POIs
 
