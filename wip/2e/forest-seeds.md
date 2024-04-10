@@ -27,7 +27,7 @@ Follow this procedure for any forested terrain in a region.
 ### Materials Required
 
 - A sheet of paper and a notebook. Letter/A4 is fine.
-- Pencils and erasers.
+- Pencils and erasers. Colored pencils or crayons are good, too.
 - At least one d6 and one d20, but 6d6 and 2d20 would be ideal.
 
 > Going forward, we will refer to the sheet of paper as the **map**.
@@ -173,8 +173,10 @@ Roll 2d20 and combine the results.
   - Some paths are Conditional, represented by a crossed line.
   - Some paths are Hidden, represented by a dashed line.
   - Create intersections (crossed lines) with no POIs in between.
-- A direct path connecting betweeo two and four points is a trail.
-- Roll on the [Trail Types](#trail-types) table for each unique trail, recording the results in your notebook. 
+- Create trails by drawing over paths that connect multiple points in a direct or interesting manner.
+  - Hidden paths are not normally part of a trail.
+  - Use colored pencils or crayons to indicate different trails.
+- Roll on the [Trail Types](#trail-types) table for each trail, recording the results in your notebook. 
 
 #### Trail Types
 
