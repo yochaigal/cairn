@@ -332,16 +332,22 @@ Roll 2d20 and combine the results.
 
 ## Example Forest
 
+### Map
+
+[![Click Me!](/img/2e/forest-seed-example.webp "Click to embiggen"){:height="60%" width="60%"}](/img/2e/forest-seed-example.webp)
+
+### Rolls
+
 Denizens Traits - Virtue: Stable, Vice: Invasive
 Faction Agendas - Goal: Expansion, Obstacle: Fragmentation
-Zones - Murky, Broken Crag
-Trail types - Merchant Road, Serpent Traces
+Zones - Type: Murky, Landmark: Broken Crag
+Trails - Type: Merchant Road, Marker: Serpent Traces
 
 ### POIs
 
 1 - Ruin: Petrified campsite, self-obsessed sprite (Entrance)
 2 - Hazard: Sap Trap, Ghost Trapped in Crystal
-3 - Shelter: Hermit's Hut, presents a ready meal
+3 - Shelter: Hermit's Hut, Presents a Ready Meal
 4 - Shelter: Hut with legs, hunting is forbidden
 5 - Monster: Grizzly, prowling
 6 - Ruins: Flooded monastery, broken portal
