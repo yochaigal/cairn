@@ -330,49 +330,57 @@ Roll 2d20 and combine the results.
 
 ## Example Forest
 
-## Map
+### Map
 
 [![Click Me!](/img/2e/forest-seed-example.webp "Click to embiggen"){:height="60%" width="60%"}](/img/2e/forest-seed-example.webp)
 
-## The Forest
+### The Forest
 
 **Description**: Diseased, Flooded
 
 A wood infected with disease and rot. Parts of it are severely flooded.
 
-## Denizens
-
-### What are the inhabitants of this forest like?
+### Denizens
 
 **Traits**: Stable, Invasive
 
 They value stability above all things. They will do whatever it takes - including invading other lands - to maintain that stability.
 
-### What do their Factions want?
-
-**Faction Agendas**: Expansion, Fragmentation
+**Faction Agenda**: Expansion, Fragmentation
 
 The primary faction is bent on expanding the forest's reach to some adjacent lands, but fears that spreading their forces too thin might break their hold over the forest.
 
 ## Trails 
 
+- Old Logging Road, Fresh Spiderwebs
 - Merchant Road, Serpent Traces
 - Dry Riverbed, Tree Carvings
-- Old Logging Road, Fresh Spiderwebs
 - Treeline Heights, Stone Piles
 - Hunter's Track, Peripheral Images
 
 ### POIs
 
-1 - Ruin: Petrified campsite, self-obsessed sprite (Entrance)
+### 1 - Petrified Campsite
+
+**Ruin**: _Petrified Campsite_, _self-obsessed sprite_ | **Entrance**
+
+At the forest edge is a dead **campfire** with piles of dark grey **bedding** on laid out close by. A **trail** to the North leads into the forest. 
+
+- **Campfire**: No smoke or soot remains. 
+  - 
+- **Bedding**: 
+  - 
+- **Trail**: Long grooves in the rough shape of a tree trunk are cut into the ground. 
+- Fine spiderwebs block the forest entry, as if no one had walked through in a long while.
+
+
 2 - Hazard: Sap Trap, Ghost Trapped in Crystal
-3 - Broken Crag (Landmark)
-4 - Shelter: Hermit's Hut, Presents a Ready Meal
-5 - Shelter: Hut with legs, hunting is forbidden
-6 - Monster: Grizzly, prowling
-7 - Ruins: Flooded monastery, broken portal
-8 - Hazard: Stinging Nettles, Highly localized weather
-9 - Monster: Skeleton, scouting
+3 - Shelter: Hermit's Hut, Presents a Ready Meal
+4 - Shelter: Hut with legs, hunting is forbidden
+5 - Monster: Grizzly, prowling
+6 - Hazard: Stinging Nettles, Highly localized weather
+7 - Monster: Skeleton, scouting
+8 - Ruins: Flooded monastery, broken portal
+9 - Hazard: Giant Spider Nest, bird spies
 10 - Shelter: Fishing hut, Occupied by army deserters (Exit)
-11 - Hazard: Giant Spider Nest, bird spies
-12 - Obsidian River (Landmark)
+
