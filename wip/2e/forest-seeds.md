@@ -50,8 +50,8 @@ In some ways the Wood is a single entity, its brain alive within every tree and 
 
 Roll 2d20 and combine the results.
 
-|         |             |                 |
-| ------- | ----------- | --------------- |
+|         |             |                |
+| ------- | ----------- | -------------- |
 | **d20** | **Virtues** | **Vices**      |
 | **1**   | Adaptive    | Aggressive     |
 | **2**   | Balanced    | Covetous       |
@@ -108,42 +108,37 @@ Roll 2d20 and combine the results.
 
 ## Create the Map
 
-### Forest Topography
+#### Forest Description
 
-A forest can be broken up into zones, each defined by distinct **Zones** and **Landmarks**. The zones describe how outsiders perceive the Wood, and landmarks help travelers navigate through the dense foliage, acting as geographic reference points: unusually tall trees, towers, and so on. Most forest landmarks are visible only by climbing a tree, though a few are large enough to stand out from the green. Some landmarks are _heard_ rather than seen.
+Roll on the [Forest Description](#forest-description) and write the results in your notebook. This table both indicates how outsiders perceive the forest as well as any unique natural features it may have. If the forested terrain was generated using the methods described in the Setting Seeds chapter, consider how the associated Landmark affects it as well.
 
-- Roll **1d6** on the table, then roll an amount of dice equal to that number on the map. Ignore any dice that roll off the page.
-- Draw long, curvy lines across the page, carving up the map around each die. These represent areas where the forest shifts and changes.
-- Roll on the [Forest Zones](#forest-zones) table for each result, noting the forest type on the map. 
-  - Replace the die with a triangle and write the landmark result on the map.
-
-#### Forest Zones
+> Landmarks help travelers navigate through the dense foliage, acting as geographic reference points: unusually tall trees, watchtowers, and so on. Most forest landmarks are visible only by climbing a tree, though a few are large enough to stand out from the green. Some landmarks are _heard_ rather than seen.
 
 Roll 2d20 and combine the results.
 
-|         |                 |                    |
-| ------- | --------------- | ------------------ |
-| **d20** | **Description** | **Landmark**       |
-| **1**   | Ancient         | Blackened Crater   |
-| **2**   | Barren          | Bloom Field        |
-| **3**   | Buzzing         | Broken Crag        |
-| **4**   | Decaying        | City of Spores     |
-| **5**   | Dying           | Colossal Bee Hive  |
-| **6**   | Flooded         | Enormous Tree      |
-| **7**   | Frozen          | Fallen God-Tree    |
-| **8**   | Fungal          | Fungus Grotto      |
-| **9**   | Glowing         | Glittering River   |
-| **10**  | Infested        | Glowing Chasm      |
-| **11**  | Misty           | Great Eagle's Nest |
-| **12**  | Mossy           | Leviathon Tree     |
-| **13**  | Murky           | Massive Hive       |
-| **14**  | Overgrown       | Obelisk            |
-| **15**  | Petrified       | Obsidian River     |
-| **16**  | Polluted        | Petrified Behemoth |
-| **17**  | Scorched        | Rainbow Waterfall  |
-| **18**  | Secluded        | Sky Arch           |
-| **19**  | Silent          | Stump Cathedral    |
-| **20**  | Sunlit          | Volcanic Plume     |
+|         |                 |                 |
+| ------- | --------------- | --------------- |
+| **d20** | **Description** | **Description** |
+| **1**   | Barren          | Ancient         |
+| **2**   | Crystalline     | Awakening       |
+| **3**   | Diseased        | Buzzing         |
+| **4**   | Dying           | Decaying        |
+| **5**   | Flowering       | Flooded         |
+| **6**   | Glowing         | Foggy           |
+| **7**   | Hallowed        | Frigid          |
+| **8**   | Mossy           | Frozen          |
+| **9**   | Murky           | Fungal          |
+| **10**  | Petrified       | Hidden          |
+| **11**  | Polluted        | Infested        |
+| **12**  | Primeval        | Misty           |
+| **13**  | Scorched        | Mossy           |
+| **14**  | Secluded        | Overgrown       |
+| **15**  | Suffocating     | Sacred          |
+| **16**  | Timeless        | Secluded        |
+| **17**  | Timeless        | Silent          |
+| **18**  | Uncharted       | Smoldering      |
+| **19**  | Unspoilt        | Sunlit          |
+| **20**  | Winding         | Wild            |
 
 ### Create POIs
 
@@ -336,11 +331,15 @@ Roll 2d20 and combine the results.
 
 [![Click Me!](/img/2e/forest-seed-example.webp "Click to embiggen"){:height="60%" width="60%"}](/img/2e/forest-seed-example.webp)
 
+### Questions
+
+_"What is each forest zone like, and what Landmark can usually be seen from the top of a tree?_"
+
 ### Rolls
 
 Denizens Traits - Virtue: Stable, Vice: Invasive
 Faction Agendas - Goal: Expansion, Obstacle: Fragmentation
-Zones - Type: Murky, Landmark: Broken Crag | Type: Flooded, Landmark: Obsidian River
+Forest Description - Murky, Flooded
 Trails - Type: Merchant Road, Marker: Serpent Traces
 
 ### POIs
