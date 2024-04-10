@@ -172,10 +172,10 @@ Roll 2d20 and combine the results.
   - Create loops, branching paths, dead-ends, and shortcuts between points.
   - Some paths are Conditional, represented by a crossed line.
   - Some paths are Hidden, represented by a dashed line.
-  - Create intersections (crossed lines) with no POIs in between.
-- Create trails by drawing over paths that connect multiple points in a direct or interesting manner.
-  - Hidden paths are not normally part of a trail.
-  - Use colored pencils or crayons to indicate different trails.
+  - Create intersections (crossed lines) with no points in between.
+- Create trails by drawing over paths that connect 3-4 points in an obvious, consistent, or interesting manner. 
+  - Short, isolated paths between points and hidden paths are not usually a part of a trail.
+  - Use colored pencils or crayons to help distinguish different trails.
 - Roll on the [Trail Types](#trail-types) table for each trail, recording the results in your notebook. 
 
 #### Trail Types
@@ -360,6 +360,7 @@ The primary faction is bent on expanding the forest's reach to some adjacent lan
 - Dry Riverbed, Tree Carvings
 - Old Logging Road, Fresh Spiderwebs
 - Treeline Heights, Stone Piles
+- Hunter's Track, Peripheral Images
 
 ### POIs
 
