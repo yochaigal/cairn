@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Pradžia
 nav_order: 1
 permalink: /
 ---
