@@ -54,3 +54,4 @@ Sam is the author of Skorne and Adventure Hour, and writes on Into The Odd (and 
 - Bob World Builder ["The easiest DnD like RPG"](https://www.youtube.com/watch?v=nJ8MnckBn9I)
 - Tabletop Sandbox: ["D&D 5e has two many rules"](https://youtu.be/FGyB4Y4pFP4)
 - By Odin's Beard: ["How is Cairn Different from D&D 5e"](https://www.youtube.com/watch?v=3vQTAa8rIzg)
+- Jorphdan's Jocular Junction: ["Taking Cairn of Business"](https://youtu.be/x0LJAruoxks?si=oVIa51TgdkVih7dQ)

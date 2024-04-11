@@ -10,4 +10,4 @@ grand_parent: Resources
 
 - Re-animated corpse brought back through necromantic ritual or fell influence. Immune to all mind-influencing effects.
 - If not utterly destroyed (fire, complete dismemberment, etc.), the Zombie will rise again within a few minutes.
-- **Critical Damage**: Target becomes infected, and is _deprived_. Without the services of a specialist or healer, they will become a zombie in 1d4 days.
+- **Critical Damage**: Target is infected and becomes _deprived_. Without the services of a specialist or healer, they will become a zombie in 1d4 days.

@@ -9,6 +9,8 @@ search_exclude: true
 
 # Pointcrawls
 
+A pointcrawl is a great method for exploring complex, non-linear areas like forests, swamps, or cities, where the paths between points of interest can be labyrinthine and less easily defined than in a wide open space. 
+
 ## Creating a Pointcrawl
 
 - Number any potential points of interest on the map.

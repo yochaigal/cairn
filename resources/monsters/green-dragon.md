@@ -6,8 +6,8 @@ grand_parent: Resources
 
 # Green Dragon
 
-12 HP, 2 Armor, 14 STR, 15 DEX, 18 WIL, bite (d12), venom spit (d8, blast), _detachment_
+12 HP, 2 Armor, 14 STR, 15 DEX, 18 WIL, bite (d12), _detachment_
 
-- 50 ft long serpentine creature with spiked scales. Dwell in dense forests, staying atop the trees to attack it's victims from above. 
-- Trick victims to obey it's commands in exchange for their lives, only to devour them anyway when they're no longer useful.  
-- **Critical Damage**: The poison takes hold of the victim's body, killing it if an antidote isn't applied within one day.
+- Forest-dwelling snake topped with tall green scales. Collect great hoards of treasure.
+- Uses intelligence and cunning to manipulate the weak into its service.
+- **Chlorine Gas**: Anyone nearby must make a DEX save to escape its reach, or lose 1d4 STR and becomes _deprived_. 

@@ -13,9 +13,6 @@ nav_order: 3
 - The Lulu version is slightly nicer than the other PoD options, and they are a cool company. Support them if you can.
 - There is also a PoD [coil bound](https://www.lulu.com/shop/yochai-gal-and-cosmic-orrery-and-jim-parkin/cairn-coilbound/paperback/product-gm9e8g.html) edition available on Lulu. It "lies flat" at the table!
 
-## Special "Limited Time" Edition:
-[L.F.OSR](https://lfosr.com) has printed a limited number of high-quality ink & paper prints [here](https://lfosr.com/product/cairn-special-edition/). Get it while supplies last!
-
 ## Deluxe Edition
 A _deluxe_ print edition of Cairn can be purchased from the following places:
 

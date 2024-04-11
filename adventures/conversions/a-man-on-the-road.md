@@ -15,7 +15,7 @@ title: A Man on the Road
 - Hard to Kill: Falls unconscious for 1d6 rounds upon receiving critical damage, then rises with 5 less STR than his previous maximum (surprising anyone looting his corpse) unless finished off (see **Executions Confounded**).
 
 ### His Horse
-7 HP, 1 Armor, 12 STR, 10 DEX, 10 WIL, hooves (1d8+1d8)
+7 HP, 1 Armor, 12 STR, 10 DEX, 10 WIL, hooves (d8+d8)
 
 ### His Weapon of Choice
 1. Saber (1d8, 60 ft. charge doubles damage)

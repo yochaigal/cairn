@@ -23,7 +23,7 @@ Briar, Moss, Fern, Lichen, Root, Willow, Sage, Yarrow, Rowan, Ash
 - Torch (3 uses) 
 - Iron Pot
 - Root Knife (d6)
-- Healing Salve (restore 4 STR)
+- Healing Salve (restore 1d4 STR, 1 use)
 - Twine Bauble (_petty_, _Ward_ once per day)
 _Ward_: A silver circle 50ft across appears on the ground. Choose one species that cannot cross it.
 

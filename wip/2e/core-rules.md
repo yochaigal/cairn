@@ -14,14 +14,14 @@ grand_parent: WIP
 Each of the three **Attributes** are used in different circumstances (see **Saves**, below).
 
 - **Strength (STR)**: Used for saves requiring physical power, like lifting gates, bending bars, resisting poison, etc.
-- **Dexterity (DEX)**: Used for saves requiring poise, speed, and reflexes like dodging, climbing, sneaking, balancing, etc.
+- **Dexterity (DEX)**: Used for saves requiring poise, speed, reflexes, dodging, climbing, sneaking, balancing, etc.
 - **Willpower (WIL)**: Used for saves to persuade, deceive, interrogate, intimidate, charm, provoke, manipulate spells, etc.
 
 ## Saves
 
-- A save is a roll to avoid bad outcomes from risky choices and circumstances. 
-- PCs roll a d20 and compare the results to an appropriate attribute. If they roll equal to or under that attribute, they pass. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
-- If two opponents are both attempting to overcome the other, whoever is most at risk should save.
+- A save is a roll to avoid negative outcomes from risky choices. Characters roll a d20 and compare the results to the appropriate attribute. If they roll equal to or under that attribute, they succeed. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
+- If two opponents are each trying to overcome the other, whoever is most at risk should save.
+- If two more characters would need to take an action together, whoever is most at risk should save (typically the character with the lowest Attribute).
 
 ## Healing & Recovery
 
@@ -83,11 +83,11 @@ On their turn, a character may move up to 40ft and take up to one action. This m
 
 - The attacker rolls their weapon die and subtracts the target's armor, then deals the remaining total to their opponent's HP. Attacks in combat automatically hit.
 - If multiple attackers target the same foe, roll all damage dice and keep the single highest result. All actions are declared before being resolved.
-- If an attack would take a PC’s HP exactly to 0, the player must roll on the Scars table (pg. 67).
+- If an attack would take a PC's HP exactly to 0, refer to the [Scars](#scars-table) table to see how they are uniquely impacted.
 
 ### Attack Modifiers
 
-- If fighting from a position of weakness (such as through cover or with bound hands), the attack is _Impaired_ and the attacker must roll 1d4 damage regardless of the attacks damage die. Unarmed attacks always do d4 damage. Unarmed attacks always do 1d4 damage.
+- If fighting from a position of weakness (such as through cover or with bound hands), the attack is _Impaired_ and the attacker must roll 1d4 damage regardless of the attacks damage die. Unarmed attacks always do d4 damage.
 - If fighting from a position of advantage (such as against a helpless foe or through a daring maneuver), the attack is _Enhanced_, allowing the attacker to roll 1d12 damage instead of their normal die.
 - Attacks with the _Blast_ quality affect all targets in the noted area, rolling separately for each affected character. This can be anything from explosions, to a dragon's breath, to the impact of a meteorite. If unsure how many targets can be affected, _roll the related damage die for a result_.
 - If attacking with two weapons at the same time, roll both damage dice and keep the single highest result (denoted with a plus symbol, e.g. d8+d8).
@@ -99,8 +99,8 @@ On their turn, a character may move up to 40ft and take up to one action. This m
 
 ### Attribute Loss
 
-- If a PC would take damage outside of combat, they would instead take damage to an Attribute instead (typically STR).
-- If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their WIL is reduced to 0, they are delirious. Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.  
+- If a PC takes damage outside of combat, they should instead receive damage to an Attribute, typically STR.
+- If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their WIL is reduced to 0, they are delirious. Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.
 
 ### Character Death
 

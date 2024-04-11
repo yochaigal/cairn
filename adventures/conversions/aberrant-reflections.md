@@ -33,7 +33,7 @@ Doppelgoopers are poor facsimiles of living things absorbed by **The Fallen**.
 
 - They think they are the original being and have all of their memories and abilities.
 - They have a melty, shifting form with additional facial features spread over their bodies.
-- They slowly degrade over 2d6 hours, eventually becoming an **Uberfallen** in a final convulsive burst.
+- They slowly degrade over 2d6 hours, eventually becoming an **Ubelfallen** in a final convulsive burst.
 
 ### 	Cecil (a dopplegooper)
 

@@ -143,7 +143,7 @@ Note assume damage rolls are against HP unless otherwise noted (e.g. 1d6 damage 
 | 443  | [Otherwordly Pet](#otherwordly-pet)                         | Summons an unintelligent extraplanar creature up to the size of a small dog. It holds no loyalty towards you or your allies. |
 | 444  | [Otherworldly Gate](#otherworldly-gate)                     | Opens a portal to another reality. It works in both directions. |
 | 445  | [Paincurrent](#paincurrent)                                 | An arc of electricity passes from your fingertips to a target you touch. They take 1d8 damage (1d12 if wearing metal armor). |
-| 446  | [Passage](#passage)                                         | Creates a temporary passage through wood, stone or brick.    |
+| 446  | [Passage](#passage)                                         | Creates a temporary path through wood, stone or brick.    |
 | 451  | [Passive Invisibility](#passive-invisibility)               | Target is invisible until they attempt harm.                 |
 | 452  | [Peeping Warlock](#peeping-warlock)                         | You control a pair of floating eyes so long as yours remain closed. |
 | 453  | [Perfect Illusion](#perfect-illusion)                       | Creates an image with sound, smell and thermal effects, activated according to a trigger you choose. Touching the image or making a successful WIL save will reveal the illusion. |

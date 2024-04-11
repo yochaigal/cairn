@@ -28,25 +28,25 @@ Players act as hardened adventurers exploring a dark & mysterious Wood filled wi
 
 **Cairn** was written with the following design philosophies in mind:
 
-### Neutrality  
+### Neutrality
 The Warden's role is to portray the rules, situations, NPCs, and narrative clearly, while acting as a neutral arbiter.
 
-### Classless  
+### Classless
 A character's role or skills are not limited by a single class. Instead, the equipment they carry and their experiences define their specialty.
 
 ### Death
 Characters may be powerful, but they are also vulnerable to harm in its many forms. Death is always around the corner, but it is never random or without warning.
 
-### Fiction First  
+### Fiction First
 Dice do not always reflect an obstacle's difficulty or its outcome. Instead, success and failure are arbitrated by the Warden in dialogue with the players, based on in-world elements.
 
-### Growth  
+### Growth
 Characters are changed through in-world advancement, gaining new skills and abilities by surviving dangerous events and overcoming obstacles.
 
-### Player Choice  
+### Player Choice
 Players should always understand the reasons behind the choices they've made, and information about potential risks should be provided freely and frequently.
 
-### Principles  
+### Principles
 The Warden and the players each have guidelines that help foster a specific play experience defined by critical thinking, exploration, and an emergent narrative.
 
 ### Shared Objectives
@@ -74,30 +74,30 @@ Players trust one another to engage with the shared setting, character goals, an
 - NPCs remember what the PCs say and do, and how they affect the world.
 - NPCs don't want to die. Infuse their own self-interest and will to live into every personality.
 
-### Narrative Focus  
+### Narrative Focus
 - Emergent experience of play is what matters, not math or character abilities. Give the players weapon trainers and personal quests to facilitate improvement and specialization.
 - Pay attention to the needs and wants of the players, then put realistic opportunities in their path.
 - A dagger to your throat will kill you, regardless of your expensive armor and impressive training.
 
-### Danger  
+### Danger
 - The game world produces real risk of pain and death for the player characters.
 - Telegraph serious danger to players when it is present. The more dangerous, the more obvious.
 - Put traps in plain sight and let the players take time to figure out a solution.
 - Give players opportunities to solve problems and interact with the world.
 
-### Treasure  
+### Treasure
 - A Treasure is specific to the environment from where it is recovered. It tells a story.
 - Treasure is highly valuable, almost always bulky, and rarely useful beyond its worth and prestige.
 - Relics are not Treasure, though they are useful and interesting.
 - Use Treasure as a lure to exotic locations under the protection of intimidating foes.
 
-### Choice  
+### Choice
 - Give players a solid choice to force outcomes when the situation lulls.
 - Use binary "so, A or B?" responses when their intentions are vague.
 - Work together using this conversational method to keep the game moving.
 - Ensure that the player character's actions leave their mark on the game world.
 
-### Die of Fate  
+### Die of Fate
 - Occasionally you will want an element of randomness (e.g. the weather, unique character knowledge, etc.).
 - In these situations, roll 1d6. A roll of 4 or more generally favors the players.
 - A roll of 3 or under tends to mean bad luck for the PCs or their allies.
@@ -149,7 +149,7 @@ Next, roll for the rest of your character's **traits** (appearance, speech, mann
 
 Finally, roll for their **age** (2d20+10).
 
-#### Ability Scores  
+#### Ability Scores
 Player Characters (PCs) have just three attributes:  
 **Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**. When creating a PC, the player should roll 3d6 for each of their character's ability scores, in order. They may then swap any two of the results.
 
@@ -158,10 +158,9 @@ Player Characters (PCs) have just three attributes:
 Expand For Example
  </summary>
  Ines rolls for her character's **STR**, resulting in a **2**, a **4**, and a **6**, totaling **12**. The next two ability rolls result in a **9** for **DEX** and a **13** for **WIL**. She decides to swap the **12** and the **9**, for a character with **9 STR**, **12 DEX** and **13** **WIL**.
-
 </details>
 
-### Hit Protection  
+### Hit Protection
 Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**). If an attack takes a PC's HP exactly to 0, the player must roll on the [**Scars**](/cairn-srd#scars-1) table.
 
 #### Inventory
@@ -171,7 +170,7 @@ Most items take up one slot, and small items can be bundled together. Slots are 
 
 **Bulky** items take up two slots and are typically two-handed or awkward to carry. Anyone carrying a full inventory (i.e. filling all 10 slots) is reduced to 0 HP.
 
-A PC cannot carry more items than their inventory allows. Carts (which must be pulled with both hands), horses, or mules can increase inventory.  **Hirelings** can also be paid to carry equipment.
+A PC cannot carry more items than their inventory allows. Carts (which must be pulled with both hands), horses, or mules can increase inventory. **Hirelings** can also be paid to carry equipment.
 
 #### Starting Gear
 All PCs begin with:
@@ -199,7 +198,6 @@ If you would like something closer to traditional classes, refer to the list of 
 |3     | Breagan   |8          |Esme       |13        |Lisabeth |18    |Wenain    |
 |4     | Bronwyn   |9          |Griya      |14        |Moralil  |19    |Ygwal     |
 |5     | Cannora   |10         |Henaine    |15        |Morgwen  |20    |Yslen     |
-
 
 #### Male Names
 
@@ -356,8 +354,8 @@ If you would like something closer to traditional classes, refer to the list of 
 #### Weapons
 
 |                |                  |                          |                                |
-| :-------------------: | :--------------: | :----------------------: | :----------------------------: |
-|          1-5          |       6-14       |          15-19           |               20               |
+| :-------------------: | :--------------: | :------------------: |------------------------------: |
+|          1-5          |       6-14       |          15-19       |               20               |
 | Dagger, Cudgel, Staff | Sword, Mace, Axe | Bow, Crossbow, Sling | Halberd, War Hammer, Battleaxe |
 
 #### Expeditionary Gear
@@ -392,10 +390,10 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### 																		Bonus Item (roll on table indicated)
 
-|                  |                    |                 |           |
-| :--------------: | :----------------: | :-------------: | :-------: |
-|       1-5        |        6-13        |      14-17      |   18-20   |
-| Tool or  Trinket | Expeditionary Gear | Armor or Weapon | Spellbook |
+|                 |                    |                 |           |
+| :-------------: | :----------------: | :-------------: | :-------: |
+|       1-5       |        6-13        |      14-17      |   18-20   |
+| Tool or Trinket | Expeditionary Gear | Armor or Weapon | Spellbook |
 
 <p></p>
 
@@ -431,7 +429,7 @@ If you would like something closer to traditional classes, refer to the list of 
 
 <p></p>
 
-## Equipment List (Prices in Gold Pieces)  
+## Equipment List (Prices in Gold Pieces)
 
 #### Armor
 
@@ -447,13 +445,13 @@ If you would like something closer to traditional classes, refer to the list of 
 #### Weapons
 
 | |     |
-|--------------------------------------------------------------|-----|
-|Dagger, Cudgel, Sickle,  Staff, etc. (d6  damage)             |5    |
-|Spear, Sword, Mace, Axe,  Flail, etc. (d8 damage)             |10   |
-|Halberd, War Hammer, Long  Sword, etc. (d10 damage, bulky)    |20   |
-|Sling (d4  damage)                                            |5    |
-|Bow  (d6  damage, bulky)                                      |20   |
-|Crossbow (d8  damage, bulky)                                  |30   |
+|-----------------------------------------------------------|-----|
+|Dagger, Cudgel, Sickle, Staff, etc. (d6 damage)            |5    |
+|Spear, Sword, Mace, Axe, Flail, etc. (d8 damage)           |10   |
+|Halberd, War Hammer, Long Sword, etc. (d10 damage, bulky)  |20   |
+|Sling (d4 damage)                                          |5    |
+|Bow (d6 damage, bulky)                                     |20   |
+|Crossbow (d8 damage, bulky)                                |30   |
 
 #### Gear & Tools
 
@@ -490,29 +488,29 @@ If you would like something closer to traditional classes, refer to the list of 
 
 <p></p>
 
-## Optional Gear Packages  
+## Optional Gear Packages
 
 #### Cleric
 
-|                                 |
-| ------------------------------- |
-| War Hammer (d10, bulky)         |
-| Chainmail (2 Armor, bulky)      |
-| Gauntlets (+1 Armor)            |
-| Cleansing Blade (d6)               |
-| Holy Symbol (Ward once per day) |
-| Cloak of the Order              |
+|                                   |
+| --------------------------------- |
+| War Hammer (d10, bulky)           |
+| Chainmail (2 Armor, bulky)        |
+| Gauntlets (+1 Armor)              |
+| Cleansing Blade (d6)              |
+| Holy Symbol (_Ward_ once per day) |
+| Cloak of the Order                |
 
 #### Dowser
 
-|                                         |
-|-----------------------------------------|
-|Sickle (d6)                              |
-|Patchwork Doublet (+1  Armor)            |
-|Dowsing Rod                              |
-|Eyestone (Sense if placed in fresh water)|
-|Worn Map                                 |
-|Spyglass                                 |
+|                                           |
+|-------------------------------------------|
+|Sickle (d6)                                |
+|Patchwork Doublet (+1 Armor)               |
+|Dowsing Rod                                |
+|Eyestone (_Sense_ if placed in fresh water)|
+|Worn Map                                   |
+|Spyglass                                   |
 
 #### Dwarf
 
@@ -550,21 +548,21 @@ If you would like something closer to traditional classes, refer to the list of 
 #### Friar
 
 ||
-|--------------------------------|
-|Scepter (d6)                    |
-|Deceptive Robes (+1 Armor)      |
-|Censer & Holy  Water            |
-|Jug of Honey Wine               |
-|Folk Songbook                   |
-|Cart (+4  slots, bulky)         |
+|-------------------------------|
+|Scepter (d6)                   |
+|Deceptive Robes (+1 Armor)     |
+|Censer & Holy Water            |
+|Jug of Honey Wine              |
+|Folk Songbook                  |
+|Cart (+4 slots, bulky)         |
 
 #### Knight
 
 |                            |
 | -------------------------- |
-| Longsword (d10, bulky)      |
+| Longsword (d10, bulky)     |
 | Chainmail (2 Armor, bulky) |
-| Helmet (+1  Armor)         |
+| Helmet (+1 Armor)          |
 | Heraldic Cape              |
 | Manacles                   |
 | Fine Rope                  |
@@ -578,7 +576,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |Spellbook (random spell)                 |
 |Spellbook (random spell)                 |
 |Ragged Clothing (hidden pockets)         |
-|Leycap (x2, see Relics)                  |
+|Leycap (x2, see **Relics**)              |
 
 #### Thief
 
@@ -594,13 +592,13 @@ If you would like something closer to traditional classes, refer to the list of 
 #### Ranger
 
 ||
-|-----------------------------------------|
-|Longbow (d8, bulky)             |
-|Hatchet (d6)                    |
-|Padded Leathers (1  Armor)      |
-|Large Trap                      |
-|Bloodhound &#124; 2 HP, 12  DEX, bite (d6) |
-|Thundering Horn                 |
+|------------------------------------------|
+|Longbow (d8, bulky)                       |
+|Hatchet (d6)                              |
+|Padded Leathers (1 Armor)                 |
+|Large Trap                                |
+|Bloodhound &#124; 2 HP, 12 DEX, bite (d6) |
+|Thundering Horn                           |
 
 [back to index](#index)
 <p></p>
@@ -623,7 +621,6 @@ A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs
 Expand For Example
  </summary>
  _Bea encounters a group of heavily-armed Goblins standing guard before a tunnel entrance. Her player carefully plots a course, recognizing that her 13 DEX makes sneaking past the guards the best option. She rolls a d20, and resulting in a 10 – a success!_
-
 </details>
 
 ### Healing
@@ -666,7 +663,6 @@ Spellbooks sometimes display unusual properties or limitations, such as producin
 Spellbooks will attract the attention of those who seek the arcane power within, and it is considered dangerous to display them openly.
 
 **Scrolls** are similar to Spellbooks, however:
-
 - They do not take up an inventory slot.
 - They do not cause fatigue.
 - They disappear after one use.
@@ -690,7 +686,7 @@ Anyone can cast a spell by holding a Spellbook in both hands and reading its con
 ### Rounds
 The game typically plays without strict time accounting. In a fight or circumstance where timing is helpful, use rounds to keep track of when something occurs. A **round** is roughly ten seconds of in-game time and is comprised of turns.
 
-### Actions  
+### Actions
 On their turn, a character may move up to 40ft and take up to one action. This may be casting a spell, attacking, making a second move, or some other reasonable action.
 
 Each round, the PCs declare what they are doing before dice are rolled. If a character attempts something risky, the Warden calls for a save for appropriate players or NPCs.
@@ -712,10 +708,10 @@ The attacker rolls their weapon die and subtracts the target's armor, then deals
   <summary>
 Expand For Example
  </summary>
- _The Wood Troll roars, swinging its club at Bea, who has 5 HP. The club does 1d10 damage and the Warden rolls a 4. They subtract 1 to account for Bea's  leather armor, leaving Bea with 2 HP remaining_.
+ _The Wood Troll roars, swinging its club at Bea, who has 5 HP. The club does 1d10 damage and the Warden rolls a 4. They subtract 1 to account for Bea's  leather armor, leaving Bea with 2 HP remaining._
 </details>
 
-### Multiple Attackers  
+### Multiple Attackers
 If multiple attackers target the same foe, roll all damage dice and keep the single highest result.
 
 ### Attack Modifiers
@@ -726,7 +722,7 @@ If fighting from a position of advantage (such as against a helpless foe or thro
 ### Dual Weapons
 If attacking with two weapons at the same time, roll both damage dice and keep the single highest result.
 
-### Blast  
+### Blast
 Attacks with the **blast** quality affect all targets in the noted area, rolling separately for each affected character. Blast refers to anything from explosions to huge cleaving onslaughts to the impact of a meteorite. If unsure how many targets can be affected, roll the related damage die for a result.
 
 ### Critical Damage
@@ -736,7 +732,7 @@ Any PC that suffers critical damage cannot do anything but crawl weakly, graspin
 
 ### Ability Score Loss
 If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their WIL is reduced to 0, they are delirious.
-Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.  
+Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.
 
 ### Scars
 When damage to a PC reduces their HP to exactly 0, they are sometimes changed irrevocably. See the [**Scars**](/cairn-srd#scars-1) table for more.
@@ -783,7 +779,7 @@ When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look 
 - Prize Spellbooks; willing to trade.
 
 **Hooded Men**  
-12 HP, 9 STR, 12 DEX, 14 WIL, leystaff (d8), a Spellbook (Choose one: _Charm, Hypnotize, Push/Pull, Shield_)
+12 HP, 9 STR, 12 DEX, 14 WIL, leystaff (d8), a Spellbook (Choose one: _Charm_, _Hypnotize_, _Push/Pull_, Shield_)
 - The Watchers of the Wood; a cult that derive their power from leylines, rune stones, and the like.
 - Critical damage: leech a part of the victim's soul (1d4 WIL damage).
 
@@ -798,7 +794,7 @@ When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look 
 - Critical damage: moss and twigs begin growing out of target's wounds.
 
 **Frost Elf**  
-14 HP, 1 Armor, 8 STR, 13 DEX, 14 WIL, icicle dagger (d6), a Spellbook (Choose one: _Sleep, Teleport, Detect Magic)_
+14 HP, 1 Armor, 8 STR, 13 DEX, 14 WIL, icicle dagger (d6), a Spellbook (Choose one: _Sleep_, _Teleport_, _Detect Magic_)
 - Beautiful, amoral, and long-lived.
 - Resistant to most forms of magic.
 
@@ -811,25 +807,25 @@ When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look 
 ### Creating Monsters
 Use the following template to model any more sophisticated Monster or NPC:
 
-**Name**
+**Name**  
 X HP, X Armor, X STR, X DEX, X WIL, Weapon (dX, special items, qualities)
 - Engaging descriptor of appearance or demeanor
 - Quirk, tactic, or peculiarity making this NPC unique
 - Special effect or critical damage consequence
 
 **General Principles**  
-Ability Scores: 3 is deficient, 6 is weak, 10 is average, 14 is noteworthy, and 18 is legendary. Adjust as necessary.  
+Ability Scores: 3 is deficient, 6 is weak, 10 is average, 14 is noteworthy, and 18 is legendary. Adjust as necessary.
 - Give average creatures 3 HP, give hardy ones 6 HP, and serious threats get 10+ HP.
 - Use flavor and style to help them stand out. Players will remember a pig-faced humanoid looking for his missing sheep more easily than a generic goblin archer.
 - Use critical damage to lean into the threat or strangeness of any aggressive NPC.
 - Remember that HP is **Hit Protection** , not Hit Points. It's a measure of resilience, luck, and gumption - not health.
 
-**Converting from OSR Games**  
+**Converting from OSR Games**
 - Give 1 HP per HD for most creatures.
 - Most humanoids have at least 4HP.
 - **Morale** can also be used as a baseline.
 
-Some pointers:  
+Some pointers:
 - Is it good at avoiding a hit? Give it HP.
 - Does it soak up damage? Give it Armor.
 - Is it strong? Give it a high **STR**.
@@ -895,7 +891,7 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 | 48   | [Magic Dampener](#magic-dampener)       | All nearby magical effects have their effectiveness halved.  |
 | 49   | [Manse](#manse)                         | A sturdy, furnished cottage appears for 12 hours. You can permit and forbid entry to it at will. |
 | 50   | [Marble Craze](#marble-craze)           | Your pockets are full of marbles, and will refill every 30 seconds. |
-| 51   | [Masquerade](#masquerade)               | A characters appearance and voice becomes identical to those of a character you touch. |
+| 51   | [Masquerade](#masquerade)               | A character's appearance and voice becomes identical to those of a character you touch. |
 | 52   | [Miniaturize](#miniaturize)             | A creature you touch is shrunk down to the size of a mouse.  |
 | 53   | [Mirror Image](#mirror-image)           | An illusory duplicate of yourself appears and is under your control. |
 | 54   | [Mirrorwalk](#mirrorwalk)               | A mirror becomes a gateway to another mirror that you looked into today. |
@@ -946,7 +942,6 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 | 99   | [Wizard Mark](#wizard-mark)             | Your finger can shoot a stream of ulfire-colored paint. This paint is only visible to you and can be seen at any distance, even through solid objects. |
 | 100  | [X-Ray Vision](#x-ray-vision)           | You can see through walls, dirt, clothing, etc.              | 
 
-
 [back to index](#index)
 <p></p>
 
@@ -960,9 +955,9 @@ On their turn, a character may move up to 40ft and take up to one action. Action
 **ABILITIES**  
 **STR:** Brawn, prowess & resistance.   
 **DEX:** Dodging, sneaking & reflexes.   
-**WIL:**  Persuasion, intimidation & magic.
+**WIL:** Persuasion, intimidation & magic.
 
-**SAVES**  
+**SAVES**
 - Roll a d20 equal to or under an ability.
 - 1 is always a success, 20 is always a failure.
 
@@ -999,6 +994,6 @@ If an attack is **impaired** , the damage die is reduced to 1d4, regardless of w
 **DAMAGE**  
 If an attack reduces a PC’s HP exactly to 0, refer to the [**Scars**](/cairn-srd#scars-1) table.
  
-Damage that reduces a target's HP **below** 0 decreases their STR by the remainder. They must then make a STR save to avoid **critical damage.**  Failure takes them out of combat, dying if left untreated.
+Damage that reduces a target's HP **below** 0 decreases their STR by the remainder. They must then make a STR save to avoid **critical damage.** Failure takes them out of combat, dying if left untreated.
 
 Having STR 0 means **death;** having DEX 0 is paralysis; having WIL 0 is delirium.

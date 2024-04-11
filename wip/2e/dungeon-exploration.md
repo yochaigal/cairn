@@ -47,12 +47,12 @@ When the party:
 
 |       |                 |                                                                                                           |
 | :---: | :-------------: | :-------------------------------------------------------------------------------------------------------: |
-| **1** |  **Encounter**  | Roll on an encounter table. Possibly **hostile** (see [Reactions](/wip/2e/core-rules/#reactions)).     |
-| **2** | **Environment** | Surroundings shift or escalate. Water rises, ceilings collapse, a ritual nears completion, etc.      |
-| **3** |    **Loss**     | Torches are blown out, an ongoing spell fizzles, etc. The party must resolve the effect before moving on. |
-| **4** | **Exhaustion**  | The party must rest (triggering another roll on this table), add a **Fatigue**, or consume a ration.       |
-| **5** |    **Sign**     | A “spoor” (clue, track, scent, victim, droppings, etc.) is discovered.                   |
-| **6** |    **Quiet**    | The party is left alone (and safe) for the time being.                           |
+| **1** |  **Encounter**  |    Roll on an encounter table. Possibly **hostile** (see [Reactions](/wip/2e/core-rules/#reactions)).     |
+| **2** |    **Sign**     |                  A “spoor” (clue, track, scent, victim, droppings, etc.) is discovered.                   |
+| **3** | **Environment** |      Surroundings shift or escalate. Water rises, ceilings collapse, a ritual nears completion, etc.      |
+| **4** |    **Loss**     | Torches are blown out, an ongoing spell fizzles, etc. The party must resolve the effect before moving on. |
+| **5** | **Exhaustion**  |   The party must rest (triggering another roll on this table), add a **Fatigue**, or consume a ration.    |
+| **6** |    **Quiet**    |                          The party is left alone (and safe) for the time being.                           |
 
 ## Actions
 
@@ -72,9 +72,7 @@ When the party:
 - A light source and a _safe location_ are required to **rest**. Present or oncoming danger make **rest** impossible.
 - **Resting** does not restore **Fatigue**, as it is impossible to safely **Make Camp** in a dungeon.
 
-## Conditions
-
-### Panic
+## Panic
 
 - A character that is surrounded by enemies, enveloped by darkness, or facing their greatest fears may experience _panic_. A **WIL** **save** is typically required to avoid losing control and becoming _panicked_. 
 - A _panicked_ character must make a **WIL** **save** to overcome their condition as an **action** on their **turn**.

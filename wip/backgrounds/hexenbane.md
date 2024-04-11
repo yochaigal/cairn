@@ -41,7 +41,7 @@ Percival, Felix, Isolde, Wolfram, Aldric, Eira, Oswin, Ivor, Brunhilda, Beatrix
 |       |                                                                                                                                                                    |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **1** | **Honesty**. Choose a **weapon type** (blunt, blade, etc). Attacks against you of this type are _impaired_. If your vow is broken, you lose d4 WIL.                |
-| **2** | **Poverty**. You carry the _Disassemble_ **Spellbook**. Only you can use it. If your vow is broken, it explodes (d12 STR damage).                                  |
+| **2** | **Poverty**. You carry the _Disassemble_ **Spellbook**. Only you can use it. If your vow is broken, it explodes (d12 STR damage). Disassemble: Any of your body parts may be detached and reattached at will, without causing pain or damage. You can still control them. _Regenerates any torn or defaced pages._                                 |
 | **3** | **Selflessness**. You are immune to **mind-altering magical effects**, such as _charm_, _hatred_, _frenzy_, and so on. If you break this vow, you lose d6 WIL.       |
 | **4** | **Mercy**. Choose a **weapon type** (blunt, blade, etc). Attacks with this weapon are _enhanced_. If your vow is broken, you can never use that weapon type again. |
 | **5** | **Charity**. Once per day you can shrug off a **Fatigue**. If your vow is ever broken, you permanently lose one inventory slot.                                           |

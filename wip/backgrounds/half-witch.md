@@ -20,7 +20,8 @@ Solena, Veles, Bryn, Sabine, Razvan, Rowena, Galen, Nyx, Vex, Iwan
 - 3d6 Gold Pieces
 - Rations (3 uses)
 - Torch (3 uses) 
-- _Thicket_ Spellbook 
+- Spellbook (Thicket: A thicket of trees and dense
+brush up to 50ft wide suddenly sprouts up. _Wrapped in vines that must be destroyed again with each use._)
 - Iron Dagger (d6)
 - Herbs Pouch (restore 1 STR, 3 uses)
 - Ghillie Suit

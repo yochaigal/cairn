@@ -43,7 +43,7 @@ Roll a 1d100 on Cairn’s spell list to determine what spells are on any scrolls
 ## F4 Ambush
 
 ### Lizard man (1)
-4 HP, 1 Armor, 14 STR, 12 DEX, 12 WIL, 1d3+1d3 claw, 1d6+1 bite
+4 HP, 1 Armor, 14 STR, 12 DEX, 12 WIL, d3+d3 claw, 1d6+1 bite
 
 ## I1 Investigating the Tower Grounds
 
@@ -75,7 +75,7 @@ For freeing the Orc, role twice on the bonus item table for a reward.
 
 ## N1 Attack the Axe Beak
 ### Axe beak (1)
-6 HP, talon (1d3+1d3), beak (2d4)
+6 HP, talon (d3+d3), beak (2d4)
 
 ## O2 The Altar
 If you decide to place your weapon on the altar, determine first what your character’s intentions for the weapon are.
@@ -96,7 +96,7 @@ The player gets +1 WIL.
 
 ## Q2 Investigate the canoe/Q3 Frog Attack
 ### Killer Frogs
-5 HP, 5 STR, claw (1d2+1d2), 1d4 bite
+5 HP, 5 STR, claw (d2+d2), 1d4 bite
 
 ## X2 Assault the Cabin
 ### Bandits (3)

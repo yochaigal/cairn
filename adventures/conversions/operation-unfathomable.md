@@ -37,7 +37,7 @@ redirect_from: /resources/adventure-conversions/operation-unfathomable/
 20 HP, 2 Armor, STR 18, smash (2d8)
 - Critical damage: You are swallowed whole.
 - Tunnels through earth and rock at full speed
-- Psionic emissions disrupt spellcastiong
+- Psionic emissions disrupt spellcasting
 
 ### Cerebromorph
 4 HP, electric shock (d8, blast)

@@ -57,12 +57,12 @@ The weather, terrain, darkness, injured party members, and other obstacles can i
 
 ## Terrain Difficulty
 
-|                |                                 |             |                                                                                                       |
-| -------------- | ------------------------------- | ----------- | ----------------------------------------------------------------------------------------------------- |
-| **Difficulty** | **Terrain**                     | **Penalty** | **Factors**                                                                                           |
-| **Easy**       | **Plains, plateaus, valleys**   | none        | _Safe areas for rest, fellow travelers, good visibility_                                            |
-| **Tough**      | **Forests, deserts, hills**     | +1 Watch    | _Wild animals, flooding, broken equipment, falling rocks, unsafe shelters, hunter's traps_            |
-| **Perilous**   | **Mountains, jungle, swamp**    | +2 Watches  | _Quicksand, sucking mud, choking vines, unclean water, poisonous plants and animals, poor navigation_ |
+|                |                               |             |                                                                                                       |
+| -------------- | ----------------------------- | ----------- | ----------------------------------------------------------------------------------------------------- |
+| **Difficulty** | **Terrain**                   | **Penalty** | **Factors**                                                                                           |
+| **Easy**       | **Plains, plateaus, valleys** | none        | _Safe areas for rest, fellow travelers, good visibility_                                              |
+| **Tough**      | **Forests, deserts, hills**   | +1 Watch    | _Wild animals, flooding, broken equipment, falling rocks, unsafe shelters, hunter's traps_            |
+| **Perilous**   | **Mountains, jungles, swamp** | +2 Watches  | _Quicksand, sucking mud, choking vines, unclean water, poisonous plants and animals, poor navigation_ |
 
 ## Weather
 

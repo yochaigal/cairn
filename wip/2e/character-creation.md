@@ -3,7 +3,6 @@ layout: default
 title: Character Creation
 grand_parent: WIP
 parent: 2e
-nav_order: 12
 nav_exclude: true
 search_exclude: true
 ---
@@ -47,7 +46,6 @@ search_exclude: true
 ## Hit Protection
 
 - Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. It does not indicate a character’s health or fortitude, nor do they lose it for very long (see [Healing](/wip/2e/core-rules#healing)). 
-- If a PC would take damage outside of combat, they would instead take damage to an **Attribute** instead (typically **STR**).
 - If an attack would take a PC's HP exactly to 0, the player must roll on the [**Scars**](https://cairnrpg.com/wip/2e/core-rules#scars) table.
 
 ## Inventory
@@ -96,13 +94,13 @@ search_exclude: true
 
 ### Face
 
-|       |           |        |          |
-| ----- | --------- | ------ | -------- |
-| **1** | Bony      | **6**  | Perfect  |
-| **2** | Broken    | **7**  | Rat-like |
-| **3** | Chiseled  | **8**  | Sharp    |
-| **4** | Elongated | **9**  | Square   |
-| **5** | Pale      | **10** | Sunken   |
+|       |           |        |         |
+| ----- | --------- | ------ | ------- |
+| **1** | Bony      | **6**  | Perfect |
+| **2** | Broken    | **7**  | Rakish  |
+| **3** | Chiseled  | **8**  | Sharp   |
+| **4** | Elongated | **9**  | Square  |
+| **5** | Pale      | **10** | Sunken  |
 
 ### Speech
 
@@ -150,20 +148,20 @@ search_exclude: true
 | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **D20** | **Bond**                                                                                                                                                                                                                                                                                  |
 | **1**   | You inherited a **Single Gem** (500gp, cold and brittle) from a long-dead relative. It arrived with a warning: squander your newfound riches and a debt long thought forgotten would be called.                                                                                           |
-| **2**   | A distant cousin left you a small inheritance. Take **20Gp**, and an **Ornate Compass** that always points towards something deep in **The Woods**.                                                                                                                                       |
-| **3**   | You carry a **Portrait** in a locket (_petty_) of a past love who disappeared into **The Woods** long ago. Somehow, you know that they are still alive.                                                                                                                                   |
-| **4**   | You found a **Tiny Crystal Prism** (_petty_) buried in the dirt. When held up to the light, it shows visions of an unknown location deep within **The Woods**. Sometimes, you feel a presence looking back at you.                                                                        |
+| **2**   | A distant cousin left you a small inheritance. Take **20Gp** and a **Strange Compass** (_petty_) that always points towards something deep in **The Wood**.                                                                                                                              |
+| **3**   | You carry a **Portrait** in a locket (_petty_) of a past love who disappeared into **The Wood** long ago. Somehow, you know that they are still alive.                                                                                                                                   |
+| **4**   | You found a **Tiny Crystal Prism** (_petty_) buried in the dirt. When held up to the light, it shows visions of an unknown location deep within **The Wood**. Sometimes, you feel a presence looking back at you.                                                                        |
 | **5**   | You once freed a Naiad from a choked stream. In return, it gave you some **Silver Moss**. Swallow it near water and the creature will come, once, to repay its debt.                                                                                                                      |
-| **6**   | You inherited an old **Journal**, bound in bark. Each evening, its pages are filled with the events of the day, crassly from the journal's perspective. The writing is crude, but accurate.                                                                                               |
+| **6**   | You inherited an old **Journal**, bound in bark. Each evening, its pages are filled with the events of the day, crassly written from the journal's perspective. The writing is crude, but accurate.                                                                                       |
 | **7**   | You protect a long-dormant family secret. Take one half of an **Ancient Key** (_petty_). They say that if joined with its twin, it opens a **Gate** through any door.                                                                                                                     |
-| **8**   | You received a **Letter** (_petty_) detailing incontrovertible proof that your true parentage is that of Fae nobility.The note also indicates a date and location where you are to meet them, deep in the **The Woods**.                                                                  |
-| **9**   | You owe a great debt to a member of the nobility, and carry their **Signet Ring** (_petty_), which serves as proof of their protection as well as your obligation.                                                                                                                        |
-| **10**  | You consumed a **Mischievous Spirit** that periodically wreaks havoc on your insides, demanding to be taken home. It wants to keep you alive, at least until it is free. It takes up one slot, but eats one **Fatigue** per day. It can detect magic and knows a bit about **The Woods**. |
-| **11**  | A roaming storyteller once spun you tales of great treasure hidden deep in **The Woods**. You thought it naught but fancy, till they gave you **A Rolled-Up Map** (_petty_) marked with an X.                                                                                             |
+| **8**   | You received a **Letter** (_petty_) detailing incontrovertible proof that your true parentage is that of Fae nobility.The note also indicates a date and location where you are to meet them, deep in the **The Wood**.                                                                  |
+| **9**   | You owe a great debt to a member of the nobility and carry their **Signet Ring** (_petty_), which serves as proof of their protection as well as your obligation.                                                                                                                         |
+| **10**  | You consumed a **Mischievous Spirit** that periodically wreaks havoc on your insides, demanding to be taken home. It wants to keep you alive, at least until it is free. It takes up one slot, but eats one **Fatigue** per day. It can detect magic and knows a bit about **The Wood**. |
+| **11**  | A roaming storyteller once spun you tales of great treasure hidden deep in **The Wood**. You thought it naught but fancy, till they gave you **A Rolled-Up Map** (_petty_) marked with an X.                                                                                             |
 | **12**  | During your travels, you met a dying hunter who asked you to deliver a message to their loved ones. Take a **Letter** (_petty_), sealed with tree sap. It is addressed only to the **Lord Of Winter**.                                                                                    |
-| **13**  | You found a wounded beast in the forest, but chose to ignore it. You see it everywhere now, but only when you're alone. It looks sad, but not angry.                                                                                                                                      |
+| **13**  | You found a wounded beast in the forest, but chose to ignore it. You see it everywhere now, but only when you're alone. It looks sad, but not angry. You cannot become _panicked_ when acting alone. |
 | **14**  | You promised a childhood friend that you'd bring them back a rare gift, something unique in all the world. Take a **Bracelet** (_petty_) woven from twine and wildflowers.                                                                                                                |
-| **15**  | You crossed a creature of **The Woods**, and it cursed you with a **Stone Heart** (1 Armor, _bulky_). With each passing month, the stone grows heavier by one slot. Until your debt is lifted, you cannot truly die.                                                                      |
+| **15**  | You crossed a creature of **The Wood**, and it cursed you with a **Stone Heart** (1 Armor, _bulky_). With each passing month, the stone grows heavier by one slot. Until your debt is lifted, you cannot truly die.                                                                      |
 | **16**  | You carved a **Whistle** (_petty_) from an **Oak Lord's** branch. Your act did not go unnoticed. You cannot seem to rid yourself of the whistle either.                                                                                                                                   |
 | **17**  | The **Dawn Brigade** did your family a service, giving you a dried **Blood-Red Flower** (_petty_) as proof. When the flower turns white, it means the favor is owed.                                                                                                                      |
 | **18**  | An entertainer once visited your home, filling it with story and song. He left one day without a word, leaving behind only **A Miniature Lute**. Something rattles inside.                                                                                                                |
@@ -179,20 +177,20 @@ search_exclude: true
 | **2**   | It feels like winter has arrived too quickly this year, frost and snows making their appearance much earlier than expected. There is talk of a pattern to the frost found in windows, ponds, and cracks in the ground. It almost looks like a map. |
 | **3**   | A thick, unnatural fog has begun encroaching upon an ancient and holy grove. It is said to be the work of a great forest spirit, angered by nearby deforestation.                                                                                  |
 | **4**   | The night sky grows dimmer each evening, as if stars are disappearing one by one. Rumors of hellish creatures capturing farmers and pulling them into **The Roots** are spreading like wildfire. Village elders believe the two are connected.     |
-| **5**   | The songbirds of **The Woods** have fallen eerily silent as of late. Hunters claim that a spectral figure has been spotted wandering the forest, gazing longingly at anyone it encounters.                                                         |
+| **5**   | The songbirds of **The Wood** have fallen eerily silent as of late. Hunters claim that a spectral figure has been spotted wandering the forest, gazing longingly at anyone it encounters.                                                         |
 | **6**   | Strange, tear-shaped stones have been found throughout the region, sparking a "gold rush" of sorts for jewelers and thieves alike. The locals believe they are the tears of the earth itself, weeping for a great tragedy yet to come.             |
-| **7**   | Swarming pests gnaw away at the edges of dreams, and farmers speak of a loud buzzing sound emanating from deep within **The Woods**. They also say that the sound is getting closer.                                                               |
+| **7**   | Swarming pests gnaw away at the edges of dreams, and farmers speak of a loud buzzing sound emanating from deep within **The Wood**. They also say that the sound is getting closer.                                                               |
 | **8**   | There is a village known far and wide for its impressive “mother tree”, said to shelter the town’s secrets in its boughs. Recently, it has begun bleeding red sap, worrying the elders.                                                            |
-| **9**   | The moon turns a deep crimson, bathing the night in an eerie, blood-red light. Some say it heralds a time of chaos and strife, as the boundaries between **The Woods** and the mortal realm grow thin.                                             |
+| **9**   | The moon turns a deep crimson, bathing the night in an eerie, blood-red light. Some say it heralds a time of chaos and strife, as the boundaries between **The Wood** and the mortal realm grow thin.                                             |
 | **10**  | Strange cracks have appeared in the night sky, revealing a swirling vortex of light and color. Some say that the divide between realms is at its weakest in centuries, and fear what may emerge from the other side.                               |
-| **11**  | A night-blooming flower once thought extinct is sprouting up throughout **The Woods**. Its scent is intoxicating, but also causes vivid nightmares.                                                                                                |
-| **12**  | Local livestock have grown increasingly agitated and unmanageable as of late. An old shephard says it is due to an unsettling howl that emanates from **The Woods** each full moon.                                                                |
-| **13**  | Swarms of insects are fleeing from **The Woods** in droves, destroying any wooden structures they come across. The sound of their wings hum a familiar tune as they pass overhead, like a forgotten nursery rhyme.                                 |
+| **11**  | A night-blooming flower once thought extinct is sprouting up throughout **The Wood**. Its scent is intoxicating, but also causes vivid nightmares.                                                                                                |
+| **12**  | Local livestock have grown increasingly agitated and unmanageable as of late. An old shephard says it is due to an unsettling howl that emanates from **The Wood** each full moon.                                                                |
+| **13**  | Swarms of insects are fleeing from **The Wood** in droves, destroying any wooden structures they come across. The sound of their wings hum a familiar tune as they pass overhead, like a forgotten nursery rhyme.                                 |
 | **14**  | Hunters talk of a curse that befalls any who kill a white-frocked beast: soon after, they are found dead in their homes. Each day, there are fewer and fewer creatures to hunt.                                                                    |
 | **15**  | Folks say that a faint laughter can be heard echoing out of wells all over the city. At night, they say the echoes change to sobs.                                                                                                                 |
 | **16**  | The constellations have slowly started shifting in the night sky, forming unfamiliar patterns that have stargazers and sages perplexed. Even the animals seem disturbed.                                                                           |
 | **17**  | An ancient tree at the heart of a sleepy village has suddenly withered and died, despite showing no signs of disease. After its trunk was cut, a bloody hand was found in its core.                                                                |
 | **18**  | Statues have been weeping blood for months on end, and the wombs of the village have lain barren since they began to fall.  A single child has been the only exception, taken by elders overcome with fear and dread.                              |
-| **19**  | The local fauna is behaving oddly, displaying heightened aggression, or fleeing the area entirely. Hunters talk of a shadowy figure that roams **The Woods**, calling to the animals.                                                              |
+| **19**  | The local fauna is behaving oddly, displaying heightened aggression, or fleeing the area entirely. Hunters talk of a shadowy figure that roams **The Wood**, calling to the animals.                                                              |
 | **20**  | Border towns have become riotous in recent weeks, after multiple claims of a red-robed figure appearing in their children's dreams, uttering the same warning: A fire is coming, and it will consume them all.                                     |
 

@@ -23,7 +23,7 @@ Seed, Thresh, Dibber, Sow, Stalk, Harrow, Cobb, Flax, Briar, Rye
 - Brigandine (1 Armor, _bulky_)
 - Sling (d6)
 - Hand Axe (d6)
-- Repellent (state the creature, 3 uses)
+- Repellent (pick the type, 3 uses)
  
 ## What got the better of you? Roll 1d6:
 

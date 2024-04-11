@@ -11,7 +11,7 @@ title: Neverland
 - Conversion by [David Schirduan](https://www.technicalgrimoire.com/].
 
 ## General Notes
-- I tried to be as consistent as possible when converting creatures. But some of the 5e stats are a little silly, so you will probably wan't to tweak things a bit. E.g. Peter Pan probably doesn't need crazy high stats.
+- I tried to be as consistent as possible when converting creatures. But some of the 5e stats are a little silly, so you will probably want to tweak things a bit. E.g. Peter Pan probably doesn't need crazy high stats.
 - These stats don't include the FULL statblock, please consult the text for additional abilities and details.
 
 ## Creatures

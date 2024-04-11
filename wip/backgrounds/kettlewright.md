@@ -22,7 +22,7 @@ Fergus, Eamon, Bram, Idris, Elara, Darragh, Seren, Rónán, Berek, Lorenz
 - Torch (3 uses) 
 - Pincers
 - Roll of Tin
-- Tent (Fits 2)
+- Gloves (_petty_)
 - Hammer (d6)
 
 ## What is your trade? Roll 1d6:
