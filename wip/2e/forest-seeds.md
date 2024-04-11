@@ -74,9 +74,9 @@ Roll 2d20 and combine the results.
 | **19**  | Unspoilt        | Sunlit          |
 | **20**  | Winding         | Wild            |
 
-## Forest Denizens
+## The Spirit of the Forest
 
-In some ways the Wood is a single entity, its brain alive within every tree and plant, connected via a network of thorn and branch. The animals and plants are its limbs, directing the wants, desires, fears, and needs. The creatures that live within its boundaries are its blood, answering its call by delivering much needed defenses and rebuffing interlopers. The Wood will always protect itself, and its children. Roll on the Traits table, writing the results in your notebook. This describes the general attitude of the creatures found in the forest.
+In some ways the Wood is a single entity, its brain alive within every tree and plant, connected via a network of thorn and branch. The animals and plants are its limbs, directing the wants, desires, fears, and needs. The creatures that live within its boundaries are its blood, answering its call by delivering much needed defenses and rebuffing interlopers. The Wood will always protect itself, and its children. Roll on the [Traits](#traits) and [Forest Agenda](#forest-agenda) tables, writing the results in your notebook. This describes the general attitude of the creatures found in the forest as well as what the forest _wants_ as a whole.
 
 ### Traits
 
@@ -106,11 +106,7 @@ Roll 2d20 and combine the results.
 | **19**  | Stable      | Self-centered  |
 | **20**  | Trusting    | Territorial    |
 
-### Factions 
-
-Every forest should have one or more Factions with their own unique agenda, obstacles, leaders, and hierarchy.
-
-#### Agendas
+#### Forest Agenda
 
 Roll 2d20 and combine the results.
 
@@ -324,7 +320,7 @@ Roll 2d20 and combine the results.
 | **14**  | Spiked Pit        | Paths change direction       |
 | **15**  | Stinging Nettles  | Scavengers that wait         |
 | **16**  | Thorny Thickets   | The dead - they watch        |
-| **17**  | Toxic spores      | Tracks erased by mist        |
+| **17**  | Toxic Spores      | Tracks erased by mist        |
 | **19**  | Troll Den         | Trees that grow from bones   |
 | **20**  | Unstable Ground   | Will-o-Wisp congregate       |
 
@@ -336,9 +332,9 @@ Roll 2d20 and combine the results.
 
 ### The Forest
 
-**Description**: Diseased, Flooded
+**Description**: Diseased, Frozen
 
-A wood infected with disease and rot. Parts of it are severely flooded.
+A thick forest infected with disease and rot. Parts of it are frozen solid.
 
 ### Denizens
 
@@ -346,17 +342,35 @@ A wood infected with disease and rot. Parts of it are severely flooded.
 
 They value stability above all things. They will do whatever it takes - including invading other lands - to maintain that stability.
 
-**Faction Agenda**: Expansion, Fragmentation
+**Forest Agenda**: Expansion, Fragmentation
 
-The primary faction is bent on expanding the forest's reach to some adjacent lands, but fears that spreading their forces too thin might break their hold over the forest.
+The spirit of the forest is bent on expanding the forest's reach to some adjacent lands, but fears that spreading their forces too thin might break their hold over the forest.
+
+### Forest Theme
+
+Looking at our table results (including trails and POIs), we can surmise that this forest was once a peaceful place, mediated by an old witch. After she died her magic lived on, but began poisoning the forest she had once protected. When the weather spell she'd maintained for years became unstable, its disorder began to seep into the trees and plants, and eventually into the forest's inhabitants as well. 
 
 ## Trails 
 
-- Old Logging Road, Fresh Spiderwebs
-- Merchant Road, Serpent Traces
-- Dry Riverbed, Tree Carvings
-- Treeline Heights, Stone Piles
-- Hunter's Track, Peripheral Images
+### Old Logging Road, Fresh Spiderwebs. 
+
+The path between **1** and **5** is blocked by a broad cliff face, requiring climbing gear to ascend.  Giant spiders travel the hidden path between **9** and **6**, spinning their web all along the trail.
+
+### Treeline Heights, Stone Piles
+
+The ancient monks at **8** once climbed this path daily to pay their respects in the crystal chambers of **2**. They left piles of stone alongside the path for each of their fallen members.
+
+### Foraging Path, Distant Singing
+
+An old Witch once survived purely from the plentiful fruit on this trail. Her magic has outlived her now, including her obedient two-legged hut, the strange weather in **6**, and the faint sounds of an woman singing a lullaby.
+
+### Dry Riverbed, Tree Carvings
+
+A river once ran through West end of the forest, but dried up after the witch died. Her runes still mar the surface of some trees here.
+
+### Hunter's Track, Peripheral Images
+
+The hermit of **3** still hunts along this trail, obeying the laws of old. He is over 200 years old, and doesn't plan on dying until he's good and ready. Sometimes visions of him as a younger - and happier - man appear along the path, just out of sight. They vanish just as soon as they appear.
 
 ### POIs
 
@@ -385,7 +399,7 @@ At the forest edge is a dead **campfire** with piles of dark grey **bedding** la
 3 - Shelter: Hermit's Hut, Presents a Ready Meal
 4 - Shelter: Hut with legs, hunting is forbidden
 5 - Monster: Grizzly, prowling
-6 - Hazard: Stinging Nettles, Highly localized weather
+6 - Hazard: Frozen Troll, Highly localized weather
 7 - Monster: Skeleton, scouting
 8 - Ruins: Flooded monastery, broken portal
 9 - Hazard: Giant Spider Nest, bird spies
