@@ -1,42 +1,51 @@
 ---
 layout: default
-title: SRD
+title: SID
 nav_order: 2
 ---
 
-# Cairn System Reference Document (v.1.0)
+# Kerno Sistemos Informacinis Dokumentas (v.1.0)
 {: .no_toc }
 
 <p></p>
 
-**Cairn** is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
-Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in other [formats](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (including Word, Affinity, Google Docs, etc.).
+**Cairn** naudoja [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) licenziją.  
 
-**Cairn** is an adventure game for one facilitator (the **Warden**) and at least one other player.
-Players act as hardened adventurers exploring a dark & mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities.
+Šio projekto failai yra prieinami [čia](https://github.com/yochaigal/cairn). Taip pat gali šį žaidimą parsisiųsti ir kitais [formatais](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (Word, Affinity, Google Docs, ir t.t.).
+
+**Kèrnas** (Cairn) yra [vaidmenų žaidimas](https://lt.wikipedia.org/wiki/Vaidmen%C5%B3_%C5%BEaidimas) skirtas vienam žaidimo meistrui (**Prižiūrėtojui**) ir bent vienam žaidėjui. Žaidėjai įkūnys užkietėjusius nuotykių ieškotojus tyrinėjančius tamsius ir paslaptingus miškus kupinus keistų esybių, paslėptų lobių ir bauginančių pabaisų.
 
 <details close markdown="block">
   <summary id="index">
-    Table of contents
+    Turinys
   </summary>
   {: .text-delta }
 - TOC
 {:toc}
 </details>
 
-## Overview
+## Apžvalga
 
-**Cairn** was written with the following design philosophies in mind:
+**Kernas** buvo parašytas laikantis šių principų:
 
+<<<<<<< HEAD
 ### Neutrality
 The Warden's role is to portray the rules, situations, NPCs, and narrative clearly, while acting as a neutral arbiter.
 
 ### Classless
 A character's role or skills are not limited by a single class. Instead, the equipment they carry and their experiences define their specialty.
+=======
+### Neutralumas
+Vedlio paskirtis yra perteikti taisykles, situacijas, žaidimo personažus ir istoriją aiškiai, išliekant neutraliu žaidėjų atžvilgiu.
 
-### Death
-Characters may be powerful, but they are also vulnerable to harm in its many forms. Death is always around the corner, but it is never random or without warning.
+### Klasių nebūvimas
+Personažo įgudžiai nėra apriboti vienos klasės. Jų įrankai, daiktais ir patirtys nulems jų specialybę (Šventikas gali išmokti kautis ir vagis gali išmokti kerėti).
+>>>>>>> srd-vertimas
 
+### Mirtis
+Žaidimo personažai gali būti galingi ir stiprūs, bet jie vis vien visada bus pažeidžiami. Šiame pasaulyje tūno daug pavojų. Mirtis visada yra šalia, bet ji niekada neturi būti atsitiktinė ar be perspėjimo.
+
+<<<<<<< HEAD
 ### Fiction First
 Dice do not always reflect an obstacle's difficulty or its outcome. Instead, success and failure are arbitrated by the Warden in dialogue with the players, based on in-world elements.
 
@@ -48,13 +57,27 @@ Players should always understand the reasons behind the choices they've made, an
 
 ### Principles
 The Warden and the players each have guidelines that help foster a specific play experience defined by critical thinking, exploration, and an emergent narrative.
+=======
+### Pirmenybė teikiama istorijai
+Nevertėtų pasikliauti kauliukais kiekvienoje situacijoje, kad išsiaiškinti jos eigą. Kartais geriau dialogo forma išsprręsti kokia bus vieno ar kito žaidėjo poelgio pasėkmė
 
-### Shared Objectives
-Players trust one another to engage with the shared setting, character goals, and party challenges. Therefore, the party is typically working together towards a common goal, as a team.
+### Augimas
+Žaidimo veikėjai keičiasi ir tobulėja tyrinėdami pasaulį, įgaudami naujų įgūdžių ir gebėjimų. Įveikdami kėblias situacijas ir iššūkius jie tampa stipresni.
 
-[back to index](#index)
+### Žaidėjo laisvė
+Žaidėjui visada turėtų būti aiškios jo veiksmų pasėkmės. Jis neturėtų spėlioti koks laukia rezultatas priėmus vienokį ar kitokį sprendimą. Informacija apie potencialą riziką, spąstus ir kitas žaidėjo tykančias negandas taip pat turėtų būti pateikiama dažnai ir laisvai.
+
+### Taisyklės
+Žaidimo Vedlys ir žaidėjai laikosi taisyklių, kurios jiems padeda sukurti žaidimo aplinką pagrįsta kritiniu mąstymu, tyrinėjimu ir iš to kylančiu istorijų kūrimu.
+>>>>>>> srd-vertimas
+
+### Bendri tikslai
+Žaidėjai pasitiki vienas kitu kurdami bendrą pasaulį. Jie dažniausiai turi bendrus tiklus ir kartu sprendžia įvairias uždutis kaip viena komanda. Žaidimo Vedlys nėra žaidėjų priešas, bet jis padeda sukurti kėblias situacijas ir konfliktus, kurie padeda benrai kuriamai istorijai nesustoti.
+
+[grįžti į turinį](#index)
 <p></p>
 
+<<<<<<< HEAD
 ## Principles for Wardens
 ### Information
 - Provide useful information about the game world as the characters explore it.
@@ -103,6 +126,55 @@ Players trust one another to engage with the shared setting, character goals, an
 - A roll of 3 or under tends to mean bad luck for the PCs or their allies.
 
 [back to index](#index)
+=======
+## Patarimai Žaidimo Meistrui
+### Informacija
+- Žaidėjams tyrinėjant žaidimo pasaulį, pateik jiems naudingos informacijos, kuri padės jį geriau suprasti
+- Žaidėjai neturėtų ridenti kauliukų tam, kad išsiaiškintu situacijos aplinkybes. Jų smalsumo turėtų būti gana.
+- Vedlys su savo atsakymais gali padėti nukreipti žaidėjus tinkama linkme
+- Leisk žaidėjams klausinėti daug klausimų ir atsakinėk į juos nuoširdžiai ir pastoviai
+
+### Sudėtingumas
+- Pirmenybė turėtų būti teikiama istorijos kontektui ir realizmui, o ne žaidimo mechanikai ir kauliukų ridenimams
+- Jei žaidėjas nori atlikti veiksmą, kuris yra visiškai neįmanomas, joks sėkmingas ridenamis neleis jam to padaryti.
+- Ar žaidėjo norimas atlikti veiksmas yra logiškas ir prasmingai dera su esama situacija? Leisk jam jį atlikti be jokio kauliukų ridenimo.
+- Išbandymai bus naudingi rizikingose situacijose ir jie labiausiai pravers kai žaidėjas norės atlikti kokį nors rizikinga veiksmą.
+
+### Pasiruošimas
+- Žaidimo pasaulis yra organiškas, besikeičiantis ir su prieskoniu atsitiktinumo. Jis neleidžia žaidėjams per ilgai užsibūti vienoje vietoje - tam padeda aštrūs istorijos posūkiai.
+- Improvizuodamas naujas situacijas gali pasitelkti į pagalbą atsitiktinių įvykių, aprašymų ir daiktų lenteles. Jos padės tau sukurti įvairias naujas situacijas, kurios bus nenuspėjamos tiek pačiam Vedliui tiek žaidėjams. Per daug pasiruošimo gali sumažinti istorijos spontaniškumą ir organiškumą.
+- Žaidimo pasaulyje gyvenantys personažai (NPC) atsimena žaidėjų poelgius ir pasakymus ir turi savo nuomonę apie žaidėjo veiksmus šiame pasaulyje.
+- Žaidimo personažai nenori numirti. Jie turi savo interesus ir norą išlikti ir klestėti šiame pasaulyje.
+
+### Dėmesys naratyvui
+- Svarbiausia yra įdomus ir įtraukiantis žaidėjų sąveikavimas su žaidimo pasauliu, o ne skaičiavimai ar personažų sugebėjimai. Kad žaidėjų personažai galėtų tobulėti ir specializuotis, įtrauk į žaidimo pasaulį ginklų mokytojų personažus, kurie gali juos išmokyti naujų įgūdžių, sugalvok jiem asmeninių užduočių, kurias jie įvykdę galės patobulėti ar išmokti naujų įgūdžių.
+- Įsiklausyk į žaidėjų poreikius ir norus ir sukurk realistiškas progas jų kelyje įgyvendinti tuos norus.
+- Durklas prie gerklės visad tave nužudys, kad ir kokius brangius šarvus ar įspūdingus kovos įgūdžius beturėtum.
+
+### Pavojus
+- Žaidimo pasaulis visad kelia realų skausmo ir mirties pavojų žaidėjų personažams.
+- Pranešk žaidėjams apie rimto pavojaus tikimybę. Kuo pavojus didesnis, tuo jis turėtų būti akivaizdesnis.
+- Spąstai neturėtų atsirasti iš niekur. Leisk žaidėjams juos pastebėti ir duok šiek tiek laiko jiems sugalvoti, kaip su jais susidoroti.
+- Suteik žaidėjams progų spęsti problemas ir sąveikauti su žaidimo pasauliu.
+
+### Lobis / Laimikis
+- Žaidimo laimikis tuėtų derėti prie aplinkos, kurioje jis yra randamas. Kad b ūtų įdomesnis ir atrodytų vertingesnis, jis turėtų būti įpintas į istorija.
+- Lobis yra labai vertingas, beveik visada didelis, ir retai kada turi papildomos naudos neįskatant prestižo ir turtų, į kuriuos jį galima paversti.
+- Relikvijos (psl 5) nėra lobis, bet jos dažniausiai yra naudingos ir įdomios.
+
+### Pasirinikimai
+- Suteik žaidėjams prasmingų pasirinkimų, kai istorijos tėkmė per daug sulėtėja.
+- Jei žaidėjų ketinimai nėrai aiškus, supaprastink viską ir paklausk ar jie renkasi A ar B?
+- Palaikyk prasmingą dialogą su žaidėjais, kad žaidimas neprarastų savo tempo.
+- Pasistenk, kad žaidėjai poelgiai visada turėtų pasėkmes žaidimo pasaulyje.
+### Likimo kauliukas
+
+- Kartas nuo karto tau pravers ir atsitiktinumas (psl 10) pavyzdžiui: žaidimo personažo nusiteikimas žaidėjų atžvilgiu, ar keliaudami naktį žaidėjai pasiklys ar ne, ir t.t.)
+- Tokiais atvejairs ridenk 1d6. 4 ir daugiau dažniausiai reiškia palankų rezultatą žaidėjų atžvilgiu.
+- 3 ir mažiau dažniausiai reiškia blogą sėkmę žaidimo personažams ir jų bendrininkams.
+
+[grįžti į turinį](#index)
+>>>>>>> srd-vertimas
 <p></p>
 
 ## Principles for Players
