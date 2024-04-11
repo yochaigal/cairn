@@ -1,17 +1,20 @@
 ---
 layout: default
-title: Home
+title: Pradžia
 nav_order: 1
 permalink: /
 ---
 
-Cairn is an [adventure game](http://questingblog.com/adventure-game-vs-osr) about exploring a dark & mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities. Character generation is quick and random, classless, and relies on fictional advancement rather than through XP or level mechanics. It is based on [Knave](https://www.drivethrurpg.com/product/250888/Knave) by Ben Milton and [Into The Odd](https://chrismcdee.itch.io/electric-bastionland) by Chris McDowall. The game was written by [Yochai Gal](https://newschoolrevolution.com).
 
-The PDF version is available for free on [Itch.io](https://yochaigal.itch.io/cairn) & [DriveThruRPG](https://www.drivethrurpg.com/product/330809/Cairn).  
-The full text is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
-The original Affinity Publisher file is also available with the downloads.
+**Kèrnas** (Cairn) tai nuotykių žaidimas apie tamsių ir paslaptingų miškų tyrinėjimą, kuriuose pilna keistų esybių, paslėptų lobių ir neapsakomų pabaisų. Personažų kūrimas yra greitas ir atsitiktinis, nėra klasių sistemos, o pažanga paremta siužetu, o ne patirties taškais ar lygiais. Žaidimo pagrindas – Ben Milton [Knave](https://www.drivethrurpg.com/product/250888/Knave) ir Chris McDowall [Into The Odd](https://chrismcdee.itch.io/electric-bastionland). Žaidimą sukūrė [Yochai Gal](https://newschoolrevolution.com). Į lietuvių kalbą išvertė Paulius Tvaranavičius.
 
-This is a game that values community contributions! If you'd like to submit an adventure, hack, monster, or conversion take a look at the [submission guide](/submissions/submission-guide).
+* PDF versija anglų kalba yra prieinama [Itch.io](https://yochaigal.itch.io/cairn) ir [DriveThruRPG](https://www.drivethrurpg.com/product/330809/Cairn).  
+* Pilnu tekstu yra dalinamasi pagal [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) licenziją.
+* Originalus Affinity Publisher failas taip pat yra prieinamas parsisiuntimui.
+
+Šiam žaidimui yra svarbus jo bendruomenės indėlis. Jeigu nori pasidalinti savo nuotykiais, modifikacijomis, monstrais ar adaptacijomis į kitas sistemas, gali rasti daugiau informacijos kaip prisidėti prie jo kūrimo čia:
+* Lietuviška versija
+* [Angliška versija](/submissions/submission-guide)
 
 <p></p>
 
