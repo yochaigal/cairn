@@ -378,25 +378,53 @@ The hermit of **3** still hunts along this trail, obeying the laws of old. He is
 
 **Ruin**: _Petrified Campsite_, _Overrun with unusual flora_ | **Entrance**
 
-At the forest edge is a dead **campfire** with piles of dark grey **bedding** laid out close by. Plants, flowers, and other **flora** grow thickly over the campsite. A **trail** to the **North** leads into the forest. 
+At the forest edge is a dead **campfire** with piles of dark gray **bedding** laid out close by. Plants, flowers, and other **flora** grow thickly over the campsite. A **trail** to the **North** leads into the forest. 
 
-- **Campfire**: No smoke or soot remains. 
-  - The remaining wood is stained a deep grey and very cold to the touch. One of the logs is clearly diseased, and is as hard as iron.
-- **Bedding**: Stained a dark grey. Splinters of grey wood are stuck in the cloth.
-  - Icy cold to the touch. The space beneath the cloth is partly blue and red, but grey circles grow out of the wood flecks. 
+- **Campfire**: The remaining wood is stained a deep gray and very cold to the touch and as hard as iron.
+- **Bedding**: Splinters of gray wood are stuck in the cloth.
+  - Icy cold to the touch. The space beneath the cloth is partly blue and red, but gray circles grow out of the wood flecks. 
 - **Flora**: Rare and unique species not common to these parts.
   - Skilled pruning and a few minutes of careful work produces a **Healing Salve** (restore 1d4 STR, 1 use).
 - **Trail**: Long grooves in the rough shape of a tree trunk are cut into the ground. 
   - Fine spiderwebs block the forest entry, as if no one had walked through in a long while.
 
 
-### 2 - 
+### 2 - Amber Grave
 
 **Hazard**: _Sap Trap_, _Ghost Trapped in Crystal_
 
+A rounded copse of vermilion **trees** surround a wide **puddle** of bubbling sap. A pointy green **object** is just visible in the center of the pool. 
+ 
+- **Trees**: The base of each tree bleeds golden sap that runs into the puddle below. They do not appear to be diseased.
+- **Puddle**: 12ft of sticky sap.
+  - Ankle-high and extremely sticky. Irritates the skin.
+- **Object**: Appears crystalline in nature.
+  - Very slippery. Very difficult and time-consuming to extract without adequate tools (gloves, a pole, etc.).
+  - Trapped inside the crystal is the spirit of a familiar called **Gundersnatch**.
 
+#### Gundersnatch
 
-3 - Shelter: Hermit's Hut, Presents a Ready Meal
+- Can communicate telepathically with anyone holding the crystal. Will plead for anyone to destroy the crystal (a good whack with something hard will do it). 
+  - In exchange for his freedom he will reveal [*insert hint to undoing the weather/disease*]   
+- If the crystal is broken, the shadow of a great bird will rise above the party, then disappear. Any characters with the _deprived_ condition will have it resolved. 
+
+### 3 - Dormin's Cabin
+
+**Shelter**: _Hermit's Hut_, _Presents a Ready Meal_
+
+A wooden **cabin** sits atop a small hill. Animal **skins** hang from hooks on the East side, and **smoke** pours from the chimney.
+
+- **Cabin**: **Dormin** is not here between the early hours of the day and nightfall. A ring of white dust is sprinkled across the doorway. 
+  - If the dust is disturbed in any way, Dormin will know and make his way to the cabin.
+  - The inside is austere, lacking in paint or livery. There is only a simple cot, fireplace, and a small table.
+  - On the table is a fully prepared meal of roast duck and root vegetables equal (Rations, 3 uses). If eaten, the food will reform in 1d4 hours. 
+- **Skins**: 
+- **Smoke**: 
+
+#### Dormin
+
+- **Forever Food**
+
 4 - Shelter: Hut with legs, hunting is forbidden
 5 - Monster: Grizzly, prowling
 6 - Hazard: Frozen Troll, Highly localized weather
