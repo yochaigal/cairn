@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SID
+title: Kerno Sistema
 nav_order: 2
 ---
 
@@ -13,6 +13,8 @@ nav_order: 2
 
 Šio projekto failai yra prieinami [čia](https://github.com/yochaigal/cairn). Taip pat gali šį žaidimą parsisiųsti ir kitais [formatais](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (Word, Affinity, Google Docs, ir t.t.).
 
+---
+
 **Kèrnas** (Cairn) yra [vaidmenų žaidimas](https://lt.wikipedia.org/wiki/Vaidmen%C5%B3_%C5%BEaidimas) skirtas vienam žaidimo meistrui (**Prižiūrėtojui**) ir bent vienam žaidėjui. Žaidėjai įkūnys užkietėjusius nuotykių ieškotojus tyrinėjančius tamsius ir paslaptingus miškus kupinus keistų esybių, paslėptų lobių ir bauginančių pabaisų.
 
 <details close markdown="block">
@@ -23,6 +25,8 @@ nav_order: 2
 - TOC
 {:toc}
 </details>
+
+---
 
 ## Apžvalga
 
@@ -104,85 +108,99 @@ Nevertėtų pasikliauti kauliukais kiekvienoje situacijoje, kad išsiaiškinti j
 [grįžti į turinį](#index)
 <p></p>
 
-## Principles for Players
-### Agency
-- Attributes and related saves do not define your character. They are tools.
-- Don't ask only what your character would do, ask what you would do, too.
-- Be creative with your intuition, items, and connections.
+## Patarimai Žaidėjui
 
-### Teamwork
-- Seek consensus from the other players before barreling forward.
-- Stay on the same page about goals and limits, respecting each other and accomplishing more as a group than alone.
+### Pasirinkimo laisvė
 
-### Exploration
-- Asking questions and listening to detail is more useful than any stats, items, or skills you have.
-- Take the Warden's description without suspicion, but don't shy away from seeking more information.
-- There is no single correct way forward.
+- Tavo personažo Savybės ir su jais susiję išbandymai neturėtų apriboti tavo pasirinkimų. Jie tėra įrankiai.
+- Neklausk tik ką darytų tavo personažas šioje situacijoje, bet ir ką darytum tu pats ?
+- Stenkis kūrybingai išnaudoti savo personažą, jo daiktus ir aplinką.
 
-### Talking
-- Treat NPCs as if they were real people, and rely on your curiosity to safely gain information and solve problems.
-- You'll find that most people are interesting and will want to talk things through before getting violent.
+### Komandinis darbas
 
-### Caution
-- Fighting is a choice and rarely a wise one; consider whether violence is the best way to achieve your goals.
-- Try to stack the odds in your favor and retreat when things seem unfavorable.
+- Siek susitarimo su kitais žaidėjais prieš priimdamas reikšmingus sprendimus.
+- Stenkis suprasti savo bendražygių tikslus ir ribas, gerbk jų norus ir pasirinkimus - kartu jūs galite pasiekti daugiau.
 
-### Planning
-- Think of ways to avoid your obstacles through reconnaissance, subtlety, and fact-finding.
-- Do some research and ask around about your objectives.
+### Tyrinėjimas
 
-### Ambition
-- Set goals and use your meager means to take steps forward.
-- Expect nothing. Earn your reputation.
-- Keep things moving forward and play to see what happens.
+- Smalsumas, žaidimo pasaulio tyrinėjimas, klausimų uždavinėjimas yra naudingesnis nei tavo personažo savybės, daiktai ar įgūdžiai.
+- Pasikliauk žaidimo meistor pateikiama informacija, bet nevenk užduoti daugiau klausimų.
+- Vieno teisingo kelio į priekį nėra; jų daug.
 
-[back to index](#index)
+### Bendravimas
+
+- Elkis su žaidimo personažais kaip su tikrais žmonėmis ir pasikliauk savo smalsumu bandydamas geriau suprasti tiek žaidimo pasaulį, tiek jame gyvenančius žmones. Jis padės tau spręsti žaidime kylančius iššūkius.
+- Galbūt paaiškės, kad dauguma žaidimo personažų yra gan draugiškos ir įdomios būtybės, kurios geba išspręsti kylančius konfliktus taikiai, o net tik smurtaujant.
+
+### Atsargumas
+
+- Kautis tėra vienas iš pasirinkimų kiekvienoje situacijoje. Jis nėra pats išmintingiausias konfliktų sprendimo būdas. Pagalvok ar yra kitų būdų, kuriais galėtum pasiekti savo tikslų.
+- Prieš pradėdamas bet kokią kovą, pagalvok ar persvara yra tavo pusėje ir nevenk pasitraukti iš kovos supratęs, kad priešas yra už tave pranašesnis.
+
+### Planavimas
+
+- Stenkis kūrybingai apeiti kelyje pasitaikančias kliūtis. Pasinaudok žvalgyba, subtilumu ir tyrinėjimu.
+- Tyrinėk savo aplinką, žaidimo personažus ir jų motyvus. Geriau supratęs savo iššūkius, rasi kūrybingesnių būdų jiems išspręsti.
+
+### Ambicingumas
+
+- Išsikelk tikslus savo personažui ir naudokis savo menkais resursai, kad juos pasiektum.
+- Nesitikėk nieko gauti už dyką. Užsitarnauk savo reputaciją.
+- Stenkis visad judėti į priekį ir palaikyti žaidimo tempą.
+
+[grįžti į turinį](#index)
 <p></p>
 
-## Character Creation
+## Personažo Kūrimas
 
-#### Name, Background & Traits
-First, choose or roll your PC’s **name** and **background** from their respective [tables](#name--background-d20). A PC’s background informs their potential knowledge and skills.
+#### Vardas, istorija ir bruožai
+Pirmiausia, išsirink savo personažo vardą ir istoriją arba ridenk kauliukus šiose [lentelėse](#). Žaidėjo personažo istorija nulems jo potencialias žinias ir įgūdžius.
 
-Next, roll for the rest of your character's **traits** (appearance, speech, mannerisms, beliefs, reputation, etc.) on the [**Character Traits**](#character-traits-d10) tables.
+Tada, išsiridenk savo personažo bruožus (išvaizdą, kalbą, manieras, įsitikinimus, reputaciją ir kt.) [bruožų lentelėse](#).
 
-Finally, roll for their **age** (2d20+10).
+Tada, išsiridenk savo personažo **amžių** (2d20+10).
 
-#### Ability Scores
+#### Savybės
+Žaidėjo personažas (ŽP) turi tik tris savybes:
+
+**Jėga (JĖG)**, **Vikrumą (VIK)** ir **Valią (VAL)**. Kurdamas žaidimo personažą, žaidėjai ridena 3d6 paeiliui kiekvienai iš savybių. Tada jie gali sukeisti bet kuriuos du rezultatus.
+
 Player Characters (PCs) have just three attributes:  
 **Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**. When creating a PC, the player should roll 3d6 for each of their character's ability scores, in order. They may then swap any two of the results.
 
 <details markdown="block">
   <summary>
-Expand For Example
+Pavyzdys
  </summary>
- Ines rolls for her character's **STR**, resulting in a **2**, a **4**, and a **6**, totaling **12**. The next two ability rolls result in a **9** for **DEX** and a **13** for **WIL**. She decides to swap the **12** and the **9**, for a character with **9 STR**, **12 DEX** and **13** **WIL**.
+  Inesa ridena savo personažo **JĖG** ir išridena **2**, **4** ir **6** - bendroje sumoje **12**. Kitoms dviem savybėms ji išridena **9** **VIK** ir **13** **VAL**. Tada ji nusprendžia sukeisti **12** ir **9**. Jos personažas tada turės **9 JĖG**, **12 VIK** ir **13 VAL**.
 </details>
 
-### Hit Protection
+### Gynybos Taškai
+Ridenk 1d6 kad išsiaiškintum savo personažo pradinius **Gynybos Taškus** (GT). Nuo jų priklausys tavo gebėjimas išvengti žalos kovose. GT nėra žaidėjo personažo sveikata ar tvirtumas; personažas praranda Gynybos Taškus tik trumpam (daugiau informacijos **Gydyme**). Jei priešo ataka atima visus gynybos taškus ir prilygina juos 0, tada žaidėjas ridena kauliuką [**Randų**](#) lentelėje.
+
 Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**). If an attack takes a PC's HP exactly to 0, the player must roll on the [**Scars**](/cairn-srd#scars-1) table.
 
-#### Inventory
-Characters have a total of 10 inventory slots: a backpack with six slots, one slot for each hand, and two slots for their upper body (such as the belt, chest, or head). The backpack can also double as an emergency sleeping bag but only if emptied of its contents.
+#### Inventorius
+Žaidėjo personažas gali turėti 10 daiktų inventoriuje: šešios vietos kuprinėje, viena - kiekvienoje rankoje, dvi - viršutinei kūno daliai (diržas, šarvai ar šalmas). Kuprinė taip pat gali būti naudojama kaip miegmaišis ištuštinus jos turinį.
 
-Most items take up one slot, and small items can be bundled together. Slots are abstract and can be rearranged per the Warden's discretion.
+Dauguma daiktų užima vieną inventoriaus vietą, o maži daiktai gali būti sugrupuoti. Iventoriaus ‘vietos’ yra šiek tiek abstrakčios ir jos gali būti šiek tiek lanksčios, pasitarus su žaidimo Vedliu.
 
-**Bulky** items take up two slots and are typically two-handed or awkward to carry. Anyone carrying a full inventory (i.e. filling all 10 slots) is reduced to 0 HP.
+**Sunkūs daiktai** užima dvi inventoriaus vietas, dažniausiai reikalauja dviejų rankų naudojimui ir yra nepatogūs nešti. Personažas turintis pilną inventorių (visas dešimt vietų) netenka visų gynybos taškų ir jie tampa lygūs nuliui.
 
-A PC cannot carry more items than their inventory allows. Carts (which must be pulled with both hands), horses, or mules can increase inventory. **Hirelings** can also be paid to carry equipment.
+Personažas negali nešti daugiau daiktų nei telpa jo inventoriuje. Vežimai arba arkliai gali padidinti inventoriaus talpą. **Samdiniai** taip pat gali padėti gabenti personažo daiktus už užmokestį.
 
-#### Starting Gear
-All PCs begin with:
+#### Pradiniai daiktai
+Žaidėjo personažas pradeda žaidimą su šiais daiktais:
 
-- Three days' rations (one slot)
-- A torch (one slot)
-- 3d6 gold pieces
+- Trijų dienų davinys (viena vieta)
+- Deglas (viena vieta)
+- 3d6 aukso monetos
 
-Roll once on each of the **Starting Gear** tables to determine your PC's armor, weapons, tools, and equipment. If indicated, roll on the [**Spellbooks**](#spellbooks-d100) table with a d100 (or roll 2d10, using one die as the ones place, and the other as the tens place). Pick only one item for each result.
+Ridenk po vieną kartą kiekvienoje [Pradinių Daiktų lentelėje](#), kad išsiaiškintum savo personažo šarvus, ginklą, įrankius ir turimus daiktus. Jei nurodyta, ridenk ir [Burtų Knygos](#) lentelėje su d100 (arba ridenk 2d10, vienas kauliukas bus vienetai, kitas dešimtys. Jei vienas kauliukas rodo 4, o kitas 7, tavo rezultatas būtų 47. Jei abu kauliukai rodo 0, tai bus - 100). To pasekoje tu turėsi po vieną daiktą iš kiekvienos kategorijos.
 
-See the **Equipment List** for related armor, damage, and slot values. Smaller items can sometimes be bundled together into one slot.
+[**Daiktų Sąraše**](#) rasi daiktų apsaugą, žalą ir užimamą vietą tavo inventoriuje. Mažesni daiktai gali būti sugrupuoti ir sutalpinti į vieną inventoriaus vietą.
 
-If you would like something closer to traditional classes, refer to the list of [**Optional Gear Packages**](#optional-gear-packages).
+Jei nori labiau tradicinių klasių, jas gali rasti [**paruoštų klasių lentelėje**](#).
 
 <p></p>
 
