@@ -460,7 +460,7 @@ A cylindrical, chimneyed **hut** covered in thick **foliage** sits at the edge f
 - **Sign**: Covered in vines. In red letters it says: "No Hunting Here. Harsh penalties." 
   - The witch cast a spell of protection over this place. If an animal is killed here by anyone capable of speech, their killer immediately turns to stone (no save).
   - Nothing dangerous  will follow the party into this part of the wood. The sounds of birds and 
-- **Wire**: Encircles a small, shrivelled garden. A vine-covered stone statue a young hunter stands in the middle.
+- **Wire**: Encircles a small, shriveled garden. A vine-covered stone statue a young hunter stands in the middle.
   - The shocked-looking hunter (a victim of the clearing's spell) holds a limp rabbit upside-down, a knife held to its throat.
 
 #### Inside the Hut
