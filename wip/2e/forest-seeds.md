@@ -22,7 +22,7 @@ A forestcrawl is a simple method for exploring a large forested area, typically 
 
 ## Creating a Forest
 
-Follow this procedure for any forested terrain in a region. 
+Follow this procedure for any forested terrain in a region. If a conflict or interesting pattern emerges, be open to restating or modifying any earlier results! 
 
 ### Materials Required
 
@@ -86,24 +86,24 @@ Roll 2d20 and combine the results.
 | ------- | ----------- | -------------- |
 | **d20** | **Virtues** | **Vices**      |
 | **1**   | Adaptive    | Aggressive     |
-| **2**   | Balanced    | Covetous       |
-| **3**   | Brave       | Detached       |
-| **4**   | Clever      | Dominating     |
-| **5**   | Cultivating | Doubtful       |
-| **6**   | Empathic    | Invasive       |
-| **7**   | Enduring    | Judgemental    |
-| **8**   | Graceful    | Naïve          |
-| **9**   | Hardy       | Obscuring      |
-| **10**  | Harmonious  | Overzealous    |
-| **11**  | Independent | Parasitic      |
-| **12**  | Learned     | Polluting      |
-| **13**  | Nurturing   | Predatory      |
-| **14**  | Observant   | Prideful       |
-| **15**  | Purifying   | Rigid          |
-| **16**  | Resolute    | Rigid          |
-| **17**  | Sensible    | Scatterbrained |
-| **18**  | Sharp       | Self-centered  |
-| **19**  | Stable      | Self-centered  |
+| **2**   | Balanced    | Aloof          |
+| **3**   | Brave       | Covetous       |
+| **4**   | Clever      | Detached       |
+| **5**   | Cultivating | Dominating     |
+| **6**   | Empathic    | Doubtful       |
+| **7**   | Enduring    | Invasive       |
+| **8**   | Graceful    | Judgemental    |
+| **9**   | Hardy       | Naive          |
+| **10**  | Harmonious  | Obscuring      |
+| **11**  | Independent | Overzealous    |
+| **12**  | Learned     | Parasitic      |
+| **13**  | Nurturing   | Passive        |
+| **14**  | Observant   | Polluting      |
+| **15**  | Purifying   | Predatory      |
+| **16**  | Resolute    | Prideful       |
+| **17**  | Sensible    | Rigid          |
+| **18**  | Sharp       | Scatterbrained |
+| **19**  | Stable      | Selfish        |
 | **20**  | Trusting    | Territorial    |
 
 #### Forest Agenda
@@ -273,25 +273,25 @@ Roll 2d20 and combine the results.
 |         |                   |                                    |
 | ------- | ----------------- | ---------------------------------- |
 | **d20** | **Shelter**       | **Feature**                        |
-| **1**   | Bandit Hideout    | Abandoned, for now                 |
-| **2**   | Falconer's Tower  | Attracts wild beasts               |
-| **3**   | Fishing Hut       | Built in defiance of customs       |
-| **4**   | Forgotten Ruins   | Constructed within a giant tree    |
-| **5**   | Hermit's Hut      | Forest-Knight offers a challenge   |
-| **6**   | Hidden Village    | Guarded by trained animals         |
-| **7**   | Hillside Cave     | Haunted by unhelpful ghosts        |
-| **8**   | Hollow Tree       | Hides a powerful artifact          |
-| **9**   | Hunter's Lodge    | Hunting is forbidden here          |
-| **10**  | Hut with Legs     | Inhabited by a supernatural entity |
-| **11**  | Ivy-wrapped Tower | Occupied by army deserters         |
-| **12**  | Lean-to           | Overrun with cultists              |
-| **13**  | Lumber Site       | Pale folk dinner locale            |
-| **14**  | Monastic Retreat  | Parasitic foliage                  |
-| **15**  | Mossy Pool        | Pig folk hunting grounds           |
-| **16**  | Night Market      | Popular with smugglers             |
-| **17**  | Pale Folk Stable  | Presents a ready-to-eat meal       |
-| **18**  | Ranger's Outpost  | Protected by a playful spirit      |
-| **19**  | Smoky Cabin       | Site of an ancient murder          |
+| **1**   | Bandit Hideout    | Abandoned, For Now                 |
+| **2**   | Falconer'S Tower  | Attracts Wild Beasts               |
+| **3**   | Fishing Hut       | Built In Defiance Of Customs       |
+| **4**   | Forgotten Ruins   | Constructed Within A Giant Tree    |
+| **5**   | Hermit'S Hut      | Forest-Knight Offers A Challenge   |
+| **6**   | Hidden Village    | Guarded By Trained Animals         |
+| **7**   | Hillside Cave     | Haunted By Unhelpful Ghosts        |
+| **8**   | Hollow Tree       | Hides A Powerful Artifact          |
+| **9**   | Hunter'S Lodge    | Hunting Is Forbidden               |
+| **10**  | Hut With Legs     | Inhabited By A Supernatural Entity |
+| **11**  | Ivy-Wrapped Tower | Occupied By Army Deserters         |
+| **12**  | Lean-To           | Overrun With Cultists              |
+| **13**  | Lumber Site       | Pale Folk Dinner Locale            |
+| **14**  | Monastic Retreat  | Parasitic Foliage                  |
+| **15**  | Mossy Pool        | Pig Folk Hunting Grounds           |
+| **16**  | Night Market      | Popular With Smugglers             |
+| **17**  | Pale Folk Stable  | Presents A Ready-To-Eat Meal       |
+| **18**  | Ranger'S Outpost  | Protected By A Playful Spirit      |
+| **19**  | Smoky Cabin       | Site Of An Ancient Murder          |
 | **20**  | Tattered Windmill | Thieves' Camp                      |
 
 #### Hazard
@@ -338,17 +338,19 @@ A thick forest infected with disease and rot. Parts of it are frozen solid.
 
 ### Denizens
 
-**Traits**: Stable, Invasive
+**Traits**: Stable, Territorial
 
-They value stability above all things. They will do whatever it takes - including invading other lands - to maintain that stability.
+Wish to return to the stability they once knew, but are threatened by ancient forest boundaries.
 
-**Forest Agenda**: Expansion, Fragmentation
+**Forest Agenda**: Purification, Infestation
 
-The spirit of the forest is bent on expanding the forest's reach to some adjacent lands, but fears that spreading their forces too thin might break their hold over the forest.
+The spirit of the forest wants nothing more than to purify itself of the disease that has taken hold. An infestation of Giant Spiders (**9**) have spun webs throughout, killing far too many creatures and undermining the ecosystem.
 
 ### Forest Theme
 
-Looking at our table results (including trails and POIs), we can surmise that this forest was once a peaceful place, mediated by an old witch. After she died her magic lived on, but began poisoning the forest she had once protected. When the weather spell she'd maintained for years became unstable, its disorder began to seep into the trees and plants, and eventually into the forest's inhabitants as well. 
+For decades, order and stability of the forest was kept in check through an agreement between the forest witch **Anglwyst** and **Dormin**, the Wood's champion. The witch would use her magic to keep the trees and animals healthy, while the champion would ensure that hunters only kill creatures deemed expendable, indicated by a shock with white in their fur. The pact was magical and impermeable, and the forest was divided, barring both the witch nor the champion from crossing its boundary.
+
+After the old witch died, one of her spells grew wild, then dangerous. Now a magical disease has begun to infect the trees and creatures, threatening to consume the entire forest. Hunters call it the _Withering_, as the magic petrifies and then freezes everything it touches.
 
 ## Trails 
 
@@ -374,9 +376,9 @@ The hermit of **3** still hunts along this trail, obeying the laws of old. He is
 
 ### POIs
 
-### 1 - Diseased Campsite
+### 1 - Diseased Campsite [Entrance]
 
-**Ruin**: _Petrified Campsite_, _Overrun with unusual flora_ | **Entrance**
+**Ruin**: _Petrified Campsite_, _Overrun with unusual flora_ 
 
 At the forest edge is a dead **campfire** with piles of dark gray **bedding** laid out close by. Plants, flowers, and other **flora** grow thickly over the campsite. A **trail** to the **North** leads into the forest. 
 
@@ -387,7 +389,6 @@ At the forest edge is a dead **campfire** with piles of dark gray **bedding** la
   - Skilled pruning and a few minutes of careful work produces a **Healing Salve** (restore 1d4 STR, 1 use).
 - **Trail**: Long grooves in the rough shape of a tree trunk are cut into the ground. 
   - Fine spiderwebs block the forest entry, as if no one had walked through in a long while.
-
 
 ### 2 - Amber Grave
 
@@ -401,31 +402,48 @@ A rounded copse of vermilion **trees** surround a wide **puddle** of bubbling sa
 - **Object**: Appears crystalline in nature.
   - Very slippery. Very difficult and time-consuming to extract without adequate tools (gloves, a pole, etc.).
   - Trapped inside the crystal is the spirit of a familiar called **Gundersnatch**.
+  - If shattered, the shadow of a great bird will rise above the party, then disappear. Any characters with the _deprived_ condition will have it resolved. 
 
 #### Gundersnatch
 
-- Can communicate telepathically with anyone holding the crystal. Will plead for anyone to destroy the crystal (a good whack with something hard will do it). 
+- Can communicate telepathically with anyone holding the crystal. 
+  - Will plead for anyone to destroy the crystal (a good whack with something hard will do it). 
   - In exchange for his freedom he will reveal [*insert hint to undoing the weather/disease*]   
-- If the crystal is broken, the shadow of a great bird will rise above the party, then disappear. Any characters with the _deprived_ condition will have it resolved. 
 
 ### 3 - Dormin's Cabin
 
 **Shelter**: _Hermit's Hut_, _Presents a Ready Meal_
 
-A wooden **cabin** sits atop a small hill. Animal **skins** hang from hooks on the East side, and **smoke** pours from the chimney.
+A wooden, chimneyed **cabin** sits atop a small hill. A tall **rack** is installed on the East end.
 
 - **Cabin**: **Dormin** is not here between the early hours of the day and nightfall. A ring of white dust is sprinkled across the doorway. 
   - If the dust is disturbed in any way, Dormin will know and make his way to the cabin.
   - The inside is austere, lacking in paint or livery. There is only a simple cot, fireplace, and a small table.
-  - On the table is a fully prepared meal of roast duck and root vegetables equal (Rations, 3 uses). If eaten, the food will reform in 1d4 hours. 
-- **Skins**: 
-- **Smoke**: 
+  - On the table is a fully prepared meal of roast duck and root vegetables equal (Rations, 3 uses). 
+    - The magic is a gift to Dormin from Anglwyst. If eaten the meal on the table will reform in d12 hours. 
+- **Rack**: Various animal skins (deer, boar, and beaver) are stretched tightly across, drying. 
+  - The animals all share a single shock of white fur somewhere on their skin.
+  - Stitched together the skins are equal to two sets of protective clothing (1 Armor), and are highly resistent to environmental damage.
 
 #### Dormin
 
-- **Forever Food**
+12 HP, 2 Armor, 13 STR, 15 DEX, 17 WIL, yew bow (d8)
 
-4 - Shelter: Hut with legs, hunting is forbidden
+- A cantankerous, mossy old man. Knows of a hidden, magical from his home at **3** to **4**. No one but him can navigate this path.
+- If he is injured, the Wood will protect and even heal him. Each time he dies, he returns more green than before.
+- Would like to stop the _Withering_, but cannot enter **6** due to his pact with Anglwyst. As a test of their honor and skill he will ask the party for help expelling the Giant Spiders at **9**.
+  - If the party successfully completes their first task, he will show them the secret path to **4**, where wonders await them in the witch's old hut.
+  - If they are able to disrupt the _Withering_ in a significant way, he will give them his **Pendant of Karnon** and his assurance that no harm will befoul them in these woods ever again.
+  
+#### Pendant of Karnon
+
+- A wooden amulet of a bearded, horned man. When in the forest, add a Fatigue to borrow the senses of any nearby creature. _Petty_.
+
+### 4 - 
+
+**Shelter**: _Hut With Legs_, _Hunting is Forbidden_
+
+
 5 - Monster: Grizzly, prowling
 6 - Hazard: Frozen Troll, Highly localized weather
 7 - Monster: Skeleton, scouting
