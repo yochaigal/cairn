@@ -275,9 +275,9 @@ Roll 2d20 and combine the results.
 | **d20** | **Shelter**       | **Feature**                        |
 | **1**   | Bandit Hideout    | Abandoned, For Now                 |
 | **2**   | Falconer'S Tower  | Attracts Wild Beasts               |
-| **3**   | Fishing Hut       | Built In Defiance Of Customs       |
+| **3**   | Fishing Shack     | Built In Defiance Of Customs       |
 | **4**   | Forgotten Ruins   | Constructed Within A Giant Tree    |
-| **5**   | Hermit'S Hut      | Forest-Knight Offers A Challenge   |
+| **5**   | Hermit'S Cabin    | Forest-Knight Offers A Challenge   |
 | **6**   | Hidden Village    | Guarded By Trained Animals         |
 | **7**   | Hillside Cave     | Haunted By Unhelpful Ghosts        |
 | **8**   | Hollow Tree       | Hides A Powerful Artifact          |
@@ -412,18 +412,25 @@ A rounded copse of vermilion **trees** surround a wide **puddle** of bubbling sa
 
 ### 3 - Dormin's Cabin
 
-**Shelter**: _Hermit's Hut_, _Presents a Ready Meal_
+**Shelter**: _Hermit's Cabin_, _Presents a Ready Meal_
 
-A wooden, chimneyed **cabin** sits atop a small hill. A tall **rack** is installed on the East end.
+A wooden **cabin** sits atop a small hill, heavy furs in place of a **door**. A tall **rack** is installed on the East end.
 
-- **Cabin**: **Dormin** is not here between the early hours of the day and nightfall. A ring of white dust is sprinkled across the doorway. 
+- **Cabin**: There is a 3-in-6 chance that Dormin is here. Otherwise, he is out hunting.
+- **Door**: A ring of white dust is sprinkled across the doorway. 
   - If the dust is disturbed in any way, Dormin will know and make his way to the cabin.
-  - The inside is austere, lacking in paint or livery. There is only a simple cot, fireplace, and a small table.
-  - On the table is a fully prepared meal of roast duck and root vegetables equal (Rations, 3 uses). 
-    - The magic is a gift to Dormin from Anglwyst. If eaten the meal on the table will reform in d12 hours. 
 - **Rack**: Various animal skins (deer, boar, and beaver) are stretched tightly across, drying. 
   - The animals all share a single shock of white fur somewhere on their skin.
   - Stitched together the skins are equal to two sets of protective clothing (1 Armor), and are highly resistent to environmental damage.
+
+#### Inside the Cabin
+
+Very austere, with only a simple **cot** and small dining **table**.
+  
+- **Cot**: Speckled with green moss and twigs. Smells faintly of rain.
+  - The floor beneath the cot is thick with green moss. If Dormin places his hands on the moss it falls away, revealing an underground tunnel to **4**. _The tunnel does not exist prior to this moment_.
+- **Table**: On the table is a fully prepared meal of roast duck and root vegetables equal to a full meal for 2.
+  - A gift from Anglwyst. If eaten the meal on the table will reform in d12 hours. 
 
 #### Dormin
 
@@ -432,22 +439,54 @@ A wooden, chimneyed **cabin** sits atop a small hill. A tall **rack** is install
 - A cantankerous, mossy old man. Knows of a hidden, magical from his home at **3** to **4**. No one but him can navigate this path.
 - If he is injured, the Wood will protect and even heal him. Each time he dies, he returns more green than before.
 - Would like to stop the _Withering_, but cannot enter **6** due to his pact with Anglwyst. As a test of their honor and skill he will ask the party for help expelling the Giant Spiders at **9**.
-  - If the party successfully completes their first task, he will show them the secret path to **4**, where wonders await them in the witch's old hut.
-  - If they are able to disrupt the _Withering_ in a significant way, he will give them his **Pendant of Karnon** and his assurance that no harm will befoul them in these woods ever again.
+  - If the party successfully completes their first task, he will give them his **Pendant of Karnon**, and the promise of further riches if they can undo the magic that is ravaging the forest at **6**. 
+  - If the party is able to disrupt the _Withering_, he will show them the secret path to **4**, and opens the hut.
   
 #### Pendant of Karnon
 
 - A wooden amulet of a bearded, horned man. When in the forest, add a Fatigue to borrow the senses of any nearby creature. _Petty_.
 
-### 4 - 
+### 4 - Anglwyst's Chicken Hut
 
 **Shelter**: _Hut With Legs_, _Hunting is Forbidden_
 
+A cylindrical, chimneyed **hut** covered in thick **foliage** sits at the edge fo a small clearing. A wooden **sign** is pressed into the ground at the West entrance. A long spool of **chicken wire** is installed on the North side.
 
-5 - Monster: Grizzly, prowling
+- **Hut**: The front-facing windows are dark, and there is no light or smoke coming from inside. 
+  - The door has no keyhole, but will only open to friends of Anglwyst (like Dormin). 
+  - If the door is forced open or the hut is threatened, two legs will sprout from underneath and the hut will quickly retreat into the forest.
+- **Foliage**: Both the roof and the windows are covered in thick leafy vines. 
+  - None of the vines touch the ground, as they would be torn were hut to stand.
+- **Sign**: Covered in vines. In red letters it says: "No Hunting Here. Harsh penalties." 
+  - The witch cast a spell of protection over this place. If an animal is killed here by anyone capable of speech, their killer immediately turns to stone (no save).
+  - Nothing dangerous  will follow the party into this part of the wood. The sounds of birds and 
+- **Wire**: Encircles a small, shrivelled garden. A vine-covered stone statue a young hunter stands in the middle.
+  - The shocked-looking hunter (a victim of the clearing's spell) holds a limp rabbit upside-down, a knife held to its throat.
+
+#### Inside the Hut
+
+Lavishly decorated. A tall wooden **barrel** is set near the North fireplace, a long broom sticking out. A large **stove** is installed on the East wall. A **string** of herbs and root vegetables hang from the ceiling.
+  - **Barrel**: Joined by thick mortar. Empty except for the broom, and free of dust.
+    - The barrel can fit up to one person, and is capable of flight (use the broom to "paddle" the air). 
+  - **Stove**: Warm, and large enough to sleep on. A red scarf is tied around one of the iron handle.
+    - The scarf belonged to Anglwyst, but is otherwise mundane. Dormin would love to have it.
+  - **String**: Goods of rare and extinct quality. Worth 500gp to the right buyer. 
+    - A mandrake root hangs from the string. If fed water daily it will openly declare a lie when it hears one. Scream loudly if cut.
+
+### 5 - 
+
+**Monster**: _Grizzly_, _Prowling_
+
+
 6 - Hazard: Frozen Troll, Highly localized weather
 7 - Monster: Skeleton, scouting
 8 - Ruins: Flooded monastery, broken portal
+
+#### _Yearning Path_
+
+- Shows the shortest path to the object of a heart's _true_ desire. _Smells of lavender and saffron. Grows heavier with use: add an extra Fatigue each time it is used._
+
+
 9 - Hazard: Giant Spider Nest, bird spies
 10 - Shelter: Fishing hut, Occupied by army deserters (Exit)
 
