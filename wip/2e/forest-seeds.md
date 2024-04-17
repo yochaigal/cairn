@@ -302,27 +302,27 @@ Roll 2d20 and combine the results.
 
 |         |                   |                              |
 | ------- | ----------------- | ---------------------------- |
-| **d20** | **Hazard**        | **Feature**                  |
-| **1**   | Animal Trap       | A pet basilisk               |
-| **2**   | Bog Shadows       | A witch trap                 |
+| **D20** | **Hazard**        | **Feature**                  |
+| **1**   | Animal Trap       | A Pet Basilisk               |
+| **2**   | Bog Shadows       | A Spell Gone Wrong           |
 | **3**   | Bone Orchard      | Animated Armor               |
-| **4**   | Bramble Tunnels   | Bird spies                   |
-| **5**   | Frozen Troll      | Embraced by bleeding trees   |
-| **6**   | Giant Spider Nest | Ghosts trapped in crystal    |
-| **7**   | Insect Swarm      | Giant rodent feeding grounds |
-| **8**   | Moving Thickets   | Highly localized weather     |
-| **9**   | Poisonous Plants  | Howling stones               |
-| **18**  | Psychic Fog       | Induces fever-dreams         |
-| **10**  | Sap Trap          | Invisible webs               |
-| **11**  | Sleeping Giant    | Living scarecrows            |
+| **4**   | Bramble Tunnels   | Bird Spies                   |
+| **5**   | Frozen Troll      | Bleeding Trees               |
+| **6**   | Giant Spider Nest | Ghosts Trapped In Crystal    |
+| **7**   | Insect Swarm      | Giant Rodent Feeding Grounds |
+| **8**   | Moving Thickets   | Highly Localized Weather     |
+| **9**   | Poisonous Plants  | Howling Stones               |
+| **18**  | Psychic Fog       | Induces Fever-Dreams         |
+| **10**  | Sap Trap          | Invisible Webs               |
+| **11**  | Sleeping Giant    | Living Scarecrows            |
 | **12**  | Slippery Moss     | Memory Stealers              |
-| **13**  | Slow Quicksand    | Mimic vines                  |
-| **14**  | Spiked Pit        | Paths change direction       |
-| **15**  | Stinging Nettles  | Scavengers that wait         |
-| **16**  | Thorny Thickets   | The dead - they watch        |
-| **17**  | Toxic Spores      | Tracks erased by mist        |
-| **19**  | Troll Den         | Trees that grow from bones   |
-| **20**  | Unstable Ground   | Will-o-Wisp congregate       |
+| **13**  | Slow Quicksand    | Mimic Vines                  |
+| **14**  | Spiked Pit        | Paths That Change Randomly   |
+| **15**  | Stinging Nettles  | Scavengers That Wait         |
+| **16**  | Thorny Thickets   | Watchful Dead                |
+| **17**  | Toxic Spores      | Tracks Erased By Mist        |
+| **19**  | Troll Den         | Trees That Grow From Bones   |
+| **20**  | Unstable Ground   | Will-O-Wisp Congregate       |
 
 ## Example Forest
 
@@ -378,7 +378,7 @@ Dormin allows outsiders to hunt their quarry on this trail and no other, so long
 
 ### 1 - Diseased Campsite [Entrance]
 
-**Ruin**: _Petrified Campsite_, _Overrun with unusual flora_ 
+**Ruin**: _Petrified Campsite_, _Overrun With Unusual Flora_ 
 
 At the forest edge is a dead **campfire** with piles of dark gray **bedding** laid out close by. Plants, flowers, and other **flora** grow thickly over the campsite. A **trail** to the **North** leads into the forest. 
 
@@ -392,7 +392,7 @@ At the forest edge is a dead **campfire** with piles of dark gray **bedding** la
 
 ### 2 - Amber Grave
 
-**Hazard**: _Sap Trap_, _Ghost Trapped in Crystal_
+**Hazard**: _Sap Trap_, _Ghost Trapped In Crystal_
 
 A rounded copse of vermilion **trees** surround a wide **puddle** of bubbling sap. A pointy green **object** is just visible in the center of the pool. 
  
@@ -412,7 +412,7 @@ A rounded copse of vermilion **trees** surround a wide **puddle** of bubbling sa
 
 ### 3 - Dormin's Cabin
 
-**Shelter**: _Hermit's Cabin_, _Presents a Ready Meal_
+**Shelter**: _Hermit's Cabin_, _Presents A Ready Meal_
 
 A wooden **cabin** sits atop a small hill, heavy furs in place of a **door**. Small **logs** are arranged in rows on the West side of the building, and a tall **rack** is installed on the East wall.
 
@@ -450,7 +450,7 @@ Very austere, with only a simple **cot** and small dining **table**.
 
 ### 4 - Anglwyst's Chicken Hut
 
-**Shelter**: _Hut With Legs_, _Hunting is Forbidden_
+**Shelter**: _Hut With Legs_, _Hunting Is Forbidden_
 
 A cylindrical, chimneyed **hut** covered in thick **foliage** sits at the edge fo a small clearing. A wooden **sign** is pressed into the ground at the West entrance. A long spool of **chicken wire** is installed on the North side.
 
@@ -496,7 +496,31 @@ A long **tree** lays across a small glade at the intersection of two trails. A s
 
 ### 6 - 
 
-**Hazard**: _Frozen Troll_, _Highly Localized Weather_
+**Hazard**: _Frozen Troll_, _A Spell Gone Wrong_
+
+A gray forest **sanctuary** stands at the intersection of four trails. In its center two enormous **statues** are appear to be wrestling.
+
+- **Sanctuary**: All nearby plant life is petrified and dull, as if all color has been bled away.
+  - The air shimmers with magic, emanating most strongly above the two statues.
+  - The _Withering_ effect is evident even before entering the clearing, as the petrification process has begun to spread in all directions.
+  - Plant matter brought into the clearing will soon begin to petrify, even without direct contact.
+- **Statues**: Two wood trolls are fighting over a shiny object held high in the air by the larger of the two.
+  - The object is a **Yore Glass**, a mirror Relic whose magic has disrupted the delicate spell that once made this place a verdant haven for forest life.
+  - The Witch's spell can only be disrupted by removing the mirror from the area, or by destroying it completely. It is tightly held by the statue, but can be removed by the application of grease, or by breaking the troll's arm.
+  - If the spell is broken, the petrification effect will end, and the trolls will slowly awaken. They will immediately try to reclaim the mirror.
+
+#### Yore Glass
+
+- Once per day the holder can replay 5 minutes of their life from the third-person. Long-term use can be addictive (suffer _deprivation_ if not used regularly).
+- **Recharge**: Catch another's reflection in the glass without them knowing.
+
+#### Wood Troll
+
+10 HP, 15 STR, 12 DEX, 7 WIL, bite (d10), claws (d8+d8)
+
+- Large humanoids with elongated arms made of bark or root. They live in forests, sharing a deep connection with the vegetation around them.
+- If killed they will slowly regenerate unless their corpse is taken out of the forest, or burned with fire.
+- **Critical Damage**: Moss and twigs begin growing out of target's wounds.
 
 ### 7 - 
 
