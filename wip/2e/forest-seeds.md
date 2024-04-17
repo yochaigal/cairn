@@ -243,26 +243,26 @@ Roll 2d20 and combine the results.
 |         |                     |                                        |
 | ------- | ------------------- | -------------------------------------- |
 | **d20** | **Ruin**            | **Feature**                            |
-| **1**   | Abandoned Manor     | A bound creature that wants freedom    |
-| **2**   | Broken Sundial      | A broken portal                        |
-| **3**   | Chipped Bell Tower  | A forest spirit, ready to die          |
-| **4**   | Collapsed Megalith  | A hag, foraging for ingredients        |
-| **5**   | Crumbled Watchtower | A hidden weapons cache                 |
-| **6**   | Decomposed Canoes   | A mirror of itself, just below         |
-| **7**   | Entangled Pavilion  | A self-obsessed sprite                 |
-| **8**   | Exposed Workshop    | A silent, ghostly concert              |
-| **9**   | Flooded Monastery   | A very tiny ruined village             |
-| **10**  | Moldering Farmhouse | Bound by an unbreakable curse          |
-| **11**  | Neglected Shrine    | Dozens of realistic toy soldiers       |
-| **12**  | Overrun Estate      | Holy ground, undead cannot enter       |
-| **13**  | Petrified Campsite  | Hooded Men completing a ritual         |
-| **14**  | Rotted Mill         | Inaudible whispers from all directions |
-| **15**  | Ruined Cloister     | Marked by battles of yore              |
-| **16**  | Rusted Market       | Overrun with unusual flora             |
-| **17**  | Shattered Bridge    | Remnants of a failed ritual            |
-| **18**  | Splintered Obelisk  | The veil between worlds is very thin   |
-| **19**  | Sunken Gazebo       | Three corpses, fresh                   |
-| **20**  | Toppled Statue      | Visions of the past                    |
+| **1**   | Abandoned Manor     | A forest spirit, ready to die          |
+| **2**   | Broken Sundial      | A hag, foraging for ingredients        |
+| **3**   | Chipped Bell Tower  | A mirror of itself                     |
+| **4**   | Collapsed Megalith  | A self-obsessed sprite                 |
+| **5**   | Crumbled Watchtower | A silent, ghostly concert              |
+| **6**   | Decomposed Canoes   | A very tiny ruined village             |
+| **7**   | Entangled Pavilion  | Bound by an unbreakable curse          |
+| **8**   | Exposed Workshop    | Bound creature                         |
+| **9**   | Flooded Monastery   | Broken portal                          |
+| **10**  | Moldering Farmhouse | Dozens of realistic toy soldiers       |
+| **11**  | Neglected Shrine    | Hidden weapons cache                   |
+| **12**  | Overrun Estate      | Hooded Men completing a ritual         |
+| **13**  | Petrified Campsite  | Inaudible whispers from all directions |
+| **14**  | Rotted Mill         | Marked by battles of yore              |
+| **15**  | Ruined Cloister     | Overrun with unusual flora             |
+| **16**  | Rusted Market       | Remnants of a failed ritual            |
+| **17**  | Shattered Bridge    | The veil between worlds is very thin   |
+| **18**  | Splintered Obelisk  | Three corpses, fresh                   |
+| **19**  | Sunken Gazebo       | Visions of the past                    |
+| **20**  | Toppled Statue      | Warded Grounds                         |
 
 #### Shelter
 
@@ -312,7 +312,7 @@ Roll 2d20 and combine the results.
 | **7**   | Insect Swarm      | Giant Rodent Feeding Grounds |
 | **8**   | Moving Thickets   | Highly Localized Weather     |
 | **9**   | Poisonous Plants  | Howling Stones               |
-| **18**  | Psychic Fog       | Induces Fever-Dreams         |
+| **18**  | Psychic Fog       | Injured Creature             |
 | **10**  | Sap Trap          | Invisible Webs               |
 | **11**  | Sleeping Giant    | Living Scarecrows            |
 | **12**  | Slippery Moss     | Memory Stealers              |
@@ -354,21 +354,21 @@ After the old witch died, one of her spells grew wild, then dangerous. Now a mag
 
 ## Trails 
 
-### Old Logging Road, Fresh Spiderwebs 
+### Old Logging Road, Tree Carvings
 
-The path between **1** and **5** is blocked by a broad cliff face, requiring climbing gear to ascend. Giant spiders travel the hidden path between **9** and **6**, spinning their web along the trail.
+The path between **1** and **5** is blocked by a broad cliff face, requiring climbing gear to ascend. Carvings from the original loggers of this forest still mar the surface of some trees.
 
 ### Treeline Heights, Stone Piles
 
-The ancient monks at **8** once climbed this path daily to pay their respects in the crystal chambers of **2**. They left piles of stone alongside the path for each of their fallen members.
+The ancient monks at **7** once climbed this path daily to pay their respects in the crystal chambers of **2**. They left piles of stone alongside the path for each of their fallen members.
 
 ### Foraging Path, Distant Singing
 
 Anglwyst survived largely on the plentiful fruit found on this trail. Her magic was so powerful that echoes of her presence still mark the path, as those who travel it can still hear her faint, chipper singing.
 
-### Dry Riverbed, Tree Carvings
+### Dry Riverbed, Fresh Spiderwebs
 
-A river once ran through West end of the forest, but dried up after the witch died. Her runes still mar the surface of some trees here.
+A river once ran through West end of the forest, but dried up after a drought. Giant spiders travel the path as they make their way to **8**, spinning their web along the trail.
 
 ### Hunter's Track, Damaged Flora
 
@@ -430,7 +430,7 @@ A wooden **cabin** sits atop a small hill, heavy furs in place of a **door**. Sm
 Very austere, with only a simple **cot** and small dining **table**.
   
 - **Cot**: Speckled with green moss and twigs. Smells faintly of rain.
-  - The floor beneath the cot is thick with green moss. If Dormin places his hands on the moss it falls away, revealing an underground tunnel to **4**. _The tunnel does not exist prior to this moment_.
+  - The floor beneath the cot is thick with green moss. If Dormin places his hands on the moss it falls away, revealing an underground tunnel to **4**. Only Dormin can activate this passage.
 - **Table**: On the table is a fully prepared meal of roast duck and root vegetables equal to a full meal for 2.
   - A gift from Anglwyst. If eaten the meal on the table will reform in d12 hours. 
 
@@ -438,7 +438,7 @@ Very austere, with only a simple **cot** and small dining **table**.
 
 12 HP, 2 Armor, 13 STR, 15 DEX, 17 WIL, yew bow (d8)
 
-- A cantankerous, mossy old man. Knows of a hidden, magical from his home at **3** to **4**. No one but him can navigate this path.
+- A cantankerous, mossy old man.
 - If he is injured, the Wood will protect and even heal him. Each time he dies, he returns more green than before.
 - Would like to stop the _Withering_, but cannot enter **6** due to his pact with Anglwyst. As a test of their honor and skill he will ask the party for help expelling the Giant Spiders at **9**.
   - If the party successfully completes their first task, he will give them his **Pendant of Karnon**, and the promise of further riches if they can undo the magic that is ravaging the forest at **6**. 
@@ -479,10 +479,11 @@ Lavishly decorated. A tall wooden **barrel** is set near the North fireplace, a 
 
 **Monster**: _Grizzly_, _Guarding_
 
-A long **tree** lays across a small glade at the intersection of two trails. A sharp **cliff** to the South offers a steep climb to the bottom.
+A long **tree** lays across a small glade at the intersection of two **trails**. A sharp **cliff** to the South offers a steep climb to the bottom.
 
 - **Tree**: Enormous and at least partially hollowed out. Bear prints mark the East entrance. 
   - A Grizzly Bear and her three cubs make this tree their den. In the winter they hibernate, but any other time they are awake. The mother will attack anyone entering the tree regardless (skip the reaction roll). 
+- **Trails**: Broken leaves and tree rubbings on the trail are clear evidence of the bear's habitation.
 - **Cliff**: Metal hoops are pounded into the cliff face.
   - Installed when the forest was still being logged, but still solid. Perfect for ropes. 
 
@@ -494,7 +495,7 @@ A long **tree** lays across a small glade at the intersection of two trails. A s
 - Prefer to eat fish and meat, and will attack the rare unfortunate who crosses their path.
 - **Critical Damage**: Bite the targeting for an additional d6 STR damage. The target bleeds out very quickly.
 
-### 6 - 
+### 6 - Gray Sanctuary
 
 **Hazard**: _Frozen Troll_, _A Spell Gone Wrong_
 
@@ -522,23 +523,47 @@ A gray forest **sanctuary** stands at the intersection of four trails. In its ce
 - If killed they will slowly regenerate unless their corpse is taken out of the forest, or burned with fire.
 - **Critical Damage**: Moss and twigs begin growing out of target's wounds.
 
-### 7 - 
+### 7 - Flooded Monastery
 
-**Monster**: _Skeleton_, _Scouting_
+**Ruins**: _Flooded Monastery_, _Warded Grounds_
 
-### 8 - 
+A cluster of squat, flooded **buildings** rise out of a small pond, their roofs still intact. The Eastern path is lined with **stones** as far as the eye can see.
 
-**Ruins**: _Flooded Monastery_, _Broken Portal_
+- **Buildings**: Ornate and subtly beautiful, with forest motifs carved into their eaves.
+  - A former abbey, destroyed after the dam at **8** was destroyed. The pond is all that remains of the original river.
+- **Stones**
 
 #### _Yearning Path_
 
 - Shows the shortest path to the object of a heart's _true_ desire. _Smells of lavender and saffron. Grows heavier with use: add an extra Fatigue each time it is used._
 
+### 8 - Dead River
+
+**Hazard**: _Giant Spider Nest_, _Injured Creature_
+
+A black **boar** limps noisily near a large, **mass** of black thread and trees. Fat, desiccated **carcasses** hang in spun silk from the treetops. A dry **riverbed** to the South is filled with piles of wood. 
+
+- **Boar**: Half-wrapped in thick black silk, it mews plaintively. 
+  - Poisoned by the spider bite in its hind quarters. If the party comes to its aid the Wood will remember.
+- **Mass**: Threads of thick black silk hold together a 10ft pile of wood.
+  - The nest is home to 3 **Black Silk Spiders**. They will attack anyone that that interacts with their food, or gets too close to their nest. 
+  - 200gp of black silk can be carefully gathered from the nest. It makes a fine rope (about 60ft) that is also incredibly strong, and is sought after for its hydrophobic qualities.
+- **Carcasses**: Mostly animal corpses. A human shape is visible through the black webbing.
+  - The human was a hunter that ignored Dormin's warnings and hunted North of the _Hunter's Track_. On the corpse are Rations (2 uses left), 33gp, and a hip-knife (d6).
+- **Riverbed**: Large piles of wood are thrown about. Bits of black silk can be seen tied around the longer pieces.
+  - A former beaver dam that kept the water to a trickle. The spiders brought the damn down to build their nest. The subsequent flooding destroyed the monastery at **7**, but the river only dried up after a drought earlier this year. 
+
+#### Boar
+
+4 HP, 12 STR, 5 DEX, 6 WIL, tusks (d6+d6)
+
+#### **Black Silk Spider**
+
+4 HP, 4 STR, 13 DEX, 5 WIL, bite (d8)
+
+- **Critical Damage:** Poison paralyzes the victim and deals an additional d4 DEX damage. The victim is then dragged to the spider's nest to be eaten.
+
 ### 9 - 
-
-**Hazard**: _Giant Spider Nest_, Bird Spies
-
-### 10 - 
 
 **Shelter**: _Fishing Hut_, _Occupied by Army Deserters_ [Exit]
 
