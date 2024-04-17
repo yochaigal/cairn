@@ -92,7 +92,7 @@ Roll 2d20 and combine the results.
 | **5**   | Cultivating | Dominating     |
 | **6**   | Empathic    | Doubtful       |
 | **7**   | Enduring    | Invasive       |
-| **8**   | Graceful    | Judgemental    |
+| **8**   | Graceful    | Judgmental     |
 | **9**   | Hardy       | Naive          |
 | **10**  | Harmonious  | Obscuring      |
 | **11**  | Independent | Overzealous    |
@@ -348,7 +348,7 @@ The spirit of the forest wants nothing more than to purify itself of the disease
 
 ### Forest Theme
 
-For decades, order and stability of the forest was kept in check through an agreement between the forest witch **Anglwyst** and **Dormin**, the Wood's champion. The witch would use her magic to keep the trees and animals healthy, while the champion would ensure that hunters only kill creatures deemed expendable, indicated by a shock with white in their fur. The pact was magical and impermeable, and the forest was divided, barring both the witch nor the champion from crossing its boundary.
+For decades, order and stability of the forest was kept in check through an agreement between the forest witch **Anglwyst** and **Dormin**, the Wood's champion. The witch would use her magic to keep the trees and animals healthy, while the champion would ensure that hunters never kill any creatures deemed essential to the Wood (indicated by a shock with white in their fur). Their pact was permanent and impermeable, and the forest was divided, barring both the witch nor the champion from crossing its boundary.
 
 After the old witch died, one of her spells grew wild, then dangerous. Now a magical disease has begun to infect the trees and creatures, threatening to consume the entire forest. Hunters call it the _Withering_, as the magic petrifies and then freezes everything it touches.
 
@@ -356,7 +356,7 @@ After the old witch died, one of her spells grew wild, then dangerous. Now a mag
 
 ### Old Logging Road, Fresh Spiderwebs. 
 
-The path between **1** and **5** is blocked by a broad cliff face, requiring climbing gear to ascend.  Giant spiders travel the hidden path between **9** and **6**, spinning their web all along the trail.
+The path between **1** and **5** is blocked by a broad cliff face, requiring climbing gear to ascend. Giant spiders travel the hidden path between **9** and **6**, spinning their web along the trail.
 
 ### Treeline Heights, Stone Piles
 
@@ -364,15 +364,15 @@ The ancient monks at **8** once climbed this path daily to pay their respects in
 
 ### Foraging Path, Distant Singing
 
-An old Witch once survived purely from the plentiful fruit on this trail. Her magic has outlived her now, including her obedient two-legged hut, the strange weather in **6**, and the faint sounds of an woman singing a lullaby.
+Anglwyst survived largely on the plentiful fruit found on this trail. Her magic was so powerful that echoes of her presence still mark the path, as those who travel it can still hear her faint, chipper singing.
 
 ### Dry Riverbed, Tree Carvings
 
 A river once ran through West end of the forest, but dried up after the witch died. Her runes still mar the surface of some trees here.
 
-### Hunter's Track, Peripheral Images
+### Hunter's Track, Claw Marks
 
-The hermit of **3** still hunts along this trail, obeying the laws of old. He is over 200 years old, and doesn't plan on dying until he's good and ready. Sometimes visions of him as a younger - and happier - man appear along the path, just out of sight. They vanish just as soon as they appear.
+Dormin allows outsiders to hunt their quarry on this trail and no other, so long as they never kill any creature with white in their fur.
 
 ### POIs
 
@@ -414,14 +414,16 @@ A rounded copse of vermilion **trees** surround a wide **puddle** of bubbling sa
 
 **Shelter**: _Hermit's Cabin_, _Presents a Ready Meal_
 
-A wooden **cabin** sits atop a small hill, heavy furs in place of a **door**. A tall **rack** is installed on the East end.
+A wooden **cabin** sits atop a small hill, heavy furs in place of a **door**. Small **logs** are arranged in rows on the West side of the building, and a tall **rack** is installed on the East wall.
 
 - **Cabin**: There is a 3-in-6 chance that Dormin is here. Otherwise, he is out hunting.
 - **Door**: A ring of white dust is sprinkled across the doorway. 
   - If the dust is disturbed in any way, Dormin will know and make his way to the cabin.
+- **Logs**: Arranged in rows of four by four. 
+  - A stained outline of an animal (bear, rabbit, beaver, etc.) is drawn on each. 
+  - A drop of white is painted on the rabbit. It looks new.
 - **Rack**: Various animal skins (deer, boar, and beaver) are stretched tightly across, drying. 
-  - The animals all share a single shock of white fur somewhere on their skin.
-  - Stitched together the skins are equal to two sets of protective clothing (1 Armor), and are highly resistent to environmental damage.
+  - Stitched together the skins are equal to two sets of protective clothing (1 Armor), and are highly resistant to environmental damage.  
 
 #### Inside the Cabin
 
@@ -473,12 +475,30 @@ Lavishly decorated. A tall wooden **barrel** is set near the North fireplace, a 
   - **String**: Goods of rare and extinct quality. Worth 500gp to the right buyer. 
     - A mandrake root hangs from the string. If fed water daily it will openly declare a lie when it hears one. Scream loudly if cut.
 
-### 5 - 
+### 5 - Tree at the Crossroads
 
-**Monster**: _Grizzly_, _Prowling_
+**Monster**: _Grizzly_, _Guarding_
+
+A long **tree** lays across a small glade at the intersection of two trails. A sharp **cliff** to the South offers a steep climb to the bottom.
+
+- **Tree**: Enormous and at least partially hollowed out. Bear prints mark the East entrance. 
+  - A Grizzly Bear and her three cubs make this tree their den. In the winter they hibernate, but any other time they are awake. The mother will attack anyone entering the tree regardless (skip the reaction roll). 
+- **Cliff**: Metal hoops are pounded into the cliff face.
+  - Installed when the forest was still being logged, but still solid. Perfect for ropes. 
+
+#### Grizzly Bear
+
+6 HP, 15 STR, 13 DEX, 5 WIL, claws (d8+d8)
+
+- Reddish-brown bears commonly found in mountains, woodlands, and prairies. 
+- Prefer to eat fish and meat, and will attack the rare unfortunate who crosses their path.
+- **Critical Damage**: Bite the targeting for an additional d6 STR damage. The target bleeds out very quickly.
+
+### 6 - 
+
+**Hazard**: _Frozen Troll_, _Highly Localized Weather_
 
 
-6 - Hazard: Frozen Troll, Highly localized weather
 7 - Monster: Skeleton, scouting
 8 - Ruins: Flooded monastery, broken portal
 
