@@ -184,18 +184,18 @@ Roll 2d20 and combine the results.
 | **1**   | Animal Path        | Bear Rubbings      |
 | **2**   | Bandit's Run       | Bent Trees         |
 | **3**   | Bouldered Way      | Claw Marks         |
-| **4**   | Cloistered Grove   | Deer Tracks        |
-| **5**   | Deer Crossing      | Distant Singing    |
-| **6**   | Dry Riverbed       | Faint Laughter     |
-| **7**   | Fae Passage        | Fox Prints         |
-| **8**   | Farm Trail         | Fresh Spiderwebs   |
-| **9**   | Foraging Path      | Giant Feathers     |
-| **10**  | Hunter's Track     | Glowing Toadstools |
-| **11**  | King's March       | Muted Bells        |
-| **12**  | Merchant's Road    | Peripheral Images  |
-| **13**  | Old Logging Road   | Rabbit Droppings   |
-| **14**  | Orchard Path       | Serpent Traces     |
-| **15**  | Pilgrim's Footpath | Silence            |
+| **4**   | Cloistered Grove   | Damaged Flora      |
+| **5**   | Deer Crossing      | Deer Tracks        |
+| **6**   | Dry Riverbed       | Distant Singing    |
+| **7**   | Fae Passage        | Faint Laughter     |
+| **8**   | Farm Trail         | Fox Prints         |
+| **9**   | Foraging Path      | Fresh Spiderwebs   |
+| **10**  | Hunter's Track     | Giant Feathers     |
+| **11**  | King's March       | Glowing Toadstools |
+| **12**  | Merchant's Road    | Muted Bells        |
+| **13**  | Old Logging Road   | Peripheral Images  |
+| **14**  | Orchard Path       | Rabbit Droppings   |
+| **15**  | Pilgrim's Footpath | Serpent Traces     |
 | **16**  | Spore Saturated    | Smoke              |
 | **17**  | Sticky Sap Path    | Stillness          |
 | **18**  | Trail Tree         | Stone Piles        |
@@ -354,7 +354,7 @@ After the old witch died, one of her spells grew wild, then dangerous. Now a mag
 
 ## Trails 
 
-### Old Logging Road, Fresh Spiderwebs. 
+### Old Logging Road, Fresh Spiderwebs 
 
 The path between **1** and **5** is blocked by a broad cliff face, requiring climbing gear to ascend. Giant spiders travel the hidden path between **9** and **6**, spinning their web along the trail.
 
@@ -370,7 +370,7 @@ Anglwyst survived largely on the plentiful fruit found on this trail. Her magic 
 
 A river once ran through West end of the forest, but dried up after the witch died. Her runes still mar the surface of some trees here.
 
-### Hunter's Track, Claw Marks
+### Hunter's Track, Damaged Flora
 
 Dormin allows outsiders to hunt their quarry on this trail and no other, so long as they never kill any creature with white in their fur.
 
@@ -498,15 +498,23 @@ A long **tree** lays across a small glade at the intersection of two trails. A s
 
 **Hazard**: _Frozen Troll_, _Highly Localized Weather_
 
+### 7 - 
 
-7 - Monster: Skeleton, scouting
-8 - Ruins: Flooded monastery, broken portal
+**Monster**: _Skeleton_, _Scouting_
+
+### 8 - 
+
+**Ruins**: _Flooded Monastery_, _Broken Portal_
 
 #### _Yearning Path_
 
 - Shows the shortest path to the object of a heart's _true_ desire. _Smells of lavender and saffron. Grows heavier with use: add an extra Fatigue each time it is used._
 
+### 9 - 
 
-9 - Hazard: Giant Spider Nest, bird spies
-10 - Shelter: Fishing hut, Occupied by army deserters (Exit)
+**Hazard**: _Giant Spider Nest_, Bird Spies
+
+### 10 - 
+
+**Shelter**: _Fishing Hut_, _Occupied by Army Deserters_ [Exit]
 
