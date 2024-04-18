@@ -527,11 +527,12 @@ A gray forest **sanctuary** stands at the intersection of four trails. In its ce
 
 **Ruins**: _Flooded Monastery_, _Warded Grounds_
 
-A cluster of squat, flooded **buildings** rise out of a small pond, their roofs still intact. The Eastern path is lined with **stones** as far as the eye can see.
+Three flooded **buildings** sprout from the center of a small pond. Their conical roofs peak out from beneath the waters. On the North side, a dry riverbed runs directly into the pond. The Eastern path is lined with dozens of piled **stones**.
 
-- **Buildings**: Ornate and subtly beautiful, with forest motifs carved into their eaves.
-  - A former abbey, destroyed after the dam at **8** was destroyed. The pond is all that remains of the original river.
-- **Stones**
+- **Buildings**: Ornate and subtly beautiful. 
+  - A former abbey, flooded after the dam at **8** was destroyed. The pond is all that remains of the original river.
+- **Roofs**: The tallest of the three buildings -  
+- **Stones**: 
 
 #### _Yearning Path_
 
