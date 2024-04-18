@@ -243,25 +243,25 @@ Roll 2d20 and combine the results.
 |         |                     |                                        |
 | ------- | ------------------- | -------------------------------------- |
 | **d20** | **Ruin**            | **Feature**                            |
-| **1**   | Abandoned Manor     | A forest spirit, ready to die          |
-| **2**   | Broken Sundial      | A hag, foraging for ingredients        |
-| **3**   | Chipped Bell Tower  | A mirror of itself                     |
-| **4**   | Collapsed Megalith  | A self-obsessed sprite                 |
-| **5**   | Crumbled Watchtower | A silent, ghostly concert              |
-| **6**   | Decomposed Canoes   | A very tiny ruined village             |
-| **7**   | Entangled Pavilion  | Bound by an unbreakable curse          |
-| **8**   | Exposed Workshop    | Bound creature                         |
-| **9**   | Flooded Monastery   | Broken portal                          |
-| **10**  | Moldering Farmhouse | Dozens of realistic toy soldiers       |
-| **11**  | Neglected Shrine    | Hidden weapons cache                   |
-| **12**  | Overrun Estate      | Hooded Men completing a ritual         |
-| **13**  | Petrified Campsite  | Inaudible whispers from all directions |
-| **14**  | Rotted Mill         | Marked by battles of yore              |
-| **15**  | Ruined Cloister     | Overrun with unusual flora             |
-| **16**  | Rusted Market       | Remnants of a failed ritual            |
-| **17**  | Shattered Bridge    | The veil between worlds is very thin   |
-| **18**  | Splintered Obelisk  | Three corpses, fresh                   |
-| **19**  | Sunken Gazebo       | Visions of the past                    |
+| **1**   | Abandoned Manor     | A Forest Spirit, Ready To Die          |
+| **2**   | Broken Sundial      | A Hag, Foraging For Ingredients        |
+| **3**   | Chipped Bell Tower  | A Mirror Of Itself                     |
+| **4**   | Collapsed Megalith  | A Self-Obsessed Sprite                 |
+| **5**   | Crumbled Watchtower | A Silent, Ghostly Concert              |
+| **6**   | Decomposed Canoes   | A Very Tiny Ruined Village             |
+| **7**   | Entangled Pavilion  | Bound By An Unbreakable Curse          |
+| **8**   | Exposed Workshop    | Bound Creature                         |
+| **9**   | Flooded Monastery   | Broken Portal                          |
+| **18**  | Splintered Obelisk  | Fresh Corpses                          |
+| **11**  | Neglected Shrine    | Hidden Cache                           |
+| **12**  | Overrun Estate      | Hooded Men Completing A Ritual         |
+| **13**  | Petrified Campsite  | Inaudible Whispers From All Directions |
+| **14**  | Rotted Mill         | Marked By Battles Of Yore              |
+| **15**  | Ruined Cloister     | Overrun With Unusual Flora             |
+| **10**  | Moldering Farmhouse | Realistic Toy Soldiers                 |
+| **16**  | Rusted Market       | Remnants Of A Failed Ritual            |
+| **17**  | Shattered Bridge    | The Veil Between Worlds Is Thin        |
+| **19**  | Sunken Gazebo       | Visions Of The Past                    |
 | **20**  | Toppled Statue      | Warded Grounds                         |
 
 #### Shelter
@@ -350,7 +350,7 @@ The spirit of the forest wants nothing more than to purify itself of the disease
 
 For decades, order and stability of the forest was kept in check through an agreement between the forest witch **Anglwyst** and **Dormin**, the Wood's champion. The witch would use her magic to keep the trees and animals healthy, while the champion would ensure that hunters never kill any creatures deemed essential to the Wood (indicated by a shock with white in their fur). Their pact was permanent and impermeable, and the forest was divided, barring both the witch nor the champion from crossing its boundary.
 
-After the old witch died, one of her spells grew wild, then dangerous. Now a magical disease has begun to infect the trees and creatures, threatening to consume the entire forest. Hunters call it the _Withering_, as the magic petrifies and then freezes everything it touches.
+After the old witch died, one of her spells grew wild, then dangerous. Now a magical disease has begun to infect the trees and creatures, threatening to consume the entire forest. Hunters call it the _Withering_, as the magic drains the life of everything it touches.
 
 ## Trails 
 
@@ -360,7 +360,7 @@ The path between **1** and **5** is blocked by a broad cliff face, requiring cli
 
 ### Treeline Heights, Stone Piles
 
-The ancient monks at **7** once climbed this path daily to pay their respects in the crystal chambers of **2**. They left piles of stone alongside the path for each of their fallen members.
+The monks at **7** left piles of stone alongside the path for each of their fallen members.
 
 ### Foraging Path, Distant Singing
 
@@ -501,14 +501,14 @@ A long **tree** lays across a small glade at the intersection of two **trails**.
 
 A gray forest **sanctuary** stands at the intersection of four trails. In its center two enormous **statues** are appear to be wrestling.
 
-- **Sanctuary**: All nearby plant life is petrified and dull, as if all color has been bled away.
+- **Sanctuary**: All nearby plant life is lifeless and dull, as if all color has been bled away.
   - The air shimmers with magic, emanating most strongly above the two statues.
-  - The _Withering_ effect is evident even before entering the clearing, as the petrification process has begun to spread in all directions.
+  - The _Withering_ effect is evident even before entering the clearing, as the _Withering_ has begun to spread in all directions.
   - Plant matter brought into the clearing will soon begin to petrify, even without direct contact.
 - **Statues**: Two wood trolls are fighting over a shiny object held high in the air by the larger of the two.
   - The object is a **Yore Glass**, a mirror Relic whose magic has disrupted the delicate spell that once made this place a verdant haven for forest life.
   - The Witch's spell can only be disrupted by removing the mirror from the area, or by destroying it completely. It is tightly held by the statue, but can be removed by the application of grease, or by breaking the troll's arm.
-  - If the spell is broken, the petrification effect will end, and the trolls will slowly awaken. They will immediately try to reclaim the mirror.
+  - If the spell is broken, the magical effect will end and the trolls will slowly awaken. They will immediately try to reclaim the mirror.
 
 #### Yore Glass
 
@@ -523,9 +523,9 @@ A gray forest **sanctuary** stands at the intersection of four trails. In its ce
 - If killed they will slowly regenerate unless their corpse is taken out of the forest, or burned with fire.
 - **Critical Damage**: Moss and twigs begin growing out of target's wounds.
 
-### 7 - Flooded Monastery
+### 7 - Flooded Abbey
 
-**Ruins**: _Flooded Monastery_, _Warded Grounds_
+**Ruins**: _Flooded Monastery_, _Hidden Cache_
 
 Three flooded **buildings** sprout from the center of a small pond, their **conical** roofs peaking out from beneath the waters. On the North side, a dry riverbed runs directly into the pond. The Eastern path is lined with dozens of piled **stones**.
 
@@ -533,7 +533,8 @@ Three flooded **buildings** sprout from the center of a small pond, their **coni
   - Flooded after the dam at **8** was destroyed. 
 - **Roofs**: The tallest of the three buildings has a glass window high above the water.
   -  The window is rusted shut, but can be pried or broken open to enter the abbey's Chapter House.
-- **Stones**: 
+- **Stones**: Piled along the Southern side of the Eastern path. Names are engraved on most.
+  - The monks left piles of stone alongside the path for each of their fallen members.
 
 #### Chapter House
 
@@ -575,7 +576,7 @@ A black **boar** limps noisily near a large, **mass** of black thread and trees.
 
 - **Critical Damage:** Poison paralyzes the victim and deals an additional d4 DEX damage. The victim is then dragged to the spider's nest to be eaten.
 
-### 9 - 
+### 9 - Fishing Hut
 
 **Shelter**: _Fishing Hut_, _Occupied by Army Deserters_ [Exit]
 
