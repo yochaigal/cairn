@@ -274,14 +274,14 @@ Roll 2d20 and combine the results.
 | ------- | ----------------- | ---------------------------------- |
 | **d20** | **Shelter**       | **Feature**                        |
 | **1**   | Bandit Hideout    | Abandoned, For Now                 |
-| **2**   | Falconer'S Tower  | Attracts Wild Beasts               |
-| **3**   | Fishing Shack     | Built In Defiance Of Customs       |
+| **2**   | Falconer's Tower  | Attracts Wild Beasts               |
+| **3**   | Fishing Hut       | Built In Defiance Of Customs       |
 | **4**   | Forgotten Ruins   | Constructed Within A Giant Tree    |
 | **5**   | Hermit'S Cabin    | Forest-Knight Offers A Challenge   |
 | **6**   | Hidden Village    | Guarded By Trained Animals         |
 | **7**   | Hillside Cave     | Haunted By Unhelpful Ghosts        |
 | **8**   | Hollow Tree       | Hides A Powerful Artifact          |
-| **9**   | Hunter'S Lodge    | Hunting Is Forbidden               |
+| **9**   | Hunter's Lodge    | Hunting Is Forbidden               |
 | **10**  | Hut With Legs     | Inhabited By A Supernatural Entity |
 | **11**  | Ivy-Wrapped Tower | Occupied By Army Deserters         |
 | **12**  | Lean-To           | Overrun With Cultists              |
@@ -290,7 +290,7 @@ Roll 2d20 and combine the results.
 | **15**  | Mossy Pool        | Pig Folk Hunting Grounds           |
 | **16**  | Night Market      | Popular With Smugglers             |
 | **17**  | Pale Folk Stable  | Presents A Ready-To-Eat Meal       |
-| **18**  | Ranger'S Outpost  | Protected By A Playful Spirit      |
+| **18**  | Ranger's Outpost  | Protected By A Playful Spirit      |
 | **19**  | Smoky Cabin       | Site Of An Ancient Murder          |
 | **20**  | Tattered Windmill | Thieves' Camp                      |
 
@@ -548,7 +548,7 @@ Three flooded **buildings** sprout from the center of a small pond, their **coni
 
 #### _Yearning Path_
 
-- Shows the shortest path to the object of a heart's _true_ desire. _Smells of lavender and saffron. Grows heavier with use: add an extra Fatigue each time it is used._
+- Shows the shortest path to the object of a heart's _true_ desire. _Smells of lavender. Adds an extra Fatigue if read more than once per day. The process is cumulative._
 
 ### 8 - Dead River
 
@@ -580,3 +580,9 @@ A black **boar** limps noisily near a large, **mass** of black thread and trees.
 
 **Shelter**: _Fishing Hut_, _Occupied by Army Deserters_ [Exit]
 
+A ramshackle **hut** sits bestride a small **lake** on the forest's Northern edge. **Smoke** streams from its roof, and shouting **voices** echo against the trees along the South side.
+
+- **Hut**: 
+- **Lake**:
+- **Smoke**:
+- **Voices**: 
