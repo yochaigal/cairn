@@ -527,12 +527,23 @@ A gray forest **sanctuary** stands at the intersection of four trails. In its ce
 
 **Ruins**: _Flooded Monastery_, _Warded Grounds_
 
-Three flooded **buildings** sprout from the center of a small pond. Their conical roofs peak out from beneath the waters. On the North side, a dry riverbed runs directly into the pond. The Eastern path is lined with dozens of piled **stones**.
+Three flooded **buildings** sprout from the center of a small pond, their **conical** roofs peaking out from beneath the waters. On the North side, a dry riverbed runs directly into the pond. The Eastern path is lined with dozens of piled **stones**.
 
-- **Buildings**: Ornate and subtly beautiful. 
-  - A former abbey, flooded after the dam at **8** was destroyed. The pond is all that remains of the original river.
-- **Roofs**: The tallest of the three buildings -  
+- **Buildings**: Archaic, with subtly beautiful religious iconography. Obviously an abbey.
+  - Flooded after the dam at **8** was destroyed. 
+- **Roofs**: The tallest of the three buildings has a glass window high above the water.
+  -  The window is rusted shut, but can be pried or broken open to enter the abbey's Chapter House.
 - **Stones**: 
+
+#### Chapter House
+
+**Tapestries** line the walls of this circular room, its wooden **floor** all but rotted away from water damage. A collapsed barrister on the Southwest side is all that remains of the flooded **stairwell** down into the rest of the building. 
+
+- **Tapestries**: Moldy and unsalvageable.
+  - Originally depicted the abbey in its former glory, and the monks who lived here.
+- **Floor**: One of the wooden boards is less withered than the others. It smells faintly of something floral.
+  - Below the board is a hidden Spellbook, _Yearning Path_.
+- **Stairwell**: Completely underwater. The rooms below contain only floating corpses and ruined books.
 
 #### _Yearning Path_
 
