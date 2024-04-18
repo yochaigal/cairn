@@ -367,7 +367,7 @@ Roll 2d20 and combine the results.
 | **19**  | Shocks     | Touching      |
 | **20**  | Shoots     | Tripping      |
 
-## Dungeon Example
+## Example Dungeon
 
 For this example, let's assume we are looking at a POI generated using the methods described in the Setting Seeds chapter. Our relevant results were:
 
@@ -424,7 +424,7 @@ _Hidden deep within the dungeon is a Relic called the **Woodturn**. It is capabl
 
 ### Map
 
-[![Click Me!](/img/2e/dungeon-seed-example-1.webp "Click to embiggen"){:height="60%" width="60%"}](/img/2e/dungeon-seed-example-1.webp)
+[![Click Me!](/img/2e/dungeon-seed-example.webp "Click to embiggen"){:height="60%" width="60%"}](/img/2e/dungeon-seed-example.webp)
 
 ### The Fractured Temple
 
