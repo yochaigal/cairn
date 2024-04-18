@@ -580,9 +580,12 @@ A black **boar** limps noisily near a large, **mass** of black thread and trees.
 
 **Shelter**: _Fishing Hut_, _Occupied by Army Deserters_ [Exit]
 
-A ramshackle **hut** sits bestride a small **lake** on the forest's Northern edge. **Smoke** streams from its roof, and shouting **voices** echo against the trees along the South side.
+A ramshackle **hut** built astride a small **lake** to the North. **Smoke** streams from a cooking rack on the West side, and loud **voices** echo through the South-facing window.
 
-- **Hut**: 
-- **Lake**:
-- **Smoke**:
-- **Voices**: 
+- **Hut**: Built from simple logs tied together with rope, which appears fresh. Fishing wire can be seen leading out of the North side and into the lake.
+- **Lake**: Placid, but filled with bugs. A path on the West side leads away from the forest.
+  - The lake hasn't been fished for some time, and has become overpopulated. Fishing is easy pickings.
+- **Smoke**: Spills from a wooden cooking rack adjacent to a pile of fried fish (4 x Rations, 3 uses each). 
+- **Voices**: Laughing and muffled speech. At least two voices can be heard from inside.
+  - There are three ex-soldiers squatting in this hut. They are pacifists that were forcibly conscripted into military service. They are seeking refuge in the abbey at **7**, but haven't made it that far yet. They are jovial, kind-hearted and absolute cowards. 
+  - They know little about the forest, other than that there used to be a river running South from the lake that ended somewhere near an abbey.
