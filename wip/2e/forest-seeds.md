@@ -11,7 +11,7 @@ grand_parent: WIP
 
 ## Forestcrawls
 
-A forestcrawl is a simple method for exploring a large forested area, typically made up of branching trails connecting scattered points of interest. While a forestcrawl has some of the same properties as a traditional dungeon delve, it swaps stone walls and ceilings for the dense, non-linear design of a heavily wooded area. Instead of rooms, points of interest are defined as clearings or major changes in the forested landscape. However unlike exploring a dungeon, characters can go take shortcuts, go "off-trail," or climb trees to get a better look ahead (with a cost, of course).   
+A forestcrawl is a simple method for exploring a large forested area, typically made up of branching trails connecting scattered points of interest. While a forestcrawl has some of the same properties as a traditional dungeon delve, it swaps stone walls and ceilings for the dense, non-linear design of a heavily wooded area. Instead of rooms, points of interest are defined as clearings or major changes in the forested landscape. However unlike exploring a dungeon, characters can take shortcuts, go "off-trail," or climb trees to get a better look around (with a cost, of course).
 
 ### Exploring The Wood
 
@@ -76,7 +76,7 @@ Roll 2d20 and combine the results.
 
 ## The Spirit of the Forest
 
-In some ways the Wood is a single entity, its brain alive within every tree and plant, connected via a network of thorn and branch. The animals and plants are its limbs, directing the wants, desires, fears, and needs. The creatures that live within its boundaries are its blood, answering its call by delivering much needed defenses and rebuffing interlopers. The Wood will always protect itself, and its children. Roll on the [Traits](#traits) and [Forest Agenda](#forest-agenda) tables, writing the results in your notebook. This describes the general attitude of the creatures found in the forest as well as what the forest _wants_ as a whole.
+In some ways the Wood is a single entity, its brain alive within every tree and plant, connected via a network of thorn and branch. The animals and plants are its limbs, directing its wants, desires, fears, and needs. The creatures that live within its boundaries are its blood, answering its call by delivering much needed defenses and rebuffing interlopers. The Wood will always protect itself, and its children. Roll on the [Traits](#traits) and [Forest Agenda](#forest-agenda) tables, writing the results in your notebook. This describes the general attitude of the creatures found in the forest as well as what the forest _wants_ as a whole.
 
 ### Traits
 
@@ -277,7 +277,7 @@ Roll 2d20 and combine the results.
 | **2**   | Falconer's Tower  | Attracts Wild Beasts               |
 | **3**   | Fishing Hut       | Built In Defiance Of Customs       |
 | **4**   | Forgotten Ruins   | Constructed Within A Giant Tree    |
-| **5**   | Hermit'S Cabin    | Forest-Knight Offers A Challenge   |
+| **5**   | Hermit's Cabin    | Forest-Knight Offers A Challenge   |
 | **6**   | Hidden Village    | Guarded By Trained Animals         |
 | **7**   | Hillside Cave     | Haunted By Unhelpful Ghosts        |
 | **8**   | Hollow Tree       | Hides A Powerful Artifact          |
@@ -348,9 +348,9 @@ The spirit of the forest wants nothing more than to purify itself of the disease
 
 ### Forest Theme
 
-For decades, order and stability of the forest was kept in check through an agreement between the forest witch **Anglwyst** and **Dormin**, the Wood's champion. The witch would use her magic to keep the trees and animals healthy, while the champion would ensure that hunters never kill any creatures deemed essential to the Wood (indicated by a shock with white in their fur). Their pact was permanent and impermeable, and the forest was divided, barring both the witch nor the champion from crossing its boundary.
+For decades, order and stability of the forest was kept in check through an agreement between the forest witch **Anglwyst** and **Sweeney**, the Wood's champion. The witch would use her magic to keep the trees and animals healthy, while the champion would ensure that hunters never kill any creatures deemed essential to the Wood (indicated by a shock of white in their fur). Their pact was permanent and immalleable, and the forest was divided, barring both the witch nor the champion from crossing its boundary.
 
-After the old witch died, one of her spells grew wild, then dangerous. Now a magical disease has begun to infect the trees and creatures, threatening to consume the entire forest. Hunters call it the _Withering_, as the magic drains the life of everything it touches.
+After the old witch died, one of her spells grew wild, then dangerous. Now a magical disease has begun to infect the trees and creatures, threatening to consume the entire forest. Hunters call it the _Withering_, because it drains the life of everything it touches.
 
 ## Trails 
 
@@ -364,15 +364,15 @@ The monks at **7** left piles of stone alongside the path for each of their fall
 
 ### Foraging Path, Distant Singing
 
-Anglwyst survived largely on the plentiful fruit found on this trail. Her magic was so powerful that echoes of her presence still mark the path, as those who travel it can still hear her faint, chipper singing.
+Anglwyst survived largely on the plentiful fruit found on this trail. Her magic was so powerful that echoes of her presence still mark the path: those who travel it can still hear her faint, chipper singing.
 
 ### Dry Riverbed, Fresh Spiderwebs
 
-A river once ran through West end of the forest, but dried up after a drought. Giant spiders travel the path as they make their way to **8**, spinning their web along the trail.
+A river once ran through the West end of the forest, but it dried up after a drought. Giant spiders travel the path as they make their way to **8**, spinning their web along the trail.
 
 ### Hunter's Track, Damaged Flora
 
-Dormin allows outsiders to hunt their quarry on this trail and no other, so long as they never kill any creature with white in their fur.
+Sweeney allows outsiders to hunt their quarry on this trail and no other, so long as they never kill any creature with white in their fur.
 
 ### POIs
 
@@ -382,7 +382,7 @@ Dormin allows outsiders to hunt their quarry on this trail and no other, so long
 
 At the forest edge is a dead **campfire** with piles of dark gray **bedding** laid out close by. Plants, flowers, and other **flora** grow thickly over the campsite. A **trail** to the **North** leads into the forest. 
 
-- **Campfire**: The remaining wood is stained a deep gray and very cold to the touch and as hard as iron.
+- **Campfire**: The remaining wood is stained a deep gray, is very cold to the touch, and is as hard as iron.
 - **Bedding**: Splinters of gray wood are stuck in the cloth.
   - Icy cold to the touch. The space beneath the cloth is partly blue and red, but gray circles grow out of the wood flecks. 
 - **Flora**: Rare and unique species not common to these parts.
@@ -400,7 +400,7 @@ A rounded copse of vermilion **trees** surround a wide **puddle** of bubbling sa
 - **Puddle**: 12ft of sticky sap.
   - Ankle-high and extremely sticky. Irritates the skin.
 - **Object**: Appears crystalline in nature.
-  - Very slippery. Very difficult and time-consuming to extract without adequate tools (gloves, a pole, etc.).
+  - Very slippery. Difficult and time-consuming to extract without adequate tools (gloves, a pole, etc.).
   - Trapped inside the crystal is the spirit of a familiar called **Gundersnatch**.
   - If shattered, the shadow of a great bird will rise above the party, then disappear. Any characters with the _deprived_ condition will have it resolved. 
 
@@ -408,17 +408,17 @@ A rounded copse of vermilion **trees** surround a wide **puddle** of bubbling sa
 
 - Can communicate telepathically with anyone holding the crystal. 
   - Will plead for anyone to destroy the crystal (a good whack with something hard will do it). 
-  - In exchange for his freedom he will reveal [*insert hint to undoing the weather/disease*]   
+  - In exchange for his freedom he will give the party a black feather, telling them that with it they can enter the Anglwyst's Chicken Hut at **4**.
 
-### 3 - Dormin's Cabin
+### 3 - Sweeney's Cabin
 
 **Shelter**: _Hermit's Cabin_, _Presents A Ready Meal_
 
 A wooden **cabin** sits atop a small hill, heavy furs in place of a **door**. Small **logs** are arranged in rows on the West side of the building, and a tall **rack** is installed on the East wall.
 
-- **Cabin**: There is a 3-in-6 chance that Dormin is here. Otherwise, he is out hunting.
+- **Cabin**: There is a 3-in-6 chance that Sweeney is here. Otherwise, he is out hunting.
 - **Door**: A ring of white dust is sprinkled across the doorway. 
-  - If the dust is disturbed in any way, Dormin will know and make his way to the cabin.
+  - If the dust is disturbed in any way, Sweeney will know and make his way to the cabin.
 - **Logs**: Arranged in rows of four by four. 
   - A stained outline of an animal (bear, rabbit, beaver, etc.) is drawn on each. 
   - A drop of white is painted on the rabbit. It looks new.
@@ -430,19 +430,19 @@ A wooden **cabin** sits atop a small hill, heavy furs in place of a **door**. Sm
 Very austere, with only a simple **cot** and small dining **table**.
   
 - **Cot**: Speckled with green moss and twigs. Smells faintly of rain.
-  - The floor beneath the cot is thick with green moss. If Dormin places his hands on the moss it falls away, revealing an underground tunnel to **4**. Only Dormin can activate this passage.
+  - The floor beneath the cot is thick with green moss. If Sweeney places his hands on the moss it falls away, revealing an underground tunnel to **4**. Only Sweeney can activate this passage.
 - **Table**: On the table is a fully prepared meal of roast duck and root vegetables equal to a full meal for 2.
   - A gift from Anglwyst. If eaten the meal on the table will reform in d12 hours. 
 
-#### Dormin
+#### Sweeney
 
 12 HP, 2 Armor, 13 STR, 15 DEX, 17 WIL, yew bow (d8)
 
 - A cantankerous, mossy old man.
 - If he is injured, the Wood will protect and even heal him. Each time he dies, he returns more green than before.
 - Would like to stop the _Withering_, but cannot enter **6** due to his pact with Anglwyst. As a test of their honor and skill he will ask the party for help expelling the Giant Spiders at **9**.
-  - If the party successfully completes their first task, he will give them his **Pendant of Karnon**, and the promise of further riches if they can undo the magic that is ravaging the forest at **6**. 
-  - If the party is able to disrupt the _Withering_, he will show them the secret path to **4**, and opens the hut.
+  - If the party successfully completes their first task he will give the party a **Pendant of Karnon**, and the promise of further riches if they can undo the magic that is ravaging the forest at **6**. 
+  - If the party is able to disrupt the _Withering_, he will open the secret path to **4**, telling them that they may enter the hut there.
   
 #### Pendant of Karnon
 
@@ -455,23 +455,23 @@ Very austere, with only a simple **cot** and small dining **table**.
 A cylindrical, chimneyed **hut** covered in thick **foliage** sits at the edge fo a small clearing. A wooden **sign** is pressed into the ground at the West entrance. A long spool of **chicken wire** is installed on the North side.
 
 - **Hut**: The front-facing windows are dark, and there is no light or smoke coming from inside. 
-  - The door has no keyhole, but will only open to friends of Anglwyst (like Dormin). 
+  - The door has no keyhole, and will only open to friends of Anglwyst, Sweeney, or Gundersnatch. 
   - If the door is forced open or the hut is threatened, two legs will sprout from underneath and the hut will quickly retreat into the forest.
 - **Foliage**: Both the roof and the windows are covered in thick leafy vines. 
-  - None of the vines touch the ground, as they would be torn were hut to stand.
+  - None of the vines touch the ground, as they would be torn were the hut to stand.
 - **Sign**: Covered in vines. In red letters it says: "No Hunting Here. Harsh penalties." 
   - The witch cast a spell of protection over this place. If an animal is killed here by anyone capable of speech, their killer immediately turns to stone (no save).
-  - Nothing dangerous  will follow the party into this part of the wood. The sounds of birds and 
-- **Wire**: Encircles a small, shriveled garden. A vine-covered stone statue a young hunter stands in the middle.
+  - Nothing dangerous  will follow the party into this part of the wood.
+- **Wire**: Encircles a small, shriveled garden. A vine-covered stone statue of a young hunter stands in the middle.
   - The shocked-looking hunter (a victim of the clearing's spell) holds a limp rabbit upside-down, a knife held to its throat.
 
 #### Inside the Hut
 
 Lavishly decorated. A tall wooden **barrel** is set near the North fireplace, a long broom sticking out. A large **stove** is installed on the East wall. A **string** of herbs and root vegetables hang from the ceiling.
-  - **Barrel**: Joined by thick mortar. Empty except for the broom, and free of dust.
+  - **Barrel**: Joined by thick mortar. Free of dust and empty save for the broom.
     - The barrel can fit up to one person, and is capable of flight (use the broom to "paddle" the air). 
   - **Stove**: Warm, and large enough to sleep on. A red scarf is tied around one of the iron handle.
-    - The scarf belonged to Anglwyst, but is otherwise mundane. Dormin would love to have it.
+    - The scarf given to Anglwyst by Sweeney that is otherwise mundane. Sweeney would love to have it back.
   - **String**: Goods of rare and extinct quality. Worth 500gp to the right buyer. 
     - A mandrake root hangs from the string. If fed water daily it will openly declare a lie when it hears one. Scream loudly if cut.
 
@@ -499,7 +499,7 @@ A long **tree** lays across a small glade at the intersection of two **trails**.
 
 **Hazard**: _Frozen Troll_, _A Spell Gone Wrong_
 
-A gray forest **sanctuary** stands at the intersection of four trails. In its center two enormous **statues** are appear to be wrestling.
+A gray forest **sanctuary** stands at the intersection of four trails. In its center two enormous **statues** appear to be wrestling.
 
 - **Sanctuary**: All nearby plant life is lifeless and dull, as if all color has been bled away.
   - The air shimmers with magic, emanating most strongly above the two statues.
@@ -521,7 +521,7 @@ A gray forest **sanctuary** stands at the intersection of four trails. In its ce
 
 - Large humanoids with elongated arms made of bark or root. They live in forests, sharing a deep connection with the vegetation around them.
 - If killed they will slowly regenerate unless their corpse is taken out of the forest, or burned with fire.
-- **Critical Damage**: Moss and twigs begin growing out of target's wounds.
+- **Critical Damage**: Moss and twigs begin growing out of the target's wounds.
 
 ### 7 - Flooded Abbey
 
@@ -550,7 +550,7 @@ Three flooded **buildings** sprout from the center of a small pond, their **coni
 
 - Shows the shortest path to the object of a heart's _true_ desire. _Smells of lavender. Adds an extra Fatigue if read more than once per day. The process is cumulative._
 
-### 8 - Dead River
+### 8 - Black Mass
 
 **Hazard**: _Giant Spider Nest_, _Injured Creature_
 
@@ -559,12 +559,12 @@ A black **boar** limps noisily near a large, **mass** of black thread and trees.
 - **Boar**: Half-wrapped in thick black silk, it mews plaintively. 
   - Poisoned by the spider bite in its hind quarters. If the party comes to its aid the Wood will remember.
 - **Mass**: Threads of thick black silk hold together a 10ft pile of wood.
-  - The nest is home to 3 **Black Silk Spiders**. They will attack anyone that that interacts with their food, or gets too close to their nest. 
+  - The nest is home to 3 **Black Silk Spiders**. They will attack anyone that that interacts with their food or gets too close to their nest. 
   - 200gp of black silk can be carefully gathered from the nest. It makes a fine rope (about 60ft) that is also incredibly strong, and is sought after for its hydrophobic qualities.
 - **Carcasses**: Mostly animal corpses. A human shape is visible through the black webbing.
-  - The human was a hunter that ignored Dormin's warnings and hunted North of the _Hunter's Track_. On the corpse are Rations (2 uses left), 33gp, and a hip-knife (d6).
+  - The human was a hunter that ignored Sweeney's warnings and hunted North of the _Hunter's Track_. On the corpse are Rations (2 uses left), 33gp, and a hip-knife (d6).
 - **Riverbed**: Large piles of wood are thrown about. Bits of black silk can be seen tied around the longer pieces.
-  - A former beaver dam that kept the water to a trickle. The spiders brought the damn down to build their nest. The subsequent flooding destroyed the monastery at **7**, but the river only dried up after a drought earlier this year. 
+  - A former beaver dam that kept the water to a trickle. The spiders brought the dam down to build their nest. The subsequent flooding destroyed the monastery at **7**, but the river only dried up after a drought earlier this year. 
 
 #### Boar
 
