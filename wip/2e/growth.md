@@ -11,38 +11,46 @@ search_exclude: true
 
 ## Introduction
 
-Unlike other roleplaying games, Cairn does not reward player characters for their successes, or their failures. Nor do PCs gain experience from killing monsters, looting treasure, or exploring new places. Instead, a PC's experiences in the game world can alter their health, abilities, beliefs, bonds, and even their minds.
+Unlike other roleplaying games, Cairn does not reward player characters for their killing monsters, looting treasure, or exploring new places. Instead, it is a character's unique experience in the game world that has the potential to alter their health, abilities, beliefs, bonds, and even their minds.
 
-Just as the in-game world continues to grow and change, so do the player characters. The events, experiences, and encounters of a play session can greatly impact a PC, sometimes in undesirable ways! Keep in mind however that aside from _Scars_, growth should stem from a character's experiences in the game world. 
+Just as the in-game world continues to grow and change, so do the player characters. The events, experiences, and encounters of a play session can greatly impact a PC, sometimes in undesirable ways! Keep in mind however that with some notable exceptions (such as _Scars_,) growth should always stem from a character's experiences in the game world. 
 
 ## Principles for Growth
 
-- Growth is never arbitrary, but tied to a _specific_ experience happening in the fiction.
-- It is more important for a PC to grow more _interesting_ than more skilled, or capable.
-- PCs experience growth not just because they've gained more skill and experience, but because that experience has effected them a significant way.
+- Growth is never arbitrary, but tied to a specific experience happening in the fiction.
+- It is more important for a character to become more interesting than to become more skilled or capable.
+- Characters experience growth not simply because they've gained a new experience but because that experience has effected them a significant way.
 - Place opportunities for growth in as many places as possible.
-- Growth occurs _during play_ as often as during Downtime.
+- Characters grow as often during a play session as they do during Downtime.
 - Growth should foster further interaction with the game world and its challenges.
-- Growth is not a _reward_, but the logical result of a character's action.
-- Growth often happens when a character interacts with something they do not understand. 
+- Growth is not a reward, but the logical result of a character's actions.
+- Growth happens most often when a character interacts with something they do not understand, or something they were not _meant_ to understand.
+- Characters may change in a way that they don't like, or may gain new abilities at a cost.
+- Relics, treasure, factions, monsters, and important NPCs are all excellent potential triggers for growth.
+- Characters can change slowly over time or by amassing significant, cumulative experiences around a single type of growth. 
 
-## Downtime & Growth
+## Triggers: a Framework for Growth
 
-Downtime procedures are a great way for PCs to focus on training or specialization.
-
-## Triggers 
-
-There are many potential triggers for growth. The following is an inexhaustive list: 
+As characters engage with the game world, they are increasingly forced to change and adapt to the new realities in the fiction. Some of these adaptations are minor and rarely revisited again. Others are cumulative, representing a collection of related experiences. And some experiences are so powerful that their impact is immediate and unparalleled. For each of these it can be helpful to assign _Triggers_, or opportunities for growth. These represent significant turning points or inflections in a character's life, and should be met with a permanent and related change! There are many potential triggers for growth. The following is an inexhaustive list: 
 
 - Injury or contamination by a powerful entity
 - Exposure to a powerful Relic
 - Advancement within a Faction
 - Resolution of a Bond or Omen
-- Changed a relationship with a being of great power
-- Interacted with something dangerous, and felt its punishment
-- Overcame a long-time woe
-- Succeeded or failed despite a natural talent or ability
+- Forging a relationship with a being of great power
+- Interacting with something (someone) they do not understand
+- Overcoming a long-time woe
+- Success despite a limited talent or ability
+- Failure despite a natural talent or ability
+- Research or specialized training (typically during Downtime) 
 
+### Finding Triggers
+
+
+
+## Downtime & Growth
+
+Downtime procedures are a great way for PCs to focus on training or specialization.
 
 ### Older Examples
 
