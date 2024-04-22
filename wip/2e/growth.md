@@ -31,31 +31,23 @@ Just as the in-game world continues to grow and change, so do the player charact
 
 ## Triggers: a Framework for Growth
 
-As characters engage with the game world, they are increasingly forced to change and adapt to the new realities in the fiction. Some of these adaptations are minor and rarely revisited again. Others are cumulative, representing a collection of related experiences. And some experiences are so powerful that their impact is immediate and unparalleled. For each of these it can be helpful to assign _Triggers_, or opportunities for growth. These represent significant turning points or inflections in a character's life, and should be met with a permanent and related change! There are many potential triggers for growth. The following is an inexhaustive list: 
+As characters engage with the game world, they must increasingly adapt to new realities in the fiction. Some of these adaptations are minor and rarely revisited again. Others are cumulative, representing a collection of related experiences. And some experiences are so powerful that their impact is immediate and unparalleled. For each of these it can be helpful to assign _Triggers_, or opportunities for growth. These represent significant turning points in a character's life, and should be met with a permanent and related change! The following examples represent an inexhaustive list: 
 
 - Injury or contamination by a powerful entity
 - Exposure to a powerful Relic
 - Advancement within a Faction
 - Resolution of a Bond or Omen
 - Forging a relationship with a being of great power
-- Interacting with something (someone) they do not understand
-- Overcoming a long-time woe
+- Interacting with something (or someone) they do not understand
+- Overcoming a long-time woe or misdeed
 - Success despite a limited talent or ability
 - Failure despite a natural talent or ability
-- Research or specialized training (typically during Downtime) 
+- Research or specialized training (typically during Downtime)
+- Long-term exposure to a Spellbook or Relic 
 
-### Finding Triggers
-
+### Examples
 
 
 ## Downtime & Growth
 
-Downtime procedures are a great way for PCs to focus on training or specialization.
-
-### Older Examples
-
-- Two days of study under a former royal archer has taught you how to fire arrows more effectively. Attacks with a longbow are enhanced.
-- After two weeks' of daily practice with the _Blade of Gwoed_, you feel confident enough to use the deadly weapon in combat. Critical Damage: target loses a limb or is disemboweled (your choice).
-- Three days' worth of study under the tutelage of a skilled warrior has taught you how to never be surprised. You no longer need to make a DEX save before combat (unless the Warden says otherwise).
-- Five nights of intense study with the _Book of Curses_ has given you an edge in battle. If you insult an opponent before combat, all of their attacks against you and your friends are impaired.
-- After training with the _Mourning Monks of Es'ta_, you can now speak with the dead. You are deprived afterwards.
+Downtime procedures are a great way for PCs to focus on training, specialization, research, or faction relationships.
