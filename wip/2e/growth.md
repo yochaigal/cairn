@@ -47,6 +47,9 @@ As characters engage with the game world, they must increasingly adapt to new re
 
 ### Examples
 
+Madrigal (a Fungal Forager) has finally found the source of a nearby village's bellowing sickness: a Liverbracket infestation at the bottom of the town's well. After uprooting the fungi, he decided to keep a sample for his future endeavors. He then embarked on a ten-day journey across the Randana Lava Flats in search of a potential Gate to the Roots he'd read about while researching methods to remove this unique fungal growth. The existence of this sample had slipped his mind until many weeks later when he noticed a strange discoloration on his canteen. He was then forced to cut the canteen open, discovering that not only had the fungus spread into his water supply but that he'd been drinking the tainted water for some days. Strangely he'd been unaffected by the strange visions and less-comfortable side-effects common to ingesting the fungus, likely because the effects were being counteracted by his daily intake of Clustermelon Flower, a potent form of heat resistance needed to cross the Lava Flats. He spent a Watch rebuilding his canteen, then set out again.
+
+Three weeks later, he noticed series of small bumps on his skin, along with a familiar discoloration. 
 
 ## Downtime & Growth
 
