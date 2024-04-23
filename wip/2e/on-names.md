@@ -192,6 +192,30 @@ search_exclude: true
 1. Roll on the [Faction Names Formula](#faction-names-formula) table below.
 2. Roll on the [Adjectives](#adjectives), [Nouns](#nouns), and [Group Types](#group-types) table where appropriate. 
 
+#### Group Types
+
+|         |             |
+| ------- | ----------- |
+| **d20** | **Group**   |
+| **1**   | Assembly    |
+| **2**   | Brotherhood |
+| **3**   | Circle      |
+| **4**   | Clan        |
+| **5**   | Coalition   |
+| **7**   | Conclave    |
+| **8**   | Covenant    |
+| **10**  | Fellowship  |
+| **11**  | Guild       |
+| **12**  | Horde       |
+| **13**  | League      |
+| **14**  | Legion      |
+| **15**  | Market      |
+| **16**  | Ministry    |
+| **17**  | Movement    |
+| **18**  | Order       |
+| **19**  | Pact        |
+| **20**  | Syndicate   |
+
 #### Faction Names Formula
 
 |        |                                                    |
