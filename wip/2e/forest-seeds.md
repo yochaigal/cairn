@@ -414,15 +414,13 @@ A rounded copse of vermilion **trees** surround a wide **puddle** of bubbling sa
 
 **Shelter**: _Hermit's Cabin_, _Presents A Ready Meal_
 
-A wooden **cabin** sits atop a small hill, heavy furs in place of a **door**. Small **logs** are arranged in rows on the West side of the building, and a tall **rack** is installed on the East wall.
+Atop a small hill is a wooden **cabin**. Small **logs** are arranged in rows on the West side of the building, and a tall **rack** is installed on the East wall.
 
-- **Cabin**: There is a 3-in-6 chance that Sweeney is here. Otherwise, he is out hunting.
-- **Door**: A ring of white dust is sprinkled across the doorway. 
-  - If the dust is disturbed in any way, Sweeney will know and make his way to the cabin.
+- **Cabin**: There is a 3-in-6 chance that Sweeney is here. Otherwise, he is out hunting. A ring of white dust is sprinkled across the doorway. 
+  - If the dust is disturbed Sweeney will know, then make his way to the cabin.
 - **Logs**: Arranged in rows of four by four. 
-  - A stained outline of an animal (bear, rabbit, beaver, etc.) is drawn on each. 
-  - A drop of white is painted on the rabbit. It looks new.
-- **Rack**: Various animal skins (deer, boar, and beaver) are stretched tightly across, drying. 
+  - A stained outline of an animal (bear, rabbit, beaver, etc.) is drawn on each. A drop of white is painted on the rabbit. It looks new.
+- **Rack**: Various animal skins are stretched tightly across, drying. 
   - Stitched together the skins are equal to two sets of protective clothing (1 Armor), and are highly resistant to environmental damage.  
 
 #### Inside the Cabin
