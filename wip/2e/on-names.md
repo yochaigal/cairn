@@ -202,7 +202,7 @@ search_exclude: true
 | **3**   | Circle      |
 | **4**   | Clan        |
 | **5**   | Coalition   |
-| **6**   | Conclave    |
+| **6**   | Collective  |
 | **7**   | Covenant    |
 | **8**   | Enclave     |
 | **9**   | Fellowship  |
