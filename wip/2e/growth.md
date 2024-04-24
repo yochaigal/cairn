@@ -47,10 +47,15 @@ As characters engage with the game world, they must increasingly adapt to new re
 
 ### Examples
 
-Madrigal (a Fungal Forager) has finally found the source of a nearby village's bellowing sickness: a Liverbracket infestation at the bottom of the town's well. After uprooting the fungi, he decided to keep a sample for his future endeavors. He then embarked on a ten-day journey across the Randana Lava Flats in search of a potential Gate to the Roots he'd read about while researching methods to remove this unique fungal growth. The existence of this sample had slipped his mind until many weeks later when he noticed a strange discoloration on his canteen. He was then forced to cut the canteen open, discovering that not only had the fungus spread into his water supply but that he'd been drinking the tainted water for some days. Strangely he'd been unaffected by the strange visions and less-comfortable side-effects common to ingesting the fungus, likely because the effects were being counteracted by his daily intake of Clustermelon Flower, a potent form of heat resistance needed to cross the Lava Flats. He spent a Watch rebuilding his canteen, then set out again.
-
-Three weeks later, he noticed series of small bumps on his skin, along with a familiar discoloration. 
+_After weeks of searching, Oxrable Kinter finally had cornered and defeated the serial murderer Tibor Heimshern. But instead of killing him, Ox used the Soul Extractor to pull the prone man's consciousness straight out of his body. Then to the surprise of everyone at the table, Ox proceeded to **drink the man's spirit.** The Warden called for a WIL save to overcome Tibor's powerful essence: a success! The Warden then asked the player to reroll Ox's Willpower attribute, saying he could keep the results if they were higher. And they were! However, the Warden also ruled that if at any point Ox had another enemy weak and at his mercy, a WIL save would be required to overcome the murderer's dormant tendencies._
 
 ## Downtime & Growth
 
 Downtime procedures are a great way for PCs to focus on training, specialization, research, or faction relationships.
+
+
+### Old Stuff
+
+Madrigal (a Fungal Forager) has finally found the source of a nearby village's bellowing sickness: a Liverbracket infestation at the bottom of the town's well. After uprooting the fungi, he decided to keep a sample for his future endeavors. He then embarked on a ten-day journey across the Randana Lava Flats in search of a potential Gate to the Roots he'd read about while researching methods to remove this unique fungal growth. The existence of this sample had slipped his mind until many weeks later when he noticed a strange discoloration on his canteen. He was then forced to cut the canteen open, discovering that not only had the fungus spread into his water supply but that he'd been drinking the tainted water for some days. Strangely he'd been unaffected by the strange visions and less-comfortable side-effects common to ingesting the fungus, likely because the effects were being counteracted by his daily intake of Clustermelon Flower, a potent form of heat resistance needed to cross the Lava Flats. He spent a Watch rebuilding his canteen, then set out again.
+
+Three weeks later, Madrigal noticed series of small bumps on his skin, along with a familiar discoloration. 
