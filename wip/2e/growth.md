@@ -31,10 +31,10 @@ Just as the in-game world continues to grow and change, so do the player charact
 
 ## Triggers: a Framework for Growth
 
-As characters engage with the game world, they must increasingly adapt to new realities in the fiction. Some of these adaptations are minor and rarely revisited again. Others are cumulative, representing a collection of related experiences. And some experiences are so powerful that their impact is immediate and unparalleled. For each of these it can be helpful to assign _Triggers_, or opportunities for growth. These represent significant turning points in a character's life, and should be met with a permanent and related change! The following examples represent an inexhaustive list: 
+As characters engage with the game world, they must increasingly adapt to new realities in the fiction. Some of these adaptations are minor and rarely revisited again. Others are cumulative, representing a collection of related experiences. And some experiences are so powerful that their impact is immediate and unparalleled. For each of these it can be helpful to assign _Triggers_, or opportunities for growth. These represent significant turning points in a character's life, and should be met with a permanent and related change! The following examples represent an inexhaustive list of triggers that could lead to character growth: 
 
 - Injury or contamination by a powerful entity
-- Exposure to a powerful Relic
+- Long-term exposure or manipulation of a powerful Relic 
 - Advancement within a Faction
 - Resolution of a Bond or Omen
 - Forging a relationship with a being of great power
@@ -47,7 +47,9 @@ As characters engage with the game world, they must increasingly adapt to new re
 
 ### Examples
 
-_After weeks of searching, Oxrable Kinter finally had cornered and defeated the serial murderer Tibor Heimshern. But instead of killing him, Ox used the Soul Extractor to pull the prone man's consciousness straight out of his body. Then to the surprise of everyone at the table, Ox proceeded to **drink the man's spirit.** The Warden called for a WIL save to overcome Tibor's powerful essence: a success! The Warden then asked the player to reroll Ox's Willpower attribute, saying he could keep the results if they were higher. And they were! However, the Warden also ruled that if at any point Ox had another enemy weak and at his mercy, a WIL save would be required to overcome the murderer's dormant tendencies._
+_After weeks of searching, Oxrable Kinter finally had cornered and defeated the serial murderer Tibor Heimshern. But instead of killing him, Ox used the Soul Extractor to pull the prone man's consciousness straight out of his body. Then to the surprise of everyone at the table, Ox proceeded to **drink the man's spirit.** The Warden called for a WIL save to overcome Tibor's powerful essence: a success! The Warden then asked the player to reroll Ox's Willpower attribute, saying he could keep the results if they were higher. And they were! However, the Warden also ruled that if at any point Ox had another enemy weak and at his mercy, a WIL save would be required to overcome the murderer's dormant tendencies within his psyche._
+
+_Aster the snake handler and his comrades came upon a shrine deep hidden in a forest cave. After some research and experimentation (spearheaded by Aster), they were able to free the nearly-mad river god trapped within. As thanks, the deity offered its unknowable essence to anyone willing to receive it. Aster stepped forward and was bound to the god, forgoing his old life and adopting a new religion. A few days later, gills sprouted from Aster's neck after an impromptu dive in a raging river._
 
 ## Downtime & Growth
 
