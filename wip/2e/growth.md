@@ -31,51 +31,58 @@ Just as the in-game world continues to grow and change, so do the player charact
 
 ## Triggers: a Framework for Growth
 
-As characters engage with the game world, they must increasingly adapt to new realities in the fiction. Some of these adaptations are minor and rarely revisited again. Others are cumulative, representing a collection of related experiences. And some experiences are so powerful that their impact is immediate and unparalleled. For each of these it can be helpful to assign _Triggers_, or opportunities for growth. These represent significant turning points in a character's life, and should be met with a permanent and related change! The following examples represent an inexhaustive list of triggers that could lead to character growth: 
+As characters engage with the game world, they must increasingly adapt to new realities in the fiction. Some of these adaptations are minor and rarely revisited again. Others are cumulative, representing a collection of related experiences. And some experiences are so powerful that their impact is immediate and unparalleled. For each of these it can be helpful to assign _Triggers_, or opportunities for growth. These represent significant turning points in a character's life, and should be met with a permanent and related change! Good triggers depend on at least two of the following character actions:
 
-- Injury or contamination by a powerful entity
-- Long-term exposure or manipulation of a powerful Relic 
+- Engaging in a consistent pattern of behavior outside the character's normal scope.  
+- Taking an obvious risk without knowing the potential outcomes.
+- Interacting with a unique item, creature, or entity.
+
+### Example Triggers
+
+The following examples represent an inexhaustive list of triggers that might lead to character growth: 
+
 - Advancement within a Faction
-- Resolution of a Bond or Omen
-- Forging a relationship with a being of great power
-- Interacting with something (or someone) they do not understand
-- Overcoming a long-time woe or misdeed
-- Success despite a limited talent or ability
 - Failure despite a natural talent or ability
+- Forging a relationship with a being of great power
+- Injury or contamination by a powerful entity
+- Interacting with something (or someone) they do not understand
+- Long-term exposure or manipulation of a powerful Relic
+- Long-term exposure to a Spellbook or Relic
+- Overcoming a long-time woe or misdeed
 - Research or specialized training (typically during Downtime)
-- Long-term exposure to a Spellbook or Relic 
+- Resolution of a Bond or Omen
+- Success despite a limited talent or ability
 
-Triggers are typically (but not always) associated with the following factors:
-
-- A consistent pattern of behavior
-- A clear risk
-- A unique resource, item, or skill
-
-### Examples
-
-#### Example 1: Hazel
+### Example 1: Hazel
 
 _Throughout her adventures, Hazel made frequent use of  _Control Plants_ Spellbook she'd "borrowed" from the abbey where she grew up. Often she would attempt to enhance its power, making WIL saves each time to expand its reach. Of course, not every attempt was successful, and occasionally she paid a heavy price. On one occasion she and her companions were exploring a jungle temple and stumbled upon a horrific creature made entirely of plant matter. Seeing an opportunity to use the creature's strengths against it, Hazel's allies gathered around her while as read from the Spellbook. The Warden then asked for a WIL save, as she was trying to cast the spell quickly and under duress. A success! The Warden declared that going forward, she would be able to read from her Spellbook while under duress or time pressure _without_ first making a successful WIL save._ 
 
-#### Hazel Commentary
+### Hazel Commentary
 
 Hazel had previously made multiple attempts to bend the Spellbook to her will with mixed results and survived, demonstrating a _consistent pattern of behavior._ She took a _major risk_ when she tried to cast the spell quickly, and as Spellbooks are _unique items_ of great power this made her success despite that risk all the more impactful. 
 
-#### Example 2: Oxrable
+### Example 2: Oxrable
 
 _After weeks of searching, Oxrable had finally cornered and defeated the serial murderer Tibor Heimshern. But instead of killing him, Ox used the Soul Extractor to pull the prone man's consciousness straight out of his body. Then to the surprise of everyone at the table, Ox proceeded to **drink the man's spirit.** The Warden called for a WIL save to overcome Tibor's powerful essence: a success! The Warden then asked the player to reroll Ox's Willpower attribute, saying he could keep the results if they were higher. And they were! However, the Warden also ruled that if at any point Ox had another enemy weak and at his mercy, a WIL save would be required to overcome the murderer's dormant tendencies within his psyche._
 
-#### Oxrable Commentary
+### Oxrable Commentary
 
 Through the dogged pursuit of his powerful enemy Ox demonstrated a distinct _pattern of behavior_. Drinking the spirit of Tibor represented a _clear risk_ to Ox, and even though the Soul Extractor was a known Relic, its ability to move souls between hosts was an obvious case of interacting with an object not fully understood (even the Warden didn't know what might happen). 
 
-#### Example 3: Aster
+### Example 3: Aster
 
 _Aster and his comrades came upon a shrine deep hidden in a forest cave. After some research and experimentation (spearheaded by Aster), they were able to free the nearly-mad river god trapped within. As thanks the deity offered its unknowable essence to anyone willing to receive it. Aster stepped forward and was **bound to the god**, forgoing his old life and adopting a new religion. A few days later, gills sprouted from Aster's neck after an impromptu dive in a raging river._
 
-#### Aster Commentary
+### Aster Commentary
 
 Through his attempts to interact with the statue and determine its true purpose, Aster showed a real _pattern of behavior_, and although the results were uncertain he still took a _serious risk_ by prostrating himself to an entity he did not know or understand.  
+
+
+### Example 4: Madrigal
+
+
+
+
 
 ## Downtime & Growth
 
@@ -87,7 +94,7 @@ Downtime procedures are a great way for PCs to focus on training, specialization
 
 #### Example 4: Madrigal
 
-_Madrigal had finally found the source of a nearby village's bellowing sickness: a Liverbracket infestation at the bottom of the town's well. After uprooting the fungi, he decided to keep a sample for his future endeavors, then embarked on a ten-day journey across the Lava Flats in search of a potential Gate. The sample's existence had slipped his mind, until many weeks later when he noticed a strange discoloration on his canteen. He was forced to cut the canteen open, discovering that not only had the fungus spread into his water supply but that he'd been drinking the tainted water for some days. He'd been unaffected by the strange visions and less-comfortable side-effects common to ingesting the fungus, likely because the effects were being counteracted by his daily intake of Clustermelon Flower, a potent form of heat resistance needed to cross the Lava Flats. He spent a Watch rebuilding his canteen, then set out again. Three weeks later, Madrigal noticed series of small bumps on his skin, along with a familiar discoloration. And stranger yet, he'd seemingly gained the ability to... 
+_Madrigal had finally found the source of a nearby village's bellowing sickness: a Liverbracket infestation at the bottom of the town's well. After uprooting the fungi, he decided to keep a sample for his future endeavors, then embarked on a ten-day journey across the Lava Flats in search of a potential Gate. The sample's existence had slipped his mind, until many weeks later when he noticed a strange discoloration on his canteen. He was forced to cut the canteen open, discovering that not only had the fungus spread into his water supply but that he'd been drinking the tainted water for some days. He'd been unaffected by the strange visions and less-comfortable side-effects common to ingesting the fungus, likely because the effects were being counteracted by his daily intake of Clustermelon Flower, a potent form of heat resistance needed to cross the Lava Flats. He spent a Watch rebuilding his canteen, then set out again. Three weeks later, Madrigal noticed series of small bumps on his skin, along with a familiar discoloration. And stranger yet, he'd seemingly gained the ability to..._ 
 
 
 #### Madrigal Commentary
