@@ -45,21 +45,39 @@ As characters engage with the game world, they must increasingly adapt to new re
 - Research or specialized training (typically during Downtime)
 - Long-term exposure to a Spellbook or Relic 
 
+Triggers are typically associated with:
+
+- A consistent pattern of behavior
+- A clear risk
+- A unique resource
+
 ### Examples
 
-#### Example 1
+#### Example 1: Hazel
 
-_After weeks of searching, Oxrable Kinter finally had cornered and defeated the serial murderer Tibor Heimshern. But instead of killing him, Ox used the Soul Extractor to pull the prone man's consciousness straight out of his body. Then to the surprise of everyone at the table, Ox proceeded to **drink the man's spirit.** The Warden called for a WIL save to overcome Tibor's powerful essence: a success! The Warden then asked the player to reroll Ox's Willpower attribute, saying he could keep the results if they were higher. And they were! However, the Warden also ruled that if at any point Ox had another enemy weak and at his mercy, a WIL save would be required to overcome the murderer's dormant tendencies within his psyche._
+Throughout her adventures, Hazel made frequent use of  _Control Plants_ Spellbook she'd "borrowed" from the abbey where she grew up. Often she would attempt to enhance its power, making WIL saves each time to expand its reach. Of course, not every attempt was successful, and occasionally she paid a heavy price. On one occasion she and her companions were exploring a jungle temple and stumbled upon a horrific creature made entirely of plant matter. Seeing an opportunity to use the creature's strengths against it, Hazel's allies gathered around her while as read from the Spellbook. The Warden then asked for a WIL save, as she was trying to cast the spell quickly and under duress. A success! The Warden declared that going forward, she would be able to read from her Spellbook while under duress or time pressure _without_ first making a successful WIL save. 
 
-#### Example 1 Commentary
+#### Hazel Commentary
+
+Here the Warden had taken into consideration the following:
+- Hazel had previously made multiple attempts to bend the Spellbook to her will with mixed results and survived. _This demonstrated a consistent pattern of behavior._
+- Hazel took a _major risk_ when she tried to cast the spell quickly.
+- Spellbooks are _unique items_ of great power and tremendous risk. 
+
+
+#### Example 2: Oxrable
+
+_After weeks of searching, Oxrable had finally cornered and defeated the serial murderer Tibor Heimshern. But instead of killing him, Ox used the Soul Extractor to pull the prone man's consciousness straight out of his body. Then to the surprise of everyone at the table, Ox proceeded to **drink the man's spirit.** The Warden called for a WIL save to overcome Tibor's powerful essence: a success! The Warden then asked the player to reroll Ox's Willpower attribute, saying he could keep the results if they were higher. And they were! However, the Warden also ruled that if at any point Ox had another enemy weak and at his mercy, a WIL save would be required to overcome the murderer's dormant tendencies within his psyche._
+
+#### Oxrable Commentary
 
 
 
-#### Example 2
+#### Example 3: Aster
 
 _Aster and his comrades came upon a shrine deep hidden in a forest cave. After some research and experimentation (spearheaded by Aster), they were able to free the nearly-mad river god trapped within. As thanks, the deity offered its unknowable essence to anyone willing to receive it. Aster stepped forward and was **bound to the god**, forgoing his old life and adopting a new religion. A few days later, gills sprouted from Aster's neck after an impromptu dive in a raging river._
 
-#### Example 2 Commentary
+#### Aster Commentary
 
 
 
