@@ -67,7 +67,7 @@ _After weeks of searching, Oxrable had finally cornered and defeated the serial 
 
 ### Oxrable Commentary
 
-Through the dogged pursuit of his powerful enemy Ox demonstrated a distinct _pattern of behavior_. Drinking the spirit of Tibor represented a _clear risk_ to Ox, and even though the Soul Extractor was a known Relic, its ability to move souls between hosts was an obvious case of interacting with an object not fully understood (even the Warden didn't know what might happen). 
+Through the dogged pursuit of his powerful enemy Ox demonstrated a distinct _pattern of behavior_. Drinking the spirit of Tibor represented a _clear risk_ to Ox, and even though the Soul Extractor was a known Relic, its ability to move souls between hosts was an obvious case of _interacting with an object not fully understood_. 
 
 ### Example 3: Aster
 
@@ -75,14 +75,15 @@ _Aster and his comrades came upon a shrine deep hidden in a forest cave. After s
 
 ### Aster Commentary
 
-Through his attempts to interact with the statue and determine its true purpose, Aster showed a real _pattern of behavior_, and although the results were uncertain he still took a _serious risk_ by prostrating himself to an entity he did not know or understand.  
+Through his attempts to interact with the statue and determine its true purpose, Aster revealed a distinct _pattern of behavior_, and although the results were uncertain he still took a _serious risk_ by prostrating himself to an entity he did not know or understand.  
 
+### Example 4: Harrow
 
-### Example 4: Madrigal
+_Harrow the Fieldwarden and his comrades were pursuing a group of brigands led by a notorious werewolf. They'd followed the criminals back to their hideout, approaching at dawn when the outlaws would hopefully still be sleeping off the previous night's activities. Harrow led the party carefully alongside the camp, hoping to slip in silently. This proved to be more difficult than anticipated, as the brigands had posted guards at four separate outposts. The Warden ruled that as Harrow was leading the group **and** had the worst natural ability (his player had rolled a measly 5 DEX) that he should make the save the party required to sneak in undetected. He succeeded, and the Warden declared that going forward the Warden would no longer require Harrow to save DEX in similar situations, because clearly his character had a natural affinity for sneaking. Harrow's player suggested that this was perhaps due to his experience sneaking around in the dark as a youth, protecting the crop._  
 
+### Harrow Commentary
 
-
-
+Here is a clear example of a character working against type. The Warden deemed that despite Harrow's relatively low DEX, his decision to lead the party _coupled with his ultimate triumph_ were sufficient triggers for growth. 
 
 ## Downtime & Growth
 
