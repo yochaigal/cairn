@@ -13,7 +13,7 @@ search_exclude: true
 
 Unlike other roleplaying games, Cairn does not reward player characters for their killing monsters, looting treasure, or exploring new places. Instead, it is a character's unique experience in the game world that has the potential to alter their health, abilities, beliefs, bonds, and even their minds.
 
-Just as the in-game world continues to grow and change, so do the player characters. The events, experiences, and encounters of a play session can greatly impact a PC, sometimes in undesirable ways! Keep in mind however that with some notable exceptions (such as _Scars_,) growth should always stem from a character's experiences in the game world. 
+Just as the in-game world continues to grow and change, so do the player characters. The events, experiences, and encounters of a play session can greatly impact a PC, sometimes in undesirable ways! Keep in mind however that with some notable exceptions (such as _Scars_,) growth should always stem from a character's experiences in the game world. Character growth can also depend on the results of Downtime procedures that help a character focus on training or specialization, research, and faction relationships.
 
 ## Principles for Growth
 
@@ -31,9 +31,9 @@ Just as the in-game world continues to grow and change, so do the player charact
 
 ## Triggers: a Framework for Growth
 
-As characters engage with the game world, they must increasingly adapt to new realities in the fiction. Some of these adaptations are minor and rarely revisited again. Others are cumulative, representing a collection of related experiences. And some experiences are so powerful that their impact is immediate and unparalleled. For each of these it can be helpful to assign _Triggers_, or opportunities for growth. These represent significant turning points in a character's life, and should be met with a permanent and related change! Good triggers depend on at least two of the following character actions:
+As characters engage with the game world, they must increasingly adapt to new realities in the fiction. Some of these adaptations are minor and rarely revisited again. Others are cumulative, representing a collection of related experiences. And some experiences are so powerful that their impact is immediate and unparalleled. For each of these it can be helpful to assign _Triggers_, or opportunities for growth. These represent significant turning points in a character's life, and should be met with a permanent and related change! Good triggers depend on characters engaging in at least two of the following:
 
-- Engaging in a consistent pattern of behavior outside the character's normal scope.  
+- A focused, consistent pattern of behavior around a single objective.
 - Taking an obvious risk without knowing the potential outcomes.
 - Interacting with a unique item, creature, or entity.
 
@@ -55,7 +55,7 @@ The following examples represent an inexhaustive list of triggers that might lea
 
 ### Example 1: Hazel
 
-_Throughout her adventures, Hazel made frequent use of  _Control Plants_ Spellbook she'd "borrowed" from the abbey where she grew up. Often she would attempt to enhance its power, making WIL saves each time to expand its reach. Of course, not every attempt was successful, and occasionally she paid a heavy price. On one occasion she and her companions were exploring a jungle temple and stumbled upon a horrific creature made entirely of plant matter. Seeing an opportunity to use the creature's strengths against it, Hazel's allies gathered around her while as read from the Spellbook. The Warden then asked for a WIL save, as she was trying to cast the spell quickly and under duress. A success! The Warden declared that going forward, she would be able to read from her Spellbook while under duress or time pressure _without_ first making a successful WIL save._ 
+_Throughout her adventures, Hazel made frequent use of Control Plants Spellbook she'd "borrowed" from the abbey where she grew up. Often she would attempt to enhance its power, making WIL saves each time to expand its reach. Of course, not every attempt was successful, and occasionally she paid a heavy price. On one occasion she and her companions were exploring a jungle temple and stumbled upon a horrific creature made entirely of plant matter. Seeing an opportunity to use the creature's strengths against it, Hazel's allies gathered around her while as read from the Spellbook. The Warden then asked for a WIL save, as she was trying to cast the spell quickly and under duress. A success! The Warden declared that going forward, she would be able to read from her Spellbook while under duress or time pressure _without_ first making a successful WIL save._ 
 
 ### Hazel Commentary
 
@@ -63,7 +63,7 @@ Hazel had previously made multiple attempts to bend the Spellbook to her will wi
 
 ### Example 2: Oxrable
 
-_After weeks of searching, Oxrable had finally cornered and defeated the serial murderer Tibor Heimshern. But instead of killing him, Ox used the Soul Extractor to pull the prone man's consciousness straight out of his body. Then to the surprise of everyone at the table, Ox proceeded to **drink the man's spirit.** The Warden called for a WIL save to overcome Tibor's powerful essence: a success! The Warden then asked the player to reroll Ox's Willpower attribute, saying he could keep the results if they were higher. And they were! However, the Warden also ruled that if at any point Ox had another enemy weak and at his mercy, a WIL save would be required to overcome the murderer's dormant tendencies within his psyche._
+_After weeks of searching, Oxrable had finally cornered and defeated the serial murderer Tibor Heimshern. But instead of killing him, Ox used the Soul Extractor to pull the prone man's consciousness straight out of his body. Then to the surprise of everyone at the table, Ox proceeded to drink the man's spirit. The Warden called for a WIL save to overcome Tibor's powerful essence: a success! The Warden then asked the player to reroll Ox's Willpower attribute, saying he could keep the results if they were higher. And they were! However, the Warden also ruled that if at any point Ox had another enemy weak and at his mercy, a WIL save would be required to overcome the murderer's dormant tendencies within his psyche._
 
 ### Oxrable Commentary
 
@@ -71,7 +71,7 @@ Through the dogged pursuit of his powerful enemy Ox demonstrated a distinct _pat
 
 ### Example 3: Aster
 
-_Aster and his comrades came upon a shrine deep hidden in a forest cave. After some research and experimentation (spearheaded by Aster), they were able to free the nearly-mad river god trapped within. As thanks the deity offered its unknowable essence to anyone willing to receive it. Aster stepped forward and was **bound to the god**, forgoing his old life and adopting a new religion. A few days later, gills sprouted from Aster's neck after an impromptu dive in a raging river._
+_Aster and his comrades came upon a shrine deep hidden in a forest cave. After some research and experimentation (spearheaded by Aster), they were able to free the nearly-mad river god trapped within. As thanks the deity offered its unknowable essence to anyone willing to receive it. Aster stepped forward and was bound to the god, forgoing his old life and adopting a new religion. A few days later, gills sprouted from Aster's neck after an impromptu dive in a raging river._
 
 ### Aster Commentary
 
@@ -85,17 +85,11 @@ _Harrow the Fieldwarden and his comrades were pursuing a group of brigands led b
 
 Here is a clear example of a character working against type. The Warden deemed that despite Harrow's relatively low DEX, his decision to lead the party _coupled with his ultimate triumph_ were sufficient triggers for growth. 
 
-## Downtime & Growth
 
-Downtime procedures are a great way for PCs to focus on training, specialization, research, or faction relationships.
+### Example 5: Madrigal
 
-
-## Old Stuff
-
-
-#### Example 4: Madrigal
-
-_Madrigal had finally found the source of a nearby village's bellowing sickness: a Liverbracket infestation at the bottom of the town's well. After uprooting the fungi, he decided to keep a sample for his future endeavors, then embarked on a ten-day journey across the Lava Flats in search of a potential Gate. The sample's existence had slipped his mind, until many weeks later when he noticed a strange discoloration on his canteen. He was forced to cut the canteen open, discovering that not only had the fungus spread into his water supply but that he'd been drinking the tainted water for some days. He'd been unaffected by the strange visions and less-comfortable side-effects common to ingesting the fungus, likely because the effects were being counteracted by his daily intake of Clustermelon Flower, a potent form of heat resistance needed to cross the Lava Flats. He spent a Watch rebuilding his canteen, then set out again. Three weeks later, Madrigal noticed series of small bumps on his skin, along with a familiar discoloration. And stranger yet, he'd seemingly gained the ability to..._ 
-
+_After days of searching, Madrigal the Fungal Forager had finally found the source of bellowing sickness that had stricken an impoverished village: a Liverbracket infestation at the bottom of the town's well. After uprooting the fungi he kept a sample for his future endeavors, then embarked on a ten-day journey across the Lava Flats in search of a potential Gate. The sample's existence slipped his mind until two weeks later when he noticed a strange discoloration on his canteen. Cutting open the canteen, he discovered that he'd been drinking the tainted water for some time. However he'd been unaffected by the strange visions and less-comfortable side-effects common to ingesting the fungus, likely because the effects were being counteracted by his daily intake of Clustermelon Flower, a potent form of heat resistance needed to cross the Lava Flats. He spent a Watch rebuilding his canteen, then set out again. Two days later, Madrigal noticed series of small bumps on his skin, along with a familiar discoloration. Stranger yet, he'd completely lost his appetite Rations. The Warden ruled that going forward Madrigal would no longer need to eat typical food, but instead could subsist only decomposed plants and animals. However, if he is ever drenched in water he must take a Fatigue, expelling spores the following day._  
 
 #### Madrigal Commentary
+
+This example involved only a minor _risk_, but the interaction between _two unique items_ (the spore sample and the flower) were powerful enough to justify a sort of passive growth experience.
