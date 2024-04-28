@@ -19,7 +19,7 @@ Just as the in-game world continues to grow and change, so do the player charact
 
 - Growth is never arbitrary, but tied to a specific experience happening in the fiction.
 - It is more important for a character to become more interesting than to become more skilled or capable.
-- Characters experience growth not simply because they've gained a new experience but because that experience has effected them a significant way.
+- Characters experience growth not simply because they've gained a new experience but because that experience has affected them a significant way.
 - Place opportunities for growth in as many places as possible.
 - Characters grow as often during a play session as they do during Downtime.
 - Growth should foster further interaction with the game world and its challenges.
@@ -46,8 +46,7 @@ The following examples represent an inexhaustive list of triggers that might lea
 - Forging a relationship with a being of great power
 - Injury or contamination by a powerful entity
 - Interacting with something (or someone) they do not understand
-- Long-term exposure or manipulation of a powerful Relic
-- Long-term exposure to a Spellbook or Relic
+- Long-term exposure or manipulation of a Spellbook or powerful Relic
 - Overcoming a long-time woe or misdeed
 - Research or specialized training (typically during Downtime)
 - Resolution of a Bond or Omen
@@ -88,7 +87,7 @@ Here is a clear example of a character working against type. The Warden deemed t
 
 ### Example 5: Madrigal
 
-_After days of searching, Madrigal the Fungal Forager had finally found the source of bellowing sickness that had stricken an impoverished village: a Liverbracket infestation at the bottom of the town's well. After uprooting the fungi he kept a sample for his future endeavors, then embarked on a ten-day journey across the Lava Flats in search of a potential Gate. The sample's existence slipped his mind until two weeks later when he noticed a strange discoloration on his canteen. Cutting open the canteen, he discovered that he'd been drinking the tainted water for some time. However he'd been unaffected by the strange visions and less-comfortable side-effects common to ingesting the fungus, likely because the effects were being counteracted by his daily intake of Clustermelon Flower, a potent form of heat resistance needed to cross the Lava Flats. He spent a Watch rebuilding his canteen, then set out again. Two days later, Madrigal noticed series of small bumps on his skin, along with a familiar discoloration. Stranger yet, he'd completely lost his appetite Rations. The Warden ruled that going forward Madrigal would no longer need to eat typical food, but instead could subsist only decomposed plants and animals. However, if he is ever drenched in water he must take a Fatigue, expelling spores the following day._  
+_After days of searching, Madrigal the Fungal Forager had finally found the source of bellowing sickness that had stricken an impoverished village: a Liverbracket infestation at the bottom of the town's well. After uprooting the fungi he kept a sample for his future endeavors, then embarked on a ten-day journey across the Lava Flats in search of a potential Gate. The sample's existence slipped his mind until two weeks later when he noticed a strange discoloration on his canteen. Cutting open the canteen, he discovered that he'd been drinking the tainted water for some time. However he'd been unaffected by the strange visions and less-comfortable side-effects common to ingesting the fungus, likely because the effects were being counteracted by his daily intake of Clustermelon Flower, a potent form of heat resistance needed to cross the Lava Flats. He spent a Watch fashioning a new canteen, then set out again. Two days later, Madrigal noticed series of small bumps on his skin, along with a familiar discoloration. Stranger yet, he'd completely lost his appetite for Rations. The Warden ruled that going forward Madrigal would no longer need to eat typical food, but instead could subsist only on decomposed plants and animals. However, if he is ever drenched in water he must take a Fatigue, expelling spores the following day._  
 
 #### Madrigal Commentary
 
