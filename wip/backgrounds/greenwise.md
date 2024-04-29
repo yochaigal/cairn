@@ -27,7 +27,7 @@ Briar, Moss, Fern, Lichen, Root, Willow, Sage, Yarrow, Rowan, Ash
 - Twine Bauble (_petty_, _Ward_ once per day)
 _Ward_: A silver circle 50ft across appears on the ground. Choose one species that cannot cross it.
 
-## How have The Wood failed you ? Roll 1d6:
+## How has The Wood failed you ? Roll 1d6:
 
 |       |                                                                                                                                                                                               |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
