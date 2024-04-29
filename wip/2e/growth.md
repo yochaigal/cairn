@@ -39,19 +39,6 @@ As characters engage with the game world, they must increasingly adapt to new re
 
 ## Example of Triggers & Growth
 
-The following examples represent an inexhaustive list of triggers that might lead to character growth: 
-
-- Advancement within a Faction
-- Success or failure despite a natural talent or ability
-- Forging a relationship with a being of great power
-- Injury or contamination
-- Interacting with something (or someone) they do not understand
-- Long-term exposure or manipulation of a Spellbook or Relic
-- Overcoming a long-time woe or misdeed
-- Research or specialized training (typically during Downtime)
-- Resolution of a Bond or Omen
-- Relentlessness against the odds
-
 ### Long-term exposure or manipulation of a Spellbook or Relic
 
 _Throughout her adventures, Hazel made frequent use of Control Plants Spellbook she'd "borrowed" from the abbey where she grew up. Often she would attempt to enhance its power, making WIL saves each time to expand its reach. Of course, not every attempt was successful, and occasionally she paid a heavy price. On one occasion she and her companions were exploring a jungle temple and stumbled upon a horrific creature made entirely of plant matter. Seeing an opportunity to use the creature's strengths against it, Hazel's allies gathered around her while as read from the Spellbook. The Warden then asked for a WIL save, as she was trying to cast the spell quickly and under duress. A success! The Warden declared that going forward, she would be able to read from her Spellbook while under duress or time pressure _without_ first making a successful WIL save._ 
@@ -98,8 +85,16 @@ This example involved only a minor risk, but the interaction between two unique 
 
 This example relies on activities that occur both in the game and between sessions, utilizing two separate Downtime procedures (_Strengthening Ties_ and _Training_). The **Protector** that Rui trained with acted as Master, and although we don't describe it here there was likely a second tier of **Milestones** included in that aspect of her journey.
 
-### Relentlessness Against the Odds
+### Learning Through Trial and Error 
 
 _Julius was bookish, nervous, and not particularly strong or dexterous. Over months of adventuring, he had developed a strategy to avoid direct confrontation in combat, which involved throwing a weighted net onto an opponent. While the target was prone and defenseless, Julius, without adequate protection from his allies, would be at high risk, especially when facing multiple opponents. Each time Julius attempted this his player would need to explain exactly how he approached his target, and if the obvious risks weren't mitigated, the Warden would still require a DEX save to succeed. After a particularly risky attempt failed, all of the players (including the Warden) were so impressed by the care and strategy that went into the attempt that the Warden ruled that going forward, Julius would no longer need to make a save when throwing the net in combat. Instead, it would succeed automatically, as Julius had clearly learned how to capture targets in his net safely._
 
 Although this example is seemingly straightforward, there is actually a lot more going on than might first be apparent. In a typical combat scenario the PCs have already rolled DEX saves at the beginning of combat, so future DEX saves are really only required when a character puts themselves at further risk through an act of bravery, tries to flee combat, etc. A save isn't necessarily required from the target of an action either, as only the character _most at risk_ saves. In this example we can see that although Julius had occasionally failed in his repeated attempts to avoid direct combat employing a unique battle strategy, the thought and preparation that went into each attempt coupled with the character's insistence to "get it right" were sufficient to grant that character a new ability. 
+
+### Interacting with something (or someone) they do not understand
+
+Esme and her comrades were tasked with rescuing a merchant and his daughter that had disappeared into the Moon Hill Woods. On the way, Esme stumbled upon a fallen tree, struck by lightning. Daring to climb inside, she discovered a glowing, egg-shaped object: a Heartseed. Recognizing its value (but not its purpose) she took the seed, ignoring the mumblings of her friends. Over the next few days Esme noticed crows wherever she went: in the boughs, the sky, on the trail. Late one night she had a vision of a terrifying creature built from grass and twigs gazing deep into her soul. She awoke frightened, but kept the visions to herself. She decided to keep the Heartseed, no matter what. Over the coming days her visions increased in severity and regularity, as did the crows, which now appeared even in town, perched on roofs and doorways. Resolute, she ground the seed into bits with a hammer, then swallowed the resulting mess with water. Only then did the visions cease, and the crows disappear. The following day, her skin began to turn green, and small twigs were sprouting from her elbows and chin. Seeking advice from a Bog Witch she'd met in an earlier encounter, she was told that by consuming the Heartseed she had committed herself to becoming a Woodwose, and would be bound to the forest forever. She would no longer consume rations, only sunlight and water. She would hear the words of the Wood, as well as the plants and animals that live there. But there was a way out, and all that was required was a drop of her blood...
+
+### Overcoming a long-time woe or misdeed
+
+### Resolution of a Bond or Omen
