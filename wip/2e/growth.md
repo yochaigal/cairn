@@ -39,19 +39,19 @@ As characters engage with the game world, they must increasingly adapt to new re
 
 ## Example of Triggers & Growth
 
-### Long-term exposure or manipulation of a Spellbook or Relic
+### Long-Term Exposure or Manipulation of a Spellbook or Relic
 
 _Throughout her adventures, Hazel made frequent use of Control Plants Spellbook she'd "borrowed" from the abbey where she grew up. Often she would attempt to enhance its power, making WIL saves each time to expand its reach. Of course, not every attempt was successful, and occasionally she paid a heavy price. On one occasion she and her companions were exploring a jungle temple and stumbled upon a horrific creature made entirely of plant matter. Seeing an opportunity to use the creature's strengths against it, Hazel's allies gathered around her while as read from the Spellbook. The Warden then asked for a WIL save, as she was trying to cast the spell quickly and under duress. A success! The Warden declared that going forward, she would be able to read from her Spellbook while under duress or time pressure _without_ first making a successful WIL save._ 
 
 Hazel had previously made multiple attempts to bend the Spellbook to her will with mixed results. She also took a major risk when she tried to cast the spell quickly, and as Spellbooks are unique items of great power this made her success despite that risk all the more impactful. 
 
-### Overcoming a long-time woe or misdeed
+### Overcoming a Long-time Woe, Misdeed, or Foe
 
 _After weeks of searching, Oxrable had finally defeated the serial murderer Tibor Heimshern. But instead of killing him, Ox used the Spirit Siphon to pull the prone man's consciousness straight out of his body. Then to the surprise of everyone at the table, Ox proceeded to drink the man's spirit. The Warden called for a WIL save to overcome Tibor's powerful essence: a success! The Warden then asked the player to reroll Ox's Willpower attribute, saying he could keep the results if they were higher. And they were! However, the Warden also ruled that if at any point Ox had another enemy weak and at his mercy, a WIL save would be required to overcome the murderer's dormant tendencies within his psyche._
 
 Through the dogged pursuit of his powerful enemy Ox demonstrated a distinct pattern of behavior. Drinking the spirit of Tibor represented a clear risk to Ox, and even though the Spirit Siphon was a known Relic, its ability to move souls between hosts was an obvious case of interacting with an object not fully understood. 
 
-### Forging a relationship with a being of great power
+### Forging a Relationship With a Being of Great Power
 
 _Aster and his comrades came upon a shrine deep hidden in a forest cave. After some research and experimentation (spearheaded by Aster), they were able to free the nearly-mad river god trapped within. As thanks the deity offered its unknowable essence to anyone willing to receive it. Aster stepped forward and was bound to the god, forgoing his old life and adopting a new religion. A few days later, gills sprouted from Aster's neck after an impromptu dive in a raging river._
 
@@ -69,7 +69,7 @@ _After days of searching, Madrigal the Fungal Forager had finally found the sour
 
 This example involved only a minor risk, but the interaction between two unique items (the fungus and the flower) that were powerful enough to justify a sort of _passive_ growth experience. However, it was Madrigal's thoughtful (albeit potentially unnecessary) decision to ingest Clustermelon Flower that acted as the true Trigger in this instance.
 
-### Advancement within a Faction
+### Faction Advancement
 
  _Three weeks ago Rui was tasked by the **Order of the Helm** with closing a Gate in the Wyskat Forest. She returned earlier than expected, having completed her mission with great aplomb. Her employers were so impressed with her work that she was formally invited to join The Order as an **Initiate**. The Warden explained that the position had no distinct requirements, but paid a regular stipend and came with some fraternal benefits. The only requirement would be that she complete occasional tasks on behalf of the Order in pursuit of its cause. If she were to later pursue a higher-level rank she would be required to formally pledge allegiance to the Order and take their Oath. Rui agrees to join as an Initiate for now, and the Warden describes the Downtime **Milestones** that track Rui's relationship with The Order:_
 
@@ -85,13 +85,13 @@ This example involved only a minor risk, but the interaction between two unique 
 
 This example relies on activities that occur both in the game and between sessions, utilizing two separate Downtime procedures (_Strengthening Ties_ and _Training_). The **Protector** that Rui trained with acted as Master, and although we don't describe it here there was likely a second tier of **Milestones** included in that aspect of her journey.
 
-### Learning Through Trial and Error 
+### Learning Through Trial And Error 
 
 _Julius was bookish, nervous, and not particularly strong or dexterous. Over months of adventuring, he had developed a strategy to avoid direct confrontation in combat, which involved throwing a weighted net onto an opponent. While the target was prone and defenseless, Julius, without adequate protection from his allies, would be at high risk, especially when facing multiple opponents. Each time Julius attempted this his player would need to explain exactly how he approached his target, and if the obvious risks weren't mitigated, the Warden would still require a DEX save to succeed. After a particularly risky attempt failed, all of the players (including the Warden) were so impressed by the care and strategy that went into the attempt that the Warden ruled that going forward, Julius would no longer need to make a save when throwing the net in combat. Instead, it would succeed automatically, as Julius had clearly learned how to capture targets in his net safely._
 
 In this example we can see that although Julius had occasionally failed in his repeated attempts to avoid direct combat employing a unique battle strategy, the thought and preparation that went into each attempt coupled with the character's insistence to "get it right" were sufficient to grant that character a new ability. Remember that in a typical combat scenario the PCs have already rolled DEX saves at the beginning of combat, so future DEX saves are really only required when a character puts themselves at further risk through an act of bravery, tries to flee combat, etc. A save isn't necessarily required from the target of an action either, as only the character _most at risk_ saves. 
 
-### Interacting with something (or someone) they do not understand
+### Interacting With Something (Or Someone) They Do Not Understand
 
 _Esme and her comrades were tasked with rescuing a merchant and his daughter that had disappeared into the Moon Hill Woods. On the way, Esme stumbled upon a fallen tree, struck by lightning. Daring to climb inside, she discovered a glowing, egg-shaped object: a Heartseed. Recognizing its value (but not its purpose) she took the seed, ignoring the mumblings of her friends. Over the next few days Esme noticed crows wherever she went: in the boughs, the sky, on the trail. Late one night she had a vision of a terrifying creature built from grass and twigs gazing deep into her soul. She awoke frightened, but kept the visions to herself. She decided to keep the Heartseed, no matter what. Over the coming days her visions increased in severity and regularity, as did the crows, which now appeared even in town, perched on roofs and doorways. Resolute, she ground the seed into bits with a hammer, then swallowed the resulting mess with water. Only then did the visions cease, and the crows disappear. The following day, her skin began to turn green, and small twigs were sprouting from her elbows and chin. Seeking advice from a Bog Witch she'd met in an earlier encounter, she was told that by consuming the Heartseed she had committed herself the Wood, and that she would soon be bound to the forest forever. She would no longer consume rations, only sunlight and water. She would hear the words of the Wood, as well as the plants and animals that live there. But the witch said that there was a way out, and all that she required was a drop of Esme's blood..._
 
