@@ -50,7 +50,7 @@ The following examples represent an inexhaustive list of triggers that might lea
 - Overcoming a long-time woe or misdeed
 - Research or specialized training (typically during Downtime)
 - Resolution of a Bond or Omen
-- Success despite a limited talent or ability
+- Relentlessness in spite of failure
 
 ### Example 1: Hazel
 
@@ -62,11 +62,11 @@ Hazel had previously made multiple attempts to bend the Spellbook to her will wi
 
 ### Example 2: Oxrable
 
-_After weeks of searching, Oxrable had finally cornered and defeated the serial murderer Tibor Heimshern. But instead of killing him, Ox used the Soul Extractor to pull the prone man's consciousness straight out of his body. Then to the surprise of everyone at the table, Ox proceeded to drink the man's spirit. The Warden called for a WIL save to overcome Tibor's powerful essence: a success! The Warden then asked the player to reroll Ox's Willpower attribute, saying he could keep the results if they were higher. And they were! However, the Warden also ruled that if at any point Ox had another enemy weak and at his mercy, a WIL save would be required to overcome the murderer's dormant tendencies within his psyche._
+_After weeks of searching, Oxrable had finally cornered and defeated the serial murderer Tibor Heimshern. But instead of killing him, Ox used the Spirit Siphon to pull the prone man's consciousness straight out of his body. Then to the surprise of everyone at the table, Ox proceeded to drink the man's spirit. The Warden called for a WIL save to overcome Tibor's powerful essence: a success! The Warden then asked the player to reroll Ox's Willpower attribute, saying he could keep the results if they were higher. And they were! However, the Warden also ruled that if at any point Ox had another enemy weak and at his mercy, a WIL save would be required to overcome the murderer's dormant tendencies within his psyche._
 
 ### Oxrable Commentary
 
-Through the dogged pursuit of his powerful enemy Ox demonstrated a distinct _pattern of behavior_. Drinking the spirit of Tibor represented a _clear risk_ to Ox, and even though the Soul Extractor was a known Relic, its ability to move souls between hosts was an obvious case of _interacting with an object not fully understood_. 
+Through the dogged pursuit of his powerful enemy Ox demonstrated a distinct _pattern of behavior_. Drinking the spirit of Tibor represented a _clear risk_ to Ox, and even though the Spirit Siphon was a known Relic, its ability to move souls between hosts was an obvious case of _interacting with an object not fully understood_. 
 
 ### Example 3: Aster
 
@@ -84,11 +84,28 @@ _Harrow the Fieldwarden and his comrades were pursuing a group of brigands led b
 
 Here is a clear example of a character working against type. The Warden deemed that despite Harrow's relatively low DEX, his decision to lead the party _coupled with his ultimate triumph_ were sufficient triggers for growth. 
 
-
 ### Example 5: Madrigal
 
-_After days of searching, Madrigal the Fungal Forager had finally found the source of bellowing sickness that had stricken an impoverished village: a Liverbracket infestation at the bottom of the town's well. After uprooting the fungi he kept a sample for his future endeavors, then embarked on a ten-day journey across the Lava Flats in search of a potential Gate. The sample's existence slipped his mind until two weeks later when he noticed a strange discoloration on his canteen. Cutting open the canteen, he discovered that he'd been drinking the tainted water for some time. However he'd been unaffected by the strange visions and less-comfortable side-effects common to ingesting the fungus, likely because the effects were being counteracted by his daily intake of Clustermelon Flower, a potent form of heat resistance needed to cross the Lava Flats. He spent a Watch fashioning a new canteen, then set out again. Two days later, Madrigal noticed series of small bumps on his skin, along with a familiar discoloration. Stranger yet, he'd completely lost his appetite for Rations. The Warden ruled that going forward Madrigal would no longer need to eat typical food, but instead could subsist only on decomposed plants and animals. However, if he is ever drenched in water he must take a Fatigue, expelling spores the following day._  
+_After days of searching, Madrigal the Fungal Forager had finally found the source of bellowing sickness that had stricken an impoverished village: a Liverbracket infestation at the bottom of the town's well. It took many hours of diligent work to uproot the fungi network, but in the end Madrigal left the town in good spirits, his pockets heavy with gold. He then embarked on a ten-day journey across the Lava Flats in search of a Gate he'd heard about. A week later he noticed a strange discoloration on his canteen, and cutting it open he discovered that he'd been drinking Liverbracket-tainted water! Strangely, he'd been unaffected by the side-effects common to ingesting the fungus. The Warden explained that this was likely because its effects were being counteracted by Madrigal's overcautious intake of Clustermelon Flower, a potent form of heat resistance, useful when crossing the Lava Flats. He spent a few hours fashioning a new canteen, then set out again. Two days later, Madrigal noticed series of small bumps on his skin, along with a familiar discoloration. Stranger yet, he'd completely lost his appetite for Rations. The Warden ruled that going forward Madrigal would no longer need to eat typical food, but instead could subsist only on decomposed plants and animals. However, if he is ever drenched in water he must take a Fatigue, expelling spores the following day._  
 
 #### Madrigal Commentary
 
-This example involved only a minor _risk_, but the interaction between _two unique items_ (the spore sample and the flower) were powerful enough to justify a sort of passive growth experience.
+This example involved only a minor _risk_, but the interaction between _two unique items_ (the fungus and the flower) that were powerful enough to justify a sort of _passive_ growth experience. However, it was Madrigal's thoughtful (albeit potentially unnecessary) decision to ingest Clustermelon Flower that acted as the true Trigger in this instance.
+
+### Example 6: Rui
+
+ _Three weeks ago Rui was tasked by the **Order of the Helm** with closing a Gate in the Wyskat Forest. She returned earlier than expected, having completed her mission with great aplomb. Her employers were so impressed with her work that she was formally invited to join The Order as an **Initiate**. The Warden explained that the position had no distinct requirements, but paid a regular stipend and came with some fraternal benefits. The only requirement would be that she complete occasional tasks on behalf of the Order in pursuit of its cause. If she were to later pursue a higher-level rank she would be required to formally pledge allegiance to the Order and take their Oath. Rui agrees to join as an Initiate for now, and the Warden describes the Downtime **Milestones** that track Rui's relationship with The Order:_
+
+  - [ ] Complete one mission on behalf of the order.
+  - [ ] Complete two missions on behalf of the order.
+  - [ ] Complete three missions on behalf of the order.
+  - [ ] Train with a **Protector**.
+  - [ ] Take the Oath.
+
+ _The Warden explains that Rui would be provided with a uniform, a shield (+1 Armor), and a fine short sword (d6). Along with the support she would receive at any faction outpost, she would also receive a stipend of 5gp per day while working on faction-related business. She would also be required to check in with a local **Precept** whenever possible. A few sessions later, The Order asks Rui for her assistance with an escort through the **Falal Swamps**. The entire party joins the mission, and despite a near-fatal encounter with a bog demon, the mission is completed successfully. Rui's player marks off their next **Milestone**._ 
+ 
+ _Months pass, and Rui has completed three missions for The Order, and through Downtime procedures was able to train with a **Protector** she'd met in her journeys, improving both her focus and skill with a sword. She also learned the faction's true objective, and decided their cause was just. She donned an iron helm (+1 Armor, petty) and took their Oath, accepting that she would never reveal her face to any living creature so long as she lived. The Warden explained that although Rui still required food, water, and sleep, she would longer become deprived from that lack of it._
+
+ ### Example 7: An example involving combat
+
+"a person consistently attempts a sort of combat maneuver in lieu of participating in combat and is eventually able to just do it"
