@@ -10,7 +10,7 @@ redirect_from: /wip/backgrounds/herbalist/
 
 # Greenwise
 
-> You delve deep into **The Woods**, prying its secrets from between rough boughs and whispering leaves. In this verdant kingdom, you are no mere scholar, but its confidant as well.
+> You delve deep into **The Wood**, prying its secrets from between rough boughs and whispering leaves. In this verdant kingdom, you are no mere scholar, but its confidant as well.
 
 ## Names
 
@@ -27,7 +27,7 @@ Briar, Moss, Fern, Lichen, Root, Willow, Sage, Yarrow, Rowan, Ash
 - Twine Bauble (_petty_, _Ward_ once per day)
 _Ward_: A silver circle 50ft across appears on the ground. Choose one species that cannot cross it.
 
-## How have The Woods failed you ? Roll 1d6:
+## How have The Wood failed you ? Roll 1d6:
 
 |       |                                                                                                                                                                                               |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -38,7 +38,7 @@ _Ward_: A silver circle 50ft across appears on the ground. Choose one species th
 | **5** | Your impressive corpseflower won a local contest, then promptly killed a judge. You fled, but not without the **Prize Money (100gp)** and a warrant for your arrest.                    |
 | **6** | You created a restorative tincture that also caused accidental infertility. Take a **Healing Potion** that completely restores STR. Only you know of its unintended side-effects.                       |
 
-## What keeps you safe while in The Woods? Roll 1d6:
+## What keeps you safe while in The Wood? Roll 1d6:
 
 |       |                  |                                                                                                          |
 | ----- | ---------------- | -------------------------------------------------------------------------------------------------------- |

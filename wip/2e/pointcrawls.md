@@ -42,7 +42,7 @@ The travel times between each point were determined as follows (assuming that th
   - Add two watches for the _Perilous_ swamp terrain.
 - The journey between **4** and **6** takes 3 watches:
   - Add one watch for the _short_ path distance.
-  - Add one watch for the _trail_ through the woods.
+  - Add one watch for the _trail_ through the forest.
   - Add one watch for the _Tough_ forest terrain.
 - The journey to **7** from any other point should be at least 5 watches:
   - Add two watches for the _medium_ path distance.
