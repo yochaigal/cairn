@@ -9,3 +9,13 @@ search_exclude: true
 
 # Advice
 
+- Wilderness Exploration
+- Dungeon Exploration
+- Saves (when, opposed, etc)
+- Difficulty
+- Combat
+- Scars
+- Damage (CD + attributes)
+- Knowledge
+- Willpower
+
