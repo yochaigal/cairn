@@ -19,10 +19,10 @@ search_exclude: true
 
 - Roll on the [Names Formula](#poi-names-formula) table for each POI. 
 - Roll on the [Adjectives](#adjectives) and [Nouns](#nouns) tables where appropriate.
-- To name regions based on Terrain, swap out "POI" with the terrain type, and consult the [Terrain Synonyms](#terrain-synonyms) table for inspiration. 
+- To roll **1d100**, roll **2d10**, using one die for the tens place, and one die for the ones place.
 - [**Proper Nouns**] can be added to or even replace parts of a name, e.g. **Bruna's Ugly Gulch**. 
 
-> To roll **1d100**, roll **2d10**, using one die for the tens place, and one die for the ones place.
+> To name regions based on Terrain, swap out "POI" with the terrain type, and consult the [Terrain Synonyms](#terrain-synonyms) table for inspiration. 
 
 ### Names Formula
 
@@ -35,28 +35,6 @@ search_exclude: true
 | **4**  | **[Adjective]** **[POI]** of (the) **[Noun]** |
 | **5**  | (The) **[Noun]** **[Adjective]** **[POI]**    |
 | **6**  | **[POI]** of (the) **[Adjective]** **[Noun]** |
-
-## Example POI Names
-
-- The Jade Citadel
-- The Frozen Shrine
-- Temple of the Abyss
-- Grim Watchtower of the Ghost
-- The Devil Fort
-- The Forbidden Bazaar
-- Trading Post of the Desolation
-- Withered Temple of the Moon
-- The Lavender Crumbling Villa
-- The Bitter Archive
-
-### Example Terrain Names
-
-- The Jagged Summit
-- The Gleaming Ridge
-- Butte of the Ghost
-- Mournful Pinnacle of the Skull
-- The Moon Bleak Peaks
-- The Shrouded Range
 
 ## Adjectives
 
@@ -399,4 +377,3 @@ search_exclude: true
 | **98**   | Celestial      | Starlight   |
 | **99**   | Sacred         | Altar       |
 | **100**  | Forgotten      | Shrine      |
-
