@@ -17,57 +17,46 @@ search_exclude: true
 
 ## Generating Names
 
-- Roll on the [Names Formula](#names-formula) table.
-- Roll on the [Adjectives](#adjectives) and [Nouns](#nouns) tables where appropriate. For **POI** results, refer to the original POI results tables.
-- Consult the [Terrain Synonyms](#terrain-synonyms) table for inspiration. 
+- Roll on the [Names Formula](#poi-names-formula) table for each POI. 
+- Roll on the [Adjectives](#adjectives) and [Nouns](#nouns) tables where appropriate.
+- To name regions based on Terrain, swap out "POI" with the terrain type, and consult the [Terrain Synonyms](#terrain-synonyms) table for inspiration. 
+- [**Proper Nouns**] can be added to or even replace parts of a name, e.g. **Bruna's Ugly Gulch**. 
 
-> [**Proper Nouns**] can be added to or even replace parts of a name, e.g. **Bruna's Ugly Gulch**. 
 > To roll **1d100**, roll **2d10**, using one die for the tens place, and one die for the ones place.
 
-## Names Formula
+### Names Formula
 
-- Adjective
-- Noun
-- Terrain
-- Landmark
-- POI Type
-- POI Feature
-- Path Feature
-- Path Condition
+|        |                                               |
+| ------ | --------------------------------------------- |
+| **d6** | **Formula**                                   |
+| **1**  | (The) **[Noun]** **[POI]**                    |
+| **2**  | (The) **[Adjective]** **[POI]**               |
+| **3**  | **[POI]** of (the) **[Noun]**                 |
+| **4**  | **[Adjective]** **[POI]** of (the) **[Noun]** |
+| **5**  | (The) **[Noun]** **[Adjective]** **[POI]**    |
+| **6**  | **[POI]** of (the) **[Adjective]** **[Noun]** |
 
+## Example POI Names
 
-|           |                                         |
-| --------- | --------------------------------------- |
-| **d12**   | **Formula**                             |
-| **1-2**   | **[Adjective]** **[Terrain]** **[POI]** |
-| **3-4**   | **[Noun]** **[Terrain]**                |
-| **5-6**   | **[Terrain]** of the **[POI]**          |
-| **7-8**   | The **[Adjective]** **[Noun]**          |
-| **9-10**  | The **[Adjective]** **[POI]**           |
-| **11-12** | **[Terrain]** of (the) **[Noun]**       |
+- The Jade Citadel
+- The Frozen Shrine
+- Temple of the Abyss
+- Grim Watchtower of the Ghost
+- The Devil Fort
+- The Forbidden Bazaar
+- Trading Post of the Desolation
+- Withered Temple of the Moon
+- The Lavender Crumbling Villa
+- The Bitter Archive
 
-## Example Names
+### Example Terrain Names
 
-POI: **Plateau** / **Lair** / **Abandoned Tower**
-
-|           |                       |
-| --------- | --------------------- |
-| **d12**   | **Result**            |
-| **1-2**   | Grim Mesa Tower       |
-| **3-4**   | Smoke Highlands Tower |
-| **5-6**   | Plateau of the Tower  |
-| **7-8**   | The Empty Island      |
-| **9-10**  | The Withered Tower    |
-| **11-12** | Plateau of the Witch  |
-
-
-
-- Bluffs / Fallen Column: 1-2 = **Forgotten Bluffs**
-- Plateaus / Lair / Abandoned Bridge: 3-4 = **Flat Crossing**
-- Forest / Settlement / Prison: 5-6 = **Woodcage**
-- Canyons / Hazard / Poisonous Foliage: 7-8 = **Bane Ravine**
-- Oasis / Special / Unusual Gravity: 9-10 = **The Floating Spring** 
-- Grasslands / Landmark / Mysterious Megalith: 11-12 = **Field of the Stone Gods**
+- The Jagged Summit
+- The Gleaming Ridge
+- Butte of the Ghost
+- Mournful Pinnacle of the Skull
+- The Moon Bleak Peaks
+- The Shrouded Range
 
 ## Adjectives
 
