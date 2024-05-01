@@ -20,7 +20,7 @@ search_exclude: true
 - Roll on the [Names Formula](#poi-names-formula) table for each POI. 
 - Roll on the [Adjectives](#adjectives) and [Nouns](#nouns) tables where appropriate.
 - To roll **1d100**, roll **2d10**, using one die for the tens place, and one die for the ones place.
-- [**Proper Nouns**] can be added to or even replace parts of a name, e.g. **Bruna's Ugly Gulch**. 
+- Proper Nouns can be added to or even replace parts of a name, e.g. **Bruna's Ugly Gulch**. 
 
 > To name regions based on Terrain, swap out "POI" with the terrain type, and consult the [Terrain Synonyms](#terrain-synonyms) table for inspiration. 
 
