@@ -209,7 +209,7 @@ search_exclude: true
 
 |         |             |
 | ------- | ----------- |
-| **d20** | **Group**   |
+| **d20** | **Type**    |
 | **1**   | Assembly    |
 | **2**   | Brotherhood |
 | **3**   | Circle      |
@@ -233,32 +233,26 @@ search_exclude: true
 
 #### Faction Names Formula
 
-|        |                                                    |
-| ------ | -------------------------------------------------- |
-| **d4** | **Formula**                                        |
-| **1**  | The **[Adjective] [Noun] [Group Type]**            |
-| **2**  | The **[Adjective] [Group Type]**                   |
-| **3**  | The **[Group Type]** of the **[Adjective] [Noun]** |
-| **4**  | The **[Noun] [Group Type]**                        |
+|        |                                                 |
+| ------ | ----------------------------------------------- |
+| **d6** | **Formula**                                     |
+| **1**  | (The) **[Noun]** **[Group]**                    |
+| **2**  | (The) **[Adjective]** **[Group]**               |
+| **3**  | **[Group]** of (the) **[Noun]**                 |
+| **4**  | **[Adjective]** **[Group]** of (the) **[Noun]** |
+| **5**  | (The) **[Noun]** **[Adjective]** **[Group]**    |
+| **6**  | **[Group]** of (the) **[Adjective]** **[Noun]** |
 
 ## Realm Names
 
 1. Roll on the [Ruler Names Formula](#ruler-names-formula) table below.
-2. Roll on the [Adjectives](#adjectives), [Nouns](#nouns), [Terrain](#terrain), and [Rulers](#rulers) table, and add "of" or "the" where appropriate
+2. Roll on the [Adjectives](#adjectives), [Nouns](#nouns), [Terrain](#terrain), and [Ruler Types](#ruler-types) table, and add "of" or "the" where appropriate
 
 | Optionally, replace any value with the dominant terrain synonym, e.g. "_The Misty Bluffs_". 
 
 ### Ruler Names Formula
 
-|        |                               |
-| ------ | ----------------------------- |
-| **d6** | **Template**                  |
-| **1**  | The [Adjective] [Rulers]      |
-| **2**  | The [Noun] [Rulers]           |
-| **3**  | The [Terrain] [Rulers]        |
-| **4**  | The [Adjective] [Terrain]     |
-
-### Rulers
+### Ruler Types
 
 |         |                   |
 | ------- | ----------------- |
@@ -284,6 +278,16 @@ search_exclude: true
 | **19**  | **Regency**       |
 | **20**  | **State**         |
 
+|        |                                                  |
+| ------ | ------------------------------------------------ |
+| **d6** | **Formula**                                      |
+| **1**  | (The) **[Noun]** **[Rulers]**                    |
+| **2**  | (The) **[Adjective]** **[Rulers]**               |
+| **3**  | **[Rulers]** of (the) **[Noun]**                 |
+| **4**  | **[Adjective]** **[Rulers]** of (the) **[Noun]** |
+| **5**  | (The) **[Noun]** **[Adjective]** **[Rulers]**    |
+| **6**  | **[Rulers]** of (the) **[Adjective]** **[Noun]** |
+
 ### Forest Names
 
 - For the adjective, roll a **d10** twice, first for the **tens** place, and then another for the **ones** place. Then repeat the process for the noun. 
@@ -291,7 +295,6 @@ search_exclude: true
 - Change it up! The name _Welcoming Grove_ creates a more vivid image than _Beckoning Copse_ might.
 - Use contrasting words (e.g. _Twisted Canopy_) to evoke an interesting point about the location.
 - Make it sound nice. Alliteration and pleasing combinations can create pleasant sounds. _Whispering Woods_ is more pleasing to the ear than _Tangled Woods._ 
-
 
 |          |                |             |
 | -------- | -------------- | ----------- |
