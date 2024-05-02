@@ -25,7 +25,6 @@ search_exclude: true
 - **The Dungeon Map**: Put boring or repetitive stuff (exits, room shapes, etc.) on the map. Obvious exits should be described using clear, distinct language. Number your rooms to help avoid confusion when referencing the map.
 - **Room Keying**: Emphasize a room's most important aspects (typically obvious threats or NPCs). Describe elements that help orient the party to their surroundings. Be specific, but avoid describing how the characters should _feel_. Only describe what's happening _now_. If there is history here, the characters will discover it in play. Name each room!
 - **Encounter Tables**: Create random events to help make a dungeon feel alive by making exploration tense and unpredictable, as parties may encounter wandering monsters, Factions, NPCs, or signs of an approaching threat. Try to provide challenges, moments of respite, or opportunities for roleplay. 
-- **Describing a Dungeon**: Always reiterate what is _about_ to happen. Does that flaming barrel look stable, or like it might explode? Constantly re-state a character's surroundings, where they are in physical space, and what their senses are detecting. Provide hints about what lies beyond the next corridor, including odors, sounds, and elevation.
 
 ## Creating a Dungeon
 
