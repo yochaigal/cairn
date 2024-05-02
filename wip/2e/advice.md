@@ -21,11 +21,11 @@ You might have something like this, a journey between two POIs, with Easy terrai
 - Watch three: Make Camp. The party sets up a hastily-made shelter and each member consumes a ration. A lookout rotation is set (there are four party members), and the other three go to sleep. 
  - [Events Table]: **Sign**. The sky clears up enough for the first guard to see a light in the distance, flickering slowly. A campfire! Someone is definitely following them.
 
-## Dungeon Exploration
+## How Does Dungeon Exploration Work?
 
 ### Dungeon Exploration Example
 
-A party of 3 player characters (**Leib**, **Konstin**, and **Gar**) have entered the first level of the forest ruins of **Ein Eyton**, once the home of the death-cult **Lunheuzo**. Each character has a torch, but only **Leib** has one lit. There are no light sources here beyond the Moon in the night sky. The **Warden** reads the first room's description:  
+A party of 3 player characters (**Leib**, **Konstin**, and **Gar**) have entered the first level of **Ein Eyton**, a forest temple once rumored to house an infamous death cult. Each character has a torch, but only **Leib** has one lit. There are no light sources here beyond the Moon in the night sky. The first room is written as follows:
 
 ### The Courtyard
 
@@ -40,7 +40,7 @@ A wide courtyard completely exposed to the **open air**. The **ground** is sandy
   - If the jewel from the nearby rubble is inserted into the statue, nothing happens. If it is removed again, the statue responds accordingly.
 - **Doorway**: The door to the Storeroom has nearly rotted away, leaving cracks in the wood. The iron chain is clearly rusted.
 
-The **Warden** describes the room as "_A wide courtyard. Moonlight drifts through the collapsed roof from the night sky. The floor is sandy, chalk-white that sparkles in the moonlight. Rubble is piled in the center near a statue of a woman holding a bladed weapon. There is a closed wooden door on the **East** side, and an open archway into a dark tunnel to the **West**."_
+**Warden** "_You enter a wide courtyard. Moonlight drifts through the collapsed roof from the night sky. The floor is sandy, chalk-white that sparkles in the moonlight. Rubble is piled in the center near a statue of a woman holding a bladed weapon. There is a closed wooden door on the **East** side, and an open archway into a dark tunnel to the **West**. What do you do?"_
 
 [**The characters then declare their intended actions.**]    
 **Leib**: _"I'll search the room for clues about its purpose, starting with that glittery ground."_ 
