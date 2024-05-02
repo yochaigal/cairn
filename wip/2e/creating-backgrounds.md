@@ -9,15 +9,9 @@ search_exclude: true
 
 # Creating Backgrounds
 
-- Introduction
-- Principles
-- Anatomy of a Background
-- A Background For Your Setting
-- Bonds & Omens
-
 ## Introduction
 
-In Cairn, a PC's background is the most important element of their character, representing their past as well their present. Backgrounds can influence a character's knowledge, expertise, their connection with the setting, and much more. Backgrounds are also a filter for interpreting the results of a dice roll, or a reason to not roll at all. A Greenwise doesn't need to save DEX when cutting leaves from a poisonous plant, just as a Scrivener knows how to read the older form of a local tongue. Most importantly, backgrounds tell a story through the character's starting gear and unique history, connecting the PC to a setting and its themes.
+In Cairn, a PC's background is the most important element of their character, representing their past as well as their present. Backgrounds can influence a character's knowledge, expertise, their connection with the setting, and much more. Backgrounds are also a filter for interpreting the results of a dice roll, or a reason to not roll at all. A Greenwise doesn't need to save DEX when cutting leaves from a poisonous plant, just as a Scrivener knows how to read the older form of a local tongue. Most importantly, backgrounds tell a story through the character's starting gear and unique history, connecting the PC to a setting and its themes.
 
 ## Principles
 
@@ -30,7 +24,7 @@ In Cairn, a PC's background is the most important element of their character, re
 
 ### Theme
 
-Prepare a list of common adjectives that describe your new background. If designing a profession, ask yourself what would lead someone to take on such a career. If writing something more unique (such as the Half-Witch, for example), consider how such a person's strangeness would alienate them from others, or bring them closer. And as you write the background's starting gear and tables, keep in mind how the game world's implied setting, inspirational material (books, film, etc.), and existing tropes might influence the results.
+Prepare a list of common adjectives that describe your new background. If designing a profession, ask yourself what would lead someone to take on such a career. If writing something more unique (such as the Half-Witch, for example), consider how such a person's strangeness would alienate them from others, or bring them closer. And as you write the background's starting gear and tables, keep in mind how the game world's implied setting, inspirational materials (books, film, etc.), and existing tropes might influence the results.
 
 ### Starting Gear
 

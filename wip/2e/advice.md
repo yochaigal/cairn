@@ -18,6 +18,7 @@ search_exclude: true
 - Damage (CD + attributes)
 - Knowledge
 - Willpower
+- Bonds & Omens
 
 ## Wilderness Exploration
 
