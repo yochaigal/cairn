@@ -587,3 +587,15 @@ A ramshackle **hut** built astride a small **lake** to the North. **Smoke** stre
 - **Voices**: Laughing and muffled speech. At least two voices can be heard from inside.
   - There are three ex-soldiers squatting in this hut. They are pacifists that were forcibly conscripted into military service. They are seeking refuge in the abbey at **7**, but haven't made it that far yet. They are jovial, kind-hearted and absolute cowards. 
   - They know little about the forest, other than that there used to be a river running South from the lake that ended somewhere near an abbey.
+
+### Encounters
+
+|         |                                                                                                     |
+| ------- | --------------------------------------------------------------------------------------------------- |
+| **d20** | **Encounter**                                                                                       |
+| **1**   | A tiny bearded man argues with a squawking raven. It holds something shiny in its beak.             |
+| **2**   | A dryad sits atop a stone, a purple fungus lining her arms. There is a violence to her eyes.        |
+| **3**   | A patch of quicksand is disguised as soft ground. A broken spool of rope lies nearby.               |
+| **4**   | A snarling pack of wolves surround a fresh kill. They are not keen to share.                        |
+| **5**   | A wide river where otters are playing with something shiny. It appears to be a small suit of armor. |
+| **6**   | Three Naiads splash in a small pond. Their teeth are fanged, like daggers.                          |
