@@ -104,7 +104,7 @@ On their turn, a character may move up to 40ft and take up to one action. This m
 
 ### Character Death
 
-- When a character dies, the player is free to create a new character or take control of a hireling. They immediately join the party in order to reduce downtime.
+- When a character dies, the player should create a new character or take control of a hireling. They immediately join the party in order to reduce downtime.
 
 ### Detachments
 
@@ -114,6 +114,11 @@ On their turn, a character may move up to 40ft and take up to one action. This m
 ### Retreat
 
 - Running away from a dire situation always requires a successful DEX save, as well as a safe destination to run to.
+
+### Ranged Attacks
+
+- Ranged weapons can target any enemy near enough to see the whites of their eyes. Attacks against especially distant targets are _Impaired_.
+- Ammunition is not tracked unless otherwise specified. 
 
 ## Scars
 

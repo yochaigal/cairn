@@ -88,7 +88,7 @@ When the party:
 ### Doors
 
 - Doors and entryways may be locked, stuck, moving or blocked entirely. Characters can try to force a door open (or wedge it shut) using available resources (spikes, glue), or through raw ability. 
-- The character _most at risk_ should **save** to avoid whatever danger may befall them. 
+- The party's marching order determines who is most impacted by whatever lies beyond a door.
 - A character can detect, through careful observation (listening, smelling, etc.), signs of life and other hazards through nearby doors and walls.
 
 ### Traps 
