@@ -17,7 +17,7 @@ search_exclude: true
 - Do not tell characters how they should feel, and only tell them what's happening right now, before their eyes.
 - Provide hints about what lies beyond the next corridor, including odors, sounds, and elevation.
 - Ensure that the players understand their character's place in the Dungeon Cycle. Remind them who has already moved, who has yet to take an action, and so on. 
-- Dungeon exploration is an economy whose currency is the turn. If the party spends too long in one place, acts without caution, makes a noise, or enters a new area they risk a roll on the Dungeon Events table.
+- The economy of dungeon exploration is paid in turns. If the party spends too long in one place, acts without caution, makes a noise, or enters a new area they risk a roll on the Dungeon Events table.
 
 ## Dungeon Exploration Example
 
