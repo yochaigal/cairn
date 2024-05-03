@@ -21,7 +21,9 @@ search_exclude: true
 
 ## Dungeon Exploration Example
 
-A party of 3 player characters (**Leib**, **Konstin**, and **Gar**) have entered the first level of **Ein Eyton**, a forest temple once rumored to house an infamous death cult. Each character has a torch, but only **Leib** has one lit. There are no light sources here beyond the Moon in the night sky. The first room is written as follows:
+A party of 3 player characters (**Leib**, **Konstin**, and **Gar**) have entered the first level of **Ein Eyton**, a forest temple once rumored to house an infamous death cult. Each character has a torch, but only **Leib** has one lit. There are no light sources here beyond the Moon in the night sky. 
+
+The first room is presented as follows:
 
 ### The Courtyard
 
@@ -94,7 +96,7 @@ A wide courtyard completely exposed to the **open air**. The **ground** is sandy
 
 [**The Warden then rolls on the Dungeon Events table: Environment.**]
 
-**Warden**: _"**Gar's** clanging labor echoes against the exposed walls of the courtyard. The silence between two dagger strikes is suddenly broken when a loose shingle falls from the East wall, clattering onto the stone floor. On the other side of the wooden door, **Konstin** hears something move towards the door! Finally, the jewel comes loose."_ 
+**Warden**: _"**Gar's** clanging labor echoes against the exposed walls of the courtyard. The silence between two dagger strikes is suddenly broken when a loose shingle falls from the East wall, clattering onto the stone floor. On the other side of the wooden door, **Konstin** hears something moving closer! At that exact moment, the jewel comes loose."_ 
 
 **Konstin**: _"Um, something's coming. Can we please leave, NOW?"_ 
 
@@ -106,6 +108,6 @@ A wide courtyard completely exposed to the **open air**. The **ground** is sandy
 **Gar**: _"Hang on, what about this jewel I discovered? It looks like it could go in that statue's eye..."_
 **Konstin**: _"What are you, nuts? For all we know that statue will come to life and attack!"_
 **Gar**: _"Or maybe it'll open a secret door?_"
-**Leib**: _"Enough, let's just move on for now. There is something on the other side of that door, and I do NOT want ot meet it!"_
+**Leib**: _"Enough, let's just move on for now. There is something on the other side of that door, and I do NOT want to find out what!"_
 
 [**The party moves on to the adjoining hall and the adventure continues.**]
