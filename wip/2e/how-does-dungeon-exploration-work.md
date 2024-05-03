@@ -36,9 +36,10 @@ A wide courtyard completely exposed to the **open air**. The **ground** is sandy
   - If the jewel from the nearby rubble is inserted into the statue, nothing happens. If it is removed again, the statue responds accordingly.
 - **Doorway**: The door to the Storeroom has nearly rotted away, leaving cracks in the wood. The iron chain is clearly rusted.
 
-**Warden** "_You enter a wide courtyard. Moonlight drifts through the collapsed roof from the night sky. The floor is sandy, chalk-white that sparkles in the moonlight. Rubble is piled in the center near a statue of a woman holding a bladed weapon. There is a closed wooden door on the **East** side, and an open archway into a dark tunnel to the **West**. What do you do?"_
+**Warden** "_You enter a wide courtyard. Moonlight drifts through the collapsed roof from the night sky. The floor is sandy, chalk-white that sparkles in the moonlight. Rubble is piled in the center near a statue of a woman holding a pronged weapon. There is a closed wooden door on the **East** side, and an open archway into a dark tunnel to the **West**. What do you do?"_
 
-[**The characters then declare their intended actions.**]    
+[**The characters then declare their intended actions.**]
+
 **Leib**: _"I'll search the room for clues about its purpose, starting with that glittery ground."_ 
 **Konstin**: _"I'll check out the wooden **door**, to see if I can figure out what's on the other side."_ 
 **Gar**: "_I'm going to get a better look at that **statue**. What can I learn without actually getting too close?"_ 
@@ -73,32 +74,38 @@ A wide courtyard completely exposed to the **open air**. The **ground** is sandy
 
 **Gar**: _"Right, remember that I'd like to take a look, but I don't want to get too close."_
 
-**Warden**: _"You step about five feet away from the Statue. The face looks chipped away, and one of the eyes is missing entirely. However embedded in the other is a beautiful red jewel! The statue holds a bident painted white in its hands. Do you interact with the statue further, or move along?"_
+**Warden**: _"You step about five feet away from the Statue. The face looks chipped away, and one of the eyes is missing entirely. However embedded in the other is a beautiful red jewel! The statue holds a white bident in its hands. Do you interact with the statue further, or move along?"_
 
 **Gar**: _"That's just creepy! I want no part in this, at least not until we learn more about what this room was for. I'd like to investigate that rubble you mentioned before."_ 
 
 **Warden**: _"Alright, you move to the rubble adjacent to the statue. It looks extremely heavy, and difficult to move. In the light from **Leib's** torch you can see something red and shiny glinting in the cracks of the pile. What do you do?"_
 
-**Gar**: _"I dig it out, of course! But carefully."_
+**Gar**: _"I investigate further, of course!"_
 
-**Warden**: _"You move some of the rubble aside, and spy a red jewel enclosed in a stone fist. The fingers are wrapped around it quite tightly; you'll need to work hard to get it loose!"_
+**Warden**: _"You take a closer look, and spy a red jewel enclosed in a large stone fist. It looks valuable, at least 75gp. It also looks large enough to take up an entire slot!"_
 
-**Gar**: _"Damn. Fine, I'm going to chisel away at with the edge of my dagger and a block of rubble. Noise be damned!_"
+**Gar**: _"I want it. Can I dig it out easily?"_
 
-**Warden**: _"OK, you do that. It makes a lot of noise, but eventually the jewel comes lose. It takes up one slot, and looks worth about 75gp."_
+**Warden**: _"The fingers are wrapped around it quite tightly; you'll need to work hard to get it loose, or spend an extra turn to extract it quietly. Either choice will likely trigger a dungeon event roll."
 
-[**The Warden then rolls on the Dungeon Events table: a Loss.**]
+**Gar**: _"Damn. Fine, I'm going to do it as quickly as possible, using the edge of my dagger and a block of rubble to pop it out. Noise be damned!_"
 
-**Warden**: _"A great surge of wind rushes into the courtyard from the exposed roof. **Leib's** torch is blown out, but the moonlight is sufficient to protect the party from making a **Panic** roll."_
+**Warden**: _"Alright, let's see how loud you are..."_
 
-**Leib**: _"I'll mark off another use of my torch and relight it, if that's OK_"
+[**The Warden then rolls on the Dungeon Events table: Environment.**]
 
-**Warden**: _"That's fine. And with that everyone has finished out their turns. Remember that if you spend more than one dungeon cycle in one area you will trigger a dungeon event roll!"_
+**Warden**: _"**Gar's** clanging labor echoes against the exposed walls of the courtyard. The silence between two dagger strikes is suddenly broken when a loose shingle falls from the East wall, clattering onto the stone floor. On the other side of the wooden door, **Konstin** hears something move towards the door! Finally, the jewel comes loose."_ 
+
+**Konstin**: _"Um, something's coming. Can we please leave, NOW?"_ 
+
+**Gar**: _"I'll quickly put the jewel in my backpack_."
+
+**Warden**: _"And with that, this cycle is over. What do you all do next?"_
 
 **Leib**: _"I think we should head down that stone archway to the West. We can always circle back to this room on our way out._"
-**Konstin**: _"Hang on, what about this red jewel **Gar** discovered? It looks like it could go in that eye..."_
-**Gar**: _"What are you, nuts? For all we know that statue will come to life and attack!"_
-**Konstin**: _"Or maybe it'll open a secret door?_"
-**Leib**: _"Enough, let's move on for now. This place gives me the creeps."_
+**Gar**: _"Hang on, what about this jewel I discovered? It looks like it could go in that statue's eye..."_
+**Konstin**: _"What are you, nuts? For all we know that statue will come to life and attack!"_
+**Gar**: _"Or maybe it'll open a secret door?_"
+**Leib**: _"Enough, let's just move on for now. There is something on the other side of that door, and I do NOT want ot meet it!"_
 
-[**The party moves on to the adjoining hall, and the adventure continues.**]
+[**The party moves on to the adjoining hall and the adventure continues.**]
