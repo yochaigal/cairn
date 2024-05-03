@@ -590,12 +590,12 @@ A ramshackle **hut** built astride a small **lake** to the North. **Smoke** stre
 
 ### Encounters
 
-|         |                                                                                                     |
-| ------- | --------------------------------------------------------------------------------------------------- |
-| **d20** | **Encounter**                                                                                       |
-| **1**   | A tiny bearded man argues with a squawking raven. It holds something shiny in its beak.             |
-| **2**   | A dryad sits atop a stone, a purple fungus lining her arms. There is a violence to her eyes.        |
-| **3**   | A patch of quicksand is disguised as soft ground. A broken spool of rope lies nearby.               |
-| **4**   | A snarling pack of wolves surround a fresh kill. They are not keen to share.                        |
-| **5**   | A wide river where otters are playing with something shiny. It appears to be a small suit of armor. |
-| **6**   | Three Naiads splash in a small pond. Their teeth are fanged, like daggers.                          |
+|         |                                                                                              |
+| ------- | -------------------------------------------------------------------------------------------- |
+| **d20** | **Encounter**                                                                                |
+| **1**   | A tiny bearded man argues with a squawking raven. It holds something shiny in its beak.      |
+| **2**   | A dryad sits atop a stone, a purple fungus lining her arms. There is a violence to her eyes. |
+| **3**   | A patch of quicksand is disguised as soft ground. A broken spool of rope lies nearby.        |
+| **4**   | A snarling pack of wolves surround a fresh kill. They are not keen to share.                 |
+| **5**   | Wild berries grow here in abundance. None have been eaten, not even by birds.                |
+| **6**   | A trap, hastily set and poorly concealed. It smells strongly of urine.                       |
