@@ -17,8 +17,8 @@ A forestcrawl is a simple method for exploring a large forested area, typically 
 
 - Follow the _Dungeon_ exploration procedures found in the Player's Guide, but rather than rolling for Dungeon Events, use the Wilderness Events table instead.
 - If the party attempts to step off the trail and cut through the forest, the Warden should make any associated costs clear. Added travel time, effort, special tools that may be required, and any obvious dangers. Going off-trail also automatically triggers a roll on the Wilderness Events table.
-- Points in a forestcrawl are close to each other. When traveling on clearly marked trails, a small forest zone (10-15 POIs) can be explored in its entirety in a single Watch.
-- Rely on the fiction and common sense to determine how much daylight is available, whether a suitable area is available for rest, and what the costs or dangers associated nighttime exploration may be. 
+- Points in a forestcrawl are close to each other. When traveling on clearly marked trails a small forest (10-15 POIs) can be explored in a single Watch.
+- Rely on the fiction and common sense to determine how much daylight is available, whether a suitable area is available for rest, and what the costs or dangers the forest may bring in the darkness. 
 
 ## Creating a Forest
 
@@ -35,10 +35,10 @@ Follow this procedure for any forested terrain in a region. If a conflict or int
 
 ### Overview
 
-1. Define the forest.
-2. Define the forest's inhabitants.
-3. Create points.
-4. Create the trails.
+1. Describe the forest.
+2. Describe the spirit of the forest.
+3. Create the forest's POIs.
+4. Create the forest's trails.
 5. Create forest encounters.
 6. Name the forest.
 
