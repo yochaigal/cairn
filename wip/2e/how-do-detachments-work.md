@@ -9,30 +9,27 @@ searchexclude: true
 
 # How Do Detachments Work?
 
+**Wolfram**, **Lucius**, and **Freya** are hiding in a burnt outpost. 
 A _detachment_ of six soldiers is firing arrows at the party's hiding spot near a small outpost. All of the soldiers are armored, and each carries a sword and short bow. Their leader is a tall man with a blue epaulet on his shoulder. 
-
-**Wolfram**
-**Lucius**
-**Freya**
 
 **Warden**: "The outpost is partly shielded by wood, but you must crouch to avoid getting hit by arrows. Through the slats you see the soldiers split off, widening the distance between (3 in each, the Leader following the Westward group (to your right).  Based on their current speed, you have less than a minute to act before they reach the open-side of the shield wall surrounding the outpost, where you'll be a sitting duck!"
 
-**Hunter**: "Alright, I'm going wait until the leader is as close as possible, then fire down from above. If that leaves me open to their arrows, so be it. We've got to take him out - perhaps the rest will scatter!"
+**Wolfram**: "Alright, I'm going wait until the leader is as close as possible, then fire down from above. If that leaves me open to their arrows, so be it. We've got to take him out - perhaps the rest will scatter!"
 
-**Outlaws**: "We'll scatter caltrops at the base of the outpost near the ladder, and get ready to toss oil on whomever tries to climb up. Otherwise we'll leap off [DEX save] if anyone gets in firing range. We don't want to be sitting ducks!"
+**Freya**: "We'll scatter caltrops at the base of the outpost near the ladder, and get ready to toss oil on whomever tries to climb up. Otherwise we'll leap off [DEX save] if anyone gets in firing range. We don't want to be sitting ducks!"
 
-> Note: The outlaws are twins. Deal with it.
+> Note: The Freya are twins. Deal with it.
 
-**Cleric**: (fumbling through his things) "Leave me to die, will you? Fine. I'll prepare to use that damnable book again if it helps me get the hell out of this place as quickly as possible!" 
+**Lucius**: (fumbling through his things) "Leave me to die, will you? Fine. I'll prepare to use that damnable book again if it helps me get the hell out of this place as quickly as possible!" 
 
 **Warden**: "The soldiers continue their trajectory, carefully prepared to fire on anyone who approaches. The Leader draws his sword into the air and screams, "Charge!"
 
 Everything happens at once.
 
-First, the Hunter stands and fires his arrows at the leader. Since the leader is part of a detachment, instead of the typical d6, he only rolls a d4. It strikes the Leader for 3 damage, taking away 1 HP (he had 2 Armor)!. The arrow whizzes past the leader's shoulder, tearing his brightly-colored shoulder tassle. He grimaces and rushes straight ahead, towards the outpost.
+First, the Wolfram stands and fires his arrows at the leader. Since the leader is part of a detachment, instead of the typical d6, he only rolls a d4. It strikes the Leader for 3 damage, taking away 1 HP (he had 2 Armor)!. The arrow whizzes past the leader's shoulder, tearing his brightly-colored shoulder tassle. He grimaces and rushes straight ahead, towards the outpost.
 
 At the same time, the Twins scatter their caltrops at the base of the half-shielded outpost. They both pause as the soldiers approach, waiting to see what happens before they jump over the wall.
-Finally, the disgraced Cleric opens his Haste spell in both hands, and mumbles the phrases form the page. Instantly, he becomes a blur, moving off the outpost at a blinding speed. He zooms past the ladder, the caltrops and the oncoming soldiers and into the safety of the forest behind them. He takes one Fatigue, using up 9 out of 10 inventory slots. 
+Finally, the disgraced Lucius opens his Haste spell in both hands, and mumbles the phrases form the page. Instantly, he becomes a blur, moving off the outpost at a blinding speed. He zooms past the ladder, the caltrops and the oncoming soldiers and into the safety of the forest behind them. He takes one Fatigue, using up 9 out of 10 inventory slots. 
 
 [Enemy turn] 
 
