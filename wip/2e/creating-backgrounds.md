@@ -31,7 +31,7 @@ Prepare a list of common adjectives that describe your new background. If design
 Characters in Cairn are largely defined by their inventory, so starting gear is should be the first place to start painting a background's unique canvas. Each background has:
 - Six default items (not including gold pieces). These should occupy no more than seven slots in total, so as to not overburden a character's starting inventory.
 - Gold, food, and some kind of light source. These should still be unique, however. A background might start with unusual Rations, a candle helmet, and so on. 
-- Up to four _unique_ items that reinforce the overarching theme of the background. At least one of these should be a weapon of some kind. 
+- Up to four _unique_ items that reinforce the overarching theme of the background. At least one of these items should be a weapon of some kind. 
 
 ### Tables
 

@@ -9,11 +9,11 @@ searchexclude: true
 
 # How Do Detachments Work?
 
+A _detachment_ of six soldiers is firing arrows at the party's hiding spot near a small outpost. All of the soldiers are armored, and each carries a sword and short bow. Their leader is a tall man with a blue epaulet on his shoulder. 
 
-
-A squad of six soldiers is firing arrows at the party's hiding spot, near a small outpost. The party consists of an experienced hunter (with a bow), two former outlaws (throwing knives and a long sword, respectively) and a disgruntled former priest (spellbook: Haste).
-
-Each soldier is armored, and equipped with a short bow and a short sword, save the leader who carries a long sword of alien quality. After their arrows fall short, the group splits up, circling the outpost from both sides in a pincer maneuver.
+**Wolfram**
+**Lucius**
+**Freya**
 
 **Warden**: "The outpost is partly shielded by wood, but you must crouch to avoid getting hit by arrows. Through the slats you see the soldiers split off, widening the distance between (3 in each, the Leader following the Westward group (to your right).  Based on their current speed, you have less than a minute to act before they reach the open-side of the shield wall surrounding the outpost, where you'll be a sitting duck!"
 
