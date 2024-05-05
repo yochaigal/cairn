@@ -45,6 +45,6 @@ Sable, Lyra, Eamon, Salina, Elara, Freya, Isolde, Sparrow, Ivy, Silas
 | **3** | **Glimpse Glass**     | 3 charges. A monocle that lets you see through walls or other obstructions. It shatters after the last use.                                        |
 | **4** | **Sweetwhistle**      | 1 charge. Listeners hear a soft, familiar voice in the distance that they cannot resist following. **Recharge**: Lose a dear memory (describe it). |
 | **5** | **Vagrant's Veil**    | 1 charge. Wear it to blend seamlessly into crowds, appearing as a simple pauper. **Recharge**: Donate the day's winnings to the poor. _Petty_      |
-| **6** | **Reverse Teetotum*** | 1 use. When spun, time skips backwards 30 seconds. Everyone remembers what happened.                                                                                    |
+| **6** | **Reverse Teetotum** | 1 use. When spun, time skips backwards 30 seconds. Everyone remembers what happened.                                                                                    |
 
 
