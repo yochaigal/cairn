@@ -7,13 +7,13 @@ nav_exclude: true
 search_exclude: true
 ---
 
-# How Do Detachments & Morale Work?
+# How Do Detachments Work?
 
 > **Wolfram**, **Lucius**, and **Freya** are on the run from a _detachment_ of twelve city guards [4 HP, 1 Armor, 11 STR, 14 DEX, 12 WIL, short sword (d6)], taking shelter in a burnt out old outpost at the edge of a forest. The soldiers each carry a short sword and bow, except for their leader, a tall man with a bright blue epaulet on his shoulder. The soldiers know that the party have taken refuge in the outpost, and are talking amongst themselves at a safe distance away, just North of where the party is hunkering down. The _detachment_ will be treated as a single entity until they take **Critical Damage**.
 
 **Warden**: _"The outpost is partly shielded by what remains of its walls, and through the slats you see the soldiers split off: six head towards the Southwest adjacent the treeline, while the rest (including the tall man) move Southeast, where the walls are the most damaged. It looks like they are planning some kind of pincer attack. Based on their current speed, you have less than a minute to act before they reach the open-side of the shield wall surrounding the outpost, where you'll be sitting ducks! What do you do?"_
 
-**Wolfram**: _"I was in the military, so I know how this goes. That man with the fancy tassel is their leader. If we take him out, the rest might flee. I'm going wait until he is as close as possible, then fire my crossbow at him. If that leaves me exposed, then so be it!"_
+**Wolfram**: _"I was in the military, so I know how this goes. That man with the fancy tassel is their leader. If we take him out, the rest might flee. I'm going to wait until he is as close as possible, then fire my crossbow at him. If that leaves me exposed, then so be it!"_
 
 **Lucius**: _"You're always so direct, Wolfie! I'm going to pour some of my famous Miracle Oil on the ladder leading up here. That should both prove effective and entertaining!"_
 
@@ -65,6 +65,6 @@ search_exclude: true
 
 **Freya**: _"I'm pretty sure this was all me, but whatever._"
 
-**Lucius** _"Who cares? Let's just get out of here while the going's good._"
+**Lucius** _"Who cares? Let's just get out of here while the getting's good._"
 
 **Warden** _"You have an opportunity to flee into the nearby woods, or across the open fields if you think you can run fast enough. What do you do?"_
