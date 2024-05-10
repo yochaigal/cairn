@@ -57,8 +57,14 @@ search_exclude: true
 
 **Warden**: _"Alright. Freya leaps down to the smokey earth, making a beeline for the leader. She draws her twin daggers, but as she is still attacking a detachment she must still roll only a d4 for each."_
 
-> Freya makes two d4 rolls, a 4 and a 1. She keeps the higher, and the leader's helmet again absorbs 1 point of damage. The remaining three damage is enough to trigger a **Critical Damage** save on the behalf of the detachment. The result is a 15, a fail.
+> Freya makes two d4 rolls, a 4 and a 1. She keeps the higher, and the leader's helmet again absorbs 1 point of damage. The remaining three damage is enough to trigger a **Critical Damage** save on the behalf of the detachment. The result is a 15 (a fail) and with the defeat of their leader is both broken and routed.
 
-**Warden**: _"Freya slashes at the leader with one dagger, but it just misses as the man takes a lucky step back. He is far less fortunate On her second attack however, as she stabs the man in the chest. He slumps over, and those closest to him shout in surprise, some even freezing in place. It is at this moment that you hear a scream, and then from the outpost see Wolfram leap onto the ground and begin running in circles like a chicken, followed only by Lucius holding his arms."_ 
+**Warden**: _"Freya slashes at the leader with one dagger, but it just misses as the man takes a lucky step back. He is far less fortunate On her second attack however, as she stabs the man in the chest. He slumps over, and those closest to him shout in surprise, some even begin backing away. It is at this moment that you hear a scream, and then from the outpost see Wolfram leap onto the ground and begin running in circles like a chicken, followed by Lucius holding both of his friend's arms. The others then pick up their leader and hightail it back to the edge of the hill amid screams of 'They're monsters!' and 'We weren't trained for this!'"_ 
 
-**Warden** _"The other soldiers pick up their leader and hightail it back to the edge of the hill among screams and exclamations of 'They're monsters!' and 'We weren't trained for this!' You have an opportunity to flee into the nearby woods now without a DEX save, or across the open fields if you think you can run fast enough. What do you do?"_
+**Wolfram**: _"See, I told you it would work!"_
+
+**Freya**: _"I'm pretty sure this was all me, but whatever._"
+
+**Lucius** _"Who cares? Let's just get out of here while the going's good._"
+
+**Warden** _"You have an opportunity to flee into the nearby woods, or across the open fields if you think you can run fast enough. What do you do?"_
