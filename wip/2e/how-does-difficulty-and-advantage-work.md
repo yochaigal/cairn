@@ -11,13 +11,6 @@ search_exclude: true
 
 ## Introduction
 
-There are three common scenarios in which a player character should **save**:
--  When avoiding the negative outcome of a risky action.
--  When acting in opposition to another player character, NPC, or creature.
--  When aiding one or more characters in a risky action. 
-
-
-
 **Example 1**
 Say you have a fighter-type facing off against a bugbear near a riverside cave. In one scenario, she is unprepared, and flails her weapon wildly at the bugbear, using her existing skills and combat training to deal d6 damage with her sword against the bugbear. Combat proceeds as normal, until someone is defeated.
 
