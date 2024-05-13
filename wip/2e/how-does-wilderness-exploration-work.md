@@ -11,7 +11,7 @@ search_exclude: true
 
 ## Overview
 
-In Cairn, wilderness exploration and travel is mostly abstract, hand-waiving away the minutiae of the journey while still giving the party ample opportunities for interactivity and character agency. 
+In Cairn, wilderness exploration and travel is mostly abstract, hand-waving away the minutiae of the journey while still giving the party ample opportunities for interactivity and character agency. 
 
 ### Exploration Example
 
@@ -27,11 +27,11 @@ The party is escorting an NPC between two POIs: a small village situated in the 
 #### Day One / Watch Two 
 
 - The party takes the **Travel** action again, continuing along the same trail and plain. _They do not get lost._
-- **Events Table**: **Environment**. The weather has worsened in the evening, and as a result the plain is muddy, and the trail harder to follow. The Warden adds 1 Watch to the journey as the party is forced to slow their march considerably, only reaching the the edge of the grasses by nightfall. The party is forced to find shelter in the open plain rather than at their destination in the adjacent valley.
+- **Events Table**: **Environment**. The weather has worsened in the evening, and as a result the plain is muddy and the trail harder to follow. The Warden adds 1 Watch to the journey as the party is forced to slow their march considerably, only reaching the the edge of the grasses by nightfall. The party is forced to find shelter in the open plain rather than at their destination in the adjacent valley.
 
 #### Day One / Watch Three 
 
-- Tbe party takes the **Make Camp** action. The party sets up a hastily-made shelter, and each member consumes Ration. A lookout rotation is set, dividing the night between all four party members.
-- **Events Table**: **Sign**. The sky clears up enough for the first guard to see a light in the distance, flickering slowly. A campfire! Someone is definitely following them.
+- Tbe party takes the **Make Camp** action. The party sets up a hastily-made shelter, and each member consumes a Ration. A lookout rotation is set, dividing the night between all four party members.
+- **Events Table**: **Sign**. The sky clears up enough for the first person on lookout to see a light in the distance, flickering slowly. A campfire! Someone is definitely following them.
 
 > Note: the party could have chosen to continue on through the night, but doing so could increase the chance of getting lost and put the party at greater risk! 
