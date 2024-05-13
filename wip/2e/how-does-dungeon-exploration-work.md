@@ -21,7 +21,7 @@ search_exclude: true
 
 ## Dungeon Exploration Example
 
-A party of 3 player characters (**Wolfram**, **Lucius**, and **Freya**) have entered the first level of **Ein Eyton**, a forest temple once rumored to house an infamous death cult. Each character has a torch, but only **Wolfram** has one lit. There are no light sources here beyond the Moon in the night sky. The first room is presented as follows:
+**Wolfram**, **Lucius**, and **Freya** have entered the first level of **Ein Eyton**, a forest temple once rumored to house an infamous death cult. Each character has a torch, but only **Wolfram** has one lit. There are no light sources here beyond the Moon in the night sky. The first room is presented as follows:
 
 ### The Courtyard
 
