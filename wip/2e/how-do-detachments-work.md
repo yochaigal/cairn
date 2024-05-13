@@ -21,9 +21,7 @@ search_exclude: true
 
 **Lucius**: _"Uh, I guess I'll do that just after she tosses the Smoke Bombs, then?"_
 
-**Warden**: _"That should be fine, yes. But be aware that combat officially breaks out as soon as Lucius stands to fire. And since you're all at the ready, there is no need to make a DEX save: you go first._
-
-**Everyone**: _"Understood."_
+**Warden**: _"That should be fine, yes. But be aware that combat officially breaks out as soon as Lucius stands to fire. And since you're all at the ready, there is no need to make a DEX save: you go first."_
 
 > **Player's Turn**
 
