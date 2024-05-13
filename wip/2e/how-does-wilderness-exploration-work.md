@@ -31,7 +31,7 @@ The party is escorting an NPC between two POIs: a small village situated in the 
 
 #### Day One / Watch Three 
 
-- Tbe party takes the **Make Camp** action. The party sets up a hastily-made shelter, and each member consumes a Ration. A lookout rotation is set, dividing the night between all four party members.
+- The party takes the **Make Camp** action. The party sets up a hastily-made shelter, and each member consumes a Ration. A lookout rotation is set, dividing the night between all four party members.
 - **Events Table**: **Sign**. The sky clears up enough for the first person on lookout to see a light in the distance, flickering slowly. A campfire! Someone is definitely following them.
 
 > Note: the party could have chosen to continue on through the night, but doing so could increase the chance of getting lost and put the party at greater risk! 
