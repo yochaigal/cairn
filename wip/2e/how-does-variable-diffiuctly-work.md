@@ -1,13 +1,13 @@
 ---
 layout: default
-title: How Does Difficulty And Advantage Work?
+title: How Does Variable Difficulty Work?
 grand_parent: WIP
 parent: 2e
 nav_exclude: true
 search_exclude: true
 ---
 
-# How Does Difficulty & Advantage Work?
+# How Does Variable Difficulty Work?
 
 ## Introduction
 
@@ -29,3 +29,5 @@ The following principles and examples may provide some structure:
 - Death should always be a choice. If the risk is so great that the outcome might be fatal, make sure the player understands what they're getting into.
 - In order for agency to exist, there _must_ be multiple viable options that the PCs can choose from. The more choices, the more interesting the situation becomes.
 - Many dangers can be mitigated or extinguished given time, effort, and skill. If there is no real risk, just skip the roll! 
+
+## Examples
