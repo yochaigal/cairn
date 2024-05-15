@@ -21,7 +21,7 @@ Cairn lacks mechanics such as Attribute modifiers, Advantage and Disadvantage, a
 - Emphasize fictional consequences rather than mechanical buffs. Purely mechanical rewards usually hollow and lack the potential of in-world benefits.
 - Many dangers can be mitigated or extinguished given time, effort, and skill. If there is no real risk, just skip the roll! 
 
-## Creating an Advantage
+## Creating Advantages
 
 > Freya is facing off against a Wood Troll after being separated from the rest of the party. Pinned between the creature and a cave wall, she has no choice but to engage in direct combat. She has already passed her initial DEX save and thus gets to attack before her opponent.
 
@@ -46,3 +46,9 @@ Cairn lacks mechanics such as Attribute modifiers, Advantage and Disadvantage, a
 > Freya flees the scene (no DEX save required), leaving the Wood Troll to bleed out, or so she thought...
 
 ## 
+
+> Wolfram, Lucius, and Freya are investigating rumors of an invisible creature that has been attacking travelers on the road between villages. They've tracked the creature to its island den just 40ft from the shoreline of a poison lake. The lake is separated from the surrounding forest by heavy mud flats.
+
+**Warden**: _"The creature's footprints end at the shore of a roiling lake that bubbles and swirls violently. Knowing the history of the region, you realize that if the lake water doesn't kill you, the toxic fumes stemming from its surface definitely will!"_
+
+**Wolfram**: _"We know that the blasted thing makes its home on that pile of rocks out there. Obviously we can't swim across, but I have an idea about how we might draw it out! Lucius, I'm sorry but of the three of us, you're the most... soft. In other words, the perfect the bait! Let's make it seem as if your cart is stuck in the mud. I've had a blanket rolled up in my blanket for a while now, perhaps Freya and I can hide under it?"_
