@@ -11,7 +11,7 @@ search_exclude: true
 
 ## Introduction
 
-Cairn lacks mechanics such as Attribute modifiers, advantage and disadvantage, and so on. This design emphasizes one of the game's core conceits: that play should focus on narrative, in-world experiences over mechanical resolutions. Player characters are encouraged to pursue advantages through critical thinking and problem solving, not by stacking together external mechanics! As a result, preparing situations for variable difficulty can sometimes feel opaque or even difficult to achieve. The following principles and examples may provide some structure:
+Cairn lacks mechanics such as Attribute modifiers, Advantage and Disadvantage, and so on. This design emphasizes one of the game's core conceits: that play should focus on narrative, in-world experiences over mechanical resolutions. Player characters are encouraged to pursue advantages through critical thinking and problem solving, not by stacking together external mechanics! As a result, preparing situations for variable difficulty can sometimes feel opaque or even difficult to achieve. The following principles and examples may provide some structure:
 
 ## Principles for Variable Difficulty 
 
@@ -40,7 +40,7 @@ Cairn lacks mechanics such as Attribute modifiers, advantage and disadvantage, a
 
 **Warden**: _"You grab a fistful of dust off the ground in front of you and toss it straight into your opponent's face. He staggers backwards, and appears unable to defend himself as he fights to clear the grit from his eyes!."_
 
-> The Wood Troll loses a turn as he tries to remove the dust from his face. Until he does, he also has only 0 HP.
+> The Wood Troll loses a turn as he tries to remove the dust from his face. Until he succeeds he also has only 0 HP.
 
 **Freya**: _"I know I should run for it... but I can't help but take advantage of this situation. I'd like to introduce this fellow to the Twins._"
 
