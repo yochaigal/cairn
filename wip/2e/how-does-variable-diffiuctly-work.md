@@ -15,20 +15,13 @@ Cairn lacks mechanics such as Attribute modifiers, Advantage and Disadvantage, a
 
 ## Principles for Variable Difficulty 
 
-- Be transparent with players. This doesn't mean revealing all of the world's secrets, but provide each player with the maximum information their character might have.
-- Avoid requiring a dice roll whenever possible. If a PC can solve a problem using purely narrative components, _do not ask for a roll_.
-- Create situations that emphasize non-mechanical solution. A problem is more interesting when key to solving it can be understood purely within the fiction. 
+- Create situations that emphasize non-mechanical solutions. A problem is more interesting when key to solving it can be understood purely within the fiction. 
 - Reward thinking outside the box. This may be a simple mitigation of risk, a new piece of knowledge, character Growth, and more.
-- Replace multiple dice rolls with a single dice throw. Simplifying results to a single roll can increase tension while maximizing player input. 
 - Extend positive outcomes according to effort. If the PCs worked really hard to make something succeed despite the danger, enhance the result to match their trouble.
-- Fictional consequences should triumph over purely mechanical effects. Results that exist purely within the rules are usually hollow, and lack the potential of any in-world impact.
-- The outcome of a Save need not be a simple binary. You can tailor the results based on the totality of input: the effort, forethought, resources, and skill that went into the roll.
-- Feel free to say "no," but remember to offer an alternative. If the party cannot proceed due to circumstances beyond their control, give them another option to consider.
-- Death should always be a choice. If the risk is so great that the outcome might be fatal, make sure the player understands what they're getting into.
-- In order for agency to exist, there _must_ be multiple viable options that the PCs can choose from. The more choices, the more interesting the situation becomes.
+- Emphasize fictional consequences rather than mechanical buffs. Purely mechanical rewards usually hollow and lack the potential of in-world benefits.
 - Many dangers can be mitigated or extinguished given time, effort, and skill. If there is no real risk, just skip the roll! 
 
-## Pressing the Advantage
+## Creating an Advantage
 
 > Freya is facing off against a Wood Troll after being separated from the rest of the party. Pinned between the creature and a cave wall, she has no choice but to engage in direct combat. She has already passed her initial DEX save and thus gets to attack before her opponent.
 
