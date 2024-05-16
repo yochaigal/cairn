@@ -138,6 +138,6 @@ Cairn lacks mechanics such as Attribute modifiers, Advantage and Disadvantage, a
 
 > Lucius describes the party's goal, and their efforts so far. He does not know where his friends are, but assumes they are safe. He is wholly at risk here, and Katja _must_ believe him in order for him to be released. He makes a WIL save. He rolls a 5, a success! Katja is convinced of his sincerity.
 
-**Warden** _"As she listens to your story, Katja frowns, then smiles. 'Alright, kid I believe you. Let's make a deal! You introduce me to this friend of yours that you've so kindly escorted into my town, and I'll make sure no one is watching while you slip out of town. But we have to go right now, before this towns implodes on itself. And if that happens, even I can't guarantee your safety..."_ 
+**Warden** _"As she listens to your story, Katja frowns, then finally smiles. 'Alright, alright, I believe you. Let's make a deal! You introduce me to this client of yours that you've so kindly escorted into my town, and I'll make sure no one is watching while you slip away. But we have to go right now, before this place implodes on itself. And if that happens, even I can't guarantee your safety..."_ 
 
-> An hour later, Lucius finds Freya, but not the others. She explains that Wolfram and their client have already left for the abbey. She agrees to take them there, but that she needs to make a quick stop first. Something about one of the Twins...
+> An hour later, Lucius finds Freya, but not the others. She explains that Wolfram and their client have already left for the abbey. She agrees to take them there, but that she needs to make a quick stop first. Something about reclaiming one of her daggers...
