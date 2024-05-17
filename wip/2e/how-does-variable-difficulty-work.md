@@ -128,7 +128,7 @@ Cairn lacks mechanics such as Attribute modifiers, Advantage and Disadvantage, a
 
 **Warden**: _"The jailer guides you into the darkness of the jail, far from the light. As he reaches the far wall, he taps three times on a stone high above his head. After a moment, the wall swings inward, and the guard walks confidently inside, where a dark-haired woman waits at a desk. She smiles at you, and gestures that you sit at the chair across from her."_
 
-**Lucius**: _"Can I go back to my cell, please? Oh... fine. I guess I'll see what she wants."_
+**Lucius**: _"Uh oh. Can I go back to my cell, please? I kid, I kid. I take a seat."_
 
 **Warden**: _The jailor leaves as you take a seat. The room is small, with only one door on the other side of the woman. A very large man stands outside, his head visible through a small window on the door. The woman smiles again, saying, 'Welcome Mr... Well, it doesn't matter. There is only one reason you are here. You've spoken a code known only to thieves and scoundrels. And which one are you, I wonder?"_
 
@@ -140,6 +140,6 @@ Cairn lacks mechanics such as Attribute modifiers, Advantage and Disadvantage, a
 
 > Lucius describes the party's goal, and their efforts so far. He does not know where his friends are, but assumes they are safe. He is wholly at risk here, and Katja _must_ believe him in order for him to be released. He makes a WIL save. He rolls a 5, a success! Katja is convinced of his sincerity.
 
-**Warden** _"As she listens to your story, Katja frowns, then finally smiles. 'Alright, alright, I believe you. Let's make a deal! You introduce me to this client of yours that you've so kindly escorted into my town, and I'll make sure no one is watching while you slip away. But we have to go right now, before this place implodes. And if that happens, even I can't guarantee your safety..."_ 
+**Warden** _"As she listens to your story, Katja frowns, then finally smiles. 'Alright, alright, I believe you. Let's make a deal! You introduce me to this "client" of yours whom you've so kindly escorted into my town, and I'll make sure no one is watching while you slip away. But we have to go right now, before this place implodes. And if that happens, even I can't guarantee your safety..."_ 
 
 > An hour later, Lucius finds Freya, but not the others. She explains that Wolfram and their client have already left for the abbey. She agrees to take them there, but that she needs to make a quick stop first. Something about reclaiming one of her daggers...
