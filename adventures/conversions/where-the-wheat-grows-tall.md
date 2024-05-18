@@ -21,7 +21,7 @@ redirect_from: /resources/adventure-conversions/where-the-wheat-grows-tall/
 
 ### 14. Buried Wheel
 ### Table
-- d10+STR instead fo CON
+- d10+STR instead of CON
 - d10+WIL instead of WIS
 - Fey reaction: go first against Faerie creatures in combat.
 

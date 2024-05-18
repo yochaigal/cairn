@@ -82,7 +82,7 @@ Cairn lacks mechanics such as Attribute modifiers, Advantage and Disadvantage, a
 
 ## Personal History
 
-> The party are escorting an agent of the Alsace faction deep in enemy territory. Their destination is hidden in a small village protected by tall wooden walls. Their job is to sneak their client into the heavily guarded town, and then into the ancient abbey of Der Thunn. As they approach the village, the Sun is just beginning to set, and Lucius has been sent ahead to investigate, posing as a troubadour from the South.
+> The party are escorting an agent of the Alsace faction deep in enemy territory. Their destination is hidden in a small village protected by tall wooden walls. Their job is to sneak their client into the heavily guarded town, and then into the ancient vault of Der Thunn. As they approach the village, the Sun is just beginning to set, and Lucius has been sent ahead to investigate, posing as a troubadour from the South.
 
 **Warden**: _"You approach the walled village, following the dirt trail that leads directly to the town's front gate. Two guards stand on either side of the gate, which is closed. The guards are nearly identical save for a weak mustache worn by one."_
 
@@ -96,50 +96,4 @@ Cairn lacks mechanics such as Attribute modifiers, Advantage and Disadvantage, a
 
 **Warden** _"The two men again exchange a look. This time the other man replies, replies with a smirk. 'Well... perhaps this once. The Sun hasn't truly set just yet. And we are quite thirsty, after all.'"_
 
-> The Warden made a ruling based on what was known about these men: they were simple village guards, they'd been working a long day, and they loved beer. Perhaps with another character this wouldn't have worked, but Lucius is a Mountebank and his capacity for winning the confidence of his targets has been well established. For him, the risk is minimal. The guards let him in. Later, Lucius is been captured after helping his friends sneak into town. In a sudden glut of courage, he allowed himself be taken so that the others could escape. Now he waits in the jails beneath the constabulary awaiting sentence. 
-
-**Wolfram**: _"Pity about Lucius. But we have to deliver our client to the abbey immediately. We can rescue him after."_
-
-**Freya**: _"I am NOT leaving him behind. You two should go, but I'm going to get him out. I'm a cutpurse, so I have friends everywhere, right? Or perhaps there's some kind of thieves' cant I can use to make connections here?"_
-
-**Warden**: _"Indeed. You can spend the night trying to make connections among your kind, if you like._"
-
-> The party splits up, and Freya learns what she needs to from a local fence. It costs her one of the Twins.
-
-**Warden**: _"In the dim light of the early dawn, you notice a note slipped through the street vent. It reads, 'Speak the following, and you will be free: "The Pale Man Longs To Die." You have but one chance.'"_
-
-**Lucius**: _"...What? OK. Someone gave this to me? And I have to speak it aloud... but at the right time, or to the right person?"_
-
-**Warden**: _"You hear footsteps as the jailer approaches. He jingles his keys as if he intends to open your cell. What do you do?_"
-
-**Lucius**: _"OK! This is not the right person, I think. Perhaps I'll talk to someone higher up?"_
-
-**Warden**: _"He opens your cell and beckons for you to come out."_
-
-**Lucius**: _"Hello friend! Might I speak to your superior? I have some important news that might be very interesting to them..."_
-
-**Warden**: _"The jailer smirks as he unlocks raises a pair of manacles._"
-
-**Lucius**: _""THE PALE MAN LONGS TO DIE!"_
-
-**Warden**: _"The jailer stops in his tracks, then lowers the manacles. He nods once, then gestures that you follow him."_
-
-**Lucius**: _"Well, that was lucky. What is this some code for jailers? Executioners? Well, whatever it is, I'm following."_
-
-**Warden**: _"The jailer guides you into the darkness of the jail, far from the light. As he reaches the far wall, he taps three times on a stone high above his head. After a moment, the wall swings inward, and the guard walks confidently inside, where a dark-haired woman waits at a desk. She smiles at you, and gestures that you sit at the chair across from her."_
-
-**Lucius**: _"Uh oh. Can I go back to my cell, please? I kid, I kid. I take a seat."_
-
-**Warden**: _The jailor leaves as you take a seat. The room is small, with only one door on the other side of the woman. A very large man stands outside, his head visible through a small window on the door. The woman smiles again, saying, 'Welcome Mr... Well, it doesn't matter. There is only one reason you are here. You've spoken a code known only to thieves and scoundrels. And which one are you, I wonder?"_
-
-> Lucius is yet again forced to rely on his experience as a confidence man and trickster, but this time the stakes are much higher! He reasons that only the truth will set him free, assuming his captor believes it.
-
-**Lucius**: _"I'll be straight with you: my friends and I are here to sneak into the abbey of Der Thunn. I only learned of that phrase a few minutes ago, I believe one of my friends (a cutpurse named Freya, you might know her) left me that note. If you set me free, I'll be sure to mention... what's your name, again?"_
-
-**Warden**: _"Katja. And please, tell me everything._"
-
-> Lucius describes the party's goal, and their efforts so far. He does not know where his friends are, but assumes they are safe. He is wholly at risk here, and Katja _must_ believe him in order for him to be released. He makes a WIL save. He rolls a 5, a success! Katja is convinced of his sincerity.
-
-**Warden** _"As she listens to your story, Katja frowns, then finally smiles. 'Alright, alright, I believe you. Let's make a deal! You introduce me to this "client" of yours whom you've so kindly escorted into my town, and I'll make sure no one is watching while you slip away. But we have to go right now, before this place implodes. And if that happens, even I can't guarantee your safety..."_ 
-
-> An hour later, Lucius finds Freya, but not the others. She explains that Wolfram and their client have already left for the abbey. She agrees to take them there, but that she needs to make a quick stop first. Something about reclaiming one of her daggers...
+> The Warden made a ruling based on what was known about these men: they were simple village guards, they'd been working a long day, and they loved beer. Perhaps with another character this wouldn't have worked, but Lucius is a Mountebank and his capacity for winning the confidence of his targets has been well established. For him, the risk is minimal, so the guards let him in. 
