@@ -20,8 +20,6 @@ Cairn lacks mechanics such as Attribute modifiers, Advantage and Disadvantage, a
 - Emphasize fictional consequences rather than mechanical buffs. Purely mechanical rewards are usually hollow and lack the potential of in-world benefits.
 - Many dangers can be mitigated or extinguished given time, effort, and skill. If there is no real risk, just skip the roll!
 
-## How Can PCs 
-
 ## Evening The Odds
 
 > Freya is facing off against a Wood Troll after being separated from the rest of the party. Pinned between the creature and a cave wall, she has no choice but to engage in direct combat. She has already passed her initial DEX save and thus gets to attack before her opponent.

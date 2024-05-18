@@ -31,7 +31,7 @@ There are three common scenarios in which a player character should save:
 
 ## Traditional Saves
 
-### Raw Power
+### Strength
 
 > Wolfram dashes through the underground jail cell, a bundle of cloth held tightly to his chest. Lucius and Freya are right behind, fighting off a very large guard and his pet wolf. 
 
@@ -53,7 +53,7 @@ There are three common scenarios in which a player character should save:
 
 **Wolfram**: _"It's just as I've always said: 'Through strength, there is virtue.' Or was it, 'There is virtue in strength?' Ah, anyway.. Hey, wait for me!"_
 
-### Sneaking Around
+### Dexterity
 
 > Freya crouches atop the rafters of a decrepit tavern, spying on a gang of heavily-armed thugs below. 
 
@@ -73,7 +73,7 @@ There are three common scenarios in which a player character should save:
 
 **Freya**: _"I have one smoke bomb left, and I plan on using it. I'm going to drop into the kitchens to find a pot. If I recall correctly, water makes the smoke go crazy..."_
 
-### Being Believable
+### WIL
 
 > Lucius has been captured after helping a client try to break into the ancient vault of Der Thunn. In a sudden glut of courage, he allowed himself be taken so that the others could escape.
 
@@ -141,7 +141,7 @@ There are three common scenarios in which a player character should save:
 
 **Freya**: _"Damn. Well, hopefully my comrades will fare well enough without me until I return..."_
 
-## Aiding Another
+## Aiding An Ally
 
 > The party have just arrived at the entrance to the second level of a long-forgotten mountain tomb. Freya leads the group, followed by Lucius, then Wolfram taking up the rear. Wolfram holds a lit torch, but the others have their hands free.
 
