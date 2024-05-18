@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How Do saves Work?
+title: How Do Saves Work?
 grand_parent: WIP
 parent: 2e
 nav_exclude: true
@@ -11,14 +11,14 @@ search_exclude: true
 
 ## Overview
 
-## When to Save
+## When To Save
 
 There are three common scenarios in which a player character should save:
 -  When avoiding the negative outcome of a risky action.
 -  When acting in opposition to another player character, NPC, or creature.
 -  When aiding one or more characters in a risky action. 
 
-## Principles for saves
+## Save Principles
 
 - When in doubt, ask whether the party has the time, resources, skills, or advantage to overcome a problem. If the answer is "no," then a save is usually warranted. If the answer is "I don't know" then a roll with the Die of Fate may be necessary.
 - Feel free to say "no," but remember to offer an alternative. If the party cannot proceed due to circumstances beyond their control, give them another option to consider.
