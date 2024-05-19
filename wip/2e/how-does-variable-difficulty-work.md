@@ -96,4 +96,24 @@ Cairn lacks mechanics such as Attribute modifiers, Advantage and Disadvantage, a
 
 **Warden**: _"The two men exchange looks once more, but this time the other man replies, smirking. 'Well... perhaps this once. The Sun hasn't truly set just yet. And we are quite thirsty, after all.'"_
 
-> The Warden made a ruling based on what was known about these men: they were simple village guards, they'd been working a long day, and they loved beer. Perhaps with another character this wouldn't have worked, but Lucius is a Mountebank and his capacity for winning the confidence of his targets has been well established. For him, the risk is minimal, so the guards let him in. 
+> The Warden made a ruling based on what was known about these men: they were simple village guards, they'd been working a long day, and they loved beer. Perhaps with another character this wouldn't have worked, but Lucius is a Mountebank and his capacity for winning the confidence of his targets has been well established. The risk is minimal, so the guards let him in. 
+
+### Greater Risk Equals Greater Reward 
+
+> The party has sent Freya under the cover of darkness to spy on an enemy encampment. Her goal is to ascertain their enemy's total number as well as what sort of dangers might await there.
+
+**Warden**: _"Halfway to the camp you see a light flickering along the trail. Someone is coming toward you! What do you do?"_
+
+**Freya**: _"I slip into the foliage on the side of the trail, keeping as quiet as possible. Does that require a save?"_
+
+**Warden**: _"No, because you've got enough of a distance from this person and you don't have any light sources lit. You may hide without risk of being found."_
+
+**Freya**: _"Hmm, that gives me an idea. If it seems to me like this person might belong to the same faction as our enemy, I would like to sneak attack them and steal their clothes. I don't want to spill much blood or raise the alarm, so my blades will need to be fast and furious."_
+
+**Warden**: _"OK. They will need to make a DEX save to react in time to fend off your attack, then. It might not go as cleanly as you hope!"_
+
+**Freya**: _"What if instead I just knock them unconscious by dropping a tree branch on top of them? I have a hand ax in here somewhere."_
+
+**Warden**: _"That might work. You'll need to sprint back a bit, climb a tree and then save STR to determine if you can cut the branch down at just the right moment, without notifying your target. If you fail, you will come down with the branch as well, potentially taking damage and putting yourself in a very vulnerable position."_
+
+> Freya rushes back down the trail, climbs a tree and begins hacking at one of the branches with her ax. She rolls a STR save: a 7, a success! She thwacks the branch at just the right moment and it falls atop the lone traveler below her, knocking them unconscious. Freya steals their clothes and their torch, then sets off down the trail towards the camp. 
