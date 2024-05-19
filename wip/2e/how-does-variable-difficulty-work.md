@@ -80,7 +80,7 @@ Cairn lacks mechanics such as Attribute modifiers, Advantage and Disadvantage, a
 
 > The Warden makes a DEX save for the creature to see if it can quickly break free from the sack. Out of water, it has only 8 DEX. It rolls a 12: a fail. Unable to defend itself, the creature is quickly tied up and placed in the cart, along with a jar of the toxic water for the journey. Working together, the party quickly heads back towards town.
 
-## Character History
+### Character History
 
 > The party are escorting an agent of the Alsace faction deep in enemy territory. Their destination is hidden in a small village protected by tall wooden walls. Their job is to sneak their client into the heavily guarded town, and then into the ancient vault of Der Thunn. As they approach the village, the Sun is just beginning to set, and Lucius has been sent ahead to investigate, posing as a troubadour from the South.
 
