@@ -83,7 +83,7 @@ There are three common scenarios in which a player character should save:
 
 **Warden**: _"Indeed. You can spend the night trying to make connections among your kind, if you like._"
 
-> The party splits up, and Freya learns what she needs to from a local fence (it costs her one of the Twins, and she is not happy about it). Lucius is waiting in a jail beneath the constabulary awaiting his sentence. 
+> Freya meets up with a local fence, who tells her what she needs to know. Meanwhile, Lucius is waiting in a jail beneath the constabulary awaiting his sentence. 
 
 **Warden**: _"In the dim light of the early dawn, you notice a note slipped through the street vent. It reads, 'Speak the following, and you will be free: "The Pale Man Longs To Die." You have but one chance.'"_
 
@@ -101,7 +101,7 @@ There are three common scenarios in which a player character should save:
 
 **Lucius**: _""THE PALE MAN LONGS TO DIE!"_
 
-**Warden**: _"The jailer stops in his tracks, then lowers the manacles. He nods once, then gestures that you follow him."_
+**Warden**: _"The jailer stops in his tracks, then lowers the manacles. He nods, then gestures that you follow him."_
 
 **Lucius**: _"Well, that was lucky. What is this some code for jailers? Executioners? Well, whatever it is, I'm following."_
 
@@ -121,9 +121,9 @@ There are three common scenarios in which a player character should save:
 
 > Lucius describes the party's goal, and their efforts so far. He makes a WIL save. He rolls a 5, a success! Katja is convinced of his sincerity.
 
-**Warden** _"As she listens to your story, Katja frowns, then finally smiles. 'Alright, alright, I believe you. Let's make a deal! You introduce me to this "client" of yours whom you've so kindly escorted into my town, and I'll make sure no one is watching while you slip away. But we have to go right now, before this place implodes. And if that happens, even I can't guarantee your safety..."_ 
+**Warden** _"As she listens to your story, Katja frowns, then finally smiles. 'Alright, alright, I believe you. So let's make a deal. You introduce me to this "client" of yours whom you've so kindly escorted into my town, and I'll make sure that no one is watching as you slip away."_ 
 
-> An hour later, Lucius finds Freya, but not the others. She explains that Wolfram and their client have already left for the vault. She agrees to take them there, but that she needs to make a quick stop first. Something about reclaiming one of her daggers...
+> An hour later, Lucius and Katja catch up with Freya. She explains that Wolfram and their client have already left for the vault. She agrees to take them both there, but Katja suggests an alternate plan...
 
 ## Opposed Saves
 
