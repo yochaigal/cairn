@@ -20,7 +20,9 @@ Cairn lacks mechanics such as Attribute modifiers, Advantage and Disadvantage, a
 - Emphasize fictional consequences rather than mechanical buffs. Purely mechanical rewards are usually hollow and lack the potential of in-world benefits.
 - Many dangers can be mitigated or extinguished given time, effort, and skill. If there is no real risk, just skip the roll!
 
-## Evening The Odds
+## Examples
+
+### Evening The Odds
 
 > Freya is facing off against a Wood Troll after being separated from the rest of the party. Pinned between the creature and a cave wall, she has no choice but to engage in direct combat. She has already passed her initial DEX save and thus gets to attack before her opponent.
 
@@ -44,7 +46,7 @@ Cairn lacks mechanics such as Attribute modifiers, Advantage and Disadvantage, a
 
 > Freya flees the scene (no DEX save required), leaving the Wood Troll to bleed out. If she had known that it can slowly regenerate its health, she might have stayed...
 
-## Strategy Over Raw Power
+### Working Together: Always a Good Strategy
 
 > Wolfram, Lucius, and Freya are investigating rumors of an invisible creature that has been attacking locals in the Wood. They've tracked the creature to its island den just 40ft from the shoreline of a poison lake. The lake is separated from the surrounding forest by heavy mud flats.
 
@@ -78,7 +80,7 @@ Cairn lacks mechanics such as Attribute modifiers, Advantage and Disadvantage, a
 
 > The Warden makes a DEX save for the creature to see if it can quickly break free from the sack. Out of water, it has only 8 DEX. It rolls a 12: a fail. Unable to defend itself, the creature is quickly tied up and placed in the cart, along with a jar of the toxic water for the journey. Working together, the party quickly heads back towards town.
 
-## Personal History
+## Character History
 
 > The party are escorting an agent of the Alsace faction deep in enemy territory. Their destination is hidden in a small village protected by tall wooden walls. Their job is to sneak their client into the heavily guarded town, and then into the ancient vault of Der Thunn. As they approach the village, the Sun is just beginning to set, and Lucius has been sent ahead to investigate, posing as a troubadour from the South.
 
@@ -86,12 +88,12 @@ Cairn lacks mechanics such as Attribute modifiers, Advantage and Disadvantage, a
 
 **Lucius**: _"Ho there fine gentlemen! May one such as myself inquire as to whether entry to your village would be permissible on this fine evening? I've had a long journey but am flush with gold and would love spread some of my good luck!"_
 
-**Warden**: _"The two men look at each other. The mustachioed guard replies, 'No entry after dark. That's the rule.'"_
+**Warden**: _"The men exchange a look. The mustachioed guard replies, 'No entry after dark. That's the rule.'"_
 
 > At this point, Lucius is putting on all his charm, and essentially trying to bribe the guards to gain entry. He is also the most at risk in this situation, as the two men are well-equipped to handle a lone traveler, and have backup besides. If it were required Lucius would make the WIL save and not the guards.
 
 **Lucius**: _"Yes, I understand. But it isn't quite dark yet, is it? The Sun is only just setting. May I please enter? I'd happily start sharing my newfound wealth with you two first, if you catch my drift. Perhaps I could bring you each a well-earned beer? To show my appreciation, of course._"
 
-**Warden**: _"The two men again exchange a look. This time the other man replies, smirking. 'Well... perhaps this once. The Sun hasn't truly set just yet. And we are quite thirsty, after all.'"_
+**Warden**: _"The two men exchange looks once more, but this time the other man replies, smirking. 'Well... perhaps this once. The Sun hasn't truly set just yet. And we are quite thirsty, after all.'"_
 
 > The Warden made a ruling based on what was known about these men: they were simple village guards, they'd been working a long day, and they loved beer. Perhaps with another character this wouldn't have worked, but Lucius is a Mountebank and his capacity for winning the confidence of his targets has been well established. For him, the risk is minimal, so the guards let him in. 
