@@ -92,6 +92,6 @@ Cairn lacks mechanics such as Attribute modifiers, Advantage and Disadvantage, a
 
 **Lucius**: _"Yes, I understand. But it isn't quite dark yet, is it? The Sun is only just setting. May I please enter? I'd happily start sharing my newfound wealth with you two first, if you catch my drift. Perhaps I could bring you each a well-earned beer? To show my appreciation, of course._"
 
-**Warden** _"The two men again exchange a look. This time the other man replies, replies with a smirk. 'Well... perhaps this once. The Sun hasn't truly set just yet. And we are quite thirsty, after all.'"_
+**Warden**: _"The two men again exchange a look. This time the other man replies, smirking. 'Well... perhaps this once. The Sun hasn't truly set just yet. And we are quite thirsty, after all.'"_
 
 > The Warden made a ruling based on what was known about these men: they were simple village guards, they'd been working a long day, and they loved beer. Perhaps with another character this wouldn't have worked, but Lucius is a Mountebank and his capacity for winning the confidence of his targets has been well established. For him, the risk is minimal, so the guards let him in. 
