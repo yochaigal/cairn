@@ -84,9 +84,9 @@ Cairn lacks mechanics such as Attribute modifiers, Advantage and Disadvantage, a
 
 > The party are escorting an agent of the Alsace faction deep in enemy territory. Their destination is hidden in a small village protected by tall wooden walls. Their job is to sneak their client into the heavily guarded town, and then into the ancient vault of Der Thunn. As they approach the village, the Sun is just beginning to set, and Lucius has been sent ahead to investigate, posing as a troubadour from the South.
 
-**Warden**: _"You approach the walled village, following the dirt trail that leads directly to the town's front gate. Two guards stand on either side of the gate, which is closed. The guards are nearly identical save for a weak mustache worn by one."_
+**Warden**: _"You approach the walled village, following the dirt trail that leads directly to the town's front gate. Two guards stand on either side of the gate, which is closed. The guards are nearly identical save for a weak mustache sported by one."_
 
-**Lucius**: _"Ho there fine gentlemen! May one such as myself inquire as to whether entry to your village would be permissible on this fine evening? I've had a long journey but am flush with gold and would love spread some of my good luck!"_
+**Lucius**: _"Ho there fine gentlemen! May one such as myself inquire as to whether entry to your village would be permissible on this fine evening? I've had a long journey but am flush with gold and would love to spread some of my good luck!"_
 
 **Warden**: _"The men exchange a look. The mustachioed guard replies, 'No entry after dark. That's the rule.'"_
 

@@ -49,9 +49,9 @@ There are three common scenarios in which a player character should save:
 
 > Lucius and Freya agree, and Wolfram rolls a 13: a success!
 
-**Warden**: _"You groan as the iron bars press down against your arms and shoulders. Just as you feel like the gate might crush you in two, Lucius and Freya jog past and into safety. You step back and the gate collapses onto the stone floor with such force that the mechanism itself breaks. There is no going back now! Neither can the large guard follow you, though."_
+**Warden**: _"You groan as the iron bars press down against your arms and shoulders. Just as you feel like the gate might crush you in two, Lucius and Freya jog past and into safety. You step back and the gate collapses onto the stone floor with such force that the mechanism itself breaks. There is no going back now! The large guard isn't getting through either, though."_
 
-**Wolfram**: _"It's just as I've always said: 'Through strength, there is virtue.' Or was it, 'There is virtue in strength?' Ah, anyway.. Hey, wait for me!"_
+**Wolfram**: _"It's just as I've always said: 'Through strength, there is virtue.' Or was it, 'There is virtue in strength?' Ah, anyway... Hey, wait for me!"_
 
 ### Dexterity
 
@@ -63,7 +63,7 @@ There are three common scenarios in which a player character should save:
 
 **Warden**: _"Actually, one of them is pulling out a deck of cards, and the others are nodding in approval. It looks like they'll be here for a while yet."_
 
-**Freya**: _"Rats. Well, no time like the present, right! I'm going to sneak back the way I came._"
+**Freya**: _"Rats. Well, no time like the present, right? I'm going to sneak back the way I came._"
 
 **Warden**: _"That's fine, but when you passed earlier there was no one here. That is no longer the case! You'll need to make a DEX save to avoid detection._"
 
@@ -83,7 +83,7 @@ There are three common scenarios in which a player character should save:
 
 **Warden**: _"Indeed. You can spend the night trying to make connections among your kind, if you like._"
 
-> Freya meets up with a local fence, who tells her what she needs to know. Meanwhile, Lucius is waiting in a jail beneath the constabulary awaiting his sentence. 
+> The party splits up, and Freya learns what she needs to from a local fence (it costs her one of the Twins, and she is not happy about it). Lucius is waiting in a jail beneath the constabulary awaiting his sentence. 
 
 **Warden**: _"In the dim light of the early dawn, you notice a note slipped through the street vent. It reads, 'Speak the following, and you will be free: "The Pale Man Longs To Die." You have but one chance.'"_
 
@@ -101,7 +101,7 @@ There are three common scenarios in which a player character should save:
 
 **Lucius**: _""THE PALE MAN LONGS TO DIE!"_
 
-**Warden**: _"The jailer stops in his tracks, then lowers the manacles. He nods, then gestures that you follow him."_
+**Warden**: _"The jailer stops in his tracks, then lowers the manacles. He nods once, then gestures that you follow him."_
 
 **Lucius**: _"Well, that was lucky. What is this some code for jailers? Executioners? Well, whatever it is, I'm following."_
 
@@ -121,9 +121,9 @@ There are three common scenarios in which a player character should save:
 
 > Lucius describes the party's goal, and their efforts so far. He makes a WIL save. He rolls a 5, a success! Katja is convinced of his sincerity.
 
-**Warden** _"As she listens to your story, Katja frowns, then finally smiles. 'Alright, alright, I believe you. So let's make a deal. You introduce me to this "client" of yours whom you've so kindly escorted into my town, and I'll make sure that no one is watching as you slip away."_ 
+**Warden** _"As she listens to your story, Katja frowns, then finally smiles. 'Alright, alright, I believe you. Let's make a deal! You introduce me to this "client" of yours whom you've so kindly escorted into my town, and I'll make sure no one is watching while you slip away. But we have to go right now, before this place implodes. And if that happens, even I can't guarantee your safety..."_ 
 
-> An hour later, Lucius and Katja catch up with Freya. She explains that Wolfram and their client have already left for the vault. She agrees to take them both there, but Katja suggests an alternate plan...
+> An hour later, Lucius finds Freya, but not the others. She explains that Wolfram and their client have already left for the vault. She agrees to take them there, but that she needs to make a quick stop first. Something about reclaiming one of her daggers...
 
 ## Opposed Saves
 
@@ -137,7 +137,7 @@ There are three common scenarios in which a player character should save:
 
 > Freya rolls a STR save to try and grapple the Hobgoblin and toss him off the cliff. She rolls a 17, a fail!
 
-**Warden**: _"Their leader picks you up by the back and flips you over his head, sending you careening off the cliff. Fortunately the Catring activities its final charge, and you are able to gracefully catch a tree branch jutting off the mountainside 10ft below. It will take you two turns to climb back up, or you'll need to make a DEX save to do it quickly._"
+**Warden**: _"Their leader picks you up and flings you backward, sending you careening off the cliff. Fortunately the Catring activates its final charge, and you are able to gracefully catch a tree branch jutting off the mountainside 10ft below. It will take you two turns to climb back up, or you'll need to make a DEX save to do it quickly._"
 
 **Freya**: _"Damn. Well, hopefully my comrades will fare well enough without me until I return..."_
 
