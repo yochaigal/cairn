@@ -108,7 +108,7 @@ Cairn lacks mechanics such as Attribute modifiers, Advantage and Disadvantage, a
 
 **Warden**: _"No, because you've got enough of a distance from this person and you don't have any light sources lit. You may hide without risk of being found."_
 
-**Freya**: _"Hmm, that gives me an idea. If it seems to me like this person might belong to the same faction as our enemy, I would like to sneak attack them and steal their clothes. I don't want to spill much blood or raise the alarm, so my blades will need to be fast and furious."_
+**Freya**: _"Hmm, that gives me an idea. If it seems to me like this person might belong to the same faction as our enemy, I would like to ambush them and steal their clothes. I don't want to spill much blood or raise the alarm, so my blades will need to be fast and furious."_
 
 **Warden**: _"OK. They will need to make a DEX save to react in time to fend off your attack, then. It might not go as cleanly as you hope!"_
 
