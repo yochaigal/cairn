@@ -9,4 +9,8 @@ search_exclude: true
 
 # How Does Magic Work?
 
+## Spellbooks
 
+## Relics
+
+### How does a character learn to use a magic item?
