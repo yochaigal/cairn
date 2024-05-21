@@ -59,7 +59,7 @@ Combat in Cairn in fast, hectic, and often lethal. The rules of combat are disti
 
 **Warden**: _"Perhaps. One point fewer and you'd have been diseased, and point greater and you'd lose your hearing for a while. Anyway, write down your new DEX score. You really are lucky, you know that? It's your turn by the way."_
 
-**Lucius**: _"Excellent. I stab my cane sword in that woman's face!"_
+**Lucius**: _"Excellent. I try and stab her with my cane sword"_
 
 > Lucius rolls a 6. His opponent has 5 HP, 11 STR, and no armor. She loses 1 point of STR in the attack, and must then roll a Critical Damage save using her _new_ STR score.
 
