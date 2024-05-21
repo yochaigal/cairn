@@ -85,7 +85,7 @@ search_exclude: true
 
 **Warden**: _"Lucius sacrifices 1 use of bandages and stuffs them in his ears. The sound all but disappears. That ends his turn. Freya, go ahead and roll your attack dice."_
 
-> Freya rolls two d6 dice, resulting in a 2 and a 2.
+> Freya rolls two d4 dice, resulting in a 2 and a 2.
 
 **Warden**: _"Freya, you run into the mess of creatures, stabbing two of them with the Twins. They perish easily, but two more quickly fill their place. Even at the edge of the swarm, the sound they make is intense. You start to feel confused."_
 
