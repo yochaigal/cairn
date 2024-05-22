@@ -10,15 +10,15 @@ search_exclude: true
 
 ## Introduction
 
-Cairn lacks mechanics such as Attribute modifiers, Advantage and Disadvantage, and so on. This design emphasizes one of the game's core conceits: that play should focus on narrative, in-world experiences over mechanical resolutions. Player characters are encouraged to pursue advantages through critical thinking and problem-solving, not by stacking together external mechanics! As a result, preparing situations for variable difficulty can sometimes feel opaque or even difficult to achieve. The following principles and examples may provide some structure:
+In Cairn, players are encouraged to overcome problems by asking questions, thinking critically, and working within the fiction of the game world to curry advantage. The following principles and examples should help Wardens create rulings consistent and fair rulings that both challenge and reward players for their effort.   
 
-## Principles for Variable Difficulty 
+## Principles For Variable Difficulty 
 
-- Create situations that emphasize non-mechanical solutions. A problem is more interesting when the key to solving it can be understood purely within the fiction. 
 - Reward thinking outside the box. This may be a simple mitigation of risk, a new piece of knowledge, character growth, and more.
 - Modify outcomes according to the effort that went into them. If the PCs worked really hard to make something succeed despite the danger involved, enhance the result to match their trouble.
 - Emphasize fictional consequences rather than mechanical buffs. Purely mechanical rewards are usually hollow and lack the potential of in-world benefits.
 - Many dangers can be mitigated or extinguished given time, effort, and skill. If there is no real risk, just skip the roll!
+- Create situations that emphasize non-mechanical solutions. A problem is more interesting when the key to solving it can be understood purely within the fiction.
 
 ## Examples
 
@@ -46,7 +46,7 @@ Cairn lacks mechanics such as Attribute modifiers, Advantage and Disadvantage, a
 
 > Freya flees the scene (no DEX save required), leaving the Wood Troll to bleed out. If she had known that it can slowly regenerate its health, she might have stayed...
 
-### Working Together: Always a Good Strategy
+### Teamwork
 
 > Wolfram, Lucius, and Freya are investigating rumors of an invisible creature that has been attacking locals in the Wood. They've tracked the creature to its island den just 40ft from the shoreline of a poison lake. The lake is separated from the surrounding forest by heavy mud flats.
 
@@ -98,7 +98,7 @@ Cairn lacks mechanics such as Attribute modifiers, Advantage and Disadvantage, a
 
 > The Warden made a ruling based on what was known about these men: they were simple village guards, they'd been working a long day, and they loved beer. Perhaps with another character this wouldn't have worked, but Lucius is a Mountebank and his capacity for winning the confidence of his targets has been well established. The risk is minimal, so the guards let him in. 
 
-### Greater Risk Equals Greater Reward 
+### Greater Risk For Greater Reward 
 
 > The party has sent Freya under the cover of darkness to spy on an enemy encampment. Her goal is to ascertain their enemy's total number as well as what sort of dangers might await there.
 
