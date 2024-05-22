@@ -35,19 +35,19 @@ Combat in Cairn is fast, hectic, and often lethal. In addition, the rules of com
 
 **Lucius**: _"Well, shoot. I guess I fumbled my cane sword in all the excitement?"_
 
-**Warden**: _"Indeed. Alright, Wolfram and Freya, each of you can move and take one action this turn. Assuming they survive, your three opponents will then have a chance to retaliate. Finally, Lucius will have his turn."_
+**Warden**: _"Indeed. Alright, Wolfram and Freya, each of you can move and take one action this turn. Assuming they survive, your three opponents will then have a chance to retaliate. Then it will be your turn again, including Lucius."_
 
 **Wolfram**: _"I don't have my crossbow ready, so I'm going to go after the big one with my silver knife. If we can take him down, the others might flee."_
 
 **Freya**: _"Hey, that was my plan as well! Why don't we both go after him?"_
 
-> Wolfram and Freya each make individual attack rolls. Wolfram rolls a 4, and Freya a 5. Their target has 8 HP and no armor.
+> Wolfram and Freya each make individual attack rolls, but only the highest number counts as damage against the large man [8 HP, 15 STR, 7 DEX, 9 WIL, battleax (d10)]. Wolfram rolls a 4, and Freya a 5.
 
 **Warden**: _"You both rush the man with the war ax. He easily sidesteps Wolfram's initial jab, but nearly isn't quick enough for Freya! He is nearly eviscerated as her twin daggers slice the air where he stood only a millisecond before. You nearly got him!"_
 
 **Freya**: _"Thanks, that isn't much comfort though."_
 
-> It is now the opponents' turn to attack or take an action. Although the description of these events is delivered consecutively, the results happen roughly at the same time. The Warden rolls an attack die for each enemy combatant, targeting each PC only once. The large man rolls a 3, while his associates roll a 1 and a 6 respectively. As the Warden narrates the results, each player records any lost HP or STR on their character sheet.
+> It is now the opponents' turn to attack or take an action. Although the description of these events is delivered consecutively, the results happen roughly at the same time. The Warden rolls an attack die for each enemy combatant, targeting each PC only once. The large man rolls a d10 but deals only 3 damage against Freya, while his associates each roll a d6, dealing 1 and a 6 damage against Wolfram and Lucius respectively. As the Warden narrates the results, each player records any lost HP or STR on their character sheet.
 
 **Warden**: _"Now your opponents will get a crack at it. The large man swings his ax at Freya, but it misses, leaving a wide gap between her and the ax edge. You don't know if you'll be so lucky next time, however. Next, the shorter man stabs at Wolfram, who is closer and has his attention elsewhere. Luckily, the man's blade only glances off his armor. Now on to the man's sister, who nearly takes Lucius's head off with her blade. Somehow, the blade doesn't draw blood, but instead knocks him back so hard he nearly keels over, and his vision is filled with bright lights and sparkling things."_
 
@@ -73,6 +73,6 @@ Combat in Cairn is fast, hectic, and often lethal. In addition, the rules of com
 
 **Warden**: _"The shorter man nods, then rushes to his sister. The larger man only smiles, then says, 'I ain't swearin' nothin'. But I do what he says, so long as he pays. Just let me keep my ax.'"_
 
-> The party bandage up the woman, stabilizing her. Had they not, she would have bled out within the hour. Now out of danger, the PCs take a quick swig of water and regain their lost HP. Lucius tries to impress Freya by showing off the scar on his eyebrow, but it doesn't work.
+> The party bandage up the woman, stabilizing her. Had they not, she would have bled out within the hour. Now out of danger, the PCs take a quick swig of water and regain their lost HP. Lucius tries to impress Freya by showing off the new battle scar on his eyebrow, but it doesn't work.
 
 **Wolfram**: _"Alright, that's all sorted then. You lot make your way back to town and we'll convene later. For now, we've got business with this Cutlass King I've read so much about."_
