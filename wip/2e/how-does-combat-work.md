@@ -11,7 +11,7 @@ search_exclude: true
 
 ## Introduction
 
-Combat in Cairn is fast, hectic, and often lethal. In addition, the rules of combat are distinct from many modern roleplaying games for a few specific reasons:
+Combat in Cairn is fast, hectic, and often lethal. In addition, the rules of combat are unique in a few key ways:
 
 - **Side Initiative**. With the exception of the first round (where PCs must first save DEX to secure their turn), both the PCs and their opponents take turns acting together. The results of a side's individual actions occur simultaneously.
 - **Autohit**. Combatants typically deal damage to their targets automatically, without rolling to see whether an attack "hits." When multiple attackers target the same foe, only the highest dice result is used in the attack.

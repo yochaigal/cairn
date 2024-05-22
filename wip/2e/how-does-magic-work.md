@@ -17,7 +17,7 @@ search_exclude: true
 
 
 
- 
+## Possible Example? 
 
 > **Wolfram**, **Lucius**, and **Freya** are on the run from a _detachment_ of twelve city guards [4 HP, 1 Armor, 11 STR, 14 DEX, 12 WIL, short sword (d6)], taking shelter in a burnt out old outpost at the edge of a forest. The soldiers each carry a short sword and bow, except for their leader, a tall man with a bright blue epaulet on his shoulder. The soldiers know that the party have taken refuge in the outpost, and are talking amongst themselves at a safe distance away, just North of where the party is hunkering down. The _detachment_ will be treated as a single entity until they take **Critical Damage**.
 
