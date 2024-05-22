@@ -22,7 +22,7 @@ Jax, Selene, Baladria, Ada, Felix, Saylor, Tripp, Lantos, Echo, Jubilo
 - Torch (3 uses) 
 - Costume
 - Simple Instrument (Pipes, Lute, etc.)
-- Lucky Jerkin (1 Armor)
+- Lucky Jerkin (+1 Armor)
 - Sling (d6)
 
 ## What happened at your final performance? Roll 1d6:
