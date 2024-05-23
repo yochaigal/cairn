@@ -36,21 +36,21 @@ Combat in Cairn is fast, hectic, and often lethal. In addition, the rules of com
 
 **Lucius**: _"Well, shoot. I guess I fumbled my cane sword in all the excitement?"_
 
-**Warden**: _"Indeed. Alright, Wolfram and Freya, each of you can move and take one action this turn. Assuming they survive, your three opponents will then have a chance to retaliate. Then it will be your turn again, including Lucius."_
+**Warden**: _"Indeed. Alright, Wolfram and Freya, each of you can move and take one action this turn. Assuming they survive, your three opponents will then have a chance to retaliate. Then it will be the PC's turn to act, including Lucius."_
 
 **Wolfram**: _"I don't have my crossbow ready, so I'm going to go after the big one with my silver knife. If we can take him down, the others might flee."_
 
 **Freya**: _"Hey, that was my plan as well! Why don't we both go after him?"_
 
-> Wolfram and Freya each make individual attack rolls, but only the highest number counts as damage against the large man [8 HP, 15 STR, 7 DEX, 9 WIL, battleax (d10)]. Wolfram rolls a 4, and Freya a 5.
+> Wolfram and Freya each make individual attack rolls, but only the highest number counts as damage against the large man [8 HP, 15 STR, 7 DEX, 9 WIL, battleax (d10)]. Wolfram rolls a 4, and Freya a 5 and a 1 for each dagger respectively.
 
-**Warden**: _"You both rush the man with the war ax. He easily sidesteps Wolfram's initial jab, but nearly isn't quick enough for Freya! He is nearly eviscerated as her twin daggers slice the air where he stood only a millisecond before. You nearly got him!"_
+**Warden**: _"You each rush the man with the war ax. He easily sidesteps Wolfram's initial jab, but nearly isn't quick enough for Freya! He is nearly eviscerated as her twin daggers slice the air where he stood only a millisecond before. That was a close one!"_
 
 **Freya**: _"Thanks, that isn't much comfort though."_
 
 > It is now the opponents' turn to attack or take an action. Although the description of these events is delivered consecutively, the results happen roughly at the same time. The Warden rolls an attack die for each enemy combatant, targeting each PC only once. The large man rolls a d10 but deals only 3 damage against Freya, while his associates each roll a d6, dealing 1 and a 6 damage against Wolfram and Lucius respectively. As the Warden narrates the results, each player records any lost HP or STR on their character sheet.
 
-**Warden**: _"Now your opponents will get a crack at it. The large man swings his ax at Freya, but it misses, leaving a wide gap between her and the ax edge. You don't know if you'll be so lucky next time, however. Next, the shorter man stabs at Wolfram, who is closer and has his attention elsewhere. Luckily, the man's blade only glances off his armor. Now on to the man's sister, who nearly takes Lucius's head off with her blade. Somehow, the blade doesn't draw blood, but instead knocks him back so hard he nearly keels over, and his vision is filled with bright lights and sparkling things."_
+**Warden**: _"Now your opponents will get a crack at it. The large man swings his ax at Freya, but it misses, leaving a wide gap between her and the ax edge. You don't know if you'll be so lucky next time, however. Next, the shorter man stabs at Wolfram, who is the closer of the three. Luckily the man's blade only glances off his armor. Now on to the man's sister, who nearly takes Lucius's head off with her blade. Somehow, the blade doesn't draw blood, but instead knocks him back so hard he nearly keels over, and his vision is filled with bright lights and sparkling things."_
 
 **Lucius**: _"Ouch. I think that takes me to exactly 0 HP. I should check the Scars table, right?"_
 
@@ -58,13 +58,17 @@ Combat in Cairn is fast, hectic, and often lethal. In addition, the rules of com
 
 **Lucius**: _"You sound a little too excited about this. OK, it says I need to roll 1d6... I got a 3, which indicates DEX. Now I need to roll 3d6, and if the total is greater than my current Dexterity score, I get to keep it, right? Alright... hey, a 14! That's slightly higher than what I have already! Maybe getting knocked in the head isn't all that bad?"_
 
-**Warden**: _"Perhaps. One point fewer and you'd have been diseased, and one point greater and you'd lose your hearing for a while. Anyway, write down your new DEX score. You really are lucky, you know that? It's your turn, by the way."_
+**Warden**: _"Perhaps. One point fewer and you'd have been diseased, and one point greater and you'd lose your hearing for a while. Anyway, write down your new DEX score. You really are lucky, you know that? Anyway, it's now time for the PCs act again."_
 
-**Lucius**: _"Excellent. I try and stab her with my cane sword."_
+**Wolfram**: _"I shall riposte against the shorter man!"_
 
-> Lucius rolls a 6. His opponent has 5 HP, 11 STR, and no armor. She loses 1 point of STR in the attack, and must then roll a Critical Damage save using her _new_ STR score.
+**Freya**: _"I'm going to take another swing at the big fella."_
 
-**Warden**: _"Your cane sword pierces the woman in the stomach! She makes a STR save to see if she can stay in the fight. She rolls a 13, a fail! She goes down!"_
+**Lucius**: _"I am going to try and stab that woman with my cane sword."_
+
+> Wolfram rolls a d6, dealing 2 damage to the shorter man, who has enough HP to absorb the attack. Freya rolls a d6 for each of her daggers, dealing a 1 and a 3. She keeps only the higher die, and the large man is able to absorb the damage, taking his HP down to 0 (but only PCs gain Scars). Lucius rolls a 6 against the woman [5 HP, 11 STR, 8 DEX, 14 WIL]. She loses 1 point of STR in the attack, and so must then roll a Critical Damage save using her _new_ STR score.
+
+**Warden**: _"Wolfram, you stab at the shorter man, but he deftly avoids your attack! Freya, your daggers slice at the large man with impressive speed and intensity, and it's clear that you've put him on the defensive, as you can see the sweat begin pouring down the sides of his head. He is running out of steam! Lucius, your cane sword pierces the woman in the stomach! She makes a STR save to see if she can stay in the fight. She rolls a 13, a fail! She goes down!"_
 
 > This is the first casualty of the fight, so the woman's allies must make a WIL save to continue or flee. The Warden rolls using the leader's WIL, and he fails!
 
