@@ -1,13 +1,13 @@
 ---
 layout: default
-title: How Do Saves Work?
+title: Saves
 grand_parent: WIP
 parent: 2e
 nav_exclude: true
 search_exclude: true
 ---
 
-# How Do Saves Work?
+# Saves
 
 ## Overview
 

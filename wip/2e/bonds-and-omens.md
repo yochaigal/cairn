@@ -1,13 +1,13 @@
 ---
 layout: default
-title: How Do Bonds and Omens Work?
+title: Bonds and Omens
 grand_parent: WIP
 parent: 2e
 nav_exclude: true
 search_exclude: true
 ---
 
-# How Do Bonds and Omens Work?
+# Bonds and Omens
 
 ## Introduction
 

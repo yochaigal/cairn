@@ -1,12 +1,12 @@
 ---
 layout: default
-title: How Does Variable Difficulty Work?
+title: Variable Difficulty
 grand_parent: WIP
 parent: 2e
 nav_exclude: true
 search_exclude: true
 ---
-# How Does Variable Difficulty Work?
+# Variable Difficulty
 
 ## Introduction
 

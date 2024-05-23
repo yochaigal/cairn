@@ -1,13 +1,13 @@
 ---
 layout: default
-title: How Do Detachments Work?
+title: Detachments
 grand_parent: WIP
 parent: 2e
 nav_exclude: true
 search_exclude: true
 ---
 
-# How Do Detachments Work?
+# Detachments
 
 ## Introduction
 

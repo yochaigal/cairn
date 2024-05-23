@@ -1,13 +1,13 @@
 ---
 layout: default
-title: How Does Knowledge And Perception Work?
+title: Knowledge And Perception
 grand_parent: WIP
 parent: 2e
 nav_exclude: true
 search_exclude: true
 ---
 
-# How Does Knowledge And Perception Work?
+# Knowledge And Perception
 
 ## Introduction
 
