@@ -21,7 +21,6 @@ parent: Resources
 - [Caers & Crannogs Zine](https://manarampmatt.itch.io/caers-crannogs-issue-1)
 - [d100 Potential Spell Recharge Conditions](https://blog.d4caltrops.com/2022/09/d100-potential-spell-recharge-conditions.html)
 - [Extra Stones](https://github.com/seedlinggames/extra-stones/blob/main/trinkets.md)
-- [Pocket Cairn](https://brightsdays.github.io/pocket-cairn/)
 - [Cairn Bestiary (Google Sheets)](https://docs.google.com/spreadsheets/d/1Fnb7khcg0hv3xuBSbSkM6GvRayUYMYyX9q0HmxzoKTs)
 
 ## Itch Collections
