@@ -299,4 +299,4 @@ A character fosters a connection with an NPC or Faction in the game world. First
 
 - After returning from an unsuccessful delve into the **Roots**, a PC discovers that they'd unknowingly brought along a stowaway: an eyeless devourer, barely hatched. They decide to keep the creature and train it in secret. 
 - During a play session, a PC becomes friendly with the **Seneschal** of the **Order of the Helm**. Impressed by the Order's values, the PC asks what the requirements are to join.
-- A powerful **Seneschal** died during the **Battle of Frogs** while under the party's care. Now those responsible wish to provide redress, so that the party can once again perform tasks for that Faction.
+- A powerful **Seneschal** dies during the **Battle of Frogs** while under the party's care. Now those responsible wish to provide redress, so that the party can once again perform tasks for that Faction.
