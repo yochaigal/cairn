@@ -9,9 +9,28 @@ nav_exclude: true
 # Reliquary
 
 ## Sticky Rope, 1 charge
-
 - A 100ft rope that can stick to any surface.
 - **Recharge**: Cut off 10ft of rope, which then wilts way.  
 
+## Dryad's Tear, 1 use
+  - Shatter this crystal to merge with a tree you can touch. You can perceive the goings-on within whatever forest that tree belongs to.
+ 
+## Falconstone, 3 charges
+ - Perceive the world through the eyes and ears of a nearby bird of prey. You feel whatever they do, but have no control.
+ - **Recharge**: Kill and eat a common quarry, cooking the meat alongside the stone.
 
+## Phantom Lantern, 1 charge
+- Write someone's name onto its glass and it will disappear. The lantern reveals a path to their current location, visible only to the holder (day or night).
+- **Recharge**: Kill the last person found with the lantern, trapping their spirit inside.
 
+## Harbinger's Bell, 1 charge
+- Hang at chest-height to ring when danger is imminent.
+- **Recharge**: Melt & reforge. Each time, roll a d6. On a 1-2 it breaks forever.
+
+## Gossip Box, 1 charge
+- Wind the crank to replay any sound made in the past day in your current location. Each crank goes back one hour.
+- **Recharge**: Successfully spread one falsehood in the presence of the box.
+
+## Wonder Bar, 1 charge
+- Pressing the switch on the side of this iron bar freezes it in place, even in midair. Once frozen, it cannot be moved by any force until the switch is depressed.
+- **Recharge**: Hold it perfectly still in your hands for a continuous hour (requires a WIL save). One attempt per day.
