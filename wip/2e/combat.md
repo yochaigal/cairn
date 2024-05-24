@@ -58,7 +58,7 @@ Combat in Cairn is fast, hectic, and often lethal. In addition, the rules of com
 
 **Lucius**: _"You sound a little too excited about this. OK, it says I need to roll 1d6... I got a 3, which indicates DEX. Now I need to roll 3d6, and if the total is greater than my current Dexterity score, I get to keep it, right? Alright... hey, a 14! That's slightly higher than what I have already! Maybe getting knocked in the head isn't all that bad?"_
 
-**Warden**: _"Perhaps. One point fewer and you'd have been diseased, and one point greater and you'd lose your hearing for a while. Anyway, write down your new DEX score. You really are lucky, you know that? Anyway, it's now time for the PCs act again."_
+**Warden**: _"Perhaps. One point fewer and you'd have been diseased, and one point greater and you'd lose your hearing for a while. Anyway, write down your new DEX score. You really are lucky, you know that? Anyway, it's now time for the PCs to act again."_
 
 **Wolfram**: _"I shall riposte against the shorter man!"_
 
