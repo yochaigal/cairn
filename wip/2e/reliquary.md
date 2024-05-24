@@ -33,4 +33,12 @@ nav_exclude: true
 
 ## Wonder Bar, 1 charge
 - Pressing the switch on the side of this iron bar freezes it in place, even in midair. Once frozen, it cannot be moved by any force until the switch is depressed.
-- **Recharge**: Hold it perfectly still in your hands for a continuous hour (requires a WIL save). One attempt per day.
+- **Recharge**: Hold the bar with both your hands without letting go for one continuous hour (WIL save to succeed). Make only one attempt per day.
+
+## Roc Feather, 1 use
+- Hold while falling to float safely to the ground from any distance.
+
+## Babbleflask, 2 uses
+- A foreign language is automatically understood and can be spoken back with fluency, so long as the wearer's native tongue is not spoken.
+
+
