@@ -16,12 +16,12 @@ nav_exclude: true
   - Shatter this crystal to merge with a tree you can touch. You can perceive the goings-on within whatever forest that tree belongs to.
  
 ## Falconstone, 3 charges
- - Perceive the world through the eyes and ears of a nearby bird of prey. You feel whatever they do, but have no control.
+ - Perceive the world through the eyes and ears of a nearby bird of prey. You feel whatever it feels but have no control.
  - **Recharge**: Kill and eat a common quarry, cooking the meat alongside the stone.
 
-## Phantom Lantern, 1 charge
+## Wraith Lantern, 1 charge
 - Write someone's name onto its glass and it will disappear. The lantern reveals a path to their current location, visible only to the holder (day or night).
-- **Recharge**: Kill the last person found with the lantern, trapping their spirit inside.
+- **Recharge**: Kill the last person found with the help of the lantern, trapping their spirit inside. The lantern must be nearby when they are killed.
 
 ## Harbinger's Bell, 1 charge
 - Hang at chest-height to ring when danger is imminent.
@@ -39,6 +39,6 @@ nav_exclude: true
 - Hold while falling to float safely to the ground from any distance.
 
 ## Babbleflask, 2 uses
-- A foreign language is automatically understood and can be spoken back with fluency, so long as the wearer's native tongue is not spoken.
+- A foreign language is automatically understood and can be spoken back with fluency, so long as the drinker's native tongue is neither spoken nor heard.
 
 
