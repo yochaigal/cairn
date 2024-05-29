@@ -62,7 +62,7 @@ A dozen miniature soldiers made of carved sea sponges. When splashed with water 
 
 - Once lit, this black tallow wax sheds darkness rather than light, even in the brightest of days.
 
-## Tupshead Mask, 1 Armor, _bulky_
+## Tupshead Mask, +1 Armor, _bulky_
 
 - A beautifully rendered ram's head wrought from tough Alpine Oak. The horns can be used as weapons (d6+d6). Heavy. 
 
@@ -77,4 +77,31 @@ A dozen miniature soldiers made of carved sea sponges. When splashed with water 
 
 ## Homunculus Nail, 1 use
 
-Prick a finger with the pointy end and hammer into any small object to form a loyal Homunculus (3 HP, 4 STR, 13 DEX, 5 WIL). If not destroyed, it will outlive you.
+Prick a finger with the pointy end and hammer into any small object to form a loyal servant (3 HP, 4 STR, 13 DEX, 5 WIL) completely devoted to you. If not destroyed, it will outlive you.
+
+## Gate Chalk, 1 use
+
+- Draw a doorway on any flat surface to open a one-way passage to the Roots. Good luck.
+
+## Obliteration Scroll, 1 use, _petty_
+
+- A single-page document filled with gibberish. Sign anywhere on the page to remove any knowledge of your existence from this plane of reality. No one will know or remember you, and any references to your name or lineage vanish. The scroll disappears in a puff of smoke that smells faintly of sulfur.
+
+## Barbed Epaulets, +1 Armor
+
+- Spiked shoulder pads that cause d4 STR damage to anyone that grabs you.
+
+## Whistle-Rope
+
+15ft of highly flexible leather. Swirl in the air to generate a powerful subsonic effect that drives away wildlife. Also works underwater.
+
+## Jar of Ants
+
+- Break to release a colony of fire ants (1 HP, 1 STR, 10 DEX, 1 WIL, bite (d10), _detachment_ ). Consume a ration every two days.
+
+## Eyestone, 3 charges
+
+- Choose an object created by living creatures. You can sense the nearest example.
+- **Recharge**: Place in a bucket of rainwater overnight.
+
+
