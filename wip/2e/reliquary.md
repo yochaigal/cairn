@@ -103,3 +103,13 @@ nav_exclude: true
 
 - Choose an object created by living creatures. You can sense the nearest example.
 - **Recharge**: Place in a bucket of rainwater overnight.
+
+## Veilsilk Grip
+
+- A hand wearing this glove can phase through solid objects.
+- **Recharge**: Snip off one of the fingers.
+
+## Whispergale, 1 charge
+
+- A balloon-shaped gourd that captures a spoken message and delivers it to a location within a day's walk.
+- **Recharge**: 
