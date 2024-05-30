@@ -191,7 +191,7 @@ This creature is physically tough, with higher than average **STR** and strong a
 
 #### Thunder Snail
 
-6 HP, 14 STR, 6 DEX, 4 WIL, smash & roll (d10, _blast_)
+6 HP, 2 Armor, 14 STR, 6 DEX, 4 WIL, smash & roll (d10, _blast_)
 - An thick-shelled beast that attacks by rolling over its opponents in a line. The noise of its tumbling shell is deafening.
 - If rolled onto its back it becomes completely vulnerable.
 - **Critical Damage**: Target is pulled into its rolling momentum, losing an additional 1 STR per round until freed (STR save to escape).
