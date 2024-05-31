@@ -118,10 +118,40 @@ nav_exclude: true
 
 ## Ring of the Snake, 1 charge
 
-- A wrought-iron serpent ring. Place on your finger and fall into a sleep so deep that most will think you dead. If the ring is removed you will awaken feeling refreshed. Otherwise the effect will wear off after one month.
-- **Recharge**: Bury the ring with a corpse. A month later exhume the corpse and retrieve it.
+- A wrought-iron serpent ring. Place it on your finger and fall into a sleep so deep that most will think you are dead. If the ring is removed, you will awaken feeling refreshed. Otherwise, the effect will wear off after one month.
+- **Recharge**: Bury the ring with a corpse. A month later, exhume the corpse and retrieve it.
 
 ## Nightstone, 1 use
 
-- Rare moon-shaped stones dredged from underwater caves and jungle dolines. Swallow whole to relieve all Fatigue and _deprivation_ as if you had a good night's sleep and a good meal The stone will eventually come out the other end. It isn't fun.
+- Rare moon-shaped stones dredged from underwater caves and jungle dolines. Swallow whole to relieve all fatigue and deprivation as if you had a good night's sleep and a good meal. The stone will eventually pass through your system. It isn't fun.
 
+## Stonewax Gum, 3 uses
+
+- Chew, then spit. The gum will harden and stretch, making a perfect, unbreakable seal.
+
+## Empathy Rod, 3 charges
+
+- When two creatures touch this wooden pole at the same time, their physical and emotional states become fully intertwined until they let go.
+- **Recharge**: Give the rod to a former enemy as a gift. This is a one-way transaction.
+
+## Mace of the Kingslayer (d8), 2 charges
+
+- Hold the weapon aloft and shout an order or declaration. Any who fail a WIL save must obey or suffer extreme distress.
+- **Recharge**: Deliver a fatal blow to the leader of a group or faction.
+
+## Skull Whistle, 3 charges
+
+- Produces a chilling scream that forces any who hear it (including the blower) to make a WIL save or become temporarily incapacitated.
+- **Recharge**: Feed the instrument a clump of human hair pulled from a living skull.
+
+## A Blade Called Hope (d6)
+
+- A thin, curved sword that glows with faint light, visible only in total darkness. When bathed in heavy sunlight its first attack is _Enhanced_.
+
+## Moth Mirror, _bulky_
+
+- A full-length, double-sided glass mirror. Step into the mirror to be transported to another mirror you know. You come out of the other side as an enormous swarm of buzzing moths, striking those around you with paralysis (WIL save to avoid) as they gaze upon you in horror. You can revert to your normal form at will. The mirror only operates in one direction.
+
+## Assassin's Goblets
+
+- A pair of fragile wine flutes. Any liquid poured into one is swapped with the other.
