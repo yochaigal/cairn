@@ -36,29 +36,6 @@ There are 24 hours in a day and 6 days in a week. Each month consists of 24 days
 5. Bathing Day
 6. Resting Day
 
-### Months
-
-1. Mourning
-2. Silence
-3. Veil
-4. Flood
-5. Highwater
-6. Rise
-7. Quell
-8. Bane
-9. Dustset
-10. Sunheart
-11. Dusk
-12. Ashfall
-
-### Seasons
-
-- Each season lasts exactly 3 months (72 days).
-- The Dead season starts on the 4th day of the 1st month.
-- The Wet season starts on the 4th day of the 4th month.
-- The Harvest season starts on the 4th day of the 7th month.
-- The Dry season starts on the 4th day of the 10th month.
-
 ### Holidays, Festivals, & Events
 
 |                                      |                                                                                                                                                                                                  |
