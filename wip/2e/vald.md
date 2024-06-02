@@ -36,11 +36,26 @@ There are 24 hours in a day and 6 days in a week. Each month consists of 24 days
 5. Bathing Day
 6. Resting Day
 
+### Months
+
+1. Mourning
+2. Silence
+3. Veil
+4. Flood
+5. Highwater
+6. Rise
+7. Quell
+8. Bane
+9. Dustset
+10. Sunheart
+11. Dusk
+12. Ashfall
+
 ### Holidays, Festivals, & Events
 
 |                                      |                                                                                                                                                                                                  |
 | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Months**                           | **Event**                                                                                                                                                                                        |
+| **Occurance**                           | **Event**                                                                                                                                                                                        |
 | **Mourning**                         |                                                                                                                                                                                                  |
 | Midnight on the 4th                  | Dead season begins.                                                                                                                                                                              |
 | Evening of the 24th                  | _First Light_: Commemorating the end of the hardest month. Torches and fire are lit all night, turning night to day.                                                                             |
