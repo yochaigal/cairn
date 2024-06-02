@@ -11,21 +11,23 @@ grand_parent: WIP
 
 ## Introduction
 
-- The implied setting of Cairn is called _Vald_, encompassing all developed or settled lands, cities, towns, etc. The specific ruler is irrelevant.
-- The _Wood_ surrounds and divides the kingdoms, including anyone or anything that has not yet sworn fealty. It is not one forest but _all_ forests.
-- The _Roots_ is the realm of mystery and horror underneath, indifferent to the petty divisions aboveground.
+The implied setting of Cairn is called _Vald_, encompassing all developed or settled lands, cities, towns, forests, etc. The specific ruler is irrelevant, as the for the most part adventures will take place in smaller towns and villages, the forest, and the margins of the realm. 
+
+## The Wood
+
+The _Wood_ surrounds and divides the realm, including anyone or anything that does not swear fealty to the current regime. It is not one forest but _all_ forests. These regions are populated by creatures stranger and more wondrous than humankind, such as the Fae, demons, witches, werewolves, and even talking plants and animals. The denizens of the Wood are fiercely independent, believing they are subject solely to its rules. Its fierce nations, wild tribes, and unrelenting natural elements have kept armies and scouting parties at bay since time immemorial. Inhabitants of the Wood refer to anywhere outside their realm as the _Cities_, typically as a pejorative.
+
+## The Roots
+
+The _Roots_ is a realm of mystery and horror underground, indifferent to the petty divisions aboveground. These remnants of the _Old World_ consist of labyrinthine hollows stretching for immeasurable distances, connecting the sewers of the Cities to far-flung ruins beyond the borders. Entrances to the Roots, known as _Gates_, are scattered across the lands, usually protected or hidden. Only the brave or foolish dare enter in search of forgotten _Relics_ or powerful _Spellbooks_. The few that return whisper of unspeakable terrors guarding these lost treasures. Folktales recount that traveling through the Roots bends the natural order of things. Stories tell of adventurers lost for centuries in the depths, only to emerge claiming that only a few hours have passed. Others claim to make a week-long journey above ground in just one day, traveling through the tunnels beneath.
 
 ## The Vald Calendar
 
-## Overview
+### Overview
 
-- 24 hours a day
-- 6 days a week
-- 24 days (or 4 weeks) in a month
-- 12 months or 288 days a year
-- 4 seasons a year
+There are 24 hours in a day and 6 days in a week. Each month consists of 24 days (or 4 weeks), making a total of 12 months or 288 days in a year. The calendar is divided into 4 seasons of 72 days each.
 
-## Days of the Week
+### Days of the Week
 
 1. Market Day
 2. Garden Day
@@ -34,7 +36,7 @@ grand_parent: WIP
 5. Bathing Day
 6. Resting Day
 
-## Months
+### Months
 
 1. Mourning
 2. Silence
@@ -49,7 +51,7 @@ grand_parent: WIP
 11. Dusk
 12. Ashfall
 
-## Seasons
+### Seasons
 
 - Each season lasts exactly 3 months (72 days).
 - The Dead season starts on the 4th day of the 1st month.
@@ -57,37 +59,47 @@ grand_parent: WIP
 - The Harvest season starts on the 4th day of the 7th month.
 - The Dry season starts on the 4th day of the 10th month.
 
-## Holidays and Festivals
+### Holidays, Festivals, & Events
 
-|                    |                                                                                                                                                                                 |                                                       |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
-| **Holiday**        | **Description**                                                                                                                                                                 | **Month/Date**                                        |
-| _First Light_      | Commemorating the end of the hardest month. Torches and fire are lit all night, turning night to day.                                                                           | _Mourning_, Evening of the 24th day                   |
-| _Whisper_          | Speaking above a whisper is taboo. Silent auctions are common.                                                                                                                  | _Silence_, Dawn to dusk on the 11th                   |
-| _Lift the Veil_    | The beginning of the end of the Dead season is celebrated through solemn vows.                                                                                                  | _Veil_, Midnight on the 10th                          |
-| _Veil’s Edge_      | A day for honoring ancestors with offerings and prayers at family altars.                                                                                                       | _Veil_, Afternoon to twilight on the 17th             |
-| _Splash_  | A festival celebrating the abundance of water, with boat races, contests, gifts, and water blessings.                                                                                      | _Flood_, 3 days starting on the Wet Solstice          |
-| _Float_            | Communities build and decorate enormous boats or rafts to float down rivers.                                                                                                    | _Flood_, All day on the 14th                          |
-| _Highwater Fair_   | A major trade event taking place when the waters are highest. Every major town and city celebrates with fairs and markets.                                                      | _Highwater_, Dawn until midnight on the 1st           |
-| _Boughmeal_ | A market day held exclusively inside the Wood, where artisans and merchants from all over the realm meet to trade their wares.                                                  | _Highwater_, Dawn until the afternoon on the 16th     |
-| _Waterwish_        | Participants write wishes on scrolls, place them into holes in a boulder, and roll it downhill. When it stops, any remaining wishes are thought to come true.                   | _Rise_, Lunchtime on the 14th                         |
-| _Harvest | A festival marking the end of the Wet season and the beginning of growth and fertility. Tree planting is common.                                                                           | _Rise_, The week of the 19th (except for Resting Day) |
-| _Storm Dance_      | Dances and betrothals meant to please the masters of storm and rain for a fruitful Harvest season ahead.                                                                        | _Quell_, Afternoon of the 4th day                     |
-| _Firelight_        | A day of kite-flying, wind chimes, and noisemakers. At night, massive bonfires are lit as dancers perform impressive fire dances.                                               | _Quell_, All day on the 18th                          |
-| _Fast of Spirits_  | A solemn day of fasting and reflection to remember the hardships endured by both ancestors and those still living.                                                              | _Bane_, Dawn of the 14th                              |
-| _Dustset_ | A carnival marked by parades and masquerades, where participants wear masks to protect from dust and wind.                                                                                       | _Dustset_, Afternoon until midnight on the 9th        |
-| _Sunheart Feast_   | The final grand feast of the year, celebrating gratitude for the harvest, with the sun as centerpiece. Pregnancies are common.                                                  | _Sunheart_, Begins on the 24th, when the stars appear |
-| _Ember_            | Pays homage to the setting sun, and the hard work ahead preparing for the Dead season. Lantern release ceremonies are a common practice.                                        | _Dusk_, Evening of the 11th                           |
-| _Winterwood_       | Representatives from the smaller towns and villages near the Wood trade steel for wood in ritual arrangement with the denizens of the Wood.                                     | _Ashfall_, Morning of the 14th                        |
-| _Parade of Ash_    | To celebrate the end of the year and lift spirits during the onset of the Dead season, participants mark their faces with ash and play music. Nearly all labor is frowned upon. | _Ashfall_, Afternoon of the 24th                      |
-
-## The Wood
-
-Any lands beyond the control of a noble, city, or town are typically wilder and less civilized, and are known collectively as the _Wood_. This includes all forests, regardless of their isolation. These regions are populated by creatures stranger and more wondrous than humankind, such as the Fae, demons, witches, werewolves, and even talking plants and animals, who do not appreciate losing their home to "natural" progress. The denizens of the Wood are fiercely independent, believing they are subject solely to the rules of the Wood. Its fierce nations, wild tribes, and unrelenting elements have kept armies and scouting parties at bay. Inhabitants of the Wood refer to anywhere else as the _Cities_, typically using the term as a pejorative.
-
-## The Roots
-
-The Roots are remnants of the _Old World_, with labyrinthine hollows stretching for immeasurable distances deep underground, connecting the sewers of the cities to far-flung ruins. Entrances to the Roots, known as _Gates_, are scattered across the lands, usually protected or hidden. Only the brave or foolish dare enter the Roots in search of forgotten _Relics_ or powerful _Spellbooks_. The few that return whisper of unspeakable terrors guarding these lost treasures. Folktales recount that traveling through the Roots bends the natural order of things. Stories tell of adventurers lost for centuries in the depths, only to emerge claiming that only a few hours have passed. Others claim to make a week-long journey above ground in just one day, traveling through the tunnels beneath.
+|                                      |                                                                                                                                                                                                  |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Months**                           | **Event**                                                                                                                                                                                        |
+| **Mourning**                         |                                                                                                                                                                                                  |
+| Midnight on the 4th                  | Dead season begins.                                                                                                                                                                              |
+| Evening of the 24th                  | _First Light_: Commemorating the end of the hardest month. Torches and fire are lit all night, turning night to day.                                                                             |
+| **Silence**                          |                                                                                                                                                                                                  |
+| Dawn to dusk on the 11th             | _Whisper_: Speaking above a whisper is taboo. Silent auctions are common.                                                                                                                        |
+| **Veil**                             |                                                                                                                                                                                                  |
+| Midnight on the 9th                  | _Lift the Veil_: The end of the Dead season is celebrated through solemn vows and humble gestures.                                                                                               |
+| Midnight on the 10th                 | Dead Equinox: Marks the midpoint of the Dead season.                                                                                                                                             |
+| Afternoon to twilight on the 17th    | _Veil’s Edge_: A day for honoring ancestors with offerings and prayers at family altars.                                                                                                         |
+| **Flood**                            |                                                                                                                                                                                                  |
+| Midnight on the 4th                  | Wet season begins.                                                                                                                                                                               |
+| 3 days starting on the 4th           | _Splash Festival_: Celebrates the abundance of water, with boat races, contests, gifts, and water blessings.                                                                                     |
+| All day on the 14th                  | _Float_: Communities build and decorate enormous boats or rafts to float down rivers.                                                                                                            |
+| **Highwater**                        |                                                                                                                                                                                                  |
+| Dawn until midnight on the 1st       | _Highwater Fair_: A major trade event taking place when the waters are highest. Every major town and city celebrates with fairs and markets.                                                     |
+| Dawn until the afternoon on the 16th | _Boughmeal_: A market day held exclusively inside the Wood, where artisans and merchants from all over the realm meet to trade their wares.                                                      |
+| **Rise**                             |                                                                                                                                                                                                  |
+| Lunchtime on the 14th                | _Waterwish_: Participants write wishes on scrolls, place them into holes in a boulder, and roll it downhill. When it stops, any remaining wishes are thought to come true.                       |
+| Five days starting on the 19th       | _Harvest_: A festival marking the end of the Wet season and the beginning of growth and fertility. Tree planting is common.                                                                      |
+| **Quell**                            |                                                                                                                                                                                                  |
+| Midnight on the 4th                  | Harvest season begins.                                                                                                                                                                           |
+| Afternoon on the 4th                 | _Storm Dance_: Dances and betrothals meant to please the masters of storm and rain for a fruitful Harvest season ahead.                                                                          |
+| All day on the 18th                  | _Firelight_: A day of kite-flying, wind chimes, and noisemakers. At night, massive bonfires are lit as dancers perform impressive fire dances.                                                   |
+| **Bane**                             |                                                                                                                                                                                                  |
+| Dawn on the 14th                     | _Fast of Spirits_: A solemn day of fasting and reflection to remember the hardships endured by both ancestors and those still living.                                                            |
+| **Dustset**                          |                                                                                                                                                                                                  |
+| Afternoon until midnight on the 9th  | _Dustset_: A carnival marked by parades and masquerades, where participants wear masks to protect from dust and wind.                                                                            |
+| Midnight on the 10th                 | Harvest Equinox: Marks the midpoint of the Harvest season.                                                                                                                                       |
+| **Sunheart**                         |                                                                                                                                                                                                  |
+| Midnight on the 4th                  | Dry season begins.                                                                                                                                                                               |
+| Evening of the 24th                  | _Sunheart Feast_: The final grand feast of the year, celebrating gratitude for the harvest, with the sun as centerpiece. Pregnancies are common.                                                 |
+| **Dusk**                             |                                                                                                                                                                                                  |
+| Evening on the 11th                  | _Ember_: Pays homage to the setting sun, and the hard work ahead preparing for the Dead season. Lantern release ceremonies are a common practice.                                                |
+| **Ashfall**                          |                                                                                                                                                                                                  |
+| Morning on the 14th                  | _Winterwood_: Representatives from the smaller towns and villages near the Wood trade steel for wood in ritual arrangement with the denizens of the Wood.                                        |
+| Afternoon on the 24th                | _Parade of Ash_: To celebrate the end of the year and lift spirits during the onset of the Dead season, participants mark their faces with ash and play music. Nearly all labor is frowned upon. |
 
 ## Factions
 
@@ -121,3 +133,4 @@ The Guard bends to no kings, knows no religion, and obeys no laws but their own.
 Bloodhounds are members of the Guard who have been awarded special commendations or have demonstrated true belief in their cause. Though this distinction carries no rank, they are no less respected or feared. These hunters have adopted a single purpose of duty: enforcing the Oath. Utilizing a network of spies, informants, and plants, they ensure that any who escape the Guard are forced to return or die in their attempt.
 
 The Guard sees little reason to engage in politics or other such short-sighted quarrels with the other factions. However, decades of living near the borders have brokered an uneasy friendship with the peoples of the Wood, whom they will treat with on a regular basis. And although it is rarely discussed, the Guard will come to their aid as well.
+
