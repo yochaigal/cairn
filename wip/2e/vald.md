@@ -120,10 +120,6 @@ grand_parent: WIP
 
 ## Factions
 
-## The Order of Nine
-
-A consortium of merchants, scholars, and the very powerful that rely on their substantial wealth and a vast network of spies to accomplish their aims. Their primary focus is on the discovery, identification, and regulation of Gates. They believe that Relics are deeply tied to the Roots and will pay handsomely for information relating to either.
-
 ## Tideborn
 
 A hierarchical religious sect that worships _Rivulus_, god of Rivers and Lakes. Even the unaffiliated are familiar with the group’s initiation ceremony, a ritual drowning that occasionally kills participants. Survivors are dubbed “Tideborn” and adopt a new, water-related moniker (Carp, Reed, Oxbow, and so on). Only clergy need participate in the ritual, however, and in recent years their following among the rural folk has increased, especially among villages near bodies of water.
@@ -140,4 +136,13 @@ The Guard bends to no kings, knows no religion, and obeys no laws but their own.
 
 _Bloodhounds_ are members of the Guard who have been awarded special commendations or have demonstrated true belief in their cause. Though this distinction carries no rank, they are no less respected or feared. These hunters have adopted a single purpose of duty: enforcing the Oath. Utilizing a network of spies, informants, and plants, they ensure that any who escape the Guard are forced to return or die in their attempt.
 
+## The Order of Nine
 
+A consortium of merchants, scholars, and the very powerful that rely on their substantial wealth and a vast network of spies to accomplish their aims. Their primary focus is on the discovery, identification, and regulation of Relics. In recent years, they've turned their focus onto the Roots, as they believe this to be the origin of most Relics and pay handsomely for any information regarding Gates. The organization owes its name to the founding members of the Order, whose names and titles are kept secret.
+
+The Order employs several distinct ranks and titles (in order of primacy):
+- **Lector**: An initiate is deemed a _Junior Lector_ until they've proven themselves, after which they are awarded the title of _High Lector_. Only the latter may use Relics in their work.
+- **Keeper**: Protector of a Gate, akin to a typical soldier or mercenary.
+- **Archivist**: A highly respected researcher or librarian, led by the _Grand Archivist_.
+- **Chamberlain**: A master of Relics, charged with their protection, dispersal, and discovery.
+- **Inquisitor**: The highest-ranking position within the Order, sharing power as a triumvirate (called the _Three_) and answering only to the _Nine_.
