@@ -59,53 +59,27 @@ grand_parent: WIP
 
 ## Holidays and Festivals
 
-### Mourning
-
-- _First Light_: Commemorating the end of the hardest month. Torches and fire are lit all night, turning night to day. _Evening of the 24th day._
-
-### Silence
-
-- _Whisper_: Speaking above a whisper is taboo. Silent auctions are common. _Dawn to dusk on the 11th._
-
-### Veil
-
-- _Lift the Veil_: The beginning of the end of the Dead season is celebrated through solemn vows. _Midnight on the 10th._
-
-### Flood
-
-- _Splash Festival_: Celebrating the abundance of water, with boat races, contests, gifts, and water blessings. _3 days starting on the Wet Solstice._
-
-### Highwater
-
-- _Highwater Fair_: A major trade event taking place when the waters are highest. Every major town and city celebrates with fairs and markets. _1st of Highwater._
-
-### Rise
-
-- _Harvest Festival_: Marking the end of the Wet season and the beginning of growth and fertility. Tree planting is common. _The week of the 19th (except for Resting Day)._
-
-### Quell
-
-- _Storm Dance_: Dances and betrothals meant to please the masters of storm and rain for a fruitful Harvest season ahead. _Afternoon of the 4th day._
-
-### Bane
-
-- _Fast of Spirits_: A solemn day of fasting and reflection to remember the hardships endured by both ancestors and those still living. _Dawn of the 14th day._
-
-### Dustset
-
-- _Dustset Carnival_: Marked by parades and masquerades, participants wear masks to protect from dust and wind. _Afternoon until midnight on the 9th._
-
-### Sunheart
-
-- _Sunheart Feast_: The final grand feast of the year, celebrating gratitude for the harvest, with the sun as centerpiece. Pregnancies are common. _24th day of the month, starting from when the stars appear._
-
-### Dusk
-
-- _Ember_: Pays homage to the setting sun, and the hard work ahead preparing for the Dead season. Lantern release ceremonies are a common practice. _Evening of the 11th day._
-
-### Ashfall
-
-- _Parade of Ash_: To celebrate the end of the year and lift spirits during the onset of the Dead season, participants mark their faces with ash and play music. Nearly all labor is frowned upon. _Afternoon of the 24th day._
+|                    |                                                                                                                                                                                 |                                                       |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| **Holiday**        | **Description**                                                                                                                                                                 | **Month/Date**                                        |
+| _First Light_      | Commemorating the end of the hardest month. Torches and fire are lit all night, turning night to day.                                                                           | _Mourning_, Evening of the 24th day                   |
+| _Whisper_          | Speaking above a whisper is taboo. Silent auctions are common.                                                                                                                  | _Silence_, Dawn to dusk on the 11th                   |
+| _Lift the Veil_    | The beginning of the end of the Dead season is celebrated through solemn vows.                                                                                                  | _Veil_, Midnight on the 10th                          |
+| _Veil’s Edge_      | A day for honoring ancestors with offerings and prayers at family altars.                                                                                                       | _Veil_, Afternoon to twilight on the 17th             |
+| _Splash Festival_  | Celebrating the abundance of water, with boat races, contests, gifts, and water blessings.                                                                                      | _Flood_, 3 days starting on the Wet Solstice          |
+| _Float_            | Communities build and decorate enormous boats or rafts to float down rivers.                                                                                                    | _Flood_, All day on the 14th                          |
+| _Highwater Fair_   | A major trade event taking place when the waters are highest. Every major town and city celebrates with fairs and markets.                                                      | _Highwater_, Dawn until midnight on the 1st           |
+| _Boughmeal_ | A market day held exclusively inside the Wood, where artisans and merchants from all over the realm meet to trade their wares.                                                  | _Highwater_, Dawn until the afternoon on the 16th     |
+| _Waterwish_        | Participants write wishes on scrolls, place them into holes in a boulder, and roll it downhill. When it stops, any remaining wishes are thought to come true.                   | _Rise_, Lunchtime on the 14th                         |
+| _Harvest Festival_ | Marking the end of the Wet season and the beginning of growth and fertility. Tree planting is common.                                                                           | _Rise_, The week of the 19th (except for Resting Day) |
+| _Storm Dance_      | Dances and betrothals meant to please the masters of storm and rain for a fruitful Harvest season ahead.                                                                        | _Quell_, Afternoon of the 4th day                     |
+| _Firelight_        | A day of kite-flying, wind chimes, and noisemakers. At night, massive bonfires are lit as dancers perform impressive fire dances.                                               | _Quell_, All day on the 18th                          |
+| _Fast of Spirits_  | A solemn day of fasting and reflection to remember the hardships endured by both ancestors and those still living.                                                              | _Bane_, Dawn of the 14th                              |
+| _Dustset Carnival_ | Marked by parades and masquerades, participants wear masks to protect from dust and wind.                                                                                       | _Dustset_, Afternoon until midnight on the 9th        |
+| _Sunheart Feast_   | The final grand feast of the year, celebrating gratitude for the harvest, with the sun as centerpiece. Pregnancies are common.                                                  | _Sunheart_, Begins on the 24th, when the stars appear |
+| _Ember_            | Pays homage to the setting sun, and the hard work ahead preparing for the Dead season. Lantern release ceremonies are a common practice.                                        | _Dusk_, Evening of the 11th                           |
+| _Winterwood_       | Representatives from the smaller towns and villages near the Wood trade steel for wood in ritual arrangement with the denizens of the Wood.                                     | _Ashfall_, Morning of the 14th                        |
+| _Parade of Ash_    | To celebrate the end of the year and lift spirits during the onset of the Dead season, participants mark their faces with ash and play music. Nearly all labor is frowned upon. | _Ashfall_, Afternoon of the 24th                      |
 
 ## The Wood
 
