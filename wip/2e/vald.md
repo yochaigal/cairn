@@ -26,18 +26,17 @@ grand_parent: WIP
 - Remnants of the **Old World**, its labyrinthine hollows stretch for immeasurable distances deep underground, connecting the sewers of the cities to far-flung ruins. Entrances to **The Roots** (called **Gates**) are scattered across the lands, usually protected or hidden.
 - Only the brave or foolish dare enter **The Roots** in search of forgotten **Relics** or powerful **Spellbooks**. The few that return whisper of unspeakable terrors guarding these lost treasures.
 - Folktales recount that traveling through **The Roots** bends the natural order of things. Stories tell of adventurers lost for centuries to the depths, only to emerge claiming that only a few hours have passed. Others claim to make a week-long journey above ground in just one day, traveling through the tunnels beneath.
+### The Vald Calendar
 
-## The Vald Calendar
-
-### Overview
+#### Overview
 
 - 24 hours a day
 - 6 days a week
 - 24 days (or 4 weeks) in a month
-- 12 months or 280 days a year
+- 12 months or 288 days a year
 - 4 seasons a year
 
-### Days of the week
+#### Days of the Week
 
 1. Market Day
 2. Garden Day
@@ -46,7 +45,7 @@ grand_parent: WIP
 5. Bathing Day
 6. Resting Day
 
-### Months
+#### Months
 
 1. Mourning
 2. Silence
@@ -61,80 +60,79 @@ grand_parent: WIP
 11. Dusk
 12. Ashfall
 
-### Seasons
+#### Seasons
 
 - Each season lasts exactly 3 months (72 days).
 - The Dead season starts on the 4th day of the 1st month.
 - The Wet season starts on the 4th day of the 4th month.
-- The Harvest season starts on the 4th day of the 7th month. 
+- The Harvest season starts on the 4th day of the 7th month.
 - The Dry season starts on the 4th day of the 10th month.
 
-### Holidays and Festivals
+#### Holidays and Festivals
 
-#### Mourning
+##### Mourning
 
-- **First Light**: Commemorating the end of the hardest month. Torches and fire are lit all night, turning night to day. _Evening of the 24th day._  
+- **First Light**: Commemorating the end of the hardest month. Torches and fire are lit all night, turning night to day. _Evening of the 24th day._
 
-#### Silence
+##### Silence
 
-- **Whisper**: Speaking above a whisper is taboo. Silent auctions are common. _Dawn to Dusk on the 11th._
+- **Whisper**: Speaking above a whisper is taboo. Silent auctions are common. _Dawn to dusk on the 11th._
 
-#### Veil
+##### Veil
 
 - **Lift the Veil**: The beginning of the end of the Dead season is celebrated through solemn vows. _Midnight on the 10th._
 
-#### Flood
+##### Flood
 
-- **Splash Festival**: Celebrating the abundance of water, with boat races, contests, gifts, and water blessings. _3 days starting on the Wet Solstice._ 
+- **Splash Festival**: Celebrating the abundance of water, with boat races, contests, gifts, and water blessings. _3 days starting on the Wet Solstice._
 
-#### Highwater
+##### Highwater
 
 - **Highwater Fair**: A major trade event taking place when the waters are highest. Every major town and city celebrates with fairs and markets. _1st of Highwater._
 
-#### Rise
+##### Rise
 
 - **Harvest Festival**: Marking the end of the Wet season and the beginning of growth and fertility. Tree planting is common. _The week of the 19th (except for Resting Day)._
 
-#### Quell
+##### Quell
 
 - **Storm Dance**: Dances and betrothals meant to please the masters of storm and rain for a fruitful Harvest season ahead. _Afternoon of the 4th day._
 
-#### Bane
+##### Bane
 
 - **Fast of Spirits**: A solemn day of fasting and reflection to remember the hardships endured by both ancestors and those still living. _Dawn of the 14th day._
 
-#### Dustset
+##### Dustset
 
 - **Dustset Carnival**: Marked by parades and masquerades, participants wear masks to protect from dust and wind. _Afternoon until midnight on the 9th._
 
-#### Sunheart
+##### Sunheart
 
 - **Sunheart Feast**: The final grand feast of the year, celebrating gratitude for the harvest, with the sun as centerpiece. Pregnancies are common. _24th day of the month, starting from when the stars appear._
 
-#### Dusk
+##### Dusk
 
-- **Ember**: Pays homage to the setting sun, and the hard work ahead preparing for the Dead season. Lantern release ceremonies are a common practice. _Evening of the 11th Day._
+- **Ember**: Pays homage to the setting sun, and the hard work ahead preparing for the Dead season. Lantern release ceremonies are a common practice. _Evening of the 11th day._
 
-#### Ashfall
+##### Ashfall
 
 - **Parade of Ash**: To celebrate the end of the year and lift spirits during the onset of the Dead season, participants mark their faces with ash and play music. Nearly all labor is frowned upon. _Afternoon of the 24th day._
 
-## Factions
+### Factions
 
-### The Order of Nine
+#### The Order of Nine
 
-A consortium of merchants, scholars, and the very powerful that rely on their substantial wealth and a vast network of spies to accomplish their aims. Their primary focus is on the discovery, identification, and regulation of Gates. They believe that Relics are deeply tied to the Roots, and will pay handsomely for information relating to either. 
+A consortium of merchants, scholars, and the very powerful that rely on their substantial wealth and a vast network of spies to accomplish their aims. Their primary focus is on the discovery, identification, and regulation of Gates. They believe that Relics are deeply tied to the Roots and will pay handsomely for information relating to either.
 
-### Tideborn
+#### Tideborn
 
-A hierarchical religious sect that worships _Rivulus_, god of Rivers and Lakes. Even the unaffiliated are familiar with the group’s initiation ceremony, a ritual drowning that occasionally kills participants. Survivors are dubbed “Tideborn” and adopt a new, water-
-related moniker (Carp, Reed, Oxbow, and so on). Only clergy need participate in the ritual however, and in recent years their following among the rural folk has increased, especially among villages near bodies of water. 
+A hierarchical religious sect that worships _Rivulus_, god of Rivers and Lakes. Even the unaffiliated are familiar with the group’s initiation ceremony, a ritual drowning that occasionally kills participants. Survivors are dubbed “Tideborn” and adopt a new, water-related moniker (Carp, Reed, Oxbow, and so on). Only clergy need participate in the ritual, however, and in recent years their following among the rural folk has increased, especially among villages near bodies of water.
 
-### The House of Burgesses
+#### The House of Burgesses
 
 An assembly of rich, land-owning lords and ladies. Cunning, assertive, and convinced of their own superiority, they can accomplish great things when acting as a single body. Unfortunately, their efforts are often undermined by individual squabbles, petty disputes, and their never-ending lust for power and prestige.
 
-### The Marchguard
+#### The Marchguard
 
 Beyond the Cities and beyond the Wood lies a place so wild, so dangerous, that only the extremely brave or extremely foolish dare set foot. The borders to these lands are ever-shifting, growing, and changing along with the passage of time. And so the Marchguard was born. No one can remember when the Guard was formed nor who worked to create it. But all know their purpose: to protect the realm from any incursions that might cross the boundary and to prevent those attempting to cross without guidance.
 
