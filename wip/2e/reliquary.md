@@ -133,9 +133,7 @@ nav_exclude: true
 ## Stonewax Gum, 3 uses
     - Chew, then spit. The gum will harden and stretch, making a perfect, unbreakable seal.
 
-## Sponge Army
-
-, 1 use
+## Sponge Army, 1 use
     - A dozen miniature soldiers made of carved sea sponges. When splashed with water, they grow to full size [8 HP, 6 STR, 13 DEX, 5 WIL, hardened sponge (d6), _detachment_] and follow the orders of the person they see until they are destroyed or dry out completely (about 10 minutes).
 
 ## Tupshead Crown, +1 Armor, _bulky_
