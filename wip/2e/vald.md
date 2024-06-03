@@ -11,11 +11,11 @@ grand_parent: WIP
 
 ## Introduction
 
-The implied setting of Cairn is called _Vald_, encompassing all developed or settled lands, cities, towns, forests, etc. The specific ruler is irrelevant, as the for the most part adventures will take place in smaller towns and villages, the forest, and the margins of the realm. 
+The implied setting of Cairn is called _Vald_, encompassing all developed or settled lands, cities, towns, forests, etc. The specific ruler is irrelevant, as the for the most part adventures will take place in smaller towns and villages, the forest, and the margins of the realm. Most inhabitants (regardless of region) refer to the local centers of power as the _Cities_, occasionally as a pejorative.
 
-## The Wood
+## The Woods
 
-The _Wood_ surrounds and divides the realm, including anyone or anything that does not swear fealty to the current regime. It is not one forest but _all_ forests. These regions are populated by creatures stranger and more wondrous than humankind, such as the Fae, demons, witches, werewolves, and even talking plants and animals. The denizens of the Wood are fiercely independent, believing they are subject solely to its rules. Its fierce nations, wild tribes, and unrelenting natural elements have kept armies and scouting parties at bay since time immemorial. Inhabitants of the Wood refer to anywhere outside their realm as the _Cities_, typically as a pejorative.
+The _Woods_ surround and divides the realm, including anyone or anything that does not swear fealty to the current regime. It is not one forest but _all_ forests. These regions are populated by creatures stranger and more wondrous than humankind, such as the Fae, demons, witches, werewolves, and even talking plants and animals. Denizens of the Woods are fiercely independent, believing they are subject solely to its rules. Its fierce nations, wild tribes, and unrelenting natural elements have kept armies and scouting parties at bay since time immemorial.
 
 ## The Roots
 
@@ -71,7 +71,7 @@ There are 24 hours in a day and 6 days in a week. Each month consists of 24 days
 | All day on the 14th                  | _Float_: Communities build and decorate enormous boats or rafts to float down rivers.                                                                                                            |
 | **Highwater**                        |                                                                                                                                                                                                  |
 | Dawn until midnight on the 1st       | _Highwater Fair_: A major trade event taking place when the waters are highest. Every major town and city celebrates with fairs and markets.                                                     |
-| Dawn until the afternoon on the 16th | _Boughmeal_: A market day held exclusively inside the Wood, where artisans and merchants from all over the realm meet to trade their wares.                                                      |
+| Dawn until the afternoon on the 16th | _Boughmeal_: A market day held exclusively within the Woods, where artisans and merchants from all over the realm meet to trade their wares.                                                      |
 | **Rise**                             |                                                                                                                                                                                                  |
 | Lunchtime on the 14th                | _Waterwish_: Participants write wishes on scrolls, place them into holes in a boulder, and roll it downhill. When it stops, any remaining wishes are thought to come true.                       |
 | Five days starting on the 19th       | _Harvest_: A festival marking the end of the Wet season and the beginning of growth and fertility. Tree planting is common.                                                                      |
@@ -90,7 +90,7 @@ There are 24 hours in a day and 6 days in a week. Each month consists of 24 days
 | **Dusk**                             |                                                                                                                                                                                                  |
 | Evening on the 11th                  | _Ember_: Pays homage to the setting sun, and the hard work ahead preparing for the Dead season. Lantern release ceremonies are a common practice.                                                |
 | **Ashfall**                          |                                                                                                                                                                                                  |
-| Morning on the 14th                  | _Winterwood_: Representatives from the smaller towns and villages near the Wood trade steel for wood in ritual arrangement with the denizens of the Wood.                                        |
+| Morning on the 14th                  | _Winterwood_: Representatives from the smaller towns and villages near the Woods trade steel for lumber in ritual arrangement with the denizens of the Wood.                                        |
 | Afternoon on the 24th                | _Parade of Ash_: To celebrate the end of the year and lift spirits during the onset of the Dead season, participants mark their faces with ash and play music. Nearly all labor is frowned upon. |
 
 ## Factions
@@ -118,11 +118,11 @@ The Order employs several distinct ranks and titles (in order of primacy):
 
 ### The Marchguard
 
-Beyond the Cities and beyond the Wood lies a place so wild, so dangerous, that only the extremely brave or extremely foolish dare set foot. The borders of these lands are ever-shifting, growing, and changing along with the passage of time. And so the Marchguard was born. No one can remember when the Guard was formed nor who worked to create it, but all know their purpose: to protect the realm from any incursions that might cross the boundary and to prevent those attempting to cross without guidance.
+At the margins of the realm and beyond the Woods lies a place so wild, so dangerous, that only the extremely brave or extremely foolish dare set foot. The borders of these lands are ever-shifting, growing, and changing along with the passage of time. And so the Marchguard was born. No one can remember when the Guard was formed nor who worked to create it, but all know their purpose: to protect the realm from any incursions that might cross the boundary and to prevent those attempting to cross without guidance.
 
 The Guard bends to no kings, knows no religion, and obeys no laws but their own. They lack even a central leadership, instead providing a masked volunteer to represent them in external negotiations. New members adopt a Blood Oath so powerful it is said to be inescapable by all but death itself. Of course, joining the Guard is rarely a choice, as their ranks are largely composed of ex-thugs, disgraced scholars, neglected knights, misbegotten rangers, and the like. This is how it must be, of course. For who else would willingly devote their lives to stand against such unknowable horrors?
 
 Bloodhounds are members of the Guard who have been awarded special commendations or have demonstrated true belief in their cause. Though this distinction carries no rank, they are no less respected or feared. These hunters have adopted a single purpose of duty: enforcing the Oath. Utilizing a network of spies, informants, and plants, they ensure that any who escape the Guard are forced to return or die in their attempt.
 
-The Guard sees little reason to engage in politics or other such short-sighted quarrels with the other factions. However, decades of living near the borders have brokered an uneasy friendship with the peoples of the Wood, whom they will treat with on a regular basis. And although it is rarely discussed, the Guard will come to their aid as well.
+The Guard sees little reason to engage in politics or other such short-sighted quarrels with the other factions. However, decades of living near the borders have brokered an uneasy friendship with those who call the Woods their home, and will even treat with them on occasion. And although it is never discussed, on rare occasions the Guard will come to their aid as well.
 
