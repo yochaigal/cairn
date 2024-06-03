@@ -13,11 +13,11 @@ grand_parent: WIP
 
 The implied setting of Cairn is called _Vald_, encompassing all developed or settled lands, cities, towns, forests, etc. The specific ruler is irrelevant, as the for the most part adventures will take place in smaller towns and villages, the forest, and the margins of the realm. Most inhabitants (regardless of region) refer to the local centers of power as the _Cities_, occasionally as a pejorative.
 
-## The Woods
+### The Woods
 
 The _Woods_ surround and divides the realm, including anyone or anything that does not swear fealty to the current regime. It is not one forest but _all_ forests. These regions are populated by creatures stranger and more wondrous than humankind, such as the Fae, demons, witches, werewolves, and even talking plants and animals. Denizens of the Woods are fiercely independent, believing they are subject solely to its rules. Its fierce nations, wild tribes, and unrelenting natural elements have kept armies and scouting parties at bay since time immemorial.
 
-## The Roots
+### The Roots
 
 The _Roots_ is a realm of mystery and horror underground, indifferent to the petty divisions aboveground. These remnants of the _Old World_ consist of labyrinthine hollows stretching for immeasurable distances, connecting the sewers of the Cities to far-flung ruins beyond the borders. Entrances to the Roots, known as _Gates_, are scattered across the lands, usually protected or hidden. Only the brave or foolish dare enter in search of forgotten _Relics_ or powerful _Spellbooks_. The few that return whisper of unspeakable terrors guarding these lost treasures. Folktales recount that traveling through the Roots bends the natural order of things. Stories tell of adventurers lost for centuries in the depths, only to emerge claiming that only a few hours have passed. Others claim to make a week-long journey above ground in just one day, traveling through the tunnels beneath.
 
@@ -126,3 +126,10 @@ Bloodhounds are members of the Guard who have been awarded special commendations
 
 The Guard sees little reason to engage in politics or other such short-sighted quarrels with the other factions. However, decades of living near the borders have brokered an uneasy friendship with those who call the Woods their home, and will even treat with them on occasion. And although it is never discussed, on rare occasions the Guard will come to their aid as well.
 
+## The Neighbors
+
+Through the bramble and over the bush, there is a liminal space where the realms of mortals and the Faerie touch. If you look for it, you will not find it. But if you need to pass over, you will. The creatures that inhabit this place may look and sound familiar, but make no mistake: they are not like you. Tall, slender, pale as ice, and eerily beautiful, the Fae obey no mortal law, nor do they submit to its morality. And yet, they are crippled by sterility, lacking the ability to create their own kindred. For this deed, they must cross the threshold into the mortal realm to treat with mortals. There are many names for their kind, but only one has truly stuck: Neighbors.
+
+There are some who say the Neighbors steal babes from their cribs, replacing them with a Changeling child. Others claim that they will pay great sums of wealth or bestow enormous power to those willing to give away their own flesh and blood. There is one truth that all agree on: to make deals with their kind is to invite ill luck not only to your life but that of your descendants as well.
+
+Hunters swear that occasionally animals from the Faerie world will pass into ours, a white blaze burnt into their fur. They say that their meat is the sweetest you will ever taste and that afterward you will starve by the lack of it. Worse, to be caught poaching these creatures is a fate worse than death. Scholars have written that the Neighbors can spill magic as if it were water, having no need for Spellbooks or even Relics. They also claim that all magic has its origin in the land of the Pale Folk, and that within each Spellbook is the trapped spirit of their most craven lawbreakers.

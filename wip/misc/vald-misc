@@ -1,132 +1,663 @@
 
-## Introduction
 
-- The implied setting of Cairn is called **Vald**. This includes all developed or settled lands, cities, towns, etc. The particular ruler does not matter. 
-- **The Wood** surrounds and divides the kingdoms, and includes anyone (or anything) that has not yet sworn fealty. **The Wood** is not one forest, but _all_ forests.
-- **The Roots** is the realm of mystery and horror underneath, and does not care for the petty divisions aboveground.   
+### The Thornkin
 
-### The Wood
+### Type
+- Protectors
 
-- Any lands beyond the control of a noble, a city, or a town. Typically wilder and less "civilized." All forests are considered part of **The Wood**, no matter how isolated.
-- The Wood are populated by creatures far stranger and wondrous than humankind: Fae, Demons, Witches, werewolves, and even talking plants and animals. They do not appreciate the loss of their home from the encroachment of "natural" progress, either. 
-- The denizens of **The Wood** are fiercely independent, believing they are subject solely to the rules of **The Wood** and no other.Its fierce nations, wild tribes, and unrelenting elements have kept armies and scouting parties at bay. For now.
+### Traits
+- Fierce
+- Cunning
 
-### The Roots
+### Advantages
+- Force
+- Members
 
-- Remnants of the **Old World**, its labyrinthine hollows stretching for immeasurable distances deep underground, connecting the sewers of the cities to the far-flung ruins. Entrances to **The Roots** (called **Gates**) are scattered across the lands, and are usually protected or shrewdly hidden.
-- Only the brave or foolish have dared enter **The Roots**, in search of forgotten **Relics** or powerful **Spellbooks**. The few that return whisper of unspeakable terrors guarding these lost treasures.
-- Folktales recount that traveling through **The Roots** bends the natural order of things. Stories tell of adventurers lost for centuries to the depths, only to emerge again claiming that only a few hours have passed. Others have claimed to make a week-long journey above ground in just one day, traveling in the tunnels beneath.
+### Agenda
+- Defend Something
+
+### Obstacle
+- A powerful figure or foe must be eliminated
+
+### Moonlit Clan
+
+### Type
+- Nomads
+
+### Traits
+- Stealthy
+- Enigmatic
+
+### Advantages
+- Magic
+- Anonymity
+
+### Agenda
+- Collect Artifacts
+
+### Obstacle
+- A key piece of information must first be discovered
+
+### Sylvan Spirits
+
+### Type
+- Religious
+
+### Traits
+- Secretive
+- Incorruptible
+
+### Advantages
+- Beliefs
+- Renown
+
+### Agenda
+- Protect a Secret
+
+### Obstacle
+- Contravenes an established code, with a heavy penalty
+
+### Greenwatchers
+
+### Type
+- Explorers
+
+### Traits
+- Resourceful
+- Tenacious
+
+### Advantages
+- Information
+- Specialization
+
+### Agenda
+- Explore Uncharted Lands
+
+### Obstacle
+- Another faction has the same goal
+
+### Rootbinders
+
+### Type
+- Scholars
+
+### Traits
+- Intellectual
+- Judicious
+
+### Advantages
+- Conviction
+- Specialization
+
+### Agenda
+- Cultivate a Rare Resource
+
+### Obstacle
+- A particular object or Relic is required
+
+### Whispering Blades
+
+### Type
+- Criminals
+
+### Traits
+- Deceptive
+- Stealthy
+
+### Advantages
+- Subterfuge
+- Wealth
+
+### Agenda
+- Infiltrate Another Faction
+
+### Obstacle
+- Commoners stand openly in opposition
+
+
+### Frostbark Clan
+
+### Type
+- Tribe
+
+### Traits
+- Ruthless
+- Adaptable
+
+### Advantages
+- Force
+- Resources
+
+### Agenda
+- Defend Something
+
+### Obstacle
+- A powerful figure or foe must be eliminated
+
+### Brambleshields
+
+### Type
+- Protectors
+
+### Traits
+- Cautious
+- Meticulous
+
+### Advantages
+- Specialization
+- Force
+
+### Agenda
+- Preserve the Status Quo
+
+### Obstacle
+- Considerable capital is required
+
+### Wyrmguard
+
+### Type
+- Military
+
+### Traits
+- Disciplined
+- Dogmatic
+
+### Advantages
+- Force
+- Renown
+
+### Agenda
+- Purge the Land
+
+
+### Obstacle
+- Hindered by cultural taboos
+
+### Glade Whisperers
+
+### Type
+- Religious
+
+### Traits
+- Generous
+- Stealthy
+
+### Advantages
+- Beliefs
+- Popularity
+
+### Agenda
+- Spread a Belief
+
+### Obstacle
+- The outcome would lead to unavoidable war
+
+### Tideborn
+
+### Type
+- Religious
+
+### Traits
+- Loyal
+- Cunning
+
+### Advantages
+- Charisma
+- Members
+
+### Agenda
+- Forge an Alliance
+
+### Obstacle
+- Another faction stands in opposition
+
+### Marchguard
+
+### Type
+- Military
+
+### Traits
+- Pragmatic
+- Resourceful
+
+### Advantages
+- Force
+- Members
+
+### Agenda
+- Protect a Secret
+
+### Obstacle
+- Contravenes an established code, with a heavy penalty
+
+### House of Burgesses
+
+### Type
+- Nobles
+
+### Traits
+- Cunning
+- Decadent
+
+### Advantages
+- Wealth
+- Position
+
+### Agenda
+- Enrich Themselves
+
+### Obstacle
+- A serious debt forces the faction to make dire choices
+
+### Order of Nine
+
+### Type
+- Scholars
+
+### Traits
+- Intellectual
+- Shrewd
+
+### Advantages
+- Information
+- Specialization
+
+### Agenda
+- Collect Artifacts
+
+### Obstacle
+- A key piece of information must first be discovered
+
+### Rootbinders
+
+### Type
+- Scholars
+
+### Traits
+- Judicious
+- Resourceful
+
+### Advantages
+- Conviction
+- Specialization
+
+### Agenda
+- Cultivate a Rare Resource
+
+### Obstacle
+- A particular object or Relic is required
+
+### Nightshade Coven
+
+### Type
+- Cultists
+
+### Traits
+- Secretive
+- Ruthless
+
+### Advantages
+- Magic
+- Subterfuge
+
+### Agenda
+- Revive a Former Power
+
+### Obstacle
+- Must be carried out in absolute secrecy
+
+### Shadowfangs
+
+### Type
+- Criminals
+
+### Traits
+- Deceptive
+- Cruel
+
+### Advantages
+- Subterfuge
+- Force
+
+### Agenda
+- Dominate Others
+
+### Obstacle
+- A serious debt forces the faction to make dire choices
+
+### Sunwalkers
+
+### Type
+- Pilgrims
+
+### Traits
+- Meticulous
+- Disciplined
+
+### Advantages
+- Beliefs
+- Conviction
+
+### Agenda
+- Establish a New Order
+
+### Obstacle
+- An internal schism threatens to tear the faction apart
+
+### Silverleaf Merchants
+
+### Type
+- Merchants
+
+### Traits
+- Keen
+- Cunning
+
+### Advantages
+- Wealth
+- Information
+
+### Agenda
+- Enrich Themselves
+
+### Obstacle
+- A well-known prophecy predicts imminent failure
+
+### Ironbark Sentinels
+
+### Type
+- Protectors
+
+### Traits
+- Loyal
+- Meticulous
+
+### Advantages
+- Force
+- Members
+
+### Agenda
+- Defend Something
+
+### Obstacle
+- A powerful figure or foe must be eliminated
+
+-----
+### Bloodroot Circle
+
+### Type
+- Cultists
+
+### Traits
+- Enigmatic
+- Ruthless
+
+### Advantages
+- Magic: Dark rituals that bind blood and nature.
+- Members: Devout followers willing to sacrifice for their cause.
+
+### Agenda
+- Revive an ancient deity
+
+### Ironleaf Wardens
+
+### Type
+- Protectors
+
+### Traits
+- Disciplined
+- Loyal
+
+### Advantages
+- Force: Trained warriors skilled in woodland combat.
+- Specialization: Masters of defensive tactics and fortifications.
+
+### Agenda
+- Defend the sacred groves
+
+### Ember Veil
+
+### Type
+- Nomads
+
+### Traits
+- Cunning
+- Secretive
+
+### Advantages
+- Anonymity: Ability to move unseen through the woods.
+- Information: Network of spies and informants.
+
+### Agenda
+- Infiltrate enemy factions
+
+### Stoneclaw Tribe
+
+### Type
+- Tribe
+
+### Traits
+- Fierce
+- Cautious
+
+### Advantages
+- Force: Powerful warriors and hunters.
+- Resources: Access to rich hunting grounds and natural resources.
+
+### Agenda
+- Expand their territory
+
+### Ashen Blades
+
+### Type
+- Criminals
+
+### Traits
+- Cruel
+- Stealthy
+
+### Advantages
+- Subterfuge: Experts in stealth and deception.
+- Wealth: Accumulated riches from thievery and blackmail.
+
+### Agenda
+- Control the black market
+
+### Verdant Order
+
+### Type
+- Religious
+
+### Traits
+- Generous
+- Judicious
+
+### Advantages
+- Beliefs: Strong faith that unites their followers.
+- Renown: Respected throughout the Woods for their wisdom.
+
+### Agenda
+- Spread their faith
+
+### Stormrider Clan
+
+### Type
+- Explorers
+
+### Traits
+- Adaptable
+- Resourceful
+
+### Advantages
+- Force: Skilled fighters trained for harsh environments.
+- Specialization: Experts in navigating and surviving extreme weather.
+
+### Agenda
+- Explore and map uncharted lands
+
+### Ghostwise Collective
+
+### Type
+- Scholars
+
+### Traits
+- Intellectual
+- Meticulous
+
+### Advantages
+- Information: Extensive knowledge of the Woods and its secrets.
+- Conviction: Dedicated to the pursuit of knowledge.
+
+### Agenda
+- Uncover ancient knowledge
+
+### Shadowtide
+
+### Type
+- Spies
+
+### Traits
+- Deceptive
+- Cunning
+
+### Advantages
+- Subterfuge: Masters of infiltration and espionage.
+- Anonymity: Operate in the shadows, leaving no trace.
+
+### Agenda
+- Infiltrate and manipulate other factions
+
+
+### Ironwood Guild
+
+### Type
+- Artisans
+
+### Traits
+- Keen
+- Disciplined
+
+### Advantages
+- Resources: Access to rare and valuable materials.
+- Specialization: Highly skilled craftsmen and builders.
+
+### Agenda
+- Dominate the artisan market
+
+
 
 ## On Naming 
 
 - For the first name, roll on each table respectively, then combine. Then use the format:
 - If they hail from a city or town, use their background or profession, e.g. "Paela Miller," or the first name of a parent (roll another name), e.g. "Leni Lio." 
-- If they hail from **The Wood**, use the name of their hometown, e.g. "Faroelel of Sundew Glade," or a title, e.g. "JaraSif the Mighty." 
-- If they hail from **The Roots**, create three names and combine them, e.g. "Lylethor Sorin Tal," or dashes, between the second and third syllables, e.g. "Penu-Flor."
+- If they hail from The Woods, use the name of their hometown, e.g. "Faroelel of Sundew Glade," or a title, e.g. "JaraSif the Mighty." 
+- If they hail from The Roots, create three names and combine them, e.g. "Lylethor Sorin Tal," or dashes, between the second and third syllables, e.g. "Penu-Flor."
 
-|          |     |                    |
-| -------- | --- | ------------------ |
-| **d100** |     | **First Syllable** |
-| **1**    |     | Al                 |
-| **2**    |     | Bal                |
-| **3**    |     | Bel                |
-| **4**    |     | Br                 |
-| **5**    |     | Car                |
-| **6**    |     | Cor                |
-| **7**    |     | Del                |
-| **8**    |     | Dor                |
-| **9**    |     | Ed                 |
-| **10**   |     | Er                 |
-| **11**   |     | Far                |
-| **12**   |     | Fi                 |
-| **13**   |     | Fr                 |
-| **14**   |     | Gar                |
-| **15**   |     | Gil                |
-| **16**   |     | Hal                |
-| **17**   |     | Har                |
-| **18**   |     | Ian                |
-| **19**   |     | Iz                 |
-| **20**   |     | Jar                |
-| **21**   |     | Jor                |
-| **22**   |     | Kal                |
-| **23**   |     | Kat                |
-| **24**   |     | Kev                |
-| **25**   |     | Ker                |
-| **26**   |     | La                 |
-| **27**   |     | Lar                |
-| **28**   |     | Len                |
-| **29**   |     | Li                 |
-| **30**   |     | Lw                 |
-| **31**   |     | Ma                 |
-| **32**   |     | Mar                |
-| **33**   |     | Mi                 |
-| **34**   |     | Na                 |
-| **35**   |     | Ne                 |
-| **36**   |     | Ni                 |
-| **37**   |     | Nol                |
-| **38**   |     | Ol                 |
-| **39**   |     | Ow                 |
-| **40**   |     | Pal                |
-| **41**   |     | Pen                |
-| **42**   |     | Pir                |
-| **43**   |     | Por                |
-| **44**   |     | Ran                |
-| **45**   |     | Ral                |
-| **46**   |     | Ri                 |
-| **47**   |     | Ro                 |
-| **48**   |     | Ros                |
-| **49**   |     | Sa                 |
-| **50**   |     | San                |
-| **51**   |     | Se                 |
-| **52**   |     | Sig                |
-| **53**   |     | Sio                |
-| **54**   |     | Sko                |
-| **55**   |     | Sl                 |
-| **56**   |     | Sol                |
-| **57**   |     | Son                |
-| **58**   |     | Syl                |
-| **59**   |     | Syr                |
-| **60**   |     | Tar                |
-| **61**   |     | Ted                |
-| **62**   |     | Th                 |
-| **63**   |     | Tor                |
-| **64**   |     | Tu                 |
-| **65**   |     | Ty                 |
-| **66**   |     | Un                 |
-| **67**   |     | Ver                |
-| **68**   |     | Wal                |
-| **69**   |     | Wim                |
-| **70**   |     | Xal                |
-| **71**   |     | Yol                |
-| **72**   |     | Zan                |
-| **73**   |     | Zed                |
-| **74**   |     | Zil                |
-| **75**   |     | Zor                |
-| **76**   |     | Qua                |
-| **77**   |     | Qui                |
-| **78**   |     | Quo                |
-| **79**   |     | Ust                |
-| **80**   |     | Ist                |
-| **81**   |     | Orl                |
-| **82**   |     | Urb                |
-| **83**   |     | Vex                |
-| **84**   |     | Xen                |
-| **85**   |     | Yur                |
-| **86**   |     | Zyr                |
-| **87**   |     | Ux                 |
-| **88**   |     | Ox                 |
-| **89**   |     | Nex                |
-| **90**   |     | Pax                |
-| **91**   |     | Pyr                |
-| **92**   |     | Qix                |
-| **93**   |     | Rax                |
-| **94**   |     | Ryk                |
-| **95**   |     | Syx                |
-| **96**   |     | Uyk                |
-| **97**   |     | Vyx                |
-| **98**   |     | Wyr                |
-| **99**   |     | Xyr                |
-| **100**  |     | Zyx                |
+
+|          |                    |
+| -------- | ------------------ |
+| **d100** | **First Syllable** |
+| **1**    | Al                 |
+| **2**    | Bal                |
+| **3**    | Bel                |
+| **4**    | Br                 |
+| **5**    | Car                |
+| **6**    | Cor                |
+| **7**    | Del                |
+| **8**    | Dor                |
+| **9**    | Ed                 |
+| **10**   | Er                 |
+| **11**   | Far                |
+| **12**   | Fi                 |
+| **13**   | Fr                 |
+| **14**   | Gar                |
+| **15**   | Gil                |
+| **16**   | Hal                |
+| **17**   | Har                |
+| **18**   | Ian                |
+| **19**   | Iz                 |
+| **20**   | Jar                |
+| **21**   | Jor                |
+| **22**   | Kal                |
+| **23**   | Kat                |
+| **24**   | Kev                |
+| **25**   | Ker                |
+| **26**   | La                 |
+| **27**   | Lar                |
+| **28**   | Len                |
+| **29**   | Li                 |
+| **30**   | Lw                 |
+| **31**   | Ma                 |
+| **32**   | Mar                |
+| **33**   | Mi                 |
+| **34**   | Na                 |
+| **35**   | Ne                 |
+| **36**   | Ni                 |
+| **37**   | Nol                |
+| **38**   | Ol                 |
+| **39**   | Ow                 |
+| **40**   | Pal                |
+| **41**   | Pen                |
+| **42**   | Pir                |
+| **43**   | Por                |
+| **44**   | Ran                |
+| **45**   | Ral                |
+| **46**   | Ri                 |
+| **47**   | Ro                 |
+| **48**   | Ros                |
+| **49**   | Sa                 |
+| **50**   | San                |
+| **51**   | Se                 |
+| **52**   | Sig                |
+| **53**   | Sio                |
+| **54**   | Sko                |
+| **55**   | Sl                 |
+| **56**   | Sol                |
+| **57**   | Son                |
+| **58**   | Syl                |
+| **59**   | Syr                |
+| **60**   | Tar                |
+| **61**   | Ted                |
+| **62**   | Th                 |
+| **63**   | Tor                |
+| **64**   | Tu                 |
+| **65**   | Ty                 |
+| **66**   | Un                 |
+| **67**   | Ver                |
+| **68**   | Wal                |
+| **69**   | Wim                |
+| **70**   | Xal                |
+| **71**   | Yol                |
+| **72**   | Zan                |
+| **73**   | Zed                |
+| **74**   | Zil                |
+| **75**   | Zor                |
+| **76**   | Qua                |
+| **77**   | Qui                |
+| **78**   | Quo                |
+| **79**   | Ust                |
+| **80**   | Ist                |
+| **81**   | Orl                |
+| **82**   | Urb                |
+| **83**   | Vex                |
+| **84**   | Xen                |
+| **85**   | Yur                |
+| **86**   | Zyr                |
+| **87**   | Ux                 |
+| **88**   | Ox                 |
+| **89**   | Nex                |
+| **90**   | Pax                |
+| **91**   | Pyr                |
+| **92**   | Qix                |
+| **93**   | Rax                |
+| **94**   | Ryk                |
+| **95**   | Syx                |
+| **96**   | Uyk                |
+| **97**   | Vyx                |
+| **98**   | Wyr                |
+| **99**   | Xyr                |
+| **100**  | Zyx                |
+
 
 
 |         |                     |
