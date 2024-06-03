@@ -13,7 +13,7 @@ grand_parent: WIP
 
 A forestcrawl is a simple method for exploring a large forested area, typically made up of branching trails connecting scattered points of interest. While a forestcrawl has some of the same properties as a traditional dungeon delve, it swaps stone walls and ceilings for the dense, non-linear design of a heavily wooded area. Instead of rooms, points of interest are defined as clearings or major changes in the forested landscape. However unlike exploring a dungeon, characters can take shortcuts, go "off-trail," or climb trees to get a better look around (with a cost, of course).
 
-### Exploring The Wood
+### Exploring The Woods
 
 - Follow the _Dungeon_ exploration procedures found in the Player's Guide, but rather than rolling for Dungeon Events, use the Wilderness Events table instead.
 - If the party attempts to step off the trail and cut through the forest, the Warden should make any associated costs clear. Added travel time, effort, special tools that may be required, and any obvious dangers. Going off-trail also automatically triggers a roll on the Wilderness Events table.
@@ -76,7 +76,7 @@ Roll 2d20 and combine the results.
 
 ## The Spirit of the Forest
 
-In some ways the Wood is a single entity, its brain alive within every tree and plant, connected via a network of thorn and branch. The animals and plants are its limbs, directing its wants, desires, fears, and needs. The creatures that live within its boundaries are its blood, answering its call by delivering much needed defenses and rebuffing interlopers. The Wood will always protect itself, and its children. Roll on the [Traits](#traits) and [Forest Agenda](#forest-agenda) tables, writing the results in your notebook. This describes the general attitude of the creatures found in the forest as well as what the forest _wants_ as a whole.
+In some ways the Woods are a single entity, its brain alive within every tree and plant, connected via a network of thorn and branch. The animals and plants are its limbs, directing its wants, desires, fears, and needs. The creatures that live within its boundaries are its blood, answering its call by delivering much needed defenses and rebuffing interlopers. The Woods will always protect itself, and its children. Roll on the [Traits](#traits) and [Forest Agenda](#forest-agenda) tables, writing the results in your notebook. This describes the general attitude of the creatures found in the forest as well as what the forest _wants_ as a whole.
 
 ### Traits
 
@@ -297,7 +297,7 @@ Roll 2d20 and combine the results.
 
 #### Hazard
 
-The Wood is a dangerous place, and not to be trifled with. The forest and its inhabitants do what they must to survive, and even sated are still preparing for their next meal. The trees, the plants, and the earth itself will leave deadly traps and dangers to root out those unworthy to pass beneath the boughs.
+The Woods are a dangerous place, and not to be trifled with. The forest and its inhabitants do what they must to survive, and even sated are still preparing for their next meal. The trees, the plants, and the earth itself will leave deadly traps and dangers to root out those unworthy to pass beneath the boughs.
 
 Roll 2d20 and combine the results.
 
@@ -349,7 +349,7 @@ The spirit of the forest wants nothing more than to purify itself of the disease
 
 ### Forest Theme
 
-For decades, order and stability of the forest was kept in check through an agreement between the forest witch **Anglwyst** and **Sweeney**, the Wood's champion. The witch would use her magic to keep the trees and animals healthy, while the champion would ensure that hunters never kill any creatures deemed essential to the Wood (indicated by a shock of white in their fur). Their pact was permanent and immalleable, and the forest was divided, barring both the witch nor the champion from crossing its boundary.
+For decades, order and stability of the forest was kept in check through an agreement between the forest witch **Anglwyst** and **Sweeney**, the Wood's champion. The witch would use her magic to keep the trees and animals healthy, while the champion would ensure that hunters never kill any creatures deemed essential to the Woods (indicated by a shock of white in their fur). Their pact was permanent and immalleable, and the forest was divided, barring both the witch nor the champion from crossing its boundary.
 
 After the old witch died, one of her spells grew wild, then dangerous. Now a magical disease has begun to infect the trees and creatures, threatening to consume the entire forest. Hunters call it the _Withering_, because it drains the life of everything it touches.
 
@@ -438,7 +438,7 @@ Very austere, with only a simple **cot** and small dining **table**.
 12 HP, 2 Armor, 13 STR, 15 DEX, 17 WIL, yew bow (d8)
 
 - A cantankerous, mossy old man.
-- If he is injured, the Wood will protect and even heal him. Each time he dies, he returns more green than before.
+- If he is injured, the Woods will protect and even heal him. Each time he dies, he returns more green than before.
 - Would like to stop the _Withering_, but cannot enter **6** due to his pact with Anglwyst. As a test of their honor and skill he will ask the party for help expelling the Giant Spiders at **9**.
   - If the party successfully completes their first task he will give the party a **Pendant of Karnon**, and the promise of further riches if they can undo the magic that is ravaging the forest at **6**. 
   - If the party is able to disrupt the _Withering_, he will open the secret path to **4**, telling them that they may enter the hut there.
@@ -556,7 +556,7 @@ Three flooded **buildings** sprout from the center of a small pond, their **coni
 A black **boar** limps noisily near a large, **mass** of black thread and trees. Fat, desiccated **carcasses** hang in spun silk from the treetops. A dry **riverbed** to the South is filled with piles of wood. 
 
 - **Boar**: Half-wrapped in thick black silk, it mews plaintively. 
-  - Poisoned by the spider bite in its hind quarters. If the party comes to its aid the Wood will remember.
+  - Poisoned by the spider bite in its hind quarters. If the party comes to its aid the sWood will remember.
 - **Mass**: Threads of thick black silk hold together a 10ft pile of wood.
   - The nest is home to 3 **Black Silk Spiders**. They will attack anyone that that interacts with their food or gets too close to their nest. 
   - 200gp of black silk can be carefully gathered from the nest. It makes a fine rope (about 60ft) that is also incredibly strong, and is sought after for its hydrophobic qualities.
