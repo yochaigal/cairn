@@ -18,11 +18,6 @@ nav_exclude: true
 - A blank leather parchment that absorbs any blood spilled on its surface before rolling into a tight scroll. Unroll to see a poorly-construed map revealing the current location of any remaining blood. The image disappears after a few minutes.
 - **Recharge**: Pour a pint of your own life essence onto the map, blood for blood. You are _deprived_ until you can rest and eat a Ration.
 
-## Coin of the Father, 1 charge
-
-- Flip this worthless-looking hunk of flat metal in the air and it will appear to transform into a far more valuable coin. The illusion ends a few minutes later.
-- **Recharge**: Steal the coin from its most recent recipient.
-
 ## Eyestone, 3 charges
 
 - Choose an object created by living creatures. You can sense the nearest example.
@@ -47,11 +42,6 @@ nav_exclude: true
 
 - A chipped short sword of dubious quality. Drive into the earth to form a crystal dome that encircles and immobilizes the wielder. The dome is impenetrable by mundane means, and shatters once the sword is lifted again.
 - **Recharge**: Deliver a killing blow with the sword, absorbing the dying victim's soul into the blade. There is a cunning intelligence within that speaks to the wielder, forever asking for more souls, more!
-
-## Sticky Rope, 1 charge
-
-- A 100ft rope that can stick to any surface.
-- **Recharge**: Cut off 10ft of rope, which then wilts away.
 
 ## Veilsilk Grip, 1 charge
 
@@ -85,7 +75,7 @@ nav_exclude: true
 
 ## Mace of the Kingslayer (d8), 2 charges
 
-- Hold the weapon aloft and shout an order or declaration. Any who fail a WIL save must obey or suffer extreme distress.
+- Hold the weapon aloft and shout an order or declaration. Any who fail a WIL save must obey, against their better judgement.
 - **Recharge**: Deliver a fatal blow to the leader of a group or faction.
 
 ## Babbleflask, 2 uses
@@ -114,7 +104,7 @@ nav_exclude: true
 
 ## Jar of Ants
 
-- Break to release a colony of fire ants [1 HP, 2 STR, 10 DEX, 1 WIL, bite (d10), _detachment_]. Consume a ration every two days.
+- Break to release a colony of fire ants [6 HP, 2 STR, 10 DEX, 1 WIL, bite (d10), _detachment_]. Consume a ration every two days.
 
 ## Lightsucker Candle, 3 uses
 
@@ -159,10 +149,6 @@ nav_exclude: true
 ## Assassin's Goblets
 
 - A pair of fragile wine flutes. Any liquid poured into one is swapped with the other.
-
-## Barbed Epaulets, +1 Armor
-
-- Spiked shoulder pads that cause d4 STR damage to anyone who grabs you.
 
 ## Footpad's Friend
 
