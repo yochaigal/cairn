@@ -176,7 +176,7 @@ nav_exclude: true
 
 ## Tupshead Crown, +1 Armor, _bulky_
 
-  - A beautifully rendered ram's head helm wrought from tough Alpine Oak. The horns can be used as weapons (d6+d6). Heavy.
+  - A beautifully rendered ram's head helm wrought from tough Alpine Oak. The horns can be used as weapons (d6+d6).
 
 ## Veilsilk Grip, 1 charge
 
