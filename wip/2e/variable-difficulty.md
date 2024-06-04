@@ -170,4 +170,4 @@ In Cairn, players are encouraged to overcome problems by asking questions, think
 
 **Lucius** _"Who cares? Let's just get out of here while the getting's good._"
 
-**Warden** _"You have an opportunity to flee into the nearby woods, or across the open fields if you think you can run fast enough. What do you do?"_
+**Warden** _"You have an opportunity to flee into the nearby Wood, or across the open fields if you think you can run fast enough. What do you do?"_
