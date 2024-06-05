@@ -15,11 +15,23 @@ The implied setting of Cairn is called _Vald_, encompassing all developed or set
 
 ### The Wood
 
-The _Wood_ surrounds and divides the realm, including anyone or anything that does not swear fealty to the current regime. It is not one forest but _all_ forests. These regions are populated by creatures stranger and more wondrous than humankind, such as the Fae, demons, witches, werewolves, and even talking plants and animals. Denizens of the Wood are fiercely independent, believing they are subject solely to its rules. Its fierce nations, wild tribes, and unrelenting natural elements have kept armies and scouting parties at bay since time immemorial.
+The _Wood_ surrounds and divides the realm, including anyone or anything that does not swear fealty to the current regime. These regions are populated by creatures stranger and more wondrous than humankind, such as the Fae, demons, witches, werewolves, and even talking plants and animals. Denizens of the Wood are fiercely independent, believing they are subject solely to its rules. Its fierce nations, wild tribes, and unrelenting natural elements have kept armies and scouting parties at bay since time immemorial.
 
 ### The Roots
 
 The _Roots_ is a realm of mystery and horror underground, indifferent to the petty divisions aboveground. These remnants of the _Old World_ consist of labyrinthine hollows stretching for immeasurable distances, connecting the sewers of the Cities to far-flung ruins beyond the borders. Entrances to the Roots, known as _Gates_, are scattered across the lands, usually protected or hidden. Only the brave or foolish dare enter in search of forgotten _Relics_ or powerful _Spellbooks_. The few that return whisper of unspeakable terrors guarding these lost treasures. Folktales recount that traveling through the Roots bends the natural order of things. Stories tell of adventurers lost for centuries in the depths, only to emerge claiming that only a few hours have passed. Others claim to make a week-long journey above ground in just one day, traveling through the tunnels beneath.
+
+## Vald Principles
+
+- Keep it small. Adventures take place in smaller towns, villages, forests, and the margins of the realm.
+- Keep it local. Major rulers (Kings, Queens, etc.) are far-off, almost irrelevant entities. They have power, but distance diminishes their impact.
+- Most people are Human. Some have a drop of Fae blood, or are borne of divergent worlds. But for the most part everyone looks, sounds, and acts recognizably human.
+- Distance matters. Most villages are within a day's walk from one another to ensure the safety of travelers. Camping is a last resort, and those that journey far rarely return.
+- Language matters. Most towns and villages share a common tongue, but lose intelligibility the further one travels. Written, older forms are common in places people no longer tread.
+- There is only one Wood. It is not one forest, but _all_ forests. It is neither Good, nor Evil, but simply wishes to grow, to be free, and to protect itself.
+- The Roots are a foreign land. Time, logic, and matter operate by principles so alien as to make them unknowable.
+- Magic is rare and dangerous. Relics and Spellbooks are not very well understood, and attempting to manipulate their power is a surefire path to self-destruction.
+- NPCs & monsters do not follow the rules. They speak and act differently than the PCs, and have abilities and magic beyond the reach of regular characters.
 
 ## The Vald Calendar
 
