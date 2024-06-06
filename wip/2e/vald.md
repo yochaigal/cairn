@@ -7,13 +7,13 @@ parent: 2e
 grand_parent: WIP
 ---
 
-# Vald
+### Vald
 
-## Introduction
+### Introduction
 
 The implied setting of Cairn is called _Vald_, encompassing all developed or settled lands, cities, towns, forests, etc. The specific ruler is irrelevant, as most adventures will take place in smaller towns and villages, the forest, and the margins of the realm. Most inhabitants (regardless of region) refer to the local centers of power as the _Cities_, occasionally as a pejorative.
 
-## Vald Principles
+### Vald Principles
 
 - Keep it small. Adventures take place in smaller towns, villages, forests, and the margins of the realm.
 - Keep it local. Major rulers (Kings, Queens, etc.) are far-off, almost irrelevant entities. They have power, but distance diminishes their impact.
@@ -21,13 +21,13 @@ The implied setting of Cairn is called _Vald_, encompassing all developed or set
 - Distance matters. Most villages are within a day's walk from one another to ensure the safety of travelers. Camping is a last resort, and those that journey far rarely return.
 - Language matters. Most towns and villages share a common tongue, but lose intelligibility the farther one travels. Written, older forms are common in places people no longer tread.
 - There is only one Wood. It is not one forest, but _all_ forests. It is neither Good nor Evil, but simply wishes to grow, to be free, and to protect itself.
-- The Wood is a porous dungeon. It has rooms and traps and hazards, but can also be traversed: one can always climb a tree. This makes it no less dangerous.
+- The Wood is a porous dungeon. It has rooms and traps and hazards but can also be traversed: one can always climb a tree. This makes it no less dangerous.
 - The Roots are a foreign land. Time, logic, and matter operate by principles so alien as to make them unknowable.
 - Magic is rare and dangerous. Relics and Spellbooks are not well understood, and attempting to manipulate their power is a surefire path to self-destruction.
-- Relics originate in the Roots. They cannot be created by humans, only found. They are ancient, and yet they sprout from rubble as if grown there. 
+- Relics originate in the Roots. They cannot be created by humans, only found. They are ancient, and yet they sprout from rubble as if grown there.
 - Monsters and other creatures do not follow the rules. They speak and act differently than the PCs, and have abilities and magic beyond the reach of regular characters.
 
-## The Wood
+### The Wood
 
 The _Wood_ surrounds and divides the realm, including anyone or anything that does not swear fealty to the current regime. Denizens of the Wood are fiercely independent, believing they are subject solely to its rules. Its various peoples, creatures, and unrelenting natural elements have kept the outside world at bay since time immemorial.
 
@@ -43,13 +43,17 @@ Hunters swear that occasionally animals from the Faerie world will pass into our
 
 Those who make their lives in the Wood know to carry charms, gifts, and similar items in case of a chance meeting. And though the Neighbors rarely trouble the borders to their kingdom, they have been known to deliver harsh punishment to those that cross their boundary uninvited. However, it is common knowledge that the Neighbors are terrified of the Roots, and will avoid Gates whenever possible.
 
-## The Roots
+### The Roots
 
-The _Roots_ is a realm of mystery and horror underground, indifferent to the petty divisions aboveground. These remnants of the _Old World_ consist of labyrinthine hollows stretching for immeasurable distances, connecting humble town sewers to far-flung ruins beyond the borders. Only the brave or foolish dare enter the Roots in search of forgotten Relics or profound wealth, and the few that do return whisper of the indescribable horrors and evil intelligence guarding these lost treasures. Stories tell of adventurers lost for centuries in the depths, only to emerge claiming that only a few hours have passed. Others claim to have made a week-long journey above ground in just one day, traveling through the tunnels beneath.
+The _Roots_ is a realm of mystery and horror underground, indifferent to the arbitrary divisions of the aboveground civilizations. Below, labyrinthine hollows stretch for immeasurable distances, connecting humble town sewers to far-flung ruins beyond the borders. Only the brave or foolish dare enter the Roots in search of forgotten Relics or profound wealth, and the few that do return whisper of the indescribable horrors and evil intelligence guarding these lost treasures. Stories tell of adventurers lost for centuries in the depths, only to emerge claiming that only a few hours have passed. Others claim to have made a week-long journey above ground in just one day, traveling through the tunnels beneath.
 
 Entrances to the Roots, known as _Gates_, are scattered across the lands and are usually hidden or protected by powerful forces. Further, Gates cannot be opened without a proper key or alchemical pattern, and once opened, _can never be shut again._ Folk histories recount their openings as omens of great misfortunes, where creatures more vile than the darkest nightmare slink through, devouring nearby homes and villages. Others tell of great heroes raising their swords against these terrors, sealing away the Gate beneath rubble, mountains, lakes, or other impenetrable barriers.
 
-What _is_ known is that the Roots are made of vast underground caves as large as an emptied ocean, without even a hint of sunlight. A variety of fungal growths provide weak light in some places, as do various minerals and strange, scattered pits of blue flame. Very little is known about these pits other than that they are tended to by terrible three-eyed Ogres who thirst for blood as if it were the sweetest wine. The various creatures and wild animals that survive in such harsh conditions have developed natural means to live in utter darkness, adapting their eyesight to function in even the dimmest light or eschewing vision altogether. Of the various peoples and tribes, it is said that they speak a harsh, guttural speech, sprinkled with familiar words and phrases. Their warriors carry weapons that spin of their own volition, glowing brighter with each rotation. When the blades are finally released, their heated edges can split flesh and even rock with deadly ease. To date, no one has successfully parlayed with the _People Who Live Below_. Still, some contend that there are bustling towns, cities, and even great palaces in the Roots! Of course, few scholars believe them, and those that do have been ostracized into obscurity by their peers.
+What _is_ known is that the Roots are made of vast underground caves as large as an emptied ocean, without even a hint of sunlight. A variety of fungal growths provide weak light in some places, as do various minerals and strange, shallow pits of blue flame. Very little is known about these pits other than that they are tended to by terrible three-eyed Ogres who thirst for blood as if it were the sweetest wine. The various creatures and wild animals that survive in such harsh conditions have developed natural means to live in utter darkness, adapting their eyesight to function in even the dimmest light or eschewing vision altogether.
+
+Of the various peoples and tribes, it is said that they speak a harsh, guttural speech, sprinkled with familiar words and phrases. Their warriors carry weapons that spin of their own volition, glowing brighter with each rotation. When the blades are finally released, their heated edges can split flesh and even rock with deadly ease. To date, no one has successfully parlayed with the _People Who Live Below_. Some contend that there are bustling towns, cities, and even great palaces in the Roots! Of course, few scholars believe them, and those that do have been ostracized into obscurity by their peers. Still, explorers cannot deny the ancient husks of impressive architecture found throughout the Roots, the ancient cities and enormous ships of an unimaginable world. Hazy reports claim that one such ruin, a gargantuan ziggurat boasting hundreds of levels, still flickers with light and life. These rumors have yet to be substantiated.
+
+Today, most know to avoid any mention of Gates, or keys, or related alchemy. But of course, there are those that cannot resist the draw...
 
 ## The Vald Calendar
 
