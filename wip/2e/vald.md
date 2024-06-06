@@ -11,31 +11,45 @@ grand_parent: WIP
 
 ## Introduction
 
-The implied setting of Cairn is called _Vald_, encompassing all developed or settled lands, cities, towns, forests, etc. The specific ruler is irrelevant, as the for the most part adventures will take place in smaller towns and villages, the forest, and the margins of the realm. Most inhabitants (regardless of region) refer to the local centers of power as the _Cities_, occasionally as a pejorative.
+The implied setting of Cairn is called _Vald_, encompassing all developed or settled lands, cities, towns, forests, etc. The specific ruler is irrelevant, as most adventures will take place in smaller towns and villages, the forest, and the margins of the realm. Most inhabitants (regardless of region) refer to the local centers of power as the _Cities_, occasionally as a pejorative.
 
 ## Vald Principles
 
 - Keep it small. Adventures take place in smaller towns, villages, forests, and the margins of the realm.
 - Keep it local. Major rulers (Kings, Queens, etc.) are far-off, almost irrelevant entities. They have power, but distance diminishes their impact.
-- Most people are Human. Some have a drop of Fae blood, or are born of two worlds. But for the most part everyone looks, sounds, and acts recognizably human.
+- Most people are human. Some have a drop of Fae blood or are born of two worlds. But for the most part, everyone looks, sounds, and acts recognizably human.
 - Distance matters. Most villages are within a day's walk from one another to ensure the safety of travelers. Camping is a last resort, and those that journey far rarely return.
-- Language matters. Most towns and villages share a common tongue, but lose intelligibility the further one travels. Written, older forms are common in places people no longer tread.
-- There is only one Wood. It is not one forest, but _all_ forests. It is neither Good, nor Evil, but simply wishes to grow, to be free, and to protect itself.
+- Language matters. Most towns and villages share a common tongue, but lose intelligibility the farther one travels. Written, older forms are common in places people no longer tread.
+- There is only one Wood. It is not one forest, but _all_ forests. It is neither Good nor Evil, but simply wishes to grow, to be free, and to protect itself.
 - The Wood is a porous dungeon. It has rooms and traps and hazards, but can also be traversed: one can always climb a tree. This makes it no less dangerous.
 - The Roots are a foreign land. Time, logic, and matter operate by principles so alien as to make them unknowable.
-- Magic is rare and dangerous. Relics and Spellbooks are not very well understood, and attempting to manipulate their power is a surefire path to self-destruction.
+- Magic is rare and dangerous. Relics and Spellbooks are not well understood, and attempting to manipulate their power is a surefire path to self-destruction.
 - Relics originate in the Roots. They cannot be created by humans, only found. They are ancient, and yet they sprout from rubble as if grown there. 
-- NPCs & monsters do not follow the rules. They speak and act differently than the PCs, and have abilities and magic beyond the reach of regular characters.
+- Monsters and other creatures do not follow the rules. They speak and act differently than the PCs, and have abilities and magic beyond the reach of regular characters.
 
 ## The Wood
 
 The _Wood_ surrounds and divides the realm, including anyone or anything that does not swear fealty to the current regime. Denizens of the Wood are fiercely independent, believing they are subject solely to its rules. Its various peoples, creatures, and unrelenting natural elements have kept the outside world at bay since time immemorial.
 
-Although rare, the Wood does support small villages, cabins, and the odd tower. Those who can survive (or even thrive) in such places learn to live according to the rules of the forest, for those that ignore or foolishly oppose these rules often meet a grisly end. The Wood is populated by creatures strange and wondrous, such as Goblins, Spirits, Treants, Trolls,  Werewolves, Witches, and even talking plants and animals. Most are openly hostile to outsiders (particularly humans), but others will (on occasion) parley with those that have shown respect for the Wood. All demonstrate utter respect for the Fae (sometimes called the Pale Folk, or the _Neighbors_).
+The Wood is not empty of humans, however. Hidden in the boughs and in empty glades are populated villages, rustic cabins, and the odd tower. Those who can survive (or even thrive) in such places learn to live according to the rules of the forest, for those that ignore or foolishly oppose these rules often meet a grisly end. The Wood is populated by creatures strange and wondrous, such as Goblins, Spirits, Treants, Trolls, Werewolves, Witches, and even talking plants and animals. Most are openly hostile to outsiders (particularly humans), but others will (on occasion) parley with those that have shown respect for the Wood. All demonstrate utter respect for the Fae (sometimes called the Pale Folk, or the _Neighbors_).
+
+### The Neighbors
+
+Through the bramble and over the bush, there is a liminal space where the realms of mortals and the Faerie touch. If you look for it, you will not find it. But if you need to pass over, you will. The creatures that inhabit this place may look and sound familiar, but make no mistake: they are not like us. Tall, slender, pale as ice, and eerily beautiful, the Fae obey no mortal law, nor do they submit to its morality. And yet, they are crippled by sterility, lacking the ability to create their own kindred. For this deed, they must cross the threshold into the mortal realm to treat with mortals. There are many names for their kind, but only one has ever escaped their lips: Neighbors.
+
+The Neighbors are continually shrouded in mystery, and it can often be difficult to separate fact from rumor. There are some who say the Neighbors steal babes from their cribs, replacing them with a Changeling child. Others claim that they will pay great sums of wealth or bestow enormous power to those willing to give away their own flesh and blood. There is one truth that all agree on: to make deals with their kind is to invite ill luck not only to your life but that of your descendants as well.
+
+Hunters swear that occasionally animals from the Faerie world will pass into ours, a white blaze burnt into their fur. They say that their meat is the sweetest you will ever taste and that afterward you will starve by the lack of it. Worse, to be caught poaching these creatures is a fate worse than death. Scholars have written that the Neighbors can spill magic as if it were water, having no need for Spellbooks, or even Relics. They also claim that all magic has its origin in the land of the Pale Folk, and that within each Spellbook is the trapped spirit of their most craven lawbreakers.
+
+Those who make their lives in the Wood know to carry charms, gifts, and similar items in case of a chance meeting. And though the Neighbors rarely trouble the borders to their kingdom, they have been known to deliver harsh punishment to those that cross their boundary uninvited. However, it is common knowledge that the Neighbors are terrified of the Roots, and will avoid Gates whenever possible.
 
 ## The Roots
 
-The _Roots_ is a realm of mystery and horror underground, indifferent to the petty divisions aboveground. These remnants of the _Old World_ consist of labyrinthine hollows stretching for immeasurable distances, connecting the sewers of the Cities to far-flung ruins beyond the borders. Entrances to the Roots, known as _Gates_, are scattered across the lands, usually protected or hidden. Only the brave or foolish dare enter in search of forgotten _Relics_ or powerful _Spellbooks_. The few that return whisper of unspeakable terrors guarding these lost treasures. Folktales recount that traveling through the Roots bends the natural order of things. Stories tell of adventurers lost for centuries in the depths, only to emerge claiming that only a few hours have passed. Others claim to make a week-long journey above ground in just one day, traveling through the tunnels beneath.
+The _Roots_ is a realm of mystery and horror underground, indifferent to the petty divisions aboveground. These remnants of the _Old World_ consist of labyrinthine hollows stretching for immeasurable distances, connecting humble town sewers to far-flung ruins beyond the borders. Only the brave or foolish dare enter the Roots in search of forgotten Relics or profound wealth, and the few that do return whisper of the indescribable horrors and evil intelligence guarding these lost treasures. Stories tell of adventurers lost for centuries in the depths, only to emerge claiming that only a few hours have passed. Others claim to have made a week-long journey above ground in just one day, traveling through the tunnels beneath.
+
+Entrances to the Roots, known as _Gates_, are scattered across the lands and are usually hidden or protected by powerful forces. Further, Gates cannot be opened without a proper key or alchemical pattern, and once opened, _can never be shut again._ Folk histories recount their openings as omens of great misfortunes, where creatures more vile than the darkest nightmare slink through, devouring nearby homes and villages. Others tell of great heroes raising their swords against these terrors, sealing away the Gate beneath rubble, mountains, lakes, or other impenetrable barriers.
+
+What _is_ known is that the Roots are made of vast underground caves as large as an emptied ocean, without even a hint of sunlight. A variety of fungal growths provide weak light in some places, as do various minerals and strange, scattered pits of blue flame. Very little is known about these pits other than that they are tended to by terrible three-eyed Ogres who thirst for blood as if it were the sweetest wine. The various creatures and wild animals that survive in such harsh conditions have developed natural means to live in utter darkness, adapting their eyesight to function in even the dimmest light or eschewing vision altogether. Of the various peoples and tribes, it is said that they speak a harsh, guttural speech, sprinkled with familiar words and phrases. Their warriors carry weapons that spin of their own volition, glowing brighter with each rotation. When the blades are finally released, their heated edges can split flesh and even rock with deadly ease. To date, no one has successfully parlayed with the _People Who Live Below_. Still, some contend that there are bustling towns, cities, and even great palaces in the Roots! Of course, few scholars believe them, and those that do have been ostracized into obscurity by their peers.
 
 ## The Vald Calendar
 
@@ -109,7 +123,6 @@ There are 24 hours in a day and 6 days in a week. Each month consists of 24 days
 |               | Morning on the 14th                  | _Winterwood_: Representatives from the smaller towns and villages trade steel for lumber in ritual arrangement with the denizens of the Wood                               |
 |               | Afternoon on the 24th                | _Parade of Ash_: In celebration of the final day of the year, participants mark their faces with ash and play music. Most kinds of labor is frowned upon.                     |
 
-
 ## Factions
 
 ### Tideborn
@@ -142,14 +155,3 @@ The Guard bends to no kings, knows no religion, and obeys no laws but their own.
 Bloodhounds are members of the Guard who have been awarded special commendations or have demonstrated true belief in their cause. Though this distinction carries no rank, they are no less respected or feared. These hunters have adopted a single purpose of duty: enforcing the Oath. Utilizing a network of spies, informants, and plants, they ensure that any who escape the Guard are forced to return or die in their attempt.
 
 The Guard sees little reason to engage in politics or other such short-sighted quarrels with the other factions. However, decades of living near the borders have brokered an uneasy friendship with those who call the Wood their home, and will even treat with them on occasion. And although it is never discussed, on rare occasions the Guard will come to their aid as well.
-
-### The Neighbors
-
-Through the bramble and over the bush, there is a liminal space where the realms of mortals and the Faerie touch. If you look for it, you will not find it. But if you need to pass over, you will. The creatures that inhabit this place may look and sound familiar, but make no mistake: they are not like you. Tall, slender, pale as ice, and eerily beautiful, the Fae obey no mortal law, nor do they submit to its morality. And yet, they are crippled by sterility, lacking the ability to create their own kindred. For this deed, they must cross the threshold into the mortal realm to treat with mortals. There are many names for their kind, but only one has ever escaped their lips: Neighbors.
-
-The Neighbors are continually shrouded in mystery, and it can often be difficult to separate fact from rumor. There are some who say the Neighbors steal babes from their cribs, replacing them with a Changeling child. Others claim that they will pay great sums of wealth or bestow enormous power to those willing to give away their own flesh and blood. There is one truth that all agree on: to make deals with their kind is to invite ill luck not only to your life but that of your descendants as well.
-
-Hunters swear that occasionally animals from the Faerie world will pass into ours, a white blaze burnt into their fur. They say that their meat is the sweetest you will ever taste and that afterward you will starve by the lack of it. Worse, to be caught poaching these creatures is a fate worse than death. Scholars have written that the Neighbors can spill magic as if it were water, having no need for Spellbooks, or even Relics. They also claim that all magic has its origin in the land of the Pale Folk, and that within each Spellbook is the trapped spirit of their most craven lawbreakers.
-
-Those who make their lives in the Wood know to carry charms, gifts, and similar items in case of a chance meeting. And though the Neighbors rarely trouble the borders to their kingdom, they have been known to deliver harsh punishment to those that cross their boundary uninvited. However, it is common knowledge that the Neighbors are terrified of the Roots, and will avoid Gates whenever possible.
-
