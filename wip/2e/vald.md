@@ -65,7 +65,7 @@ Today, most know to avoid any mention of Gates, or keys, or related alchemy. But
 
 ### Overview
 
-There are 24 hours in a day, and 6 days in a week. Each month consists of 24 days (or 4 weeks), for a total of 12-months (or 294 days) per year. The calendar is divided into 4 seasons of 72 days each, with an additional 6-day "Leap Week" (_Reclamation_) at the end of each year. This week is not counted as part of any month, and is made up of six unique days.
+There are 24 hours in a day, and 6 days in a week. Each month consists of 24 days (or 4 weeks), for a total of 12-months (or 294 days) per year. The calendar is divided into 4 seasons of 72 days each, with an additional 6-day "Leap Week" (_Reclamation_) at the end of each year. This week is not counted as part of any month, and is made up of six unique days. Each year begins in the Autumn season.
 
 ### Days of the Week
 
@@ -76,22 +76,23 @@ There are 24 hours in a day, and 6 days in a week. Each month consists of 24 day
 5. Bathing Day
 6. Resting Day
 
-### Months
+### Months and Seasons
 
-1. Mourning
-2. Silence
-3. Veil
-4. Flood
-5. Highwater
-6. Rise
-7. Quell
-8. Bane
-9. Dustset
-10. Sunheart
-11. Dusk
-12. Ashfall
+1. Sunrise
+2. Bright
+3. Ashfall
+4. Mourning
+5. Silence
+6. Veil
+7. Flood
+8. Highwater
+9.  Rise
+10. Quell
+11. Bane
+12. Sunset
+13. Reclamation Week
 
-### Reclamation
+### Leap Week
 
 1. Recognize
 2. Remember
@@ -101,10 +102,17 @@ There are 24 hours in a day, and 6 days in a week. Each month consists of 24 day
 6. Renew
 
 ### Holidays, Festivals, & Events
-
 |               |                                      |                                                                                                                                                                            |
 | ------------- | ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Month**     | **Occurrence**                       | **Event**                                                                                                                                                                  |
+| **Sunrise**   |                                      |                                                                                                                                                                            |
+|               | Midnight on the 4th                  | Dry season begins                                                                                                                                                          |
+|               |                                      |                                                                                                                                                                            |
+| **Bright**    |                                      |                                                                                                                                                                            |
+|               | Afternoon until midnight on the 9th  | _Dustset_: A carnival marked by parades and masquerades, where participants wear masks to protect from dust and wind.                                                      |
+| **Ashfall**   |                                      |                                                                                                                                                                            |
+|               | Morning on the 14th                  | _Winterwood_: Representatives from the smaller towns and villages trade steel for lumber in ritual arrangement with the denizens of the Wood.                              |
+|               | Afternoon on the 24th                | _Parade of Ash_: In celebration of the final day of the year, participants mark their faces with ash and play music. Most kinds of labor are frowned upon.                 |
 | **Mourning**  |                                      |                                                                                                                                                                            |
 |               | Midnight on the 4th                  | Dead season begins.                                                                                                                                                        |
 |               | Evening of the 24th                  | _First Light_: Commemorating the end of the hardest month. Torches and fire are lit all night, turning night to day.                                                       |
@@ -128,19 +136,11 @@ There are 24 hours in a day, and 6 days in a week. Each month consists of 24 day
 |               | Afternoon on the 4th                 | _Storm Dance_: Dances and betrothals meant to please the masters of storm and rain for a fruitful Harvest season ahead.                                                    |
 |               | All day on the 18th                  | _Firelight_: A day of kite-flying, wind chimes, and noisemakers. At night, massive bonfires are lit as dancers perform impressive fire dances.                             |
 | **Bane**      |                                      |                                                                                                                                                                            |
-|               | Dawn on the 14th                     | _Fast of Spirits_: A solemn day of fasting and reflection to remember the hardships endured by both ancestors and those still living.                                      |
-| **Dustset**   |                                      |                                                                                                                                                                            |
-|               | Afternoon until midnight on the 9th  | _Dustset_: A carnival marked by parades and masquerades, where participants wear masks to protect from dust and wind.                                                      |
+|               | Evening of the 24th                  | _Banefeast_: The final grand feast of the year, celebrating gratitude for the harvest, with the sun as centerpiece. Pregnancies are common.                                |
+| **Sunset**    |                                      |                                                                                                                                                                            |
 |               | Midnight on the 10th                 | Harvest Equinox: Marks the midpoint of the Harvest season.                                                                                                                 |
-| **Sunheart**  |                                      |                                                                                                                                                                            |
-|               | Midnight on the 4th                  | Dry season begins                                                                                                                                                          |
-|               | Evening of the 24th                  | _Sunheart Feast_: The final grand feast of the year, celebrating gratitude for the harvest, with the sun as centerpiece. Pregnancies are common.                           |
-| **Dusk**      |                                      |                                                                                                                                                                            |
-|               | Evening on the 11th                  | _Ember_: Pays homage to the setting sun, and the hard work ahead preparing for the Dead season. Lantern release ceremonies are a common practice.                          |
-| **Ashfall**   |                                      |                                                                                                                                                                            |
-|               | Morning on the 14th                  | _Winterwood_: Representatives from the smaller towns and villages trade steel for lumber in ritual arrangement with the denizens of the Wood.                              |
-|               | Afternoon on the 24th                | _Parade of Ash_: In celebration of the final day of the year, participants mark their faces with ash and play music. Most kinds of labor are frowned upon.                     |
-
+|               | Evening on the 11th                  | _Ember_: Pays homage to the setting sun, and the hard work ahead preparing for the Dry season. Lantern release ceremonies are a common practice.                           |
+| Reclamation   | Midnight on the 24th for six days    |                                                                                                                                                                            |
 
 ## Factions
 
