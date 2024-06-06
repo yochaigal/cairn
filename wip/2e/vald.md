@@ -65,8 +65,7 @@ Today, most know to avoid any mention of Gates, or keys, or related alchemy. But
 
 ### Overview
 
-There are 24 hours in a day and 6 days in a week. Each month consists of 24 days (or 4 weeks), for a total of 12-months (or 294 days) per year. 
-The calendar is divided into 4 seasons of 72 days each, with an additional 6-day Leap Week at the end of each year.
+There are 24 hours in a day, and 6 days in a week. Each month consists of 24 days (or 4 weeks), for a total of 12-months (or 294 days) per year. The calendar is divided into 4 seasons of 72 days each, with an additional 6-day "Leap Week" (_Reclamation_) at the end of each year. This week is not counted as part of any month, and is made up of six unique days.
 
 ### Days of the Week
 
@@ -92,14 +91,14 @@ The calendar is divided into 4 seasons of 72 days each, with an additional 6-day
 11. Dusk
 12. Ashfall
 
-### Leap Week
+### Reclamation
 
-1. Reflection
-2. Unity
-3. Renewal
-4. 
-5. 
-6. 
+1. Recognize
+2. Remember
+3. Reward
+4. Rejoice
+5. Relinquish
+6. Renew
 
 ### Holidays, Festivals, & Events
 
@@ -142,16 +141,6 @@ The calendar is divided into 4 seasons of 72 days each, with an additional 6-day
 |               | Morning on the 14th                  | _Winterwood_: Representatives from the smaller towns and villages trade steel for lumber in ritual arrangement with the denizens of the Wood.                              |
 |               | Afternoon on the 24th                | _Parade of Ash_: In celebration of the final day of the year, participants mark their faces with ash and play music. Most kinds of labor are frowned upon.                     |
 
-### Transition Week (Leap Week)
-
-**Days of Transition Week**
-
-1. Reflect Day
-2. Unity Day
-3. Renewal Day
-4. Harmony Day
-5. Gratitude Day
-6. Vision Day
 
 ## Factions
 
