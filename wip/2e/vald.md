@@ -59,13 +59,14 @@ What _is_ known is that the Roots are made of vast underground caves as large as
 
 Of the various peoples and tribes, it is said that they speak a harsh, guttural speech, sprinkled with familiar words and phrases. Their warriors carry weapons that spin of their own volition, glowing brighter with each rotation. When the blades are finally released, their heated edges can split flesh and even rock with deadly ease. To date, no one has successfully parlayed with the _People Who Live Below_. Some contend that there are bustling towns, cities, and even great palaces in the Roots! Of course, few scholars believe them, and those that do have been ostracized into obscurity by their peers. Still, explorers cannot deny the ancient husks of impressive architecture found throughout the Roots, the ancient cities and enormous ships of an unimaginable world. Hazy reports claim that one such ruin, a gargantuan ziggurat boasting hundreds of levels, still flickers with light and life. These rumors have yet to be substantiated.
 
-Today, most know to avoid any mention of Gates, or keys, or related alchemy. But of course, there are those that cannot resist the draw...
+Today, most know to avoid any mention of Gates, or keys, or related alchemy. But of course, there are always those that cannot resist its draw...
 
 ## The Vald Calendar
 
 ### Overview
 
-There are 24 hours in a day and 6 days in a week. Each month consists of 24 days (or 4 weeks), making a total of 12 months or 288 days in a year. The calendar is divided into 4 seasons of 72 days each.
+There are 24 hours in a day and 6 days in a week. Each month consists of 24 days (or 4 weeks), for a total of 12-months (or 294 days) per year. 
+The calendar is divided into 4 seasons of 72 days each, with an additional 6-day Leap Week at the end of each year.
 
 ### Days of the Week
 
@@ -91,6 +92,14 @@ There are 24 hours in a day and 6 days in a week. Each month consists of 24 days
 11. Dusk
 12. Ashfall
 
+### Leap Week
+
+1. Reflection
+2. Unity
+3. Renewal
+4. 
+5. 
+6. 
 
 ### Holidays, Festivals, & Events
 
@@ -130,8 +139,19 @@ There are 24 hours in a day and 6 days in a week. Each month consists of 24 days
 | **Dusk**      |                                      |                                                                                                                                                                            |
 |               | Evening on the 11th                  | _Ember_: Pays homage to the setting sun, and the hard work ahead preparing for the Dead season. Lantern release ceremonies are a common practice.                          |
 | **Ashfall**   |                                      |                                                                                                                                                                            |
-|               | Morning on the 14th                  | _Winterwood_: Representatives from the smaller towns and villages trade steel for lumber in ritual arrangement with the denizens of the Wood                               |
-|               | Afternoon on the 24th                | _Parade of Ash_: In celebration of the final day of the year, participants mark their faces with ash and play music. Most kinds of labor is frowned upon.                     |
+|               | Morning on the 14th                  | _Winterwood_: Representatives from the smaller towns and villages trade steel for lumber in ritual arrangement with the denizens of the Wood.                              |
+|               | Afternoon on the 24th                | _Parade of Ash_: In celebration of the final day of the year, participants mark their faces with ash and play music. Most kinds of labor are frowned upon.                     |
+
+### Transition Week (Leap Week)
+
+**Days of Transition Week**
+
+1. Reflect Day
+2. Unity Day
+3. Renewal Day
+4. Harmony Day
+5. Gratitude Day
+6. Vision Day
 
 ## Factions
 
