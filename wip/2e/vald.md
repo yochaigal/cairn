@@ -65,7 +65,14 @@ Today, most know to avoid any mention of Gates, or keys, or related alchemy. But
 
 ### Overview
 
-There are 24 hours in a day, and 6 days in a week. Each month consists of 24 days (or 4 weeks), for a total of 12-months (or 294 days) per year. The calendar is divided into 4 seasons of 72 days each, with an additional 6-day "Leap Week" (_Reclamation_) at the end of each year. This week is not counted as part of any month, and is made up of six unique days. Each year begins in the Autumn season.
+There are 24 hours in a day, and 6 days in a week. Each month consists of 24 days (or 4 weeks), for a total of 12-months (or 294 days) per year. The calendar is divided into 4 seasons (Dry, Wet, Harvest, Dead) of 72 days each, with an additional 6-day "Leap Week" (_Reclamation_) at the end of each year. This week is not counted as part of any month, and is made up of six unique days. Each year begins in the Autumn season.
+
+- 24 hours in a day
+- 6 days in a week
+- Each month consists of 24 days (4 weeks)
+- 12 months, resulting in \(24 \times 12 = 288\) days per year
+- Additional 6-day "Leap Week" at the end of the year
+- Total days in a year: \(288 + 6 = 294\) days
 
 ### Days of the Week
 
@@ -92,7 +99,7 @@ There are 24 hours in a day, and 6 days in a week. Each month consists of 24 day
 12. Sunset
 13. Reclamation Week
 
-### Leap Week
+### Reclamation Week
 
 1. Recognize
 2. Remember
@@ -102,45 +109,35 @@ There are 24 hours in a day, and 6 days in a week. Each month consists of 24 day
 6. Renew
 
 ### Holidays, Festivals, & Events
-|               |                                      |                                                                                                                                                                            |
-| ------------- | ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Month**     | **Occurrence**                       | **Event**                                                                                                                                                                  |
-| **Sunrise**   |                                      |                                                                                                                                                                            |
-|               | Midnight on the 4th                  | Dry season begins                                                                                                                                                          |
-|               |                                      |                                                                                                                                                                            |
-| **Bright**    |                                      |                                                                                                                                                                            |
-|               | Afternoon until midnight on the 9th  | _Dustset_: A carnival marked by parades and masquerades, where participants wear masks to protect from dust and wind.                                                      |
-| **Ashfall**   |                                      |                                                                                                                                                                            |
-|               | Morning on the 14th                  | _Winterwood_: Representatives from the smaller towns and villages trade steel for lumber in ritual arrangement with the denizens of the Wood.                              |
-|               | Afternoon on the 24th                | _Parade of Ash_: In celebration of the final day of the year, participants mark their faces with ash and play music. Most kinds of labor are frowned upon.                 |
-| **Mourning**  |                                      |                                                                                                                                                                            |
-|               | Midnight on the 4th                  | Dead season begins.                                                                                                                                                        |
-|               | Evening of the 24th                  | _First Light_: Commemorating the end of the hardest month. Torches and fire are lit all night, turning night to day.                                                       |
-| **Silence**   |                                      |                                                                                                                                                                            |
-|               | Dawn to dusk on the 11th             | _Whisper_: Speaking above a whisper is taboo. Silent auctions are common.                                                                                                  |
-| **Veil**      |                                      |                                                                                                                                                                            |
-|               | Midnight on the 9th                  | _Lift the Veil_: The end of the Dead season is celebrated through solemn vows and humble gestures.                                                                         |
-|               | Midnight on the 10th                 | Dead Equinox: Marks the midpoint of the Dead season.                                                                                                                       |
-|               | Afternoon to twilight on the 17th    | _Veil’s Edge_: A day for honoring ancestors with offerings and prayers at family altars.                                                                                   |
-| **Flood**     |                                      |                                                                                                                                                                            |
-|               | Midnight on the 4th                  | Wet season begins.                                                                                                                                                         |
-|               | 3 days starting on the 4th           | _Splash Festival_: Celebrates the abundance of water, with boat races, contests, gifts, and water blessings                                                                |
-|               | All day on the 14th                  | _Float_: Communities build and decorate enormous boats or rafts to float down rivers.                                                                                      |
-| **Highwater** |                                      |                                                                                                                                                                            |
-|               | Dawn until midnight on the 1st       | _Highwater Fair_: A major trade event taking place when the waters are highest. Every major town and city celebrates with fairs and markets.                               |
-|               | Dawn until the afternoon on the 16th | _Boughmeal_: A market day held exclusively within the Wood, where artisans and merchants from all over the realm meet to trade their wares.                                |
-| **Rise**      |                                      |                                                                                                                                                                            |
-|               | Lunchtime on the 14th                | _Waterwish_: Participants write wishes on scrolls, place them into holes in a boulder, and roll it downhill. When it stops, any remaining wishes are thought to come true. |
-|               | Five days starting on the 19th       | _Harvest_: A festival marking the end of the Wet season and the beginning of growth and fertility. Tree planting is common.                                                |
-| **Quell**     |                                      |                                                                                                                                                                            |
-|               | Afternoon on the 4th                 | _Storm Dance_: Dances and betrothals meant to please the masters of storm and rain for a fruitful Harvest season ahead.                                                    |
-|               | All day on the 18th                  | _Firelight_: A day of kite-flying, wind chimes, and noisemakers. At night, massive bonfires are lit as dancers perform impressive fire dances.                             |
-| **Bane**      |                                      |                                                                                                                                                                            |
-|               | Evening of the 24th                  | _Banefeast_: The final grand feast of the year, celebrating gratitude for the harvest, with the sun as centerpiece. Pregnancies are common.                                |
-| **Sunset**    |                                      |                                                                                                                                                                            |
-|               | Midnight on the 10th                 | Harvest Equinox: Marks the midpoint of the Harvest season.                                                                                                                 |
-|               | Evening on the 11th                  | _Ember_: Pays homage to the setting sun, and the hard work ahead preparing for the Dry season. Lantern release ceremonies are a common practice.                           |
-| Reclamation   | Midnight on the 24th for six days    |                                                                                                                                                                            |
+
+|                 |                                      |                                                                                                                                                                            |
+| --------------- | ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Month**       | **Occurrence**                       | **Event**                                                                                                                                                                  |
+| **Sunrise**     | Midnight on the 4th                  | Dry season begins.                                                                                                                                                         |
+|                 |                                      |                                                                                                                                                                            |
+| **Bright**      | Afternoon until midnight on the 9th  | _Dustset_: A carnival marked by parades and masquerades, where participants wear masks to protect from dust and wind.                                                      |
+| **Ashfall**     | Morning on the 14th                  | _Winterwood_: Representatives from the smaller towns and villages trade steel for lumber in ritual arrangement with the denizens of the Wood.                              |
+|                 | Afternoon on the 24th                | _Parade of Ash_: In celebration of the final day of the year, participants mark their faces with ash and play music. Most kinds of labor are frowned upon.                 |
+| **Mourning**    | Midnight on the 4th                  | Dead season begins.                                                                                                                                                        |
+|                 | Evening of the 24th                  | _First Light_: Commemorating the end of the hardest month. Torches and fire are lit all night, turning night to day.                                                       |
+| **Silence**     | Dawn to dusk on the 11th             | _Whisper_: Speaking above a whisper is taboo. Silent auctions are common.                                                                                                  |
+| **Veil**        | Midnight on the 9th                  | _Lift the Veil_: The end of the Dead season is celebrated through solemn vows and humble gestures.                                                                         |
+|                 | Midnight on the 10th                 | Dead Equinox: Marks the midpoint of the Dead season.                                                                                                                       |
+|                 | Afternoon to twilight on the 17th    | _Veil’s Edge_: A day for honoring ancestors with offerings and prayers at family altars.                                                                                   |
+| **Flood**       | Midnight on the 4th                  | Wet season begins.                                                                                                                                                         |
+|                 | 3 days starting on the 4th           | _Splash Festival_: Celebrates the abundance of water, with boat races, contests, gifts, and water blessings                                                                |
+|                 | All day on the 14th                  | _Float_: Communities build and decorate enormous boats or rafts to float down rivers.                                                                                      |
+| **Highwater**   | Dawn until midnight on the 1st       | _Highwater Fair_: A major trade event taking place when the waters are highest. Every major town and city celebrates with fairs and markets.                               |
+|                 | Dawn until the afternoon on the 16th | _Boughmeal_: A market day held exclusively within the Wood, where artisans and merchants from all over the realm meet to trade their wares.                                |
+| **Rise**        | Lunchtime on the 14th                | _Waterwish_: Participants write wishes on scrolls, place them into holes in a boulder, and roll it downhill. When it stops, any remaining wishes are thought to come true. |
+|                 | Five days starting on the 19th       | _Harvest_: A festival marking the end of the Wet season and the beginning of growth and fertility. Tree planting is common.                                                |
+| **Quell**       | Midnight on the 1st                  | Harvest season begins.                                                                                                                                                     |
+|                 | Afternoon on the 4th                 | _Storm Dance_: Dances and betrothals meant to please the masters of storm and rain for a fruitful Harvest season ahead.                                                    |
+|                 | All day on the 18th                  | _Firelight_: A day of kite-flying, wind chimes, and noisemakers. At night, massive bonfires are lit as dancers perform impressive fire dances.                             |
+| **Bane**        | Evening of the 24th                  | _Banefeast_: The final grand feast of the year, celebrating gratitude for the harvest, with the sun as centerpiece. Pregnancies are common.                                |
+| **Sunset**      | Midnight on the 10th                 | Harvest Equinox: Marks the midpoint of the Harvest season.                                                                                                                 |
+|                 | Evening on the 11th                  | _Ember_: Pays homage to the setting sun, and the hard work ahead preparing for the Dry season. Lantern release ceremonies are a common practice.                           |
+| **Reclamation** | Midnight on the 24th and lasting for six days    |                                                                                                                                                                            |
 
 ## Factions
 
