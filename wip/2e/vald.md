@@ -65,14 +65,7 @@ Today, most know to avoid any mention of Gates, or keys, or related alchemy. But
 
 ### Overview
 
-There are 24 hours in a day, and 6 days in a week. Each month consists of 24 days (or 4 weeks), for a total of 12-months (or 294 days) per year. The calendar is divided into 4 seasons (Dry, Wet, Harvest, Dead) of 72 days each, with an additional 6-day "Leap Week" (_Reclamation_) at the end of each year. This week is not counted as part of any month, and is made up of six unique days. Each year begins in the Autumn season.
-
-- 24 hours in a day
-- 6 days in a week
-- Each month consists of 24 days (4 weeks)
-- 12 months, resulting in \(24 \times 12 = 288\) days per year
-- Additional 6-day "Leap Week" at the end of the year
-- Total days in a year: \(288 + 6 = 294\) days
+There are 24 hours in a day, and 6 days in a week. Each month consists of 24 days (or 4 weeks), for a total of 12-months (or 294 days) per year. The calendar is divided into 4 seasons (Harvest, Dry, Dead, Wet) of 72 days each, with an additional 6-day "Leap Week" (_Reclamation_) at the end of each year. This week is not counted as part of any month, and is made up of six unique days. Each year begins in the Autumn season.
 
 ### Days of the Week
 
