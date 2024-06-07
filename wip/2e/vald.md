@@ -15,7 +15,7 @@ The implied setting of Cairn is called _Vald_, encompassing all developed or set
 
 Most towns and villages are built within a day's walk of one another, near sources of water and lumber. Larger villages try to be self-sufficient but may still rely on nearby farms and local hunters for food. Most settlements were originally organized around a specific industry such as lumber, brewing, fishing, or mining, and often a Fieldwarden or Beast Handler is posted to protect a community's most valuable assets.
 
-Larger towns will elect a Reeve responsible the community's well-being, paying tithes, and resolving disagreements. In the event of a crime or violence, a constable is empowered to enforce the local laws. Taverns and inns are common in villages close to trade routes, while large settlements often boast at least one temple or shrine.   
+Larger towns will elect a Reeve responsible for the community's well-being, paying tithes, and resolving disagreements. In the event of a crime or violence, a constable is empowered to enforce the local laws. Taverns and inns are common in villages close to trade routes, while large settlements often boast at least one temple or shrine.   
 
 Established trails between larger towns are fairly common, while maintained roads are almost non-existent except to the distant cities, and itinerant merchants, Kettlewrights, and various peddlers pass through on a semi-regular basis. Outriders are often hired to protect and escort larger caravans through open plains and cut forests, while in the Riverlands, the Rill Runners help ferry passengers between high marshes on winding rivers.
 
@@ -29,13 +29,13 @@ There are several major religions and spiritual beliefs popular among the smallf
 
 ### Tideborn
 
-A hierarchical religious sect that worships _Rivulus_, a petty god of rivers and lakes. Even the unaffiliated are familiar with the group’s initiation ceremony, a ritual drowning that occasionally kills participants. Survivors are dubbed _Tideborn_ and adopt a new, water-related moniker (Carp, Reed, Oxbow, and so on). Only clergy need participate in the ritual; however, in recent years, their following among rural folk has increased, especially in villages near bodies of water. Within the clergy, there is little hierarchy, save for the _Aqua Primaris_, whom all obey implicitly.
+A hierarchical religious sect that worships _Rivulus_, a petty god of rivers and lakes. Even the unaffiliated are familiar with the group’s initiation ceremony, a ritual drowning that occasionally kills participants. Survivors are dubbed _Tideborn_ and adopt a new, water-related moniker (Carp, Reed, Oxbow, and so on). Only clergy need participate in the ritual; however, in recent years, their following among rural folk has increased, especially in villages near bodies of water. Within the clergy, there is little hierarchy, save for the _Aqua Primaris_, whom all obey without question.
 
 The Tideborn are hardly the only faith in the realm, but their steady growth and zealotry have earned them the respect of some other factions, particularly the _House of Burgesses_. The continued expansion of their membership has, in turn, earned them some enemies, particularly from the more pious citizens of the Wood. Their enmity is such that today Tideborn clergy never attempt solitary travel through heavily wooded areas, lest they risk a beating or worse.
 
 ### The White Raven
 
-Popular among those who live close to the Wood, the followers of the _White Raven_ (or "the Flock," as they prefer) believe strongly in the power of the Wood and in keeping its forests and creatures healthy. They are terrified of Woodwose and obey the will of the Wood without question. They can be identified by tattoos of a white bird on their wrists, necks, or backs. Every community keeps a Flock all their own, and their devotees distrust organized religion as a whole.
+Popular among those who live close to the Wood, the followers of the _White Raven_ (or "the Flock," as they prefer) believe strongly in the power of the Wood and in keeping its forests and creatures healthy. They are terrified of Woodwose and obey the will of the Wood without question. They can be identified by tattoos of a white bird on their wrists, necks, or backs. Every settlement keeps a Flock unique to their community, and their devotees distrust organized religion as a whole.
 
 ### The Five-Pointed Star
 
@@ -83,9 +83,7 @@ The _Roots_ is a realm of mystery and horror underground, indifferent to the arb
 
 Entrances to the Roots, known as _Gates_, are scattered across the lands and are usually hidden or protected by powerful forces. Further, Gates cannot be opened without a proper key or alchemical pattern, and once opened, _can never be shut again._ Folk histories recount their openings as omens of great misfortunes, where creatures more vile than the darkest nightmare slink through, devouring nearby homes and villages. Others tell of great heroes raising their swords against these terrors, sealing away the Gate beneath rubble, mountains, lakes, or other impenetrable barriers.
 
-What _is_ known is that the Roots are made of vast underground caves as large as an emptied ocean, without even a hint of sunlight. A variety of fungal growths provide weak light in some places, as do various minerals and strange,
-
- shallow pits of blue flame. Very little is known about these pits other than that they are tended to by terrible three-eyed Ogres who thirst for blood as if it were the sweetest wine. The various creatures and wild animals that survive in such harsh conditions have developed natural means to live in utter darkness, adapting their eyesight to function in even the dimmest light or eschewing vision altogether.
+What _is_ known is that the Roots are made of vast underground caves as large as an emptied ocean, without even a hint of sunlight. A variety of fungal growths provide weak light in some places, as do various minerals and strange, shallow pits of blue flame. Very little is known about these pits other than that they are tended to by terrible three-eyed Ogres who thirst for blood as if it were the sweetest wine. The various creatures and wild animals that survive in such harsh conditions have developed natural means to live in utter darkness, adapting their eyesight to function in even the dimmest light or eschewing vision altogether.
 
 Of the various peoples and tribes, it is said they speak a harsh, guttural speech, sprinkled with familiar words and phrases. Their warriors carry weapons that spin of their own volition, glowing brighter with each rotation. When the blades are finally released, their heated edges can split flesh and even rock with deadly ease. To date, no one has successfully parlayed with the _People Who Live Below_. Some contend that there are bustling towns, cities, and even great palaces in the Roots! Of course, few scholars believe them, and those that do have been ostracized into obscurity by their peers. Still, explorers cannot deny the ancient husks of impressive architecture found throughout the Roots, the ancient cities and enormous ships of an unimaginable world. Hazy reports claim that one such ruin, a gargantuan ziggurat boasting hundreds of levels, still flickers with light and life. These rumors have yet to be substantiated.
 
@@ -198,3 +196,4 @@ There are 24 hours in a day and 6 days in a week. Each month has 24 days (4 week
 | **Sunset**    |                                      |                                                                                                                                                                            |
 |               | Midnight on the 10th                 | Harvest Equinox: Marks the midpoint of the Harvest season.                                                                                                                 |
 |               | Evening on the 11th                  | _Ember_: Pays homage to the setting sun, and the hard work ahead preparing for the Dry season. Lantern release ceremonies are a common practice.                           |
+
