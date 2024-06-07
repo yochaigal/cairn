@@ -61,7 +61,11 @@ Of the various peoples and tribes, it is said that they speak a harsh, guttural 
 
 Today, most know to avoid any mention of Gates, or keys, or related alchemy. But of course, there are always those that cannot resist its draw...
 
+### Everywhere Else
 
+Most towns and villages are built within a day's walk from one another, near a source of water and lumber. Most are self-sufficient and rely on nearby farms and local hunters for food. Trade is common, as itinerant merchants, Kettlewrights, and various peddlers pass through settlements on a regular basis. Trails to and from the larger towns are fairly common, but maintained roads are almost non-existent, except to the distant Cities.
+
+In the Riverlands, Rill Runners operate 
 
 ## Factions
 
