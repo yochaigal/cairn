@@ -63,9 +63,9 @@ Today, most know to avoid any mention of Gates, or keys, or related alchemy. But
 
 ### Everywhere Else
 
-Most towns and villages are built within a day's walk from one another, near a source of water and lumber. Most are self-sufficient and rely on nearby farms and local hunters for food. Trade is common, as itinerant merchants, Kettlewrights, and various peddlers pass through settlements on a regular basis. Trails to and from the larger towns are fairly common, but maintained roads are almost non-existent, except to the distant Cities.
+Most towns and villages are built within a day's walk from one another, near a source of water and lumber. Larger villages try to be self-sufficient, but may still rely on nearby farms and local hunters for food. Most settlements were originally organized around a specific industry such as lumber, brewing, fishing, mining, etc., and itinerant merchants, Kettlewrights, and various peddlers pass through on a semi-regular basis. Trails to and from the larger towns are fairly common, but maintained roads are almost non-existent, except to the distant Cities. 
 
-In the Riverlands, Rill Runners operate 
+In the lowlands, Rill Runners help ferry passengers through winding 
 
 ## Factions
 
@@ -163,7 +163,7 @@ There are 24 hours in a day and 6 days in a week. Each month has 24 days (4 week
 |                 | Afternoon to twilight on the 17th             | _Veil’s Edge_: A day for honoring ancestors with offerings and prayers at family altars.                                                                                   |
 | **Flood**       |                                               |                                                                                                                                                                            |
 |                 | Midnight on the 4th                           | Wet season begins.                                                                                                                                                         |
-|                 | 3 days starting on the 4th                    | _Splash Festival_: Celebrates the abundance of water, with boat races, contests, gifts, and water blessings                                                                |
+|                 | 3 days starting on the 5th                    | _Splash Festival_: Celebrates the abundance of water, with boat races, contests, gifts, and water blessings                                                                |
 |                 | All day on the 14th                           | _Float_: Communities build and decorate enormous boats or rafts to float down rivers.                                                                                      |
 | **Highwater**   |                                               |                                                                                                                                                                            |
 |                 | Dawn until midnight on the 1st                | _Highwater Fair_: A major trade event taking place when the waters are highest. Every major town and city celebrates with fairs and markets.                               |
