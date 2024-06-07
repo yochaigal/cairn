@@ -9,11 +9,11 @@ grand_parent: WIP
 
 # Vald
 
-### Introduction
+## Introduction
 
 The implied setting of Cairn is called _Vald_, encompassing all developed or settled lands, cities, towns, forests, etc. The specific ruler is irrelevant, as most adventures will take place in smaller towns and villages, the forest, and the margins of the realm. Most inhabitants (regardless of region) refer to the local centers of power as the _Cities_, occasionally as a pejorative.
 
-### Vald Principles
+## Vald Principles
 
 - Keep it small. Adventures take place in smaller towns, villages, forests, and the margins of the realm.
 - Keep it local. Major rulers (Kings, Queens, etc.) are far-off, almost irrelevant entities. They have power, but distance diminishes their impact.
@@ -27,7 +27,7 @@ The implied setting of Cairn is called _Vald_, encompassing all developed or set
 - Relics originate in the Roots. They cannot be created by humans, only found. They are ancient, and yet they sprout from rubble as if grown there.
 - Monsters and other creatures do not follow the rules. They speak and act differently than the PCs, and have abilities and magic beyond the reach of regular characters.
 
-### The Wood
+## The Wood
 
 The _Wood_ surrounds and divides the realm, including anyone or anything that does not swear fealty to the current regime. Denizens of the Wood are fiercely independent, believing they are subject solely to its rules. Its various peoples, creatures, and unrelenting natural elements have kept the outside world at bay since time immemorial. The Wood is the spirit of all forests, and they in turn are its flesh, and the life they support a sign of its health.
 
@@ -39,7 +39,7 @@ Despite this reputation, many tell tales of their kindness as well. Green, muscu
 
 Of course, the Wood is not empty of people. Hidden in the boughs and in empty glades are populated villages, rustic cabins, and the odd tower. Those who can survive (or even thrive) in such places learn to live according to the rules of the forest, for those that ignore or foolishly oppose these rules often meet grisly ends. The Wood is populated by creatures strange and wondrous, such as Goblins, Spirits, Treants, Trolls, Werewolves, Witches, and even talking plants and animals. Most are openly hostile to outsiders (particularly humans), but others will (on occasion) parley with those that have shown respect for the Wood. Of course, all demonstrate utter respect for the Fae (sometimes called the Pale Folk, or the _Neighbors_).
 
-### The Neighbors
+## The Neighbors
 
 Through the bramble and over the bush, there is a liminal space where the realms of mortals and the Faerie touch. If you look for it, you will not find it. But if you need to pass over, you will. The creatures that inhabit this place may look and sound familiar, but make no mistake: they are not like us. Tall, slender, pale as ice, and eerily beautiful, the Fae obey no mortal law, nor do they submit to its morality. And yet, they are crippled by sterility, lacking the ability to create their own kindred. For this deed, they must cross the threshold into the mortal realm to treat with mortals. There are many names for their kind, but only one has ever escaped their lips: Neighbors.
 
@@ -49,7 +49,7 @@ Hunters swear that occasionally animals from the Faerie world will pass into our
 
 Those who make their lives in the Wood know to carry charms, gifts, and similar items in case of a chance meeting. And though the Neighbors rarely trouble the borders to their kingdom, they have been known to deliver harsh punishment to those that cross their boundary uninvited. However, it is common knowledge that the Neighbors are terrified of the Roots, and will avoid Gates whenever possible.
 
-### The Roots
+## The Roots
 
 The _Roots_ is a realm of mystery and horror underground, indifferent to the arbitrary divisions of the aboveground civilizations. Below, labyrinthine hollows stretch for immeasurable distances, connecting humble town sewers to far-flung ruins beyond the borders. Only the brave or foolish dare enter the Roots in search of forgotten Relics or profound wealth, and the few that do return whisper of the indescribable horrors and evil intelligence guarding these lost treasures. Stories tell of adventurers lost for centuries in the depths, only to emerge claiming that only a few hours have passed. Others claim to have made a week-long journey above ground in just one day, traveling through the tunnels beneath.
 
@@ -63,13 +63,13 @@ Of the various peoples and tribes, it is said they speak a harsh, guttural speec
 
 Today, most know to avoid any mention of Gates, or keys, or related alchemy. But of course, there are always those that cannot resist its draw...
 
-### Everywhere Else
+## Everywhere Else
 
 Most towns and villages are built within a day's walk of one another, near sources of water and lumber. Larger villages try to be self-sufficient but may still rely on nearby farms and local hunters for food. Most settlements were originally organized around a specific industry such as lumber, brewing, fishing, or mining, and often a Fieldwarden or Beast Handler is posted to protect a community's most valuable assets.
 
 Established trails between larger towns are fairly common, while maintained roads are almost non-existent except to the distant cities, and itinerant merchants, Kettlewrights, and various peddlers pass through on a semi-regular basis. Outriders are often hired to protect and escort larger caravans through open plains and cut forests, while in the Riverlands, the Rill Runners help ferry passengers between high marshes on winding rivers.
 
-Even the smallest village may play host to scholarly types from the cities: a Scrivener, Aurifex, or Greenwise with keen interest in nearby tombs and barrows. Often a Bonekeeper or Fungal Forager will be hired for their expertise, while clever adventurers will ensure that a Barber-Surgeon is never far away, or a Cutpurse if there is unsavory business that needs tending to. Of course, Mountebanks and Jongleurs often accompany these sorts, riding their coattails in hopes that they too will benefit from the next major discovery.
+Even the smallest village may play host to scholarly types from the cities: a Scrivener, Aurifex, or Greenwise with keen interest in nearby tombs, barrows, and Gates. Often a Bonekeeper or Fungal Forager will be hired for their expertise, while clever adventurers will ensure that a Barber-Surgeon is never far away, or a Cutpurse if there is unsavory business that needs tending to. Of course, Mountebanks and Jongleurs often accompany these sorts, riding their coattails in hopes that they too will benefit from the next major discovery.
 
 Those who enter the Wood take on a guide familiar with the territory, such as a Prowler or Fletchwind, while the truly determined traveler will seek the wisdom of a Half Witch or Foundling with some connection to its darker secrets. Closer to the border, the Marchguard work to keep the realm free of outside influence, while the Hexenbane seek to protect it from forces within.
 
