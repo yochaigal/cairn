@@ -61,11 +61,46 @@ Of the various peoples and tribes, it is said that they speak a harsh, guttural 
 
 Today, most know to avoid any mention of Gates, or keys, or related alchemy. But of course, there are always those that cannot resist its draw...
 
+
+
+## Factions
+
+### Tideborn
+
+A hierarchical religious sect that worships _Rivulus_, a petty god of rivers and lakes. Even the unaffiliated are familiar with the group’s initiation ceremony, a ritual drowning that occasionally kills participants. Survivors are dubbed _Tideborn_ and adopt a new, water-related moniker (Carp, Reed, Oxbow, and so on). Only clergy need participate in the ritual; however, in recent years, their following among the rural folk has increased, especially among villages near bodies of water. Within the clergy, there is little hierarchy, save for the _Aqua Primaris_, whom all obey implicitly.
+
+The Tideborn are hardly the only faith in the realm, but their steady growth and zealotry have earned them the respect of some of the other factions, particularly the _House of Burgesses_. The continued expansion of their membership has, in turn, earned them some enemies, particularly from the more pious citizens of the Wood. Their enmity is such that today Tideborn clergy never attempt solitary travel through heavily wooded areas, lest they risk a beating, or worse.
+
+### The House of Burgesses
+
+An assembly of wealthy, land-owning lords and ladies. Cunning, assertive, and convinced of their own superiority, they can accomplish great things when acting as a single body. Unfortunately, their efforts are often undermined by individual squabbles, petty disputes, and their never-ending lust for power and prestige. Although there is a healthy distrust of the _Order of Nine_ in the House, a _Burgess_ will rarely speak ill of them in public. For their part, the House has remained neutral on the rise of the Tideborn, although internally there is much consternation regarding the upstart religion's recent increase in popularity.
+
+### The Order of Nine
+
+A consortium of merchants, scholars, and the very powerful, the Order relies on their substantial wealth and a vast network of spies to accomplish their aims. Their primary focus is on the discovery, identification, and regulation of Relics. In recent years, they've turned their focus onto the Roots, as they believe this to be the origin of most Relics and pay handsomely for any information regarding Gates. The organization owes its name to the founding members of the Order, whose names and titles are kept secret. The Order detests Spellbooks and any that carry them. They see little reason to openly engage in politics, yet keep spies in nearly every faction.
+
+The Order employs several distinct ranks and titles (in order of primacy):
+- _Lector_: An initiate is deemed a _Junior Lector_ until they've proven themselves, after which they are awarded the title of _High Lector_. Only the latter may use Relics in their work.
+- _Keeper_: Protector of a Gate, akin to a typical soldier or mercenary.
+- _Archivist_: A highly respected researcher or librarian, led by the _Grand Archivist_.
+- _Chamberlain_: A master of Relics, charged with their protection, dispersal, and discovery.
+- _Inquisitor_: The highest-ranking position within the Order, sharing power as a triumvirate (called the _Three_) and answering only to the _Nine_.
+
+### The Marchguard
+
+At the margins of the realm and beyond the Wood lies a place so wild, so dangerous, that only the extremely brave or extremely foolish dare set foot. The borders of these lands are ever-shifting, growing, and changing along with the passage of time. And so the Marchguard was born. No one can remember when the Guard was formed nor who worked to create it, but all know their purpose: to protect the realm from any incursions that might cross the boundary and to prevent those attempting to cross without guidance.
+
+The Guard bends to no kings, knows no religion, and obeys no laws but their own. They lack even a central leadership, instead providing a masked volunteer to represent them in external negotiations. New members adopt a Blood Oath so powerful it is said to be inescapable by all but death itself. Of course, joining the Guard is rarely a choice, as their ranks are largely composed of ex-thugs, disgraced scholars, neglected knights, misbegotten rangers, and the like. This is how it must be, of course. For who else would willingly devote their lives to stand against such unknowable horrors?
+
+Bloodhounds are members of the Guard who have been awarded special commendations or have demonstrated true belief in their cause. Though this distinction carries no rank, they are no less respected or feared. These hunters have adopted a single purpose of duty: enforcing the Oath. Utilizing a network of spies, informants, and plants, they ensure that any who escape the Guard are forced to return or die in their attempt.
+
+The Guard sees little reason to engage in politics or other such short-sighted quarrels with the other factions. However, decades of living near the borders have brokered an uneasy friendship with those who call the Wood their home, and will even treat with them on occasion. And although it is never discussed, on rare occasions the Guard will come to their aid as well.
+
 ## The Vald Calendar
 
 ### Overview
 
-There are 24 hours in a day, and 6 days in a week. Each month consists of 24 days (or 4 weeks), for a total of 12-months (or 294 days) per year. The calendar is divided into 4 seasons (Harvest, Dry, Dead, Wet) of 72 days each, with an additional 6-day "Leap Week" (_Reclamation_) at the end of each year. This week is not counted as part of any month, and is made up of six unique days. The start of the year occurs just before the Dry season begins.
+There are 24 hours in a day, and 6 days in a week. Each month consists of 24 days (or 4 weeks), for a total of 12-months (or 294 days) per year. The calendar is divided into 4 seasons (Harvest, Dry, Dead, Wet) of 72 days each, with an additional 6-day "Leap Week" (_Reclamation_) at the end of each year. This week is not counted as part of any month, and is made up of six unique days. Each year begins in the Autumn season.
 
 ### Days of the Week
 
@@ -103,75 +138,31 @@ There are 24 hours in a day, and 6 days in a week. Each month consists of 24 day
 
 ### Holidays, Festivals, & Events
 
-|                 |                                               |                                                                                                                                                                            |
-| --------------- | --------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Month**       | **Event**                                | **Event**                                                                                                                                                                  |
-| **Sunrise**     |                                               |                                                                                                                                                                            |
-|                 | Midnight on the 4th                           | Dry season begins.                                                                                                                                                         |
-| **Bright**      |                                               |                                                                                                                                                                            |
-|                 | Afternoon until midnight on the 9th           | _Dustset_: A carnival marked by parades and masquerades, where participants wear masks to protect from dust and wind.                                                      |
-| **Ashfall**     |                                               |                                                                                                                                                                            |
-|                 | Morning on the 14th                           | _Winterwood_: Representatives from the smaller towns and villages trade steel for lumber in ritual arrangement with the denizens of the Wood.                              |
-|                 | Afternoon on the 24th                         | _Parade of Ash_: In celebration of the final day of the year, participants mark their faces with ash and play music. Most kinds of labor are frowned upon.                 |
-| **Mourning**    |                                               |                                                                                                                                                                            |
-|                 | Midnight on the 4th                           | Dead season begins.                                                                                                                                                        |
-|                 | Evening of the 24th                           | _First Light_: Commemorating the end of the hardest month. Torches and fire are lit all night, turning night to day.                                                       |
-| **Silence**     |                                               |                                                                                                                                                                            |
-|                 | Dawn to dusk on the 11th                      | _Whisper_: Speaking above a whisper is taboo. Silent auctions are common.                                                                                                  |
-| **Veil**        |                                               |                                                                                                                                                                            |
-|                 | Midnight on the 9th                           | _Lift the Veil_: The end of the Dead season is celebrated through solemn vows and humble gestures.                                                                         |
-|                 | Midnight on the 10th                          | Dead Equinox: Marks the midpoint of the Dead season.                                                                                                                       |
-|                 | Afternoon to twilight on the 17th             | _Veil’s Edge_: A day for honoring ancestors with offerings and prayers at family altars.                                                                                   |
-| **Flood**       |                                               |                                                                                                                                                                            |
-|                 | Midnight on the 4th                           | Wet season begins.                                                                                                                                                         |
-|                 | 3 days starting on the 4th                    | _Splash Festival_: Celebrates the abundance of water, with boat races, contests, gifts, and water blessings                                                                |
-|                 | All day on the 14th                           | _Float_: Communities build and decorate enormous boats or rafts to float down rivers.                                                                                      |
-| **Highwater**   |                                               |                                                                                                                                                                            |
-|                 | Dawn until midnight on the 1st                | _Highwater Fair_: A major trade event taking place when the waters are highest. Every major town and city celebrates with fairs and markets.                               |
-|                 | Dawn until the afternoon on the 16th          | _Boughmeal_: A market day held exclusively within the Wood, where artisans and merchants from all over the realm meet to trade their wares.                                |
-| **Rise**        |                                               |                                                                                                                                                                            |
-|                 | Lunchtime on the 14th                         | _Waterwish_: Participants write wishes on scrolls, place them into holes in a boulder, and roll it downhill. When it stops, any remaining wishes are thought to come true. |
-|                 | Five days starting on the 19th                | _Harvest_: A festival marking the end of the Wet season and the beginning of growth and fertility. Tree planting is common.                                                |
-| **Quell**       |                                               |                                                                                                                                                                            |
-|                 | Midnight on the 1st                           | Harvest season begins.                                                                                                                                                     |
-|                 | Afternoon on the 4th                          | _Storm Dance_: Dances and betrothals meant to please the masters of storm and rain for a fruitful Harvest season ahead.                                                    |
-|                 | All day on the 18th                           | _Firelight_: A day of kite-flying, wind chimes, and noisemakers. At night, massive bonfires are lit as dancers perform impressive fire dances.                             |
-| **Bane**        |                                               |                                                                                                                                                                            |
-|                 | Evening of the 24th                           | _Banefeast_: The final grand feast of the year, celebrating gratitude for the harvest, with the sun as centerpiece. Pregnancies are common.                                |
-| **Sunset**      |                                               |                                                                                                                                                                            |
-|                 | Midnight on the 10th                          | Harvest Equinox: Marks the midpoint of the Harvest season.                                                                                                                 |
-|                 | Evening on the 11th                           | _Ember_: Pays homage to the setting sun, and the hard work ahead preparing for the Dry season. Lantern release ceremonies are a common practice.                           |
-| **Reclamation** | Midnight on the 24th and lasting for six days |                                                                                                                                                                            |
-
-## Factions
-
-### Tideborn
-
-A hierarchical religious sect that worships _Rivulus_, a petty god of rivers and lakes. Even the unaffiliated are familiar with the group’s initiation ceremony, a ritual drowning that occasionally kills participants. Survivors are dubbed _Tideborn_ and adopt a new, water-related moniker (Carp, Reed, Oxbow, and so on). Only clergy need participate in the ritual; however, in recent years, their following among the rural folk has increased, especially among villages near bodies of water. Within the clergy, there is little hierarchy, save for the _Aqua Primaris_, whom all obey implicitly.
-
-The Tideborn are hardly the only faith in the realm, but their steady growth and zealotry have earned them the respect of some of the other factions, particularly the _House of Burgesses_. The continued expansion of their membership has, in turn, earned them some enemies, particularly from the more pious citizens of the Wood. Their enmity is such that today Tideborn clergy never attempt solitary travel through heavily wooded areas, lest they risk a beating, or worse.
-
-### The House of Burgesses
-
-An assembly of wealthy, land-owning lords and ladies. Cunning, assertive, and convinced of their own superiority, they can accomplish great things when acting as a single body. Unfortunately, their efforts are often undermined by individual squabbles, petty disputes, and their never-ending lust for power and prestige. Although there is a healthy distrust of the _Order of Nine_ in the House, a _Burgess_ will rarely speak ill of them in public. For their part, the House has remained neutral on the rise of the Tideborn, although internally there is much consternation regarding the upstart religion's recent increase in popularity.
-
-### The Order of Nine
-
-A consortium of merchants, scholars, and the very powerful, the Order relies on their substantial wealth and a vast network of spies to accomplish their aims. Their primary focus is on the discovery, identification, and regulation of Relics. In recent years, they've turned their focus onto the Roots, as they believe this to be the origin of most Relics and pay handsomely for any information regarding Gates. The organization owes its name to the founding members of the Order, whose names and titles are kept secret. The Order detests Spellbooks and any that carry them. They see little reason to openly engage in politics, yet keep spies in nearly every faction.
-
-The Order employs several distinct ranks and titles (in order of primacy):
-- _Lector_: An initiate is deemed a _Junior Lector_ until they've proven themselves, after which they are awarded the title of _High Lector_. Only the latter may use Relics in their work.
-- _Keeper_: Protector of a Gate, akin to a typical soldier or mercenary.
-- _Archivist_: A highly respected researcher or librarian, led by the _Grand Archivist_.
-- _Chamberlain_: A master of Relics, charged with their protection, dispersal, and discovery.
-- _Inquisitor_: The highest-ranking position within the Order, sharing power as a triumvirate (called the _Three_) and answering only to the _Nine_.
-
-### The Marchguard
-
-At the margins of the realm and beyond the Wood lies a place so wild, so dangerous, that only the extremely brave or extremely foolish dare set foot. The borders of these lands are ever-shifting, growing, and changing along with the passage of time. And so the Marchguard was born. No one can remember when the Guard was formed nor who worked to create it, but all know their purpose: to protect the realm from any incursions that might cross the boundary and to prevent those attempting to cross without guidance.
-
-The Guard bends to no kings, knows no religion, and obeys no laws but their own. They lack even a central leadership, instead providing a masked volunteer to represent them in external negotiations. New members adopt a Blood Oath so powerful it is said to be inescapable by all but death itself. Of course, joining the Guard is rarely a choice, as their ranks are largely composed of ex-thugs, disgraced scholars, neglected knights, misbegotten rangers, and the like. This is how it must be, of course. For who else would willingly devote their lives to stand against such unknowable horrors?
-
-Bloodhounds are members of the Guard who have been awarded special commendations or have demonstrated true belief in their cause. Though this distinction carries no rank, they are no less respected or feared. These hunters have adopted a single purpose of duty: enforcing the Oath. Utilizing a network of spies, informants, and plants, they ensure that any who escape the Guard are forced to return or die in their attempt.
-
-The Guard sees little reason to engage in politics or other such short-sighted quarrels with the other factions. However, decades of living near the borders have brokered an uneasy friendship with those who call the Wood their home, and will even treat with them on occasion. And although it is never discussed, on rare occasions the Guard will come to their aid as well.
+|                 |                                      |                                                                                                                                                                            |
+| --------------- | ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Month**       | **Occurrence**                       | **Event**                                                                                                                                                                  |
+| **Sunrise**     | Midnight on the 4th                  | Dry season begins.                                                                                                                                                         |
+|                 |                                      |                                                                                                                                                                            |
+| **Bright**      | Afternoon until midnight on the 9th  | _Dustset_: A carnival marked by parades and masquerades, where participants wear masks to protect from dust and wind.                                                      |
+| **Ashfall**     | Morning on the 14th                  | _Winterwood_: Representatives from the smaller towns and villages trade steel for lumber in ritual arrangement with the denizens of the Wood.                              |
+|                 | Afternoon on the 24th                | _Parade of Ash_: In celebration of the final day of the year, participants mark their faces with ash and play music. Most kinds of labor are frowned upon.                 |
+| **Mourning**    | Midnight on the 4th                  | Dead season begins.                                                                                                                                                        |
+|                 | Evening of the 24th                  | _First Light_: Commemorating the end of the hardest month. Torches and fire are lit all night, turning night to day.                                                       |
+| **Silence**     | Dawn to dusk on the 11th             | _Whisper_: Speaking above a whisper is taboo. Silent auctions are common.                                                                                                  |
+| **Veil**        | Midnight on the 9th                  | _Lift the Veil_: The end of the Dead season is celebrated through solemn vows and humble gestures.                                                                         |
+|                 | Midnight on the 10th                 | Dead Equinox: Marks the midpoint of the Dead season.                                                                                                                       |
+|                 | Afternoon to twilight on the 17th    | _Veil’s Edge_: A day for honoring ancestors with offerings and prayers at family altars.                                                                                   |
+| **Flood**       | Midnight on the 4th                  | Wet season begins.                                                                                                                                                         |
+|                 | 3 days starting on the 4th           | _Splash Festival_: Celebrates the abundance of water, with boat races, contests, gifts, and water blessings                                                                |
+|                 | All day on the 14th                  | _Float_: Communities build and decorate enormous boats or rafts to float down rivers.                                                                                      |
+| **Highwater**   | Dawn until midnight on the 1st       | _Highwater Fair_: A major trade event taking place when the waters are highest. Every major town and city celebrates with fairs and markets.                               |
+|                 | Dawn until the afternoon on the 16th | _Boughmeal_: A market day held exclusively within the Wood, where artisans and merchants from all over the realm meet to trade their wares.                                |
+| **Rise**        | Lunchtime on the 14th                | _Waterwish_: Participants write wishes on scrolls, place them into holes in a boulder, and roll it downhill. When it stops, any remaining wishes are thought to come true. |
+|                 | Five days starting on the 19th       | _Harvest_: A festival marking the end of the Wet season and the beginning of growth and fertility. Tree planting is common.                                                |
+| **Quell**       | Midnight on the 1st                  | Harvest season begins.                                                                                                                                                     |
+|                 | Afternoon on the 4th                 | _Storm Dance_: Dances and betrothals meant to please the masters of storm and rain for a fruitful Harvest season ahead.                                                    |
+|                 | All day on the 18th                  | _Firelight_: A day of kite-flying, wind chimes, and noisemakers. At night, massive bonfires are lit as dancers perform impressive fire dances.                             |
+| **Bane**        | Evening of the 24th                  | _Banefeast_: The final grand feast of the year, celebrating gratitude for the harvest, with the sun as centerpiece. Pregnancies are common.                                |
+| **Sunset**      | Midnight on the 10th                 | Harvest Equinox: Marks the midpoint of the Harvest season.                                                                                                                 |
+|                 | Evening on the 11th                  | _Ember_: Pays homage to the setting sun, and the hard work ahead preparing for the Dry season. Lantern release ceremonies are a common practice.                           |
+| **Reclamation** | Midnight on the 24th and lasting for six days    |                                                                                                                                                                            |
