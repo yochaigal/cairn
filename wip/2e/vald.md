@@ -13,6 +13,34 @@ grand_parent: WIP
 
 The implied setting of Cairn is called _Vald_, encompassing all developed or settled lands, cities, towns, forests, etc. The specific ruler is irrelevant, as most adventures will take place in smaller towns and villages, the forest, and the margins of the realm. Most inhabitants (regardless of region) refer to the local centers of power as the _Cities_, occasionally as a pejorative.
 
+Most towns and villages are built within a day's walk of one another, near sources of water and lumber. Larger villages try to be self-sufficient but may still rely on nearby farms and local hunters for food. Most settlements were originally organized around a specific industry such as lumber, brewing, fishing, or mining, and often a Fieldwarden or Beast Handler is posted to protect a community's most valuable assets.
+
+Larger towns will elect a Reeve responsible the community's well-being, paying tithes, and resolving disagreements. In the event of a crime or violence, a constable is empowered to enforce the local laws. Taverns and inns are common in villages close to trade routes, while large settlements often boast at least one temple or shrine.   
+
+Established trails between larger towns are fairly common, while maintained roads are almost non-existent except to the distant cities, and itinerant merchants, Kettlewrights, and various peddlers pass through on a semi-regular basis. Outriders are often hired to protect and escort larger caravans through open plains and cut forests, while in the Riverlands, the Rill Runners help ferry passengers between high marshes on winding rivers.
+
+Even the smallest village may play host to scholarly types from the cities: a Scrivener, Aurifex, or Greenwise with keen interest in nearby tombs, barrows, and Gates. Often a Bonekeeper or Fungal Forager will be hired for their expertise, while clever adventurers will ensure that a Barber-Surgeon is never far away, or a Cutpurse if there is unsavory business that needs tending to. Of course, Mountebanks and Jongleurs often accompany these sorts, riding their coattails in hopes that they too will benefit from the next major discovery.
+
+Those who enter the Wood take on a guide familiar with the territory, such as a Prowler or Fletchwind, while the truly determined traveler will seek the wisdom of a Half Witch or Foundling with some connection to its darker secrets. Closer to the border, the Marchguard work to keep the realm free of outside influence, while the Hexenbane seek to protect it from forces within.
+
+## Belief
+
+There are several major religions and spiritual beliefs popular among the smallfolk.
+
+### Tideborn
+
+A hierarchical religious sect that worships _Rivulus_, a petty god of rivers and lakes. Even the unaffiliated are familiar with the group’s initiation ceremony, a ritual drowning that occasionally kills participants. Survivors are dubbed _Tideborn_ and adopt a new, water-related moniker (Carp, Reed, Oxbow, and so on). Only clergy need participate in the ritual; however, in recent years, their following among rural folk has increased, especially in villages near bodies of water. Within the clergy, there is little hierarchy, save for the _Aqua Primaris_, whom all obey implicitly.
+
+The Tideborn are hardly the only faith in the realm, but their steady growth and zealotry have earned them the respect of some other factions, particularly the _House of Burgesses_. The continued expansion of their membership has, in turn, earned them some enemies, particularly from the more pious citizens of the Wood. Their enmity is such that today Tideborn clergy never attempt solitary travel through heavily wooded areas, lest they risk a beating or worse.
+
+### The White Raven
+
+Popular among those who live close to the Wood, the followers of the _White Raven_ (or "the Flock," as they prefer) believe strongly in the power of the Wood and in keeping its forests and creatures healthy. They are terrified of Woodwose and obey the will of the Wood without question. They can be identified by tattoos of a white bird on their wrists, necks, or backs. Every community keeps a Flock all their own, and their devotees distrust organized religion as a whole.
+
+### The Five-Pointed Star
+
+An older religion that owes its origin to the first peoples of the realm, who built stone structures to map the stars and constellations. Its worshipers adhere strictly to a set of religious principles that deny the legitimacy of all other beliefs, and local history is marked by its wars and forced conversions. Today, the _Five-Pointed Star_ keeps temples in every major settlement, which often provide needed services, particularly for the poor. In recent years, its prominence has waned as other faiths have risen, leading some of its strongest adherents to follow a reactionary order known as the _Bleeding Star_.
+
 ## Vald Principles
 
 - Keep it small. Adventures take place in smaller towns, villages, forests, and the margins of the realm.
@@ -63,23 +91,7 @@ Of the various peoples and tribes, it is said they speak a harsh, guttural speec
 
 Today, most know to avoid any mention of Gates, or keys, or related alchemy. But of course, there are always those that cannot resist its draw...
 
-## Everywhere Else
-
-Most towns and villages are built within a day's walk of one another, near sources of water and lumber. Larger villages try to be self-sufficient but may still rely on nearby farms and local hunters for food. Most settlements were originally organized around a specific industry such as lumber, brewing, fishing, or mining, and often a Fieldwarden or Beast Handler is posted to protect a community's most valuable assets.
-
-Established trails between larger towns are fairly common, while maintained roads are almost non-existent except to the distant cities, and itinerant merchants, Kettlewrights, and various peddlers pass through on a semi-regular basis. Outriders are often hired to protect and escort larger caravans through open plains and cut forests, while in the Riverlands, the Rill Runners help ferry passengers between high marshes on winding rivers.
-
-Even the smallest village may play host to scholarly types from the cities: a Scrivener, Aurifex, or Greenwise with keen interest in nearby tombs, barrows, and Gates. Often a Bonekeeper or Fungal Forager will be hired for their expertise, while clever adventurers will ensure that a Barber-Surgeon is never far away, or a Cutpurse if there is unsavory business that needs tending to. Of course, Mountebanks and Jongleurs often accompany these sorts, riding their coattails in hopes that they too will benefit from the next major discovery.
-
-Those who enter the Wood take on a guide familiar with the territory, such as a Prowler or Fletchwind, while the truly determined traveler will seek the wisdom of a Half Witch or Foundling with some connection to its darker secrets. Closer to the border, the Marchguard work to keep the realm free of outside influence, while the Hexenbane seek to protect it from forces within.
-
 ## Factions
-
-### Tideborn
-
-A hierarchical religious sect that worships _Rivulus_, a petty god of rivers and lakes. Even the unaffiliated are familiar with the group’s initiation ceremony, a ritual drowning that occasionally kills participants. Survivors are dubbed _Tideborn_ and adopt a new, water-related moniker (Carp, Reed, Oxbow, and so on). Only clergy need participate in the ritual; however, in recent years, their following among the rural folk has increased, especially among villages near bodies of water. Within the clergy, there is little hierarchy, save for the _Aqua Primaris_, whom all obey implicitly.
-
-The Tideborn are hardly the only faith in the realm, but their steady growth and zealotry have earned them the respect of some of the other factions, particularly the _House of Burgesses_. The continued expansion of their membership has, in turn, earned them some enemies, particularly from the more pious citizens of the Wood. Their enmity is such that today Tideborn clergy never attempt solitary travel through heavily wooded areas, lest they risk a beating, or worse.
 
 ### The House of Burgesses
 
@@ -148,43 +160,41 @@ There are 24 hours in a day and 6 days in a week. Each month has 24 days (4 week
 
 ### Holidays, Festivals, & Events
 
-|                 |                                               |                                                                                                                                                                            |
-| --------------- | --------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Month**       | **Event**                                | **Event**                                                                                                                                                                  |
-| **Sunrise**
-
-     |                                               |                                                                                                                                                                            |
-|                 | Midnight on the 4th                           | Dry season begins.                                                                                                                                                         |
-| **Bright**      |                                               |                                                                                                                                                                            |
-|                 | Afternoon until midnight on the 9th           | _Dustset_: A carnival marked by parades and masquerades, where participants wear masks to protect from dust and wind.                                                      |
-| **Ashfall**     |                                               |                                                                                                                                                                            |
-|                 | Morning on the 14th                           | _Winterwood_: Representatives from the smaller towns and villages trade steel for lumber in ritual arrangement with the denizens of the Wood.                              |
-|                 | Afternoon on the 24th                         | _Parade of Ash_: In celebration of the final day of the year, participants mark their faces with ash and play music. Most kinds of labor are frowned upon.                 |
-| **Mourning**    |                                               |                                                                                                                                                                            |
-|                 | Midnight on the 4th                           | Dead season begins.                                                                                                                                                        |
-|                 | Evening of the 24th                           | _First Light_: Commemorating the end of the hardest month. Torches and fire are lit all night, turning night to day.                                                       |
-| **Silence**     |                                               |                                                                                                                                                                            |
-|                 | Dawn to dusk on the 11th                      | _Whisper_: Speaking above a whisper is taboo. Silent auctions are common.                                                                                                  |
-| **Veil**        |                                               |                                                                                                                                                                            |
-|                 | Midnight on the 9th                           | _Lift the Veil_: The end of the Dead season is celebrated through solemn vows and humble gestures.                                                                         |
-|                 | Midnight on the 10th                          | Dead Equinox: Marks the midpoint of the Dead season.                                                                                                                       |
-|                 | Afternoon to twilight on the 17th             | _Veil’s Edge_: A day for honoring ancestors with offerings and prayers at family altars.                                                                                   |
-| **Flood**       |                                               |                                                                                                                                                                            |
-|                 | Midnight on the 4th                           | Wet season begins.                                                                                                                                                         |
-|                 | 3 days starting on the 5th                    | _Splash Festival_: Celebrates the abundance of water, with boat races, contests, gifts, and water blessings.                                                                |
-|                 | All day on the 14th                           | _Float_: Communities build and decorate enormous boats or rafts to float down rivers.                                                                                      |
-| **Highwater**   |                                               |                                                                                                                                                                            |
-|                 | Dawn until midnight on the 1st                | _Highwater Fair_: A major trade event taking place when the waters are highest. Every major town and city celebrates with fairs and markets.                               |
-|                 | Dawn until the afternoon on the 16th          | _Boughmeal_: A market day held exclusively within the Wood, where artisans and merchants from all over the realm meet to trade their wares.                                |
-| **Rise**        |                                               |                                                                                                                                                                            |
-|                 | Lunchtime on the 14th                         | _Waterwish_: Participants write wishes on scrolls, place them into holes in a boulder, and roll it downhill. When it stops, any remaining wishes are thought to come true. |
-|                 | Five days starting on the 19th                | _Harvest_: A festival marking the end of the Wet season and the beginning of growth and fertility. Tree planting is common.                                                |
-| **Quell**       |                                               |                                                                                                                                                                            |
-|                 | Midnight on the 1st                           | Harvest season begins.                                                                                                                                                     |
-|                 | Afternoon on the 4th                          | _Storm Dance_: Dances and betrothals meant to please the masters of storm and rain for a fruitful Harvest season ahead.                                                    |
-|                 | All day on the 18th                           | _Firelight_: A day of kite-flying, wind chimes, and noisemakers. At night, massive bonfires are lit as dancers perform impressive fire dances.                             |
-| **Bane**        |                                               |                                                                                                                                                                            |
-|                 | Evening of the 24th                           | _Banefeast_: The final grand feast of the year, celebrating gratitude for the harvest, with the sun as centerpiece. Pregnancies are common.                                |
-| **Sunset**      |                                               |                                                                                                                                                                            |
-|                 | Midnight on the 10th                          | Harvest Equinox: Marks the midpoint of the Harvest season.                                                                                                                 |
-|                 | Evening on the 11th                           | _Ember_: Pays homage to the setting sun, and the hard work ahead preparing for the Dry season. Lantern release ceremonies are a common practice.                           |
+|               |                                      |                                                                                                                                                                            |
+| ------------- | ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Month**     | **Event**                            | **Event**                                                                                                                                                                  |
+| **Sunrise**   |                                      |                                                                                                                                                                            |
+|               | Midnight on the 4th                  | Dry season begins.                                                                                                                                                         |
+| **Bright**    |                                      |                                                                                                                                                                            |
+|               | Afternoon until midnight on the 9th  | _Dustset_: A carnival marked by parades and masquerades, where participants wear masks to protect from dust and wind.                                                      |
+| **Ashfall**   |                                      |                                                                                                                                                                            |
+|               | Morning on the 14th                  | _Winterwood_: Representatives from the smaller towns and villages trade steel for lumber in ritual arrangement with the denizens of the Wood.                              |
+|               | Afternoon on the 24th                | _Parade of Ash_: In celebration of the final day of the year, participants mark their faces with ash and play music. Most kinds of labor are frowned upon.                 |
+| **Mourning**  |                                      |                                                                                                                                                                            |
+|               | Midnight on the 4th                  | Dead season begins.                                                                                                                                                        |
+|               | Evening of the 24th                  | _First Light_: Commemorating the end of the hardest month. Torches and fire are lit all night, turning night to day.                                                       |
+| **Silence**   |                                      |                                                                                                                                                                            |
+|               | Dawn to dusk on the 11th             | _Whisper_: Speaking above a whisper is taboo. Silent auctions are common.                                                                                                  |
+| **Veil**      |                                      |                                                                                                                                                                            |
+|               | Midnight on the 9th                  | _Lift the Veil_: The end of the Dead season is celebrated through solemn vows and humble gestures.                                                                         |
+|               | Midnight on the 10th                 | Dead Equinox: Marks the midpoint of the Dead season.                                                                                                                       |
+|               | Afternoon to twilight on the 17th    | _Veil’s Edge_: A day for honoring ancestors with offerings and prayers at family altars.                                                                                   |
+| **Flood**     |                                      |                                                                                                                                                                            |
+|               | Midnight on the 4th                  | Wet season begins.                                                                                                                                                         |
+|               | 3 days starting on the 5th           | _Splash Festival_: Celebrates the abundance of water, with boat races, contests, gifts, and water blessings.                                                               |
+|               | All day on the 14th                  | _Float_: Communities build and decorate enormous boats or rafts to float down rivers.                                                                                      |
+| **Highwater** |                                      |                                                                                                                                                                            |
+|               | Dawn until midnight on the 1st       | _Highwater Fair_: A major trade event taking place when the waters are highest. Every major town and city celebrates with fairs and markets.                               |
+|               | Dawn until the afternoon on the 16th | _Boughmeal_: A market day held exclusively within the Wood, where artisans and merchants from all over the realm meet to trade their wares.                                |
+| **Rise**      |                                      |                                                                                                                                                                            |
+|               | Lunchtime on the 14th                | _Waterwish_: Participants write wishes on scrolls, place them into holes in a boulder, and roll it downhill. When it stops, any remaining wishes are thought to come true. |
+|               | Five days starting on the 19th       | _Harvest_: A festival marking the end of the Wet season and the beginning of growth and fertility. Tree planting is common.                                                |
+| **Quell**     |                                      |                                                                                                                                                                            |
+|               | Midnight on the 1st                  | Harvest season begins.                                                                                                                                                     |
+|               | Afternoon on the 4th                 | _Storm Dance_: Dances and betrothals meant to please the masters of storm and rain for a fruitful Harvest season ahead.                                                    |
+|               | All day on the 18th                  | _Firelight_: A day of kite-flying, wind chimes, and noisemakers. At night, massive bonfires are lit as dancers perform impressive fire dances.                             |
+| **Bane**      |                                      |                                                                                                                                                                            |
+|               | Evening of the 24th                  | _Banefeast_: The final grand feast of the year, celebrating gratitude for the harvest, with the sun as centerpiece. Pregnancies are common.                                |
+| **Sunset**    |                                      |                                                                                                                                                                            |
+|               | Midnight on the 10th                 | Harvest Equinox: Marks the midpoint of the Harvest season.                                                                                                                 |
+|               | Evening on the 11th                  | _Ember_: Pays homage to the setting sun, and the hard work ahead preparing for the Dry season. Lantern release ceremonies are a common practice.                           |
