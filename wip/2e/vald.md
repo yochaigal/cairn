@@ -100,7 +100,7 @@ The Guard sees little reason to engage in politics or other such short-sighted q
 
 ### Overview
 
-There are 24 hours in a day, and 6 days in a week. Each month consists of 24 days (or 4 weeks), for a total of 12-months (or 294 days) per year. The calendar is divided into 4 seasons (Harvest, Dry, Dead, Wet) of 72 days each, with an additional 6-day "Leap Week" (_Reclamation_) at the end of each year. This week is not counted as part of any month, and is made up of six unique days. Each year begins in the Autumn season.
+There are 24 hours in a day and 6 days in a week. Each month has 24 days (4 weeks), with 12 months in a year. The year is divided into 4 seasons (Dry, Dead, Wet, and Harvest), each lasting 72 days. Every 10 years, a 6-day "Leap Week" (_Reclamation_) is added, not part of any month. This makes the average length of a year over a decade 288.6 days. Each year starts just before the Dry season.
 
 ### Days of the Week
 
@@ -121,13 +121,13 @@ There are 24 hours in a day, and 6 days in a week. Each month consists of 24 day
 6. Veil
 7. Flood
 8. Highwater
-9.  Rise
+9. Rise
 10. Quell
 11. Bane
 12. Sunset
 13. Reclamation Week
 
-### Reclamation Week
+### Reclamation Week (Once per decade)
 
 1. Recognize
 2. Remember
@@ -176,5 +176,3 @@ There are 24 hours in a day, and 6 days in a week. Each month consists of 24 day
 | **Sunset**      |                                               |                                                                                                                                                                            |
 |                 | Midnight on the 10th                          | Harvest Equinox: Marks the midpoint of the Harvest season.                                                                                                                 |
 |                 | Evening on the 11th                           | _Ember_: Pays homage to the setting sun, and the hard work ahead preparing for the Dry season. Lantern release ceremonies are a common practice.                           |
-| **Reclamation** | Midnight on the 24th and lasting for six days |                                                                                                                                                                            |
-
