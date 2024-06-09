@@ -9,3 +9,6 @@ search_exclude: true
 
 # Creating Relics
 
+## Introduction
+
+Relics are Cairn's answer to magic items. 
