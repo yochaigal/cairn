@@ -19,41 +19,41 @@ To create a unique monster, follow these steps:
 - Describe the creature's appearance, abilities, and attacks in plain English.
 - Create the creature's stats according to the principles, definitions, and stat block format below.
 
-### Principles
+## Principles
 
 - Use **Critical Damage** to lean into the threat or strangeness of any aggressive NPC.
 - Use flavor and style to help creatures stand out. Players will remember a pig-faced humanoid looking for his missing sheep more easily than a generic goblin archer.
 - Always adjust creature stats based on what is fun and interesting.
 
-#### **Hit Protection**
+## **Hit Protection**
 
 A creature's ability to avoid danger, whether through toughness, speed, or skill. Give average creatures 3 HP, give hardier ones 6 HP, and serious threats should get 10 HP or higher.
 
-#### Armor
+## Armor
 
 For some creatures this represents their natural toughness, for others it may be from something that is worn or carried. If a creature is able to withstand an attack without moving, raise this number. 
 
-#### Ability Score
+## Ability Score
 
 3 is deficient, 6 is weak, 10 is average, 14 is noteworthy, and 18 is legendary. 
 
-#### Strength
+## Strength
 
 Tracks overall health, physical power, and resistance to poisons. It is the ability of a creature to survive a direct hit, not its ability to avoid danger! 
 
-#### Dexterity
+## Dexterity
 
 Start with **10** as a base, and if the creature is particularly quick, agile, or nimble increase the number as necessary. If it is slow to respond, bulky, or clumsy, lower the number.
 
-#### Willpower
+## Willpower
 
 Determines a creature's ability to withstand the influence of another, as well as their power over others. It also acts as a measurement of their defense in magical or spiritual matters.
 
-#### Attacks
+## Attacks
 
 Typically an object (e.g. sword or bow) or a natural weapon (e.g. claws or teeth).
 
-#### Abilities
+## Abilities
 
 A unique action or power the creature can utilize both in and out of combat.
 
@@ -62,14 +62,14 @@ A unique action or power the creature can utilize both in and out of combat.
 - If an ability only affects a single PC it should generally have an immediate effect with no chance to Save in that round (possibly not at all).
 - If an ability is capable of affecting a group of PCs it should generally call for an immediate Save.
 
-### Monster Stat Block Format
+## Monster Stat Block Format
 
 X HP, X Armor, X STR, X DEX, X WIL, Attack (dX, special items, _qualities_)
 - An engaging descriptor of appearance, demeanor, or living habits.
 - A quirk, tactic, or peculiarity that distinguish this creature.
 - Special effect or consequence of critical damage.
 
-### Monster Appearance
+## Monster Appearance
 
 Roll 2d20 and combine the results.
 
@@ -97,7 +97,7 @@ Roll 2d20 and combine the results.
 | **19**  | Translucent  | Voice       |
 | **20**  | Twisted      | Wings       |
 
-### Monster Traits
+## Monster Traits
 
 Roll 2d20 and combine the results.
 
@@ -125,7 +125,7 @@ Roll 2d20 and combine the results.
 | **19**  | Sweats rare minerals     | True Name       |
 | **20**  | Reproduces Asexually     | Weak Spot       |
 
-### Monster Attacks
+## Monster Attacks
 
 |         |          |                     |
 | ------- | -------- | ------------------- |
@@ -151,7 +151,7 @@ Roll 2d20 and combine the results.
 | **19**  | Whips    | Tramples            |
 | **20**  | Zaps     | Weakens             |
 
-### Monster Abilities
+## Monster Abilities
 
 Roll 2d20 and combine the results.
 
@@ -178,7 +178,7 @@ Roll 2d20 and combine the results.
 | **19**  | Transforms  | Water        |
 | **20**  | Traps       | Weather      |
 
-### Monster Example
+## Monster Example
 
 - **Appearance**: _Hunched_ + _Carapace_.
 - **Traits**: _Moves in a straight line_ + _Weak Spot_
@@ -189,7 +189,7 @@ _A snail-like creature with a hard shell. It moves only in straight lines, and h
 
 This creature is physically tough, with higher than average **STR** and strong armor. It is probably fast but not maneuverable, and likely doesn't rely on skill or dexterity to avoid danger. It is brutish, but still a wild beast and only as willful as any creature just looking for its next meal. It attacks by rolling in a straight line, and should impact multiple targets.
 
-#### Thunder Snail
+### Thunder Snail
 
 6 HP, 2 Armor, 14 STR, 6 DEX, 4 WIL, smash & roll (d10, _blast_)
 - An thick-shelled beast that attacks by rolling over its opponents in a line. The noise of its tumbling shell is deafening.
