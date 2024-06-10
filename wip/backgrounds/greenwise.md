@@ -14,7 +14,7 @@ redirect_from: /wip/backgrounds/herbalist/
 
 ## Names
 
-Briar, Moss, Fern, Lichen, Root, Willow, Sage, Yarrow, Rowan, Ash
+Gunther, Moss, Fern, Lichen, Root, Willow, Sage, Yarrow, Rowan, Ash
 
 ## Starting Gear
 

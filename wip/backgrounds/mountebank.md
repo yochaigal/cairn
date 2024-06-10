@@ -13,7 +13,7 @@ grand_parent: WIP
 
 ## Names
 
-Ambrose, Lucius, Beauregard, Cornelius, Aria, Seren, Indigo, Delphine, Solene, Noa
+Ambrose, Lucius, Beauregard, Cornelius, Aria, Toph, Indigo, Delphine, Solene, Noa
 
 ## Starting Gear
 

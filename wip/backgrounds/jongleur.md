@@ -13,7 +13,7 @@ grand_parent: WIP
 
 ## Names
 
-Jax, Selene, Baladria, Ada, Felix, Saylor, Tripp, Lantos, Echo, Jubilo   
+Jax, Selene, Baladria, Ada, Mort, Saylor, Tripp, Lantos, Echo, Jubilo   
 
 ## Starting Gear
 

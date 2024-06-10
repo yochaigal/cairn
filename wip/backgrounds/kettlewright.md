@@ -13,7 +13,7 @@ grand_parent: WIP
 
 ## Names
 
-Fergus, Eamon, Bram, Idris, Elara, Darragh, Seren, Rónán, Berek, Lorenz
+Fergus, Eon, Bram, Idris, Hester, Darragh, Seren, Rónán, Berek, Lorenz
 
 ## Starting Gear
 

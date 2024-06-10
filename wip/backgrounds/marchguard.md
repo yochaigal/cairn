@@ -13,7 +13,7 @@ grand_parent: WIP
 
 ## Names
 
-Gann, Light, Gale, Frost, Thorn, Reed, Flint, Brook, Brie, Aasim
+Gann, Light, Saoirse, Frost, Thorn, Reed, Dirk, Ragnar, Brie, Aasim
 
 ## Starting Gear
 

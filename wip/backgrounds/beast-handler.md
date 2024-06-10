@@ -13,7 +13,7 @@ grand_parent: WIP
 
 ## Names
 
-Amara, Wulf, Mireille, Soren, Freki, Aster, Gerrik, Boreas, Delphine, Matheus
+Amara, Wulf, Mireille, Soren, Freki, Aster, Gerrik, Boreas, Veda, Matheus
 
 ## Starting Gear
 

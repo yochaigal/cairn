@@ -13,7 +13,7 @@ grand_parent: WIP
 
 ## Names
 
-Sable, Lyra, Eamon, Salina, Elara, Freya, Isolde, Sparrow, Ivy, Silas
+Arlo, Lyra, Eamon, Salina, Elara, Freya, Bull, Sparrow, Ivy, Silas
 
 ## Starting Gear
  
