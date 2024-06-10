@@ -34,3 +34,131 @@ search_exclude: true
 | **18**   | Cinder   | **38**   | Gunnar   | **58**   | Lucian   | **78**   | Pan       | **98**   | Thistle    |
 | **19**   | Cleaver  | **39**   | Harkin   | **59**   | Luna     | **79**   | Plow      | **99**   | Thyme      |
 | **20**   | Coraline | **40**   | Harper   | **60**   | Lysander | **80**   | Quill     | **100**  | Tiberius   |
+
+## Traits
+
+|         |               |               |
+| ------- | ------------- | ------------- |
+| **d20** | **Trait 1**   | **Trait 2**   |
+| **1**   | Cautious      | Adaptable     |
+| **2**   | Discreet      | Bankrupt      |
+| **3**   | Enigmatic     | Brutal        |
+| **4**   | Fierce        | Collaborative |
+| **5**   | Dogmatic      | Corrupt       |
+| **6**   | Judicious     | Craven        |
+| **7**   | Keen          | Cruel         |
+| **8**   | Loyal         | Cunning       |
+| **9**   | Meticulous    | Cynical       |
+| **10**  | Pragmatic     | Deceptive     |
+| **11**  | Resourceful   | Generous      |
+| **12**  | Tenacious     | Incompetent   |
+| **13**  | Decadent      | Manipulative  |
+| **14**  | Connected     | Mercurial     |
+| **15**  | Disciplined   | Repressed     |
+| **16**  | Incorruptible | Ruthless      |
+| **17**  | Intellectual  | Selfish       |
+| **18**  | Shrewd        | Stealthy      |
+| **19**  | Popular       | Threatened    |
+| **20**  | Secretive     | Xenophobic    |
+
+## Personality
+
+|         |                 |               |
+| ------- | --------------- | ------------- |
+| **d20** | **Virtues**     | **Vices**     |
+| **1**   | Compassionate   | Absent-minded |
+| **2**   | Courageous      | Aloof         |
+| **3**   | Creative        | Critical      |
+| **4**   | Deductive       | Cynical       |
+| **5**   | Honest          | Greedy        |
+| **6**   | Incisive        | Impulsive     |
+| **7**   | Incorruptible   | Inflexible    |
+| **8**   | Individualistic | Naive         |
+| **9**   | Loyal           | Obstinate     |
+| **10**  | Methodical      | Passive       |
+| **11**  | Polite          | Pedantic      |
+| **12**  | Practical       | Perfectionist |
+| **13**  | Resilient       | Sarcastic     |
+| **14**  | Scholarly       | Selfish       |
+| **15**  | Self-sufficient | Skeptical     |
+| **16**  | Solid           | Stubborn      |
+| **17**  | Studious        | Superficial   |
+| **18**  | Suave           | Unfocused     |
+| **19**  | Unwavering      | Unimaginative |
+| **20**  | Witty           | Vain          |
+
+## Background
+
+|         |                 |             |
+| ------- | --------------- | ----------- |
+| **d20** | **Type**        | **Agent**   |
+| **1**   | Artisans        | Academic    |
+| **2**   | Commoners       | Assassin    |
+| **3**   | Criminals       | Blacksmith  |
+| **4**   | Cultists        | Farmer      |
+| **5**   | Exiles          | General     |
+| **6**   | Explorers       | Gravedigger |
+| **7**   | Industrialists  | Guard       |
+| **8**   | Merchants       | Healer      |
+| **9**   | Military        | Jailer      |
+| **10**  | Nobles          | Laborer     |
+| **11**  | Nomads          | Lord        |
+| **12**  | Pilgrims        | Merchant    |
+| **13**  | Protectors      | Monk        |
+| **14**  | Religious       | Mystic      |
+| **15**  | Revolutionaries | Outlander   |
+| **16**  | Rulers          | Peddler     |
+| **17**  | Scholars        | Politician  |
+| **18**  | Settlers        | Spy         |
+| **19**  | Spies           | Thief       |
+| **20**  | Tribe           | Thug        |
+
+## Agenda
+
+|         |                |              |
+| ------- | -------------- | ------------ |
+| **d20** | **Goal**       | **Obstacle** |
+| **1**   | Ascension      | Sacrifice    |
+| **2**   | Creation       | Conflict     |
+| **3**   | Destruction    | Corruption   |
+| **4**   | Dominion       | Cost         |
+| **5**   | Enlightenment  | Danger       |
+| **6**   | Exploration    | Decay        |
+| **7**   | Growth         | Discord      |
+| **8**   | Innovation     | Division     |
+| **9**   | Justice        | Dogma        |
+| **10**  | Knowledge      | Exposure     |
+| **11**  | Liberation     | Factionalism |
+| **12**  | Peace          | Fear         |
+| **13**  | Power          | Ignorance    |
+| **14**  | Preservation   | Incompetence |
+| **15**  | Protection     | Injustice    |
+| **16**  | Redemption     | Isolation    |
+| **17**  | Revenge        | Opposition   |
+| **18**  | Survival       | Stagnation   |
+| **19**  | Transformation | Tradition    |
+| **20**  | Wealth         | Weakness     |
+
+|         |                |              |
+| ------- | -------------- | ------------ |
+| **d20** | **Goal**       | **Obstacle** |
+| **1**   | Abundance     | Agreements    |
+| **2**   | Awakening     | Belief        |
+| **3**   | Balance       | Contamination |
+| **4**   | Cleansing     | Disease       |
+| **5**   | Conservation  | Exploitation  |
+| **6**   | Defense       | Fragmentation |
+| **7**   | Discovery     | Frailty       |
+| **8**   | Emancipation  | Greed         |
+| **9**   | Enrichment    | Ignorance     |
+| **10**  | Evolution     | Infestation   |
+| **11**  | Expansion     | Invasion      |
+| **12**  | Harmony       | Isolation     |
+| **13**  | Healing       | Leadership    |
+| **14**  | Integration   | Oppression    |
+| **15**  | Justice       | Pollution     |
+| **16**  | Metamorphosis | Scarcity      |
+| **17**  | Purification  | Stasis        |
+| **18**  | Rebirth       | Turmoil       |
+| **19**  | Tranquility   | Vulnerability |
+| **20**  | Unity         | Vulnerability |
