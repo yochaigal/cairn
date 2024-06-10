@@ -162,3 +162,5 @@ search_exclude: true
 | **18**  | Rebirth       | Turmoil       |
 | **19**  | Tranquility   | Vulnerability |
 | **20**  | Unity         | Vulnerability |
+
+
