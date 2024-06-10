@@ -13,7 +13,7 @@ grand_parent: WIP
  
 ## Names
 
-Faunus, Snowdrop, Wisp, Silverdew, Brim, Solstice, Steeleye, Sileas, Gossamer, Hazel
+Faunus, Snowdrop, Wisp, Silverdew, Brim, Solstice, Steeleye, Artea, Gossamer, Hazel
 
 ## Starting Gear
 

@@ -13,7 +13,7 @@ grand_parent: WIP
 
 ## Names
 
-Rook, Ebon, Moro, Yew, Pall, Leth, Nix, Barnaby, Vesper, Leder
+Rook, Ebon, Moro, Yew, Pall, Leth, Bea, Barnaby, Vesper, Leder
 
 ## Starting Gear
 

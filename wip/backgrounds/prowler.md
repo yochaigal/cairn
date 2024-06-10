@@ -13,7 +13,7 @@ grand_parent: WIP
 
 ## Names
 
-Winda, Brielle, Theron, Chayse, Nuja, Dev, Raven, Arawan, Sable
+Winda, Brielle, Theron, Chayse, Nuja, Dev, Raven, Arawan, Sable, Baruani
 
 ## Starting Gear
 
