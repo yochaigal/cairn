@@ -35,97 +35,54 @@ search_exclude: true
 | **19**   | Cleaver  | **39**   | Harkin   | **59**   | Luna     | **79**   | Plow      | **99**   | Thyme      |
 | **20**   | Coraline | **40**   | Harper   | **60**   | Lysander | **80**   | Quill     | **100**  | Tiberius   |
 
-## Traits
-
-|                 |               |
-| --------------- | ------------- |
-| **Virtues**     | **Vices**     |
-| Cautious        | Absent-minded |
-| Compassionate   | Adaptable     |
-| Connected       | Aloof         |
-| Courageous      | Bankrupt      |
-| Creative        | Brutal        |
-| Decadent        | Collaborative |
-| Deductive       | Corrupt       |
-| Disciplined     | Craven        |
-| Discreet        | Critical      |
-| Dogmatic        | Cruel         |
-| Enigmatic       | Cunning       |
-| Fierce          | Cynical       |
-| Honest          | Deceptive     |
-| Incisive        | Generous      |
-| Incorruptible   | Greedy        |
-| Individualistic | Impulsive     |
-| Intellectual    | Incompetent   |
-| Judicious       | Inflexible    |
-| Keen            | Manipulative  |
-| Loyal           | Mercurial     |
-| Methodical      | Naive         |
-| Meticulous      | Obstinate     |
-| Polite          | Passive       |
-| Popular         | Pedantic      |
-| Practical       | Perfectionist |
-| Pragmatic       | Repressed     |
-| Resilient       | Ruthless      |
-| Resourceful     | Sarcastic     |
-| Scholarly       | Selfish       |
-| Secretive       | Skeptical     |
-| Self-sufficient | Stealthy      |
-| Shrewd          | Stubborn      |
-| Solid           | Superficial   |
-| Studious        | Threatened    |
-| Suave           | Unfocused     |
-| Tenacious       | Unimaginative |
-| Unwavering      | Vain          |
-| Witty           | Xenophobic    |
-
-
 ## Background
-
-|         |                 |             |
-| ------- | --------------- | ----------- |
-| **d20** | **Type**        | **Agent**   |
-| **1**   | Artisans        | Academic    |
-| **2**   | Commoners       | Assassin    |
-| **3**   | Criminals       | Blacksmith  |
-| **4**   | Cultists        | Farmer      |
-| **5**   | Exiles          | General     |
-| **6**   | Explorers       | Gravedigger |
-| **7**   | Industrialists  | Guard       |
-| **8**   | Merchants       | Healer      |
-| **9**   | Military        | Jailer      |
-| **10**  | Nobles          | Laborer     |
-| **11**  | Nomads          | Lord        |
-| **12**  | Pilgrims        | Merchant    |
-| **13**  | Protectors      | Monk        |
-| **14**  | Religious       | Mystic      |
-| **15**  | Revolutionaries | Outlander   |
-| **16**  | Rulers          | Peddler     |
-| **17**  | Scholars        | Politician  |
-| **18**  | Settlers        | Spy         |
-| **19**  | Spies           | Thief       |
-| **20**  | Tribe           | Thug        |
 
 |         |                |              |
 | ------- | -------------- | ------------ |
-| **d20** | **Profession** | **Goal**     |
-| **1**   | Academic       | Ascension    |
-| **2**   | Assassin       | Cleansing    |
-| **3**   | Blacksmith     | Conservation |
-| **4**   | Farmer         | Defense      |
-| **5**   | General        | Domination   |
-| **6**   | Gravedigger    | Enrichment   |
-| **7**   | Guard          | Expansion    |
-| **8**   | Healer         | Freedom      |
-| **9**   | Jailer         | Healing      |
-| **10**  | Laborer        | Integration  |
-| **11**  | Lord           | Justice      |
-| **12**  | Merchant       | Peace        |
-| **13**  | Monk           | Power        |
-| **14**  | Mystic         | Preservation |
-| **15**  | Outlander      | Purification |
-| **16**  | Peddler        | Redemption   |
-| **17**  | Politician     | Revenge      |
-| **18**  | Spy            | Survival     |
-| **19**  | Thief          | Unity        |
-| **20**  | Thug           | Wealth       |
+| **d20** | **Background** | **Goal**     |
+| **1**   | Academic       | Escape       |
+| **2**   | Artisan        | Conservation |
+| **3**   | Assassin       | Cultivation  |
+| **4**   | Blacksmith     | Defense      |
+| **5**   | Criminal       | Domination   |
+| **6**   | Exile          | Enrichment   |
+| **7**   | Farmer         | Expansion    |
+| **8**   | Gravedigger    | Healing      |
+| **9**   | Guard          | Integration  |
+| **10**  | Healer         | Justice      |
+| **11**  | Jailer         | Peace        |
+| **12**  | Merchant       | Power        |
+| **13**  | Soldier        | Preservation |
+| **14**  | Monk           | Proselytize  |
+| **15**  | Noble          | Purification |
+| **16**  | Peddler        | Recovery     |
+| **17**  | Pilgrim        | Redemption   |
+| **18**  | Revolutionary  | Revenge      |
+| **19**  | Scholar        | Survival     |
+| **20**  | Spy            | Wealth       |
+
+## Traits
+
+|            |               |            |
+| ---------- | ------------- | ---------- |
+| **Traits** | **Virtues**   | **Vices**  |
+| **1**      | Cautious      | Bankrupt   |
+| **2**      | Compassionate | Brutal     |
+| **3**      | Courageous    | Corrupt    |
+| **4**      | Creative      | Craven     |
+| **5**      | Disciplined   | Critical   |
+| **6**      | Honest        | Critical   |
+| **7**      | Incisive      | Cynical    |
+| **8**      | Incorruptible | Deceptive  |
+| **9**      | Intellectual  | Distracted |
+| **10**     | Judicious     | Generous   |
+| **11**     | Loyal         | Greedy     |
+| **12**     | Methodical    | Inflexible |
+| **13**     | Polite        | Inflexible |
+| **14**     | Popular       | Naive      |
+| **15**     | Practical     | Pedantic   |
+| **16**     | Pragmatic     | Ruthless   |
+| **17**     | Resilient     | Sarcastic  |
+| **18**     | Resourceful   | Selfish    |
+| **19**     | Suave         | Vain       |
+| **20**     | Witty         | Xenophobic |
