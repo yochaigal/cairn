@@ -37,55 +37,48 @@ search_exclude: true
 
 ## Traits
 
-|         |               |               |
-| ------- | ------------- | ------------- |
-| **d20** | **Trait 1**   | **Trait 2**   |
-| **1**   | Cautious      | Adaptable     |
-| **2**   | Discreet      | Bankrupt      |
-| **3**   | Enigmatic     | Brutal        |
-| **4**   | Fierce        | Collaborative |
-| **5**   | Dogmatic      | Corrupt       |
-| **6**   | Judicious     | Craven        |
-| **7**   | Keen          | Cruel         |
-| **8**   | Loyal         | Cunning       |
-| **9**   | Meticulous    | Cynical       |
-| **10**  | Pragmatic     | Deceptive     |
-| **11**  | Resourceful   | Generous      |
-| **12**  | Tenacious     | Incompetent   |
-| **13**  | Decadent      | Manipulative  |
-| **14**  | Connected     | Mercurial     |
-| **15**  | Disciplined   | Repressed     |
-| **16**  | Incorruptible | Ruthless      |
-| **17**  | Intellectual  | Selfish       |
-| **18**  | Shrewd        | Stealthy      |
-| **19**  | Popular       | Threatened    |
-| **20**  | Secretive     | Xenophobic    |
+|                 |               |
+| --------------- | ------------- |
+| **Virtues**     | **Vices**     |
+| Cautious        | Absent-minded |
+| Compassionate   | Adaptable     |
+| Connected       | Aloof         |
+| Courageous      | Bankrupt      |
+| Creative        | Brutal        |
+| Decadent        | Collaborative |
+| Deductive       | Corrupt       |
+| Disciplined     | Craven        |
+| Discreet        | Critical      |
+| Dogmatic        | Cruel         |
+| Enigmatic       | Cunning       |
+| Fierce          | Cynical       |
+| Honest          | Deceptive     |
+| Incisive        | Generous      |
+| Incorruptible   | Greedy        |
+| Individualistic | Impulsive     |
+| Intellectual    | Incompetent   |
+| Judicious       | Inflexible    |
+| Keen            | Manipulative  |
+| Loyal           | Mercurial     |
+| Methodical      | Naive         |
+| Meticulous      | Obstinate     |
+| Polite          | Passive       |
+| Popular         | Pedantic      |
+| Practical       | Perfectionist |
+| Pragmatic       | Repressed     |
+| Resilient       | Ruthless      |
+| Resourceful     | Sarcastic     |
+| Scholarly       | Selfish       |
+| Secretive       | Skeptical     |
+| Self-sufficient | Stealthy      |
+| Shrewd          | Stubborn      |
+| Solid           | Superficial   |
+| Studious        | Threatened    |
+| Suave           | Unfocused     |
+| Tenacious       | Unimaginative |
+| Unwavering      | Vain          |
+| Witty           | Xenophobic    |
 
-## Personality
-
-|         |                 |               |
-| ------- | --------------- | ------------- |
-| **d20** | **Virtues**     | **Vices**     |
-| **1**   | Compassionate   | Absent-minded |
-| **2**   | Courageous      | Aloof         |
-| **3**   | Creative        | Critical      |
-| **4**   | Deductive       | Cynical       |
-| **5**   | Honest          | Greedy        |
-| **6**   | Incisive        | Impulsive     |
-| **7**   | Incorruptible   | Inflexible    |
-| **8**   | Individualistic | Naive         |
-| **9**   | Loyal           | Obstinate     |
-| **10**  | Methodical      | Passive       |
-| **11**  | Polite          | Pedantic      |
-| **12**  | Practical       | Perfectionist |
-| **13**  | Resilient       | Sarcastic     |
-| **14**  | Scholarly       | Selfish       |
-| **15**  | Self-sufficient | Skeptical     |
-| **16**  | Solid           | Stubborn      |
-| **17**  | Studious        | Superficial   |
-| **18**  | Suave           | Unfocused     |
-| **19**  | Unwavering      | Unimaginative |
-| **20**  | Witty           | Vain          |
 
 ## Background
 
@@ -113,52 +106,26 @@ search_exclude: true
 | **19**  | Spies           | Thief       |
 | **20**  | Tribe           | Thug        |
 
-## Agenda
-
 |         |                |              |
 | ------- | -------------- | ------------ |
-| **d20** | **Goal**       | **Obstacle** |
-| **1**   | Ascension      | Sacrifice    |
-| **2**   | Creation       | Conflict     |
-| **3**   | Destruction    | Corruption   |
-| **4**   | Dominion       | Cost         |
-| **5**   | Enlightenment  | Danger       |
-| **6**   | Exploration    | Decay        |
-| **7**   | Growth         | Discord      |
-| **8**   | Innovation     | Division     |
-| **9**   | Justice        | Dogma        |
-| **10**  | Knowledge      | Exposure     |
-| **11**  | Liberation     | Factionalism |
-| **12**  | Peace          | Fear         |
-| **13**  | Power          | Ignorance    |
-| **14**  | Preservation   | Incompetence |
-| **15**  | Protection     | Injustice    |
-| **16**  | Redemption     | Isolation    |
-| **17**  | Revenge        | Opposition   |
-| **18**  | Survival       | Stagnation   |
-| **19**  | Transformation | Tradition    |
-| **20**  | Wealth         | Weakness     |
-
-|         |                |              |
-| ------- | -------------- | ------------ |
-| **d20** | **Goal**       | **Obstacle** |
-| **1**   | Abundance     | Agreements    |
-| **2**   | Awakening     | Belief        |
-| **3**   | Balance       | Contamination |
-| **4**   | Cleansing     | Disease       |
-| **5**   | Conservation  | Exploitation  |
-| **6**   | Defense       | Fragmentation |
-| **7**   | Discovery     | Frailty       |
-| **8**   | Emancipation  | Greed         |
-| **9**   | Enrichment    | Ignorance     |
-| **10**  | Evolution     | Infestation   |
-| **11**  | Expansion     | Invasion      |
-| **12**  | Harmony       | Isolation     |
-| **13**  | Healing       | Leadership    |
-| **14**  | Integration   | Oppression    |
-| **15**  | Justice       | Pollution     |
-| **16**  | Metamorphosis | Scarcity      |
-| **17**  | Purification  | Stasis        |
-| **18**  | Rebirth       | Turmoil       |
-| **19**  | Tranquility   | Vulnerability |
-| **20**  | Unity         | Vulnerability |
+| **d20** | **Profession** | **Goal**     |
+| **1**   | Academic       | Ascension    |
+| **2**   | Assassin       | Cleansing    |
+| **3**   | Blacksmith     | Conservation |
+| **4**   | Farmer         | Defense      |
+| **5**   | General        | Domination   |
+| **6**   | Gravedigger    | Enrichment   |
+| **7**   | Guard          | Expansion    |
+| **8**   | Healer         | Freedom      |
+| **9**   | Jailer         | Healing      |
+| **10**  | Laborer        | Integration  |
+| **11**  | Lord           | Justice      |
+| **12**  | Merchant       | Peace        |
+| **13**  | Monk           | Power        |
+| **14**  | Mystic         | Preservation |
+| **15**  | Outlander      | Purification |
+| **16**  | Peddler        | Redemption   |
+| **17**  | Politician     | Revenge      |
+| **18**  | Spy            | Survival     |
+| **19**  | Thief          | Unity        |
+| **20**  | Thug           | Wealth       |
