@@ -35,50 +35,6 @@ search_exclude: true
 | **19**   | Cleaver  | **39**   | Harkin   | **59**   | Luna     | **79**   | Plow      | **99**   | Thyme      |
 | **20**   | Coraline | **40**   | Harper   | **60**   | Lysander | **80**   | Quill     | **100**  | Tiberius   |
 
-## Traits
-
-|                 |               |
-| --------------- | ------------- |
-| **Virtues**     | **Vices**     |
-| Cautious        | Absent-minded |
-| Compassionate   | Adaptable     |
-| Connected       | Aloof         |
-| Courageous      | Bankrupt      |
-| Creative        | Brutal        |
-| Decadent        | Collaborative |
-| Deductive       | Corrupt       |
-| Disciplined     | Craven        |
-| Discreet        | Critical      |
-| Dogmatic        | Cruel         |
-| Enigmatic       | Cunning       |
-| Fierce          | Cynical       |
-| Honest          | Deceptive     |
-| Incisive        | Generous      |
-| Incorruptible   | Greedy        |
-| Individualistic | Impulsive     |
-| Intellectual    | Incompetent   |
-| Judicious       | Inflexible    |
-| Keen            | Manipulative  |
-| Loyal           | Mercurial     |
-| Methodical      | Naive         |
-| Meticulous      | Obstinate     |
-| Polite          | Passive       |
-| Popular         | Pedantic      |
-| Practical       | Perfectionist |
-| Pragmatic       | Repressed     |
-| Resilient       | Ruthless      |
-| Resourceful     | Sarcastic     |
-| Scholarly       | Selfish       |
-| Secretive       | Skeptical     |
-| Self-sufficient | Stealthy      |
-| Shrewd          | Stubborn      |
-| Solid           | Superficial   |
-| Studious        | Threatened    |
-| Suave           | Unfocused     |
-| Tenacious       | Unimaginative |
-| Unwavering      | Vain          |
-| Witty           | Xenophobic    |
-
 ## Background
 
 |         |                |              |
@@ -104,4 +60,32 @@ search_exclude: true
 | **18**  | Spy            | Survival     |
 | **19**  | Thief          | Unity        |
 | **20**  | Thug           | Wealth       |
->>>>>>> parent of 6d415ea2 (some npc tables)
+
+## Traits
+
+|         |               |              |
+| ------- | ------------- | ------------ |
+| **d20** | **Virtues**   | **Vices**    |
+| **1**   | Cautious      | Aloof        |
+| **2**   | Compassionate | Corrupt      |
+| **3**   | Connected     | Craven       |
+| **4**   | Courageous    | Cruel        |
+| **5**   | Disciplined   | Cynical      |
+| **6**   | Discreet      | Deceptive    |
+| **7**   | Honest        | Greedy       |
+| **8**   | Intelligent   | Impulsive    |
+| **9**   | Judicious     | Incompetent  |
+| **10**  | Loyal         | Inflexible   |
+| **11**  | Methodical    | Manipulative |
+| **12**  | Meticulous    | Mercurial    |
+| **13**  | Polite        | Naive        |
+| **14**  | Popular       | Pedantic     |
+| **15**  | Pragmatic     | Ruthless     |
+| **16**  | Resourceful   | Sarcastic    |
+| **17**  | Suave         | Selfish      |
+| **18**  | Tenacious     | Stubborn     |
+| **19**  | Tenacious     | Vain         |
+| **20**  | Witty         | Xenophobic   |
+
+## Quirks
+
