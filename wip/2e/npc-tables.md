@@ -89,3 +89,26 @@ search_exclude: true
 
 ## Quirks
 
+|         |               |                |
+| ------- | ------------- | -------------- |
+| **d20** | **Quirk 1**   | **Quirk 2**    |
+| **1**   | alert         | imposing       |
+| **2**   | attractive    | lanky          |
+| **3**   | bald          | limps          |
+| **4**   | bright eyes   | loud           |
+| **5**   | broad face    | missing ear    |
+| **6**   | clumsy        | muscular       |
+| **7**   | crooked teeth | notable hair   |
+| **8**   | dark eyes     | piercings      |
+| **9**   | dimples       | pleasant voice |
+| **10**  | diseased      | scarred        |
+| **11**  | disfigured    | slow           |
+| **12**  | doughy        | squints        |
+| **13**  | eyepatch      | strong         |
+| **14**  | fast          | tall           |
+| **15**  | gaunt         | thick eyebrows |
+| **16**  | good posture  | tired          |
+| **17**  | grimy         | tough          |
+| **18**  | haggard       | weak           |
+| **19**  | harsh voice   | wiry           |
+| **20**  | heavy brow    | young          |
