@@ -79,84 +79,10 @@ search_exclude: true
 | Unwavering      | Vain          |
 | Witty           | Xenophobic    |
 
-
 ## Background
 
-|         |                 |             |
-| ------- | --------------- | ----------- |
-| **d20** | **Type**        | **Agent**   |
-| **1**   | Artisans        | Academic    |
-| **2**   | Commoners       | Assassin    |
-| **3**   | Criminals       | Blacksmith  |
-| **4**   | Cultists        | Farmer      |
-| **5**   | Exiles          | General     |
-| **6**   | Explorers       | Gravedigger |
-| **7**   | Industrialists  | Guard       |
-| **8**   | Merchants       | Healer      |
-| **9**   | Military        | Jailer      |
-| **10**  | Nobles          | Laborer     |
-| **11**  | Nomads          | Lord        |
-| **12**  | Pilgrims        | Merchant    |
-| **13**  | Protectors      | Monk        |
-| **14**  | Religious       | Mystic      |
-| **15**  | Revolutionaries | Outlander   |
-| **16**  | Rulers          | Peddler     |
-| **17**  | Scholars        | Politician  |
-| **18**  | Settlers        | Spy         |
-| **19**  | Spies           | Thief       |
-| **20**  | Tribe           | Thug        |
-
 |         |                |              |
 | ------- | -------------- | ------------ |
-<<<<<<< HEAD
-| **d20** | **Background** | **Goal**     |
-| **1**   | Academic       | Escape       |
-| **2**   | Artisan        | Conservation |
-| **3**   | Assassin       | Cultivation  |
-| **4**   | Blacksmith     | Defense      |
-| **5**   | Criminal       | Domination   |
-| **6**   | Exile          | Enrichment   |
-| **7**   | Farmer         | Expansion    |
-| **8**   | Gravedigger    | Healing      |
-| **9**   | Guard          | Integration  |
-| **10**  | Healer         | Justice      |
-| **11**  | Jailer         | Peace        |
-| **12**  | Merchant       | Power        |
-| **13**  | Soldier        | Preservation |
-| **14**  | Monk           | Proselytize  |
-| **15**  | Noble          | Purification |
-| **16**  | Peddler        | Recovery     |
-| **17**  | Pilgrim        | Redemption   |
-| **18**  | Revolutionary  | Revenge      |
-| **19**  | Scholar        | Survival     |
-| **20**  | Spy            | Wealth       |
-
-## Traits
-
-|         |                |              |
-| ------- | -------------- | ------------ |
-| **d20** | **Goal**       | **Obstacle** |
-| **1**   | Abundance     | Agreements    |
-| **2**   | Awakening     | Belief        |
-| **3**   | Balance       | Contamination |
-| **4**   | Cleansing     | Disease       |
-| **5**   | Conservation  | Exploitation  |
-| **6**   | Defense       | Fragmentation |
-| **7**   | Discovery     | Frailty       |
-| **8**   | Emancipation  | Greed         |
-| **9**   | Enrichment    | Ignorance     |
-| **10**  | Evolution     | Infestation   |
-| **11**  | Expansion     | Invasion      |
-| **12**  | Harmony       | Isolation     |
-| **13**  | Healing       | Leadership    |
-| **14**  | Integration   | Oppression    |
-| **15**  | Justice       | Pollution     |
-| **16**  | Metamorphosis | Scarcity      |
-| **17**  | Purification  | Stasis        |
-| **18**  | Rebirth       | Turmoil       |
-| **19**  | Tranquility   | Vulnerability |
-| **20**  | Unity         | Vulnerability |
-=======
 | **d20** | **Profession** | **Goal**     |
 | **1**   | Academic       | Ascension    |
 | **2**   | Assassin       | Cleansing    |
