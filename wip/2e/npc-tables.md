@@ -35,80 +35,274 @@ search_exclude: true
 | **19**   | Cleaver  | **39**   | Harkin   | **59**   | Luna     | **79**   | Plow      | **99**   | Thyme      |
 | **20**   | Coraline | **40**   | Harper   | **60**   | Lysander | **80**   | Quill     | **100**  | Tiberius   |
 
+
+## Randomized Names
+
+|        |           |
+| ------ | --------- |
+| **1**  | Luna      |
+| **2**  | Glyph     |
+| **3**  | Pan       |
+| **4**  | Quill     |
+| **5**  | Darnel    |
+| **6**  | Lysander  |
+| **7**  | Seraphine |
+| **8**  | Hemlock   |
+| **9**  | Herald    |
+| **10** | Alaric    |
+| **11** | Marius    |
+| **12** | Mend      |
+| **13** | Eoin      |
+| **14** | Lucian    |
+| **15** | Evander   |
+| **16** | Cleaver   |
+| **17** | Milo      |
+| **18** | Lisbeth   |
+| **19** | Carver    |
+| **20** | Neria     |
+
+|        |           |
+| ------ | --------- |
+| **1**  | Crow      |
+| **2**  | Lisbeth   |
+| **3**  | Lira      |
+| **4**  | Ainsley   |
+| **5**  | Azura     |
+| **6**  | Callan    |
+| **7**  | Spike     |
+| **8**  | Gunnar    |
+| **9**  | Spade     |
+| **10** | Finch     |
+| **11** | Cedric    |
+| **12** | Brave     |
+| **13** | Thyme     |
+| **14** | Luna      |
+| **15** | Tanner    |
+| **16** | Shade     |
+| **17** | Shroud    |
+| **18** | Marcellus |
+| **19** | Liora     |
+| **20** | Harper    |
+
+|        |          |
+| ------ | -------- |
+| **1**  | Mariner  |
+| **2**  | Rolan    |
+| **3**  | Hildred  |
+| **4**  | Storm    |
+| **5**  | Alistair |
+| **6**  | Alder    |
+| **7**  | Sky      |
+| **8**  | Onyx     |
+| **9**  | Kael     |
+| **10** | Caius    |
+| **11** | Nazira   |
+| **12** | Rush     |
+| **13** | Godric   |
+| **14** | Kavi     |
+| **15** | Taros    |
+| **16** | Dax      |
+| **17** | Harkin   |
+| **18** | Thaddeus |
+| **19** | Dain     |
+| **20** | Dorian   |
+
+|        |            |
+| ------ | ---------- |
+| **1**  | Leo        |
+| **2**  | Plow       |
+| **3**  | Aeloria    |
+| **4**  | Cinder     |
+| **5**  | Stellan    |
+| **6**  | Taran      |
+| **7**  | Caelan     |
+| **8**  | Glow       |
+| **9**  | Liora      |
+| **10** | Anika      |
+| **11** | Thistle    |
+| **12** | Lysander   |
+| **13** | Birch      |
+| **14** | Ciaran     |
+| **15** | Mirth      |
+| **16** | Faris      |
+| **17** | Sharpsight |
+| **18** | Lian       |
+| **19** | Ewan       |
+| **20** | Aislin     |
+
+|        |          |
+| ------ | -------- |
+| **1**  | Crucible |
+| **2**  | Coraline |
+| **3**  | Gerda    |
+| **4**  | Creek    |
+| **5**  | Harper   |
+| **6**  | Lira     |
+| **7**  | Lucian   |
+| **8**  | Elia     |
+| **9**  | Cade     |
+| **10** | Jarek    |
+| **11** | Kade     |
+| **12** | Stem     |
+| **13** | Merrit   |
+| **14** | Gunnar   |
+| **15** | Serina   |
+| **16** | Harkin   |
+| **17** | Nox      |
+| **18** | Leon     |
+| **19** | Juniper  |
+| **20** | Tiberius |
+
+
+
 ## Background
 
-|         |                |              |
-| ------- | -------------- | ------------ |
-| **d20** | **Profession** | **Goal**     |
-| **1**   | Academic       | Ascension    |
-| **2**   | Assassin       | Cleansing    |
-| **3**   | Blacksmith     | Conservation |
-| **4**   | Farmer         | Defense      |
-| **5**   | General        | Domination   |
-| **6**   | Gravedigger    | Enrichment   |
-| **7**   | Guard          | Expansion    |
-| **8**   | Healer         | Freedom      |
-| **9**   | Jailer         | Healing      |
-| **10**  | Laborer        | Integration  |
-| **11**  | Lord           | Justice      |
-| **12**  | Merchant       | Peace        |
-| **13**  | Monk           | Power        |
-| **14**  | Mystic         | Preservation |
-| **15**  | Outlander      | Purification |
-| **16**  | Peddler        | Redemption   |
-| **17**  | Politician     | Revenge      |
-| **18**  | Spy            | Survival     |
-| **19**  | Thief          | Unity        |
-| **20**  | Thug           | Wealth       |
+|         |                |
+| ------- | -------------- |
+| **d20** | **Background** |
+| **1**   | Academic       |
+| **2**   | Assassin       |
+| **3**   | Blacksmith     |
+| **4**   | Farmer         |
+| **5**   | General        |
+| **6**   | Gravedigger    |
+| **7**   | Guard          |
+| **8**   | Healer         |
+| **9**   | Jailer         |
+| **10**  | Laborer        |
+| **11**  | Lord           |
+| **12**  | Merchant       |
+| **13**  | Monk           |
+| **14**  | Mystic         |
+| **15**  | Outlander      |
+| **16**  | Peddler        |
+| **17**  | Politician     |
+| **18**  | Spy            |
+| **19**  | Thief          |
+| **20**  | Thug           |
+
+## Goals
+
+|         |              |
+| ------- | ------------ |
+| **d20** | **Goal**     |
+| **1**   | Ascension    |
+| **2**   | Cleansing    |
+| **3**   | Conservation |
+| **4**   | Defense      |
+| **5**   | Domination   |
+| **6**   | Enrichment   |
+| **7**   | Expansion    |
+| **8**   | Freedom      |
+| **9**   | Healing      |
+| **10**  | Integration  |
+| **11**  | Justice      |
+| **12**  | Peace        |
+| **13**  | Power        |
+| **14**  | Preservation |
+| **15**  | Purification |
+| **16**  | Redemption   |
+| **17**  | Revenge      |
+| **18**  | Survival     |
+| **19**  | Unity        |
+| **20**  | Wealth       |
 
 ## Traits
 
-|         |               |              |
-| ------- | ------------- | ------------ |
-| **d20** | **Virtues**   | **Vices**    |
-| **1**   | Cautious      | Aloof        |
-| **2**   | Compassionate | Corrupt      |
-| **3**   | Connected     | Craven       |
-| **4**   | Courageous    | Cruel        |
-| **5**   | Disciplined   | Cynical      |
-| **6**   | Discreet      | Deceptive    |
-| **7**   | Honest        | Greedy       |
-| **8**   | Intelligent   | Impulsive    |
-| **9**   | Judicious     | Incompetent  |
-| **10**  | Loyal         | Inflexible   |
-| **11**  | Methodical    | Manipulative |
-| **12**  | Meticulous    | Mercurial    |
-| **13**  | Polite        | Naive        |
-| **14**  | Popular       | Pedantic     |
-| **15**  | Pragmatic     | Ruthless     |
-| **16**  | Resourceful   | Sarcastic    |
-| **17**  | Suave         | Selfish      |
-| **18**  | Shrewd        | Stubborn     |
-| **19**  | Tenacious     | Vain         |
-| **20**  | Witty         | Xenophobic   |
+|         |               |
+| ------- | ------------- |
+| **d20** | **Virtues**   |
+| **1**   | Cautious      |
+| **2**   | Compassionate |
+| **3**   | Connected     |
+| **4**   | Courageous    |
+| **5**   | Disciplined   |
+| **6**   | Discreet      |
+| **7**   | Honest        |
+| **8**   | Intelligent   |
+| **9**   | Judicious     |
+| **10**  | Loyal         |
+| **11**  | Methodical    |
+| **12**  | Meticulous    |
+| **13**  | Polite        |
+| **14**  | Popular       |
+| **15**  | Pragmatic     |
+| **16**  | Resourceful   |
+| **17**  | Suave         |
+| **18**  | Shrewd        |
+| **19**  | Tenacious     |
+| **20**  | Witty         |
+
+|         |              |
+| ------- | ------------ |
+| **d20** | **Vices**    |
+| **1**   | Aloof        |
+| **2**   | Corrupt      |
+| **3**   | Craven       |
+| **4**   | Cruel        |
+| **5**   | Cynical      |
+| **6**   | Deceptive    |
+| **7**   | Greedy       |
+| **8**   | Impulsive    |
+| **9**   | Incompetent  |
+| **10**  | Inflexible   |
+| **11**  | Manipulative |
+| **12**  | Mercurial    |
+| **13**  | Naive        |
+| **14**  | Pedantic     |
+| **15**  | Ruthless     |
+| **16**  | Sarcastic    |
+| **17**  | Selfish      |
+| **18**  | Stubborn     |
+| **19**  | Vain         |
+| **20**  | Xenophobic   |
 
 ## Quirks
 
-|         |                |             |
-| ------- | -------------- | ----------- |
-| **d20** | **Quirk 1**    | **Quirk 2** |
-| **1**   | Gaunt          | Eyepatch    |
-| **2**   | Harsh Voice    | Tough       |
-| **3**   | Young          | Clumsy      |
-| **4**   | Squints        | Scarred     |
-| **5**   | Strong         | Diseased    |
-| **6**   | Alert          | Attractive  |
-| **7**   | Bright Eyes    | Doughy      |
-| **8**   | Bald           | Fast        |
-| **9**   | Notable Hair   | Haggard     |
-| **10**  | Missing Ear    | Dimples     |
-| **11**  | Good Posture   | Lanky       |
-| **12**  | Limps          | Imposing    |
-| **13**  | Grimy          | Tall        |
-| **14**  | Muscular       | Wiry        |
-| **15**  | Thick Eyebrows | Weak        |
-| **16**  | Crooked Teeth  | Slow        |
-| **17**  | Heavy Brow     | Dark Eyes   |
-| **18**  | Pleasant Voice | Loud        |
-| **19**  | Broad Face     | Disfigured  |
-| **20**  | Tired          | Piercings   |
+|         |                |
+| ------- | -------------- |
+| **d20** | **Quirk 1**    |
+| **1**   | Gaunt          |
+| **2**   | Harsh Voice    |
+| **3**   | Young          |
+| **4**   | Squints        |
+| **5**   | Strong         |
+| **6**   | Alert          |
+| **7**   | Bright Eyes    |
+| **8**   | Bald           |
+| **9**   | Notable Hair   |
+| **10**  | Missing Ear    |
+| **11**  | Good Posture   |
+| **12**  | Limps          |
+| **13**  | Grimy          |
+| **14**  | Muscular       |
+| **15**  | Thick Eyebrows |
+| **16**  | Crooked Teeth  |
+| **17**  | Heavy Brow     |
+| **18**  | Pleasant Voice |
+| **19**  | Broad Face     |
+| **20**  | Tired          |
+
+|         |             |
+| ------- | ----------- |
+| **d20** | **Quirk 2** |
+| **1**   | Eyepatch    |
+| **2**   | Tough       |
+| **3**   | Clumsy      |
+| **4**   | Scarred     |
+| **5**   | Diseased    |
+| **6**   | Attractive  |
+| **7**   | Doughy      |
+| **8**   | Fast        |
+| **9**   | Haggard     |
+| **10**  | Dimples     |
+| **11**  | Lanky       |
+| **12**  | Imposing    |
+| **13**  | Tall        |
+| **14**  | Wiry        |
+| **15**  | Weak        |
+| **16**  | Slow        |
+| **17**  | Dark Eyes   |
+| **18**  | Loud        |
+| **19**  | Disfigured  |
+| **20**  | Piercings   |
