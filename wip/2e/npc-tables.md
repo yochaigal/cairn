@@ -83,32 +83,32 @@ search_exclude: true
 | **15**  | Pragmatic     | Ruthless     |
 | **16**  | Resourceful   | Sarcastic    |
 | **17**  | Suave         | Selfish      |
-| **18**  | Tenacious     | Stubborn     |
+| **18**  | Shrewd        | Stubborn     |
 | **19**  | Tenacious     | Vain         |
 | **20**  | Witty         | Xenophobic   |
 
 ## Quirks
 
-|         |               |                |
-| ------- | ------------- | -------------- |
-| **d20** | **Quirk 1**   | **Quirk 2**    |
-| **1**   | alert         | imposing       |
-| **2**   | attractive    | lanky          |
-| **3**   | bald          | limps          |
-| **4**   | bright eyes   | loud           |
-| **5**   | broad face    | missing ear    |
-| **6**   | clumsy        | muscular       |
-| **7**   | crooked teeth | notable hair   |
-| **8**   | dark eyes     | piercings      |
-| **9**   | dimples       | pleasant voice |
-| **10**  | diseased      | scarred        |
-| **11**  | disfigured    | slow           |
-| **12**  | doughy        | squints        |
-| **13**  | eyepatch      | strong         |
-| **14**  | fast          | tall           |
-| **15**  | gaunt         | thick eyebrows |
-| **16**  | good posture  | tired          |
-| **17**  | grimy         | tough          |
-| **18**  | haggard       | weak           |
-| **19**  | harsh voice   | wiry           |
-| **20**  | heavy brow    | young          |
+|         |                |             |
+| ------- | -------------- | ----------- |
+| **d20** | **Quirk 1**    | **Quirk 2** |
+| **1**   | Gaunt          | Eyepatch    |
+| **2**   | Harsh Voice    | Tough       |
+| **3**   | Young          | Clumsy      |
+| **4**   | Squints        | Scarred     |
+| **5**   | Strong         | Diseased    |
+| **6**   | Alert          | Attractive  |
+| **7**   | Bright Eyes    | Doughy      |
+| **8**   | Bald           | Fast        |
+| **9**   | Notable Hair   | Haggard     |
+| **10**  | Missing Ear    | Dimples     |
+| **11**  | Good Posture   | Lanky       |
+| **12**  | Limps          | Imposing    |
+| **13**  | Grimy          | Tall        |
+| **14**  | Muscular       | Wiry        |
+| **15**  | Thick Eyebrows | Weak        |
+| **16**  | Crooked Teeth  | Slow        |
+| **17**  | Heavy Brow     | Dark Eyes   |
+| **18**  | Pleasant Voice | Loud        |
+| **19**  | Broad Face     | Disfigured  |
+| **20**  | Tired          | Piercings   |
