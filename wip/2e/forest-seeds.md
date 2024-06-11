@@ -110,9 +110,9 @@ Roll 2d20 and combine the results.
 
 Roll 2d20 and combine the results.
 
-|         |               |               |
-| ------- | ------------- | ------------- |
-| **d20** | **Goal**      | **Obstacle**  |
+|         |                |              |
+| ------- | -------------- | ------------ |
+| **d20** | **Goal**       | **Obstacle** |
 | **1**   | Abundance     | Agreements    |
 | **2**   | Awakening     | Belief        |
 | **3**   | Balance       | Contamination |
@@ -132,7 +132,7 @@ Roll 2d20 and combine the results.
 | **17**  | Purification  | Stasis        |
 | **18**  | Rebirth       | Turmoil       |
 | **19**  | Tranquility   | Vulnerability |
-| **20**  | Unity         | Weakness      |
+| **20**  | Unity         | Vulnerability |
 
 ## Create the Map
 
