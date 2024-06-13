@@ -21,7 +21,7 @@ Before you begin please check out this example (click on it):
 
 ## The Realm
 
-A **Realm** is a general term for a related collection of regions, potentially encompassing hundreds of places for the player characters to visit and interact with. Each region is defined by its terrain, as well as the culture of its people, their ambitions, their resources, and the Factions that rule them.
+A **Realm** is a general term for a related collection of regions, potentially encompassing hundreds of places for the player characters to visit and interact with.
 
 ### Materials Required
 
