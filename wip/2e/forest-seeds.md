@@ -48,7 +48,7 @@ Roll on the [Forest Description](#forest-description) and write the results in y
 
 > Landmarks help travelers navigate through the dense foliage, acting as geographic reference points: unusually tall trees, watchtowers, and so on. Most forest landmarks are visible only by climbing a tree, though a few are large enough to stand out from the green. Some landmarks are _heard_ rather than seen.
 
-Roll 2d20 and combine the results.
+Roll 1d20 for each column and combine the results.
 
 |         |                 |                 |
 | ------- | --------------- | --------------- |
@@ -80,7 +80,7 @@ In some ways the Wood is a single entity, its brain alive within every tree and 
 
 ### Traits
 
-Roll 2d20 and combine the results.
+Roll 1d20 for each column and combine the results.
 
 |         |             |                |
 | ------- | ----------- | -------------- |
@@ -108,7 +108,7 @@ Roll 2d20 and combine the results.
 
 #### Forest Agenda
 
-Roll 2d20 and combine the results.
+Roll 1d20 for each column and combine the results.
 
 |         |                |              |
 | ------- | -------------- | ------------ |
@@ -177,7 +177,7 @@ Roll 2d20 and combine the results.
 
 #### Trail Types
 
-Roll 2d20 and combine the results.
+Roll 1d20 for each column and combine the results.
 
 |         |                    |                    |
 | ------- | ------------------ | ------------------ |
@@ -209,7 +209,7 @@ Roll 2d20 and combine the results.
 
 Monsters are any dangerous creature one might encounter in the forest. This does not mean it will attack intruders by default! Monsters are not "waiting around" for characters to stumble upon them, but have their own wants and goals. Some monsters can talk, reason, and even beg for mercy. _People can be monsters, too_.
 
-Roll 2d20 and combine the results.
+Roll 1d20 for each column and combine the results.
 
 |         |              |              |
 | ------- | ------------ | ------------ |
@@ -239,7 +239,7 @@ Roll 2d20 and combine the results.
 
 Forests are wild places, but that does not mean people haven't tried to tame them. The remnants of these attempts still show up from time to time, hinting at the folly of those who would stand against the Wood.
 
-Roll 2d20 and combine the results.
+Roll 1d20 for each column and combine the results.
 
 |         |                     |                                        |
 | ------- | ------------------- | -------------------------------------- |
@@ -269,7 +269,7 @@ Roll 2d20 and combine the results.
 
 Despite it wild & unpredictable nature, there have always been those brave, skilled, or foolhardy enough to try and build a life in the Wood. And some do succeed, leaving their mark via smoldering campfire or gray tower, offering a welcome respite to weary travelers. 
 
-Roll 2d20 and combine the results.
+Roll 1d20 for each column and combine the results.
 
 |         |                   |                                    |
 | ------- | ----------------- | ---------------------------------- |
@@ -299,7 +299,7 @@ Roll 2d20 and combine the results.
 
 The Wood is a dangerous place, and not to be trifled with. The forest and its inhabitants do what they must to survive, and even sated are still preparing for their next meal. The trees, the plants, and the earth itself will leave deadly traps and dangers to root out those unworthy to pass beneath the boughs.
 
-Roll 2d20 and combine the results.
+Roll 1d20 for each column and combine the results.
 
 |         |                   |                              |
 | ------- | ----------------- | ---------------------------- |

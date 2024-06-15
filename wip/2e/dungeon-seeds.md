@@ -57,7 +57,7 @@ _"Why was this dungeon built, how was it built, and what caused its downfall?"_
 
 #### Purpose
 
-Roll 2d20 and combine the results.
+Roll 1d20 for each column and combine the results.
 
 |         |                              |                        |
 | ------- | ---------------------------- | ---------------------- |
@@ -85,7 +85,7 @@ Roll 2d20 and combine the results.
 
 #### Construction
 
-Roll 2d20 and combine the results.
+Roll 1d20 for each column and combine the results.
 
 |         |                       |                    |
 | ------- | --------------------- | ------------------ |
@@ -113,7 +113,7 @@ Roll 2d20 and combine the results.
 
 #### Ruination
 
-Roll 2d20 and combine the results.
+Roll 1d20 for each column and combine the results.
 
 |         |                  |                             |
 | ------- | ---------------- | --------------------------- |
@@ -151,7 +151,7 @@ _"What is each Faction trying to achieve, and what stands in their way?"_
 
 #### Traits
 
-Roll 2d20 and combine the results.
+Roll 1d20 for each column and combine the results.
 
 |         |                 |               |
 | ------- | --------------- | ------------- |
@@ -183,7 +183,7 @@ All dungeons should have one or more Factions with their own unique agenda, obst
 
 #### Agendas
 
-Roll 2d20 and combine the results.
+Roll 1d20 for each column and combine the results.
 
 |         |                |              |
 | ------- | -------------- | ------------ |
@@ -250,7 +250,7 @@ Roll 2d20 and combine the results.
 
 Monsters are any dangerous creature that lives in a dungeon. This does not mean it will attack intruders by default! Monsters are not simply "waiting around" for the characters to find them, but instead have their own wants and goals, even if they are simply looking for their next meal. Some monsters can talk, reason, and even beg for mercy. _People can be monsters, too_.
 
-Roll 2d20 and combine the results.
+Roll 1d20 for each column and combine the results.
 
 |         |               |              |
 | ------- | ------------- | ------------ |
@@ -280,7 +280,7 @@ Roll 2d20 and combine the results.
 
 Lore rooms should build on the theme of the dungeon, provide a valuable lesson, or connect the characters with an NPC or Faction. They might create a dilemma that unites the party or puts them at odds with their mission. At a minimum these rooms act as a curiosity, adding something memorable to the experience beyond danger and puzzle-solving. Of course, the characters should not know that these rooms do not contain danger or challenges. This helps increase tension in the dungeon, while offering a potential respite and opportunity for growing the narrative. 
 
-Roll 2d20 and combine the results.
+Roll 1d20 for each column and combine the results.
 
 |         |               |               |
 | ------- | ------------- | ------------- |
@@ -310,7 +310,7 @@ Roll 2d20 and combine the results.
 
 Special rooms areas are uncommon areas that feature a hidden or interactive element. This element can be a challenge, an obstacle, a puzzle, or all of the above. These rooms should offer difficult choices with long-term impacts. They might make dungeon exploration easier, but with a serious cost.
 
-Roll 2d20 and combine the results.
+Roll 1d20 for each column and combine the results.
 
 |         |             |             |
 | ------- | ----------- | ----------- |
@@ -340,7 +340,7 @@ Roll 2d20 and combine the results.
 
 A trap is a dangerous and hidden object, typically triggered through interaction with a character. While traps are by their very nature not obvious, a good trap should contain hints as to their presence or the room's true purpose.
 
-Roll 2d20 and combine the results.
+Roll 1d20 for each column and combine the results.
 
 |         |            |               |
 | ------- | ---------- | ------------- |

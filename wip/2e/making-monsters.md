@@ -71,7 +71,7 @@ X HP, X Armor, X STR, X DEX, X WIL, Attack (dX, special items, _qualities_)
 
 ## Monster Appearance
 
-Roll 2d20 and combine the results.
+Roll 1d20 for each column and combine the results.
 
 |         |              |             |
 | ------- | ------------ | ----------- |
@@ -99,7 +99,7 @@ Roll 2d20 and combine the results.
 
 ## Monster Traits
 
-Roll 2d20 and combine the results.
+Roll 1d20 for each column and combine the results.
 
 |         |                          |                 |
 | ------- | ------------------------ | --------------- |
@@ -153,7 +153,7 @@ Roll 2d20 and combine the results.
 
 ## Monster Abilities
 
-Roll 2d20 and combine the results.
+Roll 1d20 for each column and combine the results.
 
 |         |             |              |
 | ------- | ----------- | ------------ |

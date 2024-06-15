@@ -26,7 +26,7 @@ A **Realm** is a general term for a related collection of regions, potentially e
 ### Materials Required
 
 - A sheet of paper and a notebook. Letter/A4 is OK, but the larger the better.
-- Pencils and erasers. Color pencils if you want to make it pretty, or want to designate terrain with color.
+- Pencils and erasers. Color pencils if you want to make it pretty or want to designate terrain with color.
 - At least one d6 and one d20, but 6d6 and 2d20 would be ideal.
 
 > Going forward, we will refer to the sheet of paper as the **map**.
@@ -36,11 +36,11 @@ A **Realm** is a general term for a related collection of regions, potentially e
 
 ### People
 
-The most important aspect of a region are its _people_: their character, ambitions, and the resources that tie them to this land. Roll on the [Culture](#culture) and [Resources](#resources) tables, then note the results in your notebook.    
+The most important aspect of a region is its _people_: their character, ambitions, and the resources that tie them to this land. Roll on the [Culture](#culture) and [Resources](#resources) tables, then note the results in your notebook.    
 
 #### Culture
 
-Roll 2d20 and combine the results.
+Roll 1d20 for each column and combine the results.
 
 |         |               |                 |
 | ------- | ------------- | --------------- |
@@ -68,7 +68,7 @@ Roll 2d20 and combine the results.
 
 #### Resources
 
-Roll 2d20 and combine the results.
+Roll 1d20 for each column and combine the results.
 
 |         |               |               |
 | ------- | ------------- | ------------- |
@@ -122,7 +122,7 @@ Roll one or more times on the [Faction Types](#faction-types), [Faction Traits](
 
 #### Faction Types
 
-Roll 2d20 and combine the results.
+Roll 1d20 for each column and combine the results.
 
 |         |                 |             |
 | ------- | --------------- | ----------- |
@@ -150,7 +150,7 @@ Roll 2d20 and combine the results.
 
 #### Faction Traits
 
-Roll 2d20 and combine the results.
+Roll 1d20 for each column and combine the results.
 
 |         |               |               |
 | ------- | ------------- | ------------- |
@@ -206,7 +206,7 @@ Roll 2d20, first for the number of advantages the faction has, then for each sub
 
 #### Faction Agendas
 
-Roll 2d20 and combine the results.
+Roll 1d20 for each column and combine the results.
 
 |         |                            |                                                         |
 | ------- | -------------------------- | ------------------------------------------------------- |
@@ -292,7 +292,8 @@ A region's terrain and natural features are an essential part of any map, affect
 #### Draw Terrain
 
 - Roll **1d6** on the table, then roll an amount of dice equal to that number on the map. Collect any dice that roll off the page and set them aside.
-- Draw long, curvy lines across the page, carving up the map around each die. 
+- Draw long, curvy lines across the page, carving up the map around each die.
+- Remove each die, noting the face up result according to the [Terrain Die Drop Table](#terrain-die-drop-table) on the map. For example, the number 4 would indicate Tough terrain.  
 - Roll on the relevant table for each result, writing the terrain type on the map.
   - Replace the die with a triangle, writing the landmark result on the map.
   - Roll any dice that fell off the map page, repeating the last step until none remain.
@@ -309,17 +310,17 @@ A region's terrain and natural features are an essential part of any map, affect
 
 ### Easy
 
-Roll 2d20 and combine the results.
+Roll 1d20 for each column and combine the results.
 
 |         |             |                    |
 | ------- | ----------- | ------------------ |
 | **d20** | **Terrain** | **Landmark**       |
 | **1**   | Bluffs      | Broken Sundial     |
-| **2**   | Farmlands   | Circle of Menhirs  |
-| **3**   | Fells       | Circular Maze      |
-| **4**   | Foothills   | Cloud Stairway     |
-| **5**   | Glens       | Dead Aqueduct      |
-| **6**   | Gorges      | Enormous Footprint |
+| **2**   | Dells       | Circle of Menhirs  |
+| **3**   | Farmlands   | Circular Maze      |
+| **4**   | Fells       | Cloud Stairway     |
+| **5**   | Foothills   | Dead Aqueduct      |
+| **6**   | Glens       | Enormous Footprint |
 | **7**   | Grasslands  | Fallen Column      |
 | **8**   | Gulleys     | False Oasis        |
 | **9**   | Heaths      | Giant's Throne     |
@@ -337,7 +338,7 @@ Roll 2d20 and combine the results.
 
 ### Tough
 
-Roll 2d20 and combine the results.
+Roll 1d20 for each column and combine the results.
 
 |         |             |                     |
 | ------- | ----------- | ------------------- |
@@ -347,11 +348,11 @@ Roll 2d20 and combine the results.
 | **3**   | Chaparral   | Behemoth Graveyard  |
 | **4**   | Coral Reefs | Canyon Bridge       |
 | **5**   | Deserts     | Cinder Cones        |
-| **6**   | Dunes       | Crystal Forest      |
-| **7**   | Estuaries   | Flame Pits          |
-| **8**   | Fens        | Forest of Arrows    |
-| **9**   | Forests     | Frozen Waterfall    |
-| **10**  | Heathlands  | Fungal Forest       |
+| **6**   | Dunes       | Flame Pits          |
+| **7**   | Estuaries   | Forest of Arrows    |
+| **8**   | Fens        | Frozen Waterfall    |
+| **9**   | Forests     | Fungal Forest       |
+| **10**  | Heathlands  | Half-Buried Ark     |
 | **11**  | Hills       | Hanging Valley      |
 | **12**  | Mangroves   | Inverted Lighthouse |
 | **13**  | Marshlands  | Leviathan Bones     |
@@ -365,22 +366,22 @@ Roll 2d20 and combine the results.
 
 ### Perilous
 
-Roll 2d20 and combine the results.
+Roll 1d20 for each column and combine the results.
 
 |         |                |                     |
 | ------- | -------------- | ------------------- |
 | **d20** | **Terrain**    | **Landmark**        |
 | **1**   | Alpine Meadows | Active Volcano      |
 | **2**   | Bogs           | Ammonia Caves       |
-| **3**   | Boulders       | Behemoth's Skull    |
+| **3**   | Boulders       | Bone Mountain       |
 | **4**   | Caverns        | Crystalline Forest  |
 | **5**   | Cliffs         | Dome of Darkness    |
 | **6**   | Craters        | Enormous Hive       |
 | **7**   | Crevasses      | Floating Object     |
 | **8**   | Geysers        | Inactive Automaton  |
 | **9**   | Glaciers       | Land Scar           |
-| **10**  | Gorges         | Large Thermal Vents |
-| **11**  | Hollows        | Magma Fields        |
+| **10**  | Gorges         | Large Vents         |
+| **11**  | Hollows        | Magma Sculptures    |
 | **12**  | Ice Fields     | Mao on the Mountain |
 | **13**  | Jungles        | Meteor Garden       |
 | **14**  | Lava Fields    | Obsidian Needle     |
@@ -393,8 +394,8 @@ Roll 2d20 and combine the results.
 
 #### Rivers, Seas, and Lakes
 
-Every region should have some kind of water source. Otherwise, where would the locals get their drinking water, or receive news from the rest of the realm? 
-- To create water, draw a wiggly line from the highest elevation point (i.e. Mountains) to the lowest (i.e. Plains). 
+Every region should have some kind of water source. Otherwise, where would the locals get their drinking water or receive news from the rest of the realm? 
+- To create waterways, draw a wiggly line from the highest elevation point (e.g. Mountains) to the lowest (e.g. Grassways). 
 - If the river runs through terrain that is higher in elevation, it might terminate in a **lake**. If your map has a sea, it might terminate there. Otherwise, the river can continue on off the map page.
 
 ### Weather
@@ -421,22 +422,22 @@ The weather can have a great impact on the people, culture, and terrain of a reg
 | **1**   | An annual fog appears randomly, turning metallic surfaces to gold on contact.                               |
 | **2**   | An aurora that is visible even during the day.                                                              |
 | **3**   | Birds fly backwards, yet somehow still move forward.                                                        |
-| **4**   | Days are erratic. The Sun goes backwards for a time, then jumps forward as night rapidly sets.              |
-| **5**   | Distant chimes instead of thunder. A smoky, sweet wind of no apparent origin blows in from the West.        |
+| **4**   | Days are erratic. The Sun goes backwards for a time, then jumps forward as night rapidly sets in.           |
+| **5**   | Distant chimes instead of thunder. A smoky, sweet wind blows in from the West.                              |
 | **6**   | Enormous, fleshy eyes peer down from the skies, their pupils lighting up the night sky.                     |
 | **7**   | Flashes of movement in the periphery that always amount to nothing.                                         |
-| **8**   | Fog there fills the belly (no need for rations). Tomorrow, vomiting.                                        |
-| **9**   | Lakes and streams dry up in minutes, filling storm clouds that drench the landscape.                        |
+| **8**   | Fog that fills the belly (no need for rations). Tomorrow, vomiting.                                         |
+| **9**   | Lakes and streams evaporate in minutes, filling storm clouds that drench the landscape.                     |
 | **10**  | Periodic rains of small aquatic creatures (tadpoles, frogs, small fish). No one knows where they come from. |
 | **11**  | Rainbows lack most of their colors, and occasionally flicker. Raindrops fall in various colors.             |
-| **12**  | Roaming, coughing, dust clouds that smell of cinnamon.                                                      |
-| **13**  | Shadows disappear at random. Animals are reluctant to enter.                                                |
+| **12**  | Rolling dust clouds that smell of cinnamon. The coughing lasts long after they've moved on.                 |
+| **13**  | Shadows disappear at random. Animals become more reluctant.                                                 |
 | **14**  | The air is thicker than usual, and breathing is difficult.                                                  |
 | **15**  | The clouds are shaped like faces. They appear to be laughing.                                               |
-| **16**  | The moon appears larger, and softly hums at night.                                                          |
+| **16**  | The moon appears larger and softly hums at night.                                                           |
 | **17**  | The rain glows gently at night. It can be gathered, but the light eventually fades.                         |
-| **18**  | The stars arrange themselves in intricate patterns, making navigation difficult.                            |
-| **19**  | The winds carry whispers of voices. Some say they tell hints of the future.                                 |
+| **18**  | The stars rearrange themselves in intricate patterns, making navigation difficult.                          |
+| **19**  | The winds carry whispers. Some say they tell hints of the future.                                 |
 | **20**  | When it snows, the flakes are warm and dry.                                                                 |
 
 ### Put It All Together
@@ -447,16 +448,16 @@ Ask yourself the following questions:
 - How do the people here think of outsiders? How do outsiders think of them?
 - What power do the Factions have over the people who live here?
 - Who or what threatens their agendas?
-- How would a faction interact with any newcomers (i.e. an adventuring party)?
+- How would a faction interact with any newcomers (e.g. an adventuring party)?
 - How does the region's terrain and weather effect the people that live here? 
 
 You should now have a sufficient idea about the people and terrain of this region, and are finally ready to form these results into a coherent theme. 
 
-For example, if my results described a people that were there religious and sought conversion, I'd assume they were a proud folk, but prone to religious extremes and proselytizing. And if their primary resources were land, yet spices were rare, I'd assume they grew their own food, but that due to a religious prohibition their cuisine was often bland.
+For example, if my results described a people that were religious and sought conversion, I'd assume they were a proud folk, prone to religious extremes and proselytizing. And if their primary resource was land, yet spices were rare, I'd assume they grew their own food, but due to a religious prohibition their cuisine was often bland.
 
-Presume that for Factions the result were a group of Nomads, with conviction their primary advantage. I could then assume that their elites were a class of religious chiefs. If the faction's agenda was to cultivate a rare resource, but they were hindered by cultural taboos, I might decide that they had hired the party to take on the task instead. Perhaps the object of their quest was a unique plant, only grown in a distant place, and that the mission must remain a secret? 
+Presume that for Factions the result were a group of Nomads, with conviction their primary advantage. I could then assume that their elites were a class of religious chiefs. If the faction's agenda was to cultivate a rare resource, but they were hindered by cultural taboos, I might decide that they had hired the party to take on the task instead. Perhaps the object of their quest was a unique plant, only grown in a distant place, and that the mission must remain a secret!
  
-Finally, the party would meet with one of the faction's agents, a spy posing as a peddler. Only she could tell them where the plant grew, and how to cultivate it. I keep in mind that this person should likely appear in the region's **Heart** (see below).
+Finally, the party would meet with one of the faction agents: a spy posing as a peddler. Only she could tell them where the plant grew, and how to cultivate it. I keep in mind that this person should likely appear in the region's **Heart** (see below).
 
 ## Points of Interest
 
@@ -491,7 +492,7 @@ Points of Interest on a map (or POIs) are generally divided into the following c
  
 ### Settlements
 
-Roll 2d20 and combine the results.
+Roll 1d20 for each column and combine the results.
 
 |         |                 |                               |
 | ------- | --------------- | ----------------------------- |
@@ -519,7 +520,7 @@ Roll 2d20 and combine the results.
 
 ### Waypoints
 
-Roll 2d20 and combine the results.
+Roll 1d20 for each column and combine the results.
 
 |         |               |                                  |
 | ------- | ------------- | -------------------------------- |
@@ -547,7 +548,7 @@ Roll 2d20 and combine the results.
 
 ### Curiosities
 
-Roll 2d20 and combine the results.
+Roll 1d20 for each column and combine the results.
 
 |         |                    |                        |
 | ------- | ------------------ | ---------------------- |
@@ -575,7 +576,7 @@ Roll 2d20 and combine the results.
 
 ### Lairs
 
-Roll 2d20 and combine the results.
+Roll 1d20 for each column and combine the results.
 
 |         |                     |                     |
 | ------- | ------------------- | ------------------- |
@@ -603,7 +604,7 @@ Roll 2d20 and combine the results.
 
 ### Dungeons
 
-Roll 2d20 and combine the results.
+Roll 1d20 for each column and combine the results.
 
 |         |               |              |
 | ------- | ------------- | ------------ |
@@ -658,7 +659,7 @@ Roll 2d20 and combine the results.
 
 ### Path Features
 
-Roll 2d20 and combine the results.
+Roll 1d20 for each column and combine the results.
 
 |         |                       |                              |
 | ------- | --------------------- | ---------------------------- |
