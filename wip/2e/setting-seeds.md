@@ -104,7 +104,7 @@ Agents are often in charge of completing one or more of the goals of the Agenda 
 
 #### Advantages
 
-Factions possess advantages that assist them in accomplishing their agenda. Advantages reflect a faction's influence, materials, wealth, and other unique features. Factions add or lose advantages by trying to complete their agenda, leveraging their advantages as much as possible to achieve their goals, and at the same time work to acquire _more_ advantages. Larger factions will
+Factions possess advantages that assist them in accomplishing their agenda. Advantages reflect a faction's influence, materials, wealth, and other unique features. Factions add or lose advantages by trying to complete their agenda, leveraging their advantages as much as possible to achieve their goals, and at the same time work to acquire _more_ advantages.
 
 #### Agendas
 
@@ -440,33 +440,14 @@ The weather can have a great impact on the people, culture, and terrain of a reg
 | **19**  | The winds carry whispers. Some say they tell hints of the future.                                 |
 | **20**  | When it snows, the flakes are warm and dry.                                                                 |
 
-### Put It All Together
-
-Ask yourself the following questions:
-
-- What would draw people to this region? What keeps them here?
-- How do the people here think of outsiders? How do outsiders think of them?
-- What power do the Factions have over the people who live here?
-- Who or what threatens their agendas?
-- How would a faction interact with any newcomers (e.g. an adventuring party)?
-- How does the region's terrain and weather effect the people that live here? 
-
-You should now have a sufficient idea about the people and terrain of this region, and are finally ready to form these results into a coherent theme. 
-
-For example, if my results described a people that were religious and sought conversion, I'd assume they were a proud folk, prone to religious extremes and proselytizing. And if their primary resource was land, yet spices were rare, I'd assume they grew their own food, but due to a religious prohibition their cuisine was often bland.
-
-Presume that for Factions the result were a group of Nomads, with conviction their primary advantage. I could then assume that their elites were a class of religious chiefs. If the faction's agenda was to cultivate a rare resource, but they were hindered by cultural taboos, I might decide that they had hired the party to take on the task instead. Perhaps the object of their quest was a unique plant, only grown in a distant place, and that the mission must remain a secret!
- 
-Finally, the party would meet with one of the faction agents: a spy posing as a peddler. Only she could tell them where the plant grew, and how to cultivate it. I keep in mind that this person should likely appear in the region's **Heart** (see below).
-
 ## Points of Interest
 
 Points of Interest on a map (or POIs) are generally divided into the following categories:  
 - **Heart**: The primary settlement in a region. It isn't necessarily the largest or most important place, but it should always be significant to the region's history and people. 
 - **Settlements**: Permanent, largely self-sufficient population centers, typically governed by a political body or faction. 
-- **Waypoints**: A safe place to refill supplies, get a good night's sleep, or get directions. Often rely on travelers for survival, but provide necessary services.
+- **Waypoints**: A safe place to refill supplies, get a good night's sleep, or get directions. Often rely on travelers for survival but provide necessary services.
 - **Curiosities**: A wilderness locale of note, somewhere remarkable or strange. It may indeed be hazardous, but only if the PCs interact with it.
-- **Lairs**: A source of heightened monster activity, enemy encampment, or hive.
+- **Lairs**: An enemy encampment, hive, or source of heightened monster activity.
 - **Dungeons**: An explicitly dangerous locale, dungeon, or adventure site.
 
 ### Draw Points of Interest
@@ -685,6 +666,23 @@ Roll 1d20 for each column and combine the results.
 | **19**  | Twisted               | Thick Evening Mist           |
 | **20**  | Ubiquitous Footprints | Uneven, Soggy Ground         |
 
-## Conclusion
+### Put It All Together
+
+Ask yourself the following questions:
+
+- What would draw people to this region? What keeps them here?
+- How do the people here think of outsiders? How do outsiders think of them?
+- What power do the Factions have over the people who live here?
+- Who or what threatens their agendas?
+- How would a faction interact with any newcomers (e.g. an adventuring party)?
+- How does the region's terrain and weather effect the people that live here? 
+
+You should now have a sufficient idea about the people and terrain of this region, and are finally ready to form these results into a coherent theme. 
+
+For example, if my results described a people that were religious and sought conversion, I'd assume they were a proud folk, prone to religious extremes and proselytizing. And if their primary resource was land, yet spices were rare, I'd assume they grew their own food, but due to a religious prohibition their cuisine was often bland.
+
+Presume that for Factions the result were a group of Nomads, with conviction their primary advantage. I could then assume that their elites were a class of religious chiefs. If the faction's agenda was to cultivate a rare resource, but they were hindered by cultural taboos, I might decide that they had hired the party to take on the task instead. Perhaps the object of their quest was a unique plant, only grown in a distant place, and that the mission must remain a secret!
+ 
+Finally, the party would meet with one of the faction agents: a spy posing as a peddler. Only she could tell them where the plant grew, and how to cultivate it. I keep in mind that this person should likely appear in the region's **Heart** (see below).
 
 Your first region is now complete. To expand your realm, repeat the process as many times as you wish.
