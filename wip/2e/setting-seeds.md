@@ -615,13 +615,13 @@ Roll 1d20 for each column and combine the results.
 
 ## Paths
 
-**Paths** act as geographic connectors on the map, ranging from well-traveled roads and trails to rough wilderness routes. Paths should provide compelling choices between POIs, who must weigh factors such as safety, speed, and travel difficulty. 
+**Paths** act as geographic connectors on the map, ranging from well-traveled roads and trails to rough wilderness routes. Paths should provide compelling choices between POIs, where factors such as safety, speed, and travel difficulty must be weighed. 
 
 ### Path Types
 
 - **Standard** paths are obvious or well-trod routes between two POIs. _Represented by a thick line._
 - **Hidden** paths do not appear on any known maps. Their discovery always requires some kind of cost. _Represented by a dashed line._
-- **Conditional** paths may be blocked, or requires specialized tools (boats, climbing gear, etc.) to cross. Others may even be impossible to navigate without a map or guide. _Represented by a crossed line._
+- **Conditional** paths may be blocked or require specialized tools (boats, climbing gear, etc.) to cross. Others may even be impossible to navigate without a map or guide. _Represented by a crossed line._
 
 ### Draw Paths
 
@@ -634,9 +634,9 @@ Roll 1d20 for each column and combine the results.
 - Decide whether a path represents a road, a trail, or a wilderness route and write the results in your notebook.
 - Roll on the [Path Features](#path-features) table for each path, writing the results in your notebook. 
 - Determine the path distances between POIs and note the duration on the map:
+  - A Watch is 8 hours long. Denote days between POIs wherever possible (typically two Watches and one rest per day of travel).
   - A short distance between POIs takes one Watch to traverse, a medium distance takes two Watches, and a long distance takes three Watches. 
   - For Trails add 1 more Watch, and for Wilderness routes add 2 additional Watches.
-  - A Watch is 8 hours long. Denote days between POIs wherever possible (typically two Watches and one rest per day of travel).
 
 ### Path Features
 
@@ -662,7 +662,7 @@ Roll 1d20 for each column and combine the results.
 | **15**  | Overgrown             | Passed Over Rapids           |
 | **16**  | Rusted Tools          | Poisonous Fruit              |
 | **17**  | Shriveled Away        | Smoke-filled                 |
-| **18**  | Smells of Smoke       | Steep Climb                  |
+| **18**  | Shredded              | Steep Climb                  |
 | **19**  | Twisted               | Thick Evening Mist           |
 | **20**  | Ubiquitous Footprints | Uneven, Soggy Ground         |
 
