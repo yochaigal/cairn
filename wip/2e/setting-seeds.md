@@ -262,20 +262,20 @@ The _Guild_ has been warned that a well-placed operative moves within their rank
 - By default, factions operate independent of the player character's actions. If the PCs do nothing, the faction should still act to achieve their aims.
 - The **Warden** should rely on the fiction to determine whether a faction is positioned to advance their agenda. 
 - Some goals may be time-sensitive or depend on explicit circumstances. Other times it might be more appropriate after a major event, alliance, or friction between one or more factions, etc.
-- Whenever a faction is positioned to advance a goal in their agenda, roll a **d12** on the [Faction Actions](#faction-actions) table. 
+- Whenever a faction is positioned to advance a goal in their agenda, roll a **d6** on the [Faction Actions](#faction-actions) table. 
 - If two factions are _opposed_, the faction _most at risk_ makes a WIL save, using the score of its highest-ranking agent. On a fail, the faction does not roll on the Faction Actions table at this time.
 
 #### Faction Actions
 
-|           |                   |                                                                |
-| --------- | ----------------- | -------------------------------------------------------------- |
-| **d12**   | **Consequence**   | **Impact**                                                     |
-| **1-2**   | **Failure**       | A new **Obstacle** is introduced, and a **Advantage** is lost. |
-| **3-4**   | **Setback**       | An **Advantage** is lost.                                      |
-| **5-6**   | **Status Quo**    | Nothing is gained, but nothing is lost.                        |
-| **7-8**   | **Mixed Success** | A **goal** is achieved,  but an **Advantage** is lost.         |
-| **9-10**  | **Success**       | A **goal** is achieved, and no **Advantages** are lost.        |
-| **11-12** | **Major Success** | A **goal** is achieved, and a new **Advantage** is found.      |
+|         |                   |                                                                |
+| ------- | ----------------- | -------------------------------------------------------------- |
+| **d12** | **Consequence**   | **Impact**                                                     |
+| **1**   | **Failure**       | A new **Obstacle** is introduced, and a **Advantage** is lost. |
+| **2**   | **Setback**       | An **Advantage** is lost.                                      |
+| **3**   | **Status Quo**    | Nothing is gained, but nothing is lost.                        |
+| **4**   | **Mixed Success** | A **goal** is achieved,  but an **Advantage** is lost.         |
+| **5**   | **Success**       | A **goal** is achieved, and no **Advantages** are lost.        |
+| **6**   | **Major Success** | A **goal** is achieved, and a new **Advantage** is found.      |
 
 > The actions of the PCs can always overrule the necessity for a **faction** action, or in some cases shift the outcome of the roll in a favorable or unfavorable direction. 
 
