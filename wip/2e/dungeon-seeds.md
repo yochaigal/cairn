@@ -11,8 +11,8 @@ search_exclude: true
 
 ## Dungeon Principles
 
-- **Purpose**: Consider what the dungeon's original purpose as well as what it being used for today. Demonstrate a dungeon's history by including signs of its original inhabitants and their goals. Sometimes a dungeon will have multiple purposes, and these can push against each other to create tension among its denizens.
-- **Levels**: Levels should represent both increased danger as well as thematic intent. On each level try to push players to weigh the risk of further exploration versus a potential reward.
+- **Purpose**: Consider what the dungeon's original purpose was, as well as what it is being used for today. Demonstrate a dungeon's history by including signs of its original inhabitants and their goals. Sometimes a dungeon will have multiple purposes, and these can collide against each other to create tension among its denizens.
+- **Levels**: Though they should make sense as part of the dungeon's construction and purpose, levels should also represent increasing danger. On each level, try to push players to weigh the risk of further exploration versus a potential reward. 
 - **Layout**: Create multiple entrances and exits, offer multiple routes, design choke points, and provide hiding spots. Add meaningful and obvious information to room entrances and exits.
 - **Verticality**: Incorporate tall rooms, climbable structures, and paths that allow movement around and over obstacles.
 - **Secret Areas**: Include hidden zones, including at least one that will likely remain undiscovered but is still worth finding. Try to avoid hiding crucial information behind secret rooms.
@@ -22,9 +22,9 @@ search_exclude: true
 - **NPCs**: Include engaging NPCs with their own goals and agendas. These characters may _want_ to stay in the dungeon; they may even love it! NPCs and monsters should communicate with the PCs, even during combat. Have them make threats, suggest compromises, or try to persuade the PCs whenever possible. Every character wants something, and has a limit to what they might do to get it. 
 - **Factions**: Factions should interact with both the characters and one another, acting on their own regardless of the character's actions. Give them hierarchies and divisions that can be exploited. 
 - **Puzzles**: Create puzzles that have clear, actionable goals. Puzzles should reinforce the themes of the dungeon and build on its history. Make the challenge of the puzzle obvious, but the solution less so. Allow for multiple solutions, and for players to solve them using intelligence and critical thinking, not just special abilities or tools. Create built-in clues suggesting the puzzle's origin and its effects. 
-- **The Dungeon Map**: Put boring or repetitive stuff (exits, room shapes, etc.) on the map. Obvious exits should be described using clear, distinct language. Number your rooms to help avoid confusion when referencing the map.
+- **The Dungeon Map**: Put boring or repetitive stuff (exits, room shapes, etc.) on the map, rather than in the room description. Obvious exits should be described using clear, distinct language. Number your rooms to help avoid confusion when referencing the map.
 - **Room Keying**: Emphasize a room's most important aspects (typically obvious threats or NPCs). Describe elements that help orient the party to their surroundings. Be specific, but avoid describing how the characters should _feel_. Only describe what's happening _now_. If there is history here, the characters will discover it in play. Name each room!
-- **Encounter Tables**: Create random events to help make a dungeon feel alive by making exploration tense and unpredictable, as parties may encounter wandering monsters, Factions, NPCs, or signs of an approaching threat. Try to provide challenges, moments of respite, or opportunities for roleplay. 
+- **Encounter Tables**: Create random events to help make a dungeon feel alive by making exploration tense and unpredictable, as parties may encounter wandering monsters, factions, NPCs, or signs of an approaching threat. Try to provide challenges, moments of respite, or opportunities for roleplay. 
 
 ## Creating a Dungeon
 
@@ -37,12 +37,12 @@ search_exclude: true
 > Going forward, we will refer to the sheet of paper as the **dungeon map**.
 > As with any other rule, if you don't like a table result, roll again or tweak as desired!
 
-Follow this procedure for any Dungeon POIs in your setting. Refer to the dungeon type table results from earlier, reading the results from your map. What image springs immediately to mind? Where is the dungeon is located? What does its entrance look like? Don't worry if you can't answer these questions yet. By the end of this process, you should be able to.
+Follow this procedure for any dungeon POIs in your setting. Refer to the dungeon type table results from earlier, reading the results from your map. What image springs immediately to mind? Where is the dungeon is located? What does its entrance look like? Don't worry if you can't answer these questions yet. By the end of this process, you should be able to.
 
 ### Overview
 
 1. Define the dungeon's original purpose, its construction, and finally its ruination.
-2. Define the dungeon's NPCs and Factions, including their unique traits and agendas.
+2. Define the dungeon's NPCs and factions, including their unique traits and agendas.
 3. Finalize the dungeon theme.
 4. Create the map.
 5. Stock the dungeon's rooms.
@@ -62,26 +62,26 @@ Roll 1d20 for each column and combine the results.
 |         |                              |                        |
 | ------- | ---------------------------- | ---------------------- |
 | **d20** | **Original Use**             | **Built By**           |
-| **1**   | Forge for a Great Weapon     | Immoral Sorcerers      |
-| **2**   | Ancestral Rites              | A Fallen Hero          |
-| **3**   | Arcane Library               | Heretical Monks        |
-| **4**   | Astral Trading Hub           | A Renowned Alchemist   |
-| **5**   | Bestial Creations            | A Royal Dynasty        |
-| **6**   | Breeding Grounds             | Inverted Astrologers   |
-| **7**   | Burial Site                  | Mob Families           |
-| **8**   | Celestial Observations       | Rogue Scholars         |
-| **9**   | Covert Experiments           | A Fanatical Cult       |
-| **10**  | Forbidden Trysts             | Desperate Rebels       |
-| **11**  | Hideout                      | Pilgrims to a Dead God |
-| **12**  | Isolated Refuge              | A Long-dead Poet       |
-| **13**  | Military Outpost             | Opulent Merchants      |
-| **14**  | Observatory                  | A Forgotten Empire     |
-| **15**  | Pilgrimage Site              | A Militant Order       |
-| **16**  | Protection of Rare Artifacts | A Secret Society       |
-| **17**  | Invasion of Dreams           | A Tyrannical Ruler     |
-| **18**  | Secret Meeting Place         | A Warrior Tribe        |
-| **19**  | Treasure Horde               | A Wealthy Recluse      |
-| **20**  | Impenetrable Vault           | Heretical Alchemists   |
+| **1**   | Ancestral Rites              | A Fallen Hero          |
+| **2**   | Arcane Library               | A Fanatical Cult       |
+| **3**   | Astral Trading Hub           | A Forgotten Empire     |
+| **4**   | Bestial Creations            | A Long-Dead Poet       |
+| **5**   | Breeding Grounds             | A Militant Order       |
+| **6**   | Burial Site                  | A Renowned Alchemist   |
+| **7**   | Celestial Observations       | A Royal Dynasty        |
+| **8**   | Covert Experiments           | A Secret Society       |
+| **9**   | Forbidden Trysts             | A Tyrannical Ruler     |
+| **10**  | Forge for a Great Weapon     | A Warrior Tribe        |
+| **11**  | Hideout                      | A Wealthy Recluse      |
+| **12**  | Impenetrable Vault           | Desperate Rebels       |
+| **13**  | Invasion of Dreams           | Heretical Alchemists   |
+| **14**  | Isolated Refuge              | Heretical Monks        |
+| **15**  | Military Outpost             | Immoral Sorcerers      |
+| **16**  | Observatory                  | Inverted Astrologers   |
+| **17**  | Pilgrimage Site              | Mob Families           |
+| **18**  | Protection of Rare Artifacts | Opulent Merchants      |
+| **19**  | Secret Meeting Place         | Pilgrims to a Dead God |
+| **20**  | Treasure Horde               | Rogue Scholars         |
 
 #### Construction
 
@@ -90,26 +90,26 @@ Roll 1d20 for each column and combine the results.
 |         |                       |                    |
 | ------- | --------------------- | ------------------ |
 | **d20** | **Entrance**          | **Construction**   |
-| **1**   | Cliff door            | Bone               |
-| **2**   | A Well                | Coral              |
-| **3**   | Underwater Tunnel     | Crystal            |
-| **4**   | Through a Painting    | Earth              |
-| **5**   | Skyward Beam of Light | Ethereal Fabric    |
-| **6**   | Cave                  | Flesh              |
-| **7**   | Starlight Path        | Floating Platforms |
-| **8**   | Mine Shaft            | Glass              |
-| **9**   | Illusory Wall         | Ice                |
-| **10**  | Veil of Mist          | Living Plants      |
-| **11**  | Behind a Waterfall    | Wood               |
-| **12**  | Hollow Statue         | Marble             |
-| **13**  | A Creature's Lair     | Metal              |
-| **14**  | Under a Bridge        | Obsidian           |
-| **15**  | Sinking Sand          | Sand               |
-| **16**  | Center of a Maze      | Shadow Material    |
-| **17**  | Between Menhirs       | Stone              |
-| **18**  | An Enormous Grave     | Webs               |
-| **19**  | A Massive Tree        | Petrified Wood     |
-| **20**  | A Dream               | Fungi              |
+| **13**  | A Creature's Lair     | Bone               |
+| **20**  | A Dream               | Coral              |
+| **19**  | A Massive Tree        | Crystal            |
+| **2**   | A Well                | Earth              |
+| **18**  | An Enormous Grave     | Ethereal Fabric    |
+| **11**  | Behind a Waterfall    | Flesh              |
+| **17**  | Between Menhirs       | Floating Platforms |
+| **6**   | Cave                  | Fungi              |
+| **16**  | Center of a Maze      | Glass              |
+| **1**   | Cliff door            | Ice                |
+| **12**  | Hollow Statue         | Living Plants      |
+| **9**   | Illusory Wall         | Marble             |
+| **8**   | Mine Shaft            | Metal              |
+| **15**  | Sinking Sand          | Obsidian           |
+| **5**   | Skyward Beam of Light | Petrified Wood     |
+| **7**   | Starlight Path        | Sand               |
+| **4**   | Through a Painting    | Shadow Material    |
+| **14**  | Under a Bridge        | Stone              |
+| **3**   | Underwater Tunnel     | Webs               |
+| **10**  | Veil of Mist          | Wood               |
 
 #### Ruination
 
@@ -127,13 +127,13 @@ Roll 1d20 for each column and combine the results.
 | **7**   | Divided          | Disease                     |
 | **8**   | Frozen           | Hedonism                    |
 | **9**   | Haunted          | Invasion                    |
-| **10**  | Infested         | Long-term Abandonment       |
+| **10**  | Infested         | Long-Term Abandonment       |
 | **11**  | Overgrown        | Magic Gone Awry             |
 | **12**  | Overpopulated    | Magical Seal                |
-| **13**  | Petrified        | Natural disaster            |
+| **13**  | Petrified        | Natural Disaster            |
 | **14**  | Plundered        | Natural Erosion             |
 | **15**  | Poisoned         | Obfuscation                 |
-| **16**  | Scorched         | Overrun With Monsters       |
+| **16**  | Scorched         | Overrun with Monsters       |
 | **17**  | Shrouded in Mist | Sudden Change in Climate    |
 | **18**  | Submerged        | Teleported to Another Realm |
 | **19**  | Unending         | Turned to Stone             |
@@ -141,13 +141,13 @@ Roll 1d20 for each column and combine the results.
 
 ### Dungeon Denizens
 
-Most dungeons will have creatures that _live_ there, and make it their home. The following table can be used to describe the general attitude of any or all of the intelligent creatures in the dungeon. Roll on the Traits table, writing the results in your notebook. This describes the general attitude of the creatures found in the dungeon.
+Most dungeons will have creatures that _live_ there and make it their home. The following table can be used to describe the general attitude of any or all of the intelligent creatures in the dungeon. Roll on the Traits table, writing the results in your notebook. This describes the general attitude of the creatures found in the dungeon.
 
-Meanwhile, every dungeon should have at least one NPC that stands out from all the others. These types _prefer_ the dungeon life over any other, but still act differently than their brethren. They should be NPCs that the party can interact, trade, hire, aid, and so on. These strange creatures can be deeply involved or entirely neutral towards the dungeon's other denizens and Factions. Roll on the Traits table again, writing the results in your notebook, keeping the following questions in mind: 
+Meanwhile, every dungeon should have at least one NPC that stands out from all the others. These types _prefer_ the dungeon life over any other, but still act differently from their brethren. They should be NPCs that the party can interact with, trade with, hire, aid, and so on. These strange creatures can be deeply involved or entirely neutral towards the dungeon's other denizens and factions. Roll on the Traits table again, writing the results in your notebook, keeping the following questions in mind: 
 
-_"What do we know about the creatures and Factions that occupy the dungeon?"_
+_"What do we know about the creatures and factions that occupy the dungeon?"_
 
-_"What is each Faction trying to achieve, and what stands in their way?"_
+_"What is each faction trying to achieve, and what stands in their way?"_
 
 #### Traits
 
@@ -156,7 +156,7 @@ Roll 1d20 for each column and combine the results.
 |         |                 |               |
 | ------- | --------------- | ------------- |
 | **d20** | **Virtues**     | **Vices**     |
-| **1**   | Compassionate   | Absent-minded |
+| **1**   | Compassionate   | Absent-Minded |
 | **2**   | Courageous      | Aloof         |
 | **3**   | Creative        | Critical      |
 | **4**   | Deductive       | Cynical       |
@@ -170,7 +170,7 @@ Roll 1d20 for each column and combine the results.
 | **12**  | Practical       | Perfectionist |
 | **13**  | Resilient       | Sarcastic     |
 | **14**  | Scholarly       | Selfish       |
-| **15**  | Self-sufficient | Skeptical     |
+| **15**  | Self-Sufficient | Skeptical     |
 | **16**  | Solid           | Stubborn      |
 | **17**  | Studious        | Superficial   |
 | **18**  | Suave           | Unfocused     |
@@ -179,7 +179,7 @@ Roll 1d20 for each column and combine the results.
 
 ### Dungeon Factions
 
-All dungeons should have one or more Factions with their own unique agenda, obstacles, leaders, and hierarchy.
+All dungeons should have one or more factions with their own unique agenda, obstacles, leaders, and hierarchy.
 
 #### Agendas
 
@@ -188,31 +188,33 @@ Roll 1d20 for each column and combine the results.
 |         |                |              |
 | ------- | -------------- | ------------ |
 | **d20** | **Goal**       | **Obstacle** |
-| **1**   | Ascension      | Sacrifice    |
-| **2**   | Creation       | Conflict     |
-| **3**   | Destruction    | Corruption   |
-| **4**   | Dominion       | Cost         |
-| **5**   | Enlightenment  | Danger       |
-| **6**   | Exploration    | Decay        |
-| **7**   | Growth         | Discord      |
-| **8**   | Innovation     | Division     |
-| **9**   | Justice        | Dogma        |
-| **10**  | Knowledge      | Exposure     |
-| **11**  | Liberation     | Factionalism |
-| **12**  | Peace          | Fear         |
-| **13**  | Power          | Ignorance    |
-| **14**  | Preservation   | Incompetence |
-| **15**  | Protection     | Injustice    |
-| **16**  | Redemption     | Isolation    |
-| **17**  | Revenge        | Opposition   |
+| **1**   | Ascension      | Conflict     |
+| **2**   | Creation       | Corruption   |
+| **3**   | Destruction    | Cost         |
+| **4**   | Dominion       | Danger       |
+| **5**   | Enlightenment  | Decay        |
+| **6**   | Exploration    | Discord      |
+| **7**   | Growth         | Division     |
+| **8**   | Innovation     | Dogma        |
+| **9**   | Justice        | Exposure     |
+| **10**  | Knowledge      | Factionalism |
+| **11**  | Liberation     | Fear         |
+| **12**  | Peace          | Ignorance    |
+| **13**  | Power          | Incompetence |
+| **14**  | Preservation   | Injustice    |
+| **15**  | Protection     | Isolation    |
+| **16**  | Redemption     | Opposition   |
+| **17**  | Revenge        | Sacrifice    |
 | **18**  | Survival       | Stagnation   |
 | **19**  | Transformation | Tradition    |
 | **20**  | Wealth         | Weakness     |
 
-## Create the Map
+## Build a Dungeon
+
+### Create the Map
 
 - Roll **6-20 d6** dice on the dungeon map, ignoring any dice that fall off the page. These are the dungeon's _rooms_.
-- Write the face-up results on the page according to the [Dungeon Die Drop Table](#dungeon-die-drop-table). For example, the number **4** would indicate a **Special** room, denoted by the letter "S" on the page.
+- Write the face-up results on the page using the [Dungeon Die Drop Table](#dungeon-die-drop-table). For example, the number **4** would indicate a **Special** room, which you can denote on the page with the letter "S."
   - If a room feels "too far" from the rest, roll another die and follow the previous process to add a new room.
 - Select the room closest to the page border. This is the _entrance_ to the dungeon.
 - Starting with the entrance, number each room on the dungeon map.
@@ -348,9 +350,9 @@ Roll 1d20 for each column and combine the results.
 | **1**   | Ages       | Activating    |
 | **2**   | Burns      | Breaking      |
 | **3**   | Captures   | Crossing      |
-| **4**   | Carries    | Extinguishing |
-| **5**   | Confuses   | Disturbing    |
-| **6**   | Crushes    | Entering      |
+| **4**   | Carries    | Disturbing    |
+| **5**   | Confuses   | Entering      |
+| **6**   | Crushes    | Extinguishing |
 | **7**   | Curses     | Focusing      |
 | **8**   | Cuts       | Interacting   |
 | **9**   | Deafens    | Stepping      |
@@ -386,7 +388,7 @@ We then roll on the **Purpose**, **Construction**, and **Ruination** tables and 
 
 ### Why was this dungeon built and what caused its downfall?
 
-_It was designed by an extremist cult of forest druids to house reality-altering Relic. Its entrance is beneath a false stone in a circle of menhirs deep in the forest. The walls and ceiling of the dungeon are built from petrified wood, as the ancient artifact affects living plants, warping them to its will. A division within the cult faced off over control of the Relic, but fell victim to their own hubris and nearly destroyed one another. When two opposing rituals collided, the temple was split in two, divided along Factional lines. The Relic was lost in the aftermath._
+_It was designed by an extremist cult of forest druids to house a reality-altering Relic. Its entrance is beneath a false stone in a circle of menhirs deep in the forest. The walls and ceiling of the dungeon are built from petrified wood, as the ancient artifact affects living plants, warping them to its will. A division within the cult faced off over control of the Relic, but fell victim to their own hubris and nearly destroyed one another. When two opposing rituals collided, the temple was split in two, divided along Factional lines. The Relic was lost in the aftermath._
 
 Continuing on to the current inhabitants of our dungeon, we get the following results (rolling for _two_ factions):
 
@@ -396,25 +398,25 @@ Continuing on to the current inhabitants of our dungeon, we get the following re
 
 ### What do we know about the creatures and Factions that occupy the dungeon?
 
-_The current denizens of this dungeon are the descendants of the original Factions, are typically pragmatic about their ceaseless war, and cannot imagine a way out._
+_The current denizens of this dungeon are the descendants of the original factions, are typically pragmatic about their ceaseless war, and cannot imagine a way out._
 
 ### What is each Faction trying to achieve, and what stands in their way?
 
-**The Crimson Path** would like to destroy their former brethren the **Azure Legion**, but are cowed by their opponent's prowess in battle. The Azure Legion feel great shame over the actions of their forebears, and believe that their redemption can only be achieved by way of finding and destroying the temple's hidden artifact. Unfortunately an ancient custom decrees that no one wearing the Azure cloth may seek the lost Relic.
+**The Crimson Path** would like to destroy their former brethren the **Azure Legion**, but are cowed by their opponent's prowess in battle. The Azure Legion feel great shame over the actions of their forebears, and believe that their redemption can only be achieved by way of finding and destroying the temple's hidden artifact. Unfortunately, an ancient custom decrees that no one wearing the Azure cloth may seek the lost Relic.
 
 ### Dungeon Theme
 
 With some idea on the history, purpose, and denizens of the dungeon, we finally have our theme. Let's put it all together:
 
-_Nestled within a dense, shrouded forest lies a temple made entirely of petrified wood. Built by a fanatical cult called the Children of Eolith, the temple was designed to protect the Woodturn, an ancient Relic that could turn any plant to stone. The cult eventually split into two opposing Factions, and when their dueling rituals collided the temple was shattered, with each Faction taking one half. Today the descendants of these factions still vie for control, destruction and redemption, but are hindered by power imbalances and ancient tradition._
+_Nestled within a dense, shrouded forest lies a temple made entirely of petrified wood. Built by a fanatical cult called the Children of Eolith, the temple was designed to protect the Woodturn, an ancient Relic that could turn any plant to stone. The cult eventually split into two opposing factions, and when their dueling rituals collided the temple was shattered, with each Faction taking one half. Today the descendants of these factions still vie for control, destruction, and redemption, but are hindered by power imbalances and ancient tradition._
 
-_The Crimson Path believe that if the original Relic were recovered, they might bend its power to destroy their the Azure Legion forever. However every attempt to plumb the temple's depths has been countered by their former brethren. A recent attack has left many of their number dead, and the remaining members have since fled the temple to regroup._
+_The Crimson Path believe that if the original Relic were recovered, they might bend its power to destroy the Azure Legion forever. However every attempt to plumb the temple's depths has been countered by their former brethren. A recent attack has left many of their number dead, and the remaining members have since fled the temple to regroup._
 
 _The Azure Legion feel a great sense of shame over their ancestor's actions and believe that if the original Relic were destroyed, the temple would be healed again and their shame expunged. Unfortunately, a long-standing tradition prohibits any members from seeking the Relic, so as to avoid the mistakes of the past._
 
-_In the center of the temple (between **3** and **4**) a massive crack (the Fracture) splits the dungeon in two, acting as a sort of demilitarized zone. Both Factions realize that only death lies across its threshold._
+_In the center of the temple (between **3** and **4**), a massive crack (the Fracture) splits the dungeon in two, acting as a sort of demilitarized zone. Both factions realize that only death lies across its threshold._
 
-_Hidden deep within the dungeon is a Relic called the **Woodturn**. It is capable of petrifying trees, wood, or other plant life through mere contact. If not properly contained it could turn an entire forest into a wasteland!_
+_Hidden deep within the dungeon is a Relic called the **Woodturn**. It is capable of petrifying trees, wood, or other plant life through mere contact. If not properly contained, it could turn an entire forest into a wasteland!_
 
 #### Hooks
 
@@ -468,13 +470,13 @@ Plush, **dust-covered** chairs and couches are arranged in a semi-circle around 
 
 **Monster**: _Lizard_. _Recuperating_.
 
-A Basilisk sleeps on a nest built atop a slab of **wall** on the East side of the room. In the center of the room is a tall glass **cage** runs from the floor to the **ceiling**. A long, broken **chain** is attached to the South wall.
+A basilisk sleeps on a nest built atop a slab of **wall** on the East side of the room. In the center of the room, a tall glass **cage** runs from the floor to the **ceiling**. A long, broken **chain** is attached to the South wall.
 
-- **Basilisk**: Recuperating after having just birthed a new clutch of three new eggs.
-  - She warms her eggs by sitting atop them, and will not leave them for very long. 
-  - The eggs are worth 1000gp each. They _bulky_ and extremely fragile.
+- **Basilisk**: Recuperating after having just birthed a new clutch of three eggs.
+  - She warms her eggs by sitting atop them and will not leave them for very long. 
+  - The eggs are worth 1000gp each. They are _bulky_ and extremely fragile.
 - **Wall**: The passage East is still accessible, despite having collapsed. The Basilisk is too large to traverse the rubble.
-- **Cage**: Acts as an observation chute from **2**, where new acolytes were lowered into the chamber and forced to encounter the Basilisk.
+- **Cage**: Acts as an observation chute from **2**, where new acolytes were lowered into the chamber to observe the Basilisk.
 - **Chain**: Once used to trap the Basilisk here.
 
 ### Basilisk
@@ -489,7 +491,7 @@ A Basilisk sleeps on a nest built atop a slab of **wall** on the East side of th
 
 **Trap**: _Poisons_. _Stepping_.
 
-The withered **corpse** of a man is stretched atop a large butcher block. A **sconce** on the West wall burns twin blue flames over the West exit. Open **cupboards** stand at knee-height on the North wall.
+The withered **corpse** of a man is stretched atop a large butcher block. A **sconce** on the West wall, over the West exit, burns with twin blue flames. Open **cupboards** stand at knee-height on the North wall.
 
 - **Corpse**: Dressed in the Red Robes of the Crimson Path. Looks at least two weeks dead.
   - There are no obvious wounds or markings, save for a green crust around the man's lip.
@@ -502,13 +504,13 @@ The withered **corpse** of a man is stretched atop a large butcher block. A **sc
 
 **Lore**: _Study_. _Decor_.
 
-Bookshelves wrap around every inch of wall, heaps of **books** stacked on dusty **shelves**. An unlit **candelabra** hangs from the ceiling.
+Bookshelves wrap around every inch of wall, their dusty **shelves** stacked with heaps of **books**. An unlit **candelabra** hangs from the ceiling.
 
+- **Shelves**: Despite the lack of furniture, the room looks like it may have been a well-used study at one time.
 - **Books**: Untouched for decades. Clearing the dust from the spines reveal all manner of subjects.
   - Nearly every word in every book has been blacked out in stark black.
-- **Shelves**: Despite the lack of furniture, the room looks like it may have been a well-used study at one time.
 - **Candelabra**: Unusual design, worth 500gp (four slots, brittle). 
-  - The candles (5 uses) are still accessible (assuming they can be reached). When lit, they produce around 20ft of darkness that is impenetrable my non-magical light. They were placed here as a final insult against the old study.
+  - The candles (5 uses) are still accessible (assuming they can be reached). When lit, they produce around 20ft of darkness that is impenetrable by non-magical light. They were placed here as a final insult against the old study.
 
 ### 6 - The Fractured Hall
 
@@ -563,13 +565,13 @@ The floor is heavily broken, segmented by raised **tiles** of petrified flooring
 
 **Special**: _Mirror_. _Opens_.
   
-A **mirror** hangs off a **track** on the West wall. A large **hole** is dug into the ground on the East side.
+A **mirror** hangs on a **track** on the West wall. A large **hole** is dug into the ground on the East side.
 
 **Track**: Runs in a full circle around the room, allowing the mirror to be moved along the track.
 - **Mirror**: If moved to the North wall, the reflection will reveal a small, invisible alcove on the South side.
   - The alcove is hidden behind an otherwise illusory piece of wall. Hidden inside is the **Woodturn**. 
   - If damaged, the mirror will explode (d6 damage to any nearby). The victim is _deprived_, and their cuts do not heal until they have left the temple.
-- **Hole**: Tunnel to **C8** (30ft).
+- **Hole**: Tunnel to **8** (30ft).
 
 #### Woodturn
 
