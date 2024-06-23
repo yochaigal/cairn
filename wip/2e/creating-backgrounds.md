@@ -24,11 +24,11 @@ In Cairn, a PC's Background is the most important element of their character, re
 
 ### Theme
 
-Prepare a list of common adjectives that describe your new Background. If designing a profession, ask yourself what would lead someone to take on such a career. If writing something more unique (such as the Half-Witch, for example), consider how such a person's strangeness would alienate them from others, or bring them closer. And as you write the Background's starting gear and tables, keep in mind how the game world's implied setting, inspirational materials (books, film, etc.), and existing tropes might influence the results.
+Prepare a list of common adjectives that describe your new Background. If designing a profession, ask yourself what would lead someone to take on such a career. If writing something more unique (such as the Half-Witch, for example), consider how such a person's strangeness would alienate them from others or bring them closer. And as you write the Background's starting gear and tables, keep in mind how the game world's implied setting, inspirational materials (books, film, etc.), and existing tropes might influence the results.
 
 ### Starting Gear
 
-Characters in Cairn are largely defined by their inventory, so starting gear is should be the first place to start painting a Background's unique canvas. Each Background has:
+Characters in Cairn are largely defined by their inventory, so starting should be the first place to start painting a Background's unique canvas. Each Background has:
 - Gold, food, and some kind of light source. These should still be unique; a Background might start with unusual Rations, a candle helmet, and so on. 
 - Up to four _unique_ items that reinforce the overarching theme. At least one of these items should be a weapon of some kind. 
 - Starting items should occupy no more than seven slots in total, so as to not overburden a character's inventory.

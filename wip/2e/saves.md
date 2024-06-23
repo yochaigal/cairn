@@ -20,10 +20,10 @@ There are three common scenarios in which a player character should save:
 
 ## Save Principles
 
-- When in doubt, ask whether the party has the time, resources, skills, or advantage to overcome a problem. If the answer is "no," then a save is usually warranted. If the answer is "I don't know" then a roll with the Die of Fate may be necessary.
+- When in doubt, ask whether the party has the time, resources, skills, or advantage to overcome a problem. If the answer is "no," then a save is usually warranted. If the answer is "I don't know," then a roll with the Die of Fate may be necessary.
 - Feel free to say "no," but remember to offer an alternative. If the party cannot proceed due to circumstances beyond their control, give them another option to consider.
 - Character death should never come as a surprise. If the risk is so great that the outcome might be fatal, make sure the player understands what they're getting into.
-- Always provide _must_ multiple viable options for the PCs to choose from. The more choices, the more interesting the situation becomes.
+- Always provide multiple viable options for the PCs to choose from. The more choices, the more interesting the situation becomes.
 - The outcome of a save need not be a simple binary. You can tailor the results based on the totality of input: the effort, forethought, resources, and skill that went into the roll.
 - Be transparent with players. This doesn't mean revealing all of the world's secrets, but provide each player with the maximum information their character might have.
 - Avoid requiring a dice roll whenever possible. If a PC can solve a problem using purely narrative components, _do not ask for a roll_.
@@ -83,7 +83,7 @@ There are three common scenarios in which a player character should save:
 
 **Warden**: _"Indeed. You can spend the night trying to make connections among your kind, if you like._"
 
-> The party splits up, and Freya learns what she needs to from a local fence (it costs her one of the Twins, and she is not happy about it). Lucius is waiting in a jail beneath the constabulary awaiting his sentence. 
+> The party splits up, and Freya learns what she needs to from a local fence. (It costs her one of the Twins, and she is not happy about it). Lucius is awaiting his sentence in a jail beneath the constabulary.
 
 **Warden**: _"In the dim light of the early dawn, you notice a note slipped through the street vent. It reads, 'Speak the following, and you will be free: "The Pale Man Longs To Die." You have but one chance.'"_
 
@@ -103,7 +103,7 @@ There are three common scenarios in which a player character should save:
 
 **Warden**: _"The jailer stops in his tracks, then lowers the manacles. He nods once, then gestures that you follow him."_
 
-**Lucius**: _"Well, that was lucky. What is this some code for jailers? Executioners? Well, whatever it is, I'm following."_
+**Lucius**: _"Well, that was lucky. What is this, some code for jailers? Executioners? Well, whatever it is, I'm following."_
 
 **Warden**: _"The jailer guides you into the darkness of the jail, far from the light. As he reaches the far wall, he taps three times on a stone high above his head. After a moment, the wall swings inward, and the guard walks confidently inside, where a dark-haired woman waits at a desk. She smiles at you, and gestures that you sit at the chair across from her."_
 
@@ -111,15 +111,15 @@ There are three common scenarios in which a player character should save:
 
 **Warden**: _The jailor leaves as you take a seat. The room is small, with only one door on the other side of the woman. A very large man stands outside, his head visible through a small window on the door. The woman smiles again, saying, 'Welcome Mr... Well, it doesn't matter. There is only one reason you are here. You've spoken a code known only to thieves and scoundrels. And which one are you, I wonder?"_
 
-**Lucius**: _"What happens now? I don't have anything to barter... Except for perhaps the truth? But that means I have to make a WIL save, right? So that I seem "convincing?"_
+**Lucius**: _"What happens now? I don't have anything to barter... Except for perhaps the truth? But that means I have to make a WIL save, right? So that I seem 'convincing?'"_
 
 **Warden**: _"You'd need to make a WIL save even if you weren't telling the truth. You're definitely the most at risk here, and despite your experience as a charlatan, you think she can probably see through any lie. She and you might not be so different."_
 
-**Lucius**: _"OK. Madam: I'll be straight with you. My friends and I are here to sneak into the vault of Der Thunn. I only learned of that phrase a few minutes ago, I believe one of my friends (a cutpurse named Freya, you might know her) left me that note. If you set me free, I'll be sure to mention... what's your name, again?"_
+**Lucius**: _"OK. Madam: I'll be straight with you. My friends and I are here to sneak into the vault of Der Thunn. I only learned of that phrase a few minutes ago. I believe one of my friends (a cutpurse named Freya, you might know her) left me that note. If you set me free, I'll be sure to mention... what's your name, again?"_
 
 **Warden**: _"Katja. And please, tell me everything._"
 
-> Lucius describes the party's goal, and their efforts so far. He makes a WIL save. He rolls a 5, a success! Katja is convinced of his sincerity.
+> Lucius describes the party's , and their efforts so far. He makes a WIL save. He rolls a 5, a success! Katja is convinced of his sincerity.
 
 **Warden** _"As she listens to your story, Katja frowns, then finally smiles. 'Alright, alright, I believe you. Let's make a deal! You introduce me to this "client" of yours whom you've so kindly escorted into my town, and I'll make sure no one is watching while you slip away. But we have to go right now, before this place implodes. And if that happens, even I can't guarantee your safety..."_ 
 
@@ -127,11 +127,11 @@ There are three common scenarios in which a player character should save:
 
 ## Opposed Saves
 
-> The party has cornered their opponents (two Bandits and their Hobgoblin chief) against a steep cliff side. Lucius and Wolfram are able to take their turns right away, but Lucius failed her initial DEX save and has to go after their opponents. As her friends take on each of their smaller foes, she only narrowly avoids getting her head bashed in by the Hobgoblin!
+> The party has cornered their opponents (two Bandits and their Hobgoblin chief) against a steep cliff side. Lucius and Wolfram are able to take their turns right away, but Freya failed her initial DEX save and has to go after their opponents. As her friends take on each of their smaller foes, she only narrowly avoids getting her head bashed in by the Hobgoblin!
 
 **Freya**: _"I don't think I can survive another bout with their leader, so I'm going to try and knock him off the cliff!"_
 
-**Warden**: _"You are most at risk in this situation, meaning that if you try and push him you will need to make the appropriate save!"_
+**Warden**: _"You are most at risk in this situation, meaning that if you try and push him, you will need to make the appropriate save!"_
 
 **Freya**: _"And if I fail, I go off the cliff, right? Alright.. I think I can do this. But just in case, I'm going to make sure I'm wearing my Catring!"_
 
@@ -145,7 +145,7 @@ There are three common scenarios in which a player character should save:
 
 > The party have just arrived at the entrance to the second level of a long-forgotten mountain tomb. Freya leads the group, followed by Lucius, then Wolfram taking up the rear. Wolfram holds a lit torch, but the others have their hands free.
 
-**Warden**: _"The path to the North veers over a twisted archway positioned atop a dark chasm. To the East a rocky path leads downward into the murk below. What do you do?"_
+**Warden**: _"The path to the North veers over a twisted archway positioned atop a dark chasm. To the East, a rocky path leads downward into the murk below. What do you do?"_
 
 **Wolfram**: _"Our quarry is said to be at the top of this blasted place! I think we should press on to the North."_
 
@@ -159,14 +159,14 @@ There are three common scenarios in which a player character should save:
 
 **Warden**: _"You and Lucius are the farthest ahead and likely the least at risk. But Freya is last, and will need to make a DEX save to arrive there safely."_
 
-**Freya**: _"You just had to take the lead, didn't you Wolfie? I have a rope, do I have time to toss it to one of the others?"_
+**Freya**: _"You just had to take the lead, didn't you Wolfie? I have a rope. Do I have time to toss it to one of the others?"_
 
-**Warden**: _"Yes, you can do that. Wolfram had his hands full, so Lucius is your best bet. I'm going to rule that you can easily throw a rope to him, but that a STR save will be required instead. And as you will be the most at risk, you will need to make the save."_
+**Warden**: _"Yes, you can do that. Wolfram has his hands full, so Lucius is your best bet. You can easily throw a rope to him, but a STR save will be required. As you will be the most at risk, you will need to make the save."_
 
-**Freya**: _"A friend and a rope still seems like a better deal than the alternative, so I'll take it!"_
+**Freya**: _"A friend and a rope still seems like a good deal to me. Let's do it!"_
 
 > Freya rolls a 5: a success!
 
-**Warden**: _"As the bridge collapses, Wolfram and Lucius dash to the opposite side with Freya right behind. Just as the ground disappears beneath her feet she tosses Lucius her rope. As the bridge collapses behind her she slams into the wall, hanging onto the rope for dear life. Slowly, Freya climbs along the wall, panting as she strains to reach the ledge only a few feet above her. Finally, she pulls herself onto the dusty floor."_
+**Warden**: _"As the bridge collapses, Wolfram and Lucius dash to the opposite side with Freya right behind. Just as the ground disappears beneath her feet she tosses Lucius her rope. As the bridge collapses, she slams into the wall, hanging onto the rope for dear life. Slowly, she climbs along the wall, straining to reach the ledge a few feet above her. Finally, she pulls herself onto the dusty floor."_
 
 **Freya**: _"That was fun. What's next?"_

@@ -17,7 +17,7 @@ In Cairn, wilderness exploration and travel is mostly abstract, hand-waving away
 
 The party is escorting an NPC between two POIs: a small village situated in the grasslands to a stronghold at the base of an impressive valley. The short journey should only take one day, as travel is limited to _Easy_ terrain and is along a clear _Trail_ all the way. 
 
-> At the start of the day the Warden rolls for the local weather, then adjudicates its potential impacts on the journey that day. It is overcast and breezy (no impact). After each of the following **Wilderness Actions** the party rolls 1d6 to see if they get lost, and the Warden rolls on the **Wilderness Events Table**.
+> At the start of the day, the Warden rolls for the local weather, then adjudicates its potential impacts on the journey that day. It is overcast and breezy (no impact). After each of the following **Wilderness Actions,** the party rolls 1d6 to see if they get lost, and the Warden rolls on the **Wilderness Events Table**.
 
 #### Day One / Watch One 
 

@@ -15,7 +15,7 @@ Cairn differs from many modern roleplaying games by not including mechanics for 
 
 ## Knowledge
 
-Character knowledge is limited only by what can be explained by elements in the fiction. If it is known that a PC comes from an impoverished background and learned how to survive by any means necessary, then their player may argue that their character is better able track down a notable NPC hiding in the slums. They may know whom to speak to and what sorts of trades might be required to collect the information they need about their target's whereabouts. 
+Character knowledge is limited only by what can be explained by elements in the fiction. If it is known that a PC comes from an impoverished background and learned how to survive by any means necessary, then their player may argue that their character is better able to track down a notable NPC hiding in the slums. They may know whom to speak to and what sorts of trades might be required to collect the information they need about their target's whereabouts. 
 
 If a character has no justifiable knowledge of a subject, then they simply do not know anything about it! However, the Warden may decide to roll the **Die of Fate** to determine if the character has a chance of knowing _something_. The higher the result, the more they might (reasonably) know.
 
@@ -25,11 +25,11 @@ When a character first acquires a Relic they are not familiar with, they can eit
 
 ## Perception
 
-When informing the players of what their PCs can perceive the Warden should provide maximal sensory information pertaining to the objects, characters, dangers, and interactive elements in the given situation. Consider what can be gained by limiting what the PCs know or do not know. Do secrets help create interesting choices and decision points? Do they raise interesting questions? Do they give the players a sense of control over their own actions? The answer to these questions is almost always an emphatic _No_. 
+When informing the players of what their PCs can perceive, the Warden should provide maximal sensory information pertaining to the objects, characters, dangers, and interactive elements in the given situation. Consider what can be gained by limiting what the PCs know or do not know. Do secrets help create interesting choices and decision points? Do they raise interesting questions? Do they give the players a sense of control over their own actions? The answer to these questions is almost always an emphatic _No_. 
 
 Players should feel that the consequences of their character's actions are _earned_, and that they are _deserved_, even if the results aren't always in their favor. True agency comes from providing the players with everything they need to know to make an interesting decision, even if that is simply asking a question about what their character might perceive. 
 
-Take for example the followed keyed location:
+Take for example the following keyed location:
 
 A colony of **bees** furiously circle a massive hive hanging from the branch of a large oak tree. A **man** observes in the shadows beneath the tree, and a rusted **sword** lies on the ground not far from the tree.
 

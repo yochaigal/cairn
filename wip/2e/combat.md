@@ -13,10 +13,10 @@ search_exclude: true
 
 Combat in Cairn is fast, hectic, and often lethal. In addition, the rules of combat are unique in a few key ways:
 
-- **Side Initiative**. With the exception of the first round (where PCs must first save DEX to secure their turn), both the PCs and their opponents take turns acting together. The results of a side's individual actions occur simultaneously.
-- **Attacks Automatically Hit**. Combatants typically deal damage to their targets automatically, without rolling to see whether an attack "hits." When multiple attackers target the same foe, only the highest dice result is used in the attack.
-- **Hit Protection & Scars**. Hit Protection acts as a measurement of skill, stamina, resilience, and luck. It also refills automatically when the PC is safe and comfortable. If damage reduces a PC's HP to exactly 0 they receive a _Scar_, which can yield both positive and negative consequences.
-- **Critical Damage**. Damage that reduces a target’s HP below zero is subtracted from their STR by the amount of damage remaining. The target must then immediately make a STR save to avoid taking Critical Damage, using their new STR score. On a fail, the target is defeated.
+- **Side Initiative**: With the exception of the first round (where PCs must first save DEX to secure their turn), both the PCs and their opponents take turns acting together. The results of a side's individual actions occur simultaneously.
+- **Attacks Automatically Hit**: Combatants typically deal damage to their targets automatically, without rolling to see whether an attack "hits." When multiple attackers target the same foe, only the highest dice result is used in the attack.
+- **Hit Protection and Scars**: Hit Protection acts as a measurement of skill, stamina, resilience, and luck. It also refills automatically when the PC is safe and comfortable. If damage reduces a PC's HP to exactly 0, they receive a _Scar_, which can yield both positive and negative consequences.
+- **Critical Damage**: Damage that reduces a target’s HP below zero is subtracted from their STR by the amount of damage remaining. The target must then immediately make a STR save to avoid taking Critical Damage, using their new STR score. On a fail, the target is defeated.
 
 ## Example
 
@@ -28,9 +28,9 @@ Combat in Cairn is fast, hectic, and often lethal. In addition, the rules of com
 
 **Lucius**: _"Come now, we don't know that there is an immediate danger. Right?"_
 
-**Wolfram**: _"It doesn't matter, we must be prepared for whatever comes next. Keep your weapons down, and I'll make a shout. Perhaps we can avoid bloodshed yet."_
+**Wolfram**: _"It doesn't matter, we must be prepared for whatever comes next. Keep your weapons down, and I'll a shout. Perhaps we can avoid bloodshed yet."_
 
-**Warden**: _"You bark a traditional warning in the direction of the barrow. There is no immediate response, then only a snicker. They appear to be laughing at you! Moments later, three figures step out of the mist and directly into your line of view, each brandishing a weapon. The largest of the three grins as he wields a two-handed war ax, and the other two (a man and woman that are clearly siblings) carry identical swords. Everyone roll a DEX save to see if you can act before they do."_
+**Warden**: _"You bark a traditional warning in the direction of the barrow. There is no immediate response, then only a snicker. They appear to be laughing at you! Moments later, three figures step out of the mist and directly into your line of view, each brandishing a weapon. The largest of the three grins as he wields a two-handed war ax, and the other two (a man and woman who are clearly siblings) carry identical swords. Everyone roll a DEX save to see if you can act before they do."_
 
 > Wolfram, Lucius, and Freya each save DEX to see whether they can take a turn in the first round. Wolfram and Freya succeed, but Lucius does not.
 
@@ -58,7 +58,7 @@ Combat in Cairn is fast, hectic, and often lethal. In addition, the rules of com
 
 **Lucius**: _"You sound a little too excited about this. OK, it says I need to roll 1d6... I got a 3, which indicates DEX. Now I need to roll 3d6, and if the total is greater than my current Dexterity score, I get to keep it, right? Alright... hey, a 14! That's slightly higher than what I have already! Maybe getting knocked in the head isn't all that bad?"_
 
-**Warden**: _"Perhaps. One point fewer and you'd have been diseased, and one point greater and you'd lose your hearing for a while. Anyway, write down your new DEX score. You really are lucky, you know that? Anyway, it's now time for the PCs to act again."_
+**Warden**: _"Perhaps. One point fewer and you'd have been diseased, and one point greater and you'd lose your hearing for a while. Write down your new DEX score. You really are lucky, you know that? Anyway, it's now time for the PCs to act again."_
 
 **Wolfram**: _"I shall riposte against the shorter man!"_
 
@@ -80,4 +80,4 @@ Combat in Cairn is fast, hectic, and often lethal. In addition, the rules of com
 
 > The party bandage up the woman, stabilizing her. Had they not, she would have bled out within the hour. Now out of danger, the PCs take a quick swig of water and regain their lost HP. Lucius tries to impress Freya by showing off the new battle scar on his eyebrow, but it doesn't work.
 
-**Wolfram**: _"Alright, that's all sorted then. You lot make your way back to town and we'll convene later. For now, we've got business with this Cutlass King I've read so much about."_
+**Wolfram**: _"Alright, that's all sorted then. You lot make your way back to town, and we'll convene later. For now, we've got business with this Cutlass King I've read so much about."_

@@ -11,13 +11,13 @@ search_exclude: true
 
 ## Principles
 
-- Always clarify what is about to happen. Does that flaming barrel look stable, or like it might explode at any minute? 
+- Always clarify what is about to happen. Does that flaming barrel look stable or like it might explode at any minute? 
 - Regularly restate a character's surroundings, where they are in physical space, and what their senses are detecting. 
 - Describe obvious threats and NPCs first, followed by any distinct and memorable objects in each room. 
 - Do not tell characters how they should feel, and only tell them what's happening right now, before their eyes.
 - Provide hints about what lies beyond the next corridor, including odors, sounds, and elevation.
 - Ensure that the players understand their character's place in the Dungeon Cycle. Remind them who has already moved, who has yet to take an action, and so on. 
-- The cost of dungeon exploration is paid in turns. If the party spends too long in one place, acts without caution, makes noise, or enters a new area they risk a roll on the Dungeon Events table. Players should always be made aware of the cost.
+- The cost of dungeon exploration is paid in turns. If the party spends too long in one place, acts without caution, makes noise, or enters a , they risk a roll on the Dungeon Events table. Players should always be made aware of the cost.
 
 ## Dungeon Exploration Example
 
@@ -44,7 +44,7 @@ A wide courtyard exposed to the **open air**. The **ground** is sandy and rough.
 **Lucius**: _"I'll check out the wooden **door**, to see if I can figure out what's on the other side."_ 
 **Freya**: "_I'm going to get a better look at that **statue**. What can I learn without actually getting too close?"_ 
 
-**Warden**: _"Alright, let's start with **Wolfram**. The sand is white, grainy, and clearly not from any beach 'round these parts. Starting at a small lump in the ground, you recognize a half-decayed human skull, meaning that this "sand" is actually bone! What do you do now?"_
+**Warden**: _"Alright, let's start with **Wolfram**. The sand is white, grainy, and clearly not from any beach 'round these parts. Starting at a small lump in the ground, you recognize a half-decayed human skull, meaning that this 'sand' is actually bone! What do you do now?"_
 
 **Wolfram**: _"Gross. I'm gonna poke at it a bit with my sword. Is there is anything hidden in the dust? Something valuable, maybe?"_
 
@@ -74,7 +74,7 @@ A wide courtyard exposed to the **open air**. The **ground** is sandy and rough.
 
 **Freya**: _"Right, remember that I'd like to take a look, but I don't want to get too close."_
 
-**Warden**: _"You step about five feet away from the Statue. The face looks chipped away, and one of the eyes is missing entirely. However embedded in the other is a beautiful red jewel! The statue holds a white bident in its hands. Do you interact with the statue further, or move along?"_
+**Warden**: _"You approach until you are about five feet away from the Statue. The face looks chipped away, and one of the eyes is missing entirely. However embedded in the other is a beautiful red jewel! The statue holds a white bident in its hands. Do you interact with the statue further, or move along?"_
 
 **Freya**: _"That's just creepy! I want no part in this, at least not until we learn more about what this room was for. I'd like to investigate that rubble you mentioned before."_ 
 
@@ -103,9 +103,13 @@ A wide courtyard exposed to the **open air**. The **ground** is sandy and rough.
 **Freya**: _"I'll quickly put the jewel in my backpack_."
 
 **Wolfram**: _"I think we should head down that stone archway to the West. We can always circle back to this room on our way out._"
+
 **Freya**: _"Hang on, what about this jewel I discovered? It looks like it could go in that statue's eye..."_
+
 **Lucius**: _"What are you, nuts? For all we know that statue will come to life and attack!"_
+
 **Freya**: _"Or maybe it'll open a secret door?_"
+
 **Wolfram**: _"Enough, let's just move on for now. There is something on the other side of that door, and I do NOT want to find out what!"_
 
 > **The party moves on to the adjoining hall and the adventure continues.**

@@ -9,7 +9,7 @@ search_exclude: true
 
 # Pointcrawls
 
-Pointcrawls are a way of displaying potential points of interest on a map, including their entrances, exits, and connecting paths. Unlike hexcrawls which provide omnidirectional paths by default, pointcrawls provide a set number of focused routes between locations. This approach abstracts some of the elements common to wilderness exploration, while maintaining the more interesting tidbits.
+Pointcrawls are a way of displaying potential points of interest on a map, including their entrances, exits, and connecting paths. Unlike hexcrawls, which provide omnidirectional paths by default, pointcrawls provide a set number of focused routes between locations. This approach abstracts some of the elements common to wilderness exploration, while maintaining the more interesting tidbits.
 
 Although the standard setting generation procedures in this book assume a pointcrawl by default, most old school adventures do not. Some are hex maps that vary in length, while others simply indicate distances using miles. Fortunately it's fairly simple to convert almost any map into a pointcrawl.   
 
@@ -20,7 +20,7 @@ The following method relies heavily on the Wilderness Exploration procedures in 
 
 - Number any potential points of interest on the map.
 - Identify potential routes between each point, noting obvious roads, trails, and waterways. Indicate any sites that lack connecting routes to other points. 
-- Indicate the rough travel time (in days) between any two points, accounting for the party's speed, terrain, weather, and other elements of play that might affect the journey. 
+- Indicate the rough travel time (in Watches or days of travel) between any two points, accounting for the party's speed, terrain, weather, and other elements of play that might affect the journey. 
 
 ### Example
 
