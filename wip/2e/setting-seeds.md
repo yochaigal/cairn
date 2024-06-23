@@ -11,7 +11,7 @@ search_exclude: true
 
 ## Overview
 
-The following procedure is designed to help create the _seed_ of a setting: the unique topography, natural features, people, and paths that an adventuring party may have to navigate as they travel throughout a region. We'll start by develop the people that live there, their ambitions and resources, and the factions that rule them. Then we'll generate the terrain of your region, followed by its various points of interest, landmarks, roads, trails, and so on.
+The following procedure is designed to help create the _seed_ of a setting: the unique topography, natural features, people, and paths that an adventuring party may encounter as they travel throughout a region. We'll start by developing the people that live there, their ambitions and resources, and the factions that affect them. Then we'll generate the terrain of your region, followed by its various points of interest, landmarks, roads, trails, and so on. As with any other rule, if you don't like a table result, roll again or tweak as desired!
 
 ## Example
 
@@ -25,12 +25,9 @@ A **Realm** is a general term for a related collection of regions, potentially e
 
 ### Materials Required
 
-- A sheet of paper and a notebook. Letter/A4 is OK, but the larger the better.
-- Pencils and erasers. Color pencils if you want to make it pretty or want to designate terrain with color.
+- A sheet of paper and a notebook. Letter/A4 is OK, but the larger the better. Going forward, we will refer to the sheet of paper as the **map**.
+- Pencils and erasers. Colored pencils if you want to make it pretty or want to indicate terrain with color.
 - At least one d6 and one d20, but 6d6 and 2d20 would be ideal.
-
-> Going forward, we will refer to the sheet of paper as the **map**.
-> As with any other rule, if you don't like a table result, roll again or tweak as desired!
 
 ## Theme
 
@@ -100,11 +97,9 @@ A region is typically dominated by one or more factions, each with their own uni
 
 Agents are often in charge of completing one or more of the goals of the Agenda of a faction. Particularly large factions may have additional agents, each in charge of a distinct goal. Agents may have personal motivations that differ from the faction's main agenda, a fact that canny PCs can exploit for their own gain.
 
-> Do not feel limited by the table results below. If something feels "off" or a different table result would work better for your setting, use it!
-
 #### Advantages
 
-Factions possess advantages that assist them in accomplishing their agenda. Advantages reflect a faction's influence, materials, wealth, and other unique features. Factions add or lose advantages by trying to complete their agenda, leveraging their advantages as much as possible to achieve their goals, and at the same time work to acquire _more_ advantages.
+Factions possess advantages that assist them in accomplishing their agenda. Advantages reflect a faction's influence, materials, wealth, and other unique features. Factions leverage their advantages as much as possible when trying to achieve their goals, and at the same time continually work to acquire _more_ advantages.
 
 #### Agendas
 
@@ -114,7 +109,7 @@ Goals should focus on acquiring a distinct advantage in order to proceed to the 
 
 Completing a faction's agendas should be a significant event, potentially changing the political or natural landscape of a region.
 
-> The region map should reflect the impact of factions as they work on completing their agendas and acquiring more advantages.
+> The region map should continually reflect the impact of factions as they work on completing their agendas and acquiring more advantages.
 
 #### Creating factions
 
@@ -156,29 +151,29 @@ Roll 1d20 for each column and combine the results.
 | ------- | ------------- | ------------- |
 | **d20** | **Trait 1**   | **Trait 2**   |
 | **1**   | Cautious      | Adaptable     |
-| **2**   | Discreet      | Bankrupt      |
-| **3**   | Enigmatic     | Brutal        |
-| **4**   | Fierce        | Collaborative |
-| **5**   | Dogmatic      | Corrupt       |
-| **6**   | Judicious     | Craven        |
-| **7**   | Keen          | Cruel         |
-| **8**   | Loyal         | Cunning       |
-| **9**   | Meticulous    | Cynical       |
-| **10**  | Pragmatic     | Deceptive     |
-| **11**  | Resourceful   | Generous      |
-| **12**  | Tenacious     | Incompetent   |
-| **13**  | Decadent      | Manipulative  |
-| **14**  | Connected     | Mercurial     |
-| **15**  | Disciplined   | Repressed     |
-| **16**  | Incorruptible | Ruthless      |
-| **17**  | Intellectual  | Selfish       |
-| **18**  | Shrewd        | Stealthy      |
-| **19**  | Popular       | Threatened    |
-| **20**  | Secretive     | Xenophobic    |
+| **2**   | Connected     | Bankrupt      |
+| **3**   | Decadent      | Brutal        |
+| **4**   | Disciplined   | Collaborative |
+| **5**   | Discreet      | Corrupt       |
+| **6**   | Dogmatic      | Craven        |
+| **7**   | Enigmatic     | Cruel         |
+| **8**   | Fierce        | Cunning       |
+| **9**   | Incorruptible | Cynical       |
+| **10**  | Intellectual  | Deceptive     |
+| **11**  | Judicious     | Generous      |
+| **12**  | Keen          | Incompetent   |
+| **13**  | Loyal         | Manipulative  |
+| **14**  | Meticulous    | Mercurial     |
+| **15**  | Popular       | Repressed     |
+| **16**  | Pragmatic     | Ruthless      |
+| **17**  | Resourceful   | Selfish       |
+| **18**  | Secretive     | Stealthy      |
+| **19**  | Shrewd        | Threatened    |
+| **20**  | Tenacious     | Xenophobic    |
 
 #### Faction Advantages
 
-Roll 2d20, first for the number of advantages the faction has, then for each subsequent advantage. For example, if a "2" was rolled for the "# of Advantages" column, you would roll on the "Advantage" column twice, noting each result. Reroll repeated results.
+Roll 2d20, first for the number of advantages the faction has, then for the types of advantages. For example, if a result of “2” was received from the “# of Advantages” column, you would roll on the “Type” column twice, noting each result. Reroll repeated results.
 
 |         |                     |                |
 | ------- | ------------------- | -------------- |
@@ -236,7 +231,7 @@ Roll 1d20 for each column and combine the results.
 
 #### Type
 
-- **Academics**: _Royal Cartographer's Guild_. Respected and feared, even by the Royal Family. 
+- **Academics**: _Royal Cartographer's Guild_. Respected and feared, even by the royal family. 
 
 ### Advantages
 
@@ -251,7 +246,7 @@ Roll 1d20 for each column and combine the results.
 
 - Hire a skilled party to escort Horatia to a location written on the map.
 - Travel through the lands of the dead in search of the _Order_'s original founder.
-- Bring the founder back to the Cities. Overthrow the Ruler of the Realm.
+- Bring the founder back to the Cities. Overthrow the ruler of the Realm.
 
 #### Obstacle
 
@@ -261,7 +256,7 @@ The _Guild_ has been warned that a well-placed operative moves within their rank
 
 - By default, factions operate independent of the player character's actions. If the PCs do nothing, the faction should still act to achieve their aims.
 - The **Warden** should rely on the fiction to determine whether a faction is positioned to advance their agenda. 
-- Some goals may be time-sensitive or depend on explicit circumstances. Other times it might be more appropriate after a major event, alliance, or friction between one or more factions, etc.
+- Some goals may be time-sensitive or depend on explicit circumstances. Other times it might be more appropriate to introduce a new goal after a major event, alliance, or friction between one or more factions, etc.
 - Whenever a faction is positioned to advance a goal in their agenda, roll a **d6** on the [Faction Actions](#faction-actions) table. 
 - If two factions are _opposed_, the faction _most at risk_ makes a WIL save, using the score of its highest-ranking agent. On a fail, the faction does not roll on the Faction Actions table at this time.
 
@@ -289,10 +284,10 @@ A region's terrain and natural features are an essential part of any map, affect
 
 #### Draw Terrain
 
-- Roll **1d6** on the table, then roll an amount of dice equal to that number on the map. Collect any dice that roll off the page and set them aside.
-- Draw long, curvy lines across the page, carving up the map around each die.
-- Remove each die, noting the face up result according to the [Terrain Die Drop Table](#terrain-die-drop-table) on the map. For example, the number 4 would indicate Tough terrain.  
-- Roll on the relevant table for each result, writing the terrain type on the map.
+1. Roll **1d6**, then roll an amount of dice equal to that number on the map. Collect any dice that roll off the page and set them aside.
+2. Note the face-up result for each die, then use the [Terrain Die Drop Table](#terrain-die-drop-table) to mark the terrain type on the map. For example, a die showing a 4 would indicate Tough terrain.
+3. Draw long, curvy lines across the page, carving up the map around each die.
+4. Roll on the appropriate table for each result, writing the terrain and landmark results on the map.
   - Replace the die with a triangle, writing the landmark result on the map.
   - Roll any dice that fell off the map page, repeating the last step until none remain.
   - If there are any empty spaces in need of terrain, roll a die anywhere you like and use the face-up result as before.
@@ -427,7 +422,7 @@ The weather can have a great impact on the people, culture, and terrain of a reg
 | **8**   | Fog that fills the belly (no need for rations). Tomorrow, vomiting.                                         |
 | **9**   | Lakes and streams evaporate in minutes, filling storm clouds that drench the landscape.                     |
 | **10**  | Periodic rains of small aquatic creatures (tadpoles, frogs, small fish). No one knows where they come from. |
-| **11**  | Rainbows lack most of their colors, and occasionally flicker. Raindrops fall in various colors.             |
+| **11**  | Rainbows lack most of their colors and occasionally flicker. Raindrops fall in various colors.             |
 | **12**  | Rolling dust clouds that smell of cinnamon. The coughing lasts long after they've moved on.                 |
 | **13**  | Shadows disappear at random. Animals become more reluctant.                                                 |
 | **14**  | The air is thicker than usual, and breathing is difficult.                                                  |
