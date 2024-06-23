@@ -31,7 +31,7 @@ A creature's ability to avoid danger, whether through toughness, speed, or skill
 
 ## Armor
 
-For some creatures this represents their natural toughness, for others it may be from something that is worn or carried. If a creature is able to withstand an attack without moving, raise this number. 
+For some creatures, this represents their natural toughness; for others, it may be from something that is worn or carried. If a creature is able to withstand an attack without moving, raise this number. 
 
 ## Ability Score
 
@@ -59,8 +59,8 @@ A unique action or power the creature can utilize both in and out of combat.
 
 - If an ability can be meaningfully avoided or defended against through traditional means, it is an Attack and interacts with HP.
 - If an ability cannot be meaningfully avoided or defended against through traditional means, it is an Ability.
-- If an ability only affects a single PC it should generally have an immediate effect with no chance to Save in that round (possibly not at all).
-- If an ability is capable of affecting a group of PCs it should generally call for an immediate Save.
+- If an ability only affects a single PC, it should generally have an immediate effect with no chance to Save in that round (possibly not at all).
+- If an ability is capable of affecting a group of PCs, it should generally call for an immediate Save.
 
 ## Monster Stat Block Format
 
@@ -104,25 +104,25 @@ Roll 1d20 for each column and combine the results.
 |         |                          |                 |
 | ------- | ------------------------ | --------------- |
 | **d20** | **Quirks**               | **Weakness**    |
-| **1**   | Alters its size at will  | Alcohol         |
-| **2**   | Changes color at will    | Cold            |
-| **3**   | Collects rare flowers    | Conversation    |
-| **4**   | Collects trophies        | Flattery        |
-| **5**   | Does not die of old age  | Games           |
-| **6**   | Draws symbols            | Gifts           |
-| **7**   | Fascinated by fire       | Iron            |
-| **8**   | Hoards books             | Loud Noises     |
-| **9**   | Loves a specific color   | Mirrors         |
-| **10**  | Reborn each day          | Bright colors   |
-| **11**  | Loves shiny objects      | Moonlight       |
-| **12**  | Mimics voices            | Music           |
-| **13**  | Moves in a straight line | Prepared Meals  |
+| **1**   | Alters Its Size at Will  | Alcohol         |
+| **2**   | Changes Color at Will    | Cold            |
+| **3**   | Collects Rare Flowers    | Conversation    |
+| **4**   | Collects Trophies        | Flattery        |
+| **5**   | Does Not Die of Old Age  | Games           |
+| **6**   | Draws Symbols            | Gifts           |
+| **7**   | Fascinated by Fire       | Iron            |
+| **8**   | Hoards Books             | Loud Noises     |
+| **9**   | Loves a Specific Color   | Mirrors         |
+| **10**  | Reborn Each Day          | Bright Colors   |
+| **11**  | Loves Shiny Objects      | Moonlight       |
+| **12**  | Mimics Voices            | Music           |
+| **13**  | Moves in a Straight Line | Prepared Meals  |
 | **14**  | Narrates Everything      | Puzzles         |
-| **15**  | Obsessively cleans       | Religious Icons |
-| **16**  | Plants grow in its wake  | Salt            |
-| **17**  | Sleeps upside down       | Silver          |
-| **18**  | Speaks in rhymes         | Sunlight        |
-| **19**  | Sweats rare minerals     | True Name       |
+| **15**  | Obsessively Cleans       | Religious Icons |
+| **16**  | Plants Grow in Its Wake  | Salt            |
+| **17**  | Sleeps Upside Down       | Silver          |
+| **18**  | Speaks in Rhymes         | Sunlight        |
+| **19**  | Sweats Rare Minerals     | True Name       |
 | **20**  | Reproduces Asexually     | Weak Spot       |
 
 ## Monster Attacks
@@ -187,13 +187,13 @@ Roll 1d20 for each column and combine the results.
 
 _A snail-like creature with a hard shell. It moves only in straight lines, and has a soft underbelly. It rolls into opponents, pulling them into its wild orbit. The roar of its movement drowns out any other sounds._
 
-This creature is physically tough, with higher than average **STR** and strong armor. It is probably fast but not maneuverable, and likely doesn't rely on skill or dexterity to avoid danger. It is brutish, but still a wild beast and only as willful as any creature just looking for its next meal. It attacks by rolling in a straight line, and should impact multiple targets.
+This creature is physically tough, with higher than average **STR** and strong armor. It is probably fast but not maneuverable, and likely doesn't rely on skill or dexterity to avoid danger. It is brutish, but it is still a wild beast and only as willful as any creature just looking for its next meal. It attacks by rolling in a straight line and should impact multiple targets.
 
 ### Thunder Snail
 
 6 HP, 2 Armor, 14 STR, 6 DEX, 4 WIL, smash & roll (d10, _blast_)
-- An thick-shelled beast that attacks by rolling over its opponents in a line. The noise of its tumbling shell is deafening.
-- If rolled onto its back it becomes completely vulnerable.
+
+- Thick-shelled beasts that attack by rolling over their opponents in a straight line. The noise of their tumbling shells is deafening.
 - **Critical Damage**: Target is pulled into its rolling momentum, losing an additional 1 STR per round until freed (STR save to escape).
 
 ## Converting Monsters
@@ -204,7 +204,7 @@ There is no perfect system for converting from other systems. Here are some tips
 - **Armor**: Look for phrases like "as leather" and "as plate" in the original stat blocks. When converting from B/X style games like Old School Essentials, ignore THAC0 and use descending AC whenever possible (7 = Leather, 5 = Chainmail, 3 = Plate mail). If only ascending AC is given you can use (12 = Leather, 14 = Chainmail, 16 = Plate mail). Whichever system you're converting from, the Armor values range from 1-3 only.
 - **Strength**: Look at the creature's **HD** and **HP**. If a creature is difficult to kill but _not_ because they are nimble or skilled, give them more **STR** (but _not_ more **HP**). Start with 10 **STR** (the average) and go up or down from there.
 - **Dexterity**: Start with **10** as a base, and if the creature is particularly quick (often referred to as "speed" or SP), agile, or nimble-fingered, raise the number. If it is slow to respond, bulky, or clumsy, lower the number. See [Saving Throws](#saving-throws) below for more!
-- **Willpower**: **Morale** (**ML**) can be a good guidepost, and typically ranges between 2-12. The greater the creature's personality, spirit, or presence, the higher the WIL they should have. The following table offers a decent guide on converting **ML** to **WIL**.
+- **Willpower**: **Morale** (**ML**) can be a good guidepost, and it typically ranges between 2-12. The greater the creature's personality, spirit, or presence, the higher the WIL they should have. The following table offers a decent guide on converting **ML** to **WIL**.
 
 |         |   |    |    |    |
 |---------|---|----|----|----|
@@ -214,8 +214,8 @@ There is no perfect system for converting from other systems. Here are some tips
 ### Saving Throws
 
 - You can rely on _saving throws_ to glean more information about a creature's abilities, specifically their ability to avoid death by physical trauma, magic, or poison. 
-- Stat blocks will use a shorthand like (E1) or (F1) (Level 1 Elf or Fighter respectively). These are really helpful for quickly identifying at the creature's abilities.
-- Consider adding descriptive tags such as "immune to toxic gas" or "good at dodging bullets" based on the saving throws. The following table should help determine which saving throws should result in an increase in one of the relevant ability scores.
+- Stat blocks will use a shorthand like (E1) or (F1) (Level 1 Elf or Fighter respectively). These are really helpful for quickly identifying the creature's abilities.
+- Consider adding descriptive tags such as "immune to toxic gas" or "good at dodging" based on the saving throws. The following table should help determine which saving throws should result in an increase in one of the relevant ability scores.
 
 |                                |                    |
 | ------------------------------ | ------------------ |
@@ -227,9 +227,9 @@ There is no perfect system for converting from other systems. Here are some tips
 
 ### Combat
 
-- **Damage Die**: Can typically be copied "as is" from most OSR systems, but it's a good idea to check with the weapon's listed in the Marketplace first.
+- **Damage Die**: Can typically be copied "as is" from most OSR systems, but it's a good idea to check with the weapons listed in the Marketplace first.
 - **Multiple attacks**: Convert to _blast_ or to multiple dice (e.g. d6+d6).
-- **Devastating Attacks**: Consider making the damage _enhanced_, assign the _blast_ tag, or multiple dice.
+- **Devastating Attacks**: Consider making the damage _enhanced_, assign the _blast_ tag, or giving the attack multiple dice.
 
 ### Abilities
 
@@ -266,12 +266,12 @@ _**Using the example above, I can see that she:**_
 - She is immune to metal weapons.
 
 _**What can we learn from this?**_
-- She's fast, and probably savvy in a fight. If we start from **3 HP** and add 1 **HP** per additional **HD**, that means she has **8 HP**.
+- She's fast, and probably savvy in a fight. If we start from **3 HP** and add 1 **HP** per **HD**, that means she has **8 HP**.
 - I don't think foxes have protective hides, and she's otherwise human beside her head. **No Armor**.
 - She is decently strong. A normal human has 10 **STR** and she's a little bigger. **12 STR**.
 - I can imagine her hunting prey over the snowy tundra. She's fast. **14 DEX**.
 - Her **ML** is high, and foxes are known for their cunning. **15 WIL**.
-- For her attacks I'd go with claws (d6+d6) and bite (d8).
+- For her attacks, I'd go with claws (d6+d6) and bite (d8).
 
 _**This information leaves us with the following:**_
 8 HP, 12 STR, 14 DEX, 15 WIL, claws (d6+d6), bite (d8)
@@ -289,6 +289,6 @@ _**The final result**_:
 
 8 HP, 12 STR, 14 DEX, 15 WIL, claws (d6+d6), bite (d8)
 
-- Can take the form of a fox, or a woman with a hidden fox leg.
+- Can take the form of a fox or a woman with a hidden fox leg.
 - Immune to attacks from metal weapons.
 - **Critical damage**: Victim is choked unconscious.
