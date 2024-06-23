@@ -10,4 +10,4 @@ grand_parent: Resources
 
 - Beautiful, amoral, and long-lived.
 - Resistant to most forms of magic.
-- Can cast the following spells at will: _Sleep_, _Teleport_, _Detect Magic_
+- Can cast the following spells at will: _Sleep_, _Teleport_, _Detect Magic_.
