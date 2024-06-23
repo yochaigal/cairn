@@ -470,7 +470,7 @@ Plush, **dust-covered** chairs and couches are arranged in a semi-circle around 
 
 **Monster**: _Lizard_. _Recuperating_.
 
-A basilisk sleeps on a nest built atop a slab of **wall** on the East side of the room. In the center of the room, a tall glass **cage** runs from the floor to the **ceiling**. A long, broken **chain** is attached to the South wall.
+A Basilisk sleeps on a nest built atop a slab of **wall** on the East side of the room. In the center of the room, a tall glass **cage** runs from the floor to the **ceiling**. A long, broken **chain** is attached to the South wall.
 
 - **Basilisk**: Recuperating after having just birthed a new clutch of three eggs.
   - She warms her eggs by sitting atop them and will not leave them for very long. 

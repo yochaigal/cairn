@@ -17,8 +17,8 @@ A forestcrawl is a simple method for exploring a large forested area, typically 
 
 - Follow the _Dungeon_ exploration procedures found in the Player's Guide, but rather than rolling for Dungeon Events, use the Wilderness Events table instead.
 - If the party attempts to step off the trail and cut through the forest, the Warden should make any associated costs clear. Added travel time, effort, special tools that may be required, and any obvious dangers. Going off-trail also automatically triggers a roll on the Wilderness Events table.
-- Points in a forestcrawl are close to each other. When traveling on clearly marked trails a small forest (10-15 POIs) can be explored in a single Watch.
-- Rely on the fiction and common sense to determine how much daylight is available, whether a suitable area is available for rest, and what the costs or dangers the forest may bring in the darkness. 
+- Points in a forestcrawl are close to each other. When traveling on clearly marked trails, a small forest (10-15 POIs) can be explored in a single Watch.
+- Rely on the fiction and common sense to determine how much daylight is available, whether a suitable area is available for rest, and what the costs or dangers the forest may contain in the darkness. 
 
 ## Creating a Forest
 
@@ -76,7 +76,7 @@ Roll 1d20 for each column and combine the results.
 
 ## The Spirit of the Forest
 
-In some ways the Wood is a single entity, its brain alive within every tree and plant, connected via a network of thorn and branch. The animals and plants are its limbs, directing its wants, desires, fears, and needs. The creatures that live within its boundaries are its blood, answering its call by delivering much needed defenses and rebuffing interlopers. The Wood will always protect itself, and its children. Roll on the [Traits](#traits) and [Forest Agenda](#forest-agenda) tables, writing the results in your notebook. This describes the general attitude of the creatures found in the forest as well as what the forest _wants_ as a whole.
+In some ways, the Wood is a single entity, its brain alive within every tree and plant, connected via a network of thorn and branch. The animals and plants are its limbs, directing its wants, desires, fears, and needs. The creatures that live within its boundaries are its blood, answering its call by delivering much needed defenses and rebuffing interlopers. The Wood will always protect itself and its children. Roll on the [Traits](#traits) and [Forest Agenda](#forest-agenda) tables, writing the results in your notebook. This describes the general attitude of the creatures found in the forest as well as what the forest _wants_ as a whole.
 
 ### Traits
 
@@ -139,7 +139,7 @@ Roll 1d20 for each column and combine the results.
 ### Create POIs
 
 - Roll **8-12 d6** dice on the dungeon map, ignoring any dice that fall off the page. These are the Points of Interest (POI) in the forest.
-- Write the face-up results on the page according to the [Forest Die Drop Table](#forest-die-drop-table). For example, the number **4** would indicate a **Shelter**, denoted by the letter "S".
+- Write the face-up results on the page using the [Forest Die Drop Table](#forest-die-drop-table). For example, the number **4** would indicate a **Shelter**, which you would denote with the letter "S".
 - Select two opposite points, preferably close to the page border. These are the forest's entrance and exit.
 - Starting with the entrance and ending at the exit, number each POI on the map.
 - Roll on the relevant tables for each point, writing the results in your notebook.
@@ -169,9 +169,9 @@ Roll 1d20 for each column and combine the results.
   - Create loops, branching paths, dead-ends, and shortcuts between points.
   - Some paths are Conditional, represented by a crossed line.
   - Some paths are Hidden, represented by a dashed line.
-  - Create intersections (crossed lines) with no points in between.
+  - If possible, create intersections (crossed lines) with no points in between.
 - Create trails by drawing over paths that connect 3-4 points in an obvious, consistent, or interesting manner. 
-  - Short, isolated paths between points and hidden paths are not usually a part of a trail.
+  - Hidden paths and short, isolated routes are not usually a part of a trail.
   - Use colored pencils or crayons to help distinguish different trails.
 - Roll on the [Trail Types](#trail-types) table for each trail, recording the results in your notebook. 
 
@@ -207,7 +207,7 @@ Roll 1d20 for each column and combine the results.
 
 #### Monster
 
-Monsters are any dangerous creature one might encounter in the forest. This does not mean it will attack intruders by default! Monsters are not "waiting around" for characters to stumble upon them, but have their own wants and goals. Some monsters can talk, reason, and even beg for mercy. _People can be monsters, too_.
+Monsters are any dangerous creatures one might encounter in the forest. This does not mean they will attack intruders by default! Monsters are not "waiting around" for characters to stumble upon them, but have their own wants and goals. Some monsters can talk, reason, and even beg for mercy. _People can be monsters, too_.
 
 Roll 1d20 for each column and combine the results.
 
@@ -244,60 +244,60 @@ Roll 1d20 for each column and combine the results.
 |         |                     |                                        |
 | ------- | ------------------- | -------------------------------------- |
 | **d20** | **Ruin**            | **Feature**                            |
-| **1**   | Abandoned Manor     | A Forest Spirit, Ready To Die          |
-| **2**   | Broken Sundial      | A Hag, Foraging For Ingredients        |
-| **3**   | Chipped Bell Tower  | A Mirror Of Itself                     |
+| **1**   | Abandoned Manor     | A Forest Spirit, Ready to Die          |
+| **2**   | Broken Sundial      | A Hag, Foraging for Ingredients        |
+| **3**   | Chipped Bell Tower  | A Mirror of Itself                     |
 | **4**   | Collapsed Megalith  | A Self-Obsessed Sprite                 |
 | **5**   | Crumbled Watchtower | A Silent, Ghostly Concert              |
 | **6**   | Decomposed Canoes   | A Very Tiny Ruined Village             |
-| **7**   | Entangled Pavilion  | Bound By An Unbreakable Curse          |
+| **7**   | Entangled Pavilion  | Bound by an Unbreakable Curse          |
 | **8**   | Exposed Workshop    | Bound Creature                         |
 | **9**   | Flooded Monastery   | Broken Portal                          |
-| **18**  | Splintered Obelisk  | Fresh Corpses                          |
+| **10**  | Moldering Farmhouse | Fresh Corpses                          |
 | **11**  | Neglected Shrine    | Hidden Cache                           |
-| **12**  | Overrun Estate      | Hooded Men Completing A Ritual         |
-| **13**  | Petrified Campsite  | Inaudible Whispers From All Directions |
-| **14**  | Rotted Mill         | Marked By Battles Of Yore              |
-| **15**  | Ruined Cloister     | Overrun With Unusual Flora             |
-| **10**  | Moldering Farmhouse | Realistic Toy Soldiers                 |
-| **16**  | Rusted Market       | Remnants Of A Failed Ritual            |
-| **17**  | Shattered Bridge    | The Veil Between Worlds Is Thin        |
-| **19**  | Sunken Gazebo       | Visions Of The Past                    |
+| **12**  | Overrun Estate      | Hooded Men Completing a Ritual         |
+| **13**  | Petrified Campsite  | Inaudible Whispers from All Directions |
+| **14**  | Rotted Mill         | Marked by Battles Of Yore              |
+| **15**  | Ruined Cloister     | Overrun with Unusual Flora             |
+| **16**  | Rusted Market       | Realistic Toy Soldiers                 |
+| **17**  | Shattered Bridge    | Remnants of A Failed Ritual            |
+| **18**  | Splintered Obelisk  | The Veil Between Worlds Is Thin        |
+| **19**  | Sunken Gazebo       | Visions of the Past                    |
 | **20**  | Toppled Statue      | Warded Grounds                         |
 
 #### Shelter
 
-Despite it wild & unpredictable nature, there have always been those brave, skilled, or foolhardy enough to try and build a life in the Wood. And some do succeed, leaving their mark via smoldering campfire or gray tower, offering a welcome respite to weary travelers. 
+Despite it wild and unpredictable nature, there have always been those brave, skilled, or foolhardy enough to try and build a life in the Wood. And some do succeed, leaving their mark via smoldering campfire or gray tower, offering a welcome respite to weary travelers. 
 
 Roll 1d20 for each column and combine the results.
 
 |         |                   |                                    |
 | ------- | ----------------- | ---------------------------------- |
 | **d20** | **Shelter**       | **Feature**                        |
-| **1**   | Bandit Hideout    | Abandoned, For Now                 |
+| **1**   | Bandit Hideout    | Abandoned, for Now                 |
 | **2**   | Falconer's Tower  | Attracts Wild Beasts               |
-| **3**   | Fishing Hut       | Built In Defiance Of Customs       |
-| **4**   | Forgotten Ruins   | Constructed Within A Giant Tree    |
-| **5**   | Hermit's Cabin    | Forest-Knight Offers A Challenge   |
-| **6**   | Hidden Village    | Guarded By Trained Animals         |
-| **7**   | Hillside Cave     | Haunted By Unhelpful Ghosts        |
-| **8**   | Hollow Tree       | Hides A Powerful Artifact          |
+| **3**   | Fishing Hut       | Built in Defiance of Customs       |
+| **4**   | Forgotten Ruins   | Constructed Within a Giant Tree    |
+| **5**   | Hermit's Cabin    | Forest-Knight Offers a Challenge   |
+| **6**   | Hidden Village    | Guarded by Trained Animals         |
+| **7**   | Hillside Cave     | Haunted by Unhelpful Ghosts        |
+| **8**   | Hollow Tree       | Hides a Powerful Artifact          |
 | **9**   | Hunter's Lodge    | Hunting Is Forbidden               |
-| **10**  | Hut With Legs     | Inhabited By A Supernatural Entity |
-| **11**  | Ivy-Wrapped Tower | Occupied By Army Deserters         |
-| **12**  | Lean-To           | Overrun With Cultists              |
+| **10**  | Hut With Legs     | Inhabited by a Supernatural Entity |
+| **11**  | Ivy-Wrapped Tower | Occupied by Army Deserters         |
+| **12**  | Lean-To           | Overrun with Cultists              |
 | **13**  | Lumber Site       | Pale Folk Dinner Locale            |
 | **14**  | Monastic Retreat  | Parasitic Foliage                  |
 | **15**  | Mossy Pool        | Pig Folk Hunting Grounds           |
-| **16**  | Night Market      | Popular With Smugglers             |
-| **17**  | Pale Folk Stable  | Presents A Ready-To-Eat Meal       |
-| **18**  | Ranger's Outpost  | Protected By A Playful Spirit      |
-| **19**  | Smoky Cabin       | Site Of An Ancient Murder          |
+| **16**  | Night Market      | Popular with Smugglers             |
+| **17**  | Pale Folk Stable  | Presents a Ready-To-Eat Meal       |
+| **18**  | Ranger's Outpost  | Protected By a Playful Spirit      |
+| **19**  | Smoky Cabin       | Site of an Ancient Murder          |
 | **20**  | Tattered Windmill | Thieves' Camp                      |
 
 #### Hazard
 
-The Wood is a dangerous place, and not to be trifled with. The forest and its inhabitants do what they must to survive, and even sated are still preparing for their next meal. The trees, the plants, and the earth itself will leave deadly traps and dangers to root out those unworthy to pass beneath the boughs.
+The Wood is a dangerous place and not to be trifled with. The forest and its inhabitants do what they must to survive, and even sated, are still preparing for their next meal. The trees, the plants, and the earth itself will leave deadly traps and dangers to root out those unworthy to pass beneath the boughs.
 
 Roll 1d20 for each column and combine the results.
 
@@ -309,7 +309,7 @@ Roll 1d20 for each column and combine the results.
 | **3**   | Bone Orchard      | Animated Armor               |
 | **4**   | Bramble Tunnels   | Bird Spies                   |
 | **5**   | Frozen Troll      | Bleeding Trees               |
-| **6**   | Giant Spider Nest | Ghosts Trapped In Crystal    |
+| **6**   | Giant Spider Nest | Ghosts Trapped in Crystal    |
 | **7**   | Insect Swarm      | Giant Rodent Feeding Grounds |
 | **8**   | Moving Thickets   | Highly Localized Weather     |
 | **9**   | Poisonous Plants  | Howling Stones               |
@@ -318,12 +318,12 @@ Roll 1d20 for each column and combine the results.
 | **11**  | Sleeping Giant    | Living Scarecrows            |
 | **12**  | Slippery Moss     | Memory Stealers              |
 | **13**  | Slow Quicksand    | Mimic Vines                  |
-| **14**  | Spiked Pit        | Paths That Change Randomly   |
-| **15**  | Stinging Nettles  | Scavengers That Wait         |
+| **14**  | Spiked Pit        | Paths that Change Randomly   |
+| **15**  | Stinging Nettles  | Scavengers that Wait         |
 | **16**  | Thorny Thickets   | Watchful Dead                |
-| **17**  | Toxic Spores      | Tracks Erased By Mist        |
-| **19**  | Troll Den         | Trees That Grow From Bones   |
-| **20**  | Unstable Ground   | Will-O-Wisp Congregate       |
+| **17**  | Toxic Spores      | Tracks Erased by Mist        |
+| **19**  | Troll Den         | Trees that Grow From Bones   |
+| **20**  | Unstable Ground   | Will-o-Wisps Congregate      |
 
 ## Example Forest
 
@@ -345,11 +345,11 @@ Wish to return to the stability they once knew, but are threatened by ancient fo
 
 **Forest Agenda**: Purification, Infestation
 
-The spirit of the forest wants nothing more than to purify itself of the disease that has taken hold. An infestation of Giant Spiders (**9**) have spun webs throughout, killing far too many creatures and undermining the ecosystem.
+The spirit of the forest wants nothing more than to purify itself of the disease that has taken hold. An infestation of Giant Spiders (**9**) has spun webs throughout, killing far too many creatures and undermining the ecosystem.
 
 ### Forest Theme
 
-For decades, order and stability of the forest was kept in check through an agreement between the forest witch **Anglwyst** and **Sweeney**, the Wood's champion. The witch would use her magic to keep the trees and animals healthy, while the champion would ensure that hunters never kill any creatures deemed essential to the Wood (indicated by a shock of white in their fur). Their pact was permanent and immalleable, and the forest was divided, barring both the witch nor the champion from crossing its boundary.
+For decades, order and stability of the forest was kept in check through an agreement between the forest witch **Anglwyst** and **Sweeney**, the Wood's champion. The witch would use her magic to keep the trees and animals healthy, while the champion would ensure that hunters never kill any creatures deemed essential to the Wood (indicated by a shock of white in their fur). Their pact was permanent and immalleable, and the forest was divided, barring both the witch and the champion from crossing its boundary.
 
 After the old witch died, one of her spells grew wild, then dangerous. Now a magical disease has begun to infect the trees and creatures, threatening to consume the entire forest. Hunters call it the _Withering_, because it drains the life of everything it touches.
 
@@ -409,7 +409,7 @@ A rounded copse of vermilion **trees** surround a wide **puddle** of bubbling sa
 
 - Can communicate telepathically with anyone holding the crystal. 
   - Will plead for anyone to destroy the crystal (a good whack with something hard will do it). 
-  - In exchange for his freedom he will give the party a black feather, telling them that with it they can enter the Anglwyst's Chicken Hut at **4**.
+  - In exchange for his freedom, he will give the party a black feather, telling them that with it they can enter the Anglwyst's Chicken Hut at **4**.
 
 ### 3 - Sweeney's Cabin
 
@@ -422,16 +422,16 @@ Atop a small hill is a wooden **cabin**. Small **logs** are arranged in rows on 
 - **Logs**: Arranged in rows of four by four. 
   - A stained outline of an animal (bear, rabbit, beaver, etc.) is drawn on each. A drop of white is painted on the rabbit. It looks new.
 - **Rack**: Various animal skins are stretched tightly across, drying. 
-  - Stitched together the skins are equal to two sets of protective clothing (1 Armor), and are highly resistant to environmental damage.  
+  - Stitched together, the skins are equal to two sets of protective clothing (1 Armor) and are highly resistant to environmental damage.  
 
 #### Inside the Cabin
 
 Very austere, with only a simple **cot** and small dining **table**.
   
 - **Cot**: Speckled with green moss and twigs. Smells faintly of rain.
-  - The floor beneath the cot is thick with green moss. If Sweeney places his hands on the moss it falls away, revealing an underground tunnel to **4**. Only Sweeney can activate this passage.
-- **Table**: On the table is a fully prepared meal of roast duck and root vegetables equal to a full meal for 2.
-  - A gift from Anglwyst. If eaten the meal on the table will reform in d12 hours. 
+  - The floor beneath the cot is thick with green moss. If Sweeney places his hands on the moss, it falls away, revealing an underground tunnel to **4**. Only Sweeney can activate this passage.
+- **Table**: On the table is a fully prepared meal of roast duck and root vegetables, equal to a full meal for 2.
+  - A gift from Anglwyst. If eaten, the meal on the table will reform in d12 hours. 
 
 #### Sweeney
 
@@ -439,8 +439,8 @@ Very austere, with only a simple **cot** and small dining **table**.
 
 - A cantankerous, mossy old man.
 - If he is injured, the Wood will protect and even heal him. Each time he dies, he returns more green than before.
-- Would like to stop the _Withering_, but cannot enter **6** due to his pact with Anglwyst. As a test of their honor and skill he will ask the party for help expelling the Giant Spiders at **9**.
-  - If the party successfully completes their first task he will give the party a **Pendant of Karnon**, and the promise of further riches if they can undo the magic that is ravaging the forest at **6**. 
+- Would like to stop the _Withering_, but cannot enter **6** due to his pact with Anglwyst. As a test of their honor and skill, he will ask the party for help expelling the Giant Spiders at **9**.
+  - If the party successfully completes their first task, he will give the party a **Pendant of Karnon**, as well as the promise of further riches if they can undo the magic that is ravaging the forest at **6**. 
   - If the party is able to disrupt the _Withering_, he will open the secret path to **4**, telling them that they may enter the hut there.
   
 #### Pendant of Karnon
@@ -451,10 +451,10 @@ Very austere, with only a simple **cot** and small dining **table**.
 
 **Shelter**: _Hut With Legs_, _Hunting Is Forbidden_
 
-A cylindrical, chimneyed **hut** covered in thick **foliage** sits at the edge fo a small clearing. A wooden **sign** is pressed into the ground at the West entrance. A long spool of **chicken wire** is installed on the North side.
+A cylindrical, chimneyed **hut** covered in thick **foliage** sits at the edge of a small clearing. A wooden **sign** is pressed into the ground at the West entrance. A long spool of **chicken wire** is installed on the North side.
 
 - **Hut**: The front-facing windows are dark, and there is no light or smoke coming from inside. 
-  - The door has no keyhole, and will only open to friends of Anglwyst, Sweeney, or Gundersnatch. 
+  - The door has no keyhole and will only open to friends of Anglwyst, Sweeney, or Gundersnatch. 
   - If the door is forced open or the hut is threatened, two legs will sprout from underneath and the hut will quickly retreat into the forest.
 - **Foliage**: Both the roof and the windows are covered in thick leafy vines. 
   - None of the vines touch the ground, as they would be torn were the hut to stand.
@@ -468,11 +468,11 @@ A cylindrical, chimneyed **hut** covered in thick **foliage** sits at the edge f
 
 Lavishly decorated. A tall wooden **barrel** is set near the North fireplace, a long broom sticking out. A large **stove** is installed on the East wall. A **string** of herbs and root vegetables hang from the ceiling.
   - **Barrel**: Joined by thick mortar. Free of dust and empty save for the broom.
-    - The barrel can fit up to one person, and is capable of flight (use the broom to "paddle" the air). 
-  - **Stove**: Warm, and large enough to sleep on. A red scarf is tied around one of the iron handle.
+    - The barrel can fit up to one person, and is capable of flight. Use the broom to "paddle" the air. 
+  - **Stove**: Warm, and large enough to sleep on. A red scarf is tied around one of the iron handles.
     - The scarf given to Anglwyst by Sweeney that is otherwise mundane. Sweeney would love to have it back.
   - **String**: Goods of rare and extinct quality. Worth 500gp to the right buyer. 
-    - A mandrake root hangs from the string. If fed water daily it will openly declare a lie when it hears one. Scream loudly if cut.
+    - A mandrake root hangs from the string. If fed water daily, it will indicate a lie when it hears one. Screams loudly if cut.
 
 ### 5 - Tree at the Crossroads
 
@@ -481,7 +481,7 @@ Lavishly decorated. A tall wooden **barrel** is set near the North fireplace, a 
 A long **tree** lays across a small glade at the intersection of two **trails**. A sharp **cliff** to the South offers a steep climb to the bottom.
 
 - **Tree**: Enormous and at least partially hollowed out. Bear prints mark the East entrance. 
-  - A Grizzly Bear and her three cubs make this tree their den. In the winter they hibernate, but any other time they are awake. The mother will attack anyone entering the tree regardless (skip the reaction roll). 
+  - A Grizzly Bear and her three cubs make this tree their den. They hibernate in the winter, but any other time they are awake. The mother will attack anyone entering the tree (skip the reaction roll). 
 - **Trails**: Broken leaves and tree rubbings on the trail are clear evidence of the bear's habitation.
 - **Cliff**: Metal hoops are pounded into the cliff face.
   - Installed when the forest was still being logged, but still solid. Perfect for ropes. 
@@ -498,7 +498,7 @@ A long **tree** lays across a small glade at the intersection of two **trails**.
 
 **Hazard**: _Frozen Troll_, _A Spell Gone Wrong_
 
-A gray forest **sanctuary** stands at the intersection of four trails. In its center two enormous **statues** appear to be wrestling.
+A gray forest **sanctuary** stands at the intersection of four trails. In its center, two enormous **statues** appear to be wrestling.
 
 - **Sanctuary**: All nearby plant life is lifeless and dull, as if all color has been bled away.
   - The air shimmers with magic, emanating most strongly above the two statues.
@@ -511,15 +511,15 @@ A gray forest **sanctuary** stands at the intersection of four trails. In its ce
 
 #### Yore Glass
 
-- Once per day the holder can replay 5 minutes of their life from the third-person. Long-term use can be addictive (suffer _deprivation_ if not used regularly).
+- Once per day, the holder can replay 5 minutes of their life from the third-person. Long-term use can be addictive. Suffer _deprivation_ if not used regularly.
 - **Recharge**: Catch another's reflection in the glass without them knowing.
 
 #### Wood Troll
 
-10 HP, 15 STR, 12 DEX, 7 WIL, bite (d10), claws (d8+d8)
+10 HP, 15 STR, 12 DEX, 7 WIL, bite (d8), club (d10)
 
 - Large humanoids with elongated arms made of bark or root. They live in forests, sharing a deep connection with the vegetation around them.
-- If killed they will slowly regenerate unless their corpse is taken out of the forest, or burned with fire.
+- If killed, they will slowly regenerate unless their corpse is taken out of the forest or burned with fire.
 - **Critical Damage**: Moss and twigs begin growing out of the target's wounds.
 
 ### 7 - Flooded Abbey
@@ -531,16 +531,16 @@ Three flooded **buildings** sprout from the center of a small pond, their **coni
 - **Buildings**: Archaic, with subtly beautiful religious iconography. Obviously an abbey.
   - Flooded after the dam at **8** was destroyed. 
 - **Roofs**: The tallest of the three buildings has a glass window high above the water.
-  -  The window is rusted shut, but can be pried or broken open to enter the abbey's Chapter House.
+  -  The window is rusted shut but can be pried or broken open to enter the abbey's Chapter House.
 - **Stones**: Piled along the Southern side of the Eastern path. Names are engraved on most.
   - The monks left piles of stone alongside the path for each of their fallen members.
 
 #### Chapter House
 
-**Tapestries** line the walls of this circular room, its wooden **floor** all but rotted away from water damage. A collapsed barrister on the Southwest side is all that remains of the flooded **stairwell** down into the rest of the building. 
+**Tapestries** line the walls of this circular room, its wooden **floor** all but rotted away from water damage. A collapsed bannister on the Southwest side is all that remains of the flooded **stairwell** down into the rest of the building. 
 
 - **Tapestries**: Moldy and unsalvageable.
-  - Originally depicted the abbey in its former glory, and the monks who lived here.
+  - Originally depicted the abbey in its former glory and the monks who lived here.
 - **Floor**: One of the wooden boards is less withered than the others. It smells faintly of something floral.
   - Below the board is a hidden Spellbook, _Yearning Path_.
 - **Stairwell**: Completely underwater. The rooms below contain only floating corpses and ruined books.
@@ -553,13 +553,13 @@ Three flooded **buildings** sprout from the center of a small pond, their **coni
 
 **Hazard**: _Giant Spider Nest_, _Injured Creature_
 
-A black **boar** limps noisily near a large, **mass** of black thread and trees. Fat, desiccated **carcasses** hang in spun silk from the treetops. A dry **riverbed** to the South is filled with piles of wood. 
+A black **boar** limps noisily near a large **mass** of black thread and trees. Fat, desiccated **carcasses** hang in spun silk from the treetops. A dry **riverbed** to the South is filled with piles of wood. 
 
 - **Boar**: Half-wrapped in thick black silk, it mews plaintively. 
-  - Poisoned by the spider bite in its hind quarters. If the party comes to its aid the Wood will remember.
+  - Poisoned by the spider bite in its hind quarters. If the party comes to its aid, the Wood will remember.
 - **Mass**: Threads of thick black silk hold together a 10ft pile of wood.
   - The nest is home to 3 **Black Silk Spiders**. They will attack anyone that that interacts with their food or gets too close to their nest. 
-  - 200gp of black silk can be carefully gathered from the nest. It makes a fine rope (about 60ft) that is also incredibly strong, and is sought after for its hydrophobic qualities.
+  - 200gp of black silk can be carefully gathered from the nest. It makes a fine rope (about 60ft) that is also incredibly strong and is sought after for its hydrophobic qualities.
 - **Carcasses**: Mostly animal corpses. A human shape is visible through the black webbing.
   - The human was a hunter that ignored Sweeney's warnings and hunted North of the _Hunter's Track_. On the corpse are Rations (2 uses left), 33gp, and a hip-knife (d6).
 - **Riverbed**: Large piles of wood are thrown about. Bits of black silk can be seen tied around the longer pieces.
@@ -579,14 +579,14 @@ A black **boar** limps noisily near a large, **mass** of black thread and trees.
 
 **Shelter**: _Fishing Hut_, _Occupied by Army Deserters_ [Exit]
 
-A ramshackle **hut** built astride a small **lake** to the North. **Smoke** streams from a cooking rack on the West side, and loud **voices** echo through the South-facing window.
+A ramshackle **hut** built beside a small **lake** to the North. **Smoke** streams from a cooking rack on the West side, and loud **voices** echo through the South-facing window.
 
 - **Hut**: Built from simple logs tied together with rope, which appears fresh. Fishing wire can be seen leading out of the North side and into the lake.
 - **Lake**: Placid, but filled with bugs. A path on the West side leads away from the forest.
-  - The lake hasn't been fished for some time, and has become overpopulated. Fishing is easy pickings.
+  - The lake hasn't been fished for some time and has become overpopulated. Fishing is easy pickings.
 - **Smoke**: Spills from a wooden cooking rack adjacent to a pile of fried fish (4 x Rations, 3 uses each). 
 - **Voices**: Laughing and muffled speech. At least two voices can be heard from inside.
-  - There are three ex-soldiers squatting in this hut. They are pacifists that were forcibly conscripted into military service. They are seeking refuge in the abbey at **7**, but haven't made it that far yet. They are jovial, kind-hearted and absolute cowards. 
+  - There are three ex-soldiers squatting in this hut. They are pacifists that were forcibly conscripted into military service. They are seeking refuge in the abbey at **7**, but haven't made it that far yet. They are jovial and kind-hearted but absolute cowards. 
   - They know little about the forest, other than that there used to be a river running South from the lake that ended somewhere near an abbey.
 
 ### Encounters
@@ -595,7 +595,7 @@ A ramshackle **hut** built astride a small **lake** to the North. **Smoke** stre
 | ------- | -------------------------------------------------------------------------------------------- |
 | **d20** | **Encounter**                                                                                |
 | **1**   | A tiny bearded man argues with a squawking raven. It holds something shiny in its beak.      |
-| **2**   | A dryad sits atop a stone, a purple fungus lining her arms. There is a violence to her eyes. |
+| **2**   | A dryad sits atop a stone, a purple fungus lining her arms. There is a violence in her eyes. |
 | **3**   | A patch of quicksand is disguised as soft ground. A broken spool of rope lies nearby.        |
 | **4**   | A snarling pack of wolves surround a fresh kill. They are not keen to share.                 |
 | **5**   | Wild berries grow here in abundance. None have been eaten, not even by birds.                |
