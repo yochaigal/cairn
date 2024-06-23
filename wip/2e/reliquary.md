@@ -10,7 +10,7 @@ nav_exclude: true
 
 ## A Blade Called Hope (d6)
 
-  - A thin, curved sword that glows with faint light, visible only in total darkness. When bathed in heavy sunlight its first attack is _Enhanced_.
+  - A thin, curved sword that glows with faint light, visible only in total darkness. When bathed in heavy sunlight, its first attack is _Enhanced_.
 
 ## Assassin's Goblets
 
@@ -22,7 +22,7 @@ nav_exclude: true
 
 ## Barbed Epaulets, +1 Armor
 
-  - Spiked shoulder pads that cause poison anyone that touches them (STR save or lose consciousness).
+  - Spiked shoulder pads that poison anyone that touches them (STR save or lose consciousness).
 
 ## Betterwand, 2 charges
 
@@ -31,12 +31,12 @@ nav_exclude: true
 
 ## Bloodmap, 1 charge
 
-  - A blank leather parchment that absorbs any blood spilled on its surface before rolling into a tight scroll. Unroll to see a poorly-construed map revealing the current location of any remaining blood. The image disappears after a few minutes.
+  - A blank leather parchment that absorbs any blood spilled on its surface before rolling into a tight scroll. Unroll to see a rough map revealing the current location of any remaining blood. The image disappears after a few minutes.
   - **Recharge**: Pour a pint of your own life essence onto the map, blood for blood. You are _deprived_ until you can rest and eat a Ration.
 
 ## Coin of the Father, 1 charge
 
-  - Flip this worthless-looking hunk of flat metal in the air and it will appear to produce 99 gold coins. The illusory coins disappear after an hour.
+  - Flip this worthless-looking hunk of flat metal in the air, and it will appear to produce 99 gold coins. The illusory coins disappear after an hour.
   - **Recharge**: Steal the coin from its most recent recipient.
 
 ## Dryad's Tear, 1 use
@@ -55,7 +55,7 @@ nav_exclude: true
 
 ## Falconstone, 3 charges
 
-  - Perceive the world through the eyes and ears of a nearby bird of prey. You feel whatever it feels but have no control.
+  - Perceive the world through the eyes and ears of a nearby bird of prey. You feel whatever it feels but have no control over it.
   - **Recharge**: Kill and eat a common quarry, cooking the meat alongside the stone.
 
 ## Footpad's Friend
@@ -90,11 +90,11 @@ nav_exclude: true
 
 ## Jar of Ants
 
-  - Break to release a colony of fire ants [6 HP, 2 STR, 10 DEX, 1 WIL, bite (d10), _detachment_]. Consume a ration every two days.
+  - Break to release a colony of fire ants [6 HP, 2 STR, 10 DEX, 1 WIL, bite (d10), _detachment_]. Consumes a ration every two days.
 
 ## Last Breath (d6), 1 charge
 
-  - A chipped short sword of dubious quality. Drive into the earth to form a crystal dome that encircles and immobilizes the wielder. The dome is impenetrable by mundane means, and shatters once the sword is lifted again.
+  - A chipped short sword of dubious quality. Drive into the earth to form a crystal dome that encircles and immobilizes the wielder. The dome is impenetrable by mundane , and shatters once the sword is lifted again.
   - **Recharge**: Deliver a killing blow with the sword, absorbing the dying victim's soul into the blade. There is a cunning intelligence within that speaks to the wielder, forever asking for more souls, more!
 
 ## Lightsucker Candle, 3 uses
@@ -107,7 +107,7 @@ nav_exclude: true
 
 ## Mace of the Kingslayer (d8), 2 charges
 
-  - Hold the weapon aloft and shout an order or declaration. Any who fail a WIL save must obey, against their better judgement.
+  - Hold the weapon aloft and shout an order or declaration. Any who fail a WIL save must obey, against their better judgment.
   - **Recharge**: Deliver a fatal blow to the leader of a group or faction.
 
 ## Moth Mirror, _bulky_
@@ -128,11 +128,11 @@ nav_exclude: true
 
 ## Parliament's Promise, +1 Armor
 
- - A helmet in the form of an owl's head. Its wearer can twist their head around like an owl and can see in darkness with perfect clarity. While wearing the helm the wearer loses the ability to speak, uttering only the simplest of cooing noises.
+ - A helmet in the form of an owl's head. Its wearer can twist their head around like an owl and can see in darkness with perfect clarity. While wearing the helm, the wearer loses the ability to speak, uttering only the simplest of cooing noises.
 
 ## Phoenix Ash, 1 use
 
-  - Sprinkle over a corpse to resurrect the deceased. They return with full health, but no memory of their past life.
+  - Sprinkle over a corpse to resurrect the deceased. They return with full health but no memory of their past life.
 
 ## Ring of the Snake, 1 charge
 
@@ -141,7 +141,7 @@ nav_exclude: true
 
 ## Roc Feather, 1 use
 
-  - Hold while falling to float safely to the ground from any distance.
+  - Hold while falling to float safely to the ground from any height.
 
 ## Skull Whistle, 3 charges
 
@@ -202,9 +202,9 @@ nav_exclude: true
 ## Wonder Bar, 1 charge
 
   - Pressing the switch on the side of this iron bar freezes it in place, even in midair. Once frozen, it cannot be moved by any force until the switch is depressed.
-  - **Recharge**: Hold the bar with both hands without letting go for one continuous hour (WIL save to succeed). Make only one attempt per day.
+  - **Recharge**: Hold the bar with both hands without letting go for one continuous hour (WIL save to succeed). You can make only one attempt every day.
 
 ## Wraith Lantern, 1 charge
 
-  - Write someone's name onto its glass and it will disappear. The lantern reveals a path to their current location, visible only to the holder (day or night).
+  - Write someone's name onto its glass, and the name will disappear. The lantern reveals a path to their current location, visible only to the holder (day or night).
   - **Recharge**: Kill the last person found with the help of the lantern, trapping their spirit inside. The lantern must be nearby when they are killed.
