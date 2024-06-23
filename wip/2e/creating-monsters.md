@@ -1,5 +1,5 @@
 ---
-title: Making Monsters
+title: Creating Monsters
 layout: default
 nav_exclude: true
 search_exclude: true
@@ -7,9 +7,9 @@ parent: 2e
 grand_parent: WIP
 ---
 
-# Making Monsters
+# Creating Monsters
 
-## Create a Monster
+## Overview
 
 To create a unique monster, follow these steps:
 - Roll on the [Monster Appearance](#monster-appearance) table.
