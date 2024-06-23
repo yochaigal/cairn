@@ -438,7 +438,7 @@ The weather can have a great impact on the people, culture, and terrain of a reg
 Points of Interest on a map (or POIs) are generally divided into the following categories:  
 - **Heart**: The primary settlement in a region. It isn't necessarily the largest or most important place, but it should always be significant to the region's history and people. 
 - **Settlements**: Permanent, largely self-sufficient population centers, typically governed by a political body or faction. 
-- **Waypoints**: A safe place to refill supplies, get a good night's sleep, or get directions. Often rely on travelers for survival but provide necessary services.
+- **Waypoints**: A safe place to refill supplies, get a good night's sleep, or get directions.
 - **Curiosities**: A wilderness locale of note, somewhere remarkable or strange. It may indeed be hazardous, but only if the PCs interact with it.
 - **Lairs**: An enemy encampment, hive, or source of heightened monster activity.
 - **Dungeons**: An explicitly dangerous locale, dungeon, or adventure site.
@@ -446,8 +446,8 @@ Points of Interest on a map (or POIs) are generally divided into the following c
 ### Draw Points of Interest
 
 - Draw the letter **H** close to a water source on the map. 
-- Roll **1d6** on the table, then roll an amount of dice equal to that number on the map. Collect any dice that roll off the page and set them aside.
-- Remove each die, noting the face up result according to the [POI Die Drop Table](#poi-die-drop-table) on the map. For example, the number 4 would indicate a Lair, denoted by the letter "L" on the page. 
+- Roll **1d6**, then roll an amount of dice equal to that number on the map. Collect any dice that roll off the page and set them aside.
+- Note the face-up result for each die, then use the [POI Die Drop Table](#poi-die-drop-table) to mark the type of POI on the map. For example, a die showing a 4 would indicate a Lair, denoted by the letter "L" on the page.
 - Roll any dice that fell off the map page, repeating the last step until none remain.
 - Starting with the Heart, number each POI on the map.
 - Roll on the relevant tables for each POI, including the Heart and all Landmarks. Note the results for each in your notebook.
@@ -474,7 +474,7 @@ Roll 1d20 for each column and combine the results.
 | **1**   | Academy         | Built Atop Ruins              |
 | **2**   | Caravan         | Built on Bones of Giants      |
 | **3**   | Citadel         | Center of Learning            |
-| **4**   | City            | Close-knit                    |
+| **4**   | City            | Close-Knit                    |
 | **5**   | Commune         | Divided                       |
 | **6**   | Compound        | Emits a Mysterious Hum        |
 | **7**   | Convent         | Famous for its Artisans       |
@@ -505,13 +505,13 @@ Roll 1d20 for each column and combine the results.
 | **4**   | Beacon Tower  | Cursed By Previous Occupants     |
 | **5**   | Bunker        | Decrepit Buildings               |
 | **6**   | Cabin         | Distrustful Occupants            |
-| **7**   | Campground    | Does Not Appear On Any Map       |
+| **7**   | Campground    | Does Not Appear on Any Map       |
 | **8**   | Guildhall     | Front for Illegal Operations     |
 | **9**   | Hospice       | Host to a Renowned Artisan       |
 | **10**  | Hunting Lodge | Known for its Elaborate Defenses |
-| **11**  | Inn           | Occupants are Lawful to a Fault  |
-| **12**  | Observatory   | Occupants are Overly Formal      |
-| **13**  | Reservoir     | Outsiders are Barred             |
+| **11**  | Inn           | Occupants Are Lawful to a Fault  |
+| **12**  | Observatory   | Occupants Are Overly Formal      |
+| **13**  | Reservoir     | Outsiders Are Barred             |
 | **14**  | Sanatorium    | Outsiders Cannot Carry Weapons   |
 | **15**  | Sanctuary     | Part of an Illegal Trade Route   |
 | **16**  | Shrine        | Popular Pilgrim Destination      |
@@ -542,7 +542,7 @@ Roll 1d20 for each column and combine the results.
 | **13**  | Hanging Bridges    | Infested With Vermin   |
 | **14**  | Illegible Signpost | Irregular Gravity      |
 | **15**  | Leviathan Skeleton | Isolated Weather       |
-| **16**  | Oddly-shaped Lake  | Only Appears At Night  |
+| **16**  | Oddly-Shaped Lake  | Only Appears at Night  |
 | **17**  | Petrified Trees    | Perpetual Mist         |
 | **18**  | Purple Geysers     | Perpetual Shadows      |
 | **19**  | Singing Stones     | Site of Ancient Battle |
@@ -556,7 +556,7 @@ Roll 1d20 for each column and combine the results.
 | ------- | ------------------- | ------------------- |
 | **d20** | **Lair**            | **Feature**         |
 | **1**   | Abandoned Tower     | Abandoned           |
-| **2**   | Ancient prison      | At Crossroads       |
+| **2**   | Ancient Prison      | At Crossroads       |
 | **3**   | Collapsed Mine      | Baited Entrance     |
 | **4**   | Colossal Hive       | Bioluminescence     |
 | **5**   | Crashed Ship        | Constant Screaming  |
@@ -623,13 +623,13 @@ Roll 1d20 for each column and combine the results.
   - Some paths may be parts of a chain and tied to a particular terrain (mountain passes, rivers, etc.).
   - Some paths are Conditional, represented by a crossed line.
   - Some paths are Hidden, represented by a dashed line.
-- Designate each path using the number of a POI and its connecting point, e.g. 1 &harr; 3. You can denote this in your notebook under the originating POI or in a separate section.  
-- Decide whether a path represents a road, a trail, or a wilderness route and write the results in your notebook.
+- Designate each path using the number of a POI and its connecting point, e.g. 1 &harr; 3. Indicate this in your notebook under the originating POI or in a separate section.  
+- Decide whether a path represents a road, a trail, or a wilderness route, and write the results in your notebook.
 - Roll on the [Path Features](#path-features) table for each path, writing the results in your notebook. 
-- Determine the path distances between POIs and note the duration on the map:
+- Determine the path distances between POIs, and note the duration on the map:
   - A Watch is 8 hours long. Denote days between POIs wherever possible (typically two Watches and one rest per day of travel).
   - A short distance between POIs takes one Watch to traverse, a medium distance takes two Watches, and a long distance takes three Watches. 
-  - For Trails add 1 more Watch, and for Wilderness routes add 2 additional Watches.
+  - For Trails, add 1 more Watch, and for Wilderness routes, add 2 additional Watches.
 
 ### Path Features
 
@@ -639,7 +639,7 @@ Roll 1d20 for each column and combine the results.
 | ------- | --------------------- | ---------------------------- |
 | **d20** | **Feature**           | **Condition**                |
 | **1**   | Abandoned Fields      | Bandit Ambushes              |
-| **2**   | Blood-red             | Blocked by Giant Boulder     |
+| **2**   | Blood-Red             | Blocked by Giant Boulder     |
 | **3**   | Buried Charms         | Collapsed Bridge             |
 | **4**   | Cattle Prints         | Confusing to Navigate        |
 | **5**   | Constant Patrols      | Dense Bramble                |
@@ -652,7 +652,7 @@ Roll 1d20 for each column and combine the results.
 | **12**  | Mile Markers          | Night Predators              |
 | **13**  | Mineral Flecks        | Occasional Stampedes         |
 | **14**  | Newly Made            | Overcrowded                  |
-| **15**  | Overgrown             | Passed Over Rapids           |
+| **15**  | Overgrown             | Passes over Rapids           |
 | **16**  | Rusted Tools          | Poisonous Fruit              |
 | **17**  | Shriveled Away        | Smoke-filled                 |
 | **18**  | Shredded              | Steep Climb                  |
@@ -668,14 +668,12 @@ Ask yourself the following questions:
 - What power do the Factions have over the people who live here?
 - Who or what threatens their agendas?
 - How would a faction interact with any newcomers (e.g. an adventuring party)?
-- How does the region's terrain and weather effect the people that live here? 
+- How does the region's terrain and weather affect the people that live here? 
 
-You should now have a sufficient idea about the people and terrain of this region, and are finally ready to form these results into a coherent theme. 
+You should now have a sufficient idea about the people and terrain of this region, and your first region is now complete. To expand your realm, repeat the process as many times as you wish.
 
 For example, if my results described a people that were religious and sought conversion, I'd assume they were a proud folk, prone to religious extremes and proselytizing. And if their primary resource was land, yet spices were rare, I'd assume they grew their own food, but due to a religious prohibition their cuisine was often bland.
 
-Presume that for Factions the result were a group of Nomads, with conviction their primary advantage. I could then assume that their elites were a class of religious chiefs. If the faction's agenda was to cultivate a rare resource, but they were hindered by cultural taboos, I might decide that they had hired the party to take on the task instead. Perhaps the object of their quest was a unique plant, only grown in a distant place, and that the mission must remain a secret!
+Presume that for a faction the result was a group of Nomads, with conviction their primary advantage. I could then assume that their elites were a class of religious chiefs. If the faction's agenda was to cultivate a rare resource, but they were hindered by cultural taboos, I might decide that they had hired the party to take on the task instead. Perhaps the object of their quest was a unique plant, only grown in a distant place, and that the mission must remain a secret!
  
-Finally, the party would meet with one of the faction agents: a spy posing as a peddler. Only she could tell them where the plant grew, and how to cultivate it. I keep in mind that this person should likely appear in the region's **Heart** (see below).
-
-Your first region is now complete. To expand your realm, repeat the process as many times as you wish.
+Finally, the party would meet with one of the faction agents: a spy posing as a peddler. Only she could tell them where the plant grew, and how to cultivate it. I keep in mind that this person should likely appear in an important place such as the region's **Heart**.
