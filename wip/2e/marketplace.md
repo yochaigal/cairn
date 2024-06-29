@@ -49,7 +49,7 @@ search_exclude: true
 |                               |     |
 | ----------------------------- | --- |
 | Room & Board (per night)      | 10  |
-| Private Room & board (fits 4) | 35  |
+| Private Room & Board (fits 4) | 35  |
 | Stable & Feed (per night)     | 5   |
 | Medical Healing               | 50  |
 | Rations (3 uses)              | 10  |
