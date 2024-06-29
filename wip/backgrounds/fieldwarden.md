@@ -29,7 +29,7 @@ Seed, Thresh, Dibber, Sow, Stalk, Harrow, Cobb, Flax, Briar, Rye
 
 |       |                                                                         |
 | ----- | --------------------------------------------------------------- |
-| **1** | A voracious swarm of pests that swallowed crops and animals alike. With nothing to defend, you left. Take **Gale Seed Extract** (3 uses).  Ingesting one lets you sprint with a speed four times your regular rate. Afterward you add two **Fatigue**.        |
+| **1** | A voracious swarm of pests that swallowed crops and animals alike. With nothing to defend, you left. Take **Gale Seed Extract** (3 uses).  Ingesting it lets you sprint with a speed four times your regular rate. Afterward you add two **Fatigue**.        |
 | **2** | A crop spirit, angered by a poor tithing. The fires consumed nearly everything, and afterwards you were able to gather a pouch of **Fireseeds** (d8, _blast_, 4 uses).        |
 | **3** | An antlered, toothy demon that nearly ended you. Take a blood-stained **Bone Knife** (d6). On **Critical Damage**, its next attack becomes _enhanced_ from contact with blood. |
 | **4** | _The Withering_, a type of stem rot from **The Roots**. Take a **Diseased Crop** (6 uses) that quickly decays any plant it touches.                        |
@@ -40,9 +40,9 @@ Seed, Thresh, Dibber, Sow, Stalk, Harrow, Cobb, Flax, Briar, Rye
 
 |       |                    |                                                                                                                                               |
 | ----- | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Bloodvine Whip** | d8 damage. On **Critical Damage** it drains the target's blood, granting the weapon's next attack the _blast_ quality             |
+| **1** | **Bloodvine Whip** | d8 damage. On **Critical Damage**, it drains the target's blood, granting the weapon's next attack the _blast_ quality             |
 | **2** | **Clatter Keeper** | A hand-cranked device that emits a loud noise, frightening away most creatures.                                                               |
 | **3** | **Sun Stick**      | Provides ample warmth and light for up to one hour. **Recharge**: Leave in heavy sunlight for a full day. 1 use. |
-| **4** | **Root Tether**    | When thrown, binds up to a wolf-sized creature to the soil for a short time.                                                                        |
+| **4** | **Root Tether**    | When thrown, binds a creature as large as a wolf to the soil for a short time.                                                                        |
 | **5** | **Greenwhistle**   | A small flute that calms plants, making passage through areas heavy with plant life a bit easier.                                                   |
-| **6** | **Everbloom Band** | A circlet adorned with flowers that never wilt. On taking **Critical Damage** the flowers dissolve into dust, but you act as if your save succeeded (STR loss still occurs). |
+| **6** | **Everbloom Band** | A circlet adorned with flowers that never wilt. On **Critical Damage**, the flowers dissolve into dust, but you act as if your save succeeded (STR loss still occurs). |
