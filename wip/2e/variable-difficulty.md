@@ -60,7 +60,7 @@ In Cairn, players are encouraged to overcome problems by asking questions, think
 
 **Freya**: _"Presumably this means that Wolfram and I are able to spy on the island while we hide, right? And that Lucius is still looking the opposite way, pretending to fuss over a stuck wheel?"_
 
-**Warden**: _"Correct. Both Wolfram and Freya can still see through the cart slats that something clambered out from beneath the pile of rocks on the island, scattering them as it moves towards the water. You can't actually tell what moved the rocks, though. It really is invisible! As you watch, something slips into the toxic waters, making a quiet splash. Based on the ripples on the surface, it appears to be heading in your direction!"_
+**Warden**: _"Correct. Both Wolfram and Freya can still see through the cart slats that something clambered out from beneath the pile of rocks on the island, scattering them as it moves towards the water. You can't actually tell what moved the rocks, though. It really is invisible! As you watch, something slips into the toxic waters, making a quiet splash. And its ripples are heading in your direction!"_
 
 **Wolfram**: _"Well I guess this is as good a time as ever to bring out my Voidglass Shard! It lets me see invisible creatures, but packs a wallop! I won't be able to see out of one eye for an hour, during which time my fighting skills will be... less effective. Might I be able to get a shot with the crossbow while looking through the glass?"_
 
@@ -72,7 +72,7 @@ In Cairn, players are encouraged to overcome problems by asking questions, think
 
 **Lucius**: _"Um, what about me? I won't be able to see the creature at all, let alone defend myself! I'd like to prepare an action for the moment Wolfram gets a shot off. I still have the large sack from our last caper, I wonder if I could leap on the creature when it approaches, trapping it like a giant fish?"_
 
-**Warden**: _"That works! You each prepare yourselves for what is to come. Freya and Wolfram, you wait in silence and the ripples come ever closer. Finally, they stop! Freya places the Voidglass Shard on Wolfram's eye as he raises his crossbow. Wolfram, you see a slimy, fish-like creature climbing out of the water, yellowed scales crisscrossing its multi-limbed body. There is a brief, breathless pause and then a loud TWANG as he lets loose a crossbow bolt."_
+**Warden**: _"That works! You each prepare yourselves for what is to come. Freya and Wolfram, you wait in silence as the ripples come ever closer. Finally, they stop! Freya places the Voidglass Shard on Wolfram's eye as he raises his crossbow. Wolfram, you see a slimy, fish-like creature climbing out of the water, yellowed scales crisscrossing its multi-limbed body. There is a brief, breathless pause and then a loud TWANG as he lets loose a crossbow bolt."_
 
 > Wolfram rolls a d8, resulting in a 6! As the creature was unaware of its attackers, the damage goes directly to STR. It makes a Critical Damage save, and the result is a 3: a success. 
 
@@ -96,7 +96,7 @@ In Cairn, players are encouraged to overcome problems by asking questions, think
 
 **Warden**: _"The two men exchange looks once more, but this time the other man replies, smirking. 'Well... perhaps this once. The Sun hasn't truly set just yet. And we are quite thirsty, after all.'"_
 
-> The Warden made a ruling based on what was known about these men: they were simple village guards, they'd been working a long day, and they loved beer. Perhaps with another character this wouldn't have worked, but Lucius is a Mountebank and his capacity for winning the confidence of his targets has been well established. The risk is minimal, so the guards let him in. 
+> The Warden made a ruling based on what was known about these men: they were simple village guards, they'd been working a long day, and they love beer. Perhaps with another character this wouldn't have worked, but Lucius is a Mountebank and his capacity for winning the confidence of his targets has been well established. The guards let him in. 
 
 ### Greater Risk For Greater Reward 
 
@@ -108,7 +108,7 @@ In Cairn, players are encouraged to overcome problems by asking questions, think
 
 **Warden**: _"No, because you've got enough of a distance from this person and you don't have any light sources lit. You may hide without risk of being found."_
 
-**Freya**: _"Hmm, that gives me an idea. If it seems to me like this person might belong to the same faction as our enemy, I would like to ambush them and steal their clothes. I don't want to spill much blood or raise the alarm, so my blades will need to be fast and furious."_
+**Freya**: _"If it seems to me like this person might belong to the same faction as our enemy, I would like to ambush them and steal their clothes. I don't want to raise the alarm, so I will need to be fast and furious."_
 
 **Warden**: _"OK. They will need to make a DEX save to react in time to fend off your attack, then. It might not go as cleanly as you hope!"_
 
@@ -122,7 +122,7 @@ In Cairn, players are encouraged to overcome problems by asking questions, think
 
 > **Wolfram**, **Lucius**, and **Freya** are on the run from a _detachment_ of twelve city guards [4 HP, 1 Armor, 11 STR, 14 DEX, 12 WIL, short sword (d6)], and they are taking shelter in a burnt-out old outpost at the edge of a forest, accessible only by a single ladder. The soldiers each carry a short sword and bow, except for their leader, a tall man with a bright blue epaulet on his shoulder. The soldiers know that the party have taken refuge in the outpost, and are talking among themselves at a safe distance away, just North of where the party is hunkering down. The _detachment_ will be treated as a single entity until they take Critical Damage. 
 
-**Warden**: _"The outpost is partly shielded by what remains of its walls, and through the slats you see the soldiers split off: six head towards the Southwest, adjacent to the treeline, while the rest (including the tall man) move Southeast, where the walls are the most damaged. It looks like they are planning some kind of pincer attack. Based on their current speed, you have less than a minute to act before they reach the open-side of the shield wall surrounding the outpost, where you'll be sitting ducks! What do you do?"_
+**Warden**: _"The outpost is partly shielded by what remains of its walls, and through the slats you see the soldiers split off: six head towards the Southwest, adjacent to the treeline, while the rest (including the tall man) move Southeast, where the walls are the most damaged. It looks like they are planning some kind of pincer attack. You have less than a minute to act before they reach the open-side of the shield wall! What do you do?"_
 
 **Wolfram**: _"I was in the military, so I know how this goes. That man with the fancy tassel is their leader. If we take him out, the rest might flee. I'm going to wait until he is as close as possible, then fire my crossbow at him. If that leaves me exposed, then so be it!"_
 
@@ -140,7 +140,7 @@ In Cairn, players are encouraged to overcome problems by asking questions, think
 
 **Warden**: _"The arrow whizzes past the leader's shoulder, tearing his brightly-colored shoulder epaulet. He grimaces and rushes forward towards the East side of the building. Freya, at the same time you pop your head through the trap door and toss Smoke Bombs on the East and West sides of the building - mark off 2 uses, please. Lucius, you stand behind her, and the moment she moves away, you pour some Miracle Oil on the stepladder."_
 
-**Warden**: _As smoke fills either side of the building, you lose sight of the soldiers. It becomes impossible to tell friend from foe, and even their leader disappears in the chaos. A few of the men try to climb the ladder but slide off, landing at the bottom in a heap. Your enemies have essentially lost their turn, but the smoke is starting to dissipate. Amidst coughing and shouts, you hear a voice: 'Burn it to the ground!'"_
+**Warden**: _"As smoke fills either side of the building, it becomes impossible to tell friend from foe. A few of the men try to climb the ladder but immediately slide off, landing at the bottom in a heap. Your enemies have essentially lost their turn, but the smoke is starting to dissipate. Amidst coughing and shouts, you hear a voice cry, 'Burn it to the ground!'"_
 
 **Wolfram**: _"Well that bought us some time, at least. Hey Lucius, how flammable is that oil of yours?"_
 
@@ -162,7 +162,7 @@ In Cairn, players are encouraged to overcome problems by asking questions, think
 
 > Freya makes two d4 rolls, a 4 and a 1. She keeps the higher, and the leader's helmet again absorbs 1 point of damage. The remaining three damage is enough to trigger a Critical Damage save on the behalf of the detachment. The result is a 15 (a fail), and with the defeat of their leader, the detachment is both broken and routed.
 
-**Warden**: _"Freya slashes at the leader, but her dagger misses as he takes a lucky step back. He is less fortunate on her second attack however, as she stabs him in the chest. He slumps over, and those closest to him shout in surprise; some even begin backing away. It is at this moment that you hear a scream, and then from the outpost see Wolfram leap onto the ground and begin running in circles like a chicken, followed by Lucius holding both of his friend's arms. The others then pick up their leader and hightail it back to the edge of the hill amid screams of 'They're monsters!' and 'We weren't trained for this!'"_ 
+**Warden**: _"Freya slashes at the leader, but her dagger misses as he takes a lucky step back. He is less fortunate on her second attack however, as she stabs him in the chest. He slumps over, and those closest to him shout in surprise; some even begin backing away. It is at this moment that you hear a scream, and then from the outpost see Wolfram leap onto the ground and begin running in circles, followed by Lucius holding both of his friend's arms. The others then pick up their leader and hightail it back to the edge of the hill amid screams of 'Sorcery!' and 'We weren't trained for this!'"_ 
 
 **Wolfram**: _"I knew that would work!"_
 
