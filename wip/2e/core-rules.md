@@ -11,7 +11,7 @@ grand_parent: WIP
 
 ## Attributes
 
-Each of the three **Attributes** are used in different circumstances (see **Saves**, below).
+Each of the three **Attributes** are used in different circumstances. (See **Saves**, below.)
 
 - **Strength (STR)**: Used for saves requiring physical power, like lifting gates, bending bars, resisting poison, etc.
 - **Dexterity (DEX)**: Used for saves requiring poise, speed, reflexes, dodging, climbing, sneaking, balancing, etc.
@@ -38,7 +38,7 @@ Each of the three **Attributes** are used in different circumstances (see **Save
 ## Armor
 
 - Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. 
-- Shields and similar armor provide a bonus defense (e.g. +1 Armor), but only while the item is held or worn. Some may also provide additional benefits according to their use.
+- Shields and similar armor provide a bonus defense (e.g. +1 Armor), but only while the item is held or worn. Some may also provide additional benefits depending on the fiction.
 - A PC, NPC, or monster cannot have more than 3 Armor.  
 
 ## Reactions
@@ -60,7 +60,7 @@ When the PCs encounter an NPC whose reaction to the party is not obvious, the Wa
 
 - Adventuring parties can recruit hirelings, relying on their unique skills, knowledge, and training to aid in expeditions.  
 - To create a hireling, choose an appropriate role from the [Hirelings](/wip/2e/marketplace#hirelings-per-day) table in the Marketplace. Roll 3d6 for each attribute, and 1d6 for their HP. Give them **equipment** appropriate to their station, then roll on the Character Traits tables to further flesh them out.
-- Alternatively, choose an appropriate [**background**](/wip/2e/character-creation#backgrounds) and **name** from the [Character Creation](/wip/2e/character-creation) guide. Roll (or choose from) the tables for that background. Then, roll for Rations, Gold Pieces, Attributes, HP, and age. 
+- Alternatively, choose an appropriate [**background**](/wip/2e/character-creation#backgrounds) and **name** from the [Character Creation](/wip/2e/character-creation) guide. Roll (or choose from) the tables for that background. Then roll for Rations, Gold Pieces, Attributes, HP, and age. 
 
 ## Die of Fate  
 
@@ -71,7 +71,7 @@ When the PCs encounter an NPC whose reaction to the party is not obvious, the Wa
 
 ### Rounds
 
-- A **Round** is roughly ten seconds of in-game time, and proceeds in turns. Each round starts with any PC that is able to act, followed by their opponents. _The result of each side's actions occur simultaneously_. 
+- A **Round** is roughly ten seconds of in-game time and and proceeds with each side taking turns. Each round starts with any PC that is able to act, followed by their opponents. _The result of each side's actions occur simultaneously_. 
 - During the _first round of combat_, each PC must make a DEX save in order to act. Special circumstances, abilities, items, or skills may negate this requirement. PCs that fail their save _lose their turn_ for this round.
 - Their opponents then take their turn, and the first round ends. The next round begins with the PCs taking their turn, followed by their opponents, and so on until combat has ended with one side defeated or fled.
 
@@ -87,7 +87,7 @@ On their turn, a character may move up to 40ft and take up to one action. This m
 
 ### Attack Modifiers
 
-- If fighting from a position of weakness (such as through cover or with bound hands), the attack is _Impaired_ and the attacker must roll 1d4 damage regardless of the attacks damage die. Unarmed attacks always do d4 damage.
+- If fighting from a position of weakness (such as through cover or with bound hands), the attack is _Impaired_, and the attacker must roll 1d4 damage regardless of the attacks damage die. Unarmed attacks always do d4 damage.
 - If fighting from a position of advantage (such as against a helpless foe or through a daring maneuver), the attack is _Enhanced_, allowing the attacker to roll 1d12 damage instead of their normal die.
 - Attacks with the _Blast_ quality affect all targets in the noted area, rolling separately for each affected character. This can be anything from explosions, to a dragon's breath, to the impact of a meteorite. If unsure how many targets can be affected, _roll the related damage die for a result_.
 - If attacking with two weapons at the same time, roll both damage dice and keep the single highest result (denoted with a plus symbol, e.g. d8+d8).
@@ -126,21 +126,21 @@ If damage to a PC would reduce their HP to exactly 0, look up the result on the 
 
 ### Scars Table
 
-|         |                                                              |
-| ------- | ------------------------------------------------------------ |
-| **HP Lost** | **Result**                                                       |
-| 1       | Lasting Scar: Roll 1d6. 1: Neck, 2: Hands, 3: Eye, 4: Chest, 5: Legs, 6: Ear. Roll 1d6. If the total is higher than your max HP, take the new result. |
-| 2       | Rattling Blow: You’re disoriented and shaken. Describe how you refocus. Roll 1d6. If the total is higher than your max HP, take the new result. |
-| 3       | Walloped: You’re sent flying and land flat on your face, winded. You are deprived until you rest for a few hours. Then, roll 1d6. Add that amount to your max HP. |
-| 4       | Broken Limb: Roll 1d6. 1-2: Leg, 3-4: Arm, 5: Rib, 6: Skull. Once mended, roll 2d6. If the total is higher than your max HP, take the new result. |
-| 5       | Diseased: You’re afflicted with a gross, uncomfortable infection. When you get over it, roll 2d6. If the total is higher than your max HP, take the new result. |
-| 6       | Reorienting Head Wound: Roll 1d6. 1-2: STR, 3-4: DEX, 5-6: WIL. Roll 3d6. If the total is higher than your current attribute, take the new result. |
-| 7       | Hamstrung: You can barely move until you get serious help and rest. After recovery, roll 3d6. If the total is higher than your max DEX, take the new result. |
-| 8       | Deafened: You cannot hear anything until you find extraordinary aid. Regardless, make a WIL save. If you pass, increase your max WIL by 1d4. |
-| 9       | Re-brained: Some hidden part of your psyche is knocked loose. Roll 3d6. If the total is higher than your max WIL, take the new result. |
-| 10      | Sundered: An appendage is torn off, crippled or useless. The Warden will tell you which. Then, make a WIL save. If you pass, increase your max WIL by 1d6. |
-| 11      | Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max HP. |
-| 12      | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result. |
+|             |                                                                                                                                                                                                                           |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **HP Lost** | **Result**                                                                                                                                                                                                                |
+| 1           | Lasting Scar: Roll 1d6. 1: Neck, 2: Hands, 3: Eye, 4: Chest, 5: Legs, 6: Ear. Roll 1d6. If the total is higher than your max HP, take the new result.                                                                     |
+| 2           | Rattling Blow: You’re disoriented and shaken. Describe how you refocus. Roll 1d6. If the total is higher than your max HP, take the new result.                                                                           |
+| 3           | Walloped: You’re sent flying and land flat on your face, winded. You are deprived until you rest for a few hours. Then, roll 1d6. Add that amount to your max HP.                                                         |
+| 4           | Broken Limb: Roll 1d6. 1-2: Leg, 3-4: Arm, 5: Rib, 6: Skull. Once mended, roll 2d6. If the total is higher than your max HP, take the new result.                                                                         |
+| 5           | Diseased: You’re afflicted with a gross, uncomfortable infection. When you get over it, roll 2d6. If the total is higher than your max HP, take the new result.                                                           |
+| 6           | Reorienting Head Wound: Roll 1d6. 1-2: STR, 3-4: DEX, 5-6: WIL. Roll 3d6. If the total is higher than your current attribute, take the new result.                                                                        |
+| 7           | Hamstrung: You can barely move until you get serious help and rest. After recovery, roll 3d6. If the total is higher than your max DEX, take the new result.                                                              |
+| 8           | Deafened: You cannot hear anything until you find extraordinary aid. Regardless, make a WIL save. If you pass, increase your max WIL by 1d4.                                                                              |
+| 9           | Re-brained: Some hidden part of your psyche is knocked loose. Roll 3d6. If the total is higher than your max WIL, take the new result.                                                                                    |
+| 10          | Sundered: An appendage is torn off, crippled or useless. The Warden will tell you which. Then, make a WIL save. If you pass, increase your max WIL by 1d6.                                                                |
+| 11          | Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max HP.                                                                         |
+| 12          | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result. |
 
 ## Magic
 
@@ -154,7 +154,7 @@ If damage to a PC would reduce their HP to exactly 0, look up the result on the 
 
 - Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. They must then add a **Fatigue** to inventory. 
 - Given time and safety, PCs can _enhance_ a spell's impact (e.g., affecting multiple targets, increasing its power, etc.) without any additional cost. 
-- If the PC is _deprived_ or in danger (such as during combat), the Warden may require a PC to make a WIL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect, and may result in added **Fatigue**, the destruction of the Spellbook, injury, and even death.
+- If the PC is _deprived_ or in danger (such as during combat), the Warden may require a PC to make a WIL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect and may result in added **Fatigue**, the destruction of the Spellbook, injury, and even death.
 
 ### Scrolls
 

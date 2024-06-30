@@ -26,7 +26,7 @@ search_exclude: true
 
 |                                                             |     |
 | ----------------------------------------------------------- | --- |
-| Dagger, Cudgel, Sickle, Staff, etc. (d6  damage)            | 5   |
+| Dagger, Cudgel, Sickle, Staff, etc. (d6 damage)             | 5   |
 | Spear, Sword, Mace, Axe, Flail, etc. (d8 damage)            | 10  |
 | Halberd, War Hammer, Long Sword, etc. (d10 damage, _bulky_) | 20  |
 | Sling (d6 damage)                                           | 5   |
@@ -123,4 +123,4 @@ search_exclude: true
 | Torch (3 uses)                                     | 5   |
 | Trap (d6 STR damage)                               | 35  |
 | Whistle (_petty_)                                  | 15  |
-| Wilderness Clothes (_petty_) (Poncho, Cloak, etc.) | 15  |
+| Wilderness Clothes (Poncho, Cloak, etc.) (_petty_) | 15  |
