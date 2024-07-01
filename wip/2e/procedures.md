@@ -160,7 +160,7 @@ Each day, the Warden should roll on the weather table for the appropriate season
 |     **Nice**     | Favorable conditions for travel.                                                                        | _Clear skies, sunny_                                      |
 |     **Fair**     | Favorable conditions for travel.                                                                        | _Overcast, breezy_                                        |
 |  **Unpleasant**  | Add a **Fatigue** _or_ add one **watch** to the journey.                                                | _Gusting winds, rain showers, sweltering heat, chill air_ |
-|  **Inclement**   | Add a **Fatigue** _or_ add **+1 watch**. Increase terrain **Difficulty** by a step.  | _Thunderstorms and lightning, rain, muddy ground_           |
+|  **Inclement**   | Add a **Fatigue** _or_ add **+1 watch**. Increase terrain **Difficulty** by a step.  | _Thunderstorms, lightning, rain, muddy ground_           |
 |   **Extreme**    | Add a **Fatigue** _and_ add **+1 watch**. Increase terrain **Difficulty** by a step. | _Blizzards, freezing winds, flooding, mud slides_         |
 | **Catastrophic** | Most parties cannot travel under these conditions.                                                      | _Tornados, tidal waves, hurricane, volcanic eruption_     |
 
