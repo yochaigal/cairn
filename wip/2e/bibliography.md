@@ -30,31 +30,47 @@ search_exclude: true
 
 - [Against The Wicked City: When all you have is a hammer: item-based problem-solving in OSR D&D](http://udan-adan.blogspot.com/2018/02/when-all-you-have-is-hammer-item-based.html)
 - [Lithyscaphe: Principia Apocrypha: Principles of Old School RPGs, or, A New OSR Primer](https://lithyscaphe.blogspot.com/p/principia-apocrypha.html)
-- [https://lukegearing.blot.im/against-incentive](https://lukegearing.blot.im/against-incentive)
-- [https://www.bastionland.com/2020/03/difficulty-in-bastionland.html](https://www.bastionland.com/2020/03/difficulty-in-bastionland.html)
-- [https://dreamingdragonslayer.wordpress.com/2020/03/28/advantage-and-impact/](https://dreamingdragonslayer.wordpress.com/2020/03/28/advantage-and-impact/)
-- [https://dicegoblin.blog/time-gear-skill-a-different-approach-to-skill-checks/](https://dicegoblin.blog/time-gear-skill-a-different-approach-to-skill-checks/?amp=1)
-- [DIY & dragons: Landmark, Hidden, Secret](https://diyanddragons.blogspot.com/2019/10/landmark-hidden-secret.html)
-- [https://cavegirlgames.blogspot.com/2019/09/terminology-diegetic-vs-non-diegetic.html](https://cavegirlgames.blogspot.com/2019/09/terminology-diegetic-vs-non-diegetic.html)
+- [Advantage and Impact](https://dreamingdragonslayer.wordpress.com/2020/03/28/advantage-and-impact/)
 
-### Dungeon/Adventure Design
+### Variable Difficulty
+
+- [Time, Gear & Skill: A Different Approach To Skill Checks](https://dicegoblin.blog/time-gear-skill-a-different-approach-to-skill-checks/?amp=1)
+- [Difficulty in Bastionland](https://www.bastionland.com/2020/03/difficulty-in-bastionland.html)
+
+### Adventure Design
 
 - [All Dead Generations](https://alldeadgenerations.blogspot.com/)
 - [Goblin Punch: Dungeon Checklist](http://goblinpunch.blogspot.com/2016/01/dungeon-checklist.html?m=1)
-- [https://lukegearing.blot.im/techniques-to-write-adventures#map-first](https://lukegearing.blot.im/techniques-to-write-adventures#map-first)
+- [Map First](https://lukegearing.blot.im/techniques-to-write-adventures#map-first)
 - [GROGNARDIA: Old School Dungeon Design Guidelines](https://grognardia.blogspot.com/2009/02/old-school-dungeon-design-guidelines.html)
 - [Throne of Salt: Adventure Writing Tips feat: Unicorn Meat](http://throneofsalt.blogspot.com/2022/02/adventure-writing-tips.html)
 - [Bat in the Attic: How to make a Fantasy Sandbox](https://batintheattic.blogspot.com/2009/08/how-to-make-fantasy-sandbox.html)
 - [Pleasures of the OSR: Secrecy and Discovery](https://maziriansgarden.blogspot.com/2019/04/pleasures-of-osr-secrecy-and-discovery.html)
 - [My Process](https://maziriansgarden.blogspot.com/2022/10/my-process.html)
 - [World Building and Old School Games](https://maziriansgarden.blogspot.com/2017/12/world-building-and-old-school-games.html)
+- [DIY & dragons: Landmark, Hidden, Secret](https://diyanddragons.blogspot.com/2019/10/landmark-hidden-secret.html)
+- [Against Incentive](https://lukegearing.blot.im/against-incentive)
+- [OSR Social Challenges](https://slightadjustments.blogspot.com/2020/04/osr-social-challenges.html)
+- [Building a Borough](https://www.youtube.com/watch?v=Dzxc8wQ57uI)
+- [Information, Choice, Impact](https://www.bastionland.com/2018/09/the-ici-doctrine-information-choice.html)
 
-### Tables
+### Procedures
 
-- [d4 Caltrops: Table Talk: My Process for Random Tables](https://blog.d4caltrops.com/2022/05/table-talk-my-process-for-random-tables.html)
-- [Distant Lands and the Creation Thereof](https://crateredland.blogspot.com/2019/06/distant-lands-and-creation-thereof.html)
-- [Ultraviolet Grasslands: 100 Misfortunes on the Road](https://wizardthieffighter.blogspot.com/2018/02/ultraviolet-grasslands-100-misfortunes.html)
-- [Wtf are these goblins doing?](https://goblinpunch.blogspot.com/2013/05/wtf-are-those-goblins-doing.html)
+- [5-Point Conflict Map - The ChaosGrenade](https://chaosgrenade.com/5-point-conflict-map)
+- [Hazard System v0.3](https://www.necropraxis.com/2017/11/22/hazard-system-v0-3/)
+- [OVERLOAD YOUR ENCOUNTER DICE](https://meanderingbanter.blogspot.com/2018/10/OVERLOAD-YOUR-ENCOUNTER-DICE.html)
+- [Writing Failed Careers](https://www.youtube.com/watch?v=jS51XkA9-_k)
+
+### Growth
+
+- [Foreground Growth and Becoming Odd](https://www.bastionland.com/2016/05/foreground-growth-and-becoming-odd.html)
+- [Advantage and Impact](https://dreamingdragonslayer.wordpress.com/2020/03/28/advantage-and-impact/)
+- [Examples of things that support Foreground Growth](https://mhuthulan.mediumquality.uk/2021/11/28/examples-of-things-that-cause-foreground-growth/)
+- [Terminology - Diegetic vs Non Diegetic](https://cavegirlgames.blogspot.com/2019/09/terminology-diegetic-vs-non-diegetic.html)
+- [Game-enhancing powers, game-ruining powers, and yet more magic items](https://udan-adan.blogspot.com/2021/10/game-enhancing-powers-game-ruining.html)
+- [Coins in D&D and Found Advancement](https://lichvanwinkle.blogspot.com/2021/11/coins-in-d-and-found-advancement.html)
+- [Less Rules To Do More: Advancement](https://aboleth-overlords.com/2020/09/19/less-rules-to-do-more-advancement/)
+- [Diegetic Advancement Triggers](https://dreamingdragonslayer.wordpress.com/2020/06/13/diegetic-advancement-triggers/)
 
 ### Wilderness Exploration
 
@@ -74,17 +90,9 @@ search_exclude: true
 - [Trilemma Adventures: Wilderness Paths](https://blog.trilemma.com/2021/08/wilderness-paths.html)
 - [Using Landmarks in Wilderness Travel](https://maziriansgarden.blogspot.com/2021/08/using-landmarks-in-wilderness-travel.html)
 
-### Procedures
+### Tables
 
-- [5-Point Conflict Map - The ChaosGrenade](https://chaosgrenade.com/5-point-conflict-map)
-- [https://www.necropraxis.com/2017/11/22/hazard-system-v0-3/](https://www.necropraxis.com/2017/11/22/hazard-system-v0-3/)
-- [https://meanderingbanter.blogspot.com/2018/10/OVERLOAD-YOUR-ENCOUNTER-DICE.html](https://meanderingbanter.blogspot.com/2018/10/OVERLOAD-YOUR-ENCOUNTER-DICE.html)
-- [OSR Social Challenges](https://slightadjustments.blogspot.com/2020/04/osr-social-challenges.html)
-
-### Growth
-
-- [https://www.bastionland.com/2016/05/foreground-growth-and-becoming-odd.html](https://www.bastionland.com/2016/05/foreground-growth-and-becoming-odd.html)
-- [https://mhuthulan.mediumquality.uk/2021/11/28/examples-of-things-that-cause-foreground-growth/](https://mhuthulan.mediumquality.uk/2021/11/28/examples-of-things-that-cause-foreground-growth/)
-- [https://udan-adan.blogspot.com/2021/10/game-enhancing-powers-game-ruining.html](https://udan-adan.blogspot.com/2021/10/game-enhancing-powers-game-ruining.html)
-- [https://lichvanwinkle.blogspot.com/2021/11/coins-in-d-and-found-advancement.html](https://lichvanwinkle.blogspot.com/2021/11/coins-in-d-and-found-advancement.html)
-- [https://aboleth-overlords.com/2020/09/19/less-rules-to-do-more-advancement/](https://aboleth-overlords.com/2020/09/19/less-rules-to-do-more-advancement/)
+- [d4 Caltrops: Table Talk: My Process for Random Tables](https://blog.d4caltrops.com/2022/05/table-talk-my-process-for-random-tables.html)
+- [Distant Lands and the Creation Thereof](https://crateredland.blogspot.com/2019/06/distant-lands-and-creation-thereof.html)
+- [Ultraviolet Grasslands: 100 Misfortunes on the Road](https://wizardthieffighter.blogspot.com/2018/02/ultraviolet-grasslands-100-misfortunes.html)
+- [Wtf are these goblins doing?](https://goblinpunch.blogspot.com/2013/05/wtf-are-those-goblins-doing.html)
