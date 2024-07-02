@@ -57,7 +57,7 @@ An older religion that owes its origin to the first peoples of the realm, who bu
 
 ## The Wood
 
-The _Wood_ surrounds and divides the realm, including anyone or anything that does not swear fealty to the current regime. Denizens of the Wood are fiercely independent, believing they are subject solely to its rules. Its various peoples, creatures, and unrelenting natural elements have kept the outside world at bay since time immemorial. The Wood is the spirit of all forests, and they in turn are its flesh, and the life they support a sign of its health.
+The **Wood** surrounds and divides the realm, representing not just one forest, but _all_ forests. Denizens of the Wood are fiercely independent, believing they are subject solely to its rules. Its various peoples, creatures, and unrelenting natural elements have kept the outside world at bay since time immemorial. The Wood is the spirit of all forests, and they in turn are its flesh, and the life they support a sign of its health.
 
 At the core of each forest is a _Heart Tree_, and the place where the forest is at its most powerful as well as its most dangerous. Each Heart Tree is born from a single _Heartseed_, acquired exclusively from a Heart Tree that is dying or dead. The Heart Tree acts as a pinion to the plants, trees, and animals all around it, observing and reacting to any problematic incursions into its domain. In particular, Heart Trees _fear humans_.
 
@@ -79,7 +79,7 @@ Those who make their lives in the Wood know to carry charms, gifts, and similar 
 
 ## The Roots
 
-The _Roots_ is a realm of mystery and horror underground, indifferent to the arbitrary divisions of the aboveground civilizations. Below, labyrinthine hollows stretch for immeasurable distances, connecting humble town sewers to far-flung ruins beyond the borders. Only the brave or foolish dare enter the Roots in search of forgotten Relics or profound wealth, and the few that do return whisper of the indescribable horrors and evil intelligence guarding these lost treasures. Stories tell of adventurers lost for centuries in the depths, only to emerge claiming that just a few hours have passed. Others claim to have made a week-long journey above ground in just one day, traveling through the tunnels beneath.
+The **Roots** is a realm of mystery and horror underground, indifferent to the arbitrary divisions of the aboveground civilizations. Below, labyrinthine hollows stretch for immeasurable distances, connecting humble town sewers to far-flung ruins beyond the borders. Only the brave or foolish dare enter the Roots in search of forgotten Relics or profound wealth, and the few that do return whisper of the indescribable horrors and evil intelligence guarding these lost treasures. Stories tell of adventurers lost for centuries in the depths, only to emerge claiming that just a few hours have passed. Others claim to have made a week-long journey above ground in just one day, traveling through the tunnels beneath.
 
 Entrances to the Roots, known as _Gates_, are scattered across the lands and are usually hidden or protected by powerful forces. Further, Gates cannot be opened without a proper key or alchemical pattern, and once opened, _can never be shut again._ Folk histories recount their openings as omens of great misfortunes, where creatures more vile than the darkest nightmare slink through, devouring nearby homes and villages. Others tell of great heroes raising their swords against these terrors, sealing away the Gate beneath rubble, mountains, lakes, or other impenetrable barriers.
 
