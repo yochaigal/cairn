@@ -19,6 +19,7 @@ search_exclude: true
 - Old School Essentials by Necrotic Gnome
 - Tunnel Goons by Highland Paranormal Society
 - Perilous Wilds by Jason Lutes
+- Vaults of Vaarn by Leo Hunt
 - Dungeon World by Sage LaTorra and Adam Koebel
 - Apocalypse World by Vincent and Meguey Baker
 - World of Dungeons by John Harper
@@ -40,7 +41,7 @@ search_exclude: true
 ### Adventure Design
 
 - [All Dead Generations](https://alldeadgenerations.blogspot.com/)
-- [Goblin Punch: Dungeon Checklist](http://goblinpunch.blogspot.com/2016/01/dungeon-checklist.html?m=1)
+- [Goblin Punch: Dungeon Checklist](http://goblinpunch.blogspot.com/2016/01/dungeon-checklist.html)
 - [Map First](https://lukegearing.blot.im/techniques-to-write-adventures#map-first)
 - [GROGNARDIA: Old School Dungeon Design Guidelines](https://grognardia.blogspot.com/2009/02/old-school-dungeon-design-guidelines.html)
 - [Throne of Salt: Adventure Writing Tips feat: Unicorn Meat](http://throneofsalt.blogspot.com/2022/02/adventure-writing-tips.html)
@@ -85,12 +86,11 @@ search_exclude: true
 - [Permanent Cranial Damage: hexcrawls ARE pathcrawls](https://permacrandam.blogspot.com/2022/09/hexcrawls-are-pathcrawls.html)
 - [The Retired Adventurer: Rationalising Overland Travel Paces](https://retiredadventurer.blogspot.com/2019/07/rationalising-overland-travel-paces.html)
 - [A Player-Facing Sandbox Part 1 - The Map - Pointless Monument](https://pointlessmonument.blot.im/a-player-facing-sandbox-part-1-the-map)
-- [VAARN REGION GENERATOR – VAULTS OF VAARN](https://vaultsofvaarn.com/2021/04/20/vaarn-region-generator/)
 - [Guidance and Orientation in Open World Maps](https://iuliu-cosmin-oniscu.medium.com/guidance-and-orientation-in-open-world-maps-c7ff78a12a05)
 - [Trilemma Adventures: Wilderness Paths](https://blog.trilemma.com/2021/08/wilderness-paths.html)
 - [Using Landmarks in Wilderness Travel](https://maziriansgarden.blogspot.com/2021/08/using-landmarks-in-wilderness-travel.html)
 
-### Tables
+### Worldbuilding
 
 - [d4 Caltrops: Table Talk: My Process for Random Tables](https://blog.d4caltrops.com/2022/05/table-talk-my-process-for-random-tables.html)
 - [Distant Lands and the Creation Thereof](https://crateredland.blogspot.com/2019/06/distant-lands-and-creation-thereof.html)
