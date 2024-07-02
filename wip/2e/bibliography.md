@@ -31,12 +31,11 @@ search_exclude: true
 
 ### Philosophy & Design
 
-- [Principia Apocrypha: Principles of Old School RPGs, or, A New OSR Primer](https://lithyscaphe.blogspot.com/p/principia-apocrypha.html)
+- [Principia Apocrypha](https://lithyscaphe.blogspot.com/p/principia-apocrypha.html)
 - [Weird Materialism and the OSR](https://deepunderstone.wordpress.com/2019/11/23/weird-materialism-and-the-osr/)
 - [The Universal Procedure of the OSR](https://www.prismaticwasteland.com/blog/the-universal-procedure-of-the-osr)
 - [Maxims of the OSR](https://alldeadgenerations.blogspot.com/2023/08/maxims-of-osr.html)
 - [New School Revolution](https://boneboxchant.wordpress.com/2019/12/21/nsr/)
-- [A simple resource management system for Into the Odd](https://blog.thesconesalone.com/2018/07/a-simple-resource-management-system.html)
  
 ### Adventure Writing
 
@@ -47,7 +46,7 @@ search_exclude: true
 - [Adventure Writing Tips](http://throneofsalt.blogspot.com/2022/02/adventure-writing-tips.html)
 - [How to make a Fantasy Sandbox](https://batintheattic.blogspot.com/2009/08/how-to-make-fantasy-sandbox.html)
 - [Pleasures of the OSR: Secrecy and Discovery](https://maziriansgarden.blogspot.com/2019/04/pleasures-of-osr-secrecy-and-discovery.html)
-- [My Process](https://maziriansgarden.blogspot.com/2022/10/my-process.html)
+- [My Process by Ben L.](https://maziriansgarden.blogspot.com/2022/10/my-process.html)
 - [World Building and Old School Games](https://maziriansgarden.blogspot.com/2017/12/world-building-and-old-school-games.html)
 - [Landmark, Hidden, Secret](https://diyanddragons.blogspot.com/2019/10/landmark-hidden-secret.html)
 - [Against Incentive](https://lukegearing.blot.im/against-incentive)
@@ -62,7 +61,6 @@ search_exclude: true
 ### Growth
 
 - [Foreground Growth and Becoming Odd](https://www.bastionland.com/2016/05/foreground-growth-and-becoming-odd.html)
-- [Advantage and Impact](https://dreamingdragonslayer.wordpress.com/2020/03/28/advantage-and-impact/)
 - [Examples of things that support Foreground Growth](https://mhuthulan.mediumquality.uk/2021/11/28/examples-of-things-that-cause-foreground-growth/)
 - [Diegetic vs Non Diegetic](https://cavegirlgames.blogspot.com/2019/09/terminology-diegetic-vs-non-diegetic.html)
 - [Game-enhancing powers, game-ruining powers, and yet more magic items](https://udan-adan.blogspot.com/2021/10/game-enhancing-powers-game-ruining.html)
@@ -70,19 +68,19 @@ search_exclude: true
 - [Less Rules To Do More: Advancement](https://aboleth-overlords.com/2020/09/19/less-rules-to-do-more-advancement/)
 - [Diegetic Advancement Triggers](https://dreamingdragonslayer.wordpress.com/2020/06/13/diegetic-advancement-triggers/)
 
-### Variable Difficulty
+### Mechanics
 
 - [Advantage and Impact](https://dreamingdragonslayer.wordpress.com/2020/03/28/advantage-and-impact/)
-- [Time, Gear & Skill: A Different Approach To Skill Checks](https://dicegoblin.blog/time-gear-skill-a-different-approach-to-skill-checks/?amp=1)
+- [Time, Gear & Skill: A Different Approach To Skill Checks](https://dicegoblin.blog/time-gear-skill-a-different-approach-to-skill-checks)
 - [Difficulty in Bastionland](https://www.bastionland.com/2020/03/difficulty-in-bastionland.html)
 - [Diegetic Classes (Wilderland)](https://riseupcomus.blogspot.com/2020/11/diegetic-classes-wilderland.html)
-
-### Wilderness Exploration
-
+- [A simple resource management system for Into the Odd](https://blog.thesconesalone.com/2018/07/a-simple-resource-management-system.html)
+- [Hexcrawls Kinda Suck](https://goblinpunch.blogspot.com/2024/01/hexcrawls-kinda-suck.html)
 - [Hill Cantons: Pointcrawl Series Index](http://hillcantons.blogspot.com/2014/11/pointcrawl-series-index.html)
+- [Why I Use Point Crawls More Than Hex Crawls](https://silverarmpress.com/why-i-use-point-crawls-more-than-hex-crawls/)
 - [Abstract vs Pointcrawl Navigating in a Jacquayed MegaDungeon](https://gundobadgames.blogspot.com/2020/10/abstract-vs-pointcrawl-navigating-in.html)
 - [How to Design a Pointcrawl Map](https://www.youtube.com/watch?v=4Yi0EnZATng)
-- [Filling The Gaps In A Hexcrawl or Pointcrawl](https://dicegoblin.blog/the-things-we-find-along-the-way-filling-the-gaps-in-a-hexcrawl-or-pointcrawl/#disposition)
+- [Filling The Gaps In A Hexcrawl or Pointcrawl](https://dicegoblin.blog/the-things-we-find-along-the-way-filling-the-gaps-in-a-hexcrawl-or-pointcrawl)
 - [See The Forest For The Trees](https://blog.d4caltrops.com/2019/04/see-forest-for-trees.html)
 - [Pathcrawl](http://detectmagic.blogspot.com/2014/04/pathcrawl.html)
 - [Sub-Hex Crawling Mechanics](https://diyanddragons.blogspot.com/2018/02/sub-hex-crawling-mechanics-part-1.html)
