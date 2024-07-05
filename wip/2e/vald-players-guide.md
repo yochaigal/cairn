@@ -29,7 +29,7 @@ At the core of each forest is a Heart Tree, the place where the forest is at its
 
 The Wood is populated by creatures strange and wondrous, such as Goblins, Spirits, Treants, Trolls, Werewolves, Witches, and even talking plants and animals. Most are openly hostile to outsiders (particularly humans), but others will (on occasion) parley with those that have shown respect for the Wood. Of course, all demonstrate utter respect for the Fae (sometimes called the **Pale Folk**, or the **Neighbors**).
 
-Of course, the Wood is not empty of people. Those who can survive (or even thrive) in such places learn to live according to the rules of the forest, for those that ignore or foolishly oppose these rules often meet grisly ends. 
+Of course, the Wood is not empty of people. Those who can survive (or even thrive) in such places learn to live according to the rules of the forest, for those who ignore or foolishly oppose these rules often meet grisly ends. 
 
 ## The Roots
 

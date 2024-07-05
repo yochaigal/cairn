@@ -32,13 +32,13 @@ Each of the three **Attributes** are used in different circumstances. (See **Sav
 ## Deprivation & Fatigue
 
 - A PC that lacks a crucial need (such as food or rest) is **Deprived**. Anyone **Deprived** for more than a day adds **Fatigue** to their inventory, one for each day. A **Deprived** PC cannot recover HP, Attributes, or item slots from **Fatigue**.
-- A PC may also be forced to add **Fatigue** after casting spells or due to events occurring in the fiction. Each Fatigue occupies one slot and lasts until the PC is able to recuperate (such as a full night’s rest in a safe spot).
+- A PC may also be forced to add **Fatigue** after casting spells or due to events occurring in the fiction. Each Fatigue occupies one slot and lasts until the PC is able to recuperate (such as with a full night’s rest in a safe spot).
 - If a character is forced to add **Fatigue** to their inventory but they have no free slots, they must drop an item from their inventory.
 
 ## Armor
 
 - Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. 
-- Shields and similar armor provide a bonus defense (e.g. +1 Armor), but only while the item is held or worn. Some may also provide additional benefits depending on the fiction.
+- Shields and similar armor provide a bonus defense (e.g. +1 Armor), but only while the item is held or worn. Some may also provide additional benefits, depending on the fiction.
 - A PC, NPC, or monster cannot have more than 3 Armor.  
 
 ## Reactions
@@ -59,7 +59,7 @@ When the PCs encounter an NPC whose reaction to the party is not obvious, the Wa
 ## Hirelings
 
 - Adventuring parties can recruit hirelings, relying on their unique skills, knowledge, and training to aid in expeditions.  
-- To create a hireling, choose an appropriate role from the [Hirelings](/wip/2e/marketplace#hirelings-per-day) table in the Marketplace. Roll 3d6 for each attribute, and 1d6 for their HP. Give them **equipment** appropriate to their station, then roll on the Character Traits tables to further flesh them out.
+- To create a hireling, choose an appropriate role from the [Hirelings](/wip/2e/marketplace#hirelings-per-day) table in the Marketplace. Roll 3d6 for each attribute and 1d6 for their HP. Give them **equipment** appropriate to their station, then roll on the Character Traits tables to further flesh them out.
 - Alternatively, choose an appropriate [**background**](/wip/2e/character-creation#backgrounds) and **name** from the [Character Creation](/wip/2e/character-creation) guide. Roll (or choose from) the tables for that background. Then roll for Rations, Gold Pieces, Attributes, HP, and age. 
 
 ## Die of Fate  
@@ -77,7 +77,7 @@ When the PCs encounter an NPC whose reaction to the party is not obvious, the Wa
 
 ### Actions
 
-On their turn, a character may move up to 40ft and take up to one action. This may be casting a spell, attacking, making a second move, or some other reasonable action. Each round, the PCs declare what they are doing before dice are rolled. If a character attempts something risky, the Warden calls for a save for appropriate players or NPCs. 
+On their turn, a character may move up to 40ft and take up to one action. This may be casting a spell, attacking, moving for a second time, or some other reasonable action. Each round, the PCs declare what they are doing before dice are rolled. If a character attempts something risky, the Warden calls for a save for appropriate players or NPCs. 
 
 ### Attacking & Damage
 
@@ -89,7 +89,7 @@ On their turn, a character may move up to 40ft and take up to one action. This m
 
 - If fighting from a position of weakness (such as through cover or with bound hands), the attack is _Impaired_, and the attacker must roll 1d4 damage regardless of the attacks damage die. Unarmed attacks always do d4 damage.
 - If fighting from a position of advantage (such as against a helpless foe or through a daring maneuver), the attack is _Enhanced_, allowing the attacker to roll 1d12 damage instead of their normal die.
-- Attacks with the _Blast_ quality affect all targets in the noted area, rolling separately for each affected character. This can be anything from explosions, to a dragon's breath, to the impact of a meteorite. If unsure how many targets can be affected, _roll the related damage die for a result_.
+- Attacks with the _Blast_ quality affect all targets in the noted area, rolling separately for each affected character. This can be anything from explosions to a dragon’s breath or the impact of a meteorite. If unsure how many targets can be affected, _roll the related damage die for a result_.
 - If attacking with two weapons at the same time, roll both damage dice and keep the single highest result (denoted with a plus symbol, e.g. d8+d8).
 
 ### Critical Damage
@@ -138,7 +138,7 @@ If damage to a PC would reduce their HP to exactly 0, look up the result on the 
 | 7           | Hamstrung: You can barely move until you get serious help and rest. After recovery, roll 3d6. If the total is higher than your max DEX, take the new result.                                                              |
 | 8           | Deafened: You cannot hear anything until you find extraordinary aid. Regardless, make a WIL save. If you pass, increase your max WIL by 1d4.                                                                              |
 | 9           | Re-brained: Some hidden part of your psyche is knocked loose. Roll 3d6. If the total is higher than your max WIL, take the new result.                                                                                    |
-| 10          | Sundered: An appendage is torn off, crippled or useless. The Warden will tell you which. Then, make a WIL save. If you pass, increase your max WIL by 1d6.                                                                |
+| 10          | Sundered: An appendage is torn off, crippled, or useless. (The Warden will tell you which.) Then make a WIL save. If you pass, increase your max WIL by 1d6.                                                                |
 | 11          | Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max HP.                                                                         |
 | 12          | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result. |
 

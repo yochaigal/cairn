@@ -224,13 +224,13 @@ Each day, the Warden should roll on the weather table for the appropriate season
 
 #### Supply
 
-- Characters can hunt, fish, or forage for food, with the first PC to take this action collecting 1d4 **Rations** (3 uses each).
-- The chance of a greater bounty increases with each additional participant (e.g. 1d4 becomes 1d6, up to a maximum of 1d12). Relevant experience or equipment may also increase the bounty.
+- One or more party members may hunt, fish, or forage for food, collecting 1d4 **Rations** (3 uses each). The chance of a greater bounty increases with each additional participant (e.g. 1d4 becomes 1d6, up to a maximum of 1d12). 
+- Relevant experience or equipment may also increase the bounty collected.
 - The party may encounter homes and small villages, spending gold and a full **watch** to resupply. 
 
 #### Make Camp
 
-- The party stops to set up camp in the wilds. Each party member (and their mounts) consume a **Ration**.
+- The party stops to set up camp in the wilds. Each party member (and their mounts) consumes a **Ration**.
 - A **lookout rotation** is set so that the party can sleep unmolested. A smaller party may need to risk sleeping unguarded or switch off sleeping over multiple days.
 - Party members that were able to rest remove all of **Fatigue** from their inventory.
 
@@ -250,7 +250,7 @@ PCs can complete individual **Milestones** by taking a **Downtime Action** and p
 - **Reputation**: Betting on a character's renown, personality, presence, social connections, etc.
 - **Loss**: Offering something specific and unique. A finger, a soul, a **Relic**, etc.
 
-Some **Costs** can be reduced or disregarded through character skills, connections, or force of will. For example, a PC may have already acquired the necessary reputation to gain access to a renowned institution, and thus the **cost** is abated. On the other hand, another character may not be so lucky and must rely on their force of personality instead. In this case, the Warden should state the risk (a permanent ban on entry, a loss of reputation, etc.). The PC then makes a **WIL** save; on a success the cost is either reduced or avoided entirely. 
+Some **Costs** can be reduced or disregarded through character skills, connections, or force of will. For example, a PC may have already acquired the necessary reputation to gain access to a renowned institution, and thus the **cost** is abated. On the other hand, another character may not be so lucky and must rely on their force of personality instead. In this case, the Warden should state the risk (a permanent ban on entry, a loss of reputation, etc.). The PC then makes a **WIL** save; on a success, the cost is either reduced or avoided entirely. 
 
 ## Downtime Actions
 
@@ -258,7 +258,7 @@ The following activities represent some of the most common **Downtime Actions** 
 
 ### Research
 
-A PC investigates a question about a bit of lost or forgotten lore, the location of a lost item, the whereabouts of an important NPC, and so on. To take this action the player must have a clearly formulated question they'd like to answer and a **Source** of knowledge in the game world that their character can interact with. If the PC does not have a **Source**, then they can spend a **Downtime Action** trying to find one. There is no guarantee that they will be successful. Once a question is posed and an appropriate **Source** has been identified, the **Warden** should provide any **Milestones** and associated **Costs**. 
+A PC investigates a question about a bit of lost or forgotten lore, the location of a lost item, the whereabouts of an important NPC, and so on. To take this action, the player must have a clearly formulated question they'd like to answer and a **Source** of knowledge in the game world that their character can interact with. If the PC does not have a **Source**, then they can spend a **Downtime Action** trying to find one. There is no guarantee that they will be successful. Once a question is posed and an appropriate **Source** has been identified, the **Warden** should provide any **Milestones** and associated **Costs**. 
 
 #### Questions
 
@@ -290,7 +290,7 @@ The player must describe precisely what they'd like to improve and a **Master** 
 
 - **The Two-Handed Parry**: When fighting with one hand free, a PC's HP temporarily increases by 1d4. The party took on a hireling from the **Cratered Lands**, whose fighters emphasize avoiding enemy attacks. She has agreed to train anyone who can best her in hand to hand combat.
 - **Herbology**: Given proper ingredients, a PC can create a **Healing Salve** (restores 4 STR) as a **Downtime Action**. After receiving care from an elderly herbalist in the **Verdant Glades**, the wounded PC asked to be trained in the healing arts. The **Master** has agreed, but asked that they collect three rare herbs before training can begin. 
-- **Troutmaster**: When taking the Supply **Action**, **Rations** gathered near cold, freshwater sources increase by one step (e.g. 1d4 becomes 1d6). The party escorted a stranded naturalist from the famously dreadful **Silver Wastes** safely back to the city. As thanks, she has offered to train a PC to identify and capture a common lakefish that frequents colder waters.
+- **Troutmaster**: When taking the Supply **Action**, **Rations** gathered near cold freshwater sources increase by one step (e.g. 1d4 becomes 1d6). The party escorted a stranded naturalist from the famously dreadful **Silver Wastes** safely back to the city. As thanks, she has offered to train a PC to identify and capture a common lakefish that frequents colder waters.
 
 ### Strengthening Ties
 
