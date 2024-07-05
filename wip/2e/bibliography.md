@@ -12,7 +12,7 @@ search_exclude: true
 ## Games & Supplements
 
 - Beyond the Wall by Flatland Games
-- Into the Odd: Electric Bastionland by Chris McDowall
+- Electric Bastionland by Chris McDowall
 - Errant by Kill Jester
 - Knave & Maze Rats by Ben Milton
 - Mausritter by Isaac Williams

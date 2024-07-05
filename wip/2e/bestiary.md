@@ -39,8 +39,8 @@ search_exclude: true
 
 4 HP, 1 Armor, 8 STR, 11 DEX, 14 WIL, ceremonial dagger (d6)
 
-- A holy servant bound to a particular deity. Typically travels in groups of four or more.
-- Carries a holy symbol (_Ward_ once per day).
+- Holy servants bound to a particular deity. Typically travel in groups of four or more.
+- Carry a holy symbol (_Ward_ once per day).
 
 ## Aranea
 
@@ -71,8 +71,8 @@ search_exclude: true
 10 HP, 1 Armor, 12 STR, 13 DEX, 13 WIL, bite (d10)
 
 - Long, serpentine lizards that nest deep below the earth or in brambles just underfoot. 
-- Fighting a **Basilisk** without meeting its gaze is difficult (attacks facing it are _impaired_).
-- **Gaze**: A target facing the Basilisk is slowly petrified, from the bottom up, completely frozen after three rounds. An antidote can be brewed from the Basilisk's gizzards. The creature's reflection is harmless.
+- Fighting a **Basilisk** without meeting its gaze is difficult. (Attacks facing it are _impaired_.)
+- **Gaze**: A target facing the Basilisk is slowly petrified from the bottom up and completely frozen after three rounds. An antidote can be brewed from the Basilisk's gizzards. The creature's reflection is harmless.
 
 ## Blink Dog
 
@@ -87,7 +87,7 @@ search_exclude: true
 
 - Born from violence resulting from a greedy or selfish act.
 - Kill their victims for sustenance, but gains no succor. They are always hungry.
-- **Critical Damage**: gores its victims by ripping out their entrails.
+- **Critical Damage**: Gores its victims by ripping out their entrails.
 
 ## Boggart
 
@@ -152,7 +152,7 @@ search_exclude: true
 
 12 HP, 12 STR, 11 DEX, 14 WIL, ethereal claws (d8+d8)
 
-- Animated skeletons clothed in billowing robes. Their eye sockets are hypnotically red. Defends crypts & tombs, but will not attack if left undisturbed.
+- Animated skeletons clothed in billowing robes. Their eye sockets are hypnotically red. Defend crypts and tombs, but will not attack if left undisturbed.
 - Non-magical attacks against them are _impaired_.
 - Can teleport any target in eyesight to a random room nearby.
 
@@ -192,7 +192,7 @@ search_exclude: true
 8 HP, 3 Armor, 14 STR, 4 DEX, 12 WIL, claws (d8+d8)
 
 - Magical, slow-moving statues of monstrous winged creatures, typically employed as guards or watchdogs. 
-- Prowl at nights but fear the day, where the sun's light freezes them in place.
+- Prowl at nights but fear the day, when the sun's light freezes them in place.
 - Immune to charms and magical sleep.
 
 ## Gelatinous Ooze
@@ -244,7 +244,7 @@ search_exclude: true
 
 - Forest-dwelling snakes topped with tall green scales. Collect great hoards of treasure.
 - Use intelligence and cunning to manipulate the weak into their service.
-- **Chlorine Gas**: Anyone nearby must make a DEX save to escape its reach, or lose 1d4 STR and becomes _deprived_.
+- **Chlorine Gas**: Anyone nearby must make a DEX save to escape its reach or lose 1d4 STR and becomes _deprived_.
 
 ## Griffon
 
@@ -252,7 +252,7 @@ search_exclude: true
 
 - Ravenous hybrids, with the head and wings of an eagle and the lower body of a lion.
 - Can be used as mounts if taken young and properly trained.
-- Fly and attack at astonishing speeds, diving in scoop up their prey.
+- Fly and attack at astonishing speeds, diving in to scoop up their prey.
 - **Critical Damage**: Tears flesh and bone from its victim with its razor-sharp beak.
 
 ## Grizzly Bear
@@ -276,7 +276,7 @@ search_exclude: true
 8 HP, 12 STR, 15 DEX, 9 WIL, bite (d8) or fire breath (d6, _blast_)
 
 - Monstrous, intelligent dogs that dwell near volcanoes.
-- Immune to fire and heat damage. Hot enough to melt iron by simply biting it.
+- Immune to fire and heat damage. Hot enough to melt iron simply by biting it.
 
 ## Hobgoblin
 
@@ -328,15 +328,15 @@ search_exclude: true
 6 HP, 11 STR, 12 DEX, 16 WIL, toothy bite (d8)
 
 - Centaur-like creatures that prey on the life force of others, seducing their victims through heightened charm and intelligence. Their upper bodies are typically humanoid, the lower half any number of animal hybrids.
-- Inherently magical. Can create illusions, charm, and disguise themselves at will.
+- Inherently magical. Can create illusions, charm creatures, and disguise themselves at will.
 - **Critical Damage**: The target takes d6 WIL damage as their spirit is slowly sapped away. They then become enthralled to the Lamia, obeying its every command while in its presence.
 
 ## Lich
 
 14 HP, 1 Armor, 8 STR, 8 DEX, 18 WIL, soul dagger (d8)
 
-- Powerful sorcerers that paid the ultimate price for immortality: their own life. Now, their thirst for power knows no bounds.
-- Maintains unlife by binding themselves to an earthly artifact, which is typically protected by at least d6 other undead servants.
+- Powerful sorcerers that paid the ultimate price for immortality: their own life. Now their thirst for power knows no bounds.
+- Maintain unlife by binding themselves to an earthly artifact, which is typically protected by at least d6 other undead servants.
 - Carry up to six of the following spellbooks: _Animate Object_, _Arcane Eye_, _Deafen_, _Disassemble_, _Elemental Wall_, _Frenzy_, _Gate_, _Hover_, _Hatred_, _Identify Owner_, _Knock_, _Pacify_, _Raise Dead_, _Raise Spirit_, _Shield_, _Sleep_, _Smoke Form_, _Telekinesis_, _Telepathy_, _Teleport_, _Vision_, _Wizard Mark_.
 
 ## Manticore
@@ -352,7 +352,7 @@ search_exclude: true
 9 HP, 2 Armor, 13 STR, 6 DEX, 12 WIL, bite (d8)
 
 - Malicious shape shifters that take on the form of inanimate objects commonly found in dungeons.
-- Remain motionless (typically in the form of a chest or door), surprising anyone that comes near.
+- Remain motionless while in disguise, surprising anyone that comes near.
 - The mimic's saliva is extremely sticky and difficult to remove. Alchemists will pay up to 150gp for even the smallest vial.
 
 ## Mind Lasher
@@ -419,7 +419,7 @@ still alive.
 
 9 HP, 16 STR, 12 DEX, 5 WIL, beak (d10) or claws (d8+d8)
 
-- Bear-like carnivores with the face of an owl. Found in dense forests. Rumored spawns of a magical mishap.
+- Bear-like carnivores with the face of an owl. Found in dense forests. Rumored spawn of a magical mishap.
 - **Critical Damage**: A piece of armor is pierced and destroyed.
 
 ## Phoenix
@@ -427,7 +427,7 @@ still alive.
 4 HP, 15 STR, 13 DEX, 12 WIL, talons (d10+d10)
 
 - Intelligent, hawk-like spirits of pure flame, found in isolated deserts and high mountains.
-- If killed, they phoenix explodes in a burst of flames. They are reborn 1d3 days later from the ashes.
+- If killed, they explode in a burst of flames. They are reborn 1d3 days later from the ashes.
 - Their feathers are highly-sought after for their healing properties.
 
 ## Pixie
@@ -444,11 +444,11 @@ still alive.
 - Gargantuan worms that lair in enormous burrows deep underground, only coming to the surface to eat. Found in high deserts and hot tundra.
 - **Critical Damage**: The target is devoured, taking d8 STR damage from the acid in the worm's stomach.
 
-## Red Cap
+# Red Cap
 
 6 HP, 6 STR, 12 DEX, 8 WIL, dual sickles (d6+d6)
 
-- Borne from blood left to rot in the land of Fairy. Their hats are a deep red from the blood they bathe in.
+- Born from blood left to rot in the land of Fairy. Their hats are a deep red from the blood they bathe in.
 - Ignore those with little to live for, as there is no pleasure in their murder.
 - **Critical Damage**: Target is eviscerated, the spray of their blood restoring STR loss suffered by the Red Cap.
 
@@ -616,7 +616,7 @@ still alive.
 8 HP, 15 STR, 14 DEX, 6 WIL, claws (d6+d6) or bite (d8)
 
 - Ferocious lycanthropes that can transform into a wolf-shape at will.
-- Mundane attacks are _impaired_ against werewolves, but weapons made of silver are _enhanced_.
+- Mundane attacks are _impaired_ against werewolves, but attacks with weapons made of silver are _enhanced_.
 - **Critical Damage**: Target becomes infected with lycanthropy, transforming into a werewolf by the next full moon.
 
 ## Wight
@@ -661,5 +661,5 @@ still alive.
 2 HP, 12 STR, 6 DEX, 3 WIL, jagged nails (d6)
 
 - Re-animated corpse brought back through necromantic ritual or fell influence. Immune to all mind-influencing effects.
-- If not utterly destroyed (fire, complete dismemberment, etc.), the Zombie will rise again within a few minutes.
+- If not utterly destroyed (by fire, complete dismemberment, etc.), the Zombie will rise again within a few minutes.
 - **Critical Damage**: Target is infected and becomes _deprived_. Without the services of a specialist or healer, they will become a zombie in 1d4 days.

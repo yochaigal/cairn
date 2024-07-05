@@ -10,4 +10,4 @@ grand_parent: Resources
 
 - Forest-dwelling snakes topped with tall green scales. Collect great hoards of treasure.
 - Use intelligence and cunning to manipulate the weak into their service.
-- **Chlorine Gas**: Anyone nearby must make a DEX save to escape its reach, or lose 1d4 STR and becomes _deprived_.
+- **Chlorine Gas**: Anyone nearby must make a DEX save to escape its reach or lose 1d4 STR and becomes _deprived_.

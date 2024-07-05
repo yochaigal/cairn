@@ -74,11 +74,11 @@ A wide courtyard exposed to the **open air**. The **ground** is sandy and rough.
 
 **Freya**: _"Right, remember that I'd like to take a look, but I don't want to get too close."_
 
-**Warden**: _"You approach until you are about five feet away from the Statue. The face looks chipped away, and one of the eyes is missing entirely. However embedded in the other is a beautiful red jewel! The statue holds a white bident in its hands. Do you interact with the statue further, or move along?"_
+**Warden**: _"You approach until you are about five feet away from the statue. The face looks chipped away, and one of the eyes is missing entirely. However, embedded in the other is a beautiful red jewel! The statue holds a white bident in its hands. Do you interact with the statue further or move along?"_
 
 **Freya**: _"That's just creepy! I want no part in this, at least not until we learn more about what this room was for. I'd like to investigate that rubble you mentioned before."_ 
 
-**Warden**: _"Alright, you move to the rubble adjacent to the statue. It looks extremely heavy, and difficult to move. In the light from **Wolfram's** torch you can see something red and shiny glinting in the cracks of the pile. What do you do?"_
+**Warden**: _"Alright, you move to the rubble adjacent to the statue. It looks extremely heavy and difficult to move. In the light from **Wolfram's** torch, you can see something red and shiny glinting in the cracks of the pile. What do you do?"_
 
 **Freya**: _"I investigate further, of course!"_
 
@@ -86,7 +86,7 @@ A wide courtyard exposed to the **open air**. The **ground** is sandy and rough.
 
 **Freya**: _"I want it. Can I dig it out easily?"_
 
-**Warden**: _"The fingers are wrapped around it quite tightly; you'll need to work hard to get it loose, or spend an extra turn to extract it quietly. Either choice will likely trigger a dungeon event roll."_
+**Warden**: _"The fingers are wrapped around it quite tightly; you'll need to work hard to get it loose or spend an extra turn to extract it quietly. Either choice will likely trigger a dungeon event roll."_
 
 **Freya**: _"Damn. Fine, I'll do it as quickly as possible, using the edge of my dagger and a block of rubble to pop it out. Noise be damned!_"
 

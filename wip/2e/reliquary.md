@@ -155,7 +155,7 @@ nav_exclude: true
 ## Spystone, 1 charge
 
   - A smooth, flat stone that is slightly warm to the touch. Squeeze to record audio in a 40ft radius. Squeeze again to play it back, as many times as you like.
-  - **Recharge**: To record a new sound, skip the rock at least three times on a body of water and then recover.
+  - **Recharge**: To record a new sound, skip the rock at least three times on a body of water and recover it.
 
 ## Sticky Rope, 1 charge
 
@@ -176,7 +176,7 @@ nav_exclude: true
 
 ## Tupshead Crown, +1 Armor, _bulky_
 
-  - A beautifully rendered ram's head helm wrought from tough Alpine Oak. The horns can be used as weapons (d6+d6).
+  - A beautifully rendered ram's head helm wrought from tough alpine oak. The horns can be used as weapons (d6+d6).
 
 ## Veilsilk Grip, 1 charge
 

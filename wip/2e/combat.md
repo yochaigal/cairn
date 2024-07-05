@@ -13,7 +13,7 @@ search_exclude: true
 
 Combat in Cairn is fast, hectic, and often lethal. In addition, the rules of combat are unique in a few key ways:
 
-- **Side Initiative**: With the exception of the first round (where PCs must first save DEX to secure their turn), both the PCs and their opponents take turns acting together. The results of a side's individual actions occur simultaneously.
+- **Side Initiative**: With the exception of the first round (when PCs must first save DEX to secure their turn), both the PCs and their opponents take turns acting together. The results of a side's individual actions occur simultaneously.
 - **Attacks Automatically Hit**: Combatants typically deal damage to their targets automatically, without rolling to see whether an attack "hits." When multiple attackers target the same foe, only the highest dice result is used in the attack.
 - **Hit Protection and Scars**: Hit Protection acts as a measurement of skill, stamina, resilience, and luck. It also refills automatically when the PC is safe and comfortable. If damage reduces a PC's HP to exactly 0, they receive a _Scar_, which can yield both positive and negative consequences.
 - **Critical Damage**: Damage that reduces a target’s HP below zero is subtracted from their STR by the amount of damage remaining. The target must then immediately make a STR save to avoid taking Critical Damage, using their new STR score. On a fail, the target is defeated.
@@ -28,7 +28,7 @@ Combat in Cairn is fast, hectic, and often lethal. In addition, the rules of com
 
 **Lucius**: _"Come now, we don't know that there is an immediate danger. Right?"_
 
-**Wolfram**: _"It doesn't matter, we must be prepared for whatever comes next. Keep your weapons down, and I'll a shout. Perhaps we can avoid bloodshed yet."_
+**Wolfram**: _"It doesn't matter; we must be prepared for whatever comes next. Keep your weapons down, and I'll a shout. Perhaps we can avoid bloodshed yet."_
 
 **Warden**: _"You bark a traditional warning in the direction of the barrow. There is no immediate response, then only a snicker. They appear to be laughing at you! Moments later, three figures step out of the mist and directly into your line of view, each brandishing a weapon. The largest of the three grins as he wields a two-handed war ax, and the other two (a man and woman who are clearly siblings) carry identical swords. Everyone roll a DEX save to see if you can act before they do."_
 
@@ -36,7 +36,7 @@ Combat in Cairn is fast, hectic, and often lethal. In addition, the rules of com
 
 **Lucius**: _"Well, shoot. I guess I fumbled my cane sword in all the excitement?"_
 
-**Warden**: _"Indeed. Alright, Wolfram and Freya, each of you can move and take one action this turn. Assuming they survive, your three opponents will then have a chance to retaliate. Then it will be the PC's turn to act, including Lucius."_
+**Warden**: _"Indeed. Alright, Wolfram and Freya, each of you can move and take one action this turn. Assuming they survive, your three opponents will then have a chance to retaliate. Then it will be the PCs' turn to act, including Lucius."_
 
 **Wolfram**: _"I don't have my crossbow ready, so I'm going to go after the big one with my silver knife. If we can take him down, the others might flee."_
 
@@ -44,13 +44,13 @@ Combat in Cairn is fast, hectic, and often lethal. In addition, the rules of com
 
 > Wolfram and Freya each make individual attack rolls, but only the highest number counts as damage against the large man [8 HP, 15 STR, 7 DEX, 9 WIL, battleax (d10)]. Wolfram rolls a 4, and Freya a 5 and a 1 for each dagger respectively.
 
-**Warden**: _"You each rush the man with the war ax. He easily sidesteps Wolfram's initial jab, but nearly isn't quick enough for Freya! He is nearly eviscerated as her twin daggers slice the air where he stood only a millisecond before. That was a close one!"_
+**Warden**: _"You each rush the man with the war ax. He easily sidesteps Wolfram's initial jab but nearly isn't quick enough for Freya! He is nearly eviscerated as her twin daggers slice the air where he stood only a millisecond before. That was a close one!"_
 
-**Freya**: _"Thanks, that isn't much comfort though."_
+**Freya**: _"Thanks. That isn't much comfort though."_
 
 > It is now the opponents' turn to attack or take an action. Although the description of these events is delivered consecutively, the results happen roughly at the same time. The Warden rolls an attack die for each enemy combatant, targeting each PC only once. The large man rolls a d10 but deals only 3 damage against Freya, while his associates each roll a d6, dealing 1 and a 6 damage against Wolfram and Lucius respectively. As the Warden narrates the results, each player records any lost HP or STR on their character sheet.
 
-**Warden**: _"Now your opponents will get a crack at it. The large man swings his ax at Freya, but it misses, leaving a wide gap between her and the ax edge. You don't know if you'll be so lucky next time, however. Next, the shorter man stabs at Wolfram, who is the closer of the three. Luckily the man's blade only glances off his armor. Now on to the man's sister, who nearly takes Lucius's head off with her blade. Somehow, the blade doesn't draw blood, but instead knocks him back so hard he nearly keels over, and his vision is filled with bright lights and sparkling things."_
+**Warden**: _"Now your opponents will get a crack at it. The large man swings his ax at Freya, but it misses, leaving a wide gap between her and the ax edge. You don't know if you'll be so lucky next time, however. Next, the shorter man stabs at Wolfram, who is the closer of the three. Luckily, the man's blade only glances off his armor. Now on to the man's sister, who nearly takes Lucius's head off with her blade. Somehow the blade doesn't draw blood but instead knocks him back so hard he nearly keels over, and his vision is filled with bright lights and sparkling things."_
 
 **Lucius**: _"Ouch. I think that takes me to exactly 0 HP. I should check the Scars table, right?"_
 
@@ -66,7 +66,7 @@ Combat in Cairn is fast, hectic, and often lethal. In addition, the rules of com
 
 **Lucius**: _"I am going to try and stab that woman with my cane sword."_
 
-> Wolfram rolls a d6, dealing 2 damage to the shorter man, who has enough HP to absorb the attack. Freya rolls a d6 for each of her daggers, dealing a 1 and a 3. She keeps only the higher die, and the large man is able to absorb the damage, taking his HP down to 0 (but only PCs gain Scars). Lucius rolls a 6 against the woman [5 HP, 11 STR, 8 DEX, 14 WIL]. She loses 1 point of STR in the attack, and so must then roll a Critical Damage save using her _new_ STR score.
+> Wolfram rolls a d6, dealing 2 damage to the shorter man, who has enough HP to absorb the attack. Freya rolls a d6 for each of her daggers, dealing a 1 and a 3. She keeps only the higher die, and the large man is able to absorb the damage, taking his HP down to 0 (but only PCs gain Scars). Lucius rolls a 6 against the woman [5 HP, 11 STR, 8 DEX, 14 WIL]. She loses 1 point of STR in the attack and so must then roll a Critical Damage save using her _new_ STR score.
 
 **Warden**: _"Wolfram, you stab at the shorter man, but he deftly avoids your attack! Freya, your daggers slice at the large man with impressive speed and intensity, and it's clear that you've put him on the defensive, as you can see the sweat begin pouring down the sides of his head. He is running out of steam! Lucius, your cane sword pierces the woman in the stomach! She makes a STR save to see if she can stay in the fight. She rolls a 13, a fail! She goes down!"_
 

@@ -280,7 +280,7 @@ Roll 1d20 for each column and combine the results.
 
 #### Lore
 
-Lore rooms should build on the theme of the dungeon, provide a valuable lesson, or connect the characters with an NPC or Faction. They might create a dilemma that unites the party or puts them at odds with their mission. At a minimum these rooms act as a curiosity, adding something memorable to the experience beyond danger and puzzle-solving. Of course, the characters should not know that these rooms do not contain danger or challenges. This helps increase tension in the dungeon, while offering a potential respite and opportunity for growing the narrative. 
+Lore rooms should build on the theme of the dungeon, provide a valuable lesson, or connect the characters with an NPC or Faction. They might create a dilemma that unites the party or puts them at odds with their mission. At a minimum, these rooms act as a curiosity, adding something memorable to the experience beyond danger and puzzle-solving. Of course, the characters should not know that these rooms do not contain danger or challenges. This helps increase tension in the dungeon, while offering a potential respite and opportunity for growing the narrative. 
 
 Roll 1d20 for each column and combine the results.
 
@@ -388,7 +388,7 @@ We then roll on the **Purpose**, **Construction**, and **Ruination** tables and 
 
 ### Why was this dungeon built and what caused its downfall?
 
-_It was designed by an extremist cult of forest druids to house a reality-altering Relic. Its entrance is beneath a false stone in a circle of menhirs deep in the forest. The walls and ceiling of the dungeon are built from petrified wood, as the ancient artifact affects living plants, warping them to its will. A division within the cult faced off over control of the Relic, but fell victim to their own hubris and nearly destroyed one another. When two opposing rituals collided, the temple was split in two, divided along Factional lines. The Relic was lost in the aftermath._
+_It was designed by an extremist cult of forest druids to house a reality-altering Relic. Its entrance is beneath a false stone in a circle of menhirs deep in the forest. The walls and ceiling of the dungeon are built from petrified wood, as the ancient artifact affects living plants, warping them to its will. A division within the cult faced off over control of the Relic but fell victim to their own hubris and nearly destroyed one another. When two opposing rituals collided, the temple was split in two, divided along Factional lines. The Relic was lost in the aftermath._
 
 Continuing on to the current inhabitants of our dungeon, we get the following results (rolling for _two_ factions):
 
@@ -402,15 +402,15 @@ _The current denizens of this dungeon are the descendants of the original factio
 
 ### What is each Faction trying to achieve, and what stands in their way?
 
-**The Crimson Path** would like to destroy their former brethren the **Azure Legion**, but are cowed by their opponent's prowess in battle. The Azure Legion feel great shame over the actions of their forebears, and believe that their redemption can only be achieved by way of finding and destroying the temple's hidden artifact. Unfortunately, an ancient custom decrees that no one wearing the Azure cloth may seek the lost Relic.
+**The Crimson Path** would like to destroy their former brethren, the **Azure Legion**, but are cowed by their opponent's prowess in battle. The Azure Legion feel great shame over the actions of their forebears and believe that their redemption can only be achieved by way of finding and destroying the temple's hidden artifact. Unfortunately, an ancient custom decrees that no one wearing the Azure cloth may seek the lost Relic.
 
 ### Dungeon Theme
 
 With some idea on the history, purpose, and denizens of the dungeon, we finally have our theme. Let's put it all together:
 
-_Nestled within a dense, shrouded forest lies a temple made entirely of petrified wood. Built by a fanatical cult called the Children of Eolith, the temple was designed to protect the Woodturn, an ancient Relic that could turn any plant to stone. The cult eventually split into two opposing factions, and when their dueling rituals collided the temple was shattered, with each Faction taking one half. Today the descendants of these factions still vie for control, destruction, and redemption, but are hindered by power imbalances and ancient tradition._
+_Nestled within a dense, shrouded forest lies a temple made entirely of petrified wood. Built by a fanatical cult called the Children of Eolith, the temple was designed to protect the Woodturn, an ancient Relic that could turn any plant to stone. The cult eventually split into two opposing factions, and when their dueling rituals collided, the temple was shattered, with each Faction taking one half. Today the descendants of these factions still vie for control, destruction, and redemption but are hindered by power imbalances and ancient tradition._
 
-_The Crimson Path believe that if the original Relic were recovered, they might bend its power to destroy the Azure Legion forever. However every attempt to plumb the temple's depths has been countered by their former brethren. A recent attack has left many of their number dead, and the remaining members have since fled the temple to regroup._
+_The Crimson Path believe that if the original Relic were recovered, they might bend its power to destroy the Azure Legion forever. However, every attempt to plumb the temple's depths has been countered by their former brethren. A recent attack has left many of their number dead, and the remaining members have since fled the temple to regroup._
 
 _The Azure Legion feel a great sense of shame over their ancestor's actions and believe that if the original Relic were destroyed, the temple would be healed again and their shame expunged. Unfortunately, a long-standing tradition prohibits any members from seeking the Relic, so as to avoid the mistakes of the past._
 
@@ -522,7 +522,7 @@ Swirling **smoke** fills the air in a ceaseless typhoon of ash and embers, obscu
   - The doorway near the SW corridor contains the broken statue of a robed figure (see Basilisk, **3**).
 - **Movement**: Robed soldiers engaged in melee combat with unseen opponents.
   - There are always at least 3 members of either Faction engaged in skirmishes here. They will generally attack any shapes that try to cross the room but are easily confused by the smoke.
-  - Due to the smoke all attacks within the room are _impaired_.
+  - Due to the smoke, all attacks within the room are _impaired_.
 - **Floor**: Split when the temple fractured. Along with the smoke, navigation in this room is extremely difficult.
 
 #### Druid Cultist 

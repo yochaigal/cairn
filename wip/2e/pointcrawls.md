@@ -30,14 +30,14 @@ The travel times between each point were determined as follows (assuming that th
 - The journey between points **1** to **2** is 6 Watches:  
   - Add two Watches for the _medium_ path distance.
   - Add one Watch for the _trail_ through the mountains and forests.
-  - Add two Watches for the _perilous_ mountain terrain, and 1 Watch for the forest.
+  - Add two Watches for the _perilous_ mountain terrain and 1 Watch for the forest.
 - The journey between **2** and **3** takes 4 Watches:
   - Add one Watch for the _short_ path distance.
   - Add one Watch for the _trail_ through the mountains.
   - Add two Watches for the _perilous_ mountain terrain.
 - The journey between **2** and **4** takes three Watches:
   - Add two Watches for the _medium_ path distance.
-  - No penalty for traveling on a maintained _road_.
+  - Add no penalty for traveling on a maintained _road_.
   - Add one Watch for the _tough_ forest terrain.
 - The journey between **4** and **5** takes four Watches: 
   - Add one Watch for the _short_ path distance.

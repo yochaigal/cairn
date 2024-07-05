@@ -10,4 +10,4 @@ grand_parent: Resources
 
 - Born from violence resulting from a greedy or selfish act.
 - Kill their victims for sustenance, but gains no succor. They are always hungry.
-- **Critical Damage**: gores its victims by ripping out their entrails.
+- **Critical Damage**: Gores its victims by ripping out their entrails.

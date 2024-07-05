@@ -63,7 +63,7 @@ Detachments are large groups of enemies treated as a single entity. They are mor
 
 > Wolfram rolls a 2, which is enough to deal damage to STR. The detachment must now make a Critical Damage save using its STR Attribute. The Warden rolls a 7, a fail.
 
-**Warden**: _"The crossbow bolt zings through the air, striking the white-furred creature in the heart. It screeches and keels over, and immediately the terrible noise stops, as the creatures begin to run off! Lucius, you pull Freya out of the danger zone just as she is coming around"_
+**Warden**: _"The crossbow bolt zings through the air, striking the white-furred creature in the heart. It screeches and keels over, and immediately the terrible noise stops, as the creatures begin to run off! Lucius, you pull Freya out of the danger zone just as she is coming around."_
 
 **Wolfram**: _"Thank goodness that's done with. I'm going to go grab whatever I just shot, though. Might make for a good dinner."_ 
 

@@ -105,7 +105,7 @@ There are three common scenarios in which a player character should save:
 
 **Lucius**: _"Well, that was lucky. What is this, some code for jailers? Executioners? Well, whatever it is, I'm following."_
 
-**Warden**: _"The jailer guides you into the darkness of the jail, far from the light. As he reaches the far wall, he taps three times on a stone high above his head. After a moment, the wall swings inward, and the guard walks confidently inside, where a dark-haired woman waits at a desk. She smiles at you, and gestures that you sit at the chair across from her."_
+**Warden**: _"The jailer guides you into the darkness of the jail, far from the light. As he reaches the far wall, he taps three times on a stone high above his head. After a moment, the wall swings inward, and the guard walks confidently inside, where a dark-haired woman waits at a desk. She smiles at you and gestures that you sit at the chair across from her."_
 
 **Lucius**: _"Uh oh. Can I go back to my cell, please? I kid, I kid. I take a seat."_
 
@@ -123,7 +123,7 @@ There are three common scenarios in which a player character should save:
 
 **Warden** _"As she listens to your story, Katja frowns, then finally smiles. 'Alright, alright, I believe you. Let's make a deal! You introduce me to this "client" of yours whom you've so kindly escorted into my town, and I'll make sure no one is watching while you slip away. But we have to go right now, before this place implodes. And if that happens, even I can't guarantee your safety..."_ 
 
-> An hour later, Lucius finds Freya, but not the others. She explains that Wolfram and their client have already left for the vault. She agrees to take them there, but that she needs to make a quick stop first. Something about reclaiming one of her daggers...
+> An hour later, Lucius finds Freya, but not the others. She explains that Wolfram and their client have already left for the vault. She agrees to take them there, but says that she needs to make a quick stop first. Something about reclaiming one of her daggers...
 
 ## Opposed Saves
 
@@ -141,9 +141,9 @@ There are three common scenarios in which a player character should save:
 
 **Freya**: _"Damn. Well, hopefully my comrades will fare well enough without me until I return..."_
 
-## Aiding An Ally
+## Aiding an Ally
 
-> The party have just arrived at the entrance to the second level of a long-forgotten mountain tomb. Freya leads the group, followed by Lucius, then Wolfram taking up the rear. Wolfram holds a lit torch, but the others have their hands free.
+> The party have just arrived at the entrance to the second level of a long-forgotten mountain tomb. Freya leads the group, followed by Lucius, with Wolfram taking up the rear. Wolfram holds a lit torch, but the others have their hands free.
 
 **Warden**: _"The path to the North veers over a twisted archway positioned atop a dark chasm. To the East, a rocky path leads downward into the murk below. What do you do?"_
 
@@ -157,9 +157,9 @@ There are three common scenarios in which a player character should save:
 
 **Wolfram**: _"If we run to the opposite side, does it look like we can make it safely?"_
 
-**Warden**: _"You and Lucius are the farthest ahead and likely the least at risk. But Freya is last, and will need to make a DEX save to arrive there safely."_
+**Warden**: _"You and Lucius are the farthest ahead and likely the least at risk. But Freya is last and will need to make a DEX save to arrive there safely."_
 
-**Freya**: _"You just had to take the lead, didn't you Wolfie? I have a rope. Do I have time to toss it to one of the others?"_
+**Freya**: _"You just had to take the lead, didn't you, Wolfie? I have a rope. Do I have time to toss it to one of the others?"_
 
 **Warden**: _"Yes, you can do that. Wolfram has his hands full, so Lucius is your best bet. You can easily throw a rope to him, but a STR save will be required. As you will be the most at risk, you will need to make the save."_
 
@@ -167,6 +167,6 @@ There are three common scenarios in which a player character should save:
 
 > Freya rolls a 5: a success!
 
-**Warden**: _"As the bridge collapses, Wolfram and Lucius dash to the opposite side with Freya right behind. Just as the ground disappears beneath her feet she tosses Lucius her rope. As the bridge collapses, she slams into the wall, hanging onto the rope for dear life. Slowly, she climbs along the wall, straining to reach the ledge a few feet above her. Finally, she pulls herself onto the dusty floor."_
+**Warden**: _"As the bridge collapses, Wolfram and Lucius dash to the opposite side with Freya right behind. Just as the ground disappears beneath her feet, she tosses Lucius her rope. As the bridge collapses behind her, she slams into the wall, hanging onto the rope for dear life. Slowly, she climbs along the wall, straining to reach the ledge a few feet above her. Finally, she pulls herself onto the dusty floor."_
 
 **Freya**: _"That was fun. What's next?"_
