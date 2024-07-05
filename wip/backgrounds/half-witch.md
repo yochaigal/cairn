@@ -35,7 +35,7 @@ brush up to 50ft wide suddenly sprouts up. _Wrapped in vines that must be destro
 | **3** | A **Living Nightmare** that dwells within you but manifests whenever you are in danger. It has your same **Attributes** and **HP** and attacks with claws (d8+d8). It disappears on **Critical Damage** (take 1d4 WIL damage), re-appearing again on the next full moon. |
 | **4** | A **Raven Familiar** [8 HP, 3 STR, 11 DEX, 13 WIL, beak, (d6)]. It speaks as an intelligent being and is entirely devoted to you.                                                                                                                             |
 | **5** | A **Briar Thorn**. It can pierce any organic material (quite painfully) but when removed leaves no trace of the intrusion.                                                                                                                                    |
-| **6** | A Fae creature's **True Name**. Use it to summon its owner for an act of great service, but only once. It could also fetch a hefty price, to the right buyer.                                                                                               |
+| **6** | A Fae creature's **True Name**. Use it to summon its owner for an act of great service, but only once. It could also fetch a hefty price, from the right buyer.                                                                                               |
 
 ## What concoction do you carry, and what rare ingredients did you gather to make it? Roll 1d6:
 

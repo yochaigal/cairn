@@ -43,6 +43,6 @@ Lazlo, Stilo, Akshara, Pisa, Ji-Yun, Kalamos, Hugo, Shui, Kalam, Julius
 | **1** | **Fib Ink**       | Glows when used to write true statements but fades if used to write false ones.                                           |
 | **2** | **Cipher Stone**  | A pair of sharp black stones. Each one decrypts any message written by the other.                                         |
 | **3** | **Everquill**     | A quill that writes on any surface. You still need ink. _Petty_.                                                          |
-| **4** | **Whisper Vial**  | Whisper a message into the vial, and it will play it back to whomever opens it next.                                      |
+| **4** | **Whisper Vial**  | Whisper a message into the vial, and it will play it back to whoever opens it next.                                      |
 | **5** | **Sanguine Lens** | Extracts blood from a target without their knowledge. A stolen drop placed on the eye reveals memories from the past day. |
 | **6** | **Echo Leaf**     | A blank parchment. Whomever unfurls it sees their actions of the day slowly revealed in a tight scrawl. _Petty_.          |

@@ -44,5 +44,5 @@ Gale, Piper, Brook, Adair, Stone, Dale, Wren, Cliff, Rain, Robin
 | **2** | **Bodyguard**       | You are a protector for those afraid to travel alone. Start with a **Rapier** (d8).                                                          |
 | **3** | **Wares**           | You buy low and sell high, always making just enough to get by. Take a **single item** worth **20gp** (or less) from the [gear](/wip/2e/marketplace#gear) table.                              |
 | **4** | **Transport**       | You deliver "delicate" packages throughout the lands. You have at least one contact in any major town.                                        |                                                    
-| **5** | **Sailor's Friend** | Whether water, wind, or sail, your aid brings ships to their destination. For you, passage is always free.  |
+| **5** | **Sailor's Friend** | Over troubled waters and dangerous winds, you always make sure a ship reaches its destination. For you, passage is always free.  |
 | **6** | **Guide**           | You shepherd caravans and travelers across water-soaked lands. Start a **map** (_petty_) relevant to your next journey. |

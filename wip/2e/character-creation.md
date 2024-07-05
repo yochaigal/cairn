@@ -41,7 +41,7 @@ search_exclude: true
 
 - Player Characters have just three Attributes: (**Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**). 
 - Roll 3d6 for each of your character's **Attributes**, in order. You may then swap any two of the results. 
-- Attributes are not universal descriptors. A character with a low STR is not necessarily hopelessly weak; they can still attempt to raise a door or survive a deadly fight! Their risk is simply higher. 
+- Attributes are not universal descriptors. A character with a low STR is not necessarily hopelessly weak; they can still attempt to lift a heavy door or survive a deadly fight! Their risk is simply higher. 
 
 ## Hit Protection
 
@@ -147,7 +147,7 @@ search_exclude: true
 |         |                                                                                                                                                                                                                                                                                          |
 | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **D20** | **Bond**                                                                                                                                                                                                                                                                                 |
-| **1**   | You inherited a **Single Gem** (500gp, cold and brittle) from a long-dead relative. It arrived with a warning: squander your newfound riches and a debt long thought forgotten would be called in.                                                                                       |
+| **1**   | You inherited a **Single Gem** (500gp, cold and brittle) from a long-dead relative. It arrived with a warning: squander your newfound riches, and a debt long thought forgotten would be called in.                                                                                       |
 | **2**   | A distant cousin left you a small inheritance. Take **20Gp** and a **Strange Compass** (_petty_) that always points towards something deep in the **Wood**.                                                                                                                              |
 | **3**   | You carry a **Portrait** in a locket (_petty_) of a past love who disappeared into the **Wood** long ago. Somehow you know that they are still alive.                                                                                                                                    |
 | **4**   | You found a **Tiny Crystal Prism** (_petty_) buried in the dirt. When held up to the light, it shows visions of an unknown location deep within the **Wood**. Sometimes you feel a presence looking back at you.                                                                         |
@@ -187,7 +187,7 @@ search_exclude: true
 | **11**  | A night-blooming flower once thought extinct is sprouting up throughout the **Wood**. Its scent is intoxicating but also causes vivid nightmares.                                                                                                  |
 | **12**  | Local livestock have grown increasingly agitated and unmanageable as of late. An old shepherd says it is due to an unsettling howl that emanates from the **Wood** each full moon.                                                                 |
 | **13**  | Swarms of insects are fleeing from the **Wood** in droves, destroying any wooden structures they come across. The sound of their wings hum a familiar tune as they pass overhead, like a forgotten nursery rhyme.                                  |
-| **14**  | Hunters talk of a curse that befalls any who kill a white-frocked beast: soon after, they are found dead in their homes. Each day, there are fewer and fewer creatures to hunt.                                                                    |
+| **14**  | Hunters talk of a curse that befalls any who kill a beast with a streak of white fur: soon after, they are found dead in their homes. Each day, there are fewer and fewer creatures to hunt.                                                                    |
 | **15**  | Folks say that a faint laughter can be heard echoing out of wells all over the city, and that the echoes change to sobs at night.                                                                                                                  |
 | **16**  | The constellations have slowly started shifting in the night sky, forming unfamiliar patterns that have stargazers and sages perplexed. Even the animals seem disturbed.                                                                           |
 | **17**  | An ancient tree at the heart of a sleepy village has suddenly withered and died, despite showing no signs of disease. After its trunk was cut, a bloody hand was found in its core.                                                                |

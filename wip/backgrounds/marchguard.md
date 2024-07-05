@@ -41,7 +41,7 @@ Gann, Light, Saoirse, Frost, Thorn, Reed, Dirk, Ragnar, Brie, Aasim
 | ----- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **1** | **Impressive Pin** | A metal badge of honor from the Guard. It can open doors but leaves a trail. _Petty_.                                                                                            |
 | **2** | **Oath Compass**   | Points not towards North, but instead to the nearest member of the Guard. It also lets you know when they're getting close.                                              |
-| **3** | **Pullstones**     | Two jet-black stones. When separated, the stones will always roll in the direction of the other.                                                                         |
+| **3** | **Pullstones**     | Two jet-black stones. When separated, the stones will always roll toward one another.                                                                         |
 | **4** | **Fireflask**      | Highly alcoholic, yet strangely delicious. When thrown, it creates a wall of flames 10ft high that burns out after a few minutes. 1 use.                                                                    |
 | **5** | **Pain Band**      | Touch an injured creature to transfer their wounds to you. (Exchange their lost STR with your own.) **Recharge**: Wear the ring while in perfect health. You will lose 1 STR, permanently. _Petty_. |
 | **6** | **Poacher's Woe**  | Strongly-scented arrows (3 uses). The scent is powerful enough to track with ease.                                                                                       |

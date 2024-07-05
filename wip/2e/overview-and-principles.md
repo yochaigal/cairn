@@ -41,7 +41,7 @@ The Warden and the players each have guidelines that help foster a specific play
 
 ### Shared Objectives
 
-Players trust one another to engage with the shared setting, character goals, and party challenges. Therefore, the party is typically working together towards a common goal, as a team.
+Players trust one another to engage with the shared setting, character goals, and party challenges. Therefore the party is typically working together towards a common goal, as a team.
 
 ## Principles for Players
 
@@ -75,7 +75,7 @@ Players trust one another to engage with the shared setting, character goals, an
 ### Planning
 
 - Think of ways to avoid your obstacles through reconnaissance, subtlety, and fact-finding.
-- Do some research and ask around about your objectives.
+- Do some research, and ask around about your objectives.
 
 ### Ambition
 

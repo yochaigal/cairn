@@ -44,7 +44,7 @@ Fergus, Eon, Bram, Idris, Hester, Darragh, Seren, Rónán, Berek, Lorenz
 | 2   | **Black Tar**      | Versatile: both sticky and highly flammable. 3 uses.                                                                                                             |
 | 3   | **Spiked Boots**   | Cracks heads (d8) as easily as it does ice and muck. Travel is also a bit slower, but easier.                                                                    |
 | 4   | **Tinker's Paste** | Seals shut any fist-sized opening. 3 uses.                                                                                                                       |
-| 5   | **Fireworks**      | A dazzling, albeit dangerous display. Enough explosive material to blow off a finger or three. 2 uses remain.                                                    |
+| 5   | **Fireworks**      | A dazzling albeit dangerous display. Enough explosive material to blow off a finger or three. 2 uses remain.                                                    |
 | 6   | **Carrion Cat**    | A clever pet, small enough to hide in your pack (_bulky_), but strong enough to scare off smaller predators. Requires one **Ration** a day, and it must be meat. |
 |     |                    |                                                                                                                                                                  |
 
