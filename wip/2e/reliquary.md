@@ -36,8 +36,8 @@ nav_exclude: true
 
 ## Coin of the Father, 1 charge
 
-  - Flip this worthless-looking hunk of flat metal in the air, and it will appear to produce 99 gold coins. The illusory coins disappear after an hour.
-  - **Recharge**: Steal the coin from its most recent recipient.
+  - Flip this worthless-looking hunk of flat metal in the air, and it will transform into d100 gold coins. The illusory coins disappear after one hour.
+  - **Recharge**: Carry the coin for three days without spending or earning any money.
 
 ## Dryad's Tear, 1 use
 

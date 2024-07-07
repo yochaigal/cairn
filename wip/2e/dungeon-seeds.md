@@ -37,7 +37,7 @@ search_exclude: true
 > Going forward, we will refer to the sheet of paper as the **dungeon map**.
 > As with any other rule, if you don't like a table result, roll again or tweak as desired!
 
-Follow this procedure for any dungeon POIs in your setting. Refer to the dungeon type table results from earlier, reading the results from your map. What image springs immediately to mind? Where is the dungeon is located? What does its entrance look like? Don't worry if you can't answer these questions yet. By the end of this process, you should be able to.
+Follow this procedure for any dungeon POIs in your setting. Refer to the dungeon type table results from earlier, reading the results from your map. What image springs immediately to mind? Where is the dungeon located? What does its entrance look like? Don't worry if you can't answer these questions yet. By the end of this process, you should be able to.
 
 ### Overview
 
@@ -518,7 +518,7 @@ Bookshelves wrap around every inch of wall, their dusty **shelves** stacked with
 
 Swirling **smoke** fills the air in a ceaseless typhoon of ash and embers, obscuring the exits. Faint **movement** is visible through the smoke, as well as occasional shouting from the West side of the room. The **floor** is not level, with the East side raised a full foot higher than the West.
 
-- **Smoke**: Magical, it emits no sound or smell and can not be dissolved by normal means. The exits in this room are obscured.
+- **Smoke**: Magical, it emits no sound or smell and cannot be dissolved by normal means. The exits in this room are obscured.
   - The doorway near the SW corridor contains the broken statue of a robed figure (see Basilisk, **3**).
 - **Movement**: Robed soldiers engaged in melee combat with unseen opponents.
   - There are always at least 3 members of either Faction engaged in skirmishes here. They will generally attack any shapes that try to cross the room but are easily confused by the smoke.
@@ -570,7 +570,7 @@ A **mirror** hangs on a **track** on the West wall. A large **hole** is dug into
 **Track**: Runs in a full circle around the room, allowing the mirror to be moved along the track.
 - **Mirror**: If moved to the North wall, the reflection will reveal a small, invisible alcove on the South side.
   - The alcove is hidden behind an otherwise illusory piece of wall. Hidden inside is the **Woodturn**. 
-  - If damaged, the mirror will explode (d6 damage to any nearby). The victim is _deprived_, and their cuts do not heal until they have left the temple.
+  - If damaged, the mirror will explode (d6 STR damage to any nearby). The victim is _deprived_, and their cuts do not heal until they have left the temple.
 - **Hole**: Tunnel to **8** (30ft).
 
 #### Woodturn

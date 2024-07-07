@@ -261,7 +261,7 @@ search_exclude: true
 
 - Reddish-brown bears commonly found in mountains, woodlands, and prairies. 
 - Prefer to eat fish and meat, and will attack the rare unfortunate who crosses their path.
-- **Critical Damage**: Their bite does 1d6 additional STR damage. The target bleeds out very quickly.
+- **Critical Damage**: Bites the victim for an additional d6 STR damage. They bleed out very quickly.
 
 ## Harpy
 
@@ -420,7 +420,7 @@ still alive.
 9 HP, 16 STR, 12 DEX, 5 WIL, beak (d10) or claws (d8+d8)
 
 - Bear-like carnivores with the face of an owl. Found in dense forests. Rumored spawn of a magical mishap.
-- **Critical Damage**: A piece of armor is pierced and destroyed.
+- **Critical Damage**: A piece of armor is rent and destroyed.
 
 ## Phoenix
 
@@ -520,6 +520,14 @@ still alive.
 - Towering, white-skinned giants that live in castles high in the mountains.
 - Missile attacks against them are _impaired_ due to the powerful winds surrounding them.
 
+## Sphinx
+
+18 HP, 12 STR, 13 DEX, 18 WIL, claws (d8+d8, _blast_), beak (d10)
+
+- Mythical beasts with the upper body and head of a human, the wings of an eagle, and the body of a lion. Immune to magic of any kind.
+- Poses riddles to anyone they meet. Failure to answer correctly is usually met with death. They know almost everything worth knowing.
+- **Roar**: Anyone in earshot must save WIL or flee in fear.
+
 ## Storm Giant
 
 18 HP, 2 Armor, 18 STR, 16 DEX, 18 WIL, great sword (d12), _detachment_
@@ -546,7 +554,7 @@ still alive.
 
 ## Treant
 
-10 HP, 3 Armor, 15 STR, 3 DEX, 12 WIL, roots (d10+d10, _blast_)
+10 HP, 3 Armor, 15 STR, 3 DEX, 12 WIL, roots (d8+d8, _blast_)
 
 - Sentient, bipedal trees with a vaguely humanoid face on their trunks. Found in the deepest part of the wood.
 - Speak slowly and ponderously, with a deep voice. Timeless, living for thousands of years.
