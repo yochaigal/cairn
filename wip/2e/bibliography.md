@@ -11,13 +11,13 @@ search_exclude: true
 
 ## Games & Supplements
 
-- Beyond the Wall by Flatland Games
+- Beyond the Wall by Peter S. Williams
 - Electric Bastionland by Chris McDowall
-- Errant by Kill Jester
+- Errant by Ava Islam
 - Knave & Maze Rats by Ben Milton
 - Mausritter by Isaac Williams
-- Old School Essentials by Necrotic Gnome
-- Tunnel Goons by Highland Paranormal Society
+- Old School Essentials by Gavin Norman
+- Tunnel Goons by Nate Treme
 - Perilous Wilds by Jason Lutes
 - Into The Dungeon: Revived by Vladimir Arabadzhi
 - Vaults of Vaarn by Leo Hunt

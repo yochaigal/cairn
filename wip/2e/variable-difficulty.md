@@ -34,7 +34,7 @@ In Cairn, players are encouraged to overcome problems by asking questions, think
 
 **Warden**: _"You grab a fistful of dust off the ground in front of you and toss it straight into your opponent's face. He staggers backward and is unable to defend himself as he fights to clear the grit from his eyes!"_
 
-> The Wood Troll loses a turn as he tries to remove the dust from his face. Until he succeeds, he also has only 0 HP.
+> The Wood Troll loses a turn as he tries to remove the dust from his face. He cannot rely on HP in this state; damage will go directly to STR!
 
 **Freya**: _"I know I should run for it... but I can't help but take advantage of this situation. I'd like to introduce this fellow to the Twins."_
 
