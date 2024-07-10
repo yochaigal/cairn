@@ -21,9 +21,9 @@ Winda, Brielle, Theron, Chayse, Nuja, Dev, Raven, Arawan, Sable, Baruani
 - Rations (3 uses)
 - Torch (3 uses) 
 - Tarp
-- Boiled leather (1 Armor)
+- Boiled Leather (1 Armor)
 - Short Sword (d6)
-- Spring-loaded trap (4 STR damage)
+- Spring-Loaded trap (4 STR damage)
 
 ## What did you last hunt? Roll 1d6:
 
