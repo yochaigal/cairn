@@ -12,7 +12,6 @@ nav_order: 20
 * [**Almaia**](https://1d6gnolls.itch.io/almaia)
 * [**Brighter Worlds**](https://awkwardturtle.itch.io/brighter-worlds)
 * [**From The Mud**](https://cueinn.itch.io/fromthemud)
-* [**Ikezu-ishi**] (https://serialprizes.itch.io/ikezu-ishi)
 * [**Liminal Horror**](https://goblinarchives.itch.io/liminal-horror)
 * [**Mangayaw**](https://mangayaw.carrd.co) by [Goobernuts](https://goobernutsblog.wordpress.com/)
 * [**Meteor**](https://www.meteorrpg.com/)
