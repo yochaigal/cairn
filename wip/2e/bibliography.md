@@ -82,6 +82,7 @@ search_exclude: true
 - [hexcrawls ARE pathcrawls](https://permacrandam.blogspot.com/2022/09/hexcrawls-are-pathcrawls.html)
 - [Hill Cantons: Pointcrawl Series Index](http://hillcantons.blogspot.com/2014/11/pointcrawl-series-index.html)
 - [How to Design a Pointcrawl Map](https://www.youtube.com/watch?v=4Yi0EnZATng)
+- [Just Use Bears](https://talesofthegrotesqueanddungeonesque.blogspot.com/2016/08/just-use-bears.html)
 - [Pathcrawl](http://detectmagic.blogspot.com/2014/04/pathcrawl.html)
 - [Rationalising Overland Travel Paces](https://retiredadventurer.blogspot.com/2019/07/rationalising-overland-travel-paces.html)
 - [Reinventing the Wilderness](https://sachagoat.blot.im/re-inventing-the-wilderness-part-1-introduction)
