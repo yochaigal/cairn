@@ -90,26 +90,26 @@ Roll 1d20 for each column and combine the results.
 |         |                       |                    |
 | ------- | --------------------- | ------------------ |
 | **d20** | **Entrance**          | **Construction**   |
-| **13**  | A Creature's Lair     | Bone               |
-| **20**  | A Dream               | Coral              |
-| **19**  | A Massive Tree        | Crystal            |
-| **2**   | A Well                | Earth              |
-| **18**  | An Enormous Grave     | Ethereal Fabric    |
-| **11**  | Behind a Waterfall    | Flesh              |
-| **17**  | Between Menhirs       | Floating Platforms |
-| **6**   | Cave                  | Fungi              |
-| **16**  | Center of a Maze      | Glass              |
-| **1**   | Cliff door            | Ice                |
-| **12**  | Hollow Statue         | Living Plants      |
-| **9**   | Illusory Wall         | Marble             |
-| **8**   | Mine Shaft            | Metal              |
-| **15**  | Sinking Sand          | Obsidian           |
-| **5**   | Skyward Beam of Light | Petrified Wood     |
-| **7**   | Starlight Path        | Sand               |
-| **4**   | Through a Painting    | Shadow Material    |
-| **14**  | Under a Bridge        | Stone              |
-| **3**   | Underwater Tunnel     | Webs               |
-| **10**  | Veil of Mist          | Wood               |
+| **1**   | A Creature's Lair     | Bone               |
+| **2**   | A Dream               | Coral              |
+| **3**   | A Massive Tree        | Crystal            |
+| **4**   | A Well                | Earth              |
+| **5**   | An Enormous Grave     | Ethereal Fabric    |
+| **6**   | Behind a Waterfall    | Flesh              |
+| **7**   | Between Menhirs       | Floating Platforms |
+| **8**   | Cave                  | Fungi              |
+| **9**   | Center of a Maze      | Glass              |
+| **10**  | Cliff door            | Ice                |
+| **11**  | Hollow Statue         | Living Plants      |
+| **12**  | Illusory Wall         | Marble             |
+| **13**  | Mine Shaft            | Metal              |
+| **14**  | Sinking Sand          | Obsidian           |
+| **15**  | Skyward Beam of Light | Petrified Wood     |
+| **16**  | Starlight Path        | Sand               |
+| **17**  | Through a Painting    | Shadow Material    |
+| **18**  | Under a Bridge        | Stone              |
+| **19**  | Underwater Tunnel     | Webs               |
+| **20**  | Veil of Mist          | Wood               |
 
 #### Ruination
 
