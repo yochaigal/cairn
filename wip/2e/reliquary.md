@@ -34,7 +34,7 @@ nav_exclude: true
   - A blank leather parchment that absorbs any blood spilled on its surface before rolling into a tight scroll. Unroll to see a rough map revealing the current location of any remaining blood. The image disappears after a few minutes.
   - **Recharge**: Pour a pint of your own life essence onto the map, blood for blood. You are _deprived_ until you can rest and eat a Ration.
 
-## Coin of the Father, 1 charge
+## Coin of the Father, 1 charge, _petty_
 
   - Flip this worthless-looking hunk of flat metal in the air, and it will transform into d100 gold coins. The illusory coins disappear after one hour.
   - **Recharge**: Carry the coin for three days without spending or earning any money.
@@ -62,7 +62,7 @@ nav_exclude: true
 
   - Soft leather shoes that adapt to fit any foot size. Leave behind footprints that scatter and turn in a confusing manner, making tracking nigh-impossible.
 
-## Gate Chalk, 1 use
+## Gate Chalk, 1 use, _petty_
 
   - Draw a doorway on any flat surface to open a one-way passage to the Roots. Good luck.
 
@@ -80,7 +80,7 @@ nav_exclude: true
   - Hang at chest height to ring when danger is imminent.
   - **Recharge**: Melt and reforge. Each time, roll a d6. On a 1-2, it breaks forever.
 
-## Homunculus Nail, 1 use
+## Homunculus Nail, 1 use, _petty_
 
   - Prick a finger with the pointy end and hammer into any small object to form a loyal servant [3 HP, 4 STR, 13 DEX, 5 WIL] completely devoted to you. If not destroyed, it will outlive you.
 
@@ -134,7 +134,7 @@ nav_exclude: true
 
   - Sprinkle over a corpse to resurrect the deceased. They return with full health but no memory of their past life.
 
-## Ring of the Snake, 1 charge
+## Ring of the Snake, 1 charge, _petty_
 
   - A wrought-iron serpent ring. Place it on your finger and fall into a sleep so deep that most will think you are dead. If the ring is removed, you will awaken feeling refreshed. Otherwise, the effect will wear off after one month.
   - **Recharge**: Bury the ring with a corpse. A month later, exhume the corpse and retrieve it.
@@ -166,7 +166,7 @@ nav_exclude: true
 
   - A rodent-sized centipede that consumes and digests stone, capable of cutting a small tunnel in under an hour. It can be used more than once, but only if you can catch it (DEX 18).
 
-## Stonewax Gum, 3 uses
+## Stonewax Gum, 3 uses, _petty_
 
   - Chew, then spit. The gum will harden and stretch, making a perfect, unbreakable seal.
 
@@ -178,7 +178,7 @@ nav_exclude: true
 
   - A beautifully rendered ram's head helm wrought from tough alpine oak. The horns can be used as weapons (d6+d6).
 
-## Veilsilk Grip, 1 charge
+## Veilsilk Grip, 1 charge, _petty_
 
   - A hand wearing this glove can phase through solid objects.
   - **Recharge**: Snip off one of the fingers.
