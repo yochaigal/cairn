@@ -39,7 +39,7 @@ There are three common scenarios in which a player character should save:
 
 **Freya**: _"Sorry, I can't hear you through the barks and snarling!"_
 
-**Warden**: _"Suddenly, the guard stops and whistles, recalling his pet. He then pulls on a lever behind him, and a loud grating sound starts emanating from the other side of the hallway to the East. Then you see what he's done: a thick iron gate is coming down from the ceiling. If it closes, you'll be locked you in this section of the jail! Wolfram, you can probably make it through without any risk. Lucius and Freya will need to each make DEX saves in order to make it."_
+**Warden**: _"Suddenly, the guard stops and whistles, recalling his pet. He then pulls on a lever behind him, and a loud grating sound starts emanating from the other side of the hallway to the East. Then you see what he's done: a thick iron gate is coming down from the ceiling. If it closes, you'll be locked in this section of the jail! Wolfram, you can probably make it through without any risk. Lucius and Freya will need to each make DEX saves in order to make it."_
 
 **Wolfram**: _"I'm going to stop and hold the gate for as long as I can. What do I risk?"_
 

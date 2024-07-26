@@ -313,15 +313,15 @@ Roll 1d20 for each column and combine the results.
 | **7**   | Insect Swarm      | Giant Rodent Feeding Grounds |
 | **8**   | Moving Thickets   | Highly Localized Weather     |
 | **9**   | Poisonous Plants  | Howling Stones               |
-| **18**  | Psychic Fog       | Injured Creature             |
-| **10**  | Sap Trap          | Invisible Webs               |
-| **11**  | Sleeping Giant    | Living Scarecrows            |
-| **12**  | Slippery Moss     | Memory Stealers              |
-| **13**  | Slow Quicksand    | Mimic Vines                  |
-| **14**  | Spiked Pit        | Paths that Change Randomly   |
-| **15**  | Stinging Nettles  | Scavengers that Wait         |
-| **16**  | Thorny Thickets   | Watchful Dead                |
-| **17**  | Toxic Spores      | Tracks Erased by Mist        |
+| **10**  | Psychic Fog       | Injured Creature             |
+| **11**  | Sap Trap          | Invisible Webs               |
+| **12**  | Sleeping Giant    | Living Scarecrows            |
+| **13**  | Slippery Moss     | Memory Stealers              |
+| **14**  | Slow Quicksand    | Mimic Vines                  |
+| **15**  | Spiked Pit        | Paths that Change Randomly   |
+| **16**  | Stinging Nettles  | Scavengers that Wait         |
+| **17**  | Thorny Thickets   | Watchful Dead                |
+| **18**  | Toxic Spores      | Tracks Erased by Mist        |
 | **19**  | Troll Den         | Trees that Grow From Bones   |
 | **20**  | Unstable Ground   | Will-o-Wisps Congregate      |
 

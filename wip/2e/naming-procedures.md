@@ -115,7 +115,7 @@ search_exclude: true
 | **16**   | Crack      | **66**   | Patch     |
 | **17**   | Crimson    | **67**   | Peril     |
 | **18**   | Curl       | **68**   | Purple    |
-| **19**   | Darkness   | **69**   | Quaint    |
+| **19**   | Darkness   | **69**   | Radiance  |
 | **20**   | Dawn       | **70**   | Rag       |
 | **21**   | Dead       | **71**   | Rain      |
 | **22**   | Death      | **72**   | Rainbow   |
@@ -124,29 +124,29 @@ search_exclude: true
 | **25**   | Desolation | **75**   | Regret    |
 | **26**   | Despair    | **76**   | Rot       |
 | **27**   | Devil      | **77**   | Ruin      |
-| **28**   | Dirt       | **78**   | Rustic    |
-| **29**   | Doom       | **79**   | Serene    |
-| **30**   | Doorway    | **80**   | Shadow    |
-| **31**   | Elevated   | **81**   | Sharp     |
+| **28**   | Dirt       | **78**   | Shadow    |
+| **29**   | Doom       | **79**   | Spark     |
+| **30**   | Doorway    | **80**   | Stone     |
+| **31**   | Echo       | **81**   | Tempest   |
 | **32**   | Ember      | **82**   | Silver    |
 | **33**   | Fate       | **83**   | Skull     |
 | **34**   | Fear       | **84**   | Sky       |
 | **35**   | Fire       | **85**   | Smoke     |
 | **36**   | Flame      | **86**   | Snake     |
-| **37**   | Foreign    | **87**   | Sorrow    |
-| **38**   | Fray       | **88**   | Storm     |
-| **39**   | Frost      | **89**   | Sun       |
-| **40**   | Fury       | **90**   | Terror    |
-| **41**   | Ghost      | **91**   | Thin      |
-| **42**   | Giant      | **92**   | Thunder   |
-| **43**   | God        | **93**   | Toxic     |
-| **44**   | Gold       | **94**   | Tranquil  |
-| **45**   | Golden     | **95**   | Troll     |
-| **46**   | Green      | **96**   | Victory   |
-| **47**   | Harsh      | **97**   | Violet    |
-| **48**   | Harvest    | **98**   | War       |
-| **49**   | Hat        | **99**   | Witch     |
-| **50**   | Honor      | **100**  | Zephyr    |
+| **37**   | Fray       | **87**   | Sorrow    |
+| **38**   | Frost      | **88**   | Storm     |
+| **39**   | Fury       | **89**   | Sun       |
+| **40**   | Ghost      | **90**   | Terror    |
+| **41**   | Giant      | **91**   | Thorn     |
+| **42**   | God        | **92**   | Thunder   |
+| **43**   | Gold       | **93**   | Toxic     |
+| **44**   | Green      | **94**   | Tranquil  |
+| **45**   | Harvest    | **95**   | Troll     |
+| **46**   | Hat        | **96**   | Valor     |
+| **47**   | Honor      | **97**   | Violet    |
+| **48**   | Hope       | **98**   | War       |
+| **49**   | Horror     | **99**   | Whisper   |
+| **50**   | Iron       | **100**  | Zephyr    |
 
 ## Terrain Synonyms
 
@@ -187,7 +187,7 @@ search_exclude: true
 
 |         |             |
 | ------- | ----------- |
-| **d20** | **Type**    |
+| **d20** | **Group**   |
 | **1**   | Assembly    |
 | **2**   | Brotherhood |
 | **3**   | Circle      |
@@ -344,7 +344,7 @@ search_exclude: true
 | **66**   | Rustling       | Sanctuary   |
 | **67**   | Sacred         | Shade       |
 | **68**   | Secluded       | Shadows     |
-| **69**   | Serene         | Shadows     |
+| **69**   | Serene         | Shelter     |
 | **70**   | Serpentine     | Shrub       |
 | **71**   | Shadowy        | Slope       |
 | **72**   | Shimmering     | Spring      |
