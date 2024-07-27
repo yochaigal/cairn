@@ -42,7 +42,7 @@ Arlo, Lyra, Eamon, Salina, Elara, Freya, Bull, Sparrow, Ivy, Silas
 | ----- | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1** | **Catring**           | 2 charges. Climb up walls and fall safely. **Recharge**: Place the ring on a stray cat's tail.                                                     |
 | **2** | **Gildfinger**        | 1 charge. A finger glove that mimics any mundane key. **Recharge**: Bundle it with at least 100gp for a night.                                     |
-| **3** | **Glimpse Glass**     | 3 charges. A monocle that lets you see through walls or other obstructions. It shatters after the last use.                                        |
+| **3** | **Glimpse Glass**     | 3 uses. A monocle that lets you see through walls or other obstructions. It shatters after the last use.                                        |
 | **4** | **Sweetwhistle**      | 1 charge. Listeners hear a soft, familiar voice in the distance that they cannot resist following. **Recharge**: Lose a dear memory. (Describe it.) |
 | **5** | **Vagrant's Veil**    | 1 charge. Wear it to blend seamlessly into crowds, appearing as a simple pauper. **Recharge**: Donate the day's winnings to the poor. _Petty_      |
 | **6** | **Reverse Teetotum** | 1 use. When spun, time skips backwards 30 seconds. Everyone remembers what happened.                                                                                    |
