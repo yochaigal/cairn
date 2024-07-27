@@ -201,7 +201,7 @@ There are 24 hours in a day and 6 days in a week. Each month has 24 days (4 week
 | **Sunset**    |                                                            |                                                                                                                                                                            |
 |               | Midnight on the 10th (Song Day)                            | Harvest Equinox: Marks the midpoint of the Harvest season.                                                                                                                 |
 |               | Evening on the 11th (Resting Day)                          | _Ember_: Pays homage to the setting sun and the hard work ahead preparing for the Dead season. Lantern release ceremonies are a common practice.                          |
-|               | Evening of the 24th (Resting Day)                          | _Banefeast_: The final grand feast of the year, celebrating gratitude for the harvest, with the sun as centerpiece. Pregnancies are common.                                |
+|               | Evening of the 24th (Resting Day)                          | _Gloam_: The final grand feast of the year, celebrating gratitude for the harvest, with the sun as centerpiece. Pregnancies are common.                                |
 
 
 ## Weather in Vald
