@@ -173,7 +173,7 @@ Roll 1d20 for each column and combine the results.
 
 #### Faction Advantages
 
-Roll 2d20, first for the number of advantages the faction has, then for the types of advantages. For example, if a result of “2” was received from the “# of Advantages” column, you would roll on the “Type” column twice, noting each result. Reroll repeated results.
+Roll 1d20 to determine the number of advantages the faction has, then roll 1d20 again for each of the corresponding advantages. For example, if a result of “2” was received from the “# of Advantages” column, you would roll on the “Type” column twice, noting each result. Reroll repeated results.
 
 |         |                     |                |
 | ------- | ------------------- | -------------- |
@@ -446,11 +446,11 @@ Points of Interest on a map (or POIs) are generally divided into the following c
 ### Draw Points of Interest
 
 - Draw the letter **H** close to a water source on the map. 
-- Roll **1d6**, then roll an amount of dice equal to that number on the map. Collect any dice that roll off the page and set them aside.
+- Roll 3-8 d6 dice on the map, collecting any dice that roll off the page and setting them aside.
 - Note the face-up result for each die, then use the [POI Die Drop Table](#poi-die-drop-table) to mark the type of POI on the map. For example, a die showing a 4 would indicate a Lair, denoted by the letter "L" on the page.
 - Roll any dice that fell off the map page, repeating the last step until none remain.
 - Starting with the Heart, number each POI on the map.
-- Roll on the relevant tables for each POI, including the Heart and all Landmarks. Note the results for each in your notebook.
+- Roll on the relevant tables for each POI, including the Heart (usually a Waypoint or Settlement). Note the results for each in your notebook.
 
 > Some POIs may allow the PCs to see more of the world than what appears on their map.
 
