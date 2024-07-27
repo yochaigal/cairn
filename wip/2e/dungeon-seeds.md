@@ -89,7 +89,7 @@ Roll 1d20 for each column and combine the results.
 
 |         |                       |                    |
 | ------- | --------------------- | ------------------ |
-| **d20** | **Entrance**          | **Construction**   |
+| **d20** | **Entrance**          | **Composition**    |
 | **1**   | A Creature's Lair     | Bone               |
 | **2**   | A Dream               | Coral              |
 | **3**   | A Massive Tree        | Crystal            |
