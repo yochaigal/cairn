@@ -35,11 +35,11 @@ The Tideborn are hardly the only faith in the realm, but their steady growth and
 
 ### The White Raven
 
-Popular among those who live close to the Wood, the followers of the _White Raven_ (or "the Flock," as they prefer) believe strongly in the power of the Wood and in keeping its forests and creatures healthy. They are terrified of Woodwose and obey the will of the Wood without question. They can be identified by tattoos of a white bird on their wrists, necks, or backs. Every settlement keeps a Flock unique to their community, and their devotees distrust organized religion as a whole.
+Popular among those who live close to the Wood, the followers of the _White Raven_ (or "the Flock," as they prefer) believe strongly in the power of the Wood and in keeping its forests and creatures healthy. They are in awe of the Woodwose and obey the will of the Wood without question. They can be identified by tattoos of a white bird on their wrists, necks, or backs. Every settlement keeps a Flock unique to their community, and their devotees distrust organized religion as a whole.
 
 ### The Five-Pointed Star
 
-An older religion that owes its origin to the first peoples of the realm, who built stone structures to map the stars and constellations. Its worshipers adhere strictly to a set of religious principles that deny the legitimacy of all other beliefs, and local history is marked by its wars and forced conversions. Today, the _Five-Pointed Star_ keeps temples in every major settlement, which often provide needed services, particularly for the poor. In recent years, its prominence has waned as other faiths have risen, leading some of its strongest adherents to follow a reactionary order known as the _Bleeding Star_.
+An older religion that owes its origin to the first peoples of the realm, who built stone structures to map the stars and constellations. Its worshipers adhere strictly to a set of religious principles that deny the legitimacy of all other beliefs, and local history is marked by its wars and forced conversions. Today, the _Five-Pointed Star_ keeps temples in every major settlement, which often provide needed services, particularly for the poor. In recent years, its prominence has waned as other faiths have risen, prompting some of its members to join a reactionary order known as the _Bleeding Star_.
 
 ## Vald Principles
 
