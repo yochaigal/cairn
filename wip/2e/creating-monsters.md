@@ -257,7 +257,7 @@ _HD 5, Speed 120', Armor 14, Morale 11, Attack: +4 d8hp (claw, bite or choke)_
 - Special: Can transform into a fox or a maiden with one fox leg hidden (same stats) at will
 
 _**Using the example above, I can see that she:**_  
-- She appears as a 7-foot tall human woman with the head of a fox.
+- She appears as a 7-foot tall human woman with the leg of a fox.
 - She doesn't have super high HP, and she's quite fast.
 - Her **ML** is pretty high, and she's obviously quite willful.
 - She is agile and lithe.
