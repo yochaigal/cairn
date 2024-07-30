@@ -9,7 +9,6 @@ search_exclude: true
 
 # NPC Tables
 
-
 |         |           |
 | ------- | --------- |
 | **d20** | **Name**  |

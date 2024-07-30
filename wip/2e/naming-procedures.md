@@ -148,20 +148,20 @@ search_exclude: true
 | **49**   | Horror     | **99**   | Whisper   |
 | **50**   | Iron       | **100**  | Zephyr    |
 
-## Terrain Synonyms
+## Terrain Synonyms (Updated)
 
 |                |                                                         |
 | -------------- | ------------------------------------------------------- |
 | **Terrain**    | **Synonym**                                             |
 | **Beaches**    | seaside, shore, coast, seaboard, foreshore, marina      |
-| **Bogs**       | marsh, sump, mire, quad, morass, slough, fens           |
-| **Canyons**    | ravine, gully, chasm, abyss, gulf, gulch                |
+| **Bogs**       | marsh, morass, quad, slough, fens                       |
+| **Canyons**    | ravine, chasm, abyss, gulf, gulch                       |
 | **Caverns**    | grotto, cavity, tunnels, dugout, cave                   |
 | **Cliffs**     | precipice, face, crag, bluff, ridge, escarpment, steep  |
 | **Desert**     | dunes, sands, vasts, wastes, blight, erg                |
 | **Farmlands**  | tillage, holding, acreage, steading, grange, plantation |
 | **Forest**     | bush, woods, woodland, weald, grove, copse              |
-| **Grasslands** | pasture, steppe, prairie, savanna, fields, greenery     |
+| **Grasslands** | pasture, fields, savanna, greenery                      |
 | **Hills**      | hillock, mound, mount, knoll, hummock, slope            |
 | **Hollows**    | dip, hole, pit, cavity, crater, trough, holes           |
 | **Jungle**     | _See forest_                                            |
@@ -172,10 +172,10 @@ search_exclude: true
 | **Plateau**    | uplands, mesa, highlands, downs, reach                  |
 | **River**      | waterway, stream, brook, runnel creek, channel          |
 | **Sea**        | _See beaches_                                           |
-| **Swamp**      | mire, morass, quag, moors, sump, wetlands               |
+| **Swamp**      | moors, wetlands                                         |
 | **Thickets**   | chaparral, boscage, covert, coppice, fells              |
-| **Tundra**     | expanse, prairie, steppe, boreal, ley                   |
-| **Valley**     | dale, vale, basin, gully, gorge, gap, glen              |
+| **Tundra**     | expanse, boreal, ley                                    |
+| **Valley**     | dale, vale, basin, gorge, gap, glen                     |
 | **Wasteland**  | _See desert_                                            |
 
 ### Faction Names
