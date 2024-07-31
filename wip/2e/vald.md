@@ -120,7 +120,7 @@ The Guard sees little reason to engage in politics or other such short-sighted q
 
 ### Overview
 
-There are 24 hours in a day and 6 days in a week. Each month has 24 days (4 weeks), with 12 months in a year. The year is divided into 4 seasons (Dead, Dry, Wet, and Harvest), each lasting 72 days. Every 10 years, a 6-day "Leap Week" (_Reclamation_) is added, and does not belong to any particular month. This makes the average length of a year over a decade 288.6 days. Each year starts just before the _Dry_ season begins.
+There are 24 hours in a day and 6 days in a week. Each month has 24 days (4 weeks), with 12 months in a year. The year is divided into 4 seasons (Dead, Dry, Wet, and Harvest), each lasting 72 days. Every 10 years, a 6-day "Leap Week" (_Reclamation_) is added, and does not belong to any particular month. This makes the average length of a year over a decade 288.6 days. Each year starts just before the _Dry_ season begins. The current year is 7728.
 
 ### Days of the Week
 
