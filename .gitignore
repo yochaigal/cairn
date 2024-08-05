@@ -19,6 +19,7 @@ _temp
 ._*
 Thumbs.db
 .cache
+.DS_Store
 
 # Folders to ignore
 node_modules
