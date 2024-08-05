@@ -1,21 +1,20 @@
 ---
 layout: default
-title: SRD
+title: System
 nav_order: 2
-nav_exclude: true
-search_exclude: true
 ---
 
-# Cairn System Reference Document (v.1.0)
+# Terra Odd System Reference (v.0.7.0)
 {: .no_toc }
 
 <p></p>
 
-**Cairn** is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
-Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in other [formats](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (including Word, Affinity, Google Docs, etc.).
+**Terra Odd** is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
 
-**Cairn** is an adventure game for one facilitator (the **Warden**) and at least one other player.
-Players act as hardened adventurers exploring a dark & mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities.
+**Terra Odd** is a generic game to play multi-genre **Terra Campaigns**.
+Each campaign has its own thematic fork.
+
+**Terra Odd** can be played with one facilitator (the **Warden**) and one or more players, co-operatively or solo.
 
 <details close markdown="block">
   <summary id="index">
