@@ -6,22 +6,6 @@ parent: System
 ---
 
 # Characters
-{: .no_toc }
-
-<p></p>
-
-
-<details close markdown="block">
-  <summary id="index">
-    Table of contents
-  </summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
-
-
-
 
 #### Group Concept
 With the other players, define a cohesive group concept.
