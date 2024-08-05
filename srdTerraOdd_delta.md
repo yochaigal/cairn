@@ -197,3 +197,4 @@ You can create a new character with half (rounded up) the number of *Advancement
 - Screams Amongst the Stars: sci-fi horror. 
 - Electrum Archive: post-post-apocalyptic fantasy. Not technically a direct ItO game, but is heavily inspired by it.
 - https://runecairn.byodinsbeardrpg.com/srd
+- https://goblinarchives.github.io/LiminalHorror/
