@@ -31,26 +31,7 @@ You are defined by an *Archetype*, which encapsulates your background, concept a
 Each *Archetype* should offer an immediate grasp of your identity and behaviours.
 It is expected you will evolve beyond these initial *Archetypes* towards unique narratives.
 
-| *Archetype*    | Description                         | Favourite *Skills*         |
-| :------------- | :---------------------------------- | :------------------------- |
-| **Clergy**     | Spiritual leaders and advisors      | Cultures, Administration   |
-| **Bureaucrat** | Administrators and office workers   | Liaison, Administration    |
-| **Trainer**    | Coaches and fitness instructors     | Athletics, Administration  |
-| **Agent**      | Covert operatives and enforcers     | Violence, Administration   |
-| **Coder**      | Programmers and software developers | Technology, Administration |
-| **Artist**     | Creators of art and culture         | Liaison, Cultures          |
-| **Criminal**   | Illicit operatives and thieves      | Survival, Cultures         |
-| **Dilettante** | Jack-of-all-trades and adventurers  | Athletics, Liaison         |
-| **Protector**  | Bodyguards and security personnel   | Violence, Liaison          |
-| **Disciple**   | Devoted followers and apprentices   | Survival, Liaison          |
-| **Fixer**      | Repair experts and mediators        | Technology, Liaison        |
-| **Academic**   | Scholars and researchers            | Sciences, Liaison          |
-| **Spy**        | Undercover agents and infiltrators  | Survival, Athletics        |
-| **Soldier**    | Survivalists and combat experts     | Survival, Violence         |
-| **Spacer**     |                                     |                            |
-| **Traveller**  | Explorers and navigators            | Vehicles, Survival         |
-| **Mechanic**   | Engineers and machine operators     | Vehicles, Technology       |
-| **Scientist**  | Researchers and innovators          | Sciences, Technology       |
+
 
 ### Attributes
 

@@ -25,6 +25,7 @@ Each campaign has its own thematic fork.
 
 ## Overview
 
+**Terra Odd**'s design philosophies are:
 
 ### Neutrality
 The Warden's role is to portray the rules, situations, NPCs, and narrative clearly, while acting as a neutral arbiter.
@@ -141,8 +142,11 @@ Players trust one another to engage with the shared setting, character goals, an
 
 ## Character Creation
 
+#### Group Concept
+With the other players, define a cohesive group concept.
+
 #### Name, Background & Traits
-First, choose or roll your PC’s **name** and **background** from their respective [tables](#name--background-d20). A PC’s background informs their potential knowledge and skills.
+First, choose or randomise your PC’s **name** and **background** from their respective [tables](#name--background-d20). A PC’s background informs their potential knowledge and skills.
 
 Next, roll for the rest of your character's **traits** (appearance, speech, mannerisms, beliefs, reputation, etc.) on the [**Character Traits**](#character-traits-d10) tables.
 
@@ -186,48 +190,28 @@ If you would like something closer to traditional classes, refer to the list of 
 
 <p></p>
 
-## Name & Background (d20)
+## Backgrounds
 
-#### Female Names
-
-|||||||||
-|------|-----------|-----------|-----------|----------|---------|------|----------|
-|1     | Agune     |6          |Drelil     |11        |Lirann   |16    |Sybil     |
-|2     | Beatrice  |7          |Elgile     |12        |Lirathil |17    |Theune    |
-|3     | Breagan   |8          |Esme       |13        |Lisabeth |18    |Wenain    |
-|4     | Bronwyn   |9          |Griya      |14        |Moralil  |19    |Ygwal     |
-|5     | Cannora   |10         |Henaine    |15        |Morgwen  |20    |Yslen     |
-
-#### Male Names
-
-|||||||||
-|------|-----------|-----------|-----------|----------|---------|------|----------|
-|1           |Arwel     |6          |Breglor    |11        |Grinwit  |16    |Melnax    |
-|2           |Bevan     |7          |Canhoreal  |12        |Gruwid   |17    |Orthax    |
-|3           |Boroth    |8          |Emrys      |13        |Gruwth   |18    |Triunein  |
-|4           |Borrid    |9          |Ethex      |14        |Gwestin  |19    |Wenlan    |
-|5           |Breagle   |10         |Gringle    |15        |Mannog   |20    |Yirmeor   |
-
-#### Surnames
-
-|||||||||
-|------|-----------|-----------|-----------|----------|---------|------|----------|
-|1           |Abernathy |6          |Crumwaller |11        |Harper   |16    |Swinney   |
-|2           |Addercap  |7          |Dunswallow |12        |Loomer   |17    |Thatcher  |
-|3           |Burl      |8          |Getri      |13        |Malksmilk|18    |Tolmen    |
-|4           |Candlewick|9          |Glass      |14        |Smythe   |19    |Weaver    |
-|5           |Cormick   |10         |Harkness   |15        |Sunderman|20    |Wolder    |
-
-#### Background
-
-|||||||||
-|------|-----------|-----------|-----------|----------|---------|------|----------|
-|1           |Alchemist |6          |Cleric     |11        |Magician |16    |Performer |
-|2           |Blacksmith|7          |Gambler    |12        |Mercenary|17    |Pickpocket|
-|3           |Burglar   |8          |Gravedigger|13        |Merchant |18    |Smuggler  |
-|4           |Butcher   |9          |Herbalist  |14        |Miner    |19    |Servant   |
-|5           |Carpenter |10         |Hunter     |15        |Outlaw   |20    |Ranger    |
-
+|                |                                     |
+| :------------- | :---------------------------------- |
+| **Clergy**     | Spiritual leaders and advisors      |
+| **Bureaucrat** | Administrators and office workers   |
+| **Trainer**    | Coaches and fitness instructors     |
+| **Agent**      | Covert operatives and enforcers     |
+| **Coder**      | Programmers and software developers |
+| **Artist**     | Creators of art and culture         |
+| **Criminal**   | Illicit operatives and thieves      |
+| **Dilettante** | Jack-of-all-trades and adventurers  |
+| **Protector**  | Bodyguards and security personnel   |
+| **Disciple**   | Devoted followers and apprentices   |
+| **Fixer**      | Repair experts and mediators        |
+| **Academic**   | Scholars and researchers            |
+| **Spy**        | Undercover agents and infiltrators  |
+| **Soldier**    | Survivalists and combat experts     |
+| **Spacer**     |                                     |
+| **Traveller**  | Explorers and navigators            |
+| **Mechanic**   | Engineers and machine operators     |
+| **Scientist**  | Researchers and innovators          |
 <p></p>
 
 ## Character Traits (d10)
