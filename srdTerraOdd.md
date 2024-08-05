@@ -1,4 +1,10 @@
-# System Reference v o.7.0 {#srd}
+---
+layout: default
+title: Terra Odd
+nav_order: 98
+---
+
+# Terra Odd System Reference v o.7.0 {#srd}
 
 #### Taxonomy {-}
 
