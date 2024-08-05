@@ -212,6 +212,7 @@ If you would like something closer to traditional classes, refer to the list of 
 | **Traveller**  | Explorers and navigators            |
 | **Mechanic**   | Engineers and machine operators     |
 | **Scientist**  | Researchers and innovators          |
+
 <p></p>
 
 ## Character Traits (d10)
