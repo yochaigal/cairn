@@ -2,6 +2,7 @@
 layout: default
 title: System
 nav_order: 2
+has_children: true
 ---
 
 # Terra Odd System Reference (v.0.7.0)
@@ -961,7 +962,7 @@ Whenever turn order is uncertain, the PCs should make an **Insight** save to see
 
 **Retreating** from a dangerous situation always requires a successful **Insight** save, as well as a safe destination to run to.
 
-**EFFORT**
+**EFFORT**  
 A PC can chose to make an effort and, before any roll, take *1d6* harm.
 They now roll one additional die and choose the best result.
 
