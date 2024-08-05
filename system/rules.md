@@ -125,3 +125,7 @@ Enemies must pass a **Resolve** save to avoid fleeing when they take their first
 Some groups may use their leader's **Resolve** in place of their own.
 Lone foes must save when they're reduced to 0 **Grit**.
 Morale does not affect PCs.
+
+### Fortune die
+
+When the GM wants to leave some decision to the dice, determine the chances and roll *1d6*.

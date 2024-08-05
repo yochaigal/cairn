@@ -7,24 +7,7 @@ search_exclude: true
 
 # Terra Odd System Reference v o.7.0 {#srd}
 
-#### Taxonomy {-}
 
-
-- Meta game concepts, stats and currencies are marked in *italic*.
-- Book references are marked in `code`, they might be accompanied by page ranges.
-
-## Characters
-
-1. 
-2. Always start with a Name and *Archetype*.
-3. Roll for *Attributes* and assign points.
-3. (Optional) Roll for and choose *Skills*.
-4. Roll for *Grit* and *Ego.*
-5. Choose one *Advancement.*
-6. Choose a trinket, choose a patch, make an image.
-
-A text version of the character sheet is available [here](assets/TerranSheet.txt).
-An artistic version is available [here](assets/TerranSheet.pdf).
 
 ### Archetypes
 
@@ -47,29 +30,6 @@ These are your permanent *Attribute* values.
 During play, their values will change.
 Sometimes permanently (through *Malaises*).
 
-### Skills
-
-Using *Skills* is optional.
-You can assign an additional *Attribute* point if you choose to not use *Skills* in your game.
-
-| Skills         | Example usages                                                                                  |
-| -------------- | ----------------------------------------------------------------------------------------------- |
-| Administration | Law, business, trading and negotiation.                                                         |
-| Cultures       | Religion, arts, streetwise and languages                                                        |
-| Liaison        | Leadership, persuasion, connections empathy, deception, intimidation, performance and seduction |
-| Athletics      | Speed, acrobatics, throwing, strength and endurance                                             |
-| Violence       | Weapons and unarmed combat                                                                      |
-| Survival       | Sneak, orientation, forage, tame, crafting, tactics and vigilance                               |
-| Technology     | Medical, computers, machinery, explosives, robotics and electronics                             |
-| Vehicles       | Aircraft, cars, motorbikes, and watercrafts                                                     |
-| Sciences       | Geology, ecology, psychology, history, medicine, linguistics, chemistry and archaeology         |
-
-Every time a *Skill* is relevant for a roll, consider the relevant *Attribute* with $+1$ for comparing the roll.
-
-#### Determine Skills  {-}
-
-Your *Archetype* defines $2$ favourite *Skills*.
-Choose one.
 
 ### Grit
 
@@ -147,15 +107,6 @@ Subtract the armour modifier from the *Effect* before reducing your *Grit*
 ## Rules
 
 
-### Conflicts
-
-
-### Harm
-
-
-
-#### Recovery {-}
-
 
 #### Pushing yourself {-}
 
@@ -174,9 +125,7 @@ With the GM, determine the mechanical effects and how to introduce your *Conditi
 
 
 
-### Fortune die
 
-When the GM wants to leave some decision to the dice, determine the chances and roll $1d$.
 
 ### Sayonara
 
