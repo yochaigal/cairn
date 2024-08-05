@@ -193,7 +193,7 @@ If you would like something closer to traditional classes, refer to the list of 
 ## Backgrounds
 
 |                |                                     |
-| :------------- | :---------------------------------- |
+| -------------- | ----------------------------------- |
 | **Clergy**     | Spiritual leaders and advisors      |
 | **Bureaucrat** | Administrators and office workers   |
 | **Trainer**    | Coaches and fitness instructors     |
