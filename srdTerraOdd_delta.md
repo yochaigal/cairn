@@ -35,7 +35,7 @@ It is expected you will evolve beyond these initial *Archetypes* towards unique 
 
 ### Attributes
 
-There are $3$ *Attributes* that you can use to overcome obstacles.
+
 
 
 #### Determine Attributes  {-}
@@ -71,16 +71,6 @@ Your *Archetype* defines $2$ favourite *Skills*.
 Choose one.
 
 ### Grit
-
-> *"It's about how hard you can get hit and keep moving forward"*
-> (Rocky Balboa)
-
-*Grit* is a measure of your ability to avoid *Traumas*.
-
-#### Determine Grit  {-}
-
-Your initial *Grit* is $1d$, and you roll it every time you rest.
-Advancements and conditions may change the number of dice you roll.
 
 ### Advancements
 
@@ -158,50 +148,16 @@ Subtract the armour modifier from the *Effect* before reducing your *Grit*
 
 ### Conflicts
 
-An aggressor rolls a die dictated by their weapon.
-If you roll equal or under the appropriate *Attribute* you succeed.
-Subtract the opposition's *Armour*, if appropriate, and cause the result as *Effect*.
-When *Impaired*, roll 2 dice and take the worst.
-When *Enhanced*, roll 2 dice and take the best.
-
-If multiple attackers target the same opponent, roll all *Effect* and keep the single highest result.
-**Blast** aggressions hit their die in opponents, rolling separate for each.
-
-If turn order in uncertain, roll an **Insight** *Save*.
-Retreating from a dangerous situation requires a **Prowess** *Save*.
 
 ### Harm
 
-You lose *Grit* when you are harmed.
-When your *Grit* reaches $0$ you start taking *Trauma*.
 
-Push yourself trauma is reduced from Resolve.
-Stress trauma is reduced from Insight.
-Physical trauma is reduced from Prowess.
-
-Reduce the remaining *Effect* for an *Attribute* of your choice.
-
-When an *Attribute* is reduced, immediately make a *Save*.
-You push through if you succeed.
-Otherwise you have a *Critical Trauma*.
-You will die instantly if harmed further, and cannot perform any actions until attended to.
-If left to your own devices you die in one hour.
-
-If you survive a *Critical Trauma*, the attribute responsible for it is permanently reduced in $1$ as you develop a *Malaise*.
-With the GM, describe it narratively.
 
 #### Recovery {-}
 
-After a well fed and rested night, you roll and reset your *Grit*.
-If you are deprived you have $-1d$ to roll for *Grit*.
-*Trauma* is recovered at the pace of $1$ Attribute score per week, with the aid of a healer.
-A *Malaise* never recovers.
 
 #### Pushing yourself {-}
 
-Before you roll you can take $1d6$ *Effect* and use the same value to "fix" your result down.
-If your *Grit* becomes exactly $0$ you suffer a *Panic Event*.
-Remaining *Effect* is taken by an *Attribute*, depending on how you pushed yourself.
 
 | $d6$  | Panic Event Outcome                                                                                                               |
 | :---: | --------------------------------------------------------------------------------------------------------------------------------- |
@@ -215,17 +171,7 @@ With the GM, determine the mechanical effects and how to introduce your *Conditi
 
 ### Challenges
 
-The following table contain *Challenges* divided in **Tiers**, as examples.
 
-|                 | Save | Grit | Harm  | Examples                                                             |
-| --------------- | :--- | ---- | ----- | -------------------------------------------------------------------- |
-| **Trivial**     | 5    | 1    | $1d4$ | Unskilled adversaries, low height climb, known journey               |
-| **Dangerous**   | 8    | 5    | $1d6$ | Skilled adversaries, small predator, large prey, troublesome journey |
-| **Serious**     | 12   | 10   | $2d6$ | Expert adversaries, large predator, traverse fire or acid            |
-| **Formidable**  | 16   | 15   | $3d6$ | Human prime, apex predator, climbing the Everest                     |
-| **Exceptional** | 20   | 20   | $4d6$ | Transhuman, often fatal environments, heroic journeys                |
-
-When you reduce a *Challenge*'s **Grit** to $0$, it must pass a *Resolve Save*, otherwise it gives up.
 
 ### Fortune die
 

@@ -974,7 +974,10 @@ Harm that reduces a target's Grit **below** 0 decreases the remainder from their
 
 They must then make an **Ability** Save to avoid **critical damage**.
 Failure takes them out of combat and reduces the **Ability** in *1* **permanently**.
-When they recover they can choose an advancement.
+The PC will die instantly if harmed further, and cannot perform any actions until attended to.
+If left to your own devices you die in one hour.
+
+When they recover, if their new permanent **Ability** is equal or lower than their number of **Advancements**, they can choose an additional **Advancement**.
 
 Having an **Ability** at 0 means:
 
