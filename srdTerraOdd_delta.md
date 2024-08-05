@@ -37,9 +37,6 @@ It is expected you will evolve beyond these initial *Archetypes* towards unique 
 
 There are $3$ *Attributes* that you can use to overcome obstacles.
 
-- **Prowess**: Force, finesse, fighting and fortitude.
-- **Insight**: Intuition, reason, tinkering and reflexes.
-- **Resolve**: Confidence, discipline, attunement and charisma.
 
 #### Determine Attributes  {-}
 
@@ -158,15 +155,6 @@ Subtract the armour modifier from the *Effect* before reducing your *Grit*
 
 ## Rules
 
-### Saves
-
-A *Save* is a roll to avoid danger from a risky action or situation.
-Roll $1d20$ equal to or under an *Attribute* to be successful.
-When *Impaired*, roll $2$ dice and take the worst.
-When *Enhanced*, roll $2$ dice and take the best.
-
-In the context of a contest, both sides roll their *Saves*.
-The highest result that is successful wins the contest.
 
 ### Conflicts
 
