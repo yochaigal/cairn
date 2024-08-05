@@ -14,8 +14,6 @@ nav_order: 2
 **Terra Odd** is a generic game to play multi-genre **Terra Campaigns**.
 Each campaign has its own thematic fork.
 
-**Terra Odd** can be played with one facilitator (the **Warden**) and one or more players, co-operatively or solo.
-
 <details close markdown="block">
   <summary id="index">
     Table of contents
@@ -27,7 +25,6 @@ Each campaign has its own thematic fork.
 
 ## Overview
 
-**Cairn** was written with the following design philosophies in mind:
 
 ### Neutrality
 The Warden's role is to portray the rules, situations, NPCs, and narrative clearly, while acting as a neutral arbiter.
@@ -40,6 +37,7 @@ Characters may be powerful, but they are also vulnerable to harm in its many for
 
 ### Fiction First
 Dice do not always reflect an obstacle's difficulty or its outcome. Instead, success and failure are arbitrated by the Warden in dialogue with the players, based on in-world elements.
+**Terra Odd**'s design philosophies are:
 
 ### Growth
 Characters are changed through in-world advancement, gaining new skills and abilities by surviving dangerous events and overcoming obstacles.
