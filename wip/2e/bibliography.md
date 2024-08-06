@@ -11,21 +11,21 @@ search_exclude: true
 
 ## Games & Supplements
 
-- Apocalypse World by Vincent and Meguey Baker
-- Beyond the Wall by Peter S. Williams
-- Dungeon World by Sage LaTorra and Adam Koebel
-- Electric Bastionland by Chris McDowall
-- Errant by Ava Islam
-- FLEE by Emmy Verte
-- Into The Dungeon: Revived by Vladimir Arabadzhi
-- Knave & Maze Rats by Ben Milton
-- Mausritter by Isaac Williams
-- Old School Essentials by Gavin Norman
-- Perilous Wilds by Jason Lutes
-- The Monster Overhaul by Skerples
-- Tunnel Goons by Nate Treme
-- Vaults of Vaarn by Leo Hunt
-- World of Dungeons by John Harper
+- [Apocalypse World by Vincent and Meguey Baker](https://lumpley.itch.io/apocalypse-world/)
+- [Beyond the Wall by Peter S. Williams](https://www.flatlandgames.com/btw/)
+- [Dungeon World by Sage LaTorra and Adam Koebel](https://dungeon-world.com/)
+- [Electric Bastionland by Chris McDowall](https://bastionlandpress.com/)
+- [Errant by Ava Islam](https://killjestergames.itch.io/errant)
+- [FLEE by Emmy Verte](https://emmv.itch.io/flee)
+- [Into The Dungeon: Revived by Vladimir Arabadzhi](https://vladar4.github.io/itdr/)
+- [Knave & Maze Rats by Ben Milton](https://questingbeast.itch.io/knave)
+- [Mausritter by Isaac Williams](https://mausritter.com/)
+- [Old School Essentials by Gavin Norman](https://necroticgnome.com/)
+- [Perilous Wilds by Jason Lutes](https://www.drivethrurpg.com/en/product/407161/the-perilous-wilds-revised-edition)
+- [The Monster Overhaul by Skerples](https://www.drivethrurpg.com/en/product/421868/The-Monster-Overhaul/)
+- [Tunnel Goons by Nate Treme](https://www.tunnelgoons.com/)
+- [Vaults of Vaarn by Leo Hunt](https://antipodezines.com/collections/vaults-of-vaarn)
+- [World of Dungeons by John Harper](https://johnharper.itch.io/world-of-dungeons/)
 
 ## Blogs
 
