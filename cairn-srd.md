@@ -2,6 +2,8 @@
 layout: default
 title: SRD
 nav_order: 2
+nav_exclude: true
+search_exclude: true
 ---
 
 # Cairn System Reference Document (v.1.0)
