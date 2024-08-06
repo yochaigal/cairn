@@ -15,6 +15,8 @@ nav_order: 999
 {:toc}
 </details>
 
+#### v0.7.1
+
 #### v0.7.0
 
 Changes the base framework from [Forged in the Dark](https://bladesinthedark.com/basics) to [Mark of the Odd](https://www.bastionland.com/2020/11/mark-of-odd-licence-and-srd.html?m=1).

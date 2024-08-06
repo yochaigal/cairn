@@ -5,7 +5,7 @@ nav_order: 2
 has_children: true
 ---
 
-# Terra Odd System Reference (v.0.7.0)
+# Terra Odd System Reference v0.7.1
 
 **Terra Odd** is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
 
