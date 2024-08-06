@@ -7,19 +7,14 @@ parent: System
 
 # Rules
 
-## Abilities
-
-Each of the three **abilities** are used in different circumstances (see [Saves](#saves), below).
-
-**Prowess**: Force, finesse & fortitude.   
-**Insight**: Intuition, tinkering & reflexes.   
-**Resolve**: Confidence, charisma & attunement.  
-
-## Grit
-
-**Grit** indicates a PC's ability to avoid getting hurt.
-It is lost when harmed & recovered after a few hours' rest.
-PC's start with *1d6* **Grit**, which they re-roll every time they rest.
+<details close markdown="block">
+  <summary id="index">
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 
 ## Saves
 
@@ -48,12 +43,6 @@ When successful, subtract the roll from the target's **Armour**, then deal the r
 If **multiple attackers** target the same foe, roll all attack dice and keep the single highest result.
 If attacking with **two weapons** at the same time, roll both dice dice and keep the highest.
 
-### Attack Modifiers
-
-If fighting from a position of weakness (such as through cover or with bound hands), the attack is **impaired** and the attacker must roll *1d4* damage regardless of the attacks damage die.
-**Unarmed** attacks are always considered **impaired**.
-If fighting from a position of advantage (such as against a helpless foe or through a daring manoeuvre), the attack is **enhanced**, allowing the attacker to roll *1d12* damage instead of their normal die.
-
 ### Blast
 Attacks with the **blast** quality affect all targets in the noted area, rolling separately for each affected character.
 Blast refers to anything from explosions to huge cleaving onslaughts to the impact of a meteorite.
@@ -65,10 +54,16 @@ Whenever turn order is uncertain, the PCs should make an **Insight** save to see
 
 **Retreating** from a dangerous situation always requires a successful **Insight** save, as well as a safe destination to run to.
 
+## Roll Modifiers
+
+In some circumstances your roll is **Impaired** or **Enhanced**.
+When **Impaired** you roll your dice twice, and take the worst result.
+When **Enhanced** you roll your dice twice and take the best result.
+
 ## Effort
 
-A PC can chose to make an effort and, before any roll, take *1d6* harm.
-They now roll one additional die and choose the best result.
+You can chose to make an effort and, before any roll, take *1d6* [Harm](/system/rules/#harm).
+You now roll [Enhanced](/system/rules/#roll-modifiers).
 
 ## Harm
 
@@ -79,12 +74,12 @@ Harm that reduces a target's Grit **below** 0 decreases the remainder from
 - **Insight**, if it is a stress harm.
 - **Resolve**, if it is an effort harm.
 
-They must then make an **Ability** Save to avoid **critical harm**.
+They must then make an [Attribute](/system/characters/#attributes) Save to avoid **critical harm**.
 Some enemies will have special abilities or effects that are triggered when their target fails a **critical harm** save.
 
 ### Critical harm
 
-When **critically harmed**, the PC is taken out of combat and have their affected **Ability** reduced in *1* **permanently**.
+When **critically harmed**, the PC is taken out of combat and have their affected [Attribute](/system/characters/#attributes) reduced in *1* **permanently**.
 The PC will die instantly if harmed further, and cannot do anything until stabilised.
 If left to their own devices they die within the hour.
 
@@ -94,7 +89,7 @@ If a PC's **Ability** is reduced to 0 they:
 - gain a **condition**, if it is **Insight**.
 - **panic**, if it is **Resolve**.
 
-When they are stable, if their new permanent **Ability** is equal or lower than their number of **Advancements**, they can choose an additional **Advancement**.
+When they are stable, if their new permanent [Attribute](/system/characters/#attributes) is equal or higher than their number of [Advancements](/system/characters/#advancements), they can choose an additional [Advancement](/system/characters/#advancements).
 
 ### Healing
 
@@ -102,7 +97,19 @@ Resting for a few hours and having a meal allow you to re-roll your **Grit**.
 Ability loss (see **Critical Harm**) can usually be restored at a rate of one per day, if facilitated by a healer or other appropriate source of expertise.
 **Deprived** PCs roll *-1d6* **Grit** when resting.
 
-### Detachments
+## Panic
+
+
+| $d6$  | Panic Event Outcome                                                                                                               |
+| :---: | --------------------------------------------------------------------------------------------------------------------------------- |
+| $1:3$ | You **Flight**. Lose $1d6$ **Resolve**, and you are compelled to leave the scene.                                                 |
+| $4:5$ | You **Freeze**. Lose $1d6$ **Prowess**, and you cannot move, silently or otherwise.                                               |
+|  $6$  | You **Fight**. Lose $1d6$ **Insight**, and you become obsessed with being successful during the scene. You gain an *Advancement*. |
+
+Describe the outcome narratively.
+In any case, after the scene ends, you gain a *Condition*.
+With the GM, determine the mechanical effects and how to introduce your *Condition* into the narrative.
+## Detachments
 
 Large groups of similar combatants fighting together are treated as a single **detachment**.
 When a detachment takes critical damage, it is routed or significantly weakened. When it reaches 0 STR, it is destroyed.
@@ -110,7 +117,7 @@ When a detachment takes critical damage, it is routed or significantly weakened.
 Attacks against detachments by individuals are **impaired** (excluding blast damage).
 Attacks against individuals by detachments are **enhanced** and deal blast damage.
 
-### Reactions
+## Reactions
 
 When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll 2d6 and consult the following table:
 
@@ -119,13 +126,21 @@ When the PCs encounter an NPC whose reaction to the party is not obvious, the Wa
 |    2    | 3-5  |   6-8   | 9-11 |   12    |
 | Hostile | Wary | Curious | Kind | Helpful |
 
-### Morale
+## Morale
 
 Enemies must pass a **Resolve** save to avoid fleeing when they take their first casualty and again when they lose half their number.
 Some groups may use their leader's **Resolve** in place of their own.
 Lone foes must save when they're reduced to 0 **Grit**.
 Morale does not affect PCs.
 
-### Fortune die
+## Fortune die
 
 When the GM wants to leave some decision to the dice, determine the chances and roll *1d6*.
+
+## Sayonara
+
+If you are not Critically Harmed, you can decide it is your last scene.
+When you do that, choose a song and then re-roll your *Grit*.
+For this scene all your rolls are *Enhanced*.
+By the end of the scene, you have to figure out how you depart (death, madness, mission, Etc.).
+You can create a new character with half (rounded down) the number of *Advancements* the previous character had.
