@@ -44,6 +44,7 @@ If **multiple attackers** target the same foe, roll all attack dice and keep the
 If attacking with **two weapons** at the same time, roll both dice dice and keep the highest.
 
 ### Blast
+
 Attacks with the **blast** quality affect all targets in the noted area, rolling separately for each affected character.
 Blast refers to anything from explosions to huge cleaving onslaughts to the impact of a meteorite.
 If unsure how many targets can be affected, roll the related damage die for a result.
