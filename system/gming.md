@@ -1,10 +1,18 @@
-# Running a Game {#run}
+---
+layout: default
+title: GMing
+nav_order: 60
+parent: System
+
+---
+
+# Running a Game
 
 Terra is intended to be sandbox.
 Pre-game preparation is minimal, and generation can occur during gameplay.
 The suggested approach is adapted from the [Lazy GM SRD](https://slyflourish.com/lazy_gm_resource_document.html).
 
-## Prep Steps {#prepsteps}
+## Prep Steps 
 
 - [ ] Review notes, think of world reacting back
 - [ ] Evaluate faction turn (i.e. the dynamic plot)
