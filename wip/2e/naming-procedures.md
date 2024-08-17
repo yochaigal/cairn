@@ -232,29 +232,30 @@ search_exclude: true
 
 ### Ruler Types
 
+
 |         |                   |
 | ------- | ----------------- |
 | **d20** | **Ruler**         |
 | **1**   | **Alliance**      |
-| **2**   | **Commonwealth**  |
-| **3**   | **Confederation** |
-| **4**   | **Dominion**      |
-| **5**   | **Ecclesiarchy**  |
-| **6**   | **Empire**        |
-| **7**   | **Federacy**      |
-| **8**   | **Grand Duchy**   |
-| **9**   | **Kingdom**       |
-| **10**  | **Principality**  |
-| **11**  | **Protectorate**  |
-| **12**  | **Republic**      |
-| **13**  | **Union**         |
-| **14**  | **Barony**        |
-| **15**  | **Fiefdom**       |
-| **16**  | **Hegemony**      |
-| **17**  | **Monarchy**      |
-| **18**  | **Realm**         |
-| **19**  | **Regency**       |
-| **20**  | **State**         |
+| **2**   | **Barony**        |
+| **3**   | **Commonwealth**  |
+| **4**   | **Confederation** |
+| **5**   | **Dominion**      |
+| **6**   | **Ecclesiarchy**  |
+| **7**   | **Empire**        |
+| **8**   | **Federacy**      |
+| **9**   | **Fiefdom**       |
+| **10**  | **Grand Duchy**   |
+| **11**  | **Hegemony**      |
+| **12**  | **Kingdom**       |
+| **13**  | **Monarchy**      |
+| **14**  | **Principality**  |
+| **15**  | **Protectorate**  |
+| **16**  | **Realm**         |
+| **17**  | **Regency**       |
+| **18**  | **Republic**      |
+| **19**  | **State**         |
+| **20**  | **Union**         |
 
 |        |                                                  |
 | ------ | ------------------------------------------------ |
