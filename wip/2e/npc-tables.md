@@ -12,100 +12,100 @@ search_exclude: true
 |         |           |
 | ------- | --------- |
 | **d20** | **Name**  |
-| **1**   | Luna      |
-| **2**   | Glyph     |
-| **3**   | Pan       |
-| **4**   | Quill     |
-| **5**   | Darnel    |
-| **6**   | Lysander  |
-| **7**   | Seraphine |
+| **1**   | Alaric    |
+| **2**   | Carver    |
+| **3**   | Cleaver   |
+| **4**   | Darnel    |
+| **5**   | Eoin      |
+| **6**   | Evander   |
+| **7**   | Glyph     |
 | **8**   | Hemlock   |
 | **9**   | Herald    |
-| **10**  | Alaric    |
-| **11**  | Marius    |
-| **12**  | Mend      |
-| **13**  | Eoin      |
-| **14**  | Lucian    |
-| **15**  | Evander   |
-| **16**  | Cleaver   |
-| **17**  | Milo      |
-| **18**  | Lisbeth   |
-| **19**  | Carver    |
-| **20**  | Neria     |
+| **10**  | Lisbeth   |
+| **11**  | Lucian    |
+| **12**  | Luna      |
+| **13**  | Lysander  |
+| **14**  | Marius    |
+| **15**  | Mend      |
+| **16**  | Milo      |
+| **17**  | Neria     |
+| **18**  | Pan       |
+| **19**  | Quill     |
+| **20**  | Seraphine |
 
 |         |           |
 | ------- | --------- |
 | **d20** | **Name**  |
-| **1**   | Crow      |
-| **2**   | Lisbeth   |
-| **3**   | Lira      |
-| **4**   | Ainsley   |
-| **5**   | Azura     |
-| **6**   | Callan    |
-| **7**   | Spike     |
+| **1**   | Ainsley   |
+| **2**   | Azura     |
+| **3**   | Brave     |
+| **4**   | Callan    |
+| **5**   | Cedric    |
+| **6**   | Crow      |
+| **7**   | Finch     |
 | **8**   | Gunnar    |
-| **9**   | Spade     |
-| **10**  | Finch     |
-| **11**  | Cedric    |
-| **12**  | Brave     |
-| **13**  | Thyme     |
-| **14**  | Luna      |
-| **15**  | Tanner    |
-| **16**  | Shade     |
-| **17**  | Shroud    |
-| **18**  | Marcellus |
-| **19**  | Liora     |
-| **20**  | Harper    |
+| **9**   | Harper    |
+| **10**  | Liora     |
+| **11**  | Lira      |
+| **12**  | Lisbeth   |
+| **13**  | Luna      |
+| **14**  | Marcellus |
+| **15**  | Shade     |
+| **16**  | Shroud    |
+| **17**  | Spade     |
+| **18**  | Spike     |
+| **19**  | Tanner    |
+| **20**  | Thyme     |
 
 |         |          |
 | ------- | -------- |
 | **d20** | **Name** |
-| **1**   | Mariner  |
-| **2**   | Rolan    |
-| **3**   | Hildred  |
-| **4**   | Storm    |
-| **5**   | Alistair |
-| **6**   | Alder    |
-| **7**   | Sky      |
-| **8**   | Onyx     |
-| **9**   | Kael     |
-| **10**  | Caius    |
-| **11**  | Nazira   |
-| **12**  | Rush     |
-| **13**  | Godric   |
-| **14**  | Kavi     |
-| **15**  | Taros    |
-| **16**  | Dax      |
-| **17**  | Harkin   |
-| **18**  | Thaddeus |
-| **19**  | Dain     |
-| **20**  | Dorian   |
+| **1**   | Alder    |
+| **2**   | Alistair |
+| **3**   | Caius    |
+| **4**   | Dain     |
+| **5**   | Dax      |
+| **6**   | Dorian   |
+| **7**   | Godric   |
+| **8**   | Harkin   |
+| **9**   | Hildred  |
+| **10**  | Kael     |
+| **11**  | Kavi     |
+| **12**  | Mariner  |
+| **13**  | Nazira   |
+| **14**  | Onyx     |
+| **15**  | Rolan    |
+| **16**  | Rush     |
+| **17**  | Sky      |
+| **18**  | Storm    |
+| **19**  | Taros    |
+| **20**  | Thaddeus |
 
 ## Quirks
 
 |         |                |
 | ------- | -------------- |
 | **d20** | **Quirk 1**    |
-| **1**   | Gaunt          |
-| **2**   | Harsh Voice    |
-| **3**   | Young          |
-| **4**   | Squints        |
-| **5**   | Strong         |
-| **6**   | Alert          |
-| **7**   | Bright Eyes    |
-| **8**   | Bald           |
-| **9**   | Notable Hair   |
-| **10**  | Missing Ear    |
-| **11**  | Good Posture   |
-| **12**  | Limps          |
-| **13**  | Grimy          |
-| **14**  | Muscular       |
-| **15**  | Thick Eyebrows |
-| **16**  | Crooked Teeth  |
-| **17**  | Heavy Brow     |
-| **18**  | Pleasant Voice |
-| **19**  | Broad Face     |
-| **20**  | Tired          |
+| **1**   | Alert          |
+| **2**   | Bald           |
+| **3**   | Bright Eyes    |
+| **4**   | Broad Face     |
+| **5**   | Crooked Teeth  |
+| **6**   | Gaunt          |
+| **7**   | Good Posture   |
+| **8**   | Grimy          |
+| **9**   | Harsh Voice    |
+| **10**  | Heavy Brow     |
+| **11**  | Limps          |
+| **12**  | Missing Ear    |
+| **13**  | Muscular       |
+| **14**  | Notable Hair   |
+| **15**  | Pleasant Voice |
+| **16**  | Squints        |
+| **17**  | Strong         |
+| **18**  | Thick Eyebrows |
+| **19**  | Tired          |
+| **20**  | Young          |
 
 ## Background
 
