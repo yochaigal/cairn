@@ -5,6 +5,8 @@ nav_order: 1
 permalink: /
 ---
 
+# Terra Odd
+
 **Terra Odd** is a modular implementation or Cairn / Into the Odd that aims to allow games in to be played in different genres and aesthetics.
 
 Character generation is quick and random, background based, and relies on fictional advancement rather than through XP or level mechanics. 
@@ -19,7 +21,6 @@ Cairn is based on [Knave](https://www.drivethrurpg.com/product/250888/Knave) by 
 
 
 ## Contribute
-
 
 
 Tech:
