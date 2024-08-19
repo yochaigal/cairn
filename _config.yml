@@ -2,7 +2,7 @@ title: Terra Odd
 permalink: pretty
 remote_theme: pmarsceill/just-the-docs
 site.url: https://cairnrpg.com
-logo: "/img/logo.png"
+# logo: "/img/logo.png"
 color_scheme: light
 encoding: UTF-8
 plugins:
