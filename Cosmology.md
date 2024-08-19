@@ -7,23 +7,20 @@ nav_order: 2
 
 # Cosmology
 
-Hostile
-SWN then Terra System
-
-Degenesis
-Terra System
-
-Nibiru
-BLB Hack
-
-Arrival 
-5e Hack
 
 ```mermaid
 %%{init: {'theme':'forest'}}%%
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+graph LR
+    Veil("?")
+    
+    Veil ---> Hostile
+    Veil -.-> Arrival
+    Hostile ---> Degenesis
+    Hostile -.-> Nibiru
+    Degenesis ---> Arrival
+    
+    click Hostile "https://terra-campaigns.github.io/hostile/" _blank
+    click Degenesis "https://terra-campaigns.github.io/degenesis/" _blank
+    click Nibiru "https://terra-campaigns.github.io/nibiru/" _blank
+    click Arrival "https://terra-campaigns.github.io/arrival/" _blank
 ```
