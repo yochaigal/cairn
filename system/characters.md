@@ -58,4 +58,21 @@ Then determine who you are and your name.
 
 ## Fallout
 
-Fallout are conditions you develop.
+If you are exposed to the primer, or take drugs, you suffer Primer infection.
+
+Note:
+The amount and frequency of how you deal Primer infection establishes the tone and pacing of your game.
+It is a dial to control the amount of Primer your players encounter and how likely they are to change as a result.
+
+|            |                 |
+| ---------- | --------------- |
+| ***1***    | **GLIMPSE**     |
+| ***1d4***  | **CONTACT**     |
+| ***1d6***  | **EXPOSURE**    |
+| ***1d8***  | **CATASTROPHE** |
+| ***1d10*** | **DOOM**        |
+
+Infection damage reduces your HP but gives you an equal amount of STR and WILL until the end of the scene.
+If reduced to exactly 0 HP, you get an infection emergent affloration.
+If reduced beyond 0 HP, you lose DEX.
+Make a save and, if failed, you develop a mutation.
