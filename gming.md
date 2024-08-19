@@ -2,6 +2,7 @@
 layout: default
 title: GMing
 nav_order: 997
+parent: Resources
 
 ---
 
