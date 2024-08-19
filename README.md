@@ -9,9 +9,7 @@ permalink: /
 
 **Terra Odd** is a modular implementation or Cairn / Into the Odd that aims to allow games in to be played in different genres and aesthetics.
 
-Character generation is quick and random, background based, and relies on fictional advancement rather than through XP or level mechanics. 
-
-This webpage and the repository are a fork from [Yochai Gal](https://newschoolrevolution.com).'s Cairn.
+This webpage and the repository are a fork from [Yochai Gal](https://newschoolrevolution.com).'s [Cairn](https://cairnrpg.com/).
 Cairn is based on [Knave](https://www.drivethrurpg.com/product/250888/Knave) by Ben Milton and [Into The Odd](https://chrismcdee.itch.io/electric-bastionland) by Chris McDowall. 
 
 <p></p>
