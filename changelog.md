@@ -17,6 +17,21 @@ nav_order: 999
 
 #### v0.7.1
 
+**Goal of minor version**: Run an Odd Shot of Degenesis
+
+- New:
+	- New landing page
+	- Synced Characters and Rules with Cairn 2e
+	- Added Backgrounds as module, and imported 6 from Cairn 2e
+	- Added Fallout placeholder (not modularised yet)
+- WIP:
+	- Created GMing file
+- Under the hood:
+	- Housekeeping to remove unnecessary folders from Cairn
+	- Housekeeping to organise information and files
+	- Merged updates from Cairn
+	- Updated gemfiles for website generation
+
 #### v0.7.0
 
 Changes the base framework from [Forged in the Dark](https://bladesinthedark.com/basics) to [Mark of the Odd](https://www.bastionland.com/2020/11/mark-of-odd-licence-and-srd.html?m=1).
@@ -24,8 +39,7 @@ Changes the base framework from [Forged in the Dark](https://bladesinthedark.com
 #### v0.6x
 
 Last version of **Terra System**.
-Changelog and updates after v0.6.1c are only maintained on [Terra System](https://terra-campaigns.github.io/terraSystem/).
-
+Updates after v0.6.1c are only maintained on [Terra System](https://terra-campaigns.github.io/terraSystem/).
 
 #### v0.6.1c
 

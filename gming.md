@@ -1,10 +1,7 @@
 ---
 layout: default
 title: GMing
-nav_order: 60
-parent: System
-nav_exclude: true
-search_exclude: true
+nav_order: 997
 
 ---
 
