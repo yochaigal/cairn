@@ -21,3 +21,9 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 
 # If you want to ignore the monsters folder during builds
 # exclude: /resources/monsters
+
+mermaid:
+  # Version of mermaid library
+  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
+  version: "10.9.1"
+
