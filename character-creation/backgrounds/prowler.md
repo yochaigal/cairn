@@ -16,6 +16,7 @@ Winda, Brielle, Theron, Chayse, Nuja, Dev, Raven, Arawan, Sable, Baruani
 
 ## Starting Gear
 
+- 3d6 Gold Pieces
 - Rations (3 uses)
 - Torch (3 uses) 
 - Tarp

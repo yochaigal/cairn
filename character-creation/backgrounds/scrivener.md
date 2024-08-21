@@ -16,6 +16,7 @@ Lazlo, Stilo, Akshara, Pisa, Ji-Yun, Kalamos, Hugo, Shui, Kalam, Julius
 
 ## Starting Gear
 
+- 3d6 Gold Pieces
 - Rations (3 uses)
 - Torch (3 uses) 
 - Quill & Ink

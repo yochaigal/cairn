@@ -16,6 +16,7 @@ Gunther, Moss, Fern, Lichen, Root, Willow, Sage, Yarrow, Rowan, Ash
 
 ## Starting Gear
 
+- 3d6 Gold Pieces
 - Rations (3 uses)
 - Torch (3 uses) 
 - Iron Pot
