@@ -35,6 +35,8 @@ Roll on each of the included tables from your background.
 | ***5*** | [Prowler](/system/backgrounds/prowler/)                          |
 | ***6*** | [Scrivener](/system/backgrounds/scrivener/)                      |
 
+[beast-handler](backgrounds/beast-handler.md)
+
 ## Archetype
 
 Roll or choose one of the following archetypes.
