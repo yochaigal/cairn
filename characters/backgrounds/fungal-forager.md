@@ -2,7 +2,7 @@
 title: Fungal Forager
 layout: default
 parent: Backgrounds
-grand_parent: Characters
+grand_parent: Character Creation
 
 ---
 
