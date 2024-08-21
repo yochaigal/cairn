@@ -15,7 +15,7 @@ nav_order: 999
 {:toc}
 </details>
 
-#### v0.7.1
+#### v0.7.1a
 
 **Goal of minor version**: Run an Odd Shot of Degenesis
 
@@ -24,8 +24,12 @@ nav_order: 999
 	- Synced Characters and Rules with Cairn 2e
 	- Added Backgrounds as module, and imported 6 from Cairn 2e
 	- Added Fallout placeholder (not modularised yet)
+- Chaged:
+	- Attributes roll 2d6+3
 - WIP:
 	- Created GMing file
+	- Exposed resources
+	- Cosmology of Terra Campaigns 
 - Under the hood:
 	- Housekeeping to remove unnecessary folders from Cairn
 	- Housekeeping to organise information and files

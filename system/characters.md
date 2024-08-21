@@ -28,7 +28,7 @@ Roll on each of the included tables from your background.
 
 |         | Background                                            |
 | ------- | ----------------------------------------------------- |
-| ***1*** | [Beast Handler](/system/backgrounds/beast-handler/)   |
+| ***1*** | [Beast Handler](/system/backgrounds/beast-handler)    |
 | ***2*** | [Bonekeeper](/system/backgrounds/bonekeeper/)         |
 | ***3*** | [Fungal Forager](/system/backgrounds/fungal-forager/) |
 | ***4*** | [Greenwise](/system/backgrounds/greenwise/)           |
@@ -67,7 +67,7 @@ Roll or choose one of the following archetypes.
 ## Attributes
 
 - Player Characters have just three Attributes: (**Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**). 
-- Roll 3d6 for each of your character's **Attributes**, in order. You may then swap any two of the results. 
+- Roll ***2d6+3*** for each of your character's **Attributes**, in order. You may then swap any two of the results. 
 - Attributes are not universal descriptors. A character with a low STR is not necessarily hopelessly weak; they can still attempt to lift a heavy door or survive a deadly fight! Their risk is simply higher. 
 
 ## Grit

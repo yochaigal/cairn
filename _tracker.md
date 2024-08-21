@@ -35,3 +35,5 @@ Backgrounds and monsters are external links. Degenesis clans are backgrounds.
 
 With backgrounds (skills) the consequence of a failed save are milder, and successes are greater. See this [summary](https://dreamingdragonslayer.wordpress.com/2020/03/28/advantage-and-impact/).
 Skills are treated like WuDu or as a dice of different size from 24xx
+
+https://lars1808.github.io/Block-Dodge-Parry-SRD/

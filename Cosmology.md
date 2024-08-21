@@ -2,6 +2,7 @@
 layout: default
 title: Cosmology
 nav_order: 2
+nav_exclude: true
 
 ---
 
@@ -10,14 +11,25 @@ nav_order: 2
 
 ```mermaid
 %%{init: {'theme':'forest'}}%%
-graph LR
-    Veil("?")
+graph TD
+    Veil
+    Hostile
+    Degenesis
+    
+    subgraph Sidereal
+		Nibiru 
+	end
+	subgraph Iterums
+		Arrival
+		Rhun("Rhûn")
+	end
     
     Veil ---> Hostile
     Veil -.-> Arrival
+    Veil -.-> Degenesis
     Hostile ---> Degenesis
-    Hostile -.-> Nibiru
-    Degenesis ---> Arrival
+    Hostile ---> Sidereal
+    Degenesis ---> Iterums
     
     click Hostile "https://terra-campaigns.github.io/hostile/" _blank
     click Degenesis "https://terra-campaigns.github.io/degenesis/" _blank
