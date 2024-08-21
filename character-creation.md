@@ -9,10 +9,10 @@ has_children: true
 # Character Creation
 
 1. If you are creating a new party, define a cohesive group concept with the other players.
-2. Roll or choose your Background. Use the tables on each background.
-3. Roll or choose your Archetype.
-4. Roll your Attributes.
-5. Roll your HP.
+2. Roll or choose your [Background](character-creation.md#Backgrounds). Use the tables on each background.
+3. Roll or choose your [Archetype](character-creation.md#Archetype).
+4. Roll your [Attributes](character-creation.md#Attributes).
+5. Roll your [Hit Protection](character-creation.md#Hit%20Protection).
 
 <details close markdown="block">
   <summary id="index">
@@ -71,14 +71,12 @@ Roll or choose one of the following archetypes.
 - Roll ***2d6+3*** for each of your character's **Attributes**, in order. You may then swap any two of the results. 
 - Attributes are not universal descriptors. A character with a low STR is not necessarily hopelessly weak; they can still attempt to lift a heavy door or survive a deadly fight! Their risk is simply higher. 
 
-## Grit
+## Hit Protection
 
-> Also referred to as **Hit Protection** (HP)
+- Roll 1d6 to determine your PC's starting **Hit Protection (HP)**, which reflects their ability to avoid damage in combat. It does not indicate a character’s health or fortitude, nor do they lose it for very long. See [Healing & Recovery](core-rules.md#Healing%20&%20Recovery). 
+- If an attack would take a PC's HP exactly to 0, the player must roll on the [Scars](core-rules.md#Scars) table.
 
-- Roll 1d6 to determine your PC's starting Grit, which reflects their ability to avoid damage in combat. It does not indicate a character’s health or fortitude, nor do they lose it for very long. See [Healing](/wip/2e/core-rules#healing). 
-- If an attack would take a PC's Grit exactly to 0, the player must roll on the [**Scars**](https://cairnrpg.com/wip/2e/core-rules#scars) table.
-
-## Burden
+## Burdens
 
 - Characters have a total of ten burden slots but can only carry four or five items comfortably without the help of bags, backpacks, horses, carts, etc.
 - Each PC starts with a **Backpack** that can hold up to six slots of items or **Fatigue**. Carts (which must be pulled with both hands), horses, or mules can make a huge difference in how much a PC can bring with them on an adventure. **Hirelings** can also be paid to carry equipment. 
