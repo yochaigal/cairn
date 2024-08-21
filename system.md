@@ -21,7 +21,3 @@ Cairn is based on [Knave](https://www.drivethrurpg.com/product/250888/Knave) by 
 Additional influences are:
 
 - Fallout subsystem, from [Liminal Horror](https://goblinarchives.github.io/LiminalHorror/)
-
-<p></p>
-
-**Terra Odd** is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
