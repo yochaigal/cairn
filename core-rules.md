@@ -1,12 +1,11 @@
 ---
 layout: default
-title: Rules
-nav_order: 10
-parent: System
+title: Core Rules
+nav_order: 940
 
 ---
 
-# Rules
+# Core Rules
 
 <details close markdown="block">
   <summary id="index">

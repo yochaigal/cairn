@@ -15,7 +15,7 @@ nav_order: 999
 {:toc}
 </details>
 
-#### v0.7.1a
+#### v0.7.1b
 
 **Goal of minor version**: Run an Odd Shot of Degenesis
 

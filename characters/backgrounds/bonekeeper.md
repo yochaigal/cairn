@@ -2,7 +2,7 @@
 title: Bonekeeper
 layout: default
 parent: Backgrounds
-grand_parent: System
+grand_parent: Characters
 
 ---
 
@@ -43,7 +43,3 @@ Rook, Ebon, Moro, Yew, Pall, Leth, Bea, Barnaby, Vesper, Leder
 | 4   | **Incense**   | Perfect for rituals or to keep the flies at bay. Cools the blood.                                                         |
 | 5   | **Crowbar**   | d6 damage. Sometimes you just need to get the damn thing open!                                                             |
 | 6   | **Repellent** | Powerful stuff. Its faded label makes it unclear what it is actually _meant_ to repel, though. Perhaps everything. 3 uses. |
-
----
-
-[Back to Characters](/system/characters/)

@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Characters
-nav_order: 4
-parent: System
+nav_order: 920
+
 ---
 
 # Characters
@@ -28,12 +28,12 @@ Roll on each of the included tables from your background.
 
 |         | Background                                      |
 | ------- | ----------------------------------------------- |
-| ***1*** | [Beast Handler](backgrounds/beast-handler.md)   |
-| ***2*** | [Bonekeeper](backgrounds/bonekeeper.md)         |
-| ***3*** | [Fungal Forager](backgrounds/fungal-forager.md) |
-| ***4*** | [Greenwise](backgrounds/greenwise.md)           |
-| ***5*** | [Prowler](backgrounds/prowler.md)               |
-| ***6*** | [Scrivener](backgrounds/scrivener.md)           |
+| ***1*** | [Beast Handler](characters/backgrounds/beast-handler.md)   |
+| ***2*** | [Bonekeeper](characters/backgrounds/bonekeeper.md)         |
+| ***3*** | [Fungal Forager](characters/backgrounds/fungal-forager.md) |
+| ***4*** | [Greenwise](characters/backgrounds/greenwise.md)           |
+| ***5*** | [Prowler](characters/backgrounds/prowler.md)               |
+| ***6*** | [Scrivener](characters/backgrounds/scrivener.md)           |
 
 ## Archetype
 

@@ -2,7 +2,7 @@
 layout: default
 title: Backgrounds
 nav_order: 5
-parent: System
+parent: Characters
 has_children: true
 
 ---

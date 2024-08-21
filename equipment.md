@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Equipment
-nav_order: 14
-parent: System
+nav_order: 960
+
 ---
 
 # Equipment

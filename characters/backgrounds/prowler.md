@@ -2,7 +2,7 @@
 title: Prowler
 layout: default
 parent: Backgrounds
-grand_parent: System
+grand_parent: Characters
 ---
 
 # Prowler
@@ -43,7 +43,3 @@ Winda, Brielle, Theron, Chayse, Nuja, Dev, Raven, Arawan, Sable, Baruani
 | **4** | **Spike and Cord**    | For traversing difficult terrain or for creating makeshift traps and structures.      |
 | **5** | **Iron Rattle**       | A noisemaker for distracting or scaring your quarry. Sounds convincingly like a snake.              |
 | **6** | **Hardening Glue**    | Makes any flat material (cloth, leather, sand) as hard as stone. Expensive (20gp a bottle, 3 uses). |
-
----
-
-[Back to Characters](/system/characters/)

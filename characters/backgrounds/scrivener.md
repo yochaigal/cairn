@@ -2,7 +2,7 @@
 title: Scrivener
 layout: default
 parent: Backgrounds
-grand_parent: System
+grand_parent: Characters
 
 ---
 
@@ -44,7 +44,3 @@ Lazlo, Stilo, Akshara, Pisa, Ji-Yun, Kalamos, Hugo, Shui, Kalam, Julius
 | **4** | **Whisper Vial**  | Whisper a message into the vial, and it will play it back to whoever opens it next.                                      |
 | **5** | **Sanguine Lens** | Extracts blood from a target without their knowledge. A stolen drop placed on the eye reveals memories from the past day. |
 | **6** | **Echo Leaf**     | A blank parchment. Whomever unfurls it sees their actions of the day slowly revealed in a tight scrawl. _Petty_.          |
-
----
-
-[Back to Characters](/system/characters/)
