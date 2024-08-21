@@ -21,5 +21,17 @@ sort parent, nav_order asc
 - Electrum Archive: post-post-apocalyptic fantasy. Not technically a direct ItO game, but is heavily inspired by it.
 - https://runecairn.byodinsbeardrpg.com/srd
 - https://goblinarchives.github.io/LiminalHorror/
+- Mothership: https://www.meteorrpg.com/SpaceShips/ShipStats.html
+- Mothership: monolith
+	- some good ideas about adv/dis
+- cairn hacks: https://itch.io/c/1702301/cairn-hacks
+- cairn hacks: https://itch.io/c/2239977/cairn
+- Ito hacks: https://itch.io/c/1024700/into-the-oddish
 
-- Add changelog
+
+Add to config: nav_external_links_new_tab: true
+Backgrounds and monsters are external links. Degenesis clans are backgrounds.
+
+
+With backgrounds (skills) the consequence of a failed save are milder, and successes are greater. See this [summary](https://dreamingdragonslayer.wordpress.com/2020/03/28/advantage-and-impact/).
+Skills are treated like WuDu or as a dice of different size from 24xx

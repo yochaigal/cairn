@@ -7,7 +7,11 @@ parent: System
 
 # Characters
 
-If you are creating a new party, define a cohesive Player Characters (PC) group concept with the other players.
+1. If you are creating a new party, define a cohesive group concept with the other players.
+2. Roll or choose your Background. Use the tables on each background.
+3. Roll or choose your Archetype.
+4. Roll your Attributes.
+5. Roll your Grit (HP).
 
 <details close markdown="block">
   <summary id="index">
@@ -18,103 +22,90 @@ If you are creating a new party, define a cohesive Player Characters (PC) group 
 {:toc}
 </details>
 
-## Name & Background
+## Backgrounds
 
-Choose your PC’s name and **Background**.
-Each **Background** should offer an immediate grasp of your identity and behaviours.
-A PC’s background informs their potential knowledge and skills.
-It is expected you will evolve beyond these initial **Background** towards unique narratives.
+Roll on each of the included tables from your background.
 
-|                |                                     |
-| -------------- | ----------------------------------- |
-| **Clergy**     | Spiritual leaders and advisors      |
-| **Bureaucrat** | Administrators and office workers   |
-| **Trainer**    | Coaches and fitness instructors     |
-| **Agent**      | Covert operatives and enforcers     |
-| **Coder**      | Programmers and software developers |
-| **Artist**     | Creators of art and culture         |
-| **Criminal**   | Illicit operatives and thieves      |
-| **Dilettante** | Jack-of-all-trades and adventurers  |
-| **Protector**  | Bodyguards and security personnel   |
-| **Disciple**   | Devoted followers and apprentices   |
-| **Fixer**      | Repair experts and mediators        |
-| **Academic**   | Scholars and researchers            |
-| **Spy**        | Undercover agents and infiltrators  |
-| **Soldier**    | Survivalists and combat experts     |
-| **Spacer**     |                                     |
-| **Traveller**  | Explorers and navigators            |
-| **Mechanic**   | Engineers and machine operators     |
-| **Scientist**  | Researchers and innovators          |
+|         | Background                                            |
+| ------- | ----------------------------------------------------- |
+| ***1*** | [Beast Handler](/system/backgrounds/beast-handler/)   |
+| ***2*** | [Bonekeeper](/system/backgrounds/bonekeeper/)         |
+| ***3*** | [Fungal Forager](/system/backgrounds/fungal-forager/) |
+| ***4*** | [Greenwise](/system/backgrounds/greenwise/)           |
+| ***5*** | [Prowler](/system/backgrounds/prowler/)               |
+| ***6*** | [Scrivener](/system/backgrounds/scrivener/)           |
+
+## Archetype
+
+Roll or choose one of the following archetypes.
+
+| d4      | d6        | Archetype      | Summary                                                                                                             |
+| ------- | --------- | -------------- | ------------------------------------------------------------------------------------------------------------------- |
+| ***1*** | ***1:3*** | Adventurer     | The Adventurer seeks to constantly push beyond their limits, embracing danger and novelty to avoid boredom.         |
+| ***1*** | ***4***   | Creator        | The Creator is driven by the desire to leave a lasting legacy through their works, striving to prove their worth.   |
+| ***1*** | ***5***   | Mentor         | The Mentor shares wisdom with chosen disciples, aiming to immortalize knowledge through them.                       |
+| ***1*** | ***6***   | Martyr         | The Martyr gains strength through self-sacrifice, standing as a paragon of willpower and faithfulness.              |
+| ***2*** | ***1***   | Ruler          | The Ruler seeks control to prevent chaos, believing only they can lead others to order and success.                 |
+| ***2*** | ***2***   | Seeker         | The Seeker is obsessed with uncovering life’s mysteries, relentlessly pursuing answers to the world’s enigmas.      |
+| ***2*** | ***3***   | Healer         | The Healer fights against the world's collapse, determined to restore and preserve life and order.                  |
+| ***2*** | ***4***   | Traditionalist | The Traditionalist upholds order through adherence to ancient rules, fearing change and chaos.                      |
+| ***2*** | ***5***   | Mediator       | The Mediator seeks peace and understanding, striving to bridge gaps between conflicting parties.                    |
+| ***2*** | ***6***   | Hermit         | The Hermit shuns society, finding peace only in solitude and freedom from the noise of the world.                   |
+| ***3*** | ***1***   | Heretic        | The Heretic questions everything, aiming to disrupt established norms and traditions.                               |
+| ***3*** | ***2***   | Conqueror      | The Conqueror is driven by the pursuit of power, viewing every battle as a necessary struggle for dominance.        |
+| ***3*** | ***3***   | Abomination    | The Abomination is consumed by madness, thriving on the fear and discomfort they invoke in others.                  |
+| ***3*** | ***4***   | Destroyer      | The Destroyer seeks to annihilate the old to make way for the new, driven by a relentless need for destruction.     |
+| ***3*** | ***5***   | Chosen         | The Chosen believes they are destined to be the solution to every problem, inspiring others through their presence. |
+| ***3*** | ***6***   | Defiler        | The Defiler thrives on envy, finding purpose in spreading misery and discord among others.                          |
+| ***4*** | ***1***   | Protector      | The Protector is dedicated to safeguarding people and things, willing to sacrifice themselves for their cause.      |
+| ***4*** | ***2***   | Visionary      | The Visionary sees the future and strives to guide humanity toward a better tomorrow with their insights.           |
+| ***4*** | ***3***   | Zealot         | The Zealot is fanatically devoted to their cause, willing to suffer and die for their beliefs.                      |
+| ***4*** | ***4***   | Disciple       | The Disciple is on an endless quest for knowledge, always learning but never fully committing to one path.          |
+| ***4*** | ***5***   | Righteous      | The Righteous acts according to an unwavering conscience, judging everything as either good or evil.                |
+| ***4*** | ***6***   | Traveler       | The Traveler is compelled to explore the world, spreading knowledge and connecting distant places.                  |
 
 ## Attributes
 
-PCs have three [Attributes](/system/characters/#attributes) that are used in different circumstances (see [Saves](/system/rules/#saves)).
-
-**Prowess**: Force, finesse & fortitude.   
-**Insight**: Intuition, wits & reflexes.   
-**Resolve**: Confidence, charisma & attunement.  
-
-For each [Attribute](/system/characters/#attributes) roll *3d6*.
-You can swap two results.
-These are your permanent [Attributes](/system/characters/#attributes) values.
-
-<details markdown="block">
-  <summary>
-Expand For Example
- </summary>
- Ines rolls for her character's **STR**, resulting in a **2**, a **4**, and a **6**, totaling **12**. The next two ability rolls result in a **9** for **DEX** and a **13** for **WIL**. She decides to swap the **12** and the **9**, for a character with **9 STR**, **12 DEX** and **13** **WIL**.
-</details>
-
-During play, their values will change.
-Sometimes permanently.
+- Player Characters have just three Attributes: (**Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**). 
+- Roll 3d6 for each of your character's **Attributes**, in order. You may then swap any two of the results. 
+- Attributes are not universal descriptors. A character with a low STR is not necessarily hopelessly weak; they can still attempt to lift a heavy door or survive a deadly fight! Their risk is simply higher. 
 
 ## Grit
 
-[Grit](/system/characters/#grit) indicates a PC's ability to avoid getting hurt.
-It is lost when harmed & recovered after a few hours' rest.
-PC's start with *1d6* [Grit](/system/characters/#grit), which they re-roll every time they rest.
+> Also referred to as **Hit Protection** (HP)
 
+- Roll 1d6 to determine your PC's starting Grit, which reflects their ability to avoid damage in combat. It does not indicate a character’s health or fortitude, nor do they lose it for very long. See [Healing](/wip/2e/core-rules#healing). 
+- If an attack would take a PC's Grit exactly to 0, the player must roll on the [**Scars**](https://cairnrpg.com/wip/2e/core-rules#scars) table.
 
-## Advancements
+## Burden
 
-You start the game with *1* [Advancement](/system/characters/#advancements).
-Every time you are [Critically Harmed](/system/rules/#critical-harm) you gain a new [Advancement](/system/characters/#advancements) if your new permanent [Attribute](/system/characters/#attributes) is equal or higher than your current number of [Advancements](/system/characters/#advancements).
+- Characters have a total of ten burden slots but can only carry four or five items comfortably without the help of bags, backpacks, horses, carts, etc.
+- Each PC starts with a **Backpack** that can hold up to six slots of items or **Fatigue**. Carts (which must be pulled with both hands), horses, or mules can make a huge difference in how much a PC can bring with them on an adventure. **Hirelings** can also be paid to carry equipment. 
+- Inventory is abstract, dependent only on the fiction as adjudicated by the Warden. Anyone carrying a full inventory (i.e. filling all 10 slots) is reduced to 0 HP. A character cannot fill more than ten slots.
 
-The list below are examples of a simple framework for their in-game mechanics.
+### Burden Slots
 
-|                   |                                                                                                  |
-| ----------------- | ------------------------------------------------------------------------------------------------ |
-| Asceticism        | You do not take *-1d* when rolling for [Grit](/system/characters/#grit) while poorly fed.        |
-| Assassin          | Best of *2d12* when trying to assassinate an unaware rival.                                      |
-| Bodyguard         | You can choose to take damage instead of one of your allies.                                     |
-| Could be worse    | Your **Prowess** *Trauma Save* is rolled *Enhanced*.                                             |
-| Danger sense      | Roll $3d6$, if it is higher than your current **Insight**, take the new result.                  |
-| Developed         | Roll $3d6$, if it is higher than your current **Prowess**, take the new result.                  |
-| Die Hard          | When you reset your *Grit*, roll $+1d$ and sum all the dice you rolled.                          |
-| Expert            | You have $1$ additional Skill points (requires appropriate narrative with the GM).               |
-| Fast              | You always act before your opposition.                                                           |
-| Healer            | You can automatically stabilise an ally with a *Critical Trauma*.                                |
-| Henchkeeper       | You automatically succeed acquiring non-combatant henchmen in a community.                       |
-| Ironhide          | When unarmored, your **Armour** is $1$.                                                          |
-| Resolute          | Roll $3d6$, if it is higher than your current **Resolve**, take the new result.                  |
-| Sensory acuity    | When noticing things through a chosen sense you roll an *Enhanced* *Save*.                       |
-| Sleek             | *Enhanced Save* whenever you contort yourself to to break free.                                  |
-| Martial combatant | Unarmed attacks are not considered improvised.                                                   |
-| Unyielding        | Your **Resolve** *Trauma Save* is rolled *Enhanced*.                                             |
-| Whirlwind         | You are proficient in fighting in melee with two weapons (the off-hand weapon rolls *Impaired*). |
+- Most items take up one slot unless otherwise indicated. 
+- _Petty_ items do not take up any slots. _Bulky_ items take up **two** slots. 
+- A bag of coins worth less than 100gp is _petty_ and does not occupy a slot.
 
-## Conditions
+## Fallout
 
-[Conditions](/system/characters/#conditions) are detrimental mechanically, but not necessarily negative in the narrative.
-The list below can be used as a starting point.
-With the GM you can adapt these or create new ones.
+If you are exposed to the primer, or take drugs, you suffer Primer infection.
 
-- **Fear-Driven Vigilance**: Fear instills a heightened sense of vigilance, making you more cautious. In situations related to the your fear, you are [Impaired](/system/rules/#roll-modifiers).
-- **Obsessive Focus**: Your single-minded pursuit leads to significant personal development and expertise in a specific area, in detriment of others. Swap 1d6 in two [Attributes](/system/characters/#attributes), randomly.
-- **Moral Reservations**: Your steadfast morality leads to a firm stance on certain issues. Your actions that go against your moral code are [Impaired](/system/rules/#roll-modifiers).
-- **Compulsive Honesty**: You vow to always speak the truth.
-- **Kleptomaniac**: You are unable to resist urges to steal items that you generally don't really need.
-- **Battle-Scarred**: After some injury, you develop a scar. You might have lost part of a member, an eye, or something else that impacts you physically, intellectually or socially.
-- **Protective Instinct**: You are genuinely concerned with your team's welfare, and become a reluctant leader. When an ally is in danger, you are [Impaired](/system/rules/#roll-modifiers).
-- **Estranged**: You lose the bond with someone you love or cherish. With the GM, agree the mechanical impact.
-- **Slow**: You always act after your opponents.
+Note:
+The amount and frequency of how you deal Primer infection establishes the tone and pacing of your game.
+It is a dial to control the amount of Primer your players encounter and how likely they are to change as a result.
+
+|            |                 |
+| ---------- | --------------- |
+| ***1***    | **GLIMPSE**     |
+| ***1d4***  | **CONTACT**     |
+| ***1d6***  | **EXPOSURE**    |
+| ***1d8***  | **CATASTROPHE** |
+| ***1d10*** | **DOOM**        |
+
+Infection damage reduces your HP but gives you an equal amount of STR and WILL until the end of the scene.
+If reduced to exactly 0 HP, you get an infection emergent affloration.
+If reduced beyond 0 HP, you lose DEX.
+Make a save and, if failed, you develop a mutation.

@@ -3,6 +3,7 @@ layout: default
 title: Rules
 nav_order: 10
 parent: System
+
 ---
 
 # Rules
@@ -16,106 +17,37 @@ parent: System
 {:toc}
 </details>
 
+## Attributes
+
+Each of the three **Attributes** are used in different circumstances. (See **Saves**, below.)
+
+- **Strength (STR)**: Used for saves requiring physical power, like lifting gates, bending bars, resisting poison, etc.
+- **Dexterity (DEX)**: Used for saves requiring poise, speed, reflexes, dodging, climbing, sneaking, balancing, etc.
+- **Willpower (WIL)**: Used for saves to persuade, deceive, interrogate, intimidate, charm, provoke, manipulate spells, etc.
+
 ## Saves
 
-A save is a roll to avoid bad outcomes from risky choices and circumstances.
-PCs roll a *d20* for an appropriate ability score.
-If they roll equal to or under that ability score, they pass.
-Otherwise, they fail.
-In a contest, the highest successful roll wins.
+- A save is a roll to avoid negative outcomes from risky choices. Characters roll a d20 and compare the results to the appropriate attribute. If they roll equal to or under that attribute, they succeed. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
+- If two opponents are each trying to overcome the other, whoever is most at risk should save.
+- If two characters need to take an action together, whoever is most at risk should save (usually the character with the lowest relevant Attribute).
 
-<details markdown="block">
-  <summary>
-Expand For Example
- </summary>
- _Bea encounters a group of heavily-armed Goblins standing guard before a tunnel entrance. Her player carefully plots a course, recognizing that her 13 DEX makes sneaking past the guards the best option. She rolls a *d20*, and resulting in a 10 – a success!_
-</details>
+## Healing & Recovery
 
-## Combat
+- Resting for a few moments and having a drink of water restores lost HP but may leave the party exposed. Bandages can stabilize a character that has taken critical damage.
+- Attribute loss (see **Critical Damage**) can usually be restored with a week's rest, facilitated by a healer or other appropriate source of expertise. 
+- Some healing services are free, while magical or more expedient means of recovery may come at a cost. 
 
-### Attacking
+## Deprivation & Fatigue
 
-The attacker rolls their weapon die, equal to or under an **Ability**.
-When successful, subtract the roll from the target's **Armour**, then deal the remaining total as Harm.
+- A PC that lacks a crucial need (such as food or rest) is **Deprived**. Anyone **Deprived** for more than a day adds **Fatigue** to their inventory, one for each day. A **Deprived** PC cannot recover HP, Attributes, or item slots from **Fatigue**.
+- A PC may also be forced to add **Fatigue** after casting spells or due to events occurring in the fiction. Each Fatigue occupies one slot and lasts until the PC is able to recuperate (such as with a full night’s rest in a safe spot).
+- If a character is forced to add **Fatigue** to their inventory but they have no free slots, they must drop an item from their inventory.
 
-### Multiple Attacks
+## Armor
 
-If **multiple attackers** target the same foe, roll all attack dice and keep the single highest result.
-If attacking with **two weapons** at the same time, roll both dice dice and keep the highest.
-
-### Blast
-Attacks with the **blast** quality affect all targets in the noted area, rolling separately for each affected character.
-Blast refers to anything from explosions to huge cleaving onslaughts to the impact of a meteorite.
-If unsure how many targets can be affected, roll the related damage die for a result.
-
-### Initiative & Retreat
-
-Whenever turn order is uncertain, the PCs should make an **Insight** save to see if they go before their enemies.
-
-**Retreating** from a dangerous situation always requires a successful **Insight** save, as well as a safe destination to run to.
-
-## Roll Modifiers
-
-In some circumstances your roll is **Impaired** or **Enhanced**.
-When **Impaired** you roll your dice twice, and take the worst result.
-When **Enhanced** you roll your dice twice and take the best result.
-
-## Effort
-
-You can chose to make an effort and, before any roll, take *1d6* [Harm](/system/rules/#harm).
-You now roll [Enhanced](/system/rules/#roll-modifiers).
-
-## Harm
-
-Harm is taken from Grit.
-Harm that reduces a target's Grit **below** 0 decreases the remainder from
-
-- **Prowess**, if it is physical harm.
-- **Insight**, if it is a stress harm.
-- **Resolve**, if it is an effort harm.
-
-They must then make an [Attribute](/system/characters/#attributes) Save to avoid **critical harm**.
-Some enemies will have special abilities or effects that are triggered when their target fails a **critical harm** save.
-
-### Critical harm
-
-When **critically harmed**, the PC is taken out of combat and have their affected [Attribute](/system/characters/#attributes) reduced in *1* **permanently**.
-The PC will die instantly if harmed further, and cannot do anything until stabilised.
-If left to their own devices they die within the hour.
-
-If a PC's **Ability** is reduced to 0 they:
-
-- **die**, if it is **Prowess**.
-- gain a **condition**, if it is **Insight**.
-- **panic**, if it is **Resolve**.
-
-When they are stable, if their new permanent [Attribute](/system/characters/#attributes) is equal or higher than their number of [Advancements](/system/characters/#advancements), they can choose an additional [Advancement](/system/characters/#advancements).
-
-### Healing
-
-Resting for a few hours and having a meal allow you to re-roll your **Grit**.
-Ability loss (see **Critical Harm**) can usually be restored at a rate of one per day, if facilitated by a healer or other appropriate source of expertise.
-**Deprived** PCs roll *-1d6* **Grit** when resting.
-
-## Panic
-
-
-| $d6$  | Panic Event Outcome                                                                                                               |
-| :---: | --------------------------------------------------------------------------------------------------------------------------------- |
-| $1:3$ | You **Flight**. Lose $1d6$ **Resolve**, and you are compelled to leave the scene.                                                 |
-| $4:5$ | You **Freeze**. Lose $1d6$ **Prowess**, and you cannot move, silently or otherwise.                                               |
-|  $6$  | You **Fight**. Lose $1d6$ **Insight**, and you become obsessed with being successful during the scene. You gain an *Advancement*. |
-
-Describe the outcome narratively.
-In any case, after the scene ends, you gain a *Condition*.
-With the GM, determine the mechanical effects and how to introduce your *Condition* into the narrative.
-## Detachments
-
-Large groups of similar combatants fighting together are treated as a single **detachment**.
-When a detachment takes critical damage, it is routed or significantly weakened. When it reaches 0 STR, it is destroyed.
-
-Attacks against detachments by individuals are **impaired** (excluding blast damage).
-Attacks against individuals by detachments are **enhanced** and deal blast damage.
+- Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. 
+- Shields and similar armor provide a bonus defense (e.g. +1 Armor), but only while the item is held or worn. Some may also provide additional benefits, depending on the fiction.
+- A PC, NPC, or monster cannot have more than 3 Armor.  
 
 ## Reactions
 
@@ -128,19 +60,86 @@ When the PCs encounter an NPC whose reaction to the party is not obvious, the Wa
 
 ## Morale
 
-Enemies must pass a **Resolve** save to avoid fleeing when they take their first casualty and again when they lose half their number.
-Some groups may use their leader's **Resolve** in place of their own.
-Lone foes must save when they're reduced to 0 **Grit**.
-Morale does not affect PCs.
+- Enemies must pass a WIL save to avoid fleeing when they take their first casualty and again when they lose half their number. 
+- Some groups may use their leader's WIL in place of their own. Lone foes must save when they're reduced to 0 HP. 
+- Morale does not affect PCs.
 
-## Fortune die
+## Die of Fate  
 
-When the GM wants to leave some decision to the dice, determine the chances and roll *1d6*.
+- Optionally, roll 1d6 whenever the outcome of an event is uncertain or to simulate an element of randomness and chance.
+- A roll of 4 or more generally favors the PCs, while a roll of 3 or under usually means bad luck for the PCs.
 
-## Sayonara
+## Combat
 
-If you are not Critically Harmed, you can decide it is your last scene.
-When you do that, choose a song and then re-roll your *Grit*.
-For this scene all your rolls are *Enhanced*.
-By the end of the scene, you have to figure out how you depart (death, madness, mission, Etc.).
-You can create a new character with half (rounded down) the number of *Advancements* the previous character had.
+### Rounds
+
+- A **Round** is roughly ten seconds of in-game time and and proceeds with each side taking turns. Each round starts with any PC that is able to act, followed by their opponents. _The result of each side's actions occur simultaneously_. 
+- During the _first round of combat_, each PC must make a DEX save in order to act. Special circumstances, abilities, items, or skills may negate this requirement. PCs that fail their save _lose their turn_ for this round.
+- Their opponents then take their turn, and the first round ends. The next round begins with the PCs taking their turn, followed by their opponents, and so on until combat has ended with one side defeated or fled.
+
+### Actions
+
+On their turn, a character may move up to 40ft and take up to one action. This may be casting a spell, attacking, moving for a second time, or some other reasonable action. Each round, the PCs declare what they are doing before dice are rolled. If a character attempts something risky, the Warden calls for a save for appropriate players or NPCs. 
+
+### Attacking & Damage
+
+- The attacker rolls their weapon die and subtracts the target's armor, then deals the remaining total to their opponent's HP. Attacks in combat automatically hit.
+- If multiple attackers target the same foe, roll all damage dice and keep the single highest result. All actions are declared before being resolved.
+- If an attack would take a PC's HP exactly to 0, refer to the [Scars](#scars-table) table to see how they are uniquely impacted.
+
+### Attack Modifiers
+
+- If fighting from a position of weakness (such as through cover or with bound hands), the attack is _Impaired_, and the attacker must roll 1d4 damage regardless of the attacks damage die. Unarmed attacks always do d4 damage.
+- If fighting from a position of advantage (such as against a helpless foe or through a daring maneuver), the attack is _Enhanced_, allowing the attacker to roll 1d12 damage instead of their normal die.
+- Attacks with the _Blast_ quality affect all targets in the noted area, rolling separately for each affected character. This can be anything from explosions to a dragon’s breath or the impact of a meteorite. If unsure how many targets can be affected, _roll the related damage die for a result_.
+- If attacking with two weapons at the same time, roll both damage dice and keep the single highest result (denoted with a plus symbol, e.g. d8+d8).
+
+### Critical Damage
+
+- Damage that reduces a target's HP below zero is subtracted _from their STR_ by the amount of damage remaining. The target must then immediately make a STR save to avoid taking **Critical Damage**, using their _new STR score_. On a success, the target is still in the fight (albeit with a lower STR score) and must continue to make critical damage saves when incurring damage.
+- Any PC that suffers Critical Damage cannot do anything but crawl weakly, grasping for life. If given aid (such as bandages), they will stabilize. If left untreated, they die within the hour. NPCs and monsters that fail a Critical Damage save are considered dead, per the **Warden's** discretion. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save. 
+
+### Attribute Loss
+
+- If a PC takes damage outside of combat, they should instead receive damage to an Attribute, typically STR.
+- If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their WIL is reduced to 0, they are delirious. Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.
+
+### Character Death
+
+- When a character dies, the player should create a new character or take control of a hireling. They immediately join the party in order to reduce downtime.
+
+### Detachments
+
+- Large groups of similar combatants fighting together are treated as a single _Detachment_. When a _detachment_ takes **Critical Damage**, it is routed or significantly weakened. When it reaches 0 STR, it is destroyed.
+- Attacks against detachments by individuals are _impaired_ (excluding _blast_ damage). Attacks against individuals by detachments are _enhanced_ and deal _blast_ damage.
+
+### Retreat
+
+- Running away from a dire situation always requires a successful DEX save, as well as a safe destination to run to.
+
+### Ranged Attacks
+
+- Ranged weapons can target any enemy near enough to see the whites of their eyes. Attacks against especially distant targets are _Impaired_.
+- Ammunition is not tracked unless otherwise specified. 
+
+## Scars
+
+If damage to a PC would reduce their HP to exactly 0, look up the result on the table below based on the _amount of HP lost in the attack_. For example, if a PC went from 3 HP to 0 HP, they would look at entry #3 (Walloped). 
+
+### Scars Table
+
+|             |                                                                                                                                                                                                                           |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **HP Lost** | **Result**                                                                                                                                                                                                                |
+| 1           | Lasting Scar: Roll 1d6. 1: Neck, 2: Hands, 3: Eye, 4: Chest, 5: Legs, 6: Ear. Roll 1d6. If the total is higher than your max HP, take the new result.                                                                     |
+| 2           | Rattling Blow: You’re disoriented and shaken. Describe how you refocus. Roll 1d6. If the total is higher than your max HP, take the new result.                                                                           |
+| 3           | Walloped: You’re sent flying and land flat on your face, winded. You are deprived until you rest for a few hours. Then, roll 1d6. Add that amount to your max HP.                                                         |
+| 4           | Broken Limb: Roll 1d6. 1-2: Leg, 3-4: Arm, 5: Rib, 6: Skull. Once mended, roll 2d6. If the total is higher than your max HP, take the new result.                                                                         |
+| 5           | Diseased: You’re afflicted with a gross, uncomfortable infection. When you get over it, roll 2d6. If the total is higher than your max HP, take the new result.                                                           |
+| 6           | Reorienting Head Wound: Roll 1d6. 1-2: STR, 3-4: DEX, 5-6: WIL. Roll 3d6. If the total is higher than your current attribute, take the new result.                                                                        |
+| 7           | Hamstrung: You can barely move until you get serious help and rest. After recovery, roll 3d6. If the total is higher than your max DEX, take the new result.                                                              |
+| 8           | Deafened: You cannot hear anything until you find extraordinary aid. Regardless, make a WIL save. If you pass, increase your max WIL by 1d4.                                                                              |
+| 9           | Re-brained: Some hidden part of your psyche is knocked loose. Roll 3d6. If the total is higher than your max WIL, take the new result.                                                                                    |
+| 10          | Sundered: An appendage is torn off, crippled, or useless. (The Warden will tell you which.) Then make a WIL save. If you pass, increase your max WIL by 1d6.                                                                |
+| 11          | Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max HP.                                                                         |
+| 12          | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result. |

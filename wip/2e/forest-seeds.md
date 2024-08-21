@@ -290,7 +290,7 @@ Roll 1d20 for each column and combine the results.
 | **14**  | Monastic Retreat  | Parasitic Foliage                  |
 | **15**  | Mossy Pool        | Pig Folk Hunting Grounds           |
 | **16**  | Night Market      | Popular with Smugglers             |
-| **17**  | Pale Folk Stable  | Presents a Ready-To-Eat Meal       |
+| **17**  | Pale Folk Stable  | Presents a Ready Meal              |
 | **18**  | Ranger's Outpost  | Protected by a Playful Spirit      |
 | **19**  | Smoky Cabin       | Site of an Ancient Murder          |
 | **20**  | Tattered Windmill | Thieves' Camp                      |
