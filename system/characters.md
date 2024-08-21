@@ -26,14 +26,14 @@ parent: System
 
 Roll on each of the included tables from your background.
 
-|         | Background                                            |
-| ------- | ----------------------------------------------------- |
-| ***1*** | [Beast Handler](/system/backgrounds/beast-handler)    |
-| ***2*** | [Bonekeeper](/system/backgrounds/bonekeeper/)         |
-| ***3*** | [Fungal Forager](/system/backgrounds/fungal-forager/) |
-| ***4*** | [Greenwise](/system/backgrounds/greenwise/)           |
-| ***5*** | [Prowler](/system/backgrounds/prowler/)               |
-| ***6*** | [Scrivener](/system/backgrounds/scrivener/)           |
+|         | Background                                                       |
+| ------- | ---------------------------------------------------------------- |
+| ***1*** | [Beast Handler](/system/backgrounds/beast-handler#beast-handler) |
+| ***2*** | [Bonekeeper](/system/backgrounds/bonekeeper/)                    |
+| ***3*** | [Fungal Forager](/system/backgrounds/fungal-forager/)            |
+| ***4*** | [Greenwise](/system/backgrounds/greenwise/)                      |
+| ***5*** | [Prowler](/system/backgrounds/prowler/)                          |
+| ***6*** | [Scrivener](/system/backgrounds/scrivener/)                      |
 
 ## Archetype
 
