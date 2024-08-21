@@ -14,16 +14,16 @@ grand_parent: Character Creation
 
 ## Names
 
-1. **Dr. Aurelia Voss**
-2. **Inquisitor Thorne**
-3. **Sergeant Roderick Stein**
-4. **Medic Kyra Valen**
-5. **Chief Surgeon Octavius Grey**
-6. **Pathologist Lena Krieger**
-7. **Field Operative Marik Holt**
-8. **Purifier Harlan Dray**
-9. **Researcher Elara Nyx**
-10. **Plague Hunter Joran Falk**
+- Dr. Aurelia Voss
+- Inquisitor Thorne
+- Sergeant Roderick Stein
+- Medic Kyra Valen
+- Chief Surgeon Octavius Grey
+- Pathologist Lena Krieger
+- Field Operative Marik Holt
+- Purifier Harlan Dray
+- Researcher Elara Nyx
+- Plague Hunter Joran Falk
 
 ## Starting Gear
 
