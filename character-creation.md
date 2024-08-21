@@ -29,12 +29,12 @@ Roll on each of the included tables from your background.
 
 |         | Background                                      |
 | ------- | ----------------------------------------------- |
-| ***1*** | [Beast Handler](characters/backgrounds/beast-handler.md)   |
-| ***2*** | [Bonekeeper](characters/backgrounds/bonekeeper.md)         |
-| ***3*** | [Fungal Forager](characters/backgrounds/fungal-forager.md) |
-| ***4*** | [Greenwise](characters/backgrounds/greenwise.md)           |
-| ***5*** | [Prowler](characters/backgrounds/prowler.md)               |
-| ***6*** | [Scrivener](characters/backgrounds/scrivener.md)           |
+| ***1*** | [Beast Handler](character-creation/backgrounds/beast-handler.md)   |
+| ***2*** | [Bonekeeper](character-creation/backgrounds/bonekeeper.md)         |
+| ***3*** | [Fungal Forager](character-creation/backgrounds/fungal-forager.md) |
+| ***4*** | [Greenwise](character-creation/backgrounds/greenwise.md)           |
+| ***5*** | [Prowler](character-creation/backgrounds/prowler.md)               |
+| ***6*** | [Scrivener](character-creation/backgrounds/scrivener.md)           |
 
 ## Archetype
 
