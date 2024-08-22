@@ -2,7 +2,7 @@
 title: Greenwise
 layout: default
 parent: Backgrounds
-grand_parent: System
+grand_parent: Character Creation
 
 ---
 
@@ -16,6 +16,7 @@ Gunther, Moss, Fern, Lichen, Root, Willow, Sage, Yarrow, Rowan, Ash
 
 ## Starting Gear
 
+- 3d6 Gold Pieces
 - Rations (3 uses)
 - Torch (3 uses) 
 - Iron Pot
@@ -45,7 +46,3 @@ _Ward_: A silver circle 50ft across appears on the ground. Choose one species th
 | **4** | **Wisp Lantern** | Caged in wrought iron, provides a dim light so long as the wisp is able to feed on nearby pain and fear. |
 | **5** | **Seed Bomb**    | A canvas sack filled with seeds that explode on impact. d6 damage (_blast_, 3 uses).                     |
 | **6** | **Briarvine**    | Entangles any creature up to horse size (STR to break free). Reusable.                                   |
-
----
-
-[Back to Characters](/system/characters/)

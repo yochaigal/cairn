@@ -2,7 +2,7 @@
 title: Fungal Forager
 layout: default
 parent: Backgrounds
-grand_parent: System
+grand_parent: Character Creation
 
 ---
 
@@ -16,6 +16,7 @@ Unther, Woozy, Hilda, Current, Leif, Ratan, Mourella, Lal, Per, Madrigal
 
 ## Starting Gear
 
+- 3d6 Gold Pieces
 - Rations (3 uses)
 - Sharpened Trowel (d6)
 - Candle Helmet (+1 Armor, dim, 6 uses)
@@ -44,7 +45,3 @@ Unther, Woozy, Hilda, Current, Leif, Ratan, Mourella, Lal, Per, Madrigal
 | **4** | **Luxcompass**      | Hums softly as it moves closer to the Sun. Eventually the noise becomes unbearably loud.       |
 | **5** | **Sloth-Tarp**      | A tough and weatherproof fabric, useful for hanging off trees. When inside, you have +1 Armor. |
 | **6** | **Miner's Grease**  | Great for dislodging a gem, tool, or limb from a tight crack. Highly explosive. 3 uses.        |
-
----
-
-[Back to Characters](/system/characters/)

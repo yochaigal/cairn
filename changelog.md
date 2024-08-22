@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Changelog
-nav_order: 999
+nav_order: 9000
 ---
 
 # Changelog
@@ -15,14 +15,16 @@ nav_order: 999
 {:toc}
 </details>
 
-#### v0.7.1a
+#### v0.7.1b
 
 **Goal of minor version**: Run an Odd Shot of Degenesis
 
 - New:
-	- New landing page
+	- New simplified landing page
 	- Synced Characters and Rules with Cairn 2e
-	- Added Backgrounds as module, and imported 6 from Cairn 2e
+	- Added Backgrounds as module
+		- imported 6 from Cairn 2e
+		- added Spitalian from Degenesis
 	- Added Fallout placeholder (not modularised yet)
 - Chaged:
 	- Attributes roll 2d6+3
@@ -35,6 +37,7 @@ nav_order: 999
 	- Housekeeping to organise information and files
 	- Merged updates from Cairn
 	- Updated gemfiles for website generation
+	- Modularised config file, using includes
 
 #### v0.7.0
 

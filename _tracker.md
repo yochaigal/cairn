@@ -37,3 +37,5 @@ With backgrounds (skills) the consequence of a failed save are milder, and succe
 Skills are treated like WuDu or as a dice of different size from 24xx
 
 https://lars1808.github.io/Block-Dodge-Parry-SRD/
+
+Run this for kult: https://colmnorrish.itch.io/mountain-underground?download#google_vignette
