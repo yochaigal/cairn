@@ -7,21 +7,14 @@ has_children: true
 ---
 
 # Character Creation
+{: .no_toc }
 
 1. If you are creating a new party, define a cohesive group concept with the other players.
 2. Roll or choose your [Background](character-creation.md#Backgrounds). Use the tables on each background.
 3. Roll or choose your [Archetype](character-creation.md#Archetype).
 4. Roll your [Attributes](character-creation.md#Attributes).
 5. Roll your [Hit Protection](character-creation.md#Hit%20Protection).
-
-<details close markdown="block">
-  <summary id="index">
-    Table of contents
-  </summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
+6. Take note of your [Burdens](character-creation.md#Burdens).
 
 ## Backgrounds
 
