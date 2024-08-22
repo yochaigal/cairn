@@ -18,24 +18,31 @@ nav_order: 960
 
 ## Weapons
 
-The table below contains example weapons, and may be expanded with the GM.
-For ranges, use what is narratively appropriate.
+Weapons have a damage die.
 
-|  Harm  | Melee Examples                                                                 | Ranged Examples<br>(Single Shot)                                 | Ranged Examples<br>(Blast)                                        |
-| :----: | ------------------------------------------------------------------------------ | ---------------------------------------------------------------- | ----------------------------------------------------------------- |
-| *1d4*  | Small **Primitive**<br>**Unarmed** ([Impaired](/system/rules/#roll-modifiers)) | Throwing **Objects** ([Impaired](/system/rules/#roll-modifiers)) |                                                                   |
-| *1d6*  | Medium **Primitive**<br>Small **Advanced**                                     | **Bow** & arrow<br>(Laser) **Pistol** / Revolver                 | (Semi) Auto Pistol<br>**SMG**                                     |
-| *1d8*  | Large **Primitive**<br>Medium **Advanced**                                     | Laser / Hunting **Rifle**                                        | **Grenade**<br>**Shotgun**<br>**Military** Rifle (burst)          |
-| *1d10* | Large **Advanced**                                                             | **Military** Rifle (single shot)                                 | **HMG**                                                           |
-| *1d12* |                                                                                | **Sniper** / Plasma Rifle                                        | **Mounted** HMG<br>**Anti-vehicle** Weapons<br>**Rocket** Laucher |
+|     |                      |
+| --- | -------------------- |
+| d4  | **Impaired** attacks |
+| d6  | **Small** weapons    |
+| d8  | **Medium** weapons   |
+| d10 | **Large** weapons    |
+| d12 | **Enhanced** attacks |
+
+Weapons also may have tags.
+
+|            |                                                           |
+| ---------- | --------------------------------------------------------- |
+| *Bulky*    | Takes 2 burdens and needs 2 hands                         |
+| *Advanced* | Ignore non-advanced Armour                                |
+| *Blast*    | Harms multiple opponents (roll damage die for the number) |
+
+For ranges, use what is narratively appropriate.
 
 ## Armour
 
-Armours modify [Harm](/system/rules#harm) you take.
-
-| Armour     | Modifier | Details                                                                          |
-| ---------- | :------: | -------------------------------------------------------------------------------- |
-| **Light**  |    -1    |                                                                                  |
-| **Medium** |   *-2*   |                                                                                  |
-| **Heavy**  |    -3    | [Impaired](/system/rules/#roll-modifiers) to run, observe, sneak, swim, etc.     |
-| **Shield** |    -1    | Can be sacrificed to completely avoid an instance of [Harm](system/rules/#harm). |
+|     |            |                                    |
+| :-: | ---------- | ---------------------------------- |
+|  1  | **Light**  | *Bulky*.                           |
+|  2  | **Medium** | *Bulky*.                           |
+|  3  | **Heavy**  | *Bulky*, noisy, reduced awareness. |
+| +1  | **Shield** |                                    |
