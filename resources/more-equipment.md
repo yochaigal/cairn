@@ -3,6 +3,8 @@ layout: default
 title: More Equipment
 parent: Resources
 nav_order: 6
+nav_exclude: true
+
 ---
 
 # More Equipment

@@ -3,7 +3,9 @@ layout: default
 title: More Relics
 parent: Resources
 nav_order: 4
+nav_exclude: true
 redirect_from: /resources/relics/
+
 ---
 
 # More Relics
