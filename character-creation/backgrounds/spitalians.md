@@ -4,11 +4,12 @@ layout: default
 parent: Backgrounds
 grand_parent: Character Creation
 
+footer_content: Images & adapted text from <a href="https://degenesis.com/">degenesis.com</a> for private use only. Copyright &copy; 2021 by SIXMOREVODKA.
 ---
 
 # Spitalians
 
-> Mankind’s last line of defense against the Primer and its spawn. They explore the spore fields, dissect dead Psychonauts, and develop poisons and weapons. With their fungicides they cut swathes into the Sepsis, and carry spore covered muscles in glass tubes to lead them to the Aberrants’ breeding grounds.
+> Mankind’s last line of defense against the Primer and its spawn. [Spitalians](https://degenesis.com/world/cults/spitalians) explore the spore fields, dissect dead Psychonauts, and develop poisons and weapons. With their fungicides they cut swathes into the Sepsis, and carry spore covered muscles in glass tubes to lead them to the Aberrants’ breeding grounds.
 
 ![](https://a.storyblok.com/f/72501/2715x3840/8900dcd07d/001-spitalians-archetype.jpg)
 
@@ -52,19 +53,19 @@ grand_parent: Character Creation
 | **10** | **Consultant**                     |                                                                                                                                                                                                                                                                                                                                                 |
 | **11** | **Provost**                        |                                                                                                                                                                                                                                                                                                                                                 |
 
-Every time you roll a scar, if the result is higher than your current your current **Rank** roll, you may advance one **Rank** when you are back with your Cult.
+Every time you roll a scar, if the result is higher than your current **Rank** roll, you may advance one **Rank** when you are back with your Cult.
 
 ![](https://i.imgur.com/n83TXJi.png)
 
 ## What is your potential? Roll 1d6.
 
-|       |                                                                                                                                                                                                                                                                                                                                                                                             |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Splaying**. The Spitalian expertly wields the Splayer, thrusting it forward to strike an opponent's head while triggering the blades to open for another attack. Their movements are fluid and relentless, maintaining an aggressive stance ready for continuous assault. Deal d6 STR damage on a critical.                                                                               |
-| **2** | **Phalanx**. A spear wall ensures no enemy passes unharmed. The Spitalian joins the defense, drawing attacks from allies and turning defense into a counterattack as foes charge into the Splayer. The tactic is quick to deploy but requires a pause to reform later. Enhanced damage if charged on, requires 2+ Spitalians.                                                               |
-| **3** | **Preservalis**. Preservists never let enemies surrender, attacking fiercely to destroy. At their fortress in Arnsberg, they master Preservalis, a technique that breaks through defenses and opens an enemy up. With a forceful sword strike, they then fire a pistol into the enemy’s gut, using the recoil to avoid a counterattack. On a critical, execute an additional pistol attack. |
-| **4** | **Last Bastion**. The Spitalian knows exactly where to strike, targeting vulnerable areas with precision. His deep understanding of the enemy allows him to inflict severe damage, when fighting Psychonauts. Roll your damage die twice, and take the best.                                                                                                                                |
-| **5** | **Kranzler's Teachings**. Kranzler’s heart is unyielding, untouched even by the Dushani's chants. Famulancers who master his techniques become immune to Psychonautic mental influences.                                                                                                                                                                                                    |
-| **6** | **The Last Farewell**. With all enemies defeated or dying, the Spitalian stands alone, battling fiercely to hold the line. Consumed by a destructive fury, he attacks his foes as a champion fighter. However, if an ally recovers and returns to the fight, the intense state ends abruptly. All your attacks are enhanced in this situation.                                              |
+|       |                                                                                                                                                                                                                                                                                                                                                                           |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | **Splaying**. The Spitalian expertly wields the Splayer, thrusting it forward to strike an opponent's head while triggering the blades to open for another attack. Their movements are fluid and relentless, maintaining an aggressive stance ready for continuous assault. Deal d6 STR damage on a critical.                                                             |
+| **2** | **Phalanx**. A spear wall ensures no enemy passes unharmed. The Spitalian joins the defense, drawing attacks from allies and turning defense into a counterattack as foes charge into the Splayer. The tactic is quick to deploy but requires a pause to reform later. Enhanced damage if charged on, requires 2+ Spitalians.                                             |
+| **3** | **Preservalis**. Preservists never let enemies surrender, attacking fiercely to destroy. At their fortress in Arnsberg, they master Preservalis, a technique that breaks through defenses and opens an enemy up. With a forceful sword strike, they then fire a pistol into the enemy’s gut, using the recoil to avoid a counterattack. Dual wield your Sword and Pistol. |
+| **4** | **Last Bastion**. The Spitalian knows exactly where to strike, targeting vulnerable areas with precision. His deep understanding of the enemy allows him to inflict severe damage when fighting Psychonauts. Roll your damage die twice, and take the best.                                                                                                               |
+| **5** | **Kranzler's Teachings**. Kranzler’s heart is unyielding, untouched even by the Dushani's chants. Famulancers who master his techniques become immune to Psychonautic mental influences.                                                                                                                                                                                  |
+| **6** | **The Last Farewell**. With all enemies defeated or dying, the Spitalian stands alone, battling fiercely to hold the line. Consumed by a destructive fury, he attacks his foes as a champion fighter. However, if an ally recovers and returns to the fight, the intense state ends abruptly. All your attacks are enhanced in this situation.                            |
 
-> Learn more about the Spitalians on the [Degenesis Website](https://degenesis.com/world/cults/spitalians).
+
