@@ -66,4 +66,4 @@ Every time you roll a scar, if the result is higher than your current **Rank** r
 | **5** | **Kranzler's Teachings**. Kranzler’s heart is unyielding, untouched even by the Dushani's chants. Famulancers who master his techniques become immune to Psychonautic mental influences.                                                                                                                                                                                  |
 | **6** | **The Last Farewell**. With all enemies defeated or dying, the Spitalian stands alone, battling fiercely to hold the line. Consumed by a destructive fury, he attacks his foes as a champion fighter. However, if an ally recovers and returns to the fight, the intense state ends abruptly. All your attacks are enhanced in this situation.                            |
 
-
+![](https://img2.storyblok.com/3420x2162/filters:quality(90)/f/72501/4570x2887/fdff41381a/opener-spitalian.jpg)

@@ -64,4 +64,4 @@ Every time you roll a scar, if the result is higher than your current **Rank** r
 | **5** | **Truffle Pig**: Skilled Scrappers have an uncanny knack for uncovering valuable artifacts, leaving the Chroniclers eager to pay up. Those without this talent struggle to find anything beyond basic scrap. Scrappers with the "Truffle Pig" instinct seem to naturally sense hidden treasures and dangers in the ruins.                               |
 | **6** | **Darwin**: In the brutal depths of the ruins, only the strongest survive, and the Darwins are the best of them. Through luck or extraordinary feats, they escape even the direst situations. A Darwin is a master of survival, known for defying the odds and emerging from seemingly hopeless scenarios. Recover 1d6 **HP** when you gain a **Scar**. |
 
-
+![](https://img2.storyblok.com/3492x1964/filters:quality(90)/f/72501/3508x1973/32682ccbb9/opener-scrappers.jpg)
