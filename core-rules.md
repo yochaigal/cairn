@@ -86,6 +86,35 @@ On their turn, a character may move up to 40ft and take up to one action. This m
 - If multiple attackers target the same foe, roll all damage dice and keep the single highest result. All actions are declared before being resolved.
 - If an attack would take a PC's HP exactly to 0, refer to the [Scars](#scars-table) table to see how they are uniquely impacted.
 
+Weapons have a damage die.
+
+|     |                      |
+| --- | -------------------- |
+| d4  | **Impaired** attacks |
+| d6  | **Small** weapons    |
+| d8  | **Medium** weapons   |
+| d10 | **Large** weapons    |
+| d12 | **Enhanced** attacks |
+
+Weapons also may have tags.
+
+|            |                                                           |
+| ---------- | --------------------------------------------------------- |
+| *Bulky*    | Takes 2 burdens and needs 2 hands                         |
+| *Advanced* | Ignore non-advanced Armour                                |
+| *Blast*    | Harms multiple opponents (roll damage die for the number) |
+
+For ranges, use what is narratively appropriate.
+
+Armours can be
+
+|     |            |                                    |
+| :-: | ---------- | ---------------------------------- |
+|  1  | **Light**  | *Bulky*.                           |
+|  2  | **Medium** | *Bulky*.                           |
+|  3  | **Heavy**  | *Bulky*, noisy, reduced awareness. |
+| +1  | **Shield** |                                    |
+	
 ### Attack Modifiers
 
 - If fighting from a position of weakness (such as through cover or with bound hands), the attack is _Impaired_, and the attacker must roll 1d4 damage regardless of the attacks damage die. Unarmed attacks always do d4 damage.
@@ -121,7 +150,7 @@ On their turn, a character may move up to 40ft and take up to one action. This m
 - Ranged weapons can target any enemy near enough to see the whites of their eyes. Attacks against especially distant targets are _Impaired_.
 - Ammunition is not tracked unless otherwise specified. 
 
-## Fallout
+## Woe
 
 If you are exposed to the primer, or take **Burn**, you suffer Primer infection.
 
@@ -145,17 +174,17 @@ If reduced beyond 0 HP, you lose DEX.
 
 If damage to a PC would reduce their HP to exactly 0, look up the result on the table below based on the _amount of HP lost in the attack_. For example, if a PC went from 3 HP to 0 HP, they would look at entry #3 (Walloped). 
 
-| HP Lost | Result                                                                                                                                                                                                                            |
-| ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1       | **Lasting Scar**: Roll 1d6. 1: Neck, 2: Hands, 3: Eye, 4: Chest, 5: Legs, 6: Ear. Roll 1d6. If the total is higher than your max **HP**, take the new result.                                                                     |
-| 2       | **Rattling Blow**: You’re disoriented and shaken. Describe how you refocus. Roll 1d6. If the total is higher than your max **HP**, take the new result.                                                                           |
-| 3       | **Walloped**: You’re sent flying and land flat on your face, winded. You are deprived until you rest for a few hours.  Roll a **Background Feat**. If new, you may learn it.                                                      |
-| 4       | **Broken Limb**: Roll 1d6. 1-2: Leg, 3-4: Arm, 5: Rib, 6: Skull. Take 2 Burdens until mended. Roll a **Generic Feat**. If new, you may learn it.                                                                                  |
-| 5       | **Diseased**: You’re afflicted with a gross disease. When you get over it, roll 2d6. If the total is higher than your max **HP**, take the new result.                                                                            |
-| 6       | **Deafened**: You cannot hear anything until you find extraordinary aid. Regardless, roll 2d6. If the total is higher than your max **HP**, take the new result.                                                                  |
-| 7       | **Hamstrung**: You can barely move until you get serious help and rest. Roll a **Background Feat**. If new, you may learn it.                                                                                                     |
-| 8       | **Sundered**: An appendage is torn off, crippled, or useless. Roll *another* **Background's Feat**. If new, you may learn it.                                                                                                     |
-| 9       | **Re-wired**: Roll 1d6. 1-2: STR, 3-4: DEX, 5-6: WIL. Roll 2d8. If the total is higher than your current **attribute**, take the new result.                                                                                      |
-| 10      | **Reorienting Head Wound**: Roll 1d6. 1-2: STR, 3-4: DEX, 5-6: WIL. Roll 3d6. If the total is higher than your current **attribute**, take the new result.                                                                        |
-| 11      | **Mortal Wound**: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d8. Take the new result as your max **HP**.                                                                         |
-| 12      | **Doomed**: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max **HP**, take the new result. |
+| HP Lost | Result                                                                                                                                                                                       |
+| ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1       | **Lasting Scar**: Roll 1d6. 1: Neck, 2: Hands, 3: Eye, 4: Chest, 5: Legs, 6: Ear. Roll 1d6. If the total is higher than your max **HP**, take the new result.                                |
+| 2       | **Rattling Blow**: You’re disoriented and shaken. Describe how you refocus. Roll 1d6. If the total is higher than your max **HP**, take the new result.                                      |
+| 3       | **Walloped**: You’re sent flying and land flat on your face, winded. You are deprived until you rest for a few hours.  Roll a **Background feat**. If new, you may learn it.                 |
+| 4       | **Broken Limb**: Roll 1d6. 1-2: Leg, 3-4: Arm, 5: Rib, 6: Skull. Take 2 Burdens until mended. Roll a **Generic feat**. If new, you may learn it.                                            |
+| 5       | **Diseased**: You’re afflicted with a gross disease. When you get over it, roll 2d6. If the total is higher than your max **HP**, take the new result.                                       |
+| 6       | **Deafened**: You cannot hear anything until you find extraordinary aid. Regardless, roll 2d6. If the total is higher than your max **HP**, take the new result.                             |
+| 7       | **Hamstrung**: You can barely move until you get serious help and rest. Roll a **feat** from your **Background**. If new, you may learn it.                                                  |
+| 8       | **Sundered**: An appendage is torn off, crippled, or useless. Roll a **Background** (*any*), and then a **feat** from it. If new, you may learn it.                                          |
+| 9       | **Re-wired**: Roll 1d6. 1-2: STR, 3-4: DEX, 5-6: WIL. Roll **2d8**. If the total is higher than your current **attribute**, take the new result.                                             |
+| 10      | **Reorienting Head Wound**: Roll 1d6. 1-2: STR, 3-4: DEX, 5-6: WIL. Roll **3d6**. If the total is higher than your current **attribute**, take the new result.                               |
+| 11      | **Mortal Wound**: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll **2d8 HP** and take it if higher.                                               |
+| 12      | **Doomed**: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll **3d6 HP** and take it if higher. |
