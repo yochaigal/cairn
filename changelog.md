@@ -15,6 +15,12 @@ nav_order: 9000
 {:toc}
 </details>
 
+#### v0.2.0
+
+- New:
+	- Added Background:
+		- Scrapers
+
 #### v0.1.1
 
 - Removed:

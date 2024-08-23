@@ -20,9 +20,10 @@ has_children: true
 
 Roll on each of the included tables from your background.
 
-|       |                                                           |
-| ----- | --------------------------------------------------------- |
-| **1** | [Spitalian](character-creation/backgrounds/spitalians.md) |
+|         |                                                           |
+| ------- | --------------------------------------------------------- |
+| **1:3** | [Spitalian](character-creation/backgrounds/spitalians.md) |
+| **4:6** | [Scrapers](character-creation/backgrounds/scrapers.md)    |
 
 ## Archetype
 
