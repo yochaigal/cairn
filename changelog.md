@@ -20,6 +20,7 @@ nav_order: 9000
 - New:
 	- Added Background:
 		- Scrapers
+	- Added placeholders for remaining Borcan clans.
 
 #### v0.1.1
 
