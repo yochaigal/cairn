@@ -6,52 +6,48 @@ permalink: /
 ---
 
 # Terra Odd
-***v0.7.1b***
+***v0.1.0***
 
-**Terra Odd** is a modular implementation or Cairn / Into the Odd that aims to allow games in to be played in different genres and aesthetics.
+**Terra Odd** is a hack of Cairn / Into the Odd that aims to allow games to be played in different genres and aesthetics.
+The first hack is for [Degenesis](https://degenesis.com/).
 
-It also contains GM materials for planning & running sessions.
+The main difference is the addition of a modular [Woe mechanic](core-rules.md#Woe), based on [Oddular Mechanics](https://www.bastionland.com/2016/04/oddular-mechanics.html?m=1).
+Woe differs narratively, depending on the game theme.
+It can be used as infection, corruption, panic, sadness, insanity, etc.
+
+Inventory slots are treated as Burdens and there is an expansion of Backgrounds, for different themes.
+
+This repo also contains my GM materials for planning & running sessions.
+It is not always organised.
 
 This webpage and the repository are a fork from [Yochai Gal](https://newschoolrevolution.com).'s [Cairn](https://cairnrpg.com/).
 Cairn is based on [Knave](https://www.drivethrurpg.com/product/250888/Knave) by Ben Milton and [Into The Odd](https://chrismcdee.itch.io/electric-bastionland) by Chris McDowall. 
 
-Additional influences are:
-
-- Fallout subsystem, from [Liminal Horror](https://goblinarchives.github.io/LiminalHorror/)
-
-![poster](img/poster.png)
+![](img/DG-moto_logo.png)
 
 <p></p>
 
 ## Contribute
 
+Feel free to suggest edits on any files on this repo through Pull Requests.
+Merged Pull Requests automatically builds the website.
+If you want to localhost the website for testing purposes, you need to install jekyll ([instructions for macOS](https://jekyllrb.com/docs/installation/macos/))
 
-Tech:
+After doing so, navigate to the repository folder and execute the following commands;
 
-- install jekyll [mac](https://jekyllrb.com/docs/installation/macos/)
-
-````
+```
 echo '3.1.3' >> .ruby-version
 gem install bundler jekyll
 bundle install
+```
 
-````
-
-on repo folder
-
+You are now able to localhost the website.
+You can do so by:
 
 ```
 bundle exec jekyll serve
 ```
-=> Now browse to http://localhost:4000
 
-You can make real time changes in the files, and the state of your simulated site will reflect.
+and then browse to http://localhost:4000.
 
-if error
-
-
-```
-bundle clean --force
-gem update
-bundle add webrick
-```
+You can make real time changes in the files, and see result on your browser.

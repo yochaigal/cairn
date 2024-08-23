@@ -3,6 +3,8 @@ layout: default
 title: More Spellbooks
 parent: Resources
 nav_order: 5
+nav_exclude: true
+
 ---
 
 # More Spellbooks
