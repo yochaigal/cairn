@@ -15,6 +15,11 @@ nav_order: 9000
 {:toc}
 </details>
 
+#### v0.1.1
+
+- Removed:
+	- Leftover Cairn original backgrounds
+
 #### v0.1.0
 
 **Forked [Cairn](https://cairnrpg.com/hacks/fork-this/).**
