@@ -31,30 +31,32 @@ Roll on each of the included tables from your background.
 
 Roll or choose one of the following archetypes.
 
-| d4      | d6        | Archetype      | Summary                                                                                                  |
-| ------- | --------- | -------------- | -------------------------------------------------------------------------------------------------------- |
-| ***1*** | ***1:2*** | Adventurer     | Seeks to constantly push beyond their limits, embracing danger and novelty to avoid boredom.             |
-| ***1*** | ***3***   | Creator        | Driven by the desire to leave a lasting legacy through their works, striving to prove their worth.       |
-| ***1*** | ***4***   | Mentor         | Shares wisdom with chosen disciples, aiming to immortalise knowledge through them.                       |
-| ***1*** | ***5***   | Martyr         | Gains strength through self-sacrifice, standing as a paragon of willpower and faithfulness.              |
-| ***2*** | ***6***   | Ruler          | Seeks control to prevent chaos, believing only they can lead others to order and success.                |
-| ***2*** | ***1***   | Seeker         | Obsessed with uncovering life’s mysteries, relentlessly pursuing answers to the world’s enigmas.         |
-| ***2*** | ***2***   | Healer         | Fights against the world's collapse, determined to restore and preserve life and order.                  |
-| ***2*** | ***3***   | Traditionalist | Upholds order through adherence to ancient rules, fearing change and chaos.                              |
-| ***2*** | ***4***   | Mediator       | Seeks peace and understanding, striving to bridge gaps between conflicting parties.                      |
-| ***2*** | ***5***   | Hermit         | Shuns society, finding peace only in solitude and freedom from the noise of the world.                   |
-| ***3*** | ***6***   | Heretic        | Questions everything, aiming to disrupt established norms and traditions.                                |
-| ***3*** | ***1***   | Conqueror      | Driven by the pursuit of power, viewing every battle as a necessary struggle for dominance.              |
-| ***3*** | ***2***   | Abomination    | Consumed by madness, thriving on the fear and discomfort they invoke in others.                          |
-| ***3*** | ***3***   | Destroyer      | Seeks to annihilate the old to make way for the new, driven by a relentless need for destruction.        |
-| ***3*** | ***4***   | Chosen         | Believes they are destined to be the solution to every problem, inspiring others through their presence. |
-| ***3*** | ***5***   | Defiler        | Thrives on envy, finding purpose in spreading misery and discord among others.                           |
-| ***4*** | ***6***   | Protector      | Dedicated to safeguarding people and things, willing to sacrifice themselves for their cause.            |
-| ***4*** | ***1***   | Visionary      | Sees the future and strives to guide humanity toward a better tomorrow with their insights.              |
-| ***4*** | ***2***   | Zealot         | Fanatically devoted to their cause, willing to suffer and die for their beliefs.                         |
-| ***4*** | ***3***   | Disciple       | On an endless quest for knowledge, always learning but never fully committing to one path.               |
-| ***4*** | ***4***   | Righteous      | Acts according to an unwavering conscience, judging everything as either good or evil.                   |
-| ***4*** | ***5:6*** | Traveler       | Compelled to explore the world, spreading knowledge and connecting distant places.                       |
+| d4    | d6    | Archetype      | Summary                                                                                                  |
+| ----- | ----- | -------------- | -------------------------------------------------------------------------------------------------------- |
+| **1** | **1** | Amnesiac       | You don't know who you are.                                                                              |
+| **1** | **2** | Adventurer     | Seeks to constantly push beyond their limits, embracing danger and novelty to avoid boredom.             |
+| **1** | **3** | Creator        | Driven by the desire to leave a lasting legacy through their works, striving to prove their worth.       |
+| **1** | **4** | Mentor         | Shares wisdom with chosen disciples, aiming to immortalise knowledge through them.                       |
+| **1** | **5** | Martyr         | Gains strength through self-sacrifice, standing as a paragon of willpower and faithfulness.              |
+| **2** | **6** | Ruler          | Seeks control to prevent chaos, believing only they can lead others to order and success.                |
+| **2** | **1** | Seeker         | Obsessed with uncovering life’s mysteries, relentlessly pursuing answers to the world’s enigmas.         |
+| **2** | **2** | Healer         | Fights against the world's collapse, determined to restore and preserve life and order.                  |
+| **2** | **3** | Traditionalist | Upholds order through adherence to ancient rules, fearing change and chaos.                              |
+| **2** | **4** | Mediator       | Seeks peace and understanding, striving to bridge gaps between conflicting parties.                      |
+| **2** | **5** | Hermit         | Shuns society, finding peace only in solitude and freedom from the noise of the world.                   |
+| **3** | **6** | Heretic        | Questions everything, aiming to disrupt established norms and traditions.                                |
+| **3** | **1** | Conqueror      | Driven by the pursuit of power, viewing every battle as a necessary struggle for dominance.              |
+| **3** | **2** | Abomination    | Consumed by madness, thriving on the fear and discomfort they invoke in others.                          |
+| **3** | **3** | Destroyer      | Seeks to annihilate the old to make way for the new, driven by a relentless need for destruction.        |
+| **3** | **4** | Chosen         | Believes they are destined to be the solution to every problem, inspiring others through their presence. |
+| **3** | **5** | Defiler        | Thrives on envy, finding purpose in spreading misery and discord among others.                           |
+| **4** | **6** | Protector      | Dedicated to safeguarding people and things, willing to sacrifice themselves for their cause.            |
+| **4** | **1** | Visionary      | Sees the future and strives to guide humanity toward a better tomorrow with their insights.              |
+| **4** | **2** | Zealot         | Fanatically devoted to their cause, willing to suffer and die for their beliefs.                         |
+| **4** | **3** | Disciple       | On an endless quest for knowledge, always learning but never fully committing to one path.               |
+| **4** | **4** | Righteous      | Acts according to an unwavering conscience, judging everything as either good or evil.                   |
+| **4** | **5** | Traveler       | Compelled to explore the world, spreading knowledge and connecting distant places.                       |
+| **4** | **6** | Mixed          | Roll twice and mix the results.                                                                          |
 
 ## Attributes
 
