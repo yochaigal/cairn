@@ -3,6 +3,7 @@ layout: default
 title: Character Creation
 nav_order: 920
 has_children: true
+has_toc: false
 
 ---
 
@@ -20,9 +21,11 @@ has_children: true
 
 Roll on each of the included tables from your background.
 
-|       |                                                           |
-| ----- | --------------------------------------------------------- |
-| **1** | [Spitalian](character-creation/backgrounds/spitalians.md) |
+|         |                                                           |
+| ------- | --------------------------------------------------------- |
+| **1**   | [Scrapers](character-creation/backgrounds/scrapers.md)    |
+| **2:4** | [Spitalian](character-creation/backgrounds/spitalians.md) |
+| **5:6** | Anabaptists                                               |
 
 ## Archetype
 
