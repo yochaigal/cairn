@@ -6,7 +6,7 @@ permalink: /
 ---
 
 # Terra Odd
-***v0.1.1***
+***v0.1.0***
 
 **Terra Odd** is a hack of Cairn / Into the Odd that aims to allow games to be played in different genres and aesthetics.
 The first hack is for [Degenesis](https://degenesis.com/).
@@ -51,3 +51,11 @@ bundle exec jekyll serve
 and then browse to http://localhost:4000.
 
 You can make real time changes in the files, and see result on your browser.
+
+### Versioning
+
+Given a version number MAJOR.MINOR.DEV, increment the:
+
++ MAJOR version when the new version is incompatible with previous versions (exception for 1.x)
++ MINOR version when a version with added features is to be used in a game session
++ DEV version when developments in-between sessions are published, or only fixes are applied.

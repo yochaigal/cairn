@@ -17,8 +17,9 @@ nav_order: 9000
 
 #### v0.1.1
 
-- Removed:
-	- Leftover Cairn original backgrounds
+- Fixed:
+	- Broken navigation
+
 
 #### v0.1.0
 
@@ -29,6 +30,8 @@ nav_order: 9000
 	- Characters and Rules based on Cairn 2e
 	- Added Background:
 		- Spitalians
+		- Scrapers
+	- Added placeholders for remaining Borcan clans.
 	- Added archetypes, to support behaviour choices
 	- Tables for weapons and armour sizes and modifiers
 	- Added Woe mechanic (not modularised yet)

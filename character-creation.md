@@ -8,14 +8,13 @@ has_toc: false
 ---
 
 # Character Creation
-{: .no_toc }
 
 1. If you are creating a new party, define a cohesive group concept with the other players.
-2. Roll or choose your [Background](character-creation.md#Backgrounds). Use the tables on each background.
-3. Roll or choose your [Archetype](character-creation.md#Archetype).
-4. Roll your [Attributes](character-creation.md#Attributes).
-5. Roll your [Hit Protection](character-creation.md#Hit%20Protection).
-6. Take note of your [Burdens](character-creation.md#Burdens).
+2. Roll or choose your [Background](#backgrounds). Use the tables on each background.
+3. Roll or choose your [Archetype](#archetype).
+4. Roll your [Attributes](#attributes).
+5. Roll your [Hit Protection](#hit-protection).
+6. Take note of your [Burdens](#burdens).
 
 ## Backgrounds
 
