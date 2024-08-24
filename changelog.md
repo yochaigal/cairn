@@ -15,6 +15,12 @@ nav_order: 9000
 {:toc}
 </details>
 
+#### v0.1.1
+
+- Fixed:
+	- Broken navigation
+
+
 #### v0.1.0
 
 **Forked [Cairn](https://cairnrpg.com/hacks/fork-this/).**
