@@ -11,9 +11,9 @@ has_toc: false
 
 1. If you are creating a new party, define a cohesive group concept with the other players.
 2. Roll or choose your [Background](#backgrounds). Use the tables on each background.
-3. Roll or choose your [Bond](#bonds).
-4. Roll your [Attributes](#attributes).
-5. Roll your [Hit Protection](#hit-protection).
+3. Roll your [Attributes](#attributes).
+4. Roll your [Hit Protection](#hit-protection).
+5. Roll or choose your [Bond](#bonds).
 6. Take note of your [Burdens](#burdens).
 
 ## Backgrounds
@@ -25,6 +25,17 @@ Roll on each of the included tables from your background.
 | **1**   | [Scrapers](character-creation/backgrounds/scrapers.md)       |
 | **2:4** | [Spitalian](character-creation/backgrounds/spitalians.md)    |
 | **5:6** | [Anabaptists](character-creation/backgrounds/anabaptists.md) |
+
+## Attributes
+
+- Player Characters have just three Attributes: (**Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**). 
+- Roll ***2d6+3*** for each of your character's **Attributes**, in order. You may then swap any two of the results. 
+- Attributes are not universal descriptors. A character with a low STR is not necessarily hopelessly weak; they can still attempt to lift a heavy door or survive a deadly fight! Their risk is simply higher. 
+
+## Hit Protection
+
+- Roll 1d6 to determine your PC's starting **Hit Protection (HP)**, which reflects their ability to avoid damage in combat. It does not indicate a character’s health or fortitude, nor do they lose it for very long. See [Healing & Recovery](core-rules.md#Healing%20&%20Recovery). 
+- If an attack would take a PC's HP exactly to 0, the player must roll on the [Scars](core-rules.md#Scars) table.
 
 ## Bonds
 
@@ -58,17 +69,6 @@ Once resolved, you may roll a new Bond.
 | **4** | **4** | **RIGHTEOUS**: You have judged someone close to you as wicked, but others don’t see it that way. You wield a **judgmental scale** symbolizing your moral stance.                       |
 | **4** | **5** | **TRAVELER**: You promised to deliver a message to a distant land, but the journey is more dangerous than expected. You carry a **sealed letter** with the critical message.           |
 | **4** | **6** | Roll twice and combine the bonds and choose one of the equipment items.                                                                                                                |
-
-## Attributes
-
-- Player Characters have just three Attributes: (**Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**). 
-- Roll ***2d6+3*** for each of your character's **Attributes**, in order. You may then swap any two of the results. 
-- Attributes are not universal descriptors. A character with a low STR is not necessarily hopelessly weak; they can still attempt to lift a heavy door or survive a deadly fight! Their risk is simply higher. 
-
-## Hit Protection
-
-- Roll 1d6 to determine your PC's starting **Hit Protection (HP)**, which reflects their ability to avoid damage in combat. It does not indicate a character’s health or fortitude, nor do they lose it for very long. See [Healing & Recovery](core-rules.md#Healing%20&%20Recovery). 
-- If an attack would take a PC's HP exactly to 0, the player must roll on the [Scars](core-rules.md#Scars) table.
 
 ## Burdens
 
