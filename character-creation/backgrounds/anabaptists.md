@@ -48,9 +48,9 @@ footer_content: Images & adapted text from <a href="https://degenesis.com/">dege
 | **5** | **FUROR**: Take a **Spitfire** (d8 blast). You can muster a gan of Orgiastics and start a crusade and try to start forming a settlement.                                                                                                                                                                           |
 | **6** | (Choose One)<br>**SUBLIME**: Take a **Bidenhander** (d10) or **Spitfire** (d8 blast). You are considered a manifested emanation, foretold in prophecies and there are no closed doors for you in Cathedral city.<br>**EMISSARY**: Take a **Long Sword** (d10). You are respected by all Cults of the Protectorate. |
 
-![](https://i.imgur.com/NmaF9YK.png)
-
 Depending on gained renown, you may be promoted to higher Ranks by your Cult.
+
+![](https://i.imgur.com/NmaF9YK.png)
 
 ## What is your feat? Roll 1d6.
 
