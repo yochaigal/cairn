@@ -17,8 +17,14 @@ nav_order: 9000
 
 #### v0.1.1
 
-- Fixed:
-	- Broken navigation
+- New:
+	- Added mutation tables (**Woes**)
+	- Exposed Cairn's procedures
+	- Completed Anabaptists (new approach to rank and feats)
+- Changed: Archetypes are now **Bonds**.
+- Fixed: Broken navigation
+- Removed: Changes on **Scars**, reinstated Cairn's
+- Text improvements
 
 
 #### v0.1.0
@@ -28,18 +34,18 @@ nav_order: 9000
 - New:
 	- New landing page / `README`
 	- Characters and Rules based on Cairn 2e
-	- Added Background:
+	- Added **Background**:
 		- Spitalians
 		- Scrapers
 	- Added placeholders for remaining Borcan clans.
 	- Added archetypes, to support behaviour choices
 	- Tables for weapons and armour sizes and modifiers
-	- Added Woe mechanic (not modularised yet)
+	- Added **Woe** mechanic (not modularised yet)
 - Changed:
-	- Attributes roll 2d6+3
+	- **Attributes** roll 2d6+3
 	- DEX is used for wits and coolness as well (mental DEX)
-	- Inventory are treated as Burdens
-	- Backgrounds have feats
+	- Inventory are treated as **Burdens**
+	- **Backgrounds** have feats
 	- Modified the scars table to take feats
 - Removed:
 	- Character traits, bonds and omens
