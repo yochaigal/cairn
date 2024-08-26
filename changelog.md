@@ -15,6 +15,10 @@ nav_order: 9000
 {:toc}
 </details>
 
+#### v0.1.2
+
+- Changed: Unrelated **Clans** to **Scars** for Spitalians and Scrapers.
+
 #### v0.1.1
 
 - New:
