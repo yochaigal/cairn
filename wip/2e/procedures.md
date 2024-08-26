@@ -1,10 +1,9 @@
 ---
 layout: default
 title: Procedures
-grand_parent: WIP
-parent: 2e
-nav_exclude: true
-search_exclude: true
+nav_order: 998
+parent: Resources
+
 ---
 
 # Procedures
