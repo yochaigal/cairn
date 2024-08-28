@@ -40,10 +40,11 @@ Roll on each of the included tables from your background.
 ## Bonds
 
 Bonds tie you to someone else and the world.
+Roll a ***d4*** and a ***d6***.
 You may resolve your Bond, and will be awarded Growth.
 Once resolved, you may roll a new Bond.
 
-| d4    | d6    |                                                                                                                                                                                        |
+|       |       |                                                                                                                                                                                        |
 | ----- | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1** | **1** | **AMNESIAC**: You must protect a stranger who claims to know your past.                                                                                                                |
 | **1** | **2** | **ADVENTURER**: You owe a debt to someone who saved you on one of your reckless journeys. You keep a **tattered map** they gave you.                                                   |

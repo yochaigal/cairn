@@ -177,7 +177,7 @@ It is a dial to control the amount of Primer your players encounter and how like
 Infection damage reduces your HP.
 If reduced to exactly 0 HP, you get an infection emergent affloration (mutation), roll on random mutation table.
 If reduced beyond 0 HP, you lose DEX.
-Specifically, if ingested, allows you to temporarily re-roll 3d6 for STR or WILL (your choice).
+Specifically, if ingested, allows you to temporarily re-roll **2d6+6** for STR or WILL (your choice).
 The effect lasts until the end of the scene.
 
 
