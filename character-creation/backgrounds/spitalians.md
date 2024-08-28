@@ -50,15 +50,42 @@ Depending on gained renown, you may be promoted to higher Ranks by your Cult.
 
 ![](https://i.imgur.com/n83TXJi.png)
 
-## What is your feat? Roll 1d6.
+## What is your potential? Roll 1d6.
 
-|       |                                                                                                                                                                                                                                                                                                                                                                           |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Splaying**. The Spitalian expertly wields the Splayer, thrusting it forward to strike an opponent's head while triggering the blades to open for another attack. Their movements are fluid and relentless, maintaining an aggressive stance ready for continuous assault. Deal d4 STR damage on a critical.                                                             |
-| **2** | **Phalanx**. A spear wall ensures no enemy passes unharmed. The Spitalian joins the defense, drawing attacks from allies and turning defense into a counterattack as foes charge into the Splayer. The tactic is quick to deploy but requires a pause to reform later. Enhanced damage if charged on, requires 2+ Spitalians.                                             |
-| **3** | **Preservalis**. Preservists never let enemies surrender, attacking fiercely to destroy. At their fortress in Arnsberg, they master Preservalis, a technique that breaks through defenses and opens an enemy up. With a forceful sword strike, they then fire a pistol into the enemy’s gut, using the recoil to avoid a counterattack. Dual wield your Sword and Pistol. |
-| **4** | **Last Bastion**. The Spitalian knows exactly where to strike, targeting vulnerable areas with precision. His deep understanding of the enemy allows him to inflict severe damage when fighting Psychonauts. Roll your damage die twice, and take the best.                                                                                                               |
-| **5** | **Kranzler's Teachings**. Kranzler’s heart is unyielding, untouched even by the Dushani's chants. Famulancers who master his techniques become immune to Psychonautic mental influences.                                                                                                                                                                                  |
-| **6** | **The Last Farewell**. With all enemies defeated or dying, the Spitalian stands alone, battling fiercely to hold the line. Consumed by a destructive fury, he attacks his foes as a champion fighter. However, if an ally recovers and returns to the fight, the intense state ends abruptly. All your attacks are enhanced in this situation.                            |
+#### 1: Splaying
+
+> The Spitalian expertly manoeuvres the Splayer, sliding the blades open and closed with precise, deadly efficiency. With a swift motion, he strikes, forcing the mechanism to snap open, and prepares for another strike, each movement adding to his defence and control of battlefield.
+
+*Gain a Fatigue. Every engaged opponent must make a DEX save or their attacks are impaired.*
+
+#### 2: Phalanx
+
+> A wall of spears forms a nearly impenetrable defence, with each point aimed at the enemy. Standing shoulder to shoulder, the Spitalian joins the line, ready to draw attacks toward himself to protect his comrades. As the phalanx strengthens, any foe foolish enough to charge risks impaling themselves on their deadly formation.
+
+*Gain a Fatigue. Your opponent is impaired if they try to attack the formation.*
+
+#### 3: Preservalis
+
+> Preservists are relentless, never giving their enemies a chance to surrender. Trained in a brutal technique known as Preservalis, they strike with their sword to create an opening, then follow up with a point-blank pistol shot to ensure the kill. The recoil propels them out of reach, leaving their foes defenceless.
+
+*Gain a Fatigue. You disengage after attacking.*
+
+#### 4: Last Bastion
+
+> The Spitalian's knowledge of his enemy runs deep—flesh torn, bones exposed, even the most hidden vulnerabilities laid bare. He knows precisely where to strike and how to inflict maximum pain. When facing Psychonauts, this intimate understanding grants him an edge, allowing him to strike with devastating accuracy.
+
+*Gain a Fatigue. You make an attack to a Psychonault that ignores armor and takes damage directly from their STR.*
+
+#### 5: Kranzler's Teachings
+
+> Kranzler's soul is unyielding, impervious even to the eerie chants of the Dushani. Famulancers study his techniques, but only the most dedicated can truly master them. Those who succeed become temporarily immune to Psychonautic mental influences, standing firm when others would falter.
+
+*Gain a Fatigue. Become immune to Dushani chants.*
+
+#### 6: The Last Farewell
+
+> The battlefield is littered with the fallen, and the Spitalian stands alone, the last beacon of hope. In this desperate hour, a destructive madness fuels him, his humanity burning away as he fights on. For a brief time, his attacks, defences, and resilience surge with unmatched fury, but if an ally stirs and rejoins the fight, the flame of his rage extinguishes.
+
+*Gain a Fatigue. Your attacks are enhanced until someone rejoins the fight.*
 
 ![](https://img2.storyblok.com/3420x2162/filters:quality(90)/f/72501/4570x2887/fdff41381a/opener-spitalian.jpg)
