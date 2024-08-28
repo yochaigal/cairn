@@ -17,7 +17,11 @@ nav_order: 9000
 
 #### v0.1.2
 
-- Changed: Unrelated **Clans** to **Scars** for Spitalians and Scrapers.
+- Changed:
+	- Reframed **Clans** **Potentials** (previously Feats) to Cairn's Spells Framework
+	- Unrelated **Clans** to **Scars** for Spitalians and Scrapers
+	- Improved the result of ingesting Burn for attribute increase
+- Text improvements
 
 #### v0.1.1
 
