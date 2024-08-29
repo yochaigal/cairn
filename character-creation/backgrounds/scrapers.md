@@ -37,31 +37,57 @@ footer_content: Images & adapted text from <a href="https://degenesis.com/">dege
 
 ## What is your rank? Roll 1d6.
 
-|       |                                 |                                                                                                                                                                                                                                                                                                                                     |
-| ----- | ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Mouse**                       |                                                                                                                                                                                                                                                                                                                                     |
-| **2** | **Badger**                      | Take a **Shotgun** or **Rifle**, and a **Rune**. Other scrapers recognise when you scratch your **Rune** on walls.                                                                                                                                                                                                                  |
-| **3** | **Field Minor**<br>(choose one) | **Fox**: Take a **Marvel Rifle** (d6) and a carrying rig. You have a foxhole you can use for hiding, protection and storage.<br>**Mechanist**: Take a **Toolkit**. You always scrape more raw materials when dismantling.<br>**Scavenger**: Take a **Crusher** (d6) that looks brutal. Scavengers always help each other out.       |
-| **4** | **Cartel Thug**                 | Take a **Heavy Leather Apron** (1 armour). You have a Cartel tattoo in your forehead, and Appraisers always leave you alone.                                                                                                                                                                                                        |
-| **5** | **Field Major**<br>(choose one) | **Lone Wolf**: Take an **Upgraded Marvel Rifle** (d8). You know your territory like no one else.<br>**Manufacturer**: Take **Workshops Keys**. Manufacturers always give access to each other's workshops.<br>**Alpha Wolf**: Take a **Tonfa** (d6). You are held in high regard by Judges, Spitalians, Chroniclers and Helvectics. |
-| **6** | **Appraiser**                   | Take a **Revolver** (d6). You have access to Judges and can negotiate with Chroniclers on behalf of other Scrapers.                                                                                                                                                                                                                 |
-| **7** | **Cave Bear**                   |                                                                                                                                                                                                                                                                                                                                     |
-| **8** | **Legend**                      |                                                                                                                                                                                                                                                                                                                                     |
-| **9** | **Officer**                     |                                                                                                                                                                                                                                                                                                                                     |
+![](https://i.imgur.com/KFQ3EBG.png)
 
-Every time you roll a scar, if the result is higher than your current **Rank** roll, you may advance one **Rank** when you are back with your Cult.
+|         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1**   | **MOUSE**: You work for an old Scraper. He always offers you food.                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| **2:3** | **BADGER**: Take a **Shotgun** (d8 blast) or **Rifle** (d10), and a **Rune**. Other scrapers recognise when you scratch your **Rune** on walls.                                                                                                                                                                                                                                                                                                                                                                           |
+| **4:5** | (choose one) All start with a **Rune**.<br>**FOX**: Take a **Marvel Rifle** (d6) and a carrying rig. You have a foxhole you can use for hiding, protection and storage.<br>**MECHANIST**: Take a **Toolkit**. You always scrape more raw materials when dismantling.<br>**SCAVENGER**: Take a **Crusher** (d6) that looks brutal. Scavengers always help each other out.<br>**CARTEL THUG**: Take a **Heavy Leather Apron** (1 armour). You have a Cartel tattoo in your forehead, and Appraisers always leave you alone. |
+| **6**   | (choose one) All start with a **Rune**.<br>**LONE WOLF**: Take an **Upgraded Marvel Rifle** (d8). You know your territory like no one else.<br>**MANUFACTURER**: Take **Workshops Keys**. Manufacturers always give access to each other's workshops.<br>**ALPHA WOLF**: Take a **Tonfa** (d6). You are held in high regard by Judges, Spitalians, Chroniclers and Helvectics.<br>**APPRAISER**: Take a **Revolver** (d6). You have access to Judges and can negotiate with Chroniclers on behalf of other Scrapers.      |
+
+
+Depending on gained renown, you may be promoted to higher Ranks by your Cult.
 
 ![](https://i.imgur.com/xcLiuvS.png)
 
-## What is your feat? Roll 1d6.
+## What is your potential? Roll 1d6.
 
-|       |                                                                                                                                                                                                                                                                                                                                                         |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **The Mob**: Scrappers face relentless abuse from other Cults, but when pushed too far, they unleash their fury, rallying the masses with their impassioned outcry. Their anger ignites a collective uprising, and the Scrapper takes control, directing the mob with decisive commands.                                                                |
-| **2** | **Rat**: Scrappers excel at staying out of trouble, blending into the crowd and pulling off daring acts without getting caught. Rats among them thrive in chaos, skillfully shifting blame to others while slipping away with their loot unnoticed. They always appear innocent, with no one able to prove otherwise.                                   |
-| **3** | **Tough Dog**: Tough Dogs endure abuse and taunts, defiantly challenging their tormentors with, "Is that all you’ve got?" They rely on their resilience, outlasting their enemies until they tire. Their hardened nature makes them tougher than most. When you roll **HP**, roll one additional die and remove the lowest.                             |
-| **4** | **Nitro**: Nitros have unearthed a deep-seated rage against the fear that once held them back. This hidden fury erupts when provoked, turning the Scrapper into a force of explosive anger against those who underestimate them. Your first attack in combat is **Enhanced**.                                                                           |
-| **5** | **Truffle Pig**: Skilled Scrappers have an uncanny knack for uncovering valuable artifacts, leaving the Chroniclers eager to pay up. Those without this talent struggle to find anything beyond basic scrap. Scrappers with the "Truffle Pig" instinct seem to naturally sense hidden treasures and dangers in the ruins.                               |
-| **6** | **Darwin**: In the brutal depths of the ruins, only the strongest survive, and the Darwins are the best of them. Through luck or extraordinary feats, they escape even the direst situations. A Darwin is a master of survival, known for defying the odds and emerging from seemingly hopeless scenarios. Recover 1d6 **HP** when you gain a **Scar**. |
+#### 1: The Mob 
+
+> The Apocalyptics swindle them, Judges hound them, Chroniclers deceive them, and the Clans drive them away. But when their anger finally erupts, it spreads like wildfire, igniting a shared fury among the crowd. The Scrapper seizes the moment, rallying the mob to action with a few well-chosen words.
+
+*Gain a Fatigue. A person or a small detachment develops a deep hatred of someone from another Cult.*
+
+#### 2: Rat
+
+> Scrappers survive by avoiding trouble, but Rats among them seek it out while seamlessly blending into the crowd. They can pull off daring acts like robbing a merchant and skillfully shifting the blame to an unsuspecting bystander, disappearing into the throng with their loot unnoticed. No matter what they do, Rats always seem innocent, or at least, no one can ever prove otherwise.
+
+*Gain a Fatigue. On a WIL save, they can see your guilt.*
+
+#### 3: Tough Dog
+
+> People kick and torment the Tough Dogs, but they just bite back, taunting, "Is that all you've got?" They endure the abuse, waiting for their enemies to tire, knowing they can take more punishment than most.
+
+*Gain a Fatigue. You gain +1 Armour.*
+
+#### 4: Nitro
+
+> Deep beneath layers of fear and survival instincts, a buried rage simmers within, fueled by the contempt of those who see them as mere dirt diggers. This hidden fury, unearthed through years of digging, waits to erupt and consume anyone who dares look down on them. When unleashed, this anger turns the Scrapper into a force of devastation, striking with unmatched ferocity.
+
+*Gain a Fatigue. Your attacks are enhanced and non-Blast attacks are impaired against you, until you take damage.*
+
+#### 5: Truffle Pig
+
+> Skilled Scrappers uncover artefacts that make Chroniclers uneasy as they reluctantly part with their Drafts, while less fortunate Scrappers barely earn more than the scrap’s worth. The best Scrappers possess an instinct, a sixth sense for finding hidden treasures and avoiding dangers in the ruins.
+
+*Gain a Fatigue. Choose one kind of object (key, arrow, gold, etc.). You can sense the nearest example.*
+
+#### 6: Darwin
+
+> In the harsh depths of the ruins, only the strongest emerge. The Darwins, through luck or sheer strength, consistently escape the most desperate situations. These masters of survival gain renown with each narrow escape.
+
+*Gain a Fatigue. You see a place where you can rest safely, and hidden, for a **Watch** (you still have to get there safely).*
+
 
 ![](https://img2.storyblok.com/3492x1964/filters:quality(90)/f/72501/3508x1973/32682ccbb9/opener-scrappers.jpg)
