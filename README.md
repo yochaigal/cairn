@@ -6,7 +6,7 @@ permalink: /
 ---
 
 # Terra Odd
-***v0.1.2***
+***v0.2.0***
 
 **Terra Odd** is a hack of Cairn / Into the Odd that aims to allow games to be played in different genres and aesthetics.
 The first hack is for [Degenesis](https://degenesis.com/).
