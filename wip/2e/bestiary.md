@@ -273,7 +273,7 @@ search_exclude: true
 
 ## Hellhound
 
-8 HP, 12 STR, 15 DEX, 9 WIL, bite (d8) or fire breath (d6, _blast_)
+8 HP, 12 STR, 15 DEX, 9 WIL, bite (d8), fire breath (d6, _blast_)
 
 - Monstrous, intelligent dogs that dwell near volcanoes.
 - Immune to fire and heat damage. Hot enough to melt iron simply by biting it.
@@ -341,7 +341,7 @@ search_exclude: true
 
 ## Manticore
 
-6 HP, 15 STR, 14 DEX, 12 WIL, claws (d6+d6) or tail spike (d6)
+6 HP, 15 STR, 14 DEX, 12 WIL, claws (d6+d6), tail spike (d8)
 
 - Spiteful monstrosities that wear a humanoid face, a lion's body, wings of a bat, and a scorpion's tail. Dwell in mountainous regions, abandoned castles, and forgotten dungeons.
 - Tail spikes act like darts, regrowing after a few days. A single spike is worth 150gp to a collector.
@@ -365,7 +365,7 @@ search_exclude: true
 
 ## Minotaur
 
-12 HP, 1 Armor, 16 STR, 12 DEX, 8 WIL, two-handed axe (d10) or charge (d12)
+12 HP, 1 Armor, 16 STR, 12 DEX, 8 WIL, two-handed axe (d10), charge (d12)
 
 - Large humanoids (typically male) with the head of a bull. Dwell in mazes or dungeons.
 - Extraordinary trackers with an excellent sense of smell and navigation skills.
@@ -417,7 +417,7 @@ still alive.
 
 ## Owlbear
 
-9 HP, 16 STR, 12 DEX, 5 WIL, beak (d10) or claws (d8+d8)
+9 HP, 16 STR, 12 DEX, 5 WIL, beak (d10), claws (d8+d8)
 
 - Bear-like carnivores with the face of an owl. Found in dense forests. Rumored spawn of a magical mishap.
 - **Critical Damage**: A piece of armor is rent and destroyed.
@@ -621,7 +621,7 @@ still alive.
 
 ## Werewolf
 
-8 HP, 15 STR, 14 DEX, 6 WIL, claws (d6+d6) or bite (d8)
+8 HP, 15 STR, 14 DEX, 6 WIL, claws (d6+d6), bite (d8)
 
 - Ferocious lycanthropes that can transform into a wolf-shape at will.
 - Mundane attacks are _impaired_ against werewolves, but attacks with weapons made of silver are _enhanced_.
