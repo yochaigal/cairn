@@ -33,7 +33,7 @@ Seed, Thresh, Dibber, Sow, Stalk, Harrow, Cobb, Flax, Briar, Rye
 | **2** | A crop spirit, angered by a poor tithing. The fires consumed nearly everything, and afterward you were able to gather a pouch of **Fireseeds** (d8, _blast_, 4 uses).        |
 | **3** | An antlered, toothy demon that nearly ended you. Take a blood-stained **Bone Knife** (d6). On **Critical Damage**, its next attack becomes _enhanced_ from contact with blood. |
 | **4** | _The Withering_, a type of stem rot from the **Roots**. Take a **Diseased Crop** (6 uses) that quickly decays any plant it touches.                        |
-| **5** | Wolves, or so you thought. You are now a **Werewolf** [8 HP, 15 STR, 14 DEX, claws (d6+d6) or bite (d8)]. Your WIL remains the same. You can _turn_ at will (once per day) but must make a WIL save to revert. Anyone left alive from your attacks must make a WIL save to avoid infection. |
+| **5** | Wolves, or so you thought. You are now a **Werewolf** [8 HP, 15 STR, 14 DEX, claws (d6+d6), bite (d8)]. Your WIL remains the same. You can _turn_ at will (once per day) but must make a WIL save to revert. Anyone left alive from your attacks must make a WIL save to avoid infection. |
 | **6** | Crop thieves. Not all of them survived, but you were outnumbered. Start with +d4 HP and a **Cusped Falchion** (d8).  |
 
 ## What tool saved your life? Roll 1d6:
