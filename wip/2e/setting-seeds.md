@@ -375,7 +375,7 @@ Roll 1d20 for each column and combine the results.
 | **9**   | Glaciers       | Land Scar           |
 | **10**  | Gorges         | Large Vents         |
 | **11**  | Hollows        | Magma Sculptures    |
-| **12**  | Ice Fields     | Mao on the Mountain |
+| **12**  | Ice Fields     | Man on the Mountain |
 | **13**  | Jungles        | Meteor Garden       |
 | **14**  | Lava Fields    | Obsidian Needle     |
 | **15**  | Mountains      | Reverse Waterfall   |
