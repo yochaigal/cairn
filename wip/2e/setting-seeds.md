@@ -262,15 +262,15 @@ The _Guild_ has been warned that a well-placed operative moves within their rank
 
 #### Faction Actions
 
-|         |                   |                                                                 |
-| ------- | ----------------- | --------------------------------------------------------------- |
-| **d12** | **Consequence**   | **Impact**                                                      |
-| **1**   | **Failure**       | A new **Obstacle** is introduced, and an **Advantage** is lost. |
-| **2**   | **Setback**       | An **Advantage** is lost.                                       |
-| **3**   | **Status Quo**    | Nothing is gained, but nothing is lost.                         |
-| **4**   | **Mixed Success** | A **goal** is achieved,  but an **Advantage** is lost.          |
-| **5**   | **Success**       | A **goal** is achieved, and no **Advantages** are lost.         |
-| **6**   | **Major Success** | A **goal** is achieved, and a new **Advantage** is found.       |
+|        |                   |                                                                 |
+| ------ | ----------------- | --------------------------------------------------------------- |
+| **d6** | **Consequence**   | **Impact**                                                      |
+| **1**  | **Failure**       | A new **Obstacle** is introduced, and an **Advantage** is lost. |
+| **2**  | **Setback**       | An **Advantage** is lost.                                       |
+| **3**  | **Status Quo**    | Nothing is gained, but nothing is lost.                         |
+| **4**  | **Mixed Success** | A **goal** is achieved,  but an **Advantage** is lost.          |
+| **5**  | **Success**       | A **goal** is achieved, and no **Advantages** are lost.         |
+| **6**  | **Major Success** | A **goal** is achieved, and a new **Advantage** is found.       |
 
 > The actions of the PCs can always overrule the necessity for a **faction** action, or in some cases shift the outcome of the roll in a favorable or unfavorable direction. 
 
@@ -375,7 +375,7 @@ Roll 1d20 for each column and combine the results.
 | **9**   | Glaciers       | Land Scar           |
 | **10**  | Gorges         | Large Vents         |
 | **11**  | Hollows        | Magma Sculptures    |
-| **12**  | Ice Fields     | Mao on the Mountain |
+| **12**  | Ice Fields     | Man on the Mountain |
 | **13**  | Jungles        | Meteor Garden       |
 | **14**  | Lava Fields    | Obsidian Needle     |
 | **15**  | Mountains      | Reverse Waterfall   |
