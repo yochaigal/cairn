@@ -9,13 +9,11 @@ permalink: /
 ***v0.2.0***
 
 **Terra Odd** is a hack of Cairn / Into the Odd that aims to allow games to be played in different genres and aesthetics.
-The first hack is for [Degenesis](https://degenesis.com/).
+The first hack is for [Degenesis](https://terra-campaigns.github.io/degenesis/).
 
-The main difference is the addition of a modular [Woe mechanic](core-rules.md#Woe), based on [Oddular Mechanics](https://www.bastionland.com/2016/04/oddular-mechanics.html?m=1).
-Woe differs narratively, depending on the game theme.
-It can be used as infection, corruption, panic, sadness, insanity, etc.
-
-Inventory slots are treated as Burdens and there is an expansion of Backgrounds, for different themes.
+The main difference is the addition of a modular [Ruin mechanic](core-rules.md#Ruin), based on [Oddular Mechanics](https://www.bastionland.com/2016/04/oddular-mechanics.html?m=1).
+[Backgrounds](character-creation.md#Backgrounds) and [Bonds](character-creation.md#Bonds), alongside Ruin, are thematically specific for each game.
+Inventory slots are treated as Burdens, with no mechanical change.
 
 This repo also contains my GM materials for planning & running sessions.
 It is not always organised.
@@ -23,10 +21,7 @@ It is not always organised.
 This webpage and the repository are a fork from [Yochai Gal](https://newschoolrevolution.com).'s [Cairn](https://cairnrpg.com/).
 Cairn is based on [Knave](https://www.drivethrurpg.com/product/250888/Knave) by Ben Milton and [Into The Odd](https://chrismcdee.itch.io/electric-bastionland) by Chris McDowall. 
 
-![](img/DG-moto_logo.png)
-
-<p></p>
-
+---
 ## Contribute
 
 Feel free to suggest edits on any files on this repo through Pull Requests.
