@@ -158,40 +158,11 @@ Armours can be
 - Ranged weapons can target any enemy near enough to see the whites of their eyes. Attacks against especially distant targets are _Impaired_.
 - Ammunition is not tracked unless otherwise specified. 
 
-## Woes
+## Ruin
 
-If you are exposed to the primer, or take **Burn**, you suffer Primer infection.
+The following Ruin mechanics are available.
 
-Note:
-The amount and frequency of how you deal Primer infection establishes the tone and pacing of your game.
-It is a dial to control the amount of Primer your players encounter and how likely they are to change as a result.
-
-|         |           |
-| ------- | --------- |
-| **d4**  | Glimpse   |
-| **d6**  | Contact   |
-| **d8**  | Ingestion |
-| **d10** | Incision  |
-| **d12** | Engulfed  |
-
-Infection damage reduces your HP.
-If reduced to exactly 0 HP, you get an infection emergent affloration (mutation), roll on random mutation table.
-If reduced beyond 0 HP, you lose DEX.
-Specifically, if ingested, allows you to temporarily re-roll **2d6+6** for STR or WILL (your choice).
-The effect lasts until the end of the scene.
-
-
-![](https://i.imgur.com/SUoem6s.png)
-
-![](https://i.imgur.com/WGmajjr.png)
-
-![](https://i.imgur.com/3xXstMw.png)
-
-![](https://i.imgur.com/mPrY7uJ.png)
-
-![](https://i.imgur.com/6ljhho5.png)
-
-![](https://i.imgur.com/3kiIhIz.png)
+#### <a href="https://terra-campaigns.github.io/degenesis/systems/ruin/" target="_blank">Degenesis Sepsis Infestation</a>
 
 
 ## Scars
