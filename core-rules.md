@@ -3,8 +3,6 @@ layout: default
 title: Core Rules
 nav_order: 940
 
-footer_content: Mutation tables are copied from <a href="https://www.drivethrurpg.com/en/product/115703/the-metamorphica-classic-edition">The Metamorphica (Classic Edition)</a> for private use only. The PDF can be acquired as PWYW for descriptions on each mutation.
-
 ---
 
 # Core Rules

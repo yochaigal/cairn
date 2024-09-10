@@ -40,3 +40,9 @@ After session
 
 - [ ] Make notes
 
+
+
+1. Strong start as the first thing of the session
+2. Then the intro music
+3. Then a review (previously....)
+4. Then fade to black and play the rest.
