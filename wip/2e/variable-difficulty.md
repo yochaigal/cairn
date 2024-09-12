@@ -154,7 +154,7 @@ In Cairn, players are encouraged to overcome problems by asking questions, think
 
 **Lucius**: _"OK. I really hope this works... And if not, well at least we'll go down fighting! Or screaming. Probably the latter."_
 
-**Warden**: _"Freya, who will you be your target and with what weapon?"_
+**Warden**: _"Freya, who will be your target and what weapon?"_
 
 **Freya**: _"Their leader, and I'll be using the Twins._"
 
