@@ -148,7 +148,7 @@ In Cairn, players are encouraged to overcome problems by asking questions, think
 
 **Freya**: _"Well, it's been fun, but I'd rather die fighting down there than get burned alive up here with you lot! No offense."_
 
-**Wolfram**: _"None taken. See if you can take out their leader while we try open up an escape route."_
+**Wolfram**: _"None taken. See if you can take out their leader while we try to open up an escape route."_
 
 **Wolfram**: _"I'm going to cast Disassemble on myself, then scream 'he's going to tear my arms off!' I will then drop down to the ground and start running around in circles. Lucius, when my arms are removed, I want you to pick them up and come after me."_
 
