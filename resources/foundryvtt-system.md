@@ -6,11 +6,14 @@ parent: Resources
 nav_order: 3
 ---
 
-# Foundry VTT System with Automatic Monster Import
+# Foundry VTT System  
+Cairn has a robust system for [Foundry VTT](https://foundryvtt.com/), the popular virtual tabletop program. You can install Cairn directly from within Foundry, or you can do so manually via the [Github Repo](https://github.com/yochaigal/Cairn-FoundryVTT).
+
+## Automatic Monster Import
 
 This guide describes how to automate the process of importing monster descriptions and stats into [Foundry VTT](https://foundryvtt.com/) using a combination of Ruby and JavaScript. The process allows for seamless conversion of monster data from markdown to JSON, and then automatically creates or updates actors within Foundry VTT.
 
-## Prerequisites
+### Prerequisites
 1. **Foundry VTT**: Ensure you have Foundry VTT installed and set up.
 2. **Ruby**: You'll need Ruby installed on your system. [Learn how here](https://www.ruby-lang.org/en/documentation/installation/)
 3. **Redcarpet Gem**: The Ruby script requires the `redcarpet` gem to parse markdown. Install it by running:
@@ -18,9 +21,9 @@ This guide describes how to automate the process of importing monster descriptio
    gem install redcarpet
    ```
 
-## Step-by-Step Guide
+### Step-by-Step Guide
 
-### 1. Prepare Your Monsters in Markdown
+#### 1. Prepare Your Monsters in Markdown
 
 Make sure your monsters are written in markdown format. Each file should include all relevant stats, including HP, STR, DEX, WIL, armor, and attacks. For example:
 
@@ -34,7 +37,7 @@ Make sure your monsters are written in markdown format. Each file should include
 
 Ensure all your markdown files are placed in a folder called `monsters`.
 
-### 2. Run the Ruby Script
+#### 2. Run the Ruby Script
 
 Download the Ruby script [from the repository](https://github.com/yochaigal/cairn/blob/main/generate_monster_json.rb). Place the script in the same directory as your `monsters` folder. The script reads the markdown files, extracts the monster stats, and outputs a JSON file with all the monster data.
 
@@ -46,7 +49,7 @@ ruby generate_monster_json.rb > monsters.json
 
 This will generate a `monsters.json` file in the same folder, containing all the parsed monster data.
 
-### 3. Import the Monsters into Foundry VTT
+#### 3. Import the Monsters into Foundry VTT
 
 Now that you have your `monsters.json`, you can import the data into Foundry VTT.
 
@@ -212,11 +215,11 @@ let updateActor = async function(monsterData) {
 monstersJson.forEach(m => updateActor(m));
 ```
 
-### 4. Paste Your JSON Data
+#### 4. Paste Your JSON Data
 
 Once you've created a new Foundry VTT macro and copied the above script into it, save the macro and run it. A dialog box will appear, allowing you to paste the contents of `monsters.json` into the field. After pasting, click "OK" to run the import process.
 
-### 5. Enjoy
+#### 5. Enjoy
 
 The script will create or update your monster actors, including their stats, descriptions, attacks, and armor. All items, such as weapons and armor, will be automatically equipped.
 
