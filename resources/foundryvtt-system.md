@@ -12,7 +12,7 @@ This guide describes how to automate the process of importing monster descriptio
 
 ## Prerequisites
 1. **Foundry VTT**: Ensure you have Foundry VTT installed and set up.
-2. **Ruby**: You'll need Ruby installed on your system.
+2. **Ruby**: You'll need Ruby installed on your system. [Learn how here](https://www.ruby-lang.org/en/documentation/installation/)
 3. **Redcarpet Gem**: The Ruby script requires the `redcarpet` gem to parse markdown. Install it by running:
    ```bash
    gem install redcarpet
