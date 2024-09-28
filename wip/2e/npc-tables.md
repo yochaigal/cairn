@@ -47,8 +47,8 @@ search_exclude: true
 | **9**   | Harper    |
 | **10**  | Liora     |
 | **11**  | Lira      |
-| **12**  | Lisbeth   |
-| **13**  | Luna      |
+| **12**  | Lorelai   |
+| **13**  | Lysandra  |
 | **14**  | Marcellus |
 | **15**  | Shade     |
 | **16**  | Shroud    |

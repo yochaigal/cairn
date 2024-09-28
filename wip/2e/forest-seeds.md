@@ -418,7 +418,7 @@ A rounded copse of vermilion **trees** surround a wide **puddle** of bubbling sa
 Atop a small hill is a wooden **cabin**. Small **logs** are arranged in rows on the West side of the building, and a tall **rack** is installed on the East wall.
 
 - **Cabin**: There is a 3-in-6 chance that Sweeney is here. Otherwise, he is out hunting. A ring of white dust is sprinkled across the doorway. 
-  - If the dust is disturbed, Sweeney will know, then make his way to the cabin.
+  - If the dust is disturbed, Sweeney will know and come investigate.
 - **Logs**: Arranged in rows of four by four. 
   - A stained outline of an animal (bear, rabbit, beaver, etc.) is drawn on each. A drop of white is painted on the rabbit. It looks new.
 - **Rack**: Various animal skins are stretched tightly across, drying. 
@@ -431,14 +431,13 @@ Very austere, with only a simple **cot** and small dining **table**.
 - **Cot**: Speckled with green moss and twigs. Smells faintly of rain.
   - The floor beneath the cot is thick with green moss. If Sweeney places his hands on the moss, it falls away, revealing an underground tunnel to **4**. Only Sweeney can activate this passage.
 - **Table**: On the table is a fully prepared meal of roast duck and root vegetables, equal to a full meal for 2.
-  - A gift from Anglwyst. If eaten, the meal on the table will reform in d12 hours. 
+  - A gift from Anglwyst. If eaten, the meal will reform in d12 hours. 
 
 #### Sweeney
 
 12 HP, 2 Armor, 13 STR, 15 DEX, 17 WIL, yew bow (d8)
 
-- A cantankerous, mossy old man.
-- If he is injured, the Wood will protect and even heal him. Each time he dies, he returns more green than before.
+- A cantankerous, mossy old man. If he is injured, the Wood will protect and even heal him. Each time he dies, he returns more green than before.
 - Would like to stop the _Withering_, but cannot enter **6** due to his pact with Anglwyst. As a test of their honor and skill, he will ask the party for help expelling the Giant Spiders at **9**.
   - If the party successfully completes their first task, he will give the party a **Pendant of Karnon**, as well as the promise of further riches if they can undo the magic that is ravaging the forest at **6**. 
   - If the party is able to disrupt the _Withering_, he will open the secret path to **4**, telling them that they may enter the hut there.
