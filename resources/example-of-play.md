@@ -6,7 +6,6 @@ nav_order: 2
 ---
 
 # Example of Play
----
 
 ## Note
 For a live "actual play" of Cairn (with Warden commentary), please see [here](https://www.youtube.com/watch?v=e3N4pqHIEwQ).
