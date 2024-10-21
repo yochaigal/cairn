@@ -1,11 +1,11 @@
 ---
 layout: default
 title: 5e Notes
-nav_order: 5
-parent: WIP
+parent: resources
 ---
 
-### 5e Notes
+# 5e Notes
+
 First choose the attributes you're converting. 
 - For **STR**, choose the highest between STR or CON. 
 - Convert **DEX** directly. 
