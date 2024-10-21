@@ -45,5 +45,5 @@ Drake, Cyra, Keir, Darius, Valen, Rorik, Yara, Rui, Talon, Jory
 | **2** | **Blacklegged Dandy** | Hardy and adaptable. **Tough** or **Perilous** terrain are one step easier. 6 HP. +4 slots.                     |
 | **3** | **Rivertooth**        | Impressively strong, capable of carrying heavy loads. 4 HP. +6 slots (only +2 slots if carrying two people).    |
 | **4** | **Piebald Cob**       | Intelligent, it can understand simple commands and even has an instinct for danger. 6 HP. +4 slots.            |
-| **5** | **Linden White**      | Highly trained and agile, it can perform intricate maneuvers in a time of need (no DEX save to flee). +3 slots. |
+| **5** | **Linden White**      | Highly trained and agile, it can perform intricate maneuvers in a time of need (no DEX save to flee). 4 HP. +3 slots. |
 | **6** | **Stray Fogger**      | Wild but very fast (even in **Tough** terrain). Rides light. 4 HP. +2 slots.                                 |
