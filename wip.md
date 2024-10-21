@@ -1,10 +1,8 @@
 ---
 layout: default
-title: WIP
-nav_order: 99
+title: 2e
+nav_order: 15
 has_children: true
-nav_exclude: true
-search_exclude: true
 ---
 
-# WIP
+# 2e
