@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Bonds and Omens
-parent: 2e
+parent: Warden's Guide 
+grand_parent: 2e
 ---
 
 # Bonds and Omens

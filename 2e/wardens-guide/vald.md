@@ -1,7 +1,8 @@
 ---
 title: Vald
 layout: default
-parent: 2e
+parent: Warden's Guide 
+grand_parent: 2e
 ---
 
 # Vald

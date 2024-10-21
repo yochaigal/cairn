@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Reliquary
-parent: 2e
+parent: Warden's Guide 
+grand_parent: 2e
 ---
 
 # Reliquary

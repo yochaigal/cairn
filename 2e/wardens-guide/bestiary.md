@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Bestiary
-parent: 2e 
+parent: Warden's Guide 
+grand_parent: Warden's Guide 
+grand_parent: 2e
 ---
 
 # Bestiary

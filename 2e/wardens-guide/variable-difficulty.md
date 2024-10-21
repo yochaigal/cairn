@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Variable Difficulty
-parent: 2e
+parent: Warden's Guide 
+grand_parent: 2e
 ---
 # Variable Difficulty
 

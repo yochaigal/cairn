@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Knowledge And Perception
-parent: 2e
+parent: Warden's Guide 
+grand_parent: 2e
 ---
 
 # Knowledge And Perception
