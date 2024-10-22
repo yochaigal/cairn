@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Submissions
+title: Test
 has_children: true
 nav_order: 35
 ---
