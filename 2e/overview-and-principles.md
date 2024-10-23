@@ -1,6 +1,6 @@
 ---
-title: Overview & Principles
 layout: default
+title: Overview & Principles
 parent: 2e
 ---
 

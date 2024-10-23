@@ -2,7 +2,6 @@
 layout: default
 title: NPC Tables
 parent: Warden's Guide 
-grand_parent: Warden's Guide 
 grand_parent: 2e
 ---
 

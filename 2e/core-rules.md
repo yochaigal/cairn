@@ -1,6 +1,6 @@
 ---
-title: Core Rules
 layout: default
+title: Core Rules
 parent: 2e
 ---
 

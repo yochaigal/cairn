@@ -2,7 +2,6 @@
 layout: default
 title: Dungeon Seeds
 parent: Warden's Guide 
-grand_parent: Warden's Guide 
 grand_parent: 2e
 ---
 

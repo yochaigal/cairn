@@ -1,6 +1,6 @@
 ---
-title: Vald (Player's Guide)
 layout: default
+title: Vald (Player's Guide)
 parent: 2e
 ---
 
