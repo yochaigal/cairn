@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Print Copy
-nav_order: 30
 parent: 2e
 ---
 
