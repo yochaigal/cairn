@@ -93,7 +93,7 @@ parent: 2e
 | Cooking Gear (Pots, Utensils, etc.)                | 10  |
 | Costume Gear (Face Paint, Disguise)                | 15  |
 | Dowsing Rod                                        | 15  |
-| Expeditionary Gear (Climbing Spikes, Pulley), etc. | 10  |
+| Expeditionary Gear (Climbing Spikes, Pulley, etc.) | 10  |
 | Fire Oil                                           | 10  |
 | Fishing Rod                                        | 10  |
 | Games (Cards, Dice, etc.)                          | 10  |
