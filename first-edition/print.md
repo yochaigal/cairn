@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Print
-nav_order: 3
+parent: First Edition
 ---
 
 # Grab a print copy!
