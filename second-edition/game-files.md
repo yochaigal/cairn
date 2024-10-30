@@ -1,6 +1,7 @@
 ---
 title: Game Files
 parent: Second Edition
+nav_order: 5
 ---
 
 # Game Files

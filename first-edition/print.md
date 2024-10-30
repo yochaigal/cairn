@@ -2,7 +2,8 @@
 layout: default
 title: Print
 parent: First Edition
-redirect_from: /print
+redirect_from: /print/
+nav_order: 3
 ---
 
 # Grab a print copy!
