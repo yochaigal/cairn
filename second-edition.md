@@ -2,7 +2,7 @@
 layout: default
 title: Second Edition
 has_children: true
-nav_order: 5
+nav_order: 8
 redirect_from: /wip/2e/
 ---
 
