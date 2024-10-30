@@ -2,6 +2,7 @@
 layout: default
 title: Print
 parent: First Edition
+redirect_from: /print
 ---
 
 # Grab a print copy!
