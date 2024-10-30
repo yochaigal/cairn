@@ -1,10 +1,11 @@
 ---
 layout: default
-title: Vald (Player's Guide)
-parent: Second Edition
+title: Vald
+parent: Player's Guide
+grand_parent: Second Edition
 ---
 
-# Vald (Player's Guide)
+# Vald
 
 ## Introduction
 

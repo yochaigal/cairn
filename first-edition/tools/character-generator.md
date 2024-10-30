@@ -2,6 +2,7 @@
 layout: page
 title: Character Generator
 parent: Tools
-redirect_from: /resources/tools/character-generator/
+grand_parent: First Edition
 ---
+
 {% include generator.html %}

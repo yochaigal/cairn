@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Example of Play
-parent: Resources
+parent: First Edition
 nav_order: 2
 ---
 

@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Core Rules
-parent: Second Edition
+parent: Player's Guide
+grand_parent: Second Edition
 ---
 
 # Core Rules

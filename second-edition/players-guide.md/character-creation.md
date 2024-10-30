@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Character Creation
-parent: Second Edition
+parent: Player's Guide
+grand_parent: Second Edition
 ---
 
 # Character Creation 

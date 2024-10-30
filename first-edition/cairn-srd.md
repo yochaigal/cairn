@@ -1,6 +1,8 @@
 ---
 layout: default
 title: SRD
+parent: first-edition
+redirect_from: /cairn-srd/
 nav_order: 2
 ---
 

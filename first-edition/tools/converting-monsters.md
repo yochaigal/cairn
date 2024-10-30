@@ -2,7 +2,8 @@
 layout: default
 title: Converting Monsters
 parent: Tools
-redirect_from: /resources/tools/converting-monsters/
+grand_parent: First Edition
+redirect_from: /tools/converting-monsters/
 ---
 
 # Converting Monsters
