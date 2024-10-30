@@ -2,7 +2,7 @@
 layout: default
 title: Ebook
 parent: Accessibility
-nav_order: 2
+grand_parent: First Edition
 ---
 
 # Ebook
