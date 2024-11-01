@@ -37,7 +37,7 @@ When the party:
 
 |       |                 |                                                                                                           |
 | :---: | :-------------: | :-------------------------------------------------------------------------------------------------------: |
-| **1** |  **Encounter**  |    Roll on an encounter table. Possibly **hostile**. (See [Reactions](/wip/2e/core-rules/#reactions).)    |
+| **1** |  **Encounter**  |    Roll on an encounter table. Possibly **hostile**. (See [Reactions](/second-edition/players-guide/core-rules/#reactions).)    |
 | **2** |    **Sign**     |                  A clue, spoor, track, abandoned lair, scent, victim, etc is discovered.                  |
 | **3** | **Environment** |      Surroundings shift or escalate. Water rises, ceilings collapse, a ritual nears completion, etc.      |
 | **4** |    **Loss**     | Torches are blown out, an ongoing spell fizzles, etc. The party must resolve the effect before moving on. |
@@ -172,7 +172,7 @@ Each day, the Warden should roll on the weather table for the appropriate season
 
 |       |                 |                                                                                                                                                                                                                            |
 | ----- | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Encounter**   | Roll on an encounter table for that terrain type or location. Don’t forget to roll for NPC [reactions](/wip/2e/core-rules.md/#reactions) if applicable.                                                                               |
+| **1** | **Encounter**   | Roll on an encounter table for that terrain type or location. Don’t forget to roll for NPC [reactions](/second-edition/players-guide/core-rules.md/#reactions) if applicable.                                                                               |
 | **2** | **Sign**        | The party discovers a clue, spoor, or indication of a nearby encounter, locality, hidden feature, or information about a nearby area.                                                                                      |
 | **3** | **Environment** | A shift in weather or terrain.                                                                                                                                                                                             |
 | **4** | **Loss**        | The party is faced with a choice that costs them a resource (rations, tools, etc), time, or effort.                                                                                                                        |
