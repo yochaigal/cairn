@@ -41,7 +41,7 @@ Ensure all your markdown files are placed in a folder called `monsters`.
 
 #### 2. Run the Ruby Script
 
-Download the Ruby script [from the repository](https://github.com/yochaigal/cairn/blob/main/generate_monster_json.rb). Place the script in the same directory as your `monsters` folder. The script reads the markdown files, extracts the monster stats, and outputs a JSON file with all the monster data.
+Download the Ruby script [from the repository](https://github.com/yochaigal/cairn/blob/main/resources/scripts/generate_monster_json.rb). Place the script in the same directory as your `monsters` folder. The script reads the markdown files, extracts the monster stats, and outputs a JSON file with all the monster data.
 
 To run the script:
 
