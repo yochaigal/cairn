@@ -11,7 +11,7 @@ grand_parent: Second Edition
 
 - First, roll or choose from the [Backgrounds](#backgrounds) table below and note the page number. You will refer to that page for the next few steps.
 - Choose a name from the available list, then record each of your character's starting items. See [Inventory](#inventory) and [Inventory Slots](#inventory-slots) for how to record items. 
-- Roll on each of the included tables in the background. Record your character's items, skills, or abilities from each result. Some backgrounds may ask you to refer to the tables in the [Marketplace](https:/cairnrpg.com/second-edition/players-guide/marketplace) as well.
+- Roll on each of the included tables in the background. Record your character's items, skills, or abilities from each result. Some backgrounds may ask you to refer to the tables in the [Marketplace](https:/cairnrpg.com/second-edition/marketplace) as well.
 
 ## Backgrounds
 
@@ -43,8 +43,8 @@ grand_parent: Second Edition
 
 ## Hit Protection
 
-- Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. It does not indicate a character’s health or fortitude, nor do they lose it for very long. See [Healing](/second-edition/players-guide/core-rules#healing). 
-- If an attack would take a PC's HP exactly to 0, the player must roll on the [**Scars**](https:/cairnrpg.com/second-edition/players-guide/core-rules#scars) table.
+- Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. It does not indicate a character’s health or fortitude, nor do they lose it for very long. See [Healing](/second-edition/core-rules#healing). 
+- If an attack would take a PC's HP exactly to 0, the player must roll on the [**Scars**](https:/cairnrpg.com/second-edition/core-rules#scars) table.
 
 ## Inventory
 
