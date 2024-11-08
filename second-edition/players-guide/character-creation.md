@@ -15,9 +15,9 @@ grand_parent: Second Edition
 
 ## Backgrounds
 
-|         |                                                                       |        |                                                                   |
-| ------- | --------------------------------------------------------------------- | ------ | ----------------------------------------------------------------- |
-| **d20** | **Background**                                                        |        |                                                                   |
+|         |                                                                                 |        |                                                                             |
+| ------- | ------------------------------------------------------------------------------- | ------ | --------------------------------------------------------------------------- |
+| **d20** | **Background**                                                                  |        |                                                                             |
 | **1**   | [Aurifex](https:/cairnrpg.com/second-edition/backgrounds/aurifex)               | **11** | [Half-Witch](https:/cairnrpg.com/second-edition/backgrounds/half-witch)     |
 | **2**   | [Barber-Surgeon](https:/cairnrpg.com/second-edition/backgrounds/barber-surgeon) | **12** | [Hexenbane](https:/cairnrpg.com/second-edition/backgrounds/hexenbane)       |
 | **3**   | [Beast Handler](https:/cairnrpg.com/second-edition/backgrounds/beast-handler)   | **13** | [Jongleur](https:/cairnrpg.com/second-edition/backgrounds/jongleur/)        |
