@@ -1,6 +1,6 @@
 ---
 layout: default
-title: :Logos
+title: Logos
 nav_order: 5
 parent: Submissions
 ---
