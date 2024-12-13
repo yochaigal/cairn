@@ -3,8 +3,6 @@ layout: default
 parent: Conversions
 grand_parent: Adventures
 title: Temple of 1000 Swords
-nav_exclude: true
-search_exclude: true
 ---
 
 
