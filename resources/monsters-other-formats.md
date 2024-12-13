@@ -7,7 +7,8 @@ nav_order: 8
 
 # Monsters (Other Formats)
 
-### A print-on-demand bestiary is now available from [Lulu](https://www.lulu.com/shop/yochai-gal/cairn-bestiary/paperback/product-prq2rg.html)!
+- A print-on-demand bestiary with no illustrations is available from [Lulu](https://www.lulu.com/shop/yochai-gal/cairn-bestiary/paperback/product-prq2rg.html)
+- A fully-illustrated (in color!) edition is also available from [Lulu](https://www.lulu.com/shop/oozejar-and-yochai-gal/illustrated-bestiary/paperback/product-q6576qy.html?q=oozejar&page=1&pageSize=4)!
 
 ## Other Downloads 
 
