@@ -104,87 +104,72 @@ title: Falkrest Abbey
 ## Bestiary
 
 ### Bandit
-3 HP, 1 Armor, sword (d6)
-STR 10, DEX 12, WIL 12
+3 HP, 1 Armor, STR 10, DEX 12, WIL 12, sword (d6)
 
 ### Cave Bear
-6 HP, 2 Armor, claws (d8+d8)
-STR 16, DEX 12, WIL 10
+6 HP, 2 Armor, STR 16, DEX 12, WIL 10, claws (d8+d8)
 - when hungry, will follow a trail of blood by scent
 
 ### Flayed Zombie
-3 HP, bite (d4)
-STR 8, DEX 8, WIL 8
+3 HP, STR 8, DEX 8, WIL 8, bite (d6)
 - can easily be heard moaning.
 - unaffected by poison, charm or mind control.
 
 ### Giant Rat
-3 HP, bite (d4)
-STR 5, DEX 10, WIL 8
+3 HP, STR 5, DEX 10, WIL 8, bite (d6)
 - **critical damage**: infects the wound, die in 1d6 days unless treated. 
 - will flee from fire.
 
 ### Goat
-4 HP, 1 Armor, butt (d4)
-STR 12, DEX 12, WIL 6
+4 HP, 1 Armor, STR 12, DEX 12, WIL 6, butt (d4)
 
 ### Ghost of Queen Enthofled
-7 HP, 3 Armor, touch (d6)
-STR 12, DEX 10, WIL 16
+7 HP, 3 Armor, STR 12, DEX 10, WIL 16, touch (d6)
 - **critical damage**: also deal 1d4 WIL damage
 - unaffected by poison, charm or mind control.
 - can only be harmed by silver weapons or magic.
 
 ### Grapnor
-3 HP, 2 Armor, handaxe (d6)
-STR 10, DEX 10, WIL 10
+3 HP, 2 Armor, STR 10, DEX 10, WIL 10, handaxe (d6)
 - equipped with winter clothes, chainmail, handaxe (d6), silver dagger (d4), lantern (broken), 17gp
 
 ### Icescale Viper
-4 HP, 1 Armor, bite (d4)
-STR 12, DEX 12, WIL 10
+4 HP, 1 Armor, STR 12, DEX 12, WIL 10, bite (d6)
 - **critical damage**: victim’s body (not equipment) is turned to solid ice. Thawing oil in room 3 can revert this effect. 
 - will flee from fire; fire attacks against them are enhanced.
 - immune to cold effects and cold damage.
 
 ### Iron Living Statue
-4 HP, 3 Armor, blow (d8+d8)
-STR 16, DEX 10, WIL 10
+4 HP, 3 Armor, STR 16, DEX 10, WIL 10, blow (d8+d8)
 - dealing damage to their strength: save DEX or the weapon becomes stuck. Stuck weapons can be retrieved after statue’s death.
 - unaffected by sleep effects.
 
 ### Lune Yeti
-8 HP, 2 Armor, claws (d6+d6)
-STR 16, DEX 14, WIL 14
+8 HP, 2 Armor, STR 16, DEX 14, WIL 14, claws (d6+d6)
 - magical attacks against them are impaired.
 - fire attacks against them are enhanced.
 
 ### Rowayn, the Eternal Knight
-9 HP, 3 Armor, longsword (d8+d8)
-STR 14, DEX 12, WIL 16
+9 HP, 3 Armor, STR 14, DEX 12, WIL 16, longsword (d8+d8)
 - unaffected by poison, charm or mind control.
 - can only be harmed by silver weapons or magic.
 - equipped with plate armor (3) and magical longsword (d8+d8)
 
 ### Skeleton
-3 HP, 1 Armor, axe / bow (d6)
-STR 10, DEX 10, WIL 12
+3 HP, 1 Armor, STR 10, DEX 10, WIL 12, axe or bow (d6)
 - unaffected by poison, charm or mind control
 
 ### Treant
-10 HP, 3 Armor, branches (d10+d10)
-STR 16, DEX 10, WIL 14
+10 HP, 3 Armor, STR 16, DEX 10, WIL 14, branches (d10+d10, *blast*)
 - distrusts fire and those who wield it
 - each treant can animate 2 trees, which fight as treants without HP.
 
 ### Wight
-6 HP, 2 Armor, touch (1d6)
-STR 14, DEX 8, WIL 14
+6 HP, 2 Armor, STR 14, DEX 8, WIL 14, touch (d6)
 - **critical damage**: any STR loss is permanent. 
 - unaffected by poison, charm or mind control.
 - can only be harmed by silver weapons or magic.
 
 ### Wolf
-4 HP, 1 Armor, bite (d6)
-STR 12, DEX 14, WIL 8
+4 HP, 1 Armor, STR 12, DEX 14, WIL 8, bite (d6)
 - packs of 4 or more wolves have WIL 12.
