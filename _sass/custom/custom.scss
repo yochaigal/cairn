@@ -1,11 +1,9 @@
-// Define colors
 $background-color: #26252b; // Main background
 $heading-color: #e3e9f0;    // Headings
 $text-color: #c9d1d9;       // Text
 $link-color: #f2c488;       // Links
 $visited-color: #26252b;    // Visited links
 
-// Global styles (not forced)
 body {
   font-family: 'Alegreya', serif;
   background-color: $background-color;
@@ -33,7 +31,20 @@ a:visited {
   color: $visited-color;
 }
 
-// Table-specific styling
+.sidebar {
+  font-size: 24px !important;
+}
+
+.sidebar a {
+  font-size: 24px !important;
+  color: $link-color;
+  text-decoration: none;
+}
+
+.sidebar a:hover {
+  text-decoration: underline;
+}
+
 table {
   width: 100%;
   border-collapse: collapse;
@@ -41,10 +52,10 @@ table {
 
 th, td {
   min-width: initial;
-  padding-top: .35rem;
-  padding-bottom: .35rem;
-  padding-right: .5rem;
-  padding-left: .5rem;
+  padding-top: 0.35rem;
+  padding-bottom: 0.35rem;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
 }
 
 tr:nth-child(even) td {
@@ -64,4 +75,9 @@ button {
   background: inherit;
   text-decoration: underline;
   color: $heading-color;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
 }
