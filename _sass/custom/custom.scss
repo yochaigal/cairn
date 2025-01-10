@@ -23,28 +23,6 @@ a {
   text-decoration: none;
 }
 
-a:hover {
-  text-decoration: underline;
-}
-
-a:visited {
-  color: $visited-color;
-}
-
-.sidebar {
-  font-size: 24px !important;
-}
-
-.sidebar a {
-  font-size: 24px !important;
-  color: $link-color;
-  text-decoration: none;
-}
-
-.sidebar a:hover {
-  text-decoration: underline;
-}
-
 table {
   width: 100%;
   border-collapse: collapse;
