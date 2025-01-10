@@ -1,11 +1,42 @@
-@import url('https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+// Define colors
+$background-color: #26252b; // Main background
+$heading-color: #e3e9f0;    // Headings
+$text-color: #c9d1d9;       // Text
+$link-color: #f2c488;       // Links
+$visited-color: #26252b;    // Visited links
 
-body{
+// Global styles (not forced)
+body {
   font-family: 'Alegreya', serif;
+  background-color: $background-color;
+  color: $text-color;
+  font-size: 18px;
 }
 
-tr:nth-child(even) td{
-  background-color: #f2f2f2;
+h1, h2, h3, h4, h5, h6 {
+  font-family: inherit;
+  color: $heading-color;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+a {
+  color: $link-color;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:visited {
+  color: $visited-color;
+}
+
+// Table-specific styling
+table {
+  width: 100%;
+  border-collapse: collapse;
 }
 
 th, td {
@@ -16,25 +47,21 @@ th, td {
   padding-left: .5rem;
 }
 
-td {
-  border-bottom: 0;
-  border-left: 0;
+tr:nth-child(even) td {
+  background-color: lighten($background-color, 5%);
 }
 
-thead{
-  display: none;
+tr:nth-child(odd) td {
+  background-color: $background-color;
 }
 
-tbody tr:last-of-type td{
-  padding-bottom: .35rem;
+thead {
+  display: none; 
 }
 
-h4, .text-delta{
-font-size: 12px !important;
-font-weight: 600;
-text-transform: uppercase;
-}
-
-.nav-list .nav-list-item .nav-list-link {
-font-size: 1rem;
+button {
+  border: none;
+  background: inherit;
+  text-decoration: underline;
+  color: $heading-color;
 }
