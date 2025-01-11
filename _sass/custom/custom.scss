@@ -1,8 +1,8 @@
-$background-color: #26252b; // Main background
-$heading-color: #e3e9f0;    // Headings
-$text-color: #c9d1d9;       // Text
-$link-color: #f2c488;       // Links
-$visited-color: #26252b;    // Visited links
+$background-color: #26252b;
+$heading-color: #e3e9f0;  
+$text-color: #c9d1d9;      
+$link-color: #f2c488;     
+$visited-color: #26252b;  
 
 body {
   font-family: 'Alegreya', serif;
@@ -57,4 +57,12 @@ button {
 img {
   max-width: 100%;
   height: auto;
+}
+
+.side-bar .site-nav, 
+.side-bar .nav-list, 
+.side-bar .nav-list-item, 
+.side-bar .nav-list-link {
+  font-size: 18px;
+  font-family: 'Alegreya', serif;
 }
