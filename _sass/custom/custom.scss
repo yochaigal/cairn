@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+
 $background-color: #26252b;
 $heading-color: #e3e9f0;  
 $text-color: #c9d1d9;      
@@ -8,7 +10,7 @@ body {
   font-family: 'Alegreya', serif;
   background-color: $background-color;
   color: $text-color;
-  font-size: 18px;
+  font-size: 20px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -63,6 +65,6 @@ img {
 .side-bar .nav-list, 
 .side-bar .nav-list-item, 
 .side-bar .nav-list-link {
-  font-size: 18px;
+  font-size: 20px;
   font-family: 'Alegreya', serif;
 }
