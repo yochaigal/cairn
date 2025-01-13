@@ -6,35 +6,13 @@
   --visited-color: #26252b;
 }
 
-@font-face {
-  font-family: 'Alegreya';
-  src: url('/fonts/static/Alegreya-Regular.woff2') format('truetype');
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Alegreya';
-  src: url('/fonts/static/Alegreya-Bold.woff2') format('truetype');
-  font-weight: 700;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Alegreya';
-  src: url('/fonts/static/Alegreya-Italic.woff2') format('truetype');
-  font-weight: 400;
-  font-style: italic;
-  font-display: swap;
-}
-
 body {
   font-family: 'Alegreya', Georgia, serif;
   background-color: var(--background-color);
   color: var(--text-color);
   font-size: 1.25rem; /* 20px */
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -62,7 +40,7 @@ th, td {
 }
 
 tr:nth-child(even) td {
-  background-color: #2e2d33; /* Precomputed lighter color */
+  background-color: #2e2d33;
 }
 
 tr:nth-child(odd) td {
