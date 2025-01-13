@@ -1,26 +1,50 @@
-@import url('https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+:root {
+  --background-color: #26252b;
+  --heading-color: #e3e9f0;
+  --text-color: #c9d1d9;
+  --link-color: #f2c488;
+  --visited-color: #26252b;
+}
 
-$background-color: #26252b;
-$heading-color: #e3e9f0;  
-$text-color: #c9d1d9;      
-$link-color: #f2c488;     
-$visited-color: #26252b;  
+@font-face {
+  font-family: 'Alegreya';
+  src: url('/fonts/static/Alegreya-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Alegreya';
+  src: url('/fonts/static/Alegreya-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Alegreya';
+  src: url('/fonts/static/Alegreya-Italic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
 
 body {
-  font-family: 'Alegreya', serif;
-  background-color: $background-color;
-  color: $text-color;
-  font-size: 20px;
+  font-family: 'Alegreya', Georgia, serif;
+  background-color: var(--background-color);
+  color: var(--text-color);
+  font-size: 1.25rem; /* 20px */
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: inherit;
-  color: $heading-color;
+  color: var(--heading-color);
   font-weight: 600;
 }
 
 a {
-  color: $link-color;
+  color: var(--link-color);
   text-decoration: none;
 }
 
@@ -38,11 +62,11 @@ th, td {
 }
 
 tr:nth-child(even) td {
-  background-color: lighten($background-color, 5%);
+  background-color: #2e2d33; /* Precomputed lighter color */
 }
 
 tr:nth-child(odd) td {
-  background-color: $background-color;
+  background-color: var(--background-color);
 }
 
 thead {
@@ -53,7 +77,12 @@ button {
   border: none;
   background: inherit;
   text-decoration: underline;
-  color: $heading-color;
+  color: var(--heading-color);
+  cursor: pointer;
+}
+
+button:focus {
+  outline: 2px solid var(--link-color);
 }
 
 img {
@@ -65,6 +94,6 @@ img {
 .side-bar .nav-list, 
 .side-bar .nav-list-item, 
 .side-bar .nav-list-link {
-  font-size: 20px;
-  font-family: 'Alegreya', serif;
+  font-size: 1.25rem; /* 20px */
+  font-family: 'Alegreya', Georgia, serif;
 }
