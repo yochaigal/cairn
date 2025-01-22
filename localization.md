@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Localizations
+title: Localization
 nav_order: 14
 has_children: true
 ---
 
-# Localizations
+# Localization
