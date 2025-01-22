@@ -2,7 +2,8 @@
 layout: default
 title: Localization Guide
 nav_order: 1
-parent: Localizations
+parent: First Edition
+grand_parent: Localization
 ---
 
 # Localization Guide

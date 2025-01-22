@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Finnish
-parent: Localizations
+parent: First Edition
+grand_parent: Localization
 redirect_to: https://fi.cairnrpg.com
 ---

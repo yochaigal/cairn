@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Russian
-parent: Localizations
+parent: First Edition
+grand_parent: Localization
 ---
 
 # Cairn System Reference Document (v.1.0)

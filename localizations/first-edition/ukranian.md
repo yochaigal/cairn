@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Ukranian
-parent: Localizations
+parent: First Edition
+grand_parent: Localization
 redirect_to: https://ua.cairnrpg.com
 ---
