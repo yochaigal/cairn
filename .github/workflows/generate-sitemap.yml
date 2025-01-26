@@ -2,10 +2,15 @@ name: Generate sitemap
 
 on:
   push:
-    branches: [ main ]
-    paths: 
-      - '**/*.html'
-      - 'sitemap.xml'
+    branches: [ main ] 
+    paths:
+      - '**/*.md'       
+      - '**/*.html'       
+      - '_config.yml'    
+      - 'Gemfile'         
+      - 'Gemfile.lock'  
+      - '_includes/**'   
+      - '_sass/**'      
 
   workflow_dispatch:
 
@@ -18,19 +23,19 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0 
-    
+
       - name: Generate the sitemap
         id: sitemap
         uses: cicirello/generate-sitemap@v1
         with:
           base-url-path: https://cairnrpg.com
-    
+      
       - name: Output stats
         run: |
           echo "sitemap-path = ${{ steps.sitemap.outputs.sitemap-path }}"
           echo "url-count = ${{ steps.sitemap.outputs.url-count }}"
           echo "excluded-count = ${{ steps.sitemap.outputs.excluded-count }}"
-    
+      
       - name: Commit and push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
