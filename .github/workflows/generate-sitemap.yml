@@ -7,6 +7,8 @@ on:
       - '**/*.html'
       - 'sitemap.xml'
 
+  workflow_dispatch:
+
 jobs:
   sitemap:
     runs-on: ubuntu-latest
