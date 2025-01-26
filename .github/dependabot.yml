@@ -1,0 +1,14 @@
+version: 2
+updates:
+  # Update Ruby gems
+  - package-ecosystem: "bundler"
+    directory: "/"
+    schedule:
+      interval: "weekly" # Change to daily or monthly if desired
+    ignore:
+      - dependency-name: "github-pages" # GitHub manages this version, so updates aren't necessary
+  # Update GitHub Actions workflows (optional)
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
