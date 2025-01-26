@@ -2,15 +2,13 @@ name: Generate sitemap
 
 on:
   push:
-    branches: [ main ] 
+    branches: [ main ]
     paths:
-      - '**/*.md'       
-      - '**/*.html'       
-      - '_config.yml'    
-      - 'Gemfile'         
-      - 'Gemfile.lock'  
-      - '_includes/**'   
-      - '_sass/**'      
+      - '**/*.md'
+      - '**/*.html'
+      - '_config.yml'
+      - 'Gemfile'
+      - 'Gemfile.lock'
 
   workflow_dispatch:
 
@@ -29,6 +27,11 @@ jobs:
         uses: cicirello/generate-sitemap@v1
         with:
           base-url-path: https://cairnrpg.com
+          exclude: |
+            _includes/**
+            scripts/**
+            **/*.pdf
+            404.html
       
       - name: Output stats
         run: |
