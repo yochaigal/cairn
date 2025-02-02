@@ -442,7 +442,7 @@ still alive.
 - Gargantuan worms that lair in enormous burrows deep underground, only coming to the surface to eat. Found in high deserts and hot tundra.
 - **Critical Damage**: The target is devoured, taking d8 STR damage from the acid in the worm's stomach.
 
-# Red Cap
+## Red Cap
 
 6 HP, 6 STR, 12 DEX, 8 WIL, dual sickles (d6+d6)
 
