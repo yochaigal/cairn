@@ -3,8 +3,6 @@ layout: default
 parent: Conversions
 grand_parent: Adventures
 title: Secret of the Black Crag
-nav_exclude: true
-search_exclude: true
 ---
 
 # Secret of the Black Crag
