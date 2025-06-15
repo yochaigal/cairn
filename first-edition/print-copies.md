@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Print
+title: Print Copies
 parent: First Edition
 redirect_from: /print/
 nav_order: 3

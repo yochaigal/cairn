@@ -25,4 +25,11 @@ nav_order: 5
 
 ## Warden's Guide
 
-- Coming 2025!
+### Offset Prints
+- [Cairn Store](https://store.cairnrpg.com/products/cairn-wardens-guide-second-edition)  
+- [Mixam](https://mixam.com/print-on-demand/68261f455b35ba357df521ff)  
+
+### Print On Demand (at cost)
+- [DrivethruRPG](https://www.drivethrurpg.com/en/product/500478/cairn-warden-s-guide-2nd-edition)
+- [Lulu](https://www.lulu.com/shop/yochai-gal-and-adam-hensley-and-derek-b/cairn-wardens-guide-second-edition/paperback/product-gjg5zvw.html?page=1&pageSize=4) (including [coilbound](https://www.lulu.com/shop/yochai-gal-and-adam-hensley-and-derek-b/cairn-wardens-guide-2nd-edition-coilbound/paperback/product-84rmw9z.html?page=1&pageSize=4)\!)  
+- [Amazon](https://www.amazon.com/dp/B0FD8P3J9Z/)
