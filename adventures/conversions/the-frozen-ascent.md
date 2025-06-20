@@ -9,6 +9,7 @@ grand_parent: Adventures
 
 - Original adventure by [JP Coovert](https://www.jpcoovert.com/shop/flik-silverpens-guide-to-the-plumb-wax-kobolds-fpc9y-b9pr7-3n98c-pmsnb-k73y9-yn4k5-mp3sg-swl2n-b2mat-sr464-h2f6h-9hwfx-dc5ex-e6rez)
 - Conversion by Yochai Gal
+- The original term "cold check" from the module is used below for ease of use.
 
 ## Pointcrawl
 
@@ -23,20 +24,20 @@ grand_parent: Adventures
 
 Danger Level: Treat a roll of a 2 or 3 as an encounter. 
 
-### The Cold
+### Cold Checks
 
-On a 4 on the Dungeon Events table, make a "cold save" (save STR). On a failure roll 2d6. 
+On a 4 on the Dungeon Events table, make a "cold check" (save STR). On a failure roll 2d6: 
 1. Anything you touch makes a STR save or it freezes too.
 2. Weak eyesight.
 3. Can only carry 6 items.
 4. Can only carry 8 items.
-5. Creatures nearby make a cold save.
+5. Creatures nearby make a cold check.
 6. Same.
 7. Same.
 8. Same.
 9. Attacks are impaired and DEX save to succeed on basic tasks.
 10. Same.
-11. Immune from cold save for the next 3 dungeon cycles.
+11. Immune from cold checks for the next 3 dungeon cycles.
 
 ## Dungeon Rooms
 
@@ -85,7 +86,7 @@ Same.
 
 ### 9. Frigid Cavern
 
-Same (PCs make cold saves every dungeon cycle, regardless of dungeon event outcome).
+Same (PCs make cold checks every dungeon cycle, regardless of dungeon event outcome).
 
 ### 10. Boulder Trap 1
 
@@ -97,7 +98,7 @@ Same.
 
 ### 12. Hot Spring
 
-Soaking in the pool restores 1d6 STR and eliminates the need for cold saves for the next 3 dungeon cycles.
+Soaking in the pool restores 1d6 STR and eliminates the need for cold checks for the next 3 dungeon cycles.
 
 ### 13. Boulder Trap 2
 
@@ -124,14 +125,14 @@ Same. One dungeon cycle for each stage of the ritual.
 1 Armor, 13 HP, 13 STR, 12 DEX, 11 WIL, cold touch (d8)
 
 * Immune to cold.
-* On **Critical Damage** the target must roll on the cold saves table.
+* On **Critical Damage** the target must roll on the cold checks table.
 
 ### Frost Orb
 
 18 HP, 16 STR, 8 DEX, 13 WIL, ice shards (d12, *blast*), *detachment*
 
 * Immune to cold.
-* **Freeze**: Targets nearby must make a cold save. On a failure they are frozen for one turn.
+* **Freeze**: Targets nearby must make a cold check. On a failure they are frozen for one turn.
 
 ### The Frozen King
 
@@ -193,4 +194,4 @@ d6 damage. Works great on ice.
 
 ### Sweltering Stones
 
-One cold save failure is ignored.
+Ignore cold checks for 5 dungeon cycles.
