@@ -12,12 +12,12 @@ grand_parent: Adventures
 
 ## Pointcrawl
 
-**Farharbor to Orn Mountain**: Medium, Road, Easy = 2 Watches
-**Orn Mountain to Donendar**: Short, Road, Easy + Short, Trail, Tough = 3 Watches 
-**Orn Mountain to Fersera’s Lair**: Short, Trail, Perilous = 4 Watches
-**Farharbor to Whitmere**: Long, Road, Easy = 3 Watches
-**Donendar to Whitmere**: Short, Trail, Tough + Medium, Road, Easy = 5 Watches
-**Whitemere to Orn Mountain**: Medium, Road, Easy = 2 Watches
+**Farharbor to Orn Mountain**: Medium, Road, Easy = **2 Watches**  
+**Orn Mountain to Donendar**: Short, Road, Easy + Short, Trail, Tough = **3 Watches**  
+**Orn Mountain to Fersera’s Lair**: Short, Trail, Perilous = **4 Watches**  
+**Farharbor to Whitmere**: Long, Road, Easy = **3 Watches**  
+**Donendar to Whitmere**: Short, Trail, Tough + Medium, Road, Easy = **5 Watches**  
+**Whitemere to Orn Mountain**: Medium, Road, Easy = **2 Watches**  
 
 ## Orn Mountain Caves
 
