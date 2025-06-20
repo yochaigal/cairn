@@ -117,21 +117,21 @@ Same. One dungeon cycle for each stage of the ritual.
 
 3 HP, 6 STR, 12 DEX, 4 WIL, pinch (d6)
 
-* On Critical Damage the crab stays attached to target. Pinch deals double damage while attached.
+* On **Critical Damage** the crab stays attached to target. Pinch deals double damage while attached.
 
 ### Frozen Husk
 
 1 Armor, 13 HP, 13 STR, 12 DEX, 11 WIL, cold touch (d8)
 
 * Immune to cold.
-* On critical damage roll on the cold saves table.
+* On **Critical Damage** the target must roll on the cold saves table.
 
 ### Frost Orb
 
 18 HP, 16 STR, 8 DEX, 13 WIL, ice shards (d12, *blast*), *detachment*
 
 * Immune to cold.
-* Freeze: Targets nearby must make a cold save. On a failure they are frozen for one turn.
+* **Freeze**: Targets nearby must make a cold save. On a failure they are frozen for one turn.
 
 ### The Frozen King
 
@@ -164,7 +164,7 @@ Griffon 7 HP, 14 STR, 15 DEX, 12 WIL, claws (d6+d6), detachment
 9 HP, 16 STR, 12 DEX, 5 WIL, beak (d10) or claws (d8+d8)
 
 * Bear-like carnivores with the face of an owl. Found in dense forests. Rumored spawn of a magical mishap.
-* Critical Damage: A piece of armor is rent and destroyed.
+* **Critical Damage**: A piece of armor is rent and destroyed.
 
 ### Stonebelly Dwarves
 
@@ -184,6 +184,7 @@ Griffon 7 HP, 14 STR, 15 DEX, 12 WIL, claws (d6+d6), detachment
 Once per day become invisible for 5 dungeon cycles. No save required when simply hiding.
 
 ### Mattock
+
 d6 damage. Works great on ice.
 
 ### Potion of Healing
@@ -191,4 +192,5 @@ d6 damage. Works great on ice.
 3 uses. d6 STR damage
 
 ### Sweltering Stones
+
 One cold save failure is ignored.
