@@ -7,7 +7,10 @@ grand_parent: Adventures
 
 # The Frozen Ascent
 
-## Map
+- Original adventure by [JP Coovert](https://www.jpcoovert.com/shop/flik-silverpens-guide-to-the-plumb-wax-kobolds-fpc9y-b9pr7-3n98c-pmsnb-k73y9-yn4k5-mp3sg-swl2n-b2mat-sr464-h2f6h-9hwfx-dc5ex-e6rez)
+- Conversion by Yochai Gal
+
+## Pointcrawl
 
 **Farharbor to Orn Mountain**: Medium, Road, Easy = 2 Watches
 **Orn Mountain to Donendar**: Short, Road, Easy + Short, Trail, Tough = 3 Watches 
@@ -37,7 +40,7 @@ On a 4 on the Dungeon Events table, make a STR save. On a failure roll 2d6.
 
 ## 1. West Entrance
 
-Same.
+Same. Recommended 1d10 crabs.
 
 ## 2. Garden
 
