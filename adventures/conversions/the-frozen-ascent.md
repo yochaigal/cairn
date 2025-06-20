@@ -35,7 +35,7 @@ On a 4 on the Dungeon Events table, make a "cold check" (save STR). On a failure
 6. Same.
 7. Same.
 8. Same.
-9. Attacks are impaired and DEX save to succeed on basic tasks.
+9. Attacks are *impaired* and DEX saves are required to succeed on even the most basic tasks.
 10. Same.
 11. Immune from cold checks for the next 3 dungeon cycles.
 
@@ -43,7 +43,7 @@ On a 4 on the Dungeon Events table, make a "cold check" (save STR). On a failure
 
 ### 1. West Entrance
 
-Same. Recommended 1d10 crabs.
+Not sure how many crabs are supposed to go here. 1d10?
 
 ### 2. Garden
 
