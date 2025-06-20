@@ -23,34 +23,36 @@ grand_parent: Adventures
 
 Danger Level: Treat a roll of a 2 or 3 as an encounter. 
 
-## The Cold
+### The Cold
 
-On a 4 on the Dungeon Events table, make a STR save. On a failure roll 2d6. 
-2. Anything you touch makes a STR save or it freezes too.
-3. Weak eyesight
-4. Can only carry 6 items.
-5. Can only carry 8 items.
-6. Creatures nearby make a cold save.
-7. Same
+On a 4 on the Dungeon Events table, make a "cold save" (save STR). On a failure roll 2d6. 
+1. Anything you touch makes a STR save or it freezes too.
+2. Weak eyesight.
+3. Can only carry 6 items.
+4. Can only carry 8 items.
+5. Creatures nearby make a cold save.
+6. Same.
+7. Same.
 8. Same.
-9. Same.
-10. Attacks are impaired and DEX save to succeed on basic tasks.
-11. Same.
-12. Immune from cold save for the next 3 dungeon cycles.
+9. Attacks are impaired and DEX save to succeed on basic tasks.
+10. Same.
+11. Immune from cold save for the next 3 dungeon cycles.
 
-## 1. West Entrance
+## Dungeon Rooms
+
+### 1. West Entrance
 
 Same. Recommended 1d10 crabs.
 
-## 2. Garden
+### 2. Garden
 
 Same.
 
-## 3. Corridor Spike Trap
+### 3. Corridor Spike Trap
 
 Same.
 
-## 4. Icy Ramp
+### 4. Icy Ramp
 
 DEX save or get pushed backwards into pit trap (d6 STR damage).
 
@@ -58,54 +60,54 @@ DEX save or get pushed backwards into pit trap (d6 STR damage).
 
 Same.
 
-## 6. Frozen King Statue
+### 6. Frozen King Statue
 
 Same. 
 
-## 7. Frozen Corridor
+### 7. Frozen Corridor
 
 Same. If Ice melts, spikes fall (DEX save or take d8 STR damage).
 
-## 8. Frozen Iron Dragon
+### 8. Frozen Iron Dragon
 
 Same. 
 
-### Fersera’s Hoard
+#### Fersera’s Hoard
 
-1. **Rusted Iron Key**: Same
+1. **Rusted Iron Key**: Same.
 2. **Magnetic Sword**: Metal projectiles are drawn to the sword. Attacks against the bearer are impaired.
 3. **Iron Greataxe**: d10, magically light (one slot, can be wielded one-handed).
-4. **Reflective Shield**: Same
+4. **Reflective Shield**: Same.
 5. **Iron Slumber Scepter**: d6 damage. Bulky. 1/day releases gas cloud. All creatures nearby make a STR save or fall asleep. If the wielder is properly prepared they can avoid the save as well.
 6. **Nomadic Iron Amulet**: Same.
 7. **Iron Oxide Ring**: Same.
 8. **Glimmering Iron Plate Mail**: Use dungeon cycles instead of turns.
 
-## 9. Frigid Cavern
+### 9. Frigid Cavern
 
 Same (PCs make cold saves every dungeon cycle, regardless of dungeon event outcome).
 
-## 10. Boulder Trap 1
+### 10. Boulder Trap 1
 
 Same.
 
-## 11. Crushed Husk
+### 11. Crushed Husk
 
 Same.
 
-## 12. Hot Spring
+### 12. Hot Spring
 
 Soaking in the pool restores 1d6 STR and eliminates the need for cold saves for the next 3 dungeon cycles.
 
-## 13. Boulder Trap 2
+### 13. Boulder Trap 2
 
 DEX save or take d12 STR damage.
 
-## 14. Frozen Lake
+### 14. Frozen Lake
 
 DEX save or fall in, DEX save to avoid the grasp of the underwater husks.
 
-### The Frozen King
+#### The Frozen King
 
 Same. One dungeon cycle for each stage of the ritual.
 
@@ -115,7 +117,7 @@ Same. One dungeon cycle for each stage of the ritual.
 
 3 HP, 6 STR, 12 DEX, 4 WIL, pinch (d6)
 
-* On critical damage the crab stays attached to target. Pinch deals double damage while attached.
+* On Critical Damage the crab stays attached to target. Pinch deals double damage while attached.
 
 ### Frozen Husk
 
@@ -179,10 +181,10 @@ Griffon 7 HP, 14 STR, 15 DEX, 12 WIL, claws (d6+d6), detachment
 
 ### Cloak of Elvenkind
 
-Once per day become invisible for 5 dungeon cycles. No save when hiding.
+Once per day become invisible for 5 dungeon cycles. No save required when simply hiding.
 
-Mattock
-d6 damage
+### Mattock
+d6 damage. Works great on ice.
 
 ### Potion of Healing
 
