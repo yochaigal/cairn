@@ -9,7 +9,7 @@ grand_parent: Adventures
 
 - Original adventure by [JP Coovert](https://www.jpcoovert.com/shop/flik-silverpens-guide-to-the-plumb-wax-kobolds-fpc9y-b9pr7-3n98c-pmsnb-k73y9-yn4k5-mp3sg-swl2n-b2mat-sr464-h2f6h-9hwfx-dc5ex-e6rez)
 - Conversion by Yochai Gal
-- The original term "cold check" from the module is used below for ease of use.
+- The original term "cold check" from the module is used below for consistency's sake.
 
 ## Pointcrawl
 
@@ -27,17 +27,17 @@ Danger Level: Treat a roll of a 2 or 3 as an encounter.
 ### Cold Checks
 
 On a 4 on the Dungeon Events table, make a "cold check" (save STR). On a failure roll 2d6: 
-1. Anything you touch makes a STR save or it freezes too.
-2. Weak eyesight.
-3. Can only carry 6 items.
-4. Can only carry 8 items.
-5. Creatures nearby make a cold check.
-6. Same.
+2. Anything you touch makes a STR save or it freezes too.
+3. Weak eyesight.
+4. Can only carry 6 items.
+5. Can only carry 8 items.
+6. Creatures nearby make a cold check.
 7. Same.
 8. Same.
-9. Attacks are *impaired* and DEX saves are required to succeed on even the most basic tasks.
-10. Same.
-11. Immune from cold checks for the next 3 dungeon cycles.
+9. Same.
+10. Attacks are *impaired* and DEX saves are required to succeed on even the most basic tasks.
+11. Same.
+12. Immune from cold checks for the next 3 dungeon cycles.
 
 ## Dungeon Rooms
 
