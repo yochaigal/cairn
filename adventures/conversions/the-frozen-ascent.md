@@ -136,7 +136,7 @@ Same. One dungeon cycle for each stage of the ritual.
 
 ### The Frozen King
 
-2 Armor, 18 HP, 16 STR, 16 DEX, 14 WIL,Arctic staff (d12) *and* one spell.
+2 Armor, 18 HP, 16 STR, 16 DEX, 14 WIL, Arctic staff (d12) *and* one spell.
 
 * Immune to cold.
 * **Ice Aura**: All enemies are frozen.
