@@ -125,6 +125,8 @@ Roll 1d20 for each column and combine the results.
 
 ## Monster Attacks
 
+Roll 1d20 for each column and combine the results.
+
 |         |          |                     |
 | ------- | -------- | ------------------- |
 | **d20** | **Type** | **Critical Damage** |
@@ -157,24 +159,25 @@ Roll 1d20 for each column and combine the results.
 | ------- | ----------- | ------------ |
 | **d20** | **Ability** | **Target**   |
 | **1**   | Absorbs     | Body         |
-| **3**   | Amplifies   | Dreams       |
-| **4**   | Attracts    | Element      |
-| **5**   | Binds       | Emotions     |
-| **6**   | Camouflages | Energy       |
-| **7**   | Conjures    | Health       |
-| **8**   | Controls    | Hearing      |
-| **9**   | Disables    | Illusions    |
-| **11**  | Duplicates  | Light        |
-| **12**  | Grows       | Memory       |
-| **13**  | Manipulates | Metal        |
-| **14**  | Reflects    | Plants       |
-| **15**  | Regenerates | Spirit       |
-| **2**   | Resists     | Stone        |
-| **16**  | Reverses    | Surroundings |
-| **17**  | Shapes      | Time         |
-| **18**  | Shrinks     | Vision       |
-| **19**  | Transforms  | Water        |
-| **20**  | Traps       | Weather      |
+| **2**   | Amplifies   | Dreams       |
+| **3**   | Attracts    | Element      |
+| **4**   | Binds       | Emotions     |
+| **5**   | Camouflages | Energy       |
+| **6**   | Conjures    | Health       |
+| **7**   | Controls    | Hearing      |
+| **8**   | Disables    | Illusions    |
+| **9**   | Duplicates  | Light        |
+| **10**  | Grows       | Memory       |
+| **11**  | Manipulates | Metal        |
+| **12**  | Reflects    | Plants       |
+| **13**  | Regenerates | Spirit       |
+| **14**  | Resists     | Stone        |
+| **15**  | Reverses    | Surroundings |
+| **16**  | Shapes      | Time         |
+| **17**  | Shrinks     | Vision       |
+| **18**  | Transforms  | Water        |
+| **19**  | Traps       | Weather      |
+| **20**  | Zaps        | Weakens      |
 
 ## Monster Example
 
