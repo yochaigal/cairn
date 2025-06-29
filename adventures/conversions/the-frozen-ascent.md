@@ -75,7 +75,7 @@ Same.
 
 #### Fersera’s Hoard
 
-1. **Rusted Iron Key**: Same.
+1. **Rusted Iron Key**: Same. *Petty*.
 2. **Magnetic Sword**: Metal projectiles are drawn to the sword. Attacks against the bearer are impaired.
 3. **Iron Greataxe**: d10, magically light (one slot, can be wielded one-handed).
 4. **Reflective Shield**: Same.
@@ -148,7 +148,7 @@ Same. One dungeon cycle for each stage of the ritual.
 
 3 Armor, 18 HP, 18 STR, 17 DEX, 15 WIL, rend (d10+d10), *detachment*
 
-* **Sleep Breath**: STR save or target falls asleep.
+* **Sleep Breath**: WIL save or target falls asleep.
 * **Iron Shard Breath**: d12+d12 damage.
 
 ### Griffon
