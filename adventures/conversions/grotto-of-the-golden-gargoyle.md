@@ -13,7 +13,9 @@ title: Grotto of Golden Gargoyle
 ## Notes
 
 - Treat "turns" as dungeon cycles, as each PC has only one turn per cycle.
-- **Petrification Curse**: Victim slowly turns to stone. Each day the player rolls 1d6 to determine which body part turns to stone (reroll duplicates): 1: Nose, 2: Fingers, 3: Ears, 4: Toes, 5: Forehead, 6: Lips. After a week they are fully petrified.
+- **Petrification Curse**: Victim slowly turns to stone. 
+  - Each day the player rolls 1d6 to determine which body part turns to stone (reroll duplicates):  
+   1: Nose, 2: Fingers, 3: Ears, 4: Toes, 5: Forehead, 6: Lips. After a week they are fully petrified.
 
 ## Rooms
 
@@ -95,8 +97,8 @@ If an item isn't on this list, treat its abilities and value as written.
 ### Lizard Tail
 
 4 HP, 1 Armor, 8 STR, 12 DEX, 8 WIL, arms (d6+d6)
-- Recovers 1d4 STR at the start of each round.
-- When he takes critical damage with a blade, regrow his limbs (d4): 
+- Recovers 1d4 STR at the start of each round. 
+- When he takes critical damage with a blade, regrow his limbs (d4):  
   - 1. Club (d8)
   - 2. Regular arm.
   - 3. 1 x Bat wings (needs 2 to fly)
