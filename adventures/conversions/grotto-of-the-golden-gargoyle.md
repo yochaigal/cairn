@@ -22,7 +22,7 @@ title: Grotto of Golden Gargoyle
 
 ### 1. The Spiked Chamber
 
-- As written.
+- Save DEX or get impaled and take d6 STR damage. Falling to the floor causes d4 STR damage.
 
 ### 2. The Fungal Cave
 
