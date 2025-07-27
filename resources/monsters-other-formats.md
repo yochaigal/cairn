@@ -23,4 +23,4 @@ nav_order: 8
 ### Monster Cards
 - Individual [Monster Cards](https://drive.google.com/drive/folders/1Wu6znssFhg28THVlg2ApM29p0CGgEQao)
 - Monster Cards [Letter Format](hhttps://drive.google.com/file/d/1cl8H8hgsOUEQWBAyoNqpJS3dUzzEl1TU/)
-- Monster Cards [A4 Format](hhttps://drive.google.com/file/d/19_svkvABE7uXheNfmTa7x1tesyrsKhYw/)
+- Monster Cards [A4 Format](https://drive.google.com/file/d/19_svkvABE7uXheNfmTa7x1tesyrsKhYw/)
