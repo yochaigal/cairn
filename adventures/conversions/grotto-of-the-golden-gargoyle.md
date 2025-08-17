@@ -54,11 +54,11 @@ title: Grotto of Golden Gargoyle
 
 ### 8. Tomb of Karthras the Cold
 
-- Same.
+- As written.
 
 ### Inside the Sarcophagus
 
-- Same.
+- As written.
 
 ## Treasure
 
