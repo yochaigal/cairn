@@ -28,7 +28,7 @@ title: Grotto of Golden Gargoyle
 
 #### Fungi
 
-- **Blood Fungus**: Roll 1d6. On a **1-2** the character acquires the __petrification curse_.
+- **Blood Fungus**: Roll 1d6. On a **1-2** the character acquires the _petrification curse_.
 - **Reapers**: 1d4 STR damage, then deals increased damage die (1d6 > 1d8 > 1d10 > 1d12 > 1d20) every 3 dungeon cycles, after which it abates.
 
 ### 3. Bat Saddlery
