@@ -131,4 +131,4 @@ If an item isn't on this list, treat its abilities and value as written.
 
 ### Vampire Knight Armor
 
-- 8 HP, 3 Armor, 16 STR, 10 DEX, 1 WIL, battle axe (d10+d10)
+- 8 HP, 3 Armor, 16 STR, 10 DEX, 1 WIL, blade (d10)
