@@ -29,8 +29,8 @@ search_exclude: true
 
 # Adventure Title
 
-- Based on the [original work](link-to-game-page) by Author Name](link-to-author-site).
-- Conversion by [Your Name](link to your contact on the web]
+- Based on the [original work](link-to-game-page) by [Author Name](link-to-author-site).
+- Conversion by [Your Name](link to your contact on the web).
 
 ## General Notes
 - Put any notes on the conversion here!
