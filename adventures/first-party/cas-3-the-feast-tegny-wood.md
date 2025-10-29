@@ -1,5 +1,5 @@
 ---
-title: "CAS-2: The Feast of Tegny Wood"
+title: "CAS-3: The Feast of Tegny Wood"
 parent: First Party
 layout: default
 grand_parent: Adventures
