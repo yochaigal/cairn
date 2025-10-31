@@ -7,7 +7,7 @@ nav_order: 5
 
 # Print Copies
 
-## Player's Guide 
+## Cairn 2nd Edition Player's Guide 
 
 ### Offset Prints (Perfect bound, at cost)
 
@@ -18,13 +18,12 @@ nav_order: 5
 
 - [Perfect Bound](https://www.lulu.com/shop/yochai-gal-and-adam-hensley-and-derek-b/cairn-players-guide-2nd-edition/paperback/product-rm8jqgd.html?q=&page=1&pageSize=4)
 - [Coilbound](https://www.lulu.com/shop/yochai-gal-and-adam-hensley-and-derek-b/cairn-players-guide-2nd-edition-coilbound/paperback/product-m2q5rzy.html?page=1&pageSize=4)
-- More options coming soon!
 
-### DriveThruRPG (On Demand, at Cost)
+### DriveThruRPG (On Demand, at cost)
 
 - [Perfect Bound](https://www.drivethrurpg.com/en/product/500476/cairn-player-s-guide-2nd-edition) (Coming Soon!)
 
-## Warden's Guide
+## Cairn 2nd Edition Warden's Guide
 
 ### Offset Prints (at cost)
 - [Cairn Store](https://store.cairnrpg.com/products/cairn-wardens-guide-second-edition)  
