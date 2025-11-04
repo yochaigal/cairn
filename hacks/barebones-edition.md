@@ -314,7 +314,7 @@ Roll when the party:
 * **Dagger** (d6)
 * **Torches** (3 uses)
 * **Chalk (*petty*)** and **Parchment (3 uses)**
-* **Robes** (_petty__)
+* **Robes** (_petty_)
 
 ### Cleric
 
