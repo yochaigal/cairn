@@ -3,8 +3,6 @@ layout: default
 title: Cairn: Barebones Edition
 parent: Hacks
 nav_order: 8
-search_exclude: true
-nav_exclude: true
 ---
 
 # Cairn: Barebones Edition
