@@ -277,11 +277,11 @@ Roll when the party:
 * *Petty* items do **not** take up any slots. *Bulky* items take up **two** slots.
 * A bag of coins worth **<100gp** is *petty* and does not occupy a slot.
 
-### Backgrounds
+## Backgrounds
 
-#### Fighter
+### Fighter
 
-### Starting Gear
+#### Starting Gear
 
 * 3d6 Gold Pieces
 * Rations (3 uses)
@@ -292,9 +292,9 @@ Roll when the party:
 * **Bandages** (3 uses)
 * Token from a fallen comrade (*petty*)
 
-#### Thief
+### Thief
 
-### Starting Gear
+#### Starting Gear
 
 * 3d6 Gold Pieces
 * Rations (3 uses)
@@ -306,19 +306,19 @@ Roll when the party:
 * **Rope (25ft)**
 * Black Hood (_petty_)
 
-#### Magic-User
+### Magic-User
 
 #### Starting Gear
 
 * 3d6 Gold Pieces
 * Rations (3 uses)
-* **Spellbook** (roll d100 on [Spellbooks](#spellbooks) table)
+* **Spellbook** (roll d100 on [Spellbooks](#spellbooks-1) table)
 * **Dagger** (d6)
 * **Torches** (3 uses)
 * **Chalk (*petty*)** and **Parchment (3 uses)**
 * **Robes** (_petty__)
 
-#### Cleric
+### Cleric
 
 #### Starting Gear
 
