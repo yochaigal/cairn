@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Cairn: Barebones Edition
+title: Barebones Edition
 parent: Hacks
 nav_order: 8
 ---
 
-# Cairn: Barebones Edition
+# Barebones Edition
 
 ## Core Rules
 
