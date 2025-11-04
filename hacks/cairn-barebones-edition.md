@@ -11,7 +11,7 @@ nav_exclude: True
 
 ## Core Rules
 
-## Attributes (Usage)
+## Attributes
 
 Each Attribute is used in different circumstances (see **Saves**):
 
@@ -304,8 +304,7 @@ Roll when the party:
 * **Sling** (d6)
 * **Thieving Tools** (Lockpick, Metal File, etc.)
 * **Rope (25ft)**
-
-* Black Hood (*petty*)
+* Black Hood (_petty_)
 
 #### Magic-User
 
@@ -313,7 +312,7 @@ Roll when the party:
 
 * 3d6 Gold Pieces
 * Rations (3 uses)
-* **Spellbook** (Roll d100 on [#spellbooks](Spellbooks) table)
+* **Spellbook** (roll d100 on [Spellbooks](#spellbooks) table)
 * **Dagger** (d6)
 * **Torches** (3 uses)
 * **Chalk (*petty*)** and **Parchment (3 uses)**
@@ -330,7 +329,6 @@ Roll when the party:
 * **Gambeson** (1 Armor)
 * **Bandages** (3 uses)
 * **Vestments** (_petty_)
-
 
 ## Spellbooks
 
