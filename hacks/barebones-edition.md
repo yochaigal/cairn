@@ -275,7 +275,224 @@ Roll when the party:
 * *Petty* items do **not** take up any slots. *Bulky* items take up **two** slots.
 * A bag of coins worth **<100gp** is *petty* and does not occupy a slot.
 
-## Backgrounds
+## Character Creation
+
+### Backgrounds
+
+
+
+### Character Traits (d10)
+
+#### Physique
+
+|       |          |        |            |
+| ----- | -------- | ------ | ---------- |
+| **1** | Athletic | **6**  | Scrawny    |
+| **2** | Brawny   | **7**  | Short      |
+| **3** | Flabby   | **8**  | Statuesque |
+| **4** | Lanky    | **9**  | Stout      |
+| **5** | Rugged   | **10** | Towering   |
+
+#### Skin
+
+|       |             |        |           |
+| ----- | ----------- | ------ | --------- |
+| **1** | Birthmarked | **6**  | Soft      |
+| **2** | Marked      | **7**  | Tanned    |
+| **3** | Oily        | **8**  | Tattooed  |
+| **4** | Rosy        | **9**  | Weathered |
+| **5** | Scarred     | **10** | Webbed    |
+
+#### Hair
+
+|       |         |        |           |
+| ----- | ------- | ------ | --------- |
+| **1** | Bald    | **6**  | Long      |
+| **2** | Braided | **7**  | Luxurious |
+| **3** | Curly   | **8**  | Oily      |
+| **4** | Filthy  | **9**  | Wavy      |
+| **5** | Frizzy  | **10** | Wispy     |
+
+#### Face
+
+|       |           |        |         |
+| ----- | --------- | ------ | ------- |
+| **1** | Bony      | **6**  | Perfect |
+| **2** | Broken    | **7**  | Rakish  |
+| **3** | Chiseled  | **8**  | Sharp   |
+| **4** | Elongated | **9**  | Square  |
+| **5** | Pale      | **10** | Sunken  |
+
+#### Speech
+
+|       |         |        |            |
+| ----- | ------- | ------ | ---------- |
+| **1** | Blunt   | **6**  | Gravelly   |
+| **2** | Booming | **7**  | Precise    |
+| **3** | Cryptic | **8**  | Squeaky    |
+| **4** | Droning | **9**  | Stuttering |
+| **5** | Formal  | **10** | Whispery   |
+
+#### Clothing
+
+|       |         |        |        |
+| ----- | ------- | ------ | ------ |
+| **1** | Antique | **6**  | Frayed |
+| **2** | Bloody  | **7**  | Frumpy |
+| **3** | Elegant | **8**  | Livery |
+| **4** | Filthy  | **9**  | Rancid |
+| **5** | Foreign | **10** | Soiled |
+
+#### Virtue
+
+|       |             |        |           |
+| ----- | ----------- | ------ | --------- |
+| **1** | Ambitious   | **6**  | Honorable |
+| **2** | Cautious    | **7**  | Humble    |
+| **3** | Courageous  | **8**  | Merciful  |
+| **4** | Disciplined | **9**  | Serene    |
+| **5** | Gregarious  | **10** | Tolerant  |
+
+#### Vice
+
+|       |            |        |          |
+| ----- | ---------- | ------ | -------- |
+| **1** | Aggressive | **6**  | Lazy     |
+| **2** | Bitter     | **7**  | Nervous  |
+| **3** | Craven     | **8**  | Rude     |
+| **4** | Deceitful  | **9**  | Vain     |
+| **5** | Greedy     | **10** | Vengeful |
+
+### Starting Gear Tables
+
+#### Armor (d6)
+
+|  d6   | Result                        |
+| :---: | :---------------------------- |
+| **1** | Shield (+1 Armor)             |
+| **2** | Helmet (+1 Armor)             |
+| **3** | Gambeson (+1 Armor)           |
+| **4** | Brigandine (1 Armor, _bulky_) |
+| **5** | Chainmail (2 Armor, _bulky_)  |
+| **6** | Plate (3 Armor, _bulky_)      |
+
+#### Weapons (d6)
+
+|  d6   | Result                                                      |
+| :---: | :---------------------------------------------------------- |
+| **1** | Dagger, Cudgel, Sickle, Staff, etc. (d6 damage)             |
+| **2** | Spear, Sword, Mace, Axe, Flail, etc. (d8 damage)            |
+| **3** | Halberd, War Hammer, Long Sword, etc. (d10 damage, _bulky_) |
+| **4** | Sling (d6 damage)                                           |
+| **5** | Bow (d6 damage, _bulky_)                                    |
+| **6** | Crossbow (d8 damage, _bulky_)                               |
+
+#### Gear (d100)
+
+| #   | Gear                            |
+| --- | ------------------------------- |
+| 1   | Acid                            |
+| 2   | Air Bladder                     |
+| 3   | Alcohol                         |
+| 4   | Antitoxin                       |
+| 5   | Bandages (3 uses)               |
+| 6   | Bell                            |
+| 7   | Blanket                         |
+| 8   | Blanket                         |
+| 9   | Boltcutters                     |
+| 10  | Cage                            |
+| 11  | Caltrops                        |
+| 12  | Candle (3 uses, *petty*)        |
+| 13  | Cards                           |
+| 14  | Cart (+4 slots, *bulky*)        |
+| 15  | Chain (10ft)                    |
+| 16  | Chalk (*petty*)                 |
+| 17  | Chisel                          |
+| 18  | Climbing Spikes                 |
+| 19  | Cloak                           |
+| 20  | Compass                         |
+| 21  | Crowbar                         |
+| 22  | Dice                            |
+| 23  | Disguise Kit (wig, paint, mask) |
+| 24  | Dowsing Rod                     |
+| 25  | Ether                           |
+| 26  | Explosive                       |
+| 27  | Fan                             |
+| 28  | Fiddle                          |
+| 29  | Fire Oil                        |
+| 30  | Fishing Rod                     |
+| 31  | Flash Powder                    |
+| 32  | Flour                           |
+| 33  | Garrotte                        |
+| 34  | Glass Lens                      |
+| 35  | Gloves (*petty*)                |
+| 36  | Glue                            |
+| 37  | Goggles                         |
+| 38  | Grappling Hook                  |
+| 39  | Grease                          |
+| 40  | Hammer                          |
+| 41  | Hammock                         |
+| 42  | Hand Drill                      |
+| 43  | Hemp Rope (50ft)                |
+| 44  | Honey                           |
+| 45  | Horn                            |
+| 46  | Hourglass                       |
+| 47  | Incense                         |
+| 48  | Iron Chain (5ft)                |
+| 49  | Iron Tongs                      |
+| 50  | Ladder (10 ft, *bulky*)         |
+| 51  | Lantern                         |
+| 52  | Large Trap                      |
+| 53  | Lock & Key                      |
+| 54  | Lockpick                        |
+| 55  | Lodestone                       |
+| 56  | Lute                            |
+| 57  | Magnifying Glass                |
+| 58  | Manacles                        |
+| 59  | Marbles                         |
+| 60  | Metal File                      |
+| 61  | Mirror                          |
+| 62  | Mugwort                         |
+| 63  | Net                             |
+| 64  | Oil Can (6 uses)                |
+| 65  | Oilskin Bag                     |
+| 66  | Pail                            |
+| 67  | Parchment & Ink (3 uses)        |
+| 68  | Perfume                         |
+| 69  | Pickaxe                         |
+| 70  | Pipe                            |
+| 71  | Pliers                          |
+| 72  | Poison                          |
+| 73  | Pole (10ft)                     |
+| 74  | Poncho (*petty*)                |
+| 75  | Pulley                          |
+| 76  | Rope (25ft)                     |
+| 77  | Sack                            |
+| 78  | Saw                             |
+| 79  | Scissors                        |
+| 80  | Sealable Bottle                 |
+| 81  | Sedative                        |
+| 82  | Sewing Kit                      |
+| 83  | Sextant                         |
+| 84  | Shovel                          |
+| 85  | Signal Flag                     |
+| 86  | Small Trap                      |
+| 87  | Smokebomb                       |
+| 88  | Smoking Herbs (3 uses)          |
+| 89  | Soap                            |
+| 90  | Songbook                        |
+| 91  | Spiked Boots                    |
+| 92  | Spyglass                        |
+| 93  | Stylus                          |
+| 94  | Tar                             |
+| 95  | Tent (fits 2, *bulky*)          |
+| 96  | Tongs or Pliers                 |
+| 97  | Waterproof Bag                  |
+| 98  | Whetstone                       |
+| 99  | Whistle (*petty*)               |
+| 100 | Wolfsbane                       |
+
+## Optional Gear Packages
 
 ### Fighter
 
@@ -292,8 +509,6 @@ Roll when the party:
 
 ### Thief
 
-#### Starting Gear
-
 * 3d6 Gold Pieces
 * Rations (3 uses)
 * **Lantern**
@@ -306,8 +521,6 @@ Roll when the party:
 
 ### Magic-User
 
-#### Starting Gear
-
 * 3d6 Gold Pieces
 * Rations (3 uses)
 * **Spellbook** (roll d100 on [Spellbooks](#spellbooks-1) table)
@@ -318,230 +531,12 @@ Roll when the party:
 
 ### Cleric
 
-#### Starting Gear
-
 * 3d6 Gold Pieces
 * Rations (3 uses)
 * **Mace** (d8)
 * **Holy Symbol (*petty*)**
 * **Gambeson** (1 Armor)
 * **Bandages** (3 uses)
-
-### 1. Name, Background & Traits
-
-## Character Traits (d10)
-
-### Physique
-
-|       |          |        |            |
-| ----- | -------- | ------ | ---------- |
-| **1** | Athletic | **6**  | Scrawny    |
-| **2** | Brawny   | **7**  | Short      |
-| **3** | Flabby   | **8**  | Statuesque |
-| **4** | Lanky    | **9**  | Stout      |
-| **5** | Rugged   | **10** | Towering   |
-
-### Skin
-
-|       |             |        |           |
-| ----- | ----------- | ------ | --------- |
-| **1** | Birthmarked | **6**  | Soft      |
-| **2** | Marked      | **7**  | Tanned    |
-| **3** | Oily        | **8**  | Tattooed  |
-| **4** | Rosy        | **9**  | Weathered |
-| **5** | Scarred     | **10** | Webbed    |
-
-### Hair
-
-|       |         |        |           |
-| ----- | ------- | ------ | --------- |
-| **1** | Bald    | **6**  | Long      |
-| **2** | Braided | **7**  | Luxurious |
-| **3** | Curly   | **8**  | Oily      |
-| **4** | Filthy  | **9**  | Wavy      |
-| **5** | Frizzy  | **10** | Wispy     |
-
-### Face
-
-|       |           |        |         |
-| ----- | --------- | ------ | ------- |
-| **1** | Bony      | **6**  | Perfect |
-| **2** | Broken    | **7**  | Rakish  |
-| **3** | Chiseled  | **8**  | Sharp   |
-| **4** | Elongated | **9**  | Square  |
-| **5** | Pale      | **10** | Sunken  |
-
-### Speech
-
-|       |         |        |            |
-| ----- | ------- | ------ | ---------- |
-| **1** | Blunt   | **6**  | Gravelly   |
-| **2** | Booming | **7**  | Precise    |
-| **3** | Cryptic | **8**  | Squeaky    |
-| **4** | Droning | **9**  | Stuttering |
-| **5** | Formal  | **10** | Whispery   |
-
-### Clothing
-
-|       |         |        |        |
-| ----- | ------- | ------ | ------ |
-| **1** | Antique | **6**  | Frayed |
-| **2** | Bloody  | **7**  | Frumpy |
-| **3** | Elegant | **8**  | Livery |
-| **4** | Filthy  | **9**  | Rancid |
-| **5** | Foreign | **10** | Soiled |
-
-### Virtue
-
-|       |             |        |           |
-| ----- | ----------- | ------ | --------- |
-| **1** | Ambitious   | **6**  | Honorable |
-| **2** | Cautious    | **7**  | Humble    |
-| **3** | Courageous  | **8**  | Merciful  |
-| **4** | Disciplined | **9**  | Serene    |
-| **5** | Gregarious  | **10** | Tolerant  |
-
-### Vice
-
-|       |            |        |          |
-| ----- | ---------- | ------ | -------- |
-| **1** | Aggressive | **6**  | Lazy     |
-| **2** | Bitter     | **7**  | Nervous  |
-| **3** | Craven     | **8**  | Rude     |
-| **4** | Deceitful  | **9**  | Vain     |
-| **5** | Greedy     | **10** | Vengeful |
-
-
-## Starting Gear Tables
-
-### Armor (d6)
-
-|  d6   | Result                        |
-| :---: | :---------------------------- |
-| **1** | Shield (+1 Armor)             |
-| **2** | Helmet (+1 Armor)             |
-| **3** | Gambeson (+1 Armor)           |
-| **4** | Brigandine (1 Armor, _bulky_) |
-| **5** | Chainmail (2 Armor, _bulky_)  |
-| **6** | Plate (3 Armor, _bulky_)      |
-
-### Weapons (d6)
-
-|  d6   | Result                                                      |
-| :---: | :---------------------------------------------------------- |
-| **1** | Dagger, Cudgel, Sickle, Staff, etc. (d6 damage)             |
-| **2** | Spear, Sword, Mace, Axe, Flail, etc. (d8 damage)            |
-| **3** | Halberd, War Hammer, Long Sword, etc. (d10 damage, _bulky_) |
-| **4** | Sling (d6 damage)                                           |
-| **5** | Bow (d6 damage, _bulky_)                                    |
-| **6** | Crossbow (d8 damage, _bulky_)                               |
-
-### Gear (d100)
-
-| d100  | Gear                            |
-| --- | ------------------------------- |
-| 1   | Acid                            |
-| 2   | Air Bladder                     |
-| 3   | Alcohol                         |
-| 4   | Antitoxin                       |
-| 5   | Bandages (3 uses)               |
-| 6   | Bell                            |
-| 7   | Blanket                         |
-| 8   | Blanket                         |
-| 9   | Boltcutters                     |
-| 10  | Cage                            |
-| 11  | Caltrops                        |
-| 12  | Candle (3 uses, *petty*)        |
-| 13  | Cards                           |
-| 14  | Chain (10ft)                    |
-| 15  | Chalk (*petty*)                 |
-| 16  | Chisel                          |
-| 17  | Compass                         |
-| 18  | Crowbar                         |
-| 19  | Dice                            |
-| 20  | Disguise Kit (wig, paint, mask) |
-| 21  | Dowsing Rod                     |
-| 22  | Ether                           |
-| 23  | Explosive                       |
-| 24  | Fan                             |
-| 25  | Fire Oil                        |
-| 26  | Fishing Rod                     |
-| 27  | Flash Powder                    |
-| 28  | Flour                           |
-| 29  | Garrotte                        |
-| 30  | Glass Lens                      |
-| 31  | Gloves (*petty*)                |
-| 32  | Glue                            |
-| 33  | Goggles                         |
-| 34  | Grappling Hook                  |
-| 35  | Grease                          |
-| 36  | Hammer                          |
-| 37  | Hand Drill                      |
-| 38  | Hemp Rope (50ft)                |
-| 39  | Honey                           |
-| 40  | Horn                            |
-| 41  | Hourglass                       |
-| 42  | Iron Chain (5ft)                |
-| 43  | Iron Tongs                      |
-| 44  | Ladder (10 ft, *bulky*)         |
-| 45  | Lantern                         |
-| 46  | Lock & Key                      |
-| 47  | Lodestone                       |
-| 48  | Magnifying Glass                |
-| 49  | Manacles                        |
-| 50  | Marbles                         |
-| 51  | Mirror                          |
-| 52  | Net                             |
-| 53  | Oil Can (6 uses)                |
-| 54  | Oilskin Bag                     |
-| 55  | Pail                            |
-| 56  | Parchment & Ink (3 uses)        |
-| 57  | Perfume                         |
-| 58  | Pickaxe                         |
-| 59  | Pole (10ft)                     |
-| 60  | Poncho (*petty*)                |
-| 61  | Pulley                          |
-| 62  | Rope (25ft)                     |
-| 63  | Sack                            |
-| 64  | Saw                             |
-| 65  | Scissors                        |
-| 66  | Sealable Bottle                 |
-| 67  | Sedative                        |
-| 68  | Sewing Kit                      |
-| 69  | Sextant                         |
-| 70  | Shovel                          |
-| 71  | Signal Flag                     |
-| 72  | Smoking Herbs (3 uses)          |
-| 73  | Snare Kit (3 traps)             |
-| 74  | Spiked Boots                    |
-| 75  | Spyglass                        |
-| 76  | Stylus                          |
-| 77  | Tar                             |
-| 78  | Tent (fits 2, *bulky*)          |
-| 79  | Tongs or Pliers                 |
-| 80  | Trap (d6 STR damage)            |
-| 81  | Waterproof Bag                  |
-| 82  | Whetstone                       |
-| 83  | Whistle (*petty*)               |
-| 84  | Wolfsbane                       |
-| 85  | Hammock                         |
-| 86  | Mugwort                         |
-| 87  | Pipe                            |
-| 88  | Lute                            |
-| 89  | Metal File                      |
-| 90  | Lockpick                        |
-| 91  | Cloak                           |
-| 92  | Climbing Spikes                 |
-| 93  | Fiddle                          |
-| 94  | Soap                            |
-| 95  |                                 |
-| 96  |                                 |
-| 97  |                                 |
-| 98  |                                 |
-| 99  |                                 |
-| 100 |                                 |
-
-
 
 ## Spellbooks
 
