@@ -279,7 +279,108 @@ Roll when the party:
 
 ### Backgrounds
 
-
+| d100 | Background & Starting Gear                                                      |
+| ---- | ------------------------------------------------------------------------------- |
+| 1    | **Alchemist**: Acid, Glass Lens, Oilskin Bag                                    |
+| 2    | **Apothecary**: Antitoxin, Bandages (3 uses), Sealable Bottle                   |
+| 3    | **Astrologer**: Compass, Spyglass, Hourglass                                    |
+| 4    | **Barber-Surgeon**: Bandages (3 uses), Scissors, Sedative                       |
+| 5    | **Beekeeper**: Gloves (_petty_), Honey, Fire Oil                                |
+| 6    | **Blacksmith**: Hammer, Iron Tongs, Whetstone                                   |
+| 7    | **Boatman**: Pole (10 ft), Rope (25 ft), Waterproof Bag                         |
+| 8    | **Bookbinder**: Parchment & Ink (3 uses), Stylus, Sewing Kit                    |
+| 9    | **Brickmaker**: Chisel, Hammer, Tar                                             |
+| 10   | **Butcher**: Saw, Sack, Bandages (3 uses)                                       |
+| 11   | **Candlemaker**: Candle (3 uses, _petty_), Perfume, Sealable Bottle             |
+| 12   | **Carpenter**: Saw, Hammer, Metal File                                          |
+| 13   | **Cartographer**: Compass, Parchment & Ink (3 uses), Stylus                     |
+| 14   | **Charlatan**: Disguise Kit, Perfume, Cards                                     |
+| 15   | **Chimney Sweep**: Rope (25 ft), Sack, Hammer                                   |
+| 16   | **Cobbler**: Sewing Kit, Pliers, Sack                                           |
+| 17   | **Cook**: Pail, Chisel, Sack                                                    |
+| 18   | **Cooper**: Hammer, Chisel, Rope (25 ft)                                        |
+| 19   | **Courier**: Compass, Whistle (_petty_), Parchment & Ink (3 uses)               |
+| 20   | **Cultist**: Incense, Chisel, Perfume                                           |
+| 21   | **Cutpurse**: Lockpick, Dagger (≈ Small Knife), Cloak                           |
+| 22   | **Ditch Digger**: Shovel, Rope (25 ft), Lantern                                 |
+| 23   | **Dowser**: Dowsing Rod, Sealable Bottle, Shovel                                |
+| 24   | **Drunkard**: Alcohol, Blanket, Metal Cup                                       |
+| 25   | **Duelist**: Whetstone, Cloak, Gloves (_petty_)                                 |
+| 26   | **Entertainer**: Lute, Songbook, Perfume                                        |
+| 27   | **Falconer**: Whistle (_petty_), Gloves (_petty_), Rope (25 ft)                 |
+| 28   | **Farmer**: Shovel, Sack, Rope (25 ft)                                          |
+| 29   | **Fisher**: Fishing Rod, Net, Chisel                                            |
+| 30   | **Fletcher**: Chisel, Whetstone, Sack                                           |
+| 31   | **Gambler**: Dice, Cards, Perfume                                               |
+| 32   | **Gardener**: Gloves (_petty_), Chisel, Sack                                    |
+| 33   | **Glassblower**: Glass Lens, Fan, Pliers                                        |
+| 34   | **Grave Robber**: Crowbar, Lantern, Shovel                                      |
+| 35   | **Gravedigger**: Shovel, Lantern, Rope (25 ft)                                  |
+| 36   | **Guard**: Manacles, Whistle (_petty_), Lantern                                 |
+| 37   | **Hermit**: Blanket, Pail, Pole (10 ft)                                         |
+| 38   | **Herbalist**: Mugwort, Antitoxin, Sack                                         |
+| 39   | **Highway Robber**: Grappling Hook, Rope (25 ft), Poison                        |
+| 40   | **Hunter**: Small Trap, Rope (25 ft), Chisel                                    |
+| 41   | **Illusionist**: Flash Powder, Mirror, Candle (3 uses)                          |
+| 42   | **Innkeeper**: Alcohol, Perfume, Parchment & Ink (3 uses)                       |
+| 43   | **Jeweler**: Magnifying Glass, Pliers, Perfume                                  |
+| 44   | **Jester**: Cards, Lute, Perfume                                                |
+| 45   | **Knight**: Signal Flag, Whetstone, Gloves (_petty_)                            |
+| 46   | **Lamplighter**: Lantern, Oil Can (6 uses), Whistle (_petty_)                   |
+| 47   | **Lawyer**: Parchment & Ink (3 uses), Stylus, Perfume                           |
+| 48   | **Leech Collector**: Sealable Bottle, Net, Gloves (_petty_)                     |
+| 49   | **Locksmith**: Lock & Key, Metal File, Pliers                                   |
+| 50   | **Mason**: Chisel, Hammer, Rope (25 ft)                                         |
+| 51   | **Merchant**: Spyglass, Perfume, Parchment & Ink                                |
+| 52   | **Miller**: Sack, Rope (25 ft), Lantern                                         |
+| 53   | **Miner**: Pickaxe, Lantern, Rope (25 ft)                                       |
+| 54   | **Monk**: Incense, Parchment & Ink (3 uses), Candle (3 uses)                    |
+| 55   | **Musician**: Fiddle, Songbook, Perfume                                         |
+| 56   | **Naturalist**: Spyglass, Net, Stylus                                           |
+| 57   | **Navigator**: Sextant, Compass, Spyglass                                       |
+| 58   | **Orator**: Songbook, Stylus, Perfume                                           |
+| 59   | **Painter**: Stylus, Parchment & Ink (3 uses), Perfume                          |
+| 60   | **Philosopher**: Parchment & Ink (3 uses), Stylus, Perfume                      |
+| 61   | **Physician**: Bandages (3 uses), Sedative, Antitoxin                           |
+| 62   | **Pilgrim**: Pole (10 ft), Poncho (_petty_), Blanket                            |
+| 63   | **Piper**: Pipe, Songbook, Perfume                                              |
+| 64   | **Pirate**: Grappling Hook, Rope (50 ft), Compass                               |
+| 65   | **Plague Doctor**: Ether, Bandages (3 uses), Perfume                            |
+| 66   | **Poet**: Parchment & Ink (3 uses), Songbook, Stylus                            |
+| 67   | **Porter**: Cart (+4 slots, _bulky_), Rope (25 ft), Sack                        |
+| 68   | **Priest**: Incense, Candle (3 uses), Perfume                                   |
+| 69   | **Rat Catcher**: Small Trap, Net, Sack                                          |
+| 70   | **Sailor**: Rope (50 ft), Spyglass, Waterproof Bag                              |
+| 71   | **Scribe**: Parchment & Ink (3 uses), Stylus, Candle (3 uses)                   |
+| 72   | **Sculptor**: Chisel, Hammer, Rope (25 ft)                                      |
+| 73   | **Seamstress**: Sewing Kit, Scissors, Perfume                                   |
+| 74   | **Shepherd**: Whistle (_petty_), Rope (25 ft), Cloak                            |
+| 75   | **Shoemaker**: Pliers, Sewing Kit, Sack                                         |
+| 76   | **Smuggler**: Oilskin Bag, Lock & Key, Rope (25 ft)                             |
+| 77   | **Soldier**: Spiked Boots, Whetstone, Lantern                                   |
+| 78   | **Spy**: Mirror, Disguise Kit, Perfume                                          |
+| 79   | **Street Urchin**: Marbles, Rope (25 ft), Whistle (_petty_)                     |
+| 80   | **Swineherd**: Rope (25 ft), Sack, Whistle (_petty_)                            |
+| 81   | **Tailor**: Sewing Kit, Scissors, Perfume                                       |
+| 82   | **Tanner**: Tar, Gloves (_petty_), Pliers                                       |
+| 83   | **Tax Collector**: Sealable Bottle, Parchment & Ink (3 uses), Whistle (_petty_) |
+| 84   | **Thief**: Lockpick, Grappling Hook, Cloak                                      |
+| 85   | **Thug**: Crowbar, Rope (25 ft), Whistle (_petty_)                              |
+| 86   | **Tinker**: Pliers, Hammer, Oil Can (6 uses)                                    |
+| 87   | **Tomb Raider**: Lantern, Rope (50 ft), Crowbar                                 |
+| 88   | **Torchbearer**: Lantern, Oil Can (6 uses), Rope (25 ft)                        |
+| 89   | **Toymaker**: Chisel, Pliers, Perfume                                           |
+| 90   | **Trapper**: Large Trap, Chisel, Rope (25 ft)                                   |
+| 91   | **Undertaker**: Perfume, Bandages (3 uses), Shovel                              |
+| 92   | **Vagabond**: Poncho (_petty_), Blanket, Rope (25 ft)                           |
+| 93   | **Vintner**: Alcohol, Sealable Bottle, Rope (25 ft)                             |
+| 94   | **Watchman**: Whistle (_petty_), Lantern, Manacles                              |
+| 95   | **Weaver**: Scissors, Rope (25 ft), Perfume                                     |
+| 96   | **Wheelwright**: Hammer, Saw, Metal File                                        |
+| 97   | **Witch**: Wolfsbane, Candle (3 uses), Perfume                                  |
+| 98   | **Witchfinder**: Spyglass, Rope (25 ft), Whistle (_petty_)                      |
+| 99   | **Woodcutter**: Saw, Pickaxe, Rope (25 ft)                                      |
+| 100  | **Yeoman**: Shovel, Rope (25 ft), Sack                                          |
 
 ### Character Traits (d10)
 
