@@ -3,8 +3,8 @@ layout: default
 title: Cairn: Barebones Edition
 parent: Hacks
 nav_order: 8
-search_exclude: True
-nav_exclude: True
+search_exclude: true
+nav_exclude: true
 ---
 
 # Cairn: Barebones Edition
@@ -329,6 +329,7 @@ Roll when the party:
 * **Gambeson** (1 Armor)
 * **Bandages** (3 uses)
 * **Vestments** (_petty_)
+
 
 ## Spellbooks
 
