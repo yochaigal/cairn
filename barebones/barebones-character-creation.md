@@ -348,7 +348,7 @@ Additionally, roll on the following tables for your character's armor, weapons, 
 
 #### Weapons (d8)
 
-|  d8   | Weapons                                                     |
+|  d6   | Weapons                                                     |
 | :---: | :---------------------------------------------------------- |
 | **1** | Dagger, Cudgel, Sickle, Staff, etc. (d6 damage)             |
 | **2** | Spear, Sword, Mace, Axe, Flail, etc. (d8 damage)            |
