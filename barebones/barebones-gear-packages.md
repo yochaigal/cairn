@@ -36,7 +36,7 @@ nav_order: 4
 
 * 3d6 Gold Pieces
 * Rations (3 uses)
-* **Spellbook** (roll d100 on [Spellbooks](#/barebones/barebones-character-creation/#spellbooks) table)
+* **Spellbook** (roll d100 on [Spellbooks](/barebones/barebones-character-creation/#spellbooks) table)
 * **Dagger** (d6)
 * **Torches** (3 uses)
 * **Chalk (*petty*)** and **Parchment (3 uses)**
