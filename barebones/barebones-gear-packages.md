@@ -27,8 +27,8 @@ nav_order: 4
 * Torches (3 uses)
 * **Lockpick** 
 * **Grappling Hook**  
-* **Cloak** (_petty_) 
-* **Lantern**
+* **Caltrops**
+*  **Lantern**
 * **Dagger** (d6)
 * **Oil Can** (6 uses)
 
