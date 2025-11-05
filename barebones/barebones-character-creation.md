@@ -2,7 +2,7 @@
 layout: default
 title: Barebones Character Creation
 parent: Barebones
-nav_order: 8
+nav_order: 2
 ---
 
 # Barebones Character Creation
