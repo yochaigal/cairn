@@ -2,7 +2,6 @@
 layout: default
 title: Barebones Core Rules
 parent: Barebones
-grand_parent: Hacks
 nav_order: 8
 ---
 

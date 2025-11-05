@@ -2,13 +2,12 @@
 layout: default
 title: Barebones Character Creation
 parent: Barebones
-grand_parent: Hacks
 nav_order: 8
 ---
 
 # Barebones Character Creation
 
-## Character Creation
+## Overview
 
 1. Roll for your character’s first and last [Name](#names) as well as **Age** (2d20+10).
 2. Roll for your characters’ [Attributes](#attributes) and [Hit Protection](Hit Protection).
