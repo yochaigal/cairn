@@ -12,8 +12,9 @@ nav_order: 2
 1. Roll for your character’s first and last [Name](#names) as well as **Age** (2d20+10).
 2. Roll for your characters’ [Attributes](#attributes) and [Hit Protection](Hit Protection).
 3. Roll for your character’s [Traits](#traits).
-4. Roll for your character's [Background](#background) and starting gear.
-5. Roll for the rest of your character's [Weapon & Armor](#weapon-and-armor). 
+4. Roll for your character's [Background](#background) and related items.
+5. Roll for your character's [Weapon & Armor](#weapon-and-armor). 
+6. Roll for an [additional gear](#additional-gear) to complete your starting equipment. 
 
 ### Names
 
@@ -230,22 +231,22 @@ nav_order: 2
 |      |                                                                                 |
 | :--: | :------------------------------------------------------------------------------ |
 | d100 | Background & Starting Gear                                                      |
-|  1   | **Alchemist**: Acid, Lens, Oilskin Bag                                          |
-|  2   | **Acolyte**: Parchment & Ink (3 uses), [Spellbook](#spellbooks), Incense        |
+|  1   | **Acolyte**: Parchment & Ink (3 uses), [Spellbook](#spellbooks), Incense        |
+|  2   | **Acrobat**: Pole (10ft), Rope (25ft), Smokebomb                                |
 |  3   | **Alchemist**: Acid, Lens, Oilskin Bag                                          |
-|  4   | **Apothecary**: Antitoxin, Bandages (3 uses), Sealable Bottle                   |
-|  5   | **Artisan**: Chisel, Hammer, Rope (25 ft)                                       |
-|  6   | **Astrologer**: Compass, Spyglass, Hourglass                                    |
-|  7   | **Barber-Surgeon**: Bandages (3 uses), Scissors, Sedative                       |
-|  8   | **Beadle**: Bell, Whistle (*petty*), Manacles                                   |
-|  9   | **Beekeeper**: Gloves (*petty*), Honey, Fire Oil                                |
-|  10  | **Bell Ringer**: Rope (25 ft), Gloves (*petty*), Whistle (*petty*)              |
-|  11  | **Bird Keeper**: Net, Whistle (*petty*), Sack                                   |
-|  12  | **Blacksmith**: Hammer, Iron Tongs, Whetstone                                   |
-|  13  | **Boatman**: Pole (10 ft), Rope (25 ft), Waterproof Bag                         |
-|  14  | **Bookbinder**: Parchment & Ink (3 uses), Stylus, Sewing Kit                    |
-|  15  | **Bounty Hunter**: Manacles, Rope (25 ft), Whistle (*petty*)                    |
-|  16  | **Brickmaker**: Chisel, Hammer, Tar                                             |
+|  4   | **Alchemist**: Acid, Lens, Oilskin Bag                                          |
+|  5   | **Apothecary**: Antitoxin, Bandages (3 uses), Sealable Bottle                   |
+|  6   | **Artisan**: Chisel, Hammer, Rope (25 ft)                                       |
+|  7   | **Astrologer**: Compass, Spyglass, Hourglass                                    |
+|  8   | **Barber-Surgeon**: Bandages (3 uses), Scissors, Sedative                       |
+|  9   | **Beadle**: Bell, Whistle (*petty*), Manacles                                   |
+|  10  | **Beekeeper**: Gloves (*petty*), Honey, Fire Oil                                |
+|  11  | **Bell Ringer**: Rope (25 ft), Gloves (*petty*), Whistle (*petty*)              |
+|  12  | **Bird Keeper**: Net, Whistle (*petty*), Sack                                   |
+|  13  | **Blacksmith**: Hammer, Iron Tongs, Whetstone                                   |
+|  14  | **Boatman**: Pole (10 ft), Rope (25 ft), Waterproof Bag                         |
+|  15  | **Bookbinder**: Parchment & Ink (3 uses), Stylus, Sewing Kit                    |
+|  16  | **Bounty Hunter**: Manacles, Rope (25 ft), Whistle (*petty*)                    |
 |  17  | **Butcher**: Saw, Sack, Bandages (3 uses)                                       |
 |  18  | **Candlemaker**: Candle (3 uses, *petty*), Perfume, Sealable Bottle             |
 |  19  | **Carpenter**: Saw, Hammer, Metal File                                          |
@@ -290,7 +291,7 @@ nav_order: 2
 |  58  | **Leech Collector**: Sealable Bottle, Net, Gloves (*petty*)                     |
 |  59  | **Librarian**: Parchment & Ink (3 uses), Stylus, Candle (3 uses)                |
 |  60  | **Locksmith**: Lock & Key, Metal File, Pliers                                   |
-|  61  | **Lumberjack**: Pickaxe, Rope (25 ft), Spiked Boots                             |
+|  61  | **Lumberjack**: Saw, Whetstone, Rope (25 ft)                                    |
 |  62  | **Mason**: Chisel, Hammer, Rope (25 ft)                                         |
 |  63  | **Merchant**: Spyglass, Perfume, Parchment & Ink                                |
 |  64  | **Miller**: Sack, Rope (25 ft), Lantern                                         |
