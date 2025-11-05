@@ -229,7 +229,7 @@ Roll on the following table to determine your character's background and startin
 |  3   | **Alchemist**: Acid, Lens, Oilskin Bag                                                       |
 |  4   | **Apothecary**: Antitoxin, Bandages (3 uses), Sealable Bottle                                |
 |  5   | **Artisan**: Chisel, Hammer, Rope (25 ft)                                                    |
-|  6   | **Astrologer**: Compass, Spyglass, Hourglass                                                 |
+|  6   | **Astrologer**: Candle (3 uses), Marbles, Hourglass                                          |
 |  7   | **Baker**: Flour, Sealable Bottle, Honey                                                     |
 |  8   | **Barber-Surgeon**: Bandages (3 uses), Scissors, Sedative                                    |
 |  9   | **Beadle**: Bell, Whistle (_petty_), Manacles                                                |
@@ -241,9 +241,9 @@ Roll on the following table to determine your character's background and startin
 |  15  | **Bounty Hunter**: Manacles, Rope (25 ft), Whistle (_petty_)                                 |
 |  16  | **Butcher**: Saw, Sack, Bandages (3 uses)                                                    |
 |  17  | **Carpenter**: Saw, Hammer, Metal File                                                       |
-|  18  | **Cartographer**: Compass, Parchment & Ink (3 uses), Stylus                                  |
+|  18  | **Cartographer**: Compass, Parchment & Ink (3 uses), Sextant                                 |
 |  19  | **Cartwright**: Saw, Hand Drill, Pulley                                                      |
-|  20  | **Chandler**: Candle (3 uses, _petty_), Perfume, Sealable Bottle                             |
+|  20  | **Chandler**: Candle (3 uses), Perfume, Sealable Bottle                                      |
 |  21  | **Charlatan**: Paint, Perfume, Cards                                                         |
 |  22  | **Chimney Sweep**: Rope (25 ft), Climbing Spikes, Hammer                                     |
 |  23  | **Clockmaker**: Metal File, Magnifying Glass, Stylus                                         |
@@ -258,7 +258,7 @@ Roll on the following table to determine your character's background and startin
 |  32  | **Drunkard**: Alcohol, Blanket, Metal Cup                                                    |
 |  33  | **Duelist**: Whetstone, Cloak (_petty_), Gloves (_petty_)                                    |
 |  34  | **Entertainer**: Songbook, Dice, Wig                                                         |
-|  35  | **Executioner**: Cloak (_petty_), Poison, Rope (25 ft)                                       |
+|  35  | **Executioner**: Mask, Poison, Rope (25 ft)                                       |
 |  36  | **Falconer**: Whistle (_petty_), Gloves (_petty_), Rope (25 ft)                              |
 |  37  | **Farmer**: Shovel, Sack, Rope (25 ft)                                                       |
 |  38  | **Fence**: Smokebomb, Sack, Bolt Cutters                                                     |
@@ -271,7 +271,7 @@ Roll on the following table to determine your character's background and startin
 |  45  | **Gravedigger**: Shovel, Lantern, Oil Can (6 uses)                                           |
 |  46  | **Graverobber**: Shovel, Crowbar, Lantern                                                    |
 |  47  | **Guard**: Manacles, Whistle (_petty_), Lantern                                              |
-|  48  | **Herald**: Signal Flag, Wig, Whistle (_petty_)                                              |
+|  48  | **Herald**: Signal Flag, Mask, Whistle (_petty_)                                             |
 |  49  | **Herbalist**: Mugwort, Antitoxin, Sack                                                      |
 |  50  | **Hermit**: Blanket, Smoking Herbs (3 uses), Pole (10 ft)                                    |
 |  51  | **Highway Robber**: Grappling Hook, Rope (25 ft), Signal Flag                                |
@@ -287,7 +287,7 @@ Roll on the following table to determine your character's background and startin
 |  61  | **Librarian**: Parchment & Ink (3 uses), Stylus, Candle (3 uses)                             |
 |  62  | **Locksmith**: Lock & Key, Metal File, Pliers                                                |
 |  63  | **Lumberjack**: Saw, Whetstone, Rope (25 ft)                                                 |
-|  64  | **Mason**: Chisel, Hammer, Rope (25 ft)                                                      |
+|  64  | **Mason**: Chisel, Hammer, Fan                                                               |
 |  65  | **Merchant**: Magnifying Glass, Wagon (+8 slots, slow), Parchment & Ink                      |
 |  66  | **Miller**: Sack, Rope (25 ft), Lantern                                                      |
 |  67  | **Miner**: Pickaxe, Lantern, Lodestone                                                       |
@@ -301,9 +301,9 @@ Roll on the following table to determine your character's background and startin
 |  75  | **Philosopher**: Pipe, Chalk (_petty_), Candle (3 uses_)                                     |
 |  76  | **Physician**: Bandages (3 uses), Sedative, Antitoxin                                        |
 |  77  | **Pilgrim**: Pole (10 ft), Poncho (_petty_), Blanket                                         |
-|  78  | **Priest**: Incense, Candle (3 uses), Incense                                                |
+|  78  | **Priest**: Incense, Candle (3 uses), Bandages (3 uses)                                      |
 |  79  | **Prospector**: Pickaxe, Lantern, Compass                                                    |
-|  80  | **Rat Catcher**: Small Trap, Net, Sack                                                       |
+|  80  | **Rat Catcher**: Small Trap, Whistle (_petty_), Sack                                                       |
 |  81  | **Sailor**: Rope (50 ft), Spyglass, Hammock                                                  |
 |  82  | **Scribe**: Parchment & Ink (3 uses), Stylus, Candle (3 uses)                                |
 |  83  | **Shepherd**: Whistle (_petty_), Rope (25 ft), Cloak (_petty_)                               |
@@ -317,7 +317,7 @@ Roll on the following table to determine your character's background and startin
 |  91  | **Tax Collector**: Sealable Bottle, Parchment & Ink (3 uses), Whistle (_petty_)              |
 |  92  | **Thief**: Lockpick, Grappling Hook, Caltrops                                                |
 |  93  | **Tinker**: Pliers, Hammer, Grease                                                           |
-|  94  | **Toll Keeper**: Bell, Lock & Key, Parchment & Ink (3 uses)                                  |
+|  94  | **Toll Keeper**: Bell, Lock & Key, Waterproof Bag                                            |
 |  95  | **Toymaker**: Chisel, Pliers, Glue                                                           |
 |  96  | **Vagabond**: Poncho (_petty_), Blanket, Rope (25 ft)                                        |
 |  97  | **Vintner**: Alcohol, Sealable Bottle, Rope (25 ft)                                          |
