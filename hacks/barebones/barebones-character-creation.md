@@ -1,256 +1,126 @@
 ---
 layout: default
-title: Barebones Edition
-parent: Hacks
+title: Barebones Character Creation
+parent: Barebones
+grand_parent: Hacks
 nav_order: 8
 ---
 
-# Barebones Edition
-
-## Core Rules
-
-## Attributes
-
-Each Attribute is used in different circumstances (see **Saves**):
-
-* **STR**: lifting/bending, forcing doors, resisting poison, enduring harm, melee exertion.
-* **DEX**: dodging, balancing, climbing, stealth, delicate tasks, ranged finesse.
-* **WIL**: persuading, deceiving, intimidating, perception under stress, spell manipulation.
-
-## Saves
-
-* A **save** is a roll to avoid negative outcomes from risky choices. Roll **d20** and compare to the appropriate Attribute. If you roll **equal to or under** that Attribute, you succeed; otherwise, you fail. A **1** is always a success, and a **20** is always a failure.
-* If two opponents are each trying to overcome the other, **whoever is most at risk** should save.
-* If two characters act together, **whoever is most at risk** should save (usually the character with the lowest relevant Attribute).
-
-## Healing & Recovery
-
-* **Short rest** (a few moments and a drink of water) restores lost **HP** but may leave the party exposed. **Bandages** can stabilize a character that has taken critical damage.
-* **Attribute loss** (see **Critical Damage**) is usually restored with a **week’s rest**, facilitated by a healer or appropriate expertise.
-* Some healing services are free; magical or expedient methods may come at a cost.
-
-## Deprivation & Fatigue
-
-* A PC lacking a crucial need (food, rest, warmth) is **Deprived**. Anyone **Deprived** for more than a day adds **Fatigue** to their inventory, one per day. A **Deprived** PC cannot recover HP, Attributes, or slots from **Fatigue**.
-* PCs may also gain **Fatigue** after casting spells or due to events in the fiction. Each Fatigue fills **one slot** and lasts until the PC can recuperate (e.g., a full night’s rest in a safe place).
-* If a character must add Fatigue and has no free slots, they must **drop an item**.
-
-## Armor
-
-* Before applying damage to **HP**, subtract the target’s **Armor** from the damage roll.
-* Shields and similar items provide a **+1 Armor** bonus while held/worn; some may have additional benefits, depending on the fiction.
-* Armor caps at **3**.
-
-## Reactions
-
-When the PCs encounter an NPC whose reaction isn’t obvious, roll **2d6**:
-
-| 2       | 3–5  | 6–8     | 9–11 | 12      |
-| - | - | - | - | - |
-| Hostile | Wary | Curious | Kind | Helpful |
-
-## Morale
-
-* Enemies must pass a **WIL save** to avoid fleeing when they take their **first casualty** and again when they lose **half** their number.
-* Some groups may use their **leader’s WIL** in place of their own. Lone foes must save when they’re **reduced to 0 HP**.
-* Morale does not affect PCs.
-
-## Hirelings
-
-* Parties can recruit **hirelings** for their skills and aid.
-* Create a hireling by choosing a role from the Marketplace, rolling **3d6** for each Attribute and **1d6** for HP, giving appropriate equipment, then rolling on the Character Traits tables to flesh them out.
-* Alternatively, choose a background and name from Character Creation, then roll (or choose) for that background’s tables; roll Rations, Gold, Attributes, HP, and Age.
-
-## Die of Fate
-
-* Optionally roll **1d6** when an outcome is uncertain or to simulate randomness.
-* **4–6** generally favors the PCs; **1–3** usually favors the world.
-
-## Combat
-
-### Rounds
-
-* A **Round** is roughly ten seconds of in-game time and proceeds with each side taking turns. Each round starts with any PC able to act, followed by their opponents. **Results resolve simultaneously.**
-* During the **first round of combat**, each PC must make a **DEX save** to act. Special circumstances, abilities, items, or skills may negate this. PCs who fail **lose their turn** for round one.
-* Then opponents act; the next round begins with PCs, and so on until one side is defeated or flees.
-
-### Actions
-
-On their turn, a character may move up to **40 ft** and take **one action** (cast a spell, attack, move again, interact, etc.). PCs declare actions before dice are rolled. If an action is risky, the Warden calls for saves.
-
-### Attacking & Damage
-
-* **Attacks automatically hit**; roll your weapon’s damage, subtract **Armor**, then apply the remainder to **HP**.
-* If multiple attackers target the same foe, roll all damage dice and **keep the highest single result**. All actions are declared before resolution.
-* If an attack would reduce a PC’s HP **exactly to 0**, roll on **[Scars](#scars-table)**.
-
-### Attack Modifiers
-
-* **Impaired**: If fighting from a position of weakness (cover, bound hands, chaos), roll **1d4** damage regardless of weapon. Unarmed attacks are **d4**.
-* **Enhanced**: If fighting from a position of clear advantage (helpless foe, ambush, daring maneuver), roll **1d12** damage instead of the normal die.
-* **Blast**: Affects all targets in an area; roll separately for each. If unsure how many targets can be affected, roll the related damage die for a count.
-* **Two-Weapon**: Roll both damage dice and keep the highest (e.g., **d8+d8**).
-
-### Critical Damage
-
-* Damage that reduces HP **below 0** is subtracted from **STR** by the amount remaining. The target must immediately make a **STR save** (using the new STR) to avoid **Critical Damage**.
-
-  * **Failure**: the target is down, bleeding out, and dies within an hour without aid.
-  * **Success**: the target stays in the fight (with reduced STR) but must keep saving if further damage reaches STR again.
-* **Bandages** immediately stop bleeding and restore **+1 STR**.
-* NPCs/monsters that fail a Critical Damage save are typically **dead** (Warden’s discretion). Some enemies may trigger special effects when a target fails a Critical Damage save.
-
-### Attribute Loss
-
-* Damage outside combat typically reduces an Attribute (often **STR**).
-* **STR 0** = death. **DEX 0** = paralyzed. **WIL 0** = delirious.
-* Complete **DEX** or **WIL** loss renders the character unable to act until restored by extended rest or extraordinary means.
-
-### Character Death
-
-* When a character dies, the player creates a new character or takes control of a hireling, joining the party immediately to minimize downtime.
-
-### Detachments
-
-* Large groups of similar combatants function as a single **Detachment**. When a detachment takes **Critical Damage**, it routs or is significantly weakened. At **0 STR**, it is destroyed.
-* Attacks **against** detachments by individuals are **Impaired** (except **Blast**). Attacks **by** detachments against individuals are **Enhanced** and deal **Blast** damage.
-
-### Retreat
-
-* Running from danger requires a successful **DEX save** and a safe destination.
-
-### Ranged Attacks
-
-* Ranged weapons can target any enemy within clear sight (close dungeon ranges). Attacks against **especially distant** targets are **Impaired**.
-* Ammunition isn’t tracked unless specified.
-
-## Scars
-
-If damage would reduce a PC’s HP to **exactly 0**, consult the table based on **HP lost in that attack** (e.g., from 3 HP to 0 → entry #3).
-
-### Scars Table
-
-| **HP Lost** | **Result**                                                                                                                                   |
-| -- | -- |
-| 1           | **Lasting Scar**: Roll 1d6. 1 Neck, 2 Hands, 3 Eye, 4 Chest, 5 Legs, 6 Ear. Roll 1d6; if the total exceeds your max HP, take the new result. |
-| 2           | **Rattling Blow**: You’re shaken; describe how you refocus. Roll 1d6; if higher than your max HP, take it as new max.                        |
-| 3           | **Walloped**: You’re sent flying; you’re **Deprived** until resting a few hours. Then roll 1d6 and add to max HP.                            |
-| 4           | **Broken Limb**: Roll 1d6 (1–2 Leg, 3–4 Arm, 5 Rib, 6 Skull). Once mended, roll 2d6; if higher than max HP, take it.                         |
-| 5           | **Diseased**: Gross infection. When you recover, roll 2d6; if higher than max HP, take it.                                                   |
-| 6           | **Head Wound**: Roll 1d6 (1–2 STR, 3–4 DEX, 5–6 WIL). Roll 3d6; if higher than current attribute, take it.                                   |
-| 7           | **Hamstrung**: You can barely move until serious help and rest. After recovery, roll 3d6; if higher than max DEX, take it.                   |
-| 8           | **Deafened**: Cannot hear until extraordinary aid. Make a WIL save; if you pass, increase max WIL by 1d4.                                    |
-| 9           | **Re-brained**: A hidden psyche shifts. Roll 3d6; if higher than max WIL, take it.                                                           |
-| 10          | **Sundered**: An appendage is ruined (Warden chooses). Make a WIL save; if you pass, increase max WIL by 1d6.                                |
-| 11          | **Mortal Wound**: You are Deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6; take as new max HP.        |
-| 12          | **Doomed**: If your next Critical Damage save fails, you die horribly. If it succeeds, roll 3d6; if higher than max HP, take it.             |
-
-## Magic
-
-### Spellbooks
-
-* **Spellbooks** contain a single spell and take **one slot**. They cannot be easily transcribed or created; they’re recovered from tombs, dungeons, and manors.
-* Spellbooks often have unusual properties (moon-ink, whispers, intelligent margins) and attract attention.
-
-### Casting Spells
-
-* **Anyone** can cast by holding a Spellbook in **both hands** and reading aloud; then **add 1 Fatigue**.
-* With **time and safety**, a spell can be **enhanced** (more targets, greater effect) at **no additional cost**.
-* If **Deprived** or in **danger** (e.g., combat), the Warden may require a **WIL save** to avoid ill effects. On failure, consequences match the intended scale: extra **Fatigue**, destroyed Spellbook, injury, even death.
-
-### Scrolls
-
-* **Petty**, **single-use**, **no Fatigue**, crumbles after use.
-
-### Relics
-
-* Items imbued with magical power. Do **not** cause Fatigue. Usually limited uses and a **Recharge** condition.
-
-## Dungeon Exploration
-
-### The Basics
-
-* The dungeon exploration cycle (see below) is divided into a series of **Turns**, **Actions**, and their consequences.
-* On their **turn**, a character can move a distance equal to their torchlight’s perimeter (**~40 ft**) and perform one **action**. Players can use their **action** to move up to **three times** that distance, though that will increase the chance of triggering a roll on the **[Dungeon Events](#dungeon-events)** table.
-* The **Warden** should present obvious information about an area and its dangers freely and at no cost. Moving quickly or without caution may increase the chance of a wandering monster, springing a trap, or triggering **Dungeon Events**.
-
-> “Dungeon” can be any dangerous locale: mansions, farmhouses, ruins, ships, temples, etc.
-
-### Dungeon Exploration Cycle
-
-1. The **Warden** describes surroundings and any immediate dangers (combat, traps, surprises). Players declare movement and **actions**.
-2. The Warden resolves **actions** simultaneously, including any already in progress. The **Die of Fate** is useful when in doubt.
-3. Players record resource loss and new conditions (item use, **Deprivation**, etc.). The cycle repeats. If appropriate, the **Warden** rolls on **[Dungeon Events](#dungeon-events)**. Use common sense when interpreting results.
-
-### Dungeon Events
-
-Roll when the party:
-
-* Spends more than one cycle in a single room/location
-* Moves quickly or haphazardly
-* Enters a new area/level/zone
-* Creates a loud disturbance
-
-|  d6 |      Result     | Effect                                                                              |
-| :-: | :-: | :- |
-|  1  |  **Encounter**  | Roll on a local encounter table; may be **hostile** (see **Reactions**).            |
-|  2  |     **Sign**    | Clue/spoor/track, abandoned lair, scent, victim, etc.                               |
-|  3  | **Environment** | Conditions shift or escalate (water rises, ceilings crumble, rituals progress).     |
-|  4  |     **Loss**    | Torches blown out, ongoing spell fizzles, etc. Resolve before proceeding.           |
-|  5  |  **Exhaustion** | Party must rest (trigger another event roll), add **Fatigue**, or consume a ration. |
-|  6  |    **Quiet**    | The party is left alone—for now.                                                    |
-
-### Actions
-
-* **Actions** include *searching for traps*, *forcing a door*, *listening*, *disarming*, *engaging in combat*, *casting a spell*, *dodging a trap*, *running away*, *resting*, etc.
-* Some actions have special rules (below) or take multiple **turns**.
-* Loud/noticeable actions may trigger an **Encounter**.
-
-#### Searching
-
-* Spend a **turn** to exhaustively search **one** object or location, revealing hidden treasure, traps, secret doors, etc.
-* Larger or complex spaces may take multiple **turns**.
-* Searching first is safer—but it costs **time**.
-
-#### Resting
-
-* Spend a **turn** to **restore all HP**.
-* Requires light and a **safe location**. Present or oncoming danger makes resting impossible.
-* **Resting does not clear Fatigue**; it is impossible to safely Make Camp in a dungeon.
-
-## Panic
-
-* A character surrounded by enemies, plunged into darkness, or facing a greatest fear may suffer **panic**. Typically, a **WIL save** is required to avoid becoming **panicked**.
-* A **panicked** character may spend their **action** to save (WIL) and recover.
-* A **panicked** character has **0 HP**, does not act in the **first round of combat**, and all of their attacks are **Impaired**.
-
-### Dungeon Elements
-
-#### Light
-
-* Torches illuminate **~40 ft** clearly; beyond that, only dim shapes.
-* A torch can be lit **3** times before it’s spent. A lantern can be relit **6** times per oil can but uses more slots.
-* Characters without light may suffer **panic** until conditions improve.
-
-#### Doors
-
-* Doors may be locked, stuck, or blocked. Characters can force, wedge, or work around doors with appropriate means (spikes, glue, leverage) or raw ability.
-* **Marching order** determines who suffers whatever lies beyond.
-* Careful observation (listening, smelling) can reveal signs through doors and walls.
-
-#### Traps
-
-* Cautious characters should be given information allowing them to **avoid** traps. Unwary characters trigger traps per the fiction, or else on **2-in-6**.
-* **Searching** usually detects traps.
-* Trap damage typically applies to **Attributes** (often **STR** or **DEX**), **not** HP. Armor reduces damage only when applicable (a shield won’t help vs noxious gas).
+# Barebones Character Creation
 
 ## Character Creation
 
-### Attributes, Hit Protection, and Traits
+1. Roll for your character’s first and last [Name](#names) as well as **Age** (2d20+10).
+2. Roll for your characters’ [Attributes](#attributes) and [Hit Protection](Hit Protection).
+3. Roll for your character’s [Traits](#traits).
+4. Roll for your character's [Background](#background) and starting gear.
+5. Roll for the rest of your character's [Weapon & Armor](#weapon-and-armor). 
 
-* Roll for your Characters’ **Attributes** and **Hit Protection**.
-* Roll for the rest of your character’s [Background](#backgrounds).
-* Finally, roll for your character’s **Age** (2d20+10).
+### Names
+
+| d100 | Name     | Surname     |
+| ---- | -------- | ----------- |
+| 1    | Adair    | Abbot       |
+| 2    | Alaric   | Addyman     |
+| 3    | Alder    | Ashwell     |
+| 4    | Amaris   | Balfe       |
+| 5    | Anwen    | Baxter      |
+| 6    | Arlo     | Bevan       |
+| 7    | Ash      | Beran       |
+| 8    | Aster    | Blackwood   |
+| 9    | Ballad   | Bowen       |
+| 10   | Barley   | Brewer      |
+| 11   | Basil    | Broder      |
+| 12   | Beatrix  | Bukharin    |
+| 13   | Birch    | Cadwallan   |
+| 14   | Bram     | Carter      |
+| 15   | Briar    | Cobb        |
+| 16   | Brook    | Collier     |
+| 17   | Bryn     | Cooper      |
+| 18   | Cai      | Crowther    |
+| 19   | Callan   | Dempsey     |
+| 20   | Carver   | Dermody     |
+| 21   | Cedric   | Domański    |
+| 22   | Cinder   | Dymov       |
+| 23   | Cliff    | Fairweather |
+| 24   | Corin    | Fedorov     |
+| 25   | Crow     | Fletcher    |
+| 26   | Dain     | Fuller      |
+| 27   | Darnel   | Galen       |
+| 28   | Dax      | Glinka      |
+| 29   | Dorian   | Glover      |
+| 30   | Eira     | Golubov     |
+| 31   | Elowen   | Gradnik     |
+| 32   | Ember    | Granger     |
+| 33   | Eon      | Grobar      |
+| 34   | Evander  | Halberg     |
+| 35   | Falcon   | Harkin      |
+| 36   | Faris    | Hlebar      |
+| 37   | Fern     | Hromada     |
+| 38   | Finch    | Horgan      |
+| 39   | Flint    | Iliev       |
+| 40   | Freya    | Ivanec      |
+| 41   | Gale     | Joryn       |
+| 42   | Garen    | Kamensk     |
+| 43   | Hazel    | Kavanagh    |
+| 44   | Hemlock  | Kovac       |
+| 45   | Idris    | Kovalenko   |
+| 46   | Ivy      | Kravec      |
+| 47   | Juniper  | Krznar      |
+| 48   | Kael     | Kuchar      |
+| 49   | Kavi     | Kvasnikov   |
+| 50   | Keir     | Lethbridge  |
+| 51   | Leif     | Llewellyn   |
+| 52   | Liora    | Locke       |
+| 53   | Lucan    | Lovett      |
+| 54   | Lyra     | Lukanov     |
+| 55   | Lysander | Maddox      |
+| 56   | Marius   | Malinov     |
+| 57   | Marlowe  | Marinov     |
+| 58   | Milo     | Markov      |
+| 59   | Moss     | Mason       |
+| 60   | Nazira   | Melnik      |
+| 61   | Neria    | Mercer      |
+| 62   | Noa      | Milner      |
+| 63   | Nyx      | Morozov     |
+| 64   | Onyx     | Novak       |
+| 65   | Orla     | Obradov     |
+| 66   | Pan      | O’Callaghan |
+| 67   | Patch    | O’Farrell   |
+| 68   | Perran   | O’Leary     |
+| 69   | Quill    | Osipov      |
+| 70   | Rain     | Pavlenko    |
+| 71   | Reed     | Pekar       |
+| 72   | River    | Petrov      |
+| 73   | Robin    | Pisarev     |
+| 74   | Rowan    | Powell      |
+| 75   | Rune     | Price       |
+| 76   | Rush     | Radoslav    |
+| 77   | Rye      | Reeve       |
+| 78   | Sable    | Rogov       |
+| 79   | Sage     | Romanov     |
+| 80   | Selene   | Rowanfield  |
+| 81   | Shade    | Rybak       |
+| 82   | Silas    | Sawyer      |
+| 83   | Sky      | Shepherd    |
+| 84   | Soren    | Shevchenko  |
+| 85   | Sparrow  | Slater      |
+| 86   | Stellan  | Smirnov     |
+| 87   | Stone    | Sokolov     |
+| 88   | Storm    | Tanner      |
+| 89   | Talon    | Thatcher    |
+| 90   | Thistle  | Tallow      |
+| 91   | Thorn    | Vukovic     |
+| 92   | Thresh   | Webb        |
+| 93   | Valen    | Whitlock    |
+| 94   | Vesper   | Wicklowe    |
+| 95   | Vex      | Wightman    |
+| 96   | Willow   | Wilkin      |
+| 97   | Winslow  | Wright      |
+| 98   | Wisp     | Wynne       |
+| 99   | Wren     | Yarrow      |
+| 100  | Yarrow   | Zidar       |
+
 
 ### Attributes
 
@@ -273,114 +143,9 @@ Roll when the party:
 
 * Most items take up **one** slot unless otherwise indicated.
 * *Petty* items do **not** take up any slots. *Bulky* items take up **two** slots.
-* A bag of coins worth **<100gp** is *petty* and does not occupy a slot.
+* A bag of coins worth **100gp** is *petty* and does not occupy a slot.
 
-## Character Creation
-
-| d100 | Background & Starting Gear                                                      |
-| ---- | ------------------------------------------------------------------------------- |
-| 1    | **Alchemist**: Acid, Glass Lens, Oilskin Bag                                    |
-| 2    | **Apothecary**: Antitoxin, Bandages (3 uses), Sealable Bottle                   |
-| 3    | **Apprentice**: Hammer, Chisel, Rope (25 ft)                                    |
-| 4    | **Archivist**: Parchment & Ink, Candle, Stylus                                  |
-| 5    | **Artisan**: Chisel, Hammer, Rope (25 ft)                                       |
-| 6    | **Astrologer**: Compass, Spyglass, Hourglass                                    |
-| 7    | **Barber-Surgeon**: Bandages (3 uses), Scissors, Sedative                       |
-| 8    | **Beadle**: Bell, Whistle (*petty*), Manacles                                   |
-| 9    | **Beekeeper**: Gloves (*petty*), Honey, Fire Oil                                |
-| 10   | **Bell Ringer**: Rope (25 ft), Gloves (*petty*), Whistle (*petty*)              |
-| 11   | **Bird Keeper**: Net, Whistle (*petty*), Sack                                   |
-| 12   | **Blacksmith**: Hammer, Iron Tongs, Whetstone                                   |
-| 13   | **Boatman**: Pole (10 ft), Rope (25 ft), Waterproof Bag                         |
-| 14   | **Bookbinder**: Parchment & Ink (3 uses), Stylus, Sewing Kit                    |
-| 15   | **Bounty Hunter**: Manacles, Rope (25 ft), Whistle (*petty*)                    |
-| 16   | **Brickmaker**: Chisel, Hammer, Tar                                             |
-| 17   | **Butcher**: Saw, Sack, Bandages (3 uses)                                       |
-| 18   | **Candlemaker**: Candle (3 uses, *petty*), Perfume, Sealable Bottle             |
-| 19   | **Carpenter**: Saw, Hammer, Metal File                                          |
-| 20   | **Cartographer**: Compass, Parchment & Ink (3 uses), Stylus                     |
-| 21   | **Cartwright**: Saw, Hammer, Metal File                                         |
-| 22   | **Charlatan**: Disguise Kit, Perfume, Cards                                     |
-| 23   | **Chimney Sweep**: Rope (25 ft), Sack, Hammer                                   |
-| 24   | **Clockmaker**: Metal File, Magnifying Glass, Stylus                            |
-| 25   | **Cobbler**: Sewing Kit, Pliers, Sack                                           |
-| 26   | **Cook**: Pail, Chisel, Sack                                                    |
-| 27   | **Courier**: Compass, Whistle (*petty*), Parchment & Ink (3 uses)               |
-| 28   | **Crypt Keeper**: Shovel, Lantern, Perfume                                      |
-| 29   | **Cultist**: Incense, Chisel, Perfume                                           |
-| 30   | **Dowser**: Dowsing Rod, Sealable Bottle, Shovel                                |
-| 31   | **Drunkard**: Alcohol, Blanket, Metal Cup                                       |
-| 32   | **Duelist**: Whetstone, Cloak, Gloves (*petty*)                                 |
-| 33   | **Entertainer**: Lute, Songbook, Perfume                                        |
-| 34   | **Executioner**: Cloak, Whetstone, Rope (25 ft)                                 |
-| 35   | **Falconer**: Whistle (*petty*), Gloves (*petty*), Rope (25 ft)                 |
-| 36   | **Farmer**: Shovel, Sack, Rope (25 ft)                                          |
-| 37   | **Fence**: Lock & Key, Sack, Perfume                                            |
-| 38   | **Fisher**: Fishing Rod, Net, Chisel                                            |
-| 39   | **Fletcher**: Chisel, Whetstone, Sack                                           |
-| 40   | **Gambler**: Dice, Cards, Perfume                                               |
-| 41   | **Gardener**: Gloves (*petty*), Chisel, Sack                                    |
-| 42   | **Glassblower**: Glass Lens, Fan, Pliers                                        |
-| 43   | **Gong Farmer**: Shovel, Sack, Oilskin Bag                                      |
-| 44   | **Grain Merchant**: Sack, Scale Weight, Sealable Bottle                         |
-| 45   | **Gravedigger**: Shovel, Lantern, Rope (25 ft)                                  |
-| 46   | **Guard**: Manacles, Whistle (*petty*), Lantern                                 |
-| 47   | **Herald**: Signal Flag, Perfume, Whistle (*petty*)                             |
-| 48   | **Herbalist**: Mugwort, Antitoxin, Sack                                         |
-| 49   | **Hermit**: Blanket, Pail, Pole (10 ft)                                         |
-| 50   | **Highway Robber**: Grappling Hook, Rope (25 ft), Poison                        |
-| 51   | **Hunter**: Small Trap, Rope (25 ft), Chisel                                    |
-| 52   | **Illusionist**: Flash Powder, Mirror, Candle (3 uses)                          |
-| 53   | **Innkeeper**: Alcohol, Perfume, Parchment & Ink (3 uses)                       |
-| 54   | **Jester**: Cards, Lute, Perfume                                                |
-| 55   | **Jeweler**: Magnifying Glass, Pliers, Perfume                                  |
-| 56   | **Knight**: Signal Flag, Whetstone, Gloves (*petty*)                            |
-| 57   | **Lamplighter**: Lantern, Oil Can (6 uses), Whistle (*petty*)                   |
-| 58   | **Leech Collector**: Sealable Bottle, Net, Gloves (*petty*)                     |
-| 59   | **Librarian**: Parchment & Ink (3 uses), Stylus, Candle (3 uses)                |
-| 60   | **Locksmith**: Lock & Key, Metal File, Pliers                                   |
-| 61   | **Lumberjack**: Pickaxe, Rope (25 ft), Spiked Boots                             |
-| 62   | **Mason**: Chisel, Hammer, Rope (25 ft)                                         |
-| 63   | **Merchant**: Spyglass, Perfume, Parchment & Ink                                |
-| 64   | **Miller**: Sack, Rope (25 ft), Lantern                                         |
-| 65   | **Miner**: Pickaxe, Lantern, Rope (25 ft)                                       |
-| 66   | **Monk**: Incense, Parchment & Ink (3 uses), Candle (3 uses)                    |
-| 67   | **Musician**: Fiddle, Songbook, Perfume                                         |
-| 68   | **Naturalist**: Spyglass, Net, Stylus                                           |
-| 69   | **Navigator**: Sextant, Compass, Spyglass                                       |
-| 70   | **Oilmonger**: Oil Can, Sealable Bottle, Lantern                                |
-| 71   | **Painter**: Stylus, Parchment & Ink (3 uses), Perfume                          |
-| 72   | **Peddler**: Cart (+4 slots, *bulky*), Sack, Perfume                            |
-| 73   | **Philosopher**: Parchment & Ink (3 uses), Stylus, Perfume                      |
-| 74   | **Physician**: Bandages (3 uses), Sedative, Antitoxin                           |
-| 75   | **Pilgrim**: Pole (10 ft), Poncho (*petty*), Blanket                            |
-| 76   | **Priest**: Incense, Candle (3 uses), Perfume                                   |
-| 77   | **Prospector**: Pickaxe, Lantern, Compass                                       |
-| 78   | **Rat Catcher**: Small Trap, Net, Sack                                          |
-| 79   | **Sailor**: Rope (50 ft), Spyglass, Waterproof Bag                              |
-| 80   | **Scribe**: Parchment & Ink (3 uses), Stylus, Candle (3 uses)                   |
-| 81   | **Shepherd**: Whistle (*petty*), Rope (25 ft), Cloak                            |
-| 82   | **Smuggler**: Oilskin Bag, Lock & Key, Rope (25 ft)                             |
-| 83   | **Soldier**: Spiked Boots, Whetstone, Lantern                                   |
-| 84   | **Spy**: Mirror, Disguise Kit, Perfume                                          |
-| 85   | **Street Preacher**: Incense, Bell, Parchment & Ink                             |
-| 86   | **Tailor**: Sewing Kit, Scissors, Perfume                                       |
-| 87   | **Tanner**: Tar, Gloves (*petty*), Pliers                                       |
-| 88   | **Tax Collector**: Sealable Bottle, Parchment & Ink (3 uses), Whistle (*petty*) |
-| 89   | **Thief**: Lockpick, Grappling Hook, Cloak                                      |
-| 90   | **Tinker**: Pliers, Hammer, Oil Can (6 uses)                                    |
-| 91   | **Toll Keeper**: Bell, Lock & Key, Parchment & Ink (3 uses)                     |
-| 92   | **Toymaker**: Chisel, Pliers, Perfume                                           |
-| 93   | **Undertaker**: Perfume, Bandages (3 uses), Shovel                              |
-| 94   | **Vagabond**: Poncho (*petty*), Blanket, Rope (25 ft)                           |
-| 95   | **Vintner**: Alcohol, Sealable Bottle, Rope (25 ft)                             |
-| 96   | **Wayfinder**: Compass, Chalk (*petty*), Rope (25 ft)                           |
-| 97   | **Weaver**: Scissors, Rope (25 ft), Perfume                                     |
-| 98   | **Witch**: Wolfsbane, Candle (3 uses), Perfume                                  |
-| 99   | **Witchfinder**: Spyglass, Rope (25 ft), Whistle (*petty*)                      |
-| 100  | **Woodcutter**: Saw, Pickaxe, Rope (25 ft)                                      |
-
-### Character Traits (d10)
+### Traits (d10)
 
 #### Physique
 
@@ -462,7 +227,120 @@ Roll when the party:
 | **4** | Deceitful  | **9**  | Vain     |
 | **5** | Greedy     | **10** | Vengeful |
 
-### Starting Gear Tables
+## Background
+
+|      |                                                                                 |
+| :--: | :------------------------------------------------------------------------------ |
+| d100 | Background & Starting Gear                                                      |
+|  1   | **Alchemist**: Acid, Lens, Oilskin Bag                                          |
+|  2   | **Acolyte**: Parchment & Ink (3 uses), [Spellbook](#spellbooks), Incense        |
+|  3   | **Apothecary**: Antitoxin, Bandages (3 uses), Sealable Bottle                   |
+|  4   | **Archivist**: Parchment & Ink, Candle, Stylus                                  |
+|  5   | **Artisan**: Chisel, Hammer, Rope (25 ft)                                       |
+|  6   | **Astrologer**: Compass, Spyglass, Hourglass                                    |
+|  7   | **Barber-Surgeon**: Bandages (3 uses), Scissors, Sedative                       |
+|  8   | **Beadle**: Bell, Whistle (*petty*), Manacles                                   |
+|  9   | **Beekeeper**: Gloves (*petty*), Honey, Fire Oil                                |
+|  10  | **Bell Ringer**: Rope (25 ft), Gloves (*petty*), Whistle (*petty*)              |
+|  11  | **Bird Keeper**: Net, Whistle (*petty*), Sack                                   |
+|  12  | **Blacksmith**: Hammer, Iron Tongs, Whetstone                                   |
+|  13  | **Boatman**: Pole (10 ft), Rope (25 ft), Waterproof Bag                         |
+|  14  | **Bookbinder**: Parchment & Ink (3 uses), Stylus, Sewing Kit                    |
+|  15  | **Bounty Hunter**: Manacles, Rope (25 ft), Whistle (*petty*)                    |
+|  16  | **Brickmaker**: Chisel, Hammer, Tar                                             |
+|  17  | **Butcher**: Saw, Sack, Bandages (3 uses)                                       |
+|  18  | **Candlemaker**: Candle (3 uses, *petty*), Perfume, Sealable Bottle             |
+|  19  | **Carpenter**: Saw, Hammer, Metal File                                          |
+|  20  | **Cartographer**: Compass, Parchment & Ink (3 uses), Stylus                     |
+|  21  | **Cartwright**: Saw, Hammer, Metal File                                         |
+|  22  | **Charlatan**: Disguise Kit, Perfume, Cards                                     |
+|  23  | **Chimney Sweep**: Rope (25 ft), Sack, Hammer                                   |
+|  24  | **Clockmaker**: Metal File, Magnifying Glass, Stylus                            |
+|  25  | **Cobbler**: Sewing Kit, Pliers, Sack                                           |
+|  26  | **Cook**: Pail, Chisel, Sack                                                    |
+|  27  | **Courier**: Compass, Whistle (*petty*), Parchment & Ink (3 uses)               |
+|  28  | **Crypt Keeper**: Shovel, Lantern, Perfume                                      |
+|  29  | **Cultist**: Incense, Chisel, Perfume                                           |
+|  30  | **Dowser**: Dowsing Rod, Sealable Bottle, Shovel                                |
+|  31  | **Drunkard**: Alcohol, Blanket, Metal Cup                                       |
+|  32  | **Duelist**: Whetstone, Cloak, Gloves (*petty*)                                 |
+|  33  | **Entertainer**: Lute, Songbook, Perfume                                        |
+|  34  | **Executioner**: Cloak, Whetstone, Rope (25 ft)                                 |
+|  35  | **Falconer**: Whistle (*petty*), Gloves (*petty*), Rope (25 ft)                 |
+|  36  | **Farmer**: Shovel, Sack, Rope (25 ft)                                          |
+|  37  | **Fence**: Lock & Key, Sack, Perfume                                            |
+|  38  | **Fisher**: Fishing Rod, Net, Chisel                                            |
+|  39  | **Fletcher**: Chisel, Whetstone, Sack                                           |
+|  40  | **Gambler**: Dice, Cards, Perfume                                               |
+|  41  | **Gardener**: Gloves (*petty*), Chisel, Sack                                    |
+|  42  | **Glassblower**: Lens, Fan, Pliers                                              |
+|  43  | **Gong Farmer**: Shovel, Sack, Oilskin Bag                                      |
+|  44  | **Grain Merchant**: Sack, Scale Weight, Sealable Bottle                         |
+|  45  | **Gravedigger**: Shovel, Lantern, Rope (25 ft)                                  |
+|  46  | **Guard**: Manacles, Whistle (*petty*), Lantern                                 |
+|  47  | **Herald**: Signal Flag, Perfume, Whistle (*petty*)                             |
+|  48  | **Herbalist**: Mugwort, Antitoxin, Sack                                         |
+|  49  | **Hermit**: Blanket, Pail, Pole (10 ft)                                         |
+|  50  | **Highway Robber**: Grappling Hook, Rope (25 ft), Poison                        |
+|  51  | **Hunter**: Small Trap, Rope (25 ft), Chisel                                    |
+|  52  | **Illusionist**: Flash Powder, Mirror, Candle (3 uses)                          |
+|  53  | **Innkeeper**: Alcohol, Perfume, Parchment & Ink (3 uses)                       |
+|  54  | **Jester**: Cards, Lute, Perfume                                                |
+|  55  | **Jeweler**: Magnifying Glass, Pliers, Perfume                                  |
+|  56  | **Knight**: Signal Flag, Whetstone, Gloves (*petty*)                            |
+|  57  | **Lamplighter**: Lantern, Oil Can (6 uses), Whistle (*petty*)                   |
+|  58  | **Leech Collector**: Sealable Bottle, Net, Gloves (*petty*)                     |
+|  59  | **Librarian**: Parchment & Ink (3 uses), Stylus, Candle (3 uses)                |
+|  60  | **Locksmith**: Lock & Key, Metal File, Pliers                                   |
+|  61  | **Lumberjack**: Pickaxe, Rope (25 ft), Spiked Boots                             |
+|  62  | **Mason**: Chisel, Hammer, Rope (25 ft)                                         |
+|  63  | **Merchant**: Spyglass, Perfume, Parchment & Ink                                |
+|  64  | **Miller**: Sack, Rope (25 ft), Lantern                                         |
+|  65  | **Miner**: Pickaxe, Lantern, Rope (25 ft)                                       |
+|  66  | **Monk**: Incense, Parchment & Ink (3 uses), Candle (3 uses)                    |
+|  67  | **Musician**: Fiddle, Songbook, Perfume                                         |
+|  68  | **Naturalist**: Spyglass, Net, Stylus                                           |
+|  69  | **Navigator**: Sextant, Compass, Spyglass                                       |
+|  70  | **Oil Collector**: Oil Can (6 uses), Sealable Bottle, Lantern                   |
+|  71  | **Painter**: Stylus, Parchment & Ink (3 uses), Perfume                          |
+|  72  | **Peddler**: Cart (+4 slots, *bulky*), Sack, Perfume                            |
+|  73  | **Philosopher**: Parchment & Ink (3 uses), Stylus, Perfume                      |
+|  74  | **Physician**: Bandages (3 uses), Sedative, Antitoxin                           |
+|  75  | **Pilgrim**: Pole (10 ft), Poncho (*petty*), Blanket                            |
+|  76  | **Priest**: Incense, Candle (3 uses), Perfume                                   |
+|  77  | **Prospector**: Pickaxe, Lantern, Compass                                       |
+|  78  | **Rat Catcher**: Small Trap, Net, Sack                                          |
+|  79  | **Sailor**: Rope (50 ft), Spyglass, Waterproof Bag                              |
+|  80  | **Scribe**: Parchment & Ink (3 uses), Stylus, Candle (3 uses)                   |
+|  81  | **Shepherd**: Whistle (*petty*), Rope (25 ft), Cloak                            |
+|  82  | **Smuggler**: Oilskin Bag, Lock & Key, Rope (25 ft)                             |
+|  83  | **Soldier**: Spiked Boots, Whetstone, Lantern                                   |
+|  84  | **Spy**: Mirror, Disguise Kit, Perfume                                          |
+|  85  | **Street Preacher**: Incense, Bell, Parchment & Ink                             |
+|  86  | **Tailor**: Sewing Kit, Scissors, Perfume                                       |
+|  87  | **Tanner**: Tar, Gloves (*petty*), Pliers                                       |
+|  88  | **Tax Collector**: Sealable Bottle, Parchment & Ink (3 uses), Whistle (*petty*) |
+|  89  | **Thief**: Lockpick, Grappling Hook, Cloak                                      |
+|  90  | **Tinker**: Pliers, Hammer, Oil Can (6 uses)                                    |
+|  91  | **Toll Keeper**: Bell, Lock & Key, Parchment & Ink (3 uses)                     |
+|  92  | **Toymaker**: Chisel, Pliers, Perfume                                           |
+|  93  | **Undertaker**: Perfume, Bandages (3 uses), Shovel                              |
+|  94  | **Vagabond**: Poncho (*petty*), Blanket, Rope (25 ft)                           |
+|  95  | **Vintner**: Alcohol, Sealable Bottle, Rope (25 ft)                             |
+|  96  | **Wayfinder**: Compass, Chalk (*petty*), Rope (25 ft)                           |
+|  97  | **Weaver**: Scissors, Rope (25 ft), Perfume                                     |
+|  98  | **Witch**: Wolfsbane, Candle (3 uses), [Spellbook](#spellbooks)                 |
+|  99  | **Witchfinder**: Spyglass, Rope (25 ft), Whistle (*petty*)                      |
+| 100  | **Woodcutter**: Saw, Pickaxe, Rope (25 ft)                                      |
+
+### Armor & Weapon
+
+All PCs start with the following gear:
+- 3d6 Gold Pieces
+- Rations (3 uses)
+- Torch (3 uses) 
+
+Additionally, roll on the following tables for your character's armor, weapons, and additional gear:
 
 #### Armor (d6)
 
@@ -486,110 +364,112 @@ Roll when the party:
 | **5** | Bow (d6 damage, _bulky_)                                    |
 | **6** | Crossbow (d8 damage, _bulky_)                               |
 
-#### Gear (d100)
+#### Additional Gear
 
-| #   | Gear                            |
-| --- | ------------------------------- |
-| 1   | Acid                            |
-| 2   | Air Bladder                     |
-| 3   | Alcohol                         |
-| 4   | Antitoxin                       |
-| 5   | Bandages (3 uses)               |
-| 6   | Bell                            |
-| 7   | Blanket                         |
-| 8   | Blanket                         |
-| 9   | Boltcutters                     |
-| 10  | Cage                            |
-| 11  | Caltrops                        |
-| 12  | Candle (3 uses, *petty*)        |
-| 13  | Cards                           |
-| 14  | Cart (+4 slots, *bulky*)        |
-| 15  | Chain (10ft)                    |
-| 16  | Chalk (*petty*)                 |
-| 17  | Chisel                          |
-| 18  | Climbing Spikes                 |
-| 19  | Cloak                           |
-| 20  | Compass                         |
-| 21  | Crowbar                         |
-| 22  | Dice                            |
-| 23  | Disguise Kit (wig, paint, mask) |
-| 24  | Dowsing Rod                     |
-| 25  | Ether                           |
-| 26  | Explosive                       |
-| 27  | Fan                             |
-| 28  | Fiddle                          |
-| 29  | Fire Oil                        |
-| 30  | Fishing Rod                     |
-| 31  | Flash Powder                    |
-| 32  | Flour                           |
-| 33  | Garrotte                        |
-| 34  | Glass Lens                      |
-| 35  | Gloves (*petty*)                |
-| 36  | Glue                            |
-| 37  | Goggles                         |
-| 38  | Grappling Hook                  |
-| 39  | Grease                          |
-| 40  | Hammer                          |
-| 41  | Hammock                         |
-| 42  | Hand Drill                      |
-| 43  | Hemp Rope (50ft)                |
-| 44  | Honey                           |
-| 45  | Horn                            |
-| 46  | Hourglass                       |
-| 47  | Incense                         |
-| 48  | Iron Chain (5ft)                |
-| 49  | Iron Tongs                      |
-| 50  | Ladder (10 ft, *bulky*)         |
-| 51  | Lantern                         |
-| 52  | Large Trap                      |
-| 53  | Lock & Key                      |
-| 54  | Lockpick                        |
-| 55  | Lodestone                       |
-| 56  | Lute                            |
-| 57  | Magnifying Glass                |
-| 58  | Manacles                        |
-| 59  | Marbles                         |
-| 60  | Metal File                      |
-| 61  | Mirror                          |
-| 62  | Mugwort                         |
-| 63  | Net                             |
-| 64  | Oil Can (6 uses)                |
-| 65  | Oilskin Bag                     |
-| 66  | Pail                            |
-| 67  | Parchment & Ink (3 uses)        |
-| 68  | Perfume                         |
-| 69  | Pickaxe                         |
-| 70  | Pipe                            |
-| 71  | Pliers                          |
-| 72  | Poison                          |
-| 73  | Pole (10ft)                     |
-| 74  | Poncho (*petty*)                |
-| 75  | Pulley                          |
-| 76  | Rope (25ft)                     |
-| 77  | Sack                            |
-| 78  | Saw                             |
-| 79  | Scissors                        |
-| 80  | Sealable Bottle                 |
-| 81  | Sedative                        |
-| 82  | Sewing Kit                      |
-| 83  | Sextant                         |
-| 84  | Shovel                          |
-| 85  | Signal Flag                     |
-| 86  | Small Trap                      |
-| 87  | Smokebomb                       |
-| 88  | Smoking Herbs (3 uses)          |
-| 89  | Soap                            |
-| 90  | Songbook                        |
-| 91  | Spiked Boots                    |
-| 92  | Spyglass                        |
-| 93  | Stylus                          |
-| 94  | Tar                             |
-| 95  | Tent (fits 2, *bulky*)          |
-| 96  | Tongs or Pliers                 |
-| 97  | Waterproof Bag                  |
-| 98  | Whetstone                       |
-| 99  | Whistle (*petty*)               |
-| 100 | Wolfsbane                       |
+| d100 | Gear                            |
+| ---- | ------------------------------- |
+| 1    | Acid                            |
+| 2    | Air Bladder                     |
+| 3    | Alcohol                         |
+| 4    | Antitoxin                       |
+| 5    | Bandages (3 uses)               |
+| 6    | Bell                            |
+| 7    | Bellows                         |
+| 8    | Blanket                         |
+| 9    | Boltcutters                     |
+| 10   | Cage                            |
+| 11   | Caltrops                        |
+| 12   | Candle (3 uses, *petty*)        |
+| 13   | Cards                           |
+| 14   | Cart (+4 slots, *bulky*)        |
+| 15   | Chain (10ft)                    |
+| 16   | Chalk (*petty*)                 |
+| 17   | Chisel                          |
+| 18   | Climbing Spikes                 |
+| 19   | Cloak                           |
+| 20   | Compass                         |
+| 21   | Crowbar                         |
+| 22   | Dice                            |
+| 23   | Disguise Kit (wig, paint, mask) |
+| 24   | Dowsing Rod                     |
+| 25   | Ether                           |
+| 26   | Explosive                       |
+| 27   | Fan                             |
+| 28   | Fiddle                          |
+| 29   | Fire Oil                        |
+| 30   | Fishing Rod                     |
+| 31   | Flash Powder                    |
+| 32   | Flour                           |
+| 33   | Garrotte                        |
+| 34   | Gloves (*petty*)                |
+| 35   | Glue                            |
+| 36   | Goggles                         |
+| 37   | Grappling Hook                  |
+| 38   | Grease                          |
+| 39   | Hammer                          |
+| 40   | Hammock                         |
+| 41   | Hand Drill                      |
+| 42   | Hemp Rope (50ft)                |
+| 43   | Honey                           |
+| 44   | Horn                            |
+| 45   | Hourglass                       |
+| 46   | Incense                         |
+| 47   | Iron Chain (5ft)                |
+| 48   | Iron Tongs                      |
+| 49   | Ladder (10 ft, *bulky*)         |
+| 50   | Lantern                         |
+| 51   | Large Trap                      |
+| 52   | Lens                            |
+| 53   | Lock & Key                      |
+| 54   | Lockpick                        |
+| 55   | Lodestone                       |
+| 56   | Lute                            |
+| 57   | Magnifying Glass                |
+| 58   | Manacles                        |
+| 59   | Marbles                         |
+| 60   | Metal File                      |
+| 61   | Mirror                          |
+| 62   | Mugwort                         |
+| 63   | Net                             |
+| 64   | Oil Can (6 uses)                |
+| 65   | Oilskin Bag                     |
+| 66   | Pail                            |
+| 67   | Parchment & Ink (3 uses)        |
+| 68   | Perfume                         |
+| 69   | Pickaxe                         |
+| 70   | Pipe                            |
+| 71   | Pliers                          |
+| 72   | Poison                          |
+| 73   | Pole (10ft)                     |
+| 74   | Poncho (*petty*)                |
+| 75   | Pulley                          |
+| 76   | Random [Spellbook](#spellbooks) |
+| 77   | Rope (25ft)                     |
+| 78   | Sack                            |
+| 79   | Saw                             |
+| 80   | Scissors                        |
+| 81   | Sealable Bottle                 |
+| 82   | Sedative                        |
+| 83   | Sewing Kit                      |
+| 84   | Sextant                         |
+| 85   | Shovel                          |
+| 86   | Signal Flag                     |
+| 87   | Small Trap                      |
+| 88   | Smokebomb                       |
+| 89   | Smoking Herbs (3 uses)          |
+| 90   | Songbook                        |
+| 91   | Spiked Boots                    |
+| 92   | Spyglass                        |
+| 93   | Stylus                          |
+| 94   | Tar                             |
+| 95   | Tent (fits 2, *bulky*)          |
+| 96   | Tongs or Pliers                 |
+| 97   | Waterproof Bag                  |
+| 98   | Whetstone                       |
+| 99   | Whistle (*petty*)               |
+| 100  | Wolfsbane                       |
+
+> You may reroll any duplicate gear.
 
 ## Optional Gear Packages
 
@@ -636,6 +516,7 @@ Roll when the party:
 * **Holy Symbol (*petty*)**
 * **Gambeson** (1 Armor)
 * **Bandages** (3 uses)
+
 
 ## Spellbooks
 
