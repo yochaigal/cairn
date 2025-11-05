@@ -5,7 +5,6 @@ parent: Barebones
 nav_order: 8
 ---
 
-
 # Barebones Core Rules
 
 ## Attributes
