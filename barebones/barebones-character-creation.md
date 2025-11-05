@@ -232,8 +232,8 @@ nav_order: 2
 | d100 | Background & Starting Gear                                                      |
 |  1   | **Alchemist**: Acid, Lens, Oilskin Bag                                          |
 |  2   | **Acolyte**: Parchment & Ink (3 uses), [Spellbook](#spellbooks), Incense        |
-|  3   | **Apothecary**: Antitoxin, Bandages (3 uses), Sealable Bottle                   |
-|  4   | **Archivist**: Parchment & Ink, Candle, Stylus                                  |
+|  3   | **Alchemist**: Acid, Lens, Oilskin Bag                                          |
+|  4   | **Apothecary**: Antitoxin, Bandages (3 uses), Sealable Bottle                   |
 |  5   | **Artisan**: Chisel, Hammer, Rope (25 ft)                                       |
 |  6   | **Astrologer**: Compass, Spyglass, Hourglass                                    |
 |  7   | **Barber-Surgeon**: Bandages (3 uses), Scissors, Sedative                       |
