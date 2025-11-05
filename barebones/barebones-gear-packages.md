@@ -52,3 +52,4 @@ nav_order: 4
 * **Holy Symbol** (_petty_)
 * **Gambeson** (1 Armor)
 * **Bandages** (3 uses)
+
