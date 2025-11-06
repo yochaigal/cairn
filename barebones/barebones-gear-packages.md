@@ -9,12 +9,11 @@ nav_order: 6
 
 ### Fighter
 
-#### Starting Gear
-
 * 3d6 Gold Pieces
 * Rations (3 uses)
 * **Torches** (3 uses)
 * **Sword** (d8)
+* **Throwing Dagger** (d6)
 * **Shield** (+1 Armor)
 * **Gambeson** (+1 Armor)
 * **Bandages** (3 uses)
@@ -23,33 +22,32 @@ nav_order: 6
 ### Thief
 
 * 3d6 Gold Pieces
-* Rations (3 uses)
-* Torches (3 uses)
+* **Rations** (3 uses)
+* **Torches** (3 uses)
 * **Lockpick** 
 * **Grappling Hook**  
 * **Caltrops**
-*  **Lantern**
-* **Dagger** (d6)
-* **Oil Can** (6 uses)
+* **Twin Folding Daggers** (d6+d6)
+* **Tiny Mirror**
+* **Dark Hood** (_petty_)
 
 ### Magic-User
 
 * 3d6 Gold Pieces
-* Rations (3 uses)
+* **Rations** (3 uses)
 * **Torches** (3 uses)
-* **Spellbook** (roll d100 on [Spellbooks](/barebones/barebones-character-creation/#spellbooks) table)
-* **Dagger** (d6)
-* **Chalk (*petty*)**
-* **Parchment** (3 uses)
+* **Spellbook**: _Detect Magic_ 
+* **Spellbook**: _Sleep_
+* **Staff** (d6)
+* **Chalk** (_petty_)
 * **Robes** (_petty_)
 
 ### Cleric
 
 * 3d6 Gold Pieces
-* Rations (3 uses)
+* **Rations** (3 uses)
 * **Torches** (3 uses)
-* **Mace** (d8)
-* **Holy Symbol** (_petty_)
+* **War Hammer** (d10, _bulky_)  
 * **Gambeson** (1 Armor)
 * **Bandages** (3 uses)
-
+* **Holy Symbol** (_petty_, casts _Ward_ once per day)
