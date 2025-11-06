@@ -2,7 +2,7 @@
 layout: default
 title: Barebones Core Rules
 parent: Barebones
-nav_order: 1
+nav_order: 3
 ---
 
 # Barebones Core Rules

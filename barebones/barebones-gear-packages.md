@@ -2,7 +2,7 @@
 layout: default
 title: Barebones Gear Packages
 parent: Barebones
-nav_order: 4
+nav_order: 6
 ---
 
 ## Barebones Gear Packages

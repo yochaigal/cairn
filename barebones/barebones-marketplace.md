@@ -2,7 +2,7 @@
 layout: default
 title: Marketplace
 parent: Barebones
-nav_order: 5
+nav_order: 7
 ---
 
 # Barebones Marketplace 

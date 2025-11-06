@@ -2,7 +2,7 @@
 layout: default
 title: Barebones Spellbooks
 parent: Barebones
-nav_order: 6
+nav_order: 8
 ---
 
 
