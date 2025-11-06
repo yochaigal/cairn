@@ -39,31 +39,43 @@ Each of the three **Attributes** are used in different circumstances. (See **Sav
 - Shields and similar armor provide a bonus defense (e.g. +1 Armor), but only while the item is held or worn. Some may also provide additional benefits, depending on the fiction.
 - A PC, NPC, or monster cannot have more than 3 Armor.  
 
-## Reactions
+### Inventory
 
-When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll 2d6 and consult the following table:
+* Characters have **10** inventory slots but can only carry **4–5** items comfortably without the help of bags, backpacks, horses, carts, etc.
+* Each PC starts with a **Backpack** that can hold up to **6** slots of items or **Fatigue**. Carts (pulled with both hands), horses, or mules meaningfully increase carrying capacity. **Hirelings** can also be paid to carry equipment.
+* Inventory is abstract and dependent on the fiction as adjudicated by the Warden. Anyone carrying a **full inventory** (all 10 slots) is reduced to **0 HP**. A character cannot fill more than ten slots.
 
-|         |      |         |      |         |
-| :-----: | :--: | :-----: | :--: | :-----: |
-|    2    | 3-5  |   6-8   | 9-11 |   12    |
-| Hostile | Wary | Curious | Kind | Helpful |
+#### Inventory Slots
 
-## Morale
+* Most items take up **one** slot unless otherwise indicated.
+* _petty_ items do **not** take up any slots. _bulky_ items take up **two** slots.
+* A bag of coins worth **100gp** is _petty_ and does not occupy a slot.
 
-- Enemies must pass a WIL save to avoid fleeing when they take their first casualty and again when they lose half their number. 
-- Some groups may use their leader's WIL in place of their own. Lone foes must save when they're reduced to 0 HP. 
-- Morale does not affect PCs.
+## Magic
 
-## Hirelings
+### Spellbooks 
 
-- Adventuring parties can recruit hirelings, relying on their unique skills, knowledge, and training to aid in expeditions.  
-- To create a hireling, choose an appropriate role from the [Hirelings](/second-edition/players-guide/marketplace#hirelings-per-day) table in the Marketplace. Roll 3d6 for each attribute and 1d6 for their HP. Give them **equipment** appropriate to their station, then roll on the Character Traits tables to further flesh them out.
-- Alternatively, choose an appropriate [**background**](/second-edition/players-guide/character-creation#backgrounds) and **name** from the [Character Creation](/second-edition/players-guide/character-creation) guide. Roll (or choose from) the tables for that background. Then roll for Rations, Gold Pieces, Attributes, HP, and age. 
+- **Spellbooks** contain a single spell and take up one slot. They cannot be easily transcribed or created; instead they are recovered from places like tombs, dungeons, and manors.
+- Spellbooks sometimes display unusual properties or limitations, such as producing a foul or unearthly smell when opened, possessing an innate intelligence, or being legible only when held in moonlight.
+- Spellbooks will attract the attention of those who seek the arcane power within, and it is considered dangerous to display them openly.
 
-## Die of Fate  
+### Casting Spells
 
-- Optionally, roll 1d6 whenever the outcome of an event is uncertain or to simulate an element of randomness and chance.
-- A roll of 4 or more generally favors the PCs, while a roll of 3 or under usually means bad luck for the PCs.
+- Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. They must then add a **Fatigue** to inventory. 
+- Given time and safety, PCs can _enhance_ a spell's impact (e.g., affecting multiple targets, increasing its power, etc.) without any additional cost. 
+- If the PC is _deprived_ or in danger (such as during combat), the Warden may require a PC to make a WIL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect and may result in added **Fatigue**, the destruction of the Spellbook, injury, and even death.
+
+### Scrolls
+
+**Scrolls** are similar to Spellbooks, however:
+
+- They are _petty_.
+- They do not cause **Fatigue**.
+- They disappear after one use.
+
+### Relics
+
+**Relics** are items imbued with a magical spell or power. They do not cause Fatigue. Relics usually have limited use, as well as a **Recharge** condition.
 
 ## Combat
 
@@ -140,28 +152,28 @@ If damage to a PC would reduce their HP to exactly 0, look up the result on the 
 | 11          | Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max HP.                                                                         |
 | 12          | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result. |
 
-## Magic
+## Reactions
 
-### Spellbooks 
+When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll 2d6 and consult the following table:
 
-- **Spellbooks** contain a single spell and take up one slot. They cannot be easily transcribed or created; instead they are recovered from places like tombs, dungeons, and manors.
-- Spellbooks sometimes display unusual properties or limitations, such as producing a foul or unearthly smell when opened, possessing an innate intelligence, or being legible only when held in moonlight.
-- Spellbooks will attract the attention of those who seek the arcane power within, and it is considered dangerous to display them openly.
+|         |      |         |      |         |
+| :-----: | :--: | :-----: | :--: | :-----: |
+|    2    | 3-5  |   6-8   | 9-11 |   12    |
+| Hostile | Wary | Curious | Kind | Helpful |
 
-### Casting Spells
+## Morale
 
-- Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. They must then add a **Fatigue** to inventory. 
-- Given time and safety, PCs can _enhance_ a spell's impact (e.g., affecting multiple targets, increasing its power, etc.) without any additional cost. 
-- If the PC is _deprived_ or in danger (such as during combat), the Warden may require a PC to make a WIL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect and may result in added **Fatigue**, the destruction of the Spellbook, injury, and even death.
+- Enemies must pass a WIL save to avoid fleeing when they take their first casualty and again when they lose half their number. 
+- Some groups may use their leader's WIL in place of their own. Lone foes must save when they're reduced to 0 HP. 
+- Morale does not affect PCs.
 
-### Scrolls
+## Hirelings
 
-**Scrolls** are similar to Spellbooks, however:
+- Adventuring parties can recruit hirelings, relying on their unique skills, knowledge, and training to aid in expeditions.  
+- To create a hireling, choose an appropriate role from the [Hirelings](/second-edition/players-guide/marketplace#hirelings-per-day) table in the Marketplace. Roll 3d6 for each attribute and 1d6 for their HP. Give them **equipment** appropriate to their station, then roll on the Character Traits tables to further flesh them out.
+- Alternatively, choose an appropriate [**background**](/second-edition/players-guide/character-creation#backgrounds) and **name** from the [Character Creation](/second-edition/players-guide/character-creation) guide. Roll (or choose from) the tables for that background. Then roll for Rations, Gold Pieces, Attributes, HP, and age. 
 
-- They are _petty_.
-- They do not cause **Fatigue**.
-- They disappear after one use.
+## Die of Fate  
 
-### Relics
-
-**Relics** are items imbued with a magical spell or power. They do not cause Fatigue. Relics usually have limited use, as well as a **Recharge** condition.
+- Optionally, roll 1d6 whenever the outcome of an event is uncertain or to simulate an element of randomness and chance.
+- A roll of 4 or more generally favors the PCs, while a roll of 3 or under usually means bad luck for the PCs.

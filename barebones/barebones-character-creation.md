@@ -463,15 +463,3 @@ Additionally, roll on the following tables for your character's armor, weapons, 
 | 100  | Wolfsbane                                           |
 
 > You may reroll any duplicate gear.
-
-### Inventory
-
-* Characters have **10** inventory slots but can only carry **4–5** items comfortably without the help of bags, backpacks, horses, carts, etc.
-* Each PC starts with a **Backpack** that can hold up to **6** slots of items or **Fatigue**. Carts (pulled with both hands), horses, or mules meaningfully increase carrying capacity. **Hirelings** can also be paid to carry equipment.
-* Inventory is abstract and dependent on the fiction as adjudicated by the Warden. Anyone carrying a **full inventory** (all 10 slots) is reduced to **0 HP**. A character cannot fill more than ten slots.
-
-#### Inventory Slots
-
-* Most items take up **one** slot unless otherwise indicated.
-* _petty_ items do **not** take up any slots. _bulky_ items take up **two** slots.
-* A bag of coins worth **100gp** is _petty_ and does not occupy a slot.
