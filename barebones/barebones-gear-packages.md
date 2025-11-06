@@ -50,4 +50,5 @@ nav_order: 6
 * War Hammer (d10, _bulky_)  
 * Gambeson (1 Armor)
 * Bandages (3 uses)
+* Spellbook: _Cure Wounds_
 * Holy Symbol (_petty_, casts _Ward_ once per day)

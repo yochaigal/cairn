@@ -130,9 +130,3 @@ Players trust one another to engage with the shared setting, character goals, an
 - Use binary "so, A or B?" responses when their intentions are vague.
 - Work together using this conversational method to keep the game moving.
 - Ensure that the player character's actions leave their mark on the game world.
-
-### Die of Fate
-
-- Occasionally you will want an element of randomness (e.g. the weather, unique character knowledge, etc.).
-- In these situations, roll 1d6. A roll of 4 or more generally favors the players.
-- A roll of 3 or under tends to mean bad luck for the PCs or their allies.
