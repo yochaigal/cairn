@@ -47,8 +47,8 @@ nav_order: 6
 * 3d6 Gold Pieces
 * Rations (3 uses)
 * Torches (3 uses)
-* War Hammer (d10, _bulky_)  
-* Gambeson (1 Armor)
-* Bandages (3 uses)
 * Spellbook: _Cure Wounds_
+* War Hammer (d10, _bulky_)  
+* Helmet (+1 Armor)
+* Bandages (3 uses)
 * Holy Symbol (_petty_, casts _Ward_ once per day)
