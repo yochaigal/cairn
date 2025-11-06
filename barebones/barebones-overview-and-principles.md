@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Barebones Overview & Principles
+title: Barebones Edition Overview & Principles
 parent: Barebones
 nav_order: 2
 ---
 
-# Barebones Overview & Principles
+# Barebones Edition Overview & Principles
 
 ## Overview
 

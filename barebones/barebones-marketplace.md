@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Marketplace
+title: Barebones Edition Marketplace
 parent: Barebones
 nav_order: 7
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Barebones Gear Packages
+title: Barebones Edition Gear Packages
 parent: Barebones
 nav_order: 6
 ---

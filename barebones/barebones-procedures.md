@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Barebones Procedures
+title: Barebones Edition Procedures
 parent: Barebones
 nav_order: 4
 ---
 
-# Barebones Procedures
+# Barebones Edition Procedures
 
 ## Dungeon Exploration
 

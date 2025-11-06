@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Barebones Core Rules
+title: Barebones Edition Core Rules
 parent: Barebones
 nav_order: 3
 ---

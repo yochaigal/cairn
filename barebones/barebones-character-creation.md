@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Barebones Character Creation
+title: Barebones Edition Character Creation
 parent: Barebones
 nav_order: 5
 ---
 
-# Barebones Character Creation
+# Barebones Edition Character Creation
 
 ## Overview
 
