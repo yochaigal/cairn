@@ -7,8 +7,7 @@ nav_order: 5
 
 # More Spellbooks
 
-If Cairn's default [spells](/cairn-srd#100-spells) don't exactly fit what you're looking for, look for it in the d666 table below.  
-Note assume damage rolls are against HP unless otherwise noted (e.g. 1d6 damage vs 1d6 STR loss).
+If Cairn's default [spells](/cairn-srd#100-spells) don't exactly fit what you're looking for, look for it in the d666 table below. Note assume damage rolls are against HP unless otherwise noted (e.g. 1d6 damage vs 1d6 STR loss).
 
 |      |                                                             |                                                              |
 | ---- | ----------------------------------------------------------- | ------------------------------------------------------------ |
