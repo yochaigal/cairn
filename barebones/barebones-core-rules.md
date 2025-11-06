@@ -152,6 +152,12 @@ If damage to a PC would reduce their HP to exactly 0, look up the result on the 
 | 11          | Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max HP.                                                                         |
 | 12          | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result. |
 
+### Morale
+
+- Enemies must pass a WIL save to avoid fleeing when they take their first casualty and again when they lose half their number. 
+- Some groups may use their leader's WIL in place of their own. Lone foes must save when they're reduced to 0 HP. 
+- Morale does not affect PCs.
+
 ## Reactions
 
 When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll 2d6 and consult the following table:
@@ -160,12 +166,6 @@ When the PCs encounter an NPC whose reaction to the party is not obvious, the Wa
 | :-----: | :--: | :-----: | :--: | :-----: |
 |    2    | 3-5  |   6-8   | 9-11 |   12    |
 | Hostile | Wary | Curious | Kind | Helpful |
-
-## Morale
-
-- Enemies must pass a WIL save to avoid fleeing when they take their first casualty and again when they lose half their number. 
-- Some groups may use their leader's WIL in place of their own. Lone foes must save when they're reduced to 0 HP. 
-- Morale does not affect PCs.
 
 ## Hirelings
 
