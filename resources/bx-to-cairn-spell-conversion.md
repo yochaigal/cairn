@@ -12,9 +12,9 @@ parent: Resources
 
 ### First Level
 
-
-| B/X Level | Class      | B/X Spell            | Cairn Equivalent                                     |
+|           |            |                      |                                                      |
 | --------- | ---------- | -------------------- | ---------------------------------------------------- |
+| B/X Level | Class      | B/X Spell            | Cairn Equivalent                                     |
 | 1st       | Magic-User | Charm Person         | Charm                                                |
 | 1st       | Magic-User | Darkness             | Night Sphere or Snuff                                |
 | 1st       | Magic-User | Detect Magic         | Detect Magic                                         |
@@ -31,8 +31,9 @@ parent: Resources
 
 ### Second Level
 
-| B/X Level | Class      | B/X Spell          | Cairn Equivalent                    |
+|           |            |                    |                                     |
 | --------- | ---------- | ------------------ | ----------------------------------- |
+| B/X Level | Class      | B/X Spell          | Cairn Equivalent                    |
 | 2nd       | Magic-User | Continual Darkness | Not supported                       |
 | 2nd       | Magic-User | Continual Light    | Not supported                       |
 | 2nd       | Magic-User | Detect Evil        | Read Mind                           |
@@ -49,8 +50,9 @@ parent: Resources
 
 ### Third Level
 
-| B/X Level | Class      | B/X Spell                       | Cairn Equivalent             |
+|           |            |                                 |                              |
 | --------- | ---------- | ------------------------------- | ---------------------------- |
+| B/X Level | Class      | B/X Spell                       | Cairn Equivalent             |
 | 3rd       | Magic-User | Clairvoyance                    | Scry                         |
 | 3rd       | Magic-User | Dispel Magic                    | Magic Dampener               |
 | 3rd       | Magic-User | Fire Ball                       | Great Ball of Fire           |
@@ -66,8 +68,9 @@ parent: Resources
 
 ### Fourth Level
 
-| B/X Level | Class      | B/X Spell                       | Cairn Equivalent                                      |
+|           |            |                                 |                                                       |
 | --------- | ---------- | ------------------------------- | ----------------------------------------------------- |
+| B/X Level | Class      | B/X Spell                       | Cairn Equivalent                                      |
 | 4th       | Magic-User | Charm Monster                   | Charm                                                 |
 | 4th       | Magic-User | Confusion                       | Befuddle                                              |
 | 4th       | Magic-User | Dimension Door                  | Teleport                                              |
@@ -82,25 +85,27 @@ parent: Resources
 
 ### Fifth Level
 
-| B/X Level | Class      | B/X Spell                     | Cairn Equivalent                    |
-| --------- | ---------- | ----------------------------- | ----------------------------------- |
-| 5th       | Magic-User | Animate Dead                  | Raise Dead                          |
-| 5th       | Magic-User | Cloudkill                     | Death’s Breath                      |
-| 5th       | Magic-User | Conjure Elemental             | Summon Elemental                    |
-| 5th       | Magic-User | Contact Higher Plane          | Extraplanar Request                 |
-| 5th       | Magic-User | Feeblemind                    | Befuddle                            |
-| 5th       | Magic-User | Hold Monster                  | Astral Prison or Command            |
-| 5th       | Magic-User | Magic Jar                     | Body Swap                           |
-| 5th       | Magic-User | Pass-Wall                     | Passage                             |
-| 5th       | Magic-User | Telekinesis                   | Telekinesis                         |
-| 5th       | Magic-User | Teleport                      | Teleport or Mirrorwalk              |
-| 5th       | Magic-User | Transmute Rock to Mud         | Sculpt Elements                     |
-| 5th       | Magic-User | Wall of Stone                 | Edifice                             |
+|           |            |                       |                          |
+| --------- | ---------- | --------------------- | ------------------------ |
+| B/X Level | Class      | B/X Spell             | Cairn Equivalent         |
+| 5th       | Magic-User | Animate Dead          | Raise Dead               |
+| 5th       | Magic-User | Cloudkill             | Death’s Breath           |
+| 5th       | Magic-User | Conjure Elemental     | Summon Elemental         |
+| 5th       | Magic-User | Contact Higher Plane  | Extraplanar Request      |
+| 5th       | Magic-User | Feeblemind            | Befuddle                 |
+| 5th       | Magic-User | Hold Monster          | Astral Prison or Command |
+| 5th       | Magic-User | Magic Jar             | Body Swap                |
+| 5th       | Magic-User | Pass-Wall             | Passage                  |
+| 5th       | Magic-User | Telekinesis           | Telekinesis              |
+| 5th       | Magic-User | Teleport              | Teleport or Mirrorwalk   |
+| 5th       | Magic-User | Transmute Rock to Mud | Sculpt Elements          |
+| 5th       | Magic-User | Wall of Stone         | Edifice                  |
 
 ### Sixth Level
 
-| B/X Level | Class  | B/X Spell                | Cairn Equivalent     |
-| --------- | ------ | ------------------------ | -------------------- |
+|           |            |                               |                                     |
+| --------- | ---------- | ----------------------------- | ----------------------------------- |
+| B/X Level | Class      | B/X Spell                     | Cairn Equivalent                    |
 | 6th       | Magic-User | Anti-Magic Shell              | Anti-Magic Globe                    |
 | 6th       | Magic-User | Control Weather               | Control Weather                     |
 | 6th       | Magic-User | Death Spell                   | Death’s Breath                      |
@@ -117,8 +122,9 @@ parent: Resources
 
 ### First Level
 
-| B/X Level | Class  | B/X Spell             | Cairn Equivalent      |
+|           |        |                       |                       |
 | --------- | ------ | --------------------- | --------------------- |
+| B/X Level | Class  | B/X Spell             | Cairn Equivalent      |
 | 1st       | Cleric | Cure Light Wounds     | Charm                 |
 | 1st       | Cleric | Darkness              | Night Sphere or Snuff |
 | 1st       | Cleric | Detect Evil           | Read Mind             |
@@ -132,8 +138,9 @@ parent: Resources
 
 ### Second Level
 
-| B/X Level | Class  | B/X Spell          | Cairn Equivalent |
+|           |        |                    |                  |
 | --------- | ------ | ------------------ | ---------------- |
+| B/X Level | Class  | B/X Spell          | Cairn Equivalent |
 | 2nd       | Cleric | Bless              | Blessing         |
 | 2nd       | Cleric | Find Traps         | Not supported    |
 | 2nd       | Cleric | Hold Person        | Command          |
@@ -145,8 +152,9 @@ parent: Resources
 
 ### Third Level
 
-| B/X Level | Class  | B/X Spell          | Cairn Equivalent |
+|           |        |                    |                  |
 | --------- | ------ | ------------------ | ---------------- |
+| B/X Level | Class  | B/X Spell          | Cairn Equivalent |
 | 3rd       | Cleric | Continual Darkness | Not supported    |
 | 3rd       | Cleric | Continual Light    | Not supported    |
 | 3rd       | Cleric | Cause Disease      | Epidemic         |
@@ -158,24 +166,26 @@ parent: Resources
 
 ### Fourth Level
 
-| B/X Level | Class  | B/X Spell                | Cairn Equivalent     |
-| --------- | ------ | ------------------------ | -------------------- |
-| 4th       | Cleric | Create Water             | Upswell              |
-| 4th       | Cleric | Cure Serious Wounds      | Cure Wounds          |
-| 4th       | Cleric | Neutralize Poison        | Not supported        |
-| 4th       | Cleric | Protection from Evil 10’ | Ward                 |
-| 4th       | Cleric | Speak with Plants        | Control Plants       |
-| 4th       | Cleric | Sticks to Snakes         | Animate Object       |
+|           |        |                          |                  |
+| --------- | ------ | ------------------------ | ---------------- |
+| B/X Level | Class  | B/X Spell                | Cairn Equivalent |
+| 4th       | Cleric | Create Water             | Upswell          |
+| 4th       | Cleric | Cure Serious Wounds      | Cure Wounds      |
+| 4th       | Cleric | Neutralize Poison        | Not supported    |
+| 4th       | Cleric | Protection from Evil 10’ | Ward             |
+| 4th       | Cleric | Speak with Plants        | Control Plants   |
+| 4th       | Cleric | Sticks to Snakes         | Animate Object   |
 
 
 ### Fifth Level
 
-| B/X Level | Class  | B/X Spell                | Cairn Equivalent     |
-| --------- | ------ | ------------------------ | -------------------- |
-| 5th       | Cleric | Commune                  | Extraplanar Request  |
-| 5th       | Cleric | Create Food              | Not supported        |
-| 5th       | Cleric | Dispel Evil              | Banishment           |
-| 5th       | Cleric | Finger of Death          | Not supported        |
-| 5th       | Cleric | Insect Plague            | Vermin Plague        |
-| 5th       | Cleric | Quest/Remove Quest       | Command or Sway Will |
-| 5th       | Cleric | Raise Dead               | Not supported        |
+|           |        |                    |                      |
+| --------- | ------ | ------------------ | -------------------- |
+| B/X Level | Class  | B/X Spell          | Cairn Equivalent     |
+| 5th       | Cleric | Commune            | Extraplanar Request  |
+| 5th       | Cleric | Create Food        | Not supported        |
+| 5th       | Cleric | Dispel Evil        | Banishment           |
+| 5th       | Cleric | Finger of Death    | Not supported        |
+| 5th       | Cleric | Insect Plague      | Vermin Plague        |
+| 5th       | Cleric | Quest/Remove Quest | Command or Sway Will |
+| 5th       | Cleric | Raise Dead         | Not supported        |
