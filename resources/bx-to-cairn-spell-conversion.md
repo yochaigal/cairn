@@ -6,7 +6,7 @@ parent: Resources
 
 # B/X to Cairn Spell Conversion
 
-- Created by Derek B.
+- Written by Derek B.
 
 ## Magic-User
 
