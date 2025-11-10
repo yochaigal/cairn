@@ -221,109 +221,108 @@ nav_order: 5
 
 Roll on the following table to determine your character's background and starting equipment:
 
-|      |                                                                                                                |
-| :--: | :------------------------------------------------------------------------------------------------------------- |
-| d100 | Background & Starting Gear                                                                                     |
-|  1   | **Acolyte**: Parchment & Ink (3 uses), [Spellbook](/barebones/barebones-spellbooks), Incense                   |
-|  2   | **Acrobat**: Pole (10ft), Rope (25ft), Smokebomb                                                               |
-|  3   | **Alchemist**: Acid, Lens, Oilskin Bag                                                                         |
-|  4   | **Apothecary**: Antitoxin, Bandages (3 uses), Sealable Bottle                                                  |
-|  5   | **Artisan**: Chisel, Hammer, Rope (25 ft)                                                                      |
-|  6   | **Astrologer**: Candle (3 uses), Marbles, Hourglass                                                            |
-|  7   | **Baker**: Flour, Sealable Bottle, Honey                                                                       |
-|  8   | **Barber-Surgeon**: Bandages (3 uses), Scissors, Sedative                                                      |
-|  9   | **Beadle**: Bell, Whistle (_petty_), Gloves (_petty_)                                                          |
-|  10  | **Beekeeper**: Gloves (_petty_), Honey, Fire Oil                                                               |
-|  11  | **Bell Ringer**: Rope (25 ft), Gloves (_petty_), Whistle (_petty_)                                             |
-|  12  | **Bird Keeper**: Net, Whistle (_petty_), Cage                                                                  |
-|  13  | **Blacksmith**: Hammer, Iron Tongs, Bellows                                                                    |
-|  14  | **Bookbinder**: Parchment & Ink (3 uses), Glue, Sewing Kit                                                     |
-|  15  | **Bounty Hunter**: Manacles, Rope (25 ft), Flash Powder                                                        |
-|  16  | **Butcher**: Saw, Sack, Bandages (3 uses)                                                                      |
-|  17  | **Carpenter**: Saw, Hammer, Metal File                                                                         |
-|  18  | **Cartographer**: Compass, Parchment & Ink (3 uses), Sextant                                                   |
-|  19  | **Cartwright**: Saw, Hand Drill, Pulley                                                                        |
-|  20  | **Chandler**: Candle (3 uses), Perfume, Honey                                                                  |
-|  21  | **Charlatan**: Paint, Perfume, Cards                                                                           |
-|  22  | **Chimney Sweep**: Rope (25 ft), Climbing Spikes, Bellows                                                      |
-|  23  | **Clockmaker**: Metal File, Magnifying Glass, Stylus                                                           |
-|  24  | **Cobbler**: Sewing Kit, Pliers, Sack                                                                          |
-|  25  | **Cook**: Pail, Chisel, Smoking Herbs (3 uses)                                                                 |
-|  26  | **Cooper**: Saw, Hammer, Hand Drill                                                                            |
-|  27  | **Courier**: Compass, Bell, Parchment & Ink (3 uses)                                                           |
-|  28  | **Crypt Custodian**: Shovel, Lantern, Incense                                                                  |
-|  29  | **Cultist**: Incense, Chisel, Mask                                                                             |
-|  30  | **Demolitionist**: Explosive, Goggles, Grease                                                                  |
-|  31  | **Dowser**: Dowsing Rod, Sealable Bottle, Shovel                                                               |
-|  32  | **Barkeep**: Alcohol, Sealable Bottle, Sedative                                                                |
-|  33  | **Duelist**: Whetstone, Cloak (_petty_), Gloves (_petty_)                                                      |
-|  34  | **Entertainer**: Songbook, Dice, Wig                                                                           |
-|  35  | **Executioner**: Mask, Poison, Rope (25 ft)                                                                    |
-|  36  | **Falconer**: Whistle (_petty_), Gloves (_petty_), Cage                                                        |
-|  37  | **Farmer**: Shovel, Sack, Rope (25 ft)                                                                         |
-|  38  | **Fence**: Sack, Bolt Cutters, Random [Additional Gear](#additional-gear)                                      |
-|  39  | **Fisher**: Fishing Rod, Net, Air Bladder                                                                      |
-|  40  | **Fletcher**: Chisel, Whetstone, Sack                                                                          |
-|  41  | **Gambler**: Dice, Cards, Alcohol                                                                              |
-|  42  | **Gardener**: Gloves (_petty_), Chisel, Sack                                                                   |
-|  43  | **Glassblower**: Lens, Goggles, Pliers                                                                         |
-|  44  | **Gong Farmer**: Gloves (_petty_), Sack, Shovel                                                                |
-|  45  | **Gravedigger**: Shovel, Lantern, Oil Can (6 uses)                                                             |
-|  46  | **Potter**: Chisel, Pail, Tongs                                                                                |
-|  47  | **Guard**: Manacles, Whistle (_petty_), Lantern                                                                |
-|  48  | **Herald**: Signal Flag, Mask, Whistle (_petty_)                                                               |
-|  49  | **Herbalist**: Mugwort, Antitoxin, Sack                                                                        |
-|  50  | **Hermit**: Blanket, Smoking Herbs (3 uses), Pole (10 ft)                                                      |
-|  51  | **Highway Robber**: Grappling Hook, Rope (25 ft), Signal Flag                                                  |
-|  52  | **Hunter**: Large Trap, Rope (25 ft), Smoking Herbs (3 uses)                                                   |
-|  53  | **Illusionist**: Flash Powder, Mirror, Candle (3 uses)                                                         |
-|  54  | **Innkeeper**: Alcohol, Bandages (3 uses), Parchment & Ink (3 uses)                                            |
-|  55  | **Jailer**: Chain (10ft), Manacles, Whistle (_petty_)                                                          |
-|  56  | **Jester**: Cards, Lute, Perfume                                                                               |
-|  57  | **Jeweler**: Magnifying Glass, Pliers, Tongs                                                                   |
-|  58  | **Knight**: Signal Flag, Whetstone, Gloves (_petty_)                                                           |
-|  59  | **Lamplighter**: Oil Can (6 uses), Ladder (10ft, _bulky_), Whistle (_petty_)                                   |
-|  60  | **Leech Collector**: Leech (restores 1 STR, 3 uses), Net, Gloves (_petty_)                                     |
-|  61  | **Librarian**: Parchment & Ink (3 uses), Stylus, [Spellbook](/barebones/barebones-spellbooks), Candle (3 uses) |
-|  62  | **Locksmith**: Lock & Key, Metal File, Pliers                                                                  |
-|  63  | **Lumberjack**: Saw, Whetstone, Rope (25 ft)                                                                   |
-|  64  | **Mason**: Chisel, Hammer, Fan                                                                                 |
-|  65  | **Merchant**: Stylus, Wagon (+8 slots, slow), Random [Additional Gear](#additional-gear)                       |
-|  66  | **Miller**: Bowl, Rope (25 ft), Flour                                                                          |
-|  67  | **Miner**: Pickaxe, Lantern, Lodestone                                                                         |
-|  68  | **Monk**: Cloak (_petty_), Songbook, Candle (3 uses)                                                           |
-|  69  | **Musician**: Fiddle, Songbook, Bowl                                                                           |
-|  70  | **Naturalist**: Spyglass, Hammock, Rope (25ft)                                                                 |
-|  71  | **Navigator**: Poncho (_petty_), Compass, Spyglass                                                             |
-|  72  | **Oil Collector**: Oil Can (6 uses), Sealable Bottle, Lantern                                                  |
-|  73  | **Painter**: Stylus, Parchment & Ink (3 uses), Paint                                                           |
-|  74  | **Peddler**: Cart (+4 slots, _bulky_), Sack, Random [Additional Gear](#additional-gear)                        |
-|  75  | **Philosopher**: Pipe, Chalk (_petty_), Parchment & Ink                                                        |
-|  76  | **Physician**: Bandages (3 uses), Sedative, Antitoxin                                                          |
-|  77  | **Pilgrim**: Pole (10 ft), Poncho (_petty_), Blanket                                                           |
-|  78  | **Priest**: Incense, Candle (3 uses), Bandages (3 uses)                                                        |
-|  79  | **Prospector**: Pickaxe, Lantern, Lodestone                                                                    |
-|  80  | **Rat Catcher**: Small Trap, Whistle (_petty_), Sack                                                           |
-|  81  | **Sailor**: Rope (50 ft), Spyglass, Hammock                                                                    |
-|  82  | **Scribe**: Parchment & Ink (3 uses), Stylus, Candle (3 uses)                                                  |
-|  83  | **Shepherd**: Whistle (_petty_), Rope (25 ft), Cloak (_petty_)                                                 |
-|  84  | **Smuggler**: Oilskin Bag, Lock & Key, Rope (25 ft)                                                            |
-|  85  | **Soldier**: Spiked Boots, Whetstone, Tent (fits 2, _bulky_)                                                   |
-|  86  | **Spy**: Mirror, Disguise Kit, Garrotte                                                                        |
-|  87  | **Stablehand**: Rope (25ft), Shovel, Blanket                                                                   |
-|  88  | **Street Preacher**: Incense, Bell, Parchment & Ink                                                            |
-|  89  | **Tailor**: Sewing Kit, Scissors, Cloak (_petty_)                                                              |
-|  90  | **Tanner**: Tar, Gloves (_petty_), Pliers                                                                      |
-|  91  | **Tax Collector**: Sealable Bottle, Parchment & Ink (3 uses), Whistle (_petty_)                                |
-|  92  | **Thief**: Lockpick, Grappling Hook, Caltrops                                                                  |
-|  93  | **Tinker**: Pliers, Hammer, Grease                                                                             |
-|  94  | **Toll Keeper**: Bell, Lock & Key, Waterproof Bag                                                              |
-|  95  | **Toymaker**: Scissors, Pliers, Glue                                                                           |
-|  96  | **Vagabond**: Poncho (_petty_), Blanket, Rope (25 ft)                                                          |
-|  97  | **Vintner**: Alcohol, Sealable Bottle, Rope (25 ft)                                                            |
-|  98  | **Weaver**: Scissors, Rope (25 ft), Perfume                                                                    |
-|  99  | **Witch**: Wolfsbane, Candle (3 uses), [Spellbook](/barebones/barebones-spellbooks)                            |
-| 100  | **Witchfinder**: Spyglass, Rope (25 ft), Whistle (_petty_)                                                     |
+| d100 | Background & Starting Gear                                                                                          |
+| :--: | ------------------------------------------------------------------------------------------------------------------- |
+|  1   | **Acolyte**: Incense, Parchment & Ink (3 uses), [Spellbook](/barebones/barebones-spellbooks)                        |
+|  2   | **Acrobat**: Pole (10ft), Rope (25ft), Smokebomb                                                                    |
+|  3   | **Alchemist**: Acid, Lens, Oilskin Bag                                                                              |
+|  4   | **Apothecary**: Antitoxin, Bandages (3 uses), Sealable Bottle                                                       |
+|  5   | **Assassin**: Garrotte, Mask, Poison                                                                                |
+|  6   | **Astrologer**: Candle (3 uses, dim), Marbles, Spyglass                                                             |
+|  7   | **Baker**: Flour, Honey, Sealable Bottle                                                                            |
+|  8   | **Barber-Surgeon**: Bandages (3 uses), Scissors, Sedative                                                           |
+|  9   | **Barkeep**: Alcohol, Sealable Bottle, Sedative                                                                     |
+|  10  | **Beadle**: Bell, Gloves (_petty_), Whistle (_petty_)                                                               |
+|  11  | **Beekeeper**: Fire Oil, Gloves (_petty_), Honey                                                                    |
+|  12  | **Bell Ringer**: Gloves (_petty_), Rope (25 ft), Whistle (_petty_)                                                  |
+|  13  | **Bird Keeper**: Cage, Net, Whistle (_petty_)                                                                       |
+|  14  | **Blacksmith**: Bellows, Hammer, Iron Tongs                                                                         |
+|  15  | **Bookbinder**: Glue, Parchment & Ink (3 uses), Sewing Kit                                                          |
+|  16  | **Bounty Hunter**: Flash Powder, Manacles, Rope (25 ft)                                                             |
+|  17  | **Butcher**:  Pail, Saw, Whetstone                                                                                  |
+|  18  | **Carpenter**: Hammer, Metal File, Saw                                                                              |
+|  19  | **Cartographer**: Compass, Parchment & Ink (3 uses), Sextant                                                        |
+|  20  | **Cartwright**: Hand Drill, Pulley, Saw                                                                             |
+|  21  | **Chandler**: Candle (3 uses, dim), Honey, Perfume                                                                  |
+|  22  | **Charlatan**: Cards, Paint, Perfume                                                                                |
+|  23  | **Chimney Sweep**: Bellows, Climbing Spikes, Rope (25 ft)                                                           |
+|  24  | **Clockmaker**: Magnifying Glass, Metal File, Pliers                                                                |
+|  25  | **Cobbler**: Pliers, Sack, Sewing Kit                                                                               |
+|  26  | **Cook**: Flour, Pail, Smoking Herbs (3 uses)                                                                       |
+|  27  | **Cooper**: Hammer, Hand Drill, Saw                                                                                 |
+|  28  | **Courier**: Bell, Compass, Parchment & Ink (3 uses)                                                                |
+|  29  | **Crypt Custodian**: Incense, Lantern, Oil Can (6 uses)                                                             |
+|  30  | **Cultist**: Incense, Mask, Songbook                                                                                |
+|  31  | **Demolitionist**: Explosive, Goggles, Grease                                                                       |
+|  32  | **Dowser**: Dowsing Rod, Sealable Bottle, Shovel                                                                    |
+|  33  | **Duelist**: Cloak (_petty_), Gloves (_petty_), Whetstone                                                           |
+|  34  | **Entertainer**: Dice, Songbook, Wig                                                                                |
+|  35  | **Executioner**: Mask, Rope (25 ft), Whetstone                                                                      |
+|  36  | **Falconer**: Cage, Gloves (_petty_), Whistle (_petty_)                                                             |
+|  37  | **Farmer**: Rope (25 ft), Sack, Shovel                                                                              |
+|  38  | **Fence**: Bolt Cutters, Random Additional Gear, Sack                                                               |
+|  39  | **Fisher**: Air Bladder, Fishing Rod, Net                                                                           |
+|  40  | **Fletcher**: Sack, Small Trap, Whetstone                                                                           |
+|  41  | **Gambler**: Alcohol, Cards, Dice                                                                                   |
+|  42  | **Gardener**: Gloves (_petty_), Sack, Shovel                                                                        |
+|  43  | **Glassblower**: Goggles, Lens, Pliers                                                                              |
+|  44  | **Gong Farmer**: Gloves (_petty_), Sack, Shovel                                                                     |
+|  45  | **Gravedigger**: Alcohol, Ladder, Shovel                                                                            |
+|  46  | **Guard**: Lantern, Manacles, Whistle (_petty_)                                                                     |
+|  47  | **Herald**: Mask, Signal Flag, Whistle (_petty_)                                                                    |
+|  48  | **Herbalist**: Antitoxin, Mugwort, Sack                                                                             |
+|  49  | **Hermit**: Blanket, Pole (10 ft), Smoking Herbs (3 uses)                                                           |
+|  50  | **Highway Robber**: Grappling Hook, Rope (25 ft), Signal Flag                                                       |
+|  51  | **Hunter**: Large Trap, Rope (25 ft), Smoking Herbs (3 uses)                                                        |
+|  52  | **Illusionist**: Candle (3 uses, dim), Flash Powder, Mirror                                                         |
+|  53  | **Innkeeper**: Alcohol, Bandages (3 uses), Parchment & Ink (3 uses)                                                 |
+|  54  | **Jailer**: Chain (10ft), Manacles, Whistle (_petty_)                                                               |
+|  55  | **Jester**: Cards, Lute, Perfume                                                                                    |
+|  56  | **Jeweler**: Magnifying Glass, Pliers, Tongs                                                                        |
+|  57  | **Knight**: Gloves (_petty_), Signal Flag, Whetstone                                                                |
+|  58  | **Lamplighter**: Ladder (10ft, _bulky_), Oil Can (6 uses), Whistle (_petty_)                                        |
+|  59  | **Leech Collector**: Gloves (_petty_), Leech (restores 1 STR, 3 uses), Net                                          |
+|  60  | **Librarian**: Candle (3 uses, dim), Parchment & Ink (3 uses), [Spellbook](/barebones/barebones-spellbooks), Stylus |
+|  61  | **Locksmith**: Lock & Key, Metal File, Pliers                                                                       |
+|  62  | **Lumberjack**: Rope (25 ft), Saw, Whetstone                                                                        |
+|  63  | **Mason**: Chisel, Fan, Hammer                                                                                      |
+|  64  | **Merchant**: Random Additional Gear, Stylus, Wagon (+8 slots, slow)                                                |
+|  65  | **Miller**: Bowl, Flour, Rope (25 ft)                                                                               |
+|  66  | **Miner**: Lantern, Lodestone, Pickaxe                                                                              |
+|  67  | **Monk**: Candle (3 uses, dim), Cloak (_petty_), Songbook                                                           |
+|  68  | **Musician**: Bowl, Fiddle, Songbook                                                                                |
+|  69  | **Naturalist**: Hammock, Rope (25ft), Spyglass                                                                      |
+|  70  | **Navigator**: Compass, Poncho (_petty_), Spyglass                                                                  |
+|  71  | **Oil Collector**: Lantern, Oil Can (6 uses), Sealable Bottle                                                       |
+|  72  | **Painter**: Paint, Parchment & Ink (3 uses), Stylus                                                                |
+|  73  | **Peddler**: Cart (+4 slots, _bulky_), Random Additional Gear, Sack                                                 |
+|  74  | **Philosopher**: Chalk (_petty_), Parchment & Ink, Pipe                                                             |
+|  75  | **Physician**: Antitoxin, Bandages (3 uses), Crowbar                                                                |
+|  76  | **Pilgrim**: Blanket, Pole (10 ft), Poncho (_petty_)                                                                |
+|  77  | **Potter**: Chisel, Pail, Tongs                                                                                     |
+|  78  | **Priest**: Bandages (3 uses), Candle (3 uses, dim), Incense                                                        |
+|  79  | **Prospector**: Lantern, Lodestone, Pickaxe                                                                         |
+|  80  | **Rat Catcher**: Sack, Small Trap, Whistle (_petty_)                                                                |
+|  81  | **Sailor**: Hammock, Rope (50 ft), Spyglass                                                                         |
+|  82  | **Scribe**: Candle (3 uses, dim), Parchment & Ink (3 uses), Stylus                                                  |
+|  83  | **Shepherd**: Cloak (_petty_), Rope (25 ft), Whistle (_petty_)                                                      |
+|  84  | **Smuggler**: Lock & Key, Oilskin Bag, Rope (25 ft)                                                                 |
+|  85  | **Soldier**: Spiked Boots, Tent (fits 2, _bulky_), Whetstone                                                        |
+|  86  | **Spy**: Disguise Kit, Garrotte, Mirror                                                                             |
+|  87  | **Stablehand**: Blanket, Rope (25ft), Shovel                                                                        |
+|  88  | **Street Preacher**: Bell, Incense, Parchment & Ink                                                                 |
+|  89  | **Tailor**: Cloak (_petty_), Scissors, Sewing Kit                                                                   |
+|  90  | **Tanner**: Gloves (_petty_), Pliers, Tar                                                                           |
+|  91  | **Tax Collector**: Parchment & Ink (3 uses), Sealable Bottle, Whistle (_petty_)                                     |
+|  92  | **Thief**: Caltrops, Grappling Hook, Lockpick                                                                       |
+|  93  | **Tinker**: Grease, Hammer, Pliers                                                                                  |
+|  94  | **Toll Keeper**: Bell, Lock & Key, Waterproof Bag                                                                   |
+|  95  | **Toymaker**: Glue, Pliers, Scissors                                                                                |
+|  96  | **Vagabond**: Blanket, Poncho (_petty_), Rope (25 ft)                                                               |
+|  97  | **Vintner**: Alcohol, Rope (25 ft), Sealable Bottle                                                                 |
+|  98  | **Weaver**: Perfume, Rope (25 ft), Scissors                                                                         |
+|  99  | **Witch**: Candle (3 uses, dim), [Spellbook](/barebones/barebones-spellbooks), Wolfsbane                            |
+| 100  | **Witchfinder**: Rope (25 ft), Spyglass, Whistle (_petty_)                                                          |
 
 ### Armor & Weapon
 
@@ -373,7 +372,7 @@ Additionally, roll on the following tables for your character's armor, weapons, 
 | 10   | Bowl                                                |
 | 11   | Cage                                                |
 | 12   | Caltrops                                            |
-| 13   | Candle (3 uses)                                     |
+| 13   | Candle (3 uses, dim)                                     |
 | 14   | Cards                                               |
 | 15   | Cart (+4 slots, _bulky_)                            |
 | 16   | Chain (10ft)                                        |
