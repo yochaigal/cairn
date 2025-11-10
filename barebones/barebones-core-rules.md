@@ -100,13 +100,13 @@ Player Characters (PCs) have three **Attributes**:
 
 ## Non-Player Characters
 
-## Hirelings
+### Hirelings
 
 - Adventuring parties can recruit hirelings, relying on their unique skills, knowledge, and training to aid in expeditions.  
 - To create a hireling, choose an appropriate role from the [Hirelings](/barebones/marketplace#hirelings-per-day) table in the Marketplace. Roll 3d6 for each attribute and 1d6 for their HP. Give them **equipment** appropriate to their station, then roll on the Character Traits tables to further flesh them out.
 - Alternatively, follow the [**Character Creation**](/barebones/character-creation) process but select the appropriate background, name, and gear for the character.
 
-## Reactions
+### Reactions
 
 When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll 2d6 and consult the following table:
 
