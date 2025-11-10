@@ -7,20 +7,35 @@ nav_order: 3
 
 # Barebones Core Rules
 
-## Attributes
+## 1. Player Characters
 
-* Player Characters have three **Attributes**:
+### Attributes
+
+Player Characters (PCs) have three **Attributes**:
 
 - **Strength (STR)**: Used for saves requiring physical power, like lifting gates, bending bars, resisting poison, etc.
 - **Dexterity (DEX)**: Used for saves requiring poise, speed, reflexes, dodging, climbing, sneaking, balancing, etc.
 - **Willpower (WIL)**: Used for saves to persuade, deceive, interrogate, intimidate, charm, provoke, manipulate spells, etc.
 
-#### Attribute Loss
+### Attribute Loss
 
 - If a PC takes damage outside of combat, they should instead receive damage to an Attribute, typically STR.
 - If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their WIL is reduced to 0, they are delirious. Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.
 
-> Attributes are not universal descriptors. A character with a low STR is not necessarily hopelessly weak; they can still attempt to lift a heavy door or survive a deadly fight—their **risk** is simply higher.
+> Attributes are not universal descriptors. A character with a low STR is not necessarily hopelessly weak; they can still attempt to lift a heavy door or survive a deadly fight! Their risk is simply higher. 
+
+### Hit Protection
+
+- Hit Protection (HP) reflects a character's ability to avoid damage in combat. 
+- This measurement does _not_ indicate a character’s health or fortitude, nor do they lose it for very long. See [Healing & Recovery](#healing--recovery).
+
+### Healing & Recovery
+
+- Resting for a few moments and having a drink of water restores lost HP but may leave the party exposed. Bandages can stabilize a character that has taken critical damage.
+- Attribute loss (see **Critical Damage**) can usually be restored with a week's rest, facilitated by a healer or other appropriate source of expertise. 
+- Some healing services are free, while magical or more expedient means of recovery may come at a cost. 
+
+## 2. Saves & Risk
 
 ## Saves
 
@@ -28,18 +43,12 @@ nav_order: 3
 - If two opponents are each trying to overcome the other, whoever is most at risk should save.
 - If two characters need to take an action together, whoever is most at risk should save (usually the character with the lowest relevant Attribute).
 
-## Hit Protection
+### Die of Fate  
 
-- Hit Protection (HP) reflects a character's ability to avoid damage in combat. 
-- This measurement does _not_ indicate a character’s health or fortitude, nor do they lose it for very long. See [Healing & Recovery](#healing--recovery).
+- Optionally, roll 1d6 whenever the outcome of an event is uncertain or to simulate an element of randomness and chance.
+- A roll of 4 or more generally favors the PCs, while a roll of 3 or under usually means bad luck for the PCs.
 
-## Healing & Recovery
-
-- Resting for a few moments and having a drink of water restores lost HP but may leave the party exposed. Bandages can stabilize a character that has taken critical damage.
-- Attribute loss (see **Critical Damage**) can usually be restored with a week's rest, facilitated by a healer or other appropriate source of expertise. 
-- Some healing services are free, while magical or more expedient means of recovery may come at a cost. 
-
-## Inventory
+## 3. Inventory
 
 - Characters have a total of ten inventory slots but can only carry four or five items comfortably without the help of bags, backpacks, horses, carts, etc.
 - Each PC starts with a **Backpack** that can hold up to six slots of items or **Fatigue**. Carts (which must be pulled with both hands), horses, or mules can make a huge difference in how much a PC can bring with them on an adventure. **Hirelings** can also be paid to carry equipment. 
@@ -63,11 +72,13 @@ nav_order: 3
 - Shields and similar armor provide a bonus defense (e.g. +1 Armor), but only while the item is held or worn. Some may also provide additional benefits, depending on the fiction.
 - A PC, NPC, or monster cannot have more than 3 Armor.  
 
+## 4. Non-Player Characters
+
 ## Hirelings
 
 - Adventuring parties can recruit hirelings, relying on their unique skills, knowledge, and training to aid in expeditions.  
-- To create a hireling, choose an appropriate role from the [Hirelings](/second-edition/players-guide/marketplace#hirelings-per-day) table in the Marketplace. Roll 3d6 for each attribute and 1d6 for their HP. Give them **equipment** appropriate to their station, then roll on the Character Traits tables to further flesh them out.
-- Alternatively, choose an appropriate [**background**](/second-edition/players-guide/character-creation#backgrounds) and **name** from the [Character Creation](/second-edition/players-guide/character-creation) guide. Roll (or choose from) the tables for that background. Then roll for Rations, Gold Pieces, Attributes, HP, and age. 
+- To create a hireling, choose an appropriate role from the [Hirelings](/barebones/marketplace#hirelings-per-day) table in the Marketplace. Roll 3d6 for each attribute and 1d6 for their HP. Give them **equipment** appropriate to their station, then roll on the Character Traits tables to further flesh them out.
+- Alternatively, follow the [**Character Creation**](/barebones/character-creation) process but select the appropriate background, name, and gear for the character.
 
 ## Reactions
 
@@ -78,12 +89,7 @@ When the PCs encounter an NPC whose reaction to the party is not obvious, the Wa
 |    2    | 3-5  |   6-8   | 9-11 |   12    |
 | Hostile | Wary | Curious | Kind | Helpful |
 
-## Die of Fate  
-
-- Optionally, roll 1d6 whenever the outcome of an event is uncertain or to simulate an element of randomness and chance.
-- A roll of 4 or more generally favors the PCs, while a roll of 3 or under usually means bad luck for the PCs.
-
-## Magic
+## 5. Magic
 
 ### Spellbooks 
 
@@ -109,7 +115,7 @@ When the PCs encounter an NPC whose reaction to the party is not obvious, the Wa
 
 **Relics** are items imbued with a magical spell or power. They do not cause Fatigue. Relics usually have limited use, as well as a **Recharge** condition.
 
-## Combat
+## 6. Combat
 
 ### Rounds
 
@@ -152,7 +158,7 @@ On their turn, a character may move up to 40ft and take up to one action. This m
 
 - Running away from a dire situation always requires a successful DEX save, as well as a safe destination to run to.
 
-#### Morale
+### Morale
 
 - Enemies must pass a WIL save to avoid fleeing when they take their first casualty and again when they lose half their number. 
 - Some groups may use their leader's WIL in place of their own. Lone foes must save when they're reduced to 0 HP. 
@@ -163,7 +169,7 @@ On their turn, a character may move up to 40ft and take up to one action. This m
 - Ranged weapons can target any enemy near enough to see the whites of their eyes. Attacks against especially distant targets are _Impaired_.
 - Ammunition is not tracked unless otherwise specified. 
 
-## Scars
+## 7. Scars
 
 If damage to a PC would reduce their HP to exactly 0, look up the result on the table below based on the _amount of HP lost in the attack_. For example, if a PC went from 3 HP to 0 HP, they would look at entry #3 (Walloped). 
 
@@ -181,6 +187,6 @@ If damage to a PC would reduce their HP to exactly 0, look up the result on the 
 | 7           | Hamstrung: You can barely move until you get serious help and rest. After recovery, roll 3d6. If the total is higher than your max DEX, take the new result.                                                              |
 | 8           | Deafened: You cannot hear anything until you find extraordinary aid. Regardless, make a WIL save. If you pass, increase your max WIL by 1d4.                                                                              |
 | 9           | Re-brained: Some hidden part of your psyche is knocked loose. Roll 3d6. If the total is higher than your max WIL, take the new result.                                                                                    |
-| 10          | Sundered: An appendage is torn off, crippled, or useless. (The Warden will tell you which.) Then make a WIL save. If you pass, increase your max WIL by 1d6.                                                                |
+| 10          | Sundered: An appendage is torn off, crippled, or useless. (The Warden will tell you which.) Then make a WIL save. If you pass, increase your max WIL by 1d6.                                                              |
 | 11          | Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max HP.                                                                         |
 | 12          | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result. |
