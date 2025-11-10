@@ -124,14 +124,11 @@ nav_order: 5
 
 ### Attributes
 
-* Player Characters have three Attributes: **Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**.
-* Roll **3d6** for each of your character’s Attributes, in order. You may then swap any two results.
-* Attributes are not universal descriptors. A character with a low STR is not necessarily hopelessly weak; they can still attempt to lift a heavy door or survive a deadly fight—their **risk** is simply higher.
+- Roll **3d6** for each of your character’s Attributes (**Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**), in order. You may then swap any two results.
 
 ### Hit Protection
 
-* Roll **1d6** to determine your PC’s starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. It does **not** indicate a character’s health or fortitude, nor do they lose it for very long. See [Healing & Recovery](#healing--recovery).
-* If an attack would take a PC’s HP **exactly** to 0, the player must roll on the [**Scars**](#scars-table) table.
+- Roll **1d6** to determine your PC’s starting **Hit Protection** (HP).
 
 ## Traits (d10)
 

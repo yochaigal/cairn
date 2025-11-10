@@ -9,11 +9,18 @@ nav_order: 3
 
 ## Attributes
 
-Each of the three **Attributes** are used in different circumstances. (See **Saves**, below.)
+* Player Characters have three **Attributes**:
 
 - **Strength (STR)**: Used for saves requiring physical power, like lifting gates, bending bars, resisting poison, etc.
 - **Dexterity (DEX)**: Used for saves requiring poise, speed, reflexes, dodging, climbing, sneaking, balancing, etc.
 - **Willpower (WIL)**: Used for saves to persuade, deceive, interrogate, intimidate, charm, provoke, manipulate spells, etc.
+
+#### Attribute Loss
+
+- If a PC takes damage outside of combat, they should instead receive damage to an Attribute, typically STR.
+- If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their WIL is reduced to 0, they are delirious. Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.
+
+> Attributes are not universal descriptors. A character with a low STR is not necessarily hopelessly weak; they can still attempt to lift a heavy door or survive a deadly fight—their **risk** is simply higher.
 
 ## Saves
 
@@ -21,23 +28,16 @@ Each of the three **Attributes** are used in different circumstances. (See **Sav
 - If two opponents are each trying to overcome the other, whoever is most at risk should save.
 - If two characters need to take an action together, whoever is most at risk should save (usually the character with the lowest relevant Attribute).
 
+## Hit Protection
+
+- Hit Protection (HP) reflects a character's ability to avoid damage in combat. 
+- This measurement does _not_ indicate a character’s health or fortitude, nor do they lose it for very long. See [Healing & Recovery](#healing--recovery).
+
 ## Healing & Recovery
 
 - Resting for a few moments and having a drink of water restores lost HP but may leave the party exposed. Bandages can stabilize a character that has taken critical damage.
 - Attribute loss (see **Critical Damage**) can usually be restored with a week's rest, facilitated by a healer or other appropriate source of expertise. 
 - Some healing services are free, while magical or more expedient means of recovery may come at a cost. 
-
-## Deprivation & Fatigue
-
-- A PC that lacks a crucial need (such as food or rest) is **Deprived**. Anyone **Deprived** for more than a day adds **Fatigue** to their inventory, one for each day. A **Deprived** PC cannot recover HP, Attributes, or item slots from **Fatigue**.
-- A PC may also be forced to add **Fatigue** after casting spells or due to events occurring in the fiction. Each Fatigue occupies one slot and lasts until the PC is able to recuperate (such as with a full night’s rest in a safe spot).
-- If a character is forced to add **Fatigue** to their inventory but they have no free slots, they must drop an item from their inventory.
-
-## Armor
-
-- Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. 
-- Shields and similar armor provide a bonus defense (e.g. +1 Armor), but only while the item is held or worn. Some may also provide additional benefits, depending on the fiction.
-- A PC, NPC, or monster cannot have more than 3 Armor.  
 
 ## Inventory
 
@@ -50,6 +50,18 @@ Each of the three **Attributes** are used in different circumstances. (See **Sav
 - Most items take up one slot unless otherwise indicated. 
 - _Petty_ items do not take up any slots. _Bulky_ items take up **two** slots. 
 - A bag of coins worth less than 100gp is _petty_ and does not occupy a slot.
+
+## Deprivation & Fatigue
+
+- A PC that lacks a crucial need (such as food or rest) is **Deprived**. Anyone **Deprived** for more than a day adds **Fatigue** to their inventory, one for each day. A **Deprived** PC cannot recover HP, Attributes, or item slots from **Fatigue**.
+- A PC may also be forced to add **Fatigue** after casting spells or due to events occurring in the fiction. Each Fatigue occupies one slot and lasts until the PC is able to recuperate (such as with a full night’s rest in a safe spot).
+- If a character is forced to add **Fatigue** to their inventory but they have no free slots, they must drop an item from their inventory.
+
+## Armor
+
+- Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. 
+- Shields and similar armor provide a bonus defense (e.g. +1 Armor), but only while the item is held or worn. Some may also provide additional benefits, depending on the fiction.
+- A PC, NPC, or monster cannot have more than 3 Armor.  
 
 ## Hirelings
 
@@ -127,11 +139,6 @@ On their turn, a character may move up to 40ft and take up to one action. This m
 - Damage that reduces a target's HP below zero is subtracted _from their STR_ by the amount of damage remaining. The target must then immediately make a STR save to avoid taking **Critical Damage**, using their _new STR score_. On a success, the target is still in the fight (albeit with a lower STR score) and must continue to make critical damage saves when incurring damage.
 - Any PC that suffers Critical Damage cannot do anything but crawl weakly, grasping for life. If given aid (such as bandages), they will stabilize. If left untreated, they die within the hour. NPCs and monsters that fail a Critical Damage save are considered dead, per the **Warden's** discretion. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save. 
 
-### Attribute Loss
-
-- If a PC takes damage outside of combat, they should instead receive damage to an Attribute, typically STR.
-- If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their WIL is reduced to 0, they are delirious. Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.
-
 ### Character Death
 
 - When a character dies, the player should create a new character or take control of a hireling. They immediately join the party in order to reduce downtime.
@@ -140,10 +147,16 @@ On their turn, a character may move up to 40ft and take up to one action. This m
 
 - Large groups of similar combatants fighting together are treated as a single _Detachment_. When a _detachment_ takes **Critical Damage**, it is routed or significantly weakened. When it reaches 0 STR, it is destroyed.
 - Attacks against detachments by individuals are _impaired_ (excluding _blast_ damage). Attacks against individuals by detachments are _enhanced_ and deal _blast_ damage.
-
+  
 ### Retreat
 
 - Running away from a dire situation always requires a successful DEX save, as well as a safe destination to run to.
+
+#### Morale
+
+- Enemies must pass a WIL save to avoid fleeing when they take their first casualty and again when they lose half their number. 
+- Some groups may use their leader's WIL in place of their own. Lone foes must save when they're reduced to 0 HP. 
+- Morale does not affect PCs.
 
 ### Ranged Attacks
 
@@ -171,10 +184,3 @@ If damage to a PC would reduce their HP to exactly 0, look up the result on the 
 | 10          | Sundered: An appendage is torn off, crippled, or useless. (The Warden will tell you which.) Then make a WIL save. If you pass, increase your max WIL by 1d6.                                                                |
 | 11          | Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max HP.                                                                         |
 | 12          | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result. |
-
-### Morale
-
-- Enemies must pass a WIL save to avoid fleeing when they take their first casualty and again when they lose half their number. 
-- Some groups may use their leader's WIL in place of their own. Lone foes must save when they're reduced to 0 HP. 
-- Morale does not affect PCs.
-
