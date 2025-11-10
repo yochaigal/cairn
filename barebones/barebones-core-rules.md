@@ -169,11 +169,11 @@ On their turn, a character may move up to 40ft and take up to one action. This m
 - Ranged weapons can target any enemy near enough to see the whites of their eyes. Attacks against especially distant targets are _Impaired_.
 - Ammunition is not tracked unless otherwise specified. 
 
-## 6. Scars
+### Scars
 
 If damage to a PC would reduce their HP to exactly 0, look up the result on the table below based on the _amount of HP lost in the attack_. For example, if a PC went from 3 HP to 0 HP, they would look at entry #3 (Walloped). 
 
-### Scars Table
+#### Scars Table
 
 |             |                                                                                                                                                                                                                           |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
