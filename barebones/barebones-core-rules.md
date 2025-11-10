@@ -7,7 +7,7 @@ nav_order: 3
 
 # Barebones Core Rules
 
-## 1. Player Characters
+## Player Characters
 
 ### Attributes
 
@@ -59,7 +59,7 @@ Player Characters (PCs) have three **Attributes**:
 - A PC may also be forced to add **Fatigue** after casting spells or due to events occurring in the fiction. Each Fatigue occupies one slot and lasts until the PC is able to recuperate (such as with a full night’s rest in a safe spot).
 - If a character is forced to add **Fatigue** to their inventory but they have no free slots, they must drop an item from their inventory.
 
-## 2. Saves & Risk
+## Saves & Risk
 
 ## Saves
 
@@ -72,7 +72,7 @@ Player Characters (PCs) have three **Attributes**:
 - Optionally, roll 1d6 whenever the outcome of an event is uncertain or to simulate an element of randomness and chance.
 - A roll of 4 or more generally favors the PCs, while a roll of 3 or under usually means bad luck for the PCs.
 
-## 3. Magic
+## Magic
 
 ### Spellbooks 
 
@@ -98,7 +98,7 @@ Player Characters (PCs) have three **Attributes**:
 
 **Relics** are items imbued with a magical spell or power. They do not cause Fatigue. Relics usually have limited use, as well as a **Recharge** condition.
 
-## 4. Non-Player Characters
+## Non-Player Characters
 
 ## Hirelings
 
@@ -115,7 +115,7 @@ When the PCs encounter an NPC whose reaction to the party is not obvious, the Wa
 |    2    | 3-5  |   6-8   | 9-11 |   12    |
 | Hostile | Wary | Curious | Kind | Helpful |
 
-## 5. Combat
+## Combat
 
 ### Rounds
 
