@@ -41,20 +41,7 @@ Player Characters (PCs) have three **Attributes**:
 - Shields and similar armor provide a bonus defense (e.g. +1 Armor), but only while the item is held or worn. Some may also provide additional benefits, depending on the fiction.
 - A PC, NPC, or monster cannot have more than 3 Armor.  
 
-## 2. Saves & Risk
-
-## Saves
-
-- A save is a roll to avoid negative outcomes from risky choices. Characters roll a d20 and compare the results to the appropriate attribute. If they roll equal to or under that attribute, they succeed. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
-- If two opponents are each trying to overcome the other, whoever is most at risk should save.
-- If two characters need to take an action together, whoever is most at risk should save (usually the character with the lowest relevant Attribute).
-
-### Die of Fate  
-
-- Optionally, roll 1d6 whenever the outcome of an event is uncertain or to simulate an element of randomness and chance.
-- A roll of 4 or more generally favors the PCs, while a roll of 3 or under usually means bad luck for the PCs.
-
-## 3. Inventory
+## Inventory
 
 - Characters have a total of ten inventory slots but can only carry four or five items comfortably without the help of bags, backpacks, horses, carts, etc.
 - Each PC starts with a **Backpack** that can hold up to six slots of items or **Fatigue**. Carts (which must be pulled with both hands), horses, or mules can make a huge difference in how much a PC can bring with them on an adventure. **Hirelings** can also be paid to carry equipment. 
@@ -72,24 +59,20 @@ Player Characters (PCs) have three **Attributes**:
 - A PC may also be forced to add **Fatigue** after casting spells or due to events occurring in the fiction. Each Fatigue occupies one slot and lasts until the PC is able to recuperate (such as with a full night’s rest in a safe spot).
 - If a character is forced to add **Fatigue** to their inventory but they have no free slots, they must drop an item from their inventory.
 
-## 4. Non-Player Characters
+## 2. Saves & Risk
 
-## Hirelings
+## Saves
 
-- Adventuring parties can recruit hirelings, relying on their unique skills, knowledge, and training to aid in expeditions.  
-- To create a hireling, choose an appropriate role from the [Hirelings](/barebones/marketplace#hirelings-per-day) table in the Marketplace. Roll 3d6 for each attribute and 1d6 for their HP. Give them **equipment** appropriate to their station, then roll on the Character Traits tables to further flesh them out.
-- Alternatively, follow the [**Character Creation**](/barebones/character-creation) process but select the appropriate background, name, and gear for the character.
+- A save is a roll to avoid negative outcomes from risky choices. Characters roll a d20 and compare the results to the appropriate attribute. If they roll equal to or under that attribute, they succeed. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
+- If two opponents are each trying to overcome the other, whoever is most at risk should save.
+- If two characters need to take an action together, whoever is most at risk should save (usually the character with the lowest relevant Attribute).
 
-## Reactions
+### Die of Fate  
 
-When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll 2d6 and consult the following table:
+- Optionally, roll 1d6 whenever the outcome of an event is uncertain or to simulate an element of randomness and chance.
+- A roll of 4 or more generally favors the PCs, while a roll of 3 or under usually means bad luck for the PCs.
 
-|         |      |         |      |         |
-| :-----: | :--: | :-----: | :--: | :-----: |
-|    2    | 3-5  |   6-8   | 9-11 |   12    |
-| Hostile | Wary | Curious | Kind | Helpful |
-
-## 5. Magic
+## 3. Magic
 
 ### Spellbooks 
 
@@ -115,7 +98,24 @@ When the PCs encounter an NPC whose reaction to the party is not obvious, the Wa
 
 **Relics** are items imbued with a magical spell or power. They do not cause Fatigue. Relics usually have limited use, as well as a **Recharge** condition.
 
-## 6. Combat
+## 4. Non-Player Characters
+
+## Hirelings
+
+- Adventuring parties can recruit hirelings, relying on their unique skills, knowledge, and training to aid in expeditions.  
+- To create a hireling, choose an appropriate role from the [Hirelings](/barebones/marketplace#hirelings-per-day) table in the Marketplace. Roll 3d6 for each attribute and 1d6 for their HP. Give them **equipment** appropriate to their station, then roll on the Character Traits tables to further flesh them out.
+- Alternatively, follow the [**Character Creation**](/barebones/character-creation) process but select the appropriate background, name, and gear for the character.
+
+## Reactions
+
+When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll 2d6 and consult the following table:
+
+|         |      |         |      |         |
+| :-----: | :--: | :-----: | :--: | :-----: |
+|    2    | 3-5  |   6-8   | 9-11 |   12    |
+| Hostile | Wary | Curious | Kind | Helpful |
+
+## 5. Combat
 
 ### Rounds
 
@@ -169,7 +169,7 @@ On their turn, a character may move up to 40ft and take up to one action. This m
 - Ranged weapons can target any enemy near enough to see the whites of their eyes. Attacks against especially distant targets are _Impaired_.
 - Ammunition is not tracked unless otherwise specified. 
 
-## 7. Scars
+## 6. Scars
 
 If damage to a PC would reduce their HP to exactly 0, look up the result on the table below based on the _amount of HP lost in the attack_. For example, if a PC went from 3 HP to 0 HP, they would look at entry #3 (Walloped). 
 
