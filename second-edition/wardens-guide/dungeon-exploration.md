@@ -50,7 +50,7 @@ A wide courtyard exposed to the **open air**. The **ground** is sandy and rough.
 
 > **The Warden then moves to describe another character's actions, as they are happening simultaneously.**
 
-**Warden**: "Let's see what **Lucius** is up to."_
+**Warden**: _"Let's see what **Lucius** is up to."_
 
 **Warden**: _"**Lucius**, the **door** is locked, ancient, and partly rotted away. It bears a rusted iron lock. What do you do now?"_
 
