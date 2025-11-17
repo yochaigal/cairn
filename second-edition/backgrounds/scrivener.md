@@ -23,7 +23,7 @@ Lazlo, Stilo, Akshara, Pisa, Ji-Yun, Kalamos, Hugo, Shui, Kalam, Julius
 - Awl (d6)
 - Badge (_petty_)
 
-## What work did you keep for yourself? Roll 1d6.
+## What work did you keep for yourself? Roll 1d6:
 
 |       |                                                                                                                                                                                                           |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -34,7 +34,7 @@ Lazlo, Stilo, Akshara, Pisa, Ji-Yun, Kalamos, Hugo, Shui, Kalam, Julius
 | **5** | **The Cathedral and the Canopy**. Large-leaf binding over vellum. Nominally a children's storybook, the margins detail information about traveling, eating, and sleeping in the cloud forests.            |
 | **6** | **Garden of Glass**. Bound in the cover of another book. A heretical work, it describes the materials, procedures, and optimal locations required to open a **Gate**.                                     |
 
-## How do you transcribe sensitive information? Roll 1d6.
+## How do you transcribe sensitive information? Roll 1d6:
 
 |       |                   |                                                                                                                           |
 | ----- | ----------------- | ------------------------------------------------------------------------------------------------------------------------- |
