@@ -228,8 +228,17 @@ grand_parent: Second Edition
 
 ### Ruler Names Formula
 
-### Ruler Types
+|        |                                                  |
+| ------ | ------------------------------------------------ |
+| **d6** | **Formula**                                      |
+| **1**  | (The) **[Noun]** **[Rulers]**                    |
+| **2**  | (The) **[Adjective]** **[Rulers]**               |
+| **3**  | **[Rulers]** of (the) **[Noun]**                 |
+| **4**  | **[Adjective]** **[Rulers]** of (the) **[Noun]** |
+| **5**  | (The) **[Noun]** **[Adjective]** **[Rulers]**    |
+| **6**  | **[Rulers]** of (the) **[Adjective]** **[Noun]** |
 
+### Ruler Types
 
 |         |                   |
 | ------- | ----------------- |
@@ -255,15 +264,6 @@ grand_parent: Second Edition
 | **19**  | **State**         |
 | **20**  | **Union**         |
 
-|        |                                                  |
-| ------ | ------------------------------------------------ |
-| **d6** | **Formula**                                      |
-| **1**  | (The) **[Noun]** **[Rulers]**                    |
-| **2**  | (The) **[Adjective]** **[Rulers]**               |
-| **3**  | **[Rulers]** of (the) **[Noun]**                 |
-| **4**  | **[Adjective]** **[Rulers]** of (the) **[Noun]** |
-| **5**  | (The) **[Noun]** **[Adjective]** **[Rulers]**    |
-| **6**  | **[Rulers]** of (the) **[Adjective]** **[Noun]** |
 
 ### Forest Names
 
