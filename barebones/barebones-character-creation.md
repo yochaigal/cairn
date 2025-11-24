@@ -331,7 +331,7 @@ All PCs start with the following gear:
 
 Additionally, roll on the following tables for your character's armor, weapons, and additional gear:
 
-#### Armor (d8)
+#### Armor (d6)
 
 |  d6   | Armor                                              |
 | :---: | :------------------------------------------------- |
@@ -343,7 +343,7 @@ Additionally, roll on the following tables for your character's armor, weapons, 
 | **6** | Plate (3 Armor, _bulky_)                           |
 
 
-#### Weapons (d8)
+#### Weapons (d6)
 
 |  d6   | Weapons                                                     |
 | :---: | :---------------------------------------------------------- |
