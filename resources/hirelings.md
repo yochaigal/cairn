@@ -98,8 +98,9 @@ Below are example hirelings for use in your Cairn campaign.
 - Rations (3 uses)
 - Candle (3 uses, dim)
 - Parchment & Ink (3 uses)
+- Stylus
 - Staff (d6)
-- Random [Spellbook](/second-edition/wardens-guide/spellbooks)  
+- Robes (_petty_)
 
 ##  Tracker
 
