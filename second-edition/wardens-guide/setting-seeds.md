@@ -602,7 +602,7 @@ Roll 1d20 for each column and combine the results.
 | **19**  | Tower         | Toxic        |
 | **20**  | Workshop      | Warped       |
 
-> See the [Dungeon Seeds](/wip/dungeon-seeds) chapter (p.x) for how to flesh out each Dungeon POI for your setting.
+> See the [Dungeon Seeds](/second-edition/wardens-guide/dungeon-seeds) chapter for how to flesh out each Dungeon POI for your setting.
 
 ## Paths
 
