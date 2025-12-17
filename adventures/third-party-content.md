@@ -13,5 +13,5 @@ The game is released under [**Creative Commons Attribution-ShareAlike 4.0 (CC-BY
 
 ## FAQ
 
-### Do I need permission to publish an adventure or supplement  
+### Do I need permission to publish an adventure or supplement?
 No.
