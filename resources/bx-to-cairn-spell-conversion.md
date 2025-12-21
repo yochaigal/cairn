@@ -125,7 +125,7 @@ parent: Resources
 |           |        |                       |                       |
 | --------- | ------ | --------------------- | --------------------- |
 | B/X Level | Class  | B/X Spell             | Cairn Equivalent      |
-| 1st       | Cleric | Cure Light Wounds     | Charm                 |
+| 1st       | Cleric | Cure Light Wounds     | Cure Wounds           |
 | 1st       | Cleric | Darkness              | Night Sphere or Snuff |
 | 1st       | Cleric | Detect Evil           | Read Mind             |
 | 1st       | Cleric | Detect Magic          | Detect Magic          |
