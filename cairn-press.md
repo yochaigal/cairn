@@ -1,11 +1,6 @@
 ---
 layout: default
 title: Cairn Press
-nav_order: 6
+nav_order: 7
+redirect_to: https://cairnpress.ink
 ---
-
-# Cairn Press
-
-### Need Help Bringing Your Cairn Creation to Life?
-
-**Cairn Press** is a publishing imprint built to support creators looking to get their work published. Learn more at [https://cairnpress.ink](https://cairnpress.ink/).
