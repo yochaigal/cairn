@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Cairn Press
-parent: Adventures
-nav_order: 5
+nav_order: 6
 ---
 
 # Cairn Press
