@@ -9,6 +9,7 @@ title: Tomb Robbers of the Crystal Frontier
 
 - Converted from the [original work by Gus L./Ratking Productions](https://www.drivethrurpg.com/product/357799/Tomb-Robbers-of-the-Crystal-Frontier).
 - Converted by [Naeolin](https://widdershinswanderings.bearblog.dev/) with help from Xenio and Yochai Gal.
+- [PDF version](https://drive.google.com/file/d/1CxJ7ZKD-swvm2A1MA2sNgpuyJES37Sr1/view?usp=sharing) provided by pbcrazy.
 
 ### Adipose Mab's Mule Train
 
