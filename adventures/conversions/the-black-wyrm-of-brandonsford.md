@@ -36,7 +36,6 @@ Conversion by [Derek B.](https://widdershinswanderings.bearblog.dev/) and Yochai
 
 2 HP, 3 STR, 15 DEX, 3 WIL, stinger (d4)
 
-
 ### Squints
 
 3 HP, 1 Armor, 8 STR, 14 DEX, 9 WIL, dagger (d6) or sling (d6)
@@ -65,6 +64,7 @@ Conversion by [Derek B.](https://widdershinswanderings.bearblog.dev/) and Yochai
 4 HP, 8 STR, 14 DEX, 3 WIL, bite (d6)
 
 - **Ravenous**: These wolves are so starved they will ignore **Morale** Saves related to casualties, only saving whenever they are reduced to 0 HP.
+
 ### Drunk Goblins
 
 2 HP, 8 STR, 8 DEX, 8 WIL, 1 weapon (d6)
