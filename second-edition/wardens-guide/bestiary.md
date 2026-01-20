@@ -21,7 +21,7 @@ grand_parent: Second Edition
 | **7**   | Fey           | Boggart, Dryad, Frost Elf, Pixie, Red Cap, Night Hag, Sea Hag, Will-o-Wisp  |
 | **8**   | Giant         | Ettin, Sky Giant, Storm Giant, Titan                                        |
 | **9**   | Goblinoid     | Bugbear, Goblin, Hobgoblin, Ogre, Root Goblin, Troll, Wood Troll            |
-| **10**  | Humanoid      | Acolyte, Bandit, Frost Elf, Gnoll, Hooded Men, Triton                       |
+| **10**  | Humanoid      | Acolyte, Bandit, Gnoll, Hooded Men, Triton                                  |
 | **11**  | Hybrid        | Centaur, Manticore, Minotaur, Owlbear                                       |
 | **12**  | Incorporeal   | Invisible Stalker, Shadow                                                   |
 | **13**  | Insectoid     | Aranea, Burrowing Horror, Cave Locust, Giant Scorpion                       |
