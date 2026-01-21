@@ -10,36 +10,40 @@ nav_order: 6
 ### Fighter
 
 * 3d6 Gold Pieces
-* Rations (3 uses)
+* Pemmican (5 uses)
 * Torches (3 uses)
-* Sword (d8)
-* Throwing Dagger (d6)
+* Bandages (3 uses)
+* Rope
 * Shield (+1 Armor)
 * Gambeson (+1 Armor)
-* Bandages (3 uses)
-* Token from a fallen comrade (_petty_)
+* Sword (d8)
+* Throwing Dagger (d6)
+* Dog Tags (_petty_)
 
 ### Thief
 
 * 3d6 Gold Pieces
 * Rations (3 uses)
-* Torches (3 uses)
+* Twin Folding Daggers (d6+d6)
+* Bullseye Lantern
+* Oil Can (6 uses)
+* Caltrops
+* Small Mirror
 * Lockpick 
 * Grappling Hook  
-* Caltrops
-* Twin Folding Daggers (d6+d6)
-* Tiny Mirror
 * Dark Hood (_petty_)
+* Chalk (_petty_)
 
 ### Magic-User
 
 * 3d6 Gold Pieces
 * Rations (3 uses)
-* Torches (3 uses)
-* Spellbook: _Detect Magic_ 
-* Spellbook: _Sleep_
 * Staff (d6)
-* Chalk (_petty_)
+* Knife (d6)
+* Spellbook: _Illuminate_ 
+* Spellbook: _Sleep_
+* Scroll of _Detect Magic_ 
+* Parchment & Ink (3 uses)
 * Robes (_petty_)
 
 ### Cleric
@@ -47,8 +51,8 @@ nav_order: 6
 * 3d6 Gold Pieces
 * Rations (3 uses)
 * Torches (3 uses)
-* Spellbook: _Cure Wounds_
 * War Hammer (d10, _bulky_)  
 * Helmet (+1 Armor)
+* Spellbook: _Cure Wounds_
 * Bandages (3 uses)
-* Holy Symbol (_petty_, casts _Ward_ once per day)
+* Bone Charm (_petty_, casts _Ward_ once per day)
