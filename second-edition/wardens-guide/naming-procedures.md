@@ -267,10 +267,10 @@ grand_parent: Second Edition
 
 ### Forest Names
 
-- Combine words from the following table by rolling a **d10** twice, first for the **tens** place, and then another for the **ones** place. Repeat the process for the noun. 
+- For the adjective, roll a **d10** twice, first for the **tens** place, and then another for the **ones** place. Then repeat the process for the noun.
 - Change it up! The name _Welcoming Grove_ might be more appropriate than _Beckoning Copse_ for your setting.
 - Use contrasting words (e.g. _Twisted Canopy_) to evoke an interesting point about the location.
-- Alliteration and pleasing combinations can create pleasant sounds. _Whispering Woods_ is more pleasing to the ear than _Tangled Woods._ 
+- Make it sound nice. Alliteration and pleasing combinations can create pleasant sounds. _Whispering Woods_ is more pleasing to the ear than _Tangled Woods._ 
 
 |          |                |             |
 | -------- | -------------- | ----------- |
