@@ -1,138 +1,138 @@
 ---
 layout: default
-title: Overview & Principles
-parent: Player's Guide
-grand_parent: Second Edition
+title: סקירה ועקרונות
+parent: מדריך השחקן
+grand_parent: מהדורה שנייה
 ---
 
-# Overview & Principles
+# סקירה ועקרונות
 
-## Overview
+## סקירה
 
-### Neutrality
+### ניטרליות
 
-The Warden's role is to act as a neutral arbiter and portray the rules, situations, non-player characters (NPCs), and narrative clearly.
+תפקיד הזקיף הוא לשמש כשופט ניטרלי ולהציג את החוקים, המצבים, הדמויות שאינן שחקנים (דל"שים), והנרטיב בצורה ברורה.
 
-### Classless
+### ללא מחלקות
 
-A character's role or skills are not limited by a single class. Instead, the equipment they carry and their experiences define their specialty.
+תפקידה או כישוריה של דמות אינם מוגבלים על ידי מחלקה יחידה. במקום זאת, הציוד שהיא נושאת והחוויות שלה מגדירים את התמחותה.
 
-### Death
+### מוות
 
-Characters may be powerful, but they are also vulnerable to harm in its many forms. Death is always around the corner, but it is never random or without warning.
+דמויות עשויות להיות חזקות, אך הן גם פגיעות לנזק בצורותיו הרבות. המוות תמיד אורב מעבר לפינה, אך הוא לעולם אינו אקראי או ללא אזהרה.
 
-### Fiction First
+### הסיפור קודם
 
-Dice do not always reflect an obstacle's difficulty or its outcome. Instead, success and failure are based on in-world elements and arbitrated by the Warden in dialogue with the players.
+קוביות לא תמיד משקפות את רמת הקושי של מכשול או את תוצאתו. במקום זאת, הצלחה וכישלון מבוססים על אלמנטים בעולם המשחק ומוכרעים על ידי הזקיף בשיח עם השחקנים.
 
-### Growth
+### התפתחות
 
-Characters are changed through in-world advancement, gaining new skills and abilities by surviving dangerous events and overcoming obstacles.
+דמויות משתנות דרך התקדמות בעולם המשחק, רוכשות כישורים ויכולות חדשות על ידי שרידה מאירועים מסוכנים והתגברות על מכשולים.
 
-### Player Choice
+### בחירת השחקן
 
-Players should always understand the reasons behind the choices they've made, and information about potential risks should be provided freely and frequently.
+שחקנים צריכים תמיד להבין את הסיבות מאחורי הבחירות שעשו, ומידע על סיכונים פוטנציאליים צריך להינתן בחופשיות ובתדירות.
 
-### Principles
+### עקרונות
 
-The Warden and the players each have guidelines that help foster a specific play experience defined by critical thinking, exploration, and an emergent narrative.
+לזקיף ולשחקנים יש הנחיות שעוזרות לטפח חוויית משחק ספציפית המוגדרת על ידי חשיבה ביקורתית, חקירה, ונרטיב מתהווה.
 
-### Shared Objectives
+### מטרות משותפות
 
-Players trust one another to engage with the shared setting, character goals, and party challenges. Therefore the party is typically working together towards a common goal, as a team.
+שחקנים סומכים זה על זה לעסוק בסביבה המשותפת, במטרות הדמויות, ובאתגרי הקבוצה. לכן הקבוצה בדרך כלל עובדת יחד לקראת מטרה משותפת, כצוות.
 
-## Principles for Players
+## עקרונות לשחקנים
 
-### Agency
+### יוזמה
 
-- Attributes and related saves do not define your character. They are tools.
-- Don't ask only what your character would do; ask what you would do, too.
-- Be creative with your intuition, items, and connections.
+- מאפיינים והצלות הקשורות אליהם לא מגדירים את הדמות שלך. הם כלים.
+- אל תשאל רק מה הדמות שלך הייתה עושה; שאל גם מה אתה היית עושה.
+- היה יצירתי עם האינטואיציה, הפריטים, והקשרים שלך.
 
-### Teamwork
+### עבודת צוות
 
-- Seek consensus from the other players before barreling forward.
-- Stay on the same page about goals and limits, respecting each other and accomplishing more as a group than alone.
+- חפש הסכמה מהשחקנים האחרים לפני שאתה מתקדם בכוח.
+- היה על אותו הדף לגבי מטרות וגבולות, כבד אחד את השני והשג יותר כקבוצה מאשר לבד.
 
-### Exploration
+### חקירה
 
-- Asking questions and listening to detail is more useful than any stats, items, or skills you have.
-- Take the Warden's description without suspicion, but don't shy away from seeking more information.
-- There is no single correct way forward.
+- לשאול שאלות ולהקשיב לפרטים שימושי יותר מכל נתון, פריט, או כישור שיש לך.
+- קבל את תיאור הזקיף ללא חשד, אך אל תימנע מלחפש מידע נוסף.
+- אין דרך אחת נכונה להתקדם.
 
-### Talking
+### דיבור
 
-- Treat NPCs as if they were real people, and rely on your curiosity to safely gain information and solve problems.
-- You'll find that most people are interesting and will want to talk things through before getting violent.
+- התייחס לדל"שים כאילו היו אנשים אמיתיים, והסתמך על הסקרנות שלך כדי להשיג מידע בבטחה ולפתור בעיות.
+- תגלה שרוב האנשים מעניינים וירצו לדבר על דברים לפני שיהפכו לאלימים.
 
-### Caution
+### זהירות
 
-- Fighting is a choice and rarely a wise one; consider whether violence is the best way to achieve your goals.
-- Try to stack the odds in your favor, and retreat when things seem unfavorable.
+- קרב הוא בחירה ולעיתים רחוקות חכמה; שקול האם אלימות היא הדרך הטובה ביותר להשיג את מטרותיך.
+- נסה להטות את הסיכויים לטובתך, וסוג כשהדברים נראים לא נוחים.
 
-### Planning
+### תכנון
 
-- Think of ways to avoid your obstacles through reconnaissance, subtlety, and fact-finding.
-- Do some research, and ask around about your objectives.
+- חשוב על דרכים להימנע ממכשולים דרך סיור, עדינות, ואיסוף עובדות.
+- עשה קצת מחקר, ושאל סביב לגבי המטרות שלך.
 
-### Ambition
+### שאיפה
 
-- Set goals, and use your meager means to take steps forward.
-- Expect nothing. Earn your reputation.
-- Keep things moving forward, and play to see what happens.
+- הצב מטרות, והשתמש באמצעים הדלים שלך כדי להתקדם.
+- אל תצפה לכלום. הרווח את המוניטין שלך.
+- שמור על התקדמות, ושחק כדי לראות מה קורה.
 
-## Principles for Wardens
+## עקרונות לזקיפים
 
-### Information
+### מידע
 
-- Provide useful information about the game world as the characters explore it.
-- Players do not need to roll dice to learn about their circumstances.
-- Be helpful and direct with your answers to their questions.
-- Respond honestly, describe consistently, and always let them know they can keep asking questions.
+- ספק מידע שימושי על עולם המשחק כאשר הדמויות חוקרות אותו.
+- שחקנים לא צריכים להטיל קוביות כדי ללמוד על נסיבותיהם.
+- היה מועיל וישיר בתשובותיך לשאלותיהם.
+- ענה בכנות, תאר בעקביות, ותמיד תן להם לדעת שהם יכולים להמשיך לשאול שאלות.
 
-### Difficulty
+### קושי
 
-- Default to context and realism rather than numbers and mechanics.
-- If something the players want to do is sincerely impossible, no roll will allow them to do it.
-- Is what the player describes and how they leverage the situation sensible? Let it happen.
-- Saves cover a great deal of uncertain situations and are often all that is necessary for risky actions.
+- העדף הקשר וריאליזם על פני מספרים ומכניקות.
+- אם משהו שהשחקנים רוצים לעשות הוא באמת בלתי אפשרי, שום הטלה לא תאפשר להם לעשות זאת.
+- האם מה שהשחקן מתאר ואיך הוא ממנף את המצב הגיוני? תן לזה לקרות.
+- הצלות מכסות מגוון רחב של מצבים לא ודאיים ולעיתים קרובות הן כל מה שנדרש לפעולות מסוכנות.
 
-### Preparation
+### הכנה
 
-- The game world is organic, malleable and random. It intuits and makes sharp turns.
-- Use random tables and generators to develop situations, not stories or plots.
-- NPCs remember what the PCs say and do, and how they affect the world.
-- NPCs don't want to die. Infuse their own self-interest and will to live into every personality.
+- עולם המשחק הוא אורגני, גמיש ואקראי. הוא מתפתח בצורה אינטואיטיבית ועושה פניות חדות.
+- השתמש בטבלאות אקראיות ומחוללים לפתח מצבים, לא סיפורים או עלילות.
+- דל"שים זוכרים מה השחקנים אומרים ועושים, ואיך הם משפיעים על העולם.
+- דל"שים לא רוצים למות. הכנס את האינטרס העצמי שלהם ואת הרצון לחיות לכל אישיות.
 
-### Narrative Focus
+### מיקוד נרטיבי
 
-- Emergent experience of play is what matters, not math or character abilities. Give the players weapon trainers and personal quests to facilitate improvement and specialization.
-- Pay attention to the needs and wants of the players, then put realistic opportunities in their path.
-- A dagger to your throat will kill you, regardless of your expensive armor and impressive training.
+- חוויית המשחק המתהווה היא מה שחשוב, לא מתמטיקה או יכולות דמות. תן לשחקנים מאמני נשק ומשימות אישיות כדי להקל על שיפור והתמחות.
+- שים לב לצרכים ולרצונות של השחקנים, ואז שים הזדמנויות ריאליסטיות בדרכם.
+- פגיון לגרונך יהרוג אותך, ללא קשר לשריון היקר שלך ולאימון המרשים.
 
-### Danger
+### סכנה
 
-- The game world produces real risk of pain and death for the player characters.
-- Telegraph serious danger to players when it is present. The more dangerous, the more obvious.
-- Put traps in plain sight and let the players take time to figure out a solution.
-- Give players opportunities to solve problems and interact with the world.
+- עולם המשחק מייצר סיכון אמיתי לכאב ומוות עבור דמויות השחקנים.
+- אותת על סכנה רצינית לשחקנים כשהיא קיימת. ככל שהסכנה גדולה יותר, כך היא צריכה להיות ברורה יותר.
+- שים מלכודות לעין ותן לשחקנים זמן להבין פתרון.
+- תן לשחקנים הזדמנויות לפתור בעיות ולתקשר עם העולם.
 
-### Treasure
+### אוצר
 
-- A Treasure is specific to the environment from where it is recovered. It tells a story.
-- Treasure is highly valuable, almost always bulky, and rarely useful beyond its worth and prestige.
-- Relics are not Treasure, though they are useful and interesting.
-- Use Treasure as a lure to exotic locations under the protection of intimidating foes.
+- אוצר הוא ספציפי לסביבה ממנה הוא נאסף. הוא מספר סיפור.
+- אוצר הוא בעל ערך גבוה, כמעט תמיד מגושם, ולעיתים רחוקות שימושי מעבר לערכו וליוקרתו.
+- שרידים אינם אוצר, למרות שהם שימושיים ומעניינים.
+- השתמש באוצר כפיתיון למיקומים אקזוטיים תחת הגנתם של אויבים מאיימים.
 
-### Choice
+### בחירה
 
-- Give players a solid choice to force outcomes when the situation lulls.
-- Use binary "so, A or B?" responses when their intentions are vague.
-- Work together using this conversational method to keep the game moving.
-- Ensure that the player character's actions leave their mark on the game world.
+- תן לשחקנים בחירה מוצקה לאלץ תוצאות כשהמצב קופא.
+- השתמש בתגובות בינאריות "אז, א או ב?" כשכוונותיהם מעורפלות.
+- עבוד יחד באמצעות שיטת השיחה הזו כדי לשמור על המשחק זורם.
+- ודא שפעולות דמויות השחקנים משאירות את חותמן על עולם המשחק.
 
-### Die of Fate
+### קובית הגורל
 
-- Occasionally you will want an element of randomness (e.g. the weather, unique character knowledge, etc.).
-- In these situations, roll 1d6. A roll of 4 or more generally favors the players.
-- A roll of 3 or under tends to mean bad luck for the PCs or their allies.
+- מדי פעם תרצה אלמנט של אקראיות (למשל, מזג האוויר, ידע ייחודי של דמות, וכו').
+- במצבים אלה, הטל ק6. תוצאה של 4 ומעלה בדרך כלל מטיבה עם השחקנים.
+- תוצאה של 3 ומטה נוטה להיות מזל רע לדמויות השחקנים או לבעלי בריתם.

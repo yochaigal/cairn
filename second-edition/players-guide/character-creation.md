@@ -1,194 +1,194 @@
 ---
 layout: default
-title: Character Creation
-parent: Player's Guide
-grand_parent: Second Edition
+title: יצירת דמות
+parent: מדריך השחקן
+grand_parent: מהדורה שנייה
 ---
 
-# Character Creation 
+# יצירת דמות
 
-## Roll or choose a Background
+## הגרל או בחר רקע
 
-- First, roll or choose from the [Backgrounds](#backgrounds) table below and note the page number. You will refer to that page for the next few steps.
-- Choose a name from the available list, then record each of your character's starting items. See [Inventory](#inventory) and [Inventory Slots](#inventory-slots) for how to record items. 
-- Roll on each of the included tables in the background. Record your character's items, skills, or abilities from each result. Some backgrounds may ask you to refer to the tables in the [Marketplace](/second-edition/players-guide/marketplace) as well.
+- ראשית, הגרל או בחר מטבלת [הרקעים](#רקעים) למטה ורשום את מספר העמוד. תתייחס לעמוד זה בשלבים הבאים.
+- בחר שם מהרשימה הזמינה, ואז רשום כל אחד מפריטי ההתחלה של הדמות שלך. ראה [מלאי](#מלאי) ו[משבצות מלאי](#משבצות-מלאי) לאופן רישום פריטים.
+- הגרל על כל אחת מהטבלאות הכלולות ברקע. רשום את הפריטים, הכישורים, או היכולות של הדמות שלך מכל תוצאה. חלק מהרקעים עשויים לבקש ממך להתייחס גם לטבלאות ב[שוק](/second-edition/players-guide/marketplace).
 
-## Backgrounds
+## רקעים
 
 |         |                                                                                 |        |                                                                             |
 | ------- | ------------------------------------------------------------------------------- | ------ | --------------------------------------------------------------------------- |
-| **d20** | **Background**                                                                  |        |                                                                             |
-| **1**   | [Aurifex](/second-edition/backgrounds/aurifex)               | **11** | [Half-Witch](/second-edition/backgrounds/half-witch)     |
-| **2**   | [Barber-Surgeon](/second-edition/backgrounds/barber-surgeon) | **12** | [Hexenbane](/second-edition/backgrounds/hexenbane)       |
-| **3**   | [Beast Handler](/second-edition/backgrounds/beast-handler)   | **13** | [Jongleur](/second-edition/backgrounds/jongleur/)        |
-| **4**   | [Bonekeeper](/second-edition/backgrounds/bonekeeper/)        | **14** | [Kettlewright](/second-edition/backgrounds/kettlewright) |
-| **5**   | [Cutpurse](/second-edition/backgrounds/cutpurse)             | **15** | [Marchguard](/second-edition/backgrounds/marchguard/)    |
-| **6**   | [Fieldwarden](/second-edition/backgrounds/fieldwarden/)      | **16** | [Mountebank](/second-edition/backgrounds/mountebank)     |
-| **7**   | [Fletchwind](/second-edition/backgrounds/fletchwind)         | **17** | [Outrider](/second-edition/backgrounds/outrider)         |
-| **8**   | [Foundling](/second-edition/backgrounds/foundling)           | **18** | [Prowler](/second-edition/backgrounds/prowler)           |
-| **9**   | [Fungal Forager](/second-edition/backgrounds/fungal-forager) | **19** | [Rill Runner](/second-edition/backgrounds/rill-runner)   |
-| **10**  | [Greenwise](/second-edition/backgrounds/greenwise/)          | **20** | [Scrivener](/second-edition/backgrounds/scrivener)       |
+| **ק20** | **רקע**                                                                         |        |                                                                             |
+| **1**   | [אאוריפקס](/second-edition/backgrounds/aurifex)               | **11** | [חצי-מכשפה](/second-edition/backgrounds/half-witch)     |
+| **2**   | [ספר-כירורג](/second-edition/backgrounds/barber-surgeon) | **12** | [צייד-כשפים](/second-edition/backgrounds/hexenbane)       |
+| **3**   | [מאלף חיות](/second-edition/backgrounds/beast-handler)   | **13** | [להטוטן](/second-edition/backgrounds/jongleur/)        |
+| **4**   | [שומר עצמות](/second-edition/backgrounds/bonekeeper/)        | **14** | [קדרן](/second-edition/backgrounds/kettlewright) |
+| **5**   | [כייס](/second-edition/backgrounds/cutpurse)             | **15** | [שומר הגבול](/second-edition/backgrounds/marchguard/)    |
+| **6**   | [שומר השדות](/second-edition/backgrounds/fieldwarden/)      | **16** | [נוכל](/second-edition/backgrounds/mountebank)     |
+| **7**   | [רוח-חץ](/second-edition/backgrounds/fletchwind)         | **17** | [רוכב קדמי](/second-edition/backgrounds/outrider)         |
+| **8**   | [אסופי](/second-edition/backgrounds/foundling)           | **18** | [זוחל](/second-edition/backgrounds/prowler)           |
+| **9**   | [מלקט פטריות](/second-edition/backgrounds/fungal-forager) | **19** | [רץ הנחלים](/second-edition/backgrounds/rill-runner)   |
+| **10**  | [חכם-ירוק](/second-edition/backgrounds/greenwise/)          | **20** | [סופר](/second-edition/backgrounds/scrivener)       |
 
-## Attributes, Hit Protection, and Traits 
+## מאפיינים, הגנה מפגיעה, ותכונות
 
-- Roll for your Characters **Attributes** and **Hit Protection**.
-- Roll for the rest  of your character's [Traits](#character-traits-d10), and then on the the [Bonds](#bonds) table.
-- Finally, roll for your character's **Age** (2d20+10). If you are the _youngest_ character, roll on the [Omens](#omens) table. The result should be read aloud to the other players. The Warden should incorporate Omens into the setting as they see fit.
+- הגרל את **המאפיינים** ו**הגנה מפגיעה** של הדמות שלך.
+- הגרל את שאר [התכונות](#תכונות-דמות-ק10) של הדמות שלך, ואז על טבלת [הקשרים](#קשרים).
+- לבסוף, הגרל את **הגיל** של הדמות שלך (2ק20+10). אם אתה הדמות _הצעירה ביותר_, הגרל על טבלת [הסימנים](#סימנים). יש להקריא את התוצאה בקול לשאר השחקנים. על הזקיף לשלב סימנים בעולם המשחק כראות עיניו.
 
-## Attributes
+## מאפיינים
 
-- Player Characters have just three Attributes: (**Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**). 
-- Roll 3d6 for each of your character's **Attributes**, in order. You may then swap any two of the results. 
-- Attributes are not universal descriptors. A character with a low STR is not necessarily hopelessly weak; they can still attempt to lift a heavy door or survive a deadly fight! Their risk is simply higher. 
+- לדמויות שחקנים יש רק שלושה מאפיינים: (**כוח (כח)**, **מיומנות (מי)**, ו**רצון (רצ)**).
+- הגרל 3ק6 עבור כל אחד מ**מאפייני** הדמות שלך, לפי הסדר. לאחר מכן תוכל להחליף בין שתי תוצאות כלשהן.
+- מאפיינים אינם מתארים אוניברסליים. דמות עם כח נמוך אינה בהכרח חלשה ללא תקווה; היא עדיין יכולה לנסות להרים דלת כבדה או לשרוד קרב קטלני! הסיכון שלה פשוט גבוה יותר.
 
-## Hit Protection
+## הגנה מפגיעה
 
-- Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. It does not indicate a character’s health or fortitude, nor do they lose it for very long. See [Healing & Recovery](/second-edition/players-guide/core-rules#healing--recovery). 
-- If an attack would take a PC's HP exactly to 0, the player must roll on the [**Scars**](/second-edition/players-guide/core-rules#scars) table.
+- הגרל ק6 כדי לקבוע את **הגנה מפגיעה** (ה"פ) ההתחלתית של דמות השחקן שלך, המשקפת את יכולתה להימנע מנזק בקרב. היא אינה מציינת את בריאותה או כושרה של הדמות, והיא גם לא אובדת לזמן רב. ראה [ריפוי והתאוששות](/second-edition/players-guide/core-rules#ריפוי-והתאוששות).
+- אם התקפה הייתה מורידה את ה"פ של דמות שחקן בדיוק ל-0, על השחקן להגריל על טבלת [**הצלקות**](/second-edition/players-guide/core-rules#צלקות).
 
-## Inventory
+## מלאי
 
-- Characters have a total of ten inventory slots but can only carry four or five items comfortably without the help of bags, backpacks, horses, carts, etc.
-- Each PC starts with a **Backpack** that can hold up to six slots of items or **Fatigue**. Carts (which must be pulled with both hands), horses, or mules can make a huge difference in how much a PC can bring with them on an adventure. **Hirelings** can also be paid to carry equipment. 
-- Inventory is abstract, dependent only on the fiction as adjudicated by the Warden. Anyone carrying a full inventory (i.e. filling all 10 slots) is reduced to 0 HP. A character cannot fill more than ten slots.
+- לדמויות יש בסך הכל עשר משבצות מלאי אך יכולות לשאת רק ארבעה או חמישה פריטים בנוחות ללא עזרת תיקים, תרמילים, סוסים, עגלות, וכו'.
+- כל דמות שחקן מתחילה עם **תרמיל** שיכול להכיל עד שש משבצות של פריטים או **תשישות**. עגלות (שיש למשוך בשתי ידיים), סוסים, או פרדות יכולים לעשות הבדל עצום בכמות שדמות יכולה לקחת איתה להרפתקה. ניתן גם לשלם ל**שכירים** לשאת ציוד.
+- מלאי הוא מופשט, תלוי רק בסיפור כפי שמוכרע על ידי הזקיף. כל מי שנושא מלאי מלא (כלומר, ממלא את כל 10 המשבצות) יורד ל-0 ה"פ. דמות לא יכולה למלא יותר מעשר משבצות.
 
-### Inventory Slots
+### משבצות מלאי
 
-- Most items take up one slot unless otherwise indicated. 
-- _Petty_ items do not take up any slots. _Bulky_ items take up **two** slots. 
-- A bag of coins worth less than 100gp is _petty_ and does not occupy a slot.
+- רוב הפריטים תופסים משבצת אחת אלא אם צוין אחרת.
+- פריטים _זעירים_ לא תופסים משבצות. פריטים _מגושמים_ תופסים **שתי** משבצות.
+- שקית מטבעות ששווה פחות מ-100 זמ היא _זעירה_ ואינה תופסת משבצת.
 
-## Character Traits (d10)
+## תכונות דמות (ק10)
 
-### Physique
+### מבנה גוף
 
 |       |          |        |            |
 | ----- | -------- | ------ | ---------- |
-| **1** | Athletic | **6**  | Scrawny    |
-| **2** | Brawny   | **7**  | Short      |
-| **3** | Flabby   | **8**  | Statuesque |
-| **4** | Lanky    | **9**  | Stout      |
-| **5** | Rugged   | **10** | Towering   |
+| **1** | אתלטי | **6**  | רזה    |
+| **2** | שרירי   | **7**  | נמוך      |
+| **3** | רופס   | **8**  | פסלי |
+| **4** | ארוך-גפיים    | **9**  | מוצק      |
+| **5** | חסון   | **10** | ענקי   |
 
-### Skin
+### עור
 
 |       |             |        |           |
 | ----- | ----------- | ------ | --------- |
-| **1** | Birthmarked | **6**  | Soft      |
-| **2** | Marked      | **7**  | Tanned    |
-| **3** | Oily        | **8**  | Tattooed  |
-| **4** | Rosy        | **9**  | Weathered |
-| **5** | Scarred     | **10** | Webbed    |
+| **1** | עם סימן לידה | **6**  | רך      |
+| **2** | מסומן      | **7**  | שזוף    |
+| **3** | שמנוני        | **8**  | מקועקע  |
+| **4** | ורדרד        | **9**  | שחוק |
+| **5** | מצולק     | **10** | קרומי    |
 
-### Hair
+### שיער
 
 |       |         |        |           |
 | ----- | ------- | ------ | --------- |
-| **1** | Bald    | **6**  | Long      |
-| **2** | Braided | **7**  | Luxurious |
-| **3** | Curly   | **8**  | Oily      |
-| **4** | Filthy  | **9**  | Wavy      |
-| **5** | Frizzy  | **10** | Wispy     |
+| **1** | קרח    | **6**  | ארוך      |
+| **2** | קלוע | **7** | מפואר |
+| **3** | מתולתל   | **8**  | שמנוני      |
+| **4** | מלוכלך  | **9**  | גלי      |
+| **5** | מקורזל  | **10** | דליל     |
 
-### Face
+### פנים
 
 |       |           |        |         |
 | ----- | --------- | ------ | ------- |
-| **1** | Bony      | **6**  | Perfect |
-| **2** | Broken    | **7**  | Rakish  |
-| **3** | Chiseled  | **8**  | Sharp   |
-| **4** | Elongated | **9**  | Square  |
-| **5** | Pale      | **10** | Sunken  |
+| **1** | גרמי      | **6**  | מושלם |
+| **2** | שבור    | **7**  | שובב  |
+| **3** | מפוסל  | **8**  | חד   |
+| **4** | מאורך | **9**  | מרובע  |
+| **5** | חיוור      | **10** | שקוע  |
 
-### Speech
+### דיבור
 
 |       |         |        |            |
 | ----- | ------- | ------ | ---------- |
-| **1** | Blunt   | **6**  | Gravelly   |
-| **2** | Booming | **7**  | Precise    |
-| **3** | Cryptic | **8**  | Squeaky    |
-| **4** | Droning | **9**  | Stuttering |
-| **5** | Formal  | **10** | Whispery   |
+| **1** | ישיר   | **6**  | צרוד   |
+| **2** | רועם | **7**  | מדויק    |
+| **3** | חידתי | **8**  | צורם    |
+| **4** | מונוטוני | **9**  | מגמגם |
+| **5** | רשמי  | **10** | לוחש   |
 
-### Clothing
+### לבוש
 
 |       |         |        |        |
 | ----- | ------- | ------ | ------ |
-| **1** | Antique | **6**  | Frayed |
-| **2** | Bloody  | **7**  | Frumpy |
-| **3** | Elegant | **8**  | Livery |
-| **4** | Filthy  | **9**  | Rancid |
-| **5** | Foreign | **10** | Soiled |
+| **1** | עתיק | **6**  | בלוי |
+| **2** | מדמם  | **7**  | מרושל |
+| **3** | אלגנטי | **8**  | מדים |
+| **4** | מלוכלך  | **9**  | מסריח |
+| **5** | זר | **10** | מוכתם |
 
-### Virtue
+### מעלה
 
 |       |             |        |           |
 | ----- | ----------- | ------ | --------- |
-| **1** | Ambitious   | **6**  | Honorable |
-| **2** | Cautious    | **7**  | Humble    |
-| **3** | Courageous  | **8**  | Merciful  |
-| **4** | Disciplined | **9**  | Serene    |
-| **5** | Gregarious  | **10** | Tolerant  |
+| **1** | שאפתן   | **6**  | מכובד |
+| **2** | זהיר    | **7**  | עניו    |
+| **3** | אמיץ  | **8**  | רחום  |
+| **4** | ממושמע | **9**  | שליו    |
+| **5** | חברותי | **10** | סובלני  |
 
-### Vice
+### חיסרון
 
 |       |            |        |          |
 | ----- | ---------- | ------ | -------- |
-| **1** | Aggressive | **6**  | Lazy     |
-| **2** | Bitter     | **7**  | Nervous  |
-| **3** | Craven     | **8**  | Rude     |
-| **4** | Deceitful  | **9**  | Vain     |
-| **5** | Greedy     | **10** | Vengeful |
+| **1** | תוקפני | **6**  | עצלן     |
+| **2** | מריר     | **7**  | עצבני  |
+| **3** | פחדן     | **8**  | גס     |
+| **4** | שקרן  | **9**  | יהיר     |
+| **5** | חמדן     | **10** | נקמני |
 
-## Bonds
+## קשרים
 
 |         |                                                                                                                                                                                                                                                                                          |
 | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **D20** | **Bond**                                                                                                                                                                                                                                                                                 |
-| **1**   | You inherited a **Single Gem** (500gp, cold and brittle) from a long-dead relative. It arrived with a warning: squander your newfound riches, and a debt long thought forgotten would be called in.                                                                                       |
-| **2**   | A distant cousin left you a small inheritance. Take **20Gp** and a **Strange Compass** (_petty_) that always points towards something deep in the Wood.                                                                                                                              |
-| **3**   | You carry a **Portrait** in a locket (_petty_) of a past love who disappeared into the Wood long ago. Somehow you know that they are still alive.                                                                                                                                    |
-| **4**   | You found a **Tiny Crystal Prism** (_petty_) buried in the dirt. When held up to the light, it shows visions of an unknown location deep within the Wood. Sometimes you feel a presence looking back at you.                                                                         |
-| **5**   | You once freed a Naiad from a choked stream. In return, it gave you some **Silver Moss** (petty). Swallow it near water, and the creature will come, once, to repay its debt.                                                                                                                    |
-| **6**   | You inherited an old **Journal**, bound in bark. Each evening, its pages are filled with the events of the day, crassly written from the journal's perspective. The writing is crude but accurate.                                                                                       |
-| **7**   | You protect a long-dormant family secret. Take one half of an **Ancient Key** (_petty_). They say that if joined with its twin, it opens a **Gate** through any door.                                                                                                                    |
-| **8**   | You received a **Letter** (_petty_) detailing incontrovertible proof that your true parentage is that of Fae nobility. The note also indicates a date and location where you are to meet the letter's author, deep in the the Wood.                                                  |
-| **9**   | You owe a great debt to a member of the nobility and carry their **Signet Ring** (_petty_), which serves as proof of their protection as well as your obligation.                                                                                                                        |
-| **10**  | You consumed a **Mischievous Spirit** that wreaks havoc on your insides, demanding to be taken home, deep in the Wood. It occupies one slot but absorbs one **Fatigue** each day. It wants you alive (for now). |
-| **11**  | A roaming storyteller once spun you tales of great treasure hidden deep in the Wood. You thought it naught but fancy, till they gave you **A Rolled-Up Map** (_petty_) marked with an X.                                                                                             |
-| **12**  | During your travels, you met a dying hunter who asked you to deliver a message to their loved ones. Take a **Letter** (_petty_), sealed with tree sap. It is addressed only to the **Lord Of Winter**.                                                                                   |
-| **13**  | You found a wounded beast in the forest but chose to ignore it. You see it everywhere now, but only when you're alone. It looks sad but not angry. You cannot become _panicked_ when acting alone.                                                                                       |
-| **14**  | You promised a childhood friend that you'd bring them back a rare gift, something unique in all the world. Take a **Bracelet** (_petty_) woven from twine and wildflowers.                                                                                                               |
-| **15**  | You crossed a creature of the Wood, and it cursed you with a **Stone Heart**. With each passing month, the stone grows heavier by one slot. Until your debt is lifted, you cannot truly die.                                                                      |
-| **16**  | You carved a **Whistle** (_petty_) from an **Oak Lord's** branch. Your act did not go unnoticed. You cannot seem to rid yourself of the whistle either.                                                                                                                                  |
-| **17**  | The **Dawn Brigade** did your family a service, giving you a dried **Blood-Red Flower** (_petty_) as proof. When the flower turns white, it means the favor is owed.                                                                                                                     |
-| **18**  | An entertainer once visited your home, filling it with story and song. He left one day without a word, leaving behind only **A Miniature Lute**. Something rattles inside.                                                                                                               |
-| **19**  | A white crow appeared to you in a dream, holding a twig in its mouth. You awoke the next morning with the **Twig** (_petty_) in your hand. You believe it brings you luck. It smells faintly of sulfur.                                                                                  |
-| **20**  | One of your ancestors wronged a **Moss Witch**, who cursed their bloodline. Your visage causes mirrors to shatter. You've noticed that the shards can sometimes reveal illusions.                                                                                                        |
+| **ק20** | **קשר**                                                                                                                                                                                                                                                                                 |
+| **1**   | ירשת **אבן חן יחידה** (500 זמ, קרה ושבירה) מקרוב משפחה שמת מזמן. היא הגיעה עם אזהרה: בזבז את עושרך החדש, וחוב שנחשב לשכוח ייתבע.                                                                                       |
+| **2**   | בן דוד רחוק השאיר לך ירושה קטנה. קח **20 זמ** ו**מצפן מוזר** (_זעיר_) שתמיד מצביע לעבר משהו עמוק ביער.                                                                                                                              |
+| **3**   | אתה נושא **דיוקן** בתליון (_זעיר_) של אהבה מהעבר שנעלמה ליער מזמן. איכשהו אתה יודע שהיא עדיין בחיים.                                                                                                                                    |
+| **4**   | מצאת **מנסרת קריסטל זעירה** (_זעירה_) קבורה באדמה. כשמחזיקים אותה לאור, היא מראה חזיונות של מיקום לא ידוע עמוק ביער. לפעמים אתה מרגיש נוכחות מביטה בחזרה.                                                                         |
+| **5**   | פעם שחררת נאיאדה מנחל חנוק. בתמורה, היא נתנה לך קצת **אזוב כסוף** (_זעיר_). בלע אותו ליד מים, והיצור יבוא, פעם אחת, לפרוע את חובו.                                                                                                                    |
+| **6**   | ירשת **יומן** ישן, כרוך בקליפת עץ. כל ערב, דפיו מתמלאים באירועי היום, כתובים בגסות מנקודת מבטו של היומן. הכתיבה גסה אך מדויקת.                                                                                       |
+| **7**   | אתה שומר על סוד משפחתי רדום מזמן. קח חצי מ**מפתח עתיק** (_זעיר_). אומרים שאם יתחבר לתאומו, הוא פותח **שער** דרך כל דלת.                                                                                                                    |
+| **8**   | קיבלת **מכתב** (_זעיר_) המפרט הוכחה ברורה שמוצאך האמיתי הוא של אצולת פיות. הפתק גם מציין תאריך ומיקום שבו אתה אמור לפגוש את מחבר המכתב, עמוק ביער.                                                  |
+| **9**   | אתה חייב חוב גדול לבן אצולה ונושא את **טבעת החותם** שלו (_זעירה_), המשמשת כהוכחה להגנתו וגם לחובתך.                                                                                                                        |
+| **10**  | בלעת **רוח שובבה** שגורמת להרס במעיך, דורשת שיקחו אותה הביתה, עמוק ביער. היא תופסת משבצת אחת אך סופגת **תשישות** אחת כל יום. היא רוצה אותך בחיים (לעת עתה). |
+| **11**  | מספר סיפורים נודד פעם סיפר לך סיפורים על אוצר גדול מוסתר עמוק ביער. חשבת שזו רק פנטזיה, עד שהוא נתן לך **מפה מגולגלת** (_זעירה_) מסומנת ב-X.                                                                                             |
+| **12**  | במסעותיך, פגשת צייד גוסס שביקש ממך למסור הודעה ליקיריו. קח **מכתב** (_זעיר_), חתום בשרף עץ. הוא ממוען רק ל**אדון החורף**.                                                                                   |
+| **13**  | מצאת חיה פצועה ביער אך בחרת להתעלם ממנה. אתה רואה אותה בכל מקום עכשיו, אבל רק כשאתה לבד. היא נראית עצובה אך לא כועסת. אתה לא יכול להיכנס ל_פאניקה_ כשאתה פועל לבד.                                                                                       |
+| **14**  | הבטחת לחבר ילדות שתביא לו מתנה נדירה, משהו ייחודי בעולם כולו. קח **צמיד** (_זעיר_) ארוג מחוט ופרחי בר.                                                                                                               |
+| **15**  | חצית יצור מהיער, והוא קילל אותך ב**לב אבן**. עם כל חודש שעובר, האבן נעשית כבדה יותר במשבצת אחת. עד שחובך יוסר, אתה לא יכול למות באמת.                                                                      |
+| **16**  | גילפת **משרוקית** (_זעירה_) מענף של **אדון אלון**. מעשיך לא עברו מבלי להבחין. גם לא נראה שאתה יכול להיפטר מהמשרוקית.                                                                                                                                  |
+| **17**  | **חטיבת השחר** עשתה למשפחתך שירות, ונתנה לך **פרח אדום-דם** מיובש (_זעיר_) כהוכחה. כשהפרח יהפוך ללבן, זה אומר שהטובה חייבת.                                                                                                                     |
+| **18**  | בדרן פעם ביקר בביתך, מילא אותו בסיפור ושיר. הוא עזב יום אחד בלי מילה, והשאיר רק **לוט מיניאטורי**. משהו מרשרש בפנים.                                                                                                               |
+| **19**  | עורב לבן הופיע לך בחלום, מחזיק ענף בפיו. התעוררת למחרת בבוקר עם ה**ענף** (_זעיר_) בידך. אתה מאמין שהוא מביא לך מזל. יש לו ריח קל של גופרית.                                                                                  |
+| **20**  | אחד מאבותיך פגע ב**מכשפת אזוב**, שקיללה את שושלת הדם שלהם. הופעתך גורמת למראות להתנפץ. שמת לב שהשברים יכולים לפעמים לחשוף אשליות.                                                                                                        |
 
 
-## Omens
+## סימנים
 
 |         |                                                                                                                                                                                                                                                    |
 | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **d20** | **Omen**                                                                                                                                                                                                                                           |
-| **1**   | The once rich waters of a life-giving river have turned black and putrid, tainting the land and sickening those who drink from it. A village elder points to some recent desecration as the cause, but most do not heed their words.               |
-| **2**   | It feels like winter has arrived too quickly this year, frost and snows making their appearance much earlier than expected. There is talk of a pattern to the frost found in windows, ponds, and cracks in the ground. It almost looks like a map. |
-| **3**   | A thick, unnatural fog has begun encroaching upon an ancient and holy grove. It is said to be the work of a great forest spirit, angered by nearby deforestation.                                                                                  |
-| **4**   | The night sky grows dimmer each evening, as if stars are disappearing one by one. Rumors of hellish creatures capturing farmers and pulling them into the Roots are spreading like wildfire. Village elders believe the two are connected.     |
-| **5**   | The songbirds of the Wood have fallen eerily silent as of late. Hunters claim that a spectral figure has been spotted wandering the forest, gazing longingly at anyone it encounters.                                                          |
-| **6**   | Strange, tear-shaped stones have been found throughout the region, sparking a "gold rush" of sorts for jewelers and thieves alike. The locals believe they are the tears of the earth itself, weeping for a great tragedy yet to come.             |
-| **7**   | Swarming pests gnaw away at the edges of dreams, and farmers speak of a loud buzzing sound emanating from deep within the Wood. They also say that the sound is getting closer.                                                                |
-| **8**   | There is a village known far and wide for its impressive “mother tree," said to shelter the town’s secrets in its boughs. Recently it has begun bleeding red sap, worrying the elders.                                                             |
-| **9**   | The moon turns a deep crimson, bathing the night in an eerie, blood-red light. Some say it heralds a time of chaos and strife, as the boundaries between the Wood and the mortal realm grow thin.                                              |
-| **10**  | Strange cracks have appeared in the night sky, revealing a swirling vortex of light and color. Some say that the divide between realms is at its weakest in centuries and fear what may emerge from the other side.                                |
-| **11**  | A night-blooming flower once thought extinct is sprouting up throughout the Wood. Its scent is intoxicating but also causes vivid nightmares.                                                                                                  |
-| **12**  | Local livestock have grown increasingly agitated and unmanageable as of late. An old shepherd says it is due to an unsettling howl that emanates from the Wood each full moon.                                                                 |
-| **13**  | Swarms of insects are fleeing from the Wood in droves, destroying any wooden structures they come across. The sound of their wings hum a familiar tune as they pass overhead, like a forgotten nursery rhyme.                                  |
-| **14**  | Hunters talk of a curse that befalls any who kill a beast with a streak of white fur: soon after, they are found dead in their homes. Each day, there are fewer and fewer creatures to hunt.                                                                    |
-| **15**  | Folks say that a faint laughter can be heard echoing out of wells all over the city, and that the echoes change to sobs at night.                                                                                                                  |
-| **16**  | The constellations have slowly started shifting in the night sky, forming unfamiliar patterns that have stargazers and sages perplexed. Even the animals seem disturbed.                                                                           |
-| **17**  | An ancient tree at the heart of a sleepy village has suddenly withered and died, despite showing no signs of disease. After its trunk was cut, a bloody hand was found in its core.                                                                |
-| **18**  | Statues have been weeping blood for months on end, and the wombs of the village have lain barren since.  A single child has been the only exception, hidden away by elders overcome with fear and dread.                                           |
-| **19**  | The local fauna is behaving oddly, displaying heightened aggression or fleeing the area entirely. Hunters talk of a shadowy figure that roams the Wood, calling to the animals.                                                                |
-| **20**  | Border towns have become riotous in recent weeks after multiple claims of a red-robed figure appearing in their children's dreams, uttering the same warning: A fire is coming, and it will consume everything.                                    |
+| **ק20** | **סימן**                                                                                                                                                                                                                                           |
+| **1**   | המים העשירים פעם של נהר נותן חיים הפכו שחורים ורקובים, מכתימים את האדמה ומחלים את השותים ממנו. זקן כפר מצביע על חילול קדושה כלשהו כסיבה, אך רוב האנשים לא מקשיבים לדבריו.               |
+| **2**   | מרגיש שהחורף הגיע מוקדם מדי השנה, כפור ושלגים מופיעים הרבה יותר מוקדם מהצפוי. יש שיחות על דפוס בכפור שנמצא בחלונות, בריכות, וסדקים באדמה. זה כמעט נראה כמו מפה. |
+| **3**   | ערפל עבה ולא טבעי החל לחדור לחורשה קדושה ועתיקה. אומרים שזה מעשה ידיו של רוח יער גדולה, שנכעסה מכריתת יערות סמוכה.                                                                                  |
+| **4**   | שמי הלילה מתעמעמים כל ערב, כאילו כוכבים נעלמים אחד אחד. שמועות על יצורים גיהנומיים שלוכדים חקלאים ומושכים אותם לשורשים מתפשטות כאש בשדה. זקני הכפר מאמינים ששני הדברים קשורים.     |
+| **5**   | ציפורי השיר של היער השתתקו באופן מוזר לאחרונה. ציידים טוענים שדמות רפאים נצפתה משוטטת ביער, מביטה בכיסופים בכל מי שהיא פוגשת.                                                          |
+| **6**   | אבנים מוזרות בצורת דמעה נמצאו ברחבי האזור, מעוררות "הבהלת זהב" מסוג כלשהו בקרב תכשיטנים וגנבים כאחד. המקומיים מאמינים שאלו דמעות האדמה עצמה, בוכה על טרגדיה גדולה שעוד תבוא.             |
+| **7**   | נחילי מזיקים מכרסמים בקצוות החלומות, וחקלאים מדברים על צליל זמזום חזק שבוקע מעומק היער. הם גם אומרים שהצליל מתקרב.                                                                |
+| **8**   | יש כפר ידוע למרחוק בזכות "עץ האם" המרשים שלו, שאומרים שהוא מחסה את סודות העיירה בענפיו. לאחרונה הוא החל לדמם שרף אדום, מה שמדאיג את הזקנים.                                                             |
+| **9**   | הירח הופך לאדום עמוק, מרחיץ את הלילה באור אדום ומבשר רעות. יש אומרים שהוא מבשר זמן של כאוס ומריבות, כאשר הגבולות בין היער לממלכת בני התמותה הופכים דקים.                                              |
+| **10**  | סדקים מוזרים הופיעו בשמי הלילה, חושפים מערבולת של אור וצבע. יש אומרים שהמחיצה בין הממלכות היא בחולשתה הגדולה מזה מאות שנים ופוחדים ממה שעלול לצאת מהצד השני.                                |
+| **11**  | פרח פורח-לילה שנחשב לנכחד צומח ברחבי היער. ריחו משכר אך גם גורם לסיוטים חיים.                                                                                                  |
+| **12**  | בעלי החיים המקומיים הפכו נסערים ובלתי ניתנים לשליטה לאחרונה. רועה זקן אומר שזה בגלל יללה מטרידה שבוקעת מהיער בכל ירח מלא.                                                                 |
+| **13**  | נחילי חרקים בורחים מהיער בהמוניהם, הורסים כל מבנה עץ שהם נתקלים בו. צליל כנפיהם מזמזם מנגינה מוכרת כשהם עוברים מעל, כמו שיר ערש שנשכח.                                  |
+| **14**  | ציידים מדברים על קללה שפוגעת בכל מי שהורג חיה עם פס פרווה לבן: זמן קצר לאחר מכן, הם נמצאים מתים בבתיהם. כל יום, יש פחות ופחות יצורים לצוד.                                                                    |
+| **15**  | אנשים אומרים שצחוק חלש נשמע מהדהד מבארות בכל רחבי העיר, וההדים הופכים ליבבות בלילה.                                                                                                                  |
+| **16**  | קבוצות הכוכבים החלו לזוז לאט בשמי הלילה, יוצרות דפוסים לא מוכרים שמבלבלים צופי כוכבים וחכמים. אפילו החיות נראות מוטרדות.                                                                           |
+| **17**  | עץ עתיק בלב כפר נמנם פתאום נבל ומת, למרות שלא הראה סימני מחלה. לאחר שגזעו נחתך, נמצאה יד מדממת בליבתו.                                                                |
+| **18**  | פסלים בוכים דם במשך חודשים, ורחמי הכפר נותרו עקרות מאז. ילד יחיד היה היוצא מן הכלל, מוסתר על ידי זקנים שנתקפו פחד ואימה.                                           |
+| **19**  | החי והצומח המקומיים מתנהגים בצורה מוזרה, מגלים תוקפנות מוגברת או בורחים מהאזור לחלוטין. ציידים מדברים על דמות צללית שמשוטטת ביער, קוראת לחיות.                                                                |
+| **20**  | עיירות גבול הפכו סוערות בשבועות האחרונים לאחר טענות רבות על דמות בגלימה אדומה שמופיעה בחלומות ילדיהם, ממלמלת את אותה אזהרה: אש מתקרבת, והיא תאכל הכל.                                    |

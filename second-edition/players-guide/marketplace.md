@@ -1,124 +1,124 @@
 ---
 layout: default
-title: Marketplace
-parent: Player's Guide
-grand_parent: Second Edition
+title: שוק
+parent: מדריך השחקן
+grand_parent: מהדורה שנייה
 ---
 
-# Marketplace 
+# שוק
 
-> All prices are in gold pieces  
+> כל המחירים במטבעות זהב (זמ)
 
-## Armor
+## שריון
 
 |                               |     |
 | ----------------------------- | --- |
-| Shield (+1 Armor)             | 10  |
-| Helmet (+1 Armor)             | 10  |
-| Gambeson (+1 Armor)           | 15  |
-| Brigandine (1 Armor, _bulky_) | 20  |
-| Chainmail (2 Armor, _bulky_)  | 40  |
-| Plate (3 Armor, _bulky_)      | 60  |
+| מגן (+1 שריון)             | 10  |
+| קסדה (+1 שריון)             | 10  |
+| גמבזון (+1 שריון)           | 15  |
+| בריגנדין (1 שריון, _מגושם_) | 20  |
+| שריון שרשרת (2 שריון, _מגושם_)  | 40  |
+| שריון לוחות (3 שריון, _מגושם_)      | 60  |
 
-## Weapons
+## נשקים
 
 |                                                             |     |
 | ----------------------------------------------------------- | --- |
-| Dagger, Cudgel, Sickle, Staff, etc. (d6 damage)             | 5   |
-| Spear, Sword, Mace, Axe, Flail, etc. (d8 damage)            | 10  |
-| Halberd, War Hammer, Long Sword, etc. (d10 damage, _bulky_) | 20  |
-| Sling (d6 damage)                                           | 5   |
-| Bow (d6 damage, _bulky_)                                    | 20  |
-| Crossbow (d8 damage, _bulky_)                               | 30  |
+| פגיון, אלה, מגל, מקל, וכו' (נזק ק6)             | 5   |
+| חנית, חרב, אלת קרב, גרזן, שוט, וכו' (נזק ק8)            | 10  |
+| חלברד, פטיש מלחמה, חרב ארוכה, וכו' (נזק ק10, _מגושם_) | 20  |
+| קלע (נזק ק6)                                           | 5   |
+| קשת (נזק ק6, _מגושם_)                                    | 20  |
+| קשת-צלב (נזק ק8, _מגושם_)                               | 30  |
 
-## Transport
+## תחבורה
 
 |                          |     |
 | ------------------------ | --- |
-| Cart (+4 slots, _bulky_) | 30  |
-| Wagon (+8 slots, slow)   | 200 |
-| Horse (+4 slots)         | 75  |
-| Mule (+6 slots, slow)    | 30  |
-| Carriage Seat            | 5   |
-| Ship's Passage           | 10  |
+| עגלה (+4 משבצות, _מגושם_) | 30  |
+| קרון (+8 משבצות, איטי)   | 200 |
+| סוס (+4 משבצות)         | 75  |
+| פרד (+6 משבצות, איטי)    | 30  |
+| מושב בכרכרה            | 5   |
+| מעבר בספינה           | 10  |
 
-## Upkeep & Recovery
+## אחזקה והתאוששות
 
 |                               |     |
 | ----------------------------- | --- |
-| Room & Board (per night)      | 10  |
-| Private Room & Board (fits 4) | 35  |
-| Stable & Feed (per night)     | 5   |
-| Medical Healing               | 50  |
-| Rations (3 uses)              | 10  |
-| Animal Feed (3 uses, bulky)   | 5   |
+| חדר ופנסיון (ללילה)      | 10  |
+| חדר פרטי ופנסיון (מכיל 4) | 35  |
+| אורווה ומספוא (ללילה)     | 5   |
+| ריפוי רפואי               | 50  |
+| מנות (3 שימושים)              | 10  |
+| מספוא לבעלי חיים (3 שימושים, מגושם)   | 5   |
 
-## Hirelings (per day)
+## שכירים (ליום)
 
 |                   |     |
 | ----------------- | --- |
-| Alchemist         | 30  |
-| Animal Handler    | 5   |
-| Blacksmith        | 15  |
-| Bodyguard         | 10  |
-| Local Guide       | 5   |
-| Lockpick          | 10  |
-| Navigator         | 10  |
-| Sailor            | 5   |
-| Scholar           | 20  |
-| Tracker           | 5   |
-| Trapper           | 5   |
-| Veteran Bodyguard | 20  |
+| אלכימאי         | 30  |
+| מאלף חיות    | 5   |
+| נפח        | 15  |
+| שומר ראש         | 10  |
+| מדריך מקומי       | 5   |
+| פורץ מנעולים          | 10  |
+| נווט         | 10  |
+| מלח            | 5   |
+| חוקר           | 20  |
+| עוקב         | 5   |
+| צייד לכודים           | 5   |
+| שומר ראש ותיק | 20  |
 
 
-## Gear
+## ציוד
 
 |                                                    |     |
 | -------------------------------------------------- | --- |
-| Air Bladder                                        | 5   |
-| Antitoxin                                          | 20  |
-| Bandages (3 uses)                                  | 30  |
-| Bathing Goods (Soap, Perfume, etc.)                | 5   |
-| Book                                               | 50  |
-| Caltrops                                           | 10  |
-| Card Deck                                          | 5   |
-| Chain (10ft)                                       | 10  |
-| Chalk (_petty_)                                    | 1   |
-| Chest                                              | 25  |
-| Chisel                                             | 5   |
-| Common Agents (Glue, Grease, etc.)                 | 10  |
-| Common Tools (Hammer, Shovel, etc.)                | 10  |
-| Compass                                            | 75  |
-| Complex Instruments (Bagpipes, Fiddle, etc.)       | 50  |
-| Containers (Sack, Waterskin, etc.)                 | 10  |
-| Cooking Gear (Pots, Utensils, etc.)                | 10  |
-| Costume Gear (Face Paint, Disguise)                | 15  |
-| Dowsing Rod                                        | 15  |
-| Expeditionary Gear (Climbing Spikes, Pulley, etc.) | 10  |
-| Fire Oil                                           | 10  |
-| Fishing Rod                                        | 10  |
-| Games (Cards, Dice, etc.)                          | 10  |
-| Gloves (_petty_)                                   | 20  |
-| Grappling Hook                                     | 25  |
-| Lantern                                            | 10  |
-| Mirror                                             | 5   |
-| Net                                                | 10  |
-| Oil Can (6 uses)                                   | 10  |
-| Outdoor Comfort (Blanket, Hammock, etc.)           | 10  |
-| Parchment (3 uses)                                 | 10  |
-| Pole (10ft)                                        | 5   |
-| Repellent (Wolfsbane, Mugwort, etc.)               | 10  |
-| Rope (25ft)                                        | 5   |
-| Sedative                                           | 30  |
-| Sewing Kit                                         | 20  |
-| Simple Instruments (Pipes, Lute, etc.)             | 10  |
-| Smoking Pipe (_petty_)                             | 15  |
-| Specialized Tools (Ink, etc.)                      | 20  |
-| Spiked Boots                                       | 15  |
-| Spyglass                                           | 40  |
-| Tent (fits 2, _bulky_)                             | 20  |
-| Thieving Tools (Lockpick, Metal File, etc.)        | 25  |
-| Torch (3 uses)                                     | 5   |
-| Trap (d6 STR damage)                               | 35  |
-| Whistle (_petty_)                                  | 15  |
-| Wilderness Clothes (Poncho, Cloak, etc.) (_petty_) | 15  |
+| שלפוחית אוויר                                        | 5   |
+| נוגד רעלים                                          | 20  |
+| תחבושות (3 שימושים)                                  | 30  |
+| מוצרי רחצה (סבון, בושם, וכו')                | 5   |
+| ספר                                               | 50  |
+| קרסוליות                                           | 10  |
+| חפיסת קלפים                                          | 5   |
+| שרשרת (3 מטר)                                       | 10  |
+| גיר (_זעיר_)                                    | 1   |
+| ארגז                                              | 25  |
+| אזמל                                             | 5   |
+| חומרים נפוצים (דבק, שמן, וכו')                 | 10  |
+| כלים נפוצים (פטיש, את, וכו')                | 10  |
+| מצפן                                            | 75  |
+| כלי נגינה מורכבים (חמת חלילים, כינור, וכו')       | 50  |
+| מכלים (שק, נאד מים, וכו')                 | 10  |
+| ציוד בישול (סירים, כלי אוכל, וכו')                | 10  |
+| ציוד תחפושת (צבע פנים, תחפושת)                | 15  |
+| מטה גילוי                                        | 15  |
+| ציוד משלחת (יתדות טיפוס, גלגלת, וכו') | 10  |
+| שמן אש                                           | 10  |
+| חכת דיג                                        | 10  |
+| משחקים (קלפים, קוביות, וכו')                          | 10  |
+| כפפות (_זעיר_)                                   | 20  |
+| וו עיגון                                     | 25  |
+| פנס                                            | 10  |
+| מראה                                             | 5   |
+| רשת                                                | 10  |
+| פחית שמן (6 שימושים)                                   | 10  |
+| נוחות חיצונית (שמיכה, ערסל, וכו')           | 10  |
+| קלף (3 שימושים)                                 | 10  |
+| מוט (3 מטר)                                        | 5   |
+| דוחה (עשבשועל, לענת, וכו')               | 10  |
+| חבל (8 מטר)                                        | 5   |
+| מרדים                                           | 30  |
+| ערכת תפירה                                         | 20  |
+| כלי נגינה פשוטים (חלילים, לוט, וכו')             | 10  |
+| מקטרת (_זעיר_)                             | 15  |
+| כלים מיוחדים (דיו, וכו')                      | 20  |
+| מגפי קוצים                                       | 15  |
+| טלסקופ                                           | 40  |
+| אוהל (מכיל 2, _מגושם_)                             | 20  |
+| כלי גנבים (מפתחות פורץ, פצירת מתכת, וכו')        | 25  |
+| לפיד (3 שימושים)                                     | 5   |
+| מלכודת (נזק ק6 כח)                               | 35  |
+| משרוקית (_זעיר_)                                  | 15  |
+| בגדי שטח (פונצ'ו, גלימה, וכו') (_זעיר_) | 15  |

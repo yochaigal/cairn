@@ -1,167 +1,167 @@
 ---
 layout: default
-title: Core Rules
-parent: Player's Guide
-grand_parent: Second Edition
+title: חוקי הליבה
+parent: מדריך השחקן
+grand_parent: מהדורה שנייה
 ---
 
-# Core Rules
+# חוקי הליבה
 
-## Attributes
+## מאפיינים
 
-Each of the three **Attributes** are used in different circumstances. (See **Saves**, below.)
+כל אחד משלושת **המאפיינים** משמש בנסיבות שונות. (ראה **הצלות**, למטה.)
 
-- **Strength (STR)**: Used for saves requiring physical power, like lifting gates, bending bars, resisting poison, etc.
-- **Dexterity (DEX)**: Used for saves requiring poise, speed, reflexes, dodging, climbing, sneaking, balancing, etc.
-- **Willpower (WIL)**: Used for saves to persuade, deceive, interrogate, intimidate, charm, provoke, manipulate spells, etc.
+- **כוח (כח)**: משמש להצלות הדורשות כוח פיזי, כמו הרמת שערים, כיפוף סורגים, התנגדות לרעל, וכו'.
+- **מיומנות (מי)**: משמש להצלות הדורשות יציבות, מהירות, רפלקסים, התחמקות, טיפוס, התגנבות, איזון, וכו'.
+- **רצון (רצ)**: משמש להצלות לשכנוע, הונאה, חקירה, הפחדה, קסם, פרובוקציה, מניפולציה של לחשים, וכו'.
 
-## Saves
+## הצלות
 
-- A save is a roll to avoid negative outcomes from risky choices. Characters roll a d20 and compare the results to the appropriate attribute. If they roll equal to or under that attribute, they succeed. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
-- If two opponents are each trying to overcome the other, whoever is most at risk should save.
-- If two characters need to take an action together, whoever is most at risk should save (usually the character with the lowest relevant Attribute).
+- הצלה היא הטלה להימנע מתוצאות שליליות של בחירות מסוכנות. דמויות מטילות ק20 ומשוות את התוצאות למאפיין המתאים. אם הן מטילות שווה או מתחת למאפיין זה, הן מצליחות. אחרת, הן נכשלות. 1 הוא תמיד הצלחה, ו-20 הוא תמיד כישלון.
+- אם שני יריבים מנסים להתגבר זה על זה, מי שנמצא בסיכון הגבוה ביותר צריך להציל.
+- אם שתי דמויות צריכות לבצע פעולה יחד, מי שנמצא בסיכון הגבוה ביותר צריך להציל (בדרך כלל הדמות עם המאפיין הרלוונטי הנמוך ביותר).
 
-## Healing & Recovery
+## ריפוי והתאוששות
 
-- Resting for a few moments and having a drink of water restores lost HP but may leave the party exposed. Bandages can stabilize a character that has taken critical damage.
-- Attribute loss (see **Critical Damage**) can usually be restored with a week's rest, facilitated by a healer or other appropriate source of expertise. 
-- Some healing services are free, while magical or more expedient means of recovery may come at a cost. 
+- מנוחה של כמה רגעים ושתיית מים משחזרת ה"פ שאבד אך עלולה להשאיר את הקבוצה חשופה. תחבושות יכולות לייצב דמות שספגה נזק קריטי.
+- אובדן מאפיינים (ראה **נזק קריטי**) בדרך כלל ניתן לשחזור עם שבוע מנוחה, בסיוע מרפא או מקור מומחיות מתאים אחר.
+- חלק משירותי הריפוי הם חינמיים, בעוד אמצעי התאוששות קסומים או מהירים יותר עשויים לעלות כסף.
 
-## Deprivation & Fatigue
+## מחסור ותשישות
 
-- A PC that lacks a crucial need (such as food or rest) is **Deprived**. Anyone **Deprived** for more than a day adds **Fatigue** to their inventory, one for each day. A **Deprived** PC cannot recover HP, Attributes, or item slots from **Fatigue**.
-- A PC may also be forced to add **Fatigue** after casting spells or due to events occurring in the fiction. Each Fatigue occupies one slot and lasts until the PC is able to recuperate (such as with a full night’s rest in a safe spot).
-- If a character is forced to add **Fatigue** to their inventory but they have no free slots, they must drop an item from their inventory.
+- דמות שחקן שחסר לה צורך חיוני (כמו אוכל או מנוחה) היא **במחסור**. כל מי שב**מחסור** למשך יותר מיום מוסיף **תשישות** למלאי שלו, אחת לכל יום. דמות שחקן **במחסור** לא יכולה לשחזר ה"פ, מאפיינים, או משבצות פריטים מ**תשישות**.
+- דמות שחקן עשויה גם להיאלץ להוסיף **תשישות** לאחר הטלת לחשים או בעקבות אירועים בסיפור. כל תשישות תופסת משבצת אחת ונמשכת עד שהדמות יכולה להתאושש (כמו עם לילה שלם של מנוחה במקום בטוח).
+- אם דמות נאלצת להוסיף **תשישות** למלאי שלה אך אין לה משבצות פנויות, עליה להשליך פריט מהמלאי שלה.
 
-## Armor
+## שריון
 
-- Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. 
-- Shields and similar armor provide a bonus defense (e.g. +1 Armor), but only while the item is held or worn. Some may also provide additional benefits, depending on the fiction.
-- A PC, NPC, or monster cannot have more than 3 Armor.  
+- לפני חישוב נזק לה"פ, הפחת את ערך **השריון** של המטרה מתוצאת הטלות הנזק.
+- מגנים ושריון דומה מספקים הגנה בונוס (למשל +1 שריון), אך רק בזמן שהפריט מוחזק או לבוש. חלקם עשויים גם לספק יתרונות נוספים, בהתאם לסיפור.
+- דמות שחקן, דל"ש, או מפלצת לא יכולים להיות עם יותר מ-3 שריון.
 
-## Reactions
+## תגובות
 
-When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll 2d6 and consult the following table:
+כאשר דמויות השחקנים פוגשות דל"ש שתגובתו לקבוצה אינה ברורה, הזקיף יכול להטיל 2ק6 ולהתייעץ עם הטבלה הבאה:
 
 |         |      |         |      |         |
 | :-----: | :--: | :-----: | :--: | :-----: |
 |    2    | 3-5  |   6-8   | 9-11 |   12    |
-| Hostile | Wary | Curious | Kind | Helpful |
+| עוין | חשדן | סקרן | נדיב | מועיל |
 
-## Morale
+## מורל
 
-- Enemies must pass a WIL save to avoid fleeing when they take their first casualty and again when they lose half their number. 
-- Some groups may use their leader's WIL in place of their own. Lone foes must save when they're reduced to 0 HP. 
-- Morale does not affect PCs.
+- אויבים חייבים לעבור הצלת רצ כדי להימנע מבריחה כאשר הם סופגים את הנפגע הראשון שלהם ושוב כאשר הם מאבדים חצי ממספרם.
+- חלק מהקבוצות עשויות להשתמש ברצ של המנהיג שלהם במקום שלהם. אויבים בודדים חייבים להציל כשהם יורדים ל-0 ה"פ.
+- מורל לא משפיע על דמויות שחקנים.
 
-## Hirelings
+## שכירים
 
-- Adventuring parties can recruit hirelings, relying on their unique skills, knowledge, and training to aid in expeditions.  
-- To create a hireling, choose an appropriate role from the [Hirelings](/second-edition/players-guide/marketplace#hirelings-per-day) table in the Marketplace. Roll 3d6 for each attribute and 1d6 for their HP. Give them **equipment** appropriate to their station, then roll on the Character Traits tables to further flesh them out.
-- Alternatively, choose an appropriate [**background**](/second-edition/players-guide/character-creation#backgrounds) and **name** from the [Character Creation](/second-edition/players-guide/character-creation) guide. Roll (or choose from) the tables for that background. Then roll for Rations, Gold Pieces, Attributes, HP, and age. 
+- קבוצות הרפתקנים יכולות לגייס שכירים, להסתמך על הכישורים, הידע, והאימון הייחודיים שלהם כדי לסייע במשלחות.
+- כדי ליצור שכיר, בחר תפקיד מתאים מטבלת [השכירים](/second-edition/players-guide/marketplace#שכירים-ליום) בשוק. הטל 3ק6 עבור כל מאפיין ו-ק6 עבור ה"פ שלו. תן לו **ציוד** המתאים למעמדו, ואז הגרל על טבלאות תכונות הדמות כדי לפתח אותו יותר.
+- לחלופין, בחר [**רקע**](/second-edition/players-guide/character-creation#רקעים) ו**שם** מתאימים ממדריך [יצירת הדמות](/second-edition/players-guide/character-creation). הגרל (או בחר מ)הטבלאות של אותו רקע. אז הגרל מנות, מטבעות זהב, מאפיינים, ה"פ, וגיל.
 
-## Die of Fate  
+## קובית הגורל
 
-- Optionally, roll 1d6 whenever the outcome of an event is uncertain or to simulate an element of randomness and chance.
-- A roll of 4 or more generally favors the PCs, while a roll of 3 or under usually means bad luck for the PCs.
+- באופן אופציונלי, הטל ק6 כאשר תוצאת אירוע אינה ודאית או כדי לדמות אלמנט של אקראיות ומזל.
+- הטלה של 4 ומעלה בדרך כלל מטיבה עם דמויות השחקנים, בעוד הטלה של 3 ומטה בדרך כלל מסמלת מזל רע לדמויות השחקנים.
 
-## Combat
+## קרב
 
-### Rounds
+### סיבובים
 
-- A **Round** is roughly ten seconds of in-game time and and proceeds with each side taking turns. Each round starts with any PC that is able to act, followed by their opponents. _The result of each side's actions occur simultaneously_. 
-- During the _first round of combat_, each PC must make a DEX save in order to act. Special circumstances, abilities, items, or skills may negate this requirement. PCs that fail their save _lose their turn_ for this round.
-- Their opponents then take their turn, and the first round ends. The next round begins with the PCs taking their turn, followed by their opponents, and so on until combat has ended with one side defeated or fled.
+- **סיבוב** הוא בערך עשר שניות של זמן במשחק וממשיך כאשר כל צד עושה תור. כל סיבוב מתחיל עם כל דמות שחקן שמסוגלת לפעול, ואחריה היריבים שלהם. _תוצאות הפעולות של כל צד מתרחשות בו-זמנית_.
+- במהלך _הסיבוב הראשון של הקרב_, כל דמות שחקן חייבת לעשות הצלת מי כדי לפעול. נסיבות מיוחדות, יכולות, פריטים, או כישורים עשויים לבטל דרישה זו. דמויות שחקנים שנכשלות בהצלה שלהן _מאבדות את התור שלהן_ בסיבוב זה.
+- היריבים שלהם אז עושים את התור שלהם, והסיבוב הראשון מסתיים. הסיבוב הבא מתחיל עם דמויות השחקנים עושות את התור שלהן, ואחריהן היריבים שלהן, וכך הלאה עד שהקרב הסתיים עם צד אחד מובס או בורח.
 
-### Actions
+### פעולות
 
-On their turn, a character may move up to 40ft and take up to one action. This may be casting a spell, attacking, moving for a second time, or some other reasonable action. Each round, the PCs declare what they are doing before dice are rolled. If a character attempts something risky, the Warden calls for a save for appropriate players or NPCs. 
+בתורו, דמות יכולה לנוע עד 40 רגל ולבצע עד פעולה אחת. זה יכול להיות הטלת לחש, תקיפה, תנועה פעם שנייה, או פעולה סבירה אחרת. כל סיבוב, דמויות השחקנים מכריזות מה הן עושות לפני שקוביות מוטלות. אם דמות מנסה משהו מסוכן, הזקיף קורא להצלה לשחקנים או לדל"שים המתאימים.
 
-### Attacking & Damage
+### תקיפה ונזק
 
-- The attacker rolls their weapon die and subtracts the target's armor, then deals the remaining total to their opponent's HP. Attacks in combat automatically hit.
-- If multiple attackers target the same foe, roll all damage dice and keep the single highest result. All actions are declared before being resolved.
-- If an attack would take a PC's HP exactly to 0, refer to the [Scars](#scars-table) table to see how they are uniquely impacted.
+- התוקף מטיל את קובית הנשק שלו ומפחית את שריון המטרה, ואז גורם לסכום שנותר לה"פ של היריב. התקפות בקרב פוגעות אוטומטית.
+- אם מספר תוקפים מכוונים לאותו אויב, הטל את כל קוביות הנזק והשאר את התוצאה הגבוהה ביותר בלבד. כל הפעולות מוכרזות לפני שהן נפתרות.
+- אם התקפה הייתה מורידה את ה"פ של דמות שחקן בדיוק ל-0, עיין בטבלת [הצלקות](#טבלת-צלקות) כדי לראות איך היא מושפעת באופן ייחודי.
 
-### Attack Modifiers
+### משני תקיפה
 
-- If fighting from a position of weakness (such as through cover or with bound hands), the attack is _Impaired_, and the attacker must roll 1d4 damage regardless of the attacks damage die. Unarmed attacks always do d4 damage.
-- If fighting from a position of advantage (such as against a helpless foe or through a daring maneuver), the attack is _Enhanced_, allowing the attacker to roll 1d12 damage instead of their normal die.
-- Attacks with the _Blast_ quality affect all targets in the noted area, rolling separately for each affected character. This can be anything from explosions to a dragon’s breath or the impact of a meteorite. If unsure how many targets can be affected, _roll the related damage die for a result_.
-- If attacking with two weapons at the same time, roll both damage dice and keep the single highest result (denoted with a plus symbol, e.g. d8+d8).
+- אם נלחמים מעמדת חולשה (כמו דרך מחסה או עם ידיים קשורות), ההתקפה _מוחלשת_, והתוקף חייב להטיל ק4 נזק ללא קשר לקובית הנזק של ההתקפה. התקפות חפות תמיד גורמות נזק ק4.
+- אם נלחמים מעמדת יתרון (כמו נגד אויב חסר ישע או דרך תמרון נועז), ההתקפה _מוגברת_, מאפשרת לתוקף להטיל ק12 נזק במקום הקובייה הרגילה שלו.
+- התקפות עם תכונת _פיצוץ_ משפיעות על כל המטרות באזור המצוין, מטילות בנפרד עבור כל דמות מושפעת. זה יכול להיות כל דבר מפיצוצים לנשימת דרקון או פגיעת מטאוריט. אם לא בטוח כמה מטרות יכולות להיות מושפעות, _הטל את קובית הנזק הרלוונטית לתוצאה_.
+- אם תוקפים עם שני נשקים בו-זמנית, הטל את שתי קוביות הנזק והשאר את התוצאה הגבוהה ביותר בלבד (מסומן עם סימן פלוס, למשל ק8+ק8).
 
-### Critical Damage
+### נזק קריטי
 
-- Damage that reduces a target's HP below zero is subtracted _from their STR_ by the amount of damage remaining. The target must then immediately make a STR save to avoid taking **Critical Damage**, using their _new STR score_. On a success, the target is still in the fight (albeit with a lower STR score) and must continue to make critical damage saves when incurring damage.
-- Any PC that suffers Critical Damage cannot do anything but crawl weakly, grasping for life. If given aid (such as bandages), they will stabilize. If left untreated, they die within the hour. NPCs and monsters that fail a Critical Damage save are considered dead, per the **Warden's** discretion. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save. 
+- נזק שמוריד את ה"פ של מטרה מתחת לאפס מופחת _מהכח שלה_ בכמות הנזק שנותרה. על המטרה לעשות מיד הצלת כח כדי להימנע מ**נזק קריטי**, תוך שימוש ב_ערך הכח החדש שלה_. בהצלחה, המטרה עדיין בקרב (אם כי עם ערך כח נמוך יותר) וחייבת להמשיך לעשות הצלות נזק קריטי כאשר סופגת נזק.
+- כל דמות שחקן שסופגת נזק קריטי לא יכולה לעשות דבר מלבד לזחול בחולשה, נאחזת בחיים. אם מקבלת עזרה (כמו תחבושות), היא תתייצב. אם נשארת ללא טיפול, היא תמות תוך שעה. דל"שים ומפלצות שנכשלים בהצלת נזק קריטי נחשבים מתים, לפי שיקול דעת **הזקיף**. בנוסף, לחלק מהאויבים יש יכולות מיוחדות או השפעות שמופעלות כאשר המטרה שלהם נכשלת בהצלת נזק קריטי.
 
-### Attribute Loss
+### אובדן מאפיינים
 
-- If a PC takes damage outside of combat, they should instead receive damage to an Attribute, typically STR.
-- If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their WIL is reduced to 0, they are delirious. Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.
+- אם דמות שחקן סופגת נזק מחוץ לקרב, היא צריכה במקום זאת לקבל נזק למאפיין, בדרך כלל כח.
+- אם הכח של דמות שחקן יורד ל-0, היא מתה. אם המיומנות שלה יורדת ל-0, היא משותקת. אם הרצון שלה יורד ל-0, היא במצב הזיות. אובדן מיומנות ורצון מוחלט הופך את הדמות לבלתי מסוגלת לפעול עד שהיא משוחזרת דרך מנוחה ממושכת או באמצעים יוצאי דופן.
 
-### Character Death
+### מות דמות
 
-- When a character dies, the player should create a new character or take control of a hireling. They immediately join the party in order to reduce downtime.
+- כאשר דמות מתה, על השחקן ליצור דמות חדשה או לקחת שליטה על שכיר. הוא מצטרף מיד לקבוצה כדי להפחית זמן מת.
 
-### Detachments
+### פלוגות
 
-- Large groups of similar combatants fighting together are treated as a single _Detachment_. When a _detachment_ takes **Critical Damage**, it is routed or significantly weakened. When it reaches 0 STR, it is destroyed.
-- Attacks against detachments by individuals are _impaired_ (excluding _blast_ damage). Attacks against individuals by detachments are _enhanced_ and deal _blast_ damage.
+- קבוצות גדולות של לוחמים דומים שנלחמים יחד מטופלות כ_פלוגה_ יחידה. כאשר _פלוגה_ סופגת **נזק קריטי**, היא מפוזרת או מוחלשת משמעותית. כאשר היא מגיעה ל-0 כח, היא מושמדת.
+- התקפות נגד פלוגות על ידי יחידים _מוחלשות_ (למעט נזק _פיצוץ_). התקפות נגד יחידים על ידי פלוגות _מוגברות_ וגורמות נזק _פיצוץ_.
 
-### Retreat
+### נסיגה
 
-- Running away from a dire situation always requires a successful DEX save, as well as a safe destination to run to.
+- בריחה ממצב קשה תמיד דורשת הצלת מי מוצלחת, כמו גם יעד בטוח לברוח אליו.
 
-### Ranged Attacks
+### התקפות טווח
 
-- Ranged weapons can target any enemy near enough to see the whites of their eyes. Attacks against especially distant targets are _Impaired_.
-- Ammunition is not tracked unless otherwise specified. 
+- נשקי טווח יכולים לכוון לכל אויב קרוב מספיק כדי לראות את לובן העיניים שלו. התקפות נגד מטרות רחוקות במיוחד _מוחלשות_.
+- תחמושת לא נספרת אלא אם צוין אחרת.
 
-## Scars
+## צלקות
 
-If damage to a PC would reduce their HP to exactly 0, look up the result on the table below based on the _amount of HP lost in the attack_. For example, if a PC went from 3 HP to 0 HP, they would look at entry #3 (Walloped). 
+אם נזק לדמות שחקן היה מוריד את ה"פ שלה בדיוק ל-0, חפש את התוצאה בטבלה למטה בהתבסס על _כמות ה"פ שאבדה בהתקפה_. לדוגמה, אם דמות שחקן ירדה מ-3 ה"פ ל-0 ה"פ, היא תסתכל על רשומה #3 (מוכה).
 
-### Scars Table
+### טבלת צלקות
 
 |             |                                                                                                                                                                                                                           |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **HP Lost** | **Result**                                                                                                                                                                                                                |
-| 1           | Lasting Scar: Roll 1d6. 1: Neck, 2: Hands, 3: Eye, 4: Chest, 5: Legs, 6: Ear. Roll 1d6. If the total is higher than your max HP, take the new result.                                                                     |
-| 2           | Rattling Blow: You’re disoriented and shaken. Describe how you refocus. Roll 1d6. If the total is higher than your max HP, take the new result.                                                                           |
-| 3           | Walloped: You’re sent flying and land flat on your face, winded. You are deprived until you rest for a few hours. Then, roll 1d6. Add that amount to your max HP.                                                         |
-| 4           | Broken Limb: Roll 1d6. 1-2: Leg, 3-4: Arm, 5: Rib, 6: Skull. Once mended, roll 2d6. If the total is higher than your max HP, take the new result.                                                                         |
-| 5           | Diseased: You’re afflicted with a gross, uncomfortable infection. When you get over it, roll 2d6. If the total is higher than your max HP, take the new result.                                                           |
-| 6           | Reorienting Head Wound: Roll 1d6. 1-2: STR, 3-4: DEX, 5-6: WIL. Roll 3d6. If the total is higher than your current attribute, take the new result.                                                                        |
-| 7           | Hamstrung: You can barely move until you get serious help and rest. After recovery, roll 3d6. If the total is higher than your max DEX, take the new result.                                                              |
-| 8           | Deafened: You cannot hear anything until you find extraordinary aid. Regardless, make a WIL save. If you pass, increase your max WIL by 1d4.                                                                              |
-| 9           | Re-brained: Some hidden part of your psyche is knocked loose. Roll 3d6. If the total is higher than your max WIL, take the new result.                                                                                    |
-| 10          | Sundered: An appendage is torn off, crippled, or useless. (The Warden will tell you which.) Then make a WIL save. If you pass, increase your max WIL by 1d6.                                                                |
-| 11          | Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max HP.                                                                         |
-| 12          | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result. |
+| **ה"פ שאבד** | **תוצאה**                                                                                                                                                                                                                |
+| 1           | צלקת מתמשכת: הטל ק6. 1: צוואר, 2: ידיים, 3: עין, 4: חזה, 5: רגליים, 6: אוזן. הטל ק6. אם הסכום גבוה מה"פ המקסימלי שלך, קח את התוצאה החדשה.                                                                     |
+| 2           | מכה מזעזעת: אתה מבולבל ונסער. תאר איך אתה מתמקד מחדש. הטל ק6. אם הסכום גבוה מה"פ המקסימלי שלך, קח את התוצאה החדשה.                                                                           |
+| 3           | מוכה: אתה נזרק ונוחת על הפנים, חסר נשימה. אתה במחסור עד שתנוח לכמה שעות. אז, הטל ק6. הוסף את הכמות לה"פ המקסימלי שלך.                                                         |
+| 4           | גפה שבורה: הטל ק6. 1-2: רגל, 3-4: יד, 5: צלע, 6: גולגולת. לאחר שמתרפא, הטל 2ק6. אם הסכום גבוה מה"פ המקסימלי שלך, קח את התוצאה החדשה.                                                                         |
+| 5           | מחלה: אתה סובל מזיהום גס ולא נוח. כשאתה מתגבר עליו, הטל 2ק6. אם הסכום גבוה מה"פ המקסימלי שלך, קח את התוצאה החדשה.                                                           |
+| 6           | פציעת ראש מכוונת מחדש: הטל ק6. 1-2: כח, 3-4: מי, 5-6: רצ. הטל 3ק6. אם הסכום גבוה מהמאפיין הנוכחי שלך, קח את התוצאה החדשה.                                                                        |
+| 7           | משותק: אתה בקושי יכול לזוז עד שתקבל עזרה רצינית ומנוחה. לאחר התאוששות, הטל 3ק6. אם הסכום גבוה ממי המקסימלי שלך, קח את התוצאה החדשה.                                                              |
+| 8           | חירש: אתה לא יכול לשמוע כלום עד שתמצא עזרה יוצאת דופן. ללא קשר, עשה הצלת רצ. אם אתה עובר, הגדל את הרצ המקסימלי שלך ב-ק4.                                                                              |
+| 9           | מוח מחודש: חלק נסתר כלשהו מהפסיכה שלך משתחרר. הטל 3ק6. אם הסכום גבוה מהרצ המקסימלי שלך, קח את התוצאה החדשה.                                                                    |
+| 10          | מרוסק: גף נקטע, נכה, או חסר שימוש. (הזקיף יגיד לך איזה.) אז עשה הצלת רצ. אם אתה עובר, הגדל את הרצ המקסימלי שלך ב-ק6.                                                                |
+| 11          | פצע קטלני: אתה במחסור ומחוץ לפעולה. אתה מת תוך שעה אלא אם תרפא. עם התאוששות, הטל 2ק6. קח את התוצאה החדשה כה"פ המקסימלי שלך.                                                                         |
+| 12          | נידון: המוות נראה כל כך קרוב, אך איכשהו שרדת. אם ההצלה הבאה שלך נגד נזק קריטי היא כישלון, אתה מת בצורה נוראית. אם אתה עובר, הטל 3ק6. אם הסכום גבוה מה"פ המקסימלי שלך, קח את התוצאה החדשה. |
 
-## Magic
+## קסם
 
-### Spellbooks 
+### ספרי לחשים
 
-- **Spellbooks** contain a single spell and take up one slot. They cannot be easily transcribed or created; instead they are recovered from places like tombs, dungeons, and manors.
-- Spellbooks sometimes display unusual properties or limitations, such as producing a foul or unearthly smell when opened, possessing an innate intelligence, or being legible only when held in moonlight.
-- Spellbooks will attract the attention of those who seek the arcane power within, and it is considered dangerous to display them openly.
+- **ספרי לחשים** מכילים לחש יחיד ותופסים משבצת אחת. לא ניתן להעתיק או ליצור אותם בקלות; במקום זאת הם נאספים ממקומות כמו קברים, מבוכים, ואחוזות.
+- ספרי לחשים לפעמים מציגים תכונות או מגבלות יוצאות דופן, כמו הפקת ריח מגעיל או על-טבעי כשנפתחים, בעלי אינטליגנציה מולדת, או קריאים רק כשמוחזקים באור ירח.
+- ספרי לחשים ימשכו את תשומת לבם של אלה המחפשים את הכוח הארקני שבתוכם, ונחשב מסוכן להציג אותם בגלוי.
 
-### Casting Spells
+### הטלת לחשים
 
-- Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. They must then add a **Fatigue** to inventory. 
-- Given time and safety, PCs can _enhance_ a spell's impact (e.g., affecting multiple targets, increasing its power, etc.) without any additional cost. 
-- If the PC is _deprived_ or in danger (such as during combat), the Warden may require a PC to make a WIL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect and may result in added **Fatigue**, the destruction of the Spellbook, injury, and even death.
+- כל אחד יכול להטיל לחש על ידי החזקת ספר לחשים בשתי ידיים וקריאת תוכנו בקול רם. לאחר מכן עליו להוסיף **תשישות** למלאי.
+- בהינתן זמן ובטיחות, דמויות שחקנים יכולות _להגביר_ את השפעת הלחש (למשל, להשפיע על מספר מטרות, להגדיל את כוחו, וכו') ללא עלות נוספת.
+- אם דמות השחקן _במחסור_ או בסכנה (כמו במהלך קרב), הזקיף עשוי לדרוש מדמות השחקן לעשות הצלת רצ כדי להימנע מתופעות לוואי שליליות מהטלת הלחש. השלכות של כישלון הן ברמת ההשפעה המיועדת ועשויות לגרום ל**תשישות** נוספת, הרס ספר הלחשים, פציעה, ואפילו מוות.
 
-### Scrolls
+### מגילות
 
-**Scrolls** are similar to Spellbooks, however:
+**מגילות** דומות לספרי לחשים, אולם:
 
-- They are _petty_.
-- They do not cause **Fatigue**.
-- They disappear after one use.
+- הן _זעירות_.
+- הן לא גורמות ל**תשישות**.
+- הן נעלמות לאחר שימוש אחד.
 
-### Relics
+### שרידים
 
-**Relics** are items imbued with a magical spell or power. They do not cause Fatigue. Relics usually have limited use, as well as a **Recharge** condition.
+**שרידים** הם פריטים ספוגים בלחש קסום או כוח. הם לא גורמים לתשישות. לשרידים בדרך כלל יש שימוש מוגבל, כמו גם תנאי **טעינה מחדש**.

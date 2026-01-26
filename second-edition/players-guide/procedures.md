@@ -1,301 +1,302 @@
 ---
 layout: default
-title: Procedures
-parent: Player's Guide
-grand_parent: Second Edition
+title: נהלים
+parent: מדריך השחקן
+grand_parent: מהדורה שנייה
 ---
 
-# Procedures
+# נהלים
 
-## Dungeon Exploration
+## חקירת מבוכים
 
-### The Basics
+### היסודות
 
-- The dungeon exploration cycle (see below) is divided into a series of **Turns**, **Actions**, and their consequences. 
-- On their **turn**, a character can move a distance equal to their torchlight's perimeter (about 40ft), and perform one **action**. Players can use their **action** to move up to three times that distance though that will increase the chance of triggering a roll on the [**Dungeon Events**](#dungeon-events) table.
-- The **Warden** should present obvious information about an area and its dangers freely and at no cost. Moving quickly or without caution may increase the chance of encountering a wandering monster, springing a trap, or triggering a roll on the [**Dungeon Events**](#dungeon-events) table.
+- מחזור חקירת המבוך (ראה למטה) מחולק לסדרה של **תורות**, **פעולות**, והשלכותיהן.
+- ב**תורה** שלה, דמות יכולה לנוע מרחק השווה להיקף אור הלפיד שלה (כ-40 רגל), ולבצע **פעולה** אחת. שחקנים יכולים להשתמש ב**פעולה** שלהם כדי לנוע עד שלושה פעמים מרחק זה, אם כי זה יגדיל את הסיכוי להפעיל הגרלה על טבלת [**אירועי המבוך**](#אירועי-מבוך).
+- על **הזקיף** להציג מידע ברור על אזור והסכנות שלו בחופשיות וללא עלות. תנועה מהירה או ללא זהירות עשויה להגדיל את הסיכוי להיתקל במפלצת משוטטת, להפעיל מלכודת, או להפעיל הגרלה על טבלת [**אירועי המבוך**](#אירועי-מבוך).
 
-> Although the term "dungeon" is used here, it can mean any dangerous locale (mansions, farmhouses, adventure site, etc).
+> למרות שהמונח "מבוך" משמש כאן, הוא יכול להתייחס לכל מיקום מסוכן (אחוזות, בתי חווה, אתר הרפתקאות, וכו').
 
-### Dungeon Exploration Cycle
+### מחזור חקירת מבוך
 
-1. The **Warden** describes the party's surroundings and any immediate dangers (combat, traps, surprises, etc.). The players then declare their character's intended movements and **actions**. 
-2. The Warden resolves the **actions** of each character simultaneously, along with any **actions** that are already in progress. Remember, the Die of Fate can be a useful tool whenever the Warden is in doubt!
-3. The players record any loss of resources and any new conditions (i.e. item use, _deprivation_, etc). The cycle then begins again. If appropriate, the **Warden** should roll on the [**Dungeon Events**](#dungeon-events) table. Keep common sense in mind when interpreting the results! 
+1. **הזקיף** מתאר את סביבת הקבוצה וכל סכנה מיידית (קרב, מלכודות, הפתעות, וכו'). השחקנים אז מכריזים על התנועות ו**הפעולות** המיועדות של דמויותיהם.
+2. הזקיף פותר את **הפעולות** של כל דמות בו-זמנית, יחד עם כל **פעולות** שכבר בתהליך. זכור, קובית הגורל יכולה להיות כלי שימושי כאשר הזקיף בספק!
+3. השחקנים רושמים כל אובדן משאבים וכל מצבים חדשים (כלומר שימוש בפריטים, _מחסור_, וכו'). המחזור אז מתחיל מחדש. אם מתאים, על **הזקיף** להגריל על טבלת [**אירועי המבוך**](#אירועי-מבוך). זכור היגיון בריא בפרשנות התוצאות!
 
-### Dungeon Events
+### אירועי מבוך
 
-Exploring a dungeon is always dangerous, and time must always be weighed against the risk of awakening the location's denizens, natural hazards, and worse.  
-When the party:
+חקירת מבוך היא תמיד מסוכנת, ויש תמיד לשקול זמן מול הסיכון להעיר את תושבי המיקום, סכנות טבעיות, וגרוע מכך.
+כאשר הקבוצה:
 
-- Spends more than one dungeon cycle in a single room or location 
-- Moves quickly or haphazardly through a room
-- Moves into a new area, level, or zone
-- Creates a loud disturbance 
+- מבלה יותר ממחזור מבוך אחד בחדר או מיקום יחיד
+- נעה במהירות או בחוסר זהירות דרך חדר
+- נעה לאזור, רמה, או איזור חדש
+- יוצרת הפרעה רועשת
 
-**Roll on the table below.**
+**הגרל על הטבלה למטה.**
 
 |       |                 |                                                                                                           |
 | :---: | :-------------: | :-------------------------------------------------------------------------------------------------------: |
-| **1** |  **Encounter**  |    Roll on an encounter table. Possibly **hostile**. (See [Reactions](/second-edition/players-guide/core-rules/#reactions).)    |
-| **2** |    **Sign**     |                  A clue, spoor, track, abandoned lair, scent, victim, etc is discovered.                  |
-| **3** | **Environment** |      Surroundings shift or escalate. Water rises, ceilings collapse, a ritual nears completion, etc.      |
-| **4** |    **Loss**     | Torches are blown out, an ongoing spell fizzles, etc. The party must resolve the effect before moving on. |
-| **5** | **Exhaustion**  |   The party must rest (triggering another roll on this table), add a **Fatigue**, or consume a ration.    |
-| **6** |    **Quiet**    |                          The party is left alone (and safe) for the time being.                           |
+| **1** |  **מפגש**  |    הגרל על טבלת מפגשים. אפשרי **עוין**. (ראה [תגובות](/second-edition/players-guide/core-rules/#תגובות).)    |
+| **2** |    **סימן**     |                  רמז, עקבות, שביל, מאורה נטושה, ריח, קורבן, וכו' מתגלים.                  |
+| **3** | **סביבה** |      הסביבה משתנה או מסלימה. מים עולים, תקרות קורסות, טקס מתקרב להשלמה, וכו'.      |
+| **4** |    **אובדן**     | לפידים נכבים, לחש פעיל נכשל, וכו'. על הקבוצה לפתור את ההשפעה לפני שממשיכים. |
+| **5** | **תשישות**  |   על הקבוצה לנוח (מפעיל הגרלה נוספת על טבלה זו), להוסיף **תשישות**, או לצרוך מנה.    |
+| **6** |    **שקט**    |                          הקבוצה נשארת לבד (ובטוחה) לעת עתה.                           |
 
-### Actions
+### פעולות
 
-- **Actions** are any non-passive activities, such as _searching for traps_, _forcing open a door_, _listening for danger_, _disarming a trap_, _engaging an enemy in combat_, _casting a spell_, _dodging a trap_, _running away_, _resting_, etc. 
-- Some **actions** have special rules (see below), while others may take multiple **turns** to complete. 
-- Loud or noticeable **actions** may also trigger an **encounter** with the dungeon's denizens. 
+- **פעולות** הן כל פעילויות לא פסיביות, כמו _חיפוש מלכודות_, _פריצת דלת בכוח_, _האזנה לסכנה_, _נטרול מלכודת_, _עימות עם אויב בקרב_, _הטלת לחש_, _התחמקות ממלכודת_, _בריחה_, _מנוחה_, וכו'.
+- לחלק מה**פעולות** יש חוקים מיוחדים (ראה למטה), בעוד אחרות עשויות לקחת מספר **תורות** להשלמה.
+- **פעולות** רועשות או בולטות עשויות גם להפעיל **מפגש** עם תושבי המבוך.
 
-#### Searching
+#### חיפוש
 
-- A character can spend a **turn** performing an _exhaustive_ search of **one** object or location in an area, revealing any relevant hidden treasure, traps, secret doors, etc. 
-- Larger rooms and difficult or complex dungeon terrain may take a few **turns** to properly search.
-- Searching a room _first_ is a safer way to explore the dungeon, but it has a steep cost: time.
+- דמות יכולה לבלות **תור** בביצוע חיפוש _יסודי_ של אובייקט **אחד** או מיקום באזור, חושפת כל אוצר נסתר רלוונטי, מלכודות, דלתות סתר, וכו'.
+- חדרים גדולים יותר ושטח מבוך קשה או מורכב עשויים לקחת כמה **תורות** לחיפוש כראוי.
+- חיפוש חדר _קודם_ הוא דרך בטוחה יותר לחקור את המבוך, אך יש לו מחיר תלול: זמן.
 
-#### Resting
+#### מנוחה
 
-- A character can spend a turn **resting** to restore all **HP**.
-- A light source and a _safe location_ are required to **rest**. Present or oncoming danger makes **rest** impossible.
-- **Resting** does not restore **Fatigue**, as it is impossible to safely **Make Camp** in a dungeon.
+- דמות יכולה לבלות תור ב**מנוחה** כדי לשחזר את כל ה**ה"פ**.
+- מקור אור ו_מיקום בטוח_ נדרשים ל**מנוחה**. סכנה נוכחית או מתקרבת הופכת **מנוחה** לבלתי אפשרית.
+- **מנוחה** לא משחזרת **תשישות**, כיוון שאי אפשר **להקים מחנה** בבטחה במבוך.
 
-## Panic
+## פאניקה
 
-- A character that is surrounded by enemies, enveloped by darkness, or facing their greatest fears may experience _panic_. A **WIL** **save** is typically required to avoid losing control and becoming _panicked_. 
-- A _panicked_ character must make a **WIL** **save** to overcome their condition as an **action** on their **turn**.
-- A _panicked_ character has 0 **HP**, does not act in the first round of combat, and all of their attacks are _impaired_.  
+- דמות שמוקפת באויבים, עטופה בחושך, או מתמודדת עם הפחדים הגדולים ביותר שלה עשויה לחוות _פאניקה_. **הצלת רצ** נדרשת בדרך כלל כדי להימנע מאיבוד שליטה והפיכה ל_בפאניקה_.
+- דמות _בפאניקה_ חייבת לעשות **הצלת רצ** כדי להתגבר על מצבה כ**פעולה** ב**תור** שלה.
+- לדמות _בפאניקה_ יש 0 **ה"פ**, היא לא פועלת בסיבוב הראשון של הקרב, וכל ההתקפות שלה _מוחלשות_.
 
-### Dungeon Elements
+### מרכיבי מבוך
 
-#### Light
-- Torches and other radial sources of light illuminate 40ft of dungeon and beyond that only a dim outline of objects. Torches last until they are put out by a character or their environment.
-- A torch can be lit 3 times before permanently degrading. A lantern can be relit 6 times per oil can, but requires more inventory slots.
-- Characters without a light source may suffer from _panic_ until their situation is remedied. 
+#### אור
 
-#### Doors
+- לפידים ומקורות אור רדיאליים אחרים מאירים 40 רגל של מבוך ומעבר לכך רק קווי מתאר עמומים של אובייקטים. לפידים נמשכים עד שהם נכבים על ידי דמות או הסביבה שלהם.
+- לפיד יכול להידלק 3 פעמים לפני שהוא מתדרדר לצמיתות. פנס יכול להידלק מחדש 6 פעמים לכל פחית שמן, אך דורש יותר משבצות מלאי.
+- דמויות ללא מקור אור עשויות לסבול מ_פאניקה_ עד שמצבן נפתר.
 
-- Doors and entryways may be locked, stuck, or blocked entirely. Characters can try to force a door open (or wedge it shut) using available resources (spikes, glue) or through raw ability. 
-- The party's marching order determines who is most impacted by whatever lies beyond a door.
-- A character can detect, through careful observation (listening, smelling, etc.), signs of life and other hazards through nearby doors and walls.
+#### דלתות
 
-#### Traps 
+- דלתות וכניסות עשויות להיות נעולות, תקועות, או חסומות לחלוטין. דמויות יכולות לנסות לפרוץ דלת בכוח (או לטריק אותה סגורה) באמצעות משאבים זמינים (יתדות, דבק) או דרך יכולת גולמית.
+- סדר הצעידה של הקבוצה קובע מי הכי מושפע ממה שמעבר לדלת.
+- דמות יכולה לזהות, דרך תצפית זהירה (האזנה, הרחה, וכו'), סימני חיים וסכנות אחרות דרך דלתות וקירות סמוכים.
 
-- A cautious character should be presented with any and all information that would allow them the opportunity to _avoid_ springing a trap. An unwitting character will trigger a trap according to the fiction, or otherwise will have a 2-in-6 chance.
-- **Traps** can usually be detected by carefully **searching** a room.
-- Damage from traps is taken from Attributes (usually **STR** or **DEX**) and _not_ from **HP**. Armor can reduce damage, but only if applicable (e.g. a shield would not reduce damage from noxious gas).
+#### מלכודות
 
-## Wilderness Exploration
+- יש להציג לדמות זהירה כל מידע שיאפשר לה הזדמנות _להימנע_ מהפעלת מלכודת. דמות לא מודעת תפעיל מלכודת בהתאם לסיפור, או אחרת יהיה לה סיכוי של 2 מתוך 6.
+- בדרך כלל ניתן לזהות **מלכודות** על ידי **חיפוש** זהיר של חדר.
+- נזק ממלכודות נלקח ממאפיינים (בדרך כלל **כח** או **מי**) ו_לא_ מ**ה"פ**. שריון יכול להפחית נזק, אך רק אם ישים (למשל, מגן לא יפחית נזק מגז רעיל).
 
-### Watches
+## חקירת שטח פראי
 
-- A day is divided into three **watches**, called _morning_, _afternoon_, and _night_. 
-- Each character can choose _one_ [**Wilderness Action**](#wilderness-actions) per **watch**. 
-- If the characters split up, each group is treated as an independent entity.
+### משמרות
 
-### Points
+- יום מחולק לשלוש **משמרות**, הנקראות _בוקר_, _צהריים_, ו_לילה_.
+- כל דמות יכולה לבחור [**פעולת שטח פראי**](#פעולות-שטח-פראי) _אחת_ ל**משמרת**.
+- אם הדמויות מתפצלות, כל קבוצה מטופלת כישות עצמאית.
 
-- Potential destinations on a map are called **points**. 
-- One or more **watches** may be required to journey between two **points** on a map, depending on the path, terrain, weather, and party status.
-- The party has a rough idea of the challenges involved to get to their destination, but rarely any specifics. 
+### נקודות
 
-### Travel Duration
+- יעדים פוטנציאליים על מפה נקראים **נקודות**.
+- **משמרת** אחת או יותר עשויה להידרש למסע בין שתי **נקודות** על מפה, בהתאם לנתיב, השטח, מזג האוויר, ומצב הקבוצה.
+- לקבוצה יש מושג גס על האתגרים הכרוכים בהגעה ליעד שלהם, אך לעיתים רחוקות פרטים ספציפיים.
 
-Travel time in Cairn is counted in watches, divided into three eight-hour segments per day. However, as most parties elect to spend the third watch of the day resting, one can use "days" as a shorthand for travel time.
+### משך מסע
 
-To determine the distance between two points, combine all penalties from the path, terrain, and weather difficulty tables, taking into account any changes to those elements along the route. For travel via waterways, refer to the surrounding terrain difficulty. For especially vast terrain, assign a penalty of up to +2 watches to the journey.
+זמן מסע בקרן נספר במשמרות, מחולק לשלושה מקטעים של שמונה שעות ביום. עם זאת, מכיוון שרוב הקבוצות בוחרות לבלות את המשמרת השלישית של היום במנוחה, ניתן להשתמש ב"ימים" כקיצור לזמן מסע.
 
-The weather, terrain, darkness, injured party members, and other obstacles can impact travel or even make it impossible! In some cases, the party may need to add **Fatigue** or expend resources in order to sustain their pace. Mounts, guides, and maps can increase the party’s travel speed or even negate certain penalties.
+כדי לקבוע את המרחק בין שתי נקודות, שלב את כל העונשים מטבלאות קושי הנתיב, השטח, ומזג האוויר, תוך התחשבות בכל שינויים באלמנטים אלה לאורך המסלול. למסע דרך נתיבי מים, התייחס לקושי השטח הסובב. לשטח עצום במיוחד, הקצה עונש של עד +2 משמרות למסע.
 
-### Path Difficulty
+מזג האוויר, השטח, החושך, חברי קבוצה פצועים, ומכשולים אחרים יכולים להשפיע על מסע או אפילו להפוך אותו לבלתי אפשרי! במקרים מסוימים, הקבוצה עשויה להצטרך להוסיף **תשישות** או להוציא משאבים כדי לשמור על קצב. רכיבות, מדריכים, ומפות יכולים להגדיל את מהירות המסע של הקבוצה או אפילו לבטל עונשים מסוימים.
+
+### קושי נתיב
 
 |            |             |                          |
 | ---------- | ----------- | ------------------------ |
-| **Path**   | **Penalty** | **Odds of Getting Lost** |
-| Roads      | None        | None                     |
-| Trails     | +1 Watch    | 2-in-6                   |
-| Wilderness | +2 Watches  | 3-in-6                   |
+| **נתיב**   | **עונש** | **סיכויי ללכת לאיבוד** |
+| כבישים      | אין        | אין                     |
+| שבילים     | +1 משמרת    | 2 מתוך 6                   |
+| שטח פראי | +2 משמרות  | 3 מתוך 6                   |
 
 |                   |             |
 | ----------------- | ----------- |
-| **Path Distance** | **Penalty** |
-| Short             | +1 Watch    |
-| Medium            | +2 Watches  |
-| Long              | +3 Watches  |
+| **מרחק נתיב** | **עונש** |
+| קצר             | +1 משמרת    |
+| בינוני            | +2 משמרות  |
+| ארוך              | +3 משמרות  |
 
-## Terrain Difficulty
+## קושי שטח
 
 |                |                               |             |                                                                                                       |
 | -------------- | ----------------------------- | ----------- | ----------------------------------------------------------------------------------------------------- |
-| **Difficulty** | **Terrain**                   | **Penalty** | **Factors**                                                                                           |
-| **Easy**       | **Plains, plateaus, valleys** | none        | _Safe areas for rest, fellow travelers, good visibility_                                              |
-| **Tough**      | **Forests, deserts, hills**   | +1 Watch    | _Wild animals, flooding, broken equipment, falling rocks, unsafe shelters, hunter's traps_            |
-| **Perilous**   | **Mountains, jungles, swamp** | +2 Watches  | _Quicksand, sucking mud, choking vines, unclean water, poisonous plants and animals, poor navigation_ |
+| **קושי** | **שטח**                   | **עונש** | **גורמים**                                                                                           |
+| **קל**       | **מישורים, רמות, עמקים** | אין        | _אזורים בטוחים למנוחה, נוסעים אחרים, נראות טובה_                                              |
+| **קשה**      | **יערות, מדבריות, גבעות**   | +1 משמרת    | _חיות בר, הצפות, ציוד שבור, סלעים נופלים, מחסות לא בטוחים, מלכודות ציידים_            |
+| **מסוכן**   | **הרים, ג'ונגלים, ביצות** | +2 משמרות  | _חולות טובעניים, בוץ יונק, גפנים חונקות, מים לא נקיים, צמחים ובעלי חיים רעילים, ניווט גרוע_ |
 
-### Weather
+### מזג אוויר
 
-Each day, the Warden should roll on the weather table for the appropriate season. If the "**Extreme**" weather result is rolled twice in a row, the weather turns to "**Catastrophic**". A squall becomes a hurricane, a storm floods the valley, etc.
+כל יום, על הזקיף להגריל על טבלת מזג האוויר לעונה המתאימה. אם תוצאת מזג אוויר "**קיצוני**" מתגלגלת פעמיים ברציפות, מזג האוויר הופך ל"**קטסטרופלי**". סופה הופכת להוריקן, סערה מציפה את העמק, וכו'.
 
-#### Weather Type
+#### סוג מזג אוויר
 
 |        |            |            |            |            |
 | :----: | :--------: | :--------: | :--------: | :--------: |
-| **d6** | **Spring** | **Summer** |  **Fall**  | **Winter** |
-| **1**  |    Nice    |    Nice    |    Fair    |    Fair    |
-| **2**  |    Fair    |    Nice    |    Fair    | Unpleasant |
-| **3**  |    Fair    |    Fair    | Unpleasant | Inclement  |
-| **4**  | Unpleasant | Unpleasant | Inclement  | Inclement  |
-| **5**  | Inclement  | Inclement  | Inclement  |  Extreme   |
-| **6**  |  Extreme   |  Extreme   |  Extreme   |  Extreme   |
+| **ק6** | **אביב** | **קיץ** |  **סתיו**  | **חורף** |
+| **1**  |    נאה    |    נאה    |    סביר    |    סביר    |
+| **2**  |    סביר    |    נאה    |    סביר    | לא נעים |
+| **3**  |    סביר    |    סביר    | לא נעים | סוער  |
+| **4**  | לא נעים | לא נעים | סוער  | סוער  |
+| **5**  | סוער  | סוער  | סוער  |  קיצוני   |
+| **6**  |  קיצוני   |  קיצוני   |  קיצוני   |  קיצוני   |
 
-#### Weather Difficulty
+#### קושי מזג אוויר
 
 |                  |                                                                                                         |                                                           |
 | :--------------: | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
-|   **Weather**    | **Effect**                                                                                              | **Examples**                                              |
-|     **Nice**     | Favorable conditions for travel.                                                                        | _Clear skies, sunny_                                      |
-|     **Fair**     | Favorable conditions for travel.                                                                        | _Overcast, breezy_                                        |
-|  **Unpleasant**  | Add a **Fatigue** _or_ add one **watch** to the journey.                                                | _Gusting winds, rain showers, sweltering heat, chill air_ |
-|  **Inclement**   | Add a **Fatigue** _or_ add **+1 watch**. Increase terrain **Difficulty** by a step.  | _Thunderstorms, lightning, rain, muddy ground_           |
-|   **Extreme**    | Add a **Fatigue** _and_ add **+1 watch**. Increase terrain **Difficulty** by a step. | _Blizzards, freezing winds, flooding, mud slides_         |
-| **Catastrophic** | Most parties cannot travel under these conditions.                                                      | _Tornados, tidal waves, hurricane, volcanic eruption_     |
+|   **מזג אוויר**    | **השפעה**                                                                                              | **דוגמאות**                                              |
+|     **נאה**     | תנאים נוחים למסע.                                                                        | _שמיים בהירים, שמשי_                                      |
+|     **סביר**     | תנאים נוחים למסע.                                                                        | _מעונן, רוח קלה_                                        |
+|  **לא נעים**  | הוסף **תשישות** _או_ הוסף **משמרת** אחת למסע.                                                | _רוחות חזקות, גשמים, חום כבד, אוויר קר_ |
+|  **סוער**   | הוסף **תשישות** _או_ הוסף **+1 משמרת**. הגדל **קושי** שטח בשלב אחד.  | _סופות רעמים, ברקים, גשם, קרקע בוצית_           |
+|   **קיצוני**    | הוסף **תשישות** _וגם_ הוסף **+1 משמרת**. הגדל **קושי** שטח בשלב אחד. | _סופות שלג, רוחות קפואות, הצפות, מפולות בוץ_         |
+| **קטסטרופלי** | רוב הקבוצות לא יכולות לנסוע בתנאים אלה.                                                      | _טורנדו, גלי גאות, הוריקן, התפרצות געשית_     |
 
-### Wilderness Exploration Cycle
+### מחזור חקירת שטח פראי
 
-1. The **Warden** describes the current **point** or **region** on the map and how the path, weather, terrain, or party status might affect **travel speed**. The party plots or adjusts a given course towards their destination. 
-2. Each party member chooses a single **Wilderness Action**. The **Warden** narrates the results and then rolls on the [**Wilderness Events**](#wilderness-events) table. The party responds to the results.
-3. The **players** and the **Warden** record any loss of resources and new conditions (i.e. torch use, _deprivation_, etc), and the cycle repeats. 
+1. **הזקיף** מתאר את ה**נקודה** או ה**אזור** הנוכחי על המפה ואיך הנתיב, מזג האוויר, השטח, או מצב הקבוצה עשויים להשפיע על **מהירות המסע**. הקבוצה מתכננת או מתאימה מסלול נתון לעבר יעדם.
+2. כל חבר קבוצה בוחר **פעולת שטח פראי** יחידה. **הזקיף** מספר את התוצאות ואז מגריל על טבלת [**אירועי שטח פראי**](#אירועי-שטח-פראי). הקבוצה מגיבה לתוצאות.
+3. **השחקנים** ו**הזקיף** רושמים כל אובדן משאבים ומצבים חדשים (כלומר שימוש בלפיד, _מחסור_, וכו'), והמחזור חוזר על עצמו.
 
-### Wilderness Events
+### אירועי שטח פראי
 
 |       |                 |                                                                                                                                                                                                                            |
 | ----- | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Encounter**   | Roll on an encounter table for that terrain type or location. Don’t forget to roll for NPC [reactions](/second-edition/players-guide/core-rules.md/#reactions) if applicable.                                                                               |
-| **2** | **Sign**        | The party discovers a clue, spoor, or indication of a nearby encounter, locality, hidden feature, or information about a nearby area.                                                                                      |
-| **3** | **Environment** | A shift in weather or terrain.                                                                                                                                                                                             |
-| **4** | **Loss**        | The party is faced with a choice that costs them a resource (rations, tools, etc), time, or effort.                                                                                                                        |
-| **5** | **Exhaustion**  | The party encounters a barrier, forcing effort, care or delays. This might mean spending extra time (and an additional **Wilderness Action**) or adding **Fatigue** to the PC's inventory to represent their difficulties. |
-| **6** | **Discovery**   | The party finds food, treasure, or other useful resources. The **Warden** can instead choose to reveal the primary feature of the area.                                                                                    |
+| **1** | **מפגש**   | הגרל על טבלת מפגשים לסוג שטח או מיקום זה. אל תשכח להגריל על [תגובות](/second-edition/players-guide/core-rules.md/#תגובות) דל"ש אם ישים.                                                                               |
+| **2** | **סימן**        | הקבוצה מגלה רמז, עקבות, או אינדיקציה למפגש קרוב, מקום, תכונה נסתרת, או מידע על אזור קרוב.                                                                                      |
+| **3** | **סביבה** | שינוי במזג האוויר או בשטח.                                                                                                                                                                                             |
+| **4** | **אובדן**        | הקבוצה ניצבת בפני בחירה שעולה להם משאב (מנות, כלים, וכו'), זמן, או מאמץ.                                                                                                                        |
+| **5** | **תשישות**  | הקבוצה נתקלת במחסום, מאלץ מאמץ, זהירות או עיכובים. זה עשוי להיות בילוי זמן נוסף (ו**פעולת שטח פראי** נוספת) או הוספת **תשישות** למלאי של דמות השחקן לייצג את הקשיים שלהם. |
+| **6** | **גילוי**   | הקבוצה מוצאת אוכל, אוצר, או משאבים שימושיים אחרים. **הזקיף** יכול במקום זאת לבחור לחשוף את התכונה העיקרית של האזור.                                                                                    |
 
-### Wilderness Elements
+### מרכיבי שטח פראי
 
-#### Night
+#### לילה
 
-- The party can choose to travel during the night and rest during the day, but night travel is far slower and more treacherous!
-- Traveling at night is always more dangerous! The **Warden** should roll _twice_ on the [**Wilderness Events**](#wilderness-events) table.
-- Some terrain and weather may be easier to traverse at night (desert, for example). The **Warden** should balance these challenges along with any other.
+- הקבוצה יכולה לבחור לנסוע בלילה ולנוח ביום, אך מסע לילי הוא הרבה יותר איטי ומסוכן!
+- מסע בלילה הוא תמיד יותר מסוכן! על **הזקיף** להגריל _פעמיים_ על טבלת [**אירועי שטח פראי**](#אירועי-שטח-פראי).
+- חלק מהשטחים ומזג האוויר עשויים להיות קלים יותר לחציה בלילה (מדבר, לדוגמה). על **הזקיף** לאזן אתגרים אלה יחד עם כל אחר.
 
-#### Sleep
+#### שינה
 
-- The last **watch** of the day is typically reserved for the [**Make Camp**](#make-camp) action.
-- Characters typically need to sleep each day. Anything beyond a minor interruption can negate or cancel the benefits of sleep.
-- If the party skips the **Make Camp** action, they each add a **Fatigue** to their inventory and are _deprived_. Additionally, traveling when sleep-deprived raises the terrain **Difficulty** by a step (i.e. _Easy_ becomes _Tough_).
+- ה**משמרת** האחרונה של היום שמורה בדרך כלל לפעולת [**הקמת מחנה**](#הקמת-מחנה).
+- דמויות בדרך כלל צריכות לישון כל יום. כל דבר מעבר להפרעה קלה יכול לבטל את יתרונות השינה.
+- אם הקבוצה מדלגת על פעולת **הקמת מחנה**, כל אחד מהם מוסיף **תשישות** למלאי שלו והוא _במחסור_. בנוסף, מסע כשחסרי שינה מעלה את **קושי** השטח בשלב אחד (כלומר _קל_ הופך ל_קשה_).
 
-#### Light
+#### אור
 
-- Torches and other radial sources of light illuminate 40ft ahead of the party, but beyond that only provides a dim outline of objects.
-- Characters without a light source may suffer from _panic_ until their situation is remedied. 
-- Environmental conditions (sudden gusts of wind, dust, water, etc.) can easily blow out a torch.
+- לפידים ומקורות אור רדיאליים אחרים מאירים 40 רגל לפני הקבוצה, אך מעבר לכך מספקים רק קווי מתאר עמומים של אובייקטים.
+- דמויות ללא מקור אור עשויות לסבול מ_פאניקה_ עד שמצבן נפתר.
+- תנאי סביבה (משבי רוח פתאומיים, אבק, מים, וכו') יכולים בקלות לכבות לפיד.
 
-##### Light Sources
+##### מקורות אור
 
-- A torch can be lit 3 times before degrading. 
-- A lantern can be relit indefinitely but requires a separate oil can (6 uses).
+- לפיד יכול להידלק 3 פעמים לפני שהוא מתדרדר.
+- פנס יכול להידלק מחדש ללא הגבלה אך דורש פחית שמן נפרדת (6 שימושים).
 
-### Wilderness Actions
+### פעולות שטח פראי
 
-#### Travel
+#### מסע
 
-- Travel begins. Obvious locations, features, and terrain of nearby areas are revealed according to their distance. This action is typically taken by the entire party as one.
-- The party rolls 1d6 to see if they get lost along the way. This risk can increase or decrease, depending on path **Difficulty**, maps, party skills, and guides.
-- If lost, the party may need to spend a **Wilderness Action** to recover their way. Otherwise, the party reaches the next **point** along their route. 
+- המסע מתחיל. מיקומים, תכונות, ושטח ברורים של אזורים קרובים נחשפים בהתאם למרחקם. פעולה זו נלקחת בדרך כלל על ידי כל הקבוצה כאחד.
+- הקבוצה מגרילה ק6 כדי לראות אם הם הולכים לאיבוד בדרך. סיכון זה יכול לעלות או לרדת, בהתאם ל**קושי** הנתיב, מפות, כישורי קבוצה, ומדריכים.
+- אם הולכים לאיבוד, הקבוצה עשויה להצטרך לבלות **פעולת שטח פראי** כדי למצוא את דרכם. אחרת, הקבוצה מגיעה ל**נקודה** הבאה לאורך מסלולם.
 
-> Remember to compare the results of getting lost to the relevant path **Difficulty**. 
+> זכור להשוות את תוצאות ההליכה לאיבוד ל**קושי** הנתיב הרלוונטי.
 
-#### Explore
+#### חקירה
 
-- One or more party members search a large area, searching for hidden features, scouting ahead, or treading carefully.
-- A Location (shelter, village, cave, etc.) or Feature (geyser, underground river, beached ship, etc.) is discovered.
-- The **Travel** action is still required to _leave_ the current area, even if it has been completely explored.
+- חבר קבוצה אחד או יותר מחפשים באזור גדול, מחפשים תכונות נסתרות, סוקרים קדימה, או צועדים בזהירות.
+- מיקום (מחסה, כפר, מערה, וכו') או תכונה (גייזר, נהר תת-קרקעי, ספינה על החוף, וכו') מתגלים.
+- פעולת **מסע** עדיין נדרשת כדי _לעזוב_ את האזור הנוכחי, גם אם הוא נחקר לחלוטין.
 
-#### Supply
+#### אספקה
 
-- One or more party members may hunt, fish, or forage for food, collecting 1d4 **Rations** (3 uses each). The chance of a greater bounty increases with each additional participant (e.g. 1d4 becomes 1d6, up to a maximum of 1d12). 
-- Relevant experience or equipment may also increase the bounty collected.
-- The party may encounter homes and small villages, spending gold and a full **watch** to resupply. 
+- חבר קבוצה אחד או יותר יכולים לצוד, לדוג, או ללקט אוכל, אוספים ק4 **מנות** (3 שימושים כל אחת). הסיכוי לשפע גדול יותר עולה עם כל משתתף נוסף (למשל ק4 הופך לק6, עד מקסימום של ק12).
+- ניסיון או ציוד רלוונטיים עשויים גם להגדיל את השפע שנאסף.
+- הקבוצה עשויה להיתקל בבתים וכפרים קטנים, מוציאה זהב ו**משמרת** מלאה כדי להתחדש באספקה.
 
-#### Make Camp
+#### הקמת מחנה
 
-- The party stops to set up camp in the wilds. Each party member (and their mounts) consumes a **Ration**.
-- A **lookout rotation** is set so that the party can sleep unmolested. A smaller party may need to risk sleeping unguarded or switch off sleeping over multiple days.
-- Party members that were able to rest remove all of **Fatigue** from their inventory.
+- הקבוצה עוצרת להקים מחנה בשטח הפראי. כל חבר קבוצה (והרכיבות שלהם) צורך **מנה**.
+- נקבעת **תורנות שמירה** כדי שהקבוצה תוכל לישון ללא הפרעה. קבוצה קטנה יותר עשויה להצטרך לסכן שינה ללא שמירה או להתחלף בשינה על פני מספר ימים.
+- חברי קבוצה שהצליחו לנוח מסירים את כל ה**תשישות** מהמלאי שלהם.
 
-## Downtime
+## זמן חופשי
 
-Between game sessions, players can engage in a variety of activities such as research, following up on leads, improving skills, or building relationships. A PC is limited to one **Downtime Action** at a time. These actions cannot be undertaken in unsafe conditions or while a character is in recovery. A character cannot perform an action if it would put their safety at risk.
+בין מפגשי משחק, שחקנים יכולים לעסוק במגוון פעילויות כמו מחקר, מעקב אחר רמזים, שיפור כישורים, או בניית קשרים. דמות שחקן מוגבלת ל**פעולת זמן חופשה** אחת בכל פעם. לא ניתן לבצע פעולות אלה בתנאים לא בטוחים או בזמן שדמות בהחלמה. דמות לא יכולה לבצע פעולה אם היא תסכן את בטיחותה.
 
-### Milestones
+### אבני דרך
 
-For activities requiring multiple steps, the **Warden** assigns 1-5 **Milestones** for players to track progress. Each **Milestone** represents a comprehensive, non-interactive task. The **Warden** may present different strategies to achieve these goals, each with distinct **Milestones**. Depending on the unfolding events in the game, the **Warden** is also empowered to introduce new **Milestones** or discard existing ones.
+לפעילויות הדורשות מספר שלבים, **הזקיף** מקצה 1-5 **אבני דרך** לשחקנים לעקוב אחר התקדמות. כל **אבן דרך** מייצגת משימה מקיפה ולא אינטראקטיבית. **הזקיף** עשוי להציג אסטרטגיות שונות להשגת מטרות אלה, כל אחת עם **אבני דרך** שונות. בהתאם לאירועים המתפתחים במשחק, **הזקיף** גם מוסמך להציג **אבני דרך** חדשות או לבטל קיימות.
 
-### Costs
+### עלויות
 
-PCs can complete individual **Milestones** by taking a **Downtime Action** and paying its respective **Cost**. If a character is unable to pay the **Cost**, they may have to find some other way to achieve their goal. A few examples of **Cost**: 
-- **Gold**: Direct payment of gold from a character's inventory.
-- **Resources**: Non-monetary costs such as material goods, specific common items, and so on. 
-- **Reputation**: Betting on a character's renown, personality, presence, social connections, etc.
-- **Loss**: Offering something specific and unique. A finger, a soul, a **Relic**, etc.
+דמויות שחקנים יכולות להשלים **אבני דרך** בודדות על ידי נקיטת **פעולת זמן חופשה** ותשלום ה**עלות** המתאימה. אם דמות לא מסוגלת לשלם את ה**עלות**, היא עשויה להצטרך למצוא דרך אחרת להשיג את מטרתה. כמה דוגמאות ל**עלות**:
+- **זהב**: תשלום ישיר של זהב מהמלאי של דמות.
+- **משאבים**: עלויות לא כספיות כמו מוצרים חומריים, פריטים נפוצים ספציפיים, וכדומה.
+- **מוניטין**: הימור על פרסום, אישיות, נוכחות, קשרים חברתיים של דמות, וכו'.
+- **הפסד**: הצעת משהו ספציפי וייחודי. אצבע, נשמה, **שריד**, וכו'.
 
-Some **Costs** can be reduced or disregarded through character skills, connections, or force of will. For example, a PC may have already acquired the necessary reputation to gain access to a renowned institution, and thus the **cost** is abated. On the other hand, another character may not be so lucky and must rely on their force of personality instead. In this case, the Warden should state the risk (a permanent ban on entry, a loss of reputation, etc.). The PC then makes a **WIL** save; on a success, the cost is either reduced or avoided entirely. 
+חלק מה**עלויות** יכולות להיות מופחתות או מבוטלות דרך כישורי דמות, קשרים, או כוח רצון. לדוגמה, דמות שחקן עשויה כבר לרכוש את המוניטין הדרוש לגישה למוסד ידוע, ולכן ה**עלות** מופחתת. מצד שני, דמות אחרת עשויה לא להיות כל כך בר מזל וחייבת להסתמך על כוח האישיות שלה במקום. במקרה זה, על הזקיף לציין את הסיכון (איסור קבוע על כניסה, אובדן מוניטין, וכו'). דמות השחקן אז עושה **הצלת רצ**; בהצלחה, העלות מופחתת או נמנעת לחלוטין.
 
-## Downtime Actions
+## פעולות זמן חופשה
 
-The following activities represent some of the most common **Downtime Actions** a players can choose. The **Warden** can also create custom actions based on the needs of play.
+הפעילויות הבאות מייצגות חלק מ**פעולות זמן החופשה** הנפוצות ביותר שהשחקנים יכולים לבחור. **הזקיף** יכול גם ליצור פעולות מותאמות אישית בהתבסס על צרכי המשחק.
 
-### Research
+### מחקר
 
-A PC investigates a question about a bit of lost or forgotten lore, the location of a lost item, the whereabouts of an important NPC, and so on. To take this action, the player must have a clearly formulated question they'd like to answer and a **Source** of knowledge in the game world that their character can interact with. If the PC does not have a **Source**, then they can spend a **Downtime Action** trying to find one. There is no guarantee that they will be successful. Once a question is posed and an appropriate **Source** has been identified, the **Warden** should provide any **Milestones** and associated **Costs**. 
+דמות שחקן חוקרת שאלה על פיסת ידע אבודה או נשכחת, מיקום של פריט אבוד, מקום הימצאו של דל"ש חשוב, וכדומה. כדי לנקוט בפעולה זו, לשחקן חייבת להיות שאלה מנוסחת בבירור שהוא רוצה לענות עליה ו**מקור** ידע בעולם המשחק שהדמות שלו יכולה לתקשר איתו. אם לדמות השחקן אין **מקור**, אז היא יכולה לבלות **פעולת זמן חופשה** בניסיון למצוא אחד. אין ערובה שהיא תצליח. ברגע ששאלה הוצגה ו**מקור** מתאים זוהה, על **הזקיף** לספק כל **אבני דרך** ו**עלויות** קשורות.
 
-#### Questions
+#### שאלות
 
-As always, the question must come from an experience that occurred during play.
+כמו תמיד, השאלה חייבת לבוא מחוויה שהתרחשה במהלך המשחק.
 
-**Examples:**
+**דוגמאות:**
 
-- "Where is the **Lost Temple of East Nipoor**?" 
-- "Who in **Fortune City** might know how to crack an ancient vault?"
-- "Where can I find the cure to **curly sickness**?" 
+- "איפה **המקדש האבוד של ניפור המזרחי**?"
+- "מי ב**עיר המזל** עשוי לדעת איך לפרוץ כספת עתיקה?"
+- "איפה אני יכול למצוא את התרופה ל**מחלת הסלסולים**?"
 
-#### Sources
+#### מקורות
 
-A **Source** is a person, place, faction, or entity that holds either a part or whole answer that the character seeks. They can be NPCs, Factions, spirits, or even other PCs. 
+**מקור** הוא אדם, מקום, סיעה, או ישות שמחזיקה בחלק או בכל התשובה שהדמות מחפשת. הם יכולים להיות דל"שים, סיעות, רוחות, או אפילו דמויות שחקנים אחרות.
 
-##### Examples: 
+##### דוגמאות:
 
-- **Kewr the Mouth**, a frequent contact for the **Conclave of Merchants**. Despite their excellent relationship with this faction, asking for help in an illicit activity might come at a high cost.
-- A **Woodwose** who makes his home deep in the **Forest of Knives**. The party encountered him in an earlier expedition and the meeting did not end well. Still, he is said to know the nature of every herb and their healing properties.
-- The **Temple of Puppets**, a nomadic circus troupe who have travelled the known and unknown lands. The party assisted one of their members during the **Rain of Fire**, when even the creatures of the Wood were preparing to flee their homes. If anyone has heard of forgotten places, it's them.
+- **קואר הפה**, איש קשר תכוף של **קונקלב הסוחרים**. למרות הקשר המצוין שלהם עם סיעה זו, בקשת עזרה בפעילות בלתי חוקית עשויה לבוא במחיר גבוה.
+- **וודווז** שעושה את ביתו עמוק ב**יער הסכינים**. הקבוצה נתקלה בו במשלחת קודמת והמפגש לא הסתיים טוב. עם זאת, אומרים שהוא יודע את טבעו של כל עשב ותכונות הריפוי שלהם.
+- **מקדש הבובות**, להקת קרקס נודדת שנסעה בארצות הידועות והלא ידועות. הקבוצה סייעה לאחד מחבריהם במהלך **גשם האש**, כאשר אפילו יצורי היער התכוננו לברוח מבתיהם. אם מישהו שמע על מקומות נשכחים, זה הם.
 
-### Training
+### אימון
 
-A character can improve their skills with an item or ability, with clear narrative or mechanical results. They might be interested in dealing greater damage with a particular weapon, decreasing their chances of getting lost in rough weather, or learning to read the languages of the ancients. A PC might spend multiple **Downtime Actions** sparring with a particular weapon, improving their skills week by week. Or they may need to travel to the home of a distant sage, improving themselves through short but intense study.
+דמות יכולה לשפר את כישוריה עם פריט או יכולת, עם תוצאות נרטיביות או מכניות ברורות. היא עשויה להתעניין בגרימת נזק גדול יותר עם נשק מסוים, הפחתת הסיכויים שלה ללכת לאיבוד במזג אוויר קשה, או ללמוד לקרוא את שפות הקדמונים. דמות שחקן עשויה לבלות מספר **פעולות זמן חופשה** במתאבקת עם נשק מסוים, משפרת את כישוריה שבוע אחר שבוע. או שהיא עשויה להצטרך לנסוע לביתו של חכם רחוק, משפרת את עצמה דרך לימוד קצר אך אינטנסיבי.
 
-The player must describe precisely what they'd like to improve and a **Master** whom they might train with. And of course, the character's inspiration to improve should come from an experience in play. The **Warden** should provide any **Milestones** and associated **Costs**. 
+על השחקן לתאר בדיוק מה הוא רוצה לשפר ו**מאסטר** שהוא עשוי להתאמן איתו. וכמובן, ההשראה של הדמות להשתפר צריכה לבוא מחוויה במשחק. על **הזקיף** לספק כל **אבני דרך** ו**עלויות** קשורות.
 
-**Examples:**
+**דוגמאות:**
 
-- **The Two-Handed Parry**: When fighting with one hand free, a PC's HP temporarily increases by 1d4. The party took on a hireling from the **Cratered Lands**, whose fighters emphasize avoiding enemy attacks. She has agreed to train anyone who can best her in hand to hand combat.
-- **Herbology**: Given proper ingredients, a PC can create a **Healing Salve** (restores 4 STR) as a **Downtime Action**. After receiving care from an elderly herbalist in the **Verdant Glades**, the wounded PC asked to be trained in the healing arts. The **Master** has agreed, but asked that they collect three rare herbs before training can begin. 
-- **Troutmaster**: When taking the Supply **Action**, **Rations** gathered near cold freshwater sources increase by one step (e.g. 1d4 becomes 1d6). The party escorted a stranded naturalist from the famously dreadful **Silver Wastes** safely back to the city. As thanks, she has offered to train a PC to identify and capture a common lakefish that frequents colder waters.
+- **חסימה ביד אחת**: כאשר נלחמים עם יד אחת חופשית, ה"פ של דמות השחקן עולה זמנית ב-ק4. הקבוצה גייסה שכיר מ**ארצות המכתש**, שלוחמיהם מדגישים הימנעות מהתקפות אויב. היא הסכימה לאמן כל מי שיכול לנצח אותה בקרב יד ביד.
+- **צמחי מרפא**: בהינתן מרכיבים נכונים, דמות שחקן יכולה ליצור **משחת ריפוי** (משחזרת 4 כח) כ**פעולת זמן חופשה**. לאחר שקיבלה טיפול ממרפא צמחים מבוגר ב**הנחלים הירוקים**, דמות השחקן הפצועה ביקשה להתאמן באומנויות הריפוי. ה**מאסטר** הסכים, אך ביקש שהם יאספו שלושה עשבי מרפא נדירים לפני שהאימון יכול להתחיל.
+- **אדון הפורלים**: כאשר נוקטים בפעולת אספקה, **מנות** שנאספות ליד מקורות מים מתוקים קרים עולות בשלב אחד (למשל ק4 הופך לק6). הקבוצה ליוותה טבען תקוע מ**השממות הכסופות** הידועות לשמצה בבטחה בחזרה לעיר. כתודה, היא הציעה לאמן דמות שחקן לזהות ולתפוס דג אגם נפוץ שמתגורר במים קרים יותר.
 
-### Strengthening Ties
+### חיזוק קשרים
 
-A character fosters a connection with an NPC or Faction in the game world. First, they must identify the entity with whom they wish to strengthen ties, as well as a specific **intent** (e.g., building trust, mending a friendship, seeking membership in a Faction, forming an alliance, and so on). The **Warden** then provides concrete measures (described as **Milestones** and **Costs**) that the PC can undertake to advance the relationship. With each completed **Milestone**, the **Warden** describes how the PC's relationship has grown or changed. 
+דמות מטפחת קשר עם דל"ש או סיעה בעולם המשחק. ראשית, עליה לזהות את הישות שאיתה היא רוצה לחזק קשרים, כמו גם **כוונה** ספציפית (למשל, בניית אמון, תיקון ידידות, חיפוש חברות בסיעה, יצירת ברית, וכדומה). **הזקיף** אז מספק צעדים קונקרטיים (מתוארים כ**אבני דרך** ו**עלויות**) שדמות השחקן יכולה לנקוט כדי לקדם את הקשר. עם כל **אבן דרך** שהושלמה, **הזקיף** מתאר איך הקשר של דמות השחקן גדל או השתנה.
 
-**Examples:**
+**דוגמאות:**
 
-- After returning from an unsuccessful delve into the **Roots**, a PC discovers that they'd unknowingly brought along a stowaway: an eyeless devourer, barely hatched. They decide to keep the creature and train it in secret. 
-- During a play session, a PC becomes friendly with an agent of the **Order of the Helm**. Impressed by the Order's values, the PC asks what the requirements are to join.
-- An agent for a powerful faction dies during the **Battle of Frogs** while under the party's care. Now those responsible wish to provide redress, so that the party can once again perform tasks for that faction.
+- לאחר חזרה מצלילה לא מוצלחת ל**שורשים**, דמות שחקן מגלה שהיא הביאה איתה בלי כוונה נוסע סמוי: טורף חסר עיניים, בקושי בקע. היא מחליטה לשמור על היצור ולאמן אותו בסתר.
+- במהלך מפגש משחק, דמות שחקן הופכת לידידותית עם סוכן של **מסדר הקסדה**. מרשים מערכי המסדר, דמות השחקן שואלת מהן הדרישות להצטרף.
+- סוכן של סיעה חזקה מת במהלך **קרב הצפרדעים** בזמן שהיה תחת טיפול הקבוצה. עכשיו האחראים רוצים לספק פיצוי, כדי שהקבוצה תוכל שוב לבצע משימות עבור אותה סיעה.
