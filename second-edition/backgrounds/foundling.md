@@ -1,47 +1,47 @@
 ---
-title: Foundling
+title: אסופי
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: רקעים
+grand_parent: מהדורה שנייה
 ---
 
-# Foundling
+# אסופי
 
-> An odd birthmark, a strange smell: somehow, the touch of _elsewhere_ still lingers. Wherever you are, you have trouble fitting in. Roll on the **Omens** table (even if you're not the youngest player), but keep the results private for now.
- 
-## Names
+> סימן לידה מוזר, ריח משונה: איכשהו, המגע של _מקום אחר_ עדיין שורה. בכל מקום שאתה נמצא, אתה מתקשה להשתלב. הגרל על טבלת **הסימנים** (גם אם אתה לא השחקן הצעיר ביותר), אך שמור את התוצאות לעצמך לעת עתה.
 
-Faunus, Snowdrop, Wisp, Silverdew, Brim, Solstice, Steeleye, Artea, Gossamer, Hazel
+## שמות
 
-## Starting Gear
+פאונוס, טיפת-שלג, ניצוץ, טל-כסף, שפה, היפוך, עין-פלדה, ארתיאה, קורי-עכביש, אגוז
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Salt Pouch
-- Heirloom Amulet (_petty_, glows in the presence of magic)
-- Sling (d6)
-- Dagger (d6) 
+## ציוד התחלתי
 
-## Who took you in? Roll 1d6:
+- 3ק6 מטבעות זהב
+- מנות (3 שימושים)
+- לפיד (3 שימושים)
+- שקיק מלח
+- קמע ירושה (_זעיר_, זוהר בנוכחות קסם)
+- קלע (ק6)
+- פגיון (ק6)
+
+## מי אימץ אותך? הגרל ק6:
 
 |       |                                                                                                                                                                                                                          |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **1** | An old hunter. You were both quite happy, until it all ended. Take a **Weathered Longbow** (d8, _bulky_) and a **Leather Jerkin** (1 Armor).                                                                             |
-| **2** | A wizened apothecary, who taught you the healing arts but maintained a clinical detachment. Take a **Healing Unguent** (restores d4 STR, 1 use).                                                                                 |
-| **3** | A druid, who taught you the language of trees. When it came time to , you took with you only a **Gnarled Staff** (d8) and left a promise that one day you would return.                                                 |
-| **4** | A gruff blacksmith from a sleepy river town. You were always kept at arm's length. Now the forge is cold, and you've moved on. Take a **Smith's Apron** (_petty_) and a set of **Oft-mended Chain Mail** (2 Armor, _bulky_). |
-| **5** | A troupe of traveling entertainers. For a time, they were like family to you. One day you woke up and they were gone with no explanation. Take a **Storybook**, a **Dagger** (d6), and some burning questions.           |
-| **6** | The monks of a secluded forest monastery. When their rules became too strict, and you snuck away. Take a **Monk's Habit** (warm, _petty_) and a **Spellbook** of _Control Plants_. Control Plants: Nearby plants and trees obey you and gain the ability to move at a slow pace. _Leaves grow along the spine, and it smells faintly of decay._                                        |
+| **1** | צייד זקן. שניכם הייתם די מאושרים, עד שהכל נגמר. קח **קשת ארוכה שחוקה** (ק8, _מגושם_) ו**אפודת עור** (1 שריון).                                                                             |
+| **2** | רוקח חכם, שלימד אותך את אומנויות הריפוי אך שמר על ניתוק קליני. קח **משחת ריפוי** (משחזרת ק4 כח, שימוש 1).                                                                                 |
+| **3** | דרואיד, שלימד אותך את שפת העצים. כשהגיע הזמן ללכת, לקחת איתך רק **מקל מפותל** (ק8) והשארת הבטחה שיום אחד תחזור.                                                 |
+| **4** | נפח גס מעיירת נהר רדומה. תמיד הוחזקת במרחק זרוע. עכשיו הכבשן קר, והמשכת הלאה. קח **סינר נפח** (_זעיר_) וסט של **שריון שרשרת מתוקן לעיתים קרובות** (2 שריון, _מגושם_). |
+| **5** | להקת בדרנים נודדים. לזמן מה, הם היו כמו משפחה לך. יום אחד התעוררת והם נעלמו ללא הסבר. קח **ספר סיפורים**, **פגיון** (ק6), וכמה שאלות בוערות.           |
+| **6** | הנזירים של מנזר יער מבודד. כאשר החוקים שלהם הפכו נוקשים מדי, התגנבת החוצה. קח **גלימת נזיר** (חמה, _זעיר_) ו**ספר לחשים** של _שליטה בצמחים_. שליטה בצמחים: צמחים ועצים קרובים מצייתים לך ומקבלים יכולת לנוע בקצב איטי. _עלים צומחים לאורך השדרה, ויש לו ריח קל של ריקבון._                                        |
 
 
-## What keeps bad tidings at bay? Roll 1d6:
+## מה מרחיק בשורות רעות? הגרל ק6:
 
 |       |                   |                                                                                                                                         |
 | ----- | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Pipeweed**      | Your good luck charm. Conversations tend to flow more easily after a smoke. 6 uses.                                                     |
-| **2** | **Stink Jar**     | Shattering this jar releases an odor so foul all nearby must make a STR save or immediately vomit. 1 use.                                 |
-| **3** | **Ivy Worm**      | A green worm often mistaken for a weed. Swallowed whole, it absorbs any toxins or rot in the body before exiting through the usual way. |
-| **4** | **Dream Stone**   | A smooth blue stone that helps recall dreams more clearly. Overuse can cause dream-addiction.                                           |
-| **5** | **Drowning Rod**  | A finger-sized wooden stick that doubles in size each time it is fully submerged in water. It does not shrink down again.         |
-| **6** | **Rabbit's Foot** | You were wearing it when they found you. They say it is the foot of she who left you and that it protects you from witch magic. _Petty_.       |
+| **1** | **עשב מקטרת**      | קמע המזל שלך. שיחות נוטות לזרום יותר בקלות אחרי עישון. 6 שימושים.                                                     |
+| **2** | **צנצנת סירחון**     | ניפוץ הצנצנת הזו משחרר ריח כל כך נורא שכל הקרובים חייבים לעשות הצלת כח או להקיא מיד. שימוש 1.                                 |
+| **3** | **תולעת קיסוס**      | תולעת ירוקה שלעיתים קרובות מוטעית כעשב. נבלעת שלמה, היא סופגת כל רעלים או ריקבון בגוף לפני שיוצאת בדרך הרגילה. |
+| **4** | **אבן חלומות**   | אבן כחולה חלקה שעוזרת לזכור חלומות בבירור יותר. שימוש יתר יכול לגרום להתמכרות לחלומות.                                           |
+| **5** | **מוט טביעה**  | מקל עץ בגודל אצבע שמכפיל את גודלו בכל פעם שהוא שקוע לחלוטין במים. הוא לא מתכווץ חזרה.         |
+| **6** | **כף רגל ארנב** | לבשת אותה כשמצאו אותך. אומרים שזו הרגל של מי שהשאירה אותך ושהיא מגינה עליך מכישוף מכשפות. _זעיר_.       |

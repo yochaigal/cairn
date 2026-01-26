@@ -1,46 +1,46 @@
 ---
-title: Barber-Surgeon
+title: ספר-כירורג
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: רקעים
+grand_parent: מהדורה שנייה
 ---
 
-# Barber-Surgeon
+# ספר-כירורג
 
-> You walk the line between healer and harrower, knowing the frailty of the flesh but also the secrets that lie within. With the right tools, life and death are merely words.
+> אתה הולך על הקו בין מרפא למענה, מכיר את שבריריות הבשר אך גם את הסודות שמסתתרים בתוכו. עם הכלים הנכונים, חיים ומוות הם רק מילים.
 
-## Names
+## שמות
 
-Wilmot, Patch, Lancet, Sawbones, Theo, Cutwell, Humor, Landsford, Goodeye, Johanna  
+וילמוט, טלאי, לנצט, מנסר, תאו, חתוך-טוב, הומור, לנדספורד, עין-טובה, יוחנה
 
-## Starting Gear
+## ציוד התחלתי
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Bonesaw (d6)
-- Bandages (3 uses)
-- Leech (restores 1 STR, 3 uses)
-- Stained Medical Finery (_petty_)
+- 3ק6 מטבעות זהב
+- מנות (3 שימושים)
+- לפיד (3 שימושים)
+- מסור עצמות (ק6)
+- תחבושות (3 שימושים)
+- עלוקה (משחזרת 1 כח, 3 שימושים)
+- בגדי רפואה מוכתמים (_זעיר_)
 
-## How have you "improved" yourself? Roll 1d6:
+## איך "שיפרת" את עצמך? הגרל ק6:
 
 |       |                                                                                                                                                                                                                                                            |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | You have a replacement **eye** that can magnify objects, act as a telescope, and provide minimal night vision. You cannot wear anything metal on your head, and the presence of strong magnets make you _deprived_.                                                |
-| **2** | One **foot** is mostly metal (kick, d6), and you treat some Tough terrain as **Easy**. Carry a **Oil Can** (6 uses). Without a daily application, you are _deprived_ and noisy.    |
-| **3** | One of your fingers has been swapped, the bone replaced by gold and iron. Take a **Hook** and a **Screwdriver** that can attach to the fingertip.                                                                                                            |
-| **4** | Both **ears** have been surgically enhanced, tripling your hearing. You can focus on a specific sound, such as a conversation, at a great distance. You wear an ear flap to protect against sudden loud noises (WIL save to avoid temporary paralysis). |
-| **5** | Your **chest** is lined with alchemical sigils, _toughening the skin_ (1 Armor). Wearing other metallic armor nullifies the effect.                                                                                                                              |
-| **6** | One **arm** is fully metal and comes off at the shoulder. It can be used as a weapon (d8, _bulky_ when not attached) and can move independently if you are within sight of it.                                                                                 |
+| **1** | יש לך **עין** חלופית שיכולה להגדיל אובייקטים, לשמש כטלסקופ, ולספק ראיית לילה מינימלית. אתה לא יכול ללבוש שום דבר ממתכת על הראש שלך, ונוכחות של מגנטים חזקים הופכת אותך ל_במחסור_.                                                |
+| **2** | **רגל** אחת היא בעיקר מתכת (בעיטה, ק6), ואתה מתייחס לחלק משטח קשה כ**קל**. נשא **פחית שמן** (6 שימושים). ללא שימוש יומי, אתה _במחסור_ ורועש.    |
+| **3** | אחת מהאצבעות שלך הוחלפה, העצם הוחלף בזהב וברזל. קח **וו** ו**מברג** שיכולים להתחבר לקצה האצבע.                                                                                                            |
+| **4** | שתי **האוזניים** שלך שופרו כירורגית, משלשות את השמיעה שלך. אתה יכול להתמקד בצליל ספציפי, כמו שיחה, ממרחק רב. אתה לובש כיסוי אוזן להגנה מפני רעשים חזקים פתאומיים (הצלת רצ להימנעות משיתוק זמני). |
+| **5** | **החזה** שלך מרופד בסמלים אלכימיים, _מקשיח את העור_ (1 שריון). לבישת שריון מתכתי אחר מבטלת את ההשפעה.                                                                                                                              |
+| **6** | **זרוע** אחת היא מתכת לחלוטין ומתנתקת בכתף. ניתן להשתמש בה כנשק (ק8, _מגושם_ כשלא מחוברת) והיא יכולה לנוע באופן עצמאי אם אתה בטווח הראייה שלה.                                                                                 |
 
-## What rare tool is essential to your work? Roll 1d6:
+## איזה כלי נדיר חיוני לעבודתך? הגרל ק6:
 
 |       |                    |                                                                                                                                                                   |
 | ----- | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Regrowth Salve** | Regrows a body part over the course of a day. 1 use.                                                                                                                    |
-| **2** | **Graftgrub**      | A small worm that can fuse inanimate objects with parts of the body.  1 use.                                                                                      |
-| **3** | **Woundwax**       | Heals wounds from fire or chemicals (restoring full STR) but nothing else. 2 uses.                                                                               |
-| **4** | **Quicksilver**    | A stimulant. Go first in combat, and automatically pass any WIL saves for one hour. _Addictive_: Save STR or become _deprived_ after 24 hours without it. 4 uses. |
-| **5** | **Pneuma Pump**    | Portable iron lungs (_bulky_). Enables life-saving surgery or underwater breathing.                                                                               |
-| **6** | **Lodestone**      | Draws out dangerous elements from the body and acts as a powerful magnetic force.                                                                                 |
+| **1** | **משחת צמיחה מחדש** | מצמיחה מחדש חלק גוף במהלך יום. שימוש 1.                                                                                                                    |
+| **2** | **תולעת השתלה**      | תולעת קטנה שיכולה לאחות אובייקטים דוממים עם חלקי הגוף. שימוש 1.                                                                                      |
+| **3** | **שעוות פצעים**       | מרפאה פצעים מאש או כימיקלים (משחזרת כח מלא) אך שום דבר אחר. 2 שימושים.                                                                               |
+| **4** | **כספית**    | ממריץ. פעל ראשון בקרב, ועבור אוטומטית כל הצלות רצ למשך שעה. _ממכר_: הצלת כח או תהיה _במחסור_ אחרי 24 שעות בלעדיו. 4 שימושים. |
+| **5** | **משאבת פנאומה**    | ריאות ברזל ניידות (_מגושם_). מאפשרת ניתוח מציל חיים או נשימה מתחת למים.                                                                               |
+| **6** | **אבן מושכת**      | שואבת יסודות מסוכנים מהגוף ופועלת ככוח מגנטי חזק.                                                                                 |

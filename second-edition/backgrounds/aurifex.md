@@ -1,45 +1,45 @@
 ---
-title: Aurifex
+title: אאוריפקס
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: רקעים
+grand_parent: מהדורה שנייה
 ---
 
-# Aurifex
+# אאוריפקס
 
-> You are an artisan of the arcane, a smith of subtle forces. In the crucible of your workshop, the laws that govern this world are warped to suit your needs. 
+> אתה אומן של הארקני, נפח של כוחות עדינים. בכור הסדנה שלך, החוקים ששולטים בעולם הזה מעוותים לפי צרכיך.
 
-## Names
+## שמות
 
-Hestia, Basil, Rune, Prism, Ember, Quintess, Aludel, Mordant, Salaman, Jazia
+הסטיה, בזיל, רון, פריזמה, גחלת, קווינטס, אלודל, מורדנט, סלמן, ג'זיה
 
-## Starting Gear
+## ציוד התחלתי
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Lantern
-- Oil Can (6 uses)
-- Needle-knife (d6)
-- Protective Gloves (_petty_)
+- 3ק6 מטבעות זהב
+- מנות (3 שימושים)
+- פנס
+- פחית שמן (6 שימושים)
+- סכין-מחט (ק6)
+- כפפות מגן (_זעיר_)
 
-## What went horribly wrong? Roll 1d6:
+## מה השתבש נורא? הגרל ק6:
 
 |       |                                                                                                                                                                                                                                     |
 | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | There was an explosion, and you lost your sense of smell. Well, almost: you can sniff out gold as a pig does truffles. Take a **Tin of Snuff** (6 uses) to dampen the impact. Use it every day or become _deprived_.                                  |
-| **2** | You dematerialized a beloved pet. Now it follows you around, invisible but always present. Although it cannot interact with the physical realm, you are able to share its senses. (Add a **Fatigue** each time.) It follows basic commands. |
-| **3** | You were exposed to a long-acting truth serum whose effects have yet to wear off. The disorder has its advantages: you cannot repeat lies you've heard, either.                                                                     |
-| **4** | You were adept at creating _fake_ gold, which is almost as good. Eventually, your ruse was discovered, and you had to make a hasty retreat. Take a heavy **Metal Ingot** and **Gold Powder** (3 uses).                                                    |
-| **5** | Your alchemical recipe worked, but a rival stole the blueprint before your claims could be proven. Take a prototype **Blunderbuss** (d12, _blast_, _bulky_) that takes one round to reload, and a taste for revenge.                                                      |
-| **6** | Ridiculed for discovering how to turn gold into _lead_, you were a laughing stock. Take a bottle of **Universal Solvent** (2 uses) that dissolves anything it touches into its constituent parts.                                   |
+| **1** | הייתה פיצוץ, ואיבדת את חוש הריח שלך. ובכן, כמעט: אתה יכול להריח זהב כמו שחזיר מריח כמהין. קח **קופסת טבק** (6 שימושים) להפחתת ההשפעה. השתמש בה כל יום או תהיה _במחסור_.                                  |
+| **2** | הפכת חיית מחמד אהובה לבלתי מוחשית. עכשיו היא עוקבת אחריך, בלתי נראית אך תמיד נוכחת. למרות שהיא לא יכולה לתקשר עם העולם הפיזי, אתה מסוגל לחלוק את החושים שלה. (הוסף **תשישות** בכל פעם.) היא מבצעת פקודות בסיסיות. |
+| **3** | נחשפת לסרום אמת בעל השפעה ממושכת שהשפעותיו עדיין לא פגו. להפרעה יש יתרונות: אתה גם לא יכול לחזור על שקרים ששמעת.                                                                     |
+| **4** | היית מיומן ביצירת זהב _מזויף_, שהוא כמעט טוב כמו אמיתי. בסופו של דבר, התרמית שלך התגלתה, והיית צריך לברוח בחיפזון. קח **מטיל מתכת** כבד ו**אבקת זהב** (3 שימושים).                                                    |
+| **5** | המתכון האלכימי שלך עבד, אך יריב גנב את השרטוט לפני שהטענות שלך יכלו להוכח. קח אב-טיפוס של **בלונדרבוס** (ק12, _פיצוץ_, _מגושם_) שלוקח סיבוב אחד לטעון מחדש, וטעם של נקמה.                                                      |
+| **6** | לעגו לך על שגילית איך להפוך זהב ל_עופרת_, והיית ללעג. קח בקבוק **ממס אוניברסלי** (2 שימושים) שממיס כל דבר שהוא נוגע בו לחלקיו המרכיבים.                                   |
 
-## What alchemical marvel is the product of your latest ingenuity? Roll 1d6:
+## איזה פלא אלכימי הוא תוצר הגאונות האחרונה שלך? הגרל ק6:
 
 |       |                    |                                                                                                                                                                                                                      |
 | ----- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Pyrophoric Gel** | A sticky green fluid that catches fire when exposed to air, then burns for 8 hours. Cannot be extinguished (1 use).                                                                                                |
-| **2** | **Blast Sphere**   | A head-sized iron ball filled with explosive powder that detonates on impact (d12, _blast_, _bulky_, 1 use).                                                                                                             |
-| **3** | **Aqua Vita**      | Purifies any liquid, converting it to pure water. Drinking it cures 1d6 STR (1 use).                                                                                                                                         |
-| **4** | **Mimic Stone**    | Records a short phrase that can later be played back.                                                                                                                                                     |
-| **5** | **Spark Dust**     | Ignites easily and quickly. Useful for starting a fire or as an incendiary device (3 uses).                                                                                                                           |
-| **6** | **Homunculus**     | A miniature clay replica of yourself that follows your every command. It hates being enthralled to you and complains bitterly whenever possible. Any damage done to the homunculus is also done to you. 3 HP, 4 STR, 13 DEX, 5 WIL |
+| **1** | **ג'ל פירופורי** | נוזל ירוק דביק שנתפס באש כשנחשף לאוויר, ואז בוער למשך 8 שעות. לא ניתן לכיבוי (שימוש 1).                                                                                                |
+| **2** | **כדור פיצוץ**   | כדור ברזל בגודל ראש מלא באבקה נפיצה שמתפוצץ במגע (ק12, _פיצוץ_, _מגושם_, שימוש 1).                                                                                                             |
+| **3** | **אקווה ויטה**      | מטהר כל נוזל, ממיר אותו למים טהורים. שתייתו מרפאה ק6 כח (שימוש 1).                                                                                                                                         |
+| **4** | **אבן חיקוי**    | מקליטה ביטוי קצר שניתן לנגן מאוחר יותר.                                                                                                                                                     |
+| **5** | **אבקת ניצוץ**     | נדלקת בקלות ובמהירות. שימושית להתחלת אש או כמכשיר הצתה (3 שימושים).                                                                                                                           |
+| **6** | **הומונקולוס**     | העתק חימר מיניאטורי של עצמך שמבצע כל פקודה שלך. הוא שונא להיות משועבד לך ומתלונן במרירות בכל הזדמנות אפשרית. כל נזק שנגרם להומונקולוס נגרם גם לך. 3 ה"פ, 4 כח, 13 מי, 5 רצ |

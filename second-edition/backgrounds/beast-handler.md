@@ -1,47 +1,47 @@
 ---
-title: Beast Handler
+title: מאלף חיות
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: רקעים
+grand_parent: מהדורה שנייה
 ---
 
-# Beast Handler
+# מאלף חיות
 
-> You alone can walk among the creatures of the wild, fearless and in control. You share a connection with animals that others can only dream of... so long as you don't become their snack.
+> רק אתה יכול ללכת בין יצורי הטבע, חסר פחד ובשליטה. אתה חולק קשר עם בעלי חיים שאחרים יכולים רק לחלום עליו... כל עוד אתה לא הופך לחטיף שלהם.
 
-## Names
+## שמות
 
-Amara, Wulf, Mireille, Soren, Freki, Aster, Gerrik, Boreas, Veda, Matheus
+אמרה, וולף, מיריי, סורן, פרקי, אסתר, גריק, בוראס, ודה, מתיו
 
-## Starting Gear
+## ציוד התחלתי
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses)   
-- Leather Whip (d6)
-- Soporific Darts (STR save or fall asleep, 6 uses)
-- Lure
-- Rope (25ft)
+- 3ק6 מטבעות זהב
+- מנות (3 שימושים)
+- לפיד (3 שימושים)
+- שוט עור (ק6)
+- חצי מרדימים (הצלת כח או נרדמים, 6 שימושים)
+- פיתיון
+- חבל (8 מטר)
 
-## What creature is your specialty? Roll 1d6:
+## באיזה יצור אתה מתמחה? הגרל ק6:
 
 |       |               |                                                                                                                                                                                   |
 | ----- | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Arachnids** | Take a **Quick-Flame Rod** and an **Oil Can** (6 uses). It can destroy a large spider nest in seconds.                                                                            |
-| **2** | **Felines**   | Take a sack of **Whiskerwort**. Its odor can calm and control even the largest of cats.                                                                                           |
-| **3** | **Canines**   | Take a wreath of **Wolfsbane** and a **Large Net**. Effective against werewolves as well.                                                                                         |
-| **4** | **Birds**     | Take a **Warble-Whistle** (3 charges). It can imitate any bird call and can even be used to send simple messages. **Recharge**: Feed a baby bird as its mother would, then blow. |
-| **5** | **Rodents**   | Take a **Pan Flute** that emits a high-pitched sound that only rodents can hear. So long as you play, they will follow, even to their deaths.                                     |
-| **6** | **Serpents**  | Take a **Warming Stone** that generates an irresistible heat and a vial of **Antitoxin** (2 uses).                                                                               |
+| **1** | **עכבישים** | קח **מוט להבה מהירה** ו**פחית שמן** (6 שימושים). הוא יכול להשמיד קן עכבישים גדול בשניות.                                                                            |
+| **2** | **חתוליים**   | קח שק של **עשב-שפם**. הריח שלו יכול להרגיע ולשלוט אפילו בחתולים הגדולים ביותר.                                                                                           |
+| **3** | **כלביים**   | קח זר של **עשבשועל** ו**רשת גדולה**. יעיל גם נגד אנשי זאב.                                                                                         |
+| **4** | **עופות**     | קח **משרוקית צייץ** (3 מטענים). היא יכולה לחקות כל קריאת ציפור ואפילו ניתן להשתמש בה לשלוח הודעות פשוטות. **טעינה מחדש**: האכל גוזל ציפור כמו שאמא שלו הייתה מאכילה, ואז נשוף. |
+| **5** | **מכרסמים**   | קח **חליל פאן** שפולט צליל בתדר גבוה שרק מכרסמים יכולים לשמוע. כל עוד אתה מנגן, הם יעקבו, אפילו עד מותם.                                     |
+| **6** | **נחשים**  | קח **אבן מחממת** שמפיקה חום בלתי ניתן לעמידה ובקבוקון **נוגד רעלים** (2 שימושים).                                                                               |
 
 
-## What have you learned from the creatures of the wild? Roll 1d6: 
+## מה למדת מיצורי הטבע? הגרל ק6:
 
 |       |                                                                                                                                                                                          |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | That there is far more to the world than meets the eye. With quiet concentration, you can borrow the senses of a nearby creature of your **specialty**.                                       |
-| **2** | That the behavior of beasts is a language in itself. When observing beasts of your **specialty** you gain insight into weather patterns and impending disasters.                             |
-| **3** | That the pulse of the hunt is a powerful impulse. You have a sense for when predators, even those **not of your specialty** are near.                                                        |
-| **4** | That the land is a language unto itself. Your chance of becoming lost in a terrain dominated by the beasts of your **specialty** is reduced by one step (e.g. 4-in-6 becomes 3-in-6).             |
-| **5** | That nature's symphony can be heard if you attune to its rhythm. When surrounded by creatures of your **specialty**, they can alert you to approaching danger before it arrives.               |
-| **6** | That survival is all about adaptability. Once per day, you may take on a simple feature from a creature of your **specialty** (webbed fingers, night vision, etc.). Add a **Fatigue** each time. |
+| **1** | שיש הרבה יותר לעולם ממה שנראה לעין. עם ריכוז שקט, אתה יכול לשאול את החושים של יצור קרוב מ**התמחותך**.                                       |
+| **2** | שההתנהגות של חיות היא שפה בפני עצמה. כאשר אתה צופה בחיות מ**התמחותך** אתה מקבל תובנה לגבי דפוסי מזג אוויר ואסונות מתקרבים.                             |
+| **3** | שפעימת הציד היא דחף חזק. יש לך חוש לזהות מתי טורפים, אפילו כאלה **שלא מההתמחות שלך**, נמצאים בקרבת מקום.                                                        |
+| **4** | שהארץ היא שפה בפני עצמה. הסיכוי שלך ללכת לאיבוד בשטח שנשלט על ידי החיות מ**התמחותך** מופחת בשלב אחד (למשל 4 מתוך 6 הופך ל-3 מתוך 6).             |
+| **5** | שניתן לשמוע את הסימפוניה של הטבע אם מכוונים לקצב שלה. כאשר אתה מוקף ביצורים מ**התמחותך**, הם יכולים להתריע בפניך על סכנה מתקרבת לפני שהיא מגיעה.               |
+| **6** | שהישרדות היא הכל על הסתגלות. פעם ביום, אתה יכול לקחת על עצמך תכונה פשוטה מיצור מ**התמחותך** (אצבעות עם קרומים, ראיית לילה, וכו'). הוסף **תשישות** בכל פעם. |

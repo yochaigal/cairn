@@ -1,46 +1,46 @@
 ---
-title: Fletchwind
+title: רוח-חץ
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: רקעים
+grand_parent: מהדורה שנייה
 ---
 
-# Fletchwind
+# רוח-חץ
 
-> You strike from afar, but that does not make you a coward. You are a musician, the song of your bowstring nought but a warning, singing the silent promise of a quick death. 
+> אתה מכה מרחוק, אך זה לא הופך אותך לפחדן. אתה מוזיקאי, שיר מיתר הקשת שלך אינו אלא אזהרה, שר את ההבטחה השקטה של מוות מהיר.
 
-## Names
+## שמות
 
-Flint, Feather, Crier, Thunder, Falcon, Pluck, Needle, Warsong, Hawk, Cai
+צור, נוצה, קורא, רעם, נץ, קוטף, מחט, שיר-קרב, עיט, קאי
 
-## Starting Gear
+## ציוד התחלתי
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Bow (see table)
-- Serrated Knife (d6)
-- Boiled Leather (1 Armor)
-- Heartroot Salve (restores 1d4 STR, 1 use)
+- 3ק6 מטבעות זהב
+- מנות (3 שימושים)
+- לפיד (3 שימושים)
+- קשת (ראה טבלה)
+- סכין משוננת (ק6)
+- עור מבושל (1 שריון)
+- משחת שורש-לב (משחזרת ק4 כח, שימוש 1)
 
-## How did you earn your bow? Roll 1d6:
+## איך הרווחת את הקשת שלך? הגרל ק6:
 
 |       |                                                                                                                                                                                                             |
 | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **War**. If you are first to attack, your bow gains the _blast_ property for the first round.                                                                                                               |
-| **2** | **Falconry**. You keep a falcon [3 hp, 5 STR, 16 DEX, 4 WIL, claws (d6+d6), bite (d8)]. It only eats live game.                                                                                             |
-| **3** | **Hunting**. When taking the Supply action, your ability to secure **Rations** increases by **one step** (e.g. 1d4 becomes 1d6).          |
-| **4** | **Tournaments**. Attacks with your bow are _enhanced_ if the target is immobile.                                                                                                                            |
-| **5** | **Training**. If you are the first to attack, melee attacks against you are _impaired_ until you take STR damage.                                                                                           |
-| **6** | **Scouting**. When taking the Travel action, your presence decreases the chance of getting lost by one step (e.g. 4-in-6 becomes 3-in-6). |
+| **1** | **מלחמה**. אם אתה הראשון לתקוף, הקשת שלך מקבלת את תכונת ה_פיצוץ_ לסיבוב הראשון.                                                                                                               |
+| **2** | **בזירות**. יש לך בז [3 ה"פ, 5 כח, 16 מי, 4 רצ, טפרים (ק6+ק6), נשיכה (ק8)]. הוא אוכל רק ציד חי.                                                                                             |
+| **3** | **ציד**. כאשר נוקט בפעולת אספקה, היכולת שלך להשיג **מנות** עולה ב**שלב אחד** (למשל ק4 הופך לק6).          |
+| **4** | **טורנירים**. התקפות עם הקשת שלך _מוגברות_ אם המטרה חסרת תנועה.                                                                                                                            |
+| **5** | **אימון**. אם אתה הראשון לתקוף, התקפות קרב נגדך _מוחלשות_ עד שתקבל נזק כח.                                                                                           |
+| **6** | **סיור**. כאשר נוקט בפעולת מסע, הנוכחות שלך מפחיתה את הסיכוי ללכת לאיבוד בשלב אחד (למשל 4 מתוך 6 הופך ל-3 מתוך 6). |
 
-## What kind of wood is your bow made from? Roll 1d6:
+## מאיזה סוג עץ עשויה הקשת שלך? הגרל ק6:
 
 |       |                                                                                                          |
 | ----- | -------------------------------------------------------------------------------------------------------- |
-| **1** | **Western Yew** (d6, _bulky_). Can be wielded as a blunt weapon (d6). Noisy.                             |
-| **2** | **Sessile Oak** (d8, _bulky_). Slams into targets. On **Critical Damage** something is torn off.         |
-| **3** | **Stone Pine** (d6, _bulky_). Produces one use of **Sticky Sap** per day. The sap is highly explosive.   |
-| **4** | **White Ash** (d6, _bulky_). Can be used in place of a shield in melee combat (+1 Armor).                |
-| **5** | **Striped Bamboo** (d6). Collapsible, it only requires one slot (but still requires both hands).         |
-| **6** | **Wych Elm** (d6, _bulky_). Protects the bearer from poisons and toxins, so long as they are holding it. |
+| **1** | **טקסוס מערבי** (ק6, _מגושם_). ניתן להשתמש כנשק קהה (ק6). רועש.                             |
+| **2** | **אלון יושב** (ק8, _מגושם_). דוחף מטרות בכוח. ב**נזק קריטי** משהו נקרע.         |
+| **3** | **אורן אבן** (ק6, _מגושם_). מייצר שימוש אחד של **שרף דביק** ליום. השרף נפיץ מאוד.   |
+| **4** | **מילה לבנה** (ק6, _מגושם_). ניתן להשתמש במקום מגן בקרב קרוב (+1 שריון).                |
+| **5** | **במבוק מפוספס** (ק6). מתקפל, הוא דורש רק משבצת אחת (אך עדיין דורש שתי ידיים).         |
+| **6** | **בוקיצה** (ק6, _מגושם_). מגן על הנושא מרעלים ורעלנים, כל עוד הוא מחזיק בה. |

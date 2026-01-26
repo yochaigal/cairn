@@ -1,48 +1,46 @@
 ---
-title: Cutpurse
+title: כייס
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: רקעים
+grand_parent: מהדורה שנייה
 ---
 
-# Cutpurse
+# כייס
 
-> You live in the grey space between those who have power and those who don’t. You find opportunity where others see only chaos. With nimble fingers, you unburden both the richest merchant and the lowliest guard. 
+> אתה חי במרחב האפור בין אלה שיש להם כוח לבין אלה שאין. אתה מוצא הזדמנות במקום שאחרים רואים רק כאוס. עם אצבעות זריזות, אתה מקל את העומס גם מהסוחר העשיר ביותר וגם מהשומר הפחות חשוב.
 
-## Names
+## שמות
 
-Arlo, Lyra, Eamon, Salina, Elara, Freya, Bull, Sparrow, Ivy, Silas
+ארלו, לירה, אמון, סלינה, אלרה, פריה, בול, דרור, עלווה, סילס
 
-## Starting Gear
- 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Twin Daggers (d6+d6, _bulky_)
-- Padded Leather (1 Armor)
-- Lockpicks
-- Black Outfit (_petty_)
+## ציוד התחלתי
 
-## What was your last big job? Roll 1d6:
+- 3ק6 מטבעות זהב
+- מנות (3 שימושים)
+- לפיד (3 שימושים)
+- פגיונות תאומים (ק6+ק6, _מגושם_)
+- עור מרופד (1 שריון)
+- מפתחות פורץ
+- תלבושת שחורה (_זעיר_)
+
+## מה הייתה העבודה הגדולה האחרונה שלך? הגרל ק6:
 
 |       |                                                                                                                                                                                                   |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | A noble's summer home. The place was full of fancy wine (+20gp) but not much else. Take **Fence Cutters**.                                                                                        |
-| **2** | A bank. (You were caught.) You bear a brand only visible by firelight, and anyone who sees the mark can ask you for a beer. Take **Retractable Wires**.                                           |
-| **3** | A guild warehouse. Take a **Ladder** (_bulky_, 10ft) and **Blinding Powder** (1 use).                                                                                                             |
-| **4** | Moneylender. Someone beat you to the job but left behind a **Scroll** of _Arcane Eye_ (_petty_). _Arcane Eye_: You can see through a magical floating eyeball that flies around at your command. |
-| **5** | Constable's quarters. You escaped but left some friends behind. Take **Strong Silk Rope** (30ft) and a queasy feeling.                                                                           |
-| **6** | A university. You were seen but not pursued. You still don't know why. Take **Smoke Pellets** (3 uses).                                                                                          |
+| **1** | בית קיץ של אציל. המקום היה מלא יין מפואר (+20 זמ) אך לא הרבה מעבר. קח **חותכי גדר**.                                                                                        |
+| **2** | בנק. (נתפסת.) אתה נושא מותג שנראה רק לאור אש, וכל מי שרואה את הסימן יכול לבקש ממך בירה. קח **חוטים נשלפים**.                                           |
+| **3** | מחסן גילדה. קח **סולם** (_מגושם_, 3 מטר) ו**אבקת עיוורון** (שימוש 1).                                                                                                             |
+| **4** | מלווה בריבית. מישהו הקדים אותך לעבודה אך השאיר **מגילה** של _עין ארקנית_ (_זעיר_). _עין ארקנית_: אתה יכול לראות דרך גלגל עין קסום מרחף שעף סביב לפי פקודתך. |
+| **5** | חדרי השוטר. נמלטת אך השארת חברים מאחור. קח **חבל משי חזק** (10 מטר) ותחושת בחילה.                                                                           |
+| **6** | אוניברסיטה. נראית אך לא נרדפת. אתה עדיין לא יודע למה. קח **כדורי עשן** (3 שימושים).                                                                                          |
 
-## What helps you steal? Roll 1d6:
+## מה עוזר לך לגנוב? הגרל ק6:
 
 |       |                       |                                                                                                                                                    |
 | ----- | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Catring**           | 2 charges. Climb up walls and fall safely. **Recharge**: Place the ring on a stray cat's tail.                                                     |
-| **2** | **Gildfinger**        | 1 charge. A finger glove that mimics any mundane key. **Recharge**: Bundle it with at least 100gp for a night.                                     |
-| **3** | **Glimpse Glass**     | 3 uses. A monocle that lets you see through walls or other obstructions. It shatters after the last use.                                        |
-| **4** | **Sweetwhistle**      | 1 charge. Listeners hear a soft, familiar voice in the distance that they cannot resist following. **Recharge**: Lose a dear memory. (Describe it.) |
-| **5** | **Vagrant's Veil**    | 1 charge. Wear it to blend seamlessly into crowds, appearing as a simple pauper. **Recharge**: Donate the day's winnings to the poor. _Petty_      |
-| **6** | **Reverse Teetotum** | 1 use. When spun, time skips backwards 30 seconds. Everyone remembers what happened.                                                                                    |
-
-
+| **1** | **טבעת חתול**           | 2 מטענים. טפס על קירות ונפול בבטחה. **טעינה מחדש**: הנח את הטבעת על זנב של חתול משוטט.                                                     |
+| **2** | **אצבע מוזהבת**        | מטען 1. כפפת אצבע שמחקה כל מפתח רגיל. **טעינה מחדש**: צרור אותה עם לפחות 100 זמ ללילה.                                     |
+| **3** | **זכוכית הצצה**     | 3 שימושים. משקפת שמאפשרת לך לראות דרך קירות או מחסומים אחרים. היא מתנפצת אחרי השימוש האחרון.                                        |
+| **4** | **משרוקית מתוקה**      | מטען 1. המאזינים שומעים קול רך ומוכר מרחוק שהם לא יכולים לעמוד בפניו. **טעינה מחדש**: אבד זיכרון יקר. (תאר אותו.) |
+| **5** | **צעיף הנווד**    | מטען 1. לבש אותו כדי להשתלב בצורה חלקה בקהל, להיראות כקבצן פשוט. **טעינה מחדש**: תרום את רווחי היום לעניים. _זעיר_      |
+| **6** | **סביבון הפוך** | שימוש 1. כאשר מסובב, הזמן קופץ אחורה 30 שניות. כולם זוכרים מה קרה.                                                                                    |
