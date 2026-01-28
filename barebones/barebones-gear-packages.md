@@ -10,7 +10,7 @@ nav_order: 6
 ### Fighter
 
 * 3d6 Gold Pieces
-* Jerky (5 uses)
+* Jerky (3 uses, _petty_)
 * Torches (3 uses)
 * Bandages (3 uses)
 * Rope
