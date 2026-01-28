@@ -10,7 +10,7 @@ nav_order: 6
 ### Fighter
 
 * 3d6 Gold Pieces
-* Pemmican (5 uses)
+* Jerky (5 uses)
 * Torches (3 uses)
 * Bandages (3 uses)
 * Rope
