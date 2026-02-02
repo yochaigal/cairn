@@ -13,7 +13,7 @@ nav_order: 8
 ## Other Downloads 
 
 ### Compiled Monsters
-- Compiled Monsters in [Letter Format](https://drive.google.com/file/d/1x4YwsTsJBWdKYjSvNYiKsECFmuQ3xxVw/)
+- Compiled Monsters in [Letter Format](https://drive.google.com/file/d/1P_MQIDPEJck2hxOkPkAZDQh_rKvwFPS4/)
 - Compiled Monsters Booklet in [Letter Format](https://drive.google.com/file/d/192vtyRv8sQDvSTo4CsRQKQ1_uS9xKvGR/)
 - Compiled Monsters in [A5 Format](https://drive.google.com/file/d/1um41T2VzADW2bLgo8EZwIB_UuFfMY78t/)
 - Compiled Monsters Booklet in [A5 Booklet Format](https://drive.google.com/file/d/1DIjc9tDsUyBqKnzk4SLOHPhF11apfvp1/)
