@@ -11,10 +11,10 @@ nav_order: 2
 
 - Cairn: Barebones Edition on [Itch](https://yochaigal.itch.io/cairn-barebones-edition)
 
-## DTRPG
+## DriveThruRPG
 
 - Cairn: Barebones Edition on [DrivethruRPG](https://www.drivethrurpg.com/en/product/554951/cairn-barebones-edition)
 
-## Go)e
+## Google Drive
 
 - To peruse the PDFs without creating an account, click [here](https://drive.google.com/drive/folders/12gWN_Wzw_BDuaFs83Q8-1pHedrvWx-qq?usp=sharing)!
