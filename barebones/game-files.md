@@ -2,7 +2,7 @@
 layout: default
 title: Barebones Edition Game Files
 parent: Barebones
-nav_order: 2
+nav_order: 3
 ---
 
 # Barebones Edition Game Files
