@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Introduction to Cairn Barebones Edition
-parent: Barebones
+parent: Rules
+grand_parent: Barebones
 nav_order: 1
 ---
 

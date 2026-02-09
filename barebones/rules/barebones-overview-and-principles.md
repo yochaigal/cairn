@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Barebones Edition Overview & Principles
-parent: Barebones
+parent: Rules
+grand_parent: Barebones
 nav_order: 2
 ---
 

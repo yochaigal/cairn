@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Barebones Edition Procedures
-parent: Barebones
+parent: Rules
+grand_parent: Barebones
 nav_order: 4
 ---
 
@@ -252,7 +253,7 @@ Some **Costs** can be reduced or disregarded through character skills, connectio
 
 ## Downtime Actions
 
-The following activities represent some of the most common **Downtime Actions** a players can choose. The **Warden** can also create custom actions based on the needs of play.
+The following activities represent some of the most common **Downtime Actions** a player can choose. The **Warden** can also create custom actions based on the needs of play.
 
 ### Research
 

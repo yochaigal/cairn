@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Barebones Edition Core Rules
-parent: Barebones
+parent: Rules
+grand_parent: Barebones
 nav_order: 3
 ---
 
@@ -119,7 +120,7 @@ When the PCs encounter an NPC whose reaction to the party is not obvious, the Wa
 
 ### Rounds
 
-- A **Round** is roughly ten seconds of in-game time and and proceeds with each side taking turns. Each round starts with any PC that is able to act, followed by their opponents. _The result of each side's actions occur simultaneously_. 
+- A **Round** is roughly ten seconds of in-game time and proceeds with each side taking turns. Each round starts with any PC that is able to act, followed by their opponents. _The result of each side's actions occur simultaneously_. 
 - During the _first round of combat_, each PC must make a DEX save in order to act. Special circumstances, abilities, items, or skills may negate this requirement. PCs that fail their save _lose their turn_ for this round.
 - Their opponents then take their turn, and the first round ends. The next round begins with the PCs taking their turn, followed by their opponents, and so on until combat has ended with one side defeated or fled.
 
