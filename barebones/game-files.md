@@ -13,7 +13,7 @@ nav_order: 2
 
 ## DTRPG
 
-- Cairn: Barebones Edition on [DrivethruRPG](https://[www.drivethrurpg.com/en/product/554951/cairn-barebones-edition)
+- Cairn: Barebones Edition on [DrivethruRPG](https://www.drivethrurpg.com/en/product/554951/cairn-barebones-edition)
 
 ## Go)e
 
