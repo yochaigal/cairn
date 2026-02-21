@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Print
+title: Print Copies
 parent: Barebones
 nav_order: 2
 ---
