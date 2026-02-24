@@ -25,7 +25,7 @@ The party is escorting an NPC between two POIs: a small village situated in the 
 #### Day One / Watch Two 
 
 - The party takes the **Travel** action again, continuing along the same trail and plain. _They do not get lost._
-- **Events Table**: **Environment**. The weather has worsened in the evening, and as a result, the plain is muddy and the trail harder to follow. The Warden adds 1 Watch to the journey, as the party is forced to slow their march considerably, only reaching the the edge of the grasses by nightfall. The party is forced to find shelter in the open plain rather than at their destination in the adjacent valley.
+- **Events Table**: **Environment**. The weather has worsened in the evening, and as a result, the plain is muddy and the trail harder to follow. The Warden adds 1 Watch to the journey, as the party is forced to slow their march considerably, only reaching the edge of the grasses by nightfall. The party is forced to find shelter in the open plain rather than at their destination in the adjacent valley.
 
 #### Day One / Watch Three 
 
