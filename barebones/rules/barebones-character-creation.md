@@ -10,15 +10,15 @@ nav_order: 5
 
 ## Overview
 
-1. Roll for your character’s first and last [Name](#names) as well as **Age** (2d20+10).
+1. Roll for your character’s first and last [Name](#names-d100) as well as **Age** (2d20+10).
 2. Roll for your characters’ [Attributes](#attributes) and [Hit Protection](#hit-protection).
-3. Roll for your character’s [Traits](#traits).
+3. Roll for your character’s [Traits](#traits-d10).
 4. Roll for your character's [Background](#background) and related items.
-5. Roll for your character's [Weapon & Armor](#weapon-and-armor). 
+5. Roll for your character's [Armor & Weapon](#armor-and-weapon). 
 6. Roll for an [Additional Gear](#additional-gear) to complete your character's starting equipment.
-7. Purchase any additional items your character can afford from the [Marketplace](/barebones/barebones-marketplace.md). 
+7. Purchase any additional items your character can afford from the [Marketplace](/barebones/rules/barebones-marketplace). 
 
-### Names
+### Names (d100)
 
 | d100 | Name     | Surname     |
 | ---- | -------- | ----------- |
