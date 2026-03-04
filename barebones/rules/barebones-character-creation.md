@@ -14,7 +14,7 @@ nav_order: 5
 2. Roll for your characters’ [Attributes](#attributes) and [Hit Protection](#hit-protection).
 3. Roll for your character’s [Traits](#traits-d10).
 4. Roll for your character's [Background](#background) and related items.
-5. Roll for your character's [Armor & Weapon](#armor-and-weapon). 
+5. Roll for your character's [Armor & Weapon](#armor--weapon). 
 6. Roll for an [Additional Gear](#additional-gear) to complete your character's starting equipment.
 7. Purchase any additional items your character can afford from the [Marketplace](/barebones/rules/barebones-marketplace). 
 
