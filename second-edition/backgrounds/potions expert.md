@@ -11,9 +11,7 @@ grand_parent: Second Edition
 
 ## Names
 
-# TBD
-
-Hestia, Basil, Rune, Prism, Ember, Quintess, Aludel, Mordant, Salaman, Jazia
+Henry, George, Percy, Harper, Avery, Mason, Olivia, Ava
 
 ## Starting Gear
 
@@ -43,7 +41,7 @@ Hestia, Basil, Rune, Prism, Ember, Quintess, Aludel, Mordant, Salaman, Jazia
 | ----- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1** | **Polyjuice Potion** | Allows the drinker to take on the form of another person for one hour (1 use).                                                                                                |
 | **2** | **Amortentia**   | The strongest known Love Potion. Though it does not create love, just a powerful obsession and infatuation. (1 use).                                                                                                             |
-| **3** | **Baruffio's Brain Elixir**      | Increase the drinkers mental agility, concentration and wakefulness. Drinking it raises WIL by 1d4 for one skill check (3 uses).                                                                                                                                         |
-| **4** | **Deflating Draugh**    | Will shrink whatever it touches (3 uses).                                                                                                                                                     |
+| **3** | **Baruffio's Brain Elixir**      | Increase the drinkers mental agility, concentration and wakefulness. Drinking it raises WIL by 1d4 for one skill check (1 uses).                                                                                                                                         |
+| **4** | **Deflating Draught**    | Will shrink whatever it touches (1 uses).                                                                                                                                                     |
 | **5** | **Skele-Gro**     | Causes vanished or otherwise lost bones to regrow (1 use).                                                                                                                           |
 | **6** | **Veritaserum**     | Forces the drinker to answer any question addressed to them truthfully (1 use). |
