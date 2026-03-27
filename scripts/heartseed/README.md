@@ -16,6 +16,13 @@ You can generate characters from both the [Second Edition](https://cairnrpg.com/
 python heartseed.py [OPTIONS]
 ```
 
+Aliases:
+
+```bash
+--bg is the short form of --background
+--md is the short form of --markdown
+```
+
 ---
 
 ## Editions
@@ -32,7 +39,7 @@ Default: `2e`
 ## Background Options (2e)
 
 ```bash
---background "Aurifex"
+--bg "Aurifex"
 --background "Barber-Surgeon"
 --background "Beast Handler"
 --background "Bonekeeper"
@@ -73,7 +80,7 @@ Random characters:
 Specific background:
 
 ```bash
---edition barebones --background "Librarian"
+--edition barebones --bg "Librarian"
 ```
 
 List available backgrounds:
@@ -136,7 +143,7 @@ Deterministic output:
 ## Examples
 
 ```bash
-python heartseed.py --edition 2e --background "Aurifex" --count 5
+python heartseed.py --edition 2e --bg "Aurifex" --count 5
 
 python heartseed.py --edition 2e --all-backgrounds --md all.md
 
@@ -144,7 +151,7 @@ python heartseed.py --edition barebones --count 10
 
 python heartseed.py --edition barebones --package Cleric --seed 42
 
-python heartseed.py --edition barebones --background "Librarian" --md libs.md
+python heartseed.py --edition barebones --bg "Librarian" --md libs.md
 ```
 
 ## Versioning
@@ -162,3 +169,9 @@ To sync the README header version automatically:
 ```bash
 python heartseed.py --update-readme-version README.md
 ```
+
+## License
+
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0).
+
+See the LICENSE file for details.
