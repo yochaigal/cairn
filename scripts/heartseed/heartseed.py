@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+
 from __future__ import annotations
 
 import argparse
@@ -10,6 +11,7 @@ import re
 import shutil
 import tempfile
 import zipfile
+__version__ = "0.1.0"
 from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Any, Dict, Iterable, List, Optional, Sequence, Tuple
@@ -812,10 +814,12 @@ def get_effective_data_dir(user_data_dir: Optional[Path]) -> Path:
 
 
 def parse_args() -> argparse.Namespace:
-    parser = argparse.ArgumentParser(description="Generate Cairn 2e or Barebones characters from local rules files.")
+    parser = argparse.ArgumentParser(description="Generate Cairn 2e or Barebones characters.")
+    parser.add_argument("--version", action="store_true", help="Print the current version and exit")
+    parser.add_argument("--update-readme-version", nargs="?", const="README.md", metavar="README", help="Update the README header with the current version and exit")
     parser.add_argument("--data-dir", type=Path, default=None, help="Directory containing the JSON and markdown rules files. If omitted, embedded rules data is used.")
     parser.add_argument("--edition", choices=["2e", "barebones"], default="2e", help="Ruleset to use")
-    parser.add_argument("--background", help="Generate only this background")
+    parser.add_argument("--bg", "--background", dest="background", help="Generate only this background")
     parser.add_argument("--all-backgrounds", action="store_true", help="Generate one character for every background in the chosen edition")
     parser.add_argument("--package", choices=["Fighter", "Thief", "Magic-User", "Cleric"], help="Barebones gear package to use instead of a background roll")
     parser.add_argument("--count", type=int, default=1, help="How many characters to generate")
@@ -823,12 +827,22 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--seed", type=int, help="Random seed for repeatable output")
     parser.add_argument("--list-backgrounds", action="store_true", help="List available backgrounds for the chosen edition and exit")
     parser.add_argument("--list-packages", action="store_true", help="List barebones gear packages and exit")
-    parser.add_argument("--markdown", type=Path, help="Write output to a markdown file instead of stdout")
+    parser.add_argument("--md", "--markdown", dest="md", type=Path, help="Write output to a markdown file instead of stdout")
     return parser.parse_args()
 
 
 def main() -> None:
     args = parse_args()
+
+    if args.version:
+        print(f"Heartseed {__version__}")
+        return
+
+    if args.update_readme_version:
+        update_readme_version(Path(args.update_readme_version))
+        print(f"Updated README version: {__version__} -> {args.update_readme_version}")
+        return
+
     rng = random.Random(args.seed)
     resources = SharedResources(get_effective_data_dir(args.data_dir))
 
@@ -849,8 +863,8 @@ def main() -> None:
         outputs = run_barebones(generator, args)
 
     rendered = "\n\n".join(outputs)
-    if args.markdown:
-        args.markdown.write_text(rendered + ("\n" if not rendered.endswith("\n") else ""), encoding="utf-8")
+    if args.md:
+        args.md.write_text(rendered + ("\n" if not rendered.endswith("\n") else ""), encoding="utf-8")
     else:
         print(rendered)
 

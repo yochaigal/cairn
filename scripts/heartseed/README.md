@@ -1,11 +1,12 @@
 # Heartseed
+Version 0.1.0
 
 ## Files
 
 - `heartseed.py`
 
 Heartseed is a portable character generator for Cairn. The script is fully self-contained and includes all rules data internally.
-It can generate characters for both the Second Edition Barebones Edition of Cairn.
+You can generate characters from both the [Second Edition](https://cairnrpg.com/second-edition/) of Cairn and [Barebones Edition](https://cairnrpg.com/barebones/).
 
 ---
 
@@ -105,7 +106,7 @@ List packages:
 Write to markdown file:
 
 ```bash
---markdown output.md
+--md output.md
 ```
 
 Omit background name in header:
@@ -137,11 +138,27 @@ Deterministic output:
 ```bash
 python heartseed.py --edition 2e --background "Aurifex" --count 5
 
-python heartseed.py --edition 2e --all-backgrounds --markdown all.md
+python heartseed.py --edition 2e --all-backgrounds --md all.md
 
 python heartseed.py --edition barebones --count 10
 
 python heartseed.py --edition barebones --package Cleric --seed 42
 
-python heartseed.py --edition barebones --background "Librarian" --markdown libs.md
+python heartseed.py --edition barebones --background "Librarian" --md libs.md
+```
+
+## Versioning
+
+Print the current version:
+
+```bash
+python heartseed.py --version
+```
+
+This prints the version embedded in the script.
+
+To sync the README header version automatically:
+
+```bash
+python heartseed.py --update-readme-version README.md
 ```
