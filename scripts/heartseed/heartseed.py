@@ -1,18 +1,4 @@
 #!/usr/bin/env python3
-# Heartseed — Cairn Character Generator
-# By Yochai Gal - 2026
-#
-# This program is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, version 3.
-#
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-# GNU General Public License for more details.
-#
-# You should have received a copy of the GNU General Public License
-# along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 from __future__ import annotations
 
@@ -24,6 +10,7 @@ import random
 import re
 import shutil
 import tempfile
+import sys
 import zipfile
 __version__ = "0.1.0"
 from dataclasses import dataclass, field
@@ -856,6 +843,18 @@ def main() -> None:
         update_readme_version(Path(args.update_readme_version))
         print(f"Updated README version: {__version__} -> {args.update_readme_version}")
         return
+
+    if args.package and args.edition != "barebones":
+        print("Error: --package only works with Barebones characters.", file=sys.stderr)
+        print(f"You used --edition {args.edition}.", file=sys.stderr)
+        print("Use: python3 heartseed.py --edition barebones --package Fighter", file=sys.stderr)
+        raise SystemExit(1)
+
+    if args.list_packages and args.edition != "barebones":
+        print("Error: --list-packages only works with Barebones characters.", file=sys.stderr)
+        print(f"You used --edition {args.edition}.", file=sys.stderr)
+        print("Use: python3 heartseed.py --edition barebones --list-packages", file=sys.stderr)
+        raise SystemExit(1)
 
     rng = random.Random(args.seed)
     resources = SharedResources(get_effective_data_dir(args.data_dir))
