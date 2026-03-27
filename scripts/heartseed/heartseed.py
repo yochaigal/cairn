@@ -218,7 +218,7 @@ class Character:
             f"{self.traits['Physique']} physique, {self.traits['Skin']} skin, "
             f"{self.traits['Hair']}-haired, {self.traits['Face']} face, "
             f"{self.traits['Speech']} voice, {self.traits['Clothing']} clothes; "
-            f"{self.traits['Virtue']}, but {self.traits['Vice']}. Age {self.age}. You have {self.gold} GP."
+            f"{self.traits['Virtue']}, but {self.traits['Vice']}. Age {self.age}. Has {self.gold} GP."
         )
 
     def format_gear(self) -> str:
