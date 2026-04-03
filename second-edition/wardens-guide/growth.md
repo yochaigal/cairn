@@ -51,7 +51,7 @@ Hazel had previously made multiple attempts to bend the Spellbook to her will wi
 
 ### Forging a Relationship With a Being of Great Power
 
-_Aster and his comrades came upon a shrine deep hidden in a forest cave. After some research and experimentation (spearheaded by Aster), they were able to free the nearly-mad river god trapped within. , the deity offered its unknowable essence to anyone willing to receive it. Aster stepped forward and was bound to the god, forgoing his old life and adopting a new religion. A few days later, gills sprouted from Aster's neck after an impromptu dive in a raging river._
+_Aster and his comrades came upon a shrine deep hidden in a forest cave. After some research and experimentation (spearheaded by Aster), they were able to free the nearly-mad river god trapped within. As thanks, the deity offered its unknowable essence to anyone willing to receive it. Aster stepped forward and was bound to the god, forgoing his old life and adopting a new religion. A few days later, gills sprouted from Aster's neck after an impromptu dive in a raging river._
 
 Through his attempts to interact with the statue and determine its true purpose, Aster revealed a distinct pattern of behavior, and although the results were uncertain, he still took a serious risk by prostrating himself to an entity he did not know or understand.  
 
