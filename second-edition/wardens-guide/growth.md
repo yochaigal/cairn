@@ -81,7 +81,7 @@ Here is a clear example of a character working against type. The Warden deemed t
 
 ### Faction Advancement
 
- _Three weeks ago, Rui was tasked by the **Order of the Helm** with locating a Gate in the Wyskat Forest. She returned earlier than expected, having completed her mission with great aplomb. Her employers were so impressed with her work that she was formally invited to join t Order as an **Initiate**. The Warden explained that the position had no distinct requirements but paid a regular stipend and came with some fraternal benefits. The only requirement would be that she complete occasional tasks on behalf of the Order in pursuit of its cause. If she were to later pursue a higher-level , she would be required to formally pledge allegiance to the Order and take their Oath. Rui agrees to join as an Initiate for now, and the Warden describes the Downtime **Milestones** that track Rui's relationship with The Order:_
+ _Three weeks ago, Rui was tasked by the **Order of the Helm** with locating a Gate in the Wyskat Forest. She returned earlier than expected, having completed her mission with great aplomb. Her employers were so impressed with her work that she was formally invited to join The Order as an **Initiate**. The Warden explained that the position had no distinct requirements but paid a regular stipend and came with some fraternal benefits. The only requirement would be that she complete occasional tasks on behalf of the Order in pursuit of its cause. If she were to later pursue a higher-level rank, she would be required to formally pledge allegiance to the Order and take their Oath. Rui agrees to join as an Initiate for now, and the Warden describes the Downtime **Milestones** that track Rui's relationship with The Order:_
 
   - [ ] Complete one mission on behalf of the order.
   - [ ] Complete two missions on behalf of the order.
@@ -93,7 +93,7 @@ Here is a clear example of a character working against type. The Warden deemed t
  
  _Months go by, and Rui completes two more missions and trains with a Master from The Order. She learns both focus and swordsmanship, increasing her HP and the damage she delivers with a sword. She also learns the faction's true objective and decides their cause is just. She dons an iron helm (+1 Armor, petty) and takes their Oath, accepting that she can never again reveal her face to any living creature so long as she lives. The Warden explains that although Rui still required food, water, and sleep, she no longer becomes deprived from that lack of them._
 
-This example relies on activities that occur both in the game and between sessions, utilizing two separate Downtime procedures (_Strengthening Ties_ and _Training_). The **Protector** that Rui trained with acted as Master, and although we don't , there was likely a second tier of **Milestones** included in that aspect of her journey.
+This example relies on activities that occur both in the game and between sessions, utilizing two separate Downtime procedures (_Strengthening Ties_ and _Training_). The **Protector** that Rui trained with acted as Master, and although we don't describe it here, there was likely a second tier of **Milestones** included in that aspect of her journey.
 
 ### Resolution of a Bond or Omen
 
