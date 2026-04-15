@@ -2,7 +2,7 @@
 layout: default
 parent: Conversions
 grand_parent: Adventures
-title: Library Beneath the Sands Conversion
+title: Library Beneath the Sands
 ---
 
 # Library Beneath the Sands
