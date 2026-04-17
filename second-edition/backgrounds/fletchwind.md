@@ -7,7 +7,7 @@ grand_parent: Second Edition
 
 # Fletchwind
 
-> You strike from afar, but that does not make you a coward. You are a musician, the song of your bowstring nought but a warning, singing the silent promise of a quick death. 
+> You strike from afar, but that does not make you a coward. You are a musician, the song of your bowstring naught but a warning, singing the silent promise of a quick death. 
 
 ## Names
 
