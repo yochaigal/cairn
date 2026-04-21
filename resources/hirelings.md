@@ -46,7 +46,7 @@ Below are example hirelings for use in your Cairn campaign.
 
 ## Local Guide
 
-3 HP, 0 Armor, 10 STR, 13 DEX, 11 WIL
+3 HP, 10 STR, 13 DEX, 11 WIL
 
 - 3d6 Gold Pieces
 - Rations (3 uses)
@@ -57,7 +57,7 @@ Below are example hirelings for use in your Cairn campaign.
 
 ## Lockpick
 
-2 HP, 0 Armor, 9 STR, 14 DEX, 11 WIL
+2 HP, 9 STR, 14 DEX, 11 WIL
 
 - 3d6 Gold Pieces
 - Rations (3 uses)
@@ -68,7 +68,7 @@ Below are example hirelings for use in your Cairn campaign.
 
 ## Navigator
 
-3 HP, 0 Armor, 8 STR, 12 DEX, 13 WIL
+3 HP, 8 STR, 12 DEX, 13 WIL
 
 - 3d6 Gold Pieces
 - Rations (3 uses)
@@ -80,7 +80,7 @@ Below are example hirelings for use in your Cairn campaign.
 
 ## Sailor
 
-2 HP, 0 Armor, 12 STR, 11 DEX, 9 WIL
+2 HP, 12 STR, 11 DEX, 9 WIL
 
 - 3d6 Gold Pieces
 - Rations (3 uses)
@@ -92,7 +92,7 @@ Below are example hirelings for use in your Cairn campaign.
 
 ##  Scholar
 
-2 HP, 0 Armor, 7 STR, 11 DEX, 15 WIL
+2 HP, 7 STR, 11 DEX, 15 WIL
 
 - 3d6 Gold Pieces
 - Rations (3 uses)
@@ -104,7 +104,7 @@ Below are example hirelings for use in your Cairn campaign.
 
 ##  Tracker
 
-4 HP, 0 Armor, 12 STR, 13 DEX, 10 WIL
+4 HP, 12 STR, 13 DEX, 10 WIL
 
 - 3d6 Gold Pieces
 - Rations (3 uses)
@@ -115,7 +115,7 @@ Below are example hirelings for use in your Cairn campaign.
 
 ##  Trapper
 
-3 HP, 0 Armor, 11 STR, 12 DEX, 10 WIL
+3 HP, 11 STR, 12 DEX, 10 WIL
 
 - 3d6 Gold Pieces
 - Rations (3 uses)

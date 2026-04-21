@@ -2,7 +2,7 @@
 layout: default
 title: Logos
 parent: Resources
-nav_order: 11
+nav_order: 13
 ---
 
 # Logos
