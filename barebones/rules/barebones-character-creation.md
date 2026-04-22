@@ -20,8 +20,8 @@ nav_order: 5
 
 ### Names (d100)
 
-|       |             |        |           |
-| ----- | ----------- | ------ | --------- |
+|       |             |        |
+| ----- | ----------- | ------ |
 | d100 | Name     | Surname     |
 | 1    | Adair    | Abbot       |
 | 2    | Alaric   | Addyman     |
@@ -220,8 +220,8 @@ nav_order: 5
 
 Roll on the following table to determine your character's background and starting equipment:
 
-|       |             |        |           |
-| ----- | ----------- | ------ | --------- |
+|       |             |
+| ----- | ----------- | 
 | d100 | Background & Starting Gear                                                                                                             |
 |  1   | **Acolyte**: Incense, Parchment & Ink (3 uses), [Spellbook](/barebones/barebones-spellbooks)                                           |
 |  2   | **Acrobat**: Pole (10ft), Rope (25ft), Smokebomb                                                                                       |
