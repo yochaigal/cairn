@@ -14,7 +14,7 @@ nav_order: 6
 * Jerky (3 uses, _petty_)
 * Torches (3 uses)
 * Bandages (3 uses)
-* Rope
+* Rope (25ft)
 * Shield (+1 Armor)
 * Gambeson (+1 Armor)
 * Sword (d8)
@@ -25,7 +25,7 @@ nav_order: 6
 
 * 3d6 Gold Pieces
 * Rations (3 uses)
-* Twin Folding Daggers (d6+d6)
+* Twin Folding Daggers (d6+d6, _bulky_)
 * Bullseye Lantern
 * Oil Can (6 uses)
 * Caltrops
