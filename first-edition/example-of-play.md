@@ -13,7 +13,7 @@ For a live "actual play" of Cairn (with Warden commentary), please see [here](ht
 **Keep the following in mind:**  
 - **Esther** is playing an ex-**Herbalist**.
 - **Barry** plays a former **Hunter**.
-- The PCs are in search of a powerful [**Relic**](/cairn-srd/#relics), rumored to have restorative powers.
+- The PCs are in search of a powerful [**Relic**](../cairn-srd/#relics), rumored to have restorative powers.
 - Recently the party uncovered a parchment that detailed the item's true location, and have set off to recover it.
 
  **Warden**: _"You've spent the better part of the morning cutting your way through the **Geunant Forest**, chopping past hanging vines and waist-high brambles. It is very easy to get lost here among the surrounding underbrush. To make matters worse the Sun is completely obscured by the thick overhead branches."_
