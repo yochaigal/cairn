@@ -8,12 +8,17 @@ encoding: UTF-8
 plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
+  - jekyll-dice-tray
+  - jekyll-jtd-toc-nav
 include:
   - js
 
 # Back to top link
 back_to_top: true
 back_to_top_text: "Back to top"
+
+sidebar_toc: true
+sidebar_toc_expand: false
 
 footer_content: "The text on this page is licensed under <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC-BY-SA 4.0.</a>"
 # Footer last edited timestamp
