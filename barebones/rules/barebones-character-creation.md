@@ -223,7 +223,7 @@ Roll on the following table to determine your character's background and startin
 |       |             |
 | ----- | ----------- | 
 | d100 | Background & Starting Gear                                                                                                             |
-|  1   | **Acolyte**: Incense, Parchment & Ink (3 uses), [Spellbook](/barebones/barebones-spellbooks)                                           |
+|  1   | **Acolyte**: Incense, Parchment & Ink (3 uses), [Spellbook](/barebones/rules/barebones-spellbooks)                                           |
 |  2   | **Acrobat**: Pole (10ft), Rope (25ft), Smokebomb                                                                                       |
 |  3   | **Alchemist**: Acid, Lens, Oilskin Bag                                                                                                 |
 |  4   | **Apothecary**: Antitoxin, Bandages (3 uses), Sealable Bottle                                                                          |
@@ -252,7 +252,7 @@ Roll on the following table to determine your character's background and startin
 |  27  | **Cooper**: Hammer, Hand Drill, Saw                                                                                                    |
 |  28  | **Courier**: Bell, Compass, Parchment & Ink (3 uses)                                                                                   |
 |  29  | **Crypt Custodian**: Incense, Lantern, Oil Can (6 uses)                                                                                |
-|  30  | **Cultist**: Incense, Mask, Scroll of Random [Spellbook](/barebones/barebones-spellbooks) (_petty_)                                    |
+|  30  | **Cultist**: Incense, Mask, Scroll of Random [Spellbook](/barebones/rules/barebones-spellbooks) (_petty_)                                    |
 |  31  | **Demolitionist**: Explosive, Goggles, Grease                                                                                          |
 |  32  | **Dowser**: Dowsing Rod, Sealable Bottle, Shovel                                                                                       |
 |  33  | **Duelist**: Cloak (_petty_), Gloves (_petty_), Whetstone                                                                              |
@@ -282,7 +282,7 @@ Roll on the following table to determine your character's background and startin
 |  57  | **Knight**: Gloves (_petty_), Signal Flag, Whetstone                                                                                   |
 |  58  | **Lamplighter**: Ladder (10ft, _bulky_), Oil Can (6 uses), Whistle (_petty_)                                                           |
 |  59  | **Leech Collector**: Gloves (_petty_), Leech (restores 1 STR, 3 uses), Net                                                             |
-|  60  | **Librarian**: Candle (3 uses, dim), Parchment & Ink (3 uses), Scroll of Random [Spellbook](/barebones/barebones-spellbooks) (_petty_) |
+|  60  | **Librarian**: Candle (3 uses, dim), Parchment & Ink (3 uses), Scroll of Random [Spellbook](/barebones/rules/barebones-spellbooks) (_petty_) |
 |  61  | **Locksmith**: Lock & Key, Metal File, Pliers                                                                                          |
 |  62  | **Lumberjack**: Rope (25 ft), Saw, Whetstone                                                                                           |
 |  63  | **Mason**: Chisel, Fan, Hammer                                                                                                         |
@@ -310,7 +310,7 @@ Roll on the following table to determine your character's background and startin
 |  85  | **Soldier**: Spiked Boots, Tent (fits 2, _bulky_), Whetstone                                                                           |
 |  86  | **Spy**: Disguise Kit, Garrotte, Mirror                                                                                                |
 |  87  | **Stablehand**: Blanket, Rope (25ft), Shovel                                                                                           |
-|  88  | **Street Preacher**: Bell, Parchment & Ink, Scroll of Random [Spellbook](/barebones/barebones-spellbooks) (_petty_)                    |
+|  88  | **Street Preacher**: Bell, Parchment & Ink, Scroll of Random [Spellbook](/barebones/rules/barebones-spellbooks) (_petty_)                    |
 |  89  | **Tailor**: Cloak (_petty_), Scissors, Sewing Kit                                                                                      |
 |  90  | **Tanner**: Gloves (_petty_), Pliers, Tar                                                                                              |
 |  91  | **Tax Collector**: Parchment & Ink (3 uses), Sealable Bottle, Whistle (_petty_)                                                        |
@@ -321,8 +321,8 @@ Roll on the following table to determine your character's background and startin
 |  96  | **Vagabond**: Blanket, Poncho (_petty_), Rope (25 ft)                                                                                  |
 |  97  | **Vintner**: Alcohol, Rope (25 ft), Sealable Bottle                                                                                    |
 |  98  | **Weaver**: Perfume, Rope (25 ft), Scissors                                                                                            |
-|  99  | **Witch**: Candle (3 uses, dim), [Spellbook](/barebones/barebones-spellbooks), Wolfsbane                                               |
-| 100  | **Witchfinder**: Rope (25 ft), Scroll of Random [Spellbook](/barebones/barebones-spellbooks)(_petty_), Spyglass                        |
+|  99  | **Witch**: Candle (3 uses, dim), [Spellbook](/barebones/rules/barebones-spellbooks), Wolfsbane                                               |
+| 100  | **Witchfinder**: Rope (25 ft), Scroll of Random [Spellbook](/barebones/rules/barebones-spellbooks)(_petty_), Spyglass                        |
 |      |                                                                                                                                        |
 
 ### Armor & Weapon
@@ -433,12 +433,12 @@ Additionally, roll on the following tables for your character's armor, weapons, 
 | 70   | Pole (10ft)                                                   |
 | 71   | Poncho (_petty_)                                              |
 | 72   | Pulley                                                        |
-| 73   | Random [Spellbook](/barebones/barebones-spellbooks)           |
+| 73   | Random [Spellbook](/barebones/rules/barebones-spellbooks)           |
 | 74   | Rope (25ft)                                                   |
 | 75   | Sack                                                          |
 | 76   | Saw                                                           |
 | 77   | Scissors                                                      |
-| 78   | Scroll of Random [Spellbook](/barebones/barebones-spellbooks) (_petty_) |
+| 78   | Scroll of Random [Spellbook](/barebones/rules/barebones-spellbooks) (_petty_) |
 | 79   | Sealable Bottle                                               |
 | 80   | Sedative                                                      |
 | 81   | Sewing Kit                                                    |
