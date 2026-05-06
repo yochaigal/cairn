@@ -19,6 +19,7 @@ Each day, the Warden should roll on the weather table for the appropriate season
 If the "**Extreme**" weather result is rolled twice in a row, the weather turns to "**Catastrophic**". A squall becomes a hurricane, a storm floods the valley, etc.
 
 #### Weather Type
+
 |        |            |            |            |            |
 | :----: | :--------: | :--------: | :--------: | :--------: |
 | **d6** | **Spring** | **Summer** |  **Fall**  | **Winter** |
@@ -44,15 +45,11 @@ The weather, terrain, darkness, injured party members, and other obstacles can i
 ### Difficulty
 
 
-|                  |                                                                                                         |                                                           |
-| :--------------: | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
-|   **Weather**    | **Effect**                                                                                              | **Examples**                                              |
-|     **Nice**     | Favorable conditions for travel.                                                                        | _Clear skies, sunny_                                      |
-|     **Fair**     | Favorable conditions for travel.                                                                        | _Overcast, breezy_                                        |
-|  **Unpleasant**  | Add a **Fatigue** _or_ add one **watch** to the journey.                                                | _Gusting winds, rain showers, sweltering heat, chill air_ |
-|  **Inclement**   | Add a **Fatigue** _or_ add **+1 watch**. Increase terrain **Difficulty** by a step.  | _Thunderstorms, lightning, rain, muddy ground_           |
-|   **Extreme**    | Add a **Fatigue** _and_ add **+1 watch**. Increase terrain **Difficulty** by a step. | _Blizzards, freezing winds, flooding, mud slides_         |
-| **Catastrophic** | Most parties cannot travel under these conditions.                                                      | _Tornados, tidal waves, hurricane, volcanic eruption_     |
+| Difficulty | Examples                                   | Travel Time | Odds of Getting Lost | **Factors**                                                                                           |
+| ---------- | ------------------------------------------ | ----------: | -------------------: | ----------------------------------------------------------------------------------------------------- |
+| Easy       | **Roads**, plains, plateaus, valleys       |     1 Watch |                 None | _Safe areas for rest, fellow travelers, good visibility_                                              |
+| Tough      | **Trails**, forests, deserts, hills        |   2 Watches |               2-in-6 | _Wild animals, flooding, broken equipment, falling rocks, unsafe shelters, hunter's traps_            |
+| Perilous   | **Wilderness**, mountains, jungles, swamps |   3 Watches |               3-in-6 | _Quicksand, sucking mud, choking vines, unclean water, poisonous plants and animals, poor navigation_ |
 
 > When a rule increases travel Difficulty by one step:  
 > Easy → Tough → Perilous
@@ -67,6 +64,7 @@ The weather, terrain, darkness, injured party members, and other obstacles can i
 | Inclement    | Add 1 Fatigue _or_ +1 Watch. Increase travel Difficulty by one step  |
 | Extreme      | Add 1 Fatigue _and_ +1 Watch. Increase travel Difficulty by one step |
 | Catastrophic | Travel is usually impossible                                         |
+
 ## Wilderness Elements
 
 ### Night
