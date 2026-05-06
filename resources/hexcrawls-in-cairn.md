@@ -1,3 +1,10 @@
+---
+layout: default
+title: Hexcrawls in Cairn
+parent: Resources
+nav_order: 15
+---
+
 # Hexcrawls in Cairn
 
 The standard method for [wilderness exploration](https://cairnrpg.com/second-edition/players-guide/procedures/#wilderness-exploration) in Cairn is the [pointcrawl](https://cairnrpg.com/second-edition/wardens-guide/pointcrawls/), typically converting from whatever module or setting you're currently playing. The following is an adaptation of those procedures for use with Hexcrawls.
