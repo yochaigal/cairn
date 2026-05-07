@@ -163,13 +163,13 @@ However, if I were to adapt a module's hexcrawl to a system I'd ignore the "mile
 The party follows an overgrown trail into the marshlands of **Black Fen**. Swarms of insects choke the air, footing is uncertain, and visibility is poor. 
 
 The weather in the morning appears Fair but for heavy clouds above. The party's route is a trail (**Tough**) through thick swamplands (**Perilous**). The highest Difficulty is **Perilous**, so the hex should take **3 Watches** of Travel to cross.
-- **Wilderness Action 1**: Travel. 
+- **Wilderness Action 1**: Travel. The party does not get lost.
 - **Wilderness Event**: Environment. The weather becomes **Unpleasant**. The party chooses to add **Fatigue** rather than another watch to the journey.
-- **Wilderness Action 2**: Travel. 
+- **Wilderness Action 2**: Travel. The party does not get lost.
 - **Wilderness Event**: Discovery. The PCs find an ancient corpse tangled in a reed bed. The body wears rusted armor, but the gold rings on one hand remain untouched.
 - **Wilderness Action 2**: Make Camp. During the final watch the party makes camp under a large weeping willow and consumes a Ration. 
 - **Wilderness Event 3:**  Sign. Strange lights appear on the horizon, drifting slowly through the swamp. Fortunately they remain behind the party, back the way they came.
-- **Wilderness Action 4**: Travel.The following morning the weather is Fair again, and the party makes their way out of the swamp and into the adjacent farmlands. 
+- **Wilderness Action 4**: Travel. The following morning the weather is Fair again, and the party makes their way out of the swamp and into the adjacent farmlands. They do not get lost.
 - **Wilderness Event 4**:  Loss. The swamp’s thick air corrodes the Kettlewright’s tongs and a pair of pitons the Greenwise brought along. 
 
 ## Along the Old Seige Road
@@ -177,6 +177,27 @@ The weather in the morning appears Fair but for heavy clouds above. The party's 
 The party leaves the trading post at **Glynmere** shortly after lunch, following the ancient seige road toward **Fort Ember**. Several sections of the stone road have collapsed into the surrounding countryside, but the route remains the safest path to their destination, at least during the day. 
 
 The wintry weather is chilly and overcast, but still Fair. The party's route follows a road (**Easy**) through the plains (**Easy**). The highest Difficulty is **Easy**, so the hex should take only **1 Watch** to cross.
-- **Wilderness Action 1**: Travel. 
+- **Wilderness Action 1**: Travel. Despite its age the road makes for an easy journey. There is no chance of getting lost here.
 - **Wilderness Event**: Encounter. The party stops for an early dinner beneath the ruins of a great machine of war. A short while later a small caravan of traders rounds the bend. Although wary at first, the merchants soon press their wares upon their newfound friends before moving off.
 - The party arrive at **Fort Ember** just as the sun is setting.
+
+## Across the Glass Waste
+
+Around midday the party arrive at the pale dunes of the **Glass Waste**. Heat ripples across the horizon, turning distant shapes into wavering silhouettes, while the dry wind carries sharp grains that sting exposed skin. Enormous boulders dot the landscape like the buried vertebrae of some great skeleton.
+
+The weather is initially Fair, though the heat becomes more oppressive with each passing watch. The party travels through open wilderness (**Perilous**) across the desert (**Tough**). The highest Difficulty is **Perilous**, so the hex should take **3 Watches** of Travel to cross.
+- **Wilderness Action 1**: Travel. The party moves across the desert plain, keeping as close to the shade of the great rocks. The party does not get lost.
+- **Wilderness Event 1**: Loss. One of the party's waterskins splits open after snagging on a jagged stone edge. They lose a Ration, and must share in their comrade's water supply. 
+- **Wilderness Action 2**: Travel. Finally breaking away from the shelter of the stones, the party zigzags across the dunes. They do not get lost.
+- **Wilderness Event 2**: Environment. Hours into the trek a gust of hot desert winds sweep across the dunes and the weather becomes **Unpleasant**. The party chooses seek shelter beside a half-buried stone fist to wait out the storm, and another watch is added to their journey as night descends upon them.
+- **Wilderness Action 3**: Make Camp. The party shelters and consumes a Ration.
+- **Wilderness Event 3**: Discovery. In the morning the party uncovers a cache of sealed ceramic jars buried beneath the sand. They are heavy with a sloshing liquid. The Mountebank packs them away in her cart.
+- **Wilderness Action 4**: Travel. The party **does** get lost, and lose another watch retracing their steps.
+- **Wilderness Event 4**: Exhaustion. The day has become terribly hot, and water is scarce. All party members add a Fatigue to inventory.
+- **Wilderness Action 5**: Travel. The party arrives near the edge of this horrid place, but must make camp soon if they do not want to get lost again. The party does not get lost.
+- **Wilderness Event 5**: Environment. The weather shifts, and a light rain begins to fall, cooling the party. 
+- **Wilderness Action 6**: Make Camp. The party spends another night in the dunes, and consume a Ration. Food is running low. 
+- **Wilderness Event 6**: Sign. To the west a small series of peaks are visible against the horizon. One billows smoke. This is where the party will go on the morrow. 
+- **Wilderness Action 6**: Travel. The party begins the final leg of their journey, leaving the Waste for the cool embrace of the Skyridge Peaks.
+- **Wilderness Event 5**: Environment. The weather continues to grow colder, and as the party enter this new terrain they are forced to swap their simple clothes for more robust gear. Like a bad omen, a light snow begins to fall on the party as they continue their journey.
+
