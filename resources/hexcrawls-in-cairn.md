@@ -1,3 +1,9 @@
+---
+layout: default
+title: Hexcrawls in Cairn
+parent: Resources
+nav_order: 15
+---
 
 # Hexcrawls in Cairn
 
