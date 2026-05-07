@@ -1,9 +1,3 @@
----
-layout: default
-title: Hexcrawls in Cairn
-parent: Resources
-nav_order: 15
----
 
 # Hexcrawls in Cairn
 
@@ -154,13 +148,22 @@ At the end of each travel watch, roll on the Wilderness Events table.
 | **5** | **Exhaustion**  | The party encounters a barrier, forcing effort, care, or delays. This might mean spending extra time (and an additional **Wilderness Action**) or adding **Fatigue** to the PCs' inventory to represent their difficulties. |
 | **6** | **Discovery**   | The party finds food, treasure, or other useful resources. The **Warden** can instead choose to reveal the primary feature of the area.                                                                                                                                                             |
 
-## Travel Examples
+## Conversions
+There is no straightforward procedure for adapting hexcrawls from existing modules to _any_ OSR system, because so many of them use unique distances and movement rules! Some adventures will have each hex represent half a mile, while others might say 2, or 6, or even 12 miles across! They may even assume different walking speeds, or simply declare the time to cross in hours, or days. 
+
+I recommend first trying to work with the system presented by the module, if possible. 
+For example, in Hideous Daylight by Brad Kerr the hexes are really close together, and only take _at most_ 20 minutes to cross (assuming the party is moving carefully). This means that I could cross the map (five hexes) in an hour! It also asks the Warden to roll on the random encounters table whenever a new hex is entered. There really is no way to amend the current system to accommodate these rules, so I'd just stick with them.
+
+However, if I were to adapt a module's hexcrawl to a system I'd ignore the "miles per hex" or "time to cross" rules and just look at each hex, accounting for path (trail, roads, wilderness) and terrain. Obviously in extreme cases I'd do my best to account for the author's original intent! 
+
+## Examples
 
 ## Through the Swampland
 
-The party follows an overgrown trail into the marshlands of **Black Fen**. The swamp and its denizens impact the journey in a dramatic fashion, as swarms of insects choke the air, footing is uncertain, and visibility is poor. The weather in the morning is fair, but that will soon change.
+The party follows an overgrown trail into the marshlands of **Black Fen**. Swarms of insects choke the air, footing is uncertain, and visibility is poor. The weather in the morning is Fair, but that will soon change.
+
 - The highest Difficulty is **Perilous**, so the hex takes **3 Watches** to cross.
-- Their first Wilderness Event is a change in Environment, as the the weather becomes **Unpleasant**. The party chooses to add **Fatigue** to avoid adding another watch to their journey.
-- The second Wilderness Event is a Discovery, as the PCs find an ancient corpse inside a reed bed. The body wears rusted armor, but the gold rings on one hand are still in good condition.
-- For the final watch the party makes camp and consume a Ration. For their third Wilderness Event the Warden rolls a Sign. Strange lights appear on the horizon, and they appear to be getting closer. Fortunately the lights are back the way the party came.
-- The following morning the weather is Fair again, and the party make their way out of the swamp and into the adjacent farmlands. For their final Wilderness Event the result is a Loss, as the swamp's thick air has corroded the Kettlewright's tongs and a pair of pitons the Greenwise brought along.
+- Their first Wilderness Event is an Environment result, as the weather becomes **Unpleasant**. The party chooses to add **Fatigue** rather than another watch to the journey.
+- The second Wilderness Event is a Discovery. The PCs find an ancient corpse tangled in a reed bed. The body wears rusted armor, but the gold rings on one hand remain untouched.
+- During the final watch the party makes camp and consumes a Ration. That night’s Wilderness Event is a Sign. Strange lights appear on the horizon, drifting slowly through the swamp. Fortunately they remain behind the party, back the way they came.
+- The following morning the weather is Fair again, and the party makes their way out of the swamp and into the adjacent farmlands. Their final Wilderness Event is a Loss, as the swamp’s thick air corrodes the Kettlewright’s tongs and a pair of pitons the Greenwise brought along.
