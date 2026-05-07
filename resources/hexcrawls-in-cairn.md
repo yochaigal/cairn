@@ -160,10 +160,23 @@ However, if I were to adapt a module's hexcrawl to a system I'd ignore the "mile
 
 ## Through the Swampland
 
-The party follows an overgrown trail into the marshlands of **Black Fen**. Swarms of insects choke the air, footing is uncertain, and visibility is poor. The weather in the morning is Fair, but that will soon change.
+The party follows an overgrown trail into the marshlands of **Black Fen**. Swarms of insects choke the air, footing is uncertain, and visibility is poor. 
 
-- The highest Difficulty is **Perilous**, so the hex takes **3 Watches** to cross.
-- Their first Wilderness Event is an Environment result, as the weather becomes **Unpleasant**. The party chooses to add **Fatigue** rather than another watch to the journey.
-- The second Wilderness Event is a Discovery. The PCs find an ancient corpse tangled in a reed bed. The body wears rusted armor, but the gold rings on one hand remain untouched.
-- During the final watch the party makes camp and consumes a Ration. That night’s Wilderness Event is a Sign. Strange lights appear on the horizon, drifting slowly through the swamp. Fortunately they remain behind the party, back the way they came.
-- The following morning the weather is Fair again, and the party makes their way out of the swamp and into the adjacent farmlands. Their final Wilderness Event is a Loss, as the swamp’s thick air corrodes the Kettlewright’s tongs and a pair of pitons the Greenwise brought along.
+The weather in the morning appears Fair but for heavy clouds above. The party's route is a trail (**Tough**) through thick swamplands (**Perilous**). The highest Difficulty is **Perilous**, so the hex should take **3 Watches** of Travel to cross.
+- **Wilderness Action 1**: Travel. 
+- **Wilderness Event**: Environment. The weather becomes **Unpleasant**. The party chooses to add **Fatigue** rather than another watch to the journey.
+- **Wilderness Action 2**: Travel. 
+- **Wilderness Event**: Discovery. The PCs find an ancient corpse tangled in a reed bed. The body wears rusted armor, but the gold rings on one hand remain untouched.
+- **Wilderness Action 2**: Make Camp. During the final watch the party makes camp under a large weeping willow and consumes a Ration. 
+- **Wilderness Event 3:**  Sign. Strange lights appear on the horizon, drifting slowly through the swamp. Fortunately they remain behind the party, back the way they came.
+- **Wilderness Action 4**: Travel.The following morning the weather is Fair again, and the party makes their way out of the swamp and into the adjacent farmlands. 
+- **Wilderness Event 4**:  Loss. The swamp’s thick air corrodes the Kettlewright’s tongs and a pair of pitons the Greenwise brought along. 
+
+## Along the Old Seige Road
+
+The party leaves the trading post at **Glynmere** shortly after lunch, following the ancient seige road toward **Fort Ember**. Several sections of the stone road have collapsed into the surrounding countryside, but the route remains the safest path to their destination, at least during the day. 
+
+The wintry weather is chilly and overcast, but still Fair. The party's route follows a road (**Easy**) through the plains (**Easy**). The highest Difficulty is **Easy**, so the hex should take only **1 Watch** to cross.
+- **Wilderness Action 1**: Travel. 
+- **Wilderness Event**: Encounter. The party stops for an early dinner beneath the ruins of a great machine of war. A short while later a small caravan of traders rounds the bend. Although wary at first, the merchants soon press their wares upon their newfound friends before moving off.
+- The party arrive at **Fort Ember** just as the sun is setting.
