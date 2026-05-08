@@ -113,7 +113,7 @@ If the party becomes lost while moving through a hex, the Warden rolls 1d6 to de
 | 5   | SW        |
 | 6   | NW        |
 
-> These directions assume a pointy-top hex design.
+> These directions assume a flat-top hex design.
 
 ### Explore
 
