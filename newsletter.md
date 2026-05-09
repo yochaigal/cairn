@@ -1,5 +1,4 @@
 ---
 title: Newsletter
-nav_order: 3
-redirect_to: https://news.cairnrpg.com
+nav_order: 7
 ---
