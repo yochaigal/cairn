@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Third-Party Content
-parent: Adventures
-nav_order: 4
+parent: Resources
+nav_order: 14
 ---
 
 # Third-Party Content
