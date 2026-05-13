@@ -5,6 +5,7 @@ parent: Resources
 nav_order: 15
 ---
 
+
 # Hexcrawls in Cairn
 
 The standard method for [wilderness exploration](https://cairnrpg.com/second-edition/players-guide/procedures/#wilderness-exploration) in Cairn is the [pointcrawl](https://cairnrpg.com/second-edition/wardens-guide/pointcrawls/), typically converting from whatever module or setting you're currently playing. The following is an adaptation of those procedures for use with Hexcrawls.
@@ -20,9 +21,9 @@ If the "**Extreme**" weather result is rolled twice in a row, the weather turns 
 
 #### Weather Type
 
-|        |            |            |            |            |
-| :----: | :--------: | :--------: | :--------: | :--------: |
+
 | **d6** | **Spring** | **Summer** |  **Fall**  | **Winter** |
+| :----: | :--------: | :--------: | :--------: | :--------: |
 | **1**  |    Nice    |    Nice    |    Fair    |    Fair    |
 | **2**  |    Fair    |    Nice    |    Fair    | Unpleasant |
 | **3**  |    Fair    |    Fair    | Unpleasant | Inclement  |
@@ -44,12 +45,11 @@ The weather, terrain, darkness, injured party members, and other obstacles can i
 
 ### Difficulty
 
-
-| Difficulty | Examples                                   | Travel Time | Odds of Getting Lost | **Factors**                                                                                           |
-| ---------- | ------------------------------------------ | ----------: | -------------------: | ----------------------------------------------------------------------------------------------------- |
-| Easy       | **Roads**, plains, plateaus, valleys       |     1 Watch |                 None | _Safe areas for rest, fellow travelers, good visibility_                                              |
-| Tough      | **Trails**, forests, deserts, hills        |   2 Watches |               2-in-6 | _Wild animals, flooding, broken equipment, falling rocks, unsafe shelters, hunter's traps_            |
-| Perilous   | **Wilderness**, mountains, jungles, swamps |   3 Watches |               3-in-6 | _Quicksand, sucking mud, choking vines, unclean water, poisonous plants and animals, poor navigation_ |
+| **Difficulty** | **Examples**                               | **Travel Time** | **Odds of Getting Lost** | **Factors**                                                                                           |
+| -------------- | ------------------------------------------ | --------------: | -----------------------: | ----------------------------------------------------------------------------------------------------- |
+| Easy           | **Roads**, plains, plateaus, valleys       |         1 Watch |                     None | _Safe areas for rest, fellow travelers, good visibility_                                              |
+| Tough          | **Trails**, forests, deserts, hills        |       2 Watches |                   2-in-6 | _Wild animals, flooding, broken equipment, falling rocks, unsafe shelters, hunter's traps_            |
+| Perilous       | **Wilderness**, mountains, jungles, swamps |       3 Watches |                   3-in-6 | _Quicksand, sucking mud, choking vines, unclean water, poisonous plants and animals, poor navigation_ |
 
 > When a rule increases travel Difficulty by one step:  
 > Easy → Tough → Perilous
@@ -104,14 +104,14 @@ When the party travels by trail or through wilderness, roll according to the cur
 
 If the party becomes lost while moving through a hex, the Warden rolls 1d6 to determine which neighboring hex the party enters:
 
-| d6  | Direction |
-| --- | --------- |
-| 1   | N         |
-| 2   | NE        |
-| 3   | SE        |
-| 4   | S         |
-| 5   | SW        |
-| 6   | NW        |
+| **d6** | **Direction** |
+| ------ | ------------- |
+| 1      | N             |
+| 2      | NE            |
+| 3      | SE            |
+| 4      | S             |
+| 5      | SW            |
+| 6      | NW            |
 
 > These directions assume a flat-top hex design.
 
@@ -155,14 +155,37 @@ At the end of each travel watch, roll on the Wilderness Events table.
 | **6** | **Discovery**   | The party finds food, treasure, or other useful resources. The **Warden** can instead choose to reveal the primary feature of the area.                                                                                                                                                             |
 
 ## Conversions
-There is no straightforward procedure for adapting hexcrawls from existing modules to _any_ OSR system, because so many of them use unique distances and movement rules! Some adventures will have each hex represent half a mile, while others might say 2, or 6, or even 12 miles across! They may even assume different walking speeds, or simply declare the time to cross in hours, or days. 
 
-I recommend first trying to work with the system presented by the module, if possible. 
-For example, in Hideous Daylight by Brad Kerr the hexes are really close together, and only take _at most_ 20 minutes to cross (assuming the party is moving carefully). This means that I could cross the map (five hexes) in an hour! It also asks the Warden to roll on the random encounters table whenever a new hex is entered. There really is no way to amend the current system to accommodate these rules, so I'd just stick with them.
+Hexcrawl modules use wildly different assumptions about distance and movement. One map might use 1-mile hexes, while another assumes 6-mile hexes crossed over the course of a day. Because of this, there is no universal conversion method.
 
-However, if I were to adapt a module's hexcrawl to a system I'd ignore the "miles per hex" or "time to cross" rules and just look at each hex, accounting for path (trail, roads, wilderness) and terrain. Obviously in extreme cases I'd do my best to account for the author's original intent! 
+Whenever possible, try to preserve the original module’s intended scale and pacing.
+For example, in *Hideous Daylight* by Brad Kerr, the hexes are small and densely packed. A party moving carefully can cross a hex in roughly 20 minutes, meaning the entire map can be traversed in about an hour. In cases like this, it is usually better to keep the original movement assumptions and simply trigger Wilderness procedures whenever the party enters a new hex or completes a meaningful stretch of travel. 
 
-## Examples
+For larger hexcrawls, begin by determining the module’s baseline travel pace under ideal conditions.
+First determine:
+
+- How many hours of travel the module assumes in a normal day
+- How many hexes can be crossed during that time
+
+Use that pace as the equivalent of **Easy** travel in Cairn. Then scale the remaining Difficulties proportionally.
+
+| **Difficulty** | **Multiplier** |
+| -------------- | -------------: |
+| Easy           |             ×1 |
+| Tough          |             ×2 |
+| Perilous       |             ×3 |
+
+For example, in *The Evils of Illmire* by Zack Wolf, crossing a 6-mile hex takes roughly 4 hours. Assuming the 8-hour travel watch, a party can cross two hexes per watch under ideal conditions. That becomes the new baseline:
+
+| **Difficulty** | **Travel Time** |
+| -------------- | --------------: |
+| Easy           |       1/2 Watch |
+| Tough          |         1 Watch |
+| Perilous       |     1.5 Watches |
+
+Then evaluate each hex normally based on its terrain and routes. A hex containing roads and open plains might remain **Easy**, allowing the party to cross it in half a watch. A dense forest with no trails might count as **Perilous**, requiring one and a half watches to traverse before modifiers from weather, exhaustion, or getting lost are applied.
+
+## Examples of Play
 
 ## Through the Swampland
 
@@ -207,3 +230,28 @@ The weather is initially Fair, though the heat becomes more oppressive with each
 - **Wilderness Action 6**: Travel. The party begins the final leg of their journey, leaving the Waste for the cool embrace of the Skyridge Peaks.
 - **Wilderness Event 5**: Environment. The weather continues to grow colder, and as the party enter this new terrain they are forced to swap their simple clothes for more robust gear. Like a bad omen, a light snow begins to fall on the party as they continue their journey.
 
+
+## Into the Forest of Knives
+
+The trail into the **Forest of Knives** narrows quickly beneath the canopy. Twisted branches interlock overhead, choking out much of the daylight, while the roots below make every step uncertain. Fresh cuts and strange symbols have been carved into nearby trunks, some still dripping sap.
+
+The weather in the morning is Nice, though the forest itself feels dark and oppressive. The party's route follows a trail (**Tough**) through dense forest (**Tough**). The highest Difficulty is **Tough**, so the hex should take **2 Watches** of Travel to cross.
+- **Wilderness Action 1**: Travel.
+- **Wilderness Event 1**: Sign. The party discovers several animal carcasses hanging high above the trail, tied to the branches with fresh cord.
+- **Wilderness Action 2**: Travel.
+- **Wilderness Event 2**: Encounter. A pair of exhausted hunters emerge from the undergrowth, warning the party not to continue north after sunset.
+- The party reaches the far side of the forest shortly before nightfall.
+
+
+--- add discovery actions
+## Climbing Toward Ash Peak
+
+The path winds upward along the cliffs of **Ash Peak**, growing narrower and steeper with every watch. Loose stones tumble into the fog below with a single misplaced step, while freezing winds howl through the mountain pass.
+
+The weather is Inclement from the outset, bringing freezing rain and poor visibility. The party follows a mountain trail (**Tough**) through perilous terrain (**Perilous**). The highest Difficulty is **Perilous**, so the hex should take **3 Watches** of Travel to cross.
+- **Wilderness Action 1**: Travel.
+- **Wilderness Event 1**: Exhaustion. The trail collapses along a narrow ridge, forcing the party to spend hours climbing across wet stone by hand.
+- **Wilderness Action 2**: Travel.
+- **Wilderness Event 2**: Encounter. A silent pilgrim wrapped in soaked robes appears from the fog and offers to guide the party toward safer ground for the price of a single silver coin.
+- **Wilderness Action 3**: Make Camp. The party shelters inside a shallow cave and consumes a Ration while icy rain continues outside.
+- **Wilderness Event 3**: Sign. Throughout the night, distant monastery bells echo faintly through the mountains.
