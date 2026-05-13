@@ -146,7 +146,7 @@ At the end of each Watch spent traveling, roll on the Wilderness Events table.
 
 ### Wilderness Events
 
-|d6|Result|Effect|
+|**d6**|**Result**|**Effect**|
 |---|---|---|
 |**1**|**Encounter**|Roll on an encounter table for that terrain type or location. Don’t forget to roll for NPC [reactions](https://chatgpt.com/second-edition/players-guide/core-rules.md/#reactions) if applicable.|
 |**2**|**Sign**|The party discovers a clue, spoor, or indication of a nearby encounter, locality, hidden feature, or information about a nearby area.|
@@ -157,7 +157,23 @@ At the end of each Watch spent traveling, roll on the Wilderness Events table.
 
 ## Conversions
 
+Hexcrawl modules use wildly different assumptions about distance and movement. One map might use 1-mile hexes, while another assumes 6-mile hexes crossed over the course of a day. Because of this, there is no universal conversion method.
 
+Whenever possible, try to preserve the original module’s intended scale and pacing.
+
+For example, in *Hideous Daylight* by Brad Kerr, the hexes are small and densely packed. A party moving carefully can cross a hex in roughly 20 minutes, meaning the entire map can be traversed in about an hour. In cases like this, it is usually better to keep the original movement assumptions and simply trigger Wilderness procedures whenever the party enters a new hex or completes a meaningful stretch of travel.
+
+Larger hexcrawls often assume that a party can cross several hexes during a full day of travel under ideal conditions. Under these procedures, that pace is treated as **Easy** travel.
+
+In *Hot Springs Island* by Jacob Hurst and Gabriel Hernandez, time is tracked using 4-hour Watches, with six Watches making up a full day. Traveling from one point of interest in a hex to a point of interest in a neighboring hex takes one Watch, as does exploring a hex to uncover additional locations. Each 2-mile hex contains multiple points of interest, emphasizing dense exploration and discovery over precise travel measurement.
+
+In cases like this, it is often better to evaluate the Difficulty of a particular journey rather than assigning a fixed Difficulty to each hex. Following a known jungle trail between nearby landmarks might count as **Tough** travel, while exploring unfamiliar jungle or searching for hidden locations could count as **Perilous** travel requiring additional Watches.
+
+Then evaluate each hex, route, or journey based on its terrain, visibility, hazards, and navigational difficulty.
+
+A hex containing roads, open plains, or clear landmarks might count as **Easy**, allowing the party to cross multiple hexes during a single Watch. A dense forest with no trails might count as **Perilous**, requiring additional Watches to fully traverse before modifiers from weather, exhaustion, or getting lost are applied.
+
+In denser exploration-focused hexcrawls, it may be more useful to evaluate the Difficulty of a particular journey rather than assigning a fixed Difficulty to every hex.
 
 ## Examples of Play
 
