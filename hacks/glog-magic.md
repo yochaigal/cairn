@@ -11,7 +11,7 @@ To use [GLOG Magic](http://goblinpunch.blogspot.com/2016/05/the-glog.html) in Ca
 - You carry a **Grimoire** worth 300gp. It is [bulky](/cairn-srd/#inventory), and contains a single random spell.
 - See [this list](https://cairnrpg.com/hacks/glog-spells/) of Cairn spells formatted for GLOG Magic.
 - Treat any discovered Spellbooks as [Scrolls](/hacks/glog-magic/#scrolls).
-- For additional spells, see this [here](https://drive.google.com/file/d/1OTVy-5Vm44xhRmFO4tKFCJto-_cw0xYtD8lNj8AsSJY/view?pli=1).
+- For additional spells, see this [document](https://drive.google.com/file/d/1OTVy-5Vm44xhRmFO4tKFCJto-_cw0xYtD8lNj8AsSJY/view?pli=1).
 
 ### Casting Spells:
 1. Holding your **Grimoire** in both hands, choose a spell. The description may denote the spell's duration with **D** and range with **R**.
@@ -40,7 +40,7 @@ To use [GLOG Magic](http://goblinpunch.blogspot.com/2016/05/the-glog.html) in Ca
 |16|You permanently lose 1d4 STR as the spell interacts with nearby plant life, which rips out of the earth and fuses against your skin. You have +1 Armor, although fire does enhanced damage against you. You can only feed by photosynthesis.|
 |17|You are transformed into something weird and unnatural (the Warden will say exactly how). Others will have difficulty looking at you. If someone doesn't focus on you, you are invisible. You fail any attempts at persuasion.|
 |18|One your hands becomes fused with your **Grimoire**. You can never let go of it, however it only takes up 1 inventory slot. You can fire a bolt of arcane energy from that hand that deals 1d6 damage. If your hand is cut off, you can never cast spells again.|
-|19|Large ugly wings sprout from your back, ripping through whatever you are wearing. You gain 1d4 DEX and can fly. You cannot wear armor or a backpack, and have a only 5 inventory slots.|
+|19|Large ugly wings sprout from your back, ripping through whatever you are wearing. You gain 1d4 DEX and can fly. You cannot wear armor or a backpack, and have only 5 inventory slots.|
 |20|You dimensionally swap limbs with a magical being from an alien plane. Gain its properties (ask the Warden), both good and bad. Also: it's coming for you, and it's mad as hell. |
 |21|An extra-planar deity senses your arcane power (ask the Warden which). You are now linked, and can call on it for aide. It can likewise ask you for help, and punish you for non-compliance. Good luck.|
 |22|Your body becomes a vessel of pure magical energy. You no longer need to consume food, water or air. Fatigue and Mishaps from casting spells does not affect you, but instead you lose 1d4 STR on a result of 5-6. At STR 0 you become a spell (ask the Warden which). You can smell magic.|
