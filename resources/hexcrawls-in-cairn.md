@@ -70,12 +70,12 @@ For **Perilous** travel, mark partial progress after the first Watch. The party 
 ### Night
 
 - The party can choose to travel during the night and rest during the day.
-- Traveling at night is always more dangerous. The **Warden** should roll twice on the [**Wilderness Events**](https://chatgpt.com/c/6a04fad1-737c-83ea-82b5-20cb542a1d56#wilderness-events) table.
+- Traveling at night is always more dangerous. The **Warden** should roll twice on the [**Wilderness Events**](#wilderness-events) table.
 - Some terrain and weather may be easier to traverse at night (desert, for example). The **Warden** should balance these challenges along with any other.
 
 ### Sleep
 
-- The last **Watch** of the day is typically reserved for the [**Make Camp**](https://chatgpt.com/c/6a04fad1-737c-83ea-82b5-20cb542a1d56#make-camp) action.
+- The last **Watch** of the day is typically reserved for the [**Make Camp**](#make-camp) action.
 - Characters typically need to sleep each day. Interrupted sleep may prevent recovery.
 - If the party skips the **Make Camp** action, they each add a **Fatigue** to their inventory and are _deprived_. Additionally, traveling while sleep-deprived increases travel Difficulty by one step.
 
@@ -141,14 +141,14 @@ At the end of each Watch spent traveling, roll on the Wilderness Events table.
 ### Wilderness Exploration Cycle
 
 1. The **Warden** describes the current hex or region on the map and how the path, weather, terrain, or party status might affect travel speed. The party plots or adjusts a course toward their destination.
-2. Each party member chooses a single **Wilderness Action**. The **Warden** narrates the results and then rolls on the [**Wilderness Events**](https://chatgpt.com/c/6a04fad1-737c-83ea-82b5-20cb542a1d56#wilderness-events) table. The party responds to the results.
+2. Each party member chooses a single **Wilderness Action**. The **Warden** narrates the results and then rolls on the [**Wilderness Events**](#wilderness-events) table. The party responds to the results.
 3. The players and the Warden record any loss of resources and new conditions (i.e. torch use, _deprivation_, etc.), and the cycle repeats.
 
 ### Wilderness Events
 
 |**d6**|**Result**|**Effect**|
 |---|---|---|
-|**1**|**Encounter**|Roll on an encounter table for that terrain type or location. Don’t forget to roll for NPC [reactions](https://chatgpt.com/second-edition/players-guide/core-rules.md/#reactions) if applicable.|
+|**1**|**Encounter**|Roll on an encounter table for that terrain type or location. Don’t forget to roll for NPC [reactions](/second-edition/players-guide/core-rules.md/#reactions) if applicable.|
 |**2**|**Sign**|The party discovers a clue, spoor, or indication of a nearby encounter, locality, hidden feature, or information about a nearby area.|
 |**3**|**Environment**|A shift in weather or terrain.|
 |**4**|**Loss**|The party is faced with a choice that costs them a resource (rations, tools, etc.), time, or effort.|
