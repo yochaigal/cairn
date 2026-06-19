@@ -38,3 +38,7 @@ A _deluxe_ print edition of Cairn can be purchased from the following places:
 
 ## EU
 - [City Comics](https://alltheproblemsinthisworld.com/shop/p/yochai-gal-cairn) (Berlin)
+
+## RPG-Trader
+
+- You can also find all our books on [RPG-Trader](https://rpg-trader.com/creator/11/cairn-press)

@@ -21,7 +21,7 @@ nav_order: 5
 
 ### DriveThruRPG (On Demand, at cost)
 
-- [Perfect Bound](https://www.drivethrurpg.com/en/product/500476/cairn-player-s-guide-2nd-edition) (Coming Soon!)
+- [Perfect Bound](https://www.drivethrurpg.com/en/product/500476/cairn-player-s-guide-2nd-edition)
 
 ## Cairn 2nd Edition Warden's Guide
 
@@ -33,3 +33,7 @@ nav_order: 5
 - [DrivethruRPG](https://www.drivethrurpg.com/en/product/500478/cairn-warden-s-guide-2nd-edition)
 - [Lulu](https://www.lulu.com/shop/yochai-gal-and-adam-hensley-and-derek-b/cairn-wardens-guide-second-edition/paperback/product-gjg5zvw.html?page=1&pageSize=4) (including [coilbound](https://www.lulu.com/shop/yochai-gal-and-adam-hensley-and-derek-b/cairn-wardens-guide-2nd-edition-coilbound/paperback/product-84rmw9z.html?page=1&pageSize=4)\!)  
 - [Amazon](https://www.amazon.com/dp/B0FD8P3J9Z/)
+
+## RPG-Trader
+
+- You can also find all our books on [RPG-Trader](https://rpg-trader.com/creator/11/cairn-press)
