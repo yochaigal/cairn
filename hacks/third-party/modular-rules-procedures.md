@@ -194,7 +194,7 @@ Narcotic delights to smoke, snort, or consume in search of oblivion.
 
 **4. Lust**
 Pleasures of the flesh, such as dalliance with strangers or visits to paid workers.
-- Triggers: Regular visits to brothers, unique or novel intimate experiences.
+- Triggers: Regular visits to brothels, unique or novel intimate experiences.
 - Indulging with new partners, frequent copulation, finding lustful or kinky novelties.
 
 **5. Luxury** 

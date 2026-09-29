@@ -33,7 +33,7 @@ To create a page on the Cairn website, you need to create a text file with your 
 ### Folders
 
 Files should be placed in the following locations:
- - [Adventure conversions](/adventures/conversions) (see [submission-template](/submissions/submission-template))
+ - [Adventure conversions](/adventures/conversions) (see [submission-template](/submissions/adventure-conversions#submission-template))
  - [Original adventures](/adventures/originals)
  - [Third party hacks](/hacks/third-party/)
  - [Monsters](/resources/monsters/)

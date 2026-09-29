@@ -124,8 +124,7 @@ Common fae folk, mostly good-natured
 
 **Gliding Dragons** 2 HP, 6 STR, 11 DEX, 5 WIL, bite (d4)
 
-**The Gnomes** 5 HP, 2 Armor, 14 STR, 9 DEX, 11 WIL, punch (2d6)
-
+**The Gnomes** 5 HP, 2 Armor, 14 STR, 9 DEX, 11 WIL, punch (2d6) \
 Kind-hearted and trusting little folks. Know strong magic.
 
 **Golden Catfish** 3 HP, 3 Armor, 6 STR, 8 DEX, 4 WIL \
@@ -141,13 +140,13 @@ Can shoot electricity and deafening screech.
 **Greenteeth** 3 HP, 1 Armor, 14 STR, 11 DEX, 5 WIL, bite (d6) \
 Vaguely humanoid amphibious creep.
 
-**Grey Coneys **2 HP, 6 STR, 10 DEX, 4 WIL, smoke (2d6 poison)
+**Grey Coneys** 2 HP, 6 STR, 10 DEX, 4 WIL, smoke (2d6 poison)
 
 **Gurt Vurm** 18 HP, 3 Armor, 35 STR, 18 DEX, 20 WIL, bite (d10) \
 Giant wingless lizard with toxic breath. \
 Can summon a dust storm and regen HP.
 
-**Harp Sponges **3 HP, 8 STR, 4 DEX, 4 WIL, strangle (d6)
+**Harp Sponges** 3 HP, 8 STR, 4 DEX, 4 WIL, strangle (d6)
 
 **Honeyworts** 5 HP, 1 Armor, 11 STR, 4 DEX, 4 WIL, digest (2d6)
 

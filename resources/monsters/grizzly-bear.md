@@ -10,4 +10,4 @@ grand_parent: Resources
 
 - Reddish-brown bears commonly found in mountains, woodlands, and prairies. 
 - Prefer to eat fish and meat, and will attack the rare unfortunate who crosses their path.
-- **Critical Damage**: Their bite does 1d6 additional STR damage. The target bleeds out very quickly.
+- **Critical Damage**: Bites the victim for an additional d6 STR damage. They bleed out very quickly.

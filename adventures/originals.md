@@ -2,7 +2,7 @@
 layout: default
 title: Originals
 parent: Adventures
-nav_order: 1
+nav_order: 2
 has_children: true
 redirect_from: /resources/adventures/
 ---

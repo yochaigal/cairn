@@ -10,4 +10,4 @@ grand_parent: Resources
 
 - Avoid combat unless they have the advantage (such as greater numbers).
 - Guard their stolen goods to the death.
-- Root Goblins prize Spellbooks and are always willing to trade.
+- Root Goblins prize spellbooks and are always willing to trade.

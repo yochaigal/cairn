@@ -68,7 +68,7 @@ title: The Incandescent Grottoes
 - 7 HP, 2 Armor, 13 STR, 14 WIL, tendrils (2×d6, keep highest), thermokinesis (1d4 damage per round for 3 rounds), mind control (WIL save)
 - Conical ooze mound, putrid green with brown blobs, covered in slurping orifices of uncertain function.
 - Barbed tendrils lash relentlessly.
-- # Mind control gives the ooze demon control of the victim for 1d6 rounds; if commanded to do acts against their nature or that are self-destructive, another save is made
+- Mind control gives the ooze demon control of the victim for 1d6 rounds; if commanded to do acts against their nature or that are self-destructive, another save is made
 
 ### Dissolved One
 
@@ -140,7 +140,7 @@ title: The Incandescent Grottoes
 - 6 HP, 3 armor, 10 STR, 12 DEX, bite (d6, blast), gibbering (WIL save or victims are maddened - roll d8 (1=move randomly, 2-5 no action, 6-7 attack nearest creature, 8 flee))
 - Mound of rubbery jelly covered in hundreds of deranged eyes and mouths, appearing to be an earthen mound while motionless.
 - Waits for victims to approach before gibbering.
-- # Critical: victim makes a DEX save or slips on the mouther’s ooze.
+- Critical: victim makes a DEX save or slips on the mouther’s ooze.
 
 ### Guard
 
@@ -176,7 +176,7 @@ title: The Incandescent Grottoes
 - 4 HP, 1 Armor, 14 STR, 12 DEX, bone spear (d8)
 - Aquatic humanoids with reptilian heads and tails. Dwell in jungles nearby bodies of water.
 - Craft their Armors and weapons from the bones of their prey.
-- # Carnivorous, hunt other humanoids, whose flesh they regard as a delicacy.
+- Carnivorous, hunt other humanoids, whose flesh they regard as a delicacy.
 
 ### Monkey, Red-Cap
 

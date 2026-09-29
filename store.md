@@ -1,5 +1,5 @@
 ---
+layout: default
 title: Store
-nav_order: 7
-redirect_to: https://store.cairnrpg.com
+nav_order: 6
 ---
