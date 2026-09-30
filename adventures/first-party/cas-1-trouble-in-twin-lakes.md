@@ -14,9 +14,6 @@ The following adventure is available:
 
 _Trouble in Twin Lakes_ is the first in a series of standalone adventures for the Cairn 2e adventure game. The adventure revolves around two central mysteries for the party to solve. It includes various NPCs and antagonists, as well as multiple locations to explore. This adventure is suitable for both new and veteran players, and works particularly well for characters still trying to find their place in a wild and potentially dangerous world. Although the region and its denizens are part of the broader **Vald** setting, they can be easily incorporated into any low-fantasy setting of your choice.
 
-**Cairn Adventure Series 1**
-An Adventure Module for Cairn 2e by Yochai Gal
-
 **Credits:** Written by Yochai Gal, with editing by Derek B. and editing assistance by Yossi Krausz, layout and locale maps by Adam Hensley. Cover art and region map by Ari-Matti Toivonen.
 
 Produced by Cairn Press.
@@ -36,7 +33,7 @@ The contents in this module rely heavily on the rules and procedures as presente
 Two weeks ago, **Aldra**, the beloved butcher of Isthmus Town, suddenly vanished without a trace. Some days later, a local teen reported seeing a man swallowed up by the earth near **Deadmill**. Others have also gone missing. Now the townsfolk are left wondering: Who might be next?
 
 ## Hooks
-- The #Tideborn have agreed to pay the party a sum of 750gp for determining Aldra’s whereabouts. A bonus of 250gp is to be paid in the event that the man’s body is recovered and returned to a Tideborn acolyte for proper burial. They are to meet with Flavia at the Butcher in Isthmus Town before they begin their search.
+- The [#Tideborn](%23Tideborn) have agreed to pay the party a sum of 750gp for determining Aldra’s whereabouts. A bonus of 250gp is to be paid in the event that the man’s body is recovered and returned to a Tideborn acolyte for proper burial. They are to meet with Flavia at the Butcher in Isthmus Town before they begin their search.
 - The Cities are offering 200gp apiece to anyone who can help locate Jandy, a tithingman who was meant to return days ago with the latest tithe. The party will only be rewarded if the tithe is returned intact and accounted for. They are to meet with Reeve Trellis at the Stuffed Inn before they begin their search.
  
 ## What’s Really Going On Here?
@@ -49,23 +46,23 @@ For most of his life, Fasha was a meek, selfish farmer making a meager living in
 One day while walking near **Bone Sump**, Fasha heard a woman’s voice calling to him from beneath the waters. Calling herself Vuk, the voice pleaded with him to free her. Fasha agreed, and was granted the **Eye of Vuk** in return.
 
 ### Now
-Two weeks ago, the late night activities of Fasha and the Reeve drew the attention of the local butcher, **Aldra**. He followed the men back to Dunston, hoping to catch them in the act. But Fasha was prepared, ambushing the butcher and dragging him to the **#Temple of the Fungal Lizards**. There, his heart was ripped from his body and consumed by Vuk. And though Reeve Trellis knows that Fasha is responsible for what happened to Aldra, fear and selfishness keep him complicit. 
+Two weeks ago, the late night activities of Fasha and the Reeve drew the attention of the local butcher, **Aldra**. He followed the men back to Dunston, hoping to catch them in the act. But Fasha was prepared, ambushing the butcher and dragging him to the **[#Temple of the Fungal Lizards](%23Temple%20of%20the%20Fungal%20Lizards)**. There, his heart was ripped from his body and consumed by Vuk. And though Reeve Trellis knows that Fasha is responsible for what happened to Aldra, fear and selfishness keep him complicit. 
 
 Weeks have passed since Aldra’s disappearance. Meanwhile, each day Vuk demands more sacrifices to help quicken her rebirth. Every other evening, Fasha will kidnap a victim and take them to the **Temple of the Fungal Lizards** to have their still-beating hearts consumed by Vuk the following morning.
 
 ## The Swallowed Man
 
 ### One Week Ago
-**Jandy** the Scrivener regularly traveled to **Isthmus Town** to collect tithe on behalf of the Cities. For months, he had been writing a minor history of the region, interviewing locals and visiting various cultural sites. As part of that study he visited **#Deadmill**, one week before the adventure begins. Unfortunately for Jandy, the place was rife with sinkholes and quicksand.
+**Jandy** the Scrivener regularly traveled to **Isthmus Town** to collect tithe on behalf of the Cities. For months, he had been writing a minor history of the region, interviewing locals and visiting various cultural sites. As part of that study he visited **[#Deadmill](%23Deadmill)**, one week before the adventure begins. Unfortunately for Jandy, the place was rife with sinkholes and quicksand.
 
 Unaware of the dangers, Jandy fell into quicksand and died. Due to his proximity to the **Echo Spark** however he was brought back but with no memory of his death. He then stepped into the quicksand again, continuing the endless death loop.
 
 The following night, **Drum**, a local teen, saw the earth swallow a man whole at Deadmill. With the full moon only two days away, rumors that something nefarious is afoot are spreading like wildfire.
 
 ### Now
-A few days later, **Annafranax**, the Frog Witch of the Stone Forest, came to Deadmill to retrieve a time loop device called the #Echo Spark beneath the millstone. 
+A few days later, **Annafranax**, the Frog Witch of the Stone Forest, came to Deadmill to retrieve a time loop device called the [#Echo Spark](%23Echo%20Spark) beneath the millstone. 
 
-Realizing the potential to be found in a death loop, Annafranax hid a **Wisp Lamp** [nearby](#Deadmill), using Jandy’s endless suffering to enhance the trapped creature’s power. On the next full moon, she will return to Deadmill to toss the Wisp Lamp into the quicksand. The resulting energy will rip open a Gate to #The Roots.
+Realizing the potential to be found in a death loop, Annafranax hid a **Wisp Lamp** [nearby](#Deadmill), using Jandy’s endless suffering to enhance the trapped creature’s power. On the next full moon, she will return to Deadmill to toss the Wisp Lamp into the quicksand. The resulting energy will rip open a Gate to [#The Roots](%23The%20Roots).
 
 
 ## Victim Schedule
@@ -100,17 +97,17 @@ A charismatic figure, well-liked and ruggedly handsome. Speaks with an affected 
 - If his life is threatened, he will confess to pilfering from the tithe but not admit to Aldra's murder.
 
 ## Fasha
-A farmer from Dunston, formerly weak and ill-mannered, now revels in the newfound strength and insight gained since wearing #The Eye of Vuk.
+A farmer from Dunston, formerly weak and ill-mannered, now revels in the newfound strength and insight gained since wearing [#The Eye of Vuk](%23The%20Eye%20of%20Vuk).
 
 14 STR, 13 DEX, 5 WIL, fists (d8+d8), hook knife (d6)
 
 - If necessary he will flee to **White Tower Fens**, hoping that his pursuers trigger his traps there.
-- Given the opportunity, he will drag any defeated opponent to the #Temple of the Fungal Lizards to be sacrificed.
+- Given the opportunity, he will drag any defeated opponent to the [#Temple of the Fungal Lizards](%23Temple%20of%20the%20Fungal%20Lizards) to be sacrificed.
 
 ## Aldra
 A burly and well-liked butcher, devout Tideborn, and husband to Flavia. Together they owned the Butcher Shop.
 
-- On the night he was murdered, Aldra was working at his desk when he saw the Reeve carrying large bags out from the [cellar trapdoor](#cellar). He quietly slipped out, careful not to wake his wife, and followed the Reeve. Later that night, Fasha dragged Aldra’s limp form to Bone Sump and murdered him to feed to #Vuk.
+- On the night he was murdered, Aldra was working at his desk when he saw the Reeve carrying large bags out from the [cellar trapdoor](#cellar). He quietly slipped out, careful not to wake his wife, and followed the Reeve. Later that night, Fasha dragged Aldra’s limp form to Bone Sump and murdered him to feed to [#Vuk](%23Vuk).
 
 ## Flavia
 Wife to Aldra and co-owner of the Butcher Shop. Visibly distraught but puts on a brave face.
@@ -143,7 +140,7 @@ A sarcastic, lanky teenager. Giva is his great-aunt. Works afternoons and evenin
 
 
 ## Annafranax
-An elder Half Witch, making her home deep in the Stone Forest. Relies on illusion and intelligence for survival and doesn’t give a whit for petty morality. She is interested in traversing #The Roots, primarily for new curatives and lost magic. She eats mostly fungi, as well as the occasional rude traveler.
+An elder Half Witch, making her home deep in the Stone Forest. Relies on illusion and intelligence for survival and doesn’t give a whit for petty morality. She is interested in traversing [#The Roots](%23The%20Roots), primarily for new curatives and lost magic. She eats mostly fungi, as well as the occasional rude traveler.
 
 9 HP, 11 STR, 14 DEX, 17 WIL
 
@@ -175,7 +172,7 @@ Despite the region’s reputation for relative safety, it is still dangerous to 
 | d6    | Encounters<br>**Roll 1d6 whenever the party travels between two points. Roll twice at night.**                                                                                                                                                                                                                                                                                  |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1** | Bloodsuckers swarm, drawn to body heat. They are nearly impossible to fight off, but willingly fly into open flame. Unless avoided, everyone adds a Fatigue.                                                                                                                                                                                                                    |
-| **2** | A Kettlewright rides alongside, burdened by gleaming tin. He sells mostly kitchenware, but if pressed, will agree to sell the #Fletcher’s Ire in his pack for 100gp.                                                                                                                                                                                                        |
+| **2** | A Kettlewright rides alongside, burdened by gleaming tin. He sells mostly kitchenware, but if pressed, will agree to sell the [#Fletcher’s Ire](%23Fletcher%E2%80%99s%20Ire) in his pack for 100gp.                                                                                                                                                                                                        |
 | **3** | The party is drenched by a sudden torrent of wind and floating vegetation. Each character loses a resource (a torch goes out, a Ration is dropped, a shoe is lost, etc).                                                                                                                                                                                                        |
 | **4** | An unarmed woman pulling a cart full of fish crates asks for help getting its wheels unstuck from the mud. Her clothes appear relatively clean, despite her efforts. If the party stops to help, 3 **bandits*** leap from the foliage in ambush. Unprepared PCs fail their DEX save automatically. The cart (+4 slots) is in fine condition once unstuck. The crates are empty. |
 | **5** | Mossy loam gives way to thick mud, popping noisily with each step. Nearby animals scatter at the party’s approach, and anyone traveling by foot adds a Fatigue.                                                                                                                                                                                                                 |
@@ -311,7 +308,7 @@ A dilapidated home on the southeast end of the circle. Half the roof has caved i
 
 # Old Mill Road
 
-A short dirt path connecting **Isthmus Town** to the **Stone Forest**, where it quickly disappears. **Deadmill** is visible through the trees, just at the edge of the wood. If **Annafranax** [has returned](<#The Swallowed Man#Now>), the grove and the mill will be gone, replaced by a massive sinkhole. See “**#If the Gate has Opened...**”.
+A short dirt path connecting **Isthmus Town** to the **Stone Forest**, where it quickly disappears. **Deadmill** is visible through the trees, just at the edge of the wood. If **Annafranax** [has returned](<#The Swallowed Man#Now>), the grove and the mill will be gone, replaced by a massive sinkhole. See “**[#If the Gate has Opened...](%23If%20the%20Gate%20has%20Opened...)**”.
 
 # The Stone Forest 
 
@@ -342,7 +339,7 @@ At the outskirts of the forest is an old gristmill shrouded by overgrown arborea
 A large **millstone** occupies most of the room, attached to some metallic **machinery**. A small leather **satchel** leans against the south wall. The building is slowly **sinking**.
 
 - **Millstone**: A search will reveal something metallic and glowing beneath the stone. 
-	- The #Echo Spark is stuck in a loop, both by the weight of the millstone and Jandy’s continual death(s). Its charge is being restored, then depleted over and over again. 
+	- The [#Echo Spark](%23Echo%20Spark) is stuck in a loop, both by the weight of the millstone and Jandy’s continual death(s). Its charge is being restored, then depleted over and over again. 
 - **Machinery**: The wooden lever that turns the stone has rotted away, and as a result the grindstone cannot be turned with this device. 
 - **Satchel**: Belongs to Jandy. Contains a dagger (d6), a **notebook**, a  **tithing record**, Rations (2 uses left), a Torch (3 uses), and 23gp. 
 	- **Notebook**: Contains a short history of the region, as well as snippets of interviews with **Giva**. There is a section called “The Lumber Trade, a History.”
@@ -409,13 +406,13 @@ The creek terminates in a small bog just a few minutes’ walk south of White To
 	- Aldra’s body is among the corpses, floating amongst the reeds. It is well-preserved by the bog’s unique chemistry. His chest is torn open and the heart has been removed.
 - **Mound**: Appears freshly-made. Pushing the detritus aside reveals a set of stairs leading down into the earth beneath the bog. This is the entry to the **Temple of the Fungal Lizards**. The stairwell smells earthy and slightly floral.
 	- The temple is actually a building-sized ship shaped like a beetle. The entry is its “head.”
-	- Two sconces are installed at eye-level on the walls inside the stairwell. Diamond-shaped objects are inserted in each. The objects can be removed, and are valuable (150gp, bulky). They are lights, controlled from **#T7. Light Room**. They are presently turned off.
+	- Two sconces are installed at eye-level on the walls inside the stairwell. Diamond-shaped objects are inserted in each. The objects can be removed, and are valuable (150gp, bulky). They are lights, controlled from **[#T7. Light Room](%23T7.%20Light%20Room)**. They are presently turned off.
 
 # Temple of the Fungal Lizards
 
 ![](/adventures/img/cas-1/Temple of the Fungal Lizards.png)
 ## General Information
-- **No light**. Sconces with diamond-shaped objects protrude from the corners of each room (see **#T7. Light Room**). They are currently off. 
+- **No light**. Sconces with diamond-shaped objects protrude from the corners of each room (see **[#T7. Light Room](%23T7.%20Light%20Room)**). They are currently off. 
 - The walls and floors are painted blue-black and are made from a foreign alloy. They cannot be chipped or broken by mundane weapons, although fire and explosive powders have some effect.
 - Two **Surarus** roam the temple. They appear on both **Encounters** and **Environmental** results from the Cairn 2e **Dungeon Events** table.
 
@@ -456,7 +453,7 @@ Enormous **fungal** growths sprout from three sacs scattered across the floor. A
 
 Grey, barren corridors connecting **[T2](<#T2. Columbarium>)*** to **[T6](<#T6. Waste Disposal>)** and **[T7](<#T7. Light Room>)**. U-shaped bars extend from the terminus of each hallway. Twisted, they can open a hatch to each. In the central corridor, a long **cloth** is covered by some rubble.
 
-- **Cloth**: Among the debris is a very well-preserved skeleton of a tall, bird-like humanoid, wearing a small red crest on its head. Its throat is ripped open, and it is wrapped in **#Moon Cloth**. It carries a small, **#Curved Dagger (d6)** with a red jewel on it.
+- **Cloth**: Among the debris is a very well-preserved skeleton of a tall, bird-like humanoid, wearing a small red crest on its head. Its throat is ripped open, and it is wrapped in **[#Moon Cloth](%23Moon%20Cloth)**. It carries a small, **[#Curved Dagger (d6)](%23Curved%20Dagger%20(d6))** with a red jewel on it.
 
 ## T5. Hall of Glyphs
 
@@ -526,7 +523,7 @@ A short hallway connects **[T9](<#T9. Chamber of Worship)** to a large metallic 
 
 Adjacent to the door (right, facing the hall) is a small slot above some blood and **viscera**. Two chains dangle from the ceiling in its center, just above a dark **stone** **block** jutting from the floor. If **Vuk** has not yet [returned to full form](#Vuk), there will be a swirling **cloud of ash** that slowly circles the room. 
 
-- **Viscera**: Hearts from Vuk’s victims. Belong to Fasha’s victims. See #Vuk to determine how many are here. (There should be at least one.) Dropped through the drawer in **[T10a](<#T10a. Interrogation Room Door>)**. If the drawer outside the room is open, this one closes.
+- **Viscera**: Hearts from Vuk’s victims. Belong to Fasha’s victims. See [#Vuk](%23Vuk) to determine how many are here. (There should be at least one.) Dropped through the drawer in **[T10a](<#T10a. Interrogation Room Door>)**. If the drawer outside the room is open, this one closes.
 - **Block**: A small crack is visible on one side. It can be easily broken there after a few minutes of smashing. Inside is a large blue **memory prism** (_bulky_, worth 1000gp). 
 - **Cloud**: **Vuk**, now an **ash phantom**. Raised to unlife by the exposure of her decaying flesh to the **memory prism**. She cannot leave the room until she has consumed **three human hearts**.
 
