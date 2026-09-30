@@ -11,6 +11,23 @@ plugins:
 include:
   - js
 
+search:
+  # Split pages into sections that can be searched individually
+  # Supports 1 - 6, default: 2
+  heading_level: 3
+  # Maximum amount of previews per search result
+  # Default: 3
+  previews: 2
+  # Maximum amount of words to display before a matched word in the preview
+  # Default: 5
+  preview_words_before: 3
+  # Maximum amount of words to display after a matched word in the preview
+  # Default: 10
+  preview_words_after: 3
+  # Focus the search input by pressing `ctrl + focus_shortcut_key` (or `cmd + focus_shortcut_key` on macOS)
+  focus_shortcut_key: "k"
+
+
 # Back to top link
 back_to_top: true
 back_to_top_text: "Back to top"
