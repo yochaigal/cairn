@@ -53,12 +53,14 @@ Creatures directly exposed to the Chitin Knight or an infected entity (typically
 
 ## Hooks & Rumors
 
-| d4  | Hooks & Rumors                                                                                                                                                                                                                                                                                                                                                                                                            |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| d4  | Hooks & Rumors                 |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | While attending Bartermoot, there is a scream as children appear, saying they’ve found a corpse at [2. The Old Dam](#2-the-old-dam).                                                                                                                                                                                                                                                                                                   |
 | 2   | Talks of diseased animals, fish, etc. Farmers have pooled their resources (200gp) as a reward for anyone who can stop the madness.                                                                                                                                                                                                                                                                                        |
 | 3   | The Master of Commerce is interested in more information regarding stories of illegal lumber work in the [North Fork](#7-infected-fork). He will pay 50gp apiece for information regarding the goings-on there, but discretion is required. He does not wish to upset the denizens of the Wood, particularly today.                                                                                                    |
 | 4   | The Marchguard is offering a reward of 400gp (total) for information on the current whereabouts of Taros Quill, a deserter. He was last seen fleeing into the Tegny Woods with a group of followers, and the previous Bloodhound dispatched after him has not returned. The Guard is oathbound to watch over the Bartermoot festivities and cannot follow until the next day, when the trail may have already grown cold. |
+
+
 ## Encounters
 
 | d6  | Encounters                                                                                                                                                                                                                                                                                            |
