@@ -5,6 +5,11 @@ layout: default
 grand_parent: Adventures
 ---
 
+The following adventure is available:  
+- In [print](https://store.cairnrpg.com/products/cas-1-trouble-in-twin-lakes)
+- As a [PDF](https://yochaigal.itch.io/trouble-in-twin-lakes)
+- As markdown (see below)
+
 # CAS-1: Trouble in Twin Lakes
 
 _Trouble in Twin Lakes_ is the first in a series of standalone adventures for the Cairn 2e adventure game. The adventure revolves around two central mysteries for the party to solve. It includes various NPCs and antagonists, as well as multiple locations to explore. This adventure is suitable for both new and veteran players, and works particularly well for characters still trying to find their place in a wild and potentially dangerous world. Although the region and its denizens are part of the broader **Vald** setting, they can be easily incorporated into any low-fantasy setting of your choice.
@@ -18,7 +23,7 @@ Produced by Cairn Press.
 
 The text of this work is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en). 
 
-!![Trouble_in_Twin_Lakes_Cover.png](/adventures/img/cas-1/Trouble_in_Twin_Lakes_Cover.png)
+![](attachment/246452d48506909cfe4cfa7eb09ef95e.png)
 
 ## Introduction
 
@@ -156,7 +161,7 @@ To the North lies the **Stone Forest**, a vast wooded area dotted with old mills
 
 Despite the region’s reputation for relative safety, it is still dangerous to travel at night, as both bandits and night cats are known to pursue vulnerable parties. The adventure begins during the Harvest season, just after the final crops have been gathered.
 
-!![CAS1_Map_v2.png](/adventures/img/cas-1/CAS1_Map_v2.png)
+![](attachment/883f26de0222d7822922135a762d5a87.png)
 
 | d6    | Rumors Heard on the Road<br>**Roll 1d6 whenever the party leaves Isthmus Town. Reroll repeated results.**                                                                                                                                                                                                                                                                                      |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -278,7 +283,7 @@ A dry, well-trod footpath stretching South from Isthmus Town and through the **H
 
 A thin circle of ramshackle homes built far apart from one another. Originally a fishing village, before the water in East Lake turned sour. Only impoverished fishers and unlucky farmers make their home here now. Connects to **East Lake Pass**.
 
-!![Dunston.png](/adventures/img/cas-1/Dunston.png)
+![](attachment/8246b94af00e155143473eb04c245fa1.png)
 
 ## Fasha’s Farm
 
@@ -319,7 +324,7 @@ A common arboreal predator in the Stone Forest is the Night Cat, a nocturnal mar
 - Intelligent, nocturnal marsupials that make their homes in forests and swamps. Hunt in packs.
 - **Critical Damage**: The Night Cat begins to eat the target (d4 STR damage) while they are still alive.
 
-!![Stone Forest.png](/adventures/img/cas-1/Stone Forest.png)
+![](attachment/dde15c880f58130f05cca3da7118c5ef.png)
 
 # Deadmill
 
@@ -366,7 +371,7 @@ A muddy, stinking bog shrouded in mist, and popular source for horror stories (a
 
 A small wood, East of the Downs. Named for its ruined white tower, shrouded in the mists of the nearby bog. Entry via **East Lake Trail** at the fork towards **Old Mill Road.**
 
-!![White Tower Fens.png](/adventures/img/cas-1/White Tower Fens.png)
+![](attachment/3a575bf47235e196a6b53b8d9e191c0f.png)
 
 ## 1. Whistlewood
 
@@ -408,7 +413,7 @@ The creek terminates in a small bog just a few minutes’ walk south of White To
 
 # Temple of the Fungal Lizards
 
-!![Temple of the Fungal Lizards.png](/adventures/img/cas-1/Temple of the Fungal Lizards.png)
+![](attachment/88d96ce071506f20494d4353f889fb77.png)
 ## General Information
 - **No light**. Sconces with diamond-shaped objects protrude from the corners of each room (see **[[#T7. Light Room]]**). They are currently off. 
 - The walls and floors are painted blue-black and are made from a foreign alloy. They cannot be chipped or broken by mundane weapons, although fire and explosive powders have some effect.
@@ -527,7 +532,7 @@ Adjacent to the door (right, facing the hall) is a small slot above some blood a
 
 ## Vuk
 
-!![Vuk.png](/adventures/img/cas-1/Vuk.png)
+![](attachment/a1d79eed0240daeaed483d2ca71bcad1.png)
 
 A former Queen, murdered by her own kind as their civilization came to an end a millennia before. Cursed to haunt the very chamber of her death, she now means to rule these lands again. In her full form, she is a 7ft-tall Lich Queen with bird-like facial features, wearing a magnificent yellow crest.
 
@@ -547,7 +552,7 @@ Finally, one of the interrogators points to a lizard-like humanoid creature in t
 
 Suddenly, the door to the room opens and someone else enters the room. There is more gibberish, and then both the interrogators and the lizards rush from the room, slamming the door shut behind them. The viewer looks down at the wound in their stomach, and then everything goes dark.
 
-!![Stoneblock.png](/adventures/img/cas-1/Stoneblock.png)
+![](attachment/aa1cbec1b38bca7276f31cc5b0cbf444.png)
 
 # Concluding the Adventure
 
