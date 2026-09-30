@@ -23,7 +23,7 @@ Produced by Cairn Press.
 
 The text of this work is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en). 
 
-![[Trouble_in_Twin_Lakes_Cover.png]]
+![Trouble in Twin Lakes Cover](/adventures/img/cas-1/Trouble_in_Twin_Lakes_Cover.png)
 
 ## Introduction
 
@@ -49,7 +49,7 @@ For most of his life, Fasha was a meek, selfish farmer making a meager living in
 One day while walking near **Bone Sump**, Fasha heard a woman’s voice calling to him from beneath the waters. Calling herself Vuk, the voice pleaded with him to free her. Fasha agreed, and was granted the **Eye of Vuk** in return.
 
 ### Now
-Two weeks ago, the late night activities of Fasha and the Reeve drew the attention of the local butcher, **Aldra**. He followed the men back to Dunston, hoping to catch them in the act. But Fasha was prepared, ambushing the butcher and dragging him to the **[Temple of the Fungal Lizards](#temple-of the fungal lizards)**. There, his heart was ripped from his body and consumed by Vuk. And though Reeve Trellis knows that Fasha is responsible for what happened to Aldra, fear and selfishness keep him complicit. 
+Two weeks ago, the late night activities of Fasha and the Reeve drew the attention of the local butcher, **Aldra**. He followed the men back to Dunston, hoping to catch them in the act. But Fasha was prepared, ambushing the butcher and dragging him to the **[Temple of the Fungal Lizards](#temple-of-the-fungal-lizards)**. There, his heart was ripped from his body and consumed by Vuk. And though Reeve Trellis knows that Fasha is responsible for what happened to Aldra, fear and selfishness keep him complicit. 
 
 Weeks have passed since Aldra’s disappearance. Meanwhile, each day Vuk demands more sacrifices to help quicken her rebirth. Every other evening, Fasha will kidnap a victim and take them to the **Temple of the Fungal Lizards** to have their still-beating hearts consumed by Vuk the following morning.
 
@@ -65,7 +65,7 @@ The following night, **Drum**, a local teen, saw the earth swallow a man whole a
 ### Now
 A few days later, **Annafranax**, the Frog Witch of the Stone Forest, came to Deadmill to retrieve a time loop device called the [Echo Spark](#echo-spark) beneath the millstone. 
 
-Realizing the potential to be found in a death loop, Annafranax hid a **Wisp Lamp** [nearby](#Deadmill), using Jandy’s endless suffering to enhance the trapped creature’s power. On the next full moon, she will return to Deadmill to toss the Wisp Lamp into the quicksand. The resulting energy will rip open a Gate to [The Roots](#the-roots).
+Realizing the potential to be found in a death loop, Annafranax hid a **Wisp Lamp** [nearby](#deadmill), using Jandy’s endless suffering to enhance the trapped creature’s power. On the next full moon, she will return to Deadmill to toss the Wisp Lamp into the quicksand. The resulting energy will rip open a Gate to [The Roots](#the-roots).
 
 
 ## Victim Schedule
@@ -96,16 +96,16 @@ A charismatic figure, well-liked and ruggedly handsome. Speaks with an affected 
 
 - Stays out of the PCs' way as much as possible, but will work against them if they show an interest in Aldra.
 - He knows that Jandy never came to retrieve the tithe, but any follow- up questions regarding the man's belongings will be directed to Drum, who works at the inn where Jandy was staying.
-- The official **tithing record** in the Reeve's office is a fake. The true account is kept in the **basement** at the **Stuffed Inn**. His crimes could also be uncovered by comparing this book with Jandy's own [tithing record](#Deadmill).
+- The official **tithing record** in the Reeve's office is a fake. The true account is kept in the **basement** at the **Stuffed Inn**. His crimes could also be uncovered by comparing this book with Jandy's own [tithing record](#deadmill).
 - If his life is threatened, he will confess to pilfering from the tithe but not admit to Aldra's murder.
 
 ## Fasha
-A farmer from Dunston, formerly weak and ill-mannered, now revels in the newfound strength and insight gained since wearing [The Eye of Vuk](#the-eye of vuk).
+A farmer from Dunston, formerly weak and ill-mannered, now revels in the newfound strength and insight gained since wearing [The Eye of Vuk](#the-eye-of-vuk).
 
 14 STR, 13 DEX, 5 WIL, fists (d8+d8), hook knife (d6)
 
 - If necessary he will flee to **White Tower Fens**, hoping that his pursuers trigger his traps there.
-- Given the opportunity, he will drag any defeated opponent to the [Temple of the Fungal Lizards](#temple-of the fungal lizards) to be sacrificed.
+- Given the opportunity, he will drag any defeated opponent to the [Temple of the Fungal Lizards](#temple-of-the-fungal-lizards) to be sacrificed.
 
 ## Aldra
 A burly and well-liked butcher, devout Tideborn, and husband to Flavia. Together they owned the Butcher Shop.
@@ -116,7 +116,7 @@ A burly and well-liked butcher, devout Tideborn, and husband to Flavia. Together
 Wife to Aldra and co-owner of the Butcher Shop. Visibly distraught but puts on a brave face.
 
 - She will offer that her husband always took off his pendant (featuring three squiggles at an angle) before sleep, and that she hasn’t seen it anywhere.
-- Last saw her husband two weeks ago. He was counting coins at his desk as she went to bed, as he often did late into the night. She saved the half-finished ledger he was working on in the **[desk drawer](<#Butcher Shop>)**. The key to the drawer is kept on a small silver chain hanging discreetely from her neck. 
+- Last saw her husband two weeks ago. He was counting coins at his desk as she went to bed, as he often did late into the night. She saved the half-finished ledger he was working on in the **[desk drawer](#butcher-shop)**. The key to the drawer is kept on a small silver chain hanging discreetely from her neck. 
 - If asked about Fasha, she will say that she has heard rumors the man takes late-night walks on **East Lake Pass**. She dislikes the man immensely, calling him rude and arrogant.
 - If asked about Giva, she will mention that despite being a grumpy, superstitious old crone, Aldra found her charming.
 
@@ -161,7 +161,7 @@ To the North lies the **Stone Forest**, a vast wooded area dotted with old mills
 
 Despite the region’s reputation for relative safety, it is still dangerous to travel at night, as both bandits and night cats are known to pursue vulnerable parties. The adventure begins during the Harvest season, just after the final crops have been gathered.
 
-![[CAS1_Map_v2.png]]
+![CAS1 Map v2](/adventures/img/cas-1/CAS1_Map_v2.png)
 
 | d6    | Rumors Heard on the Road<br>**Roll 1d6 whenever the party leaves Isthmus Town. Reroll repeated results.**                                                                                                                                                                                                                                                                                      |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -175,7 +175,7 @@ Despite the region’s reputation for relative safety, it is still dangerous to 
 | d6    | Encounters<br>**Roll 1d6 whenever the party travels between two points. Roll twice at night.**                                                                                                                                                                                                                                                                                  |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1** | Bloodsuckers swarm, drawn to body heat. They are nearly impossible to fight off, but willingly fly into open flame. Unless avoided, everyone adds a Fatigue.                                                                                                                                                                                                                    |
-| **2** | A Kettlewright rides alongside, burdened by gleaming tin. He sells mostly kitchenware, but if pressed, will agree to sell the [Fletcher’s Ire](#fletcher’s-ire) in his pack for 100gp.                                                                                                                                                                                                        |
+| **2** | A Kettlewright rides alongside, burdened by gleaming tin. He sells mostly kitchenware, but if pressed, will agree to sell the [Fletcher’s Ire](#fletchers-ire) in his pack for 100gp.                                                                                                                                                                                                        |
 | **3** | The party is drenched by a sudden torrent of wind and floating vegetation. Each character loses a resource (a torch goes out, a Ration is dropped, a shoe is lost, etc).                                                                                                                                                                                                        |
 | **4** | An unarmed woman pulling a cart full of fish crates asks for help getting its wheels unstuck from the mud. Her clothes appear relatively clean, despite her efforts. If the party stops to help, 3 **bandits*** leap from the foliage in ambush. Unprepared PCs fail their DEX save automatically. The cart (+4 slots) is in fine condition once unstuck. The crates are empty. |
 | **5** | Mossy loam gives way to thick mud, popping noisily with each step. Nearby animals scatter at the party’s approach, and anyone traveling by foot adds a Fatigue.                                                                                                                                                                                                                 |
@@ -222,7 +222,7 @@ The tavern area is small, with only three tables, arranged perpendicular to the 
 
 A dank, uncomfortable room in the back of the **Stuffed Inn**. Empty save for a **single desk** and a locked **cellar door**. On the desk is a small **book**.
 
-- **Desk**: A single drawer. Inside is a small black book. It is a fake tithing record, and comparing it to the true record in the basement or its twin in [Jandy’s satchel](#Deadmill) can prove that the Reeve has been stealing from the tithe owed to the Cities.
+- **Desk**: A single drawer. Inside is a small black book. It is a fake tithing record, and comparing it to the true record in the basement or its twin in [Jandy’s satchel](#deadmill) can prove that the Reeve has been stealing from the tithe owed to the Cities.
 - **Cellar Door**: Locked. Both Reeve Trellis and Drum have keys.
 
 #### Cellar
@@ -283,7 +283,7 @@ A dry, well-trod footpath stretching South from Isthmus Town and through the **H
 
 A thin circle of ramshackle homes built far apart from one another. Originally a fishing village, before the water in East Lake turned sour. Only impoverished fishers and unlucky farmers make their home here now. Connects to **East Lake Pass**.
 
-![[Dunston.png]]
+![Dunston](/adventures/img/cas-1/Dunston.png)
 
 ## Fasha’s Farm
 
@@ -311,7 +311,7 @@ A dilapidated home on the southeast end of the circle. Half the roof has caved i
 
 # Old Mill Road
 
-A short dirt path connecting **Isthmus Town** to the **Stone Forest**, where it quickly disappears. **Deadmill** is visible through the trees, just at the edge of the wood. If **Annafranax** [has returned](<#The Swallowed Man#Now>), the grove and the mill will be gone, replaced by a massive sinkhole. See “**[If the Gate has Opened...](#if-the gate has opened...)**”.
+A short dirt path connecting **Isthmus Town** to the **Stone Forest**, where it quickly disappears. **Deadmill** is visible through the trees, just at the edge of the wood. If **Annafranax** [has returned](#now), the grove and the mill will be gone, replaced by a massive sinkhole. See “**[If the Gate has Opened...](#if-the-gate-has-opened)**”.
 
 # The Stone Forest 
 
@@ -324,7 +324,7 @@ A common arboreal predator in the Stone Forest is the Night Cat, a nocturnal mar
 - Intelligent, nocturnal marsupials that make their homes in forests and swamps. Hunt in packs.
 - **Critical Damage**: The Night Cat begins to eat the target (d4 STR damage) while they are still alive.
 
-![[Stone Forest.png]]
+![Stone Forest](/adventures/img/cas-1/Stone Forest.png)
 
 # Deadmill
 
@@ -371,7 +371,7 @@ A muddy, stinking bog shrouded in mist, and popular source for horror stories (a
 
 A small wood, East of the Downs. Named for its ruined white tower, shrouded in the mists of the nearby bog. Entry via **East Lake Trail** at the fork towards **Old Mill Road.**
 
-![[White Tower Fens.png]]
+![White Tower Fens](/adventures/img/cas-1/White Tower Fens.png)
 
 ## 1. Whistlewood
 
@@ -409,13 +409,13 @@ The creek terminates in a small bog just a few minutes’ walk south of White To
 	- Aldra’s body is among the corpses, floating amongst the reeds. It is well-preserved by the bog’s unique chemistry. His chest is torn open and the heart has been removed.
 - **Mound**: Appears freshly-made. Pushing the detritus aside reveals a set of stairs leading down into the earth beneath the bog. This is the entry to the **Temple of the Fungal Lizards**. The stairwell smells earthy and slightly floral.
 	- The temple is actually a building-sized ship shaped like a beetle. The entry is its “head.”
-	- Two sconces are installed at eye-level on the walls inside the stairwell. Diamond-shaped objects are inserted in each. The objects can be removed, and are valuable (150gp, bulky). They are lights, controlled from **[T7. Light Room](#t7.-light room)**. They are presently turned off.
+	- Two sconces are installed at eye-level on the walls inside the stairwell. Diamond-shaped objects are inserted in each. The objects can be removed, and are valuable (150gp, bulky). They are lights, controlled from **[T7. Light Room](#t7-light-room)**. They are presently turned off.
 
 # Temple of the Fungal Lizards
 
-![[Temple of the Fungal Lizards.png]]
+![Temple of the Fungal Lizards](/adventures/img/cas-1/Temple of the Fungal Lizards.png)
 ## General Information
-- **No light**. Sconces with diamond-shaped objects protrude from the corners of each room (see **[T7. Light Room](#t7.-light room)**). They are currently off. 
+- **No light**. Sconces with diamond-shaped objects protrude from the corners of each room (see **[T7. Light Room](#t7-light-room)**). They are currently off. 
 - The walls and floors are painted blue-black and are made from a foreign alloy. They cannot be chipped or broken by mundane weapons, although fire and explosive powders have some effect.
 - Two **Surarus** roam the temple. They appear on both **Encounters** and **Environmental** results from the Cairn 2e **Dungeon Events** table.
 
@@ -437,8 +437,8 @@ A thin hall divides the room, chambers built-in to each side. On the north side 
 	- Buried beneath the detritus is a small tube made of scaled leather. Stuffed inside is a **Watersnatch**.
 - **Pottery**: Ancient urns are arranged in stacks. It takes at least two turns to search them all. (Characters can split up the work.) 
 	- A pot in the first row is filled with mummified remains of a fragile, bird-like creature. It is valuable only to specialty buyers (150gp).
-	- In the back is a nondescript urn, firmly attached to the chamber. Twisting its top opens the **hatch to [T4](<#T4. Maintenance Tunnel>)** but creates a very loud noise. (Roll on the Dungeon Events table.)
-- **Seams**: A hatch to **[T4](<#T4. Maintenance Tunnel>)**. The seams are too narrow for a crowbar or blade, and there are no obvious handles, buttons, or levers in sight.
+	- In the back is a nondescript urn, firmly attached to the chamber. Twisting its top opens the **hatch to [T4](#t4-maintenance-tunnel)** but creates a very loud noise. (Roll on the Dungeon Events table.)
+- **Seams**: A hatch to **[T4](#t4-maintenance-tunnel)**. The seams are too narrow for a crowbar or blade, and there are no obvious handles, buttons, or levers in sight.
 
 ### Watersnatch
 - A cylindrical object that can absorb up to a wagon’s load of water (or roughly 1000 gallons). 1 Charge. 
@@ -454,9 +454,9 @@ Enormous **fungal** growths sprout from three sacs scattered across the floor. A
 
 ## T4. Maintenance Tunnel
 
-Grey, barren corridors connecting **[T2](<#T2. Columbarium>)*** to **[T6](<#T6. Waste Disposal>)** and **[T7](<#T7. Light Room>)**. U-shaped bars extend from the terminus of each hallway. Twisted, they can open a hatch to each. In the central corridor, a long **cloth** is covered by some rubble.
+Grey, barren corridors connecting **[T2](#t2-columbarium)*** to **[T6](#t6-waste-disposal)** and **[T7](#t7-light-room)**. U-shaped bars extend from the terminus of each hallway. Twisted, they can open a hatch to each. In the central corridor, a long **cloth** is covered by some rubble.
 
-- **Cloth**: Among the debris is a very well-preserved skeleton of a tall, bird-like humanoid, wearing a small red crest on its head. Its throat is ripped open, and it is wrapped in **[Moon Cloth](#moon-cloth)**. It carries a small, **[Curved Dagger (d6)](#curved-dagger (d6))** with a red jewel on it.
+- **Cloth**: Among the debris is a very well-preserved skeleton of a tall, bird-like humanoid, wearing a small red crest on its head. Its throat is ripped open, and it is wrapped in **[Moon Cloth](#moon-cloth)**. It carries a small, **[Curved Dagger (d6)](#curved-dagger-d6)** with a red jewel on it.
 
 ## T5. Hall of Glyphs
 
@@ -474,26 +474,26 @@ In the center of this square-shaped room is a square **well**, waist-high. Three
 
 - **Well**: Hundreds of feet deep. A light source reveals ancient refuse floating in the water at the bottom.
 - **Nozzle**: Automatic showers that spray scalding hot water whenever weight is placed on its drain. A single chirp from a corner light sconce is the only warning.
-- **Drains**: Pulling up the grate in the **Southwest** corner triggers a hatch in the **west** wall, opening a **secret door to **[T4](<#T4. Maintenance Tunnel>)****.
-- **Seams**: A hatch to **[T4](<#T4. Maintenance Tunnel>)**. Like its companions in **[T2](<#T2. Columbarium>)** and **[T7](<#T7. Light Room>)**, the seams are too narrow for a crowbar or blade, and  there are no obvious handles, buttons, or levers in sight.
+- **Drains**: Pulling up the grate in the **Southwest** corner triggers a hatch in the **west** wall, opening a **secret door to **[T4](#t4-maintenance-tunnel)****.
+- **Seams**: A hatch to **[T4](#t4-maintenance-tunnel)**. Like its companions in **[T2](#t2-columbarium)** and **[T7](#t7-light-room)**, the seams are too narrow for a crowbar or blade, and  there are no obvious handles, buttons, or levers in sight.
 
 ## T7. Light Room
 
-This room **smells** like ozone. At the east exit, a small **pad** is installed in the wall at shoulder height. A diamond-shaped **board** is built into the **North** wall. On the west wall, two large horizontal **seams** are arranged in parallel a few feet apart. The layout of this room allows for a clear view of **[T8](<#T8. Preparation Room)** and the fungal growth in **[T9](<#T9. Chamber of Worship>)**.
+This room **smells** like ozone. At the east exit, a small **pad** is installed in the wall at shoulder height. A diamond-shaped **board** is built into the **North** wall. On the west wall, two large horizontal **seams** are arranged in parallel a few feet apart. The layout of this room allows for a clear view of **[T8](#t8-preparation-room)** and the fungal growth in **[T9](#t9-chamber-of-worship)**.
 
-- **Smell**: There is an invisible forcefield between **[T7](<#T7. Light Room>)** and **[T8](<#T8. Preparation Room)**. It causes only a minor shock on contact, but cannot be penetrated by any normal means.
-- **Pad**: Controls the forcefield between **[T7](<#T7. Light Room>)** and **[T8](<#T8. Preparation Room)**. There is no other way of shutting it off, save disconnecting the control board.
+- **Smell**: There is an invisible forcefield between **[T7](#t7-light-room)** and **[T8](#t8-preparation-room)**. It causes only a minor shock on contact, but cannot be penetrated by any normal means.
+- **Pad**: Controls the forcefield between **[T7](#t7-light-room)** and **[T8](#t8-preparation-room)**. There is no other way of shutting it off, save disconnecting the control board.
 - **Board**: A dial on the board controls the light sconces in each room. 
 	- If turned to extreme brightness, the diamond-shaped bulbs **in every room** will explode after **one dungeon cycle** (d4 STR damage to any nearby). Three immediate chirps from each sconce are the only warning. All nearby **Surarus** will come directly to T7 immediately after.
 	- Can be removed, but all wall sconces as well as the **forcefield** will be permanently disabled. The board would be very valuable to an Aurifex or like-minded professions (500gp).
-	- A small switch located underneath the board activates a **secret door to [T4](<#T4. Maintenance Tunnel>)** in the **West** wall.
-- **Seams**: A hatch to **[T4](<#T4. Maintenance Tunnel>)**. Like its companions in **T2** and **T4**, the seams are too narrow for a crowbar or blade, and  there are no obvious handles, buttons, or levers in sight.
+	- A small switch located underneath the board activates a **secret door to [T4](#t4-maintenance-tunnel)** in the **West** wall.
+- **Seams**: A hatch to **[T4](#t4-maintenance-tunnel)**. Like its companions in **T2** and **T4**, the seams are too narrow for a crowbar or blade, and  there are no obvious handles, buttons, or levers in sight.
 
 ## T8. Preparation Room 
 
-This room **smells** faintly like ozone. It is completely bare, save for a grate in the floor and an enormous **nozzle** in the ceiling.  The layout of this room allows for a clear view of **[T7](<#T7. Light Room>)** and the fungal growth in **[T9](<#T9. Chamber of Worship>)**.
+This room **smells** faintly like ozone. It is completely bare, save for a grate in the floor and an enormous **nozzle** in the ceiling.  The layout of this room allows for a clear view of **[T7](#t7-light-room)** and the fungal growth in **[T9](#t9-chamber-of-worship)**.
 
-- **Smell**: There is an invisible forcefield in the hall between **[T7](<#T7. Light Room>)** and **[T8](<#T8. Preparation Room)**. It causes only a minor shock on contact, but cannot be penetrated by any normal means. It can only be disabled in **T7**.
+- **Smell**: There is an invisible forcefield in the hall between **[T7](#t7-light-room)** and **[T8](#t8-preparation-room)**. It causes only a minor shock on contact, but cannot be penetrated by any normal means. It can only be disabled in **T7**.
 - **Nozzle**: Automatically activates when any weight is placed on the grate. Sprays a massive gush of superheated water (3 STR damage). A single chirp from a corner light sconce is the only warning.
 
 
@@ -503,7 +503,7 @@ The room smells like a slaughterhouse, and streaks of **blood and viscera** are 
 
 - **Gore**: The remains of any of Fasha’s previous victims (except Aldra) are all here. Each body is missing the heart, made clear by a deep wound in their chest. Depending on the day (see p.3), there may be one potential victim still living, tied up, and unconscious.
 - **Surarus**: Sleeping, eating, and placing large chunks of flesh in a pile near the **fungal growth**. If one is killed, the others will attempt to wake the **Imperator** by slashing open the sac.
-- **Growth**: A **Suraru Imperator**. The **West** exit to **[T8](<#T8. Preparation Room)** is completely blocked by the growth. 
+- **Growth**: A **Suraru Imperator**. The **West** exit to **[T8](#t8-preparation-room)** is completely blocked by the growth. 
 
 ### Suraru
 6 HP, 1 Armor, 14 STR, 12 DEX, 5 WIL, claws (d6+d6) or teeth (d8)
@@ -517,26 +517,26 @@ The room smells like a slaughterhouse, and streaks of **blood and viscera** are 
 
 ## T10a. Interrogation Room Door
 
-A short hallway connects **[T9](<#T9. Chamber of Worship)** to a large metallic door. A single hooked gash is cut into the right-hand side, and a small **window** is built into the door six feet from the ground. Adjacent to the door is a metallic **handle** (left, facing the door). 
-- **Door**: Normally opened only by slotting the **Curved Dagger** from **[T4](<#T4. Maintenance Tunnel>)** into the gash.
+A short hallway connects **[T9](#t9-chamber-of-worship)** to a large metallic door. A single hooked gash is cut into the right-hand side, and a small **window** is built into the door six feet from the ground. Adjacent to the door is a metallic **handle** (left, facing the door). 
+- **Door**: Normally opened only by slotting the **Curved Dagger** from **[T4](#t4-maintenance-tunnel)** into the gash.
 - **Window**: Reveals the room’s contents in their entirety. Thick but breakable glass.
 - **Handle**: Opens a drawer, similar to a mail slot. It is slick with blood.
 
 ## T10b. Interrogation Room (Interior)
 
-Adjacent to the door (right, facing the hall) is a small slot above some blood and **viscera**. Two chains dangle from the ceiling in its center, just above a dark **stone** **block** jutting from the floor. If **Vuk** has not yet [returned to full form](#Vuk), there will be a swirling **cloud of ash** that slowly circles the room. 
+Adjacent to the door (right, facing the hall) is a small slot above some blood and **viscera**. Two chains dangle from the ceiling in its center, just above a dark **stone** **block** jutting from the floor. If **Vuk** has not yet [returned to full form](#vuk), there will be a swirling **cloud of ash** that slowly circles the room. 
 
-- **Viscera**: Hearts from Vuk’s victims. Belong to Fasha’s victims. See [Vuk](#vuk) to determine how many are here. (There should be at least one.) Dropped through the drawer in **[T10a](<#T10a. Interrogation Room Door>)**. If the drawer outside the room is open, this one closes.
+- **Viscera**: Hearts from Vuk’s victims. Belong to Fasha’s victims. See [Vuk](#vuk) to determine how many are here. (There should be at least one.) Dropped through the drawer in **[T10a](#t10a-interrogation-room-door)**. If the drawer outside the room is open, this one closes.
 - **Block**: A small crack is visible on one side. It can be easily broken there after a few minutes of smashing. Inside is a large blue **memory prism** (_bulky_, worth 1000gp). 
 - **Cloud**: **Vuk**, now an **ash phantom**. Raised to unlife by the exposure of her decaying flesh to the **memory prism**. She cannot leave the room until she has consumed **three human hearts**.
 
 ## Vuk
 
-![[Vuk.png]]
+![Vuk](/adventures/img/cas-1/Vuk.png)
 
 A former Queen, murdered by her own kind as their civilization came to an end a millennia before. Cursed to haunt the very chamber of her death, she now means to rule these lands again. In her full form, she is a 7ft-tall Lich Queen with bird-like facial features, wearing a magnificent yellow crest.
 
-- Cannot return to her full form until she has consumed **[three hearts](#Vuk)** and the door at **[T10a](<#T10a. Interrogation Room Door>)** is opened. At the start of the adventure, she has already consumed Aldra’s heart, leaving only two remaining. Until then, she is trapped in **[T10b](<#T10b. Interrogation Room (Interior)>)**. If the party arrives within 24 hours of her transformation, she will have broken free of her prison and can be found at **[T9](<#T9. Chamber of Worship>)**.
+- Cannot return to her full form until she has consumed **[three hearts](#vuk)** and the door at **[T10a](#t10a-interrogation-room-door)** is opened. At the start of the adventure, she has already consumed Aldra’s heart, leaving only two remaining. Until then, she is trapped in **[T10b](#t10b-interrogation-room-interior)>)**. If the party arrives within 24 hours of her transformation, she will have broken free of her prison and can be found at **[T9](#t9-chamber-of-worship)**.
 - Immune to mundane attacks, she can only be destroyed by submerging her remains in water or destroying the memory prison that binds her to this realm. If she is **reborn**, only the latter will be sufficient.
 - **Choking Hold**: As an Ash Phantom, she fully envelops her target, controlling their body like a puppet for one action, then dropping their paralyzed body to the ground (d4 STR damage). They die of asphyxiation if the ash is not somehow expelled (save STR).
 
@@ -552,7 +552,7 @@ Finally, one of the interrogators points to a lizard-like humanoid creature in t
 
 Suddenly, the door to the room opens and someone else enters the room. There is more gibberish, and then both the interrogators and the lizards rush from the room, slamming the door shut behind them. The viewer looks down at the wound in their stomach, and then everything goes dark.
 
-![[Stoneblock.png]]
+![Stoneblock](/adventures/img/cas-1/Stoneblock.png)
 
 # Concluding the Adventure
 
