@@ -5,7 +5,6 @@ layout: default
 grand_parent: Adventures
 ---
 
-
 The following adventure is available:  
 - In [print](https://store.cairnrpg.com/products/the-feast-of-tegny-wood)
 - As a [PDF](https://yochaigal.itch.io/the-feast-of-tegny-wood)
