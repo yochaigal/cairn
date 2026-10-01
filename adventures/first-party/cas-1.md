@@ -497,7 +497,7 @@ This room **smells** faintly like ozone. It is completely bare, save for a grate
 - **Nozzle**: Automatically activates when any weight is placed on the grate. Sprays a massive gush of superheated water (3 STR damage). A single chirp from a corner light sconce is the only warning.
 
 
-## T9. Chamber of Worship
+## T9. Chamber of Worship 
 
 The room smells like a slaughterhouse, and streaks of **blood and viscera** are strewn across the floor. An enormous **fungal chamber** is growing in the **Southwest** corner. There are two **Surarus** here.
 
