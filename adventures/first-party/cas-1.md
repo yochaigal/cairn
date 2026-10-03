@@ -65,7 +65,7 @@ The following night, **Drum**, a local teen, saw the earth swallow a man whole a
 ### Now
 A few days later, **Annafranax**, the Frog Witch of the Stone Forest, came to Deadmill to retrieve a time loop device called the [Echo Spark](#echo-spark) beneath the millstone. 
 
-Realizing the potential to be found in a death loop, Annafranax hid a **Wisp Lamp** [nearby](#deadmill), using Jandy’s endless suffering to enhance the trapped creature’s power. On the next full moon, she will return to Deadmill to toss the Wisp Lamp into the quicksand. The resulting energy will rip open a Gate to [The Roots](#the-roots).
+Realizing the potential to be found in a death loop, Annafranax hid a **Wisp Lamp** [nearby](#2-the-waterwheel), using Jandy’s endless suffering to enhance the trapped creature’s power. On the next full moon, she will return to Deadmill to toss the Wisp Lamp into the quicksand. The resulting energy will rip open a Gate to [The Roots](#the-roots).
 
 
 ## Victim Schedule
@@ -96,7 +96,7 @@ A charismatic figure, well-liked and ruggedly handsome. Speaks with an affected 
 
 - Stays out of the PCs' way as much as possible, but will work against them if they show an interest in Aldra.
 - He knows that Jandy never came to retrieve the tithe, but any follow- up questions regarding the man's belongings will be directed to Drum, who works at the inn where Jandy was staying.
-- The official **tithing record** in the Reeve's office is a fake. The true account is kept in the **basement** at the **Stuffed Inn**. His crimes could also be uncovered by comparing this book with Jandy's own [tithing record](#deadmill).
+- The official **tithing record** in the Reeve's office is a fake. The true account is kept in the **basement** at the **Stuffed Inn**. His crimes could also be uncovered by comparing this book with Jandy's own [tithing record](#1-interior).
 - If his life is threatened, he will confess to pilfering from the tithe but not admit to Aldra's murder.
 
 ## Fasha
@@ -150,7 +150,7 @@ An elder Half Witch, making her home deep in the Stone Forest. Relies on illusio
 - Can change her form depending on the audience and their intentions. At times she is a young woman with long, auburn hair, and at others she is squat and almost amphibious in appearance.
 - Returns to Deadmill two days after the adventure begins, in the evening. Although she is an immensely powerful being, she is also very old and will try to avoid combat as much as possible. 
 - She has near perfect knowledge of the forest and its history and can offer the party cures for nearly any ailment. She always keeps her word.
-- Carries four of the following Spellbooks: _Animate Object, Arcane Eye, Auditory Illusion, Beast Form, Befuddle, Haste, Pacify, Push/Pull, Read Mind, Thicket, True Sight, Visual Illusion._ 
+- Carries four of the following [Spellbooks](/second-edition/wardens-guide/spellbooks/): _Animate Object, Arcane Eye, Auditory Illusion, Beast Form, Befuddle, Haste, Pacify, Push/Pull, Read Mind, Thicket, True Sight, Visual Illusion._ 
 - If she is killed, every bird in the Stone Forest will attack her murderer until they are dead or have fled The Wood.
 
 # Twin Lakes
@@ -188,7 +188,7 @@ Despite the region’s reputation for relative safety, it is still dangerous to 
 
 # Isthmus Town
 
-A former logging town, currently squeaking by largely on profits made from fishing **West Lake**. Fewer than thirty families call the town their home. The town market runs from 8am to 2pm each day, boasting a decent array of goods and provisions, including any items under 10gp. (See [Marketplace](https://cairnrpg.com/second-edition/players-guide/marketplace/) in 2e Player’s Guide.) Local culinary specialties include fried cod, roasted frog legs, and hot stewberry pie. Fishing equipment (15gp), bog shoes (10gp a pair), and rainproof clothing (15gp) are popular commodities.
+A former logging town, currently squeaking by largely on profits made from fishing **West Lake**. Fewer than thirty families call the town their home. The town market runs from 8am to 2pm each day, boasting a decent array of goods and provisions, including any items under 10gp. (See [Marketplace](/second-edition/players-guide/marketplace/) in 2e Player’s Guide.) Local culinary specialties include fried cod, roasted frog legs, and hot stewberry pie. Fishing equipment (15gp), bog shoes (10gp a pair), and rainproof clothing (15gp) are popular commodities.
 
 ## Factions
 
@@ -222,7 +222,7 @@ The tavern area is small, with only three tables, arranged perpendicular to the 
 
 A dank, uncomfortable room in the back of the **Stuffed Inn**. Empty save for a **single desk** and a locked **cellar door**. On the desk is a small **book**.
 
-- **Desk**: A single drawer. Inside is a small black book. It is a fake tithing record, and comparing it to the true record in the basement or its twin in [Jandy’s satchel](#deadmill) can prove that the Reeve has been stealing from the tithe owed to the Cities.
+- **Desk**: A single drawer. Inside is a small black book. It is a fake tithing record, and comparing it to the true record in the basement or its twin in [Jandy’s satchel](#1-interior) can prove that the Reeve has been stealing from the tithe owed to the Cities.
 - **Cellar Door**: Locked. Both Reeve Trellis and Drum have keys.
 
 #### Cellar
@@ -454,7 +454,7 @@ Enormous **fungal** growths sprout from three sacs scattered across the floor. A
 
 ## T4. Maintenance Tunnel
 
-Grey, barren corridors connecting **[T2](#t2-columbarium)*** to **[T6](#t6-waste-disposal)** and **[T7](#t7-light-room)**. U-shaped bars extend from the terminus of each hallway. Twisted, they can open a hatch to each. In the central corridor, a long **cloth** is covered by some rubble.
+Grey, barren corridors connecting **[T2](#t2-columbarium)** to **[T6](#t6-waste-disposal)** and **[T7](#t7-light-room)**. U-shaped bars extend from the terminus of each hallway. Twisted, they can open a hatch to each. In the central corridor, a long **cloth** is covered by some rubble.
 
 - **Cloth**: Among the debris is a very well-preserved skeleton of a tall, bird-like humanoid, wearing a small red crest on its head. Its throat is ripped open, and it is wrapped in **[Moon Cloth](#moon-cloth)**. It carries a small, **[Curved Dagger (d6)](#curved-dagger-d6)** with a red jewel on it.
 
@@ -474,7 +474,7 @@ In the center of this square-shaped room is a square **well**, waist-high. Three
 
 - **Well**: Hundreds of feet deep. A light source reveals ancient refuse floating in the water at the bottom.
 - **Nozzle**: Automatic showers that spray scalding hot water whenever weight is placed on its drain. A single chirp from a corner light sconce is the only warning.
-- **Drains**: Pulling up the grate in the **Southwest** corner triggers a hatch in the **west** wall, opening a **secret door to **[T4](#t4-maintenance-tunnel)****.
+- **Drains**: Pulling up the grate in the **Southwest** corner triggers a hatch in the **west** wall, opening a **secret door** to **[T4](#t4-maintenance-tunnel)**.
 - **Seams**: A hatch to **[T4](#t4-maintenance-tunnel)**. Like its companions in **[T2](#t2-columbarium)** and **[T7](#t7-light-room)**, the seams are too narrow for a crowbar or blade, and  there are no obvious handles, buttons, or levers in sight.
 
 ## T7. Light Room
@@ -536,7 +536,7 @@ Adjacent to the door (right, facing the hall) is a small slot above some blood a
 
 A former Queen, murdered by her own kind as their civilization came to an end a millennia before. Cursed to haunt the very chamber of her death, she now means to rule these lands again. In her full form, she is a 7ft-tall Lich Queen with bird-like facial features, wearing a magnificent yellow crest.
 
-- Cannot return to her full form until she has consumed **[three hearts](#vuk)** and the door at **[T10a](#t10a-interrogation-room-door)** is opened. At the start of the adventure, she has already consumed Aldra’s heart, leaving only two remaining. Until then, she is trapped in **[T10b](#t10b-interrogation-room-interior)>)**. If the party arrives within 24 hours of her transformation, she will have broken free of her prison and can be found at **[T9](#t9-chamber-of-worship)**.
+- Cannot return to her full form until she has consumed **three hearts** and the door at **[T10a](#t10a-interrogation-room-door)** is opened. At the start of the adventure, she has already consumed Aldra’s heart, leaving only two remaining. Until then, she is trapped in **[T10b](#t10b-interrogation-room-interior)**. If the party arrives within 24 hours of her transformation, she will have broken free of her prison and can be found at **[T9](#t9-chamber-of-worship)**.
 - Immune to mundane attacks, she can only be destroyed by submerging her remains in water or destroying the memory prison that binds her to this realm. If she is **reborn**, only the latter will be sufficient.
 - **Choking Hold**: As an Ash Phantom, she fully envelops her target, controlling their body like a puppet for one action, then dropping their paralyzed body to the ground (d4 STR damage). They die of asphyxiation if the ash is not somehow expelled (save STR).
 
