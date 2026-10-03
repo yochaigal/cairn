@@ -32,9 +32,9 @@ This adventure module was created using the tools found in the Cairn Warden’s 
 **Garden Day**
 _14th of Sunrise, 7728._
 _Two weeks into the dry season, during Bartermoot. Warm & Breezy._
-- Ask Each PC: **Why are you attending the Bartermoot? What are you hoping to find here?
+- Ask Each PC: **Why are you attending the Bartermoot? What are you hoping to find here?**
 
-This adventure is structured as a forestcrawl. Refer to the relevant exploration procedures found in the [Warden’s Guide](https://cairnrpg.com/second-edition/wardens-guide/wilderness-exploration/) (pg. 56) and the [Player’s Guide](https://cairnrpg.com/second-edition/players-guide/procedures/#wilderness-exploration) (pg. 70).
+This adventure is structured as a forestcrawl. Refer to the relevant exploration procedures found in the [Warden’s Guide](/second-edition/wardens-guide/wilderness-exploration/) (pg. 56) and the [Player’s Guide](/second-edition/players-guide/procedures/#wilderness-exploration) (pg. 70).
 
 **The Holiday of Bartermoot**
 
@@ -44,7 +44,7 @@ A day-long festival where representatives from the smaller towns and villages tr
 
 Taros Quill, formerly of the Marchguard, broke his Oath and fled east. An Aurifex, he had altered his mind to better serve the Guard, but those machinations had eventually driven him mad. He has built a cult following around him somewhere in the Tegny Wood, where he plans on “freeing” humanity from the scourge of civilization. In order to enact these plans, he needed rare reagents, which he stole from the Guard.
 
-But then, disaster struck! In his attempts to create a new kind of human, Quill created disease that destroys everything it touches. After his followers were transformed into plant abominations, he fled to the [Workshop](#workshop). A Bloodhound followed him there, tripping an alchemical ward set by Quill, killing him. The Hound survived, but was later transformed into the [Chitin Knight](#chitin-knight).
+But then, disaster struck! In his attempts to create a new kind of human, Quill created disease that destroys everything it touches. After his followers were transformed into plant abominations, he fled to the [Workshop](#8-workshop). A Bloodhound followed him there, tripping an alchemical ward set by Quill, killing him. The Hound survived, but was later transformed into the [Chitin Knight](#chitin-knight).
 
 **Contagion**
 
@@ -84,8 +84,8 @@ Enormous oak and birch trees surround the area, casting dark shadows over a larg
 
 - **Tents:** Built atop crumbling iron and wood. Weeds grow all around their base, as this clearing is only used during Bartermoot. It will be abandoned again tomorrow. 
 - **Livery:** Most folk recognize the yellow as belonging to the local Master of Commerce. The green belongs to no house, but instead serves as an invitation to the people of the Wood.  
-- **Market Hall:** Nearly any mundane item (and some more rare) can be found here today. Roll on the [Rumors table](#hooks-rumors).
-- **Festivities:** The smell of rich food and lilting music create a lively, joyous atmosphere. Roll on the [Rumors table](#hooks-rumors).
+- **Market Hall:** Nearly any mundane item (and some more rare) can be found here today. Roll on the [Rumors table](#hooks--rumors).
+- **Festivities:** The smell of rich food and lilting music create a lively, joyous atmosphere. Roll on the [Rumors table](#hooks--rumors).
 - **Eastern Trail:** Nearly hidden by the tents and fabrics. Large footprints and broken leaves identify this as a place where deer regularly come out of the wood to feed.  
 - **Southeast Trail:** Despite the thickness of the wood a glimmer of water is still visible between the trees.
 
@@ -94,7 +94,7 @@ Enormous oak and birch trees surround the area, casting dark shadows over a larg
 - The smallfolk arrive by foot, horse, and wagon. Though superstitious, none dare cause trouble so close to the Wood, where the veil between worlds is thin. For many, this is the farthest from home they will ever travel.
 - Residents of the Wood will come to trade today, then retreat into the Wood again until next year. Most look warily about, but some are partaking in the fun as well. 
 - A Bloodhound from the Marchguard openly stalks the area, asking questions and making everyone nervous. Their presence can mean only one thing: someone has broken their Oath.
-- Members of the [White Raven](**Critical Damage:** Target is impaled, and infected with contagion.) (Warden’s Guide, pg. 180) keep stalls here, selling trinkets and religious texts. They do not look kindly on symbols of the more “organized” religions.
+- Members of the [White Raven](/second-edition/wardens-guide/vald/#the-white-raven) (Warden’s Guide, pg. 180) keep stalls here, selling trinkets and religious texts. They do not look kindly on symbols of the more “organized” religions.
 
 ### Market Specials
 Mundane items from the Marketplace are discounted by 25% here.
@@ -138,10 +138,13 @@ A dozen boulders are arranged in a small **circle** around a **stump**. Set atop
 - **Tablets:** Extremely heavy, requiring at least two people to lift. 
 	- The Pixie will curse anyone that shows disrespect to the tablets, causing them to fail every Save for a week and a day. Restoring the tablet to its proper state reverses their luck (they automatically succeed their next Save). The tablets are not special in any way. 
 - **Mud:** Deer prints are visible and can be followed uphill towards the Slanted Gazebo (6.) Due to the mud characters should add one Fatigue for traveling by foot.
+
 ### Pixie
+
 _3 HP, 3 STR, 15 DEX, 13 WIL_
+
 - Tiny humanoids with insectoid wings. Naturally invisible.
-- Can cast _[Sleep](https://cairnrpg.com/second-edition/wardens-guide/spellbooks/)_ and _[Masquerade](https://cairnrpg.com/second-edition/wardens-guide/spellbooks/)_ at will.
+- Can cast _[Sleep](/second-edition/wardens-guide/spellbooks/)_ and _[Masquerade](/second-edition/wardens-guide/spellbooks/)_ at will.
 
 ![Stump](/adventures/first-party/img/cas-3/Stump.png)
 
@@ -179,7 +182,7 @@ A decrepit **gazebo** sinks slowly into the mud alongside a fast-flowing **river
 - **Gazebo:** The building’s paint still shines in the river mist, while its bright cushions and fine tablework stand in place as if glued to its surface, despite the angle.
 	- A person stepping onto its surface does not slip and fall; it is as if they are walking on level ground. Immediately upon someone entering, the gazebo will let out an audible groan of anguish.
 	- If food is placed anywhere in the gazebo, a great sigh will emanate from within. A voice will be heard inside the minds of any creature nearby, offering to answer a single question regarding the Wood and its denizens. All Fatigue is cleansed.
-	- If asked, the gazebo will say that it was enchanted to act as a meeting place for those who came to parley with the [Neighbors](https://cairnrpg.com/second-edition/wardens-guide/vald/#the-neighbors) (Warden’s Guide, pg. 182). The structure has been long forgotten. 
+	- If asked, the gazebo will say that it was enchanted to act as a meeting place for those who came to parley with the [Neighbors](/second-edition/wardens-guide/vald/#the-neighbors) (Warden’s Guide, pg. 182). The structure has been long forgotten. 
 - **River:** Near the muddy shore are deer footprints leading southwest towards the [4. Stone Circle](#4-stone-circle). The mud is thick here, and the current is strong. Characters not using a boat should add one Fatigue.
 - **Wood:** Remains of a boat, torn apart from rocks. Dead fish litter the area; a few are stained with an orange residue (Contagion). 
 	- Intact fishing gear can be extracted from beneath some of the floating debris.
