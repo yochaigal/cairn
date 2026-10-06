@@ -8,6 +8,12 @@ encoding: UTF-8
 plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
+  - jekyll-jtd-toc-nav 
+  - jekyll-dice-tray
+  - jekyll-hover-popup
+  - jekyll-image-links
+  - rpg-callouts 
+  
 include:
   - js
 
