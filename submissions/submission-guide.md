@@ -15,7 +15,7 @@ Markdown is a syntax that uses entirely text characters in order to do fancy for
 To create a page on the Cairn website, you need to create a text file with your content, written in the Markdown format and ending in the *.md suffix. GitHub then handles the rest!
 
 ### Creating a file in markdown
- - Create a file with a .md extension using your favorite text editor. While programs like Microsoft Notepad and TextEdit on MacOS get the job done, there are editors out there that make writing markdown a breeze. An example is [GhostWriter](https://ghostwriter.kde.org/), [Notepad++](https://notepad-plus-plus.org/downloads/) on Windows and [TextMate](https://macromates.com/) are good options. 
+ - Create a file with a .md extension using your favorite text editor. While programs like Microsoft Notepad and TextEdit on MacOS get the job done, there are editors out there that make writing markdown a breeze. [Obsidian](https://obsidian.md) is a popular cross-platform example, in addition to [GhostWriter](https://ghostwriter.kde.org/), [Notepad++](https://notepad-plus-plus.org/downloads/) [TextMate](https://macromates.com/). 
  - Type text using the [Markdown](https://www.markdownguide.org/tools/jekyll/) format into the file. Please refer to the Cairn [Style Guide](/submissions/style-guide) when writing your submission!
  - Save the file to the [appropriate folder](#folders) on the website using Github (see below).
  

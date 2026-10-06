@@ -9,10 +9,10 @@ plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
   - jekyll-jtd-toc-nav 
-  - jekyll-hover-popup
+  - jekyll-dice-tray
   - jekyll-image-links
   - rpg-callouts
-
+  
 include:
   - js
 
