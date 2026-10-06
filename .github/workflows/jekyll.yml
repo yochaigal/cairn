@@ -2,7 +2,7 @@ name: Deploy Jekyll site to Pages
 
 on:
   push:
-    branches: ["main"] # Change to your default branch name if different
+    branches: ["main"]
 
 permissions:
   contents: read
@@ -24,7 +24,8 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.3'
-          bundler-cache: true # Runs bundle install and caches gems
+          bundler: default
+          bundler-cache: true
 
       - name: Setup Pages
         id: pages
