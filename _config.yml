@@ -1,6 +1,6 @@
 title: Cairn
 permalink: pretty
-remote_theme: pmarsceill/just-the-docs
+theme: just-the-docs
 site.url: https://cairnrpg.com
 logo: "/img/logo.svg"
 color_scheme: dark
@@ -12,7 +12,7 @@ plugins:
   - jekyll-dice-tray
   - jekyll-hover-popup
   - jekyll-image-links
-  - rpg-callouts 
+  - rpg-callouts
   
 include:
   - js

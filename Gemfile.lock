@@ -44,6 +44,8 @@ GEM
       jekyll (>= 3.7, < 5.0)
     jekyll-image-links (0.1.2)
       jekyll (>= 3.7, < 5.0)
+    jekyll-include-cache (0.3.1)
+      jekyll (>= 3.7, < 5.0)
     jekyll-jtd-toc-nav (0.3.0)
       jekyll (>= 3.0)
       nokogiri (>= 1.13)
@@ -51,10 +53,17 @@ GEM
       jekyll (>= 3.3, < 5.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
+    jekyll-seo-tag (2.9.1)
+      jekyll (>= 3.8, < 5.0)
     jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
+    just-the-docs (0.12.0)
+      jekyll (>= 3.8.5)
+      jekyll-include-cache
+      jekyll-seo-tag (>= 2.0)
+      rake (>= 12.3.1)
     kramdown (2.4.0)
       rexml
     kramdown-parser-gfm (1.1.0)
@@ -86,6 +95,7 @@ GEM
       forwardable-extended (~> 2.6)
     public_suffix (5.1.1)
     racc (1.8.1)
+    rake (13.4.2)
     rb-fsevent (0.11.2)
     rb-inotify (0.11.1)
       ffi (~> 1.0)
@@ -118,6 +128,7 @@ DEPENDENCIES
   jekyll-jtd-toc-nav
   jekyll-redirect-from
   jekyll-sitemap
+  just-the-docs
   kramdown-parser-gfm
   rpg-callouts
 
@@ -144,11 +155,14 @@ CHECKSUMS
   jekyll-dice-tray (0.3.1) sha256=15d957c913e2d39a98a8f7783f369a6c88175b9ed0b4634017770af8c5b143da
   jekyll-hover-popup (0.3.2) sha256=08dc84ad8ea570db09c494bf77f93a9f4524e562bc34b5dccfa9ea2780acca4e
   jekyll-image-links (0.1.2) sha256=5bb78843f55bce17e8798df4d220c7288f44291aaa092b1b2aa020836e39f5f8
+  jekyll-include-cache (0.3.1) sha256=4ba9c00b05247245420656dc313826ca761c4e0b13c0976ad298225f9f7792d3
   jekyll-jtd-toc-nav (0.3.0) sha256=f8c556a292cdbb7be476dcb13c9cc09c5a6c73fb90bbb86412c9670fd6456e03
   jekyll-redirect-from (0.16.0) sha256=6635cae569ef9b0f90ffb71ec014ba977177fafb44d32a2b0526288d4d9be6db
   jekyll-sass-converter (1.5.2) sha256=53773669e414dc3bb070113befacb808576025a28cfa4a4accc682e90a9c1101
+  jekyll-seo-tag (2.9.1) sha256=ed5c757a091048b6ef9109f856f84a29beaeb70f531ba5775a5e92129a28093e
   jekyll-sitemap (1.4.0) sha256=0de08c5debc185ea5a8f980e1025c7cd3f8e0c35c8b6ef592f15c46235cf4218
   jekyll-watch (2.2.1) sha256=bc44ed43f5e0a552836245a54dbff3ea7421ecc2856707e8a1ee203a8387a7e1
+  just-the-docs (0.12.0) sha256=15f2839ac9082898d60f33b978aa6f8e46fc50ba8fac20ae7a7f0e1fb295523e
   kramdown (2.4.0) sha256=b62e5bcbd6ea20c7a6730ebbb2a107237856e14f29cebf5b10c876cc1a2481c5
   kramdown-parser-gfm (1.1.0) sha256=fb39745516427d2988543bf01fc4cf0ab1149476382393e0e9c48592f6581729
   liquid (4.0.4) sha256=4fcfebb1a045e47918388dbb7a0925e7c3893e58d2bd6c3b3c73ec17a2d8fdb3
@@ -166,6 +180,7 @@ CHECKSUMS
   pathutil (0.16.2) sha256=e43b74365631cab4f6d5e4228f812927efc9cb2c71e62976edcb252ee948d589
   public_suffix (5.1.1) sha256=250ec74630d735194c797491c85e3c6a141d7b5d9bd0b66a3fa6268cf67066ed
   racc (1.8.1) sha256=4a7f6929691dbec8b5209a0b373bc2614882b55fc5d2e447a21aaa691303d62f
+  rake (13.4.2) sha256=cb825b2bd5f1f8e91ca37bddb4b9aaf345551b4731da62949be002fa89283701
   rb-fsevent (0.11.2) sha256=43900b972e7301d6570f64b850a5aa67833ee7d87b458ee92805d56b7318aefe
   rb-inotify (0.11.1) sha256=a0a700441239b0ff18eb65e3866236cd78613d6b9f78fea1f9ac47a85e47be6e
   rexml (3.4.4) sha256=19e0a2c3425dfbf2d4fc1189747bdb2f849b6c5e74180401b15734bc97b5d142
