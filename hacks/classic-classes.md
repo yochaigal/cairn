@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Classic Classes
-parent: Third Party
-grand_parent: Hacks
+parent: Hacks
 ---
 
 # Classic Classes

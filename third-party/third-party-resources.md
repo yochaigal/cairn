@@ -1,11 +1,17 @@
 ---
 layout: default
 title: Third-Party Resources
-nav_order: 2
 parent: Third Party
+nav_order: 2
 ---
 
 # Third-party Resources
+
+## Itch Collections
+- [Cairn Adventures](https://itch.io/c/1352509/cairn-adventures)
+- [Cairn Resources](https://itch.io/c/2475049/cairn-resources)
+- [Cairn Hacks](https://itch.io/c/1702301/cairn-hacks)
+- [Cairn In Other Languages](https://itch.io/c/2475051/cairn-in-other-languages)
 
 # Miscellaneous Resources
 - [Pocket Cairn](https://brightsdays.github.io/pocket-cairn/) (A character sheet tracker)
@@ -22,9 +28,3 @@ parent: Third Party
 - [d100 Potential Spell Recharge Conditions](https://blog.d4caltrops.com/2022/09/d100-potential-spell-recharge-conditions.html)
 - [Extra Stones](https://github.com/seedlinggames/extra-stones/blob/main/trinkets.md)
 - [Cairn Bestiary (Google Sheets)](https://docs.google.com/spreadsheets/d/1Fnb7khcg0hv3xuBSbSkM6GvRayUYMYyX9q0HmxzoKTs)
-
-## Itch Collections
-- [Cairn Adventures](https://itch.io/c/1352509/cairn-adventures)
-- [Cairn Resources](https://itch.io/c/2475049/cairn-resources)
-- [Cairn Hacks](https://itch.io/c/1702301/cairn-hacks)
-- [Cairn In Other Languages](https://itch.io/c/2475051/cairn-in-other-languages)

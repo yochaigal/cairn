@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Funnel Rules
-grand_parent: Hacks
-parent: Third Party
+parent: Hacks
 ---
 
 # Funnel Rules

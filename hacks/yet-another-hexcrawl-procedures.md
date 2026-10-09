@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Hexcrawl Procedures
-grand_parent: Hacks
-parent: Third Party
+parent: Hacks
 ---
 
 # Yet Another Hexcrawl Procedure

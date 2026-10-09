@@ -2,7 +2,7 @@
 layout: default
 title: GLOG Spells
 parent: Hacks
-nav_order: 2
+nav_order: 3
 ---
 
 

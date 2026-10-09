@@ -1,12 +1,11 @@
 ---
 layout: default
-title: Even More Third Party Hacks
-parent: Third Party
-grand_parent: Hacks
-nav_order: 20
+title: Even More Hacks
+parent: Hacks
+nav_order: 13
 ---
 
-# Even More Third Party Hacks
+# Even More Hacks
 
 ## Complete Hacks
 * [**Almaia**](https://1d6gnolls.itch.io/almaia)

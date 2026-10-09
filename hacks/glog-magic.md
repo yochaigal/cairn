@@ -2,7 +2,7 @@
 layout: default
 title: GLOG Magic
 parent: Hacks
-nav_order: 1
+nav_order: 2
 ---
 
 # GLOG Magic Hack

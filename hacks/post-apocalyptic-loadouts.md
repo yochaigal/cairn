@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Post Apocalyptic Loadouts
-parent: Third Party
+parent: Third Party Hacks
 grand_parent: Hacks
 ---
 
