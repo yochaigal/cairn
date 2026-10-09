@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Third-Party Content
-parent: Resources
-nav_order: 14
+parent: Third Party
+nav_order: 1
 ---
 
 # Third-Party Content
