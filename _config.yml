@@ -12,7 +12,7 @@ plugins:
   - jekyll-dice-tray
   - jekyll-image-links
   - rpg-callouts
-  
+  - jekyll-titles-from-headings
 include:
   - js
 

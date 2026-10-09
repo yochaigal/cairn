@@ -3,6 +3,8 @@ GEM
   specs:
     addressable (2.9.0)
       public_suffix (>= 2.0.2, < 8.0)
+    base64 (0.3.0)
+    bigdecimal (4.1.3)
     colorator (1.1.0)
     concurrent-ruby (1.3.8)
     csv (3.3.6)
@@ -55,6 +57,8 @@ GEM
       jekyll (>= 3.8, < 5.0)
     jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
+    jekyll-titles-from-headings (0.5.7)
+      jekyll (>= 3.3, < 5.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     just-the-docs (0.12.0)
@@ -120,17 +124,22 @@ PLATFORMS
   x86_64-linux-musl
 
 DEPENDENCIES
+  base64
+  bigdecimal
   jekyll-dice-tray
   jekyll-image-links
   jekyll-jtd-toc-nav
   jekyll-redirect-from
   jekyll-sitemap
+  jekyll-titles-from-headings
   just-the-docs
   kramdown-parser-gfm
   rpg-callouts
 
 CHECKSUMS
   addressable (2.9.0) sha256=7fdf6ac3660f7f4e867a0838be3f6cf722ace541dd97767fa42bc6cfa980c7af
+  base64 (0.3.0) sha256=27337aeabad6ffae05c265c450490628ef3ebd4b67be58257393227588f5a97b
+  bigdecimal (4.1.3) sha256=61ebe1e5e559bdc3cc6f2c0ee7f427321fc838f59611c294356eb04d6e21cf66
   bundler (4.0.14) sha256=d09a0a965cf772266a7e49e83610be7c2f4e49e61134c42a56804bb383cc24b8
   colorator (1.1.0) sha256=e2f85daf57af47d740db2a32191d1bdfb0f6503a0dfbc8327d0c9154d5ddfc38
   concurrent-ruby (1.3.8) sha256=b2f1be836e968ccc78ccfce277ea79c72a88633f22306782c16ff23fb415d1e1
@@ -157,6 +166,7 @@ CHECKSUMS
   jekyll-sass-converter (1.5.2) sha256=53773669e414dc3bb070113befacb808576025a28cfa4a4accc682e90a9c1101
   jekyll-seo-tag (2.9.1) sha256=ed5c757a091048b6ef9109f856f84a29beaeb70f531ba5775a5e92129a28093e
   jekyll-sitemap (1.4.0) sha256=0de08c5debc185ea5a8f980e1025c7cd3f8e0c35c8b6ef592f15c46235cf4218
+  jekyll-titles-from-headings (0.5.7) sha256=927437000037da3433e0d4c8f509c56be811ab123ea70548acb914df0dd7a33d
   jekyll-watch (2.2.1) sha256=bc44ed43f5e0a552836245a54dbff3ea7421ecc2856707e8a1ee203a8387a7e1
   just-the-docs (0.12.0) sha256=15f2839ac9082898d60f33b978aa6f8e46fc50ba8fac20ae7a7f0e1fb295523e
   kramdown (2.4.0) sha256=b62e5bcbd6ea20c7a6730ebbb2a107237856e14f29cebf5b10c876cc1a2481c5
