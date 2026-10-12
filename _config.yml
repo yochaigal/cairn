@@ -1,7 +1,7 @@
 title: Cairn
 permalink: pretty
 theme: just-the-docs
-site.url: https://cairnrpg.com
+url: https://cairnrpg.com
 logo: "/img/logo.svg"
 color_scheme: dark
 encoding: UTF-8
