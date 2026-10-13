@@ -24,9 +24,8 @@ grand_parent: Second Edition
 
 ### Names Formula
 
-|        |                                               |
-| ------ | --------------------------------------------- |
 | **d6** | **Formula**                                   |
+| :------ | :--------------------------------------------- |
 | **1**  | (The) **[Noun]** **[POI]**                    |
 | **2**  | (The) **[Adjective]** **[POI]**               |
 | **3**  | **[POI]** of (the) **[Noun]**                 |
@@ -36,9 +35,8 @@ grand_parent: Second Edition
 
 ## Adjectives
 
-|          |               |          |               |
-| -------- | ------------- | -------- | ------------- |
 | **d100** | **Adjective** | **d100** | **Adjective** |
+| :-------- | :------------- | :-------- | :------------- |
 | **1**    | Aging         | **51**   | Furious       |
 | **2**    | Amber         | **52**   | Gaping        |
 | **3**    | Ancient       | **53**   | Gleaming      |
@@ -92,9 +90,8 @@ grand_parent: Second Edition
 
 ## Nouns
 
-|          |            |          |           |
-| -------- | ---------- | -------- | --------- |
 | **d100** | **Noun**   | **d100** | **Noun**  |
+| :-------- | :---------- | :-------- | :--------- |
 | **1**    | Abyss      | **51**   | Haven     |
 | **2**    | Alliance   | **52**   | Horror    |
 | **3**    | Amber      | **53**   | Iron      |
@@ -148,9 +145,8 @@ grand_parent: Second Edition
 
 ## Terrain Synonyms
 
-|                |                                                         |
-| -------------- | ------------------------------------------------------- |
 | **Terrain**    | **Synonym**                                             |
+| :-------------- | :------------------------------------------------------- |
 | **Beaches**    | seaside, shore, coast, seaboard, foreshore, marina      |
 | **Bogs**       | marsh, morass, quad, slough, fens                       |
 | **Canyons**    | ravine, chasm, abyss, gulf, gulch                       |
@@ -183,9 +179,8 @@ grand_parent: Second Edition
 
 #### Group Types
 
-|         |             |
-| ------- | ----------- |
 | **d20** | **Group**   |
+| :------- | :----------- |
 | **1**   | Assembly    |
 | **2**   | Brotherhood |
 | **3**   | Circle      |
@@ -209,9 +204,8 @@ grand_parent: Second Edition
 
 #### Faction Names Formula
 
-|        |                                                 |
-| ------ | ----------------------------------------------- |
 | **d6** | **Formula**                                     |
+| :------ | :----------------------------------------------- |
 | **1**  | (The) **[Noun]** **[Group]**                    |
 | **2**  | (The) **[Adjective]** **[Group]**               |
 | **3**  | **[Group]** of (the) **[Noun]**                 |
@@ -228,9 +222,8 @@ grand_parent: Second Edition
 
 ### Ruler Names Formula
 
-|        |                                                  |
-| ------ | ------------------------------------------------ |
 | **d6** | **Formula**                                      |
+| :------ | :------------------------------------------------ |
 | **1**  | (The) **[Noun]** **[Rulers]**                    |
 | **2**  | (The) **[Adjective]** **[Rulers]**               |
 | **3**  | **[Rulers]** of (the) **[Noun]**                 |
@@ -240,9 +233,8 @@ grand_parent: Second Edition
 
 ### Ruler Types
 
-|         |                   |
-| ------- | ----------------- |
 | **d20** | **Ruler**         |
+| :------- | :----------------- |
 | **1**   | **Alliance**      |
 | **2**   | **Barony**        |
 | **3**   | **Commonwealth**  |
@@ -272,9 +264,8 @@ grand_parent: Second Edition
 - Use contrasting words (e.g. _Twisted Canopy_) to evoke an interesting point about the location.
 - Make it sound nice. Alliteration and pleasing combinations can create pleasant sounds. _Whispering Woods_ is more pleasing to the ear than _Tangled Woods._ 
 
-|          |                |             |
-| -------- | -------------- | ----------- |
 | **d100** | **Adjectives** | **Nouns**   |
+| :-------- | :-------------- | :----------- |
 | **1**    | Abandoned      | Arbors      |
 | **2**    | Ancient        | Arch        |
 | **3**    | Beckoning      | Blossoms    |

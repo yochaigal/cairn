@@ -340,23 +340,20 @@ Se você quiser algo mais próximo das classes tradicionais, consulte a lista de
 
 #### Armadura
 
-|         |            |               |        |
-| :-----: | :--------: | :-----------: | :----: |
 |   1-3   |    4-14    |     15-19     |   20   |
+| :----- | :-------- | :----------- | :---- |
 | Nenhuma | Brigantina | Cota de Malha | Placas |
 
 #### Elmos e Escudos
 
-|        |       |        |               |
-| :----: | :---: | :----: | :-----------: |
 |  1-13  | 14-16 | 17-19  |      20       |
+| :---- | :--- | :---- | :----------- |
 | Nenhum | Elmo  | Escudo | Elmo e Escudo |
 
 #### Armas
 
-|                        |                       |                               |                                                 |
-| :--------------------: | :-------------------: | :---------------------------: | :---------------------------------------------: |
 |          1-5           |         6-14          |             15-19             |                       20                        |
+| :-------------------- | :------------------- | :--------------------------- | :--------------------------------------------- |
 | Adaga, Porrete, Cajado | Espada, Maça, Machado | Arco Longo, Besta, Estilingue | Alabarda, Martelo de Guerra, Machado de Batalha |
 
 #### Equipamento de Expedição
@@ -391,9 +388,8 @@ Se você quiser algo mais próximo das classes tradicionais, consulte a lista de
 
 #### Item Bônus (role na tabela indicada)
 
-|                         |                          |                  |                 |
-| :---------------------: | :----------------------: | :--------------: | :-------------: |
 |           1-5           |           6-13           |      14-17       |      18-20      |
+| :--------------------- | :---------------------- | :-------------- | :------------- |
 | Ferramenta ou Bugiganga | Equipamento de Expedição | Armadura ou Arma | Livro de Fetiço |
 
 <p></p>
@@ -636,9 +632,8 @@ Escudos, manoplas e elmos podem fornecer benefícios adicionais de acordo com se
 **Reações**
 Quando os PJs encontram um PNJ cuja reação ao grupo não é óbvia, o Diretor pode rolar 2d6 e consultar a seguinte tabela:
 
-|        |             |         |         |            |
-| :----: | :---------: | :-----: | :-----: | :--------: |
 |   2    |     3-5     |   6-8   |  9-11   |     12     |
+| :---- | :--------- | :----- | :----- | :-------- |
 | Hostil | Desconfiado | Curioso | Bondoso | Prestativo |
 
 **Moral**

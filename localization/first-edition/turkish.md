@@ -351,23 +351,20 @@ Geleneksel karakter sınıflarına yakın bir şeyler arıyorsanız [**İsteğe 
 
 #### Zırh
 
-|  |            |           |       |
-| :---: | :--------: | :-------: | :---: |
 |  1-3  |    4-14       |   15-19       |  20          |
+| :--- | :-------- | :------- | :--- |
 | Yok   | Perçinli Zırh | Zincir Zırh   | Plaka Zırh   | 
 
 #### Miğferler ve Kalkanlar
 
-|  |        |        |                 |
-| :---------------: | :----: | :----: | :-------------: |
 |       1-13        | 14-16  | 17-19   |       20         |
+| :--------------- | :---- | :---- | :------------- |
 |       Yok         | Miğfer | Kalkan  | Miğfer ve Kalkan |
 
 #### Silahlar
 
-|                |                  |                          |                                |
-| :-------------------: | :--------------: | :----------------------: | :----------------------------: |
 |          1-5          |       6-14       |          15-19           |               20               |
+| :------------------- | :-------------- | :---------------------- | :---------------------------- |
 | Hançer, Çivili Sopa, Yürüyüş Sopası | Kılıç, Gürz, Balta | Uzun Yay, Arbalet, Çoban Sapanı | Baltalı Mızrak, Savaş Çekici, Savaş Baltası |
 
 #### Keşif Malzemeleri
@@ -404,9 +401,8 @@ Geleneksel karakter sınıflarına yakın bir şeyler arıyorsanız [**İsteğe 
 
 #### Fazladan Eşya (Belirtilen Çizelgede Zar Atın)
 
-|                  |                    |                 |           |
-| :--------------: | :----------------: | :-------------: | :-------: |
 |       1-5          |        6-13         |      14-17        |   18-20     |
+| :-------------- | :---------------- | :------------- | :------- |
 | Alet ya da Öteberi | Keşif Malzemeleri   | Zırh ya da Silah  | Büyü Kitabı |
 
 <p></p>
@@ -655,9 +651,8 @@ Kalkanlar, zırh eldivenleri ve miğferler kullanım şekillerine göre ek fayda
 ### Davranışlar
 When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll 2d6 and consult the following table:
 
-| | | | | |
-| :-----: | :--: | :-----: | :--: | :--: |
 |    2    | 3-5  |   6-8   | 9-11 | 12      |
+| :----- | :--- | :----- | :--- | :--- |
 | Düşmanca | Temkinli | Meraklı | Nazik | Yardımsever |
 
 ### Moral

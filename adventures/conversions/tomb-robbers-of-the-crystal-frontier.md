@@ -82,9 +82,8 @@ title: Tomb Robbers of the Crystal Frontier
 
 ### 2) Mirror of the Past
 
-|                  |                               |
-| ---------------- | ----------------------------- |
 | Events Witnessed | Effects of Prolonged Viewing |
+| :---------------- | :----------------------------- |
 | **2** A Crowned King and his Wazir tour a natural crystal cave, the Wazir gestures and the King sneers. | Several vague ideas about crystal structure form occur to the viewer, providing "Training" in Tomb Crystal Faceting (see [Appendix A](/adventures/conversions/tomb-robbers-of-the-crystal-frontier/#appendix-a---occuliths)). |
 | **3** Workers toil at the edge of exhaustion. They carve a throne, and connect it to machinery they're installing in the walls and floors. | The workers look back, eyes filled with hate. Lith Mummies, Wights and Zombies are treated as if they rolled Hostile for their *Reaction* and seek to immediately kill the viewer. |
 | **4** A Noble in battered armor kneels before a Crowned King. The King is angry. He grips the throne, and Burning Rays from the walls melt the Noble. | A curse of rage boils within, making the viewer yearn for brutal combat. Viewer will no longer use ranged weapons, and must make a WIL save to retreat from battle. |
@@ -174,9 +173,8 @@ title: Tomb Robbers of the Crystal Frontier
 
 #### Demands of Empyrean Wraith
 
-|          |          |          |
-| -------- | -------- | -------- |
 | **D10** | **Demand** | **Wraith / Effect If Ignored** |
+| :-------- | :-------- | :-------- |
 | 1 | Gorge oneself to near bursting. Now and once a day, on sweets if available. | A petulant child / Constant screaming destroys mind (-d6 WIL)|
 | 2 | Murder any wizard encountered, eat their brain to absorb their power | Elderly Sorcerer / Insidious arguments about the nature of the universe (-d6 WIL) |
 | 3 | Never show mercy. Any who raise their hand against you must die. | Embittered soldier / Slow atrophy of the limbs (-d6 STR) |
@@ -218,9 +216,8 @@ title: Tomb Robbers of the Crystal Frontier
 
 ### Crystal Poisoning Infection Stage & Effect
 
-|           |            |
-| --------- | ---------- | 
 | **Stage** | **Effect** |
+| :--------- | :---------- |
 | I | Bodily excretions turn to glittering pastel Tomb Crystal. Most notably, sweat will harden into fragile sheets, and tiny crystal tears must occasionally be picked out of one's eyes. **Suffer one Fatigue upon reaching this stage. No other negative effects**. | 
 | II | Patches of crystal build up on bone, hair, and skin. They result in random bruises, stiff joints, and frequent aching pains.**-1 permanent DEX loss.** | 
 | III | Eyes cloud and craze with tiny growths, while shoots of crystal push out through flesh. The poisoned character's immune system begins to break down. **-2 permanent loss to both STR and DEX.** | 
@@ -231,9 +228,8 @@ title: Tomb Robbers of the Crystal Frontier
 
 ### Occulith Size and Effect 
 
-|          |          |          |
-| -------- | -------- | -------- |
 | **Name** | **Value** | **Effect** |
+| :-------- | :-------- | :-------- |
 | Spark | 100 GP | Allows possessor to cast a spell without adding Fatigue, or restores 1 charge to a relic. |
 | Ember | 500 GP | Allows the possessor to cast a spell without adding Fatigue, restore 2 charges to a relic, or enhance a spell quickly without consequence. |
 | Carbuncle | 1000 GP | Allows the possessor to cast a spell without adding Fatigue and enhance it quickly without consequence, or restore 4 charges to a relic. |

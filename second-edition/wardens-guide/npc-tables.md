@@ -7,9 +7,8 @@ grand_parent: Second Edition
 
 # NPC Tables
 
-|         |           |
-| ------- | --------- |
 | **d20** | **Name**  |
+| :------- | :--------- |
 | **1**   | Alaric    |
 | **2**   | Carver    |
 | **3**   | Cleaver   |
@@ -31,9 +30,8 @@ grand_parent: Second Edition
 | **19**  | Quill     |
 | **20**  | Seraphine |
 
-|         |           |
-| ------- | --------- |
 | **d20** | **Name**  |
+| :------- | :--------- |
 | **1**   | Ainsley   |
 | **2**   | Azura     |
 | **3**   | Brave     |
@@ -55,9 +53,8 @@ grand_parent: Second Edition
 | **19**  | Tanner    |
 | **20**  | Thyme     |
 
-|         |          |
-| ------- | -------- |
 | **d20** | **Name** |
+| :------- | :-------- |
 | **1**   | Alder    |
 | **2**   | Alistair |
 | **3**   | Caius    |
@@ -81,9 +78,8 @@ grand_parent: Second Edition
 
 ## Quirks
 
-|         |                |
-| ------- | -------------- |
 | **d20** | **Quirk 1**    |
+| :------- | :-------------- |
 | **1**   | Alert          |
 | **2**   | Bald           |
 | **3**   | Bright Eyes    |
@@ -107,9 +103,8 @@ grand_parent: Second Edition
 
 ## Background
 
-|         |                |
-| ------- | -------------- |
 | **d20** | **Background** |
+| :------- | :-------------- |
 | **1**   | Academic       |
 | **2**   | Assassin       |
 | **3**   | Blacksmith     |
@@ -133,9 +128,8 @@ grand_parent: Second Edition
 
 ## Goals
 
-|         |              |
-| ------- | ------------ |
 | **d20** | **Goal**     |
+| :------- | :------------ |
 | **1**   | Ascension    |
 | **2**   | Cleansing    |
 | **3**   | Conservation |
@@ -159,9 +153,8 @@ grand_parent: Second Edition
 
 ## Traits
 
-|         |               |
-| ------- | ------------- |
 | **d20** | **Virtues**   |
+| :------- | :------------- |
 | **1**   | Cautious      |
 | **2**   | Compassionate |
 | **3**   | Connected     |
@@ -183,9 +176,8 @@ grand_parent: Second Edition
 | **19**  | Tenacious     |
 | **20**  | Witty         |
 
-|         |              |
-| ------- | ------------ |
 | **d20** | **Vices**    |
+| :------- | :------------ |
 | **1**   | Aloof        |
 | **2**   | Corrupt      |
 | **3**   | Craven       |

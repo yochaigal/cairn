@@ -156,9 +156,8 @@ There are 24 hours in a day and 6 days in a week. Each month has 24 days (4 week
 
 ### Holidays, Festivals, & Events Sorted by Date
 
-|               |                                                            |                                                                                                                                                                            |
-| ------------- | ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Month**     | **Date**                                                   | **Event**                                                                                                                                                                  |
+| :------------- | :---------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1. Mourning**  |                                                            |                                                                                                                                                                            |
 |               | Midnight on the 4th (Tithe Day)                            | Dead season begins.                                                                                                                                                        |
 |               | Dusk on the 24th (Resting Day)                             | _First Light_: Commemorating the end of the first month of the new year. Torches and fire are lit all night, turning night to day.                                         |
@@ -203,9 +202,8 @@ There are 24 hours in a day and 6 days in a week. Each month has 24 days (4 week
 
 ## Weather in Vald
 
-|        |                 |                     |                    |                 |
-| ------ | --------------- | ------------------- | ------------------ | --------------- |
 | **d6** | **Dead**        | **Dry**             | **Wet**            | **Harvest**     |
+| :------ | :--------------- | :------------------- | :------------------ | :--------------- |
 | **1**  | Cold and clear  | Hot and sunny       | Light rain         | Mild and sunny  |
 | **2**  | Frosty mornings | Warm and sunny      | Overcast           | Cool and clear  |
 | **3**  | Overcast skies  | Warm and breezy     | Breezy             | Warm and sunny  |

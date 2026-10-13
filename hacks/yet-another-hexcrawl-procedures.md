@@ -54,9 +54,8 @@ For each night the party skips _making camp_ or is _forced to march_, each PC ge
 
 ### Events Table
 
-|                         |                  |             |                  |           |
-| ----------------------- | ---------------- | ----------- | ---------------- | --------- |
 | **d6+Terrain modifier** | **Travel**       | **Explore** | **Supply**       | **Camp**  |
+| :----------------------- | :---------------- | :----------- | :---------------- | :--------- |
 | <=1                     | Encounter        | Encounter   | Encounter        | Encounter |
 | 2                       | Hazard           | Hazard      | Hazard           | Hazard    |
 | 3                       | Location/Feature | Hazard      | Location/Feature | Quiet     |
@@ -82,9 +81,8 @@ Nothing noticeable happens. The party members lose all their Fatigue (if applica
 ### Sight distance
 (1 HEX = 6 miles / 10 Km)
 
-|||
-| --------------------------- | ----------- |
 | **Height**                  | **Horizon** |
+| :--------------------------- | :----------- |
 | Human size                  | Current Hex |
 | 50' - 15m - Tree            | 1 Hex       |
 | 100' - 30m – Watchtower     | 2 Hexes     |

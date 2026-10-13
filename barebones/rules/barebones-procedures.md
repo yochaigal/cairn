@@ -112,25 +112,22 @@ The weather, terrain, darkness, injured party members, and other obstacles can i
 
 ### Path Difficulty
 
-|            |             |                          |
-| ---------- | ----------- | ------------------------ |
 | **Path**   | **Penalty** | **Odds of Getting Lost** |
+| :---------- | :----------- | :------------------------ |
 | Roads      | None        | None                     |
 | Trails     | +1 Watch    | 2-in-6                   |
 | Wilderness | +2 Watches  | 3-in-6                   |
 
-|                   |             |
-| ----------------- | ----------- |
 | **Path Distance** | **Penalty** |
+| :----------------- | :----------- |
 | Short             | +1 Watch    |
 | Medium            | +2 Watches  |
 | Long              | +3 Watches  |
 
 ## Terrain Difficulty
 
-|                |                               |             |                                                                                                       |
-| -------------- | ----------------------------- | ----------- | ----------------------------------------------------------------------------------------------------- |
 | **Difficulty** | **Terrain**                   | **Penalty** | **Factors**                                                                                           |
+| :-------------- | :----------------------------- | :----------- | :----------------------------------------------------------------------------------------------------- |
 | **Easy**       | **Plains, plateaus, valleys** | none        | _Safe areas for rest, fellow travelers, good visibility_                                              |
 | **Tough**      | **Forests, deserts, hills**   | +1 Watch    | _Wild animals, flooding, broken equipment, falling rocks, unsafe shelters, hunter's traps_            |
 | **Perilous**   | **Mountains, jungles, swamp** | +2 Watches  | _Quicksand, sucking mud, choking vines, unclean water, poisonous plants and animals, poor navigation_ |
@@ -141,9 +138,8 @@ Each day, the Warden should roll on the weather table for the appropriate season
 
 #### Weather Type
 
-|        |            |            |            |            |
-| :----: | :--------: | :--------: | :--------: | :--------: |
 | **d6** | **Spring** | **Summer** |  **Fall**  | **Winter** |
+| :---- | :-------- | :-------- | :-------- | :-------- |
 | **1**  |    Nice    |    Nice    |    Fair    |    Fair    |
 | **2**  |    Fair    |    Nice    |    Fair    | Unpleasant |
 | **3**  |    Fair    |    Fair    | Unpleasant | Inclement  |
@@ -153,9 +149,8 @@ Each day, the Warden should roll on the weather table for the appropriate season
 
 #### Weather Difficulty
 
-|                  |                                                                                                         |                                                           |
-| :--------------: | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
 |   **Weather**    | **Effect**                                                                                              | **Examples**                                              |
+| :-------------- | :------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------- |
 |     **Nice**     | Favorable conditions for travel.                                                                        | _Clear skies, sunny_                                      |
 |     **Fair**     | Favorable conditions for travel.                                                                        | _Overcast, breezy_                                        |
 |  **Unpleasant**  | Add a **Fatigue** _or_ add one **watch** to the journey.                                                | _Gusting winds, rain showers, sweltering heat, chill air_ |

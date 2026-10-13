@@ -28,9 +28,8 @@ Review the instructions in the [SRD](https://cairnrpg.com/cairn-srd/#creating-mo
 
 The following table offers a decent guide on converting **ML** to **WIL**.
 
-|         |   |    |    |    |
-|---------|---|----|----|----|
 | **ML**  | 4 | 8  | 10 | 12 |
+| :--------- | :--- | :---- | :---- | :---- |
 | **WIL** | 6 | 12 | 15 | 18 |
 
 ### Combat

@@ -13,9 +13,8 @@ parent: Resources
 
 ### First Level
 
-|           |            |                      |                                                      |
-| --------- | ---------- | -------------------- | ---------------------------------------------------- |
 | B/X Level | Class      | B/X Spell            | Cairn Equivalent                                     |
+| :--------- | :---------- | :-------------------- | :---------------------------------------------------- |
 | 1st       | Magic-User | Charm Person         | Charm                                                |
 | 1st       | Magic-User | Darkness             | Night Sphere or Snuff                                |
 | 1st       | Magic-User | Detect Magic         | Detect Magic                                         |
@@ -32,9 +31,8 @@ parent: Resources
 
 ### Second Level
 
-|           |            |                    |                                     |
-| --------- | ---------- | ------------------ | ----------------------------------- |
 | B/X Level | Class      | B/X Spell          | Cairn Equivalent                    |
+| :--------- | :---------- | :------------------ | :----------------------------------- |
 | 2nd       | Magic-User | Continual Darkness | Not supported                       |
 | 2nd       | Magic-User | Continual Light    | Not supported                       |
 | 2nd       | Magic-User | Detect Evil        | Read Mind                           |
@@ -51,9 +49,8 @@ parent: Resources
 
 ### Third Level
 
-|           |            |                                 |                              |
-| --------- | ---------- | ------------------------------- | ---------------------------- |
 | B/X Level | Class      | B/X Spell                       | Cairn Equivalent             |
+| :--------- | :---------- | :------------------------------- | :---------------------------- |
 | 3rd       | Magic-User | Clairvoyance                    | Scry                         |
 | 3rd       | Magic-User | Dispel Magic                    | Magic Dampener               |
 | 3rd       | Magic-User | Fire Ball                       | Great Ball of Fire           |
@@ -69,9 +66,8 @@ parent: Resources
 
 ### Fourth Level
 
-|           |            |                                 |                                                       |
-| --------- | ---------- | ------------------------------- | ----------------------------------------------------- |
 | B/X Level | Class      | B/X Spell                       | Cairn Equivalent                                      |
+| :--------- | :---------- | :------------------------------- | :----------------------------------------------------- |
 | 4th       | Magic-User | Charm Monster                   | Charm                                                 |
 | 4th       | Magic-User | Confusion                       | Befuddle                                              |
 | 4th       | Magic-User | Dimension Door                  | Teleport                                              |
@@ -86,9 +82,8 @@ parent: Resources
 
 ### Fifth Level
 
-|           |            |                       |                          |
-| --------- | ---------- | --------------------- | ------------------------ |
 | B/X Level | Class      | B/X Spell             | Cairn Equivalent         |
+| :--------- | :---------- | :--------------------- | :------------------------ |
 | 5th       | Magic-User | Animate Dead          | Raise Dead               |
 | 5th       | Magic-User | Cloudkill             | Death’s Breath           |
 | 5th       | Magic-User | Conjure Elemental     | Summon Elemental         |
@@ -104,9 +99,8 @@ parent: Resources
 
 ### Sixth Level
 
-|           |            |                               |                                     |
-| --------- | ---------- | ----------------------------- | ----------------------------------- |
 | B/X Level | Class      | B/X Spell                     | Cairn Equivalent                    |
+| :--------- | :---------- | :----------------------------- | :----------------------------------- |
 | 6th       | Magic-User | Anti-Magic Shell              | Anti-Magic Globe                    |
 | 6th       | Magic-User | Control Weather               | Control Weather                     |
 | 6th       | Magic-User | Death Spell                   | Death’s Breath                      |
@@ -123,9 +117,8 @@ parent: Resources
 
 ### First Level
 
-|           |        |                       |                       |
-| --------- | ------ | --------------------- | --------------------- |
 | B/X Level | Class  | B/X Spell             | Cairn Equivalent      |
+| :--------- | :------ | :--------------------- | :--------------------- |
 | 1st       | Cleric | Cure Light Wounds     | Cure Wounds           |
 | 1st       | Cleric | Darkness              | Night Sphere or Snuff |
 | 1st       | Cleric | Detect Evil           | Read Mind             |
@@ -139,9 +132,8 @@ parent: Resources
 
 ### Second Level
 
-|           |        |                    |                  |
-| --------- | ------ | ------------------ | ---------------- |
 | B/X Level | Class  | B/X Spell          | Cairn Equivalent |
+| :--------- | :------ | :------------------ | :---------------- |
 | 2nd       | Cleric | Bless              | Blessing         |
 | 2nd       | Cleric | Find Traps         | Not supported    |
 | 2nd       | Cleric | Hold Person        | Command          |
@@ -153,9 +145,8 @@ parent: Resources
 
 ### Third Level
 
-|           |        |                    |                  |
-| --------- | ------ | ------------------ | ---------------- |
 | B/X Level | Class  | B/X Spell          | Cairn Equivalent |
+| :--------- | :------ | :------------------ | :---------------- |
 | 3rd       | Cleric | Continual Darkness | Not supported    |
 | 3rd       | Cleric | Continual Light    | Not supported    |
 | 3rd       | Cleric | Cause Disease      | Epidemic         |
@@ -167,9 +158,8 @@ parent: Resources
 
 ### Fourth Level
 
-|           |        |                          |                  |
-| --------- | ------ | ------------------------ | ---------------- |
 | B/X Level | Class  | B/X Spell                | Cairn Equivalent |
+| :--------- | :------ | :------------------------ | :---------------- |
 | 4th       | Cleric | Create Water             | Upswell          |
 | 4th       | Cleric | Cure Serious Wounds      | Cure Wounds      |
 | 4th       | Cleric | Neutralize Poison        | Not supported    |
@@ -180,9 +170,8 @@ parent: Resources
 
 ### Fifth Level
 
-|           |        |                    |                      |
-| --------- | ------ | ------------------ | -------------------- |
 | B/X Level | Class  | B/X Spell          | Cairn Equivalent     |
+| :--------- | :------ | :------------------ | :-------------------- |
 | 5th       | Cleric | Commune            | Extraplanar Request  |
 | 5th       | Cleric | Create Food        | Not supported        |
 | 5th       | Cleric | Dispel Evil        | Banishment           |

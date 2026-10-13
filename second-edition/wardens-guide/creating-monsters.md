@@ -71,9 +71,8 @@ X HP, X Armor, X STR, X DEX, X WIL, Attack (dX, special items, _qualities_)
 
 Roll 1d20 for each column and combine the results.
 
-|         |              |             |
-| ------- | ------------ | ----------- |
 | **d20** | **Physique** | **Feature** |
+| :------- | :------------ | :----------- |
 | **1**   | Albino       | Antennae    |
 | **2**   | Black        | Beak        |
 | **3**   | Crystalline  | Carapace    |
@@ -99,9 +98,8 @@ Roll 1d20 for each column and combine the results.
 
 Roll 1d20 for each column and combine the results.
 
-|         |                          |                 |
-| ------- | ------------------------ | --------------- |
 | **d20** | **Quirks**               | **Weakness**    |
+| :------- | :------------------------ | :--------------- |
 | **1**   | Alters Its Size at Will  | Alcohol         |
 | **2**   | Changes Color at Will    | Cold            |
 | **3**   | Collects Rare Flowers    | Conversation    |
@@ -127,9 +125,8 @@ Roll 1d20 for each column and combine the results.
 
 Roll 1d20 for each column and combine the results.
 
-|         |          |                     |
-| ------- | -------- | ------------------- |
 | **d20** | **Type** | **Critical Damage** |
+| :------- | :-------- | :------------------- |
 | **1**   | Bites    | Asphyxiates         |
 | **2**   | Blunts   | Bleeds              |
 | **3**   | Burns    | Blinds              |
@@ -155,9 +152,8 @@ Roll 1d20 for each column and combine the results.
 
 Roll 1d20 for each column and combine the results.
 
-|         |             |              |
-| ------- | ----------- | ------------ |
 | **d20** | **Ability** | **Target**   |
+| :------- | :----------- | :------------ |
 | **1**   | Absorbs     | Body         |
 | **2**   | Amplifies   | Dreams       |
 | **3**   | Attracts    | Element      |
@@ -207,9 +203,8 @@ There is no perfect system for converting from other systems. Here are some tips
 - **Dexterity**: Start with **10** as a base, and if the creature is particularly quick (often referred to as "speed" or SP), agile, or nimble-fingered, raise the number. If it is slow to respond, bulky, or clumsy, lower the number. See [Saving Throws](#saving-throws) below for more!
 - **Willpower**: **Morale** (**ML**) can be a good guidepost, and it typically ranges between 2-12. The greater the creature's personality, spirit, or presence, the higher the WIL they should have. The following table offers a decent guide on converting **ML** to **WIL**.
 
-|         |   |    |    |    |
-|---------|---|----|----|----|
 | **ML**  | 4 | 8  | 10 | 12 |
+| :--------- | :--- | :---- | :---- | :---- |
 | **WIL** | 6 | 12 | 15 | 18 |
 
 ### Saving Throws

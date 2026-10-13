@@ -57,9 +57,8 @@ _"Why was this dungeon built, how was it built, and what caused its downfall?"_
 
 Roll 1d20 for each column and combine the results.
 
-|         |                              |                        |
-| ------- | ---------------------------- | ---------------------- |
 | **d20** | **Original Use**             | **Built By**           |
+| :------- | :---------------------------- | :---------------------- |
 | **1**   | Ancestral Rites              | A Fallen Hero          |
 | **2**   | Arcane Library               | A Fanatical Cult       |
 | **3**   | Astral Trading Hub           | A Forgotten Empire     |
@@ -85,9 +84,8 @@ Roll 1d20 for each column and combine the results.
 
 Roll 1d20 for each column and combine the results.
 
-|         |                       |                    |
-| ------- | --------------------- | ------------------ |
 | **d20** | **Entrance**          | **Composition**    |
+| :------- | :--------------------- | :------------------ |
 | **1**   | A Creature's Lair     | Bone               |
 | **2**   | A Dream               | Coral              |
 | **3**   | A Massive Tree        | Crystal            |
@@ -113,9 +111,8 @@ Roll 1d20 for each column and combine the results.
 
 Roll 1d20 for each column and combine the results.
 
-|         |                  |                             |
-| ------- | ---------------- | --------------------------- |
 | **d20** | **Condition**    | **Cause**                   |
+| :------- | :---------------- | :--------------------------- |
 | **1**   | Corpse           | Alchemical Accident         |
 | **2**   | Crumbling        | Ancient Curse               |
 | **3**   | Cursed           | Cataclysmic Flood           |
@@ -151,9 +148,8 @@ _"What is each faction trying to achieve, and what stands in their way?"_
 
 Roll 1d20 for each column and combine the results.
 
-|         |                 |               |
-| ------- | --------------- | ------------- |
 | **d20** | **Virtues**     | **Vices**     |
+| :------- | :--------------- | :------------- |
 | **1**   | Compassionate   | Absent-Minded |
 | **2**   | Courageous      | Aloof         |
 | **3**   | Creative        | Critical      |
@@ -183,9 +179,8 @@ All dungeons should have one or more factions with their own unique agenda, obst
 
 Roll 1d20 for each column and combine the results.
 
-|         |                |              |
-| ------- | -------------- | ------------ |
 | **d20** | **Goal**       | **Obstacle** |
+| :------- | :-------------- | :------------ |
 | **1**   | Ascension      | Conflict     |
 | **2**   | Creation       | Corruption   |
 | **3**   | Destruction    | Cost         |
@@ -219,9 +214,8 @@ Roll 1d20 for each column and combine the results.
 
 #### Dungeon Die Drop Table
 
-|         |          |
-| ------- | -------- |
 | **d6**  | **Room** |
+| :------- | :-------- |
 | **1**   | Monster  |
 | **2-3** | Lore     |
 | **4**   | Special  |
@@ -252,9 +246,8 @@ Monsters are any dangerous creature that lives in a dungeon. This does not mean 
 
 Roll 1d20 for each column and combine the results.
 
-|         |               |              |
-| ------- | ------------- | ------------ |
 | **d20** | **Group**     | **Activity** |
+| :------- | :------------- | :------------ |
 | **1**   | Avian         | Building     |
 | **2**   | Beast         | Devouring    |
 | **3**   | Behemoth      | Dying        |
@@ -282,9 +275,8 @@ Lore rooms should build on the theme of the dungeon, provide a valuable lesson, 
 
 Roll 1d20 for each column and combine the results.
 
-|         |               |               |
-| ------- | ------------- | ------------- |
 | **d20** | **Room Type** | **Clue**      |
+| :------- | :------------- | :------------- |
 | **1**   | Armory        | Decay         |
 | **2**   | Barracks      | Decor         |
 | **3**   | Bath          | Draft         |
@@ -312,9 +304,8 @@ Special rooms areas are uncommon areas that feature a hidden or interactive elem
 
 Roll 1d20 for each column and combine the results.
 
-|         |             |             |
-| ------- | ----------- | ----------- |
 | **d20** | **Special** | **Feature** |
+| :------- | :----------- | :----------- |
 | **1**   | Books       | Ages        |
 | **2**   | Bridge      | Alarms      |
 | **3**   | Contraption | Animates    |
@@ -342,9 +333,8 @@ A trap is a dangerous and hidden object, typically triggered through interaction
 
 Roll 1d20 for each column and combine the results.
 
-|         |            |               |
-| ------- | ---------- | ------------- |
 | **d20** | **Trap**   | **Trigger**   |
+| :------- | :---------- | :------------- |
 | **1**   | Ages       | Activating    |
 | **2**   | Burns      | Breaking      |
 | **3**   | Captures   | Crossing      |
