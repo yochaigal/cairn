@@ -111,9 +111,8 @@ Player Characters (PCs) have three **Attributes**:
 
 When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll 2d6 and consult the following table:
 
-|         |      |         |      |         |
-| :-----: | :--: | :-----: | :--: | :-----: |
 |    2    | 3-5  |   6-8   | 9-11 |   12    |
+| :----- | :--- | :----- | :--- | :----- |
 | Hostile | Wary | Curious | Kind | Helpful |
 
 ## Combat
@@ -176,9 +175,8 @@ If damage to a PC would reduce their HP to exactly 0, look up the result on the 
 
 #### Scars Table
 
-|             |                                                                                                                                                                                                                           |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **HP Lost** | **Result**                                                                                                                                                                                                                |
+| :----------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1           | Lasting Scar: Roll 1d6. 1: Neck, 2: Hands, 3: Eye, 4: Chest, 5: Legs, 6: Ear. Roll 1d6. If the total is higher than your max HP, take the new result.                                                                     |
 | 2           | Rattling Blow: You’re disoriented and shaken. Describe how you refocus. Roll 1d6. If the total is higher than your max HP, take the new result.                                                                           |
 | 3           | Walloped: You’re sent flying and land flat on your face, winded. You are deprived until you rest for a few hours. Then, roll 1d6. Add that amount to your max HP.                                                         |

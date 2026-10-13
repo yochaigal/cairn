@@ -48,9 +48,8 @@ Roll on the [Forest Description](#forest-description) and write the results in y
 
 Roll 1d20 for each column and combine the results.
 
-|         |                 |                 |
-| ------- | --------------- | --------------- |
 | **d20** | **Description** | **Description** |
+| :------- | :--------------- | :--------------- |
 | **1**   | Barren          | Ancient         |
 | **2**   | Crystalline     | Awakening       |
 | **3**   | Diseased        | Buzzing         |
@@ -80,9 +79,8 @@ In some ways, the Wood is a single entity, its brain alive within every tree and
 
 Roll 1d20 for each column and combine the results.
 
-|         |             |                |
-| ------- | ----------- | -------------- |
 | **d20** | **Virtues** | **Vices**      |
+| :------- | :----------- | :-------------- |
 | **1**   | Adaptive    | Aggressive     |
 | **2**   | Balanced    | Aloof          |
 | **3**   | Brave       | Covetous       |
@@ -108,9 +106,8 @@ Roll 1d20 for each column and combine the results.
 
 Roll 1d20 for each column and combine the results.
 
-|         |                |              |
-| ------- | -------------- | ------------ |
 | **d20** | **Goal**       | **Obstacle** |
+| :------- | :-------------- | :------------ |
 | **1**   | Abundance     | Agreements    |
 | **2**   | Awakening     | Belief        |
 | **3**   | Balance       | Contamination |
@@ -145,9 +142,8 @@ Roll 1d20 for each column and combine the results.
 
 #### Forest Die Drop Table
 
-|         |         |
-| ------- | ------- |
 | **d6**  | **POI** |
+| :------- | :------- |
 | **1**   | Monster |
 | **2-3** | Ruins   |
 | **4**   | Shelter |
@@ -177,9 +173,8 @@ Roll 1d20 for each column and combine the results.
 
 Roll 1d20 for each column and combine the results.
 
-|         |                    |                    |
-| ------- | ------------------ | ------------------ |
 | **d20** | **Type**           | **Marker**         |
+| :------- | :------------------ | :------------------ |
 | **1**   | Animal Path        | Bear Rubbings      |
 | **2**   | Bandit's Run       | Bent Trees         |
 | **3**   | Bouldered Way      | Claw Marks         |
@@ -209,9 +204,8 @@ Monsters are any dangerous creatures one might encounter in the forest. This doe
 
 Roll 1d20 for each column and combine the results.
 
-|         |              |              |
-| ------- | ------------ | ------------ |
 | **d20** | **Monster**  | **Activity** |
+| :------- | :------------ | :------------ |
 | **1**   | Bandit       | Burrowing    |
 | **2**   | Blink Dog    | Burying      |
 | **3**   | Blood Elk    | Destroying   |
@@ -239,9 +233,8 @@ Forests are wild places, but that does not mean people haven't tried to tame the
 
 Roll 1d20 for each column and combine the results.
 
-|         |                     |                                        |
-| ------- | ------------------- | -------------------------------------- |
 | **d20** | **Ruin**            | **Feature**                            |
+| :------- | :------------------- | :-------------------------------------- |
 | **1**   | Abandoned Manor     | A Forest Spirit, Ready to Die          |
 | **2**   | Broken Sundial      | A Hag, Foraging for Ingredients        |
 | **3**   | Chipped Bell Tower  | A Mirror of Itself                     |
@@ -269,9 +262,8 @@ Despite its wild and unpredictable nature, there have always been those brave, s
 
 Roll 1d20 for each column and combine the results.
 
-|         |                   |                                    |
-| ------- | ----------------- | ---------------------------------- |
 | **d20** | **Shelter**       | **Feature**                        |
+| :------- | :----------------- | :---------------------------------- |
 | **1**   | Bandit Hideout    | Abandoned, for Now                 |
 | **2**   | Falconer's Tower  | Attracts Wild Beasts               |
 | **3**   | Fishing Hut       | Built in Defiance of Customs       |
@@ -299,9 +291,8 @@ The Wood is a dangerous place and not to be trifled with. The forest and its inh
 
 Roll 1d20 for each column and combine the results.
 
-|         |                   |                              |
-| ------- | ----------------- | ---------------------------- |
 | **D20** | **Hazard**        | **Feature**                  |
+| :------- | :----------------- | :---------------------------- |
 | **1**   | Animal Trap       | A Pet Basilisk               |
 | **2**   | Bog Shadows       | A Spell Gone Wrong           |
 | **3**   | Bone Orchard      | Animated Armor               |
@@ -588,9 +579,8 @@ A ramshackle **hut** built beside a small **lake** to the North. **Smoke** strea
 
 ### Encounters
 
-|         |                                                                                            |
-| ------- | ------------------------------------------------------------------------------------------ |
 | **d20** | **Encounter**                                                                              |
+| :------- | :------------------------------------------------------------------------------------------ |
 | **1**   | A tiny bearded man argues with a squawking raven. It holds something shiny in its beak.    |
 | **2**   | A dryad sits atop a stone, a purple fungus lining her arms. There is violence in her eyes. |
 | **3**   | A patch of quicksand is disguised as soft ground. A broken spool of rope lies nearby.      |

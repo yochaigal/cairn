@@ -56,9 +56,8 @@ You are a faithful servant of your deity. Battle ready to channel the power of y
 - Roll the rest as usual.
 
 
-|         |                      |
-| ------- | -------------------- |
 | **d20**    | **Cleric Spells**     |
+| :------- | :-------------------- |
 | 1   | Blessing             |
 | 2   | Cure-All             |
 | 3   | Curse Unlife         |

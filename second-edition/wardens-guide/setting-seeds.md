@@ -37,9 +37,8 @@ The most important aspect of a region is its _people_: their character, ambition
 
 Roll 1d20 for each column and combine the results.
 
-|         |               |                 |
-| ------- | ------------- | --------------- |
 | **d20** | **Character** | **Ambition**    |
+| :------- | :------------- | :--------------- |
 | **1**   | Altruistic    | Bounty          |
 | **2**   | Artistic      | Conquest        |
 | **3**   | Curious       | Control         |
@@ -65,9 +64,8 @@ Roll 1d20 for each column and combine the results.
 
 Roll 1d20 for each column and combine the results.
 
-|         |               |               |
-| ------- | ------------- | ------------- |
 | **d20** | **Abundance** | **Scarcity**  |
+| :------- | :------------- | :------------- |
 | **1**   | Food          | Food          |
 | **2**   | Fuel          | Fuel          |
 | **3**   | Gemstones     | Gemstones     |
@@ -117,9 +115,8 @@ Roll one or more times on the [Faction Types](#faction-types), [Faction Traits](
 
 Roll 1d20 for each column and combine the results.
 
-|         |                 |             |
-| ------- | --------------- | ----------- |
 | **d20** | **Type**        | **Agent**   |
+| :------- | :--------------- | :----------- |
 | **1**   | Artisans        | Academic    |
 | **2**   | Commoners       | Assassin    |
 | **3**   | Criminals       | Blacksmith  |
@@ -145,9 +142,8 @@ Roll 1d20 for each column and combine the results.
 
 Roll 1d20 for each column and combine the results.
 
-|         |               |               |
-| ------- | ------------- | ------------- |
 | **d20** | **Trait 1**   | **Trait 2**   |
+| :------- | :------------- | :------------- |
 | **1**   | Cautious      | Adaptable     |
 | **2**   | Connected     | Bankrupt      |
 | **3**   | Decadent      | Brutal        |
@@ -173,9 +169,8 @@ Roll 1d20 for each column and combine the results.
 
 Roll 1d20 to determine the number of advantages the faction has, then roll 1d20 again for each of the corresponding advantages. For example, if a result of “2” was received from the “# of Advantages” column, you would roll on the “Type” column twice, noting each result. Reroll repeated results.
 
-|         |                     |                |
-| ------- | ------------------- | -------------- |
 | **d20** | **# of Advantages** | **Advantage**  |
+| :------- | :------------------- | :-------------- |
 | **1**   | 1                   | Alliances      |
 | **2**   | 1                   | Anonymity      |
 | **3**   | 1                   | Apparatus      |
@@ -201,9 +196,8 @@ Roll 1d20 to determine the number of advantages the faction has, then roll 1d20 
 
 Roll 1d20 for each column and combine the results.
 
-|         |                            |                                                         |
-| ------- | -------------------------- | ------------------------------------------------------- |
 | **d20** | **Agenda**                 | **Obstacle**                                            |
+| :------- | :-------------------------- | :------------------------------------------------------- |
 | **1**   | Ascend to a Higher Plane   | A geographic barrier or impassable terrain.             |
 | **2**   | Collect Artifacts          | A key piece of information must first be discovered.    |
 | **3**   | Cultivate a Rare Resource  | A particular object or Relic is required.               |
@@ -260,9 +254,8 @@ The _Guild_ has been warned that a well-placed operative moves within their rank
 
 #### Faction Actions
 
-|        |                   |                                                                 |
-| ------ | ----------------- | --------------------------------------------------------------- |
 | **d6** | **Consequence**   | **Impact**                                                      |
+| :------ | :----------------- | :--------------------------------------------------------------- |
 | **1**  | **Failure**       | A new **Obstacle** is introduced, and an **Advantage** is lost. |
 | **2**  | **Setback**       | An **Advantage** is lost.                                       |
 | **3**  | **Status Quo**    | Nothing is gained, but nothing is lost.                         |
@@ -292,9 +285,8 @@ A region's terrain and natural features are an essential part of any map, affect
 
 ### Terrain Die Drop Table
 
-|         |                |
-| ------- | -------------- |
 | **d6**  | **Difficulty** |
+| :------- | :-------------- |
 | **1-3** | Easy           |
 | **4-5** | Tough          |
 | **6**   | Perilous       |
@@ -303,9 +295,8 @@ A region's terrain and natural features are an essential part of any map, affect
 
 Roll 1d20 for each column and combine the results.
 
-|         |             |                    |
-| ------- | ----------- | ------------------ |
 | **d20** | **Terrain** | **Landmark**       |
+| :------- | :----------- | :------------------ |
 | **1**   | Bluffs      | Broken Sundial     |
 | **2**   | Dells       | Circle of Menhirs  |
 | **3**   | Farmlands   | Circular Maze      |
@@ -331,9 +322,8 @@ Roll 1d20 for each column and combine the results.
 
 Roll 1d20 for each column and combine the results.
 
-|         |             |                     |
-| ------- | ----------- | ------------------- |
 | **d20** | **Terrain** | **Landmark**        |
+| :------- | :----------- | :------------------- |
 | **1**   | Barrens     | Algae Falls         |
 | **2**   | Canyons     | Basalt Columns      |
 | **3**   | Chaparral   | Behemoth Graveyard  |
@@ -359,9 +349,8 @@ Roll 1d20 for each column and combine the results.
 
 Roll 1d20 for each column and combine the results.
 
-|         |                |                     |
-| ------- | -------------- | ------------------- |
 | **d20** | **Terrain**    | **Landmark**        |
+| :------- | :-------------- | :------------------- |
 | **1**   | Alpine Meadows | Active Volcano      |
 | **2**   | Bogs           | Ammonia Caves       |
 | **3**   | Boulders       | Bone Mountain       |
@@ -395,9 +384,8 @@ The weather can have a great impact on the people, culture, and terrain of a reg
 
 #### Seasonal Weather
 
-|        |                  |                      |                   |                      |
-| ------ | ---------------- | -------------------- | ----------------- | -------------------- |
 | **d6** | **Spring**       | **Summer**           | **Fall**          | **Winter**           |
+| :------ | :---------------- | :-------------------- | :----------------- | :-------------------- |
 | **1**  | Mild and sunny   | Hot and sunny        | Nice and breezy   | Mild and clear       |
 | **2**  | Nice and drizzly | Nice and cloudy      | Mild and windy    | Cool and windy       |
 | **3**  | Cool and breezy  | Mild and rainy       | Cool and foggy    | Cold and raining     |
@@ -407,9 +395,8 @@ The weather can have a great impact on the people, culture, and terrain of a reg
 
 #### Unusual Weather
 
-|         |                                                                                                             |
-| ------- | ----------------------------------------------------------------------------------------------------------- |
 | **d20** | **Weather**                                                                                                 |
+| :------- | :----------------------------------------------------------------------------------------------------------- |
 | **1**   | An annual fog appears randomly, turning metallic surfaces to gold on contact.                               |
 | **2**   | An aurora that is visible even during the day.                                                              |
 | **3**   | Birds fly backwards, yet somehow still move forward.                                                        |
@@ -454,9 +441,8 @@ Points of Interest on a map (or POIs) are generally divided into the following c
 
 ### POI Die Drop Table
 
-|         |                        |
-| ------- | ---------------------- |
 | **d6**  | **POI**                |
+| :------- | :---------------------- |
 | **1**   | Waypoint or Settlement |
 | **2-3** | Curiosity              |
 | **4**   | Lair                   |
@@ -466,9 +452,8 @@ Points of Interest on a map (or POIs) are generally divided into the following c
 
 Roll 1d20 for each column and combine the results.
 
-|         |                 |                               |
-| ------- | --------------- | ----------------------------- |
 | **d20** | **Settlements** | **Feature**                   |
+| :------- | :--------------- | :----------------------------- |
 | **1**   | Academy         | Built Atop Ruins              |
 | **2**   | Caravan         | Built on Bones of Giants      |
 | **3**   | Citadel         | Center of Learning            |
@@ -494,9 +479,8 @@ Roll 1d20 for each column and combine the results.
 
 Roll 1d20 for each column and combine the results.
 
-|         |               |                                  |
-| ------- | ------------- | -------------------------------- |
 | **d20** | **Waypoints** | **Feature**                      |
+| :------- | :------------- | :-------------------------------- |
 | **1**   | Archive       | A Haven for Outcasts             |
 | **2**   | Asylum        | Built on Sacred Grounds          |
 | **3**   | Bazaar        | Contains a Powerful Artifact     |
@@ -522,9 +506,8 @@ Roll 1d20 for each column and combine the results.
 
 Roll 1d20 for each column and combine the results.
 
-|         |                    |                        |
-| ------- | ------------------ | ---------------------- |
 | **d20** | **Curiosities**    | **Feature**            |
+| :------- | :------------------ | :---------------------- |
 | **1**   | Ancient Tree       | Abandoned Vessel       |
 | **2**   | Broken Tower       | Ancient Trash Heap     |
 | **3**   | Buried Megalith    | Buried Ley Line        |
@@ -550,9 +533,8 @@ Roll 1d20 for each column and combine the results.
 
 Roll 1d20 for each column and combine the results.
 
-|         |                     |                     |
-| ------- | ------------------- | ------------------- |
 | **d20** | **Lair**            | **Feature**         |
+| :------- | :------------------- | :------------------- |
 | **1**   | Abandoned Tower     | Abandoned           |
 | **2**   | Ancient Prison      | At Crossroads       |
 | **3**   | Collapsed Mine      | Baited Entrance     |
@@ -578,9 +560,8 @@ Roll 1d20 for each column and combine the results.
 
 Roll 1d20 for each column and combine the results.
 
-|         |               |              |
-| ------- | ------------- | ------------ |
 | **d20** | **Type**      | **Feature**  |
+| :------- | :------------- | :------------ |
 | **1**   | Burial Ground | Abandoned    |
 | **2**   | Cave          | Buried       |
 | **3**   | Cellar        | Burnt        |
@@ -633,9 +614,8 @@ Roll 1d20 for each column and combine the results.
 
 Roll 1d20 for each column and combine the results.
 
-|         |                       |                              |
-| ------- | --------------------- | ---------------------------- |
 | **d20** | **Feature**           | **Condition**                |
+| :------- | :--------------------- | :---------------------------- |
 | **1**   | Abandoned Fields      | Bandit Ambushes              |
 | **2**   | Blood-Red             | Blocked by Giant Boulder     |
 | **3**   | Buried Charms         | Collapsed Bridge             |

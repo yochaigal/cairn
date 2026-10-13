@@ -99,17 +99,15 @@ The GM rolls a **d6** and consults the table appropriate to the party’s locati
 When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll 2d6 and consult the following table.
 
 
-|         |      |         |          |         |
-| ------- | ---- | ------- | -------- | ------- |
 | 2       | 3-5  | 6-8     | 9-11     | 12      |
+| :------- | :---- | :------- | :-------- | :------- |
 | Hostile | Wary | Curious | Friendly | Helpful |
 
 ## What Do They Want?
 Most NPCs will have something they want. Roll a d10 on the following table to find out what they want.
 
-|     |      |             |
-| --- | ---- | ----------- |
 | d10 | Want | Description |
+| :--- | :---- | :----------- |
 1 | **Food** | You can distract them with rations, point them towards corpses, cast a food illusion.
 2 | **Aid** | They could be hurt and need medical aid of some sort.
 3 | **Gold** | They want money. Extortion, toll, tax, tribute, or greed.
@@ -140,9 +138,8 @@ You can spend your hard-earned credit on experiences rather than on things. Caro
 ### Carousing Roll 
 Declare the amount of gold you’re spending and roll 2d6 to see how your evening went.
 
-|     |                                                                                                                          |
-| --- | ------------------------------------------------------------------------------------------------------------------------ |
 | 2d6 | How Things Went                                                                                                          |
+| :--- | :------------------------------------------------------------------------------------------------------------------------ |
 | 2-5 | Mishap: Experience is gained, but you've all made fools of yourself in some manner. Roll on the carousing mishaps table. |
 | 6-9 | Responsible Time: Experience is gained and you all kept things reasonably sane.                                          |
 | 10+ | Fortune: Experience is gained, and you've all had a stroke of good luck! Roll on the carousing fortunes table.           |
@@ -151,9 +148,8 @@ Declare the amount of gold you’re spending and roll 2d6 to see how your evenin
 - Roll 1d6, adding + 1 to the results for every 100 GP you carouse with. Larger cities should allow for (or require) more money to be spent. More decadent partying comes with the potential of more volatile or legendary consequences. 
 - Alternatively, just roll a 1d12 and check the results.
 
-|        |                                                                                                                                                                                                                                                                                                                                  |                                                                                                                                                                                                                                                                                                    |
-| ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | d6/d12 | Mishaps                                                                                                                                                                                                                                                                                                                          | Fortunes                                                                                                                                                                                                                                                                                           |
+| :------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1      | **Start a brawl.** You all are involved in a brawl that gets out of control. Start the next adventure with a black eye and -1 STR per level. The local tavern keeper is no longer quite as amicable.                                                                                                                             | **Jackpot!** One of you strikes it rich at the gambling tables! Gain level x 100 gold. (Or 1D6 x 100 if playing without levels)                                                                                                                                                                    |
 | 2      | **Minor misunderstanding** with local authorities that you’re unable to smooth over. You all spend the next 1d6 days in jail. Now seen as local troublemakers.                                                                                                                                                                   | **Gain a local reputation** as the life of a party! Those of ill repute are much more friendly and see you as one of their own.                                                                                                                                                                    |
 | 3      | One of you **insulted a local person of rank.** They will hold a grudge unless you all publicly apologize and humiliate yourself before them.                                                                                                                                                                                    | **Whoa what a trip!** The strange powder you sniffed revealed mystic truths about the universe. Young people in the settlement see you as cool and not one of the squares. (Optional: gain a random spell or generate a Maze Rats spell, either one-use or permanent.)                             |

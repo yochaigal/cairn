@@ -120,9 +120,8 @@ If Tom spots an enemy in a room he will smash in the wall with the bell flail (d
 
 #### Unusual Fungi
 
-|      |                                                                                                                                      |
-| ---- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | **Roll** | **Effect** |
+| :---- | :------------------------------------------------------------------------------------------------------------------------------------ |
 | **1** | Heal d6 STR |
 | **2** | The eater falls into a light sleep for one Dungeon Cycle |
 | **3** | Bad Breath |
@@ -158,9 +157,8 @@ If Tom spots an enemy in a room he will smash in the wall with the bell flail (d
 
 #### Items Wagered
 
-|      |        |
-| ---- | ------ |
 | Roll | Item |
+| :---- | :------ |
 | **1** | The Inner Sanctum’s (p. 27) cabinet key (1gp) |
 | **2** | A grappling hook (5gp) |
 | **3** | A pair of riding boots (10gp) |

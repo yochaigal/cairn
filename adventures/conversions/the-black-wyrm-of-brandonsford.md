@@ -104,9 +104,8 @@ Conversion by [Derek B.](https://widdershinswanderings.bearblog.dev/) and Yochai
 
 - For spells consider any of the following table or see any ([random spell](/cairn-srd#100-spells)):
 
-|         |                                                 |
-| ------- | ----------------------------------------------- |
 | **d20** | **Spell**                                       |
+| :------- | :----------------------------------------------- |
 | 1       | [_Babble_](/cairn-srd#babble)                   |
 | 2       | [_Befuddle_](/cairn-srd#befuddle)               |
 | 3       | [_Control Plants_](/cairn-srd#control-plants)   |
@@ -251,9 +250,8 @@ See [above](/adventures/conversions/the-black-wyrm-of-brandonsford/#goblins)
 #### Rune Stones
 See the table below for random Cleric Spells. Refer to the following spells in [More Spellbooks](/resources/more-spellbooks/) for details on each.
 
-|         |                      |
-| ------- | -------------------- |
 | **d20** | **Spell**            |
+| :------- | :-------------------- |
 | 1       | Blessing             |
 | 2       | Cure-All             |
 | 3       | Curse Unlife         |

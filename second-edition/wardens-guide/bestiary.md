@@ -9,9 +9,8 @@ grand_parent: Second Edition
 
 ## Monster Categories
 
-|         |               |                                                                             |
-| ------- | ------------- | --------------------------------------------------------------------------- |
 | **d20** | **Group**     | **Monsters**                                                                |
+| :------- | :------------- | :--------------------------------------------------------------------------- |
 | **1**   | Avian         | Phoenix, Roc, Wyvern                                                        |
 | **2**   | Beast         | Blood Elk, Grizzly Bear, Killer Bees, Night Cat, Viper, Wolf                |
 | **3**   | Behemoth      | Green Dragon, Purple Worm                                                   |

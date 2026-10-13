@@ -341,23 +341,20 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Armor
 
-|  |            |           |       |
-| :---: | :--------: | :-------: | :---: |
 |  1-3  |    4-14    |   15-19   |  20   |
+| :--- | :-------- | :------- | :--- |
 | None  | Brigandine | Chainmail | Plate |
 
 #### Helmets & Shields
 
-|  |        |        |                 |
-| :---------------: | :----: | :----: | :-------------: |
 |       1-13        | 14-16  | 17-19  |       20        |
+| :--------------- | :---- | :---- | :------------- |
 |       None        | Helmet | Shield | Helmet & Shield |
 
 #### Weapons
 
-|                |                  |                          |                                |
-| :-------------------: | :--------------: | :------------------: | :------------------------------: |
 |          1-5          |       6-14       |          15-19       |               20               |
+| :------------------- | :-------------- | :------------------ | :------------------------------ |
 | Dagger, Cudgel, Staff | Sword, Mace, Axe | Bow, Crossbow, Sling | Halberd, War Hammer, Battleaxe |
 
 #### Expeditionary Gear
@@ -392,9 +389,8 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### 																		Bonus Item (roll on table indicated)
 
-|                 |                    |                 |           |
-| :-------------: | :----------------: | :-------------: | :-------: |
 |       1-5       |        6-13        |      14-17      |   18-20   |
+| :------------- | :---------------- | :------------- | :------- |
 | Tool or Trinket | Expeditionary Gear | Armor or Weapon | Spellbook |
 
 <p></p>
@@ -639,9 +635,8 @@ Shields, gauntlets, and helms may provide additional benefits according to their
 ### Reactions
 When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll 2d6 and consult the following table:
 
-| | | | | |
-| :-----: | :--: | :-----: | :--: | :--: |
 |    2    | 3-5  |   6-8   | 9-11 | 12      |
+| :----- | :--- | :----- | :--- | :--- |
 | Hostile | Wary | Curious | Kind | Helpful |
 
 ### Morale
