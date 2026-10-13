@@ -25,8 +25,8 @@ Faunus, Snowdrop, Wisp, Silverdew, Brim, Solstice, Steeleye, Artea, Gossamer, Ha
 
 ## Who took you in? Roll 1d6:
 
-|       |                                                                                                                                                                                                                          |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **d6** | **Result** |
+| :--- | :--- |
 | **1** | An old hunter. You were both quite happy, until it all ended. Take a **Weathered Longbow** (d8, _bulky_) and a **Leather Jerkin** (1 Armor).                                                                             |
 | **2** | A wizened apothecary, who taught you the healing arts but maintained a clinical detachment. Take a **Healing Unguent** (restores d4 STR, 1 use).                                                                                 |
 | **3** | A druid, who taught you the language of trees. When it came time to , you took with you only a **Gnarled Staff** (d8) and left a promise that one day you would return.                                                 |
@@ -37,8 +37,8 @@ Faunus, Snowdrop, Wisp, Silverdew, Brim, Solstice, Steeleye, Artea, Gossamer, Ha
 
 ## What keeps bad tidings at bay? Roll 1d6:
 
-|       |                   |                                                                                                                                         |
-| ----- | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| **d6** | **Item** | **Description** |
+| :--- | :--- | :--- |
 | **1** | **Pipeweed**      | Your good luck charm. Conversations tend to flow more easily after a smoke. 6 uses.                                                     |
 | **2** | **Stink Jar**     | Shattering this jar releases an odor so foul all nearby must make a STR save or immediately vomit. 1 use.                                 |
 | **3** | **Ivy Worm**      | A green worm often mistaken for a weed. Swallowed whole, it absorbs any toxins or rot in the body before exiting through the usual way. |

@@ -61,8 +61,8 @@ grand_parent: Second Edition
 
 ### Physique
 
-|       |          |        |            |
-| ----- | -------- | ------ | ---------- |
+| **d10** | **Trait** | **d10** | **Trait** |
+| :--- | :--- | :--- | :--- |
 | **1** | Athletic | **6**  | Scrawny    |
 | **2** | Brawny   | **7**  | Short      |
 | **3** | Flabby   | **8**  | Statuesque |
@@ -71,8 +71,8 @@ grand_parent: Second Edition
 
 ### Skin
 
-|       |             |        |           |
-| ----- | ----------- | ------ | --------- |
+| **d10** | **Trait** | **d10** | **Trait** |
+| :--- | :--- | :--- | :--- |
 | **1** | Birthmarked | **6**  | Soft      |
 | **2** | Marked      | **7**  | Tanned    |
 | **3** | Oily        | **8**  | Tattooed  |
@@ -81,8 +81,8 @@ grand_parent: Second Edition
 
 ### Hair
 
-|       |         |        |           |
-| ----- | ------- | ------ | --------- |
+| **d10** | **Trait** | **d10** | **Trait** |
+| :--- | :--- | :--- | :--- |
 | **1** | Bald    | **6**  | Long      |
 | **2** | Braided | **7**  | Luxurious |
 | **3** | Curly   | **8**  | Oily      |
@@ -91,8 +91,8 @@ grand_parent: Second Edition
 
 ### Face
 
-|       |           |        |         |
-| ----- | --------- | ------ | ------- |
+| **d10** | **Trait** | **d10** | **Trait** |
+| :--- | :--- | :--- | :--- |
 | **1** | Bony      | **6**  | Perfect |
 | **2** | Broken    | **7**  | Rakish  |
 | **3** | Chiseled  | **8**  | Sharp   |
@@ -101,8 +101,8 @@ grand_parent: Second Edition
 
 ### Speech
 
-|       |         |        |            |
-| ----- | ------- | ------ | ---------- |
+| **d10** | **Trait** | **d10** | **Trait** |
+| :--- | :--- | :--- | :--- |
 | **1** | Blunt   | **6**  | Gravelly   |
 | **2** | Booming | **7**  | Precise    |
 | **3** | Cryptic | **8**  | Squeaky    |
@@ -111,8 +111,8 @@ grand_parent: Second Edition
 
 ### Clothing
 
-|       |         |        |        |
-| ----- | ------- | ------ | ------ |
+| **d10** | **Trait** | **d10** | **Trait** |
+| :--- | :--- | :--- | :--- |
 | **1** | Antique | **6**  | Frayed |
 | **2** | Bloody  | **7**  | Frumpy |
 | **3** | Elegant | **8**  | Livery |
@@ -121,8 +121,8 @@ grand_parent: Second Edition
 
 ### Virtue
 
-|       |             |        |           |
-| ----- | ----------- | ------ | --------- |
+| **d10** | **Trait** | **d10** | **Trait** |
+| :--- | :--- | :--- | :--- |
 | **1** | Ambitious   | **6**  | Honorable |
 | **2** | Cautious    | **7**  | Humble    |
 | **3** | Courageous  | **8**  | Merciful  |
@@ -131,8 +131,8 @@ grand_parent: Second Edition
 
 ### Vice
 
-|       |            |        |          |
-| ----- | ---------- | ------ | -------- |
+| **d10** | **Trait** | **d10** | **Trait** |
+| :--- | :--- | :--- | :--- |
 | **1** | Aggressive | **6**  | Lazy     |
 | **2** | Bitter     | **7**  | Nervous  |
 | **3** | Craven     | **8**  | Rude     |

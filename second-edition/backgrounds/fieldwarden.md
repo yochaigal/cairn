@@ -25,8 +25,8 @@ Seed, Thresh, Dibber, Sow, Stalk, Harrow, Cobb, Flax, Briar, Rye
  
 ## What got the better of you? Roll 1d6:
 
-|       |                                                                         |
-| ----- | --------------------------------------------------------------- |
+| **d6** | **Result** |
+| :--- | :--- |
 | **1** | A voracious swarm of pests that swallowed crops and animals alike. With nothing to defend, you left. Take **Gale Seed Extract** (3 uses).  Ingesting it lets you sprint with a speed four times your regular rate. Afterward you add two **Fatigue**.        |
 | **2** | A crop spirit, angered by a poor tithing. The fires consumed nearly everything, and afterward you were able to gather a pouch of **Fireseeds** (d8, _blast_, 4 uses).        |
 | **3** | An antlered, toothy demon that nearly ended you. Take a blood-stained **Bone Knife** (d6). On **Critical Damage**, its next attack becomes _enhanced_ from contact with blood. |
@@ -36,8 +36,8 @@ Seed, Thresh, Dibber, Sow, Stalk, Harrow, Cobb, Flax, Briar, Rye
 
 ## What tool saved your life? Roll 1d6:
 
-|       |                    |                                                                                                                                               |
-| ----- | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| **d6** | **Item** | **Description** |
+| :--- | :--- | :--- |
 | **1** | **Bloodvine Whip** | d8 damage. On **Critical Damage**, it drains the target's blood, granting the weapon's next attack the _blast_ quality             |
 | **2** | **Clatter Keeper** | A hand-cranked device that emits a loud noise, frightening away most creatures.                                                               |
 | **3** | **Sun Stick**      | Provides ample warmth and light for up to one hour. **Recharge**: Leave in heavy sunlight for a full day. 1 use. |

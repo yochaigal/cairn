@@ -25,8 +25,8 @@ Fergus, Eon, Bram, Idris, Hester, Darragh, Seren, Rónán, Berek, Lorenz
 
 ## What is your trade? Roll 1d6:
 
-|       |                                                                                                                                                                                                                 |
-| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **d6** | **Result** |
+| :--- | :--- |
 | **1** | You build small contraptions for local guilds (and don't ask too many questions). Take an extra 40gp and a wanted poster with your face on it. Given time and materials, you can open almost any door or vault. |
 | **2** | You deal in home goods and tools, hawking your wares to townspeople across the lands. Take 20gp worth of items from the [gear](/second-edition/players-guide/marketplace#gear) table. You are fluent in the _Traveler's Cant_.       |
 | **3** | You were a military smelter, before peace destroyed your livelihood. Take a **smelting hammer** (d10, _bulky_) and a **tin helm** (+1 Armor). Given time and adequate materials, you can repair armor.          |
@@ -36,13 +36,12 @@ Fergus, Eon, Bram, Idris, Hester, Darragh, Seren, Rónán, Berek, Lorenz
 
 ## What never fails to get you out of trouble? Roll 1d6:
 
-|     |                    |                                                                                                                                                                  |
-| --- | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **d6** | **Item** | **Description** |
+| :--- | :--- | :--- |
 | 1   | **Fire Eggs**      | Six small pellets made of sea salt, wood, and crockery-dust. They explode at low heat (d8, _blast_) but the flames dissipate quickly.                            |
 | 2   | **Black Tar**      | Versatile: both sticky and highly flammable. 3 uses.                                                                                                             |
 | 3   | **Spiked Boots**   | Cracks heads (d8) as easily as it does ice and muck. Travel is also a bit slower, but easier.                                                                    |
 | 4   | **Tinker's Paste** | Seals shut any fist-sized opening. 3 uses.                                                                                                                       |
 | 5   | **Fireworks**      | A dazzling albeit dangerous display. Enough explosive material to blow off a finger or three. 2 uses remain.                                                    |
 | 6   | **Carrion Cat**    | A clever pet, small enough to hide in your pack (_bulky_), but strong enough to scare off smaller predators. Requires one **Ration** a day, and it must be meat. |
-|     |                    |                                                                                                                                                                  |
 

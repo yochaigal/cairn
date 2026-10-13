@@ -24,8 +24,8 @@ Rook, Ebon, Moro, Yew, Pall, Leth, Bea, Barnaby, Vesper, Leder
 
 ## What did you take from the dead? Roll 1d6:
 
-|       |                                                                                                                                                                                                                                                                                                                                      |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **d6** | **Result** |
+| :--- | :--- |
 | **1** | A **crow-shaped amulet**. You can ask a question of the dead but must add a **Fatigue** each time. They do not always speak truthfully.                                                                                                                                                                                              |
 | **2** | A **mortal wound** from a freed _revenant_. You were healed, but the disfigurement has made you a pariah. You require neither air nor sustenance but are still subject to pain and death. Trapped between worlds, the dead see you as one of their own.                                                                              |
 | **3** | A **Blood Pail** (_bulky_) from a local death-cult. Empty it to raise a servant built from whatever is buried below, with 6 HP, 1 Armor, 13 STR, 11 DEX, 4 WIL, and shard fists (d8+d8). Only one servant can be raised at a time. If destroyed, you permanently lose 1d4 STR. **Recharge**: Fill with the blood of a dying warrior. |
@@ -35,8 +35,8 @@ Rook, Ebon, Moro, Yew, Pall, Leth, Bea, Barnaby, Vesper, Leder
 
 ## What tool was invaluable in your work? Roll 1d6:
 
-|     |               |                                                                                                                            |
-| --- | ------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| **d6** | **Item** | **Description** |
+| :--- | :--- | :--- |
 | 1   | **Manacles**  | Though old, it's still effective even against the very strong. You don't have the key.                                     |
 | 2   | **Sponge**    | Supposedly made from the remains of a rare sea creature. It never seems to dry out.                                        |
 | 3   | **Pulley**    | Great for moving gravestones, rocks, or even bodies.                                                                       |

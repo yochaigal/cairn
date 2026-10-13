@@ -25,8 +25,8 @@ Percival, Felix, Isolde, Wolfram, Aldric, Eira, Oswin, Ivor, Brunhilda, Beatrix
 
 ## To which order do you belong? Roll 1d6:
 
-|       |                                                                                                                                                                                                                |
-| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **d6** | **Result** |
+| :--- | :--- |
 | **1** | **Order of the Crossroads**. Take a **Pocket Leyfinder**. It points to nearby ley lines and other sources of arcane power. If you lose it, the punishment is death.                                            |
 | **2** | **Order of the Bleeding Star**. Take a **Star-Iron Mace** (d8). It shines faintly in darkness and becomes very hot in the presence of witchcraft.                                                   |
 | **3** | **Order of the Glass Sigil**. Take a short sword (d8) and chainmail (2 Armor, _bulky_). You have contacts in most towns (the more rural, the better) willing to provide aid, food, or even weapons.                 |
@@ -36,8 +36,8 @@ Percival, Felix, Isolde, Wolfram, Aldric, Eira, Oswin, Ivor, Brunhilda, Beatrix
 
 ## What was your vow? Roll 1d6:
 
-|       |                                                                                                                                                                    |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **d6** | **Result** |
+| :--- | :--- |
 | **1** | **Honesty**. Choose a **weapon type** (blunt, blade, etc). Attacks against you of this type are _impaired_. If your vow is broken, you lose d4 WIL.                |
 | **2** | **Poverty**. You carry the _Disassemble_ **Spellbook**. Only you can use it. If your vow is broken, it explodes (d12 STR damage). Disassemble: Any of your body parts may be detached and reattached at will, without causing pain or damage. You can still control them. _Regenerates any torn or defaced pages._                                 |
 | **3** | **Selflessness**. You are immune to **mind-altering magical effects**, such as _charm_, _hatred_, _frenzy_, and so on. If you break this vow, you lose d6 WIL.       |

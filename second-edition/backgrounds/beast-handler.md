@@ -25,8 +25,8 @@ Amara, Wulf, Mireille, Soren, Freki, Aster, Gerrik, Boreas, Veda, Matheus
 
 ## What creature is your specialty? Roll 1d6:
 
-|       |               |                                                                                                                                                                                   |
-| ----- | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **d6** | **Specialty** | **Description** |
+| :--- | :--- | :--- |
 | **1** | **Arachnids** | Take a **Quick-Flame Rod** and an **Oil Can** (6 uses). It can destroy a large spider nest in seconds.                                                                            |
 | **2** | **Felines**   | Take a sack of **Whiskerwort**. Its odor can calm and control even the largest of cats.                                                                                           |
 | **3** | **Canines**   | Take a wreath of **Wolfsbane** and a **Large Net**. Effective against werewolves as well.                                                                                         |
@@ -37,8 +37,8 @@ Amara, Wulf, Mireille, Soren, Freki, Aster, Gerrik, Boreas, Veda, Matheus
 
 ## What have you learned from the creatures of the wild? Roll 1d6: 
 
-|       |                                                                                                                                                                                          |
-| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **d6** | **Result** |
+| :--- | :--- |
 | **1** | That there is far more to the world than meets the eye. With quiet concentration, you can borrow the senses of a nearby creature of your **specialty**.                                       |
 | **2** | That the behavior of beasts is a language in itself. When observing beasts of your **specialty** you gain insight into weather patterns and impending disasters.                             |
 | **3** | That the pulse of the hunt is a powerful impulse. You have a sense for when predators, even those **not of your specialty** are near.                                                        |

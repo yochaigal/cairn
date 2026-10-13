@@ -26,8 +26,8 @@ brush up to 50ft wide suddenly sprouts up. _Wrapped in vines that must be destro
 
 ## What did you bring back from the Unseelie Court? Roll 1d6:
 
-|       |                                                                                                                                                                                                                                                               |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **d6** | **Result** |
+| :--- | :--- |
 | **1** | A **Black Rose Fiddle** (_bulky_). Its music causes intense sadness and immobility in nearby mortals. (Others are merely fascinated.) You don't know how to play.                                                                                              |
 | **2** | **Paper legs**. You are extremely light, and can fall a few stories without getting hurt. Try to avoid tearing them or getting them wet.                                                                                                                                |
 | **3** | A **Living Nightmare** that dwells within you but manifests whenever you are in danger. It has your same **Attributes** and **HP** and attacks with claws (d8+d8). It disappears on **Critical Damage** (take 1d4 WIL damage), re-appearing again on the next full moon. |
@@ -37,8 +37,8 @@ brush up to 50ft wide suddenly sprouts up. _Wrapped in vines that must be destro
 
 ## What concoction do you carry, and what rare ingredients did you gather to make it? Roll 1d6:
 
-|       |                      |                                                                                                                                                                                |
-| ----- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **d6** | **Item** | **Description** |
+| :--- | :--- | :--- |
 | **1** | **Rebirth Ash**      | Remnants of a bark spirit. Sprinkle to reignite a fire that has died or return to life a creature that has died only moments before. 3 uses.                                  |
 | **2** | **Glamour Feather**  | Plume of a firebird. Can make any creature appear convincingly as someone (or something) else. 1 use.                                                                         |
 | **3** | **Hawthorn Seed**    | An acorn from the other side, gathered on the spring equinox. When planted, it sprouts a luxurious shelter, collapsing at moonrise the next day. 1 use.                         |

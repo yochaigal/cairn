@@ -12,8 +12,8 @@ nav_order: 7
 
 ## Armor
 
-|                               |     |
-| ----------------------------- | --- |
+| **Item** | **Cost** |
+| :--- | :--- |
 | Shield (+1 Armor)             | 10  |
 | Helmet (+1 Armor)             | 10  |
 | Gambeson (+1 Armor)           | 15  |
@@ -23,8 +23,8 @@ nav_order: 7
 
 ## Weapons
 
-|                                                             |     |
-| ----------------------------------------------------------- | --- |
+| **Item** | **Cost** |
+| :--- | :--- |
 | Dagger, Cudgel, Sickle, Staff, etc. (d6 damage)             | 5   |
 | Spear, Sword, Mace, Axe, Flail, etc. (d8 damage)            | 10  |
 | Halberd, War Hammer, Long Sword, etc. (d10 damage, _bulky_) | 20  |
@@ -34,8 +34,8 @@ nav_order: 7
 
 ## Transport
 
-|                          |     |
-| ------------------------ | --- |
+| **Item** | **Cost** |
+| :--- | :--- |
 | Cart (+4 slots, _bulky_) | 30  |
 | Wagon (+8 slots, slow)   | 200 |
 | Horse (+4 slots)         | 75  |
@@ -45,8 +45,8 @@ nav_order: 7
 
 ## Upkeep & Recovery
 
-|                               |     |
-| ----------------------------- | --- |
+| **Item** | **Cost** |
+| :--- | :--- |
 | Room & Board (per night)      | 10  |
 | Private Room & Board (fits 4) | 35  |
 | Stable & Feed (per night)     | 5   |
@@ -56,8 +56,8 @@ nav_order: 7
 
 ## Hirelings (per day)
 
-|                   |     |
-| ----------------- | --- |
+| **Hireling** | **Cost** |
+| :--- | :--- |
 | Alchemist         | 30  |
 | Animal Handler    | 5   |
 | Blacksmith        | 15  |
@@ -74,8 +74,8 @@ nav_order: 7
 
 ## Gear
 
-|                                                    |     |
-| -------------------------------------------------- | --- |
+| **Item** | **Cost** |
+| :--- | :--- |
 | Air Bladder                                        | 5   |
 | Antitoxin                                          | 20  |
 | Bandages (3 uses)                                  | 30  |

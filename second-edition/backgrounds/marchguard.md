@@ -24,8 +24,8 @@ Gann, Light, Saoirse, Frost, Thorn, Reed, Dirk, Ragnar, Brie, Aasim
 
 ## Why did you take the Oath?
 
-|       |                                                                                                                                                                                                                                                                     |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **d6** | **Result** |
+| :--- | :--- |
 | **1** | Your family has a long tradition of serving, and you were trained from an early age on how to survive in the wild. When taking the Supply action, your yield increases by one step (e.g. 1d4 > 1d6). |
 | **2** | As a convict, the Oath was simply a means of avoiding punishment. Take a set of **Lockpicks** and the **Key** (_petty_) to a safehouse.                                                                                                                                          |
 | **3** | Noble-born, you joined to escape family trouble. Take a **Goosefelt Tarp** (fits two) that you stole before leaving home.                                                                                                                                           |
@@ -35,8 +35,8 @@ Gann, Light, Saoirse, Frost, Thorn, Reed, Dirk, Ragnar, Brie, Aasim
 
 ## What do you carry as proof of your Oath?
 
-|       |                    |                                                                                                                                                                          |
-| ----- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **d6** | **Item** | **Description** |
+| :--- | :--- | :--- |
 | **1** | **Impressive Pin** | A metal badge of honor from the Guard. It can open doors but leaves a trail. _Petty_.                                                                                            |
 | **2** | **Oath Compass**   | Points not towards North, but instead to the nearest member of the Guard. It also lets you know when they're getting close.                                              |
 | **3** | **Pullstones**     | Two jet-black stones. When separated, the stones will always roll toward one another.                                                                         |

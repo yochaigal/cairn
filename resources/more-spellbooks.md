@@ -9,8 +9,8 @@ nav_order: 5
 
 If Cairn's default [spells](/cairn-srd#100-spells) don't exactly fit what you're looking for, look for it in the d666 table below. Note assume damage rolls are against HP unless otherwise noted (e.g. 1d6 damage vs 1d6 STR loss).
 
-|      |                                                             |                                                              |
-| ---- | ----------------------------------------------------------- | ------------------------------------------------------------ |
+| **d666** | **Spell** | **Description** |
+| :--- | :--- | :--- |
 | 111  | [Adaptive Skin](#adaptive-skin)                             | Target can exist comfortably in hot or cold environments.    |
 | 112  | [Addle Brain](#addle-brain)                                 | Target must pass WIL save or drop to 0 WIL for 1 hour.       |
 | 113  | [Animal Call](#animal-call)                                 | Summons a mundane beast. It holds no loyalty towards you or your allies. |

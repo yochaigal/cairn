@@ -25,8 +25,8 @@ Flint, Feather, Crier, Thunder, Falcon, Pluck, Needle, Warsong, Hawk, Cai
 
 ## How did you earn your bow? Roll 1d6:
 
-|       |                                                                                                                                                                                                             |
-| ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **d6** | **Result** |
+| :--- | :--- |
 | **1** | **War**. If you are first to attack, your bow gains the _blast_ property for the first round.                                                                                                               |
 | **2** | **Falconry**. You keep a falcon [3 hp, 5 STR, 16 DEX, 4 WIL, claws (d6+d6), bite (d8)]. It only eats live game.                                                                                             |
 | **3** | **Hunting**. When taking the Supply action, your ability to secure **Rations** increases by **one step** (e.g. 1d4 becomes 1d6).          |
@@ -36,8 +36,8 @@ Flint, Feather, Crier, Thunder, Falcon, Pluck, Needle, Warsong, Hawk, Cai
 
 ## What kind of wood is your bow made from? Roll 1d6:
 
-|       |                                                                                                          |
-| ----- | -------------------------------------------------------------------------------------------------------- |
+| **d6** | **Result** |
+| :--- | :--- |
 | **1** | **Western Yew** (d6, _bulky_). Can be wielded as a blunt weapon (d6). Noisy.                             |
 | **2** | **Sessile Oak** (d8, _bulky_). Slams into targets. On **Critical Damage** something is torn off.         |
 | **3** | **Stone Pine** (d6, _bulky_). Produces one use of **Sticky Sap** per day. The sap is highly explosive.   |

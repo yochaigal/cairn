@@ -24,8 +24,8 @@ Unther, Woozy, Hilda, Current, Leif, Ratan, Mourella, Lal, Per, Madrigal
 
 ## What strange fungus did you discover? Roll 1d6:
 
-|       |                                                                                                                                                                                |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **d6** | **Result** |
+| :--- | :--- |
 | **1** | **Shrieking Trumpet**. When exposed to light, it screams so loudly that all nearby attacks (including your own) are _impaired_. 2 uses.                                        |
 | **2** | **Torch Fungus**. When crushed, it creates a cold blue light for a short while. 2 uses.                                                                                        |
 | **3** | **Murderous Truffle**. Pungent, highly toxic, and very rare (worth 50gp to assassins).  Illegal pretty much everywhere. 1 use.                                                 |
@@ -36,8 +36,8 @@ Unther, Woozy, Hilda, Current, Leif, Ratan, Mourella, Lal, Per, Madrigal
 
 ## What keeps you sane, even in utter darkness? Roll 1d6:
 
-|       |                     |                                                                                                |
-| ----- | ------------------- | ---------------------------------------------------------------------------------------------- |
+| **d6** | **Item** | **Description** |
+| :--- | :--- | :--- |
 | **1** | **Glowsnail**       | Casts a soft, bioluminescent light. Feeds on one ration every two days.                        |
 | **2** | **Silk Moth Shawl** | A weatherproof blanket, it can also douse a fire without being damaged.                        |
 | **3** | **Milkflower**      | A gentle stimulant. Chewing it makes you immune to _panic_ for the next hour. 3 uses.          |

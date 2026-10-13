@@ -36,8 +36,8 @@ When the party:
 
 **Roll on the table below.**
 
-|       |                 |                                                                                                           |
-| :---: | :-------------: | :-------------------------------------------------------------------------------------------------------: |
+| **d6** | **Event** | **Description** |
+| :--- | :--- | :--- |
 | **1** |  **Encounter**  |    Roll on an encounter table. Possibly **hostile**. (See [Reactions](/second-edition/players-guide/core-rules/#reactions).)    |
 | **2** |    **Sign**     |                  A clue, spoor, track, abandoned lair, scent, victim, etc is discovered.                  |
 | **3** | **Environment** |      Surroundings shift or escalate. Water rises, ceilings collapse, a ritual nears completion, etc.      |
@@ -166,8 +166,8 @@ Each day, the Warden should roll on the weather table for the appropriate season
 
 ### Wilderness Events
 
-|       |                 |                                                                                                                                                                                                                            |
-| ----- | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **d6** | **Event** | **Description** |
+| :--- | :--- | :--- |
 | **1** | **Encounter**   | Roll on an encounter table for that terrain type or location. Don’t forget to roll for NPC [reactions](/second-edition/players-guide/core-rules.md/#reactions) if applicable.                                                                               |
 | **2** | **Sign**        | The party discovers a clue, spoor, or indication of a nearby encounter, locality, hidden feature, or information about a nearby area.                                                                                      |
 | **3** | **Environment** | A shift in weather or terrain.                                                                                                                                                                                             |

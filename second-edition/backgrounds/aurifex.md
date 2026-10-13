@@ -24,8 +24,8 @@ Hestia, Basil, Rune, Prism, Ember, Quintess, Aludel, Mordant, Salaman, Jazia
 
 ## What went horribly wrong? Roll 1d6:
 
-|       |                                                                                                                                                                                                                                     |
-| ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **d6** | **Result** |
+| :--- | :--- |
 | **1** | There was an explosion, and you lost your sense of smell. Well, almost: you can sniff out gold as a pig does truffles. Take a **Tin of Snuff** (6 uses) to dampen the impact. Use it every day or become _deprived_.                                  |
 | **2** | You dematerialized a beloved pet. Now it follows you around, invisible but always present. Although it cannot interact with the physical realm, you are able to share its senses. (Add a **Fatigue** each time.) It follows basic commands. |
 | **3** | You were exposed to a long-acting truth serum whose effects have yet to wear off. The disorder has its advantages: you cannot repeat lies you've heard, either.                                                                     |
@@ -35,8 +35,8 @@ Hestia, Basil, Rune, Prism, Ember, Quintess, Aludel, Mordant, Salaman, Jazia
 
 ## What alchemical marvel is the product of your latest ingenuity? Roll 1d6:
 
-|       |                    |                                                                                                                                                                                                                      |
-| ----- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **d6** | **Item** | **Description** |
+| :--- | :--- | :--- |
 | **1** | **Pyrophoric Gel** | A sticky green fluid that catches fire when exposed to air, then burns for 8 hours. Cannot be extinguished (1 use).                                                                                                |
 | **2** | **Blast Sphere**   | A head-sized iron ball filled with explosive powder that detonates on impact (d12, _blast_, _bulky_, 1 use).                                                                                                             |
 | **3** | **Aqua Vita**      | Purifies any liquid, converting it to pure water. Drinking it cures 1d6 STR (1 use).                                                                                                                                         |
