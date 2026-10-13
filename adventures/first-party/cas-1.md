@@ -85,7 +85,7 @@ Each day, roll 1d8 to determine which victim is chosen.
 | 4   | Drum                  |
 | 5   | Beju (a widower)      |
 | 6   | Reeve Trellis         |
-| 7   | Nicolas, (a traveler) |
+| 7   | Nicolas (a traveler)  |
 | 8   | Flavia                |
 
 # Important NPCs
@@ -189,6 +189,8 @@ Despite the region’s reputation for relative safety, it is still dangerous to 
 # Isthmus Town
 
 A former logging town, currently squeaking by largely on profits made from fishing **West Lake**. Fewer than thirty families call the town their home. The town market runs from 8am to 2pm each day, boasting a decent array of goods and provisions, including any items under 10gp. (See [Marketplace](/second-edition/players-guide/marketplace/) in 2e Player’s Guide.) Local culinary specialties include fried cod, roasted frog legs, and hot stewberry pie. Fishing equipment (15gp), bog shoes (10gp a pair), and rainproof clothing (15gp) are popular commodities.
+
+![Isthmus Town](/adventures/first-party/img/cas-1/Isthmus%20Town.png)
 
 ## Factions
 
@@ -324,7 +326,7 @@ A common arboreal predator in the Stone Forest is the Night Cat, a nocturnal mar
 - Intelligent, nocturnal marsupials that make their homes in forests and swamps. Hunt in packs.
 - **Critical Damage**: The Night Cat begins to eat the target (d4 STR damage) while they are still alive.
 
-![Stone Forest](/adventures/first-party/img/cas-1/Stone Forest.png)
+![Stone Forest](/adventures/first-party/img/cas-1/Stone%20Forest.png)
 
 # Deadmill
 
@@ -369,7 +371,7 @@ A muddy, stinking bog shrouded in mist, and popular source for horror stories (a
 
 # White Tower Fens
 
-A small wood, East of the Downs. Named for its ruined white tower, shrouded in the mists of the nearby bog. Entry via **East Lake Trail** at the fork towards **Old Mill Road.**
+A small wood, East of the Downs. Named for its ruined white tower, shrouded in the mists of the nearby bog. Entry via **East Lake Pass** at the fork towards **Old Mill Road.**
 
 ![White Tower Fens](/adventures/first-party/img/cas-1/White Tower Fens.png)
 
