@@ -23,7 +23,7 @@ Produced by Cairn Press.
 
 The text of this work is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en). 
 
-![Trouble in Twin Lakes Cover](/adventures/first-party/img/cas-1/Trouble_in_Twin_Lakes_Cover.png)
+![Trouble in Twin Lakes Cover](/adventures/first-party/img/cas-1/Trouble_in_Twin_Lakes_Cover.webp)
 
 ## Introduction
 
@@ -161,7 +161,7 @@ To the North lies the **Stone Forest**, a vast wooded area dotted with old mills
 
 Despite the region’s reputation for relative safety, it is still dangerous to travel at night, as both bandits and night cats are known to pursue vulnerable parties. The adventure begins during the Harvest season, just after the final crops have been gathered.
 
-![CAS1 Map v2](/adventures/first-party/img/cas-1/CAS1_Map_v2.png)
+![CAS1 Map v2](/adventures/first-party/img/cas-1/CAS1_Map_v2.webp)
 
 | d6    | Rumors Heard on the Road<br>**Roll 1d6 whenever the party leaves Isthmus Town. Reroll repeated results.**                                                                                                                                                                                                                                                                                      |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -190,7 +190,7 @@ Despite the region’s reputation for relative safety, it is still dangerous to 
 
 A former logging town, currently squeaking by largely on profits made from fishing **West Lake**. Fewer than thirty families call the town their home. The town market runs from 8am to 2pm each day, boasting a decent array of goods and provisions, including any items under 10gp. (See [Marketplace](/second-edition/players-guide/marketplace/) in 2e Player’s Guide.) Local culinary specialties include fried cod, roasted frog legs, and hot stewberry pie. Fishing equipment (15gp), bog shoes (10gp a pair), and rainproof clothing (15gp) are popular commodities.
 
-![Isthmus Town](/adventures/first-party/img/cas-1/Isthmus%20Town.png)
+![Isthmus Town](/adventures/first-party/img/cas-1/Isthmus%20Town.webp)
 
 ## Factions
 
@@ -285,7 +285,7 @@ A dry, well-trod footpath stretching South from Isthmus Town and through the **H
 
 A thin circle of ramshackle homes built far apart from one another. Originally a fishing village, before the water in East Lake turned sour. Only impoverished fishers and unlucky farmers make their home here now. Connects to **East Lake Pass**.
 
-![Dunston](/adventures/first-party/img/cas-1/Dunston.png)
+![Dunston](/adventures/first-party/img/cas-1/Dunston.webp)
 
 ## Fasha’s Farm
 
@@ -326,7 +326,7 @@ A common arboreal predator in the Stone Forest is the Night Cat, a nocturnal mar
 - Intelligent, nocturnal marsupials that make their homes in forests and swamps. Hunt in packs.
 - **Critical Damage**: The Night Cat begins to eat the target (d4 STR damage) while they are still alive.
 
-![Stone Forest](/adventures/first-party/img/cas-1/Stone%20Forest.png)
+![Stone Forest](/adventures/first-party/img/cas-1/Stone%20Forest.webp)
 
 # Deadmill
 
@@ -373,7 +373,7 @@ A muddy, stinking bog shrouded in mist, and popular source for horror stories (a
 
 A small wood, East of the Downs. Named for its ruined white tower, shrouded in the mists of the nearby bog. Entry via **East Lake Pass** at the fork towards **Old Mill Road.**
 
-![White Tower Fens](/adventures/first-party/img/cas-1/White Tower Fens.png)
+![White Tower Fens](/adventures/first-party/img/cas-1/White Tower Fens.webp)
 
 ## 1. Whistlewood
 
@@ -415,7 +415,7 @@ The creek terminates in a small bog just a few minutes’ walk south of White To
 
 # Temple of the Fungal Lizards
 
-![Temple of the Fungal Lizards](/adventures/first-party/img/cas-1/Temple of the Fungal Lizards.png)
+![Temple of the Fungal Lizards](/adventures/first-party/img/cas-1/Temple of the Fungal Lizards.webp)
 ## General Information
 - **No light**. Sconces with diamond-shaped objects protrude from the corners of each room (see **[T7. Light Room](#t7-light-room)**). They are currently off. 
 - The walls and floors are painted blue-black and are made from a foreign alloy. They cannot be chipped or broken by mundane weapons, although fire and explosive powders have some effect.
@@ -534,7 +534,7 @@ Adjacent to the door (right, facing the hall) is a small slot above some blood a
 
 ## Vuk
 
-![Vuk](/adventures/first-party/img/cas-1/Vuk.png)
+![Vuk](/adventures/first-party/img/cas-1/Vuk.webp)
 
 A former Queen, murdered by her own kind as their civilization came to an end a millennia before. Cursed to haunt the very chamber of her death, she now means to rule these lands again. In her full form, she is a 7ft-tall Lich Queen with bird-like facial features, wearing a magnificent yellow crest.
 
@@ -554,7 +554,7 @@ Finally, one of the interrogators points to a lizard-like humanoid creature in t
 
 Suddenly, the door to the room opens and someone else enters the room. There is more gibberish, and then both the interrogators and the lizards rush from the room, slamming the door shut behind them. The viewer looks down at the wound in their stomach, and then everything goes dark.
 
-![Stoneblock](/adventures/first-party/img/cas-1/Stoneblock.png)
+![Stoneblock](/adventures/first-party/img/cas-1/Stoneblock.webp)
 
 # Concluding the Adventure
 
