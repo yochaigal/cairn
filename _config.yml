@@ -13,6 +13,8 @@ plugins:
   - jekyll-image-links
   - rpg-callouts
   - jekyll-titles-from-headings
+# Exclude H1 page titles from the sidebar TOC to avoid duplicate entries; keep section headings.
+sidebar_toc_levels: "2..4"
 include:
   - js
 
