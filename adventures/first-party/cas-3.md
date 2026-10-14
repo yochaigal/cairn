@@ -16,7 +16,7 @@ _CAS-3: The Feast of Tegny Wood_ is a standalone Cairn Second Edition adventure 
 
 Yet beneath the revelry, something dark stirs. Deep in Tegny Wood, an alchemist’s failed experiment has festered into an infection that twists flesh and soil into a grotesque parody of life. Meanwhile, something even more terrible is rising in the Wood, and growing ever closer...
 
-![CAS-3 Cover](/adventures/first-party/img/cas-3/CAS-3_Cover.png)
+![CAS-3 Cover](/adventures/first-party/img/cas-3/CAS-3_Cover.webp)
 
 **Credits**
 
@@ -75,7 +75,7 @@ Creatures directly exposed to the Chitin Knight or an infected entity (typically
 
 # Tegny Wood
 
-![TegnyMapSpread](/adventures/first-party/img/cas-3/TegnyMapSpread.png)
+![TegnyMapSpread](/adventures/first-party/img/cas-3/TegnyMapSpread.webp)
 
 ## 1. Bartermoot
 _(Ignore any encounter rolls at this location.)_
@@ -103,7 +103,7 @@ Mundane items from the Marketplace are discounted by 25% here.
 - **Bonemold:** A box of heavy, wet mycelium. Any flesh (living or dead) placed inside will be preserved exactly until removed again. If exposed to water, the fungus hardens and dies. Bulky. 50gp.
 - **Bubblemask:** A small bottle of viscous, stretchy fluid that is pulled across the nose and mouth, filtering the air around it. Cannot be used underwater. 3 uses. 100gp.
 
-![Bartermoot](/adventures/first-party/img/cas-3/Bartermoot.png)
+![Bartermoot](/adventures/first-party/img/cas-3/Bartermoot.webp)
 
 ## 2. The Old Dam
 A walkable **dam** is built across a small **river**. On the opposite side, rotted **boats** are stacked together near an ideal fishing spot. A face-down **corpse** floats in the water, caught by the dam. 
@@ -115,7 +115,7 @@ A walkable **dam** is built across a small **river**. On the opposite side, rott
 	- **Pledgepenny:** Easily identified by any educated person. Any member of the House of Burgesses presented with the coin must hear the bearer out, at the very least.
 	- There is an orange residue (Contagion) on one shoe.
 
-![Dam](/adventures/first-party/img/cas-3/Dam.png)
+![Dam](/adventures/first-party/img/cas-3/Dam.webp)
 
 
 ## 3. Bloody Grove
@@ -124,7 +124,7 @@ The trail splits at a tiny clearing. Short, curved **trees** bend towards the ce
 - **Trees:** Cutting them causes a thick, orange sap (Contagion) to emerge, and the blade is permanently stained.
 - **Thickets:** Travelers not wearing protective clothing must make a DEX save or lose 1 STR from blood loss due to deep scratches. A sound not unlike distant bells chimes somewhere to the Northwest.
 
-![Bloodygrove](/adventures/first-party/img/cas-3/Bloodygrove.png)
+![Bloodygrove](/adventures/first-party/img/cas-3/Bloodygrove.webp)
 
 ## 4. Stone Circle
 _(Ignore any encounter rolls at this location.)_
@@ -146,7 +146,7 @@ _3 HP, 3 STR, 15 DEX, 13 WIL_
 - Tiny humanoids with insectoid wings. Naturally invisible.
 - Can cast _[Sleep](/second-edition/wardens-guide/spellbooks/)_ and _[Masquerade](/second-edition/wardens-guide/spellbooks/)_ at will.
 
-![Stump](/adventures/first-party/img/cas-3/Stump.png)
+![Stump](/adventures/first-party/img/cas-3/Stump.webp)
 
 ## 5. Abandoned Tower
 A clearing, bursting with overgrown **foliage**. A **tower** infested with **ivy** is visible on the other side of a wall of thick undergrowth. Surrounding its foundation are dozens of **statues** made from plant life. A mist-covered **trail** on the northwest side of the tower leads deeper into the forest. A thick, bramble-covered path leads south. A well-trod trail heads east, uphill, towards the sound of water.
@@ -195,7 +195,7 @@ The **air** is wet and shimmering here, no light passing through the trees above
 - **Air:** Thick, uncomfortable, and nausea-inducing. Hints of the contagion ahead. 
 - **Hill:** Through gaps in the trees, a stone building is visible. Its roof is exposed to the elements.
 - **Northwest Path:** Characters taking this path and breathing without protection must save STR. On a fail, they start showing signs of infection within 1d12 Turns.
-![Woodfolk](/adventures/first-party/img/cas-3/Woodfolk.png)
+![Woodfolk](/adventures/first-party/img/cas-3/Woodfolk.webp)
 ## 8. Workshop
 A modest gray building sits atop a small hill, the roof completely collapsed into the structure. The front **door** is shut and flanked by windows on either side. The **interior** of the building is visible, provided there is sufficient light. A small copse of orange-tinged **trees** lies felled to the southwest of the ruin.
 
@@ -207,7 +207,7 @@ A modest gray building sits atop a small hill, the roof completely collapsed int
 	- Careful examination of his partially-charred remains should result in sufficient evidence to prove the man died from the building’s collapse, the explosion, or both.
 - **Trees:** Orange-tinged footprints lead to the West ([9. Last Stand](#9-last-stand)). There is no trail here.
 
-![Workshop](/adventures/first-party/img/cas-3/Workshop.png)
+![Workshop](/adventures/first-party/img/cas-3/Workshop.webp)
 
 ## 9. Last Stand
 Freshly cut trees, smeared with orange and black **gunk**. The sound of great movement and **treefall** can be heard as something makes its way towards the [1. Bartermoot](#1-bartermoot) festival, the sound of a **bell** ringing in its wake. 
@@ -222,4 +222,4 @@ Freshly cut trees, smeared with orange and black **gunk**. The sound of great mo
 - A horrific insectoid hybrid of insect and tree, spreading contagion in its wake. One of its legs has merged with blood-red wood, the rest of its body is black as midnight.
 - **Critical Damage:** Target is impaled, and infected with contagion.
 
-![ChitinKnight](/adventures/first-party/img/cas-3/ChitinKnight.png)
+![ChitinKnight](/adventures/first-party/img/cas-3/ChitinKnight.webp)

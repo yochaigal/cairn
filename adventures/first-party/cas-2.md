@@ -10,7 +10,7 @@ The following adventure is available:
 - As a [PDF](https://yochaigal.itch.io/rise-of-the-blood-olms)
 - As markdown (see below)
 
-![BloodOlm Cover](/adventures/first-party/img/cas-2/BloodOlm_Cover.png)
+![BloodOlm Cover](/adventures/first-party/img/cas-2/BloodOlm_Cover.webp)
 
 ### Credits
 
@@ -69,7 +69,7 @@ Dog-sized herbivores, with short, stubby legs. They are blind, and have antler-l
 
 
 # Blue Mouth Caves
-![BloodOlm Map (1)](/adventures/first-party/img/cas-2/BloodOlm_Map (1).png)
+![BloodOlm Map (1)](/adventures/first-party/img/cas-2/BloodOlm_Map (1).webp)
 
 ## Dungeon Overview
 
@@ -149,7 +149,7 @@ An enormous **tree** hangs from the ceiling, leaving its roots exposed. A small 
 	- Appear dead for only at least three days.
 	- The larger of the two (**Oren**) carries a small knife (d6), a torch (1 use left), and 47gp. The smaller (**Faraj**) carries a compass (55gp) and a blunt shovel (d6).
 
-![BloodOlm Backcover](/adventures/first-party/img/cas-2/BloodOlm_Backcover.png)
+![BloodOlm Backcover](/adventures/first-party/img/cas-2/BloodOlm_Backcover.webp)
 
 ## C8. Olm Den
 Warm, cramped. 10-14 **Olms** sleeping, eating, whispering. The **walls** are packed mud painted with bursts of color. A small **divider** on the Northeast side is filled with water. The room is very humid and warm. Rotting fruit and excrement litters the floor.
@@ -201,7 +201,7 @@ A small, circular room with **walls** of stone and a great hole instead of a cei
 
 # Rusal
 
-![Rusal1](/adventures/first-party/img/cas-2/Rusal1.jpg)
+![Rusal1](/adventures/first-party/img/cas-2/Rusal1.webp)
 
 A green-skinned, elderly humanoid with a long white beard that touches his toes. His frog-like eyes are clouded but quick. His hands and feet are webbed, and he is always nude.
 
