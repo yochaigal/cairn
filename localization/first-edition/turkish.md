@@ -247,7 +247,7 @@ Geleneksel karakter sınıflarına yakın bir şeyler arıyorsanız [**İsteğe 
 
 #### Vücut Yapısı
 
-| **z10** | **Özellik** | **z10** | **Özellik** |
+| **z10** | **Vücut Yapısı** | **z10** | **Vücut Yapısı** |
 | :--- | :--- | :--- | :--- |
 | 1        | Atletik | 6    | Kısa    |
 | 2        | Cılız   | 7    | Sağlam      |
@@ -257,7 +257,7 @@ Geleneksel karakter sınıflarına yakın bir şeyler arıyorsanız [**İsteğe 
 
 #### Cilt
 
-| **z10** | **Özellik** | **z10** | **Özellik** |
+| **z10** | **Cilt** | **z10** | **Cilt** |
 | :--- | :--- | :--- | :--- |
 | 1    | Bronzlaşmış   | 6   | Pembemsi  |
 | 2    | Çukurlu       | 7   | Uzun      |
@@ -267,7 +267,7 @@ Geleneksel karakter sınıflarına yakın bir şeyler arıyorsanız [**İsteğe 
 
 #### Saç
 
-| **z10** | **Özellik** | **z10** | **Özellik** |
+| **z10** | **Saç** | **z10** | **Saç** |
 | :--- | :--- | :--- | :--- |
 | 1    | Dalgalı            | 6    | Kıvırcık |
 | 2    | İnce Telli         | 7    | Kirli    |
@@ -277,7 +277,7 @@ Geleneksel karakter sınıflarına yakın bir şeyler arıyorsanız [**İsteğe 
 
 #### Yüz
 
-| **z10** | **Özellik** | **z10** | **Özellik** |
+| **z10** | **Yüz** | **z10** | **Yüz** |
 | :--- | :--- | :--- | :--- |
 | 1    | Biçimli  | 6    | Kemikli     |
 | 2    | Çökük    | 7    | Keskin      |
@@ -287,7 +287,7 @@ Geleneksel karakter sınıflarına yakın bir şeyler arıyorsanız [**İsteğe 
 
 #### Konuşma Tarzı
 
-| **z10** | **Özellik** | **z10** | **Özellik** |
+| **z10** | **Konuşma Tarzı** | **z10** | **Konuşma Tarzı** |
 | :--- | :--- | :--- | :--- |
 | 1      | Cırtlak     | 6    | Lafını Esirgemeyen     |
 | 2      | Fısıltılı   | 7    | Monoton                |
@@ -297,7 +297,7 @@ Geleneksel karakter sınıflarına yakın bir şeyler arıyorsanız [**İsteğe 
 
 #### Giyim Kuşam
 
-| **z10** | **Özellik** | **z10** | **Özellik** |
+| **z10** | **Giyim Kuşam** | **z10** | **Giyim Kuşam** |
 | :--- | :--- | :--- | :--- |
 | 1        | Aşınmış     | 6    | Lekeli        |
 | 2        | Eski        | 7    | Pislik İçinde |
@@ -307,7 +307,7 @@ Geleneksel karakter sınıflarına yakın bir şeyler arıyorsanız [**İsteğe 
 
 #### Erdemler
 
-| **z10** | **Özellik** | **z10** | **Özellik** |
+| **z10** | **Erdemler** | **z10** | **Erdemler** |
 | :--- | :--- | :--- | :--- |
 | 1      | Alçakgönüllü   | 6    | Hoşgörülü   |
 | 2      | Azimli         | 7    | Huzurlu     |
@@ -317,7 +317,7 @@ Geleneksel karakter sınıflarına yakın bir şeyler arıyorsanız [**İsteğe 
 
 #### Kusurlar
 
-| **z10** | **Özellik** | **z10** | **Özellik** |
+| **z10** | **Kusurlar** | **z10** | **Kusurlar** |
 | :--- | :--- | :--- | :--- |
 | 1    | Açgözlü     | 6    | Kaba      |
 | 2    | Gergin      | 7    | Korkak    |
@@ -327,7 +327,7 @@ Geleneksel karakter sınıflarına yakın bir şeyler arıyorsanız [**İsteğe 
 
 #### Nam
 
-| **z10** | **Özellik** | **z10** | **Özellik** |
+| **z10** | **Nam** | **z10** | **Nam** |
 | :--- | :--- | :--- | :--- |
 | 1          | Avare     | 6    | İtici           |
 | 2          | Bilge     | 7    | Kaba ve Vahşi   |
@@ -337,7 +337,7 @@ Geleneksel karakter sınıflarına yakın bir şeyler arıyorsanız [**İsteğe 
 
 #### Talihsizlikler
 
-| **z10** | **Özellik** | **z10** | **Özellik** |
+| **z10** | **Talihsizlikler** | **z10** | **Talihsizlikler** |
 | :--- | :--- | :--- | :--- |
 | 1           | Bağımlı                 | 6    | Konumunu Kaybetmiş  |
 | 2           | Dolandırılmış           | 7    | Lanetlenmiş         |
@@ -444,7 +444,7 @@ Geleneksel karakter sınıflarına yakın bir şeyler arıyorsanız [**İsteğe 
 
 #### Zırh
 
-| **Eşya** | **Maliyet** |
+| **Zırh** | **Maliyet** |
 | :--- | :--- |
 | Kalkan        (+1 Zırh)              | 10           |
 | Miğfer        (+1 Zırh)              | 10           |
@@ -455,7 +455,7 @@ Geleneksel karakter sınıflarına yakın bir şeyler arıyorsanız [**İsteğe 
 
 #### Silahlar
 
-| **Eşya** | **Maliyet** |
+| **Silah** | **Maliyet** |
 | :--- | :--- |
 | Hançer, Sopa, Orak, vb. (z6 hasar)                                   | 5     |
 | Mızrak, Kılıç, Gürz, Balta, Zincirli Gürz, vb. (z8 hasar)             | 10    |

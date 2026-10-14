@@ -12,7 +12,7 @@ nav_order: 7
 
 ## Armor
 
-| **Item** | **Cost** |
+| **Armor** | **Cost** |
 | :--- | :--- |
 | Shield (+1 Armor)             | 10  |
 | Helmet (+1 Armor)             | 10  |
@@ -23,7 +23,7 @@ nav_order: 7
 
 ## Weapons
 
-| **Item** | **Cost** |
+| **Weapon** | **Cost** |
 | :--- | :--- |
 | Dagger, Cudgel, Sickle, Staff, etc. (d6 damage)             | 5   |
 | Spear, Sword, Mace, Axe, Flail, etc. (d8 damage)            | 10  |
@@ -34,7 +34,7 @@ nav_order: 7
 
 ## Transport
 
-| **Item** | **Cost** |
+| **Transport** | **Cost** |
 | :--- | :--- |
 | Cart (+4 slots, _bulky_) | 30  |
 | Wagon (+8 slots, slow)   | 200 |
@@ -45,7 +45,7 @@ nav_order: 7
 
 ## Upkeep & Recovery
 
-| **Item** | **Cost** |
+| **Service** | **Cost** |
 | :--- | :--- |
 | Room & Board (per night)      | 10  |
 | Private Room & Board (fits 4) | 35  |
@@ -74,7 +74,7 @@ nav_order: 7
 
 ## Gear
 
-| **Item** | **Cost** |
+| **Gear** | **Cost** |
 | :--- | :--- |
 | Air Bladder                                        | 5   |
 | Antitoxin                                          | 20  |

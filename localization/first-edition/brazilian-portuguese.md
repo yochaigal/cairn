@@ -236,7 +236,7 @@ Se você quiser algo mais próximo das classes tradicionais, consulte a lista de
 
 #### Físico
 
-| **d10** | **Traço** | **d10** | **Traço** |
+| **d10** | **Físico** | **d10** | **Físico** |
 | :--- | :--- | :--- | :--- |
 | 1    | Alto       | 6    | Esguio    |
 | 2    | Atlético   | 7    | Flácido   |
@@ -246,7 +246,7 @@ Se você quiser algo mais próximo das classes tradicionais, consulte a lista de
 
 #### Pele
 
-| **d10** | **Traço** | **d10** | **Traço** |
+| **d10** | **Pele** | **d10** | **Pele** |
 | :--- | :--- | :--- | :--- |
 | 1    | Alongada    | 6    | Manchada          |
 | 2    | Bronzeada   | 7    | Marca de Nascença |
@@ -256,7 +256,7 @@ Se você quiser algo mais próximo das classes tradicionais, consulte a lista de
 
 #### Cabelo
 
-| **d10** | **Traço** | **d10** | **Traço** |
+| **d10** | **Cabelo** | **d10** | **Cabelo** |
 | :--- | :--- | :--- | :--- |
 | 1    | Cacheado | 6    | Oleoso   |
 | 2    | Careca   | 7    | Ondulado |
@@ -266,7 +266,7 @@ Se você quiser algo mais próximo das classes tradicionais, consulte a lista de
 
 #### Rosto
 
-| **d10** | **Traço** | **d10** | **Traço** |
+| **d10** | **Rosto** | **d10** | **Rosto** |
 | :--- | :--- | :--- | :--- |
 | 1    | Alongado  | 6    | Perfeito |
 | 2    | Encovado  | 7    | Pálido   |
@@ -276,7 +276,7 @@ Se você quiser algo mais próximo das classes tradicionais, consulte a lista de
 
 #### Fala
 
-| **d10** | **Traço** | **d10** | **Traço** |
+| **d10** | **Fala** | **d10** | **Fala** |
 | :--- | :--- | :--- | :--- |
 | 1    | Direta     | 6    | Grave       |
 | 2    | Enigmática | 7    | Precisa     |
@@ -286,7 +286,7 @@ Se você quiser algo mais próximo das classes tradicionais, consulte a lista de
 
 #### Roupas
 
-| **d10** | **Traço** | **d10** | **Traço** |
+| **d10** | **Roupas** | **d10** | **Roupas** |
 | :--- | :--- | :--- | :--- |
 | 1    | Antiquadas   | 6    | Ensanguentadas |
 | 2    | Desalinhadas | 7    | Estranhas      |
@@ -296,7 +296,7 @@ Se você quiser algo mais próximo das classes tradicionais, consulte a lista de
 
 #### Virtude
 
-| **d10** | **Traço** | **d10** | **Traço** |
+| **d10** | **Virtude** | **d10** | **Virtude** |
 | :--- | :--- | :--- | :--- |
 | 1    | Ambicioso    | 6    | Humilde   |
 | 2    | Cauteloso    | 7    | Piedoso   |
@@ -306,7 +306,7 @@ Se você quiser algo mais próximo das classes tradicionais, consulte a lista de
 
 #### Vício
 
-| **d10** | **Traço** | **d10** | **Traço** |
+| **d10** | **Vício** | **d10** | **Vício** |
 | :--- | :--- | :--- | :--- |
 | 1    | Agressivo  | 6    | Preguiçoso |
 | 2    | Amargurado | 7    | Rude       |
@@ -316,7 +316,7 @@ Se você quiser algo mais próximo das classes tradicionais, consulte a lista de
 
 #### Reputação
 
-| **d10** | **Traço** | **d10** | **Traço** |
+| **d10** | **Reputação** | **d10** | **Reputação** |
 | :--- | :--- | :--- | :--- |
 | 1    | Ambiciosa  | 6    | Preguiçosa |
 | 2    | Animadora  | 7    | Repulsiva  |
@@ -326,7 +326,7 @@ Se você quiser algo mais próximo das classes tradicionais, consulte a lista de
 
 #### Infortúnios
 
-| **d10** | **Traço** | **d10** | **Traço** |
+| **d10** | **Infortúnios** | **d10** | **Infortúnios** |
 | :--- | :--- | :--- | :--- |
 | 1    | Abandonado  | 6    | Descreditado |
 | 2    | Amaldiçoado | 7    | Deserdado    |
@@ -430,7 +430,7 @@ Se você quiser algo mais próximo das classes tradicionais, consulte a lista de
 
 #### Armadura
 
-| **Item** | **Custo** |
+| **Armadura** | **Custo** |
 | :--- | :--- |
 | Escudo (+1 Armadura)                 | 10   |
 | Elmo (+1 Armadura)                   | 10   |
@@ -441,7 +441,7 @@ Se você quiser algo mais próximo das classes tradicionais, consulte a lista de
 
 #### Armas
 
-| **Item** | **Custo** |
+| **Arma** | **Custo** |
 | :--- | :--- |
 | Adaga, Porrete, Foice, Cajado, etc. (d6  dano)               | 5    |
 | Lança, Espada, Maça, Machado, Mangual, etc. (d8 dano)        | 10   |
@@ -452,7 +452,7 @@ Se você quiser algo mais próximo das classes tradicionais, consulte a lista de
 
 #### Equipamento e Ferramentas
 
-| **Item** | **Custo** | **Item** | **Custo** |
+| **Equipamento** | **Custo** | **Equipamento** | **Custo** |
 | :--- | :--- | :--- | :--- |
 | Acônito                            | 10   | Giz                      | 1    |
 | Água Benta                         | 25   | Graxa                    | 10   |

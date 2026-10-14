@@ -237,7 +237,7 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Physique
 
-| **d10** | **Trait** | **d10** | **Trait** |
+| **d10** | **Physique** | **d10** | **Physique** |
 | :--- | :--- | :--- | :--- |
 | 1        | Athletic | 6    | Scrawny    |
 | 2        | Brawny   | 7    | Short      |
@@ -247,7 +247,7 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Skin
 
-| **d10** | **Trait** | **d10** | **Trait** |
+| **d10** | **Skin** | **d10** | **Skin** |
 | :--- | :--- | :--- | :--- |
 | 1    | Birthmark  | 6    | Round     |
 | 2    | Dark       | 7    | Soft      |
@@ -257,7 +257,7 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Hair
 
-| **d10** | **Trait** | **d10** | **Trait** |
+| **d10** | **Hair** | **d10** | **Hair** |
 | :--- | :--- | :--- | :--- |
 | 1    | Bald    | 6    | Long      |
 | 2    | Braided | 7    | Luxurious |
@@ -267,7 +267,7 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Face
 
-| **d10** | **Trait** | **d10** | **Trait** |
+| **d10** | **Face** | **d10** | **Face** |
 | :--- | :--- | :--- | :--- |
 | 1    | Bony      | 6    | Perfect  |
 | 2    | Broken    | 7    | Rat-like |
@@ -277,7 +277,7 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Speech
 
-| **d10** | **Trait** | **d10** | **Trait** |
+| **d10** | **Speech** | **d10** | **Speech** |
 | :--- | :--- | :--- | :--- |
 | 1      | Blunt   | 6    | Gravelly   |
 | 2      | Booming | 7    | Precise    |
@@ -287,7 +287,7 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Clothing
 
-| **d10** | **Trait** | **d10** | **Trait** |
+| **d10** | **Clothing** | **d10** | **Clothing** |
 | :--- | :--- | :--- | :--- |
 | 1        | Antique | 6    | Frayed |
 | 2        | Bloody  | 7    | Frumpy |
@@ -297,7 +297,7 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Virtue
 
-| **d10** | **Trait** | **d10** | **Trait** |
+| **d10** | **Virtue** | **d10** | **Virtue** |
 | :--- | :--- | :--- | :--- |
 | 1      | Ambitious   | 6    | Honorable |
 | 2      | Cautious    | 7    | Humble    |
@@ -307,7 +307,7 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Vice
 
-| **d10** | **Trait** | **d10** | **Trait** |
+| **d10** | **Vice** | **d10** | **Vice** |
 | :--- | :--- | :--- | :--- |
 | 1    | Aggressive | 6    | Lazy     |
 | 2    | Bitter     | 7    | Nervous  |
@@ -317,7 +317,7 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Reputation
 
-| **d10** | **Trait** | **d10** | **Trait** |
+| **d10** | **Reputation** | **d10** | **Reputation** |
 | :--- | :--- | :--- | :--- |
 | 1          | Ambitious   | 6    | Loafer    |
 | 2          | Boor        | 7    | Oddball   |
@@ -327,7 +327,7 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Misfortunes
 
-| **d10** | **Trait** | **d10** | **Trait** |
+| **d10** | **Misfortunes** | **d10** | **Misfortunes** |
 | :--- | :--- | :--- | :--- |
 | 1           | Abandoned   | 6    | Defrauded   |
 | 2           | Addicted    | 7    | Demoted     |
@@ -431,7 +431,7 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Armor
 
-| **Item** | **Cost** |
+| **Armor** | **Cost** |
 | :--- | :--- |
 |Shield (+1 Armor)            |10   |
 |Helmet (+1 Armor)            |10   |
@@ -442,7 +442,7 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Weapons
 
-| **Item** | **Cost** |
+| **Weapon** | **Cost** |
 | :--- | :--- |
 |Dagger, Cudgel, Sickle, Staff, etc. (d6 damage)            |5    |
 |Spear, Sword, Mace, Axe, Flail, etc. (d8 damage)           |10   |
@@ -453,7 +453,7 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Gear & Tools
 
-| **Item** | **Cost** | **Item** | **Cost** |
+| **Gear** | **Cost** | **Gear** | **Cost** |
 | :--- | :--- | :--- | :--- |
 |Air Bladder                                  |5               |Large Trap         |20        |
 |Bellows                                      |10              |Large Sponge       |5         |
