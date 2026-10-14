@@ -193,8 +193,8 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Female Names
 
-|||||||||
-|------|-----------|-----------|-----------|----------|---------|------|----------|
+| **d20** | **Name** | **d20** | **Name** | **d20** | **Name** | **d20** | **Name** |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 |1     | Agune     |6          |Drelil     |11        |Lirann   |16    |Sybil     |
 |2     | Beatrice  |7          |Elgile     |12        |Lirathil |17    |Theune    |
 |3     | Breagan   |8          |Esme       |13        |Lisabeth |18    |Wenain    |
@@ -203,8 +203,8 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Male Names
 
-|||||||||
-|------|-----------|-----------|-----------|----------|---------|------|----------|
+| **d20** | **Name** | **d20** | **Name** | **d20** | **Name** | **d20** | **Name** |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 |1           |Arwel     |6          |Breglor    |11        |Grinwit  |16    |Melnax    |
 |2           |Bevan     |7          |Canhoreal  |12        |Gruwid   |17    |Orthax    |
 |3           |Boroth    |8          |Emrys      |13        |Gruwth   |18    |Triunein  |
@@ -213,8 +213,8 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Surnames
 
-|||||||||
-|------|-----------|-----------|-----------|----------|---------|------|----------|
+| **d20** | **Name** | **d20** | **Name** | **d20** | **Name** | **d20** | **Name** |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 |1           |Abernathy |6          |Crumwaller |11        |Harper   |16    |Swinney   |
 |2           |Addercap  |7          |Dunswallow |12        |Loomer   |17    |Thatcher  |
 |3           |Burl      |8          |Getri      |13        |Malksmilk|18    |Tolmen    |
@@ -223,8 +223,8 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Background
 
-|||||||||
-|------|-----------|-----------|-----------|----------|---------|------|----------|
+| **d20** | **Background** | **d20** | **Background** | **d20** | **Background** | **d20** | **Background** |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 |1           |Alchemist |6          |Cleric     |11        |Magician |16    |Performer |
 |2           |Blacksmith|7          |Gambler    |12        |Mercenary|17    |Pickpocket|
 |3           |Burglar   |8          |Gravedigger|13        |Merchant |18    |Smuggler  |
@@ -237,8 +237,8 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Physique
 
-|  |          |      |            |
-| -------- | -------- | ---- | ---------- |
+| **d10** | **Physique** | **d10** | **Physique** |
+| :--- | :--- | :--- | :--- |
 | 1        | Athletic | 6    | Scrawny    |
 | 2        | Brawny   | 7    | Short      |
 | 3        | Flabby   | 8    | Statuesque |
@@ -247,8 +247,8 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Skin
 
-|  |            |      |           |
-| ---- | ---------- | ---- | --------- |
+| **d10** | **Skin** | **d10** | **Skin** |
+| :--- | :--- | :--- | :--- |
 | 1    | Birthmark  | 6    | Round     |
 | 2    | Dark       | 7    | Soft      |
 | 3    | Elongated  | 8    | Tanned    |
@@ -257,8 +257,8 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Hair
 
-|  |         |      |           |
-| ---- | ------- | ---- | --------- |
+| **d10** | **Hair** | **d10** | **Hair** |
+| :--- | :--- | :--- | :--- |
 | 1    | Bald    | 6    | Long      |
 | 2    | Braided | 7    | Luxurious |
 | 3    | Curly   | 8    | Oily      |
@@ -267,8 +267,8 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Face
 
-|  |           |      |          |
-| ---- | --------- | ---- | -------- |
+| **d10** | **Face** | **d10** | **Face** |
+| :--- | :--- | :--- | :--- |
 | 1    | Bony      | 6    | Perfect  |
 | 2    | Broken    | 7    | Rat-like |
 | 3    | Chiseled  | 8    | Sharp    |
@@ -277,8 +277,8 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Speech
 
-|  |         |      |            |
-| ------ | ------- | ---- | ---------- |
+| **d10** | **Speech** | **d10** | **Speech** |
+| :--- | :--- | :--- | :--- |
 | 1      | Blunt   | 6    | Gravelly   |
 | 2      | Booming | 7    | Precise    |
 | 3      | Cryptic | 8    | Squeaky    |
@@ -287,8 +287,8 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Clothing
 
-|  |         |      |        |
-| -------- | ------- | ---- | ------ |
+| **d10** | **Clothing** | **d10** | **Clothing** |
+| :--- | :--- | :--- | :--- |
 | 1        | Antique | 6    | Frayed |
 | 2        | Bloody  | 7    | Frumpy |
 | 3        | Elegant | 8    | Livery |
@@ -297,8 +297,8 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Virtue
 
-|  |             |      |           |
-| ------ | ----------- | ---- | --------- |
+| **d10** | **Virtue** | **d10** | **Virtue** |
+| :--- | :--- | :--- | :--- |
 | 1      | Ambitious   | 6    | Honorable |
 | 2      | Cautious    | 7    | Humble    |
 | 3      | Courageous  | 8    | Merciful  |
@@ -307,8 +307,8 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Vice
 
-|  |            |      |          |
-| ---- | ---------- | ---- | -------- |
+| **d10** | **Vice** | **d10** | **Vice** |
+| :--- | :--- | :--- | :--- |
 | 1    | Aggressive | 6    | Lazy     |
 | 2    | Bitter     | 7    | Nervous  |
 | 3    | Craven     | 8    | Rude     |
@@ -317,8 +317,8 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Reputation
 
-|  |             |      |           |
-| ---------- | ----------- | ---- | --------- |
+| **d10** | **Reputation** | **d10** | **Reputation** |
+| :--- | :--- | :--- | :--- |
 | 1          | Ambitious   | 6    | Loafer    |
 | 2          | Boor        | 7    | Oddball   |
 | 3          | Dangerous   | 8    | Repulsive |
@@ -327,8 +327,8 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Misfortunes
 
-|  |             |      |             |
-| ----------- | ----------- | ---- | ----------- |
+| **d10** | **Misfortunes** | **d10** | **Misfortunes** |
+| :--- | :--- | :--- | :--- |
 | 1           | Abandoned   | 6    | Defrauded   |
 | 2           | Addicted    | 7    | Demoted     |
 | 3           | Blackmailed | 8    | Discredited |
@@ -359,8 +359,8 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Expeditionary Gear
 
-|      |                        |      |                |      |             |      |             |
-| ---- | ---------------------- | ---- | -------------- | ---- | ----------- | ---- | ----------- |
+| **d20** | **Item** | **d20** | **Item** | **d20** | **Item** | **d20** | **Item** |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1    | Air Bladder            | 6    | Fire Oil       | 11   | Manacles    | 16   | Rope (25ft) |
 | 2    | Antitoxin              | 7    | Grappling Hook | 12   | Pick        | 17   | Spirit Ward |
 | 3    | Cart (+4 slots, bulky) | 8    | Large Sack     | 13   | Pole (10ft) | 18   | Spyglass    |
@@ -369,8 +369,8 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Tools
 
-|      |          |      |                |      |            |      |         |
-| ---- | -------- | ---- | -------------- | ---- | ---------- | ---- | ------- |
+| **d20** | **Item** | **d20** | **Item** | **d20** | **Item** | **d20** | **Item** |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1    | Bellows  | 6    | Cook Pots      | 11   | Grease     | 16   | Net     |
 | 2    | Bucket   | 7    | Crowbar        | 12   | Hammer     | 17   | Saw     |
 | 3    | Caltrops | 8    | Drill (Manual) | 13   | Hour Glass | 18   | Sealant |
@@ -379,8 +379,8 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Trinkets
 
-|      |             |      |            |      |             |      |         |
-| ---- | ----------- | ---- | ---------- | ---- | ----------- | ---- | ------- |
+| **d20** | **Item** | **d20** | **Item** | **d20** | **Item** | **d20** | **Item** |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1    | Bottle      | 6    | Horn       | 11   | Mirror      | 16   | Soap    |
 | 2    | Card Deck   | 7    | Incense    | 12   | Perfume     | 17   | Sponge  |
 | 3    | Dice Set    | 8    | Instrument | 13   | Quill & Ink | 18   | Tar Pot |
@@ -397,8 +397,8 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### 																						Spellbooks (d100)
 
-|||||||||
-|---|-----------------|---|----------------|---|---------------|---|---------------|
+| **d100** | **Spell** | **d100** | **Spell** | **d100** | **Spell** | **d100** | **Spell** |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 |1  |Adhere           |26 |Earthquake      |51 |Masquerade     |76 |Smoke Form     |
 |2  |Anchor           |27 |Elasticity      |52 |Miniaturize    |77 |Sniff          |
 |3  |Animate Object   |28 |Elemental Wall  |53 |Mirror Image   |78 |Snuff          |
@@ -431,8 +431,8 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Armor
 
-||     |
-|--------------------------------------------------------------|-----|
+| **Armor** | **Cost** |
+| :--- | :--- |
 |Shield (+1 Armor)            |10   |
 |Helmet (+1 Armor)            |10   |
 |Gambeson (+1 Armor)          |15   |
@@ -442,8 +442,8 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Weapons
 
-| |     |
-|-----------------------------------------------------------|-----|
+| **Weapon** | **Cost** |
+| :--- | :--- |
 |Dagger, Cudgel, Sickle, Staff, etc. (d6 damage)            |5    |
 |Spear, Sword, Mace, Axe, Flail, etc. (d8 damage)           |10   |
 |Halberd, War Hammer, Long Sword, etc. (d10 damage, bulky)  |20   |
@@ -453,8 +453,8 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Gear & Tools
 
-| |                |                   |          |
-|---------------------------------------------|----------------|-------------------|----------|
+| **Gear** | **Cost** | **Gear** | **Cost** |
+| :--- | :--- | :--- | :--- |
 |Air Bladder                                  |5               |Large Trap         |20        |
 |Bellows                                      |10              |Large Sponge       |5         |
 |Bedroll                                      |5               |Lens               |10        |
@@ -490,8 +490,8 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Cleric
 
-|                                   |
-| --------------------------------- |
+| **Item** |
+| :--- |
 | War Hammer (d10, bulky)           |
 | Chainmail (2 Armor, bulky)        |
 | Gauntlets (+1 Armor)              |
@@ -501,8 +501,8 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Dowser
 
-|                                           |
-|-------------------------------------------|
+| **Item** |
+| :--- |
 |Sickle (d6)                                |
 |Patchwork Doublet (+1 Armor)               |
 |Dowsing Rod                                |
@@ -512,8 +512,8 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Dwarf
 
-||
-|-----------------------------------------|
+| **Item** |
+| :--- |
 |Prickly Root (d6)                        |
 |Pinecone Lattice (1 Armor)               |
 |Trowel                                   |
@@ -523,8 +523,8 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Elf
 
-||
-|-----------------------------------------|
+| **Item** |
+| :--- |
 |Elegant Sword (d8)                       |
 |Recurve Bow (d8)                         |
 |Gilt Clothing (1 Armor)                  |
@@ -534,8 +534,8 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Fighter
 
-||
-|---------------------------------------|
+| **Item** |
+| :--- |
 |Glaive (d10, bulky)                    |
 |Scimitar (d8)                          |
 |Shortsword (d6)                        |
@@ -545,8 +545,8 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Friar
 
-||
-|-------------------------------|
+| **Item** |
+| :--- |
 |Scepter (d6)                   |
 |Deceptive Robes (+1 Armor)     |
 |Censer & Holy Water            |
@@ -556,8 +556,8 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Knight
 
-|                            |
-| -------------------------- |
+| **Item** |
+| :--- |
 | Longsword (d10, bulky)     |
 | Chainmail (2 Armor, bulky) |
 | Helmet (+1 Armor)          |
@@ -567,8 +567,8 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Magic User
 
-||
-|-----------------------------------------|
+| **Item** |
+| :--- |
 |Fizzled Staff (d8, bulky)                |
 |Dagger (d6)                              |
 |Spellbook (random spell)                 |
@@ -578,8 +578,8 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Thief
 
-||
-|-----------------------------------------|
+| **Item** |
+| :--- |
 |Two daggers (d6+d6)                      |
 |Hooded Jerkin (1 Armor)                  |
 |Lockpicks                                |
@@ -589,8 +589,8 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Ranger
 
-||
-|------------------------------------------|
+| **Item** |
+| :--- |
 |Longbow (d8, bulky)                       |
 |Hatchet (d6)                              |
 |Padded Leathers (1 Armor)                 |
@@ -749,8 +749,8 @@ Running away from a dire situation always requires a successful DEX save, as wel
 ### Scars
 When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look up the result on the table below based on the _total_ damage taken:
 
-|      |                                                              |
-|------ |---|
+| **HP Lost** | **Result** |
+| :--- | :--- |
 | 1    | Lasting Scar: Roll 1d6 &#124; 1: Neck, 2: Hands, 3: Eye, 4: Chest, 5: Legs, 6: Ear. Roll 1d6. If the total is higher than your max HP, take the new result. |
 | 2    | Rattling Blow: You’re disoriented and shaken. Describe how you refocus. Roll 1d6. If the total is higher than your max HP, take the new result. |
 | 3    | Walloped: You’re sent flying and land flat on your face, winded. You are deprived until you rest for a few hours. Then, roll 1d6. Add that amount to your max HP. |
@@ -836,8 +836,8 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 
 ## 100 Spells
 
-|      |                                         |                                                              |
-| ---- | --------------------------------------- | ------------------------------------------------------------ |
+| **d100** | **Spell** | **Description** |
+| :--- | :--- | :--- |
 | 1    | [Adhere](#adhere)                       | An object is covered in extremely sticky slime.              |
 | 2    | [Anchor](#anchor)                       | A strong wire sprouts from your arms, affixing itself to two points within 50ft on each side. |
 | 3    | [Animate Object](#animate-object)       | An object obeys your commands as best it can.                |

@@ -9,8 +9,8 @@ nav_order: 8
 
 # Barebones Edition Spellbooks
 
-|         |                       |                                                                                                                                                                                                                                                                                              |
-| ------- | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **d100** | **Spell** | **Description** |
+| :--- | :--- | :--- |
 | **1**   | **Adhere**            | An object is covered in extremely sticky slime. _Adjacent objects stick to the book with great force._                                                                                                                                                                                       |
 | **2**   | **Anchor**            | A strong wire sprouts from your arms, affixing itself to two points within 50ft on each side. _If a rope is pulled through the iron loop on its spine, it becomes as heavy as an elephant._                                                                                                  |
 | **3**   | **Animate Object**    | An object obeys your commands as best it can. _Moldable like clay. Childish laughter sprouts from its pages._                                                                                                                                                                                |

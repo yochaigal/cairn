@@ -290,8 +290,8 @@ title: Tomb Robbers of the Crystal Frontier
 
 *Journey Difficulty*
 
-|          |          |          |
-| -------- | -------- | -------- |
+| **d4** | **Consequence** | **Distance** |
+| :--- | :--- | :--- |
 | 1 | WIL save or *deprived* | Journey is greater than the Local Dungeon or City map. |
 | 2 | As above, plus 1 roll on the Journey Failure table | Journey is greater than the Regional Map |
 | 3 | As above, plus 2 rolls on the Journey Failure table | Journey is greater than a Continent |
@@ -299,8 +299,8 @@ title: Tomb Robbers of the Crystal Frontier
 
 *Journey Failure (d6)*
 
-|          |          |
-| -------- | -------- |
+| **d6** | **Result** |
+| :--- | :--- |
 | 1 | **Horrific Premonitions.** A random traveler permanently loses d6 WIL.|
 | 2 | **Sky Shine.** A random traveler is blinded. |
 | 3 | **Crystal Storms.** All travlers are afflicted by one level of Tomb Crystal Poisoning. |

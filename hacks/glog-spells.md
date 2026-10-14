@@ -15,8 +15,8 @@ nav_order: 3
 
 ## Spells
 
-|      |                   |                                                              |
-| ---- | ----------------- | ------------------------------------------------------------ |
+| **d100** | **Spell** | **Description** |
+| :--- | :--- | :--- |
 | 1           | **Adhere**            | [dice] objects is covered in extremely sticky slime.         |
 | 2           | **Anchor**            | A strong wire sprouts from your arms, affixing itself to [dice] points within 50ft on each side. |
 | 3   | **Animate Object**    | [dice] objects obeys your commands as best it can. It can walk 15ft per round.         |

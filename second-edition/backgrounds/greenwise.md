@@ -26,8 +26,8 @@ _Ward_: A silver circle 50ft across appears on the ground. Choose one species th
 
 ## How has the Wood failed you ? Roll 1d6:
 
-|       |                                                                                                                                                                                               |
-| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **d6** | **Result** |
+| :--- | :--- |
 | **1** | An ill-tempered forest spirit cursed you for stealing, marking you as an enemy of their kind. Take a **Bezoar Stone**. Ingesting it cures any poison (1 use, unless retrieved).             |
 | **2** | A close friend disappeared into the forest. Now you see their face in any tea you brew. Take a **Soporific Concoction** (3 uses).                                                                                 |
 | **3** | You were poisoned, losing your sense of taste and smell. You can now withstand noxious fumes and always carry **Antitoxin** (2 uses).                                                        |
@@ -37,8 +37,8 @@ _Ward_: A silver circle 50ft across appears on the ground. Choose one species th
 
 ## What keeps you safe while in the Wood? Roll 1d6:
 
-|       |                  |                                                                                                          |
-| ----- | ---------------- | -------------------------------------------------------------------------------------------------------- |
+| **d6** | **Item** | **Description** |
+| :--- | :--- | :--- |
 | **1** | **Amadou**       | A vermilion fungus that catches fire quite easily. 3 uses.                                              |
 | **2** | **Delphinium**   | Breathe water for up to one hour. 1 use, but can be divided into fractional doses.                       |
 | **3** | **Tacky Stalk**  | A woody reed that hardens into a permanent adhesive when chewed. 2 uses.                                 |

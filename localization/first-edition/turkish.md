@@ -202,8 +202,8 @@ Geleneksel karakter sınıflarına yakın bir şeyler arıyorsanız [**İsteğe 
 
 #### Kadın İsimleri
 
-|||||||||
-|------|-----------|-----------|-----------|----------|---------|------|----------|
+| **z20** | **İsim** | **z20** | **İsim** | **z20** | **İsim** | **z20** | **İsim** |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 |1     | Agune     |6          |Drelil     |11        |Lirann   |16    |Sybil     |
 |2     | Beatrice  |7          |Elgile     |12        |Lirathil |17    |Theune    |
 |3     | Breagan   |8          |Esme       |13        |Lisabeth |18    |Wenain    |
@@ -213,8 +213,8 @@ Geleneksel karakter sınıflarına yakın bir şeyler arıyorsanız [**İsteğe 
 
 #### Erkek İsimleri
 
-|||||||||
-|------|-----------|-----------|-----------|----------|---------|------|----------|
+| **z20** | **İsim** | **z20** | **İsim** | **z20** | **İsim** | **z20** | **İsim** |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 |1           |Arwel     |6          |Breglor    |11        |Grinwit  |16    |Melnax    |
 |2           |Bevan     |7          |Canhoreal  |12        |Gruwid   |17    |Orthax    |
 |3           |Boroth    |8          |Emrys      |13        |Gruwth   |18    |Triunein  |
@@ -223,8 +223,8 @@ Geleneksel karakter sınıflarına yakın bir şeyler arıyorsanız [**İsteğe 
 
 #### Soyadları
 
-|||||||||
-|------|-----------|-----------|-----------|----------|---------|------|----------|
+| **z20** | **İsim** | **z20** | **İsim** | **z20** | **İsim** | **z20** | **İsim** |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 |1           |Abernathy |6          |Crumwaller |11        |Harper   |16    |Swinney   |
 |2           |Addercap  |7          |Dunswallow |12        |Loomer   |17    |Thatcher  |
 |3           |Burl      |8          |Getri      |13        |Malksmilk|18    |Tolmen    |
@@ -233,8 +233,8 @@ Geleneksel karakter sınıflarına yakın bir şeyler arıyorsanız [**İsteğe 
 
 #### Geçmiş
 
-|||||||||
-|------|-----------|-----------|-----------|----------|---------|------|----------|
+| **z20** | **Geçmiş** | **z20** | **Geçmiş** | **z20** | **Geçmiş** | **z20** | **Geçmiş** |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 |1           |Avcı      |6          |Kaçakçı      |11        |Madenci        |16    |Ruhban |
 |2           |Büyücü    |7          |Kanun Kaçağı |12        |Marangoz       |17    |Sanatçı|
 |3           |Demirci   |8          |Kasap        |13        |Mezarcı        |18    |Simyacı  |
@@ -247,8 +247,8 @@ Geleneksel karakter sınıflarına yakın bir şeyler arıyorsanız [**İsteğe 
 
 #### Vücut Yapısı
 
-|  |          |      |            |
-| -------- | -------- | ---- | ---------- |
+| **z10** | **Vücut Yapısı** | **z10** | **Vücut Yapısı** |
+| :--- | :--- | :--- | :--- |
 | 1        | Atletik | 6    | Kısa    |
 | 2        | Cılız   | 7    | Sağlam      |
 | 3        | Heybetli   | 8    | Sırık |
@@ -257,8 +257,8 @@ Geleneksel karakter sınıflarına yakın bir şeyler arıyorsanız [**İsteğe 
 
 #### Cilt
 
-|  |            |      |           |
-| ---- | ---------- | ---- | --------- |
+| **z10** | **Cilt** | **z10** | **Cilt** |
+| :--- | :--- | :--- | :--- |
 | 1    | Bronzlaşmış   | 6   | Pembemsi  |
 | 2    | Çukurlu       | 7   | Uzun      |
 | 3    | Doğum Lekeli  | 8   | Yıpranmış |
@@ -267,8 +267,8 @@ Geleneksel karakter sınıflarına yakın bir şeyler arıyorsanız [**İsteğe 
 
 #### Saç
 
-|  |         |      |           |
-| ---- | ------- | ---- | --------- |
+| **z10** | **Saç** | **z10** | **Saç** |
+| :--- | :--- | :--- | :--- |
 | 1    | Dalgalı            | 6    | Kıvırcık |
 | 2    | İnce Telli         | 7    | Kirli    |
 | 3    | İpeksi ve Parlak   | 8    | Örgülü   |
@@ -277,8 +277,8 @@ Geleneksel karakter sınıflarına yakın bir şeyler arıyorsanız [**İsteğe 
 
 #### Yüz
 
-|  |           |      |          |
-| ---- | --------- | ---- | -------- |
+| **z10** | **Yüz** | **z10** | **Yüz** |
+| :--- | :--- | :--- | :--- |
 | 1    | Biçimli  | 6    | Kemikli     |
 | 2    | Çökük    | 7    | Keskin      |
 | 3    | Faremsi  | 8    | Kusursuz    |
@@ -287,8 +287,8 @@ Geleneksel karakter sınıflarına yakın bir şeyler arıyorsanız [**İsteğe 
 
 #### Konuşma Tarzı
 
-|  |         |      |            |
-| ------ | ------- | ---- | ---------- |
+| **z10** | **Konuşma Tarzı** | **z10** | **Konuşma Tarzı** |
+| :--- | :--- | :--- | :--- |
 | 1      | Cırtlak     | 6    | Lafını Esirgemeyen     |
 | 2      | Fısıltılı   | 7    | Monoton                |
 | 3      | Gürültülü   | 8    | Resmi                  |
@@ -297,8 +297,8 @@ Geleneksel karakter sınıflarına yakın bir şeyler arıyorsanız [**İsteğe 
 
 #### Giyim Kuşam
 
-|  |         |      |        |
-| -------- | ------- | ---- | ------ |
+| **z10** | **Giyim Kuşam** | **z10** | **Giyim Kuşam** |
+| :--- | :--- | :--- | :--- |
 | 1        | Aşınmış     | 6    | Lekeli        |
 | 2        | Eski        | 7    | Pislik İçinde |
 | 3        | Gösterişsiz | 8    | Üniforma      |
@@ -307,8 +307,8 @@ Geleneksel karakter sınıflarına yakın bir şeyler arıyorsanız [**İsteğe 
 
 #### Erdemler
 
-|  |             |      |           |
-| ------ | ----------- | ---- | --------- |
+| **z10** | **Erdemler** | **z10** | **Erdemler** |
+| :--- | :--- | :--- | :--- |
 | 1      | Alçakgönüllü   | 6    | Hoşgörülü   |
 | 2      | Azimli         | 7    | Huzurlu     |
 | 3      | Cesur          | 8    | Merhametli  |
@@ -317,8 +317,8 @@ Geleneksel karakter sınıflarına yakın bir şeyler arıyorsanız [**İsteğe 
 
 #### Kusurlar
 
-|  |            |      |          |
-| ---- | ---------- | ---- | -------- |
+| **z10** | **Kusurlar** | **z10** | **Kusurlar** |
+| :--- | :--- | :--- | :--- |
 | 1    | Açgözlü     | 6    | Kaba      |
 | 2    | Gergin      | 7    | Korkak    |
 | 3    | Gösterişçi  | 8    | Saldırgan |
@@ -327,8 +327,8 @@ Geleneksel karakter sınıflarına yakın bir şeyler arıyorsanız [**İsteğe 
 
 #### Nam
 
-|  |             |      |           |
-| ---------- | ----------- | ---- | --------- |
+| **z10** | **Nam** | **z10** | **Nam** |
+| :--- | :--- | :--- | :--- |
 | 1          | Avare     | 6    | İtici           |
 | 2          | Bilge     | 7    | Kaba ve Vahşi   |
 | 3          | Dürüst    | 8    | Saygın          |
@@ -337,8 +337,8 @@ Geleneksel karakter sınıflarına yakın bir şeyler arıyorsanız [**İsteğe 
 
 #### Talihsizlikler
 
-|  |             |      |             |
-| ----------- | ----------- | ---- | ----------- |
+| **z10** | **Talihsizlikler** | **z10** | **Talihsizlikler** |
+| :--- | :--- | :--- | :--- |
 | 1           | Bağımlı                 | 6    | Konumunu Kaybetmiş  |
 | 2           | Dolandırılmış           | 7    | Lanetlenmiş         |
 | 3           | Evlatlıktan Reddedilmiş | 8    | Sürgün Edilmiş      |
@@ -369,8 +369,8 @@ Geleneksel karakter sınıflarına yakın bir şeyler arıyorsanız [**İsteğe 
 
 #### Keşif Malzemeleri
 
-|      |                        |      |                |      |             |      |             |
-| ---- | ---------------------- | ---- | -------------- | ---- | ----------- | ---- | ----------- |
+| **z20** | **Eşya** | **z20** | **Eşya** | **z20** | **Eşya** | **z20** | **Eşya** |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1   |	Büyük Çuval  |	6  |	Kav Kutusu    |	11 |	Makara	        | 16 |	Su Arama Çubuğu                    |
 | 2   |	Büyük Tuzak  |	7  |	Kazma         |	12 |	Maymuncuk       | 17 |	Teleskop                           |
 | 3   |	Gaz Yağı     |	8  | Koruyucu Tılsım  |	13 |	Panzehir        | 18 |	Tırmanma Çengeli                   |
@@ -380,8 +380,8 @@ Geleneksel karakter sınıflarına yakın bir şeyler arıyorsanız [**İsteğe 
 
 #### Aletler
 
-|      |          |      |                |      |            |      |         |
-| ---- | -------- | ---- | -------------- | ---- | ---------- | ---- | ------- |
+| **z20** | **Eşya** | **z20** | **Eşya** | **z20** | **Eşya** | **z20** | **Eşya** |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1    | Ağ              | 6    | El Çevirmeli Matkap  | 11    | Körük      | 16   | Maşa        |
 | 2    | Çekiç           | 7    | Gres                 | 12    | Kum Saati  | 17   | Olta        |
 | 3    | Çiviler         | 8    | Kap Kacak            | 13    | Kürek      | 18   | Tebeşir     |
@@ -391,8 +391,8 @@ Geleneksel karakter sınıflarına yakın bir şeyler arıyorsanız [**İsteğe 
 
 #### Öteberi
 
-|      |              |      |            |      |               |      |           |
-| ---- | ------------ | ---- | ---------- | ---- | ------------- | ---- | --------- |
+| **z20** | **Eşya** | **z20** | **Eşya** | **z20** | **Eşya** | **z20** | **Eşya** |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1    | Ayna         | 6    | Katran Kabı   | 11   | Sabun             | 16   | Tuz Kesesi            |
 | 2    | Bilyeler     | 7    | Küçük Çan     | 12   | Sahte Mücevherler | 17   | Tütsü                 |
 | 3    | Boynuz       | 8    | Mercek        | 13   | Sicim             | 18   | Tüy Kalem ve Mürekkep |
@@ -409,8 +409,8 @@ Geleneksel karakter sınıflarına yakın bir şeyler arıyorsanız [**İsteğe 
 
 #### Büyü Kitapları (z100)
 
-|      |               |      |                 |      |                 |      |                 |
-| ---- | ------------- | ---- | --------------- | ---- | --------------- | ---- | --------------- |
+| **z100** | **Büyü** | **z100** | **Büyü** | **z100** | **Büyü** | **z100** | **Büyü** |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1    | Açgözlülük       | 26   | Element Duvarı        | 51   | Kalkan            | 76   | Sahte Kılık            |
 | 2    | Akıl Okuma       | 27   | Element Şekillendirme | 52   | Kayganlaştırma    | 77   | Ses Yanılsaması        |
 | 3    | Atlama           | 28   | Esneklik              | 53   | Kılık Değiştirme  | 78   | Sıralama               |
@@ -444,8 +444,8 @@ Geleneksel karakter sınıflarına yakın bir şeyler arıyorsanız [**İsteğe 
 
 #### Zırh
 
-|               |              |
-| ------------- | ------------ |
+| **Zırh** | **Maliyet** |
+| :--- | :--- |
 | Kalkan        (+1 Zırh)              | 10           |
 | Miğfer        (+1 Zırh)              | 10           |
 | Gambeson      (+1 Zırh)              | 15           |
@@ -455,8 +455,8 @@ Geleneksel karakter sınıflarına yakın bir şeyler arıyorsanız [**İsteğe 
 
 #### Silahlar
 
-|                                  |                  |
-| -------------------------------  | ---------------- |
+| **Silah** | **Maliyet** |
+| :--- | :--- |
 | Hançer, Sopa, Orak, vb. (z6 hasar)                                   | 5     |
 | Mızrak, Kılıç, Gürz, Balta, Zincirli Gürz, vb. (z8 hasar)             | 10    |
 | Baltalı Mızrak, Savaş Çekici, Uzun Kılıç vb. (z10 hasar, büyük eşya)  | 20    |
@@ -466,8 +466,8 @@ Geleneksel karakter sınıflarına yakın bir şeyler arıyorsanız [**İsteğe 
 
 #### Eşyalar ve Aletler
 
-|                                      | |                                      |  |
-|------------------------------------------|--------------|------------------------------------------|--------------|
+| **Eşya** | **Maliyet** | **Eşya** | **Maliyet** |
+| :--- | :--- | :--- | :--- |
 | Ağ                              | 10           | Körük                                | 10       |
 | At (+4 bölme)                   | 75           | Kova                                 | 5        |
 | At Arabası (+8 bölme, yavaş)    | 200          | Kum Saati                            | 50       |
@@ -504,8 +504,8 @@ Geleneksel karakter sınıflarına yakın bir şeyler arıyorsanız [**İsteğe 
 
 #### Büyü Kullanıcısı
 
-|                                 |
-| ------------------------------- |
+| **Eşya** |
+| :--- |
 | Vızıldayan Asa (z8, büyük eşya)       |
 | Hançer (z6)                           |
 | Büyü Kitabı (Rastgele Büyü)           |
@@ -515,8 +515,8 @@ Geleneksel karakter sınıflarına yakın bir şeyler arıyorsanız [**İsteğe 
 
 #### Cüce
 
-|                                         |
-|-----------------------------------------|
+| **Eşya** |
+| :--- |
 | Dikenli Kök (z6) |
 | Çam Kozalağı Kafesi (1 Zırh) |
 | Kısa Kürek |
@@ -526,8 +526,8 @@ Geleneksel karakter sınıflarına yakın bir şeyler arıyorsanız [**İsteğe 
 
 #### Elf
 
-|                                 |
-| ------------------------------- |
+| **Eşya** |
+| :--- |
 | Zarif Kılıç (z8) |
 | Gerikıvrımlı Yay (z8) |
 | Yaldızlı Giysiler (1 Zırh) |
@@ -537,8 +537,8 @@ Geleneksel karakter sınıflarına yakın bir şeyler arıyorsanız [**İsteğe 
 
 #### Frer
 
-|                                 |
-| ------------------------------- |
+| **Eşya** |
+| :--- |
 | Tören Asası (z6) |
 | Yanıltıcı Cüppe (+1 Zırh) |
 | Buhurdanlık ve Kutsal Su |
@@ -548,8 +548,8 @@ Geleneksel karakter sınıflarına yakın bir şeyler arıyorsanız [**İsteğe 
 
 #### Hırsız
 
-|                                 |
-| ------------------------------- |
+| **Eşya** |
+| :--- |
 | İki hançer (z6+z6) |
 | Kapüşonlu Ceket (1 Zırh) |
 | Maymuncuk |
@@ -559,8 +559,8 @@ Geleneksel karakter sınıflarına yakın bir şeyler arıyorsanız [**İsteğe 
 
 #### Korucu
 
-|                                 |
-| ------------------------------- |
+| **Eşya** |
+| :--- |
 | Uzun Yay (z8, büyük eşya) |
 | El Baltası (z6) |
 | Dolgulu Deri Giysiler (1 Zırh) |
@@ -570,8 +570,8 @@ Geleneksel karakter sınıflarına yakın bir şeyler arıyorsanız [**İsteğe 
 
 #### Ruhban
 
-|                                 |
-| ------------------------------- |
+| **Eşya** |
+| :--- |
 | Savaş Çekici (z10, büyük eşya) |
 | Zincir Zırh (2 Zırh, büyük eşya) |
 | Zırh Eldivenleri (+1 Zırh) |
@@ -581,8 +581,8 @@ Geleneksel karakter sınıflarına yakın bir şeyler arıyorsanız [**İsteğe 
 
 #### Savaşçı
 
-|                                 |
-| ------------------------------- |
+| **Eşya** |
+| :--- |
 | Kılıçlı Mızrak (z10, büyük eşya) |
 | Pala (z8) |
 | Kısa Kılıç (z6) |
@@ -591,8 +591,8 @@ Geleneksel karakter sınıflarına yakın bir şeyler arıyorsanız [**İsteğe 
 
 #### Su Arayıcı
 
-|                                 |
-| ------------------------------- |
+| **Eşya** |
+| :--- |
 | Orak (z6) |
 | Yamalı Ceket (+1 Zırh) |
 | Su Arama Çubuğu |
@@ -602,8 +602,8 @@ Geleneksel karakter sınıflarına yakın bir şeyler arıyorsanız [**İsteğe 
 
 #### Şövalye
 
-|                                 |
-| ------------------------------- |
+| **Eşya** |
+| :--- |
 | Uzun Kılıç (z8, büyük eşya) |
 | Zincir Zırh (2 Zırh, büyük eşya) |
 | Miğfer (+1 Zırh) |
@@ -767,8 +767,8 @@ Korkunç bir durumdan kaçmak her zaman başarılı bir ÇEV kurtarması ve kaç
 ### Yaralar Çizelgesi
 Bir saldırı bir oyuncunun DK'sini tam olarak 0'a düşürdüğünde oyuncu mutlaka bundan bir şekilde etkilenir. Alınan toplam hasara göre aşağıdaki çizelgede sonucu bulun:
 
-|      |                                                              |
-|------ |---|
+| **Kayıp DK** | **Sonuç** |
+| :--- | :--- |
 | 1    | Kalıcı Yara İzi: 1z6 atın &#124;  1: Boyun, 2: Eller, 3: Göz, 4: Göğüs, 5: Bacaklar, 6: Kulak. 1z6 atın. Eğer çıkan sonuç mevcut maksimum DK'nizden yüksekse yeni sonucu alın.
 | 2    | Sarsıcı Darbe: Kafanız karışır ve sarsılırsınız. Kendinizi nasıl toparladığınızı açıklayın. 1z6 atın. Eğer çıkan sonuç mevcut maksimum DK'nizden yüksekse yeni sonucu alın.
 | 3   | Yere Serilme: Havada uçarsınız ve yüz üstü, soluk soluğa yere düşersiniz. Birkaç saat dinlenene kadar yoksun olursunuz. Sonra 1z6 atın. Bu miktarı maksimum DK'nize ekleyin.
@@ -855,8 +855,8 @@ Hasar zarları aşağı yukarı aynıdır, ancak silahlı saldırılar en az 1z6
 
 ## 100 Spells
 
-|    |                   |                                                                                                                                                            |
-| --- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **z100** | **Büyü** | **Açıklama** |
+| :--- | :--- | :--- |
 | 1   | Açgözlülük           | Hedefiniz, sizin seçtiğiniz ve gözle görülebilir olan bir eşyaya sahip olmak için karşı konulmaz bir arzu duyar.                                                        |
 | 2   | Akıl Okuma          | Yakındaki varlıkların düşüncelerini yüzeysel olarak duyabilirsiniz.                                                                                                 |
 | 3   | Atlama                | Bir kereliğine 3 metre yükseğe zıplayabilirsiniz.                                                                                                                    |

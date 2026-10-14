@@ -213,8 +213,8 @@ There is no perfect system for converting from other systems. Here are some tips
 - Stat blocks will use a shorthand like (E1) or (F1) (Level 1 Elf or Fighter respectively). These are really helpful for quickly identifying the creature's abilities.
 - Consider adding descriptive tags such as "immune to toxic gas" or "good at dodging" based on the saving throws. The following table should help determine which saving throws should result in an increase in one of the relevant ability scores.
 
-|                                |                    |
-| ------------------------------ | ------------------ |
+| **Saving Throw** | **Ability** |
+| :--- | :--- |
 | **Death or Poison**            | **STR**            |
 | **Wands**                      | **DEX**            |
 | **Paralysis or Petrification** | **WIL** or **STR** |

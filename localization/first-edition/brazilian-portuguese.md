@@ -191,8 +191,8 @@ Se você quiser algo mais próximo das classes tradicionais, consulte a lista de
 
 #### Nomes Femininos
 
-|      |          |      |         |      |          |      |        |
-| ---- | -------- | ---- | ------- | ---- | -------- | ---- | ------ |
+| **d20** | **Nome** | **d20** | **Nome** | **d20** | **Nome** | **d20** | **Nome** |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1    | Agune    | 6    | Drelil  | 11   | Lirann   | 16   | Sybil  |
 | 2    | Beatrice | 7    | Elgile  | 12   | Lirathil | 17   | Theune |
 | 3    | Breagan  | 8    | Esme    | 13   | Lisabeth | 18   | Wenain |
@@ -202,8 +202,8 @@ Se você quiser algo mais próximo das classes tradicionais, consulte a lista de
 
 #### Nomes Masculinos
 
-|      |         |      |           |      |         |      |          |
-| ---- | ------- | ---- | --------- | ---- | ------- | ---- | -------- |
+| **d20** | **Nome** | **d20** | **Nome** | **d20** | **Nome** | **d20** | **Nome** |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1    | Arwel   | 6    | Breglor   | 11   | Grinwit | 16   | Melnax   |
 | 2    | Bevan   | 7    | Canhoreal | 12   | Gruwid  | 17   | Orthax   |
 | 3    | Boroth  | 8    | Emrys     | 13   | Gruwth  | 18   | Triunein |
@@ -212,8 +212,8 @@ Se você quiser algo mais próximo das classes tradicionais, consulte a lista de
 
 #### Sobrenomes
 
-|      |            |      |            |      |           |      |          |
-| ---- | ---------- | ---- | ---------- | ---- | --------- | ---- | -------- |
+| **d20** | **Nome** | **d20** | **Nome** | **d20** | **Nome** | **d20** | **Nome** |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1    | Abernathy  | 6    | Crumwaller | 11   | Harper    | 16   | Swinney  |
 | 2    | Addercap   | 7    | Dunswallow | 12   | Loomer    | 17   | Thatcher |
 | 3    | Burl       | 8    | Getri      | 13   | Malksmilk | 18   | Tolmen   |
@@ -222,8 +222,8 @@ Se você quiser algo mais próximo das classes tradicionais, consulte a lista de
 
 #### Antecedentes
 
-|      |            |      |                     |      |             |      |             |
-| ---- | ---------- | ---- | ------------------- | ---- | ----------- | ---- | ----------- |
+| **d20** | **Antecedente** | **d20** | **Antecedente** | **d20** | **Antecedente** | **d20** | **Antecedente** |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1    | Alquimista | 6    | Batedor de Carteira | 11   | Coveiro     | 16   | Mercenário  |
 | 2    | Apostador  | 7    | Carpinteiro         | 12   | Ferreiro    | 17   | Minerador   |
 | 3    | Artista    | 8    | Caçador             | 13   | Fora-da-Lei | 18   | Mágico      |
@@ -236,8 +236,8 @@ Se você quiser algo mais próximo das classes tradicionais, consulte a lista de
 
 #### Físico
 
-|      |            |      |           |
-| ---- | ---------- | ---- | --------- |
+| **d10** | **Físico** | **d10** | **Físico** |
+| :--- | :--- | :--- | :--- |
 | 1    | Alto       | 6    | Esguio    |
 | 2    | Atlético   | 7    | Flácido   |
 | 3    | Baixo      | 8    | Magricelo |
@@ -246,8 +246,8 @@ Se você quiser algo mais próximo das classes tradicionais, consulte a lista de
 
 #### Pele
 
-|      |             |      |                   |
-| ---- | ----------- | ---- | ----------------- |
+| **d10** | **Pele** | **d10** | **Pele** |
+| :--- | :--- | :--- | :--- |
 | 1    | Alongada    | 6    | Manchada          |
 | 2    | Bronzeada   | 7    | Marca de Nascença |
 | 3    | Envelhecida | 8    | Marcada           |
@@ -256,8 +256,8 @@ Se você quiser algo mais próximo das classes tradicionais, consulte a lista de
 
 #### Cabelo
 
-|      |          |      |          |
-| ---- | -------- | ---- | -------- |
+| **d10** | **Cabelo** | **d10** | **Cabelo** |
+| :--- | :--- | :--- | :--- |
 | 1    | Cacheado | 6    | Oleoso   |
 | 2    | Careca   | 7    | Ondulado |
 | 3    | Crespo   | 8    | Ralo     |
@@ -266,8 +266,8 @@ Se você quiser algo mais próximo das classes tradicionais, consulte a lista de
 
 #### Rosto
 
-|      |           |      |          |
-| ---- | --------- | ---- | -------- |
+| **d10** | **Rosto** | **d10** | **Rosto** |
+| :--- | :--- | :--- | :--- |
 | 1    | Alongado  | 6    | Perfeito |
 | 2    | Encovado  | 7    | Pálido   |
 | 3    | Esculpido | 8    | Quadrado |
@@ -276,8 +276,8 @@ Se você quiser algo mais próximo das classes tradicionais, consulte a lista de
 
 #### Fala
 
-|      |            |      |             |
-| ---- | ---------- | ---- | ----------- |
+| **d10** | **Fala** | **d10** | **Fala** |
+| :--- | :--- | :--- | :--- |
 | 1    | Direta     | 6    | Grave       |
 | 2    | Enigmática | 7    | Precisa     |
 | 3    | Estridente | 8    | Sussurrante |
@@ -286,8 +286,8 @@ Se você quiser algo mais próximo das classes tradicionais, consulte a lista de
 
 #### Roupas
 
-|      |              |      |                |
-| ---- | ------------ | ---- | -------------- |
+| **d10** | **Roupas** | **d10** | **Roupas** |
+| :--- | :--- | :--- | :--- |
 | 1    | Antiquadas   | 6    | Ensanguentadas |
 | 2    | Desalinhadas | 7    | Estranhas      |
 | 3    | Desgastadas  | 8    | Imundas        |
@@ -296,8 +296,8 @@ Se você quiser algo mais próximo das classes tradicionais, consulte a lista de
 
 #### Virtude
 
-|      |              |      |           |
-| ---- | ------------ | ---- | --------- |
+| **d10** | **Virtude** | **d10** | **Virtude** |
+| :--- | :--- | :--- | :--- |
 | 1    | Ambicioso    | 6    | Humilde   |
 | 2    | Cauteloso    | 7    | Piedoso   |
 | 3    | Corajoso     | 8    | Sereno    |
@@ -306,8 +306,8 @@ Se você quiser algo mais próximo das classes tradicionais, consulte a lista de
 
 #### Vício
 
-|      |            |      |            |
-| ---- | ---------- | ---- | ---------- |
+| **d10** | **Vício** | **d10** | **Vício** |
+| :--- | :--- | :--- | :--- |
 | 1    | Agressivo  | 6    | Preguiçoso |
 | 2    | Amargurado | 7    | Rude       |
 | 3    | Covarde    | 8    | Traiçoeiro |
@@ -316,8 +316,8 @@ Se você quiser algo mais próximo das classes tradicionais, consulte a lista de
 
 #### Reputação
 
-|      |            |      |            |
-| ---- | ---------- | ---- | ---------- |
+| **d10** | **Reputação** | **d10** | **Reputação** |
+| :--- | :--- | :--- | :--- |
 | 1    | Ambiciosa  | 6    | Preguiçosa |
 | 2    | Animadora  | 7    | Repulsiva  |
 | 3    | Excêntrica | 8    | Respeitada |
@@ -326,8 +326,8 @@ Se você quiser algo mais próximo das classes tradicionais, consulte a lista de
 
 #### Infortúnios
 
-|      |             |      |              |
-| ---- | ----------- | ---- | ------------ |
+| **d10** | **Infortúnios** | **d10** | **Infortúnios** |
+| :--- | :--- | :--- | :--- |
 | 1    | Abandonado  | 6    | Descreditado |
 | 2    | Amaldiçoado | 7    | Deserdado    |
 | 3    | Chantageado | 8    | Exilado      |
@@ -358,8 +358,8 @@ Se você quiser algo mais próximo das classes tradicionais, consulte a lista de
 
 #### Equipamento de Expedição
 
-|      |                     |      |                                 |      |                         |      |                 |
-| ---- | ------------------- | ---- | ------------------------------- | ---- | ----------------------- | ---- | --------------- |
+| **d20** | **Item** | **d20** | **Item** | **d20** | **Item** | **d20** | **Item** |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1    | Acônito             | 6    | Arpéu                           | 11   | Corrente (3m)           | 16   | Picareta        |
 | 2    | Algemas             | 7    | Bastão (3m)                     | 12   | Ferramentas de chaveiro | 17   | Polia           |
 | 3    | Amuleto de Proteção | 8    | Bexiga de Ar                    | 13   | Luneta                  | 18   | Repelente       |
@@ -368,8 +368,8 @@ Se você quiser algo mais próximo das classes tradicionais, consulte a lista de
 
 #### Ferramentas
 
-|     |                |     |               |     |             |     |                |
-| --- | -------------- | --- | ------------- | --- | ----------- | --- | -------------- |
+| **d20** | **Item** | **d20** | **Item** | **d20** | **Item** | **d20** | **Item** |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1   | Ampulheta      | 6   | Fole          | 11  | Pá          | 16  | Pregos         |
 | 2   | Balde          | 7   | Giz           | 12  | Panela      | 17  | Rede           |
 | 3   | Broca (Manual) | 8   | Graxa         | 13  | Pé-de-Cabra | 18  | Serra          |
@@ -378,8 +378,8 @@ Se você quiser algo mais próximo das classes tradicionais, consulte a lista de
 
 #### Bugigangas
 
-|     |          |     |         |     |              |     |         |
-| --- | -------- | --- | ------- | --- | ------------ | --- | ------- |
+| **d20** | **Item** | **d20** | **Item** | **d20** | **Item** | **d20** | **Item** |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1   | Apito    | 6   | Dados   | 11  | Instrumento  | 16  | Piche   |
 | 2   | Baralho  | 7   | Espelho | 12  | Joias Falsas | 17  | Sabão   |
 | 3   | Barbante | 8   | Esponja | 13  | Lente        | 18  | Sal     |
@@ -396,8 +396,8 @@ Se você quiser algo mais próximo das classes tradicionais, consulte a lista de
 
 ###	Livros de Feitiço (d100)
 
-|      |                      |      |                    |      |                          |      |                  |
-| ---- | -------------------- | ---- | ------------------ | ---- | ------------------------ | ---- | ---------------- |
+| **d100** | **Feitiço** | **d100** | **Feitiço** | **d100** | **Feitiço** | **d100** | **Feitiço** |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1    | Acelerar             | 26   | Criar Cubo         | 51   | Identificar Proprietário | 76   | Portão           |
 | 2    | Aderir               | 27   | Curar Ferimentos   | 52   | Iluminar                 | 77   | Prisão Astral    |
 | 3    | Adormecer            | 28   | Deslocar           | 53   | Ilusão Auditiva          | 78   | Proteger         |
@@ -430,8 +430,8 @@ Se você quiser algo mais próximo das classes tradicionais, consulte a lista de
 
 #### Armadura
 
-|                                      |      |
-| ------------------------------------ | ---- |
+| **Armadura** | **Custo** |
+| :--- | :--- |
 | Escudo (+1 Armadura)                 | 10   |
 | Elmo (+1 Armadura)                   | 10   |
 | Jaquetão (+1 Armadura)               | 15   |
@@ -441,8 +441,8 @@ Se você quiser algo mais próximo das classes tradicionais, consulte a lista de
 
 #### Armas
 
-|                                                              |      |
-| ------------------------------------------------------------ | ---- |
+| **Arma** | **Custo** |
+| :--- | :--- |
 | Adaga, Porrete, Foice, Cajado, etc. (d6  dano)               | 5    |
 | Lança, Espada, Maça, Machado, Mangual, etc. (d8 dano)        | 10   |
 | Alabarda, Martelo de Guerra, Espada Grande , etc. (d10 dano, volumoso) | 20   |
@@ -452,8 +452,8 @@ Se você quiser algo mais próximo das classes tradicionais, consulte a lista de
 
 #### Equipamento e Ferramentas
 
-|                                    |      |                          |      |
-| ---------------------------------- | ---- | ------------------------ | ---- |
+| **Equipamento** | **Custo** | **Equipamento** | **Custo** |
+| :--- | :--- | :--- | :--- |
 | Acônito                            | 10   | Giz                      | 1    |
 | Água Benta                         | 25   | Graxa                    | 10   |
 | Algemas                            | 10   | Incenso                  | 10   |
@@ -489,8 +489,8 @@ Se você quiser algo mais próximo das classes tradicionais, consulte a lista de
 
 #### Anão
 
-|                              |
-| ---------------------------- |
+| **Item** |
+| :--- |
 | Raiz Espinhosa (d6)          |
 | Malha de Pinhas (1 Armadura) |
 | Espátula                     |
@@ -500,8 +500,8 @@ Se você quiser algo mais próximo das classes tradicionais, consulte a lista de
 
 #### Cavaleiro
 
-|                                      |
-| ------------------------------------ |
+| **Item** |
+| :--- |
 | Espada Longa (d8, volumoso)          |
 | Cota de Malha (2 Armadura, volumoso) |
 | Elmo (+1  Armadura)                  |
@@ -511,8 +511,8 @@ Se você quiser algo mais próximo das classes tradicionais, consulte a lista de
 
 #### Clérigo
 
-|                                            |
-| ------------------------------------------ |
+| **Item** |
+| :--- |
 | Martelo de Guerra (d10, volumoso)          |
 | Cota de Malha (2 Armadura, volumoso)       |
 | Manoplas (+1 Armadura)                     |
@@ -522,8 +522,8 @@ Se você quiser algo mais próximo das classes tradicionais, consulte a lista de
 
 #### Elfo
 
-|                                                |
-| ---------------------------------------------- |
+| **Item** |
+| :--- |
 | Espada Elegante (d8)                           |
 | Arco Recurvo (d8)                              |
 | Roupas Douradas (1 Armadura)                   |
@@ -533,8 +533,8 @@ Se você quiser algo mais próximo das classes tradicionais, consulte a lista de
 
 #### Frade
 
-|                                  |
-| -------------------------------- |
+| **Item** |
+| :--- |
 | Cetro (d6)                       |
 | Mantos Enganosos (+1 Armadura)   |
 | Turíbulo e Água Benta            |
@@ -544,8 +544,8 @@ Se você quiser algo mais próximo das classes tradicionais, consulte a lista de
 
 #### Guerreiro
 
-|                        |
-| ---------------------- |
+| **Item** |
+| :--- |
 | Glaive (d10, volumoso) |
 | Cimitarra (d8)         |
 | Espada Curta (d6)      |
@@ -554,8 +554,8 @@ Se você quiser algo mais próximo das classes tradicionais, consulte a lista de
 
 #### Ladrão
 
-|                              |
-| ---------------------------- |
+| **Item** |
+| :--- |
 | Duas Adagas (d6+d6)          |
 | Manto com Capuz (1 Armadura) |
 | Ferramentas de Chaveiro      |
@@ -565,8 +565,8 @@ Se você quiser algo mais próximo das classes tradicionais, consulte a lista de
 
 #### Mago
 
-|                                         |
-| --------------------------------------- |
+| **Item** |
+| :--- |
 | Cajado Usado (d8, volumoso)             |
 | Adaga (d6)                              |
 | Livro de Feitiço (aleatório)            |
@@ -576,8 +576,8 @@ Se você quiser algo mais próximo das classes tradicionais, consulte a lista de
 
 #### Patrulheiro
 
-|                                                |
-| ---------------------------------------------- |
+| **Item** |
+| :--- |
 | Arco Longo (d8, volumoso)                      |
 | Machadinha (d6)                                |
 | Couro Acolchoado (1  Armadura)                 |
@@ -587,8 +587,8 @@ Se você quiser algo mais próximo das classes tradicionais, consulte a lista de
 
 #### Rabdomante
 
-|                                                  |
-| ------------------------------------------------ |
+| **Item** |
+| :--- |
 | Foice (d6)                                       |
 | Gibão de Retalhos (+1  Armadura)                 |
 | Vara Rabdomante                                  |
@@ -748,8 +748,8 @@ Fugir de uma situação ruim requer um salvamento de DES bem-sucedido e um desti
 
 Quando um ataque reduz o PG de um PJ a exatamente 0, ele é afetado de forma única. Procure o resultado na tabela abaixo com base no dano total sofrido:
 
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
+| **PG Perdidos** | **Resultado** |
+| :--- | :--- |
 | 1    | Cicatriz Duradoura: Role 1d6 &#124; 1: Pescoço, 2: Mãos, 3: Olho, 4: Peito, 5: Pernas, 6: Orelha. Role 1d6. Se o total for maior do que seu PG máximo, ele se torna o novo resultado. |
 | 2    | Golpe Chocante: Você está desorientado e abalado. Descreva como você se reorienta. Role 1d6. Se o total for maior do que seu PG máximo, ele se torna o novo resultado. |
 | 3    | Sacudido: Você voou longe e caiu de cara no chão, sem fôlego. Você está privado até que descanse por algumas horas. Então, role 1d6. Adicione essa quantidade ao seu PG máximo. |
@@ -849,8 +849,8 @@ Os dados de dano são praticamente os mesmos, embora os ataques armados causem p
 
 ## 100 Feitiços
 
-|      |                          |                                                              |
-| ---- | ------------------------ | ------------------------------------------------------------ |
+| **d100** | **Feitiço** | **Descrição** |
+| :--- | :--- | :--- |
 | 1    | Acelerar                 | Sua velocidade de movimento é triplicada.                    |
 | 2    | Aderir                   | Um objeto é coberto em uma gosma extremamente grudenta.      |
 | 3    | Adormecer                | Uma criatura que você pode ver cai em um sono leve.          |

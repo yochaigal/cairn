@@ -25,8 +25,8 @@ Drake, Cyra, Keir, Darius, Valen, Rorik, Yara, Rui, Talon, Jory
 
 ## What personal code or principle do you uphold? Roll 1d6:
 
-|       |                                                                                                                                                                                                                                                                                       |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **d6** | **Result** |
+| :--- | :--- |
 | **1** | **No innocent blood**: No bystander will come to harm on your watch. Take a **Steadymade Buckler** (+1 Armor). While holding this shield, you cannot be moved so long as both feet are planted on firm ground.                                                                         |
 | **2** | **Revere the tools of death**: Weapons are to be respected and maintained. Take a **Wyrmbone Whetstone**. Following a half-hour ritual sharpening, attacks with the weapon are _enhanced_ until STR damage is dealt.                                                                  |
 | **3** | **To the death, always**: You never back down from a fight, no matter the odds. Take a **Death-Whistle**, 1 charge. Its scream frightens away all who hear it (save WIL or flee). **Recharge**: Capture the final breath of a dying warrior.                                          |
@@ -37,8 +37,8 @@ Drake, Cyra, Keir, Darius, Valen, Rorik, Yara, Rui, Talon, Jory
 
 ## What breed is your horse? Roll 1d6:
 
-|       |                       |                                                                                                                 |
-| ----- | --------------------- | --------------------------------------------------------------------------------------------------------------- |
+| **d6** | **Mount** | **Description** |
+| :--- | :--- | :--- |
 | **1** | **Heavy Destrier**    | A beast built for war, an imposing creature. 8 HP, 1 Armor, hooves (d10+d10), +2 slots.                         |
 | **2** | **Blacklegged Dandy** | Hardy and adaptable. **Tough** or **Perilous** terrain are one step easier. 6 HP. +4 slots.                     |
 | **3** | **Rivertooth**        | Impressively strong, capable of carrying heavy loads. 4 HP. +6 slots (only +2 slots if carrying two people).    |

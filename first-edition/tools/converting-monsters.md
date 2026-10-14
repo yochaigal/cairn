@@ -58,8 +58,8 @@ The following table offers a decent guide on converting **ML** to **WIL**.
 
 The following table should help determine which saving throws should result in an increase in one of the relevant ability scores.
 
-|                                |            |
-| ------------------------------ | ---------- |
+| **Saving Throw** | **Ability** |
+| :--- | :--- |
 | **Death or Poison**            | STR        |
 | **Wands**                      | DEX        |
 | **Paralysis or Petrification** | WIL or STR |

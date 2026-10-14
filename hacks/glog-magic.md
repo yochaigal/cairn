@@ -21,8 +21,8 @@ To use [GLOG Magic](http://goblinpunch.blogspot.com/2016/05/the-glog.html) in Ca
 
 #### Mishaps (compare result to [sum])
 
-||                 |
-| ---- | ---- |
+| **[sum]** | **Mishap** |
+| :--- | :--- |
 |2|You cannot cast spells for 1d6 hours, and any attempts to manipulate magic will fail.|
 |3|For the next 24 hours, when casting spells you gain a Fatigue on a roll of 3-6.|
 |4|There is a chain reaction to the spell (the Warden will say how). Take an additional Fatigue.|
@@ -55,8 +55,8 @@ Expand For Example
 ### **Example**
  _**Barry** has 4 free inventory slots, giving him 4 **Magic Dice**. He selects the spell **Mirror Image**:_
 
- |||
- |---||
+| **Spell** | **Description** |
+| :--- | :--- |
  | **Mirror Image**  | [dice] illusory duplicates of yourself appear under your control. |
 
  _He decides to invest 3 of his **Magic Dice**. That means he can create **three** duplicates that last for **thirty** minutes each. He rolls: double 2s and a 5. The spell effects occur, and he takes one Fatigue. However, he also rolled a **series**, meaning a Mishap has occurred. He gets the [sum] of the dice - 9 - and looks up the effect on the Mishaps table._
