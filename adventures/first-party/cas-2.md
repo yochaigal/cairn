@@ -69,7 +69,7 @@ Dog-sized herbivores, with short, stubby legs. They are blind, and have antler-l
 
 
 # Blue Mouth Caves
-![BloodOlm Map (1)](/adventures/first-party/img/cas-2/BloodOlm_Map (1).webp)
+![BloodOlm Map (1)](/adventures/first-party/img/cas-2/BloodOlm_Map.webp)
 
 ## Dungeon Overview
 
