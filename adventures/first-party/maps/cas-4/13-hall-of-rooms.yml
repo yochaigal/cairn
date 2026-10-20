@@ -1,0 +1,52 @@
+height: 2074
+width: 1993
+regions:
+  - href: "#17-library"
+    title: "17. Library"
+    points:
+      - [1525, 1335]
+      - [1801, 1335]
+      - [1806, 1497]
+      - [1509, 1498]
+  - href: "#16-yellow-room"
+    title: "16. Yellow Room"
+    points:
+      - [1336, 1602]
+      - [1431, 1600]
+      - [1433, 1699]
+      - [1335, 1697]
+  - href: "#18-private-chambers"
+    title: "18. Private Chambers"
+    points:
+      - [1717, 1546]
+      - [1840, 1541]
+      - [1829, 1623]
+      - [1724, 1622]
+  - href: "#15-blue-room"
+    title: "15. Blue Room"
+    points:
+      - [1597, 1595]
+      - [1717, 1600]
+      - [1720, 1692]
+      - [1599, 1694]
+  - href: "#14-red-room"
+    title: "14. Red Room"
+    points:
+      - [1599, 1701]
+      - [1720, 1699]
+      - [1720, 1806]
+      - [1602, 1806]
+  - href: "#12-dining-room"
+    title: "12. Dining Room"
+    points:
+      - [1431, 1849]
+      - [1606, 1847]
+      - [1606, 1935]
+      - [1431, 1937]
+  - href: "#8-western-hall"
+    title: "8. Western Hall"
+    points:
+      - [1301, 1761]
+      - [1363, 1759]
+      - [1359, 1820]
+      - [1303, 1822]

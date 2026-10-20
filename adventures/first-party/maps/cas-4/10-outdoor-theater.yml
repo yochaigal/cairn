@@ -1,0 +1,17 @@
+height: 3150
+width: 2099
+regions:
+  - href: "#9-well"
+    title: "9. Well"
+    points:
+      - [1839, 2601]
+      - [1941, 2596]
+      - [1947, 2924]
+      - [1834, 2928]
+  - href: "#2-servants-quarters"
+    title: "2. Servants Quarters"
+    points:
+      - [1613, 2831]
+      - [1689, 2826]
+      - [1684, 2918]
+      - [1608, 2922]
