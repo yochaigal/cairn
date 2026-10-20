@@ -1,0 +1,31 @@
+height: 3150
+width: 4050
+regions:
+  - href: "#9-well"
+    title: "9. Well"
+    points:
+      - [2265, 211]
+      - [2494, 211]
+      - [2490, 326]
+      - [2258, 322]
+  - href: "#7-greenhouse"
+    title: "7. Greenhouse"
+    points:
+      - [2515, 383]
+      - [2622, 379]
+      - [2619, 469]
+      - [2515, 480]
+  - href: "#8-western-hall"
+    title: "8. Western Hall"
+    points:
+      - [2515, 508]
+      - [2601, 505]
+      - [2605, 587]
+      - [2512, 576]
+  - href: "#5-kitchen"
+    title: "5. Kitchen"
+    points:
+      - [2275, 616]
+      - [2397, 612]
+      - [2394, 694]
+      - [2272, 694]

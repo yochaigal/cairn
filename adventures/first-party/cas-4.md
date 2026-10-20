@@ -163,11 +163,19 @@ Ornate iron **gates**, heavy with rust, block the path. Thick, unmanicured **hed
 * **Mist**: A trail leads north through the gates, then splits off to the west.
 	* A large rusted lock lies near the gates, obscured by the mist. A red key is still inside the cylinder. If the key is removed, the key reverts to a puddle of useless fluid (see Key Syrup in [6. Workshop](#6-workshop)).
 
-![Gates](/adventures/first-party/img/cas-4/gate.webp)
+{::nomarkdown}
+<img
+  class="jil-map-image"
+  src="/adventures/first-party/img/cas-4/gate.webp"
+  loading="lazy"
+  data-jil-regions="/adventures/first-party/maps/cas-4/1-gates.yml"
+  data-jil-viewer="false"
+  data-jil-inline="true"
+  data-jil-labels="false"
+/>
+{:/nomarkdown}
 
 #### 2. Servant’s Quarters
-
-![Servant's Quarters](/adventures/first-party/img/cas-4/servants-quarters.webp)
 
 A small collapsed **building** of tarnished wood and stone. An iron **stove** peeks out from amid the rubble. A small path **runs** north from the building.
 
@@ -178,6 +186,18 @@ A small collapsed **building** of tarnished wood and stone. An iron **stove** pe
 	* A piece of wall-mirror survived the fire, though its frame did not. The back of the glass is unusually phosphorescent and glows in the dark.
 	* Buried in the ashes is a red ruby necklace worth 150gp. A gift from Marius to Isobel, it bears her name in engraved text. Anyone wearing the necklace finds that they cannot remove it (even by force). It can only be removed by one who was wronged by the wearer, but later forgave them. If Isobel is put to rest, the necklace returns to normal.
 * **Path**: From the back of the building is a path leading to the intersection of [9. Well](#9-well) and [10. Outdoor Theater](#10-outdoor-theater).
+
+{::nomarkdown}
+<img
+  class="jil-map-image"
+  src="/adventures/first-party/img/cas-4/servants-quarters.webp"
+  loading="lazy"
+  data-jil-regions="/adventures/first-party/maps/cas-4/2-servants-quarters.yml"
+  data-jil-viewer="false"
+  data-jil-inline="true"
+  data-jil-labels="false"
+/>
+{:/nomarkdown}
 
 ### First Floor
 
@@ -204,7 +224,17 @@ A small but ornate waiting room with a pale **couch** pushed against the west wa
 	* **Moss**: Created by Marius as he moved into [4. Ballroom](#4-ballroom).
 * **Mirror**: A minor crack in the corner disturbs the glass. The gap it creates glows faintly, but only in total darkness.
 
-![Entry](/adventures/first-party/img/cas-4/entry.webp)
+{::nomarkdown}
+<img
+  class="jil-map-image"
+  src="/adventures/first-party/img/cas-4/entry.webp"
+  loading="lazy"
+  data-jil-regions="/adventures/first-party/maps/cas-4/3a-entry.yml"
+  data-jil-viewer="false"
+  data-jil-inline="true"
+  data-jil-labels="false"
+/>
+{:/nomarkdown}
 
 #### 4. Ballroom
 
@@ -214,7 +244,17 @@ A decadent ballroom and audience chamber with a tiled floor **mosaic**. Thick bl
 * **Vines**: A Creeper in disguise. Attacks any living creature that crosses the room (DEX save to avoid).
 * **Moss**: Shaped vaguely like footsteps. Created by Marius as he moved into [5. Kitchen](#5-kitchen).
 
-![Dining Room](/adventures/first-party/img/cas-4/dining-room.webp)
+{::nomarkdown}
+<img
+  class="jil-map-image"
+  src="/adventures/first-party/img/cas-4/ballroom.webp"
+  loading="lazy"
+  data-jil-regions="/adventures/first-party/maps/cas-4/4-ballroom.yml"
+  data-jil-viewer="false"
+  data-jil-inline="true"
+  data-jil-labels="false"
+/>
+{:/nomarkdown}
 
 ##### Creeper
 
@@ -222,8 +262,6 @@ A decadent ballroom and audience chamber with a tiled floor **mosaic**. Thick bl
 
 * Inert until a living creature comes near. Hates fire.
 * **Drain**: Once bound, the victim loses 4 STR per round until they are completely drained of blood. The Creeper is defenseless when it is feeding.
-
-![Kitchen](/adventures/first-party/img/cas-4/kitchen.webp)
 
 #### 5. Kitchen
 
@@ -236,9 +274,19 @@ Rusted cutlery is scattered atop a moss-covered table. A small **mound** of plan
 * **Mirror**: Operates like any other mirror in the mansion, providing a “top-down” view of the room when operated from [18. Private Chambers](#18-private-chambers).
 * **Window**: Obscured by foliage (see [3a. Entry](#3a-entry)). Unlocked.
 
-#### 6. Workshop
+{::nomarkdown}
+<img
+  class="jil-map-image"
+  src="/adventures/first-party/img/cas-4/kitchen.webp"
+  loading="lazy"
+  data-jil-regions="/adventures/first-party/maps/cas-4/5-kitchen.yml"
+  data-jil-viewer="false"
+  data-jil-inline="true"
+  data-jil-labels="false"
+/>
+{:/nomarkdown}
 
-![Workshop](/adventures/first-party/img/cas-4/workshop.webp)
+#### 6. Workshop
 
 A tall **cabinet** with 30 small drawers is installed on the west side. A long workbench stands in the center of the room, a large **vat** placed atop it. Moss grows in small cracks, starting at the south entrance and stops near the **workbench**. There are no mirrors in this room. If he has not yet been encountered, Marius is here.
 
@@ -261,6 +309,18 @@ A tall **cabinet** with 30 small drawers is installed on the west side. A long w
 | 4 | Vial of Royal Jelly | Cures deprivation and can be consumed as Rations. 4 uses. |
 | 5 | Essence of Bat Wing | Levitate uncontrollably for 1d4 minutes. DEX save to avoid disaster. 1 use. |
 | 6 | Dried Foxglove | Understand the growls and chirps of the Wood for an hour. Must be smoked (become deprived). 1 use. |
+
+{::nomarkdown}
+<img
+  class="jil-map-image"
+  src="/adventures/first-party/img/cas-4/workshop.webp"
+  loading="lazy"
+  data-jil-regions="/adventures/first-party/maps/cas-4/6-workshop.yml"
+  data-jil-viewer="false"
+  data-jil-inline="true"
+  data-jil-labels="false"
+/>
+{:/nomarkdown}
 
 #### 7. Greenhouse
 
@@ -320,25 +380,23 @@ A small **clearing** amongst the trees. At the center is a large mound piled wit
 
 #### 12. Dining Room
 
+An enormous empty wooden table occupies the room. Six small **sculptures** are arranged in alcoves along the east wall. Single mirrors are installed on the east and west walls. An empty chandelier hangs **from** the ceiling. Large bay **windows** face the south. A set of stairs descend on the west side.
+
+* **Sculptures**: Busts of men and women of the Lockwood line. All but two are broken. One of the surviving busts is of a serious-looking woman with shoulder-length hair. The other is that of a high-cheeked young girl with long hair. Both are bulky and valuable only if sold unbroken (100gp each).
+* **Chandelier**: Free from vines and can be re-lit.
+* **Windows**: Completely covered by vines and foliage.
+
 {::nomarkdown}
 <img
   class="jil-map-image"
   src="/adventures/first-party/img/cas-4/dining-room.webp"
-  alt="12. Dining Room1"
   loading="lazy"
-  data-jil-title="12 Dining Room"
   data-jil-regions="/adventures/first-party/maps/cas-4/12-dining-room.yml"
   data-jil-viewer="false"
   data-jil-inline="true"
   data-jil-labels="false"
 />
 {:/nomarkdown}
-
-An enormous empty wooden table occupies the room. Six small **sculptures** are arranged in alcoves along the east wall. Single mirrors are installed on the east and west walls. An empty chandelier hangs **from** the ceiling. Large bay **windows** face the south. A set of stairs descend on the west side.
-
-* **Sculptures**: Busts of men and women of the Lockwood line. All but two are broken. One of the surviving busts is of a serious-looking woman with shoulder-length hair. The other is that of a high-cheeked young girl with long hair. Both are bulky and valuable only if sold unbroken (100gp each).
-* **Chandelier**: Free from vines and can be re-lit.
-* **Windows**: Completely covered by vines and foliage.
 
 #### 13. Hall of Rooms
 
