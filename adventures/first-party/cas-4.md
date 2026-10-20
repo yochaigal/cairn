@@ -214,7 +214,7 @@ A decadent ballroom and audience chamber with a tiled floor **mosaic**. Thick bl
 * **Vines**: A Creeper in disguise. Attacks any living creature that crosses the room (DEX save to avoid).
 * **Moss**: Shaped vaguely like footsteps. Created by Marius as he moved into [5. Kitchen](#5-kitchen).
 
-[!Dining Room](/adventures/first-party/img/cas-4/dining-room.webp)
+![Dining Room](/adventures/first-party/img/cas-4/dining-room.webp)
 
 ##### Creeper
 
@@ -318,9 +318,21 @@ A small **clearing** amongst the trees. At the center is a large mound piled wit
 
 ### Second Floor
 
-![Dining Room](/adventures/first-party/img/cas-4/dining-room.webp)
-
 #### 12. Dining Room
+
+{::nomarkdown}
+<img
+  class="jil-map-image"
+  src="/adventures/first-party/img/cas-4/dining-room.webp"
+  alt="12. Dining Room1"
+  loading="lazy"
+  data-jil-title="12 Dining Room"
+  data-jil-regions="/adventures/first-party/maps/cas-4/12-dining-room.yml"
+  data-jil-viewer="false"
+  data-jil-inline="true"
+  data-jil-labels="false"
+/>
+{:/nomarkdown}
 
 An enormous empty wooden table occupies the room. Six small **sculptures** are arranged in alcoves along the east wall. Single mirrors are installed on the east and west walls. An empty chandelier hangs **from** the ceiling. Large bay **windows** face the south. A set of stairs descend on the west side.
 

@@ -1,0 +1,17 @@
+height: 1783
+width: 1937
+regions:
+  - href: "#13-hall-of-rooms"
+    title: "13. Hall of Rooms"
+    points:
+      - [214, 44]
+      - [330, 46]
+      - [329, 144]
+      - [212, 145]
+  - href: "#4-ballroom"
+    title: "4. Ballroom"
+    points:
+      - [159, 323]
+      - [163, 382]
+      - [106, 382]
+      - [108, 329]
