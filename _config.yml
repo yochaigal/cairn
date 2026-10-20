@@ -42,5 +42,13 @@ footer_content: "The text on this page is licensed under <a href=\"https://creat
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
 
-# If you want to ignore the monsters folder during builds
-# exclude: /resources/monsters
+sass:
+  quiet_deps: true # JTD deprecation warnings from their own theme. Less noise.
+  silence_deprecations: ['import', 'global-builtin', 'color-functions']
+
+# If you want to ignore for faster local builds
+#exclude: 
+#  - /resources
+#  - /first-party
+#  - /localization
+#  - /hacks
