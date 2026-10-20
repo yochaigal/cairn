@@ -1,0 +1,38 @@
+height: 994
+width: 1908
+regions:
+  - href: "#11-glade"
+    title: "11. Glade"
+    points:
+      - [300, 39]
+      - [298, 125]
+      - [447, 126]
+      - [443, 37]
+  - href: "#10-outdoor-theater"
+    title: "10. Outdoor Theater"
+    points:
+      - [49, 165]
+      - [163, 165]
+      - [165, 276]
+      - [40, 273]
+  - href: "#6-workshop"
+    title: "6. Workshop"
+    points:
+      - [280, 335]
+      - [465, 332]
+      - [469, 430]
+      - [281, 426]
+  - href: "#16-yellow-room"
+    title: "16. Yellow Room"
+    points:
+      - [533, 317]
+      - [624, 312]
+      - [619, 387]
+      - [531, 377]
+  - href: "#2-servants-quarters"
+    title: "2. Servants Quarters"
+    points:
+      - [79, 312]
+      - [135, 308]
+      - [145, 381]
+      - [83, 376]

@@ -1,0 +1,17 @@
+height: 3150
+width: 4050
+regions:
+  - href: "#18-private-chambers"
+    title: "18. Private Chambers"
+    points:
+      - [472, 852]
+      - [587, 852]
+      - [597, 934]
+      - [476, 938]
+  - href: "#15-blue-room"
+    title: "15. Blue Room"
+    points:
+      - [347, 909]
+      - [465, 913]
+      - [472, 1009]
+      - [340, 1020]

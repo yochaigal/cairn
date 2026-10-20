@@ -1,0 +1,31 @@
+height: 1633
+width: 1987
+regions:
+  - href: "#10-outdoor-theater"
+    title: "10. Outdoor Theater"
+    points:
+      - [149, 202]
+      - [153, 258]
+      - [230, 256]
+      - [228, 200]
+  - href: "#9-well"
+    title: "9. Well"
+    points:
+      - [112, 262]
+      - [163, 263]
+      - [158, 316]
+      - [109, 314]
+  - href: "#3a-entry"
+    title: "3a. Entry"
+    points:
+      - [416, 248]
+      - [499, 251]
+      - [502, 332]
+      - [414, 334]
+  - href: "#1-gates"
+    title: "1. Gates"
+    points:
+      - [400, 423]
+      - [495, 425]
+      - [495, 539]
+      - [397, 532]

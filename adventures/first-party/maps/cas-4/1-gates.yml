@@ -1,0 +1,17 @@
+height: 974
+width: 1772
+regions:
+  - href: "#2-servants-quarters"
+    title: "2. Servants Quarters"
+    points:
+      - [1307, 700]
+      - [1410, 700]
+      - [1412, 766]
+      - [1307, 767]
+  - href: "#3a-entry"
+    title: "3a. Entry"
+    points:
+      - [1600, 609]
+      - [1703, 609]
+      - [1700, 681]
+      - [1603, 681]
