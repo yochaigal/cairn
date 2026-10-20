@@ -1,0 +1,24 @@
+height: 3150
+width: 2158
+regions:
+  - href: "#4-ballroom"
+    title: "4. Ballroom"
+    points:
+      - [417, 215]
+      - [581, 221]
+      - [580, 326]
+      - [410, 328]
+  - href: "#2-servants-quarters"
+    title: "2. Servants Quarters"
+    points:
+      - [341, 431]
+      - [387, 427]
+      - [391, 488]
+      - [337, 488]
+  - href: "#1-gates"
+    title: "1. Gates"
+    points:
+      - [492, 576]
+      - [549, 572]
+      - [549, 631]
+      - [488, 631]

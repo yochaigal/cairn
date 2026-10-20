@@ -1,0 +1,10 @@
+height: 3150
+width: 1998
+regions:
+  - href: "#6-workshop"
+    title: "6. Workshop"
+    points:
+      - [1557, 2802]
+      - [1629, 2794]
+      - [1624, 2882]
+      - [1548, 2887]

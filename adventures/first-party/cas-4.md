@@ -141,9 +141,29 @@ Marius still roams the mansion as a Shambling Mound, spreading moss through ever
 | 3 | A deep floral scent wafts in from a westerly direction. There is an acidic finish to the smell, followed by nausea. |
 | 4 | A howling wind drifts over the grounds. The manor moans and shifts in response. |
 
-![Simple Map - Grey](/adventures/first-party/img/cas-4/simple-map-gray.webp)
+{::nomarkdown}
+<img
+  class="jil-map-image"
+  src="/adventures/first-party/img/cas-4/simple-map-gray.webp"
+  loading="lazy"
+  data-jil-regions="/adventures/first-party/maps/cas-4/simple-map-white.yml"
+  data-jil-viewer="false"
+  data-jil-inline="true"
+  data-jil-labels="false"
+/>
+{:/nomarkdown}
 
-![Isometric Map](/adventures/first-party/img/cas-4/iso-map.webp)
+{::nomarkdown}
+<img
+  class="jil-map-image"
+  src="/adventures/first-party/img/cas-4/iso-map.webp"
+  loading="lazy"
+  data-jil-regions="/adventures/first-party/maps/cas-4/iso-map.yml"
+  data-jil-viewer="false"
+  data-jil-inline="true"
+  data-jil-labels="false"
+/>
+{:/nomarkdown}
 
 ## The Mansion
 
@@ -163,11 +183,19 @@ Ornate iron **gates**, heavy with rust, block the path. Thick, unmanicured **hed
 * **Mist**: A trail leads north through the gates, then splits off to the west.
 	* A large rusted lock lies near the gates, obscured by the mist. A red key is still inside the cylinder. If the key is removed, the key reverts to a puddle of useless fluid (see Key Syrup in [6. Workshop](#6-workshop)).
 
-![Gates](/adventures/first-party/img/cas-4/gate.webp)
+{::nomarkdown}
+<img
+  class="jil-map-image"
+  src="/adventures/first-party/img/cas-4/gate.webp"
+  loading="lazy"
+  data-jil-regions="/adventures/first-party/maps/cas-4/1-gates.yml"
+  data-jil-viewer="false"
+  data-jil-inline="true"
+  data-jil-labels="false"
+/>
+{:/nomarkdown}
 
 #### 2. Servant’s Quarters
-
-![Servant's Quarters](/adventures/first-party/img/cas-4/servants-quarters.webp)
 
 A small collapsed **building** of tarnished wood and stone. An iron **stove** peeks out from amid the rubble. A small path **runs** north from the building.
 
@@ -178,6 +206,18 @@ A small collapsed **building** of tarnished wood and stone. An iron **stove** pe
 	* A piece of wall-mirror survived the fire, though its frame did not. The back of the glass is unusually phosphorescent and glows in the dark.
 	* Buried in the ashes is a red ruby necklace worth 150gp. A gift from Marius to Isobel, it bears her name in engraved text. Anyone wearing the necklace finds that they cannot remove it (even by force). It can only be removed by one who was wronged by the wearer, but later forgave them. If Isobel is put to rest, the necklace returns to normal.
 * **Path**: From the back of the building is a path leading to the intersection of [9. Well](#9-well) and [10. Outdoor Theater](#10-outdoor-theater).
+
+{::nomarkdown}
+<img
+  class="jil-map-image"
+  src="/adventures/first-party/img/cas-4/servants-quarters.webp"
+  loading="lazy"
+  data-jil-regions="/adventures/first-party/maps/cas-4/2-servants-quarters.yml"
+  data-jil-viewer="false"
+  data-jil-inline="true"
+  data-jil-labels="false"
+/>
+{:/nomarkdown}
 
 ### First Floor
 
@@ -204,7 +244,17 @@ A small but ornate waiting room with a pale **couch** pushed against the west wa
 	* **Moss**: Created by Marius as he moved into [4. Ballroom](#4-ballroom).
 * **Mirror**: A minor crack in the corner disturbs the glass. The gap it creates glows faintly, but only in total darkness.
 
-![Entry](/adventures/first-party/img/cas-4/entry.webp)
+{::nomarkdown}
+<img
+  class="jil-map-image"
+  src="/adventures/first-party/img/cas-4/entry.webp"
+  loading="lazy"
+  data-jil-regions="/adventures/first-party/maps/cas-4/3a-entry.yml"
+  data-jil-viewer="false"
+  data-jil-inline="true"
+  data-jil-labels="false"
+/>
+{:/nomarkdown}
 
 #### 4. Ballroom
 
@@ -214,7 +264,17 @@ A decadent ballroom and audience chamber with a tiled floor **mosaic**. Thick bl
 * **Vines**: A Creeper in disguise. Attacks any living creature that crosses the room (DEX save to avoid).
 * **Moss**: Shaped vaguely like footsteps. Created by Marius as he moved into [5. Kitchen](#5-kitchen).
 
-[!Dining Room](/adventures/first-party/img/cas-4/dining-room.webp)
+{::nomarkdown}
+<img
+  class="jil-map-image"
+  src="/adventures/first-party/img/cas-4/ballroom.webp"
+  loading="lazy"
+  data-jil-regions="/adventures/first-party/maps/cas-4/4-ballroom.yml"
+  data-jil-viewer="false"
+  data-jil-inline="true"
+  data-jil-labels="false"
+/>
+{:/nomarkdown}
 
 ##### Creeper
 
@@ -222,8 +282,6 @@ A decadent ballroom and audience chamber with a tiled floor **mosaic**. Thick bl
 
 * Inert until a living creature comes near. Hates fire.
 * **Drain**: Once bound, the victim loses 4 STR per round until they are completely drained of blood. The Creeper is defenseless when it is feeding.
-
-![Kitchen](/adventures/first-party/img/cas-4/kitchen.webp)
 
 #### 5. Kitchen
 
@@ -236,9 +294,19 @@ Rusted cutlery is scattered atop a moss-covered table. A small **mound** of plan
 * **Mirror**: Operates like any other mirror in the mansion, providing a “top-down” view of the room when operated from [18. Private Chambers](#18-private-chambers).
 * **Window**: Obscured by foliage (see [3a. Entry](#3a-entry)). Unlocked.
 
-#### 6. Workshop
+{::nomarkdown}
+<img
+  class="jil-map-image"
+  src="/adventures/first-party/img/cas-4/kitchen.webp"
+  loading="lazy"
+  data-jil-regions="/adventures/first-party/maps/cas-4/5-kitchen.yml"
+  data-jil-viewer="false"
+  data-jil-inline="true"
+  data-jil-labels="false"
+/>
+{:/nomarkdown}
 
-![Workshop](/adventures/first-party/img/cas-4/workshop.webp)
+#### 6. Workshop
 
 A tall **cabinet** with 30 small drawers is installed on the west side. A long workbench stands in the center of the room, a large **vat** placed atop it. Moss grows in small cracks, starting at the south entrance and stops near the **workbench**. There are no mirrors in this room. If he has not yet been encountered, Marius is here.
 
@@ -262,9 +330,19 @@ A tall **cabinet** with 30 small drawers is installed on the west side. A long w
 | 5 | Essence of Bat Wing | Levitate uncontrollably for 1d4 minutes. DEX save to avoid disaster. 1 use. |
 | 6 | Dried Foxglove | Understand the growls and chirps of the Wood for an hour. Must be smoked (become deprived). 1 use. |
 
-#### 7. Greenhouse
+{::nomarkdown}
+<img
+  class="jil-map-image"
+  src="/adventures/first-party/img/cas-4/workshop.webp"
+  loading="lazy"
+  data-jil-regions="/adventures/first-party/maps/cas-4/6-workshop.yml"
+  data-jil-viewer="false"
+  data-jil-inline="true"
+  data-jil-labels="false"
+/>
+{:/nomarkdown}
 
-![Greenhouse](/adventures/first-party/img/cas-4/greenhouse.webp)
+#### 7. Greenhouse
 
 The glass panels of the ceiling are mostly intact, casting a kaleidoscope of light onto the overgrown **plants** growing here. A sheepskin shroud covers a small area, and a manure-like **fragrance** is faintly detectable nearby. A small **window** is open on the east side.
 
@@ -272,6 +350,18 @@ The glass panels of the ceiling are mostly intact, casting a kaleidoscope of lig
 * Shroud: Hidden beneath is Green Rot, a bioluminescent fungus. While alive, it can provide light equivalent to a candle until it is exposed to direct sunlight.
 * **Fragrance**: Originates from a small yellow flower with purple leaves called the Dreaming Daisy. Spending more than one Dungeon Cycle here causes panic, as the victim suffers horrific hallucinations.
 * **Window**: An angled view of [16. Yellow Room](#16-yellow-room). A rope made of sheets is visible.
+
+{::nomarkdown}
+<img
+  class="jil-map-image"
+  src="/adventures/first-party/img/cas-4/greenhouse.webp"
+  loading="lazy"
+  data-jil-regions="/adventures/first-party/maps/cas-4/7-greenhouse.yml"
+  data-jil-viewer="false"
+  data-jil-inline="true"
+  data-jil-labels="false"
+/>
+{:/nomarkdown}
 
 #### 8. Western Hall
 
@@ -283,8 +373,6 @@ Narrow wooden walls and bare wooden floors. **Mirrors** are installed on opposit
 
 #### 9. Well
 
-![Well](/adventures/first-party/img/cas-4/well.webp)
-
 **Trees** line the north and east sides of a rectangular outdoor space. In the center is a small **well**. To the north is a small path through a thick copse of trees.
 
 * **Trees**: Grow thick and close together. A larger person would struggle to pass through.
@@ -293,9 +381,19 @@ Narrow wooden walls and bare wooden floors. **Mirrors** are installed on opposit
 	* A sip of water from the well causes intense visions followed by a brutal hangover for d4 hours. (Attacks are impaired and the drinker is deprived.) They also become infected with [Moss Sickness](#moss-sickness).
 	* The visions are at first an amorphous sense of fierce anger and loss, followed by the image of a young woman’s face, bloody sheets, and the color blue.
 
-#### 10. Outdoor Theater
+{::nomarkdown}
+<img
+  class="jil-map-image"
+  src="/adventures/first-party/img/cas-4/well.webp"
+  loading="lazy"
+  data-jil-regions="/adventures/first-party/maps/cas-4/9-well.yml"
+  data-jil-viewer="false"
+  data-jil-inline="true"
+  data-jil-labels="false"
+/>
+{:/nomarkdown}
 
-![Outdoor Theater](/adventures/first-party/img/cas-4/theater.webp)
+#### 10. Outdoor Theater
 
 A wooden stage is constructed on the west side in front of a thick copse of mossy trees. A red curtain hangs over the stage, suspended from a rope strung between two long poles, and a large, angled **prism** is hung from a wooden pole near the east entry. Fine wooden **chairs** make a semi-circle around the stage.
 
@@ -306,6 +404,18 @@ A wooden stage is constructed on the west side in front of a thick copse of moss
 	* Any character standing directly in the light of the prism finds they cannot move, as invisible bonds lace around their arms and legs. Moments later the curtain opens, and the shadows of the trapped onlookers bound onto the stage, where they morph into two “actors” ready to perform a play.
 	* The shadow actors then pantomime a love affair between a man and a woman (Marius and Isobel) over three acts. It begins with their initial dalliance, is followed by Isobel’s pleas to elope, and ends with her eventual murder. The play is 3 dungeon cycles long, after which the audience is released. Disrupting the prism light or pointing a bullseye lantern at the shadow breaks their bond, dispersing the stage shadows as well.
 	* If Isobel’s soul is laid to rest (see [Ending the Adventure](#ending-the-adventure)), the theater returns to normal.
+
+{::nomarkdown}
+<img
+  class="jil-map-image"
+  src="/adventures/first-party/img/cas-4/theater.webp"
+  loading="lazy"
+  data-jil-regions="/adventures/first-party/maps/cas-4/10-outdoor-theater.yml"
+  data-jil-viewer="false"
+  data-jil-inline="true"
+  data-jil-labels="false"
+/>
+{:/nomarkdown}
 
 #### 11. Glade
 
@@ -318,8 +428,6 @@ A small **clearing** amongst the trees. At the center is a large mound piled wit
 
 ### Second Floor
 
-![Dining Room](/adventures/first-party/img/cas-4/dining-room.webp)
-
 #### 12. Dining Room
 
 An enormous empty wooden table occupies the room. Six small **sculptures** are arranged in alcoves along the east wall. Single mirrors are installed on the east and west walls. An empty chandelier hangs **from** the ceiling. Large bay **windows** face the south. A set of stairs descend on the west side.
@@ -328,9 +436,19 @@ An enormous empty wooden table occupies the room. Six small **sculptures** are a
 * **Chandelier**: Free from vines and can be re-lit.
 * **Windows**: Completely covered by vines and foliage.
 
-#### 13. Hall of Rooms
+{::nomarkdown}
+<img
+  class="jil-map-image"
+  src="/adventures/first-party/img/cas-4/dining-room.webp"
+  loading="lazy"
+  data-jil-regions="/adventures/first-party/maps/cas-4/12-dining-room.yml"
+  data-jil-viewer="false"
+  data-jil-inline="true"
+  data-jil-labels="false"
+/>
+{:/nomarkdown}
 
-![Hall of Rooms](/adventures/first-party/img/cas-4/hall-of-rooms.webp)
+#### 13. Hall of Rooms
 
 Branched passages of gaudy yellow, wood wet with rot. Bluish **moss** covers nearly every spot of floor. On the east side are two rooms, one with a **red door** with an upside-down broom leaning against the outside and another with a **blue door**. On the west side is a **yellow** door.
 
@@ -339,9 +457,19 @@ Branched passages of gaudy yellow, wood wet with rot. Bluish **moss** covers nea
 * **Blue Door**: Unlocked. See [15. Blue Room](#15-blue-room).
 * **Yellow Door**: Locked but easily forced. See [16. Yellow Room](#16-yellow-room).
 
-#### 14. Red Room
+{::nomarkdown}
+<img
+  class="jil-map-image"
+  src="/adventures/first-party/img/cas-4/hall-of-rooms.webp"
+  loading="lazy"
+  data-jil-regions="/adventures/first-party/maps/cas-4/13-hall-of-rooms.yml"
+  data-jil-viewer="false"
+  data-jil-inline="true"
+  data-jil-labels="false"
+/>
+{:/nomarkdown}
 
-![Red Room](/adventures/first-party/img/cas-4/red-room.webp)
+#### 14. Red Room
 
 The **air** here is fresh despite the lack of ventilation. A wooden **privy** is installed on the east side, opposite a small bureau with **figurines** arranged on top.
 
@@ -349,6 +477,18 @@ The **air** here is fresh despite the lack of ventilation. A wooden **privy** is
 * **Privy**: Perfectly clean. Something shiny glints inside, six feet down.
 	* After murdering Isobel, Marius tossed the blood-stained knife here.
 * **Figurines**: Typical except for one, an old woman (Mora, see opposite) with goat-like eyes. She will remain in disguise until she can determine the party's intentions, but will transform if picked up.
+
+{::nomarkdown}
+<img
+  class="jil-map-image"
+  src="/adventures/first-party/img/cas-4/red-room.webp"
+  loading="lazy"
+  data-jil-regions="/adventures/first-party/maps/cas-4/14-red-room.yml"
+  data-jil-viewer="false"
+  data-jil-inline="true"
+  data-jil-labels="false"
+/>
+{:/nomarkdown}
 
 ##### Cauchemora
 
@@ -376,8 +516,6 @@ The door to this room is painted blue. A simple bed is arrayed in the center of 
 
 #### 16. Yellow Room
 
-![Yellow Room](/adventures/first-party/img/cas-4/yellow-room.webp)
-
 The door to this room is painted yellow. A bare **bed** is placed near an open
 **window** on the west side, and small dollhouse sits atop a small table
 nearby. Weather-beaten children’s toys are scattered across the wooden
@@ -391,9 +529,19 @@ nearby. Weather-beaten children’s toys are scattered across the wooden
 * **Dollhouse**: A perfect replica of the mansion. The secret passage connecting [15. Blue Room](#15-blue-room) and [18. Private Chambers](#18-private-chambers) is clearly visible in the toy structure.
 * **Floor**: Untouched by corruption. Marius will not enter this room under any circumstances and will ignore any who enter it.
 
-#### 17. Library
+{::nomarkdown}
+<img
+  class="jil-map-image"
+  src="/adventures/first-party/img/cas-4/yellow-room.webp"
+  loading="lazy"
+  data-jil-regions="/adventures/first-party/maps/cas-4/16-yellow-room.yml"
+  data-jil-viewer="false"
+  data-jil-inline="true"
+  data-jil-labels="false"
+/>
+{:/nomarkdown}
 
-![Library](/adventures/first-party/img/cas-4/library.webp)
+#### 17. Library
 
 Rotted **bookshelves** form winding paths throughout the room. A writing **desk** sits along the west wall, bedecked with a set of quills and ink **bottles**.
 
@@ -409,9 +557,19 @@ Rotted **bookshelves** form winding paths throughout the room. A writing **desk*
 	* **Blank**: Completely transparent; the bottle appears empty. Whatever it touches becomes invisible. 4 uses.
 	* **Dash**: Darkest black. Quickly nullifies any of the other inks (including itself). 6 uses.
 
-#### 18. Private Chambers
+{::nomarkdown}
+<img
+  class="jil-map-image"
+  src="/adventures/first-party/img/cas-4/library.webp"
+  loading="lazy"
+  data-jil-regions="/adventures/first-party/maps/cas-4/17-library.yml"
+  data-jil-viewer="false"
+  data-jil-inline="true"
+  data-jil-labels="false"
+/>
+{:/nomarkdown}
 
-![Private Chambers](/adventures/first-party/img/cas-4/private-chambers.webp)
+#### 18. Private Chambers
 
 A bed occupies the center of the room, a humanoid **shape** pressed into its center. A small writing **desk** and chair are pushed against the east wall, below a curtained **window**. A long mirror **hangs** on the south wall, and a hanging **shelf** is laden with personal effects.
 
@@ -426,6 +584,18 @@ A bed occupies the center of the room, a humanoid **shape** pressed into its cen
 * **Shelf**: Mostly small items of no value, as well as a standing illustration of Marius.
 	* Beneath the shelf is a switch that activates the secret passage to [15. Blue Room](#15-blue-room), which swings open.
 	* Anna would use this passage to visit with her mother after Marius locked Luciana away.
+
+{::nomarkdown}
+<img
+  class="jil-map-image"
+  src="/adventures/first-party/img/cas-4/private-chambers.webp"
+  loading="lazy"
+  data-jil-regions="/adventures/first-party/maps/cas-4/18-private-chambers.yml"
+  data-jil-viewer="false"
+  data-jil-inline="true"
+  data-jil-labels="false"
+/>
+{:/nomarkdown}
 
 ### Dungeon Exploration Cycle
 
@@ -455,7 +625,17 @@ When the PCs encounter an NPC whose reaction to the party is not obvious, the Wa
 
 ## Lockwood Manor Map & Dungeon Events
 
-![Simple Map - White](/adventures/first-party/img/cas-4/simple-map-white.webp)
+{::nomarkdown}
+<img
+  class="jil-map-image"
+  src="/adventures/first-party/img/cas-4/simple-map-white.webp"
+  loading="lazy"
+  data-jil-regions="/adventures/first-party/maps/cas-4/simple-map-white.yml"
+  data-jil-viewer="false"
+  data-jil-inline="true"
+  data-jil-labels="false"
+/>
+{:/nomarkdown}
 
 | d4  | Encounters        |                                                                                                                 |
 | --- | ----------------- | --------------------------------------------------------------------------------------------------------------- |

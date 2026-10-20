@@ -1,0 +1,129 @@
+height: 3150
+width: 4050
+regions:
+  - href: "#11-glade"
+    title: "11. Glade"
+    points:
+      - [1442, 268]
+      - [1717, 261]
+      - [1739, 480]
+      - [1431, 480]
+  - href: "#10-outdoor-theater"
+    title: "10. Outdoor Theater"
+    points:
+      - [530, 594]
+      - [1120, 587]
+      - [1123, 845]
+      - [515, 852]
+  - href: "#9-well"
+    title: "9. Well"
+    points:
+      - [1274, 533]
+      - [1850, 537]
+      - [1835, 895]
+      - [1263, 895]
+  - href: "#17-library"
+    title: "17. Library"
+    points:
+      - [2508, 651]
+      - [3188, 651]
+      - [3188, 913]
+      - [2490, 906]
+  - href: "#6-workshop"
+    title: "6. Workshop"
+    points:
+      - [1259, 1038]
+      - [1914, 1045]
+      - [1918, 1385]
+      - [1263, 1375]
+  - href: "#7-greenhouse"
+    title: "7. Greenhouse"
+    points:
+      - [1925, 1128]
+      - [2143, 1120]
+      - [2139, 1285]
+      - [1921, 1285]
+  - href: "#16-yellow-room"
+    title: "16. Yellow Room"
+    points:
+      - [2265, 1163]
+      - [2397, 1171]
+      - [2397, 1310]
+      - [2268, 1303]
+  - href: "#13-hall-of-rooms"
+    title: "13. Hall of Rooms"
+    points:
+      - [2422, 1049]
+      - [2730, 1060]
+      - [2733, 1528]
+      - [2422, 1532]
+  - href: "#18-private-chambers"
+    title: "18. Private Chambers"
+    points:
+      - [2980, 1031]
+      - [3216, 1038]
+      - [3224, 1213]
+      - [2977, 1210]
+  - href: "#8-western-hall"
+    title: "8. Western Hall"
+    points:
+      - [1814, 1446]
+      - [2258, 1439]
+      - [2254, 1690]
+      - [1803, 1682]
+  - href: "#12-dining-room"
+    title: "12. Dining Room"
+    points:
+      - [2372, 1611]
+      - [2794, 1604]
+      - [2787, 2033]
+      - [2361, 2019]
+  - href: "#5-kitchen"
+    title: "5. Kitchen"
+    points:
+      - [1388, 1629]
+      - [1614, 1629]
+      - [1603, 1940]
+      - [1395, 1929]
+  - href: "#4-ballroom"
+    title: "4. Ballroom"
+    points:
+      - [1878, 1725]
+      - [2218, 1722]
+      - [2218, 1969]
+      - [1882, 1954]
+  - href: "#15-blue-room"
+    title: "15. Blue Room"
+    points:
+      - [2755, 1171]
+      - [2880, 1178]
+      - [2884, 1296]
+      - [2758, 1299]
+  - href: "#14-red-room"
+    title: "14. Red Room"
+    points:
+      - [2762, 1335]
+      - [2902, 1339]
+      - [2898, 1478]
+      - [2748, 1468]
+  - href: "#3a-entry"
+    title: "3a. Entry"
+    points:
+      - [1989, 2037]
+      - [2143, 2040]
+      - [2139, 2237]
+      - [1978, 2237]
+  - href: "#2-servants-quarters"
+    title: "2. Servants Quarters"
+    points:
+      - [1191, 2312]
+      - [1449, 2323]
+      - [1442, 2466]
+      - [1213, 2466]
+  - href: "#1-gates"
+    title: "1. Gates"
+    points:
+      - [1882, 2638]
+      - [2114, 2642]
+      - [2125, 2810]
+      - [1857, 2810]

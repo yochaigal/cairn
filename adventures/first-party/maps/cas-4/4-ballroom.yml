@@ -1,0 +1,24 @@
+height: 1221
+width: 1781
+regions:
+  - href: "#5-kitchen"
+    title: "5. Kitchen"
+    points:
+      - [1262, 77]
+      - [1348, 77]
+      - [1347, 183]
+      - [1254, 181]
+  - href: "#3a-entry"
+    title: "3a. Entry"
+    points:
+      - [1469, 241]
+      - [1554, 239]
+      - [1565, 310]
+      - [1468, 319]
+  - href: "#12-dining-room"
+    title: "12. Dining Room"
+    points:
+      - [1643, 90]
+      - [1712, 87]
+      - [1713, 143]
+      - [1636, 145]

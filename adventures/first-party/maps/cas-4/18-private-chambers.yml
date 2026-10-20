@@ -1,0 +1,24 @@
+height: 3150
+width: 2175
+regions:
+  - href: "#17-library"
+    title: "17. Library"
+    points:
+      - [284, 158]
+      - [628, 163]
+      - [626, 283]
+      - [284, 277]
+  - href: "#13-hall-of-rooms"
+    title: "13. Hall of Rooms"
+    points:
+      - [208, 409]
+      - [379, 407]
+      - [382, 575]
+      - [209, 569]
+  - href: "#15-blue-room"
+    title: "15. Blue Room"
+    points:
+      - [382, 404]
+      - [523, 404]
+      - [521, 507]
+      - [384, 511]

@@ -1,0 +1,24 @@
+height: 1881
+width: 1917
+regions:
+  - href: "#6-workshop"
+    title: "6. Workshop"
+    points:
+      - [1482, 127]
+      - [1536, 127]
+      - [1529, 208]
+      - [1477, 200]
+  - href: "#4-ballroom"
+    title: "4. Ballroom"
+    points:
+      - [1675, 334]
+      - [1819, 332]
+      - [1819, 439]
+      - [1678, 442]
+  - href: "#8-western-hall"
+    title: "8. Western Hall"
+    points:
+      - [1641, 222]
+      - [1700, 217]
+      - [1700, 298]
+      - [1643, 295]

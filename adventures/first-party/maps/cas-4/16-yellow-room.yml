@@ -1,0 +1,17 @@
+height: 3150
+width: 2086
+regions:
+  - href: "#13-hall-of-rooms"
+    title: "13. Hall of Rooms"
+    points:
+      - [1793, 171]
+      - [1937, 171]
+      - [1940, 398]
+      - [1797, 383]
+  - href: "#9-well"
+    title: "9. Well"
+    points:
+      - [1458, 177]
+      - [1520, 179]
+      - [1518, 238]
+      - [1461, 247]
