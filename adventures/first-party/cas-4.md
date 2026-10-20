@@ -153,7 +153,17 @@ Marius still roams the mansion as a Shambling Mound, spreading moss through ever
 />
 {:/nomarkdown}
 
-![Isometric Map](/adventures/first-party/img/cas-4/iso-map.webp)
+{::nomarkdown}
+<img
+  class="jil-map-image"
+  src="/adventures/first-party/img/cas-4/iso-map.webp"
+  loading="lazy"
+  data-jil-regions="/adventures/first-party/maps/cas-4/iso-map.yml"
+  data-jil-viewer="false"
+  data-jil-inline="true"
+  data-jil-labels="false"
+/>
+{:/nomarkdown}
 
 ## The Mansion
 
