@@ -7,6 +7,8 @@ grand_parent: Adventures
 
 # The Forgetting of Lockwood Manor
 
+![CAS-4 Cover](/adventures/first-party/img/cas-4/CAS-4_cover.webp)
+
 **Cairn Adventure Series 4**
 
 An adventure module for Cairn 2e by Yochai Gal
@@ -24,6 +26,8 @@ Text and layout are released under CC-BY SA 4.0.
 Decades ago, Marius Lockwood, heir to a wealthy family, returned to his familial holdings with his wife Luciana and young daughter Anna. Less than a year later, the estate fell silent, and little was heard from the family again.
 
 Characters should be able to recognize well-known family crests such as that of the Lockwoods. Meanwhile, rumors abound regarding a new waterborne illness that slowly kills its victims by filling their lungs with moss.
+
+![Family Crest](/adventures/first-party/img/cas-4/family-crest.webp)
 
 ### White Ravens
 
@@ -56,6 +60,9 @@ In time, the estate fell into disrepair, the neglected hedges returning to a wil
 
 Buried beneath the rock pile in [11. Glade](#11-glade), Isobel's frail form continually infects the mansion's water supply ([9. Well](#9-well)). To break the curse, her name must be spoken aloud over her buried corpse. If left unresolved Isobel's curse will continue to spread into the Wood and local streams, spreading the infection throughout the region.
 
+![Portraits](/adventures/first-party/img/cas-4/portraits.webp)
+
+
 ## Important Information
 
 The adventure should begin outside of the estate ([1. Gates](#1-gates)). Roll a Die of Fate to determine the weather and time that the party arrives. Make a Reaction Roll for creatures encountered throughout the adventure, except for when encountering [Isobel](#isobel) and [Marius](#marius).
@@ -79,7 +86,11 @@ Shed by Marius, especially if he is wounded. Harming the moss will draw him towa
 
 A viral disease that spreads through water droplets or blood contact. Symptoms start with infected individuals coughing up a bluish moss and eventually dying of asphyxiation over the course of about a month. The cure is detailed in Marius's journal ([6. Workshop](#6-workshop)), but can only be implemented by a Greenwise or herbalist. A healthy relative of the patient is also required for the cure to work. If Isobel's spirit is put to rest, the curse will end and any living victims of the curse will be cured.
 
+![Important Information](/adventures/first-party/img/cas-4/important-info.webp)
+
 ## NPCs & Creatures
+
+![NPCs](/adventures/first-party/img/cas-4/NPCs.webp)
 
 ### Isobel
 
@@ -130,6 +141,10 @@ Marius still roams the mansion as a Shambling Mound, spreading moss through ever
 | 3 | A deep floral scent wafts in from a westerly direction. There is an acidic finish to the smell, followed by nausea. |
 | 4 | A howling wind drifts over the grounds. The manor moans and shifts in response. |
 
+![Simple Map - Grey](/adventures/first-party/img/cas-4/simple-map-gray.webp)
+
+![Isometric Map](/adventures/first-party/img/cas-4/iso-map.webp)
+
 ## The Mansion
 
 ### Entrance
@@ -148,7 +163,11 @@ Ornate iron **gates**, heavy with rust, block the path. Thick, unmanicured **hed
 * **Mist**: A trail leads north through the gates, then splits off to the west.
 	* A large rusted lock lies near the gates, obscured by the mist. A red key is still inside the cylinder. If the key is removed, the key reverts to a puddle of useless fluid (see Key Syrup in [6. Workshop](#6-workshop)).
 
+![Gates](/adventures/first-party/img/cas-4/gate.webp)
+
 #### 2. Servant’s Quarters
+
+![Servant's Quarters](/adventures/first-party/img/cas-4/servants-quarters.webp)
 
 A small collapsed **building** of tarnished wood and stone. An iron **stove** peeks out from amid the rubble. A small path **runs** north from the building.
 
@@ -177,7 +196,6 @@ An asymmetrical, two-floor **mansion** with steep roof lines clad in fish-scale 
 * **Family crest**: A shield; the field is a grid of blue and gold squares. The gold squares contain red diamonds, and the blue squares contain white crosses with pointed bottoms.
 	* The crest (bulky) is untouched by moss and can be removed with proper tools. It is worth 100gp to the right buyer.
 
-
 #### 3b. Vestibule
 
 A small but ornate waiting room with a pale **couch** pushed against the west wall. A single **mirror** is installed on the east wall. A short hallway leads to an open room to the north.
@@ -185,6 +203,8 @@ A small but ornate waiting room with a pale **couch** pushed against the west wa
 * **Couch**: Cracked leather. Pale blue moss grows through the cracks.
 	* **Moss**: Created by Marius as he moved into [4. Ballroom](#4-ballroom).
 * **Mirror**: A minor crack in the corner disturbs the glass. The gap it creates glows faintly, but only in total darkness.
+
+![Entry](/adventures/first-party/img/cas-4/entry.webp)
 
 #### 4. Ballroom
 
@@ -194,12 +214,16 @@ A decadent ballroom and audience chamber with a tiled floor **mosaic**. Thick bl
 * **Vines**: A Creeper in disguise. Attacks any living creature that crosses the room (DEX save to avoid).
 * **Moss**: Shaped vaguely like footsteps. Created by Marius as he moved into [5. Kitchen](#5-kitchen).
 
+[!Dining Room](/adventures/first-party/img/cas-4/dining-room.webp)
+
 ##### Creeper
 
 **4 HP, 12 STR, 13 DEX, 5 WIL, tentacle vines (d6, blast)**
 
 * Inert until a living creature comes near. Hates fire.
 * **Drain**: Once bound, the victim loses 4 STR per round until they are completely drained of blood. The Creeper is defenseless when it is feeding.
+
+![Kitchen](/adventures/first-party/img/cas-4/kitchen.webp)
 
 #### 5. Kitchen
 
@@ -213,6 +237,8 @@ Rusted cutlery is scattered atop a moss-covered table. A small **mound** of plan
 * **Window**: Obscured by foliage (see [3a. Entry](#3a-entry)). Unlocked.
 
 #### 6. Workshop
+
+![Workshop](/adventures/first-party/img/cas-4/workshop.webp)
 
 A tall **cabinet** with 30 small drawers is installed on the west side. A long workbench stands in the center of the room, a large **vat** placed atop it. Moss grows in small cracks, starting at the south entrance and stops near the **workbench**. There are no mirrors in this room. If he has not yet been encountered, Marius is here.
 
@@ -238,6 +264,8 @@ A tall **cabinet** with 30 small drawers is installed on the west side. A long w
 
 #### 7. Greenhouse
 
+![Greenhouse](/adventures/first-party/img/cas-4/greenhouse.webp)
+
 The glass panels of the ceiling are mostly intact, casting a kaleidoscope of light onto the overgrown **plants** growing here. A sheepskin shroud covers a small area, and a manure-like **fragrance** is faintly detectable nearby. A small **window** is open on the east side.
 
 * **Plants**: Unusual varieties. Some respond to touch; others make giggling sounds.
@@ -255,6 +283,8 @@ Narrow wooden walls and bare wooden floors. **Mirrors** are installed on opposit
 
 #### 9. Well
 
+![Well](/adventures/first-party/img/cas-4/well.webp)
+
 **Trees** line the north and east sides of a rectangular outdoor space. In the center is a small **well**. To the north is a small path through a thick copse of trees.
 
 * **Trees**: Grow thick and close together. A larger person would struggle to pass through.
@@ -264,6 +294,8 @@ Narrow wooden walls and bare wooden floors. **Mirrors** are installed on opposit
 	* The visions are at first an amorphous sense of fierce anger and loss, followed by the image of a young woman’s face, bloody sheets, and the color blue.
 
 #### 10. Outdoor Theater
+
+![Outdoor Theater](/adventures/first-party/img/cas-4/theater.webp)
 
 A wooden stage is constructed on the west side in front of a thick copse of mossy trees. A red curtain hangs over the stage, suspended from a rope strung between two long poles, and a large, angled **prism** is hung from a wooden pole near the east entry. Fine wooden **chairs** make a semi-circle around the stage.
 
@@ -286,6 +318,8 @@ A small **clearing** amongst the trees. At the center is a large mound piled wit
 
 ### Second Floor
 
+![Dining Room](/adventures/first-party/img/cas-4/dining-room.webp)
+
 #### 12. Dining Room
 
 An enormous empty wooden table occupies the room. Six small **sculptures** are arranged in alcoves along the east wall. Single mirrors are installed on the east and west walls. An empty chandelier hangs **from** the ceiling. Large bay **windows** face the south. A set of stairs descend on the west side.
@@ -296,6 +330,8 @@ An enormous empty wooden table occupies the room. Six small **sculptures** are a
 
 #### 13. Hall of Rooms
 
+![Hall of Rooms](/adventures/first-party/img/cas-4/hall-of-rooms.webp)
+
 Branched passages of gaudy yellow, wood wet with rot. Bluish **moss** covers nearly every spot of floor. On the east side are two rooms, one with a **red door** with an upside-down broom leaning against the outside and another with a **blue door**. On the west side is a **yellow** door.
 
 * **Moss**: Only the floor nearest to [16. Yellow Room](#16-yellow-room) is free from moss.
@@ -304,6 +340,8 @@ Branched passages of gaudy yellow, wood wet with rot. Bluish **moss** covers nea
 * **Yellow Door**: Locked but easily forced. See [16. Yellow Room](#16-yellow-room).
 
 #### 14. Red Room
+
+![Red Room](/adventures/first-party/img/cas-4/red-room.webp)
 
 The **air** here is fresh despite the lack of ventilation. A wooden **privy** is installed on the east side, opposite a small bureau with **figurines** arranged on top.
 
@@ -317,6 +355,7 @@ The **air** here is fresh despite the lack of ventilation. A wooden **privy** is
 An immortal spirit bound to serve a family so long as their descendants live. Their origin is the Wood, and they long to return to it. They take many forms, but are most often found as minuscule humans or black cats (their goat-like eyes never change). They love beer, hay, and whistling. They find sunshine uncomfortable and prefer the company of birds and squirrels. Household items (such as brooms) placed against doors act as a ward against the Cauchemara, and are often used to control their movement.
 
 When angered, they can cause terrible nightmares and delusions in the minds of their enemies. Like people, they can be good or evil. They cannot be harmed by normal means, and have perfect memory.
+
 ##### Mora the Cauchemora
 
 Mora is not her true name, but simply a nickname that Anna provided her. She quite likes it. She will return kindness with kindness.
@@ -337,6 +376,8 @@ The door to this room is painted blue. A simple bed is arrayed in the center of 
 
 #### 16. Yellow Room
 
+![Yellow Room](/adventures/first-party/img/cas-4/yellow-room.webp)
+
 The door to this room is painted yellow. A bare **bed** is placed near an open
 **window** on the west side, and small dollhouse sits atop a small table
 nearby. Weather-beaten children’s toys are scattered across the wooden
@@ -349,7 +390,10 @@ nearby. Weather-beaten children’s toys are scattered across the wooden
 	* Rotting bed sheets hang from the windowsill, touching the earth below. The sheets will break if an adult tries to climb them.
 * **Dollhouse**: A perfect replica of the mansion. The secret passage connecting [15. Blue Room](#15-blue-room) and [18. Private Chambers](#18-private-chambers) is clearly visible in the toy structure.
 * **Floor**: Untouched by corruption. Marius will not enter this room under any circumstances and will ignore any who enter it.
+
 #### 17. Library
+
+![Library](/adventures/first-party/img/cas-4/library.webp)
 
 Rotted **bookshelves** form winding paths throughout the room. A writing **desk** sits along the west wall, bedecked with a set of quills and ink **bottles**.
 
@@ -366,6 +410,8 @@ Rotted **bookshelves** form winding paths throughout the room. A writing **desk*
 	* **Dash**: Darkest black. Quickly nullifies any of the other inks (including itself). 6 uses.
 
 #### 18. Private Chambers
+
+![Private Chambers](/adventures/first-party/img/cas-4/private-chambers.webp)
 
 A bed occupies the center of the room, a humanoid **shape** pressed into its center. A small writing **desk** and chair are pushed against the east wall, below a curtained **window**. A long mirror **hangs** on the south wall, and a hanging **shelf** is laden with personal effects.
 
@@ -406,6 +452,24 @@ When the PCs encounter an NPC whose reaction to the party is not obvious, the Wa
 | 2 | 3-5 | 6-8 | 9-11 | 12 |
 | --- | --- | --- | --- | --- |
 | Hostile | Wary | Curious | Kind | Helpful |
+
+## Lockwood Manor Map & Dungeon Events
+
+![Simple Map - White](/adventures/first-party/img/cas-4/simple-map-white.webp)
+
+| d4  | Encounters        |                                                                                                                 |
+| --- | ----------------- | --------------------------------------------------------------------------------------------------------------- |
+| 1   | Marius            | **Inside**: Heavy footsteps cause the manor to shudder. Outside: A **dark** figure lurches past an open window. |
+| 2   | Mossling          | A faint giggle is heard from deep in the dark, low to the ground. Something moves in shadow.                    |
+| 3   | Infected Mossling | Nearby plant life shudders ever so slightly. There are streaks of blue shimmering through the green.            |
+| 4   | Isobel            | A sudden drop in temperature followed by an anguished sigh from somewhere nearby.<br>                           |
+
+| d4 | Environment |
+| --- | --- |
+| 1 | The floor is unstable and near-collapse. Make a DEX save or take d4 STR damage from the broken wood. |
+| 2 | Moisture from the ceiling drips down, extinguishing open flames. |
+| 3 | A deep floral scent wafts in from a westerly direction. There is an acidic finish to the smell, followed by nausea. |
+| 4 | A howling wind drifts over the grounds. The manor moans and shifts in response. |
 
 ### Back Cover
 
