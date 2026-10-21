@@ -13,10 +13,10 @@ Below are some tips that might help with the process!
 
 ## The Basics
 
-Review the instructions in the [SRD](https://cairnrpg.com/cairn-srd/#creating-monsters). A couple of things to keep in mind:
-- OSE (or B/X) has really great stat blocks that can be easily truncated for quick conversion. See this [page](https://oldschoolessentials.necroticgnome.com/srd/index.php/General) and this [PDF](https://necroticgnome.com/products/old-school-essentials-adaptation-guidelines) for more.
+Review the instructions in the [SRD](/first-edition/cairn-srd/#creating-monsters). A couple of things to keep in mind:
+- OSE (or B/X) has really great stat blocks that can be easily truncated for quick conversion. See this [page](https://oldschoolessentials.necroticgnome.com/rules/doku.php?id=player_characters:game_statistics) and this [PDF](https://necroticgnome.com/products/old-school-essentials-adaptation-guidelines) for more.
 - Dungeon World has some great monster "moves" that translate to Critical Damage quite nicely, so looking for an equivalent creature in that system can really help! See this example [here](http://codex.dungeon-world.com/monster/5698559156420608).
-- Sometimes a direct stat to stat translation isn't an option. That's OK! There is a [way](/resources/tools/converting-monsters/#use-the-fiction)!
+- Sometimes a direct stat to stat translation isn't an option. That's OK! There is a [way](#use-the-fiction)!
 
 ### Health, Armor & Abilities
 
@@ -34,8 +34,8 @@ The following table offers a decent guide on converting **ML** to **WIL**.
 
 ### Combat
 
-- Attack **damage** is pretty straightforward coming from games like OSE (or B / X); you can usually just copy them as-is. Double-check with the [weapons table](/cairn-srd/#weapons) if unsure.
-- Multiple attacks (e.g. 2 x claw, 1 x sting) typically convert to [_Blast_](/cairn-srd#Blast) and/or the "two weapons" rule (e.g. d6+d6 is roll 2d6, keep highest).
+- Attack **damage** is pretty straightforward coming from games like OSE (or B / X); you can usually just copy them as-is. Double-check with the [weapons table](/first-edition/cairn-srd/#weapons-1) if unsure.
+- Multiple attacks (e.g. 2 x claw, 1 x sting) typically convert to [_Blast_](/first-edition/cairn-srd/#blast) and/or the "two weapons" rule (e.g. d6+d6 is roll 2d6, keep highest).
 - When in doubt, think about how much serious damage the creature is supposed to do. Remember that instead of raising attack damage a step, think about making it _enhanced_ in certain situations or use the _Blast_ and "two weapons" rule.
 
 ### Abilities & Magic
@@ -48,12 +48,12 @@ The following table offers a decent guide on converting **ML** to **WIL**.
 
 - Magical creatures can just "know" a bunch of spells. In this case, make their corpses magical (and dangerous)!
 - Spells are tricky; you can give magic-users Spellbooks but remember, they might _drop_ them when defeated.
-- I like to make 1d4 dropped Spellbooks implode ([Die of Fate](/cairn-srd#die-of-fate)), just to mix it up!
+- I like to make 1d4 dropped Spellbooks implode ([Die of Fate](/first-edition/cairn-srd#die-of-fate)), just to mix it up!
 
 ### Saving Throws
 
-- You can rely on _saving throws_ to glean more information about a creature's abilities, specifically their ability to avoid death by physical trauma, magic, or poison. See the [OSE SRD](https://oldschoolessentials.necroticgnome.com/srd/index.php/Checks,_Damage,_Saves) for more details.
-- Occasionally stat blocks will use a shorthand like (E1) or (F1) (Level 1 [Elf](https://oldschoolessentials.necroticgnome.com/srd/index.php/Elf) or [Fighter](https://oldschoolessentials.necroticgnome.com/srd/index.php/Fighter) respectively). These are really helpful for quickly identifying at the creature's abilities.
+- You can rely on _saving throws_ to glean more information about a creature's abilities, specifically their ability to avoid death by physical trauma, magic, or poison. See the [OSE SRD](https://oldschoolessentials.necroticgnome.com/rules/doku.php?id=adventuring:saving_throws) for more details.
+- Occasionally stat blocks will use a shorthand like (E1) or (F1) (Level 1 [Elf](https://oldschoolessentials.necroticgnome.com/rules/doku.php?id=character_classes:elf_demihuman_class) or [Fighter](https://oldschoolessentials.necroticgnome.com/rules/doku.php?id=character_classes:fighter) respectively). These are really helpful for quickly identifying at the creature's abilities.
 - Consider adding descriptive tags such as "immune to toxic gas" or "good at dodging bullets" based on the saving throws.
 
 The following table should help determine which saving throws should result in an increase in one of the relevant ability scores.
