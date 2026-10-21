@@ -35,7 +35,7 @@ To create a page on the Cairn website, you need to create a text file with your 
 Files should be placed in the following locations:
  - [Adventure conversions](/adventures/conversions) (see [submission-template](/submissions/adventure-conversions#submission-template))
  - [Original adventures](/adventures/originals)
- - [Third party hacks](/hacks/third-party/)
+ - [Third party hacks](/hacks/)
  - [Monsters](/resources/monsters/)
  - [General resources](/resources/)
 
@@ -53,9 +53,8 @@ The general workflow is to write files on your computer to your local copy of th
 
 Now that you know how to contribute, take a look at what is desired for the website. In particular:
 
- - [Future adventure conversions](/adventures/future-conversions/) if you are looking for popular adventures without existing Cairn conversions.
  - [Third party resources](/hacks/third-party/) if you have a product related to Cairn.
- - [This site in another language](/localizations/localization-guide) if you can translate this site.
+ - [This site in another language](/localization/localization-guide/) if you can translate this site.
 
 ### Further Help
 

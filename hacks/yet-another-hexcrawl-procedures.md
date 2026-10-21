@@ -22,8 +22,8 @@ The day is divided into 3 watches of _roughly 8 hours_ each:
 The party travels through a hex.
 - Progress up to half their daily travel distance (by foot, horse, cart, etc).
 - Obvious locations, features, and terrain types of any neighboring hexes are revealed accordingly based on distance and sight.
-- The party must be careful to avoid [Losing Direction](/hacks/third-party/hexcrawl-procedures/#losing-direction).
-- Roll on the [Events Table](/hacks/third-party/hexcrawl-procedures/#events-table).
+- The party must be careful to avoid [Losing Direction](/hacks/hexcrawl-procedures/#losing-direction).
+- Roll on the [Events Table](/hacks/hexcrawl-procedures/#events-table).
 
 #### Losing Direction
 - There is a 2-in-6 chance the party will get lost when traveling via difficult or hard-to-see terrain.
@@ -31,17 +31,17 @@ The party travels through a hex.
 
 ### Explore
 The party searches for hidden any features within the current hex.
-- Roll on the [Events Table](/hacks/third-party/hexcrawl-procedures/#events-table).
+- Roll on the [Events Table](/hacks/hexcrawl-procedures/#events-table).
 - One Location/Feature is discovered.
 
 ### Supply
 The party gathers food and water.
-- Roll on the [Events Table](/hacks/third-party/hexcrawl-procedures/#events-table).
+- Roll on the [Events Table](/hacks/hexcrawl-procedures/#events-table).
 - Hunting and foraging (if possible given the terrain).
 
 ### Camp
 #### The party stops to set up camp.
-- Roll on the [Events Table](/hacks/third-party/hexcrawl-procedures/#events-table).
+- Roll on the [Events Table](/hacks/hexcrawl-procedures/#events-table).
 - If _quiet_ or the party is able to rest fully, party members lose all their Fatigue (if applicable).
 
 ### Interact
@@ -68,7 +68,7 @@ Generate a random encounter. If the distance is far it can be an omen.
 The party stumbles upon a hidden location or feature.
 
 #### Hazard
-The party comes across a hazard or impediment (an [Event](/hacks/third-party/hexcrawl-procedures/#events-table) or [Terrain](/hacks/third-party/hexcrawl-procedures/#events-terrain-modifier) at the Warden's discretion).
+The party comes across a hazard or impediment (an [Event](/hacks/hexcrawl-procedures/#events-table) or [Terrain](/hacks/hexcrawl-procedures/#events-terrain-modifier) at the Warden's discretion).
 
 ### Quiet
 Nothing noticeable happens. The party members lose all their Fatigue (if applicable).

@@ -7,8 +7,8 @@ title: Temple of the Bat Serpent
 
 # Temple of the Bat Serpent
 
-- Based on the [Temple of the Bat Serpent]([https://natetreme.itch.io/batserpent](https://natetreme.itch.io/batserpent)) by [Nate Treme]([https://natetreme.com](https://natetreme.com)) for Knave.
-- Converted by a [Wandering Landsloth]([https://wanderinglandsloth.bearblog.dev](https://wanderinglandsloth.bearblog.dev))
+- Based on the [Temple of the Bat Serpent](https://natetreme.itch.io/batserpent) by [Nate Treme](https://natetreme.com) for Knave.
+- Converted by a [Wandering Landsloth](https://wanderinglandsloth.bearblog.dev)
 
 **d6 Random Encounters**
 

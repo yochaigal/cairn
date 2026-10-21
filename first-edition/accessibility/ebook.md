@@ -14,5 +14,5 @@ grand_parent: First Edition
 - See [this list](https://github.com/readium/awesome-readium) of desktop & mobile apps as well.
 
 # Downloads
-- You can grab a copy of the regular epub [here](/accessibility/Cairn.epub).
-- Download the [user-font version](/accessibility/Cairn-choose-your-own-font.epub) if you'd like to customize the body text.
+- You can grab a copy of the regular epub [here](/first-edition/accessibility/Cairn.epub).
+- Download the [user-font version](/first-edition/accessibility/Cairn-choose-your-own-font.epub) if you'd like to customize the body text.
