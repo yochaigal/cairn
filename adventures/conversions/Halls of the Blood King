@@ -1,0 +1,328 @@
+---
+layout: default
+parent: Conversions
+grand_parent: Adventures
+title: Halls of the Blood King
+---
+
+
+
+# Halls of the Blood King
+
+- Based on the [original work](https://www.google.com/url?q=https://necroticgnome.com/products/halls-of-the-blood-king&sa=D&source=editors&ust=1792638923980624&usg=AOvVaw3nLyhkZ5aClNzHFmBXYbNn) by [Diogo Nogueira](https://www.google.com/url?q=https://linktr.ee/diogo_oldskull&sa=D&source=editors&ust=1792638923980756&usg=AOvVaw064_mZkUMIvciUKJydHD5q). Art by [Justine Jones](https://www.google.com/url?q=https://justinejonesillustration.com/&sa=D&source=editors&ust=1792638923980829&usg=AOvVaw3vY5Be5r3NZARlhqyWPKC4).
+- Conversion by Christof Rochel | [Happy Chthonian](https://www.google.com/url?q=https://elstoferino.itch.io/&sa=D&source=editors&ust=1792638923980964&usg=AOvVaw0qL-ECkQqI4PdiUEkEagIo).
+
+## General Notes
+
+- Run the adventure as is with the following changes.
+- Where monsters’ ability scores are not spelled out, assume a score of 10.
+- Vampire Traits (page 9)
+
+- Critical Damage Energy Drain. d12 WIL damage. At 0 WIL, die and rise as vampire thrall.
+- Charming Gaze: Save WIL or be charmed.
+- Regeneration: A damaged vampire regains 6 HP when it bites a target that has blood.
+- “At 0 hp” becomes: When a vampire guest (including Lord Daemetrius) takes critical damage, it becomes a cloud of gas and flees to a random room, where it resumes corporeal form and dies, parted from its coffin. When the Princess of Blood or the Blood King take critical damage, they retreat to their coffins (in area 26 and area 12, respectively) and regain STR / HP at a rate of 3 per round.
+- Dire wolf: bite (d10)
+- Giant bat: bite (d8)
+- Coffins: “lose 2d6hp” becomes “lose 6 STR”
+- Vulnerability to Garlic: “save vs poison” becomes “save STR”
+- Vulnerability to Continual light: The light of the Illuminate spell impairs vampire’s attacks (when affected in this way, vampires may tend to attack spell casters to end the spell).
+- Destroying with Sunlight: “Save vs Death” becomes “Save STR”
+- Destroying by Destroying Coffins: “all hit points lost” becomes “critically damaged”
+
+- Random Happenings (page 10)
+
+- Result 2: PCs must save STR or have their attacks impaired in the room
+- Result 6: “save vs spells” becomes “save WIL
+
+## Locations
+
+### Area 1: Biting Gate (page 12)
+
+#### Blood Thrall Guards
+
+- 6 HP, 2 armor, 12 STR, 15 WIL, barbed sword (d8)
+- Critical Damage: Bleed. d4 STR damage
+- Morale as written
+
+#### Biting Gate
+
+- 7 HP, 2 armor, 13 STR, 0 DEX, 18 WIL, bite (d10)
+- Mundane attacks are impaired
+- Immune to sleep and charm
+
+### Area 2: Vine Fence (page 13)
+
+#### Dark Vines
+
+- 6 HP, 12 DEX, 18 WIL
+- Each round PCs save STR, escaping on a success and being pulled into the barbed fence for d4 damage on a failure
+
+### Area 4 (page 14)
+
+#### Moving Through
+
+- “DEX check” becomes “DEX save”
+
+#### Shadow Hounds
+
+- 8 HP, 12 STR, 15 DEX, 13 WIL, bite (d8) or 15’ spiked tongue (d6)
+- Critical damage: Tongue constrict. Target takes d4 STR damage per round until the hound flees or is killed.
+
+### Area Descriptions: First Floor (page 16)
+
+#### Breaking Interior Walls
+
+- Walls have 3 armor, 10hp, 0 STR/DEX/WIL
+
+### Area 7: Guards’ Room (page 17)
+
+#### Blood Thrall Guards (Unarmored)
+
+- 4 HP, 12 STR, 15 WIL, barbed sword (d8)
+- Critical Damage: Bleed. d4 STR damage.
+
+### Area 8: West Guest Room (page 18)
+
+#### Lenice Albathea
+
+- 10 HP, 15 STR, 18 WIL, touch (d8) or wail
+- Melancholic Presence: Save WIL or attacks in Lenice’s presence are impaired.
+- Wail: once per day, save WIL or die. Lenice only wails if attacked.
+- Immunities as written
+
+### Area 8: Hat Room (page 19)
+
+#### Elaborate Mirror
+
+- Anyone who takes a long look in the mirror senses someone hiding in the reflection, just out of sight. Anyone who examines the runes can tell there is script hidden in them, and can decipher them by spending one Turn (10 minutes - check for encounters).
+
+#### Showing the reflection to the Blood King
+
+- The King must save WIL each round in order to act. Any of his servants who see the mirror attack it and try to break it. It breaks after taking 6 damage.
+
+### Area 10: East Guest Room (page 19)
+
+#### Search the garments
+
+- “DEX check” becomes “DEX save.”
+
+### Area 11: Monstrous Doors (page 20)
+
+#### Monstrous Doors
+
+- 7 HP, 2 armor, 18 WIL, 2 DEX, bite (d10 + d10; can only bite those adjacent or trying to force the doors open)
+- Acid Blood: when the doors take damage, those in melee take d6 damage/round until cleansed. Mundane cutting weapons that damage the door are ruined by acid.
+
+### Area 12: Great Hall (page 21)
+
+#### Vampire Guests
+
+- 10 HP, 14 STR, 12 DEX, 16 WIL, vampiric bite (d10 and regenerates d6) or charming gaze, Vampire Traits
+
+#### Spiraling Stairway: If fleeing the Blood King on the spiral stairs
+
+- “Save vs paralysis” becomes “save DEX”
+
+### Area 13: Library (page 23)
+
+#### 12 Bookshelves: Trap
+
+- “PCs must save vs breath or suffer 2d10 damage” becomes “PCs must save DEX or suffer d10 + d10 damage.”
+
+#### 12 Bookshelves: Examining books result 6
+
+- A box set of spell books written in blood: Magic Dampener, Ward, Charm, Beast Form, Arcane Eye. Casting from them causes (in addition to fatigue) loss of 1 STR, as the book sucks blood from the pores of the person holding it.
+
+### Area 14: Games Room (page 24)
+
+#### Playing a Game
+
+- If you opt to abstract a game, playing the game takes a certain number of ten minute Turns, each of which entails a roll for random encounters. A game of blackjack, for example, would take 2 turns, and a property trading board game would take six+d6 Turns. For each game, PCs roll a single save (WIL for strategic games, DEX for manual ability games, STR for feats of strength). If multiple people pass the save, randomly determine which one of them wins the game.
+
+### Area 16: Kitchen (page 24)
+
+#### Blood Servants
+
+- 4 HP, cleaver (d6)
+- Scream as written
+
+### Area 17: Pantry (page 25)
+
+#### Blood Extractor: Using it on a Blood Thrall
+
+- “save vs spells” becomes “save WIL”
+
+#### Blood Extractor: Using it on a vampire
+
+- A drained vampire regains its regeneration ability after dealing 20 damage with bite attacks against targets with blood.
+
+### Area 18: Blood Spider Court (page 26-27)
+
+#### Webs
+
+- Breaking free takes 2d4 rounds, unless the target has magically enhanced strength, in which case it takes 2 rounds.
+
+#### Blood Spider Queen
+
+- 10 HP, 2 armor, 15 STR, 14 DEX, 12 WIL, vampiric bite (d10 +d10)
+- Critical damage: Poison floods the target’s veins and they die in 1 Turn.
+- Blood Drain: When damaged, the Spider Queen regains 4 HP whenever she bites a target that has blood.
+
+#### Blood Spiders
+
+- 7 HP, 12 STR, 14 DEX, 12 WIL, vampiric bite (d6 + d6)
+- Critical damage: Poison floods the target’s veins and they die in 1 Turn.
+- Blood Drain: When damaged, a Blood Spider regains 2 HP whenever it bites a target that has blood.
+
+### Area 19: Blood Bath (page 28)
+
+#### Living Blood
+
+- 10 HP, 10 STR, 13 DEX, 14 WIL, blood absorbing touch (d8 + d8)
+- Resistance: Mundane weapons and attacks against the Living Blood are impaired.
+- Holy Water Vulnerability: Enhanced (d12).
+- Cling and Seep: As written.
+- Blood Absorption: For every 5 damage dealt, the Living Blood increases its STR, DEX, and WIL by 1 (max 18). If it reaches 13 STR, its attack deals d10 + d10.
+
+### Area 22: Seleana’s Trapped Lair (page 30)
+
+#### Vampire Prisoner
+
+- Drinking Vampire Blood: “+2 to attacks and damage” becomes “Attacks enhanced.” “Save vs death” becomes “save STR.” “-1 to attacks” becomes “attacks impaired.”
+
+#### Seleana Suantis
+
+- 8 HP, 2 armor, 12 STR, 13 DEX, 15 WIL, magical short swords (d8 + d8) or crossbow (d6)
+- Holy water in weapons: As written.
+- Fury: Automatically succeeds her first save against critical damage, whereafter she is treated as a detachment.
+
+### Area 23: Dungeon Stairs (page 32)
+
+#### Opening the lock
+
+- If someone messes with the lock or fails an attempt to open in properly, the lock bites them, dealing d8 damage. A bitten target must save DEX or have their hand locked in the trap. Escaping requires a successful STR save. The sound of the trap springing triggers a 2-in-6 chance of a Random Happening (if a Random Happening occurs, roll 1d6+6 on the Random Happening table).
+
+### Area 25: Princess’s Study (page 33)
+
+#### Playing the piano
+
+- Triggers a Random Happenings roll. If the sheet music is played correctly (that is, by a PC or PCs with musical training and ability), a passage on the fake wall of books opens.
+
+#### Looking inside the piano
+
+- The magic sun ray pistol deals d10 + d10 to vampires, d6 + d6 to non-vampire undead, and d4 to anything else. Anyone can use it by pulling the trigger, no save or check required. It has 2d10 charges remaining and cannot be recharged.
+
+### Area 26: Secret Conference Room (page 34)
+
+#### The dagger
+
+- Is magical and deals d4 + d4 damage. Targets who take critical damage from the dagger loose 1 STR each round until magically healed or tended with rest and bandages.
+
+#### The Princess of Blood
+
+- 10 HP, 14 STR, 13 DEX, 16 WIL, dagger (d4) or psi blast or illusion
+- Vampire Traits: Except for gaze and energy drain.
+- Psi Blast: 6 WIL damage to all nearby creatures with rational minds, excluding herself.
+- Critical Damage: To avoid critical damage, targets must save WIL rather than STR. Upon taking critical damage, targets fall asleep, stabilize, and are thereafter subject to the commands of the Princess of Blood. She will release them in exchange for helping her supplant the Blood King.
+- Read Thoughts: While looking someone in the eye, she can read their thoughts, going deeper into their mind the longer she maintains eye contact.
+- Illusion: Up to 7 targets must save WIL or become paralyzed, their perceptions altered according to the whims of the Princess of Blood. She will use illusions to entice or intimidate PCs into helping her overthrow the Blood King.
+
+#### Lord Daemetrius
+
+- 8 HP, 13 STR, 10 DEX, 12 WIL, Sabre of Saints (d6)
+- Vampire Traits: Except for gaze and energy drain.
+- Weakened: Attacks impaired
+- Sabre of Saints: Attacks against undead are enhanced
+- Vampire with a soul: As written
+
+### Area 27: Inner Garden (page 36)
+
+#### Dying Plants and Flowers: Searching
+
+- No save or check needed to find the herbs, just 1d6 Turns of searching.
+
+### Area 28: Trophy Room (page 37)
+
+#### Bar: Valuable Bottles
+
+- Any PC who examines the bottles can identify the valuable ones, unless they are a teetotaler. “Save vs breath” becomes “save DEX.”
+
+#### Bar: Drinking
+
+- “1d4 hp” becomes 1 STR. “save vs poison” becomes “save STR,” and “-2 to attacks” becomes “attacks impaired.”
+
+### Area 29: Balcony (page 38)
+
+#### Telescope: Breaking the telescope
+
+- If anyone suffers critical damage while carrying the telescope, its lenses break.
+
+#### Carnivorous Plant
+
+- 9 HP, 11 STR, 8 DEX, 12 WIL, tentacles (d8 + d8, blast)
+- Pheromones: The plant exudes a wonderful, enticing smell, like roses mixed with…a familiar smell from childhood…what is that? Maybe if you get closer and take a big whiff…
+- Vulnerability to fire: Fiery attacks are enhanced
+- Critical Damage: Constriction. Target takes d4 STR damage per round as the tentacles squeeze them.
+
+### Area 30: Blood KIng’s Studio (page 41)
+
+#### 12 Finished Pieces: Feeding a painting blood
+
+- “1d4hp” becomes “1 STR.”
+
+### Area 31: King’s Hall (page 41)
+
+#### Armoured Statues
+
+- 7 HP, 3 armor, 12 STR, 8 DEX, 18 WIL, glaive (d10)
+- Critical Damage: Bleed. 1 STR damage each round until tended with magical healing or rest and bandages.
+- Mundane damage resistance: Mundane attacks impaired
+- Spell immunity: To mind-affecting spells (sleep, charm, etc.)
+
+### Area 32: King’s Chambers (pages 42-43)
+
+#### 2d20 Languishing People: Reaction
+
+- “Save vs spells” becomes “save WIL” (both instances)
+
+#### The Blood King: The King’s reflection
+
+- The king must save WIL each round in order to act.
+
+#### Blood King
+
+- 14 HP, 3 armor, 15 STR, 13 DEX, 15 WIL, Bloody Sabre (d10 + d10) or bite (d10) or gaze
+- Vampire Traits: But invulnerable to garlic, holy symbols, the illuminate spell, and crossing running water. And cannot be killed while his heart is safe (Area 34)
+- Critical damage: The blood king drinks off the victim’s blood, killing them, reducing their STR to 0, healing the Blood King by an amount equal to the damage dealt.
+
+### Area 33: Princess’s Chambers
+
+#### Porcelain Dolls: They are watching us
+
+- “Save vs spells” becomes “WIL save.”
+
+#### Porcelain Dolls: Valuable but fragile
+
+- 23 dolls total. 2 are bulky. 3 take up a slot each. 12 can be carried in bundles of 3. 6 are petty. A collector will only pay 5,000 for the whole set. Otherwise it’s 100 coins a doll, or 1,000 for a partly broken set.
+
+### Area 34: Observatorium (pages 44-45)
+
+#### Planetary System Model: Taking out a planet from their orbit
+
+- For result 3, “save vs breath” becomes “save DEX.”
+- For result 4, “DEX check” becomes “DEX save,” and the ball that can be dispatched by dealing 20 damage to it.
+
+### Area 36: Dungeon Cells (Page 46)
+
+#### What is found? Table
+
+- Result 2 becomes “2 scrolls: Magic Dampener and Ward”
+
+### Area 37: Torture Room (page 47)
+
+#### Lord Daemetrius (Void Fungi)
+
+- 9 HP, 12 STR, 7 DEX, 15 WIL, fungal pseudopods (d6 blast)
+- Critical damage: Fungal infection. The target’s skin sprouts a patch of Void Fungi in 1d6 turns. They suffer d6 WIS damage per day. When reduced to 0 WIS, they are under the Void Fungi’s control. In the meantime, they can communicate with the hive mind (and can experience, as if they were there, any area occupied by Void Fungi).
+- Cloud of Spores: Upon taking critical damage, Lord Daemetrius (Void Fungi)’s head bursts in a cloud of spores. Everyone in the room must save STR or become infected with Void Fungi.
