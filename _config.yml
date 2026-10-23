@@ -51,6 +51,5 @@ sass:
 # If you want to ignore for faster local builds
 #exclude: 
 #  - /resources
-#  - /first-party
 #  - /localization
 #  - /hacks
