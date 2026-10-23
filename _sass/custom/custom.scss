@@ -1,3 +1,10 @@
+html {
+  /* Mitigation for bug with anchor tags langing at the wrong position for long pages
+   Works most of the time.
+   https://github.com/just-the-docs/just-the-docs/issues/1574 */
+  scroll-behavior: auto !important;
+}
+
 :root {
   --background-color: #26252b;
   --heading-color: #e3e9f0;
