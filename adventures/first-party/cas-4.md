@@ -424,7 +424,7 @@ A small **clearing** amongst the trees. At the center is a large mound piled wit
 * **Clearing**: No moss grows here, not even on stones.
 * **Rocks**: Heavy, they require 3 turns to clear. Beneath the rocks is blackened earth.
 	* Beneath the rocks is an impromptu grave for Isobel. Her corpse is still fresh, as if she died from having her throat slit just a few hours ago. On her neck is a small tattoo of a [White Raven](#white-ravens).
-	* The dirt is muddy and raw, as Isobel's necrotic energies have flowed into the water table below and into the well at [11. Glade](#11-glade).
+	* The dirt is muddy and raw, as Isobel's necrotic energies have flowed into the water table below and into the well at [9. Well](#9-well).
 
 ### Second Floor
 
