@@ -53,3 +53,6 @@ sass:
 #  - /resources
 #  - /localization
 #  - /hacks
+
+# the redesign prototype and its build tooling, kept out of the published site
+exclude: [redesign]

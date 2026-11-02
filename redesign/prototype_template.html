@@ -1,0 +1,1676 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cairn: read the rules free (prototype)</title>
+<style>
+/*__FONTS__*/
+/*__HERO__*/
+/* Cairn site redesign prototype. Palette and Alegreya are the author's (_sass/custom/custom.scss); dark only. */
+:root {
+  --bg: #26252b; --surface: #2e2d34; --surface-2: #37363e; --text: #c9d1d9; --heading: #e3e9f0; --muted: #a9b1bb;
+  --accent: #f2c488; --accent-strong: #f7d6a8; --on-accent: #26252b; --border: #45444d; --border-strong: #8c8b96;
+  --focus: #f2c488; --shadow: 0 1px 0 rgba(0,0,0,.25); --shadow-pop: 0 12px 30px rgba(0,0,0,.35);
+  --h1: clamp(2.2rem, 5vw, 3.4rem);
+  --dice: #41697d;  /* sampled from the hero art (the tree's teal); changed by the tray's Colour choice */
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+/* scroll-padding keeps anchor targets and Tab-focused controls clear of the sticky header */
+html { -webkit-text-size-adjust: 100%; scroll-padding-top: calc(var(--head, 88px) + 16px); }
+@media (prefers-reduced-motion: no-preference) { html { scroll-behavior: smooth; } }
+body { margin: 0; background: var(--bg); color: var(--text); font: 400 18px/1.6 'Alegreya', Georgia, serif; }
+a { color: var(--accent); text-underline-offset: .18em; text-decoration-thickness: 1px; }
+a:hover { color: var(--accent-strong); text-decoration-thickness: 2px; }
+:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; border-radius: 3px; }
+h1, h2, h3, h4 { color: var(--heading); line-height: 1.2; margin: 0 0 .5em; font-weight: 700; }
+h1 { font-size: var(--h1); letter-spacing: -.01em; }
+h2 { font-size: clamp(1.55rem, 3vw, 2rem); }
+h3 { font-size: 1.3rem; }
+h4 { font-size: 1.1rem; }
+p { margin: 0 0 1em; }
+ul, ol { padding-inline-start: 1.25em; margin: 0 0 1em; }
+li + li { margin-top: .25em; }
+.sr-only { position: absolute !important; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0; }
+.wrap { width: min(1200px, 100%); margin: 0 auto; padding: 0 24px; }
+.wrap.view-top { padding-top: 40px; }  /* the top of a view under the header */
+.view-top > .lede { max-width: 40em; }
+.muted { color: var(--muted); }
+.eyebrow { font-size: .95rem; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); margin-bottom: .6em; }
+
+/* ---------- prototype bar, skip link */
+.proto-bar { background: var(--surface-2); color: var(--muted); font-size: .9rem; padding: 6px 0; border-bottom: 1px solid var(--border); }
+.proto-bar .wrap { display: flex; gap: 12px; flex-wrap: wrap; align-items: center; justify-content: space-between; }
+.skip { position: absolute; left: 12px; top: -60px; z-index: 50; background: var(--accent); color: var(--on-accent); padding: 10px 16px; border-radius: 4px; font-weight: 700; }
+.skip:focus { top: 12px; }
+
+/* ---------- header */
+.site-header { position: sticky; top: 0; z-index: 20; background: var(--bg); border-bottom: 1px solid var(--border); }
+.site-header .wrap { display: flex; align-items: center; gap: 20px; min-height: 88px; }
+.brand { display: inline-flex; align-items: center; gap: 10px; color: var(--heading); text-decoration: none; font-weight: 700; font-size: 1.6rem; min-height: 44px; }
+/* the flame and dots above the "i" fill the logo's top third, so centring its box leaves the word low. This lifts the
+   letters' lowercase body to the nav words' x-height middle, then 4px lower by eye: measured for this logo and font */
+.brand .logo { height: 40px; width: auto; display: block; transform: translateY(-9px); }
+.brand:hover { color: var(--heading); }
+.primary-nav ul { list-style: none; display: flex; gap: 4px; margin: 0; padding: 0; }
+.primary-nav li + li { margin: 0; }
+.primary-nav a { display: flex; align-items: center; min-height: 44px; padding: 0 12px; border-radius: 4px; color: var(--text); text-decoration: none; }
+.primary-nav a:hover { background: var(--surface-2); color: var(--heading); }
+.primary-nav a[aria-current] { color: var(--heading); box-shadow: inset 0 -3px 0 var(--accent); }
+/* each top-level item lists what's inside it: the list opens on hover, or when keyboard focus is on the link or in the
+   list. Escape closes it. The menu's top padding bridges the gap from the link, so the pointer can reach it. */
+.primary-nav li[data-menu] { position: relative; }
+.nav-menu { position: absolute; left: 0; top: 100%; z-index: 30; padding-top: 8px; visibility: hidden; opacity: 0; transition: opacity .12s, visibility 0s linear .15s; }
+.nav-menu ul { display: block; min-width: 220px; margin: 0; padding: 6px; list-style: none; background: var(--surface); border: 1px solid var(--border-strong); border-radius: 6px; box-shadow: var(--shadow-pop); }
+.nav-menu a { min-height: 40px; padding: 0 12px; white-space: nowrap; }
+.primary-nav:not(.no-hover) li[data-menu]:hover > .nav-menu, li[data-menu]:not(.dismissed):focus-within > .nav-menu { visibility: visible; opacity: 1; transition-delay: 0s; }
+@media (prefers-reduced-motion: reduce) { .nav-menu { transition: none; } }
+.search { position: relative; margin-left: auto; display: flex; align-items: center; gap: 8px; flex: 0 1 300px; min-width: 160px; }  /* shrinks before the nav runs out of room */
+.search input { width: 100%; min-height: 44px; padding: 0 44px 0 12px; border: 1px solid var(--border-strong); border-radius: 4px; background: var(--surface); color: var(--text); font: inherit; font-size: 1rem; }
+.search kbd { position: absolute; right: 10px; top: 50%; transform: translateY(-50%); font: 600 .75rem/1 system-ui, sans-serif; color: var(--muted); border: 1px solid var(--border-strong); border-radius: 3px; padding: 3px 5px; pointer-events: none; }
+::placeholder { color: var(--muted); opacity: 1; }
+.search input:focus ~ kbd, .search input:not(:placeholder-shown) ~ kbd { display: none; }  /* "Ctrl K" is wider than the padding keeps clear of typed text */
+.results { position: absolute; right: 0; top: calc(100% + 6px); width: min(420px, calc(100vw - 32px)); background: var(--surface); border: 1px solid var(--border-strong); border-radius: 6px; padding: 6px; margin: 0; list-style: none; box-shadow: var(--shadow-pop); z-index: 30; }
+.results li + li { margin-top: 0; }
+.results a { display: block; padding: 8px 10px; border-radius: 4px; text-decoration: none; color: var(--text); min-height: 44px; }
+.results a:hover, .results a:focus-visible { background: var(--surface-2); color: var(--heading); }
+.results .kind { display: block; font-size: .85rem; color: var(--muted); }
+.results-empty { padding: 10px; color: var(--muted); }
+.btn-icon { min-width: 44px; min-height: 44px; display: inline-flex; align-items: center; justify-content: center; gap: 6px; padding: 0 10px; border: 1px solid transparent; border-radius: 4px; background: none; color: var(--text); font: inherit; font-size: 1rem; cursor: pointer; }
+.btn-icon:hover { background: var(--surface-2); color: var(--heading); }
+.btn-icon svg { width: 20px; height: 20px; }
+.menu-btn { display: none; }
+/* ---------- dice roller: a pill at the header's far right opens a tray; dice-box rolls 3D dice over the page */
+.dice-pill { display: inline-flex; align-items: center; gap: 8px; min-height: 44px; padding: 0 16px 0 12px; border: 1.5px solid var(--dice); border-radius: 999px; background: none; color: var(--heading); font: inherit; font-weight: 700; cursor: pointer; white-space: nowrap; }
+.dice-pill:hover, :root:has(.dice-tray:popover-open) .dice-pill { background: color-mix(in srgb, var(--dice) 24%, transparent); }
+.dice-pill svg { width: 20px; height: 20px; flex: none; }
+.dice-tray { position: fixed; inset: auto; margin: 0; width: 360px; max-width: calc(100vw - 32px); overflow: auto; padding: 16px; background: var(--surface); color: var(--text); border: 1px solid var(--border-strong); border-radius: 8px; box-shadow: 0 14px 34px rgba(0,0,0,.5); }
+.dice-tray h2 { font-size: 1.2rem; margin: 0 0 12px; }
+.dice-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10px; list-style: none; margin: 0; padding: 0; }
+.dice-grid li { margin: 0; display: flex; flex-direction: column; align-items: center; gap: 4px; }
+.die-add { position: relative; width: 100%; min-height: 80px; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 8px 4px; background: var(--surface-2); border: 1px solid var(--border); border-radius: 6px; color: var(--text); font: inherit; cursor: pointer; }
+.die-add:hover { border-color: var(--dice); }
+.die-add svg { width: 60px; height: 60px; }
+.die-add .shape { fill: var(--dice); }
+.die-add .num { fill: #fff; font: 700 17px/1 'Alegreya', Georgia, serif; text-anchor: middle; dominant-baseline: central; }
+.die-count { position: absolute; top: 4px; right: 4px; min-width: 24px; height: 24px; padding: 0 6px; border-radius: 12px; display: grid; place-items: center; background: var(--accent); color: var(--on-accent); font-weight: 700; font-size: .85rem; }
+.die-count[hidden] { display: none; }
+.die-remove { min-width: 44px; min-height: 28px; padding: 0 10px; border: 1px solid var(--border-strong); border-radius: 4px; background: none; color: var(--text); font: inherit; font-weight: 700; line-height: 1; cursor: pointer; }
+.die-remove:hover { background: var(--surface-2); color: var(--heading); }
+.die-remove.is-zero { visibility: hidden; }
+.dice-pool { margin: 12px 0 0; color: var(--muted); }
+.dice-actions { display: flex; gap: 8px; margin-top: 10px; }
+.dice-actions .btn { flex: 1; min-height: 44px; padding: 0 12px; }
+.dice-actions .btn:disabled { opacity: .5; cursor: not-allowed; }
+.dice-results { margin-top: 12px; min-height: 1.5em; }
+.dice-results p { margin: 0; }
+.dice-label, .dice-note { color: var(--muted); font-size: .9rem; }
+.dice-results .dice-total { font-size: 1.6rem; font-weight: 700; color: var(--heading); line-height: 1.2; }
+.dice-results .dice-note { margin-top: 4px; }
+.dice-colours { border: 0; border-top: 1px solid var(--border); margin: 14px 0 0; padding: 12px 0 0; min-width: 0; }
+.dice-colours legend { padding: 0; margin-bottom: 8px; font-weight: 700; color: var(--heading); font-size: .95rem; }
+.dice-colours .opts { display: grid; grid-template-columns: 1fr 1fr; gap: 6px; }
+.dice-colours label { position: relative; display: flex; align-items: center; gap: 8px; min-height: 36px; padding: 0 8px; border: 1px solid var(--border); border-radius: 4px; cursor: pointer; font-size: .92rem; }
+.dice-colours input, .seg input { position: absolute; opacity: 0; inset: 0; margin: 0; cursor: pointer; }
+.dice-colours .sw { width: 18px; height: 18px; border-radius: 50%; flex: none; background: var(--c); box-shadow: inset 0 0 0 1px rgba(255,255,255,.25); }
+.dice-colours input:checked ~ .sw { box-shadow: 0 0 0 2px var(--surface), 0 0 0 4px var(--heading); }
+.dice-colours label:has(input:checked) { border-color: var(--heading); color: var(--heading); }
+.dice-colours label:has(input:focus-visible) { outline: 3px solid var(--focus); outline-offset: 2px; }
+/* after Roll the tray closes so the dice are in view; this card shows the result under the pill until the dice clear */
+.dice-toast { position: fixed; z-index: 40; min-width: 200px; max-width: calc(100vw - 32px); padding: 10px 14px; background: var(--surface); border: 1px solid var(--border-strong); border-left: 4px solid var(--dice); border-radius: 6px; box-shadow: 0 10px 26px rgba(0,0,0,.45); color: var(--text); font: inherit; text-align: left; cursor: pointer; }
+.dice-toast p { margin: 0; }
+.dice-toast .dice-total { font-size: 1.4rem; font-weight: 700; color: var(--heading); line-height: 1.2; }
+#diceStage { position: fixed; inset: 0; z-index: 30; pointer-events: none; }
+#diceStage canvas { width: 100%; height: 100%; display: block; }
+
+/* ---------- buttons, cards, tiles */
+.btn { display: inline-flex; align-items: center; justify-content: center; gap: 8px; min-height: 48px; padding: 0 22px; border-radius: 4px; font: inherit; font-size: 1rem; font-weight: 700; text-decoration: none; border: 2px solid var(--accent); }
+.btn-primary { background: var(--accent); color: var(--on-accent); }
+.btn-primary:hover { background: var(--accent-strong); border-color: var(--accent-strong); color: var(--on-accent); }
+.btn-secondary { color: var(--accent); background: transparent; }
+.btn-secondary:hover { background: var(--surface-2); }
+.card { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 22px; box-shadow: var(--shadow); }
+.card h3 { margin-bottom: .35em; }
+.grid { display: grid; gap: 20px; }
+.grid-3 { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.tile { display: flex; flex-direction: column; gap: 6px; text-decoration: none; color: var(--text); min-height: 100%; }
+a.tile:hover { border-color: var(--accent); color: var(--text); }
+a.tile:hover h3 { color: var(--accent); }
+.tile .count, .frame-tile .count { font-size: .95rem; color: var(--muted); }
+.tile h3 { margin: 0; }
+.tile-desc { margin: 0; }
+/* home "Resources for your game": the framed card from the Player's Guide art (its outer stepped line with square knots
+   at the corners, round a white panel with cut corners and floating squares), redrawn at the art's 521px size and
+   applied as a 9-slice border image: the 86px corners keep their shape, the edges and white centre stretch to any size.
+   Data URIs can't read the colour tokens, so the gold hover copy is written out too (lines --heading #e3e9f0, gold --accent #f2c488, panel --surface #2e2d34, the
+   Character sheets section's background, with the text in white). */
+.frame-tile {
+  --frame: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='521' height='521' viewBox='0 0 521 521'%3E%3Cpath fill='%232e2d34' d='M83 41H438V69H452V84H480V437H452V452H438V480H83V452H69V437H41V84H69V69H83ZM55 55h14v14H55ZM452 55h14v14h-14ZM55 452h14v14H55ZM452 452h14v14h-14Z'/%3E%3Cg fill='none' stroke='%23e3e9f0' stroke-width='4'%3E%3Cpath d='M44 2H477V30H491V44H519V477H491V491H477V519H44V491H30V477H2V44H30V30H44Z'/%3E%3Cpath d='M16 16h14v14H16ZM491 16h14v14h-14ZM16 491h14v14H16ZM491 491h14v14h-14Z'/%3E%3C/g%3E%3C/svg%3E");
+  --frame-gold: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='521' height='521' viewBox='0 0 521 521'%3E%3Cpath fill='%232e2d34' d='M83 41H438V69H452V84H480V437H452V452H438V480H83V452H69V437H41V84H69V69H83ZM55 55h14v14H55ZM452 55h14v14h-14ZM55 452h14v14H55ZM452 452h14v14h-14Z'/%3E%3Cg fill='none' stroke='%23f2c488' stroke-width='4'%3E%3Cpath d='M44 2H477V30H491V44H519V477H491V491H477V519H44V491H30V477H2V44H30V30H44Z'/%3E%3Cpath d='M16 16h14v14H16ZM491 16h14v14h-14ZM16 491h14v14H16ZM491 491h14v14h-14Z'/%3E%3C/g%3E%3C/svg%3E");
+  aspect-ratio: 1;
+  display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 6px; padding: 8px; text-align: center;
+  border: 43px solid transparent; border-image: var(--frame) 86 fill / 43px stretch;
+  background: var(--surface) padding-box;  /* the panel's colour, inside the panel: a real backdrop for the text (and for contrast checkers) */
+  color: var(--heading); text-decoration: none; }
+/* as many squares across as fit, 4 → 3 → 2 → 1, each at least 220px (the longest title's square) and at most 300px.
+   Below 760px the narrower side margins would bring a third column back, so the minimum there is 246px (see NOTES) */
+#homeTiles { --tile-min: 220px; grid-template-columns: repeat(auto-fill, minmax(max(min(100%, var(--tile-min)), calc((100% - 60px) / 4)), 1fr)); }  /* never more than 4 */
+@media (max-width: 759px) { #homeTiles { --tile-min: 246px; } }
+#homeTiles .frame-tile { width: 100%; max-width: 300px; justify-self: center; }
+.frame-tile h3 { margin: 0; text-wrap: balance; }
+.frame-tile:hover, .frame-tile:focus-visible { border-image-source: var(--frame-gold); color: var(--heading); }
+.frame-tile:hover h3, .frame-tile:focus-visible h3 { text-decoration: underline; text-decoration-thickness: 2px; text-underline-offset: 3px; }
+@media (forced-colors: active) {
+  .frame-tile { border: 2px solid CanvasText; border-image: none; padding: 49px; }
+  .frame-tile:hover, .frame-tile:focus-visible { border-color: Highlight; }
+  /* states drawn only with a fill or a box-shadow, which forced colours remove */
+  .seg input:checked + span, .az a[aria-current="true"] { background: Highlight; color: HighlightText; border-color: Highlight; }
+  .primary-nav a[aria-current], .toc a.active, .section-nav a[aria-current="page"] { text-decoration: underline 3px; }
+  .seg input:checked:focus-visible + span { outline-color: HighlightText; }
+  .dice-colours label:has(input:checked) { border: 2px solid Highlight; }
+  .dice-colours .sw { forced-color-adjust: none; }
+}
+.section { padding: 0 0 56px; }
+#view-adventures > .wrap, #view-adventure > .wrap { padding-bottom: 56px; }  /* views that end in their top wrap: the same gap before the footer */
+/* section divider: 120px past the text column on each side when there's room, otherwise the end circles stop 6px
+   short of the window edge (never less than 44px past the text, see the page margins below). Two-thirds brightness so it sits quieter than the text. */
+.wrap.section-rule { width: min(1392px, calc(100% - 12px)); padding: 0; margin: 0 auto 55px; opacity: .667; }
+/* only the first section under the hero has the divider; the rest keep the same 112px gap with top padding */
+.section:not(:has(> .section-rule)) { padding-top: 56px; }
+.section-head { display: flex; justify-content: space-between; align-items: baseline; gap: 16px; flex-wrap: wrap; margin-bottom: 20px; }
+.section-head h2 { margin: 0; }
+.section-head p { margin: 0; }
+.chapter-list { list-style: none; padding: 0; margin: 0; }
+.chapter-list li + li { margin-top: 0; }
+.chapter-list a { display: flex; align-items: center; min-height: 40px; border-bottom: 1px solid var(--border); text-decoration: none; }
+.chapter-list a:hover { text-decoration: underline; }
+.part { margin: 14px 0 4px; font-size: .95rem; color: var(--muted); letter-spacing: .04em; text-transform: uppercase; }
+/* long chapter lists flow into columns; each row keeps the chapter-list look */
+.chapter-list.cols { column-width: 13em; column-gap: 28px; }
+.chapter-list.cols li { break-inside: avoid; }
+.span-2 { grid-column: span 2; }
+.span-all { grid-column: 1 / -1; }
+.parts { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 0 28px; }
+.parts .part { margin-top: 6px; }
+.tile .chapter-list { margin-top: 6px; }
+
+/* ---------- home */
+/* hero: Player's Guide cover art behind a dark scrim */
+.hero { position: relative; isolation: isolate; padding-top: 72px; padding-bottom: 72px; overflow: hidden; background: var(--bg); }
+.hero::before { content: ''; position: absolute; inset: 0; z-index: -1;
+  background: var(--hero-img) right center / cover no-repeat; filter: saturate(1.2); }
+/* a slight Ken Burns: the art starts 6% larger and settles over 14s on exactly the resting frame (transform: none).
+   Only the art moves; the scrim and text stay put. Skipped for anyone who asks for reduced motion. */
+@keyframes hero-settle { from { transform: scale(1.06); } to { transform: none; } }
+@media (prefers-reduced-motion: no-preference) {
+  .hero::before { transform-origin: 75% 45%; will-change: transform; animation: hero-settle 14s cubic-bezier(.25,.1,.25,1) both; } }
+/* the scrim is a soft-edged shape that hugs the text: narrow beside the logo, out past the paragraph and buttons, then
+   sweeping right along the bottom, so the figures in the tree and the monster stay clear. It's drawn in a 3000px-wide box
+   whose x = 2000 is the text column's left edge (the column offset below matches the page margins), and y in % of the
+   hero's height, so it follows the text at any width. */
+.hero::after { content: ''; position: absolute; top: 0; bottom: 0; z-index: -1; width: 3000px;
+  left: calc(max(0px, (100% - 1200px) / 2) + clamp(24px, 50px - (100% - 1200px) / 2, 50px) - 2000px);
+  background: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3000 100' preserveAspectRatio='none'><filter id='b' x='-.1' y='-.5' width='1.2' height='2'><feGaussianBlur stdDeviation='50 8'/></filter><path filter='url(%23b)' fill='rgb(38,37,43)' fill-opacity='.94' d='M0 -20 L2400 -20 L2400 0 C2430 15 2470 26 2560 32 C2665 38 2745 39 2745 52 L2745 79 C2745 88 2835 94 2960 102 L2960 120 L0 120 Z'/></svg>") 0 0 / 100% 100% no-repeat; pointer-events: none; }
+.hero-logo { margin: 0 0 20px; color: var(--heading); line-height: 0; }
+.hero-logo .logo { height: clamp(96px, 14vw, 150px); width: auto; display: block; }
+.hero .lede { font-size: 1.3rem; max-width: 32em; }
+.hero .actions { display: flex; gap: 14px; flex-wrap: wrap; align-items: center; margin-top: 26px; }
+.hero .start-link { min-height: 44px; display: inline-flex; align-items: center; padding: 0 6px; }
+/* Start steps: a full-bleed slideshow of the Player's Guide section art, one step filling the section at a time, with
+   the heading and each step's text overlaid. The art's dark forest edges meet with a 48px blend as it slides, so the
+   three read as one wood. It advances on its own every 7s (paused on hover, focus, Pause, reduced motion, or off-screen). */
+#home-start { --text-left: calc(max(0px, (100% - 1200px) / 2) + clamp(24px, 50px - (100% - 1200px) / 2, 50px)); --join: 48px;
+  --pad: max(var(--text-left), 64px); padding-top: 0; }  /* text clears the 48px blends and the arrows */
+.steps-show { position: relative; width: 100%; aspect-ratio: 1600 / 780; min-height: 420px; max-height: calc(100vh - 88px); background: #000; }  /* the art's own shape, uncropped, unless the window is short */
+/* the book's diamond chain frames the slideshow above and below, full width, touching the art */
+.diamond-rule.steps-edge { margin: 0; }
+.steps-band { height: 100%; overflow-x: auto; overflow-y: hidden; scroll-snap-type: x mandatory; scrollbar-width: none; }
+.steps-band::-webkit-scrollbar { display: none; }
+.steps-band:focus-visible { outline-offset: -3px; }
+@media (prefers-reduced-motion: no-preference) { .steps-band { scroll-behavior: smooth; } }
+.steps { display: flex; height: 100%; margin: 0; padding: 0; list-style: none; }
+.step { position: relative; flex: 0 0 100%; height: 100%; margin: 0; overflow: hidden; scroll-snap-align: start; background: #000; }
+.step + .step { margin-left: calc(-1 * var(--join));
+  -webkit-mask-image: linear-gradient(to right, transparent, #000 var(--join)); mask-image: linear-gradient(to right, transparent, #000 var(--join)); }
+.step-art { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: center bottom; }
+/* steps 1 and 2 move, and end exactly where the art has them. Step 1: the bow arm turns about the archer's drawing hand
+   (452.1, 305.6 in its 1600×784 frame) and the bird drifts in from up and to the right. Step 2: the rider gallops in from
+   the left. Step 3: her sword swings down and right into the clash about her grip, and his rises about his. Slow, once
+   each time the step comes into view. */
+.anim-arm { transform-box: view-box; transform-origin: 452.1px 305.6px; }  /* the fist, where the strings and arrow meet */
+.anim-bird { transform-box: fill-box; transform-origin: 30% 70%; }
+.anim-sword-l { transform-box: view-box; transform-origin: 584.1px 459.4px; }  /* her grip */
+.anim-sword-r { transform-box: view-box; transform-origin: 1208.8px 135.4px; }  /* his grip */
+@keyframes sword-l { from { transform: rotate(-12deg); } to { transform: none; } }
+@keyframes sword-r { from { transform: rotate(-7deg); } to { transform: none; } }
+@keyframes arm-raise { from { transform: rotate(11deg); } to { transform: none; } }
+@keyframes bird-swoop { from { transform: translate(150px, -120px) rotate(-8deg); } to { transform: none; } }
+@keyframes horse-gallop {
+  0% { transform: translate(-264px, 0); } 2.5% { transform: translate(-244.7px, -5.8px); } 5% { transform: translate(-226.3px, 0); } 7.5% { transform: translate(-208.9px, -5.3px); }
+  10% { transform: translate(-192.5px, -1.6px); } 12.5% { transform: translate(-176.9px, -4.1px); } 15% { transform: translate(-162.1px, -3.8px); } 17.5% { transform: translate(-148.2px, -1px); }
+  20% { transform: translate(-135.2px, -4.1px); } 22.5% { transform: translate(-122.9px, -3px); } 25% { transform: translate(-111.4px, -0.6px); } 27.5% { transform: translate(-100.6px, -3.2px); }
+  30% { transform: translate(-90.6px, -3.3px); } 32.5% { transform: translate(-81.2px, -1.5px); } 35% { transform: translate(-72.5px, -0.8px); } 37.5% { transform: translate(-64.5px, -2.3px); }
+  40% { transform: translate(-57px, -2.8px); } 42.5% { transform: translate(-50.2px, -2.3px); } 45% { transform: translate(-43.9px, -1.2px); } 47.5% { transform: translate(-38.2px, -0.1px); }
+  50% { transform: translate(-33px, -0.8px); } 52.5% { transform: translate(-28.3px, -1.4px); } 55% { transform: translate(-24.1px, -1.6px); } 57.5% { transform: translate(-20.3px, -1.7px); }
+  60% { transform: translate(-16.9px, -1.5px); } 62.5% { transform: translate(-13.9px, -1.3px); } 65% { transform: translate(-11.3px, -1px); } 67.5% { transform: translate(-9.1px, -0.8px); }
+  70% { transform: translate(-7.1px, -0.6px); } 72.5% { transform: translate(-5.5px, -0.4px); } 75% { transform: translate(-4.1px, -0.3px); } 77.5% { transform: translate(-3px, -0.2px); }
+  80% { transform: translate(-2.1px, -0.1px); } 82.5% { transform: translate(-1.4px, -0.1px); } 85% { transform: translate(-0.9px, 0); } 87.5% { transform: translate(-0.5px, 0); }
+  90% { transform: translate(-0.3px, 0); } 92.5% { transform: translate(-0.1px, 0); } 100% { transform: translate(0, 0); }
+}
+@media (prefers-reduced-motion: no-preference) {
+  /* until a step's animation plays, its figures wait in their start pose, so nothing shows the end first */
+  .anim-arm { transform: rotate(11deg); }
+  .anim-bird { transform: translate(150px, -120px) rotate(-8deg); }
+  .anim-horse { transform: translate(-264px, 0); }
+  .anim-sword-l { transform: rotate(-12deg); }
+  .anim-sword-r { transform: rotate(-7deg); }
+  .step.is-animating .anim-arm { animation: arm-raise 6s cubic-bezier(.3, .1, .3, 1) both; }
+  .step.is-animating .anim-bird { animation: bird-swoop 7s cubic-bezier(.25, .1, .3, 1) both; }
+  .step.is-animating .anim-horse { animation: horse-gallop 6s linear both; }
+  .step.is-animating .anim-sword-l { animation: sword-l 6s cubic-bezier(.3, .1, .3, 1) both; }
+  .step.is-animating .anim-sword-r { animation: sword-r 6s cubic-bezier(.3, .1, .3, 1) .5s both; }  /* his answers hers */
+}
+/* shade at the bottom for the step's text */
+.step::after { content: ''; position: absolute; inset: 0; pointer-events: none; background: linear-gradient(to top, rgba(0,0,0,.9) 0, rgba(0,0,0,.6) 30%, transparent 60%); }
+.step-body { position: absolute; left: 0; right: 0; bottom: 0; z-index: 1; padding: 72px var(--pad) 32px; color: var(--heading);
+  /* the text carries its own shade, fading out 72px above it, so however tall it gets it stays on near-black */
+  background: linear-gradient(to top, rgba(0,0,0,.88) 0, rgba(0,0,0,.88) calc(100% - 72px), transparent); }
+.step-body > * { max-width: 34em; }
+.step-body p { margin: 0; }
+.step-body p + p { margin-top: 10px; }
+.steps h3 { display: flex; align-items: center; gap: 12px; margin: 0 0 8px; font-size: 1.9rem; }
+.steps h3 a { color: var(--accent); }
+.step-num { flex: none; width: 38px; height: 38px; border-radius: 50%; display: grid; place-items: center; background: var(--accent); color: var(--on-accent); font-size: 1rem; }
+.steps-arrow { position: absolute; z-index: 3; top: 50%; transform: translateY(-50%); width: 48px; height: 48px; border-radius: 50%; border: 2px solid var(--accent); background: rgba(0,0,0,.6); color: var(--accent); font: 700 1.7rem/1 system-ui, sans-serif; cursor: pointer; display: grid; place-items: center; padding: 0 0 4px; }
+.steps-arrow.prev { left: 10px; }
+.steps-arrow.next { right: 10px; }
+.steps-arrow:hover { background: rgba(0,0,0,.85); }
+.steps-pause { position: absolute; z-index: 3; right: 10px; bottom: 10px; min-height: 36px; padding: 0 14px; border-radius: 999px; border: 1px solid rgba(255,255,255,.35); background: rgba(0,0,0,.6); color: var(--heading); font: 600 .9rem system-ui, sans-serif; cursor: pointer; }
+.steps-pause:hover { border-color: var(--heading); }
+#home-sheets { background: var(--surface); }
+/* News and community: the newest New School Revolution post beside the ways to share and join in, each under a small
+   label; side by side when there's room, stacked otherwise, and the community half fills the row if there's no post */
+.news-grid { display: grid; grid-template-columns: minmax(0, 1fr); gap: 48px; align-items: start; }
+.news-rule { display: none; }
+/* side by side from 860px, split by the book's hairline stood upright, with an open circle at each end */
+@media (min-width: 860px) {
+  .news-grid:has(> #home-blog:not([hidden])) { grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr); column-gap: 56px; }
+  .news-grid:has(> #home-blog:not([hidden])) > .news-rule { display: block; align-self: stretch; position: relative; width: 1px; margin: 6px 0; background: var(--heading); opacity: .667; }
+  .news-rule::before, .news-rule::after { content: ''; position: absolute; left: 50%; width: 6px; height: 6px; box-sizing: border-box;
+    border: 1.5px solid var(--heading); border-radius: 50%; transform: translateX(-50%); }
+  .news-rule::before { bottom: 100%; }
+  .news-rule::after { top: 100%; }
+}
+.news-part > .eyebrow { margin: 0 0 12px; }
+.news-part .lede { margin-top: 0; }
+.blog-post { max-width: 38rem; }
+.blog-post h4 { margin: 0 0 8px; font-size: 1.6rem; }
+.blog-post h4 a { text-decoration: none; }
+.blog-post h4 a:hover { text-decoration: underline; }
+.blog-post p { margin: 0; font-size: 1.15rem; }
+.news-more { margin: 14px 0 0; }
+.share .actions { display: flex; gap: 12px; flex-wrap: wrap; margin-top: 8px; }
+/* adventures: the catalog's cards (also the home page's row), its filters, and an adventure's own view */
+.adv-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 20px; list-style: none; margin: 0; padding: 0; }
+.adv-card { margin: 0; min-width: 0; }
+.adv-card > a { display: flex; flex-direction: column; height: 100%; background: var(--surface); border: 1px solid var(--border); border-radius: 8px; overflow: hidden; text-decoration: none; color: var(--text); box-shadow: var(--shadow); }
+.adv-card > a:hover { border-color: var(--accent); }
+.adv-card > a:hover .adv-name { text-decoration: underline; }
+.adv-art { position: relative; display: block; aspect-ratio: 315 / 250; overflow: hidden; background: var(--surface-2); border-bottom: 1px solid var(--border); }
+.adv-cover { position: absolute; inset: 0; display: block; width: 100%; height: 100%; object-fit: cover; }
+.adv-panel { display: none; position: absolute; inset: 0; padding: 16px; place-content: center; text-align: center; gap: 6px; color: var(--heading); font-size: 1.2rem; font-weight: 700; line-height: 1.25; overflow-wrap: anywhere;
+  background: radial-gradient(circle at 50% 120%, var(--surface) 0 40%, transparent 41%), var(--surface-2); }
+.adv-panel small { font-size: .78rem; letter-spacing: .08em; text-transform: uppercase; color: var(--accent); }
+.adv-art.no-cover .adv-panel { display: grid; }
+.adv-body { display: flex; flex-direction: column; gap: 6px; flex: 1; padding: 14px 16px 16px; }
+.adv-name { margin: 0; font-size: 1.15rem; line-height: 1.3; color: var(--heading); overflow-wrap: anywhere; }
+.adv-by { margin: 0; font-size: .95rem; color: var(--muted); }
+.adv-sum { margin: 0; font-size: .95rem; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+.adv-badges { display: flex; flex-wrap: wrap; gap: 6px; margin: auto 0 0; padding-top: 6px; }
+.adv-out { margin-left: auto; align-self: center; font-size: .9rem; color: var(--muted); }  /* the card leaves the site */
+.adv-card > a:is(:hover, :focus-visible) .adv-out { color: var(--accent); }
+.badge { display: inline-block; padding: 1px 9px; border: 1px solid var(--border-strong); border-radius: 999px; font-size: .82rem; font-weight: 700; color: var(--muted); }
+.badge.free { color: var(--accent); border-color: var(--accent); }
+.adv-links { margin: 0; }
+/* the home head's right end: the three group links, then Browse all as a secondary button at the far right */
+.adv-head-end { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 24px; }
+#home-adventures { padding-bottom: 80px; }  /* the usual 56px plus 24px before the Start slideshow */
+.adv-links a + a::before { content: '·'; margin: 0 8px; color: var(--muted); }
+/* the catalog's filters: one row from 1100px (each select as wide as its longest option, Author capped, Search taking
+   the rest), two rows of three below that, and on phones two columns of at least 150px (one on the narrowest, where
+   "Conversions (62)" wouldn't fit), with Search across the row */
+.adv-filters { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); align-items: end; gap: 16px; margin: 24px 0 20px; }
+.adv-filters .field { min-width: 0; }  /* so a long author name stays inside its column */
+.adv-filters .field :is(input, select) { width: 100%; }
+@media (min-width: 1100px) {
+  .adv-filters { grid-template-columns: minmax(180px, 1fr) repeat(5, auto); }
+  .adv-filters select { width: auto; }
+  #advAuthor { max-width: 12rem; }
+}
+@media (max-width: 759px) {
+  .adv-filters { grid-template-columns: repeat(auto-fill, minmax(max(150px, calc((100% - 16px) / 2)), 1fr)); }
+  .adv-filters .field:first-child { grid-column: 1 / -1; }
+}
+.field select { min-height: 44px; max-width: 100%; padding: 0 36px 0 10px; border: 1px solid var(--border-strong); border-radius: 4px; background: var(--surface); color: var(--text); font: inherit; font-size: 1rem; }
+/* the browser's own arrow sits about 5px from the edge, against the text's 10px: draw a chevron 12px in instead
+   (in --text, written out, since a data URI can't read the tokens) */
+.field select { appearance: none; background: var(--surface) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1.5l5 5 5-5' fill='none' stroke='%23c9d1d9' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") no-repeat right 12px center / 12px 8px; }
+@media (forced-colors: active) { .field select { appearance: auto; background-image: none; padding-right: 10px; } }  /* the chevron's colour is fixed: use the system arrow */
+.adv-count { margin: 0 0 16px; color: var(--muted); }
+.adv-detail { display: grid; grid-template-columns: minmax(0, 360px) minmax(0, 1fr); gap: 32px; align-items: start; margin-top: 20px; }
+.adv-detail .adv-art { border: 1px solid var(--border); border-radius: 8px; overflow: hidden; }
+.adv-detail h1 { margin: 0 0 6px; }
+.adv-detail .adv-badges { margin: 12px 0 16px; padding: 0; }
+.adv-detail .actions { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 24px; }
+/* an adventure's own images are hotlinked from cairnrpg.com: hold a box for them until they load */
+.prose figure img.hotlink { aspect-ratio: auto 3 / 2; min-width: min(100%, 320px); }
+.prose pre.fence { overflow-x: auto; padding: 12px 16px; background: var(--surface-2); border: 1px solid var(--border); border-radius: 6px; font-size: .92rem; line-height: 1.45; }
+@media (max-width: 1199px) { .adv-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); } #advHome { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 899px) { .adv-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 759px) { .adv-detail { grid-template-columns: minmax(0, 1fr); } .adv-detail .adv-art { max-width: 360px; } }
+@media (max-width: 519px) { .adv-grid { grid-template-columns: minmax(0, 1fr); gap: 16px; } #advHome { gap: 12px; }
+  #advHome .adv-body { padding: 10px 12px 12px; } #advHome .adv-name { font-size: 1rem; } #advHome .adv-sum { display: none; } }
+.sheets { display: grid; grid-template-columns: minmax(300px, 1fr) 2fr; gap: 28px 40px; align-items: start; }
+.sheets-text h2 { margin-top: 0; }
+.sheet-pick { border: 0; padding: 0; margin: 0 0 12px; min-width: 0; max-width: 420px; }
+.sheets-text p + .sheet-pick { margin-top: 22px; }
+/* each choice is real radio buttons, drawn as one segmented control */
+/* every row of options, and the Download button, is the same width; the options in a row share it equally */
+.seg { display: flex; flex-wrap: wrap; border: 2px solid var(--accent); border-radius: 4px; overflow: hidden; }
+.seg label { position: relative; flex: 1; }
+.seg span { display: flex; align-items: center; justify-content: center; min-height: 44px; padding: 0 16px; font-weight: 700; color: var(--accent); white-space: nowrap; }
+.seg label + label span { border-left: 2px solid var(--accent); }
+.seg input:checked + span { background: var(--accent); color: var(--on-accent); }
+.seg input:hover:not(:checked) + span { background: var(--surface-2); }
+.seg input:focus-visible + span { outline: 3px solid var(--focus); outline-offset: -5px; }
+.seg input:checked:focus-visible + span { outline-color: var(--on-accent); }  /* the gold ring would vanish on the gold fill */
+.sheet-download { display: flex; width: 100%; max-width: 420px; margin-top: 6px; }
+/* the two previews share one height: each figure's width is in proportion to its image's aspect ratio */
+.sheets-figs { display: flex; gap: 24px; align-items: flex-start; }
+.sheet { margin: 0; min-width: 0; }
+.sheet-land { flex: 1.294 1 0; }
+.sheet-port { flex: .773 1 0; }
+.sheet img { display: block; width: 100%; height: auto; border: 1px solid var(--border); border-radius: 4px; box-shadow: var(--shadow); }
+.sheet figcaption { margin-top: 10px; font-weight: 700; color: var(--heading); }
+
+/* ---------- rules view */
+.rules-layout { display: grid; grid-template-columns: 250px minmax(0, 1fr) 230px; gap: 40px; padding: 32px 24px 64px; width: min(1320px, 100%); margin: 0 auto; }
+/* source order is nav, "On this page", article; place them explicitly */
+.rules-layout > .section-nav { grid-column: 1; grid-row: 1; }
+.rules-layout > .rules-main { grid-column: 2; grid-row: 1; }
+.rules-layout > .toc { grid-column: 3; grid-row: 1; }
+/* breadcrumbs: only when the Second Edition sidebar is hidden (below 1100px), as the page's first row */
+.rules-layout > .crumbs { display: none; grid-column: 1 / -1; grid-row: 1; }
+.crumbs ol { list-style: none; display: flex; flex-wrap: wrap; gap: 4px; padding: 0; margin: 0; font-size: 1rem; color: var(--muted); }
+.crumbs li + li { margin: 0; }
+.crumbs li + li::before { content: '›'; margin-right: 6px; color: var(--muted); }
+.crumbs a { color: var(--muted); }
+.section-nav { position: sticky; top: calc(var(--head, 88px) + 8px); align-self: start; max-height: calc(100vh - var(--head, 88px) - 24px); overflow: auto; font-size: 1rem; padding-right: 6px; }
+.nav-title { font-size: 1.05rem; letter-spacing: .05em; text-transform: uppercase; color: var(--muted); margin: 0 0 8px; }
+.section-nav ul { list-style: none; padding: 0; margin: 0; }
+.section-nav li + li { margin: 0; }
+.section-nav a { display: flex; align-items: center; min-height: 36px; padding: 4px 10px; border-radius: 4px; color: var(--text); text-decoration: none; }
+.section-nav a:hover { background: var(--surface-2); color: var(--heading); }
+.section-nav a[aria-current="page"] { background: var(--surface-2); color: var(--heading); font-weight: 700; box-shadow: inset 3px 0 0 var(--accent); }
+.section-nav details { margin: 4px 0; }
+.section-nav summary { min-height: 40px; display: flex; align-items: center; gap: 8px; padding: 4px 10px; cursor: pointer; color: var(--heading); font-weight: 700; border-radius: 4px; list-style: none; }
+.section-nav summary::-webkit-details-marker { display: none; }
+.section-nav summary::before { content: '▸'; color: var(--muted); }
+@media (prefers-reduced-motion: no-preference) { .section-nav summary::before { transition: transform .15s; } }
+.section-nav details[open] > summary::before { transform: rotate(90deg); }
+.section-nav summary:hover { background: var(--surface-2); }
+.section-nav details ul { margin-left: 14px; border-left: 1px solid var(--border); padding-left: 6px; }
+.section-nav .sub-part { font-size: .85rem; color: var(--muted); text-transform: uppercase; letter-spacing: .04em; padding: 8px 10px 2px; }
+/* Book design language (Player's Guide section spreads): hairline ending in a small open circle */
+.book-rule { position: relative; height: 1px; background: var(--heading); margin-right: 6px; }
+.book-rule::after, .book-rule.both::before { content: ''; position: absolute; left: 100%; top: 50%; width: 6px; height: 6px; box-sizing: border-box;
+  border: 1.5px solid var(--heading); border-radius: 50%; transform: translateY(-50%); }
+/* the opener's hairline ends in a circle at both ends, like the book's footer rule */
+.book-rule.both { margin-left: 6px; }
+.book-rule.both::before { left: auto; right: 100%; }
+/* Rules opener: the hairline with the rings centred on the column, pulled up 18px; the title sits under it */
+.opener { position: relative; display: grid; grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr); column-gap: 12px; row-gap: 6px;
+  align-items: start; padding-top: 52px; margin: -18px 0 8px; }
+.opener .opener-rule { position: absolute; top: 52px; left: 6px; right: 6px; margin: 0; }
+/* the title row: the page title, with the page actions ("more" button, opening a small list of links) at its right */
+.title-row { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-bottom: calc(var(--h1) / 2); }
+.title-row > h1 { min-width: 0; margin: 0; }  /* the row carries the title's bottom margin, so ⋯ centres on the title itself */
+/* the language flag and ⋯ sit together at the row's right end; both open the same kind of small menu */
+.title-actions { display: flex; align-items: center; gap: 6px; flex: none; }
+.page-actions, .lang-picker { position: relative; flex: none; }
+.page-actions > button, .lang-picker > button { width: 44px; height: 44px; display: grid; place-items: center; border: 1px solid transparent; border-radius: 4px; background: none; color: var(--text); cursor: pointer; }
+.page-actions > button:hover, .page-actions > button[aria-expanded="true"], .lang-picker > button:hover, .lang-picker > button[aria-expanded="true"] { background: var(--surface-2); border-color: var(--border); color: var(--heading); }
+.page-actions ul, .lang-picker ul { position: absolute; right: 0; top: calc(100% + 4px); z-index: 15; min-width: 240px; margin: 0; padding: 6px; list-style: none;
+  background: var(--surface); border: 1px solid var(--border-strong); border-radius: 6px; box-shadow: var(--shadow-pop); }
+.page-actions li + li, .lang-picker li + li { margin: 0; }
+.page-actions a, .lang-picker li button { display: flex; align-items: center; gap: 10px; width: 100%; min-height: 44px; padding: 0 12px; border: 0; border-radius: 4px; background: none; color: var(--text); text-decoration: none; font: inherit; font-size: 1rem; text-align: left; white-space: nowrap; cursor: pointer; }
+.page-actions a:hover, .page-actions a:focus-visible, .lang-picker li button:hover, .lang-picker li button:focus-visible { background: var(--surface-2); color: var(--heading); }
+.lang-picker li button[aria-current="true"] { color: var(--heading); font-weight: 700; }
+.lang-picker li button[aria-current="true"]::after { content: '✓'; margin-left: auto; color: var(--accent); }
+.lang-picker li small { color: var(--muted); font-size: .85rem; font-weight: 400; }
+/* flags: 24×16, rounded, with a hairline so white and dark flags hold their edge; a language with no flag gets its code */
+.flag { flex: none; display: block; width: 24px; height: 16px; border-radius: 2px; overflow: hidden; box-shadow: 0 0 0 1px rgba(227,233,240,.35); }
+.flag-badge { display: grid; place-items: center; background: var(--surface-2); color: var(--heading); font: 700 10px/1 system-ui, sans-serif; letter-spacing: .04em; }
+.l10n-credit { margin: calc(var(--h1) / -2 + 6px) 0 calc(var(--h1) / 2); color: var(--muted); font-size: .95rem; }
+.l10n-credit a { color: inherit; }
+:lang(zh) { font-family: 'Alegreya', "PingFang SC", "Noto Serif SC", "Songti SC", Georgia, serif; }
+.prose blockquote { margin: 1em 0; padding: 4px 0; padding-inline-start: 18px; border-inline-start: 3px solid var(--border-strong); color: var(--text); font-style: italic; }
+.prose blockquote p { margin: 0; }
+.opener-rings { grid-column: 2; grid-row: 1; margin-top: -52px; color: var(--accent); display: block; }  /* the rings in the brand gold; the hairline stays white */
+/* the book's diamond chain (it frames the art bands): one row of outlined diamonds, coloured through a mask.
+   Used above and below the home page's Start slideshow (preview: snippets/diamond-chain.html). Add <div class="diamond-rule" aria-hidden="true"></div>. */
+.diamond-rule { height: 6px; margin: 4px 0 0; background: var(--heading);
+  -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='6.7' height='6' viewBox='0 0 6.7 6'%3E%3Cpath d='M0.35 3 L3.35 0.1 L6.35 3 L3.35 5.9 Z' fill='none' stroke='%23000' stroke-width='0.7'/%3E%3C/svg%3E") left center / 6.7px 6px; -webkit-mask-repeat: round no-repeat;
+  mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='6.7' height='6' viewBox='0 0 6.7 6'%3E%3Cpath d='M0.35 3 L3.35 0.1 L6.35 3 L3.35 5.9 Z' fill='none' stroke='%23000' stroke-width='0.7'/%3E%3C/svg%3E") left center / 6.7px 6px; mask-repeat: round no-repeat; }
+.diamond-rule ~ .prose > h2:first-child { margin-top: 32px; }
+.prose { max-width: 70ch; }
+.prose h2 { margin-top: 1.8em; padding-top: .4em; }
+.prose h3 { margin-top: 1.4em; }
+.prose h4, .prose h5, .prose h6 { margin: 1.3em 0 .4em; }
+.prose h5, .prose h6 { font-size: 1.05rem; }
+.prose li > ul, .prose li > ol { margin: .25em 0 0; }
+.prose hr { border: 0; border-top: 1px solid var(--border); margin: 2em 0; }
+/* the Warden's Guide example maps: inlined, capped to the column, linking to the full size on cairnrpg.com */
+.prose figure { margin: 1.5em 0; }
+.prose figure img { display: block; max-width: 100%; height: auto; border: 1px solid var(--border); border-radius: 4px; background: #fff; }
+/* a page's child pages, listed after its text as JTD does */
+.prose .child-list { margin-top: 1.5em; padding-inline-start: 1.25em; }
+.section-nav .nav-title a { color: inherit; text-decoration: none; }
+.section-nav .nav-title a:hover, .section-nav .nav-title a[aria-current="page"] { color: var(--heading); text-decoration: underline; }
+table.aligned { table-layout: fixed; }  /* its <colgroup> widths, shared with the tables around it (alignTables) */
+table.aligned th, table.aligned td { overflow-wrap: break-word; }
+table.aligned tbody th { white-space: normal; }  /* its column has a set width, so a long row header (a Marketplace item) wraps */
+.table-wrap { overflow-x: auto; margin: 0 0 1.2em; border: 1px solid var(--border); border-radius: 6px; }
+table { border-collapse: collapse; width: 100%; font-size: 1rem; }
+/* short tables: the frame shrinks to the table instead of leaving an empty bordered area */
+.table-wrap.narrow { width: fit-content; max-width: 100%; }
+.table-wrap.narrow table { width: auto; min-width: 280px; }
+caption { text-align: start; padding: 10px 12px; font-weight: 700; color: var(--heading); background: var(--surface-2); }
+th, td { text-align: start; vertical-align: top; padding: 8px 12px; border-top: 1px solid var(--border); }
+thead th { background: var(--surface); color: var(--heading); white-space: nowrap; }
+thead td { background: var(--surface); }  /* an empty header cell is a td (an empty th fails accessibility checks); the row stays one colour */
+tbody th { color: var(--heading); white-space: nowrap; }
+.pager { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-top: 48px; }
+.pager a { display: block; padding: 16px 18px; border: 1px solid var(--border); border-radius: 8px; text-decoration: none; background: var(--surface); }
+.pager a:hover { border-color: var(--accent); }
+.pager small { display: block; color: var(--muted); font-size: .9rem; }
+.pager .next { text-align: right; }
+.toc { position: sticky; top: calc(var(--head, 88px) + 8px); align-self: start; font-size: .98rem; max-height: calc(100vh - var(--head, 88px) - 24px); overflow: auto; }
+.toc-toggle { display: none; }
+.toc ul { list-style: none; padding: 0; margin: 0; border-inline-start: 1px solid var(--border); }
+.toc li + li { margin: 0; }
+.toc a { display: block; padding: 4px 0; padding-inline-start: 12px; color: var(--text); text-decoration: none; min-height: 32px; }
+.toc a:hover { color: var(--accent); }
+.toc .lvl3 a { padding-inline-start: 26px; font-size: .92rem; color: var(--muted); }
+.toc a.active { color: var(--heading); box-shadow: inset 2px 0 0 var(--accent); }
+.toc [dir="rtl"] a.active { box-shadow: inset -2px 0 0 var(--accent); }
+.back-top { display: inline-flex; min-height: 44px; align-items: center; margin-top: 24px; }
+
+/* ---------- resources view */
+.field label { display: block; font-size: 1rem; color: var(--muted); margin-bottom: 4px; }
+.field input { min-height: 44px; width: min(360px, 100%); padding: 0 12px; border: 1px solid var(--border-strong); border-radius: 4px; background: var(--surface); color: var(--text); font: inherit; font-size: 1rem; }
+/* Monsters, laid out like the ItO bestiary sheet: a letter rail on the left that follows the scroll, beside one
+   continuous stream of stat blocks (no cards, no visible letter headings). --head is the sticky header's height, set in JS. */
+.bestiary { display: grid; grid-template-columns: 56px minmax(0, 1fr) 56px; column-gap: 48px;  /* an empty column matches the rail, so the stream centres on the page */
+  margin-top: 24px; }
+/* the filter sits in the stream's column, as wide as the stat blocks; the rail starts level with it */
+.monster-tools { display: flex; flex-direction: column; align-items: center; gap: 6px; grid-column: 2; grid-row: 1; justify-self: center; width: min(100%, 38rem); margin: 0 0 40px; }
+.bestiary .field { width: 100%; }
+.bestiary .field input { width: 100%; }
+.bestiary #mqStatus { align-self: flex-start; margin: 0; }
+.bestiary .stream { grid-column: 2; grid-row: 2; }
+.az-rail { grid-column: 1; grid-row: 1 / span 2; position: sticky; top: calc(var(--head, 80px) + 16px); align-self: start; max-height: calc(100vh - var(--head, 80px) - 32px);
+  overflow-y: auto; scrollbar-width: none; }
+.az-rail::-webkit-scrollbar { display: none; }
+.az { list-style: none; display: flex; flex-direction: column; gap: 4px; padding: 0; margin: 0; }
+.az li + li { margin: 0; }
+.az a, .az span { display: grid; place-items: center; min-height: 34px; border-radius: 4px; text-decoration: none; font-size: 1.45rem; line-height: 1; }
+.az a:hover { text-decoration: underline; }
+.az a[aria-current="true"] { background: var(--heading); color: var(--bg); font-weight: 700; text-decoration: none; }
+.az span { color: var(--muted); opacity: .55; }
+/* the stream is centred on the page, as the sheet centres its column */
+.stream { width: min(100%, 38rem); justify-self: center; display: flex; flex-direction: column; gap: 48px; }
+.res-browse { margin-top: 28px; }
+#monsters { margin-top: 48px; }
+.letter-group { display: flex; flex-direction: column; gap: 48px; }
+.letter-group:focus { outline: none; }
+/* stat block, in the workbench's order: name, stat line, attack (and detachment), then abilities as bullets,
+   with the book's double-ended hairline under the name only */
+.monster { display: flex; flex-direction: column; gap: 10px; }
+.monster h3 { margin: 0; font-size: 1.6rem; }
+.monster h3 a { text-decoration: none; }
+.monster h3 a:hover { text-decoration: underline; }
+.monster .book-rule { opacity: .667; }
+.monster .stats, .monster .attack { margin: 0; font-size: 1.15rem; }
+.monster .stats { display: flex; flex-wrap: wrap; align-items: baseline; gap: 2px 0; color: var(--heading); margin-left: -20px; clip-path: inset(-1em -1em -1em 20px); }
+/* the workbench's stat line: a small label, then the number larger and bold, with a dot between stats. Every stat
+   starts with a 20px dot; the row is pulled 20px left and that strip is clipped, so the dot of a stat that starts a
+   line is cut off and a row never starts or ends on a dot */
+.monster .stat { white-space: nowrap; }
+.monster .stat .l { font-size: .95rem; letter-spacing: .04em; }
+.monster .stat b { font-size: 1.5rem; margin-left: 3px; font-variant-numeric: lining-nums tabular-nums; }  /* Alegreya's equal-width digits */
+.monster .stat .dot { display: inline-block; width: 20px; text-align: center; font-size: .95rem; color: var(--muted); }
+.monster ul { font-size: 1.15rem; margin: 0; }
+@media (max-width: 640px) {  /* as the sheet does on phones */
+  .bestiary { grid-template-columns: 32px minmax(0, 1fr); column-gap: 16px; }
+  .az a, .az span { min-height: 30px; font-size: 1.2rem; }
+}
+
+/* ---------- footer */
+.site-footer { border-top: 1px solid var(--border); padding: 40px 0 90px; font-size: 1rem; background: var(--surface); }
+.site-footer .cols { display: grid; grid-template-columns: 2fr 1fr 1fr 1fr; gap: 24px 40px; }
+/* the footer isn't held to the body's 1200px column: it runs wider, so the site map's lists have room */
+.site-footer > .wrap { width: min(1560px, 100%); padding: 0 clamp(16px, 4vw, 56px); }
+.sitemap-section { padding: 24px 0 72px; }
+.site-footer h2 { font-size: 1.05rem; margin-bottom: 8px; }
+.site-footer ul { list-style: none; padding: 0; margin: 0; }
+.site-footer li + li { margin: 0; }
+.site-footer a { display: inline-flex; min-height: 40px; align-items: center; }
+
+/* ---------- drawer (mobile nav) */
+.drawer-extra { display: none; }
+.drawer-extra .section-nav { position: static; max-height: none; }
+
+/* ---------- responsive */
+@media (max-width: 1099px) {
+  .sheets { grid-template-columns: minmax(0, 1fr); }
+  .sheets-text { max-width: 40em; }
+  /* narrower: "On this page" keeps its column and the Second Edition nav goes first
+     (the breadcrumbs, the previous/next links and, below 960px, the Menu drawer still reach it) */
+  .rules-layout { grid-template-columns: minmax(0, 1fr) 210px; }
+  .rules-layout > .section-nav { display: none; }
+  .rules-layout > .crumbs { display: block; }
+  .rules-layout > .rules-main { grid-column: 1; grid-row: 2; }
+  .rules-layout > .toc { grid-column: 2; grid-row: 2; }
+  .grid-3 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .site-footer .cols { grid-template-columns: 1fr 1fr; }
+  #ruleCards { grid-template-columns: minmax(0, 1fr); }
+  #ruleCards > .span-2 { grid-column: auto; }
+  #ruleCards .chapter-list:not(.cols) { column-width: 13em; column-gap: 28px; }
+  .site-header .wrap { gap: 14px; }
+  .primary-nav a { padding: 0 10px; }
+}
+/* page margins grow (24px up to 50px) only as far as needed for the section dividers to reach their full 44px past
+   the text plus the 6px end circle, whatever the window width. The header keeps 24px: it needs the room for its nav. */
+@media (min-width: 760px) {
+  .toc .toc-list[hidden] { display: block; }
+  main .wrap { --gutter: clamp(24px, calc(50px - (100% - 1200px) / 2), 50px); padding-left: var(--gutter); padding-right: var(--gutter); } }
+/* header: Menu drawer whenever the full header can't fit */
+@media (max-width: 959px) {
+  .site-header .wrap { flex-wrap: wrap; gap: 6px 10px; min-height: 0; padding-top: 22px; padding-bottom: 10px; }
+  .menu-btn { display: inline-flex; margin-left: auto; border-color: var(--border-strong); }
+  .primary-nav { display: none; width: 100%; }
+  .site-header.open .primary-nav { display: block; }
+  .primary-nav ul { flex-direction: column; }
+  .primary-nav a { font-size: 1.15rem; }
+  .nav-menu { display: none; }  /* the drawer keeps its plain list */
+  .site-header.open .drawer-extra { display: block; width: 100%; border-top: 1px solid var(--border); padding: 8px 0; max-height: 50vh; overflow: auto; }
+  .search { order: 5; width: 100%; flex-basis: 100%; margin: 0; }
+  .search input { width: 100%; padding-right: 12px; }
+  .search kbd { display: none; }
+  .results { left: 0; right: auto; width: 100%; }
+  /* the Dice pill stays in the top row, just left of Menu */
+  .brand { order: -2; }
+  .dice-pill { order: -1; margin-left: auto; }
+  .menu-btn { margin-left: 0; }
+}
+@media (max-width: 759px) {
+  body { font-size: 17px; }
+  .proto-bar { font-size: .82rem; }
+  .proto-bar .long { display: none; }
+  .wrap { padding: 0 16px; }
+  #home-start { --text-left: 16px; }
+  .steps-show { aspect-ratio: auto; height: 520px; }
+  .steps h3 { font-size: 1.4rem; }
+  .step-body { padding-bottom: 58px; }  /* room for Pause below the text */
+  .dice-tray { left: 16px; right: 16px; width: auto; max-width: none; }
+  .dice-toast { left: 16px; right: 16px; }
+  .hero { padding-top: 44px; padding-bottom: 44px; }
+  .hero::before { background: linear-gradient(rgba(38,37,43,.74), rgba(38,37,43,.9)), var(--hero-img) 62% center / cover no-repeat; }
+  .hero::after { display: none; }
+  .hero .actions { flex-direction: column; align-items: stretch; }
+  .hero .btn { width: 100%; }
+  .grid-3 { grid-template-columns: minmax(0, 1fr); }
+  .sheets-figs { flex-direction: column; gap: 28px; }
+  .sheet-land, .sheet-port { flex: none; width: 100%; }
+  .sheet-port img { width: min(100%, 340px); }
+  .section { padding: 0 0 40px; }
+  #view-adventures > .wrap, #view-adventure > .wrap { padding-bottom: 40px; }
+  .wrap.section-rule { margin-bottom: 39px; }
+  .section:not(:has(> .section-rule)) { padding-top: 40px; }
+  .rules-layout { grid-template-columns: minmax(0, 1fr); padding: 20px 16px 56px; gap: 20px; }
+  .rules-layout > .toc { position: static; grid-column: 1; grid-row: 2; margin-bottom: -10px; max-height: none; }
+  .rules-layout > .rules-main { grid-column: 1; grid-row: 3; }
+  .opener { margin-top: 0; }  /* phones: the "On this page" button sits just above, so no pull-up */
+  .toc-toggle { display: inline-flex; align-items: center; gap: 8px; min-height: 44px; padding: 0 14px; border: 1px solid var(--border-strong); border-radius: 4px; background: var(--surface); color: var(--heading); font: inherit; font-size: 1rem; cursor: pointer; }
+  .toc .nav-title { display: none; }
+  .toc ul { margin-top: 10px; background: var(--surface); padding: 8px 0; border-radius: 6px; border: 1px solid var(--border); }
+  .pager { grid-template-columns: 1fr; }
+  .pager .next { text-align: left; }
+  .site-footer .cols { grid-template-columns: 1fr; }
+  .parts { grid-template-columns: minmax(0, 1fr); }
+}
+</style>
+</head>
+<body>
+<a class="skip" href="#main">Skip to main content</a>
+<aside class="proto-bar" aria-label="About this prototype"><div class="wrap"><span>Prototype<span class="long">: a layout proposal for cairnrpg.com, using the site's real content</span>.</span><span>Content © Yochai Gal, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0</a></span></div></aside>
+
+<header class="site-header" id="site-header">
+  <div class="wrap">
+    <a class="brand" href="#home">
+      <!--__LOGO__--><span class="sr-only">Cairn, home</span>
+    </a>
+    <button class="btn-icon menu-btn" id="menuBtn" type="button" aria-expanded="false" aria-controls="primaryNav drawerExtra">
+      <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M3 6h18M3 12h18M3 18h18" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round"/></svg>Menu
+    </button>
+    <nav class="primary-nav" id="primaryNav" aria-label="Main">
+      <ul>
+        <li data-menu="rules"><a href="#rules" data-nav="rules">Rules</a></li>
+        <li data-menu="resources"><a href="#resources" data-nav="resources">Resources</a></li>
+        <li data-menu="adventures"><a href="#adventures" data-nav="adventures">Adventures</a></li>
+        <li data-menu="community"><a href="#home-share" data-nav="community">Community</a></li>
+        <li data-menu="store"><a id="storeLink" href="#">Store</a></li>
+      </ul>
+    </nav>
+    <div class="search" role="search">
+      <label for="q" class="sr-only">Search Cairn</label>
+      <input id="q" type="search" dir="auto" autocomplete="off" placeholder="Search rules, monsters, adventures" aria-describedby="qStatus" aria-controls="qResults" aria-keyshortcuts="Control+K Meta+K">
+      <kbd aria-hidden="true" id="qKey">Ctrl K</kbd>
+      <p class="sr-only" id="qStatus" role="status"></p>
+      <ul class="results" id="qResults" hidden></ul>
+    </div>
+    <button class="dice-pill" id="diceBtn" type="button" popovertarget="diceTray"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 2.5 20.5 7.3v9.4L12 21.5 3.5 16.7V7.3Z M12 6.5l5 8.5H7Z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/></svg>Dice</button>
+    <div class="drawer-extra" id="drawerExtra"></div>
+  </div>
+</header>
+
+<main id="main" tabindex="-1">
+  <!-- ======================= HOME ======================= -->
+  <div data-view="home" id="view-home">
+    <section class="hero" aria-labelledby="home-title"><div class="wrap">
+      <h1 id="home-title" class="hero-logo" tabindex="-1"><!--__LOGO__--><span class="sr-only">Cairn</span></h1>
+      <p class="lede" id="heroLede"></p>
+      <div class="actions">
+        <a class="btn btn-primary" href="#rules">Read the rules, free</a>
+        <a class="btn btn-secondary" id="pdfBtn" href="#">Download the PDFs</a>
+        <a class="start-link" href="#home-start">New to Cairn? Start here</a>
+      </div>
+    </div></section>
+
+    <section class="section" id="home-adventures" aria-labelledby="adv-home-title">
+      <div class="wrap section-rule" aria-hidden="true"><div class="book-rule both"></div></div>
+      <div class="wrap">
+        <div class="section-head"><h2 id="adv-home-title" tabindex="-1">Adventures for Cairn</h2>
+          <div class="adv-head-end"><p class="adv-links" id="advHomeCounts"></p><a class="btn btn-secondary" href="#adventures">Browse all adventures</a></div></div>
+        <ul class="adv-grid" id="advHome"></ul>
+      </div>
+    </section>
+
+    <section class="section" id="home-start" aria-labelledby="start-title">
+      <div class="diamond-rule steps-edge" aria-hidden="true"></div>
+      <div class="steps-show">
+        <h2 class="sr-only" id="start-title" tabindex="-1">Start playing in three steps</h2>
+        <div class="steps-band" id="stepsBand" role="region" aria-roledescription="carousel" aria-label="Start steps" tabindex="0"><div class="steps" id="steps"></div></div>
+        <button class="steps-arrow prev" id="stepsPrev" type="button" aria-label="Previous step" aria-controls="stepsBand">‹</button>
+        <button class="steps-arrow next" id="stepsNext" type="button" aria-label="Next step" aria-controls="stepsBand">›</button>
+        <button class="steps-pause" id="stepsPause" type="button" aria-controls="stepsBand">Pause</button>
+        <p class="sr-only" id="stepsSay" role="status"></p>
+      </div>
+      <div class="diamond-rule steps-edge" aria-hidden="true"></div>
+    </section>
+
+    <section class="section" id="home-resources" aria-labelledby="res-home-title">
+      <div class="wrap">
+        <div class="section-head"><h2 id="res-home-title" tabindex="-1">Resources for your game</h2><p><a href="#resources">All resources</a></p></div>
+        <div class="grid" id="homeTiles"></div>
+      </div>
+    </section>
+
+    <section class="section" id="home-sheets" aria-labelledby="sheets-title">
+      <div class="wrap sheets">
+        <div class="sheets-text">
+          <h2 id="sheets-title" tabindex="-1">Character sheets</h2>
+          <p class="muted">Free PDFs from the <a href="https://cairnpress.itch.io/cairn-players-guide">Player's Guide on itch.io</a>. Also <a href="https://cairnpress.itch.io/cairn-players-guide">two to a page (Letter)</a>.</p>
+          <fieldset class="sheet-pick">
+            <legend class="sr-only">Layout</legend>
+            <div class="seg">
+              <label><input type="radio" name="sheet-layout" value="Landscape" checked><span>Landscape</span></label>
+              <label><input type="radio" name="sheet-layout" value="Portrait"><span>Portrait</span></label>
+            </div>
+          </fieldset>
+          <fieldset class="sheet-pick">
+            <legend class="sr-only">Paper</legend>
+            <div class="seg">
+              <label><input type="radio" name="sheet-paper" value="Letter" checked><span>Letter</span></label>
+              <label><input type="radio" name="sheet-paper" value="A4"><span>A4</span></label>
+              <label><input type="radio" name="sheet-paper" value="Fillable Letter"><span>Fillable Letter</span></label>
+            </div>
+          </fieldset>
+          <a class="btn btn-primary sheet-download" id="sheetDownload" href="https://cairnpress.itch.io/cairn-players-guide" aria-label="Download the Landscape sheet, Letter, from itch.io">Download</a>
+        </div>
+        <div class="sheets-figs">
+          <figure class="sheet sheet-land">
+            <img src="__SHEET_LANDSCAPE__" width="1100" height="850" alt="Preview of the landscape character sheet" loading="lazy">
+            <figcaption>Landscape</figcaption>
+          </figure>
+          <figure class="sheet sheet-port">
+            <img src="__SHEET_PORTRAIT__" width="850" height="1100" alt="Preview of the portrait character sheet, framed by a sword" loading="lazy">
+            <figcaption>Portrait</figcaption>
+          </figure>
+        </div>
+      </div>
+    </section>
+
+    <section class="section share" id="home-share" aria-labelledby="share-title">
+      <div class="wrap">
+        <h2 id="share-title" tabindex="-1">News and community</h2>
+        <div class="news-grid">
+          <div class="news-part" id="home-blog" hidden>
+            <h3 class="eyebrow" id="blog-title" tabindex="-1">From the blog</h3>
+            <article class="blog-post"><h4><a id="blogLink" href="#"></a></h4><p id="blogExcerpt"></p></article>
+            <p class="news-more"><a id="blogMore" href="#"></a></p>
+          </div>
+          <div class="news-rule" aria-hidden="true"></div>
+          <div class="news-part">
+            <h3 class="eyebrow">Share your work</h3>
+            <p class="lede" id="shareLede"></p>
+            <div class="actions" id="shareActions"></div>
+            <p class="news-more"><a id="sourceLink" href="https://github.com/yochaigal/cairn">View the source on GitHub</a></p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+  </div>
+
+  <!-- ======================= RULES ======================= -->
+  <div data-view="rules" id="view-rules" hidden>
+    <div class="rules-layout">
+      <nav class="crumbs" id="crumbsNav" aria-label="Breadcrumb"><ol id="crumbs"></ol></nav>
+      <nav class="section-nav" id="sectionNav" aria-label="Second Edition"></nav>
+      <div class="toc" id="toc">
+        <button class="toc-toggle" id="tocToggle" type="button" aria-expanded="false" aria-controls="tocList">
+          <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" focusable="false"><path d="M4 6h16M4 12h10M4 18h13" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round"/></svg>On this page
+        </button>
+        <nav aria-labelledby="tocTitle"><p class="nav-title" id="tocTitle">On this page</p><div class="toc-list" id="tocList" hidden></div></nav>
+      </div>
+      <article class="rules-main" aria-labelledby="core-top">
+        <div class="opener">
+          <div class="book-rule both opener-rule" aria-hidden="true"></div>
+          <svg class="opener-rings" width="74" height="75" viewBox="-37 -52 74 75" fill="none" stroke="currentColor" stroke-width="1" aria-hidden="true" focusable="false">
+            <circle cx="0" cy="0" r="12"/><circle cx="0" cy="0" r="22"/><circle cx="0" cy="-35.5" r="35.5"/>
+          </svg>
+        </div>
+        <div class="title-row">
+          <h1 id="core-top" tabindex="-1">Core Rules</h1>
+          <div class="title-actions">
+            <div class="lang-picker" id="langPicker" hidden>
+              <button id="langBtn" type="button" aria-label="Language: English" aria-expanded="false" aria-controls="langList"></button>
+              <ul id="langList" hidden></ul>
+            </div>
+            <div class="page-actions">
+              <button id="actionsBtn" type="button" aria-label="Page actions" aria-expanded="false" aria-controls="actionsList">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" focusable="false"><circle cx="5" cy="12" r="2"/><circle cx="12" cy="12" r="2"/><circle cx="19" cy="12" r="2"/></svg>
+              </button>
+              <ul id="actionsList" hidden>
+                <li><a id="editLink" href="#">Edit this page on GitHub</a></li>
+                <li><a id="pdfLink" href="#">Download as PDF</a></li>
+                <li><a id="liveLink" href="#">Open on cairnrpg.com</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <p class="l10n-credit" id="l10nCredit" hidden></p>
+        <div class="prose" id="coreProse"></div>
+        <nav class="pager" aria-label="Chapters" id="pager"></nav>
+        <a class="back-top" href="#core-top">Back to top</a>
+      </article>
+    </div>
+  </div>
+
+<!-- ======================= ADVENTURES ======================= -->
+  <div data-view="adventures" id="view-adventures" hidden>
+    <div class="wrap view-top">
+      <h1 id="adventures-top" tabindex="-1">Adventures</h1>
+      <form class="adv-filters" id="advFilters" role="search" aria-label="Filter adventures">
+        <div class="field"><label for="advQ">Search adventures</label><input id="advQ" name="q" type="search" autocomplete="off" placeholder="Names, authors, summaries, tags"></div>
+        <div class="field"><label for="advGroup">Group</label><select id="advGroup" name="g"></select></div>
+        <div class="field"><label for="advAuthor">Author</label><select id="advAuthor" name="a"></select></div>
+        <div class="field"><label for="advPrice">Price</label><select id="advPrice" name="p"></select></div>
+        <div class="field" id="advTagsBox"><label for="advTag">Tags</label><select id="advTag" name="t"></select></div>
+        <div class="field"><label for="advSort">Sort</label><select id="advSort" name="s"><option value="az">A to Z</option><option value="za">Z to A</option><option value="price">Free first</option></select></div>
+      </form>
+      <p class="adv-count" id="advCount" role="status"></p>
+      <ul class="adv-grid" id="advList"></ul>
+    </div>
+  </div>
+
+  <!-- ======================= ONE ADVENTURE (no page of its own here) ======================= -->
+  <div data-view="adventure" id="view-adventure" hidden>
+    <div class="wrap view-top">
+      <nav class="crumbs" aria-label="Breadcrumb"><ol id="advCrumbs"></ol></nav>
+      <div id="advDetail"></div>
+    </div>
+  </div>
+
+  <!-- ======================= SITEMAP ======================= -->
+  <div data-view="sitemap" id="view-sitemap" hidden>
+    <div class="wrap view-top">
+      <h1 id="sitemap-top" tabindex="-1">Sitemap</h1>
+      <section class="sitemap-section" aria-labelledby="rules2e-title">
+        <div class="section-head"><h2 id="rules2e-title">Second Edition rules</h2><p><a id="filesLink" href="#">PDFs and game files</a> · <a id="printLink" href="#">Print copies</a></p></div>
+        <div class="grid grid-3" id="ruleCards"></div>
+      </section>
+    </div>
+  </div>
+
+  <!-- ======================= RESOURCES ======================= -->
+  <div data-view="resources" id="view-resources" hidden>
+    <div class="wrap view-top">
+      <h1 id="res-top" tabindex="-1">Resources for your game</h1>
+      <p class="lede" id="resLede"></p>
+      <h2 class="res-browse">Browse by type</h2>
+      <div class="grid grid-3" id="resTiles"></div>
+    </div>
+    <section class="section" id="monsters" aria-labelledby="monsters-title">
+      <div class="wrap">
+        <div class="section-head"><h2 id="monsters-title" tabindex="-1">Monsters</h2><p><a id="monFormats" href="#">Other formats (print, cards)</a></p></div>
+        <div class="bestiary">
+          <div class="monster-tools">
+            <div class="field"><label for="mq">Filter monsters by name or text</label><input id="mq" type="search" autocomplete="off" aria-describedby="mqStatus"></div>
+            <p class="muted" id="mqStatus" role="status"></p>
+          </div>
+          <nav class="az-rail" id="azRail" aria-label="Monsters by letter"><ul class="az" id="az"></ul></nav>
+          <div class="stream" id="monsterList"></div>
+        </div>
+      </div>
+    </section>
+  </div>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+  <div class="cols">
+    <div>
+      <h2>Cairn</h2>
+      <p>The text on this site is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0</a>. Written by <a href="https://newschoolrevolution.com">Yochai Gal</a>. Hero art, step art and character sheet previews: the <a href="https://cairnpress.itch.io/cairn-players-guide">Cairn Player's Guide</a>, Cairn Press. Adventure covers: each adventure's own page on itch.io or the Cairn store.</p>
+      <p><a href="#sitemap">Sitemap</a> · <a href="https://github.com/yochaigal/cairn">Cairn source on GitHub</a> · Built with <a href="https://github.com/just-the-docs/just-the-docs">Just the Docs</a></p>
+    </div>
+    <nav aria-labelledby="f1"><h2 id="f1">Read</h2><ul id="footRead"></ul></nav>
+    <nav aria-labelledby="f2"><h2 id="f2">Play</h2><ul id="footPlay"></ul></nav>
+    <nav aria-labelledby="f3"><h2 id="f3">Share</h2><ul id="footShare"></ul></nav>
+  </div>
+  </div>
+</footer>
+
+<div id="diceStage" aria-hidden="true"></div>
+<section class="dice-tray" id="diceTray" role="dialog" aria-labelledby="diceTitle" popover>
+  <h2 id="diceTitle">Roll dice</h2>
+  <ul class="dice-grid" id="diceGrid"></ul>
+  <p class="dice-pool" id="dicePool" role="status">Pick some dice</p>
+  <div class="dice-actions"><button class="btn btn-primary" id="diceRoll" type="button" disabled>Roll</button><button class="btn btn-secondary" id="diceClear" type="button">Clear</button></div>
+  <div class="dice-results" id="diceResults" role="status"></div>
+  <fieldset class="dice-colours"><legend>Colour</legend><div class="opts" id="diceColours"></div></fieldset>
+</section>
+<div role="status"><button class="dice-toast" id="diceToast" type="button" aria-describedby="diceToastHint" hidden></button></div>
+<span class="sr-only" id="diceToastHint">Opens the dice tray</span>
+
+<script>
+const D = /*__DATA__*/[];
+const $ = s => document.querySelector(s);
+const REDUCE = matchMedia('(prefers-reduced-motion: reduce)');
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'}[c]));
+const L = D.links;
+const a = (lnk, label, cls) => `<a${cls ? ` class="${cls}"` : ''} href="${esc(lnk.href)}">${esc(label || lnk.label)}</a>`;
+const li = (...xs) => xs.map(x => `<li>${x}</li>`).join('');
+const CORE = D.pages.rules.path;
+// a chapter link: Core Rules stays inside the prototype, every other page goes to the live site
+const chap = c => c.path === CORE ? `<a href="#rules">${esc(c.label)}</a>` : a(c);
+
+// ---------- copy: every line is the author's own text, or a proposed page summary shown as a draft (see NOTES.md)
+const C = D.copy;
+const fromSrc = c => esc(c.text);
+const proposed = rel => { const c = C.proposed[rel]; return c ? esc(c.text) : ''; };
+$('#heroLede').innerHTML = fromSrc(C.hero);
+// the two switches pick a file; the Download button says which one (the prototype's button opens itch.io)
+const sheetPick = () => {
+  const v = n => document.querySelector(`input[name="${n}"]:checked`).value;
+  $('#sheetDownload').setAttribute('aria-label', `Download the ${v('sheet-layout')} sheet, ${v('sheet-paper')}, from itch.io`);
+};
+document.querySelectorAll('.sheet-pick input').forEach(r => r.addEventListener('change', sheetPick));
+$('#shareLede').innerHTML = C.share.map(fromSrc).join(' ');
+$('#resLede').innerHTML = proposed('resources.md');
+
+// ---------- static links
+$('#pdfBtn').href = L.files2e.href; $('#pdfLink').href = L.files2e.href; $('#filesLink').href = L.files2e.href; $('#printLink').href = L.print2e.href;
+$('#storeLink').href = L.books.href; $('#monFormats').href = L.monsters_formats.href;
+
+// ---------- home: start steps (page titles + each page's own H2 headings)
+const pageLink = {[L.overview.path]: L.overview, [L.chargen_page.path]: L.chargen_page, [CORE]: L.core};
+const covers = hs => hs.length > 4 ? hs.slice(0, 4).join(' · ') + ' · …' : hs.join(' · ');
+// each step's Player's Guide section-opener art (Overview & Principles has none, so it borrows Procedures'), as a shadow
+// play on backlit linen: the art with its moving figures painted out, each figure on its own layer (anim-*), multiplied
+// onto the linen with its edges softened and its black lifted to a deep brown
+let sceneId = 0;
+const scene = (w, h, layers) => { const id = `shadowSoft${++sceneId}`;
+  return `<svg class="step-art step-scene" viewBox="0 0 ${w} ${h}" preserveAspectRatio="xMidYMax slice" aria-hidden="true" focusable="false">
+    <filter id="${id}" x="-2%" y="-2%" width="104%" height="104%"><feGaussianBlur stdDeviation="0.9"/></filter>
+    <image href="__LINEN__" width="${w}" height="${h}" preserveAspectRatio="xMidYMid slice"/>
+    <g style="mix-blend-mode: multiply" filter="url(#${id})">${layers}</g>
+    <rect width="${w}" height="${h}" fill="rgb(30, 24, 16)" style="mix-blend-mode: lighten"/></svg>`; };
+const STEP_SCENES = {
+  [L.overview.path]: scene(1600, 784, `<image href="__STEP_OVERVIEW__" width="1600" height="784"/>
+    <image class="anim-bird" href="__STEP_BIRD__" x="570" y="0" width="445" height="184"/>
+    <image class="anim-arm" href="__STEP_ARM__" x="377" y="144" width="257" height="286"/>`),
+  [L.chargen_page.path]: scene(1600, 780, `<image href="__STEP_CHARGEN__" width="1600" height="780"/>
+    <image class="anim-horse" href="__STEP_HORSE__" x="749" y="257" width="460" height="510"/>`),
+  [CORE]: scene(1600, 772, `<image href="__STEP_CORE__" width="1600" height="772"/>
+    <image class="anim-sword-l" href="__STEP_SWORD_L__" x="541" y="182" width="290" height="337"/>
+    <image class="anim-sword-r" href="__STEP_SWORD_R__" x="766" y="80" width="526" height="275"/>`),
+};
+$('#steps').innerHTML = C.steps.map((st, i, all) => {
+  const p = pageLink[st.path], href = st.path === CORE ? '#rules' : p.href;
+  const extra = st.path === L.chargen_page.path ? `<p>Or use the ${a(L.chargen)}</p>` : '';
+  return `<div class="step" role="group" aria-roledescription="slide" aria-label="${i + 1} of ${all.length}">${STEP_SCENES[st.path]}<div class="step-body"><h3><span class="step-num" aria-hidden="true">${i + 1}</span><a href="${esc(href)}">${esc(p.label)}</a></h3><p>Covers ${esc(covers(st.covers))}</p>${extra}</div></div>`;
+}).join('');
+// the slideshow: arrows move one step and wrap around; it advances on its own every 7s, but never with reduced motion,
+// and it holds while hovered, focused, paused, scrolled out of view, or in a hidden tab
+{ const show = $('.steps-show'), band = $('#stepsBand'), pauseBtn = $('#stepsPause'), JOIN = 48, EVERY = 7000, ANIM = 7000;
+  const width = () => band.querySelector('.step').offsetWidth - JOIN;
+  const count = () => band.querySelectorAll('.step').length;
+  const at = () => Math.round(band.scrollLeft / width());
+  let paused = REDUCE.matches, seen = true, timer = 0, target = 0, shown = -1, played = false;
+  const go = i => { target = (i + count()) % count(); band.scrollTo({left: target * width(), behavior: REDUCE.matches ? 'auto' : 'smooth'}); };
+  // a step's animation plays each time it's arrived at, and once when the slideshow first comes into view
+  const stepAt = i => band.querySelectorAll('.step')[i];
+  const moves = i => !!stepAt(i)?.querySelector('.step-scene');
+  const play = i => { if (REDUCE.matches || !moves(i)) return; const s = stepAt(i); s.classList.remove('is-animating'); void s.offsetWidth; s.classList.add('is-animating'); };
+  // how long a step stays before the next: a step that moves waits for its animation to finish first
+  const dwell = () => moves(target) && !REDUCE.matches ? ANIM + EVERY : EVERY;
+  const label = () => { pauseBtn.textContent = paused ? 'Play' : 'Pause'; pauseBtn.setAttribute('aria-label', paused ? 'Play the steps slideshow' : 'Pause the steps slideshow'); };
+  // hover and focus are read when the timer fires, so they hold it however they came about
+  const held = () => paused || !seen || document.hidden || show.matches(':hover, :focus-within');
+  const arm = () => { clearTimeout(timer); if (!paused && seen && !document.hidden) timer = setTimeout(() => { if (!held()) go(at() + 1); arm(); }, dwell()); };
+  // when a scroll settles on a new step (arrows, swipe, keyboard or the timer), note it, restart the clock, and animate step 1
+  let settle = 0, asked = false;
+  band.addEventListener('scroll', () => { clearTimeout(settle); settle = setTimeout(() => { const i = at(); target = i;
+    if (asked) { asked = false; $('#stepsSay').textContent = `Step ${i + 1} of ${count()}: ${stepAt(i).querySelector('h3 a')?.textContent || ''}`; }
+    if (i !== shown) { stepAt(shown)?.classList.remove('is-animating'); shown = i; if (seen) play(i); arm(); } }, 160); }, {passive: true});
+  $('#stepsPrev').addEventListener('click', () => { asked = true; go(at() - 1); arm(); });
+  $('#stepsNext').addEventListener('click', () => { asked = true; go(at() + 1); arm(); });
+  pauseBtn.addEventListener('click', () => { paused = !paused; label(); arm(); });
+  show.addEventListener('mouseleave', arm); show.addEventListener('focusout', arm);  // a fresh wait once they leave
+  document.addEventListener('visibilitychange', arm);
+  new IntersectionObserver(([e]) => { seen = e.isIntersecting;
+    if (seen && !played) { played = true; shown = at(); play(shown); }
+    arm(); }, {threshold: .5}).observe(show);
+  REDUCE.addEventListener('change', () => { if (REDUCE.matches) { paused = true; label(); arm(); } });
+  label(); arm(); }
+
+// ---------- adventures: the catalog (D.adventures, from Yochai's Scrivener merged with the Cairn repo's lists) and the
+// home page's row. A card opens the adventure's page here, or goes straight to its store (in the same tab, labelled
+// "On itch.io ↗"); the detail view is left for older links and an entry with no store link. Covers are hotlinked, as Scrivener does; one that
+// doesn't load (offline, or gone) becomes a panel with the adventure's name.
+const ADV = D.adventures, ADV_BY = Object.fromEntries(ADV.map(e => [e.id, e]));
+const ADV_GROUPS = {'first-party': 'First Party', originals: 'Originals', conversions: 'Conversions'};
+const ADV_PAGE_GROUPS = {fp: 'first-party', conv: 'conversions'};  // the readable adventures' page groups
+const advCount = g => ADV.filter(e => e.group === g).length;
+const advHref = e => e.page ? '#' + e.page : /^https?:/.test(e.url || '') ? e.url : '#' + e.id;
+// the store's name from its link: itch.io, the Cairn store (Shopify), or the bare host
+const advStore = url => { let h = ''; try { h = new URL(url).hostname.replace(/^www\./, ''); } catch {}
+  return /(^|\.)itch\.io$/.test(h) ? 'itch.io' : /(^|\.)cairnrpg\.com$/.test(h) ? 'the Cairn store' : h; };
+const advOut = e => !advHref(e).startsWith('#') && advStore(e.url);  // the store a card leaves for, or false
+const advAt = store => (store === 'itch.io' ? 'On ' : 'At ') + store;
+const advFree = e => !!e.cost && /^free$/i.test(e.cost.trim());
+const advPrice = e => advFree(e) ? 0 : e.cost && /\d/.test(e.cost) ? parseFloat(e.cost.replace(/[^\d.]/g, '')) : null;
+const advArt = (e, alt = '') => `<span class="adv-art${e.cover ? '' : ' no-cover'}">${e.cover
+  ? `<img class="adv-cover" src="${esc(e.cover)}" alt="${esc(alt)}" loading="lazy" referrerpolicy="no-referrer">` : ''}<span class="adv-panel" aria-hidden="true"><small>${esc(ADV_GROUPS[e.group])}</small>${esc(e.name)}</span></span>`;
+const advBadges = e => `${e.cost ? `<span class="badge${advFree(e) ? ' free' : ''}">${advFree(e) ? 'Free' : 'Paid'}</span>` : ''}<span class="badge">${esc(ADV_GROUPS[e.group])}</span>`;
+// h = the card title's level: h3 under the home page's section, h2 straight under the catalog's title
+const advCard = (e, h = 3) => `<li class="adv-card"><a href="${esc(advHref(e))}">${advArt(e)}<span class="adv-body"><h${h} class="adv-name">${esc(e.name)}</h${h}>${
+  e.author ? `<span class="adv-by">by ${esc(e.author)}</span>` : ''}${e.summary.length ? `<span class="adv-sum">${esc(e.summary[0])}</span>` : ''}<span class="adv-badges">${advBadges(e)}${advOut(e) ? `<span class="adv-out">${esc(advAt(advOut(e)))} <span aria-hidden="true">↗</span></span>` : ''}</span></span></a></li>`;
+document.addEventListener('error', ev => { const img = ev.target;
+  if (img.matches?.('img.adv-cover')) { img.closest('.adv-art').classList.add('no-cover'); img.remove(); } }, true);
+
+// home: four picks (the first-party modules unless the build names others), the group counts, and Browse all
+$('#advHomeCounts').innerHTML = Object.entries(ADV_GROUPS).map(([g, name]) => `<a href="#adventures?g=${g}">${advCount(g)} ${esc(name.toLowerCase())}</a>`).join('');
+$('#advHome').innerHTML = D.featured.map(id => advCard(ADV_BY[id])).join('');
+
+// the catalog. Its filters live in the address (#adventures?g=originals&q=forest), so Back and shared links keep them.
+const advForm = $('#advFilters'), ADV_DEFAULTS = {g: '', q: '', a: '', p: '', t: '', s: 'az'};
+let advLast = '#adventures';
+const advAuthors = [...new Set(ADV.map(e => e.author).filter(Boolean))].sort((x, y) => x.localeCompare(y, 'en', {sensitivity: 'base'}));
+const advTags = [...new Set(ADV.flatMap(e => e.tags))].sort();
+const advPriceOf = e => advFree(e) ? 'free' : e.cost ? 'paid' : 'unknown';
+$('#advAuthor').innerHTML = `<option value="">All authors</option>` + advAuthors.map(x => `<option>${esc(x)}</option>`).join('');
+$('#advPrice').innerHTML = `<option value="">Any price</option>` + [['free', 'Free'], ['paid', 'Paid'], ['unknown', 'Not listed']]
+  .filter(([k]) => ADV.some(e => advPriceOf(e) === k)).map(([k, t]) => `<option value="${k}">${t} (${ADV.filter(e => advPriceOf(e) === k).length})</option>`).join('');
+$('#advGroup').innerHTML = `<option value="">All (${ADV.length})</option>` + Object.entries(ADV_GROUPS).map(([g, t]) => `<option value="${g}">${esc(t)} (${advCount(g)})</option>`).join('');
+$('#advTagsBox').hidden = !advTags.length;
+$('#advTag').innerHTML = advTags.length ? '<option value="">All</option>' + advTags.map(t => `<option>${esc(t)}</option>`).join('') : '';
+// the form holds the filters: the address sets it, and every change re-renders and writes the address back
+const advFilter = () => ({...ADV_DEFAULTS, ...Object.fromEntries(new FormData(advForm))});
+function advFromQuery(qs) {
+  const p = new URLSearchParams(qs || '');
+  for (const [k, d] of Object.entries(ADV_DEFAULTS)) {
+    const el = advForm.elements[k], v = p.get(k) || d;
+    if (el) { el.value = v; if (el.value !== v) el.value = d; }  // a value the form doesn't offer falls back to the default
+  }
+}
+const advQuery = () => new URLSearchParams(Object.entries(advFilter()).filter(([k, v]) => v !== ADV_DEFAULTS[k])).toString();
+let advSay;
+function renderAdventures() {
+  const S = advFilter(), q = S.q.trim().toLowerCase();
+  const hits = ADV.filter(e => (!S.g || e.group === S.g) && (!S.a || e.author === S.a) && (!S.p || advPriceOf(e) === S.p) && (!S.t || e.tags.includes(S.t))
+    && (!q || [e.name, e.author, ...e.summary, ...e.tags].join(' ').toLowerCase().includes(q)));
+  const byName = (x, y) => x.name.localeCompare(y.name, 'en', {sensitivity: 'base', numeric: true});
+  hits.sort(S.s === 'za' ? (x, y) => byName(y, x) : S.s === 'price' ? (x, y) => (advPrice(x) ?? Infinity) - (advPrice(y) ?? Infinity) || byName(x, y) : byName);
+  $('#advList').innerHTML = hits.map(e => advCard(e, 2)).join('');  // every hit; the covers load lazily as they near the screen
+  const say = hits.length ? `${hits.length} adventure${hits.length === 1 ? '' : 's'}` : 'No adventures match. Try fewer filters.';
+  clearTimeout(advSay); advSay = setTimeout(() => { $('#advCount').textContent = say; }, q ? 500 : 0);
+  advLast = '#adventures' + (advQuery() ? '?' + advQuery() : '');
+  if (location.hash !== advLast && viewFor('adventures') === view) history.replaceState(null, '', advLast);
+}
+advForm.addEventListener('submit', e => e.preventDefault());
+advForm.addEventListener('input', () => renderAdventures());
+
+// one adventure that has no page here, reached by its #adv- link: its cover, summary and where to get it
+const advGet = url => { const store = advStore(url); return store ? `Get it ${store === 'itch.io' ? 'on' : 'at'} ${store}` : 'Get it'; };
+function renderAdventure(id) {
+  const e = ADV_BY[id];
+  $('#advCrumbs').innerHTML = li('<a href="#home">Home</a>', `<a href="${esc(advLast)}">Adventures</a>`, `<a href="#adventures?g=${e.group}">${esc(ADV_GROUPS[e.group])}</a>`, `<span aria-current="page">${esc(e.name)}</span>`);
+  $('#advDetail').innerHTML = `<div class="adv-detail">${advArt(e, `Cover of ${e.name}`)}<div>
+    <h1 id="advTitle" tabindex="-1">${esc(e.name)}</h1>${e.author ? `<p class="adv-by">by ${esc(e.author)}</p>` : ''}
+    <p class="adv-badges">${advBadges(e)}${e.tags.map(t => `<span class="badge">${esc(t)}</span>`).join('')}</p>
+    ${e.summary.map(p => `<p>${esc(p)}</p>`).join('') || '<p class="muted">No summary yet.</p>'}
+    <p class="actions">${e.url ? `<a class="btn btn-primary" href="${esc(e.url)}">${esc(advGet(e.url))}</a>` : ''}<a class="btn btn-secondary" href="${esc(advLast)}">Back to the catalog</a></p></div></div>`;
+}
+
+// ---------- sitemap page: the Second Edition cards (linked from the footer)
+const cardList = items => `<ul class="chapter-list">${li(...items.map(chap))}</ul>`;
+$('#ruleCards').innerHTML = `
+  <div class="card"><h3>${a(L.players, "Player's Guide")}</h3><p class="muted">${D.counts.pg} chapters</p>${cardList(D.pg)}</div>
+  <div class="card span-2"><h3>${a(L.wardens, "Warden's Guide")}</h3><p class="muted">${D.counts.wg} chapters in ${D.wg_parts.length} parts</p><p>${fromSrc(C.wardens)}</p>
+    <div class="parts">${D.wg_parts.map(p => `<div><p class="part">${esc(p.label)} · ${p.items.length}</p>${cardList(p.items)}</div>`).join('')}</div></div>
+  <div class="card span-all"><h3>${a(L.backgrounds, 'Backgrounds')}</h3><p class="muted">${D.counts.bg} backgrounds</p><p>${proposed('second-edition/backgrounds.md')}</p><ul class="chapter-list cols">${li(...D.bg.map(c => a(c)))}</ul></div>`;
+
+// ---------- resource tiles (home shows counts; the hub adds blurbs and links). Link names are page titles.
+const n = (k, one, many) => `${k} ${k === 1 ? one : many}`;
+const tileAnchor = t => t.id === 'res-monsters' ? '#monsters' : '#' + t.id;
+const group = (...ls) => ({extra: `<ul class="chapter-list">${li(...ls.map(x => a(x)))}</ul>`, count: n(ls.length, 'page', 'pages')});
+const TILES = [
+  {id: 'res-monsters', href: '#monsters', title: 'Monsters', count: n(D.counts.monsters, 'monster', 'monsters'), desc: proposed('resources/monsters.md')},
+  {id: 'res-adventures', href: L.adventures.href, title: 'Adventures', count: n(ADV.length, 'adventure', 'adventures'), desc: proposed('adventures.md'),
+   extra: `<ul class="chapter-list">${li(a(L.adv_first, `${L.adv_first.label} · ${advCount('first-party')}`), a(L.adv_orig, `${L.adv_orig.label} · ${advCount('originals')}`), a(L.adv_conv, `${L.adv_conv.label} · ${advCount('conversions')}`))}</ul>`},
+  {id: 'res-tools', href: L.chargen.href, title: 'Tools', ...group(L.chargen, L.site_builder, L.converting)},
+  {id: 'res-backgrounds', href: L.backgrounds.href, title: 'Backgrounds', count: n(D.counts.bg, 'background', 'backgrounds'), desc: proposed('second-edition/backgrounds.md')},
+  {id: 'res-gear', href: L.relics.href, title: 'Relics, Spellbooks & Equipment', ...group(L.relics, L.spellbooks, L.equipment)},
+  {id: 'res-hirelings', href: L.hirelings.href, title: 'Hirelings & Pregens', ...group(L.hirelings, L.pregens, L.sheets)},
+  {id: 'res-hacks', href: L.hacks.href, title: 'Hacks', count: n(D.counts.hacks, 'hack', 'hacks'), desc: proposed('hacks.md')},
+  {id: 'res-translations', href: L.localization.href, title: 'Translations', count: n(D.counts.languages, 'language', 'languages'), desc: proposed('localization.md')},
+  {id: 'res-guides', href: L.summary.href, title: 'Guides for Wardens', ...group(L.summary, L.hexcrawls, L.writing)},
+  // First Edition and its pages, plus Barebones
+  {id: 'res-first-edition', href: L.first.href, title: 'First Edition', count: n(4, 'page', 'pages'),
+   extra: `<ul class="chapter-list">${li(a(L.srd1e, 'First Edition SRD'), a(L.faq1e, 'First Edition FAQs'), a(L.tools1e, 'First Edition tools'), a(L.barebones, 'Barebones'))}</ul>`},
+];
+const tile = (t, rich) => rich
+  ? `<div class="card tile" id="${t.id}"><h3><a href="${esc(t.href)}">${esc(t.title)}</a></h3><span class="count">${esc(t.count)}</span>${t.desc ? `<p class="tile-desc">${t.desc}</p>` : ''}${t.extra || ''}</div>`
+  : `<a class="frame-tile" href="${esc(tileAnchor(t))}"><h3>${esc(t.title)}</h3><span class="count">${esc(t.count)}</span></a>`;
+$('#homeTiles').innerHTML = TILES.filter(t => t.id !== 'res-guides' && t.id !== 'res-first-edition').map(t => tile(t, false)).join('');
+$('#resTiles').innerHTML = TILES.map(t => tile(t, true)).join('');
+
+// ---------- the newest blog post (cached at build time; the section stays hidden without one)
+if (D.blog) {
+  $('#blogLink').href = D.blog.url; $('#blogLink').textContent = D.blog.title;
+  $('#blogExcerpt').textContent = D.blog.excerpt;
+  $('#blogMore').href = D.blog.site; $('#blogMore').textContent = `More posts on ${D.blog.name}`;
+  $('#home-blog').hidden = false;
+}
+
+// ---------- share buttons and footer
+$('#shareActions').innerHTML = a(L.submit, 'Submit your adventure or monster', 'btn btn-primary') + a(L.discord, 'Join the Discord', 'btn btn-secondary') + a(L.third, 'Third-party content', 'btn btn-secondary');
+$('#footRead').innerHTML = li('<a href="#rules">Core Rules</a>', a(L.players, "Player's Guide"), a(L.wardens, "Warden's Guide"), a(L.files2e, 'PDFs and game files'));
+$('#footPlay').innerHTML = li('<a href="#resources">Resources</a>', '<a href="#monsters">Monsters</a>', a(L.adventures, 'Adventures'), a(L.chargen, 'Character Generator'));
+$('#footShare').innerHTML = li(a(L.submit, 'Submission guide'), a(L.discord, 'Discord'), a(L.localization, 'Translations'), a(L.first, 'First Edition'));
+
+// ---------- rules view: every Second Edition page (D.pages, from the build), in English or a community translation
+const PAGES = D.pages, GROUP_NAME = {pg: "Player's Guide", wg: "Warden's Guide", bg: 'Backgrounds', tools: 'Tools', index: 'Second Edition', fp: 'First Party adventure', conv: 'Conversion'};
+const isAdvPage = id => !!ADV_PAGE_GROUPS[(PAGES[id] || {}).group];
+// an adventure's sidebar: the first-party modules and the conversions, each readable here
+const advNav = cur => { const g = PAGES[cur].group;
+  return `<p class="nav-title"><a href="#adventures">Adventures</a></p>
+  <details${g === 'fp' ? ' open' : ''}><summary>First Party</summary><ul>${li(...D.order.fp.map(id => plink(id, cur)))}</ul></details>
+  <details${g === 'conv' ? ' open' : ''}><summary>Conversions</summary><ul>${li(...D.order.conv.map(id => plink(id, cur)))}</ul></details>
+  <ul>${li('<a href="#adventures?g=originals">Originals</a>')}</ul>`; };
+const plink = (id, cur, label) => `<a href="#${esc(id)}"${id === cur ? ' aria-current="page"' : ''}>${esc(label || PAGES[id].title)}</a>`;
+const sectionNav = cur => { if (isAdvPage(cur)) return advNav(cur); const g = (PAGES[cur] || {}).group, open = x => g === x || cur === {pg: 'players-guide', wg: 'wardens-guide', bg: 'backgrounds'}[x] ? ' open' : '';
+  return `<p class="nav-title">${plink('second-edition', cur, 'Second Edition')}</p>
+  <details${open('pg') || (g === 'index' && cur !== 'wardens-guide' && cur !== 'backgrounds' ? ' open' : '')}><summary>Player's Guide</summary><ul>${li(plink('players-guide', cur, 'Contents'), ...D.order.pg.map(id => plink(id, cur)))}</ul></details>
+  <details${open('wg')}><summary>Warden's Guide</summary><ul>${li(plink('wardens-guide', cur, 'Contents'))}${D.wg_parts.map(p => `<li class="sub-part">${esc(p.label)}</li>${li(...p.items.map(c => plink(c.href.slice(1), cur)))}`).join('')}</ul></details>
+  <details${open('bg')}><summary>Backgrounds</summary><ul>${li(plink('backgrounds', cur, 'Contents'), ...D.order.bg.map(id => plink(id, cur)))}</ul></details>
+  <ul>${li(plink('tools', cur), a(L.chargen, 'Character Generator'), plink('game-files', cur), plink('print-copies', cur))}</ul>`; };
+// a small menu behind a button (the ⋯ page actions, the language list): arrows move, Escape closes, a click outside closes
+function menu(wrap, btn, list, sel, pick) {
+  const items = () => [...list.querySelectorAll(sel)].filter(x => !x.closest('[hidden]'));  // the PDF item hides on adventure pages
+  const setOpen = (open, focus) => { btn.setAttribute('aria-expanded', String(open)); list.hidden = !open;
+    const xs = items(), cur = xs.findIndex(x => x.getAttribute('aria-current') === 'true');
+    if (open && focus) xs[focus === 'last' ? xs.length - 1 : focus === 'current' && cur >= 0 ? cur : 0].focus(); if (!open && focus) btn.focus(); };
+  btn.addEventListener('click', () => setOpen(list.hidden, list.hidden ? 'current' : false));
+  btn.addEventListener('keydown', e => { if (e.key === 'ArrowDown' || e.key === 'ArrowUp') { e.preventDefault(); setOpen(true, e.key === 'ArrowUp' ? 'last' : 'first'); }
+    if (e.key === 'Escape' && !list.hidden) { e.stopPropagation(); setOpen(false); } });
+  list.addEventListener('keydown', e => { const xs = items(), i = xs.indexOf(document.activeElement);
+    if (e.key === 'ArrowDown') { e.preventDefault(); xs[(i + 1) % xs.length].focus(); }
+    if (e.key === 'ArrowUp') { e.preventDefault(); xs[(i - 1 + xs.length) % xs.length].focus(); }
+    if (e.key === 'Escape') { e.preventDefault(); e.stopPropagation(); setOpen(false, true); } });
+  // an aria-disabled item (a language this page isn't translated into) stays reachable but does nothing
+  list.addEventListener('click', e => { const x = e.target.closest(sel); if (!x || x.getAttribute('aria-disabled') === 'true') return; if (pick) { setOpen(false, true); pick(x); } else setOpen(false); });
+  wrap.addEventListener('focusout', e => { if (!wrap.contains(e.relatedTarget)) setOpen(false); });
+  document.addEventListener('click', e => { if (!wrap.contains(e.target)) setOpen(false); });
+}
+menu($('.page-actions'), $('#actionsBtn'), $('#actionsList'), 'a');
+
+// ---------- languages: the community's own translations (D.l10n, from the build), page by page
+const LANGS = [{code: 'en', name: 'English', dir: 'ltr', site: 'cairnrpg.com', official: true, pages: PAGES}, ...Object.values(D.l10n || {})];
+// flags stand for countries, not languages, so the button's name always says the language
+const FLAGS = {
+  en: '<rect width="24" height="16" fill="#fff"/><path fill="#b22234" d="M0 0h24v1.23H0zm0 2.46h24v1.23H0zm0 2.46h24v1.23H0zm0 2.46h24v1.23H0zm0 2.46h24v1.23H0zm0 2.46h24v1.23H0zm0 2.46h24v1.23H0z"/><rect width="10.4" height="8.6" fill="#3c3b6e"/>',
+  fi: '<rect width="24" height="16" fill="#fff"/><path fill="#002f6c" d="M6.5 0h4v16h-4zM0 6h24v4H0z"/>',
+  zh: '<rect width="24" height="16" fill="#de2910"/><g fill="#ffde00"><path d="M4.8 2.2l.85 2.6h2.75l-2.2 1.6.85 2.6-2.25-1.6-2.2 1.6.85-2.6-2.2-1.6H4z"/><circle cx="9.6" cy="1.8" r=".6"/><circle cx="10.8" cy="3.6" r=".6"/><circle cx="10.8" cy="6" r=".6"/><circle cx="9.6" cy="7.8" r=".6"/></g>',
+  ru: '<rect width="24" height="16" fill="#fff"/><rect y="5.33" width="24" height="5.34" fill="#0039a6"/><rect y="10.67" width="24" height="5.33" fill="#d52b1e"/>',
+  'pt-BR': '<rect width="24" height="16" fill="#009c3b"/><path fill="#ffdf00" d="M12 1.6L22 8l-10 6.4L2 8z"/><circle cx="12" cy="8" r="3.6" fill="#002776"/>',
+  he: '<rect width="24" height="16" fill="#fff"/><path fill="#0038b8" d="M0 1.6h24v2.2H0zm0 10.6h24v2.2H0z"/><g fill="none" stroke="#0038b8" stroke-width=".7"><path d="M12 4.9l2.7 4.65H9.3z"/><path d="M12 11.1l2.7-4.65H9.3z"/></g>',
+  tr: '<rect width="24" height="16" fill="#e30a17"/><circle cx="9" cy="8" r="4" fill="#fff"/><circle cx="10" cy="8" r="3.2" fill="#e30a17"/><path fill="#fff" d="M13.2 8l2.5-.85-1.55 2.15V6.7l1.55 2.15z"/>',
+};
+const flag = l => FLAGS[l.code] ? `<svg class="flag" viewBox="0 0 24 16" aria-hidden="true" focusable="false">${FLAGS[l.code]}</svg>`
+  : `<span class="flag flag-badge" aria-hidden="true">${esc(l.code.slice(0, 2).toUpperCase())}</span>`;
+const langOf = code => LANGS.find(l => l.code === code) || LANGS[0];
+const pageIds = p => [...p.sections.flatMap(s => [s.id, ...s.subs.map(x => x.id)]),
+  ...[...(p.intro + p.sections.map(s => s.html + s.subs.map(x => x.html).join('')).join('')).matchAll(/ id="([^"]+)"/g)].map(m => m[1])];
+// every id a link can name: the page it's on, and the languages that have it there
+const PAGE_OF = {};
+for (const l of LANGS) for (const [id, p] of Object.entries(l.pages)) for (const x of [id, ...pageIds(p)]) (PAGE_OF[x] ||= {page: id, langs: []}).langs.push(l.code);
+let savedLang = 'en', shown = {page: null, code: null};  // savedLang: the reader's choice; shown: what's on screen
+const pageTitle = () => { const P = PAGES[shown.page], C = langOf(shown.code).pages[shown.page] || P;
+  return shown.page === 'second-edition' ? 'Second Edition · Cairn' : `${C.title} · ${GROUP_NAME[P.group]} · Cairn`; };
+const retitle = () => { document.title = pageTitle() + ' (prototype)'; };
+// sections whose tables share one set of column widths, so they line up down the page: each is a run of same-shaped
+// roll tables (Character Traits' eight d10s, the seeds' d6/d8 tables, NPC traits). The ids are shared by every mirror
+// translation, so they line up there too.
+const ALIGNED = ['character-creation-character-traits-d10', 'dungeon-seeds-creating-a-dungeon', 'dungeon-seeds-draw-paths',
+  'forest-seeds-the-spirit-of-the-forest', 'forest-seeds-trails', 'npc-tables-traits'];
+// whole pages whose tables all line up: Marketplace's six price lists (item, cost), one per section
+const ALIGNED_PAGES = ['marketplace'];
+function alignTables() {
+  const groups = ALIGNED.map(id => { const h = document.getElementById(id), ts = [];
+    for (let el = h?.nextElementSibling; el && el.tagName !== 'H2'; el = el.nextElementSibling) ts.push(...el.querySelectorAll('table'));
+    return ts; });
+  if (ALIGNED_PAGES.includes(shown.page)) groups.push([...document.querySelectorAll('#coreProse table')]);
+  for (const tables of groups) {
+    const n = tables.length && tables[0].rows[0].cells.length;
+    if (tables.length < 2 || tables.some(t => t.rows[0].cells.length !== n)) continue;
+    // a short column (a die, a price) gets a fixed width in characters, so a phone never squeezes it; the long columns
+    // share the rest in proportion to their longest entry in any of the tables
+    const len = Array(n).fill(0);
+    for (const t of tables) for (const r of t.rows) [...r.cells].forEach((c, i) => { len[i] = Math.max(len[i], c.textContent.trim().length); });
+    const short = len.map(l => l <= 10), fixed = len.reduce((x, l, i) => x + (short[i] ? l + 3 : 0), 0);
+    const long = len.reduce((x, l, i) => x + (short[i] ? 0 : l), 0);
+    const width = (l, i) => short[i] ? `${l + 3}ch` : `calc((100% - ${fixed}ch) * ${(l / long).toFixed(4)})`;
+    const cols = `<colgroup>${len.map((l, i) => `<col style="width:${width(l, i)}">`).join('')}</colgroup>`;
+    for (const t of tables) { t.classList.add('aligned'); const cap = t.querySelector('caption'); cap ? cap.insertAdjacentHTML('afterend', cols) : t.insertAdjacentHTML('afterbegin', cols); }
+  }
+}
+// a table wider than the column scrolls sideways; make that one focusable and named, so the keyboard can scroll it too
+function scrollableTables(root = $('#coreProse')) {
+  for (const w of root.querySelectorAll('.table-wrap')) {
+    let h = w.previousElementSibling; while (h && !/^H[2-6]$/.test(h.tagName)) h = h.previousElementSibling;  // the nearest heading above it
+    const wide = w.scrollWidth > w.clientWidth + 1; h = h ? h.textContent : '';
+    if (wide) { w.tabIndex = 0; w.setAttribute('role', 'region'); w.setAttribute('aria-label', (w.querySelector('caption') || {}).textContent || (h ? h + ', table' : 'Table')); }
+    else { w.removeAttribute('tabindex'); w.removeAttribute('role'); w.removeAttribute('aria-label'); }
+  }
+}
+addEventListener('resize', () => { if (!$('#view-rules').hidden) scrollableTables(); }, {passive: true});
+function renderPage(id, code) {
+  const P = PAGES[id], Lg = langOf(code), T = Lg.code === 'en' ? null : Lg.pages[id], C = T || P;
+  shown = {page: id, code: Lg.code};
+  // only the translated text is marked as that language; the layout around it (crumbs, ⋯ labels) stays English
+  for (const el of [$('#coreProse'), $('#core-top')]) { if (!T) { el.removeAttribute('lang'); el.removeAttribute('dir'); } else { el.lang = Lg.code; el.dir = Lg.dir; } }
+  $('#core-top').textContent = C.title;
+  const sub = x => `<h3 id="${x.id}" tabindex="-1">${esc(x.title)}</h3>${x.html}`;
+  const kid = c => { if (!c.id) return `<a href="${esc(c.href)}"${T ? ' lang="en" dir="ltr"' : ''}>${esc(c.label)}</a> <small lang="en" dir="ltr">(on cairnrpg.com)</small>`;
+    const k = T && Lg.pages[c.id]; return `<a href="#${esc(c.id)}"${T && !k ? ' lang="en" dir="ltr"' : ''}>${esc((k || PAGES[c.id]).title)}</a>`; };
+  $('#coreProse').innerHTML = C.intro + C.sections.map(s => `<h2 id="${s.id}" tabindex="-1">${esc(s.title)}</h2>${s.html}${s.subs.map(sub).join('')}`).join('') + (P.children.length ? `<ul class="child-list">${li(...P.children.map(kid))}</ul>` : '');
+  $('#toc').hidden = !C.sections.length;
+  $('#tocList').innerHTML = `<ul${T ? ` lang="${Lg.code}" dir="${Lg.dir}"` : ''}>${C.sections.map(s => `<li><a href="#${s.id}">${esc(s.title)}</a></li>${s.subs.map(x => `<li class="lvl3"><a href="#${x.id}">${esc(x.title)}</a></li>`).join('')}`).join('')}</ul>`;
+  // crumbs, the section nav and previous / next are layout, so they stay English
+  const chain = []; for (let p = P.parent; p; p = PAGES[p].parent) chain.unshift(p);
+  const advG = ADV_PAGE_GROUPS[P.group], advUp = advG ? [`<a href="${esc(advLast)}">Adventures</a>`, `<a href="#adventures?g=${advG}">${esc(ADV_GROUPS[advG])}</a>`] : [];
+  $('#crumbs').innerHTML = li('<a href="#home">Home</a>', ...advUp, ...chain.map(p => plink(p)), `<span aria-current="page">${esc(P.title)}</span>`);
+  $('#sectionNav').innerHTML = sectionNav(id);
+  $('#sectionNav').setAttribute('aria-label', advG ? 'Adventures' : 'Second Edition');
+  $('#pdfLink').parentNode.hidden = !!advG;  // the Second Edition PDFs; a module's print and PDF links open its page
+  const drawer = $('#drawerExtra .section-nav'); if (drawer) drawer.innerHTML = sectionNav(id);
+  const order = D.order[P.group] || D.order.index, i = order.indexOf(id), prev = order[i - 1], next = order[i + 1];
+  $('#pager').innerHTML = (prev ? `<a class="prev" href="#${prev}"><small>Previous</small>${esc(PAGES[prev].title)}</a>` : '<span></span>')
+    + (next ? `<a class="next" href="#${next}"><small>Next</small>${esc(PAGES[next].title)}</a>` : '');
+  alignTables();
+  scrollableTables();
+  $('#editLink').href = C.edit; $('#liveLink').href = C.url;
+  $('#liveLink').textContent = !T ? 'Open on cairnrpg.com' : Lg.site ? `Open on ${Lg.site}` : 'Open on GitHub';
+  const credit = $('#l10nCredit');
+  credit.hidden = Lg.code === 'en';
+  credit.innerHTML = Lg.code === 'en' ? '' : !T ? `Not translated into <span lang="${Lg.code}" dir="${Lg.dir}">${esc(Lg.name)}</span> yet. Showing English.`
+    : `${Lg.official ? '' : 'Unofficial translation, from a fork · '}Translation by <a href="https://github.com/${esc(Lg.credit)}">${esc(Lg.credit)}</a> · <a href="${esc(C.url)}">${esc(Lg.site || 'GitHub')}</a> · CC-BY-SA 4.0${Lg.note ? ' · ' + esc(Lg.note) : ''}`;
+  $('#langBtn').innerHTML = flag(Lg);
+  $('#langBtn').setAttribute('aria-label', `Language: ${Lg.name}${T || Lg.code === 'en' ? '' : ', this page in English'}`);
+  $('#langList').innerHTML = LANGS.map(l => { const has = l.code === 'en' || l.pages[id];
+    return `<li><button type="button" data-lang="${esc(l.code)}" aria-current="${l.code === Lg.code}"${has ? '' : ' aria-disabled="true"'}>${flag(l)}<span lang="${esc(l.code)}" dir="${l.dir}">${esc(l.name)}</span>${has ? (l.official ? '' : '<small>unofficial</small>') : '<small>not translated yet</small>'}</button></li>`; }).join('');
+}
+$('#langPicker').hidden = LANGS.length < 2;
+menu($('#langPicker'), $('#langBtn'), $('#langList'), 'button', b => {
+  savedLang = b.dataset.lang;
+  try { localStorage.setItem('cairn-rules-lang', savedLang); } catch {}
+  renderPage(shown.page, savedLang); retitle();
+  // a section link left in the address could switch the language back on reload
+  history.replaceState(null, '', '#' + shown.page);
+  scrollTo({top: 0, behavior: 'instant'});
+});
+{ let saved = null; try { saved = localStorage.getItem('cairn-rules-lang'); } catch {} if (LANGS.some(l => l.code === saved)) savedLang = saved; }
+// which page and language an id opens: the reader's language where the page has that id, otherwise the language that has it
+// (English first), for viewing only; a page's own id always opens in the reader's language
+function placeOf(id) {
+  const hit = PAGE_OF[id];
+  if (!hit) return null;
+  const root = id === hit.page, shownAs = langOf(savedLang).pages[hit.page] ? savedLang : 'en';
+  return {page: hit.page, code: root || hit.langs.includes(shownAs) ? savedLang : hit.langs.includes('en') ? 'en' : hit.langs[0]};
+}
+$('#tocToggle').addEventListener('click', () => {
+  const open = $('#tocToggle').getAttribute('aria-expanded') !== 'true';
+  $('#tocToggle').setAttribute('aria-expanded', String(open)); $('#tocList').hidden = !open;
+});
+// highlight the section being read: the last heading above a line just below where a TOC click lands it
+const heads = () => [...document.querySelectorAll('#coreProse h2, #coreProse h3')];
+let tick = false;
+addEventListener('scroll', () => { if (tick || $('#view-rules').hidden) return; tick = true; requestAnimationFrame(() => {
+  tick = false; const line = $('.site-header').offsetHeight + 32; let cur = null; for (const h of heads()) if (h.getBoundingClientRect().top < line) cur = h.id;
+  for (const x of document.querySelectorAll('#tocList a')) x.classList.toggle('active', x.getAttribute('href') === '#' + cur);
+}); }, {passive: true});
+
+// ---------- monsters index
+const M = D.monsters;
+const letterOf = m => m.name.charAt(0).toUpperCase();
+const rule = '<div class="book-rule both" aria-hidden="true"></div>';
+let mqSay;
+function renderMonsters() {
+  const q = $('#mq').value.trim().toLowerCase();
+  const hits = M.filter(m => !q || (m.name + ' ' + m.stats.flat().join(' ') + ' ' + m.attack + ' ' + m.bullets.join(' ')).toLowerCase().includes(q));
+  const letters = [...new Set(hits.map(letterOf))];
+  // the rail lists every letter that has monsters, as in the bestiary sheet; a letter the filter empties is greyed out
+  $('#az').innerHTML = ALL_LETTERS.map(l => letters.includes(l) ? `<li><a href="#m-${l}" data-l="${l}" aria-label="Monsters starting with ${l}">${l}</a></li>` : `<li aria-hidden="true"><span>${l}</span></li>`).join('');
+  const stat = ([l, v]) => `<span class="stat"><span class="dot" aria-hidden="true">•</span><span class="l">${l}</span> <b>${v}</b></span>`;
+  $('#monsterList').innerHTML = letters.map(l => `<div class="letter-group" id="m-${l}" tabindex="-1">${
+    hits.filter(m => letterOf(m) === l).map(m => `<article class="monster"><h3><a href="${esc(m.href)}">${esc(m.name)}</a></h3>${rule}<p class="stats">${m.stats.map(stat).join('')}</p>${m.attack ? `<p class="attack">${m.attack}</p>` : ''}${m.bullets.length ? `<ul>${li(...m.bullets)}</ul>` : ''}</article>`).join('')}</div>`).join('')
+    || '<p class="muted">No monsters match.</p>';
+  const say = q ? `${hits.length} of ${M.length} monsters` : `${M.length} monsters`;
+  clearTimeout(mqSay); mqSay = setTimeout(() => { $('#mqStatus').textContent = say; }, q ? 500 : 0);  // as search: once typing pauses
+  active = null; spy();
+}
+// scroll spy: the current letter is the last group whose top has reached just under the sticky header. Near the end of
+// the page the last letters can't reach that line, so a letter picked from the rail stays current until the reader scrolls up
+let active = null, picked = null, pausedUntil = 0;
+function setActive(l) {
+  if (l === active) return;
+  active = l;
+  for (const a of document.querySelectorAll('#az a')) a.setAttribute('aria-current', String(a.dataset.l === l));
+  const rail = $('#azRail'), a = l && rail.querySelector(`[data-l="${l}"]`);
+  if (a && rail.scrollHeight > rail.clientHeight) rail.scrollTop = a.offsetTop - (rail.clientHeight - a.offsetHeight) / 2;
+}
+function spy() {
+  const list = $('#monsterList');
+  if (!list.offsetParent || performance.now() < pausedUntil) return;  // the Resources view is hidden, or a jump is gliding
+  const groups = [...list.querySelectorAll('.letter-group')];
+  if (!groups.length) return setActive(null);
+  const atEnd = scrollY + innerHeight >= document.documentElement.scrollHeight - 2;
+  if (picked && atEnd && groups.some(g => g.id === 'm-' + picked)) return setActive(picked);
+  picked = null;
+  const line = $('.site-header').getBoundingClientRect().bottom + 24;
+  let cur = groups[0];
+  for (const g of groups) if (g.getBoundingClientRect().top <= line) cur = g;
+  setActive(cur.id.slice(2));
+}
+let spyQueued = false;
+addEventListener('scroll', () => { if (!spyQueued) { spyQueued = true; requestAnimationFrame(() => { spyQueued = false; spy(); }); } }, {passive: true});
+// a letter picked from the rail is current at once, and stays so while the page glides there (as in the bestiary sheet)
+// (a letter already in the address doesn't change the hash, so it's routed here instead)
+$('#az').addEventListener('click', e => {
+  const a = e.target.closest('[data-l]'); if (!a) return;
+  picked = a.dataset.l; setActive(picked); pausedUntil = performance.now() + 1000;
+  if (a.hash === location.hash) { e.preventDefault(); route(); }
+});
+addEventListener('scrollend', () => { pausedUntil = 0; spy(); });
+new ResizeObserver(spy).observe($('#monsterList'));
+// the rail sticks just under the header, whose height changes with the window
+const setHead = () => document.documentElement.style.setProperty('--head', $('.site-header').offsetHeight + 'px');
+setHead(); new ResizeObserver(setHead).observe($('.site-header'));
+const ALL_LETTERS = [...new Set(M.map(letterOf))].sort();
+$('#mq').addEventListener('input', renderMonsters);
+renderMonsters();
+document.fonts.ready.then(spy);
+
+// ---------- site search (pages, rules sections, monsters)
+// the Core Rules entries follow the language being read, so a hit never switches it
+// l: the translation a hit's title comes from, so the results list can mark its language
+const rulesIndex = () => Object.keys(PAGES).flatMap(id => { const P = PAGES[id], Lg = langOf(savedLang), C = Lg.pages[id] || P, l = C === P ? null : Lg;
+  return [...(isAdvPage(id) ? [] : [{t: C.title, k: GROUP_NAME[P.group], h: '#' + id, l}]), ...C.sections.flatMap(s => [{t: s.title, k: C.title, h: '#' + s.id, l, lk: l}, ...s.subs.map(x => ({t: x.title, k: C.title + ' · ' + s.title, h: '#' + x.id, l, lk: l}))])]; });
+const inLang = (l, text) => l ? `<span lang="${l.code}" dir="${l.dir}">${esc(text)}</span>` : esc(text);
+const INDEX_REST = [
+  {t: 'Adventures', k: 'Catalog', h: '#adventures'},
+  ...ADV.map(e => ({t: e.name, k: (e.author ? `Adventure · ${e.author}` : 'Adventure') + (advOut(e) ? ' · ' + advAt(advOut(e)) : ''), h: advHref(e), s: e.author, out: !!advOut(e)})),
+  ...TILES.map(t => ({t: t.title, k: 'Resources', h: tileAnchor(t)})),
+  ...M.map(m => ({t: m.name, k: 'Monster', h: m.href})),
+];
+let qSay;  // the count is announced once typing pauses, not on every key
+function runSearch() {
+  const q = $('#q').value.trim().toLowerCase(), box = $('#qResults');
+  clearTimeout(qSay);
+  if (!q) { box.hidden = true; box.innerHTML = ''; $('#qStatus').textContent = ''; return; }
+  const at = x => { const i = x.t.toLowerCase().indexOf(q); return i < 0 ? 999 : i; };  // a hit on the author alone sorts after the names
+  const all = [...rulesIndex(), ...INDEX_REST].filter(x => (x.t + ' ' + (x.s || '')).toLowerCase().includes(q)).sort((x, y) => at(x) - at(y)), hits = all.slice(0, 8);
+  box.innerHTML = hits.length ? hits.map(x => `<li><a href="${esc(x.h)}">${inLang(x.l, x.t)}<span class="kind">${inLang(x.lk, x.k)}${x.out ? ' <span aria-hidden="true">↗</span>' : ''}</span></a></li>`).join('') : '<li class="results-empty">No results</li>';
+  box.hidden = false;
+  const say = !hits.length ? 'No results' : all.length > hits.length ? `${hits.length} of ${all.length} results` : `${hits.length} result${hits.length === 1 ? '' : 's'}`;
+  qSay = setTimeout(() => { $('#qStatus').textContent = say; }, 500);
+}
+$('#q').addEventListener('input', runSearch);
+$('#q').addEventListener('keydown', e => { if (e.key === 'Escape') { $('#q').value = ''; runSearch(); } if (e.key === 'ArrowDown') { const f = $('#qResults a'); if (f) { e.preventDefault(); f.focus(); } } });
+$('#qResults').addEventListener('keydown', e => {
+  const links = [...document.querySelectorAll('#qResults a')], at = links.indexOf(document.activeElement);
+  if (e.key === 'ArrowDown' && at < links.length - 1) { e.preventDefault(); links[at + 1].focus(); }
+  if (e.key === 'ArrowUp') { e.preventDefault(); (at > 0 ? links[at - 1] : $('#q')).focus(); }
+  if (e.key === 'Escape') { $('#q').focus(); $('#q').value = ''; runSearch(); }
+});
+$('#qResults').addEventListener('click', () => { $('#q').value = ''; runSearch(); closeMenu(); });
+// Tab moving on past the results closes them, so the open list can't cover what gets focus next
+$('.search').addEventListener('focusout', e => { if (e.relatedTarget && !e.currentTarget.contains(e.relatedTarget)) $('#qResults').hidden = true; });
+document.addEventListener('click', e => { if (!e.target.closest('.search')) { $('#qResults').hidden = true; } });
+// Ctrl+K (⌘K on a Mac) focuses search. The current site uses a bare "k", but a single-letter shortcut can't be turned
+// off, so it fires by accident for speech-input and keyboard users (WCAG 2.1.4)
+if (/Mac|iPhone|iPad/.test(navigator.platform)) $('#qKey').textContent = '⌘K';
+document.addEventListener('keydown', e => {
+  if (e.key.toLowerCase() === 'k' && (e.metaKey || e.ctrlKey) && !e.altKey && !e.shiftKey) { e.preventDefault(); $('#q').focus(); }
+});
+
+// ---------- top-level nav menus: what's inside each section
+{ const tileLink = t => `<a href="${esc(t.href)}">${esc(t.title)}</a>`;
+  const MENUS = {
+    rules: ['<a href="#rules">Core Rules</a>', a(L.players, "Player's Guide"), a(L.wardens, "Warden's Guide"), a(L.backgrounds, 'Backgrounds'), a(L.files2e, 'PDFs and game files'), a(L.print2e, 'Print copies'), a(L.first, 'First Edition')],
+    resources: ['<a href="#resources">All resources</a>', ...TILES.map(tileLink)],
+    adventures: [a(L.adventures, 'All adventures'), a(L.adv_first, L.adv_first.label), a(L.adv_orig, L.adv_orig.label), a(L.adv_conv, L.adv_conv.label), a(L.submit, 'Submit an adventure')],
+    community: ['<a href="#home-share">News and community</a>', a(L.discord, 'Discord'), a(L.submit, 'Submission guide'), a(L.third, 'Third-party content'), a(L.localization, 'Translations')],
+    store: [a(L.books, 'Books'), a(L.press, 'Cairn Press'), a(L.merch, 'Merch'), a(L.newsletter, 'Newsletter'), a(L.app, 'Official App (Kettlewright)')],
+  };
+  const nav = $('#primaryNav');
+  for (const item of nav.querySelectorAll('li[data-menu]')) item.insertAdjacentHTML('beforeend', `<div class="nav-menu"><ul>${li(...MENUS[item.dataset.menu])}</ul></div>`);
+  // Escape dismisses the list: a hovered one until the pointer leaves the nav, a focused one until focus leaves its item
+  document.addEventListener('keydown', e => {
+    if (e.key !== 'Escape') return;
+    if (nav.matches(':hover')) nav.classList.add('no-hover');
+    const item = document.activeElement.closest?.('#primaryNav li[data-menu]');
+    if (item) { item.classList.add('dismissed'); item.querySelector('a').focus(); }
+  });
+  nav.addEventListener('pointerleave', () => nav.classList.remove('no-hover'));
+  nav.addEventListener('focusout', e => { const item = e.target.closest('li[data-menu]'); if (item && !item.contains(e.relatedTarget)) item.classList.remove('dismissed'); });
+  // following a link inside the page closes the list (focus would otherwise keep it open)
+  nav.addEventListener('click', e => { if (e.target.closest('.nav-menu a')) { e.target.blur(); nav.classList.add('no-hover'); } });
+}
+
+// ---------- mobile menu drawer
+const header = $('#site-header');
+function closeMenu(returnFocus) {
+  if (!header.classList.contains('open')) return;
+  header.classList.remove('open'); $('#menuBtn').setAttribute('aria-expanded', 'false');
+  if (returnFocus) $('#menuBtn').focus();
+}
+$('#menuBtn').addEventListener('click', () => {
+  const open = !header.classList.contains('open');
+  header.classList.toggle('open', open); $('#menuBtn').setAttribute('aria-expanded', String(open));
+  if (open) $('#primaryNav a').focus();
+});
+// Escape in the search field only clears it; focus moving on past the drawer closes it, so the tall header can't cover it
+document.addEventListener('keydown', e => { if (e.key === 'Escape' && !e.target.closest?.('.search')) closeMenu(true); });
+header.addEventListener('focusout', e => { if (e.relatedTarget && !header.contains(e.relatedTarget)) closeMenu(); });
+// the skip link focuses main without putting #main in the address, which would lose the page on reload or share
+$('.skip').addEventListener('click', e => { e.preventDefault(); $('#main').focus(); });
+$('#primaryNav').addEventListener('click', () => closeMenu());
+$('#drawerExtra').addEventListener('click', e => { if (e.target.closest('a')) closeMenu(); });
+
+// ---------- views (TITLES lists them), plus anchors inside each
+const TITLES = {home: 'Cairn: read the rules free', rules: pageTitle, resources: 'Resources · Cairn', sitemap: 'Sitemap · Cairn', adventures: 'Adventures · Cairn',
+  adventure: () => `${ADV_BY[shownAdv]?.name || 'Adventure'} · Adventures · Cairn`};
+let shownAdv = null;
+let view = null, first = true;
+function viewFor(id) {
+  if (!id || id === 'home' || id.startsWith('home-')) return 'home';
+  if (id === 'rules' || id === 'core-top' || PAGE_OF[id]) return 'rules';
+  if (id === 'resources' || id === 'monsters' || id.startsWith('res-') || id.startsWith('m-')) return 'resources';
+  if (id === 'sitemap' || id === 'sitemap-top') return 'sitemap';
+  if (id === 'adventures' || id === 'adventures-top') return 'adventures';
+  if (ADV_BY[id]) return 'adventure';
+  return null;
+}
+function route() {
+  // the catalog keeps its filters after a ?: #adventures?g=originals
+  const [path, qs] = location.hash.slice(1).split('?'), id = decodeURIComponent(path), v = viewFor(id);
+  if (!v) return;
+  const changed = v !== view;
+  // the rules view shows one page at a time: open the page (and language) this id belongs to
+  let turned = false;
+  if (v === 'rules') {
+    const to = placeOf(id === 'core-top' || !id ? shown.page || 'rules' : id) || placeOf('rules');
+    if (to.page !== shown.page || to.code !== shown.code) { turned = to.page !== shown.page; renderPage(to.page, to.code); retitle(); }
+  }
+  if (v === 'adventure') { turned = id !== shownAdv; shownAdv = id; renderAdventure(id); }
+  if (changed) {
+    view = v;
+    for (const el of document.querySelectorAll('[data-view]')) el.hidden = el.dataset.view !== v;
+  }
+  // after the view is shown: cards rendered into a hidden view would fetch every lazy cover at once
+  if (v === 'adventures') { advFromQuery(qs); renderAdventures(); }
+  if (changed || turned) {
+    document.title = (typeof TITLES[v] === 'function' ? TITLES[v]() : TITLES[v]) + ' (prototype)';
+    // the header marks where you are: an adventure's page shares the rules view, but belongs to Adventures
+    for (const n of document.querySelectorAll('[data-nav]')) n.toggleAttribute('aria-current', false);
+    const cur = v === 'rules' ? (isAdvPage(shown.page) ? 'adventures' : 'rules') : {resources: 'resources', adventures: 'adventures', adventure: 'adventures'}[v];
+    if (cur) { const n = $(`[data-nav="${cur}"]`); n.setAttribute('aria-current', n.getAttribute('href') === '#' + (v === 'rules' ? shown.page : v) ? 'page' : 'true'); }
+    // in the rules view the section nav also appears in the mobile drawer
+    $('#drawerExtra').innerHTML = v === 'rules' ? `<nav class="section-nav" aria-label="${isAdvPage(shown.page) ? 'Adventures' : 'Second Edition'}, in menu">${sectionNav(shown.page)}</nav>` : '';
+  }
+  if (v === 'rules') scrollableTables();  // now the view is showing, so widths can be measured
+  const target = id && document.getElementById(id);
+  const root = ['home', 'rules', 'resources', 'sitemap', 'adventures'].includes(id) || (v === 'rules' && !!PAGES[id]) || v === 'adventure';
+  if (target && !root) {
+    target.scrollIntoView();
+    // a section target (#monsters, #home-share) can't take focus itself, so its heading does
+    const f = target.hasAttribute('tabindex') || target.matches('h1,h2,h3,h4,h5,h6') ? target : target.querySelector('h1,h2,h3,h4,h5,h6');
+    if (f) { if (!f.hasAttribute('tabindex')) f.tabIndex = -1; f.focus({preventScroll: true}); }
+  }
+  else { scrollTo({top: 0, behavior: 'instant'}); const h1 = $(`#view-${v} h1`); if (!first && (changed || root || turned)) h1.focus({preventScroll: true}); }
+  first = false;
+}
+addEventListener('hashchange', route);
+route();
+// ---------- dice: 3D dice over the page (dice-box, loaded on first use), behind one small API that other
+// scripts (say, a character generator) can use: await CairnDice.roll('3d6', {label: 'Strength'})
+{
+const DICE_CDN = 'https://cdn.jsdelivr.net/npm/@3d-dice/dice-box@1.1.4/dist/';
+const SIDES = [4, 6, 8, 10, 12, 20], TYPE_MAX = 10, POOL_MAX = 20, SETTLE_MS = 8000;
+// colours sampled from the hero art (the tree's teal and deep purple, the monster's reds), plus a truer red; the tray's Colour choice picks one
+const COLOURS = [['Tree teal', '#41697d'], ['Hero deep rose', '#ae3f6c'], ['Tree purple', '#44345c'], ['Blood red', '#b3122e']];
+const tray = $('#diceTray'), toast = $('#diceToast'), isOpen = () => tray.matches(':popover-open');
+let colour = COLOURS[0][1], box = null, boxLoad = null, offline = false;
+let clearTimer = 0, toastTimer = 0, onTable = false, last = null, seq = 0, queue = Promise.resolve();
+const rolls = [];
+
+// notation: '3d6', '1d8+1d6', '2d6+1', or arrays of those or of {sides, qty, modifier}
+function parse(request) {
+  const terms = [], bad = x => new Error(`CairnDice: can't read ${JSON.stringify(x)}. Use notation like 3d6, 1d8+1d6 or 2d6+1.`);
+  let modifier = 0;
+  const add = (qty, sides, x) => {
+    qty = Number(qty); sides = Number(sides);
+    if (!Number.isInteger(qty) || !Number.isInteger(sides) || qty < 1 || qty > 50 || sides < 2 || sides > 100) throw bad(x);
+    const t = terms.find(t => t.sides === sides); t ? t.qty += qty : terms.push({sides, qty});
+  };
+  for (const x of Array.isArray(request) ? request : [request]) {
+    if (x && typeof x === 'object') { add(x.qty ?? 1, x.sides, x); modifier += Number(x.modifier) || 0; continue; }
+    const str = String(x ?? '').replace(/\s+/g, '').toLowerCase().replace(/[−–]/g, '-');
+    if (!/^[+-]?(\d*d\d+|\d+)([+-](\d*d\d+|\d+))*$/.test(str)) throw bad(x);
+    for (const [, sign, qty, sides, k] of str.matchAll(/([+-]?)(?:(\d*)d(\d+)|(\d+))/g)) {
+      if (sides) { if (sign === '-') throw bad(x); add(qty || 1, sides, x); }
+      else modifier += (sign === '-' ? -1 : 1) * Number(k);
+    }
+  }
+  if (!terms.length) throw new Error('CairnDice: there are no dice to roll.');
+  return {terms, modifier};
+}
+const notation = ({terms, modifier}) => terms.map(t => `${t.qty}d${t.sides}`).join('+') + (modifier ? (modifier > 0 ? '+' : '-') + Math.abs(modifier) : '');
+const randomDie = sides => { const a = new Uint32Array(1), lim = Math.floor(2 ** 32 / sides) * sides; do crypto.getRandomValues(a); while (a[0] >= lim); return a[0] % sides + 1; };
+const hasWebGL = () => { try { const c = document.createElement('canvas'); return !!(c.getContext('webgl2') || c.getContext('webgl')); } catch { return false; } };
+
+// dice-box loads once, on the tray's first open or the first roll; without WebGL, or offline, rolls fall back to plain random numbers
+function loadBox() {
+  if (!boxLoad) boxLoad = (async () => {
+    if (!hasWebGL()) return null;
+    const {default: DiceBox} = await import(DICE_CDN + 'dice-box.es.min.js');
+    const b = new DiceBox({container: '#diceStage', origin: DICE_CDN, assetPath: 'assets/', theme: 'default', themeColor: colour, scale: 4});
+    await b.init();
+    return b;
+  })().then(b => (box = b), err => { offline = true; console.warn('CairnDice: 3D dice unavailable, rolling without them.', err); return null; });
+  return boxLoad;
+}
+function clearTable() { clearTimeout(clearTimer); onTable = false; if (box) box.clear(); }
+
+// rolls run one at a time: dice-box drops a roll still in flight when a new one starts
+function roll(request, {label = '', show3d = true} = {}) {
+  let parsed;
+  try { parsed = parse(request); } catch (err) { return Promise.reject(err); }
+  const run = async () => {
+    clearTimeout(clearTimer);
+    const b = show3d && !REDUCE.matches ? (box || (showStatus('Loading dice…', true), await loadBox())) : null;
+    let dice;
+    if (b) {
+      const out = await b.roll(parsed.terms.map(({sides, qty}) => ({sides, qty})));
+      dice = out.map(d => ({sides: Number(String(d.sides).replace(/\D/g, '')), value: d.value}));
+      onTable = true; clearTimer = setTimeout(clearTable, SETTLE_MS);
+    } else {
+      dice = parsed.terms.flatMap(({sides, qty}) => Array.from({length: qty}, () => ({sides, value: randomDie(sides)})));
+    }
+    const groups = parsed.terms.map(({sides}) => { const values = dice.filter(d => d.sides === sides).map(d => d.value);
+      return {sides, qty: values.length, values, subtotal: values.reduce((n, v) => n + v, 0)}; });
+    const result = {id: `roll-${++seq}`, label, notation: notation(parsed), total: groups.reduce((n, g) => n + g.subtotal, 0) + parsed.modifier,
+      modifier: parsed.modifier, dice, groups, method: b ? '3d' : 'random', rolledAt: new Date().toISOString()};
+    last = parsed; rolls.unshift(result); rolls.length = Math.min(rolls.length, 20);
+    document.dispatchEvent(new CustomEvent('cairn-dice:rolled', {detail: result}));
+    return result;
+  };
+  const p = queue.then(run, run);
+  queue = p.catch(() => {});
+  return p;
+}
+
+// ---------- the tray
+// flat silhouettes: the shape says how many sides; the number is the same size on every die
+const shapes = {
+  4: '<polygon class="shape" points="24,4 45,42 3,42"/><text class="num" x="24" y="27">4</text>',
+  6: '<rect class="shape" x="6" y="6" width="36" height="36" rx="5"/><text class="num" x="24" y="24">6</text>',
+  8: '<polygon class="shape" points="24,2 46,24 24,46 2,24"/><text class="num" x="24" y="24">8</text>',
+  10: '<polygon class="shape" points="24,2 45,21 24,46 3,21"/><text class="num" x="24" y="23">10</text>',
+  12: '<polygon class="shape" points="24,3 45,18 37,44 11,44 3,18"/><text class="num" x="24" y="26">12</text>',
+  20: '<polygon class="shape" points="24,2 44,13 44,35 24,46 4,35 4,13"/><text class="num" x="24" y="24">20</text>',
+};
+const pool = new Map(SIDES.map(n => [n, 0]));
+$('#diceGrid').innerHTML = SIDES.map(n => `<li><button class="die-add" type="button" data-sides="${n}"><span class="die-count" hidden></span><svg viewBox="0 0 48 48" aria-hidden="true" focusable="false">${shapes[n]}</svg></button><button class="die-remove is-zero" type="button" data-sides="${n}" aria-label="Remove a d${n}">−</button></li>`).join('');
+$('#diceColours').innerHTML = COLOURS.map(([name, c], i) => `<label><input type="radio" name="dice-colour" value="${c}"${i ? '' : ' checked'}><span class="sw" style="--c:${c}"></span>${name}</label>`).join('');
+const poolTerms = () => SIDES.filter(n => pool.get(n)).map(n => ({sides: n, qty: pool.get(n)}));
+function renderPool() {
+  for (const n of SIDES) {
+    const k = pool.get(n), add = tray.querySelector(`.die-add[data-sides="${n}"]`), badge = add.querySelector('.die-count');
+    badge.hidden = !k; badge.textContent = k;
+    add.setAttribute('aria-label', `Add a d${n}, ${k} in the pool`);
+    tray.querySelector(`.die-remove[data-sides="${n}"]`).classList.toggle('is-zero', !k);
+  }
+  const terms = poolTerms();
+  $('#dicePool').textContent = terms.length ? terms.map(t => `${t.qty}d${t.sides}`).join(' + ') : 'Pick some dice';
+  $('#diceRoll').disabled = !terms.length;
+}
+// results show in the tray, or, while it's closed (after Roll), in a card under the pill until the dice clear
+function show(html, keep) {
+  $('#diceResults').innerHTML = html;
+  if (isOpen()) return;
+  toast.innerHTML = html; toast.hidden = false; place();
+  clearTimeout(toastTimer); if (!keep) toastTimer = setTimeout(hideToast, SETTLE_MS);
+}
+function hideToast() { clearTimeout(toastTimer); if (toast.contains(document.activeElement)) $('#diceBtn').focus(); toast.hidden = true; }
+const showStatus = (text, keep) => show(`<p class="dice-note">${esc(text)}</p>`, keep);
+function showResult(r) {
+  const parts = r.groups.map(g => `d${g.sides}: ${g.values.join(', ')}`);
+  if (r.modifier) parts.push(`${r.modifier > 0 ? '+' : '−'}${Math.abs(r.modifier)}`);
+  const why = r.method === 'random' ? (offline ? '3D dice need an internet connection, so this was rolled without them.' : '(rolled without 3D dice)') : '';
+  show((r.label ? `<p class="dice-label">${esc(r.label)}</p>` : '') +
+    `<p class="dice-total">Total ${r.total}</p><p>${esc(parts.join(' · '))}</p>` + (why ? `<p class="dice-note">${esc(why)}</p>` : ''));
+}
+document.addEventListener('cairn-dice:rolled', e => showResult(e.detail));
+
+tray.addEventListener('click', e => {
+  const add = e.target.closest('.die-add'), rem = e.target.closest('.die-remove');
+  const total = [...pool.values()].reduce((a, b) => a + b, 0);
+  if (add) { const n = +add.dataset.sides;
+    if (pool.get(n) < TYPE_MAX && total < POOL_MAX) pool.set(n, pool.get(n) + 1);
+    else showStatus(`Up to ${TYPE_MAX} of each die, ${POOL_MAX} in all.`);
+    renderPool(); }
+  if (rem) { const n = +rem.dataset.sides; pool.set(n, Math.max(0, pool.get(n) - 1)); renderPool();
+    if (!pool.get(n)) tray.querySelector(`.die-add[data-sides="${n}"]`).focus(); }
+});
+// Roll closes the tray so the dice are in view; the result appears under the pill
+$('#diceRoll').addEventListener('click', () => { const terms = poolTerms(); if (!terms.length) return;
+  tray.hidePopover(); roll(terms).catch(err => showStatus(err.message)); });
+toast.addEventListener('click', () => tray.showPopover());
+$('#diceClear').addEventListener('click', () => { for (const n of SIDES) pool.set(n, 0); renderPool(); clearTable(); hideToast(); $('#diceResults').innerHTML = ''; });
+$('#diceColours').addEventListener('change', e => {
+  colour = e.target.value; document.documentElement.style.setProperty('--dice', colour);
+  if (box) box.updateConfig({themeColor: colour});
+  // the colour applies to the next roll; re-roll what's on the table so it shows at once
+  if (onTable && last) roll(last.terms.map((t, i) => i ? t : {...t, modifier: last.modifier}));
+});
+
+// the tray and the result card hang just under the header, right-aligned with its content
+function place() {
+  const wrap = header.querySelector('.wrap'), w = wrap.getBoundingClientRect(), vw = document.documentElement.clientWidth;
+  const top = Math.round(Math.max(0, header.getBoundingClientRect().bottom) + 6);
+  const right = vw >= 760 ? `${Math.round(vw - (w.right - parseFloat(getComputedStyle(wrap).paddingRight)))}px` : '';
+  for (const el of [tray, toast]) { el.style.top = `${top}px`; el.style.right = right; }
+  tray.style.maxHeight = `${innerHeight - top - 12}px`;
+}
+addEventListener('scroll', () => { if (isOpen() || !toast.hidden) place(); }, {passive: true});
+addEventListener('resize', () => { if (isOpen() || !toast.hidden) place(); });
+// the tray is a popover: the pill opens and closes it, and a click outside or Escape closes it, returning focus to the pill
+tray.addEventListener('beforetoggle', e => {  // before it's shown, so it never paints unplaced
+  if (e.newState !== 'open') return;
+  hideToast(); place();
+  if (!REDUCE.matches) loadBox();
+});
+tray.addEventListener('toggle', e => {
+  if (e.newState === 'open') tray.querySelector('.die-add').focus();
+  else if (document.activeElement === document.body) $('#diceBtn').focus();  // opened from the result card, which hid as it opened
+});
+// capture phase: keeps the page's own Escape handler (which would move focus to Menu) from seeing the tray's Escape
+// Escape also clears the result card while it shows
+document.addEventListener('keydown', e => { if (e.key !== 'Escape') return; if (isOpen() && tray.contains(e.target)) e.stopPropagation(); else if (!toast.hidden) hideToast(); }, true);
+renderPool();
+
+window.CairnDice = Object.freeze({roll, open: () => isOpen() || tray.showPopover(), close: () => isOpen() && tray.hidePopover(), get history() { return rolls.slice(); }});
+}
+
+</script>
+</body>
+</html>
