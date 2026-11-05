@@ -41,8 +41,10 @@
 .dice-linkbtn { min-height: 44px; padding: 0 4px; background: none; border: 0; color: var(--accent); font: inherit; font-size: .95rem; text-decoration: underline; text-underline-offset: .18em; cursor: pointer; }
 .dice-linkbtn:hover { color: var(--accent-strong); }
 /* a die in the text rolls itself, as on cairnrpg.com; a roll table marks the row it lands on */
-button.roll { display: inline; min-height: 0; padding: 0 1px; margin: 0; background: none; border: 0; border-bottom: 1.5px dashed var(--dice); border-radius: 0; color: inherit; font: inherit; line-height: inherit; cursor: pointer; }
-button.roll:hover { color: var(--heading); border-bottom-style: solid; }
+/* jekyll-dice-tray's links (a.dice-tray-roll) and the builder's buttons. The dashed underline is --muted, not the dice
+   colour: the dice colours are under 3:1 against the page, which a control's only visible edge needs (WCAG 1.4.11). */
+button.roll, a.dice-tray-roll { display: inline; min-height: 0; padding: 0 1px; margin: 0; background: none; border: 0; border-bottom: 1.5px dashed var(--muted); border-radius: 0; color: inherit; font: inherit; line-height: inherit; text-decoration: none; cursor: pointer; }
+button.roll:hover, a.dice-tray-roll:hover { color: var(--heading); border-bottom-style: solid; }
 tr.hit > * { background: color-mix(in srgb, var(--dice) 30%, transparent); }
 tr.hit > :first-child { box-shadow: inset 4px 0 0 var(--dice); }
 .dice-poolrow { display: flex; align-items: center; justify-content: space-between; gap: 8px; }
