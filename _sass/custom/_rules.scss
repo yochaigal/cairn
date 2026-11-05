@@ -77,6 +77,10 @@
 .prose hr { border: 0; border-top: 1px solid var(--border); margin: 2em 0; }
 /* the Warden's Guide example maps: inlined, capped to the column, linking to the full size on cairnrpg.com */
 .prose figure { margin: 1.5em 0; }
+/* kettlewright.com can't report its height, so the 80vh box in the owner's Markdown is set taller than any character it
+   rolls (about 1,260px here, 1,530px on a phone) and the page is the only scroller */
+.prose div:has(> iframe[src*="kettlewright.com/gen/"]) { height: 1400px !important; }
+@media (max-width: 759px) { .prose div:has(> iframe[src*="kettlewright.com/gen/"]) { height: 1800px !important; } }
 .prose figure img { display: block; max-width: 100%; height: auto; border: 1px solid var(--border); border-radius: 4px; background: #fff; }
 /* a page's child pages, listed after its text as JTD does */
 .prose .child-list { margin-top: 1.5em; padding-inline-start: 1.25em; }
