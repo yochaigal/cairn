@@ -1,4 +1,5 @@
 ---
+summary: "Stat blocks for monsters and NPCs, ready to drop into an adventure."
 layout: default
 title: Monsters
 parent: Resources

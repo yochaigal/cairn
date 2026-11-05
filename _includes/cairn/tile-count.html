@@ -1,0 +1,13 @@
+{%- comment -%} The count line under a resource tile: include.tile is one entry of _data/cairn_resources.yml. {%- endcomment -%}
+{%- assign c = include.tile.count -%}
+{%- if c == 'adventures' -%}
+  {%- if site.data.cairn_adventures -%}{%- assign n = site.data.cairn_adventures.size -%}
+  {%- else -%}{%- assign n = site.pages | where_exp: "p", "p.url contains '/adventures/'" | where_exp: "p", "p.grand_parent == 'Adventures'" | size -%}{%- endif -%}
+  {{ n }} adventure{% if n != 1 %}s{% endif %}
+{%- elsif c == 'languages' -%}{%- assign n = site.data.cairn_translations.size -%}{{ n }} language{% if n != 1 %}s{% endif %}
+{%- elsif c == 'monsters' -%}{%- assign n = site.data.cairn_home.counts.monsters -%}{{ n }} monster{% if n != 1 %}s{% endif %}
+{%- elsif c == 'backgrounds' -%}{%- assign n = site.data.cairn_home.counts.backgrounds -%}{{ n }} background{% if n != 1 %}s{% endif %}
+{%- elsif c == 'hacks' -%}{%- assign n = site.data.cairn_home.counts.hacks -%}{{ n }} hack{% if n != 1 %}s{% endif %}
+{%- elsif c == 'first_edition' -%}{%- assign n = site.data.cairn_home.counts.first_edition -%}{{ n }} page{% if n != 1 %}s{% endif %}
+{%- else -%}{%- assign n = include.tile.links.size -%}{{ n }} page{% if n != 1 %}s{% endif %}
+{%- endif -%}

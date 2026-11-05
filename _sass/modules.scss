@@ -1,0 +1,19 @@
+// Overrides Just the Docs 0.12.0's _sass/modules.scss, unchanged, so that its "./typography" import finds this
+// site's _sass/typography.scss (relative imports in the theme's own copy always resolve inside the theme).
+// Import external dependencies
+@import "./vendor/normalize.scss/normalize";
+
+// Modules
+@import "./base";
+@import "./layout";
+@import "./content";
+@import "./navigation";
+@import "./typography";
+@import "./labels";
+@import "./buttons";
+@import "./search";
+@import "./tables";
+@import "./code";
+@import "./utilities/utilities";
+@import "./print";
+@import "./skiptomain";

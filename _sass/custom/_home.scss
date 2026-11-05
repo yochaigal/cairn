@@ -1,4 +1,5 @@
 // Ported from the redesign prototype (redesign/prototype_template.html, frozen at 261c1edb): home.
+:root { --hero-img: url("../redesign/players-guide-cover.jpg"); }  /* the Player's Guide cover, cropped above its title */
 /* ---------- home */
 /* hero: Player's Guide cover art behind a dark scrim */
 .hero { position: relative; isolation: isolate; padding-top: 72px; padding-bottom: 72px; overflow: hidden; background: var(--bg); }

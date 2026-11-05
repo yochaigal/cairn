@@ -5,13 +5,9 @@
 .cairn .main-content { max-width: none; padding: 0; }
 .cairn .main-content h1, .cairn .main-content h2, .cairn .main-content h3, .cairn .main-content h4 { color: var(--heading); font-weight: 700; line-height: 1.2; }
 .cairn .main-content h1:first-of-type { margin-top: 0; }
-// the theme sets heading sizes, and a 14px root on phones, with !important; the redesign's scale needs the same weight
+// the theme sets a 14px root on phones; the redesign's rem sizes are all against 16px
 html { font-size: 16px !important; }
-.cairn .main-content h1 { font-size: var(--h1) !important; letter-spacing: -.01em; }
-.cairn .main-content h2 { font-size: clamp(1.55rem, 3vw, 2rem) !important; }
-.cairn .main-content h3 { font-size: 1.3rem !important; }
-.cairn .main-content h4 { font-size: 1.1rem !important; }
-.cairn .main-content h5, .cairn .main-content h6 { font-size: 1.05rem !important; text-transform: none; letter-spacing: 0; }
+.cairn .main-content h4 { text-transform: none; letter-spacing: normal; }
 .cairn .main-content a:not([class]) { text-decoration: underline; text-underline-offset: .18em; text-decoration-thickness: 1px; }
 
 // ---------- the sidebar: Just the Docs' nav, scoped to the current section by cairn-nav.js

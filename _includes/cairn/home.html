@@ -1,11 +1,122 @@
 {%- comment -%}
-  The home page (README.md, with `cairn_layout: home`). Its own Markdown is the hero's text.
+  The home page (README.md, with `cairn_layout: home`). Its text comes from README.md itself (_plugins/cairn_home.rb):
+  the hero is the first two sentences, "Share your work" the first sentence of the next two paragraphs.
+  Sections: hero, Adventures, Start playing in three steps, Resources, Character sheets, News and community.
 {%- endcomment -%}
+{%- assign H = site.data.cairn_home -%}
+{%- assign art = '/assets/redesign/' | relative_url -%}
 <section class="hero" aria-labelledby="home-title"><div class="wrap">
-  <h1 id="home-title" class="hero-logo">{% include cairn-logo.svg %}<span class="sr-only">Cairn</span></h1>
-  <div class="lede">{{ content }}</div>
+  <h1 id="home-title" class="hero-logo" tabindex="-1">{% include cairn-logo.svg %}<span class="sr-only">Cairn</span></h1>
+  <p class="lede">{{ H.hero | default: page.title }}</p>
   <div class="actions">
     <a class="btn btn-primary" href="{{ '/second-edition/players-guide/core-rules/' | relative_url }}">Read the rules, free</a>
     <a class="btn btn-secondary" href="{{ '/second-edition/game-files/' | relative_url }}">Download the PDFs</a>
+    <a class="start-link" href="#home-start">New to Cairn? Start here</a>
   </div>
 </div></section>
+
+{% include cairn/home-adventures.html %}
+
+<section class="section" id="home-start" aria-labelledby="start-title">
+  <div class="diamond-rule steps-edge" aria-hidden="true"></div>
+  <div class="steps-show">
+    <h2 class="sr-only" id="start-title" tabindex="-1">Start playing in three steps</h2>
+    <div class="steps-band" id="stepsBand" role="region" aria-roledescription="carousel" aria-label="Start steps" tabindex="0"><div class="steps" id="steps">
+      {%- for st in H.steps %}
+      <div class="step" role="group" aria-roledescription="slide" aria-label="{{ forloop.index }} of {{ forloop.length }}">
+        {%- case forloop.index -%}
+        {%- when 1 -%}{% include cairn/step-scene.html n=1 w=1600 h=784 top=0 base="step-procedures-base.jpg" %}
+        {%- when 2 -%}{% include cairn/step-scene.html n=2 w=1600 h=780 top=240 base="step-character-creation-base.jpg" %}
+        {%- else -%}{% include cairn/step-scene.html n=3 w=1600 h=772 top=50 base="step-rules-base.jpg" %}
+        {%- endcase %}
+        <div class="step-body">
+          <h3><span class="step-num" aria-hidden="true">{{ forloop.index }}</span><a href="{{ st.url | relative_url }}">{{ st.title }}</a></h3>
+          <p>Covers {% if st.covers.size > 4 %}{{ st.covers | slice: 0, 4 | join: ' · ' }} · …{% else %}{{ st.covers | join: ' · ' }}{% endif %}</p>
+          {%- if forloop.index == 2 %}
+          <p>Or use the <a href="{{ '/second-edition/tools/character-generator/' | relative_url }}">Character Generator</a></p>
+          {%- endif %}
+        </div>
+      </div>
+      {%- endfor %}
+    </div></div>
+    <button class="steps-arrow prev" id="stepsPrev" type="button" aria-label="Previous step" aria-controls="stepsBand">‹</button>
+    <button class="steps-arrow next" id="stepsNext" type="button" aria-label="Next step" aria-controls="stepsBand">›</button>
+    <button class="steps-pause" id="stepsPause" type="button" aria-controls="stepsBand">Pause</button>
+    <p class="sr-only" id="stepsSay" role="status"></p>
+  </div>
+  <div class="diamond-rule steps-edge" aria-hidden="true"></div>
+</section>
+
+<section class="section" id="home-resources" aria-labelledby="res-home-title">
+  <div class="wrap">
+    <div class="section-head"><h2 id="res-home-title" tabindex="-1">Resources for your game</h2><p><a href="{{ '/resources/' | relative_url }}">All resources</a></p></div>
+    <div class="grid" id="homeTiles">
+      {%- for t in site.data.cairn_resources %}{% unless t.home == false %}
+      <a class="frame-tile" href="{{ '/resources/' | relative_url }}#{{ t.id }}"><h3>{{ t.title }}</h3><span class="count">{% include cairn/tile-count.html tile=t %}</span></a>
+      {%- endunless %}{% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="section" id="home-sheets" aria-labelledby="sheets-title">
+  <div class="wrap sheets">
+    <div class="sheets-text">
+      <h2 id="sheets-title" tabindex="-1">Character sheets</h2>
+      <p class="muted">Free PDFs from the <a href="https://cairnpress.itch.io/cairn-players-guide">Player's Guide on itch.io</a>. Also <a href="https://cairnpress.itch.io/cairn-players-guide">two to a page (Letter)</a>.</p>
+      <fieldset class="sheet-pick">
+        <legend class="sr-only">Layout</legend>
+        <div class="seg">
+          <label><input type="radio" name="sheet-layout" value="Landscape" checked><span>Landscape</span></label>
+          <label><input type="radio" name="sheet-layout" value="Portrait"><span>Portrait</span></label>
+        </div>
+      </fieldset>
+      <fieldset class="sheet-pick">
+        <legend class="sr-only">Paper</legend>
+        <div class="seg">
+          <label><input type="radio" name="sheet-paper" value="Letter" checked><span>Letter</span></label>
+          <label><input type="radio" name="sheet-paper" value="A4"><span>A4</span></label>
+          <label><input type="radio" name="sheet-paper" value="Fillable Letter"><span>Fillable Letter</span></label>
+        </div>
+      </fieldset>
+      <a class="btn btn-primary sheet-download" id="sheetDownload" href="https://cairnpress.itch.io/cairn-players-guide" aria-label="Download the Landscape sheet, Letter, from itch.io">Download</a>
+    </div>
+    <div class="sheets-figs">
+      <figure class="sheet sheet-land">
+        <img src="{{ art }}character-sheet-landscape.jpg" width="1100" height="850" alt="Preview of the landscape character sheet" loading="lazy">
+        <figcaption>Landscape</figcaption>
+      </figure>
+      <figure class="sheet sheet-port">
+        <img src="{{ art }}character-sheet-portrait.jpg" width="850" height="1100" alt="Preview of the portrait character sheet, framed by a sword" loading="lazy">
+        <figcaption>Portrait</figcaption>
+      </figure>
+    </div>
+  </div>
+</section>
+
+<section class="section share" id="home-share" aria-labelledby="share-title">
+  <div class="wrap">
+    <h2 id="share-title" tabindex="-1">News and community</h2>
+    <div class="news-grid">
+      {%- assign blog = site.data.blog -%}
+      {%- if blog and blog.title %}
+      <div class="news-part" id="home-blog">
+        <h3 class="eyebrow" id="blog-title" tabindex="-1">From the blog</h3>
+        <article class="blog-post"><h4><a href="{{ blog.url }}">{{ blog.title }}</a></h4><p>{{ blog.excerpt }}</p></article>
+        <p class="news-more"><a href="{{ blog.site }}">More posts on {{ blog.name }}</a></p>
+      </div>
+      <div class="news-rule" aria-hidden="true"></div>
+      {%- endif %}
+      <div class="news-part">
+        <h3 class="eyebrow">Share your work</h3>
+        <p class="lede">{{ H.share | join: ' ' }}</p>
+        <div class="actions">
+          <a class="btn btn-primary" href="{{ '/submissions/submission-guide/' | relative_url }}">Submit your adventure or monster</a>
+          <a class="btn btn-secondary" href="{{ '/discord-server/' | relative_url }}">Join the Discord</a>
+          <a class="btn btn-secondary" href="{{ '/third-party/' | relative_url }}">Third-party content</a>
+        </div>
+        <p class="news-more"><a href="https://github.com/yochaigal/cairn">View the source on GitHub</a></p>
+      </div>
+    </div>
+  </div>
+</section>
+<script src="{{ '/assets/js/cairn-home.js' | relative_url }}" defer></script>

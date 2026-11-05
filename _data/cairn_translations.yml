@@ -1,0 +1,8 @@
+# The community's translations of the Core Rules, for the language switcher and the Translations tile.
+# Each one stays in its translator's own repo and site; the switcher links to it.
+- {name: "Português (Brasil)", code: pt-BR, site: "https://pt-br.cairnrpg.com/", repo: RenanStigliani/cairn, flag: br}
+- {name: "Suomi", code: fi, site: "https://fi.cairnrpg.com/", repo: kari/cairn-fi, flag: fi}
+- {name: "Русский (beta)", code: ru, site: "https://ru.cairnrpg.com/", repo: TheVarik/cairn-ru, flag: ru}
+- {name: "中文", code: zh, site: "https://zh.cairnrpg.com/", repo: Ascll-Ray/cairn-zh, flag: cn}
+- {name: "עברית (unofficial)", code: he, dir: rtl, repo: EliyahuRotenberg/cairn-he, flag: il}
+- {name: "Türkçe (unofficial)", code: tr, repo: cuceGenco/cairn-tr, flag: tr}
