@@ -33,6 +33,10 @@ layout: table_wrappers
       <div class="prose view-intro">{{ content }}</div>
       {%- if page.summary %}<p class="lede">{{ page.summary }}</p>{% endif %}
       {% include cairn/{{ page.cairn_layout }}.html %}
+      {%- comment -%} the theme's list of the page's child pages, as on every other page (the Monsters index already links all of its own) {%- endcomment %}
+      {%- if page.has_toc != false and page.cairn_layout != 'monsters' %}
+      <div class="prose view-children">{% include components/children_nav.html %}</div>
+      {%- endif %}
     </div>
   </main>
   {%- else %}

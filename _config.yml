@@ -55,3 +55,14 @@ sass:
 dice_tray:
   inject_tray: false
 
+
+# the redesign's images, sheets and libraries are files, not pages: keep them out of sitemap.xml
+defaults:
+  - scope:
+      path: "assets/redesign"
+    values:
+      sitemap: false
+  - scope:
+      path: "assets/vendor"
+    values:
+      sitemap: false
