@@ -1,8 +1,47 @@
-# The community's translations of the Core Rules, for the language switcher and the Translations tile.
-# Each one stays in its translator's own repo and site; the switcher links to it.
-- {name: "Português (Brasil)", code: pt-BR, site: "https://pt-br.cairnrpg.com/", repo: RenanStigliani/cairn, flag: br}
-- {name: "Suomi", code: fi, site: "https://fi.cairnrpg.com/", repo: kari/cairn-fi, flag: fi}
-- {name: "Русский (beta)", code: ru, site: "https://ru.cairnrpg.com/", repo: TheVarik/cairn-ru, flag: ru}
-- {name: "中文", code: zh, site: "https://zh.cairnrpg.com/", repo: Ascll-Ray/cairn-zh, flag: cn}
-- {name: "עברית (unofficial)", code: he, dir: rtl, repo: EliyahuRotenberg/cairn-he, flag: il}
-- {name: "Türkçe (unofficial)", code: tr, repo: cuceGenco/cairn-tr, flag: tr}
+# The Core Rules' language switcher (and the Translations tile's count). Each translation stays in its translator's
+# own repo and site; the switcher links to its Core Rules page there. `site: false` means it has no site yet, so the
+# link opens the file on GitHub. `flag` is the inside of a 24×16 SVG.
+
+- name: "English"
+  code: en
+  dir: ltr
+  url: https://cairnrpg.com/second-edition/players-guide/core-rules/
+  flag: "<rect width=\"24\" height=\"16\" fill=\"#fff\"/><path fill=\"#b22234\" d=\"M0 0h24v1.23H0zm0 2.46h24v1.23H0zm0 2.46h24v1.23H0zm0 2.46h24v1.23H0zm0 2.46h24v1.23H0zm0 2.46h24v1.23H0zm0 2.46h24v1.23H0z\"/><rect width=\"10.4\" height=\"8.6\" fill=\"#3c3b6e\"/>"
+- name: "Português (Brasil)"
+  code: pt-BR
+  dir: ltr
+  url: https://pt-br.cairnrpg.com/regras/core-rules/
+  repo: RenanStigliani/cairn
+  flag: "<rect width=\"24\" height=\"16\" fill=\"#009c3b\"/><path fill=\"#ffdf00\" d=\"M12 1.6L22 8l-10 6.4L2 8z\"/><circle cx=\"12\" cy=\"8\" r=\"3.6\" fill=\"#002776\"/>"
+- name: "Suomi"
+  code: fi
+  dir: ltr
+  url: https://fi.cairnrpg.com/second-edition/players-guide/core-rules/
+  repo: kari/cairn-fi
+  flag: "<rect width=\"24\" height=\"16\" fill=\"#fff\"/><path fill=\"#002f6c\" d=\"M6.5 0h4v16h-4zM0 6h24v4H0z\"/>"
+- name: "Русский (beta)"
+  code: ru
+  dir: ltr
+  url: https://ru.cairnrpg.com/second-edition/players-guide/core-rules/
+  repo: TheVarik/cairn-ru
+  flag: "<rect width=\"24\" height=\"16\" fill=\"#fff\"/><rect y=\"5.33\" width=\"24\" height=\"5.34\" fill=\"#0039a6\"/><rect y=\"10.67\" width=\"24\" height=\"5.33\" fill=\"#d52b1e\"/>"
+- name: "中文"
+  code: zh
+  dir: ltr
+  url: https://zh.cairnrpg.com/players-guide/core-rules/
+  repo: Ascll-Ray/cairn-zh
+  flag: "<rect width=\"24\" height=\"16\" fill=\"#de2910\"/><g fill=\"#ffde00\"><path d=\"M4.8 2.2l.85 2.6h2.75l-2.2 1.6.85 2.6-2.25-1.6-2.2 1.6.85-2.6-2.2-1.6H4z\"/><circle cx=\"9.6\" cy=\"1.8\" r=\".6\"/><circle cx=\"10.8\" cy=\"3.6\" r=\".6\"/><circle cx=\"10.8\" cy=\"6\" r=\".6\"/><circle cx=\"9.6\" cy=\"7.8\" r=\".6\"/></g>"
+- name: "עברית (unofficial)"
+  code: he
+  dir: rtl
+  url: https://github.com/EliyahuRotenberg/cairn-he/blob/main/second-edition/players-guide/core-rules.md
+  repo: EliyahuRotenberg/cairn-he
+  site: false
+  flag: "<rect width=\"24\" height=\"16\" fill=\"#fff\"/><path fill=\"#0038b8\" d=\"M0 1.6h24v2.2H0zm0 10.6h24v2.2H0z\"/><g fill=\"none\" stroke=\"#0038b8\" stroke-width=\".7\"><path d=\"M12 4.9l2.7 4.65H9.3z\"/><path d=\"M12 11.1l2.7-4.65H9.3z\"/></g>"
+- name: "Türkçe (unofficial)"
+  code: tr
+  dir: ltr
+  url: https://github.com/cuceGenco/cairn-tr/blob/main/second-edition/players-guide/core-rules.md
+  repo: cuceGenco/cairn-tr
+  site: false
+  flag: "<rect width=\"24\" height=\"16\" fill=\"#e30a17\"/><circle cx=\"9\" cy=\"8\" r=\"4\" fill=\"#fff\"/><circle cx=\"10\" cy=\"8\" r=\"3.2\" fill=\"#e30a17\"/><path fill=\"#fff\" d=\"M13.2 8l2.5-.85-1.55 2.15V6.7l1.55 2.15z\"/>"

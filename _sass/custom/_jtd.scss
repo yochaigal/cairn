@@ -91,3 +91,10 @@ html { font-size: 16px !important; }
 .cairn .main-content .cb-sum dd { margin: 2px 0 0; }
 // on phones "On this page" sits in the text under the title (cairn-nav.js), not in its own sticky column
 @media (max-width: 759px) { .rules-main .prose > .toc { position: static; max-height: none; overflow: visible; margin: 0 0 24px; } }
+// the ⋯ and language menus are lists of links, not page text: no bullets or underlines from the theme's content styles
+.cairn .main-content .page-actions ul, .cairn .main-content .lang-picker ul { list-style: none; }
+.cairn .main-content .page-actions li::before, .cairn .main-content .lang-picker li::before { content: none; }
+.cairn .main-content .page-actions a, .cairn .main-content .lang-picker a { text-decoration: none; }
+.lang-picker li a { display: flex; align-items: center; gap: 10px; width: 100%; min-height: 44px; padding: 0 12px; border-radius: 4px; color: var(--text); white-space: nowrap; }
+.lang-picker li a:hover, .lang-picker li a:focus-visible { background: var(--surface-2); color: var(--heading); }
+.lang-picker li a small { color: var(--muted); }

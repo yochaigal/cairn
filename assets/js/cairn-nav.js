@@ -118,6 +118,7 @@
       h1.before(row); row.append(h1, actions);
     }
     cairnMenu(actions.querySelector('.page-actions'), $('#actionsBtn'), $('#actionsList'), 'a');
+    if ($('#langPicker')) cairnMenu($('#langPicker'), $('#langBtn'), $('#langList'), 'a');
   }
 
   // ---------- "On this page": the page's H2s and H3s (not the children list Just the Docs adds after the text)
