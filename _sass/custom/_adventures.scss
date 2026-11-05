@@ -46,27 +46,7 @@
 .field select { appearance: none; background: var(--surface) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1.5l5 5 5-5' fill='none' stroke='%23c9d1d9' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") no-repeat right 12px center / 12px 8px; }
 @media (forced-colors: active) { .field select { appearance: auto; background-image: none; padding-right: 10px; } }  /* the chevron's colour is fixed: use the system arrow */
 .adv-count { margin: 0 0 16px; color: var(--muted); }
-.adv-detail { display: grid; grid-template-columns: minmax(0, 360px) minmax(0, 1fr); gap: 32px; align-items: start; margin-top: 20px; }
-.adv-detail .adv-art { border: 1px solid var(--border); border-radius: 8px; overflow: hidden; }
-.adv-detail h1 { margin: 0 0 6px; }
-.adv-detail .adv-badges { margin: 12px 0 16px; padding: 0; }
-.adv-detail .actions { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 24px; }
-/* an adventure's own images are hotlinked from cairnrpg.com: hold a box for them until they load */
-.prose figure img.hotlink { aspect-ratio: auto 3 / 2; min-width: min(100%, 320px); }
-/* a <details> from the author's Markdown (an example to expand), and the FAQ's button that opens them all */
-.prose .disclosure { margin: 1em 0; border: 1px solid var(--border); border-radius: 6px; background: var(--surface); }
-.prose .disclosure summary { min-height: 44px; display: flex; align-items: center; padding: 6px 14px; cursor: pointer; color: var(--heading); font-weight: 700; }
-.prose .disclosure[open] summary { border-bottom: 1px solid var(--border); }
-.prose .disclosure-body { padding: 4px 14px 10px; }
-.prose .disclosure-body > :first-child { margin-top: .6em; }
-.prose .expand-all { margin: 0 0 1em; }
-.prose pre.fence { overflow-x: auto; padding: 12px 16px; background: var(--surface-2); border: 1px solid var(--border); border-radius: 6px; font-size: .92rem; line-height: 1.45; }
 @media (max-width: 1199px) { .adv-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); } #advHome { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
 @media (max-width: 899px) { .adv-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
-@media (max-width: 759px) { .adv-detail { grid-template-columns: minmax(0, 1fr); } .adv-detail .adv-art { max-width: 360px; } }
 @media (max-width: 519px) { .adv-grid { grid-template-columns: minmax(0, 1fr); gap: 16px; } #advHome { gap: 12px; }
   #advHome .adv-body { padding: 10px 12px 12px; } #advHome .adv-name { font-size: 1rem; } #advHome .adv-sum { display: none; } }
-.sheets { display: grid; grid-template-columns: minmax(300px, 1fr) 2fr; gap: 28px 40px; align-items: start; }
-.sheets-text h2 { margin-top: 0; }
-.sheet-pick { border: 0; padding: 0; margin: 0 0 12px; min-width: 0; max-width: 420px; }
-.sheets-text p + .sheet-pick { margin-top: 22px; }

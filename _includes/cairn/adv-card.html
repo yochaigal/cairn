@@ -5,11 +5,9 @@
 {%- endcomment -%}
 {%- assign e = include.e -%}
 {%- assign label = site.data.cairn_adventure_groups | where: "id", e.group | first -%}
-{%- if e.href contains '://' -%}{%- assign href = e.href -%}{%- else -%}{%- assign href = e.href | relative_url -%}{%- endif -%}
-{%- if e.cover -%}{%- if e.cover contains '://' -%}{%- assign cover = e.cover -%}{%- else -%}{%- assign cover = e.cover | relative_url -%}{%- endif -%}{%- endif -%}
 <li class="adv-card" data-g="{{ e.group }}" data-a="{{ e.author | escape }}" data-p="{{ e.price_kind }}" data-price="{{ e.price }}" data-t="{{ e.tags | join: '|' | escape }}" data-n="{{ e.name | escape }}">
-  <a href="{{ href }}"><span class="adv-art{% unless e.cover %} no-cover{% endunless %}">
-    {%- if e.cover %}<img class="adv-cover" src="{{ cover }}" alt="" loading="lazy" referrerpolicy="no-referrer">{% endif -%}
+  <a href="{{ e.href | relative_url }}"><span class="adv-art{% unless e.cover %} no-cover{% endunless %}">
+    {%- if e.cover %}<img class="adv-cover" src="{{ e.cover | relative_url }}" alt="" loading="lazy" referrerpolicy="no-referrer">{% endif -%}
     <span class="adv-panel" aria-hidden="true"><small>{{ label.label }}</small>{{ e.name }}</span></span>
     <span class="adv-body"><h{{ include.h | default: 3 }} class="adv-name">{{ e.name }}</h{{ include.h | default: 3 }}>
       {%- if e.author %}<span class="adv-by">by {{ e.author }}</span>{% endif %}

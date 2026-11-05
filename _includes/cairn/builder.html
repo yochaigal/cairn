@@ -18,7 +18,7 @@
       <h2 class="cb-drawer-name" id="cbDrawerTitle">Roll a character</h2>
       <button class="btn-icon cb-close" type="button" id="cbClose" aria-label="Stop building (your progress is kept)">✕</button>
     </header>
-    <div class="cb-drawer-body" id="cbDrawerBody" tabindex="0" role="region" aria-labelledby="cbDrawerTitle"></div>
+    <div class="cb-drawer-body" id="cbDrawerBody" tabindex="0" role="region" aria-label="This step"></div>
     <section class="cb-bar" id="cbBar" aria-label="Character builder" hidden>
     <div class="cb-bar-in">
       <button class="cb-sheet-btn" type="button" id="cbSheetBtn" aria-expanded="false" aria-controls="cbSheetPanel"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false"><path d="M6 15l6-6 6 6" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg><span class="cb-sheet-txt"><span class="cb-sheet-count"><span>Your sheet</span><span class="cb-sheet-n"></span></span><span class="sr-only">. </span><span class="cb-sheet-last"></span></span></button>
@@ -36,7 +36,7 @@
 </div>
 <section class="cb-sheet-panel" id="cbSheetPanel" aria-labelledby="cbSheetName" hidden>
   <header class="cb-sheet-head"><h2 class="cb-sheet-title"><button class="cb-sheet-btn" type="button" id="cbSheetCollapse" aria-expanded="true" aria-controls="cbSheetPanel"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false"><path d="M6 9l6 6 6-6" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg><span class="cb-sheet-txt"><span class="cb-sheet-count"><span id="cbSheetName">Your sheet</span><span class="cb-sheet-n"></span></span><span class="sr-only">. </span><span class="cb-sheet-last"></span></span></button></h2></header>
-  <div class="cb-sheet-body" id="cbSheetBody" tabindex="0" role="region" aria-labelledby="cbSheetName"><div id="cbSheetList" role="group" aria-labelledby="cbSheetName"></div></div>
+  <div class="cb-sheet-body" id="cbSheetBody" tabindex="0" role="region" aria-labelledby="cbSheetName"><div id="cbSheetList"></div></div>
 </section>
 </dialog>
 <script src="{{ '/assets/js/cairn-builder.js' | relative_url }}" defer></script>

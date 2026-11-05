@@ -108,6 +108,7 @@
     new MutationObserver(() => {
       const list = results.querySelector('.search-results-list'), items = list ? [...list.querySelectorAll('.search-result')] : [];
       if (list) { list.id = 'search-results-list'; list.setAttribute('role', 'listbox'); input.setAttribute('aria-controls', list.id); }
+      else input.removeAttribute('aria-controls');  // the theme empties the results on each query
       for (const li of results.querySelectorAll('.search-results-list-item')) li.setAttribute('role', 'none');
       for (const [i, a] of items.entries()) { a.id ||= `search-result-${i}`; a.setAttribute('role', 'option'); a.setAttribute('aria-selected', String(a.classList.contains('active'))); }
       const active = items.find(a => a.classList.contains('active'));
@@ -187,7 +188,8 @@
     const hs = [...main.querySelectorAll('h2[id], h3[id]')].filter(h => !h.closest('.child-list, nav') && !h.classList.contains('text-delta'));
     if (hs.length < 2) return;
     const text = h => { const c = h.cloneNode(true); c.querySelectorAll('.anchor-heading, .sr-only').forEach(x => x.remove()); return c.textContent.trim(); };
-    list.innerHTML = '<ul>' + hs.map(h => `<li${h.tagName === 'H3' ? ' class="lvl3"' : ''}><a href="#${esc(h.id)}">${esc(text(h))}</a></li>`).join('') + '</ul>';
+    const lang = main.getAttribute('lang');  // a translated page's headings keep their language out here
+    list.innerHTML = `<ul${lang ? ` lang="${esc(lang)}"` : ''}>` + hs.map(h => `<li${h.tagName === 'H3' ? ' class="lvl3"' : ''}><a href="#${esc(h.id)}">${esc(text(h))}</a></li>`).join('') + '</ul>';
     toc.hidden = false;
     const toggle = $('#tocToggle');
     toggle.addEventListener('click', () => {

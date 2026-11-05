@@ -2,5 +2,4 @@
   A link from _data/cairn_nav.yml: include.href is a site path or a full URL.
   Include as: {% include cairn/link.html href=x text=y current=z %}
 {%- endcomment -%}
-{%- if include.href contains '://' -%}{%- assign cairn_href = include.href -%}{%- else -%}{%- assign cairn_href = include.href | relative_url -%}{%- endif -%}
-<a href="{{ cairn_href }}"{% if include.current %} aria-current="{{ include.current }}"{% endif %}>{{ include.text }}</a>
+<a href="{{ include.href | relative_url }}"{% if include.current %} aria-current="{{ include.current }}"{% endif %}>{{ include.text }}</a>

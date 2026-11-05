@@ -29,7 +29,7 @@ a.tile:hover h3 { color: var(--accent); }
   background: var(--surface) padding-box;  /* the panel's colour, inside the panel: a real backdrop for the text (and for contrast checkers) */
   color: var(--heading); text-decoration: none; }
 /* as many squares across as fit, 4 → 3 → 2 → 1, each at least 220px (the longest title's square) and at most 300px.
-   Below 760px the narrower side margins would bring a third column back, so the minimum there is 246px (see NOTES) */
+   Below 760px the narrower side margins would bring a third column back, so the minimum there is 246px */
 #homeTiles { --tile-min: 220px; grid-template-columns: repeat(auto-fill, minmax(max(min(100%, var(--tile-min)), calc((100% - 60px) / 4)), 1fr)); }  /* never more than 4 */
 @media (max-width: 759px) { #homeTiles { --tile-min: 246px; } }
 #homeTiles .frame-tile { width: 100%; max-width: 300px; justify-self: center; }
@@ -41,7 +41,7 @@ a.tile:hover h3 { color: var(--accent); }
   .frame-tile:hover, .frame-tile:focus-visible { border-color: Highlight; }
   /* states drawn only with a fill or a box-shadow, which forced colours remove */
   .seg input:checked + span, .cb-swap button[aria-pressed="true"], .az a[aria-current="true"] { background: Highlight; color: HighlightText; border-color: Highlight; }
-  .primary-nav a[aria-current], .toc a.active, .section-nav a[aria-current="page"] { text-decoration: underline 3px; }
+  .primary-nav a[aria-current], .section-nav a[aria-current="page"] { text-decoration: underline 3px; }
   .seg input:checked:focus-visible + span { outline-color: HighlightText; }
   .dice-colours label:has(input:checked) { border: 2px solid Highlight; }
   .dice-colours .sw { forced-color-adjust: none; }
@@ -49,7 +49,7 @@ a.tile:hover h3 { color: var(--accent); }
   .dice-switch input:checked + .dice-switch-ui { background: Highlight; }
   .dice-switch-ui::after { background: ButtonText; }
   .dice-switch input:checked + .dice-switch-ui::after { background: HighlightText; }
-  button.roll { color: LinkText; border-bottom-color: LinkText; }
+  a.dice-tray-roll { color: LinkText; border-bottom-color: LinkText; }
   .dice-grid li.is-editing .die-add { outline: 2px solid Highlight; }
   tr.hit > * { outline: 2px solid Highlight; outline-offset: -2px; }
   .cb-card { forced-color-adjust: none; }  /* a card is a picture of paper: its ink stays dark on it */
@@ -77,8 +77,6 @@ a.tile:hover h3 { color: var(--accent); }
 /* long chapter lists flow into columns; each row keeps the chapter-list look */
 .chapter-list.cols { column-width: 13em; column-gap: 28px; }
 .chapter-list.cols li { break-inside: avoid; }
-.span-2 { grid-column: span 2; }
-.span-all { grid-column: 1 / -1; }
 .parts { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 0 28px; }
 .parts .part { margin-top: 6px; }
 .tile .chapter-list { margin-top: 6px; }

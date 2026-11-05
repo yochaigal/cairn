@@ -1,15 +1,10 @@
-// The redesign's styles: footer and mobile drawer.
+// The redesign's styles: footer.
 /* ---------- footer */
 .cairn-footer { border-top: 1px solid var(--border); padding: 40px 0 90px; font-size: 1rem; background: var(--surface); }
 .cairn-footer .cols { display: grid; grid-template-columns: 2fr 1fr 1fr 1fr; gap: 24px 40px; }
 /* the footer isn't held to the body's 1200px column: it runs wider, so the site map's lists have room */
 .cairn-footer > .wrap { width: min(1560px, 100%); padding: 0 clamp(16px, 4vw, 56px); }
-.sitemap-section { padding: 24px 0 72px; }
 .cairn-footer h2 { font-size: 1.05rem; margin-bottom: 8px; }
 .cairn-footer ul { list-style: none; padding: 0; margin: 0; }
 .cairn-footer li + li { margin: 0; }
 .cairn-footer a { display: inline-flex; min-height: 40px; align-items: center; }
-
-/* ---------- drawer (mobile nav) */
-.drawer-extra { display: none; }
-.drawer-extra .section-nav { position: static; max-height: none; }

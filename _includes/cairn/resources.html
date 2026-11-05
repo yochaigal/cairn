@@ -12,8 +12,8 @@
     {%- if sp.summary %}<p class="tile-desc">{{ sp.summary }}</p>{% endif %}
     {%- if t.links %}
     <ul class="chapter-list">
-      {%- for l in t.links %}{%- assign lh = l[1] -%}{%- assign lt = l[0] %}
-      <li>{% include cairn/link.html href=lh text=lt %}</li>
+      {%- for l in t.links %}
+      <li>{% include cairn/link.html href=l.last text=l.first %}</li>
       {%- endfor %}
     </ul>
     {%- endif %}

@@ -9,7 +9,7 @@
     <button class="btn-icon menu-btn" id="menu-button" type="button" aria-expanded="false" aria-controls="primaryNav site-nav">
       <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M3 6h18M3 12h18M3 18h18" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round"/></svg>Menu
     </button>
-    <nav class="primary-nav" id="primaryNav" aria-label="Main">
+    <nav class="primary-nav" id="primaryNav" aria-label="Site">
       <ul>
         {%- for m in site.data.cairn_nav.menus %}
         {%- assign cairn_current = nil -%}
@@ -17,7 +17,7 @@
         <li data-menu>{% include cairn/link.html href=m.href text=m.title current=cairn_current %}
           <div class="nav-menu"><ul>
             {%- for l in m.links %}
-            <li>{%- assign lh = l[1] -%}{%- assign lt = l[0] -%}{% include cairn/link.html href=lh text=lt %}</li>
+            <li>{% include cairn/link.html href=l.last text=l.first %}</li>
             {%- endfor %}
           </ul></div>
         </li>
@@ -27,10 +27,10 @@
     {%- if site.search_enabled != false %}
     {% capture search_placeholder %}{% include search_placeholder_custom.html %}{% endcapture %}
     <div class="cairn-search" role="search">
-      <label for="search-input" class="sr-only">Search Cairn</label>
+      <label for="search-input" class="sr-only">Search rules, monsters, adventures</label>
       <input type="search" id="search-input" class="search-input" dir="auto" autocomplete="off" placeholder="{{ search_placeholder | strip_html | strip }}" aria-keyshortcuts="Control+K Meta+K">
       <kbd aria-hidden="true" class="search-key">Ctrl K</kbd>
-      <div id="search-results" class="search-results results"></div>
+      <div id="search-results" class="search-results"></div>
       <p class="sr-only" id="search-status" role="status"></p>
     </div>
     {%- endif %}

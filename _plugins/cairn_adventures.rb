@@ -85,7 +85,7 @@ module Cairn
         author = by[1].split(/(?<![\s\/][A-Z])\.(?:\s|\z)|[,!]|\s+(?:by|and published|written for|for|in|Updated|Posted)\s/).first.to_s.strip
         author = author.sub(/(?<=[a-z]{2})\.\z/, "")
       end
-      [author.to_s.empty? ? nil : author, url, text]
+      [present(author), url, text]
     end
 
     def repo_adventures(site)

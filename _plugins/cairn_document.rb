@@ -6,5 +6,5 @@ Jekyll::Hooks.register(%i[pages documents], :post_render, priority: :low) do |do
   next unless doc.output_ext == ".html"
   out = doc.output.to_s
   next if out.lstrip.start_with?("<!DOCTYPE", "<!doctype")
-  doc.output = %(<!DOCTYPE html>\n<html lang="#{doc.site.config['lang'] || 'en-US'}">\n#{out})
+  doc.output = %(<!DOCTYPE html>\n<html lang="#{doc.site.config['lang']}">\n#{out})
 end

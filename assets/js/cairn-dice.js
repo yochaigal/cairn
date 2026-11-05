@@ -4,7 +4,7 @@
 //   await CairnDice.roll('3d6', {label: 'Strength'})
 (() => {
 const $ = s => document.querySelector(s);
-const esc = s => String(s).replace(/[&<>"']/g, c => ({'&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'})[c]);
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'})[c]);
 const REDUCE = matchMedia('(prefers-reduced-motion: reduce)');
 if (!$('#diceTray')) return;
 const header = $('#main-header');
@@ -59,7 +59,7 @@ function notify(message, {kind = 'success'} = {}) {
 }
 
 // dice-box is served from this site (assets/vendor/dice-box/), next to this script's folder
-const DICE_CDN = new URL('../vendor/dice-box/', document.currentScript.src).href;
+const DICE_BASE = new URL('../vendor/dice-box/', document.currentScript.src).href;
 const SIDES = [4, 6, 8, 10, 12, 20], TYPE_MAX = 10, POOL_MAX = 20, SETTLE_MS = 8000;
 // colours sampled from the hero art (the tree's teal and deep purple, the monster's reds), plus a truer red; the tray's Colour choice picks one
 const COLOURS = [['Tree teal', '#41697d'], ['Hero deep rose', '#ae3f6c'], ['Tree purple', '#44345c'], ['Blood red', '#b3122e']];
@@ -105,8 +105,8 @@ const hasWebGL = () => { try { const c = document.createElement('canvas'); retur
 function loadBox() {
   if (!boxLoad) boxLoad = (async () => {
     if (!hasWebGL()) return null;
-    const {default: DiceBox} = await import(DICE_CDN + 'dice-box.es.min.js');
-    const b = new DiceBox({container: '#diceStage', origin: DICE_CDN, assetPath: 'assets/', theme: 'default', themeColor: colour, scale: 4});
+    const {default: DiceBox} = await import(DICE_BASE + 'dice-box.es.min.js');
+    const b = new DiceBox({container: '#diceStage', origin: DICE_BASE, assetPath: 'assets/', theme: 'default', themeColor: colour, scale: 4});
     await b.init();
     return b;
   })().then(b => (box = b), err => { offline = true; console.warn('CairnDice: 3D dice unavailable, rolling without them.', err); return null; });
@@ -194,7 +194,8 @@ function renderPool() {
     plus.setAttribute('aria-disabled', String(poolFull(n)));
   }
   const terms = poolTerms(), atEnd = body.scrollHeight - body.scrollTop - body.clientHeight < 4;
-  $('#dicePool').textContent = terms.map(t => `${t.qty}d${t.sides}`).join(' + ');
+  const said = terms.map(t => `${t.qty}d${t.sides}`).join(' + '), line = $('#dicePool');
+  if (line.textContent !== said) line.textContent = said;  // a status: rewriting the same text would be heard again
   $('#dicePoolClear').hidden = !terms.length;
   $('#diceSend').disabled = !terms.length && !field.value.trim();
   if (atEnd) toEnd(false);  // the pool line comes and goes, resizing the history
@@ -225,8 +226,8 @@ function showResult(r) {
 const body = $('#diceBody'), hist = $('#diceHist');
 const clock = iso => new Date(iso).toLocaleTimeString([], {hour: 'numeric', minute: '2-digit'});
 const message = r => `<li class="dice-msg"><span class="what">${esc([r.label, (r.mode === 'highest' ? 'highest of ' : '') + r.notation].filter(Boolean).join(' · '))}</span>`
-  + `<span class="total">${r.total}</span><span class="how">${esc(valuesOf(r))}</span>` + (r.detail ? `<span class="how">${esc(r.detail)}</span>` : '')
-  + (r.fallback ? `<span class="note">${esc(fallbackText(r.fallback))}</span>` : '') + `<span class="time">${clock(r.rolledAt)}</span></li>`;
+  + `<span class="total"><span class="sr-only">: total </span>${r.total}</span><span class="how"><span class="sr-only">. </span>${esc(valuesOf(r))}</span>` + (r.detail ? `<span class="how"><span class="sr-only">. </span>${esc(r.detail)}</span>` : '')
+  + (r.fallback ? `<span class="note"><span class="sr-only">. </span>${esc(fallbackText(r.fallback))}</span>` : '') + `<span class="time"><span class="sr-only">, at </span>${clock(r.rolledAt)}</span></li>`;
 const toEnd = smooth => body.scrollTo({top: body.scrollHeight, behavior: smooth && !REDUCE.matches ? 'smooth' : 'auto'});
 function renderHistory() {
   hist.innerHTML = rolls.slice().reverse().map(message).join('');
@@ -288,8 +289,10 @@ $('#diceType').addEventListener('submit', e => {
   const err = $('#diceExprErr'), x = field.value.trim();
   if (!x) { const terms = poolTerms(); if (terms.length) rollHere(terms); return; }
   let bad = ''; try { parse(x); } catch { bad = `Can’t read “${x}”. Type dice like 2d6+1 or d8+d8.`; }
-  bad ? field.setAttribute('aria-invalid', 'true') : field.removeAttribute('aria-invalid'); err.textContent = bad; err.hidden = !bad;
-  if (bad) { field.focus(); return; }
+  bad ? field.setAttribute('aria-invalid', 'true') : field.removeAttribute('aria-invalid');
+  // shown first and filled a beat later, so the alert is announced, a second time too
+  err.textContent = ''; err.hidden = !bad;
+  if (bad) { setTimeout(() => { err.textContent = bad; }, 50); field.focus(); return; }
   field.value = ''; renderPool(); rollHere(x, {highest: true});
 });
 field.addEventListener('input', () => { const err = $('#diceExprErr'); field.removeAttribute('aria-invalid'); err.hidden = true; err.textContent = ''; renderPool(); });
@@ -302,7 +305,7 @@ function setView(v, moveFocus) {
   const hadFocus = $('#diceSettings').contains(document.activeElement);
   edit(null); tray.dataset.view = v;
   $('#diceChat').hidden = $('#diceFoot').hidden = settings; $('#diceSettings').hidden = !settings;
-  $('#diceTitle').textContent = settings ? 'Settings' : 'Dice';
+  $('#diceTitle').textContent = settings ? 'Settings' : 'Dice'; body.setAttribute('aria-label', settings ? 'Settings' : 'Roll history');
   back.setAttribute('aria-label', settings ? 'Back to rolls' : 'Dice settings');
   if (settings) $('#diceSettings').querySelector('input:not(:disabled)').focus();
   else { toEnd(false); if (moveFocus && hadFocus) back.focus(); }
@@ -327,15 +330,19 @@ function place() {
   toast.style.top = `${foot + 6}px`; toast.style.right = vw >= 760 ? `${Math.round(vw - (w.right - parseFloat(getComputedStyle(wrap).paddingRight)))}px` : '';
   tray.style.top = tray.style.right = tray.style.maxHeight = '';
 }
+// below 760px the drawer covers the whole page, so the page behind it is inert until it closes (Tab can't reach what's hidden)
+const page = tray.parentElement;  // the builder's walkthrough takes the drawer in, so the page is found once
+const behind = () => { for (const el of page.querySelectorAll(':scope > :is(.skip, .cairn-header, main, .rules-layout, .cairn-footer)')) el.inert = isOpen() && narrow();
+  if (isOpen() && narrow() && !tray.contains(document.activeElement)) tray.querySelector('.die-add').focus(); };  // focus can't stay behind it
 addEventListener('scroll', () => { if (isOpen() || !toast.hidden) place(); }, {passive: true});
-addEventListener('resize', () => { if (isOpen() || !toast.hidden) place(); });
+addEventListener('resize', () => { if (isOpen() || !toast.hidden) place(); if (isOpen()) behind(); });
 // the drawer is a manual popover, so the page stays usable while it's open: the pill opens and closes it, and so do
 // its close button and Escape, returning focus to the pill. It stays open from page to page, and from visit to visit
 let focusOnOpen = false;
 const saveOpen = () => store(OPEN_KEY, isOpen() ? '1' : null);  // only on the reader's own open and close, never a move
 // focus goes back to what opened it: a die in the text, or the Dice pill
 let opener = null;
-function collapse() { setView('rolls'); tray.hidePopover(); saveOpen(); (opener?.isConnected ? opener : $('#diceBtn')).focus(); opener = null; }
+function collapse() { setView('rolls'); tray.hidePopover(); behind(); saveOpen(); (opener?.isConnected ? opener : $('#diceBtn')).focus(); opener = null; }
 $('#diceBtn').addEventListener('click', () => { focusOnOpen = !isOpen(); setTimeout(saveOpen); });  // the pill's own toggle runs after this
 $('#diceCollapse').addEventListener('click', collapse);
 tray.addEventListener('beforetoggle', e => {  // before it's shown, so it never paints unplaced
@@ -344,14 +351,14 @@ tray.addEventListener('beforetoggle', e => {  // before it's shown, so it never 
   if (use3d()) loadBox();
 });
 tray.addEventListener('toggle', e => {
+  behind();  // first, so focus can go back to the page
   if (e.newState !== 'open') setTimeout(() => { opener = null; });  // after collapse() has used it
   if (e.newState === 'open') { toEnd(false); if (focusOnOpen) tray.querySelector('.die-add').focus(); focusOnOpen = false; restackNotices(); }  // notices still up go back above it
   else { edit(null); setView('rolls'); if (!walking() && document.activeElement === document.body) pill().focus(); }
   if (box && !walking()) dispatchEvent(new Event('resize'));  // the dice table narrows and widens with the drawer
 });
-// capture phase: keeps the page's own Escape handler (which would move focus to Menu) from seeing the tray's Escape
-// Escape also clears the result card while it shows
-// Escape closes the topmost layer: the open stepper, then Settings, then the drawer
+// Escape closes the topmost layer: the open stepper, then Settings, then the drawer, else the result card. In the
+// capture phase, so the page's own Escape (focus to Menu) never sees it
 document.addEventListener('keydown', e => {
   if (e.key !== 'Escape' || e.target.closest?.('#notices')) return;  // a notice's Escape closes only it
   if (isOpen() && tray.contains(e.target)) {
@@ -399,7 +406,7 @@ for (const t of document.querySelectorAll('.prose table')) {
 for (const a of document.querySelectorAll('a.dice-tray-roll')) { a.setAttribute('role', 'button'); a.setAttribute('aria-label', `Roll ${a.textContent.trim()}`); a.dataset.roll = (a.dataset.dice || a.textContent).replace(/\s+/g, '').toLowerCase(); }
 document.addEventListener('keydown', e => { if (e.key === ' ' && e.target.matches?.('a.dice-tray-roll')) { e.preventDefault(); e.target.click(); } });
 document.addEventListener('click', e => {
-  const btn = e.target.closest('a.dice-tray-roll, button.roll');
+  const btn = e.target.closest('a.dice-tray-roll');
   if (!btn) return;
   e.preventDefault();
   if (walking()) return;

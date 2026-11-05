@@ -12,7 +12,7 @@
     {%- for col in site.data.cairn_nav.footer %}
     <nav aria-labelledby="foot-{{ forloop.index }}"><h2 id="foot-{{ forloop.index }}">{{ col.title }}</h2><ul>
       {%- for l in col.links %}
-      <li>{%- assign lh = l[1] -%}{%- assign lt = l[0] -%}{% include cairn/link.html href=lh text=lt %}</li>
+      <li>{% include cairn/link.html href=l.last text=l.first %}</li>
       {%- endfor %}
     </ul></nav>
     {%- endfor %}

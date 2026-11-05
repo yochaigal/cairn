@@ -56,7 +56,8 @@ module Cairn
 
     def md_table(lines)
       rows = table_rows(lines)
-      [rows[0].map { |c| plain(c) }, rows[1..] || []]
+      raise Shape, "a table is missing" if rows.empty?
+      [rows[0].map { |c| plain(c) }, rows[1..]]
     end
 
     def number(cell)

@@ -1,6 +1,6 @@
 # Corrections to the character builder's drafted guesses (_plugins/cairn_builder.rb), keyed
 # background/table/row (table 0 or 1, row 1-6), bond/N, quote/background, or background/gear/Item name.
-# Each one replaces those fields of the row's effects: `items: []` means the row gives nothing to carry.
+# Each one replaces those fields of the row's effects (or, for a gear key, of that item): `items: []` means the row gives nothing to carry.
 
 "aurifex/1/6": {"items": []}  # the Homunculus is a companion (3 HP, 4 STR...)
 "barber-surgeon/0/1": {"items": []}

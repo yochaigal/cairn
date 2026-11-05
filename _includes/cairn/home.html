@@ -21,6 +21,10 @@
   <div class="diamond-rule steps-edge" aria-hidden="true"></div>
   <div class="steps-show">
     <h2 class="sr-only" id="start-title" tabindex="-1">Start playing in three steps</h2>
+    {%- comment -%} the controls come first in the Tab order (Pause first, as the APG carousel has it); they're drawn over the band {%- endcomment %}
+    <button class="steps-pause" id="stepsPause" type="button" aria-controls="stepsBand">Pause</button>
+    <button class="steps-arrow prev" id="stepsPrev" type="button" aria-label="Previous step" aria-controls="stepsBand">‹</button>
+    <button class="steps-arrow next" id="stepsNext" type="button" aria-label="Next step" aria-controls="stepsBand">›</button>
     <div class="steps-band" id="stepsBand" role="region" aria-roledescription="carousel" aria-label="The three steps, one at a time" tabindex="0"><div class="steps" id="steps">
       {%- for st in H.steps %}
       <div class="step" role="group" aria-roledescription="slide" aria-label="{{ forloop.index }} of {{ forloop.length }}">
@@ -39,9 +43,6 @@
       </div>
       {%- endfor %}
     </div></div>
-    <button class="steps-arrow prev" id="stepsPrev" type="button" aria-label="Previous step" aria-controls="stepsBand">‹</button>
-    <button class="steps-arrow next" id="stepsNext" type="button" aria-label="Next step" aria-controls="stepsBand">›</button>
-    <button class="steps-pause" id="stepsPause" type="button" aria-controls="stepsBand">Pause</button>
     <p class="sr-only" id="stepsSay" role="status"></p>
   </div>
   <div class="diamond-rule steps-edge" aria-hidden="true"></div>

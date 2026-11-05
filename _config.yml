@@ -1,4 +1,5 @@
 title: Cairn
+lang: en-US
 permalink: pretty
 theme: just-the-docs
 url: https://cairnrpg.com
@@ -56,14 +57,10 @@ dice_tray:
   inject_tray: false
 
 
-# the redesign's images, sheets and libraries are files, not pages: keep them out of sitemap.xml
+# the redesign's sheet PDFs are files, not pages: keep them out of sitemap.xml
 defaults:
   - scope:
       path: "assets/redesign"
-    values:
-      sitemap: false
-  - scope:
-      path: "assets/vendor"
     values:
       sitemap: false
   # the First Edition SRD translations this repo publishes: their text is marked as their language (_layouts/default.html)

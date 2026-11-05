@@ -21,11 +21,11 @@ function renderPage() {
   for (const el of PROSE.querySelectorAll('.cb-hit')) el.classList.remove('cb-hit');
   builderDecorate();
 }
-// ---------- character builder: "Roll a Character right now!" on Character Creation (data: CB, from the build).
-// A full-screen walkthrough rolls each step with the dice (CairnDice), and Next locks the result in. The finished
-// character fills the official Fillable Letter sheet (pdf-lib, loaded on first use).
+// ---------- character builder
 let cb = null;  // {i: step index, v: {step id: rolled total}, edits: {review field: text}, sheet, active}
 try { cb = JSON.parse(localStorage.getItem(CB_KEY)); } catch {}
+const NO_CHAR = {slots: [], petty: [], traits: [], bonds: [], notes: []};  // before the first roll
+const cbSwapped = () => `Swapped ${cb.v.swap.map(k => k.toUpperCase()).join(' and ')}`;
 const cbSave = () => { try { cb ? localStorage.setItem(CB_KEY, JSON.stringify(cb)) : localStorage.removeItem(CB_KEY); } catch {} };
 const ccEl = id => document.getElementById(id);  // kramdown's heading ids on Character Creation
 const cbBg = () => cb?.v.bg ? CB.backgrounds[cb.v.bg - 1] : null;
@@ -119,7 +119,7 @@ function cbCharacter() {
   out.omen = cb.v.omen && cb.v.omen !== 'skip' ? CB.omens[cb.v.omen - 1].text : '';
   // notes, in the order they matter; item descriptions last
   out.notes.push('Backpack (holds 6 slots of items or Fatigue).');
-  if (cb.v.swap) out.notes.push(`Swapped ${cb.v.swap.map(k => k.toUpperCase()).join(' and ')}.`);
+  if (cb.v.swap) out.notes.push(`${cbSwapped()}.`);
   for (const t of [0, 1]) { const r = cbRow(t), tb = b.tables[t]; if (!r) continue;
     if (tb.kind === 'result') out.notes.push(r.text.split(/\s(?:Take|Start with|You start with)\b/)[0].trim());
     else out.notes.push(`${plainText(r.cells[0])}: ${r.cells.slice(1).map(plainText).join(' ')}`); }
@@ -202,8 +202,8 @@ function cbWalkRender(st) {
 }
 // the source's Markdown in a card: links become their words, then bold and italics
 const mdInline = md => esc((md || '').replace(/\[([^\]]+)\]\([^)]*\)/g, '$1')).replace(/\*\*([^*]+)\*\*/g, '<b>$1</b>').replace(/(^|[^\w*])[_*]([^_*]+)[_*](?![\w*])/g, '$1<i>$2</i>');
-const RULE = {str: 'Roll 3d6 for each attribute, in order. You may swap two of them after.', dex: 'Roll 3d6 for each attribute, in order. You may swap two of them after.',
-  wil: 'Roll 3d6 for each attribute, in order. You may swap two of them after.', hp: 'Hit Protection is how well you avoid harm in a fight, not your health.',
+const ATTR_RULE = 'Roll 3d6 for each attribute, in order. You may swap two of them after.';
+const RULE = {str: ATTR_RULE, dex: ATTR_RULE, wil: ATTR_RULE, hp: 'Hit Protection is how well you avoid harm in a fight, not your health.',
   hp2: 'Your background adds a d4 to your Hit Protection.', age: 'How old your character is.'};
 // each step is a card: a header (step, name, dice, what to do) and a body built from CB, its table as clean
 // numbered rows with the roll marked. The review is the page's own section, moved in, so its ids stay single.
@@ -228,7 +228,7 @@ function cbStepCard(st) {
     + `<div class="cb-vals">${val('Gold', v && v + 'gp', !!v)}</div>`;
   else if (st.id === 't0' || st.id === 't1') body = rows(b.tables[+st.id[1]].rows.map(r => [r.n, r.cells.length > 1  // a two-column row: its first cell heads the second
     ? `<b class="cb-rh">${mdInline(r.cells[0])}</b> ${r.cells.slice(1).map(mdInline).join(' ')}` : mdInline(r.cells[0] ?? r.text)]), v);
-  else if (st.kind === 'swap') { const a = cbAttrs(); body = `<p class="cb-sc-rule">${cb.v.swap ? `Swapped ${cb.v.swap.map(k => k.toUpperCase()).join(' and ')}.` : 'Keep them as rolled, or swap two.'}</p><div class="cb-vals">${ATTR.map(([k]) => val(k.toUpperCase(), a[k], cb.v.swap?.includes(k))).join('')}</div>`; }
+  else if (st.kind === 'swap') { const a = cbAttrs(); body = `<p class="cb-sc-rule">${cb.v.swap ? `${cbSwapped()}.` : 'Keep them as rolled, or swap two.'}</p><div class="cb-vals">${ATTR.map(([k]) => val(k.toUpperCase(), a[k], cb.v.swap?.includes(k))).join('')}</div>`; }
   else if (st.id === 'age') body = `<p class="cb-sc-rule">${RULE.age}</p><div class="cb-vals">${val('Age', cbAge(), !!cbAge())}</div>` + typedIn('age', 'Or type an age', cbTyped('age'), true);
   else if (RULE[st.id]) body = `<p class="cb-sc-rule">${RULE[st.id]}</p><div class="cb-vals">${val(st.id === 'hp2' ? '+HP' : st.id.toUpperCase(), v, !!v)}</div>`;
   // armor and weapon, celebrated before the rest of the gear is listed
@@ -284,7 +284,7 @@ function cbSummary(cur) {
     }
     else if (st.id === 't0' || st.id === 't1') row(st.label, said, now);
     else if (ATTR.some(([k]) => k === st.id)) row(st.id.toUpperCase(), v ? c[st.id] : '', now);
-    else if (st.kind === 'swap') { if (cb.v.swap) row('Swap', `Swapped ${cb.v.swap.map(k => k.toUpperCase()).join(' and ')}`, now); else if (now) row('Swap', 'Keep as rolled, or swap two', now); }
+    else if (st.kind === 'swap') { if (cb.v.swap) row('Swap', cbSwapped(), now); else if (now) row('Swap', 'Keep as rolled, or swap two', now); }
     else if (st.id === 'hp') row('HP', cb.edits?.hp != null ? cb.edits.hp : v || '', now);  // Bonus HP, when it comes, rewrites this row
     else if (st.id === 'hp2') { const r = rows.findIndex(x => x.includes('<dt>HP</dt>')); if (r >= 0) rows.splice(r, 1); row('HP', cb.edits?.hp != null ? cb.edits.hp : `${cb.v.hp} + ${v || '—'}`, now); }
     else if (st.id === 'traits') CB.traits.forEach((t, i) => row(t.name, v ? c.traits[i].value : '', now));
@@ -307,7 +307,7 @@ const PSEC = {name: [38, 232, 248, 284], bg: [340, 140, 566, 192], traits: [341,
   gold: [345, 490, 585, 770], inv: [345, 490, 585, 698], notes: [34, 372, 296, 492], arms: [228, 486, 590, 702], bond: [40, 624, 266, 694], bond2: [40, 624, 266, 694], omen: [40, 684, 266, 750], review: [0, 0, 612, 792]};
 let cbSecNow = null, cbDims = [612, 792];  // the stage's sheet, in points: portrait while rolling; at the review, the one picked
 function cbStageRender(st) {
-  const c = cbCharacter() || {slots: [], petty: [], traits: [], bonds: [], notes: []}, edit = st.kind === 'review';
+  const c = cbCharacter() || NO_CHAR, edit = st.kind === 'review';
   const want = edit ? [] : (st.fill || []).map(k => { const m = k.match(/^traits\.(\d)$/); return m ? 'ptraits.' + PTRAIT_GROUPS.findIndex(g => g.includes(+m[1])) : k; });
   // the review previews the picked sheet, landscape or portrait, with the same data, editable
   const land = edit && cb.sheet === 'landscape';
@@ -376,7 +376,7 @@ const walkScroller = () => CB_NARROW.matches ? $('.cb-walk-in') : $('#cbDrawerBo
 function cbBar(say) {  // say: write the result line even while the name field has focus
   const bar = $('#cbBar'), on = !!(cb && cb.active);
   bar.hidden = !on;
-  if (on && !walk.open) { cbDiceIn(true); cbPlaceStep(); walk.showModal(); restackNotices(); cbFocusSheet(); cbDiceBounds(); }  // laid out once it's open
+  if (on && !walk.open) { cbDiceIn(true); cbPlaceStep(); walk.showModal(); restackNotices(); cbFocusSheet(); cbDiceBounds(); requestAnimationFrame(() => cbGo(true)); }  // laid out once it's open; focus on the step's heading, a resumed one too
   if (!on && walk.open) walk.close();
   if (!on) return;
   const steps = cbSteps(), st = steps[Math.min(cb.i, steps.length - 1)], v = cb.v[st.id], typed = TYPED.includes(st.id) && cbTyped(st.id), done = st.id === 'traits' ? cbTraitsIn(v) === 8 : !!v;
@@ -385,7 +385,7 @@ function cbBar(say) {  // say: write the result line even while the name field h
   $('#cbStepName').textContent = st.label;
   $('#cbDice').textContent = st.dice ? st.dice.replace(/^1d/, 'd') : '';
   $('#cbDice').hidden = !st.dice;
-  const said = st.kind === 'swap' ? (cb.v.swap ? `Swapped ${cb.v.swap.map(k => k.toUpperCase()).join(' and ')}` : 'Keep them as rolled, or swap two.')
+  const said = st.kind === 'swap' ? (cb.v.swap ? cbSwapped() : 'Keep them as rolled, or swap two.')
     : st.kind === 'review' ? '' : v === 'skip' ? 'Skipped' : typed ? `<b>${esc(typed)}</b>` : v ? `<b>${esc(st.say(v))}</b>${Array.isArray(v) ? '' : ` <span class="muted">(rolled ${v})</span>`}` : '';
   // a live region: rewriting the same result would read it again, and a name being typed is read once it's done, not per letter
   if (said !== cbSaid && (say || !document.activeElement?.dataset?.typed)) $('#cbResult').innerHTML = cbSaid = said;
@@ -576,7 +576,7 @@ function cbCard(n, c, edit, want, star = []) {
     + fields.filter(f => !f[5] || f[5] === (edit ? 'e' : 'r')).map(field).join('') + '</div>';
 }
 function cbCards(names, edit) {
-  const c = cbCharacter() || {slots: [], petty: [], traits: [], bonds: [], notes: []}, want = edit ? [] : cbSteps()[cb.i]?.fill || [];
+  const c = cbCharacter() || NO_CHAR, want = edit ? [] : cbSteps()[cb.i]?.fill || [];
   return `<div class="cb-cards">${names.map(n => cbCard(n, c, edit, want)).join('')}</div>`;
 }
 // a phone's review: the sheet as its drawer listed it, in the steps' order, every value editable through the cards' own keys

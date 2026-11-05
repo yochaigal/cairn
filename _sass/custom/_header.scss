@@ -25,12 +25,6 @@
 .cairn-search kbd { position: absolute; right: 10px; top: 50%; transform: translateY(-50%); font: 600 .75rem/1 system-ui, sans-serif; color: var(--muted); border: 1px solid var(--border-strong); border-radius: 3px; padding: 3px 5px; pointer-events: none; }
 ::placeholder { color: var(--muted); opacity: 1; }
 .cairn-search input:focus ~ kbd, .cairn-search input:not(:placeholder-shown) ~ kbd { display: none; }  /* "Ctrl K" is wider than the padding keeps clear of typed text */
-.results { position: absolute; right: 0; top: calc(100% + 6px); width: min(420px, calc(100vw - 32px)); background: var(--surface); border: 1px solid var(--border-strong); border-radius: 6px; padding: 6px; margin: 0; list-style: none; box-shadow: var(--shadow-pop); z-index: 30; }
-.results li + li { margin-top: 0; }
-.results a { display: block; padding: 8px 10px; border-radius: 4px; text-decoration: none; color: var(--text); min-height: 44px; }
-.results a:hover, .results a:focus-visible { background: var(--surface-2); color: var(--heading); }
-.results .kind { display: block; font-size: .85rem; color: var(--muted); }
-.results-empty { padding: 10px; color: var(--muted); }
 .btn-icon { min-width: 44px; min-height: 44px; display: inline-flex; align-items: center; justify-content: center; gap: 6px; padding: 0 10px; border: 1px solid transparent; border-radius: 4px; background: none; color: var(--text); font: inherit; font-size: 1rem; cursor: pointer; }
 .btn-icon:hover { background: var(--surface-2); color: var(--heading); }
 .btn-icon svg { width: 20px; height: 20px; }
