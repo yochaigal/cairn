@@ -7,7 +7,7 @@
   <button id="langBtn" type="button" aria-label="Language: English. Translations" aria-expanded="false" aria-controls="langList"><svg class="flag" viewBox="0 0 24 16" aria-hidden="true" focusable="false">{{ en.flag }}</svg></button>
   <ul id="langList" hidden>
     {%- for l in site.data.cairn_translations %}{% unless l.code == 'en' %}
-    <li><a href="{{ l.url }}" lang="{{ l.code }}" dir="{{ l.dir }}" hreflang="{{ l.code }}"><svg class="flag" viewBox="0 0 24 16" aria-hidden="true" focusable="false">{{ l.flag }}</svg>{{ l.name }}{% if l.site == false %} <small lang="en" dir="ltr">(on GitHub)</small>{% endif %}</a></li>
+    <li><a href="{{ l.url }}" lang="{{ l.code }}" hreflang="{{ l.code }}"><svg class="flag" viewBox="0 0 24 16" aria-hidden="true" focusable="false">{{ l.flag }}</svg><span dir="{{ l.dir }}">{{ l.name }}</span>{% if l.status %} <small lang="en" dir="ltr">({{ l.status }})</small>{% endif %}{% if l.site == false %} <small lang="en" dir="ltr">(on GitHub)</small>{% endif %}</a></li>
     {%- endunless %}{% endfor %}
   </ul>
 </div>

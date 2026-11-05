@@ -66,3 +66,16 @@ defaults:
       path: "assets/vendor"
     values:
       sitemap: false
+  # the First Edition SRD translations this repo publishes: their text is marked as their language (_layouts/default.html)
+  - scope:
+      path: "localization/first-edition/brazilian-portuguese.md"
+    values:
+      lang: pt-BR
+  - scope:
+      path: "localization/first-edition/russian.md"
+    values:
+      lang: ru
+  - scope:
+      path: "localization/first-edition/turkish.md"
+    values:
+      lang: tr

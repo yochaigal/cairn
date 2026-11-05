@@ -1,4 +1,4 @@
-// Ported from the redesign prototype (redesign/prototype_template.html, frozen at 261c1edb): sheets.
+// The redesign's styles: sheets.
 /* each choice is real radio buttons, drawn as one segmented control */
 /* every row of options, and the Download button, is the same width; the options in a row share it equally */
 .seg { display: flex; flex-wrap: wrap; border: 2px solid var(--accent); border-radius: 4px; overflow: hidden; }

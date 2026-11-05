@@ -21,7 +21,7 @@
   <div class="diamond-rule steps-edge" aria-hidden="true"></div>
   <div class="steps-show">
     <h2 class="sr-only" id="start-title" tabindex="-1">Start playing in three steps</h2>
-    <div class="steps-band" id="stepsBand" role="region" aria-roledescription="carousel" aria-label="Start steps" tabindex="0"><div class="steps" id="steps">
+    <div class="steps-band" id="stepsBand" role="region" aria-roledescription="carousel" aria-label="The three steps, one at a time" tabindex="0"><div class="steps" id="steps">
       {%- for st in H.steps %}
       <div class="step" role="group" aria-roledescription="slide" aria-label="{{ forloop.index }} of {{ forloop.length }}">
         {%- case forloop.index -%}
@@ -78,7 +78,7 @@
           <label><input type="radio" name="sheet-paper" value="Fillable Letter"><span>Fillable Letter</span></label>
         </div>
       </fieldset>
-      <a class="btn btn-primary sheet-download" id="sheetDownload" href="https://cairnpress.itch.io/cairn-players-guide" aria-label="Download the Landscape sheet, Letter, from itch.io">Download</a>
+      <a class="btn btn-primary sheet-download" id="sheetDownload" href="https://cairnpress.itch.io/cairn-players-guide" aria-label="Download the Landscape sheet, Letter: opens the Player's Guide on itch.io">Download</a>
     </div>
     <div class="sheets-figs">
       <figure class="sheet sheet-land">

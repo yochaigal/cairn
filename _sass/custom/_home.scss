@@ -1,4 +1,4 @@
-// Ported from the redesign prototype (redesign/prototype_template.html, frozen at 261c1edb): home.
+// The redesign's styles: home.
 :root { --hero-img: url("../redesign/players-guide-cover.jpg"); }  /* the Player's Guide cover, cropped above its title */
 /* ---------- home */
 /* hero: Player's Guide cover art behind a dark scrim */
@@ -116,3 +116,5 @@
 .blog-post p { margin: 0; font-size: 1.15rem; }
 .news-more { margin: 14px 0 0; }
 .share .actions { display: flex; gap: 12px; flex-wrap: wrap; margin-top: 8px; }
+/* Pause holds a step's figures where they are */
+.steps-show.is-paused .step * { animation-play-state: paused !important; }

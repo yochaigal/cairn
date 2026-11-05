@@ -1,4 +1,4 @@
-// Ported from the redesign prototype (redesign/prototype_template.html, frozen at 261c1edb): rules.
+// The redesign's styles: rules.
 /* ---------- rules view */
 .rules-layout { display: grid; grid-template-columns: 250px minmax(0, 1fr) 230px; gap: 40px; padding: 32px 24px 64px; width: min(1320px, 100%); margin: 0 auto; }
 /* source order is nav, "On this page", article; place them explicitly */
@@ -85,7 +85,7 @@
 .section-nav .nav-title a:hover, .section-nav .nav-title a[aria-current="page"] { color: var(--heading); text-decoration: underline; }
 table.aligned { table-layout: fixed; }  /* its <colgroup> widths, shared with the tables around it (alignTables) */
 table.aligned th, table.aligned td { overflow-wrap: break-word; }
-table.aligned tbody th { white-space: normal; }  /* its column has a set width, so a long row header (a Marketplace item) wraps */
+table.aligned thead th, table.aligned tbody th { white-space: normal; }  /* its column has a set width, so a long row header (a Marketplace item) wraps */
 /* ---------- tables, previous / next, "On this page", back to top */
 .table-wrap { overflow-x: auto; margin: 0 0 1.2em; border: 1px solid var(--border); border-radius: 6px; }
 table { border-collapse: collapse; width: 100%; font-size: 1rem; }

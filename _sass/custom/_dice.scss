@@ -1,4 +1,4 @@
-// Ported from the redesign prototype (redesign/prototype_template.html, frozen at 261c1edb): dice.
+// The redesign's styles: dice.
 /* ---------- dice roller: a pill at the header's far right opens a drawer from the right; dice-box rolls 3D dice over the page */
 .dice-pill { display: inline-flex; align-items: center; gap: 8px; min-height: 44px; padding: 0 16px 0 12px; border: 1.5px solid var(--dice); border-radius: 999px; background: none; color: var(--heading); font: inherit; font-weight: 700; cursor: pointer; white-space: nowrap; }
 .dice-pill:hover, :root:has(.dice-tray:popover-open) .dice-pill { background: color-mix(in srgb, var(--dice) 24%, transparent); }

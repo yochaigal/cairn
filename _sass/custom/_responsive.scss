@@ -1,4 +1,4 @@
-// Ported from the redesign prototype (redesign/prototype_template.html, frozen at 261c1edb): responsive rules shared by every view.
+// The redesign's styles: responsive rules shared by every view.
 /* ---------- responsive */
 @media (max-width: 1099px) {
   .sheets { grid-template-columns: minmax(0, 1fr); }

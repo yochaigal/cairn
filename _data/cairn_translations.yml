@@ -1,6 +1,6 @@
 # The Core Rules' language switcher (and the Translations tile's count). Each translation stays in its translator's
 # own repo and site; the switcher links to its Core Rules page there. `site: false` means it has no site yet, so the
-# link opens the file on GitHub. `flag` is the inside of a 24×16 SVG.
+# link opens the file on GitHub. `status` is shown after the name, in English. `flag` is the inside of a 24×16 SVG.
 
 - name: "English"
   code: en
@@ -19,7 +19,8 @@
   url: https://fi.cairnrpg.com/second-edition/players-guide/core-rules/
   repo: kari/cairn-fi
   flag: "<rect width=\"24\" height=\"16\" fill=\"#fff\"/><path fill=\"#002f6c\" d=\"M6.5 0h4v16h-4zM0 6h24v4H0z\"/>"
-- name: "Русский (beta)"
+- name: "Русский"
+  status: beta
   code: ru
   dir: ltr
   url: https://ru.cairnrpg.com/second-edition/players-guide/core-rules/
@@ -31,14 +32,16 @@
   url: https://zh.cairnrpg.com/players-guide/core-rules/
   repo: Ascll-Ray/cairn-zh
   flag: "<rect width=\"24\" height=\"16\" fill=\"#de2910\"/><g fill=\"#ffde00\"><path d=\"M4.8 2.2l.85 2.6h2.75l-2.2 1.6.85 2.6-2.25-1.6-2.2 1.6.85-2.6-2.2-1.6H4z\"/><circle cx=\"9.6\" cy=\"1.8\" r=\".6\"/><circle cx=\"10.8\" cy=\"3.6\" r=\".6\"/><circle cx=\"10.8\" cy=\"6\" r=\".6\"/><circle cx=\"9.6\" cy=\"7.8\" r=\".6\"/></g>"
-- name: "עברית (unofficial)"
+- name: "עברית"
+  status: unofficial
   code: he
   dir: rtl
   url: https://github.com/EliyahuRotenberg/cairn-he/blob/main/second-edition/players-guide/core-rules.md
   repo: EliyahuRotenberg/cairn-he
   site: false
   flag: "<rect width=\"24\" height=\"16\" fill=\"#fff\"/><path fill=\"#0038b8\" d=\"M0 1.6h24v2.2H0zm0 10.6h24v2.2H0z\"/><g fill=\"none\" stroke=\"#0038b8\" stroke-width=\".7\"><path d=\"M12 4.9l2.7 4.65H9.3z\"/><path d=\"M12 11.1l2.7-4.65H9.3z\"/></g>"
-- name: "Türkçe (unofficial)"
+- name: "Türkçe"
+  status: unofficial
   code: tr
   dir: ltr
   url: https://github.com/cuceGenco/cairn-tr/blob/main/second-edition/players-guide/core-rules.md

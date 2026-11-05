@@ -1,6 +1,10 @@
 # frozen_string_literal: true
 
+require_relative "cairn_text"
+
 require "uri"
+require "yaml"
+require "date"
 
 # The Adventures catalog, built at deploy time: every adventure in this repo's adventures/ pages and in Scrivener
 # (yochaigal/scrivener, Yochai's card catalog), one entry each, matched by name, into site.data["cairn_adventures"].
@@ -11,6 +15,7 @@ require "uri"
 # conversion), and otherwise its store page (itch.io, the Cairn store).
 module Cairn
   class Adventures < Jekyll::Generator
+    include Text
     safe true
     priority :low
 
@@ -30,10 +35,6 @@ module Cairn
     def log(msg) = Jekyll.logger.info("cairn_adventures:", msg)
     def warn(msg) = Jekyll.logger.warn("cairn_adventures:", msg)
 
-    def plain(s)
-      s.to_s.gsub(/!?\[([^\]]*)\]\([^)]+\)/, '\1').gsub(/[*_]/, "").gsub(/\\(.)/, '\1').strip
-    end
-
     def slug(s) = plain(s).downcase.gsub(/[^a-z0-9]+/, "-").gsub(/\A-|-\z/, "")
 
     def norm_name(s)
@@ -43,41 +44,17 @@ module Cairn
       s.gsub(/[^a-z0-9]+/, "")
     end
 
+    def present(v) = v.to_s.empty? ? nil : v
+
     def as_list(v) = v.is_a?(Array) ? v : (v.nil? || v == "" ? [] : [v])
 
-    # The YAML front matter Gorlab posts use: scalars (plain or quoted), `- item` lists, and `|` / `>` blocks.
-    # Front matter with no closing --- runs to the end of the file (four Scrivener posts are like that).
+    # A post's front matter, read as YAML. Front matter with no closing --- runs to the end of the file (four Scrivener
+    # posts are like that). Values come back as strings, or lists of strings, as the merge below expects.
     def front_matter(text)
-      lines = text.lines.map(&:chomp)
-      return nil if lines.empty? || lines[0].strip != "---"
-      fin = (1...lines.size).find { |i| lines[i].strip == "---" } || lines.size
-      out = {}
-      key = nil
-      i = 1
-      unq = ->(v) { v.size > 1 && v[0] == v[-1] && %w[" '].include?(v[0]) ? v[1..-2] : v }
-      while i < fin
-        line = lines[i]
-        if (m = line.match(/\A([A-Za-z][\w-]*):\s*(.*?)\s*\z/))
-          key = m[1]
-          v = m[2]
-          if %w[| > |- >-].include?(v)
-            block = []
-            i += 1
-            while i < fin && (lines[i].strip.empty? || lines[i].start_with?(" ", "\t"))
-              block << lines[i].strip
-              i += 1
-            end
-            paras = block.join("\n").strip.split(/\n\s*\n/).map { |p| v.start_with?(">") ? p.split.join(" ") : p }
-            out[key] = paras.reject(&:empty?).join("\n\n")
-            next
-          end
-          out[key] = v.empty? ? [] : unq.(v)
-        elsif line.match?(/\A\s*- /) && key && out[key].is_a?(Array)
-          out[key] << unq.(line.strip[2..].strip)
-        end
-        i += 1
-      end
-      out
+      m = text.match(/\A---\s*\n(.*?)(?:^---\s*$|\z)/m) or return nil
+      fm = YAML.safe_load(m[1], permitted_classes: [Date, Time]) || {}
+      return nil unless fm.is_a?(Hash)
+      fm.transform_values { |v| v.is_a?(Array) ? v.map(&:to_s) : (v.nil? ? nil : v.to_s) }
     end
 
     def scrivener_posts(dir)
@@ -120,10 +97,8 @@ module Cairn
           if g == "conversions"
             e["author"], e["url"], e["credit"] = credit(p.content)
           elsif e["page"]  # a module Scrivener doesn't list yet: its byline and cover from the page itself
-            by = p.content[/^An adventure module for .*? by (.+?)\s*$/i, 1]
-            img = p.content[/!\[[^\]]*\]\(([^)\s]+)\)/, 1]
-            e["author"] = by
-            e["cover"] = img
+            e["author"] = p.content[/^An adventure module for .*? by (.+?)\s*$/i, 1]
+            e["cover"] = p.content[/!\[[^\]]*\]\(([^)\s]+)\)/, 1]
           end
           e
         end
@@ -147,10 +122,9 @@ module Cairn
         tags = as_list(p["tags"]) - ["first-party"]
         as_list(p["genre"]).each { |g| tags << g.downcase unless tags.include?(g.downcase) }
         group = as_list(p["tags"]).include?("first-party") ? "first-party" : (r ? r["group"] : "originals")
-        cost = p["cost"].is_a?(String) && !p["cost"].empty? ? p["cost"] : nil
-        out << {"name" => plain(p["name"]), "group" => group, "author" => p["author"].to_s.empty? ? r&.dig("author") : p["author"],
-                "url" => p["source-url"].to_s.empty? ? r&.dig("url") : p["source-url"], "cover" => p["cover-image"].to_s.empty? ? nil : p["cover-image"],
-                "summary" => summary_paras(p["summary"]), "cost" => cost, "tags" => tags, "page" => r&.dig("page")}
+        out << {"name" => plain(p["name"]), "group" => group, "author" => present(p["author"]) || r&.dig("author"),
+                "url" => present(p["source-url"]) || r&.dig("url"), "cover" => present(p["cover-image"]),
+                "summary" => summary_paras(p["summary"]), "cost" => present(p["cost"]), "tags" => tags, "page" => r&.dig("page")}
       end
       have = out.map { |e| norm_name(e["name"]) }
       by_norm.values.flatten.each do |e|
@@ -173,7 +147,7 @@ module Cairn
       out
     end
 
-    # As the prototype: "Free" is free, any other listed price is paid (sorted by its amount), no price is "not listed"
+    # "Free" is free, any other listed price is paid (sorted by its amount), no price is "not listed"
     def priced(e)
       cost = e["cost"].to_s.strip
       free = cost.match?(/\Afree\z/i)

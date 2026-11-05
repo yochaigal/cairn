@@ -1,4 +1,4 @@
-// Ported from the redesign prototype (redesign/prototype_template.html, frozen at 261c1edb): resources view.
+// The redesign's styles: resources view.
 /* ---------- resources view */
 .field label { display: block; font-size: 1rem; color: var(--muted); margin-bottom: 4px; }
 .field input { min-height: 44px; width: min(360px, 100%); padding: 0 12px; border: 1px solid var(--border-strong); border-radius: 4px; background: var(--surface); color: var(--text); font: inherit; font-size: 1rem; }
@@ -50,3 +50,5 @@
 }
 /* a letter the filter has emptied (cairn-monsters.js) */
 .az li.empty a { color: var(--muted); opacity: .55; pointer-events: none; }
+/* a monster letter's heading, over its group */
+.letter-head { font-size: 1.45rem; margin: 1.4em 0 .4em; color: var(--muted); }

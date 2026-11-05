@@ -47,7 +47,7 @@
       let h = w.previousElementSibling;
       while (h && !/^H[2-6]$/.test(h.tagName)) h = h.previousElementSibling;  // the nearest heading above it
       const wide = w.scrollWidth > w.clientWidth + 1, kind = w.matches('.highlight') ? 'code' : 'table';
-      const name = (w.querySelector('caption') || {}).textContent || (h ? `${h.textContent.trim()}, ${kind}` : kind[0].toUpperCase() + kind.slice(1));
+      const name = w.querySelector('caption')?.textContent || (h ? `${h.textContent.trim()}, ${kind}` : kind[0].toUpperCase() + kind.slice(1));
       if (wide) { w.tabIndex = 0; w.setAttribute('role', 'region'); w.setAttribute('aria-label', name); }
       else if (!w.contains(document.activeElement) && w.matches('.table-wrapper')) { w.removeAttribute('tabindex'); w.removeAttribute('role'); w.removeAttribute('aria-label'); }
     }

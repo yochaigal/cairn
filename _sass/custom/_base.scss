@@ -1,5 +1,5 @@
-// Ported from the redesign prototype (redesign/prototype_template.html, frozen at 261c1edb): base.
-/* Cairn site redesign prototype. Palette and Alegreya are the author's (_sass/custom/custom.scss); dark only. */
+// The redesign's styles: base.
+/* Palette and Alegreya are the author's (_sass/custom/custom.scss); dark only. */
 :root {
   --bg: #26252b; --surface: #2e2d34; --surface-2: #37363e; --text: #c9d1d9; --heading: #e3e9f0; --muted: #a9b1bb;
   --accent: #f2c488; --accent-strong: #f7d6a8; --on-accent: #26252b; --border: #45444d; --border-strong: #8c8b96;
@@ -12,7 +12,6 @@
 * { box-sizing: border-box; }
 /* scroll-padding keeps anchor targets and Tab-focused controls clear of the sticky header */
 html { -webkit-text-size-adjust: 100%; scroll-padding-top: calc(var(--head, 88px) + 16px); }
-@media (prefers-reduced-motion: no-preference) { html { scroll-behavior: smooth; } }
 body { margin: 0; background: var(--bg); color: var(--text); font: 400 18px/1.6 'Alegreya', Georgia, serif; }
 a { color: var(--accent); text-underline-offset: .18em; text-decoration-thickness: 1px; }
 a:hover { color: var(--accent-strong); text-decoration-thickness: 2px; }

@@ -44,8 +44,7 @@ html { font-size: 16px !important; }
 .rules-layout > .crumbs .breadcrumb-nav { margin: 0; }
 .crumbs .breadcrumb-nav-list { list-style: none; display: flex; flex-wrap: wrap; gap: 4px; padding: 0; margin: 0; font-size: 1rem; color: var(--muted); }
 .crumbs .breadcrumb-nav-list-item { display: inline; margin: 0; font-size: 1rem; }
-.crumbs .breadcrumb-nav-list-item::after { content: none; display: none; }
-.crumbs .breadcrumb-nav-list-item::before { content: none; display: none; }
+.crumbs .breadcrumb-nav-list-item::before, .crumbs .breadcrumb-nav-list-item::after { content: none; }
 .crumbs .breadcrumb-nav-list-item + .breadcrumb-nav-list-item::before { content: '›'; display: inline; margin: 0 6px 0 0; color: var(--muted); }
 .crumbs .breadcrumb-nav-list-item a { color: var(--muted); }
 
@@ -81,7 +80,7 @@ html { font-size: 16px !important; }
 .cairn .back-top { display: inline-block; margin-top: 24px; }
 // the theme forces table cell sizes with !important
 .cairn .prose th, .cairn .prose td { font-size: 1rem !important; }
-.cairn .prose tr:nth-child(odd) td, .cairn .prose tr:nth-child(even) td { background-color: transparent; }
+.cairn .prose td { background-color: transparent; }
 // until the Dice pill is in the header, Menu takes its place at the top row's right end
 @media (max-width: 959px) { .cairn-header .wrap:not(:has(.dice-pill)) .menu-btn { margin-left: auto; } }
 // the theme lays every dl in page content out as a two-column grid with "dt:"; the builder's lists are their own
@@ -98,3 +97,12 @@ html { font-size: 16px !important; }
 .lang-picker li a { display: flex; align-items: center; gap: 10px; width: 100%; min-height: 44px; padding: 0 12px; border-radius: 4px; color: var(--text); white-space: nowrap; }
 .lang-picker li a:hover, .lang-picker li a:focus-visible { background: var(--surface-2); color: var(--heading); }
 .lang-picker li a small { color: var(--muted); }
+// the theme's .btn:focus swaps the focus ring for a faint blue shadow; the redesign's ring wins on every button
+.btn:focus { box-shadow: none; }
+.btn:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; }
+// the search result the arrow keys pick (focus stays in the input) gets a marker that isn't colour alone
+.cairn-search .search-result.active { box-shadow: inset 3px 0 0 var(--accent); outline: 2px solid var(--accent); outline-offset: -2px; }
+@media (forced-colors: active) { .cairn-search .search-result.active { outline-color: Highlight; } }
+.cairn-search .search-result-doc-parent { opacity: 1; color: var(--muted); }
+// links in running text keep an underline in their own colour, inside the page text or not (the footer)
+.cairn a:not([class]) { text-decoration-color: currentColor; }

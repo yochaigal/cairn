@@ -3,7 +3,7 @@
   that have a page here, or the ids listed in _data/cairn_featured.yml if that file exists.
 {%- endcomment -%}
 {%- assign A = site.data.cairn_adventures -%}
-{%- if A and A.size > 0 %}
+{%- if A.size > 0 %}
 {%- if site.data.cairn_featured -%}
   {%- assign picks = "" | split: "" -%}
   {%- for id in site.data.cairn_featured %}{% assign x = A | where: "id", id | first %}{% if x %}{% assign picks = picks | push: x %}{% endif %}{% endfor -%}

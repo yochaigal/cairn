@@ -2,9 +2,6 @@
 // fills the official Fillable Letter sheet (pdf-lib, loaded on first use from assets/vendor/pdf-lib/) and prints it.
 // Its data is read from Character Creation and the background pages at build time (_plugins/cairn_builder.rb) and
 // sits in the page as JSON. Rolls go through the dice (assets/js/cairn-dice.js, window.CairnDice).
-// Ported from the redesign prototype (redesign/prototype_template.html, frozen at 261c1edb). There, the page was
-// rendered in the browser; here it's the site's own HTML, so "rendering the page again" takes the builder's additions
-// off and puts them back (renderPage below).
 (() => {
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'})[c]);
@@ -12,25 +9,21 @@ const li = (...xs) => xs.map(x => `<li>${x}</li>`).join('');
 const REDUCE = matchMedia('(prefers-reduced-motion: reduce)');
 const dataEl = $('#cairnBuilderData'), PROSE = $('.rules-main .prose');
 if (!dataEl || !PROSE || !window.CairnDice) return;
-const D = {builder: JSON.parse(dataEl.textContent)};
+const CB = JSON.parse(dataEl.textContent), CB_KEY = 'cairn-builder';
 const BASE = dataEl.dataset.base, here = document.currentScript.src;
 const CARD_IMG = new URL('../redesign/builder/cards/', here).href, SHEETS = new URL('../redesign/builder/sheets/', here).href;
 const PDF_LIB = new URL('../vendor/pdf-lib/pdf-lib.min.js', here).href;
-const PAGES = Object.fromEntries(D.builder.backgrounds.map(b => [b.id, {sections: b.sections}]));
-const shown = {page: 'character-creation', code: 'en'}, view = 'rules';
 const notices = $('#notices');
 const notify = (...a) => window.CairnNotify(...a), restackNotices = () => window.CairnRestackNotices?.();
-const retitle = () => {}, scrollableTables = () => {};
 // the builder's additions to the page: the background panel, the rolled rows' highlights and the review card
 function renderPage() {
   for (const el of PROSE.querySelectorAll('#cbPanel, #cbReview, .cb-sr')) el.remove();
   for (const el of PROSE.querySelectorAll('.cb-hit')) el.classList.remove('cb-hit');
   builderDecorate();
 }
-// ---------- character builder: "Roll a Character right now!" on Character Creation (data: D.builder, from the build).
+// ---------- character builder: "Roll a Character right now!" on Character Creation (data: CB, from the build).
 // A full-screen walkthrough rolls each step with the dice (CairnDice), and Next locks the result in. The finished
 // character fills the official Fillable Letter sheet (pdf-lib, loaded on first use).
-const CB = D.builder, CB_KEY = 'cairn-builder';
 let cb = null;  // {i: step index, v: {step id: rolled total}, edits: {review field: text}, sheet, active}
 try { cb = JSON.parse(localStorage.getItem(CB_KEY)); } catch {}
 const cbSave = () => { try { cb ? localStorage.setItem(CB_KEY, JSON.stringify(cb)) : localStorage.removeItem(CB_KEY); } catch {} };
@@ -142,18 +135,16 @@ const plainText = md => (md || '').replace(/\[([^\]]+)\]\([^)]*\)/g, '$1').repla
 // ---------- on the page: the callout, the background panel, the tallies, the highlights and the review card
 function builderDecorate() {
   const prose = PROSE, callout = $('#cbCallout');
-  if (shown.page !== 'character-creation') { callout.hidden = true; cbBar(); return; }
   callout.hidden = false;
-  const en = shown.code === 'en', steps = cbSteps();
+  const steps = cbSteps();
   // one line: what it is on the left, the button on the right
-  callout.innerHTML = !en ? `<p class="cb-callout-title">Roll a Character right now! <span class="muted">(in English)</span></p><button class="btn btn-primary" type="button" data-cb="english">Start</button>`
-    : !cb ? `<p class="cb-callout-title">Roll a Character right now!</p><button class="btn btn-primary" type="button" data-cb="start">Start</button>`
+  callout.innerHTML = !cb ? `<p class="cb-callout-title">Roll a Character right now!</p><button class="btn btn-primary" type="button" data-cb="start">Start</button>`
     : `<p class="cb-callout-title">Continue your character <span class="muted">· Step ${Math.min(cb.i + 1, steps.length)} of ${steps.length}</span></p><div class="cb-callout-btns"><button class="btn btn-secondary" type="button" data-cb="reset">Start over</button><button class="btn btn-primary" type="button" data-cb="start">Continue</button></div>`;
-  if (!en || !cb) { cbBar(); return; }
+  if (!cb) { cbBar(); return; }
   const b = cbBg();
   if (b) {  // the rolled background's own names, gear and tables, so the next steps roll right here
-    const P = PAGES[b.id], strip = h => h.replace(/ id="[^"]*"/g, '').replace(/ tabindex="-1"/g, '');
-    const sec = t => (P.sections.find(s => s.title === t) || {html: ''}).html, tabs = P.sections.filter(s => s.title !== 'Names' && s.title !== 'Starting Gear');
+    const strip = h => h.replace(/ id="[^"]*"/g, '').replace(/ tabindex="-1"/g, '');
+    const sec = t => (b.sections.find(s => s.title === t) || {html: ''}).html, tabs = b.sections.filter(s => s.title !== 'Names' && s.title !== 'Starting Gear');
     const panel = `<section class="cb-panel" id="cbPanel" aria-labelledby="cb-bg-title"><h3 id="cb-bg-title" tabindex="-1">Your background: <a href="${esc(BASE + b.url.replace(/^\//, ''))}">${esc(b.name)}</a></h3>
       <blockquote><p>${esc(b.quote)}</p></blockquote>
       <h4 id="cb-names" tabindex="-1">Names</h4><ul class="cb-names" id="cb-names-list">${li(...b.names.map(esc))}</ul>
@@ -171,7 +162,6 @@ function builderDecorate() {
   // save's "landscape" was only ever the default)
   if (review && cb.active && !CB_NARROW.matches && !cb.sheetPicked) cb.sheet = 'portrait';
   if (review) prose.insertAdjacentHTML('beforeend', cbReviewHtml());
-  scrollableTables();
   if (cb.active) cbWalkRender(steps[Math.min(cb.i, steps.length - 1)]);
   cbFitText();
   cbBar();
@@ -179,7 +169,7 @@ function builderDecorate() {
 }
 
 // ---------- the walkthrough: a full-screen dialog over the vines, one step at a time, with the step in a drawer.
-// Each step is a card built from D.builder; only the review is the page's own section, moved in so its ids stay single.
+// Each step is a card built from CB; only the review is the page's own section, moved in so its ids stay single.
 // Every refresh rebuilds the page from scratch.
 const walk = $('#cbWalk'), walkMain = $('#cbWalkMain'), walkStep = $('#cbWalkStep');
 // the first start: the whole sheet while the vines grow, then (when they finish) the zoom to Background and the drawer
@@ -215,7 +205,7 @@ const mdInline = md => esc((md || '').replace(/\[([^\]]+)\]\([^)]*\)/g, '$1')).r
 const RULE = {str: 'Roll 3d6 for each attribute, in order. You may swap two of them after.', dex: 'Roll 3d6 for each attribute, in order. You may swap two of them after.',
   wil: 'Roll 3d6 for each attribute, in order. You may swap two of them after.', hp: 'Hit Protection is how well you avoid harm in a fight, not your health.',
   hp2: 'Your background adds a d4 to your Hit Protection.', age: 'How old your character is.'};
-// each step is a card: a header (step, name, dice, what to do) and a body built from D.builder, its table as clean
+// each step is a card: a header (step, name, dice, what to do) and a body built from CB, its table as clean
 // numbered rows with the roll marked. The review is the page's own section, moved in, so its ids stay single.
 // the step's dice read as pills inside its tip ("Roll a d6 …"); a tip that never names them ends with one
 const DICE_IN_TEXT = /\b\d*d\d+(?:\+\d+)?\b/g;
@@ -375,7 +365,7 @@ walk.addEventListener('close', () => {
   cbEndIntro(true); cbEndEnter(); cbSheetShow(false); walk.classList.remove('cb-grow'); cbDiceIn(false); cbDiceBounds(); CairnDice.clear();
   if (!cb?.active) return;
   cb.active = false; cbSave();
-  if (view === 'rules' && shown.page === 'character-creation') { cbRefresh(); $('#cbCallout [data-cb="start"]')?.focus(); }
+  cbRefresh(); $('#cbCallout [data-cb="start"]')?.focus();
 });
 // on a phone the controls are a footer fixed to the bottom; the walkthrough keeps that much room free under the step
 const cbBarRoom = () => { walk.style.setProperty('--bar-h', $('#cbBar').offsetHeight + 'px'); walk.style.setProperty('--head-h', $('#cbDrawerHead').offsetHeight + 'px'); };
@@ -384,7 +374,7 @@ const walkScroller = () => CB_NARROW.matches ? $('.cb-walk-in') : $('#cbDrawerBo
 
 // ---------- the bar
 function cbBar(say) {  // say: write the result line even while the name field has focus
-  const bar = $('#cbBar'), on = !!(cb && cb.active && view === 'rules' && shown.page === 'character-creation' && shown.code === 'en');
+  const bar = $('#cbBar'), on = !!(cb && cb.active);
   bar.hidden = !on;
   if (on && !walk.open) { cbDiceIn(true); cbPlaceStep(); walk.showModal(); restackNotices(); cbFocusSheet(); cbDiceBounds(); }  // laid out once it's open
   if (!on && walk.open) walk.close();
@@ -430,8 +420,10 @@ function cbGo(focus) {  // a new step starts at its top, with focus on its headi
   if (focus && h) { if (!h.hasAttribute('tabindex')) h.tabIndex = -1; h.focus({preventScroll: true}); }
 }
 // the page and the step are rebuilt; the step's own scroll stays where it was (Roll again, Swap)
-function cbRefresh() { const y = scrollY, sc = walkScroller(), t = sc.scrollTop; walkStep.textContent = ''; renderPage('character-creation', 'en'); scrollTo({top: y, behavior: 'instant'}); sc.scrollTop = t; }
+function cbRefresh() { const y = scrollY, sc = walkScroller(), t = sc.scrollTop; walkStep.textContent = ''; renderPage(); scrollTo({top: y, behavior: 'instant'}); sc.scrollTop = t; }
 let cbBusy = false, cbSaid = null;
+// a dice status while the walkthrough holds the dice ("Loading dice…") is said in the builder's own result line
+window.CairnBuilderStatus = text => { $('#cbResult').textContent = text; cbSaid = null; };
 async function cbRollStep() {
   if (cbBusy) return;
   const st = cbSteps()[cb.i]; if (!st || !st.dice) return;
@@ -482,9 +474,8 @@ function cbMove(d) {
 document.addEventListener('click', e => {
   const c = e.target.closest('[data-cb]');
   if (c) {
-    if (c.dataset.cb === 'english') { renderPage('character-creation', 'en'); retitle(); history.replaceState(null, '', '#character-creation'); }
     if (c.dataset.cb === 'reset' && confirm('Start a new character? This one will be cleared.')) { cb = null; cbSave(); cbRefresh(); $('#cbCallout button')?.focus(); }  // the walkthrough closed with it
-    if (c.dataset.cb === 'start' || c.dataset.cb === 'english') { cb = cb || {i: 0, v: {}, edits: {}, sheet: 'landscape'}; cb.active = true; cbSave(); cbRefresh(); cbGo(true); }
+    if (c.dataset.cb === 'start') { cb = cb || {i: 0, v: {}, edits: {}, sheet: 'landscape'}; cb.active = true; cbSave(); cbRefresh(); cbGo(true); }
   }
   const sw = e.target.closest('[data-swap]');
   if (sw) { const p = sw.dataset.swap.split(','); cb.v.swap = String(cb.v.swap) === String(p) ? null : p; cbSave(); cbRefresh();

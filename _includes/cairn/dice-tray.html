@@ -21,7 +21,7 @@
     </div>
   </div>
   <footer class="dice-foot" id="diceFoot">
-    <div class="dice-poolrow"><p class="dice-pool" id="dicePool" role="status"></p><button class="dice-linkbtn" id="dicePoolClear" type="button" hidden>Clear</button></div>
+    <div class="dice-poolrow"><p class="dice-pool" id="dicePool" role="status"></p><button class="dice-linkbtn" id="dicePoolClear" type="button" aria-label="Clear the dice pool" hidden>Clear</button></div>
     <ul class="dice-grid" id="diceGrid"></ul>
     <p class="dice-err" id="diceExprErr" role="alert" hidden></p>
     <form class="dice-compose" id="diceType" novalidate><label class="sr-only" for="diceExpr">Type a roll</label>
@@ -30,7 +30,7 @@
   </footer>
 </section>
 <div role="status"><button class="dice-toast" id="diceToast" type="button" aria-describedby="diceToastHint" hidden></button></div>
-<span class="sr-only" id="diceToastHint">Opens the dice drawer</span>
+<span id="diceToastHint" hidden>Opens the dice drawer</span>
 <div class="notices" id="notices" popover="manual"></div>
 <p class="sr-only" id="noticeSay" role="status"></p>
 <p class="sr-only" id="noticeAlert" role="alert"></p>

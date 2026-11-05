@@ -1,5 +1,7 @@
 # frozen_string_literal: true
 
+require_relative "cairn_text"
+
 require "json"
 
 # The character builder's data ("Roll a Character right now!" on Character Creation), read at build time from
@@ -12,6 +14,7 @@ require "json"
 # the builder is left off Character Creation; the site still builds.
 module Cairn
   class Builder < Jekyll::Generator
+    include Text
     safe true
     priority :low
 
@@ -21,7 +24,7 @@ module Cairn
     NOT_ITEMS = ["war", "falconry", "recharge", "fatigue", "critical damage", "gate", "lord of winter", "dawn brigade", "moss witch",
                  "single item", "specialty", "omens", "bonds", "str", "dex", "wil", "hp", "deprived", "panicked", "oak lord", "oak lord's",
                  "warden", "armor", "gold", "gp", "lead", "fake", "enthralled"].freeze
-    TAG = /\(([^()]*)\)/.freeze
+    TAG = /\(([^()]*)\)/
 
     class Shape < StandardError; end
 
@@ -44,10 +47,6 @@ module Cairn
     def body(rel)
       page = @pages[rel] or raise Shape, "#{rel} is missing"
       page.content
-    end
-
-    def plain(s)
-      s.to_s.gsub(/!?\[([^\]]*)\]\([^)]+\)/, '\1').gsub(/[*_]/, "").gsub(/\\(.)/, '\1').strip
     end
 
     def table_rows(lines)

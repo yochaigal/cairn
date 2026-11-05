@@ -3,11 +3,11 @@
 // in the sidebar (it adds .active to the link and to each enclosing .nav-list-item).
 (() => {
   const $ = s => document.querySelector(s);
-  const esc = s => s.replace(/[&<>"]/g, c => ({'&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;'})[c]);
+  const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'})[c]);
   const PHONE = matchMedia('(max-width: 759px)');
 
   // a small menu behind a button (the ⋯ page actions, the language list): arrows move, Escape closes, a click outside closes
-  window.cairnMenu = function menu(wrap, btn, list, sel, pick) {
+  function menu(wrap, btn, list, sel) {
     const items = () => [...list.querySelectorAll(sel)].filter(x => !x.closest('[hidden]'));
     const setOpen = (open, focus) => {
       btn.setAttribute('aria-expanded', String(open)); list.hidden = !open;
@@ -29,11 +29,11 @@
     list.addEventListener('click', e => {
       const x = e.target.closest(sel);
       if (!x || x.getAttribute('aria-disabled') === 'true') return;
-      if (pick) { setOpen(false, true); pick(x); } else setOpen(false);
+      setOpen(false);
     });
     wrap.addEventListener('focusout', e => { if (!wrap.contains(e.relatedTarget)) setOpen(false); });
     document.addEventListener('click', e => { if (!wrap.contains(e.target)) setOpen(false); });
-  };
+  }
 
   // ---------- header menus: Escape dismisses a list (a hovered one until the pointer leaves, a focused one until focus leaves its item)
   function headerMenus() {
@@ -52,30 +52,88 @@
     });
   }
 
-  // ---------- the Menu drawer (narrow screens). Just the Docs' script toggles .nav-open on the header, the button and the
-  // sidebar; this moves focus in, and closes it on Escape, on following a link, or when focus moves on past it.
+  // ---------- the Menu drawer (narrow screens). On pages with the sidebar, Just the Docs' script toggles .nav-open on the
+  // header, the button and the sidebar; the full-width pages have no sidebar, and the theme then leaves the button
+  // alone, so it's toggled here. This moves focus in, and closes it on Escape, on following a link, on a click outside,
+  // or when focus moves on past it. While it's open the breadcrumbs (under it, between the header and the sidebar in
+  // the page) are inert, so Tab goes from the header straight into the sidebar.
   function drawer() {
-    const header = $('#main-header'), btn = $('#menu-button'), siteNav = $('#site-nav');
+    const header = $('#main-header'), btn = $('#menu-button'), siteNav = $('#site-nav'), crumbs = $('.rules-layout > .crumbs');
     if (!header || !btn) return;
+    if (!siteNav) {
+      btn.setAttribute('aria-controls', 'primaryNav');
+      btn.addEventListener('click', () => {
+        const open = btn.classList.toggle('nav-open');
+        header.classList.toggle('nav-open', open);
+        btn.setAttribute('aria-expanded', String(open));
+      });
+    }
+    const inside = el => header.contains(el) || !!siteNav?.contains(el);
+    if (crumbs) new MutationObserver(() => { crumbs.inert = btn.classList.contains('nav-open'); }).observe(btn, {attributes: true, attributeFilter: ['class']});
     const close = returnFocus => {
       if (!btn.classList.contains('nav-open')) return;
       btn.click();
       if (returnFocus) btn.focus();
     };
     btn.addEventListener('click', () => { if (btn.classList.contains('nav-open')) $('#primaryNav a')?.focus(); });
-    document.addEventListener('keydown', e => { if (e.key === 'Escape' && !e.target.closest?.('.cairn-search')) close(true); });
+    // Escape in search clears it first (the theme's); once there's nothing to clear, it closes the drawer
+    document.addEventListener('keydown', e => {
+      if (e.key !== 'Escape') return;
+      if (e.target.closest?.('.cairn-search') && (e.target.value || document.documentElement.classList.contains('search-active'))) return;
+      close(true);
+    });
     for (const el of [header, siteNav]) {
       if (!el) continue;
       el.addEventListener('click', e => { if (e.target.closest('a') && !e.target.closest('.nav-list-expander')) close(); });
-      el.addEventListener('focusout', e => {
-        if (e.relatedTarget && !header.contains(e.relatedTarget) && !siteNav?.contains(e.relatedTarget)) close();
-      });
+      el.addEventListener('focusout', e => { if (e.relatedTarget && !inside(e.relatedTarget)) close(); });
     }
+    document.addEventListener('click', e => { if (!inside(e.target)) close(); });
+    // the theme's Ctrl/⌘+K also opens the header as a drawer on narrow screens; the shortcut only focuses search here
+    // (after the theme's own handler, which runs later in the same keydown)
+    document.addEventListener('keydown', e => {
+      if ((e.ctrlKey || e.metaKey) && e.key === 'k') setTimeout(() => { if (!btn.classList.contains('nav-open')) header.classList.remove('nav-open'); });
+    });
   }
+
+  // ---------- search: the theme writes its results into #search-results; this says how many there are, and exposes the
+  // result the arrow keys pick (the theme marks it .active and opens it on Enter) as the input's active option
+  function searchStatus() {
+    const input = $('#search-input'), results = $('#search-results'), say = $('#search-status');
+    if (!input || !results || !say) return;
+    input.setAttribute('role', 'combobox');
+    input.setAttribute('aria-autocomplete', 'list');
+    input.setAttribute('aria-expanded', 'false');
+    let timer = 0;
+    new MutationObserver(() => {
+      const list = results.querySelector('.search-results-list'), items = list ? [...list.querySelectorAll('.search-result')] : [];
+      if (list) { list.id = 'search-results-list'; list.setAttribute('role', 'listbox'); input.setAttribute('aria-controls', list.id); }
+      for (const li of results.querySelectorAll('.search-results-list-item')) li.setAttribute('role', 'none');
+      for (const [i, a] of items.entries()) { a.id ||= `search-result-${i}`; a.setAttribute('role', 'option'); a.setAttribute('aria-selected', String(a.classList.contains('active'))); }
+      const active = items.find(a => a.classList.contains('active'));
+      if (active) { input.setAttribute('aria-activedescendant', active.id); active.scrollIntoView({block: 'nearest'}); } else input.removeAttribute('aria-activedescendant');
+      expanded();
+      const text = !input.value.trim() ? '' : items.length ? `${items.length} result${items.length === 1 ? '' : 's'}` : results.textContent.trim() ? 'No results found' : '';
+      clearTimeout(timer);
+      timer = setTimeout(() => { if (say.textContent !== text) say.textContent = text; }, 500);  // once typing pauses
+    }).observe(results, {childList: true, subtree: true, attributes: true, attributeFilter: ['class']});
+    // open only while the theme shows the results
+    const expanded = () => {
+      const open = document.documentElement.classList.contains('search-active') && !!results.querySelector('.search-result');
+      input.setAttribute('aria-expanded', String(open));
+      if (!open) input.removeAttribute('aria-activedescendant');
+    };
+    new MutationObserver(expanded).observe(document.documentElement, {attributes: true, attributeFilter: ['class']});
+  }
+
+  // an adventure cover that doesn't load (offline, or gone) becomes a panel with the adventure's name
+  document.addEventListener('error', ev => {
+    const img = ev.target;
+    if (img.matches?.('img.adv-cover')) { img.closest('.adv-art').classList.add('no-cover'); img.remove(); }
+  }, true);
 
   // ---------- the sidebar shows only the current top-level section (Second Edition, Resources, Hacks...)
   // Just the Docs renders the whole site's nav once for every page, so the scoping happens here. Without JavaScript the
-  // whole nav shows, as before.
+  // whole nav shows.
   function sectionNav() {
     const siteNav = $('#site-nav');
     if (!siteNav) return null;
@@ -117,8 +175,8 @@
       row.className = 'title-row';
       h1.before(row); row.append(h1, actions);
     }
-    cairnMenu(actions.querySelector('.page-actions'), $('#actionsBtn'), $('#actionsList'), 'a');
-    if ($('#langPicker')) cairnMenu($('#langPicker'), $('#langBtn'), $('#langList'), 'a');
+    menu(actions.querySelector('.page-actions'), $('#actionsBtn'), $('#actionsList'), 'a');
+    if ($('#langPicker')) menu($('#langPicker'), $('#langBtn'), $('#langList'), 'a');
   }
 
   // ---------- "On this page": the page's H2s and H3s (not the children list Just the Docs adds after the text)
@@ -160,7 +218,7 @@
   }
 
   document.addEventListener('DOMContentLoaded', () => {
-    headerMenus(); drawer(); searchKey(); headHeight();
+    headerMenus(); drawer(); searchKey(); searchStatus(); headHeight();
     const top = sectionNav();
     titleRow(); onThisPage(); pager(top);
   });

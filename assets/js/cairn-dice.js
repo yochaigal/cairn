@@ -2,15 +2,13 @@
 // assets/vendor/dice-box/). Dice in the text roll themselves, and in a roll table the row a roll lands on is marked.
 // Other scripts (the character builder) roll through the same API:
 //   await CairnDice.roll('3d6', {label: 'Strength'})
-// Ported from the redesign prototype (redesign/prototype_template.html, frozen at 261c1edb).
 (() => {
 const $ = s => document.querySelector(s);
 const esc = s => String(s).replace(/[&<>"']/g, c => ({'&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'})[c]);
 const REDUCE = matchMedia('(prefers-reduced-motion: reduce)');
 if (!$('#diceTray')) return;
 const header = $('#main-header');
-// ---------- notices: notify('Roll history cleared.') or notify(message, {kind: 'error'}). Above the builder code, which
-// can resume on load and move them
+// ---------- notices: notify('Roll history cleared.') or notify(message, {kind: 'error'})
 const notices = $('#notices'), NOTICE_MS = 5000, NOTICE_MAX = 3, NOTICE_ICON = {success: '✓', error: '!', info: 'i'};
 const liveNotices = () => [...notices.querySelectorAll('.notice:not(.is-leaving)')];
 // re-showing a manual popover puts it back on top, over a drawer or modal opened since; hiding it drops focus, so it's put back
@@ -294,7 +292,7 @@ $('#diceType').addEventListener('submit', e => {
   if (bad) { field.focus(); return; }
   field.value = ''; renderPool(); rollHere(x, {highest: true});
 });
-field.addEventListener('input', () => { field.removeAttribute('aria-invalid'); $('#diceExprErr').hidden = true; renderPool(); });
+field.addEventListener('input', () => { const err = $('#diceExprErr'); field.removeAttribute('aria-invalid'); err.hidden = true; err.textContent = ''; renderPool(); });
 $('#dicePoolClear').addEventListener('click', () => { for (const n of SIDES) pool.set(n, 0); edit(null); renderPool(); clearTable(); hideToast(); tray.querySelector('.die-add').focus(); });
 toast.addEventListener('click', () => { focusOnOpen = true; tray.showPopover(); saveOpen(); });
 // the gear swaps the history for Settings, and Back (the same button) swaps it back
@@ -335,7 +333,9 @@ addEventListener('resize', () => { if (isOpen() || !toast.hidden) place(); });
 // its close button and Escape, returning focus to the pill. It stays open from page to page, and from visit to visit
 let focusOnOpen = false;
 const saveOpen = () => store(OPEN_KEY, isOpen() ? '1' : null);  // only on the reader's own open and close, never a move
-function collapse() { setView('rolls'); tray.hidePopover(); saveOpen(); $('#diceBtn').focus(); }
+// focus goes back to what opened it: a die in the text, or the Dice pill
+let opener = null;
+function collapse() { setView('rolls'); tray.hidePopover(); saveOpen(); (opener?.isConnected ? opener : $('#diceBtn')).focus(); opener = null; }
 $('#diceBtn').addEventListener('click', () => { focusOnOpen = !isOpen(); setTimeout(saveOpen); });  // the pill's own toggle runs after this
 $('#diceCollapse').addEventListener('click', collapse);
 tray.addEventListener('beforetoggle', e => {  // before it's shown, so it never paints unplaced
@@ -344,6 +344,7 @@ tray.addEventListener('beforetoggle', e => {  // before it's shown, so it never 
   if (use3d()) loadBox();
 });
 tray.addEventListener('toggle', e => {
+  if (e.newState !== 'open') setTimeout(() => { opener = null; });  // after collapse() has used it
   if (e.newState === 'open') { toEnd(false); if (focusOnOpen) tray.querySelector('.die-add').focus(); focusOnOpen = false; restackNotices(); }  // notices still up go back above it
   else { edit(null); setView('rolls'); if (!walking() && document.activeElement === document.body) pill().focus(); }
   if (box && !walking()) dispatchEvent(new Event('resize'));  // the dice table narrows and widens with the drawer
@@ -373,6 +374,8 @@ const headingBefore = el => {
     }
   return '';
 };
+// a cell's own text, without the builder's hidden "Your roll:" prefix
+const cellText = c => [...c.childNodes].filter(x => !x.classList?.contains('sr-only')).map(x => x.textContent).join('');
 // "1", "1-3", "1–3", "5+" or, on a d100, "96-00"
 const keyHas = (key, n) => {
   const k = key.replace(/\s+/g, '').replace(/[–—]/g, '-'), num = x => x === '00' ? 100 : +x;
@@ -393,7 +396,7 @@ for (const t of document.querySelectorAll('.prose table')) {
   const m = t.tHead?.rows[0]?.cells[0]?.textContent.trim().toLowerCase().match(/^1?d(\d+)$/);
   if (m && SIDES.includes(+m[1])) t.dataset.die = 'd' + m[1];
 }
-for (const a of document.querySelectorAll('a.dice-tray-roll')) { a.setAttribute('role', 'button'); a.dataset.roll = (a.dataset.dice || a.textContent).replace(/\s+/g, '').toLowerCase(); }
+for (const a of document.querySelectorAll('a.dice-tray-roll')) { a.setAttribute('role', 'button'); a.setAttribute('aria-label', `Roll ${a.textContent.trim()}`); a.dataset.roll = (a.dataset.dice || a.textContent).replace(/\s+/g, '').toLowerCase(); }
 document.addEventListener('keydown', e => { if (e.key === ' ' && e.target.matches?.('a.dice-tray-roll')) { e.preventDefault(); e.target.click(); } });
 document.addEventListener('click', e => {
   const btn = e.target.closest('a.dice-tray-roll, button.roll');
@@ -403,15 +406,15 @@ document.addEventListener('click', e => {
   // "2-in-6": roll the die; it succeeds on that number or under
   const chance = btn.dataset.roll.match(/^(\d+)-in-(\d+)$/);
   if (chance) {
-    if (!isOpen() && !(use3d() && narrow())) tray.showPopover();
+    if (!isOpen() && !(use3d() && narrow())) { opener = btn; tray.showPopover(); }
     const [, k, n] = chance;
     roll('d' + n, {label: [headingBefore(btn), btn.dataset.roll].filter(Boolean).join(' · '), show3d: use3d(), detail: v => v <= +k ? 'Success' : 'Failure'})
       .catch(err => showStatus(err.message));
     return;
   }
   const table = btn.closest('table'), inHead = table?.dataset.die && btn.closest('thead') && btn.dataset.roll.replace(/^1d/, 'd') === table.dataset.die;
-  const rowOf = n => inHead ? [...table.tBodies[0].rows].find(tr => keyHas(tr.cells[0].textContent, n)) : null;
-  if (!isOpen() && !(use3d() && narrow())) tray.showPopover();  // on a phone, 3D dice and the result card show instead
+  const rowOf = n => inHead ? [...table.tBodies[0].rows].find(tr => keyHas(cellText(tr.cells[0]), n)) : null;
+  if (!isOpen() && !(use3d() && narrow())) { opener = btn; tray.showPopover(); }  // on a phone, 3D dice and the result card show instead
   roll(btn.dataset.roll, {label: rollLabel(btn, table, inHead), show3d: use3d(), highest: true,
     detail: inHead && (n => { const tr = rowOf(n); return tr ? [...tr.cells].slice(1).map(c => c.textContent.trim()).join(' · ').slice(0, 160) : ''; })})
     .then(r => {

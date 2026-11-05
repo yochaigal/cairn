@@ -1,13 +1,15 @@
 # frozen_string_literal: true
 
+require_relative "cairn_text"
+
 # The home page's text and counts, read from the site's own Markdown at build time, so they follow the pages:
 #   site.data["cairn_home"]["hero"]   the first two sentences of README.md's first paragraph
 #   site.data["cairn_home"]["share"]  the first sentence of its second and third paragraphs
 #   site.data["cairn_home"]["steps"]  the three "Start playing" pages, with the H2 headings each one covers
-#   site.data["cairn_home"]["counts"] how many monsters, backgrounds, hacks and First Edition pages there are
 # If a page moves or loses its text, that piece is left out and the build logs a warning; it never fails.
 module Cairn
   class HomeData < Jekyll::Generator
+    include Text
     safe true
     priority :low
 
@@ -33,12 +35,6 @@ module Cairn
         "hero" => paras[0] && sentences(paras[0], 2),
         "share" => [paras[1], paras[2]].compact.map { |p| sentences(p, 1) },
         "steps" => steps,
-        "counts" => {
-          "monsters" => children(site, "Monsters"),
-          "backgrounds" => children(site, "Backgrounds"),
-          "hacks" => children(site, "Hacks"),
-          "first_edition" => children(site, "First Edition"),
-        },
       }
     end
 
@@ -47,15 +43,6 @@ module Cairn
     def warn(msg)
       Jekyll.logger.warn("cairn_home:", msg)
       nil
-    end
-
-    def children(site, parent)
-      site.pages.count { |p| p.data["parent"] == parent }
-    end
-
-    # Markdown with links, emphasis and escapes taken out
-    def plain(s)
-      s.gsub(/!?\[([^\]]*)\]\([^)]+\)/, '\1').gsub(/[*_]/, "").gsub(/\\(.)/, '\1').strip
     end
 
     # prose paragraphs, skipping headings, lists, tables, quotes and HTML

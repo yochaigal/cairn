@@ -10,7 +10,7 @@ module Cairn
     safe true
     priority :low
 
-    STAT = /\A((?:\s*\d+\s+(?:HP|Armor|STR|DEX|WIL)\s*(?:,|\z))+)\s*(.*)\z/.freeze
+    STAT = /\A((?:\s*\d+\s+(?:HP|Armor|STR|DEX|WIL)\s*(?:,|\z))+)\s*(.*)\z/
 
     def generate(site)
       pages = site.pages.select { |p| p.path.start_with?("resources/monsters/") && p.data["parent"] == "Monsters" }

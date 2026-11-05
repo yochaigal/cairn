@@ -5,8 +5,8 @@
 
   // the two switches pick a file; the Download button says which one (it opens the Player's Guide on itch.io)
   const sheetPick = () => {
-    const v = n => document.querySelector(`input[name="${n}"]:checked`).value;
-    $('#sheetDownload')?.setAttribute('aria-label', `Download the ${v('sheet-layout')} sheet, ${v('sheet-paper')}, from itch.io`);
+    const v = n => $(`input[name="${n}"]:checked`).value;
+    $('#sheetDownload')?.setAttribute('aria-label', `Download the ${v('sheet-layout')} sheet, ${v('sheet-paper')}: opens the Player's Guide on itch.io`);
   };
   document.querySelectorAll('.sheet-pick input').forEach(r => r.addEventListener('change', sheetPick));
 
@@ -33,7 +33,7 @@
   const play = i => { if (REDUCE.matches || !moves(i)) return; const s = stepAt(i); s.classList.remove('is-animating'); void s.offsetWidth; s.classList.add('is-animating'); };
   // how long a step stays before the next: a step that moves waits for its animation to finish first
   const dwell = () => moves(target) && !REDUCE.matches ? ANIM + EVERY : EVERY;
-  const label = () => { pauseBtn.textContent = paused ? 'Play' : 'Pause'; pauseBtn.setAttribute('aria-label', paused ? 'Play the steps slideshow' : 'Pause the steps slideshow'); };
+  const label = () => { show.classList.toggle('is-paused', paused); pauseBtn.textContent = paused ? 'Play' : 'Pause'; pauseBtn.setAttribute('aria-label', paused ? 'Play the steps slideshow' : 'Pause the steps slideshow'); };
   // hover and focus are read when the timer fires, so they hold it however they came about
   const held = () => paused || !seen || document.hidden || show.matches(':hover, :focus-within');
   const arm = () => { clearTimeout(timer); if (!paused && seen && !document.hidden) timer = setTimeout(() => { if (!held()) go(at() + 1); arm(); }, dwell()); };
@@ -54,15 +54,9 @@
   document.addEventListener('visibilitychange', arm);
   new IntersectionObserver(([e]) => {
     seen = e.isIntersecting;
-    if (seen && !played) { played = true; shown = at(); play(shown); }
+    if (seen && !played && !paused) { played = true; shown = at(); play(shown); }
     arm();
   }, {threshold: .5}).observe(show);
   REDUCE.addEventListener('change', () => { if (REDUCE.matches) { paused = true; label(); arm(); } });
   label(); arm();
 })();
-
-// a cover that doesn't load (offline, or gone) becomes a panel with the adventure's name
-document.addEventListener('error', ev => {
-  const img = ev.target;
-  if (img.matches?.('img.adv-cover')) { img.closest('.adv-art').classList.add('no-cover'); img.remove(); }
-}, true);

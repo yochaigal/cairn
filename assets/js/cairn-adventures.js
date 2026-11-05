@@ -31,7 +31,8 @@
     for (const c of cards) c.el.hidden = !on.has(c);
     list.append(...hits.map(c => c.el));  // the order; hidden cards stay where they are at the end
     const text = hits.length ? `${hits.length} adventure${hits.length === 1 ? '' : 's'}` : 'No adventures match. Try fewer filters.';
-    clearTimeout(say); say = setTimeout(() => { $('#advCount').textContent = text; }, q ? 500 : 0);
+    const el = $('#advCount'), write = () => { if (el.textContent !== text) el.textContent = text; };
+    clearTimeout(say); if (q) say = setTimeout(write, 500); else write();
     const qs = query();
     history.replaceState(null, '', location.pathname + (qs ? '?' + qs : '') + location.hash);
   }
@@ -40,9 +41,3 @@
   addEventListener('popstate', () => { fromQuery(); render(); });
   fromQuery(); render();
 })();
-
-// a cover that doesn't load (offline, or gone) becomes a panel with the adventure's name
-document.addEventListener('error', ev => {
-  const img = ev.target;
-  if (img.matches?.('img.adv-cover')) { img.closest('.adv-art').classList.add('no-cover'); img.remove(); }
-}, true);

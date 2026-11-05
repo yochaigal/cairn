@@ -1,4 +1,4 @@
-// Ported from the redesign prototype (redesign/prototype_template.html, frozen at 261c1edb): adventures.
+// The redesign's styles: adventures.
 /* adventures: the catalog's cards (also the home page's row), its filters, and an adventure's own view */
 .adv-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 20px; list-style: none; margin: 0; padding: 0; }
 .adv-card { margin: 0; min-width: 0; }
