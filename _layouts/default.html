@@ -86,6 +86,9 @@ layout: table_wrappers
 
   {% include cairn/footer.html %}
   {% include cairn/dice-tray.html %}
+  {%- if page.path == 'second-edition/players-guide/character-creation.md' and site.data.cairn_builder %}
+  {% include cairn/builder.html %}
+  {%- endif %}
 
   {%- if site.search_enabled != false %}
   <div class="search-overlay"></div>

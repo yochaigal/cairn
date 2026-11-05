@@ -426,5 +426,6 @@ renderHistory();
 reopen();
 
 window.CairnNotify = notify;
+window.CairnRestackNotices = restackNotices;
 window.CairnDice = Object.freeze({roll, clear: ({fade = false} = {}) => clearTable(fade), open: () => isOpen() || tray.showPopover(), close: () => isOpen() && tray.hidePopover(), get history() { return rolls.slice(); }});
 })();

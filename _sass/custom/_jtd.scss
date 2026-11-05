@@ -84,3 +84,10 @@ html { font-size: 16px !important; }
 .cairn .prose tr:nth-child(odd) td, .cairn .prose tr:nth-child(even) td { background-color: transparent; }
 // until the Dice pill is in the header, Menu takes its place at the top row's right end
 @media (max-width: 959px) { .cairn-header .wrap:not(:has(.dice-pill)) .menu-btn { margin-left: auto; } }
+// the theme lays every dl in page content out as a two-column grid with "dt:"; the builder's lists are their own
+.cairn .main-content .cb-sum { display: block; }
+.cairn .main-content .cb-sum dt, .cairn .main-content .cb-sum dd { grid-column: auto; text-align: start; font-weight: inherit; }
+.cairn .main-content .cb-sum dt::after { content: none; }
+.cairn .main-content .cb-sum dd { margin: 2px 0 0; }
+// on phones "On this page" sits in the text under the title (cairn-nav.js), not in its own sticky column
+@media (max-width: 759px) { .rules-main .prose > .toc { position: static; max-height: none; overflow: visible; margin: 0 0 24px; } }

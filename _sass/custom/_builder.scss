@@ -122,7 +122,7 @@ li.cb-hit { border-radius: 999px; }
     radial-gradient(40% var(--v4) at 60% 100%, #000 70%, transparent),
     radial-gradient(40% var(--v5) at 80% 100%, #000 70%, transparent),
     radial-gradient(40% var(--v6) at 100% 100%, #000 70%, transparent); }
-.cb-walk-vines::before { content: ''; position: absolute; inset: 0; background: #8f8370; opacity: .85; mask: url(__VINES__) 0 0 / 260px repeat; }
+.cb-walk-vines::before { content: ''; position: absolute; inset: 0; background: #8f8370; opacity: .85; mask: url("../redesign/builder/vines.png") 0 0 / 260px repeat; }
 @media (prefers-reduced-motion: no-preference) {
   .cb-walk.cb-grow .cb-walk-vines { animation: cb-v1 4.6s cubic-bezier(.4, .2, .6, .9) 0s both, cb-v2 4.4s cubic-bezier(.4, .2, .6, .9) .4s both, cb-v3 4.8s cubic-bezier(.4, .2, .6, .9) .15s both, cb-v4 4.45s cubic-bezier(.4, .2, .6, .9) .55s both, cb-v5 4.6s cubic-bezier(.4, .2, .6, .9) .25s both, cb-v6 4.9s cubic-bezier(.4, .2, .6, .9) .1s both; }
   .cb-walk[open] .cb-drawer { animation: cb-drawer .55s cubic-bezier(.2, .7, .2, 1) .15s backwards; }
