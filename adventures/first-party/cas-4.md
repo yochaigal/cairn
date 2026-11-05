@@ -103,7 +103,7 @@ wrought will finally end.
 3 HP, 5 STR, 14 DEX, 12 WIL, toxic spores (d6, blast)
 
 * Greenish bipedal growths spawned by various experiments. Intelligent.
-* Susceptible to Moss Sickness and know to avoid the blue moss.
+* Susceptible to Moss Sickness and known to avoid the blue moss.
 * **Critical Damage**: Painful chemical burns appear on target areas.
 
 ### Infected Mossling
@@ -517,7 +517,7 @@ The door to this room is painted blue. A simple bed is arrayed in the center of 
 #### 16. Yellow Room
 
 The door to this room is painted yellow. A bare **bed** is placed near an open
-**window** on the west side, and small dollhouse sits atop a small table
+**window** on the west side, and a small dollhouse sits atop a small table
 nearby. Weather-beaten children’s toys are scattered across the wooden
 **floor**.
 
