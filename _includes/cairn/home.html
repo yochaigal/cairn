@@ -52,7 +52,7 @@
     <div class="section-head"><h2 id="res-home-title" tabindex="-1">Resources for your game</h2><p><a href="{{ '/resources/' | relative_url }}">All resources</a></p></div>
     <div class="grid" id="homeTiles">
       {%- for t in site.data.cairn_resources %}{% unless t.home == false %}
-      <a class="frame-tile" href="{{ '/resources/' | relative_url }}#{{ t.id }}"><h3>{{ t.title }}</h3><span class="count">{% include cairn/tile-count.html tile=t %}</span></a>
+      <a class="frame-tile" href="{{ t.href | relative_url }}"><h3>{{ t.title }}</h3><span class="count">{% include cairn/tile-count.html tile=t %}</span></a>
       {%- endunless %}{% endfor %}
     </div>
   </div>
