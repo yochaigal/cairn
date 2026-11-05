@@ -1,0 +1,267 @@
+// Ported from the redesign prototype (redesign/prototype_template.html, frozen at 261c1edb): builder.
+/* ---------- character builder (Character Creation) */
+.cb-callout { display: flex; flex-wrap: nowrap; align-items: center; justify-content: space-between; gap: 10px 24px; margin: 0 0 28px; padding: 12px 12px 12px 20px;
+  background: var(--surface); border: 1px solid var(--border-strong); border-left: 4px solid var(--accent); border-radius: 6px; }
+.cb-callout[hidden] { display: none; }
+.cb-callout p { margin: 0; }
+.cb-callout-title { flex: 1 1 auto; min-width: 0; font-size: 1.3rem; font-weight: 700; color: var(--heading); }
+.cb-callout > .btn, .cb-callout-btns { flex: none; }
+.cb-callout-title .muted { font-size: 1rem; font-weight: 400; }
+.cb-callout-btns { display: flex; flex-wrap: wrap; gap: 10px; }
+.cb-bar { position: fixed; left: 0; right: 0; bottom: 0; z-index: 35; background: var(--surface); border-top: 3px solid var(--dice); box-shadow: 0 -8px 24px rgba(0,0,0,.35); }
+.cb-bar[hidden], .cb-bar [hidden] { display: none !important; }
+.cb-bar-in { width: min(1200px, 100%); margin: 0 auto; padding: 10px 24px; display: flex; flex-wrap: wrap; align-items: center; gap: 6px 18px; min-height: 64px; }
+.cb-what { flex: 1 1 24em; min-width: 0; }
+.cb-step { margin: 0; color: var(--muted); font-size: .95rem; }
+.cb-tip { margin: 2px 0 0; color: var(--text); font-size: .95rem; }
+.cb-step b { color: var(--heading); }
+.cb-dice { margin-left: 4px; padding: 1px 7px; border: 1px solid var(--border-strong); border-radius: 999px; font-size: .85rem; }
+.cb-sc-tip .cb-dice { margin: 0 1px; padding: 0 7px; white-space: nowrap; }  /* inline in the tip's sentence */
+.cb-result { margin: 0; flex: 1 1 14em; min-width: 0; color: var(--heading); }
+.cb-swap { display: flex; flex-wrap: wrap; gap: 6px; }
+.cb-swap button { border: 1px solid var(--border-strong); }
+.cb-swap button[aria-pressed="true"] { background: var(--dice); border-color: var(--dice); color: #fff; }
+.cb-btns { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.cb-btns .btn { min-height: 44px; padding: 0 16px; }
+.cb-btns .btn:disabled { opacity: .45; cursor: not-allowed; }
+.cb-hit { outline: 2px solid color-mix(in srgb, var(--dice), #fff 45%); outline-offset: -2px; background: color-mix(in srgb, var(--dice) 45%, transparent) !important; color: var(--heading); }
+li.cb-hit { border-radius: 999px; }
+.cb-panel { margin: 0 0 1.6em; padding: 4px 22px 16px; background: var(--surface); border: 1px solid var(--border-strong); border-radius: 8px; }
+.cb-names { list-style: none; display: flex; flex-wrap: wrap; gap: 6px; padding: 0; }
+.cb-names li { margin: 0; padding: 2px 12px; border: 1px solid var(--border); border-radius: 999px; }
+.cb-review { margin: 2.4em 0 1em; padding: 6px 22px 20px; background: var(--surface); border: 1px solid var(--accent); border-radius: 8px; }
+.cb-review h2 { margin-top: .8em; }
+/* the walkthrough: a full-screen dialog, one step at a time over the vines, with the step in a drawer on the right */
+.cb-walk { position: fixed; inset: 0; width: 100%; height: 100%; max-width: none; max-height: none; margin: 0; padding: 0; border: 0; overflow: clip; background: var(--bg); color: var(--text); }  /* clip: focusing into the sliding drawer can't scroll it sideways */
+.cb-walk[open] { display: grid; grid-template-rows: minmax(0, 1fr); }
+.cb-walk::backdrop { background: var(--bg); }
+.cb-walk-in { position: relative; z-index: 1; display: grid; grid-template-columns: minmax(0, 1fr) min(440px, 40vw); min-height: 0; }
+.cb-walk-main { min-height: 0; overflow: auto; padding: clamp(16px, 4vw, 48px) clamp(16px, 3vw, 40px); }
+.cb-walk-step { width: min(760px, 100%); max-width: none; margin: 0 auto; padding: 0; overflow: hidden; background: var(--bg); border: 1px solid var(--border-strong); border-radius: 10px; box-shadow: 0 12px 40px rgba(0, 0, 0, .6); }
+.cb-walk .cb-walk-step > .cb-review { padding: 4px clamp(16px, 3vw, 32px) 24px; }
+/* a step's card: a header band (step, name, dice, what to do) over its table */
+.cb-sc-head { padding: 18px clamp(16px, 3vw, 32px) 16px; background: var(--surface-2); border-bottom: 3px solid var(--dice); }
+.cb-sc-eye { margin: 0 0 4px; color: var(--muted); font-size: .9rem; }
+.cb-sc-title { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 12px; }
+.cb-sc h2 { margin: 0; font-size: 1.5rem; }
+.cb-sc-tip { margin: 8px 0 0; color: var(--text); }
+.cb-sc-body { padding: 18px clamp(16px, 3vw, 32px) 26px; }
+.cb-sc h3 { margin: 0 0 8px; font-size: 1.05rem; }
+.cb-sc li { margin: 0; }
+.cb-rows { list-style: none; margin: 0; padding: 0; }
+.cb-rows li { display: grid; grid-template-columns: 3ch minmax(0, 1fr); gap: 12px; padding: 8px 10px; border-top: 1px solid var(--border); }
+.cb-rows li:first-child { border-top: 0; }
+.cb-rows li.cb-hit { border-radius: 4px; scroll-margin-block: 16px; }  /* the page's rolled names are pills; rows aren't */
+.cb-rn { color: var(--muted); text-align: end; font-variant-numeric: tabular-nums; }
+.cb-hit .cb-rn { color: var(--heading); }
+.cb-rh { color: var(--heading); }
+.cb-rows-2 { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); grid-auto-flow: column; grid-template-rows: repeat(10, auto); column-gap: 28px; }
+.cb-rows-2 li:nth-child(11) { border-top: 0; }  /* the second column's first row */
+.cb-rows-tight li { padding: 3px 8px; }
+.cb-rdesc { display: block; margin: 4px 0 .3em; font-size: .92rem; line-height: 1.45; }  /* the gap under its last line matches the one above the name */
+.cb-gear { margin: 0 0 20px; padding-inline-start: 1.2em; }
+.cb-sc-rule { margin: 0 0 16px; }
+.cb-vals { display: flex; flex-wrap: wrap; gap: 16px; }
+.cb-val { display: grid; justify-items: center; align-content: center; gap: 6px; width: 128px; aspect-ratio: 1; border: 2px solid var(--border-strong); border-radius: 10px; background: var(--surface); }
+.cb-val b { font-size: 2.6rem; line-height: 1; color: var(--heading); }
+.cb-val-l { color: var(--muted); font-size: .9rem; letter-spacing: .06em; }
+.cb-val-empty { border-style: dashed; }
+.cb-val.cb-hit .cb-val-l { color: var(--heading); }  /* the muted label is too faint on the rolled box's tint */
+.cb-val-empty b { color: var(--muted); }
+.cb-traits { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 200px), 1fr)); gap: 20px 24px; }
+.cb-skipped { margin: 0 0 12px; color: var(--muted); }
+.cb-walk .cb-what { display: none; }  /* the card's header says it */
+@media (max-width: 559px) { .cb-rows-2 { grid-template-columns: minmax(0, 1fr); grid-auto-flow: row; grid-template-rows: none; } .cb-rows-2 li:nth-child(11) { border-top: 1px solid var(--border); } }
+.cb-walk.cb-at-review .cb-bar { display: none; }  /* no buttons at the review */
+/* 760px and up: the portrait sheet on a stage to the left, zoomed to the step's section; the step in the drawer */
+.cb-stage { display: none; }
+@media (min-width: 760px) {
+  .cb-walk-in { grid-template-columns: minmax(0, 1fr) min(460px, 42vw); }
+  .cb-walk-main { overflow: hidden; padding: 0; }
+  .cb-stage { display: block; position: relative; width: 100%; height: 100%; }
+  .cb-psheet { position: absolute; left: 0; top: 0; transform-origin: 0 0; will-change: transform; }
+  /* a sheet of paper lying on the stage, with a soft shadow under it (no tilt: it runs flush to the edges) */
+  .cb-psheet .cb-card { filter: drop-shadow(0 2px 3px rgba(0, 0, 0, .45)) drop-shadow(0 18px 36px rgba(0, 0, 0, .55)); }
+  /* the section about to be filled in, title and all: a soft golden glow, nothing dimmed */
+  .cb-spot { position: absolute; pointer-events: none; border-radius: 10px; background: color-mix(in srgb, var(--accent) 10%, transparent);
+    box-shadow: 0 0 0 1.5px color-mix(in srgb, var(--accent) 85%, transparent), 0 0 14px 4px color-mix(in srgb, var(--accent) 55%, transparent), 0 0 40px 12px color-mix(in srgb, var(--accent) 25%, transparent); mix-blend-mode: multiply; }
+  .cb-spot[hidden] { display: none; }
+  /* the drawer's scroll area runs to its edges, so the step card's header band can too without overflowing sideways */
+  .cb-drawer-body { margin: 0 calc(-1 * clamp(16px, 2vw, 28px)); padding: 0 0 24px; }
+  .cb-drawer .cb-walk-step { width: auto; margin: 0; border: 0; border-radius: 0; box-shadow: none; background: none; overflow: visible; }
+  .cb-drawer .cb-rows-2 { grid-template-columns: minmax(0, 1fr); grid-auto-flow: row; grid-template-rows: none; }  /* the drawer is narrow */
+  .cb-drawer .cb-rows-2 li:nth-child(11) { border-top: 1px solid var(--border); }
+}
+@media (min-width: 760px) and (prefers-reduced-motion: no-preference) {
+  /* the first start: the drawer waits for the vines, and slides in as the sheet zooms to Background */
+  .cb-walk.cb-intro .cb-drawer { visibility: hidden; animation: none; }
+  .cb-psheet { transition: transform .8s cubic-bezier(.3, .1, .2, 1); }
+  .cb-spot { transition: left .8s cubic-bezier(.3, .1, .2, 1), top .8s cubic-bezier(.3, .1, .2, 1), width .8s cubic-bezier(.3, .1, .2, 1), height .8s cubic-bezier(.3, .1, .2, 1); animation: cb-glow 2.4s ease-in-out infinite alternate; }
+  @keyframes cb-glow { to { box-shadow: 0 0 0 1.5px var(--accent), 0 0 20px 6px color-mix(in srgb, var(--accent) 65%, transparent), 0 0 52px 16px color-mix(in srgb, var(--accent) 30%, transparent); } }
+}
+.cb-walk.cb-at-review .cb-walk-step { width: min(1180px, 100%); }
+.cb-walk .cb-review { margin: 0; padding: 0; border: 0; background: none; }
+.cb-walk-main:focus-visible, .cb-drawer-body:focus-visible, .cb-sheet-body:focus-visible { outline-offset: -3px; }  /* both scroll, so keyboard users can reach them */
+/* the controls, at the foot of the drawer */
+.cb-walk .cb-bar { position: static; flex: none; margin: 0 calc(-1 * clamp(16px, 2vw, 28px)); background: var(--surface); border-top: 3px solid var(--dice); box-shadow: 0 -8px 20px rgba(0, 0, 0, .3); }
+.cb-walk .cb-bar-in { width: 100%; min-height: 0; padding: 14px clamp(16px, 2vw, 28px) 18px; flex-direction: column; align-items: stretch; gap: 10px; }
+.cb-walk .cb-what, .cb-walk .cb-result { flex: none; }
+.cb-walk .cb-btns .btn { flex: 1 1 auto; }
+/* the vines: the Warden's Guide p.31 pattern over the whole screen. The first time the first table shows they climb from the
+   bottom to the top in about 5s (six soft-edged columns, each at its own pace); afterwards they're simply there */
+@property --v1 { syntax: '<percentage>'; inherits: false; initial-value: 160%; }
+@property --v2 { syntax: '<percentage>'; inherits: false; initial-value: 160%; }
+@property --v3 { syntax: '<percentage>'; inherits: false; initial-value: 160%; }
+@property --v4 { syntax: '<percentage>'; inherits: false; initial-value: 160%; }
+@property --v5 { syntax: '<percentage>'; inherits: false; initial-value: 160%; }
+@property --v6 { syntax: '<percentage>'; inherits: false; initial-value: 160%; }
+.cb-walk-vines { position: absolute; inset: 0; pointer-events: none;
+  mask: radial-gradient(40% var(--v1) at 0% 100%, #000 70%, transparent),
+    radial-gradient(40% var(--v2) at 20% 100%, #000 70%, transparent),
+    radial-gradient(40% var(--v3) at 40% 100%, #000 70%, transparent),
+    radial-gradient(40% var(--v4) at 60% 100%, #000 70%, transparent),
+    radial-gradient(40% var(--v5) at 80% 100%, #000 70%, transparent),
+    radial-gradient(40% var(--v6) at 100% 100%, #000 70%, transparent); }
+.cb-walk-vines::before { content: ''; position: absolute; inset: 0; background: #8f8370; opacity: .85; mask: url(__VINES__) 0 0 / 260px repeat; }
+@media (prefers-reduced-motion: no-preference) {
+  .cb-walk.cb-grow .cb-walk-vines { animation: cb-v1 4.6s cubic-bezier(.4, .2, .6, .9) 0s both, cb-v2 4.4s cubic-bezier(.4, .2, .6, .9) .4s both, cb-v3 4.8s cubic-bezier(.4, .2, .6, .9) .15s both, cb-v4 4.45s cubic-bezier(.4, .2, .6, .9) .55s both, cb-v5 4.6s cubic-bezier(.4, .2, .6, .9) .25s both, cb-v6 4.9s cubic-bezier(.4, .2, .6, .9) .1s both; }
+  .cb-walk[open] .cb-drawer { animation: cb-drawer .55s cubic-bezier(.2, .7, .2, 1) .15s backwards; }
+  .cb-want { animation: cb-want 1.2s ease-in-out infinite alternate; }
+  .cb-new { animation: cb-ink .9s ease-out backwards; }
+}
+@keyframes cb-v1 { from { --v1: 0%; } }
+@keyframes cb-v2 { from { --v2: 0%; } }
+@keyframes cb-v3 { from { --v3: 0%; } }
+@keyframes cb-v4 { from { --v4: 0%; } }
+@keyframes cb-v5 { from { --v5: 0%; } }
+@keyframes cb-v6 { from { --v6: 0%; } }
+@keyframes cb-drawer { from { transform: translateX(100%); } }
+@keyframes cb-want { to { background: rgba(65, 105, 125, .28); } }
+@keyframes cb-ink { from { opacity: 0; filter: blur(3px); } }
+/* the drawer: the step's card and its controls */
+.cb-drawer { min-height: 0; display: flex; flex-direction: column; padding: 0 clamp(16px, 2vw, 28px); background: var(--surface); border-left: 1px solid var(--border-strong); box-shadow: -12px 0 32px rgba(0, 0, 0, .45); }
+/* its header stays put while the step scrolls: back on the left, the title, close on the right */
+.cb-drawer-head { flex: none; display: grid; grid-template-columns: 44px minmax(0, 1fr) 44px; align-items: center; gap: 8px; margin: 0 calc(-1 * clamp(16px, 2vw, 28px)); padding: 10px clamp(8px, 1vw, 16px); background: var(--surface); border-bottom: 1px solid var(--border-strong); }
+.cb-drawer-name { margin: 0; font-size: 1.2rem; text-align: center; }
+.cb-back:disabled { opacity: .35; cursor: not-allowed; }
+.cb-drawer-body { flex: 1 1 auto; min-height: 0; overflow: auto; padding: 0 2px 24px; }  /* each step's header band meets the drawer header's stroke */
+/* the character so far: a row per result, newest last */
+.cb-sum { margin: 0; }
+.cb-sum-row { padding: 9px 10px; border-top: 1px solid var(--border); border-radius: 4px; }
+.cb-sum-row:first-child { border-top: 0; }
+.cb-sum dt { color: var(--muted); font-size: .78rem; letter-spacing: .06em; text-transform: uppercase; }
+.cb-sum dd { margin: 2px 0 0; color: var(--heading); }
+.cb-sum-empty { color: var(--muted); }
+.cb-sum-edit label { display: block; }
+.cb-sum-edit input, .cb-sum-edit textarea { box-sizing: border-box; width: 100%; margin: 0; padding: 4px 2px; border: 0; border-bottom: 1px solid var(--border-strong); border-radius: 0; background: transparent; color: var(--heading); font: inherit; resize: none; }
+.cb-sum-edit textarea { field-sizing: content; }
+.cb-sum-edit [aria-invalid="true"] { border-bottom: 2px solid var(--heading); }
+.cb-sum-row.cb-want { box-shadow: none; outline: 1px dashed var(--border-strong); outline-offset: -1px; }
+.cb-cards { display: flex; flex-direction: column; align-items: center; gap: 18px; }
+.cb-card { position: relative; container-type: inline-size; width: min(100%, calc(var(--cw) * .6px)); aspect-ratio: var(--cw) / var(--ch); color: #1b1712; filter: drop-shadow(0 8px 16px rgba(0, 0, 0, .55)); }
+.cb-card > img { position: absolute; inset: 0; width: 100%; height: 100%; }
+.cb-card-sheet { width: 100%; }
+.cb-fld { position: absolute; display: flex; align-items: flex-end; gap: .3em; margin: 0; font-size: calc(var(--fit, 1) * var(--f) * 100cqw / var(--cw)); line-height: 1.15; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.cb-big { justify-content: center; align-items: center; font-weight: 700; }
+/* the written lines sit a little in from the printed rule's start. A single line also sits a little higher on its rule (16 sheet
+   px: about 8px at the stage's 1.8x). Multi-line boxes keep their lines on the printed rules (portrait only: landscape uses LAND_NUDGE) */
+.cb-fld:not(.cb-score) { padding-left: .5em; }
+.cb-fld:not(.cb-score, .cb-multi) { translate: 0 calc(-16 * 100cqw / var(--cw)); }
+.cb-fld.cb-f-name { translate: 0 calc(-8 * 100cqw / var(--cw)); }  /* Name gets half the lift (8 sheet px, about 4px on the stage) */
+.cb-fld[class*="cb-f-ptraits-"] { translate: 0 calc(-12 * 100cqw / var(--cw)); }
+/* the scores sit low in their boxes: STR, DEX and WIL lift about 2px, HP about 6px */
+.cb-fld.cb-f-str, .cb-fld.cb-f-dex, .cb-fld.cb-f-wil { translate: 0 calc(-4 * 100cqw / var(--cw)); }
+.cb-fld.cb-f-hp { translate: 0 calc(-12 * 100cqw / var(--cw)); }
+.cb-card.cb-land .cb-fld { translate: calc(var(--dx, 0) * 100cqw / var(--cw)) calc(var(--dy, 0) * 100cqw / var(--cw)); }
+/* Armor and weapon: what the step celebrates, ringed in gold on the sheet */
+.cb-fld.cb-star { outline: 2px solid var(--accent); outline-offset: 1px; border-radius: 3px; box-shadow: 0 0 12px 3px color-mix(in srgb, var(--accent) 55%, transparent); }
+.cb-typed-in { margin-top: 20px; }
+.cb-typed-err { margin: 6px 0 0; color: var(--heading); font-size: .95rem; }
+.cb-typed-err:empty { margin: 0; }  /* an Age message stays in the page, empty, so it's announced when it fills */
+.cb-arms .cb-val small { display: block; margin-top: 2px; color: var(--heading); font-size: .85rem; }
+.cb-val.cb-val-list { flex: 1 1 200px; width: auto; aspect-ratio: auto; justify-items: start; padding: 14px 18px; }  /* a weapon's name and damage read as words, not a score */
+.cb-val-list b { display: block; font-size: 1.3rem; line-height: 1.25; }
+.cb-sc-note { margin: 12px 0 0; color: var(--muted); }
+/* the traits card's All 8d10 switch, at the right of its title */
+.cb-switch { position: relative; margin-left: auto; display: inline-flex; align-items: center; gap: 8px; min-height: 44px; color: var(--text); font-size: .95rem; cursor: pointer; }
+.cb-switch-ui { position: relative; width: 40px; height: 22px; border-radius: 999px; background: var(--border-strong); }
+.cb-switch-ui::after { content: ''; position: absolute; top: 3px; left: 3px; width: 16px; height: 16px; border-radius: 50%; background: var(--heading); }
+.cb-switch input:checked + .cb-switch-ui { background: var(--accent); }
+.cb-switch input:checked + .cb-switch-ui::after { left: 21px; background: var(--on-accent); }
+.cb-switch input:focus-visible + .cb-switch-ui { outline: 3px solid var(--focus); outline-offset: 2px; }
+.cb-multi { align-items: flex-start; white-space: pre-wrap; line-height: calc(var(--lh) * 100cqw / var(--cw)); }
+.cb-tl { flex: none; font-size: .7em; letter-spacing: .04em; text-transform: uppercase; color: #5f5446; }
+.cb-want { background: rgba(65, 105, 125, .12); box-shadow: inset 0 -2px 0 #41697d; }
+.cb-fld input, .cb-fld textarea { flex: 1; min-width: 0; width: 100%; height: 100%; margin: 0; padding: 0 .15em; border: 0; border-radius: 2px; background: rgba(65, 105, 125, .1); color: inherit; font: inherit; line-height: inherit; resize: none; }
+.cb-big input { text-align: center; }
+.cb-fld input:hover, .cb-fld textarea:hover { background: rgba(65, 105, 125, .2); }
+.cb-fld input:focus-visible, .cb-fld textarea:focus-visible { outline: 2px solid #41697d; outline-offset: -2px; background: #fff; }
+/* phones: no drawer. The walkthrough scrolls as one column, the step's cards follow its table, and the controls are a
+   footer fixed to the bottom */
+@media (max-width: 759px) {
+  .cb-walk-in { display: block; height: 100%; overflow: auto; padding: var(--head-h, 64px) 0 var(--bar-h, 160px); scroll-padding: var(--head-h, 64px) 0 var(--bar-h, 160px); }
+  .cb-walk-main { overflow: visible; padding-bottom: 8px; }
+  .cb-drawer { display: block; padding: 8px 16px 24px; background: none; border: 0; box-shadow: none; }
+  .cb-walk[open] .cb-drawer { animation: none; }
+  .cb-drawer-head { position: fixed; top: 0; left: 0; right: 0; z-index: 3; margin: 0; padding: 8px 10px; }
+  .cb-walk .cb-bar { position: fixed; left: 0; right: 0; bottom: 0; z-index: 3; margin: 0; }
+  .cb-walk .cb-bar-in { padding: 10px 16px 12px; gap: 6px; }
+  .cb-card { width: min(100%, calc(var(--cw) * .5px)); }
+  /* the step stays in the main column, and the sheet so far is in the footer's panel, so the drawer keeps only its header */
+  .cb-drawer-body { display: none; }
+  /* a short screen (a phone on its side, or zoomed): the footer scrolls rather than crowding out the step */
+  .cb-walk .cb-bar { max-height: 50vh; overflow-y: auto; }
+  /* the first start: only the vines and the header while they grow; the step and the footer come in when they finish */
+  .cb-walk.cb-intro .cb-walk-step, .cb-walk.cb-intro .cb-bar { visibility: hidden; }
+}
+/* when they finish, the footer slides up and the step rises in behind it */
+@media (max-width: 759px) and (prefers-reduced-motion: no-preference) {
+  .cb-walk.cb-enter .cb-walk-in { overflow: hidden; }  /* the card below the screen would otherwise stretch the scroll area */
+  /* springs from Motion's spring(visualDuration, bounce): the footer (.5s, .15), then the step (.65s, .12), which also fades
+     in as it rises; the cubic-bezier lines are the fallback where linear() isn't supported */
+  .cb-walk.cb-enter .cb-bar { animation: cb-rise .6s cubic-bezier(.2, .7, .2, 1) backwards;
+    animation: cb-rise 900ms linear(0, 0.0439, 0.1461, 0.2736, 0.4054, 0.5291, 0.6382, 0.73, 0.8046, 0.8633, 0.908, 0.9412, 0.965, 0.9815, 0.9925, 0.9994, 1.0035, 1.0055, 1.0062, 1.0062, 1.0056, 1.0049, 1.004, 1.0032, 1.0025, 1.0019, 1.0014, 1.001, 1, 1) backwards; }
+  .cb-walk.cb-enter .cb-walk-step { animation: cb-rise-far .75s cubic-bezier(.2, .7, .2, 1) .08s backwards, cb-fade-in .35s ease-out .08s backwards;
+    animation: cb-rise-far 800ms linear(0, 0.0266, 0.092, 0.1792, 0.2763, 0.3749, 0.4696, 0.5571, 0.6356, 0.7044, 0.7635, 0.8134, 0.855, 0.889, 0.9165, 0.9384, 0.9556, 0.9689, 0.9791, 0.9867, 0.9923, 0.9963, 0.999, 1.0009, 1.002, 1.0026, 1) .08s backwards, cb-fade-in .35s ease-out .08s backwards; }
+}
+@keyframes cb-rise { from { translate: 0 100%; } }
+@keyframes cb-rise-far { from { translate: 0 45vh; } }  /* far enough to read as rising from below, short enough to stay smooth */
+@keyframes cb-fade-in { from { opacity: 0; } }
+/* phones: the sheet so far, as plain text, behind a collapsible row in the footer; open, the footer grows to full screen */
+.cb-sheet-btn { display: none; }
+@media (max-width: 759px) {
+  .cb-sheet-btn { display: flex; align-items: center; gap: 8px; width: 100%; min-height: 48px; margin: 0; padding: 6px 0; border: 0; background: none; color: var(--text); font: inherit; text-align: left; cursor: pointer; }
+  .cb-sheet-txt { flex: 1; min-width: 0; display: grid; }
+  .cb-sheet-count { color: var(--heading); font-weight: 600; }
+  .cb-sheet-last { overflow: hidden; color: var(--muted); font-size: .9rem; white-space: nowrap; text-overflow: ellipsis; }
+  .cb-sheet-btn svg { flex: none; }
+}
+.cb-sheet-panel { position: fixed; inset: 0; z-index: 5; display: flex; flex-direction: column; background: var(--surface); border-top: 3px solid var(--dice); }
+.cb-sheet-panel[hidden] { display: none; }
+/* its header is the footer's row, open: same padding, so it starts exactly over that row as the panel rises */
+.cb-sheet-head { flex: none; padding: 10px 16px; border-bottom: 1px solid var(--border-strong); }
+.cb-sheet-title { margin: 0; font: inherit; }
+.cb-sheet-body { flex: 1 1 auto; min-height: 0; overflow: auto; padding: 8px 16px 24px; }
+@media (max-width: 759px) and (prefers-reduced-motion: no-preference) {
+  /* the panel's top starts at the footer's top edge and rises to the top of the screen; collapsing runs it back down */
+  .cb-sheet-panel { transition: translate .35s cubic-bezier(.2, .7, .2, 1), display .35s allow-discrete; }
+  .cb-sheet-panel[hidden] { translate: 0 calc(100% - var(--bar-h, 160px)); }
+  @starting-style { .cb-sheet-panel:not([hidden]) { translate: 0 calc(100% - var(--bar-h, 160px)); } }
+  /* the list fades in once the panel is mostly up, and out at once on collapse, so it never smears past */
+  .cb-sheet-body { transition: opacity .2s .15s; }
+  .cb-sheet-panel[hidden] .cb-sheet-body { opacity: 0; transition: opacity .12s; }
+  @starting-style { .cb-sheet-panel:not([hidden]) .cb-sheet-body { opacity: 0; } }
+}
+.cb-warn { margin: 8px 0; padding: 8px 12px; border-left: 3px solid var(--accent); background: var(--surface-2); }
+.cb-print { display: flex; flex-wrap: wrap; align-items: center; gap: 10px 14px; margin-top: 14px; }
+#cbDownload[aria-disabled="true"] { opacity: .5; pointer-events: none; }  /* until the sheet is filled there's nothing to download */
+.cb-print .sheet-pick { flex: 1 1 100%; margin: 0; border: 0; padding: 0; min-width: 0; }  /* the sheet's segmented control, a row of its own */
+.cb-status { margin: 10px 0 0; color: var(--muted); }
+@media (max-width: 759px) {
+  .cb-bar-in { padding: 8px 16px; gap: 4px 12px; }
+  .cb-btns { width: 100%; }
+  .cb-btns .btn { flex: 1 1 auto; padding: 0 10px; }
+  .cb-callout { padding-left: 16px; gap: 10px 14px; }
+  .cb-callout-title { font-size: 1.1rem; }
+  .cb-callout:has(.cb-callout-btns) { flex-wrap: wrap; }  /* Continue and Start over don't fit beside the text on a phone */
+}

@@ -1,0 +1,72 @@
+// Ported from the redesign prototype (redesign/prototype_template.html, frozen at 261c1edb): adventures.
+/* adventures: the catalog's cards (also the home page's row), its filters, and an adventure's own view */
+.adv-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 20px; list-style: none; margin: 0; padding: 0; }
+.adv-card { margin: 0; min-width: 0; }
+.adv-card > a { display: flex; flex-direction: column; height: 100%; background: var(--surface); border: 1px solid var(--border); border-radius: 8px; overflow: hidden; text-decoration: none; color: var(--text); box-shadow: var(--shadow); }
+.adv-card > a:hover { border-color: var(--accent); }
+.adv-card > a:hover .adv-name { text-decoration: underline; }
+.adv-art { position: relative; display: block; aspect-ratio: 315 / 250; overflow: hidden; background: var(--surface-2); border-bottom: 1px solid var(--border); }
+.adv-cover { position: absolute; inset: 0; display: block; width: 100%; height: 100%; object-fit: cover; }
+.adv-panel { display: none; position: absolute; inset: 0; padding: 16px; place-content: center; text-align: center; gap: 6px; color: var(--heading); font-size: 1.2rem; font-weight: 700; line-height: 1.25; overflow-wrap: anywhere;
+  background: radial-gradient(circle at 50% 120%, var(--surface) 0 40%, transparent 41%), var(--surface-2); }
+.adv-panel small { font-size: .78rem; letter-spacing: .08em; text-transform: uppercase; color: var(--accent); }
+.adv-art.no-cover .adv-panel { display: grid; }
+.adv-body { display: flex; flex-direction: column; gap: 6px; flex: 1; padding: 14px 16px 16px; }
+.adv-name { margin: 0; font-size: 1.15rem; line-height: 1.3; color: var(--heading); overflow-wrap: anywhere; }
+.adv-by { margin: 0; font-size: .95rem; color: var(--muted); }
+.adv-sum { margin: 0; font-size: .95rem; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+.adv-badges { display: flex; flex-wrap: wrap; gap: 6px; margin: auto 0 0; padding-top: 6px; }
+.adv-out { margin-left: auto; align-self: center; font-size: .9rem; color: var(--muted); }  /* the card leaves the site */
+.adv-card > a:is(:hover, :focus-visible) .adv-out { color: var(--accent); }
+.badge { display: inline-block; padding: 1px 9px; border: 1px solid var(--border-strong); border-radius: 999px; font-size: .82rem; font-weight: 700; color: var(--muted); }
+.badge.free { color: var(--accent); border-color: var(--accent); }
+.adv-links { margin: 0; }
+/* the home head's right end: the three group links, then Browse all as a secondary button at the far right */
+.adv-head-end { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 24px; }
+#home-adventures { padding-bottom: 80px; }  /* the usual 56px plus 24px before the Start slideshow */
+.adv-links a + a::before { content: '·'; margin: 0 8px; color: var(--muted); }
+/* the catalog's filters: one row from 1100px (each select as wide as its longest option, Author capped, Search taking
+   the rest), two rows of three below that, and on phones two columns of at least 150px (one on the narrowest, where
+   "Conversions (62)" wouldn't fit), with Search across the row */
+.adv-filters { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); align-items: end; gap: 16px; margin: 24px 0 20px; }
+.adv-filters .field { min-width: 0; }  /* so a long author name stays inside its column */
+.adv-filters .field :is(input, select) { width: 100%; }
+@media (min-width: 1100px) {
+  .adv-filters { grid-template-columns: minmax(180px, 1fr) repeat(5, auto); }
+  .adv-filters select { width: auto; }
+  #advAuthor { max-width: 12rem; }
+}
+@media (max-width: 759px) {
+  .adv-filters { grid-template-columns: repeat(auto-fill, minmax(max(150px, calc((100% - 16px) / 2)), 1fr)); }
+  .adv-filters .field:first-child { grid-column: 1 / -1; }
+}
+.field select { min-height: 44px; max-width: 100%; padding: 0 36px 0 10px; border: 1px solid var(--border-strong); border-radius: 4px; background: var(--surface); color: var(--text); font: inherit; font-size: 1rem; }
+/* the browser's own arrow sits about 5px from the edge, against the text's 10px: draw a chevron 12px in instead
+   (in --text, written out, since a data URI can't read the tokens) */
+.field select { appearance: none; background: var(--surface) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1.5l5 5 5-5' fill='none' stroke='%23c9d1d9' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") no-repeat right 12px center / 12px 8px; }
+@media (forced-colors: active) { .field select { appearance: auto; background-image: none; padding-right: 10px; } }  /* the chevron's colour is fixed: use the system arrow */
+.adv-count { margin: 0 0 16px; color: var(--muted); }
+.adv-detail { display: grid; grid-template-columns: minmax(0, 360px) minmax(0, 1fr); gap: 32px; align-items: start; margin-top: 20px; }
+.adv-detail .adv-art { border: 1px solid var(--border); border-radius: 8px; overflow: hidden; }
+.adv-detail h1 { margin: 0 0 6px; }
+.adv-detail .adv-badges { margin: 12px 0 16px; padding: 0; }
+.adv-detail .actions { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 24px; }
+/* an adventure's own images are hotlinked from cairnrpg.com: hold a box for them until they load */
+.prose figure img.hotlink { aspect-ratio: auto 3 / 2; min-width: min(100%, 320px); }
+/* a <details> from the author's Markdown (an example to expand), and the FAQ's button that opens them all */
+.prose .disclosure { margin: 1em 0; border: 1px solid var(--border); border-radius: 6px; background: var(--surface); }
+.prose .disclosure summary { min-height: 44px; display: flex; align-items: center; padding: 6px 14px; cursor: pointer; color: var(--heading); font-weight: 700; }
+.prose .disclosure[open] summary { border-bottom: 1px solid var(--border); }
+.prose .disclosure-body { padding: 4px 14px 10px; }
+.prose .disclosure-body > :first-child { margin-top: .6em; }
+.prose .expand-all { margin: 0 0 1em; }
+.prose pre.fence { overflow-x: auto; padding: 12px 16px; background: var(--surface-2); border: 1px solid var(--border); border-radius: 6px; font-size: .92rem; line-height: 1.45; }
+@media (max-width: 1199px) { .adv-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); } #advHome { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 899px) { .adv-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 759px) { .adv-detail { grid-template-columns: minmax(0, 1fr); } .adv-detail .adv-art { max-width: 360px; } }
+@media (max-width: 519px) { .adv-grid { grid-template-columns: minmax(0, 1fr); gap: 16px; } #advHome { gap: 12px; }
+  #advHome .adv-body { padding: 10px 12px 12px; } #advHome .adv-name { font-size: 1rem; } #advHome .adv-sum { display: none; } }
+.sheets { display: grid; grid-template-columns: minmax(300px, 1fr) 2fr; gap: 28px 40px; align-items: start; }
+.sheets-text h2 { margin-top: 0; }
+.sheet-pick { border: 0; padding: 0; margin: 0 0 12px; min-width: 0; max-width: 420px; }
+.sheets-text p + .sheet-pick { margin-top: 22px; }

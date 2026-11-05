@@ -1,0 +1,11 @@
+{%- comment -%}
+  The home page (README.md, with `cairn_layout: home`). Its own Markdown is the hero's text.
+{%- endcomment -%}
+<section class="hero" aria-labelledby="home-title"><div class="wrap">
+  <h1 id="home-title" class="hero-logo">{% include cairn-logo.svg %}<span class="sr-only">Cairn</span></h1>
+  <div class="lede">{{ content }}</div>
+  <div class="actions">
+    <a class="btn btn-primary" href="{{ '/second-edition/players-guide/core-rules/' | relative_url }}">Read the rules, free</a>
+    <a class="btn btn-secondary" href="{{ '/second-edition/game-files/' | relative_url }}">Download the PDFs</a>
+  </div>
+</div></section>

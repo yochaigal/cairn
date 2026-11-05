@@ -71,9 +71,6 @@ GEM
       jekyll (>= 3.7, < 5.0)
     jekyll-include-cache (0.3.1)
       jekyll (>= 3.7, < 5.0)
-    jekyll-jtd-toc-nav (0.4.0)
-      jekyll (>= 3.0)
-      nokogiri (>= 1.13)
     jekyll-redirect-from (0.17.0)
       jekyll (>= 3.3, < 5.0)
     jekyll-sass-converter (3.1.0)
@@ -170,7 +167,6 @@ DEPENDENCIES
   bigdecimal
   jekyll-dice-tray
   jekyll-image-links
-  jekyll-jtd-toc-nav
   jekyll-redirect-from
   jekyll-sitemap
   jekyll-titles-from-headings
@@ -210,7 +206,6 @@ CHECKSUMS
   jekyll-dice-tray (0.6.0) sha256=9e01e47b8ea874638035aeb09a1549578e89257f4b82a3996b5daa93f4140088
   jekyll-image-links (0.4.0) sha256=0df527f86f30765f3dd6eeda40fcf1bd01f4b0559582eb0099aa9d64fa6d119c
   jekyll-include-cache (0.3.1) sha256=4ba9c00b05247245420656dc313826ca761c4e0b13c0976ad298225f9f7792d3
-  jekyll-jtd-toc-nav (0.4.0) sha256=459931f5ea8bbfa6f650703109319ade79c21dd48d23f676dd235a9b4898183c
   jekyll-redirect-from (0.17.0) sha256=703dab0428b20bb5d550ab83d3c28b65bb5ecc0f734c5e61ee680de391b3e897
   jekyll-sass-converter (3.1.0) sha256=83925d84f1d134410c11d0c6643b0093e82e3a3cf127e90757a85294a3862443
   jekyll-seo-tag (2.9.1) sha256=ed5c757a091048b6ef9109f856f84a29beaeb70f531ba5775a5e92129a28093e

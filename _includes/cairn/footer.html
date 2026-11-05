@@ -1,0 +1,21 @@
+<footer class="cairn-footer">
+  <div class="wrap">
+  <div class="cols">
+    <div>
+      <h2>Cairn</h2>
+      <p>{{ site.footer_content }} Written by <a href="https://newschoolrevolution.com">Yochai Gal</a>. Hero art, step art and character sheet previews: the <a href="https://cairnpress.itch.io/cairn-players-guide">Cairn Player's Guide</a>, Cairn Press. Adventure covers: each adventure's own page on itch.io or the Cairn store.</p>
+      <p><a href="https://github.com/yochaigal/cairn">Cairn source on GitHub</a> · Built with <a href="https://github.com/just-the-docs/just-the-docs">Just the Docs</a></p>
+      {%- if site.last_edit_timestamp and site.last_edit_time_format and page.last_modified_date %}
+      <p class="muted">Page last modified: {{ page.last_modified_date | date: site.last_edit_time_format }}.</p>
+      {%- endif %}
+    </div>
+    {%- for col in site.data.cairn_nav.footer %}
+    <nav aria-labelledby="foot-{{ forloop.index }}"><h2 id="foot-{{ forloop.index }}">{{ col.title }}</h2><ul>
+      {%- for l in col.links %}
+      <li>{%- assign lh = l[1] -%}{%- assign lt = l[0] -%}{% include cairn/link.html href=lh text=lt %}</li>
+      {%- endfor %}
+    </ul></nav>
+    {%- endfor %}
+  </div>
+  </div>
+</footer>

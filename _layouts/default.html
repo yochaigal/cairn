@@ -1,0 +1,88 @@
+---
+layout: table_wrappers
+---
+{%- comment -%}
+  Copied from Just the Docs 0.12.0's _layouts/default.html and rearranged for the redesign. When upgrading the theme,
+  compare this file with the new version's default.html (and _includes/cairn/header.html with components/header.html).
+
+  Kept from the theme, so its script keeps working: #main-header, #menu-button, #site-nav (the sidebar, unchanged),
+  #search-input, #search-results, the breadcrumbs, heading anchors and the children list.
+  Changed: the header runs across the top (_includes/cairn/header.html), the sidebar shows only the current section
+  (assets/js/cairn-nav.js), and each page gets "On this page", previous / next and a ⋯ menu.
+  A page whose front matter has `cairn_layout: home` gets the home page instead (_includes/cairn/home.html).
+{%- endcomment -%}
+<!DOCTYPE html>
+
+<html lang="{{ site.lang | default: 'en-US' }}">
+{% include head.html %}
+<body>
+  {%- comment -%} The theme's HTML compressor drops the <body> tag's attributes, so the page class sits on this wrapper. {%- endcomment %}
+  <div class="cairn{% if page.cairn_layout == 'home' %} cairn-home{% endif %}">
+  <a class="skip skip-to-main" href="#main-content">Skip to main content</a>
+  {% include icons/icons.html %}
+  {% include cairn/header.html %}
+
+  {%- if page.cairn_layout == 'home' %}
+  <main id="main-content" class="main-content home-main" tabindex="-1">
+    {% include cairn/home.html %}
+  </main>
+  {%- else %}
+  <div class="rules-layout">
+    <div class="crumbs">{% include components/breadcrumbs.html %}</div>
+    <div class="section-nav">
+      {% include_cached components/site_nav.html %}
+    </div>
+    <div class="toc" id="toc" hidden>
+      <button class="toc-toggle" id="tocToggle" type="button" aria-expanded="false" aria-controls="tocList">
+        <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" focusable="false"><path d="M4 6h16M4 12h10M4 18h13" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round"/></svg>On this page
+      </button>
+      <nav aria-labelledby="tocTitle"><p class="nav-title" id="tocTitle">On this page</p><div class="toc-list" id="tocList" hidden></div></nav>
+    </div>
+    <main id="main-content" class="rules-main main-content" tabindex="-1">
+      <div class="opener" aria-hidden="true">
+        <div class="book-rule both opener-rule"></div>
+        <svg class="opener-rings" width="74" height="75" viewBox="-37 -52 74 75" fill="none" stroke="currentColor" stroke-width="1" focusable="false">
+          <circle cx="0" cy="0" r="12"/><circle cx="0" cy="0" r="22"/><circle cx="0" cy="-35.5" r="35.5"/>
+        </svg>
+      </div>
+      <div class="title-actions" id="titleActions">
+        <div class="page-actions">
+          <button id="actionsBtn" type="button" aria-label="Page actions" aria-expanded="false" aria-controls="actionsList">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" focusable="false"><circle cx="5" cy="12" r="2"/><circle cx="12" cy="12" r="2"/><circle cx="19" cy="12" r="2"/></svg>
+          </button>
+          <ul id="actionsList" hidden>
+            <li><a href="https://github.com/yochaigal/cairn/blob/main/{{ page.path }}">Edit this page on GitHub</a></li>
+            {%- if page.url contains '/second-edition/' %}
+            <li><a href="{{ '/second-edition/game-files/' | relative_url }}">Download as PDF</a></li>
+            {%- endif %}
+          </ul>
+        </div>
+      </div>
+      <div class="prose">
+      {%- if site.heading_anchors != false %}
+        {% include vendor/anchor_headings.html html=content beforeHeading="true" anchorBody="<svg viewBox=\"0 0 16 16\" aria-hidden=\"true\"><use xlink:href=\"#svg-link\"></use></svg>" anchorClass="anchor-heading" anchorAttrs="aria-labelledby=\"%html_id%\"" %}
+      {%- else %}
+        {{ content }}
+      {%- endif %}
+
+      {%- if page.has_toc != false %}
+        {% include components/children_nav.html %}
+      {%- endif %}
+      </div>
+      <nav class="pager" aria-label="Previous and next" id="pager" hidden></nav>
+      <a class="back-top" href="#main-content">Back to top</a>
+    </main>
+  </div>
+  {%- endif %}
+
+  {% include cairn/footer.html %}
+
+  {%- if site.search_enabled != false %}
+  <div class="search-overlay"></div>
+  {%- endif %}
+  {%- if site.mermaid %}
+    {% include components/mermaid.html %}
+  {%- endif %}
+  </div>
+</body>
+</html>

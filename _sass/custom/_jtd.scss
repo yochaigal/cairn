@@ -1,0 +1,90 @@
+// Fits Just the Docs' own markup (the sidebar nav, breadcrumbs, search results, Markdown output) to the redesign.
+// Everything else in the redesign uses its own class names, so the theme's layout rules don't reach it.
+
+.cairn { font-size: 18px; line-height: 1.6; }
+.cairn .main-content { max-width: none; padding: 0; }
+.cairn .main-content h1, .cairn .main-content h2, .cairn .main-content h3, .cairn .main-content h4 { color: var(--heading); font-weight: 700; line-height: 1.2; }
+.cairn .main-content h1:first-of-type { margin-top: 0; }
+// the theme sets heading sizes, and a 14px root on phones, with !important; the redesign's scale needs the same weight
+html { font-size: 16px !important; }
+.cairn .main-content h1 { font-size: var(--h1) !important; letter-spacing: -.01em; }
+.cairn .main-content h2 { font-size: clamp(1.55rem, 3vw, 2rem) !important; }
+.cairn .main-content h3 { font-size: 1.3rem !important; }
+.cairn .main-content h4 { font-size: 1.1rem !important; }
+.cairn .main-content h5, .cairn .main-content h6 { font-size: 1.05rem !important; text-transform: none; letter-spacing: 0; }
+.cairn .main-content a:not([class]) { text-decoration: underline; text-underline-offset: .18em; text-decoration-thickness: 1px; }
+
+// ---------- the sidebar: Just the Docs' nav, scoped to the current section by cairn-nav.js
+.section-nav .site-nav { display: block; padding: 0; overflow: visible; }
+.section-nav .site-nav > .nav-title a { color: var(--muted); text-decoration: none; }
+.section-nav .site-nav > .nav-title a[aria-current] { color: var(--heading); }
+.section-nav .site-nav.scoped .other-section { display: none; }
+.section-nav .site-nav.scoped .section-root > .nav-list-link, .section-nav .site-nav.scoped .section-root > .nav-list-expander { display: none; }
+.section-nav .site-nav.scoped .section-root > .nav-list { display: block; margin: 0; padding: 0; border: 0; }
+.section-nav .nav-list { list-style: none; margin: 0; padding: 0; }
+.section-nav .nav-list .nav-list-item { position: relative; margin: 0; padding: 0; font-size: 1rem; line-height: 1.35; }
+.section-nav .nav-list .nav-list-item::before { content: none; }
+.section-nav .nav-list .nav-list-link { display: flex; align-items: center; min-height: 36px; padding: 4px 40px 4px 10px; font-size: 1.05rem; border-radius: 4px; color: var(--text); text-decoration: none; background-image: none; }
+.section-nav .nav-list .nav-list-link:hover { background: var(--surface-2); color: var(--heading); }
+.section-nav .nav-list .nav-list-link[aria-current="page"] { background: var(--surface-2); color: var(--heading); font-weight: 700; box-shadow: inset 3px 0 0 var(--accent); }
+.section-nav .nav-list .nav-list-item .nav-list { display: none; margin-left: 14px; border-left: 1px solid var(--border); padding-left: 6px; }
+.section-nav .nav-list .nav-list-item.active > .nav-list { display: block; }
+.section-nav .nav-list .nav-list-expander { position: absolute; right: 0; top: 0; width: 36px; height: 36px; display: grid; place-items: center; padding: 0; border: 0; border-radius: 4px; background: none; color: var(--muted); cursor: pointer; }
+.section-nav .nav-list .nav-list-expander:hover { background: var(--surface-2); color: var(--heading); }
+.section-nav .nav-list .nav-list-expander svg { width: 16px; height: 16px; transform: rotate(90deg); }
+.section-nav .nav-list .nav-list-item.active > .nav-list-expander svg { transform: rotate(-90deg); }
+@media (prefers-reduced-motion: no-preference) { .section-nav .nav-list .nav-list-expander svg { transition: transform .15s; } }
+
+// ---------- the Menu drawer: below 1100px the sidebar column is gone, so its nav opens under the header instead
+@media (max-width: 1099px) {
+  .rules-layout > .section-nav:has(.site-nav.nav-open) { display: block; position: fixed; z-index: 19; left: 0; right: 0; top: var(--head, 88px); max-height: calc(100vh - var(--head, 88px));
+    padding: 12px 16px 24px; background: var(--bg); border-bottom: 1px solid var(--border); box-shadow: var(--shadow-pop); }
+}
+@media (max-width: 959px) {
+  .cairn-header.nav-open .primary-nav { display: block; }
+}
+
+// ---------- breadcrumbs (the theme's), styled as the redesign's
+.rules-layout > .crumbs .breadcrumb-nav { margin: 0; }
+.crumbs .breadcrumb-nav-list { list-style: none; display: flex; flex-wrap: wrap; gap: 4px; padding: 0; margin: 0; font-size: 1rem; color: var(--muted); }
+.crumbs .breadcrumb-nav-list-item { display: inline; margin: 0; font-size: 1rem; }
+.crumbs .breadcrumb-nav-list-item::after { content: none; display: none; }
+.crumbs .breadcrumb-nav-list-item::before { content: none; display: none; }
+.crumbs .breadcrumb-nav-list-item + .breadcrumb-nav-list-item::before { content: '›'; display: inline; margin: 0 6px 0 0; color: var(--muted); }
+.crumbs .breadcrumb-nav-list-item a { color: var(--muted); }
+
+// ---------- search: the theme's results, in the redesign's dropdown
+.cairn-search .search-input { position: static; height: auto; box-shadow: none; }
+.cairn-search .search-results { display: none; position: absolute; right: 0; left: auto; top: calc(100% + 6px); width: min(420px, calc(100vw - 32px)); max-height: 70vh; overflow: auto;
+  background: var(--surface); border: 1px solid var(--border-strong); border-radius: 6px; padding: 6px; box-shadow: var(--shadow-pop); z-index: 30; }
+.search-active .cairn-search .search-results { display: block; }
+.cairn-search .search-results-list { list-style: none; margin: 0; padding: 0; }
+.cairn-search .search-results-list-item { margin: 0; padding: 0; }
+.cairn-search .search-results-list-item::before { content: none; }
+.cairn-search .search-result { display: block; padding: 8px 10px; border-radius: 4px; color: var(--text); text-decoration: none; }
+.cairn-search .search-result:hover, .cairn-search .search-result.active { background: var(--surface-2); color: var(--heading); }
+.cairn-search .search-result-title { display: block; color: var(--heading); }
+.cairn-search .search-result-doc { display: flex; gap: 6px; align-items: center; }
+.cairn-search .search-result-icon { width: 16px; height: 16px; flex: none; fill: currentColor; color: var(--muted); }
+.cairn-search .search-result-section { color: var(--muted); }
+.cairn-search .search-result-previews { display: block; margin: 4px 0 0; padding: 0 0 0 22px; border: 0; color: var(--muted); font-size: .9rem; }
+.cairn-search .search-result-highlight { font-weight: 700; color: var(--heading); }
+.cairn-search .search-result-rel-url { display: none; }
+.cairn-search .search-no-result { padding: 10px; color: var(--muted); }
+.search-overlay { display: none; }
+
+// ---------- Markdown output from the theme's styles: lists, tables, callouts
+.cairn .prose ul > li::before { content: none; }
+.cairn .prose ul { list-style: disc; }
+.cairn .prose ol { list-style: decimal; }
+.cairn .prose ol > li::before { content: none; }
+.cairn .prose .table-wrapper { margin: 0 0 1.2em; box-shadow: none; overflow-x: auto; border: 1px solid var(--border); border-radius: 6px; }
+.cairn .prose .table-wrapper table { margin: 0; border: 0; }
+.cairn .prose .anchor-heading svg { fill: var(--muted); }
+.cairn .skip-to-main { background: var(--accent); color: var(--on-accent); }
+.cairn .back-top { display: inline-block; margin-top: 24px; }
+// the theme forces table cell sizes with !important
+.cairn .prose th, .cairn .prose td { font-size: 1rem !important; }
+.cairn .prose tr:nth-child(odd) td, .cairn .prose tr:nth-child(even) td { background-color: transparent; }
+// until the Dice pill is in the header, Menu takes its place at the top row's right end
+@media (max-width: 959px) { .cairn-header .wrap:not(:has(.dice-pill)) .menu-btn { margin-left: auto; } }

@@ -1,0 +1,117 @@
+// Ported from the redesign prototype (redesign/prototype_template.html, frozen at 261c1edb): home.
+/* ---------- home */
+/* hero: Player's Guide cover art behind a dark scrim */
+.hero { position: relative; isolation: isolate; padding-top: 72px; padding-bottom: 72px; overflow: hidden; background: var(--bg); }
+.hero::before { content: ''; position: absolute; inset: 0; z-index: -1;
+  background: var(--hero-img) right center / cover no-repeat; filter: saturate(1.2); }
+/* a slight Ken Burns: the art starts 6% larger and settles over 14s on exactly the resting frame (transform: none).
+   Only the art moves; the scrim and text stay put. Skipped for anyone who asks for reduced motion. */
+@keyframes hero-settle { from { transform: scale(1.06); } to { transform: none; } }
+@media (prefers-reduced-motion: no-preference) {
+  .hero::before { transform-origin: 75% 45%; will-change: transform; animation: hero-settle 14s cubic-bezier(.25,.1,.25,1) both; } }
+/* the scrim is a soft-edged shape that hugs the text: narrow beside the logo, out past the paragraph and buttons, then
+   sweeping right along the bottom, so the figures in the tree and the monster stay clear. It's drawn in a 3000px-wide box
+   whose x = 2000 is the text column's left edge (the column offset below matches the page margins), and y in % of the
+   hero's height, so it follows the text at any width. */
+.hero::after { content: ''; position: absolute; top: 0; bottom: 0; z-index: -1; width: 3000px;
+  left: calc(max(0px, (100% - 1200px) / 2) + clamp(24px, 50px - (100% - 1200px) / 2, 50px) - 2000px);
+  background: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3000 100' preserveAspectRatio='none'><filter id='b' x='-.1' y='-.5' width='1.2' height='2'><feGaussianBlur stdDeviation='50 8'/></filter><path filter='url(%23b)' fill='rgb(38,37,43)' fill-opacity='.94' d='M0 -20 L2400 -20 L2400 0 C2430 15 2470 26 2560 32 C2665 38 2745 39 2745 52 L2745 79 C2745 88 2835 94 2960 102 L2960 120 L0 120 Z'/></svg>") 0 0 / 100% 100% no-repeat; pointer-events: none; }
+.hero-logo { margin: 0 0 20px; color: var(--heading); line-height: 0; }
+.hero-logo .logo { height: clamp(96px, 14vw, 150px); width: auto; display: block; }
+.hero .lede { font-size: 1.3rem; max-width: 32em; }
+.hero .actions { display: flex; gap: 14px; flex-wrap: wrap; align-items: center; margin-top: 26px; }
+.hero .start-link { min-height: 44px; display: inline-flex; align-items: center; padding: 0 6px; }
+/* Start steps: a full-bleed slideshow of the Player's Guide section art, one step filling the section at a time, with
+   the heading and each step's text overlaid. The art's dark forest edges meet with a 48px blend as it slides, so the
+   three read as one wood. It advances on its own every 7s (paused on hover, focus, Pause, reduced motion, or off-screen). */
+#home-start { --text-left: calc(max(0px, (100% - 1200px) / 2) + clamp(24px, 50px - (100% - 1200px) / 2, 50px)); --join: 48px;
+  --pad: max(var(--text-left), 64px); padding-top: 0; }  /* text clears the 48px blends and the arrows */
+.steps-show { position: relative; width: 100%; aspect-ratio: 1600 / 520; min-height: 340px; max-height: min(60vh, calc(100vh - 88px)); background: #000; }  /* a band cut from the art; each slide's scene() picks the crop */
+/* the book's diamond chain frames the slideshow above and below, full width, touching the art */
+.diamond-rule.steps-edge { margin: 0; }
+.steps-band { height: 100%; overflow-x: auto; overflow-y: hidden; scroll-snap-type: x mandatory; scrollbar-width: none; }
+.steps-band::-webkit-scrollbar { display: none; }
+.steps-band:focus-visible { outline-offset: -3px; }
+@media (prefers-reduced-motion: no-preference) { .steps-band { scroll-behavior: smooth; } }
+.steps { display: flex; height: 100%; margin: 0; padding: 0; list-style: none; }
+.step { position: relative; flex: 0 0 100%; height: 100%; margin: 0; overflow: hidden; scroll-snap-align: start; background: #000; }
+.step + .step { margin-left: calc(-1 * var(--join));
+  -webkit-mask-image: linear-gradient(to right, transparent, #000 var(--join)); mask-image: linear-gradient(to right, transparent, #000 var(--join)); }
+.step-art { position: absolute; inset: 0; width: 100%; height: 100%; }
+/* steps 1 and 2 move, and end exactly where the art has them. Step 1: the bow arm turns about the archer's drawing hand
+   (452.1, 305.6 in its 1600×784 frame) and the bird drifts in from up and to the right. Step 2: the rider gallops in from
+   the left. Step 3: her sword swings down and right into the clash about her grip, and his rises about his. Slow, once
+   each time the step comes into view. */
+.anim-arm { transform-box: view-box; transform-origin: 452.1px 305.6px; }  /* the fist, where the strings and arrow meet */
+.anim-bird { transform-box: fill-box; transform-origin: 30% 70%; }
+.anim-sword-l { transform-box: view-box; transform-origin: 584.1px 459.4px; }  /* her grip */
+.anim-sword-r { transform-box: view-box; transform-origin: 1208.8px 135.4px; }  /* his grip */
+@keyframes sword-l { from { transform: rotate(-12deg); } to { transform: none; } }
+@keyframes sword-r { from { transform: rotate(-7deg); } to { transform: none; } }
+@keyframes arm-raise { from { transform: rotate(11deg); } to { transform: none; } }
+@keyframes bird-swoop { from { transform: translate(150px, -120px) rotate(-8deg); } to { transform: none; } }
+@keyframes horse-gallop {
+  0% { transform: translate(-264px, 0); } 2.5% { transform: translate(-244.7px, -5.8px); } 5% { transform: translate(-226.3px, 0); } 7.5% { transform: translate(-208.9px, -5.3px); }
+  10% { transform: translate(-192.5px, -1.6px); } 12.5% { transform: translate(-176.9px, -4.1px); } 15% { transform: translate(-162.1px, -3.8px); } 17.5% { transform: translate(-148.2px, -1px); }
+  20% { transform: translate(-135.2px, -4.1px); } 22.5% { transform: translate(-122.9px, -3px); } 25% { transform: translate(-111.4px, -0.6px); } 27.5% { transform: translate(-100.6px, -3.2px); }
+  30% { transform: translate(-90.6px, -3.3px); } 32.5% { transform: translate(-81.2px, -1.5px); } 35% { transform: translate(-72.5px, -0.8px); } 37.5% { transform: translate(-64.5px, -2.3px); }
+  40% { transform: translate(-57px, -2.8px); } 42.5% { transform: translate(-50.2px, -2.3px); } 45% { transform: translate(-43.9px, -1.2px); } 47.5% { transform: translate(-38.2px, -0.1px); }
+  50% { transform: translate(-33px, -0.8px); } 52.5% { transform: translate(-28.3px, -1.4px); } 55% { transform: translate(-24.1px, -1.6px); } 57.5% { transform: translate(-20.3px, -1.7px); }
+  60% { transform: translate(-16.9px, -1.5px); } 62.5% { transform: translate(-13.9px, -1.3px); } 65% { transform: translate(-11.3px, -1px); } 67.5% { transform: translate(-9.1px, -0.8px); }
+  70% { transform: translate(-7.1px, -0.6px); } 72.5% { transform: translate(-5.5px, -0.4px); } 75% { transform: translate(-4.1px, -0.3px); } 77.5% { transform: translate(-3px, -0.2px); }
+  80% { transform: translate(-2.1px, -0.1px); } 82.5% { transform: translate(-1.4px, -0.1px); } 85% { transform: translate(-0.9px, 0); } 87.5% { transform: translate(-0.5px, 0); }
+  90% { transform: translate(-0.3px, 0); } 92.5% { transform: translate(-0.1px, 0); } 100% { transform: translate(0, 0); }
+}
+@media (prefers-reduced-motion: no-preference) {
+  /* until a step's animation plays, its figures wait in their start pose, so nothing shows the end first */
+  .anim-arm { transform: rotate(11deg); }
+  .anim-bird { transform: translate(150px, -120px) rotate(-8deg); }
+  .anim-horse { transform: translate(-264px, 0); }
+  .anim-sword-l { transform: rotate(-12deg); }
+  .anim-sword-r { transform: rotate(-7deg); }
+  .step.is-animating .anim-arm { animation: arm-raise 6s cubic-bezier(.3, .1, .3, 1) both; }
+  .step.is-animating .anim-bird { animation: bird-swoop 7s cubic-bezier(.25, .1, .3, 1) both; }
+  .step.is-animating .anim-horse { animation: horse-gallop 6s linear both; }
+  .step.is-animating .anim-sword-l { animation: sword-l 6s cubic-bezier(.3, .1, .3, 1) both; }
+  .step.is-animating .anim-sword-r { animation: sword-r 6s cubic-bezier(.3, .1, .3, 1) .5s both; }  /* his answers hers */
+}
+/* shade at the bottom for the step's text */
+.step::after { content: ''; position: absolute; inset: 0; pointer-events: none; background: linear-gradient(to top, rgba(0,0,0,.9) 0, rgba(0,0,0,.6) 30%, transparent 60%); }
+.step-body { position: absolute; left: 0; right: 0; bottom: 0; z-index: 1; padding: 72px var(--pad) 32px; color: var(--heading);
+  /* the text carries its own shade, fading out 72px above it, so however tall it gets it stays on near-black */
+  background: linear-gradient(to top, rgba(0,0,0,.88) 0, rgba(0,0,0,.88) calc(100% - 72px), transparent); }
+.step-body > * { max-width: 34em; }
+.step-body p { margin: 0; }
+.step-body p + p { margin-top: 10px; }
+.steps h3 { display: flex; align-items: center; gap: 12px; margin: 0 0 8px; font-size: 1.9rem; }
+.steps h3 a { color: var(--accent); }
+.step-num { flex: none; width: 38px; height: 38px; border-radius: 50%; display: grid; place-items: center; background: var(--accent); color: var(--on-accent); font-size: 1rem; }
+.steps-arrow { position: absolute; z-index: 3; top: 50%; transform: translateY(-50%); width: 48px; height: 48px; border-radius: 50%; border: 2px solid var(--accent); background: rgba(0,0,0,.6); color: var(--accent); font: 700 1.7rem/1 system-ui, sans-serif; cursor: pointer; display: grid; place-items: center; padding: 0 0 4px; }
+.steps-arrow.prev { left: 10px; }
+.steps-arrow.next { right: 10px; }
+.steps-arrow:hover { background: rgba(0,0,0,.85); }
+.steps-pause { position: absolute; z-index: 3; right: 10px; bottom: 10px; min-height: 36px; padding: 0 14px; border-radius: 999px; border: 1px solid rgba(255,255,255,.35); background: rgba(0,0,0,.6); color: var(--heading); font: 600 .9rem system-ui, sans-serif; cursor: pointer; }
+.steps-pause:hover { border-color: var(--heading); }
+#home-sheets { background: var(--surface); }
+/* News and community: the newest New School Revolution post beside the ways to share and join in, each under a small
+   label; side by side when there's room, stacked otherwise, and the community half fills the row if there's no post */
+.news-grid { display: grid; grid-template-columns: minmax(0, 1fr); gap: 48px; align-items: start; }
+.news-rule { display: none; }
+/* side by side from 860px, split by the book's hairline stood upright, with an open circle at each end */
+@media (min-width: 860px) {
+  .news-grid:has(> #home-blog:not([hidden])) { grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr); column-gap: 56px; }
+  .news-grid:has(> #home-blog:not([hidden])) > .news-rule { display: block; align-self: stretch; position: relative; width: 1px; margin: 6px 0; background: var(--heading); opacity: .667; }
+  .news-rule::before, .news-rule::after { content: ''; position: absolute; left: 50%; width: 6px; height: 6px; box-sizing: border-box;
+    border: 1.5px solid var(--heading); border-radius: 50%; transform: translateX(-50%); }
+  .news-rule::before { bottom: 100%; }
+  .news-rule::after { top: 100%; }
+}
+.news-part > .eyebrow { margin: 0 0 12px; }
+.news-part .lede { margin-top: 0; }
+.blog-post { max-width: 38rem; }
+.blog-post h4 { margin: 0 0 8px; font-size: 1.6rem; }
+.blog-post h4 a { text-decoration: none; }
+.blog-post h4 a:hover { text-decoration: underline; }
+.blog-post p { margin: 0; font-size: 1.15rem; }
+.news-more { margin: 14px 0 0; }
+.share .actions { display: flex; gap: 12px; flex-wrap: wrap; margin-top: 8px; }

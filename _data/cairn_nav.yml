@@ -1,0 +1,76 @@
+# The header's menus and the footer's link lists. Edit freely: each link is a site path (or a full URL) and its text.
+# The sidebar is unchanged: it still comes from each page's parent / nav_order front matter.
+
+menus:
+  - title: Rules
+    href: /second-edition/players-guide/core-rules/
+    section: /second-edition/   # the header marks this item on any page under this path
+    links:
+      - [Core Rules, /second-edition/players-guide/core-rules/]
+      - [Player's Guide, /second-edition/players-guide/]
+      - [Warden's Guide, /second-edition/wardens-guide/]
+      - [Backgrounds, /second-edition/backgrounds/]
+      - [PDFs and game files, /second-edition/game-files/]
+      - [Print copies, /second-edition/print-copies/]
+      - [First Edition, /first-edition/]
+  - title: Resources
+    href: /resources/
+    section: /resources/
+    links:
+      - [All resources, /resources/]
+      - [Monsters, /resources/monsters/]
+      - [Adventures, /adventures/]
+      - [Tools, /second-edition/tools/character-generator/]
+      - [Backgrounds, /second-edition/backgrounds/]
+      - ["Relics, Spellbooks & Equipment", /resources/more-relics/]
+      - ["Hirelings & Pregens", /resources/hirelings/]
+      - [Hacks, /hacks/]
+      - [Translations, /localization/]
+      - [Guides for Wardens, /resources/rules-summary/]
+      - [First Edition, /first-edition/]
+  - title: Adventures
+    href: /adventures/
+    section: /adventures/
+    links:
+      - [All adventures, /adventures/]
+      - [First Party, /adventures/first-party/]
+      - [Originals, /adventures/originals/]
+      - [Conversions, /adventures/conversions/]
+      - [Submit an adventure, /submissions/submission-guide/]
+  - title: Community
+    href: /#home-share
+    links:
+      - [News and community, /#home-share]
+      - [Discord, /discord-server/]
+      - [Submission guide, /submissions/submission-guide/]
+      - [Third-party content, /third-party/]
+      - [Translations, /localization/]
+  - title: Store
+    href: /store/books/
+    section: /store/
+    links:
+      - [Books, /store/books/]
+      - [Cairn Press, /cairn-press/]
+      - [Merch, /store/merch/]
+      - [Newsletter, /newsletter/subscribe/]
+      - [Official App (Kettlewright), /official-app/]
+
+footer:
+  - title: Read
+    links:
+      - [Core Rules, /second-edition/players-guide/core-rules/]
+      - [Player's Guide, /second-edition/players-guide/]
+      - [Warden's Guide, /second-edition/wardens-guide/]
+      - [PDFs and game files, /second-edition/game-files/]
+  - title: Play
+    links:
+      - [Resources, /resources/]
+      - [Monsters, /resources/monsters/]
+      - [Adventures, /adventures/]
+      - [Character Generator, /second-edition/tools/character-generator/]
+  - title: Share
+    links:
+      - [Submission guide, /submissions/submission-guide/]
+      - [Discord, /discord-server/]
+      - [Translations, /localization/]
+      - [First Edition, /first-edition/]

@@ -1,0 +1,38 @@
+{%- comment -%}
+  The site header: logo, the main menus (from _data/cairn_nav.yml), search, and the Menu button for narrow screens.
+  #main-header, #menu-button, #search-input and #search-results keep Just the Docs' ids, so its own script still runs
+  the menu button and search.
+{%- endcomment -%}
+<header class="cairn-header" id="main-header">
+  <div class="wrap">
+    <a class="brand" href="{{ '/' | relative_url }}">{% include cairn-logo.svg %}<span class="sr-only">Cairn, home</span></a>
+    <button class="btn-icon menu-btn" id="menu-button" type="button" aria-expanded="false" aria-controls="primaryNav site-nav">
+      <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M3 6h18M3 12h18M3 18h18" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round"/></svg>Menu
+    </button>
+    <nav class="primary-nav" id="primaryNav" aria-label="Main">
+      <ul>
+        {%- for m in site.data.cairn_nav.menus %}
+        {%- assign cairn_current = nil -%}
+        {%- if m.section and page.url contains m.section -%}{%- if page.url == m.href -%}{%- assign cairn_current = 'page' -%}{%- else -%}{%- assign cairn_current = 'true' -%}{%- endif -%}{%- endif %}
+        <li data-menu>{% include cairn/link.html href=m.href text=m.title current=cairn_current %}
+          <div class="nav-menu"><ul>
+            {%- for l in m.links %}
+            <li>{%- assign lh = l[1] -%}{%- assign lt = l[0] -%}{% include cairn/link.html href=lh text=lt %}</li>
+            {%- endfor %}
+          </ul></div>
+        </li>
+        {%- endfor %}
+      </ul>
+    </nav>
+    {%- if site.search_enabled != false %}
+    {% capture search_placeholder %}{% include search_placeholder_custom.html %}{% endcapture %}
+    <div class="cairn-search" role="search">
+      <label for="search-input" class="sr-only">Search Cairn</label>
+      <input type="search" id="search-input" class="search-input" dir="auto" autocomplete="off" placeholder="{{ search_placeholder | strip_html | strip }}" aria-keyshortcuts="Control+K Meta+K">
+      <kbd aria-hidden="true" class="search-key">Ctrl K</kbd>
+      <div id="search-results" class="search-results results"></div>
+    </div>
+    {%- endif %}
+    {%- comment -%} The Dice pill goes here (assets/js/cairn-dice.js). {%- endcomment %}
+  </div>
+</header>

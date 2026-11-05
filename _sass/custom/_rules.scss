@@ -1,0 +1,114 @@
+// Ported from the redesign prototype (redesign/prototype_template.html, frozen at 261c1edb): rules.
+/* ---------- rules view */
+.rules-layout { display: grid; grid-template-columns: 250px minmax(0, 1fr) 230px; gap: 40px; padding: 32px 24px 64px; width: min(1320px, 100%); margin: 0 auto; }
+/* source order is nav, "On this page", article; place them explicitly */
+.rules-layout > .section-nav { grid-column: 1; grid-row: 1; }
+.rules-layout > .rules-main { grid-column: 2; grid-row: 1; }
+.rules-layout > .toc { grid-column: 3; grid-row: 1; }
+/* breadcrumbs: only when the Second Edition sidebar is hidden (below 1100px), as the page's first row */
+.rules-layout > .crumbs { display: none; grid-column: 1 / -1; grid-row: 1; }
+.crumbs ol { list-style: none; display: flex; flex-wrap: wrap; gap: 4px; padding: 0; margin: 0; font-size: 1rem; color: var(--muted); }
+.crumbs li + li { margin: 0; }
+.crumbs li + li::before { content: '›'; margin-right: 6px; color: var(--muted); }
+.crumbs a { color: var(--muted); }
+.section-nav { position: sticky; top: calc(var(--head, 88px) + 8px); align-self: start; max-height: calc(100vh - var(--head, 88px) - 24px); overflow: auto; font-size: 1rem; padding-right: 6px; }
+.nav-title { font-size: 1.05rem; letter-spacing: .05em; text-transform: uppercase; color: var(--muted); margin: 0 0 8px; }
+.section-nav ul { list-style: none; padding: 0; margin: 0; }
+.section-nav li + li { margin: 0; }
+.section-nav a { display: flex; align-items: center; min-height: 36px; padding: 4px 10px; border-radius: 4px; color: var(--text); text-decoration: none; }
+.section-nav a:hover { background: var(--surface-2); color: var(--heading); }
+.section-nav a[aria-current="page"] { background: var(--surface-2); color: var(--heading); font-weight: 700; box-shadow: inset 3px 0 0 var(--accent); }
+.section-nav details { margin: 4px 0; }
+.section-nav summary { min-height: 40px; display: flex; align-items: center; gap: 8px; padding: 4px 10px; cursor: pointer; color: var(--heading); font-weight: 700; border-radius: 4px; list-style: none; }
+.section-nav summary::-webkit-details-marker { display: none; }
+.section-nav summary::before { content: '▸'; color: var(--muted); }
+@media (prefers-reduced-motion: no-preference) { .section-nav summary::before { transition: transform .15s; } }
+.section-nav details[open] > summary::before { transform: rotate(90deg); }
+.section-nav summary:hover { background: var(--surface-2); }
+.section-nav details ul { margin-left: 14px; border-left: 1px solid var(--border); padding-left: 6px; }
+.section-nav .sub-part { font-size: .85rem; color: var(--muted); text-transform: uppercase; letter-spacing: .04em; padding: 8px 10px 2px; }
+/* Book design language (Player's Guide section spreads): hairline ending in a small open circle */
+.book-rule { position: relative; height: 1px; background: var(--heading); margin-right: 6px; }
+.book-rule::after, .book-rule.both::before { content: ''; position: absolute; left: 100%; top: 50%; width: 6px; height: 6px; box-sizing: border-box;
+  border: 1.5px solid var(--heading); border-radius: 50%; transform: translateY(-50%); }
+/* the opener's hairline ends in a circle at both ends, like the book's footer rule */
+.book-rule.both { margin-left: 6px; }
+.book-rule.both::before { left: auto; right: 100%; }
+/* Rules opener: the hairline with the rings centred on the column, pulled up 18px; the title sits under it */
+.opener { position: relative; display: grid; grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr); column-gap: 12px; row-gap: 6px;
+  align-items: start; padding-top: 52px; margin: -18px 0 8px; }
+.opener .opener-rule { position: absolute; top: 52px; left: 6px; right: 6px; margin: 0; }
+/* the title row: the page title, with the page actions ("more" button, opening a small list of links) at its right */
+.title-row { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-bottom: calc(var(--h1) / 2); }
+.title-row > h1 { min-width: 0; margin: 0; }  /* the row carries the title's bottom margin, so ⋯ centres on the title itself */
+/* the language flag and ⋯ sit together at the row's right end; both open the same kind of small menu */
+.title-actions { display: flex; align-items: center; gap: 6px; flex: none; }
+.page-actions, .lang-picker { position: relative; flex: none; }
+.page-actions > button, .lang-picker > button { width: 44px; height: 44px; display: grid; place-items: center; border: 1px solid transparent; border-radius: 4px; background: none; color: var(--text); cursor: pointer; }
+.page-actions > button:hover, .page-actions > button[aria-expanded="true"], .lang-picker > button:hover, .lang-picker > button[aria-expanded="true"] { background: var(--surface-2); border-color: var(--border); color: var(--heading); }
+.page-actions ul, .lang-picker ul { position: absolute; right: 0; top: calc(100% + 4px); z-index: 15; min-width: 240px; margin: 0; padding: 6px; list-style: none;
+  background: var(--surface); border: 1px solid var(--border-strong); border-radius: 6px; box-shadow: var(--shadow-pop); }
+.page-actions li + li, .lang-picker li + li { margin: 0; }
+.page-actions a, .lang-picker li button { display: flex; align-items: center; gap: 10px; width: 100%; min-height: 44px; padding: 0 12px; border: 0; border-radius: 4px; background: none; color: var(--text); text-decoration: none; font: inherit; font-size: 1rem; text-align: left; white-space: nowrap; cursor: pointer; }
+.page-actions a:hover, .page-actions a:focus-visible, .lang-picker li button:hover, .lang-picker li button:focus-visible { background: var(--surface-2); color: var(--heading); }
+.lang-picker li button[aria-current="true"] { color: var(--heading); font-weight: 700; }
+.lang-picker li button[aria-current="true"]::after { content: '✓'; margin-left: auto; color: var(--accent); }
+.lang-picker li small { color: var(--muted); font-size: .85rem; font-weight: 400; }
+/* flags: 24×16, rounded, with a hairline so white and dark flags hold their edge; a language with no flag gets its code */
+.flag { flex: none; display: block; width: 24px; height: 16px; border-radius: 2px; overflow: hidden; box-shadow: 0 0 0 1px rgba(227,233,240,.35); }
+.flag-badge { display: grid; place-items: center; background: var(--surface-2); color: var(--heading); font: 700 10px/1 system-ui, sans-serif; letter-spacing: .04em; }
+.l10n-credit { margin: calc(var(--h1) / -2 + 6px) 0 calc(var(--h1) / 2); color: var(--muted); font-size: .95rem; }
+.l10n-credit a { color: inherit; }
+:lang(zh) { font-family: 'Alegreya', "PingFang SC", "Noto Serif SC", "Songti SC", Georgia, serif; }
+.prose blockquote { margin: 1em 0; padding: 4px 0; padding-inline-start: 18px; border-inline-start: 3px solid var(--border-strong); color: var(--text); font-style: italic; }
+.prose blockquote p { margin: 0; }
+.opener-rings { grid-column: 2; grid-row: 1; margin-top: -52px; color: var(--accent); display: block; }  /* the rings in the brand gold; the hairline stays white */
+/* the book's diamond chain (it frames the art bands): one row of outlined diamonds, coloured through a mask.
+   Used above and below the home page's Start slideshow (preview: snippets/diamond-chain.html). Add <div class="diamond-rule" aria-hidden="true"></div>. */
+.diamond-rule { height: 6px; margin: 4px 0 0; background: var(--heading);
+  -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='6.7' height='6' viewBox='0 0 6.7 6'%3E%3Cpath d='M0.35 3 L3.35 0.1 L6.35 3 L3.35 5.9 Z' fill='none' stroke='%23000' stroke-width='0.7'/%3E%3C/svg%3E") left center / 6.7px 6px; -webkit-mask-repeat: round no-repeat;
+  mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='6.7' height='6' viewBox='0 0 6.7 6'%3E%3Cpath d='M0.35 3 L3.35 0.1 L6.35 3 L3.35 5.9 Z' fill='none' stroke='%23000' stroke-width='0.7'/%3E%3C/svg%3E") left center / 6.7px 6px; mask-repeat: round no-repeat; }
+.diamond-rule ~ .prose > h2:first-child { margin-top: 32px; }
+.prose { max-width: 70ch; }
+.prose h2 { margin-top: 1.8em; padding-top: .4em; }
+.prose h3 { margin-top: 1.4em; }
+.prose h4, .prose h5, .prose h6 { margin: 1.3em 0 .4em; }
+.prose h5, .prose h6 { font-size: 1.05rem; }
+.prose li > ul, .prose li > ol { margin: .25em 0 0; }
+.prose hr { border: 0; border-top: 1px solid var(--border); margin: 2em 0; }
+/* the Warden's Guide example maps: inlined, capped to the column, linking to the full size on cairnrpg.com */
+.prose figure { margin: 1.5em 0; }
+.prose figure img { display: block; max-width: 100%; height: auto; border: 1px solid var(--border); border-radius: 4px; background: #fff; }
+/* a page's child pages, listed after its text as JTD does */
+.prose .child-list { margin-top: 1.5em; padding-inline-start: 1.25em; }
+.section-nav .nav-title a { color: inherit; text-decoration: none; }
+.section-nav .nav-title a:hover, .section-nav .nav-title a[aria-current="page"] { color: var(--heading); text-decoration: underline; }
+table.aligned { table-layout: fixed; }  /* its <colgroup> widths, shared with the tables around it (alignTables) */
+table.aligned th, table.aligned td { overflow-wrap: break-word; }
+table.aligned tbody th { white-space: normal; }  /* its column has a set width, so a long row header (a Marketplace item) wraps */
+/* ---------- tables, previous / next, "On this page", back to top */
+.table-wrap { overflow-x: auto; margin: 0 0 1.2em; border: 1px solid var(--border); border-radius: 6px; }
+table { border-collapse: collapse; width: 100%; font-size: 1rem; }
+/* short tables: the frame shrinks to the table instead of leaving an empty bordered area */
+.table-wrap.narrow { width: fit-content; max-width: 100%; }
+.table-wrap.narrow table { width: auto; min-width: 280px; }
+caption { text-align: start; padding: 10px 12px; font-weight: 700; color: var(--heading); background: var(--surface-2); }
+th, td { text-align: start; vertical-align: top; padding: 8px 12px; border-top: 1px solid var(--border); }
+thead th { background: var(--surface); color: var(--heading); white-space: nowrap; }
+thead td { background: var(--surface); }  /* an empty header cell is a td (an empty th fails accessibility checks); the row stays one colour */
+tbody th { color: var(--heading); white-space: nowrap; }
+.pager { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-top: 48px; }
+.pager a { display: block; padding: 16px 18px; border: 1px solid var(--border); border-radius: 8px; text-decoration: none; background: var(--surface); }
+.pager a:hover { border-color: var(--accent); }
+.pager small { display: block; color: var(--muted); font-size: .9rem; }
+.pager .next { text-align: right; }
+.toc { position: sticky; top: calc(var(--head, 88px) + 8px); align-self: start; font-size: .98rem; max-height: calc(100vh - var(--head, 88px) - 24px); overflow: auto; }
+.toc-toggle { display: none; }
+.toc ul { list-style: none; padding: 0; margin: 0; border-inline-start: 1px solid var(--border); }
+.toc li + li { margin: 0; }
+.toc a { display: block; padding: 4px 0; padding-inline-start: 12px; color: var(--text); text-decoration: none; min-height: 32px; }
+.toc a:hover { color: var(--accent); }
+.toc .lvl3 a { padding-inline-start: 26px; font-size: .92rem; color: var(--muted); }
+.toc a.active { color: var(--heading); box-shadow: inset 2px 0 0 var(--accent); }
+.toc [dir="rtl"] a.active { box-shadow: inset -2px 0 0 var(--accent); }
+.back-top { display: inline-flex; min-height: 44px; align-items: center; margin-top: 24px; }

@@ -1,0 +1,18 @@
+// Cairn: the site's own dark palette (the same colours as before), as a Just the Docs colour scheme.
+// The redesign's components use the CSS custom properties in _sass/custom/_base.scss; these Sass variables
+// set the colours Just the Docs itself uses (search results, tables, code, buttons).
+@import "./color_schemes/dark";
+
+$body-background-color: #26252b;
+$body-heading-color: #e3e9f0;
+$body-text-color: #c9d1d9;
+$link-color: #f2c488;
+$nav-child-link-color: #c9d1d9;
+$sidebar-color: #26252b;
+$base-button-color: #37363e;
+$btn-primary-color: #f2c488;
+$feedback-color: #2e2d34;
+$table-background-color: #26252b;
+$search-background-color: #2e2d34;
+$search-result-preview-color: #a9b1bb;
+$border-color: #45444d;

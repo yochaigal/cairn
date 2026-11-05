@@ -1,0 +1,104 @@
+// Ported from the redesign prototype (redesign/prototype_template.html, frozen at 261c1edb): dice.
+/* ---------- dice roller: a pill at the header's far right opens a drawer from the right; dice-box rolls 3D dice over the page */
+.dice-pill { display: inline-flex; align-items: center; gap: 8px; min-height: 44px; padding: 0 16px 0 12px; border: 1.5px solid var(--dice); border-radius: 999px; background: none; color: var(--heading); font: inherit; font-weight: 700; cursor: pointer; white-space: nowrap; }
+.dice-pill:hover, :root:has(.dice-tray:popover-open) .dice-pill { background: color-mix(in srgb, var(--dice) 24%, transparent); }
+.dice-pill svg { width: 20px; height: 20px; flex: none; }
+.dice-tray { position: fixed; inset: 0 0 0 auto; margin: 0; width: 360px; max-width: 100vw; height: auto; padding: 0; overflow: hidden; background: var(--surface); color: var(--text); border: 0; border-left: 1px solid var(--border-strong); box-shadow: -14px 0 34px rgba(0,0,0,.4); }  /* a drawer: the window's full height, against its right edge, over the header (the Dice pill, under it, opens it again) */
+.dice-tray:popover-open { display: flex; flex-direction: column; }
+.dice-tray [hidden] { display: none !important; }
+@media (prefers-reduced-motion: no-preference) {
+  .dice-tray { transition: translate .2s ease, display .2s allow-discrete, overlay .2s allow-discrete; translate: 100% 0; }
+  .dice-tray:popover-open { translate: 0 0; }
+  @starting-style { .dice-tray:popover-open { translate: 100% 0; } }
+}
+/* the head, body and foot follow the character creation drawer's (.cb-drawer-head, .cb-drawer-body, .cb-bar) */
+.dice-head { flex: none; display: grid; grid-template-columns: 44px minmax(0, 1fr) 44px; align-items: center; gap: 8px; padding: calc(10px + env(safe-area-inset-top)) 8px 10px; background: var(--surface); border-bottom: 1px solid var(--border-strong); }
+.dice-head h2 { margin: 0; font-size: 1.2rem; text-align: center; }
+.dice-tray[data-view="rolls"] .i-back, .dice-tray[data-view="settings"] .i-gear { display: none; }
+.dice-body { flex: 1 1 auto; min-height: 0; overflow: auto; padding: 12px 16px; display: flex; flex-direction: column; }
+.dice-body:focus-visible { outline-offset: -3px; }
+.dice-foot { flex: none; padding: 10px 16px calc(12px + env(safe-area-inset-bottom)); display: grid; gap: 8px; background: var(--surface); border-top: 3px solid var(--dice); box-shadow: 0 -8px 20px rgba(0,0,0,.3); }
+.dice-switch { position: relative; display: inline-flex; align-items: center; gap: 8px; min-height: 44px; font-size: .95rem; cursor: pointer; }
+.dice-switch input { position: absolute; opacity: 0; inset: 0; margin: 0; cursor: pointer; }
+.dice-switch-ui { position: relative; width: 40px; height: 22px; border-radius: 999px; background: var(--border-strong); }
+.dice-switch-ui::after { content: ''; position: absolute; top: 3px; left: 3px; width: 16px; height: 16px; border-radius: 50%; background: var(--heading); }
+.dice-switch input:checked + .dice-switch-ui { background: var(--accent); }
+.dice-switch input:checked + .dice-switch-ui::after { left: 21px; background: var(--on-accent); }
+.dice-switch input:focus-visible + .dice-switch-ui { outline: 3px solid var(--focus); outline-offset: 2px; }
+.dice-switch:has(input:disabled) { opacity: .6; cursor: not-allowed; }
+.dice-why { margin: 0 0 12px; }
+.dice-chat { margin-top: auto; }  /* a short history sits at the foot, like a chat */
+.dice-chat ol { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 10px; }
+.dice-empty { margin: 0; text-align: center; }
+.dice-msg { margin: 0; padding: 10px 12px; display: grid; grid-template-columns: minmax(0, 1fr) auto; column-gap: 12px; row-gap: 2px; background: var(--surface-2); border-left: 4px solid var(--dice); border-radius: 6px; }
+.dice-msg > * { grid-column: 1; overflow-wrap: anywhere; }
+.dice-msg .what { color: var(--heading); font-weight: 700; }
+.dice-msg .total { grid-column: 2; grid-row: 1 / span 3; align-self: center; padding-right: 22px; font-size: 2.6rem; font-weight: 700; color: var(--heading); line-height: 1.1; font-variant-numeric: tabular-nums; }
+.dice-msg .note, .dice-msg .time { color: var(--muted); font-size: .85rem; }
+.dice-settings { display: grid; gap: 20px; align-content: start; }
+.dice-settings h3 { margin: 0 0 6px; font-size: 1rem; }
+.dice-settings p { margin: 0; }
+.dice-linkbtn { min-height: 44px; padding: 0 4px; background: none; border: 0; color: var(--accent); font: inherit; font-size: .95rem; text-decoration: underline; text-underline-offset: .18em; cursor: pointer; }
+.dice-linkbtn:hover { color: var(--accent-strong); }
+/* a die in the text rolls itself, as on cairnrpg.com; a roll table marks the row it lands on */
+button.roll { display: inline; min-height: 0; padding: 0 1px; margin: 0; background: none; border: 0; border-bottom: 1.5px dashed var(--dice); border-radius: 0; color: inherit; font: inherit; line-height: inherit; cursor: pointer; }
+button.roll:hover { color: var(--heading); border-bottom-style: solid; }
+tr.hit > * { background: color-mix(in srgb, var(--dice) 30%, transparent); }
+tr.hit > :first-child { box-shadow: inset 4px 0 0 var(--dice); }
+.dice-poolrow { display: flex; align-items: center; justify-content: space-between; gap: 8px; }
+.dice-poolrow .dice-linkbtn { min-height: 28px; }
+.dice-pool { margin: 0; color: var(--heading); font-weight: 700; }
+.dice-poolrow:has(.dice-pool:empty) { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); }  /* nothing picked: the line is for screen readers only */
+.dice-grid { display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 3px; list-style: none; margin: 0; padding: 0; }
+.dice-grid li { position: relative; margin: 0; }
+.die-add { width: 100%; min-height: 56px; display: grid; place-items: center; padding: 2px; background: var(--surface-2); border: 1px solid var(--border); border-radius: 6px; color: var(--text); cursor: pointer; }
+.die-add:hover, .dice-grid li.is-editing .die-add { border-color: var(--dice); }
+.die-add svg { width: min(46px, 100%); height: auto; aspect-ratio: 1; }
+.die-add .shape { fill: var(--dice); }
+.die-add .num { fill: #fff; font: 700 17px/1 'Alegreya', Georgia, serif; text-anchor: middle; dominant-baseline: central; }
+.die-qty { position: absolute; top: -9px; right: -5px; z-index: 2; display: flex; align-items: center; height: 28px; border: 2px solid var(--surface); border-radius: 14px; background: var(--accent); color: var(--on-accent); }
+/* the gold count is one control with the stepper: tapping it, or a die, grows it into −, the count and + (a bin at 1), as when
+   adding an item to a cart; it folds back into the count. The − and + have no width until it's open, so the pill grows out of the
+   circle (the first die's from its left edge, so it stays inside the drawer) */
+.die-count { min-width: 24px; height: 24px; padding: 0 5px; border: 0; background: none; color: inherit; font: inherit; font-weight: 700; font-size: .85rem; font-variant-numeric: tabular-nums; cursor: pointer; }
+.die-minus, .die-plus { display: grid; place-items: center; width: 0; height: 36px; padding: 0; overflow: hidden; visibility: hidden; background: none; border: 0; border-radius: 50%; color: inherit; cursor: pointer; }
+.dice-grid li:first-child .die-qty { right: auto; left: calc(100% - 23px); }
+.dice-grid li.is-editing .die-qty { top: -15px; height: 40px; border-color: var(--accent); background: var(--surface); color: var(--heading); box-shadow: 0 6px 18px rgba(0,0,0,.45); }
+.dice-grid li:first-child.is-editing .die-qty { left: 0; }
+.dice-grid li.is-editing .die-minus, .dice-grid li.is-editing .die-plus { width: 36px; visibility: visible; }
+.dice-grid li.is-editing .die-count { min-width: 28px; height: 36px; font-size: 1.05rem; }
+.die-minus:hover, .die-plus:hover { background: var(--surface-2); }
+.die-plus[aria-disabled="true"] { opacity: .4; cursor: not-allowed; }
+.die-qty svg { width: 18px; height: 18px; }
+.die-minus .i-trash, .die-minus[data-one] .i-minus { display: none; }
+.die-minus[data-one] .i-trash { display: block; }
+@media (prefers-reduced-motion: no-preference) {
+  .die-qty { transition: top .18s ease, left .18s ease, height .18s ease, background-color .18s ease, border-color .18s ease, box-shadow .18s ease; }
+  .die-count { transition: min-width .18s ease, height .18s ease, font-size .18s ease; }
+  .die-minus, .die-plus { transition: width .18s ease, visibility 0s .18s; }  /* hidden only once it has shrunk */
+  .dice-grid li.is-editing .die-minus, .dice-grid li.is-editing .die-plus { transition: width .18s ease, visibility 0s; }
+}
+.dice-compose { display: flex; gap: 8px; }
+.dice-compose input { flex: 1; min-width: 0; min-height: 44px; padding: 0 14px; background: var(--bg); color: var(--text); border: 1px solid var(--border-strong); border-radius: 999px; font: inherit; font-size: 16px; }
+.dice-compose input[aria-invalid="true"] { border-color: var(--heading); border-width: 2px; }
+.dice-compose .btn { min-height: 44px; padding: 0 20px; }
+.dice-compose .btn:disabled { opacity: .5; cursor: not-allowed; }
+.dice-err { margin: 0; color: var(--heading); font-size: .95rem; }
+.dice-label, .dice-note { color: var(--muted); font-size: .9rem; }
+.dice-colours { border: 0; margin: 0; padding: 0; min-width: 0; }
+.dice-colours legend { padding: 0; margin-bottom: 8px; font-weight: 700; color: var(--heading); font-size: .95rem; }
+.dice-colours .opts { display: grid; grid-template-columns: 1fr 1fr; gap: 6px; }
+.dice-colours label { position: relative; display: flex; align-items: center; gap: 8px; min-height: 36px; padding: 0 8px; border: 1px solid var(--border); border-radius: 4px; cursor: pointer; font-size: .92rem; }
+.dice-colours input, .seg input, .cb-switch input { position: absolute; opacity: 0; inset: 0; margin: 0; cursor: pointer; }
+.dice-colours .sw { width: 18px; height: 18px; border-radius: 50%; flex: none; background: var(--c); box-shadow: inset 0 0 0 1px rgba(255,255,255,.25); }
+.dice-colours input:checked ~ .sw { box-shadow: 0 0 0 2px var(--surface), 0 0 0 4px var(--heading); }
+.dice-colours label:has(input:checked) { border-color: var(--heading); color: var(--heading); }
+.dice-colours label:has(input:focus-visible) { outline: 3px solid var(--focus); outline-offset: 2px; }
+/* after Roll the tray closes so the dice are in view; this card shows the result under the pill until the dice clear */
+.dice-toast { position: fixed; z-index: 40; min-width: 200px; max-width: calc(100vw - 32px); padding: 10px 14px; background: var(--surface); border: 1px solid var(--border-strong); border-left: 4px solid var(--dice); border-radius: 6px; box-shadow: 0 10px 26px rgba(0,0,0,.45); color: var(--text); font: inherit; text-align: left; cursor: pointer; }
+.dice-toast p { margin: 0; }
+.dice-toast .dice-total { font-size: 1.4rem; font-weight: 700; color: var(--heading); line-height: 1.2; }
+#diceStage { position: fixed; inset: 0; z-index: 30; pointer-events: none; }
+@media (min-width: 760px) { :root:has(.dice-tray:popover-open) #diceStage { right: 360px; } }  /* the dice land beside the open drawer */
+#diceStage canvas { width: 100%; height: 100%; display: block; }
+#diceStage.dice-fade { opacity: 0; transition: opacity .4s ease-out; }

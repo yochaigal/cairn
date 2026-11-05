@@ -3,18 +3,15 @@ permalink: pretty
 theme: just-the-docs
 url: https://cairnrpg.com
 logo: "/img/logo.svg"
-color_scheme: dark
+color_scheme: cairn
 encoding: UTF-8
 plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
-  - jekyll-jtd-toc-nav 
   - jekyll-dice-tray
   - jekyll-image-links
   - rpg-callouts
   - jekyll-titles-from-headings
-# Exclude H1 page titles from the sidebar TOC to avoid duplicate entries; keep section headings.
-sidebar_toc_levels: "2..4"
 include:
   - js
 
