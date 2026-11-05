@@ -2,7 +2,7 @@
 layout: default
 title: Build An Adventure Site
 parent: Tools
-grand_parent: First Edition
+grand_parent: Second Edition
 redirect_from: /tools/build-an-adventure-site/
 ---
 
