@@ -1,42 +1,254 @@
-# The Core Rules' language switcher (and the Translations tile's count). Each translation stays in its translator's
-# own repo and site; the switcher links to its Core Rules page there. `site: false` means it has no site yet, so the
-# link opens the file on GitHub. `status` is shown after the name, in English. `flag` is the inside of a 24×16 SVG.
+# The language switcher on rules pages (and the Translations tile's count). Each translation stays in its translator's
+# own repo and site. `pages` maps a page here (its source path) to the same page in that translation; the switcher
+# shows on any page at least one translation has, and lists the others as "not translated yet". It's a snapshot:
+# add a line when a translation adds a page. `repo` is where to look for new ones. `site: false` means it has no site
+# yet (its `pages` point at GitHub) and adds "(on GitHub)" after the name. `status` is shown after the name, in
+# English. `flag` is the inside of a 24×16 SVG.
 
 - name: "English"
   code: en
   dir: ltr
-  url: https://cairnrpg.com/second-edition/players-guide/core-rules/
   flag: "<rect width=\"24\" height=\"16\" fill=\"#fff\"/><path fill=\"#b22234\" d=\"M0 0h24v1.23H0zm0 2.46h24v1.23H0zm0 2.46h24v1.23H0zm0 2.46h24v1.23H0zm0 2.46h24v1.23H0zm0 2.46h24v1.23H0zm0 2.46h24v1.23H0z\"/><rect width=\"10.4\" height=\"8.6\" fill=\"#3c3b6e\"/>"
 - name: "Português (Brasil)"
   code: pt-BR
   dir: ltr
-  url: https://pt-br.cairnrpg.com/regras/core-rules/
+  pages:
+    second-edition.md: https://pt-br.cairnrpg.com/srds/second-edition/
+    second-edition/backgrounds/aurifex.md: https://pt-br.cairnrpg.com/srds/second-edition/backgrounds/aurifex/
+    second-edition/backgrounds/barber-surgeon.md: https://pt-br.cairnrpg.com/srds/second-edition/backgrounds/barber-surgeon/
+    second-edition/backgrounds/beast-handler.md: https://pt-br.cairnrpg.com/srds/second-edition/backgrounds/beast-handler/
+    second-edition/backgrounds/bonekeeper.md: https://pt-br.cairnrpg.com/srds/second-edition/backgrounds/bonekeeper/
+    second-edition/backgrounds/cutpurse.md: https://pt-br.cairnrpg.com/srds/second-edition/backgrounds/cutpurse/
+    second-edition/backgrounds/fieldwarden.md: https://pt-br.cairnrpg.com/srds/second-edition/backgrounds/fieldwarden/
+    second-edition/backgrounds/fletchwind.md: https://pt-br.cairnrpg.com/srds/second-edition/backgrounds/fletchwind/
+    second-edition/backgrounds/foundling.md: https://pt-br.cairnrpg.com/srds/second-edition/backgrounds/foundling/
+    second-edition/backgrounds/fungal-forager.md: https://pt-br.cairnrpg.com/srds/second-edition/backgrounds/fungal-forager/
+    second-edition/backgrounds/greenwise.md: https://pt-br.cairnrpg.com/srds/second-edition/backgrounds/greenwise/
+    second-edition/backgrounds/half-witch.md: https://pt-br.cairnrpg.com/srds/second-edition/backgrounds/half-witch/
+    second-edition/backgrounds/hexenbane.md: https://pt-br.cairnrpg.com/srds/second-edition/backgrounds/hexenbane/
+    second-edition/backgrounds/jongleur.md: https://pt-br.cairnrpg.com/srds/second-edition/backgrounds/jongleur/
+    second-edition/backgrounds/kettlewright.md: https://pt-br.cairnrpg.com/srds/second-edition/backgrounds/kettlewright/
+    second-edition/backgrounds/marchguard.md: https://pt-br.cairnrpg.com/srds/second-edition/backgrounds/marchguard/
+    second-edition/backgrounds/mountebank.md: https://pt-br.cairnrpg.com/srds/second-edition/backgrounds/mountebank/
+    second-edition/backgrounds/outrider.md: https://pt-br.cairnrpg.com/srds/second-edition/backgrounds/outrider/
+    second-edition/backgrounds/prowler.md: https://pt-br.cairnrpg.com/srds/second-edition/backgrounds/prowler/
+    second-edition/backgrounds/rill-runner.md: https://pt-br.cairnrpg.com/srds/second-edition/backgrounds/rill-runner/
+    second-edition/backgrounds/scrivener.md: https://pt-br.cairnrpg.com/srds/second-edition/backgrounds/scrivener/
+    second-edition/game-files.md: https://pt-br.cairnrpg.com/srds/second-edition/game-files/
+    second-edition/players-guide/core-rules.md: https://pt-br.cairnrpg.com/regras/core-rules/
+    second-edition/players-guide/marketplace.md: https://pt-br.cairnrpg.com/regras/marketplace/
+    second-edition/players-guide/overview-and-principles.md: https://pt-br.cairnrpg.com/regras/overview-and-principles/
+    second-edition/players-guide/procedures.md: https://pt-br.cairnrpg.com/regras/procedures/
+    second-edition/print-copies.md: https://pt-br.cairnrpg.com/srds/second-edition/print-copies/
+    second-edition/wardens-guide/about-the-example-party.md: https://pt-br.cairnrpg.com/guia-do-guardiao/about-the-example-party/
+    second-edition/wardens-guide/bestiary.md: https://pt-br.cairnrpg.com/guia-do-guardiao/bestiary/
+    second-edition/wardens-guide/bibliography.md: https://pt-br.cairnrpg.com/guia-do-guardiao/bibliography/
+    second-edition/wardens-guide/bonds-and-omens.md: https://pt-br.cairnrpg.com/guia-do-guardiao/bonds-and-omens/
+    second-edition/wardens-guide/combat.md: https://pt-br.cairnrpg.com/guia-do-guardiao/combat/
+    second-edition/wardens-guide/creating-backgrounds.md: https://pt-br.cairnrpg.com/guia-do-guardiao/creating-backgrounds/
+    second-edition/wardens-guide/creating-monsters.md: https://pt-br.cairnrpg.com/guia-do-guardiao/creating-monsters/
+    second-edition/wardens-guide/detachments.md: https://pt-br.cairnrpg.com/guia-do-guardiao/detachments/
+    second-edition/wardens-guide/dungeon-exploration.md: https://pt-br.cairnrpg.com/guia-do-guardiao/dungeon-exploration/
+    second-edition/wardens-guide/dungeon-seeds.md: https://pt-br.cairnrpg.com/guia-do-guardiao/dungeon-seeds/
+    second-edition/wardens-guide/forest-seeds.md: https://pt-br.cairnrpg.com/guia-do-guardiao/forest-seeds/
+    second-edition/wardens-guide/growth.md: https://pt-br.cairnrpg.com/guia-do-guardiao/growth/
+    second-edition/wardens-guide/knowledge-and-perception.md: https://pt-br.cairnrpg.com/guia-do-guardiao/knowledge-and-perception/
+    second-edition/wardens-guide/naming-procedures.md: https://pt-br.cairnrpg.com/guia-do-guardiao/naming-procedures/
+    second-edition/wardens-guide/npc-tables.md: https://pt-br.cairnrpg.com/guia-do-guardiao/npc-tables/
+    second-edition/wardens-guide/pointcrawls.md: https://pt-br.cairnrpg.com/guia-do-guardiao/pointcrawls/
+    second-edition/wardens-guide/reliquary.md: https://pt-br.cairnrpg.com/guia-do-guardiao/reliquary/
+    second-edition/wardens-guide/saves.md: https://pt-br.cairnrpg.com/guia-do-guardiao/saves/
+    second-edition/wardens-guide/setting-seeds.md: https://pt-br.cairnrpg.com/guia-do-guardiao/setting-seeds/
+    second-edition/wardens-guide/variable-difficulty.md: https://pt-br.cairnrpg.com/guia-do-guardiao/variable-difficulty/
+    second-edition/wardens-guide/wilderness-exploration.md: https://pt-br.cairnrpg.com/guia-do-guardiao/wilderness-exploration/
   repo: RenanStigliani/cairn
   flag: "<rect width=\"24\" height=\"16\" fill=\"#009c3b\"/><path fill=\"#ffdf00\" d=\"M12 1.6L22 8l-10 6.4L2 8z\"/><circle cx=\"12\" cy=\"8\" r=\"3.6\" fill=\"#002776\"/>"
 - name: "Suomi"
   code: fi
   dir: ltr
-  url: https://fi.cairnrpg.com/second-edition/players-guide/core-rules/
+  pages:
+    second-edition.md: https://fi.cairnrpg.com/second-edition/
+    second-edition/backgrounds.md: https://fi.cairnrpg.com/second-edition/backgrounds/
+    second-edition/backgrounds/aurifex.md: https://fi.cairnrpg.com/second-edition/backgrounds/aurifex/
+    second-edition/backgrounds/barber-surgeon.md: https://fi.cairnrpg.com/second-edition/backgrounds/barber-surgeon/
+    second-edition/backgrounds/beast-handler.md: https://fi.cairnrpg.com/second-edition/backgrounds/beast-handler/
+    second-edition/backgrounds/bonekeeper.md: https://fi.cairnrpg.com/second-edition/backgrounds/bonekeeper/
+    second-edition/backgrounds/cutpurse.md: https://fi.cairnrpg.com/second-edition/backgrounds/cutpurse/
+    second-edition/backgrounds/fieldwarden.md: https://fi.cairnrpg.com/second-edition/backgrounds/fieldwarden/
+    second-edition/backgrounds/fletchwind.md: https://fi.cairnrpg.com/second-edition/backgrounds/fletchwind/
+    second-edition/backgrounds/foundling.md: https://fi.cairnrpg.com/second-edition/backgrounds/foundling/
+    second-edition/backgrounds/fungal-forager.md: https://fi.cairnrpg.com/second-edition/backgrounds/fungal-forager/
+    second-edition/backgrounds/greenwise.md: https://fi.cairnrpg.com/second-edition/backgrounds/greenwise/
+    second-edition/backgrounds/half-witch.md: https://fi.cairnrpg.com/second-edition/backgrounds/half-witch/
+    second-edition/backgrounds/hexenbane.md: https://fi.cairnrpg.com/second-edition/backgrounds/hexenbane/
+    second-edition/backgrounds/jongleur.md: https://fi.cairnrpg.com/second-edition/backgrounds/jongleur/
+    second-edition/backgrounds/kettlewright.md: https://fi.cairnrpg.com/second-edition/backgrounds/kettlewright/
+    second-edition/backgrounds/marchguard.md: https://fi.cairnrpg.com/second-edition/backgrounds/marchguard/
+    second-edition/backgrounds/mountebank.md: https://fi.cairnrpg.com/second-edition/backgrounds/mountebank/
+    second-edition/backgrounds/outrider.md: https://fi.cairnrpg.com/second-edition/backgrounds/outrider/
+    second-edition/backgrounds/prowler.md: https://fi.cairnrpg.com/second-edition/backgrounds/prowler/
+    second-edition/backgrounds/rill-runner.md: https://fi.cairnrpg.com/second-edition/backgrounds/rill-runner/
+    second-edition/backgrounds/scrivener.md: https://fi.cairnrpg.com/second-edition/backgrounds/scrivener/
+    second-edition/players-guide.md: https://fi.cairnrpg.com/second-edition/players-guide/
+    second-edition/players-guide/character-creation.md: https://fi.cairnrpg.com/second-edition/players-guide/character-creation/
+    second-edition/players-guide/core-rules.md: https://fi.cairnrpg.com/second-edition/players-guide/core-rules/
+    second-edition/players-guide/marketplace.md: https://fi.cairnrpg.com/second-edition/players-guide/marketplace/
+    second-edition/players-guide/overview-and-principles.md: https://fi.cairnrpg.com/second-edition/players-guide/overview-and-principles/
+    second-edition/players-guide/procedures.md: https://fi.cairnrpg.com/second-edition/players-guide/procedures/
+    second-edition/players-guide/vald.md: https://fi.cairnrpg.com/second-edition/players-guide/vald/
+    second-edition/wardens-guide.md: https://fi.cairnrpg.com/second-edition/wardens-guide/
+    second-edition/wardens-guide/about-the-example-party.md: https://fi.cairnrpg.com/second-edition/wardens-guide/about-the-example-party/
+    second-edition/wardens-guide/bestiary.md: https://fi.cairnrpg.com/second-edition/wardens-guide/bestiary/
+    second-edition/wardens-guide/bonds-and-omens.md: https://fi.cairnrpg.com/second-edition/wardens-guide/bonds-and-omens/
+    second-edition/wardens-guide/combat.md: https://fi.cairnrpg.com/second-edition/wardens-guide/combat/
+    second-edition/wardens-guide/creating-backgrounds.md: https://fi.cairnrpg.com/second-edition/wardens-guide/creating-backgrounds/
+    second-edition/wardens-guide/creating-monsters.md: https://fi.cairnrpg.com/second-edition/wardens-guide/creating-monsters/
+    second-edition/wardens-guide/detachments.md: https://fi.cairnrpg.com/second-edition/wardens-guide/detachments/
+    second-edition/wardens-guide/dungeon-exploration.md: https://fi.cairnrpg.com/second-edition/wardens-guide/dungeon-exploration/
+    second-edition/wardens-guide/dungeon-seeds.md: https://fi.cairnrpg.com/second-edition/wardens-guide/dungeon-seeds/
+    second-edition/wardens-guide/forest-seeds.md: https://fi.cairnrpg.com/second-edition/wardens-guide/forest-seeds/
+    second-edition/wardens-guide/growth.md: https://fi.cairnrpg.com/second-edition/wardens-guide/growth/
+    second-edition/wardens-guide/knowledge-and-perception.md: https://fi.cairnrpg.com/second-edition/wardens-guide/knowledge-and-perception/
+    second-edition/wardens-guide/naming-procedures.md: https://fi.cairnrpg.com/second-edition/wardens-guide/naming-procedures/
+    second-edition/wardens-guide/npc-tables.md: https://fi.cairnrpg.com/second-edition/wardens-guide/npc-tables/
+    second-edition/wardens-guide/pointcrawls.md: https://fi.cairnrpg.com/second-edition/wardens-guide/pointcrawls/
+    second-edition/wardens-guide/reliquary.md: https://fi.cairnrpg.com/second-edition/wardens-guide/reliquary/
+    second-edition/wardens-guide/saves.md: https://fi.cairnrpg.com/second-edition/wardens-guide/saves/
+    second-edition/wardens-guide/setting-seeds.md: https://fi.cairnrpg.com/second-edition/wardens-guide/setting-seeds/
+    second-edition/wardens-guide/spellbooks.md: https://fi.cairnrpg.com/second-edition/wardens-guide/spellbooks/
+    second-edition/wardens-guide/vald.md: https://fi.cairnrpg.com/second-edition/wardens-guide/vald/
+    second-edition/wardens-guide/variable-difficulty.md: https://fi.cairnrpg.com/second-edition/wardens-guide/variable-difficulty/
+    second-edition/wardens-guide/wilderness-exploration.md: https://fi.cairnrpg.com/second-edition/wardens-guide/wilderness-exploration/
   repo: kari/cairn-fi
   flag: "<rect width=\"24\" height=\"16\" fill=\"#fff\"/><path fill=\"#002f6c\" d=\"M6.5 0h4v16h-4zM0 6h24v4H0z\"/>"
 - name: "Русский"
   status: beta
   code: ru
   dir: ltr
-  url: https://ru.cairnrpg.com/second-edition/players-guide/core-rules/
+  pages:
+    second-edition.md: https://ru.cairnrpg.com/second-edition/
+    second-edition/backgrounds.md: https://ru.cairnrpg.com/second-edition/backgrounds/
+    second-edition/backgrounds/aurifex.md: https://ru.cairnrpg.com/second-edition/backgrounds/aurifex/
+    second-edition/backgrounds/barber-surgeon.md: https://ru.cairnrpg.com/second-edition/backgrounds/barber-surgeon/
+    second-edition/backgrounds/beast-handler.md: https://ru.cairnrpg.com/second-edition/backgrounds/beast-handler/
+    second-edition/backgrounds/bonekeeper.md: https://ru.cairnrpg.com/second-edition/backgrounds/bonekeeper/
+    second-edition/backgrounds/cutpurse.md: https://ru.cairnrpg.com/second-edition/backgrounds/cutpurse/
+    second-edition/backgrounds/fieldwarden.md: https://ru.cairnrpg.com/second-edition/backgrounds/fieldwarden/
+    second-edition/backgrounds/fletchwind.md: https://ru.cairnrpg.com/second-edition/backgrounds/fletchwind/
+    second-edition/backgrounds/foundling.md: https://ru.cairnrpg.com/second-edition/backgrounds/foundling/
+    second-edition/backgrounds/fungal-forager.md: https://ru.cairnrpg.com/second-edition/backgrounds/fungal-forager/
+    second-edition/backgrounds/greenwise.md: https://ru.cairnrpg.com/second-edition/backgrounds/greenwise/
+    second-edition/backgrounds/half-witch.md: https://ru.cairnrpg.com/second-edition/backgrounds/half-witch/
+    second-edition/backgrounds/hexenbane.md: https://ru.cairnrpg.com/second-edition/backgrounds/hexenbane/
+    second-edition/backgrounds/jongleur.md: https://ru.cairnrpg.com/second-edition/backgrounds/jongleur/
+    second-edition/backgrounds/kettlewright.md: https://ru.cairnrpg.com/second-edition/backgrounds/kettlewright/
+    second-edition/backgrounds/marchguard.md: https://ru.cairnrpg.com/second-edition/backgrounds/marchguard/
+    second-edition/backgrounds/mountebank.md: https://ru.cairnrpg.com/second-edition/backgrounds/mountebank/
+    second-edition/backgrounds/outrider.md: https://ru.cairnrpg.com/second-edition/backgrounds/outrider/
+    second-edition/backgrounds/prowler.md: https://ru.cairnrpg.com/second-edition/backgrounds/prowler/
+    second-edition/backgrounds/rill-runner.md: https://ru.cairnrpg.com/second-edition/backgrounds/rill-runner/
+    second-edition/backgrounds/scrivener.md: https://ru.cairnrpg.com/second-edition/backgrounds/scrivener/
+    second-edition/game-files.md: https://ru.cairnrpg.com/second-edition/game-files/
+    second-edition/players-guide.md: https://ru.cairnrpg.com/second-edition/players-guide/
+    second-edition/players-guide/character-creation.md: https://ru.cairnrpg.com/second-edition/players-guide/character-creation/
+    second-edition/players-guide/core-rules.md: https://ru.cairnrpg.com/second-edition/players-guide/core-rules/
+    second-edition/players-guide/marketplace.md: https://ru.cairnrpg.com/second-edition/players-guide/marketplace/
+    second-edition/players-guide/overview-and-principles.md: https://ru.cairnrpg.com/second-edition/players-guide/overview-and-principles/
+    second-edition/players-guide/procedures.md: https://ru.cairnrpg.com/second-edition/players-guide/procedures/
+    second-edition/players-guide/vald.md: https://ru.cairnrpg.com/second-edition/players-guide/vald/
+    second-edition/print-copies.md: https://ru.cairnrpg.com/second-edition/print-copies/
+    second-edition/wardens-guide.md: https://ru.cairnrpg.com/second-edition/wardens-guide/
+    second-edition/wardens-guide/about-the-example-party.md: https://ru.cairnrpg.com/second-edition/wardens-guide/about-the-example-party/
+    second-edition/wardens-guide/bestiary.md: https://ru.cairnrpg.com/second-edition/wardens-guide/bestiary/
+    second-edition/wardens-guide/bonds-and-omens.md: https://ru.cairnrpg.com/second-edition/wardens-guide/bonds-and-omens/
+    second-edition/wardens-guide/combat.md: https://ru.cairnrpg.com/second-edition/wardens-guide/combat/
+    second-edition/wardens-guide/creating-backgrounds.md: https://ru.cairnrpg.com/second-edition/wardens-guide/creating-backgrounds/
+    second-edition/wardens-guide/creating-monsters.md: https://ru.cairnrpg.com/second-edition/wardens-guide/creating-monsters/
+    second-edition/wardens-guide/detachments.md: https://ru.cairnrpg.com/second-edition/wardens-guide/detachments/
+    second-edition/wardens-guide/dungeon-exploration.md: https://ru.cairnrpg.com/second-edition/wardens-guide/dungeon-exploration/
+    second-edition/wardens-guide/dungeon-seeds.md: https://ru.cairnrpg.com/second-edition/wardens-guide/dungeon-seeds/
+    second-edition/wardens-guide/forest-seeds.md: https://ru.cairnrpg.com/second-edition/wardens-guide/forest-seeds/
+    second-edition/wardens-guide/growth.md: https://ru.cairnrpg.com/second-edition/wardens-guide/growth/
+    second-edition/wardens-guide/knowledge-and-perception.md: https://ru.cairnrpg.com/second-edition/wardens-guide/knowledge-and-perception/
+    second-edition/wardens-guide/naming-procedures.md: https://ru.cairnrpg.com/second-edition/wardens-guide/naming-procedures/
+    second-edition/wardens-guide/npc-tables.md: https://ru.cairnrpg.com/second-edition/wardens-guide/npc-tables/
+    second-edition/wardens-guide/pointcrawls.md: https://ru.cairnrpg.com/second-edition/wardens-guide/pointcrawls/
+    second-edition/wardens-guide/reliquary.md: https://ru.cairnrpg.com/second-edition/wardens-guide/reliquary/
+    second-edition/wardens-guide/saves.md: https://ru.cairnrpg.com/second-edition/wardens-guide/saves/
+    second-edition/wardens-guide/setting-seeds.md: https://ru.cairnrpg.com/second-edition/wardens-guide/setting-seeds/
+    second-edition/wardens-guide/spellbooks.md: https://ru.cairnrpg.com/second-edition/wardens-guide/spellbooks/
+    second-edition/wardens-guide/vald.md: https://ru.cairnrpg.com/second-edition/wardens-guide/vald/
+    second-edition/wardens-guide/variable-difficulty.md: https://ru.cairnrpg.com/second-edition/wardens-guide/variable-difficulty/
+    second-edition/wardens-guide/wilderness-exploration.md: https://ru.cairnrpg.com/second-edition/wardens-guide/wilderness-exploration/
   repo: TheVarik/cairn-ru
   flag: "<rect width=\"24\" height=\"16\" fill=\"#fff\"/><rect y=\"5.33\" width=\"24\" height=\"5.34\" fill=\"#0039a6\"/><rect y=\"10.67\" width=\"24\" height=\"5.33\" fill=\"#d52b1e\"/>"
 - name: "中文"
   code: zh
   dir: ltr
-  url: https://zh.cairnrpg.com/players-guide/core-rules/
+  pages:
+    second-edition/players-guide.md: https://zh.cairnrpg.com/players-guide/
+    second-edition/players-guide/character-creation.md: https://zh.cairnrpg.com/players-guide/character-creation/
+    second-edition/players-guide/core-rules.md: https://zh.cairnrpg.com/players-guide/core-rules/
+    second-edition/players-guide/marketplace.md: https://zh.cairnrpg.com/players-guide/marketplace/
+    second-edition/players-guide/overview-and-principles.md: https://zh.cairnrpg.com/players-guide/overview-and-principles/
+    second-edition/players-guide/procedures.md: https://zh.cairnrpg.com/players-guide/procedures/
+    second-edition/players-guide/vald.md: https://zh.cairnrpg.com/players-guide/vald/
+    second-edition/wardens-guide.md: https://zh.cairnrpg.com/wardens-guide/
+    second-edition/wardens-guide/about-the-example-party.md: https://zh.cairnrpg.com/wardens-guide/about-the-example-party/
+    second-edition/wardens-guide/bestiary.md: https://zh.cairnrpg.com/wardens-guide/bestiary/
+    second-edition/wardens-guide/bibliography.md: https://zh.cairnrpg.com/wardens-guide/bibliography/
+    second-edition/wardens-guide/bonds-and-omens.md: https://zh.cairnrpg.com/wardens-guide/bonds-and-omens/
+    second-edition/wardens-guide/combat.md: https://zh.cairnrpg.com/wardens-guide/combat/
+    second-edition/wardens-guide/creating-backgrounds.md: https://zh.cairnrpg.com/wardens-guide/creating-backgrounds/
+    second-edition/wardens-guide/creating-monsters.md: https://zh.cairnrpg.com/wardens-guide/creating-monsters/
+    second-edition/wardens-guide/detachments.md: https://zh.cairnrpg.com/wardens-guide/detachments/
+    second-edition/wardens-guide/dungeon-exploration.md: https://zh.cairnrpg.com/wardens-guide/dungeon-exploration/
+    second-edition/wardens-guide/dungeon-seeds.md: https://zh.cairnrpg.com/wardens-guide/dungeon-seeds/
+    second-edition/wardens-guide/forest-seeds.md: https://zh.cairnrpg.com/wardens-guide/forest-seeds/
+    second-edition/wardens-guide/growth.md: https://zh.cairnrpg.com/wardens-guide/growth/
+    second-edition/wardens-guide/knowledge-and-perception.md: https://zh.cairnrpg.com/wardens-guide/knowledge-and-perception/
+    second-edition/wardens-guide/naming-procedures.md: https://zh.cairnrpg.com/wardens-guide/naming-procedures/
+    second-edition/wardens-guide/npc-tables.md: https://zh.cairnrpg.com/wardens-guide/npc-tables/
+    second-edition/wardens-guide/pointcrawls.md: https://zh.cairnrpg.com/wardens-guide/pointcrawls/
+    second-edition/wardens-guide/reliquary.md: https://zh.cairnrpg.com/wardens-guide/reliquary/
+    second-edition/wardens-guide/saves.md: https://zh.cairnrpg.com/wardens-guide/saves/
+    second-edition/wardens-guide/setting-seeds.md: https://zh.cairnrpg.com/wardens-guide/setting-seeds/
+    second-edition/wardens-guide/spellbooks.md: https://zh.cairnrpg.com/wardens-guide/spellbooks/
+    second-edition/wardens-guide/vald.md: https://zh.cairnrpg.com/wardens-guide/vald/
+    second-edition/wardens-guide/variable-difficulty.md: https://zh.cairnrpg.com/wardens-guide/variable-difficulty/
+    second-edition/wardens-guide/wilderness-exploration.md: https://zh.cairnrpg.com/wardens-guide/wilderness-exploration/
   repo: Ascll-Ray/cairn-zh
   flag: "<rect width=\"24\" height=\"16\" fill=\"#de2910\"/><g fill=\"#ffde00\"><path d=\"M4.8 2.2l.85 2.6h2.75l-2.2 1.6.85 2.6-2.25-1.6-2.2 1.6.85-2.6-2.2-1.6H4z\"/><circle cx=\"9.6\" cy=\"1.8\" r=\".6\"/><circle cx=\"10.8\" cy=\"3.6\" r=\".6\"/><circle cx=\"10.8\" cy=\"6\" r=\".6\"/><circle cx=\"9.6\" cy=\"7.8\" r=\".6\"/></g>"
 - name: "עברית"
   status: unofficial
   code: he
   dir: rtl
-  url: https://github.com/EliyahuRotenberg/cairn-he/blob/main/second-edition/players-guide/core-rules.md
+  pages:
+    second-edition/backgrounds/aurifex.md: https://github.com/EliyahuRotenberg/cairn-he/blob/main/second-edition/backgrounds/aurifex.md
+    second-edition/backgrounds/barber-surgeon.md: https://github.com/EliyahuRotenberg/cairn-he/blob/main/second-edition/backgrounds/barber-surgeon.md
+    second-edition/backgrounds/beast-handler.md: https://github.com/EliyahuRotenberg/cairn-he/blob/main/second-edition/backgrounds/beast-handler.md
+    second-edition/backgrounds/bonekeeper.md: https://github.com/EliyahuRotenberg/cairn-he/blob/main/second-edition/backgrounds/bonekeeper.md
+    second-edition/backgrounds/cutpurse.md: https://github.com/EliyahuRotenberg/cairn-he/blob/main/second-edition/backgrounds/cutpurse.md
+    second-edition/backgrounds/fieldwarden.md: https://github.com/EliyahuRotenberg/cairn-he/blob/main/second-edition/backgrounds/fieldwarden.md
+    second-edition/backgrounds/fletchwind.md: https://github.com/EliyahuRotenberg/cairn-he/blob/main/second-edition/backgrounds/fletchwind.md
+    second-edition/backgrounds/foundling.md: https://github.com/EliyahuRotenberg/cairn-he/blob/main/second-edition/backgrounds/foundling.md
+    second-edition/backgrounds/fungal-forager.md: https://github.com/EliyahuRotenberg/cairn-he/blob/main/second-edition/backgrounds/fungal-forager.md
+    second-edition/backgrounds/greenwise.md: https://github.com/EliyahuRotenberg/cairn-he/blob/main/second-edition/backgrounds/greenwise.md
+    second-edition/backgrounds/half-witch.md: https://github.com/EliyahuRotenberg/cairn-he/blob/main/second-edition/backgrounds/half-witch.md
+    second-edition/backgrounds/hexenbane.md: https://github.com/EliyahuRotenberg/cairn-he/blob/main/second-edition/backgrounds/hexenbane.md
+    second-edition/backgrounds/jongleur.md: https://github.com/EliyahuRotenberg/cairn-he/blob/main/second-edition/backgrounds/jongleur.md
+    second-edition/backgrounds/kettlewright.md: https://github.com/EliyahuRotenberg/cairn-he/blob/main/second-edition/backgrounds/kettlewright.md
+    second-edition/backgrounds/marchguard.md: https://github.com/EliyahuRotenberg/cairn-he/blob/main/second-edition/backgrounds/marchguard.md
+    second-edition/backgrounds/mountebank.md: https://github.com/EliyahuRotenberg/cairn-he/blob/main/second-edition/backgrounds/mountebank.md
+    second-edition/backgrounds/outrider.md: https://github.com/EliyahuRotenberg/cairn-he/blob/main/second-edition/backgrounds/outrider.md
+    second-edition/backgrounds/prowler.md: https://github.com/EliyahuRotenberg/cairn-he/blob/main/second-edition/backgrounds/prowler.md
+    second-edition/backgrounds/rill-runner.md: https://github.com/EliyahuRotenberg/cairn-he/blob/main/second-edition/backgrounds/rill-runner.md
+    second-edition/backgrounds/scrivener.md: https://github.com/EliyahuRotenberg/cairn-he/blob/main/second-edition/backgrounds/scrivener.md
+    second-edition/players-guide/character-creation.md: https://github.com/EliyahuRotenberg/cairn-he/blob/main/second-edition/players-guide/character-creation.md
+    second-edition/players-guide/core-rules.md: https://github.com/EliyahuRotenberg/cairn-he/blob/main/second-edition/players-guide/core-rules.md
+    second-edition/players-guide/marketplace.md: https://github.com/EliyahuRotenberg/cairn-he/blob/main/second-edition/players-guide/marketplace.md
+    second-edition/players-guide/overview-and-principles.md: https://github.com/EliyahuRotenberg/cairn-he/blob/main/second-edition/players-guide/overview-and-principles.md
+    second-edition/players-guide/procedures.md: https://github.com/EliyahuRotenberg/cairn-he/blob/main/second-edition/players-guide/procedures.md
   repo: EliyahuRotenberg/cairn-he
   site: false
   flag: "<rect width=\"24\" height=\"16\" fill=\"#fff\"/><path fill=\"#0038b8\" d=\"M0 1.6h24v2.2H0zm0 10.6h24v2.2H0z\"/><g fill=\"none\" stroke=\"#0038b8\" stroke-width=\".7\"><path d=\"M12 4.9l2.7 4.65H9.3z\"/><path d=\"M12 11.1l2.7-4.65H9.3z\"/></g>"
@@ -44,7 +256,59 @@
   status: unofficial
   code: tr
   dir: ltr
-  url: https://github.com/cuceGenco/cairn-tr/blob/main/second-edition/players-guide/core-rules.md
+  pages:
+    second-edition.md: https://github.com/cuceGenco/cairn-tr/blob/main/second-edition.md
+    second-edition/backgrounds.md: https://github.com/cuceGenco/cairn-tr/blob/main/second-edition/backgrounds.md
+    second-edition/backgrounds/aurifex.md: https://github.com/cuceGenco/cairn-tr/blob/main/second-edition/backgrounds/aurifex.md
+    second-edition/backgrounds/barber-surgeon.md: https://github.com/cuceGenco/cairn-tr/blob/main/second-edition/backgrounds/barber-surgeon.md
+    second-edition/backgrounds/beast-handler.md: https://github.com/cuceGenco/cairn-tr/blob/main/second-edition/backgrounds/beast-handler.md
+    second-edition/backgrounds/bonekeeper.md: https://github.com/cuceGenco/cairn-tr/blob/main/second-edition/backgrounds/bonekeeper.md
+    second-edition/backgrounds/cutpurse.md: https://github.com/cuceGenco/cairn-tr/blob/main/second-edition/backgrounds/cutpurse.md
+    second-edition/backgrounds/fieldwarden.md: https://github.com/cuceGenco/cairn-tr/blob/main/second-edition/backgrounds/fieldwarden.md
+    second-edition/backgrounds/fletchwind.md: https://github.com/cuceGenco/cairn-tr/blob/main/second-edition/backgrounds/fletchwind.md
+    second-edition/backgrounds/foundling.md: https://github.com/cuceGenco/cairn-tr/blob/main/second-edition/backgrounds/foundling.md
+    second-edition/backgrounds/fungal-forager.md: https://github.com/cuceGenco/cairn-tr/blob/main/second-edition/backgrounds/fungal-forager.md
+    second-edition/backgrounds/greenwise.md: https://github.com/cuceGenco/cairn-tr/blob/main/second-edition/backgrounds/greenwise.md
+    second-edition/backgrounds/half-witch.md: https://github.com/cuceGenco/cairn-tr/blob/main/second-edition/backgrounds/half-witch.md
+    second-edition/backgrounds/hexenbane.md: https://github.com/cuceGenco/cairn-tr/blob/main/second-edition/backgrounds/hexenbane.md
+    second-edition/backgrounds/jongleur.md: https://github.com/cuceGenco/cairn-tr/blob/main/second-edition/backgrounds/jongleur.md
+    second-edition/backgrounds/kettlewright.md: https://github.com/cuceGenco/cairn-tr/blob/main/second-edition/backgrounds/kettlewright.md
+    second-edition/backgrounds/marchguard.md: https://github.com/cuceGenco/cairn-tr/blob/main/second-edition/backgrounds/marchguard.md
+    second-edition/backgrounds/mountebank.md: https://github.com/cuceGenco/cairn-tr/blob/main/second-edition/backgrounds/mountebank.md
+    second-edition/backgrounds/outrider.md: https://github.com/cuceGenco/cairn-tr/blob/main/second-edition/backgrounds/outrider.md
+    second-edition/backgrounds/prowler.md: https://github.com/cuceGenco/cairn-tr/blob/main/second-edition/backgrounds/prowler.md
+    second-edition/backgrounds/rill-runner.md: https://github.com/cuceGenco/cairn-tr/blob/main/second-edition/backgrounds/rill-runner.md
+    second-edition/backgrounds/scrivener.md: https://github.com/cuceGenco/cairn-tr/blob/main/second-edition/backgrounds/scrivener.md
+    second-edition/players-guide.md: https://github.com/cuceGenco/cairn-tr/blob/main/second-edition/players-guide.md
+    second-edition/players-guide/character-creation.md: https://github.com/cuceGenco/cairn-tr/blob/main/second-edition/players-guide/character-creation.md
+    second-edition/players-guide/core-rules.md: https://github.com/cuceGenco/cairn-tr/blob/main/second-edition/players-guide/core-rules.md
+    second-edition/players-guide/marketplace.md: https://github.com/cuceGenco/cairn-tr/blob/main/second-edition/players-guide/marketplace.md
+    second-edition/players-guide/overview-and-principles.md: https://github.com/cuceGenco/cairn-tr/blob/main/second-edition/players-guide/overview-and-principles.md
+    second-edition/players-guide/procedures.md: https://github.com/cuceGenco/cairn-tr/blob/main/second-edition/players-guide/procedures.md
+    second-edition/players-guide/vald.md: https://github.com/cuceGenco/cairn-tr/blob/main/second-edition/players-guide/vald.md
+    second-edition/wardens-guide.md: https://github.com/cuceGenco/cairn-tr/blob/main/second-edition/wardens-guide.md
+    second-edition/wardens-guide/about-the-example-party.md: https://github.com/cuceGenco/cairn-tr/blob/main/second-edition/wardens-guide/about-the-example-party.md
+    second-edition/wardens-guide/bestiary.md: https://github.com/cuceGenco/cairn-tr/blob/main/second-edition/wardens-guide/bestiary.md
+    second-edition/wardens-guide/bonds-and-omens.md: https://github.com/cuceGenco/cairn-tr/blob/main/second-edition/wardens-guide/bonds-and-omens.md
+    second-edition/wardens-guide/combat.md: https://github.com/cuceGenco/cairn-tr/blob/main/second-edition/wardens-guide/combat.md
+    second-edition/wardens-guide/creating-backgrounds.md: https://github.com/cuceGenco/cairn-tr/blob/main/second-edition/wardens-guide/creating-backgrounds.md
+    second-edition/wardens-guide/creating-monsters.md: https://github.com/cuceGenco/cairn-tr/blob/main/second-edition/wardens-guide/creating-monsters.md
+    second-edition/wardens-guide/detachments.md: https://github.com/cuceGenco/cairn-tr/blob/main/second-edition/wardens-guide/detachments.md
+    second-edition/wardens-guide/dungeon-exploration.md: https://github.com/cuceGenco/cairn-tr/blob/main/second-edition/wardens-guide/dungeon-exploration.md
+    second-edition/wardens-guide/dungeon-seeds.md: https://github.com/cuceGenco/cairn-tr/blob/main/second-edition/wardens-guide/dungeon-seeds.md
+    second-edition/wardens-guide/forest-seeds.md: https://github.com/cuceGenco/cairn-tr/blob/main/second-edition/wardens-guide/forest-seeds.md
+    second-edition/wardens-guide/growth.md: https://github.com/cuceGenco/cairn-tr/blob/main/second-edition/wardens-guide/growth.md
+    second-edition/wardens-guide/knowledge-and-perception.md: https://github.com/cuceGenco/cairn-tr/blob/main/second-edition/wardens-guide/knowledge-and-perception.md
+    second-edition/wardens-guide/naming-procedures.md: https://github.com/cuceGenco/cairn-tr/blob/main/second-edition/wardens-guide/naming-procedures.md
+    second-edition/wardens-guide/npc-tables.md: https://github.com/cuceGenco/cairn-tr/blob/main/second-edition/wardens-guide/npc-tables.md
+    second-edition/wardens-guide/pointcrawls.md: https://github.com/cuceGenco/cairn-tr/blob/main/second-edition/wardens-guide/pointcrawls.md
+    second-edition/wardens-guide/reliquary.md: https://github.com/cuceGenco/cairn-tr/blob/main/second-edition/wardens-guide/reliquary.md
+    second-edition/wardens-guide/saves.md: https://github.com/cuceGenco/cairn-tr/blob/main/second-edition/wardens-guide/saves.md
+    second-edition/wardens-guide/setting-seeds.md: https://github.com/cuceGenco/cairn-tr/blob/main/second-edition/wardens-guide/setting-seeds.md
+    second-edition/wardens-guide/spellbooks.md: https://github.com/cuceGenco/cairn-tr/blob/main/second-edition/wardens-guide/spellbooks.md
+    second-edition/wardens-guide/vald.md: https://github.com/cuceGenco/cairn-tr/blob/main/second-edition/wardens-guide/vald.md
+    second-edition/wardens-guide/variable-difficulty.md: https://github.com/cuceGenco/cairn-tr/blob/main/second-edition/wardens-guide/variable-difficulty.md
+    second-edition/wardens-guide/wilderness-exploration.md: https://github.com/cuceGenco/cairn-tr/blob/main/second-edition/wardens-guide/wilderness-exploration.md
   repo: cuceGenco/cairn-tr
   site: false
   flag: "<rect width=\"24\" height=\"16\" fill=\"#e30a17\"/><circle cx=\"9\" cy=\"8\" r=\"4\" fill=\"#fff\"/><circle cx=\"10\" cy=\"8\" r=\"3.2\" fill=\"#e30a17\"/><path fill=\"#fff\" d=\"M13.2 8l2.5-.85-1.55 2.15V6.7l1.55 2.15z\"/>"

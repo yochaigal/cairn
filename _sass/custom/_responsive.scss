@@ -73,6 +73,12 @@
   /* "On this page" is moved into the article, under the title and any builder callout (placeToc) */
   .rules-main > .toc { position: static; max-height: none; overflow: visible; margin: 0 0 24px; }  /* overflow: auto would clip the focus ring */
   .opener { margin-top: 0; }  /* the -18px pull-up would leave 2px under the 20px phone padding */
+  .title-row { gap: 24px; }  /* the theme hangs the title's link icon 16px past its end, so it would touch the buttons */
+  /* the language list hangs from the ⋯ button's edge, not the flag's, so it fits a 320px screen */
+  .title-actions { position: relative; }
+  .lang-picker { position: static; }
+  .lang-picker ul { max-width: calc(100vw - 32px); }
+  .lang-picker li a, .lang-picker li button { white-space: normal; }
   .toc-toggle { display: inline-flex; align-items: center; gap: 8px; min-height: 44px; padding: 0 14px; border: 1px solid var(--border-strong); border-radius: 4px; background: var(--surface); color: var(--heading); font: inherit; font-size: 1rem; cursor: pointer; }
   .toc .nav-title { display: none; }
   .toc ul { margin-top: 10px; background: var(--surface); padding: 8px 0; border-radius: 6px; border: 1px solid var(--border); }

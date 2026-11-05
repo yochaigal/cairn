@@ -48,12 +48,11 @@
 .page-actions > button:hover, .page-actions > button[aria-expanded="true"], .lang-picker > button:hover, .lang-picker > button[aria-expanded="true"] { background: var(--surface-2); border-color: var(--border); color: var(--heading); }
 .page-actions ul, .lang-picker ul { position: absolute; right: 0; top: calc(100% + 4px); z-index: 15; min-width: 240px; margin: 0; padding: 6px; list-style: none;
   background: var(--surface); border: 1px solid var(--border-strong); border-radius: 6px; box-shadow: var(--shadow-pop); }
-.page-actions li + li, .lang-picker li + li { margin: 0; }
+.page-actions li, .lang-picker li { margin: 0; }
 .page-actions a, .lang-picker li button { display: flex; align-items: center; gap: 10px; width: 100%; min-height: 44px; padding: 0 12px; border: 0; border-radius: 4px; background: none; color: var(--text); text-decoration: none; font: inherit; font-size: 1rem; text-align: left; white-space: nowrap; cursor: pointer; }
 .page-actions a:hover, .page-actions a:focus-visible, .lang-picker li button:hover, .lang-picker li button:focus-visible { background: var(--surface-2); color: var(--heading); }
-.lang-picker li button[aria-current="true"] { color: var(--heading); font-weight: 700; }
-.lang-picker li button[aria-current="true"]::after { content: '✓'; margin-left: auto; color: var(--accent); }
 .lang-picker li small { color: var(--muted); font-size: .85rem; font-weight: 400; }
+.lang-picker li button[aria-disabled="true"] { color: var(--muted); cursor: default; }  /* a language without this page */
 /* flags: 24×16, rounded, with a hairline so white and dark flags hold their edge; a language with no flag gets its code */
 .flag { flex: none; display: block; width: 24px; height: 16px; border-radius: 2px; overflow: hidden; box-shadow: 0 0 0 1px rgba(227,233,240,.35); }
 .flag-badge { display: grid; place-items: center; background: var(--surface-2); color: var(--heading); font: 700 10px/1 system-ui, sans-serif; letter-spacing: .04em; }
@@ -69,7 +68,7 @@
   -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='6.7' height='6' viewBox='0 0 6.7 6'%3E%3Cpath d='M0.35 3 L3.35 0.1 L6.35 3 L3.35 5.9 Z' fill='none' stroke='%23000' stroke-width='0.7'/%3E%3C/svg%3E") left center / 6.7px 6px; -webkit-mask-repeat: round no-repeat;
   mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='6.7' height='6' viewBox='0 0 6.7 6'%3E%3Cpath d='M0.35 3 L3.35 0.1 L6.35 3 L3.35 5.9 Z' fill='none' stroke='%23000' stroke-width='0.7'/%3E%3C/svg%3E") left center / 6.7px 6px; mask-repeat: round no-repeat; }
 .diamond-rule ~ .prose > h2:first-child { margin-top: 32px; }
-.prose { max-width: 70ch; }
+.view-main .prose { max-width: 70ch; }  /* a rules page's text fills its column, up to "On this page" */
 .prose h2 { margin-top: 1.8em; padding-top: .4em; }
 .prose h3 { margin-top: 1.4em; }
 .prose h4, .prose h5, .prose h6 { margin: 1.3em 0 .4em; }

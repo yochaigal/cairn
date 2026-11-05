@@ -11,7 +11,7 @@ html { font-size: 16px !important; }
 .cairn .main-content a:not([class]) { text-decoration: underline; text-underline-offset: .18em; text-decoration-thickness: 1px; }
 
 // ---------- the sidebar: Just the Docs' nav, scoped to the current section by cairn-nav.js
-.section-nav .site-nav { display: block; padding: 0; overflow: visible; }
+.section-nav .site-nav { display: block; width: auto; padding: 0; overflow: visible; }
 .section-nav .site-nav > .nav-title a { color: var(--muted); text-decoration: none; }
 .section-nav .site-nav > .nav-title a[aria-current] { color: var(--heading); }
 .section-nav .site-nav.scoped .other-section { display: none; }
@@ -100,6 +100,9 @@ html { font-size: 16px !important; }
 // the theme's .btn:focus swaps the focus ring for a faint blue shadow; the redesign's ring wins on every button
 .btn:focus { box-shadow: none; }
 .btn:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; }
+// the theme greys out a disabled button; the redesign's keeps its own colours, faded by each view's opacity rule
+.cairn .btn-primary:disabled { background: var(--accent); border-color: var(--accent); color: var(--on-accent); }
+.cairn .btn-secondary:disabled { background: transparent; border-color: var(--accent); color: var(--accent); }
 // the search result the arrow keys pick (focus stays in the input) gets a marker that isn't colour alone
 .cairn-search .search-result.active { box-shadow: inset 3px 0 0 var(--accent); outline: 2px solid var(--accent); outline-offset: -2px; }
 @media (forced-colors: active) { .cairn-search .search-result.active { outline-color: Highlight; } }

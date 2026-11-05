@@ -12,7 +12,8 @@
     const setOpen = (open, focus) => {
       btn.setAttribute('aria-expanded', String(open)); list.hidden = !open;
       const xs = items(), cur = xs.findIndex(x => x.getAttribute('aria-current') === 'true');
-      if (open && focus) xs[focus === 'last' ? xs.length - 1 : focus === 'current' && cur >= 0 ? cur : 0].focus();
+      const first = Math.max(0, xs.findIndex(x => x.getAttribute('aria-disabled') !== 'true'));  // skip a language this page isn't in
+      if (open && focus) xs[focus === 'last' ? xs.length - 1 : focus === 'current' && cur >= 0 ? cur : first].focus();
       if (!open && focus) btn.focus();
     };
     btn.addEventListener('click', () => setOpen(list.hidden, list.hidden ? 'current' : false));
@@ -176,7 +177,7 @@
       h1.before(row); row.append(h1, actions);
     }
     menu(actions.querySelector('.page-actions'), $('#actionsBtn'), $('#actionsList'), 'a');
-    if ($('#langPicker')) menu($('#langPicker'), $('#langBtn'), $('#langList'), 'a');
+    if ($('#langPicker')) menu($('#langPicker'), $('#langBtn'), $('#langList'), 'a, button');
   }
 
   // ---------- "On this page": the page's H2s and H3s (not the children list Just the Docs adds after the text)
