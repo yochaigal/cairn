@@ -60,3 +60,9 @@
   REDUCE.addEventListener('change', () => { if (REDUCE.matches) { paused = true; label(); arm(); } });
   label(); arm();
 })();
+
+// a cover that doesn't load (offline, or gone) becomes a panel with the adventure's name
+document.addEventListener('error', ev => {
+  const img = ev.target;
+  if (img.matches?.('img.adv-cover')) { img.closest('.adv-art').classList.add('no-cover'); img.remove(); }
+}, true);

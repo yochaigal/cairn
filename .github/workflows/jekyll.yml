@@ -3,6 +3,10 @@ name: Deploy Jekyll site to Pages
 on:
   push:
     branches: ["main"]
+  # rebuild weekly and on demand, so adventures added to Scrivener appear without a push here
+  schedule:
+    - cron: "17 6 * * 1"
+  workflow_dispatch:
 
 permissions:
   contents: read
@@ -19,6 +23,16 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
+      # Scrivener's adventure posts, for the Adventures catalog (_plugins/cairn_adventures.rb). If this fails the
+      # site still builds, listing this repo's adventure pages only.
+      - name: Checkout Scrivener
+        uses: actions/checkout@v4
+        continue-on-error: true
+        with:
+          repository: yochaigal/scrivener
+          path: _scrivener
+          sparse-checkout: posts
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
