@@ -48,3 +48,5 @@
   .bestiary { grid-template-columns: 32px minmax(0, 1fr); column-gap: 16px; }
   .az a, .az span { min-height: 30px; font-size: 1.2rem; }
 }
+/* a letter the filter has emptied (cairn-monsters.js) */
+.az li.empty a { color: var(--muted); opacity: .55; pointer-events: none; }

@@ -1,0 +1,35 @@
+{%- comment -%}
+  The Monsters page (resources/monsters.md, `cairn_layout: monsters`): every monster's stat block, A to Z, with a
+  filter and a letter rail (assets/js/cairn-monsters.js). The list comes from the monster pages themselves
+  (_plugins/cairn_monsters.rb); each name links to its own page, as before.
+{%- endcomment -%}
+{%- assign M = site.data.cairn_monsters -%}
+<p><a href="{{ '/resources/monsters-other-formats/' | relative_url }}">Other formats (print, cards)</a></p>
+<div class="bestiary">
+  <div class="monster-tools">
+    <div class="field"><label for="mq">Filter monsters by name or text</label><input id="mq" type="search" autocomplete="off" aria-describedby="mqStatus"></div>
+    <p class="muted" id="mqStatus" role="status">{{ M.size }} monsters</p>
+  </div>
+  <nav class="az-rail" id="azRail" aria-label="Monsters by letter"><ul class="az" id="az">
+    {%- assign letters = "" | split: "" -%}
+    {%- for m in M %}{%- assign l = m.name | slice: 0 | upcase -%}{%- unless letters contains l -%}{%- assign letters = letters | push: l -%}{%- endunless -%}{%- endfor -%}
+    {%- for l in letters %}
+    <li><a href="#m-{{ l }}" data-l="{{ l }}" aria-label="Monsters starting with {{ l }}">{{ l }}</a></li>
+    {%- endfor %}
+  </ul></nav>
+  <div class="stream" id="monsterList">
+    {%- for l in letters %}
+    <div class="letter-group" id="m-{{ l }}" tabindex="-1">
+      {%- for m in M %}{%- assign ml = m.name | slice: 0 | upcase -%}{%- if ml == l %}
+      <article class="monster"><h3><a href="{{ m.url | relative_url }}">{{ m.name }}</a></h3><div class="book-rule both" aria-hidden="true"></div>
+        {%- if m.stats.size > 0 %}<p class="stats">{% for s in m.stats %}<span class="stat"><span class="dot" aria-hidden="true">•</span><b>{{ s[1] }}</b> <span class="l">{{ s[0] }}</span></span>{% endfor %}</p>{% endif %}
+        {%- if m.attack != "" %}<p class="attack">{{ m.attack | markdownify | remove: '<p>' | remove: '</p>' | strip }}</p>{% endif %}
+        {%- if m.bullets.size > 0 %}<ul>{% for b in m.bullets %}<li>{{ b | markdownify | remove: '<p>' | remove: '</p>' | strip }}</li>{% endfor %}</ul>{% endif %}
+      </article>
+      {%- endif %}{%- endfor %}
+    </div>
+    {%- endfor %}
+    <p class="muted" id="mqNone" hidden>No monsters match.</p>
+  </div>
+</div>
+<script src="{{ '/assets/js/cairn-monsters.js' | relative_url }}" defer></script>

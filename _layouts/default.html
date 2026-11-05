@@ -26,6 +26,15 @@ layout: table_wrappers
   <main id="main-content" class="home-main" tabindex="-1">
     {% include cairn/home.html %}
   </main>
+  {%- elsif page.cairn_layout %}
+  {%- comment -%} A full-width page (Resources, Monsters, Adventures): the page's own text, then its view. {%- endcomment %}
+  <main id="main-content" class="view-main" tabindex="-1">
+    <div class="wrap view-top">
+      <div class="prose view-intro">{{ content }}</div>
+      {%- if page.summary %}<p class="lede">{{ page.summary }}</p>{% endif %}
+      {% include cairn/{{ page.cairn_layout }}.html %}
+    </div>
+  </main>
   {%- else %}
   <div class="rules-layout">
     <div class="crumbs">{% include components/breadcrumbs.html %}</div>

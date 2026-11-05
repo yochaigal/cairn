@@ -1,0 +1,22 @@
+{%- comment -%}
+  The Resources page (resources.md, `cairn_layout: resources`): every kind of resource as a card, from
+  _data/cairn_resources.yml, each with its page's `summary:` and its links.
+{%- endcomment -%}
+<h2 class="res-browse">Browse by type</h2>
+<div class="grid grid-3" id="resTiles">
+  {%- for t in site.data.cairn_resources %}
+  {%- assign sp = nil -%}{%- if t.summary_of -%}{%- assign sp = site.pages | where: "path", t.summary_of | first -%}{%- endif %}
+  <div class="card tile" id="{{ t.id }}">
+    <h3>{% include cairn/link.html href=t.href text=t.title %}</h3>
+    <span class="count">{% include cairn/tile-count.html tile=t %}</span>
+    {%- if sp.summary %}<p class="tile-desc">{{ sp.summary }}</p>{% endif %}
+    {%- if t.links %}
+    <ul class="chapter-list">
+      {%- for l in t.links %}{%- assign lh = l[1] -%}{%- assign lt = l[0] %}
+      <li>{% include cairn/link.html href=lh text=lt %}</li>
+      {%- endfor %}
+    </ul>
+    {%- endif %}
+  </div>
+  {%- endfor %}
+</div>
