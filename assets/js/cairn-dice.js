@@ -345,6 +345,12 @@ let opener = null;
 function collapse() { setView('rolls'); tray.hidePopover(); behind(); saveOpen(); (opener?.isConnected ? opener : $('#diceBtn')).focus(); opener = null; }
 $('#diceBtn').addEventListener('click', () => { focusOnOpen = !isOpen(); setTimeout(saveOpen); });  // the pill's own toggle runs after this
 $('#diceCollapse').addEventListener('click', collapse);
+// from 760px the drawer covers the page's right edge (the pill too), so focus moving to anything under it closes it,
+// leaving focus put; the notices sit above it
+document.addEventListener('focusin', e => {
+  if (!isOpen() || narrow() || walking() || e.target.closest('#diceTray, #notices')) return;
+  if (e.target.getBoundingClientRect().right > document.documentElement.clientWidth - tray.offsetWidth) { tray.hidePopover(); saveOpen(); }  // its width, not its box, which slides in
+});
 tray.addEventListener('beforetoggle', e => {  // before it's shown, so it never paints unplaced
   if (e.newState !== 'open') return;
   hideToast(); place();
