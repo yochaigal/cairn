@@ -3,12 +3,14 @@
   const $ = s => document.querySelector(s);
   const REDUCE = matchMedia('(prefers-reduced-motion: reduce)');
 
-  // the two switches pick a file; the Download button says which one (it opens the Player's Guide on itch.io)
+  // the layout switch sets the Download button's file, file name and label
   const sheetPick = () => {
-    const v = n => $(`input[name="${n}"]:checked`).value;
-    $('#sheetDownload')?.setAttribute('aria-label', `Download the ${v('sheet-layout')} sheet, ${v('sheet-paper')}: opens the Player's Guide on itch.io`);
+    const r = $('input[name="sheet-layout"]:checked'), a = $('#sheetDownload');
+    a.href = r.dataset.href; a.download = `cairn-character-sheet-${r.value}.pdf`;
+    a.setAttribute('aria-label', `Download the ${r.value} sheet (PDF)`);
   };
   document.querySelectorAll('.sheet-pick input').forEach(r => r.addEventListener('change', sheetPick));
+  if ($('#sheetDownload')) { sheetPick(); addEventListener('pageshow', sheetPick); }  // a reload or Back can bring back the other choice
 
   const band = $('#stepsBand');
   if (!band) return;

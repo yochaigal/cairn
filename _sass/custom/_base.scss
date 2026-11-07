@@ -31,5 +31,5 @@ li + li { margin-top: .25em; }
 .muted { color: var(--muted); }
 .eyebrow { font-size: .95rem; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); margin-bottom: .6em; }
 
-.skip { position: absolute; left: 12px; top: -60px; z-index: 50; background: var(--accent); color: var(--on-accent); padding: 10px 16px; border-radius: 4px; font-weight: 700; }
-.skip:focus { top: 12px; }
+a.skip { position: absolute; left: 12px; top: -60px; z-index: 50; background: var(--accent); color: var(--on-accent); padding: 10px 16px; border-radius: 4px; font-weight: 700; }
+a.skip:focus { top: 12px; }  /* a.skip outranks a:hover, so the text keeps its contrast under the pointer */

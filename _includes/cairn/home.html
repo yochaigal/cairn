@@ -5,6 +5,7 @@
 {%- endcomment -%}
 {%- assign H = site.data.cairn_home -%}
 {%- assign art = '/assets/redesign/' | relative_url -%}
+{%- assign sheets = art | append: 'builder/sheets/' -%}
 <section class="hero" aria-labelledby="home-title"><div class="wrap">
   <h1 id="home-title" class="hero-logo" tabindex="-1">{% include cairn-logo.svg %}<span class="sr-only">Cairn</span></h1>
   <p class="lede">{{ H.hero | default: page.title }}</p>
@@ -63,23 +64,15 @@
   <div class="wrap sheets">
     <div class="sheets-text">
       <h2 id="sheets-title" tabindex="-1">Character sheets</h2>
-      <p class="muted">Free PDFs from the <a href="https://cairnpress.itch.io/cairn-players-guide">Player's Guide on itch.io</a>. Also <a href="https://cairnpress.itch.io/cairn-players-guide">two to a page (Letter)</a>.</p>
+      <p class="muted">A fillable PDF (about 3 MB), Letter size. A4 and two to a page are in the free <a href="https://cairnpress.itch.io/cairn-players-guide">Player's Guide on itch.io</a>.</p>
       <fieldset class="sheet-pick">
-        <legend class="sr-only">Layout</legend>
+        <legend class="sr-only">Sheet layout</legend>
         <div class="seg">
-          <label><input type="radio" name="sheet-layout" value="Landscape" checked><span>Landscape</span></label>
-          <label><input type="radio" name="sheet-layout" value="Portrait"><span>Portrait</span></label>
+          <label><input type="radio" name="sheet-layout" value="landscape" data-href="{{ sheets }}landscape.pdf" checked><span>Landscape</span></label>
+          <label><input type="radio" name="sheet-layout" value="portrait" data-href="{{ sheets }}portrait.pdf"><span>Portrait</span></label>
         </div>
       </fieldset>
-      <fieldset class="sheet-pick">
-        <legend class="sr-only">Paper</legend>
-        <div class="seg">
-          <label><input type="radio" name="sheet-paper" value="Letter" checked><span>Letter</span></label>
-          <label><input type="radio" name="sheet-paper" value="A4"><span>A4</span></label>
-          <label><input type="radio" name="sheet-paper" value="Fillable Letter"><span>Fillable Letter</span></label>
-        </div>
-      </fieldset>
-      <a class="btn btn-primary sheet-download" id="sheetDownload" href="https://cairnpress.itch.io/cairn-players-guide" aria-label="Download the Landscape sheet, Letter: opens the Player's Guide on itch.io">Download</a>
+      <a class="btn btn-primary sheet-download" id="sheetDownload" href="{{ sheets }}landscape.pdf" download="cairn-character-sheet-landscape.pdf" aria-label="Download the landscape sheet (PDF)">Download</a>
     </div>
     <div class="sheets-figs">
       <figure class="sheet sheet-land">

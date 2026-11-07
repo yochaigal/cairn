@@ -37,7 +37,6 @@
   .dice-pill { order: -1; margin-left: auto; }
 }
 @media (max-width: 759px) {
-  body { font-size: 17px; }
   .wrap { padding: 0 16px; }
   #home-start { --text-left: 16px; }
   .steps-show { aspect-ratio: auto; height: 400px; }

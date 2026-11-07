@@ -2,6 +2,7 @@
 // Everything else in the redesign uses its own class names, so the theme's layout rules don't reach it.
 
 .cairn { font-size: 18px; line-height: 1.6; }
+@media (max-width: 759px) { .cairn { font-size: 17px; } }
 .cairn .main-content { max-width: none; padding: 0; }
 .cairn .main-content h1:first-of-type { margin-top: 0; }
 // the theme sets a 14px root on phones; the redesign's rem sizes are all against 16px
@@ -80,7 +81,6 @@ html { font-size: 16px !important; }
 .cairn .prose .table-wrapper { margin: 0 0 1.2em; box-shadow: none; overflow-x: auto; border: 1px solid var(--border); border-radius: 6px; }
 .cairn .prose .table-wrapper table { margin: 0; border: 0; }
 .cairn .prose .anchor-heading svg { fill: var(--muted); }
-.cairn .skip-to-main { background: var(--accent); color: var(--on-accent); }
 // the theme forces table cell sizes with !important
 .cairn .prose th, .cairn .prose td { font-size: 1rem !important; }
 .cairn .prose td { background-color: transparent; }

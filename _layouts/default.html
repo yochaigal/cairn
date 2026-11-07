@@ -18,7 +18,7 @@ layout: table_wrappers
 <body>
   {%- comment -%} jekyll-dice-tray reparses each page as a fragment, which drops the <body> tag (and its class), so the page class sits on this wrapper. {%- endcomment %}
   <div class="cairn{% if page.cairn_layout == 'home' %} cairn-home{% endif %}">
-  <a class="skip skip-to-main" href="#main-content">Skip to main content</a>
+  <a class="skip" href="#main-content">Skip to main content</a>
   {% include icons/icons.html %}
   {% include cairn/header.html %}
 
