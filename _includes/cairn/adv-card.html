@@ -1,0 +1,22 @@
+{%- comment -%}
+  One adventure's card: include.e is an entry of site.data.cairn_adventures; include.h is its title's heading level.
+  It opens the adventure's page here, or goes straight to its store (in the same tab, labelled "On itch.io ↗").
+  A cover that doesn't load becomes a panel with the adventure's name (cairn-nav.js).
+{%- endcomment -%}
+{%- assign e = include.e -%}
+{%- assign h = include.h -%}
+{%- assign label = site.data.cairn_adventure_groups | where: "id", e.group | first -%}
+<li class="adv-card" data-g="{{ e.group }}" data-a="{{ e.author | escape }}" data-p="{{ e.price_kind }}" data-price="{{ e.price }}" data-t="{{ e.tags | join: '|' | escape }}" data-n="{{ e.name | escape }}">
+  <a href="{{ e.href | relative_url }}"><span class="adv-art{% unless e.cover %} no-cover{% endunless %}">
+    {%- if e.cover %}<img class="adv-cover" src="{{ e.cover | relative_url }}" alt="" loading="lazy" referrerpolicy="no-referrer">{% endif -%}
+    <span class="adv-panel" aria-hidden="true"><small>{{ label.label }}</small>{{ e.name }}</span></span>
+    <span class="adv-body"><h{{ h }} class="adv-name">{{ e.name }}</h{{ h }}>
+      {%- if e.author %}<span class="adv-by">by {{ e.author }}</span>{% endif %}
+      {%- if e.summary.size > 0 %}<span class="adv-sum">{{ e.summary[0] }}</span>{% endif %}
+      <span class="adv-badges">
+        {%- if e.price_kind == 'free' %}<span class="badge free">Free</span>{% elsif e.price_kind == 'paid' %}<span class="badge">Paid</span>{% endif -%}
+        <span class="badge">{{ label.label }}</span>
+        {%- if e.out %}<span class="adv-out">{{ e.out }} <span aria-hidden="true">↗</span></span>{% endif -%}
+      </span>
+    </span></a>
+</li>

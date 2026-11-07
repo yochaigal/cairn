@@ -1,20 +1,18 @@
 title: Cairn
+lang: en-US
 permalink: pretty
 theme: just-the-docs
 url: https://cairnrpg.com
 logo: "/img/logo.svg"
-color_scheme: dark
+color_scheme: cairn
 encoding: UTF-8
 plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
-  - jekyll-jtd-toc-nav 
   - jekyll-dice-tray
   - jekyll-image-links
   - rpg-callouts
   - jekyll-titles-from-headings
-# Exclude H1 page titles from the sidebar TOC to avoid duplicate entries; keep section headings.
-sidebar_toc_levels: "2..4"
 include:
   - js
 
@@ -54,5 +52,27 @@ sass:
 #  - /localization
 #  - /hacks
 
-# the redesign prototype and its build tooling, kept out of the published site
-exclude: [redesign]
+# jekyll-dice-tray still links the dice in the text; the redesign's own dice (assets/js/cairn-dice.js) roll them
+dice_tray:
+  inject_tray: false
+
+
+# the redesign's sheet PDFs are files, not pages: keep them out of sitemap.xml
+defaults:
+  - scope:
+      path: "assets/redesign"
+    values:
+      sitemap: false
+  # the First Edition SRD translations this repo publishes: their text is marked as their language (_layouts/default.html)
+  - scope:
+      path: "localization/first-edition/brazilian-portuguese.md"
+    values:
+      lang: pt-BR
+  - scope:
+      path: "localization/first-edition/russian.md"
+    values:
+      lang: ru
+  - scope:
+      path: "localization/first-edition/turkish.md"
+    values:
+      lang: tr

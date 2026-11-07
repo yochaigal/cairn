@@ -1,0 +1,55 @@
+// Overrides Just the Docs 0.12.0's _sass/typography.scss (compare it when upgrading the theme).
+// The theme sizes bare h1-h6 with !important, which would beat every heading in the redesign; here only its
+// .text-* utility classes keep those sizes. Headings take their sizes from _sass/custom/_base.scss.
+// stylelint-disable selector-no-type, selector-max-type, selector-max-specificity, selector-max-id
+
+.text-alpha {
+  font-weight: 300;
+
+  @include fs-8;
+}
+
+.text-beta,
+#toctitle {
+  @include fs-6;
+}
+
+.text-gamma {
+  @include fs-5;
+}
+
+.text-delta {
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+
+  @include fs-2;
+}
+
+.text-epsilon {
+  @include fs-3;
+}
+
+.text-zeta {
+  @include fs-2;
+}
+
+.text-small {
+  @include fs-2;
+}
+
+.text-mono {
+  font-family: $mono-font-family !important;
+}
+
+.text-left {
+  text-align: left !important;
+}
+
+.text-center {
+  text-align: center !important;
+}
+
+.text-right {
+  text-align: right !important;
+}

@@ -1,0 +1,23 @@
+{%- comment -%}
+  One "Start playing" step's art: the Player's Guide section opener as a shadow play on backlit linen. The base is the
+  art with its moving figures painted out; each figure is its own layer (anim-*), so it can move into place.
+  Include as: {% include cairn/step-scene.html n=1 w=1600 h=784 top=0 base="…" %}
+{%- endcomment -%}
+{%- assign art = '/assets/redesign/' | relative_url -%}
+<svg class="step-art step-scene" viewBox="0 0 {{ include.w }} {{ include.h }}" data-full="0 0 {{ include.w }} {{ include.h }}" data-wide="0 {{ include.top }} {{ include.w }} {{ include.h | minus: include.top }}" preserveAspectRatio="xMidYMin slice" aria-hidden="true" focusable="false">
+  <filter id="shadowSoft{{ include.n }}" x="-2%" y="-2%" width="104%" height="104%"><feGaussianBlur stdDeviation="0.9"/></filter>
+  <image href="{{ art }}backlit-linen.jpg" width="{{ include.w }}" height="{{ include.h }}" preserveAspectRatio="xMidYMid slice"/>
+  <g style="mix-blend-mode: multiply" filter="url(#shadowSoft{{ include.n }})">
+    <image href="{{ art }}{{ include.base }}" width="{{ include.w }}" height="{{ include.h }}"/>
+    {%- case include.n -%}
+    {%- when 1 %}
+    <image class="anim-bird" href="{{ art }}step-procedures-bird.png" x="570" y="0" width="445" height="184"/>
+    <image class="anim-arm" href="{{ art }}step-procedures-arm.png" x="377" y="144" width="257" height="286"/>
+    {%- when 2 %}
+    <image class="anim-horse" href="{{ art }}step-character-creation-horse.png" x="749" y="257" width="460" height="510"/>
+    {%- else %}
+    <image class="anim-sword-l" href="{{ art }}step-rules-left.png" x="541" y="182" width="290" height="337"/>
+    <image class="anim-sword-r" href="{{ art }}step-rules-right.png" x="766" y="80" width="526" height="275"/>
+    {%- endcase %}
+  </g>
+  <rect width="{{ include.w }}" height="{{ include.h }}" fill="rgb(30, 24, 16)" style="mix-blend-mode: lighten"/></svg>

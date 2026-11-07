@@ -1,0 +1,29 @@
+{%- comment -%}
+  The Adventures catalog (adventures.md, `cairn_layout: adventures`): every adventure here and in Scrivener
+  (_plugins/cairn_adventures.rb), with filters. The filters live in the address (?g=originals&q=forest), so a reload,
+  Back and shared links keep them (assets/js/cairn-adventures.js). Without JavaScript every card shows.
+{%- endcomment -%}
+{%- assign A = site.data.cairn_adventures -%}
+{%- assign authors = A | map: "author" | compact | uniq | sort_natural -%}
+{%- assign tags = A | map: "tags" | join: "|" | split: "|" | uniq | sort -%}
+<form class="adv-filters" id="advFilters" role="search" aria-label="Filter adventures">
+  <div class="field"><label for="advQ">Search adventures</label><input id="advQ" name="q" type="search" autocomplete="off" placeholder="Names, authors, summaries, tags"></div>
+  <div class="field"><label for="advGroup">Group</label><select id="advGroup" name="g"><option value="">All ({{ A.size }})</option>
+    {%- for g in site.data.cairn_adventure_groups %}<option value="{{ g.id }}">{{ g.label }} ({{ g.count }})</option>{% endfor %}</select></div>
+  <div class="field"><label for="advAuthor">Author</label><select id="advAuthor" name="a"><option value="">All authors</option>
+    {%- for x in authors %}<option>{{ x | escape }}</option>{% endfor %}</select></div>
+  <div class="field"><label for="advPrice">Price</label><select id="advPrice" name="p"><option value="">Any price</option>
+    {%- assign n = A | where: "price_kind", "free" | size %}{% if n > 0 %}<option value="free">Free ({{ n }})</option>{% endif %}
+    {%- assign n = A | where: "price_kind", "paid" | size %}{% if n > 0 %}<option value="paid">Paid ({{ n }})</option>{% endif %}
+    {%- assign n = A | where: "price_kind", "unknown" | size %}{% if n > 0 %}<option value="unknown">Not listed ({{ n }})</option>{% endif %}</select></div>
+  {%- if tags.size > 0 %}
+  <div class="field" id="advTagsBox"><label for="advTag">Tags</label><select id="advTag" name="t"><option value="">All</option>
+    {%- for t in tags %}{% if t != "" %}<option>{{ t | escape }}</option>{% endif %}{% endfor %}</select></div>
+  {%- endif %}
+  <div class="field"><label for="advSort">Sort</label><select id="advSort" name="s"><option value="az">A to Z</option><option value="za">Z to A</option><option value="price">Free first</option></select></div>
+</form>
+<p class="adv-count" id="advCount" role="status">{{ A.size }} adventures</p>
+<ul class="adv-grid" id="advList">
+  {%- for e in A %}{% include cairn/adv-card.html e=e h=2 %}{% endfor %}
+</ul>
+<script src="{{ '/assets/js/cairn-adventures.js' | relative_url }}" defer></script>

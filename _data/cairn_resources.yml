@@ -1,0 +1,78 @@
+# The resource tiles: on the home page (framed squares, with counts) and on the Resources page (cards, with each
+# page's summary and links). `summary_of` is the page whose `summary:` front matter is the card's text; `home: false` keeps a tile off the home page.
+# A tile's count is the pages whose `parent:` is `count_parent`, the adventures in the catalog (`count: adventures`),
+# or the translations (`count: languages`); `noun` is what it counts. With none of those, it counts its links as pages
+# (_includes/cairn/tile-count.html).
+- id: res-monsters
+  title: Monsters
+  href: /resources/monsters/
+  count_parent: Monsters
+  noun: monster
+  summary_of: resources/monsters.md
+- id: res-adventures
+  title: Adventures
+  href: /adventures/
+  count: adventures
+  noun: adventure
+  summary_of: adventures.md
+  links:
+    - [First Party, /adventures/first-party/]
+    - [Originals, /adventures/originals/]
+    - [Conversions, /adventures/conversions/]
+- id: res-tools
+  title: Tools
+  href: /second-edition/tools/character-generator/
+  links:
+    - [Character Generator, /second-edition/tools/character-generator/]
+    - [Build an Adventure Site, /first-edition/tools/build-an-adventure-site/]
+    - [Converting Monsters, /first-edition/tools/converting-monsters/]
+- id: res-backgrounds
+  title: Backgrounds
+  href: /second-edition/backgrounds/
+  count_parent: Backgrounds
+  noun: background
+  summary_of: second-edition/backgrounds.md
+- id: res-gear
+  title: "Relics, Spellbooks & Equipment"
+  href: /resources/more-relics/
+  links:
+    - [More Relics, /resources/more-relics/]
+    - [More Spellbooks, /resources/more-spellbooks/]
+    - [More Equipment, /resources/more-equipment/]
+- id: res-hirelings
+  title: "Hirelings & Pregens"
+  href: /resources/hirelings/
+  links:
+    - [Hirelings, /resources/hirelings/]
+    - [Pregens, /resources/pregens/]
+    - ["Hirelings, Mounts, and Vehicles Sheets", /resources/hirelings-mounts-and-vehicles-sheets/]
+- id: res-hacks
+  title: Hacks
+  href: /hacks/
+  count_parent: Hacks
+  noun: hack
+  summary_of: hacks.md
+- id: res-translations
+  title: Translations
+  href: /localization/
+  count: languages
+  noun: language
+  summary_of: localization.md
+- id: res-guides
+  title: Guides for Wardens
+  href: /resources/rules-summary/
+  home: false
+  links:
+    - [Rules Summary, /resources/rules-summary/]
+    - [Hexcrawls in Cairn, /resources/hexcrawls-in-cairn/]
+    - [Writing Modules for Cairn, /resources/writing-modules-for-cairn/]
+- id: res-first-edition
+  title: First Edition
+  href: /first-edition/
+  count_parent: First Edition
+  home: false
+  links:
+    - [First Edition SRD, /first-edition/cairn-srd/]
+    - [First Edition FAQs, /first-edition/frequently-asked-questions/]
+    - [First Edition tools, /first-edition/tools/]
+    - [Barebones, /barebones/]

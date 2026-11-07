@@ -31,3 +31,5 @@ _zip
 .vscode/settings.json
 scripts/cairn.code-workspace
 .vscode
+# Scrivener, checked out by the deploy workflow for the Adventures catalog
+_scrivener

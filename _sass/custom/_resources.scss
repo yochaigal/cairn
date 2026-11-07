@@ -1,0 +1,54 @@
+// The redesign's styles: resources view.
+/* ---------- resources view */
+.field label { display: block; font-size: 1rem; color: var(--muted); margin-bottom: 4px; }
+.field input { min-height: 44px; width: min(360px, 100%); padding: 0 12px; border: 1px solid var(--border-strong); border-radius: 4px; background: var(--surface); color: var(--text); font: inherit; font-size: 1rem; }
+/* Monsters, laid out as one bestiary sheet: a letter rail on the left that follows the scroll, beside one
+   continuous stream of stat blocks. --head is the sticky header's height, set in JS. */
+.bestiary { display: grid; grid-template-columns: 56px minmax(0, 1fr) 56px; column-gap: 48px;  /* an empty column matches the rail, so the stream centres on the page */
+  margin-top: 24px; }
+/* the filter sits in the stream's column, as wide as the stat blocks; the rail starts level with it */
+.monster-tools { display: flex; flex-direction: column; align-items: center; gap: 6px; grid-column: 2; grid-row: 1; justify-self: center; width: min(100%, 38rem); margin: 0 0 40px; }
+.bestiary .field { width: 100%; }
+.bestiary .field input { width: 100%; }
+.bestiary #mqStatus { align-self: flex-start; margin: 0; }
+.bestiary .stream { grid-column: 2; grid-row: 2; }
+.az-rail { grid-column: 1; grid-row: 1 / span 2; position: sticky; top: calc(var(--head, 80px) + 16px); align-self: start; max-height: calc(100vh - var(--head, 80px) - 32px);
+  overflow-y: auto; scrollbar-width: none; }
+.az-rail::-webkit-scrollbar { display: none; }
+.az { list-style: none; display: flex; flex-direction: column; gap: 4px; padding: 0; margin: 0; }
+.az li + li { margin: 0; }
+.az a, .az span { display: grid; place-items: center; min-height: 34px; border-radius: 4px; text-decoration: none; font-size: 1.45rem; line-height: 1; }
+.az a:hover { text-decoration: underline; }
+.az a[aria-current="true"] { background: var(--heading); color: var(--bg); font-weight: 700; text-decoration: none; }
+.az span { color: var(--muted); opacity: .55; }
+/* the stream is centred on the page, as the sheet centres its column */
+.stream { width: min(100%, 38rem); justify-self: center; display: flex; flex-direction: column; gap: 48px; }
+.res-browse { margin-top: 28px; }
+#monsters { margin-top: 48px; }
+.letter-group { display: flex; flex-direction: column; gap: 48px; }
+.letter-group:focus { outline: none; }
+/* stat block, in this order: name, stat line, attack (and detachment), then abilities as bullets,
+   with the book's double-ended hairline under the name only */
+.monster { display: flex; flex-direction: column; gap: 10px; }
+.monster h3 { margin: 0; font-size: 1.6rem; }
+.monster h3 a { text-decoration: none; }
+.monster h3 a:hover { text-decoration: underline; }
+.monster .book-rule { opacity: .667; }
+.monster .stats, .monster .attack { margin: 0; font-size: 1.15rem; }
+.monster .stats { display: flex; flex-wrap: wrap; align-items: baseline; gap: 2px 0; color: var(--heading); margin-left: -20px; clip-path: inset(-1em -1em -1em 20px); }
+/* the stat line: a small label, then the number larger and bold, with a dot between stats. Every stat
+   starts with a 20px dot; the row is pulled 20px left and that strip is clipped, so the dot of a stat that starts a
+   line is cut off and a row never starts or ends on a dot */
+.monster .stat { display: inline-flex; align-items: center; gap: 4px; white-space: nowrap; }  /* the number sits centred on its label */
+.monster .stat .l { margin-left: 2px; font-size: .95rem; letter-spacing: .04em; translate: 0 2px; }
+.monster .stat b { font-size: 1.7rem; font-weight: 500; font-variant-numeric: lining-nums tabular-nums; }  /* Alegreya Medium, in its equal-width digits */
+.monster .stat .dot { display: inline-block; width: 20px; text-align: center; font-size: .95rem; color: var(--muted); }
+.monster ul { font-size: 1.15rem; margin: 0; }
+@media (max-width: 640px) {  /* as the sheet does on phones */
+  .bestiary { grid-template-columns: 32px minmax(0, 1fr); column-gap: 16px; }
+  .az a, .az span { min-height: 30px; font-size: 1.2rem; }
+}
+/* a letter the filter has emptied (cairn-monsters.js) */
+.az li.empty a { color: var(--muted); opacity: .55; pointer-events: none; }
+/* a monster letter's heading, over its group */
+.letter-head { font-size: 1.45rem; margin: 1.4em 0 .4em; color: var(--muted); }

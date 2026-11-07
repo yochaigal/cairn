@@ -1,0 +1,108 @@
+---
+layout: table_wrappers
+---
+{%- comment -%}
+  Copied from Just the Docs 0.12.0's _layouts/default.html and rearranged for the redesign. When upgrading the theme,
+  compare this file with the new version's default.html (and _includes/cairn/header.html with components/header.html).
+
+  Kept from the theme, so its script keeps working: #main-header, #menu-button, #site-nav (the sidebar, unchanged),
+  #search-input, #search-results, the breadcrumbs, heading anchors and the children list.
+  Changed: the header runs across the top (_includes/cairn/header.html), the sidebar shows only the current section
+  (assets/js/cairn-nav.js), and each page gets "On this page", previous / next and a ⋯ menu.
+  A page whose front matter has `cairn_layout: home` gets the home page instead (_includes/cairn/home.html).
+{%- endcomment -%}
+<!DOCTYPE html>
+
+<html lang="{{ site.lang }}">
+{% include head.html %}
+<body>
+  {%- comment -%} jekyll-dice-tray reparses each page as a fragment, which drops the <body> tag (and its class), so the page class sits on this wrapper. {%- endcomment %}
+  <div class="cairn{% if page.cairn_layout == 'home' %} cairn-home{% endif %}">
+  <a class="skip" href="#main-content">Skip to main content</a>
+  {% include icons/icons.html %}
+  {% include cairn/header.html %}
+
+  {%- if page.cairn_layout == 'home' %}
+  <main id="main-content" class="home-main" tabindex="-1">
+    {% include cairn/home.html %}
+  </main>
+  {%- elsif page.cairn_layout %}
+  {%- comment -%} A full-width page (Resources, Monsters, Adventures): the page's own text, then its view. {%- endcomment %}
+  <main id="main-content" class="view-main" tabindex="-1">
+    <div class="wrap view-top">
+      <div class="prose view-intro">{{ content }}</div>
+      {%- if page.summary %}<p class="lede">{{ page.summary }}</p>{% endif %}
+      {% include cairn/{{ page.cairn_layout }}.html %}
+      {%- comment -%} the theme's list of the page's child pages, as on every other page (the Monsters index already links all of its own) {%- endcomment %}
+      {%- if page.has_toc != false and page.cairn_layout != 'monsters' %}
+      <div class="prose view-children">{% include components/children_nav.html %}</div>
+      {%- endif %}
+    </div>
+  </main>
+  {%- else %}
+  <div class="rules-layout">
+    <div class="crumbs">{% include components/breadcrumbs.html %}</div>
+    <div class="section-nav">
+      {% include_cached components/site_nav.html %}
+    </div>
+    <div class="toc" id="toc"{% if page.lang %} lang="{{ site.lang }}"{% endif %} hidden>
+      <button class="toc-toggle" id="tocToggle" type="button" aria-expanded="false" aria-controls="tocList">
+        <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" focusable="false"><path d="M4 6h16M4 12h10M4 18h13" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round"/></svg>On this page
+      </button>
+      <nav aria-labelledby="tocTitle"><p class="nav-title" id="tocTitle">On this page</p><div class="toc-list" id="tocList" hidden></div></nav>
+    </div>
+    <main id="main-content" class="rules-main main-content" tabindex="-1">
+      <div class="opener" aria-hidden="true">
+        <div class="book-rule both opener-rule"></div>
+        <svg class="opener-rings" width="74" height="75" viewBox="-37 -52 74 75" fill="none" stroke="currentColor" stroke-width="1" focusable="false">
+          <circle cx="0" cy="0" r="12"/><circle cx="0" cy="0" r="22"/><circle cx="0" cy="-35.5" r="35.5"/>
+        </svg>
+      </div>
+      <div class="title-actions" id="titleActions"{% if page.lang %} lang="{{ site.lang }}"{% endif %}>
+        {%- include cairn/lang-picker.html %}
+        <div class="page-actions">
+          <button id="actionsBtn" type="button" aria-label="Page actions" aria-expanded="false" aria-controls="actionsList">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" focusable="false"><circle cx="5" cy="12" r="2"/><circle cx="12" cy="12" r="2"/><circle cx="19" cy="12" r="2"/></svg>
+          </button>
+          <ul id="actionsList" hidden>
+            <li><a href="https://github.com/yochaigal/cairn/blob/main/{{ page.path }}">Edit this page on GitHub</a></li>
+            {%- if page.url contains '/second-edition/' %}
+            <li><a href="{{ '/second-edition/game-files/' | relative_url }}">PDFs and game files</a></li>
+            {%- endif %}
+          </ul>
+        </div>
+      </div>
+      <div class="prose"{% if page.lang %} lang="{{ page.lang }}"{% endif %}>
+      {%- if site.heading_anchors != false %}
+        {% include vendor/anchor_headings.html html=content beforeHeading="true" anchorBody="<svg viewBox=\"0 0 16 16\" aria-hidden=\"true\"><use xlink:href=\"#svg-link\"></use></svg>" anchorClass="anchor-heading" anchorAttrs="aria-labelledby=\"%html_id%\"" %}
+      {%- else %}
+        {{ content }}
+      {%- endif %}
+
+      {%- if page.has_toc != false %}
+        {% include components/children_nav.html %}
+      {%- endif %}
+      </div>
+      <nav class="pager" aria-label="Previous and next" id="pager" hidden></nav>
+      {%- if site.back_to_top %}
+      <a class="back-top" href="#main-content">{{ site.back_to_top_text | default: "Back to top" }}</a>
+      {%- endif %}
+    </main>
+  </div>
+  {%- endif %}
+
+  {% include cairn/footer.html %}
+  {% include cairn/dice-tray.html %}
+  {%- if page.path == 'second-edition/players-guide/character-creation.md' and site.data.cairn_builder %}
+  {% include cairn/builder.html %}
+  {%- endif %}
+
+  {%- if site.search_enabled != false %}
+  <div class="search-overlay"></div>
+  {%- endif %}
+  {%- if site.mermaid %}
+    {% include components/mermaid.html %}
+  {%- endif %}
+  </div>
+</body>
+</html>

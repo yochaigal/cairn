@@ -1,0 +1,41 @@
+{%- comment -%}
+  The character builder on Character Creation (assets/js/cairn-builder.js): its data from _plugins/cairn_builder.rb,
+  the callout placed under the title, and the walkthrough dialog. The JSON's < are escaped (\u003c), so neither the
+  theme's table wrapper (which rewrites every "<table" in the page) nor a "</script>" can reach inside it.
+{%- endcomment -%}
+<div class="cb-callout" id="cbCallout" hidden></div>
+<script type="application/json" id="cairnBuilderData" data-base="{{ '/' | relative_url }}">{{ site.data.cairn_builder | jsonify | replace: '<', '\u003c' }}</script>
+<dialog class="cb-walk" id="cbWalk" aria-labelledby="cbDrawerTitle">
+<div class="cb-walk-vines" aria-hidden="true"></div>
+<div class="cb-walk-in">
+  <div class="cb-walk-main" id="cbWalkMain" tabindex="0" role="region" aria-label="This step">
+    <div class="cb-stage" id="cbStage"><div class="cb-psheet" id="cbPSheet"><div id="cbPCard"></div><div class="cb-spot" id="cbSpot" aria-hidden="true"></div></div></div>
+    <div class="cb-walk-step prose" id="cbWalkStep"></div>
+  </div>
+  <aside class="cb-drawer" id="cbDrawer" aria-labelledby="cbDrawerTitle">
+    <header class="cb-drawer-head" id="cbDrawerHead">
+      <button class="btn-icon cb-back" type="button" id="cbBack" aria-label="Back to the previous step"><svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true" focusable="false"><path d="M15 5l-7 7 7 7" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+      <h2 class="cb-drawer-name" id="cbDrawerTitle">Roll a character</h2>
+      <button class="btn-icon cb-close" type="button" id="cbClose" aria-label="Stop building (your progress is kept)">✕</button>
+    </header>
+    <div class="cb-drawer-body" id="cbDrawerBody" tabindex="0" role="region" aria-label="This step"></div>
+    <section class="cb-bar" id="cbBar" aria-label="Character builder" hidden>
+    <div class="cb-bar-in">
+      <button class="cb-sheet-btn" type="button" id="cbSheetBtn" aria-expanded="false" aria-controls="cbSheetPanel"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false"><path d="M6 15l6-6 6 6" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg><span class="cb-sheet-txt"><span class="cb-sheet-count"><span>Your sheet</span><span class="cb-sheet-n"></span></span><span class="sr-only">. </span><span class="cb-sheet-last"></span></span></button>
+      <p class="cb-result sr-only" id="cbResult" role="status"></p>
+      <div class="cb-swap" id="cbSwap" hidden></div>
+      <div class="cb-btns">
+        <button class="btn btn-secondary" type="button" id="cbSkip" hidden>Skip</button>
+        <button class="btn btn-primary" type="button" id="cbRoll">Roll</button>
+        <button class="btn btn-secondary" type="button" id="cbNext">Next</button>
+      </div>
+    </div>
+  </section>
+  </aside>
+</div>
+<section class="cb-sheet-panel" id="cbSheetPanel" aria-labelledby="cbSheetName" hidden>
+  <header class="cb-sheet-head"><h2 class="cb-sheet-title"><button class="cb-sheet-btn" type="button" id="cbSheetCollapse" aria-expanded="true" aria-controls="cbSheetPanel"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false"><path d="M6 9l6 6 6-6" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg><span class="cb-sheet-txt"><span class="cb-sheet-count"><span id="cbSheetName">Your sheet</span><span class="cb-sheet-n"></span></span><span class="sr-only">. </span><span class="cb-sheet-last"></span></span></button></h2></header>
+  <div class="cb-sheet-body" id="cbSheetBody" tabindex="0" role="region" aria-labelledby="cbSheetName"><div id="cbSheetList"></div></div>
+</section>
+</dialog>
+<script src="{{ '/assets/js/cairn-builder.js' | relative_url }}" defer></script>

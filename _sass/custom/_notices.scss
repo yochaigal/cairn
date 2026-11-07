@@ -1,0 +1,18 @@
+// The redesign's styles: notices.
+/* ---------- notices: an action's result (success, error) slides down from the top */
+/* a manual popover, so it can sit above the dice drawer and the builder's modal, which are in the top layer too */
+.notices { position: fixed; inset: 16px auto auto 50%; translate: -50% 0; width: min(420px, calc(100vw - 32px)); margin: 0; padding: 0; border: 0; background: none; overflow: visible; display: grid; gap: 8px; }
+.notices:not(:popover-open) { display: none; }
+.notice { display: grid; grid-template-columns: auto minmax(0, 1fr) auto; align-items: center; gap: 10px; padding: 6px 6px 6px 14px; background: var(--surface); border: 1px solid var(--border-strong); border-left: 4px solid var(--c); border-radius: 6px; box-shadow: 0 10px 26px rgba(0,0,0,.45); color: var(--heading); }
+.notice[data-kind="success"] { --c: var(--ok); }
+.notice[data-kind="error"] { --c: var(--err); }
+.notice[data-kind="info"] { --c: var(--accent); }
+.notice-icon { display: grid; place-items: center; width: 22px; height: 22px; border-radius: 50%; background: var(--c); color: var(--on-accent); font-weight: 700; font-size: .85rem; line-height: 1; }
+.notice p { margin: 0; overflow-wrap: anywhere; }
+.notice { transition: opacity .2s ease, translate .2s ease-out; }
+@starting-style { .notice { opacity: 0; } }
+.notice.is-leaving { opacity: 0; }
+@media (prefers-reduced-motion: no-preference) {
+  @starting-style { .notice { translate: 0 -120%; } }
+  .notice.is-leaving { translate: 0 -120%; }
+}

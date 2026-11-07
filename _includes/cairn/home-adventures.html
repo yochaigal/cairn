@@ -1,0 +1,19 @@
+{%- comment -%}
+  "Adventures for Cairn" on the home page: the group counts, Browse all, and four cards: the first-party adventures that have a page here.
+{%- endcomment -%}
+{%- assign A = site.data.cairn_adventures -%}
+{%- if A.size > 0 %}
+{%- assign picks = A | where: "group", "first-party" | where_exp: "e", "e.page" %}
+<section class="section" id="home-adventures" aria-labelledby="adv-home-title">
+  <div class="wrap section-rule" aria-hidden="true"><div class="book-rule both"></div></div>
+  <div class="wrap">
+    <div class="section-head"><h2 id="adv-home-title" tabindex="-1">Adventures for Cairn</h2>
+      <div class="adv-head-end"><p class="adv-links">
+        {%- for g in site.data.cairn_adventure_groups %}<a href="{{ '/adventures/' | relative_url }}?g={{ g.id }}">{{ g.count }} {{ g.label | downcase }}</a>{% endfor -%}
+      </p><a class="btn btn-secondary" href="{{ '/adventures/' | relative_url }}">Browse all adventures</a></div></div>
+    <ul class="adv-grid" id="advHome">
+      {%- for e in picks limit: 4 %}{% include cairn/adv-card.html e=e h=3 %}{% endfor %}
+    </ul>
+  </div>
+</section>
+{%- endif %}

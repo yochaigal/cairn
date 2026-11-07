@@ -1,0 +1,23 @@
+{%- comment -%}
+  The language switcher, on any page a community translation has (_data/cairn_translations.yml). A translation that
+  has this page links to it on the translator's own site (or its file on GitHub); the others are listed as "not
+  translated yet", reachable but inert. Opened like the ⋯ menu (cairn-nav.js).
+{%- endcomment -%}
+{%- assign translated = site.data.cairn_translations | where_exp: "l", "l.pages contains page.path" | size -%}
+{%- if translated > 0 -%}
+{%- assign en = site.data.cairn_translations | where: "code", "en" | first -%}
+<div class="lang-picker" id="langPicker">
+  <button id="langBtn" type="button" aria-label="Language: English. Translations" aria-expanded="false" aria-controls="langList"><svg class="flag" viewBox="0 0 24 16" aria-hidden="true" focusable="false">{{ en.flag }}</svg></button>
+  <ul id="langList" hidden>
+    {%- for l in site.data.cairn_translations %}{% unless l.code == 'en' %}{% assign url = l.pages[page.path] %}
+    <li>
+      {%- if url -%}
+      <a href="{{ url }}" lang="{{ l.code }}" hreflang="{{ l.code }}"><svg class="flag" viewBox="0 0 24 16" aria-hidden="true" focusable="false">{{ l.flag }}</svg><span dir="{{ l.dir }}">{{ l.name }}</span>{% if l.status %} <small lang="en" dir="ltr">({{ l.status }})</small>{% endif %}{% if l.site == false %} <small lang="en" dir="ltr">(on GitHub)</small>{% endif %}</a>
+      {%- else -%}
+      <button type="button" aria-disabled="true"><svg class="flag" viewBox="0 0 24 16" aria-hidden="true" focusable="false">{{ l.flag }}</svg><span lang="{{ l.code }}" dir="{{ l.dir }}">{{ l.name }}</span> <small>(not translated yet)</small></button>
+      {%- endif -%}
+    </li>
+    {%- endunless %}{% endfor %}
+  </ul>
+</div>
+{%- endif -%}

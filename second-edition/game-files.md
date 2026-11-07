@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Game Files
 parent: Second Edition
 nav_order: 6

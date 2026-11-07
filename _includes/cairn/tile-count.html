@@ -1,0 +1,7 @@
+{%- comment -%} The count line under a resource tile: include.tile is one entry of _data/cairn_resources.yml. {%- endcomment -%}
+{%- assign t = include.tile -%}
+{%- if t.count_parent -%}{%- assign n = site.pages | where: "parent", t.count_parent | size -%}
+{%- elsif t.count == 'adventures' -%}{%- assign n = site.data.cairn_adventures.size -%}
+{%- elsif t.count == 'languages' -%}{%- assign n = site.data.cairn_translations | where_exp: "l", "l.code != 'en'" | size -%}
+{%- else -%}{%- assign n = t.links.size -%}{%- endif -%}
+{{ n }} {{ t.noun | default: 'page' }}{% if n != 1 %}s{% endif %}

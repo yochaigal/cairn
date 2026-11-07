@@ -1,0 +1,36 @@
+{%- comment -%} The dice tray, its 3D stage, the result card and the page notices (assets/js/cairn-dice.js). {%- endcomment -%}
+<div id="diceStage" aria-hidden="true"></div>
+<section class="dice-tray" id="diceTray" role="dialog" aria-labelledby="diceTitle" popover="manual" data-view="rolls">
+  <header class="dice-head">
+    <button class="btn-icon" id="diceSettingsBtn" type="button" aria-label="Dice settings"><svg class="i-gear" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true" focusable="false"><path d="M4 7h9M17 7h3M4 17h3M11 17h9" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><circle cx="15" cy="7" r="2" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="9" cy="17" r="2" fill="none" stroke="currentColor" stroke-width="2"/></svg><svg class="i-back" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true" focusable="false"><path d="M15 5l-7 7 7 7" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+    <h2 id="diceTitle">Dice</h2>
+    <button class="btn-icon" id="diceCollapse" type="button" aria-label="Close dice"><svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true" focusable="false"><path d="M6 6l12 12M18 6L6 18" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg></button>
+  </header>
+  <div class="dice-body" id="diceBody" tabindex="0" role="region" aria-label="Roll history">
+    <div class="dice-chat" id="diceChat">
+      <p class="dice-note dice-empty" id="diceHistNone">No rolls yet. Pick dice below, type a roll, or click any die in the rules.</p>
+      <div role="log"><ol id="diceHist"></ol></div>
+    </div>
+    <div class="dice-settings" id="diceSettings" hidden>
+      <section aria-labelledby="dsDice"><h3 id="dsDice">Dice</h3>
+        <label class="dice-switch"><input type="checkbox" role="switch" id="dice3d" aria-describedby="dice3dWhy" checked>3D dice<span class="dice-switch-ui" aria-hidden="true"></span></label>
+        <p class="dice-note dice-why" id="dice3dWhy" hidden></p></section>
+      <fieldset class="dice-colours"><legend>Dice colour</legend><div class="opts" id="diceColours"></div></fieldset>
+      <section aria-labelledby="dsHist"><h3 id="dsHist">History</h3>
+        <button class="btn btn-secondary" id="diceHistClear" type="button">Clear history</button></section>
+    </div>
+  </div>
+  <footer class="dice-foot" id="diceFoot">
+    <div class="dice-poolrow"><p class="dice-pool" id="dicePool" role="status"></p><button class="dice-linkbtn" id="dicePoolClear" type="button" aria-label="Clear the dice pool" hidden>Clear</button></div>
+    <ul class="dice-grid" id="diceGrid"></ul>
+    <p class="dice-err" id="diceExprErr" role="alert" hidden></p>
+    <form class="dice-compose" id="diceType" novalidate><label class="sr-only" for="diceExpr">Type a roll</label>
+      <input id="diceExpr" type="text" placeholder="Type a roll, like 2d6+1" autocomplete="off" autocapitalize="off" spellcheck="false" enterkeyhint="go" aria-describedby="diceExprErr">
+      <button class="btn btn-primary" id="diceSend" type="submit" disabled>Roll</button></form>
+  </footer>
+</section>
+<div role="status"><button class="dice-toast" id="diceToast" type="button" aria-describedby="diceToastHint" hidden></button></div>
+<span id="diceToastHint" hidden>Opens the dice drawer</span>
+<div class="notices" id="notices" popover="manual"></div>
+<p class="sr-only" id="noticeSay" role="status"></p>
+<p class="sr-only" id="noticeAlert" role="alert"></p>

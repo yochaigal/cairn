@@ -1,0 +1,77 @@
+// The redesign's styles: responsive rules shared by every view.
+/* ---------- responsive */
+@media (max-width: 1099px) {
+  .sheets { grid-template-columns: minmax(0, 1fr); }
+  .sheets-text { max-width: 40em; }
+  /* narrower: the Second Edition nav is hidden, "On this page" keeps its column
+     (breadcrumbs down to 760px, previous/next and, below 960px, the Menu drawer still reach it) */
+  .rules-layout { grid-template-columns: minmax(0, 1fr) 210px; }
+  .rules-layout > .section-nav { display: none; }
+  .rules-layout > .crumbs { display: block; }
+  .rules-layout > .rules-main { grid-column: 1; grid-row: 2; }
+  .rules-layout > .toc { grid-column: 2; grid-row: 2; }
+  .grid-3 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .cairn-footer .cols { grid-template-columns: 1fr 1fr; }
+  .cairn-header .wrap { gap: 14px; }
+  .primary-nav a { padding: 0 10px; }
+}
+/* page margins grow (24px up to 50px) only as far as needed for the section dividers to reach their full 44px past
+   the text plus the 6px end circle, whatever the window width. The header keeps 24px: it needs the room for its nav. */
+@media (min-width: 760px) {
+  .toc .toc-list[hidden] { display: block; }
+  main .wrap { --gutter: clamp(24px, calc(50px - (100% - 1200px) / 2), 50px); padding-left: var(--gutter); padding-right: var(--gutter); } }
+/* header: Menu drawer whenever the full header can't fit */
+@media (max-width: 959px) {
+  .cairn-header .wrap { flex-wrap: wrap; gap: 6px 10px; min-height: 0; padding-top: 22px; padding-bottom: 10px; }
+  .menu-btn { display: inline-flex; border-color: var(--border-strong); }
+  .primary-nav { display: none; width: 100%; }
+  .primary-nav ul { flex-direction: column; }
+  .primary-nav a { font-size: 1.15rem; }
+  .nav-menu { display: none; }  /* the drawer keeps its plain list */
+  .cairn-search { order: 5; width: 100%; flex-basis: 100%; margin: 0; }
+  .cairn-search input { padding-right: 12px; }
+  .cairn-search kbd { display: none; }
+  .cairn-search .search-results { left: 0; right: auto; width: 100%; }
+  /* the Dice pill stays in the top row, just left of Menu */
+  .brand { order: -2; }
+  .dice-pill { order: -1; margin-left: auto; }
+}
+@media (max-width: 759px) {
+  .wrap { padding: 0 16px; }
+  #home-start { --text-left: 16px; }
+  .steps-show { aspect-ratio: auto; height: 400px; }
+  .steps h3 { font-size: 1.4rem; }
+  .step-body { padding-bottom: 58px; }  /* room for Pause below the text */
+  .dice-tray { left: 0; width: 100%; border-left: 0; }
+  .dice-toast { left: 16px; right: 16px; }
+  .hero { padding-top: 44px; padding-bottom: 44px; }
+  .hero::before { background: linear-gradient(rgba(38,37,43,.74), rgba(38,37,43,.9)), var(--hero-img) 62% center / cover no-repeat; }
+  .hero::after { display: none; }
+  .hero .actions { flex-direction: column; align-items: stretch; }
+  .hero .btn { width: 100%; }
+  .grid-3 { grid-template-columns: minmax(0, 1fr); }
+  .sheets-figs { flex-direction: column; gap: 28px; }
+  .sheet-land, .sheet-port { flex: none; width: 100%; }
+  .sheet-port img { width: min(100%, 340px); }
+  .section { padding: 0 0 40px; }
+  .wrap.section-rule { margin-bottom: 39px; }
+  .section:not(:has(> .section-rule)) { padding-top: 40px; }
+  .rules-layout { grid-template-columns: minmax(0, 1fr); padding: 20px 16px 56px; gap: 20px; }
+  /* the Menu drawer (and, in the rules, previous/next) still lead up */
+  .rules-layout > .crumbs { display: none; }
+  .rules-layout > .rules-main { grid-column: 1; grid-row: 1; }
+  .opener { margin-top: 0; }  /* the -18px pull-up would leave 2px under the 20px phone padding */
+  .title-row { gap: 24px; }  /* the theme hangs the title's link icon 16px past its end, so it would touch the buttons */
+  /* the language list hangs from the ⋯ button's edge, not the flag's, so it fits a 320px screen */
+  .title-actions { position: relative; }
+  .lang-picker { position: static; }
+  .lang-picker ul { max-width: calc(100vw - 32px); }
+  .lang-picker li a, .lang-picker li button { white-space: normal; }
+  .toc-toggle { display: inline-flex; align-items: center; gap: 8px; min-height: 44px; padding: 0 14px; border: 1px solid var(--border-strong); border-radius: 4px; background: var(--surface); color: var(--heading); font: inherit; font-size: 1rem; cursor: pointer; }
+  .toc .nav-title { display: none; }
+  .toc ul { margin-top: 10px; background: var(--surface); padding: 8px 0; border-radius: 6px; border: 1px solid var(--border); }
+  .pager { grid-template-columns: 1fr; }
+  .pager .next { text-align: left; }
+  .cairn-footer .cols { grid-template-columns: 1fr; }
+  .parts { grid-template-columns: minmax(0, 1fr); }
+}

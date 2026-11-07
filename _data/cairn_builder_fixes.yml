@@ -1,0 +1,54 @@
+# Corrections to the character builder's drafted guesses (_plugins/cairn_builder.rb), keyed
+# background/table/row (table 0 or 1, row 1-6), bond/N, quote/background, or background/gear/Item name.
+# Each one replaces those fields of the row's effects (or, for a gear key, of that item): `items: []` means the row gives nothing to carry.
+
+"aurifex/1/6": {"items": []}  # the Homunculus is a companion (3 HP, 4 STR...)
+"barber-surgeon/0/1": {"items": []}
+"barber-surgeon/0/4": {"items": []}
+"barber-surgeon/0/6": {"items": []}
+"barber-surgeon/0/2": {"items": [{"name": "Oil Can (6 uses)"}]}
+"barber-surgeon/0/5": {"items": [], "armor": 1}  # toughened skin: armor without an item
+"beast-handler/1/3": {"items": []}
+"bonekeeper/0/2": {"items": []}  # the wagon and donkey carry; they aren't carried
+"bonekeeper/0/4": {"items": []}
+"bonekeeper/0/5": {"items": [{"name": "Detect Magic Spellbook"}]}
+"fieldwarden/0/4": {"items": [{"name": "Diseased Crop (6 uses)"}]}  # a Werewolf
+"fieldwarden/0/5": {"items": []}
+"fletchwind/0/3": {"items": []}
+"fletchwind/1/1": {"items": [{"name": "Western Yew bow (d6)", "bulky": true}], "bow": true}
+"fletchwind/1/2": {"items": [{"name": "Sessile Oak bow (d6)", "bulky": true}], "bow": true}
+"fletchwind/1/3": {"items": [{"name": "Stone Pine bow (d6)", "bulky": true}], "bow": true}
+"fletchwind/1/4": {"items": [{"name": "White Ash bow (d6)", "bulky": true}], "bow": true}  # its +1 Armor is only in place of a shield
+"fletchwind/1/5": {"items": [{"name": "Striped Bamboo bow (d6)"}], "bow": true}
+"fletchwind/1/6": {"items": [{"name": "Wych Elm bow (d6)", "bulky": true}], "bow": true}
+"foundling/0/5": {"items": [{"name": "Storybook"}, {"name": "Dagger (d6)"}]}
+"foundling/0/6": {"items": [{"name": "Monk's Habit", "petty": true}, {"name": "Control Plants Spellbook"}]}
+"greenwise/0/5": {"items": [{"name": "Warrant for your arrest", "petty": true}], "gold": 100}
+"half-witch/0/3": {"items": []}  # a nightmare, a familiar, a name
+"half-witch/0/4": {"items": []}
+"half-witch/0/6": {"items": []}
+"half-witch/1/4": {"items": [{"name": "Stonetree Sap"}]}  # its armor is temporary
+"hexenbane/0/3": {"items": [{"name": "Short Sword (d8)"}, {"name": "Chainmail", "armor": 2, "bulky": true}]}
+"hexenbane/1/1": {"items": []}
+"hexenbane/1/3": {"items": []}
+"hexenbane/1/4": {"items": []}
+"hexenbane/1/2": {"items": [{"name": "Disassemble Spellbook"}]}
+"hexenbane/1/6": {"items": [], "hp": null}  # Valor's +d4 HP only lasts the combat
+"jongleur/0/2": {"items": [{"name": "Read Mind Spellbook"}, {"name": "Warrant for your arrest", "petty": true}]}
+"jongleur/1/4": {"items": [{"name": "Tragic Tales"}]}
+"kettlewright/0/1": {"items": [{"name": "Wanted poster", "petty": true}], "gold": 40}
+"kettlewright/0/5": {"items": [{"name": "Long Sword (d10)", "bulky": true}, {"name": "Gambeson", "armor": 1}], "hp": "1d4"}
+"kettlewright/0/6": {"items": [{"name": "Crossbow (d8)", "bulky": true}, {"name": "Saw (d6)"}]}  # the donkey carries
+"kettlewright/1/6": {"items": [{"name": "Carrion Cat", "bulky": true}]}
+"marchguard/0/5": {"items": [{"name": "Snare Trap"}, {"name": "Sketchbook"}]}
+"mountebank/0/6": {"items": [{"name": "Auditory Illusion Spellbook"}, {"name": "Bundle of scarves"}]}
+"mountebank/1/5": {"items": [{"name": "Cursed Sapphire"}]}
+"outrider/1/2": {"items": []}  # mounts
+"outrider/1/6": {"items": []}
+"prowler/0/1": {"items": [{"name": "Alchemical Limb (d8)", "petty": true}, {"name": "Oil Can (6 uses)"}]}
+"rill-runner/1/3": {"items": []}
+"scrivener/0/3": {"items": [{"name": "A Treatise on the Abyss"}]}
+"bond/13": {"items": []}
+"bond/20": {"items": []}
+"mountebank/gear/Cart": {"bulky": false}  # bulky only when pulled
+"half-witch/gear/Spellbook": {"name": "Thicket Spellbook"}

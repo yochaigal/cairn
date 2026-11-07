@@ -1,5 +1,7 @@
 ---
+summary: "Stat blocks for monsters and NPCs, ready to drop into an adventure."
 layout: default
+cairn_layout: monsters
 title: Monsters
 parent: Resources
 has_children: true

@@ -1,0 +1,35 @@
+// The redesign's styles: base.
+/* the palette, matching color_schemes/cairn.scss (Alegreya is the author's, in custom.scss); dark only */
+:root {
+  --bg: #26252b; --surface: #2e2d34; --surface-2: #37363e; --text: #c9d1d9; --heading: #e3e9f0; --muted: #a9b1bb;
+  --accent: #f2c488; --accent-strong: #f7d6a8; --on-accent: #26252b; --border: #45444d; --border-strong: #8c8b96;
+  --focus: #f2c488; --shadow: 0 1px 0 rgba(0,0,0,.25); --shadow-pop: 0 12px 30px rgba(0,0,0,.35);
+  --h1: clamp(2.2rem, 5vw, 3.4rem);
+  --ok: #6cc479; --err: #f07a6a;  /* notice bars and icons: 6.4:1 and 5:1 on --surface */
+  --dice: #41697d;  /* sampled from the hero art (the tree's teal); changed by the tray's Colour choice */
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+/* scroll-padding keeps anchor targets and Tab-focused controls clear of the sticky header */
+html { -webkit-text-size-adjust: 100%; scroll-padding-top: calc(var(--head, 88px) + 16px); }
+body { margin: 0; background: var(--bg); color: var(--text); font: 400 18px/1.6 'Alegreya', Georgia, serif; }
+a { color: var(--accent); text-underline-offset: .18em; text-decoration-thickness: 1px; }
+a:hover { color: var(--accent-strong); text-decoration-thickness: 2px; }
+:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; border-radius: 3px; }
+h1, h2, h3, h4 { color: var(--heading); line-height: 1.2; margin: 0 0 .5em; font-weight: 700; }
+h1 { font-size: var(--h1); letter-spacing: -.01em; }
+h2 { font-size: clamp(1.55rem, 3vw, 2rem); }
+h3 { font-size: 1.3rem; }
+h4 { font-size: 1.1rem; }
+p { margin: 0 0 1em; }
+ul, ol { padding-inline-start: 1.25em; margin: 0 0 1em; }
+li + li { margin-top: .25em; }
+.sr-only { position: absolute !important; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0; }
+.wrap { width: min(1200px, 100%); margin: 0 auto; padding: 0 24px; }
+.wrap.view-top { padding-top: 40px; }  /* the top of a view under the header */
+.view-top > .lede { max-width: 40em; }
+.muted { color: var(--muted); }
+.eyebrow { font-size: .95rem; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); margin-bottom: .6em; }
+
+a.skip { position: absolute; left: 12px; top: -60px; z-index: 50; background: var(--accent); color: var(--on-accent); padding: 10px 16px; border-radius: 4px; font-weight: 700; }
+a.skip:focus { top: 12px; }  /* a.skip outranks a:hover, so the text keeps its contrast under the pointer */
