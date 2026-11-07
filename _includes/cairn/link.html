@@ -1,5 +1,5 @@
 {%- comment -%}
-  A link from _data/cairn_nav.yml: include.href is a site path or a full URL.
+  A nav link: include.href is a site path or a full URL.
   Include as: {% include cairn/link.html href=x text=y current=z %}
 {%- endcomment -%}
 <a href="{{ include.href | relative_url }}"{% if include.current %} aria-current="{{ include.current }}"{% endif %}>{{ include.text }}</a>

@@ -26,8 +26,8 @@
     </nav>
     {%- if site.search_enabled != false %}
     {% capture search_placeholder %}{% include search_placeholder_custom.html %}{% endcapture %}
-    <div class="cairn-search" role="search">
-      <label for="search-input" class="sr-only">Search rules, monsters, adventures</label>
+    <div class="cairn-search" role="search" aria-label="Site">
+      <label for="search-input" class="sr-only">{{ search_placeholder | strip_html | strip }}</label>
       <input type="search" id="search-input" class="search-input" dir="auto" autocomplete="off" placeholder="{{ search_placeholder | strip_html | strip }}" aria-keyshortcuts="Control+K Meta+K">
       <kbd aria-hidden="true" class="search-key">Ctrl K</kbd>
       <div id="search-results" class="search-results"></div>

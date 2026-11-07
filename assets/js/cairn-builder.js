@@ -22,7 +22,7 @@ function renderPage() {
   builderDecorate();
 }
 // ---------- character builder
-let cb = null;  // {i: step index, v: {step id: rolled total}, edits: {review field: text}, sheet, active}
+let cb = null;  // {i: step index, v: {step id: rolled total}, edits: {review field: text}, sheet, sheetPicked, active, grown, allTraits}
 try { cb = JSON.parse(localStorage.getItem(CB_KEY)); } catch {}
 const NO_CHAR = {slots: [], petty: [], traits: [], bonds: [], notes: []};  // before the first roll
 const cbSwapped = () => `Swapped ${cb.v.swap.map(k => k.toUpperCase()).join(' and ')}`;
@@ -205,12 +205,12 @@ const mdInline = md => esc((md || '').replace(/\[([^\]]+)\]\([^)]*\)/g, '$1')).r
 const ATTR_RULE = 'Roll 3d6 for each attribute, in order. You may swap two of them after.';
 const RULE = {str: ATTR_RULE, dex: ATTR_RULE, wil: ATTR_RULE, hp: 'Hit Protection is how well you avoid harm in a fight, not your health.',
   hp2: 'Your background adds a d4 to your Hit Protection.', age: 'How old your character is.'};
-// each step is a card: a header (step, name, dice, what to do) and a body built from CB, its table as clean
-// numbered rows with the roll marked. The review is the page's own section, moved in, so its ids stay single.
 // the step's dice read as pills inside its tip ("Roll a d6 …"); a tip that never names them ends with one
 const DICE_IN_TEXT = /\b\d*d\d+(?:\+\d+)?\b/g;
 const cbTipDice = st => { const t = esc(st.tip), pill = d => `<span class="cb-dice">${d}</span>`;
   return DICE_IN_TEXT.test(t) ? t.replace(DICE_IN_TEXT, pill) : st.dice ? `${t} ${pill(st.dice.replace(/^1d/, 'd'))}` : t; };
+// each step is a card: a header (step, name, dice, what to do) and a body built from CB, its table as clean
+// numbered rows with the roll marked
 function cbStepCard(st) {
   const steps = cbSteps(), v = cb.v[st.id], b = cbBg(), own = ['arms', 'name', 'gold', 't0', 't1'].includes(st.id);
   const rows = (list, rolled, cls = '') => `<ol class="cb-rows${cls}">` + list.map(([n, html]) => `<li data-n="${n}"${n === rolled ? ' class="cb-hit"' : ''}>`
@@ -380,11 +380,6 @@ function cbBar(say) {  // say: write the result line even while the name field h
   if (!on && walk.open) walk.close();
   if (!on) return;
   const steps = cbSteps(), st = steps[Math.min(cb.i, steps.length - 1)], v = cb.v[st.id], typed = TYPED.includes(st.id) && cbTyped(st.id), done = st.id === 'traits' ? cbTraitsIn(v) === 8 : !!v;
-  $('#cbTip').textContent = st.tip;
-  $('#cbStepNo').textContent = `Step ${cb.i + 1} of ${steps.length}`;
-  $('#cbStepName').textContent = st.label;
-  $('#cbDice').textContent = st.dice ? st.dice.replace(/^1d/, 'd') : '';
-  $('#cbDice').hidden = !st.dice;
   const said = st.kind === 'swap' ? (cb.v.swap ? cbSwapped() : 'Keep them as rolled, or swap two.')
     : st.kind === 'review' ? '' : v === 'skip' ? 'Skipped' : typed ? `<b>${esc(typed)}</b>` : v ? `<b>${esc(st.say(v))}</b>${Array.isArray(v) ? '' : ` <span class="muted">(rolled ${v})</span>`}` : '';
   // a live region: rewriting the same result would read it again, and a name being typed is read once it's done, not per letter
@@ -668,8 +663,8 @@ async function cbFill(PDFLib, bytes, sheet, c) {
   for (let i = 0; i < 10; i++) set(S.slots(i), c.slots[i] || '', 8);
   const petty = [...c.petty], notes = [...c.notes];
   for (let i = 0; i < S.pettyN; i++) set(S.petty(i), petty[i] || '', 7);
-  if (petty.length > S.pettyN) warn.push(`${petty.length - S.pettyN} petty item(s) won't fit: ${petty.slice(S.pettyN).join(', ')}.`);
-  if (c.slots.length > 10) warn.push(`${c.slots.length - 10} item(s) won't fit in the 10 slots.`);
+  if (petty.length > S.pettyN) warn.push(`${petty.length - S.pettyN} petty item${petty.length - S.pettyN === 1 ? '' : 's'} won't fit: ${petty.slice(S.pettyN).join(', ')}.`);
+  if (c.slots.length > 10) warn.push(`${c.slots.length - 10} item${c.slots.length === 11 ? '' : 's'} won't fit in the 10 slots.`);
   // traits: one per line on Landscape (the label dropped when a line is too short); three lines of pairs and one of three on Portrait
   const T = c.traits.filter(t => t.value !== '');
   const lines = sheet === 'landscape' ? T.map(t => `${t.label}: ${t.value}`) : cbPortraitTraits(c);

@@ -5,7 +5,7 @@
 (() => {
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'})[c]);
-const REDUCE = matchMedia('(prefers-reduced-motion: reduce)');
+const REDUCE = matchMedia('(prefers-reduced-motion: reduce)'), PHONE = matchMedia('(max-width: 759px)');
 if (!$('#diceTray')) return;
 const header = $('#main-header');
 // ---------- notices: notify('Roll history cleared.') or notify(message, {kind: 'error'})
@@ -24,9 +24,9 @@ function dismissNotice(card, animate = true) {
   clearTimeout(card.timer);
   if (card.contains(document.activeElement)) {
     // focus goes back where it was when the notice came, unless that's gone, hidden or behind the builder's modal
-    const walk = $('#cbWalk'), shown = el => el?.isConnected && !el.disabled && el.checkVisibility({opacityProperty: true, visibilityProperty: true});
-    const tries = [card.from, ...(walk.open ? ['#cbRoll', '#cbNext', '#cbClose'] : ['#diceBtn']).map(q => $(q))]
-      .filter(el => shown(el) && el !== document.body && !notices.contains(el) && (!walk.open || walk.contains(el)));
+    const walk = $('#cbWalk'), modal = !!walk?.open, shown = el => el?.isConnected && !el.disabled && el.checkVisibility({opacityProperty: true, visibilityProperty: true});
+    const tries = [card.from, ...(modal ? ['#cbRoll', '#cbNext', '#cbClose'] : ['#diceBtn']).map(q => $(q))]
+      .filter(el => shown(el) && el !== document.body && !notices.contains(el) && (!modal || walk.contains(el)));
     tries.find(el => { el.focus(); return document.activeElement === el; });
   }
   if (animate) card.classList.add('is-leaving');
@@ -269,7 +269,7 @@ tray.addEventListener('pointerout', e => { if (editing !== null && e.target.clos
 document.addEventListener('pointerdown', e => { if (editing !== null && !e.target.closest('#diceGrid li.is-editing')) edit(null); });
 tray.addEventListener('focusout', e => { if (editing !== null && e.relatedTarget && !e.relatedTarget.closest('li.is-editing')) edit(null); });
 // the 3D switch; it's off, with the reason, where 3D dice can't run
-const sw = $('#dice3d'), use3d = () => sw.checked && !sw.disabled, narrow = () => document.documentElement.clientWidth < 760;
+const sw = $('#dice3d'), use3d = () => sw.checked && !sw.disabled, narrow = () => PHONE.matches;
 function setSwitch() {
   const off = REDUCE.matches ? 'Off because your device is set to reduce motion.' : !hasWebGL() ? 'Off because this browser can’t show 3D graphics.' : '';
   sw.disabled = !!off; sw.checked = !off && stored(THREE_D_KEY) !== '0'; $('#dice3dWhy').textContent = off; $('#dice3dWhy').hidden = !off;
@@ -279,9 +279,11 @@ REDUCE.addEventListener('change', setSwitch);
 setSwitch();
 // a roll from the drawer keeps it open, except on a phone with 3D dice, where it covers the page: it steps aside for the
 // dice, and the result appears under the pill
+// dice for the reader see their own wording, without the API's prefix
+const showError = err => showStatus(err.message.replace(/^CairnDice: /, ''));
 function rollHere(request, opts) {
-  if (use3d() && narrow()) tray.hidePopover();
-  return roll(request, {show3d: use3d(), ...opts}).catch(err => showStatus(err.message));
+  if (use3d() && narrow()) { tray.hidePopover(); saveOpen(); }  // to the reader it closed, so it doesn't come back on the next page
+  return roll(request, {show3d: use3d(), ...opts}).catch(showError);
 }
 // Roll sends the field's text if it has any, otherwise the picked dice
 $('#diceType').addEventListener('submit', e => {
@@ -327,12 +329,14 @@ function place() {
   if (walking()) { for (const el of [tray, toast]) { el.style.top = '16px'; el.style.right = '16px'; } tray.style.maxHeight = `${innerHeight - 28}px`; return; }
   const wrap = header.querySelector('.wrap'), w = wrap.getBoundingClientRect(), vw = document.documentElement.clientWidth;
   const foot = Math.round(Math.max(0, header.getBoundingClientRect().bottom));
-  toast.style.top = `${foot + 6}px`; toast.style.right = vw >= 760 ? `${Math.round(vw - (w.right - parseFloat(getComputedStyle(wrap).paddingRight)))}px` : '';
+  toast.style.top = `${foot + 6}px`; toast.style.right = !narrow() ? `${Math.round(vw - (w.right - parseFloat(getComputedStyle(wrap).paddingRight)))}px` : '';
   tray.style.top = tray.style.right = tray.style.maxHeight = '';
 }
 // below 760px the drawer covers the whole page, so the page behind it is inert until it closes (Tab can't reach what's hidden)
 const page = tray.parentElement;  // the builder's walkthrough takes the drawer in, so the page is found once
-const behind = () => { for (const el of page.querySelectorAll(':scope > :is(.skip, .cairn-header, main, .rules-layout, .cairn-footer)')) el.inert = isOpen() && narrow();
+const behind = () => { const modal = isOpen() && narrow();
+  for (const el of page.querySelectorAll(':scope > :is(.skip, .cairn-header, main, .rules-layout, .cairn-footer)')) el.inert = modal;
+  if (modal) tray.setAttribute('aria-modal', 'true'); else tray.removeAttribute('aria-modal');
   if (isOpen() && narrow() && !tray.contains(document.activeElement)) tray.querySelector('.die-add').focus(); };  // focus can't stay behind it
 addEventListener('scroll', () => { if (isOpen() || !toast.hidden) place(); }, {passive: true});
 addEventListener('resize', () => { if (isOpen() || !toast.hidden) place(); if (isOpen()) behind(); });
@@ -367,7 +371,7 @@ tray.addEventListener('toggle', e => {
 // capture phase, so the page's own Escape (focus to Menu) never sees it
 document.addEventListener('keydown', e => {
   if (e.key !== 'Escape' || e.target.closest?.('#notices')) return;  // a notice's Escape closes only it
-  if (isOpen() && tray.contains(e.target)) {
+  if (isOpen() && (tray.contains(e.target) || e.target === opener)) {  // or on the die in the text that opened it
     e.stopPropagation();
     if (editing !== null) { const n = editing; edit(null); cell(n).querySelector('.die-add').focus(); }
     else if (tray.dataset.view === 'settings') setView('rolls', true);
@@ -416,18 +420,18 @@ document.addEventListener('click', e => {
   if (!btn) return;
   e.preventDefault();
   if (walking()) return;
+  // it opens next to the die, so Tab goes from the die into it; on a phone, 3D dice and the result card show instead
+  if (!isOpen() && !(use3d() && narrow())) { opener = btn; tray.showPopover({source: btn}); }
   // "2-in-6": roll the die; it succeeds on that number or under
   const chance = btn.dataset.roll.match(/^(\d+)-in-(\d+)$/);
   if (chance) {
-    if (!isOpen() && !(use3d() && narrow())) { opener = btn; tray.showPopover(); }
     const [, k, n] = chance;
     roll('d' + n, {label: [headingBefore(btn), btn.dataset.roll].filter(Boolean).join(' · '), show3d: use3d(), detail: v => v <= +k ? 'Success' : 'Failure'})
-      .catch(err => showStatus(err.message));
+      .catch(showError);
     return;
   }
   const table = btn.closest('table'), inHead = table?.dataset.die && btn.closest('thead') && btn.dataset.roll.replace(/^1d/, 'd') === table.dataset.die;
   const rowOf = n => inHead ? [...table.tBodies[0].rows].find(tr => keyHas(cellText(tr.cells[0]), n)) : null;
-  if (!isOpen() && !(use3d() && narrow())) { opener = btn; tray.showPopover(); }  // on a phone, 3D dice and the result card show instead
   roll(btn.dataset.roll, {label: rollLabel(btn, table, inHead), show3d: use3d(), highest: true,
     detail: inHead && (n => { const tr = rowOf(n); return tr ? [...tr.cells].slice(1).map(c => c.textContent.trim()).join(' · ').slice(0, 160) : ''; })})
     .then(r => {
@@ -435,7 +439,7 @@ document.addEventListener('click', e => {
       table.querySelector('tr.hit')?.classList.remove('hit');
       const tr = rowOf(r.total);
       if (tr) { tr.classList.add('hit'); tr.scrollIntoView({block: 'nearest', behavior: REDUCE.matches ? 'auto' : 'smooth'}); }
-    }, err => showStatus(err.message));
+    }, showError);
 });
 renderPool();
 renderHistory();

@@ -3,11 +3,9 @@
 
 .cairn { font-size: 18px; line-height: 1.6; }
 .cairn .main-content { max-width: none; padding: 0; }
-.cairn .main-content h1, .cairn .main-content h2, .cairn .main-content h3, .cairn .main-content h4 { color: var(--heading); font-weight: 700; line-height: 1.2; }
 .cairn .main-content h1:first-of-type { margin-top: 0; }
 // the theme sets a 14px root on phones; the redesign's rem sizes are all against 16px
 html { font-size: 16px !important; }
-.cairn .main-content h4 { text-transform: none; letter-spacing: normal; }
 .cairn .main-content a:not([class]) { text-decoration: underline; text-underline-offset: .18em; text-decoration-thickness: 1px; }
 
 // ---------- the sidebar: Just the Docs' nav, scoped to the current section by cairn-nav.js
@@ -38,6 +36,12 @@ html { font-size: 16px !important; }
 }
 @media (max-width: 959px) {
   .cairn-header.nav-open .primary-nav { display: block; }
+}
+// on a short window the open drawer is taller than the window, so it scrolls with the page instead of staying put
+@media (max-width: 959px) and (max-height: 520px) {
+  html:has(.cairn-header.nav-open) { scroll-padding-top: 0; }
+  .cairn-header.nav-open { position: relative; }
+  .rules-layout > .section-nav:has(.site-nav.nav-open) { position: absolute; max-height: none; overflow: visible; }
 }
 
 // ---------- breadcrumbs (the theme's), styled as the redesign's
@@ -85,7 +89,8 @@ html { font-size: 16px !important; }
 .cairn .main-content .cb-sum dt, .cairn .main-content .cb-sum dd { grid-column: auto; text-align: start; font-weight: inherit; }
 .cairn .main-content .cb-sum dt::after { content: none; }
 .cairn .main-content .cb-sum dd { margin: 2px 0 0; }
-// on phones "On this page" sits in the text under the title (cairn-nav.js), not in its own sticky column
+// on phones "On this page" sits in the text under the title and any builder callout (onThisPage, cairn-nav.js), not in its
+// own sticky column. overflow: auto would clip the focus ring
 @media (max-width: 759px) { .rules-main .prose > .toc { position: static; max-height: none; overflow: visible; margin: 0 0 24px; } }
 // the ⋯ and language menus are lists of links, not page text: no bullets or underlines from the theme's content styles
 .cairn .main-content .page-actions ul, .cairn .main-content .lang-picker ul { list-style: none; }

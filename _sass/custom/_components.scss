@@ -60,9 +60,8 @@ a.tile:hover h3 { color: var(--accent); }
   .cb-switch input:checked + .cb-switch-ui::after { background: HighlightText; }
 }
 .section { padding: 0 0 56px; }
-#view-adventures > .wrap, #view-adventure > .wrap { padding-bottom: 56px; }  /* views that end in their top wrap: the same gap before the footer */
 /* section divider: 120px past the text column on each side when there's room, otherwise the end circles stop 6px
-   short of the window edge (never less than 44px past the text, see the page margins below). Two-thirds brightness so it sits quieter than the text. */
+   short of the window edge (never less than 44px past the text, see the page margins in _responsive.scss). Two-thirds brightness so it sits quieter than the text. */
 .wrap.section-rule { width: min(1392px, calc(100% - 12px)); padding: 0; margin: 0 auto 55px; opacity: .667; }
 /* only the first section under the hero has the divider; the rest keep the same 112px gap with top padding */
 .section:not(:has(> .section-rule)) { padding-top: 56px; }

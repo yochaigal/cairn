@@ -55,15 +55,12 @@
   .sheet-land, .sheet-port { flex: none; width: 100%; }
   .sheet-port img { width: min(100%, 340px); }
   .section { padding: 0 0 40px; }
-  #view-adventures > .wrap, #view-adventure > .wrap { padding-bottom: 40px; }
   .wrap.section-rule { margin-bottom: 39px; }
   .section:not(:has(> .section-rule)) { padding-top: 40px; }
   .rules-layout { grid-template-columns: minmax(0, 1fr); padding: 20px 16px 56px; gap: 20px; }
   /* the Menu drawer (and, in the rules, previous/next) still lead up */
-  .rules-layout > .crumbs, .view-top > .crumbs { display: none; }
+  .rules-layout > .crumbs { display: none; }
   .rules-layout > .rules-main { grid-column: 1; grid-row: 1; }
-  /* "On this page" is moved into the article, under the title and any builder callout (placeToc) */
-  .rules-main > .toc { position: static; max-height: none; overflow: visible; margin: 0 0 24px; }  /* overflow: auto would clip the focus ring */
   .opener { margin-top: 0; }  /* the -18px pull-up would leave 2px under the 20px phone padding */
   .title-row { gap: 24px; }  /* the theme hangs the title's link icon 16px past its end, so it would touch the buttons */
   /* the language list hangs from the ⋯ button's edge, not the flag's, so it fits a 320px screen */

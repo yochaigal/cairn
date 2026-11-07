@@ -35,8 +35,6 @@ module Cairn
     def log(msg) = Jekyll.logger.info("cairn_adventures:", msg)
     def warn(msg) = Jekyll.logger.warn("cairn_adventures:", msg)
 
-    def slug(s) = plain(s).downcase.gsub(/[^a-z0-9]+/, "-").gsub(/\A-|-\z/, "")
-
     def norm_name(s)
       s = plain(s).downcase.gsub("&", "and")
       s = s.sub(/\Acas-\d+:\s*/, "")
@@ -132,16 +130,8 @@ module Cairn
         out << {"name" => e["name"], "group" => e["group"], "author" => e["author"], "url" => e["url"], "cover" => e["cover"],
                 "summary" => e["credit"] ? [e["credit"]] : [], "cost" => nil, "tags" => [], "page" => e["page"]}
       end
-      seen = Hash.new(0)
       out.sort_by! { |e| [e["name"].downcase, e["group"]] }
-      out.each do |e|
-        base = "adv-#{slug(e['name']).then { |s| s.empty? ? 'adventure' : s }}"
-        n = seen[base]
-        seen[base] += 1
-        e["id"] = n.zero? ? base : "#{base}-#{n + 1}"
-        priced(e)
-        link(e)
-      end
+      out.each { |e| priced(e); link(e) }
       log("#{posts.size} Scrivener entries, #{matched} matched a page here; " +
           GROUPS.keys.map { |g| "#{out.count { |e| e['group'] == g }} #{g}" }.join(", "))
       out

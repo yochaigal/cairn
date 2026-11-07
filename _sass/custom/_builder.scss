@@ -11,10 +11,6 @@
 .cb-bar { position: fixed; left: 0; right: 0; bottom: 0; z-index: 35; background: var(--surface); border-top: 3px solid var(--dice); box-shadow: 0 -8px 24px rgba(0,0,0,.35); }
 .cb-bar[hidden], .cb-bar [hidden] { display: none !important; }
 .cb-bar-in { width: min(1200px, 100%); margin: 0 auto; padding: 10px 24px; display: flex; flex-wrap: wrap; align-items: center; gap: 6px 18px; min-height: 64px; }
-.cb-what { flex: 1 1 24em; min-width: 0; }
-.cb-step { margin: 0; color: var(--muted); font-size: .95rem; }
-.cb-tip { margin: 2px 0 0; color: var(--text); font-size: .95rem; }
-.cb-step b { color: var(--heading); }
 .cb-dice { margin-left: 4px; padding: 1px 7px; border: 1px solid var(--border-strong); border-radius: 999px; font-size: .85rem; }
 .cb-sc-tip .cb-dice { margin: 0 1px; padding: 0 7px; white-space: nowrap; }  /* inline in the tip's sentence */
 .cb-result { margin: 0; flex: 1 1 14em; min-width: 0; color: var(--heading); }
@@ -70,7 +66,6 @@ li.cb-hit { border-radius: 999px; }
 .cb-val-empty b { color: var(--muted); }
 .cb-traits { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 200px), 1fr)); gap: 20px 24px; }
 .cb-skipped { margin: 0 0 12px; color: var(--muted); }
-.cb-walk .cb-what { display: none; }  /* the card's header says it */
 @media (max-width: 559px) { .cb-rows-2 { grid-template-columns: minmax(0, 1fr); grid-auto-flow: row; grid-template-rows: none; } .cb-rows-2 li:nth-child(11) { border-top: 1px solid var(--border); } }
 .cb-walk.cb-at-review .cb-bar { display: none; }  /* no buttons at the review */
 /* 760px and up: the portrait sheet on a stage to the left, zoomed to the step's section; the step in the drawer */
@@ -87,7 +82,7 @@ li.cb-hit { border-radius: 999px; }
     box-shadow: 0 0 0 1.5px color-mix(in srgb, var(--accent) 85%, transparent), 0 0 14px 4px color-mix(in srgb, var(--accent) 55%, transparent), 0 0 40px 12px color-mix(in srgb, var(--accent) 25%, transparent); mix-blend-mode: multiply; }
   .cb-spot[hidden] { display: none; }
   /* the drawer's scroll area runs to its edges, so the step card's header band can too without overflowing sideways */
-  .cb-drawer-body { margin: 0 calc(-1 * clamp(16px, 2vw, 28px)); padding: 0 0 24px; }
+  .cb-drawer-body { margin: 0 calc(-1 * clamp(16px, 2vw, 28px)); }
   .cb-drawer .cb-walk-step { width: auto; margin: 0; border: 0; border-radius: 0; box-shadow: none; background: none; overflow: visible; }
   .cb-drawer .cb-rows-2 { grid-template-columns: minmax(0, 1fr); grid-auto-flow: row; grid-template-rows: none; }  /* the drawer is narrow */
   .cb-drawer .cb-rows-2 li:nth-child(11) { border-top: 1px solid var(--border); }
@@ -101,11 +96,11 @@ li.cb-hit { border-radius: 999px; }
 }
 .cb-walk.cb-at-review .cb-walk-step { width: min(1180px, 100%); }
 .cb-walk .cb-review { margin: 0; padding: 0; border: 0; background: none; }
-.cb-walk-main:focus-visible, .cb-drawer-body:focus-visible, .cb-sheet-body:focus-visible { outline-offset: -3px; }  /* both scroll, so keyboard users can reach them */
+.cb-walk-main:focus-visible, .cb-drawer-body:focus-visible, .cb-sheet-body:focus-visible { outline-offset: -3px; }  /* all three scroll, so keyboard users can reach them */
 /* the controls, at the foot of the drawer */
 .cb-walk .cb-bar { position: static; flex: none; margin: 0 calc(-1 * clamp(16px, 2vw, 28px)); background: var(--surface); border-top: 3px solid var(--dice); box-shadow: 0 -8px 20px rgba(0, 0, 0, .3); }
 .cb-walk .cb-bar-in { width: 100%; min-height: 0; padding: 14px clamp(16px, 2vw, 28px) 18px; flex-direction: column; align-items: stretch; gap: 10px; }
-.cb-walk .cb-what, .cb-walk .cb-result { flex: none; }
+.cb-walk .cb-result { flex: none; }
 .cb-walk .cb-btns .btn { flex: 1 1 auto; }
 /* the vines: the Warden's Guide p.31 pattern over the whole screen. The first time the first table shows they climb from the
    bottom to the top in about 5s (six soft-edged columns, each at its own pace); afterwards they're simply there */
@@ -136,7 +131,7 @@ li.cb-hit { border-radius: 999px; }
 @keyframes cb-v5 { from { --v5: 0%; } }
 @keyframes cb-v6 { from { --v6: 0%; } }
 @keyframes cb-drawer { from { transform: translateX(100%); } }
-@keyframes cb-want { to { background: rgba(65, 105, 125, .28); } }
+@keyframes cb-want { to { background: color-mix(in srgb, var(--dice) 28%, transparent); } }
 @keyframes cb-ink { from { opacity: 0; filter: blur(3px); } }
 /* the drawer: the step's card and its controls */
 .cb-drawer { min-height: 0; display: flex; flex-direction: column; padding: 0 clamp(16px, 2vw, 28px); background: var(--surface); border-left: 1px solid var(--border-strong); box-shadow: -12px 0 32px rgba(0, 0, 0, .45); }
@@ -191,11 +186,11 @@ li.cb-hit { border-radius: 999px; }
 .cb-switch input:focus-visible + .cb-switch-ui { outline: 3px solid var(--focus); outline-offset: 2px; }
 .cb-multi { align-items: flex-start; white-space: pre-wrap; line-height: calc(var(--lh) * 100cqw / var(--cw)); }
 .cb-tl { flex: none; font-size: .7em; letter-spacing: .04em; text-transform: uppercase; color: #5f5446; }
-.cb-want { background: rgba(65, 105, 125, .12); box-shadow: inset 0 -2px 0 #41697d; }
-.cb-fld input, .cb-fld textarea { flex: 1; min-width: 0; width: 100%; height: 100%; margin: 0; padding: 0 .15em; border: 0; border-radius: 2px; background: rgba(65, 105, 125, .1); color: inherit; font: inherit; line-height: inherit; resize: none; }
+.cb-want { background: color-mix(in srgb, var(--dice) 12%, transparent); box-shadow: inset 0 -2px 0 var(--dice); }
+.cb-fld input, .cb-fld textarea { flex: 1; min-width: 0; width: 100%; height: 100%; margin: 0; padding: 0 .15em; border: 0; border-radius: 2px; background: color-mix(in srgb, var(--dice) 10%, transparent); color: inherit; font: inherit; line-height: inherit; resize: none; }
 .cb-big input { text-align: center; }
-.cb-fld input:hover, .cb-fld textarea:hover { background: rgba(65, 105, 125, .2); }
-.cb-fld input:focus-visible, .cb-fld textarea:focus-visible { outline: 2px solid #41697d; outline-offset: -2px; background: #fff; }
+.cb-fld input:hover, .cb-fld textarea:hover { background: color-mix(in srgb, var(--dice) 20%, transparent); }
+.cb-fld input:focus-visible, .cb-fld textarea:focus-visible { outline: 2px solid var(--dice); outline-offset: -2px; background: #fff; }
 /* phones: no drawer. The walkthrough scrolls as one column, the step's cards follow its table, and the controls are a
    footer fixed to the bottom */
 @media (max-width: 759px) {
