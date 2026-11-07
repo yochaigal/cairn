@@ -29,7 +29,6 @@ menus:
       - [Translations, /localization/]
       - [Guides for Wardens, /resources/rules-summary/]
       - [First Edition, /first-edition/]
-      - [Barebones, /barebones/]
 
   - title: Adventures
     href: /adventures/
