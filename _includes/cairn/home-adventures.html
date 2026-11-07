@@ -1,5 +1,6 @@
 {%- comment -%}
   "Adventures for Cairn" on the home page: the group counts, Browse all, and four cards: the first-party adventures that have a page here.
+  The card list has no id of its own: "advHome", its old one, is hidden by ad blockers (EasyList ###advHome).
 {%- endcomment -%}
 {%- assign A = site.data.cairn_adventures -%}
 {%- if A.size > 0 %}
@@ -11,7 +12,7 @@
       <div class="adv-head-end"><p class="adv-links">
         {%- for g in site.data.cairn_adventure_groups %}<a href="{{ '/adventures/' | relative_url }}?g={{ g.id }}">{{ g.count }} {{ g.label | downcase }}</a>{% endfor -%}
       </p><a class="btn btn-secondary" href="{{ '/adventures/' | relative_url }}">Browse all adventures</a></div></div>
-    <ul class="adv-grid" id="advHome">
+    <ul class="adv-grid">
       {%- for e in picks limit: 4 %}{% include cairn/adv-card.html e=e h=3 %}{% endfor %}
     </ul>
   </div>
