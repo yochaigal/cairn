@@ -13,6 +13,7 @@ menus:
       - [PDFs and game files, /second-edition/game-files/]
       - [Print copies, /second-edition/print-copies/]
       - [First Edition, /first-edition/]
+      - [Barebones, /barebones/]
   - title: Resources
     href: /resources/
     section: /resources/
@@ -28,6 +29,8 @@ menus:
       - [Translations, /localization/]
       - [Guides for Wardens, /resources/rules-summary/]
       - [First Edition, /first-edition/]
+      - [Barebones, /barebones/]
+
   - title: Adventures
     href: /adventures/
     section: /adventures/

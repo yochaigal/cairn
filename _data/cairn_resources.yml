@@ -76,3 +76,13 @@
     - [First Edition FAQs, /first-edition/frequently-asked-questions/]
     - [First Edition tools, /first-edition/tools/]
     - [Barebones, /barebones/]
+- id: res-barebones
+  title: Barebones
+  href: /barebones
+  count_parent: Barebones
+  home: false
+  links:
+    - [Barebones Rules, /barebones/rules/]
+    - [Barebones Print Copies, /barebones/print/]
+    - [Barebones Game Files, /barebones/game-files/]
+    
