@@ -42,7 +42,7 @@ menus:
   - title: Community
     href: /#home-share
     links:
-      - [News and community, /#home-share]
+      - [Newsletter, /newsletter]
       - [Discord, /discord-server/]
       - [Submission guide, /submissions/submission-guide/]
       - [Third-party content, /third-party/]
