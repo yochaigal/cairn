@@ -7,6 +7,12 @@ grand_parent: Adventures
 
 # The Forgetting of Lockwood Manor
 
+The following adventure is available:
+- In [print](https://store.cairnrpg.com/products/cas-4-the-forgetting-of-lockwood-manor)
+- As a [PDF](https://cairnpress.itch.io/the-forgetting-of-lockwood-manor)
+- As markdown (see below)
+
+
 ![CAS-4 Cover](/adventures/first-party/img/cas-4/CAS-4_cover.webp)
 
 **Cairn Adventure Series 4**
