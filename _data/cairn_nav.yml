@@ -24,8 +24,9 @@ menus:
       - [Tools, /second-edition/tools/character-generator/]
       - [Backgrounds, /second-edition/backgrounds/]
       - ["Relics, Spellbooks & Equipment", /resources/more-relics/]
-      - ["Hirelings & Pregens", /resources/hirelings/]
+      - ["Pregens", /resources/hirelings/]
       - [Hacks, /hacks/]
+      - [Official App (Kettlewright), /official-app/]
       - [Translations, /localization/]
       - [Guides for Wardens, /resources/rules-summary/]
       - [First Edition, /first-edition/]
@@ -54,8 +55,6 @@ menus:
       - [Books, /store/books/]
       - [Cairn Press, /cairn-press/]
       - [Merch, /store/merch/]
-      - [Newsletter, /newsletter/subscribe/]
-      - [Official App (Kettlewright), /official-app/]
 
 footer:
   - title: Read
