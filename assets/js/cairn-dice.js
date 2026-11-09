@@ -56,6 +56,7 @@ function notify(message, {kind = 'success'} = {}) {
   notices.prepend(card);
   for (const extra of liveNotices().slice(NOTICE_MAX)) dismissNotice(extra, false);
   restackNotices(); arm();
+  return card;
 }
 
 // dice-box is served from this site (assets/vendor/dice-box/), next to this script's folder
