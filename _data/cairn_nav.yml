@@ -13,7 +13,7 @@ menus:
       - [PDFs and game files, /second-edition/game-files/]
       - [Print copies, /second-edition/print-copies/]
       - [First Edition, /first-edition/]
-      - [Barebones, /barebones/]
+      - [Barebones, /barebones/rules/]
   - title: Resources
     href: /resources/
     section: /resources/

@@ -1,5 +1,7 @@
 {%- comment -%}
   The site header: logo, the main menus (from _data/cairn_nav.yml), search, and the Menu button for narrow screens.
+  Below 960px Menu opens the header full screen, and each menu is a button there (its link is hidden) that expands its
+  links in place.
   #main-header, #menu-button, #search-input and #search-results keep Just the Docs' ids, so its own script still runs
   the menu button and search.
 {%- endcomment -%}
@@ -7,7 +9,9 @@
   <div class="wrap">
     <a class="brand" href="{{ '/' | relative_url }}">{% include cairn-logo.svg %}<span class="sr-only">Cairn, home</span></a>
     <button class="btn-icon menu-btn" id="menu-button" type="button" aria-expanded="false" aria-controls="primaryNav site-nav">
-      <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M3 6h18M3 12h18M3 18h18" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round"/></svg>Menu
+      <svg class="menu-open-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M3 6h18M3 12h18M3 18h18" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round"/></svg>
+      <svg class="menu-close-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M6 6l12 12M18 6 6 18" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round"/></svg>
+      <span class="menu-open-icon">Menu</span><span class="menu-close-icon">Close</span>
     </button>
     <nav class="primary-nav" id="primaryNav" aria-label="Site">
       <ul>
@@ -15,9 +19,11 @@
         {%- assign cairn_current = nil -%}
         {%- if m.section and page.url contains m.section -%}{%- if page.url == m.href -%}{%- assign cairn_current = 'page' -%}{%- else -%}{%- assign cairn_current = 'true' -%}{%- endif -%}{%- endif %}
         <li data-menu>{% include cairn/link.html href=m.href text=m.title current=cairn_current %}
-          <div class="nav-menu"><ul>
+          <button class="btn-icon nav-sub-toggle" type="button" aria-expanded="false" aria-controls="navsub-{{ forloop.index }}"{% if cairn_current %} aria-current="true"{% endif %}>{{ m.title }}<svg viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path d="M4 6l4 4 4-4" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+          <div class="nav-menu" id="navsub-{{ forloop.index }}"><ul>
             {%- for l in m.links %}
-            <li>{% include cairn/link.html href=l.last text=l.first %}</li>
+            {%- assign cairn_sub_current = nil -%}{%- if page.url == l.last -%}{%- assign cairn_sub_current = 'page' -%}{%- endif %}
+            <li>{% include cairn/link.html href=l.last text=l.first current=cairn_sub_current %}</li>
             {%- endfor %}
           </ul></div>
         </li>

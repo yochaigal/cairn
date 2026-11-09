@@ -13,13 +13,17 @@
 .primary-nav a:hover { background: var(--surface-2); color: var(--heading); }
 .primary-nav a[aria-current] { color: var(--heading); box-shadow: inset 0 -3px 0 var(--accent); }
 /* each top-level item lists what's inside it: the list opens on hover, or when keyboard focus is on the link or in the
-   list. Escape closes it. The menu's top padding bridges the gap from the link, so the pointer can reach it. */
-.primary-nav li[data-menu] { position: relative; }
-.nav-menu { position: absolute; left: 0; top: 100%; z-index: 30; padding-top: 8px; visibility: hidden; opacity: 0; transition: opacity .12s, visibility 0s linear .15s; }
-.nav-menu ul { display: block; min-width: 220px; margin: 0; padding: 6px; list-style: none; background: var(--surface); border: 1px solid var(--border-strong); border-radius: 6px; box-shadow: var(--shadow-pop); }
-.nav-menu a { min-height: 40px; padding: 0 12px; white-space: nowrap; }
-.primary-nav:not(.no-hover) li[data-menu]:hover > .nav-menu, li[data-menu]:not(.dismissed):focus-within > .nav-menu { visibility: visible; opacity: 1; transition-delay: 0s; }
-@media (prefers-reduced-motion: reduce) { .nav-menu { transition: none; } }
+   list. Escape closes it. The menu's top padding bridges the gap from the link, so the pointer can reach it.
+   Narrower, the lists sit in the full-screen menu instead (_responsive.scss). */
+@media (min-width: 960px) {
+  .primary-nav li[data-menu] { position: relative; }
+  .nav-menu { position: absolute; left: 0; top: 100%; z-index: 30; padding-top: 8px; visibility: hidden; opacity: 0; transition: opacity .12s, visibility 0s linear .15s; }
+  .nav-menu ul { display: block; min-width: 220px; padding: 6px; background: var(--surface); border: 1px solid var(--border-strong); border-radius: 6px; box-shadow: var(--shadow-pop); }
+  .nav-menu a { min-height: 40px; padding: 0 12px; white-space: nowrap; }
+  .nav-menu .nav-menu { display: none; }  /* the pages nested under a header link are for the phone menu */
+  .primary-nav:not(.no-hover) li[data-menu]:hover > .nav-menu, li[data-menu]:not(.dismissed):focus-within > .nav-menu { visibility: visible; opacity: 1; transition-delay: 0s; }
+  @media (prefers-reduced-motion: reduce) { .nav-menu { transition: none; } }
+}
 .cairn-search { position: relative; margin-left: auto; display: flex; align-items: center; gap: 8px; flex: 0 1 300px; min-width: 160px; }  /* shrinks before the nav runs out of room */
 .cairn-search input { width: 100%; min-height: 44px; padding: 0 44px 0 12px; border: 1px solid var(--border-strong); border-radius: 4px; background: var(--surface); color: var(--text); font: inherit; font-size: 1rem; }
 .cairn-search kbd { position: absolute; right: 10px; top: 50%; transform: translateY(-50%); font: 600 .75rem/1 system-ui, sans-serif; color: var(--muted); border: 1px solid var(--border-strong); border-radius: 3px; padding: 3px 5px; pointer-events: none; }
@@ -29,3 +33,7 @@
 .btn-icon:hover { background: var(--surface-2); color: var(--heading); }
 .btn-icon svg { width: 20px; height: 20px; }
 .menu-btn { display: none; }
+.menu-close-icon, .menu-btn.nav-open .menu-open-icon { display: none; }
+.menu-btn.nav-open .menu-close-icon { display: block; }
+.nav-sub-toggle { display: none; }  /* the menus' buttons are for the full-screen menu below 960px */
+@keyframes menu-in { from { opacity: 0; } }

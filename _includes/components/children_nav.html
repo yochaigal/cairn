@@ -1,0 +1,110 @@
+{%- comment -%}
+  Copied from Just the Docs 0.12.0's _includes/components/children_nav.html. When upgrading the theme, compare it with
+  the new version's. Changed: with cards=true (a page that is only its title and this list, _layouts/default.html), each
+  child page is a frame card with its summary, or else how many pages it holds.
+{%- endcomment -%}
+{%- comment -%}
+  Include as: {%- include components/children_nav.html -%}
+  Depends on: page, site, nav_breadcrumbs.
+  Results in: HTML for the children-navigation component.
+  Includes: components/nav/sorted.html, toc_heading_custom.html.
+  Overwrites:
+    nav_ancestor_links, nav_top_node_titles, nav_child_candidates, nav_children, nav_candidates,
+    nav_child, nav_child_ok, nav_child_ancestor, nav_sorted, and with cards=true also
+    nav_cards, nav_card, nav_card_ancestors, nav_card_note.
+{%- endcomment -%}
+
+{%- comment -%}
+  Whether a page has any children is checked efficiently by inspecting the cached
+  site_nav. If the page has no children, nav_children is set to an empty array;
+  otherwise nav_children is left unset. (The site_nav is rendered the first time
+  it is included, and that may overwrite various variables.)
+{%- endcomment -%}
+
+{%- if page.has_children == false -%}
+  {%- assign nav_children = "" | split: "" -%}
+{%- else -%}
+
+  {%- capture site_nav -%}
+  {%- include_cached components/site_nav.html all=true -%}
+  {%- endcapture -%}
+
+  {%- assign nav_children = nil -%}
+
+  {%- capture nav_list_link -%}
+  <a href="{{ page.url | relative_url }}" class="nav-list-link">
+  {%- endcapture -%}
+
+  {%- capture nav_list_simple -%}
+  <ul class="nav-list">
+  {%- endcapture -%}
+
+  {%- assign nav_child_start = site_nav
+        | split: nav_list_link | last
+        | split: "</a>" | slice: 1 | first -%}
+
+  {%- assign nav_child_test = nav_child_start 
+        | remove_first: nav_list_simple | prepend: nav_list_simple -%}
+    
+  {%- if nav_child_start != nav_child_test -%}
+    {%- assign nav_children = "" | split: "" -%}
+  {%- endif -%}
+
+{%- endif -%}
+
+{%- unless nav_children -%}
+
+  {%- comment -%}
+    The layout is assumed to include components/breadcrumbs.html before this file,
+    otherwise it needs to be included here.
+  {%- endcomment -%}
+
+  {%- assign nav_ancestors = "" | split: "" -%}
+  {%- for nav_link in nav_breadcrumbs -%}
+    {%- assign nav_title = nav_link | split: ">" | slice: 1 | first | append: ">" | remove: "</a>" -%}
+    {%- assign nav_ancestors = nav_ancestors | push: nav_title -%}
+  {%- endfor -%}
+
+  {%- assign nav_parenthood = site[page.collection] | default: site.html_pages
+    | where_exp: "item", "item.title != nil" | group_by: "parent" -%}
+
+  {%- assign nav_top_nodes = nav_parenthood
+      | where_exp: "item", "item.name == ''" | map: "items" | first -%}
+
+  {% assign nav_top_node_titles = nav_top_nodes | map: "title" -%}
+
+  {%- include components/nav/children.html node=page ancestors=nav_ancestors all=true -%}
+
+{%- endunless -%}
+
+{%- if nav_children.size >= 1 -%}
+
+  {%- if page.child_nav_order == 'desc' or page.child_nav_order == 'reversed' -%}
+    {%- assign nav_children = nav_children | reverse -%}
+  {%- endif -%}
+
+<hr>
+{% include toc_heading_custom.html %}
+{%- if include.cards %}
+{%- assign nav_cards = nav_children -%}
+{%- assign nav_card_ancestors = nav_ancestors | push: page.title -%}
+<ul class="child-cards" role="list">
+  {% for nav_card in nav_cards %}
+  {%- capture nav_card_note %}{% if nav_card.summary %}{{ nav_card.summary }}{% else %}{% include components/nav/children.html node=nav_card ancestors=nav_card_ancestors all=true %}{% if nav_children.size > 0 %}{{ nav_children.size }} page{% if nav_children.size != 1 %}s{% endif %}{% endif %}{% endif %}{% endcapture %}
+  <li>
+    <a class="frame-tile" href="{{ nav_card.url | relative_url }}"><h3>{{ nav_card.title }}</h3>
+      {%- if nav_card_note != "" %}<span class="sr-only">, </span><span class="count">{{ nav_card_note }}</span>{% endif %}</a>
+  </li>
+  {% endfor %}
+</ul>
+{%- else %}
+<ul>
+  {% for nav_child in nav_children %}
+  <li>
+    <a href="{{ nav_child.url | relative_url }}">{{ nav_child.title }}</a>{% if nav_child.summary %} - {{ nav_child.summary }}{% endif %}
+  </li>
+  {% endfor %}
+</ul>
+{%- endif %}
+
+{%- endif -%}

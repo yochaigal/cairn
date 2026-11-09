@@ -10,6 +10,7 @@
   .rules-layout > .crumbs { display: block; }
   .rules-layout > .rules-main { grid-column: 1; grid-row: 2; }
   .rules-layout > .toc { grid-column: 2; grid-row: 2; }
+  .rules-layout.toc-only > .rules-main { grid-column: 1 / -1; }
   .grid-3 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .cairn-footer .cols { grid-template-columns: 1fr 1fr; }
   .cairn-header .wrap { gap: 14px; }
@@ -27,7 +28,37 @@
   .primary-nav { display: none; width: 100%; }
   .primary-nav ul { flex-direction: column; }
   .primary-nav a { font-size: 1.15rem; }
-  .nav-menu { display: none; }  /* the drawer keeps its plain list */
+  /* Menu opens the header full screen. The header keeps its closed height, so --head and the page's length don't
+     change; its .wrap becomes the fixed layer */
+  .cairn-header.nav-open { height: var(--head); }
+  .cairn-header.nav-open .wrap { position: fixed; inset: 0; height: 100dvh; display: grid; grid-template-columns: auto minmax(0, 1fr) auto auto; grid-template-rows: auto auto minmax(0, 1fr);
+    align-items: center; align-content: start; background: var(--bg); }
+  .cairn-header.nav-open .brand { grid-area: 1 / 1; }
+  .cairn-header.nav-open .dice-pill { grid-area: 1 / 3; }
+  .cairn-header.nav-open .menu-btn { grid-area: 1 / 4; }
+  .cairn-header.nav-open .cairn-search { grid-area: 2 / 1 / 3 / -1; }
+  .cairn-header.nav-open .primary-nav { grid-area: 3 / 1 / 4 / -1; align-self: stretch; overflow-y: auto; overscroll-behavior: contain; margin: 0 -6px; padding: 8px 6px 32px; }  /* the side padding keeps focus rings unclipped */
+  html:has(.cairn-header.nav-open) { overflow: hidden; }
+  @media (prefers-reduced-motion: no-preference) { .cairn-header.nav-open .wrap { animation: menu-in .15s ease-out; } }
+  /* each menu is one button that opens its links; its own link is hidden here (the desktop dropdowns still use it) and
+     comes first in its list as "Table of contents" (menuTree in cairn-nav.js) */
+  .primary-nav li[data-menu] { border-bottom: 1px solid var(--border); }
+  .primary-nav li:has(> .nav-sub-toggle) > a { display: none; }
+  .nav-sub-toggle { display: flex; width: 100%; justify-content: space-between; gap: 10px; padding: 0 10px; border: 0; text-align: start; font-size: 1.15rem; color: var(--text); }
+  .nav-sub-toggle svg { flex: none; width: 18px; height: 18px; color: var(--muted); }
+  .primary-nav a:hover, .nav-sub-toggle:hover { background: none; color: var(--heading); }  /* before the grey rules below */
+  .nav-sub-toggle[aria-expanded="true"] { background: var(--surface-2); color: var(--heading); }
+  .nav-sub-toggle[aria-expanded="true"] svg { transform: rotate(180deg); }
+  @media (prefers-reduced-motion: no-preference) { .nav-sub-toggle svg { transition: transform .15s; } }
+  .nav-menu { display: none; padding: 0 0 10px 14px; }
+  .nav-sub-toggle[aria-expanded="true"] + .nav-menu { display: block; padding-top: 4px; }  /* the lists' own 4px gap, under the open row */
+  .nav-menu a, .nav-menu .nav-sub-toggle { font-size: 1.05rem; }
+  .nav-menu a[aria-current="page"] { background: var(--surface-2); color: var(--heading); font-weight: 700; box-shadow: inset 3px 0 0 var(--accent); }  /* as in the sidebar */
+  .nav-menu a.current-copy { background: none; box-shadow: none; font-weight: inherit; text-decoration: none; }  /* the page listed again higher up */
+  .nav-menu a.current-copy:not(:hover) { color: var(--text); }
+  @media (forced-colors: active) { .nav-menu a[aria-current="page"]:not(.current-copy) { border-left: 3px solid Highlight; padding-left: 7px; } }
+  /* a page's own pages, one step further in */
+  .nav-menu .nav-menu { padding-bottom: 4px; border-left: 1px solid var(--border); margin-left: 4px; }
   .cairn-search { order: 5; width: 100%; flex-basis: 100%; margin: 0; }
   .cairn-search input { padding-right: 12px; }
   .cairn-search kbd { display: none; }
