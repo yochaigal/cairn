@@ -1,15 +1,15 @@
 {%- comment -%}
   The Monsters page (resources/monsters.md, `cairn_layout: monsters`): every monster's stat block, A to Z, with a
-  filter and a letter rail (assets/js/cairn-monsters.js). The list comes from the monster pages themselves
-  (_plugins/cairn_monsters.rb); each name links to its own page.
+  filter (name matches first) and a letter rail (assets/js/cairn-monsters.js). The list comes from the monster pages
+  themselves (_plugins/cairn_monsters.rb); each name links to its own page.
 {%- endcomment -%}
 {%- assign M = site.data.cairn_monsters -%}
 <p><a href="{{ '/resources/monsters-other-formats/' | relative_url }}">Other formats (print, cards)</a></p>
 <div class="bestiary">
-  <div class="monster-tools">
+  <search class="monster-tools" aria-label="Filter monsters">
     <div class="field"><label for="mq">Filter monsters by name or text</label><input id="mq" type="search" autocomplete="off" aria-describedby="mqStatus"></div>
     <p class="muted" id="mqStatus" role="status">{{ M.size }} monsters</p>
-  </div>
+  </search>
   <nav class="az-rail" id="azRail" aria-label="Monsters by letter"><ul class="az" id="az">
     {%- assign groups = M | group_by_exp: "m", "m.name | slice: 0 | upcase" -%}
     {%- for g in groups %}
@@ -29,7 +29,8 @@
       {%- endfor %}
     </div>
     {%- endfor %}
-    <p class="muted" id="mqNone" hidden>No monsters match.</p>
+    <div class="mq-group" id="mqByName" hidden><h2 class="letter-head">Name matches</h2></div>
+    <div class="mq-group" id="mqByText" hidden><h2 class="letter-head">Text matches</h2></div>
   </div>
 </div>
 <script src="{{ '/assets/js/cairn-monsters.js' | relative_url }}" defer></script>

@@ -40,7 +40,7 @@ a.tile:hover h3 { color: var(--accent); }
   .frame-tile { border: 2px solid CanvasText; border-image: none; padding: 49px; }
   .frame-tile:hover, .frame-tile:focus-visible { border-color: Highlight; }
   /* states drawn only with a fill or a box-shadow, which forced colours remove */
-  .seg input:checked + span, .cb-swap button[aria-pressed="true"], .az a[aria-current="true"] { background: Highlight; color: HighlightText; border-color: Highlight; }
+  .seg input:checked + span, .cb-swap button[aria-pressed="true"] { background: Highlight; color: HighlightText; border-color: Highlight; }
   .primary-nav a[aria-current], .section-nav a[aria-current="page"] { text-decoration: underline 3px; }
   .seg input:checked:focus-visible + span { outline-color: HighlightText; }
   .dice-colours label:has(input:checked) { border: 2px solid Highlight; }
