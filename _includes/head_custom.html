@@ -1,3 +1,7 @@
 <script src="{{ '/assets/js/cairn-nav.js' | relative_url }}" defer></script>
 <script src="{{ '/assets/js/cairn-dice.js' | relative_url }}" defer></script>
 <script src="{{ '/assets/js/cairn-tables.js' | relative_url }}" defer></script>
+{%- comment -%} Add to Home Screen: without these a phone names the app after the page title and draws a letter. Keep the name in sync with favicons/site.webmanifest. {%- endcomment %}
+<link rel="apple-touch-icon" href="{{ '/favicons/apple-touch-icon.png' | relative_url }}">
+<link rel="manifest" href="{{ '/favicons/site.webmanifest' | relative_url }}">
+<meta name="apple-mobile-web-app-title" content="{{ site.title }}">
