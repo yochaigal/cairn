@@ -51,6 +51,7 @@ sass:
 #  - /resources
 #  - /localization
 #  - /hacks
+#  - /resources/monsters
 
 # jekyll-dice-tray still links the dice in the text; the redesign's own dice (assets/js/cairn-dice.js) roll them
 dice_tray:
