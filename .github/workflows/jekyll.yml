@@ -34,6 +34,16 @@ jobs:
           path: _scrivener
           sparse-checkout: posts
 
+      # Kettlewright's background, bond and pet data, for the character builder's Export for Kettlewright
+      # (_plugins/cairn_kettlewright.rb). If this fails the site still builds, without the export.
+      - name: Checkout Kettlewright
+        uses: actions/checkout@v4
+        continue-on-error: true
+        with:
+          repository: yochaigal/kettlewright
+          path: _kettlewright
+          sparse-checkout: app/static/json
+
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:

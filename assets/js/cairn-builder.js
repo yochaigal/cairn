@@ -590,14 +590,17 @@ function cbReviewList(c) {
   }).join('') + '</dl>';
 }
 function cbReviewHtml() {
-  const c = cbCharacter(); if (!c) return '';
+  const c = cbCharacter(), kw = cbBg()?.kw; if (!c) return '';
+  // #cbStatus keeps its message only while the sheet is unchanged, so a rebuild stays quiet
   return `<section class="cb-review" id="cbReview" aria-labelledby="cb-review-title"><h2 id="cb-review-title" tabindex="-1">Your character</h2>
     <p class="muted">This is your sheet. Change anything on it, then print: Print fills the official Fillable Letter sheet, which stays fillable.</p>
     ${CB_NARROW.matches ? cbReviewList(c) : cb.active ? '<p class="muted">Your sheet is beside this: change anything on it.</p>' : cbCards(['sheet'], true)}
     ${c.slots.length > 10 ? `<p class="cb-warn">These don't fit in the 10 slots: ${esc(c.slots.slice(10).join(', '))}.</p>` : ''}${c.warnings.map(w => `<p class="cb-warn">${esc(w)}</p>`).join('')}
     <div class="cb-print"><fieldset class="sheet-pick"><legend class="sr-only">Sheet layout</legend><div class="seg">${['landscape', 'portrait'].map(k => `<label><input type="radio" name="cb-sheet" value="${k}"${(cb.sheet || 'landscape') === k ? ' checked' : ''}><span>${k[0].toUpperCase() + k.slice(1)}</span></label>`).join('')}</div></fieldset>
-      <button class="btn btn-primary" type="button" id="cbPrint">Print</button><a class="btn btn-secondary" id="cbDownload" role="link" aria-disabled="true" aria-describedby="cbStatus">Download PDF</a><button class="btn btn-secondary" type="button" data-cb="reset">Start over</button></div>
-    <p class="cb-status" id="cbStatus" role="status">${cbPdf.url && cbPdf.key === cbPdfKey(c) ? esc(cbPdf.msg) : ''}</p></section>`;  // a rebuild with the sheet unchanged stays quiet
+      <button class="btn btn-primary" type="button" id="cbPrint">Print</button><a class="btn btn-secondary" id="cbDownload" role="link" aria-disabled="true" aria-describedby="cbStatus">Download PDF</a>${kw ? '<button class="btn btn-secondary" type="button" id="cbKw" aria-describedby="cbKwHelp">Export for Kettlewright</button>' : ''}<button class="btn btn-secondary" type="button" data-cb="reset">Start over</button></div>
+    <p class="cb-status" id="cbStatus" role="status">${cbPdf.url && cbPdf.key === cbPdfKey(c) ? esc(cbPdf.msg) : ''}</p>
+    ${kw ? `<p class="cb-status">For Kettlewright: <span id="cbKwHelp">the export saves a JSON file. Sign in, then open <a href="https://kettlewright.com/new_from_json/">Kettlewright’s New from JSON page</a> to import it.</span></p>
+    <p class="cb-status" id="cbKwErr"></p>` : ''}</section>`;
 }
 // edits are kept by field; slots and traits live in arrays
 const cbApplyEdit = (k, v) => {
@@ -709,6 +712,70 @@ document.addEventListener('click', e => {
     f.onload = () => { try { f.contentWindow.focus(); f.contentWindow.print(); status.textContent = cbPdf.msg; } catch { if (!window.open(cbPdf.url, '_blank')) { status.textContent = ''; notify('Printing was blocked. Use Download PDF, then print it.', {kind: 'error'}); } } };
     f.src = cbPdf.url;
   } else if (!window.open(cbPdf.url, '_blank')) notify('A pop-up blocker stopped the sheet opening. Use Download PDF, then print it.', {kind: 'error'});
+});
+
+// ---------- Export for Kettlewright: a file its New from JSON page imports (yochaigal/kettlewright, app/main.py).
+// The gear, containers and pets are Kettlewright's own for the rolled rows (each record's kw, from
+// _plugins/cairn_kettlewright.rb); everything else is this character, edits included. Its numbers must be whole
+// numbers, or Kettlewright refuses the file.
+// A refusal names the review field to fix (field: its data-edit key).
+function cbKettlewright() {
+  const b = cbBg(), c = cbCharacter(), rows = [cbRow(0), cbRow(1)].filter(Boolean), bonds = ['bond', 'bond2'].map(cbBond).filter(Boolean);
+  const name = String(c.name ?? '').trim();
+  if (!name) return {field: 'name', error: 'Your character needs a name: add one on your sheet, then export.'};
+  if (name.length > 64) return {field: 'name', error: 'Kettlewright takes names of up to 64 characters: shorten it on your sheet, then export.'};
+  const out = {name, custom_name: name, background: b.kw.key, custom_background: ''};  // Kettlewright reads custom_name for a character named "Custom"
+  for (const [k, field, label] of [['str', 'strength', 'STR'], ['dex', 'dexterity', 'DEX'], ['wil', 'willpower', 'WIL'], ['hp', 'hp', 'HP'], ['gold', 'gold', 'Gold']]) {
+    const v = String(c[k] ?? '').trim();
+    if (!/^\d+$/.test(v)) return {field: k, error: `${label} isn’t a whole number: fix it on your sheet, then export.`};
+    out[field] = +v; if (field !== 'gold') out[field + '_max'] = +v;
+  }
+  const seen = new Set();
+  out.items = [...b.kw.gear, ...rows.flatMap(r => r.kw.items), ...bonds.flatMap(x => x.kw)].filter(it => !seen.has(it.name) && seen.add(it.name))
+    .map((it, i) => ({...it, tags: it.tags || [], id: String(i + 1), location: 0}));
+  out.containers = [{id: 0, name: 'Main', slots: 10}, ...[...b.kw.containers, ...rows.flatMap(r => r.kw.containers)].map((x, i) => ({...x, id: i + 1}))];
+  out.pets = [...new Set(rows.flatMap(r => r.kw.pets))].map(k => { const t = CB.kw_pets[k];
+    const pet = {name: t.name, role: t.name, notes: t.notes || '', attack: t.attack || '', armor: t.armor || 0, gold: 0, items: [], containers: [{id: 0, name: 'Main', slots: t.slots || 0}]};
+    for (const s of ['hp', 'strength', 'dexterity', 'willpower']) pet[s] = pet[s + '_max'] = t.mirror ? out[s] : t[s] ?? null;  // a mirror pet has your Attributes and HP
+    return pet; });
+  // the traits as Kettlewright's own sentence (CB.traits is in its order, Physique to Vice), or "Label: value" lines if any is blank
+  const T = c.traits.slice(0, 8), tr = T.map(t => String(t.value || '').trim()), age = String(cbAge()).trim();
+  const [phy, skin, hair, face, speech, cloth, virtue, vice] = tr.map(v => v.toLowerCase());
+  out.traits = [tr.every(Boolean) ? `You have a ${phy} physique, ${skin} skin, and ${hair} hair. Your face is ${face}, your speech ${speech}. You have ${cloth} clothing. You are ${virtue} and ${vice}.`
+    : T.map((t, i) => tr[i] && `${t.label}: ${tr[i]}`).filter(Boolean).join('\n'), /^\d+$/.test(age) && +age > 0 ? `You are ${age} years old.` : ''].filter(Boolean).join(' ');
+  const quote = plainText(b.quote);
+  Object.assign(out, {bonds: c.bonds.join('\n\n'), omens: c.omen || '', scars: '', description: quote, notes: c.notes.filter(n => n !== quote).join('\n'),
+    deprived: false, panicked: false, dead: false, image_url: 'default-portrait.webp', custom_image: false, armor: +c.armor || 0});
+  rows.forEach((r, t) => { out[`background_table${t + 1}_question`] = b.kw.questions[t]; out[`background_table${t + 1}_answer`] = r.kw.answer; });
+  for (const [k, field, label] of [['notes', 'notes', 'Notes'], ['bonds', 'bonds', 'Bonds'], ['omens', 'omen', 'Omen'], ['traits', 'traits', 'Your traits']])
+    if (out[k].length > 2000) return {field, error: `${label}: over Kettlewright’s 2,000-character limit. Shorten it on your sheet, then export.`};
+  return {data: out};
+}
+const cbKwErrs = new Set();  // this export's refusal notices, dismissed once an export works
+document.addEventListener('click', e => {
+  if (e.target.id !== 'cbKw') return;
+  const {data, error, field} = cbKettlewright(), msg = $('#cbKwErr');
+  if (error) {
+    cbKwErrs.add(notify(error, {kind: 'error'}));
+    msg.textContent = error;  // also kept by the field, for when the alert has been and gone
+    // the field to fix (traits: whichever traits box this layout has), marked until it's edited
+    const el = [`[data-edit="${field}"]`, field === 'traits' && '[data-edit="ptraits"], [data-edit^="traits."]'].filter(Boolean)
+      .flatMap(sel => [...document.querySelectorAll(`#cbReview :is(${sel}), #cbWalk :is(${sel})`)]).find(x => x.checkVisibility());  // not the sheet stage's hidden copy
+    if (el && el.getAttribute('aria-invalid') !== 'true') {
+      const was = el.getAttribute('aria-describedby');
+      el.setAttribute('aria-invalid', 'true'); el.setAttribute('aria-describedby', [was, 'cbKwErr'].filter(Boolean).join(' '));
+      el.addEventListener('input', () => { el.removeAttribute('aria-invalid'); was ? el.setAttribute('aria-describedby', was) : el.removeAttribute('aria-describedby'); }, {once: true});
+    }
+    el?.focus();
+    return;
+  }
+  const alert = $('#noticeAlert');
+  for (const card of cbKwErrs) { if (alert.textContent === card.dataset.msg) alert.textContent = ''; if (card.isConnected) card.querySelector('button').click(); }
+  cbKwErrs.clear(); msg.textContent = '';
+  const file = `${data.name.replace(/[^\p{L}\p{N}_-]+/gu, '-').replace(/^-+|-+$/g, '') || 'character'}-kettlewright.json`;
+  // a data URL on an anchor that isn't in the page: nothing to revoke, and not inert behind the walkthrough's modal
+  Object.assign(document.createElement('a'), {href: 'data:application/json;charset=utf-8,' + encodeURIComponent(JSON.stringify(data, null, 4)), download: file}).click();
+  notify(`Exported ${file}.${cb.edits?.slots || cb.edits?.petty ? ' Your inventory edits aren’t in it: it has your background’s gear as Kettlewright lists it.' : ''} Import it on Kettlewright with New from JSON.`);
 });
 
 // the callout sits under the page title (cairn-nav.js builds the title row first)

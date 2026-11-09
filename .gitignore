@@ -33,3 +33,5 @@ scripts/cairn.code-workspace
 .vscode
 # Scrivener, checked out by the deploy workflow for the Adventures catalog
 _scrivener
+# Kettlewright's data, checked out by the deploy workflow for the builder's Export for Kettlewright
+_kettlewright
