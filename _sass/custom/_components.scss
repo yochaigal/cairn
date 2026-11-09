@@ -36,6 +36,15 @@ a.tile:hover h3 { color: var(--accent); }
 .frame-tile h3 { margin: 0; text-wrap: balance; }
 .frame-tile:hover, .frame-tile:focus-visible { border-image-source: var(--frame-gold); color: var(--heading); }
 .frame-tile:hover h3, .frame-tile:focus-visible h3 { text-decoration: underline; text-decoration-thickness: 2px; text-underline-offset: 3px; }
+/* the newsletter signup (_includes/cairn/signup.html); its inputs are .field's */
+.signup { display: flex; flex-direction: column; align-items: flex-start; gap: 14px; max-width: 360px; }
+.signup h2 { margin: 0; }
+.signup .field, .signup .field input { width: 100%; }
+.signup-captcha:empty { display: none; }
+.signup[data-captcha] .signup-captcha:not([hidden]) { display: block; min-height: 78px; }  /* the box's height, held from when it starts loading, so the button doesn't jump */
+.signup-status:empty { margin-top: -14px; }  /* cancels the .signup gap: an empty status takes no room, but stays rendered so screen readers announce its first message */
+.signup-status, .signup-note { margin: 0; }
+.signup-note { color: var(--muted); font-size: .95rem; }
 @media (forced-colors: active) {
   .frame-tile { border: 2px solid CanvasText; border-image: none; padding: 49px; }
   .frame-tile:hover, .frame-tile:focus-visible { border-color: Highlight; }

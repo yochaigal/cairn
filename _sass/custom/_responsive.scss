@@ -13,6 +13,7 @@
   .rules-layout.toc-only > .rules-main { grid-column: 1 / -1; }
   .grid-3 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .cairn-footer .cols { grid-template-columns: 1fr 1fr; }
+  .cairn-footer .cols > :first-child { grid-column: 1 / -1; }  /* the credits on top, the signup and Discord side by side under them */
   .cairn-header .wrap { gap: 14px; }
   .primary-nav a { padding: 0 10px; }
 }

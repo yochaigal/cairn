@@ -2,20 +2,22 @@
   <div class="wrap">
   <div class="cols">
     <div>
-      <h2>Cairn</h2>
-      <p>{{ site.footer_content }} Written by <a href="https://newschoolrevolution.com">Yochai Gal</a>. Hero art, step art and character sheet previews: the <a href="https://cairnpress.itch.io/cairn-players-guide">Cairn Player's Guide</a>, Cairn Press. Adventure covers: each adventure's own page on itch.io or the Cairn store.</p>
+      <h2>License</h2>
+      <p>Written by <a href="https://newschoolrevolution.com">Yochai Gal</a>. Hero art, step art and character sheet previews: the <a href="https://cairnpress.itch.io/cairn-players-guide">Cairn Player's Guide</a>, Cairn Press. Adventure covers: each adventure's own page on itch.io or the Cairn store.</p>
+      <p>Cairn's text is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)</a>. You can share and adapt it, as long as you credit it and share your version under the same license.</p>
       <p><a href="https://github.com/yochaigal/cairn">Cairn source on GitHub</a> · Built with <a href="https://github.com/just-the-docs/just-the-docs">Just the Docs</a></p>
       {%- if site.last_edit_timestamp and site.last_edit_time_format and page.last_modified_date %}
       <p class="muted">Page last modified: {{ page.last_modified_date | date: site.last_edit_time_format }}.</p>
       {%- endif %}
     </div>
-    {%- for col in site.data.cairn_nav.footer %}
-    <nav aria-labelledby="foot-{{ forloop.index }}"><h2 id="foot-{{ forloop.index }}">{{ col.title }}</h2><ul>
-      {%- for l in col.links %}
-      <li>{% include cairn/link.html href=l.last text=l.first %}</li>
-      {%- endfor %}
-    </ul></nav>
-    {%- endfor %}
+    {%- unless page.url == '/newsletter/subscribe/' %}
+    <div>{% include cairn/signup.html id="foot" heading="Newsletter" %}</div>
+    {%- endunless %}
+    <div>
+      <h2>Discord</h2>
+      <p>Talk about Cairn, share your games and get help with the rules on the Cairn Discord server.</p>
+      <a class="btn btn-secondary" href="{{ '/discord-server/' | relative_url }}">Join the Discord</a>
+    </div>
   </div>
   </div>
 </footer>

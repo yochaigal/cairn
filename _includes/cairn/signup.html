@@ -1,0 +1,25 @@
+{%- comment -%}
+  include.id keeps the ids unique on the page; include.heading is the h2. Sendy rejects a post without the
+  reCAPTCHA box ticked, so without JS the noscript line links to Sendy's own signup page.
+{%- endcomment -%}
+{%- assign n = site.newsletter -%}
+<form class="signup" action="{{ n.action }}" method="post" accept-charset="utf-8" data-signup aria-labelledby="{{ include.id }}-signup-title">
+  <h2 id="{{ include.id }}-signup-title">{{ include.heading }}</h2>
+  <div class="field">
+    <label for="{{ include.id }}-signup-email">Email</label>
+    <input type="email" name="email" id="{{ include.id }}-signup-email" required autocomplete="email">
+  </div>
+  <div class="field">
+    <label for="{{ include.id }}-signup-name">Name (optional)</label>
+    <input type="text" name="name" id="{{ include.id }}-signup-name" autocomplete="name">
+  </div>
+  <div hidden><input type="text" name="hp" autocomplete="off"></div>{% comment %} Sendy's honeypot: a bot that fills it is turned away {% endcomment %}
+  <input type="hidden" name="list" value="{{ n.list }}">
+  <input type="hidden" name="subform" value="yes">
+  <div class="signup-captcha" data-sitekey="{{ n.recaptcha_site_key }}"></div>
+  <button type="submit" class="btn btn-primary">Subscribe</button>
+  <p class="signup-status" role="status"></p>
+  <p class="signup-note">We'll email you to confirm. Past issues are in the <a href="{{ '/newsletter/archive/' | relative_url }}">newsletter archive</a>.</p>
+  <p class="signup-note" data-signup-fallback hidden>You can <a href="{{ n.fallback }}">subscribe on the newsletter site</a> instead.</p>
+  <noscript><p class="signup-note">The form needs JavaScript. You can <a href="{{ n.fallback }}">subscribe on the newsletter site</a> instead.</p></noscript>
+</form>
