@@ -1,10 +1,9 @@
 // The redesign's styles: footer.
 /* ---------- footer */
 .cairn-footer { border-top: 1px solid var(--border); padding: 40px 0 90px; font-size: 1rem; background: var(--surface); }
-.cairn-footer .cols { display: grid; grid-template-columns: 2fr 1fr 1fr 1fr; gap: 24px 40px; }
-/* the footer isn't held to the body's 1200px column: it runs wider, so the site map's lists have room */
+.cairn-footer .cols { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 24px 64px; }
+.cairn-footer .signup { max-width: none; }  /* fills its column, so no column ends in empty space */
+/* the footer isn't held to the body's 1200px column: it runs wider, so the signup form has room beside the credits */
 .cairn-footer > .wrap { width: min(1560px, 100%); padding: 0 clamp(16px, 4vw, 56px); }
 .cairn-footer h2 { font-size: 1.05rem; margin-bottom: 8px; }
-.cairn-footer ul { list-style: none; padding: 0; margin: 0; }
-.cairn-footer li + li { margin: 0; }
-.cairn-footer a { display: inline-flex; min-height: 40px; align-items: center; }
+.cairn-footer .signup h2 { margin: 0; }  /* the form's gap spaces it, not the footer h2's margin */

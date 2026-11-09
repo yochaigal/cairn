@@ -37,7 +37,13 @@ search:
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "The text on this page is licensed under <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC-BY-SA 4.0.</a>"
+# The newsletter signup form (_includes/cairn/signup.html): Sendy's subscribe endpoint, the list, and the
+# reCAPTCHA v2 site key the list checks. fallback is Sendy's own signup page, for when the form can't work.
+newsletter:
+  action: https://sendy.cairnrpg.com/subscribe
+  list: 8Qn5eso5HRWyC2pqMFp1bQ
+  recaptcha_site_key: 6LcpTFkkAAAAAD-zglQu6B7CNhAkmIl9uIFJuOH2
+  fallback: https://news.cairnrpg.com
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html

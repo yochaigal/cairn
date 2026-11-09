@@ -1,4 +1,4 @@
-# The header's menus and the footer's link lists. Edit freely: each link is a site path (or a full URL) and its text.
+# The header's menus. Edit freely: each link is a site path (or a full URL) and its text.
 # The sidebar is unchanged: it still comes from each page's parent / nav_order front matter.
 
 menus:
@@ -43,7 +43,7 @@ menus:
   - title: Community
     href: /#home-share
     links:
-      - [Newsletter, /newsletter]
+      - [Newsletter, /newsletter/subscribe/]
       - [Discord, /discord-server/]
       - [Submission guide, /submissions/submission-guide/]
       - [Third-party content, /third-party/]
@@ -55,23 +55,3 @@ menus:
       - [Books, /store/books/]
       - [Cairn Press, /cairn-press/]
       - [Merch, /store/merch/]
-
-footer:
-  - title: Read
-    links:
-      - [Core Rules, /second-edition/players-guide/core-rules/]
-      - [Player's Guide, /second-edition/players-guide/]
-      - [Warden's Guide, /second-edition/wardens-guide/]
-      - [PDFs and game files, /second-edition/game-files/]
-  - title: Play
-    links:
-      - [Resources, /resources/]
-      - [Monsters, /resources/monsters/]
-      - [Adventures, /adventures/]
-      - [Character Generator, /second-edition/tools/character-generator/]
-  - title: Share
-    links:
-      - [Submission guide, /submissions/submission-guide/]
-      - [Discord, /discord-server/]
-      - [Translations, /localization/]
-      - [First Edition, /first-edition/]
