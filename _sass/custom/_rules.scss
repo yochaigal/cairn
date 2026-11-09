@@ -5,6 +5,7 @@
 .rules-layout > .section-nav { grid-column: 1; grid-row: 1; }
 .rules-layout > .rules-main { grid-column: 2; grid-row: 1; }
 .rules-layout > .toc { grid-column: 3; grid-row: 1; }
+.rules-layout.toc-only > .rules-main { grid-column: 2 / -1; }  /* no headings, so no "On this page": the cards take its column */
 /* breadcrumbs: only when the Second Edition sidebar is hidden (below 1100px), as the page's first row */
 .rules-layout > .crumbs { display: none; grid-column: 1 / -1; grid-row: 1; }
 .section-nav { position: sticky; top: calc(var(--head, 88px) + 8px); align-self: start; max-height: calc(100vh - var(--head, 88px) - 24px); overflow: auto; font-size: 1rem; padding-right: 6px; }

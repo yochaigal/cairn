@@ -40,7 +40,11 @@ layout: table_wrappers
     </div>
   </main>
   {%- else %}
-  <div class="rules-layout">
+  {%- comment -%} A page that is only its title and a list of its child pages shows the list as stacked cards, full width {%- endcomment -%}
+  {%- assign cairn_text_size = content | split: '</h1>' | last | strip_html | strip | size -%}
+  {%- comment -%} not page.has_children: Store and Newsletter list their child pages without setting it {%- endcomment -%}
+  {%- if cairn_text_size == 0 %}{% assign cairn_cards = true %}{% else %}{% assign cairn_cards = false %}{% endif %}
+  <div class="rules-layout{% if cairn_cards %} toc-only{% endif %}">
     <div class="crumbs">{% include components/breadcrumbs.html %}</div>
     <div class="section-nav">
       {% include_cached components/site_nav.html %}
@@ -73,6 +77,8 @@ layout: table_wrappers
         </div>
       </div>
       <div class="prose"{% if page.lang %} lang="{{ page.lang }}"{% endif %}>
+      {%- comment -%} Store and Barebones › Rules have no heading of their own {%- endcomment -%}
+      {%- if cairn_cards %}{% unless content contains '</h1>' %}<h1>{{ page.title }}</h1>{% endunless %}{% endif %}
       {%- if site.heading_anchors != false %}
         {% include vendor/anchor_headings.html html=content beforeHeading="true" anchorBody="<svg viewBox=\"0 0 16 16\" aria-hidden=\"true\"><use xlink:href=\"#svg-link\"></use></svg>" anchorClass="anchor-heading" anchorAttrs="aria-labelledby=\"%html_id%\"" %}
       {%- else %}
@@ -80,7 +86,7 @@ layout: table_wrappers
       {%- endif %}
 
       {%- if page.has_toc != false %}
-        {% include components/children_nav.html %}
+        {% include components/children_nav.html cards=cairn_cards %}
       {%- endif %}
       </div>
       <nav class="pager" aria-label="Previous and next" id="pager" hidden></nav>

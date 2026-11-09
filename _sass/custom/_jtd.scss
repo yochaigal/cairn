@@ -30,19 +30,14 @@ html { font-size: 16px !important; }
 .section-nav .nav-list .nav-list-item.active > .nav-list-expander svg { transform: rotate(-90deg); }
 @media (prefers-reduced-motion: no-preference) { .section-nav .nav-list .nav-list-expander svg { transition: transform .15s; } }
 
-// ---------- the Menu drawer: below 1100px the sidebar column is gone, so its nav opens under the header instead
-@media (max-width: 1099px) {
+// ---------- the Menu drawer: from 960 to 1099px the sidebar column is gone, so its nav opens under the header instead
+@media (min-width: 960px) and (max-width: 1099px) {
   .rules-layout > .section-nav:has(.site-nav.nav-open) { display: block; position: fixed; z-index: 19; left: 0; right: 0; top: var(--head, 88px); max-height: calc(100vh - var(--head, 88px));
     padding: 12px 16px 24px; background: var(--bg); border-bottom: 1px solid var(--border); box-shadow: var(--shadow-pop); }
 }
+// below 960px the header opens full screen instead, with the sidebar's pages in its lists (_responsive.scss, menuTree in cairn-nav.js)
 @media (max-width: 959px) {
   .cairn-header.nav-open .primary-nav { display: block; }
-}
-// on a short window the open drawer is taller than the window, so it scrolls with the page instead of staying put
-@media (max-width: 959px) and (max-height: 520px) {
-  html:has(.cairn-header.nav-open) { scroll-padding-top: 0; }
-  .cairn-header.nav-open { position: relative; }
-  .rules-layout > .section-nav:has(.site-nav.nav-open) { position: absolute; max-height: none; overflow: visible; }
 }
 
 // ---------- breadcrumbs (the theme's), styled as the redesign's
@@ -78,6 +73,13 @@ html { font-size: 16px !important; }
 .cairn .prose ul { list-style: disc; }
 .cairn .prose ol { list-style: decimal; }
 .cairn .prose ol > li::before { content: none; }
+// a page that only lists its child pages: one frame card per row (_includes/components/children_nav.html)
+.cairn .prose .child-cards { list-style: none; margin: 0; padding: 0; display: grid; gap: 20px; }
+.cairn .prose .child-cards li, .cairn .prose .child-cards h3 { margin: 0; }
+.cairn .prose .child-cards .frame-tile { aspect-ratio: auto; width: 100%; min-height: 172px; }
+.cairn .prose .child-cards .frame-tile:not(:has(.count)) { min-height: 0; }  /* a title alone: one line, so a shorter card */
+// above the cards, "Table of contents" is a heading the size of an H2, not the theme's small label (whose size is !important)
+.rules-layout.toc-only .prose .text-delta { font-size: clamp(1.55rem, 3vw, 2rem) !important; font-weight: 700; text-transform: none; letter-spacing: normal; color: var(--heading); margin-bottom: 28px; }
 .cairn .prose .table-wrapper { margin: 0 0 1.2em; box-shadow: none; overflow-x: auto; border: 1px solid var(--border); border-radius: 6px; }
 .cairn .prose .table-wrapper table { margin: 0; border: 0; }
 .cairn .prose .anchor-heading svg { fill: var(--muted); }
