@@ -6,7 +6,7 @@
 {%- assign e = include.e -%}
 {%- assign h = include.h -%}
 {%- assign label = site.data.cairn_adventure_groups | where: "id", e.group | first -%}
-<li class="adv-card" data-g="{{ e.group }}" data-a="{{ e.author | escape }}" data-p="{{ e.price_kind }}" data-price="{{ e.price }}" data-t="{{ e.tags | join: '|' | escape }}" data-n="{{ e.name | escape }}">
+<li class="adv-card" data-g="{{ e.group }}" data-a="{{ e.author | escape }}" data-p="{{ e.price_kind }}" data-price="{{ e.price }}" data-t="{{ e.tags | join: '|' | escape }}" data-n="{{ e.name | escape }}"{% if e.cover_local %} data-cover="{{ e.cover_local | relative_url }}"{% endif %}>
   <a href="{{ e.href | relative_url }}"><span class="adv-art{% unless e.cover %} no-cover{% endunless %}">
     {%- if e.cover %}<img class="adv-cover" src="{{ e.cover | relative_url }}" alt="" loading="lazy" referrerpolicy="no-referrer">{% endif -%}
     <span class="adv-panel" aria-hidden="true"><small>{{ label.label }}</small>{{ e.name }}</span></span>

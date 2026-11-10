@@ -1,0 +1,89 @@
+// The redesign's styles: the Adventures catalog's prophecy (assets/js/cairn-prophecy.js).
+/* the count, then "• Prophesize my next adventure" (shown by the script) */
+.adv-count-row { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px; margin: 0 0 16px; }
+.adv-count-row .adv-count { margin: 0; }
+.adv-count-sep { color: var(--muted); }
+.link-button { padding: 2px 0; border: 0; background: none; color: var(--accent); font: inherit; cursor: pointer;
+  text-decoration: underline; text-underline-offset: .18em; text-decoration-thickness: 1px; }
+.link-button:hover { color: var(--accent-strong); text-decoration-thickness: 2px; }
+
+/* the dialog: the scene's canvas at the back (or, without it, the CSS book over the CSS stage), then the text and the
+   close button. The text's layer lets presses through to the canvas, so the book can be dragged. On a short screen
+   the dialog scrolls; the scene stays put. */
+.adv-oracle { position: fixed; inset: 0; width: 100%; height: 100%; max-width: none; max-height: none; margin: 0; padding: 0; border: 0;
+  overflow: hidden auto; overscroll-behavior: contain; background: #000; color: var(--text); }
+.adv-oracle::backdrop { background: #000; }
+@keyframes oracle-fade { from { opacity: 0; } }
+/* the page fades to black, the dialog and its backdrop together */
+@media (prefers-reduced-motion: no-preference) {
+  .adv-oracle[open], .adv-oracle[open]::backdrop { animation: oracle-fade .5s ease-out; }
+}
+.oracle-wipe, .oracle-book { position: fixed; inset: 0; }
+.oracle-book canvas { position: absolute; inset: 0; display: block; width: 100%; height: 100%; }
+.oracle-in { position: relative; z-index: 1; display: grid; grid-template-rows: minmax(240px, 1fr) auto; min-height: 100%; padding: 0 16px clamp(24px, 6vh, 64px); pointer-events: none;
+  overflow: hidden; overflow: clip; }  /* the text slides up from below the screen: clipped, so it neither shows nor scrolls */
+@media (max-height: 500px) { .oracle-in { grid-template-rows: minmax(min(240px, 35vh), 1fr) auto; } }
+.oracle-text, .oracle-close { pointer-events: auto; }
+.oracle-text [hidden] { display: none; }  /* .oracle-sum's display would otherwise win over [hidden] */
+/* the near-black backing is invisible on the stage; on a short screen, where the dialog scrolls and the text rides up over the fixed book, it keeps the text readable */
+.oracle-text { grid-row: 2; width: min(40em, 100%); margin: 0 auto; text-align: center; opacity: 0;
+  background: rgba(0, 0, 0, .85); box-shadow: 0 0 20px 14px rgba(0, 0, 0, .85); }
+.is-revealed .oracle-text { opacity: 1; }
+@media (prefers-reduced-motion: no-preference) {
+  .oracle-text { transform: translateY(75vh); transition: opacity .5s ease-out, transform .9s cubic-bezier(.16, .84, .3, 1); }
+  .is-revealed .oracle-text { transform: none; }
+}
+@media (prefers-reduced-motion: reduce) { .oracle-text { transition: opacity .3s; } }
+.oracle-text h2 { margin: 0 0 4px; font-size: clamp(1.5rem, 3.4vw, 2.1rem); overflow-wrap: anywhere; }
+.oracle-by { margin: 0 0 10px; color: var(--muted); }
+.oracle-sum { margin: 0; display: -webkit-box; -webkit-line-clamp: 5; -webkit-box-orient: vertical; overflow: hidden; }
+.oracle-actions { display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin-top: 22px; }
+#oracleOut { font-weight: 400; }
+.oracle-close { position: absolute; top: 8px; right: 8px; display: grid; place-items: center; width: 44px; height: 44px; padding: 0; border: 0; border-radius: 50%; background: none; color: var(--muted); font: inherit; font-size: 2rem; line-height: 1; cursor: pointer; }
+.oracle-close:hover { color: var(--heading); background: rgba(255, 255, 255, .06); }
+@media (max-width: 519px) { .oracle-actions .btn { flex: 1 1 100%; } }
+/* shown only if the first open is still waiting for its scripts */
+.oracle-wait { position: absolute; left: 0; right: 0; top: 45%; margin: 0; text-align: center; color: var(--muted); opacity: 0; transition: opacity .3s; }
+.is-loading .oracle-wait { opacity: 1; }
+
+/* the CSS book (without WebGL, or with reduced motion): a portrait cover in cloth with a gilt border, the cover image
+   as a framed plate and the name below, tilted; its top and height are set to fit above the text */
+.flat-book { position: absolute; left: 50%; height: var(--h); aspect-ratio: 205 / 310; display: flex; flex-direction: column; align-items: center;
+  gap: calc(var(--h) * .05); padding: calc(var(--h) * .14) calc(var(--h) * .07) calc(var(--h) * .06);  /* from its height (set by the script): a % would follow the dialog */
+  border-radius: 3px 6px 6px 3px; background: radial-gradient(circle at 50% 45%, #42281d, #231410);
+  box-shadow: inset 0 0 0 5px #231410, inset 0 0 0 7px #c9a063, inset 0 0 0 10px #231410, inset 0 0 0 11px #8a6a35,
+    inset 12px 0 14px -6px rgba(0, 0, 0, .7), -14px 18px 40px rgba(0, 0, 0, .7);
+  transform: translateX(-50%) perspective(900px) rotateY(16deg) rotateX(3deg); }
+.flat-plate { position: relative; width: 100%; aspect-ratio: 315 / 250; overflow: hidden; background: #26212a; border: 3px solid #c9a063; outline: 1px solid #8a6a35; outline-offset: 3px; }
+.flat-plate img { position: absolute; inset: 0; display: block; width: 100%; height: 100%; object-fit: cover; -webkit-user-drag: none; }
+.flat-book.no-cover .flat-plate img { display: none; }
+.flat-book.no-cover .adv-panel { display: grid; }
+.flat-title { margin: 0; color: #e8c886; font-weight: 700; font-size: calc(var(--h) * .055); line-height: 1.15; text-align: center; text-shadow: 1px 2px 0 rgba(0, 0, 0, .55);
+  overflow-wrap: anywhere; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+@media (prefers-reduced-motion: no-preference) {
+  .oracle-book.flat:not(.rise):not(.drop) .flat-book { opacity: 0; }
+  .oracle-book.flat.rise .flat-book { animation: flat-in var(--book-ms, .9s) ease-out both; }
+  .oracle-book.flat.drop .flat-book { animation: flat-out var(--book-ms, .5s) ease-in both; }
+  .oracle-book.flat.still .flat-book { animation: none; }
+}
+@keyframes flat-in { from { opacity: 0; filter: blur(10px); } }
+@keyframes flat-out { to { opacity: 0; filter: blur(10px); } }
+
+/* with the CSS book: the stage in CSS, with a haze turning slowly over the book's place, faded in and out */
+.oracle-wipe.no-gl { background: radial-gradient(ellipse at 50% var(--cy, 36%), rgba(242, 196, 136, .05), transparent 55%), #050507; }
+.oracle-wipe.no-gl::before { content: ''; position: absolute; left: 50%; top: var(--cy, 36%); width: min(120vw, 900px); aspect-ratio: 1;
+  translate: -50% -50%; border-radius: 50%; opacity: 0; filter: blur(48px);
+  background: conic-gradient(rgba(242, 196, 136, 0), rgba(242, 196, 136, .26), rgba(159, 180, 255, 0), rgba(159, 180, 255, .2), rgba(242, 196, 136, 0));
+  transition: opacity var(--wipe-ms, .8s) ease; }
+.oracle-wipe.no-gl.go::before { opacity: 1; }
+.oracle-wipe.no-gl.swept::before { display: none; }
+@media (prefers-reduced-motion: no-preference) {
+  .oracle-wipe.no-gl::before { animation: haze-turn 14s linear infinite; }
+}
+@keyframes haze-turn { to { rotate: 360deg; } }
+
+@media (forced-colors: active) {
+  .oracle-close { border: 1px solid ButtonText; }
+  .oracle-book canvas, .oracle-wipe.no-gl::before { display: none; }  /* forced colours can't repaint the canvas */
+  .flat-book { background: Canvas; border: 1px solid CanvasText; }
+}
