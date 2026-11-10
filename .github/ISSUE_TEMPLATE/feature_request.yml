@@ -1,0 +1,40 @@
+name: Feature request
+description: Suggest an improvement for the Cairn website or its tools
+title: "[Feature]: "
+labels: [enhancement]
+body:
+  - type: markdown
+    attributes:
+      value: >-
+        Share the problem you are trying to solve and the change you would like to see.
+  - type: dropdown
+    id: area
+    attributes:
+      label: What area is this about?
+      options:
+        - Website
+        - Rules or other content
+        - Character tools
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem would this solve?
+      description: Explain what is difficult or missing today.
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: What would you like to happen?
+      description: Describe your suggested change.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Any alternatives you have considered?
+    validations:
+      required: false
