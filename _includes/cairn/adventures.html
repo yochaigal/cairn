@@ -21,6 +21,13 @@
     {%- for t in tags %}{% if t != "" %}<option>{{ t | escape }}</option>{% endif %}{% endfor %}</select></div>
   {%- endif %}
   <div class="field"><label for="advSort">Sort</label><select id="advSort" name="s"><option value="az">A to Z</option><option value="za">Z to A</option><option value="price">Free first</option></select></div>
+  <button class="btn btn-primary adv-random" id="advRandom" type="button" aria-controls="advList" hidden>
+    <svg aria-hidden="true" focusable="false" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <rect x="3" y="3" width="18" height="18" rx="3"/>
+      <g fill="currentColor" stroke="none"><circle cx="8" cy="8" r="1.3"/><circle cx="16" cy="8" r="1.3"/><circle cx="12" cy="12" r="1.3"/><circle cx="8" cy="16" r="1.3"/><circle cx="16" cy="16" r="1.3"/></g>
+    </svg>
+    <span>Random adventure</span>
+  </button>
 </form>
 <p class="adv-count" id="advCount" role="status">{{ A.size }} adventures</p>
 <ul class="adv-grid" id="advList">
