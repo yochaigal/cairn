@@ -1,0 +1,40 @@
+name: Bug report
+description: Report a problem with the Cairn website or its content
+title: "[Bug]: "
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: >-
+        Thanks for taking the time to report a problem. Please include enough detail for us to reproduce it.
+  - type: dropdown
+    id: area
+    attributes:
+      label: Where did you find the problem?
+      options:
+        - Website
+        - Rules or other content
+        - Character tools
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What happened?
+      description: Describe the problem and where you encountered it. Include a page link when possible.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: How can we reproduce it?
+      description: List the steps that led to the problem, if applicable.
+    validations:
+      required: false
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect to happen?
+    validations:
+      required: false
