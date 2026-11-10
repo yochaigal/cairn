@@ -44,6 +44,16 @@ jobs:
           path: _kettlewright
           sparse-checkout: app/static/json
 
+      # Copies of the adventures' covers for the prophecy's book (_plugins/cairn_covers.rb), kept between runs so a
+      # deploy fetches only new ones. A cover that changed behind the same address keeps its old copy: bump v1 to
+      # fetch them all again.
+      - name: Cover copies
+        uses: actions/cache@v4
+        with:
+          path: .jekyll-cache/cairn-covers
+          key: covers-v1-${{ github.run_id }}
+          restore-keys: covers-v1-
+
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:

@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 require_relative "cairn_text"
+require_relative "cairn_covers"
 
 require "uri"
 require "yaml"
@@ -25,6 +26,7 @@ module Cairn
       posts = scrivener_posts(File.join(site.source, "_scrivener", "posts"))
       repo = repo_adventures(site)
       site.data["cairn_adventures"] = merge(posts, repo)
+      Covers.copy(site, site.data["cairn_adventures"])
       site.data["cairn_adventure_groups"] = GROUPS.map do |k, label|
         {"id" => k, "label" => label, "count" => site.data["cairn_adventures"].count { |e| e["group"] == k }}
       end
