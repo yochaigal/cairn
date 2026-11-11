@@ -71,7 +71,9 @@ html { font-size: 16px !important; }
 // ---------- Markdown output from the theme's styles: lists, tables, callouts
 .cairn .prose ul > li::before { content: none; }
 .cairn .prose ul { list-style: disc; }
-.cairn .prose ol { list-style: decimal; }
+// the theme's `counter-reset: step-counter` replaces the browser's own `list-item` reset, so each list
+// would carry on numbering from the one before it (#219); put the reset back
+.cairn .prose ol { list-style: decimal; counter-reset: list-item; }
 .cairn .prose ol > li::before { content: none; }
 // a page that only lists its child pages: one frame card per row (_includes/components/children_nav.html)
 .cairn .prose .child-cards { list-style: none; margin: 0; padding: 0; display: grid; gap: 20px; }
