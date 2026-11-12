@@ -12,6 +12,14 @@ require "json"
 # When Yochai edits a background, the next build picks it up. If a page no longer has the shape the builder needs
 # (10 names and two d6 tables, 20 backgrounds, 10 of each trait, 20 bonds and omens), the build logs a warning and
 # the builder is left off Character Creation; the site still builds.
+#
+# Barebones Edition Character Creation gets the same builder from its own tables (site.data["cairn_builder_barebones"]):
+# 100 names and surnames, the traits, 100 backgrounds with their gear, the armor and weapon d6 tables, 100 pieces of
+# Additional Gear, and the 100 Barebones spellbooks. It is checked and left off the same way, on its own.
+#
+# First Edition's builder is a page of its own under Tools (first-edition/tools/character-builder.md), fed from the SRD
+# (site.data["cairn_builder_first"]): the name and background d20 tables, ten trait tables, the Starting Gear tables
+# (their armor and damage looked up in the Equipment List) and the 100 spells.
 module Cairn
   class Builder < Jekyll::Generator
     include Text
@@ -19,7 +27,13 @@ module Cairn
     priority :low
 
     CC = "second-edition/players-guide/character-creation.md"
+    BB = "barebones/rules/barebones-character-creation.md"
+    BB_SPELLS = "barebones/rules/barebones-spellbooks.md"
+    BB_MARKET = "barebones/rules/barebones-marketplace.md"
+    FE = "first-edition/cairn-srd.md"
+    FE_BONUS = {"tool" => "tools", "trinket" => "trinkets", "expeditionary gear" => "expeditionary", "armor" => "armor", "weapon" => "weapons", "spellbook" => "spellbooks"}.freeze
     TRAITS = %w[Physique Skin Hair Face Speech Clothing Virtue Vice].freeze
+    FE_TRAITS = (TRAITS + %w[Reputation Misfortunes]).freeze
     # bold names that aren't things a character carries (people, places, orders, rules)
     NOT_ITEMS = ["war", "falconry", "recharge", "fatigue", "critical damage", "gate", "lord of winter", "dawn brigade", "moss witch",
                  "single item", "specialty", "omens", "bonds", "str", "dex", "wil", "hp", "deprived", "panicked", "oak lord", "oak lord's",
@@ -32,17 +46,22 @@ module Cairn
       @site = site
       @pages = site.pages.to_h { |p| [p.path, p] }
       @fixes = site.data["cairn_builder_fixes"] || {}
-      data = builder_data
-      cards = site.data["cairn_builder_cards"]
-      raise Shape, "_data/cairn_builder_cards.json is missing" unless cards
-      data["cards"] = cards
-      site.data["cairn_builder"] = data
-    rescue Shape => e
-      Jekyll.logger.warn("cairn_builder:", "#{e.message}; the character builder is left off Character Creation")
-      site.data["cairn_builder"] = nil
+      site.data["cairn_builder"] = build("Character Creation") { builder_data }
+      site.data["cairn_builder_barebones"] = build("Barebones Edition Character Creation") { barebones_data }
+      site.data["cairn_builder_first"] = build("First Edition's Character Builder") { first_data }
     end
 
     private
+
+    # one edition's data with the sheet's card rects, or nil (and a warning) if its pages lost their shape
+    def build(page)
+      data = yield
+      data["cards"] = @site.data["cairn_builder_cards"] or raise Shape, "_data/cairn_builder_cards.json is missing"
+      data
+    rescue Shape => e
+      Jekyll.logger.warn("cairn_builder:", "#{e.message}; the character builder is left off #{page}")
+      nil
+    end
 
     def body(rel)
       page = @pages[rel] or raise Shape, "#{rel} is missing"
@@ -207,6 +226,144 @@ module Cairn
         out[key] = (1..20).map { |i| {"n" => i, "text" => plain(d[i]), "fx" => key == "bonds" ? effects(d[i]) : {}} }
       end
       apply_fixes(out)
+      out
+    end
+
+    # ---------- Barebones Edition
+
+    # a d-table with one entry per row (| d100 | Name | Surname |): each row's cells after the number, in order
+    def d_rows(lines, count, what)
+      first = lines.drop_while { |l| !l.strip.start_with?("|") }.take_while { |l| l.strip.start_with?("|") }  # a section's first table
+      rows = md_table(first)[1].to_h { |r| [number(r[0]), r[1..].map(&:strip)] }
+      raise Shape, "the #{what} table no longer has #{count} rows" unless rows.keys.compact.sort == (1..count).to_a
+      (1..count).map { |n| rows[n] }
+    end
+
+    # "Candle (3 uses, dim), Marbles, Spyglass": split at the commas outside brackets
+    def split_items(s) = s.scan(/(?:\([^()]*\)|[^,(])+/).map(&:strip).reject(&:empty?)
+
+    # a cell's words, a bracket set off from the word before it ("Spellbook(petty)")
+    def bb_text(s) = plain(s).gsub(/(?<=\S)\(/, " (").gsub(/\s+/, " ")
+
+    # one piece of gear. A spellbook or scroll is named by a d100 of its own (spell); "Random Additional Gear" is a
+    # roll on that table rather than a thing (extra)
+    def bb_item(raw)
+      full = bb_text(raw)
+      return {"extra" => true} if full.match?(/\A(?:random )?additional gear\z/i)
+      it = item(full.split(/\s*\(/, 2)[0].strip, {"full" => full}.merge(tags_of(full.scan(TAG).flatten.join(" "))))
+      it["spell"] = full.match?(/scroll/i) ? "scroll" : "book" if full.match?(/spellbook/i)
+      it
+    end
+
+    def barebones_data
+      cc = body(BB)
+      names = d_rows(section_lines(cc, "Names (d100)", 3), 100, "Names")
+      out = {"edition" => "barebones", "marketplace" => @pages[BB_MARKET]&.url, "names" => names.map { |r| plain(r[0]) }, "surnames" => names.map { |r| plain(r[1]) }, "traits" => []}
+      raise Shape, "the Names table no longer has a name and a surname in each row" if (out["names"] + out["surnames"]).any?(&:empty?)
+      TRAITS.each do |t|
+        d = pairs(table_lines(cc, t, 4))
+        raise Shape, "the #{t} table no longer has 10 entries" unless d.keys.sort == (1..10).to_a
+        out["traits"] << {"name" => t, "values" => (1..10).map { |i| plain(d[i]) }}
+      end
+      out["backgrounds"] = d_rows(section_lines(cc, "Background"), 100, "Background").each_with_index.map do |r, i|
+        m = r[0].match(/\A\*\*(.+?)\*\*\s*:\s*(.+)\z/) or raise Shape, "background #{i + 1} is no longer \"**Name**: gear\""
+        {"n" => i + 1, "name" => plain(m[1]), "text" => bb_text(m[2]), "items" => split_items(m[2]).map { |g| bb_item(g) }}
+      end
+      # what every character starts with, less the gold (rolled on its own step)
+      start = section_lines(cc, "Armor & Weapon", 3).take_while { |l| !l.start_with?("#") }.select { |l| l.match?(/\A\s*[-*] /) }.map { |l| l.sub(/\A\s*[-*] /, "").strip }
+      raise Shape, "Armor & Weapon no longer lists 3d6 Gold Pieces among the starting gear" unless start.any? { |g| g.match?(/\A3d6\s+gold/i) }
+      out["start"] = start.reject { |g| g.match?(/\A\d+d\d+\s+gold/i) }.map { |g| bb_item(g) }
+      out["armor"] = d_rows(section_lines(cc, "Armor (d6)", 4), 6, "Armor").each_with_index.map do |r, i|
+        none = r[0].match?(/additional gear/i)  # "None. Roll for Additional Gear"
+        {"n" => i + 1, "text" => bb_text(r[0]), "extra" => none, "items" => none ? [] : [bb_item(r[0])]}
+      end
+      out["weapons"] = d_rows(section_lines(cc, "Weapons (d6)", 4), 6, "Weapons").each_with_index.map do |r, i|
+        text = bb_text(r[0])
+        m = text.match(/\A(.+?)\s*\(([^()]*)\)\z/)  # "Spear, Sword, Mace, Axe, Flail, etc. (d8 damage)"
+        options = m ? m[1].split(",").map(&:strip).reject { |o| o.empty? || o.match?(/\Aetc\.?\z/i) } : []
+        damage = m && m[2][/\bd\d+\b/]
+        raise Shape, "weapon #{i + 1} is no longer \"names (dN damage)\"" unless damage && options.any?
+        {"n" => i + 1, "text" => text, "options" => options, "damage" => damage, "bulky" => tags_of(m[2])["bulky"] || false}
+      end
+      out["gear"] = d_rows(section_lines(cc, "Additional Gear", 4), 100, "Additional Gear").each_with_index.map do |r, i|
+        {"n" => i + 1, "text" => bb_text(r[0]), "item" => bb_item(r[0])}
+      end
+      out["spellbooks"] = d_rows(body(BB_SPELLS).lines.map(&:chomp), 100, "Spellbooks").each_with_index.map do |r, i|
+        raise Shape, "spellbook #{i + 1} has no name or description" if r.size < 2 || r.first(2).any?(&:empty?)
+        {"n" => i + 1, "name" => plain(r[0]), "text" => plain(r[1])}
+      end
+      out
+    end
+
+    # ---------- First Edition
+
+    # the lines under the SRD's first heading that starts with these words, up to the next heading of any level (its
+    # headings carry stray tabs, and "Armor" and "Weapons" head both a Starting Gear table and a price list)
+    def under(text, title)
+      lines = text.lines.map(&:chomp)
+      i = lines.index { |l| l.match?(/\A\#{1,6}\s+#{Regexp.escape(title)}/) } or raise Shape, "the SRD no longer has a heading \"#{title}\""
+      lines[(i + 1)..].take_while { |l| !l.match?(/\A\#{1,6}\s/) }
+    end
+
+    def table_under(text, title) = under(text, title).select { |l| l.strip.start_with?("|") }
+
+    # a d20 table written as column pairs, whole: [entry 1, ..., entry count]
+    def d_pairs(text, title, count = 20)
+      d = pairs(table_under(text, title))
+      raise Shape, "the #{title} table no longer has #{count} entries" unless d.keys.sort == (1..count).to_a
+      (1..count).map { |n| d[n] }
+    end
+
+    # a d20 table with its ranges across the header (| 1-3 | 4-14 | 15-19 | 20 |) and the entries in the row under it
+    def ranges(text, title)
+      head, rows = md_table(table_under(text, title))
+      out = head.each_with_index.map do |h, i|
+        m = h.match(/\A(\d+)(?:\s*[-–]\s*(\d+))?\z/) or raise Shape, "the #{title} table's header is no longer ranges of a d20"
+        {"lo" => m[1].to_i, "hi" => (m[2] || m[1]).to_i, "text" => bb_text(rows.dig(0, i))}
+      end
+      raise Shape, "the #{title} table no longer covers 1 to 20" unless out.flat_map { |r| (r["lo"]..r["hi"]).to_a } == (1..20).to_a && out.none? { |r| r["text"].empty? }
+      out
+    end
+
+    def first_data
+      srd = body(FE)
+      out = {"edition" => "first", "srd" => @pages[FE].url, "traits" => []}
+      out["name_tables"] = ["Female Names", "Male Names"].map { |t| {"title" => t, "names" => d_pairs(srd, t).map { |n| plain(n) }} }
+      out["surnames"] = d_pairs(srd, "Surnames").map { |n| plain(n) }
+      out["backgrounds"] = d_pairs(srd, "Background").each_with_index.map { |b, i| {"n" => i + 1, "name" => plain(b)} }
+      FE_TRAITS.each { |t| out["traits"] << {"name" => t, "values" => d_pairs(srd, t, 10).map { |v| plain(v) }} }
+      # what every character starts with, less the gold (rolled on its own step): "A torch (one slot)" is a Torch
+      start = under(srd, "Starting Gear").select { |l| l.match?(/\A\s*[-*] /) }.map { |l| plain(l.sub(/\A\s*[-*] /, "")) }
+      raise Shape, "Starting Gear no longer lists 3d6 gold pieces" unless start.any? { |g| g.match?(/\A3d6\s+gold/i) }
+      out["start"] = start.reject { |g| g.match?(/\A\d+d\d+\s+gold/i) }.map { |g| item(g.sub(/\s*\(one slot\)/i, "").sub(/\A(?:an?|the)\s+/i, "").strip.sub(/\A./, &:upcase)) }
+      # the Equipment List says what each piece of armor and each weapon is worth in play
+      shop = srd[srd.index(/^## Equipment List/) || srd.size..]
+      armor = md_table(table_under(shop, "Armor"))[1].to_h { |r| it = bb_item(r[0]); [it["name"].downcase, it] }
+      weapons = {}
+      md_table(table_under(shop, "Weapons"))[1].each do |r|
+        m = bb_text(r[0]).match(/\A(.+?)\s*\(([^()]*)\)\z/) or next
+        tags = {"damage" => m[2][/\bd\d+\b/], "bulky" => tags_of(m[2])["bulky"] || false}
+        m[1].split(",").map(&:strip).each { |n| weapons[n.downcase] = tags unless n.match?(/\Aetc\.?\z/i) }
+      end
+      worn = lambda do |r|
+        r.merge("items" => r["text"].match?(/\Anone\z/i) ? [] : r["text"].split(/\s*&\s*/).map { |n| armor[n.downcase] or raise Shape, "#{n} is no longer in the Equipment List's armor" })
+      end
+      out["armor"] = ranges(srd, "Armor").map(&worn)
+      out["helmets"] = ranges(srd, "Helmets & Shields").map(&worn)
+      out["weapons"] = ranges(srd, "Weapons").map do |r|
+        names = r["text"].split(",").map(&:strip)
+        like = names.map { |n| weapons[n.downcase] }.compact.first or raise Shape, "none of #{r['text']} is in the Equipment List's weapons"
+        r.merge("options" => names.map { |n| w = weapons[n.downcase] || like  # a Battleaxe is as its row-mates are
+                                         item(n, {"full" => "#{n} (#{w['damage']})"}.merge(w["bulky"] ? {"bulky" => true} : {})) })
+      end
+      out["gear"] = {"expeditionary" => "Expeditionary Gear", "tools" => "Tools", "trinkets" => "Trinkets"}.to_h do |key, title|
+        [key, {"title" => title, "rows" => d_pairs(srd, title).each_with_index.map { |g, i| {"n" => i + 1, "text" => bb_text(g), "item" => bb_item(g)} }}]
+      end
+      out["bonus"] = ranges(srd, "Bonus Item").map do |r|
+        r.merge("tables" => r["text"].split(/\s+or\s+/i).map { |t| FE_BONUS[t.strip.downcase] or raise Shape, "the Bonus Item table names a table the builder doesn't know: #{t}" })
+      end
+      about = d_rows(under(srd, "100 Spells"), 100, "100 Spells").to_h { |r| [plain(r[0]).downcase, plain(r[1].to_s)] }
+      out["spellbooks"] = d_pairs(srd, "Spellbooks", 100).each_with_index.map { |n, i| {"n" => i + 1, "name" => plain(n), "text" => about[plain(n).downcase].to_s} }
       out
     end
 

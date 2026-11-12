@@ -2,6 +2,7 @@
 // assets/vendor/dice-box/). Dice in the text roll themselves, and in a roll table the row a roll lands on is marked.
 // Other scripts (the character builder) roll through the same API:
 //   await CairnDice.roll('3d6', {label: 'Strength'})
+//   await CairnDice.roll('2d20', {distinct: true})  // each die in its own colour: one for a name, one for a surname
 (() => {
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'})[c]);
@@ -120,9 +121,17 @@ function clearTable(fade = false) {
   onTable = false; if (box) box.clear();
 }
 
+// a die's colour among several rolled for different things (distinct): the palette in turn, from the colour chosen; past its
+// end, the same colours lighter, then darker, so up to twelve dice each have their own
+const blend = (hex, to, k) => '#' + [1, 3, 5].map(i => Math.round(parseInt(hex.slice(i, i + 2), 16) * (1 - k) + to * k).toString(16).padStart(2, '0')).join('');
+function dieColour(i) {
+  const from = Math.max(0, COLOURS.findIndex(([, c]) => c === colour)), c = COLOURS[(from + i) % COLOURS.length][1], lap = Math.floor(i / COLOURS.length) % 3;
+  return lap === 1 ? blend(c, 255, .35) : lap === 2 ? blend(c, 0, .4) : c;
+}
 // rolls run one at a time: dice-box drops a roll still in flight when a new one starts
-// record: into the history (the builder's rolls aren't); detail: a line for the result, given the total (a table's row)
-function roll(request, {label = '', show3d = use3d(), highest = false, record = !walking(), detail = null} = {}) {
+// record: into the history (the builder's rolls aren't); detail: a line for the result, given the total (a table's row);
+// distinct: each die is for something different, so each rolls on its own in its own colour (the values keep the dice's order)
+function roll(request, {label = '', show3d = use3d(), highest = false, record = !walking(), detail = null, distinct = false} = {}) {
   let parsed;
   try { parsed = parse(request, highest); } catch (err) { return Promise.reject(err); }
   const run = async () => {
@@ -130,10 +139,13 @@ function roll(request, {label = '', show3d = use3d(), highest = false, record = 
     const b = show3d && !REDUCE.matches ? (box || (showStatus('Loading dice…', true), await loadBox())) : null;
     let dice;
     if (b) {
-      const rolling = b.roll(parsed.terms.map(({sides, qty}) => ({sides, qty})));
+      const each = distinct && parsed.terms.reduce((n, t) => n + t.qty, 0) > 1;
+      const rolling = b.roll(each ? parsed.terms.flatMap(({sides, qty}) => Array.from({length: qty}, () => sides)).map((sides, i) => ({sides, qty: 1, themeColor: dieColour(i)}))
+        : parsed.terms.map(({sides, qty}) => ({sides, qty})));
       stage.classList.remove('dice-fade');  // only after b.roll() has queued its clear, so the faded dice can't flash back
       const out = await rolling;
-      dice = out.map(d => ({sides: Number(String(d.sides).replace(/\D/g, '')), value: d.value}));
+      // a d100 is a tens die and a ones die: 00 and 0 together come back as 0, and are 100
+      dice = out.map(d => { const sides = Number(String(d.sides).replace(/\D/g, '')); return {sides, value: d.value || sides}; });
       onTable = true; clearTimer = setTimeout(clearTable, SETTLE_MS);
     } else {
       dice = parsed.terms.flatMap(({sides, qty}) => Array.from({length: qty}, () => ({sides, value: randomDie(sides)})));

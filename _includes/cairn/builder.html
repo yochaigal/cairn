@@ -1,10 +1,11 @@
 {%- comment -%}
-  The character builder on Character Creation (assets/js/cairn-builder.js): its data from _plugins/cairn_builder.rb,
-  the callout placed under the title, and the walkthrough dialog. The JSON's < are escaped (\u003c), so neither the
+  The character builder (assets/js/cairn-builder.js) on Second Edition's and Barebones' Character Creation and on First
+  Edition's Character Builder tool: its data from _plugins/cairn_builder.rb (include.data: that edition's), the callout
+  placed under the title, and the walkthrough dialog. The JSON's < are escaped (\u003c), so neither the
   theme's table wrapper (which rewrites every "<table" in the page) nor a "</script>" can reach inside it.
 {%- endcomment -%}
 <div class="cb-callout" id="cbCallout" hidden></div>
-<script type="application/json" id="cairnBuilderData" data-base="{{ '/' | relative_url }}">{{ site.data.cairn_builder | jsonify | replace: '<', '\u003c' }}</script>
+<script type="application/json" id="cairnBuilderData" data-base="{{ '/' | relative_url }}">{{ include.data | jsonify | replace: '<', '\u003c' }}</script>
 <dialog class="cb-walk" id="cbWalk" aria-labelledby="cbDrawerTitle">
 <div class="cb-walk-vines" aria-hidden="true"></div>
 <div class="cb-walk-in">

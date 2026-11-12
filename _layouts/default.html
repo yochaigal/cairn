@@ -100,7 +100,11 @@ layout: table_wrappers
   {% include cairn/footer.html %}
   {% include cairn/dice-tray.html %}
   {%- if page.path == 'second-edition/players-guide/character-creation.md' and site.data.cairn_builder %}
-  {% include cairn/builder.html %}
+  {% include cairn/builder.html data=site.data.cairn_builder %}
+  {%- elsif page.path == 'barebones/rules/barebones-character-creation.md' and site.data.cairn_builder_barebones %}
+  {% include cairn/builder.html data=site.data.cairn_builder_barebones %}
+  {%- elsif page.path == 'first-edition/tools/character-builder.md' and site.data.cairn_builder_first %}
+  {% include cairn/builder.html data=site.data.cairn_builder_first %}
   {%- endif %}
 
   {%- if site.search_enabled != false %}
