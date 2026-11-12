@@ -36,6 +36,20 @@ a.tile:hover h3 { color: var(--accent); }
 .frame-tile h3 { margin: 0; text-wrap: balance; }
 .frame-tile:hover, .frame-tile:focus-visible { border-image-source: var(--frame-gold); color: var(--heading); }
 .frame-tile:hover h3, .frame-tile:focus-visible h3 { text-decoration: underline; text-decoration-thickness: 2px; text-underline-offset: 3px; }
+/* a home tile with a picture (`art:` in _data/cairn_resources.yml): the picture fills the frame's panel, which starts
+   22.5px outside the tile's padding box and has stepped corners (the clip follows them), under a fade into the
+   panel's colour. The title and count sit at the foot, where the fade is nearly solid, so they read over any picture. */
+.frame-tile.has-art { position: relative; isolation: isolate; justify-content: flex-end; padding-bottom: 14px; }
+.tile-art, .frame-tile.has-art::after { position: absolute; inset: -22.5px; z-index: -1;
+  clip-path: polygon(21px 0, calc(100% - 21px) 0, calc(100% - 21px) 14px, calc(100% - 14px) 14px, calc(100% - 14px) 21.5px, 100% 21.5px,
+    100% calc(100% - 21.5px), calc(100% - 14px) calc(100% - 21.5px), calc(100% - 14px) calc(100% - 14px), calc(100% - 21px) calc(100% - 14px), calc(100% - 21px) 100%,
+    21px 100%, 21px calc(100% - 14px), 14px calc(100% - 14px), 14px calc(100% - 21.5px), 0 calc(100% - 21.5px), 0 21.5px, 14px 21.5px, 14px 14px, 21px 14px); }
+.tile-art { width: calc(100% + 45px); height: calc(100% + 45px); max-width: none; object-fit: cover; }
+.frame-tile.has-art::after { content: ''; background: linear-gradient(color-mix(in srgb, var(--surface) 20%, transparent), color-mix(in srgb, var(--surface) 50%, transparent) 34%,
+  color-mix(in srgb, var(--surface) 93%, transparent) 62%, color-mix(in srgb, var(--surface) 97%, transparent)); }
+/* a three-line title on a small tile reaches up past the solid part of the fade: a halo in the panel's colour holds its edge */
+.frame-tile.has-art h3 { text-shadow: 0 1px 2px var(--surface), 0 0 10px var(--surface), 0 0 10px var(--surface); }
+.frame-tile.has-art .count { color: var(--text); }  /* a step brighter than --muted, over the picture */
 /* the newsletter signup (_includes/cairn/signup.html); its inputs are .field's */
 .signup { display: flex; flex-direction: column; align-items: flex-start; gap: 14px; max-width: 360px; }
 .signup h2 { margin: 0; }
@@ -48,9 +62,10 @@ a.tile:hover h3 { color: var(--accent); }
 @media (forced-colors: active) {
   .frame-tile { border: 2px solid CanvasText; border-image: none; padding: 49px; }
   .frame-tile:hover, .frame-tile:focus-visible { border-color: Highlight; }
+  .tile-art, .frame-tile.has-art::after { display: none; }
   /* states drawn only with a fill or a box-shadow, which forced colours remove */
   .seg input:checked + span, .cb-swap button[aria-pressed="true"] { background: Highlight; color: HighlightText; border-color: Highlight; }
-  .primary-nav a[aria-current], .section-nav a[aria-current="page"] { text-decoration: underline 3px; }
+  .primary-nav a[aria-current], .section-nav a[aria-current="page"], .toc a[aria-current] { text-decoration: underline 3px; }
   .seg input:checked:focus-visible + span { outline-color: HighlightText; }
   .dice-colours label:has(input:checked) { border: 2px solid Highlight; }
   .dice-colours .sw { forced-color-adjust: none; }

@@ -172,6 +172,63 @@
     cur.forEach((x, i) => { if (ds[i] < deepest) x.classList.add('current-copy'); });
   }
 
+  // ---------- search: Just the Docs fetches its index (assets/js/search-data.json: every page's text, over 2 MB) and
+  // builds it on every page view. This holds that request until the search box is first used (focus, a pointer on it,
+  // or Ctrl/⌘+K), so a page that is never searched doesn't load it. The theme asks for the index in its
+  // DOMContentLoaded handler; this script is deferred, so it runs just before that. The theme attaches its own
+  // handlers only once the index is in: until then Ctrl/⌘+K is handled here, and whatever was typed meanwhile is
+  // searched as soon as it arrives. If the theme stops asking for the index this way, nothing is held and search
+  // loads as the theme does it.
+  function lazySearch() {
+    const input = $('#search-input'), results = $('#search-results'), box = $('.cairn-search');
+    if (!input || !results) return;
+    const open = XMLHttpRequest.prototype.open;
+    let start = null, wanted = false, state = 'held';  // held → loading → ready, or failed
+    const note = text => {
+      results.innerHTML = `<div class="search-no-result" data-search-note>${esc(text)}</div>`;
+      document.documentElement.classList.add('search-active');
+    };
+    const clearNote = () => {
+      if (!results.querySelector('[data-search-note]')) return;
+      results.innerHTML = '';
+      document.documentElement.classList.remove('search-active');
+    };
+    const show = () => {
+      if (state === 'ready') return;
+      if (!input.value.trim()) clearNote();
+      else note(state === 'failed' ? "Search couldn't load. Check your connection, then reload the page." : 'Loading search…');
+    };
+    const done = ok => {
+      state = ok ? 'ready' : 'failed';
+      if (!ok) return show();
+      clearNote();
+      if (input.value) input.dispatchEvent(new KeyboardEvent('keyup'));  // the theme searches on keyup
+    };
+    XMLHttpRequest.prototype.open = function (method, url, ...rest) {
+      if (/search-data\.json$/.test(String(url).split(/[?#]/)[0])) {
+        XMLHttpRequest.prototype.open = open;
+        const send = this.send;
+        this.send = body => {
+          // added here, after the theme's own onload, so the index is built by the time done() runs
+          this.addEventListener('load', () => done(this.status >= 200 && this.status < 400));
+          this.addEventListener('error', () => done(false));
+          start = () => { state = 'loading'; send.call(this, body); show(); };
+          if (wanted) start();
+        };
+      }
+      return open.call(this, method, url, ...rest);
+    };
+    document.addEventListener('DOMContentLoaded', () => { XMLHttpRequest.prototype.open = open; });  // after the theme's handler
+    const want = () => { if (!wanted) { wanted = true; start?.(); } };
+    input.addEventListener('focus', want);
+    box?.addEventListener('pointerdown', want);
+    input.addEventListener('input', show);
+    document.addEventListener('keydown', e => {
+      if ((e.ctrlKey || e.metaKey) && e.key === 'k') { e.preventDefault(); input.focus(); }
+    });
+  }
+  lazySearch();
+
   // ---------- search: the theme writes its results into #search-results; this says how many there are, and exposes the
   // result the arrow keys pick (the theme marks it .active and opens it on Enter) as the input's active option
   function searchStatus() {
@@ -190,7 +247,8 @@
       const active = items.find(a => a.classList.contains('active'));
       if (active) { input.setAttribute('aria-activedescendant', active.id); active.scrollIntoView({block: 'nearest'}); } else input.removeAttribute('aria-activedescendant');
       expanded();
-      const text = !input.value.trim() ? '' : items.length ? `${items.length} result${items.length === 1 ? '' : 's'}` : results.textContent.trim() ? 'No results found' : '';
+      // with no results, whatever the list says instead: the theme's "No results found", or lazySearch's note
+      const text = !input.value.trim() ? '' : items.length ? `${items.length} result${items.length === 1 ? '' : 's'}` : results.textContent.trim();
       clearTimeout(timer);
       timer = setTimeout(() => { if (say.textContent !== text) say.textContent = text; }, 500);  // once typing pauses
     }).observe(results, {childList: true, subtree: true, attributes: true, attributeFilter: ['class']});
@@ -285,6 +343,33 @@
     place(); PHONE.addEventListener('change', place);
     // following a link in it on a phone folds it away again
     list.addEventListener('click', e => { if (PHONE.matches && e.target.closest('a')) { toggle.setAttribute('aria-expanded', 'false'); list.hidden = true; } });
+    // the section being read is marked in the list: the last heading to have reached the line a link to it scrolls it
+    // to, just under the header (or the last heading of all, once the page is at its end and can't scroll it there)
+    const links = new Map(hs.map(h => [h, list.querySelector(`a[href="#${CSS.escape(h.id)}"]`)]));
+    const header = $('#main-header');
+    let marked = null, queued = false;
+    const mark = () => {
+      queued = false;
+      const line = (header?.offsetHeight || 0) + 24, page = document.documentElement;
+      let cur = null;
+      for (const h of hs) if (h.getClientRects().length && h.getBoundingClientRect().top <= line) cur = h;
+      if (cur && innerHeight + scrollY >= page.scrollHeight - 2) cur = hs.findLast(h => h.getClientRects().length);
+      if (cur === marked) return;
+      links.get(marked)?.removeAttribute('aria-current');
+      marked = cur;
+      const a = links.get(cur);
+      if (!a) return;
+      a.setAttribute('aria-current', 'location');
+      // in its own column the list scrolls by itself: keep the marked link in sight there
+      if (PHONE.matches) return;
+      const t = toc.getBoundingClientRect(), r = a.getBoundingClientRect();
+      if (r.top < t.top) toc.scrollTop -= t.top - r.top + 8;
+      else if (r.bottom > t.bottom) toc.scrollTop += r.bottom - t.bottom + 8;
+    };
+    const queue = () => { if (!queued) { queued = true; requestAnimationFrame(mark); } };
+    addEventListener('scroll', queue, {passive: true});
+    addEventListener('resize', queue, {passive: true});
+    mark();
   }
 
   function searchKey() {

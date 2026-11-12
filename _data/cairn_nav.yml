@@ -1,10 +1,14 @@
 # The header's menus. Edit freely: each link is a site path (or a full URL) and its text.
 # The sidebar is unchanged: it still comes from each page's parent / nav_order front matter.
+#
+# `sections` are the paths a menu covers: the header marks the menu on any page under one of them. A page under two
+# menus' paths gets the longer one (Tools sits under /second-edition/, but it is a Resources link), so no page marks
+# two menus.
 
 menus:
   - title: Rules
     href: /second-edition/players-guide/core-rules/
-    section: /second-edition/   # the header marks this item on any page under this path
+    sections: [/second-edition/, /first-edition/, /barebones/]
     links:
       - [Core Rules, /second-edition/players-guide/core-rules/]
       - [Player's Guide, /second-edition/players-guide/]
@@ -16,7 +20,7 @@ menus:
       - [Barebones, /barebones/rules/]
   - title: Resources
     href: /resources/
-    section: /resources/
+    sections: [/resources/, /second-edition/tools/, /hacks/, /official-app/, /localization/]
     links:
       - [All resources, /resources/]
       - [Monsters, /resources/monsters/]
@@ -29,11 +33,10 @@ menus:
       - [Official App (Kettlewright), /official-app/]
       - [Translations, /localization/]
       - [Guides for Wardens, /resources/rules-summary/]
-      - [First Edition, /first-edition/]
 
   - title: Adventures
     href: /adventures/
-    section: /adventures/
+    sections: [/adventures/]
     links:
       - [All adventures, /adventures/]
       - [First Party, /adventures/first-party/]
@@ -42,6 +45,7 @@ menus:
       - [Submit an adventure, /submissions/submission-guide/]
   - title: Community
     href: /#home-share
+    sections: [/newsletter/, /submissions/, /third-party/]
     links:
       - [Newsletter, /newsletter/subscribe/]
       - [Discord, /discord-server/]
@@ -50,7 +54,7 @@ menus:
       - [Translations, /localization/]
   - title: Store
     href: /store/books/
-    section: /store/
+    sections: [/store/]
     links:
       - [Books, /store/books/]
       - [Cairn Press, /cairn-press/]

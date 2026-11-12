@@ -15,9 +15,15 @@
     </button>
     <nav class="primary-nav" id="primaryNav" aria-label="Site">
       <ul>
+        {%- comment -%} the menu this page is under: the one with the longest of the `sections` paths the page's address starts with {%- endcomment -%}
+        {%- assign cairn_menu = nil -%}{%- assign cairn_menu_len = 0 -%}
+        {%- for m in site.data.cairn_nav.menus -%}{%- for s in m.sections -%}
+          {%- assign cairn_head = page.url | slice: 0, s.size -%}
+          {%- if cairn_head == s and s.size > cairn_menu_len -%}{%- assign cairn_menu = m.title -%}{%- assign cairn_menu_len = s.size -%}{%- endif -%}
+        {%- endfor -%}{%- endfor -%}
         {%- for m in site.data.cairn_nav.menus %}
         {%- assign cairn_current = nil -%}
-        {%- if m.section and page.url contains m.section -%}{%- if page.url == m.href -%}{%- assign cairn_current = 'page' -%}{%- else -%}{%- assign cairn_current = 'true' -%}{%- endif -%}{%- endif %}
+        {%- if m.title == cairn_menu -%}{%- if page.url == m.href -%}{%- assign cairn_current = 'page' -%}{%- else -%}{%- assign cairn_current = 'true' -%}{%- endif -%}{%- endif %}
         <li data-menu>{% include cairn/link.html href=m.href text=m.title current=cairn_current %}
           <button class="btn-icon nav-sub-toggle" type="button" aria-expanded="false" aria-controls="navsub-{{ forloop.index }}"{% if cairn_current %} aria-current="true"{% endif %}>{{ m.title }}<svg viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path d="M4 6l4 4 4-4" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
           <div class="nav-menu" id="navsub-{{ forloop.index }}"><ul>

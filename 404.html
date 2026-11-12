@@ -1,11 +1,14 @@
 ---
 layout: default
-title: 404
+cairn_layout: notfound
+title: Page not found
 permalink: /404
 nav_exclude: true
 search_exclude: true
+sitemap: false
+has_toc: false
 ---
 
 <h1>Page not found</h1>
 
-<p>The page you requested could not be found. Try using the navigation {% if site.search_enabled != false %}or search {% endif %}to find what you're looking for or go to this <a href="{{ '/' | absolute_url }}">site's home page</a>.</p>
+<p>There is no page at this address. It may have moved, or the link may be wrong. {% if site.search_enabled != false %}<a href="#search-input">Search the site</a>, or start{% else %}Start{% endif %} from one of the sections below.</p>

@@ -1,0 +1,17 @@
+{%- comment -%}
+  The "Page not found" page (404.html, `cairn_layout: notfound`): the header's menus (_data/cairn_nav.yml) as cards,
+  each with its links, so a wrong address still leads somewhere. The cards are the Resources page's.
+{%- endcomment -%}
+<h2 class="res-browse">Browse the site</h2>
+<div class="grid grid-3">
+  {%- for m in site.data.cairn_nav.menus %}
+  <div class="card tile">
+    <h3>{% include cairn/link.html href=m.href text=m.title %}</h3>
+    <ul class="chapter-list">
+      {%- for l in m.links %}
+      <li>{% include cairn/link.html href=l.last text=l.first %}</li>
+      {%- endfor %}
+    </ul>
+  </div>
+  {%- endfor %}
+</div>

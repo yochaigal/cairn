@@ -1,0 +1,37 @@
+// The redesign's styles: print. A page prints as its text alone, in dark ink on white, whatever the screen shows.
+@media print {
+  /* the palette on paper: the same tokens, so every part of the redesign follows */
+  :root { --bg: #fff; --surface: #fff; --surface-2: #f0f0f0; --text: #1a1a1a; --heading: #000; --muted: #555; --accent: #1a1a1a; --accent-strong: #000;
+    --on-accent: #fff; --border: #bbb; --border-strong: #777; --shadow: none; --shadow-pop: none; color-scheme: light; }
+  html, body, .cairn { background: #fff; color: var(--text); }
+  .cairn { font-size: 11pt; line-height: 1.45; }
+  /* the theme colours these from its own dark scheme, not from the tokens */
+  .cairn h5, .cairn h6, .cairn .prose th, .cairn .prose td, .cairn .prose code, .cairn .prose dt, .cairn .prose dd { color: var(--text); }
+  .cairn .prose th, .cairn .prose td, .cairn .prose code, .cairn .prose pre, .cairn .prose .highlight { background: transparent; }
+  .cairn .prose code { border-color: var(--border); }
+
+  /* what only works on a screen: the header, the navigation, the page's menus, the footer, the dice and the builder */
+  .skip, .cairn-header, .rules-layout > .crumbs, .rules-layout > .section-nav, .toc, .title-actions, .opener, .pager, .back-top, .cairn-footer,
+  .dice-tray, .dice-toast, #diceStage, .notices, .cb-callout, .cb-bar, .cb-walk, .anchor-heading, .search-overlay { display: none !important; }
+
+  /* the rules page: its three columns become the text alone, as wide as the paper */
+  .rules-layout { display: block; width: auto; padding: 0; }
+  .rules-main { width: auto; }
+  .title-row { margin-bottom: .6em; }
+  main .wrap, .wrap.view-top { width: auto; padding: 0; }
+  .view-main .prose { max-width: none; }
+
+  /* links stay marked as links; a die in the text is no longer a button; a filled button is an outline, so its
+     label doesn't depend on the printer drawing backgrounds */
+  .cairn a { color: var(--text); }
+  .cairn .btn-primary { background: transparent; color: var(--text); }
+  a.dice-tray-roll { border-bottom: 0; }
+
+  /* a wide table can't scroll on paper: it takes the page's width and wraps */
+  .cairn .prose .table-wrapper { overflow: visible; border-color: var(--border); }
+  thead { display: table-header-group; }
+  thead th, tbody th { white-space: normal; }
+  h1, h2, h3, h4, h5, h6, caption { break-after: avoid; }
+  tr, li, blockquote, figure, img, .frame-tile, .card { break-inside: avoid; }
+  p { orphans: 3; widows: 3; }
+}

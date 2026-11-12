@@ -91,4 +91,6 @@ tbody th { color: var(--heading); white-space: nowrap; }
 .toc a { display: block; padding: 4px 0; padding-inline-start: 12px; color: var(--text); text-decoration: none; min-height: 32px; }
 .toc a:hover { color: var(--accent); }
 .toc .lvl3 a { padding-inline-start: 26px; font-size: .92rem; color: var(--muted); }
+/* the section being read (onThisPage, cairn-nav.js): a gold bar on the list's own line, as the sidebar marks its page */
+.toc a[aria-current] { color: var(--heading); box-shadow: inset 2px 0 0 var(--accent); }
 .back-top { display: inline-flex; min-height: 44px; align-items: center; margin-top: 24px; }

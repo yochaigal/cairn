@@ -64,8 +64,17 @@ dice_tray:
   inject_tray: false
 
 
-# the redesign's sheet PDFs are files, not pages: keep them out of sitemap.xml
 defaults:
+  # the picture a link to any page shows when it is shared, unless the page sets its own `image:`
+  - scope:
+      path: ""
+    values:
+      image:
+        path: /assets/redesign/players-guide-cover.jpg
+        width: 1920
+        height: 992
+        alt: "Three adventurers in the branches of a great tree, fending off a horned beast that climbs toward them through a red forest."
+  # the redesign's sheet PDFs are files, not pages: keep them out of sitemap.xml
   - scope:
       path: "assets/redesign"
     values:
