@@ -3,13 +3,17 @@
 # A tile's count is the pages whose `parent:` is `count_parent`, the adventures in the catalog (`count: adventures`),
 # or the translations (`count: languages`); `noun` is what it counts. With none of those, it counts its links as pages
 # (_includes/cairn/tile-count.html).
+# `art` is the picture behind a home tile, a file in assets/redesign/tiles/: a 560px square cut from the Cairn
+# Adventure Series art in adventures/first-party/img/ (the file named beside each). A tile without one is plain.
 - id: res-monsters
+  art: monsters.webp   # cas-1/Vuk.webp
   title: Monsters
   href: /resources/monsters/
   count_parent: Monsters
   noun: monster
   summary_of: resources/monsters.md
 - id: res-adventures
+  art: adventures.webp   # cas-3/Dam.webp
   title: Adventures
   href: /adventures/
   count: adventures
@@ -20,6 +24,7 @@
     - [Originals, /adventures/originals/]
     - [Conversions, /adventures/conversions/]
 - id: res-tools
+  art: tools.webp   # cas-4/workshop.webp
   title: Tools
   href: /second-edition/tools/character-generator/
   links:
@@ -27,12 +32,14 @@
     - [Build an Adventure Site, /first-edition/tools/build-an-adventure-site/]
     - [Converting Monsters, /first-edition/tools/converting-monsters/]
 - id: res-backgrounds
+  art: backgrounds.webp   # cas-3/Woodfolk.webp
   title: Backgrounds
   href: /second-edition/backgrounds/
   count_parent: Backgrounds
   noun: background
   summary_of: second-edition/backgrounds.md
 - id: res-gear
+  art: gear.webp   # cas-4/library.webp
   title: "Relics, Spellbooks & Equipment"
   href: /resources/more-relics/
   links:
@@ -40,6 +47,7 @@
     - [More Spellbooks, /resources/more-spellbooks/]
     - [More Equipment, /resources/more-equipment/]
 - id: res-hirelings
+  art: hirelings.webp   # cas-4/portraits.webp
   title: "Hirelings & Pregens"
   href: /resources/hirelings/
   links:
@@ -47,12 +55,14 @@
     - [Pregens, /resources/pregens/]
     - ["Hirelings, Mounts, and Vehicles Sheets", /resources/hirelings-mounts-and-vehicles-sheets/]
 - id: res-hacks
+  art: hacks.webp   # cas-3/Bloodygrove.webp
   title: Hacks
   href: /hacks/
   count_parent: Hacks
   noun: hack
   summary_of: hacks.md
 - id: res-translations
+  art: translations.webp   # cas-1/CAS1_Map_v2.webp
   title: Translations
   href: /localization/
   count: languages
