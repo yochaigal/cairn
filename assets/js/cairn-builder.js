@@ -2,6 +2,9 @@
 // fills the official Fillable Letter sheet (pdf-lib, loaded on first use from assets/vendor/pdf-lib/) and prints it.
 // Its data is read from Character Creation and the background pages at build time (_plugins/cairn_builder.rb) and
 // sits in the page as JSON. Rolls go through the dice (assets/js/cairn-dice.js, window.CairnDice).
+// Barebones Edition Character Creation has the same builder (BB): its own steps, tables and gear, on its own sheet
+// (the fillable A4 Barebones sheet). So does First Edition (FE), as a page of its own under its Tools: the SRD's
+// tables, on the fillable First Edition sheet. ALT is either of the two.
 (() => {
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'})[c]);
@@ -9,7 +12,8 @@ const li = (...xs) => xs.map(x => `<li>${x}</li>`).join('');
 const REDUCE = matchMedia('(prefers-reduced-motion: reduce)');
 const dataEl = $('#cairnBuilderData'), PROSE = $('.rules-main .prose');
 if (!dataEl || !PROSE || !window.CairnDice) return;
-const CB = JSON.parse(dataEl.textContent), CB_KEY = 'cairn-builder';
+const CB = JSON.parse(dataEl.textContent), ED = CB.edition, BB = ED === 'barebones', FE = ED === 'first', ALT = BB || FE;
+const CB_KEY = ALT ? 'cairn-builder-' + ED : 'cairn-builder', TN = CB.traits.length;  // TN: how many trait tables (8; First Edition has 10)
 const BASE = dataEl.dataset.base, here = document.currentScript.src;
 const CARD_IMG = new URL('../redesign/builder/cards/', here).href, SHEETS = new URL('../redesign/builder/sheets/', here).href;
 const PDF_LIB = new URL('../vendor/pdf-lib/pdf-lib.min.js', here).href;
@@ -53,7 +57,24 @@ const firstSentence = t => (t || '').split(/(?<=[.!?])\s/)[0];
 // each step: what to roll, a line saying so (tip), and the sheet fields it fills (fill),
 // which wait highlighted on the stage
 const bondStep = (id, label, tip) => ({id, label, tip, dice: '1d20', fill: ['bonds'], hit: n => rowCells(tableAfter(ccEl('bonds')), n), say: n => firstSentence(CB.bonds[n - 1].text)});
+// the steps both editions roll the same way: the attributes, their swap and HP; the traits; the age; the review
+const attrSteps = () => [...ATTR.map(([k, l]) => ({id: k, label: l, tip: `Roll 3d6 for your ${l.replace(/ \(.*/, '')}.`, dice: '3d6', fill: [k], hit: () => [], say: n => String(n)})),
+  {id: 'swap', kind: 'swap', label: 'Swap two attributes?', tip: 'You may swap any two attributes, or keep them as rolled.', fill: [], hit: () => []},
+  {id: 'hp', label: 'Hit Protection', tip: 'Roll a d6 for your Hit Protection (HP).', dice: '1d6', fill: ['hp'], hit: () => [], say: n => n + ' HP'}];
+// the traits: all of them in one 8d10 (one die per table, in the book's order), or with the toggle off one d10 at a time
+function traitsStep() {
+  const all = cb?.allTraits !== false, next = CB.traits.findIndex((t, i) => !cb?.v.traits?.[i]);
+  const last = CB.traits[TN - 1].name;
+  return {id: 'traits', label: 'Traits', dice: all ? TN + 'd10' : '1d10', fill: CB.traits.map((t, i) => 'traits.' + i),
+    tip: all ? `Roll ${TN}d10: one die for each trait table, in order from Physique to ${last}.` : next < 0 ? `All ${TN} rolled. Roll again to start over.`
+      : `Roll a d10 for ${CB.traits[next].name}: one table at a time, Physique to ${last}.`,
+    hit: v => CB.traits.flatMap((t, i) => pairCells(tableAfter(ccEl(t.name.toLowerCase())), v[i])),
+    say: v => { const n = cbTraitsIn(v); return n === TN && all ? `${TN} traits rolled: they’re on your sheet` : all ? `${n} of ${TN} traits rolled` : `${CB.traits[n - 1].name}: ${CB.traits[n - 1].values[v[n - 1] - 1]}`; }};
+}
+const AGE_STEP = {id: 'age', label: 'Age', tip: 'Roll 2d20 and add 10 for your age, or type your own.', dice: '2d20+10', fill: ['traits.' + TN], hit: () => [], say: n => n + ' years old'};
+const REVIEW_STEP = {id: 'review', kind: 'review', label: 'Review and print', tip: 'Your sheet is filled in. Change anything on it, then print it.', hit: () => []};
 function cbSteps() {
+  if (ALT) return BB ? bbSteps() : feSteps();
   const fx = cb ? cbFx() : [], b = cbBg();
   const s = [{id: 'bg', label: 'Background', tip: 'Roll a d20: the number picks your background from the table.', dice: '1d20', fill: ['background'],
     hit: n => pairCells(tableAfter(ccEl('backgrounds')), n), say: n => CB.backgrounds[n - 1].name}];
@@ -65,19 +86,10 @@ function cbSteps() {
     hit: () => [], say: n => n + 'gp'});
   for (const t of [0, 1]) s.push({id: 't' + t, area: t ? 'notes' : 'inv', label: b ? b.tables[t].title.replace(/\s*Roll 1d6:?$/i, '') : 'Background table', tip: 'Roll a d6 on your background’s table. What it gives you goes on your sheet.',
     dice: '1d6', fill: [], hit: n => rowCells(tableAfter($('#cb-t' + t)), n), say: n => b.tables[t].rows[n - 1].text.split(/(?<=[.!?])\s|\s—\s/)[0]});
-  for (const [k, l] of ATTR) s.push({id: k, label: l, tip: `Roll 3d6 for your ${l.replace(/ \(.*/, '')}.`, dice: '3d6', fill: [k], hit: () => [], say: n => String(n)});
-  s.push({id: 'swap', kind: 'swap', label: 'Swap two attributes?', tip: 'You may swap any two attributes, or keep them as rolled.', fill: [], hit: () => []});
-  s.push({id: 'hp', label: 'Hit Protection', tip: 'Roll a d6 for your Hit Protection (HP).', dice: '1d6', fill: ['hp'], hit: () => [], say: n => n + ' HP'});
+  s.push(...attrSteps());
   if (fx.some(f => f.hp)) s.push({id: 'hp2', label: 'Bonus HP (from your background)', tip: 'Your background adds a d4 to your HP.', dice: '1d4', fill: ['hp'],
     hit: () => [], say: n => '+' + n + ' HP'});
-  // the traits: all eight in one 8d10 (one die per table, in the book's order), or with the toggle off one d10 at a time
-  const all = cb?.allTraits !== false, next = CB.traits.findIndex((t, i) => !cb?.v.traits?.[i]);
-  s.push({id: 'traits', label: 'Traits', dice: all ? '8d10' : '1d10', fill: CB.traits.map((t, i) => 'traits.' + i),
-    tip: all ? 'Roll 8d10: one die for each trait table, in order from Physique to Vice.' : next < 0 ? 'All eight rolled. Roll again to start over.'
-      : `Roll a d10 for ${CB.traits[next].name}: one table at a time, Physique to Vice.`,
-    hit: v => CB.traits.flatMap((t, i) => pairCells(tableAfter(ccEl(t.name.toLowerCase())), v[i])),
-    say: v => { const n = cbTraitsIn(v); return n === 8 && all ? '8 traits rolled: they’re on your sheet' : all ? `${n} of 8 traits rolled` : `${CB.traits[n - 1].name}: ${CB.traits[n - 1].values[v[n - 1] - 1]}`; }});
-  s.push({id: 'age', label: 'Age', tip: 'Roll 2d20 and add 10 for your age, or type your own.', dice: '2d20+10', fill: ['traits.8'], hit: () => [], say: n => n + ' years old'});
+  s.push(traitsStep(), AGE_STEP);
   s.push(bondStep('bond', 'Bond', 'Roll a d20 for a bond: someone or something that ties you to the world.'));
   if (fx.some(f => f.bonds)) s.push(bondStep('bond2', 'Second bond (from your background)', 'Your background gives you a second bond. Roll another d20.'));
   const forced = fx.some(f => f.omen);
@@ -86,7 +98,96 @@ function cbSteps() {
     hit: n => rowCells(tableAfter(ccEl('omens')), n), say: n => firstSentence(CB.omens[n - 1].text)});
   s.push({id: 'name', label: 'Name', tip: 'Roll a d10 for your name, from your background’s list, or type your own.', dice: '1d10', fill: ['name'],
     hit: n => [document.querySelectorAll('#cb-names-list li')[n - 1]], say: n => b.names[n - 1]});
-  s.push({id: 'review', kind: 'review', label: 'Review and print', tip: 'Your sheet is filled in. Change anything on it, then print it.', hit: () => []});
+  s.push(REVIEW_STEP);
+  return s;
+}
+// ---------- Barebones: the rolled rows of its tables, and what they put on the sheet
+const bbRow = (list, id) => cb?.v[id] ? CB[list][cb.v[id] - 1] : null;
+const bbName = v => `${CB.names[v[0] - 1]} ${CB.surnames[v[1] - 1]}`;
+const bbGear = id => bbRow('gear', id)?.item;
+// the rolled weapon row names several ("Spear, Sword, Mace, Axe, Flail"): the one picked on its step, or the first
+const bbWeapon = () => { const w = bbRow('weapons', 'weapon'); if (!w) return null;
+  const name = w.options[cb.v.wpick] || w.options[0]; return {name, full: `${name} (${w.damage})`, bulky: w.bulky}; };
+// a spellbook or scroll is named by a d100 of its own (the step spell_<where it came from>); until then it's just that
+const bbSpellKind = it => it.spell === 'scroll' ? 'Scroll' : 'Spellbook';
+const bbSpell = (it, from) => { if (!it?.spell) return it; const sp = bbRow('spellbooks', 'spell_' + from);
+  return {name: sp ? `${bbSpellKind(it)}: ${sp.name}` : bbSpellKind(it), petty: it.petty, bulky: it.bulky}; };
+// the Additional Gear rolls: the background's ("Random Additional Gear"), the one in place of armor, and everyone's
+const BB_GEAR = ['gearB', 'gearA', 'gear'];
+// what the character carries, in the order it's rolled, so a slot once written stays where it is
+function bbItems() {
+  const b = cbBg(), w = bbWeapon(), gear = id => { const it = bbGear(id); return it ? [bbSpell(it, id)] : []; };
+  return [...(b ? b.items.filter(it => !it.extra).map(it => bbSpell(it, 'bg')) : []), ...gear('gearB'), ...(cb.v.gold ? CB.start : []),
+    ...(bbRow('armor', 'armor')?.items || []), ...gear('gearA'), ...(w ? [w] : []), ...gear('gear')];
+}
+// the page's own order: name and age, attributes and HP, traits, background, gold, armor, weapon, additional gear.
+// A result that calls for another roll (a spellbook, "Roll for Additional Gear") gets its step right after it
+function bbSteps() {
+  const b = cbBg(), tbl = id => tableAfter(ccEl(id)), s = [];
+  const spell = (it, from, why) => { if (it?.spell) s.push({id: 'spell_' + from, list: 'spellbooks', area: 'inv', label: bbSpellKind(it) + why, dice: '1d100', fill: [],
+    tip: `Roll a d100 on the Spellbooks table: the number picks the spell your ${bbSpellKind(it).toLowerCase()} holds.`,
+    hit: () => [], say: n => CB.spellbooks[n - 1].name, star: c => cbSlotsOf(c, bbSpell(it, from))}); };
+  const gear = (id, label, tip, why) => { s.push({id, list: 'gear', area: 'inv', label, tip, dice: '1d100', fill: [],
+    hit: n => rowCells(tbl('additional-gear'), n), say: n => CB.gear[n - 1].text, star: c => cbSlotsOf(c, bbSpell(bbGear(id), id))});
+    spell(bbGear(id), id, why); };
+  s.push({id: 'name', label: 'Name', multi: true, dice: '2d100', fill: ['name'], tip: 'Roll 2d100: one die picks your name, the other your surname. Or type your own.',
+    hit: v => [...rowCells(tbl('names-d100'), v[0]).slice(0, 2), rowCells(tbl('names-d100'), v[1])[2]], say: bbName});
+  s.push(AGE_STEP, ...attrSteps(), traitsStep());
+  s.push({id: 'bg', label: 'Background', tip: 'Roll a d100: the number picks your background, and the gear that comes with it.', dice: '1d100', fill: ['background'],
+    hit: n => rowCells(tbl('background'), n), say: n => CB.backgrounds[n - 1].name});
+  if (b) { for (const it of b.items) spell(it, 'bg', ' (from your background)');
+    if (b.items.some(it => it.extra)) gear('gearB', 'Additional gear (from your background)', 'Your background comes with a random piece of Additional Gear. Roll a d100 for it.', ' (from your background’s gear)'); }
+  s.push({id: 'gold', label: 'Gold', tip: 'Roll 3d6 for your gold. Everyone also starts with the gear below.', dice: '3d6', fill: ['gold'], hit: () => [], say: n => n + 'gp'});
+  s.push({id: 'armor', area: 'arms', label: 'Armor', tip: 'Roll a d6 for your armor.', dice: '1d6', fill: ['armor'], hit: n => rowCells(tbl('armor-d6'), n),
+    say: n => CB.armor[n - 1].extra ? 'No armor' : cbItemLabel(CB.armor[n - 1].items[0]), star: c => ['armor', ...cbSlotsOf(c, bbRow('armor', 'armor')?.items[0])]});
+  if (bbRow('armor', 'armor')?.extra) gear('gearA', 'Additional gear (in place of armor)', 'You rolled no armor, so roll a d100 for a piece of Additional Gear.', ' (from your extra gear)');
+  s.push({id: 'weapon', area: 'inv', label: 'Weapon', tip: 'Roll a d6 for your weapon.', dice: '1d6', fill: [], hit: n => rowCells(tbl('weapons-d6'), n),
+    say: () => cbItemLabel(bbWeapon()), star: c => cbSlotsOf(c, bbWeapon())});
+  gear('gear', 'Additional gear', 'Roll a d100 for one more piece of gear. You may roll again if you already carry it.', '');
+  s.push(REVIEW_STEP);
+  return s;
+}
+// ---------- First Edition: the SRD's d20 tables. Armor, Helmets & Shields, Weapons and the Bonus Item are tables of ranges
+// (1-3, 4-14...); the names, backgrounds and gear are plain d20s; a spellbook is a d100
+const FE_TITLE = {armor: 'Armor', helmets: 'Helmets & Shields', weapons: 'Weapons', expeditionary: 'Expeditionary Gear', tools: 'Tools', trinkets: 'Trinkets', spellbooks: 'Spellbooks'};
+const feRange = (list, n) => n ? CB[list].find(r => n >= r.lo && n <= r.hi) : null;
+const feName = v => `${CB.name_tables[cb.v.ntab || 0].names[v[0] - 1]} ${CB.surnames[v[1] - 1]}`;
+// the Bonus Item's row names the table to roll on next; of two ("Tool or Trinket"), the one picked on its step, or the first
+const feBonusTable = () => { const r = cb ? feRange('bonus', cb.v.bonus) : null; return r ? r.tables[cb.v.bpick] || r.tables[0] : null; };
+// what a roll on one of the Starting Gear tables hands over (a weapon row names several: pick is the one chosen)
+function feFrom(table, n, pick) {
+  if (!n || !table) return [];
+  if (table === 'armor' || table === 'helmets') return feRange(table, n).items;
+  if (table === 'weapons') { const o = feRange(table, n).options; return [o[pick] || o[0]]; }
+  if (table === 'spellbooks') return [{name: `Spellbook: ${CB.spellbooks[n - 1].name}`}];
+  return [CB.gear[table].rows[n - 1].item];
+}
+// what the character carries, in the order it's rolled, so a slot once written stays where it is
+const feItems = () => [...(cb.v.gold ? CB.start : []), ...feFrom('armor', cb.v.armor), ...feFrom('helmets', cb.v.helmet), ...feFrom('weapons', cb.v.weapon, cb.v.wpick),
+  ...feFrom('expeditionary', cb.v.exp), ...feFrom('tools', cb.v.tool), ...feFrom('trinkets', cb.v.trinket), ...feFrom(feBonusTable(), cb.v.bonus2, cb.v.wpick2)];
+// the SRD's own order: name, background, traits and age; ability scores and HP; then gold and each Starting Gear table.
+// The Bonus Item's row is rolled on the table it names, in a step of its own
+function feSteps() {
+  const none = () => [], s = [];
+  // a roll on a gear table: what it says, and on the sheet a ring round what it gave
+  const gear = (id, table, label, tip, more = {}) => { const got = () => feFrom(table, cb.v[id], cb.v[more.pick]);
+    s.push({id, table, area: 'inv', label, tip, dice: table === 'spellbooks' ? '1d100' : '1d20', fill: [], hit: none,
+      say: () => got().map(cbItemLabel).join(' and ') || 'None', star: c => got().flatMap(it => cbSlotsOf(c, it)), ...more}); };
+  const worn = c => ['armor', ...[...feFrom('armor', cb.v.armor), ...feFrom('helmets', cb.v.helmet)].flatMap(it => cbSlotsOf(c, it))];
+  s.push({id: 'name', label: 'Name', multi: true, dice: '2d20', fill: ['name'], tip: 'Roll 2d20: one die picks your name, the other your surname. Or type your own.', hit: none, say: feName});
+  s.push({id: 'bg', area: 'notes', label: 'Background', dice: '1d20', fill: ['notes'], tip: 'Roll a d20 for your background: what you did before, and what you might know.', hit: none, say: n => CB.backgrounds[n - 1].name});
+  s.push({...traitsStep(), area: 'notes', fill: ['notes'], hit: none}, {...AGE_STEP, area: 'notes', fill: ['notes']}, ...attrSteps());
+  s.push({id: 'gold', label: 'Gold', tip: 'Roll 3d6 for your gold pieces. Everyone also starts with the gear below.', dice: '3d6', fill: ['gold'], hit: none, say: n => n + 'gp'});
+  gear('armor', 'armor', 'Armor', 'Roll a d20 for your armor.', {area: 'arms', fill: ['armor'], star: worn});
+  gear('helmet', 'helmets', 'Helmets & Shields', 'Roll a d20 for a helmet, a shield, or both.', {area: 'arms', fill: ['armor'], star: worn});
+  gear('weapon', 'weapons', 'Weapons', 'Roll a d20 for your weapon. A result names several: pick one.', {pick: 'wpick'});
+  gear('exp', 'expeditionary', 'Expeditionary Gear', 'Roll a d20 for a piece of expeditionary gear.');
+  gear('tool', 'tools', 'Tools', 'Roll a d20 for a tool.');
+  gear('trinket', 'trinkets', 'Trinkets', 'Roll a d20 for a trinket.');
+  s.push({id: 'bonus', table: 'bonus', area: 'inv', label: 'Bonus Item', dice: '1d20', fill: [], hit: none, tip: 'Roll a d20 for a bonus item: the result names the table you roll on next.', say: n => feRange('bonus', n).text});
+  const t = feBonusTable();
+  if (t) gear('bonus2', t, `Bonus Item: ${FE_TITLE[t]}`, `Your bonus item comes from ${FE_TITLE[t]}. Roll a ${t === 'spellbooks' ? 'd100' : 'd20'} on it.`, {pick: 'wpick2', area: t === 'armor' ? 'arms' : 'inv', ...(t === 'armor' ? {star: c => ['armor', ...feFrom(t, cb.v.bonus2).flatMap(it => cbSlotsOf(c, it))]} : {})});
+  s.push(REVIEW_STEP);
   return s;
 }
 const cbAttrs = () => { const a = {str: cb.v.str, dex: cb.v.dex, wil: cb.v.wil}, sw = cb.v.swap; if (sw) [a[sw[0]], a[sw[1]]] = [a[sw[1]], a[sw[0]]]; return a; };
@@ -97,8 +198,59 @@ const WEAPON = /\(\s*(d(?:4|6|8|10|12)[^,)]*)/;
 const cbWeapons = b => b.items.flatMap(it => {
   if (it.from_table) return [`${it.name} (from your tables)`];
   const m = (it.full || '').match(WEAPON); return m ? [`${it.name} · ${m[1].trim()}`] : []; });
+// the slots an item sits in on the sheet (a bulky one's second too)
+const cbSlotsOf = (c, it) => { const l = it && cbItemLabel(it); return c.slots.flatMap((x, i) => l && (x === l || (x === '(bulky)' && c.slots[i - 1] === l)) ? ['slots.' + i] : []); };
+// items onto the sheet: a petty one on the petty lines, a bulky one over two slots
+const cbCarry = (out, items) => { out.slots = []; out.petty = [];
+  for (const it of items) { const l = cbItemLabel(it); if (it.petty) out.petty.push(l); else { out.slots.push(l); if (it.bulky) out.slots.push('(bulky)'); } } };
+const cbTraitRows = () => CB.traits.map((t, i) => ({label: t.name, value: cb.v.traits?.[i] ? t.values[cb.v.traits[i] - 1] : ''})).concat([{label: 'Age', value: cb.v.age || ''}]);
+const FULL_WARN = n => `That's ${n} slots. A full inventory (all 10 slots) reduces you to 0 HP, and anything past 10 won't fit.${FE ? ' Small items can be bundled into one slot.' : ''}`;
 // ---------- the character, as sheet values
 function cbCharacter() {
+  const out = BB ? bbCharacter() : FE ? feCharacter() : seCharacter();
+  if (!out) return null;
+  for (const k of Object.keys(cb.edits || {})) if (k !== 'age') out[k] = cb.edits[k];  // the player's edits win
+  out.traits[TN] = {label: 'Age', value: cbAge()};  // Age is kept on its own, whatever a traits edit held
+  return out;
+}
+// Barebones: a sheet from the first roll on (the name comes before the background)
+function bbCharacter() {
+  if (!cb) return null;
+  const b = cbBg(), a = cbAttrs(), items = bbItems(), out = {warnings: [], notes: [], bonds: [], omen: ''};
+  out.name = cb.v.name ? bbName(cb.v.name) : ''; out.background = b ? b.name : '';
+  out.str = a.str || ''; out.dex = a.dex || ''; out.wil = a.wil || '';
+  out.hp = cb.v.hp || ''; out.gold = cb.v.gold || '';
+  cbCarry(out, items);
+  out.armor = Math.min(3, items.reduce((x, it) => x + (it.armor || 0), 0)) || '';
+  out.traits = cbTraitRows();
+  out.notes.push('Backpack (holds 6 slots of items or Fatigue).');
+  if (cb.v.swap) out.notes.push(`${cbSwapped()}.`);
+  for (const id of ['bg', ...BB_GEAR]) { const sp = bbRow('spellbooks', 'spell_' + id); if (sp) out.notes.push(`${sp.name}: ${sp.text}`); }  // what each spell does
+  if (out.slots.length >= 10) out.warnings.push(FULL_WARN(out.slots.length));
+  return out;
+}
+// First Edition: its sheet has no place of its own for the background, the traits or the age, so they open Notes: the
+// looks as a sentence ("Lanky physique, rosy skin..."), the rest by name ("Virtue: Honorable")
+function feCharacter() {
+  if (!cb) return null;
+  const b = cbBg(), a = cbAttrs(), items = feItems(), age = cbAge(), out = {warnings: [], notes: [], bonds: [], omen: ''};
+  out.name = cb.v.name ? feName(cb.v.name) : ''; out.background = b ? b.name : '';
+  out.str = a.str || ''; out.dex = a.dex || ''; out.wil = a.wil || '';
+  out.hp = cb.v.hp || ''; out.gold = cb.v.gold || '';
+  cbCarry(out, items);
+  out.armor = Math.min(3, items.reduce((x, it) => x + (it.armor || 0), 0)) || '';
+  out.traits = cbTraitRows();
+  const who = [b && b.name, age && `age ${age}`].filter(Boolean).join(', '), T = out.traits.slice(0, TN).filter(t => t.value);
+  const looks = T.filter(t => FE_LOOKS.includes(t.label)).map(t => `${t.value} ${t.label}`.toLowerCase()).join(', '), rest = T.filter(t => !FE_LOOKS.includes(t.label)).map(t => `${t.label}: ${t.value}.`).join(' ');
+  for (const line of [who, looks, rest]) if (line) out.notes.push(line[0].toUpperCase() + line.slice(1) + (/[.!?]$/.test(line) ? '' : '.'));
+  if (cb.v.swap) out.notes.push(`${cbSwapped()}.`);
+  const sp = feBonusTable() === 'spellbooks' && cb.v.bonus2 ? CB.spellbooks[cb.v.bonus2 - 1] : null;
+  if (sp?.text) out.notes.push(`${sp.name}: ${sp.text}`);  // what the spell does
+  if (out.slots.length >= 10) out.warnings.push(FULL_WARN(out.slots.length));
+  return out;
+}
+const FE_LOOKS = ['Physique', 'Skin', 'Hair', 'Face', 'Speech', 'Clothing'];
+function seCharacter() {
   const b = cbBg(), fx = cbFx(), a = cbAttrs(), out = {warnings: [], notes: []};
   if (!b) return null;
   out.name = b.names[cb.v.name - 1] || ''; out.background = b.name;  // the sheet's Name stays blank until it's rolled
@@ -109,12 +261,10 @@ function cbCharacter() {
   // items: the gear (its "Bow (see table)" filled from the table), then what each rolled result and bond hands out
   const bow = [cbRow(0), cbRow(1)].filter(Boolean).flatMap(r => r.fx.bow ? r.fx.items : []);
   const items = [...b.items.flatMap(g => g.from_table ? bow : [g]), ...fx.flatMap(f => f.bow ? [] : (f.items || []))];
-  const label = cbItemLabel;
-  out.slots = []; out.petty = [];
-  for (const it of items) { if (it.petty) out.petty.push(label(it)); else { out.slots.push(label(it)); if (it.bulky) out.slots.push('(bulky)'); } }
+  cbCarry(out, items);
   if (gold >= 100) out.slots.push(`Coins (${gold}gp)`);  // 100gp or more isn't petty any more (Inventory Slots)
   out.armor = Math.min(3, items.reduce((x, it) => x + (it.armor || 0), 0) + fx.reduce((x, f) => x + (f.armor || 0), 0)) || '';
-  out.traits = CB.traits.map((t, i) => ({label: t.name, value: cb.v.traits?.[i] ? t.values[cb.v.traits[i] - 1] : ''})).concat([{label: 'Age', value: cb.v.age || ''}]);
+  out.traits = cbTraitRows();
   out.bonds = ['bond', 'bond2'].map(cbBond).filter(Boolean).map(x => x.text);
   out.omen = cb.v.omen && cb.v.omen !== 'skip' ? CB.omens[cb.v.omen - 1].text : '';
   // notes, in the order they matter; item descriptions last
@@ -125,9 +275,7 @@ function cbCharacter() {
     else out.notes.push(`${plainText(r.cells[0])}: ${r.cells.slice(1).map(plainText).join(' ')}`); }
   for (const f of fx) if (f.marketplace) { out.notes.push(`Pick ${f.marketplace} from the Marketplace.`); out.warnings.push(`Your background lets you pick ${f.marketplace} from the Marketplace: add it to your inventory.`); }
   out.notes.push(plainText(b.quote));  // the background's description, last: Print leaves it out first when Notes is full
-  if (out.slots.length >= 10) out.warnings.push(`That's ${out.slots.length} slots. A full inventory (all 10 slots) reduces you to 0 HP, and anything past 10 won't fit.`);
-  for (const k of Object.keys(cb.edits || {})) if (k !== 'age') out[k] = cb.edits[k];  // the player's edits win
-  out.traits[8] = {label: 'Age', value: cbAge()};  // Age is kept on its own, whatever a traits edit held
+  if (out.slots.length >= 10) out.warnings.push(FULL_WARN(out.slots.length));
   return out;
 }
 const plainText = md => (md || '').replace(/\[([^\]]+)\]\([^)]*\)/g, '$1').replace(/[*_]/g, '').trim();
@@ -142,7 +290,7 @@ function builderDecorate() {
     : `<p class="cb-callout-title">Continue your character <span class="muted">· Step ${Math.min(cb.i + 1, steps.length)} of ${steps.length}</span></p><div class="cb-callout-btns"><button class="btn btn-secondary" type="button" data-cb="reset">Start over</button><button class="btn btn-primary" type="button" data-cb="start">Continue</button></div>`;
   if (!cb) { cbBar(); return; }
   const b = cbBg();
-  if (b) {  // the rolled background's own names, gear and tables, so the next steps roll right here
+  if (b && !ALT) {  // the rolled background's own names, gear and tables, so the next steps roll right here
     const strip = h => h.replace(/ id="[^"]*"/g, '').replace(/ tabindex="-1"/g, '');
     const sec = t => (b.sections.find(s => s.title === t) || {html: ''}).html, tabs = b.sections.filter(s => s.title !== 'Names' && s.title !== 'Starting Gear');
     const panel = `<section class="cb-panel" id="cbPanel" aria-labelledby="cb-bg-title"><h3 id="cb-bg-title" tabindex="-1">Your background: <a href="${esc(BASE + b.url.replace(/^\//, ''))}">${esc(b.name)}</a></h3>
@@ -190,7 +338,7 @@ walkStep.addEventListener('animationend', e => { if (e.animationName === 'cb-ris
 // the vines' last column (cb-v6) finishes at 5s; timers cover a missed event
 walk.querySelector('.cb-walk-vines').addEventListener('animationend', e => { if (e.animationName === 'cb-v6') { walk.classList.remove('cb-grow'); cbEndIntro(); } });
 function cbWalkRender(st) {
-  const grow = !cb.grown && st.id === 'bg' && !REDUCE.matches;
+  const grow = !cb.grown && st.id === cbSteps()[0].id && !REDUCE.matches;  // a new character's first step, whichever the edition's is
   if (grow) { cbIntro = true; walk.classList.add('cb-intro'); clearTimeout(cbIntroTimer); cbIntroTimer = setTimeout(() => cbEndIntro(), 6000); }
   walkStep.textContent = '';
   walk.classList.toggle('cb-at-review', st.kind === 'review');
@@ -212,16 +360,41 @@ const cbTipDice = st => { const t = esc(st.tip), pill = d => `<span class="cb-di
 // each step is a card: a header (step, name, dice, what to do) and a body built from CB, its table as clean
 // numbered rows with the roll marked
 function cbStepCard(st) {
-  const steps = cbSteps(), v = cb.v[st.id], b = cbBg(), own = ['arms', 'name', 'gold', 't0', 't1'].includes(st.id);
-  const rows = (list, rolled, cls = '') => `<ol class="cb-rows${cls}">` + list.map(([n, html]) => `<li data-n="${n}"${n === rolled ? ' class="cb-hit"' : ''}>`
-    + `<span class="cb-rn">${n === rolled ? '<span class="sr-only">Your roll: </span>' : ''}${n}</span><span class="cb-rt">${html}</span></li>`).join('') + '</ol>';
+  const steps = cbSteps(), v = cb.v[st.id], b = cbBg(), own = !ALT && ['arms', 'name', 'gold', 't0', 't1'].includes(st.id);
+  // a table's rows, [number, html]; a row of a range ("4–14") says itself whether the roll landed on it
+  const rows = (list, rolled, cls = '') => `<ol class="cb-rows${cls}">` + list.map(([n, html, hit = n === rolled]) => `<li data-n="${n}"${hit ? ' class="cb-hit"' : ''}>`
+    + `<span class="cb-rn">${hit ? '<span class="sr-only">Your roll: </span>' : ''}${n}</span><span class="cb-rt">${html}</span></li>`).join('') + '</ol>';
+  // a choice the rules leave to the player (which weapon of a row, which names table): the first unless another is picked
+  const pick = (options, key, legend) => !options || options.length < 2 ? '' : `<fieldset class="sheet-pick cb-pick"><legend>${legend}</legend><div class="seg">`
+    + options.map((o, i) => `<label><input type="radio" name="cb-pick-${key}" data-pick="${key}" value="${i}"${i === (options[cb.v[key]] ? cb.v[key] : 0) ? ' checked' : ''}><span>${esc(o)}</span></label>`).join('') + '</div></fieldset>';
+  const spells = () => rows(CB.spellbooks.map(x => [x.n, `<b class="cb-rh">${esc(x.name)}</b>` + (x.n === v && x.text ? `<span class="cb-rdesc">${esc(x.text)}</span>` : '')]), v);
   const val = (label, x, hit) => `<div class="cb-val${x ? '' : ' cb-val-empty'}${hit ? ' cb-hit' : ''}"><span class="cb-val-l">${label}</span><b>${x || '–'}</b></div>`;
   const typedIn = (id, label, value, num) => `<div class="field cb-typed-in"><label for="cbTyped-${id}">${label}</label><input id="cbTyped-${id}" data-typed="${id}" autocomplete="off" enterkeyhint="next"`
     + (num ? ' inputmode="numeric"' : '') + ` value="${esc(value)}">` + (num ? `<p class="cb-typed-err" id="cbTyped-${id}-err" role="status"></p>` : '') + '</div>';
   let body = '';
-  if (own && !b) body = '';  // the background's own steps, before one is rolled (a resumed save)
+  // Barebones' own steps: its tables as rows, the rolled one marked. Name and surname sit side by side, one die each
+  if (BB && st.id === 'name') body = typedIn('name', 'Or type a name', cbCharacter()?.name || '')
+    + `<div class="cb-traits cb-names-2">${[['Name', CB.names], ['Surname', CB.surnames]].map(([h, list], k) => `<section class="cb-trait-b"><h3>${h}</h3>${rows(list.map((x, j) => [j + 1, esc(x)]), v?.[k], ' cb-rows-tight')}</section>`).join('')}</div>`;
+  else if (BB && st.id === 'bg') body = rows(CB.backgrounds.map(x => [x.n, `<b class="cb-rh">${esc(x.name)}</b> ${esc(x.text)}`]), v);
+  else if (ALT && st.id === 'gold') body = `<h3 class="cb-sc-sub">Everyone starts with</h3><ul class="cb-gear">${CB.start.map(it => `<li>${esc(cbItemLabel(it))}</li>`).join('')}</ul>`
+    + `<div class="cb-vals">${val('Gold', v && v + 'gp', !!v)}</div>`;
+  else if (BB && st.id === 'armor') body = rows(CB.armor.map(x => [x.n, esc(x.text)]), v);
+  // a weapon row names several of a kind: the first is yours unless you pick another
+  else if (BB && st.id === 'weapon') body = rows(CB.weapons.map(x => [x.n, esc(x.text)]), v) + pick(bbRow('weapons', 'weapon')?.options, 'wpick', 'Which one is yours?');
+  else if (st.list === 'gear') { const it = bbGear(st.id), twice = it && !it.spell && bbItems().filter(x => x.name === it.name).length > 1;
+    body = rows(CB.gear.map(x => [x.n, esc(x.text) + (x.n === v && twice ? '<span class="cb-rdesc">You already carry one: you may roll again.</span>' : '')]), v); }
+  else if (st.list === 'spellbooks' || st.table === 'spellbooks') body = spells();
+  // First Edition's own: the name on the table picked, beside the surnames; a plain d20 table in two columns of ten; a table
+  // of ranges, with the pick its result leaves open (which weapon; which table the bonus item is rolled on)
+  else if (FE && st.id === 'name') body = typedIn('name', 'Or type a name', cbCharacter()?.name || '') + pick(CB.name_tables.map(t => t.title), 'ntab', 'Roll your name on')
+    + `<div class="cb-traits cb-names-2">${[[CB.name_tables[cb.v.ntab || 0].title, CB.name_tables[cb.v.ntab || 0].names], ['Surnames', CB.surnames]].map(([h, list], k) => `<section class="cb-trait-b"><h3>${esc(h)}</h3>${rows(list.map((x, j) => [j + 1, esc(x)]), v?.[k], ' cb-rows-tight')}</section>`).join('')}</div>`;
+  else if (st.table && CB.gear[st.table]) body = rows(CB.gear[st.table].rows.map(x => [x.n, esc(x.text)]), v, ' cb-rows-2');
+  else if (st.table) { const r = feRange(st.table, v);
+    body = rows(CB[st.table].map(x => [x.lo === x.hi ? x.lo : `${x.lo}–${x.hi}`, esc(x.text), x === r]), v, ' cb-rows-range')
+      + (st.table === 'weapons' ? pick(r?.options.map(o => o.name), st.pick, 'Which one is yours?') : st.table === 'bonus' ? pick(r?.tables.map(t => FE_TITLE[t]), 'bpick', 'Which table will you roll on?') : ''); }
+  else if (own && !b) body = '';  // the background's own steps, before one is rolled (a resumed save)
   // the rolled background's own description sits under its name, where the eye already is
-  else if (st.id === 'bg') body = rows(CB.backgrounds.map(x => [x.n, esc(x.name) + (x.n === v ? `<span class="cb-rdesc">${mdInline(x.quote)}</span>` : '')]), v, ' cb-rows-2');
+  else if (st.id === 'bg') body = rows(CB.backgrounds.map(x => [x.n, esc(x.name) + (x.n === v && x.quote ? `<span class="cb-rdesc">${mdInline(x.quote)}</span>` : '')]), v, ' cb-rows-2');
   else if (st.id === 'name') body = rows(b.names.map((x, i) => [i + 1, esc(x)]), v, ' cb-rows-2')
     + typedIn('name', 'Or type a name', cbCharacter()?.name || '');
   else if (st.id === 'gold') body = `<h3 class="cb-sc-sub">Your starting gear</h3><ul class="cb-gear">${b.items.map(it => `<li>${esc(it.from_table ? it.full || it.name : cbItemLabel(it))}</li>`).join('')}</ul>`
@@ -241,7 +414,7 @@ function cbStepCard(st) {
   else if (st.id === 'omen') body = (v === 'skip' ? '<p class="cb-skipped">Skipped</p>' : '') + rows(CB.omens.map(x => [x.n, mdInline(x.text)]), v);
   return `<article class="cb-sc" aria-labelledby="cbScTitle"><header class="cb-sc-head"><p class="cb-sc-eye">Step ${steps.findIndex(x => x.id === st.id) + 1} of ${steps.length}${own && b ? ` · Your background: ${esc(b.name)}` : ''}</p>`
     + `<div class="cb-sc-title"><h2 id="cbScTitle" tabindex="-1">${esc(st.label)}</h2>`
-    + (st.id === 'traits' ? `<label class="cb-switch"><input type="checkbox" role="switch" id="cbAllTraits" aria-describedby="cbScTip"${cb.allTraits !== false ? ' checked' : ''}>All 8d10<span class="cb-switch-ui" aria-hidden="true"></span></label>` : '') + '</div>'
+    + (st.id === 'traits' ? `<label class="cb-switch"><input type="checkbox" role="switch" id="cbAllTraits" aria-describedby="cbScTip"${cb.allTraits !== false ? ' checked' : ''}>All ${TN}d10<span class="cb-switch-ui" aria-hidden="true"></span></label>` : '') + '</div>'
     + `<p class="cb-sc-tip" id="cbScTip">${cbTipDice(st)}</p></header><div class="cb-sc-body">${body}</div></article>`;
 }
 let cbSheetLast = '';  // the newest filled row, for the footer's sheet row
@@ -280,7 +453,7 @@ function cbSummary(cur) {
       // the gear as the sheet will hold it; an item a table hands out reads as the book has it until that table is rolled
       const tablesRolled = cb.v.t0 || cb.v.t1;
       const held = c.slots.reduce((a, x) => (x === '(bulky)' && a.length ? (a[a.length - 1] += ' (bulky)') : a.push(x), a), []);  // a bulky item's second slot
-      row('Gear', tablesRolled ? [...held, ...c.petty].join(', ') : b.items.map(it => it.from_table ? it.full || it.name : cbItemLabel(it)).join(', '), false, true);
+      row('Gear', ALT || tablesRolled ? [...held, ...c.petty].join(', ') : b.items.map(it => it.from_table ? it.full || it.name : cbItemLabel(it)).join(', '), false, true);
     }
     else if (st.id === 't0' || st.id === 't1') row(st.label, said, now);
     else if (ATTR.some(([k]) => k === st.id)) row(st.id.toUpperCase(), v ? c[st.id] : '', now);
@@ -291,6 +464,7 @@ function cbSummary(cur) {
     else if (st.id === 'bond' || st.id === 'bond2') row(st.id === 'bond' ? 'Bond' : 'Second bond', said, now);
     else if (st.id === 'age') row('Age', cbAge(), now);
     else if (st.id === 'omen') row('Omen', said, now);
+    else if (st.kind !== 'review') row(st.label, said, now);  // Barebones' armor, weapon, gear and spellbooks
   }
   return `<dl class="cb-sum">${rows.join('')}</dl>`;
 }
@@ -306,13 +480,27 @@ const PSEC = {name: [38, 232, 248, 284], bg: [340, 140, 566, 192], traits: [341,
   str: [316, 358, 550, 490], dex: [316, 358, 550, 490], wil: [316, 358, 550, 490], swap: [316, 358, 550, 490], hp: [36, 488, 294, 534], hp2: [36, 488, 294, 534],
   gold: [345, 490, 585, 770], inv: [345, 490, 585, 698], notes: [34, 372, 296, 492], arms: [228, 486, 590, 702], bond: [40, 624, 266, 694], bond2: [40, 624, 266, 694], omen: [40, 684, 266, 750], review: [0, 0, 612, 792]};
 let cbSecNow = null, cbDims = [612, 792];  // the stage's sheet, in points: portrait while rolling; at the review, the one picked
+// Barebones' sheet (A4), its sections likewise
+const BB_DIMS = [595.28, 841.89];
+const PSEC_B = {name: [372, 300, 545, 362], bg: [18, 352, 312, 424], traits: [18, 424, 312, 534], age: [18, 424, 312, 534],
+  str: [22, 36, 222, 342], dex: [22, 36, 222, 342], wil: [22, 36, 222, 342], swap: [22, 36, 222, 342], hp: [226, 36, 352, 150],
+  gold: [316, 380, 584, 816], inv: [316, 380, 584, 816], arms: [236, 150, 584, 700]};
+// First Edition's sheet (half letter): the background, traits and age are written in its Notes
+const FE_DIMS = [396, 612];
+const PSEC_F = {name: [26, 82, 144, 244], str: [150, 88, 372, 214], dex: [150, 88, 372, 214], wil: [150, 88, 372, 214], swap: [150, 88, 372, 214], hp: [226, 214, 300, 334],
+  gold: [22, 240, 216, 598], inv: [22, 326, 216, 598], arms: [22, 214, 226, 598], notes: [222, 334, 376, 598]};
 function cbStageRender(st) {
   const c = cbCharacter() || NO_CHAR, edit = st.kind === 'review';
+  if (ALT) {  // one sheet, rolling and at the review
+    $('#cbPCard').innerHTML = cbCard(ED, c, edit, edit ? [] : st.fill || [], st.star ? st.star(c) : []);
+    cbDims = BB ? BB_DIMS : FE_DIMS; cbSecNow = edit ? [0, 0, ...cbDims] : (BB ? PSEC_B : PSEC_F)[st.area || st.id] || [0, 0, ...cbDims];
+    cbFocusSheet(); return;
+  }
   const want = edit ? [] : (st.fill || []).map(k => { const m = k.match(/^traits\.(\d)$/); return m ? 'ptraits.' + PTRAIT_GROUPS.findIndex(g => g.includes(+m[1])) : k; });
   // the review previews the picked sheet, landscape or portrait, with the same data, editable
   const land = edit && cb.sheet === 'landscape';
   // Armor and weapon: the Armor box and each weapon's slots (a bulky one's second too) get a gold ring, filled as they are
-  const star = st.id !== 'arms' ? [] : ['armor', ...c.slots.flatMap((x, i) => WEAPON.test(x) || (x === '(bulky)' && WEAPON.test(c.slots[i - 1])) ? ['slots.' + i] : [])];
+  const star = st.star ? st.star(c) : st.id !== 'arms' ? [] : ['armor', ...c.slots.flatMap((x, i) => WEAPON.test(x) || (x === '(bulky)' && WEAPON.test(c.slots[i - 1])) ? ['slots.' + i] : [])];
   $('#cbPCard').innerHTML = land ? cbCard('sheet', c, true, []) : cbCard('portrait', c, edit, want, star);
   cbDims = land ? [792, 612] : [612, 792];
   cbSecNow = edit ? [0, 0, ...cbDims] : PSEC[st.area || st.id] || PSEC.review;
@@ -379,13 +567,13 @@ function cbBar(say) {  // say: write the result line even while the name field h
   if (on && !walk.open) { cbDiceIn(true); cbPlaceStep(); walk.showModal(); restackNotices(); cbFocusSheet(); cbDiceBounds(); requestAnimationFrame(() => cbGo(true)); }  // laid out once it's open; focus on the step's heading, a resumed one too
   if (!on && walk.open) walk.close();
   if (!on) return;
-  const steps = cbSteps(), st = steps[Math.min(cb.i, steps.length - 1)], v = cb.v[st.id], typed = TYPED.includes(st.id) && cbTyped(st.id), done = st.id === 'traits' ? cbTraitsIn(v) === 8 : !!v;
+  const steps = cbSteps(), st = steps[Math.min(cb.i, steps.length - 1)], v = cb.v[st.id], typed = TYPED.includes(st.id) && cbTyped(st.id), done = st.id === 'traits' ? cbTraitsIn(v) === TN : !!v;
   const said = st.kind === 'swap' ? (cb.v.swap ? cbSwapped() : 'Keep them as rolled, or swap two.')
     : st.kind === 'review' ? '' : v === 'skip' ? 'Skipped' : typed ? `<b>${esc(typed)}</b>` : v ? `<b>${esc(st.say(v))}</b>${Array.isArray(v) ? '' : ` <span class="muted">(rolled ${v})</span>`}` : '';
   // a live region: rewriting the same result would read it again, and a name being typed is read once it's done, not per letter
   if (said !== cbSaid && (say || !document.activeElement?.dataset?.typed)) $('#cbResult').innerHTML = cbSaid = said;
   // the footer's sheet row: how much is filled, and the newest result (inked in when it changes, not per letter typed)
-  const todo = steps.filter(x => x.kind !== 'review'), filled = todo.filter((x, i) => x.id === 'traits' ? cbTraitsIn(cb.v.traits) === 8
+  const todo = steps.filter(x => x.kind !== 'review'), filled = todo.filter((x, i) => x.id === 'traits' ? cbTraitsIn(cb.v.traits) === TN
     : cb.v[x.id] != null || (TYPED.includes(x.id) && cbTyped(x.id)) || (!x.dice && i < cb.i)).length;
   for (const n of document.querySelectorAll('.cb-sheet-n')) n.textContent = ` · ${filled} of ${todo.length} filled`;
   for (const last of document.querySelectorAll('.cb-sheet-last')) if (last.textContent !== cbSheetLast) { last.textContent = cbSheetLast;
@@ -424,13 +612,21 @@ async function cbRollStep() {
   const st = cbSteps()[cb.i]; if (!st || !st.dice) return;
   cbBusy = true; for (const id of ['cbRoll', 'cbNext', 'cbBack', 'cbSkip']) $('#' + id).disabled = true; $('#cbRoll').textContent = 'Rolling…';
   try {
-    let r = await CairnDice.roll(st.dice, {label: st.label});
+    // one die per field (a name and a surname, the trait tables): each die rolls in its own colour, so they don't read as one total
+    const each = !!st.multi || (st.id === 'traits' && cb.allTraits !== false);
+    let r = await CairnDice.roll(st.dice, {label: st.label, distinct: each});
     if (st.id === 'bond2') for (let n = 0; r.total === cb.v.bond && n < 5; n++) r = await CairnDice.roll(st.dice, {label: st.label + ' (again: same bond)'});
     // traits keep each die, one per table: all eight at once, or (the toggle off) the next empty one, starting over once all are in
-    if (st.id === 'traits' && cb.allTraits === false) { const t = cbTraitsIn(cb.v.traits) === 8 ? [] : [...(cb.v.traits || [])], i = CB.traits.findIndex((x, j) => !t[j]); t[i] = r.total; cb.v.traits = CB.traits.map((x, j) => t[j] || null); }
-    else cb.v[st.id] = st.id === 'traits' ? r.groups[0].values : r.total;
+    if (st.id === 'traits' && cb.allTraits === false) { const t = cbTraitsIn(cb.v.traits) === TN ? [] : [...(cb.v.traits || [])], i = CB.traits.findIndex((x, j) => !t[j]); t[i] = r.total; cb.v.traits = CB.traits.map((x, j) => t[j] || null); }
+    else cb.v[st.id] = st.id === 'traits' || st.multi ? r.groups[0].values : r.total;
     if (TYPED.includes(st.id) && cb.edits) delete cb.edits[st.id];  // the roll replaces a typed value
-    if (st.id === 'bg') for (const k of ['name', 't0', 't1', 'hp2', 'bond2']) delete cb.v[k];  // a new background: its own rolls start over
+    if (st.id === 'bg') for (const k of BB ? ['spell_bg', 'gearB', 'spell_gearB'] : FE ? [] : ['name', 't0', 't1', 'hp2', 'bond2']) delete cb.v[k];  // a new background: its own rolls start over
+    if (FE) for (const k of {weapon: ['wpick'], bonus: ['bpick', 'bonus2', 'wpick2'], bonus2: ['wpick2']}[st.id] || []) delete cb.v[k];  // a new row: its pick, and what was rolled from it, start over
+    if (BB) {  // a new weapon row is picked from afresh; new gear names its spellbook afresh; a roll no step asks for any more goes
+      if (st.id === 'weapon') delete cb.v.wpick;
+      if (st.list === 'gear') delete cb.v['spell_' + st.id];
+      const ids = cbSteps().map(x => x.id); for (const k of Object.keys(cb.v)) if (/^(gear[AB]$|spell_)/.test(k) && !ids.includes(k)) delete cb.v[k];
+    }
     if (st.id === 't0' || st.id === 't1' || st.id === 'bond') { const ids = cbSteps().map(s => s.id); for (const k of ['hp2', 'bond2']) if (!ids.includes(k)) delete cb.v[k]; }
     if (/^(str|dex|wil)$/.test(st.id)) delete cb.v.swap;
     cbSave(); cbSaid = null;  // every roll is said, even one that lands where the last did
@@ -447,7 +643,7 @@ walkStep.addEventListener('input', e => {
   const id = e.target.dataset?.typed; if (!id) return;
   let val = e.target.value.trim();
   if (id === 'age' && cbAgeCheck(e.target, $('#cbTyped-age-err'))) val = '';  // a number, or nothing yet
-  if (val && cb.v[id]) { delete cb.v[id]; const hit = walkStep.querySelector('.cb-hit'); hit?.querySelector('.sr-only')?.remove(); hit?.classList.remove('cb-hit'); }
+  if (val && cb.v[id]) { delete cb.v[id]; for (const hit of walkStep.querySelectorAll('.cb-hit')) { hit.querySelector('.sr-only')?.remove(); hit.classList.remove('cb-hit'); } }
   if (val) cbApplyEdit(id, val); else { delete cb.edits?.[id]; cbSave(); }
   const box = id === 'age' && walkStep.querySelector('.cb-vals .cb-val');  // the card's Age box follows too
   if (box) { box.querySelector('b').textContent = val || '–'; box.classList.toggle('cb-hit', !!val); box.classList.toggle('cb-val-empty', !val); }
@@ -456,6 +652,9 @@ walkStep.addEventListener('input', e => {
   cbBar();
 });
 walkStep.addEventListener('change', e => {
+  const pk = e.target.dataset?.pick;  // a pick (which weapon, which table): the step is rebuilt round it
+  if (pk) { cb.v[pk] = +e.target.value; if (pk === 'bpick') { delete cb.v.bonus2; delete cb.v.wpick2; }  // another table: its roll starts over
+    cbSave(); cbRefresh(); walkStep.querySelector(`[data-pick="${pk}"]:checked`)?.focus(); return; }
   if (e.target.id === 'cbAllTraits') { cb.allTraits = e.target.checked; cbSave(); cbRefresh(); $('#cbAllTraits').focus(); return; }
   if (e.target.dataset?.typed && e.target.isConnected) cbBar(true); });
 walkStep.addEventListener('keydown', e => { if (!e.target.dataset?.typed || e.key !== 'Enter' || e.isComposing || e.keyCode === 229) return;  // 229: Safari's IME commit
@@ -519,6 +718,28 @@ const SF_P = [['portrait', 'name', 'Name', [66, 248, 218, 266]], ['portrait', 'b
   ['portrait', 'slots', 'Inventory, one item per slot (line)', [375, 535, 547, 683], 14.6, 'e'],
   ['portrait', 'petty', 'Petty items', [374, 709, 495, 765], 10.5], ['portrait', 'gold', 'Gold', [530, 723, 557, 749]],
   ['portrait', 'bonds', 'Bonds', [49, 641, 254, 689], 15], ['portrait', 'omen', 'Omen', [50, 700, 256, 745], 13.3], ['portrait', 'notes', 'Notes', [44, 400, 262, 488], 11]];
+// the Barebones sheet's fields, from its fillable PDF (points, top-down; a 7th entry is a multi-line field's font, in sheet
+// pixels). Each score fills its Maximum (the lower half of its box; HP's right eye): Current is for play. Nothing is printed
+// beside its nine trait fields, so each is written with its name: a line apiece while rolling, a column of three at the review
+const BB_SLOT_Y = [412, 437.5, 463, 488.5, 514, 539.5, 565, 591.6, 617.1, 642.6], BB_TRAIT_X = [[27.6, 125.6], [129.8, 217.6], [220.3, 301.2]];
+const SF_B = [['barebones', 'name', 'Name', [390.7, 327, 523.9, 345]], ['barebones', 'background', 'Background', [27.6, 395, 301, 413]],
+  ...[['str', 93], ['dex', 192.3], ['wil', 294.4]].map(([k, y]) => ['barebones', k, k.toUpperCase(), [155.4, y, 192.3, y + 36.9]]),
+  ['barebones', 'hp', 'HP', [305.7, 70.4, 336.8, 107.3]], ['barebones', 'armor', 'Armor', [274.5, 183.8, 317, 232]], ['barebones', 'gold', 'Gold', [512.6, 754.4, 560.8, 779.9]],
+  ...BB_SLOT_Y.map((y, i) => ['barebones', 'slots.' + i, 'Slot ' + (i + 1), [347.6, y + 2.4, 555.6, y + 17.4], 0, 'r']),
+  ['barebones', 'slots', 'Inventory, one item per slot (line)', [347.6, 412, 555.6, 667], 25.5, 'e', 46],
+  ['barebones', 'petty', 'Petty items', [353, 700.9, 478.3, 789.7], 22.2, '', 42],
+  ...Array.from({length: 9}, (x, i) => ['barebones', 'traits.' + i, null, [BB_TRAIT_X[i / 3 | 0][0], 465 + 22.1 * (i % 3), BB_TRAIT_X[i / 3 | 0][1], 477 + 22.1 * (i % 3)], 0, 'r']),
+  ...BB_TRAIT_X.map(([x0, x1], i) => ['barebones', 'btraits.' + i, `Traits, one per line: ${['Physique, Skin, Hair', 'Face, Speech, Clothing', 'Virtue, Vice, Age'][i]}`, [x0, 461, x1, 527.3], 22.1, 'e', 38]),
+  ['barebones', 'notes', 'Notes', [47, 587.4, 274, 771.2], 12, '', 36]];
+// the First Edition sheet's fields, likewise from its PDF: each score fills its Max (the right-hand box)
+const FE_SLOT_Y = [406.3, 424.1, 441.5, 459.2, 477.1, 494.4, 511.6, 529.4, 546.8, 563.8];
+const SF_F = [['first', 'name', 'Name', [46, 218.5, 124, 234.5]],
+  ...[['str', 186.9], ['dex', 259.7], ['wil', 334.5]].map(([k, x]) => ['first', k, k.toUpperCase(), [x, 179.9, x + 24.5, 206.1]]),
+  ['first', 'hp', 'HP', [263.3, 300.6, 286.1, 323.9]], ['first', 'armor', 'Armor', [175.2, 300.7, 197.9, 319.6]], ['first', 'gold', 'Gold pieces', [114.3, 247.7, 137.1, 266.5]],
+  ...FE_SLOT_Y.map((y, i) => ['first', 'slots.' + i, 'Slot ' + (i + 1), [56.2, y + 3, 177.8, y + 15], 0, 'r']),
+  ['first', 'slots', 'Inventory, one item per slot (line)', [56.2, 406.3, 177.8, 581.6], 17.5, 'e', 38],
+  ['first', 'notes', 'Notes', [232, 366, 362, 585.8], 10.5, '', 34]];  // clear of the scroll's ragged right edge
+const OWN_FIELDS = {barebones: SF_B, first: SF_F};  // the sheets that are an edition's own
 const PTRAIT_GROUPS = [[0, 1], [2, 3], [4, 5], [6, 7, 8]];
 // the portrait sheet's four trait lines; with blanks, an empty trait stays as "—" so an edited line maps back by position
 const cbPortraitTraits = (c, blanks) => PTRAIT_GROUPS.map(g => g.map(i => { const t = c.traits[i], v = t && t.value; return v ? (t.label === 'Age' ? 'Age ' + v : v) : blanks ? '—' : ''; }).filter(Boolean).join(' · '));
@@ -533,6 +754,7 @@ CB_NARROW.addEventListener('change', () => { if (!walk.open) return;
 const cbVal = (c, k) => { const m = k.match(/^(slots|traits)\.(\d+)$/);
   if (k === 'ptraits') return cbPortraitTraits(c, true).join('\n');
   if (k.startsWith('ptraits.')) return cbPortraitTraits(c)[+k.slice(8)];
+  if (k.startsWith('btraits.')) return [0, 1, 2].map(j => { const t = c.traits[k.slice(8) * 3 + j]; return t ? `${t.label}: ${t.value}` : ''; }).join('\n');
   return m ? (m[1] === 'slots' ? c.slots[+m[2]] : c.traits[+m[2]]?.value) : k === 'slots' ? c.slots.slice(0, 10).join('\n')
     : k === 'traits' ? c.traits.map(t => `${t.label}: ${t.value}`).join('\n') : Array.isArray(c[k]) ? c[k].join('\n') : c[k]; };
 const cbInk = {};  // what each field showed last, so a value the latest roll wrote fades in like ink
@@ -541,6 +763,12 @@ let cbInkQuiet = false;  // set while a typed value redraws, so the field doesn'
 // printed rules, so each line just holds more words. On a review card the text is in a textarea, which is what scrolls, so
 // that's what's measured. A card with no size yet (hidden) is fitted on a later call
 function cbFitText(root = document) {
+  // on an edition's own sheet, a name too long for its banner is set just small enough to fit (down to half)
+  for (const f of root.querySelectorAll('.cb-plain .cb-f-name')) {
+    const el = f.querySelector('input') || f; if (!el.clientWidth) continue;
+    let fit = 1; f.style.setProperty('--fit', 1);
+    while (el.scrollWidth > el.clientWidth + 1 && fit > .5) { fit = +(fit - .05).toFixed(2); f.style.setProperty('--fit', fit); }
+  }
   for (const f of root.querySelectorAll('.cb-f-bonds, .cb-f-omen')) {
     const el = f.querySelector('textarea') || f; if (!el.clientHeight) continue;
     let fit = 1; f.style.setProperty('--fit', 1);
@@ -549,25 +777,26 @@ function cbFitText(root = document) {
 }
 // a card (or 'sheet', the whole sheet) with its fields; read-only while rolling, inputs in the review
 function cbCard(n, c, edit, want, star = []) {
-  const r = n === 'sheet' ? [0, 0, ...CARDS.size] : n === 'portrait' ? [0, 0, ...CARDS.portrait] : CARDS.cards[n], w = r[2] - r[0], h = r[3] - r[1], pc = x => +(x * 100).toFixed(3) + '%';
-  const land = n !== 'portrait';
-  const field = ([, k, label, p, lh]) => {
+  const bb = !!OWN_FIELDS[n], whole = bb || n === 'sheet' || n === 'portrait';
+  const r = n === 'sheet' ? [0, 0, ...CARDS.size] : whole ? [0, 0, ...CARDS[n]] : CARDS.cards[n], w = r[2] - r[0], h = r[3] - r[1], pc = x => +(x * 100).toFixed(3) + '%';
+  const land = !bb && n !== 'portrait';
+  const field = ([, k, label, p, lh, , fpx]) => {
     const [x0, y0, x1, y1] = p.map(v => v * PX), i = +k.split('.')[1];
     const nudge = land && (LAND_NUDGE[k] || lh && [0, 3]);
-    const pos = `left:${pc((x0 - r[0]) / w)};top:${pc((y0 - r[1]) / h)};width:${pc((x1 - x0) / w)};height:${pc((y1 - y0) / h)};--f:${lh ? 32 : Math.min(90, (y1 - y0) * .82).toFixed(1)}${lh ? ';--lh:' + (lh * PX).toFixed(1) : ''}`
+    const pos = `left:${pc((x0 - r[0]) / w)};top:${pc((y0 - r[1]) / h)};width:${pc((x1 - x0) / w)};height:${pc((y1 - y0) / h)};--f:${lh ? fpx || 32 : Math.min(90, (y1 - y0) * .82).toFixed(1)}${lh ? ';--lh:' + (lh * PX).toFixed(1) : ''}`
       + (nudge ? `;--dx:${(nudge[0] * PX).toFixed(1)};--dy:${(nudge[1] * PX).toFixed(1)}` : '');
     const v = String(cbVal(c, k) ?? ''), trait = k.startsWith('traits.') ? (c.traits[i]?.label || CB.traits[i]?.name || 'Age') : '';
     const score = /^(str|dex|wil|hp|armor|gold)$/.test(k);
     const cls = `cb-fld${lh ? ' cb-multi' : ''}${y1 - y0 > 90 || score ? ' cb-big' : ''}${score ? ' cb-score' : ''} cb-f-${k.replace(/\./g, '-')}${star.includes(k) ? ' cb-star' : ''}`;  // the scores, Armor and Gold: bold, centred
     if (!label && !trait) return `<span class="${cls} cb-max" style="${pos}" aria-hidden="true" data-mirror="${k}">${esc(v)}</span>`;
     if (edit) return `<label class="${cls}" style="${pos}"><span class="sr-only">${label}</span>`
-      + (lh ? `<textarea data-edit="${k}"${k === 'slots' || k === 'traits' ? ' wrap="off"' : ''}>${esc(v)}</textarea>` : `<input data-edit="${k}" value="${esc(v)}">`) + '</label>';
+      + (lh ? `<textarea data-edit="${k}"${k === 'slots' || /^b?traits/.test(k) ? ' wrap="off"' : ''}>${esc(v)}</textarea>` : `<input data-edit="${k}" value="${esc(v)}">`) + '</label>';
     const fresh = !cbInkQuiet && v && k in cbInk && cbInk[k] !== v; cbInk[k] = v;
     return `<span class="${cls}${!v && want.includes(k) ? ' cb-want' : ''}${fresh ? ' cb-new' : ''}" style="${pos}">`
       + (trait ? `<span class="cb-tl">${esc(trait)}</span> ` : `<span class="sr-only">${label}: </span>`) + `${esc(v)}</span>`;
   };
-  const fields = n === 'portrait' ? SF_P : SF.filter(f => n === 'sheet' || f[0] === n);
-  return `<div class="cb-card${n === 'sheet' || n === 'portrait' ? ' cb-card-sheet' : ''}${land ? ' cb-land' : ''}" style="--cw:${w};--ch:${h}"><img src="${CARD_IMG}${n === 'portrait' ? 'sheet-portrait' : n}.webp" alt="" width="${w}" height="${h}" decoding="async">`
+  const fields = bb ? OWN_FIELDS[n] : n === 'portrait' ? SF_P : SF.filter(f => n === 'sheet' || f[0] === n);
+  return `<div class="cb-card${whole ? ' cb-card-sheet' : ''}${land ? ' cb-land' : ''}${bb ? ' cb-plain' : ''}" style="--cw:${w};--ch:${h}"><img src="${CARD_IMG}${whole && n !== 'sheet' ? 'sheet-' + n : n}.webp" alt="" width="${w}" height="${h}" decoding="async">`
     + fields.filter(f => !f[5] || f[5] === (edit ? 'e' : 'r')).map(field).join('') + '</div>';
 }
 function cbCards(names, edit) {
@@ -578,7 +807,9 @@ function cbCards(names, edit) {
 function cbReviewList(c) {
   const fields = [['background', 'Background'], ['armor', 'Armor', 'n'], ['gold', 'Gold (gp)', 'n'], ['slots', 'Inventory, one item per line', 't'],
     ['petty', 'Petty items, one per line', 't'], ...['str', 'dex', 'wil', 'hp'].map(k => [k, k.toUpperCase(), 'n']), ...CB.traits.map((t, i) => ['traits.' + i, t.name]),
-    ['age', 'Age', 'n'], ['bonds', 'Bonds, one per line', 't'], ['omen', 'Omen', 't'], ['name', 'Name'], ['notes', 'Notes, one per line', 't']];
+    ['age', 'Age', 'n'], ['bonds', 'Bonds, one per line', 't'], ['omen', 'Omen', 't'], ['name', 'Name'], ['notes', 'Notes, one per line', 't']]
+    // neither Barebones nor First Edition has bonds or omens; First Edition's sheet keeps its background, traits and age in Notes, and has no petty items
+    .filter(([k]) => !(ALT && (k === 'bonds' || k === 'omen')) && !(FE && (k === 'background' || k === 'petty' || k === 'age' || k.startsWith('traits.'))));
   return '<dl class="cb-sum cb-sum-edit">' + fields.map(([k, label, kind]) => {
     const id = 'cbRv-' + k.replace(/\./g, '-'), v = String((k === 'age' ? cbAge() : cbVal(c, k)) ?? '');  // Age isn't on the character, only in its traits
     // rows for browsers without field-sizing: a line each, and the long prose fields a line per ~35 characters, as they wrap on a phone
@@ -593,10 +824,11 @@ function cbReviewHtml() {
   const c = cbCharacter(), kw = cbBg()?.kw; if (!c) return '';
   // #cbStatus keeps its message only while the sheet is unchanged, so a rebuild stays quiet
   return `<section class="cb-review" id="cbReview" aria-labelledby="cb-review-title"><h2 id="cb-review-title" tabindex="-1">Your character</h2>
-    <p class="muted">This is your sheet. Change anything on it, then print: Print fills the official Fillable Letter sheet, which stays fillable.</p>
-    ${CB_NARROW.matches ? cbReviewList(c) : cb.active ? '<p class="muted">Your sheet is beside this: change anything on it.</p>' : cbCards(['sheet'], true)}
+    <p class="muted">This is your sheet. Change anything on it, then print: Print fills the ${BB ? 'fillable Barebones Edition sheet (A4)' : FE ? 'fillable First Edition sheet (half letter)' : 'official Fillable Letter sheet'}, which stays fillable.</p>
+    ${CB_NARROW.matches ? cbReviewList(c) : cb.active ? '<p class="muted">Your sheet is beside this: change anything on it.</p>' : cbCards([ALT ? ED : 'sheet'], true)}
+    ${BB && CB.marketplace ? `<p class="cb-warn">Last, buy anything else you can afford${/^\d+$/.test(c.gold) ? ` with your ${c.gold}gp` : ''} from the <a href="${esc(BASE + CB.marketplace.replace(/^\//, ''))}">Marketplace</a>, and add it to your inventory.</p>` : ''}
     ${c.slots.length > 10 ? `<p class="cb-warn">These don't fit in the 10 slots: ${esc(c.slots.slice(10).join(', '))}.</p>` : ''}${c.warnings.map(w => `<p class="cb-warn">${esc(w)}</p>`).join('')}
-    <div class="cb-print"><fieldset class="sheet-pick"><legend class="sr-only">Sheet layout</legend><div class="seg">${['landscape', 'portrait'].map(k => `<label><input type="radio" name="cb-sheet" value="${k}"${(cb.sheet || 'landscape') === k ? ' checked' : ''}><span>${k[0].toUpperCase() + k.slice(1)}</span></label>`).join('')}</div></fieldset>
+    <div class="cb-print">${ALT ? '' : `<fieldset class="sheet-pick"><legend class="sr-only">Sheet layout</legend><div class="seg">${['landscape', 'portrait'].map(k => `<label><input type="radio" name="cb-sheet" value="${k}"${(cb.sheet || 'landscape') === k ? ' checked' : ''}><span>${k[0].toUpperCase() + k.slice(1)}</span></label>`).join('')}</div></fieldset>`}
       <button class="btn btn-primary" type="button" id="cbPrint">Print</button><a class="btn btn-secondary" id="cbDownload" role="link" aria-disabled="true" aria-describedby="cbStatus">Download PDF</a>${kw ? '<button class="btn btn-secondary" type="button" id="cbKw" aria-describedby="cbKwHelp">Export for Kettlewright</button>' : ''}<button class="btn btn-secondary" type="button" data-cb="reset">Start over</button></div>
     <p class="cb-status" id="cbStatus" role="status">${cbPdf.url && cbPdf.key === cbPdfKey(c) ? esc(cbPdf.msg) : ''}</p>
     ${kw ? `<p class="cb-status">For Kettlewright: <span id="cbKwHelp">the export saves a JSON file. Sign in, then open <a href="https://kettlewright.com/new_from_json/">Kettlewright’s New from JSON page</a> to import it.</span></p>
@@ -612,15 +844,17 @@ const cbApplyEdit = (k, v) => {
   else if (k === 'ptraits') { const ls = v.split('\n'), tr = c.traits.map(t => ({...t}));
     PTRAIT_GROUPS.forEach((g, li) => { const parts = (ls[li] || '').split(/\s*·\s*/); g.forEach((ti, pi) => { if (pi < parts.length && tr[ti]) tr[ti].value = parts[pi].replace(/^Age\s+/i, '').replace(/^—$/, '').trim(); }); });
     cb.edits.traits = tr; }
+  else if (k.startsWith('btraits.')) { const ls = v.split('\n'), tr = c.traits.map(t => ({...t}));  // a column of three, "Label: value"
+    [0, 1, 2].forEach(j => { const t = tr[k.slice(8) * 3 + j]; if (t) t.value = (ls[j] || '').replace(/^[^:]*:\s*/, '').trim(); }); cb.edits.traits = tr; }
   else if (k === 'traits') { const ls = v.split('\n'); cb.edits.traits = c.traits.map((t, i) => ({label: t.label, value: (ls[i] || '').replace(/^[^:]*:\s*/, '').trim()})); }
   else cb.edits[k] = ['petty', 'bonds', 'notes'].includes(k) ? v.split('\n').filter(Boolean) : v;  // one per line
-  if (/^p?traits/.test(k)) { const age = String(cb.edits.traits?.find(t => t.label === 'Age')?.value || '').trim(); if (age) cb.edits.age = age; else delete cb.edits.age; }
+  if (/^[pb]?traits/.test(k)) { const age = String(cb.edits.traits?.find(t => t.label === 'Age')?.value || '').trim(); if (age) cb.edits.age = age; else delete cb.edits.age; }
   cbSave();
 };
 document.addEventListener('input', e => { const k = e.target.dataset?.edit; if (!k) return;
   if (k === 'age' && cbAgeCheck(e.target, $('#cbRv-age-err'))) return;  // a phone's review: digits, as in the Age step
   cbApplyEdit(k, e.target.value); cbSoon();
-  const card = e.target.closest('.cb-card'); if (card && (k === 'bonds' || k === 'omen')) cbFitText(card);
+  const card = e.target.closest('.cb-card'); if (card && (k === 'bonds' || k === 'omen' || k === 'name')) cbFitText(card);
   for (const m of document.querySelectorAll(`[data-mirror="${k}"]`)) m.textContent = e.target.value; });  // MAX follows CURRENT
 document.addEventListener('change', e => { if (e.target.name === 'cb-sheet') { cb.sheet = e.target.value; cb.sheetPicked = true; cbSave(); cbSoon(0);
   if (walk.open && !CB_NARROW.matches) cbStageRender(cbSteps()[cb.i]); } });  // the stage previews the sheet just picked
@@ -628,14 +862,15 @@ let pdfLibP = null, cbPdf = {url: null, key: ''}, cbTimer = 0;
 const loadPdfLib = () => pdfLibP || (pdfLibP = new Promise((res, rej) => { const s = document.createElement('script');
   s.src = PDF_LIB; s.onload = () => res(window.PDFLib); s.onerror = () => { pdfLibP = null; rej(new Error('pdf-lib could not load')); }; document.head.appendChild(s); }));
 const sheetBytes = {};
-const cbPdfKey = c => JSON.stringify([c, cb.sheet || 'landscape']);  // what the filled PDF was made from
+const cbSheetName = () => ALT ? ED : cb.sheet || 'landscape';  // the sheet Print fills
+const cbPdfKey = c => JSON.stringify([c, cbSheetName()]);  // what the filled PDF was made from
 function cbSoon(ms = 600) { clearTimeout(cbTimer); cbTimer = setTimeout(cbPrepare, ms); }
 // Download PDF has no href until a sheet is filled, so it can't save the page instead; an unchanged message isn't re-announced
 const cbShowPdf = status => { if (status.textContent !== cbPdf.msg) status.textContent = cbPdf.msg; const dl = $('#cbDownload'); if (dl) { dl.href = cbPdf.url; dl.download = cbPdf.file; dl.removeAttribute('aria-disabled'); } };
 // fill the chosen sheet ahead of time, so Print only has to open it (a late window.open would be blocked as a pop-up)
 async function cbPrepare() {
   const status = $('#cbStatus'); if (!status || !cb) return;
-  const c = cbCharacter(), sheet = cb.sheet || 'landscape', key = cbPdfKey(c);
+  const c = cbCharacter(), sheet = cbSheetName(), key = cbPdfKey(c);
   if (key === cbPdf.key && cbPdf.url) { cbShowPdf(status); return; }
   if (!cbPdf.url) status.textContent = 'Filling in your sheet…';  // a refill after an edit stays quiet unless the message changes
   try {
@@ -643,8 +878,8 @@ async function cbPrepare() {
     sheetBytes[sheet] = sheetBytes[sheet] || await fetch(`${SHEETS}${sheet}.pdf`).then(r => { if (!r.ok) throw new Error('sheet ' + r.status); return r.arrayBuffer(); });
     const {bytes, warn} = await cbFill(PDFLib, sheetBytes[sheet], sheet, c);
     if (cbPdf.url) URL.revokeObjectURL(cbPdf.url);
-    cbPdf = {url: URL.createObjectURL(new Blob([bytes], {type: 'application/pdf'})), key, file: `${(c.name || 'character').replace(/[^\w-]+/g, '-')}-${sheet}.pdf`,
-             msg: warn.length ? `Ready to print. ${warn.join(' ')}` : `Ready to print, on the ${sheet} sheet.`};
+    cbPdf = {url: URL.createObjectURL(new Blob([bytes], {type: 'application/pdf'})), key, file: `${(c.name || 'character').replace(/[^\p{L}\p{N}_-]+/gu, '-').replace(/^-+|-+$/g, '') || 'character'}-${FE ? 'first-edition' : sheet}.pdf`,
+             msg: warn.length ? `Ready to print. ${warn.join(' ')}` : `Ready to print, on the ${BB ? 'Barebones' : FE ? 'First Edition' : sheet} sheet.`};
     cbShowPdf(status);
   } catch (e) {
     cbPdf = {url: null, key: ''}; const dl = $('#cbDownload'); dl?.removeAttribute('href'); dl?.setAttribute('aria-disabled', 'true'); console.error(e);
@@ -652,6 +887,7 @@ async function cbPrepare() {
   }
 }
 async function cbFill(PDFLib, bytes, sheet, c) {
+  if (ALT) return ownFill(PDFLib, bytes, c);
   const S = SHEET[sheet], doc = await PDFLib.PDFDocument.load(bytes), form = doc.getForm(), font = await doc.embedFont(PDFLib.StandardFonts.Helvetica), warn = [];
   // the sheet font writes WinAnsi only; anything else is simplified
   const clean = t => [...String(t == null ? '' : t)].map(ch => { if (ch === '\n') return ch; try { font.widthOfTextAtSize(ch, 8); return ch; } catch { const p = ch.normalize('NFD').replace(/[̀-ͯ]/g, ''); try { font.widthOfTextAtSize(p, 8); return p; } catch { return ''; } } }).join('');
@@ -686,7 +922,7 @@ async function cbFill(PDFLib, bytes, sheet, c) {
       if (rest) over.push(`${what} (continued): ${rest}`); }
     while (li < count) set(name(li++), '', size || 8); };
   fill(c.bonds, S.bonds, S.bondsN, 'Bond'); fill(c.omen ? [c.omen] : [], S.omens, S.omensN, 'Omen');
-  const quote = plainText(cbBg().quote), qi = notes.indexOf(quote); if (qi >= 0) notes.splice(qi, 1);  // found even after a Notes edit
+  const quote = plainText(cbBg()?.quote), qi = quote ? notes.indexOf(quote) : -1; if (qi >= 0) notes.splice(qi, 1);  // found even after a Notes edit
   const at = notes.findIndex(n => !/^(Backpack|Swapped)/.test(n));
   notes.splice(at < 0 ? notes.length : at, 0, ...over);
   // notes: as many lines as fit at a readable size, never shrunk
@@ -698,6 +934,44 @@ async function cbFill(PDFLib, bytes, sheet, c) {
   if (nl.length > room) warn.push(`Notes is full: ${nl.length - room} line${nl.length - room === 1 ? '' : 's'} won't fit on the printed sheet. Shorten Notes.`);
   form.updateFieldAppearances(font);
   return {bytes: await doc.save(), warn};
+}
+// an edition's own sheet: its PDF's field names, and the size each is set at (shrunk only when the text won't fit its field).
+// A score's Max is filled; its Current is for the character's state in play, so it's printed blank
+const OWN_PDF = {
+  barebones: {name: ['Name', 14], background: ['Background', 14], scores: {str: 'Strength', dex: 'Dexterity', wil: 'Willpower', hp: 'HitProtection'}, max: n => n + '_Maximum', cur: n => n + '_Current', score: 24,
+    armor: ['Armor', 26], gold: ['Gold', 18], slot: i => 'Inventory' + (i + 1), slotSize: 12, petty: i => 'Petty' + (i + 1), pettyN: 4, traits: true, notes: 9},
+  first: {name: ['Name', 12], scores: {str: 'STR', dex: 'DEX', wil: 'WIL', hp: 'HP'}, max: n => n + ' Max', cur: n => n + ' Current', score: 16,
+    armor: ['Armor', 14], gold: ['GP', 11], slot: i => 'Slot' + (i + 1), slotSize: 10, pettyN: 0, notes: 8, notesPad: 8}};  // notesPad: its Notes field runs to the scroll's ragged edge
+async function ownFill(PDFLib, bytes, c) {
+  const S = OWN_PDF[ED], doc = await PDFLib.PDFDocument.load(bytes), form = doc.getForm(), font = await doc.embedFont(PDFLib.StandardFonts.Helvetica), warn = [];
+  const clean = t => [...String(t == null ? '' : t)].map(ch => { if (ch === '\n') return ch; try { font.widthOfTextAtSize(ch, 8); return ch; } catch { const p = ch.normalize('NFD').replace(/[̀-ͯ]/g, ''); try { font.widthOfTextAtSize(p, 8); return p; } catch { return ''; } } }).join('');
+  const field = n => form.getTextField(n), box = n => field(n).acroField.getWidgets()[0].getRectangle();
+  const fits = (t, n, size) => font.widthOfTextAtSize(clean(t), size) <= box(n).width - 4;
+  const set = (n, t, size, min = size) => { while (size > min && !fits(t, n, size)) size -= .5;
+    const f = field(n), da = `/Helv ${size} Tf 0 g`; f.acroField.setDefaultAppearance(da); for (const w of f.acroField.getWidgets()) w.setDefaultAppearance(da); f.setText(clean(t)); };
+  // First Edition's fields are rich text, which pdf-lib can't read back to draw: plain, so the text set is the text shown
+  for (const f of form.getFields()) if (f instanceof PDFLib.PDFTextField && f.isRichFormatted()) f.disableRichFormatting();
+  set(S.name[0], c.name, S.name[1], 6); if (S.background) set(S.background[0], c.background, S.background[1], 7);
+  for (const [k, n] of Object.entries(S.scores)) { set(S.max(n), c[k], S.score, 8); set(S.cur(n), '', S.score); }
+  set(S.armor[0], c.armor, S.armor[1], 8); set(S.gold[0], c.gold, S.gold[1], 7);
+  for (let i = 0; i < 10; i++) set(S.slot(i), c.slots[i] || '', S.slotSize, 6);
+  for (let i = 0; i < S.pettyN; i++) set(S.petty(i), c.petty[i] || '', S.slotSize - 1, 6);
+  if (S.pettyN && c.petty.length > S.pettyN) warn.push(`${c.petty.length - S.pettyN} petty item${c.petty.length - S.pettyN === 1 ? '' : 's'} won't fit: ${c.petty.slice(S.pettyN).join(', ')}.`);
+  if (c.slots.length > 10) warn.push(`${c.slots.length - 10} item${c.slots.length === 11 ? '' : 's'} won't fit in the 10 slots.`);
+  // Barebones: each trait with its name ("Physique: Rugged"), or alone if that's too long for its field
+  if (S.traits) [...CB.traits.map(t => t.name), 'Age'].forEach((n, i) => { const t = c.traits[i], v = String(t?.value ?? '').trim(), full = v && `${t.label}: ${v}`;
+    set(n, full && fits(full, n, 7) ? full : v, 9, 7); });
+  // notes: as many lines as fit at a readable size, never shrunk
+  const size = S.notes, r = box('Notes'), room = Math.floor((r.height - 4) / (size * 1.2)), lines = [];
+  for (const note of c.notes) { let line = ''; for (const w of clean(note).split(/\s+/).filter(Boolean)) { const next = line ? line + ' ' + w : w; if (!line || font.widthOfTextAtSize(next, size) <= r.width - 4 - (S.notesPad || 0)) line = next; else { lines.push(line); line = w; } } if (line) lines.push(line); }
+  field('Notes').enableMultiline(); set('Notes', lines.slice(0, room).join('\n'), size);
+  if (lines.length > room) warn.push(`Notes is full: ${lines.length - room} line${lines.length - room === 1 ? '' : 's'} won't fit on the printed sheet. Shorten Notes.`);
+  // the sheets' tick boxes keep their own pictures (Barebones' Deprived has one for ticked only, and pdf-lib would draw it a default square)
+  const AP = PDFLib.PDFName.of('AP'), N = PDFLib.PDFName.of('N');
+  const own = form.getFields().filter(f => f instanceof PDFLib.PDFCheckBox).flatMap(f => f.acroField.getWidgets()).map(w => { const ap = w.dict.lookup(AP); return [ap, ap?.get(N)]; }).filter(([, n]) => n);
+  form.updateFieldAppearances(font);
+  for (const [ap, n] of own) ap.set(N, n);
+  return {bytes: await doc.save({updateFieldAppearances: false}), warn};
 }
 document.addEventListener('click', e => {
   if (e.target.id !== 'cbPrint') return;

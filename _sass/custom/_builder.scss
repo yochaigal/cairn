@@ -54,6 +54,7 @@ li.cb-hit { border-radius: 999px; }
 .cb-rows-2 { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); grid-auto-flow: column; grid-template-rows: repeat(10, auto); column-gap: 28px; }
 .cb-rows-2 li:nth-child(11) { border-top: 0; }  /* the second column's first row */
 .cb-rows-tight li { padding: 3px 8px; }
+.cb-rows-range li { grid-template-columns: 6ch minmax(0, 1fr); }  /* a row of a range: "15–19" */
 .cb-rdesc { display: block; margin: 4px 0 .3em; font-size: .92rem; line-height: 1.45; }  /* the gap under its last line matches the one above the name */
 .cb-gear { margin: 0 0 20px; padding-inline-start: 1.2em; }
 .cb-sc-rule { margin: 0 0 16px; }
@@ -168,9 +169,19 @@ li.cb-hit { border-radius: 999px; }
 .cb-fld.cb-f-str, .cb-fld.cb-f-dex, .cb-fld.cb-f-wil { translate: 0 calc(-4 * 100cqw / var(--cw)); }
 .cb-fld.cb-f-hp { translate: 0 calc(-12 * 100cqw / var(--cw)); }
 .cb-card.cb-land .cb-fld { translate: calc(var(--dx, 0) * 100cqw / var(--cw)) calc(var(--dy, 0) * 100cqw / var(--cw)); }
+.cb-card.cb-plain .cb-fld { translate: none; }  /* Barebones' and First Edition's own sheets have no printed rules to sit on: their fields are placed as their PDFs have them */
+.cb-card.cb-plain .cb-multi { justify-content: flex-start; font-weight: 400; }  /* their notes and petty items read as written lines */
+.cb-card.cb-plain .cb-f-name { justify-content: center; padding-left: 0; }  /* the name sits mid-banner, as its PDF field does */
+.cb-card.cb-plain .cb-f-name input { text-align: center; }
 /* Armor and weapon: what the step celebrates, ringed in gold on the sheet */
 .cb-fld.cb-star { outline: 2px solid var(--accent); outline-offset: 1px; border-radius: 3px; box-shadow: 0 0 12px 3px color-mix(in srgb, var(--accent) 55%, transparent); }
 .cb-typed-in { margin-top: 20px; }
+/* Barebones and First Edition: the name field leads its step (its tables follow); name and surname stay side by side; a pick the rules leave open */
+.cb-typed-in:first-child { margin: 0 0 22px; }
+.cb-names-2 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.cb-pick { margin: 18px 0 0; max-width: none; }
+.cb-pick + .cb-traits { margin-top: 22px; }
+.cb-pick legend { margin-bottom: 8px; padding: 0; color: var(--muted); }
 .cb-typed-err { margin: 6px 0 0; color: var(--heading); font-size: .95rem; }
 .cb-typed-err:empty { margin: 0; }  /* an Age message stays in the page, empty, so it's announced when it fills */
 .cb-arms .cb-val small { display: block; margin-top: 2px; color: var(--heading); font-size: .85rem; }
