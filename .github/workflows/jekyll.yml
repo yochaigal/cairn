@@ -48,7 +48,7 @@ jobs:
       # deploy fetches only new ones. A cover that changed behind the same address keeps its old copy: bump v1 to
       # fetch them all again.
       - name: Cover copies
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: .jekyll-cache/cairn-covers
           key: covers-v1-${{ github.run_id }}
