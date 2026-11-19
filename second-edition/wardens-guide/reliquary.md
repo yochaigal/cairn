@@ -119,7 +119,7 @@ grand_parent: Second Edition
 
 ## Nightstone, 1 use
 
-  - Rare moon-shaped stones dredged from underwater caves and jungle dolines. Swallow whole to relieve all fatigue and deprivation as if you had a good night's sleep and a good meal. The stone will eventually pass through your system. It isn't fun.
+  - Rare moon-shaped stones dredged from underwater caves and jungle dolines. Swallow whole to relieve all Fatigue and deprivation as if you had a good night's sleep and a good meal. The stone will eventually pass through your system. It isn't fun.
 
 ## Obliteration Scroll, 1 use, _petty_
 
