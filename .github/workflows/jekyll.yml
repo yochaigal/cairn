@@ -22,12 +22,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       # Scrivener's adventure posts, for the Adventures catalog (_plugins/cairn_adventures.rb). If this fails the
       # site still builds, listing this repo's adventure pages only.
       - name: Checkout Scrivener
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         continue-on-error: true
         with:
           repository: yochaigal/scrivener
@@ -37,7 +37,7 @@ jobs:
       # Kettlewright's background, bond and pet data, for the character builder's Export for Kettlewright
       # (_plugins/cairn_kettlewright.rb). If this fails the site still builds, without the export.
       - name: Checkout Kettlewright
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         continue-on-error: true
         with:
           repository: yochaigal/kettlewright
