@@ -133,19 +133,19 @@ Marius still roams the mansion as a Shambling Mound, spreading moss through ever
 
 ### Dungeon Events
 
-| d4  | Encounters        |                                                                                                                 |
+| d4  | Encounters        | Signs                                                                                                           |
 | --- | ----------------- | --------------------------------------------------------------------------------------------------------------- |
 | 1   | Marius            | **Inside**: Heavy footsteps cause the manor to shudder. Outside: A **dark** figure lurches past an open window. |
 | 2   | Mossling          | A faint giggle is heard from deep in the dark, low to the ground. Something moves in shadow.                    |
 | 3   | Infected Mossling | Nearby plant life shudders ever so slightly. There are streaks of blue shimmering through the green.            |
-| 4   | Isobel            | A sudden drop in temperature followed by an anguished sigh from somewhere nearby.<br>                           |
+| 4   | Isobel            | A sudden drop in temperature followed by an anguished sigh from somewhere nearby.                               |
 
-| d4 | Environment |
-| --- | --- |
-| 1 | The floor is unstable and near-collapse. Make a DEX save or take d4 STR damage from the broken wood. |
-| 2 | Moisture from the ceiling drips down, extinguishing open flames. |
-| 3 | A deep floral scent wafts in from a westerly direction. There is an acidic finish to the smell, followed by nausea. |
-| 4 | A howling wind drifts over the grounds. The manor moans and shifts in response. |
+| d4  | Environment                                                                                                         |
+| --- | ------------------------------------------------------------------------------------------------------------------- |
+| 1   | The floor is unstable and near-collapse. Make a DEX save or take d4 STR damage from the broken wood.                |
+| 2   | Moisture from the ceiling drips down, extinguishing open flames.                                                    |
+| 3   | A deep floral scent wafts in from a westerly direction. There is an acidic finish to the smell, followed by nausea. |
+| 4   | A howling wind drifts over the grounds. The manor moans and shifts in response.                                     |
 
 {::nomarkdown}
 <img
