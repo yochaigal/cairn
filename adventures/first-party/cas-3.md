@@ -14,7 +14,7 @@ The following adventure is available:
 
 _CAS-3: The Feast of Tegny Wood_ is a standalone Cairn Second Edition adventure of disease, duty, and decay, set in a haunted corner of Vald. During the holiday of Bartermoot, traders and Woodfolk meet in uneasy peace.
 
-Yet beneath the revelry, something dark stirs. Deep in Tegny Wood, an alchemist’s failed experiment has festered into an infection that twists flesh and soil into a grotesque parody of life. Meanwhile, something even more terrible is rising in the Wood, and growing ever closer...
+Yet beneath the revelry, something dawrk stirs. Deep in Tegny Wood, an alchemist’s failed experiment has festered into an infection that twists flesh and soil into a grotesque parody of life. Meanwhile, something even more terrible is rising in the Wood, and growing ever closer...
 
 ![CAS-3 Cover](/adventures/first-party/img/cas-3/CAS-3_Cover.webp)
 
@@ -64,14 +64,14 @@ Creatures directly exposed to the Chitin Knight or an infected entity (typically
 
 ## Encounters
 
-| d6 | Encounters                                                                                                                                                                                                                                                                                            |
-|----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1  | Tucked behind a dilapidated shack is a small garden bed. Fat tomato leaves shoot out of the wet dirt. Wrapped inside are tiny baby lambs, still sleeping. The Wood will remember if they are harmed.                                                                                                  |
-| 2  | A young woman lies face up against the ground, breathing heavily. Her skin is tainted bright orange, and small shoots grow from her exposed neck and ankles. She was one of Quill’s followers and is at the final stage of contagion. She knows where he has fled but not how to get there.           |
-| 3  | Bursting out of the dirt is a small metal helm, followed soon after by a short, stocky Fungal Forager. Giving the party a dirty smile, she looks no older than 13. On her waist is a small satchel filled with edible mushrooms, which she’ll gladly sell to the party for 15gp (as Rations, 6 uses). |
-| 4  | A herd of deer race by, heedless of the party. They are trailed by a pair of limping stragglers, fur stained orange with Contagion.                                                                                                                                                                   |
-| 5  | A pair of well-armed women step silently through the Wood, each bearing heavy baskets laden with fruit, meat, and other delicacies. They are Woodfolk and are highly distrustful of outsiders. They know where every path leads. They have families to feed and must return home quickly.             |
-| 6  | The jingle of bells and falling trees announces the imminent appearance of the [Chitin Knight](#chitin-knight). Quick-thinking PCs may hide to avoid contact. If the Knight spots them, it will try to infect them through any means necessary.                                                       |
+| d6  | Encounters                                                                                                                                                                                                                                                                                            |
+| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Tucked behind a dilapidated shack is a small garden bed. Fat tomato leaves shoot out of the wet dirt. Wrapped inside are tiny baby lambs, still sleeping. The Wood will remember if they are harmed.                                                                                                  |
+| 2   | A young woman lies face up against the ground, breathing heavily. Her skin is tainted bright orange, and small shoots grow from her exposed neck and ankles. She was one of Quill’s followers and is at the final stage of contagion. She knows where he has fled but not how to get there.           |
+| 3   | Bursting out of the dirt is a small metal helm, followed soon after by a short, stocky Fungal Forager. Giving the party a dirty smile, she looks no older than 13. On her waist is a small satchel filled with edible mushrooms, which she’ll gladly sell to the party for 15gp (as Rations, 6 uses). |
+| 4   | A herd of deer race by, heedless of the party. They are trailed by a pair of limping stragglers, fur stained orange with Contagion.                                                                                                                                                                   |
+| 5   | A pair of well-armed women step silently through the Wood, each bearing heavy baskets laden with fruit, meat, and other delicacies. They are Woodfolk and are highly distrustful of outsiders. They know where every path leads. They have families to feed and must return home quickly.             |
+| 6   | The jingle of bells and falling trees announces the imminent appearance of the [Chitin Knight](#chitin-knight). Quick-thinking PCs may hide to avoid contact. If the Knight spots them, it will try to infect them through any means necessary.                                                       |                                       |
 
 # Tegny Wood
 
